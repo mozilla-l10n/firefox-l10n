@@ -45,9 +45,6 @@ newtab-topsites-save-button = Guardar
 newtab-topsites-preview-button = Vista previa
 newtab-topsites-add-button = Agregar
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = ¿Está seguro de querer borrar cualquier instancia de esta página del historial?
@@ -102,10 +99,6 @@ newtab-menu-remove-bookmark = Eliminar marcador
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marcador
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -134,10 +127,6 @@ newtab-label-removed-bookmark = Marcador eliminado
 newtab-label-recommended = Tendencias
 newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargada
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -191,6 +180,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Uy! Casi cargamos esta s
 newtab-pocket-read-more = Tópicos populares:
 newtab-pocket-more-recommendations = Más recomendaciones
 newtab-pocket-how-it-works = Cómo funciona
+newtab-pocket-whats-pocket = ¿Qué es { -pocket-brand-name }?
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarde las historias que quiera en { -pocket-brand-name } y potencie su mente con lecturas fascinantes.
 
