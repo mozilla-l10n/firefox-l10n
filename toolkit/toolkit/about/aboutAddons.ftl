@@ -280,6 +280,10 @@ go-back-button =
 remove-addon-button = Sil
 disable-addon-button = Söndür
 enable-addon-button = Aktiv et
+disable-addon-button-label =
+    .aria-label = Söndür
+enable-addon-button-label =
+    .aria-label = Aktiv et
 addons-enabled-heading = Aktivdir
 addons-disabled-heading = Söndürülüb
 
