@@ -74,6 +74,7 @@
 because displayed names don't have the comma in between. -->
 
 <!-- Tools Menu -->
+<!ENTITY messengerCmd.label                             "Posta e gruppos">
 
 <!-- Address Book Toolbar and Context Menus -->
 
