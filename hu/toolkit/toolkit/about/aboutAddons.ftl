@@ -350,6 +350,10 @@ remove-addon-disabled-button = Nem távolítható el <a data-l10n-name="link">Mi
 disable-addon-button = Letiltás
 enable-addon-button = Engedélyezés
 expand-addon-button = További beállítások
+disable-addon-button-label =
+    .aria-label = Letiltás
+enable-addon-button-label =
+    .aria-label = Engedélyezés
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Beállítások
