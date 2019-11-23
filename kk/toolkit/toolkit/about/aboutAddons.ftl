@@ -329,6 +329,10 @@ remove-addon-button = Өшіру
 disable-addon-button = Сөндіру
 enable-addon-button = Іске қосу
 expand-addon-button = Көбірек опциялар
+disable-addon-button-label =
+    .aria-label = Сөндіру
+enable-addon-button-label =
+    .aria-label = Іске қосу
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Баптаулар
