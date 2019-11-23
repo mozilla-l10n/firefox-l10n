@@ -321,6 +321,10 @@ remove-addon-button = Hapus
 disable-addon-button = Nonaktifkan
 enable-addon-button = Aktifkan
 expand-addon-button = Opsi Lainnya
+disable-addon-button-label =
+    .aria-label = Nonaktifkan
+enable-addon-button-label =
+    .aria-label = Aktifkan
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Pengaturan
