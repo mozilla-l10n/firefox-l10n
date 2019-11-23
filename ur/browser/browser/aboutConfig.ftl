@@ -10,6 +10,15 @@ about-config-warning-button = مینے خطرہ قبول کیا
 about-config2-title = اعلی درجے کی تشکیلات
 about-config-search-input =
     .placeholder = تلاش کریں
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-checkbox = مجھے انتباہ کریں جب میں ان ترجیحات تک رسائی حاصل کرنے کی کوشش کروں
+
+
+
+about-config-search-input1 =
+    .placeholder = ترجیحات  کا نام تلاش کریں
 about-config-show-all = تمام دکھائیں
 about-config-pref-add = شامل کریں
 about-config-pref-toggle = ٹوگل کریں
