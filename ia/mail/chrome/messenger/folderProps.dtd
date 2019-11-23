@@ -9,6 +9,10 @@
 
 
 
+<!ENTITY selectofflineNewsgroup.check.label      "Seliger iste gruppo pro uso foras de linea">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "f">
+<!ENTITY offlineNewsgroup.button.label           "Discargar ora">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
 
 
 

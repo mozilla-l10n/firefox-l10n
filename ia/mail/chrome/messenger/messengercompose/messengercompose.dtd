@@ -188,6 +188,7 @@
 <!ENTITY highestPriorityCmd.accesskey "H">
 
 <!-- Tools Menu -->
+<!ENTITY messengerCmd.label "Posta e gruppos">
 <!ENTITY preferencesCmd2.label "Optiones">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferentias">
@@ -229,6 +230,7 @@
 <!ENTITY toAddr.label "A:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY replyAddr.label "Responder a:">
+<!ENTITY newsgroupsAddr.label "Gruppo:">
 <!ENTITY subject.label "Subjecto:">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should

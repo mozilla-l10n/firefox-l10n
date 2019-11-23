@@ -83,7 +83,7 @@
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY deleteFolderCmd.label "Deler dossier">
 <!ENTITY deleteFolderCmd.accesskey "D">
-<!ENTITY unsubscribeNewsgroupCmd.label "Cancellar le inscription">
+<!ENTITY unsubscribeNewsgroupCmd.label "Disabonar se">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "c">
 <!ENTITY selectMenu.label "Seliger">
 <!ENTITY selectMenu.accesskey "S">
@@ -93,6 +93,7 @@
 <!ENTITY selectThreadCmd.accesskey "F">
 <!ENTITY folderPropsCmd2.label "Proprietates">
 <!ENTITY folderPropsFolderCmd2.label "Proprietates del dossier">
+<!ENTITY folderPropsNewsgroupCmd2.label "Proprietates del gruppo">
 <!ENTITY undoDefaultCmd.label "Disfacer">
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refacer">
@@ -140,8 +141,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Responder solmente al expeditor">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd2.label "Responder al gruppo">
-<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY replyNewsgroupCmd2.label "Responder in le gruppo">
+<!ENTITY replyNewsgroupCmd2.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Responder a totes">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -156,6 +157,7 @@
 <!-- Windows Menu -->
 
 <!-- Tools Menu -->
+<!ENTITY messengerCmd.label "Posta e gruppos">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
@@ -193,6 +195,8 @@
 <!-- Folder Pane -->
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextMarkNewsgroupRead.label "Marcar le gruppo como legite">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 
 <!-- Search Bar -->
 
@@ -211,8 +215,8 @@
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextReplySender.label "Responder solmente al expeditor">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "Responder al gruppo">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyNewsgroup2.label "Responder in le gruppo">
+<!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Responder a totes">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "Responder al lista">
@@ -286,6 +290,12 @@
   -->
 
 <!-- Message Header Context Menu -->
+<!ENTITY SubscribeToNewsgroup.label "Abonar se al gruppo">
+<!ENTITY SubscribeToNewsgroup.accesskey "A">
+<!ENTITY CopyNewsgroupName.label "Copiar le nomine del gruppo">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copiar le adresse URL del gruppo">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 
 <!-- Spell checker context menu items -->
 
@@ -298,3 +308,5 @@
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+
+<!-- Content tab Navigation buttons -->

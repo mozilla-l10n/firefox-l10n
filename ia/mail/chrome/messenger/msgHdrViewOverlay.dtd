@@ -4,6 +4,7 @@
 
 <!ENTITY replyToField4.label "Responder a">
 
+<!ENTITY newsgroupsField4.label "Gruppos de discussion">
 <!ENTITY inReplyToField4.label "In responsa a">
 
 <!ENTITY hdrSmartReplyButton1.label "Responsa intelligente">
@@ -13,6 +14,7 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Responder al expeditor e a tote le destinatarios">
 <!ENTITY hdrReplyListButton1.label "Responder al lista">
 <!ENTITY hdrReplyListButton1.tooltip "Responder al lista de diffusion">
+<!ENTITY hdrFollowupButton1.tooltip "Publicar un responsa in iste gruppo">
 
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre monstrar Responder al expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
