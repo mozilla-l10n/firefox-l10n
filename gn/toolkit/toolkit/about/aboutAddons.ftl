@@ -340,6 +340,10 @@ remove-addon-disabled-button = Ndaikatúi emboguete <a data-l10n-name="link">¿M
 disable-addon-button = Pe'a
 enable-addon-button = Mbojuruja
 expand-addon-button = Jeporavorãve
+disable-addon-button-label =
+    .aria-label = Pe'a
+enable-addon-button-label =
+    .aria-label = Mbojuruja
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Jerohoryvéva
