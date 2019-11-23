@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillGeneratedPassword.label  "生成安全密码">
 <!ENTITY fillGeneratedPassword.accesskey "S">
+<!ENTITY useGeneratedPassword.label   "使用生成的安全密码…">
+<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "填充密码">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "填充用户名">
