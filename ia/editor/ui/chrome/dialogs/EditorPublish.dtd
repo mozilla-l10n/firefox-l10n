@@ -50,9 +50,16 @@
 <!ENTITY siteName.tooltip             "Un nomine que identifica iste sito a publicar (p.ex.: 'MiSito')">
 <!ENTITY siteUrl.label                "Adresse de publication (p.ex.: 'ftp://ftp.mifornitor.com/minominedeusator'):">
 <!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip              "Le adresse ftp:// o http:// fornite per tu fornitor de accesso a internet o servicio de allogiamento web">
+<!ENTITY browseUrl.label              "Adresse HTTP de tu pagina initial (p.ex.: 'http://www.mifornitor.com/minominedeusator'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "Le adresse http:// de tu directorio personal (non includer le nomine del file)">
 <!ENTITY username.label               "Nomine del usator:">
 <!ENTITY username.accesskey           "U">
+<!ENTITY username.tooltip             "Le nomine de usator que tu usa pro aperir session a tu fornitor de accesso a internet o servicio de allogiamento web">
 <!ENTITY password.label               "Contrasigno:">
 <!ENTITY password.accesskey           "s">
+<!ENTITY password.tooltip             "Le contrasigno associate a tu nomine de usator">
 <!ENTITY savePassword.label           "Salvar le contrasigno">
 <!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Selige isto pro memorisar tu contrasigno de maniera secur usante le gestor de contrasignos">
