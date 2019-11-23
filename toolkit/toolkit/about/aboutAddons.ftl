@@ -304,6 +304,8 @@ remove-addon-button = Уклони
 disable-addon-button = Онемогући
 enable-addon-button = Омогући
 expand-addon-button = Више опција
+enable-addon-button-label =
+    .aria-label = Омогући
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Подешавања
