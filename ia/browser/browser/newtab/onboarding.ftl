@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Invia instantaneemente schedas a te mesme
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = "Invia schedas" comparti instantaneemente paginas inter tu apparatos sin deber copiar, collar o lassar le navigator.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Comparti rapidemente paginas inter tu apparatos sin deber copiar ligamines o lassar le navigator.
 onboarding-send-tabs-button = Comencia a usar "Invia schedas"
 onboarding-pocket-anywhere-title = Lege e ascolta ubicunque
 onboarding-pocket-anywhere-text2 = Immagazina tu contento favorite con { -pocket-brand-name } pro leger, ascoltar e reguardar sin connexion al momento de tu preferentia.
@@ -137,9 +140,14 @@ onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
 onboarding-lockwise-passwords-text2 = Mantene secur le contrasignos que tu salva e accede facilemente a tu contos con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Discarga le app
+onboarding-lockwise-strong-passwords-title = Crea e immagazina contrasignos forte
+onboarding-lockwise-strong-passwords-text = Con { -lockwise-brand-name } tu pote crear forte  contrasignos e los salvar in un unic posto.
+onboarding-lockwise-strong-passwords-button = Gere tu credentiales
 onboarding-facebook-container-title = Defini limites pro Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de tote le resto. Il es assi plus difficile pro Facebook exploitar tu datos personal pro publicitate.
 onboarding-facebook-container-button = Adder le extension
+onboarding-import-browser-settings-title = Importa tu marcapaginas, contrasignos e altero ancora
+onboarding-import-browser-settings-button = Importar datos de Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

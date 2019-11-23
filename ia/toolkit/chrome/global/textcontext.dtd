@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Insere le authentication">
 <!ENTITY fillLoginMenu.accesskey      "I">
-<!ENTITY fillSuggestedPassword.label  "Usar un contrasigno suggerite">
-<!ENTITY fillSuggestedPassword.accesskey "S">
 <!ENTITY fillGeneratedPassword.label  "Usar un contrasigno generate con securitate">
 <!ENTITY fillGeneratedPassword.accesskey "S">
+<!ENTITY useGeneratedPassword.label   "Usa un contrasigno generate con securitate…">
+<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Insere le contrasigno">
 <!ENTITY fillPasswordMenu.accesskey   "I">
 <!ENTITY fillUsernameMenu.label       "Insere le nomine de usator">
