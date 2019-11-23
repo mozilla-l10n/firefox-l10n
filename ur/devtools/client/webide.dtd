@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "آلہ کی ترتیبات">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
-
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "نظارہ">
@@ -53,6 +52,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "کھولیں ایپلی کیشن">
+
 <!ENTITY runtimeButton_label "منتخب کریں چلنے کی">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -76,7 +76,6 @@
 <!ENTITY runtimePanel_usb "USB کے الات">
 <!ENTITY runtimePanel_wifi "وائی فائی آلات">
 <!ENTITY runtimePanel_other "دیگر">
-<!ENTITY runtimePanel_noadbhelper "ADB مددگار تنصیب کریں">
 <!ENTITY runtimePanel_nousbdevice "آپ کے آلے کو نہیں دیکھ سکتے؟">
 <!ENTITY runtimePanel_refreshDevices_label " الات تازہ کریں">
 
@@ -109,7 +108,7 @@
 <!ENTITY prefs_editor_title "تدوین کار">
 <!ENTITY prefs_general_title "عمومی">
 <!ENTITY prefs_restore "طےشدہ بحال کریں">
-<!ENTITY prefs_manage_components "فالتو جزو بندوبست کریں">
+<!ENTITY prefs_manage_components "اظافی جز کو منظم کریں">
 <!ENTITY prefs_options_autoconnectruntime "پچھلے رن ٹائم سے دوبارہ مربوط">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "پچھلے چلنے کی سے پھر جڑیں جب ویبIDE  شروع  ہو">
 <!ENTITY prefs_options_rememberlastproject "آخری منصوبے یاد رکھیں">
@@ -119,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "چلنے کے وقت معلومات">
-<!ENTITY runtimedetails_adbIsRoot "ADB کی جڑ ہے:">
-<!ENTITY runtimedetails_summonADBRoot "جڑ آلہ">
-<!ENTITY runtimedetails_ADBRootWarning "(کھلے بوٹلوڈر کی طلب ہے)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "غیر محدود DevTools استحقاق:">
-<!ENTITY runtimedetails_requestPrivileges "اعلی استحقاق کی درخواست کریں">
-<!ENTITY runtimedetails_privilegesWarning "(آلہ دوبارہ شروع کرے گا. جڑ تک رسائی کی طلب ہے.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "بولیائی">
