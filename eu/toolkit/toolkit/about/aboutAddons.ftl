@@ -336,6 +336,10 @@ remove-addon-disabled-button = Ezin da kendu <a data-l10n-name="link">Zergatik?<
 disable-addon-button = Desgaitu
 enable-addon-button = Gaitu
 expand-addon-button = Aukera gehiago
+disable-addon-button-label =
+    .aria-label = Desgaitu
+enable-addon-button-label =
+    .aria-label = Gaitu
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Aukerak
