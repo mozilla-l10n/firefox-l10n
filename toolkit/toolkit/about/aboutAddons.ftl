@@ -342,6 +342,10 @@ remove-addon-disabled-button = সরানো যাবে না <a data-l1
 disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
 expand-addon-button = আরও অপশন
+disable-addon-button-label =
+    .aria-label = নিষ্ক্রিয়
+enable-addon-button-label =
+    .aria-label = সক্রিয়
 preferences-addon-button =
     { PLATFORM() ->
         [windows] বিকল্প
