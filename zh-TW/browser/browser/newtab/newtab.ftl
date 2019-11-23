@@ -45,9 +45,6 @@ newtab-topsites-save-button = 儲存
 newtab-topsites-preview-button = 預覽
 newtab-topsites-add-button = 新增
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = 您確定要刪除此頁面的所有瀏覽紀錄？
@@ -99,10 +96,6 @@ newtab-menu-remove-bookmark = 移除書籤
 # Bookmark is a verb here.
 newtab-menu-bookmark = 書籤
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -131,10 +124,6 @@ newtab-label-removed-bookmark = 已移除書籤
 newtab-label-recommended = 熱門
 newtab-label-saved = 已儲存至 { -pocket-brand-name }
 newtab-label-download = 已下載
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -188,6 +177,7 @@ newtab-discovery-empty-section-topstories-timed-out = 唉呀，暫時無法載�
 newtab-pocket-read-more = 熱門主題:
 newtab-pocket-more-recommendations = 更多推薦項目
 newtab-pocket-how-it-works = 原理是什麼
+newtab-pocket-whats-pocket = { -pocket-brand-name } 是什麼？
 newtab-pocket-cta-button = 取得 { -pocket-brand-name }
 newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }，閱讀一篇篇好文章。
 
