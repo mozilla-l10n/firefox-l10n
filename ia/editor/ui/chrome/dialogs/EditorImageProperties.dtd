@@ -40,7 +40,7 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Restringer">
 <!ENTITY constrainCheckbox.accessKey "R">
-<!ENTITY constrainCheckbox.tooltip "Mantener le reporto del aspecto del imagine">
+<!ENTITY constrainCheckbox.tooltip "Mantener le proportiones del imagine">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Mappa imagine">
