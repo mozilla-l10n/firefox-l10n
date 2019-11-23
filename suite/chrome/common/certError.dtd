@@ -43,3 +43,6 @@ vet att det finns ett bra skäl till att webbplatsen inte använder en betrodd i
 <!ENTITY certerror.addException.label "Lägg till undantag…">
 
 <!ENTITY certerror.technical.heading "Tekniska detaljer">
+
+<!ENTITY dnsNotFound.pageTitle "Servern hittades inte">
+<!ENTITY malformedURI.pageTitle "Ogiltig URL">
