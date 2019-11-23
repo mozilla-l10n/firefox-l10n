@@ -16,3 +16,5 @@
 <!ENTITY AlignCenter.label "Centro">
 <!ENTITY AlignRight.label "Dextera">
 
+<!ENTITY RemoveFieldSet.label "Remover gruppo de campos">
+<!ENTITY RemoveFieldSet.accesskey "R">

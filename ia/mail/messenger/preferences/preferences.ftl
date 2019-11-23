@@ -5,10 +5,13 @@
 pane-general-title = General
 general-language-and-appearance-header = Lingua e apparentia
 general-files-and-attachment-header = Files e annexos
+general-tags-header = Etiquettas
 general-updates-header = Actualisationes
+general-network-and-diskspace-header = Rete e spatio sur disco
 composition-category-header = Composition
 composition-attachments-header = Annexos
 privacy-passwords-header = Contrasignos
+privacy-data-collection-header = Collecta e uso de datos
 privacy-security-header = Securitate
 privacy-certificates-title = Certificatos
 chat-pane-header = Chat
