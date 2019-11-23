@@ -349,6 +349,10 @@ remove-addon-disabled-button = Нельзя удалить <a data-l10n-name="li
 disable-addon-button = Отключить
 enable-addon-button = Включить
 expand-addon-button = Другие настройки
+disable-addon-button-label =
+    .aria-label = Отключить
+enable-addon-button-label =
+    .aria-label = Включить
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Настройки
