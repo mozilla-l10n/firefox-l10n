@@ -27,6 +27,7 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Deler toto salvo le plus recente">
 <!ENTITY retentionKeepRecent.accesskey "s">
+<!ENTITY offlineSelectNntp.label "Selige gruppos pro uso foras de linea…">
 <!ENTITY offlineImapAdvancedOffline.label "Avantiate…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Synchronisation de message">

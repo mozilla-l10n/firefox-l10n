@@ -25,4 +25,5 @@
     of messages between them
 -->
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY abbreviate.label "Monstrar le nomines de gruppos in le area de posta como:">
 
