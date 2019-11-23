@@ -346,6 +346,10 @@ remove-addon-disabled-button = Man Tikirel ta Niyuj el <a data-l10n-name="link">
 disable-addon-button = Tichup
 enable-addon-button = Titzij
 expand-addon-button = Ch'aqa' chik taq Cha'oj
+disable-addon-button-label =
+    .aria-label = Tichup
+enable-addon-button-label =
+    .aria-label = Titzij
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Taq cha'oj
