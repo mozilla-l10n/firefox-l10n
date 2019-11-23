@@ -336,6 +336,10 @@ remove-addon-disabled-button = Hindi Matanggal <a data-l10n-name="link">Bakit?</
 disable-addon-button = I-disable
 enable-addon-button = I-enable
 expand-addon-button = Karagdagang Pagpipilian
+disable-addon-button-label =
+    .aria-label = I-disable
+enable-addon-button-label =
+    .aria-label = I-enable
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Mga Pagpipilian
