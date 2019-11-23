@@ -109,8 +109,11 @@ onboarding-mobile-phone-button = הורדת דפדפן לנייד
 onboarding-pocket-anywhere-button = לנסות את { -pocket-brand-name }
 onboarding-lockwise-passwords-title = לקחת את הססמאות שלך לכל מקום
 onboarding-lockwise-passwords-button2 = הורדת היישומון
+onboarding-lockwise-strong-passwords-button = ניהול הכניסות שלך
 onboarding-facebook-container-title = הגדרת גבולות מול Facebook
 onboarding-facebook-container-button = הוספת ההרחבה
+onboarding-import-browser-settings-title = ייבוא הסימניות והססמאות שלך, ועוד
+onboarding-import-browser-settings-button = ייבוא נתוני Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
