@@ -261,6 +261,10 @@ shortcuts-modifier-other = Ctrl හෝ Alt ඇතුලත් කරන්න
 remove-addon-button = ඉවත් කරන්න
 disable-addon-button = අක්‍රීය කරන්න
 enable-addon-button = සක්‍රීය
+disable-addon-button-label =
+    .aria-label = අක්‍රීය කරන්න
+enable-addon-button-label =
+    .aria-label = සක්‍රීය
 addons-enabled-heading = සක්‍රීය කළ
 addons-disabled-heading = අක්‍රීය කළ
 
