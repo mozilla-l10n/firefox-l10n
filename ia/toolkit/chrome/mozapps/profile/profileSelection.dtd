@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Travaliar disconnectite">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "Usar le profilo seligite sin demandar a cata initiar">
+<!ENTITY            useSelected.label       "Usar le profilo seligite sin demandar a cata initio">
 <!ENTITY            useSelected.accesskey   "s">

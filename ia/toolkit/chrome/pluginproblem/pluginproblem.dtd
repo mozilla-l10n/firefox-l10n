@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Tocca ci pro activar le plugin.">
 <!ENTITY clickToActivatePlugin                               "Activar le plugin.">
-<!ENTITY checkForUpdates                                     "Recercar actualisationes…">
+<!ENTITY checkForUpdates                                     "Cercar actualisationes…">
 <!ENTITY blockedPlugin.label                                 "Iste plugin ha essite blocate pro tu protection.">
 <!ENTITY hidePluginBtn.label                                 "Celar le plugin">
 <!ENTITY managePlugins                                       "Gerer le plugins…">
