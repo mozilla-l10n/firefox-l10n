@@ -9,6 +9,8 @@ about-logins-page-title = لاگ ان اور پاس ورڈ
 login-filter =
     .placeholder = لاگ ان تلاش کریں
 create-login-button = نیا لاگ ان بنائیں
+fxaccounts-avatar-button =
+    .title = اکاؤنٹ کا بندوبست کریں
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -16,6 +18,11 @@ menu =
     .title = مینیو کھولیں
 # This menuitem is only visible on Windows
 menu-menuitem-import = پاس ورڈ درآمد کریں…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] اختیارات
+       *[other] ترجیحات
+    }
 about-logins-menu-menuitem-help = مدد
 
 ## Login List
@@ -36,10 +43,13 @@ login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
 login-item-new-login-title = نیا لاگ ان بنائیں
 login-item-edit-button = تدوین کریں
 login-item-delete-button = مٹائیں
+about-logins-login-item-remove-button = ہٹائیں
 login-item-origin-label = ویب سائٹ ایڈریس
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = صارف کا نام
+about-logins-login-item-username =
+    .placeholder = (صارف نام کا نہیں)
 login-item-copy-username-button-text = نقل کریں
 login-item-copied-username-button-text = نقل شدہ!
 login-item-password-label = پاس ورڈ
@@ -61,13 +71,18 @@ master-password-reload-button =
     .label = لاگ ان
     .accesskey = L
 
+## Password Sync notification
+
+confirm-delete-dialog-title = اس لاگ ان کو مٹایں؟
+
 ## Dialogs
 
 confirmation-dialog-cancel-button = منسوخ کریں
 confirmation-dialog-dismiss-button =
     .title = منسوخ کریں
-confirm-delete-dialog-title = اس لاگ ان کو مٹایں؟
+confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
 confirm-delete-dialog-confirm-button = مٹائیں
+about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
 confirm-discard-changes-dialog-confirm-button = رد کريں
 
 ## Breach Alert notification

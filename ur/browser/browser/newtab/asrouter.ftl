@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = سفارش شدا ایکسٹنشن
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = میں یہ کیوں دیکھ رہا ہوں
 cfr-doorhanger-extension-cancel-button = ابھی نہیں
@@ -52,9 +58,41 @@ cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
 ## Firefox Accounts Message
 
 
+## Protections panel
+
+cfr-protections-panel-link-text = مزید سیکھیں
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = نیا کیا ہے
     .tooltiptext = نیا کیا ہے
 cfr-whatsnew-panel-header = نیا کیا ہے
+cfr-whatsnew-tracking-blocked-link-text = رپورٹ ملاحظہ کریں
+cfr-whatsnew-lockwise-backup-title = اپنے پاس ورڈ کا بیک اپ بنائیں
+cfr-whatsnew-lockwise-backup-link-text = بیک اپ کو چالو کریں
+cfr-whatsnew-lockwise-take-title = اپنے پاس ورڈ اپنے ساتھ رکھیں
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = بند کریں
+    .accesskey = چ
+cfr-doorhanger-socialtracking-dont-show-again = مجھے دوبارہ اس طرح کے پیغامات نہ دکھائیں
+    .accesskey = د
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = تمام دیکھیں
+    .accesskey = س

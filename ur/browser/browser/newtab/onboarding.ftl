@@ -22,10 +22,15 @@ onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
 onboarding-join-form-email =
     .placeholder = ای میل درز کریں
 onboarding-join-form-continue = جاری رکھیں
+# Text for link to submit the sign in form
+onboarding-join-form-signin = سائن ان کریں
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 onboarding-cards-dismiss =
     .title = برخاست کریں
     .aria-label = برخاست کریں
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
@@ -42,7 +47,10 @@ onboarding-sync-form-header = اپنی ای میل داخل کریں
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = مفید مصنوعات
 onboarding-benefit-knowledge-title = عملی علم
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

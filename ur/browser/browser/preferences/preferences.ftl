@@ -44,6 +44,9 @@ category-search =
 pane-privacy-title = رازداری اور سلامتی
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } تعاون
 addons-button-label = ایکسٹینشن اور تھیم
 focus-search =
@@ -253,6 +256,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending }{ $type }
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } کو ({ -brand-short-name }) میں استعمال کریں
@@ -278,7 +285,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = عددی حقوق بندرستگی(DRM) مواد
 play-drm-content-learn-more = مزید سیکھیں
@@ -299,6 +306,10 @@ update-enable-search-update =
     .accesskey = e
 update-pref-write-failure-title = لکھیں مے ناکام
 update-in-progress-title = اپ ڈیٹ جاری ہے
+update-in-progress-ok-button = &رد کريں
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &جاری رکھیں
 
 ## General Section - Performance
 
@@ -332,6 +343,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں
     .accesskey = x
+browsing-picture-in-picture-learn-more = مزید سیکھیں
 browsing-cfr-recommendations-learn-more = مزید سیکھیں
 
 ## General Section - Proxy
@@ -571,6 +583,7 @@ logins-header = لاگ ان & پاس ورڈ
 forms-exceptions =
     .label = استثنیات…
     .accesskey = x
+forms-breach-alerts-learn-more-link = مزید سیکھیں
 forms-saved-logins =
     .label = محفوظ شدہ لاگ ان…
     .accesskey = L
@@ -682,7 +695,7 @@ enhanced-tracking-protection-setting-custom =
     .label = مخصوص
     .accesskey = C
 
-##
+
 
 content-blocking-all-cookies = تمام کوکیاں
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
