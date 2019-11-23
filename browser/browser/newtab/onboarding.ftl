@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Envie abas para si mesmo instantaneamente
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = O envio instantâneo de abas compartilha páginas entre seus dispositivos sem precisar copiar, colar ou sair do navegador.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Compartilhe páginas facilmente entre seus dispositivos sem precisar copiar links ou sair do navegador.
 onboarding-send-tabs-button = Comece a usar o envio de abas
 onboarding-pocket-anywhere-title = Leia e ouça em qualquer lugar
 onboarding-pocket-anywhere-text2 = Salve localmente seus conteúdos preferidos com o aplicativo { -pocket-brand-name } e leia, ouça ou assista quando for conveniente para você.
@@ -137,9 +140,14 @@ onboarding-pocket-anywhere-button = Experimente o { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Leve suas senhas para qualquer lugar
 onboarding-lockwise-passwords-text2 = Mantenha seguras as senhas que você salva e entre facilmente em suas contas com o { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Instale o aplicativo
+onboarding-lockwise-strong-passwords-title = Crie e armazene senhas fortes
+onboarding-lockwise-strong-passwords-text = O { -lockwise-brand-name } cria senhas fortes no local e salva todas elas em um só lugar.
+onboarding-lockwise-strong-passwords-button = Gerencie suas contas de acesso
 onboarding-facebook-container-title = Defina limites para o Facebook
 onboarding-facebook-container-text2 = O { -facebook-container-brand-name } mantém seu perfil separado de tudo mais, tornando mais difícil para o Facebook direcionar propaganda para você.
 onboarding-facebook-container-button = Adicionar a extensão
+onboarding-import-browser-settings-title = Importe seus favoritos, senhas e muito mais
+onboarding-import-browser-settings-button = Importar dados do Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
