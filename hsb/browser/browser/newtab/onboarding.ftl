@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Sćelće hnydom rajtarki
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Sen Tabs hnydom strony mjez wašimi gratami dźěli, bjeztoho zo byšće kopěrował, zasadźił abo wobhladowak wopušćił.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Dźělće lochko strony mjez wašimi gratami dźěli, bjeztoho zo byšće wotkazy kopěrował abo wobhladowak wopušćił.
 onboarding-send-tabs-button = Wužiwajće Send Tabs
 onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
 onboarding-pocket-anywhere-text2 = Składujće swój najlubši wobsah offline z nałoženjom { -pocket-brand-name } a čitajće, słuchajće a wobhladajće, hdyžkuli so wam hodźi.
@@ -137,9 +140,13 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
 onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
 onboarding-lockwise-passwords-text2 = Dźeržće hesła, kotrež składujeće, wěste a přizjewće so lochko pola swojich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstarać
+onboarding-lockwise-strong-passwords-title = Mócne hesła wutworić a składować
+onboarding-lockwise-strong-passwords-button = Waše přizjewjenja rjadować
 onboarding-facebook-container-title = Stajće hranicy za Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil dźěleny wot wšeho druheho dźerži. Tak je ćešo za Facebook, wam zaměrne wabjenje pokazać.
 onboarding-facebook-container-button = Rozšěrjenje přidać
+onboarding-import-browser-settings-title = Waše zapołožki, hesła a wjace importować
+onboarding-import-browser-settings-button = Daty Chrome importować
 
 ## Message strings belonging to the Return to AMO flow
 
