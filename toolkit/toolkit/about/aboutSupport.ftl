@@ -147,6 +147,22 @@ intl-locales-default = ডিফল্ট লোকেল
 intl-os-title = অপারেটিং সিস্টেম
 intl-os-prefs-system-locales = সিস্টেম লোকেল
 intl-regional-prefs = আঞ্চলিক পছন্দসমূহ
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = রিমোট ডিবাগিং (ক্রোমিয়াম প্রোটোকল)
+remote-debugging-accepting-connections = সংযোগ গ্রহণ করা হচ্ছে
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
