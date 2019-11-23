@@ -339,6 +339,10 @@ remove-addon-disabled-button = 제거할 수 없음. <a data-l10n-name="link">�
 disable-addon-button = 사용 안 함
 enable-addon-button = 사용함
 expand-addon-button = 옵션 더보기
+disable-addon-button-label =
+    .aria-label = 사용 안 함
+enable-addon-button-label =
+    .aria-label = 사용함
 preferences-addon-button =
     { PLATFORM() ->
         [windows] 설정
