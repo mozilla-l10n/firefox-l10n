@@ -117,7 +117,7 @@ info-known-breaches-found =
 info-exposed-passwords-found =
     { $count ->
         [one] Викритий пароль серед усіх витоків даних
-        [few] Викриті пароліі серед усіх витоків даних
+        [few] Викриті паролі серед усіх витоків даних
        *[many] Викритих паролів серед усіх витоків даних
     }
 full-report-link = Переглянути повний звіт на <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
