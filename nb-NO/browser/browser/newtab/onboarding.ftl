@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Send øyeblikkelig faner til deg selv
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send faner deler øyeblikkelig sider mellom enhetene dine uten å måtte kopiere, lime inn eller forlate nettleseren.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Del sider enkelt mellom enhetene dine uten å måtte kopiere lenker eller forlate nettleseren.
 onboarding-send-tabs-button = Begynn å bruke send fane
 onboarding-pocket-anywhere-title = Les og lytt hvor som helst
 onboarding-pocket-anywhere-text2 = Lagre favorittinnholdet ditt frakoblet med { -pocket-brand-name }-appen. Så kan du lese, lytte og se når det passer deg.
@@ -137,9 +140,14 @@ onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med deg passordene dine overalt
 onboarding-lockwise-passwords-text2 = Oppbevar passordene du lagrer sikkert, og logg deg enkelt inn på kontoene dine med { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Last ned appen
+onboarding-lockwise-strong-passwords-title = Opprett og lagre sterke passord
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } oppretter sterke passord på stedet og lagrer dem alle på ett sted.
+onboarding-lockwise-strong-passwords-button = Behandle dine innlogginger
 onboarding-facebook-container-title = Sett grenser for Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } holder din profil skilt unna alt annet, som gjør det vanskeligere for Facebook å målrette annonser mot deg.
 onboarding-facebook-container-button = Legg til utvidelsen
+onboarding-import-browser-settings-title = Importer dine bokmerker, passord og mer
+onboarding-import-browser-settings-button = Importer Chrome-data
 
 ## Message strings belonging to the Return to AMO flow
 

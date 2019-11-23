@@ -45,9 +45,6 @@ newtab-topsites-save-button = Lagre
 newtab-topsites-preview-button = Forhåndsvis
 newtab-topsites-add-button = Legg til
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Er du sikker på at du vil slette alle forekomster av denne siden fra historikken?
@@ -102,10 +99,6 @@ newtab-menu-remove-bookmark = Fjern bokmerke
 # Bookmark is a verb here.
 newtab-menu-bookmark = Bokmerke
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -134,10 +127,6 @@ newtab-label-removed-bookmark = Bokmerke fjernet
 newtab-label-recommended = Trender
 newtab-label-saved = Lagret til { -pocket-brand-name }
 newtab-label-download = Lastet ned
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -191,6 +180,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Vi lastet nesten denn
 newtab-pocket-read-more = Populære emner:
 newtab-pocket-more-recommendations = Flere anbefalinger
 newtab-pocket-how-it-works = Hvordan det virker
+newtab-pocket-whats-pocket = Hva er { -pocket-brand-name }?
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Lagre artiklene du synes er interessante i { -pocket-brand-name }, og stimuler dine tanker med fasinerende lesermateriell.
 
