@@ -122,14 +122,14 @@ cfr-doorhanger-sync-bookmarks-ok-button = 开启{ -sync-brand-short-name }
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = 不再弄丢密码
+cfr-doorhanger-sync-logins-header = 密码不怕再忘
 cfr-doorhanger-sync-logins-body = 安全地存储密码，并同步到您的所有设备。
 cfr-doorhanger-sync-logins-ok-button = 开启{ -sync-brand-short-name }
     .accesskey = T
 
 ## Send Tab
 
-cfr-doorhanger-send-tab-header = 随时随地阅读
+cfr-doorhanger-send-tab-header = 通勤路上阅读这篇文章
 cfr-doorhanger-send-tab-recipe-header = 把这篇食谱带到厨房
 cfr-doorhanger-send-tab-body = 标签页发送功能可轻松把网页发到手机上打开，任何登录了{ -brand-product-name }服务的设备也都支持。
 cfr-doorhanger-send-tab-ok-button = 试试标签页发送功能
