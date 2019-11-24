@@ -45,3 +45,6 @@ u weet dat er een goede reden is dat deze website geen vertrouwde identificatie 
 <!ENTITY certerror.addException.label "Uitzondering toevoegen…">
 
 <!ENTITY certerror.technical.heading "Technische details">
+
+<!ENTITY dnsNotFound.pageTitle "Server niet gevonden">
+<!ENTITY malformedURI.pageTitle "Ongeldige URL">
