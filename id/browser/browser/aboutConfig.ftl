@@ -15,6 +15,7 @@ about-config-search-input =
 
 about-config-intro-warning-title = Lanjutkan dengan Kehati-hatian
 about-config-intro-warning-text = Mengubah pilihan konfigurasi lebih lanjut dapat mempengaruhi kinerja atau keamanan { -brand-short-name } .
+about-config-intro-warning-checkbox = Peringatkan saya ketika saya mencoba untuk akses berbagai pilihan ini.
 
 
 
