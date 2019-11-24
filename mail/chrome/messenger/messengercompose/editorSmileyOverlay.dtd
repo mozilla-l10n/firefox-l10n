@@ -43,3 +43,15 @@
 <!ENTITY smiley12Cmd.accesskey "z">
 <!ENTITY smiley12Cmd.tooltip "Enmeti vizaĝeton kun dolaroj">
 <!ENTITY smiley13Cmd.label "Grimaco">
+<!ENTITY smiley13Cmd.accesskey "G">
+<!ENTITY smiley13Cmd.tooltip "Enmeti vizaĝeton kun kunpremitaj dentoj">
+<!ENTITY smiley14Cmd.label "Senkulpa">
+<!ENTITY smiley14Cmd.accesskey "u">
+<!ENTITY smiley14Cmd.tooltip "Enmeti senkulpan vizaĝeton">
+<!ENTITY smiley15Cmd.label "Ploro">
+<!ENTITY smiley15Cmd.accesskey "o">
+<!ENTITY smiley15Cmd.tooltip "Enmeti plorantan vizaĝeton">
+<!ENTITY smiley16Cmd.label "Silento">
+<!ENTITY smiley16Cmd.accesskey "t">
+<!ENTITY smiley16Cmd.tooltip "Enmeti zipfermitan vizaĝeton">
+<!ENTITY SmileButton.tooltip "Enmeti emoĝion">
