@@ -45,9 +45,6 @@ newtab-topsites-save-button = Įrašyti
 newtab-topsites-preview-button = Peržiūrėti
 newtab-topsites-add-button = Pridėti
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Ar tikrai norite pašalinti visus šio tinklalapio įrašus iš savo naršymo žurnalo?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Pašalinti iš adresyno
 # Bookmark is a verb here.
 newtab-menu-bookmark = Įrašyti į adresyną
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Adresyno įrašas pašalintas
 newtab-label-recommended = Populiaru
 newtab-label-saved = Įrašyta į „{ -pocket-brand-name }“
 newtab-label-download = Atsiųsta
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oi! Mes beveik įkėlėme 
 newtab-pocket-read-more = Populiarios temos:
 newtab-pocket-more-recommendations = Daugiau rekomendacijų
 newtab-pocket-how-it-works = Kaip tai veikia
+newtab-pocket-whats-pocket = Kas yra „{ -pocket-brand-name }“?
 newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
 
