@@ -45,9 +45,6 @@ newtab-topsites-save-button = Захаваць
 newtab-topsites-preview-button = Перадпрагляд
 newtab-topsites-add-button = Дадаць
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Вы сапраўды жадаеце выдаліць усе запісы аб гэтай старонцы з гісторыі?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Выдаліць закладку
 # Bookmark is a verb here.
 newtab-menu-bookmark = У закладкі
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Закладка выдалена
 newtab-label-recommended = Тэндэнцыі
 newtab-label-saved = Захавана ў { -pocket-brand-name }
 newtab-label-download = Сцягнута
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ой! Мы амаль за
 newtab-pocket-read-more = Папулярныя тэмы:
 newtab-pocket-more-recommendations = Больш рэкамендацый
 newtab-pocket-how-it-works = Як гэта працуе
+newtab-pocket-whats-pocket = Што такое { -pocket-brand-name }?
 newtab-pocket-cta-button = Атрымаць { -pocket-brand-name }
 newtab-pocket-cta-text = Захоўвайце ўлюбёныя гісторыі ў { -pocket-brand-name }, і сілкуйце свой розум добрай чытанкай.
 
