@@ -644,7 +644,7 @@ prefs-sync-now =
 sync-currently-syncing-heading = En este momento está sincronizando estos elementos:
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
-sync-currently-syncing-tabs = Abrir pestañas
+sync-currently-syncing-tabs = Pestañas abiertas
 sync-currently-syncing-logins-passwords = Inicios de sesión y contraseñas
 sync-currently-syncing-addresses = Direcciones
 sync-currently-syncing-creditcards = Tarjetas de crédito
@@ -862,7 +862,7 @@ addressbar-locbar-bookmarks-option =
     .accesskey = d
 addressbar-locbar-openpage-option =
     .label = Abrir pestañas
-    .accesskey = b
+    .accesskey = O
 addressbar-suggestions-settings = Cambiar preferencias para sugerencias de buscadores
 
 ## Privacy Section - Content Blocking
