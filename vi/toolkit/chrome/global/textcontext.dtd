@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Điền thông tin đăng nhập">
 <!ENTITY fillLoginMenu.accesskey      "t">
-<!ENTITY fillSuggestedPassword.label  "Sử dụng mật khẩu được đề xuất">
-<!ENTITY fillSuggestedPassword.accesskey "S">
 <!ENTITY fillGeneratedPassword.label  "Sử dụng mật khẩu được tạo an toàn">
 <!ENTITY fillGeneratedPassword.accesskey "S">
+<!ENTITY useGeneratedPassword.label   "Sử dụng mật khẩu được tạo an toàn…">
+<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Điền mật khẩu">
 <!ENTITY fillPasswordMenu.accesskey   "m">
 <!ENTITY fillUsernameMenu.label       "Điền tên người dùng">
