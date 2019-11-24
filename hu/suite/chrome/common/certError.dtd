@@ -43,3 +43,6 @@ hogy a weboldal miért nem használ megbízható azonosítást.">
 <!ENTITY certerror.addException.label "Kivétel hozzáadása…">
 
 <!ENTITY certerror.technical.heading "Technikai részletek">
+
+<!ENTITY dnsNotFound.pageTitle "A kiszolgáló nem található">
+<!ENTITY malformedURI.pageTitle "Érvénytelen URL">
