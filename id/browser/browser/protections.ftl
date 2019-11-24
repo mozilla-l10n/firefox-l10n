@@ -34,9 +34,3 @@ monitor-link = Cara kerja
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
-bar-tooltip-cryptominer =
-    .title = Penambang Kripto
-    .aria-label =
-        { $count ->
-           *[other] Penambang Kripto
-        }
