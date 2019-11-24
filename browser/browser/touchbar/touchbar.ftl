@@ -13,7 +13,7 @@ find = 찾기
 new-tab = 새 탭
 add-bookmark = 즐겨찾기 추가
 open-bookmarks-sidebar = 즐겨찾기 탐색창 보기
-reader-view = 읽기 모드
+reader-view = 리더뷰
 # Meant to match the string displayed in an empty URL bar.
 open-location = 검색어 또는 주소 입력
 share = 공유
