@@ -141,6 +141,8 @@ cfr-doorhanger-socialtracking-ok-button = Tampilkan Proteksi
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Tutup
     .accesskey = T
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } memblokir pelacak sidik pada laman ini
+cfr-doorhanger-fingerprinters-description = Privasi Anda penting. Kini { -brand-short-name } dapat memblokir pelacak sidik, yang mengumpulkan informasi unik teridentifikasi tentang perangkat yang melacak Anda.
 
 ## Enhanced Tracking Protection Milestones
 

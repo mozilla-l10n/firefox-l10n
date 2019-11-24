@@ -16,7 +16,6 @@ lockwise-title = Jangan pernah lupa kata sandi lagi
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } menyimpan sandi di peramban Anda dengan aman.
 lockwise-header-content-logged-in = Simpan dan sinkronkan sandi dengan aman ke semua perangkat Anda.
-about-logins-view-logins-button = Lihat Info Masuk
 lockwise-no-logins-content = Dapatkan aplikasi <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> untuk membawa kata sandi Anda ke mana-mana.
 manage-devices = Kelola peranti
 # Variables:
@@ -35,3 +34,9 @@ monitor-link = Cara kerja
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cryptominer =
+    .title = Penambang Kripto
+    .aria-label =
+        { $count ->
+           *[other] Penambang Kripto
+        }

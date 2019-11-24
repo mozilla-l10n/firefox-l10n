@@ -67,6 +67,9 @@ permissions-exceptions-content-blocking-window =
     .title = Pengecualian - Pemblokiran Konten
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Anda telah menonaktifkan pemblokiran konten di situs berikut.
+permissions-exceptions-etp-window =
+    .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
