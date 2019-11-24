@@ -32,3 +32,6 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "Добавить исключение…">
 
 <!ENTITY certerror.technical.heading "Технические детали">
+
+<!ENTITY dnsNotFound.pageTitle "Сервер не найден">
+<!ENTITY malformedURI.pageTitle "Некорректный URL">
