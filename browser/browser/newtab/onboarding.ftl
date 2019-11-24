@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Gửi ngay cho chính mình các thẻ
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Gửi thẻ sẽ ngay lập tức chia sẻ các trang giữa các thiết bị của bạn mà không phải sao chép, dán hoặc rời khỏi trình duyệt.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Dễ dàng chia sẻ các trang giữa các thiết bị của bạn mà không phải sao chép liên kết hoặc rời khỏi trình duyệt.
 onboarding-send-tabs-button = Bắt đầu sử dụng trình gửi thẻ
 onboarding-pocket-anywhere-title = Đọc và nghe mọi nơi
 onboarding-pocket-anywhere-text2 = Lưu nội dung yêu thích của bạn ngoại tuyến với ứng dụng { -pocket-brand-name } và đọc, nghe và xem bất cứ khi nào nó tiện lợi cho bạn.
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = Thử { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Mang mật khẩu của bạn đi khắp mọi nơi
 onboarding-lockwise-passwords-text2 = Giữ mật khẩu bạn lưu an toàn và dễ dàng đăng nhập vào tài khoản của bạn bằng { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Tải ứng dụng
+onboarding-lockwise-strong-passwords-title = Tạo và lưu trữ mật khẩu mạnh
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } tạo mật khẩu mạnh ngay tại chỗ và lưu tất cả chúng vào một nơi.
+onboarding-lockwise-strong-passwords-button = Quản lý thông tin đăng nhập của bạn
 onboarding-facebook-container-title = Đặt ranh giới với Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } giữ cho hồ sơ của bạn tách biệt với mọi thứ khác, khiến Facebook khó nhắm mục tiêu quảng cáo của bạn hơn.
 onboarding-facebook-container-button = Thêm phần mở rộng
+onboarding-import-browser-settings-title = Nhập dấu trang, mật khẩu và hơn thế nữa
+onboarding-import-browser-settings-text = Dễ dàng nhập các trang web và cài đặt Chrome.
+onboarding-import-browser-settings-button = Nhập dữ liệu từ Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

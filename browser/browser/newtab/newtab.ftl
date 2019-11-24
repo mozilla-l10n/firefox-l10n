@@ -45,9 +45,6 @@ newtab-topsites-save-button = Lưu lại
 newtab-topsites-preview-button = Xem trước
 newtab-topsites-add-button = Thêm
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Bạn có chắc bạn muốn xóa bỏ mọi thứ của trang này từ lịch sử?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Xóa đánh dấu
 # Bookmark is a verb here.
 newtab-menu-bookmark = Đánh dấu
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Đã xóa dấu trang
 newtab-label-recommended = Xu hướng
 newtab-label-saved = Đã lưu vào { -pocket-brand-name }
 newtab-label-download = Đã tải xuống
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi 
 newtab-pocket-read-more = Các chủ đề phổ biến:
 newtab-pocket-more-recommendations = Nhiều khuyến nghị hơn
 newtab-pocket-how-it-works = Nó hoạt động như thế nào
+newtab-pocket-whats-pocket = { -pocket-brand-name } là gì?
 newtab-pocket-cta-button = Nhận { -pocket-brand-name }
 newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
 
