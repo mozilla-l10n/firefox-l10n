@@ -71,8 +71,16 @@ lockwise-sync-status =
     }
 lockwise-sync-not-syncing-devices = Ulac amtawi d yibenkan nniḍen
 manage-connected-devices = Sefrek ibenkan…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Yeqqen ɣer { $count } n yibenk
+       *[other] Yeqqen ɣer { $count } n yibenkan
+    }
 monitor-title = Sers allen-ik ɣef trewla n yisefka.
 monitor-link = Amek iteddu
+monitor-header-content-no-account = Ddu ɣer { -monitor-brand-name } akken ad wali ḍ ma tella trewla n yisefka i k-iḥuzan daɣen akken ad tremseḍ ilɣa ticki llant trewliwi timaynutin.
 monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
 auto-scan = Yettwasenqed ass-a akken iwata
 # This string is displayed after a large numeral that indicates the total number

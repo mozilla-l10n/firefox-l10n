@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Azen i yiman-ik accaren-ik
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Tuzna n yiccaren ad yebḍu isebtar gar yibenkan-ik s war anɣal, asenṭeḍ neɣ tuffɣa seg yiminig.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Bḍu isebtar s wudem fessusen gar yibenkan-ik war ma tneɣleḍ iseɣwan neɣ ad teffɣeḍ seg yiminig.
 onboarding-send-tabs-button = Bdu aseqdec n Send Tabs
 onboarding-pocket-anywhere-title = Ɣer daɣe sel, s kra wanida telliḍ.
 onboarding-pocket-anywhere-text2 = Sekles igburen-ik inurifen s war tuqqna s usnas { -pocket-brand-name } i tɣuri, awali neɣ timesliwt melmi i tebɣiḍ.
@@ -137,9 +140,13 @@ onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Awi awalen uffiren-ik anida tebɣiḍ
 onboarding-lockwise-passwords-text2 = Ḥrez awalen-ik uffiren d iɣelsanen daɣen qqen s wudem ɣer yimiḍanen-ik s { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Awi asnas
+onboarding-lockwise-strong-passwords-title = Rnu daɣen sekles awalen uffiren iǧehden
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }irennu awalen uffiren s wudem fessusen daɣen iseklas-iten meṛṛa deg yiwen n umḍiq.
+onboarding-lockwise-strong-passwords-button = Sefrek inekcumen-ik
 onboarding-facebook-container-title = Err talast i Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ad yeḥrez amaɣnu-ik yeɛzel ɣef yismal-nniḍen. Ihi ad yuɣal yewɛeṛ i Facebook akken ad ak-d-yazen adellel i ak-ulmen.
 onboarding-facebook-container-button = Rnu asiɣzef
+onboarding-import-browser-settings-title = Kter ticraḍ-ik n yisebtar, awalen-ik uffiren, d wayen-nniḍen
 
 ## Message strings belonging to the Return to AMO flow
 

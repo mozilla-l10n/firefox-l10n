@@ -45,9 +45,6 @@ newtab-topsites-save-button = Sekles
 newtab-topsites-preview-button = Taskant
 newtab-topsites-add-button = Rnu
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Tebɣiḍ ad tekksed yal tummant n usebter-agi seg umazray-ik?
@@ -99,10 +96,6 @@ newtab-menu-remove-bookmark = Kkes tacreṭ-agi
 # Bookmark is a verb here.
 newtab-menu-bookmark = Creḍ asebter-agi
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -131,10 +124,6 @@ newtab-label-removed-bookmark = Tacreṭ n usebter tettwakkes
 newtab-label-recommended = Tiddin
 newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
 newtab-label-download = Yuli-d
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -188,6 +177,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ihuh! Waqil tigezmi ur d-t
 newtab-pocket-read-more = Isental ittwasnen aṭas:
 newtab-pocket-more-recommendations = Ugar n iwellihen
 newtab-pocket-how-it-works = Amek iteddu
+newtab-pocket-whats-pocket = D acu-t { -pocket-brand-name }?
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
 
