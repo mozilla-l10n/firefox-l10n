@@ -51,12 +51,25 @@
 <!ENTITY cellVertical.label               "Vertikale:">
 <!ENTITY cellVertical.accessKey           "V">
 <!ENTITY cellStyle.label                  "Stilo de ĉelo:">
-<!ENTITY cellStyle.accessKey              "t">
+<!ENTITY cellStyle.accessKey              "i">
 <!ENTITY cellNormal.label                 "norma">
 <!ENTITY cellHeader.label                 "titolo">
 <!ENTITY cellTextWrap.label               "Faldi tekston:">
 <!ENTITY cellTextWrap.accessKey           "F">
 <!ENTITY cellWrap.label                   "jes">
 <!ENTITY cellNoWrap.label                 "ne">
+<!ENTITY cellAlignTop.label               "supren">
+<!ENTITY cellAlignMiddle.label            "mezen">
+<!ENTITY cellAlignBottom.label            "malsupren">
+<!ENTITY cellAlignJustify.label           "ambaŭflanken">
+<!ENTITY cellInheritColor.label           "(malmarku, por ke estu videbla fono de la tabelo)">
+<!ENTITY cellUseCheckboxHelp.label        "Uzu markbutonojn por elekti kiujn atributojn estos aplikitaj al ĉiuj elektitaj ĉeloj">
 
 <!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Grando">
+<!ENTITY pixels.label                     "rastrumeroj">
+<!ENTITY backgroundColor.label            "Koloro de fono:">
+<!ENTITY backgroundColor.accessKey        "K">
+<!ENTITY AlignLeft.label                  "maldekstren">
+<!ENTITY AlignCenter.label                "centren">
+<!ENTITY AlignRight.label                 "dekstren">
