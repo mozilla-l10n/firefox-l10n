@@ -42,7 +42,7 @@ profiles-rename-profile = Renominar le profilo { $name }
 profiles-invalid-profile-name-title = Nomine de profilo invalide
 # Variables:
 #   $name (String) - Name of the profile
-profiles-invalid-profile-name = Le nomine de profilo “{ $name }” non es consentite.
+profiles-invalid-profile-name = Le nomine de profilo “{ $name }” non es permittite.
 profiles-delete-profile-title = Deler le profilo
 # Variables:
 #   $dir (String) - Path to be displayed

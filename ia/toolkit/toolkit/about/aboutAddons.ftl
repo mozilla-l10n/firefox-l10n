@@ -98,7 +98,7 @@ detail-update-manual =
     .tooltiptext = Non installar automaticamente le actualisationes
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Execution in fenestras private
-detail-private-browsing-description2 = Quando consentite, le extension habera accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
+detail-private-browsing-description2 = Quando permittite, le extension habera accesso a tu activitates in linea durante le navigation private. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Non permittite in fenestras private
@@ -109,11 +109,11 @@ detail-private-required-label = Require accesso a fenestras private
 detail-private-required-description = Iste extension ha accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>.
 detail-private-required-description2 = Iste extension ha accesso a tu activitates in rete durante le navigation anonyme. <a data-l10n-name="learn-more">Saper plus</a>.
 detail-private-browsing-on =
-    .label = Consentir
-    .tooltiptext = Activar in navigation anonime
+    .label = Permitter
+    .tooltiptext = Activar in navigation private
 detail-private-browsing-off =
-    .label = Non consentir
-    .tooltiptext = Disactiva in navigation priovate
+    .label = Non permitter
+    .tooltiptext = Disactivar in navigation private
 detail-home =
     .label = Pagina initial
 detail-home-value =
@@ -156,7 +156,7 @@ legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Iste extensiones non satisface le normas actual de { -brand-short-name } e ha essite disactivate. <label data-l10n-name="legacy-learn-more">Saper lo que cambiava al additivos</label>
-private-browsing-description2 = { -brand-short-name } cambia le functionamento del extensiones in Navigation private. Omne nove extensiones que tu adde a { -brand-short-name } normalmente non se executara in le Fenestras private. Si tu non lo permitte in le configuration, le extension non functionara in Navigation private e non habera accesso a tu activitates online illac. Nos ha facite iste cambio pro mantener private tu navigation private. <label data-l10n-name="private-browsing-learn-more">Discoperi como configurar le extensiones.</label>
+private-browsing-description2 = { -brand-short-name } cambia le functionamento del extensiones in le navigation private. Omne nove extensiones que tu adde a { -brand-short-name } normalmente non se executara in le fenestras private. Si tu non lo permitte in le configuration, le extension non functionara in le navigation private e non habera accesso a tu activitates in linea illac. Nos ha facite iste cambio pro mantener private tu navigation private. <label data-l10n-name="private-browsing-learn-more">Discoperi como configurar le extensiones.</label>
 extensions-view-discopane =
     .name = Recommendationes
     .tooltiptext = { extensions-view-discopane.name }
@@ -410,11 +410,11 @@ addon-badge-private-browsing-allowed =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Consentite in navigation anonyme
+    .title = Permittite in fenestras private
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Quando permittite, le extension habera accesso a tu activitates in linea durante le navigation private. <a data-l10n-name="learn-more">Saper plus</a>
-addon-detail-private-browsing-allow = Consentir
-addon-detail-private-browsing-disallow = Non consentir
+addon-detail-private-browsing-allow = Permitter
+addon-detail-private-browsing-disallow = Non permitter
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
