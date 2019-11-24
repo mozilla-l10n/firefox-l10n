@@ -138,3 +138,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Setel sebagai Mesin Pencari Baku
     .accesskey = B
+search-one-offs-context-set-as-default-private =
+    .label = Jadikan Mesin Pencari Baku untuk Jendela Privat
+    .accesskey = P

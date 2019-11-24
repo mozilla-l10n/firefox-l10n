@@ -45,9 +45,6 @@ newtab-topsites-save-button = Simpan
 newtab-topsites-preview-button = Pratinjau
 newtab-topsites-add-button = Tambah
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Yakin ingin menghapus setiap bagian dari laman ini dari riwayat Anda?
@@ -83,14 +80,17 @@ newtab-menu-delete-history = Hapus dari Riwayat
 newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
 newtab-menu-archive-pocket = Arsip di { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Selesai
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Hapus Markah
 # Bookmark is a verb here.
 newtab-menu-bookmark = Markah
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +120,6 @@ newtab-label-removed-bookmark = Markah dihapus
 newtab-label-recommended = Trending
 newtab-label-saved = Disimpan di { -pocket-brand-name }
 newtab-label-download = Terunduh
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
