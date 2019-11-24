@@ -141,11 +141,13 @@ onboarding-lockwise-passwords-title = Wzmiće swoje hesła wšudźe sobu
 onboarding-lockwise-passwords-text2 = Dźeržće hesła, kotrež składujeće, wěste a přizjewće so lochko pola swojich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstarać
 onboarding-lockwise-strong-passwords-title = Mócne hesła wutworić a składować
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } hnydom sylne hesła wutworja a składuje je na jednym městnje.
 onboarding-lockwise-strong-passwords-button = Waše přizjewjenja rjadować
 onboarding-facebook-container-title = Stajće hranicy za Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil dźěleny wot wšeho druheho dźerži. Tak je ćešo za Facebook, wam zaměrne wabjenje pokazać.
 onboarding-facebook-container-button = Rozšěrjenje přidać
 onboarding-import-browser-settings-title = Waše zapołožki, hesła a wjace importować
+onboarding-import-browser-settings-text = Započńće hnydom - wzmiće swoje sydła Chrome a nastajenja sobu.
 onboarding-import-browser-settings-button = Daty Chrome importować
 
 ## Message strings belonging to the Return to AMO flow
