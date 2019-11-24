@@ -237,7 +237,7 @@ download-always-ask-where =
     .label = 파일 저장 위치 항상 묻기
     .accesskey = A
 applications-header = 응용 프로그램
-applications-description = { -brand-short-name } 가 다운로드 받은 파일이나 브라우저에서 사용하고 있는 응용프로그램에 대해 어떻게 처리할 지 선택하십시오.
+applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 응용 프로그램을 처리하는 방법을 선택하십시오.
 applications-filter =
     .placeholder = 파일 형식 또는 응용 프로그램 검색
 applications-type-column =
@@ -304,7 +304,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = 디지털 권리 관리(DRM) 콘텐츠
 play-drm-content =
@@ -568,6 +568,9 @@ sync-signedout-account-create = 계정이 없으신가요? 시작하세요
 sync-signedout-account-signin =
     .label = 로그인…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name }에 로그인…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -715,6 +718,7 @@ privacy-header = 브라우저 개인정보
 ## Privacy Section - Logins and Passwords
 
 logins-header = 로그인과 비밀번호
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = 웹사이트의 로그인과 비밀번호를 기억할지 묻기
     .accesskey = r
@@ -728,6 +732,7 @@ forms-breach-alerts =
     .label = 유출된 웹 사이트의 비밀번호에 대한 경고 표시
     .accesskey = b
 forms-breach-alerts-learn-more-link = 더 알아보기
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = 로그인과 비밀번호 자동완성
     .accesskey = i
@@ -882,7 +887,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 사용자 지정
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.

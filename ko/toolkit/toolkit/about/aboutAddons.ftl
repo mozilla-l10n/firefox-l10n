@@ -440,6 +440,7 @@ theme-heading = 테마 관리
 plugin-heading = 플러그인 관리
 dictionary-heading = 사전 관리
 locale-heading = 언어 관리
+updates-heading = 업데이트 관리
 discover-heading = { -brand-short-name } 개인화
 shortcuts-heading = 확장기능 단축키 관리
 theme-heading-search-label = 더 많은 테마

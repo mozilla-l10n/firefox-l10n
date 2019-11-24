@@ -45,9 +45,6 @@ newtab-topsites-save-button = 저장
 newtab-topsites-preview-button = 미리보기
 newtab-topsites-add-button = 추가
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = 정말 이 페이지의 모든 인스턴스를 기록에서 지우겠습니까?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = 즐겨찾기 삭제
 # Bookmark is a verb here.
 newtab-menu-bookmark = 즐겨찾기
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = 북마크 삭제됨
 newtab-label-recommended = 트랜드
 newtab-label-saved = { -pocket-brand-name }에 저장됨
 newtab-label-download = 다운로드됨
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거�
 newtab-pocket-read-more = 인기 주제:
 newtab-pocket-more-recommendations = 더 많은 추천
 newtab-pocket-how-it-works = 사용 방법
+newtab-pocket-whats-pocket = { -pocket-brand-name }은 무엇인가요?
 newtab-pocket-cta-button = { -pocket-brand-name } 받기
 newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
 

@@ -137,9 +137,15 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name }을 사용해보세요
 onboarding-lockwise-passwords-title = 어디서나 비밀번호를 사용
 onboarding-lockwise-passwords-text2 = { -lockwise-brand-name }로 저장한 비밀번호를 안전하게 유지하고 계정에 쉽게 로그인하십시오.
 onboarding-lockwise-passwords-button2 = 앱 다운로드
+onboarding-lockwise-strong-passwords-title = 강력한 비밀번호 생성 및 저장
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }는 즉석에서 강력한 비밀번호를 만들고 모든 비밀번호를 한 곳에 저장합니다.
+onboarding-lockwise-strong-passwords-button = 로그인 관리
 onboarding-facebook-container-title = Facebook 경계 설정
 onboarding-facebook-container-text2 = { -facebook-container-brand-name }는 프로필을 다른 것과 구분하여 유지하므로 Facebook이 사용자를 구분하여 광고하는 것을 어렵게 만듭니다.
 onboarding-facebook-container-button = 확장 기능 추가
+onboarding-import-browser-settings-title = 북마크, 비밀번호 등을 가져오기
+onboarding-import-browser-settings-text = Chrome 사이트와 설정을 쉽게 가져올 수 있습니다.
+onboarding-import-browser-settings-button = Chrome 데이터 가져오기
 
 ## Message strings belonging to the Return to AMO flow
 
