@@ -13,7 +13,7 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Подробнее
-onboarding-button-label-try-now = Попробовать сейчас
+onboarding-button-label-try-now = Попробуйте сейчас
 onboarding-button-label-get-started = Начало работы
 
 ## Welcome modal dialog strings
@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Мгновенно отправляйте вкла�
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs мгновенно обменивается страницами между вашими устройствами без необходимости копирования, вставки или выхода из браузера.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Легко обменивайтесь страницами между вашими устройствами, не копируя ссылки или выходя из браузера.
 onboarding-send-tabs-button = Начать использовать отправку вкладок
 onboarding-pocket-anywhere-title = Читайте и слушайте, где бы вы не находились
 onboarding-pocket-anywhere-text2 = Сохраняйте ваши любимые статьи с помощью { -pocket-brand-name } и читайте, слушайте или просматривайте их даже без Интернета в любое удобное для вас время.
@@ -137,9 +140,14 @@ onboarding-pocket-anywhere-button = Попробовать { -pocket-brand-name 
 onboarding-lockwise-passwords-title = Возьмите свои пароли с собой
 onboarding-lockwise-passwords-text2 = Храните пароли в безопасности и легко входите в аккаунты с помощью { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Загрузить приложение
+onboarding-lockwise-strong-passwords-title = Создавайте и храните надежные пароли
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } мгновенно создает надежные пароли и хранит их в одном месте.
+onboarding-lockwise-strong-passwords-button = Управляйте своими логинами
 onboarding-facebook-container-title = Установите границы для Фейсбука
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } отделяет ваш профиль от всего остального, затрудняя Фейсбуку отслеживание вас для показа целевой рекламы.
 onboarding-facebook-container-button = Установить расширение
+onboarding-import-browser-settings-title = Импортируйте свои закладки, пароли и многое другое
+onboarding-import-browser-settings-button = Импортируйте данные из Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
