@@ -901,7 +901,7 @@ enhanced-tracking-protection-setting-strict =
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
     .label = Personalizada
-    .accesskey = C
+    .accesskey = z
 
 
 
