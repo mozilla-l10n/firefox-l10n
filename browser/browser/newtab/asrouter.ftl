@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = oleh { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasi
+cfr-doorhanger-extension-notification2 = Rekomendasi
+    .tooltiptext = Rekomendasi ekstensi
+    .a11y-announcement = Rekomendasi ekstensi tersedia
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Rekomendasi
+    .tooltiptext = Rekomendasi fitur
+    .a11y-announcement = Rekomendasi fitur tersedia
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -112,18 +120,34 @@ cfr-doorhanger-sync-bookmarks-header = Dapatkan markah ini di telepon Anda
 
 cfr-doorhanger-sync-logins-header = Jangan Pernah Kehilangan Kata Sandi Lagi
 cfr-doorhanger-sync-logins-body = Simpan dan sinkronkan kata sandi Anda dengan aman ke semua peranti Anda.
+cfr-doorhanger-sync-logins-ok-button = Aktifkan { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Baca ini saat bepergian
+cfr-doorhanger-send-tab-ok-button = Coba Kirim Tab
+    .accesskey = K
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Bagikan PDF ini dengan aman
+cfr-doorhanger-firefox-send-ok-button = Coba { -send-brand-name }
+    .accesskey = C
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Tampilkan Proteksi
+    .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Tutup
     .accesskey = T
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } diblokir dari { $blockedCount }</b> pelacak sejak { $date }!
+    }
