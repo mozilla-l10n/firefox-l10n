@@ -32,7 +32,7 @@
 <!ENTITY fillGeneratedPassword.label  "Använd ett säkert genererat lösenord">
 <!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY useGeneratedPassword.label   "Använd ett säkert genererat lösenord…">
-<!ENTITY useGeneratedPassword.accesskey "S">
+<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Fyll i lösenord">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Fyll i användarnamn">
