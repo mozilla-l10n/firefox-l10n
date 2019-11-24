@@ -189,6 +189,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의한 차단">
 <!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 &brandShortName;가 차단했습니다.</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options 정책에 의해 차단됨">
+<!ENTITY xfoBlocked.longDesc "<p>페이지에 허용하지 않는 X-Frame-Options 정책이 있으므로 &brandShortName;가 이 컨텍스트에서 이 페이지를 로드하지 못했습니다.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "손상된 콘텐츠 오류">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여서 페이지를 표시할 수 없습니다.</p><ul><li>이 문제를 웹사이트 소유자에게 알려주세요.</li></ul>">
 

@@ -74,12 +74,14 @@ login-intro-description = 다른 기기에 { -brand-product-name }의 로그인�
 login-intro-instruction-fxa = 로그인이 저장된 기기에서 { -fxaccount-brand-name }을 만들거나 로그인하십시오
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } 설정에서 로그인 확인란을 선택했는지 확인하십시오
 about-logins-intro-instruction-help = 더 많은 도움이 필요하면 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 지원</a>을 방문하십시오
+about-logins-intro-import = 로그인이 다른 브라우저에 저장된 경우, <a data-l10n-name="import-link">{ -lockwise-brand-short-name }로 가져올 수 있습니다</a>
 
 ## Login
 
 login-item-new-login-title = 새 로그인 만들기
 login-item-edit-button = 편집
 login-item-delete-button = 삭제
+about-logins-login-item-remove-button = 삭제
 login-item-origin-label = 웹 사이트 주소
 login-item-origin =
     .placeholder = https://www.example.com
@@ -123,6 +125,7 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } 설정 방문
         }
     .accesskey = V
+confirm-delete-dialog-title = 이 로그인을 삭제하시겠습니까?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = 다시 묻지 않기
     .accesskey = D
@@ -132,9 +135,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = 취소
 confirmation-dialog-dismiss-button =
     .title = 취소
-confirm-delete-dialog-title = 이 로그인을 삭제하시겠습니까?
+about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 confirm-delete-dialog-confirm-button = 삭제
+about-logins-confirm-remove-dialog-confirm-button = 삭제
 confirm-discard-changes-dialog-title = 저장되지 않은 변경 사항을 버리시겠습니까?
 confirm-discard-changes-dialog-message = 저장되지 않은 모든 변경 사항을 잃게 됩니다.
 confirm-discard-changes-dialog-confirm-button = 버리기

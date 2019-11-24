@@ -16,6 +16,7 @@ auto-refresh = 3초마다 자동 새로고침
 hostname = 호스트명
 port = 포트
 http2 = HTTP/2
+about-networking-http-version = HTTP 버전
 ssl = SSL
 active = 활성
 idle = 대기
@@ -64,7 +65,7 @@ networkid-id = 네트워크 ID
 ## Link is intended as "network link"
 
 networkid-isUp = 링크가 작동 중
-networkid-statusKnown = 링크 상태가 알려져 있습니다
+networkid-statusKnown = 링크 상태가 알려져 있음
 
 
 
