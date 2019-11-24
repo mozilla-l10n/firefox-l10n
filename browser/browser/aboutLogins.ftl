@@ -82,6 +82,7 @@ about-logins-intro-import = Nëse kredencialet tuaj për hyrje janë ruajtur në
 login-item-new-login-title = Krijoni Kredenciale të Reja Hyrjesh
 login-item-edit-button = Përpunoni
 login-item-delete-button = Fshije
+about-logins-login-item-remove-button = Hiqi
 login-item-origin-label = Adresë sajti
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Vizitoni Parapëlqime { -sync-brand-short-name }
         }
     .accesskey = V
+confirm-delete-dialog-title = Të fshihen këto kredenciale hyrjesh?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Mos më pyet më
     .accesskey = M
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Anuloje
 confirmation-dialog-dismiss-button =
     .title = Anulim
-confirm-delete-dialog-title = Të fshihen këto kredenciale hyrjesh?
+about-logins-confirm-remove-dialog-title = Të hiqen këto kredenciale hyrjesh?
 confirm-delete-dialog-message = Ky veprim nuk mund të zhbëhet.
 confirm-delete-dialog-confirm-button = Fshije
+about-logins-confirm-remove-dialog-confirm-button = Hiqi
 confirm-discard-changes-dialog-title = Të hidhen tej këto ndryshime?
 confirm-discard-changes-dialog-message = Do të humbin krejt ndryshimet e paruajtura.
 confirm-discard-changes-dialog-confirm-button = Hidhe tej
