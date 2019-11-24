@@ -45,9 +45,6 @@ newtab-topsites-save-button = Bewarje
 newtab-topsites-preview-button = Foarbyld
 newtab-topsites-add-button = Tafoegje
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Binne jo wis dat jo elke ferwizing fan dizze side út jo skiednis fuortsmite wolle?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Blêdwizer fuortsmite
 # Bookmark is a verb here.
 newtab-menu-bookmark = Blêdwizer
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Blêdwizer fuortsmiten
 newtab-label-recommended = Trending
 newtab-label-saved = Bewarre nei { -pocket-brand-name }
 newtab-label-download = Download
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksj
 newtab-pocket-read-more = Populêre ûnderwerpen:
 newtab-pocket-more-recommendations = Mear oanrekommandaasjes
 newtab-pocket-how-it-works = Hoe it wurket
+newtab-pocket-whats-pocket = Wat is { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } brûke
 newtab-pocket-cta-text = Bewarje de ferhalen dy't jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
 

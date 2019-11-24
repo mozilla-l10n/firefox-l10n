@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Oanmelding ynfolje">
 <!ENTITY fillLoginMenu.accesskey      "y">
-<!ENTITY fillSuggestedPassword.label  "In foarsteld wachtwurd brûke">
-<!ENTITY fillSuggestedPassword.accesskey "I">
 <!ENTITY fillGeneratedPassword.label  "In feilich oanmakke wachtwurd brûke">
 <!ENTITY fillGeneratedPassword.accesskey "f">
+<!ENTITY useGeneratedPassword.label   "In feilich oanmakke wachtwurd brûke…">
+<!ENTITY useGeneratedPassword.accesskey "I">
 <!ENTITY fillPasswordMenu.label       "Wachtwurd ynfolje">
 <!ENTITY fillPasswordMenu.accesskey   "y">
 <!ENTITY fillUsernameMenu.label       "Brûkersnamme ynfolje">
