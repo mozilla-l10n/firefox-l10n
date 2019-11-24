@@ -70,6 +70,7 @@ abuse-report-settings-suggestions = 확장기능을 신고하기 전에 설정�
 abuse-report-settings-suggestions-search = 기본 검색 설정 변경
 abuse-report-settings-suggestions-homepage = 홈페이지 및 새 탭 변경
 abuse-report-deceptive-reason = 아무 것도 아닌 척합니다
+abuse-report-deceptive-reason-v2 = 다른 것인 척 합니다
 abuse-report-deceptive-example = 예: 오해의 소지가 있는 설명 또는 이미지
 abuse-report-broken-reason-extension = 작동하지 않거나 웹 사이트를 손상시키거나 { -brand-product-name }를 느리게합니다
 abuse-report-broken-reason-theme = 작동하지 않거나 브라우저 표시를 손상시킵니다

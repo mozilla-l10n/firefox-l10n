@@ -130,6 +130,9 @@ onboarding-send-tabs-title = 즉시 탭 보내기
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = 탭 보내기는 복사나 붙여넣기, 브라우저를 나가지 않고도 내 기기들로 페이지를 즉시 공유합니다.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = 링크를 복사하거나 브라우저를 떠나지 않고도 다른 기기에 페이지를 쉽게 공유 할 수 있습니다.
 onboarding-send-tabs-button = 탭 보내기 사용 시작
 onboarding-pocket-anywhere-title = 어디서나 읽고 듣기
 onboarding-pocket-anywhere-text2 = { -pocket-brand-name } 앱으로 좋아하는 콘텐츠를 오프라인에 저장하고 편리할 때마다 읽고, 듣고, 시청할 수 있습니다.
