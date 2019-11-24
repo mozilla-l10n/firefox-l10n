@@ -56,15 +56,19 @@ certificate-viewer-business-category = Kategori Biznesi
 certificate-viewer-subject-name = Emër Subjekti
 certificate-viewer-issuer-name = Emër Lëshuesi
 certificate-viewer-validity = Vlefshmëri
+certificate-viewer-subject-alt-names = Emra Alternativë Subjekti
 certificate-viewer-public-key-info = Të dhëna Kyçi Publik
 certificate-viewer-miscellaneous = Të ndryshme
 certificate-viewer-fingerprints = Shenja gishtash
+certificate-viewer-basic-constraints = Kufizime Elementare
 certificate-viewer-key-usages = Përdorime Kyçe
 certificate-viewer-extended-key-usages = Përdorime të Zgjeruara Kyçi
 certificate-viewer-subject-key-id = ID Kyçi Subjekti
 certificate-viewer-authority-key-id = ID Kyçi Autoriteti
 certificate-viewer-authority-info-aia = Të dhëna Autoriteti (AIA)
 certificate-viewer-certificate-policies = Rregulla Dëshmish
+certificate-viewer-embedded-scts = SCT-ra të Trupëzuara
+certificate-viewer-crl-endpoints = Pikëmbarime CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Shkarkoje
@@ -80,3 +84,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (dëshmi)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (zinxhir)
+    .download = { $fileName }-chain.pem

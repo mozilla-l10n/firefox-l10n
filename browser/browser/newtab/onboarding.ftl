@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Dërgojini Vetes Skeda Aty Për Aty
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Me Dërgim Skedash bëni ndarje të menjëhershme faqesh mes pajisjeve tuaja pa u dashur të kopjoni, ngjitni, apo të braktisni shfletuesin.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Ndani lehtësisht faqe mes pajisjeve tuaja pa u dashur të kopjoni lidhje apo të braktisni shfletuesin.
 onboarding-send-tabs-button = Filloni të përdorni Dërgim Skedash
 onboarding-pocket-anywhere-title = Lexoni dhe Dëgjoni Kudo
 onboarding-pocket-anywhere-text2 = Ruani jashtë interneti lëndën tuaj të parapëlqyer, me aplikacionin  { -pocket-brand-name } dhe lexojeni, dëgjojeni apo shiheni kurdo që keni kohë.
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = Provojeni { -pocket-brand-name }-in
 onboarding-lockwise-passwords-title = Merrini Fjalëkalimet Tuaja Kudo
 onboarding-lockwise-passwords-text2 = Ruajini pa rrezik fjalëkalimet tuaja dhe hyni me lehtësi në llogaritë tuaja, përmes { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Merrni Aplikacionin
+onboarding-lockwise-strong-passwords-title = Krijoni dhe Depozitoni Fjalëkalime të Fuqishëm
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } krijon aty për aty fjalëkalime të fuqishëm dhe i ruan të tërë në një vend.
+onboarding-lockwise-strong-passwords-button = Adminstroni Kredencialet tuaja të Hyrjeve
 onboarding-facebook-container-title = Caktoni Caqe me Facebook-un
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } e mban profilin tuaj veçmas nga gjithçka tjetër, duke ia bërë të vështirë Facebook-ut profilizimin e reklamave për ju.
 onboarding-facebook-container-button = Shtoje Zgjerimin
+onboarding-import-browser-settings-title = Importoni Faqerojtësit Tuaj, Fjalëkalimet dhe Më Tepër
+onboarding-import-browser-settings-text = Mos humbni kohë—merrini lehtësisht me vete sajtet tuaj nga Chrome dhe rregullimet për të.
+onboarding-import-browser-settings-button = Importo të Dhëna Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
