@@ -25,6 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Lista de blocage de nivello 1 (recommendate).
-blocklist-item-moz-std-description = Consenti qualque traciatores, assi  rumpe minus sitos web.
+blocklist-item-moz-std-description = Permitte alcun traciatores de sorta que minus sitos web cessa de functionar.
 blocklist-item-moz-full-listName = Lista de blocage de nivello 2.
 blocklist-item-moz-full-description = Bloca tote le traciatores detegite. Qualque sitos web o contento pote non esser cargate correctemente.
