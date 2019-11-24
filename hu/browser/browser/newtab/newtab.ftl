@@ -181,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hoppá! Majdnem betöltöt
 newtab-pocket-read-more = Népszerű témák:
 newtab-pocket-more-recommendations = További javaslatok
 newtab-pocket-how-it-works = Hogyan működik
+newtab-pocket-whats-pocket = Mi a { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } beszerzése
 newtab-pocket-cta-text = Mentse az Ön által kedvelt történeteket a { -pocket-brand-name }be, és töltse fel elméjét lebilincselő olvasnivalókkal.
 
