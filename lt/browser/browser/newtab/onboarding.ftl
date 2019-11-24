@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Siųskite sau korteles akimirksniu
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Kortelių persiuntimas akimirksniu pasidalina tinklalapiais tarp jūsų įrenginių, taip išvengiant kopijavimo ir įdėjimo, ar išėjimo iš naršyklės.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Paprastai dalinkitės tinklalapiais tarp savo įrenginių, taip išvengdami kopijavimo, ar išėjimo iš naršyklės.
 onboarding-send-tabs-button = Pradėti naudotis kortelių persiuntimu
 onboarding-pocket-anywhere-title = Skaityti ir klausyti bet kur
 onboarding-pocket-anywhere-text2 = Įrašykite savo mėgstamiausią interneto turinį įrenginyje, naudodamiesi „{ -pocket-brand-name }“ programa. Vėliau galėsite skaityti, klausyti, ar žiūrėti jums patogiu metu.
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = Išbandyti „{ -pocket-brand-name }“
 onboarding-lockwise-passwords-title = Turėkite savo slaptažodžius visuose įrenginiuose
 onboarding-lockwise-passwords-text2 = Laikykite įrašytus slaptažodžius saugiai, ir lengvai prisijunkite prie savo paskyrų su „{ -lockwise-brand-name }“.
 onboarding-lockwise-passwords-button2 = Parsisiųskite programą
+onboarding-lockwise-strong-passwords-title = Susikurkite ir saugokite stiprius slaptažodžius
+onboarding-lockwise-strong-passwords-text = „{ -lockwise-brand-name }“ sukuria stiprius slaptažodžius ir saugo juos visus vienoje vietoje.
+onboarding-lockwise-strong-passwords-button = Tvarkykite savo prisijungimus
 onboarding-facebook-container-title = Nustatykite „Facebook“ ribas
 onboarding-facebook-container-text2 = „{ -facebook-container-brand-name }“ laiko jūsų „Facebook“ tapatybę atskirtą nuo viso kito, taip apsunkinant jų galimybę jums pritaikyti reklamas.
 onboarding-facebook-container-button = Pridėti priedą
+onboarding-import-browser-settings-title = Importuokite savo adresyną, slaptažodžius, ir dar daugiau
+onboarding-import-browser-settings-text = Nerkite pirmyn – lengvai perkelkite savo svetaines ir nuostatas iš „Chrome“.
+onboarding-import-browser-settings-button = Importuoti duomenis iš „Chrome“
 
 ## Message strings belonging to the Return to AMO flow
 

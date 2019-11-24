@@ -78,6 +78,15 @@ lockwise-sync-status =
        *[other] Sinchronizuojama su { $count } kitų įrenginių
     }
 lockwise-sync-not-syncing-devices = Nesinchronizuojama su kitais įrenginiais
+manage-connected-devices = Tvarkyti įrenginius…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Prijungta prie { $count } įrenginio
+        [few] Prijungta prie { $count } įrenginių
+       *[other] Prijungta prie { $count } įrenginių
+    }
 monitor-title = Būkite informuoti apie duomenų pažeidimus
 monitor-link = Kaip tai veikia
 monitor-header-content-no-account = „{ -monitor-brand-name }“ pateikia informaciją apie tai, ar jūsų duomenys yra patekę tarp nutekėjusių, ir gali pranešti apie naujus pažeidimus.
