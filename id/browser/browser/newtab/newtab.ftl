@@ -84,6 +84,7 @@ newtab-menu-archive-pocket = Arsip di { -pocket-brand-name }
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Selesai
+newtab-privacy-modal-header = Privasi Anda penting.
 
 
 
@@ -169,6 +170,7 @@ newtab-discovery-empty-section-topstories-loading = Memuat…
 newtab-pocket-read-more = Topik Populer:
 newtab-pocket-more-recommendations = Rekomendasi Lainnya
 newtab-pocket-how-it-works = Panduan
+newtab-pocket-whats-pocket = Apa itu { -pocket-brand-name }?
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
 
