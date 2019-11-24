@@ -224,7 +224,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Pare que le configuration de securitate del rete pote esser le causa de isto. Vole tu restaurar le configuration predefinite?">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">
 
-<!ENTITY enableTls10.longDesc "Iste sito web non supporta le protocollo TLS 1.2, que es le minime version supportate per &brandShortName;. Le activation de TLS 1.0 e TLS 1.1 pote consentir de succeder a iste connexion.">
+<!ENTITY enableTls10.longDesc "Iste sito web pote non supportar le protocollo TLS 1.2, le version minime que &brandShortName; supporta. Activar TLS 1.0 e TLS 1.1 poterea permitter que iste connexion succede.">
 <!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 sera permanentemente disactivate in un futuro version.">
 <!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
