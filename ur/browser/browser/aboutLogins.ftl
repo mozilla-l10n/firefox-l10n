@@ -6,6 +6,8 @@ about-logins-page-title = لاگ ان اور پاس ورڈ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-android =
+    .alt = Google Play  سے حاصل کریں
 login-filter =
     .placeholder = لاگ ان تلاش کریں
 create-login-button = نیا لاگ ان بنائیں
@@ -31,6 +33,8 @@ login-list-sort-label-text = کے مطابق چھانٹیں:
 login-list-name-option = نام (A-Z)
 login-list-last-changed-option = آخری بار ترمیم کردہ
 login-list-last-used-option = آخری استعمال
+login-list-intro-title = کوئی لاگ ان نہیں ملا
+about-logins-login-list-empty-search-title = کوئی لاگ ان نہیں ملا
 login-list-item-title-new-login = نیا لاگ ان
 login-list-item-subtitle-new-login = لاگ ان کی سندیں درج کریں۔
 login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
@@ -87,6 +91,8 @@ confirm-discard-changes-dialog-confirm-button = رد کريں
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = اس انتباہ کو بند کریں
 
 ## Error Messages
 
