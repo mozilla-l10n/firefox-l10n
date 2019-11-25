@@ -140,14 +140,14 @@ onboarding-pocket-anywhere-button = Probeer { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Neem uw wachtwoorden overal mee naartoe
 onboarding-lockwise-passwords-text2 = Houd uw opgeslagen wachtwoorden veilig en meld u eenvoudig bij uw accounts aan met { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Download de app
-onboarding-lockwise-strong-passwords-title = Sterke wachtwoorden maken en beheren
+onboarding-lockwise-strong-passwords-title = Sterke wachtwoorden maken en opslaan
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } maakt ter plekke sterke wachtwoorden en bewaart ze allemaal op een plek.
 onboarding-lockwise-strong-passwords-button = Uw aanmeldingen beheren
 onboarding-facebook-container-title = Stel grenzen aan Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } houdt uw profiel gescheiden van al het andere, waardoor Facebook u moeilijker met advertenties kan bestoken.
 onboarding-facebook-container-button = De extensie toevoegen
 onboarding-import-browser-settings-title = Importeer uw bladwijzers, wachtwoorden en meer
-onboarding-import-browser-settings-text = Duik er meteen in – neem eenvoudig uw Chrome-sites en -instellingen mee.
+onboarding-import-browser-settings-text = Duik er meteen in – neem eenvoudig uw Chrome-websites en -instellingen mee.
 onboarding-import-browser-settings-button = Chrome-gegevens importeren
 
 ## Message strings belonging to the Return to AMO flow
