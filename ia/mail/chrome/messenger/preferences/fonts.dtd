@@ -65,7 +65,7 @@
 <!ENTITY  fontControl.label                       "Controlo del characteres">
 <!ENTITY  useFixedWidthForPlainText.label         "Usar un typo de character a largessa fixe pro messages de texto simple">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Consenti al messages de usar altere characteres">
+<!ENTITY  useDocumentFonts.label                  "Permitter que le messages usa altere typos de litteras">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->

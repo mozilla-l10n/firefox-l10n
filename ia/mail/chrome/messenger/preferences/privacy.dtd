@@ -5,7 +5,7 @@
 <!-- Mail Content -->
 <!ENTITY captionMailContent.label "Contento del posta">
 
-<!ENTITY acceptRemoteContent.label "Consentir contento remote in messages">
+<!ENTITY acceptRemoteContent.label "Permitter contento remote in messages">
 <!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Exceptiones…">
 <!ENTITY remoteContentExceptions.accesskey "x">
