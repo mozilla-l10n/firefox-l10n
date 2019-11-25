@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "A">
 <!ENTITY viewSecurityDevices.label "Trobarzhelloù diogelroez">
 <!ENTITY viewSecurityDevices.accesskey "d">
+
+<!ENTITY manageCertificates2.label "Merañ an testenioù…">
+<!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Trevnadoù diogelroez…">
+<!ENTITY viewSecurityDevices2.accesskey "T">

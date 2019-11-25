@@ -3,22 +3,28 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Kefluniañ ur gont postel nevez">
+
+<!ENTITY emailWizard.title               "Kefluniañ ho chomlec'h postel">
 <!ENTITY name.label                      "Hoc'h anv :">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Anv-bihan Anv">
+<!ENTITY fullname.placeholder            "Hoc'h anv a-bezh">
 <!ENTITY name.text                       "Hoc'h anv, evel e vo diskouezet d'ar re all">
+<!ENTITY name.error                      "Skrivit hoc'h anv mar plij">
 <!ENTITY email.label                     "Chomlec'h :">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "chomlec'h@example.com">
+<!ENTITY email3.placeholder              "Ho chomlec'h postel">
 <!ENTITY email.text                      "Ho chomlec'h postel">
+<!ENTITY email.error                     "N'eo ket talvoudek ar chomlec'h postel">
 <!ENTITY password.label                  "Ger-tremen :">
 <!ENTITY password.accesskey              "G">
 <!ENTITY password.placeholder            "Ger-tremen">
 <!ENTITY password.text                   "Diret, implijet evit kadarnaat an anv arveriad">
+<!ENTITY password.toggle                 "Diskouez/Kuzhat ar ger-tremen">
 <!ENTITY rememberPassword.label          "Derc'hel soñj eus ar ger-tremen">
 <!ENTITY rememberPassword.accesskey      "D">
-
 <!ENTITY usernameEx.label                "Anv arveriad:">
 <!ENTITY usernameEx.accesskey            "A">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -35,6 +41,7 @@
 <!ENTITY hostname.label                  "Anv an dafariad">
 <!ENTITY port.label                      "Porzh">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Dilesa">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +67,21 @@
 <!ENTITY stop.label                      "Paouez">
 <!ENTITY stop.accesskey                  "P">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Amprouiñ en-dro">
 <!ENTITY half-manual-test.accesskey      "A">
 <!ENTITY manual-edit.label               "Kefluniad dornel">
 <!ENTITY manual-edit.accesskey           "d">
+<!ENTITY manual-config.label             "Kefluniañ dre zorn…">
+<!ENTITY manual-config.accesskey         "K">
 <!ENTITY open-provisioner.label          "Kaout ur chomlec'h postel nevez…">
 <!ENTITY open-provisioner.accesskey      "u">
+
+
+<!ENTITY get-help.label                  "Kaout Skoazell">
+<!ENTITY get-help.accesskey              "S">
 
 
 <!ENTITY warning.label                   "Diwallit !">

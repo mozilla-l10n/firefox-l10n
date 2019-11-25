@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Endalc'had ar postel">
 
 <!ENTITY acceptRemoteContent.label "Aotren an endalc'hadoù a-bell er c'hemennadennoù">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Nemedennoù…">
 <!ENTITY remoteContentExceptions.accesskey "m">
 <!ENTITY acceptRemoteContentInfo.label "Gouzout hiroc'h a-zivout kudennoù an endalc'hadoù a-bell a-fet buhez prevez">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Endalc'had Web">
 
 <!ENTITY keepHistory.label "Derc'hel soñj eus al lec'hiennoù hag an ereoù gweladennet ganin">
@@ -36,3 +36,5 @@
 <!ENTITY dntTrackingNotOkay.label2 "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
 <!ENTITY dntTrackingNotOkay.accesskey "L">
 <!ENTITY doNotTrackInfo.label "Gouzout hiroc'h a-zivout Do Not Track">
+
+<!ENTITY doNotTrackLearnMore.label "Gouzout hiroc'h">

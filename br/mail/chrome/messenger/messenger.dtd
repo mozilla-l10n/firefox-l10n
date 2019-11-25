@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "f">
 <!ENTITY folderPaneBar.label "Barrenn ostilhoù penel an teuliadoù">
 <!ENTITY folderPaneBar.accesskey "B">
-<!ENTITY folderModeSelector.label "Gweloù an teuliad">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Rummañ dre">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Leuniañ ar gemennadenn diuzet">
 <!ENTITY archiveButton.tooltip "Diellaouiñ ar c'hemennadennoù diuzet">
 <!ENTITY openConversationButton.tooltip "Diskouez kaozeadenn ar gemennadenn diuzet">
+<!ENTITY openMsgConversationButton.tooltip "Diskouez kaozeadenn ar gemennadenn diuzet">
 <!ENTITY nextButton.tooltip "Mont d'ar gemennadenn anlennet war-lerc'h">
 <!ENTITY nextMsgButton.tooltip "Mont d'ar gemennadenn war-lerc'h">
 <!ENTITY previousButton.tooltip "Mont d'ar gemennadenn anlennet kent">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
 <!ENTITY appmenuButton1.tooltip "Diskouez al lañser &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Merañ hoc'h askouezhioù">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Enrollañ ar c'hlask evel un teuliad …">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Diuzañ Kemennadennoù">
 <!ENTITY threadColumn.label "Neudennad">
 <!ENTITY fromColumn.label "Kaser">
 <!ENTITY recipientColumn.label "Degemerer">
@@ -970,3 +970,5 @@
 <!ENTITY dockOptions.label              "Dibarzhioù arlun an arload…">
 <!ENTITY writeNewMessageDock.label      "Skrivañ ur gemennadenn nevez">
 <!ENTITY openAddressBookDock.label      "Digeriñ karned ar chomlec'hioù">
+
+<!-- Content tab Navigation buttons -->

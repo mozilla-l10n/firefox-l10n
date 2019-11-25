@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "F">
 
 <!ENTITY defaultSearchEngine.label        "Keflusker Enklask dre Ziouer">
+<!ENTITY addSearchEngine.label            "Ouzhpennañ diwar ur restr">
+<!ENTITY addSearchEngine.accesskey        "O">
+<!ENTITY removeSearchEngine.label         "Lemel">
+<!ENTITY removeSearchEngine.accesskey     "L">

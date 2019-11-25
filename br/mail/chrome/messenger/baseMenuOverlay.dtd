@@ -9,20 +9,27 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Skoazell">
 <!ENTITY helpMenuWin.accesskey "S">
+<!ENTITY aboutProduct2.label "Diwar-benn &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "D">
 <!ENTITY helpTroubleshootingInfo.label     "Titouroù disac'hañ">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Adloc'hañ gant an askouezhioù diweredekaet…">
 <!ENTITY helpSafeMode.accesskey "r">
-<!ENTITY releaseCmd2.label "Notennoù handelv">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Petra zo nevez">
-<!ENTITY whatsNewCmd.accesskey "P">
-<!ENTITY openHelp.label "Endalc'hadoù ar skoazell">
-<!ENTITY openHelp.accesskey "d">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Skoazell &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
+<!ENTITY helpSafeMode.stop.label     "Adloc'hañ gant an Askouezhioù Gweredekaet">
+<!ENTITY helpSafeMode.stop.accesskey "A">
+<!ENTITY productHelp.label "Skoazell &brandShortName;">
+<!ENTITY productHelp.accesskey "S">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
-<!ENTITY aboutMenuCmd2.label "A-zivout &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "A">
+<!ENTITY helpKeyboardShortcuts.label "Berradennoù Klavier">
+<!ENTITY helpKeyboardShortcuts.accesskey "B">
+
+<!ENTITY helpFeedbackPage.label "Roit ho meno…">
+<!ENTITY helpFeedbackPage.accesskey "R">
+
+
+<!ENTITY helpGetInvolvedPage.label "Kemer Perzh">
+<!ENTITY helpGetInvolvedPage.accesskey "K">
+
