@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Ke'ataqa' Anin taq Ruwi'
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs anin yerukomonij taq ruxaq chi kikojol taq awokisab'al akuchi' man nuwachib'ej ta, man nutz'ajb'a' ta chuqa' man nel ta pa ri okik'amaya'l.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Anin ke'akomonij taq ruxaq pa taq awokisab'al, akuchi' man nawachib'ej ta taq ximonel o natz'apij ri okik'amaya'l.
 onboarding-send-tabs-button = Tachapa' Rokisaxik Send Tabs
 onboarding-pocket-anywhere-title = Tisik'is chuqa' Tak'axäx Xab'akuchi'
 onboarding-pocket-anywhere-text2 = Tayaka' ri ajowab'äl rupam akuchi' majun okem pa k'amaya'l ruma ri { -pocket-brand-name } App chuqa' tasik'ij, tawak'axaj o tatz'eta' xab'akuchi' o toq nawajo'.
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = Titojtob'ëx { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Xab'akuchi' Ke'ak'waj ri Ewan taq Atzij
 onboarding-lockwise-passwords-text2 = Ütz ke'ayaka' ri ewan taq atzij chuqa' anin tatikirisaj molojri'ïl pa rub'i' taq ataqoya'l rik'in { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Tik'ul ri Chokoy
+onboarding-lockwise-strong-passwords-title = Titz'uk chuqa' Keyak Ütz taq Ewan Tzij
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } yerutz'ük ütz ewan taq tzij pa ri b'anoj chuqa' yeruyäk pa jun k'ojlib'äl.
+onboarding-lockwise-strong-passwords-button = Ke'anuk'samajij ri Rutikirib'al taq Amolojri'ïl
 onboarding-facebook-container-title = Ke'anuk'samajij K'ulb'a't rik'in Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } nujäch ri rub'anikil awäch chi kiwäch ri ch'aqa' chik, akuchi' k'ayew nub'än chuwäch ri Facebook richin nuk'üt eltzijol chawäch.
 onboarding-facebook-container-button = Titz'aqatisäx ri K'amal
+onboarding-import-browser-settings-title = Ke'ajik'a' ri taq Ayaketal, Ewan taq Atzij Chuqa' Ch'aqa' chik
+onboarding-import-browser-settings-text = Tanima' awi'—anin ke'ak'waj awik'in ri taq ruxaq chuqa' taq anuk'ulem richin Chrome.
+onboarding-import-browser-settings-button = Ke'ajik'a' Taq Atzij Richin Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

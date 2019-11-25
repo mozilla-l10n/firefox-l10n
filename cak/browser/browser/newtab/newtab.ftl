@@ -45,9 +45,6 @@ newtab-topsites-save-button = Tiyak
 newtab-topsites-preview-button = Nab'ey tzub'al
 newtab-topsites-add-button = Titz'aqatisäx
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = ¿La kan nawajo ye'ayüj el ronojel ri kib'eyal re taq ruxaq re' chi kikojol ri anatab'al?
@@ -102,10 +99,6 @@ newtab-menu-remove-bookmark = Tiyuj el ri yaketal
 # Bookmark is a verb here.
 newtab-menu-bookmark = Yaketal
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -134,10 +127,6 @@ newtab-label-removed-bookmark = Yaketal elesan el
 newtab-label-recommended = Rujawaxik
 newtab-label-saved = Yakon pa { -pocket-brand-name }
 newtab-label-download = Xqasäx
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -191,6 +180,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re 
 newtab-pocket-read-more = Nima'q taq Na'oj:
 newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
 newtab-pocket-how-it-works = Achike rub'eyal nisamäj
+newtab-pocket-whats-pocket = ¿Achike ri { -pocket-brand-name }?
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
 
