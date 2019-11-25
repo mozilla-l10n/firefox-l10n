@@ -178,7 +178,7 @@ cert-with-serial =
 # Variables:
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
-    .title = Visualizador de certificado: “{ $certName }”
+    .title = Visor de certificados: “{ $certName }”
 not-present =
     .value = <Não faz parte do certificado>
 # Cert verification
