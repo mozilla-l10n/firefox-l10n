@@ -154,7 +154,7 @@ warn-on-open-many-tabs =
     .label = Advertir te quando tu aperi multiple schedas que illo pote facer { -brand-short-name } devenir lente
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Quando tu aperi un ligamine in un nove scheda, commutar a illo immediatemente
+    .label = Quando tu aperi un ligamine in un nove scheda, passar a illo immediatemente
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Monstrar vistas preliminar del schedas in le barra de cargas de Windows
@@ -192,8 +192,8 @@ containers-remove-cancel-button = Non remover iste contexto
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e apparentia
-fonts-and-colors-header = Typos de character e colores
-default-font = Typo predefinite
+fonts-and-colors-header = Typos de litteras e colores
+default-font = Typo de litteras predefinite
     .accesskey = D
 default-font-size = Dimension
     .accesskey = S

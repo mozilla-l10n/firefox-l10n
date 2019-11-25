@@ -62,12 +62,12 @@
 <!ENTITY highlightTrailingSpace.label     "Evidentiar le spatios al fin del lineas">
 <!ENTITY highlightTrailingSpace.accesskey "E">
 
-<!ENTITY largerFont.label             "Augmentar le typo">
+<!ENTITY largerFont.label             "Aggrandir litteras">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY smallerFont.label            "Diminuer le typo">
+<!ENTITY smallerFont.label            "Diminuer litteras">
 <!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 

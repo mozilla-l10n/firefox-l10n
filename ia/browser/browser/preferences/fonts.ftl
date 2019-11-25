@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = Typos de character
+    .title = Typos de litteras
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
-fonts-langgroup-header = Typos de character pro
+fonts-langgroup-header = Typos de litteras pro
     .accesskey = T
 fonts-langgroup-arabic =
     .label = Arabe
@@ -89,12 +89,12 @@ fonts-monospace = Monospatio
     .accesskey = M
 fonts-monospace-size = Dimension
     .accesskey = i
-fonts-minsize = Dimension minime del typo
+fonts-minsize = Dimension minime de litteras
     .accesskey = o
 fonts-minsize-none =
     .label = Nulle
 fonts-allow-own =
-    .label = Permitter que le paginas elige lor proprie typos de character, in vice de tu selectiones supra
+    .label = Permitter que le paginas elige lor proprie typos de litteras, in vice de tu selectiones supra
     .accesskey = A
 
 ## Text Encodings
