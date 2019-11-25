@@ -6,8 +6,8 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] { -brand-short-name } blockerade { $count } tracker senaste veckan
-       *[other] { -brand-short-name } blockerade { $count } trackers senaste veckan
+        [one] { -brand-short-name } blockerade { $count } spårare senaste veckan
+       *[other] { -brand-short-name } blockerade { $count } spårare senaste veckan
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> tracker blockerad sedan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> trackers blockerade sedan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> spårare blockerad sedan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> spårare blockerade sedan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -30,16 +30,16 @@ protection-report-header-details-custom = Skyddsnivån är inställd på <b>Anpa
 protection-report-page-title = Integritetsskydd
 protection-report-content-title = Integritetsskydd
 etp-card-title = Förbättrat spårningsskydd
-etp-card-content = Trackers följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa trackers och andra skadliga skript.
-protection-report-etp-card-content-custom-not-blocking = Alla skydd är för närvarande avstängda. Välj vilka trackers som ska blockeras genom att hantera dina { -brand-short-name }-skyddsinställningar.
+etp-card-content = Spårare följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa spårare och andra skadliga skript.
+protection-report-etp-card-content-custom-not-blocking = Alla skydd är för närvarande avstängda. Välj vilka spårare som ska blockeras genom att hantera dina { -brand-short-name }-skyddsinställningar.
 protection-report-manage-protections = Hantera inställningar
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Idag
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = Ett diagram som innehåller det totala antalet för varje typ av tracker som blockerats denna vecka.
-social-tab-title = Social media-trackers
-social-tab-contant = Sociala nätverk placerar trackers på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att sociala medieföretag kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler. <a data-l10n-name="learn-more-link">Läs mer</a>
+graph-legend-description = Ett diagram som innehåller det totala antalet för varje typ av spårare som blockerats denna vecka.
+social-tab-title = Social media-spårare
+social-tab-contant = Sociala nätverk placerar spårare på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att sociala medieföretag kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler. <a data-l10n-name="learn-more-link">Läs mer</a>
 cookie-tab-title = Globala spårningskakor
 cookie-tab-content = Dessa kakor följer dig från webbplats till webbplats för att samla in data om vad du gör online. De ställs in av tredje part som annonsörer och analysföretag. Om du blockerar globala spårningskakor minskar antalet annonser som följer dig runt. <a data-l10n-name="learn-more-link">Läs mer</a>
 tracker-tab-title = Spårningsinnehåll
@@ -130,11 +130,11 @@ password-warning =
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sociala media-trackers
+    .title = Sociala media-spårare
     .aria-label =
         { $count ->
-            [one] { $count } social media-tracker ({ $percentage }%)
-           *[other] { $count } sociala media-trackers ({ $percentage }%)
+            [one] { $count } social media-spårare ({ $percentage }%)
+           *[other] { $count } sociala media-spårare ({ $percentage }%)
         }
 bar-tooltip-cookie =
     .title = Globala spårningskakor
@@ -151,16 +151,16 @@ bar-tooltip-tracker =
            *[other] { $count } spårningsinnehåll ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Fingerprinters
+    .title = Fingeravtrycksspårare
     .aria-label =
         { $count ->
-            [one] { $count } fingerprinter ({ $percentage }%)
-           *[other] { $count } fingerprinters ({ $percentage }%)
+            [one] { $count } Fingeravtrycksspårare ({ $percentage }%)
+           *[other] { $count } Fingeravtrycksspårare ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
-    .title = Cryptominers
+    .title = Kryptogrävare
     .aria-label =
         { $count ->
-            [one] { $count } cryptominer ({ $percentage }%)
-           *[other] { $count } cryptominers ({ $percentage }%)
+            [one] { $count } kryptogrävare ({ $percentage }%)
+           *[other] { $count } kryptogrävare ({ $percentage }%)
         }

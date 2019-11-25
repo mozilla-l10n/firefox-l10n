@@ -5,8 +5,7 @@
 blocklist-window =
     .title = Blockeringslistor
     .style = width: 55em
-blocklist-desc = Du kan välja vilken lista { -brand-short-name } kommer att använda för att blockera webbelement som kan spåra din surfaktivitet.
-blocklist-description = Välj den lista som { -brand-short-name } använder för att blockera trackers på nätet. Listor som tillhandahålls av <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
+blocklist-description = Välj den lista som { -brand-short-name } använder för att blockera spårare på nätet. Listor som tillhandahålls av <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -25,11 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me grundskydd (rekommenderas).
-blocklist-item-moz-std-desc = Tillåter vissa trackers så att webbplatser fungerar korrekt.
-blocklist-item-moz-full-name = Disconnect.me strikt skydd.
-blocklist-item-moz-full-desc = Blockerar kända trackers. Vissa webbplatser kanske inte fungerar korrekt.
 blocklist-item-moz-std-listName = Blockeringslista nivå 1 (rekommenderas).
-blocklist-item-moz-std-description = Tillåter vissa trackers så färre fel orsakas på webbplatser.
+blocklist-item-moz-std-description = Tillåter vissa spårare så färre fel orsakas på webbplatser.
 blocklist-item-moz-full-listName = Blockeringslista nivå 2.
-blocklist-item-moz-full-description = Blockerar alla upptäckta trackers. Vissa webbplatser eller innehåll kanske inte laddas korrekt.
+blocklist-item-moz-full-description = Blockerar alla upptäckta spårare. Vissa webbplatser eller innehåll kanske inte laddas korrekt.

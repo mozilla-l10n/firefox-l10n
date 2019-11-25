@@ -24,7 +24,7 @@ about-private-browsing =
     .title = Sök på nätet
 about-private-browsing-not-private = Du är för närvarande inte i ett privat fönster.
 content-blocking-title = Innehållsblockering
-content-blocking-description = Vissa webbplatser använder trackers som kan övervaka din aktivitet på internet. I privata fönster blockerar { -brand-short-name }-innehållsblockering automatiskt många trackers som kan samla information om ditt webbläsarbeteende.
+content-blocking-description = Vissa webbplatser använder spårare som kan övervaka din aktivitet på internet. I privata fönster blockerar { -brand-short-name }-innehållsblockering automatiskt många trackers som kan samla information om ditt webbläsarbeteende.
 about-private-browsing-info-description = { -brand-short-name } rensar din sök- och surfhistorik när du avslutar appen eller stänger alla privata flikar och fönster. Även om det här inte gör dig anonym för webbplatser eller din internetleverantör, gör det det lättare att behålla det du gör online privat från någon annan som använder den här datorn.
 # This string is the title for the banner for search engine selection
 # in a private window.
