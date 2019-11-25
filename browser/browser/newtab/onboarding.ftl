@@ -132,6 +132,9 @@ onboarding-send-tabs-title = Envoyez-vous des onglets
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = L’envoi d’onglets partage instantanément des pages entre vos appareils sans avoir à copier, coller ou quitter le navigateur.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Partagez facilement des pages entre vos divers appareils sans copier de liens ni quitter le navigateur.
 onboarding-send-tabs-button =
     Commencer à utiliser
     « Envoyer l’onglet »
@@ -141,9 +144,12 @@ onboarding-pocket-anywhere-button = Essayer { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emmenez vos mots de passe partout
 onboarding-lockwise-passwords-text2 = Conservez en sécurité les mots de passe que vous enregistrez et connectez-vous en toute simplicité à vos comptes avec { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Obtenir l’application
+onboarding-lockwise-strong-passwords-title = Créez et stockez des mots de passe robustes
+onboarding-lockwise-strong-passwords-button = Gérer vos identifiants
 onboarding-facebook-container-title = Fixez les limites avec Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } conserve votre profil séparé de tout le reste. Il est ainsi plus difficile pour Facebook de vous cibler avec des publicités.
 onboarding-facebook-container-button = Installer l’extension
+onboarding-import-browser-settings-title = Importez vos marque-pages, mots de passe et plus encore
 
 ## Message strings belonging to the Return to AMO flow
 
