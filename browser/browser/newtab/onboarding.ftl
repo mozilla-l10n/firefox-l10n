@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Anfon Tabiau Atoch Chi eich Hun
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Mae Anfon Tabiau yn rhannu tudalennau yn syth rhwng eich dyfeisiau heb orfod copïo, gludo na gadael y porwr.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Rhannu tudalennau'n hawdd rhwng eich dyfeisiau heb orfod copïo dolenni na gadael y porwr.
 onboarding-send-tabs-button = Cychwyn Defnyddio Anfon Tabiau
 onboarding-pocket-anywhere-title = Darllen a Gwrando yn Unrhyw Le
 onboarding-pocket-anywhere-text2 = Cadwch eich hoff gynnwys all-lein gyda'r Ap { -pocket-brand-name } a darllenwch, gwrandewch, a gwyliwch pryd bynnag y mae'n gyfleus i chi.
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = Rhoi cynnig ar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Mynd â'ch Cyfrineiriau i Bob Man
 onboarding-lockwise-passwords-text2 = Cadwch y cyfrineiriau rydych chi'n eu cadw'n ddiogel er mwyn mewngofnodi'n hawdd i'ch cyfrifon gyda { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Estyn yr Ap
+onboarding-lockwise-strong-passwords-title = Creu a Chadw Cyfrineiriau Cryf
+onboarding-lockwise-strong-passwords-text = Mae { -lockwise-brand-name } yn creu cyfrineiriau cryf yn y fan a'r lle ac yn cadw pob un ohonyn nhw mewn un man.
+onboarding-lockwise-strong-passwords-button = Rheoli'ch Mewngofnodi
 onboarding-facebook-container-title = Gosod Ffiniau i Facebook
 onboarding-facebook-container-text2 = Mae { -facebook-container-brand-name } yn cadw eich proffil ar wahân i bopeth arall, gan ei gwneud yn anos i Facebook eich targedu chi gyda hysbysebion.
 onboarding-facebook-container-button = Ychwanegu'r Estyniad
+onboarding-import-browser-settings-title = Mewnforio Eich Nodau Tudalen, Cyfrineiriau, a Mwy
+onboarding-import-browser-settings-text = Symud yn sydyn - mae'n hawdd dod â'ch gwefannau a'ch gosodiadau Chrome gyda chi.
+onboarding-import-browser-settings-button = Mewnforio Data Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
