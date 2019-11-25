@@ -944,14 +944,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.socialMediaTrackers.label "Sociala spårare">
 <!ENTITY protections.crossSiteTrackingCookies.label "Globala spårningskakor">
 <!ENTITY protections.trackingContent.label "Spårningsinnehåll">
-<!ENTITY protections.fingerprinters.label "Fingerprinters">
-<!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.fingerprinters.label "Fingeravtrycksspårare">
+<!ENTITY protections.cryptominers.label "Kryptogrävare">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alla spårare på denna webbplats har laddats eftersom skyddet är avstängt.">
 <!ENTITY protections.noTrackersFound.description "Inga kända spårare för &brandShortName; upptäcktes på den här sidan.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Dessa kakor följer dig från sida till sida för att samla in data om vad du gör online. De anges av tredje part som annonsörer och analysföretag.">
-<!ENTITY protections.cryptominers.description "Cryptominers använder ditt systems datakraft för att utvinna digitala pengar. Cryptomining-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen.">
-<!ENTITY protections.fingerprinters.description "Fingerprinters samlar inställningar från din webbläsare och dator för att skapa en profil av dig. Med det här digitala fingeravtrycket kan de spåra dig på olika webbplatser.">
+<!ENTITY protections.cryptominers.description "Kryptogrävare använder ditt systems datakraft för att utvinna digitala pengar. Kryptogrävar-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen.">
+<!ENTITY protections.fingerprinters.description "Fingeravtrycksspårare samlar inställningar från din webbläsare och dator för att skapa en profil av dig. Med det här digitala fingeravtrycket kan de spåra dig på olika webbplatser.">
 <!ENTITY protections.trackingContent2.description "Webbplatser kan ladda externa annonser, videor och annat innehåll som innehåller spårningskod. Blockering av spårningsinnehåll kan hjälpa webbplatser att ladda snabbare, men vissa knappar, formulär och inloggningsfält kanske inte fungerar.">
 <!ENTITY protections.socialMediaTrackers.description "Sociala nätverk placerar spårare på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att sociala medieföretag kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler.">
 
@@ -1009,11 +1009,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies2.label "Globala spårningskakor">
 
-<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
-<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominers.label "Kryptogrävare">
+<!ENTITY contentBlocking.cryptominersView.label "Kryptogrävare">
 
-<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprinters.label "Fingeravtrycksspårare">
+<!ENTITY contentBlocking.fingerprintersView.label "Fingeravtrycksspårare">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapportera ett problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapportera problem">

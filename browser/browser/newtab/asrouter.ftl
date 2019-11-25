@@ -161,10 +161,10 @@ cfr-doorhanger-socialtracking-dont-show-again = Visa mig inte meddelanden som de
     .accesskey = V
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } hindrade ett socialt nätverk från att spåra dig här
 cfr-doorhanger-socialtracking-description = Din integritet är viktig. { -brand-short-name } blockerar nu vanliga spårare för sociala medier, vilket begränsar hur mycket data de kan samla in om vad du gör online.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockerade en fingerprinter på den här sidan
-cfr-doorhanger-fingerprinters-description = Din integritet är viktig. { -brand-short-name } blockerar nu fingerprinters, som samlar in delar av unik identifierbar information om din enhet för att spåra dig.
-cfr-doorhanger-cryptominers-heading = { -brand-short-name } blockerade en cryptominer på den här sidan
-cfr-doorhanger-cryptominers-description = Din integritet är viktig. { -brand-short-name } blockerar nu cryptominers, som använder ditt systems datakraft för att utvinna digitala pengar.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockerade en fingeravtrycksspårare på den här sidan
+cfr-doorhanger-fingerprinters-description = Din integritet är viktig. { -brand-short-name } blockerar nu fingeravtrycksspårare, som samlar in delar av unik identifierbar information om din enhet för att spåra dig.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blockerade en kryptogrävare på den här sidan
+cfr-doorhanger-cryptominers-description = Din integritet är viktig. { -brand-short-name } blockerar nu kryptogrävare, som använder ditt systems datakraft för att utvinna digitala pengar.
 
 ## Enhanced Tracking Protection Milestones
 
