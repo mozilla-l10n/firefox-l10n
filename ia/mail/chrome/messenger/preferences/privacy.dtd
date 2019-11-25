@@ -18,11 +18,11 @@
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Acceptar cookies ab le sitos web">
 <!ENTITY acceptCookies.accesskey "A">
-<!ENTITY acceptThirdParty.pre.label "Acceptar cookies de tertie partes:">
+<!ENTITY acceptThirdParty.pre.label "Acceptar cookies de tertios:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Sempre">
 <!ENTITY acceptThirdParty.never.label "Nunquam">
-<!ENTITY acceptThirdParty.visited.label "Ab visitates">
+<!ENTITY acceptThirdParty.visited.label "De sitos visitate">
 <!ENTITY keepUntil.label "Mantener usque:">
 <!ENTITY keepUntil.accesskey "M">
 <!ENTITY expire.label "illos expira">
