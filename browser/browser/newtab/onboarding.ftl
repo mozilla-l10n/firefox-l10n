@@ -137,9 +137,13 @@ onboarding-pocket-anywhere-button = Kokeile { -pocket-brand-name }-palvelua
 onboarding-lockwise-passwords-title = Ota salasanat mukaasi kaikkialle
 onboarding-lockwise-passwords-text2 = Pidä tallentamasi salasanat turvassa ja kirjaudu tileillesi helposti { -lockwise-brand-name } -ohjelmalla.
 onboarding-lockwise-passwords-button2 = Hanki sovellus
+onboarding-lockwise-strong-passwords-title = Luo ja tallenna vahvoja salasanoja
+onboarding-lockwise-strong-passwords-button = Hallitse kirjautumistietojasi
 onboarding-facebook-container-title = Aseta rajat Facebookille
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } pitää profiilisi erillään kaikesta muusta, vaikeuttaen Facebookia kohdentamasta mainoksia sinulle.
 onboarding-facebook-container-button = Lisää laajennus
+onboarding-import-browser-settings-title = Tuo kirjanmerkit, salasanat ja paljon muuta
+onboarding-import-browser-settings-button = Tuo Chrome-tiedot
 
 ## Message strings belonging to the Return to AMO flow
 
