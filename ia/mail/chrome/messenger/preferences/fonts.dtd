@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "Typos de character &amp; codificationes">
+<!ENTITY  fontsAndEncodingsDialog.title           "Typos de litteras &amp; codificationes">
 
-<!ENTITY  language.label                          "Typos de character pro:">
+<!ENTITY  language.label                          "Typos de litteras pro:">
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Dimension:">
@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Grandor minime del character:">
+<!ENTITY minSize.label                            "Dimension minime de litteras:">
 <!ENTITY minSize.accesskey                        "d">
 <!ENTITY minSize.none                             "Nulle">
 
@@ -62,8 +62,8 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Controlo del characteres">
-<!ENTITY  useFixedWidthForPlainText.label         "Usar un typo de character a largessa fixe pro messages de texto simple">
+<!ENTITY  fontControl.label                       "Controlo de typos de litteras">
+<!ENTITY  useFixedWidthForPlainText.label         "Usar un typo de litteras a largessa fixe pro messages de texto simple">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permitter que le messages usa altere typos de litteras">
 <!ENTITY  useDocumentFonts.accesskey              "o">

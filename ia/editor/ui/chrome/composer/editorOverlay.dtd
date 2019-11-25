@@ -54,8 +54,8 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Eliger un typo de character">
-<!ENTITY fontfaceMenu.label "Typo de character">
+<!ENTITY FontFaceSelect.tooltip "Eliger un typo de litteras">
+<!ENTITY fontfaceMenu.label "Typo de litteras">
 <!ENTITY fontfaceMenu.accesskey "C">
 <!ENTITY fontVarWidth.label "Largessa variabile">
 <!ENTITY fontVarWidth.accesskey "v">
@@ -70,7 +70,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Eliger un dimension de character">
+<!ENTITY FontSizeSelect.tooltip "Eliger un dimension de litteras">
 <!ENTITY decreaseFontSize.label "Plus micre">
 <!ENTITY decreaseFontSize.accesskey "m">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -311,9 +311,9 @@
 <!ENTITY HighlightColorButton.tooltip "Selige le color evidentiate del texto">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defini le dimension del character">
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Dimension del character minor">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimension del character major">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defini le dimension de litteras">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuer le dimension de litteras">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Augmentar le dimension de litteras">
 <!ENTITY boldToolbarCmd.tooltip "Hardite">
 <!ENTITY italicToolbarCmd.tooltip "Italico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinear">
