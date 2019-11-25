@@ -45,9 +45,6 @@ newtab-topsites-save-button = Ñongatu
 newtab-topsites-preview-button = Jehecha ypy
 newtab-topsites-add-button = Embojoapy
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Añetehápepa renohẽse oimeraẽva mba'e ko toguepegua tembiasakue rysýigui?
@@ -102,10 +99,6 @@ newtab-menu-remove-bookmark = Techaukaha Mboguete
 # Bookmark is a verb here.
 newtab-menu-bookmark = Techaukaha
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -134,10 +127,6 @@ newtab-label-removed-bookmark = Techaukaha mboguepyre
 newtab-label-recommended = Ojehechajepíva
 newtab-label-saved = { -pocket-brand-name }-pe ñongatupyre
 newtab-label-download = Mboguejypyre
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -191,6 +180,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyh
 newtab-pocket-read-more = Ñe'ẽmbyrã Ojehayhuvéva:
 newtab-pocket-more-recommendations = Hetave je’eporã
 newtab-pocket-how-it-works = Mba’éichapa omba’apo
+newtab-pocket-whats-pocket = ¿Mba’e kóva { -pocket-brand-name }?
 newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
 newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
 
