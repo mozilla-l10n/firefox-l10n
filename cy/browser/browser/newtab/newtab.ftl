@@ -45,9 +45,6 @@ newtab-topsites-save-button = Cadw
 newtab-topsites-preview-button = Rhagolwg
 newtab-topsites-add-button = Ychwanegu
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Ydych chi'n siŵr eich bod chi am ddileu pob enghraifft o'r dudalen hon o'ch hanes?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Tynnu Nod Tudalen
 # Bookmark is a verb here.
 newtab-menu-bookmark = Nod Tudalen
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Wedi Tynnu'r Nod Tudalen
 newtab-label-recommended = Trendio
 newtab-label-saved = Wedi ei gadw i { -pocket-brand-name }
 newtab-label-download = Wedi eu Llwytho i Lawr
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a lwytho'r adran
 newtab-pocket-read-more = Pynciau Poblogaidd:
 newtab-pocket-more-recommendations = Rhagor o Argymhellion
 newtab-pocket-how-it-works = Sut mae'n gweithio
+newtab-pocket-whats-pocket = Beth yw { -pocket-brand-name }?
 newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
 
