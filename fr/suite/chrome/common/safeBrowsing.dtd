@@ -23,6 +23,7 @@
 
 <!ENTITY safeb.blocked.harmfulPage.title "Ce site peut contenir des logiciels malveillants">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; a bloqué la page web à l’adresse <span id='harmful_sitename'/>, car elle pourrait tenter d’installer des logiciels dangereux capables de dérober ou supprimer vos données (par exemple vos photos, mots de passe, messages ou cartes bancaires).">
 <!ENTITY safeb.blocked.harmfulPage.longDesc "">
 
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
