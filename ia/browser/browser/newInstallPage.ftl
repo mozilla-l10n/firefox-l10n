@@ -23,6 +23,6 @@ sync-label = Insere tu adresse de e-mail
 sync-input =
     .placeholder = E-mail
 sync-button = Continuar
-sync-terms = Si tu continua, tu accepta le <a data-l10n-name="terms">Terminos de servicio</a> e con le <a data-l10n-name="privacy">Aviso de confidentialitate</a>.
+sync-terms = Si tu continua, tu accepta le <a data-l10n-name="terms">terminos de servicio</a> e con le <a data-l10n-name="privacy">aviso de confidentialitate</a>.
 sync-first = Es le prime vice que tu usa { -sync-brand-name }? Tu debe aperir session in cata installation de Firefox pro synchronisar tu informationes.
 sync-learn = Saper plus

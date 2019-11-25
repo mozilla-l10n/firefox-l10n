@@ -31,7 +31,7 @@ onboarding-join-form-body = Insere tu adresse de e-mail pro comenciar.
 onboarding-join-form-email =
     .placeholder = Insere email
 onboarding-join-form-email-error = Es necessari un adresse de e-mail valide
-onboarding-join-form-legal = Si tu procede, tu consenti al <a data-l10n-name="terms">Terminos de servicio</a> e  al <a data-l10n-name="privacy">Aviso de confidentialitate</a>.
+onboarding-join-form-legal = Si tu procede, tu accepta le <a data-l10n-name="terms">terminos de servicio</a> e  le <a data-l10n-name="privacy">aviso de confidentialitate</a>.
 onboarding-join-form-continue = Continuar
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Ha tu jam un conto?
@@ -54,7 +54,7 @@ onboarding-sync-welcome-header = Porta { -brand-product-name } con te
 onboarding-sync-welcome-content = Tene tu marcapaginas, chronologia, contrasignos e altere configurationes sur tote tu apparatos.
 onboarding-sync-welcome-learn-more-link = Saper plus super Firefox Accounts
 onboarding-sync-form-invalid-input = Es necessari un adresse de e-mail valide
-onboarding-sync-legal-notice = Si tu procede, tu consenti a <a data-l10n-name="terms">Terminos de servicio</a> e <a data-l10n-name="privacy">Notification de confidentialitate</a>.
+onboarding-sync-legal-notice = Si tu procede, tu accepta le <a data-l10n-name="terms">terminos de servicio</a> e le <a data-l10n-name="privacy">aviso de confidentialitate</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Continuar

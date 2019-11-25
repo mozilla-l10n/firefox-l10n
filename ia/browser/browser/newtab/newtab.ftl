@@ -137,7 +137,7 @@ newtab-section-menu-add-topsite = Adder sito preferite
 newtab-section-menu-add-search-engine = Adder un motor de recerca
 newtab-section-menu-move-up = Mover in alto
 newtab-section-menu-move-down = Mover in basso
-newtab-section-menu-privacy-notice = Notification de confidentialitate
+newtab-section-menu-privacy-notice = Aviso de confidentialitate
 
 ## Section aria-labels
 

@@ -722,7 +722,7 @@ sync-connect-another-device = Connecter un altere apparato
 sync-manage-devices = Gerer apparatos
 sync-fxa-begin-pairing = Accopular un apparato
 sync-tos-link = Terminos de servicio
-sync-fxa-privacy-notice = Notification de confidentialitate
+sync-fxa-privacy-notice = Aviso de confidentialitate
 
 ## Privacy Section
 
@@ -1015,7 +1015,7 @@ permissions-a11y-privacy-link = Saper plus
 
 collection-header = Collecta e uso de datos per { -brand-short-name }
 collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
-collection-privacy-notice = Notification de confidentialitate
+collection-privacy-notice = Aviso de confidentialitate
 collection-health-report =
     .label = Permitter que { -brand-short-name } invia datos technic e de interaction a { -vendor-short-name }
     .accesskey = r
