@@ -65,6 +65,7 @@ abuse-report-spam-reason = Omoheñói spam térã maranduñemurã
 abuse-report-spam-reason-v2 = Oreko yty térã omoinge ñemurã eipota’ỹva
 abuse-report-spam-example = Techapyrã: Omoinge maranduñemurã ñanduti kuatiaroguépe
 abuse-report-settings-reason = Iñambue che jehekaha, kuatiarogue ñepyrũ térã tendayke pyahu chemomarandu ha oporandu’ỹre
+abuse-report-settings-reason-v2 = Iñambue che jehekaha, kuatiarogue ñepyrũ térã tendayke pyahu omomarandu ha oporandu’ỹva
 abuse-report-settings-suggestions = Emomarandu mboyve pe jepysokue, eñeha’ã emoambue ñemboheko:
 abuse-report-settings-suggestions-search = Emoambue ñemboheko jehekaha ijypykuévape
 abuse-report-settings-suggestions-homepage = Emoambue kuatiarogue ñepyrũha ha tendayke pyahúpe
