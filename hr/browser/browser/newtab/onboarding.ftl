@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Trenutno pošaljite sami sebi kartice
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Pošalji kartice trenutno dijeli web stranice između vaših uređaja bez da morate kopirati, zalijepiti ili napustiti vaš preglednik.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Jednostavno dijelite stranice između vaših uređaja bez da morate kopirati poveznice ili napustiti preglednik.
 onboarding-send-tabs-button = Počnite korisitit slanje kartica
 onboarding-pocket-anywhere-title = Čitaj i slušaj bilo gdje
 onboarding-pocket-anywhere-text2 = Spremi svoj omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitaj, slušaj i gledaj kad god želiš.
@@ -137,9 +140,13 @@ onboarding-pocket-anywhere-button = Probaj { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ponesite svoje lozinke posvuda
 onboarding-lockwise-passwords-text2 = Zaštitite lozinke koje spremite i jednostavno se prijavite u svoje račune s { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Preuzmite aplikaciju
+onboarding-lockwise-strong-passwords-title = Stvorite i pohranite jake lozinke
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } stvara snažne lozinke na licu mjesta i sprema ih sve na jedno mjesto.
+onboarding-lockwise-strong-passwords-button = Upravljanje prijavama
 onboarding-facebook-container-title = Postavite granice s Facebookom
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } drži vaš profil odvojeno od svega drugoga, otežavajući Facebooku da vas prati s reklamama.
 onboarding-facebook-container-button = Instaliraj dodatak
+onboarding-import-browser-settings-title = Uvezite svoje zabilješke, lozinke i još mnogo toga
 
 ## Message strings belonging to the Return to AMO flow
 
