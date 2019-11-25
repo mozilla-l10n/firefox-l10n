@@ -291,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blockerat MIDI-åtkomst för denna webbplats.">
 <!ENTITY urlbar.installBlocked.tooltip           "Du har blockerat installation av tillägg från denna webbplats.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
 
 <!ENTITY searchItem.title             "Sök">
@@ -938,21 +939,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Varför?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blockering av dessa kan förstöra delar av vissa webbplatser. Utan trackers fungerar kanske inte vissa knappar, formulär och inloggningsfält.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Genom att stänga av skydd tillåts alla trackers på denna webbplats. Det kan också förbättra vissa webbplatsfunktioner.">
-<!ENTITY protections.socialMediaTrackers.label "Sociala trackers">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blockering av dessa kan förstöra delar av vissa webbplatser. Utan spårare fungerar kanske inte vissa knappar, formulär och inloggningsfält.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Genom att stänga av skydd tillåts alla spårare på denna webbplats. Det kan också förbättra vissa webbplatsfunktioner.">
+<!ENTITY protections.socialMediaTrackers.label "Sociala spårare">
 <!ENTITY protections.crossSiteTrackingCookies.label "Globala spårningskakor">
 <!ENTITY protections.trackingContent.label "Spårningsinnehåll">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alla trackers på denna webbplats har laddats eftersom skyddet är avstängt.">
-<!ENTITY protections.noTrackersFound.description "Inga kända trackers för &brandShortName; upptäcktes på den här sidan.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alla spårare på denna webbplats har laddats eftersom skyddet är avstängt.">
+<!ENTITY protections.noTrackersFound.description "Inga kända spårare för &brandShortName; upptäcktes på den här sidan.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Dessa kakor följer dig från sida till sida för att samla in data om vad du gör online. De anges av tredje part som annonsörer och analysföretag.">
 <!ENTITY protections.cryptominers.description "Cryptominers använder ditt systems datakraft för att utvinna digitala pengar. Cryptomining-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters samlar inställningar från din webbläsare och dator för att skapa en profil av dig. Med det här digitala fingeravtrycket kan de spåra dig på olika webbplatser.">
 <!ENTITY protections.trackingContent2.description "Webbplatser kan ladda externa annonser, videor och annat innehåll som innehåller spårningskod. Blockering av spårningsinnehåll kan hjälpa webbplatser att ladda snabbare, men vissa knappar, formulär och inloggningsfält kanske inte fungerar.">
-<!ENTITY protections.socialMediaTrackers.description "Sociala nätverk placerar trackers på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att sociala medieföretag kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler.">
+<!ENTITY protections.socialMediaTrackers.description "Sociala nätverk placerar spårare på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att sociala medieföretag kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -988,13 +989,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "Blockerbart innehåll har upptäckts på den här webbplatsen.">
 <!ENTITY contentBlocking.notDetected "Inget blockerbart innehåll upptäckt på den här sidan.">
 
-<!ENTITY contentBlocking.trackingProtection3.label "Trackers">
+<!ENTITY contentBlocking.trackingProtection3.label "Spårare">
 
 <!ENTITY contentBlocking.manageSettings.label "Hantera innehållsblockering">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
-<!ENTITY contentBlocking.trackersView.label "Trackers">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "För att blockera alla trackers, sätt innehållsblockering till “Strikt”.">
+<!ENTITY contentBlocking.trackersView.label "Spårare">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "För att blockera alla spårare, sätt innehållsblockering till “Strikt”.">
 
 <!ENTITY contentBlocking.cookies.label "Kakor">
 <!ENTITY contentBlocking.cookiesView.label "Kakor och webbplatsdata">
@@ -1004,7 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.label "Hantera skyddsinställningar">
 <!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
-<!ENTITY contentBlocking.socialblock.label "Sociala trackers">
+<!ENTITY contentBlocking.socialblock.label "Sociala spårare">
 
 <!ENTITY contentBlocking.cookies2.label "Globala spårningskakor">
 
@@ -1020,7 +1021,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Läs mer">
 
 <!ENTITY contentBlocking.breakageReportView.title "Rapportera en trasig webbplats">
-<!ENTITY contentBlocking.breakageReportView3.description "Blockering av vissa trackers kan orsaka problem med vissa webbplatser. Att rapportera dessa problem hjälper till att göra &brandShortName; bättre för alla. Genom att skicka in den här rapporten skickas en URL och information om dina webbläsarinställningar till Mozilla.">
+<!ENTITY contentBlocking.breakageReportView3.description "Blockering av vissa spårare kan orsaka problem med vissa webbplatser. Att rapportera dessa problem hjälper till att göra &brandShortName; bättre för alla. Genom att skicka in den här rapporten skickas en URL och information om dina webbläsarinställningar till Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Läs mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Vilka problem har du haft? (Frivillig)">
