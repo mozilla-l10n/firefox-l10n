@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Ввести дані входу">
 <!ENTITY fillLoginMenu.accesskey      "В">
-<!ENTITY fillSuggestedPassword.label  "Використати рекомендований пароль">
-<!ENTITY fillSuggestedPassword.accesskey "м">
 <!ENTITY fillGeneratedPassword.label  "Використати надійний згенерований пароль">
 <!ENTITY fillGeneratedPassword.accesskey "г">
+<!ENTITY useGeneratedPassword.label   "Використати надійний згенерований пароль…">
+<!ENTITY useGeneratedPassword.accesskey "г">
 <!ENTITY fillPasswordMenu.label       "Ввести пароль">
 <!ENTITY fillPasswordMenu.accesskey   "В">
 <!ENTITY fillUsernameMenu.label       "Ввести ім'я користувача">
