@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Sćelśo něd rejtarki
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Sen Tabs ned boki mjazy wašymi rědami źěli, bźeztogo aby kopěrował, zasajźił abo wobglědowak spušćił.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Źělśo lažko boki mjazy wašymi rědami, mimo aby wótkaze kopěrował abo wobglědowak spušćił.
 onboarding-send-tabs-button = Wužywajśo Send Tabs
 onboarding-pocket-anywhere-title = Cytajśo a słuchajśo wšuźi
 onboarding-pocket-anywhere-text2 = Składujśo swój nejlubše wopśimjeśe offline z nałoženim { -pocket-brand-name } a cytajśo, słuchajśo a woglědajśo, gažkuli se wam góźi.
@@ -137,9 +140,13 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name } wopytaś
 onboarding-lockwise-passwords-title = Wzejśo swóje gronidła wšuźi sobu
 onboarding-lockwise-passwords-text2 = Źaržćo gronidła, kótarež składujośo, wěste a pśizjawśo se lažko pla swójich kontow z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nałoženje wobstaraś
+onboarding-lockwise-strong-passwords-title = Mócne gronidła napóraś a składowaś
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ned mócne gronidła napórajo a składujo je na jadnom městnje.
+onboarding-lockwise-strong-passwords-button = Waše pśizjawjenja zastojaś
 onboarding-facebook-container-title = Stajśo granice za Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil źělony wót wšogo drugego źaržy. Tak jo śěžej za Facebook, wam zaměrne wabjenje pokazaś.
 onboarding-facebook-container-button = Rozšyrjenje pśidaś
+onboarding-import-browser-settings-title = Waše cytańske znamjenja, ronidła a wěcej importěrowaś
 
 ## Message strings belonging to the Return to AMO flow
 
