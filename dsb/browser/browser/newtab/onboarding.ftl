@@ -147,6 +147,8 @@ onboarding-facebook-container-title = Stajśo granice za Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil źělony wót wšogo drugego źaržy. Tak jo śěžej za Facebook, wam zaměrne wabjenje pokazaś.
 onboarding-facebook-container-button = Rozšyrjenje pśidaś
 onboarding-import-browser-settings-title = Waše cytańske znamjenja, ronidła a wěcej importěrowaś
+onboarding-import-browser-settings-text = Zachopśo ned - wzejśo swóje sedła Chrome a nastajenja sobu.
+onboarding-import-browser-settings-button = Daty Chrome importěrowaś
 
 ## Message strings belonging to the Return to AMO flow
 

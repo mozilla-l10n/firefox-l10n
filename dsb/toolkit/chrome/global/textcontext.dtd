@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "u">
 <!ENTITY fillGeneratedPassword.label  "Wěsćej napórane gronidło wužywaś">
 <!ENTITY fillGeneratedPassword.accesskey "s">
+<!ENTITY useGeneratedPassword.label   "Wěsće napórane gronidło wužywaś…">
+<!ENTITY useGeneratedPassword.accesskey "W">
 <!ENTITY fillPasswordMenu.label       "Gronidło wupołniś">
 <!ENTITY fillPasswordMenu.accesskey   "u">
 <!ENTITY fillUsernameMenu.label       "Wužywaŕske mě wupołniś">
