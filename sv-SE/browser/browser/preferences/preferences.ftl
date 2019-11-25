@@ -916,8 +916,8 @@ content-blocking-unvisited-cookies = Kakor från obesökta webbplatser
 content-blocking-all-windows-trackers = Kända spårare i alla fönster
 content-blocking-all-windows-tracking-content = Spårningsinnehåll i alla fönster
 content-blocking-all-third-party-cookies = Alla kakor från tredje part
-content-blocking-cryptominers = Cryptominers
-content-blocking-fingerprinters = Fingerprinters
+content-blocking-cryptominers = Kryptogrävare
+content-blocking-fingerprinters = Fingeravtrycksspårare
 content-blocking-warning-title = Se upp!
 content-blocking-warning-description = Att blockera innehåll kan begränsa funktionaliteten hos vissa webbplatser. Det är enkelt att inaktivera blockering för webbplatser du litar på.
 content-blocking-learn-how = Lär dig hur
@@ -947,12 +947,12 @@ content-blocking-expand-section =
     .tooltiptext = Mer information
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Cryptominers
+    .label = Kryptogrävare
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingerprinters
+    .label = Fingeravtrycksspårare
     .accesskey = F
 
 ## Privacy Section - Tracking
