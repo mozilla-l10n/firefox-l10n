@@ -25,7 +25,7 @@ onboarding-welcome-modal-get-body = Vous avez le navigateur. <br/>Profitez maint
 onboarding-welcome-modal-supercharge-body = Boostez votre protection de la vie privée.
 onboarding-welcome-modal-privacy-body = Vous avez le navigateur. Ajoutons davantage de protection de la vie privée.
 onboarding-welcome-modal-family-learn-more = En savoir plus sur la famille de produits { -brand-product-name }.
-onboarding-welcome-form-header = Commencer ici
+onboarding-welcome-form-header = Commencez ici
 onboarding-join-form-header = Rejoignez { -brand-product-name }
 onboarding-join-form-body = Saisissez votre adresse électronique pour vous lancer.
 onboarding-join-form-email =
@@ -145,11 +145,13 @@ onboarding-lockwise-passwords-title = Emmenez vos mots de passe partout
 onboarding-lockwise-passwords-text2 = Conservez en sécurité les mots de passe que vous enregistrez et connectez-vous en toute simplicité à vos comptes avec { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Obtenir l’application
 onboarding-lockwise-strong-passwords-title = Créez et stockez des mots de passe robustes
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crée à la volée des mots de passe robustes et les enregistre tous en un seul endroit.
 onboarding-lockwise-strong-passwords-button = Gérer vos identifiants
 onboarding-facebook-container-title = Fixez les limites avec Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } conserve votre profil séparé de tout le reste. Il est ainsi plus difficile pour Facebook de vous cibler avec des publicités.
 onboarding-facebook-container-button = Installer l’extension
 onboarding-import-browser-settings-title = Importez vos marque-pages, mots de passe et plus encore
+onboarding-import-browser-settings-button = Importer des données de Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
