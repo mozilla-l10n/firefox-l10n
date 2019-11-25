@@ -79,8 +79,8 @@ manage-connected-devices = Gérer les appareils…
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
     { $count ->
-        [one] appareil connecté
-       *[other] appareils connectés
+        [one] Connecté à { $count } appareil
+       *[other] Connecté à { $count } appareils
     }
 monitor-title = Gardez un œil sur les fuites de données
 monitor-link = Principes de fonctionnement
