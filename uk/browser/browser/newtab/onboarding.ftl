@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Миттєво пересилайте собі вк
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Надсилання вкладки миттєво пересилає веб-сторінки між вашими пристроями без копіювання посилань, не покидаючи браузер.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Легко обмінюйтесь сторінками між своїми пристроями без копіювання посилань та не покидаючи браузер.
 onboarding-send-tabs-button = Почати використання обмін вкладками
 onboarding-pocket-anywhere-title = Читайте і слухайте всюди
 onboarding-pocket-anywhere-text2 = Зберігайте улюблені статті для автономного доступу за допомогою додатка { -pocket-brand-name } і читайте та слухайте їх всюди, де вам зручно.
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = Спробувати { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Зберігайте свої паролі при собі
 onboarding-lockwise-passwords-text2 = Зберігайте свої паролі в безпеці й легко авторизуйтесь в своїх облікових записах за допомогою { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Отримати додаток
+onboarding-lockwise-strong-passwords-title = Створюйте й зберігайте надійні паролі
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } створює надійні паролі та зберігає їх всі в одному місці.
+onboarding-lockwise-strong-passwords-button = Керуйте своїми паролями
 onboarding-facebook-container-title = Встановіть обмеження для Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } обмежує ваш соціальний профіль від доступу до всього іншого, ускладнюючи для Facebook можливість стежити за вами з метою показу реклами.
 onboarding-facebook-container-button = Встановити розширення
+onboarding-import-browser-settings-title = Імпортуйте свої закладки, паролі та іншу інформацію
+onboarding-import-browser-settings-text = Швидке занурення — легко перенесіть свої сайти й налаштування з Chrome.
+onboarding-import-browser-settings-button = Імпорт даних Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
