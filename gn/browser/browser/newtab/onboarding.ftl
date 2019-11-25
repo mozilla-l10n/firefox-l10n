@@ -146,6 +146,8 @@ onboarding-facebook-container-title = Eikuaauka hu’ã con Facebook ndive
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } oipe’a imba’ete Facebook pegua opavavégui, péicha ombohasy Facebook-pe ohechauka hag̃ua imaranduñemurã ñemomba’epyre.
 onboarding-facebook-container-button = Embojuaju jepysokue
 onboarding-import-browser-settings-title = Emba’egueru nde rechaukaha, ñe’ẽñemi ha hetave
+onboarding-import-browser-settings-text = Eikepaite — egueraha Chrome renda ha ñemboheko nendive.
+onboarding-import-browser-settings-button = Emba’egueru Chrome mba’ekuaarã
 
 ## Message strings belonging to the Return to AMO flow
 

@@ -73,6 +73,7 @@ abuse-report-deceptive-reason-v2 = Eha’ã umi ndaha’éiva
 abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga jejavýva
 abuse-report-broken-reason-extension = Ndoikói, ombyai ñanduti renda térã omombegue { -brand-product-name }
 abuse-report-broken-reason-theme = Ndoikói térã ndojehechái pe kundaha
+abuse-report-broken-reason-extension-v2 = Ndoikói, omopẽ  ñanduti renda térã omombegue { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ndoikói térã oipe’a ohechaukáva kundahára
 abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijepuru térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
 abuse-report-broken-suggestions-extension = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike jepysokue ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
@@ -81,5 +82,6 @@ abuse-report-policy-reason = Tetepy rairõgua, imarã térã ja’e’ỹ
 abuse-report-policy-reason-v2 = Tetepy iñaña, imbarete térã léigui osẽva
 abuse-report-policy-suggestions = Kuaarã: Umi apañuãi ojojoguáva apohare derécho ha marca registrada oñemomaranduva’erã ha’eño peteĩteĩva. <a data-l10n-name="report-infringement-link">Eipuru ko’ã je’epyre</a> emomarandu hag̃ua apañuãi.
 abuse-report-unwanted-reason = Ndaipotaivavoínte ko jepysokue ha ndaikatúi aipe’a ko’ág̃a
+abuse-report-unwanted-reason-v2 = Ndaipotái ha ndaikuaái mba’éichapa ajeíta chugui
 abuse-report-unwanted-example = Techapyrã: Peteĩ tembipuru’i oñemohendáva amoneĩ’ỹre
 abuse-report-other-reason = Ambue mba’e
