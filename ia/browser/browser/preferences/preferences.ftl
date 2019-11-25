@@ -117,7 +117,7 @@ search-results-help-link = Require adjuta? Visita <a data-l10n-name="url">Assist
 
 ## General Section
 
-startup-header = A initiar
+startup-header = Al initio
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
@@ -145,7 +145,7 @@ ctrl-tab-recently-used-order =
     .label = Ctrl+Tab percurre le schedas in le ordine usate recentemente
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Aperir le ligamines in schedas in vice de nove fenestras
+    .label = Aperir ligamines in schedas in vice de nove fenestras
     .accesskey = s
 warn-on-close-multiple-tabs =
     .label = Advertir te quando tu claude multiple schedas
