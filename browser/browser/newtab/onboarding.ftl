@@ -137,9 +137,11 @@ onboarding-pocket-anywhere-button = Паспрабаваць { -pocket-brand-nam
 onboarding-lockwise-passwords-title = Вазьміце свае паролі з сабой
 onboarding-lockwise-passwords-text2 = Бяспечна захоўвайце паролі і лёгка ўваходзьце ў свае ўліковыя запісы з дапамогай { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Атрымаць праграму
+onboarding-lockwise-strong-passwords-button = Кіруйце сваімі лагінамі
 onboarding-facebook-container-title = Усталяваць межы для Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } трымае ваш профіль асобна ад рэшты, што робіць больш складаным для Facebook паказваць вам мэтавую рэкламу.
 onboarding-facebook-container-button = Дадаць пашырэнне
+onboarding-import-browser-settings-title = Імпартуйце свае закладкі, паролі і шмат іншага
 
 ## Message strings belonging to the Return to AMO flow
 
