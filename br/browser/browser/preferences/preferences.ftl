@@ -296,6 +296,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Arverañ { $plugin-name } (e { -brand-short-name })
@@ -321,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Endalc'had Digital Rights Management (DRM)
 play-drm-content =
@@ -521,7 +525,13 @@ search-bar-shown =
     .label = Ouzhpennañ ar varrenn glask er varrenn ostilhoù
 search-engine-default-header = Keflusker enklask dre ziouer
 search-engine-default-desc = Dibab al lusker klask dre ziouer da arverañ er varrenn chomlec'hioù hag er varrenn glask.
+search-engine-default-desc-2 = Ho lusker enklask dre ziouer er varrenn chomlec'h hag er varrenn glask an hini eo. Gallout a rit cheñch anezhañ pa fell deoc'h.
+search-engine-default-private-desc-2 = Dibabit ul lusker enklask dre ziouer disheñvel evit ar prenestroù prevez hepken
+search-separate-default-engine =
+    .label = Ober gant al lusker enklask-se er prenestroù prevez
+    .accesskey = O
 search-suggestions-header = Kaout alioù
+search-suggestions-desc = Dibab penaos e vez diskouezet ar c'hinnigoù eus al luskerioù enklask.
 search-suggestions-option =
     .label = Kinnig alioù enklask
     .accesskey = a
@@ -535,6 +545,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Diskouez an alioù klask a-us d'ar roll istor e disoc'hoù ar varrenn chomlec'h
+search-show-suggestions-private-windows =
+    .label = Diskouez ar c'hinnigoù enklask er prenestroù prevez
+suggestions-addressbar-settings = Kemmañ ar gwellvezioù evit ar roll istor merdeiñ, ar sinedoù hag an alioù ivinelloù
 search-suggestions-cant-show = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
 search-one-click-header = Luskerioù enklask ur-c'hlik
 search-one-click-desc = Dibabit al luskerioù enklask all diskouezet dindan ar varrenn chomlec'hioù hag ar varrenn glask pa grogit da skrivañ ur ger.
@@ -582,6 +595,9 @@ sync-signedout-account-create = N'ho p'eus ket a gont? Krogit ganti
     .accesskey = N
 sync-signedout-account-signin =
     .label = Kennaskañ…
+    .accesskey = K
+sync-signedout-account-signin2 =
+    .label = Kennaskañ ouzh { -sync-brand-short-name }...
     .accesskey = K
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -650,6 +666,9 @@ sync-currently-syncing-prefs =
         [windows] Dibarzhioù
        *[other] Gwellvezioù
     }
+sync-change-options =
+    .label = Kemmañ…
+    .accesskey = K
 
 ## The "Choose what to sync" dialog.
 
@@ -727,6 +746,7 @@ privacy-header = Prevezted ar merdeer
 ## Privacy Section - Logins and Passwords
 
 logins-header = Titouroù kennaskañ
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù
     .accesskey = G
@@ -740,6 +760,7 @@ forms-breach-alerts =
     .label = Diskouez galvoù diwall a-zivout ar gerioù-tremen war al lec'hiennoù frailhet
     .accesskey = D
 forms-breach-alerts-learn-more-link = Gouzout hiroc'h
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Leuniañ an titouroù kennaskañ ent emgefreek
     .accesskey = L
@@ -894,7 +915,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personelaet
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar pajennoù a gargo en un doare ordinal.
 content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù 'zo da derriñ.

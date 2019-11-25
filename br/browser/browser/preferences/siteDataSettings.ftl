@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Kadaviñ
 site-data-column-last-used =
     .label = Arver diwezhañ
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (restr lec'hel)
 site-data-remove-selected =
     .label = Dilemel ar re ziuzet
     .accesskey = D
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Enrollañ ar c'hemmoù
     .accesskey = E
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Diastal)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

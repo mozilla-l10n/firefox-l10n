@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Mirout { -brand-short-name } da lañsañ studiade
 policy-DisableForgetButton = Diweredekaat an afell evit dilemel ar roadennoù.
 policy-DisableFormHistory = Chom hep derc'hel soñj eus ar roll istor klask ha furmskridoù.
 policy-DisableMasterPasswordCreation = M'eo gwir e vo tu krouiñ ur ger-tremen mestr.
+policy-DisablePasswordReveal = Na aotren ar gerioù-tremen da vezañ diskouezet en titouroù kennaskañ enrollet.
 policy-DisablePocket = Diweredekaat ar c'heweriuster evit enrollañ pajennoù e Pocket.
 policy-DisablePrivateBrowsing = Diweredekaat ar merdeiñ prevez.
 policy-DisableProfileImport = Diweredekaat arc'had al lañser evit enporzhiañ roadennoù adalek ur merdeer all.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = M'eo lakaet da Gaou e vo diweredekaet herrekadur a
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Arventennañ ar bennbajenn. Gallout a rit ivez prennañ anezhi.
 policy-InstallAddonsPermission = Aotren lec'hiennoù 'zo da staliañ askouezhioù.
+policy-LegacyProfiles = Diweredekaat ar c'heweriuster a redi un aelad distag evit pep staliadur.
 policy-LocalFileLinks = Aotren lec'hiennoù 'zo da liammañ restroù lec'hel.
 policy-NetworkPrediction = (Di)weredekaat an diougan rouedad (rakkerc'hat DNS)
 policy-NewTabPage = (Di)weredekaat ar bajenn ivinell nevez.

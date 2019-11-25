@@ -176,6 +176,7 @@ newtab-discovery-empty-section-topstories-timed-out = Chaous! N'eo ket bet karge
 newtab-pocket-read-more = Danvezioù brudet:
 newtab-pocket-more-recommendations = Erbedadennoù ouzhpenn
 newtab-pocket-how-it-works = Penaos ez a en-dro
+newtab-pocket-whats-pocket = Petra eo { -pocket-brand-name }?
 newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
 newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
 

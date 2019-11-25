@@ -80,6 +80,11 @@ onboarding-benefit-privacy-title = Doujañ ouzh ho puhez prevez evit gwir
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Holl ar pezh a reomp a zouj ouzh hon Gwarant a-fet Roadennoù Personel
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Kemerit ho sinedoù, gerioù-tremen, roll istor ha muioc'h c'hoazh e pep lec'h ma arverit { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Bezit kelaouet pa vez ho titouroù personel en ur frailh roadennoù anavezet.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Merit gerioù-tremen gwarezet hag hezoug.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -108,6 +113,7 @@ onboarding-data-sync-text2 = Goubredit ho sinedoù, gerioù-tremen ha muioc'h c'
 onboarding-data-sync-button2 = Kennaskañ da { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Bezit kelaouet eus ar beradurioù
 onboarding-firefox-monitor-text = { -monitor-brand-name } a sell mard eo bet diskuilhet ho chomlec'h postel en ur beradur roadennoù ha kelaouiñ a raio ac'hanoc'h ma vo graet en dazont.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } a sell mard eo bet diskuilhet ho chomlec'h postel en ur beradur roadennoù ha kelaouiñ a raio ac'hanoc'h ma vo graet en dazont.
 onboarding-firefox-monitor-button = Koumanantiñ d'ar galvoù-diwall
 onboarding-browse-privately-title = Merdeiñ prevez
 onboarding-browse-privately-text = Gant ar merdeiñ prevez e vo skarzhet ho roll istor klask ha merdeiñ evit ma chomfe kuzh diouzh an neb a rafe gant an urzhiataer.
@@ -124,6 +130,9 @@ onboarding-send-tabs-title = Kasit ivinelloù deoc'h ho-unan
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Gallout a rit kas ivinelloù evit rannañ pajennoù etre ho trevnadoù hep kaout da eilañ, pegañ pe kuitaat ar merdeer.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Gallout a rit rannañ pajennoù etre ho trevnadoù hep kaout da eilañ pe kuitaat ar merdeer.
 onboarding-send-tabs-button = Kregiñ da gas ivinelloù
 onboarding-pocket-anywhere-title = Lennit ha selaouit e pep lec'h
 onboarding-pocket-anywhere-text2 = Enrollit ho tanvez karetañ ezlinenn gant an arload { -pocket-brand-name } ha lennit, selaouit pe sellit pa 'z eo ar gwellañ evidoc'h.
@@ -131,9 +140,15 @@ onboarding-pocket-anywhere-button = Esaeit { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Kemerit ho kerioù-tremen e pep lec'h ganeoc'h
 onboarding-lockwise-passwords-text2 = Mirit ar gerioù-tremen a enrollit en un doare diogel ha kennaskit d'ho kontoù ken eeun ha tra gant { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Kaout an arload
+onboarding-lockwise-strong-passwords-title = Krouiñ ha kadaviñ gerioù-tremen kreñv
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } a sav gerioù-tremen kreñv war ar prim hag a enroll anezho holl en ul lec'h nemetken.
+onboarding-lockwise-strong-passwords-button = Merit ho kerioù-tremen
 onboarding-facebook-container-title = Lakait bevennoù da Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } a skoazell ac'hanoc'h da virout hoc'h aelad distag eus ar peurrest, evit ma vefe diaesoc'h da Facebook da dizhout ac'hanoc'h gant bruderezh.
 onboarding-facebook-container-button = Ouzhpennañ an askouezh
+onboarding-import-browser-settings-title = Enporzhit ho sinedoù, ho kerioù-tremen ha muioc'h c'hoazh
+onboarding-import-browser-settings-text = Splujit e-barzh — degasit ho lec'hiennoù hag arventennoù Chrome ganeoc'h.
+onboarding-import-browser-settings-button = Enporzhiañ roadennoù Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

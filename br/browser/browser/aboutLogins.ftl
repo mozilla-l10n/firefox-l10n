@@ -85,6 +85,7 @@ about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merde
 login-item-new-login-title = Krouiñ un titour kennaskañ nevez
 login-item-edit-button = Embann
 login-item-delete-button = Dilemel
+about-logins-login-item-remove-button = Dilemel
 login-item-origin-label = Chomlec'h al lec'hienn
 login-item-origin =
     .placeholder = https://www.example.com
@@ -128,6 +129,7 @@ enable-password-sync-preferences-button =
            *[other] Gwellvezioù { -sync-brand-short-name }
         }
     .accesskey = o
+confirm-delete-dialog-title = Dilemel an titouroù kennaskañ-mañ?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Na c'houlennit en-dro
     .accesskey = N
@@ -137,9 +139,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Nullañ
 confirmation-dialog-dismiss-button =
     .title = Nullañ
-confirm-delete-dialog-title = Dilemel an titouroù kennaskañ-mañ?
+about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 confirm-delete-dialog-confirm-button = Dilemel
+about-logins-confirm-remove-dialog-confirm-button = Dilmeel
 confirm-discard-changes-dialog-title = Dilezel ar c'hemmoù n'int ket bet enrollet?
 confirm-discard-changes-dialog-message = An holl c'hemmoù n'int ket bet enrollet a vo kollet.
 confirm-discard-changes-dialog-confirm-button = Dilezel
