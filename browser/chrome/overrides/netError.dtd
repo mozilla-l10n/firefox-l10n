@@ -152,7 +152,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>. As jo dizze website besykje, soene hackers kinne probearje gegevens te stellen, lykas jo wachtwurden, e-mailadressen of creditcardgegevens.">
+<!ENTITY certerror.introPara2 "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>. As jo dizze website besykje, soene hackers probearje kinne gegevens te stellen, lykas jo wachtwurden, e-mailadressen of creditcardgegevens.">
 <!ENTITY certerror.sts.introPara "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>, omdat dizze website in befeilige ferbining fereasket.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; hat in probleem detektearre en is net trochgien nei <span class='hostname'/>. Of de website is net krekt konfigurearre, of jo kompjûterklok is op de ferkearde tiid ynsteld.">

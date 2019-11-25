@@ -21,18 +21,18 @@ cert-error-trust-symantec = Sertifikaten dy't troch GeoTrust, RapidSSL, Symantec
 cert-error-untrusted-default = It sertifikaat komt net fan in fertroude boarne.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it sertifikaat brûkt wurdt dat net jildich is foar { $hostname }.
+cert-error-domain-mismatch = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt wurdt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt wurdt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat in sertifikaat brûkt wurdt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar de folgjende nammen: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Websites bewize harren identiteit fia sertifikaten. { -brand-short-name } fertrout dizze website net, omdat it in sertifikaat brûkt dat net jildich is foar { $hostname }. It sertifikaat is allinnich jildich foar de folgjende nammen: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
