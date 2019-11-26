@@ -120,6 +120,7 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ndohejái ko kuatiaroguépe oñemyañyhẽvo kóicha pe kuatiarogue oguereko rupi tetepy rekorosãrã purureko nomoneĩrĩva.</p>">
 
 <!ENTITY xfoBlocked.title "Ojokóma tapereko X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; omboyke ko kuatiarogue henyhẽvo ko apu’ápe pe kuatiarogue oreko rupi X-Frame purureko nomoneĩriva.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tetepy marãva jejavy">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Pe Kuatiarogue ehechaséva ndaikatúi ojehechauka ndéve ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ ko ñanduti renda jarakuéra ndive emomarandu hag̃ua chupekuéra ko apañuãi.</li></ul>">
