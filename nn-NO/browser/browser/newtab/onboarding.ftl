@@ -147,6 +147,7 @@ onboarding-facebook-container-title = Spesifiser grenser for Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } held profilen din skilt frå alt anna, noko som gjer det vanskeligare for Facebook å målrette annonsar mot deg.
 onboarding-facebook-container-button = Legg til utvidinga
 onboarding-import-browser-settings-title = Importer bokmerka dine, passord og meir
+onboarding-import-browser-settings-text = Kom raskt i gang—ta enkelt med deg Chrome-nettstadar og -innstillingar.
 onboarding-import-browser-settings-button = Importer Chrome-data
 
 ## Message strings belonging to the Return to AMO flow
