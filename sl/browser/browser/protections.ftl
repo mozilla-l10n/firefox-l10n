@@ -82,6 +82,16 @@ lockwise-sync-status =
        *[other] Sinhronizacija z { $count } drugimi napravami
     }
 lockwise-sync-not-syncing-devices = Ni sinhronizacije z drugimi napravami
+manage-connected-devices = Upravljanje naprav …
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Povezan z { $count } napravo
+        [two] Povezan z { $count } napravama
+        [few] Povezan s { $count } napravami
+       *[other] Povezan s { $count } napravami
+    }
 monitor-title = Bodite obveščeni o krajah podatkov
 monitor-link = Kako deluje
 monitor-header-content-no-account = Preverite s { -monitor-brand-name }jem, ali ste bili vpleteni v znano krajo podatkov, ter prejemajte opozorila o novih krajah.
