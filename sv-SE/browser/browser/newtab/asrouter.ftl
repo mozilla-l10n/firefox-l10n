@@ -100,7 +100,7 @@ cfr-whatsnew-fx70-body =
     lättare än någonsin att skapa säkra lösenord för varje webbplats.
 cfr-whatsnew-tracking-protect-title = Skydda dig från spårare
 cfr-whatsnew-tracking-protect-body =
-    { -brand-short-name } blockerar många vanliga sociala och cross-site spårare som
+    { -brand-short-name } blockerar många vanliga sociala och globala spårare som
     följer vad du gör online.
 cfr-whatsnew-tracking-protect-link-text = Visa din rapport
 # This string is displayed before a large numeral that indicates the total
