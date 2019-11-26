@@ -49,6 +49,9 @@
 <!ENTITY deleteAbCmd.label                              "Deler libro del adresses">
 <!ENTITY deleteContactCmd.label                         "Deler contacto">
 <!ENTITY deleteContactsCmd.label                        "Deler contactos">
+<!ENTITY deleteListCmd.label                            "Deler lista">
+<!ENTITY deleteListsCmd.label                           "Deler listas">
+<!ENTITY deleteItemsCmd.label                           "Deler elementos">
 <!ENTITY selectAllCmd.label                             "Seliger toto">
 <!ENTITY selectAllCmd.key                               "t">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -70,13 +73,35 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barras de instrumentos">
 <!ENTITY viewToolbarsMenu.accesskey                     "i">
+<!ENTITY menubarCmd.label                               "Barra de menu">
+<!ENTITY menubarCmd.accesskey                           "M">
+<!ENTITY showAbToolbarCmd.label                         "Barra de instrumentos del libro de adresses">
+<!ENTITY showAbToolbarCmd.accesskey                     "a">
+<!ENTITY showTaskbarCmd.label                           "Barra de stato">
+<!ENTITY showTaskbarCmd.accesskey                       "s">
+<!ENTITY customizeToolbar.label                         "Personalisar…">
+<!ENTITY customizeToolbar.accesskey                     "P">
+<!ENTITY layoutMenu.label                               "Disposition">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Quadro del directorio">
+<!ENTITY showDirectoryPane.accesskey                    "d">
+<!ENTITY showContactPane2.label                         "Quadro de contactos">
+<!ENTITY showContactPane2.accesskey                     "c">
+<!ENTITY menu_ShowNameAs.label                          "Monstrar nomine como">
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Nomine e nomine de familia">
+<!ENTITY firstLastCmd2.accesskey                        "f">
 
 <!-- Tools Menu -->
 <!ENTITY messengerCmd.label                             "Posta e gruppos">
 
 <!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newContactButton.label                         "Nove contacto">
+<!ENTITY newContactButton.accesskey                     "c">
+<!ENTITY newlistButton.label                            "Nove lista">
+<!ENTITY newlistButton.accesskey                        "l">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY editAbPropertiesButton.tooltip                 "Modificar le proprietates del adressario seligite">
