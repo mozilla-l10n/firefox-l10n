@@ -93,8 +93,15 @@
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Nomine e nomine de familia">
 <!ENTITY firstLastCmd2.accesskey                        "f">
+<!ENTITY lastFirstCmd.label                             "Nomine de familia, nomine">
+<!ENTITY lastFirstCmd.accesskey                         "N">
+<!ENTITY displayNameCmd.label                           "Nomine monstrate">
+<!ENTITY displayNameCmd.accesskey                       "m">
+<!ENTITY sortMenu.label                                 "Ordinar per">
+<!ENTITY sortMenu.accesskey                             "O">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Instrumentos">
 <!ENTITY messengerCmd.label                             "Posta e gruppos">
 
 <!-- Address Book Toolbar and Context Menus -->
