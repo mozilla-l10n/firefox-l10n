@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Protection Level is set to <b>Standard</b>
-protection-header-details-strict = Protection Level is set to <b>Strict</b>
-protection-header-details-custom = Protection Level is set to <b>Custom</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Protection Level is set to <b>Standard</b>
     .title = Go to Privacy Settings
 protection-report-header-details-strict = Protection Level is set to <b>Strict</b>
@@ -37,6 +31,8 @@ protection-report-page-title = Privacy Protections
 protection-report-content-title = Privacy Protections
 etp-card-title = Enhanced Tracking Protection
 etp-card-content = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
+protection-report-etp-card-content-custom-not-blocking = All protections are currently turned off. Choose which trackers to block by managing your { -brand-short-name } protections settings.
+protection-report-manage-protections = Manage Settings
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Today
@@ -56,7 +52,6 @@ lockwise-title = Never forget a password again
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } securely stores your passwords in your browser.
 lockwise-header-content-logged-in = Securely store and synchronise your passwords to all your devices.
-about-logins-view-logins-button = View Logins
 protection-report-view-logins-button = View Logins
     .title = Go to Saved Logins
 lockwise-no-logins-content = Get the <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> app to take your passwords everywhere.
@@ -79,6 +74,14 @@ lockwise-sync-status =
        *[other] Synchronising to { $count } other devices
     }
 lockwise-sync-not-syncing-devices = Not synchronising to other devices
+manage-connected-devices = Manage devices…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Connected to { $count } device
+       *[other] Connected to { $count } devices
+    }
 monitor-title = Look out for data breaches
 monitor-link = How it works
 monitor-header-content-no-account = Check { -monitor-brand-name } to see if you’ve been part of a known data breach, and get alerts about new breaches.
@@ -118,10 +121,6 @@ password-warning =
         [one] Saved login may have been exposed in a data breach. Change this password for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
        *[other] Saved logins may have been exposed in a data breach. Change these passwords for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Go to Privacy Settings
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Go to Saved Logins
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
