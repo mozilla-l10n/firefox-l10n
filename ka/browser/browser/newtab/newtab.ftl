@@ -45,9 +45,6 @@ newtab-topsites-save-button = შენახვა
 newtab-topsites-preview-button = შეთვალიერება
 newtab-topsites-add-button = დამატება
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = ნამდვილად გსურთ, ამ გვერდის ყველა ჩანაწერის ისტორიიდან ამოშლა?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = სანიშნებიდან ამოშ�
 # Bookmark is a verb here.
 newtab-menu-bookmark = ჩანიშვნა
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = სანიშნი მოცილებუ�
 newtab-label-recommended = ფართოდ გავრცელებული
 newtab-label-saved = შენახულია { -pocket-brand-name }-ში
 newtab-label-download = ჩამოტვირთული
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = ჰმ! თითქმი
 newtab-pocket-read-more = მეტად გავრცელებული საკითხები:
 newtab-pocket-more-recommendations = მეტი შემოთავაზებები
 newtab-pocket-how-it-works = როგორ მუშაობს
+newtab-pocket-whats-pocket = რა არის { -pocket-brand-name }?
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
 newtab-pocket-cta-text = გადაინახეთ სასურველი შიგთავსი { -pocket-brand-name }-ში და მიეცით გონებას საკვები, შთამბეჭდავი საკითხავი მასალის სახით.
 
