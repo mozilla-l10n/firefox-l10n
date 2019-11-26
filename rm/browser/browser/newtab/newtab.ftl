@@ -45,9 +45,6 @@ newtab-topsites-save-button = Memorisar
 newtab-topsites-preview-button = Prevista
 newtab-topsites-add-button = Agiuntar
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Vuls ti propi stizzar mintga instanza da questa pagina ord la cronologia?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Allontanar il segnapagina
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marcar sco segnapagina
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Allontanà il segnapagina
 newtab-label-recommended = Popular
 newtab-label-saved = Memorisà en { -pocket-brand-name }
 newtab-label-download = Telechargià
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oha! Nus avain quasi charg
 newtab-pocket-read-more = Temas populars:
 newtab-pocket-more-recommendations = Dapli propostas
 newtab-pocket-how-it-works = Co ch'i funcziuna
+newtab-pocket-whats-pocket = Tge è { -pocket-brand-name }?
 newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
 newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.
 
