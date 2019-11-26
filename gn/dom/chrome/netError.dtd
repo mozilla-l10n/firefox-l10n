@@ -77,6 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Pe kundaha ojoko ko kuatiaroguégui oñemyenyhẽvo kóicha kuatiarogue oguereko rupi peteĩ tapereko jeroviaha tetepy rehegua nomoneĩriva.</p>">
 
 <!ENTITY xfoBlocked.title "Ojokóma Tapereko X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Ko kundahára omboyke ko kuatiarogue henyhẽvo ko apuápe pe kuatiarogue oreko rupi X-Frame-Options purureko nomoneĩriva.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tetepy imarãva rupi jejavy">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Kuatiarogue eñeha'ãva ehecha ndojehechaukakuaái ojejuhu rupi peteĩ jejavy mba'ekuaarã ñembohasakuévo.</p><ul><li>Eñe'ẽ umi ñanduti renda jára ndive emombe'u hag̃ua chupekuéra ko apañuãi rehegua.</li></ul>">
