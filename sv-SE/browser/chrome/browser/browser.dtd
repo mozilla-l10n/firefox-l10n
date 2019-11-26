@@ -941,7 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "Varför?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blockering av dessa kan förstöra delar av vissa webbplatser. Utan spårare fungerar kanske inte vissa knappar, formulär och inloggningsfält.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Genom att stänga av skydd tillåts alla spårare på denna webbplats. Det kan också förbättra vissa webbplatsfunktioner.">
-<!ENTITY protections.socialMediaTrackers.label "Sociala spårare">
+<!ENTITY protections.socialMediaTrackers.label "Sociala media-spårare">
 <!ENTITY protections.crossSiteTrackingCookies.label "Globala spårningskakor">
 <!ENTITY protections.trackingContent.label "Spårningsinnehåll">
 <!ENTITY protections.fingerprinters.label "Fingeravtrycksspårare">
@@ -1005,7 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.label "Hantera skyddsinställningar">
 <!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
-<!ENTITY contentBlocking.socialblock.label "Sociala spårare">
+<!ENTITY contentBlocking.socialblock.label "Sociala media-spårare">
 
 <!ENTITY contentBlocking.cookies2.label "Globala spårningskakor">
 
