@@ -16,6 +16,11 @@
 serviceworker-list-header = सेवा कार्यकर्त्ता
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = अपंजीकृत
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = दोषशोधन करे
+    .title = केवल निरंतर सेवा कार्यकर्ताओं का ही दोषशोधन किया जा सकता है
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = शुरू करें

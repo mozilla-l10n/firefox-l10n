@@ -57,3 +57,11 @@ rcwn-avg-long = लंबे औसत
 rcwn-std-dev-long = लंबा मानक विचलन
 rcwn-cache-slow = कैश सुस्ती गणना
 rcwn-cache-not-slow = कैश असुस्ती गणना
+networkid = नेटवर्क आईडी
+networkid-id = नेटवर्क आईडी
+
+## Link is intended as "network link"
+
+
+
+

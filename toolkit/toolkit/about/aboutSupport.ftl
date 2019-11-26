@@ -115,7 +115,7 @@ media-device-channels = चैनल्स
 media-device-rate = दर
 media-device-latency = विलंबता
 
-##
+
 
 intl-title = अंतरराष्ट्रीयकरण & स्थानीयकरण
 intl-app-title = अनुप्रयोग सेटिंग्स
@@ -126,6 +126,19 @@ intl-locales-default = मूल स्थानिकी
 intl-os-title = प्रचालन तंत्र
 intl-os-prefs-system-locales = तंत्र स्थानिकी
 intl-regional-prefs = क्षेत्रीय वरीयताएँ
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -189,6 +202,8 @@ unknown = अज्ञात
 
 found = पाया गया
 missing = अनुपलब्ध
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = वर्णन
 gpu-vendor-id = विक्रेता ID
 gpu-device-id = युक्ति ID

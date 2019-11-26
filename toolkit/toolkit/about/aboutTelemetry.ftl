@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = डेटा स्रोत को पिंग करे:
 about-telemetry-show-current-ping-data = वर्तमान पिंग डेटा
+about-telemetry-show-current-data = मौजूदा डेटा
 about-telemetry-show-archived-ping-data = पिंग डेटा का अभिलेख किया गया
 about-telemetry-show-subsession-data = उपसत्र डेटा दिखाएँ
 about-telemetry-choose-ping = पिंग चुनें:
@@ -124,3 +125,6 @@ about-telemetry-category-header = श्रेणी
 about-telemetry-method-header = विधि
 about-telemetry-object-header = वस्तु
 about-telemetry-extra-header = अतिरिक्त
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } प्रक्रिया

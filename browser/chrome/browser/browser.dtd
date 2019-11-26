@@ -126,7 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "अपना ख़ाता सत्यापित करें">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "न्यूनतम करें">
 <!ENTITY fullScreenRestore.tooltip "फिर संग्रहित करें">
@@ -144,6 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "अपने ईमेल की जाँच करें">
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -882,6 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.issueList.comments "टिप्पणियाँ">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "वीडियो">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "एक रिपोर्ट भेजें">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:

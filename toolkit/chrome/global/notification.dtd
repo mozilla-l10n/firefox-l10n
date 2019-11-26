@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "अधिक जानें…">
 
+<!ENTITY learnMoreNoEllipsis "अधिक जानें">
+
 <!ENTITY defaultButton.label "ठीक है!">
 <!ENTITY defaultButton.accesskey "O">
 
