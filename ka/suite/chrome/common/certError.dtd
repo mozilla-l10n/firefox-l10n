@@ -45,3 +45,6 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 <!ENTITY certerror.addException.label "გამონაკლისის დამატება…">
 
 <!ENTITY certerror.technical.heading "ტექნიკური დეტალები">
+
+<!ENTITY dnsNotFound.pageTitle "სერვერი ვერ მოიძებნა">
+<!ENTITY malformedURI.pageTitle "არასწორი URL">
