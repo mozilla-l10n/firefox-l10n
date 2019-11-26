@@ -91,5 +91,6 @@ abuse-report-policy-suggestions =
     <a data-l10n-name="report-infringement-link">Bruk desse instruksjonane</a> for å
     rapportere problemet.
 abuse-report-unwanted-reason = Ville aldri ha denne utvidinga og greier ikkje å kvitte meg med henne
+abuse-report-unwanted-reason-v2 = Eg har aldri ønskt den og eg veit ikkje korleis eg kan bli kvitt den
 abuse-report-unwanted-example = Døme: Eit program installerte den utan løyve frå meg
 abuse-report-other-reason = Noko anna
