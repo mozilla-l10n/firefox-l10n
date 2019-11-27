@@ -146,6 +146,9 @@
 <!ENTITY cspBlocked.title "已依內容安全政策封鎖">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了這個頁面載入，因為這個頁面的內容安全政策不允許其以這種方式被載入。</p>">
 
+<!ENTITY xfoBlocked.title "因 X-Frame-Options 封鎖">
+<!ENTITY xfoBlocked.longDesc "<p>因為這個頁面包含 X-Frame-Options 政策，不允許以這種方式載入，&brandShortName; 封鎖了這個頁面載入。</p>">
+
 <!ENTITY corruptedContentErrorv2.title "內容毀損錯誤">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。</p><ul><li>請通知網站管理者以讓他們知道這個問題。</li></ul>">
 
