@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Увесці логін">
 <!ENTITY fillLoginMenu.accesskey      "У">
-<!ENTITY fillSuggestedPassword.label  "Ужыць прапанаваны пароль">
-<!ENTITY fillSuggestedPassword.accesskey "ы">
 <!ENTITY fillGeneratedPassword.label  "Ужыць надзейны згенераваны пароль">
 <!ENTITY fillGeneratedPassword.accesskey "ы">
+<!ENTITY useGeneratedPassword.label   "Ужыць надзейны згенераваны пароль…">
+<!ENTITY useGeneratedPassword.accesskey "ы">
 <!ENTITY fillPasswordMenu.label       "Увесці пароль">
 <!ENTITY fillPasswordMenu.accesskey   "У">
 <!ENTITY fillUsernameMenu.label       "Увесці імя карыстальніка">
