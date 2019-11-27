@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony na tute wašnje zadźěwał, dokelž strona ma wěstotne prawidła za wobsah, kotrež to njedowoleja.</p>">
 
+<!ENTITY xfoBlocked.title "Přez prawidła X-Frame-Options zablokowane">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony w tutym konteksće zadźěwał, dokelž strona ma prawidła X-Frame-Options, kotrež to njedowoluja.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Zmylk - wobškodźeny wobsah">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž je so zmylk při přenošowanju datow namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
 
