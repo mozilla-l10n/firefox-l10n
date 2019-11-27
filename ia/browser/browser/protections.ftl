@@ -47,7 +47,7 @@ tracker-tab-description = Sitos web pote cargar annuncios externe, videos e alte
 fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web. <a data-l10n-name="learn-more-link">Lege plus</a>
 cryptominer-tab-title = Cryptominatores
-cryptominer-tab-content = Cryptominatores usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>
+cryptominer-tab-content = Cryptominatores usa le potentia de calculo de tu systema pro excavar moneta digital. Scripts de cryptominage exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>
 lockwise-title = Non oblida plus tu contrasignos
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
