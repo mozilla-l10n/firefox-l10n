@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Вазьміце { -brand-product-name } з сабой
 onboarding-sync-welcome-content = Атрымайце доступ да вашых закладак, гісторыі, пароляў і іншых налад на ўсіх вашых прыладах.
 onboarding-sync-welcome-learn-more-link = Даведайцеся больш пра ўліковыя запісы Firefox
-onboarding-sync-form-invalid-input = Патрабуецца сапраўдны адрас эл.пошты
-onboarding-sync-legal-notice = Працягваючы, вы згаджаецеся з <a data-l10n-name="terms">умовамі абслугоўвання</a> і <a data-l10n-name="privacy">паведамленнем аб прыватнасці</a>.
 onboarding-sync-form-input =
     .placeholder = Эл.пошта
 onboarding-sync-form-continue-button = Працягнуць
@@ -130,6 +128,9 @@ onboarding-send-tabs-title = Імгненна дасылайце сабе кар
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Функцыя адпраўкі картак імгненна абменьваецца старонкамі паміж прыладамі, не капіруючы, не ўстаўляючы і не пакідаючы браўзер.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Лёгка абменьвайцеся старонкамі паміж сваімі прыладамі, не капіруючы, не ўстаўляючы і не пакідаючы браўзер.
 onboarding-send-tabs-button = Пачаць карыстацца адпраўкай картак
 onboarding-pocket-anywhere-title = Чытайце і слухайце ў любым месцы
 onboarding-pocket-anywhere-text2 = Захоўвайце ваша ўлюбёнае змесціва для аўтаномнага доступу з дапамогай праграмы { -pocket-brand-name } і чытайце, слухайце і глядзіце, калі вам зручна.
@@ -138,11 +139,14 @@ onboarding-lockwise-passwords-title = Вазьміце свае паролі з 
 onboarding-lockwise-passwords-text2 = Бяспечна захоўвайце паролі і лёгка ўваходзьце ў свае ўліковыя запісы з дапамогай { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Атрымаць праграму
 onboarding-lockwise-strong-passwords-title = Стварайце і захоўвайце надзейныя паролі
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } імгненна стварае надзейныя паролі і захоўвае іх у адным месцы.
 onboarding-lockwise-strong-passwords-button = Кіруйце сваімі лагінамі
 onboarding-facebook-container-title = Усталяваць межы для Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } трымае ваш профіль асобна ад рэшты, што робіць больш складаным для Facebook паказваць вам мэтавую рэкламу.
 onboarding-facebook-container-button = Дадаць пашырэнне
 onboarding-import-browser-settings-title = Імпартуйце свае закладкі, паролі і шмат іншага
+onboarding-import-browser-settings-text = Углыбіцеся адразу — лёгка перанясіце свае сайты і налады з Chrome.
+onboarding-import-browser-settings-button = Імпартаваць дадзеныя з Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
