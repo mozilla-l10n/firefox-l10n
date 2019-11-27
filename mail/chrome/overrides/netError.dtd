@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
 <!ENTITY cspBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
 
+<!ENTITY xfoBlocked.title "Wedi'i rwystro gan Bolisi X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Mae &brandShortName; wedi atal y dudalen hon rhag llwytho yn y cyd-destun hwn oherwydd bod gan y dudalen bolisi X-Frame-Options sy'n ei gwrthod.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Gwall Cynnwys Llygredig">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
