@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Vigye magával a { -brand-product-name }ot
 onboarding-sync-welcome-content = Kapja meg a könyvjelzőit, előzményeit, jelszavait és egyéb beállításait az összes eszközén.
 onboarding-sync-welcome-learn-more-link = Ismerje meg a Firefox fiókokat
-onboarding-sync-form-invalid-input = Érvényes e-mail szükséges
-onboarding-sync-legal-notice = A folytatással elfogadja a <a data-l10n-name="terms">Felhasználási feltételeket</a> és az <a data-l10n-name="privacy">Adatvédelmi nyilatkozatot</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Folytatás
@@ -130,6 +128,9 @@ onboarding-send-tabs-title = Küldjön lapokat magának azonnal
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = A Lapok küldése azonnal megosztja a lapokat az eszközei között, anélkül hogy másolni, beillesztenie kellene, vagy elhagynia a böngészőt.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Osszon meg könnyedén lapokat az eszközei között anélkül, hogy hivatkozásokat kellene másolnia, vagy el kellene hagyni a böngészőt.
 onboarding-send-tabs-button = Kezdje el használni a lapok küldését
 onboarding-pocket-anywhere-title = Olvasson és hallgasson bárhol
 onboarding-pocket-anywhere-text2 = Mentse le a kedvenc tartalmait a { -pocket-brand-name } alkalmazással, és olvassa el, hallgassa meg vagy nézze meg, amikor az Ön számára kényelmes.
@@ -138,11 +139,13 @@ onboarding-lockwise-passwords-title = Vigye el a jelszavait mindenhová
 onboarding-lockwise-passwords-text2 = Tartsa biztonságban a mentett jelszavait és jelentkezzen be egyszerűen a fiókjaiba a { -lockwise-brand-name } segítségével.
 onboarding-lockwise-passwords-button2 = Alkalmazás beszerzése
 onboarding-lockwise-strong-passwords-title = Hozzon létre és tároljon erős jelszavakat
+onboarding-lockwise-strong-passwords-text = A { -lockwise-brand-name } erős jelszavakat hoz létre, és mindegyiket egy helyre menti.
 onboarding-lockwise-strong-passwords-button = Kezelje a bejelentkezéseit
 onboarding-facebook-container-title = Állítson be korlátokat a Facebookkal
 onboarding-facebook-container-text2 = A { -facebook-container-brand-name } elkülöníti a profilját minden mástól, ami nehezebbé teszi, hogy a Facebook célzott hirdetéseket küldjön Önnek.
 onboarding-facebook-container-button = A kiegészítő hozzáadása
 onboarding-import-browser-settings-title = Importálja könyvjelzőit, jelszavait és egyebeit
+onboarding-import-browser-settings-text = Merüljön bele azonnal – hozza magával a Chrome webhelyeit és beállításait.
 onboarding-import-browser-settings-button = Chrome adatok importálása
 
 ## Message strings belonging to the Return to AMO flow
