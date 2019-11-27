@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = { -brand-product-name }’u yanınızda taşıyın
 onboarding-sync-welcome-content = Yer imlerinizi, geçmişinizi, parolalarınızı ve diğer ayarlarınızı tüm cihazlarınızda kullanabilirsiniz.
 onboarding-sync-welcome-learn-more-link = Firefox Hesapları hakkında bilgi alın
-onboarding-sync-form-invalid-input = Geçerli bir e-posta gerekiyor
-onboarding-sync-legal-notice = Devam ederseniz <a data-l10n-name="terms">Kullanım Koşullarını</a> ve <a data-l10n-name="privacy">Gizlilik Bildirimini</a> kabul etmiş sayılırsınız.
 onboarding-sync-form-input =
     .placeholder = E-posta
 onboarding-sync-form-continue-button = Devam et
@@ -137,9 +135,12 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name }’ı deneyin
 onboarding-lockwise-passwords-title = Parolalarınızı yanınızda taşıyın
 onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } ile parolalarınızı güvenle kaydedip saklayın, hesaplarınıza kolayca giriş yapın.
 onboarding-lockwise-passwords-button2 = Uygulamayı indir
+onboarding-lockwise-strong-passwords-title = Güçlü parolalar oluşturup saklayın
+onboarding-lockwise-strong-passwords-button = Hesaplarınızı yönetin
 onboarding-facebook-container-title = Facebook’un sınırlarını belirleyin
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } profilinizi diğer sitelerden ayrı tutar, böylece Facebook’ reklamlarının sizi hedeflemesini zorlaştırır.
 onboarding-facebook-container-button = Eklentiyi yükle
+onboarding-import-browser-settings-title = Yer imlerinizi, parolalarınızı ve daha fazlasını içe aktarın
 
 ## Message strings belonging to the Return to AMO flow
 
