@@ -50,5 +50,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Remover
 site-data-removing-header = Remotion de Cookies e Datos de sito
-site-data-removing-desc = Le remotion de cookies e datos de sito pote te disconnecter ab le sitos web. Desira tu vermente facer le cambios?
+site-data-removing-desc = Remover cookies e datos de sito pote clauder tu session de sitos web. Es tu secur de voler remover istes?
 site-data-removing-table = Cookies e datos de sito pro le sequente sitos web sera removite
