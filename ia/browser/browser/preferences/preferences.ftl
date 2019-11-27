@@ -662,10 +662,10 @@ sync-change-options =
 
 sync-choose-what-to-sync-dialog =
     .title = Selige que synchronisar
-    .style = width: 36em; min-height: 35em;
-    .buttonlabelaccept = Salvar le cambiamentos
+    .style = width: 37em; min-height: 35em;
+    .buttonlabelaccept = Salvar cambios
     .buttonaccesskeyaccept = S
-    .buttonlabelextra2 = Disconnexion…
+    .buttonlabelextra2 = Disconnecter…
     .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Marcapaginas
