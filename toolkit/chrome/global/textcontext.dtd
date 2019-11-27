@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Bilgileri doldur">
 <!ENTITY fillLoginMenu.accesskey      "B">
-<!ENTITY fillSuggestedPassword.label  "Önerilen parolayı kullan">
-<!ENTITY fillSuggestedPassword.accesskey "Ö">
 <!ENTITY fillGeneratedPassword.label  "Güvenli bir parola oluştur">
 <!ENTITY fillGeneratedPassword.accesskey "G">
+<!ENTITY useGeneratedPassword.label   "Güvenli parola oluştur ve kullan…">
+<!ENTITY useGeneratedPassword.accesskey "G">
 <!ENTITY fillPasswordMenu.label       "Parolayı doldur">
 <!ENTITY fillPasswordMenu.accesskey   "P">
 <!ENTITY fillUsernameMenu.label       "Kullanıcı adını doldur">

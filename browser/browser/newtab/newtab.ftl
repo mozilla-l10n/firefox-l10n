@@ -45,9 +45,6 @@ newtab-topsites-save-button = Kaydet
 newtab-topsites-preview-button = Ön izleme yap
 newtab-topsites-add-button = Ekle
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Bu sayfanın tüm kayıtlarını geçmişinizden silmek istediğinizden emin misiniz?
@@ -99,10 +96,6 @@ newtab-menu-remove-bookmark = Yer imini sil
 # Bookmark is a verb here.
 newtab-menu-bookmark = Yer imlerine ekle
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -131,10 +124,6 @@ newtab-label-removed-bookmark = Yer imi silindi
 newtab-label-recommended = Popüler
 newtab-label-saved = { -pocket-brand-name }’a kaydedildi
 newtab-label-download = İndirildi
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -188,6 +177,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hata! Bu bölüm tam olara
 newtab-pocket-read-more = Popüler konular:
 newtab-pocket-more-recommendations = Daha fazla öneri
 newtab-pocket-how-it-works = Nasıl çalışıyor?
+newtab-pocket-whats-pocket = { -pocket-brand-name } nedir?
 newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
 newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınız okumaya değer şeylerle doldurun.
 
