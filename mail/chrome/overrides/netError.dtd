@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
 <!ENTITY cspBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
+<!ENTITY xfoBlocked.title "Blokkolva az X-Frame-Options házirend alapján">
+<!ENTITY xfoBlocked.longDesc "<p>A &brandShortName; megakadályozta, hogy az oldalt ebben a környezetben betöltse, mert az oldal X-Frame-Options házirendje tiltja.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Sérült tartalom hiba">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
 
