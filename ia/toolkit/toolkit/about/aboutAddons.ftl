@@ -143,7 +143,7 @@ detail-show-preferences =
            *[other] Cambiar le preferentias de iste additivo
         }
 detail-rating =
-    .value = Valutation
+    .value = Evalutation
 addon-restart-now =
     .label = Reinitiar ora
 disabled-unsigned-heading =
@@ -372,7 +372,7 @@ addon-detail-author-label = Autor
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Ultime actualisation
 addon-detail-homepage-label = Pagina initial
-addon-detail-rating-label = Valutation
+addon-detail-rating-label = Evalutation
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
