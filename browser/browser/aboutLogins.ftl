@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Cerca nelle credenziali
 create-login-button = Inserisci nuove credenziali
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon per { $title }
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-button = Accedi a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -57,9 +52,6 @@ about-logins-login-list-empty-search-description = Non ci sono risultati corrisp
 login-list-item-title-new-login = Nuove credenziali
 login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-subtitle-missing-username = (nessun nome utente)
-about-logins-list-item-warning-icon =
-    .alt = Icona avviso
-    .title = Sito web coinvolto in violazioni di dati
 about-logins-list-item-breach-icon =
     .title = Sito web coinvolto in violazioni di dati
 
@@ -154,7 +146,6 @@ breach-alert-dismiss =
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = È già presente un elemento per { $loginTitle } con lo stesso nome utente.
 about-logins-error-message-duplicate-login-with-link = È già presente un elemento per { $loginTitle } con lo stesso nome utente. <a data-l10n-name="duplicate-link">Passare all’elemento esistente?</a>
 # This is a generic error message.
 about-logins-error-message-default = Si è verificato un errore durante il salvataggio della password.
