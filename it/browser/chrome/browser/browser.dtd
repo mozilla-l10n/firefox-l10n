@@ -349,7 +349,6 @@
 <!ENTITY searchIcon.tooltip "Cerca">
 <!ENTITY searchFor.label "Cerca ">
 <!ENTITY searchWith.label " con:">
-<!ENTITY searchWithDesc.label "Adesso cerca con:">
 <!ENTITY searchWithHeader.label "Cerca con:">
 <!ENTITY search.label "Cerca con ">
 <!ENTITY searchAfter.label "">
@@ -615,14 +614,8 @@
 <!ENTITY protections.notBlocking2.label "Consentiti">
 <!ENTITY protections.notBlocking.why.label "Perché?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Il blocco di questi elementi potrebbe causare il parziale malfunzionamento di alcuni siti web. Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso non funzionano correttamente.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Disattivando le protezioni verranno consentiti tutti gli elementi traccianti su questo sito. Questa operazione potrebbe anche migliorare il funzionamento di alcune parti del sito web.">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tutti gli elementi traccianti in questo sito sono stati caricati in quanto le protezioni sono disattivate.">
 <!ENTITY protections.notFound.label "Non rilevati">
-<!ENTITY protections.socialMediaTrackers.label "Traccianti dei social media">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookie traccianti intersito">
-<!ENTITY protections.trackingContent.label "Contenuti traccianti">
-<!ENTITY protections.fingerprinters.label "Fingerprinter">
-<!ENTITY protections.cryptominers.label "Cryptominer">
 <!ENTITY protections.noTrackersFound.description "Nessun elemento tracciante conosciuto da &brandShortName; è stato rilevato in questa pagina.">
 <!ENTITY protections.crossSiteTrackingCookies.description "Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da terze parti come agenzie pubblicitarie e di analisi dati.">
 <!ENTITY protections.cryptominers.description "I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica.">
@@ -663,7 +656,6 @@
 <!ENTITY contentBlocking.socialblock.label "Traccianti dei social media">
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie e dati dei siti web">
-<!ENTITY contentBlocking.cookies2.label "Cookie traccianti intersito">
 <!ENTITY contentBlocking.cryptominers.label "Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominer">
 <!ENTITY contentBlocking.fingerprinters.label "Fingerprinter">
