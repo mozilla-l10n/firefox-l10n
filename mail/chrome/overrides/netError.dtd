@@ -84,6 +84,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å lastes inn på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
 
 <!ENTITY xfoBlocked.title "Blokkert av X-Frame-Options-policy">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; forhindret denne nettsiden i å laste i denne konteksten fordi nettsiden har en X-Frame-Options-policy som ikke tillater det.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Ødelagt innhold">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Siden du forsøker å vise kan ikke åpnes fordi en feil i dataoverføringen ble oppdaget.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
