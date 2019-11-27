@@ -107,6 +107,9 @@
 <!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
+<!ENTITY xfoBlocked.title "因 X-Frame-Options 政策阻止">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; 已依照该页面的 X-Frame-Options 政策阻止了其在此上下文中的载入。</p>">
+
 <!ENTITY corruptedContentErrorv2.title "损坏内容错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
