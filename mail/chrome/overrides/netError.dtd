@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
 <!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
+<!ENTITY xfoBlocked.title "Zablokowane przez politykę „X-Frame-Options”">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; uniemożliwił tej stronie wczytanie treści w tym kontekście, ponieważ jej polityka „X-Frame-Options” na to nie pozwala.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
