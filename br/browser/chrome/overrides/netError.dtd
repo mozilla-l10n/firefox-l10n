@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Klask en-dro">
 <!ENTITY returnToPreviousPage.label "Distreiñ">
 <!ENTITY returnToPreviousPage1.label "Distreiñ (Erbedet)">
-<!ENTITY advanced.label "Kempleshoc'h">
-<!ENTITY continue2.label "Muioc'h...">
 <!ENTITY advanced2.label "Kempleshoc'h…">
-<!ENTITY moreInformation.label "Muioc'h a ditouroù">
 <!ENTITY viewCertificate.label "Gwelout an testeni">
 
 <!-- Specific error messages -->
@@ -95,13 +92,11 @@
 <!ENTITY nssFailure2.title "C'hwitadenn war ar c'hennaskañ diarvar">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet dilested ar roadennoù bet degemeret.</li> <li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "N'eo ket diarvar ho kennask">
 <!ENTITY certerror.longpagetitle2 "Diwallit: gallout a ra bezañ un arvar diogelroez">
 <!ENTITY certerror.sts.longpagetitle  "N'eo ket kennasket: kudenn diogelroez posupl">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Direizh eo ket bet kefluniet o lec'hienn wiad gant perc'henned <span class='hostname'/>. Kuit na vefe laeret ho stlennoù n'oc'h ket bet kennasket ouzh al lec'hienn-mañ gant &brandShortName;.">
 <!ENTITY certerror.introPara2 "Dinoet eo bet gant &brandShortName; ur arvar diogelroez ha n'eus ket kendalc'het etrezek <span class='hostname'/>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerez ho titouroù evel gerioù-tremen, chomlec'hioù postel pe munudoù kartennoù kred.">
 <!ENTITY certerror.sts.introPara "Dinoet ez eus bet gant &brandShortName; un arvar diogelroez posupl ha n'en deus ket kendalc'het etrezek <span class='hostname'/> dre ma azgoulenn al lec'hienn-mañ ur c'hennask diogel.">
 
@@ -128,11 +123,11 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
 
+<!ENTITY xfoBlocked.title "Stanket gant politikerezh X-Frame-Options">
+
 <!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
 <!ENTITY securityOverride.exceptionButton1Label "Asantiñ ar riskl ha kenderc'hel">
 
 <!ENTITY errorReporting.automatic2 "Danevellit kudennoù evel-se evit sikour Mozilla da naoudiañ ha stankañ al lec'hiennoù droukrañsus">
@@ -146,16 +141,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h : SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; n'eo ket kennasket da <span id='wrongSystemTime_URL'/> peogwir n'eo ket d'an eur horolaj hoc'h urzhiataer, ar pezh a vir da gaout ur c'hennask diogel.</p><p><span id='wrongSystemTime_systemDate'/> eo war hoc'h urzhiataer padel e rankfe bezañ <span id='wrongSystemTime_actualDate'/>. Evit diskoulmañ ar gudenn-mañ, kemmit ho teiziad evit ma vefe d'an eur reizh.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; n'eo ket kennasket da <span id='wrongSystemTimeWithoutReference_URL'/> peogwir n'eo ket d'an eur horolaj hoc'h urzhiataer, ar pezh a vir da gaout ur c'hennask diogel.</p><p><span id='wrongSystemTimeWithoutReference_systemDate'/> eo war hoc'h urzhiataer. Evit reizhañ ar gudenn-mañ, kemmit hoc'h arventennoù deiziad hag eur evit lakaat an eur dereat.</p>">
-
-<!ENTITY certerror.pagetitle1  "Kennask arvarus">
 <!ENTITY certerror.pagetitle2  "Diwallit: ur riskl surentez bennak 'zo">
 <!ENTITY certerror.sts.pagetitle  "N'eo ket kennasket: kudenn diogelroez posupl">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Al lec'hienn-mañ a arver HTTP Strict Transport Security (HSTS) evit erspizañ e rank &brandShortName; kennaskañ outi gant un doare diogel. N'haller ket ouzhpennañ un nemedenn evit an testeni-mañ eta.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> a zo gantañ ur politikerezh surentez anvet HTTP Strict Transport Security (HSTS), ar pezh a dalvez &brandShortName; a c'hall kennaskañ outañ en un doare sur. N'hallit ket ouzhpennañ un nemedenn ebet evit gweladenniñ al lec'hienn-mañ.">
 <!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">
 
@@ -178,6 +165,9 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
 <!ENTITY prefReset.label "Assav an arventennoù dre ziouer">
+
+<!ENTITY enableTls10.note "Diweredekaet da vat e vo TLS 1.0 ha TLS 1.1 en un handelv da zont.">
+<!ENTITY enableTls10.label "Gweredekaat TLS 1.0 hag 1.1">
 
 <!ENTITY networkProtocolError.title "Fazi komenad rouedad">
 <!ENTITY networkProtocolError.longDesc "<p>N'haller ket dikouez ar pajennoù a glaskit sellet abalamour m'eo bet dinoet ur fazi er c'homenad rouedad.</p><ul><li>Kit e darempred gant perc'henned al lec'hienn evit o zitouriñ eus ar gudenn-mañ.</li></ul>">

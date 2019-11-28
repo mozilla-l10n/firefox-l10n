@@ -32,6 +32,13 @@ app-basics-name = Anv
 app-basics-version = Handelv
 app-basics-build-id = Naoudi ar c'hempunañ
 app-basics-update-channel = Sanell hizivadur
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Kavlec'h an hizivadennoù
+       *[other] Teuliad an hizivadennoù
+    }
 app-basics-update-history = Roll istor an hizivadurioù
 app-basics-show-update-history = Diskouez roll istor an hizivadurioù
 app-basics-profile-dir =
@@ -122,7 +129,7 @@ media-device-channels = Sanell
 media-device-rate = Feur
 media-device-latency = Dale
 
-##
+
 
 intl-title = Etrevoradeladur & lec'hiadur
 intl-app-title = Arventennoù an arload
@@ -133,6 +140,20 @@ intl-locales-default = Yezh dre ziouer
 intl-os-title = Reizhiad korvoiñ
 intl-os-prefs-system-locales = Yezhoù ar reizhiad
 intl-regional-prefs = Gwellvezioù rannvroel
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
