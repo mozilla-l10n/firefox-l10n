@@ -33,3 +33,6 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 <!ENTITY certerror.addException.label "Přidat výjimku…">
 
 <!ENTITY certerror.technical.heading "Technické detaily">
+
+<!ENTITY dnsNotFound.pageTitle "Server nenalezen">
+<!ENTITY malformedURI.pageTitle "Neplatná URL adresa">
