@@ -33,6 +33,7 @@ printpreview-of =
     .value = eus
 printpreview-custom-prompt =
     .value = Personelaat ar skeul…
+printpreview-custom-scale-prompt-title = Skeul personelaet
 printpreview-page-setup =
     .label = Pajennaozañ…
     .accesskey = P
