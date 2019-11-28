@@ -147,6 +147,8 @@
 <!ENTITY cspBlocked.title "Bloccato dai criteri sulla sicurezza dei contenuti">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha bloccato il caricamento della pagina con questa modalità in quanto include dei criteri sulla sicurezza dei contenuti che lo impediscono.</p>">
 
+<!ENTITY xfoBlocked.title "Bloccato dal criterio X-Frame-Options">
+
 <!ENTITY corruptedContentErrorv2.title "Errore: contenuto corrotto">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina non può essere mostrata a causa di un errore di trasmissione dati.</p><ul><li>Contattare l'amministratore del sito per segnalare il problema.</li></ul>">
 
