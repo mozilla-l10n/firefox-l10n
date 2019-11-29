@@ -258,10 +258,22 @@ menu-help =
     .label = Nápověda
     .accesskey = v
 menu-help-product =
-    .label = Nápověda aplikace { -brand-shorter-name }
+    .label =
+        Nápověda { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] aplikace { -brand-shorter-name }
+        }
     .accesskey = N
 menu-help-show-tour =
-    .label = Průvodce aplikací { -brand-shorter-name }
+    .label =
+        Průvodce { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "ins") }
+            [feminine] { -brand-shorter-name(case: "ins") }
+            [neuter] { -brand-shorter-name(case: "ins") }
+           *[other] aplikací { -brand-shorter-name }
+        }
     .accesskey = P
 menu-help-keyboard-shortcuts =
     .label = Klávesové zkratky
