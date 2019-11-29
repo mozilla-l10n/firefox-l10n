@@ -6,7 +6,7 @@
 # MacBook Touch Bar.
 back = Zpět
 forward = Vpřed
-reload = Obnovit
+reload = Znovu načíst
 home = Domů
 fullscreen = Celá obrazovka
 find = Najít

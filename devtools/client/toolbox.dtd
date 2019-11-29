@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh  "* Pouze aktuální relace, obnoví stránku">
+<!ENTITY options.context.triggersPageRefresh  "* Pouze aktuální relace, znovu načte stránku">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -135,11 +135,6 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Povolit časové značky">
 <!ENTITY options.timestampMessages.tooltip    "Pokud povolíte tuto volbu, bude výstup ve webové konzoli obsahovat časové značky">
-
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Seskupit podobné zprávy">
-<!ENTITY options.warningGroups.tooltip    "Pokud je tato volba povolena, podobné zprávy budou seskupeny">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
