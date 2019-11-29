@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Sincronisaziun cun { $count } auters apparats
     }
 lockwise-sync-not-syncing-devices = Nagina sincronisaziun cun auters apparats
+manage-connected-devices = Administrar ils apparats…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Connectà cun { $count } apparat
+       *[other] Connectà cun { $count } apparats
+    }
 monitor-title = Tegna en egl las sperditas da datas
 monitor-link = Co ch'i funcziuna
 monitor-header-content-no-account = Consultescha { -monitor-brand-name } per verifitgar sche ti es pertutgà dad ina sperdita da datas e per retschaiver avertiments en cas da novas sperditas.
