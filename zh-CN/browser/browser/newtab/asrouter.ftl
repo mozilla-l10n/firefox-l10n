@@ -113,6 +113,30 @@ cfr-whatsnew-lockwise-take-title = 随身携带密码
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 移动端应用可让您安全地访问在所有设备中备份的密码。
 cfr-whatsnew-lockwise-take-link-text = 获取应用
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = 浏览网页的同时看视频
+cfr-whatsnew-pip-body = 画中画模式会将视频弹出到浮动窗口中，这样您就可以在浏览其他标签页时继续进行观看。
+cfr-whatsnew-pip-cta = 详细了解
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = 更少恼人的弹出窗口
+cfr-whatsnew-permission-prompt-body = 现在起，{ -brand-shorter-name } 可以自动阻止网站询问您是否可以发送弹出消息的请求。
+cfr-whatsnew-permission-prompt-cta = 详细了解
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+       *[other] 已拦截数字指纹跟踪程序
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = 数字指纹跟踪程序
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = 在手机上获取此书签
