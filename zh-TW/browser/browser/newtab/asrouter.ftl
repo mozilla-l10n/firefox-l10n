@@ -113,6 +113,17 @@ cfr-whatsnew-lockwise-take-title = 密碼隨身帶著走
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 的行動 App 可讓您在任何地方安全地讀取備份下來的密碼。
 cfr-whatsnew-lockwise-take-link-text = 下載 App
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = 了解更多
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = 了解更多
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = 在手機上使用此書籤
