@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Profilování výkonu
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Konfigurace vašeho prohlížeče není kompatibilní se Service Workers. <a>Zjistit více</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Připojený prohlížeč má starou verzi ({ $runtimeVersion }). Minimální podporovaná verze je ({ $minVersion }). Toto je nepodporovaná konfigurace a může způsobit nefunkčnost nástrojů pro vývojáře. Prosím aktualizujte připojený prohlížeč. <a> Poradce při potížích</a>
@@ -220,7 +220,7 @@ about-debugging-tmp-extension-install-button = Načíst dočasný doplněk…
 about-debugging-tmp-extension-install-error = Při instalaci dočasného doplňku došlo k chybě.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
-about-debugging-tmp-extension-reload-button = Obnovit
+about-debugging-tmp-extension-reload-button = Znovu načíst
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Odebrat

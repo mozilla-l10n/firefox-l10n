@@ -35,7 +35,7 @@
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument už není dostupný v mezipaměti aplikace.</p><ul><li>Z bezpečnostních důvodů nejsou důvěrné dokumenty automaticky stahovány.</li><li>Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
-<!ENTITY netOffline.longDesc2 "<p>Prohlížeč je teď v režimu offline a k požadované položce se nelze připojit.</p><ul><li>Je počítač připojen k funkční síti?</li><li>Pro přechod do režimu online a obnovení stránky klepněte na tlačítko „Zkusit znovu“.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Prohlížeč je teď v režimu offline a k požadované položce se nelze připojit.</p><ul><li>Je počítač připojen k funkční síti?</li><li>Pro přechod do režimu online a opětovné načtení stránky klepněte na tlačítko „Zkusit znovu“.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Chyba znakové sady obsahu">
 <!ENTITY contentEncodingError.longDesc "<p>Požadovanou stránku nelze zobrazit, protože používá neplatný či nepodporovaný způsob komprese dat.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">

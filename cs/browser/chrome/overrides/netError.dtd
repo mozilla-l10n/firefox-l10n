@@ -68,7 +68,7 @@
 <!ENTITY netOffline.title "Režim offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Pro přechod do režimu online a obnovení stránky klepněte na tlačítko „Zkusit znovu“.</li>
+  <li>Pro přechod do režimu online a opětovné načtení stránky klepněte na tlačítko „Zkusit znovu“.</li>
 </ul>
 ">
 

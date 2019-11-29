@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-reload-selected-tab =
-    .label = Obnovit vybraný panel
-    .accesskey = O
+    .label = Znovu načíst vybraný panel
+    .accesskey = o
 toolbar-context-menu-reload-selected-tabs =
-    .label = Obnovit vybrané panely
-    .accesskey = O
+    .label = Znovu načíst vybrané panely
+    .accesskey = o
 toolbar-context-menu-bookmark-selected-tab =
     .label = Přidat vybraný panel do záložek…
     .accesskey = P
