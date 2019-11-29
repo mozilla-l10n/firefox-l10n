@@ -31,13 +31,58 @@
         [ins] Firefoxem Lockwise
     }
     .gender = masculine
--lockwise-brand-short-name = Lockwise
+-lockwise-brand-short-name =
+    { $case ->
+       *[nom] Lockwise
+        [gen] Lockwisu
+        [dat] Lockwisu
+        [acc] Lockwise
+        [voc] Lockwise
+        [loc] Lockwisu
+        [ins] Lockwisem
+    }
     .gender = masculine
--monitor-brand-name = Firefox Monitor
+-monitor-brand-name =
+    { $case ->
+       *[nom] Firefox Monitor
+        [gen] Firefox Monitoru
+        [dat] Firefox Monitoru
+        [acc] Firefox Monitor
+        [voc] Firefox Monitore
+        [loc] Firefox Monitoru
+        [ins] Firefox Monitorem
+    }
     .gender = masculine
--monitor-brand-short-name = Monitor
+-monitor-brand-short-name =
+    { $case ->
+       *[nom] Monitor
+        [gen] Monitoru
+        [dat] Monitoru
+        [acc] Monitor
+        [voc] Monitore
+        [loc] Monitoru
+        [ins] Monitorem
+    }
     .gender = masculine
--pocket-brand-name = Pocket
+-pocket-brand-name =
+    { $case ->
+       *[nom] Pocket
+        [gen] Pocketu
+        [dat] Pocketu
+        [acc] Pocket
+        [voc] Pocket
+        [loc] Pocketu
+        [ins] Pocketem
+    }
     .gender = masculine
--send-brand-name = Firefox Send
+-send-brand-name =
+    { $case ->
+       *[nom] Firefox Send
+        [gen] Firefoxu Send
+        [dat] Firefoxu Send
+        [acc] Firefox Send
+        [voc] Firefoxe Send
+        [loc] Firefoxu Send
+        [ins] Firefoxem Send
+    }
     .gender = masculine

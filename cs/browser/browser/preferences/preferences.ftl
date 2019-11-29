@@ -498,7 +498,7 @@ home-prefs-highlights-options-bookmarks =
 home-prefs-highlights-option-most-recent-download =
     .label = Nedávná stahování
 home-prefs-highlights-option-saved-to-pocket =
-    .label = Stránky uložené do služby { -pocket-brand-name }
+    .label = Stránky uložené do { -pocket-brand-name(case: "gen") }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
