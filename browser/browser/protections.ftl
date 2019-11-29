@@ -106,7 +106,7 @@ info-known-breaches-found = Počet známých úniků dat, které obsahují vaše
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found = Počet vašich hesel vyzrazených ve všech únicích
-full-report-link = Zobrazit kompletní přehled ve službě <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+full-report-link = Zobrazit kompletní přehled ve <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name(case: "loc") }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.

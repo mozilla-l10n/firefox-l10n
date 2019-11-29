@@ -125,8 +125,8 @@ onboarding-browse-privately-title = Prohlížejte v soukromí
 onboarding-browse-privately-text = Funkce anonymního prohlížení smaže vaši historii vyhledávání a prohlížení a uchová vaše tajemství před ostatními uživateli vašeho počítače.
 onboarding-browse-privately-button = Otevřít anonymní okno
 onboarding-firefox-send-title = Sdílejte své soubory soukromě a bezpečně
-onboarding-firefox-send-text2 = Sdílejte své soubory se službou { -send-brand-name }, která je chrání pomocí end-to-end šifrování a odkazů s omezenou platností.
-onboarding-firefox-send-button = Vyzkoušet { -send-brand-name }
+onboarding-firefox-send-text2 = Sdílejte své soubory s { -send-brand-name(case: "ins") }, která je chrání pomocí end-to-end šifrování a odkazů s omezenou platností.
+onboarding-firefox-send-button = Vyzkoušet { -send-brand-name(case: "acc") }
 onboarding-mobile-phone-title =
     { -brand-product-name.gender ->
         [masculine] Nainstalujte si { -brand-product-name } do telefonu
@@ -146,8 +146,8 @@ onboarding-send-tabs-title = Posílejte si panely mezi zařízeními
 onboarding-send-tabs-text = Posílání panelů funguje jako okamžité sdílení stránek mezi vašimi zařízeními. Nemusíte nic kopírovat ani opouštět prohlížeč.
 onboarding-send-tabs-button = Začít posílat panely
 onboarding-pocket-anywhere-title = Čtěte a nechte si číst
-onboarding-pocket-anywhere-text2 = Uložte si svůj oblíbený obsah offline s aplikací { -pocket-brand-name } pro přečtení nebo poslech ve chvíli, kdy se vám to opravdu hodí.
-onboarding-pocket-anywhere-button = Vyzkoušet { -pocket-brand-name }
+onboarding-pocket-anywhere-text2 = Uložte si svůj oblíbený obsah offline s { -pocket-brand-name(case: "ins") } pro přečtení nebo poslech ve chvíli, kdy se vám to opravdu hodí.
+onboarding-pocket-anywhere-button = Vyzkoušet { -pocket-brand-name(case: "acc") }
 onboarding-lockwise-passwords-title = Mějte svá hesla všude s sebou
 onboarding-lockwise-passwords-text2 = Ukládejte svá hesla bezpečně pomocí { -lockwise-brand-name(case: "gen") }, který vám usnadní rychlé přihlašování do vašich účtů.
 onboarding-lockwise-passwords-button2 = Stáhnout aplikaci
