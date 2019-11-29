@@ -134,8 +134,10 @@ cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
        *[other] 已拦截数字指纹跟踪程序
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } 会拦截许多偷偷收集设备信息和操作行为，以针对您投放定向广告的数字指纹跟踪程序。
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = 数字指纹跟踪程序
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } 可拦截偷偷收集设备信息和操作行为，以针对您投放定向广告的数字指纹跟踪程序。
 
 ## Bookmark Sync
 
