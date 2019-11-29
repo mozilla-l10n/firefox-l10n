@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Celá obrazovka
     .accesskey = C
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Zobrazit všechny panely
@@ -209,21 +209,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Doplňky
     .accesskey = D
-menu-tools-sync-sign-in =
-    .label = Přihlásit se do { -sync-brand-short-name }…
-    .accesskey = i
 menu-tools-fxa-sign-in =
     .label = Přihlásit se k aplikaci { -brand-product-name }…
     .accesskey = p
 menu-tools-turn-on-sync =
-    .label = Zapnout { -sync-brand-short-name }…
+    .label = Zapnout { -sync-brand-short-name(case: "acc") }…
     .accesskey = n
 menu-tools-sync-now =
     .label = Synchronizovat
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Opětovné připojení k { -sync-brand-short-name }…
-    .accesskey = p
 menu-tools-fxa-re-auth =
     .label = Znovu připojit k účtu { -brand-product-name }…
     .accesskey = n
@@ -285,8 +279,7 @@ menu-help-safe-mode-with-addons =
     .label = Restartovat s povolenými doplňky
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Nahlásit klamavou stránku…
     .accesskey = l

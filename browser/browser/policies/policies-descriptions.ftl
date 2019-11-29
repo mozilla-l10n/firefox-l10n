@@ -26,7 +26,7 @@ policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
 policy-DisableBuiltinPDFViewer = Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
-policy-DisableFirefoxAccounts = Vypnutí služeb používajících účet Firefoxu, včetně synchronizace.
+policy-DisableFirefoxAccounts = Vypnutí služeb používajících { -fxaccount-brand-name(case: "acc", capitalization: "lower") }, včetně Syncu.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypnutí funkce Firefox Screenshots.
 policy-DisableFirefoxStudies = Zablokování spouštění studií aplikace { -brand-short-name }.

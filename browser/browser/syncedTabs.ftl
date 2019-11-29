@@ -41,4 +41,4 @@ synced-tabs-context-sync-now =
     .label = Synchronizovat
     .accesskey = S
 fxa-sign-in = Přihlášení k { -sync-brand-short-name(case: "dat") }
-turn-on-sync = Zapnout { -sync-brand-short-name }
+turn-on-sync = Zapnout { -sync-brand-short-name(case: "acc") }

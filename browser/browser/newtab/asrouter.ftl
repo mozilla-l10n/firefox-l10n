@@ -74,7 +74,7 @@ cfr-doorhanger-pintab-animation-resume = Pokračovat
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Mějte své záložky všude s sebou.
-cfr-doorhanger-bookmark-fxa-body = Skvělý nález! Chcete mít tuto záložku i ve svém mobilním zařízení? Použijte { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Skvělý nález! Chcete mít tuto záložku i ve svém mobilním zařízení? Použijte { -fxaccount-brand-name(case: "acc", capitalization: "lower") }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte své záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Zavírací tlačítko
@@ -114,18 +114,27 @@ cfr-whatsnew-lockwise-take-title = Vezměte si svá hesla všude s sebou
 cfr-whatsnew-lockwise-take-body = S mobilní aplikací { -lockwise-brand-short-name } získáte bezpečný přístup k vašim zálohovaným přihlašovacím údajům kdekoliv budete potřebovat.
 cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
 
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Sdílejte tuto záložku i do svého telefonu
 cfr-doorhanger-sync-bookmarks-body = Mějte své záložky, hesla, historii prohlížení a další vždy po ruce. Přihlaste se v aplikaci { -brand-product-name }.
-cfr-doorhanger-sync-bookmarks-ok-button = Zapnout { -sync-brand-short-name }
+cfr-doorhanger-sync-bookmarks-ok-button = Zapnout { -sync-brand-short-name(case: "gen") }
     .accesskey = Z
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Už žádná zapomenutá hesla
 cfr-doorhanger-sync-logins-body = Ukládejte a synchronizujte hesla bezpečně napříč svými zařízeními.
-cfr-doorhanger-sync-logins-ok-button = Zapnout { -sync-brand-short-name }
+cfr-doorhanger-sync-logins-ok-button = Zapnout { -sync-brand-short-name(case: "gen") }
     .accesskey = t
 
 ## Send Tab
