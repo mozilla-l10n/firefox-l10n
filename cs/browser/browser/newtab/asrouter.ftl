@@ -126,7 +126,13 @@ cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Sdílejte tuto záložku i do svého telefonu
-cfr-doorhanger-sync-bookmarks-body = Mějte své záložky, hesla, historii prohlížení a další vždy po ruce. Přihlaste se v aplikaci { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-body =
+    Mějte své záložky, hesla, historii prohlížení a další vždy po ruce. Přihlaste se { -brand-product-name.gender ->
+        [masculine] ve { -brand-product-name(case: "loc") }
+        [feminine] v { -brand-product-name(case: "loc") }
+        [neuter] v { -brand-product-name(case: "loc") }
+       *[other] v aplikaci { -brand-product-name }
+    }.
 cfr-doorhanger-sync-bookmarks-ok-button = Zapnout { -sync-brand-short-name(case: "gen") }
     .accesskey = Z
 
@@ -141,7 +147,13 @@ cfr-doorhanger-sync-logins-ok-button = Zapnout { -sync-brand-short-name(case: "g
 
 cfr-doorhanger-send-tab-header = Přečtěte si tento článek i na cestách
 cfr-doorhanger-send-tab-recipe-header = Vezměte si tento recept rovnou do kuchyně
-cfr-doorhanger-send-tab-body = Posílání panelů funguje pro snadné sdílení odkazů do vašeho telefonu nebo kamkoliv, kde jste přihlášení v aplikaci { -brand-product-name }.
+cfr-doorhanger-send-tab-body =
+    Posílání panelů funguje pro snadné sdílení odkazů do vašeho telefonu nebo kamkoliv, kde jste přihlášeni { -brand-product-name.gender ->
+        [masculine] ve { -brand-product-name(case: "loc") }
+        [feminine] v { -brand-product-name(case: "loc") }
+        [neuter] v { -brand-product-name(case: "loc") }
+       *[other] v aplikaci { -brand-product-name }
+    }.
 cfr-doorhanger-send-tab-ok-button = Vyzkoušet posílání panelů
     .accesskey = V
 

@@ -8,7 +8,18 @@ profiles-create = Vytvořit nový profil
 profiles-restart-title = Restartovat
 profiles-restart-in-safe-mode = Restartovat se zakázanými doplňky…
 profiles-restart-normal = Restartovat obvyklým způsobem…
-profiles-conflict = Další kopie aplikace { -brand-product-name } změnila tento profil. Před provedením dalších změn aplikaci { -brand-short-name } restartujte.
+profiles-conflict =
+    Další kopie { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    } změnila tento profil. Před provedením dalších změn { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } restartujte.
 profiles-flush-fail-title = Změny nebyly uloženy
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Kvůli neočekávané chybě se nepodařilo vaše změny uložit.

@@ -29,7 +29,16 @@
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Firefox
+-brand-product-name =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefoxu
+        [dat] Firefoxu
+        [acc] Firefox
+        [voc] Firefoxe
+        [loc] Firefoxu
+        [ins] Firefoxem
+    }
     .gender = masculine
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox a jeho logo jsou ochrannými známkami organizace Mozilla Foundation.

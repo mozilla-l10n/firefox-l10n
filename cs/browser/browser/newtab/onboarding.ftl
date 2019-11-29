@@ -19,17 +19,31 @@ onboarding-button-label-get-started = Začínáme
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Vítá vás { -brand-short-name }
-onboarding-welcome-body = Prohlížeč teď už máte.<br/>Poznejte ještě zbytek aplikace { -brand-product-name }.
+onboarding-welcome-body =
+    Prohlížeč teď už máte.<br/>Poznejte ještě zbytek { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    }.
 onboarding-welcome-learn-more = Další výhody.
-onboarding-welcome-modal-get-body = Prohlížeč teď už máte.<br/>Využijte aplikaci { -brand-product-name } naplno.
+onboarding-welcome-modal-get-body =
+    Prohlížeč teď už máte.<br/>Využijte { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    } naplno.
 onboarding-welcome-modal-supercharge-body = Dopřejte si silnou ochranu soukromí.
 onboarding-welcome-modal-privacy-body = Prohlížeč už teď máte. Přidejme k němu ještě trochu ochrany soukromí.
 onboarding-welcome-modal-family-learn-more = Zjistěte více o celé rodině produktů { -brand-product-name }.
 onboarding-welcome-form-header = Začněme
 onboarding-join-form-header =
-    { -brand-product-name.gender ->
-        [masculine] Používejte { -brand-product-name }
-       *[other] Používejte aplikaci { -brand-product-name }
+    Používejte { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
     }
 onboarding-join-form-body = Zde zadejte svou e-mailovou adresu.
 onboarding-join-form-email =
@@ -54,7 +68,13 @@ onboarding-fullpage-form-email =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = Vezměte si { -brand-product-name } s sebou
+onboarding-sync-welcome-header =
+    Vezměte si { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    } s sebou
 onboarding-sync-welcome-content = Mějte své záložky, historii i uložená hesla s sebou na všech svých zařízeních.
 onboarding-sync-welcome-learn-more-link = Zjistit více o účtech Firefoxu
 onboarding-sync-form-input =
@@ -82,7 +102,13 @@ onboarding-benefit-privacy-title = Skutečné soukromí
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Slibujeme, že nezneužijeme vaše data. Méně dat je vždy více, udržíme je v bezpečí a nemáme před vámi žádná tajemství.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Vezměte si své záložky, hesla, historii a další data všude tam, kde používáte aplikaci { -brand-product-name }.
+onboarding-benefit-sync-text =
+    Vezměte si své záložky, hesla, historii a další data všude tam, kde používáte { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Nechte se upozornit, pokud se vaše údaje objeví ve známém úniku dat.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
@@ -112,10 +138,12 @@ onboarding-tracking-protection-button2 = Jak to funguje
 onboarding-data-sync-title = Mějte svá nastavení všude s sebou
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 =
-    { -brand-product-name.gender ->
-        [masculine] Synchronizujte své záložky, hesla a další data všude, kde používáte { -brand-product-name }.
-       *[other] Synchronizujte své záložky, hesla a další data všude, kde používáte aplikaci { -brand-product-name }.
-    }
+    Synchronizujte své záložky, hesla a další data všude, kde používáte { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    }.
 onboarding-data-sync-button2 = Přihlásit k { -sync-brand-short-name(case: "dat") }
 onboarding-firefox-monitor-title = Buďte informování o únicích dat
 onboarding-firefox-monitor-text = { -monitor-brand-name } hlídá, jestli vaše e-mailová adresa nebyla součástí nějakého úniku dat, a dá vám vědět, pokud ji v nějakém najde.
@@ -128,15 +156,19 @@ onboarding-firefox-send-title = Sdílejte své soubory soukromě a bezpečně
 onboarding-firefox-send-text2 = Sdílejte své soubory s { -send-brand-name(case: "ins") }, která je chrání pomocí end-to-end šifrování a odkazů s omezenou platností.
 onboarding-firefox-send-button = Vyzkoušet { -send-brand-name(case: "acc") }
 onboarding-mobile-phone-title =
-    { -brand-product-name.gender ->
-        [masculine] Nainstalujte si { -brand-product-name } do telefonu
-       *[other] Nainstalujte si aplikaci { -brand-product-name } do telefonu
-    }
+    Nainstalujte si { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    } do telefonu
 onboarding-mobile-phone-text =
-    { -brand-product-name.gender ->
-        [masculine] Stáhněte si { -brand-product-name } pro iOS nebo Android a synchronizujte svá data mezi zařízeními.
-       *[other] Stáhněte si aplikaci { -brand-product-name } pro iOS nebo Android a synchronizujte svá data mezi zařízeními.
-    }
+    Stáhněte si { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    } do telefonu pro iOS nebo Android a synchronizujte svá data mezi zařízeními.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Stáhnout mobilní prohlížeč

@@ -210,7 +210,13 @@ menu-tools-addons =
     .label = Doplňky
     .accesskey = D
 menu-tools-fxa-sign-in =
-    .label = Přihlásit se k aplikaci { -brand-product-name }…
+    .label =
+        Přihlásit se k { -brand-product-name.gender ->
+            [masculine] { -brand-product-name(case: "dat") }
+            [feminine] { -brand-product-name(case: "dat") }
+            [neuter] { -brand-product-name(case: "dat") }
+           *[other] aplikaci { -brand-product-name }
+        }…
     .accesskey = p
 menu-tools-turn-on-sync =
     .label = Zapnout { -sync-brand-short-name(case: "acc") }…
@@ -219,7 +225,13 @@ menu-tools-sync-now =
     .label = Synchronizovat
     .accesskey = S
 menu-tools-fxa-re-auth =
-    .label = Znovu připojit k účtu { -brand-product-name }…
+    .label =
+        Znovu připojit k účtu { -brand-product-name.gender ->
+            [masculine] { -brand-product-name(case: "gen") }
+            [feminine] { -brand-product-name(case: "gen") }
+            [neuter] { -brand-product-name(case: "gen") }
+           *[other] aplikace { -brand-product-name }
+        }…
     .accesskey = n
 menu-tools-web-developer =
     .label = Nástroje pro vývojáře

@@ -53,7 +53,13 @@ login-list-breached-option = serveru, kde došlo k úniku dat
 login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
 login-list-intro-title = Nenalezeny žádné přihlašovací údaje
-login-list-intro-description = Tady se zobrazí přihlašovací údaje uložené v aplikaci { -brand-product-name }.
+login-list-intro-description =
+    Tady se zobrazí přihlašovací údaje uložené { -brand-product-name.gender ->
+        [masculine] ve { -brand-product-name(case: "loc") }
+        [feminine] v { -brand-product-name(case: "loc") }
+        [neuter] v { -brand-product-name(case: "loc") }
+       *[other] v aplikaci { -brand-product-name }
+    }.
 about-logins-login-list-empty-search-title = Nenalezeny žádné přihlašovací údaje
 about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpovídají žádné přihlašovací údaje.
 login-list-item-title-new-login = Nové přihlašovací údaje
@@ -66,7 +72,13 @@ about-logins-list-item-breach-icon =
 
 login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste se k { -sync-brand-short-name(case: "dat") }.
 about-logins-login-intro-heading-logged-in = Nenalezeny žádné synchronizované přihlašovací údaje.
-login-intro-description = Pokud jste si uložili přihlašovací údaje do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
+login-intro-description =
+    Pokud jste si uložili přihlašovací údaje do { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] v { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    }, ale na jiném zařízení, můžete je zde získat takto:
 login-intro-instruction-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené
 login-intro-instruction-fxa-settings = V nastavení { -sync-brand-short-name(case: "gen") } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
 about-logins-intro-instruction-help = Pro další pomoc navštivte <a data-l10n-name="help-link">nápovědu { -lockwise-brand-short-name(case: "gen") }</a>
@@ -110,7 +122,12 @@ master-password-reload-button =
 ## Password Sync notification
 
 enable-password-sync-notification-message =
-    Chcete svá hesla všude s sebou, kde používáte aplikaci { -brand-product-name }? Otevřete { PLATFORM() ->
+    Chcete svá hesla všude s sebou, kde používáte { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    }? Otevřete { PLATFORM() ->
         [windows] možnosti
        *[other] předvolby
     } { -sync-brand-short-name(case: "gen") } a zaškrtněte předvolbu pro synchronizaci hesel.
