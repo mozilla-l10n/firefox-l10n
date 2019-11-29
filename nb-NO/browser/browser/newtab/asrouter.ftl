@@ -124,6 +124,7 @@ cfr-whatsnew-lockwise-take-link-text = Last ned appen
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Se på videoer mens du surfer
 cfr-whatsnew-pip-cta = Les mer
 
 ## Permission Prompt
