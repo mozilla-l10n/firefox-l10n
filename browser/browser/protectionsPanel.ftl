@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ina errur è capitada durant trametter il rapport. Emprova anc ina giada pli tard.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = È la website reparada? Trametta in rapport.
