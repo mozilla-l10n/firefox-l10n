@@ -116,6 +116,28 @@ cfr-whatsnew-lockwise-take-title = Porta tu contrasignos con te
 cfr-whatsnew-lockwise-take-body = Le application mobile { -lockwise-brand-short-name } te permitte acceder con securitate al copia de reserva de tu contrasignos, non importa ubi tu te trova.
 cfr-whatsnew-lockwise-take-link-text = Obtener le application
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Guarda tu videos durante que tu naviga
+cfr-whatsnew-pip-cta = Saper plus
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Saper plus
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Dactylogrammator blocate
+       *[other] Dactylogrammatores blocate
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Dactylogrammatores
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Recipe iste marcapaginas sur tu telephono
