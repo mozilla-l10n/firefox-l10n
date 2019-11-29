@@ -505,7 +505,13 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Útržky
-home-prefs-snippets-description = Aktuální informace od společnosti { -vendor-short-name } a aplikace { -brand-product-name }
+home-prefs-snippets-description =
+    Aktuální informace od společnosti { -vendor-short-name } a { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    }
 home-prefs-sections-rows-option =
     .label =
         { $num ->

@@ -307,7 +307,12 @@ discopane-intro =
     svá hesla, stahovat videa, hledat výhodné nabídky, blokovat otravné reklamy,
     měnit vzhled prohlížeče a mnoho dalšího. Tyto malé prográmky většinou vytváří
     někdy jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>
-    pro aplikaci { -brand-product-name } díky jejich jedinečné bezpečnosti a funkcím.
+    pro { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    } díky jejich jedinečné bezpečnosti a funkcím.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Některá z těchto doporučení se zobrazují na základě informací o ostatních
@@ -322,7 +327,13 @@ created-by-author = od autora <a data-l10n-name="author">{ $author }</a>
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Počet uživatelů: { $dailyUsers }
-install-extension-button = Přidat do aplikace { -brand-product-name }
+install-extension-button =
+    Přidat do { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    }
 install-theme-button = Nainstalovat vzhled
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
