@@ -10,6 +10,13 @@ about-config-warning-button = ខ្ញុំ​ទទួល​យក​​ក�
 about-config2-title = ការកំណត់​រចនាសម្ព័ន្ធ​កម្រិត​ខ្ពស់
 about-config-search-input =
     .placeholder = ស្វែងរក
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ប្រុងប្រយ័ត្ន
+
+
+
 about-config-show-all = បង្ហាញ​ទាំងអស់
 about-config-pref-add = បញ្ចូល
 about-config-pref-toggle = បិទ/បើក
