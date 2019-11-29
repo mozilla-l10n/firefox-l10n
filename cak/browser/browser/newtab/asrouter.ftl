@@ -122,6 +122,28 @@ cfr-whatsnew-lockwise-take-body =
     jikomal taq kiwachib'enik ewan atzij xab'akuchi.
 cfr-whatsnew-lockwise-take-link-text = Tak'ulu' ri chokoy
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Ke'atz'eta' silowäch toq atokinäq pa k'amaya'l
+cfr-whatsnew-pip-cta = Tetamäx ch'aqa' chik
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Tetamäx ch'aqa' chik
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Xq'at b'anöy ruwi' q'ab'aj
+       *[other] Xeq'at b'anöy ruwi' q'ab'aj
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinter
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Taya' re yaketal re' pan awoyonib'al
