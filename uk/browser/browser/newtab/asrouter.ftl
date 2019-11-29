@@ -125,6 +125,34 @@ cfr-whatsnew-lockwise-take-body =
     доступ до збережених паролів з будь-якого пристрою.
 cfr-whatsnew-lockwise-take-link-text = Отримати додаток
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Дивіться відео під час перегляду
+cfr-whatsnew-pip-body = Функція Зображення-в-зображенні поміщає відео в плаваюче вікно, щоб ви могли дивитися його поки працюєте з іншими вкладками.
+cfr-whatsnew-pip-cta = Докладніше
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Менше дратівливих виринаючих вікон сайтів
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } тепер блокує сайти, що автоматично запитують про надсилання вам виринаючих повідомлень.
+cfr-whatsnew-permission-prompt-cta = Докладніше
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Заблоковано зчитування відбитку браузера
+        [few] Заблоковано зчитування відбитку браузера
+       *[many] Заблоковано зчитування відбитку браузера
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокує багато засобів, що зчитують відбиток браузера і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Зчитування відбитку браузера
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може блокувати засоби, що зчитують відбиток браузера і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Отримайте цю закладку на своєму телефоні
