@@ -128,6 +128,9 @@ onboarding-send-tabs-title = Kendinize sekme gönderin
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Sekme Gönder özelliğiyle, kopyala-yapıştır yapmadan ve tarayıcınızdan ayrılmadan cihazlarınızdan arasında anında sekme paylaşabilirsiniz.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Linkleri kopyalamaya, tarayıcınızdan çıkmaya gerek yok. Sayfaları cihazlarınız arasında kolayca paylaşın.
 onboarding-send-tabs-button = Sekme Gönder’i kullanma başla
 onboarding-pocket-anywhere-title = Her yerde okuyun ve dinleyin
 onboarding-pocket-anywhere-text2 = Beğendiğiniz içerikleri { -pocket-brand-name } uygulamasına çevrimdışı kaydedin; sonra internetiniz yokken bile onları okuyun, dinleyin ve izleyin.
@@ -136,11 +139,14 @@ onboarding-lockwise-passwords-title = Parolalarınızı yanınızda taşıyın
 onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } ile parolalarınızı güvenle kaydedip saklayın, hesaplarınıza kolayca giriş yapın.
 onboarding-lockwise-passwords-button2 = Uygulamayı indir
 onboarding-lockwise-strong-passwords-title = Güçlü parolalar oluşturup saklayın
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } sizin için güçlü parolalar oluşturur ve onları güvenli bir şekilde kaydeder.
 onboarding-lockwise-strong-passwords-button = Hesaplarınızı yönetin
 onboarding-facebook-container-title = Facebook’un sınırlarını belirleyin
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } profilinizi diğer sitelerden ayrı tutar, böylece Facebook’ reklamlarının sizi hedeflemesini zorlaştırır.
 onboarding-facebook-container-button = Eklentiyi yükle
 onboarding-import-browser-settings-title = Yer imlerinizi, parolalarınızı ve daha fazlasını içe aktarın
+onboarding-import-browser-settings-text = Hemen başlayın: Chrome'daki sitelerinizi ve ayarlarınızı taşıyın.
+onboarding-import-browser-settings-button = Chrome verilerini içe aktar
 
 ## Message strings belonging to the Return to AMO flow
 
