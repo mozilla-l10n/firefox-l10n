@@ -122,6 +122,29 @@ cfr-whatsnew-lockwise-take-body =
     säkerhetskopierade lösenord var som helst.
 cfr-whatsnew-lockwise-take-link-text = Hämta appen
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Titta på videor medans du surfar
+cfr-whatsnew-pip-cta = Läs mer
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Färre irriterande popup-fönster
+cfr-whatsnew-permission-prompt-cta = Läs mer
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Fingeravtrycksspårare blockerade
+       *[other] Fingeravtrycksspårare blockerade
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingeravtrycksspårare
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Få det här bokmärket på din telefon
