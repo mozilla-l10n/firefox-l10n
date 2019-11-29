@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Søk innlogginger
 create-login-button = Lag ny innlogging
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon for { $title }
 fxaccounts-sign-in-text = Få passordene dine på de andre enheter dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,15 +56,12 @@ about-logins-login-list-empty-search-description = Det er ingen resultater som s
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsinformasjon
 login-list-item-subtitle-missing-username = (uten brukernavn)
-about-logins-list-item-warning-icon =
-    .alt = Advarselsikon
-    .title = Nettsted med datalekkasje
 about-logins-list-item-breach-icon =
     .title = Nettsted med datalekkasje
 
 ## Introduction screen
 
-login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }
+login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserte innlogginger funnet.
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instruction-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
@@ -153,11 +145,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = En oppføring for { $loginTitle } med dette brukernavnet finnes allerede.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

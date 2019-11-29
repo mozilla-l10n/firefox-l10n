@@ -130,11 +130,24 @@ cfr-whatsnew-pip-cta = Les mer
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = Færre irriterende sprettoppvinduer
+cfr-whatsnew-permission-prompt-header = Færre irriterende sprettoppmeldinger
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } blokkerer nå nettsteder fra å automatisk be om å sende deg sprettopp-meldinger.
 cfr-whatsnew-permission-prompt-cta = Les mer
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Fingerprinter blokkert
+       *[other] Fingerprinters blokkert
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkerer mange fingerprintere som i det skjulte samler informasjon om enheten din og dine handlinger for å lage en annonseringsprofil for deg.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokkere fingerprintere som i det skjulte samler informasjon om enheten din og dine handlinger for å lage en annonseringsprofil for deg.
 
 ## Bookmark Sync
 
