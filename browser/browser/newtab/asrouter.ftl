@@ -120,6 +120,34 @@ cfr-whatsnew-lockwise-take-title = Porta le tue password sempre con te
 cfr-whatsnew-lockwise-take-body = L’app mobile { -lockwise-brand-short-name } ti permette di accedere in modo sicuro alle password salvate, ovunque ti trovi.
 cfr-whatsnew-lockwise-take-link-text = Ottieni l’app
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Guarda i tuoi video mentre navighi
+cfr-whatsnew-pip-body = La funzione picture-in-picture permette di spostare i video in una finestra separata che puoi posizionare come preferisci. In questo modo potrai continuare a guardarli mentre lavori in altre schede.
+cfr-whatsnew-pip-cta = Ulteriori informazioni
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Stop a fastidiose finestre pop-up
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ora impedisce ai siti di chiedere automaticamente il permesso di visualizzare messaggi pop-up.
+cfr-whatsnew-permission-prompt-cta = Ulteriori informazioni
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+  { $fingerprinterCount ->
+    [one] Fingerprinter bloccato
+   *[other] Fingerprinter bloccati
+  }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocca molti fingerprinter che, in segreto, raccolgono informazioni sul tuo dispositivo e sulle tue azioni online. Questi dati vengono utilizzati per creare un tuo profilo e mostrarti pubblicità mirate.
+
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinter
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } può bloccare i fingerprinter che, in segreto, raccolgono informazioni sul tuo dispositivo e sulle tue azioni online. Questi dati vengono utilizzati per creare un tuo profilo e mostrarti pubblicità mirate.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Ritrova questo segnalibro sul tuo telefono
