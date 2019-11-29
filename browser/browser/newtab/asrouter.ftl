@@ -125,10 +125,12 @@ cfr-whatsnew-lockwise-take-link-text = Last ned appen
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Se på videoer mens du surfer
+cfr-whatsnew-pip-body = Bilde-i-bilde åpner opp video i et flytende vindu slik at du kan se på den mens du jobber i andre faner.
 cfr-whatsnew-pip-cta = Les mer
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Færre irriterende sprettoppvinduer
 cfr-whatsnew-permission-prompt-cta = Les mer
 
 ## Fingerprinter Counter
