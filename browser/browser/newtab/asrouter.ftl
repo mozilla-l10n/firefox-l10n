@@ -125,6 +125,19 @@ cfr-whatsnew-lockwise-take-body =
     атрымліваць доступ до захаваных пароляў з любога месца.
 cfr-whatsnew-lockwise-take-link-text = Атрымаць праграму
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Глядзіце відэа падчас аглядання
+cfr-whatsnew-pip-body = Функцыя выява-ў-выяве змяшчае відэа ў перасоўнае акно, каб вы маглі глядзець, працуючы ў іншых картках.
+cfr-whatsnew-pip-cta = Даведацца больш
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Даведацца больш
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Атрымаць гэтую закладку на свой тэлефон
