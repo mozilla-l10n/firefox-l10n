@@ -3,19 +3,37 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Je k dispozici nová aktualizace aplikace { -brand-shorter-name }.
+    .label = Je k dispozici nová aktualizace { -brand-shorter-name(case: "gen") }.
     .buttonlabel = Stáhnout aktualizaci
     .buttonaccesskey = S
     .secondarybuttonlabel = Teď ne
     .secondarybuttonaccesskey = n
-appmenu-update-available-message = Aktualizujte svou aplikaci { -brand-shorter-name } pro vyšší rychlost a soukromí.
+appmenu-update-available-message =
+    Aktualizujte { -brand-shorter-name.gender ->
+        [masculine] svůj { -brand-shorter-name(case: "acc") }
+        [feminine] svou { -brand-shorter-name(case: "acc") }
+        [neuter] své { -brand-shorter-name(case: "acc") }
+       *[other] svou aplikaci { -brand-shorter-name }
+    } pro vyšší rychlost a soukromí.
 appmenu-update-manual =
     .label = { -brand-shorter-name } nemůže nainstalovat nejnovější verzi.
-    .buttonlabel = Stáhnout aplikaci { -brand-shorter-name }
+    .buttonlabel =
+        Stáhnout { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] aplikaci { -brand-shorter-name }
+        }
     .buttonaccesskey = S
     .secondarybuttonlabel = Teď ne
     .secondarybuttonaccesskey = n
-appmenu-update-manual-message = Stáhněte si novou verzi aplikace { -brand-shorter-name } a my vám pomůžeme s její instalací.
+appmenu-update-manual-message =
+    Stáhněte si novou verzi { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    } a my vám pomůžeme s její instalací.
 appmenu-update-whats-new =
     .value = Co je nového.
 appmenu-update-unsupported =
@@ -24,9 +42,15 @@ appmenu-update-unsupported =
     .buttonaccesskey = v
     .secondarybuttonlabel = Zavřít
     .secondarybuttonaccesskey = Z
-appmenu-update-unsupported-message = Nejnovější verze aplikace { -brand-shorter-name } není pro váš systém podporována.
+appmenu-update-unsupported-message =
+    Nejnovější verze { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    } není pro váš systém podporována.
 appmenu-update-restart =
-    .label = Restartovat a aktualizovat aplikaci { -brand-shorter-name }.
+    .label = Restartovat a aktualizovat { -brand-shorter-name(case: "acc") }.
     .buttonlabel = Restartovat
     .buttonaccesskey = R
     .secondarybuttonlabel = Teď ne
@@ -45,5 +69,11 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = S
     .secondarybuttonlabel = Ok, rozumím
     .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = Nově nainstalovaná rozšíření budou v anonymních oknech aplikace { -brand-shorter-name } vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.
+appmenu-addon-private-browsing-message =
+    Nově nainstalovaná rozšíření budou v anonymních oknech { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    } vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.
 appmenu-addon-private-browsing-learn-more = Jak na nastavení rozšíření

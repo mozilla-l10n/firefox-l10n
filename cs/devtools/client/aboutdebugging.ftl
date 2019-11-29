@@ -89,13 +89,25 @@ about-debugging-setup-title = Nastavení
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Nastavte si způsob připojení pro vzdálení ladění vašeho zařízení.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = Použijte <a>{ about-debugging-this-firefox-runtime-name }</a> pro ladění panelů, rozšíření a service workerů v této verzi aplikace { -brand-shorter-name }.
+about-debugging-setup-this-firefox =
+    Použijte <a>{ about-debugging-this-firefox-runtime-name }</a> pro ladění panelů, rozšíření a service workerů v této verzi { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Připojit zařízení
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Povolením této možnosti stáhne do aplikace { -brand-shorter-name } komponenty potřebné pro ladění pomocí Andoird USB.
+about-debugging-setup-usb-disabled =
+    Povolení této možnosti stáhne do { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    } komponenty potřebné pro ladění pomocí Andoird USB.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Povolit USB zařízení

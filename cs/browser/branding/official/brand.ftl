@@ -13,7 +13,16 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-shorter-name = Firefox
+-brand-shorter-name =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefoxu
+        [dat] Firefoxu
+        [acc] Firefox
+        [voc] Firefoxe
+        [loc] Firefoxu
+        [ins] Firefoxem
+    }
     .gender = masculine
 -brand-short-name = Firefox
     .gender = masculine
