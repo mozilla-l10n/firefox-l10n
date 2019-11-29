@@ -67,7 +67,7 @@ lockwise-no-logins-content = Stáhněte si aplikaci <a data-l10n-name="lockwise-
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored = Bezpečně uložené přihlašovací údaje <a data-l10n-name="lockwise-how-it-works">Jak to funguje</a>
-turn-on-sync = Zapnout { -sync-brand-short-name }…
+turn-on-sync = Zapnout { -sync-brand-short-name(case: "acc") }…
     .title = Otevře nastavení synchronizace
 manage-devices = Správa zařízení
 # Variables:

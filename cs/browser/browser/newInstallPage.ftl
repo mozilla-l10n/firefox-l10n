@@ -21,10 +21,10 @@ options-do-nothing =
         [neuter] vaše { -brand-short-name }
        *[other] vaše aplikace { -brand-short-name }
     } bude používat samostatný profil a nebude sdílet žádná data s ostatními instalacemi prohlížeče Firefox.
-options-use-sync = Pokud chcete mít stejná data ve více instalacích Firefoxu, použijte bezpečnou synchronizaci pomocí jeho účtu.
+options-use-sync = Pokud chcete mít stejná data ve více instalacích Firefoxu, použijte bezpečnou synchronizaci pomocí { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
 resources = Zdroje:
 support-link = Správa profilů - článek nápovědy
-sync-header = Přihlaste se nebo si založte { -fxaccount-brand-name }
+sync-header = Přihlaste se nebo si založte { -fxaccount-brand-name(case: "acc", capitalization: "lower") }
 sync-label = Zadejte svoji e-mailovou adresu
 sync-input =
     .placeholder = E-mail

@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Hledat přihlašovací údaje
 create-login-button = Nové přihlašovací údaje
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Ikona { $title }
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
 fxaccounts-sign-in-button = Použijte službu { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -64,19 +59,16 @@ about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpo
 login-list-item-title-new-login = Nové přihlašovací údaje
 login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
 login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
-about-logins-list-item-warning-icon =
-    .alt = Varovná ikona
-    .title = Na tomto serveru došlo k úniku dat
 about-logins-list-item-breach-icon =
     .title = Na tomto serveru došlo k úniku dat
 
 ## Introduction screen
 
-login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste se ke službě { -sync-brand-short-name }.
+login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste se k { -sync-brand-short-name(case: "dat") }.
 about-logins-login-intro-heading-logged-in = Nenalezeny žádné synchronizované přihlašovací údaje.
 login-intro-description = Pokud jste si uložili přihlašovací údaje do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
-login-intro-instruction-fxa = Vytvořte nebo se přihlaste k účtu { -fxaccount-brand-name } na zařízení, kde máte přihlašovací údaje uložené
-login-intro-instruction-fxa-settings = V nastavení služby { -sync-brand-short-name } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
+login-intro-instruction-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené
+login-intro-instruction-fxa-settings = V nastavení { -sync-brand-short-name(case: "gen") } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
 about-logins-intro-instruction-help = Pro další pomoc navštivte <a data-l10n-name="help-link">nápovědu { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">importovat do { -lockwise-brand-short-name }</a>
 
@@ -121,13 +113,13 @@ enable-password-sync-notification-message =
     Chcete svá hesla všude s sebou, kde používáte aplikaci { -brand-product-name }? Otevřete { PLATFORM() ->
         [windows] možnosti
        *[other] předvolby
-    } služby { -sync-brand-short-name } a zaškrtněte předvolbu pro synchronizaci hesel.
+    } { -sync-brand-short-name(case: "gen") } a zaškrtněte předvolbu pro synchronizaci hesel.
 enable-password-sync-preferences-button =
     .label =
         Navštivte { PLATFORM() ->
             [windows] Možnosti
            *[other] Předvolby
-        } aplikace { -sync-brand-short-name }
+        } { -sync-brand-short-name(case: "gen") }
     .accesskey = V
 confirm-delete-dialog-title = Smazat tyto přihlašovací údaje?
 about-logins-enable-password-sync-dont-ask-again-button =
@@ -156,11 +148,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Přihlašovací údaje pro { $loginTitle } se stejným uživatelským jménem už existují.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

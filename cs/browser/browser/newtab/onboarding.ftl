@@ -57,8 +57,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Vezměte si { -brand-product-name } s sebou
 onboarding-sync-welcome-content = Mějte své záložky, historii i uložená hesla s sebou na všech svých zařízeních.
 onboarding-sync-welcome-learn-more-link = Zjistit více o účtech Firefoxu
-onboarding-sync-form-invalid-input = Je požadován platný e-mail
-onboarding-sync-legal-notice = Pokračováním souhlasíte s <a data-l10n-name="terms">podmínkami poskytování služby</a> a <a data-l10n-name="privacy">zásadami ochrany osobních údajů</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Pokračovat
@@ -67,7 +65,7 @@ onboarding-sync-form-skip-login-button = Přeskočit tento krok
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Zadejte svoji e-mailovou adresu
-onboarding-sync-form-sub-header = a používejte službu { -sync-brand-name }.
+onboarding-sync-form-sub-header = a používejte { -sync-brand-name(case: "acc") }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -107,7 +105,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ještě rychlejší, chytřejší a bezpečnější prohlížení vám umožní např. rozšíření Ghostery, které blokuje otravné reklamy.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizace
-onboarding-fxa-text = Přihlaste se k účtu Firefoxu a synchronizuje své záložky, hesla a otevřené panely kdekoliv používáte aplikaci { -brand-short-name }.
+onboarding-fxa-text = Přihlaste se k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } a synchronizuje své záložky, hesla a otevřené panely kdekoliv používáte aplikaci { -brand-short-name }.
 onboarding-tracking-protection-title2 = Ochrana před sledováním
 onboarding-tracking-protection-text2 = { -brand-short-name } vám pomůže zastavit sledování webovými stránkami a znesnadní reklamám, aby vás následovaly na další weby.
 onboarding-tracking-protection-button2 = Jak to funguje
@@ -118,7 +116,7 @@ onboarding-data-sync-text2 =
         [masculine] Synchronizujte své záložky, hesla a další data všude, kde používáte { -brand-product-name }.
        *[other] Synchronizujte své záložky, hesla a další data všude, kde používáte aplikaci { -brand-product-name }.
     }
-onboarding-data-sync-button2 = Přihlásit ke službě { -sync-brand-short-name }
+onboarding-data-sync-button2 = Přihlásit k { -sync-brand-short-name(case: "dat") }
 onboarding-firefox-monitor-title = Buďte informování o únicích dat
 onboarding-firefox-monitor-text = { -monitor-brand-name } hlídá, jestli vaše e-mailová adresa nebyla součástí nějakého úniku dat, a dá vám vědět, pokud ji v nějakém najde.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } hlídá, jestli vaše e-mailová adresa nebyla součástí nějakého známého úniku dat, a dá vám vědět, pokud ji v nějakém najde.
@@ -151,7 +149,7 @@ onboarding-pocket-anywhere-title = Čtěte a nechte si číst
 onboarding-pocket-anywhere-text2 = Uložte si svůj oblíbený obsah offline s aplikací { -pocket-brand-name } pro přečtení nebo poslech ve chvíli, kdy se vám to opravdu hodí.
 onboarding-pocket-anywhere-button = Vyzkoušet { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Mějte svá hesla všude s sebou
-onboarding-lockwise-passwords-text2 = Ukládejte svá hesla bezpečně pomocí { -lockwise-brand-name }, který vám usnadní rychlé přihlašování do vašich účtů.
+onboarding-lockwise-passwords-text2 = Ukládejte svá hesla bezpečně pomocí { -lockwise-brand-name(case: "gen") }, který vám usnadní rychlé přihlašování do vašich účtů.
 onboarding-lockwise-passwords-button2 = Stáhnout aplikaci
 onboarding-facebook-container-title = Nastavte hranice pro Facebook
 onboarding-facebook-container-text2 = Doplněk { -facebook-container-brand-name } oddělí váš účet od zbytku internetu, takže pro Facebook a jeho reklamy nebude tak snadné vás na internetu vysledovat.
