@@ -180,6 +180,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡'Ò'! Ngà doj gachìn n
 newtab-pocket-read-more = Sa yitïnj doj:
 newtab-pocket-more-recommendations = A'ngô ne nuguan ni'ñanj huaa
 newtab-pocket-how-it-works = Dàj 'iaj sunj
+newtab-pocket-whats-pocket = Nùhuin si huin { -pocket-brand-name }?
 newtab-pocket-cta-button = Girì' { -pocket-brand-name }
 newtab-pocket-cta-text = Na'nïnj sà' nej nuguan' 'ï ruhuât riña { -pocket-brand-name } ni gataj ni'ñanj rát ngà nej sa gahiat.
 
