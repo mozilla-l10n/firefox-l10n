@@ -12,7 +12,16 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-shorter-name = Thunderbird
+-brand-shorter-name =
+    { $case ->
+       *[nom] Thunderbird
+        [gen] Thunderbirdu
+        [dat] Thunderbirdu
+        [acc] Thunderbird
+        [voc] Thunderbirde
+        [loc] Thunderbirdu
+        [ins] Thunderbirdem
+    }
     .gender = masculine
 -brand-short-name =
     { $case ->
@@ -28,7 +37,16 @@
 -brand-full-name = Mozilla Thunderbird
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Daily, Beta, etc.).
--brand-product-name = Thunderbird
+-brand-product-name =
+    { $case ->
+       *[nom] Thunderbird
+        [gen] Thunderbirdu
+        [dat] Thunderbirdu
+        [acc] Thunderbird
+        [voc] Thunderbirde
+        [loc] Thunderbirdu
+        [ins] Thunderbirdem
+    }
     .gender = masculine
 -vendor-short-name =
     { $case ->
