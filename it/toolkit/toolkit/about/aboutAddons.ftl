@@ -338,6 +338,8 @@ remove-addon-button = Rimuovi
 remove-addon-disabled-button = Impossibile rimuovere <a data-l10n-name="link">Perché?</a>
 disable-addon-button = Disattiva
 enable-addon-button = Attiva
+extension-enable-addon-button-label =
+    .aria-label = Attiva
 expand-addon-button = Altre opzioni
 preferences-addon-button =
     { PLATFORM() ->
@@ -423,6 +425,7 @@ updates-heading = Gestione aggiornamenti
 discover-heading = Personalizza { -brand-short-name }
 shortcuts-heading = Gestione scorciatoie da tastiera
 theme-heading-search-label = Trova altri temi
+default-heading-search-label = Trova altri componenti aggiuntivi
 extension-heading-search-label = Trova altre estensioni
 addons-heading-search-input =
     .placeholder = Cerca in addons.mozilla.org
