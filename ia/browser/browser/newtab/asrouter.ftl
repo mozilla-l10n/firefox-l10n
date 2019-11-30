@@ -138,8 +138,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Dactylogrammator blocate
        *[other] Dactylogrammatores blocate
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloca multe dactylogrammatores que collige secretemente informationes re tu apparato e tu actiones pro crear de te un profilo publicitari.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Dactylogrammatores
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } pote blocar dactylogrammatores que collige secretemente informationes re tu apparato e tu actiones pro crear de te un profilo publicitari.
 
 ## Bookmark Sync
 
