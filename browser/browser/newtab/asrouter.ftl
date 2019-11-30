@@ -118,6 +118,18 @@ cfr-whatsnew-lockwise-take-title = Leve suas senhas com você
 cfr-whatsnew-lockwise-take-body = O aplicativo de celular { -lockwise-brand-short-name } permite acessar com segurança em qualquer lugar suas senhas guardadas.
 cfr-whatsnew-lockwise-take-link-text = Instalar o aplicativo
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Assista vídeos enquanto navega
+cfr-whatsnew-pip-body = A função picture-in-picture exibe um vídeo em uma janela flutuante que você posiciona onde quiser, assim pode assistir enquanto usa outras abas.
+cfr-whatsnew-pip-cta = Saiba mais
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Tenha este favorito em seu celular
