@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
 
+<!ENTITY xfoBlocked.title "Blokirano po X-Frame-Options pravilima">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; je zaustavio učitavanje ove stranice u ovom kontekstu, jer stranica sadrži X-Frame-Options pravila, koja to ne dozvoljavaju.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Greška oštećenog sadržaja">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
 
