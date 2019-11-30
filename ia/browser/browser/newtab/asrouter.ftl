@@ -118,7 +118,7 @@ cfr-whatsnew-lockwise-take-link-text = Obtener le application
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-header = Guarda tu videos durante que tu naviga
+cfr-whatsnew-pip-header = Reguarda videos durante que tu naviga
 cfr-whatsnew-pip-body = Pictura-in-pictura face resaltar le video spectate in un fenestra flottante assi que tu lo pote continuar a observar durante que tu labora in altere schedas.
 cfr-whatsnew-pip-cta = Saper plus
 
