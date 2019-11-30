@@ -57,6 +57,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conto actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY sendUnsentCmd.label "Inviar le messages non inviate">
 <!ENTITY subscribeCmd.label "Subscriber…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Deler dossier">
@@ -195,6 +196,7 @@
 <!-- Folder Pane -->
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextSendUnsentMessages.label "Inviar le messages non inviate">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marcar le gruppo como legite">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 
