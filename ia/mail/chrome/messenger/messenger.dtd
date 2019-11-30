@@ -139,6 +139,9 @@
 <!-- Search Menu -->
 
 <!-- Go Menu -->
+<!ENTITY goForwardCmd.label "Reinviar">
+<!ENTITY goForwardCmd.accesskey "R">
+<!ENTITY goForwardCmd.commandKey "]">
 
 <!-- Message Menu -->
 <!ENTITY replyMsgCmd.label "Responder">
@@ -154,6 +157,10 @@
 <!ENTITY replyToListMsgCmd.label "Responder al lista">
 <!ENTITY replyToListMsgCmd.accesskey "L">
 <!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.label "Reinivar">
+<!ENTITY forwardMsgCmd.accesskey "R">
+<!ENTITY forwardAsMenu.label "Reinviar como">
+<!ENTITY forwardAsInline.label "In message">
 <!ENTITY forwardAsAttachmentCmd.label "Annexo">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editAsNewMsgCmd.label "Modificar como nove message">
@@ -185,14 +192,20 @@
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Responder a totes">
 <!ENTITY replyListButton.label "Responder al lista">
+<!ENTITY forwardButton.label "Reinviar">
+<!ENTITY goForwardButton1.label "Avante">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY replyButton.tooltip "Responder al message">
 <!ENTITY replyAllButton.tooltip "Responder al expeditor e a tote le destinatarios">
 <!ENTITY replyListButton.tooltip "Responder al lista de diffusion">
+<!ENTITY forwardButton.tooltip "Reinviar le message seligite">
+<!ENTITY forwardAsInline.tooltip "Reinviar le message seligite como parte del texto del message">
 <!ENTITY forwardAsAttachment.tooltip "Reinviar le message seligite como annexo">
+<!ENTITY goForwardButton.tooltip "Avantiar un message">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Reinviar in le texto del message">
 <!ENTITY buttonMenuForwardAsAttachment.label "Reinviar como annexo">
 
 <!-- Remote Content Button Popup -->
@@ -235,6 +248,12 @@
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "Responder al lista">
 <!ENTITY contextReplyList.accesskey "L">
+<!ENTITY contextForward.label "Reinviar">
+<!ENTITY contextForward.accesskey "R">
+<!ENTITY contextForwardAsMenu.label "Reinviar como">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "In message">
+<!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Annexo">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
 <!ENTITY contextMultiForwardAsAttachment.label "Reinviar como annexos">
@@ -328,3 +347,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseForwardButton.tooltip "Avantiar un pagina">

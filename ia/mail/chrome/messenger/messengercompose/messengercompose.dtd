@@ -239,6 +239,7 @@
      first-level access keys of the compose window, e.g. those of main menu,
      buttons, or labels (message headers, contacts side bar, attachment reminder
      bar). -->
+<!ENTITY attachments.accesskey "x">
 <!ENTITY attachmentBucketHeader.tooltip "Pannello de annexos">
 <!ENTITY attachmentBucketCloseButton.tooltip "Celar le pannello de annexos">
 

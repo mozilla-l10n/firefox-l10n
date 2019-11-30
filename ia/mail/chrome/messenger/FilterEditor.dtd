@@ -18,6 +18,7 @@
 
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY forwardTo.label "Reinviar le message a">
 <!ENTITY replyWithTemplate.label "Responder con patrono">
 
 

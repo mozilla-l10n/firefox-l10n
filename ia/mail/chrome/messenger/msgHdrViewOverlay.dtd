@@ -15,6 +15,9 @@
 <!ENTITY hdrReplyListButton1.label "Responder al lista">
 <!ENTITY hdrReplyListButton1.tooltip "Responder al lista de diffusion">
 <!ENTITY hdrFollowupButton1.tooltip "Publicar un responsa in iste gruppo">
+<!ENTITY hdrMenuForwardButton.label "Reinviate como">
+<!ENTITY hdrForwardButton1.label "Reinviate">
+<!ENTITY hdrForwardButton1.tooltip "Reinviar iste message">
 
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre monstrar Responder al expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">

@@ -17,6 +17,14 @@
 
 
 
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Adresses web se scribe generalmente como
+    <strong>http://www.example.com/</strong></li>
+  <li>Assecura te de usar barras oblique non inverse (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Le connexion ha essite interrumpite">
 
@@ -54,6 +62,7 @@
     que &brandShortName; es permittite a acceder al Web.</li>
 </ul>
 ">
+
 
 
 

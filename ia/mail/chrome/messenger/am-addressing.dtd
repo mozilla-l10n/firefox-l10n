@@ -37,8 +37,8 @@
 <!ENTITY aboveText.label                      "sub mi responsa (ante le texto citate)">
 <!ENTITY includeSigOnReply.label              "Includer le signatura in le responsas">
 <!ENTITY includeSigOnReply.accesskey          "I">
-<!ENTITY includeSigOnForward.label            "Includer firma in messages transferite">
-<!ENTITY includeSigOnForward.accesskey        "t">
+<!ENTITY includeSigOnForward.label            "Includer signatura in messages reinviate">
+<!ENTITY includeSigOnForward.accesskey        "r">
 
 <!ENTITY globalComposingPrefs.label           "Preferentias global de redaction…">
 <!ENTITY globalComposingPrefs.accesskey       "G">
