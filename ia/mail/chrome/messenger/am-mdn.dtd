@@ -3,9 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Receptas de retorno">
+<!ENTITY useGlobalPrefs.label         "Usar mi preferentias global de receptas pro iste conto">
 <!ENTITY globalReceipts.label         "Preferentias global…">
 <!ENTITY globalReceipts.accesskey     "g">
+<!ENTITY useCustomPrefs.label         "Personalisar le receptas de retorno pro iste conto">
+<!ENTITY requestReceipt.label         "Quando se invia messages, sempre demandar un recepta">
+<!ENTITY requestReceipt.accesskey     "Q">
+<!ENTITY receiptArrive.label          "Quando un recepta arriva:">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Displaciar lo a mi dossier &quot;Inviate&quot;">
 <!ENTITY moveToSent.accesskey         "D">
+<!ENTITY requestMDN.label             "Quando io recipe un demanda de recepta:">
+<!ENTITY returnSome.label             "Permitter receptas de retorno pro alcun messages">
+<!ENTITY never.label                  "Nunquam retornar un recepta">
 <!ENTITY alwaysSend.label             "Sempre inviar">
