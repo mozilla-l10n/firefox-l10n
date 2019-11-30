@@ -9,8 +9,20 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Nahlášení doplňku { $addon-name }
-abuse-report-title-extension = Nahlásit toto rozšíření společnosti { -vendor-short-name }
-abuse-report-title-theme = Nahlásit tento vzhled společnosti { -vendor-short-name }
+abuse-report-title-extension =
+    Nahlásit toto rozšíření { -vendor-short-name.gender ->
+        [masculine] { -vendor-short-name(case: "dat") }
+        [feminine] { -vendor-short-name(case: "dat") }
+        [neuter] { -vendor-short-name(case: "dat") }
+       *[other] organizaci { -vendor-short-name }
+    }
+abuse-report-title-theme =
+    Nahlásit tento vzhled { -vendor-short-name.gender ->
+        [masculine] { -vendor-short-name(case: "dat") }
+        [feminine] { -vendor-short-name(case: "dat") }
+        [neuter] { -vendor-short-name(case: "dat") }
+       *[other] organizaci { -vendor-short-name }
+    }
 abuse-report-subtitle = Jaký je problém?
 # Variables:
 #   $author-name (string) - Name of the add-on author

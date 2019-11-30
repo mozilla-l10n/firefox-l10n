@@ -50,7 +50,13 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
-help-button-label = Nápověda
+help-button-label =
+    { -brand-short-name.gender ->
+        [masculine] Nápověda { -brand-short-name(case: "gen") }
+        [feminine] Nápověda { -brand-short-name(case: "gen") }
+        [neuter] Nápověda { -brand-short-name(case: "gen") }
+       *[other] Nápověda
+    }
 addons-button-label = Rozšíření a vzhledy
 focus-search =
     .key = f
@@ -506,7 +512,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Útržky
 home-prefs-snippets-description =
-    Aktuální informace od společnosti { -vendor-short-name } a { -brand-product-name.gender ->
+    Aktuální informace od { -vendor-short-name.gender ->
+        [masculine] { -vendor-short-name(case: "gen") }
+        [feminine] { -vendor-short-name(case: "gen") }
+        [neuter] { -vendor-short-name(case: "gen") }
+       *[other] společnosti { -vendor-short-name }
+    } a { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "gen") }
         [feminine] { -brand-product-name(case: "gen") }
         [neuter] { -brand-product-name(case: "gen") }
@@ -1037,11 +1048,23 @@ collection-header = Sběr a používání dat o aplikaci { -brand-short-name }
 collection-description = S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
 collection-health-report =
-    .label = Odesílat technická data a data o interakcích
+    .label =
+        { -vendor-short-name.gender ->
+            [masculine] Odesílat { -vendor-short-name(case: "dat") }
+            [feminine] Odesílat { -vendor-short-name(case: "dat") }
+            [neuter] Odesílat { -vendor-short-name(case: "dat") }
+           *[other] Odesílat
+        } technická data a data o interakcích
     .accesskey = r
 collection-health-report-link = Zjistit více
 collection-studies =
-    .label = Povolit instalaci studií
+    .label =
+        { -brand-short-name.gender ->
+            [masculine] Povolit { -brand-short-name(case: "dat") } instalovat studie
+            [feminine] Povolit { -brand-short-name(case: "dat") } instalovat studie
+            [neuter] Povolit { -brand-short-name(case: "dat") } instalovat studie
+           *[other] Povolit instalaci studií
+        }
 collection-studies-link = Zobrazit studie aplikace { -brand-short-name }
 addon-recommendations =
     .label = Povolit aplikaci { -brand-short-name } doporučovat rozšíření vybraná přímo pro mě
@@ -1050,7 +1073,13 @@ addon-recommendations-link = Zjistit více
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
 collection-backlogged-crash-reports =
-    .label = Odesílat nevyřízená hlášení o pádech za vás
+    .label =
+        Odesílat nevyřízená hlášení o pádech { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace
+        } za vás
     .accesskey = c
 collection-backlogged-crash-reports-link = Zjistit více
 
