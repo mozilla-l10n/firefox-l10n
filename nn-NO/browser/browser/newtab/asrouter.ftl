@@ -122,6 +122,17 @@ cfr-whatsnew-lockwise-take-body =
     sikkerheitskopierte passorda dine kvar som helst.
 cfr-whatsnew-lockwise-take-link-text = Last ned appen
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Les meir
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Les meir
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Få dette bokmerket på telefonen din
