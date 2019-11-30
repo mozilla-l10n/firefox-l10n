@@ -119,10 +119,13 @@ cfr-whatsnew-lockwise-take-link-text = Obtener le application
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Guarda tu videos durante que tu naviga
+cfr-whatsnew-pip-body = Pictura-in-pictura face resaltar le video spectate in un fenestra flottante assi que tu lo pote continuar a observar durante que tu labora in altere schedas.
 cfr-whatsnew-pip-cta = Saper plus
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Minor enoiose quadros resaltante de sito
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ora bloca le sitos de demandar automaticamente de inviar te messages resaltante.
 cfr-whatsnew-permission-prompt-cta = Saper plus
 
 ## Fingerprinter Counter
