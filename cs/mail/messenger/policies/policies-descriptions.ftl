@@ -21,7 +21,13 @@ policy-CaptivePortal = Povolení nebo zakázání podpory captive portálů.
 policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
-policy-DisableAppUpdate = Blokování aktualizací aplikace { -brand-short-name }.
+policy-DisableAppUpdate =
+    Blokování aktualizací { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
 policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
@@ -29,10 +35,16 @@ policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavení hlavn�
 policy-DisableProfileImport = Blokování importu dat z jiných aplikací.
 policy-DisableSafeMode = Zablokování možnosti restartovat se zakázanými doplňky. Poznámka: přechod do nouzového režimu podržením klávesy Shift lze zablokovat jen na systému Windows pomocí zásad skupin.
 policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezpečnostních varování.
-policy-DisableSystemAddonUpdate = Zablokování aplikaci { -brand-short-name } aktualizovat systémové doplňky.
+policy-DisableSystemAddonUpdate =
+    Blokování { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "dat") }
+        [feminine] { -brand-short-name(case: "dat") }
+        [neuter] { -brand-short-name(case: "dat") }
+       *[other] aplikaci { -brand-short-name }
+    } aktualizovat systémové doplňky.
 policy-DisableTelemetry = Vypnutí telemetrie.
 policy-DisplayMenuBar = Zobrazení hlavní nabídky ve výchozím nastavení.
-policy-DNSOverHTTPS = Nastavení DNS přes HTTPS.
+policy-DNSOverHTTPS = Nastavení DNS over HTTPS.
 policy-DontCheckDefaultClient = Vypnutí kontroly nastavení výchozí aplikace při spuštění.
 policy-DownloadDirectory = Nastavení a uzamčení nastavení adresáře pro stahování souborů.
 # “lock” means that the user won’t be able to change this setting
@@ -46,7 +58,13 @@ policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelera
 policy-InstallAddonsPermission = Povolení instalace doplňků z vybraných webových stránek.
 policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
-policy-OfferToSaveLogins = Nastavení dotazu na uložení přihlašovacích údajů v aplikaci { -brand-short-name }. Lze použít hodnoty true i false.
+policy-OfferToSaveLogins =
+    Nastavení dotazu na uložení přihlašovacích údajů v { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "loc") }
+        [feminine] { -brand-short-name(case: "loc") }
+        [neuter] { -brand-short-name(case: "loc") }
+       *[other] aplikaci { -brand-short-name }
+    }. Lze použít hodnoty true i false.
 policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.

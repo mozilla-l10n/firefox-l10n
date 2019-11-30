@@ -45,7 +45,12 @@ update-setting-write-failure-title = Chyba při ukládání nastavení aktualiza
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    Aplikace { -brand-short-name } zaznamenala problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zaznamenal
+        [feminine] { -brand-short-name } zanamenala
+        [neuter] { -brand-short-name } zaznamenalo
+       *[other] Aplikace { -brand-short-name } zaznamenala
+    } problém při ukládání změny nastavení. Změna těchto nastavení vyžaduje oprávnění k zápisu do níže uvedeného souboru. Vy nebo správce vašeho systému můžete tento problém vyřešit přidělením úplných oprávnění k tomuto souboru pro skupinu Users.
     
     Není možný zápis do souboru: { $path }
 update-in-progress-title = Probíhá aktualizace
