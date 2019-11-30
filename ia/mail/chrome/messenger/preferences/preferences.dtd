@@ -4,10 +4,6 @@
 
 
 
-
-
-
-<!ENTITY attachments.incoming.label   "In entrata">
-<!ENTITY attachments.outgoing.label   "In exito">
+<!ENTITY paneAttachments.title    "Annexos">
 
 

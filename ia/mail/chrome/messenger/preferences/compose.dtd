@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Adresses">
 
 
+<!ENTITY asAttachment.label                   "Como annexo">
 
 <!ENTITY font.label                           "Typo de litteras:">
 <!ENTITY fontSize.label                       "Dimension:">
@@ -21,5 +22,7 @@
 
 
 
+<!ENTITY attachmentReminder.label              "Deteger omission de annexos">
+<!ENTITY attachmentReminder.accesskey          "o">
 <!ENTITY attachmentReminderOptions.label       "Parolas clave…">
-<!ENTITY attachmentReminderOptions.accesskey   "k">
+<!ENTITY attachmentReminderOptions.accesskey   "P">

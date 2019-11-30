@@ -21,11 +21,37 @@
 
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Monstrar initialmente le pannello de annexos">
 
 <!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Aperir">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Salvar como…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY detachAttachmentCmd.label    "Retirar…">
+<!ENTITY detachAttachmentCmd.accesskey    "R">
+<!ENTITY deleteAttachmentCmd.label    "Deler">
+<!ENTITY deleteAttachmentCmd.accesskey    "D">
+<!ENTITY openAllAttachmentsCmd.label    "Aperir totes…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "A">
+<!ENTITY saveAllAttachmentsCmd.label    "Salvar totes…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Retirar totes…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "R">
+<!ENTITY deleteAllAttachmentsCmd.label    "Deler totes…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "D">
 
+<!ENTITY openAttachment.tooltip "Aperir le file annexate">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Aperir le dossier que lo contine">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "D">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Monstrar in Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Salvar">
+<!ENTITY saveAttachmentButton1.tooltip     "Salvar le file annexate">
+<!ENTITY saveAllAttachmentsButton1.label   "Salvar totes">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Salvar tote le files annexate">
 
 
