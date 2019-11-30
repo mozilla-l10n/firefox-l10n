@@ -116,6 +116,19 @@ cfr-whatsnew-lockwise-take-title = Awi yid-k awalen-ik uffiren
 cfr-whatsnew-lockwise-take-body = Asna aziraz { -lockwise-brand-short-name } ad k-yeǧǧ ad tkecmeḍ s wudem aɣelsan ɣer wawalen-ik uffiren yettwaskelsen seg yal amkan.
 cfr-whatsnew-lockwise-take-link-text = Awi asnas
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Issin ugar
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Issin ugar
+
+## Fingerprinter Counter
+
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Idsilen umḍinen
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Kcem ɣer tecreḍt-a n usebter ṣef tiliɣri-ik
