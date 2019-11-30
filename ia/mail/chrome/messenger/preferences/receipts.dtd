@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                  "Receptas de retorno">
+<!ENTITY requestReceipt.label          "Quando se invia messages, sempre demandar un recepta">
+<!ENTITY requestReceipt.accesskey      "Q">
+<!ENTITY receiptArrive.label           "Quando un recepta arriva:">
+<!ENTITY requestMDN.label              "Quando io recipe un demanda de recepta:">
+<!ENTITY never.label                   "Nunquam retornar un recepta">
+<!ENTITY returnSome.label              "Permitter receptas de retorno pro alcun messages">
