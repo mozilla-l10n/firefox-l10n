@@ -172,9 +172,21 @@ cfr-doorhanger-socialtracking-close-button = Zavřít
     .accesskey = Z
 cfr-doorhanger-socialtracking-dont-show-again = Příště už nezobrazovat
     .accesskey = n
-cfr-doorhanger-socialtracking-heading = Aplikace { -brand-short-name } zabránila vašemu sledování sociální sítí
+cfr-doorhanger-socialtracking-heading =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zabránil
+        [feminine] { -brand-short-name } zabránila
+        [neuter] { -brand-short-name } zabránilo
+       *[other] Aplikace { -brand-short-name } zabránila
+    } vašemu sledování sociální sítí
 cfr-doorhanger-socialtracking-description = Na vašem soukromí záleží. { -brand-short-name } blokuje běžné sledovací prvky sociálních sítí a tím omezuje množství dat, které o vás mohou na internetu sbírat.
-cfr-doorhanger-fingerprinters-heading = Aplikace { -brand-short-name } zabránila vytvoření otisku vašeho prohlížeče
+cfr-doorhanger-fingerprinters-heading =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zabránil
+        [feminine] { -brand-short-name } zabránila
+        [neuter] { -brand-short-name } zabránilo
+       *[other] Aplikace { -brand-short-name } zabránila
+    } zabránila vytvoření otisku vašeho prohlížeče
 cfr-doorhanger-fingerprinters-description = Na vašem soukromí záleží. { -brand-short-name } blokuje vytváření otisku vašeho prohlížeče, který může být využit k vaší identifikaci nebo vašemu sledování.
 cfr-doorhanger-cryptominers-heading = Aplikace { -brand-short-name } zablokovala těžbu kryptoměn
 cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -brand-short-name } blokuje těžbu kryptoměn, která spotřebovává výkon vašeho počítače k těžbě digitálních mincí.

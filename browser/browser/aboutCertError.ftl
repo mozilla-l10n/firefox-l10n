@@ -6,7 +6,13 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } používá neplatný bezpečnostní certifikát.
 cert-error-mitm-intro = Webové stránky prokazují svou totožnost prostřednictvím certifikátů, které vydávají certifikační autority.
-cert-error-mitm-mozilla = Za aplikací { -brand-short-name } stojí nezisková organizace Mozilla, která spravuje otevřené úložiště certifikačních autorit (CA). Toto úložiště zajišťuje, aby certifikační autority dodržovaly osvědčené bezpečnostní postupy.
+cert-error-mitm-mozilla =
+    Za { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "ins") }
+        [feminine] { -brand-short-name(case: "ins") }
+        [neuter] { -brand-short-name(case: "ins") }
+       *[other] aplikací { -brand-short-name }
+    } stojí nezisková organizace Mozilla, která spravuje otevřené úložiště certifikačních autorit (CA). Toto úložiště zajišťuje, aby certifikační autority dodržovaly osvědčené bezpečnostní postupy.
 cert-error-mitm-connection = { -brand-short-name } používá úložiště certifikačních autorit od Mozilly, nikoliv úložiště z operačního systému. Pokud antivirový program nebo někdo na síti zachytává spojení s použitím certifikátu od autority, která v úložišti Mozilly není, je toto spojení považováno ze nezabezpečené.
 cert-error-trust-unknown-issuer-intro = Někdo se může snažit vydávat za zmiňovaný server a proto byste neměli v připojení pokračovat.
 # Variables:

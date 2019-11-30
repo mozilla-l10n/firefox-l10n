@@ -25,7 +25,16 @@ install-addon-from-file =
     .label = Instalovat doplněk ze souboru…
     .accesskey = I
 help-button = Nápověda
-preferences = Nastavení aplikace
+preferences =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Předvolby
+    } { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace
+    }
 tools-menu =
     .tooltiptext = Nástroje doplňků
 show-unsigned-extensions-button =
@@ -432,7 +441,7 @@ addon-detail-private-browsing-disallow = Nepovolit
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
     .title = Doporučené rozšíření
-    .alt = { addon-badge-recommended.title }
+    .alt = Doporučené rozšíření
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =

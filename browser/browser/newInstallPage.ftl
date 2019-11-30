@@ -8,9 +8,21 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Důležité novinky
-heading = Změny v používání profilů aplikace { -brand-short-name }
+heading =
+    Změny v používání profilů { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }
 changed-title = Co se změnilo?
-changed-desc-profiles = Tato instalace aplikace { -brand-short-name } má nový profil. Profil je místo, kam Firefox ukládá data jako jsou vaše záložky, hesla a vaše nastavení.
+changed-desc-profiles =
+    Tato instalace { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } má nový profil. Profil je místo, kam Firefox ukládá data jako jsou vaše záložky, hesla a vaše nastavení.
 changed-desc-dedicated = Aby bylo možné bezpečně používat více instalací prohlížeče Firefox najednou (finální verzi, ESR, betaverzi, Firefox Developer Edition a Nightly), tato instalace nyní používá vlastní profil. Automaticky už tedy nesdílí uložená data s ostatními instalacemi.
 lost = <b>O žádná svá data a nastavení nepřijdete.</b> Vše je bezpečně uloženo v profilu a dostupné pro první spuštěnou instalaci Firefoxu.
 options-title = Co mohu dělat dál?
