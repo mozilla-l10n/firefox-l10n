@@ -121,6 +121,34 @@ cfr-whatsnew-lockwise-take-title = Возьмите свои пароли с с�
 cfr-whatsnew-lockwise-take-body = Приложение { -lockwise-brand-short-name } предоставляет вам безопасный доступ к резервным копиям паролей из любой точки мира.
 cfr-whatsnew-lockwise-take-link-text = Загрузить приложение
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Смотрите видео во время веб-сёрфинга
+cfr-whatsnew-pip-body = Функция Картинка-в-картинке помещает видео в плавающее окно, чтобы вы могли смотреть его, работая в других вкладках.
+cfr-whatsnew-pip-cta = Подробнее
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Меньше раздражающих всплывающих окон
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } теперь запрещает веб-сайтам автоматически просить показывать всплывающие окна.
+cfr-whatsnew-permission-prompt-cta = Подробнее
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Сборщик цифровых отпечатков заблокирован
+        [few] Сборщика цифровых отпечатков заблокировано
+       *[many] Сборщиков цифровых отпечатков заблокировано
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокирует множество сборщиков цифровых отпечатков, которые тайно собирают информацию о вашем устройстве и действиях для создания вашего рекламного профиля.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Сборщики цифровых отпечатков
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } может блокировать сборщики цифровых отпечатков, которые тайно собирают информацию о вашем устройстве и действиях для создания вашего рекламного профиля.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Перенесите эту закладку на свой телефон

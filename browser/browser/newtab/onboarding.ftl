@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Возьмите { -brand-product-name } с собой
 onboarding-sync-welcome-content = Получите доступ к вашим закладкам, истории, паролям и другим параметрам на всех ваших устройствах.
 onboarding-sync-welcome-learn-more-link = Узнайте больше об Аккаунтах Firefox
-onboarding-sync-form-invalid-input = Введите действующий адрес электронной почты
-onboarding-sync-legal-notice = Продолжая, вы соглашаетесь с <a data-l10n-name="terms">условиями службы</a> и <a data-l10n-name="privacy">политикой приватности</a>.
 onboarding-sync-form-input =
     .placeholder = Эл. почта
 onboarding-sync-form-continue-button = Продолжить
@@ -147,6 +145,7 @@ onboarding-facebook-container-title = Установите границы для
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } отделяет ваш профиль от всего остального, затрудняя Фейсбуку отслеживание вас для показа целевой рекламы.
 onboarding-facebook-container-button = Установить расширение
 onboarding-import-browser-settings-title = Импортируйте свои закладки, пароли и многое другое
+onboarding-import-browser-settings-text = Быстрое погружение — легко переносите сайты и настройки из Chrome.
 onboarding-import-browser-settings-button = Импортируйте данные из Chrome
 
 ## Message strings belonging to the Return to AMO flow
