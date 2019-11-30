@@ -103,6 +103,16 @@ cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
 cfr-whatsnew-lockwise-backup-title = Парольдеріңіздің қор көшірмесін жасаңыз
 cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Көбірек білу
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } іске қосу
