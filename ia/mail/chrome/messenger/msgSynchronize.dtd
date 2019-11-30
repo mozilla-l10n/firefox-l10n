@@ -6,5 +6,6 @@
 
 <!ENTITY MsgSyncDesc.label "Si tu ha jam seligite dossiers de posta o gruppos de discussion pro uso foras de linea, tu pote discargar e/o synchronisar los ora. Si non, usa le button &quot;Seliger&quot; pro seliger dossiers de posta e gruppos de discussion pro uso foras de linea.">
 <!ENTITY syncTypeNews.label "Messages de gruppos de discussion">
+<!ENTITY sendMessage.label "Inviar le messages non inviate">
 <!ENTITY MsgSelectDesc.label "Selige dossiers de posta e gruppos de discussion pro uso foras de linea.">
 <!ENTITY MsgSelectItems.label "Dossiers e gruppos">

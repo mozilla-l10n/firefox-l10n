@@ -6,6 +6,8 @@
 <!ENTITY requestReceipt.label          "Quando se invia messages, sempre demandar un recepta">
 <!ENTITY requestReceipt.accesskey      "Q">
 <!ENTITY receiptArrive.label           "Quando un recepta arriva:">
+<!ENTITY moveToSent.label              "Displaciar lo a mi dossier &quot;Inviate&quot;">
+<!ENTITY moveToSent.accesskey          "m">
 <!ENTITY requestMDN.label              "Quando io recipe un demanda de recepta:">
 <!ENTITY never.label                   "Nunquam retornar un recepta">
 <!ENTITY returnSome.label              "Permitter receptas de retorno pro alcun messages">
