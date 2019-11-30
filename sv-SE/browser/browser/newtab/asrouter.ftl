@@ -125,6 +125,7 @@ cfr-whatsnew-lockwise-take-link-text = Hämta appen
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Titta på videor medans du surfar
+cfr-whatsnew-pip-body = Bild-i-bild visar upp en video i ett flytande fönster så att du kan titta medans du arbetar i andra flikar.
 cfr-whatsnew-pip-cta = Läs mer
 
 ## Permission Prompt
