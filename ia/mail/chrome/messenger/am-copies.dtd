@@ -10,6 +10,10 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Dossier &quot;Inviate&quot; sur:">
+<!ENTITY sentFolderOn.accesskey "I">
+<!ENTITY sentInOtherFolder.label "Altere:">
+<!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Archivos de messages">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->

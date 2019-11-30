@@ -6,4 +6,6 @@
 <!ENTITY globalReceipts.label         "Preferentias global…">
 <!ENTITY globalReceipts.accesskey     "g">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Displaciar lo a mi dossier &quot;Inviate&quot;">
+<!ENTITY moveToSent.accesskey         "D">
 <!ENTITY alwaysSend.label             "Sempre inviar">
