@@ -86,7 +86,7 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordinar annexos…">
 <!ENTITY reorderAttachmentsCmd.accesskey "x">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Quadro de annexos">
+<!ENTITY toggleAttachmentPaneCmd.label "Pannello de annexos">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
@@ -239,6 +239,8 @@
      first-level access keys of the compose window, e.g. those of main menu,
      buttons, or labels (message headers, contacts side bar, attachment reminder
      bar). -->
+<!ENTITY attachmentBucketHeader.tooltip "Pannello de annexos">
+<!ENTITY attachmentBucketCloseButton.tooltip "Celar le pannello de annexos">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY smiley3Cmd.label "Palpebration">
@@ -270,11 +272,15 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Seliger toto">
 <!ENTITY selectAll.accesskey "t">
+<!ENTITY convertRegularAttachment.label "Annexo normal">
+<!ENTITY convertRegularAttachment.accesskey "A">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Monstrar initialmente le pannello de annexos">
+<!ENTITY initiallyShowAttachmentPane.accesskey "M">
 
 <!-- Spell checker context menu items -->
 

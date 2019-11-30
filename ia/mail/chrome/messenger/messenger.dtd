@@ -121,6 +121,8 @@
 <!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
+<!ENTITY sortByAttachmentsCmd.label "Annexos">
+<!ENTITY sortByAttachmentsCmd.accesskey "x">
 <!ENTITY msgsMenu.label "Messages">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Filos">
@@ -130,6 +132,8 @@
 
 
 
+<!ENTITY viewAttachmentsInlineCmd.label "Monstrar annexos in message">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
 
 <!-- Search Menu -->
@@ -150,10 +154,14 @@
 <!ENTITY replyToListMsgCmd.label "Responder al lista">
 <!ENTITY replyToListMsgCmd.accesskey "L">
 <!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY forwardAsAttachmentCmd.label "Annexo">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editAsNewMsgCmd.label "Modificar como nove message">
 <!ENTITY editAsNewMsgCmd.accesskey "M">
 <!ENTITY editAsNewMsgCmd.key "m">
 <!-- do not change "VK_RETURN" -->
+<!ENTITY openAttachmentListCmd.label "Annexos">
+<!ENTITY openAttachmentListCmd.accesskey "x">
 
 <!-- Windows Menu -->
 
@@ -182,8 +190,10 @@
 <!ENTITY replyButton.tooltip "Responder al message">
 <!ENTITY replyAllButton.tooltip "Responder al expeditor e a tote le destinatarios">
 <!ENTITY replyListButton.tooltip "Responder al lista de diffusion">
+<!ENTITY forwardAsAttachment.tooltip "Reinviar le message seligite como annexo">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsAttachment.label "Reinviar como annexo">
 
 <!-- Remote Content Button Popup -->
 
@@ -207,8 +217,10 @@
 <!-- Quick Search Menu Bar -->
 
 <!-- Thread Pane -->
+<!ENTITY attachmentColumn.label "Annexos">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
 
 <!-- Thread Pane Context Menu -->
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -223,6 +235,10 @@
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "Responder al lista">
 <!ENTITY contextReplyList.accesskey "L">
+<!ENTITY contextForwardAsAttachmentItem.label "Annexo">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Reinviar como annexos">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "x">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
