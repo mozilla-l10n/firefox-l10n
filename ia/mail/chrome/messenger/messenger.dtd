@@ -166,7 +166,12 @@
 <!ENTITY editAsNewMsgCmd.label "Modificar como nove message">
 <!ENTITY editAsNewMsgCmd.accesskey "M">
 <!ENTITY editAsNewMsgCmd.key "m">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY editDraftMsgCmd.label "Modificar esbosso">
+<!ENTITY editDraftMsgCmd.accesskey "E">
+<!ENTITY editTemplateMsgCmd.label "Modificar modello">
+<!ENTITY editTemplateMsgCmd.accesskey "M">
+<!ENTITY newMsgFromTemplateCmd.label "Nove message desde modello">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY openAttachmentListCmd.label "Annexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
 
@@ -236,10 +241,14 @@
 <!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nove message desde modello">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
+<!ENTITY contextEditDraftMsg.label "Modificar esbosso">
+<!ENTITY contextEditTemplate.label "Modificar modello">
+<!ENTITY contextEditTemplate.accesskey "M">
 <!ENTITY contextReplySender.label "Responder solmente al expeditor">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup2.label "Responder in le gruppo">

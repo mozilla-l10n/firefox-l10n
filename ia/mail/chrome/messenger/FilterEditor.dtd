@@ -7,6 +7,8 @@
 <!ENTITY filterName.label "Nomine del filtro:">
 <!ENTITY filterName.accesskey "i">
 
+<!ENTITY junk.label "Indesirabile">
+<!ENTITY notJunk.label "Non indesirabile">
 
 <!ENTITY lowestPriorityCmd.label "Plus basse">
 <!ENTITY lowPriorityCmd.label "Basse">
@@ -19,7 +21,7 @@
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY forwardTo.label "Reinviar le message a">
-<!ENTITY replyWithTemplate.label "Responder con patrono">
+<!ENTITY replyWithTemplate.label "Responder con modello">
 
 
 <!-- LOCALIZATION NOTE

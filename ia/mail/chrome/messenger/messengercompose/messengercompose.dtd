@@ -38,8 +38,8 @@
 <!ENTITY saveAsCmd.accesskey "c">
 <!ENTITY saveAsFileCmd.label "File…">
 <!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsDraftCmd.label "Minuta">
-<!ENTITY saveAsDraftCmd.accesskey "M">
+<!ENTITY saveAsDraftCmd.label "Esbosso">
+<!ENTITY saveAsDraftCmd.accesskey "E">
 <!ENTITY saveAsTemplateCmd.label "Modello">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
 <!ENTITY sendNowCmd.label "Inviar ora">

@@ -23,4 +23,9 @@
 <!ENTITY draftsFolderOn.accesskey "E">
 <!ENTITY draftInOtherFolder.label "Altere:">
 <!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY keepTemplates.label "Mantener modellos in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "Dossier &quot;Modellos&quot; sur:">
+<!ENTITY templatesFolderOn.accesskey "M">
+<!ENTITY templateInOtherFolder.label "Altere:">
+<!ENTITY templateInOtherFolder.accesskey "A">
