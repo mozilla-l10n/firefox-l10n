@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Omukulu w'ebyongerwako
+addons-page-title = Omukulu w'ebyongerwako
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = Ebigattibwako
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Ebikozesebwa ku byongerebwako ebyabuli ngeri
