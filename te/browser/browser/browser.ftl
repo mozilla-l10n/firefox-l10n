@@ -128,5 +128,8 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = భద్రపరుస్తున్నప్పుడు ఎడిటర్‌ను చూపించు
+    .accesskey = S
 bookmark-panel-done-button =
     .label = పూర్తయింది
