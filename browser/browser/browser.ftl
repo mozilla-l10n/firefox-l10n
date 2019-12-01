@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ezarri leiho pribatuetarako bilaketa-motor lehenetsi gisa
     .accesskey = E
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Eginda
