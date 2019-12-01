@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Đặt làm công cụ tìm kiếm mặc định cho cửa sổ riêng tư
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Xong
