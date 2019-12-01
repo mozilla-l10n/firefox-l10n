@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Add-ons मेनेजार
+addons-page-title = Add-ons मेनेजार
 search-header =
     .placeholder = नागिर addons.mozilla.org
     .searchbuttonlabel = नागिर
@@ -240,10 +241,6 @@ remove-addon-button = बोखार
 disable-addon-button = लोरबां खालाम
 enable-addon-button = हाहोनाय खालाम
 expand-addon-button = गोबां उफ्रा
-disable-addon-button-label =
-    .aria-label = लोरबां खालाम
-enable-addon-button-label =
-    .aria-label = हाहोनाय खालाम
 preferences-addon-button =
     { PLATFORM() ->
         [windows] उफ्रा
@@ -301,3 +298,5 @@ release-notes-error = निमाहा, नाथाय ओंखारना�
 
 addons-heading-search-input =
     .placeholder = नागिर addons.mozilla.org
+addon-page-options-button =
+    .title = गासै add-ons नि थाखाय टुल्‌स
