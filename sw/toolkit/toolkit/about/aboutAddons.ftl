@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Msimamizi Kifaa cha Nyongeza
+addons-page-title = Msimamizi Kifaa cha Nyongeza
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = Vifaa vya nyongeza
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Zana za vifaa vyote vya nyongeza
