@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Встановити типовим засобом пошуку для приватних вікон
     .accesskey = х
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Готово
