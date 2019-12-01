@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Utvidelser
+addons-page-title = Utvidelser
 search-header =
     .placeholder = Søk på addons.mozilla.org
     .searchbuttonlabel = Søk
@@ -348,10 +349,6 @@ remove-addon-disabled-button = Kan ikke fjernes <a data-l10n-name="link">Hvorfor
 disable-addon-button = Deaktiver
 enable-addon-button = Aktiver
 expand-addon-button = Flere innstillinger
-disable-addon-button-label =
-    .aria-label = Deaktiver
-enable-addon-button-label =
-    .aria-label = Aktiver
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Innstillinger
@@ -457,3 +454,5 @@ theme-heading-search-label = Finn flere tema
 extension-heading-search-label = Finn flere utvidelser
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
+addon-page-options-button =
+    .title = Verktøy for alle utvidelser
