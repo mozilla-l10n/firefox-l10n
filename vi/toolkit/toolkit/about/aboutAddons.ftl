@@ -453,3 +453,5 @@ theme-heading-search-label = Tìm thêm chủ đề
 extension-heading-search-label = Tìm thêm tiện ích
 addons-heading-search-input =
     .placeholder = Tìm kiếm addons.mozilla.org
+addon-page-options-button =
+    .title = Công cụ cho tất cả tiện ích
