@@ -139,3 +139,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = निजी विंडो के लिए तयशुदा खोज इंजन के रूप में सेट करें
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = संपन्न
