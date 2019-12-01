@@ -141,3 +141,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Definir sco maschina da tschertgar da standard per fanestras privatas
     .accesskey = p
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Terminar
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 30em
