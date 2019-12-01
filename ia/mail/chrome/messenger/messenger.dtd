@@ -123,6 +123,8 @@
 <!-- Sort Menu -->
 <!ENTITY sortByAttachmentsCmd.label "Annexos">
 <!ENTITY sortByAttachmentsCmd.accesskey "x">
+<!ENTITY sortByJunkStatusCmd.label "Stato de indesirate">
+<!ENTITY sortByJunkStatusCmd.accesskey "I">
 <!ENTITY msgsMenu.label "Messages">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Filos">
@@ -172,6 +174,14 @@
 <!ENTITY editTemplateMsgCmd.accesskey "M">
 <!ENTITY newMsgFromTemplateCmd.label "Nove message desde modello">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY markAsJunkCmd.label "Como indesirate">
+<!ENTITY markAsJunkCmd.accesskey "i">
+<!ENTITY markAsJunkCmd.key "i">
+<!ENTITY markAsNotJunkCmd.label "Como non indesirate">
+<!ENTITY markAsNotJunkCmd.accesskey "n">
+<!ENTITY markAsNotJunkCmd.key "i">
+<!ENTITY recalculateJunkScoreCmd.label "Executar le controlos de posta indesirate">
+<!ENTITY recalculateJunkScoreCmd.accesskey "E">
 <!ENTITY openAttachmentListCmd.label "Annexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
 
@@ -179,6 +189,10 @@
 
 <!-- Tools Menu -->
 <!ENTITY messengerCmd.label "Posta e gruppos">
+<!ENTITY runJunkControls.label "Executar le controlos de posta indesirate in le dossier">
+<!ENTITY runJunkControls.accesskey "E">
+<!ENTITY deleteJunk.label "Deler le posta marcate como indesirate in le dossier">
+<!ENTITY deleteJunk.accesskey "D">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
@@ -199,6 +213,9 @@
 <!ENTITY replyListButton.label "Responder al lista">
 <!ENTITY forwardButton.label "Reinviar">
 <!ENTITY goForwardButton1.label "Avante">
+<!ENTITY junkItem.title "Indesirate">
+<!ENTITY junkButton.label "Indesirate">
+<!ENTITY notJunkButton.label "Non indesirate">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY replyButton.tooltip "Responder al message">
@@ -208,6 +225,8 @@
 <!ENTITY forwardAsInline.tooltip "Reinviar le message seligite como parte del texto del message">
 <!ENTITY forwardAsAttachment.tooltip "Reinviar le message seligite como annexo">
 <!ENTITY goForwardButton.tooltip "Avantiar un message">
+<!ENTITY junkButton.tooltip "Marcar le message seligite como indesirate">
+<!ENTITY notJunkButton.tooltip "Marcar le message seligite como non indesirate">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reinviar in le texto del message">
@@ -224,6 +243,8 @@
 <!-- Folder Pane -->
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextEmptyJunk.label "Vacuar le dossier Indesirate">
+<!ENTITY folderContextEmptyJunk.accesskey "V">
 <!ENTITY folderContextSendUnsentMessages.label "Inviar le messages non inviate">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marcar le gruppo como legite">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
@@ -235,9 +256,11 @@
 <!-- Quick Search Menu Bar -->
 
 <!-- Thread Pane -->
+<!ENTITY junkStatusColumn.label "Stato de indesirate">
 <!ENTITY attachmentColumn.label "Annexos">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY junkStatusColumn2.tooltip "Ordinar per stato de indesirate">
 <!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
 
 <!-- Thread Pane Context Menu -->
