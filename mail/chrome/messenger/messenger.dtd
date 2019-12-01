@@ -814,3 +814,5 @@
 <!ENTITY dockOptions.label "Opciones del icono de la aplicación…">
 <!ENTITY writeNewMessageDock.label "Redactar nuevo mensaje">
 <!ENTITY openAddressBookDock.label "Abrir libreta de direcciones">
+<!ENTITY browseBackButton.tooltip "Ir a la página anterior">
+<!ENTITY browseForwardButton.tooltip "Ir a la página siguiente">
