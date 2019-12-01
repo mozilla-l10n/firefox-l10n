@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ako standardnu pytnicu za priwatne wokna nastajiś
     .accesskey = A
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Dokóńcony
