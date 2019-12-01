@@ -124,6 +124,30 @@ cfr-whatsnew-lockwise-take-title = Wzmiće swoje hesła sobu
 cfr-whatsnew-lockwise-take-body = Mobilne nałoženje { -lockwise-brand-short-name } wam wěsty přistup na swoje zawěsćene hesła wot wšudźe zmóžnja,
 cfr-whatsnew-lockwise-take-link-text = Wobstarajće sej nałoženje
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Wobhladajće sej wideja, mjeztym zo přehladujeće
+cfr-whatsnew-pip-cta = Dalše informacije
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Dalše informacije
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Porstowy wotćišć zablokowany
+        [two] Porstowej wotćišćej zablokowanej
+        [few] Porstowe wotćišće zablokowane
+       *[other] Porstowe wotćišće zablokowane
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Porstowe wotćišće
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Přinjesće tutu zapołožku na swój telefon
