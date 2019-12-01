@@ -131,3 +131,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ਮੂਲ ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = ਮੁਕੰਮਲ
