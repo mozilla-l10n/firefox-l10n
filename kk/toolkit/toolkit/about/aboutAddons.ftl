@@ -423,3 +423,5 @@ theme-heading-search-label = Көбірек темаларды табу
 extension-heading-search-label = Көбірек кеңейтулерді табу
 addons-heading-search-input =
     .placeholder = addons.mozilla.org-ға іздеу
+addon-page-options-button =
+    .title = Барлық қосымшалар үшін құралдар
