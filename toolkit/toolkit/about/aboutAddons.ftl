@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Përgjegjësi i Shtesave
+addons-page-title = Përgjegjësi i Shtesave
 search-header =
     .placeholder = Kërkoni te addons.mozilla.org
     .searchbuttonlabel = Kërko
@@ -342,10 +343,6 @@ remove-addon-disabled-button = S’mund të Hiqet <a data-l10n-name="link">Pse?<
 disable-addon-button = Çaktivizoje
 enable-addon-button = Aktivizoje
 expand-addon-button = Më tepër Mundësi
-disable-addon-button-label =
-    .aria-label = Çaktivizoje
-enable-addon-button-label =
-    .aria-label = Aktivizoje
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Mundësi
@@ -451,3 +448,5 @@ theme-heading-search-label = Gjeni më tepër tema
 extension-heading-search-label = Gjeni më tepër zgjerime
 addons-heading-search-input =
     .placeholder = Kërkoni te addons.mozilla.org
+addon-page-options-button =
+    .title = Mjete për krejt shtesat
