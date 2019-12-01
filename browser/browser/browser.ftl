@@ -141,3 +141,16 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Als standaardzoekmachine voor privévensters instellen
     .accesskey = p
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Editor tonen bij opslaan
+    .accesskey = E
+bookmark-panel-done-button =
+    .label = Gereed
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
