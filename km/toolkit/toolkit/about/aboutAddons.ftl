@@ -4,6 +4,7 @@
 
 addons-window =
     .title = កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម
+addons-page-title = កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម
 search-header-shortcut =
     .key = f
 loading-label =
@@ -236,3 +237,5 @@ addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែ
 
 ## Page headings
 
+addon-page-options-button =
+    .title = ឧបករណ៍​សម្រាប់​កម្មវិធី​បន្ថែម​ទាំងអស់
