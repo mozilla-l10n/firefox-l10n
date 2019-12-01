@@ -353,6 +353,10 @@ remove-addon-disabled-button = Нельга выдаліць <a data-l10n-name="
 disable-addon-button = Адключыць
 enable-addon-button = Уключыць
 expand-addon-button = Дадатковыя параметры
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Уключыць
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Налады
@@ -457,6 +461,7 @@ discover-heading = Персаналізуйце свой { -brand-short-name }
 shortcuts-heading = Кіраваць спалучэннямі клавіш пашырэнняў
 theme-heading-search-label = Знайсці іншыя тэмы
 extension-heading-search-label = Знайсці іншыя пашырэнні
+default-heading-search-label = Знайсці больш дадаткаў
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
 addon-page-options-button =
