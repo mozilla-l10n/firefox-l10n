@@ -142,7 +142,7 @@ cfr-whatsnew-permission-prompt-cta = Les mer
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
         [one] Fingerprinter blokkert
-       *[other] Fingerprinters blokkert
+       *[other] Fingerprinters blokkerte
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkerer mange fingerprintere som i det skjulte samler informasjon om enheten din og dine handlinger for å lage en annonseringsprofil for deg.
 # Message variation when fingerprinters count is less than 10
