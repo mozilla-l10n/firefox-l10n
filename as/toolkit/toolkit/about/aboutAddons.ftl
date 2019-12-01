@@ -4,6 +4,7 @@
 
 addons-window =
     .title = এড-অনসমূহৰ ব্যৱস্থাপক
+addons-page-title = এড-অনসমূহৰ ব্যৱস্থাপক
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = এড-অনসমূহ
 
 ## Page headings
 
+addon-page-options-button =
+    .title = সকলো এড-অনৰ পৰা সঁজুলিসমূহ
