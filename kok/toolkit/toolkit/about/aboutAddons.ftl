@@ -4,6 +4,7 @@
 
 addons-window =
     .title = अँड-ऑन वेवस्थापक
+addons-page-title = अँड-ऑन वेवस्थापक
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = अँड-ऑन
 
 ## Page headings
 
+addon-page-options-button =
+    .title = सगल्या अँड-ऑनाखातीर उपकरणां
