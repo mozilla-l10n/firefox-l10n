@@ -133,3 +133,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Постави као подразумевани претраживач
     .accesskey = т
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Готово
