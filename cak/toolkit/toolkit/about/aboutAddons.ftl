@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Kinuk'samajel taq tz'aqat
+addons-page-title = Kinuk'samajel taq tz'aqat
 search-header =
     .placeholder = Tikanöx addons.mozilla.org
     .searchbuttonlabel = Tikanöx
@@ -346,10 +347,6 @@ remove-addon-disabled-button = Man Tikirel ta Niyuj el <a data-l10n-name="link">
 disable-addon-button = Tichup
 enable-addon-button = Titzij
 expand-addon-button = Ch'aqa' chik taq Cha'oj
-disable-addon-button-label =
-    .aria-label = Tichup
-enable-addon-button-label =
-    .aria-label = Titzij
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Taq cha'oj
@@ -455,3 +452,5 @@ theme-heading-search-label = Ke'ilitäj ch'aqa' chik taq wachinel
 extension-heading-search-label = Ke'ilitäj ch'aqa' chik taq k'amal
 addons-heading-search-input =
     .placeholder = Tikanöx addons.mozilla.org
+addon-page-options-button =
+    .title = Taq kisamajib'al konojel ri taq tz'aqat
