@@ -4,6 +4,7 @@
 
 addons-window =
     .title = 附加元件管理員
+addons-page-title = 附加元件管理員
 search-header =
     .placeholder = 在 addons.mozilla.org 搜尋
     .searchbuttonlabel = 搜尋
@@ -339,10 +340,6 @@ remove-addon-disabled-button = 無法移除，<a data-l10n-name="link">為什麼
 disable-addon-button = 停用
 enable-addon-button = 啟用
 expand-addon-button = 更多選項
-disable-addon-button-label =
-    .aria-label = 停用
-enable-addon-button-label =
-    .aria-label = 啟用
 preferences-addon-button =
     { PLATFORM() ->
         [windows] 選項
@@ -447,3 +444,5 @@ theme-heading-search-label = 尋找更多佈景主題
 extension-heading-search-label = 尋找更多擴充套件
 addons-heading-search-input =
     .placeholder = 在 addons.mozilla.org 搜尋
+addon-page-options-button =
+    .title = 所有附加元件的工具
