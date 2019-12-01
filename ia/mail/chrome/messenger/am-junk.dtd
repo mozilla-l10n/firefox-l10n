@@ -3,11 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Parametros de posta indesirate">
+<!ENTITY trainingDescription.label "Si es activate, tu debe primo inseniar a &brandShortName; a recognoscer le posta indesirate usante le button Indesirate in le barra de instrumentos pro marcar o dismarcar messages como indesirate. Tu debe identificar tanto le messages desirate como le messages indesirate. Post isto, &brandShortName; potera marcar automaticamente le posta indesirate.">
+<!ENTITY level.label "Activar le controlos adaptive de posta indesirate pro iste conto">
 
+<!ENTITY move.label "Displaciar nove messages indesirate a:">
+<!ENTITY junkFolderOn.label "Dossier &quot;Indesirate&quot; sur:">
+<!ENTITY junkFolderOn.accesskey "I">
 <!ENTITY otherFolder.label "Altero:">
 <!ENTITY otherFolder.accesskey "A">
+<!ENTITY purge1.label "Deler automaticamente le posta indesirate plus ancian de">
 
+<!ENTITY whitelistHeader.label "Non marcar automaticamente como indesirate si le expeditor es in: ">
 
+<!ENTITY ispHeadersWarning.label "Si es activate, &brandShortName; considera automaticamente le messages marcate per iste classificator externe como indesirate.">
 
 <!ENTITY junkClassification.label "Selection">
 
