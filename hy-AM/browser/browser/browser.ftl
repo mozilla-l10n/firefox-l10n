@@ -137,3 +137,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Սահմանել որպես լռելյայն որոնման միջոց անձնական պատուհանների համար
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Պատրաստ է
