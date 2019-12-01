@@ -24,6 +24,7 @@
 <!-- New Style Filter Rule Actions -->
 <!ENTITY forwardTo.label "Reinviar le message a">
 <!ENTITY replyWithTemplate.label "Responder con modello">
+<!ENTITY setJunkScore.label "Mitter stato de indesirate a">
 
 
 <!-- LOCALIZATION NOTE
