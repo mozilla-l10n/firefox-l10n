@@ -16,6 +16,10 @@
 <!ENTITY whitelistHeader.label "Non marcar automaticamente como indesirate si le expeditor es in: ">
 
 <!ENTITY ispHeadersWarning.label "Si es activate, &brandShortName; considera automaticamente le messages marcate per iste classificator externe como indesirate.">
+<!ENTITY ispHeaders.label "Confider in le capites de posta indesirate inserite per: ">
 
 <!ENTITY junkClassification.label "Selection">
+<!ENTITY junkActions.label "Destination e retention">
 
+<!ENTITY globalJunkPrefs.label "Preferentias global de posta indesirate…">
+<!ENTITY globalJunkPrefs.accesskey "g">

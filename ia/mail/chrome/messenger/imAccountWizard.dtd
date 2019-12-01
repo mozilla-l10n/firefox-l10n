@@ -7,4 +7,7 @@
 
 <!ENTITY accountPasswordManager.label "Le contrasigno inserite hic essera immagazinate in le gestor de contrasignos. Lassa iste quadro vacue si tu vole que le contrasigno te es demandate a cata connexion.">
 
+<!ENTITY accountProxySettings.caption "Parametros de proxy">
+<!ENTITY accountProxySettings.change.label     "Cambiar…">
+<!ENTITY accountProxySettings.change.accessKey "C">
 
