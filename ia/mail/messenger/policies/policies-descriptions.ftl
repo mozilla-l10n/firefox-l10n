@@ -11,5 +11,6 @@
 ## in the documentation section in about:policies.
 
 policy-DefaultDownloadDirectory = Selige le directorio predefinite pro discargamentos.
+policy-DisableFeedbackCommands = Disactivar le commandos pro inviar opinion ab le menu Adjuta ("Inviar opinion" e "Denunciar un sito fraudulente").
 policy-DisplayMenuBar = Monstrar le barra de menu per predefinition.
 policy-DontCheckDefaultClient = Disactivar le verification de cliente predefinite al initio.
