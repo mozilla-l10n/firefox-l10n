@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Հավելումների կառավարում
+addons-page-title = Հավելումների կառավարում
 search-header-shortcut =
     .key = f
 loading-label =
