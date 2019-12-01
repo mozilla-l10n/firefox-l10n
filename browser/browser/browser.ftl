@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = プライベートウィンドウの既定の検索エンジンに設定
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = 完了
