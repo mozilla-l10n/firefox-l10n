@@ -134,6 +134,9 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = ਸੰਭਾਲਣ ‘ਤੇ ਸੰਪਾਦਕ ਵੇਖੋ
+    .accesskey = S
 bookmark-panel-done-button =
     .label = ਮੁਕੰਮਲ
 # Width of the bookmark panel.
