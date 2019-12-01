@@ -4,6 +4,7 @@
 
 addons-window =
     .title = एड-ऑनस बेबोसतायिच्
+addons-page-title = एड-ऑनस बेबोसतायिच्
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = एड-ऑनस
 
 ## Page headings
 
+addon-page-options-button =
+    .title = जोतो एड-ऑनस ला़गित् टुल्स को
