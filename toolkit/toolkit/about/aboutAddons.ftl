@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Zastojnik dodankow
+addons-page-title = Zastojnik dodankow
 search-header =
     .placeholder = Na addons.mozilla.org pytaś
     .searchbuttonlabel = Pytaś
@@ -342,10 +343,6 @@ remove-addon-disabled-button = Njedajo se wótwónoźeś <a data-l10n-name="link
 disable-addon-button = Znjemóžniś
 enable-addon-button = Zmóžniś
 expand-addon-button = Dalšne nastajenja
-disable-addon-button-label =
-    .aria-label = Znjemóžniś
-enable-addon-button-label =
-    .aria-label = Zmóžniś
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Nastajenja
@@ -453,3 +450,5 @@ theme-heading-search-label = Dalšne drastwy pytaś
 extension-heading-search-label = Dalšne rozšyrjenja pytaś
 addons-heading-search-input =
     .placeholder = Na addons.mozilla.org pytaś
+addon-page-options-button =
+    .title = Rědy za wšykne dodanki
