@@ -94,6 +94,9 @@
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options ilkesi tarafından engellendi">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; bu sayfanın bu bağlamda yüklenmesini engelledi çünkü sayfa, yüklenmesine izin vermeyen bir X-Frame-Options ilkesine sahip.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup bu sorunu onlara bildirmeyi düşünebilirsiniz.</li></ul>">
 
