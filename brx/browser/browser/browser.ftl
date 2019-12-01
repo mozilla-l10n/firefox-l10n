@@ -109,3 +109,13 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = गावनिनो  उइनद नि थाखाय दिफलथ सारस इनजिन आव थिना हो
     .accesskey = फ
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = जाखांबाइ
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
