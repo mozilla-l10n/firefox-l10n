@@ -144,6 +144,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Diskouez an embanner pa enroll
+    .accesskey = S
 bookmark-panel-done-button =
     .label = Graet
 # Width of the bookmark panel.
