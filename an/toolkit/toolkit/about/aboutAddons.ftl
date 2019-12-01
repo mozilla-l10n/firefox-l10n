@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Chestor de complementos
+addons-page-title = Chestor de complementos
 search-header =
     .placeholder = Mirar en addons.mozilla.org
     .searchbuttonlabel = Mirar
@@ -259,3 +260,5 @@ addon-open-about-debugging = Depurar complementos
 
 addons-heading-search-input =
     .placeholder = Mirar en addons.mozilla.org
+addon-page-options-button =
+    .title = Ainas ta totz os complementos
