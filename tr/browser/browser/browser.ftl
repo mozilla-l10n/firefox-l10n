@@ -144,6 +144,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Kaydederken düzenleyiciyi göster
+    .accesskey = K
 bookmark-panel-done-button =
     .label = Tamam
 # Width of the bookmark panel.
