@@ -241,3 +241,5 @@ addon-open-about-debugging = Debagiranje add-ona
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Alati za sve add-one
