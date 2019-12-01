@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Ldi amsefrak n izegrar
+addons-page-title = Ldi amsefrak n izegrar
 search-header =
     .placeholder = Nadi addons.mozilla.org
     .searchbuttonlabel = Nadi
@@ -312,10 +313,6 @@ remove-addon-button = Kkes
 disable-addon-button = Ssens
 enable-addon-button = Rmed
 expand-addon-button = Ugar n iɣewwaṛen
-disable-addon-button-label =
-    .aria-label = Ssens
-enable-addon-button-label =
-    .aria-label = Rmed
 preferences-addon-button =
     { PLATFORM() ->
         [windows] iɣewwaṛen
@@ -407,3 +404,5 @@ theme-heading-search-label = Af-d ugar n isental
 extension-heading-search-label = Af-d ugar n isiɣzaf
 addons-heading-search-input =
     .placeholder = Nadi addons.mozilla.org
+addon-page-options-button =
+    .title = Ifecka i yizegrar imaṛṛa
