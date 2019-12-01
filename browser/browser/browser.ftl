@@ -141,3 +141,8 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = ظ
 bookmark-panel-done-button =
     .label = تمّ
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
