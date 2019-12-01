@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ਐਡ-ਆਨ ਮੈਨੇਜਰ
+addons-page-title = ਐਡ-ਆਨ ਮੈਨੇਜਰ
 search-header =
     .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
     .searchbuttonlabel = ਖੋਜੋ
@@ -326,10 +327,6 @@ remove-addon-button = ਹਟਾਓ
 disable-addon-button = ਅਸਮਰੱਥ ਕਰੋ
 enable-addon-button = ਸਮਰੱਥ ਕਰੋ
 expand-addon-button = ਹੋਰ ਚੋਣਾਂ
-disable-addon-button-label =
-    .aria-label = ਅਸਮਰੱਥ ਕਰੋ
-enable-addon-button-label =
-    .aria-label = ਸਮਰੱਥ ਕਰੋ
 preferences-addon-button =
     { PLATFORM() ->
         [windows] ਚੋਣਾਂ
