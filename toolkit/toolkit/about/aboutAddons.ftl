@@ -222,3 +222,5 @@ addon-install-from-file-filter-name = Add-on
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Amûrên ji bo hemû add-onan
