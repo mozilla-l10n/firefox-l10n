@@ -93,3 +93,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = ສຳເລັດ
