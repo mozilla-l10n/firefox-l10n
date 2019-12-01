@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = 设为隐私窗口的默认搜索引擎
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = 完成
