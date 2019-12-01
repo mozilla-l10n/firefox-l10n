@@ -10,6 +10,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+<!ENTITY importFeeds.label        "Fluxos subscribite">
+<!ENTITY importFeeds.accesskey    "x">
 
 
 

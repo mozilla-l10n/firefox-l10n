@@ -123,7 +123,7 @@
 <!-- Sort Menu -->
 <!ENTITY sortByAttachmentsCmd.label "Annexos">
 <!ENTITY sortByAttachmentsCmd.accesskey "x">
-<!ENTITY sortByJunkStatusCmd.label "Stato de indesirate">
+<!ENTITY sortByJunkStatusCmd.label "Stato indesirate">
 <!ENTITY sortByJunkStatusCmd.accesskey "I">
 <!ENTITY msgsMenu.label "Messages">
 <!ENTITY msgsMenu.accesskey "M">

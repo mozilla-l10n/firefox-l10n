@@ -11,6 +11,7 @@ general-network-and-diskspace-header = Rete e spatio sur disco
 composition-category-header = Composition
 composition-attachments-header = Annexos
 privacy-passwords-header = Contrasignos
+privacy-junk-header = Indesirate
 privacy-data-collection-header = Collecta e uso de datos
 privacy-security-header = Securitate
 privacy-certificates-title = Certificatos

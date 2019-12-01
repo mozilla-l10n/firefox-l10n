@@ -8,6 +8,11 @@
 <!ENTITY junkMail.intro "Configura hic le parametros global de posta indesirate. Le parametros de posta indesirate specific pro cata conto pote esser configurate in Parametros de contos.">
 <!ENTITY manualMark.label "Quando io marca messages como indesirate:">
 <!ENTITY manualMarkModeMove.label "Displaciar los al dossier &quot;Indesirate&quot; del conto">
+<!ENTITY markAsReadOnSpam.label "Marcar como legite le messages detegite como indesirate">
+<!ENTITY enableAdaptiveJunkLogging.label "Registrar le activitate del filtro adaptive de posta indesirate">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "R">
+<!ENTITY openJunkLog.label "Monstrar registro">
+<!ENTITY openJunkLog.accesskey "M">
 
 <!-- Phishing Detector -->
 
