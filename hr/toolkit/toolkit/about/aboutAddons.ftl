@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Upravljač dodataka
+addons-page-title = Upravljač dodataka
 search-header =
     .placeholder = Pretraži addons.mozilla.org
     .searchbuttonlabel = Traži
