@@ -237,3 +237,5 @@ addon-open-about-debugging = အတ်အွန်များကို အမ�
 
 ## Page headings
 
+addon-page-options-button =
+    .title = အတ်အွန်အားလုံးအတွက် အသုံးချပစ္စည်းများ
