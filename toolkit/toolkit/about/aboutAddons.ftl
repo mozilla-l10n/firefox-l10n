@@ -4,6 +4,7 @@
 
 addons-window =
     .title = مدير الإضافات
+addons-page-title = مدير الإضافات
 search-header-shortcut =
     .key = f
 loading-label =
@@ -277,3 +278,5 @@ dictionary-heading = أدِر القواميس لديك
 locale-heading = أدِر اللغات لديك
 shortcuts-heading = أدِر اختصارات الامتدادات
 extension-heading-search-label = ابحث عن امتدادات أكثر
+addon-page-options-button =
+    .title = أدوات لجميع الإضافات
