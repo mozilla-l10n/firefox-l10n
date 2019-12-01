@@ -144,6 +144,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Ipakita ang editor kapag nagse-save
+    .accesskey = S
 bookmark-panel-done-button =
     .label = Tapos na
 # Width of the bookmark panel.
