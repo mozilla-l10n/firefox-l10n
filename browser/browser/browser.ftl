@@ -121,3 +121,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = පෙරනිමි සෙවුම් එළවුම ලෙස තබන්න
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = කළා
