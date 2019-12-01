@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = 設為隱私瀏覽模式中的預設搜尋引擎
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = 完成
