@@ -141,3 +141,16 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Tiya' kan achi'el Okik'amaya'l ri K'o pa Ichinan taq Tzuwäch
     .accesskey = I
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Tik'ut k'exob'äl toq niyak
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = Xk'achoj
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
