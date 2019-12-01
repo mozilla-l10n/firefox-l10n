@@ -450,3 +450,5 @@ theme-heading-search-label = Hitta fler teman
 extension-heading-search-label = Hitta fler tillägg
 addons-heading-search-input =
     .placeholder = Sök på addons.mozilla.org
+addon-page-options-button =
+    .title = Verktyg för alla tillägg
