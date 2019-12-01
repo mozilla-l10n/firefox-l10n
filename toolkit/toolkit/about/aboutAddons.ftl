@@ -458,3 +458,5 @@ theme-heading-search-label = Weitere Themes suchen
 extension-heading-search-label = Weitere Erweiterungen suchen
 addons-heading-search-input =
     .placeholder = Auf addons.mozilla.org suchen
+addon-page-options-button =
+    .title = Tools für alle Add-ons
