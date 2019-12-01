@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Jxkaan kãajãwa'ja's
+addons-page-title = Jxkaan kãajãwa'ja's
 search-header-shortcut =
     .key = f
 loading-label =
@@ -234,3 +235,5 @@ addon-open-about-debugging = Yatenxi's kãajãhna
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Vxisnxisa' jxuka kãjãxiya'tha'
