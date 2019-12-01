@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ଏଡ-ଅନ ପରିଚାଳକ
+addons-page-title = ଏଡ-ଅନ ପରିଚାଳକ
 search-header-shortcut =
     .key = f
 loading-label =
