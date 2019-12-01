@@ -241,3 +241,5 @@ addon-open-about-debugging = Atkļūdot papildinājumus
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Visu papildinājumu rīki
