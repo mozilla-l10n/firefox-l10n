@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nastavi kot privzeti iskalnik za zasebna okna
     .accesskey = z
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Shrani
