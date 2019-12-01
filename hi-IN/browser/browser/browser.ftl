@@ -142,6 +142,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = सहेजते समय संपादक दिखाएं
+    .accesskey = S
 bookmark-panel-done-button =
     .label = संपन्न
 # Width of the bookmark panel.
