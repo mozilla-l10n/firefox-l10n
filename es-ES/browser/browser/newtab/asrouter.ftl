@@ -118,6 +118,21 @@ cfr-whatsnew-lockwise-take-title = Llévese siempre sus contraseñas consigo
 cfr-whatsnew-lockwise-take-body = La aplicación para móviles { -lockwise-brand-short-name } le permite acceder a sus contraseñas de forma segura  desde cualquier parte.
 cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Vea sus vídeos mientras navega
+cfr-whatsnew-pip-body = La función picture-in-picture muestra el vídeo en una ventana flotante para que pueda verlo mientras trabaja en otras pestañas.
+cfr-whatsnew-pip-cta = Saber más
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Reduce molestas ventanas emergentes
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ahora bloquea los sitios para que no soliciten automáticamente el envío de mensajes emergentes.
+cfr-whatsnew-permission-prompt-cta = Saber más
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obtener este marcador en su teléfono
