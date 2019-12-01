@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Papildinājumu pārvaldnieks
+addons-page-title = Papildinājumu pārvaldnieks
 search-header-shortcut =
     .key = f
 loading-label =
