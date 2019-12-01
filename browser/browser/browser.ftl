@@ -132,3 +132,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित शोध इंजिन म्हणून ठरवा
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = झाले
