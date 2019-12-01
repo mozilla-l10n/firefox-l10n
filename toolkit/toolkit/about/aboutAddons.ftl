@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ตัวจัดการส่วนเสริม
+addons-page-title = ตัวจัดการส่วนเสริม
 search-header =
     .placeholder = ค้นหา addons.mozilla.org
     .searchbuttonlabel = ค้นหา
@@ -314,10 +315,6 @@ remove-addon-button = เอาออก
 disable-addon-button = ปิดใช้งาน
 enable-addon-button = เปิดใช้งาน
 expand-addon-button = ตัวเลือกเพิ่มเติม
-disable-addon-button-label =
-    .aria-label = ปิดใช้งาน
-enable-addon-button-label =
-    .aria-label = เปิดใช้งาน
 preferences-addon-button =
     { PLATFORM() ->
         [windows] ตัวเลือก
