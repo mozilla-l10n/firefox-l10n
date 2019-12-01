@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ആഡ്-ഓണ്‍ മാനേജര്‍
+addons-page-title = ആഡ്-ഓണ്‍ മാനേജര്‍
 search-header-shortcut =
     .key = f
 loading-label =
@@ -238,3 +239,5 @@ addon-open-about-debugging = ആഡ്-ഓണുകള്‍ ഡീബഗ് ച
 
 ## Page headings
 
+addon-page-options-button =
+    .title = എല്ലാ ആഡ്-ഓണുകള്‍ക്കുമുള്ള പ്രയോഗങ്ങള്‍
