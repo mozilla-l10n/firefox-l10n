@@ -344,6 +344,10 @@ remove-addon-disabled-button = Kaldırılamıyor <a data-l10n-name="link">Neden?
 disable-addon-button = Etkisizleştir
 enable-addon-button = Etkinleştir
 expand-addon-button = Diğer seçenekler
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Etkinleştir
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Seçenekler
@@ -447,6 +451,7 @@ discover-heading = { -brand-short-name } tarayıcınızı kişiselleştirin
 shortcuts-heading = Eklenti kısayollarını yönet
 theme-heading-search-label = Daha fazla tema bul
 extension-heading-search-label = Daha fazla eklenti bul
+default-heading-search-label = Daha fazla eklenti bul
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da ara
 addon-page-options-button =

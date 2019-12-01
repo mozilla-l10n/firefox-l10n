@@ -119,13 +119,17 @@ cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = İnternette gezinirken video izleyin
+cfr-whatsnew-pip-cta = Daha fazla bilgi al
 
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Daha az açılır pencere
+cfr-whatsnew-permission-prompt-cta = Daha fazla bilgi al
 
 ## Fingerprinter Counter
 
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Parmak izi toplayıcılar
 
 ## Bookmark Sync
 
