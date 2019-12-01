@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Эбиискэлэри салайыы
+addons-page-title = Эбиискэлэри салайыы
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = Эбиискэлэр
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Бары эбиискэлэргэ аналлаах тэриллэр
