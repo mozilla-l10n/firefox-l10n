@@ -84,3 +84,11 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Tee tuku ka̱a̱ nánuku kua vaji
     .accesskey = k
+
+## Bookmark Panel
+
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
