@@ -69,7 +69,7 @@
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Email in exito:">
+<!ENTITY sendDefaultCharset.label         "Posta in exito:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle2.label            "Codification del texto">
 <!ENTITY composingDescription2.label      "Predefinir le codification del texto pro reciper e inviar posta">

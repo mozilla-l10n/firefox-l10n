@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "t">
 <!ENTITY showAnimatedAlert.label          "Monstrar un alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
-<!ENTITY notificationAlertSettings2.label "Le alertas e le sono predefinite pote ser disactivate per le pannello del notificationes in le preferentias del systema.">
+<!ENTITY notificationAlertSettings2.label "Le alertas e le sono predefinite pote esser disactivate in le pannello de notification in le preferentias del systema.">
 <!ENTITY customizeMailAlert.label         "Personalisar…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 

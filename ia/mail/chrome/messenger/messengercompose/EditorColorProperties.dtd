@@ -7,7 +7,7 @@
 <!ENTITY pageColors.label "Colores del pagina">
 <!ENTITY defaultColorsRadio.label "Colores predefinite del lector (Non definir le colores in le pagina)">
 <!ENTITY defaultColorsRadio.accessKey "P">
-<!ENTITY defaultColorsRadio.tooltip "Utilisar solo le colores predefinite del navigator del visor (lector)">
+<!ENTITY defaultColorsRadio.tooltip "Usar solmente le colores configurate in le navigator del lector">
 <!ENTITY customColorsRadio.label "Usar colores personalisate:">
 <!ENTITY customColorsRadio.accessKey "P">
 <!ENTITY customColorsRadio.tooltip "Iste colores predefinite supplanta illos del navigator del visor">

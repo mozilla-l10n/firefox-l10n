@@ -76,7 +76,7 @@
      displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Provar de novo">
+<!ENTITY half-manual-test.label          "Probar de novo">
 <!ENTITY half-manual-test.accesskey      "P">
 <!ENTITY manual-edit.label               "Configuration manual">
 <!ENTITY manual-edit.accesskey           "M">

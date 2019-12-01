@@ -5,7 +5,9 @@
 <!ENTITY itemJunk.label          "Indesirate">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Selige le parametros predefinite del posta indesirate. Le parametros de posta indesirate specific pro cata conto pote esser configurate in Parametros de contos.">
+<!ENTITY junkMail.intro "Configura hic le parametros global de posta indesirate. Le parametros de posta indesirate specific pro cata conto pote esser configurate in Parametros de contos.">
+<!ENTITY manualMark.label "Quando io marca messages como indesirate:">
+<!ENTITY manualMarkModeMove.label "Displaciar los al dossier &quot;Indesirate&quot; del conto">
 
 <!-- Phishing Detector -->
 
