@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Dodatki
+addons-page-title = Dodatki
 search-header =
     .placeholder = Szukaj na stronie addons.mozilla.org
     .searchbuttonlabel = Szukaj
@@ -348,10 +349,6 @@ remove-addon-disabled-button = Nie można usunąć <a data-l10n-name="link">Dlac
 disable-addon-button = Wyłącz
 enable-addon-button = Włącz
 expand-addon-button = Więcej opcji
-disable-addon-button-label =
-    .aria-label = Wyłącz
-enable-addon-button-label =
-    .aria-label = Włącz
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opcje
@@ -458,3 +455,5 @@ theme-heading-search-label = Wyszukaj więcej motywów
 extension-heading-search-label = Wyszukaj więcej rozszerzeń
 addons-heading-search-input =
     .placeholder = Szukaj na stronie addons.mozilla.org
+addon-page-options-button =
+    .title = Narzędzia dla wszystkich dodatków
