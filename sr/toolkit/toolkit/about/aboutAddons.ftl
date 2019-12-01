@@ -380,3 +380,5 @@ theme-heading-search-label = Нађите више тема
 extension-heading-search-label = Нађите више екстензија
 addons-heading-search-input =
     .placeholder = Претражи сајт addons.mozilla.org
+addon-page-options-button =
+    .title = Алатке за све додатке
