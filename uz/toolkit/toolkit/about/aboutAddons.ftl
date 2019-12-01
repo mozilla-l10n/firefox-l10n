@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Qoʻshimcha dasturlar boshqaruvchisi
+addons-page-title = Qoʻshimcha dasturlar boshqaruvchisi
 search-header-shortcut =
     .key = f
 loading-label =
@@ -235,3 +236,5 @@ addon-open-about-debugging = Qo‘shimcha dasturlarni tuzatish
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Barcha qoʻshimcha dasturlar uchun asboblar
