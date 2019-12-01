@@ -139,3 +139,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Məxfi pəncərələr üçün əsas axtarış mühərriki olarak qur
     .accesskey = M
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Bitdi
