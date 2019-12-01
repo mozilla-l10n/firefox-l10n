@@ -121,3 +121,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = កំណត់​ជា​ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = ធ្វើ​រួច
