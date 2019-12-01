@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Administrilo de aldonaĵoj
+addons-page-title = Administrilo de aldonaĵoj
 search-header =
     .placeholder = Serĉi en addons.mozilla.org
     .searchbuttonlabel = Serĉi
@@ -336,10 +337,6 @@ remove-addon-disabled-button = Ne eblas forigi ĝin. <a data-l10n-name="link">Ki
 disable-addon-button = Malaktivigi
 enable-addon-button = Aktivigi
 expand-addon-button = Pli da elektebloj
-disable-addon-button-label =
-    .aria-label = Malaktivigi
-enable-addon-button-label =
-    .aria-label = Aktivigi
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Preferoj
