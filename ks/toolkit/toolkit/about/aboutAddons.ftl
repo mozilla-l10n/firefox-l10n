@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ایڈ آن انتظامیئ
+addons-page-title = ایڈ آن انتظامیئ
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = ایڈ۔آنس
 
 ## Page headings
 
+addon-page-options-button =
+    .title = سارنی ایڈ آنسن خٲطرئ ٹولز
