@@ -141,3 +141,11 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Jadikan Mesin Pencari Baku untuk Jendela Privat
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Tampilkan editor saat menyimpan
+    .accesskey = e
+bookmark-panel-done-button =
+    .label = Selesai
