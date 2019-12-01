@@ -51,3 +51,8 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Parôt
