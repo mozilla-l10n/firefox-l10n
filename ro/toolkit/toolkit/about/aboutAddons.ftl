@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Manager de suplimente
+addons-page-title = Manager de suplimente
 search-header =
     .placeholder = Caută pe addons.mozilla.org
     .searchbuttonlabel = Căutare
@@ -337,10 +338,6 @@ remove-addon-button = Elimină
 disable-addon-button = Dezactivează
 enable-addon-button = Activează
 expand-addon-button = Mai multe opțiuni
-disable-addon-button-label =
-    .aria-label = Dezactivează
-enable-addon-button-label =
-    .aria-label = Activează
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opțiuni
