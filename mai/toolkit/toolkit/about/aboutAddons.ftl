@@ -4,6 +4,7 @@
 
 addons-window =
     .title = सहयुक्ति प्रबंधक
+addons-page-title = सहयुक्ति प्रबंधक
 search-header-shortcut =
     .key = f
 loading-label =
@@ -230,3 +231,5 @@ addon-install-from-file-filter-name = सहयुक्तियाँ
 
 ## Page headings
 
+addon-page-options-button =
+    .title = सभटा सहयुक्ति क लेल अओजार
