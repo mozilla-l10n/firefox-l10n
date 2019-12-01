@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ange som standardsökmotor för privata fönster
     .accesskey = A
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Klar
