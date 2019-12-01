@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ตั้งเป็นเครื่องมือค้นหาเริ่มต้นสำหรับหน้าต่างส่วนตัว
     .accesskey = ส
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = เสร็จสิ้น
