@@ -4,6 +4,7 @@
 
 addons-window =
     .title = 부가 기능 관리자
+addons-page-title = 부가 기능 관리자
 search-header =
     .placeholder = addons.mozilla.org 검색
     .searchbuttonlabel = 검색
