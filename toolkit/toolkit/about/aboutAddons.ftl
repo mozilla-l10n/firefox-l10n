@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ઍડ-ઓન સંચાલક
+addons-page-title = ઍડ-ઓન સંચાલક
 search-header =
     .placeholder = addons.mozilla.org શોધો
     .searchbuttonlabel = શોધો
@@ -280,10 +281,6 @@ go-back-button =
 remove-addon-button = દૂર કરો
 disable-addon-button = નિષ્ક્રિય
 enable-addon-button = સક્રિય
-disable-addon-button-label =
-    .aria-label = નિષ્ક્રિય
-enable-addon-button-label =
-    .aria-label = સક્રિય
 addons-enabled-heading = સક્રિય
 addons-disabled-heading = નિષ્ક્રિય
 
@@ -302,3 +299,5 @@ theme-heading-search-label = વધુ થીમ્સ શોધો
 extension-heading-search-label = વધુ એક્સ્ટેન્શન્સ શોધો
 addons-heading-search-input =
     .placeholder = addons.mozilla.org શોધો
+addon-page-options-button =
+    .title = બધા ઍડ-ઓન માટે સાધનો
