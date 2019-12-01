@@ -32,7 +32,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Conto chat…">
 <!ENTITY newIMAccountCmd.accesskey "C">
-<!ENTITY newFeedAccountCmd.label "Conto fluxo…">
+<!ENTITY newFeedAccountCmd.label "Conto de fluxo…">
 <!ENTITY newFeedAccountCmd.accesskey "x">
 <!ENTITY newIMContactCmd.label "Contacto chat…">
 <!ENTITY newIMContactCmd.accesskey "h">
@@ -133,6 +133,14 @@
 <!ENTITY allMsgsCmd.accesskey "T">
 
 
+<!ENTITY bodyMenuFeed.label "Corpore del message de fluxo como">
+<!ENTITY bodyMenuFeed.accesskey "C">
+<!ENTITY viewFeedWebPage.label "Pagina web">
+<!ENTITY viewFeedWebPage.accesskey "w">
+<!ENTITY viewFeedSummary.label "Summario">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Formato predefinite">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "p">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Monstrar annexos in message">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
@@ -184,6 +192,14 @@
 <!ENTITY recalculateJunkScoreCmd.accesskey "E">
 <!ENTITY openAttachmentListCmd.label "Annexos">
 <!ENTITY openAttachmentListCmd.accesskey "x">
+<!ENTITY openFeedMessage1.label "Quando se aperi messages de fluxo">
+<!ENTITY openFeedMessage1.accesskey "a">
+<!ENTITY openFeedWebPage.label "Aperir como pagina web">
+<!ENTITY openFeedWebPage.accesskey "w">
+<!ENTITY openFeedSummary.label "Aperir como summario">
+<!ENTITY openFeedSummary.accesskey "s">
+<!ENTITY openFeedWebPageInMP.label "Alternar inter pagina web e summario in pannello de messages">
+<!ENTITY openFeedWebPageInMP.accesskey "t">
 
 <!-- Windows Menu -->
 

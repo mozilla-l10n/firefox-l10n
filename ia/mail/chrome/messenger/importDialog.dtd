@@ -15,6 +15,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 
+<!ENTITY importDescription1.label "Iste assistente importa in &brandShortName; le messages de posta, entratas de adressario, fluxos subscribite, preferentias e/o filtros ab altere programmas de posta e formatos commun de adressario.">
 
 
 <!ENTITY forward.label            "Sequente &gt;">
