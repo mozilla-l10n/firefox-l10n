@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Gestionari de moduls complementaris
+addons-page-title = Gestionari de moduls complementaris
 search-header =
     .placeholder = Cercar sus addons.mozilla.org
     .searchbuttonlabel = Cercar
@@ -258,3 +259,5 @@ theme-heading-search-label = Trobar mai de tèmas
 extension-heading-search-label = Trobar mai d’extensions
 addons-heading-search-input =
     .placeholder = Cercar sus addons.mozilla.org
+addon-page-options-button =
+    .title = Aisinas per totes los moduls
