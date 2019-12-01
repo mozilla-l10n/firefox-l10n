@@ -136,5 +136,8 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = اعرض المحرر عند الحفظ
+    .accesskey = ظ
 bookmark-panel-done-button =
     .label = تمّ
