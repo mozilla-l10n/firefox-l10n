@@ -351,6 +351,10 @@ remove-addon-disabled-button = Negalima pašalinti. <a data-l10n-name="link">Kod
 disable-addon-button = Išjungti
 enable-addon-button = Įjungti
 expand-addon-button = Daugiau veiksmų
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Įjungti
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Nuostatos
@@ -455,6 +459,7 @@ discover-heading = Individualizuokite savo „{ -brand-short-name }“
 shortcuts-heading = Tvarkyti sparčiuosius klavišus priedams
 theme-heading-search-label = Rasti daugiau apvalkalų
 extension-heading-search-label = Rasti daugiau priedų
+default-heading-search-label = Rasti daugiau priedų
 addons-heading-search-input =
     .placeholder = Ieškoti per addons.mozilla.org
 addon-page-options-button =
