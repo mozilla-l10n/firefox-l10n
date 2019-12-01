@@ -136,3 +136,14 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Määra vaikeotsingumootoriks
     .accesskey = M
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Lisamisel kuvatakse seda dialoogi
+    .accesskey = d
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
