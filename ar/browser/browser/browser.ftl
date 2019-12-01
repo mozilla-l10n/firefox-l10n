@@ -133,3 +133,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = اجعله محرك البحث الافتراضي
     .accesskey = ف
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = تمّ
