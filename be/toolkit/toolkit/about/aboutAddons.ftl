@@ -459,3 +459,5 @@ theme-heading-search-label = Знайсці іншыя тэмы
 extension-heading-search-label = Знайсці іншыя пашырэнні
 addons-heading-search-input =
     .placeholder = Пошук на addons.mozilla.org
+addon-page-options-button =
+    .title = Прылады для ўсіх дадаткаў
