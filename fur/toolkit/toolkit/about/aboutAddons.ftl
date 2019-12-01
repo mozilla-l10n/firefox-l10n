@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Gjestôr des zontis
+addons-page-title = Gjestôr des zontis
 search-header-shortcut =
     .key = f
 loading-label =
