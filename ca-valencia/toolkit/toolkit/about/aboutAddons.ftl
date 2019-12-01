@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Gestor de complements
+addons-page-title = Gestor de complements
 search-header =
     .placeholder = Cerca a addons.mozilla.org
     .searchbuttonlabel = Cerca
@@ -340,10 +341,6 @@ remove-addon-disabled-button = No s'ha pogut eliminar. <a data-l10n-name="link">
 disable-addon-button = Desactiva
 enable-addon-button = Activa
 expand-addon-button = Més opcions
-disable-addon-button-label =
-    .aria-label = Desactiva
-enable-addon-button-label =
-    .aria-label = Activa
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opcions
@@ -448,3 +445,5 @@ theme-heading-search-label = Cerqueu més temes
 extension-heading-search-label = Cerqueu més extensions
 addons-heading-search-input =
     .placeholder = Cerca a addons.mozilla.org
+addon-page-options-button =
+    .title = Eines per a tots els complements
