@@ -262,3 +262,5 @@ theme-heading-search-label = Cari tema selanjutnya
 extension-heading-search-label = Cari ekstensi selanjutnya
 addons-heading-search-input =
     .placeholder = Cari di addons.mozilla.org
+addon-page-options-button =
+    .title = Alatan untuk semua add-on
