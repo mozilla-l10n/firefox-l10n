@@ -459,3 +459,5 @@ theme-heading-search-label = Encontrar mais temas
 extension-heading-search-label = Encontrar mais extensões
 addons-heading-search-input =
     .placeholder = Pesquisar em addons.mozilla.org
+addon-page-options-button =
+    .title = Ferramentas para todas as extensões
