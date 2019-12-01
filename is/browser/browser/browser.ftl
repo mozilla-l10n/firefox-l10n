@@ -133,3 +133,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Setja sem sjálfgefna leitarvél
     .accesskey = l
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Ljúka
