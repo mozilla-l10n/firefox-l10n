@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ຕົວຈັດການກັບ Add-ons
+addons-page-title = ຕົວຈັດການກັບ Add-ons
 search-header-shortcut =
     .key = f
 loading-label =
@@ -143,3 +144,5 @@ addon-open-about-debugging = ດີບັກ Add-on
 
 ## Page headings
 
+addon-page-options-button =
+    .title = ເຄື່ອງມືສຳລັບທຸກ Add-ons
