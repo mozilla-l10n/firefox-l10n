@@ -75,3 +75,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Sèbera su motore de chirca predefinidu
     .accesskey = d
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Fatu
