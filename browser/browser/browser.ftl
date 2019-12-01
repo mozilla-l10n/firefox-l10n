@@ -144,6 +144,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Öppna redigerare vid spara
+    .accesskey = p
 bookmark-panel-done-button =
     .label = Klar
 # Width of the bookmark panel.
