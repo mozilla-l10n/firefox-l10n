@@ -129,3 +129,16 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Papar editor apabila menyimpan
+    .accesskey = P
+bookmark-panel-done-button =
+    .label = Siap
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
