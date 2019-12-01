@@ -241,3 +241,5 @@ addon-open-about-debugging = Վրիպազերծել հավելումները
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Գործիքներ բոլոր հավելումների համար
