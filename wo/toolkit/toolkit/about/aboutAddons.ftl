@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Saytukatu modili mottali yi
+addons-page-title = Saytukatu modili mottali yi
 search-header-shortcut =
     .key = f
 loading-label =
@@ -226,3 +227,5 @@ addon-install-from-file-filter-name = Modili mottali
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Jumtukaayi modil yépp
