@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Gestor de extras
+addons-page-title = Gestor de extras
 search-header =
     .placeholder = Pesquisar addons.mozilla.org
     .searchbuttonlabel = Pesquisar
@@ -350,10 +351,6 @@ remove-addon-disabled-button = Não pode ser removido <a data-l10n-name="link">P
 disable-addon-button = Desativar
 enable-addon-button = Ativar
 expand-addon-button = Mais opções
-disable-addon-button-label =
-    .aria-label = Desativar
-enable-addon-button-label =
-    .aria-label = Ativar
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opções
@@ -459,3 +456,5 @@ theme-heading-search-label = Encontre mais temas
 extension-heading-search-label = Encontre mais extensões
 addons-heading-search-input =
     .placeholder = Pesquisar addons.mozilla.org
+addon-page-options-button =
+    .title = Ferramentas para todos os extras
