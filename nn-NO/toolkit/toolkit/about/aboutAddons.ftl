@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Handter tillegg
+addons-page-title = Handter tillegg
 search-header =
     .placeholder = Søk på addons.mozilla.org
     .searchbuttonlabel = Søk
@@ -348,10 +349,6 @@ remove-addon-disabled-button = Kan ikkje fjernast <a data-l10n-name="link">Kvifo
 disable-addon-button = Slå av
 enable-addon-button = Slå på
 expand-addon-button = Fleire alternativ
-disable-addon-button-label =
-    .aria-label = Slå av
-enable-addon-button-label =
-    .aria-label = Slå på
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Innstillingar
@@ -457,3 +454,5 @@ theme-heading-search-label = Finn fleire tema
 extension-heading-search-label = Finn fleire utvidingar
 addons-heading-search-input =
     .placeholder = Søk på addons.mozilla.org
+addon-page-options-button =
+    .title = Verktøy for alle tillegg
