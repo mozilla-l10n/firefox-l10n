@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Správce doplňků
+addons-page-title = Správce doplňků
 search-header =
     .placeholder = Vyhledat na addons.mozilla.org
     .searchbuttonlabel = Hledat
@@ -468,3 +469,5 @@ theme-heading-search-label = Najít další vzhledy
 extension-heading-search-label = Najít další rozšíření
 addons-heading-search-input =
     .placeholder = Vyhledat na addons.mozilla.org
+addon-page-options-button =
+    .title = Nástroje doplňků
