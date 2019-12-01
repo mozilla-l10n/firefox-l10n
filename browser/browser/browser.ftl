@@ -107,3 +107,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Socraigh mar Inneall Cuardaigh Réamhshocraithe
     .accesskey = d
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Déanta
