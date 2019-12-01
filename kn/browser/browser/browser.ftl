@@ -117,3 +117,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ ಆಗಿ ಹೊಂದಿಸು
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = ಆಯಿತು
