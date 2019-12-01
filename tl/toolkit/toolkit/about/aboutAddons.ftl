@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Add-on Manager
+addons-page-title = Add-on Manager
 search-header =
     .placeholder = Hanapin sa addons.mozilla.org
     .searchbuttonlabel = Hanapin
@@ -441,3 +442,5 @@ theme-heading-search-label = Maghanap pa ng ibang mga tema
 extension-heading-search-label = Maghanap pa ng ibang mga extension
 addons-heading-search-input =
     .placeholder = Hanapin sa addons.mozilla.org
+addon-page-options-button =
+    .title = Mga kagamitan para sa lahat ng mga add-on
