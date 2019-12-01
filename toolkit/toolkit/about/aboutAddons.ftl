@@ -4,6 +4,7 @@
 
 addons-window =
     .title = सहयुक्तियाँ प्रबंधक
+addons-page-title = सहयुक्तियाँ प्रबंधक
 search-header =
     .placeholder = addons.mozilla.org खोजें
     .searchbuttonlabel = खोजें
@@ -272,10 +273,6 @@ remove-addon-button = हटाएं
 disable-addon-button = निष्क्रिय करें
 enable-addon-button = सक्रिय करें
 expand-addon-button = अधिक विकल्प
-disable-addon-button-label =
-    .aria-label = निष्क्रिय करें
-enable-addon-button-label =
-    .aria-label = सक्रिय करें
 details-addon-button = विवरण
 addons-enabled-heading = सक्रिय किया गया
 addons-disabled-heading = निष्क्रिय किया गया
@@ -307,3 +304,5 @@ release-notes-loading = लोड हो रहा है…
 
 addons-heading-search-input =
     .placeholder = addons.mozilla.org खोजें
+addon-page-options-button =
+    .title = सभी सहयुक्तियों के लिए औज़ार
