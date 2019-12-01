@@ -4,6 +4,7 @@
 
 addons-window =
     .title = పొడిగింతల నిర్వాహకి
+addons-page-title = పొడిగింతల నిర్వాహకి
 search-header-shortcut =
     .key = f
 loading-label =
@@ -264,10 +265,6 @@ remove-addon-button = తొలగించు
 disable-addon-button = అచేతనించు
 enable-addon-button = చేతనించు
 expand-addon-button = మరిన్ని ఎంపికలు
-disable-addon-button-label =
-    .aria-label = అచేతనించు
-enable-addon-button-label =
-    .aria-label = చేతనించు
 preferences-addon-button =
     { PLATFORM() ->
         [windows] ఎంపికలు
@@ -301,3 +298,5 @@ recent-updates-heading = ఇటీవలి తాజాకరణలు
 ## Page headings
 
 theme-heading-search-label = మరిన్ని అలంకారాలను కనుగొనండి
+addon-page-options-button =
+    .title = అన్ని పొడిగింతలు కొరకు సాధనములు
