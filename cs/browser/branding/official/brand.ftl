@@ -56,7 +56,7 @@
         [dat] Mozille
         [acc] Mozillu
         [voc] Mozillo
-        [loc] Mozillou
+        [loc] Mozille
         [ins] Mozillou
     }
     .gender = feminine
