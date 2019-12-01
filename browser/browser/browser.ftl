@@ -123,3 +123,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = सम्पन्न भयो
