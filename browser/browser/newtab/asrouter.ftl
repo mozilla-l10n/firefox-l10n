@@ -125,6 +125,23 @@ cfr-whatsnew-lockwise-take-body =
     pasiekti savo slaptažodžius iš bet kur.
 cfr-whatsnew-lockwise-take-link-text = Parsisiųskite programą
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Žiūrėkite vaizdo įrašus naršydami
+cfr-whatsnew-pip-body = Vaizdo–vaizde veiksena leidžia žiūrėti vaizdo įrašą atskirame lange, kurį galite matyti net vaikščiodami tarp kortelių.
+cfr-whatsnew-pip-cta = Sužinoti daugiau
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Mažiau erzinančių iškylančiųjų langų
+cfr-whatsnew-permission-prompt-body = „{ -brand-shorter-name }“ dabar blokuoja automatinius svetainių prašymus rodyti iškylančiuosius langus.
+cfr-whatsnew-permission-prompt-cta = Sužinoti daugiau
+
+## Fingerprinter Counter
+
+cfr-whatsnew-fingerprinter-counter-body = „{ -brand-shorter-name }“ blokuoja daugelį skaitmeninių atspaudų stebėjimo elementų, kurie nepastebimai renka informaciją apie jūsų įrenginį ir veiksmus, siekiant sukurti jūsų reklaminį profilį.
+cfr-whatsnew-fingerprinter-counter-body-alt = „{ -brand-shorter-name }“ gali blokuoti skaitmeninių atspaudų stebėjimo elementus, kurie nepastebimai renka informaciją apie jūsų įrenginį ir veiksmus, siekiant sukurti jūsų reklaminį profilį.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Gaukite šį adresyno įrašą savo telefone
