@@ -341,6 +341,10 @@ remove-addon-disabled-button = לא ניתן להסרה <a data-l10n-name="link"
 disable-addon-button = השבתה
 enable-addon-button = הפעלה
 expand-addon-button = אפשרויות נוספות
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = הפעלה
 preferences-addon-button =
     { PLATFORM() ->
         [windows] אפשרויות
@@ -434,6 +438,7 @@ discover-heading = התאמה אישית של ה־{ -brand-short-name } שלך
 shortcuts-heading = ניהול קיצורי דרך להרחבות
 theme-heading-search-label = חיפוש ערכות נושא נוספות
 extension-heading-search-label = חיפוש הרחבות נוספות
+default-heading-search-label = חיפוש תוספות נוספות
 addons-heading-search-input =
     .placeholder = חיפוש ב־addons.mozilla.org
 addon-page-options-button =
