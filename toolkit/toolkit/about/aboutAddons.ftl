@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Add-onbehearder
+addons-page-title = Add-onbehearder
 search-header =
     .placeholder = addons.mozilla.org trochsykje
     .searchbuttonlabel = Sykje
@@ -353,10 +354,6 @@ remove-addon-disabled-button = Kin net fuortsmiten wurde <a data-l10n-name="link
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
 expand-addon-button = Mear opsjes
-disable-addon-button-label =
-    .aria-label = Utskeakelje
-enable-addon-button-label =
-    .aria-label = Ynskeakelje
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opsjes
@@ -462,3 +459,5 @@ theme-heading-search-label = Mear tema’s sykje
 extension-heading-search-label = Mear útwreidingen sykje
 addons-heading-search-input =
     .placeholder = addons.mozilla.org trochsykje
+addon-page-options-button =
+    .title = Ark foar alle add-ons
