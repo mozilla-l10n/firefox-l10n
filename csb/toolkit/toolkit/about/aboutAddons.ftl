@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Menadżer dodôwków
+addons-page-title = Menadżer dodôwków
 search-header-shortcut =
     .key = f
 loading-label =
@@ -226,3 +227,5 @@ addon-install-from-file-filter-name = Dodôwczi
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Nôrzãdła dlô wszëtczich dodôwków
