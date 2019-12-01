@@ -141,3 +141,11 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Использовать данную поисковую систему по умолчанию в Приватных окнах
     .accesskey = З
+
+## Bookmark Panel
+
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
