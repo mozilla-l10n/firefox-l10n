@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Manaidsear nan tuilleadan
+addons-page-title = Manaidsear nan tuilleadan
 search-header =
     .placeholder = Lorg air addons.mozilla.org
     .searchbuttonlabel = Lorg
@@ -301,10 +302,6 @@ remove-addon-button = Thoir air falbh
 disable-addon-button = Cuir à comas
 enable-addon-button = Cuir an comas
 expand-addon-button = Barrachd roghainnean
-disable-addon-button-label =
-    .aria-label = Cuir à comas
-enable-addon-button-label =
-    .aria-label = Cuir an comas
 addons-enabled-heading = An comas
 addons-disabled-heading = À comas
 addon-detail-author-label = Ùghdar
@@ -342,3 +339,5 @@ theme-heading-search-label = Lorg barrachd ùrlaran
 extension-heading-search-label = Lorg barrachd leudachan
 addons-heading-search-input =
     .placeholder = Lorg air addons.mozilla.org
+addon-page-options-button =
+    .title = Innealan airson a h-uile tuilleadan
