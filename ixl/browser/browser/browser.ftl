@@ -93,3 +93,11 @@ page-action-remove-from-urlbar =
 
 ## Search Engine selection buttons (one-offs)
 
+
+## Bookmark Panel
+
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
