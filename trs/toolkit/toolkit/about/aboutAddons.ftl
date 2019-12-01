@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Sa dugumîn nej extensiûn
+addons-page-title = Sa dugumîn nej extensiûn
 search-header =
     .placeholder = Nana'uì' addons.mozilla.org
     .searchbuttonlabel = Nana'uì'
@@ -335,10 +336,6 @@ remove-addon-disabled-button = Na’ue narè’ej <a data-l10n-name="link">Nù h
 disable-addon-button = Dunikïn'
 enable-addon-button = Dugi'iaj sun' man
 expand-addon-button = Doj sa ga'ue nagi'át
-disable-addon-button-label =
-    .aria-label = Dunikïn'
-enable-addon-button-label =
-    .aria-label = Dugi'iaj sun' man
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Sa huaa
@@ -444,3 +441,5 @@ theme-heading-search-label = Narì't doj têma
 extension-heading-search-label = Narì't doj extensiûn
 addons-heading-search-input =
     .placeholder = Nana'uì' addons.mozilla.org
+addon-page-options-button =
+    .title = Rasuun gini'ñanj daran' nej komplemênto
