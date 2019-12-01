@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Molaodi wa ditlaleletši
+addons-page-title = Molaodi wa ditlaleletši
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = Ditlaleletši
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Dithulusi tša ditlaleletši tšohle
