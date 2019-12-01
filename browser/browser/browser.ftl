@@ -125,3 +125,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = అప్రమేయ శోధన యంత్రంగా అమర్చండి
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = పూర్తయింది
