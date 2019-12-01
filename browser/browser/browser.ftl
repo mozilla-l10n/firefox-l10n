@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = As standertsykmasine foar priveefinsters ynstelle
     .accesskey = p
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Klear
