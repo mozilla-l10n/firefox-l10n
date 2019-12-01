@@ -144,6 +144,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Показывать редактор при сохранении
+    .accesskey = ы
 bookmark-panel-done-button =
     .label = Готово
 # Width of the bookmark panel.
