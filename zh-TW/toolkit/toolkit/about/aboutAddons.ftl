@@ -340,6 +340,10 @@ remove-addon-disabled-button = 無法移除，<a data-l10n-name="link">為什麼
 disable-addon-button = 停用
 enable-addon-button = 啟用
 expand-addon-button = 更多選項
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = 啟用
 preferences-addon-button =
     { PLATFORM() ->
         [windows] 選項
@@ -442,6 +446,7 @@ discover-heading = 個人化您的 { -brand-short-name }
 shortcuts-heading = 管理擴充套件快速鍵
 theme-heading-search-label = 尋找更多佈景主題
 extension-heading-search-label = 尋找更多擴充套件
+default-heading-search-label = 看更多附加元件！
 addons-heading-search-input =
     .placeholder = 在 addons.mozilla.org 搜尋
 addon-page-options-button =
