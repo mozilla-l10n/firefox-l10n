@@ -144,6 +144,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = 저장할 때 편집기 보이기
+    .accesskey = S
 bookmark-panel-done-button =
     .label = 완료
 # Width of the bookmark panel.
