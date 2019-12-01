@@ -125,10 +125,13 @@ cfr-whatsnew-lockwise-take-link-text = Last ned appen
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Sjå på videoar medan du surfar
+cfr-whatsnew-pip-body = Bilde-i-bilde opnar opp video i eit flytande vindauge slik at du kan så på han medan du jobbar i andre faner.
 cfr-whatsnew-pip-cta = Les meir
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Færre irriterande sprettoppmeldingar
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } blokkerer no nettstadar frå å automatisk be om å sende deg sprettopp-meldingar.
 cfr-whatsnew-permission-prompt-cta = Les meir
 
 ## Fingerprinter Counter
@@ -141,8 +144,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Fingerprinter blokkert
        *[other] Fingerprinters blokkerte
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkerer mange fingerprintarar som i det skjulte samlar informasjon om eininga di og handlingane dine for å lage ein annonseringsprofil for deg.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokkere fingerprintarar som i det skjulte samlar informasjon om eininga di og handlingane dine for å lage ein annonseringsprofil for deg.
 
 ## Bookmark Sync
 
