@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Mangimaton ti Raman
+addons-page-title = Mangimaton ti Raman
 search-header-shortcut =
     .key = f
 list-empty-installed =
@@ -126,3 +127,5 @@ addon-install-from-file-filter-name = Raman
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Ramit ti paganay
