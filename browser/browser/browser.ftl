@@ -132,5 +132,13 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = சேமிக்கும்பொருட்டு தொகுப்பதைக் காண்பி
+    .accesskey = S
 bookmark-panel-done-button =
     .label = முடிந்தது
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
