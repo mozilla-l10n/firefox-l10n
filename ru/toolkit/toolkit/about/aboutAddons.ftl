@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Управление дополнениями
+addons-page-title = Управление дополнениями
 search-header =
     .placeholder = Поиск на addons.mozilla.org
     .searchbuttonlabel = Поиск
@@ -349,10 +350,6 @@ remove-addon-disabled-button = Нельзя удалить <a data-l10n-name="li
 disable-addon-button = Отключить
 enable-addon-button = Включить
 expand-addon-button = Другие настройки
-disable-addon-button-label =
-    .aria-label = Отключить
-enable-addon-button-label =
-    .aria-label = Включить
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Настройки
@@ -459,3 +456,5 @@ theme-heading-search-label = Найти другие темы
 extension-heading-search-label = Найти больше расширений
 addons-heading-search-input =
     .placeholder = Поиск на addons.mozilla.org
+addon-page-options-button =
+    .title = Инструменты для всех дополнений
