@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ایڈ اون مینیجر
+addons-page-title = ایڈ اون مینیجر
 search-header =
     .placeholder = addons.mozilla.org تلاش کریں
     .searchbuttonlabel = تلاش
@@ -247,10 +248,6 @@ addon-open-about-debugging = ایڈز آن ازالہ کرے
 
 disable-addon-button = غیر فعال
 enable-addon-button = فعال
-disable-addon-button-label =
-    .aria-label = غیر فعال
-enable-addon-button-label =
-    .aria-label = فعال
 addons-enabled-heading = فعال
 addons-disabled-heading = غیر فعال
 
@@ -263,3 +260,5 @@ addon-detail-updates-radio-off = بند کریں
 
 addons-heading-search-input =
     .placeholder = addons.mozilla.org تلاش کریں
+addon-page-options-button =
+    .title = تمام ایڈ اون کے لیے ٹول
