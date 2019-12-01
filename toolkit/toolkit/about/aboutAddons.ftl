@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Xestor de complementos
+addons-page-title = Xestor de complementos
 loading-label =
     .value = Cargando…
 list-empty-installed =
@@ -257,3 +258,5 @@ theme-heading = Xestión d'estilos
 plugin-heading = Xestión de plugins
 dictionary-heading = Xestión de diccionarios
 locale-heading = Xestión de llingües
+addon-page-options-button =
+    .title = Ferramientes pa tolos complementos
