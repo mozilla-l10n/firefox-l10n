@@ -4,6 +4,7 @@
 
 addons-window =
     .title = கூடுதல் இணைப்பு மேலாளர்
+addons-page-title = கூடுதல் இணைப்பு மேலாளர்
 search-header-shortcut =
     .key = f
 loading-label =
