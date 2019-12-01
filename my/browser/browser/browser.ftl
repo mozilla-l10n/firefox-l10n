@@ -123,3 +123,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ပုံသေရှာဖွေရေးယန္တရားအဖြစ် သတ်မှတ်ပါ
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = ပြီးပြီ
