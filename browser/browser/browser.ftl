@@ -129,3 +129,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Waɗtu Yiylorɗe Woowaanɗe
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Gasii
