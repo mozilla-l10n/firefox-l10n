@@ -450,3 +450,5 @@ theme-heading-search-label = Pronađi daljnje motive
 extension-heading-search-label = Pronađite više dodataka
 addons-heading-search-input =
     .placeholder = Pretraži addons.mozilla.org
+addon-page-options-button =
+    .title = Alati za sve dodatke
