@@ -129,3 +129,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = இயல்புநிலை தேடும் பொறியாக அமை
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = முடிந்தது
