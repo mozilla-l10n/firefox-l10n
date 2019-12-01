@@ -103,3 +103,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Stel as verstek-soekenjin
     .accesskey = v
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Klaar
