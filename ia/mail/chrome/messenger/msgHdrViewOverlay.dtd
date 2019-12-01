@@ -18,6 +18,8 @@
 <!ENTITY hdrMenuForwardButton.label "Reinviate como">
 <!ENTITY hdrForwardButton1.label "Reinviate">
 <!ENTITY hdrForwardButton1.tooltip "Reinviar iste message">
+<!ENTITY hdrJunkButton1.label "Indesirate">
+<!ENTITY hdrJunkButton1.tooltip "Marcar iste message como indesirate">
 
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre monstrar Responder al expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
