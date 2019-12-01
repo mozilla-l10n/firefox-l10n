@@ -144,6 +144,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Mussar l'editur cun memorisar
+    .accesskey = s
 bookmark-panel-done-button =
     .label = Terminar
 # Width of the bookmark panel.
