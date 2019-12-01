@@ -141,3 +141,16 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Maxfiy oynalar uchun asosiy qidiruv tizimi sifatida oʻrnatish
     .accesskey = s
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Saqlashda muharrirni ko‘rsatish
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = Tayyor
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
