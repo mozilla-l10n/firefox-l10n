@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Lisäosien hallinta
+addons-page-title = Lisäosien hallinta
 search-header =
     .placeholder = Etsi addons.mozilla.orgista
     .searchbuttonlabel = Etsi
@@ -349,10 +350,6 @@ remove-addon-disabled-button = <a data-l10n-name="link">Miksi</a> tätä ei voi 
 disable-addon-button = Poista käytöstä
 enable-addon-button = Käytä
 expand-addon-button = Lisää valintoja
-disable-addon-button-label =
-    .aria-label = Poista käytöstä
-enable-addon-button-label =
-    .aria-label = Käytä
 preferences-addon-button = Asetukset
 details-addon-button = Tiedot
 release-notes-addon-button = Julkaisutiedot
@@ -454,3 +451,5 @@ theme-heading-search-label = Etsi lisää teemoja
 extension-heading-search-label = Etsi lisää laajennuksia
 addons-heading-search-input =
     .placeholder = Etsi addons.mozilla.orgista
+addon-page-options-button =
+    .title = Työkaluja kaikille lisäosille
