@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Gestionnaire de modules complémentaires
+addons-page-title = Gestionnaire de modules complémentaires
 search-header =
     .placeholder = Rechercher sur addons.mozilla.org
     .searchbuttonlabel = Rechercher
@@ -343,10 +344,6 @@ remove-addon-disabled-button = Suppression impossible <a data-l10n-name="link">P
 disable-addon-button = Désactiver
 enable-addon-button = Activer
 expand-addon-button = Plus d’options
-disable-addon-button-label =
-    .aria-label = Désactiver
-enable-addon-button-label =
-    .aria-label = Activer
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Options
@@ -452,3 +449,5 @@ theme-heading-search-label = Trouver d’autres thèmes
 extension-heading-search-label = Trouver d’autres extensions
 addons-heading-search-input =
     .placeholder = Rechercher sur addons.mozilla.org
+addon-page-options-button =
+    .title = Outils pour tous les modules
