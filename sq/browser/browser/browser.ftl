@@ -141,3 +141,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Vëre si Motor Kërkimi Parazgjedhje për Dritare Private
     .accesskey = V
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Shfaqe përpunuesin kur bëhen ruajtje
+    .accesskey = S
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
