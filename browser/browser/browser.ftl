@@ -107,3 +107,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Afitar como motor de gueta por defeutu
     .accesskey = A
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Fecho
