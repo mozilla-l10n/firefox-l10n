@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Rêveberiya Add-onan
+addons-page-title = Rêveberiya Add-onan
 search-header-shortcut =
     .key = f
 loading-label =
