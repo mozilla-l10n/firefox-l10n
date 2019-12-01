@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Parametros de posta indesirate">
+<!ENTITY itemJunk.label          "Indesirate">
 
-<!ENTITY otherFolder.label "Altero:">
-<!ENTITY otherFolder.accesskey "A">
+<!-- Junk Mail Controls -->
 
+<!-- Phishing Detector -->
 
+<!-- Passwords -->
 
-<!ENTITY junkClassification.label "Selection">
-
+<!-- Anti Virus -->

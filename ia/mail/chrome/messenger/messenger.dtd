@@ -256,11 +256,11 @@
 <!-- Quick Search Menu Bar -->
 
 <!-- Thread Pane -->
-<!ENTITY junkStatusColumn.label "Stato de indesirate">
+<!ENTITY junkStatusColumn.label "Stato indesirate">
 <!ENTITY attachmentColumn.label "Annexos">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY junkStatusColumn2.tooltip "Ordinar per stato de indesirate">
+<!ENTITY junkStatusColumn2.tooltip "Ordinar per stato indesirate">
 <!ENTITY attachmentColumn2.tooltip "Ordinar per annexos">
 
 <!-- Thread Pane Context Menu -->
