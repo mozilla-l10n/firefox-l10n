@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Administraziun dals supplements
+addons-page-title = Administraziun dals supplements
 search-header =
     .placeholder = Tschertgar sin addons.mozilla.org
     .searchbuttonlabel = Tschertgar
@@ -352,10 +353,6 @@ remove-addon-disabled-button = Impussibel dad allontanar <a data-l10n-name="link
 disable-addon-button = Deactivar
 enable-addon-button = Activar
 expand-addon-button = Ulteriuras opziuns
-disable-addon-button-label =
-    .aria-label = Deactivar
-enable-addon-button-label =
-    .aria-label = Activar
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Preferenzas
@@ -460,3 +457,5 @@ theme-heading-search-label = Chattar ulteriurs designs
 extension-heading-search-label = Chattar ulteriuras extensiuns
 addons-heading-search-input =
     .placeholder = Tschertgar sin addons.mozilla.org
+addon-page-options-button =
+    .title = Utensils per tut ils supplements
