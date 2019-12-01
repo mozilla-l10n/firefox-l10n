@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Správca doplnkov
+addons-page-title = Správca doplnkov
 search-header =
     .placeholder = Hľadať na addons.mozilla.org
     .searchbuttonlabel = Hľadať
@@ -354,10 +355,6 @@ remove-addon-disabled-button = Nie je možné odstrániť. <a data-l10n-name="li
 disable-addon-button = Zakázať
 enable-addon-button = Povoliť
 expand-addon-button = Ďalšie možnosti
-disable-addon-button-label =
-    .aria-label = Zakázať
-enable-addon-button-label =
-    .aria-label = Povoliť
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Možnosti
@@ -464,3 +461,5 @@ theme-heading-search-label = Nájdite ďalšie témy vzhľadu
 extension-heading-search-label = Nájdite ďalšie rozšírenia
 addons-heading-search-input =
     .placeholder = Hľadať na addons.mozilla.org
+addon-page-options-button =
+    .title = Nástroje pre všetky doplnky
