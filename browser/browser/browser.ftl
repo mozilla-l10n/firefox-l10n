@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Definir como mecanismo de pesquisa padrão em janelas privativas
     .accesskey = p
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Concluído
