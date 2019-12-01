@@ -142,5 +142,13 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Yadda saxlarkən redaktoru göstər
+    .accesskey = S
 bookmark-panel-done-button =
     .label = Bitdi
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
