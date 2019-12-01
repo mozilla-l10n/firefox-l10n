@@ -86,3 +86,8 @@ search-one-offs-change-settings-compact-button =
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Fäerdeg
