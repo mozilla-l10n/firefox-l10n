@@ -144,5 +144,13 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Szerkesztő megjelenítése mentéskor
+    .accesskey = e
 bookmark-panel-done-button =
     .label = Kész
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
