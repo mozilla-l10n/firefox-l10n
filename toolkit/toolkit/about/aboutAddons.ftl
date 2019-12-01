@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ॲड-ऑन्स् व्यवस्थापक
+addons-page-title = ॲड-ऑन्स् व्यवस्थापक
 search-header-shortcut =
     .key = f
 loading-label =
@@ -264,10 +265,6 @@ remove-addon-button = काढून टाका
 disable-addon-button = निष्क्रिय
 enable-addon-button = सक्रिय
 expand-addon-button = आणखी पर्याय
-disable-addon-button-label =
-    .aria-label = निष्क्रिय
-enable-addon-button-label =
-    .aria-label = सक्रिय
 details-addon-button = तपशील
 release-notes-addon-button = प्रकाशन टीपा
 permissions-addon-button = परवानग्या
@@ -308,3 +305,5 @@ locale-heading = भाषा व्यवस्थापित करा
 shortcuts-heading = विस्तार शॉर्टकट व्यवस्थापित करा
 theme-heading-search-label = अधिक थीम शोधा
 extension-heading-search-label = अधिक विस्तार शोधा
+addon-page-options-button =
+    .title = सर्व ॲड-ऑन्स् करीता साधने
