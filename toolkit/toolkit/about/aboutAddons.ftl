@@ -362,10 +362,6 @@ remove-addon-disabled-button = Nelze odebrat. <a data-l10n-name="link">Proč?</a
 disable-addon-button = Zakázat
 enable-addon-button = Povolit
 expand-addon-button = Další možnosti
-disable-addon-button-label =
-    .aria-label = Zakázat
-enable-addon-button-label =
-    .aria-label = Povolit
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Možnosti
