@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Eklentiler İdarecisi
+addons-page-title = Eklentiler İdarecisi
 search-header =
     .placeholder = addons.mozilla.org’da qıdır
     .searchbuttonlabel = Qıdır
@@ -288,10 +289,6 @@ go-back-button =
 remove-addon-button = Çetleştir
 disable-addon-button = Naqabilleştir
 enable-addon-button = Qabilleştir
-disable-addon-button-label =
-    .aria-label = Naqabilleştir
-enable-addon-button-label =
-    .aria-label = Qabilleştir
 addons-enabled-heading = Qabilleştirilgen
 addons-disabled-heading = Naqabilleştirilgen
 
@@ -310,3 +307,5 @@ theme-heading-search-label = Daa çoq temalar tap
 extension-heading-search-label = Daa çoq eklentiler tap
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da qıdır
+addon-page-options-button =
+    .title = Episi eklentiler içün aletler
