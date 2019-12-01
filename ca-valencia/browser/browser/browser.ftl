@@ -136,3 +136,16 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Defineix com a motor de cerca per defecte
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Mostra l'editor en guardar
+    .accesskey = s
+bookmark-panel-done-button =
+    .label = Fet
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 30em
