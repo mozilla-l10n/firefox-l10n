@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Add-ons Manager
+addons-page-title = Add-ons Manager
 search-header-shortcut =
     .key = f
 loading-label =
@@ -235,3 +236,5 @@ addon-open-about-debugging = Debug Add-ons
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Tools for all add-ons
