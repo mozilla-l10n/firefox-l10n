@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Add-onbeheerder
+addons-page-title = Add-onbeheerder
 search-header =
     .placeholder = addons.mozilla.org doorzoeken
     .searchbuttonlabel = Zoeken
@@ -357,10 +358,6 @@ remove-addon-disabled-button = Kan niet worden verwijderd <a data-l10n-name="lin
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
 expand-addon-button = Meer opties
-disable-addon-button-label =
-    .aria-label = Uitschakelen
-enable-addon-button-label =
-    .aria-label = Inschakelen
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opties
@@ -466,3 +463,5 @@ theme-heading-search-label = Meer thema’s zoeken
 extension-heading-search-label = Meer extensies zoeken
 addons-heading-search-input =
     .placeholder = addons.mozilla.org doorzoeken
+addon-page-options-button =
+    .title = Hulpmiddelen voor alle add-ons
