@@ -193,6 +193,7 @@
 <!ENTITY runJunkControls.accesskey "E">
 <!ENTITY deleteJunk.label "Deler le posta marcate como indesirate in le dossier">
 <!ENTITY deleteJunk.accesskey "D">
+<!ENTITY accountManagerCmd2.label "Parametros de contos">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems

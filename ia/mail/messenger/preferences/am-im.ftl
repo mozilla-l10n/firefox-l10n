@@ -2,16 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# Import Sources
-
-2_seamonkey=Parametros de contos
-2_outlook=Parametros de contos
-
-
-8_seamonkey=Trainamento del filtro de posta indesirate
-
-
-
-64_seamonkey=Dossiers de gruppos
-
+account-settingsTitle = Parametros de authentication

@@ -189,6 +189,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY messengerCmd.label "Posta e gruppos">
+<!ENTITY accountManagerCmd2.label "Parametros de contos">
 <!ENTITY preferencesCmd2.label "Optiones">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferentias">
