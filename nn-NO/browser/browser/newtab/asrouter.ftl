@@ -132,6 +132,8 @@ cfr-whatsnew-permission-prompt-cta = Les meir
 
 ## Fingerprinter Counter
 
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
 
 ## Bookmark Sync
 
