@@ -4,6 +4,7 @@
 
 addons-window =
     .title = एडअन प्रबन्धक
+addons-page-title = एडअन प्रबन्धक
 search-header-shortcut =
     .key = f
 loading-label =
@@ -243,3 +244,5 @@ addon-open-about-debugging = एडअनहरू डिबग गर्नु�
 
 ## Page headings
 
+addon-page-options-button =
+    .title = सबै एडअनहरूको लागि उपकरणहरू
