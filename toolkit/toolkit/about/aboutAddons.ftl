@@ -457,3 +457,5 @@ theme-heading-search-label = სხვა თემების მოძიე�
 extension-heading-search-label = სხვა გაფართოებების მოძიება
 addons-heading-search-input =
     .placeholder = addons.mozilla.org საიტზე მოძიება
+addon-page-options-button =
+    .title = ხელსაწყოები ყველა დამატებისთვის
