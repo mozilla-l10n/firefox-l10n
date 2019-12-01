@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Rheolwr Ychwanegion
+addons-page-title = Rheolwr Ychwanegion
 search-header =
     .placeholder = Search addons.mozilla.org
     .searchbuttonlabel = Chwilio
@@ -348,10 +349,6 @@ remove-addon-disabled-button = Methu ei Dynnu <a data-l10n-name="link"> Pam? </a
 disable-addon-button = Analluogu
 enable-addon-button = Galluogi
 expand-addon-button = Rhagor o Opsiynau
-disable-addon-button-label =
-    .aria-label = Analluogu
-enable-addon-button-label =
-    .aria-label = Galluogi
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opsiynau
@@ -461,3 +458,5 @@ theme-heading-search-label = Canfod themâu eraill
 extension-heading-search-label = Canfod estyniadau eraill
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
+addon-page-options-button =
+    .title = Offer ar gyfer pob ychwanegyn
