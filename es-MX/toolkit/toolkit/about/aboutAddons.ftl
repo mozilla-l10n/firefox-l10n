@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Administrador de complementos
+addons-page-title = Administrador de complementos
 search-header =
     .placeholder = Buscar en addons.mozilla.org
     .searchbuttonlabel = Buscar
@@ -347,10 +348,6 @@ remove-addon-disabled-button = No puede ser eliminado <a data-l10n-name="link">�
 disable-addon-button = Deshabilitar
 enable-addon-button = Habilitar
 expand-addon-button = Más opciones
-disable-addon-button-label =
-    .aria-label = Deshabilitar
-enable-addon-button-label =
-    .aria-label = Habilitar
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opciones
@@ -456,3 +453,5 @@ theme-heading-search-label = Buscar más temas
 extension-heading-search-label = Encontrar más extensiones
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
+addon-page-options-button =
+    .title = Herramientas para todos los complementos
