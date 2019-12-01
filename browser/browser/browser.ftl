@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Jako standardnu pytawu za priwatne wokna nastajić
     .accesskey = J
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Dokónčeny
