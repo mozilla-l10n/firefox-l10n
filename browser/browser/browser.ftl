@@ -142,6 +142,8 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Lisamisel kuvatakse seda dialoogi
     .accesskey = d
+bookmark-panel-done-button =
+    .label = Sobib
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
