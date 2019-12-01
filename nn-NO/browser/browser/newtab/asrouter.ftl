@@ -124,6 +124,7 @@ cfr-whatsnew-lockwise-take-link-text = Last ned appen
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Sjå på videoar medan du surfar
 cfr-whatsnew-pip-cta = Les meir
 
 ## Permission Prompt
@@ -132,6 +133,14 @@ cfr-whatsnew-permission-prompt-cta = Les meir
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Fingerprinter blokkert
+       *[other] Fingerprinters blokkerte
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
 
