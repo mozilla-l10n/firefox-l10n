@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Skirti numatytąja ieškykle privačiojo naršymo langams
     .accesskey = p
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Atlikta
