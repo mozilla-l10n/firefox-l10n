@@ -413,3 +413,5 @@ theme-heading-search-label = ค้นหาชุดตกแต่งเพิ
 extension-heading-search-label = ค้นหาส่วนขยายเพิ่มเติม
 addons-heading-search-input =
     .placeholder = ค้นหา addons.mozilla.org
+addon-page-options-button =
+    .title = เครื่องมือสำหรับส่วนเสริมทั้งหมด
