@@ -131,3 +131,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Cleachd seo mar an t-einnsean-luirg bunaiteach
     .accesskey = d
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Dèanta
