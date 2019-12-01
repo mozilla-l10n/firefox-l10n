@@ -131,3 +131,16 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ögbelgilengen Qıdırma Motorı Olaraq Tesbit Et
     .accesskey = b
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Saqlağanda muarrirni köster
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = Tamam
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
