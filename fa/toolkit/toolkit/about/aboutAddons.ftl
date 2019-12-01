@@ -4,6 +4,7 @@
 
 addons-window =
     .title = مدیریت افزودنی‌ها
+addons-page-title = مدیریت افزودنی‌ها
 search-header =
     .placeholder = جست‌ و جو addons.mozilla.org
     .searchbuttonlabel = جست و جو
@@ -306,10 +307,6 @@ remove-addon-button = حذف
 disable-addon-button = غیرفعال کردن
 enable-addon-button = فعال کردن
 expand-addon-button = گزینه‌های بیشتر
-disable-addon-button-label =
-    .aria-label = غیرفعال کردن
-enable-addon-button-label =
-    .aria-label = فعال کردن
 preferences-addon-button =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -409,3 +406,5 @@ theme-heading-search-label = تم‌های بیشتری پیدا کنید
 extension-heading-search-label = افزونه‌های بیشتری پیدا کنید
 addons-heading-search-input =
     .placeholder = جست‌ و جو addons.mozilla.org
+addon-page-options-button =
+    .title = ابزارهای مخصوص همهٔ افزودنی‌ها
