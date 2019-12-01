@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = הגדרה כמנוע חיפוש ברירת המחדל עבור חלונות פרטיים
     .accesskey = ג
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = סיום
