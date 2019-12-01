@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Xestor de complementos
+addons-page-title = Xestor de complementos
 search-header =
     .placeholder = Buscar en addons.mozilla.org
     .searchbuttonlabel = Buscar
@@ -258,3 +259,5 @@ theme-heading-search-label = Atopar máis temas
 extension-heading-search-label = Atopar máis extensións
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
+addon-page-options-button =
+    .title = Ferramentas para todos os complementos
