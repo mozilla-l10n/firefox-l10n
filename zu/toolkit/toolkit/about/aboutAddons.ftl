@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Umphathi wokungezwayo
+addons-page-title = Umphathi wokungezwayo
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = Okwengeziwe
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Amathuluzi wakho konke okwengezwayo
