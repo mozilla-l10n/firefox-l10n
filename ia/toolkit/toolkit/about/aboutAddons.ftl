@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Gestor de additivos
+addons-page-title = Gestor de additivos
 search-header =
     .placeholder = Cercar sur addons.mozilla.org
     .searchbuttonlabel = Cercar
@@ -341,10 +342,6 @@ remove-addon-disabled-button = Impossibile remover. <a data-l10n-name="link">Pro
 disable-addon-button = Disactivar
 enable-addon-button = Activar
 expand-addon-button = Altere optiones
-disable-addon-button-label =
-    .aria-label = Disactivar
-enable-addon-button-label =
-    .aria-label = Activar
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Optiones
@@ -450,3 +447,5 @@ theme-heading-search-label = Trova plus themas
 extension-heading-search-label = Trova plus extensiones
 addons-heading-search-input =
     .placeholder = Cercar sur addons.mozilla.org
+addon-page-options-button =
+    .title = Instrumentos pro tote le additivos
