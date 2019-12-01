@@ -4,6 +4,7 @@
 
 addons-window =
     .title = 附加组件管理器
+addons-page-title = 附加组件管理器
 search-header =
     .placeholder = 在 addons.mozilla.org 搜索
     .searchbuttonlabel = 搜索
@@ -337,10 +338,6 @@ remove-addon-disabled-button = 无法移除 <a data-l10n-name="link">为什么�
 disable-addon-button = 禁用
 enable-addon-button = 启用
 expand-addon-button = 更多选项
-disable-addon-button-label =
-    .aria-label = 禁用
-enable-addon-button-label =
-    .aria-label = 启用
 preferences-addon-button =
     { PLATFORM() ->
         [windows] 选项
@@ -445,3 +442,5 @@ theme-heading-search-label = 寻找更多主题
 extension-heading-search-label = 寻找更多扩展
 addons-heading-search-input =
     .placeholder = 在 addons.mozilla.org 搜索
+addon-page-options-button =
+    .title = 用于所有附加组件的工具
