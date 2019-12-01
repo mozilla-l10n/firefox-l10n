@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Bainisteoir na mBreiseán
+addons-page-title = Bainisteoir na mBreiseán
 search-header-shortcut =
     .key = f
 loading-label =
@@ -240,3 +241,5 @@ addon-open-about-debugging = Dífhabhtaigh Breiseáin
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Uirlisí le haghaidh gach breiseán
