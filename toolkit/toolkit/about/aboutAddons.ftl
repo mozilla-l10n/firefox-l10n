@@ -4,6 +4,7 @@
 
 addons-window =
     .title = UMphathi wezongezelelo
+addons-page-title = UMphathi wezongezelelo
 search-header-shortcut =
     .key = f
 loading-label =
@@ -240,3 +241,5 @@ addon-open-about-debugging = Khuphaibhagi Kwizongezelelo
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Izixhobo zazo zonke izongezelelo
