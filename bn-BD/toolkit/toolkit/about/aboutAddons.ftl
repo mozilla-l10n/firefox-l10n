@@ -4,6 +4,7 @@
 
 addons-window =
     .title = অ্যাড-অন ব্যবস্থাপক
+addons-page-title = অ্যাড-অন ব্যবস্থাপক
 search-header =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
     .searchbuttonlabel = অনুসন্ধান
@@ -248,10 +249,6 @@ go-back-button =
 remove-addon-button = অপসারণ
 disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
-disable-addon-button-label =
-    .aria-label = নিষ্ক্রিয়
-enable-addon-button-label =
-    .aria-label = সক্রিয়
 addons-enabled-heading = সক্রিয় হয়েছে
 addons-disabled-heading = নিষ্ক্রিয় হয়েছে
 
@@ -269,3 +266,5 @@ theme-heading-search-label = আরও থিম খুঁজুন
 extension-heading-search-label = আরও এক্সটেনশন খুঁজুন
 addons-heading-search-input =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
+addon-page-options-button =
+    .title = সব অ্যাড-অন এর জন্য টুল
