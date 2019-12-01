@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Lakaat da lusker enklask dre ziouer evit ar prenestroù prevez
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Graet
