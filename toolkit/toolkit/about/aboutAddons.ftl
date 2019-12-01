@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Viðbótastjóri
+addons-page-title = Viðbótastjóri
 search-header =
     .placeholder = Leita á addons.mozilla.org
     .searchbuttonlabel = Leita
@@ -272,10 +273,6 @@ go-back-button =
 remove-addon-button = Fjarlægja
 disable-addon-button = Óvirkja
 enable-addon-button = Virkja
-disable-addon-button-label =
-    .aria-label = Óvirkja
-enable-addon-button-label =
-    .aria-label = Virkja
 addons-enabled-heading = Virkjað
 addons-disabled-heading = Óvirkt
 
@@ -293,3 +290,5 @@ theme-heading-search-label = Finna fleiri þemu
 extension-heading-search-label = Finna fleiri viðbætur
 addons-heading-search-input =
     .placeholder = Leita á addons.mozilla.org
+addon-page-options-button =
+    .title = Verkfæri fyrir allar viðbætur
