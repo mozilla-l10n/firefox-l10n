@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Postavite zadani pretraživač za Privatno pretraživanje
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Gotovo
