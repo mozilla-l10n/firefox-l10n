@@ -222,3 +222,5 @@ addon-install-from-file-filter-name = ଏଡ-ଅନଗୁଡ଼ିକ
 
 ## Page headings
 
+addon-page-options-button =
+    .title = ସମସ୍ତ ଏଡ-ଅନ ପାଇଁ ସାଧନ
