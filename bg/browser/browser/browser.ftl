@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Задаване като стандартна търсачка в поверителни прозорци
     .accesskey = п
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Готово
