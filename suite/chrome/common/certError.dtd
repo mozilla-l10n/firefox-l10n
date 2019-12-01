@@ -24,3 +24,5 @@ está interfiriendo en su conexión.</b>">
 <!ENTITY certerror.expert.contentPara2 "No añada una excepción a menos que sepa que hay una buena razón por la que este sitio web no use identificación segura.">
 <!ENTITY certerror.addException.label "Añadir excepción…">
 <!ENTITY certerror.technical.heading "Detalles técnicos">
+<!ENTITY dnsNotFound.pageTitle "Servidor no encontrado">
+<!ENTITY malformedURI.pageTitle "URL no válida">
