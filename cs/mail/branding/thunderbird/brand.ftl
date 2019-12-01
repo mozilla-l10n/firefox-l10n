@@ -58,3 +58,4 @@
         [loc] Mozille
         [ins] Mozillou
     }
+    .gender = feminine
