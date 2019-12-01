@@ -6,6 +6,8 @@
 <!ENTITY newsSectionHdr.label         "Gruppos de discussion">
 <!ENTITY subscribeNewsLink.label      "Gerer le abonamentos a gruppos">
 
+<!ENTITY feedsSectionHdr.label        "Fluxos">
+<!ENTITY subscribeFeeds.label         "Gerer subscriptiones">
 
 
 <!ENTITY settingsLink.label           "Vider le parametros de iste conto">

@@ -3,9 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label     "Fluxos subscribite">
+<!ENTITY learnMore.label             "Saper plus sur fluxos">
 
+<!ENTITY feedTitle.label             "Titulo:">
+<!ENTITY feedTitle.accesskey         "T">
 
+<!ENTITY feedLocation.label          "URL del fluxo:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation2.placeholder   "Insere un adresse de fluxo valide">
 
+<!ENTITY feedFolder.label            "Immagazinar articulos in:">
+<!ENTITY feedFolder.accesskey        "I">
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Cercar nove articulos cata ">
