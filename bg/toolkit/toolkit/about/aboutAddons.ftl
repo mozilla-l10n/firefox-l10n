@@ -407,3 +407,5 @@ theme-heading-search-label = Още теми
 extension-heading-search-label = Още разширения
 addons-heading-search-input =
     .placeholder = търсене в addons.mozilla.org
+addon-page-options-button =
+    .title = Инструменти за всички добавки
