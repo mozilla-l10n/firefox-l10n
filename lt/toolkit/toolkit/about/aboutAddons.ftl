@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Priedų tvarkytuvė
+addons-page-title = Priedų tvarkytuvė
 search-header =
     .placeholder = Ieškoti per addons.mozilla.org
     .searchbuttonlabel = Paieška
@@ -350,10 +351,6 @@ remove-addon-disabled-button = Negalima pašalinti. <a data-l10n-name="link">Kod
 disable-addon-button = Išjungti
 enable-addon-button = Įjungti
 expand-addon-button = Daugiau veiksmų
-disable-addon-button-label =
-    .aria-label = Išjungti
-enable-addon-button-label =
-    .aria-label = Įjungti
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Nuostatos
@@ -460,3 +457,5 @@ theme-heading-search-label = Rasti daugiau apvalkalų
 extension-heading-search-label = Rasti daugiau priedų
 addons-heading-search-input =
     .placeholder = Ieškoti per addons.mozilla.org
+addon-page-options-button =
+    .title = Visiems priedams taikomos priemonės
