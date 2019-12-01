@@ -119,3 +119,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Postavi kao glavni pretraživač
     .accesskey = p
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Gotovo
