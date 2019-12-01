@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Topitorde Ɓeyditte
+addons-page-title = Topitorde Ɓeyditte
 search-header-shortcut =
     .key = f
 loading-label =
@@ -240,3 +241,5 @@ addon-open-about-debugging = Buggito Ɓeyditte
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Kuutorɗe ɓeyditte fof
