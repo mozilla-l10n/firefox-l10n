@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Ardoer an askouezhioù
+addons-page-title = Ardoer an askouezhioù
 search-header =
     .placeholder = Klask war addons.mozilla.org
     .searchbuttonlabel = Klask
@@ -300,10 +301,6 @@ remove-addon-button = Dilemel
 disable-addon-button = Diweredekaat
 enable-addon-button = Gweredekaat
 expand-addon-button = Dibarzhioù ouzhpenn
-disable-addon-button-label =
-    .aria-label = Diweredekaat
-enable-addon-button-label =
-    .aria-label = Gweredekaat
 addons-enabled-heading = Gweredekaet
 addons-disabled-heading = Diweredekaet
 addon-detail-author-label = Aozer
@@ -343,3 +340,5 @@ theme-heading-search-label = Kaout muioc'h a neuzioù
 extension-heading-search-label = Kavout muioc'h a askouezhioù
 addons-heading-search-input =
     .placeholder = Klask war addons.mozilla.org
+addon-page-options-button =
+    .title = Ostilhoù evit an holl askouezhioù
