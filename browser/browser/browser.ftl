@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Жекелік терезелері үшін негізгі іздеу жүйесі ретінде орнату
     .accesskey = р
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Дайын
