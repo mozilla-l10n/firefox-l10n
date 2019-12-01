@@ -4,6 +4,7 @@
 
 addons-window =
     .title = অতিরিক্ত সামগ্রী পরিচালন ব্যবস্থা
+addons-page-title = অতিরিক্ত সামগ্রী পরিচালন ব্যবস্থা
 search-header-shortcut =
     .key = f
 loading-label =
@@ -235,3 +236,5 @@ addon-open-about-debugging = অ্যাড-অন ডিবাগ
 
 ## Page headings
 
+addon-page-options-button =
+    .title = সকল অতিরিক্ত সামগ্রীর জন্য সরঞ্জাম
