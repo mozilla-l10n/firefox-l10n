@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Управление на добавките
+addons-page-title = Управление на добавките
 search-header =
     .placeholder = търсене в addons.mozilla.org
     .searchbuttonlabel = Търсене
@@ -329,10 +330,6 @@ remove-addon-button = Премахване
 disable-addon-button = Изключване
 enable-addon-button = Включване
 expand-addon-button = Повече настройки
-disable-addon-button-label =
-    .aria-label = Изключване
-enable-addon-button-label =
-    .aria-label = Включване
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Настройки
