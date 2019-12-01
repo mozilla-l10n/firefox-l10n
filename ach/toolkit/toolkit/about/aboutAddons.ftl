@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Lalo med-ikome
+addons-page-title = Lalo med-ikome
 search-header =
     .placeholder = Yeny addons.mozilla.org
     .searchbuttonlabel = Yeny
@@ -275,3 +276,5 @@ shortcuts-exists = { $addon } dong tye katic kwede
 
 addons-heading-search-input =
     .placeholder = Yeny addons.mozilla.org
+addon-page-options-button =
+    .title = Gintic pi med-ikome weng
