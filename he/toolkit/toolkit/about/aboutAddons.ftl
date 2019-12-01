@@ -4,6 +4,7 @@
 
 addons-window =
     .title = מנהל התוספות
+addons-page-title = מנהל התוספות
 search-header =
     .placeholder = חיפוש ב־addons.mozilla.org
     .searchbuttonlabel = חיפוש
@@ -340,10 +341,6 @@ remove-addon-disabled-button = לא ניתן להסרה <a data-l10n-name="link"
 disable-addon-button = השבתה
 enable-addon-button = הפעלה
 expand-addon-button = אפשרויות נוספות
-disable-addon-button-label =
-    .aria-label = השבתה
-enable-addon-button-label =
-    .aria-label = הפעלה
 preferences-addon-button =
     { PLATFORM() ->
         [windows] אפשרויות
@@ -439,3 +436,5 @@ theme-heading-search-label = חיפוש ערכות נושא נוספות
 extension-heading-search-label = חיפוש הרחבות נוספות
 addons-heading-search-input =
     .placeholder = חיפוש ב־addons.mozilla.org
+addon-page-options-button =
+    .title = כלים עבור כל התוספות
