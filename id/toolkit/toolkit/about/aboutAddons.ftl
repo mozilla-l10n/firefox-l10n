@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Pengelola Pengaya
+addons-page-title = Pengelola Pengaya
 search-header =
     .placeholder = Cari addons.mozilla.org
     .searchbuttonlabel = Cari
@@ -321,10 +322,6 @@ remove-addon-button = Hapus
 disable-addon-button = Nonaktifkan
 enable-addon-button = Aktifkan
 expand-addon-button = Opsi Lainnya
-disable-addon-button-label =
-    .aria-label = Nonaktifkan
-enable-addon-button-label =
-    .aria-label = Aktifkan
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Pengaturan
@@ -411,3 +408,5 @@ theme-heading-search-label = Temukan lebih banyak tema
 extension-heading-search-label = Temukan lebih banyak ekstensi
 addons-heading-search-input =
     .placeholder = Cari addons.mozilla.org
+addon-page-options-button =
+    .title = Alat untuk semua pengaya
