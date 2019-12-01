@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Tontoney juwalkaa
+addons-page-title = Tontoney juwalkaa
 search-header-shortcut =
     .key = f
 loading-label =
@@ -236,3 +237,5 @@ addon-open-about-debugging = Hanseyan tontoney
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Goyjinayyaŋ tontoney kul še
