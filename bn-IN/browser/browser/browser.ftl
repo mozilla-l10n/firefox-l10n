@@ -131,3 +131,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = অনুসন্ধান ইঞ্জিনকে ডিফল্ট হিসাবে সংকলন করুন
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = সমাপ্ত
