@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Emoĩ jehekaha mongu'eha ijypykuévaramo ovetã ñemíme
     .accesskey = E
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Mohu'ã
