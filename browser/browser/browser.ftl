@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nastaviť ako predvolený vyhľadávací modul pre súkromné prehliadanie
     .accesskey = o
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Hotovo
