@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Менаџер за додатоци
+addons-page-title = Менаџер за додатоци
 search-header-shortcut =
     .key = f
 loading-label =
@@ -243,3 +244,5 @@ addon-open-about-debugging = Дебагирање на додатоци
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Алатки за сите додатоци
