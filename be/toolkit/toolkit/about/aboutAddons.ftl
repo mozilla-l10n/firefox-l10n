@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Менеджар дадаткаў
+addons-page-title = Менеджар дадаткаў
 search-header =
     .placeholder = Пошук на addons.mozilla.org
     .searchbuttonlabel = Пошук
@@ -352,10 +353,6 @@ remove-addon-disabled-button = Нельга выдаліць <a data-l10n-name="
 disable-addon-button = Адключыць
 enable-addon-button = Уключыць
 expand-addon-button = Дадатковыя параметры
-disable-addon-button-label =
-    .aria-label = Адключыць
-enable-addon-button-label =
-    .aria-label = Уключыць
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Налады
