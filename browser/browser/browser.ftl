@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Aseta oletushakukoneeksi yksityisissä ikkunoissa
     .accesskey = A
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Valmis
