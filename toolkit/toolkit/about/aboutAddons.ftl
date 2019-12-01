@@ -4,6 +4,7 @@
 
 addons-window =
     .title = დამატებების მმართველი
+addons-page-title = დამატებების მმართველი
 search-header =
     .placeholder = addons.mozilla.org საიტზე მოძიება
     .searchbuttonlabel = ძიება
@@ -351,10 +352,6 @@ remove-addon-disabled-button = ვერ მოცილდება <a data-l10
 disable-addon-button = ამორთვა
 enable-addon-button = ჩართვა
 expand-addon-button = დამატებითი პარამეტრები
-disable-addon-button-label =
-    .aria-label = ამორთვა
-enable-addon-button-label =
-    .aria-label = ჩართვა
 preferences-addon-button =
     { PLATFORM() ->
         [windows] პარამეტრები
