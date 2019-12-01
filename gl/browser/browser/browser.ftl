@@ -129,3 +129,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Estabelecer como buscador predeterminado
     .accesskey = d
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Feito
