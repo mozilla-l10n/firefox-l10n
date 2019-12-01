@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Upravnik add-onima
+addons-page-title = Upravnik add-onima
 search-header-shortcut =
     .key = f
 loading-label =
