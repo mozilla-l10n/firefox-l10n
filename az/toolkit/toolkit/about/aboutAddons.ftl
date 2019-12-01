@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Əlavə idarəçisi
+addons-page-title = Əlavə idarəçisi
 search-header =
     .placeholder = addons.mozilla.org saytında axtar
     .searchbuttonlabel = Axtar
@@ -280,10 +281,6 @@ go-back-button =
 remove-addon-button = Sil
 disable-addon-button = Söndür
 enable-addon-button = Aktiv et
-disable-addon-button-label =
-    .aria-label = Söndür
-enable-addon-button-label =
-    .aria-label = Aktiv et
 addons-enabled-heading = Aktivdir
 addons-disabled-heading = Söndürülüb
 
@@ -303,3 +300,5 @@ theme-heading-search-label = Daha çox mövzu tap
 extension-heading-search-label = Daha çox uzantı tap
 addons-heading-search-input =
     .placeholder = addons.mozilla.org saytında axtar
+addon-page-options-button =
+    .title = Bütün əlavələr üçün alətlər
