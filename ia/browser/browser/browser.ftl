@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Disponer como motor de recerca predefinite pro le fenestras private
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Facite
