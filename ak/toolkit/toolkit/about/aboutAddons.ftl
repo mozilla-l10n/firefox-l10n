@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Nkaho Hwɛsofo
+addons-page-title = Nkaho Hwɛsofo
 search-header-shortcut =
     .key = f
 loading-label =
@@ -221,3 +222,5 @@ addon-install-from-file-filter-name = Nkaho
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Ntuul ma nkaho nyinara
