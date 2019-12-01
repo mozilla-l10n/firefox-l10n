@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Papyldynuojumu puorvaļdnīks
+addons-page-title = Papyldynuojumu puorvaļdnīks
 search-header-shortcut =
     .key = f
 loading-label =
@@ -240,3 +241,5 @@ addon-open-about-debugging = Atklaiduot papyldynuojums
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Vysu papyldynuojumu reiki
