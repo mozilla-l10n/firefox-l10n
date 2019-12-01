@@ -141,3 +141,16 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nastavit jako výchozí vyhledávač pro anonymní prohlížení
     .accesskey = p
+
+## Bookmark Panel
+
+bookmark-panel-show-editor-checkbox =
+    .label = Zobrazovat editor při ukládání
+    .accesskey = u
+bookmark-panel-done-button =
+    .label = Hotovo
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
