@@ -131,3 +131,8 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = بطور طے شدہ تلاش انجن سیٹ کریں
     .accesskey = D
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = ہوگیا
