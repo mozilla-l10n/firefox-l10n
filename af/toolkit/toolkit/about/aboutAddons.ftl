@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Byvoegingbestuurder
+addons-page-title = Byvoegingbestuurder
 search-header-shortcut =
     .key = f
 loading-label =
@@ -240,3 +241,5 @@ addon-open-about-debugging = Ontfout byvoegings
 
 ## Page headings
 
+addon-page-options-button =
+    .title = Nutsgoed vir alle byvoegings
