@@ -4,6 +4,7 @@
 
 addons-window =
     .title = ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ
+addons-page-title = ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ
 search-header-shortcut =
     .key = f
 loading-label =
