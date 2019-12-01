@@ -442,3 +442,5 @@ theme-heading-search-label = Serĉi pli da etosoj
 extension-heading-search-label = Serĉi pli da etendaĵoj
 addons-heading-search-input =
     .placeholder = Serĉi en addons.mozilla.org
+addon-page-options-button =
+    .title = Iloj por ĉiuj aldonaĵoj
