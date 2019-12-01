@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = 사생활 보호 창의 기본 검색 엔진으로 설정
     .accesskey = P
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = 완료
