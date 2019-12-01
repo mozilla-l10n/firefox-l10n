@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Quản lí tiện ích
+addons-page-title = Quản lí tiện ích
 search-header =
     .placeholder = Tìm kiếm addons.mozilla.org
     .searchbuttonlabel = Tìm kiếm
@@ -348,10 +349,6 @@ remove-addon-disabled-button = Không thể xóa bỏ dữ liệu <a data-l10n-n
 disable-addon-button = Tắt
 enable-addon-button = Bật
 expand-addon-button = Tùy chọn khác
-disable-addon-button-label =
-    .aria-label = Tắt
-enable-addon-button-label =
-    .aria-label = Bật
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Tùy chọn
