@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Pengurus Add-ons
+addons-page-title = Pengurus Add-ons
 search-header =
     .placeholder = Cari di addons.mozilla.org
     .searchbuttonlabel = Cari
