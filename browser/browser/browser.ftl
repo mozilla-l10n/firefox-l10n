@@ -141,3 +141,8 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Igi ĝin la norma serĉilo en privataj fenestroj
     .accesskey = n
+
+## Bookmark Panel
+
+bookmark-panel-done-button =
+    .label = Preta
