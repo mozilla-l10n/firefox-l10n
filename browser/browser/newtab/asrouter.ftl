@@ -136,6 +136,18 @@ cfr-whatsnew-permission-prompt-cta = Conocer más
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Detector de huellas digitales bloqueado
+       *[other] Detectores de huellas digitales bloqueados
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloquea muchos detectores de huellas digitales que recopilan secretamente información sobre su dispositivo y accionan para crear un perfil publicitario suyo.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Detectores de huellas digitales
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede bloquear muchos detectores de huellas digitales que recopilan secretamente información sobre su dispositivo y accionan para crear un perfil publicitario suyo.
 
 ## Bookmark Sync
 
