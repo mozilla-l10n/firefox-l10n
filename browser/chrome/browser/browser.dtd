@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Вам неабходна пацвердзіць свой уліковы запіс, перш чым вы зможаце сінхранізавацца.">
 <!ENTITY fxa.unverified.button.label "Адкрыць налады &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Схаваць пераключальнік Выява ў выяве">
-<!ENTITY pictureInPictureHideToggle.accesskey "р">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Увайшоўшы як">
 <!ENTITY fxa.menu.manageAccount.label "Кіраванне ўліковым запісам…">
 <!ENTITY fxa.menu.syncSettings.label "Налады &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Схаваць пераключальнік Выява ў выяве">
+<!ENTITY pictureInPictureHideToggle.accesskey "р">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Увайсці ў &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Уключыць &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Сервісы &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Уліковы запіс">
 <!ENTITY fxa.menu.settings.label "Налады">
 <!ENTITY fxa.menu.accountSettings.label "Налады ўліковага запісу">
@@ -290,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы забаранілі гэтаму вэб-сайту выкарыстоўваць плагін Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Вы заблакавалі MIDI доступ для гэтага вэб-сайта.">
 <!ENTITY urlbar.installBlocked.tooltip           "Вы заблакавалі ўсталяванне дадаткаў з гэтага вэб-сайта.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
 
@@ -567,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Шукаць з:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "На гэты раз шукайце ў:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -939,12 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Чаму?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блакаванне іх можа парушыць часткі некаторых вэб-сайтаў. Без трэкераў некаторыя кнопкі, формы і палі для ўваходу могуць не працаваць.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Адключэнне аховы дазволіць усе трэкеры на гэтым сайце. Гэта таксама можа палепшыць некаторыя функцыі сайта.">
-<!ENTITY protections.socialMediaTrackers.label "Трэкеры сацыяльных сетак">
-<!ENTITY protections.crossSiteTrackingCookies.label "Міжсайтавыя кукі асочвання">
-<!ENTITY protections.trackingContent.label "Змест з элементамі сачэння">
-<!ENTITY protections.fingerprinters.label "Збіральнікі адбіткаў пальцаў">
-<!ENTITY protections.cryptominers.label "Майнеры крыптавалют">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Усе трэкеры на гэтым сайце загружаныя, таму што ахова адключана.">
 <!ENTITY protections.noTrackersFound.description "Ніводнага трэкера, вядомага &brandShortName;, не выяўлена на гэтай старонцы.">
 
@@ -963,11 +951,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Сінхранізаваныя карткі">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Сінхранізацыя">
 
 <!ENTITY syncSignIn.label             "Увайсці ў &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "У">
-
 <!ENTITY syncSyncNowItem.label        "Сінхранізаваць зараз ">
 <!ENTITY syncSyncNowItemSyncing.label "Сінхранізацыя…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
@@ -1005,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "ь">
 
 <!ENTITY contentBlocking.socialblock.label "Трэкеры сацыяльных сетак">
-
-<!ENTITY contentBlocking.cookies2.label "Міжсайтавыя кукі асочвання">
 
 <!ENTITY contentBlocking.cryptominers.label "Майнеры крыптавалют">
 <!ENTITY contentBlocking.cryptominersView.label "Майнеры крыптавалют">
