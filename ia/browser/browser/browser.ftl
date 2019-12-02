@@ -145,7 +145,7 @@ search-one-offs-context-set-as-default-private =
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
-    .label = Monstrar le editor durante le salvamento
+    .label = Monstrar editor quando se salva
     .accesskey = M
 bookmark-panel-done-button =
     .label = Facite
@@ -153,4 +153,4 @@ bookmark-panel-done-button =
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
-    .style = min-width: 23em
+    .style = min-width: 28em
