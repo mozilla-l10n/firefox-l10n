@@ -347,6 +347,10 @@ remove-addon-disabled-button = Man Tikirel ta Niyuj el <a data-l10n-name="link">
 disable-addon-button = Tichup
 enable-addon-button = Titzij
 expand-addon-button = Ch'aqa' chik taq Cha'oj
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Titzij
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Taq cha'oj
@@ -450,6 +454,7 @@ discover-heading = Tawichinaj { -brand-short-name }
 shortcuts-heading = Kenuk'samajïx Kichojokem taq K'amal
 theme-heading-search-label = Ke'ilitäj ch'aqa' chik taq wachinel
 extension-heading-search-label = Ke'ilitäj ch'aqa' chik taq k'amal
+default-heading-search-label = Kekanöx ch'aqa' chik taq tz'aqat
 addons-heading-search-input =
     .placeholder = Tikanöx addons.mozilla.org
 addon-page-options-button =
