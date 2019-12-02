@@ -144,14 +144,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "अपने ईमेल की जाँच करें">
-
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
+<!ENTITY fxa.unverified.description.label "सिंक करने से पहले आपको अपने खाते को सत्यापित करना जरुरी होगा।">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "ऐसे साइन इन करो">
 <!ENTITY fxa.menu.manageAccount.label "खाते का प्रबंधन…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिंग्स…">
+
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -159,7 +161,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "दूसरा डिवाइस जोड़ें…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
-
+<!ENTITY fxa.menu.signin.label "&brandProductName; में साइन इन करें">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; सेवाएं">
 <!ENTITY fxa.menu.account.label "खाता">
 <!ENTITY fxa.menu.settings.label "सेटिंग">
 <!ENTITY fxa.menu.accountSettings.label "खाते की सेटिंग">
@@ -433,6 +436,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से साइन इन करें.">
 <!ENTITY appMenuRemoteTabs.unverified.label "आपके खाते की पृष्टि करने की आवश्यकता है.">
 <!ENTITY appMenuRemoteTabs.signin.label "सिंक करने के लिए साइन इन करें">
+<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label; में साइन इन करें…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; चालू करें…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "उपकरणों का प्रबंधन करें…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "संकलित टैब्स बाज़ू पट्टी पर देखें">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "अन्य उपकरण जोड़ें">
@@ -546,11 +551,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "से खोज:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -911,7 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; में साइन इन करें...">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        " अब तुल्यकालित करें">
 <!ENTITY syncSyncNowItemSyncing.label "सिंक हो रहा है…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -942,7 +941,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
 
 
 

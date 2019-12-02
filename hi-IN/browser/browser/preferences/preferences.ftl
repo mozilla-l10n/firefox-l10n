@@ -834,6 +834,7 @@ content-blocking-all-third-party-cookies = सभी तृतीय-पक्�
 content-blocking-warning-title = सावधान!
 content-blocking-learn-how = सीखें कि कैसे
 content-blocking-warning-learn-how = जानिए कैसे
+content-blocking-reload-description = आपको इन बदलाव को लागू करने के लिए अपने टैब को फिर से लोड करना होगा।
 content-blocking-reload-tabs-button =
     .label = सभी टैब फिर लोड करें
     .accesskey = R
