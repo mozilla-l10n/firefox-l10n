@@ -869,7 +869,7 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 
 content-blocking-header = Blocage de contento
 content-blocking-section-description = Protege tu vita private durante que tu naviga. Bloca le contento invisibile que tracia le sitos que tu visita pro mantener un profilo de te. Blocar un parte de iste contento pote render le cargamento de paginas plus rapide.
-content-blocking-enhanced-tracking-protection = Protection de traciamento meliorate
+content-blocking-enhanced-tracking-protection = Protection antitraciamento reinfortiate
 content-blocking-section-top-level-description = Le traciatores te seque per tote le rete pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
 content-blocking-learn-more = Saper plus
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

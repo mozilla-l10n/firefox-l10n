@@ -894,11 +894,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Aperir le preferentias del blocage de contento">
 
 
-<!ENTITY protections.etpON.header "Le Protection avantiate contra le traciamento es ora ACTIVE pro iste sito">
-<!ENTITY protections.etpOFF.header "Le Protection avantiate contra le traciamento es ora DISACTIVATE pro iste sito">
+<!ENTITY protections.etpON.header "Le protection antitraciamento reinfortiate es ACTIVE pro iste sito">
+<!ENTITY protections.etpOFF.header "Le protection antitraciamento reinfortiate es INACTIVE pro iste sito">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Saper plus re Protection de traciamento meliorate">
+<!ENTITY protections.etpMoreInfo.label "Saper plus sur le protection antitraciamento reinfortiate">
 <!ENTITY protections.settings.label "Parametros de protection">
 <!ENTITY protections.showreport.label "Monstrar le reporto">
 <!-- LOCALIZATION NOTE:
