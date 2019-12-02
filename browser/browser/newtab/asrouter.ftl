@@ -148,6 +148,22 @@ cfr-whatsnew-permission-prompt-cta = Dysgu rhagor
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [zero] Bysbrintwyr wedi'u rhwystro
+        [one] Bysbrintiwr wedi'i rwystro
+        [two] Bysbrintwyr wedi'u rhwystro
+        [few] Bysbrintwyr wedi'u rhwystro
+        [many] Bysbrintwyr wedi'u rhwystro
+       *[other] Bysbrintwyr wedi'u rhwystro
+    }
+cfr-whatsnew-fingerprinter-counter-body = Mae { -brand-shorter-name } yn rhwystro llawer o fysbrintwyr sy'n casglu manylion am eich dyfais a'ch gweithredoedd yn gyfrinachol i greu proffil hysbysebu ohonoch chi.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Bysbrintwyr
+cfr-whatsnew-fingerprinter-counter-body-alt = Gall { -brand-shorter-name } rwystro bysbrintwyr sy'n casglu manylion am eich dyfais a'ch gweithredoedd yn gyfrinachol i greu proffil hysbysebu ohonoch chi.
 
 ## Bookmark Sync
 
