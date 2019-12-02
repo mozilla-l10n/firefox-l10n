@@ -358,6 +358,10 @@ remove-addon-disabled-button = Kan niet worden verwijderd <a data-l10n-name="lin
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
 expand-addon-button = Meer opties
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Inschakelen
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opties
@@ -461,6 +465,7 @@ discover-heading = Uw { -brand-short-name } personaliseren
 shortcuts-heading = Extensiesneltoetsen beheren
 theme-heading-search-label = Meer thema’s zoeken
 extension-heading-search-label = Meer extensies zoeken
+default-heading-search-label = Meer add-ons zoeken
 addons-heading-search-input =
     .placeholder = addons.mozilla.org doorzoeken
 addon-page-options-button =

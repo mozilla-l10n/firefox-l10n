@@ -122,6 +122,27 @@ cfr-whatsnew-lockwise-take-body =
     toegang tot uw wachtwoorden.
 cfr-whatsnew-lockwise-take-link-text = App downloaden
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Meer info
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Meer info
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Fingerprinter geblokkeerd
+       *[other] Fingerprinters geblokkeerd
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Deze bladwijzer op uw telefoon ontvangen
