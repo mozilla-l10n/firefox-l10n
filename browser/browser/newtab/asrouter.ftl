@@ -122,6 +122,17 @@ cfr-whatsnew-lockwise-take-body =
     copias de seguridad de las contraseñas desde cualquier lugar.
 cfr-whatsnew-lockwise-take-link-text = Obtenga la aplicación
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Vea videos mientras navega
+cfr-whatsnew-pip-body = Picture-in-picture muestra el video en una ventana flotante para que pueda verlo mientras trabaja en otras pestañas.
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Ponga este marcador en su teléfono
