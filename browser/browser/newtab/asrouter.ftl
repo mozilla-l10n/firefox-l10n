@@ -126,9 +126,13 @@ cfr-whatsnew-lockwise-take-link-text = Obtenga la aplicación
 
 cfr-whatsnew-pip-header = Vea videos mientras navega
 cfr-whatsnew-pip-body = Picture-in-picture muestra el video en una ventana flotante para que pueda verlo mientras trabaja en otras pestañas.
+cfr-whatsnew-pip-cta = Conocer más
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Menos ventanas emergentes de sitios molestos
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ahora bloquea los sitios para que no soliciten automáticamente que le envíen mensajes emergentes.
+cfr-whatsnew-permission-prompt-cta = Conocer más
 
 ## Fingerprinter Counter
 
