@@ -122,6 +122,33 @@ cfr-whatsnew-lockwise-take-body =
     უსაფრთხოდ დაამარქაფოთ პაროლები, ნებისმიერ ადგილიდან.
 cfr-whatsnew-lockwise-take-link-text = გადმოწერა
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = უყურეთ ვიდეოებს გვერდების თვალიერებისას
+cfr-whatsnew-pip-body = ეკრანი-ეკრანში გამოიტანს ვიდეოს ფანჯრის ზემოთ, ასე რომ შეგეძლებათ განაგრძოთ სხვა ჩანართებზე გადასვლა.
+cfr-whatsnew-pip-cta = ვრცლად
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = ნაკლები გამაღიზიანებელი ამომხტომი ფანჯარა
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ახლა უკვე უზღუდავს საიტებს, ამომხტომი შეტყობინებების ჩვენების მოთხოვნას.
+cfr-whatsnew-permission-prompt-cta = ვრცლად
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] ამომცნობი შეიზღუდა
+       *[other] ამომცნობი შეიზღუდა
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ზღუდავს მომხმარებლის ამომცნობ საშუალებებს, რომლებიც ჩუმად აგროვებს ინფორმაციას თქვენს მოწყობილობასა და მოქმედებებზე, დახასიათების შესადგენად სარეკლამოებისთვის.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = მომხმარებლის ამომცნობები
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } გთავაზობთ მომხმარებლის ამომცნობი საშუალებების შეზღუდვას, რომლებიც ჩუმად აგროვებს ინფორმაციას თქვენს მოწყობილობასა და მოქმედებებზე, დახასიათების შესადგენად სარეკლამოებისთვის.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = მიიღეთ ეს სანიშნი თქვენს ტელეფონზე
