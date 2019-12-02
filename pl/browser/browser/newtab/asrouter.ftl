@@ -127,6 +127,34 @@ cfr-whatsnew-lockwise-take-body =
     do haseł zachowanych w kopii zapasowej z dowolnego miejsca.
 cfr-whatsnew-lockwise-take-link-text = Pobierz aplikację
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Oglądaj filmy podczas przeglądania
+cfr-whatsnew-pip-body = Funkcja obraz w obrazie umożliwia wyświetlanie filmu w ruchomym okienku, dzięki czemu można oglądać w czasie pracy w innych kartach.
+cfr-whatsnew-pip-cta = Więcej informacji
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Mniej irytujących wyskakujących okien
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } uniemożliwia teraz witrynom automatyczne pytanie o zgodę na wyświetlanie powiadomień.
+cfr-whatsnew-permission-prompt-cta = Więcej informacji
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Zablokowany element śledzący przez zbieranie informacji o konfiguracji
+        [few] Zablokowane elementy śledzące przez zbieranie informacji o konfiguracji
+       *[many] Zablokowane elementy śledzące przez zbieranie informacji o konfiguracji
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokuje wiele elementów, które potajemnie zbierają informacje o Twoim urządzeniu i działaniach w celu utworzenia Twojego profilu reklamowego.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Elementy śledzące przez zbieranie informacji o konfiguracji
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } może blokować elementy, które potajemnie zbierają informacje o Twoim urządzeniu i działaniach w celu utworzenia Twojego profilu reklamowego.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Przenieś tę zakładkę na telefon
