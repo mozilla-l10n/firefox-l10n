@@ -21,21 +21,22 @@
 <!ENTITY firstrun_data_message "Llai o ddata, mwy o arbedion">
 <!ENTITY firstrun_data_subtext2 "Diffoddwch ddelweddau a gwario llai ar ddata pob gwefan fyddwch yn mynd iddyn nhw.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message3 "Cydweddu eich nodau tudalen, hanes a\&apos;ch cyfrineiriau i\&apos;ch ffôn.">
 <!ENTITY updatednewfirstrun_sync_title "Cyfrif">
 <!ENTITY firstrun_sync_message2 "Parhau lle roeddech o\&apos;r blaen.">
-<!ENTITY firstrun_sync_message3 "Cydweddu eich nodau tudalen, hanes a\&apos;ch cyfrineiriau i\&apos;ch ffôn.">
 <!ENTITY firstrun_sync_subtext2 "Defnyddiwch Sync i ganfod nodau tudalen, cyfrineiriau a phethau eraill rydych wedi eu cadw i &brandShortName; ar eich holl ddyfeisiau.">
 <!ENTITY newfirstrun_sync_subtext "Cydweddwch y pethau rydych chi\&apos;n eu cadw ar Firefox symudol i Firefox y bwrdd gwaith, yn breifat ac yn ddiogel.">
-<!ENTITY updatednewfirstrun_sync_subtext "Mewngofnodwch i\&apos;ch cyfrif i gael y mwyaf o &brandShortName;">
-<!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_sendtab_title "Tab Anfon">
 <!ENTITY firstrun_sendtab_message "Rhannwch dabiau o\&apos;r ffôn symudol i\&apos;r bwrdd gwaith - ar unwaith.">
+<!ENTITY updatednewfirstrun_sync_subtext "Mewngofnodwch i\&apos;ch cyfrif i gael y mwyaf o &brandShortName;">
+<!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
 <!ENTITY newfirstrun_signin_button "Cychwyn Sync">
 <!ENTITY updatednewfirstrun_signin_button "Mewngofnodi i &brandShortName;">
-<!ENTITY onboard_start_button_browser "Cychwyn Pori">
+<!ENTITY  onboard_start_button_browser "Cychwyn Pori">
 <!ENTITY firstrun_button_notnow "Dim nawr">
 <!ENTITY firstrun_button_next "Nesaf">
+<!ENTITY firstrun_signup_button "Ymuno">
 
 <!ENTITY firstrun_signin_button2 "Mewngofnodi">
 
@@ -49,8 +50,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Chi">
 <!ENTITY firstrun_account_message "A oes gennych &brandShortName; ar ddyfais arall?">
-
-<!ENTITY firstrun_signup_button "Ymuno">
 
 <!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\&apos;r fersiwn symlach yma o &brandShortName;.">
 
@@ -241,7 +240,7 @@
 <!ENTITY pref_developer_remotedebugging_usb "Dadfygio pell drwy USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\&apos;r diwifr">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Mae dadfygio pell drwy\&apos;r diwifr angen i\&apos;ch dyfais gael ap darllenydd QR wedi ei osod.">
-<!ENTITY pref_remember_signons2 "Cofio mewngfnodion">
+<!ENTITY pref_remember_signons2 "Cofio mewngofnodion">
 <!ENTITY pref_manage_logins "Rheoli mewngofnodion">
 
 <!ENTITY pref_category_home "Cartref">
@@ -696,7 +695,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Rydych wedi cysylltu â">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -884,17 +882,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Gosod Nod Tudalen i eitemau Golwg Darllen i\&apos;w darllen all-lein.">
 <!ENTITY helper_triple_readerview_open_button "Ychwanegu at y Nodau Tudalen">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
-activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Croeso i &brandShortName;">
 <!ENTITY activity_stream_signin_description "Cychwynnwch gydweddu nodau tudalen, cyfrineiriau, a rhagor gyda\&apos;ch cyfrif Firefox.">
-<!ENTITY activity_stream_signin_button "Mewngofnodi">
-
 <!ENTITY activity_stream_signup_button "Ymuno">
 <!ENTITY activity_stream_signin_prompt "Oes gennych chi gyfrif y barod?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Mewngofnodi.">
+
+<!ENTITY activity_stream_signin_button "Mewngofnodi">
 
 <!ENTITY activity_stream_topsites "Hoff Wefannau">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
