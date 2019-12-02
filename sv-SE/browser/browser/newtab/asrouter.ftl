@@ -131,6 +131,7 @@ cfr-whatsnew-pip-cta = Läs mer
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Färre irriterande popup-fönster
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } blockerar nu webbplatser från att automatiskt fråga dig om att skicka popup-meddelanden.
 cfr-whatsnew-permission-prompt-cta = Läs mer
 
 ## Fingerprinter Counter
@@ -143,8 +144,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Fingeravtrycksspårare blockerade
        *[other] Fingeravtrycksspårare blockerade
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blockerar många fingeravtrycksspårare som i hemlighet samlar in information om din enhet och åtgärder för att skapa en reklamprofil av dig.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingeravtrycksspårare
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blockera många fingeravtrycksspårare som i hemlighet samlar in information om din enhet och åtgärder för att skapa en reklamprofil av dig.
 
 ## Bookmark Sync
 
