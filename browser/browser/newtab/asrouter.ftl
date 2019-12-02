@@ -122,6 +122,21 @@ cfr-whatsnew-lockwise-take-body =
     käytön turvallisesti mistä tahansa.
 cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Katso videoita samalla kun selaat
+cfr-whatsnew-pip-cta = Lue lisää
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Vähemmän ärsyttäviä ponnahdusikkunoita
+cfr-whatsnew-permission-prompt-cta = Lue lisää
+
+## Fingerprinter Counter
+
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Yksilöijät
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Saa tämä kirjanmerkki puhelimeesi
