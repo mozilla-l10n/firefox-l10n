@@ -134,6 +134,21 @@ cfr-whatsnew-lockwise-take-body =
     cyfrineiriau wrth gefn o unrhyw le.
 cfr-whatsnew-lockwise-take-link-text = Estyn yr ap
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Gwyliwch fideos wrth i chi bori
+cfr-whatsnew-pip-body = Mae llun-mewn-llun yn gosod fideo i mewn i ffenestr sy'n arnofio, fel y gallwch chi wylio wrth weithio mewn tabiau eraill.
+cfr-whatsnew-pip-cta = Dysgu rhagor
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Llai o lamlenni annifyr
+cfr-whatsnew-permission-prompt-body = Mae { -brand-shorter-name } bellach yn rhwystro gwefannau rhag gofyn yn awtomatig am anfon negeseuon llamlen atoch.
+cfr-whatsnew-permission-prompt-cta = Dysgu rhagor
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Defnyddiwch y nod tudalen hwn ar eich ffôn
