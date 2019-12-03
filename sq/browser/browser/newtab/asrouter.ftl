@@ -116,6 +116,33 @@ cfr-whatsnew-lockwise-take-title = Merrini fjalëkalimet tuaj me vete
 cfr-whatsnew-lockwise-take-body = Aplikacioni { -lockwise-brand-short-name } për celular ju lejon të përdorni në mënyrë të parrezik prej ngado fjalëkalimet që keni kopjeruajtur.
 cfr-whatsnew-lockwise-take-link-text = Merrni aplikacionin
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Shihni video teksa shfletoni
+cfr-whatsnew-pip-body = “Picture-in-picture” e hap videon në një dritare përsipër, kështu që mundeni ta shihni teksa punoni në skeda të tjera.
+cfr-whatsnew-pip-cta = Mësoni më tepër
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Më pak flluska të bezdisshme nga sajte
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name }-i tani u bllokon sajteve të kërkojnë automatikisht t’ju dërgojnë mesazhe flluska.
+cfr-whatsnew-permission-prompt-cta = Mësoni më tepër
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Krijues shenjash gishtash i bllokuar
+       *[other] Krijues shenjash gishtash të bllokuar
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }-i bllokon mjaft nga krijuesit e shenjave të gishtave që grumbullojnë fshehtas informacion mbi pajisjen dhe veprimet tuaja, për të krijuar një profil tuajin të synuar nga reklamuesit.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Krijues shenja gishtash
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name }-i mund të bllokojë krijues shenjash gishtash që grumbullojnë fshehtas informacion mbi pajisjen dhe veprimet tuaja, për të krijuar një profil tuajin të synuar nga reklamuesit.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Merreni këtë faqerojtës në telefonin tuaj

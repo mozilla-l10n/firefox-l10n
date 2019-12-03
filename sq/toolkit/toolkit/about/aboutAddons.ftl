@@ -343,6 +343,10 @@ remove-addon-disabled-button = S’mund të Hiqet <a data-l10n-name="link">Pse?<
 disable-addon-button = Çaktivizoje
 enable-addon-button = Aktivizoje
 expand-addon-button = Më tepër Mundësi
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Aktivizoje
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Mundësi
@@ -446,6 +450,7 @@ discover-heading = Personalizoni { -brand-short-name }-in Tuaj
 shortcuts-heading = Administroni Shkurtore Zgjerimesh
 theme-heading-search-label = Gjeni më tepër tema
 extension-heading-search-label = Gjeni më tepër zgjerime
+default-heading-search-label = Gjeni më tepër shtesa
 addons-heading-search-input =
     .placeholder = Kërkoni te addons.mozilla.org
 addon-page-options-button =
