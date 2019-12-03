@@ -857,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocate partes de iste pagina que non es secur.">
 <!ENTITY identity.passiveLoaded "Partes de iste pagina non es secur (pro exemplo, imagines).">
 <!ENTITY identity.activeLoaded "Tu ha disactivate le protection sur iste pagina.">
-<!ENTITY identity.weakEncryption "Iste pagina usa cryptographia debile.">
+<!ENTITY identity.weakEncryption "Iste pagina usa un cryptographia debile.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Tu connexion a iste sito non es private. Informationes que tu submitte pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).">
