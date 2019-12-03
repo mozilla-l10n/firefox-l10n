@@ -119,17 +119,29 @@ cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = İnternette gezinirken video izleyin
+cfr-whatsnew-pip-body = Görüntü içinde görüntü özelliği, başka sekmelerle çalışırken video izleyebilmeniz için videoyu ayrı bir pencereye koyar.
 cfr-whatsnew-pip-cta = Daha fazla bilgi al
 
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Daha az açılır pencere
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } artık sitelerin size bildirim soruları sormasını engelliyor.
 cfr-whatsnew-permission-prompt-cta = Daha fazla bilgi al
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Engellenen parmak izi toplayıcı
+       *[other] Engellenen parmak izi toplayıcı
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }, reklamcılara özel profilinizi çıkarmak için cihazınız ve eylemleriniz hakkında gizlice bilgi toplayan birçok parmak izi toplayıcıyı engelliyor.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Parmak izi toplayıcılar
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name }, reklamcılara özel profilinizi çıkarmak için cihazınız ve eylemleriniz hakkında gizlice bilgi toplayan parmak izi toplayıcıları engelleyebilir.
 
 ## Bookmark Sync
 
