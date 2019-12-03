@@ -148,8 +148,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [few] Збіральнікі лічбавых адбіткаў заблакавана
        *[many] Збіральнікаў лічбавых адбіткаў заблакавана
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блакуе мноства збіральнікаў лічбавых адбіткаў, якія таемна збіраюць інфармацыю пра вашу прыладу і дзеянні для стварэння вашага рэкламнага профілю.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Збіральнікі лічбавых адбіткаў
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } можа блакаваць збіральнікаў лічбавых адбіткаў, якія таемна збіраюць інфармацыю пра вашу прыладу і дзеянні для стварэння вашага рэкламнага профілю.
 
 ## Bookmark Sync
 
