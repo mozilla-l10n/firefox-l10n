@@ -163,7 +163,7 @@ delete-ca-cert-impact = SI tu dele o non plus confide un certificato de un autor
 delete-email-cert-title =
     .title = Deler certificatos de email
 delete-email-cert-confirm = Desira tu vermente deler le certificatos de email de iste personas?
-delete-email-cert-impact = Si tu dele le certificato de email de un persona, tu non potera plus inviar emails cifrate a ille persona.
+delete-email-cert-impact = Si tu dele le certificato de e-mail de un persona, tu non potera plus inviar messages cryptate a ille persona.
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
