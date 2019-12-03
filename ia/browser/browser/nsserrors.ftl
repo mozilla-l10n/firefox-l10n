@@ -18,7 +18,7 @@ psmerr-hostreusedissuerandserial =
     Tu certificato contine le mesme numero serial que un altere certificato emittite per le autoritate de certification.  Per favor obtene un nove certificato continente un numero serial unic.
 ssl-error-export-only-server = Incapace a communicar in maniera secur. Le par non es compatibile con un cryptographia de alte nivello.
 ssl-error-us-only-server = Incapace a communicar in maniera secur. Le par require un cryptographia de alte nivello que non es compatibile.
-ssl-error-no-cypher-overlap = Incapace a communicar in maniera secur con le par: nulle algorithmos de ciframento in commun.
+ssl-error-no-cypher-overlap = Impossibile communicar in maniera secur con le par: nulle algorithmo cryptographic in commun.
 ssl-error-no-certificate = Incapace a trovar le certificato o le clave necessari pro le authentication.
 ssl-error-bad-certificate = Incapace a communicar in maniera secur con le par: le certificato del par esseva rejectate.
 ssl-error-bad-client = Le servitor incontrava mal datos ex le cliente.

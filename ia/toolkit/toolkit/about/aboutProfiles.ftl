@@ -17,7 +17,7 @@ profiles-flush-restart-button = Reinitiar { -brand-short-name }
 #   $name (String) - Name of the profile
 profiles-name = Profilo: { $name }
 profiles-is-default = Profilo predefinite
-profiles-rootdir = Directorio de radice
+profiles-rootdir = Directorio radice
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
