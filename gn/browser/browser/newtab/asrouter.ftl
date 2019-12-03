@@ -120,10 +120,13 @@ cfr-whatsnew-lockwise-take-link-text = Eguereko tembipuru'i
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Ehecha ta’ãngamýi eikundaha aja
+cfr-whatsnew-pip-body = Picture-in-picture ohechauka ta’ãngamýi ovetã ovevýiva ehecha hag̃ua emba’apo aja ambue tendayképe.
 cfr-whatsnew-pip-cta = Kuaave
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Sa’ive ovetã apysẽ tenda ivaívagui
 cfr-whatsnew-permission-prompt-cta = Kuaave
 
 ## Fingerprinter Counter

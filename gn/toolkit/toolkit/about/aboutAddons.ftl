@@ -341,6 +341,10 @@ remove-addon-disabled-button = Ndaikatúi emboguete <a data-l10n-name="link">¿M
 disable-addon-button = Pe'a
 enable-addon-button = Mbojuruja
 expand-addon-button = Jeporavorãve
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Mbojuruja
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Jerohoryvéva
@@ -444,6 +448,7 @@ discover-heading = Emomba'e nde { -brand-short-name }
 shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
 theme-heading-search-label = Ejuhuvéta téma
 extension-heading-search-label = Ejuhuvéta jepysokue
+default-heading-search-label = Ehekave moimbaha
 addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
 addon-page-options-button =
