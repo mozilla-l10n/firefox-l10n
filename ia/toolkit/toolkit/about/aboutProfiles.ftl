@@ -25,11 +25,11 @@ profiles-rootdir = Directorio de radice
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Directorio local
-profiles-current-profile = Iste profilo es in uso e illo non pote ser delite.
-profiles-in-use-profile = Iste profilo es in uso in un altere application e illo non pote ser delite.
+profiles-current-profile = Iste profilo es in uso e non pote esser delite.
+profiles-in-use-profile = Iste profilo es in uso in un altere application e non pote esser delite.
 profiles-rename = Renominar
 profiles-remove = Remover
-profiles-set-as-default = Definir un profilo predefinite
+profiles-set-as-default = Marcar como profilo predefinite
 profiles-launch-profile = Lancear le profilo in un nove navigator
 profiles-cannot-set-as-default-title = Impossibile configurar le parametros
 profiles-cannot-set-as-default-message = Le profilo predefinite non pote ser cambiate pro { -brand-short-name }.

@@ -39,8 +39,8 @@ app-basics-update-channel = Canal de actualisation
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Actualisar directorio
-       *[other] Actualisar dossier
+        [linux] Directorio de actualisationes
+       *[other] Dossier de actualisationes
     }
 app-basics-update-history = Chronologia de actualisationes
 app-basics-show-update-history = Monstrar le chronologia del actualisationes
