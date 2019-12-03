@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Lëndën nën Digital Rights Management (DRM)
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = S'keni llogari? Fillojani
 sync-signedout-account-signin =
     .label = Hyni…
     .accesskey = y
+sync-signedout-account-signin2 =
+    .label = Hyni te { -sync-brand-short-name }…
+    .accesskey = H
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = Privatësi Shfletuesi
 ## Privacy Section - Logins and Passwords
 
 logins-header = Kredenciale Hyrjesh & Fjalëkalime
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte
     .accesskey = P
@@ -744,6 +748,7 @@ forms-breach-alerts =
     .label = Shfaq sinjalizime rreth fjalëkalimesh për sajte të cenuar
     .accesskey = S
 forms-breach-alerts-learn-more-link = Mësoni më tepër
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Vetëplotëso kredenciale hyrjeje dhe fjalëkalime
     .accesskey = V
@@ -898,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vetjak
     .accesskey = V
 
-##
+
 
 content-blocking-etp-standard-desc = I baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
 content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktojë mosfunksionim për disa sajte apo lëndë.
@@ -1025,7 +1030,7 @@ addon-recommendations-link = Mësoni më tepër
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportimi i të dhënave është i çaktivizuar për këtë formësim montimi
 collection-backlogged-crash-reports =
-    .label = Lejoje { -brand-short-name }-in të dërgojë njoftime të dikurshme vithisjesh në emrin tuaj
+    .label = Lejojeni { -brand-short-name }-in të dërgojë njoftime të dikurshme vithisjesh në emrin tuaj
     .accesskey = L
 collection-backlogged-crash-reports-link = Mësoni Më Tepër
 
