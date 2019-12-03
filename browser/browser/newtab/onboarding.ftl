@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Merreni { -brand-product-name }-in me Vete
 onboarding-sync-welcome-content = Merrni në krejt pajisjet tuaja faqerojtësit, historikun, fjalëkalimet dhe të tjera rregullime tuajat.
 onboarding-sync-welcome-learn-more-link = Mësoni më tepër rreth Llogarive Firefox
-onboarding-sync-form-invalid-input = Lypset email i vlefshëm
-onboarding-sync-legal-notice = Duke vazhduar, shprehni pajtimin tuaj me <a data-l10n-name="terms">Kushte Shërbimi</a> dhe <a data-l10n-name="privacy">Shënim Mbi Privatësinë</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Vazhdo
@@ -111,8 +109,8 @@ onboarding-data-sync-title = Merreni Me Vete Rregullimet Tuaja
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet, etj, kudo ku përdorni { -brand-product-name }-in.
 onboarding-data-sync-button2 = Hyni në { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Jini Në Dijeni të Shkeljeve të të Dhënave
-onboarding-firefox-monitor-text = { -monitor-brand-name } mbikëqyr se mos email-i juaj është shfaqur në ndonjë shkelje të dhënash dhe ju vë në dijeni nëse shfaqet në një shkelje të re.
+onboarding-firefox-monitor-title = Jini Në Dijeni të Cenimeve të të Dhënave
+onboarding-firefox-monitor-text = { -monitor-brand-name } mbikëqyr se mos email-i juaj është shfaqur në ndonjë cenim të dhënash dhe ju vë në dijeni nëse shfaqet në një cenim të ri.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } mbikëqyr se mos email-i juaj është parë në ndonjë cenim të ditur të dhënash dhe ju sinjalizon nëse shfaqet në një cenim të ri.
 onboarding-firefox-monitor-button = Regjistrohuni për Sinjalizime
 onboarding-browse-privately-title = Shfletoni Privatisht
