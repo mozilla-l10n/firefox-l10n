@@ -118,6 +118,20 @@ cfr-whatsnew-lockwise-take-title = Emportez vos mots de passe avec vous
 cfr-whatsnew-lockwise-take-body = L’application mobile { -lockwise-brand-short-name } vous permet d’accéder en toute sécurité à vos mots de passe sauvegardés depuis n’importe où.
 cfr-whatsnew-lockwise-take-link-text = Obtenir l’application
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Regardez des vidéos pendant que vous naviguez
+cfr-whatsnew-pip-cta = En savoir plus
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Moins de popups de sites pénibles
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } empêche désormais les sites de vous demander automatiquement de vous envoyer des messages dans des popups.
+cfr-whatsnew-permission-prompt-cta = En savoir plus
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Accédez à ce marque-page sur votre téléphone
