@@ -133,10 +133,21 @@ cfr-whatsnew-pip-cta = Даведацца больш
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Менш раздражняльных усплыўных акон
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } цяпер блакуе аўтаматычныя запыты на адпраўку вам усплыўных паведамленняў.
 cfr-whatsnew-permission-prompt-cta = Даведацца больш
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Збіральнік лічбавых адбіткаў заблакаваны
+        [few] Збіральнікі лічбавых адбіткаў заблакавана
+       *[many] Збіральнікаў лічбавых адбіткаў заблакавана
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Збіральнікі лічбавых адбіткаў
 
