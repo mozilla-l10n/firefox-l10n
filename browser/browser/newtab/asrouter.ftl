@@ -116,6 +116,18 @@ cfr-whatsnew-lockwise-take-title = Prenda tes pleds-clav cun tai
 cfr-whatsnew-lockwise-take-body = L'app mobila { -lockwise-brand-short-name } ta permetta dad acceder a moda segira als pleds-clav memorisads, nua ch'i saja.
 cfr-whatsnew-lockwise-take-link-text = Ir per l'app
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Guarda tes videos durant che ti navigheschas
+cfr-whatsnew-pip-body = La funcziun maletg-en-maletg pussibilitescha da spustar videos en ina fanestra separada che sa lascha posiziunar tenor plaschair, ma resta davanttiers. Uschia pos ti guardar videos e lavurar vinavant en auters tabs.
+cfr-whatsnew-pip-cta = Ulteriuras infurmaziuns
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Acceda a quest segnapagina sin tes telefonin
