@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Rregullime mbi Pajisjen">
 <!ENTITY runtimeMenu_showSettings_accesskey "R">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Punim">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -54,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "o">
 
 <!ENTITY projectButton_label "Hapni Aplikacion">
+
 <!ENTITY runtimeButton_label "Përzgjidhni Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +77,6 @@
 <!ENTITY runtimePanel_usb "Pajisje USB">
 <!ENTITY runtimePanel_wifi "Pajisje Wi-Fi">
 <!ENTITY runtimePanel_other "Tjetër">
-<!ENTITY runtimePanel_noadbhelper "Instaloni ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nuk e shihni pajisjen tuaj?">
 <!ENTITY runtimePanel_refreshDevices_label "Rifresko Pajisjet">
 
@@ -120,15 +119,9 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Të dhëna Runtime">
-<!ENTITY runtimedetails_adbIsRoot "ADB-ja është rrënjë: ">
-<!ENTITY runtimedetails_summonADBRoot "pajisje rrënjë">
-<!ENTITY runtimedetails_ADBRootWarning "(lyp nisjengarkues të zhbllokuar)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilegje DevTools të pakufizuara: ">
-<!ENTITY runtimedetails_requestPrivileges "kërko privilegje më të mëdha">
-<!ENTITY runtimedetails_privilegesWarning "(Do të rinisë pajisjen. Lyp akses si rrënjë.)">
 
 <!-- Device Preferences and Settings -->
-<!ENTITY device_typeboolean "Buleane">
+<!ENTITY device_typeboolean "Vlerë buleane">
 <!ENTITY device_typenumber "Numër i plotë">
 <!ENTITY device_typestring "Varg">
 <!ENTITY device_typeobject "Objekt">
