@@ -191,7 +191,7 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Faqeruajeni">
+<!ENTITY overlay_share_bookmark_btn_label "Faqeruaje">
 <!ENTITY overlay_share_bookmark_btn_label_already "E faqeruajtur një herë">
 <!ENTITY overlay_share_send_other "Dërgojeni në pajisje të tjera">
 
@@ -904,7 +904,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "Faqeruajtur">
+<!ENTITY activity_stream_highlight_label_bookmarked "Të faqeruajtura">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Vizituar">
