@@ -69,7 +69,7 @@ app-basics-key-mozilla = Kyç Mozilla Location Service
 app-basics-safe-mode = Mënyrë e Sigurt
 show-dir-label =
     { PLATFORM() ->
-        [macos] Shfaqe Në Finder
+        [macos] Shfaqe në Finder
         [windows] Hape Dosjen
        *[other] Hap Drejtorinë
     }
