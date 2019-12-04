@@ -149,7 +149,7 @@ media-select-folder = Selecione uma pasta para guardar as imagens
 media-unknown-not-cached =
     .value = Desconhecido (não está em cache)
 permissions-use-default =
-    .label = Utilizar predefinições
+    .label = Utilizar predefinição
 security-no-visits = Não
 # This string is used to display the number of meta tags
 # in the General Tab

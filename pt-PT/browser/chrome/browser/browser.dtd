@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Irá precisar de verificar a sua conta antes de poder sincronizar.">
 <!ENTITY fxa.unverified.button.label "Abrir definições do &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Ocultar seletor Imagem na imagem">
-<!ENTITY pictureInPictureHideToggle.accesskey "O">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Sessão iniciada como">
 <!ENTITY fxa.menu.manageAccount.label "Gerir conta…">
 <!ENTITY fxa.menu.syncSettings.label "Definições do &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Ocultar seletor Imagem na imagem">
+<!ENTITY pictureInPictureHideToggle.accesskey "O">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Iniciar sessão no &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ligar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Serviços do &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Conta">
 <!ENTITY fxa.menu.settings.label "Definições">
 <!ENTITY fxa.menu.accountSettings.label "Definições da conta">
@@ -568,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Pesquisar com:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Desta vez, pesquisar com:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -940,18 +933,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Porquê?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "O bloqueio destes pode quebrar elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de autenticação podem não funcionar.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Desligar proteções irá permitir a todos os rastreadores neste site. Também pode melhorar algumas das funcionalidades do site.">
-<!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociais">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookies de monitorização entre sites">
-<!ENTITY protections.trackingContent.label "Conteúdo de monitorização">
-<!ENTITY protections.fingerprinters.label "Identificadores">
-<!ENTITY protections.cryptominers.label "Cripto-mineradores">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.">
 <!ENTITY protections.noTrackersFound.description "Não foi detetado nenhum rastreador conhecido pelo &brandShortName; nesta página.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Estes cookies seguem-no entre os vários sites para recolher dados sobre o que faz na Internet. São definidos por terceiros, como anunciantes e empresas de análise.">
 <!ENTITY protections.cryptominers.description "Os cripto-mineradores utilizam o poder de computação do seu sistema para minerar dinheiro digital. Os scripts de cripto-mineração podem descarregar a sua bateria, tornar o seu computador mais lento e aumentar os custos com a sua fatura elétrica.">
-<!ENTITY protections.fingerprinters.description "Os identificadores recolhem informações do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes.">
+<!ENTITY protections.fingerprinters.description "Os identificadores recolhem definições do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes.">
 <!ENTITY protections.trackingContent2.description "Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar.">
 <!ENTITY protections.socialMediaTrackers.description "As redes sociais colocam rastreadores em outros sites para monitorizar o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais.">
 
@@ -968,7 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Iniciar sessão no &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItemSyncing.label "A sincronizar…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1006,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "G">
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociais">
-
-<!ENTITY contentBlocking.cookies2.label "Cookies de monitorização inter-sites">
 
 <!ENTITY contentBlocking.cryptominers.label "Cripto-mineradores">
 <!ENTITY contentBlocking.cryptominersView.label "Cripto-mineradores">

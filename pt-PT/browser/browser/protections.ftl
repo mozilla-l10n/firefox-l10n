@@ -45,7 +45,7 @@ cookie-tab-content = Estas cookies seguem-no entre vários sites para recolher d
 tracker-tab-title = Monitorização de conteúdo
 tracker-tab-description = Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar. <a data-l10n-name="learn-more-link">Saber mais</a>
 fingerprinter-tab-title = Identificadores
-fingerprinter-tab-content = Os identificadores recolhem informações do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes. <a data-l10n-name="learn-more-link">Saber mais</a>
+fingerprinter-tab-content = Os identificadores recolhem definições do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes. <a data-l10n-name="learn-more-link">Saber mais</a>
 cryptominer-tab-title = Cripto-mineradores
 cryptominer-tab-content = Os cripto-mineradores utilizam o poder de computação do seu sistema para minerar dinheiro digital. Os scripts de cripto-mineração podem descarregar a sua bateria, tornar o seu computador mais lento e aumentar os custos com a sua fatura elétrica. <a data-l10n-name="learn-more-link">Saber mais</a>
 lockwise-title = Nunca mais esqueça uma palavra-passe
@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] A sincronizar para { $count } outros dispositivos
     }
 lockwise-sync-not-syncing-devices = Não está a sincronizar para outros dispositivos
+manage-connected-devices = Gerir dispositivos…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Ligado a { $count } dispositivo
+       *[other] Ligado a { $count } dispositivos
+    }
 monitor-title = Procurar por violações de dados
 monitor-link = Como funciona
 monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas intrusões.
