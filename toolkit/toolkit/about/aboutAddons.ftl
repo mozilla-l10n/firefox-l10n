@@ -340,6 +340,10 @@ remove-addon-disabled-button = 제거할 수 없음. <a data-l10n-name="link">�
 disable-addon-button = 사용 안 함
 enable-addon-button = 사용함
 expand-addon-button = 옵션 더보기
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = 사용함
 preferences-addon-button =
     { PLATFORM() ->
         [windows] 설정
@@ -442,6 +446,7 @@ discover-heading = { -brand-short-name } 개인화
 shortcuts-heading = 확장기능 단축키 관리
 theme-heading-search-label = 더 많은 테마
 extension-heading-search-label = 더 많은 확장기능
+default-heading-search-label = 부가기능 더 찾기
 addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색
 addon-page-options-button =
