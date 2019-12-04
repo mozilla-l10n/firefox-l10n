@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Hic sunt leones!
-about-config-warning-text = Ndryshimi i këtyre rregullimeve të thelluara mund të jetë i dëmshëm për qëndrueshmërinë, sigurinë dhe funksionimin e këtij aplikacioni. Do të duhej të vazhdonit vetëm nëse jeni i sigurt për atë çka po bëni.
+about-config-warning-text = Ndryshimi i vlerave për këto rregullime të mëtejshme mund të jetë i dëmshëm për qëndrueshmërinë, sigurinë, dhe funksionimin e këtij aplikacioni. Duhet të vazhdoni vetëm nëse jeni i sigurt për çka po bëni.
 about-config-warning-checkbox = Bezdismëni prapë, ju lutem!
 about-config-warning-button = E pranoj rrezikun
 about-config2-title = Formësime të Thelluara

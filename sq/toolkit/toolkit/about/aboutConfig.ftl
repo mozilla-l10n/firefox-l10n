@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Kjo mund të bënte të pavlefshme garancinë tuaj!
-config-about-warning-text = Ndryshimi i vlerave për këto rregullime të mëtejshme mund të jetë me rrezik për qëndrueshmërinë, sigurinë, dhe punimin e këtij aplikacioni. Do të ishte mirë të vazhdonit vetëm nëse e dini se ç'jeni duke bërë.
+config-about-warning-text = Ndryshimi i vlerave për këto rregullime të mëtejshme mund të jetë i dëmshëm për qëndrueshmërinë, sigurinë, dhe funksionimin e këtij aplikacioni. Duhet të vazhdoni vetëm nëse jeni i sigurt për çka po bëni.
 config-about-warning-button =
     .label = E pranoj rrezikun!
 config-about-warning-checkbox =

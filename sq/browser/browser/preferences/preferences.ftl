@@ -655,7 +655,7 @@ sync-currently-syncing-prefs =
        *[other] Parapëlqime
     }
 sync-change-options =
-    .label = Ndryshojeni…
+    .label = Ndryshojini…
     .accesskey = N
 
 ## The "Choose what to sync" dialog.
