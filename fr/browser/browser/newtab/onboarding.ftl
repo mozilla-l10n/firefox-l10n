@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Emportez { -brand-product-name } avec vous
 onboarding-sync-welcome-content = Accédez à vos marque-pages, votre historique, vos mots de passe et d’autres paramètres sur l’ensemble de vos appareils.
 onboarding-sync-welcome-learn-more-link = En savoir plus sur les comptes Firefox
-onboarding-sync-form-invalid-input = Adresse électronique valide requise
-onboarding-sync-legal-notice = En continuant, vous acceptez les <a data-l10n-name="terms">Conditions d’utilisation</a> et la <a data-l10n-name="privacy">Politique de confidentialité</a>.
 onboarding-sync-form-input =
     .placeholder = Adresse électronique
 onboarding-sync-form-continue-button = Continuer
@@ -151,6 +149,7 @@ onboarding-facebook-container-title = Fixez les limites avec Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } conserve votre profil séparé de tout le reste. Il est ainsi plus difficile pour Facebook de vous cibler avec des publicités.
 onboarding-facebook-container-button = Installer l’extension
 onboarding-import-browser-settings-title = Importez vos marque-pages, mots de passe et plus encore
+onboarding-import-browser-settings-text = Récupérez facilement vos sites et vos paramètres à partir de Chrome et commencez à naviguer immédiatement.
 onboarding-import-browser-settings-button = Importer des données de Chrome
 
 ## Message strings belonging to the Return to AMO flow
