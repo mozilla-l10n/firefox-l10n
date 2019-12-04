@@ -112,9 +112,21 @@ cfr-whatsnew-lockwise-backup-link-text = Nyalakan pencadangan
 cfr-whatsnew-lockwise-take-title = Bawa sandi ke mana Anda pergi
 cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Dapatkan markah ini di telepon Anda
+cfr-doorhanger-sync-bookmarks-body = Bawa markah, kata sandi, riwayat dan lainnya di mana pun Anda masuk ke { -brand-product-name }
+cfr-doorhanger-sync-bookmarks-ok-button = Aktifkan { -sync-brand-short-name }
+    .accesskey = A
 
 ## Login Sync
 
@@ -132,6 +144,7 @@ cfr-doorhanger-send-tab-ok-button = Coba Kirim Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Bagikan PDF ini dengan aman
+cfr-doorhanger-firefox-send-body = Jaga dokumen rahasia Anda dari pengintip dengan menggunakan penyandian ujung-ke-ujung dan tautan yang menghilang saat sudah selesai.
 cfr-doorhanger-firefox-send-ok-button = Coba { -send-brand-name }
     .accesskey = C
 
@@ -141,8 +154,14 @@ cfr-doorhanger-socialtracking-ok-button = Tampilkan Proteksi
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Tutup
     .accesskey = T
+cfr-doorhanger-socialtracking-dont-show-again = Jangan tampilkan pesan seperti ini lagi
+    .accesskey = J
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } menghentikan sebuah jejaring sosial melacak Anda di sini
+cfr-doorhanger-socialtracking-description = Privasi Anda sangatlah penting. { -brand-short-name } sekarang memblokir pelacak media sosial umum, dengan membatasi jumlah data yang dapat mereka kumpulkan tentang semua yang Anda lakukan saat daring.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } memblokir pelacak sidik pada laman ini
-cfr-doorhanger-fingerprinters-description = Privasi Anda penting. Kini { -brand-short-name } dapat memblokir pelacak sidik, yang mengumpulkan informasi unik teridentifikasi tentang perangkat yang melacak Anda.
+cfr-doorhanger-fingerprinters-description = Privasi Anda penting. Kini { -brand-short-name } sekarang memblokir pelacak sidik, yang mengumpulkan informasi unik teridentifikasi tentang perangkat untuk melacak Anda.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } memblokir penambang kripto pada laman ini
+cfr-doorhanger-cryptominers-description = Privasi Anda penting. { -brand-short-name } sekarang memblokir penambang kripto, yang menggunakan daya komputasi sistem Anda untuk menambang uang digital.
 
 ## Enhanced Tracking Protection Milestones
 
@@ -151,5 +170,7 @@ cfr-doorhanger-fingerprinters-description = Privasi Anda penting. Kini { -brand-
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-       *[other] { -brand-short-name } diblokir dari { $blockedCount }</b> pelacak sejak { $date }!
+       *[other] { -brand-short-name } telah memblokir lebih dari <b>{ $blockedCount }</b> pelacak sejak { $date }!
     }
+cfr-doorhanger-milestone-ok-button = Lihat Semua
+    .accesskey = L

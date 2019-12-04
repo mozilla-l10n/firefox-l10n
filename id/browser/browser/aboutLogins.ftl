@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = Log Masuk dan Kata Sandi
+about-logins-page-title = Info Masuk dan Kata Sandi
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Cari Info Masuk
 create-login-button = Buat Info Masuk Baru
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon untuk { $title }
 fxaccounts-sign-in-text = Dapatkan kata sandi Anda di perangkat lain
 fxaccounts-sign-in-button = Masuk ke { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -57,7 +52,7 @@ login-list-intro-title = Tidak ada info masuk ditemukan
 login-list-intro-description = Ketika Anda menyimpan kata sandi di { -brand-product-name }, itu akan muncul di sini.
 about-logins-login-list-empty-search-title = Tidak ada info masuk ditemukan
 about-logins-login-list-empty-search-description = Tidak ada hasil pencarian yang cocok
-login-list-item-title-new-login = Log Masuk Baru
+login-list-item-title-new-login = Info Masuk Baru
 login-list-item-subtitle-new-login = Masukkan kredensial info masuk Anda
 login-list-item-subtitle-missing-username = (tidak ada nama pengguna)
 
@@ -68,6 +63,7 @@ login-intro-description = Jika Anda menyimpan info masuk Anda di { -brand-produc
 login-intro-instruction-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
 login-intro-instruction-fxa-settings = Pastikan Anda telah memilih kotak centang Info Masuk pada Pengaturan { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a> untuk bantuan lebih lanjut
+about-logins-intro-import = Jika info masuk Anda tersimpan dalam peramban lain, Anda dapat <a data-l10n-name="import-link">mengimpor data tersebut ke { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -103,11 +99,8 @@ master-password-reload-button =
     .label = Masuk
     .accesskey = M
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Batal
-confirmation-dialog-dismiss-button =
-    .title = Batal
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Ingin mendapatkan info masuk Anda di mana saja menggunakan { -brand-product-name }? Buka Pengaturan { -sync-brand-short-name } dan pilih kotak centang Info Masuk.
@@ -121,6 +114,13 @@ enable-password-sync-preferences-button =
         }
     .accesskey = K
 confirm-delete-dialog-title = Hapus info masuk ini?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Batal
+confirmation-dialog-dismiss-button =
+    .title = Batal
+about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
 confirm-delete-dialog-confirm-button = Hapus
 confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
@@ -136,10 +136,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Entri untuk { $loginTitle } dengan nama pengguna tersebut sudah ada.
 # This is a generic error message.
 about-logins-error-message-default = Terjadi kesalahan saat mencoba menyimpan kata sandi ini.
