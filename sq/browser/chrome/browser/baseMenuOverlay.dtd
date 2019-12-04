@@ -14,7 +14,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ndihmë"> 
 <!ENTITY helpMenuWin.accesskey    "N">
-<!ENTITY aboutProduct2.label      "Rreth &brandShorterName;-it">
+
+<!ENTITY aboutProduct2.label      "Mbi &brandShorterName;-in">
 <!ENTITY aboutProduct2.accesskey  "R">
 <!ENTITY productHelp2.label       "Ndihmë mbi &brandShorterName;-in">
 <!ENTITY productHelp2.accesskey   "N">

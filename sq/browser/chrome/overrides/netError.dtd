@@ -177,10 +177,11 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
 
-<!ENTITY securityOverride.exceptionButton1Label "Pranoje Rrezikun dhe Vazhdo">
+<!ENTITY securityOverride.exceptionButton1Label "Pranoni Rrezikun dhe Vazhdoni">
 
 <!ENTITY errorReporting.automatic2 "Raportoni gabime si ky, që të ndihmoni Mozilla-n të identifikojë dhe bllokojë sajte dashakeqë">
 <!ENTITY errorReporting.learnMore "Mësoni më tepër…">
@@ -223,4 +224,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "Aktivizoni TLS 1.0 dhe 1.1">
 
 <!ENTITY networkProtocolError.title "Gabim Protokolli Rrjeti">
-<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’ua bërë të ditur këtë problem.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.</li></ul>">
