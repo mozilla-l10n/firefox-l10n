@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-title = Njoftues vithisjesh skedash
-crashed-close-tab-button = Mbylleni Skedën
+crashed-close-tab-button = Mbylle Skedën
 crashed-restore-tab-button = Riktheje Këtë Skedë
 crashed-restore-all-button = Riktheji Krejt Skedat e Vithisura
 crashed-header = Oh! Skeda juaj u vithis.
