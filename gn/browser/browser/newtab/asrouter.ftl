@@ -127,6 +127,7 @@ cfr-whatsnew-pip-cta = Kuaave
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Sa’ive ovetã apysẽ tenda ivaívagui
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ojokóma umi tenda ani hag̃ua ojerure ijehegui oñembou hag̃ua ñe’ẽmondo apysẽva.
 cfr-whatsnew-permission-prompt-cta = Kuaave
 
 ## Fingerprinter Counter
@@ -139,8 +140,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Ojejokóma kuãhũ
        *[other] Ojejokóma kuãhũnguéra
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ojokóma heta kuãhũ kuaaukaha ombyatýva kañyháme marandu ne mba’e’oka rehegua omoheñói hag̃ua imba’ete ñemurãva.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Ñemokuãhũ
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } ikatu ojoko heta kuãhũ kuaaukaha ombyatýva kañyháme marandu ne mba’e’oka rehegua ha omyandy omoheñói hag̃ua imba’ete ñemurãva.
 
 ## Bookmark Sync
 
