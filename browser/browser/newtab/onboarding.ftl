@@ -50,8 +50,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Bawa { -brand-product-name } bersama Anda
 onboarding-sync-welcome-content = Dapatkan markah, riwayat, sandi, dan setelan lainnya di semua peranti Anda.
 onboarding-sync-welcome-learn-more-link = Pelajari selengkapnya tentang Firefox Accounts
-onboarding-sync-form-invalid-input = Surel harus valid
-onboarding-sync-legal-notice = Dengan melanjutkan, Anda menyetujui <a data-l10n-name="terms">Ketentuan Layanan</a> dan <a data-l10n-name="privacy">Pernyataan Privasi</a>.
 onboarding-sync-form-input =
     .placeholder = Surel
 onboarding-sync-form-continue-button = Lanjutkan
@@ -135,7 +133,7 @@ onboarding-lockwise-passwords-title = Bawa Sandi Anda ke Mana Saja
 onboarding-lockwise-passwords-text2 = Simpan kata sandi yang Anda simpan dengan aman dan mudah masuk ke akun Anda dengan { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Dapatkan Aplikasinya
 onboarding-lockwise-strong-passwords-title = Buat dan Simpan Sandi yang Kuat
-onboarding-lockwise-strong-passwords-button = Kelola Log masuk Anda
+onboarding-lockwise-strong-passwords-button = Kelola Info Masuk Anda
 onboarding-facebook-container-title = Tetapkan Batas dengan Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } menjaga profil Anda terpisah dari hal lainnya, menjadikan Facebook lebih sulit untuk menargetkan Anda dengan iklan.
 onboarding-facebook-container-button = Tambahkan Ekstensi
