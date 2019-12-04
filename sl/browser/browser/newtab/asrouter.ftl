@@ -128,6 +128,17 @@ cfr-whatsnew-lockwise-take-body =
     varnostno kopiranih gesel kjerkoli.
 cfr-whatsnew-lockwise-take-link-text = Prenesite aplikacijo
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Več o tem
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Več o tem
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Pošljite si ta zaznamek na telefon
