@@ -16,8 +16,8 @@ psmerr-hostreusedissuerandserial =
     Tu ha recipite un certificato invalide.  Per favor contacta le administrator del servitor o le correspondente de email e da les le sequente information:
     
     Tu certificato contine le mesme numero serial que un altere certificato emittite per le autoritate de certification.  Per favor obtene un nove certificato continente un numero serial unic.
-ssl-error-export-only-server = Incapace a communicar in maniera secur. Le par non es compatibile con un cryptographia de alte nivello.
-ssl-error-us-only-server = Incapace a communicar in maniera secur. Le par require un cryptographia de alte nivello que non es compatibile.
+ssl-error-export-only-server = Impossibile communicar in maniera secur. Le par non supporta cryptographia de alte nivello.
+ssl-error-us-only-server = Impossibile communicar in maniera secur. Le par require cryptographia de un alte nivello que non es supportate.
 ssl-error-no-cypher-overlap = Impossibile communicar in maniera secur con le par: nulle algorithmo cryptographic in commun.
 ssl-error-no-certificate = Incapace a trovar le certificato o le clave necessari pro le authentication.
 ssl-error-bad-certificate = Incapace a communicar in maniera secur con le par: le certificato del par esseva rejectate.
@@ -105,12 +105,12 @@ ssl-error-bad-handshake-hash-value = Recipite valores hash incorrecte in le nego
 ssl-error-cert-kea-mismatch = Le certificato providite non pote esser usate con le algorithmo de excambio de claves seligite.
 ssl-error-no-trusted-ssl-client-ca = Nulle autoritate de certification es digne de fide pro le authentication cliente SSL.
 ssl-error-session-not-found = Le identificante del session cliente SSL non ha essite trovate in le cache de session del servitor.
-ssl-error-decryption-failed-alert = Le par esseva incapace a decryptar un registration SSL que illo recipeva.
+ssl-error-decryption-failed-alert = Le par non poteva decryptar un registro SSL que illo recipeva.
 ssl-error-record-overflow-alert = Le par recipeva un registration SSL que esseva plus longe que permittite.
 ssl-error-unknown-ca-alert = Le par non recognosce, ni confide in le CA que emitteva tu certificato.
 ssl-error-access-denied-alert = Le par recipeva un certificato valide, ma le accesso era negate.
 ssl-error-decode-error-alert = Le par non ha potite decodificar un message de negotiation de connexion SSL.
-ssl-error-decrypt-error-alert = Le par informa un falta in le verification del signatura o in le excambio del claves.
+ssl-error-decrypt-error-alert = Le par reporta un falta in le verification del signatura o in le excambio de claves.
 ssl-error-export-restriction-alert = Le negotiation de reportos de pares non es in conformitate con le regulationes de exportation.
 ssl-error-protocol-version-alert = Le par reporta un version de protocollo incompatibile o non supportate.
 ssl-error-insufficient-security-alert = Le servitor require cifras plus secur que illos supportate per le cliente.
