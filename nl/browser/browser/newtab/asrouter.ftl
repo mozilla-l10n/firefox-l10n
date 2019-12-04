@@ -124,10 +124,14 @@ cfr-whatsnew-lockwise-take-link-text = App downloaden
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Bekijk video’s terwijl u surft
+cfr-whatsnew-pip-body = Picture-in-picture zet een video in een zwevend venster, zodat u kunt kijken terwijl u op andere tabbladen werkt.
 cfr-whatsnew-pip-cta = Meer info
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Minder vervelende pop-ups van websites
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } verhindert nu dat websites u automatisch vragen of ze u pop-upberichten mogen sturen.
 cfr-whatsnew-permission-prompt-cta = Meer info
 
 ## Fingerprinter Counter
@@ -140,8 +144,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Fingerprinter geblokkeerd
        *[other] Fingerprinters geblokkeerd
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkeert veel fingerprinters, die stiekem informatie over uw apparaat en handelingen verzamelen om een advertentieprofiel van u te maken.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan fingerprinters, die stiekem informatie over uw apparaat en handelingen verzamelen om een advertentieprofiel van u te maken, blokkeren.
 
 ## Bookmark Sync
 
