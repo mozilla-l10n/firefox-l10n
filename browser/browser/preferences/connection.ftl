@@ -70,17 +70,17 @@ connection-proxy-socks-remote-dns =
     .label = Encaminhar DNS via proxy ao utilizar SOCKS v5
     .accesskey = D
 connection-dns-over-https =
-    .label = Ativar DNS por HTTPS
+    .label = Ativar DNS sob HTTPS
     .accesskey = H
 connection-dns-over-https-url-resolver = Utilizar fornecedor
     .accesskey = f
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
-    .label = { $name } (predefinido)
-    .tooltiptext = Utilize o URL predefinido para resolver DNS por HTTPS
+    .label = { $name } (predefinição)
+    .tooltiptext = Utilize o endereço predefinido para resolver DNS sob HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizar
     .accesskey = P
-    .tooltiptext = Introduza o seu URL preferido para resolver DNS por HTTPS
+    .tooltiptext = Introduza o endereço que pretende utilizar para resolver DNS sob HTTPS
 connection-dns-over-https-custom-label = Personalizar
