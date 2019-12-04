@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "독 아이콘 옵션…">
 <!ENTITY writeNewMessageDock.label      "새 메시지 작성">
 <!ENTITY openAddressBookDock.label      "주소록 열기">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "한 페이지 뒤로 가기">
+<!ENTITY browseForwardButton.tooltip "한 페이지 앞으로 가기">
