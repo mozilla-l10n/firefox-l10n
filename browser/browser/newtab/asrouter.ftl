@@ -127,10 +127,13 @@ cfr-whatsnew-lockwise-take-link-text = Wobstarajće sej nałoženje
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Wobhladajće sej wideja, mjeztym zo přehladujeće
+cfr-whatsnew-pip-body = Funkcija Wobraz-we-wobrazu widejo w znošowacym so woknje pokazuje, zo byšće sej jo móhł wobhladać, hdyž w druhich rajtarkach dźěłaće.
 cfr-whatsnew-pip-cta = Dalše informacije
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Mjenje nawalnych wuskakowacych woknow
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } nětko websydła při tym haći, awtomatisce so prašeć, hač smědźa wuskakowace powěsće pósłać.
 cfr-whatsnew-permission-prompt-cta = Dalše informacije
 
 ## Fingerprinter Counter
@@ -145,8 +148,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [few] Porstowe wotćišće zablokowane
        *[other] Porstowe wotćišće zablokowane
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } wjele porstowych ćišćow blokuje, kotrež informacije wo wašim graće a akcijach hromadźa, zo bychu wabjenski profil wo was wutworili.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Porstowe wotćišće
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } móže wjele porstowych ćišćow blokować, kotrež informacije wo wašim graće a akcijach hromadźa, zo bychu wabjenski profil wo was wutworili.
 
 ## Bookmark Sync
 
