@@ -308,9 +308,13 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Zgjerimet dhe temat janë si aplikacione për shfletuesin tuaj, dhe ju lejojnë të mbroni fjalëkalimet, të shkarkoni video, të gjeni pazare me leverdi, të bllokoni reklama bezdisëse, të ndryshoni pamjen e shfletuesit tuaj, etj. Këta programe të vegjël software shpesh krijohen nga një palë e tretë. Ja një përzgjedhje { -brand-product-name }
-    <a data-l10n-name="learn-more-trigger">rekomandimesh</a> për siguri, punim dhe funksione të veçanta. 
-    security, performance, and functionality.
+    Zgjerimet dhe temat janë si aplikacione për shfletuesin tuaj, dhe ju lejojnë
+    të mbroni fjalëkalimet, të shkarkoni video, të gjeni pazare me leverdi,
+    të bllokoni reklama bezdisëse, të ndryshoni pamjen e shfletuesit tuaj, etj.
+    Këta programe të vegjël software shpesh krijohen nga një palë e tretë.
+    Ja një përzgjedhje që { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">rekomandon</a>, për siguri, punim dhe
+    funksione të jashtëzakonshme.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
 discopane-notice-learn-more = Mësoni më tepër
