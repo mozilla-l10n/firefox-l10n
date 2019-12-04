@@ -90,7 +90,7 @@ extension-controlled-web-notifications = Un extension, <img data-l10n-name="icon
 extension-controlled-default-search = Un extension, <img data-l10n-name="icon"/> { $name }, ha definite le motor de recerca ordinari.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Un extension, <img data-l10n-name="icon"/> { $name }, necessita le schedas contextual.
+extension-controlled-privacy-containers = Un extension, <img data-l10n-name="icon"/> { $name }, require schedas contextual.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Le extension <img data-l10n-name="icon"/>{ $name } controla iste configuration.
@@ -160,7 +160,7 @@ show-tabs-in-taskbar =
     .label = Monstrar vistas preliminar del schedas in le barra de cargas de Windows
     .accesskey = v
 browser-containers-enabled =
-    .label = Activar le schedas contextual
+    .label = Activar schedas contextual
     .accesskey = n
 browser-containers-learn-more = Saper plus
 browser-containers-settings =
@@ -560,7 +560,7 @@ search-keyword-warning-bookmark = Tu ha eligite un parola clave que es actualmen
 
 ## Containers Section
 
-containers-back-link = « Regressar
+containers-back-link = « Retornar
 containers-header = Schedas contextual
 containers-add-button =
     .label = Adder un nove contexto

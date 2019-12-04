@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY newUserContext.label             "Nove scheda contextual">
 <!ENTITY newUserContext.accesskey         "c">
-<!ENTITY manageUserContext.label          "Gerer le continitores">
+<!ENTITY manageUserContext.label          "Gerer le contextos">
 <!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Nove fenestra">
 <!ENTITY newNavigatorCmd.key        "N">
