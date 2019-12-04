@@ -35,7 +35,7 @@ manage-messenger-languages-button =
     .label = Caktoni Alternativa…
     .accesskey = C
 confirm-messenger-language-change-description = Që të hyjnë në fuqi këto ndryshime, rinisni { -brand-short-name }-in
-confirm-messenger-language-change-button = Zbatoji dhe Rinisu
+confirm-messenger-language-change-button = Zbatoje dhe Rinisu
 update-pref-write-failure-title = Dështim Shkrimi
 # Variables:
 #   $path (String) - Path to the configuration file

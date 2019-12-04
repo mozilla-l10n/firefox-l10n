@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Dërgojini një mesazh të atypëratyshëm ose fjalosuni me të">
 <!ENTITY deleteButton2.tooltip                          "Fshijeni objektin e përzgjedhur">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Libra Adresash">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Emër ose Email">
 <!ENTITY SearchNameOrEmail.accesskey                    "E">
@@ -197,7 +194,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "E">
 <!ENTITY NickName.label                                 "Nofkash">
 <!ENTITY NickName.accesskey                             "N">
-<!ENTITY SecondEmail.label                              "Email-esh Shtesë">
+<!ENTITY SecondEmail.label                              "Email Shtesë">
 <!ENTITY SecondEmail.accesskey                          "S">
 <!ENTITY Department.label                               "Degësh">
 <!ENTITY Department.accesskey                           "D">

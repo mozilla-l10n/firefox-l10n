@@ -40,7 +40,7 @@
 <!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Mesazh">
 <!ENTITY  newMessageCmd.accesskey "m">
-<!ENTITY  newContactCmd.label "Kontakt nga Libri i Adresave…">
+<!ENTITY  newContactCmd.label "Kontakt nga Libër Adresash…">
 <!ENTITY  newContactCmd.accesskey "K">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
