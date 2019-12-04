@@ -29,7 +29,7 @@
 <!ENTITY helpFeedbackPage.label "Parashtroni Përshtypjet…">
 <!ENTITY helpFeedbackPage.accesskey "P">
 
-<!ENTITY helpShowTour2.label "Tur i &brandShorterName;-it">
+<!ENTITY helpShowTour2.label "Tur &brandShorterName;-i">
 <!ENTITY helpShowTour2.accesskey "T">
 
 <!ENTITY helpGetInvolvedPage.label "Përfshihuni">

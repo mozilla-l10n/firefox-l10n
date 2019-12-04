@@ -153,6 +153,7 @@
 <!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
 
@@ -183,4 +184,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Faqe e Bllokuar">
 
 <!ENTITY networkProtocolError.title "Gabim Protokolli Rrjeti">
-<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim te protokolli i rrjetit.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t’u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
