@@ -163,7 +163,7 @@ extensions-view-recent-updates =
     .name = Përditësime Së Fundi
     .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
-    .name = Përditësime të Passhme
+    .name = Përditësime të Gatshme
     .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings

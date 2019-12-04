@@ -51,5 +51,5 @@ browser-languages-select-language =
     .label = Përzgjidhni gjuhë për t’u shtuar…
     .placeholder = Përzgjidhni gjuhë për t’u shtuar…
 browser-languages-installed-label = Gjuhë të instaluara
-browser-languages-available-label = Gjuhë të Mundshme
+browser-languages-available-label = Gjuhë të gatshme
 browser-languages-error = { -brand-short-name } nuk mund të përditësojë gjuhët tuaja tani. Kontrolloni se jeni të lidhur në internet ose riprovoni.
