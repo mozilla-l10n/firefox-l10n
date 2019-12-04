@@ -122,6 +122,33 @@ cfr-whatsnew-lockwise-take-body =
     qualquer lugar às cópias de segurança das suas palavras-passe.
 cfr-whatsnew-lockwise-take-link-text = Obter a aplicação
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Assista a vídeos enquanto navega
+cfr-whatsnew-pip-body = A funcionalidade de imagem na imagem apresenta o vídeo numa janela flutuante para que possa assistir enquanto trabalha em outros separadores.
+cfr-whatsnew-pip-cta = Saber mais
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Menos pop-ups irritantes do site
+cfr-whatsnew-permission-prompt-body = O { -brand-shorter-name } agora impede que os sites solicitem de forma automática o envio de mensagens pop-up.
+cfr-whatsnew-permission-prompt-cta = Saber mais
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Identificador bloqueado
+       *[other] Identificadores bloqueados
+    }
+cfr-whatsnew-fingerprinter-counter-body = O { -brand-shorter-name } bloqueia muitos identificadores que recolhem informações em segredo sobre o seu dispositivo e ações para criar um perfil de publicidade sobre si.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Identificadores
+cfr-whatsnew-fingerprinter-counter-body-alt = O { -brand-shorter-name } pode bloquear muitos identificadores que recolhem informações em segredo sobre o seu dispositivo e ações para criar um perfil de publicidade sobre si.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obtenha este marcador no seu telemóvel
