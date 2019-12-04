@@ -41,3 +41,6 @@ prečo stránka používa nedôveryhodnú identifikáciu.">
 <!ENTITY certerror.addException.label "Pridať výnimku…">
 
 <!ENTITY certerror.technical.heading "Technické podrobnosti">
+
+<!ENTITY dnsNotFound.pageTitle "Server sa nenašiel">
+<!ENTITY malformedURI.pageTitle "Neplatná URL adresa">
