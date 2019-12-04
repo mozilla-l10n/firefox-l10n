@@ -10,6 +10,19 @@ about-config-warning-button = Prihvatam rizik
 about-config2-title = Napredne konfiguracije
 about-config-search-input =
     .placeholder = Pretraga
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Nastavite s oprezom
+about-config-intro-warning-text = Promjena naprednih postavki u konfiguraciji može uticati na performanse ili sigurnost { -brand-short-name }a.
+about-config-intro-warning-checkbox = Upozori me kada pokušam pristupiti ovim postavkama
+about-config-intro-warning-button = Prihvati rizik i nastavi
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Promjena ovih postavki može uticati na performanse ili sigurnost { -brand-short-name }a.
+about-config-page-title = Napredne postavke
 about-config-show-all = Prikaži sve
 about-config-pref-add = Dodaj
 about-config-pref-toggle = Uključi/isključi
