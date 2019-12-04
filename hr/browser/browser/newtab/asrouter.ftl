@@ -123,6 +123,18 @@ cfr-whatsnew-lockwise-take-body =
     tvojim lozinkama sigurnosnih kopija s bilo kojeg mjesta.
 cfr-whatsnew-lockwise-take-link-text = Preuzmi aplikaciju
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Gledaj videozapise dok pregledavaš
+cfr-whatsnew-pip-cta = Saznaj više
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Saznaj više
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Preuzmi ovu oznaku na svoj mobitel
