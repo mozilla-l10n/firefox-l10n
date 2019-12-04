@@ -45,9 +45,6 @@ newtab-topsites-save-button = Enregistrer
 newtab-topsites-preview-button = Aperçu
 newtab-topsites-add-button = Ajouter
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Voulez-vous vraiment supprimer de l’historique toutes les occurrences de cette page ?
@@ -99,10 +96,6 @@ newtab-menu-remove-bookmark = Supprimer le marque-page
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marquer cette page
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -131,10 +124,6 @@ newtab-label-removed-bookmark = Marque-page supprimé
 newtab-label-recommended = Tendance
 newtab-label-saved = Enregistré dans { -pocket-brand-name }
 newtab-label-download = Téléchargé
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -188,6 +177,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oups, il semblerait que la
 newtab-pocket-read-more = Sujets populaires :
 newtab-pocket-more-recommendations = Plus de recommandations
 newtab-pocket-how-it-works = Mode d’emploi
+newtab-pocket-whats-pocket = { -pocket-brand-name }, qu’est-ce que c’est ?
 newtab-pocket-cta-button = Installer { -pocket-brand-name }
 newtab-pocket-cta-text = Enregistrez les articles que vous aimez dans { -pocket-brand-name }, et stimulez votre imagination avec des lectures fascinantes.
 
