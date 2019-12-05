@@ -12,7 +12,7 @@ cert-error-trust-unknown-issuer-intro = Alcuno possibilemente tenta usurpar le i
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Le sitos web garanti lor identitate per certificatos. { -brand-short-name } non confide in { $hostname } perque su emissor de certificato es incognite, le certificato es auto-signate o le servitor non invia le certificatos intermedie correcte.
-cert-error-trust-cert-invalid = Le certificato non es digne de fide perque illo era emittite per un CA non valide.
+cert-error-trust-cert-invalid = Le certificato non es digne de fide perque illo ha essite emittite per un CA non valide.
 cert-error-trust-untrusted-issuer = Le certificato non es digne de fide perque le certificato del emissor non es digne de fide.
 cert-error-trust-signature-algorithm-disabled = Le certificato non es digne de fide perque illo ha essite signate con un algorithmo de signatura que ha essite disactivate perque ille algorithmo non es secur.
 cert-error-trust-expired-issuer = Le certificato non es digne de fide perque le certificato del emissor ha expirate.
