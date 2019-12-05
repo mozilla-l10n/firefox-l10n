@@ -48,7 +48,7 @@
 <!ENTITY onemonthforward.tooltip "Një Muaj Më Tej" >
 <!ENTITY oneyearbackward.tooltip "Një Vit Mbrapa" >
 <!ENTITY oneyearforward.tooltip "Një Vit Pas" >
-<!ENTITY showToday.tooltip "Shkoni te Sot">
+<!ENTITY showToday.tooltip "Shko te Sot">
 <!ENTITY onedayforward.tooltip "Një Ditë Më Tej">
 <!ENTITY onedaybackward.tooltip "Një Ditë Mbrapsht">
 <!ENTITY showselectedday.tooltip "Shfaqni veprimtari për ditën e përzgjedhur">

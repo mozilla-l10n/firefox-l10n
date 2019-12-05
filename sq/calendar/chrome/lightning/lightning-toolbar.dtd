@@ -14,7 +14,7 @@
 <!ENTITY lightning.toolbar.edit.label "Përpunojeni">
 <!ENTITY lightning.toolbar.edit.tooltip "Përpunoni veprimtari ose punë të përzgjedhura">
 <!ENTITY lightning.toolbar.gototoday.label "Shko te Sot">
-<!ENTITY lightning.toolbar.gototoday.tooltip "Shkoni te Sot">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Shko te Sot">
 <!ENTITY lightning.toolbar.print.label "Shtype">
 <!ENTITY lightning.toolbar.print.tooltip "Shtypni veprimtari ose punë">
 
