@@ -88,6 +88,10 @@ urlbar-camera-blocked =
     .tooltiptext = Kat amajlu ivatz u eesan vatzib'ale' tu atinb'ale' vaa'.
 urlbar-microphone-blocked =
     .tooltiptext = Kat amajlu ivatz tab'il ayol tu atinb'ale' vaa'.
+urlbar-screen-blocked =
+    .tooltiptext = Kat imajlu u vaa' aq'al uva' ye' la ik'uch u vee' naq'ovu kat.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ka imajlu ivatz kaajayil unq'a eetze' ato'k tu web tzitza'.
 
 ## Page Action Context Menu
 
