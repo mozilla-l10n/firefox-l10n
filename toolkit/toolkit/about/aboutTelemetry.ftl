@@ -109,7 +109,7 @@ about-telemetry-current-data-sidebar = të dhëna të tanishme
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = krejt
 # button label to copy the histogram
-about-telemetry-histogram-copy = Kopje
+about-telemetry-histogram-copy = Kopjoje
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Deklarime SQL të Ngadalta në Rrjedhën Kryesore
 about-telemetry-slow-sql-other = Deklarime SQL të Ngadalta në Rrjedhat Ndihmëse
