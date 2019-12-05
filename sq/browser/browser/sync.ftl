@@ -9,5 +9,5 @@ fxa-toolbar-sync-syncing-tabs =
 sync-disconnect-dialog-title = Të shkëputet { -sync-brand-short-name }-u?
 sync-disconnect-dialog-body = { -brand-product-name } do të reshtë së njëkohësuari llogarinë tuaj, por në këtë pajisje s’do të fshihet ndonjë e dhënë tuaja e shfletimit.
 fxa-disconnect-dialog-title = Të shkëputet { -brand-product-name }?
-fxa-disconnect-dialog-body = { -brand-product-name } do të shkëputet prej llogarisë tuaj, por në këtë pajisje s’do të fshihet ndonjë e dhënë tuaja e shfletimit.
+fxa-disconnect-dialog-body = { -brand-product-name } do të shkëputet nga llogaria juaj, por në këtë pajisje s’do të fshihet ndonjë e dhënë tuaja e shfletimit.
 sync-disconnect-dialog-button = Shkëputu

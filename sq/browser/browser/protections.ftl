@@ -45,7 +45,7 @@ cookie-tab-content = Këto cookies ju ndjekin nga sajti në sajt për të grumbu
 tracker-tab-title = Lëndë Gjurmimi
 tracker-tab-description = Sajtet mund të ngarkojnë reklama, video dhe tjetër lëndë të jashtme me kod gjurmimi. Bllokimi i lëndës gjurmuese mund të ndihmojë për ngarkimin më të shpejtë të sajteve, por disa butona, formularë dhe fusha kredenciale hyrjesh mund të mos punojnë. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 fingerprinter-tab-title = Krijues shenja gishtash
-fingerprinter-tab-content = Krijuesit e shenjave të gishtave (<em>Fingerprinters</em>) grumbullojnë rregullime nga shfletuesi dhe kompjuteri juaj për të krijuar një profil rreth jush. Duke përdorur këto shenja gishtash dixhitale, ata mund t’ju ndjekin nëpër sajte të ndryshme. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
+fingerprinter-tab-content = Krijuesit e shenjave të gishtave (<em>Fingerprinters</em>) grumbullojnë rregullime nga shfletuesi dhe kompjuteri juaj për të krijuar një profil rreth jush. Duke përdorur këto shenja dixhitale gishtash, ata mund t’ju ndjekin nëpër sajte të ndryshme. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 cryptominer-tab-title = Nxjerrës kriptomonedhash
 cryptominer-tab-content = Nxjerrësit e kriptomonedhave e përdorin fuqinë përllogaritëse të sistemit tuaj për të nxjerrë para dixhitale. Programthet për nxjerrje kriptomonedhash konsumojnë energjinë e baterisë tuaj, ngadalësojnë kompjuterin tuaj dhe mund të sjellin shtim të faturës tuaj për energjinë. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 lockwise-title = Mos harroni kurrë më një fjalëkalim

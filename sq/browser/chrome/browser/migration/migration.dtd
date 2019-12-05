@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Importues">
 
-<!ENTITY importFrom.label               "Importo Mundësi, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
+<!ENTITY importFrom.label               "Importo Mundësi, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera nga:">
 <!ENTITY importFromUnix.label           "Importo Parapëlqime, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
-<!ENTITY importFromBookmarks.label      "Importo Faqerojtës prej:">
+<!ENTITY importFromBookmarks.label      "Importo Faqerojtës nga:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
