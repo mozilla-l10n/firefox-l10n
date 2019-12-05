@@ -33,7 +33,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "F">
 <!ENTITY cmd.copyDownloadLink.label       "Kopjo Lidhjen e Shkarkimit">
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
-<!ENTITY cmd.removeFromHistory.label      "Hiqe Prej Historiku">
+<!ENTITY cmd.removeFromHistory.label      "Hiqe Nga Historiku">
 <!ENTITY cmd.removeFromHistory.accesskey  "H">
 <!ENTITY cmd.clearList2.label             "Spastroje Panelin e Paraparjeve">
 <!ENTITY cmd.clearList2.accesskey         "P">
