@@ -30,7 +30,7 @@
 <!ENTITY actualSize.label "Madhësia Faktike:">
 <!ENTITY actualSizeRadio.label "Madhësia Faktike">
 <!ENTITY actualSizeRadio.accessKey "M">
-<!ENTITY actualSizeRadio.tooltip "Rikthehuni tek madhësia e vërtetë e figurës">
+<!ENTITY actualSizeRadio.tooltip "Rikthejeni tek madhësia e vërtetë e figurës">
 <!ENTITY customSizeRadio.label "Madhësi Vetjake">
 <!ENTITY customSizeRadio.accessKey "V">
 <!ENTITY customSizeRadio.tooltip "Ndryshoni përmasa figure siç shfaqet tek faqja">

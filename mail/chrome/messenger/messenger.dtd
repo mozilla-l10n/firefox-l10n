@@ -196,7 +196,7 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "v">
 <!ENTITY sortBySubjectCmd.label "Subjektesh">
 <!ENTITY sortBySubjectCmd.accesskey "s">
-<!ENTITY sortByFromCmd.label "Prej">
+<!ENTITY sortByFromCmd.label "Nga">
 <!ENTITY sortByFromCmd.accesskey "J">
 <!ENTITY sortByRecipientCmd.label "Marrësish">
 <!ENTITY sortByRecipientCmd.accesskey "ë">
@@ -698,7 +698,7 @@
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subjekt">
-<!ENTITY searchFromMenu.label "Prej">
+<!ENTITY searchFromMenu.label "Nga">
 <!ENTITY searchSubjectOrFromMenu.label "Subjekt ose Prej">
 <!ENTITY searchRecipient.label "Për ose Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Subjekt, Për ose Cc">
@@ -708,7 +708,7 @@
 <!-- Thread Pane -->
 <!ENTITY selectColumn.label "Përzgjidhni Mesazhe">
 <!ENTITY threadColumn.label "Rrjedhë">
-<!ENTITY fromColumn.label "Prej">
+<!ENTITY fromColumn.label "Nga">
 <!ENTITY recipientColumn.label "Marrës">
 <!ENTITY correspondentColumn.label "Korrespondentë">
 <!ENTITY subjectColumn.label "Subjekt">
