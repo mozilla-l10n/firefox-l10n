@@ -122,6 +122,33 @@ cfr-whatsnew-lockwise-take-body =
     tagong ta jo wachtwurden.
 cfr-whatsnew-lockwise-take-link-text = App downloade
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Besjoch fideo's wylst jo sneupe
+cfr-whatsnew-pip-body = Picture-in-picture set in fideo yn in swevend finster, sadat jo sjen kinne wylst jo op oare ljepblêden wurkje.
+cfr-whatsnew-pip-cta = Mear ynfo
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Minder ferfelende pop-ups fan websites
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ferhinderet no dat websites jo automatysk freegje of se jo pop-upberjochten stjoere meie.
+cfr-whatsnew-permission-prompt-cta = Mear ynfo
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Fingerprinter blokkearre
+       *[other] Fingerprinters blokkearre
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkearret in protte fingerprinters, dy't stikem ynformaasje oer jo apparaat en hannelingen sammelje om in advertinsjeprofyl fan jo te meitsjen.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kin fingerprinters, dy't stikem ynformaasje oer jo apparaat en hannelingen sammelje om in advertinsjeprofyl fan jo te meitsjen, blokkearje.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Dizze blêdwizer op jo telefoan ûntfange
