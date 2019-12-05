@@ -996,8 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Nxjerrës kriptomonedhash">
 <!ENTITY contentBlocking.cryptominersView.label "Nxjerrës kriptomonedhash">
 
-<!ENTITY contentBlocking.fingerprinters.label "Zbulues shenja gishtash">
-<!ENTITY contentBlocking.fingerprintersView.label "Zbulues shenja gishtash">
+<!ENTITY contentBlocking.fingerprinters.label "Krijues shenja gishtash">
+<!ENTITY contentBlocking.fingerprintersView.label "Krijues shenja gishtash">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportoni një problem">
 <!ENTITY contentBlocking.breakageReportView.label "Raportoni Probleme">

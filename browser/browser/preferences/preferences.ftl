@@ -350,7 +350,7 @@ update-pref-write-failure-title = Dështim Shkrimi
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = S’arrihet të ruhet parapëlqimi. S’u shkrua dot te kartela: { $path }
-update-setting-write-failure-title = Gabim në ruajtjen e parapëlqimeve të Përditësimit
+update-setting-write-failure-title = Gabim në ruajtje parapëlqimesh Përditësimi
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -869,7 +869,7 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motor�
 
 content-blocking-header = Bllokim Lënde
 content-blocking-section-description = Mbroni privatësinë tuaj teksa shfletoni. Bllokoni lëndë të padukshme që gjurmon sajtet që vizitoni dhe që krijojnë një profil tuajin. Bllokimi i një pjese të kësaj lënde mund të sjellë ngarkim më të shpejtë të faqeve.
-content-blocking-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimet
+content-blocking-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimi
 content-blocking-section-top-level-description = Gjurmuesit ju ndjekin nëpër internet për të grumbulluar të dhëna rreth zakoneve dhe interesave tuaja të shfletimit. { -brand-short-name } bllokon mjaft prej këtyre gjurmuesve dhe programtheve të tjerë dashakeqë.
 content-blocking-learn-more = Mësoni më tepër
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -952,8 +952,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Zbulues shenjash gishtash
-    .accesskey = Z
+    .label = Krijues shenja gishtash
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
