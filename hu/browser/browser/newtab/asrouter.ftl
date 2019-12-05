@@ -120,6 +120,33 @@ cfr-whatsnew-lockwise-take-title = Vigye magával a jelszavait
 cfr-whatsnew-lockwise-take-body = A { -lockwise-brand-short-name } mobilalkalmazással bárhol biztonságosan hozzáférhet a jelszavaihoz.
 cfr-whatsnew-lockwise-take-link-text = Alkalmazás beszerzése
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Nézzen videókat böngészés közben
+cfr-whatsnew-pip-body = A kép a képben mód egy lebegő ablakba teszi a videót, így nézheti, miközben más lapokon dolgozik.
+cfr-whatsnew-pip-cta = További tudnivalók
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Kevesebb idegesítő felugró ablak
+cfr-whatsnew-permission-prompt-body = A { -brand-shorter-name } most már blokkolja azokat az oldalakat, melyek automatikusan azt kérik, hogy felugró üzeneteket küldjenek.
+cfr-whatsnew-permission-prompt-cta = További tudnivalók
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Ujjlenyomat-készítő blokkolva
+       *[other] Ujjlenyomat-készítők blokkolva
+    }
+cfr-whatsnew-fingerprinter-counter-body = A { -brand-shorter-name } számos ujjlenyomat-készítőt blokkol, amelyek titokban információt gyűjtenek az eszközéről és a műveleteiről, hogy hirdetési profilt építsenek Önről.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Ujjlenyomat-készítők
+cfr-whatsnew-fingerprinter-counter-body-alt = A { -brand-shorter-name } képes blokkolni az ujjlenyomat-készítőket, amelyek titokban információt gyűjtenek az eszközéről és a műveleteiről, hogy hirdetési profilt építsenek Önről.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Vigye át ezt a könyvjelzőt a telefonjára

@@ -351,6 +351,10 @@ remove-addon-disabled-button = Nem távolítható el <a data-l10n-name="link">Mi
 disable-addon-button = Letiltás
 enable-addon-button = Engedélyezés
 expand-addon-button = További beállítások
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Engedélyezés
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Beállítások
@@ -454,6 +458,7 @@ discover-heading = A { -brand-short-name } testreszabása
 shortcuts-heading = Kiegészítő-gyorsbillentyűk kezelése
 theme-heading-search-label = További témák keresése
 extension-heading-search-label = További kiegészítők keresése
+default-heading-search-label = Több kiegészítő keresése
 addons-heading-search-input =
     .placeholder = Keresés itt: addons.mozilla.org
 addon-page-options-button =
