@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Eksportoni Faqerojtës si HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Importoni Të dhëna prej Tjetër Shfletuesi…">
+<!ENTITY importOtherBrowser.label          "Importoni Të dhëna nga Tjetër Shfletues…">
 <!ENTITY importOtherBrowser.accesskey      "T">
 
 <!ENTITY cmd.backup.label               "Kopjeruani…">
