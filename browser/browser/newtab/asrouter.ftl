@@ -116,6 +116,33 @@ cfr-whatsnew-lockwise-take-title = Les vostres contrasenyes, a tot arreu
 cfr-whatsnew-lockwise-take-body = L'aplicació mòbil del { -lockwise-brand-short-name } us permet accedir de manera segura a les contrasenyes desades des de qualsevol lloc.
 cfr-whatsnew-lockwise-take-link-text = Baixa l'aplicació
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Mireu vídeos mentre navegueu
+cfr-whatsnew-pip-body = La imatge sobre imatge mostra el vídeo en una finestra flotant perquè pugueu mirar-lo mentre treballeu en altres pestanyes.
+cfr-whatsnew-pip-cta = Més informació
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Menys missatges emergents molestos
+cfr-whatsnew-permission-prompt-body = Ara el { -brand-shorter-name } impedeix que els llocs us demanin automàticament enviar-vos missatges emergents.
+cfr-whatsnew-permission-prompt-cta = Més informació
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Generador d'empremtes digitals blocat
+       *[other] Generadors d'empremtes digitals blocats
+    }
+cfr-whatsnew-fingerprinter-counter-body = El { -brand-shorter-name } bloca molts generadors d'empremtes digitals que secretament recullen informació sobre el vostre dispositiu i les vostres accions per crear un perfil publicitari vostre.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Generadors d'empremtes digitals
+cfr-whatsnew-fingerprinter-counter-body-alt = El { -brand-shorter-name } pot blocar els generadors d'empremtes digitals que secretament recullen informació sobre el vostre dispositiu i les vostres accions per crear un perfil publicitari vostre.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Accediu a aquesta adreça d'interès des del vostre telèfon
