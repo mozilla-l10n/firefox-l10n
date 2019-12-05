@@ -350,6 +350,10 @@ remove-addon-disabled-button = <a data-l10n-name="link">Miksi</a> tätä ei voi 
 disable-addon-button = Poista käytöstä
 enable-addon-button = Käytä
 expand-addon-button = Lisää valintoja
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Ota käyttöön
 preferences-addon-button = Asetukset
 details-addon-button = Tiedot
 release-notes-addon-button = Julkaisutiedot
@@ -449,6 +453,7 @@ discover-heading = Tee { -brand-short-name }ista mieleisesi
 shortcuts-heading = Laajennusten pikanäppäinten hallinta
 theme-heading-search-label = Etsi lisää teemoja
 extension-heading-search-label = Etsi lisää laajennuksia
+default-heading-search-label = Etsi lisää lisäosia
 addons-heading-search-input =
     .placeholder = Etsi addons.mozilla.orgista
 addon-page-options-button =
