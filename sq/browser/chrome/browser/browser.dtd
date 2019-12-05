@@ -164,7 +164,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "Rregullime të &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Lidhni Një Tjetër Pajisje…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Lidhni Tjetër Pajisje…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Hyni te &brandProductName;">
@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Fshih Anështyllë Skedash të Njëkohësuara">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Një Tjetër Pajisje">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Tjetër Pajisje">
 
 <!ENTITY appMenuRecentHighlights.label "Nxjerrje Në Pah Së Fundi">
 
@@ -984,7 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Për të bllokuar krejt gjurmuesit, caktoni “Strikt” për bllokimin e lëndës.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
-<!ENTITY contentBlocking.cookiesView.label "Cookies dhe të Dhëna Sajti">
+<!ENTITY contentBlocking.cookiesView.label "Cookies dhe të Dhëna Sajtesh">
 
 <!ENTITY contentBlocking.trackingProtection4.label "Lëndë Gjurmimi">
 
