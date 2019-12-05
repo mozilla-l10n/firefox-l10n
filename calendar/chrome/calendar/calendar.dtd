@@ -58,7 +58,7 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Renditini sipas kohësh afati">
 <!ENTITY calendar.unifinder.close.tooltip                  "Mbyllni kërkim veprimtarish dhe listë veprimtarish">
 
-<!ENTITY calendar.today.button.tooltip          "Shkoni te Sot" >
+<!ENTITY calendar.today.button.tooltip          "Shko te Sot" >
 <!ENTITY calendar.todaypane.button.tooltip      "Shfaqni Kuadratin për të Sotmen" >
 
 <!ENTITY calendar.day.button.tooltip            "Kaloni te pamje dite" >
@@ -134,7 +134,7 @@
 <!ENTITY calendar.task.filter.current.accesskey     "P">
 
 <!ENTITY calendar.task-details.title.label           "titull">
-<!ENTITY calendar.task-details.organizer.label       "prej">
+<!ENTITY calendar.task-details.organizer.label       "nga">
 <!ENTITY calendar.task-details.priority.label        "përparësi">
 <!ENTITY calendar.task-details.priority.low.label    "E ulët">
 <!ENTITY calendar.task-details.priority.normal.label "Normale">
