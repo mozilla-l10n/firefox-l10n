@@ -6,7 +6,7 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Kontrollo për Përditësime »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Po shihet për përditësime…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nuk ka përditësime të passhme">
-<!ENTITY aboutPage.checkForUpdates.available2   "Shkarkoje përditësimin">
+<!ENTITY aboutPage.checkForUpdates.available2   "Shkarko përditësimin">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Po shkarkohet përditësimi…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instaloni përditësimin">
 <!ENTITY aboutPage.faq.label                    "FAQ">
