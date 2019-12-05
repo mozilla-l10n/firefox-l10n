@@ -4,7 +4,7 @@
 
 appmenu-update-available =
     .label = Ka gati një përditësim të ri për { -brand-shorter-name }-in.
-    .buttonlabel = Shkarkoje Përditësimin
+    .buttonlabel = Shkarko Përditësimin
     .buttonaccesskey = k
     .secondarybuttonlabel = Jo Tani
     .secondarybuttonaccesskey = J
