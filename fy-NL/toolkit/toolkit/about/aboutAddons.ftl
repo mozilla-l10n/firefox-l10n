@@ -354,6 +354,10 @@ remove-addon-disabled-button = Kin net fuortsmiten wurde <a data-l10n-name="link
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
 expand-addon-button = Mear opsjes
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Ynskeakelje
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opsjes
@@ -457,6 +461,7 @@ discover-heading = Personalisearje jo { -brand-short-name }
 shortcuts-heading = Utwreidingsfluchtoetsen beheare
 theme-heading-search-label = Mear tema’s sykje
 extension-heading-search-label = Mear útwreidingen sykje
+default-heading-search-label = Mear add-ons sykje
 addons-heading-search-input =
     .placeholder = addons.mozilla.org trochsykje
 addon-page-options-button =
