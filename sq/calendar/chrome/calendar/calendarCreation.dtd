@@ -16,7 +16,7 @@
 <!ENTITY locationpage.password.label      "Fjalëkalim:" >
 
 <!ENTITY custompage.shortdescription  "Përshtateni kalendarin tuaj" >
-<!ENTITY custompage.longdescription   "Mund t&apos;i jepni kalendarit tuaj një nofkë dhe veprimtarive prej këtij kalendari ngjyra." >
+<!ENTITY custompage.longdescription   "Mund t&apos;i jepni kalendarit tuaj një nofkë dhe të ngjyrosni veprimtari nga ky kalendar." >
 
 <!ENTITY finishpage.shortdescription  "Kalendari u Krijua" >
 <!ENTITY finishpage.longdescription   "Kalendari juaj u krijua." >

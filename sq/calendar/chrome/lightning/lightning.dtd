@@ -64,7 +64,7 @@
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Hidhe poshtë">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Hidhe poshtë kundërpropozimin">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Fshijeni">
-<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Fshijeni prej kalendarit">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Fshijeni nga kalendari">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Hollësi…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Shfaqni hollësi veprimtarie">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Më tepër">

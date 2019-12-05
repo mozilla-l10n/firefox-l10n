@@ -190,10 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Zbatoje propozimin">
 <!ENTITY counter.button.proposal.accesskey                "b">
-<!ENTITY counter.button.proposal.tooltip2                 "Fushat e veprimtarive do të plotësohen duke përdorur vlera prej kundëpropozimit, vetëm ruajtja me ose pa ndryshime shtesë do të shkaktojë njoftimin e pjesëmarrësve">
+<!ENTITY counter.button.proposal.tooltip2                 "Fushat e veprimtarive do të plotësohen duke përdorur vlera nga kundëpropozimi, vetëm ruajtja me ose pa ndryshime shtesë do të shkaktojë njoftimin e pjesëmarrësve">
 <!ENTITY counter.button.original.label                    "Zbato të dhënat origjinale">
 <!ENTITY counter.button.original.accesskey                "r">
-<!ENTITY counter.button.original.tooltip2                 "Fushat do të plotësohen me vlerat prej veprimtarisë origjinale, të kohës përpara se të bëhej kundërpropozimi origjinal">
+<!ENTITY counter.button.original.tooltip2                 "Fushat do të plotësohen me vlerat nga veprimtaria origjinale, të kohës përpara se të bëhej kundërpropozimi origjinal">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titull:" >
