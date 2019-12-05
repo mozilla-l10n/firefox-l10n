@@ -360,7 +360,7 @@ update-setting-write-failure-message =
     
     S’u shkrua dot te kartela: { $path }
 update-in-progress-title = Përditësim Në Ecuri e Sipër
-update-in-progress-message = Doni që { -brand-short-name }-i të vazhdojë me këtë përditësim?
+update-in-progress-message = Doni që { -brand-short-name }-i të vazhdojë këtë përditësim?
 update-in-progress-ok-button = &Hidhe Tej
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -605,7 +605,7 @@ sync-mobile-promo = Shkarkoni Firefox-in për <img data-l10n-name="android-icon"
 sync-profile-picture =
     .tooltiptext = Ndryshoni foto profili
 sync-disconnect =
-    .label = Shkëputeni…
+    .label = Shkëputni…
     .accesskey = S
 sync-sign-out =
     .label = Dilni…
@@ -665,7 +665,7 @@ sync-choose-what-to-sync-dialog =
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R
-    .buttonlabelextra2 = Shkëputuni…
+    .buttonlabelextra2 = Shkëputni…
     .buttonaccesskeyextra2 = u
 sync-engine-bookmarks =
     .label = Faqerojtësit e Mi

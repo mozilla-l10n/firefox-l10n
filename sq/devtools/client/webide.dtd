@@ -38,7 +38,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Parapëlqime Mbi Pajisjen">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
-<!ENTITY runtimeMenu_showSettings_label "Rregullime mbi Pajisjen">
+<!ENTITY runtimeMenu_showSettings_label "Rregullime Pajisjeje">
 <!ENTITY runtimeMenu_showSettings_accesskey "R">
 <!ENTITY runtimeMenu_showPerformancePanel_label "Punim">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
@@ -135,7 +135,7 @@
 <!ENTITY devicepreference_addnew "Shtoni parapëlqim të ri">
 
 <!-- Device Settings -->
-<!ENTITY devicesetting_title "Rregullime mbi Pajisjen">
+<!ENTITY devicesetting_title "Rregullime Pajisjeje">
 <!ENTITY devicesetting_search "Rregullime mbi kërkimin">
 <!ENTITY devicesetting_newname "Emër rregullimi të ri">
 <!ENTITY devicesetting_newtext "Vlerë rregullimi">

@@ -14,12 +14,7 @@ login-app-promo-apple =
     .alt = Shkarkojeni nga App Store
 login-filter =
     .placeholder = Kërkoni te Kredenciale Hyrjesh
-create-login-button = Krijoni Krendeciale Hyrjesh të Reja
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favikonë për { $title }
+create-login-button = Krijoni Krendeciale të Reja Hyrjesh
 fxaccounts-sign-in-text = Merrni fjalëkalimet tuaj në pajisjet tuaja të tjera
 fxaccounts-sign-in-button = Hyni te { -sync-brand-short-name }-u
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = S’ka përfundime me përput
 login-list-item-title-new-login = Kredenciale të Reja Hyrjeje
 login-list-item-subtitle-new-login = Jepni kredencialet tuaja të hyrjes
 login-list-item-subtitle-missing-username = (pa emër përdoruesi)
-about-logins-list-item-warning-icon =
-    .alt = Ikonë sinjalizimi
-    .title = Sajt i cenuar
 about-logins-list-item-breach-icon =
     .title = Sajt i cenuar
 
@@ -153,11 +145,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Ka tashmë një zë për { $loginTitle } me atë emër përdoruesi.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
