@@ -18,7 +18,7 @@ cert-error-trust-signature-algorithm-disabled = Dëshmia nuk është e besueshme
 cert-error-trust-expired-issuer = Dëshmia nuk është besuar, sepse dëshmia e lëshuesit ka skaduar.
 cert-error-trust-self-signed = Dëshmia nuk është besuar, sepse është e vetë-nënshkruar.
 cert-error-trust-symantec = Dëshmitë e lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte, dhe VeriSign nuk konsiderohen më gjatë të sigurta, ngaqë këto autoritete dëshmish nuk kanë ndjekur praktika sigurie në të kaluarën.
-cert-error-untrusted-default = Dëshmia nuk vjen prej një burimi të besuar.
+cert-error-untrusted-default = Dëshmia nuk vjen nga një burim i besuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish. { -brand-short-name } nuk i zë besë këtij sajti ngaqë përdor një dëshmi që s’është e vlefshme për { $hostname }.
@@ -46,7 +46,7 @@ cert-error-not-yet-valid-now = Sajtet e dëshmojnë identitetin e tyre përmes d
 cert-error-code-prefix-link = Kod gabimi: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish, të cilat lëshohen nga autoritete dëshmish. Shumica e shfletuesve nuk u besojnë më dëshmive të lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte, dhe VeriSign. { $hostname } përdor një dëshmi prej njërit prej këtyre autoritete, ndaj identiteti i sajtit s’mund të provohet.
+cert-error-symantec-distrust-description = Sajtet e dëshmojnë identitetin e tyre përmes dëshmish, të cilat lëshohen nga autoritete dëshmish. Shumica e shfletuesve nuk u besojnë më dëshmive të lëshuara nga GeoTrust, RapidSSL, Symantec, Thawte, dhe VeriSign. { $hostname } përdor një dëshmi nga njëri prej këtyre autoriteteve, ndaj identiteti i sajtit s’mund të provohet.
 cert-error-symantec-distrust-admin = Mundeni të njoftoni përgjegjësin e sajtit mbi këtë problem.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.

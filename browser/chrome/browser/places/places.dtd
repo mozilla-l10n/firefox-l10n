@@ -87,7 +87,7 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importoni dhe kopjeruani faqerojtësit tuaj">
 
-<!ENTITY backButton.tooltip  "Kthehuni mbrapsht">
+<!ENTITY backButton.tooltip  "Kthehu mbrapsht">
 
 <!ENTITY forwardButton.tooltip  "Vazhdoni përpara">
 

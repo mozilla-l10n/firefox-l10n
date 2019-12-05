@@ -11,7 +11,7 @@ safeb-blocked-malware-page-short-desc = { -brand-short-name } e bllokoi këtë f
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name }-i e bllokoi këtë faqe ngaqë, mund të provojë t’ju mashtrojë dhe të instaloni programe që dëmtojnë shfletimin tuaj (për shembull, duke ndryshuar faqen tuaj hyrëse ose duke shfaqur reklama shtesë në sajte që vizitoni).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name }-i e bllokoi këtë faqe, ngaqë mund të përpiqet të instalojë aplikacione të rrezikshme që vjedhin ose fshijnë të dhëna tuajat (për shembull, foto, fjalëkalime, mesazhe dhe karta kreditit).
 safeb-palm-advisory-desc = Këshillimi u dha nga <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
-safeb-palm-accept-label = Kthehuni mbrapsht
+safeb-palm-accept-label = Kthehu mbrapsht
 safeb-palm-see-details-label = Shihni hollësitë
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar si sajt i rrejshëm</a>. Mundeni <a data-l10n-name='report_detection'>të raportoni një problem me këtë vlerësim</a> ose <a data-l10n-name='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt jo i parrezik.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> është <a data-l10n-name='error_desc_link'>raportuar si sajt i rrejshëm</a>. Mundeni <a data-l10n-name='report_detection'>të raportoni një problem me këtë vlerësim</a>.
