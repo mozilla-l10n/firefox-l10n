@@ -176,6 +176,9 @@ onboarding-send-tabs-title = Posílejte si panely mezi zařízeními
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Posílání panelů funguje jako okamžité sdílení stránek mezi vašimi zařízeními. Nemusíte nic kopírovat ani opouštět prohlížeč.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Sdílejte a posílejte stránky mezi svými zařízeními. Nemusíte kopírovat žádné odkazy ani opouštět prohlížeč.
 onboarding-send-tabs-button = Začít posílat panely
 onboarding-pocket-anywhere-title = Čtěte a nechte si číst
 onboarding-pocket-anywhere-text2 = Uložte si svůj oblíbený obsah offline s { -pocket-brand-name(case: "ins") } pro přečtení nebo poslech ve chvíli, kdy se vám to opravdu hodí.
@@ -183,9 +186,15 @@ onboarding-pocket-anywhere-button = Vyzkoušet { -pocket-brand-name(case: "acc")
 onboarding-lockwise-passwords-title = Mějte svá hesla všude s sebou
 onboarding-lockwise-passwords-text2 = Ukládejte svá hesla bezpečně pomocí { -lockwise-brand-name(case: "gen") }, který vám usnadní rychlé přihlašování do vašich účtů.
 onboarding-lockwise-passwords-button2 = Stáhnout aplikaci
+onboarding-lockwise-strong-passwords-title = Vytváření silných hesel
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } vám na místě vygeneruje silná hesla a uloží je bezpečně na jednom místě.
+onboarding-lockwise-strong-passwords-button = Správa přihlašovacích údajů
 onboarding-facebook-container-title = Nastavte hranice pro Facebook
 onboarding-facebook-container-text2 = Doplněk { -facebook-container-brand-name } oddělí váš účet od zbytku internetu, takže pro Facebook a jeho reklamy nebude tak snadné vás na internetu vysledovat.
 onboarding-facebook-container-button = Nainstalovat rozšíření
+onboarding-import-browser-settings-title = Importujte své záložky, hesla a další data
+onboarding-import-browser-settings-text = Pojďme na to — přenos oblíbených stránek a nastavení z Chromu je velmi jednoduchý.
+onboarding-import-browser-settings-button = Import dat z prohlížeče Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
