@@ -116,12 +116,26 @@ cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Sledujte videa během brouzdání
+cfr-whatsnew-pip-body = V režimu obraz v obraze se video přehrává v samostatném plovoucím okně, takže ho můžete sledovat i při práci v jiných panelech.
+cfr-whatsnew-pip-cta = Zjistit více
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Méně otravných vyskakovacích oken
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } brání stránkám v dotazech na posílání vyskakovacích upozornění.
+cfr-whatsnew-permission-prompt-cta = Zjistit více
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header = Zablokováno vytvoření otisku prohlížeče
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokuje mnoho způsobů vytváření otisku prohlížeče, které tajně sbírají informace o vašem zařízení, aby si vytvořily profil pro sledování vašich dalších aktivit.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Vytváření otisku prohlížeče
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } blokuje vytváření otisku prohlížeče, které tajně sbírá informace o vašem zařízení pro vytvoření vašeho reklamního profilu
 
 ## Bookmark Sync
 
