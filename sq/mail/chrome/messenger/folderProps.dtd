@@ -39,12 +39,12 @@
 
 <!ENTITY offlineFolder.check.label               "Përzgjidheni këtë dosje për përdorim jashtë linje">
 <!ENTITY offlineFolder.check.accesskey           "P">
-<!ENTITY offlineFolder.button.label              "Shkarko Tani">
+<!ENTITY offlineFolder.button.label              "Shkarkoje Tani">
 <!ENTITY offlineFolder.button.accesskey          "S">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Përzgjidheni këtë grup lajmesh për jashtë linje">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "P">
-<!ENTITY offlineNewsgroup.button.label           "Shkarko Tani">
+<!ENTITY offlineNewsgroup.button.label           "Shkarkoje Tani">
 <!ENTITY offlineNewsgroup.button.accesskey       "S">
 
 <!ENTITY folderProps.name.label                  "Emër:">
