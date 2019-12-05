@@ -45,7 +45,7 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = La jaj u atinb'ale' MIDI
 urlbar-eme-notification-anchor =
-    .tooltiptext = Tilpu isuuchil kam ib'anb'el u sofware DRM
+    .tooltiptext = Tilpu isuuchil kam ib'anb'el u software DRM
 urlbar-web-authn-anchor =
     .tooltiptext = Jaj u tatinb'al u web uva' ankuxhe' la b'anon
 urlbar-canvas-notification-anchor =
@@ -78,6 +78,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Kolel kan unq'a yole' uva' at chitu'
 urlbar-addons-notification-anchor =
     .tooltiptext = Jaj u tatinb'al unq'a yole' uve' at ve't ok ti' itz'ajsab' tetz
+urlbar-tip-help-icon =
+    .title = La lej lochb'al
+urlbar-geolocation-blocked =
+    .tooltiptext = Kat amajlu ivatz u atinb'ale' uve' at kat axh tu web vaa'.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Kat amajlu ivatz unq'a nachb'ale' tu web vaa'
+urlbar-camera-blocked =
+    .tooltiptext = Kat amajlu ivatz u eesan vatzib'ale' tu atinb'ale' vaa'.
+urlbar-microphone-blocked =
+    .tooltiptext = Kat amajlu ivatz tab'il ayol tu atinb'ale' vaa'.
 
 ## Page Action Context Menu
 
