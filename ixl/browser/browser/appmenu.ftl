@@ -7,4 +7,16 @@
 
 appmenuitem-protection-report-title = B'ekb'al tetz kulb'al aq'on.
 appmenuitem-protection-report-tooltip =
-    .tooltiptext = Il ivatz u aq'one' ve eetz kuxhtu.
+    .tooltiptext = Il ivatz u aq'one' uve' eetz kuxhtu'
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Jetz' tzan
+appmenuitem-zoom-reduce =
+    .label = Ch'oob'isa
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Ik'ultib' skaajayil
