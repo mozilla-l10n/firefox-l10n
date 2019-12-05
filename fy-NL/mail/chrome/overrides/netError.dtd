@@ -164,6 +164,9 @@
 <!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
 <!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 
+<!ENTITY xfoBlocked.title "Blokkearre troch belied foar X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; hat opkeard dat de side yn dizze kontekst laden waard, omdat de side in belied foar X-Frame-Options hat dat dit net tastiet.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Skansearre-ynhâldsflater">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
 
