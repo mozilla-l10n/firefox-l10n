@@ -138,7 +138,7 @@ confirm-discard-changes-dialog-confirm-button = Hidhe tej
 
 ## Breach Alert notification
 
-breach-alert-text = Që prej herës së fundit që përditësuat hollësi të kredencialeve tuaja të hyrjeve, ka patur rrjedhje ose vjedhje fjalëkalimesh prej këtij sajti. Që të mbroni llogarinë tuaj, ndryshoni fjalëkalimin tuaj për të.
+breach-alert-text = Që nga hera e fundit që përditësuat hollësi të kredencialeve tuaja të hyrjeve, te ky sajt ka patur rrjedhje ose vjedhje fjalëkalimesh. Që të mbroni llogarinë tuaj, ndryshoni fjalëkalimin tuaj për të.
 breach-alert-link = Mësoni më tepër mbi këtë cenim.
 breach-alert-dismiss =
     .title = Mbylle këtë sinjalizim

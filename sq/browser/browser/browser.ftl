@@ -41,7 +41,7 @@ urlbar-identity-button =
 urlbar-services-notification-anchor =
     .tooltiptext = Hapni panelin e mesazheve të instalimit
 urlbar-web-notification-anchor =
-    .tooltiptext = Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo
+    .tooltiptext = Ndryshoni zgjedhjen për nëse mund të merrni njoftime nga sajti apo jo
 urlbar-midi-notification-anchor =
     .tooltiptext = Hapni panel MIDI
 urlbar-eme-notification-anchor =
@@ -110,7 +110,7 @@ page-action-add-to-urlbar =
 page-action-manage-extension =
     .label = Administroni Zgjerime…
 page-action-remove-from-urlbar =
-    .label = Hiqe prej Shtylle Adresash
+    .label = Hiqe nga Shtyllë Adresash
 
 ## Auto-hide Context Menu
 

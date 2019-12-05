@@ -301,7 +301,7 @@ shortcuts-card-expand-button =
     }
 shortcuts-card-collapse-button = Shfaq Më Pak
 go-back-button =
-    .tooltiptext = Shkoni mbrapsht
+    .tooltiptext = Kthehuni mbrapsht
 
 ## Recommended add-ons page
 

@@ -40,13 +40,10 @@ newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një UR
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anuloje
-newtab-topsites-delete-history-button = Fshije prej Historiku
+newtab-topsites-delete-history-button = Fshije nga Historiku
 newtab-topsites-save-button = Ruaje
 newtab-topsites-preview-button = Paraparje
 newtab-topsites-add-button = Shtoje
-
-## Top Sites - Delete history confirmation dialog. 
-
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -79,7 +76,7 @@ newtab-menu-open-new-private-window = Hape në Dritare të Re Private
 newtab-menu-dismiss = Hidhe tej
 newtab-menu-pin = Fiksoje
 newtab-menu-unpin = Shfiksoje
-newtab-menu-delete-history = Fshije prej Historiku
+newtab-menu-delete-history = Fshije nga Historiku
 newtab-menu-save-to-pocket = Ruaje te { -pocket-brand-name }
 newtab-menu-delete-pocket = Fshije nga { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkivoje në { -pocket-brand-name }
@@ -99,16 +96,12 @@ newtab-menu-remove-bookmark = Hiqe Faqerojtësin
 # Bookmark is a verb here.
 newtab-menu-bookmark = Faqerojtës
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Kopjo Lidhjen e Shkarkimit
 newtab-menu-go-to-download-page = Shko Te Faqja e Shkarkimit
-newtab-menu-remove-download = Hiqe Prej Historiku
+newtab-menu-remove-download = Hiqe nga Historiku
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -131,10 +124,6 @@ newtab-label-removed-bookmark = Faqerojtësi u hoq
 newtab-label-recommended = Në modë
 newtab-label-saved = Ruajtur te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Administroni Cookies dhe të Dhëna Sajtesh
-site-data-settings-description = Sajtet vijuese depozitojnë cookies dhe të dhëna sajtesh në kompjuterin tuaj. { -brand-short-name }-i mban të dhënat prej sajtesh nën depozitim të përhershëm, deri sa t’i fshini, dhe fshin të dhëna nga sajte me depozitim jo të përhershëm dora-dorës që lypset hapësirë.
+site-data-settings-description = Sajtet vijuese depozitojnë cookies dhe të dhëna sajtesh në kompjuterin tuaj. { -brand-short-name }-i mban nën depozitim të përhershëm të dhëna nga sajte, deri sa t’i fshini, dhe fshin të dhëna nga sajte me depozitim jo të përhershëm dora-dorës që lypset hapësirë.
 site-data-search-textbox =
     .placeholder = Kërko në sajte
     .accesskey = K

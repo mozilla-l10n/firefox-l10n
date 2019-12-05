@@ -7,7 +7,7 @@
 
 <!ENTITY loadError.label "Problem në ngarkimin e faqes">
 <!ENTITY retry.label "Riprovoni">
-<!ENTITY returnToPreviousPage.label "Kthehuni Mbrapsht">
+<!ENTITY returnToPreviousPage.label "Kthehu Mbrapsht">
 <!ENTITY returnToPreviousPage1.label "Shko Mbrapsht (E këshilluar)">
 <!ENTITY advanced2.label "Të mëtejshme…">
 <!ENTITY viewCertificate.label "Shihni Dëshmi">
