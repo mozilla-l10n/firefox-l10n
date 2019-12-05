@@ -363,6 +363,10 @@ remove-addon-disabled-button = Nelze odebrat. <a data-l10n-name="link">Proč?</a
 disable-addon-button = Zakázat
 enable-addon-button = Povolit
 expand-addon-button = Další možnosti
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Povolit
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Možnosti
@@ -467,6 +471,7 @@ discover-heading = Přizpůsobte si aplikaci { -brand-short-name }
 shortcuts-heading = Správa klávesových zkratek pro rozšíření
 theme-heading-search-label = Najít další vzhledy
 extension-heading-search-label = Najít další rozšíření
+default-heading-search-label = Najít další doplňky
 addons-heading-search-input =
     .placeholder = Vyhledat na addons.mozilla.org
 addon-page-options-button =
