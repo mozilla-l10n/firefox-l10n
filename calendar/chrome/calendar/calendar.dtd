@@ -388,7 +388,7 @@
 <!ENTITY calendar.print.currentView2.label "Pamja e tanishme">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Veprimtaritë/punët e përzgjedhura">
 <!ENTITY calendar.print.tasks.label "Punët">
-<!ENTITY calendar.print.events.label "Veprimtaritë">
+<!ENTITY calendar.print.events.label "Veprimtari">
 <!ENTITY calendar.print.custom.label "Interval vetjak të dhënash:">
 <!ENTITY calendar.print.from.label "Nga:">
 <!ENTITY calendar.print.to.label "Deri">
