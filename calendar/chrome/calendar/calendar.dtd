@@ -79,11 +79,11 @@
 <!ENTITY calendar.nextmonth.accesskey           "p" >
 <!ENTITY calendar.prevmonth.accesskey           "m" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "Një Ditë Më Tutje" >
+<!ENTITY calendar.navigation.nextday.tooltip    "Një Ditë Më Tej" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Një Ditë Prapa" >
 <!ENTITY calendar.navigation.nextweek.tooltip   "Një Javë Më Tutje" >
 <!ENTITY calendar.navigation.prevweek.tooltip   "Një Javë Prapa" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "Një Muaj Më Tutje" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Një Muaj Më Tej" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Një Muaj Prapa" >
 
 <!ENTITY calendar.newevent.button.label         "Veprimtari e Re" >

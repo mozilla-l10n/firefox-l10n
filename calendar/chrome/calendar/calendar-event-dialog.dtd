@@ -12,9 +12,9 @@
 
 <!ENTITY newevent.status.label                    "Gjendje" >
 <!ENTITY newevent.status.accesskey                "G" >
-<!ENTITY newevent.eventStatus.none.label          "E papërcaktuar" >
+<!ENTITY newevent.eventStatus.none.label          "E pacaktuar" >
 <!ENTITY newevent.eventStatus.none.accesskey      "p" >
-<!ENTITY newevent.todoStatus.none.label           "E papërcaktuar" >
+<!ENTITY newevent.todoStatus.none.label           "E pacaktuar" >
 <!ENTITY newevent.eventStatus.cancelled.label     "E anuluar" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "a" >
 <!ENTITY newevent.todoStatus.cancelled.label      "E anuluar" >
@@ -130,7 +130,7 @@
 <!ENTITY  event.menu.options.timezone2.accesskey              "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Përparësi">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
-<!ENTITY  event.menu.options.priority.notspecified.label      "E papërcaktuar">
+<!ENTITY  event.menu.options.priority.notspecified.label      "E pacaktuar">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "c">
 <!ENTITY  event.menu.options.priority.low.label               "E ulët">
 <!ENTITY  event.menu.options.priority.low.accesskey           "u">
