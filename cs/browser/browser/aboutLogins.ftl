@@ -16,7 +16,7 @@ login-filter =
     .placeholder = Hledat přihlašovací údaje
 create-login-button = Nové přihlašovací údaje
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
-fxaccounts-sign-in-button = Použijte službu { -sync-brand-short-name }
+fxaccounts-sign-in-button = Použít { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
     .title = Správa účtu
 
@@ -73,14 +73,14 @@ about-logins-list-item-breach-icon =
 login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste se k { -sync-brand-short-name(case: "dat") }.
 about-logins-login-intro-heading-logged-in = Nenalezeny žádné synchronizované přihlašovací údaje.
 login-intro-description =
-    Pokud jste si uložili přihlašovací údaje do { -brand-product-name.gender ->
+    Pokud jste si přihlašovací údaje uložili do { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "gen") }
         [feminine] { -brand-product-name(case: "gen") }
-        [neuter] v { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
        *[other] aplikace { -brand-product-name }
     }, ale na jiném zařízení, můžete je zde získat takto:
 login-intro-instruction-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené
-login-intro-instruction-fxa-settings = V nastavení { -sync-brand-short-name(case: "gen") } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
+login-intro-instruction-fxa-settings = V nastavení { -sync-brand-short-name(case: "gen") } na daném zařízení se ujistěte, že máte zapnutou synchronizaci přihlašovacích údajů
 about-logins-intro-instruction-help = Pro další pomoc navštivte <a data-l10n-name="help-link">nápovědu { -lockwise-brand-short-name(case: "gen") }</a>
 about-logins-intro-import = Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">importovat do { -lockwise-brand-short-name(case: "gen") }</a>
 
