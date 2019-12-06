@@ -125,6 +125,7 @@ cfr-whatsnew-pip-cta = Issin ugar
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Drus n yisfuyal udhimen n yismal yettɛekkiṛen
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } yessewḥal akka tura ismal akken ad ak-d-sutren s wudem awurman tuzna n yiznan deg  yisfuyla udhimen.
 cfr-whatsnew-permission-prompt-cta = Issin ugar
 
 ## Fingerprinter Counter
@@ -137,8 +138,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Amaṭṭaf n yidsilen umḍinen iwḥel
        *[other] Imaṭṭaffen n yidsilen umḍinen weḥlen
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } yessewḥal ddeqs n yidsilen umḍinen i d-ileqḍen talɣut-ik s tuffra ɣef yibenk-ik akked tigawin akken ad ixeddem adellel s useqdec n umaɣnu-ik.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Idsilen umḍinen
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } izmer ad iseḥbes idsilen umḍinen i d-ileqḍen talɣut-ik s tuffra ɣef yibenk-ik akked tigawin akken ad ixeddem adellel s useqdec n umaɣnu-ik.
 
 ## Bookmark Sync
 

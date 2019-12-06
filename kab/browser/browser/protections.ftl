@@ -31,6 +31,7 @@ protection-report-page-title = Taɣellist n tbaḍnit
 protection-report-content-title = Ammesten n tbaḍnit
 etp-card-title = Ammesten mgal aḍfaṛ yettwaseǧhed
 etp-card-content = Inefḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
+protection-report-etp-card-content-custom-not-blocking = Meṛṛa ammesten yensa akka tura. Fren ineḍfaṛen ara tesweḥleḍ s usefrek n yiɣewwaṛen n ummesten n { -brand-short-name }.
 protection-report-manage-protections = Sefrek iɣewwaṛen
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -40,7 +41,9 @@ graph-legend-description = Udlif igebren amḍan amatu n yal anaw n uneḍfaṛ 
 social-tab-title = Ineḍfaṛen n iẓeḍwa imettanen
 social-tab-contant = Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti. <a data-l10n-name="learn-more-link"> Issin ugar</a>
 cookie-tab-title = Inagan n tuqqna i uḍfaṛ gar yismal
+cookie-tab-content = Inagan-a n tuqqna ṭṭafaṛen-k seg usmel ɣer wayeḍ akken ad d-leqqḍen isefka ɣef wayen i t xeddmeḍ srid. Tgen-ten wiyaḍ am yimberraḥen akked tkabbaniyin n tesleḍt. Asewḥel n yinagan n tuqqna gar yismal, ad isenɣeṣ amḍan n udellel i k-yeṭṭafaṛen seg usmel ɣer wayeḍ. <a data-l10n-name="learn-more-link">Issin ugar</a>
 tracker-tab-title = Agbur n uḍfaṛ
+tracker-tab-description = Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara. <a data-l10n-name="learn-more-link">Issin ugar</a>
 fingerprinter-tab-title = Idsilen umḍinen
 cryptominer-tab-title = Ikripṭuminaren
 cryptominer-tab-content = Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd. <a data-l10n-name="learn-more-link">Issin ugar</a>

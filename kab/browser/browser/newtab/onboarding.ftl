@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Awi { -brand-product-name } yid-k
 onboarding-sync-welcome-content = Awi ticraḍ-ik n yisebtar, amazray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.
 onboarding-sync-welcome-learn-more-link = Issin ugar ɣef Firefox Accounts
-onboarding-sync-form-invalid-input = Imayl ameɣtu ilaq
-onboarding-sync-legal-notice = Ma tkemmleḍ, ad tqebleḍ <a data-l10n-name="terms">Tiwtilin n useqdec</a> d <a data-l10n-name="privacy">Tasertit n tbaḍnit</a>.
 onboarding-sync-form-input =
     .placeholder = Imayl
 onboarding-sync-form-continue-button = Kemmel
@@ -147,6 +145,8 @@ onboarding-facebook-container-title = Err talast i Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ad yeḥrez amaɣnu-ik yeɛzel ɣef yismal-nniḍen. Ihi ad yuɣal yewɛeṛ i Facebook akken ad ak-d-yazen adellel i ak-ulmen.
 onboarding-facebook-container-button = Rnu asiɣzef
 onboarding-import-browser-settings-title = Kter ticraḍ-ik n yisebtar, awalen-ik uffiren, d wayen-nniḍen
+onboarding-import-browser-settings-text = Err-d s wudem fessusen ismal-ik akked iɣewwaren-ik seg Chrome daɣen bdu tunigin tura kan.
+onboarding-import-browser-settings-button = Kter-d isefka si Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
