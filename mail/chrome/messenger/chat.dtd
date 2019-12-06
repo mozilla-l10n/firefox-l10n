@@ -24,7 +24,7 @@
 <!ENTITY openConversationCmd.accesskey "N">
 <!ENTITY closeConversationCmd.label    "Mbylle Bisedën">
 <!ENTITY closeConversationCmd.accesskey "M">
-<!ENTITY aliasCmd.label                "Riemërtoje">
+<!ENTITY aliasCmd.label                "Riemërtojeni">
 <!ENTITY aliasCmd.accesskey            "R">
 <!ENTITY deleteCmd.label               "Hiqe Kontaktin">
 <!ENTITY deleteCmd.accesskey           "H">

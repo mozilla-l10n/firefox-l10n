@@ -316,7 +316,7 @@
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Madhësi më e madhe shkronjash">
 <!ENTITY boldToolbarCmd.tooltip "të Trasha">
 <!ENTITY italicToolbarCmd.tooltip "Të pjerrëta">
-<!ENTITY underlineToolbarCmd.tooltip "Të Nënvijëzuara">
+<!ENTITY underlineToolbarCmd.tooltip "Të nënvijëzuara">
 <!ENTITY bulletListToolbarCmd.tooltip "Vendosni ose hiqni listë me shenjë">
 <!ENTITY numberListToolbarCmd.tooltip "Vendosni ose hiqni listë me numra">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst jashtazi (zhvendose majtas)">

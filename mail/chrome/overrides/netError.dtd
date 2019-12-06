@@ -107,7 +107,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "S’arrihet të gjendet shërbyesi ndërmjetës">
+<!ENTITY proxyResolveFailure.title "S&apos;arrihet të gjendet shërbyesi ndërmjetës">
 <!ENTITY proxyResolveFailure.longDesc "<ul>   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>   <li>Kontrolloni kompjuterin tuaj, për t&apos;u siguruar që ka një lidhje rrjeti që punon.</li>   <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga &quot;firewall&quot; apo ndërmjetës, sigurohuni që &brandShortName;-it i lejohet hyrja në Web.</li> </ul> ">
 
 <!ENTITY redirectLoop.title "Faqja nuk ridrejton si duhet">
