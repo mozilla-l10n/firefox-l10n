@@ -12,7 +12,7 @@
 <!ENTITY Company.accesskey                     "n">
 <!ENTITY _PhoneticName.label                   "Emër Fonetik">
 <!ENTITY _PhoneticName.accesskey               "i">
-<!ENTITY NickName.label                        "Nofkë:">
+<!ENTITY NickName.label                        "Nofkë">
 <!ENTITY NickName.accesskey                    "N">
 <!ENTITY SecondEmail.label                     "Email Shtesë">
 <!ENTITY SecondEmail.accesskey                 "l">

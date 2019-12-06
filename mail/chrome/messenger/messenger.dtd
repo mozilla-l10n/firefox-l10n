@@ -379,7 +379,7 @@
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Shpjere Te">
 <!ENTITY moveMsgToMenu.accesskey "S">
-<!ENTITY moveCopyMsgRecentMenu.label "Së Fundi">
+<!ENTITY moveCopyMsgRecentMenu.label "Së fundi">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "F">
 <!ENTITY copyMessageLocation.label "Kopjo Vendndodhje Mesazhi">
 <!ENTITY copyMessageLocation.accesskey "M">
@@ -793,7 +793,7 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "B">
 <!ENTITY contextMoveMsgMenu.label "Shpjere Te">
 <!ENTITY contextMoveMsgMenu.accesskey "e">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Së Fundi">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Së fundi">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.label "Më të pëlqyerit">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "p">
