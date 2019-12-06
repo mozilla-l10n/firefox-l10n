@@ -118,10 +118,13 @@ cfr-whatsnew-lockwise-take-link-text = Awi asnas
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Wali tividyutin kečč tettinigeḍ
+cfr-whatsnew-pip-body = Askar n usleɣ yeggar tavidyut deg usfaylu ufig akken ad tizmireḍ ad tt-twaliḍ ticki txeddmeḍ deg yiccaren-nniḍen.
 cfr-whatsnew-pip-cta = Issin ugar
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Drus n yisfuyal udhimen n yismal yettɛekkiṛen
 cfr-whatsnew-permission-prompt-cta = Issin ugar
 
 ## Fingerprinter Counter
