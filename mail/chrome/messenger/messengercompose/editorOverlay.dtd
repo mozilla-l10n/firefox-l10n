@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Set inn nytt namngjeve anker eller rediger eigenskapane til det valde ankeret">
 <!ENTITY TextColorButton.tooltip "Vel tekstfarge">
 <!ENTITY BackgroundColorButton.tooltip "Vel bakgrunnsfarge">
-<!ENTITY throbber.tooltip "Gå til heimesida til &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Gå til heimesida til &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Vel uthevingsfarge for tekst">
 
 <!-- Editor toolbar -->
