@@ -11,4 +11,4 @@ no-specified-policies-message = Shërbimi për Rregulla Në Nivel Ndërmarrjeje 
 inactive-message = Shërbimi për Rregulla Në Nivel Ndërmarrjeje është joaktiv.
 policy-name = Emër Rregulli
 policy-value = Vlerë Rregulli
-policy-errors = Gabime Rregulli
+policy-errors = Gabime Rregullash

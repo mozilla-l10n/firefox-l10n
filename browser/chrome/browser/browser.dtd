@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Shfletim Privat)">
 
-<!ENTITY appmenu.tooltip                     "Hapeni menunë">
+<!ENTITY appmenu.tooltip                     "Hapni menunë">
 <!ENTITY navbarOverflow.label                "Më tepër mjete…">
 
 <!-- Tab context menu -->

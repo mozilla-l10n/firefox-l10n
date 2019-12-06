@@ -610,7 +610,7 @@ sync-disconnect =
 sync-sign-out =
     .label = Dilni…
     .accesskey = D
-sync-manage-account = Administroni Llogari
+sync-manage-account = Administroni llogari
     .accesskey = A
 sync-signedin-unverified = { $email } nuk është i verifikuar.
 sync-signedin-login-failure = Ju lutemi, bëni hyrjen që të rilidheni { $email }
@@ -674,7 +674,7 @@ sync-engine-history =
     .label = Historikun Tim
     .accesskey = H
 sync-engine-tabs =
-    .label = Hapi Skedat
+    .label = Skeda të hapura
     .tooltiptext = Një listë e çka të hapur në krejt pajisjet e njëkohësuara
     .accesskey = S
 sync-engine-logins =
@@ -733,7 +733,7 @@ privacy-header = Privatësi Shfletuesi
 
 ## Privacy Section - Logins and Passwords
 
-logins-header = Kredenciale Hyrjesh & Fjalëkalime
+logins-header = Kredenciale Hyrjesh dhe Fjalëkalime
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte

@@ -66,7 +66,7 @@ cfr-doorhanger-pintab-description = Hyni kollaj te sajtet tuaj më të përdorur
 cfr-doorhanger-pintab-step1 = <b>Djathtasklikoni</b> te skeda që doni të fiksohet.
 cfr-doorhanger-pintab-step2 = Përzgjidhni <b>Fiksoje Skedën</b> që nga menuja.
 cfr-doorhanger-pintab-step3 = Nëse sajti ka një përditësim, do të shihni një pikë blu te skeda juaj e fiksuar.
-cfr-doorhanger-pintab-animation-pause = Pushim
+cfr-doorhanger-pintab-animation-pause = Ndalesë
 cfr-doorhanger-pintab-animation-resume = Vazhdoje
 
 ## Firefox Accounts Message
