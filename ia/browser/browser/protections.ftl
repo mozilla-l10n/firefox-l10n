@@ -23,10 +23,10 @@ graph-total-tracker-summary =
 # The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Le nivello de protection es adjustate a <b>Standard</b>
     .title = Ir al parametros de vita private
-protection-report-header-details-strict = Le nivello de protection es preparate a <b>Restrictive</b>
-    .title = Ir al Parametros de confidentialitate
-protection-report-header-details-custom = Le nivello de protection es preparate a <b>Personalisate</b>
-    .title = Ir al Parametros de confidentialitate
+protection-report-header-details-strict = Le nivello de protection es adjustate a <b>Stricte</b>
+    .title = Ir al parametros de vita private
+protection-report-header-details-custom = Le nivello de protection es adjustate a <b>Personalisate</b>
+    .title = Ir al parametros de vita private
 protection-report-page-title = Protectiones del confidentialitate
 protection-report-content-title = Protectiones del confidentialitate
 etp-card-title = Protection antitraciamento reinfortiate
