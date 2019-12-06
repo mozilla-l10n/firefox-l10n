@@ -55,13 +55,13 @@ newtab-confirm-delete-history-p2 = Ky veprim s’mund të zhbëhet.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Hape menunë
-    .aria-label = Hape menunë
+    .title = Hapni menunë
+    .aria-label = Hapni menunë
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Hape menunë
+    .title = Hapni menunë
     .aria-label = Hapni menu konteksti për { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
@@ -135,7 +135,7 @@ newtab-section-menu-manage-section = Administroni Ndarjen
 newtab-section-menu-manage-webext = Administroni Zgjerimin
 newtab-section-menu-add-topsite = Shtoni Sajt Kryesues
 newtab-section-menu-add-search-engine = Shtoni Motor Kërkimesh
-newtab-section-menu-move-up = Ngjite
+newtab-section-menu-move-up = Shpjere Sipër
 newtab-section-menu-move-down = Zbrite
 newtab-section-menu-privacy-notice = Shënim Mbi Privatësinë
 
