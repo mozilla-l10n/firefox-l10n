@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Tamellit n umaɣnu
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Tawila n iminig-inek ur temṣada ara akked Service Workers. <a>Issin ugar</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Iminig yeqqnen ɣur-s lqem aqbuṛ { $runtimeVersion }. Lqem adday yettwasefraken d { $minVersion }. D tawila ur nettusefrak ara i yezemren ad d-teglu s wuguren akked ifecka n tneflit. Ma ulac aɣilif, leqqem iminig yeqqnen. <a>Fru uguren</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Iminig yeqqnen ɣur-s lqem aqbuṛ { $
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Agalis n temseɣtayt tezmer ur tetteddu ara s yiminig yeqqnen. Ma ulac aɣilif, seqde Firefox { $runtimeVersion } ma teḥwaǧeḍ ad tesqedceḍ tamseqtayt s yiminig-a.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -263,6 +263,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Degger
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Senker
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Ameẓlu Worker Push yensa akka tura i uskar agetakala n { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Start
+    .disabledTitle = Ameẓlu Worker Push yensa akka tura i uskar agetakala n { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Ksiggez
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -287,6 +296,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Ameẓlu Push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Aswaḍ n umeẓlu Worker yensa akka tura deg uskar agentakala n { -brand-shorter-name }
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Akala agejdan

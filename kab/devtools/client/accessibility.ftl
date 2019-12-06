@@ -26,6 +26,10 @@ accessibility-text-label-issue-area = Seqdec <code>alt</code> i tmerna n tibzimi
 accessibility-text-label-issue-dialog = Adiwen yessefk ad yesɛu tabzimt. <a>Issin ugar</a>
 accessibility-text-label-issue-document-title = ISemliyen yessefk ad sɛun aferdis <code>title</code>.<a>Issin ugar</a>
 accessibility-text-label-issue-embed = Agbur usliɣ yessefk ad yesɛu tabzimt. <a>Issin ugar</a>
+accessibility-text-label-issue-figure = Udlifen s tneffusin s ufran isefk ad ttwabezmen. <a>Issin ugar</a>
+accessibility-text-label-issue-fieldset = ISerdisen <code>fieldset</code> ilaq ad ttwacerḍen. <a>Issin ugar</a>
+accessibility-text-label-issue-fieldset-legend2 = Seqdec aferdis <code>legend</code> i ucraḍ n <span>fieldset</span>. <a>Issin ugar</a>
+accessibility-text-label-issue-form = Iferdisen n tferkit isefk ad ttwaerḍen. <a>Issin ugar</a>
 accessibility-text-label-issue-optgroup-label2 = Seqdec imyer <code>label</code> i tmerna n tebzimt i <span>optgroup</span>. <a>Issin ugar</a>
 accessibility-text-label-issue-toolbar = Ifeggagen n yifecka yessefk ad ttwacerḍen ticki yella ugar n yiwen n ufeggag. <a>Issin ugar</a>
 
