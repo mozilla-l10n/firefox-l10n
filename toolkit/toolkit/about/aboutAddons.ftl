@@ -73,7 +73,7 @@ cmd-contribute =
 discover-title = Que sont les modules complémentaires ?
 discover-description = Les modules complémentaires sont des applications permettant de personnaliser { -brand-short-name } avec des fonctionnalités ou des styles supplémentaires. Gagnez du temps avec un panneau latéral, surveillez la météo ou changez l’apparence de { -brand-short-name } à votre guise.
 discover-footer =
-    Lorsque votre connexion Internet sera active, ce panneau vous permettra de découvrir
+    Lorsque votre connexion internet sera active, ce panneau vous permettra de découvrir
     certains des meilleurs modules complémentaires ainsi que les plus populaires.
 detail-version =
     .label = Version
