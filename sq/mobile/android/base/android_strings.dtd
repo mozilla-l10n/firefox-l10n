@@ -917,7 +917,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Hiqe">
-<!ENTITY activity_stream_delete_history "Fshije prej Historiku">
+<!ENTITY activity_stream_delete_history "Fshije nga Historiku">
 
 <!ENTITY private_tab_panel_title "Shfletim Privat + Mbrojtje Nga Gjurmimet">
 <!ENTITY private_tab_panel_description "&brandShortName;-i bllokon pjesë faqesh që mund të gjurmojnë veprimtarinë tuaj të shfletimit.">
