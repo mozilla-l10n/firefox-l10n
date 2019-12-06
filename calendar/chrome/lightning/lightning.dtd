@@ -57,7 +57,7 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Pranoni ftesë veprimtarie për krejt përsëritjet e veprimtarisë">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Shtojeni">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Shtojni veprimtarinë te kalendari">
-<!ENTITY lightning.imipbar.btnDecline.label                                 "Hidheni poshtë">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Hidhe poshtë">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Hidhni poshtë ftesën e veprimtarisë">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Hidhini poshtë krejt">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Hidheni poshtë ftesën e veprimtarisë për krejt përsëritjet e veprimtarisë">
