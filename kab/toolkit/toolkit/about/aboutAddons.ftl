@@ -275,10 +275,17 @@ shortcuts-modifier-other = Seddu Ctrl neɣ Alt
 shortcuts-invalid = Yir tuddsa
 shortcuts-letter = Sekcem asekkil
 shortcuts-system = Ur yezmir ad isnifel anegzum n { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Sleg anegzum
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Iseqdac-it yakan { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Sken { $numberToShow } nniḍen
+       *[other] Sken { $numberToShow } nniḍen
+    }
 shortcuts-card-collapse-button = Sken qel
 go-back-button =
     .tooltiptext = Uɣal ɣer deffir
@@ -310,9 +317,15 @@ addon-options-button =
 
 report-addon-button = Aneqqis
 remove-addon-button = Kkes
+# The link will always be shown after the other text.
+remove-addon-disabled-button = UR izmir ara ad yettwakkes <a data-l10n-name="link">Acuɣer?</a>
 disable-addon-button = Ssens
 enable-addon-button = Rmed
 expand-addon-button = Ugar n iɣewwaṛen
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Rmed
 preferences-addon-button =
     { PLATFORM() ->
         [windows] iɣewwaṛen
