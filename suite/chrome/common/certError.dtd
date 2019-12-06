@@ -32,3 +32,5 @@ was trying to connect. -->
 
 <!ENTITY certerror.technical.heading "Détails techniques">
 
+<!ENTITY dnsNotFound.pageTitle "Serveur introuvable">
+<!ENTITY malformedURI.pageTitle "URL invalide">
