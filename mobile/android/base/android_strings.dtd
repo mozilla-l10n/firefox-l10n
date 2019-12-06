@@ -63,7 +63,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Po shfaqet versoni offline">
 
-<!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;">
+<!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;-i">
 <!ENTITY  crash_message2 "&brandShortName; pati një problem dhe u vithis. Skedat tuaja do të duhej t’i shihnit te faqja e Fillimit të &brandShortName;, kur ta rinisni.">
 <!ENTITY  crash_send_report_message3 "Tregojini &vendorShortName;-s për këtë vithisje, që kështu të mund ta ndreqin">
 <!ENTITY  crash_include_url2 "Përfshi adresën e faqes ku gjendesha">
@@ -474,7 +474,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Njoftues Vithisjesh">
-<!ENTITY datareporting_wifi_title2 "Shërbime Lokalizimi &vendorShortName;">
+<!ENTITY datareporting_wifi_title2 "Shërbim Lokalizimi &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Ndihmojeni &vendorShortName;-n të hartëzojë botën! Ndani të dhëna të përafërta të vendndodhjes së Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit.">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
