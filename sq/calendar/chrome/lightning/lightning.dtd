@@ -106,6 +106,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "D">
 <!ENTITY todaypane.showNone.label "Mos Shfaq Gjë">
 <!ENTITY todaypane.showNone.accesskey "o">
-<!ENTITY todaypane.showTodayPane.label "Shfaq Kuadratin Sot">
+<!ENTITY todaypane.showTodayPane.label "Shfaq Kuadratin Për të Sotmen">
 <!ENTITY todaypane.showTodayPane.accesskey "K">
 <!ENTITY todaypane.statusButton.label "Kuadrati Sot">
