@@ -6,7 +6,7 @@
 <!ENTITY aboutAccounts.connected.description "Vous êtes connecté en tant que">
 <!ENTITY aboutAccounts.syncPreferences.label "Appuyez ici pour vérifier les paramètres de Sync">
 
-<!ENTITY aboutAccounts.noConnection.title "Aucune connexion Internet">
+<!ENTITY aboutAccounts.noConnection.title "Aucune connexion internet">
 <!ENTITY aboutAccounts.retry.label "Réessayer">
 
 <!ENTITY aboutAccounts.restrictedError.title "Action interdite">
