@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Generelt
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Språk og utsjånad
+general-tags-header = Etikettar
+general-updates-header = Oppdateringar
+general-network-and-diskspace-header = Nettverk og diskplass
+general-indexing-label = Indeksering
+composition-category-header = Composition
+composition-attachments-header = Vedlegg
+composition-spelling-title = Stavekontroll
+composition-addressing-header = Adressering
+privacy-main-header = Personvern
+privacy-passwords-header = Passord
+privacy-junk-header = Uønskt
+privacy-data-collection-header = Datainnsamling og bruk
+privacy-security-header = Sikkerheit
 privacy-anti-virus-title = Antivirus
 privacy-certificates-title = Sertifikat
 chat-pane-header = Nettprat
