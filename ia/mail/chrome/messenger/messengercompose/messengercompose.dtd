@@ -274,6 +274,8 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Seliger toto">
 <!ENTITY selectAll.accesskey "t">
+<!ENTITY cancelUpload.label "Cancellar incargamento">
+<!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Annexo normal">
 <!ENTITY convertRegularAttachment.accesskey "A">
 
