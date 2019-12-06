@@ -8,8 +8,8 @@
 
 <!ENTITY ButtonType.label "Lloj">
 <!ENTITY ButtonType.accesskey "L">
-<!ENTITY submit.value "Parashtro">
-<!ENTITY reset.value "Ricakto">
+<!ENTITY submit.value "Parashtroje">
+<!ENTITY reset.value "Riktheje te parazgjedhjet">
 <!ENTITY button.value "Buton">
 
 <!ENTITY ButtonName.label "Emër:">

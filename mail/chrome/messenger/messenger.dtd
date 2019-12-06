@@ -737,7 +737,7 @@
 <!ENTITY correspondentColumn2.tooltip "Renditi sipas korrespondentësh">
 <!ENTITY subjectColumn2.tooltip "Renditi sipas subjektesh">
 <!ENTITY dateColumn2.tooltip "Renditi sipas datash">
-<!ENTITY priorityColumn2.tooltip "Renditi sipas përparësie">
+<!ENTITY priorityColumn2.tooltip "Renditi sipas përparësish">
 <!ENTITY tagsColumn2.tooltip "Renditi sipas etiketash">
 <!ENTITY accountColumn2.tooltip "Renditi sipas llogarish">
 <!ENTITY statusColumn2.tooltip "Renditi sipas gjendjesh">

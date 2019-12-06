@@ -7,7 +7,7 @@
 <!ENTITY identitiesListAdd.accesskey  "S">
 <!ENTITY identitiesListEdit.label "Përpunoni…">
 <!ENTITY identitiesListEdit.accesskey "P">
-<!ENTITY identitiesListDefault.label "Caktoje Si Parazgjedhje">
+<!ENTITY identitiesListDefault.label "Vëre Si Parazgjedhje">
 <!ENTITY identitiesListDefault.accesskey "C">
 <!ENTITY identitiesListDelete.label "Fshije">
 <!ENTITY identitiesListDelete.accesskey "F">

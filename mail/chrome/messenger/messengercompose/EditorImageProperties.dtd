@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Vendndodhje Figure:">
 <!ENTITY locationEditField.accessKey "V">
 <!ENTITY locationEditField.tooltip "Shkruani emër ose vendndodhje kartele">
-<!ENTITY locationEditField.shortenedDataURI "URI i shkurtuar të dhënash (kopjimi do të vendosë në të papastër URI-n e plotë)">
+<!ENTITY locationEditField.shortenedDataURI "URI i shkurtuar të dhënash (kopjimi do të hedhë në të papastër URI-n e plotë)">
 <!ENTITY title.label "Ndihmëz:">
 <!ENTITY title.accessKey "N">
 <!ENTITY title.tooltip "Atributi html 'title' që shfaqet si ndihmëz">
