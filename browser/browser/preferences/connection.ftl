@@ -82,5 +82,5 @@ connection-dns-over-https-url-item-default =
 connection-dns-over-https-url-custom =
     .label = Vetjake
     .accesskey = V
-    .tooltiptext = Jepni URL-në tuaj të parapëlqyer për ftillim DNS-je për HTTPS-së
+    .tooltiptext = Jepni URL-në tuaj të parapëlqyer për ftillim DNS-je përmes HTTPS-së
 connection-dns-over-https-custom-label = Vetjake
