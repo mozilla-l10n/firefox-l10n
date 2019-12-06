@@ -11,7 +11,7 @@
 
 <!ENTITY subjectField4.label "Emne">
 <!ENTITY ccField4.label "Kopi">
-<!ENTITY bccField4.label "Blind kopi">
+<!ENTITY bccField4.label "Blindkopi">
 <!ENTITY newsgroupsField4.label "Gruppe">
 <!ENTITY followupToField4.label "Oppfølging">
 <!ENTITY tagsHdr4.label "Etiketter">
