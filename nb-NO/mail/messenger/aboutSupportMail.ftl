@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-accounts-title = E-post og nyhetsgruppe-kontoer
+accounts-title = E-post- og nyhetsgruppe-kontoer
 show-private-data-main-text = Ta med kontonavn
 show-private-data-explanation-text = (mulig person-identifiserbar informasjon)
 accounts-ID = ID
