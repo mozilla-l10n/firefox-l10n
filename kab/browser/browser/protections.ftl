@@ -45,6 +45,7 @@ cookie-tab-content = Inagan-a n tuqqna ṭṭafaṛen-k seg usmel ɣer wayeḍ a
 tracker-tab-title = Agbur n uḍfaṛ
 tracker-tab-description = Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara. <a data-l10n-name="learn-more-link">Issin ugar</a>
 fingerprinter-tab-title = Idsilen umḍinen
+fingerprinter-tab-content = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ. <a data-l10n-name="learn-more-link">Issin ugar</a>
 cryptominer-tab-title = Ikripṭuminaren
 cryptominer-tab-content = Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd. <a data-l10n-name="learn-more-link">Issin ugar</a>
 lockwise-title = Ur sṛuḥuy ara awalen-ik uffiren
@@ -84,6 +85,7 @@ lockwise-connected-device-status =
 monitor-title = Sers allen-ik ɣef trewla n yisefka.
 monitor-link = Amek iteddu
 monitor-header-content-no-account = Ddu ɣer { -monitor-brand-name } akken ad wali ḍ ma tella trewla n yisefka i k-iḥuzan daɣen akken ad tremseḍ ilɣa ticki llant trewliwi timaynutin.
+monitor-header-content-signed-in = { -monitor-brand-name } ad k-id-yelɣu ma yella talɣut-ik tban-d deg trewla n yisefka yettwassnen.
 monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
 auto-scan = Yettwasenqed ass-a akken iwata
 # This string is displayed after a large numeral that indicates the total number
@@ -111,6 +113,14 @@ info-exposed-passwords-found =
        *[other] Awalen uffiren i ḥuzant trewliwin n yisefka
     }
 full-report-link = Wali aneqqis ummid deg <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Awal-a uffir yettwaskelsen izmer ad tḥaz-it trewla n yisefka. Beddel awal-a uffir i tɣellist-ik srid.<a data-l10n-name="lockwise-link">Wali awalen uffiren yettwaskelsen</a>
+       *[other] Awalen uffiren yettwaskelsen zemren ad ten-tḥaz trewla n yisefka. Beddel awalen-a uffiren i tɣellist-ik srid.<a data-l10n-name="lockwise-link">Wali awalen uffiren yettwaskelsen</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

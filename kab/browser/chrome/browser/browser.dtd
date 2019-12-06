@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Ilaq-ak ad tesfeqdeḍ amiḍan-ik uqbel ad tizmireḍ ad temtawiḍ.">
 <!ENTITY fxa.unverified.button.label "Ldi iɣewwaṛen n &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Ffer asfaylu tugna deg tugna">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Tkecmeḍ s yisem">
 <!ENTITY fxa.menu.manageAccount.label "Sefrek imiḍanen…">
 <!ENTITY fxa.menu.syncSettings.label "Iɣewwaṛen n &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Ffer asfaylu tugna deg tugna">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Qqen ɣer &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Rmed &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Tanfiwin">
-
 <!ENTITY fxa.menu.account.label "Amiḍan">
 <!ENTITY fxa.menu.settings.label "Iɣewwaṛen">
 <!ENTITY fxa.menu.accountSettings.label "Iɣewwaṛen n umiḍan">
@@ -290,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tesweḥleḍ asmel-agi web seg useqdec n umenṭaḍ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tesweḥleḍ asbeddi n yizegrar i usmel-a.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
@@ -567,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Nadi s:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Tikkelt-agi, nadi s:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -938,15 +932,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Ayɣer?">
-<!ENTITY protections.socialMediaTrackers.label "Ineḍfaṛen n yiẓeḍwa n tmetti">
-<!ENTITY protections.crossSiteTrackingCookies.label "Inagan n tuqqna i uḍfaṛ gar yismal">
-<!ENTITY protections.trackingContent.label "Agbur n uḍfaṛ">
-<!ENTITY protections.fingerprinters.label "Idsilen umḍinen">
-<!ENTITY protections.cryptominers.label "Ikripṭuminaren">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Asewḥel n yiferdisen-a izmer ad yeglu s yir tiddin n kra n yismal web. Mebla ineḍfaṛen-a, kra n tqeffalin, tifelwiyin, d wurtan n yinekcam zemren ur teddun ara.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Meṛṛa ineḍfaṛen ɣef usmel-a ulin-d acku ammesten yensa.">
 <!ENTITY protections.noTrackersFound.description "Ulac ineḍfaren i yessen &brandShortName; ittwafen deg usebter-a.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Inagan-a n tuqqna ad k-ḍfṛen seg usmel ɣer wayeḍ akken ad d-leqḍen isefka fell-ak srid. Seddayen-ten-id wid ixeddmen adellel akked tkebbaniyin n tesleḍt.">
 <!ENTITY protections.cryptominers.description "Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd.">
+<!ENTITY protections.fingerprinters.description "Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ.">
+<!ENTITY protections.trackingContent2.description "Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara.">
+<!ENTITY protections.socialMediaTrackers.description "Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -961,7 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Kcem ɣer &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Mtawi tura">
 <!ENTITY syncSyncNowItemSyncing.label "Amtawi…">
 <!ENTITY syncSyncNowItem.accesskey    "M">
@@ -999,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "S">
 
 <!ENTITY contentBlocking.socialblock.label "Ineḍfaṛen n iẓeḍwa imettanen">
-
-<!ENTITY contentBlocking.cookies2.label "Inagan n tuqqna i uḍfaṛ gar yismal">
 
 <!ENTITY contentBlocking.cryptominers.label "Ikripṭuminaren">
 <!ENTITY contentBlocking.cryptominersView.label "Ikripṭuminaren">

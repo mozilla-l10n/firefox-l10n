@@ -120,6 +120,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Tesweḥlit tsertit n tɣellist n ugbur">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-a acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
 
+<!ENTITY xfoBlocked.title "Tessewḥel-it tsertit X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-a deg usatal-a acku asebter ɣur-s tasertit X-Frame-Options ur t-yeǧǧan ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d-yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
@@ -162,6 +164,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
 
+<!ENTITY enableTls10.longDesc "Asmel-a izmer ur isefrak ara asali n uneggaf TLS 1.2, i yellan deg lqem adday i yessefrak &brandShortName;. Armad n TLS 1.0 akked TLS 1.1 izmer ad yeǧǧ tuqqna ad teddu.">
 <!ENTITY enableTls10.note "TLS 1.0 d TLS 1.1 ad ttwasensen i lebda di lqem i d-iteddun.">
 <!ENTITY enableTls10.label "Rmed TLS1.0 akked 1.1">
 
