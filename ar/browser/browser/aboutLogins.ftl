@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = ابحث في جلسات الولوج
 create-login-button = أنشئ جلسة ولوج جديدة
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = أيقونة Favicon لِ‍ { $title }
 fxaccounts-sign-in-text = استعمل كلمات السر لحساباتك في أجهزتك الأخرى
 fxaccounts-sign-in-button = لِج إلى { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -77,6 +72,7 @@ about-logins-intro-instruction-help = زُر <a data-l10n-name="help-link">دع�
 login-item-new-login-title = أنشِئ جلسة ولوج جديدة
 login-item-edit-button = حرِّر
 login-item-delete-button = احذف
+about-logins-login-item-remove-button = أزِل
 login-item-origin-label = عنوان الموقع
 login-item-origin =
     .placeholder = https://www.example.com
@@ -106,11 +102,8 @@ master-password-reload-button =
     .label = لِج
     .accesskey = ل
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = ألغِ
-confirmation-dialog-dismiss-button =
-    .title = ألغِ
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] أتودّ أن تكون جلسات الولوج التي بدأتها أينما استخدمت { -brand-product-name }؟ افتح خيارات { -sync-brand-short-name } وحدّد مربع ”جلسات الولوج“.
@@ -124,6 +117,12 @@ enable-password-sync-preferences-button =
         }
     .accesskey = ف
 confirm-delete-dialog-title = أأحذف هذا الولوج؟
+
+## Dialogs
+
+confirmation-dialog-cancel-button = ألغِ
+confirmation-dialog-dismiss-button =
+    .title = ألغِ
 confirm-delete-dialog-message = هذا إجراء لا عودة فيه.
 confirm-delete-dialog-confirm-button = احذف
 confirm-discard-changes-dialog-title = أتريد إهمال التغييرات غير المحفوظة؟
@@ -138,10 +137,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = المدخلة { $loginTitle } بنفس اسم المستخدم موجودة.
 # This is a generic error message.
 about-logins-error-message-default = حدث خطأ أثناء محاولة حفظ كلمة السر هذه.
