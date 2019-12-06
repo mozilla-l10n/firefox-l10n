@@ -122,7 +122,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "S’arrihet të gjendet shërbyesi ndërmjetës">
+<!ENTITY proxyResolveFailure.title "S&apos;arrihet të gjendet shërbyesi ndërmjetës">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
