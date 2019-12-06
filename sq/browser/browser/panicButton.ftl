@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Hapni një Dritare të re të pastër
-panic-button-undo-warning = Ky veprim nuk mund të zhbëhet.
+panic-button-undo-warning = Ky veprim s’mund të zhbëhet.
 panic-button-forget-button =
     .label = Lëre fare!
 

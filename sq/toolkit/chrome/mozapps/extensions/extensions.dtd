@@ -56,7 +56,7 @@
 
 <!ENTITY addon.install.label                  "Instaloje">
 <!ENTITY addon.install.tooltip                "Instalojeni këtë shtesë">
-<!ENTITY addon.updateNow.label                "Përditësoje Tani">
+<!ENTITY addon.updateNow.label                "Përditësojeni Tani">
 <!ENTITY addon.updateNow.tooltip              "Instaloni përditësimet për këtë shtesë">
 <!ENTITY addon.includeUpdate.label            "Përfshije në Përditësim">
 <!ENTITY addon.updateAvailable.label          "Ka një përditësim gati">
@@ -68,4 +68,6 @@
 <!ENTITY addon.createdBy.label                "Nga ">
 
 <!ENTITY settings.path.button.label           "Shfletoni…">
+
+<!-- addon actions -->
 <!ENTITY setting.learnmore "Mësoni Më Tepër…">
