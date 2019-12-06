@@ -117,7 +117,7 @@
 <!ENTITY redirectLoop.title "Faqja nuk është ridrejtuar si duhet">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ndonjëherë ky problem mund të shkaktohet nga çaktivizim apo mospranim cookie-sh.</li>
+  <li>Ndonjëherë ky problem mund të shkaktohet nga çaktivizim ose mospranim cookie-sh.</li>
 </ul>
 ">
 
@@ -225,4 +225,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "Aktivizoni TLS 1.0 dhe 1.1">
 
 <!ENTITY networkProtocolError.title "Gabim Protokolli Rrjeti">
-<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t’u njoftoni këtë problem.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Faqja që po rrekeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim protokolli rrjeti.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
