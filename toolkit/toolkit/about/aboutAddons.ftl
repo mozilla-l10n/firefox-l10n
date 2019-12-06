@@ -376,7 +376,7 @@ always-activate-button = Aktivizoje Përherë
 never-activate-button = Mos e Aktivizo Kurrë
 addon-detail-author-label = Autor
 addon-detail-version-label = Version
-addon-detail-last-updated-label = Përditësuar Së Fundi
+addon-detail-last-updated-label = Përditësuar Së Fundi Më
 addon-detail-homepage-label = Kreu
 addon-detail-rating-label = Vlerësim
 # The average rating that the add-on has received.

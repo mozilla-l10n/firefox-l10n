@@ -29,7 +29,7 @@ abuse-report-submit-note =
 
 abuse-report-cancel-button = Anuloje
 abuse-report-next-button = Pasuesi
-abuse-report-goback-button = Kthehuni mbrapsht
+abuse-report-goback-button = Kthehu mbrapsht
 abuse-report-submit-button = Parashtroje
 
 ## Message bars descriptions.
