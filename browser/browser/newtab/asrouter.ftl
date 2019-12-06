@@ -102,6 +102,7 @@ cfr-whatsnew-tracking-protect-title = احمِ نفسك من خطر المتعق
 cfr-whatsnew-tracking-protect-body =
     يحجب { -brand-short-name } عددًا من المتعقّبات الاجتماعية والمتعقّبات بين المواقع،
     متعقّبات هدفها معرفة ما تفعله في المواقع.
+cfr-whatsnew-tracking-protect-link-text = اعرض تقرير الحماية
 cfr-whatsnew-tracking-blocked-subtitle = منذ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = اعرض التقرير
 cfr-whatsnew-lockwise-backup-title = انسخ كلمات السر احتياطيًا
