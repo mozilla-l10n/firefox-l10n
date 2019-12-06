@@ -74,7 +74,7 @@
 <!ENTITY  crash_closing_alert "Të dilet pa dërguar një njoftim vithisjeje?">
 <!ENTITY  sending_crash_report "Po dërgohet njoftimi i vithisjes\u2026">
 <!ENTITY  crash_close_label "Mbylleni">
-<!ENTITY  crash_restart_label "Rinise &brandShortName;">
+<!ENTITY  crash_restart_label "Riniseni &brandShortName;-in">
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName;-i u vithis">
