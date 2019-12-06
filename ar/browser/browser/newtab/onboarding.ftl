@@ -29,6 +29,8 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = مطلوب بريد إلكتروني صالح
 onboarding-join-form-legal = بالمتابعة فأنت توافق على <a data-l10n-name="terms">شروط الخدمة</a> و<a data-l10n-name="privacy">تنويه الخصوصية</a>.
 onboarding-join-form-continue = واصِل
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ألديك حساب؟
 onboarding-start-browsing-button-label = ابدأ التصفح
 onboarding-cards-dismiss =
     .title = ألغِ
