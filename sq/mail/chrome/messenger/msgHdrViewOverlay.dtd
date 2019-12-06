@@ -68,7 +68,7 @@
 <!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "Shihni Burimin">
 <!ENTITY viewSourceMenuItem1.accesskey "u">
-<!ENTITY otherActionsPrint1.label "Shtypeni…">
+<!ENTITY otherActionsPrint1.label "Shtypni…">
 <!ENTITY otherActionsPrint1.accesskey "y">
 
 <!-- Attachment bar context menu items -->
