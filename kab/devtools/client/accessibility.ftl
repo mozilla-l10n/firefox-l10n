@@ -30,6 +30,14 @@ accessibility-text-label-issue-figure = Udlifen s tneffusin s ufran isefk ad ttw
 accessibility-text-label-issue-fieldset = ISerdisen <code>fieldset</code> ilaq ad ttwacerḍen. <a>Issin ugar</a>
 accessibility-text-label-issue-fieldset-legend2 = Seqdec aferdis <code>legend</code> i ucraḍ n <span>fieldset</span>. <a>Issin ugar</a>
 accessibility-text-label-issue-form = Iferdisen n tferkit isefk ad ttwaerḍen. <a>Issin ugar</a>
+accessibility-text-label-issue-form-visible = Iferdisen n tfelwit yessefk ad sɛun tacreḍt n uḍris yettbanen. <a>Issin ugar</a>
+accessibility-text-label-issue-frame = Iferdisen <code>frame</code> yessefk ad ttwacerḍen. <a>Issin ugar</a>
+accessibility-text-label-issue-glyph = Seqdec imyer <code>alt</code> i tmerna n tecreḍt i yiferdisen <span>mglyph</span>. <a>Issin ugar</a>
+accessibility-text-label-issue-heading = Yessefk izwal ad sɛun tacreḍt. <a>Issin ugar</a>
+accessibility-text-label-issue-heading-content = Yessefk izwal ad sɛun agbur s uḍris ibanen. <a>Issin ugar</a>
+accessibility-text-label-issue-iframe = Seqdec imyer <code>title</code> i useglemn ugbur <span>iframe</span>. <a>Issin ugar</a>
+accessibility-text-label-issue-image = Yessefk agbur s tugniwin ad yesɛu tacreḍt. <a>Issin ugar</a>
+accessibility-text-label-issue-interactive = Yessefk iferdisen imyigawanen ad sɛun tacreḍt. <a>Issin ugar</a>
 accessibility-text-label-issue-optgroup-label2 = Seqdec imyer <code>label</code> i tmerna n tebzimt i <span>optgroup</span>. <a>Issin ugar</a>
 accessibility-text-label-issue-toolbar = Ifeggagen n yifecka yessefk ad ttwacerḍen ticki yella ugar n yiwen n ufeggag. <a>Issin ugar</a>
 
@@ -38,3 +46,4 @@ accessibility-text-label-issue-toolbar = Ifeggagen n yifecka yessefk ad ttwacer�
 ## issue.
 
 accessibility-keyboard-issue-semantics = Iferdisen izemren ad sɛun afukus yessefk ad sɛun tasnamka tamyigawant. <a>Issin ugar</a>
+accessibility-keyboard-issue-tabindex = Ɛreḍ ur seqdacet ara imyerr <code>tabindex</codei yugaren ilem. <a>Issin ugar</a>
