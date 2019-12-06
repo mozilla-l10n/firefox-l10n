@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Hape">
 <!ENTITY cmd.open.accesskey                        "H">
-<!ENTITY cmd.removeFromHistory.label               "Hiqe Prej Historiku">
+<!ENTITY cmd.removeFromHistory.label               "Hiqe Nga Historiku">
 <!ENTITY cmd.removeFromHistory.accesskey           "Q">
 <!ENTITY cmd.clearList.label                       "Spastroje Listën">
 <!ENTITY cmd.clearList.accesskey                   "P">

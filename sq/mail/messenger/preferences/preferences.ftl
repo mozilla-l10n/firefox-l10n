@@ -39,7 +39,7 @@ confirm-messenger-language-change-button = Zbatoje dhe Rinisu
 update-pref-write-failure-title = Dështim Shkrimi
 # Variables:
 #   $path (String) - Path to the configuration file
-update-pref-write-failure-message = S’arrihet të ruhen parapëlqimet. S"u shkrua dot te kartelë: { $path }
+update-pref-write-failure-message = S’arrihet të ruhet parapëlqimi. S’u shkrua dot në kartelë: { $path }
 update-setting-write-failure-title = Gabim në ruajtje parapëlqimesh Përditësimi
 # Variables:
 #   $path (String) - Path to the configuration file

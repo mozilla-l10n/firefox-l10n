@@ -32,7 +32,7 @@
 <!ENTITY italic.label           "Të pjerrëta">
 <!ENTITY outdent.label          "Së jashtmi">
 <!ENTITY indent.label           "Së brendshmi">
-<!ENTITY underline.label        "Nënvijëzuar">
+<!ENTITY underline.label        "Të nënvijëzuara">
 
 <!ENTITY absolutePosition.label "Vendosje absolute">
 <!ENTITY decreaseZIndex.label   "Shpjere mbrapsht">

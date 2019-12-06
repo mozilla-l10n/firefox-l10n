@@ -351,7 +351,7 @@
 <!ENTITY replySenderCmd.accesskey "D">
 <!ENTITY replyNewsgroupCmd2.label "Përgjigjuni te Grupi i Lajmeve">
 <!ENTITY replyNewsgroupCmd2.accesskey "G">
-<!ENTITY replyToAllMsgCmd.label "Përgjigjiuni të Tërëve">
+<!ENTITY replyToAllMsgCmd.label "Përgjigjuni të Tërëve">
 <!ENTITY replyToAllMsgCmd.accesskey "T">
 <!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Përgjigjuni te Lista">
@@ -777,7 +777,7 @@
 <!ENTITY contextReplySender.accesskey "G">
 <!ENTITY contextReplyNewsgroup2.label "Përgjigjuni te Grupi i Lajmeve">
 <!ENTITY contextReplyNewsgroup2.accesskey "L">
-<!ENTITY contextReplyAll.label "Përgjigjiu të Tërëve">
+<!ENTITY contextReplyAll.label "Përgjigjuni të Tërëve">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextReplyList.label "Përgjigjuni te Lista">
 <!ENTITY contextReplyList.accesskey "L">
