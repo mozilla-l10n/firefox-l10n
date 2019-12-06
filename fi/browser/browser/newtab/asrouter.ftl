@@ -125,6 +125,7 @@ cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Katso videoita samalla kun selaat
+cfr-whatsnew-pip-body = Kuva kuvassa -toiminto irrottaa videon erilliseen ikkunaan, jotta sitä voi katsoa samalla, kun tekee jotain muuta muissa välilehdissä.
 cfr-whatsnew-pip-cta = Lue lisää
 
 ## Permission Prompt
@@ -143,8 +144,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Yksilöijä estetty
        *[other] Yksilöijiä estetty
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } estää monia yksilöijiä, jotka keräävät salaa tietoja laitteestasi ja toiminnastasi profiloidakseen sinua mainostustarkoituksiin.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Yksilöijät
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } voi estää yksilöijiä, jotka keräävät salaa tietoja laitteestasi ja toiminnastasi profiloidakseen sinua mainostustarkoituksiin.
 
 ## Bookmark Sync
 
