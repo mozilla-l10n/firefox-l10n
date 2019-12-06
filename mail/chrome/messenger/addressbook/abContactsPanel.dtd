@@ -23,7 +23,7 @@
 <!ENTITY addtoToFieldMenu.accesskey         "L">
 <!ENTITY addtoCcFieldMenu.label             "Legg til i Kopi-feltet">
 <!ENTITY addtoCcFieldMenu.accesskey         "K">
-<!ENTITY addtoBccFieldMenu.label            "Legg til i Blind kopi-feltet">
+<!ENTITY addtoBccFieldMenu.label            "Legg til i Blindkopi-feltet">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Slett">
 <!ENTITY deleteAddrBookCard.accesskey       "S">
