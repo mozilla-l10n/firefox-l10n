@@ -51,7 +51,7 @@ cryptominer-tab-content = Cryptominatores usa le potentia de calculo de tu syste
 lockwise-title = Non oblida plus tu contrasignos
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
-lockwise-header-content-logged-in = Reserva e synchronisa con securitate tu contrasignos pro totes tu apparatos.
+lockwise-header-content-logged-in = Memorisa e synchronisa tu contrasignos sur tote tu apparatos in tote securitate.
 protection-report-view-logins-button = Vider credentiales
     .title = Ir a Credentiales salvate
 lockwise-no-logins-content = Obtene le application <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pro haber tu contrasignos ubique.
