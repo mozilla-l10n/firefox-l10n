@@ -11,7 +11,7 @@
 <!ENTITY setPassword.meter.label "Matës cilësie fjalëkalimesh">
 
 <!-- Values for resetpassword.xhtml -->
-<!ENTITY resetPasswordButtonLabel "Ricaktoje">
+<!ENTITY resetPasswordButtonLabel "Riktheje te parazgjedhjet">
 <!ENTITY resetPassword.title  "Ricaktoni Fjalëkalimin e Përgjithshëm">
 <!ENTITY resetPassword.text  "Nëse ricaktoni fjalëkalimin tuaj të përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, të dhëna formularësh, dëshmi vetjake, dhe kyçe private do të harrohen. Jeni i sigurt se doni të ricaktoni fjalëkalimin tuaj të përgjithshëm?">
 

@@ -41,7 +41,7 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Ruaje
 about-config-pref-reset-button =
-    .title = Ricaktoje
+    .title = Riktheje te parazgjedhjet
 about-config-pref-delete-button =
     .title = Fshije
 
