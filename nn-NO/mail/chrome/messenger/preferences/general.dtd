@@ -38,3 +38,5 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Standard søkjemotor">
+<!ENTITY removeSearchEngine.label         "Fjern">
+<!ENTITY removeSearchEngine.accesskey     "e">

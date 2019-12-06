@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Fortel nettsider at eg ikkje ønskjer å verte spora">
 <!ENTITY dntTrackingNotOkay.accesskey "F">
 <!ENTITY doNotTrackInfo.label "Les meir om Sporingsval">
+
+<!ENTITY doNotTrackCheck.label "Send nettsider eit «Ikkje spor»-signal om at du ikkje vil bli spora">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Les meir">

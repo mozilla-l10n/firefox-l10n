@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lesar">
 <!ENTITY display.caption                  "Vising">
+<!ENTITY displayName.label                "Visingsnamn:">
 <!ENTITY showCondensedAddresses.label     "Vis berre visings-namnet for personar i adresseboka">
 <!ENTITY showCondensedAddresses.accesskey "V">
 
