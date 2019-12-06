@@ -6,7 +6,7 @@
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
 <!ENTITY  pref.proxies.title            "Proxies">
-<!ENTITY  pref.proxies.desc             "Un proxy est un service réseau qui peut filtrer et accélérer votre connexion Internet.">
+<!ENTITY  pref.proxies.desc             "Un proxy est un service réseau qui peut filtrer et accélérer votre connexion internet.">
 <!ENTITY  proxyTitle.label              "Configuration du serveur proxy pour accéder à Internet">
 <!ENTITY  directTypeRadio.label         "Pas de proxy">
 <!ENTITY  directTypeRadio.accesskey     "P">
