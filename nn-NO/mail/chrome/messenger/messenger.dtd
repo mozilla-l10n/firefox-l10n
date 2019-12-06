@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Verktøylinje for mapper">
 <!ENTITY folderPaneBar.accesskey "m">
-<!ENTITY folderModeSelector.label "Mappevisingar">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter etter">
@@ -440,9 +439,6 @@
 <!ENTITY openMessageWindowCmd.label "Opne melding">
 <!ENTITY openMessageWindowCmd.accesskey "d">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Opne i samtale">
-<!ENTITY openConversationCmd.accesskey "n">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Opna i konversasjon">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
@@ -590,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Arkiver valt melding">
 <!ENTITY archiveButton.tooltip "Arkiver valde meldingar">
 <!ENTITY openConversationButton.tooltip "Vis samtale for vald melding">
+<!ENTITY openMsgConversationButton.tooltip "Vis samtale for vald melding">
 <!ENTITY nextButton.tooltip "Gå til neste ulesne melding">
 <!ENTITY nextMsgButton.tooltip "Gå til neste melding">
 <!ENTITY previousButton.tooltip "Gå til førre ulesne melding">
@@ -795,6 +792,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "F">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Sist brukt">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "S">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favorittar">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Kopier til">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorer tråd">
@@ -814,12 +813,6 @@
 <!ENTITY contextPrintPreview.label "Førehandsvising">
 <!ENTITY contextPrintPreview.accesskey "r">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Tilbakestill kolonnar til standard">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -859,7 +852,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Denne mappa">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Spel av">
@@ -976,3 +968,7 @@
 <!ENTITY dockOptions.label              "Innstillingar for app-ikon …">
 <!ENTITY writeNewMessageDock.label      "Skriv ny melding">
 <!ENTITY openAddressBookDock.label      "Opne Adresseboka">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Gå tilbake ei side">
+<!ENTITY browseForwardButton.tooltip "Gå fram ei side">
