@@ -148,7 +148,7 @@ about-debugging-network-location-form-duplicate = Streha “{ $host-value }” �
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
 about-debugging-runtime-temporary-extensions =
-    .name = Zgjerime të Përkohëshme
+    .name = Zgjerime të Përkohshme
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = Zgjerime

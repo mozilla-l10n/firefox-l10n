@@ -42,7 +42,7 @@
 <!ENTITY migrating.label                "Po importohen objektet vijuese…">
 
 <!ENTITY selectProfile.title            "Përzgjidhni Profil">
-<!ENTITY selectProfile.label            "Është e mundur të importohen profilet vijues prej: ">
+<!ENTITY selectProfile.label            "Është e mundur të importohen profilet vijues:">
 
 <!ENTITY done.title                     "Importim i Plotësuar">
 <!ENTITY done.label                     "Objektet vijuese u importuan me sukses:">
