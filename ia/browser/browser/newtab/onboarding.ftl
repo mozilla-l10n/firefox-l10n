@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Porta { -brand-product-name } con te
 onboarding-sync-welcome-content = Tene tu marcapaginas, chronologia, contrasignos e altere configurationes sur tote tu apparatos.
 onboarding-sync-welcome-learn-more-link = Saper plus super Firefox Accounts
-onboarding-sync-form-invalid-input = Es necessari un adresse de e-mail valide
-onboarding-sync-legal-notice = Si tu procede, tu accepta le <a data-l10n-name="terms">terminos de servicio</a> e le <a data-l10n-name="privacy">aviso de confidentialitate</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Continuar
@@ -119,7 +117,7 @@ onboarding-browse-privately-title = Naviga privatemente
 onboarding-browse-privately-text = Le navigation private elimina tu chronologia de recerca e navigation e lo mantene secrete pro altere usatores de tu computator.
 onboarding-browse-privately-button = Aperir un fenestra private
 onboarding-firefox-send-title = Mantene private tu files compartite
-onboarding-firefox-send-text2 = Carga tu files a { -send-brand-name } pro los compartir con cryptographia bilateral e un ligamine que expira automaticamente.
+onboarding-firefox-send-text2 = Incarga tu files a { -send-brand-name } pro compartir los con cryptation bilateral e un ligamine que expira automaticamente.
 onboarding-firefox-send-button = Prova { -send-brand-name }
 onboarding-mobile-phone-title = Installa { -brand-product-name } sur tu telephono
 onboarding-mobile-phone-text = Discarga { -brand-product-name } pro iOS o Android e synchronisa tu datos inter le apparatos.
