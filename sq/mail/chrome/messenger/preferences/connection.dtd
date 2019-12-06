@@ -51,4 +51,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Aktivizoni DNS përmes HTTPS-je">
 <!ENTITY  dnsOverHttps.accesskey        "z">
-<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Përdor URL-në parazgjedhje për ftillim DNS-je përmes HTTPS-së">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Për ftillim DNS-je përmes HTTPS-je përdor URL-në parazgjedhje">

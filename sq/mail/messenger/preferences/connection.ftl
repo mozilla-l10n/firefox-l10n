@@ -8,7 +8,7 @@ connection-dns-over-https-url-resolver = Përdor Furnizues
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Parazgjedhje)
-    .tooltiptext = Për ftillim DNS-je përmes HTTPS-së përdorni URL-në parazgjedhje
+    .tooltiptext = Për ftillim DNS-je përmes HTTPS-je përdor URL-në parazgjedhje
 connection-dns-over-https-url-custom =
     .label = Vetjake
     .accesskey = V
