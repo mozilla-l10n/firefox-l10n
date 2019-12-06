@@ -41,10 +41,12 @@ login-list =
     .aria-label = Nalezené přihlašovací údaje
 login-list-count =
     { $count ->
+        [0] žádné přihlašovací údaje
         [one] jedny přihlašovací údaje
         [2] dvoje přihlašovací údaje
         [3] troje přihlašovací údaje
         [4] čtvery přihlašovací údaje
+        [few] { $count } přihlašovací údaje
        *[other] { $count } přihlašovacích údajů
     }
 login-list-sort-label-text = Seřadit podle:
