@@ -13,6 +13,7 @@ general-indexing-label = Indeksering
 composition-category-header = Composition
 composition-attachments-header = Vedlegg
 composition-spelling-title = Stavekontroll
+compose-html-style-title = HTML-stil
 composition-addressing-header = Adressering
 privacy-main-header = Personvern
 privacy-passwords-header = Passord
