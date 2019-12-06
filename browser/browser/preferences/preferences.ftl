@@ -358,7 +358,7 @@ update-setting-write-failure-title = Gabim në ruajtje parapëlqimesh Përditës
 update-setting-write-failure-message =
     { -brand-short-name }-i hasi një gabim dhe s’e ruajti këtë ndryshim. Kini parasysh se caktimi i këtij parapëlqimi mbi përditësimet lyp leje për shkrim te kartela më poshtë. Ju, ose një përgjegjës sistemi mund të jeni në gjendje ta zgjidhni gabimin duke i akorduar grupit Përdorues kontroll të plotë të kësaj kartele.
     
-    S’u shkrua dot te kartela: { $path }
+    S’u shkrua dot në kartelë: { $path }
 update-in-progress-title = Përditësim Në Ecuri e Sipër
 update-in-progress-message = Doni që { -brand-short-name }-i të vazhdojë këtë përditësim?
 update-in-progress-ok-button = &Hidhe Tej

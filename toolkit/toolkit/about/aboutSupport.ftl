@@ -71,7 +71,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Shfaqe në Finder
         [windows] Hape Dosjen
-       *[other] Hap Drejtorinë
+       *[other] Hape Drejtorinë
     }
 modified-key-prefs-title = Parapëlqime të Rëndësishme të Ndryshuara
 modified-prefs-name = Emër
