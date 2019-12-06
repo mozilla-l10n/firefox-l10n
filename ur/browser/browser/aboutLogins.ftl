@@ -8,6 +8,8 @@ about-logins-page-title = لاگ ان اور پاس ورڈ
 
 login-app-promo-android =
     .alt = Google Play  سے حاصل کریں
+login-app-promo-apple =
+    .alt = App Store پر سے ڈائونلوڈ کریں
 login-filter =
     .placeholder = لاگ ان تلاش کریں
 create-login-button = نیا لاگ ان بنائیں
