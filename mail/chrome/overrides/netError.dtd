@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Blokkert av tryggingspraksisen">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsiden frå å lastast inn på denne måten fordi nettsida har ein tryggingspraksis for innhald som hindrar det.</p>">
 
+<!ENTITY xfoBlocked.title "Blokkert av X-Frame-Options-policy">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; hindra denne nettsida i å laste i denne konteksten fordi nettsida har ein X-Frame-Options-policy som ikkje tillèt det.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Øydelagd innhald">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sida du prøver å vise kan ikkje opnast på grunn av ein feil i dataoverføringa.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
 
@@ -101,3 +104,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløra informasjon som du trudde skulle vera sikker. Administrator på nettstaden må fiksa tenaren før du kan besøka nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkert side">
+
+<!ENTITY networkProtocolError.title "Nettverksprotokollfeil">
+<!ENTITY networkProtocolError.longDesc "<p>Sida du forsøker å vise kan ikkje opnast fordi ein feil i nettverksprotokollen vart oppdaga.</p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul>">

@@ -18,8 +18,8 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Skrifttype:">
 <!ENTITY font.accesskey                       "S">
-<!ENTITY size.label                           "Storleik:">
-<!ENTITY size.accesskey                       "o">
+<!ENTITY fontSize.label                       "Storleik:">
+<!ENTITY fontSize.accesskey                   "e">
 <!ENTITY fontColor.label                      "Tekstfarge:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Bakgrunnsfarge:">

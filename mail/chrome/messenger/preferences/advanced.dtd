@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Versjon ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Tillat &brandShortName; å">
 <!ENTITY updateAuto.label                "Automatisk installer oppdateringar (tilrådd: betre sikkerheit)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Sjå etter oppdateringar, men la meg velja om dei skal installerast">
 <!ENTITY updateCheck.accesskey           "S">
-<!ENTITY updateManual.label              "Aldri sjå etter oppdateringer (ikkje tilrådd: tryggingsrisiko)">
-<!ENTITY updateManual.accesskey          "A">
 <!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
 <!ENTITY updateHistory.accesskey         "V">
 
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installera oppdateringar">
 <!ENTITY useService.accesskey            "B">
+
+<!ENTITY updateCrossUserSettingWarning.description "Denne innstillinga gjeld for alle Windows-kontoar og &brandShortName;-profilar som brukar denne installasjonen av &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Innstillingar …">
@@ -121,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "H">
 <!ENTITY viewSecurityDevices.label "Tryggingseiningar">
 <!ENTITY viewSecurityDevices.accesskey "T">
+
+<!ENTITY manageCertificates2.label "Handter sertifikat…">
+<!ENTITY manageCertificates2.accesskey "s">
+<!ENTITY viewSecurityDevices2.label "Tryggingseiningar…">
+<!ENTITY viewSecurityDevices2.accesskey "e">

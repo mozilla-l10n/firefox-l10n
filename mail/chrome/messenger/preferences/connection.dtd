@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Ingen MT for:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Døme: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Tilkoplingar til localhost, 127.0.0.1 og ::1 er aldri kopla til via proxy.">
 <!ENTITY  shareproxy.label              "Bruk denne mellomtenaren for alle protokollar">
 <!ENTITY  shareproxy.accesskey          "B">
 <!ENTITY  autologinproxy.label          "Ikkje be om autentisering viss passordet er lagra">
@@ -47,6 +51,3 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Aktiver DNS-over-HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "o">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL for å slå opp DNS-over-HTTPS">
