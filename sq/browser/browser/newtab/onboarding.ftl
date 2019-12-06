@@ -108,7 +108,7 @@ onboarding-tracking-protection-button2 = Si Funksionon
 onboarding-data-sync-title = Merreni Me Vete Rregullimet Tuaja
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet, etj, kudo ku përdorni { -brand-product-name }-in.
-onboarding-data-sync-button2 = Hyni në { -sync-brand-short-name }
+onboarding-data-sync-button2 = Hyni te { -sync-brand-short-name }-u
 onboarding-firefox-monitor-title = Jini Në Dijeni të Cenimeve të të Dhënave
 onboarding-firefox-monitor-text = { -monitor-brand-name } mbikëqyr se mos email-i juaj është shfaqur në ndonjë cenim të dhënash dhe ju vë në dijeni nëse shfaqet në një cenim të ri.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } mbikëqyr se mos email-i juaj është parë në ndonjë cenim të ditur të dhënash dhe ju sinjalizon nëse shfaqet në një cenim të ri.

@@ -418,7 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuHistory.showAll.label "Shfaqni Krejt Historikun">
+<!ENTITY appMenuHistory.showAll.label "Shfaq Krejt Historikun">
 <!ENTITY appMenuHistory.clearRecent.label "Spastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
 <!ENTITY appMenuHistory.viewSidebar.label "Shihni Anështyllë Historiku">
@@ -991,7 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.label "Administroni Rregullime për Mbrojtje">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
-<!ENTITY contentBlocking.socialblock.label "Gjurmues Mediash Shoqërore">
+<!ENTITY contentBlocking.socialblock.label "Gjurmues Prej Mediash Shoqërore">
 
 <!ENTITY contentBlocking.cryptominers.label "Nxjerrës kriptomonedhash">
 <!ENTITY contentBlocking.cryptominersView.label "Nxjerrës kriptomonedhash">

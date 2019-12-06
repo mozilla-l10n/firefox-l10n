@@ -78,7 +78,7 @@
 <!ENTITY col.dateadded.label     "Shtuar më">
 <!ENTITY col.lastmodified.label  "Ndryshuar Së Fundi">
 
-<!ENTITY historySearch.placeholder  "Kërkoni te historiku">
+<!ENTITY historySearch.placeholder  "Kërkoni në historik">
 <!ENTITY bookmarksSearch.placeholder  "Kërkoni te faqerojtësit">
 
 <!ENTITY cmd.find.key  "f">

@@ -122,11 +122,11 @@ password-warning =
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Gjurmues Mediash Shoqërore
+    .title = Gjurmues prej Mediash Shoqërore
     .aria-label =
         { $count ->
-            [one] { $count } gjurmues mediash shoqërore ({ $percentage }%)
-           *[other] { $count } gjurmues mediash shoqërore ({ $percentage }%)
+            [one] { $count } gjurmues prej mediash shoqërore ({ $percentage }%)
+           *[other] { $count } gjurmues prej mediash shoqërore ({ $percentage }%)
         }
 bar-tooltip-cookie =
     .title = Cookies Gjurmimi Nga Sajte Në Sajte
