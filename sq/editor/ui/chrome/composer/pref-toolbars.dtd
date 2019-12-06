@@ -25,7 +25,7 @@
 <!ENTITY formatting.caption     "Shfaq këta butona në Panelin e Formatimit:">
 
 <!ENTITY smaller.label          "Më të mëdha">
-<!ENTITY larger.label           "Më të vogla">
+<!ENTITY larger.label           "Më të mëdha">
 <!ENTITY bold.label             "Të trasha">
 <!ENTITY bullets.label          "Shenja">
 <!ENTITY numbers.label          "Numra">
