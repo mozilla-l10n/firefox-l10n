@@ -290,7 +290,7 @@ about-debugging-worker-status-running = Në xhirim
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = I ndalur
 # Displayed for service workers in runtime pages that are registering.
-about-debugging-worker-status-registering = Po regjistrojnë
+about-debugging-worker-status-registering = Po regjistrohet
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Fokus
