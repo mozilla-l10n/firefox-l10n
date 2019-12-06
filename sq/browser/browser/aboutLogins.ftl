@@ -14,7 +14,7 @@ login-app-promo-apple =
     .alt = Shkarkojeni nga App Store
 login-filter =
     .placeholder = Kërkoni te Kredenciale Hyrjesh
-create-login-button = Krijoni Krendeciale të Reja Hyrjesh
+create-login-button = Krijoni Kredenciale të Reja Hyrjeje
 fxaccounts-sign-in-text = Merrni fjalëkalimet tuaj në pajisjet tuaja të tjera
 fxaccounts-sign-in-button = Hyni te { -sync-brand-short-name }-u
 fxaccounts-avatar-button =
@@ -71,7 +71,7 @@ about-logins-intro-import = Nëse kredencialet tuaj për hyrje janë ruajtur në
 
 ## Login
 
-login-item-new-login-title = Krijoni Kredenciale të Reja Hyrjesh
+login-item-new-login-title = Krijoni Kredenciale të Reja Hyrjeje
 login-item-edit-button = Përpunoni
 login-item-delete-button = Fshije
 about-logins-login-item-remove-button = Hiqi
@@ -118,7 +118,7 @@ enable-password-sync-preferences-button =
            *[other] Vizitoni Parapëlqime { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Të fshihen këto kredenciale hyrjesh?
+confirm-delete-dialog-title = Të fshihen këto kredenciale hyrjeje?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Mos më pyet më
     .accesskey = M
