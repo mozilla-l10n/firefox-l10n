@@ -518,7 +518,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY tabs_private "Private">
 <!ENTITY set_image_fail "S’arrihet të vendoset figurë">
 <!ENTITY set_image_path_fail "S’arrihet të ruhet figurë">
-<!ENTITY set_image_chooser_title "Vendose Figurën Si">
+<!ENTITY set_image_chooser_title "Vendoseni Figurën Si">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
