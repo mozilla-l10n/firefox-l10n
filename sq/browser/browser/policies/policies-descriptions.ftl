@@ -32,7 +32,7 @@ policy-DisableFirefoxScreenshots = Çaktivizoni veçorinë Foto Ekrani Firefox.
 policy-DisableFirefoxStudies = Pengojani { -brand-short-name }-it xhirimin e studimeve.
 policy-DisableForgetButton = Pengoni përdorimin e butoni Harroje.
 policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi formularësh.
-policy-DisableMasterPasswordCreation = Nëse zgjidhet <em>true</e>, s’mund të krijohet fjalëkalim i përgjithshëm.
+policy-DisableMasterPasswordCreation = Nëse caktohet <em>true</e>, s’mund të krijohet fjalëkalim i përgjithshëm.
 policy-DisablePasswordReveal = Mos lejo të shfaqen fjalëkalime te kredenciale hyrjesh të ruajtura.
 policy-DisablePocket = Çaktivizoni veçorinë e ruajtjes së faqeve web në Pocket.
 policy-DisablePrivateBrowsing = Çaktivizoni Shfletimin Privat.
@@ -58,7 +58,7 @@ policy-ExtensionSettings = Administroni krejt anët e instalimit të zgjerimeve.
 policy-ExtensionUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme të zgjerimeve.
 policy-FirefoxHome = Formësoni Kreun e Firefox-it
 policy-FlashPlugin = Lejoni ose jo përdorimin e shtojcës Flash.
-policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes hardware-it.
+policy-HardwareAcceleration = Në u caktoftë "false", çaktivizohet përshpejtimi përmes hardware-it.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Caktoni faqen hyrëse, dhe kyçeni në daçi.
 policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
