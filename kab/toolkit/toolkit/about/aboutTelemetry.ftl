@@ -16,6 +16,7 @@ about-telemetry-option-group-older = Iqbuṛen
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Isefka n tilisɣelt
+about-telemetry-current-store = Tahanut tamirant:
 about-telemetry-more-information = Tettnadiḍ ugar n telγut?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Tisemlit n isefka Firefox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Tisemlit n umsaγ tilisγelt</a>tegber tabadut yef tiktiwin, API tisemlit akked isefka ittwamlen.

@@ -47,3 +47,7 @@ accessibility-text-label-issue-toolbar = Ifeggagen n yifecka yessefk ad ttwacer�
 
 accessibility-keyboard-issue-semantics = Iferdisen izemren ad sɛun afukus yessefk ad sɛun tasnamka tamyigawant. <a>Issin ugar</a>
 accessibility-keyboard-issue-tabindex = Ɛreḍ ur seqdacet ara imyerr <code>tabindex</codei yugaren ilem. <a>Issin ugar</a>
+accessibility-keyboard-issue-action = Yessefk iferdisen imyigawanen ad izmiren ad remden s useqdec n unasiw. <a>Issin ugar</a>
+accessibility-keyboard-issue-focusable = Yessefk iferdisen imyigawanen ad izmiren ad swun afukus. <a>Issin ugar</a>
+accessibility-keyboard-issue-focus-visible = Aferdis izmren ad yesɛu afukus izmer ur iseɛɛu ara aɣanib yemmalen afukus. <a>Issin ugar</a>
+accessibility-keyboard-issue-mouse-only = Iferdisen yettwatekkayen ilaq ad izemren ad sɛun afukus daɣen ad sɛun tasnamka tamyigawant. <a>Issin ugar</a>

@@ -402,6 +402,7 @@ discover-heading = Err { -brand-short-name }-ik d udmawan
 shortcuts-heading = Sefrek inegzumen n isiɣzaf
 theme-heading-search-label = Af-d ugar n isental
 extension-heading-search-label = Af-d ugar n isiɣzaf
+default-heading-search-label = Aff-d ugar n yizegrar
 addons-heading-search-input =
     .placeholder = Nadi addons.mozilla.org
 addon-page-options-button =
