@@ -34,13 +34,16 @@ onboarding-cards-dismiss =
     .title = ألغِ
     .aria-label = ألغِ
 
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = عنوان بريدك الإلكتروني…
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = خذ معك { -brand-product-name } أينما ذهبت
 onboarding-sync-welcome-content = تشارك العلامات، وتأريخ التصفح، وكلمات السر وباقي الإعدادات على جميع أجهزتك.
 onboarding-sync-welcome-learn-more-link = اطّلع على المزيد عن حسابات فَيَرفُكس
-onboarding-sync-form-invalid-input = مطلوب بريد إلكتروني صالح
-onboarding-sync-legal-notice = بمواصلة هذه العملية أنت توافق على <a data-l10n-name="terms">بنود الخدمة</a> و<a data-l10n-name="privacy">تنويه الخصوصية</a>.
 onboarding-sync-form-input =
     .placeholder = البريد الإلكتروني
 onboarding-sync-form-continue-button = تابِع
@@ -56,6 +59,7 @@ onboarding-sync-form-sub-header = لمواصلة استخدام { -sync-brand-na
 
 onboarding-benefit-products-title = منتجات مفيدة
 onboarding-benefit-products-text = أنجِز أمورك مستخدما طقما من الأدوات يحترم خصوصيتك على مختلف الأجهزة لديك.
+onboarding-benefit-knowledge-title = المعرفة العملية
 onboarding-benefit-knowledge-text = اعرف كل ما يلزمك لتكون حذِقًا وآمنًا على شبكة الإنترنت.
 onboarding-benefit-privacy-title = خصوصية حقة
 # "Personal Data Promise" is a concept that should be translated consistently

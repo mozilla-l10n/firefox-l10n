@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = الامتدادات المقترحة
+cfr-doorhanger-feature-heading = ميّزة موصى بها
 cfr-doorhanger-pintab-heading = هيا جرّب: ثبّت اللسان
 
 
@@ -85,6 +86,9 @@ cfr-protections-panel-link-text = اطّلع على المزيد
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ميزة جديدة:
 cfr-whatsnew-button =
     .label = ما الجديد
     .tooltiptext = ما الجديد
@@ -108,6 +112,15 @@ cfr-whatsnew-lockwise-take-body =
     يتيح لك تطبيق { -lockwise-brand-short-name } للمحمول الوصول بأمان إلى
     كلمات السر التي نسختها احتياطيًا أينما كنت.
 cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
@@ -143,3 +156,6 @@ cfr-doorhanger-socialtracking-close-button = أغلِق
     .accesskey = غ
 cfr-doorhanger-socialtracking-heading = منع { -brand-short-name } إحدى الشبكات الاجتماعية من تعقّبك إلى هنا
 cfr-doorhanger-socialtracking-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب أكثر متعقّبات الشبكات الاجتماعية شيوعًا فيحدّ من بياناتك وأنت تتصفّح الإنترنت التي تجمعها.
+
+## Enhanced Tracking Protection Milestones
+
