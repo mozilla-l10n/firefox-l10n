@@ -161,6 +161,9 @@ Vous pouvez également utiliser la commande dans le menu d’aide pour signaler 
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car sa stratégie de sécurité de contenu ne le permet pas.</p>">
 
+<!ENTITY xfoBlocked.title "Bloqué par la politique X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page dans ce contexte car la politique X-Frame-Options de la page ne l’autorise pas.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Erreur due à un contenu corrompu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
 
