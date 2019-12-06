@@ -448,7 +448,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_panels_show "Shfaqe">
 <!ENTITY pref_panels_hide "Fshihe">
 <!ENTITY pref_panels_reorder "Ndryshojuni renditjen">
-<!ENTITY pref_panels_move_up "Ngjite sipër">
+<!ENTITY pref_panels_move_up "Shpjere sipër">
 <!ENTITY pref_panels_move_down "Zbrite poshtë">
 
 <!ENTITY datareporting_notification_title "Statistika &amp; të dhëna &brandShortName;">
@@ -529,7 +529,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
-<!ENTITY find_error "Frazë që s’gjendet">
+<!ENTITY find_error "Togfjalësh që s’gjendet">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -714,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ka bllokuar në këtë faqe lëndë jo të sigurt.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; -u ka bllokuar në këtë faqe ca lëndë jo të sigurt.">
-<!ENTITY mixed_content_display_loaded1 "Pjesë të kësaj faqeje (fjala vjen, figura) s’janë të sigurta.">
+<!ENTITY mixed_content_display_loaded1 "Pjesë të kësaj faqeje (fjala vjen, figura) s\&apos;janë të sigurta.">
 <!ENTITY mixed_content_protection_disabled1 "E keni çaktivizuar mbrojtjejn nga lëndë jo e sigurt.">
 
 <!-- Tracking content notifications in site identity popup -->
@@ -940,7 +940,7 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 Picture-in-picture mini window -->
 <!ENTITY pip_play_button_title "Luaje">
 <!ENTITY pip_play_button_description "Rimerr luajtjen">
-<!ENTITY pip_pause_button_title "Pushim">
+<!ENTITY pip_pause_button_title "Ndalesë">
 <!ENTITY pip_pause_button_description "Pushoje luajtjen">
 
 <!ENTITY pref_notification_settings_link "Administroni rregullime njoftimesh">
