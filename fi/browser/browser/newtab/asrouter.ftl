@@ -129,7 +129,8 @@ cfr-whatsnew-pip-cta = Lue lisää
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = Vähemmän ärsyttäviä ponnahdusikkunoita
+cfr-whatsnew-permission-prompt-header = Vähemmän ärsyttäviä ponnahdusviestejä
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } estää nyt sivustoja kysymästä automaattisesti lupaa lähettää ponnahdusviestejä.
 cfr-whatsnew-permission-prompt-cta = Lue lisää
 
 ## Fingerprinter Counter
