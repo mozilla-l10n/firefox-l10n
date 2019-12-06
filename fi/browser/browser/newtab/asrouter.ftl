@@ -134,6 +134,14 @@ cfr-whatsnew-permission-prompt-cta = Lue lisää
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Yksilöijä estetty
+       *[other] Yksilöijiä estetty
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Yksilöijät
 
