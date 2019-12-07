@@ -16,6 +16,9 @@
 <!ENTITY allowHWAccel.label            "Usar le acceleration de hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Typo de magazinage del message pro nove contos:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore2.label              "File per plica (mbox)">
+<!ENTITY maildirStore.label            "File per message (maildir)">
 
 <!ENTITY scrolling.label               "Rolamento">
 <!ENTITY useAutoScroll.label           "Usar rolamento automatic">
@@ -24,6 +27,10 @@
 <!ENTITY useSmoothScrolling.accesskey  "s">
 
 <!ENTITY systemIntegration.label       "Integration de systema">
+<!ENTITY alwaysCheckDefault.label      "Verifica sempre si &brandShortName; es le cliente email predefinite al initiation">
+<!ENTITY alwaysCheckDefault.accesskey  "s">
+<!ENTITY searchIntegration.label       "Permitter a &searchIntegration.engineName; de cercar messages">
+<!ENTITY searchIntegration.accesskey   "P">
 <!ENTITY checkDefaultsNow.label        "Controlar ora…">
 <!ENTITY checkDefaultsNow.accesskey    "o">
 <!ENTITY configEditDesc.label          "Configuration avantiate">
@@ -35,11 +42,13 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Comparti datos de performance, uso, hardware e personalisationes de tu cliente email con &vendorShortName; pro adjutar nos a meliorar &brandShortName;">
 <!ENTITY enableTelemetry.label           "Activar telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Saper plus">
 
 <!ENTITY crashReporterSection.label      "Reportator de crash">
+<!ENTITY crashReporterDesc.label         "&brandShortName; invia reportos de crash pro adjutar &vendorShortName; a render tu cliente email plus stabile e secur">
 <!ENTITY enableCrashReporter.label       "Activar reportator de crash">
 <!ENTITY enableCrashReporter.accesskey   "c">
 <!ENTITY crashReporterLearnMore.label    "Saper plus">
