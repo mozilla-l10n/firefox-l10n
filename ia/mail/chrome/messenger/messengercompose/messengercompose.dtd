@@ -259,7 +259,20 @@
 <!ENTITY attachmentBucketCloseButton.tooltip "Celar le pannello de annexos">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!ENTITY SmileButton.tooltip "Inserer un facie surridente">
+<!ENTITY smiley1Cmd.label "Surriso">
+<!ENTITY smiley2Cmd.label "Corrugation del fronte">
 <!ENTITY smiley3Cmd.label "Palpebration">
+<!ENTITY smiley4Cmd.label "Lingua de foras">
+<!ENTITY smiley5Cmd.label "Ridente">
+<!ENTITY smiley6Cmd.label "Embarassate">
+<!ENTITY smiley7Cmd.label "Indecise">
+<!ENTITY smiley8Cmd.label "Surprisa">
+<!ENTITY smiley9Cmd.label "Basio">
+<!ENTITY smiley10Cmd.label "Crito">
+<!ENTITY smiley11Cmd.label "Sympathic">
+<!ENTITY smiley12Cmd.label "Moneta in bucca">
+<!ENTITY smiley13Cmd.label "Scarpa in bucca">
 <!ENTITY smiley14Cmd.label "Innocente">
 <!ENTITY smiley16Cmd.label "Bucca sigillate">
 
