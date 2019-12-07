@@ -196,6 +196,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at 
 newtab-pocket-read-more = Populære emner:
 newtab-pocket-more-recommendations = Flere anbefalinger
 newtab-pocket-how-it-works = Sådan virker det
+newtab-pocket-whats-pocket = Hvad er { -pocket-brand-name }?
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.
 

@@ -1,4 +1,4 @@
-# This Source Code Form is subject to the terms of the Mozilla Public
+ This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
@@ -17,12 +17,6 @@ login-filter =
   .placeholder = Søg efter logins
 
 create-login-button = Opret nyt login
-
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-  .alt = Favicon for { $title }
 
 fxaccounts-sign-in-text = Få dine adgangkoder på alle dine enheder
 fxaccounts-sign-in-button = Log ind på { -sync-brand-short-name }
@@ -65,11 +59,6 @@ about-logins-login-list-empty-search-description = Din søgning gav ingen result
 login-list-item-title-new-login = Nyt login
 login-list-item-subtitle-new-login = Indtast login-oplysninger
 login-list-item-subtitle-missing-username = (intet brugernavn)
-
-about-logins-list-item-warning-icon = 
-  .alt = Advarselsikon
-  .title = Websted med datalæk
-
 about-logins-list-item-breach-icon =
   .title = Websted med datalæk
 
@@ -119,11 +108,7 @@ master-password-reload-button =
   .label = Log ind
   .accesskey = L
 
-## Dialogs
-
-confirmation-dialog-cancel-button = Annuller
-confirmation-dialog-dismiss-button =
-  .title = Annuller
+## Password Sync notification
 
 enable-password-sync-notification-message =
   { PLATFORM() ->
@@ -143,6 +128,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
   .label = Spørg mig ikke igen
   .accesskey = S
 
+## Dialogs
+
+confirmation-dialog-cancel-button = Annuller
+confirmation-dialog-dismiss-button =
+  .title = Annuller
+
 about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
 confirm-delete-dialog-confirm-button = Slet
@@ -161,12 +152,6 @@ breach-alert-dismiss =
     .title = Luk denne advarsel
 
 ## Error Messages
-
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Der findes allerede et login for { $loginTitle } med samme brugernavn.
 
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.

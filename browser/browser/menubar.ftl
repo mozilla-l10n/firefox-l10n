@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ## File Menu
 
 menu-file =
@@ -209,9 +208,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tilføjelser
     .accesskey = t
-menu-tools-sync-sign-in =
-    .label = Log ind på { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Log ind på { -brand-product-name }…
     .accesskey = g
@@ -221,9 +217,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Synkroniser nu
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Genopret forbindelse til { -sync-brand-short-name }…
-    .accesskey = G
 menu-tools-fxa-re-auth =
     .label = Genopret forbindelse til { -brand-product-name }…
     .accesskey = G
@@ -285,8 +278,7 @@ menu-help-safe-mode-with-addons =
     .label = Genstart med tilføjelser aktiveret
     .accesskey = G
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Anmeld vildledende websted…
     .accesskey = A

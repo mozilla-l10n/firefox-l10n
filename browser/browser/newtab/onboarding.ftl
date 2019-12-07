@@ -56,8 +56,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Tag { -brand-product-name } med dig
 onboarding-sync-welcome-content = Få adgang til din historik, dine bogmærker, adgangskoder og andre indstillinger på alle dine enheder.
 onboarding-sync-welcome-learn-more-link = Læs mere om Firefox-konti
-onboarding-sync-form-invalid-input = En gyldig mailadresse er påkrævet
-onboarding-sync-legal-notice = Ved at fortsætte accepterer du vores <a data-l10n-name="terms">tjenestevilkår</a> og vores <a data-l10n-name="privacy">privatlivspolitik</a>.
 
 onboarding-sync-form-input =
     .placeholder = Mailadresse
@@ -140,6 +138,7 @@ onboarding-send-tabs-title = Send nemt faneblade til dig selv
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Med funktionen Send faneblade kan du nemt og hurtigt dele websider mellem dine forskellige enheder uden alt bøvlet med at kopiere links og maile dem til dig selv
+onboarding-send-tabs-text2 = Del sider mellem dine enheder på en nem måde - uden at kopiere links eller forlade browseren.
 onboarding-send-tabs-button = Prøv funktionen
 onboarding-pocket-anywhere-title = Læs og lyt hvor som helst
 onboarding-pocket-anywhere-text2 = Gem dit yndlings-indhold offline med { -pocket-brand-name }-appen. Så kan du læse, lytte og se videoer, når det passer dig.
@@ -147,9 +146,18 @@ onboarding-pocket-anywhere-button = Prøv { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Tag dine adgangskoder med dig
 onboarding-lockwise-passwords-text2 = Brug { -lockwise-brand-name } til at opbevare dine adgangskoder sikkert og logge nemt ind på dine konti.
 onboarding-lockwise-passwords-button2 = Hent appen
+
+onboarding-lockwise-strong-passwords-title = Opret og gem stærke adgangskoder
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }  opretter stærke adgangskoder og opbevarer dem for dig.
+
+onboarding-lockwise-strong-passwords-button = Manage Your Logins
 onboarding-facebook-container-title = Sæt grænser for Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } holder din profil adskilt fra alt andet, så det bliver sværere for Facebook at målrette annoncer til dig.
 onboarding-facebook-container-button = Installer tilføjelsen
+
+onboarding-import-browser-settings-title = Importér dine bogmærker, adgangskoder og meget mere
+onboarding-import-browser-settings-text = Kom nemt i gang - og tag dine indstillinger fra Chrome med dig
+onboarding-import-browser-settings-button = Importér data fra Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
