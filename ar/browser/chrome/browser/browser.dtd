@@ -139,7 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
-<!ENTITY fxa.signin.callout.label "خذ معك فَيَرفُكس أينما ذهبت">
+<!ENTITY fxa.signin.callout.label "خذ معك Firefox أينما ذهبت">
 <!ENTITY fxa.signin.description.label "تشارك العلامات، تاريخ التّصفّح، كلمات السّر وباقي الإعدادات على جميع أجهزتك.">
 <!ENTITY fxa.signin.button.label "شغّل &syncBrand.shortName.label;…">
 
@@ -149,13 +149,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "عليك تأكيد حسابك قبل أن تزامن معلوماتك.">
 <!ENTITY fxa.unverified.button.label "افتح إعدادات &syncBrand.shortName.label;…">
 
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "ولِجت باسم">
 <!ENTITY fxa.menu.manageAccount.label "أدِر الحساب…">
 <!ENTITY fxa.menu.syncSettings.label "إعدادات &syncBrand.shortName.label;…">
+
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -167,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "لِج إلى &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "فعّل &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "خدمات &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "الحساب">
 <!ENTITY fxa.menu.settings.label "الإعدادات">
 <!ENTITY fxa.menu.accountSettings.label "إعدادات الحساب">
@@ -285,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "لقد حجبت هذا الموقع من استخدام ملحقة أدوبي فلاش.">
 <!ENTITY urlbar.midiBlocked.tooltip              "لقد حجبنا عن هذا الموقع الوصول إلى MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "حجبت تثبيت الإضافات في هذا الموقع.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
 
@@ -561,11 +561,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "ابحث مستخدمًا:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -848,7 +843,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
 <!ENTITY identity.extensionPage "حمِّلت هذه الصفحة من امتداد.">
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
-<!ENTITY identity.customRoot "تثبّت من هذا الاتصال مُصْدِر شهادات لا تعرفه موزيلا.">
+<!ENTITY identity.customRoot "تثبّت من هذا الاتصال مُصْدِر شهادات لا تعرفه Mozilla.">
 
 
 <!-- Strings for connection state warnings. -->
@@ -868,7 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "مع أنّ &brandShortName; حجب بعض المحتويات، إلا أن هناك أخرى غير آمنة ما زالت في الصفحة (مثل الصور).">
 <!ENTITY identity.description.activeLoaded "يحوي هذا الموقع محتوى غير آمن (مثل السكربتات) و اتصالك به ليس خاصا.">
 <!ENTITY identity.description.activeLoaded2 "يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).">
-<!ENTITY identity.description.customRoot "لم تتعرّف موزيلا على مُصْدِر الشهادات هذا. لربّما أضافه نظام التشغيل أو أحد المدراء.">
+<!ENTITY identity.description.customRoot "لم تتعرّف Mozilla على مُصْدِر الشهادات هذا. لربّما أضافه نظام التشغيل أو أحد المدراء.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "فعّل الحماية">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ف">
@@ -931,12 +926,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "لمَ؟">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "إن حجبتها فقد تعطب بعض العناصر في المواقع. قد لا تعمل بعض الأزرار والاستمارات ومربعات الولوج إن لم تكن هناك متعقّبات.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "إن أوقفت ميزات الحماية فستتيح عمل كل المتعقّبات في هذا الموقع. لربما يحسّن ذلك من أداء الموقع أيضا.">
-<!ENTITY protections.socialMediaTrackers.label "متعقبات مواقع التواصل الاجتماعي">
-<!ENTITY protections.crossSiteTrackingCookies.label "كعكات تتعقّبك بين المواقع">
-<!ENTITY protections.trackingContent.label "حجب المحتوى">
-<!ENTITY protections.fingerprinters.label "مسجّلات البصمات">
-<!ENTITY protections.cryptominers.label "المُعدّنات المعمّاة">
 <!ENTITY protections.noTrackersFound.description "لم تُكتشف في هذه الصفحة أي متعقّبات يعرفها &brandShortName;.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "تتعقّبك هذه الكعكات وأنت تفتح الموقع تلو الآخر لتجمع بيانات عمّا تفعله على الشبكة. هذه الكعكات تأتي من أطراف ثالثة مثل شركات الإعلان والتحليل.">
@@ -956,7 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "لِج إلى &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ل">
-
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItemSyncing.label "يُزامن…">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
@@ -995,8 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "متعقبات مواقع التواصل الاجتماعي">
 
-<!ENTITY contentBlocking.cookies2.label "كعكات تتعقّبك بين المواقع">
-
 <!ENTITY contentBlocking.cryptominers.label "المُعدّنات المعمّاة">
 <!ENTITY contentBlocking.cryptominersView.label "المُعدّنات المعمّاة">
 
@@ -1005,7 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "أبلِغ عن مشكلة">
 <!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
-<!ENTITY contentBlocking.breakageReportView2.description "يمكن أن يتسبّب حجب المحتوى بمشاكل مع بعض المواقع. عندما تُبلغ عن المشاكل تكون تساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا مسار الصفحة كما ومعلومات عن إعدادات المتصفح لديك إلى موزيلا.)">
+<!ENTITY contentBlocking.breakageReportView2.description "يمكن أن يتسبّب حجب المحتوى بمشاكل مع بعض المواقع. عندما تُبلغ عن المشاكل تكون تساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا مسار الصفحة كما ومعلومات عن إعدادات المتصفح لديك إلى Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "اطّلع على المزيد">
 
 <!ENTITY contentBlocking.breakageReportView2.learnMore "اطّلع على المزيد">

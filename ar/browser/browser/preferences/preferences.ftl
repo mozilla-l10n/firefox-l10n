@@ -121,7 +121,7 @@ startup-header = البدء
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = اسمح بتشغيل { -brand-short-name } و فَيَرفُكس في نفس الوقت
+    .label = اسمح بتشغيل { -brand-short-name } و Firefox في نفس الوقت
 use-firefox-sync = فائدة: يستخدم هذا ملفات إعدادات مستقلة. استخدم { -sync-brand-short-name } لمشاركة البيانات بينهما.
 get-started-not-logged-in = لِج إلى { -sync-brand-short-name }…
 get-started-configured = افتح تفضيلات { -sync-brand-short-name }
@@ -321,7 +321,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = محتوى إدارة الحقوق الرقمية (DRM)
 play-drm-content =
@@ -442,7 +442,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = صفحة بداية فَيَرفُكس (المبدئية)
+    .label = صفحة بداية Firefox (المبدئية)
 home-mode-choice-custom =
     .label = عناوين مخصصة…
 home-mode-choice-blank =
@@ -466,8 +466,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = محتوى فَيَرفُكس الرئيسي
-home-prefs-content-description = اختر المحتوى الذي تريد عرضه في شاشة بداية فَيَرفُكس.
+home-prefs-content-header = محتوى Firefox الرئيسي
+home-prefs-content-description = اختر المحتوى الذي تريد عرضه في شاشة بداية Firefox.
 home-prefs-search-header =
     .label = ابحث في الوِب
 home-prefs-topsites-header =
@@ -594,7 +594,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = نزّل فيرفكس <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">أندرويد</a> أو <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">آي أو إس</a> للمزامنة مع هاتفك المحمول.
+sync-mobile-promo = نزّل Firefox لنظامي <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">أندرويد</a> أو <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">آي أو إس</a> للمزامنة مع هاتفك المحمول.
 
 ## Sync Section - Signed in
 
@@ -733,6 +733,7 @@ privacy-header = خصوصية المتصفح
 ## Privacy Section - Logins and Passwords
 
 logins-header = جلسات الولوج وكلمات السر
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = اطلب مني حفظ كلمات سر و بيانات ولوج مواقع الوِب
     .accesskey = ط
@@ -743,6 +744,7 @@ forms-generate-passwords =
     .label = ولّد كلمات سر قوية واقترحها عليّ
     .accesskey = ك
 forms-breach-alerts-learn-more-link = اطّلع على المزيد
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = املأ جلسات الولوج وكلمات السر تلقائيا
     .accesskey = م
@@ -894,7 +896,7 @@ enhanced-tracking-protection-setting-custom =
     .label = مخصّص
     .accesskey = خ
 
-##
+
 
 content-blocking-etp-standard-desc = يوازن بين الحماية والأداء. ستتحمّل الصفحات كالعادة.
 content-blocking-etp-strict-desc = حماية أقوى وأعتى، لكنها قد تعطب محتويات بعض المواقع أو المواقع نفسها.

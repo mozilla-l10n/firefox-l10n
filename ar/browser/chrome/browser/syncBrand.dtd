@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "تزامُن">
-<!ENTITY syncBrand.fullName.label   "تزامُن فَيَرفُكس">
-<!ENTITY syncBrand.fxAccount.label  "حساب فَيَرفُكس">
+<!ENTITY syncBrand.fullName.label   "Firefox Sync">
+<!ENTITY syncBrand.fxAccount.label  "حساب Firefox">

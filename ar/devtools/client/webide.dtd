@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "بيئة فَيَرفُكس لتطوير الوب">
+<!ENTITY windowTitle "بيئة Firefox لتطوير الوب">
 
 <!ENTITY projectMenu_label "مشروع">
 <!ENTITY projectMenu_accesskey "ش">
@@ -51,6 +51,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "ف">
 
 <!ENTITY projectButton_label "افتح تطبيقا">
+
 <!ENTITY runtimeButton_label "اختر بيئة تشغيل">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -71,7 +72,6 @@
 <!ENTITY runtimePanel_usb "أجهزة USB">
 <!ENTITY runtimePanel_wifi "أجهزة واي-فاي">
 <!ENTITY runtimePanel_other "أخرى">
-<!ENTITY runtimePanel_noadbhelper "نصّب «مساعد Adb»">
 <!ENTITY runtimePanel_nousbdevice "لم تجد جهازك؟">
 <!ENTITY runtimePanel_refreshDevices_label "أنعش الأجهزة">
 
@@ -113,11 +113,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "معلومات بيئة التشغيل">
-<!ENTITY runtimedetails_adbIsRoot "ADB‏ جذر: ">
-<!ENTITY runtimedetails_ADBRootWarning "(يحتاج محمل إقلاع مُزال قفله)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "صلاحيات DevTools مطلقة وغير محدودة: ">
-<!ENTITY runtimedetails_requestPrivileges "يحتاج امتيازات أعلى">
-<!ENTITY runtimedetails_privilegesWarning "(سيُعيد إقلاع الجهاز. يطلب تصاريح الجذر.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "عدد منطقي">

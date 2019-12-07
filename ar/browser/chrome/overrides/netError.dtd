@@ -9,10 +9,7 @@
 <!ENTITY retry.label "حاول مجددًا">
 <!ENTITY returnToPreviousPage.label "عُد للخلف">
 <!ENTITY returnToPreviousPage1.label "عُد للخلف (يُنصح به)">
-<!ENTITY advanced.label "متقدم">
-<!ENTITY continue2.label "أكثر…">
 <!ENTITY advanced2.label "متقدم…">
-<!ENTITY moreInformation.label "المزيد من المعلومات">
 <!ENTITY viewCertificate.label "اعرض الشهادة">
 
 <!-- Specific error messages -->
@@ -90,13 +87,11 @@
 <!ENTITY nssFailure2.title "فشل الاتصال الآمن">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "اتّصالك غير آمن">
 <!ENTITY certerror.longpagetitle2 "تحذير: أمامك خطر أمني محتمل">
 <!ENTITY certerror.sts.longpagetitle  "لم يجري الاتصال: مشكلة أمنية محتملة">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "لم يضبط مالك <span class='hostname'/> موقعه عل نحو سليم.  لحماية معلوماتك من السرقة، لم يتصل &brandShortName; بهذا الموقع.">
 <!ENTITY certerror.introPara2 "اكتشف &brandShortName; خطرًا أمنيًا محتملًا ولم يُتابع نحو <span class='hostname'/>. إن زرت هذا الموقع فقد يحاول المهاجمون سرقة المعلومات منك مثل كلمات السر أو البُرد الإلكترونية أو تفاصيل بطاقات الائتمان.">
 <!ENTITY certerror.sts.introPara "اكتشف &brandShortName; خطرا أمنيا محتملا ولم يُتابع نحو <span class='hostname'/> لأن هذا الموقع يطلب اتّصال آمن.">
 
@@ -125,14 +120,13 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "حجبتها سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "خطأ محتوى فاسد">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
 <!ENTITY securityOverride.exceptionButton1Label "أقبلُ المخاطرة فتابِع">
 
-<!ENTITY errorReporting.automatic2 "أبلغ عن مثل هذه الأعطال لمساعدة موزيلا في التعرف على المواقع الخبيثة و حجبها">
+<!ENTITY errorReporting.automatic2 "أبلغ عن مثل هذه الأعطال لمساعدة Mozilla في التعرف على المواقع الخبيثة و حجبها">
 <!ENTITY errorReporting.learnMore "اطّلع على المزيد…">
 
 <!ENTITY remoteXUL.title "XUL بعيد">
@@ -143,16 +137,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "معلومات متقدمة: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>تعذّر على &brandShortName; الاتصال مع <span id='wrongSystemTime_URL'/> لأن ساعة حاسوبك تعطي وقتًا غير صحيح و هذا يمنع الاتصال الآمن.</p> <p>حاسوبك مضبوط على <span id='wrongSystemTime_systemDate'/> في حين أن الوقت الآن <span id='wrongSystemTime_actualDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>تعذّر على &brandShortName; الاتصال مع <span id='wrongSystemTimeWithoutReference_URL'/> لأن ساعة حاسوبك تعطي وقتًا غير صحيح و هذا يمنع الاتصال الآمن.</p><p>حاسوبك مضبوط على <span id='wrongSystemTimeWithoutReference_systemDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
-
-<!ENTITY certerror.pagetitle1  "اتصال غير آمن">
 <!ENTITY certerror.pagetitle2  "تحذير: أمامك خطر أمني محتمل">
 <!ENTITY certerror.sts.pagetitle  "لم يجري الاتصال: مشكلة أمنية محتملة">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع سياسة النقل الصارمة (HSTS) تفرض على &brandShortName; ألا يتصل به إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "يستخدم الموقع <span class='hostname'></span> سياسة النقل الصارمة (HSTS)، ما يعني بأن &brandShortName; لا يستطيع الاتصال به إلا بأمان. لا يمكنك إضافة استثناء لزيارة هذا الموقع.">
 <!ENTITY certerror.copyToClipboard.label "انسخ النص إلى الحافظة">
 
@@ -175,6 +161,7 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "يبدو أن إعدادات أمان الشبكة قد تكون السبب وراء هذا. أتريد استعادة الإعدادات المبدئية؟">
 <!ENTITY prefReset.label "استرجع الإعدادات الأصلية">
+
 
 <!ENTITY networkProtocolError.title "عُطل في بروتوكول الشبكة">
 <!ENTITY networkProtocolError.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها لاكتشاف عُطل في بروتوكول الشبكة.</p><ul><li>من فضلك تواصل مع مالكي الموقع لإبلاغهم بهذه المشكلة.</li></ul>">

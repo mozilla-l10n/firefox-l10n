@@ -20,4 +20,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = فَيَرفُكس وشعاراته علامات تجارية لمؤسسة موزيلا.
+trademarkInfo = متصفّح Firefox وشعاراته علامات تجارية لمؤسسة Mozilla.
