@@ -440,7 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Monstrar tote le schedas de iste apparato">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activar le synchronisation pro vider un lista de schedas de tu altere apparatos.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa le synchronisation de schedas pro vider un lista de schedas de tu altere apparatos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->

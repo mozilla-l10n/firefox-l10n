@@ -27,8 +27,8 @@ protection-report-header-details-strict = Le nivello de protection es adjustate 
     .title = Ir al parametros de vita private
 protection-report-header-details-custom = Le nivello de protection es adjustate a <b>Personalisate</b>
     .title = Ir al parametros de vita private
-protection-report-page-title = Protectiones del confidentialitate
-protection-report-content-title = Protectiones del confidentialitate
+protection-report-page-title = Protectiones del vita private
+protection-report-content-title = Protectiones del vita private
 etp-card-title = Protection antitraciamento reinfortiate
 etp-card-content = Le traciatores te seque in linea pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
 protection-report-etp-card-content-custom-not-blocking = Tote le protectiones es actualmente disactivate. Selige le traciatores a blocar per gerer le parametros de protection de { -brand-short-name }.
@@ -60,8 +60,8 @@ lockwise-no-logins-content = Obtene le application <a data-l10n-name="lockwise-i
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored =
     { $count ->
-        [one] Contrasigno immagazinate con securitate <a data-l10n-name="lockwise-how-it-works">Como illo functiona</a>
-       *[other] Contrasignos immagazinate con securitate <a data-l10n-name="lockwise-how-it-works">Como illo functiona</a>
+        [one] contrasigno memorisate con securitate <a data-l10n-name="lockwise-how-it-works">Como functiona</a>
+       *[other] contrasignos memorisate con securitate <a data-l10n-name="lockwise-how-it-works">Como functiona</a>
     }
 turn-on-sync = Accende { -sync-brand-short-name }…
     .title = Ir al preferentias de Sync
