@@ -20,7 +20,11 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY leaveOnServer.label "Lassar messages sur le servitor">
+<!ENTITY modelMoveToTrash.label "Displaciar lo a iste dossier:">
+<!ENTITY modelMoveToTrash.accesskey "o">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY emptyTrashOnExit.label "Vacuar le corbe a papiro al exito">
+<!ENTITY emptyTrashOnExit.accesskey "x">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
