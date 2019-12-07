@@ -77,7 +77,7 @@ modified-key-prefs-title = Preferentias importante modificate
 modified-prefs-name = Nomine
 modified-prefs-value = Valor
 user-js-title = Preferentias de user.js
-user-js-description = Le dossier de tu profilo contine un <a data-l10n-name="user-js-link">file user.js</a>, que include preferentias que non esseva create per { -brand-short-name }.
+user-js-description = Le dossier de tu profilo contine un <a data-l10n-name="user-js-link">file user.js</a> con preferentias non create per { -brand-short-name }.
 locked-key-prefs-title = Preferentias importante blocate
 locked-prefs-name = Nomine
 locked-prefs-value = Valor

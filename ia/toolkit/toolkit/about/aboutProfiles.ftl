@@ -47,9 +47,9 @@ profiles-delete-profile-title = Deler le profilo
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Le deler del profilo lo removera del lista de profilos disponibile e es irreversibile.
-    Tu pote optar pro deler tamben le files de datos del profilo, includente tu parametros, certificatos e altere datos personal. Iste option delera le dossier “{ $dir }” e es irreversibile.
-    Desira tu deler le files de datos del profilo?
+    Deler un profilo lo removera del lista de profilos e es irreversibile.
+    Tu pote etiam optar pro deler le files del profilo, incluse tu parametros, certificatos e altere datos personal. Iste option destruera le dossier “{ $dir }” e es irreversibile.
+    Vole tu deler le files de datos del profilo?
 profiles-delete-files = Deler files
 profiles-dont-delete-files = Non deler le files
 profiles-delete-profile-failed-title = Error
