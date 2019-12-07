@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Preencher credenciais">
 <!ENTITY fillLoginMenu.accesskey      "P">
-<!ENTITY fillSuggestedPassword.label  "Utilizar uma palavra-passe sugerida">
-<!ENTITY fillSuggestedPassword.accesskey "s">
 <!ENTITY fillGeneratedPassword.label  "Utilizar uma palavra-passe gerada com segurança">
 <!ENTITY fillGeneratedPassword.accesskey "s">
+<!ENTITY useGeneratedPassword.label   "Utilizar uma palavra-passe gerada com segurança…">
+<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Preencher palavra-passe">
 <!ENTITY fillPasswordMenu.accesskey   "P">
 <!ENTITY fillUsernameMenu.label       "Preencher nome de utilizador">
