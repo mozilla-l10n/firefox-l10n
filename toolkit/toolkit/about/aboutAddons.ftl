@@ -451,6 +451,7 @@ theme-heading = Administrar tes designs
 plugin-heading = Administrar tes plug-ins
 dictionary-heading = Administrar tes dicziunaris
 locale-heading = Administrar tias linguas
+updates-heading = Administrar las actualisaziuns
 discover-heading = Persunalisescha tes { -brand-short-name }
 shortcuts-heading = Administrar scursanidas dad extensiuns
 theme-heading-search-label = Chattar ulteriurs designs

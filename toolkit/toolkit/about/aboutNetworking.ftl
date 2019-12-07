@@ -16,6 +16,7 @@ auto-refresh = Actualisar automaticamain mintga 3 secundas
 hostname = Num dal host
 port = Port
 http2 = HTTP/2
+about-networking-http-version = Versiun HTTP
 ssl = SSL
 active = Activ
 idle = inactiv
