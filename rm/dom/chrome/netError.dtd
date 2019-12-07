@@ -80,6 +80,9 @@
 <!ENTITY cspBlocked.title "Bloccà da las directivas per la segirezza dal cuntegn">
 <!ENTITY cspBlocked.longDesc "<p>Il navigatur ha impedì che questa pagina chargia en tala maniera perquai che la pagina cuntegna directivas per la segirezza dal cuntegn (content security policy) che scumondan quai.</p>">
 
+<!ENTITY xfoBlocked.title "Bloccà dad ina directiva X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Il navigatur ha impedì che questa pagina vegnia chargiada en quest context perquai che la pagina cuntegna ina directiva X-Frame-Options che scumonda quai.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Errur da cuntegn donnegià">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Impussibel da visualisar la pagina che ti vuls chargiar perquai ch'ina errur è sa mussada en la transmissiun da datas.</p><ul><li>Contactescha per plaschair ils possessurs da la website per als infurmar davart quest problem.</li></ul>">
 
