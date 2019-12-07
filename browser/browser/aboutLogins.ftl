@@ -50,6 +50,7 @@ login-list-count =
     }
 login-list-sort-label-text = افرز حسب:
 login-list-name-option = الاسم (ا-ي)
+login-list-breached-option = المواقع المسرّبة بياناتها
 login-list-last-changed-option = آخر تعديل
 login-list-last-used-option = آخر استخدام
 login-list-intro-title = لا جلسات ولوج
@@ -57,11 +58,15 @@ login-list-intro-description = متى ما حفظت كلمة سر في { -brand-
 about-logins-login-list-empty-search-title = لا جلسات ولوج
 about-logins-login-list-empty-search-description = لا نتائج تطابق البحث.
 login-list-item-title-new-login = جلسة ولوج جديدة
+login-list-item-subtitle-new-login = أدخِل معلومات الولوج
 login-list-item-subtitle-missing-username = (لا اسم مستخدم)
+about-logins-list-item-breach-icon =
+    .title = موقع مسرّب بياناته
 
 ## Introduction screen
 
 login-intro-heading = أتبحث عن جلسات ولوجك المحفوظة؟ إذًا اضبط { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = لم نجد أيّ جلسة ولوج متزامنة.
 login-intro-description = إن حفظت جلسات ولوجك في { -brand-product-name } على جهاز آخر، فهكذا يمكنك أن تزامنها هنا:
 login-intro-instruction-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
 login-intro-instruction-fxa-settings = تحقّق من تحديد مربع ”جلسات الولوج“ في إعدادات { -sync-brand-short-name }
@@ -117,6 +122,9 @@ enable-password-sync-preferences-button =
         }
     .accesskey = ف
 confirm-delete-dialog-title = أأحذف هذا الولوج؟
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = لا تسألني ثانيةً
+    .accesskey = ت
 
 ## Dialogs
 
@@ -132,6 +140,7 @@ confirm-discard-changes-dialog-confirm-button = أهمِل
 ## Breach Alert notification
 
 breach-alert-text = تسرّبت كلمات السر (أو سُرقت) من هذا الموقع مذ حدّثت بيانات ولوجك فيه. غيّر كلمة السر لتحمي حسابك من الاختراق.
+breach-alert-link = اعرف المزيد عن تسرّب البيانات هذا.
 breach-alert-dismiss =
     .title = أغلِق هذا التنبيه
 

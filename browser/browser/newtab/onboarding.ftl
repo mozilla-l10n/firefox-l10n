@@ -22,6 +22,7 @@ onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
 onboarding-welcome-modal-family-learn-more = خُذ نظرة على طقم منتجات { -brand-product-name }.
+onboarding-welcome-form-header = ابدأ هنا
 onboarding-join-form-header = انضم إلى { -brand-product-name }
 onboarding-join-form-body = أدخِل عنوان البريد الإلكتروني لتبدأ.
 onboarding-join-form-email =
@@ -96,6 +97,8 @@ onboarding-data-sync-title = خُذ إعداداتك أينما ذهبت
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = زامِن علاماتك وكلمات السر وغيرها الكثير في أيّ مكان تستخدم فيه { -brand-product-name }.
 onboarding-data-sync-button2 = لِج إلى { -sync-brand-short-name }
+onboarding-firefox-monitor-title = اعلم متى يحدث تسرّب بيانات
+onboarding-firefox-monitor-text = يراقب { -monitor-brand-name } وينبّهك لو ظهر بريدك الإلكتروني في أيّ تسرّب بيانات جديد.
 onboarding-browse-privately-title = تصفَّح بخصوصية
 onboarding-browse-privately-text = يمسح التصفح الخاص تأريخ البحث والتصفح ليُبقيه سرًا على أي شخص يستخدم هذا الحاسوب.
 onboarding-browse-privately-button = افتح نافذة خاصة

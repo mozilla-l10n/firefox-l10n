@@ -45,9 +45,6 @@ newtab-topsites-save-button = احفظ
 newtab-topsites-preview-button = عايِن
 newtab-topsites-add-button = أضِفْ
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = هل أنت متأكد أنك تريد حذف كل وجود لهذه الصفحة من تأريخك؟
@@ -88,6 +85,7 @@ newtab-menu-archive-pocket = أرشِف في { -pocket-brand-name }
 
 newtab-privacy-modal-button-done = تمّ
 newtab-privacy-modal-header = خصوصيتك فوق كل شيء.
+newtab-privacy-modal-link = تعرّف على طريقة عمل الخصوصية في الألسنة الجديدة
 
 
 
@@ -95,10 +93,6 @@ newtab-privacy-modal-header = خصوصيتك فوق كل شيء.
 newtab-menu-remove-bookmark = أزل العلامة
 # Bookmark is a verb here.
 newtab-menu-bookmark = علّم
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -128,10 +122,6 @@ newtab-label-removed-bookmark = أُزيلت العلامة
 newtab-label-recommended = مُتداول
 newtab-label-saved = حُفِظت في { -pocket-brand-name }
 newtab-label-download = نُزّل
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
