@@ -28,7 +28,7 @@ policy-DisableDeveloperTools = منع الوصول إلى أدوات المطو�
 policy-DisableFeedbackCommands = تعطيل أوامر إرسال الانطباعات في قائمة المساعدة (”أرسِل تعليقًا“ و ”أبلغ عن موقع مخادع“).
 policy-DisableFirefoxAccounts = تعطيل الخدمات التي تعتمد { -fxaccount-brand-name }، بما في ذلك المزامنة.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = تعطيل ميزة لقطات شاشة فَيَرفُكس.
+policy-DisableFirefoxScreenshots = تعطيل ميزة لقطات شاشة Firefox.
 policy-DisableFirefoxStudies = منع { -brand-short-name } من تشغيل الدارسات.
 policy-DisableForgetButton = منع الوصول إلى زر النسيان.
 policy-DisableFormHistory = عدم تذكّر تأريخ الاستمارات والبحث.
@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتو
 policy-Extensions = تثبيت أو إزالة أو قفل حالة الامتدادات. يأخذ خيار التثبيت مسارات محلية أو شبكية كمعطيات. يأخذ خياري الإزالة والقفل معرّفات الامتدادات.
 policy-ExtensionSettings = أدِر كل ما يتعلّق بتثبيت الامتدادات.
 policy-ExtensionUpdate = تفعيل/تعطيل تحديث الامتدادات تلقائيًا.
-policy-FirefoxHome = ضبط صفحة المنزل لِفَيَرفُكس.
+policy-FirefoxHome = ضبط صفحة المنزل داخل Firefox.
 policy-FlashPlugin = السماح باستخدام ملحقة فلاش أو منع ذلك.
 policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسريع العتادي.
 # “lock” means that the user won’t be able to change this setting

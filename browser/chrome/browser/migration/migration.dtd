@@ -27,8 +27,8 @@
 <!ENTITY importFromChromeDev.accesskey  "ط">
 <!ENTITY importFromChromium.label       "كروميوم">
 <!ENTITY importFromChromium.accesskey   "م">
-<!ENTITY importFromFirefox.label        "فَيَرفُكس">
-<!ENTITY importFromFirefox.accesskey    "ف">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFrom360se.label          "متصفح ٣٦٠ الآمن">
 <!ENTITY importFrom360se.accesskey      "3">
 

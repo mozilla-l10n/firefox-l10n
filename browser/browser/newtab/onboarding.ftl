@@ -45,7 +45,7 @@ onboarding-fullpage-form-email =
 
 onboarding-sync-welcome-header = خذ معك { -brand-product-name } أينما ذهبت
 onboarding-sync-welcome-content = تشارك العلامات، وتأريخ التصفح، وكلمات السر وباقي الإعدادات على جميع أجهزتك.
-onboarding-sync-welcome-learn-more-link = اطّلع على المزيد عن حسابات فَيَرفُكس
+onboarding-sync-welcome-learn-more-link = اطّلع على المزيد عن حسابات Firefox
 onboarding-sync-form-input =
     .placeholder = البريد الإلكتروني
 onboarding-sync-form-continue-button = تابِع

@@ -102,6 +102,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = فعّل قائمة ”مطو�
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = فعّل ”تصحيح أخطاء USB/‏USB Debugging“ في قائمة ”مطور البرامج/Developer“.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = فعّل التنقيح عبر USB في متصفح Firefox على أجهزة أندرويد.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = أوصِل جهاز أندرويد بهذا الحاسوب.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
