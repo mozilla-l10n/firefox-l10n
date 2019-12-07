@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
-<!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.label "Vídeo em janela flutuante">
 
 <!ENTITY stats.media "Multimédia">
 <!ENTITY stats.size "Tamanho">
@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Não foi encontrado nenhum vídeo com um formato e tipo MIME suportado.">
 <!ENTITY error.generic "Reprodução de vídeo abortada devido a um erro desconhecido.">
 
-<!ENTITY status.pictureInPicture "Este vídeo está a ser reproduzido no modo Picture-in-Picture.">
+<!ENTITY status.pictureInPicture "Este vídeo está a ser reproduzido no modo vídeo em janela flutuante.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

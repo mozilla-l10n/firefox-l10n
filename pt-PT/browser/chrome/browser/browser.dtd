@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Gerir conta…">
 <!ENTITY fxa.menu.syncSettings.label "Definições do &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Ocultar seletor Imagem na imagem">
+<!ENTITY pictureInPictureHideToggle.label "Ocultar o comutador de vídeo em janela flutuante">
 <!ENTITY pictureInPictureHideToggle.accesskey "O">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.label "Vídeo em janela flutuante">
 <!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
