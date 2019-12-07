@@ -7,6 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Pro sparniar spatio del disco, discargamento del messages ab le servitor e magazinage de copias local pro uso offline pote esser gerite per etate e dimension.">
 <!ENTITY allFoldersOffline2.label "Conservar le messages de tote le dossiers de iste conto sur iste computator">
 <!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Nota: Cambiar iste affice tote le plicas in iste conto. Pro definir plicas singule, usa le button Avantiate…">
 <!ENTITY offlineNotDownload.label "Messages major de">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Non discargar messages major de">
@@ -27,7 +28,12 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Deler toto salvo le plus recente">
 <!ENTITY retentionKeepRecent.accesskey "s">
+<!ENTITY retentionApplyToFlagged.label "Mantene sempre messages stellate">
+<!ENTITY retentionApplyToFlagged.accesskey "M">
+<!ENTITY nntpRemoveMsgBody.label "Remove corpores del messages major de">
+<!ENTITY nntpRemoveMsgBody.accesskey "a">
 <!ENTITY offlineSelectNntp.label "Selige gruppos pro uso foras de linea…">
+<!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avantiate…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Synchronisation de message">
@@ -39,6 +45,10 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.label               "Synchronisa tote le messages de omne tempore in loco">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Synchronisa le plus recente">
+<!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Dies">
 <!ENTITY weekAgeInterval.label           "Septimanas">
