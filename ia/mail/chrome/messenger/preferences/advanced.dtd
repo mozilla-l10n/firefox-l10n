@@ -9,9 +9,13 @@
 <!ENTITY itemCertificates.label  "Certificatos">
 
 <!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Activar le recerca e indexation global">
+<!ENTITY enableGlodaSearch.accesskey   "g">
+<!ENTITY dateTimeFormatting.label      "Formato de data e hora">
 <!ENTITY languageSelector.label        "Lingua">
 <!ENTITY allowHWAccel.label            "Usar le acceleration de hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Typo de magazinage del message pro nove contos:">
 
 <!ENTITY scrolling.label               "Rolamento">
 <!ENTITY useAutoScroll.label           "Usar rolamento automatic">

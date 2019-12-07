@@ -30,5 +30,8 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Rader le lista">
 <!ENTITY cmd.clearList.tooltip            "Remove entratas terminate, cancellate e fallite del lista">
+<!ENTITY cmd.clearList.accesskey          "t">
+<!ENTITY cmd.find.commandkey              "f">
+<!ENTITY cmd.search.commandkey            "c">
 
 <!ENTITY searchBox.label                  "Cercar…">
