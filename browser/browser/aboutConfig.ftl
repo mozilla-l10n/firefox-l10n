@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Тут мешкають дракони!
-about-config-warning-text = Зміна цих налаштувань може вплинути на стабільність, безпеку та швидкодію цієї програми. Вам слід продовжувати лише в тому випадку, якщо ви впевнені в своїх діях.
+about-config-warning-text = Зміна цих розширених налаштувань може вплинути на стабільність, безпеку та швидкодію цієї програми. Вам слід продовжувати лише в тому випадку, якщо ви впевнені в своїх діях.
 about-config-warning-checkbox = Нагадувати мені про це знову!
 about-config-warning-button = Я погоджуюся на ризик
 about-config2-title = Розширені налаштування
@@ -15,7 +15,7 @@ about-config-search-input =
 
 about-config-intro-warning-title = Продовжуйте обережно
 about-config-intro-warning-text = Зміна розширених налаштувань може вплинути на швидкодію і безпеку { -brand-short-name }.
-about-config-intro-warning-checkbox = Попередити мене, коли я намагаюся отримати доступ до цих налаштувань
+about-config-intro-warning-checkbox = Попереджати мене, коли я намагаюся отримати доступ до цих налаштувань
 about-config-intro-warning-button = Погодитись на ризик і продовжити
 
 
@@ -24,7 +24,7 @@ about-config-intro-warning-button = Погодитись на ризик і пр
 about-config-caution-text = Зміна цих налаштувань може вплинути на швидкодію чи безпеку { -brand-short-name }.
 about-config-page-title = Розширені налаштування
 about-config-search-input1 =
-    .placeholder = Пошук назви налаштування
+    .placeholder = Шукати параметр за назвою
 about-config-show-all = Показати все
 about-config-pref-add = Додати
 about-config-pref-toggle = Перемкнути
