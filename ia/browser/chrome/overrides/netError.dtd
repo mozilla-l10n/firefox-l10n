@@ -213,7 +213,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Un software impedi &brandShortName; de connecter se securmente a iste sito">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> es probabilemente un sito secur, ma un connexion secur non poteva esser establite. Iste problema es causate per <span class='mitm-name'/>, que es o un software in tu computator o tu rete.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si tu programma antivirus ha un function que scanna connexiones cryptate (generalmente appellate “scan web” o “scan https”), tenta disactivar iste function. Si isto non resolve le problema, tenta remover e reinstallar le software antivirus.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si tu programma antivirus ha un function que controla connexiones cryptate (generalmente appellate “scan web” o “scan https”), tenta disactivar iste function. Si isto non resolve le problema, tenta remover e reinstallar le software antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si tu es in un rete corporative, tu pote contactar tu assistentia technic.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco e tu non deberea sequer al sito.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco, e il non ha qualcosa que tu pote facer pro acceder al sito.">

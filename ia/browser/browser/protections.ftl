@@ -82,12 +82,12 @@ lockwise-connected-device-status =
         [one] Connectite a { $count } apparato
        *[other] Connectite a { $count } apparatos
     }
-monitor-title = Reguardar violationes de datos
+monitor-title = Vigilantia contra violationes de datos
 monitor-link = Como illo functiona
 monitor-header-content-no-account = Consulta { -monitor-brand-name } pro vider si tu ha essite parte de un violation cognoscite de datos e reciper avisos sur nove violationes.
 monitor-header-content-signed-in = { -monitor-brand-name } te adverti si tu information ha apparite in un violation cognoscite de datos.
 monitor-sign-up = Inscriber te al Avisos de violation
-auto-scan = Automaticamente scandite hodie
+auto-scan = Controlate automaticamente hodie
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
