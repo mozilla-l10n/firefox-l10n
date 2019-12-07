@@ -46,7 +46,7 @@ app-basics-service-workers = عمّال الخدمة المسجلين
 app-basics-profiles = ملفات الإعدادات
 app-basics-multi-process-support = نوافذ متعددة السيرورات
 app-basics-enterprise-policies = سياسات المؤسسات
-app-basics-key-mozilla = مفتاح خدمة التموضع من موزيلا
+app-basics-key-mozilla = مفتاح خدمة التموضع من Mozilla
 app-basics-safe-mode = الوضع الآمن
 show-dir-label =
     { PLATFORM() ->
@@ -115,7 +115,7 @@ media-device-channels = القنوات
 media-device-rate = المعدل
 media-device-latency = الكمون
 
-##
+
 
 intl-title = التدويل و التوطين
 intl-app-title = إعدادات التطبيق
@@ -126,6 +126,19 @@ intl-locales-default = المحلية المبدئية
 intl-os-title = نظام التشغيل
 intl-os-prefs-system-locales = محليات النظام
 intl-regional-prefs = التفضيلات الإقليمية
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

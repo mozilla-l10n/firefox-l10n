@@ -14,14 +14,14 @@ enable-learn-more-link = اطّلع على المزيد عن أدوات المط
 enable-enable-button = فعّل أدوات المطورين
 enable-close-button = أغلق هذا اللسان
 welcome-title = مرحبًا في أدوات Firefox للمطورين!
-newsletter-title = نشرة موزيلا البريدية للمطوّرين
+newsletter-title = نشرة Mozilla البريدية للمطوّرين
 newsletter-message = استلم أخبار المطورين والخدع والموارد من صندوق بريدك مباشرة.
 newsletter-email-placeholder =
     .placeholder = البريد الإلكتروني
-newsletter-privacy-label = لا أمانع بأن تستخدم موزيلا معلوماتي كما هو موضح في <a data-l10n-name="privacy-policy">سياسة الخصوصية</a>.
+newsletter-privacy-label = لا أمانع بأن تستخدم Mozilla معلوماتي كما هو موضح في <a data-l10n-name="privacy-policy">سياسة الخصوصية</a>.
 newsletter-subscribe-button = اشترك
 newsletter-thanks-title = شكرًا!
-newsletter-thanks-message = إن لم يسبق لك تأكيد اشتراكك في إحدى نشرات موزيلا البريدية فقد تحتاج فعل ذلك. رجاءً افحص صندوق الوارد لديك أو مرشّح السخام بحثا عن الرسالة التي أرسلناها.
+newsletter-thanks-message = إن لم يسبق لك تأكيد اشتراكك في إحدى نشرات Mozilla البريدية فقد تحتاج فعل ذلك. رجاءً افحص صندوق الوارد لديك أو مرشّح السخام بحثا عن الرسالة التي أرسلناها.
 footer-title = إصدارة Firefox للمطورين
 footer-message = هل تبحث عن ما هو أكثر من أدوات للمطورين؟ اطّلع على متصفح Firefox والذي صُنع خصيصا للمطورين ولأساليب العمل الحديثة.
 footer-learn-more-link = اطّلع على المزيد
