@@ -567,11 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Søg med:">
 
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Søg denne gang med:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -938,12 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ved at blokere disse virker elementer på visse websteder måske ikke. Uden sporings-elementer virker nogle knapper, formularer og login-felter måske ikke.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Deaktivering af beskyttelse tillader alle sporings-elementer på dette websted. Det kan måske også forbedre webstedets funktionalitet.">
-<!ENTITY protections.socialMediaTrackers.label "Sporing via sociale medier">
-<!ENTITY protections.crossSiteTrackingCookies.label "Sporings-cookies på tværs af websteder">
-<!ENTITY protections.trackingContent.label "Sporings-indhold">
-<!ENTITY protections.fingerprinters.label "Fingerprinters">
-<!ENTITY protections.cryptominers.label "Cryptominers">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alle sporings-mekanismer på dette websted er blevet indlæst, fordi beskyttelse er slået fra.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; fandt ikke kendte sporings-mekanismer på denne side.">
 
@@ -1005,8 +994,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
 <!ENTITY contentBlocking.socialblock.label "Sporing via sociale medier">
-
-<!ENTITY contentBlocking.cookies2.label "Sporings-cookies på tværs af websteder">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">

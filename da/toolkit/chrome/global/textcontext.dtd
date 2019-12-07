@@ -31,6 +31,8 @@
 <!ENTITY fillLoginMenu.accesskey      "U">
 <!ENTITY fillGeneratedPassword.label  "Brug en sikkert genereret adgangskode">
 <!ENTITY fillGeneratedPassword.accesskey "s">
+<!ENTITY useGeneratedPassword.label   "Brug en sikkert genereret adgangskode…">
+<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Udfyld adgangskode">
 <!ENTITY fillPasswordMenu.accesskey   "U">
 <!ENTITY fillUsernameMenu.label       "Udfyld brugernavn">

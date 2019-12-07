@@ -143,6 +143,34 @@ cfr-whatsnew-lockwise-take-body =
    uanset hvor du er.
 cfr-whatsnew-lockwise-take-link-text = Hent appen
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Se videoer, mens du browser
+cfr-whatsnew-pip-body = Billede-i-billede viser video i et løsrevet vindue, sådan at du kan se videoer, mens du bruger andre faneblade
+cfr-whatsnew-pip-cta = Læs mere
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Færre irriterende pop op-beskeder
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } forhindrer nu websteder i automatisk at spørge, om du vil have vist po op-beskeder.
+cfr-whatsnew-permission-prompt-cta = Læs mere
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+  { $fingerprinterCount ->
+    [one] Fingerprinter blokeret
+   *[other] Fingerprinters blokeret
+  }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokerer nu mange af de fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
+
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokere fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Få dette bogmærke på din telefon
