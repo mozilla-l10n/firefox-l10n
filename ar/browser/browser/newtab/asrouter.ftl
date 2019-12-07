@@ -148,6 +148,7 @@ cfr-doorhanger-send-tab-ok-button = جرّب ميزة إرسال الألسنة
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = شارِك بأمان ملف PDF هذا
+cfr-doorhanger-firefox-send-body = أخفِ مستنداتك الخاصة من أعين المتربصين مستغلًا الحماية من الطرفين التي تقدّم رابطًا يختفي حين تنتهي منه.
 cfr-doorhanger-firefox-send-ok-button = جرّب { -send-brand-name }
     .accesskey = ج
 
