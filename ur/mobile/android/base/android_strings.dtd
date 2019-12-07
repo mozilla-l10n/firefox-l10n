@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "رازداری">
 <!ENTITY firstrun_privacy_message "اس طرح براؤز کریں جیسے کوئی نہیں دیکھ رہا">
 <!ENTITY firstrun_privacy_subtext "سراغ راہ حفاظت کاری کے ساتھ نجی برائوزنگ سراغ راہ کو آپ کی برائوزنگ کے دوران بلاک کرتی اور آپکے سابقات بھی یاد نہیں رکھتی جب آپ برائوزنگ مکمل کرتے ہیں۔">
+<!ENTITY newfirstrun_privacy_subtext "نجی براؤزنگ ان اشتہاری ٹریکروں کو روکتی ہے جو آن لائن آپ کا پیچھا کرتے ہیں۔">
 <!ENTITY firstrun_panel_title_customize "تخصیص کریں">
 <!ENTITY firstrun_customize_message "اپنا کھد کا &brandShortName; بنائے۔">
 <!ENTITY firstrun_customize_subtext "&brandShortName; کی تخصیص کرے مع ایڈ اون۔ اشتہار بلاک کرے، خصوصیات شامل کریں، آپ کے شخصیت کے متابک ایک نئی تھیم منتخب کریں۔">
@@ -20,11 +21,18 @@
 <!ENTITY firstrun_data_message "کمتر کوائف، مزیدبچت">
 <!ENTITY firstrun_data_subtext2 "ہر سائٹ دیکھتیں وقت نقوش کو آف کردیں تاکہ کمتر کوائف خرچ ہوں۔">
 <!ENTITY firstrun_sync_title "ہمہ وار کریں">
+<!ENTITY firstrun_sync_message3 "اپنے بک مارک، تاریخ، اور پاس ورڈ کو اپنے فون پر سینک کریں۔">
 <!ENTITY updatednewfirstrun_sync_title "اکائونٹ">
 <!ENTITY firstrun_sync_message2 "اٹھائیں جہاں آپ نے چھوڑ دیا ہے۔">
 <!ENTITY firstrun_sync_subtext2 "اپنی نشانی، پاس ورڈ اور دوسری چیزیے جو آپنے تمام آلات پر &brandShortName; میں محفوز کی ہے اسے تلاش کرنے کے لئے ہم وقت سازی کا استعمال کریں۔">
+<!ENTITY newfirstrun_sync_subtext "اپنے موبائل پر محفوظ کی گئی چیزوں کو ڈیسک ٹاپ کے لئے Firefox پر، نجی اور محفوظ طریقے سے سینک کریں۔">
+<!ENTITY firstrun_sendtab_title "ٹیب بھیجیں">
+<!ENTITY firstrun_sendtab_message "فوری طور پر — موبائل سے ڈیسک ٹاپ پر ٹیبوں کو اشتراک کریں۔">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; کا زیادہ سے زیادہ فائدہ اٹھانے کے لئے اپنے اکاؤنٹ میں سائن ان کریں۔">
 <!ENTITY firstrun_signin_message "جڑیں، شروع کریں">
 <!ENTITY firstrun_signin_button "ہم سازی کے لئے سائن ان کریں">
+<!ENTITY newfirstrun_signin_button "سینک آن کریں">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; میں سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!ENTITY firstrun_button_notnow "ابھی نہیں">
 <!ENTITY firstrun_button_next "اگلا">
@@ -69,6 +77,8 @@
 <!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; کریش ہو گیا">
+<!ENTITY  crash_notification_message "&vendorShortName; کو رپورٹ کرنے کے لئے ٹیپ کریں">
 <!ENTITY  crash_notification_negative_button_text "نظر انداز کریں">
 
 <!ENTITY url_bar_default_text2 "پتہ تلاش یا داخل کریں">
@@ -76,6 +86,7 @@
 <!-- Localization note: this text will be displayed in the Search Widget -->
 <!ENTITY search_widget_default_text "ويب پر تلاش کريں">
 <!ENTITY search_widget_default_cropped_text "تلاش کریں">
+<!ENTITY search_widget_logo_description "&brandShortName; کے ساتھ ویب پر تلاش کریں">
 
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
@@ -586,6 +597,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "محل وقوع">
 <!ENTITY bookmark_edit_keyword "کلیدی لفظ">
 <!ENTITY bookmark_select_folder "پوشہ کو منتخب کریں">
+<!ENTITY bookmark_edit_undo "واپس کریں">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -866,6 +878,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "&brandShortName; میں خوش آمدید">
 <!ENTITY activity_stream_signup_button "سائن اپ کریں">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "سائن ان کریں۔">
