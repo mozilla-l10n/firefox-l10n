@@ -16,6 +16,7 @@
 <!ENTITY accountTypeMail.label "Conto email">
 <!ENTITY accountTypeMail.accesskey "C">
 <!ENTITY accountTypeNews.label "Gruppos de discussion">
+<!ENTITY accountTypeNews.accesskey "d">
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Spool de posta Unix (Movemail)">
 <!ENTITY accountTypeMovemail.accesskey "U">
@@ -36,6 +37,7 @@
 <!ENTITY fullnameLabel.accesskey "T">
 
 <!ENTITY emailLabel.label "Adresse de e-mail:">
+<!ENTITY emailLabel.accesskey "e">
 
 <!-- Entities for Incoming Server page -->
 
@@ -64,6 +66,7 @@
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Insere le nomine de tu servitor de novas (NNTP) (per exemplo, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Servitor de gruppos:">
+<!ENTITY newsServerLabel.accesskey "S">
 
 <!-- Entities for Outgoing Server page -->
 
