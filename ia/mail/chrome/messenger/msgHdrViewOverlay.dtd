@@ -20,6 +20,8 @@
 <!ENTITY hdrForwardButton1.tooltip "Reinviar iste message">
 <!ENTITY hdrJunkButton1.label "Indesirate">
 <!ENTITY hdrJunkButton1.tooltip "Marcar iste message como indesirate">
+<!ENTITY hdrTrashButton1.label "Deler">
+<!ENTITY hdrTrashButton1.tooltip "Deler iste message">
 
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre monstrar Responder al expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">

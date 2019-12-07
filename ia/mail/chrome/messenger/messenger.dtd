@@ -66,7 +66,7 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY emptyTrashCmd.label "Vacuar le corbe a papiro">
-<!ENTITY emptyTrashCmd.accesskey "c">
+<!ENTITY emptyTrashCmd.accesskey "V">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Laborar disconnexe">
@@ -260,6 +260,8 @@
 <!-- Folder Pane -->
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextEmptyTrash.label "Vacuar le corbe a papiro">
+<!ENTITY folderContextEmptyTrash.accesskey "V">
 <!ENTITY folderContextEmptyJunk.label "Vacuar le dossier Indesirate">
 <!ENTITY folderContextEmptyJunk.accesskey "V">
 <!ENTITY folderContextSendUnsentMessages.label "Inviar le messages non inviate">
