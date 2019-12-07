@@ -39,6 +39,7 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Dies">
 <!ENTITY weekAgeInterval.label           "Septimanas">
 <!ENTITY monthAgeInterval.label          "Menses">

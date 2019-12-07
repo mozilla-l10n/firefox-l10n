@@ -186,6 +186,9 @@
 <!ENTITY plainTextFormatCmd.label "Solo texto">
 <!ENTITY plainTextFormatCmd.accesskey "t">
 <!ENTITY htmlFormatCmd.label "Solo Rich Text (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "s">
+<!ENTITY bothFormatCmd.label "Texto ambe formatos (simple e HTML)">
+<!ENTITY bothFormatCmd.accesskey "a">
 <!ENTITY priorityMenu.label "Prioritate">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.title "Prioritate">
