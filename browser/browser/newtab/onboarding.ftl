@@ -145,6 +145,8 @@ onboarding-facebook-container-title = Defina limites com o Facebook
 onboarding-facebook-container-text2 = O { -facebook-container-brand-name } mantém o seu perfil separado de tudo o resto, tornando mais difícil com que o Facebook lhe segmente com anúncios.
 onboarding-facebook-container-button = Adicionar a extensão
 onboarding-import-browser-settings-title = Importe os seus marcadores, palavras-passe e muito mais
+onboarding-import-browser-settings-text = Comece já — traga os seus sites e definições do Chrome consigo.
+onboarding-import-browser-settings-button = Importar dados do Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
