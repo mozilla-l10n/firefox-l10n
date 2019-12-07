@@ -5,7 +5,7 @@
 -sync-brand-short-name = تزامُن
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = تزامُن فَيَرفُكس
+-sync-brand-name = Firefox Sync
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = حساب فَيَرفُكس
+-fxaccount-brand-name = حساب Firefox
