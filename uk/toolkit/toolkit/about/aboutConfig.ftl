@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Будьте обережні, інакше можете залишитись без гарантії!
-config-about-warning-text = Зміна цих розширених налаштувань може зашкодити стабільності, безпеці та швидкодії цієї програми. Вам слід продовжувати лише в тому випадку, якщо ви впевнені в тому, що робите.
+config-about-warning-text = Зміна цих розширених налаштувань може вплинути на стабільність, безпеку та швидкодію цієї програми. Вам слід продовжувати лише в тому випадку, якщо ви впевнені в своїх діях.
 config-about-warning-button =
     .label = Я приймаю ризик!
 config-about-warning-checkbox =
