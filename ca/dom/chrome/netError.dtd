@@ -67,7 +67,7 @@
 <!ENTITY nssFailure2.title "Ha fallat la connexió segura">
 <!ENTITY nssFailure2.longDesc2 "<p>La pàgina que esteu intentant veure no es pot mostrar perquè no s'ha pogut verificar l'autenticitat de les dades rebudes.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
-<!ENTITY nssBadCert.title "La connexió segura ha fallat">
+<!ENTITY nssBadCert.title "Ha fallat la connexió segura">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Això podria ser un problema amb la configuració del servidor, o bé podria ser que algú estigués intentant fer-se passar pel servidor.</li> <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error podria ser temporal i podeu tornar-ho a provar més tard.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "O bé, podeu afegir una excepció…">
