@@ -81,6 +81,7 @@ onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = आपकी व्यक्तिगत जानकारी किसी ज्ञात डेटा उल्लंघन में होने पर सूचना प्राप्त करें।
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = पासवर्ड प्रबंधित करें जो संरक्षित और वहनीय हैं।
 
 ## These strings belong to the individual onboarding messages.
 
@@ -124,9 +125,13 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name } आज़माएं
 onboarding-lockwise-passwords-title = हर जगह अपना पासवर्ड लेकर चलें
 onboarding-lockwise-passwords-text2 = जिन पासवर्ड को आप सहेजते हैं उन्हें सुरक्षित रखें और आसानी से { -lockwise-brand-name } के साथ अपने खाते में लॉग इन करें।
 onboarding-lockwise-passwords-button2 = ऐप प्राप्त करें
+onboarding-lockwise-strong-passwords-title = मजबूत पासवर्ड बनाएं और संग्रहित करें
+onboarding-lockwise-strong-passwords-button = अपने लॉगिन का प्रबंधन करें
 onboarding-facebook-container-title = Facebook के साथ सीमाएँ निर्धारित करें
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } आपकी प्रोफ़ाइल को हर चीज से अलग रखता है, जिससे Facebook के लिए आपको विज्ञापनों के साथ लक्षित करना कठिन हो जाता है।
 onboarding-facebook-container-button = एक्सटेंशन जोड़ें
+onboarding-import-browser-settings-title = अपने बुकमार्क, पासवर्ड और अधिक आयात करें
+onboarding-import-browser-settings-button = Chrome डेटा आयात करें
 
 ## Message strings belonging to the Return to AMO flow
 

@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = भंडारण
 site-data-column-last-used =
     .label = अंतिम प्रयुक्त
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (स्थानीय फ़ाइल)
 site-data-remove-selected =
     .label = चयनित हटाएँ
     .accesskey = r
@@ -33,6 +35,8 @@ site-data-button-save =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (लगातार)
 site-data-remove-all =
     .label = सभी हटाएँ
     .accesskey = e

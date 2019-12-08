@@ -27,6 +27,8 @@ policy-DisableDeveloperTools = डेवलपर टूल्स तक के 
 policy-DisableFirefoxAccounts = सिंक सहित { -fxaccount-brand-name } आधारित सेवाओं को बंद करें।
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox स्क्रीनशॉट सुविधा को अक्षम करें.
+policy-DisableForgetButton = भूल बटन तक पहुँच को रोकें।
+policy-DisableFormHistory = खोज और फ़ॉर्म इतिहास याद न रखें।
 policy-DisableMasterPasswordCreation = यदि सही है, तो एक मास्टर पासवर्ड नहीं बनाया जा सकता है.
 policy-DisablePocket = वेबपृष्ठों को Pocket में सहेजने के लिए सुविधा को अक्षम करें।
 policy-DisablePrivateBrowsing = निजी ब्राउजिंग अक्षम करें।
