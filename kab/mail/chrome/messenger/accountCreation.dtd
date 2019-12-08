@@ -8,15 +8,18 @@
 <!ENTITY name.accesskey                  "I">
 <!ENTITY name.placeholder                "Aneggaru d amezwaru">
 <!ENTITY name.text                       "Isem-ik, akken tettwalin wiyaḍ">
+<!ENTITY name.error                      "Ma ulac aɣilif, mudd-d isem-ik">
 <!ENTITY email.label                     "Tansa imayl">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "kečč@amedya.com">
+<!ENTITY email3.placeholder              "Tansa-inek imayl">
 <!ENTITY email.text                      "Tansa yinek imayl yellan">
 <!ENTITY password.label                  "Awal uffir:">
 <!ENTITY password.accesskey              "A">
 <!ENTITY password.placeholder            "Awal uffir">
 <!ENTITY password.text                   "Afrayan, ad ittuseqdec kan i weseɣbel n yisem n uqeddac">
+<!ENTITY password.toggle                 "Sken/Ffer awal uffir">
 <!ENTITY rememberPassword.label          "Cfu ɣef awal uffir">
 <!ENTITY rememberPassword.accesskey      "C">
 <!ENTITY usernameEx.label                "ISem-is n useqdac:">
