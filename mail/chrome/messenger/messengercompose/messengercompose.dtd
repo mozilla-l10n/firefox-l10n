@@ -10,12 +10,12 @@
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Krei">
 <!ENTITY newMenu.accesskey "K">
-<!ENTITY newMessage.label "Mesaĝon">
-<!ENTITY newMessage.key "M">
+<!ENTITY newMessage.label "mesaĝon">
+<!ENTITY newMessage.key "m">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Kontakton…">
-<!ENTITY newContact.accesskey "K">
+<!ENTITY newMessage.accesskey "m">
+<!ENTITY newContact.label "kontakton…">
+<!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Aldoni">
 <!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "Dosiero(j)n…">
