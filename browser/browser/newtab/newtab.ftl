@@ -174,6 +174,7 @@ newtab-discovery-empty-section-topstories-loading = लोड हो रहा �
 newtab-pocket-read-more = लोकप्रिय विषय:
 newtab-pocket-more-recommendations = अधिक अनुशंसाएँ
 newtab-pocket-how-it-works = यह किस प्रकार काम करता है
+newtab-pocket-whats-pocket = { -pocket-brand-name } क्या है?
 newtab-pocket-cta-button = { -pocket-brand-name } प्राप्त करें
 newtab-pocket-cta-text = अपने पसंदीद कहानियाँ { -pocket-brand-name } में सहेजें, और आकर्षक पढ़ाई के साथ अपने दिमाग को शक्ति दें।
 
