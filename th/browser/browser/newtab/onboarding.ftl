@@ -30,7 +30,7 @@ onboarding-join-form-header = เข้าร่วม { -brand-product-name }
 onboarding-join-form-body = ป้อนที่อยู่อีเมลของคุณเพื่อเริ่มต้นใช้งาน
 onboarding-join-form-email =
     .placeholder = ป้อนอีเมล
-onboarding-join-form-email-error = ต้องการอีเมลที่ถูกต้อง
+onboarding-join-form-email-error = จำเป็นต้องกรอกอีเมลที่ถูกต้อง
 onboarding-join-form-legal = การดำเนินการต่อถือว่าคุณยอมรับ<a data-l10n-name="terms">เงื่อนไขการใช้บริการ</a>และ<a data-l10n-name="privacy">ข้อกำหนดความเป็นส่วนตัว</a>
 onboarding-join-form-continue = ดำเนินการต่อ
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = นำ { -brand-product-name } ไปกับคุณ
 onboarding-sync-welcome-content = รับที่คั่นหน้า, ประวัติ, รหัสผ่าน และการตั้งค่าอื่น ๆ ของคุณในอุปกรณ์ทั้งหมดของคุณ
 onboarding-sync-welcome-learn-more-link = เรียนรู้เพิ่มเติมเกี่ยวกับบัญชี Firefox
-onboarding-sync-form-invalid-input = ต้องการอีเมลที่ถูกต้อง
-onboarding-sync-legal-notice = เพื่อดำเนินการต่อ คุณยอมรับ <a data-l10n-name="terms">เงื่อนไขการให้บริการ</a> และ <a data-l10n-name="privacy">ประกาศความเป็นส่วนตัว</a>
 onboarding-sync-form-input =
     .placeholder = อีเมล
 onboarding-sync-form-continue-button = ดำเนินการต่อ
@@ -130,6 +128,9 @@ onboarding-send-tabs-title = ส่งแท็บให้ตัวคุณเ
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs แบ่งปันหน้าระหว่างอุปกรณ์ของคุณทันทีโดยไม่ต้องคัดลอก, วาง, หรือออกจากเบราว์เซอร์
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = แชร์หน้าระหว่างอุปกรณ์ของคุณทันทีโดยไม่ต้องคัดลอกลิงก์หรือออกจากเบราว์เซอร์
 onboarding-send-tabs-button = เริ่มใช้ Send Tabs
 onboarding-pocket-anywhere-title = อ่านและฟังได้ทุกที่
 onboarding-pocket-anywhere-text2 = บันทึกเนื้อหาโปรดของคุณแบบออฟไลน์ด้วยแอป { -pocket-brand-name } และอ่านฟังและดูเมื่อใดก็ตามที่คุณสะดวก
@@ -137,9 +138,13 @@ onboarding-pocket-anywhere-button = ลอง { -pocket-brand-name }
 onboarding-lockwise-passwords-title = นำรหัสผ่านของคุณไปทุกที่
 onboarding-lockwise-passwords-text2 = เก็บรหัสผ่านที่คุณบันทึกไว้อย่างปลอดภัยและเข้าสู่ระบบบัญชีของคุณได้อย่างง่ายดายด้วย { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = รับแอป
+onboarding-lockwise-strong-passwords-title = สร้างและจัดเก็บรหัสผ่านที่คาดเดายาก
+onboarding-lockwise-strong-passwords-button = จัดการการเข้าสู่ระบบของคุณ
 onboarding-facebook-container-title = ตั้งค่าขอบเขตให้กับ Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } แยกโปรไฟล์ของคุณออกจากสิ่งอื่น ทำให้ Facebook ติดตามคุณทั่วทั้งเว็บได้ยาก
 onboarding-facebook-container-button = เพิ่มส่วนขยาย
+onboarding-import-browser-settings-title = นำเข้าที่คั่นหน้า, รหัสผ่าน, และอื่น ๆ
+onboarding-import-browser-settings-button = นำเข้าข้อมูล Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
