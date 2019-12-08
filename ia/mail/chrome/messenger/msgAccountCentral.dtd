@@ -10,6 +10,7 @@
 <!ENTITY subscribeFeeds.label         "Gerer subscriptiones">
 
 
+<!ENTITY subscribeImapFolders.label   "Gerer subscriptiones a dossiers">
 <!ENTITY settingsLink.label           "Vider le parametros de iste conto">
 
 <!ENTITY junkSettings.label           "Parametros de posta indesirate">
