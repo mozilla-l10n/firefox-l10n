@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = अनुशंसित एक्सटेंशन
+cfr-doorhanger-feature-heading = अनुशंसित विशेषता
 cfr-doorhanger-pintab-heading = इसे आज़माएं: पिन टैब
 
 
@@ -30,6 +31,14 @@ cfr-doorhanger-extension-author = { $name } द्वारा
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = सिफारिश
+cfr-doorhanger-extension-notification2 = अनुशंसा
+    .tooltiptext = विस्तारक अनुशंसा
+    .a11y-announcement = विस्तारक अनुशंसा उपलब्ध
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = अनुशंसा
+    .tooltiptext = विशेषता अनुशंसा
+    .a11y-announcement = विशेषता अनुशंसा उपलब्ध
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -95,8 +104,23 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } से
 cfr-whatsnew-tracking-blocked-link-text = रिपोर्ट देखें
+cfr-whatsnew-lockwise-backup-title = अपने पासवर्ड का बैकअप लें
+cfr-whatsnew-lockwise-backup-link-text = बैकअप चालू करें
 cfr-whatsnew-lockwise-take-title = अपना पासवर्ड अपने साथ रखें
 cfr-whatsnew-lockwise-take-link-text = एप्प प्राप्त करें
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = ब्राउज़ करते समय वीडियो देखें
+cfr-whatsnew-pip-cta = और अधिक जानें
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = कुछ खीझ दिलाने वाली साइट पॉप-अप
+cfr-whatsnew-permission-prompt-cta = और अधिक जानें
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 

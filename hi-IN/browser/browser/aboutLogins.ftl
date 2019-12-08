@@ -6,6 +6,7 @@ about-logins-page-title = लॉगिन और पासवर्ड
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = हर जगह अपना पासवर्ड लेकर चलें
 login-app-promo-subtitle = मुफ्त { -lockwise-brand-name } ऐप प्राप्त करें
 login-app-promo-android =
     .alt = इसे Google Play पर पायें
@@ -31,6 +32,7 @@ menu-menuitem-preferences =
        *[other] प्राथमिकताएँ
     }
 about-logins-menu-menuitem-help = सहायता
+menu-menuitem-android-app = Android के लिए { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone और iPad के लिए { -lockwise-brand-short-name }
 
 ## Login List
@@ -54,14 +56,12 @@ about-logins-login-list-empty-search-description = आपकी खोज के
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
 login-list-item-subtitle-missing-username = (कोई उपयोगकर्ता नाम नहीं)
-about-logins-list-item-warning-icon =
-    .alt = चेतावनी शीर्षक
-    .title = वेबसाइट का उल्लंघन किया
 about-logins-list-item-breach-icon =
     .title = उलंघित वेबसाइट
 
 ## Introduction screen
 
+login-intro-heading = अपने सहेजे गए लॉगिन की खोज़ है? { -sync-brand-short-name } सेट करें।
 about-logins-login-intro-heading-logged-in = कोई संकलित लॉगिन नहीं मिला।
 
 ## Login
