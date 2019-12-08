@@ -73,6 +73,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Laborar disconnexe">
 <!ENTITY offlineGoOfflineCmd.accesskey "d">
+<!ENTITY synchronizeOfflineCmd.label "Discargar/synchronisar ora…">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">

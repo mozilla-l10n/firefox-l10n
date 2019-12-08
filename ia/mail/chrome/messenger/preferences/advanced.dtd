@@ -90,7 +90,7 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace                       "Spatio de disco">
+<!ENTITY Diskspace                       "Spatio sur disco">
 <!ENTITY offlineCompactFolders.label     "Compactar tote le dossiers quando se recupera plus de">
 <!ENTITY offlineCompactFolders.accesskey "t">
 <!ENTITY offlineCompactFoldersMB.label   "MB total">
