@@ -64,7 +64,7 @@
 <!ENTITY notCached.title "Documento expirate">
 <!ENTITY notCached.longDesc "<p>Le documento requestate non es disponibile in le cache de &brandShortName;.</p><ul><li>Como precaution de securitate, &brandShortName; non re-requestara automaticamente documentos sensibile.</li><li>Clicca retentar pro re-requestar le documento ab le sito web.</li></ul>">
 
-<!ENTITY netOffline.title "Modo disconnectite">
+<!ENTITY netOffline.title "Modo foras de linea">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Preme &quot;Retentar&quot; pro commutar al modo in linea e recargar le pagina.</li>

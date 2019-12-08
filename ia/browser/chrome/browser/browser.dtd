@@ -255,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Aperir le pannello de presentation automatic">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Aperir le pannello de messages de installation de additivos">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gere le permission de extraction del canevas">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de immagazinage disconnectite">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir le pannello de messages de immagazinage foras de linea">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Aperir pannello de messages de contrasignos salvate">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerer utilisation del plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Indicar si tu pote reciper notificationes del sito">

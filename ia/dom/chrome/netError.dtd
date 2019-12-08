@@ -40,8 +40,8 @@
 <!ENTITY notCached.title "Documento expirate">
 <!ENTITY notCached.longDesc "<p>Le documento requestate non es disponibile in le cache del navigator.</p><ul><li>Como precaution de securitate, le navigator non re-requesta automaticamente documentos sensibile.</li><li>Clicca sur Retentar pro re-requestar le documento del sito web.</li></ul>">
 
-<!ENTITY netOffline.title "Modo disconnectite">
-<!ENTITY netOffline.longDesc2 "<p>Le navigator es in modo disconnectite e non pote connecter se al objecto requestate.</p><ul><li>Es le computator connectite a un rete active?</li><li>Preme &quot;Retentar&quot; pro cambiar al modo in linea e recargar le pagina.</li></ul>">
+<!ENTITY netOffline.title "Modo foras de linea">
+<!ENTITY netOffline.longDesc2 "<p>Le navigator es in modo foras de linea e non pote connecter se al objecto requestate.</p><ul><li>Es le computator connectite a un rete active?</li><li>Preme &quot;Retentar&quot; pro cambiar al modo in linea e recargar le pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codification del contento">
 <!ENTITY contentEncodingError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque illo usa un forma de compression invalide o non admittite.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
