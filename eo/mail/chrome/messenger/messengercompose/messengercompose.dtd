@@ -18,15 +18,15 @@
 <!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Aldoni">
 <!ENTITY attachMenu.accesskey "A">
-<!ENTITY attachFileCmd.label "Dosiero(j)n…">
-<!ENTITY attachFileCmd.accesskey "D">
+<!ENTITY attachFileCmd.label "dosieron…">
+<!ENTITY attachFileCmd.accesskey "d">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Ligilon al dosiero">
-<!ENTITY attachCloudCmd.accesskey "L">
-<!ENTITY attachPageCmd.label "Retpaĝon…">
-<!ENTITY attachPageCmd.accesskey "R">
+<!ENTITY attachCloudCmd.label "ligilon al dosiero">
+<!ENTITY attachCloudCmd.accesskey "l">
+<!ENTITY attachPageCmd.label "retpaĝon…">
+<!ENTITY attachPageCmd.accesskey "r">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Personan vizitkarton (vCard)">
+<!ENTITY attachVCardCmd.label "personan vizitkarton (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
 <!ENTITY remindLater.label "Rememori poste">
 <!ENTITY remindLater.accesskey "R">
@@ -38,11 +38,11 @@
 <!ENTITY saveCmd.accesskey "K">
 <!ENTITY saveAsCmd.label "Konservi kiel">
 <!ENTITY saveAsCmd.accesskey "o">
-<!ENTITY saveAsFileCmd.label "Dosieron…">
-<!ENTITY saveAsFileCmd.accesskey "D">
-<!ENTITY saveAsDraftCmd.label "Malneton">
-<!ENTITY saveAsDraftCmd.accesskey "M">
-<!ENTITY saveAsTemplateCmd.label "Ŝablonon">
+<!ENTITY saveAsFileCmd.label "dosieron…">
+<!ENTITY saveAsFileCmd.accesskey "d">
+<!ENTITY saveAsDraftCmd.label "malneton">
+<!ENTITY saveAsDraftCmd.accesskey "m">
+<!ENTITY saveAsTemplateCmd.label "ŝablonon">
 <!ENTITY saveAsTemplateCmd.accesskey "a">
 <!ENTITY sendNowCmd.label "Sendi nun">
 <!ENTITY sendCmd.keycode "VK_RETURN">
