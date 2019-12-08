@@ -22,35 +22,41 @@
      -->
 <!ENTITY moveToNewWindow.label "Movi al nova fenestro">
 <!ENTITY moveToNewWindow.accesskey "M">
-<!ENTITY newVirtualFolderCmd.label "Konservita serĉo…">
-<!ENTITY newVirtualFolderCmd.accesskey "K">
-<!ENTITY newOtherAccountsCmd.label "Alia konto…">
+<!ENTITY newVirtualFolderCmd.label "Mesaĝujo de serĉo…">
+<!ENTITY newVirtualFolderCmd.accesskey "s">
+<!ENTITY newOtherAccountsCmd.label "Agordaro de alia konto…">
 <!ENTITY newOtherAccountsCmd.accesskey "l">
-<!ENTITY newCreateEmailAccountCmd.label "Akiri novan retpoŝtan konton…">
+<!ENTITY newCreateEmailAccountCmd.label "Tute nova retpoŝta konto…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "n">
-<!ENTITY newExistingEmailAccountCmd.label "Ekzista retpoŝta konto…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<!ENTITY newIMAccountCmd.label "Tujmesaĝila konto…">
-<!ENTITY newIMAccountCmd.accesskey "T">
-<!ENTITY newFeedAccountCmd.label "Konto de novaĵoj…">
+<!ENTITY newExistingEmailAccountCmd.label "Agordaro de ekzista retpoŝta konto…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "e">
+<!ENTITY newIMAccountCmd.label "Agordaro de konto de tujmesaĝilo…">
+<!ENTITY newIMAccountCmd.accesskey "t">
+<!ENTITY newFeedAccountCmd.label "Agordaro de konto de novaĵoj…">
 <!ENTITY newFeedAccountCmd.accesskey "v">
-<!ENTITY newIMContactCmd.label "Chat Contact…">
-<!ENTITY newIMContactCmd.accesskey "h">
-<!ENTITY openMessageFileCmd.label "Open Saved Message…">
-<!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY saveAsMenu.label "Save As">
-<!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "File">
-<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY newIMContactCmd.label "Kontakto tujemesaĝila…">
+<!ENTITY newIMContactCmd.accesskey "o">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Mesaĝo">
+<!ENTITY  newMessageCmd.accesskey "M">
+<!ENTITY  newContactCmd.label "Kontakto…">
+<!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMessageFileCmd.label "Malfermi konservitan mesaĝon…">
+<!ENTITY openMessageFileCmd.accesskey "M">
+<!ENTITY saveAsMenu.label "Konservi kiel">
+<!ENTITY saveAsMenu.accesskey "K">
+<!ENTITY saveAsFileCmd.label "dosieron">
+<!ENTITY saveAsFileCmd.accesskey "d">
 <!ENTITY saveAsFileCmd.key "s">
-<!ENTITY saveAsTemplateCmd.label "Template">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY getNewMsgForCmd.label "Get New Messages for">
-<!ENTITY getNewMsgForCmd.accesskey "w">
-<!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
-<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY saveAsTemplateCmd.label "ŝablonon">
+<!ENTITY saveAsTemplateCmd.accesskey "a">
+<!ENTITY getNewMsgForCmd.label "Elŝuti novajn mesaĝojn el">
+<!ENTITY getNewMsgForCmd.accesskey "E">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "ĉiuj kontoj">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "j">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "nuna konto">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "n">
 <!ENTITY sendUnsentCmd.label "Send Unsent Messages">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Subscribe…">
