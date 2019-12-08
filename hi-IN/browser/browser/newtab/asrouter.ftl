@@ -121,6 +121,16 @@ cfr-whatsnew-permission-prompt-cta = और अधिक जानें
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] फ़िंगरप्रिंटर अवरूद्ध किया गया
+       *[other] फ़िंगरप्रिंटर अवरूद्ध किए गए
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = फिंगरप्रिंटर
 
 ## Bookmark Sync
 
@@ -137,7 +147,10 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } चालू �
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = इस पर पढ़ें
 cfr-doorhanger-send-tab-recipe-header = इस रेसिपी को किचन तक ले जाएं
+cfr-doorhanger-send-tab-ok-button = टैब भेजने का प्रयास करें
+    .accesskey = ट
 
 ## Firefox Send
 
@@ -147,10 +160,13 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } आज़माए�
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = सुरक्षा देखें
+    .accesskey = स
 cfr-doorhanger-socialtracking-close-button = बंद करें
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = इस तरह के संदेश मुझे दोबारा ना दिखाएं
     .accesskey = D
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } ने इस पृष्ठ पर एक क्रिप्टोमाइनर को अवरुद्ध किया
 
 ## Enhanced Tracking Protection Milestones
 

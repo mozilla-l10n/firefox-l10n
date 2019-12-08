@@ -109,6 +109,9 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = इस लॉगिन को मिटाएं?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = मुझसे फिर न पूछें
+    .accesskey = न
 
 ## Dialogs
 
@@ -120,10 +123,12 @@ confirm-delete-dialog-message = इस क्रिया को पहले �
 confirm-delete-dialog-confirm-button = मिटाएं
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
 confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
+confirm-discard-changes-dialog-message = सभी सहेजे न गए परिवर्तन खो जाएंगे।
 confirm-discard-changes-dialog-confirm-button = छोड़ें
 
 ## Breach Alert notification
 
+breach-alert-text = आपके अंतिम बार अपना लॉगिन विवरण अपडेट करते समय पासवर्ड इस वेबसाइट से लीक या चोरी हो गए थे। अपने खाते की सुरक्षा के लिए अपना पासवर्ड बदलें।
 breach-alert-link = इस उल्लंघन के बारे में और जानें।
 breach-alert-dismiss =
     .title = इस अलर्ट को बंद करें
