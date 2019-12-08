@@ -21,21 +21,22 @@
 <!ENTITY firstrun_data_message "Menys dades, més estalvi">
 <!ENTITY firstrun_data_subtext2 "Desactiveu les imatges per estalviar dades en cada lloc que visiteu.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message3 "Sincronitzeu les vostres adreces d\&apos;interès, historial i contrasenyes en el telèfon.">
 <!ENTITY updatednewfirstrun_sync_title "Compte">
 <!ENTITY firstrun_sync_message2 "Continueu des d\&apos;on ho deixeu.">
-<!ENTITY firstrun_sync_message3 "Sincronitzeu les vostres adreces d\&apos;interès, historial i contrasenyes en el telèfon.">
 <!ENTITY firstrun_sync_subtext2 "El Sync permet accedir a les adreces d\&apos;interès, contrasenyes i altres elements que heu desat al &brandShortName; en tots els vostres dispositius.">
 <!ENTITY newfirstrun_sync_subtext "Sincronitzeu tot allò que deseu al mòbil amb el Firefox per a l\&apos;escriptori, de manera privada i segura.">
-<!ENTITY updatednewfirstrun_sync_subtext "Inicieu la sessió al vostre compte per aprofitar al màxim el &brandShortName;">
-<!ENTITY firstrun_signin_message "Connecteu-vos i comenceu a utilitzar-lo">
 <!ENTITY firstrun_sendtab_title "Envia la pestanya">
 <!ENTITY firstrun_sendtab_message "Compartiu les pestanyes del mòbil amb l\&apos;escriptori a l\&apos;instant.">
+<!ENTITY updatednewfirstrun_sync_subtext "Inicieu la sessió al vostre compte per aprofitar al màxim el &brandShortName;">
+<!ENTITY firstrun_signin_message "Connecteu-vos i comenceu a utilitzar-lo">
 <!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
 <!ENTITY newfirstrun_signin_button "Activa la sincronització">
 <!ENTITY updatednewfirstrun_signin_button "Inicia la sessió al &brandShortName;">
-<!ENTITY onboard_start_button_browser "Comença a navegar">
+<!ENTITY  onboard_start_button_browser "Comença a navegar">
 <!ENTITY firstrun_button_notnow "Ara no">
 <!ENTITY firstrun_button_next "Següent">
+<!ENTITY firstrun_signup_button "Registre">
 
 <!ENTITY firstrun_signin_button2 "Inicia la sessió">
 
@@ -49,8 +50,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vós">
 <!ENTITY firstrun_account_message "Teniu el &brandShortName; en algun altre dispositiu?">
-
-<!ENTITY firstrun_signup_button "Registre">
 
 <!ENTITY  onboard_start_restricted1 "Manteniu-vos segur i en control amb aquesta versió simplificada del &brandShortName;.">
 
@@ -312,7 +311,7 @@
 <!ENTITY pref_tracking_protection_disabled "Desactivada">
 
 <!ENTITY pref_whats_new_notification "Novetats del &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Conegueu les característiques noves després d\&apos;una actualització">
+<!ENTITY pref_whats_new_notification_summary "Coneixeu les característiques noves després d\&apos;una actualització">
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
@@ -696,7 +695,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Esteu connectat a">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -884,17 +882,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Afegiu elements de la llista de lectura a les adreces d\&apos;interès per llegir-los fora de línia.">
 <!ENTITY helper_triple_readerview_open_button "Afegeix a les adreces d\&apos;interès">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
-activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Us donem la benvinguda al &brandShortName;">
 <!ENTITY activity_stream_signin_description "Comenceu a sincronitzar les adreces d\&apos;interès, les contrasenyes i molt més amb el vostre compte del Firefox.">
-<!ENTITY activity_stream_signin_button "Inicia la sessió">
-
 <!ENTITY activity_stream_signup_button "Registre">
 <!ENTITY activity_stream_signin_prompt "Ja teniu un compte?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Inicieu la sessió.">
+
+<!ENTITY activity_stream_signin_button "Inicia la sessió">
 
 <!ENTITY activity_stream_topsites "Llocs principals">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->

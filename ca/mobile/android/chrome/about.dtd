@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Quant al &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "El &brandShortName; és experimental i pot ser inestable.">
-<!ENTITY aboutPage.telemetryStart               " Envia automàticament informació del rendiment, maquinari, ús i personalitzacions a ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " per ajudar a millorar el &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Cerca actualitzacions »">
 <!ENTITY aboutPage.checkForUpdates.checking     "S'estan cercant actualitzacions…">
 <!ENTITY aboutPage.checkForUpdates.none         "No hi ha cap actualització">
@@ -15,10 +12,10 @@
 <!ENTITY aboutPage.faq.label                    "PMF">
 <!ENTITY aboutPage.support.label                "Assistència">
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privadesa">
-<!ENTITY aboutPage.rights.label                 "Conegueu els vostres drets">
+<!ENTITY aboutPage.rights.label                 "Coneixeu els vostres drets">
 <!ENTITY aboutPage.relNotes.label               "Notes de la versió">
 <!ENTITY aboutPage.credits.label                "Crèdits">
 <!ENTITY aboutPage.license.label                "Informació de la llicència">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "El Firefox i els logotips del Firefox són marques registrades de la Mozilla Foundation.">
