@@ -8,6 +8,14 @@ graph-week-summary =
     { $count ->
        *[other] { -brand-short-name } ปิดกั้นตัวติดตาม { $count } ตัวตลอดสัปดาห์ที่ผ่านมา
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+       *[other] ตัวติดตาม <b>{ $count }</b> ตัวถูกปิดกั้นตั้งแต่ { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -96,6 +104,13 @@ info-exposed-passwords-found =
        *[other] รหัสผ่านที่ถูกเปิดเผยในช่องโหว่ทั้งหมด
     }
 full-report-link = ดูรายงานฉบับเต็ม <a data-l10n-name="monitor-inline-link"> { -monitor-brand-name } </a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+       *[other] การเข้าสู่ระบบที่บันทึกไว้อาจถูกเปิดเผยในข้อมูลที่รั่วไหล เปลี่ยนรหัสผ่านนี้เพื่อความปลอดภัยออนไลน์ที่ดีกว่า <a data-l10n-name="lockwise-link">ดูการเข้าสู่ระบบที่บันทึกไว้</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
