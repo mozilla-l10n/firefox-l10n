@@ -943,29 +943,42 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "कुकीज">
 <!ENTITY contentBlocking.cookiesView.label "कुकीज़ और साइट आँकड़ा">
 
+<!ENTITY contentBlocking.trackingProtection4.label "ट्रैकिंग सामग्री">
 
+<!ENTITY contentBlocking.manageSettings2.label "सुरक्षा सेटिंग प्रबंधित करें">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
+<!ENTITY contentBlocking.socialblock.label "सोशल मीडिया ट्रैकर">
 
+<!ENTITY contentBlocking.cryptominers.label "क्रिप्टोमाइनर">
+<!ENTITY contentBlocking.cryptominersView.label "क्रिप्टोमाइनर">
 
+<!ENTITY contentBlocking.fingerprinters.label "फिंगरप्रिंटर">
+<!ENTITY contentBlocking.fingerprintersView.label "फिंगरप्रिंटर">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "समस्या के बारे में बताएँ">
 <!ENTITY contentBlocking.breakageReportView.label "समस्याओं के बारे में बताएँ">
 <!ENTITY contentBlocking.breakageReportView.learnMore "अधिक जानें">
 
+<!ENTITY contentBlocking.breakageReportView.title "क्षतिग्रस्त साइट की रिपोर्ट करें">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "और जानें">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "आपको क्या समस्याएँ हुई थीं? (वैकल्पिक)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "वैकल्पिक: समस्या का वर्णन करें">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "रिपोर्ट भेजें">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "रद्द करें">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "इस साइट के लिए अवरोधन बंद करें">
 <!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "अस्थायी रूप से अवरुद्ध करना बंद करें">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "इस साइट के लिए अवरोधन चालू करें">
 <!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "पृष्ठ फिर लोड करें">
 <!ENTITY trackingProtection.reload2.accesskey "R">
@@ -991,6 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; अद्यतन डाउनलोड करें">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; की एक नई प्रति डाउनलोड करें">
+<!ENTITY updateUnsupported.panelUI.label "आप और अपडेट नहीं कर सकते हैं">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; को अपडेट करने के लिए पुन: प्रारंभ करें">
 
 <!ENTITY newTabControlled.header.message "आपका नया टैब बदल गया है.">
