@@ -3,15 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY titledefault.label "&brandFullName;">
-<!ENTITY titleSeparator.label " - ">
+<!ENTITY titleSeparator.label " – ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Folder…">
-<!ENTITY newFolderCmd.accesskey "F">
-<!ENTITY closeTabCmd2.label "Close Tab">
-<!ENTITY closeTabCmd2.accesskey "C">
-<!ENTITY closeOtherTabsCmd2.label "Close Other Tabs">
-<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY closeTabCmd2.label "Fermi langeton">
+<!ENTITY closeTabCmd2.accesskey "F">
+<!ENTITY closeOtherTabsCmd2.label "Fermi aliajn langetojn">
+<!ENTITY closeOtherTabsCmd2.accesskey "a">
 <!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
 <!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
@@ -164,7 +162,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Folder Pane Toolbar">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "Folder Views">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sort by">
@@ -584,7 +581,6 @@
 <!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
 <!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
 
-
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Forward Inline">
 <!ENTITY buttonMenuForwardAsAttachment.label "Forward As Attachment">
@@ -939,3 +935,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "App Icon Options…">
+
+<!-- Content tab Navigation buttons -->
