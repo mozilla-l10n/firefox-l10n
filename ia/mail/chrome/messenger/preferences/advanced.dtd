@@ -17,7 +17,7 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Typo de magazinage del message pro nove contos:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore2.label              "File per plica (mbox)">
+<!ENTITY mboxStore2.label              "File per dossier (mbox)">
 <!ENTITY maildirStore.label            "File per message (maildir)">
 
 <!ENTITY scrolling.label               "Rolamento">
