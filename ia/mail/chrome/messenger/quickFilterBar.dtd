@@ -34,6 +34,8 @@
      folders or opens new tabs.  (When inactive, only the state of the text
      filters are propagated between folder changes and when opening new tabs.)
      -->
+<!ENTITY quickFilterBar.sticky.tooltip
+         "Mantener le filtros applicate quando se cambia de dossier">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
@@ -204,6 +206,8 @@
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch
+         "Continuar iste recerca in tote le dossiers">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.

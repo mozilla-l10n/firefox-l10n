@@ -2,4 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY removeDataLocalAccount.desc  "Remove tote le messages, dossiers e filtros associate a iste conto de tu disco local. Isto non affice alcun messages que pote esser ancora presente sur le servitor. Non elige isto si tu vole archivar le datos local o reusar los in &brandShortName; plus tarde.">
+<!ENTITY removeDataServerAccount.desc "Remove tote le messages, dossiers e filtros associate a iste conto de tu disco local. Tu messages e dossiers se mantene ancora sur le servitor.">
 <!ENTITY progressFailure              "Remotion fallite.">
