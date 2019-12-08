@@ -20,7 +20,30 @@ lockwise-header-content = { -lockwise-brand-name } आपके पासवर�
 lockwise-header-content-logged-in = अपने पासवर्ड को अपने सभी उपकरणों पर सुरक्षापूर्ण तरीके से संग्रहित और सिंक करें।
 protection-report-view-logins-button = लॉगिन देखें
     .title = सहेजे गए लॉगिन पर जाएँ
+turn-on-sync = { -sync-brand-short-name } चालू करें…
+    .title = सिंक वरीयताओं पर जाएँ
+manage-devices = उपकरणों को प्रबंधित करें
+lockwise-sync-not-syncing-devices = अन्य उपकरणों के लिए सिंक नही हो रहा है
+manage-connected-devices = उपकरणों को प्रबंधित करें…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] { $count } उपकरण से जुड़ा
+       *[other] { $count } उपकरणों से जुड़ा
+    }
+monitor-title = डेटा उल्लंघनों की तलाश करें
 monitor-link = यह किस प्रकार काम करता है
+monitor-sign-up = उल्लंघन अलर्ट के लिए साइन अप करें
+auto-scan = आज स्वचालित रूप से स्कैन किया गया
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] ईमेल पते पर नजर रखी जा रही है
+       *[other] ईमेल पतों पर नजर रखी जा रही है
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
