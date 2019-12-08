@@ -3,7 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Color">
+<!ENTITY lastPickedColor.label "Ultime color eligite">
+<!ENTITY lastPickedColor.accessKey "U">
 <!ENTITY chooseColor1.label "Eliger un color:">
+<!ENTITY chooseColor2.label "Insere un catena de color HTML">
+<!ENTITY chooseColor2.accessKey "H">
+<!ENTITY setColorExample.label "(es.: &quot;#0000ff&quot; o &quot;blue&quot;):">
 <!ENTITY default.label "Predefinite">
 <!ENTITY default.accessKey "d">
 <!ENTITY palette.label "Paletta:">

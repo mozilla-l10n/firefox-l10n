@@ -11,6 +11,9 @@
 <!ENTITY findButton.label                  "Cercar">
 <!ENTITY findButton.accesskey              "c">
 <!ENTITY directorySecure.label             "Usar connexion secur (SSL)">
+<!ENTITY directorySecure.accesskey         "U">
+<!ENTITY directoryLogin.label              "DN associate: ">
+<!ENTITY directoryLogin.accesskey          "s">
 <!ENTITY General.tab                       "General">
 <!ENTITY Offline.tab                       "Foras de linea">
 <!ENTITY Advanced.tab                      "Avantiate">
@@ -22,7 +25,13 @@
 <!ENTITY scope.accesskey                   "b">
 <!ENTITY scopeOneLevel.label               "Un nivello">
 <!ENTITY scopeOneLevel.accesskey           "n">
+<!ENTITY scopeSubtree.label                "Subdirectorio">
+<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "Non visualisar plus de">
+<!ENTITY return.accesskey                  "v">
 <!ENTITY results.label                     "resultatos">
+<!ENTITY saslMechanism.label               "Methodo de accesso: ">
+<!ENTITY saslMechanism.accesskey           "a">
 <!ENTITY saslOff.label                     "Simple">
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
