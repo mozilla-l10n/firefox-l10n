@@ -10,18 +10,18 @@
 <!ENTITY closeTabCmd2.accesskey "F">
 <!ENTITY closeOtherTabsCmd2.label "Fermi aliajn langetojn">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
-<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
-<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY recentlyClosedTabsCmd.label "Antaŭnelonge fermitaj langetoj">
+<!ENTITY recentlyClosedTabsCmd.accesskey "n">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Move to New Window">
-<!ENTITY moveToNewWindow.accesskey "W">
-<!ENTITY newVirtualFolderCmd.label "Saved Search…">
-<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY moveToNewWindow.label "Movi al nova fenestro">
+<!ENTITY moveToNewWindow.accesskey "M">
+<!ENTITY newVirtualFolderCmd.label "Konservita serĉo…">
+<!ENTITY newVirtualFolderCmd.accesskey "K">
 <!ENTITY newOtherAccountsCmd.label "Other Accounts…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
 <!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
