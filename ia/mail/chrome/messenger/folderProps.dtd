@@ -7,20 +7,42 @@
 <!ENTITY generalInfo.label                       "Informationes general">
 <!ENTITY folderCharsetFallback2.label            "Codification de texto de ultime recurso:">
 <!ENTITY folderCharsetFallback2.accesskey        "C">
-<!ENTITY folderCharsetEnforce2.label             "Applicar le codification a tote le messages in le dossier (ignorante le codification specificate per message e le auto-detection)">
+<!ENTITY folderCharsetEnforce2.label             "Applicar iste codification a tote le messages in le dossier (ignorante le codification specificate per message e le auto-detection)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruer le indice de summarios del dossier">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparar dossier">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Alcun vices le file de indice del dossier (.msf) deveni damnificate e messages pote mancar o messages delite pote continuar a apparer; reparar le dossier pote solver iste problema.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Includer le messages de iste dossier in le resultatos de recerca global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retentionUseAccount.label  "Usar le parametros de mi conto">
 <!ENTITY message.label "messages">
 
+<!ENTITY folderSynchronizationTab.label          "Synchronisation">
+<!ENTITY folderCheckForNewMessages2.label         "Quando se recipe nove messages pro iste conto, sempre controlar iste dossier">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
+<!ENTITY offlineFolder.check.label               "Seliger iste dossier pro uso foras de linea">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Discargar ora">
+<!ENTITY offlineFolder.button.accesskey          "D">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Seliger iste gruppo pro uso foras de linea">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "f">
 <!ENTITY offlineNewsgroup.button.label           "Discargar ora">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
+<!ENTITY folderProps.name.label                  "Nomine:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Loco:">
+<!ENTITY folderProps.location.accesskey          "L">
 
+<!ENTITY folderSharingTab.label                  "Compartition">
+<!ENTITY folderType.label                        "Typo de dossier:">
 
+<!ENTITY folderQuotaTab.label                    "Quota">
+<!ENTITY folderQuotaRoot.label                   "Quota radice:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Stato:">
 
