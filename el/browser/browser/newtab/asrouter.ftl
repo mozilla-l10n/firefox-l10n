@@ -98,6 +98,17 @@ cfr-whatsnew-tracking-blocked-link-text = Προβολή αναφοράς
 cfr-whatsnew-lockwise-backup-link-text = Ενεργοποίηση των αντιγράφων ασφαλείας
 cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Μάθε περισσότερα
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Μάθετε περισσότερα
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-ok-button = Ενεργοποίηση { -sync-brand-short-name }
