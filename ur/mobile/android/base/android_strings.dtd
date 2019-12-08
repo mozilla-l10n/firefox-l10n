@@ -427,6 +427,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "براؤزر ایپ کو تھپتھپائیں &amp; اور &brandShortName; کو منتتخب کریں">
 <!ENTITY pref_about_firefox "&brandShortName; کے بارے میں">
 <!ENTITY pref_vendor_faqs "عمومی سوالات">
 <!ENTITY pref_vendor_feedback "رائے دیں">
@@ -880,6 +881,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; میں خوش آمدید">
 <!ENTITY activity_stream_signup_button "سائن اپ کریں">
+<!ENTITY activity_stream_signin_prompt "کیا پہلے سے ہی ایک اکاؤنٹ ہے؟">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "سائن ان کریں۔">
 
