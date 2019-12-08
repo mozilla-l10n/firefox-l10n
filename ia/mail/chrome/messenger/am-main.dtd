@@ -5,9 +5,15 @@
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Parametros de contos">
+<!ENTITY name.label "Tu nomine:">
+<!ENTITY name.accesskey "T">
+<!ENTITY email.label "Adresse de email:">
+<!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Adresse pro responsas:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Le destinatarios respondera a iste altere adresse">
+<!ENTITY organization.label "Organisation:">
+<!ENTITY organization.accesskey "O">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 
 

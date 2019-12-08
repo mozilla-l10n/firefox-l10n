@@ -5,6 +5,11 @@
 <!ENTITY messageStorage.label "Immagazinage de message">
 <!ENTITY securitySettings.label "Parametros de securitate">
 <!ENTITY serverSettings.label "Parametros del servitor">
+<!ENTITY userName.label "Nomine de usator:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Porta:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Predefinite:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -30,7 +35,11 @@
     of messages between them
 -->
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "messages">
 <!ENTITY abbreviate.label "Monstrar le nomines de gruppos in le pannello de dossiers como:">
+<!ENTITY advancedButton.label "Avantiate…">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Selige directorio local">
 <!ENTITY browseFolder.label "Percurrer…">
 <!ENTITY browseFolder.accesskey "P">

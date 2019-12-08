@@ -3,12 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Help Menu -->
+<!ENTITY helpMenu.label "Adjuta">
+<!ENTITY helpMenu.accesskey "A">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Adjuta">
+<!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY aboutProduct2.label "A proposito de &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "A">
+<!ENTITY helpTroubleshootingInfo.label     "Informationes de diagnostico">
+<!ENTITY helpTroubleshootingInfo.accesskey "d">
 
 
 <!ENTITY helpFeedbackPage.label "Inviar opinion…">
 <!ENTITY helpFeedbackPage.accesskey "I">
 
 
+<!ENTITY helpGetInvolvedPage.label "Collabora">
+<!ENTITY helpGetInvolvedPage.accesskey "C">
 

@@ -9,5 +9,16 @@
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
+<!ENTITY smtpListAdd.label  "Adder…">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "Rediger…">
+<!ENTITY smtpListEdit.accesskey "e">
+<!ENTITY smtpListDelete.label "Remover">
+<!ENTITY smtpListDelete.accesskey "m">
 
+<!ENTITY serverDescription.label "Description: ">
+<!ENTITY serverName.label "Nomine del servitor: ">
+<!ENTITY serverPort.label "Porta: ">
+<!ENTITY userName.label   "Nomine de usator: ">
 <!ENTITY connectionSecurity.label "Securitate de connexion: ">
+<!ENTITY authMethod.label   "Methodo de authentication: ">
