@@ -20,7 +20,7 @@ update-adminDisabled = L'aggiurnamenti foru sdisarmati di l'amministraturi dû s
 update-noUpdatesFound = { -brand-short-name } è aggiurnatu
 update-otherInstanceHandlingUpdates = { -brand-short-name } è già 'n cursu d'aggiurnamentu
 update-manual = L'aggiurnamenti sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
-update-unsupported = Nun po' fari cchiù aggiurnamenti nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
+update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
 update-restarting = Riabbiannu...
 channel-description = P'accamora sì nnô canali d'aggiurnamentu <label data-l10n-name="current-channel"></label> .{ " " }
 warningDesc-version = { -brand-short-name } è sprimintali e putissi farsijari.

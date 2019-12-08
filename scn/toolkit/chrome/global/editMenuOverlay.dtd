@@ -4,10 +4,15 @@
 
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY redoCmd.key               "Y">
+<!ENTITY cutCmd.label              "Tagghia">
 <!ENTITY cutCmd.key                "X">
+<!ENTITY copyCmd.label             "Copia">
 <!ENTITY copyCmd.key               "C">
+<!ENTITY pasteCmd.label            "Ncoḍḍa">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY selectAllCmd.key          "A">
+<!ENTITY findCmd.label             "Trova">
 <!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "v">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
