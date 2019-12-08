@@ -67,6 +67,9 @@ about-debugging-sidebar-support = डिबगिंग समर्थन
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
     .alt = मदद आइकन
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = उपकरणों को ताज़ा करें
 
 # Setup Page strings
 
@@ -88,6 +91,9 @@ about-debugging-setup-usb-updating-button = अप्डेट हो रहा 
 about-debugging-setup-usb-status-enabled = सक्रिय किया गया
 about-debugging-setup-usb-status-disabled = निष्क्रिय किया गया
 about-debugging-setup-usb-status-updating = अप्डेट हो रहा है...
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = संजाल स्थान
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = जोड़ें
