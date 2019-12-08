@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Pro sparniar spatio del disco, non discargar:">
-<!ENTITY doNotDownloadNntp.label "Pro sparniar spatio del disco, non discargar pro uso offline:">
-<!ENTITY doNotDownloadImap.label "Pro sparniar spatio del disco, discargamento del messages ab le servitor e magazinage de copias local pro uso offline pote esser gerite per etate e dimension.">
+<!ENTITY doNotDownloadNntp.label "Pro economisar spatio sur disco, non discargar pro uso foras de linea:">
+<!ENTITY doNotDownloadImap.label "Pro economisar spatio sur disco, le discargamento de messages ab le servitor e le retention de copias local pro uso foras de linea pote esser restringite per etate o dimension.">
 <!ENTITY allFoldersOffline2.label "Conservar le messages de tote le dossiers de iste conto sur iste computator">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Nota: Cambiar isto affice tote le dossiers in iste conto. Pro configurar dossier individual, usa le button Avantiate…">
-<!ENTITY offlineNotDownload.label "Messages major de">
+<!ENTITY offlineNotDownload.label "Messages plus grande de">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Non discargar messages major de">
 <!ENTITY autosyncNotDownload.accesskey "m">

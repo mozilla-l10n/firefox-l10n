@@ -69,7 +69,7 @@
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vacuar le corbe a papiro">
 <!ENTITY emptyTrashCmd.accesskey "V">
-<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.label "Foras de linea">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Laborar disconnexe">
 <!ENTITY offlineGoOfflineCmd.accesskey "d">
@@ -223,6 +223,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY messengerCmd.label "Posta e gruppos">
+<!ENTITY imStatus.offline            "Foras de linea">
 <!ENTITY filtersApply.label "Applicar filtros al dossier">
 <!ENTITY runJunkControls.label "Executar le controlos de posta indesirate in le dossier">
 <!ENTITY runJunkControls.accesskey "E">

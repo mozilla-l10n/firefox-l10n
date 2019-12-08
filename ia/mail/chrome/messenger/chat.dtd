@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY onlineContactsHeader.label    "Contactos online">
-<!ENTITY offlineContactsHeader.label   "Contactos offline">
+<!ENTITY offlineContactsHeader.label   "Contactos foras de linea">
 <!ENTITY conversationsHeader.label     "Conversationes">
 <!ENTITY searchResultConversation.label "Resultato del recerca">
 <!ENTITY chat.accountWizard.button       "Comenciar">
@@ -14,4 +14,5 @@
 
 
 
+<!ENTITY status.offline            "Foras de linea">
 

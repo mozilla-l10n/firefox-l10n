@@ -12,7 +12,7 @@
 <!ENTITY findButton.accesskey              "c">
 <!ENTITY directorySecure.label             "Usar connexion secur (SSL)">
 <!ENTITY General.tab                       "General">
-<!ENTITY Offline.tab                       "Offline">
+<!ENTITY Offline.tab                       "Foras de linea">
 <!ENTITY Advanced.tab                      "Avantiate">
 <!ENTITY portNumber.label                  "Numero porta: ">
 <!ENTITY portNumber.accesskey              "p">

@@ -85,7 +85,7 @@
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Configurar como &brandShortName; se connecte a Internet">
 <!ENTITY connectionsInfo.caption       "Connexion">
-<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.caption           "Foras de linea">
 <!ENTITY offlineInfo.label             "Configurar le parametros offline">
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
