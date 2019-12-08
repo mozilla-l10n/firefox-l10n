@@ -4,9 +4,14 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!ENTITY archiveFlat.label "Un dossier singule">
+<!ENTITY archiveYearly.label "Dossiers archivate per anno">
+<!ENTITY archiveMonthly.label "Dossiers archivate per mense">
+<!ENTITY keepFolderStructure.label "Conservar le structura de dossiers existente pro le messages archivate">
+<!ENTITY keepFolderStructure.accesskey "C">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
 <!ENTITY archiveFolderName.label "Archivos">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
-<!ENTITY inboxFolderName.label "Cassa de ingresso">
+<!ENTITY inboxFolderName.label "Cassa de entrata">

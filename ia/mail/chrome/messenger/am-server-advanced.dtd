@@ -4,6 +4,10 @@
 
 <!ENTITY serverAdvanced.label "Parametros avantiate de contos">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY usingSubscription.label "Monstrar solmente dossiers subscribite">
+<!ENTITY dualUseFolders.label "Le servitor supporta dossiers que contine subdossiers e messages">
+<!ENTITY dualUseFolders.accesskey "d">
 <!ENTITY maximumConnectionsNumber.label "Numero maxime de connexiones al servitor a tener in cache">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY pop3DeferringDesc.label "Quando se discarga posta del servitor de iste conto, mitter nove messages in iste dossier:">

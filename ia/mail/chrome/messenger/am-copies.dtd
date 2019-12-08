@@ -5,6 +5,8 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Copias e dossiers">
+<!ENTITY fccMailFolder.label "Placiar un copia in:">
+<!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Placiar responsas in le dossier del message respondite">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
@@ -16,6 +18,10 @@
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Archivos de messages">
+<!ENTITY archivesFolderOn.label "Dossier &quot;Archivos&quot; sur:">
+<!ENTITY archivesFolderOn.accesskey "D">
+<!ENTITY archiveInOtherFolder.label "Altere:">
+<!ENTITY archiveInOtherFolder.accesskey "A">
 <!ENTITY specialFolders.label "Esbossos e modellos">
 <!ENTITY keepDrafts2.label "Mantener esbossos in:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->

@@ -31,6 +31,10 @@
 -->
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY abbreviate.label "Monstrar le nomines de gruppos in le pannello de dossiers como:">
+<!ENTITY localFolderPicker.label "Selige directorio local">
+<!ENTITY browseFolder.label "Percurrer…">
+<!ENTITY browseFolder.accesskey "P">
 
 <!ENTITY accountTitle.label "Parametros de contos">
 <!ENTITY accountSettingsDesc.label "Le sequente es un conto special.  Illo non ha identitates associate.">
+<!ENTITY mboxStore2.label "File per dossier (mbox)">
