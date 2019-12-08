@@ -24,16 +24,16 @@
 <!ENTITY moveToNewWindow.accesskey "M">
 <!ENTITY newVirtualFolderCmd.label "Konservita serĉo…">
 <!ENTITY newVirtualFolderCmd.accesskey "K">
-<!ENTITY newOtherAccountsCmd.label "Other Accounts…">
-<!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "G">
-<!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
+<!ENTITY newOtherAccountsCmd.label "Alia konto…">
+<!ENTITY newOtherAccountsCmd.accesskey "l">
+<!ENTITY newCreateEmailAccountCmd.label "Akiri novan retpoŝtan konton…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "n">
+<!ENTITY newExistingEmailAccountCmd.label "Ekzista retpoŝta konto…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<!ENTITY newIMAccountCmd.label "Chat Account…">
-<!ENTITY newIMAccountCmd.accesskey "C">
-<!ENTITY newFeedAccountCmd.label "Feed Account…">
-<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMAccountCmd.label "Tujmesaĝila konto…">
+<!ENTITY newIMAccountCmd.accesskey "T">
+<!ENTITY newFeedAccountCmd.label "Konto de novaĵoj…">
+<!ENTITY newFeedAccountCmd.accesskey "v">
 <!ENTITY newIMContactCmd.label "Chat Contact…">
 <!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Open Saved Message…">
