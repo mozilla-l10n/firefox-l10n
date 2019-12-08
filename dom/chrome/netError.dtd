@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "<p>Encara que el lloc sembla vàlid, el navegador no ha pogut establir-hi una connexió.</p><ul><li>Pot ser que no estigui disponible temporalment? Torneu-ho a provar més tard.</li><li>No podeu navegar per altres llocs? Comproveu la connexió del vostre ordinador a la xarxa.</li><li>L'ordinador està protegit amb un tallafoc o servidor intermediari? Una configuració incorrecta pot interferir amb la navegació web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "El port s'ha restringit per motius de seguretat">
-<!ENTITY deniedPortAccess.longDesc "<p>L'adreça sol·licitada especifica un port (e.g. <q>mozilla.org:80</q> per al 80 a mozilla.org) que normalment s'utilitza per a propòsits <em>diferents</em> de la navegació web. El navegador ha cancel·lat la sol·licitud per garantir la vostra protecció i seguretat.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>L'adreça sol·licitada especifica un port (per exemple, <q>mozilla.org:80</q> per al port 80 a mozilla.org) que normalment s'utilitza per a propòsits <em>diferents</em> de la navegació web. El navegador ha cancel·lat la sol·licitud per garantir la vostra protecció i seguretat.</p>">
 
 <!ENTITY dnsNotFound.title "No s'ha trobat l'adreça">
 <!ENTITY dnsNotFound.longDesc "<p>El navegador no ha pogut trobar l'ordinador central per a l'adreça proporcionada.</p><ul><li>Esteu segur que no heu comès cap error en escriure l'adreça? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en comptes de <q><strong>www</strong>.mozilla.org</q>)</li><li>Teniu la certesa que el domini existeix?  Potser n'ha vençut el registre.</li><li>No podeu navegar per altres llocs?  Comproveu la vostra connexió a la xarxa i els paràmetres DNS del servidor.</li><li>L'ordinador està protegit amb un tallafoc o servidor intermediari (proxy)? Uns paràmetres incorrectes poden interferir amb la navegació web.</li></ul>">
@@ -49,7 +49,7 @@
 <!ENTITY netTimeout.title "S'ha excedit el temps d'espera de la xarxa">
 <!ENTITY netTimeout.longDesc "<p>El lloc sol·licitat no ha respost a la sol·licitud de connexió i el navegador ha deixat d'esperar-ne una resposta.</p><ul><li>Pot ser que el servidor estigui experimentant una alta demanda o una suspensió temporal? Torneu-ho a provar més tard.</li><li>No podeu navegar per altres llocs? Comproveu la connexió del vostre navegador a la xarxa.</li><li>L'ordinador està protegit amb un tallafoc o servidor intermediari (proxy)?  Si hi ha cap paràmetre incorrecte, podria afectar la navegació web.</li><li>Encara teniu problemes? Consulteu el vostre administrador de xarxes o demaneu assistència al vostre proveïdor d'Internet.</li></ul>">
 
-<!ENTITY unknownProtocolFound.title "Error de protocol desconegut">
+<!ENTITY unknownProtocolFound.title "Protocol desconegut">
 <!ENTITY unknownProtocolFound.longDesc "<p>L'adreça especifica un protocol (p. ex. <q>wxyz://</q>) que el navegador no reconeix, així doncs, no es pot connectar correctament al lloc.</p><ul><li>Esteu provant d'accedir a contingut multimèdia o bé a altres serveis que no són text? Comproveu els requisits addicionals del lloc.</li><li>Alguns protocols poden requerir programari o connectors de tercers per tal que el navegador els pugui reconèixer.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "S'ha rebutjat la connexió al servidor intermediari">
@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>S'ha configurat el navegador perquè utilitzi un servidor intermediari, però aquest no s'ha pogut trobar.</p><ul><li>És correcta la configuració del servidor intermediari? Comproveu els seus paràmetres i torneu-ho a provar.</li><li>L'ordinador està connectat a una xarxa activa?</li><li>Encara teniu problemes? Demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
 
 <!ENTITY redirectLoop.title "Bucle de redirecció">
-<!ENTITY redirectLoop.longDesc "<p>El navegador ha deixat de provar d'obtenir l'element sol·licitat. El lloc redirigeix la sol·licitud d'una manera que mai es podrà completar.</p><ul><li>Heu inhabilitat o blocat les galetes que necessita el lloc?</li><li><em>NOTA</em>: Si en acceptar les galetes del lloc no es resol el problema, probablement es tracti d'una incidència amb la configuració del servidor i no del vostre ordinador.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>El navegador ha deixat de provar d'obtenir l'element sol·licitat. El lloc redirigeix la sol·licitud d'una manera que mai es podrà completar.</p><ul><li>Heu inhabilitat o blocat les galetes que necessita el lloc?</li><li><em>NOTA</em>: Si en acceptar les galetes del lloc no es resol el problema, probablement es tracta d'una incidència amb la configuració del servidor i no del vostre ordinador.</li></ul>">
 
 <!ENTITY unknownSocketType.title "La resposta és incorrecta">
 <!ENTITY unknownSocketType.longDesc "<p>El lloc ha respost a la sol·licitud de la xarxa d'una manera inesperada i el navegador no podrà continuar.</p>">
