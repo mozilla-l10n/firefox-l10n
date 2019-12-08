@@ -19,6 +19,8 @@ about-config-intro-warning-button = जोखिम को स्वीकार
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = इन प्राथमिकताओं को बदलने से { -brand-short-name } का प्रदर्शन या सुरक्षा प्रभावित हो सकती है।
 about-config-page-title = उन्नत प्राथमिकताएँ
 about-config-search-input1 =
     .placeholder = वरीयता नाम खोजें
