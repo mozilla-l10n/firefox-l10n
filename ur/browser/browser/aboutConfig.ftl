@@ -19,6 +19,7 @@ about-config-intro-warning-button = خطرے کو قبول کریں اور جا�
 
 
 
+about-config-page-title = اعلی درجے کی ترجیحات
 about-config-search-input1 =
     .placeholder = ترجیحات  کا نام تلاش کریں
 about-config-show-all = تمام دکھائیں
