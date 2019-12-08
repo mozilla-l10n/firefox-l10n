@@ -13,6 +13,7 @@ login-app-promo-apple =
 login-filter =
     .placeholder = لاگ ان تلاش کریں
 create-login-button = نیا لاگ ان بنائیں
+fxaccounts-sign-in-text = اپنے پاسورڈ  دوسرے آلات پر حاصل کریں
 fxaccounts-avatar-button =
     .title = اکاؤنٹ کا منظم کریں
 

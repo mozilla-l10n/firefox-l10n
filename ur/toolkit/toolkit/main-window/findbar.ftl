@@ -11,6 +11,14 @@ findbar-previous =
     .tooltiptext = فقرے کا پچھلا وقوع ڈھونڈیں
 findbar-find-button-close =
     .tooltiptext = تلاش بار بند کریں
+findbar-highlight-all2 =
+    .label = تمام یمایاں کریں
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] a
+        }
+    .tooltiptext = جملہ کے تمام واقعات کو نمایاں کریں
 findbar-case-sensitive =
     .label = کیس میچ کریں
     .accesskey = م
