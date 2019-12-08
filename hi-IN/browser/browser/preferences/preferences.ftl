@@ -828,9 +828,16 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-private-windows = निजी विंडो में ट्रैकिंग सामग्री
+content-blocking-cross-site-tracking-cookies = क्रॉस-साइट ट्रैकिंग कुकी
+content-blocking-social-media-trackers = सोशल मीडिया ट्रैकर
 content-blocking-all-cookies = सारे कुकीज़
+content-blocking-unvisited-cookies = नहीं देखे वेबसाइटों से कुकी
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
+content-blocking-all-windows-tracking-content = सभी विंडो में ट्रैकिंग सामग्री
 content-blocking-all-third-party-cookies = सभी तृतीय-पक्ष कुकीज़
+content-blocking-cryptominers = क्रिप्टोमाइनर
+content-blocking-fingerprinters = फिंगरप्रिंटर
 content-blocking-warning-title = सावधान!
 content-blocking-learn-how = सीखें कि कैसे
 content-blocking-warning-learn-how = जानिए कैसे
@@ -841,6 +848,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = ट्रैकर
     .accesskey = T
+content-blocking-tracking-content-label =
+    .label = ट्रैकिंग सामग्री
+    .accesskey = ट
 content-blocking-tracking-protection-option-all-windows =
     .label = सभी विंडो में
     .accesskey = A
@@ -853,6 +863,15 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = अधिक जानकारी
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = क्रिप्टोमाइनर
+    .accesskey = क
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = फिंगरप्रिंटर
+    .accesskey = फ
 
 ## Privacy Section - Tracking
 
@@ -883,6 +902,9 @@ permissions-notification-link = अधिक जानें
 permissions-notification-pause =
     .label = { -brand-short-name } के पुनः शुरू होने तक अधिसूचना रोकें
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = स्वचालित रूप से आवाज़ चलाने से वेबसाइटों को अवरूद्ध करें
+    .accesskey = अ
 permissions-block-autoplay-media-exceptions =
     .label = अपवाद...
     .accesskey = E
@@ -991,3 +1013,7 @@ space-alert-under-5gb-message = { -brand-short-name } के लिए डिस
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाउनलोड
 choose-download-folder-title = डाउनलोड फोल्डर चुनें:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = { $service-name } में फ़ाइलें सहेजें
