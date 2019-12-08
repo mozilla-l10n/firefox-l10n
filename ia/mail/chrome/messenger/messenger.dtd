@@ -65,6 +65,8 @@
 <!ENTITY renameFolder.label "Renominar dossier…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Compactar dossiers">
+<!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Vacuar le corbe a papiro">
 <!ENTITY emptyTrashCmd.accesskey "V">
 <!ENTITY offlineMenu.label "Offline">
@@ -92,9 +94,12 @@
 <!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Filo">
 <!ENTITY selectThreadCmd.accesskey "F">
+<!ENTITY menuFavoriteFolder.label "Dossier favorite">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "Proprietates">
 <!ENTITY folderPropsFolderCmd2.label "Proprietates del dossier">
 <!ENTITY folderPropsNewsgroupCmd2.label "Proprietates del gruppo">
+<!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDefaultCmd.label "Disfacer">
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refacer">
@@ -108,9 +113,15 @@
 
 <!ENTITY messagePaneLayoutStyle.label "Disposition">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
+<!ENTITY showFolderPaneCmd.label "Pannello de dossiers">
+<!ENTITY showFolderPaneCmd.accesskey "o">
+<!ENTITY showFolderPaneColsCmd.label "Columnas del pannello de dossiers">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 
 <!ENTITY folderView.label "Dossiers">
 <!ENTITY folderView.accesskey "P">
+<!ENTITY unifiedFolders.label "Unificate">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Toto">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Non legite">
@@ -119,6 +130,8 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recente">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY folderPaneBar.label "Barra del pannello de dossiers">
+<!ENTITY folderPaneBar.accesskey "B">
 
 <!-- Sort Menu -->
 <!ENTITY sortByAttachmentsCmd.label "Annexos">
@@ -152,6 +165,8 @@
 <!ENTITY goForwardCmd.label "Reinviar">
 <!ENTITY goForwardCmd.accesskey "R">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY folderMenu.label "Dossier">
+<!ENTITY folderMenu.accesskey "o">
 
 <!-- Message Menu -->
 <!ENTITY replyMsgCmd.label "Responder">
@@ -182,6 +197,9 @@
 <!ENTITY editTemplateMsgCmd.accesskey "M">
 <!ENTITY newMsgFromTemplateCmd.label "Nove message desde modello">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY moveToFolderAgain.label "Displaciar de novo">
+<!ENTITY moveToFolderAgain.accesskey "v">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY markAsJunkCmd.label "Como indesirate">
 <!ENTITY markAsJunkCmd.accesskey "i">
 <!ENTITY markAsJunkCmd.key "i">
@@ -205,6 +223,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY messengerCmd.label "Posta e gruppos">
+<!ENTITY filtersApply.label "Applicar filtros al dossier">
 <!ENTITY runJunkControls.label "Executar le controlos de posta indesirate in le dossier">
 <!ENTITY runJunkControls.accesskey "E">
 <!ENTITY deleteJunk.label "Deler le posta marcate como indesirate in le dossier">
@@ -233,6 +252,7 @@
 <!ENTITY junkItem.title "Indesirate">
 <!ENTITY junkButton.label "Indesirate">
 <!ENTITY notJunkButton.label "Non indesirate">
+<!ENTITY folderLocationToolbarItem.title "Loco del dossier">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY replyButton.tooltip "Responder al message">
@@ -242,8 +262,10 @@
 <!ENTITY forwardAsInline.tooltip "Reinviar le message seligite como parte del texto del message">
 <!ENTITY forwardAsAttachment.tooltip "Reinviar le message seligite como annexo">
 <!ENTITY goForwardButton.tooltip "Avantiar un message">
+<!ENTITY deleteButton.tooltip "Deler le message o dossier seligite">
 <!ENTITY junkButton.tooltip "Marcar le message seligite como indesirate">
 <!ENTITY notJunkButton.tooltip "Marcar le message seligite como non indesirate">
+<!ENTITY compactButton.tooltip "Remover le messages delite del dossier seligite">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reinviar in le texto del message">
@@ -258,21 +280,59 @@
 <!-- Tags Menu Popup -->
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Nomine">
+<!ENTITY folderUnreadColumn.label "Non legite">
+<!ENTITY folderTotalColumn.label "Total">
+<!ENTITY folderSizeColumn.label "Dimension">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Reciper messages">
+<!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar tote le dossiers como legite">
+<!ENTITY folderContextPauseAllUpdates.label "Pausar tote le actualisationes">
+<!ENTITY folderContextPauseUpdates.label "Pausar actualisationes">
+<!ENTITY folderContextPauseUpdates.accesskey "u">
+<!ENTITY folderContextOpenInNewWindow.label "Aperir in un nove fenestra">
+<!ENTITY folderContextOpenInNewWindow.accesskey "f">
+<!ENTITY folderContextOpenNewTab.label "Aperir in un nove scheda">
+<!ENTITY folderContextOpenNewTab.accesskey "s">
+<!ENTITY folderContextNew.label "Nove subdossier…">
+<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextRename.label "Renominar">
+<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRemove.label "Deler">
+<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "Compactar">
+<!ENTITY folderContextCompact.accesskey "p">
 <!ENTITY folderContextEmptyTrash.label "Vacuar le corbe a papiro">
 <!ENTITY folderContextEmptyTrash.accesskey "V">
 <!ENTITY folderContextEmptyJunk.label "Vacuar le dossier Indesirate">
 <!ENTITY folderContextEmptyJunk.accesskey "V">
 <!ENTITY folderContextSendUnsentMessages.label "Inviar le messages non inviate">
+<!ENTITY folderContextSendUnsentMessages.accesskey "n">
+<!ENTITY folderContextUnsubscribe.label "Cancellar subscription">
+<!ENTITY folderContextUnsubscribe.accesskey "C">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marcar le gruppo como legite">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
+<!ENTITY folderContextMarkMailFolderRead.label "Marcar dossier como legite">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "l">
+<!ENTITY folderContextSubscribe.label "Subscriber…">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchForMessages.label "Cercar messages…">
+<!ENTITY folderContextSearchForMessages.accesskey "C">
+<!ENTITY folderContextProperties2.label "Proprietates">
+<!ENTITY folderContextProperties2.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Dossier favorite">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Parametros">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
 
 <!-- Gloda Search Bar -->
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY saveAsVirtualFolderMenu.label "Salvar le recerca como dossier…">
 
 <!-- Thread Pane -->
 <!ENTITY junkStatusColumn.label "Stato indesirate">
@@ -288,6 +348,7 @@
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
+<!ENTITY contextOpenContainingFolder.label "Aperir message in dossier contentor">
 <!ENTITY contextEditDraftMsg.label "Modificar esbosso">
 <!ENTITY contextEditTemplate.label "Modificar modello">
 <!ENTITY contextEditTemplate.accesskey "M">
