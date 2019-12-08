@@ -79,6 +79,7 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "पथ प्रदर्शन">
 <!ENTITY personalbarCmd.label "बुकमार्क औज़ारपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -162,11 +163,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName; में साइन इन करें">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; चालू करें">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; सेवाएं">
 <!ENTITY fxa.menu.account.label "खाता">
 <!ENTITY fxa.menu.settings.label "सेटिंग">
 <!ENTITY fxa.menu.accountSettings.label "खाते की सेटिंग">
 <!ENTITY fxa.menu.signOut.label "साइन आउट…">
+<!ENTITY fxa.menu.deviceSettings.label "उपकरण सेटिंग">
+<!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; सेट अप करें…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
