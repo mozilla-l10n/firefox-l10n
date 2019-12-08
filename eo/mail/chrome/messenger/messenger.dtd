@@ -6,6 +6,8 @@
 <!ENTITY titleSeparator.label " – ">
 
 <!-- File Menu -->
+<!ENTITY newFolderCmd.label "Mesaĝujo…">
+<!ENTITY newFolderCmd.accesskey "u">
 <!ENTITY closeTabCmd2.label "Fermi langeton">
 <!ENTITY closeTabCmd2.accesskey "F">
 <!ENTITY closeOtherTabsCmd2.label "Fermi aliajn langetojn">
