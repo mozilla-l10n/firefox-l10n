@@ -83,7 +83,14 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY sharedLongDesc3 "<ul> <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'aquí uns moments.</li> <li>Si no podeu carregar cap pàgina, comproveu la connexió de dades o Wi-Fi del vostre dispositiu mòbil. <button id='wifi'>Activa la connexió Wi-Fi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'aquí a uns moments.</li>
+  <li>Si no podeu carregar cap pàgina, comproveu la connexió de dades o Wi-Fi del vostre dispositiu mòbil.
+    <button id='wifi'>Activa la connexió Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
