@@ -11,3 +11,8 @@
 <!ENTITY chooseFoldersButton.label "Eliger…">
 <!ENTITY chooseFoldersButton.accesskey "E">
 
+<!ENTITY searchOnline.label "Cercar in linea (da resultatos actualisate pro dossiers IMAP e de gruppos ma augmenta le tempore necessari pro aperir le dossier)">
+<!ENTITY newFolderButton.label       "Crear">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Actualisar">
+<!ENTITY editFolderButton.accesskey  "u">
