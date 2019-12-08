@@ -18,6 +18,12 @@ reader-view = पाठक परिदृश्य
 open-location = खोजें या पता दर्ज करें
 share = साझा करें
 close-window = विंडो बंद करें
+open-sidebar = बाज़ूपट्टी
+# This string describes shortcuts for search.
+search-popover = शॉर्टकट खोजें
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = इसमें खोजें:
 
 ## Various categories of shortcuts for search.
 
@@ -25,6 +31,7 @@ search-bookmarks = बुकमार्क्स
 search-history = इतिहास
 search-opentabs = टैब खोलें
 search-tags = टैग
+search-titles = शीर्षक
 
 
 

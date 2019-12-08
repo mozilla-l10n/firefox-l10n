@@ -44,6 +44,14 @@ info-monitored-emails =
         [one] ईमेल पते पर नजर रखी जा रही है
        *[other] ईमेल पतों पर नजर रखी जा रही है
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] ज्ञात डेटा विच्छेद ने आपकी जानकारी को उजागर कर दिया है
+       *[other] ज्ञात डेटा विच्छेदों ने आपकी जानकारी को उजागर कर दिया है
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
