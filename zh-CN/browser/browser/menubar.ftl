@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = 重置
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = 实际大小
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = 仅缩放文本
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = 全屏
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = 显示所有标签页
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = 附加组件
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = 登录{ -sync-brand-short-name }服务…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = 登录到 { -brand-product-name }…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = 立即同步
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = 重新绑定{ -sync-brand-short-name }…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = 重新绑定 { -brand-product-name }…
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = 重启浏览器并启用附加组件
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = 举报诈骗网站…
     .accesskey = D
