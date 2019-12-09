@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Visszaállítás
     .accesskey = V
+menu-view-full-zoom-actual-size =
+    .label = Valódi méret
+    .accesskey = V
 menu-view-full-zoom-toggle =
     .label = Csak a szöveg nagyítása
     .accesskey = C
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Teljes képernyő
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Az összes böngészőlap megjelenítése
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Kiegészítők
     .accesskey = t
-menu-tools-sync-sign-in =
-    .label = Bejelentkezés a { -sync-brand-short-name }be…
-    .accesskey = J
 menu-tools-fxa-sign-in =
     .label = Bejelentkezés a { -brand-product-name }ba…
     .accesskey = B
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Szinkronizálás
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Újracsatlakozás a { -sync-brand-short-name }hez…
-    .accesskey = r
 menu-tools-fxa-re-auth =
     .label = Újrakapcsolódás a { -brand-product-name }hoz…
     .accesskey = j
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Újraindítás engedélyezett kiegészítőkkel
     .accesskey = r
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Félrevezető oldal jelentése…
     .accesskey = F
