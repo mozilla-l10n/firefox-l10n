@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Reset
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Actual Size
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = Zoom Text Only
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Full Screen
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Show All Tabs
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Sign In To { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Sign In To { -brand-product-name }…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Sync Now
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Reconnect to { -sync-brand-short-name }…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Reconnect to { -brand-product-name }…
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Restart with Add-ons Enabled
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Report deceptive site…
     .accesskey = d
