@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Për të kursyer hapësirë disku, mos shkarko:">
 <!ENTITY doNotDownloadNntp.label "Për të kursyer vend në disk, mos i shkarko për përdorim jashtë linje:">
 <!ENTITY doNotDownloadImap.label "Për të kursyer vend në disk, shkarkimi i mesazheve prej shërbyesit dhe mbajtja e kopjeve vendore për përdorim jashtë linje mund të kufizohet sipas moshës ose madhësisë.">
-<!ENTITY allFoldersOffline.label "Mesazhet e kësaj llogarie mbaji në këtë kompjuter">
-<!ENTITY allFoldersOffline.accesskey "e">
 <!ENTITY allFoldersOffline2.label "Mesazhet e kësaj llogarie në krejt dosjet mbaji në këtë kompjuter">
 <!ENTITY allFoldersOffline2.accesskey "d">
 <!ENTITY allFoldersOfflineNote.label "Shënim: Ndryshimi i kësaj prek krejt dosjet për këtë llogari. Për të caktuar dosje individuale, përdorni butonin Të mëtejshme… .">
@@ -15,7 +13,7 @@
 <!ENTITY autosyncNotDownload.label "Mos shkarko mesazhe më të mëdhenj se">
 <!ENTITY autosyncNotDownload.accesskey "M">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "ditë">
+<!ENTITY daysOld.label "ditë të vjetër">
 <!ENTITY message.label "mesazheve të fundit">
 <!ENTITY nntpNotDownloadRead.label "Lexoni mesazhe">
 <!ENTITY nntpNotDownloadRead.accesskey "L">
