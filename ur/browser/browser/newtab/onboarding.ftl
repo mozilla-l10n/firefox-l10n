@@ -19,6 +19,9 @@ onboarding-button-label-get-started = شروع کریں
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
+onboarding-welcome-learn-more = فوائد کے بارے میں مزید سیکھیں۔
+onboarding-welcome-form-header = یہاں سے شروع کرو
+onboarding-join-form-header = { -brand-product-name } میں شامل ہوِں۔
 onboarding-join-form-email =
     .placeholder = ای میل درز کریں
 onboarding-join-form-continue = جاری رکھیں
@@ -34,7 +37,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-form-invalid-input = جائز ای میل کی ظرورت ہے
+onboarding-sync-welcome-learn-more-link = Firefox Accounts کے بارے میں مزید سیکھیں
 onboarding-sync-form-input =
     .placeholder = ای میل
 onboarding-sync-form-continue-button = جاری رکھیں
@@ -49,6 +52,8 @@ onboarding-sync-form-header = اپنی ای میل داخل کریں
 
 onboarding-benefit-products-title = مفید مصنوعات
 onboarding-benefit-knowledge-title = عملی علم
+onboarding-benefit-privacy-title = سچی  رازداری
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
@@ -67,6 +72,8 @@ onboarding-addons-title = ایڈ اون
 onboarding-addons-text = { -brand-short-name } میں اور بھی مزید خصوصیات شامل کریں جسسے آپ اپنے سخت کام کو انجام دے سکے۔ قیمتوں کا موازنہ کریں، موسم کی جانچ پڑتال کریں یا مرضی کے مطابق تھیم سے اپنی شخصیت کا اظہار کرے۔
 onboarding-ghostery-title = گھوسٹری
 onboarding-ghostery-text = Ghostery کے طرہ ایکسٹینشن کے ساتھ تیز، ہوشیار اور محفوز طریقے سے براؤز کرے، جو کی اپکو پریشان کرنے والے اشتہاروں کو روکنے کی اجازت دیتے ہے۔
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = ہمہ وقت سازی
 onboarding-tracking-protection-button2 = یہ کس طرح کام کرتا ہے
 onboarding-browse-privately-title = رازداری سے براؤز کریں
 onboarding-browse-privately-button = نجی ونڈو میں کھولیں؟

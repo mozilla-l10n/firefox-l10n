@@ -519,6 +519,21 @@ sync-signedin-settings-header = ہمہ وقت ساز ترتیبات
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = بک مارک
+sync-currently-syncing-history = سابقات
+sync-currently-syncing-tabs = ٹیب کھولیں
+sync-currently-syncing-logins-passwords = لاگ ان اور پاس ورڈ
+sync-currently-syncing-addresses = پتے
+sync-currently-syncing-creditcards = کریڈٹ کارڈز
+sync-currently-syncing-addons = ایڈ اون
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] اختیارات
+       *[other] ترجیحات
+    }
+sync-change-options =
+    .label = تبدیل…
+    .accesskey = چ
 
 ## The "Choose what to sync" dialog.
 
@@ -567,6 +582,7 @@ sync-device-name-save =
     .accesskey = v
 sync-connect-another-device = اہک اور آلہ جوڑیں
 sync-manage-devices = آلات کو منظم کریں
+sync-fxa-begin-pairing = ایک آلہ جوڑیں
 sync-tos-link = سروس کی ٹرمز
 sync-fxa-privacy-notice = اطلاع نامہ نجی نوعیت
 
