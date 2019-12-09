@@ -100,8 +100,8 @@ cfr-whatsnew-fx70-body =
     mais fácil do que nunca a criação de palavras-passe seguras para cada site.
 cfr-whatsnew-tracking-protect-title = Proteja-se contra os rastreadores
 cfr-whatsnew-tracking-protect-body =
-    O { -brand-short-name } bloqueia muitos dos rastreadores mais comuns das 
-    redes sociais e inter-sites que monitorizam o que faz na Internet.
+    O { -brand-short-name } bloqueia muitos dos rastreadores mais comuns entre sites e de 
+    redes sociais que monitorizam o que faz na Internet.
 cfr-whatsnew-tracking-protect-link-text = Ver o seu relatório
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
