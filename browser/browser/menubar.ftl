@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Tebeksette
     .accesskey = b
+menu-view-full-zoom-actual-size =
+    .label = Wurklike grutte
+    .accesskey = W
 menu-view-full-zoom-toggle =
     .label = Allinnich tekst zoome
     .accesskey = A
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Folslein skerm
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Alle ljepblêden toane
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Oanmelde by { -sync-brand-short-name }…
-    .accesskey = y
 menu-tools-fxa-sign-in =
     .label = Oanmelde by { -brand-product-name }…
     .accesskey = m
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = No syngronisearje
     .accesskey = N
-menu-tools-sync-re-auth =
-    .label = Opnij ferbine mei { -sync-brand-short-name }…
-    .accesskey = O
 menu-tools-fxa-re-auth =
     .label = Opnij ferbine mei { -brand-product-name }…
     .accesskey = O
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Opnij starte mei ynskeakele add-ons
     .accesskey = r
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Misliedende website rapportearje…
     .accesskey = M
