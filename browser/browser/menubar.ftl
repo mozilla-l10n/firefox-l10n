@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Herinitialiseren
     .accesskey = H
+menu-view-full-zoom-actual-size =
+    .label = Werkelijke grootte
+    .accesskey = W
 menu-view-full-zoom-toggle =
     .label = Alleen tekst zoomen
     .accesskey = t
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Volledig scherm
     .accesskey = d
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Alle tabbladen tonen
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Aanmelden bij { -sync-brand-short-name }…
-    .accesskey = y
 menu-tools-fxa-sign-in =
     .label = Aanmelden bij { -brand-product-name }…
     .accesskey = m
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Nu synchroniseren
     .accesskey = N
-menu-tools-sync-re-auth =
-    .label = Opnieuw verbinden met { -sync-brand-short-name }…
-    .accesskey = O
 menu-tools-fxa-re-auth =
     .label = Opnieuw verbinden met { -brand-product-name }…
     .accesskey = O
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Herstarten met ingeschakelde add-ons
     .accesskey = r
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Misleidende website rapporteren…
     .accesskey = M
