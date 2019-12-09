@@ -12,9 +12,9 @@ appmenuitem-protection-report-tooltip =
 ## Zoom Controls
 
 appmenuitem-zoom-enlarge =
-    .label = Zmadhoje
+    .label = Zmadhojeni
 appmenuitem-zoom-reduce =
-    .label = Zvogëloje
+    .label = Zvogëlojeni
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
