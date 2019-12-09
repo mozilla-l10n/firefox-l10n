@@ -6,6 +6,7 @@ about-logins-page-title = لاگ ان اور پاس ورڈ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-subtitle = { -lockwise-brand-name } ایپلیکیشن  مفت  حاصل  کریں
 login-app-promo-android =
     .alt = Google Play  سے حاصل کریں
 login-app-promo-apple =
@@ -14,6 +15,7 @@ login-filter =
     .placeholder = لاگ ان تلاش کریں
 create-login-button = نیا لاگ ان بنائیں
 fxaccounts-sign-in-text = اپنے پاسورڈ  دوسرے آلات پر حاصل کریں
+fxaccounts-sign-in-button = { -sync-brand-short-name } میں  سائن ان کریں
 fxaccounts-avatar-button =
     .title = اکاؤنٹ کا منظم کریں
 
@@ -29,9 +31,15 @@ menu-menuitem-preferences =
        *[other] ترجیحات
     }
 about-logins-menu-menuitem-help = مدد
+menu-menuitem-android-app = { -lockwise-brand-short-name }  براٴے  Android
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count }  لاگ  ان
+       *[other] { $count }  لاگ  انز
+    }
 login-list-sort-label-text = کے مطابق چھانٹیں:
 login-list-name-option = نام (A-Z)
 login-list-last-changed-option = آخری بار ترمیم کردہ
@@ -87,9 +95,12 @@ confirm-delete-dialog-title = اس لاگ ان کو مٹایں؟
 confirmation-dialog-cancel-button = منسوخ کریں
 confirmation-dialog-dismiss-button =
     .title = منسوخ کریں
+about-logins-confirm-remove-dialog-title = اس لاگ ان کو ہٹائیں؟
 confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
 confirm-delete-dialog-confirm-button = مٹائیں
 about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
+confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ضائع کریں؟
+confirm-discard-changes-dialog-message = سبھی غیر محفوظ شدہ تبدیلیاں ختم ہوجائیں گی۔
 confirm-discard-changes-dialog-confirm-button = رد کريں
 
 ## Breach Alert notification
