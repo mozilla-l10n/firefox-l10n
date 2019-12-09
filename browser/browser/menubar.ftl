@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = 원래 크기
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = 실제 크기
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = 글자 크기만 조정
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = 전체 화면
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = 모든 탭 표시
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = 부가 기능
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name }에 로그인…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name }에 로그인…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = 동기화하기
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name }에 다시 연결…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name }에 다시 연결…
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = 부가 기능이 켜진 채로 다시 시작
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = 가짜 사이트 신고…
     .accesskey = D

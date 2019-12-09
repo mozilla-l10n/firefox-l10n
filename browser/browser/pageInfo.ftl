@@ -28,7 +28,7 @@ general-type =
 general-mode =
     .value = 렌더링 방식:
 general-size =
-    .value = 파일 용량:
+    .value = 크기:
 general-referrer =
     .value = 참조 URL:
 general-modified =
@@ -45,7 +45,7 @@ media-tab =
 media-location =
     .value = 위치:
 media-text =
-    .value = 추가 내용:
+    .value = 관련 텍스트:
 media-alt-header =
     .label = 대체 텍스트
 media-address =
@@ -53,11 +53,11 @@ media-address =
 media-type =
     .label = 유형
 media-size =
-    .label = 이미지 크기
+    .label = 크기
 media-count =
-    .label = 카운트
+    .label = 개수
 media-dimension =
-    .value = 사이즈:
+    .value = 크기:
 media-long-desc =
     .value = 설명:
 media-save-as =
@@ -202,7 +202,7 @@ media-image-type =
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (크기 변경 { $scaledx }px × { $scaledy }px)
+    .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px로 조정됨)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
