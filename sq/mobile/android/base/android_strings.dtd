@@ -417,7 +417,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Skeda të hapura">
-<!ENTITY pref_private_data_history2 "Historik shfletimesh">
+<!ENTITY pref_private_data_history2 "Historik shfletimi">
 <!ENTITY pref_private_data_searchHistory "Historik kërkimesh">
 <!ENTITY pref_private_data_formdata2 "Historik formularësh">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; hyrje aktive">
@@ -946,7 +946,7 @@ Picture-in-picture mini window -->
 <!ENTITY pref_notification_settings_link "Administroni rregullime njoftimesh">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Shfletues">
-<!ENTITY mls_notification_channel "Shërbim Lokalizimi i &vendorShortName;">
+<!ENTITY mls_notification_channel "Shërbim Lokalizimi &vendorShortName;">
 <!ENTITY download_notification_channel "Shkarkime">
 <!ENTITY media_notification_channel2 "Tinguj dhe video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->

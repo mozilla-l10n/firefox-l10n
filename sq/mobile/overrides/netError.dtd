@@ -135,9 +135,9 @@
 ">
 
 <!ENTITY redirectLoop.title "Faqja nuk është ridrejtuar si duhet">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>Ndonjëherë ky problem mund të shkaktohet nga çaktivizim apo mospranim cookie-sh.</li>
+<!ENTITY redirectLoop.longDesc "<ul>
+  <li>Ndonjëherë ky problem mund të shkaktohet nga çaktivizim ose mospranim
+    cookie-sh.</li>
 </ul>
 ">
 
