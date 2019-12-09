@@ -59,6 +59,17 @@ cfr-whatsnew-tracking-blocked-link-text = Nen Ripot
 cfr-whatsnew-lockwise-take-title = Cwal mung me donyo mamegi kwedi
 cfr-whatsnew-lockwise-take-link-text = Nong purugram ne
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Nong ngec mapol
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Nong ngec mapol
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Nong alamabuk man i cim mamegi
@@ -82,3 +93,15 @@ cfr-doorhanger-send-tab-ok-button = Tem Send Tab
 
 cfr-doorhanger-firefox-send-ok-button = Tem { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Lor
+    .accesskey = L
+cfr-doorhanger-socialtracking-dont-show-again = Pe doki inyuta kwena calo man
+    .accesskey = P
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Nen Weng
+    .accesskey = N

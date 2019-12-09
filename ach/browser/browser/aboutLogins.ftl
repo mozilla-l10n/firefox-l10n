@@ -54,6 +54,7 @@ login-intro-instruction-fxa = Cwe onyo dony iyie { -fxaccount-brand-name } mameg
 login-item-new-login-title = Cwe Donyo iyie manyen
 login-item-edit-button = Yubi
 login-item-delete-button = Kwany
+about-logins-login-item-remove-button = Kwany
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-copy-username-button-text = Loki
@@ -74,15 +75,26 @@ login-item-time-used = Tic me agiki: { DATETIME($timeUsed, day: "numeric", month
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = Dony iyie
+    .accesskey = D
+
+## Password Sync notification
+
+confirm-delete-dialog-title = Kwany donyo iyie man?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Pe i penya doki
+    .accesskey = P
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Juki
 confirmation-dialog-dismiss-button =
     .title = Juki
-confirm-delete-dialog-title = Kwany donyo iyie man?
+about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
 confirm-delete-dialog-message = Pe ki twero gonyo tic man.
 confirm-delete-dialog-confirm-button = Kwany
+about-logins-confirm-remove-dialog-confirm-button = Kwany
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
 ## Breach Alert notification

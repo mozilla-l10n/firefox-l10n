@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Wang komputa ma opong
     .accesskey = W
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Nyut dirica matino weng
@@ -209,15 +209,15 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Med-ikome
     .accesskey = M
-menu-tools-sync-sign-in =
-    .label = Dony iyie { -sync-brand-short-name }…
-    .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Dony iyie { -brand-product-name }…
+    .accesskey = n
+menu-tools-turn-on-sync =
+    .label = Cak { -sync-brand-short-name }…
+    .accesskey = a
 menu-tools-sync-now =
     .label = Rib Kombedi
     .accesskey = R
-menu-tools-sync-re-auth =
-    .label = Nwo kube bot { -sync-brand-short-name }…
-    .accesskey = N
 menu-tools-web-developer =
     .label = Layub Kakube
     .accesskey = L
@@ -273,8 +273,7 @@ menu-help-safe-mode-with-addons =
     .label = Cak odoco kun nongo kicako med-ikome
     .accesskey = C
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Mi ripot i kom kakube me bwola…
     .accesskey = b

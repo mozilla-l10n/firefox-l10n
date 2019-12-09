@@ -45,9 +45,6 @@ newtab-topsites-save-button = Gwoki
 newtab-topsites-preview-button = Nen
 newtab-topsites-add-button = Medi
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Imoko ni imito kwanyo nyig jami weng me potbuk man ki i gin mukato mamegi?
@@ -83,14 +80,17 @@ newtab-menu-delete-history = Kwany ki ii gin mukato
 newtab-menu-save-to-pocket = Gwok i { -pocket-brand-name }
 newtab-menu-delete-pocket = Kwany ki ii { -pocket-brand-name }
 newtab-menu-archive-pocket = Kan i { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Otum
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Kwany alamabuk
 # Bookmark is a verb here.
 newtab-menu-bookmark = Alamabuk
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +120,6 @@ newtab-label-removed-bookmark = Kikwanyo alamabuk
 newtab-label-recommended = Ma cuke lamal
 newtab-label-saved = Kigwoko i { -pocket-brand-name }
 newtab-label-download = Ki gamo
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

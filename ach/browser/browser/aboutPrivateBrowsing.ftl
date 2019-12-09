@@ -24,3 +24,5 @@ about-private-browsing =
     .title = Yeny Kakube
 about-private-browsing-not-private = Kombedi pe itye i dirica me mung.
 about-private-browsing-info-description = { -brand-short-name } jwayo yeny ki gin mukato me yeny mamegi ka i kato woko ki i purugram onyo i loro dirica ki dirica matino weng me Yeny i Mung. Kadi bed ni man pe weko i bedo ma pe ingene bot kakube onyo lumi intanet mamegi, weko bedo yot me gwoko ngo ma itimo iwiyamo i mung ki bot ngat mukene ma tiyo ki kompuita man.
+about-private-browsing-search-banner-close-button =
+    .aria-label = Lor
