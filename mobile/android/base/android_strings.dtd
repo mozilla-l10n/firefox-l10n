@@ -4,7 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Mirë se vini">
 <!ENTITY firstrun_urlbar_message2 "Faleminderit që zgjidhni &brandShortName;-in">
-<!ENTITY newfirstrun_urlbar_message "Mirë se vini te &brandShortName;">
+<!ENTITY newfirstrun_urlbar_message "Mirë se vini te &brandShortName;-i">
 <!ENTITY firstrun_urlbar_subtext2 "Një shfletues modern për celularë, nga Mozilla, enti jofitimprurës i përkushtuar një web-i të lirë dhe të hapur.">
 <!ENTITY newfirstrun_urlbar_subtext "I shpejtë, privat, dhe krah jush.">
 <!ENTITY firstrun_panel_title_privacy "Privatësi">
@@ -885,7 +885,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
-<!ENTITY activity_stream_signin_title "Mirë se vini te &brandShortName;">
+<!ENTITY activity_stream_signin_title "Mirë se vini te &brandShortName;-i">
 <!ENTITY activity_stream_signin_description "Filloni të njëkohësoni faqerojtës, fjalëkalime, etj me llogarinë tuaj Firefox.">
 <!ENTITY activity_stream_signup_button "Regjistrohuni">
 <!ENTITY activity_stream_signin_prompt "Keni tashmë një llogari?">
