@@ -116,6 +116,31 @@ cfr-whatsnew-lockwise-take-title = Eraman pasahitzak zurekin
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mugikorrerako aplikazioarekin babeskopian dituzun pasahitzak edonondik atzitu ahal izango dituzu.
 cfr-whatsnew-lockwise-take-link-text = Eskuratu aplikazioa
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Ikusi bideoak nabigatu ahala
+cfr-whatsnew-pip-body = Bideoa beste bideo batean erabiliz, bideoa leiho mugikor batera mugitzen denez, beste fitxetan lan egin bitartean bideoa ikusten jarrai dezakezu.
+cfr-whatsnew-pip-cta = Argibide gehiago
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Guneetako popup gogaikarri gutxiago
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name }(e)k guneak blokeatuko ditu orain, zuri popup mezuak bidaltzea automatikoki ez galdetzeko
+cfr-whatsnew-permission-prompt-cta = Argibide gehiago
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Hatz-marka bidezko jarraipena blokeatuta
+       *[other] Hatz-marka bidezko jarraipena blokeatuta
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Hatz-marka bidezko jarraipena
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Eskuratu laster-marka hau zure telefonoan

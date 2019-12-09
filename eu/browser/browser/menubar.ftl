@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Berrezarri
     .accesskey = r
+menu-view-full-zoom-actual-size =
+    .label = Benetako tamaina
+    .accesskey = B
 menu-view-full-zoom-toggle =
     .label = Testua soilik
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Pantaila osoa
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Erakutsi fitxa guztiak
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Gehigarriak
     .accesskey = G
-menu-tools-sync-sign-in =
-    .label = Hasi saioa { -sync-brand-short-name }(e)n…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Hasi saioa { -brand-product-name }(e)n…
     .accesskey = H
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Sinkronizatu orain
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Birkonektatu { -sync-brand-short-name }(e)ra
-    .accesskey = r
 menu-tools-fxa-re-auth =
     .label = Birkonektatu { -brand-product-name }(e)ra…
     .accesskey = B
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Berrabiarazi gehigarriak gaituta
     .accesskey = r
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Eman gune iruzurtiaren berri…
     .accesskey = i

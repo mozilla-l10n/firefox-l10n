@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Bilatu saio-hasierak
 create-login-button = Sortu saio-hasiera berria
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } orrirako webeko ikonoa
 fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
 fxaccounts-sign-in-button = Hasi saioa { -sync-brand-short-name }(e)n
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Ez dago zure bilaketarekin ba
 login-list-item-title-new-login = Saio-hasiera berria
 login-list-item-subtitle-new-login = Idatzi zure saio-hasierako kredentzialak
 login-list-item-subtitle-missing-username = (erabiltzaile-izenik ez)
-about-logins-list-item-warning-icon =
-    .alt = Abisu-ikonoa
-    .title = Datu-urratzea izandako webgunea
 about-logins-list-item-breach-icon =
     .title = Datu-urratzea izandako webgunea
 
@@ -82,6 +74,7 @@ about-logins-intro-import = Zure saio-hasierak beste nabigatzaile batean gordeta
 login-item-new-login-title = Sortu saio-hasiera berria
 login-item-edit-button = Editatu
 login-item-delete-button = Ezabatu
+about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
 login-item-origin =
     .placeholder = https://www.adibidea.eus
@@ -125,6 +118,7 @@ enable-password-sync-preferences-button =
            *[other] Bisitatu { -sync-brand-short-name } hobespenak
         }
     .accesskey = B
+confirm-delete-dialog-title = Ezabatu saio-hasiera hau?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ez galdetu berriz
     .accesskey = z
@@ -134,9 +128,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Utzi
 confirmation-dialog-dismiss-button =
     .title = Utzi
-confirm-delete-dialog-title = Ezabatu saio-hasiera hau?
+about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 confirm-delete-dialog-confirm-button = Ezabatu
+about-logins-confirm-remove-dialog-confirm-button = Kendu
 confirm-discard-changes-dialog-title = Baztertu gorde gabeko aldaketak?
 confirm-discard-changes-dialog-message = Gorde gabeko aldaketa guztiak galdu egingo dira.
 confirm-discard-changes-dialog-confirm-button = Baztertu
@@ -150,11 +145,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Erabiltzaile-izen hori duen sarrera bat badago lehendik ere { $loginTitle } webgunerako.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
