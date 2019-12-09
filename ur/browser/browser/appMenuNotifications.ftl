@@ -28,3 +28,7 @@ appmenu-update-restart-message = پھر سے شروع ہونے کے بعد، { -
 appmenu-addon-private-browsing-installed =
     .buttonlabel = ٹھیک ہے سمجھ آگئی ہے
     .buttonaccesskey = O
+appmenu-addon-post-install-incognito-checkbox =
+    .label = اس ایکسٹینشن  کو نجی ونڈوز میں چلنے دیں
+    .accesskey = ا
+appmenu-addon-private-browsing-learn-more = ایکسٹینشن کی ترتیبات کو بندرست کرنے کا طریقہ سیکھیں

@@ -7,13 +7,8 @@ about-policies-title = انٹرپرائز پالیسییں
 active-policies-tab = فعال
 errors-tab = نقص
 documentation-tab = دستاویزی
+no-specified-policies-message = انٹرپرائز پالیسیاں خدمات  فعال ہے لیکن وہاں کوئی پالیسیاں فعال نہیں ہیں۔
+inactive-message = انٹرپرائز پالیسیاں خدمات غیر فعال ہیں۔
 policy-name = پالیسی کا نام
 policy-value = پالیسی کی مالیت
 policy-errors = پالیسی میں غلطیا
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = گروپ کی پالیسی کا استعمال کرتے ہوئے، یہ پالیسی صرف کمپیوٹر سطح پر مقرر کی جاسکتی ہے.

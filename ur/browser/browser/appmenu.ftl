@@ -5,6 +5,16 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = رازداری سے تحفظ
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = اپنی رازداری رپورٹ پر جائیں
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = اندر زوم کریں
+appmenuitem-zoom-reduce =
+    .label = باہر زوم کریں
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
