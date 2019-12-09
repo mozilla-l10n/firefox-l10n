@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Återställ
     .accesskey = Å
+menu-view-full-zoom-actual-size =
+    .label = Verklig storlek
+    .accesskey = V
 menu-view-full-zoom-toggle =
     .label = Zooma endast texten
     .accesskey = e
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Helskärm
     .accesskey = H
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Visa alla flikar
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tillägg
     .accesskey = T
-menu-tools-sync-sign-in =
-    .label = Logga in till { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Logga in till { -brand-product-name }…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Synka nu
     .accesskey = n
-menu-tools-sync-re-auth =
-    .label = Återanslut till { -sync-brand-short-name }…
-    .accesskey = Å
 menu-tools-fxa-re-auth =
     .label = Återanslut till { -brand-product-name }…
     .accesskey = t
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Starta om med tillägg aktiverade
     .accesskey = S
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Rapportera vilseledande webbplats…
     .accesskey = d
