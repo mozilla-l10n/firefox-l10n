@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Caki
 onboarding-welcome-header = Wajoli i { -brand-short-name }
 onboarding-welcome-body = Dong itye ki layeny.<br/>Rwatte ki jami mukene me { -brand-product-name }.
 onboarding-welcome-learn-more = Nong ngec mapol ikom ber ne.
+onboarding-welcome-form-header = Cak Ki Kany
 onboarding-join-form-header = Dony iyie { -brand-product-name }
 onboarding-join-form-body = Ket kanonge ni me email me cako.
 onboarding-join-form-email =
@@ -28,18 +29,24 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Email ma tye atir mite
 onboarding-join-form-legal = Mede, nyuto ni iyee <a data-l10n-name="terms">Cik me Tic</a> ki <a data-l10n-name="privacy">Cik me Mung</a>.
 onboarding-join-form-continue = Mede
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Dong itye ki akaunt?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Dony Iyie
 onboarding-start-browsing-button-label = Cak yeny
 onboarding-cards-dismiss =
     .title = Kwer
     .aria-label = Kwer
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Wa cak neno jami weng ma itwero timo.
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Wot ki { -brand-product-name }
 onboarding-sync-welcome-content = Nong alamabuk mamegi, gin mukato, mung me donyo ki ter mukene i nyonyo ni weng.
 onboarding-sync-welcome-learn-more-link = Nong ngec mapol ikom Akaunt me Firefox
-onboarding-sync-form-invalid-input = Email ma tye atir mite
-onboarding-sync-legal-notice = Mede anyim nyuto ni i yee <a data-l10n-name="terms">Cik me Tic</a> ki <a data-l10n-name="privacy">Ngec me mung</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Mede
@@ -58,6 +65,9 @@ onboarding-benefit-products-text = Tim jami ki dul pa gitic ma woro mung mamegi 
 onboarding-benefit-knowledge-title = Ngec me tic
 onboarding-benefit-knowledge-text = Pwony jami weng ma mite ki in me bedo ryek ki maber iwiyamo.
 onboarding-benefit-privacy-title = Mung Kikome
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

@@ -40,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = Rib Kombedi
     .accesskey = R
 fxa-sign-in = Dony iyie { -sync-brand-short-name }
+turn-on-sync = Cak { -sync-brand-short-name }

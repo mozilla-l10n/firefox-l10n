@@ -74,12 +74,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Lanyut nying gin ayera">
 <!ENTITY menubarCmd.accesskey "L">
 <!ENTITY navbarCmd.label "Gintic me wot">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Gintic me alama buk">
 <!ENTITY personalbarCmd.accesskey "G">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Jami me gintic me alama buk">
 
 <!ENTITY pageSourceCmd.label "Kama pot buk nonge iye">
 <!ENTITY pageSourceCmd.accesskey "k">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -90,6 +97,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Ngec me pot buk">
 <!ENTITY pageInfoCmd.accesskey "N">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Por dirica matidi">
@@ -114,6 +122,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Mok akaunt mamegi">
 
 
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+
 <!ENTITY fullScreenMinimize.tooltip "Kan piny">
 <!ENTITY fullScreenRestore.tooltip "Dwoki">
 <!ENTITY fullScreenClose.tooltip "Lor">
@@ -132,18 +143,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Rot Email mamegi">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "I donyo iyie calo">
+<!ENTITY fxa.menu.manageAccount.label "Lo Akaunt…">
+
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "I donyo iyie calo">
-<!ENTITY fxa.menu.manageAccount.label "Lo Akaunt…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Kub Nyonyo Mukene…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Dony iyie &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Cak &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Akaunt">
+<!ENTITY fxa.menu.settings.label "Ter">
+<!ENTITY fxa.menu.accountSettings.label "Ter me Akaunt">
+<!ENTITY fxa.menu.signOut.label "Kat Woko…">
+<!ENTITY fxa.menu.deviceSettings.label "Ter me Nyonyo">
+<!ENTITY fxa.menu.setupSync.label "Ter &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -184,6 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Alama buk">
 <!ENTITY bookmarksMenu.accesskey "A">
+
 <!ENTITY bookmarkThisPageCmd.label "Ket alama buk i pot buk man">
 <!ENTITY editThisBookmarkCmd.label "Yub alama buk man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -223,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Yab dirica me kwena pi gwoko mung me donyo">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lo tic ki larwak">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ki tye ka loono layeny ki kama bor">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
@@ -245,6 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Igengo woko kakube man me tic ki larwak me Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "I gengo woko nongo MIDI pi kakube man.">
 <!ENTITY urlbar.installBlocked.tooltip           "Igengo woko keto med-ikome pi kakube man.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
 
@@ -399,6 +422,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Myero ki mok ada pa akaunt mamegi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Dony iyie &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Cak &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Lor nyonyo…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Nen gitic ma inget me dirica matino ma kiribo">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kub Nyonyo Mukene">
@@ -483,6 +508,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Lapeny me yeny">
+
 <!ENTITY contentSearchSubmit.tooltip  "Cwal yeny">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -510,12 +536,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Yeny ki:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Iwangi, yeny ki:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -791,6 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Kicano potbuk man ki i lamed">
 <!ENTITY identity.insecureLoginForms2 "Donyo iyie ma kiketo gi i potbuk man twero bedo ki goro.">
 
+<!ENTITY identity.evOwnerLabel2 "Kimiyo catibiket bot:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
@@ -864,7 +885,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pi ngo?">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Juko gwokke bi yee lulub kor weng i kakube man. Bene twero yilo rwom me tic mogo pa kakube.">
 <!ENTITY protections.noTrackersFound.description "Pe tye lulub kor mo ma ngene bot &brandShortName; ma ononge i potbuk man.">
 
 
@@ -881,7 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Dony iyie &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Rib Kombedi">
 <!ENTITY syncSyncNowItem.accesskey    "R">
 <!ENTITY syncReAuthItem.label         "Nwo kube bot &syncBrand.shortName.label;…">
@@ -901,8 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Lulub kor">
 
 
-
-
 <!ENTITY contentBlocking.trackersView.label "Lulub kor">
 
 <!ENTITY contentBlocking.cookies.label "Angija">
@@ -912,9 +929,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "Mi ripot me bal">
 <!ENTITY contentBlocking.breakageReportView.label "Mi ripot me bal">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Nong ngec mapol">
+
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Nong ngec mapol">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Peko ango ma ibedo kwede? (Ka imito)">
@@ -966,6 +985,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "K">
 
 <!ENTITY homepageControlled.message "Lamed mo oloko ngo ma ineno calo potbuk me acakki mamegi. Itwero dwoko ter mamegi kace pe imito alokaloka man.">
+
 <!ENTITY homepageControlled.header.message "Potbukki me acakki oloke oko.">
 <!ENTITY homepageControlled.keepButton.label "Gwok alokaloka">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

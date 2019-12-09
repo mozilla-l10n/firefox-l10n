@@ -285,6 +285,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Tii ki { $plugin-name } (i { -brand-short-name })
@@ -310,7 +314,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 play-drm-content-learn-more = Nong ngec mapol
 update-application-title = Ngec manyen me { -brand-short-name }
@@ -527,6 +531,9 @@ sync-signedout-account-create = Pe itye ki akaunt? Caki
 sync-signedout-account-signin =
     .label = Dony iyie…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Dony iyie me { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -565,9 +572,15 @@ sync-signedin-settings-desc = Yer ngo me ariba i nyonyo ni ki { -brand-short-nam
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-setup =
+    .label = Ter { -sync-brand-short-name }…
+    .accesskey = T
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Alamabuk
+sync-currently-syncing-history = Gin mukato
+sync-currently-syncing-addons = Med-ikome
 
 ## The "Choose what to sync" dialog.
 
@@ -634,6 +647,7 @@ privacy-header = Mung pa layeny
 ## Privacy Section - Logins and Passwords
 
 logins-header = Donyo iyie ki mung me donyo
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Peny me gwoko donyo iyie ki mung me donyo pi kakube
     .accesskey = k
@@ -748,13 +762,14 @@ content-blocking-private-trackers = Lulub kor ma ngene keken i Dirica me Mung
 ## Enhanced Tracking Protection.
 
 
-##
+
 
 content-blocking-all-cookies = Angija weng
 content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi
 content-blocking-all-windows-trackers = Lulub kor ma ngene i dirica weng
 content-blocking-warning-title = Ngec!
 content-blocking-learn-how = Nong ngec nining
+content-blocking-warning-learn-how = Nong ngec nining
 content-blocking-reload-description = Bi mite ni inwo cano dirica matino mamegi me keto alokoloka magi.
 content-blocking-reload-tabs-button =
     .label = Nwo cano dirica matino weng
@@ -800,6 +815,9 @@ permissions-notification-link = Nong ngec mapol
 permissions-notification-pause =
     .label = Juk jami angeya wang ma { -brand-short-name } onwoyo cake
     .accesskey = n
+permissions-autoplay-settings =
+    .label = Ter…
+    .accesskey = r
 permissions-block-popups =
     .label = Geng dirica ma pye-malo
     .accesskey = G
