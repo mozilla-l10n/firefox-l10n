@@ -46,5 +46,5 @@ clear-site-data-cancel =
     .label = Anuloje
     .accesskey = A
 clear-site-data-clear =
-    .label = Pastroje
-    .accesskey = a
+    .label = Spastroje
+    .accesskey = S

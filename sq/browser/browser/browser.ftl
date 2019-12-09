@@ -129,7 +129,7 @@ search-one-offs-with-title = Këtë herë kërko me:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Ndryshoji Rregullimet e Kërkimit
+    .label = Ndryshoni Rregullime Kërkimi
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ndryshoni rregullime kërkimi
 search-one-offs-context-open-new-tab =

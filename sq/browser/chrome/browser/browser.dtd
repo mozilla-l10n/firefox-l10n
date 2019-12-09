@@ -570,7 +570,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Ndryshoji Rregullimet e Kërkimit">
+<!ENTITY changeSearchSettings.button  "Ndryshoni Rregullime Kërkimi">
 <!ENTITY changeSearchSettings.tooltip "Ndryshoni rregullime kërkimi">
 
 <!ENTITY searchInNewTab.label         "Kërkoni në Skedë të Re">
