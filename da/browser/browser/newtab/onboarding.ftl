@@ -150,7 +150,7 @@ onboarding-lockwise-passwords-button2 = Hent appen
 onboarding-lockwise-strong-passwords-title = Opret og gem stærke adgangskoder
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }  opretter stærke adgangskoder og opbevarer dem for dig.
 
-onboarding-lockwise-strong-passwords-button = Manage Your Logins
+onboarding-lockwise-strong-passwords-button = Håndter dine logins
 onboarding-facebook-container-title = Sæt grænser for Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } holder din profil adskilt fra alt andet, så det bliver sværere for Facebook at målrette annoncer til dig.
 onboarding-facebook-container-button = Installer tilføjelsen
