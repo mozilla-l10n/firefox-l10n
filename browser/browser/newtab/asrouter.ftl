@@ -146,13 +146,13 @@ cfr-whatsnew-lockwise-take-link-text = Hent appen
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Se videoer, mens du browser
-cfr-whatsnew-pip-body = Billede-i-billede viser video i et løsrevet vindue, sådan at du kan se videoer, mens du bruger andre faneblade
+cfr-whatsnew-pip-body = Billede-i-billede viser video i et løsrevet vindue, så at du kan se videoer, mens du bruger andre faneblade
 cfr-whatsnew-pip-cta = Læs mere
 
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Færre irriterende pop op-beskeder
-cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } forhindrer nu websteder i automatisk at spørge, om du vil have vist po op-beskeder.
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } forhindrer nu websteder i automatisk at spørge, om du vil have vist beskeder.
 cfr-whatsnew-permission-prompt-cta = Læs mere
 
 ## Fingerprinter Counter
