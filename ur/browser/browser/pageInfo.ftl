@@ -94,6 +94,7 @@ security-view-identity-validity =
 security-view-privacy =
     .value = نجی نوعیت & سابقات
 security-view-privacy-history-value = میں نے آج سے پہلے یہ ویب سائٹ دیکھی ہے؟
+security-view-privacy-sitedata-value = کیا یہ ویب سائٹ میرے کمپیوٹر پر معلومات کو محفوظ کررہی ہے؟
 security-view-privacy-clearsitedata =
     .label = کوکیاں اور سائٹ کے کواِئف صاف کریں
     .accesskey = C
