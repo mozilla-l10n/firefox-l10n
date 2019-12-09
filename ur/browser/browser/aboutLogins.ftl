@@ -89,6 +89,9 @@ master-password-reload-button =
 ## Password Sync notification
 
 confirm-delete-dialog-title = اس لاگ ان کو مٹایں؟
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = مجھے دوبارہ مت پوچھیں
+    .accesskey = د
 
 ## Dialogs
 

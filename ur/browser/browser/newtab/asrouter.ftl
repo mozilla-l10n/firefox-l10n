@@ -68,22 +68,52 @@ cfr-whatsnew-button =
     .label = نیا کیا ہے
     .tooltiptext = نیا کیا ہے
 cfr-whatsnew-panel-header = نیا کیا ہے
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] بلاک کردہ ٹریکر
+       *[other] بلاک کردہ ٹریکرز
+    }
 cfr-whatsnew-tracking-blocked-link-text = رپورٹ ملاحظہ کریں
 cfr-whatsnew-lockwise-backup-title = اپنے پاس ورڈ کا بیک اپ بنائیں
 cfr-whatsnew-lockwise-backup-link-text = بیک اپ کو چالو کریں
 cfr-whatsnew-lockwise-take-title = اپنے پاس ورڈ اپنے ساتھ رکھیں
+cfr-whatsnew-lockwise-take-link-text = اپلیکیشن حاصل کریں
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = براؤز کرتے وقت ویڈیوز دیکھیں
+cfr-whatsnew-pip-cta = مزید سیکھیں
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = مزید سیکھیں
+
+## Fingerprinter Counter
+
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = فنگر پرنٹرز
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = یہ بُک مارک اپنے فون پر حاصل کریں
 
 ## Login Sync
 
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = چلتے پھرتے پڑھیں
+cfr-doorhanger-send-tab-ok-button = ٹیب بھیجنے کی کوشش کریں
+    .accesskey = ت
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = اس PDF کو محفوظ طریقے سے شیئر کریں
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }آزمائیں
+    .accesskey = ت
 
 ## Social Tracking Protection
 
