@@ -11,7 +11,7 @@
 <!ENTITY move.accesskey "D">
 <!ENTITY junkFolderOn.label "Dossier &quot;Indesirate&quot; sur:">
 <!ENTITY junkFolderOn.accesskey "I">
-<!ENTITY otherFolder.label "Altero:">
+<!ENTITY otherFolder.label "Altere:">
 <!ENTITY otherFolder.accesskey "A">
 <!ENTITY purge1.label "Deler automaticamente le posta indesirate plus ancian de">
 <!ENTITY purge1.accesskey "u">
