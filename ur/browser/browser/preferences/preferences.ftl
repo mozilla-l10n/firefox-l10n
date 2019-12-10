@@ -479,6 +479,9 @@ sync-signedout-account-create = اکائونٹ نہیں ہے؟ شروع کریں
 sync-signedout-account-signin =
     .label = سائن ان…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name } میں سائن ان کریں
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -499,6 +502,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = منقطع کریں…
     .accesskey = D
+sync-sign-out =
+    .label = سائن آؤٹ…
+    .accesskey = گ
 sync-manage-account = اکاؤنٹ کا منظم کریں
     .accesskey = o
 sync-signedin-unverified = { $email } توثیق شدہ نہیں ہے۔
@@ -516,6 +522,10 @@ sync-signedin-settings-header = ہمہ وقت ساز ترتیبات
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-now =
+    .labelnotsyncing = ابھی ہمہ وقت سازی کریں
+    .accesskeynotsyncing = ن
+    .labelsyncing = ہمہ وقت سازی کر رہا ہے…
 
 ## The list of things currently syncing.
 

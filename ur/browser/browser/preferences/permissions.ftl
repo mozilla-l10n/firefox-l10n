@@ -100,6 +100,9 @@ permissions-exceptions-autoplay-media-desc2 = آپ اس بات کی وضاحت �
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = ترتیبات - آٹو پلے
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

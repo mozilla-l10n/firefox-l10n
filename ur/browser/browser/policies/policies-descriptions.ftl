@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = ایسی  پالیسیاں مرتب کریں جس سے   chrome.storage.managed.  کے  زریعے  WebExtensions  رسای  حاصل  کر  سکیں
 policy-AppUpdateURL = مرضی کے مطابق ایپ اپڈیٹ URL سیٹ کریں۔
 policy-Authentication = اس ویب سائٹ کے لئے مربوط تصدیق کو ترتیب دیں جو اس کی حمایت کرتی ہے۔
 policy-BlockAboutAddons = ایڈ اون مینیجر(about:addons) تک رسائی کو روکیں۔
@@ -48,6 +49,5 @@ policy-Homepage = ابتدائی صفحہ سیٹ کریں اور اختیاری 
 policy-InstallAddonsPermission = چند ویب سائٹص کو اظافہ جات کی تنسیب کاری کی اجازت دیں۔
 policy-NoDefaultBookmarks = { -brand-short-name } کے ساتھ آئے ہوئے طے شدہ بکمارک، اور سمارٹ بکمارک (سب سے زیادہ ملاحظہ کردہ، حالیہ ٹیگز)، کی تخلیق کو غیر فعال کرے۔ نوٹ: یہ پالسی تبھی مؤثر ہوگی جب پروفائل کے پہلی بار چلانے میں استعمال کی ہوئ ہوگی۔
 policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
-policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 ماڈیول انسٹال کریں۔
