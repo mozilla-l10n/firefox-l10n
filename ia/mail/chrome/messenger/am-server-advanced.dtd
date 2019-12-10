@@ -15,3 +15,7 @@
 <!ENTITY otherUsersNamespace.label "Altere usatores:">
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY pop3DeferringDesc.label "Quando se discarga posta del servitor de iste conto, mitter nove messages in iste dossier:">
+<!ENTITY accountInbox.label "Cassa de ingresso pro iste conto">
+<!ENTITY accountInbox.accesskey "s">
+<!ENTITY deferToServer.label "Cassa de ingresso pro contos differente">
+<!ENTITY deferToServer.accesskey "d">

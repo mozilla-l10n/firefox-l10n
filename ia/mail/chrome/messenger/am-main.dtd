@@ -5,6 +5,9 @@
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Parametros de contos">
+<!ENTITY accountName.label "Nomine del conto:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY identityTitle.label "Identitate predefinite">
 <!ENTITY name.label "Tu nomine:">
 <!ENTITY name.accesskey "T">
 <!ENTITY email.label "Adresse de email:">
