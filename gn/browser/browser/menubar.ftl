@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Ñepyrũha
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Tuichakuete
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = Moñe'ẽrã año mongakuaa
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Mba'erechaha tuichavéva
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Opaite tendayke jehechauka
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Moĩmbaha
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name }-pe jeike…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Eñepyrũ tembiapo { -brand-product-name }-pe…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Embojuehe ko'ág̃a
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name }…-pe jeikejey
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Eikejey { -brand-product-name }-pe...
     .accesskey = E
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Moĩmbaha oguepyréva moñepyrũjey
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Emombe'u ñandutirenda ivaiha...
     .accesskey = d
