@@ -14,9 +14,20 @@
 <!ENTITY replyTo.placeholder "Le destinatarios respondera a iste altere adresse">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
+<!ENTITY edit.label "Rediger…">
+<!ENTITY choose.label "Eliger…">
+<!ENTITY choose.accesskey "E">
+<!ENTITY editVCard.label "Rediger carta…">
+<!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+<!ENTITY attachVCard.label "Annexar mi vCard al message">
+<!ENTITY attachVCard.accesskey "v">
 
+<!ENTITY manageIdentities.label "Gerer identitates…">
+<!ENTITY manageIdentities.accesskey "G">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Servitor in exito (SMTP):">
+<!ENTITY smtpName.accesskey "u">
+<!ENTITY smtpDefaultServer.label "Usar le servitor predefinite">
 

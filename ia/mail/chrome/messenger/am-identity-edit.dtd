@@ -5,6 +5,14 @@
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
+<!ENTITY identityDialog.style "min-width: 75ch;">
+<!ENTITY identityListDesc.label "Configurar le parametros pro iste identitate:">
 
+<!ENTITY settingsTab.label       "Parametros">
 <!ENTITY copiesFoldersTab.label "Copias e dossiers">
+<!ENTITY addressingTab.label    "Composition e adresses">
 
+<!ENTITY publicData.label        "Datos public">
+<!ENTITY privateData.label       "Datos private">
+<!ENTITY identityAlias.label     "Etiquetta de identitate:">
+<!ENTITY identityAlias.accesskey "t">

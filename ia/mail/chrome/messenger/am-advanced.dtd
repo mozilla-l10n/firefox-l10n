@@ -15,7 +15,10 @@
 <!ENTITY smtpListEdit.accesskey "e">
 <!ENTITY smtpListDelete.label "Remover">
 <!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "Predefinir">
+<!ENTITY smtpListSetDefault.accesskey "r">
 
+<!ENTITY serverDetails.label "Detalios del servitor eligite:">
 <!ENTITY serverDescription.label "Description: ">
 <!ENTITY serverName.label "Nomine del servitor: ">
 <!ENTITY serverPort.label "Porta: ">

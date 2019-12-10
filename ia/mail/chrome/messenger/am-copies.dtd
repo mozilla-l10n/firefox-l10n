@@ -18,6 +18,8 @@
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Archivos de messages">
+<!ENTITY archiveHierarchyButton.label "Optiones de archivo…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Dossier &quot;Archivos&quot; sur:">
 <!ENTITY archivesFolderOn.accesskey "D">
 <!ENTITY archiveInOtherFolder.label "Altere:">

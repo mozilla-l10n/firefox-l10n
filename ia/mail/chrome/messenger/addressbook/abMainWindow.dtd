@@ -229,10 +229,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Adresses">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Installar mappa">
+<!ENTITY mapIt.tooltip                                  "Monstrar un mappa de iste adresse ab le Web">
 
 <!-- Status Bar -->
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label                               "Fenestra">
 <!ENTITY minimizeWindow.label                           "Minimisar">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Traher toto al avante">
