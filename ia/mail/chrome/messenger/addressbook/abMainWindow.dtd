@@ -156,14 +156,19 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.accesskey               "R">
 <!ENTITY newmsgButton.label                             "Scriber">
 <!ENTITY newmsgButton.accesskey                         "S">
+<!ENTITY newIM.label                                    "Message instantanee">
+<!ENTITY newIM.accesskey                                "I">
 <!ENTITY printButton.label                              "Imprimer…">
 <!ENTITY printButton.accesskey                          "m">
 <!ENTITY deleteButton2.label                            "Deler">
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY newContactButton.tooltip                       "Crear un nove contacto de libro de adresses">
 <!ENTITY newlistButton.tooltip                          "Crear un nove lista">
+<!ENTITY editPropertiesButton.tooltip                   "Rediger le elemento seligite">
 <!ENTITY editAbPropertiesButton.tooltip                 "Modificar le proprietates del adressario seligite">
+<!ENTITY editContactPropertiesButton.tooltip            "Rediger le contacto seligite">
 <!ENTITY newmsgButton.tooltip                           "Inviar un message de posta">
 <!ENTITY newIM.tooltip                                  "Inviar un message instantanee o chattar">
 <!ENTITY deleteButton2.tooltip                          "Deler le elemento ùeligite">
