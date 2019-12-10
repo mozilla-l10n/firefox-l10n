@@ -5,14 +5,26 @@
 <!ENTITY securityTitle.label "Securitate">
 <!ENTITY securityTab.label "Securitate">
 <!ENTITY encryptionGroupTitle.label "Cryptographia">
+<!ENTITY neverEncrypt.label "Nunquam (non usa le cryptographia)">
+<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY encryptionCert.message "Usa iste certificato pro cryptar e decryptar messages inviate a te:">
+<!ENTITY digitalSign.certificate.button "Seliger…">
+<!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Clarar">
 <!ENTITY digitalSign.certificate_clear.accesskey "C">
 <!ENTITY encryption.certificate.button "Eliger…">
 <!ENTITY encryption.certificate.accesskey "r">
 <!ENTITY encryption.certificate_clear.button "Clarar">
 <!ENTITY encryption.certificate_clear.accesskey "a">
+<!ENTITY signingGroupTitle.label "Firma digital">
 
+<!ENTITY certificates.label "Certificatos">
+<!ENTITY manageCerts2.label "Gerer certificatos">
+<!ENTITY manageCerts2.accesskey "G">
+<!ENTITY manageDevices.label "Dispositivos de securitate">
+<!ENTITY manageDevices.accesskey "c">
 
 <!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Seliger certificato">
 <!ENTITY certPicker.info  "Certificato:">
+<!ENTITY certPicker.detailsLabel "Detalios de certificato seligite:">

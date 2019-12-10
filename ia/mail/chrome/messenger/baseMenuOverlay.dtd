@@ -13,12 +13,27 @@
 <!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY helpTroubleshootingInfo.label     "Informationes de diagnostico">
 <!ENTITY helpTroubleshootingInfo.accesskey "d">
+<!ENTITY helpSafeMode.label     "Reinitiar con le additivos inactive…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.stop.label     "Reinitiar con le additivos active">
+<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY productHelp.label "Adjuta de &brandShortName;">
+<!ENTITY productHelp.accesskey "A">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
+<!ENTITY helpKeyboardShortcuts.label "Vias breve de claviero">
+<!ENTITY helpKeyboardShortcuts.accesskey "c">
 
 <!ENTITY helpFeedbackPage.label "Inviar opinion…">
 <!ENTITY helpFeedbackPage.accesskey "I">
 
+<!ENTITY helpShowTour2.label "Tour de &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "o">
 
 <!ENTITY helpGetInvolvedPage.label "Collabora">
 <!ENTITY helpGetInvolvedPage.accesskey "C">
 
+<!ENTITY helpDonationsPage.label "Face un donation">
+<!ENTITY helpDonationsPage.accesskey "F">
