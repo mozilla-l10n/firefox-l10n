@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Ailosod
     .accesskey = i
+menu-view-full-zoom-actual-size =
+    .label = Maint Gwirioneddol
+    .accesskey = M
 menu-view-full-zoom-toggle =
     .label = Chwyddo'r Testun yn Unig
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Sgrin Lawn
     .accesskey = S
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Dangos Pob Tab
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Ychwanegion
     .accesskey = Y
-menu-tools-sync-sign-in =
-    .label = Mewngofnodi i { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Mewngofnodi i { -brand-product-name }…
     .accesskey = M
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Cydweddu Nawr
     .accesskey = y
-menu-tools-sync-re-auth =
-    .label = Ail gysylltu i { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-fxa-re-auth =
     .label = Ailgysylltu â { -brand-product-name }…
     .accesskey = A
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
     .accesskey = A
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Adroddwch ar wefan twyllodrus…
     .accesskey = t
