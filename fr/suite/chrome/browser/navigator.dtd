@@ -16,7 +16,7 @@
 
 <!ENTITY mainWindow.titleprivate "Navigation privée">
 
-<!ENTITY editPageCmd.label "Éditer la page">
+<!ENTITY editPageCmd.label "Modifier la page">
 <!ENTITY editPageCmd.accesskey "d">
 <!ENTITY editPageCmd.commandkey "e">
 
