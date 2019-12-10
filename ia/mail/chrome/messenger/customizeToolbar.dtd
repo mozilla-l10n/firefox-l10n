@@ -3,6 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "Personalisar le barra de instrumentos">
+<!ENTITY show.label               "Monstrar:">
 <!ENTITY iconsAndText.label       "Icones e texto">
 <!ENTITY icons.label              "Icones">
+<!ENTITY text.label               "Texto">
+<!ENTITY useSmallIcons.label      "Usar micre icones">
+<!ENTITY restoreDefaultSet.label  "Restaurar le parametros">
+<!ENTITY addNewToolbar.label      "Adder nove barra de instrumentos">
+<!ENTITY showTitlebar.label       "Monstrar barra de titulos">
+<!ENTITY extraDragSpace.label     "Adder spatio de traction">
+<!ENTITY saveChanges.label        "Facite">
 <!ENTITY undoChanges.label        "Disfacer le cambios">

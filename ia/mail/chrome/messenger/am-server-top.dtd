@@ -57,11 +57,18 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
+<!ENTITY maxMessagesStart.label "Me demandar ante discargar plus de">
+<!ENTITY maxMessagesStart.accesskey "M">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "messages">
+<!ENTITY alwaysAuthenticate.label "Requirer sempre authentication al connexion a iste servitor">
+<!ENTITY alwaysAuthenticate.accesskey "s">
+<!ENTITY newsrcFilePath.label "File newsrc:">
+<!ENTITY newsrcPicker.label "Seliger le file newsrc">
 <!ENTITY abbreviate.label "Monstrar le nomines de gruppos in le pannello de dossiers como:">
 <!ENTITY advancedButton.label "Avantiate…">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset2.label "Codification del testo predefinite:">
 <!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Selige directorio local">
 <!ENTITY browseFolder.label "Percurrer…">
@@ -71,4 +78,6 @@
 
 <!ENTITY accountTitle.label "Parametros de contos">
 <!ENTITY accountSettingsDesc.label "Le sequente es un conto special.  Illo non ha identitates associate.">
+<!ENTITY storeType.label "Typo de stockage del message:">
+<!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "File per dossier (mbox)">

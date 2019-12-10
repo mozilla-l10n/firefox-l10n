@@ -12,6 +12,8 @@
 <!ENTITY chat.showAccountManager.button       "Monstrar stato del chat">
 
 <!ENTITY chat.participants             "Participantes:">
+<!ENTITY chat.previousConversations    "Conversationes precedente:">
+<!ENTITY chat.ongoingConversation      "Conversation in curso">
 
 <!ENTITY openConversationCmd.label     "Initiar un conversation">
 <!ENTITY openConversationCmd.accesskey "c">
