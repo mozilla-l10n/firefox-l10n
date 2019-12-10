@@ -10,11 +10,11 @@
 <!ENTITY encryptionCert.message "Usa iste certificato pro cryptar e decryptar messages inviate a te:">
 <!ENTITY digitalSign.certificate.button "Seliger…">
 <!ENTITY digitalSign.certificate.accesskey "S">
-<!ENTITY digitalSign.certificate_clear.button "Clarar">
+<!ENTITY digitalSign.certificate_clear.button "Rader">
 <!ENTITY digitalSign.certificate_clear.accesskey "C">
 <!ENTITY encryption.certificate.button "Eliger…">
 <!ENTITY encryption.certificate.accesskey "r">
-<!ENTITY encryption.certificate_clear.button "Clarar">
+<!ENTITY encryption.certificate_clear.button "Rader">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Firma digital">
 
