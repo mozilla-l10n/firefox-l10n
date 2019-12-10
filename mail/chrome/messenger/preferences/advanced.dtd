@@ -71,13 +71,12 @@
 <!ENTITY updateAuto.accesskey            "ل">
 <!ENTITY updateCheck.label               "التمس التحديثات، و لكن اترك لي خيار تنصيبها من عدمه">
 <!ENTITY updateCheck.accesskey           "ت">
-<!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير مستحسن: مجازفة أمنية)">
-<!ENTITY updateManual.accesskey          "د">
 <!ENTITY updateHistory.label             "أظهر تأريخ التحديث">
 <!ENTITY updateHistory.accesskey         "ظ">
 
 <!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتنصيب التحديثات">
 <!ENTITY useService.accesskey            "خ">
+
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "إعدادات…">
@@ -121,3 +120,6 @@
 <!ENTITY manageCertificates.accesskey "ش">
 <!ENTITY viewSecurityDevices.label "أجهزة الأمن">
 <!ENTITY viewSecurityDevices.accesskey "م">
+
+<!ENTITY manageCertificates2.label "أدِر الشهادات…">
+<!ENTITY viewSecurityDevices2.label "أجهزة الأمن…">
