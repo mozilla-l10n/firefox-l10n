@@ -579,7 +579,7 @@ sync-signedout-account-signin =
     .accesskey = d
 sync-signedout-account-signin2 =
     .label = Accedi a { -sync-brand-short-name }…
-    .accesskey = d    
+    .accesskey = d
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1001,6 +1001,8 @@ permissions-a11y-privacy-link = Ulteriori informazioni
 collection-header = Raccolta e utilizzo dati di { -brand-short-name }
 collection-description = Cerchiamo di garantire agli utenti la possibilità di scegliere, raccogliendo solo i dati necessari per realizzare e migliorare { -brand-short-name } per tutti. Chiediamo sempre l’autorizzazione prima di raccogliere dati personali.
 collection-privacy-notice = Informativa sulla privacy
+collection-health-report-telemetry-disabled = È stato revocato il permesso a { -vendor-short-name } di raccogliere dati tecnici e relativi all’interazione con il browser. Tutti i dati esistenti verranno rimossi entro 30 giorni.
+collection-health-report-telemetry-disabled-link = Ulteriori informazioni
 collection-health-report =
     .label = Consenti a { -brand-short-name } di inviare a { -vendor-short-name } dati tecnici e relativi all’interazione con il browser
     .accesskey = v
