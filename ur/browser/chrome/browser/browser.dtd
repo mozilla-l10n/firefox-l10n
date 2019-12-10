@@ -139,15 +139,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-
 
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -528,11 +527,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "تلاش کریں مع:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -889,7 +883,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; میں سائن ان کریں…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "ابھی ہمہ وقت سازی کریں">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; سے پھر جڑیں…">
@@ -918,7 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
 <!ENTITY contentBlocking.cryptominers.label "کریپٹومینر">
 <!ENTITY contentBlocking.cryptominersView.label "کریپٹومینر">
 
@@ -929,6 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "مسائل رپورٹ کریں">
 <!ENTITY contentBlocking.breakageReportView.learnMore "مزید سیکھیں">
 
+<!ENTITY contentBlocking.breakageReportView2.learnMore "مزید سیکھیں">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "آپ کے کیا مسائل ہیں؟ (اختیاری)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "رپورٹ ارسال کریں">

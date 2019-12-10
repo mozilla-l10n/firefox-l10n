@@ -243,6 +243,7 @@ addon-open-about-debugging = ایڈز آن ازالہ کرے
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = مزید سیکھیں
 
 ## Add-on actions
 
