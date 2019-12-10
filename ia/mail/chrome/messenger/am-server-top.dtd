@@ -31,14 +31,28 @@
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Lassar messages sur le servitor">
 <!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.label "Non plus de">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "dies">
 <!ENTITY deleteOnServer2.label "Usque io dele illos">
 <!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Discargar automaticamente altere messages">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY deleteMessagePrefix.label "Quando io dele un message:">
 <!ENTITY modelMoveToTrash.label "Displaciar lo a iste dossier:">
 <!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Marcar lo solmente como delite">
+<!ENTITY modelMarkDeleted.accesskey "c">
+<!ENTITY modelDeleteImmediately.label "Remover lo subito">
+<!ENTITY modelDeleteImmediately.accesskey "b">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Al exito mundar (&quot;Expunge&quot;) le cassa de ingresso">
+<!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Vacuar le corbe a papiro al exito">
 <!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "Controlar nove messages al initio">
+<!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
