@@ -23,7 +23,7 @@
 <!ENTITY inReplyToField.label "En réponse à : ">
 <!ENTITY originalWebsite.label "Site web : ">
 
-<!ENTITY editMessage.label                 "Éditer le brouillon…">
+<!ENTITY editMessage.label                 "Modifier le brouillon…">
 <!ENTITY editMessage.accesskey             "b">
 
 <!ENTITY attachmentsTree.label             "Pièces jointes :">

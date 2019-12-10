@@ -5,7 +5,7 @@
 <!ENTITY identitiesListManageDesc.label "Gérer les identités pour ce compte. La première identité est utilisée par défaut.">
 <!ENTITY identitiesListAdd.label  "Ajouter…">
 <!ENTITY identitiesListAdd.accesskey  "j">
-<!ENTITY identitiesListEdit.label "Éditer…">
+<!ENTITY identitiesListEdit.label "Modifier…">
 <!ENTITY identitiesListEdit.accesskey "d">
 <!ENTITY identitiesListDefault.label "Définir par défaut">
 <!ENTITY identitiesListDefault.accesskey "p">
