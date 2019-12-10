@@ -5,17 +5,36 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Problema a cargar le pagina">
+<!ENTITY retry.label "Retentar">
 
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Incapace de connecter se">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.title "Iste adresse es restricte">
+<!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Servitor non trovate">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Verifica si le adresse non ha errores ortographic tales como <strong>ww</strong>.example.com in vice de <strong>www</strong>.example.com</li> <li>Si tu es incapace de cargar qualcunque paginas, verifica le connexion de tu computator al rete.</li> <li>Si tu computator o rete es protegite per un firewall o proxy, assecura te que &brandShortName; ha permission pro acceder al web.</li> </ul>">
 
+<!ENTITY fileNotFound.title "File non trovate">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Verifica si le nomine del file ha errores de majusculas e minusculas o altere errores orthographic.</li>
+  <li>Verifica si le file ha essite movite, renominate o delite.</li>
+</ul>
+">
 
+<!ENTITY fileAccessDenied.title "Le accesso al file esseva negate">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Illo pote haber essite removite, movite, o le permissiones del file pote impedir le accesso.</li>
+</ul>
+">
 
+<!ENTITY generic.title "Oops.">
 
 <!ENTITY malformedURI.longDesc "
 <ul>
