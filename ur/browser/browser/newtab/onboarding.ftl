@@ -22,9 +22,13 @@ onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
 onboarding-welcome-learn-more = فوائد کے بارے میں مزید سیکھیں۔
 onboarding-welcome-form-header = یہاں سے شروع کرو
 onboarding-join-form-header = { -brand-product-name } میں شامل ہوِں۔
+onboarding-join-form-body = شروع کرنے کے لئے اپنا ای میل ایڈریس درج کریں۔
 onboarding-join-form-email =
     .placeholder = ای میل درز کریں
+onboarding-join-form-email-error = جائز ای میل کی ظرورت ہے
 onboarding-join-form-continue = جاری رکھیں
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = کیا پہلے سے ہی ایک اکاؤنٹ ہے؟
 # Text for link to submit the sign in form
 onboarding-join-form-signin = سائن ان کریں
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
@@ -34,6 +38,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = آپکا ای میل ایڈرس…
 
 ## Firefox Sync modal dialog strings.
 
@@ -75,13 +81,19 @@ onboarding-ghostery-text = Ghostery کے طرہ ایکسٹینشن کے ساتھ
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ہمہ وقت سازی
 onboarding-tracking-protection-button2 = یہ کس طرح کام کرتا ہے
+onboarding-data-sync-button2 = { -sync-brand-short-name } میں  سائن ان کریں
 onboarding-browse-privately-title = رازداری سے براؤز کریں
 onboarding-browse-privately-button = نجی ونڈو میں کھولیں؟
 onboarding-firefox-send-title = اپنی مشترکہ امسال نجی رکھیں
+onboarding-firefox-send-button = { -send-brand-name }آزمائیں
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = موبائل براؤزر ڈاؤن لوڈ کریں
 onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
+onboarding-lockwise-passwords-button2 = اپلی کیشن حاصل کریں
+onboarding-lockwise-strong-passwords-title = مضبوط پاس ورڈز بنائیں اور محفوظ کریں
+onboarding-lockwise-strong-passwords-button = اپنے  لاگ ان بندوبست کریں
+onboarding-facebook-container-button = ایکسٹینشن شامل کریں
 
 ## Message strings belonging to the Return to AMO flow
 

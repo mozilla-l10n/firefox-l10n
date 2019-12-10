@@ -64,10 +64,14 @@ cfr-protections-panel-link-text = مزید سیکھیں
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = نئی خصوصیات
 cfr-whatsnew-button =
     .label = نیا کیا ہے
     .tooltiptext = نیا کیا ہے
 cfr-whatsnew-panel-header = نیا کیا ہے
+cfr-whatsnew-tracking-protect-link-text = اپنی رپورٹ دیکھیں
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -99,9 +103,13 @@ cfr-whatsnew-fingerprinter-counter-header-alt = فنگر پرنٹرز
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = یہ بُک مارک اپنے فون پر حاصل کریں
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } چالو  کریں
+    .accesskey = ت
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } چالو  کریں
+    .accesskey = ت
 
 ## Send Tab
 
