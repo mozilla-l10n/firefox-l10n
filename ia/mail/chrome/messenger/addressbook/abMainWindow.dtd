@@ -162,6 +162,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY newlistButton.tooltip                          "Crear un nove lista">
 <!ENTITY editAbPropertiesButton.tooltip                 "Modificar le proprietates del adressario seligite">
 <!ENTITY newmsgButton.tooltip                           "Inviar un message de posta">
 <!ENTITY newIM.tooltip                                  "Inviar un message instantanee o chattar">
@@ -227,3 +228,7 @@ because displayed names don't have the comma in between. -->
 <!-- Status Bar -->
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label                           "Minimisar">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Traher toto al avante">
+<!ENTITY zoomWindow.label                               "Zoom">
