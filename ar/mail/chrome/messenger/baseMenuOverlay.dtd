@@ -9,24 +9,19 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "مساعدة">
 <!ENTITY helpMenuWin.accesskey "ة">
+<!ENTITY aboutProduct2.label "عن &brandShorterName;">
 <!ENTITY helpTroubleshootingInfo.label     "معلومات معالجة الأعطال">
 <!ENTITY helpTroubleshootingInfo.accesskey "ط">
 <!ENTITY helpSafeMode.label     "أعِد التشغيل مع تعطيل الإضافات…">
 <!ENTITY helpSafeMode.accesskey "ض">
-<!ENTITY releaseCmd2.label "ملاحظات الإصدار">
-<!ENTITY releaseCmd2.accesskey "ت">
-<!ENTITY whatsNewCmd.label "ما الجديد">
-<!ENTITY whatsNewCmd.accesskey "د">
-<!ENTITY openHelp.label "محتويات المساعدة">
-<!ENTITY openHelp.accesskey "ح">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "مساعدة &brandShortName;">
-<!ENTITY openHelpMac2.label "مساعدة &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
+<!ENTITY helpSafeMode.stop.label     "أعِد التشغيل مع تفعيل الإضافات">
+<!ENTITY productHelpMac.modifiers "accel">
 
-<!ENTITY aboutMenuCmd.label "عن &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "ع">
+<!ENTITY helpKeyboardShortcuts.label "اختصارات لوحة المفاتيح">
 
-<!ENTITY aboutMenuCmd2.label "عن &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "ع">
+<!ENTITY helpFeedbackPage.label "أرسِل تعليقًا…">
+
+
+<!ENTITY helpGetInvolvedPage.label "شارِك معنا">
+
+<!ENTITY helpDonationsPage.label "تبرّع">

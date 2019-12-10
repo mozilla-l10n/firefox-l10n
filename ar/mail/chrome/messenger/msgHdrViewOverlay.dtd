@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "ص">
 <!ENTITY otherActionsPrint1.label "اطبع…">
 <!ENTITY otherActionsPrint1.accesskey "ط">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "اعرض لوحة المرفقات مبدئيا">
 <!ENTITY startExpandedCmd.accesskey    "م">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "افتح">
 <!ENTITY openAttachmentCmd.accesskey    "ف">
 <!ENTITY saveAsAttachmentCmd.label    "احفظ باسم…">
@@ -94,8 +94,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "ف">
 
 <!ENTITY openAttachment.tooltip "افتح الملف المرفق">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "افتح المجلد المحتوي">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "احفظ">
 <!ENTITY saveAttachmentButton1.tooltip     "احفظ الملف المرفق">
 <!ENTITY saveAllAttachmentsButton1.label   "احفظ الكل">

@@ -36,3 +36,6 @@
 <!ENTITY dntTrackingNotOkay.label2 "أخبر المواقع أنني لا أريدها أن تتعقبني">
 <!ENTITY dntTrackingNotOkay.accesskey "خ">
 <!ENTITY doNotTrackInfo.label "اطلع على المزيد حول ”لا تتعقبني“">
+
+<!ENTITY doNotTrackCheck.label "أرسل للمواقع إشارة ”لا تتعقبني“ بأنك لا تريد أن يتعقبوك">
+<!ENTITY doNotTrackLearnMore.label "اطّلع على المزيد">

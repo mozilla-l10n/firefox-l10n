@@ -78,6 +78,7 @@
 <!ENTITY cspBlocked.title "حجبتها سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "خطأ محتوى فاسد">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
 
@@ -101,3 +102,5 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p>يستخدم <span class='hostname'></span> تقنية أمنية عتيقة و عرضة للهجوم. يمكن لمهاجم بسهولة الاطلاع على معلومات تظنها بمأمن. على مدير الموقع إصلاح الخادوم قبل أن يمكنك زيارة الموقع.</p><p>رمز العطل: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "صفحة محجوبة">
+
+<!ENTITY networkProtocolError.title "عُطل في بروتوكول الشبكة">
