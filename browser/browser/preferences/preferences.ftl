@@ -300,7 +300,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
 play-drm-content =
@@ -585,6 +585,9 @@ sync-signedin-settings-desc = ਚੁਣੋ ਕਿ { -brand-short-name } ਦੀ �
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-history = ਅਤੀਤ
+sync-currently-syncing-creditcards = ਕਰੈਡਿਟ ਕਾਰਡ
+sync-currently-syncing-addons = ਐਡ-ਆਨ
 
 ## The "Choose what to sync" dialog.
 
@@ -651,6 +654,7 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 ## Privacy Section - Logins and Passwords
 
 logins-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
     .accesskey = r
@@ -660,6 +664,8 @@ forms-exceptions =
 forms-generate-passwords =
     .label = ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਸੁਝਾਓ ਅਤੇ ਤਿਆਰ ਕਰੋ
     .accesskey = u
+forms-breach-alerts-learn-more-link = ਹੋਰ ਜਾਣੋ
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = ਆਪਣੇ-ਆਪ ਭਰਨ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
     .accesskey = i
@@ -813,7 +819,7 @@ enhanced-tracking-protection-setting-custom =
     .label = ਚੁਣਿੰਦਾ
     .accesskey = c
 
-##
+
 
 content-blocking-etp-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ, ਸਫ਼ੇ ਆਮ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ।
 content-blocking-etp-strict-desc = ਵਧੇਰੇ ਸੁਰੱਖਿਆ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਦੇ ਨਾ ਕੰਮ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।
