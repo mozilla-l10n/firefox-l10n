@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Você precisa confirmar sua conta antes de poder sincronizar.">
 <!ENTITY fxa.unverified.button.label "Abrir configurações do &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Ocultar seletor de Picture-in-Picture">
-<!ENTITY pictureInPictureHideToggle.accesskey "O">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Usuário">
 <!ENTITY fxa.menu.manageAccount.label "Gerenciar conta…">
 <!ENTITY fxa.menu.syncSettings.label "Configurações do &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Ocultar seletor de Picture-in-Picture">
+<!ENTITY pictureInPictureHideToggle.accesskey "O">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Entrar no &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ativar o &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Serviços &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Conta">
 <!ENTITY fxa.menu.settings.label "Configurações">
 <!ENTITY fxa.menu.accountSettings.label "Configurações da conta">
@@ -568,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Pesquisar com:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Desta vez, pesquisar com:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -712,18 +705,18 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "s">
 <!ENTITY mediaPlaybackRate2.label     "Velocidade de reprodução">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "Lenta (0,5 ×)">
+<!ENTITY mediaPlaybackRate050x2.label "Lenta (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "L">
 <!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Rápida (1,25 ×)">
+<!ENTITY mediaPlaybackRate125x2.label "Rápida (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "R">
-<!ENTITY mediaPlaybackRate150x2.label "Rápida (1,5 ×)">
+<!ENTITY mediaPlaybackRate150x2.label "Mais rápida (1,5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Absurda (2 ×)">
+<!ENTITY mediaPlaybackRate200x2.label "Muito rápida (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "u">
 <!ENTITY mediaLoop.label             "Repetir">
 <!ENTITY mediaLoop.accesskey         "R">
@@ -940,12 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Por quê?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear isso pode interferir em elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Desativar proteções dá permissão a todos os rastreadores neste site. Também pode melhorar algumas funcionalidades do site.">
-<!ENTITY protections.socialMediaTrackers.label "Rastreadores de mídias sociais">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreamento entre sites">
-<!ENTITY protections.trackingContent.label "Conteúdo de rastreamento">
-<!ENTITY protections.fingerprinters.label "Fingerprinters">
-<!ENTITY protections.cryptominers.label "Criptomineradores">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.">
 <!ENTITY protections.noTrackersFound.description "Nenhum rastreador conhecido pelo &brandShortName; foi detectado nesta página.">
 
@@ -968,7 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Entrar no &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItemSyncing.label "Sincronizando…">
 <!ENTITY syncSyncNowItem.accesskey    "n">
@@ -1006,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "G">
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de mídias sociais">
-
-<!ENTITY contentBlocking.cookies2.label "Cookies de rastreamento entre sites">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineradores">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineradores">
