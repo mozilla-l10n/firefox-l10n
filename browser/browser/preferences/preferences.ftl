@@ -554,6 +554,12 @@ search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da 
 ## Containers Section
 
 containers-back-link = « Torna indietro
+containers-back-button =
+    .aria-label =
+      { PLATFORM() ->
+          [windows] Torna alle opzioni
+         *[other] Torna alle preferenze
+      }
 containers-header = Schede contenitore
 containers-add-button =
     .label = Aggiungi nuovo contenitore
