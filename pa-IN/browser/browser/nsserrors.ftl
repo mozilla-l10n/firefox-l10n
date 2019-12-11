@@ -289,3 +289,4 @@ mozilla-pkix-error-inadequate-key-size = ਸਰਵਰ ਵਲੋਂ ਪੇਸ਼ ਕ
 mozilla-pkix-error-v1-cert-used-as-ca = An X.509 version 1 certificate that is not a trust anchor was used to issue the server's certificate. X.509 version 1 certificates are deprecated and should not be used to sign other certificates.
 mozilla-pkix-error-not-yet-valid-certificate = ਸਰਵਰ ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਹਾਲੇ ਜਾਇਜ਼ ਨਹੀਂ ਹੈ।
 mozilla-pkix-error-not-yet-valid-issuer-certificate = ਸਰਟੀਫਿਕੇਟ, ਜੋ ਕਿ ਹਾਲੇ ਜਾਇਜ਼ ਨਹੀਂ ਹੈ, ਨੂੰ ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ।
+mozilla-pkix-error-required-tls-feature-missing = ਇੱਕ ਲੋੜੀਂਦੀ TLS ਵਿਸ਼ੇਸ਼ਤਾ ਗੁੰਮ ਹੈ।
