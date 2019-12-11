@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Sıfırla
     .accesskey = S
+menu-view-full-zoom-actual-size =
+    .label = Gerçek boyut
+    .accesskey = G
 menu-view-full-zoom-toggle =
     .label = Sadece metni yakınlaştır
     .accesskey = m
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Tam ekran
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Tüm sekmeleri göster
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Eklentiler
     .accesskey = E
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name }’e giriş yap…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name }’a giriş yap…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Şimdi eşitle
     .accesskey = m
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name }’e tekrar bağlan…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name }’a yeniden bağlan…
     .accesskey = b
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Eklentileri etkinleştirip yeniden başlat
     .accesskey = E
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Aldatıcı siteyi ihbar et…
     .accesskey = A
