@@ -6,7 +6,7 @@
 <!ENTITY aboutAccounts.connected.description "Povezani ste kao">
 <!ENTITY aboutAccounts.syncPreferences.label "Pritisnite ovdje kako biste vidjeli Sync postavke">
 
-<!ENTITY aboutAccounts.noConnection.title "Nema internet veze">
+<!ENTITY aboutAccounts.noConnection.title "Nema internetske veze">
 <!ENTITY aboutAccounts.retry.label "Pokušaj ponovno">
 
 <!ENTITY aboutAccounts.restrictedError.title "Ograničeno">
