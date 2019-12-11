@@ -8,6 +8,7 @@ protection-report-content-title = गुमुरथि रैखाथि
 # capitalization for this string should match the output for your locale.
 graph-today = दिनै
 lockwise-title-logged-in = { -lockwise-brand-name }
+manage-devices = डिभाइसफोरखौ सामलाय
 monitor-link = बेयो माबादि खामानि मावो
 
 ## The title attribute is used to display the type of protection.

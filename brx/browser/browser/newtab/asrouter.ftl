@@ -76,7 +76,17 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } निफ्रायनो
 cfr-whatsnew-tracking-blocked-link-text = रिपर्ट खौ नाय
 cfr-whatsnew-lockwise-backup-link-text = बेकआपफोरखौ अन खालाम
+cfr-whatsnew-lockwise-take-title = नोंथांनि पासवोर्दखौ निजिजौं लां
 cfr-whatsnew-lockwise-take-link-text = आपखौ ला
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
@@ -103,3 +113,6 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } नाजा
 
 cfr-doorhanger-socialtracking-close-button = बन्द खालाम
     .accesskey = C
+
+## Enhanced Tracking Protection Milestones
+

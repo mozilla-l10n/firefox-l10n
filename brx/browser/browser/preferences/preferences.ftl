@@ -203,7 +203,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 play-drm-content-learn-more = गोबां सोलों
 update-application-title = { -brand-short-name } नि आपडेटफोर
@@ -519,7 +519,7 @@ enhanced-tracking-protection-setting-custom =
     .label = कास्टम
     .accesskey = C
 
-##
+
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव
@@ -535,6 +535,7 @@ content-blocking-expand-section =
 
 ## Privacy Section - Permissions
 
+permissions-header = गनायथि
 permissions-location = जायगा
 permissions-location-settings =
     .label = सेटिं....

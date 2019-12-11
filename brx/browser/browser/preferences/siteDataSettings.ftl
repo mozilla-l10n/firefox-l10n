@@ -18,6 +18,8 @@ site-data-column-storage =
     .label = दोनथुमग्रा
 site-data-column-last-used =
     .label = जोबथा बाहायखानाय
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (जायगानि फाइल)
 site-data-remove-selected =
     .label = सायखोनायखौ बोखार
     .accesskey = R

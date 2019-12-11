@@ -10,6 +10,7 @@
 title = गोनांथि रादाब
 heading = नोंनि { -brand-short-name }प्रफाइल आव सोलायनाय
 changed-title = मा सोलायखो?
+options-title = आंनि उफ्राया मा?
 resources = सम्पदफोर
 sync-label = नोंथांनि इ-मेइल हाबहो
 sync-input =

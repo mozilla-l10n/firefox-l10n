@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "गोबां सोलों...">
 
+
+<!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
 
 <!ENTITY moreActionsButton.accessibleLabel "गोबां हाबाफोर">
