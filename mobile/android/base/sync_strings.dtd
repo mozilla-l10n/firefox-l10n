@@ -69,7 +69,7 @@
 <!ENTITY fxaccount_status_bookmarks 'Zabilješke'>
 <!ENTITY fxaccount_status_history 'Povijest'>
 <!ENTITY fxaccount_status_passwords2 'Prijave'>
-<!ENTITY fxaccount_status_tabs 'Otvori kartice'>
+<!ENTITY fxaccount_status_tabs 'Otvorene kartice'>
 <!ENTITY fxaccount_status_additional_settings 'Dodatne postavke'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'Sinkroniziraj samo preko Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
