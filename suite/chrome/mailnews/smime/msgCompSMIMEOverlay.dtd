@@ -14,7 +14,7 @@
 <!ENTITY menu_securityStatus.accesskey "i">
 
 <!ENTITY securityButton.label "Sécurité">
-<!ENTITY securityButton.tooltip "Afficher et éditer les paramètres de sécurité">
+<!ENTITY securityButton.tooltip "Afficher ou modifier les paramètres de sécurité">
 
 <!ENTITY menu_viewSecurityStatus.label "Infos de sécurité des messages">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
