@@ -27,7 +27,7 @@
 <!ENTITY useSmoothScrolling.accesskey  "o">
 
 <!ENTITY systemIntegration.label       "Intégration système">
-<!ENTITY alwaysCheckDefault.label      "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
+<!ENTITY alwaysCheckDefault.label      "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage">
 <!ENTITY alwaysCheckDefault.accesskey  "T">
 <!ENTITY searchIntegration.label       "Autoriser &searchIntegration.engineName; à rechercher dans les messages">
 <!ENTITY searchIntegration.accesskey   "A">
