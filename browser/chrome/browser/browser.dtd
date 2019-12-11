@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Prije sinkronizacije morat ćete potvrditi svoj račun.">
 <!ENTITY fxa.unverified.button.label "Otvori &syncBrand.shortName.label; mogućnosti…">
 
-<!ENTITY pictureInPictureHideToggle.label "Sakrij prekidač za slika-u-sliku">
-<!ENTITY pictureInPictureHideToggle.accesskey "S">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prijavljen kao">
 <!ENTITY fxa.menu.manageAccount.label "Upravljanje računom…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; mogućnosti…">
+
+<!ENTITY pictureInPictureHideToggle.label "Sakrij prekidač za slika-u-sliku">
+<!ENTITY pictureInPictureHideToggle.accesskey "S">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Prijavi se u &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Uključi &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; usluge">
-
 <!ENTITY fxa.menu.account.label "Račun">
 <!ENTITY fxa.menu.settings.label "Postavke">
-<!ENTITY fxa.menu.accountSettings.label "O postavkama">
+<!ENTITY fxa.menu.accountSettings.label "Postavke računa">
 <!ENTITY fxa.menu.signOut.label "Odjavi se …">
 <!ENTITY fxa.menu.deviceSettings.label "Postavke uređaja">
 <!ENTITY fxa.menu.setupSync.label "Postavi &syncBrand.shortName.label; …">
@@ -290,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ovoj ste stranici zabranili korištenje Adobe Flash dodatka.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokirali ste MIDI pristup za ovu web stranicu.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ovoj stranici ste zabranili instalaciju dodataka.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
 
@@ -567,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Traži pomoću:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Ovaj put traži s:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -939,12 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Zašto?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Isključivanjem zaštita ćeš omogućiti sve programe za praćenje na ovoj stranici. Možda će poboljšati neke funkcije web stranice.">
-<!ENTITY protections.socialMediaTrackers.label "Programi za praćenje društvenih mreža">
-<!ENTITY protections.crossSiteTrackingCookies.label "Kolačići za praćenje između različitih stranica">
-<!ENTITY protections.trackingContent.label "Sadržaj za praćenje">
-<!ENTITY protections.fingerprinters.label "Jedinstveni otisci">
-<!ENTITY protections.cryptominers.label "Kripto rudari">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.">
 <!ENTITY protections.noTrackersFound.description "Programi za praćenje koji su poznati &brandShortName;u nisu otkriveni na ovoj stranici.">
 
@@ -967,7 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Prijavite se u &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sinkroniziraj sada">
 <!ENTITY syncSyncNowItemSyncing.label "Sinkroniziranje…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Programi za praćenje društvenih mreža">
-
-<!ENTITY contentBlocking.cookies2.label "Kolačići za praćenje među web lokacijama">
 
 <!ENTITY contentBlocking.cryptominers.label "Kripto rudari">
 <!ENTITY contentBlocking.cryptominersView.label "Kripto rudari">
