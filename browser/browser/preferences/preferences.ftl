@@ -585,7 +585,11 @@ sync-signedin-settings-desc = ਚੁਣੋ ਕਿ { -brand-short-name } ਦੀ �
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਇਹ ਚੀਜ਼ਾਂ ਸਿੰਕ ਕਰ ਰਹੇ ਹੋ:
+sync-currently-syncing-bookmarks = ਬੁੱਕਮਾਰਕ
 sync-currently-syncing-history = ਅਤੀਤ
+sync-currently-syncing-tabs = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+sync-currently-syncing-logins-passwords = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
 sync-currently-syncing-creditcards = ਕਰੈਡਿਟ ਕਾਰਡ
 sync-currently-syncing-addons = ਐਡ-ਆਨ
 
