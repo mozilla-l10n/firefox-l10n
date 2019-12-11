@@ -6,11 +6,16 @@ about-logins-page-title = புகுபதிகைககளும் கட�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = உங்கள் கடவுச்சொற்களை உங்களுடன் எடுத்துச் செல்லுங்கள்
+login-app-promo-android =
+    .alt = Google Play இல் பெற
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
 fxaccounts-sign-in-button = { -sync-brand-short-name } உள்நுழைக
+fxaccounts-avatar-button =
+    .title = கணக்கை நிர்வகி
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -23,6 +28,7 @@ menu-menuitem-preferences =
         [windows] விருப்பங்கள்
        *[other] முன்னுரிமைகள்
     }
+about-logins-menu-menuitem-help = உதவி
 menu-menuitem-android-app = ஆண்ட்ராய்டிற்கான { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = ஐபோன் மற்றம் ஐபேட்டுக்கான { -lockwise-brand-short-name }
 
@@ -40,6 +46,8 @@ login-list-name-option = பெயர் (அ-ஃ)
 login-list-last-changed-option = கடைசியாக மாற்ற‌ப்பட்டது:
 login-list-last-used-option = இறுதியாக பயன்படுத்தியது
 login-list-intro-title = உள்நுழைவுகள் ஏதுமில்லை
+about-logins-login-list-empty-search-title = உள்நுழைவுகள் ஏதுமில்லை
+about-logins-login-list-empty-search-description = உங்கள் தேடலுடன் பொருந்தக்கூடிய முடிவுகள் எதுவும் இல்லை.
 login-list-item-title-new-login = புதிய உள்நுழைவு
 login-list-item-subtitle-new-login = உங்கள் உள்நுழைவு சான்றுகளை உள்ளிடவும்
 login-list-item-subtitle-missing-username = (பயனர் பெயர் இல்லை)
@@ -47,16 +55,20 @@ login-list-item-subtitle-missing-username = (பயனர் பெயர் இ
 ## Introduction screen
 
 login-intro-heading = உங்கள் சேமித்த உள்நுழைவுகளைத் தேடுகிறீர்களா? { -sync-brand-short-name } அமை
+about-logins-login-intro-heading-logged-in = ஒத்திசைக்கப்பட்ட உள்நுழைவுகள் எதுமில்லை.
 
 ## Login
 
 login-item-new-login-title = புதிய உள்நுழைவை உருவாக்கவும்
 login-item-edit-button = தொகு
 login-item-delete-button = அழி
+about-logins-login-item-remove-button = நீக்கு
 login-item-origin-label = வலைத்தள முகவரி
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = பயனர்பெயர்
+about-logins-login-item-username =
+    .placeholder = (பயனர் பெயர் இல்லை)
 login-item-copy-username-button-text = நகலெடு
 login-item-copied-username-button-text = நகலெடுக்கப்பட்டது!
 login-item-password-label = கடவுச்சொல்
@@ -80,11 +92,8 @@ master-password-reload-button =
     .label = உள் நுழை
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = இரத்து
-confirmation-dialog-dismiss-button =
-    .title = இரத்து
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -93,6 +102,12 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = இந்த உள்நுழைவை நீக்கவா?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = இரத்து
+confirmation-dialog-dismiss-button =
+    .title = இரத்து
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
 confirm-delete-dialog-confirm-button = அழி
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
