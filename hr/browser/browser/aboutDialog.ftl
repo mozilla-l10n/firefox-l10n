@@ -16,7 +16,7 @@ update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label d
 update-applying = Primjena dopune…
 update-failed = Ažuriranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmite najnoviju inačicu</label>
 update-failed-main = Ažuriranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmite najnoviju inačicu</a>
-update-adminDisabled = Dopune onemogućene od vašeg sistem administratora
+update-adminDisabled = Dopune je onemogućio Vaš administrator sustava
 update-noUpdatesFound = { -brand-short-name } je ažuriran
 update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by another instance
 update-manual = Dopune su dostupne na <label data-l10n-name="manual-link"/>
@@ -30,8 +30,6 @@ helpus = Želite li pomoći? <label data-l10n-name="helpus-donateLink">Donirajte
 bottomLinks-license = Informacije o licenciranju
 bottomLinks-rights = Prava krajnjeg korisnika
 bottomLinks-privacy = Politika privatnosti
-aboutDialog-architecture-sixtyFourBit = 64-bitni
-aboutDialog-architecture-thirtyTwoBit = 32-bitni
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1

@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Uzmite { -brand-product-name } sa sobom
 onboarding-sync-welcome-content = Preuzmite svoje zabilješke, povijest, lozinke i druge postavke na sve vaše uređaje.
 onboarding-sync-welcome-learn-more-link = Saznajte više o Firefox računima
-onboarding-sync-form-invalid-input = Potrebna je ispravna adresa e-pošte
-onboarding-sync-legal-notice = Nastavljanjem pristajete na <a data-l10n-name="terms">Uvjete korištenja</a> i <a data-l10n-name="privacy">Politiku privatnosti</a>.
 onboarding-sync-form-input =
     .placeholder = E-pošta
 onboarding-sync-form-continue-button = Nastavi
@@ -147,6 +145,7 @@ onboarding-facebook-container-title = Postavite granice s Facebookom
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } drži vaš profil odvojeno od svega drugoga, otežavajući Facebooku da vas prati s reklamama.
 onboarding-facebook-container-button = Instaliraj dodatak
 onboarding-import-browser-settings-title = Uvezite svoje zabilješke, lozinke i još mnogo toga
+onboarding-import-browser-settings-button = Uvoz podataka iz Chromea
 
 ## Message strings belonging to the Return to AMO flow
 

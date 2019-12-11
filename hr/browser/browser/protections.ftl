@@ -78,6 +78,15 @@ lockwise-sync-status =
        *[other] Sinkronizacija s { $count } drugih uređaja
     }
 lockwise-sync-not-syncing-devices = Ne sinkronizira se na druge uređaje
+manage-connected-devices = Upravljanje uređajima…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Povezano s { $count } uređajem
+        [few] Povezano s { $count } uređaja
+       *[other] Povezano s { $count } uređaja
+    }
 monitor-title = Pazi na hakirane podatke
 monitor-link = Kako funkcionira
 monitor-header-content-no-account = Provjerite { -monitor-brand-name } kako biste vidjeli da li ste bili sudionik poznatog curenja podataka i dobivajte obavijesti ukoliko dođe do novog curenja podataka.

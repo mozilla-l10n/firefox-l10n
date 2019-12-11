@@ -36,8 +36,8 @@ app-basics-update-channel = Kanal ažuriranja
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Ažuriraj mapu
-       *[other] Ažuriraj mapu
+        [linux] Mapa za ažuriranja
+       *[other] Mapa za ažuriranja
     }
 app-basics-update-history = Povijest ažuriranja
 app-basics-show-update-history = Prikaži povijest ažuriranja
@@ -136,7 +136,7 @@ media-capabilities-title = Mogućnosti medija
 # List all the entries of the database.
 media-capabilities-enumerate = Označite bazu podataka
 
-##
+
 
 intl-title = Internacionalizacija i lokalizacija
 intl-app-title = Postavke aplikacije
@@ -147,6 +147,19 @@ intl-locales-default = Zadani jezik
 intl-os-title = Operacijski sustav
 intl-os-prefs-system-locales = Jezici sustava
 intl-regional-prefs = Regionalne postavke
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
