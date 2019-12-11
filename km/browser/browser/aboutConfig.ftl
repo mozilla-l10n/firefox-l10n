@@ -14,9 +14,17 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ប្រុងប្រយ័ត្ន
+about-config-intro-warning-text = ការផ្លាស់ប្តូរចំណង់ចំណូលចិត្តនៃការកំណត់រចនាសម្ព័ន្ធកម្រិតខ្ពស់អាចជះឥទ្ធិពលដល់ការអនុវត្ត ឬសុវត្ថិភាព { -brand-short-name } ។
+about-config-intro-warning-checkbox = ដាស់តឿន​ខ្ញុំ នៅពេលខ្ញុំព្យាយាមចូលប្រើចំណូលចិត្តទាំងនេះ
+about-config-intro-warning-button = ព្រម​ទទួល​ហានិភ័យ​នេះ រួច​បន្ត
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = ការផ្លាស់ប្តូរចំណង់ចំណូលចិត្តទាំងនេះអាច​ប៉ះពាល់​ដល់ការអនុវត្ត ឬសុវត្ថិភាព { -brand-short-name }។
+about-config-page-title = ចំណង់ចំណូលចិត្តកម្រិតខ្ពស់
+about-config-search-input1 =
+    .placeholder = ស្វែងរកឈ្មោះចំណូលចិត្ត
 about-config-show-all = បង្ហាញ​ទាំងអស់
 about-config-pref-add = បញ្ចូល
 about-config-pref-toggle = បិទ/បើក
