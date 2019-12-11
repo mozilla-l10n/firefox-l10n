@@ -12,6 +12,20 @@ cert-error-trust-expired-issuer = சான்றிதழை வழங்கு
 cert-error-trust-self-signed = சுயமாக உருவாக்கப்பட்ட சான்றிதழ் ஆதலால் நம்பகமற்றது.
 cert-error-untrusted-default = சான்றிதழ் ஒரு நம்பகமான மூலத்திலிருந்து வரவில்லை.
 # Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = வலைத்தளங்கள் தங்கள் அடையாளத்தைச் சான்றிதழ்கள்மூலம் நிரூபிக்கின்றன. { -brand-short-name } இந்தத் தளத்தை நம்பவில்லை, ஏனெனில் { $hostname } செல்லுபடியாகாத சான்றிதழைப் பயன்படுத்துகிறது. இந்தச் சான்றிதழ் பின்வரும் பெயர்களுக்கு மட்டுமே செல்லுபடியாகும்: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = வலைத்தளங்கள் தங்கள் அடையாளத்தைச் சான்றிதழ்கள்மூலம் நிரூபிக்கின்றன, அவை ஒரு குறிப்பிட்ட காலத்திற்கு செல்லுபடியாகும். { $hostname } க்கான சான்றிதழ் { $not-after-local-time } அன்று காலாவதியானது.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = வலைத்தளங்கள் தங்கள் அடையாளத்தைச் சான்றிதழ்கள்மூலம் நிரூபிக்கின்றன, அவை ஒரு குறிப்பிட்ட காலத்திற்கு செல்லுபடியாகும். { $hostname } க்கான சான்றிதழ் { $not-before-local-time } வரை செல்லுபடியாகாது.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = பிழைக் குறியீடு: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP கண்டிப்பான போக்குவரத்து பாதுகாப்பு: { $hasHSTS }
 # Variables:

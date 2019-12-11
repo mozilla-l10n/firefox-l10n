@@ -33,6 +33,7 @@ printpreview-of =
     .value = உடைய
 printpreview-custom-prompt =
     .value = தனிப்பயன் அளவு மாற்றம்...
+printpreview-custom-scale-prompt-title = தனிப்பயன் அளவு
 printpreview-page-setup =
     .label = பக்க அமைப்பு...
     .accesskey = u
@@ -44,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = முதல் பக்கம்
