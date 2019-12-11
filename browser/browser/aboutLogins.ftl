@@ -6,7 +6,7 @@ about-logins-page-title = Přihlašovací údaje
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Vezměte svá hesla všude s sebou
+login-app-promo-title = Vezměte si svá hesla všude s sebou
 login-app-promo-subtitle = Získejte bezplatnou aplikaci { -lockwise-brand-name }
 login-app-promo-android =
     .alt = Stáhnout z Google Play
