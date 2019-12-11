@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = ស្វែងរក​ការចូល
 create-login-button = បង្កើត​ការចូល​ថ្មី
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = រូបតំណាង​សំណព្វ​សម្រាប់ { $title }
 fxaccounts-sign-in-text = ទាញយក​ពាក្យ​សម្ងាត់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​ផ្សេងៗ​របស់​អ្នក
 fxaccounts-sign-in-button = ចូល​ទៅ { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -60,18 +55,17 @@ about-logins-login-list-empty-search-description = មិនមានលទ្�
 login-list-item-title-new-login = ការចូល​ថ្មី
 login-list-item-subtitle-new-login = បញ្ចូល​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក
 login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ​អ្នក​ប្រើប្រាស់)
-about-logins-list-item-warning-icon =
-    .alt = រូបតំណាង​ព្រមាន
-    .title = គេហទំព័រ​ដែល​បាន​បំពាន
 about-logins-list-item-breach-icon =
     .title = គេហទំព័រ​ដែល​បាន​បំពាន
 
 ## Introduction screen
 
 login-intro-heading = កំពុង​រក​មើល​ការចូល​ដែល​បាន​រក្សាទុក​របស់​អ្នក​មែន​ទេ? រៀបចំ { -sync-brand-short-name } ។
+about-logins-login-intro-heading-logged-in = រកមិនឃើញការចូលដែល​បាន​ធ្វើសមកាលកម្ម។
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instruction-fxa = បង្កើត ឬ​ចូល​ទៅ { -fxaccount-brand-name } របស់​អ្នក​នៅ​លើ​ឧបករណ៍ ត្រង់​កន្លែង​ដែល​បាន​រក្សាទុក​ការចូល​របស់​អ្នក
 login-intro-instruction-fxa-settings = ប្រាកដ​ថា អ្នក​បាន​ជ្រើសរើស​​ប្រអប់​ធីក​ការចូល​នៅ​ក្នុង​ការកំណត់ { -sync-brand-short-name }
+about-logins-intro-instruction-help = ចូល​មើល <a data-l10n-name="help-link"> { -lockwise-brand-short-name } គាំទ្រ </a> សម្រាប់ជំនួយបន្ថែម
 
 ## Login
 
@@ -105,11 +99,8 @@ master-password-reload-button =
     .label = ចូល
     .accesskey = ច
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = បោះបង់
-confirmation-dialog-dismiss-button =
-    .title = បោះបង់
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] ចង់បាន​ការចូល​របស់​អ្នក​នៅ​គ្រប់កន្លែង​ដែល​អ្នក​ប្រើប្រាស់ { -brand-product-name } ដែរ​ឬ​ទេ? ចូល​ទៅ​កាន់​ជម្រើស { -sync-brand-short-name } រួច​ជ្រើសរើស​ប្រអប់​ធីក​ការចូល។
@@ -123,6 +114,12 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = លុប​ការចូល​នេះ?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = បោះបង់
+confirmation-dialog-dismiss-button =
+    .title = បោះបង់
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
 confirm-delete-dialog-confirm-button = លុប
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
