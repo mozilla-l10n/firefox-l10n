@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Has escogido una palabra clave que está siend
 ## Containers Section
 
 containers-back-link = « Retroceder
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Regresar a Opciones
+           *[other] Regresar a Preferencias
+        }
 containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Añadir nuevo contenedor
@@ -968,6 +974,10 @@ permissions-location = Ubicación
 permissions-location-settings =
     .label = Ajustes…
     .accesskey = l
+permissions-xr = Realidad virtual
+permissions-xr-settings =
+    .label = Ajustes…
+    .accesskey = t
 permissions-camera = Cámara
 permissions-camera-settings =
     .label = Ajustes…

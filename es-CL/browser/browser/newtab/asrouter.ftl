@@ -118,6 +118,16 @@ cfr-whatsnew-lockwise-take-title = Lleva tus contraseñas contigo
 cfr-whatsnew-lockwise-take-body = La app para móviles { -lockwise-brand-short-name } te permite acceder de forma segura a tus contraseñas respaldadas desde cualquier parte.
 cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Aprender más
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Lleva este marcador a tu teléfono
