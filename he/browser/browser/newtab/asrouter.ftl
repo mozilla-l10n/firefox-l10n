@@ -116,6 +116,8 @@ cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = צפייה בסרטונים תוך כדי גלישה
+cfr-whatsnew-pip-body = במצב תמונה בתוך תמונה, הסרטון קופץ אל חלון מרחף כך שניתן לצפות בו תוך כדי עבודה בלשוניות אחרות.
 cfr-whatsnew-pip-cta = מידע נוסף
 
 ## Permission Prompt

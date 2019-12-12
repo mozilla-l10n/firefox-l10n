@@ -130,6 +130,16 @@ permissions-site-location-disable-label =
     .label = חסימת בקשות חדשות לגישה למיקום שלך
 permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת למיקום שלך. חסימת הגישה למיקום שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = הגדרות - הרשאות מציאות מדומה
+    .style = { permissions-window.style }
+permissions-site-xr-desc = האתרים הבאים ביקשו לגשת למכשירי המציאות המדומה שלך. באפשרותך לציין לאילו אתרים מותר לגשת למכשירי המציאות המדומה שלך. ניתן גם לחסום בקשות חדשות לגשת למכשירי המציאות המדומה שלך.
+permissions-site-xr-disable-label =
+    .label = חסימת בקשות חדשות לגישה למכשירי המציאות המדומה שלך
+permissions-site-xr-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת למכשירי המציאות המדומה שלך. חסימת הגישה למכשירי המציאות המדומה שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
