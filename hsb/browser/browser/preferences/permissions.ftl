@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = Nowe žadanja za přistupom na waše stejnišćo blokować
 permissions-site-location-disable-desc = To budźe websydła, kotrež horjeka w lisćinje podate njejsu, při žadanju za přistupom na waše stejnišćo haćić. Hdyž přistup na waše stejnišćo blokujeće, móže so stać, zo někotre funkcije websydła njefunguja.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Nastajenja - prawa za wirtualnu realitu
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
