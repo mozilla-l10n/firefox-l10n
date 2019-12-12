@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = ჩვეულებრივი
     .accesskey = ჩ
+menu-view-full-zoom-actual-size =
+    .label = არსებული ზომა
+    .accesskey = ა
 menu-view-full-zoom-toggle =
     .label = მხოლოდ ტექსტის ზომის შეცვლა
     .accesskey = ტ
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = სრული ეკრანი
     .accesskey = ს
 
-##
+
 
 menu-view-show-all-tabs =
     .label = ყველა ჩანართის ჩვენება
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = დამატებები
     .accesskey = დ
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name } – შესვლა…
-    .accesskey = შ
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } – შესვლა...
     .accesskey = ვ
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = დასინქრონება ახლავე
     .accesskey = ს
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name } – ხელახლა დაკავშირება…
-    .accesskey = ხ
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } – ხელახლა დაკავშირება...
     .accesskey = ლ
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = ჩართული დამატებებით გაშვება
     .accesskey = ჩ
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = მოხსენება თაღლითურ საიტზე…
     .accesskey = თ
