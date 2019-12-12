@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Читання">
 <!ENTITY display.caption                  "Відображення">
+<!ENTITY displayName.label                "Відображуване ім’я:">
 <!ENTITY showCondensedAddresses.label     "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
 <!ENTITY showCondensedAddresses.accesskey "м">
 

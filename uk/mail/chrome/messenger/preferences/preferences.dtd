@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Вкладення">
 <!ENTITY panePrivacy.title        "Приватність">
 <!ENTITY paneSecurity.title       "Безпека">
+<!ENTITY panePrivacySecurity.title "Приватність та безпека">
 <!ENTITY paneLightning.title      "Календар">
 <!ENTITY paneAdvanced.title       "Додатково">
 <!ENTITY paneAccount.title        "Облікові записи">
