@@ -177,6 +177,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Chuta! Casi logramos car
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-more-recommendations = Más recomendaciones
 newtab-pocket-how-it-works = Cómo funciona
+newtab-pocket-whats-pocket = ¿Qué es { -pocket-brand-name }?
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarda las historias que amas en { -pocket-brand-name }, y potencia tu mente con fascinantes lecturas.
 
