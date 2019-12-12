@@ -132,6 +132,16 @@ permissions-site-location-disable-label =
     .label = Blocca nuove richieste di accesso alla posizione corrente
 permissions-site-location-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere alla posizione corrente. L’impossibilità di accedere alla posizione potrebbe comportare il malfunzionamento di alcuni siti web.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Impostazioni - Permessi per la realtà virtuale
+    .style = { permissions-window.style }
+permissions-site-xr-desc = I seguenti siti web hanno richiesto il permesso di accedere ai dispositivi per realtà virtuale. È possibile indicare quali siti web potranno accedere a questi dispositivi o bloccare direttamente le nuove richieste.
+permissions-site-xr-disable-label =
+    .label = Blocca nuove richieste di accesso ai dispositivi per realtà virtuale
+permissions-site-xr-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere ai dispositivi per realtà virtuale. L’impossibilità di accedere ai dispositivi potrebbe comportare il malfunzionamento di alcuni siti web.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
