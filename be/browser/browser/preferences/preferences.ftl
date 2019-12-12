@@ -1020,6 +1020,7 @@ permissions-a11y-privacy-link = Падрабязней
 collection-header = Збор і выкарыстанне звестак { -brand-short-name }
 collection-description = Мы імкнёмся даць вам выбар і збіраць толькі тое, што патрэбна для ўсіх для выпуску і паляпшэння { -brand-short-name }. Мы заўсёды пытаемся дазволу, перш чым атрымаць асабістую інфармацыю.
 collection-privacy-notice = Паведамленне аб прыватнасці
+collection-health-report-telemetry-disabled-link = Падрабязней
 collection-health-report =
     .label = Дазволіць { -brand-short-name } адпраўляць тэхнічныя звесткі і звесткі ўзаемадзеяння ў { -vendor-short-name }
     .accesskey = к
