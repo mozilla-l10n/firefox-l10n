@@ -36,3 +36,6 @@
 <!ENTITY dntTrackingNotOkay.label2 "Повідомляти сайтам, що я не хочу щоб за мною стежили">
 <!ENTITY dntTrackingNotOkay.accesskey "н">
 <!ENTITY doNotTrackInfo.label "Докладніше про відмову від стеження">
+
+<!ENTITY doNotTrackCheck.label "Надішліть вебсайтам сигнал “Не стежити”, якщо ви не хочете, щоб вас відстежували">
+<!ENTITY doNotTrackLearnMore.label "Докладніше">
