@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Đặt lại
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Kích thước thực
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = Chỉ phóng to văn bản
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Toàn màn hình
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Hiện tất cả các thẻ
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tiện ích
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Đăng nhập vào { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Đăng nhập vào { -brand-product-name }…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Đồng bộ ngay
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Kết nối lại với { -sync-brand-short-name }…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Kết nối lại vào { -brand-product-name }…
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Khởi động lại và kích hoạt các tiện ích
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Báo cáo trang lừa đảo…
     .accesskey = c
