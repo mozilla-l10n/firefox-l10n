@@ -569,6 +569,12 @@ search-keyword-warning-bookmark = Sće klučowe słowo wubrał, kotrež so runje
 ## Containers Section
 
 containers-back-link = « Wróćo
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Wróćo k nastajenjam
+           *[other] Wróćo k nastajenjam
+        }
 containers-header = Kontejnerowe rajtarki
 containers-add-button =
     .label = Nowy kontejner přidać
@@ -976,6 +982,10 @@ permissions-location = Městno
 permissions-location-settings =
     .label = Nastajenja…
     .accesskey = t
+permissions-xr = Wirtualna realita
+permissions-xr-settings =
+    .label = Nastajenja…
+    .accesskey = N
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Nastajenja…
@@ -1024,6 +1034,7 @@ permissions-a11y-privacy-link = Dalše informacije
 collection-header = Hromadźenje a wužiwanje datow { -brand-short-name }
 collection-description = Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy { -brand-short-name } za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.
 collection-privacy-notice = Zdźělenka priwatnosće
+collection-health-report-telemetry-disabled-link = Dalše informacije
 collection-health-report =
     .label = { -brand-short-name } zmóžnić, techniske a interakciske daty na { -vendor-short-name } pósłać
     .accesskey = t
