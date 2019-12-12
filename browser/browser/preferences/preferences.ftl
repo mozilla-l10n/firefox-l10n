@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = בחרת להשתמש במילת מפתח שנ
 ## Containers Section
 
 containers-back-link = « חזרה
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] חזרה לאפשרויות
+           *[other] חזרה להעדפות
+        }
 containers-header = מגירת לשוניות
 containers-add-button =
     .label = הוספת מגירה חדשה
@@ -958,6 +964,10 @@ permissions-location = מיקום
 permissions-location-settings =
     .label = הגדרות…
     .accesskey = ה
+permissions-xr = מציאות מדומה
+permissions-xr-settings =
+    .label = הגדרות…
+    .accesskey = ה
 permissions-camera = מצלמה
 permissions-camera-settings =
     .label = הגדרות…
@@ -1006,6 +1016,7 @@ permissions-a11y-privacy-link = מידע נוסף
 collection-header = איסוף המידע של { -brand-short-name }
 collection-description = אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את { -brand-short-name } לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.
 collection-privacy-notice = הצהרת פרטיות
+collection-health-report-telemetry-disabled-link = מידע נוסף
 collection-health-report =
     .label = לאפשר ל־{ -brand-short-name } לשלוח אל { -vendor-short-name } מידע טכני ופעולות שבוצעו בדפדפן
     .accesskey = ד
