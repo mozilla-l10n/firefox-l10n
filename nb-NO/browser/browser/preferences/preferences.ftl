@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Du har valgt et nøkkelord som brukes av et an
 ## Containers Section
 
 containers-back-link = « Gå tilbake
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Tilbake til innstillinger
+           *[other] Tilbake til innstillinger
+        }
 containers-header = Innholdsfaner
 containers-add-button =
     .label = Legg til ny beholder
