@@ -4,6 +4,8 @@
 
 <!ENTITY autoconfigWizard2.title         "Налаштувати наявний обліковий запис пошти">
 
+<!ENTITY emailWizard.title               "Налаштуйте свою існуючу електронну адресу">
+<!ENTITY emailWizard.caption             "Використовуйте вашу поточну електронну адресу">
 <!ENTITY name.label                      "Ваше ім’я:">
 <!ENTITY name.accesskey                  "і">
 <!ENTITY name.placeholder                "Ім’я Прізвище">
@@ -14,11 +16,14 @@
 <!ENTITY email.accesskey                 "а">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Ваша адреса електронної пошти">
 <!ENTITY email.text                      "Ваша наявна адреса електронної пошти">
+<!ENTITY email.error                     "Неправильна адреса електронної пошти">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Пароль">
 <!ENTITY password.text                   "Додатково, буде використане лише для перевірки імені користувача">
+<!ENTITY password.toggle                 "Показати/Приховати пароль">
 <!ENTITY rememberPassword.label          "Запам’ятати пароль">
 <!ENTITY rememberPassword.accesskey      "з">
 <!ENTITY usernameEx.label                "Ваше ім'я користувача:">
@@ -33,7 +38,9 @@
 <!ENTITY pop3Long.label                  "POP3 (зберігати пошту на вашому комп’ютері)">
 
 <!ENTITY incoming.label                  "Вхідні:">
+<!ENTITY incomingColumn.label            "Вхідні">
 <!ENTITY outgoing.label                  "Вихідні:">
+<!ENTITY outgoingColumn.label            "Вихідні">
 <!ENTITY username.label                  "Користувач:">
 <!ENTITY hostname.label                  "Хост сервера">
 <!ENTITY port.label                      "Порт">
@@ -73,6 +80,7 @@
 <!ENTITY half-manual-test.accesskey      "т">
 <!ENTITY manual-edit.label               "Вручну">
 <!ENTITY manual-edit.accesskey           "В">
+<!ENTITY manual-config.label             "Налаштувати вручну…">
 <!ENTITY open-provisioner.label          "Отримати нову адресу електронної пошти…">
 <!ENTITY open-provisioner.accesskey      "О">
 
