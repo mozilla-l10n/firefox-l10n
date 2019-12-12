@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = A palavra-chave escolhida já é usada por um 
 ## Containers Section
 
 containers-back-link = « Voltar
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Voltar às Opções
+           *[other] Voltar às Preferências
+        }
 containers-header = Abas contêiner
 containers-add-button =
     .label = Adicionar novo contêiner
@@ -966,6 +972,10 @@ tracking-manage-exceptions =
 permissions-header = Permissões
 permissions-location = Localização
 permissions-location-settings =
+    .label = Configurações…
+    .accesskey = C
+permissions-xr = Realidade Virtual
+permissions-xr-settings =
     .label = Configurações…
     .accesskey = C
 permissions-camera = Câmera
