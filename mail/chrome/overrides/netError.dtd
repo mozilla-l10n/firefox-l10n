@@ -153,6 +153,8 @@
 <!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
+<!ENTITY xfoBlocked.title "Bllokuar nga Rregulla X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë kontekst, ngaqë faqja ka një rregull X-Frame-Options që s’e lejon.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
