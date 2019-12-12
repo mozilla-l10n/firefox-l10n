@@ -21,6 +21,7 @@ onboarding-button-label-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 onboarding-welcome-body = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ।<br/>ਬਾਕੀ { -brand-product-name } ਨੂੰ ਜਾਣੋ।
 onboarding-welcome-learn-more = ਫਾਇਦਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
+onboarding-welcome-form-header = ਇੱਥੇ ਸ਼ੁਰੂ ਕਰੋ
 onboarding-join-form-header = { -brand-product-name } ਦਾ ਹਿੱਸਾ ਬਣੋ
 onboarding-join-form-body = ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਦਿਓ।
 onboarding-join-form-email =
@@ -28,6 +29,8 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = ਠੀਕ ਈਮੇਲ ਚਾਹੀਦਾ ਹੈ
 onboarding-join-form-legal = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ <a data-l10n-name="terms">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="privacy">ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 onboarding-join-form-continue = ਜਾਰੀ ਰੱਖੋ
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = ਸਾਇਨ ਇਨ
 onboarding-start-browsing-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
@@ -67,6 +70,9 @@ onboarding-benefit-privacy-title = ਅਸਲ ਪਰਦੇਦਾਰੀ
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = ਜੋ ਵੀ ਅਸੀਂ ਕਰਦੇ ਹਨ, ਉਹ ਸਾਡੀ ਨਿੱਜੀ ਡਾਟੇ ਦੇ ਵਾਅਦੇ ਦਾ ਸਨਮਾਣ ਕਰਦੀ ਹੈ: ਘੱਟ ਲਵੋ। ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ।
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -114,6 +120,7 @@ onboarding-lockwise-passwords-button2 = ਐਪ ਲਵੋ
 onboarding-facebook-container-title = ਫੇਸਬੁੱਕ 'ਤੇ ਬੰਨ੍ਹ ਲਾਓ
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ਤੁਹਾਡੇ ਪਰੋਫਾਈਲ ਨੂੰ ਹਰੇਕ ਚੀਜ਼ ਤੋਂ ਵੱਖਰਾ ਰੱਖਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਫੇਸਬੁੱਕ ਵਲੋਂ ਇਸ਼ਤਿਹਾਰਾਂ ਨਾਲ ਤੁਹਾਨੂੰ ਨਿਸ਼ਾਨਾ ਬਣਾਉਣਾ ਔਖਾ ਹੋ ਜਾਂਦਾ ਹੈ।
 onboarding-facebook-container-button = ਇਕਟੈਨਸ਼ਨ ਜੋੜੋ
+onboarding-import-browser-settings-button = ਕਰੋਮ ਡਾਟਾ ਆਯਾਤ ਕਰੋ
 
 ## Message strings belonging to the Return to AMO flow
 
