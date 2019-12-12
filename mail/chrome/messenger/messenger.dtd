@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "м">
 <!ENTITY folderPaneBar.label "Панель інструментів теки">
 <!ENTITY folderPaneBar.accesskey "П">
-<!ENTITY folderModeSelector.label "Подання тек">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Сортування">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Помістити вибраний лист в потрібну теку">
 <!ENTITY archiveButton.tooltip "Архівувати вибрані листи">
 <!ENTITY openConversationButton.tooltip "Показати розмову для обраного повідомлення">
+<!ENTITY openMsgConversationButton.tooltip "Показати розмову для обраного повідомлення">
 <!ENTITY nextButton.tooltip "Перейти до наступного непрочитаного листа">
 <!ENTITY nextMsgButton.tooltip "Перейти до наступного листа">
 <!ENTITY previousButton.tooltip "Перейти до попереднього непрочитаного листа">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Помітити повідомлення">
 <!ENTITY compactButton.tooltip "Вилучити видалені листи з вибраної теки">
 <!ENTITY appmenuButton1.tooltip "Відкрити меню &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Керуйте своїми додатками">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Зберегти результати пошуку як теку…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Вибрати повідомлення">
 <!ENTITY threadColumn.label "Розмова">
 <!ENTITY fromColumn.label "Від">
 <!ENTITY recipientColumn.label "Одержувачі">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Вибрати стовпчики для показу">
+<!ENTITY selectColumn.tooltip "Увімкніть, щоб вибрати всі повідомлення">
 <!ENTITY threadColumn2.tooltip "Показати повідомлення з розмовами">
 <!ENTITY fromColumn2.tooltip "Сортувати за відправником">
 <!ENTITY recipientColumn2.tooltip "Сортувати за отримувачем">
@@ -970,3 +971,7 @@
 <!ENTITY dockOptions.label              "Параметри піктограми програми…">
 <!ENTITY writeNewMessageDock.label      "Написати нового листа">
 <!ENTITY openAddressBookDock.label      "Відкрити адресну книгу">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "На попередню сторінку">
+<!ENTITY browseForwardButton.tooltip "На наступну сторінку">
