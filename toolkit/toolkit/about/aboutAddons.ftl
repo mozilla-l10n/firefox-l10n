@@ -349,6 +349,10 @@ remove-addon-disabled-button = Không thể xóa bỏ dữ liệu <a data-l10n-n
 disable-addon-button = Tắt
 enable-addon-button = Bật
 expand-addon-button = Tùy chọn khác
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Bật
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Tùy chọn
@@ -451,6 +455,7 @@ discover-heading = Cá nhân hóa { -brand-short-name } của bạn
 shortcuts-heading = Quản lý phím tắt tiện ích mở rộng
 theme-heading-search-label = Tìm thêm chủ đề
 extension-heading-search-label = Tìm thêm tiện ích
+default-heading-search-label = Tìm thêm tiện ích
 addons-heading-search-input =
     .placeholder = Tìm kiếm addons.mozilla.org
 addon-page-options-button =

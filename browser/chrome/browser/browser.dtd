@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Bạn cần phải xác minh tài khoản của mình trước khi có thể đồng bộ hóa.">
 <!ENTITY fxa.unverified.button.label "Mở cài đặt &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Ẩn nút hình trong hình">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Đã đăng nhập với tài khoản">
 <!ENTITY fxa.menu.manageAccount.label "Quản lý tài khoản…">
 <!ENTITY fxa.menu.syncSettings.label "Cài đặt &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Ẩn nút hình trong hình">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Đăng nhập vào &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Bật &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Dịch vụ &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Tài khoản">
 <!ENTITY fxa.menu.settings.label "Cài đặt">
 <!ENTITY fxa.menu.accountSettings.label "Cài đặt tài khoản">
@@ -290,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bạn đã chặn trang web này sử dụng phần bổ trợ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bạn đã chặn quyền truy cập MIDI của trang web này.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bạn đã chặn cài đặt tiện ích cho trang web này.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Xem lịch sử">
 
@@ -487,7 +487,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "Báo cáo phần mở rộng">
+<!ENTITY customizeMenu.reportExtension.label "Báo cáo tiện ích mở rộng">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -567,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Tìm với:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Lần này, tìm kiếm với:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -939,12 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Tại sao?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Chặn những thứ này có thể phá vỡ các yếu tố của một số trang web. Không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Tắt bảo vệ sẽ cho phép tất cả các trình theo dõi trên trang web này. Nó cũng có thể cải thiện một số chức năng trang web.">
-<!ENTITY protections.socialMediaTrackers.label "Trình theo dõi truyền thông xã hội">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookie theo dõi chéo trang web">
-<!ENTITY protections.trackingContent.label "Trình theo dõi nội dung">
-<!ENTITY protections.fingerprinters.label "Vân tay">
-<!ENTITY protections.cryptominers.label "Tiền điện tử">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tất cả các trình theo dõi trên trang web này đã được tải vì bảo vệ bị tắt.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; không phát hiện ra trình theo dõi đã biết trên trang này.">
 
@@ -967,7 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Đăng nhập vào &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Đồng bộ ngay">
 <!ENTITY syncSyncNowItemSyncing.label "Đang đồng bộ hóa…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Trình theo dõi truyền thông xã hội">
-
-<!ENTITY contentBlocking.cookies2.label "Cookie theo dõi chéo trang web">
 
 <!ENTITY contentBlocking.cryptominers.label "Tiền điện tử">
 <!ENTITY contentBlocking.cryptominersView.label "Tiền điện tử">

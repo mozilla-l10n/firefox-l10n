@@ -9,7 +9,7 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Báo cáo về { $addon-name }
-abuse-report-title-extension = Báo cáo phần mở rộng này cho { -vendor-short-name }
+abuse-report-title-extension = Báo cáo tiện ích mở rộng này cho { -vendor-short-name }
 abuse-report-title-theme = Báo cáo chủ đề này cho { -vendor-short-name }
 abuse-report-subtitle = Vấn đề là gì?
 # Variables:
@@ -17,7 +17,7 @@ abuse-report-subtitle = Vấn đề là gì?
 abuse-report-addon-authored-by = bởi <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     Không chắc chắn vấn đề cần chọn?
-    <a data-l10n-name="learnmore-link">Tìm hiểu thêm về việc báo cáo phần mở rộng và chủ đề</a>
+    <a data-l10n-name="learnmore-link">Tìm hiểu thêm về việc báo cáo tiện ích mở rộng và chủ đề</a>
 abuse-report-submit-description = Mô tả vấn đề (tùy chọn)
 abuse-report-textarea =
     .placeholder = Chúng tôi dễ dàng giải quyết vấn đề hơn nếu chúng tôi có thông tin cụ thể. Hãy mô tả những gì bạn đã trải qua. Cảm ơn bạn đã giúp chúng tôi giữ cho web lành mạnh.
@@ -42,7 +42,7 @@ abuse-report-messagebar-aborted = Báo cáo về <span data-l10n-name="addon-nam
 abuse-report-messagebar-submitting = Đang gửi báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Cám ơn bạn đã gửi báo cáo. Bạn có muốn xóa <span data-l10n-name="addon-name">{ $addon-name }</span> không?
 abuse-report-messagebar-submitted-noremove = Cảm ơn bạn đã gửi báo cáo.
-abuse-report-messagebar-removed-extension = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa phần mở rộng <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-extension = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa tiện ích mở rộng <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa chủ đề <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Đã xảy ra lỗi khi gửi báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span> không thể gửi do đã có một báo cáo khác đã được gửi gần đây.
@@ -66,7 +66,7 @@ abuse-report-spam-reason-v2 = Nó chứa thư rác hoặc chèn quảng cáo kh�
 abuse-report-spam-example = Ví dụ: chèn quảng cáo trên các trang web
 abuse-report-settings-reason = Đã thay đổi công cụ tìm kiếm, trang chủ hoặc thẻ mới của tôi mà không thông báo hoặc hỏi tôi
 abuse-report-settings-reason-v2 = Nó đã thay đổi công cụ tìm kiếm, trang chủ hoặc thẻ mới của tôi mà không thông báo hoặc hỏi tôi
-abuse-report-settings-suggestions = Trước khi báo cáo phần mở rộng, bạn có thể thử thay đổi cài đặt của mình:
+abuse-report-settings-suggestions = Trước khi báo cáo tiện ích mở rộng, bạn có thể thử thay đổi cài đặt của mình:
 abuse-report-settings-suggestions-search = Thay đổi cài đặt tìm kiếm mặc định của bạn
 abuse-report-settings-suggestions-homepage = Thay đổi trang chủ và thẻ mới của bạn
 abuse-report-deceptive-reason = Giả mạo một cái gì đó
@@ -79,8 +79,8 @@ abuse-report-broken-reason-theme-v2 = Nó không hoạt động hoặc phá vỡ
 abuse-report-broken-example = Ví dụ: tính năng chậm, khó sử dụng hoặc không hoạt động; các phần của trang web không tải được hoặc trông khác thường
 abuse-report-broken-suggestions-extension =
     Có vẻ như bạn đã xác định được một lỗi. Ngoài việc gửi báo cáo ở đây, cách tốt nhất
-    để giải quyết vấn đề là liên hệ với nhà phát triển phần mở rộng.
-    <a data-l10n-name="support-link">Truy cập trang web phần mở rộng</a> để lấy thông tin về nhà phát triển.
+    để giải quyết vấn đề là liên hệ với nhà phát triển tiện ích mở rộng.
+    <a data-l10n-name="support-link">Truy cập trang web tiện ích mở rộng</a> để nhận thông tin về nhà phát triển.
 abuse-report-broken-suggestions-theme =
     Có vẻ như bạn đã xác định được một lỗi. Ngoài việc gửi báo cáo ở đây, cách tốt nhất
     để giải quyết vấn đề là liên hệ với nhà phát triển chủ đề.

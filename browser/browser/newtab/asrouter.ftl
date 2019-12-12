@@ -119,6 +119,32 @@ cfr-whatsnew-lockwise-take-body =
     mật khẩu được sao lưu từ bất cứ đâu.
 cfr-whatsnew-lockwise-take-link-text = Tải ứng dụng
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Xem video trong khi bạn duyệt
+cfr-whatsnew-pip-body = Hình trong hình bật video vào một cửa sổ nổi để bạn có thể xem trong khi làm việc trong các thẻ khác.
+cfr-whatsnew-pip-cta = Tìm hiểu thêm
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Ít trang web gây phiền nhiễu hơn
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } hiện chặn các trang web tự động yêu cầu gửi cho bạn thông báo bật lên.
+cfr-whatsnew-permission-prompt-cta = Tìm hiểu thêm
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+       *[other] Dấu vân tay bị chặn
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } chặn nhiều trang lấy dấu vân tay bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Dấu vân tay
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } có thể chặn những trang lấy dấu vân tay bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Nhận dấu trang này trên điện thoại của bạn
