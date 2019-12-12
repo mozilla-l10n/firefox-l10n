@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Вставити новий якір або змінити властивості виділеного">
 <!ENTITY TextColorButton.tooltip "Вибір кольору для тексту">
 <!ENTITY BackgroundColorButton.tooltip "Вибір фонового кольору">
-<!ENTITY throbber.tooltip "Перейти на домашню сторінку &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Перейти на домашню сторінку &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Виберіть колір підсвічування тексту">
 
 <!-- Editor toolbar -->
