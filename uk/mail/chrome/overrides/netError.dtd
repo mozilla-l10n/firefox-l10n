@@ -167,6 +167,9 @@
 <!ENTITY cspBlocked.title "Блоковано політикою безпеки вмісту">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці бути завантаженою таким чином, через те що її політика безпеки вмісту не дозволяє зробити це.</p>">
 
+<!ENTITY xfoBlocked.title "Блокується політикою X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись в даному контексті, тому що політикою X-Frame-Options це заборонено.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Помилка зіпсованого вмісту">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Сторінка, яку ви намагаєтесь переглянути, не може бути показана через те, що в передачі даних виявлено помилку.</p><ul><li>Будь ласка, зв'яжіться з власниками веб-сайту та повідомте їх про цю проблему.</li></ul>">
 
