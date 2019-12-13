@@ -866,11 +866,13 @@ enhanced-tracking-protection-setting-custom =
 
 
 content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat menyebabkan beberapa situs atau konten rusak.
+content-blocking-private-windows = Melacak konten di Jendela Pribadi
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
 content-blocking-social-media-trackers = Pelacak media sosial
 content-blocking-all-cookies = Semua kuki
 content-blocking-unvisited-cookies = Kuki dari situs yang belum dikunjungi
 content-blocking-all-windows-trackers = Pelacak yang dikenal di seluruh jendela
+content-blocking-all-windows-tracking-content = Melacak konten di seluruh jendela
 content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
 content-blocking-cryptominers = Penambang Kripto
 content-blocking-fingerprinters = Pelacak Sidik
