@@ -13,13 +13,14 @@
 <!ENTITY cmd.deleteDomainData.label     "Scòrdati stu situ">
 <!ENTITY cmd.deleteDomainData.accesskey "S">
 
+<!ENTITY cmd.open.label                  "Rapi">
+<!ENTITY cmd.open.accesskey              "R">
+<!ENTITY cmd.open_private_window.accesskey "A">
 
 
 
 <!ENTITY cmd.new_bookmark.label            "Novu nzingalibbru…">
 <!ENTITY cmd.new_folder.label              "Nova carpetta…">
-
-
 
 <!ENTITY col.dateadded.label     "Agghiunciutu">
 
