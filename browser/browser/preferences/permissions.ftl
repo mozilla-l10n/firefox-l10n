@@ -137,12 +137,12 @@ permissions-site-location-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = Gosodiadau - Caniatâd Realiti Rhithiol
+    .title = Gosodiadau - Caniatâd Rhithrealaeth
     .style = { permissions-window.style }
-permissions-site-xr-desc = Mae'r gwefannau canlynol wedi gofyn am gael mynediad i'ch dyfeisiau rhith-realiti. Gallwch chi nodi pa wefannau sy'n cael mynediad i'ch dyfeisiau rhith-realiti. Gallwch hefyd rwystro ceisiadau newydd sy'n gofyn am gael mynediad i'ch dyfeisiau rhith-realiti.
+permissions-site-xr-desc = Mae'r gwefannau canlynol wedi gofyn am gael mynediad i'ch dyfeisiau rhithrealaeth. Gallwch chi nodi pa wefannau sy'n cael mynediad i'ch dyfeisiau rhithrealaeth. Gallwch hefyd rwystro ceisiadau newydd sy'n gofyn am gael mynediad i'ch dyfeisiau rhithrealaeth .
 permissions-site-xr-disable-label =
-    .label = Rhwystro geisiadau newydd sy'n gofyn am gael mynediad i'ch dyfeisiau rhith-realiti
-permissions-site-xr-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd heb ei rhestru uchod rhag gofyn am ganiatâd i gael mynediad i'ch dyfeisiau rhith-realiti. Gall rhwystro mynediad i'ch dyfeisiau rhith-realiti dorri nodweddion rhai gwefannau.
+    .label = Rhwystro geisiadau newydd sy'n gofyn am gael mynediad i'ch dyfeisiau rhithrealaeth
+permissions-site-xr-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd heb ei rhestru uchod rhag gofyn am ganiatâd i gael mynediad i'ch dyfeisiau rhithrealaeth. Gall rhwystro mynediad i'ch dyfeisiau rhithrealaeth dorri nodweddion rhai gwefannau.
 
 ## Site Permissions - Camera
 
