@@ -129,7 +129,7 @@ permissions-site-notification-disable-desc = 所有列表外的网站将无法�
 permissions-site-location-window =
     .title = 设置 - 位置权限
     .style = { permissions-window.style }
-permissions-site-location-desc = 下列网站曾请求获知您的位置。您可选择允许哪些网站得获知的位置，还可禁止新的获取位置请求。
+permissions-site-location-desc = 下列网站曾请求获知您的位置。您可选择允许哪些网站获知您的位置，还可禁止新的获取位置请求。
 permissions-site-location-disable-label =
     .label = 禁止新的获取位置请求
 permissions-site-location-disable-desc = 所有列表外的网站将无法请求获知您的位置。禁止此权限可能会影响某些网站的功能。
@@ -139,8 +139,10 @@ permissions-site-location-disable-desc = 所有列表外的网站将无法请求
 permissions-site-xr-window =
     .title = 设置 - VR 权限
     .style = { permissions-window.style }
+permissions-site-xr-desc = 下列网站曾请求访问您的 VR 设备。您可选择允许哪些网站访问您的 VR 设备，还可禁止新的 VR 设备访问请求 。
 permissions-site-xr-disable-label =
     .label = 禁止新的访问 VR 设备请求
+permissions-site-xr-disable-desc = 所有列表外的网站将无法请求获知 VR 设备。禁止访问您的 VR 设备可能会影响某些网站的功能。
 
 ## Site Permissions - Camera
 
