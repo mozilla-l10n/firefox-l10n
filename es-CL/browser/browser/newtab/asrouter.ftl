@@ -120,13 +120,29 @@ cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Mira videos mientras navegas
+cfr-whatsnew-pip-body = La función picture-in-picture muestra el vídeo en una ventana flotante para que puedas verlo mientras trabajas en otras pestañas.
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Menos ventanas emergentes de sitios molestos
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ahora bloquea sitios para que no pidan automáticamente enviarte mensajes emergentes.
 cfr-whatsnew-permission-prompt-cta = Aprender más
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Se bloqueó un creador de huellas (fingerprinter)
+       *[other] Se bloquearon creadores de huellas (fingerprinters)
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } muchos creadores de huellas (fingerprinter) que reúnen secretamente información acerca de tu dispositivo y acciones para crear un perfil de publicidad para ti.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Creadores de huellas (Fingerprinters)
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede bloquear creadores de huellas (fingerprinter) que reúnen secretamente información acerca de tu dispositivo y acciones para crear un perfil de publicidad para ti.
 
 ## Bookmark Sync
 
