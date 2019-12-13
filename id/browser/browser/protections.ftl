@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protection-report-header-details-custom = Tingkat Perlindungan diatur ke <b>Custom</b>
+protection-report-header-details-custom = Tingkat Perlindungan diatur ke <b>Ubahsuai</b>
     .title = Ke Pengaturan Privasi
 protection-report-page-title = Perlindungan Privasi
 protection-report-content-title = Perlindungan Privasi

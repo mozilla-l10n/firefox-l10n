@@ -837,7 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 <!ENTITY identity.customRoot "Koneksi diverifikasi oleh penerbit sertifikat yang tidak dikenali oleh Mozilla.">
 
-<!ENTITY identity.evOwnerLabel2 "Seritifikat diterbitkan untuk:">
+<!ENTITY identity.evOwnerLabel2 "Sertifikat diterbitkan untuk:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
