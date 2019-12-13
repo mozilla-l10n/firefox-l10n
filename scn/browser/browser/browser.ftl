@@ -57,6 +57,6 @@ search-one-offs-change-settings-button =
     .label = Mpustazzioni di ricerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cancia li mpustazzioni di ricerca
-search-one-offs-context-open-new-tab =
-    .label = Cerca nta na nova scheda
-    .accesskey = n
+
+## Bookmark Panel
+

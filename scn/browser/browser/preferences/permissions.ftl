@@ -73,7 +73,7 @@ permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponn
 permissions-exceptions-popup-window =
     .title = Siti cunzintuti - Finestri autumàtichi
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu gràpiri finestri autumàtichi. Dìggita lu nnirizzu giustu dû situ ô quali ci lu vo' pirmèttiri e poi ammacca Pirmetti.
+permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri finestri autumàtichi. Dìggita u nnirizzu giustu dû situ ô quali ci lu vo' pirmèttiri e poi ammacca Pirmetti.
 
 ## Exceptions - Saved Logins
 
@@ -96,6 +96,9 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Po' spicificari quali siti ponnu o nun ponnu mai riprudùciri autumaticamenti media cû sonu. Dìggita lu nnirizzu giustu dû situ ca vo' gistiri e poi ammacca Blocca o Pirmetti.
 
+## Site Permissions - Autoplay
+
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -115,6 +118,9 @@ permissions-site-location-desc = Li siti appressu dumannaru di accèdiri â to p
 permissions-site-location-disable-label =
     .label = Blocca li novi dumanni d'accessu â to pusizziuni
 permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari lu pirmisu di accèdiri â pusizziuni. Bluccari l'accessu â pusizziuni putissi ncippari certi carattirìstichi dû situ.
+
+## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 

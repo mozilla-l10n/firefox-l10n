@@ -123,7 +123,7 @@ separate-profile-mode =
     .label = Pirmetti a { -brand-short-name } e Firefox di travagghiari nnô stissu mumentu
 use-firefox-sync = Cunzigghiu: chistu usa prufili siparati. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
 get-started-not-logged-in = Trasi nne { -sync-brand-short-name }...
-get-started-configured = Grapi li prifirenzi di { -sync-brand-short-name }
+get-started-configured = Rapi i prifirenzi di { -sync-brand-short-name }
 always-check-default =
     .label = Cuntrolla sempri si { -brand-short-name } è lu to navigaturi pridifinutu
     .accesskey = y
@@ -144,16 +144,16 @@ ctrl-tab-recently-used-order =
     .label = Ctrl+Tab scurri li schedi nna l'ùrdini usati ricentimenti
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Grapi li lijami nnê schedi mmeci ca nna novi finestri
-    .accesskey = w
+    .label = Rapi i ligami nnê schedi mmeci ca nna finestri novi
+    .accesskey = R
 warn-on-close-multiple-tabs =
     .label = Abbìsami chijennu cchiù assai di na scheda
     .accesskey = m
 warn-on-open-many-tabs =
-    .label = Abbìsami quannu gràpiri cchiù schedi po rallintari { -brand-short-name }
+    .label = Abbìsami quannu ràpiri cchiù schedi po rallintari { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Quannu grapi un lijami nna na scheda nova, passa sùbbitu a chiḍḍa
+    .label = Quannu rapi un ligami nna na scheda nova, passa sùbbitu a chiḍḍa
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Mustra antiprima dâ scheda nnâ barra di l'appricazziuna dî finestri
@@ -284,7 +284,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Cuntinutu di gistiuni diritta diggitali (GDD)
 play-drm-content =
@@ -377,7 +377,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novi finestri e schedi
-home-new-windows-tabs-description2 = Scegghi chiḍḍu chi vidi quannu grapi la pàggina mastra, novi finestri e novi schedi.
+home-new-windows-tabs-description2 = Scegghi chiḍḍu chi vidi quannu rapi a pàggina mastra, finestri e schedi novi.
 
 ## Home Section - Home Page Customization
 
@@ -525,6 +525,7 @@ sync-signedin-settings-desc = Scigghi chi vo' sincrunizzari nnê to dispusitivi 
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-tabs = Schedi raputi
 
 ## The "Choose what to sync" dialog.
 
@@ -535,8 +536,8 @@ sync-engine-history =
     .label = Crunuluggìa
     .accesskey = r
 sync-engine-tabs =
-    .label = Schedi graputi
-    .tooltiptext = Na lista di zoccu cc'è graputu nna tutti li to dispusitivi sincrunizzati
+    .label = Schedi raputi
+    .tooltiptext = Na lista di soccu cc'è raputu nna tutti i to dispusitivi sincrunizzati
     .accesskey = t
 sync-engine-logins =
     .label = Accessi
@@ -591,6 +592,7 @@ privacy-header = Privatizza navigaturi
 ## Privacy Section - Logins and Passwords
 
 logins-header = Accessi e palori d'accessu
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Spia di sarbari l'accessi e li palori d'accessu pî siti
     .accesskey = r
@@ -700,8 +702,8 @@ addressbar-locbar-bookmarks-option =
     .label = Nzingalibbra
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = Schedi graputi
-    .accesskey = O
+    .label = Schedi raputi
+    .accesskey = S
 addressbar-suggestions-settings = Cancia li prifirenzi pî suggirimenti di muturi di ricerca
 
 ## Privacy Section - Content Blocking
@@ -740,7 +742,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pirsunalizzatu
     .accesskey = C
 
-##
+
 
 content-blocking-all-cookies = Tutti li cookie
 content-blocking-unvisited-cookies = Cookie di siti nun visitati
@@ -895,13 +897,13 @@ space-alert-learn-more-button =
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
-            [windows] Grapi uzziuna
-           *[other] Grapi prifirenzi
+            [windows] Rapi prifirenzi
+           *[other] Rapi prifirenzi
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] O
-           *[other] O
+            [windows] p
+           *[other] p
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->

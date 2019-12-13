@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-open-new-window = Grapi na finestra nova
+panic-button-open-new-window = Rapi na finestra nova
 panic-button-undo-warning = St'azziuni nun si po annullari.
 panic-button-forget-button =
     .label = Scorda!

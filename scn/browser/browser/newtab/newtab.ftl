@@ -55,8 +55,14 @@ newtab-confirm-delete-history-p2 = Nun po' turnari nn'arrè.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Grapi u minù
-    .aria-label = Grapi u minù
+    .title = Rapi u minù
+    .aria-label = Rapi u minù
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Rapi u minù
+    .aria-label = Rapi u minù cuntistuali pi { $title }
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
