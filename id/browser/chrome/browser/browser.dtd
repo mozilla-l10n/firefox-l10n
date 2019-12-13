@@ -165,6 +165,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.turnOnSync.label "Aktifkan &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Layanan &brandProductName;">
 <!ENTITY fxa.menu.account.label "Akun">
+<!ENTITY fxa.menu.signOut.label "Keluar…">
+<!ENTITY fxa.menu.deviceSettings.label "Pengaturan Perangkat">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -835,6 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 <!ENTITY identity.customRoot "Koneksi diverifikasi oleh penerbit sertifikat yang tidak dikenali oleh Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "Seritifikat diterbitkan untuk:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
@@ -907,6 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Diblokir">
 <!ENTITY protections.notBlocking2.label "Diizinkan">
+<!ENTITY protections.notFound.label "Tidak Terdeteksi">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
