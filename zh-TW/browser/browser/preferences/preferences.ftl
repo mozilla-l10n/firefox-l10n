@@ -545,6 +545,12 @@ search-keyword-warning-bookmark = 您選用的關鍵字目前正被書籤項目�
 ## Containers Section
 
 containers-back-link = « 返回
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] 回到選項
+           *[other] 回到偏好設定
+        }
 containers-header = 容器分頁
 containers-add-button =
     .label = 新增容器
@@ -952,6 +958,10 @@ permissions-location = 位置
 permissions-location-settings =
     .label = 設定…
     .accesskey = l
+permissions-xr = 虛擬實境
+permissions-xr-settings =
+    .label = 設定…
+    .accesskey = t
 permissions-camera = 攝影機
 permissions-camera-settings =
     .label = 設定…
@@ -1000,6 +1010,8 @@ permissions-a11y-privacy-link = 了解更多
 collection-header = { -brand-short-name } 資料收集與使用
 collection-description = 我們致力於提供您選擇，也只會收集我們在提供與改善 { -brand-short-name } 時所必需的資料。我們也一定會經過您的同意才收集您的個人資訊。
 collection-privacy-notice = 隱私權公告
+collection-health-report-telemetry-disabled = 將不再允許 { -vendor-short-name } 捕捉技術與互動資料，之前收集的資料將於 30 天內刪除。
+collection-health-report-telemetry-disabled-link = 了解更多
 collection-health-report =
     .label = 允許 { -brand-short-name } 傳送技術與互動資料給 { -vendor-short-name }
     .accesskey = r
