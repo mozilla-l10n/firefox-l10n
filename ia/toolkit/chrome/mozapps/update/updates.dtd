@@ -35,9 +35,7 @@
 <!ENTITY  downloadPage.title              "Discargante &brandShortName;">
 <!ENTITY  downloading.intro               "Discargante le actualisation…">
 <!ENTITY  connecting.label                "Connectente al servitor de actualisation…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; non esseva capace de verificar le integritate del
-                                           actualisation incremental que illo discargava, alora illo es ora discargante
-                                           le pacchetto de actualisation complete.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; non ha potite verificar le integritate del actualisation incremental discargate. Ora se discarga le pacchetto de actualisation complete.">
 
 <!ENTITY  viewDetails.tooltip             "Vider le detalios pro iste actualisation">
 
@@ -45,8 +43,7 @@
 
 <!ENTITY  error.title                     "Le actualisation ha fallite">
 
-<!ENTITY  error.label                     "Il habeva problemas cercante, discargante o installante iste
-                                           actualisation. &brandShortName; non poteva esser actualisate perque:">
+<!ENTITY  error.label                     "Occurreva problemas cercante, discargante o installante iste actualisation. &brandShortName; non poteva esser actualisate perque:">
                                            
 <!ENTITY  errorManual.label               "Tu pote actualisar &brandShortName; manualmente visitante iste ligamine
                                            e discargante le ultime version:">
@@ -56,7 +53,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; es incapace de determinar si il ha un actualisation disponibile. Per favor
                                            assecura te que tu ha le ultime version de &brandShortName; a:">
-
+                                           
 <!ENTITY  finishedPage.title              "Actualisation preste a installar">
 <!ENTITY  finishedPage.text               "Le actualisation essera installate le proxime vice que &brandShortName; initia. Tu
                                            pote reinitiar &brandShortName; ora o continuar laborante e reinitiar plus tarde.">
@@ -67,11 +64,9 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Le actualisation essera installate le proxime vice que &brandShortName; initia. Tu
                                            pote reinitiar &brandShortName; ora o continuar laborante e reinitiar plus tarde.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "Iste actualisation necessita privilegios de administrator. Le actualisation essera
                                            installate le proxime vice que &brandShortName; initia. Tu pote reinitiar
                                            &brandShortName; ora, continuar laborante e reinitiar plus tarde, o rejectar iste
                                            actualisation.">
 
-<!ENTITY  update.details.label            "Detalios">
-<!ENTITY  update.installedOn.label        "Installate le:">
-<!ENTITY  update.status.label             "Stato:">

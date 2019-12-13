@@ -12,7 +12,7 @@ update-updateButton =
     .label = Reinitiar pro actualisar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Cercante actualisationes…
-update-downloading = <img data-l10n-name="icon"/>Discarga de actualisation — <label data-l10n-name="download-status"/>
+update-downloading = <img data-l10n-name="icon"/>Discargante actualisation — <label data-l10n-name="download-status"/>
 update-applying = Applicante le actualisation…
 update-failed = Le actualisation ha fallite. <label data-l10n-name="failed-link">Discargar le ultime version</label>
 update-failed-main = Le actualisation ha fallite. <a data-l10n-name="failed-link-main">Discargar le ultime version</a>

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Un nove actualisation de { -brand-shorter-name } es disponibile.
+    .label = Un nove version de { -brand-shorter-name } es disponibile.
     .buttonlabel = Discargar actualisation
     .buttonaccesskey = D
     .secondarybuttonlabel = Non ora
