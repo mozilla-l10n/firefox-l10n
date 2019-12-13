@@ -137,12 +137,12 @@ permissions-site-location-disable-desc = 所有列表外的网站将无法请求
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = 设置 - VR 权限
+    .title = 设置 - 虚拟现实权限
     .style = { permissions-window.style }
-permissions-site-xr-desc = 下列网站曾请求访问您的 VR 设备。您可选择允许哪些网站访问您的 VR 设备，还可禁止新的 VR 设备访问请求 。
+permissions-site-xr-desc = 下列网站曾请求访问您的虚拟现实设备。您可选择允许哪些网站访问您的虚拟现实设备，还可禁止新的虚拟现实设备访问请求 。
 permissions-site-xr-disable-label =
-    .label = 禁止新的访问 VR 设备请求
-permissions-site-xr-disable-desc = 所有列表外的网站将无法请求获知 VR 设备。禁止访问您的 VR 设备可能会影响某些网站的功能。
+    .label = 禁止新的访问虚拟现实设备请求
+permissions-site-xr-disable-desc = 所有列表外的网站将无法请求获知虚拟现实设备。禁止访问您的虚拟现实设备可能会影响某些网站的功能。
 
 ## Site Permissions - Camera
 
