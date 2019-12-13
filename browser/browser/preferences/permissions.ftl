@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = 封鎖新網站取得您所在位置的請求
 permissions-site-location-disable-desc = 將防止上列以外的網站請您允許取得您所在位置。封鎖取得所在位置的權限可能會影響某些網站的功能。
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = 設定 - 虛擬實境權限
+    .style = { permissions-window.style }
+permissions-site-xr-desc = 下列網站要求使用您的虛擬實境裝置。您可指定允許哪些網站使用 VR 裝置，也可以封鎖新的 VR 裝置使用請求。
+permissions-site-xr-disable-label =
+    .label = 封鎖新網站使用您虛擬裝置的請求
+permissions-site-xr-disable-desc = 將防止上列以外的網站請求使用您的虛擬實境裝置。封鎖虛擬實境裝置的使用權限可能會影響某些網站的功能。
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
