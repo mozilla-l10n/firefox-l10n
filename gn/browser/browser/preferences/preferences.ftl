@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oipurúmava ambue 
 ## Containers Section
 
 containers-back-link = « Ou jey
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Eguevi Jeporavorãme
+           *[other] Eguevi Jeguerohoryvévape
+        }
 containers-header = Tendayke guerekoha
 containers-add-button =
     .label = Embojuaju guerekoha pyahu
@@ -968,6 +974,10 @@ permissions-location = Tenda
 permissions-location-settings =
     .label = Ñangareko…
     .accesskey = t
+permissions-xr = Añetegua ñanduti
+permissions-xr-settings =
+    .label = Ñemboheko…
+    .accesskey = t
 permissions-camera = Cámara
 permissions-camera-settings =
     .label = Ñangareko…
@@ -1016,6 +1026,7 @@ permissions-a11y-privacy-link = Kuaave
 collection-header = { -brand-short-name } Ñembyaty ha mba'ekuaarã jepuru
 collection-description = Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
+collection-health-report-telemetry-disabled-link = Kuaave
 collection-health-report =
     .label = Toñemoneĩ { -brand-short-name } omondo hag̃ua kuaapy aporeko rehegua { -vendor-short-name }-pe
     .accesskey = r

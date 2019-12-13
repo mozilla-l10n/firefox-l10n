@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = Ejoko mba'ejerure pyahu oikeséva nerendaitépe rehegua
 permissions-site-location-disable-desc = Ko'ãva omboykéta umi ñanduti renda noĩriva omba'ejeruréva ñemoneĩ oike hag̃ua nerendaitépe. Ejokóramo neredaite ikatu ombyai ambue ñanduti renda.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Ñemboheko - Ñemoneĩ añetegua ñandutípe
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
