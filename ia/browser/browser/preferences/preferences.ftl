@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Tu ha eligite un parola clave que es actualmen
 ## Containers Section
 
 containers-back-link = « Retornar
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Retornar al optiones
+           *[other] Retornar al preferentias
+        }
 containers-header = Schedas contextual
 containers-add-button =
     .label = Adder un nove contexto
@@ -968,6 +974,10 @@ permissions-location = Geolocalisation
 permissions-location-settings =
     .label = Parametros…
     .accesskey = t
+permissions-xr = Realitate virtual
+permissions-xr-settings =
+    .label = Parametros…
+    .accesskey = t
 permissions-camera = Camera
 permissions-camera-settings =
     .label = Parametros…
@@ -1016,6 +1026,8 @@ permissions-a11y-privacy-link = Saper plus
 collection-header = Collecta e uso de datos per { -brand-short-name }
 collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
 collection-privacy-notice = Aviso de confidentialitate
+collection-health-report-telemetry-disabled = Tu non plus permitte que { -vendor-short-name } captura datos technic e de interaction. Tote le datos jam capturate essera delite intra 30 dies.
+collection-health-report-telemetry-disabled-link = Saper plus
 collection-health-report =
     .label = Permitter que { -brand-short-name } invia datos technic e de interaction a { -vendor-short-name }
     .accesskey = r
