@@ -259,6 +259,10 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "来自：">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "发件人">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "发至：">
 <!ENTITY ccAddr.label "抄送：">
@@ -267,6 +271,12 @@
 <!ENTITY newsgroupsAddr.label "新闻组：">
 <!ENTITY followupAddr.label "跟踪地址：">
 <!ENTITY subject.label "主题:">
+<!ENTITY toAddr2.label "收件人">
+<!ENTITY ccAddr2.label "抄送">
+<!ENTITY bccAddr2.label "密送">
+<!ENTITY replyAddr2.label "回复地址">
+<!ENTITY newsgroupsAddr2.label "新闻组">
+<!ENTITY subject2.label "主题">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
