@@ -8,6 +8,9 @@
 menu-file =
     .label = Pricu
     .accesskey = P
+menu-file-new-tab =
+    .label = Nova scheda
+    .accesskey = s
 menu-file-new-window =
     .label = Nova finestra
     .accesskey = N
@@ -17,6 +20,9 @@ menu-file-new-private-window =
 menu-file-open-file =
     .label = Grapi pricu…
     .accesskey = G
+menu-file-close =
+    .label = Chiuji
+    .accesskey = C
 menu-file-close-window =
     .label = Chiudi finestra
     .accesskey = d
@@ -65,7 +71,7 @@ menu-view-history-button =
 ## use on macOS.
 
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Mustra tutti li schedi

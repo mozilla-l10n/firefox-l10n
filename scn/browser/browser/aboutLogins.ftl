@@ -19,6 +19,13 @@ fxaccounts-avatar-button =
 
 ## Login
 
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-copy-username-button-text = Copia
+login-item-copied-username-button-text = Cupiatu!
+login-item-copy-password-button-text = Copia
+login-item-copied-password-button-text = Cupiatu!
+login-item-save-new-button = Sarba
 
 ## Master Password notification
 
