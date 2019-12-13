@@ -134,6 +134,14 @@ permissions-site-location-disable-label =
     .label = 禁止新的获取位置请求
 permissions-site-location-disable-desc = 所有列表外的网站将无法请求获知您的位置。禁止此权限可能会影响某些网站的功能。
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = 设置 - VR 权限
+    .style = { permissions-window.style }
+permissions-site-xr-disable-label =
+    .label = 禁止新的访问 VR 设备请求
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
