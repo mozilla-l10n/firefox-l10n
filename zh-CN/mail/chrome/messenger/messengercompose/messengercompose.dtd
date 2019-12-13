@@ -276,6 +276,7 @@
 <!ENTITY bccAddr2.label "密送">
 <!ENTITY replyAddr2.label "回复地址">
 <!ENTITY newsgroupsAddr2.label "新闻组">
+<!ENTITY followupAddr2.label "跟踪地址：">
 <!ENTITY subject2.label "主题">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
