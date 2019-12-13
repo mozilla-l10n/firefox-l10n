@@ -70,6 +70,7 @@ about-logins-intro-import = Jika info masuk Anda tersimpan dalam peramban lain, 
 login-item-new-login-title = Buat Info Masuk Baru
 login-item-edit-button = Edit
 login-item-delete-button = Hapus
+about-logins-login-item-remove-button = Hapus
 login-item-origin-label = Alamat Situs Web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -114,6 +115,9 @@ enable-password-sync-preferences-button =
         }
     .accesskey = K
 confirm-delete-dialog-title = Hapus info masuk ini?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Jangan tanyakan lagi
+    .accesskey = J
 
 ## Dialogs
 
@@ -123,6 +127,7 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
 confirm-delete-dialog-confirm-button = Hapus
+about-logins-confirm-remove-dialog-confirm-button = Hapus
 confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
 confirm-discard-changes-dialog-message = Semua perubahan yang belum disimpan akan hilang.
 confirm-discard-changes-dialog-confirm-button = Hapus Perubahan
