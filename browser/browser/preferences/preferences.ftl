@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = U hebt een sleutelwoord gekozen dat momenteel 
 ## Containers Section
 
 containers-back-link = « Teruggaan
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Terug naar Opties
+           *[other] Terug naar Voorkeuren
+        }
 containers-header = Containertabbladen
 containers-add-button =
     .label = Nieuwe container toevoegen
@@ -968,6 +974,10 @@ permissions-location = Locatie
 permissions-location-settings =
     .label = Instellingen…
     .accesskey = t
+permissions-xr = Virtual Reality
+permissions-xr-settings =
+    .label = Instellingen…
+    .accesskey = t
 permissions-camera = Camera
 permissions-camera-settings =
     .label = Instellingen…
@@ -1016,6 +1026,7 @@ permissions-a11y-privacy-link = Meer info
 collection-header = { -brand-short-name }-gegevensverzameling en -gebruik
 collection-description = We streven ernaar u keuzes te bieden en alleen te verzamelen wat we nodig hebben om { -brand-short-name } voor iedereen beschikbaar te maken en te verbeteren. We vragen altijd toestemming voordat we persoonlijke gegevens ontvangen.
 collection-privacy-notice = Privacyverklaring
+collection-health-report-telemetry-disabled-link = Meer info
 collection-health-report =
     .label = { -brand-short-name } toestaan om technische en interactiegegevens naar { -vendor-short-name } te verzenden
     .accesskey = r
