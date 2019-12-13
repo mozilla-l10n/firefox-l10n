@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Blocar nove requestas de acceder a tu position
 permissions-site-location-disable-desc = Isto impedira qualcunque sitos web non listate antea de demandar licentia a acceder tu position. Blocar le accesso a tu position pote infringer alcun functionalitate del sito web.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Parametros - Permissiones de realitate virtual
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Le sitos web sequente ha requestate de acceder a tu apparatos de realitate virtual. Tu pote specificar qual sitos web pote acceder a iste apparatos. Tu pote etiam blocar nove requestas de accesso a istes.
+permissions-site-xr-disable-label =
+    .label = Blocar nove requestas de acceder a tu apparatos de realitate virtual
+permissions-site-xr-disable-desc = Isto impedi a omne sitos web non listate hic supra de requestar le accesso a tu apparatos de realitate virtual. Blocar iste accesso pote rumper alcun functiones de sitos web.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
