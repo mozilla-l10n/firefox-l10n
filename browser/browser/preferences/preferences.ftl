@@ -577,6 +577,12 @@ search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei 
 ## Containers Section
 
 containers-back-link = « Ewch Nôl
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Nôl i Dewisiadau
+           *[other] Nol i Dewisiadau
+        }
 containers-header = Tabiau Cynwysyddion
 containers-add-button =
     .label = Ychwanegu Cynhwysydd Newydd
@@ -984,6 +990,10 @@ permissions-location = Lleoliad
 permissions-location-settings =
     .label = Gosodiadau…
     .accesskey = d
+permissions-xr = Rhithwirionedd
+permissions-xr-settings =
+    .label = Gosodiadau…
+    .accesskey = G
 permissions-camera = Camera
 permissions-camera-settings =
     .label = Gosodiadau…
@@ -1032,6 +1042,8 @@ permissions-a11y-privacy-link = Dysgu rhagor
 collection-header = Casglu Data a'r Defnydd o { -brand-short-name }
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
 collection-privacy-notice = Rhybudd Preifatrwydd
+collection-health-report-telemetry-disabled = Nid ydych bellach yn caniatáu i { -vendor-short-name } ddal data technegol a rhyngweithiol. Bydd holl ddata'r gorffennol yn cael ei ddileu cyn pen 30 diwrnod.
+collection-health-report-telemetry-disabled-link = Dysgu rhagor
 collection-health-report =
     .label = Caniatáu i { -brand-short-name } anfon data technegol a rhyngweithio i { -vendor-short-name }
     .accesskey = r
