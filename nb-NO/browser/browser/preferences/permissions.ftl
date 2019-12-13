@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = Blokker nye forespørsler som ber om tilgang til plasseringen din
 permissions-site-location-disable-desc = Dette forhindrer nettsteder som ikke er oppført ovenfor, og ber om tillatelse til å få tilgang til posisjonen din. Hvis du blokkerer tilgang til posisjonen din, kan det hende at noen nettstedsfunksjoner ikke vil fungere.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Innstillinger - Tillatelser for virtuell virkelighet
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
