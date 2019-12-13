@@ -40,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = Sinkronkan Sekarang
     .accesskey = S
 fxa-sign-in = Masuk ke { -sync-brand-short-name }
+turn-on-sync = Aktifkan { -sync-brand-short-name }
