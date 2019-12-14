@@ -64,7 +64,7 @@
 <!ENTITY  tab_offline_version "ऑफलाइन आवृत्ती दाखवत आहे">
 
 <!ENTITY  crash_reporter_title "&brandShortName; आपत्ती बातमीदार">
-<!ENTITY  crash_message2 "&brandShortName;मध्ये समस्या होती आणि त्यास आपत्ती झाली. आपण परत सुरु करताना &brandShortName; सुरुवाती पानावर आपल्या टॅब्सची यादी असेल.">
+<!ENTITY  crash_message2 "&brandShortName; मध्ये समस्या होती आणि त्यास आपत्ती झाली. आपण परत सुरु करताना &brandShortName; सुरुवाती पानावर आपल्या टॅबची यादी असेल.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName;ला या आपत्तीबद्दल सांगा जेणेकरुन ते हे ठीक करु शकतील">
 <!ENTITY  crash_include_url2 "मी असलेल्या पानाचा पत्ता समाविष्ट करा">
 <!ENTITY  crash_sorry "आम्ही क्षमस्व आहोत">
@@ -150,7 +150,7 @@
 <!ENTITY one_tab "1 टॅब">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; टॅब्स">
+<!ENTITY num_tabs2 "&formatD; टॅब">
 <!ENTITY new_tab_opened "नवीन टॅब उघडले">
 <!ENTITY new_private_tab_opened "नवीन खाजगी टॅब उघडला">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -217,10 +217,10 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; बद्दल, FAQs, अभिप्राय">
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
-<!ENTITY pref_category_logins "लॉगिन्स">
+<!ENTITY pref_category_logins "लॉगिन">
 <!ENTITY pref_learn_more "अधिक जाणा">
 <!ENTITY pref_category_installed_search_engines "इंस्टॉल केलेले शोध इंजिन">
-<!ENTITY pref_category_add_search_providers "आणखी शोध पुरविणारे समाविष्ट करा">
+<!ENTITY pref_category_add_search_providers "आणखी शोध इंजिन समाविष्ट करा">
 <!ENTITY pref_category_search_restore_defaults "शोध इंजिन पुनःस्थापित करा">
 <!ENTITY pref_search_restore_defaults "पूर्वनिर्धारित सेटींग्स् पूर्वस्थित करा">
 <!ENTITY pref_search_restore_defaults_summary "पूर्वनिर्धारित पूर्वस्थित">
@@ -229,19 +229,19 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट आपल्या शोध पुरविणारे यादीत समाविष्ट करा.">
+<!ENTITY pref_search_hint2 "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट आपल्या शोध इंजिन यादीत समाविष्ट करा.">
 <!ENTITY pref_category_advanced "प्रगत">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "टॅब्स, प्लगइन, विकसक साधने मूळस्थितीत आणा">
+<!ENTITY pref_category_advanced_summary3 "टॅब, प्लगइन, विकसक साधने मूळस्थितीत आणा">
 <!ENTITY pref_category_notifications "सूचना">
 <!ENTITY pref_category_notifications_summary2 "नवीन वैशिष्ट्ये, उत्पादन सल्ले">
 <!ENTITY pref_developer_remotedebugging_usb "USB द्वारे दूरस्थ डीबगिंग">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi द्वारे दूरस्थ डीबगिंग">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डीबगिंगसाठी आपल्या उपकरणामधे QR कोड वाचक असणे आवश्यक आहे.">
-<!ENTITY pref_remember_signons2 "लॉगिन्स लक्षात ठेवा">
-<!ENTITY pref_manage_logins "लॉगिन्स व्यवस्थापित करा">
+<!ENTITY pref_remember_signons2 "लॉगिन लक्षात ठेवा">
+<!ENTITY pref_manage_logins "लॉगिन व्यवस्थापित करा">
 
 <!ENTITY pref_category_home "मुख्य पटल">
 <!ENTITY pref_category_home_summary "मुख्यपृष्ठ सानुकूलीत करा">
@@ -253,7 +253,7 @@
 <!ENTITY pref_category_home_homepage "मुखपृष्ठ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "नवीन टॅब्स साठी सुद्धा वापरा">
+<!ENTITY home_homepage_every_new_tab "नवीन टॅब साठी सुद्धा वापरा">
 <!ENTITY home_homepage_title "मुखपृष्ठ लावा">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -333,7 +333,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs2 "सानुकूल टॅब्स">
+<!ENTITY pref_custom_tabs2 "सानुकूल टॅब">
 <!ENTITY pref_custom_tabs_summary4 "अँप ला जलद चालू होणाऱ्या सानुकूल टॅब मध्ये वेब मजकूर ऊघडण्यास परवानगी द्या.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
@@ -343,14 +343,14 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ची प्रत बनवली">
 
-<!ENTITY pref_pwa "प्रगतीशील वेब अॅप्स">
-<!ENTITY pref_pwa_summary "वेब अॅप्सला मुख्य पडद्यावर जोडण्यासाठी परवानगी द्या">
+<!ENTITY pref_pwa "प्रगतीशील वेब अॅप">
+<!ENTITY pref_pwa_summary "वेब अॅपला मुख्य पडद्यावर जोडण्यासाठी परवानगी द्या">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; मध्ये टॅब साठवले">
 <!ENTITY tab_queue_toast_action "आता उघडा">
 <!ENTITY tab_queue_prompt_title "अनेक दुवे उघडत आहात?">
 <!ENTITY tab_queue_prompt_text4 " &brandShortName;पुढच्या वेळी उघडेपर्यंत साठवा.">
-<!ENTITY tab_queue_prompt_tip_text2 "सेटिंग्समधुन आपण हे नंतर बदलु शकता">
+<!ENTITY tab_queue_prompt_tip_text2 "सेटिंगमधुन आपण हे नंतर बदलु शकता">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "इतर ॲप्सवर परमिट ड्रॉईंग सुरू करा">
@@ -358,7 +358,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "सध्या नाही">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "सेटिंग्स् मध्ये जा">
+<!ENTITY tab_queue_prompt_settings_button "सेटिंग मध्ये जा">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_prompt "&#8230; रांगेत नवीन टॅब जोडत आहे">
@@ -367,7 +367,7 @@ shown from Android O while a tab is being queued.-->
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; टॅब्स वाट पाहत आहेत">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; टॅब वाट पाहत आहेत">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 टॅब वाट पाहत आहे">
@@ -386,7 +386,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_clear_on_exit_title3 "बाहेर पडताना खाजगी माहिती पुसुन टाका">
 <!ENTITY pref_clear_on_exit_summary2 "जेव्हा आपण मुख्य मेनू मधून \&quot;बंद\&quot; निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
 <!ENTITY pref_clear_on_exit_dialog_title "कोणती माहिती पुसायची ते निवडा">
-<!ENTITY pref_restore_tabs "टॅब्स मूळस्थितीत आणा">
+<!ENTITY pref_restore_tabs "टॅब मूळस्थितीत आणा">
 <!ENTITY pref_restore_always "नेहमी पूर्वस्थित करा">
 <!ENTITY pref_restore_quit "&brandShortName; बंद केल्यावर पूर्वस्थित करु नका">
 
@@ -408,7 +408,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
 <!ENTITY pref_sync_default_title "Firefox खाते">
 <!ENTITY pref_sync2 "साइन इन">
-<!ENTITY pref_sync_summary2 "आपले टॅब्स, वाचनखूणा, लॉगइन्स, इतिहास यांचा ताळमेळ साधा">
+<!ENTITY pref_sync_summary2 "आपले टॅब, वाचनखूणा, लॉगइन्स, इतिहास यांचा ताळमेळ साधा">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_history_search_suggestions "शोध इतिहास दाखवा">
 <!ENTITY pref_import_options "विकल्प आयात करा">
@@ -423,8 +423,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_cache "कॅशे">
 <!ENTITY pref_private_data_offlineApps "ऑफलाइन संकेतस्थळ माहिती">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
-<!ENTITY pref_private_data_downloadFiles2 "डाउनलोडस्">
-<!ENTITY pref_private_data_syncedTabs "ताळमेळीत झालेले टॅब्स">
+<!ENTITY pref_private_data_downloadFiles2 "डाउनलोड">
+<!ENTITY pref_private_data_syncedTabs "सिंक झालेले टॅब">
 
 <!ENTITY pref_default_browser2 "&brandShortName; ला पूर्वनिर्धारित ब्राउझर बनवा">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
@@ -495,7 +495,7 @@ shown from Android O while a tab is being queued.-->
 
 <!ENTITY addons "ॲड-ऑन्स">
 <!ENTITY logins "लॉगिन">
-<!ENTITY downloads "डाउनलोडस्">
+<!ENTITY downloads "डाउनलोड">
 <!ENTITY char_encoding "कॅरेक्टर एनकोडिंग">
 
 <!ENTITY share "शेअर">
@@ -513,7 +513,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY new_private_tab "नवीन खाजगी टॅब">
 <!ENTITY close_all_tabs "सर्व टॅब बंद करा">
 <!ENTITY close_private_tabs "खाजगी टॅब बंद करा">
-<!ENTITY tabs_normal "टॅब्स">
+<!ENTITY tabs_normal "टॅब">
 <!ENTITY tabs_private "खाजगी">
 <!ENTITY set_image_fail "प्रतिमा सेट करण्यात असमर्थ">
 <!ENTITY set_image_path_fail "प्रतिमा जतन करण्यात असमर्थ">
@@ -555,7 +555,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "शीर्षस्थानी असलेल्या साइटवर पिन करा">
+<!ENTITY contextmenu_pin_to_top_sites "शीर्षस्थान साइटवर पिन करा">
 <!ENTITY contextmenu_unpin_from_top_sites "शीर्ष साइटवरील अनपिन करा">
 <!ENTITY contextmenu_add_search_engine "शोध इंजिन जोडा">
 
@@ -646,15 +646,15 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
 <!ENTITY home_bookmarks_empty "आपण साठवलेल्या वाचनखूणा येथे दिसतील.">
 <!ENTITY home_closed_tabs_title2 "नुकतेच बंद केलेले">
-<!ENTITY home_last_tabs_empty "आपल्या अलिकडच्या टॅब्स येथे दिसतील.">
+<!ENTITY home_last_tabs_empty "आपल्या अलीकडील टॅब येथे दिसतील.">
 <!ENTITY home_restore_all "सर्व मूळस्थितीत आणा">
-<!ENTITY home_closed_tabs_number "&formatD; टॅब्स">
+<!ENTITY home_closed_tabs_number "&formatD; टॅब">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 टॅब">
 <!ENTITY home_most_recent_empty "आपण अगदी अलिकडे भेट दिलेली संकेतस्थळे येथे दिसतील.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "प्स्स: &formatS1; वापरून, नवीन खाजगी टॅब&formatS2; आपला इतिहास जतन करणार नाही.">
+<!ENTITY home_most_recent_emptyhint2 "शुकशुक: &formatS1;नवीन खाजगी टॅब&formatS2; वापरून, आपला इतिहास जतन करणार नाही.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -681,7 +681,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_pinned_site "पिन केलेली साईट">
 <!ENTITY home_unpinned_site "पिन काढलेली साईट">
 
-<!ENTITY remote_tabs_panel_moved_title "माझ्या टॅब्स कुठे गेल्या ?">
+<!ENTITY remote_tabs_panel_moved_title "माझे टॅब कुठे गेले?">
 <!ENTITY remote_tabs_panel_moved_desc "आम्ही आपले इतर उपकरणावरील टॅब आपल्या मुख्यपृष्ठावर एका पॅनेलमध्ये हलवले आहेत जेणेकरून प्रत्येक वेळी नवीन टॅब उघडताना ते सहज उपलब्ध होतील.">
 <!ENTITY remote_tabs_panel_moved_link "मला माझ्या नवीन पॅनलमध्ये न्या.">
 
@@ -842,8 +842,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing_description "भेट दिलेल्या साईट किंवा पृष्ठांसंबंधी माहिती न साठविता कुटुंबातील सदस्यांना वेवसाईट ब्राउझ करण्याची परवानगी देते.">
 <!ENTITY restrictable_feature_clear_history "इतिहास पुसून टाका">
 <!ENTITY restrictable_feature_clear_history_description "भेट दिलेल्या साईट किंवा पृष्ठांसंबंधी माहिती नष्ट करण्याची कुटुंबातील सदस्यांना परवानगी देते.">
-<!ENTITY restrictable_feature_advanced_settings "प्रगत सेटिंग्स्">
-<!ENTITY restrictable_feature_advanced_settings_description "यात वाचनखूणा आयात करणे, टॅब्स् मूळस्थीतीत आणणे, आणि स्वयंचलीत अद्यावतीकरण याचा समावेश आहे. कोणत्याही कुटुंबातील सदस्यासाठी सोप्या सेटींग्स साठी हे बंद करा.">
+<!ENTITY restrictable_feature_advanced_settings "प्रगत सेटिंग">
+<!ENTITY restrictable_feature_advanced_settings_description "यात वाचनखूणा आयात करणे, टॅब मूळस्थीतीत आणणे, आणि स्वयंचलीत अद्यतन याचा समावेश आहे. कोणत्याही कुटुंबातील सदस्यासाठी सोप्या सेटींग साठी हे बंद करा.">
 <!ENTITY restrictable_feature_camera_microphone "कॅमेरा व मायक्रोफोन">
 <!ENTITY restrictable_feature_camera_microphone_description "कुटुंबातील सदस्यांना रिअल टाइम मध्ये वेबसाइटवर संवाद साधण्यासाठी परवानगी देते.">
 <!ENTITY restrictable_feature_block_list "सूची ब्लॉक करा">
@@ -885,7 +885,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; मध्ये स्वागत आहे">
-<!ENTITY activity_stream_signin_description "आपल्या फायरफॉक्स खात्यासह बुकमार्क, संकेतशब्द आणि बरेच काही सिंक करणे प्रारंभ करा.">
+<!ENTITY activity_stream_signin_description "आपल्या Firefox खात्यासह बुकमार्क, संकेतशब्द आणि बरेच काही सिंक करणे प्रारंभ करा.">
 <!ENTITY activity_stream_signup_button "साइन अप करा">
 <!ENTITY activity_stream_signin_prompt "आधीपासूनच एक खाते आहे?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->

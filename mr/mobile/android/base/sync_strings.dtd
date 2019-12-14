@@ -5,6 +5,9 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox ताळमेळ">
+
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
 <!ENTITY syncBrand.shortName.label "ताळमेळ">
 
 <!-- Main titles. -->
@@ -19,7 +22,7 @@
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'लॉगइन्स'>
 <!ENTITY sync.configure.engines.title.history 'इतिहास'>
-<!ENTITY sync.configure.engines.title.tabs 'टॅब्स'>
+<!ENTITY sync.configure.engines.title.tabs 'टॅब'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -47,7 +50,7 @@
 <!ENTITY fxaccount_back_to_browsing 'परत ब्राउझिंगकडे'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label;ला जोडा'>
-<!ENTITY fxaccount_getting_started_description2 'आपल्या टॅब्स, वाचनखूणा, लॉगइन्स आणि बऱ्याच ताळमेळीसाठी साइन इन करा.'>
+<!ENTITY fxaccount_getting_started_description2 'आपल्या टॅब, वाचनखूणा, लॉगइन आणि बऱ्याच सिंकसाठी साइन इन करा.'>
 <!ENTITY fxaccount_getting_started_get_started 'सुरु करा'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; ची जुनी आवृत्ती वापरताय?'>
 
@@ -66,7 +69,7 @@
 <!ENTITY fxaccount_status_bookmarks 'वाचनखूणा'>
 <!ENTITY fxaccount_status_history 'इतिहास'>
 <!ENTITY fxaccount_status_passwords2 'लॉगइन्स'>
-<!ENTITY fxaccount_status_tabs 'टॅब्स उघडा'>
+<!ENTITY fxaccount_status_tabs 'टॅब उघडा'>
 <!ENTITY fxaccount_status_additional_settings 'अतिरिक्त सेटिंग'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'फक्त वाय-फायवर ताळमेळ करा'>
 <!-- Localization note: Only affects background syncing, user initiated
