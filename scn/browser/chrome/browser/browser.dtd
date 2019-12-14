@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazzioni ammucciata)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazzioni privata)">
 
 <!ENTITY appmenu.tooltip                     "Rapi minù">
 <!ENTITY navbarOverflow.label                "Cchiú strummenta…">
@@ -234,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Nova finestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "Nova finestra ammucciata">
+<!ENTITY newPrivateWindow.label     "Nova finestra privata">
 <!ENTITY newPrivateWindow.accesskey "a">
 
 <!ENTITY editMenu.label         "Cancia">
