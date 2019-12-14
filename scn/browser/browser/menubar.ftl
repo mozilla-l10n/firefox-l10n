@@ -24,10 +24,10 @@ menu-file-close =
     .label = Chiuji
     .accesskey = C
 menu-file-close-window =
-    .label = Chiudi finestra
-    .accesskey = d
+    .label = Chiuji finestra
+    .accesskey = j
 menu-file-save-page =
-    .label = Sarba la pàggina comu…
+    .label = Sarba a pàggina comu…
     .accesskey = c
 menu-file-print =
     .label = Stampa…
@@ -41,12 +41,18 @@ menu-file-go-offline =
 menu-edit =
     .label = Cancia
     .accesskey = C
+menu-edit-cut =
+    .label = Tagghia
+    .accesskey = T
 menu-edit-copy =
     .label = Copia
     .accesskey = C
+menu-edit-paste =
+    .label = Ncoḍḍa
+    .accesskey = N
 menu-edit-delete =
-    .label = Scancella
-    .accesskey = S
+    .label = Cancella
+    .accesskey = l
 menu-edit-select-all =
     .label = Scegghi tuttu
     .accesskey = t
@@ -74,7 +80,7 @@ menu-view-history-button =
 
 
 menu-view-show-all-tabs =
-    .label = Mustra tutti li schedi
+    .label = Mustra tutti i schedi
     .accesskey = t
 
 ## History Menu
@@ -83,22 +89,22 @@ menu-history =
     .label = Crunuluggía
     .accesskey = u
 menu-history-show-all-history =
-    .label = Mustra tutta la crunuluggía
+    .label = Mustra tutta a crunuluggía
 menu-history-restore-last-session =
-    .label = Arripigghia la sissioni pricidenti
+    .label = Arripigghia a sissiuni pricidenti
 
 ## Bookmarks Menu
 
 menu-bookmarks-show-all =
-    .label = Mustra tutti li nzingalibbra
+    .label = Mustra tutti i nzingalibbra
 menu-bookmarks-all-tabs =
-    .label = Agghiunci tutti li schedi a li nzingalibbra…
+    .label = Agghiunci tutti i schedi ê nzingalibbra…
 menu-bookmarks-toolbar =
     .label = Sbarra dî nzingalibbra
 menu-bookmarks-other =
-    .label = Àutri nzingalibbra
+    .label = Autri nzingalibbra
 menu-bookmarks-mobile =
-    .label = Nzingalibbra dû smarfu
+    .label = Nzingalibbra dû cillulari
 
 ## Tools Menu
 
@@ -115,7 +121,7 @@ menu-tools-page-source =
     .label = Còdici dâ pàggina
     .accesskey = d
 menu-tools-page-info =
-    .label = Nfurmazzioni dâ pàggina
+    .label = Nfurmazziuna dâ pàggina
     .accesskey = N
 menu-preferences =
     .label =
@@ -137,17 +143,17 @@ menu-window-menu =
 ## Help Menu
 
 menu-help =
-    .label = Aiutu
+    .label = Ajutu
     .accesskey = A
 menu-help-product =
-    .label = Aiutu di { -brand-shorter-name }
+    .label = Ajutu di { -brand-shorter-name }
     .accesskey = A
 menu-help-show-tour =
     .label = Vísita cunnuciuta di { -brand-shorter-name }
     .accesskey = V
 menu-help-troubleshooting-info =
-    .label = Nfurmazzioni p'arrisòrbiri prubblemi
+    .label = Nfurmazziuna p'arrisòrbiri prubblemi
     .accesskey = p
 menu-help-feedback-page =
-    .label = Manna cummentu…
+    .label = Manna un cummentu…
     .accesskey = c
