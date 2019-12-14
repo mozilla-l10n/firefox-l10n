@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Blokiraj nove zahtjeve za pristup vašoj lokaciji
 permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa vašoj lokaciji za svaku stranicu koja nije navedena. Blokiranje pristupa vašoj lokaciji može slomiti neke značajke web stranica.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Postavke - dopuštenja virtualne stvarnosti
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Sljedeće web stranice zatražile su pristup Vašim uređajima za virtualnu stvarnost. Možete odabrati kojim web stranicama ćete dopustiti pristup Vašim uređajima za virtualnu stvarnost. Možete i blokirati nove zahtjeve za pristup Vašim uređajima za virtualnu stvarnost.
+permissions-site-xr-disable-label =
+    .label = Blokiraj nove zahtjeve za pristup Vašim uređajima za virtualnu stvarnost
+permissions-site-xr-disable-desc = Ovo će spriječiti bilo koju web stranicu koja nije gore navedena da zatraži pristup Vašim uređajima za virtualnu stvarnost. Blokiranje pristupa Vašim uređajima za virtualnu stvarnost može slomiti neke značajke web stranica.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

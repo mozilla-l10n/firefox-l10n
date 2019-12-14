@@ -59,17 +59,23 @@ abuse-report-messagebar-action-cancel = Odustani
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Oštećuje moje računalo i podatke
+abuse-report-damage-reason-v2 = Oštetilo je moje računalo ili ugrozilo moje podatke
 abuse-report-damage-example = Primjer: Ubrizgani zlonamjerni program ili ukradeni podaci
 abuse-report-spam-reason = Stvara neželjenu poštu (spam) ili reklame
+abuse-report-spam-reason-v2 = Sadrži neželjeni sadržaj ili ubacuje nepoželjne oglase
 abuse-report-spam-example = Primjer: Umeće reklame na web stranice
 abuse-report-settings-reason = Promijenio je moj pretraživač, početnu stranicu ili novu karticu bez da me obavijestio ili pitao za dopuštenje
+abuse-report-settings-reason-v2 = Promijenilo je moju tražilicu, početnu stranicu ili novu karticu bez obavještavanja ili traženja dopuštenja
 abuse-report-settings-suggestions = Prije prijave dodatka, možete pokušati izmijeniti svoje postavke:
 abuse-report-settings-suggestions-search = Izmijenite svoje zadane postavke pretraživanja
 abuse-report-settings-suggestions-homepage = Izmijenite svoju početnu stranicu ili novu karticu
 abuse-report-deceptive-reason = Pretvara se da je nešto što nije
+abuse-report-deceptive-reason-v2 = Tvrdi da je nešto što nije
 abuse-report-deceptive-example = Primjer: Obmanjujući opis ili slike
 abuse-report-broken-reason-extension = Ne radi, kvari web stranice ili usporava { -brand-product-name }
 abuse-report-broken-reason-theme = Ne radi ili kvari prikaz preglednika
+abuse-report-broken-reason-extension-v2 = Ne radi, slama web-stranice ili usporava { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = Ne radi ili slama prikaz preglednika
 abuse-report-broken-example = Primjer: Značajke su spore, teško ih je koristiti ili ne rade, dijelovi web stranica se ne žele učitati ili izgledaju kako ne bi trebali
 abuse-report-broken-suggestions-extension =
     Zvuči kao da ste pronašli pogrešku u programu. Uz slanje prijave ovdje, najbolji način
@@ -80,9 +86,11 @@ abuse-report-broken-suggestions-theme =
     za rješavanje problema s funkcionalnosti je da kontaktirate razvijatelja motiva.
     <a data-l10n-name="support-link">Posjetite web stranicu motiva</a> kako biste pronašli informacije o razvijatelju.
 abuse-report-policy-reason = Sadržaj mržnje, nasilja ili ilegalni
+abuse-report-policy-reason-v2 = Sadrži mržnju, nasilan ili ilegalan sadržaj
 abuse-report-policy-suggestions =
     Napomena: Problemi s autorskim pravima i zaštitnim znakovima moraju se prijaviti u
     odvojenom procesu. <a data-l10n-name="report-infringement-link">Koristite ova upute</a> za prijavu problema.
 abuse-report-unwanted-reason = Nikad nisam želio ovaj dodatak i ne mogu ga ukloniti
+abuse-report-unwanted-reason-v2 = Nisam to želio i ne znam kako to ukloniti
 abuse-report-unwanted-example = Primjer: Aplikacija instalirana bez mog dopuštenja
 abuse-report-other-reason = Nešto drugo

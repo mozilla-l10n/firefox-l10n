@@ -157,6 +157,9 @@ intl-regional-prefs = Regionalne postavke
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Daljinsko uklanjanje pogrešaka (Chromium Protocol)
+remote-debugging-accepting-connections = Prihvaćanje veza
+remote-debugging-url = URL
 
 
 
