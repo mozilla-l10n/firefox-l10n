@@ -710,7 +710,7 @@
 <!ENTITY threadColumn.label "Nitka">
 <!ENTITY fromColumn.label "Wót">
 <!ENTITY recipientColumn.label "Dostawaŕ">
-<!ENTITY correspondentColumn.label "Wótpósłarje">
+<!ENTITY correspondentColumn.label "Wótpósłaŕ">
 <!ENTITY subjectColumn.label "Tema">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Priorita">
