@@ -259,6 +259,9 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Da:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY fromAddr2.label "Da">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "A:">
 <!ENTITY ccAddr.label "Cc:">
@@ -267,6 +270,12 @@
 <!ENTITY newsgroupsAddr.label "Gruppo discussione:">
 <!ENTITY followupAddr.label "Inoltra a:">
 <!ENTITY subject.label "Oggetto:">
+<!ENTITY toAddr2.label "A">
+<!ENTITY ccAddr2.label "Cc">
+<!ENTITY bccAddr2.label "Ccn">
+<!ENTITY replyAddr2.label "Rispondi a">
+<!ENTITY newsgroupsAddr2.label "Gruppo di discussione">
+<!ENTITY subject2.label "Oggetto">
 <!ENTITY subject.accesskey "t">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
