@@ -11,7 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Mposta li pulìtichi ê quali WebExtensions po accèdiri attraversu chrome.storage.managed.
-policy-AppUpdateURL = Mposta n'URL pirsunalizzatu pi l'aggiurnamentu di l'appricazziuni.
+policy-AppUpdateURL = Mposta n'URL pirsunalizzatu pi l'attualizzazziuni di l'app.
 policy-Authentication = Cunfijura l'autenticazziuni ntrigrata pî siti ca la suppòrtanu.
 policy-BlockAboutAddons = Blocca l'accessu ô Gisturi di agghiuncitini (about:addons).
 policy-BlockAboutConfig = Blocca l'accessu â pàggina about:config.
@@ -53,7 +53,7 @@ policy-EnableTrackingProtection = Abbìlita o disabbìlita lu Bloccu dû cuntinu
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Nstalla, disinstalla o blocca li stinziuna. La pussibbilità di scègghiri Nstalla pigghia l'URL o li pircursi comu paràmitri. Li pussibbilità di scègghiri Disinstalla o Bluccatu pìgghianu l'ID dî stinziuna.
-policy-ExtensionUpdate = Abbìlita o disabbìlita l'aggiurnamentu autumàticu dî stinziuna.
+policy-ExtensionUpdate = Abbìlita o disabbìlita l'attualizzazziuni autumàtica dî stinziuna.
 policy-FirefoxHome = Cunfijura la pàggina mastra di Firefox.
 policy-FlashPlugin = Cunzenti o nija l'usu dû cumpunenti agghiuntivu Flash.
 policy-HardwareAcceleration = Si è fausu, astuta accillirazziuni hardware.
@@ -66,14 +66,13 @@ policy-NewTabPage = Abbìlita o disabbìlita la pàggina Scheda nova.
 policy-NoDefaultBookmarks = Disabbìlita la criazziuni di nzingalibbra pridifinuti lijati a { -brand-short-name }, e li Nzingalibbra sperti (Cchiù viitati, Targhetti ricenti). Nota: sta dicisiuni è fficaci sulu si usata prima dâ prima sicuzziuni dû prufilu.
 policy-OfferToSaveLogins = Custrinci li mpustazziuna a cunzèntiri a { -brand-short-name } di òffriri di ricurdari li cridinziali sarbati. Si accèttanu valura veri e fausi.
 policy-OverrideFirstRunPage = Gnora la pàggina di prima sicuzziuni. Mposta stu pruvidimentu comu vacanti si vo' disabbilitari la pàggina di prima sicuzziuni.
-policy-OverridePostUpdatePage = Gnora la pàggina di post-aggiurnamentu "Quali su' li nuvità". Mposta stu pruvidimentu comu vacanti si vo' disabbilitari la pàggina di post-aggiurnamentu.
+policy-OverridePostUpdatePage = Cancia a pàggina “Nuvità” doppu n'attualizzazziuni. Mposta sta pulìtica comu vacanti si vo' disabbilitari a pàggina di post-attualizzazziuni.
 policy-Permissions = Cunfijura li pirmisi pi càmira, micròfunu, lucalizzazziuni e nutìfichi.
 policy-PopupBlocking = Cunzenti a certi siti di mustrari finestri autumatichi comu mpustazziuni pridifinuta.
 policy-Preferences = Mposta e blocca lu valuri pi un suttanzemi di prifirenzi.
 policy-PromptForDownloadLocation = Spia unni sarbari li plichi quannu li scàrrichi.
 policy-Proxy = Cunfijura mpustazziuna dû proxy.
 policy-RequestedLocales = Mposta la lista di plichi lucali nicissari pi l'appricazziuni 'n ùrdini di prifirenza.
-policy-SanitizeOnShutdown = Cancella tutti li dati di navigazziuni chujennu.
 policy-SanitizeOnShutdown2 = Cancella li dati di navigazziuni chujennu.
 policy-SearchBar = Mposta la lucalizzazziuni pridifinuta nnâ barra di ricerca. L'utenti la po ancora pirsunalizzari.
 policy-SearchEngines = Cunfijura mpustazziuna dû muturi di ricerca. Stu pruvidimentu è dispunìbbili sulu nnâ virsiuni Extended Support Release (ESR).

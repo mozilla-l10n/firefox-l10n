@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = N'aggiurnamentu novu di { -brand-shorter-name } è dispunìbbili.
-    .buttonlabel = Scàrrica aggiunamentu
+    .label = N'attualizzazziuni nova di { -brand-shorter-name } è dispunìbbili.
+    .buttonlabel = Scàrrica attualizzazziuni
     .buttonaccesskey = S
     .secondarybuttonlabel = Poi
     .secondarybuttonaccesskey = P
