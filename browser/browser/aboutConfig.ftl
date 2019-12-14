@@ -21,7 +21,7 @@ about-config-intro-warning-button = Prihvati rizik i nastavi
 
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = Mijenjanje ovih postavki može utjecati na perfomancu ili sigurnost od { -brand-short-name }.
+about-config-caution-text = Mijenjanje ovih postavki može utjecati na perfomanse ili sigurnost programa { -brand-short-name }.
 about-config-page-title = Napredne postavke
 about-config-search-input1 =
     .placeholder = Traži naziv postavke

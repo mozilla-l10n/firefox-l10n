@@ -565,6 +565,12 @@ search-keyword-warning-bookmark = Odabrali ste ključnu riječ koju koristi zabi
 ## Containers Section
 
 containers-back-link = « Idi natrag
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Nazad na Mogućnosti
+           *[other] Nazad na Mogućnosti
+        }
 containers-header = Sadržajne kartice
 containers-add-button =
     .label = Dodaj novi spremnik
@@ -587,6 +593,9 @@ sync-signedout-account-create = Nemate račun? Započnite
     .accesskey = r
 sync-signedout-account-signin =
     .label = Prijavite se…
+    .accesskey = i
+sync-signedout-account-signin2 =
+    .label = Prijavite se u { -sync-brand-short-name }…
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -969,6 +978,10 @@ permissions-location = Lokacija
 permissions-location-settings =
     .label = Postavke…
     .accesskey = l
+permissions-xr = Virtualna stvarnost
+permissions-xr-settings =
+    .label = Postavke…
+    .accesskey = t
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Postavke…
@@ -1017,6 +1030,8 @@ permissions-a11y-privacy-link = Saznajte više
 collection-header = { -brand-short-name } korištenje i skupljanje podataka
 collection-description = Težimo da vam omogućimo izbor i prikupljamo samo onoliko koliko nam treba da omogućimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego li počmemo primati osobne informacije.
 collection-privacy-notice = Politika privatnosti
+collection-health-report-telemetry-disabled = Više ne dopuštate { -vendor-short-name } snimanje tehničkih i podataka o interakciji. Svi stari podaci biti će obrisani u roku od 30 dana.
+collection-health-report-telemetry-disabled-link = Saznajte više
 collection-health-report =
     .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke interakcije { -vendor-short-name }
     .accesskey = r

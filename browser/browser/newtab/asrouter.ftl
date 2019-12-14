@@ -126,14 +126,30 @@ cfr-whatsnew-lockwise-take-link-text = Preuzmi aplikaciju
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Gledaj videozapise dok pregledavaš
+cfr-whatsnew-pip-body = Način rada Slika u slici izdvoji videozapis u plutajući prozor da biste ga mogli gledati tijekom rada u drugim karticama.
 cfr-whatsnew-pip-cta = Saznaj više
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Manje dosadnih skočnih prozora stranica
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } sada blokira web stranice od automatskog zahtijevanja da Vam šalju skočne poruke.
 cfr-whatsnew-permission-prompt-cta = Saznaj više
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Jedinstvenih otisaka blokirano
+        [few] Jedinstvenih otisaka blokirano
+       *[other] Jedinstvenih otisaka blokirano
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokira mnoge pratitelje jedinstvenih otisaka koji tajno skupljaju informacije o vašem uređaju i radnjama kako bi stvorili vaš reklamni profil.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Jedinstveni otisci
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } može blokirati pratitelje jedinstvenih otisaka koji tajno skupljaju informacije o vašem uređaju i radnjama kako bi stvorili vaš reklamni profil.
 
 ## Bookmark Sync
 
