@@ -34,7 +34,7 @@ browser-main-window-content-title =
        *[default] { $title } - { -brand-full-name }
     }
 urlbar-identity-button =
-    .aria-label = Talìa nfurmazzioni dû situ
+    .aria-label = Talìa nfurmazziuna dû situ
 
 ## Tooltips for images appearing in the address bar
 

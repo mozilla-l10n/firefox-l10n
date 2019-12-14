@@ -371,7 +371,7 @@ network-settings-title = Mpustazziuna riti
 network-proxy-connection-description = Cunfijura comu { -brand-short-name } si cunnetti a internet.
 network-proxy-connection-learn-more = Cchiù nfurmazziuna
 network-proxy-connection-settings =
-    .label = Mpustazzioni…
+    .label = Mpustazziuna…
     .accesskey = M
 
 ## Home Section

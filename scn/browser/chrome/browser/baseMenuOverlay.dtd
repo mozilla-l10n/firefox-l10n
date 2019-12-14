@@ -12,6 +12,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Aiutu"> 
 <!ENTITY helpMenuWin.accesskey    "A">
+
 <!ENTITY aboutProduct2.label      "Supra &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "S">
 <!ENTITY productHelp2.label       "Aiutu di &brandShorterName;">
@@ -20,10 +21,7 @@
 
 
 
-<!ENTITY healthReport2.label      "Nfurmazzioni statu di saluti di &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "s">
-
-<!ENTITY helpTroubleshootingInfo.label      "Nfurmazzioni p'arrisòrbiri prubblemi">
+<!ENTITY helpTroubleshootingInfo.label      "Nfurmazziuna p'arrisòrbiri prubblemi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
 <!ENTITY helpFeedbackPage.label      "Manna cummentu…">
@@ -42,4 +40,5 @@
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ammuccia l'àutri">
 <!ENTITY hideOtherAppsCmdMac.commandkey "A">
+
 

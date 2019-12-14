@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazzioni privata)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazziuni privata)">
 
 <!ENTITY appmenu.tooltip                     "Rapi minù">
 <!ENTITY navbarOverflow.label                "Cchiú strummenta…">
@@ -59,7 +59,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Sbarra dî menú">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Sbarra di navigazzioni">
+<!ENTITY navbarCmd.label "Sbarra di navigazziuni">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -80,7 +80,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
-<!ENTITY pageInfoCmd.label "Nfurmazzioni dâ pàggina">
+<!ENTITY pageInfoCmd.label "Nfurmazziuna dâ pàggina">
 <!ENTITY pageInfoCmd.accesskey "N">
 
 <!ENTITY pageInfoCmd.commandkey "n">
@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY printButton.label            "Stampa">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Talìa nfurmazzioni dû situ">
+<!ENTITY urlbar.viewSiteInfo.label                      "Talìa nfurmazziuna dû situ">
 
 
 
@@ -254,7 +254,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Scegghi tuttu">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "t">
-<!ENTITY preferencesCmd2.label       "Uzzioni">
 <!ENTITY preferencesCmd2.accesskey     "U">
 <!ENTITY preferencesCmdUnix.label       "Prifirenzi">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
@@ -276,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyMenu.label "Crunuluggía">
 <!ENTITY historyMenu.accesskey "u">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyRestoreLastSession.label "Arripigghia la sissioni pricidenti">
+<!ENTITY historyRestoreLastSession.label "Arripigghia a sissiuni pricidenti">
 
 <!ENTITY showAllHistoryCmd2.label "Mustra tutta la crunuluggía">
 
@@ -332,7 +331,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggirimentu:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cancia l'uzzioni…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cancia li prifirenzi…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
@@ -387,8 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Mpustazzioni di ricerca">
-<!ENTITY changeSearchSettings.tooltip "Cancia li mpustazzioni di ricerca">
+<!ENTITY changeSearchSettings.button  "Mpustazziuna di ricerca">
+<!ENTITY changeSearchSettings.tooltip "Cancia i mpustazziuna di ricerca">
 
 <!ENTITY searchInNewTab.label         "Cerca nta na nova scheda">
 <!ENTITY searchInNewTab.accesskey     "n">
@@ -412,23 +410,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Càrrica arredi lu quatru">
 <!ENTITY reloadFrameCmd.accesskey     "C">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Talía la funti dâ silizzioni">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Talía la funti dâ silizziuni">
 <!ENTITY viewPartialSourceCmd.accesskey "f">
 <!ENTITY viewPageSourceCmd.label      "Talía la funti dâ pàggina">
 <!ENTITY viewPageSourceCmd.accesskey  "T">
 <!ENTITY viewFrameSourceCmd.label     "Talía la funti dû quatru">
 <!ENTITY viewFrameSourceCmd.accesskey "T">
-<!ENTITY viewPageInfoCmd.label        "Nfurmazzioni dâ pàggina">
+<!ENTITY viewPageInfoCmd.label        "Nfurmazziuna dâ pàggina">
 <!ENTITY viewPageInfoCmd.accesskey    "N">
-<!ENTITY viewFrameInfoCmd.label       "Nfurmazzioni dû quatru">
+<!ENTITY viewFrameInfoCmd.label       "Nfurmazziuna dû quatru">
 <!ENTITY viewFrameInfoCmd.accesskey   "N">
 <!ENTITY reloadImageCmd.label         "Càrrica arredi mmàggini">
 <!ENTITY reloadImageCmd.accesskey     "C">
 <!ENTITY viewImageCmd.label           "Talía mmàggini">
 <!ENTITY viewImageCmd.accesskey       "i">
-<!ENTITY viewImageInfoCmd.label       "Nfurmazzioni dâ mmàggini">
+<!ENTITY viewImageInfoCmd.label       "Nfurmazziuna dâ mmàggini">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Talía discrizzioni">
+<!ENTITY viewImageDescCmd.label       "Talìa discrizziuni">
 <!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Talía vídiu">
 <!ENTITY bookmarkPageCmd2.label       "Nzinga sta pàggina">

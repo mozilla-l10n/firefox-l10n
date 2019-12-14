@@ -24,7 +24,7 @@ restore-page-try-again-button =
     .label = Riprìstina la sissiuni
     .accesskey = R
 restore-page-close-button =
-    .label = Accumincia na nova sissioni
+    .label = Accumincia na nova sissiuni
     .accesskey = N
 
 ## The following strings are used in about:welcomeback
