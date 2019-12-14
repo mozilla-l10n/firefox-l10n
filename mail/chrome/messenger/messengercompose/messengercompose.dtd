@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "p">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Hľadať…">
 <!ENTITY findBarCmd.accesskey "H">
 <!ENTITY findBarCmd.key "F">
@@ -260,6 +259,10 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 11em;">
 <!ENTITY fromAddr.label "Od:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "Od">
 <!ENTITY fromAddr.accesskey "O">
 <!ENTITY toAddr.label "Komu:">
 <!ENTITY ccAddr.label "Kópia:">
@@ -268,11 +271,20 @@
 <!ENTITY newsgroupsAddr.label "Diskusná skupina:">
 <!ENTITY followupAddr.label "Pokračovať na:">
 <!ENTITY subject.label "Predmet:">
+<!ENTITY toAddr2.label "Komu">
+<!ENTITY ccAddr2.label "Kópia">
+<!ENTITY bccAddr2.label "Skrytá kópia">
+<!ENTITY replyAddr2.label "Odpoveď komu">
+<!ENTITY newsgroupsAddr2.label "Diskusná skupina">
+<!ENTITY followupAddr2.label "Pokračovať na">
+<!ENTITY subject2.label "Predmet">
 <!ENTITY subject.accesskey "d">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "h">
 <!ENTITY attachmentBucketHeader.tooltip "Panel príloh">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skryť panel príloh">
