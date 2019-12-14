@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg
 ## Containers Section
 
 containers-back-link = « Vissza
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Vissza a Beállításokhoz
+           *[other] Vissza a Beállításokhoz
+        }
 containers-header = Konténer lapok
 containers-add-button =
     .label = Új konténer hozzáadása
@@ -968,6 +974,10 @@ permissions-location = Hely
 permissions-location-settings =
     .label = Beállítások…
     .accesskey = H
+permissions-xr = Virtuális valóság
+permissions-xr-settings =
+    .label = Beállítások…
+    .accesskey = B
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Beállítások…
@@ -1016,6 +1026,8 @@ permissions-a11y-privacy-link = További tudnivalók
 collection-header = { -brand-short-name } adatgyűjtés és felhasználás
 collection-description = Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk a van a { -brand-short-name } fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.
 collection-privacy-notice = Adatvédelmi nyilatkozat
+collection-health-report-telemetry-disabled = Már nem engedélyezi, hogy a { -vendor-short-name } műszaki és interakciós adatokat rögzítsen. A múltbeli adatai 30 napon belül törölve lesznek.
+collection-health-report-telemetry-disabled-link = További tudnivalók
 collection-health-report =
     .label = Engedélyezés, hogy a { -brand-short-name } műszaki és interakciós adatokat küldjön a { -vendor-short-name } számára
     .accesskey = E
