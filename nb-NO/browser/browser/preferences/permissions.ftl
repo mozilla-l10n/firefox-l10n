@@ -139,6 +139,10 @@ permissions-site-location-disable-desc = Dette forhindrer nettsteder som ikke er
 permissions-site-xr-window =
     .title = Innstillinger - Tillatelser for virtuell virkelighet
     .style = { permissions-window.style }
+permissions-site-xr-desc = Følgende nettsteder har bedt om tilgang til din virtuell virkelighetsenhet. Du kan spesifisere hvilke nettsteder som får tilgang til din virtuell virkelighetsenhet. Du kan også blokkere nye forespørsler som ber om tilgang til din virtuell virkelighetsenhet.
+permissions-site-xr-disable-label =
+    .label = Blokker nye forespørsler som ber om tilgang til din virtuell virkelighetsenhet.
+permissions-site-xr-disable-desc = Dette forhindrer nettsteder som ikke er oppført ovenfor, og ber om tillatelse til å få tilgang til din virtuell virkelighetsenhet. Hvis du blokkerer tilgang til din virtuell virkelighetsenhet, kan det hende at noen nettstedsfunksjoner ikke vil fungere.
 
 ## Site Permissions - Camera
 
