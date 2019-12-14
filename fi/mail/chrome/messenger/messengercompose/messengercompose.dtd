@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "L">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "L">
 <!ENTITY selectAllCmd.label "Valitse kaikki">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "V">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Etsi…">
 <!ENTITY findBarCmd.accesskey "E">
 <!ENTITY findBarCmd.key "F">
@@ -260,6 +259,10 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 12em;">
 <!ENTITY fromAddr.label "Lähettäjä:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "Lähettäjä">
 <!ENTITY fromAddr.accesskey "h">
 <!ENTITY toAddr.label "Vastaanottaja:">
 <!ENTITY ccAddr.label "Kopio:">
@@ -268,11 +271,20 @@
 <!ENTITY newsgroupsAddr.label "Ryhmä:">
 <!ENTITY followupAddr.label "Vastausryhmä:">
 <!ENTITY subject.label "Aihe:">
+<!ENTITY toAddr2.label "Vastaanottaja">
+<!ENTITY ccAddr2.label "Kopio">
+<!ENTITY bccAddr2.label "Piilokopio">
+<!ENTITY replyAddr2.label "Vastausosoite">
+<!ENTITY newsgroupsAddr2.label "Keskusteluryhmä">
+<!ENTITY followupAddr2.label "Vastausryhmä">
+<!ENTITY subject2.label "Aihe">
 <!ENTITY subject.accesskey "A">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "e">
 <!ENTITY attachmentBucketHeader.tooltip "Liite-paneeli">
 <!ENTITY attachmentBucketCloseButton.tooltip "Piilota Liite-paneeli">
