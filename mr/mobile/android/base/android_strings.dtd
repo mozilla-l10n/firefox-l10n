@@ -297,7 +297,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "प्रतिमा दर्शवा">
 <!ENTITY pref_tap_to_load_images_enabled "नेहमी">
 <!ENTITY pref_tap_to_load_images_data "फक्त वाय-फायवर">
-<!ENTITY pref_tap_to_load_images_disabled2 "रोखले">
+<!ENTITY pref_tap_to_load_images_disabled2 "अवरोधित">
 
 <!ENTITY pref_show_web_fonts "वेब टंक दर्शवा">
 <!ENTITY pref_show_web_fonts_summary2 "पृष्ठ लोड करताना दूरस्थ फॉन्ट डाऊनलोड करा">
@@ -334,7 +334,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "सानुकूल टॅब">
-<!ENTITY pref_custom_tabs_summary4 "अँप ला जलद चालू होणाऱ्या सानुकूल टॅब मध्ये वेब मजकूर ऊघडण्यास परवानगी द्या.">
+<!ENTITY pref_custom_tabs_summary4 "अँप ला जलद चालू होणाऱ्या सानुकूल टॅब मध्ये वेब मजकूर उघडण्यास परवानगी द्या">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
