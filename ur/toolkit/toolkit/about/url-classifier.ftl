@@ -45,3 +45,4 @@ url-classifier-updating = تازہ کاری کر رہا ہے
 url-classifier-cannot-update = تازہ کاری نہیں کر سکتا
 url-classifier-success = کامیاب
 url-classifier-update-error = اپ ڈیٹ نقص { $error }
+url-classifier-download-error = ڈاؤن لوڈ نقص({ $error })

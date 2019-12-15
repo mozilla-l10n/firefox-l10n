@@ -8,7 +8,7 @@ about-logins-page-title = لاگ ان اور پاس ورڈ
 
 login-app-promo-subtitle = { -lockwise-brand-name } ایپلیکیشن  مفت  حاصل  کریں
 login-app-promo-android =
-    .alt = Google Play  سے حاصل کریں
+    .alt = Google Play سے حاصل کریں
 login-app-promo-apple =
     .alt = App Store پر سے ڈائونلوڈ کریں
 login-filter =
