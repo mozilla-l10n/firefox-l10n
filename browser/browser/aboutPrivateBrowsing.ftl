@@ -27,5 +27,10 @@ content-blocking-description = Bells puestos web fan servir seguidors que pueden
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } ye lo motor de busqueda per defecto en as finestras privadas
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Pa triar unatro motor de busqueda, ves ta las <a data-l10n-name="link-options">Opcions</a>
+       *[other] Pa triar unatro motor de busqueda, ves ta las <a data-l10n-name="link-options">Preferencias</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Zarrar
