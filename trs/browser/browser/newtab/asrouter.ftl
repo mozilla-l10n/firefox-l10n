@@ -116,6 +116,17 @@ cfr-whatsnew-lockwise-take-title = Gata nej da'nga' huì nikajt gache nunt
 cfr-whatsnew-lockwise-take-body = Aplikasiûn li { -lockwise-brand-short-name } a'nïnj gatut riña mà ñadu'ua nej kopiâ seguridâ nej da'nga' huì nikajt danè' man'an huajt.
 cfr-whatsnew-lockwise-take-link-text = Nadunïnj aplikasiûn
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Gāhuin chrūn doj
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Gāhuin chrūn doj
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Ga'nïnj markadô nan riña si aga't li
