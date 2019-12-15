@@ -2,83 +2,83 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "वेलकम">
+<!ENTITY firstrun_panel_title_welcome "स्वागत है">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; चुनने के लिए धन्यवाद">
 <!ENTITY newfirstrun_urlbar_message "&brandShortName; में स्वागत है">
-<!ENTITY firstrun_urlbar_subtext2 "Mozilla द्वारा एक आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब के लिए प्रतिबद्ध.">
+<!ENTITY firstrun_urlbar_subtext2 "Mozilla द्वारा एक आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब के लिए प्रतिबद्ध।">
 <!ENTITY newfirstrun_urlbar_subtext "तेज़, निजी और आपके लिए समर्पित।">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "ऐसे ब्राउज़ करें जैसे कोई नहीं देख रहा है">
-<!ENTITY firstrun_privacy_subtext "ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग ट्रैकरों को रोकता है जब आप ब्राउज करते हैं तथा जब आप ब्राउज़िंग समाप्त कर लेते हैं तब आपके इतिहास को यह याद नहीं रखता है.">
-<!ENTITY newfirstrun_privacy_subtext "आपके ऑनलाइन गतिविधिओं पर नज़र रखने वाले ट्रैकरों को निजी ब्राउज़िंग अवरुद्ध करता है।">
-<!ENTITY firstrun_panel_title_customize "मनपसंद बनाएँ">
-<!ENTITY firstrun_customize_message "बनायें &brandShortName; अपना खुद का.">
-<!ENTITY firstrun_customize_subtext "अनुकूल बनायें &brandShortName; एड-ऑन के साथ. विज्ञापनों को रोकें, सुविधाएँ जोड़ें, या एक नया थीम चुने अपने व्यक्तित्व को दर्शाने करने के लिए.">
+<!ENTITY firstrun_privacy_subtext "ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग ट्रैकर को रोकता है जब आप ब्राउज़ करते हैं तथा जब आप ब्राउज़िंग समाप्त कर लेते हैं तब आपके इतिहास को यह याद नहीं रखता है।">
+<!ENTITY newfirstrun_privacy_subtext "आपके ऑनलाइन गतिविधिओं पर नज़र रखने वाले ट्रैकर को निजी ब्राउज़िंग अवरुद्ध करता है।">
+<!ENTITY firstrun_panel_title_customize "मनपसंद बनाएं">
+<!ENTITY firstrun_customize_message "&brandShortName; को खुद से बनाएं।">
+<!ENTITY firstrun_customize_subtext "&brandShortName; को ऐड-ऑन के साथ अनुकूल बनाएं। विज्ञापनों को रोकें, सुविधाएं जोड़ें, या अपने व्यक्तित्व को दर्शाने करने के लिए एक नया थीम चुने।">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
-<!ENTITY firstrun_bookmarks_message "आपके मनपसंद, सम्मुख एवं केन्द्रित">
-<!ENTITY firstrun_bookmarks_subtext "अपने बुकमार्क एवं पूर्व खोज के इतिहास से परिणाम प्राप्त करें.">
+<!ENTITY firstrun_bookmarks_message "आपके पसंदीदा, सम्मुख एवं मध्य भाग">
+<!ENTITY firstrun_bookmarks_subtext "अपने बुकमार्क एवं पूर्व खोज के इतिहास से परिणाम प्राप्त करें।">
 <!ENTITY firstrun_data_title "डेटा">
-<!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
-<!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
+<!ENTITY firstrun_data_message "कम डेटा, अधिक बचत">
+<!ENTITY firstrun_data_subtext2 "हर साइट की चित्र बंद करें जिसपर भी आप जाते हैं ताकि डेटा कम खर्च हो।">
 <!ENTITY firstrun_sync_title "सिंक">
 <!ENTITY firstrun_sync_message3 "अपने फ़ोन पर बुकमार्क, इतिहास तथा पासवर्ड सिंक करें।">
 <!ENTITY updatednewfirstrun_sync_title "खाता">
-<!ENTITY firstrun_sync_message2 "जहाँ आपने छोड़ा था वहाँ से चुने.">
-<!ENTITY firstrun_sync_subtext2 "सिंक का उपयोग करें बुकमार्क, पासवर्ड, तथा अन्य चीजें अपने सभी उपकरणों पर पाने के लिए जिन्हें आपने &brandShortName; में सहेजा है.">
-<!ENTITY newfirstrun_sync_subtext "निजी तथा सुरक्षित रूप से, डेस्कटॉप हेतु Firefox में अपने मोबाइल पर सहेजे हुए चीज़ों को सिंक करें।">
+<!ENTITY firstrun_sync_message2 "जहां आपने छोड़ा था वहीं से शुरू करें।">
+<!ENTITY firstrun_sync_subtext2 "सिंक का बुकमार्क, पासवर्ड, तथा अन्य चीजें अपने सभी उपकरणों पर पाने के लिए उपयोग करें जिन्हें आपने &brandShortName; में सहेजा है।">
+<!ENTITY newfirstrun_sync_subtext "निजी तथा सुरक्षित रूप से, डेस्कटॉप हेतु Firefox में अपने मोबाइल पर सहेजे गए चीज़ों को सिंक करें।">
 <!ENTITY firstrun_sendtab_title "टैब भेजें">
 <!ENTITY firstrun_sendtab_message "मोबाइल से डेस्कटॉप तक टैब साझा करें — तुरंत।">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; का पूर्ण रूप से लाभ उठाने के लिए अपने खाते में साइन इन करें">
-<!ENTITY firstrun_signin_message "कनेक्टेड हैं, आरंभ करें">
-<!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
+<!ENTITY firstrun_signin_message "जुड़े रहें, आरंभ करें">
+<!ENTITY firstrun_signin_button "सिंक करने के लिए साइन इन करें">
 <!ENTITY newfirstrun_signin_button "सिंक चालू करें">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName;में साइन इन करें">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; में साइन इन करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!ENTITY firstrun_button_notnow "अभी नहीं">
 <!ENTITY firstrun_button_next "अगला">
-<!ENTITY firstrun_signup_button "साइन अप करें">
+<!ENTITY firstrun_signup_button "साइन अप">
 
-<!ENTITY firstrun_signin_button2 "साइन इन करें">
+<!ENTITY firstrun_signin_button2 "साइन इन">
 
 <!ENTITY firstrun_tabqueue_title "लिंक">
 
 <!ENTITY firstrun_readerview_title "आलेख">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "अव्यवस्था छोडें">
-<!ENTITY firstrun_readerview_subtext "\u2014 को ऑफ़लाइन होने के बावजूद पढ़ने हेतु और अच्छा बनाने के लिए पाठ्य दृश्य का उपयोग करें.">
+<!ENTITY firstrun_readerview_message "अनावश्यक चीज़ छोड़ें">
+<!ENTITY firstrun_readerview_subtext "\u2014 आलेख को ऑफ़लाइन होने के बावजूद पढ़ने और अच्छा दिखने के लिए पाठ्य दृश्य का उपयोग करें।">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "आप">
 <!ENTITY firstrun_account_message "क्या &brandShortName; अन्य उपकरण पर है?">
 
-<!ENTITY  onboard_start_restricted1 "सुरक्षित और &brandShortName; के इस सरल संस्करण के नियंत्रण में रहें.">
+<!ENTITY  onboard_start_restricted1 "&brandShortName; के सरल संस्करण के साथ सुरक्षित और नियंत्रित रहें।">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "बुकमार्क">
 <!ENTITY  history_title "इतिहास">
 
-<!ENTITY  switch_to_tab "टैब पर जाएँ">
+<!ENTITY  switch_to_tab "टैब पर जाएं">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "ऑफलाइन संस्करण दिखाएँ">
+<!ENTITY  tab_offline_version "ऑफ़लाइन संस्करण दिखाया जा रहा">
 
 <!ENTITY  crash_reporter_title "&brandShortName; क्रैश रिपोर्टर">
-<!ENTITY  crash_message2 "&brandShortName; किसी वजह से क्रैश कर गया. जब आप फिर शुरू करें तब आपके टैब &brandShortName; के पहले पन्ने पर सूचीबद्ध होने चाहिए.">
-<!ENTITY  crash_send_report_message3 "&vendorShortName; को इस क्रैश के बारे में बताएँ ताकि वे इसे ठीक कर सकें">
+<!ENTITY  crash_message2 "&brandShortName; कोई समस्या थी और क्रैश कर गया। जब आप पुनः शुरू करें तब आपके टैब &brandShortName; के मुख्य पृष्ठ पर सूचीबद्ध होने चाहिए।">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; को इस क्रैश के बारे में बताएं ताकि वे इसे ठीक कर सकें">
 <!ENTITY  crash_include_url2 "उस पृष्ठ का पता शामिल करें जिस पर मैं था">
-<!ENTITY  crash_sorry "माफ़ करें">
-<!ENTITY  crash_comment "टिप्पणी जोड़ें (टिप्पणियाँ सार्वजनिक हैं)">
+<!ENTITY  crash_sorry "हमें माफ़ करें">
+<!ENTITY  crash_comment "टिप्पणी जोड़ें (टिप्पणियां सार्वजनिक हैं)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; को इस रिपोर्ट के बारे में मुझसे संपर्क करने की अनुमति दें">
 <!ENTITY  crash_email "आपका ईमेल">
 <!ENTITY  crash_closing_alert "बिना क्रैश रिपोर्ट भेजे बाहर निकलें?">
-<!ENTITY  sending_crash_report "क्रैश रपट जा रही है\u2026">
+<!ENTITY  sending_crash_report "क्रैश रिपोर्ट जा रही है\u2026">
 <!ENTITY  crash_close_label "बंद करें">
 <!ENTITY  crash_restart_label "&brandShortName; पुनः आरंभ करें">
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; क्रैश हो गया">
-<!ENTITY  crash_notification_message "&vendorShortName; को रिपोर्ट करने हेतु क्लिक करें">
+<!ENTITY  crash_notification_message "&vendorShortName; को रिपोर्ट करने हेतु टैप करें">
 <!ENTITY  crash_notification_negative_button_text "हटाएं">
 
 <!ENTITY url_bar_default_text2 "खोजें या पता दर्ज करें">
@@ -98,12 +98,12 @@
 <!ENTITY url_bar_mic_text2 "खोज या पता दर्ज करने के लिए अपने माइक्रोफोन का इस्तेमाल करें">
 
 <!ENTITY bookmark "बुकमार्क">
-<!ENTITY bookmark_remove "बुकमार्क हटाएँ">
+<!ENTITY bookmark_remove "बुकमार्क हटाएं">
 <!ENTITY bookmark_added "बुकमार्क जोड़ा गया">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "पहले ही बुकमार्क">
+<!ENTITY bookmark_already_added "पहले ही बुकमार्क हो चुका">
 <!ENTITY bookmark_removed "बुकमार्क हटाया गया">
 <!ENTITY bookmark_updated "बुकमार्क अद्यतित">
 <!ENTITY bookmark_options "विकल्प">
@@ -117,9 +117,9 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-<!ENTITY bookmark_folder_items "&formatD; वस्तु">
-<!ENTITY bookmark_folder_one_item "1 चीज">
-<!ENTITY bookmark_folder_updated "फ़ोल्डर अद्यतन किया गया">
+<!ENTITY bookmark_folder_items "&formatD; चीज़ें">
+<!ENTITY bookmark_folder_one_item "1 चीज़">
+<!ENTITY bookmark_folder_updated "फ़ोल्डर अद्यतित">
 <!ENTITY bookmark_parent_folder "मूल फ़ोल्डर">
 <!ENTITY bookmark_add_folder "नया फ़ोल्डर जोड़ें">
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
@@ -130,12 +130,12 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "बदलें">
+<!ENTITY reader_switch_to_bookmarks "स्विच करें">
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "कल">
 <!ENTITY history_week_section3 "पिछले 7 दिन">
-<!ENTITY history_older_section3 "6 माह से अधिक पुराना">
+<!ENTITY history_older_section3 "6 महीने से अधिक पुराना">
 
 <!ENTITY search "खोजें">
 <!ENTITY reload "फिर लोड करें">
