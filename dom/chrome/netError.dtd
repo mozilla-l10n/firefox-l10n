@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "Bloqueyau por a politica de seguranza de conteniu">
 <!ENTITY cspBlocked.longDesc "<p>O navegador ha impediu que ista pachina se cargue d'ista traza porque a pachina tiene una politica de seguranza de conteniu que no lo permite.</p>">
 
+<!ENTITY xfoBlocked.title "Blocau per la policita de X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Lo navegador ha impediu que ista pachina se cargue en este contexto perque la pachina tiene una politica de X-Frame-Options que no lo permite.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Error por conteniu corrupto">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A pachina que ye intentando veyer no puede amostrar porque s'ha detectau una error en a transmisión de datos.</p><ul><li>Por favor, contacte con os propietarios d'o puesto web ta informar-les d'iste problema.</li></ul>">
 
@@ -88,3 +91,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fa servir technolochía de seguranza que ye obsoleta y vulnerable debant d'un ataque. Un acatant podría revelar información que vusté creyeba segura. L'administrador d'o puesto web habrá de fixar lo servidor antes que vusté pueda vesitar lo puesto.</p><p>Codigo d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pachina blocada">
+
+<!ENTITY networkProtocolError.title "Error de protocolo de ret">
+<!ENTITY networkProtocolError.longDesc "<p>La pachina que ye mirando de veyer no se puede amostrar porque s'ha detectau una error en o protocolo de ret.</p><ul><li>Per favor, contacte con os propietarios d'o puesto web pa informar-les d'este problema.</li></ul>">

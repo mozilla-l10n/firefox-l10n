@@ -33,6 +33,7 @@ printpreview-of =
     .value = de
 printpreview-custom-prompt =
     .value = Escala personalizada…
+printpreview-custom-scale-prompt-title = Escala personalizada…
 printpreview-page-setup =
     .label = Configurar pachina…
     .accesskey = u
@@ -44,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Primera pachina
