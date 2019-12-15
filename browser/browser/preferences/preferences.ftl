@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Jo hawwe in kaaiwurd keazen dat op dit stuit y
 ## Containers Section
 
 containers-back-link = « Tebek
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Tebek nei Opsjes
+           *[other] Tebek nei Foarkarren
+        }
 containers-header = Kontenerljepblêden
 containers-add-button =
     .label = Nije kontener tafoegje
@@ -968,6 +974,10 @@ permissions-location = Lokaasje
 permissions-location-settings =
     .label = Ynstellingen…
     .accesskey = t
+permissions-xr = Virtual Reality
+permissions-xr-settings =
+    .label = Ynstellingen…
+    .accesskey = t
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Ynstellingen…
@@ -1016,6 +1026,8 @@ permissions-a11y-privacy-link = Mear ynfo
 collection-header = Gegevenssamling en gebrûk fan { -brand-short-name }
 collection-description = Wy stribje dernei jo kar te bieden en allinnich te sammeljen wat wy nedich hawwe om { -brand-short-name } foar elkenien beskikber te meitsjen en te ferbetterjen. Wy freegje altyd tastimming eardat wy persoanlike gegevens ûntfange.
 collection-privacy-notice = Privacyferklearring
+collection-health-report-telemetry-disabled = Jo steane { -vendor-short-name } net langer ta technyske en ynteraksjegegevens fêst te lizzen. Alle eardere gegevens wurde binnen 30 dagen fuortsmiten.
+collection-health-report-telemetry-disabled-link = Mear ynfo
 collection-health-report =
     .label = Tastean dat { -brand-short-name } technyske en brûksgegevens ferstjoert nei { -vendor-short-name }
     .accesskey = r

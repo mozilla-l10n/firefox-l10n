@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Nije fersiken om tagong ta jo lokaasje blokkearje
 permissions-site-location-disable-desc = Dit soarget derfoar dat websites dy't hjirboppe net fermeld wurde om tastimming foar tagong ta jo lokaasje freegje. It blokkearjen fan tagong ta jo lokaasje kin bepaalde funksjes fan websites fersteure.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Ynstellingen - Tastimmingen foar virtual reality
+    .style = { permissions-window.style }
+permissions-site-xr-desc = De folgjende websites hawwe om tagong ta jo virtual-reality-apparaten frege. Jo kinne opjaan hokker websites jo virtual-reality-apparaten benaderje meie. Jo kinne ek nije fersiken om tagong ta jo virtual-reality-apparaten blokkearje.
+permissions-site-xr-disable-label =
+    .label = Nije fersiken om tagong ta jo virtual-reality-apparaten blokkearje
+permissions-site-xr-disable-desc = Dit foarkomt dat websites dy't hjirboppe net fermeld wurde om tastimming foar tagong ta jo virtual-reality-apparaten freegje. It blokkearjen fan tagong ta jo virtual-reality-apparaten kin bepaalde funksjes fan websites fersteure.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
