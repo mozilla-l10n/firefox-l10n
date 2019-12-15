@@ -27,9 +27,12 @@
 <!ENTITY firstrun_sync_subtext2 "Usa Synk pa trobar los marcapachinas, claus y atras cosas que alzas en &brandShortName; en totz los atros dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincroniza tot lo que quieras en o mobil con o Firefox d\&apos;escritorio, de manera privada y segura.">
 <!ENTITY firstrun_sendtab_title "Ninviar pestanya">
+<!ENTITY firstrun_sendtab_message "Compartir a l\&apos;inte las pestanyas d\&apos;o mobil con o escritorio.">
+<!ENTITY updatednewfirstrun_sync_subtext "Iniciar la sesión en a tuya cuenta pa aproveitar millor &brandShortName;">
 <!ENTITY firstrun_signin_message "Connecta-te, empecia">
 <!ENTITY firstrun_signin_button "Dentra en Sync">
 <!ENTITY newfirstrun_signin_button "Enchegar Sync">
+<!ENTITY updatednewfirstrun_signin_button "Iniciar la sesión en &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Encetar navego">
 <!ENTITY firstrun_button_notnow "No pas agora">
 <!ENTITY firstrun_button_next "Siguient">
@@ -75,6 +78,7 @@
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; ha fallau">
+<!ENTITY  crash_notification_message "Toca pa reportar a &vendorShortName;">
 <!ENTITY  crash_notification_negative_button_text "Ignorar">
 
 <!ENTITY url_bar_default_text2 "Mirar u escribir adreza">
@@ -280,6 +284,7 @@
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Autorizadas, fueras d\&apos;as de tercers">
+<!ENTITY pref_cookies_not_accept_trackers "Autorizadas, fueras d\&apos;as de seguimiento">
 <!ENTITY pref_cookies_disabled "No autorizadas">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -316,8 +321,10 @@
 <!ENTITY pref_feature_tips_notification_summary "Aprender mas sobre cómo usar &brandShortName; y atros productos de &vendorShortName;">
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Pa activar esta opción, cal que &pref_feature_tips_notification_enabling_path; siga activau.)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -354,6 +361,7 @@
 <!ENTITY tab_queue_prompt_settings_button "Ir ta los achustes">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "Se ye anyadindo la pestanya nueva en a ringlera&#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -388,6 +396,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_use_system_font_size_summary "Escalar contenius web sentuges lo tamanyo de fuent d\&apos;o sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
+<!ENTITY pref_media_autoplay_allow "Permitir autorreproducción">
+<!ENTITY pref_media_autoplay_block "Blocar autorreproducción">
 <!ENTITY pref_zoom_force_enabled "Permitir siempre o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar sobreescribir ta poder fer zoom en qualsequier pachina">
 <!ENTITY pref_voice_input "Dentrada de voz">
@@ -416,9 +426,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Pestanyas sincronizadas">
 
+<!ENTITY pref_default_browser2 "Fer de &brandShortName; lo tuyo navegador per defecto">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
+<!ENTITY default_browser_system_settings_toast "Toca l\&apos;apllicación d\&apos;o navegador y tría &brandShortName;">
 <!ENTITY pref_about_firefox "Quanto a &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Ninviar comentarios">
@@ -466,6 +478,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Se ye executando lo servicio d\&apos;ubicación de &vendorShortName;">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -488,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir por meyo de">
 <!ENTITY share_image_failed "No se puet compartir a imachen">
+<!ENTITY share_error_toast_message "No se puet compartir con l\&apos;aplicación triada">
 <!ENTITY save_as_pdf "Alzar como PDF">
 <!ENTITY print "Imprentar">
 <!ENTITY view_page_source "Veyer lo codigo fuent d\&apos;a pachina">
@@ -514,6 +528,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "No s\&apos;ha trobau a frase">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -587,6 +602,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Ubicación">
 <!ENTITY bookmark_edit_keyword "Parola clau">
 <!ENTITY bookmark_select_folder "Seleccionar carpeta">
+<!ENTITY bookmark_edit_undo "Desfer">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -675,6 +691,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Trigue un grave un soniu">
 <!ENTITY filepicker_image_title "Trigue u faiga una foto">
 <!ENTITY filepicker_video_title "Trigue u grave un video">
+<!ENTITY filepicker_permission_denied "No s\&apos;ha dau los permisos necesarios, se tornará ta lo selector de fichers d\&apos;o sistema.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ye connectau con">
@@ -867,6 +884,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Bienveniu ta &brandShortName;!">
+<!ENTITY activity_stream_signin_description "Encomenzar la sincronización d\&apos;as adrezas d\&apos;interés, las contrasenyas y muito mas con a tuya cuenta d\&apos;o Firefox.">
+<!ENTITY activity_stream_signup_button "Rechistrar-se">
+<!ENTITY activity_stream_signin_prompt "Ya tiens una cuenta?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Iniciar la sesión.">
 
@@ -924,6 +945,14 @@ Picture-in-picture mini window -->
 <!ENTITY pref_notification_settings_link "Chestionar los achustes de notificación">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
+<!ENTITY mls_notification_channel "Servicio d\&apos;ubicación de &vendorShortName;">
+<!ENTITY download_notification_channel "Descargas">
+<!ENTITY media_notification_channel2 "Son y video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "Trucos y estrucias de &vendorShortName;">
+<!ENTITY updater_notification_channel "Actualizacions de l\&apos;aplicación">
+<!ENTITY synced_tabs_notification_channel "Pestanyas sincronizadas">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Notificacions d\&apos;o puesto">
+<!ENTITY crash_handler_notifications_channel "Reportes de fallos de &brandShortName;">
