@@ -139,7 +139,7 @@
 
 <!ENTITY search "खोजें">
 <!ENTITY reload "फिर लोड करें">
-<!ENTITY forward "अग्रेषित करें">
+<!ENTITY forward "आगे बढ़ाएं">
 <!ENTITY menu "मेन्यू">
 <!ENTITY back "पीछे">
 <!ENTITY stop "रोकें">
@@ -152,7 +152,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; टैब">
 <!ENTITY new_tab_opened "नया टैब खुला">
-<!ENTITY new_private_tab_opened "नयी निजी टैब खुल गयी">
+<!ENTITY new_private_tab_opened "नया निजी टैब खुला">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -169,7 +169,7 @@
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
 <!ENTITY pref_category_general "सामान्य">
-<!ENTITY pref_category_general_summary3 "होम, भाषा, टैब कतार">
+<!ENTITY pref_category_general_summary3 "मुख्य पृष्ठ, भाषा, टैब कतार">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -192,78 +192,78 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "बुकमार्क">
-<!ENTITY overlay_share_bookmark_btn_label_already "पहले ही बुकमार्क">
-<!ENTITY overlay_share_send_other "अन्य साधनों पर भेजें">
+<!ENTITY overlay_share_bookmark_btn_label_already "पहले ही बुकमार्क हो चुका">
+<!ENTITY overlay_share_send_other "अन्य उपकरणों पर भेजें">
 
 <!ENTITY overlay_share_open_browser_btn_label "&brandShortName; में खोलें">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "अन्य साधन पर भेजें">
-<!ENTITY overlay_share_no_url "इस शेयर में कोई कड़ी नही पायी गई">
-<!ENTITY overlay_share_select_device "साधन चुनें">
+<!ENTITY overlay_share_send_tab_btn_label "अन्य उपकरण पर भेजें">
+<!ENTITY overlay_share_no_url "इस साझा के दौरान कोई लिंक नहीं मिली">
+<!ENTITY overlay_share_select_device "उपकरण चुनें">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Firefox खाते से जुड़े कोई भी उपकरण पाएँ नहीं गए">
+<!ENTITY overlay_no_synced_devices "Firefox खाते से जुड़े कोई भी उपकरण नहीं पाए गए">
 
 <!ENTITY pref_category_search3 "खोजें">
-<!ENTITY pref_category_search_summary2 "जोड़ें, डिफ़ॉल्ट सेट करें, सुझाव दिखाएँ">
+<!ENTITY pref_category_search_summary2 "जोड़ें, डिफ़ॉल्ट सेट करें, सुझाव दिखाएं">
 <!ENTITY pref_category_accessibility "अभिगम्यता">
-<!ENTITY pref_category_accessibility_summary2 "शब्दों के आकार, ज़ूम, आवाज़ सहयोग">
+<!ENTITY pref_category_accessibility_summary2 "टेक्स्ट आकार, ज़ूम, आवाज़ सहयोग">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
 <!ENTITY pref_category_privacy_summary4 "ट्रैकिंग, लॉग इन, डेटा विकल्प">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; परिचय, FAQs, प्रतिक्रिया">
-<!ENTITY pref_category_datareporting "डेटा विकल्पें">
-<!ENTITY pref_category_logins "लॉग इन">
+<!ENTITY pref_category_datareporting "डेटा विकल्प">
+<!ENTITY pref_category_logins "लॉगिन">
 <!ENTITY pref_learn_more "अधिक जानें">
 <!ENTITY pref_category_installed_search_engines "इनस्टॉल हुए खोज इंजन">
-<!ENTITY pref_category_add_search_providers "अन्य खोज प्रदाता जोड़ें">
-<!ENTITY pref_category_search_restore_defaults "खोज इंजन पुनर्बहाल करें">
-<!ENTITY pref_search_restore_defaults "तयशुदा पुनर्बहाल करें">
-<!ENTITY pref_search_restore_defaults_summary "तयशुदा पुनर्बहाल करें">
+<!ENTITY pref_category_add_search_providers "अधिक खोज प्रदाता जोड़ें">
+<!ENTITY pref_category_search_restore_defaults "खोज इंजन रिस्टोर करें">
+<!ENTITY pref_search_restore_defaults "रिस्टोर तयशुदा">
+<!ENTITY pref_search_restore_defaults_summary "रिस्टोर तयशुदा">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TIP: खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएँ और &formatI; प्रतीक को टिपटिपाएँ.">
+<!ENTITY pref_search_hint2 "TIP: खोज प्रदाता की सूची में किसी भी वेबसाइट को जोड़ने के लिए खोज क्षेत्र को देर तक दबाएं और फिर &formatI; आइकॉन को दबाएं।">
 <!ENTITY pref_category_advanced "उन्नत">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "टैब पुनर्स्थापित, डेटा सेवर, डेवलपर उपकरण">
+<!ENTITY pref_category_advanced_summary3 "रिस्टोर टैब, डेटा सेवर, डेवलपर टूल">
 <!ENTITY pref_category_notifications "अधिसूचना">
-<!ENTITY pref_category_notifications_summary2 "नई विशेषताएं, उत्पाद सुझाव">
-<!ENTITY pref_developer_remotedebugging_usb "USB से होकर दूरस्थ दोषसुधार">
-<!ENTITY pref_developer_remotedebugging_wifi "वाई फाई से होकर दूरस्थ दोषसुधार">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "वाई फाई दोषसुधार को आपके डिवाइस में QR ऐप संस्थापित होने की जरुरत हैं.">
-<!ENTITY pref_remember_signons2 "लॉग इन याद रखें">
+<!ENTITY pref_category_notifications_summary2 "नई विशेषताएं, प्रोडक्ट सुझाव">
+<!ENTITY pref_developer_remotedebugging_usb "USB द्वारा रिमोट डीबगिंग">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi द्वारा रिमोट डीबगिंग">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डीबगिंग को आपके डिवाइस में QR कोड रीडर ऐप इंस्टॉल होने की जरुरत है।">
+<!ENTITY pref_remember_signons2 "लॉगिन याद रखें">
 <!ENTITY pref_manage_logins "लॉगिन प्रबंधित करें">
 
-<!ENTITY pref_category_home "घर">
-<!ENTITY pref_category_home_summary "मुखपृष्ठ मनपसंद बनाएँ">
-<!ENTITY pref_category_home_panels "पटल">
-<!ENTITY pref_category_home_add_ons "सहयुक्ति">
+<!ENTITY pref_category_home "मुख्य पृष्ठ">
+<!ENTITY pref_category_home_summary "अपना मुख्य पृष्ठ अनुकूलित करें">
+<!ENTITY pref_category_home_panels "पैनल">
+<!ENTITY pref_category_home_add_ons "ऐड-ऑन">
 <!ENTITY pref_home_updates2 "सामग्री अद्यतन">
 <!ENTITY pref_home_updates_enabled "सक्षम">
-<!ENTITY pref_home_updates_wifi "केवल वाय-फ़ाय पर">
-<!ENTITY pref_category_home_homepage "होमपेज">
+<!ENTITY pref_home_updates_wifi "सिर्फ Wi-Fi पर">
+<!ENTITY pref_category_home_homepage "मुख्य पृष्ठ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!ENTITY home_homepage_every_new_tab "नए टैब के लिए भी उपयोग करें">
-<!ENTITY home_homepage_title "होमपेज व्यवस्थित करें">
+<!ENTITY home_homepage_title "मुख्य पृष्ठ सेट करें">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; होम">
+<!ENTITY home_homepage_radio_default "&brandShortName; मुख्य पृष्ठ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "मनपसंद बनाएँ">
+<!ENTITY home_homepage_radio_user_address "अनुकूल">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -275,7 +275,7 @@
 <!ENTITY pref_header_general "सामान्य">
 <!ENTITY pref_header_search "खोजें">
 <!ENTITY pref_header_privacy_short "गोपनीयता">
-<!ENTITY pref_header_accessibility "पहुँच">
+<!ENTITY pref_header_accessibility "अभिगम्यता">
 <!ENTITY pref_header_notifications "अधिसूचना">
 <!ENTITY pref_header_advanced "उन्नत">
 <!ENTITY pref_header_help "मदद">
@@ -284,7 +284,7 @@
 <!ENTITY pref_cookies_menu "कुकीज़">
 <!ENTITY pref_cookies_accept_all "सक्षम">
 <!ENTITY pref_cookies_not_accept_foreign "सक्षम, तीसरा पक्ष छोड़कर">
-<!ENTITY pref_cookies_not_accept_trackers "सक्षम, ट्रैकिंग कूकीज़ को छोड़ कर">
+<!ENTITY pref_cookies_not_accept_trackers "सक्षम, ट्रैकिंग कूकीज़ को छोड़कर">
 <!ENTITY pref_cookies_disabled "अक्षम">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -292,33 +292,33 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "डेटा सेवर">
 <!ENTITY pref_category_media "मीडिया">
-<!ENTITY pref_category_developer_tools "डेवलेपर औज़ार">
+<!ENTITY pref_category_developer_tools "डेवलेपर टूल">
 
-<!ENTITY pref_tap_to_load_images_title2 "छवियाँ दिखाएँ">
+<!ENTITY pref_tap_to_load_images_title2 "चित्र दिखाएं">
 <!ENTITY pref_tap_to_load_images_enabled "हमेशा">
-<!ENTITY pref_tap_to_load_images_data "केवल वाई-फाई पर">
-<!ENTITY pref_tap_to_load_images_disabled2 "रोका हुआ">
+<!ENTITY pref_tap_to_load_images_data "सिर्फ Wi-Fi पर">
+<!ENTITY pref_tap_to_load_images_disabled2 "ब्लॉक हुआ">
 
-<!ENTITY pref_show_web_fonts "वेब फ़ॉन्ट दिखाएँ">
-<!ENTITY pref_show_web_fonts_summary2 "पृष्ठ लोड करते समय दूरस्थ फ़ॉन्ट डाउनलोड करे">
+<!ENTITY pref_show_web_fonts "वेब फ़ॉन्ट दिखाएं">
+<!ENTITY pref_show_web_fonts_summary2 "पृष्ठ लोड करते समय रिमोट फ़ॉन्ट डाउनलोड करें">
 
-<!ENTITY pref_tracking_protection_title2 "ट्रैकिंग संरक्षण">
-<!ENTITY pref_donottrack_title "पीछा न करें">
-<!ENTITY pref_donottrack_summary "&brandShortName; साइट को बताता है कि आप ट्रैक नही होना चाहते हैं">
+<!ENTITY pref_tracking_protection_title2 "ट्रैकिंग सुरक्षा">
+<!ENTITY pref_donottrack_title "ट्रैक ना करें">
+<!ENTITY pref_donottrack_summary "&brandShortName; साइट को बताता है कि आप ट्रैक नहीं होना चाहते हैं">
 
 <!ENTITY pref_tracking_protection_enabled "सक्षम">
-<!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउज़िंग में सक्षम करें">
-<!ENTITY pref_tracking_protection_disabled "अक्षम करें">
+<!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउज़िंग में सक्षम हुआ">
+<!ENTITY pref_tracking_protection_disabled "अक्षम">
 
 <!ENTITY pref_whats_new_notification "&brandShortName; में क्या नया है">
-<!ENTITY pref_whats_new_notification_summary "अद्यतन के बाद नई विशेषताओ के बारे में जाने">
+<!ENTITY pref_whats_new_notification_summary "अद्यतन के बाद नई विशेषताओं के बारे में जानें">
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
-<!ENTITY pref_feature_tips_notification "उत्पाद तथा फ़ीचर सुझाव">
+<!ENTITY pref_feature_tips_notification "प्रोडक्ट तथा विशेषता सुझाव">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
-<!ENTITY pref_feature_tips_notification_summary "&brandShortName; तथा अन्य &vendorShortName; उत्पादों के उपयोग करने के बारे में अधिक जानें">
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; तथा अन्य &vendorShortName; प्रोडक्ट के उपयोग के बारे में अधिक जानें">
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
@@ -328,40 +328,40 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!ENTITY pref_category_experimental "प्रायोगिक विशेषताएँ">
+<!ENTITY pref_category_experimental "प्रायोगिक विशेषताएं">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs2 "कस्टम टैब">
-<!ENTITY pref_custom_tabs_summary4 "ऐप्स को वेब सामग्री शीघ्र लोड होने वाले कस्टम टैब में खोलने की अनुमति दें.">
+<!ENTITY pref_custom_tabs2 "अनुकूलित टैब">
+<!ENTITY pref_custom_tabs_summary4 "ऐप को वेब सामग्री शीघ्र लोड होने वाले अनुकूलित टैब में खोलने की अनुमति दें।">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-<!ENTITY custom_tabs_menu_item_open_in "नये &formatS; में खोलें">
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; में खोलें">
 <!ENTITY custom_tabs_menu_footer "&brandShortName; द्वारा संचालित">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "यूआरएल की नकल की गई">
+<!ENTITY custom_tabs_hint_url_copy "URL कॉपी हो गया">
 
-<!ENTITY pref_pwa "प्रगतिशील वेब एप्लिकेशन">
-<!ENTITY pref_pwa_summary "होम स्क्रीन पर वेब एप्लिकेशन को शामिल करने की अनुमति दें">
+<!ENTITY pref_pwa "प्रगतिशील वेब ऐप">
+<!ENTITY pref_pwa_summary "मुख्य पृष्ठ पर वेब ऐप को शामिल करने की अनुमति दें">
 
-<!ENTITY tab_queue_toast_message3 "टैब में पंक्तिबद्ध &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "टैब &brandShortName; में सहेजा गया">
 <!ENTITY tab_queue_toast_action "अभी खोलें">
 <!ENTITY tab_queue_prompt_title "एकाधिक लिंक खोलें?">
-<!ENTITY tab_queue_prompt_text4 "उन्हें सहेजें जबतक आप अगली बार &brandShortName; खोलते.">
+<!ENTITY tab_queue_prompt_text4 "उन्हें सहेजें जब तक आप अगली बार &brandShortName; खोलते।">
 <!ENTITY tab_queue_prompt_tip_text2 "आप सेटिंग में इसे बाद में बदल सकते हैं">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "परमिट ड्राइंग को दूसरे ऐप्स पर चालू करें">
-<!ENTITY tab_queue_prompt_positive_action_button "सक्षम करें">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "परमिट ड्राइंग को अन्य ऐप पर चालू करें">
+<!ENTITY tab_queue_prompt_positive_action_button "सक्षम">
 <!ENTITY tab_queue_prompt_negative_action_button "अभी नहीं">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "सेटिंग्स पर जायें">
+<!ENTITY tab_queue_prompt_settings_button "सेटिंग पर जाएं">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
-<!ENTITY tab_queue_notification_prompt "टैब को कतार &#8230; में जोड़ा जा रहा है">
+<!ENTITY tab_queue_notification_prompt "नए टैब को कतार &#8230; में जोड़ा जा रहा है">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -370,7 +370,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; टैब इंतज़ार कर रहा हैं">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 टैब इंतज़ार कर रहा हैं">
+<!ENTITY tab_queue_notification_text_singular2 "1 टैब इंतज़ार कर रहा">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
