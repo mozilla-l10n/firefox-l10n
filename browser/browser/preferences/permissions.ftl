@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Nowe pominanja za pśistupom na wašo městno blokěrowaś
 permissions-site-location-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom k wašomu městnoju zajźowaś. Gaž pśistup k wašomu městnoju blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Nastajenja - pšawa za wirtuelnu realitu
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Slědujuce websedła su pominali pśistup k wašym rědam wirtuelneje reality. Móžośo pódaś, kótare websedła maju pśistup k wašym rědam wirtuelneje reality. Móžośo teke nowe napšašanja za pśistupom k wašym rědam wirtuelneje reality blokěrowaś.
+permissions-site-xr-disable-label =
+    .label = Nowe napšašanja za pśistupom k wašym rědam wirtuelneje reality
+permissions-site-xr-disable-desc = To buźo websydłam, kótarež górjejce w lisćinje pódane njejsu, napšašowanje za pśistupom k wašym rědam wirtualneje reality zawoboraś. Gaž pśistup k swójim rědam wirtuelneje reality blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

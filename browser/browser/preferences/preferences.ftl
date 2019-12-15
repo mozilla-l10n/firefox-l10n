@@ -569,6 +569,12 @@ search-keyword-warning-bookmark = Sćo klucowe słowo wubrał, kótarež wužiwa
 ## Containers Section
 
 containers-back-link = « Slědk
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Slědk k nastajenjam
+           *[other] Slědk k nastajenjam
+        }
 containers-header = Kontejnerowe rejtarki
 containers-add-button =
     .label = Nowy kontejner pśidaś
@@ -976,6 +982,10 @@ permissions-location = Městno
 permissions-location-settings =
     .label = Nastajenja…
     .accesskey = t
+permissions-xr = Wirtuelna realita
+permissions-xr-settings =
+    .label = Nastajenja…
+    .accesskey = N
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Nastajenja…
@@ -1024,6 +1034,8 @@ permissions-a11y-privacy-link = Dalšne informacije
 collection-header = Gromaźenje a wužywanje datow { -brand-short-name }
 collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, což musymy póbitowaś, aby my { -brand-short-name } za kuždego pólěpšili. Pšosymy pśecej wó dowólnosć, nježli až wósobinske daty dostanjomy.
 collection-privacy-notice = Powěźeńka priwatnosći
+collection-health-report-telemetry-disabled = Sćo zajmjeł { -vendor-short-name } dowólnosć, techniske a interakciske daty gromaźiś. Wšykne dotychměst zgromaźone daty se w běgu 30 dnjow wulašuju.
+collection-health-report-telemetry-disabled-link = Dalšne informacije
 collection-health-report =
     .label = { -brand-short-name } zmóžniś, techniske a interakciske daty na { -vendor-short-name } pósłaś
     .accesskey = t
