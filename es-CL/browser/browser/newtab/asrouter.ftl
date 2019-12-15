@@ -122,6 +122,7 @@ cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 
 cfr-whatsnew-pip-header = Mira videos mientras navegas
 cfr-whatsnew-pip-body = La función picture-in-picture muestra el vídeo en una ventana flotante para que puedas verlo mientras trabajas en otras pestañas.
+cfr-whatsnew-pip-cta = Aprender más
 
 ## Permission Prompt
 

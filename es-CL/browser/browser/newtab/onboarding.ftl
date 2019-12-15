@@ -140,6 +140,7 @@ onboarding-lockwise-passwords-text2 = Mantén las contraseñas que guardas de fo
 onboarding-lockwise-passwords-button2 = Conseguir la aplicación
 onboarding-lockwise-strong-passwords-title = Crea y almacena contraseñas seguras
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crea contraseñas seguras en el acto y las guarda en un solo lugar.
+onboarding-lockwise-strong-passwords-button = Gestiona tus conexiones
 onboarding-facebook-container-title = Establece la frontera con Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene tu perfil separado de todo lo demás, haciendo más difícil para Firefox el entregarte publicidad personalizada.
 onboarding-facebook-container-button = Añadir la extensión
