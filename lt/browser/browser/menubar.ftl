@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Originalus
     .accesskey = O
+menu-view-full-zoom-actual-size =
+    .label = Tikras dydis
+    .accesskey = T
 menu-view-full-zoom-toggle =
     .label = Keisti tik teksto dydį
     .accesskey = t
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Visas ekranas
     .accesskey = V
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Rodyti visas korteles
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Priedai
     .accesskey = P
-menu-tools-sync-sign-in =
-    .label = Jungtis prie „{ -sync-brand-short-name }“…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Prisijungti prie „{ -brand-product-name }“…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Sinchronizuoti dabar
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Iš naujo jungtis prie „{ -sync-brand-short-name }“…
-    .accesskey = n
 menu-tools-fxa-re-auth =
     .label = Prisijungti prie „{ -brand-product-name }“ iš naujo…
     .accesskey = r
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Perleisti programą su išjungtais priedais
     .accesskey = r
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Pranešti apie apgaulingą svetainę…
     .accesskey = a
