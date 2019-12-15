@@ -374,32 +374,32 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "\&quot;एकाधिक कड़ी खोलें\&quot;, कृपया \&apos;अन्य ऐप्स पर रेखाचित्र बनाएँ\&apos; अनुमति को &brandShortName; के लिए सक्रिय करें">
+<!ENTITY tab_queue_notification_settings "\&quot;एकाधिक लिंक खोलें\&quot; के लिए, कृपया &brandShortName; के लिए \&apos;अन्य ऐप पर रेखाचित्र बनाएं\&apos; की अनुमति सक्रिय करें">
 
-<!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
-<!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
-<!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
-<!ENTITY pref_clear_private_data2 "निजी डेटा मिटायें">
+<!ENTITY pref_char_encoding "कैरेक्टर एन्कोडिंग">
+<!ENTITY pref_char_encoding_on "मेन्यू दिखाएं">
+<!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएं">
+<!ENTITY pref_clear_private_data2 "निजी डेटा मिटाएं">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "अभी मिटायें">
-<!ENTITY pref_clear_on_exit_title3 "बाहर निकलने पर निजी डेटा मिटायें">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; स्वचालित रूप से आपका डेटा मिटा देगा जब आप मेन मेन्यू से \&quot;बाहर जाएँ\&quot; चुनेंगे">
-<!ENTITY pref_clear_on_exit_dialog_title "साफ करने के लिए डाटा चुनें">
-<!ENTITY pref_restore_tabs "टैब पुनर्बहाल करें">
-<!ENTITY pref_restore_always "हमेशा पुनर्बहाल करें">
-<!ENTITY pref_restore_quit "&brandShortName; छोड़ने के बाद पुनर्बहाल मत करें">
+<!ENTITY pref_clear_private_data_now_tablet "अभी मिटाएं">
+<!ENTITY pref_clear_on_exit_title3 "बाहर निकलने पर निजी डेटा मिटाएं">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; स्वचालित रूप से आपका डेटा मिटा देगा जब आप मुख्य मेन्यू से \&quot;बाहर जाएं\&quot; चुनेंगे">
+<!ENTITY pref_clear_on_exit_dialog_title "मिटाने वाला डेटा चुनें">
+<!ENTITY pref_restore_tabs "टैब रिस्टोर करें">
+<!ENTITY pref_restore_always "हमेशा रिस्टोर करें">
+<!ENTITY pref_restore_quit "&brandShortName; छोड़ने के बाद रिस्टोर मत करें">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-<!ENTITY pref_use_system_font_size "प्रणाली लिपि आकार का उपयोग करें">
-<!ENTITY pref_use_system_font_size_summary "प्रणाली लिपि आकार के अनुसार वेब सामग्री की माप लें">
+<!ENTITY pref_use_system_font_size "सिस्टम फ़ॉन्ट आकार का उपयोग करें">
+<!ENTITY pref_use_system_font_size_summary "सिस्टम फ़ॉन्ट आकार के अनुसार वेब सामग्री की माप लें">
 
 <!ENTITY pref_media_autoplay_enabled "ऑटोप्ले की अनुमति दें">
 <!ENTITY pref_media_autoplay_allow "ऑटोप्ले की अनुमति दें">
 <!ENTITY pref_media_autoplay_block "ऑटोप्ले ब्लॉक करें">
 <!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करें">
-<!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड हैं, ताकि आप किसी भी पृष्ठ ज़ूम कर सकते हैं">
+<!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड ताकि आप किसी भी पृष्ठ को ज़ूम कर सकें">
 <!ENTITY pref_voice_input "ध्वनि का इनपुट">
 <!ENTITY pref_voice_input_summary2 "शीर्षक पट्टी में आवाज URL की अनुमति दें">
 <!ENTITY pref_qrcode_enabled "QR कोड रीडर">
