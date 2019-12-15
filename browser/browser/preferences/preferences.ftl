@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Du har valt ett nyckelord som redan används a
 ## Containers Section
 
 containers-back-link = « Gå tillbaka
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Tillbaka till inställningar
+           *[other] Tillbaka till inställningar
+        }
 containers-header = Innehållsflikar
 containers-add-button =
     .label = Lägg till ny behållare
@@ -1019,6 +1025,7 @@ permissions-a11y-privacy-link = Läs mer
 collection-header = Datainsamling och användning för { -brand-short-name }
 collection-description = Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra { -brand-short-name } för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.
 collection-privacy-notice = Sekretesspolicy
+collection-health-report-telemetry-disabled-link = Läs mer
 collection-health-report =
     .label = Tillåt { -brand-short-name } att automatiskt skicka teknisk och interaktionsdata till { -vendor-short-name }
     .accesskey = r
