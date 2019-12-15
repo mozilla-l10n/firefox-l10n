@@ -139,6 +139,10 @@ permissions-site-location-disable-desc = To budźe websydła, kotrež horjeka w 
 permissions-site-xr-window =
     .title = Nastajenja - prawa za wirtualnu realitu
     .style = { permissions-window.style }
+permissions-site-xr-desc = Slědowace websydła su přistup k wašim gratam wirtualneje reality požadali. Móžeće podać, kotre websydła maja přistup k wašim gratam wirtualneje reality. Móžeće tež nowe žadanja za přistupom k wašim gratam wirtualneje reality blokować.
+permissions-site-xr-disable-label =
+    .label = Nowe žadanja za přistupom k wašim gratam wirtualneje reality
+permissions-site-xr-disable-desc = To budźe websydła, kotrež horjeka w lisćinje podate njejsu, při žadanju za přistupom k wašim gratam wirtualneje reality haćić. Hdyž přistup k swojim gratam wirtualneje reality blokujeće, móže so stać, zo někotre funkcije websydła njefunguja.
 
 ## Site Permissions - Camera
 
