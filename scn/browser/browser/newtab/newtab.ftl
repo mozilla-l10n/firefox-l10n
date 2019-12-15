@@ -39,7 +39,7 @@ newtab-topsites-image-validation = Mpussìbbili carricari a mmàggini. Prova nu 
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
-newtab-topsites-cancel-button = Annulla
+newtab-topsites-cancel-button = Sfallisci
 newtab-topsites-delete-history-button = Cancella dâ crunuluggìa
 newtab-topsites-save-button = Sarba
 newtab-topsites-preview-button = Antiprima
@@ -66,16 +66,21 @@ newtab-menu-content-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-delete-history = Cancella dâ crunuluggìa
+newtab-menu-delete-pocket = Cancella di { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 
 
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Cancella nzingalibbru
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-remove-download = Cancella dâ crunuluggìa
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -90,6 +95,7 @@ newtab-menu-content-tooltip =
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Cancella sizziuni
 
 ## Section aria-labels
 

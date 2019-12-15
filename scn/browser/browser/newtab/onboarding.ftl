@@ -20,7 +20,8 @@ onboarding-button-label-get-started = Accumincia
 
 onboarding-welcome-header = Bimminuti nne { -brand-short-name }
 onboarding-welcome-body = Ài u navigaturi.<br/>Canusci lu restu di { -brand-product-name }.
-onboarding-welcome-learn-more = Cchiù nfurmazziuna ncapu li binifici.
+onboarding-welcome-learn-more = Cchiù nfurmazziuna supra i binifici.
+onboarding-welcome-modal-family-learn-more = Cchiù nfurmazziuna supra â famigghia di prudutti { -brand-product-name }
 onboarding-join-form-header = Jùnciti a { -brand-product-name }
 onboarding-join-form-body = Metti la to e-mail p'accuminciari.
 onboarding-join-form-email =
@@ -35,6 +36,7 @@ onboarding-start-browsing-button-label = Accumincia a navigari
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-learn-more-link = Cchiù nfurmazziuna supra ô cuntu Firefox
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
@@ -79,7 +81,7 @@ onboarding-firefox-monitor-title = Arresta nfurmatu ncapu li viulazziuna di dati
 onboarding-firefox-monitor-text = { -monitor-brand-name } munìtura si la to e-mail cumparìu nna quarchi viulazziuni di dati e t'abbisa si cumparisci nna quarchi nova viulazziuni.
 onboarding-firefox-monitor-button = Riggìstrati pi l'abbisi
 onboarding-browse-privately-title = Nàviga privatamenti
-onboarding-browse-privately-text = La Navigazziuni privata cancella li to ricerchi e la crunuluggìa di navigazziuni pi tèniri li cosi sicriti di tutti l'autri ca ùsanu lu to computer.
+onboarding-browse-privately-text = A navigazziuni privata cancella i to ricerchi e a crunuluggìa di navigazziuni pi tèniri i cosi sicriti di tutti l'autri ca ùsanu u to computer.
 onboarding-browse-privately-button = Rapi na finestra privata
 onboarding-firefox-send-title = Teni li to plichi spartuti privati
 onboarding-firefox-send-button = Prova { -send-brand-name }

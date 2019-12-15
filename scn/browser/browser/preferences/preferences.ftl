@@ -62,7 +62,7 @@ feature-enable-requires-restart = { -brand-short-name } s'àvi a riabbiari p'abb
 feature-disable-requires-restart = { -brand-short-name } s'àvi a riabbiari pi disabilitari sta funziunalità.
 should-restart-title = Riabbìa { -brand-short-name }
 should-restart-ok = Riabbìa { -brand-short-name } ora
-cancel-no-restart-button = Annulla
+cancel-no-restart-button = Sfallisci
 restart-later = Riabbìa doppu
 
 ## Extension Control Notifications
@@ -318,6 +318,9 @@ update-pref-write-failure-title = Scrittura falluta
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Mpussìbbili sarbari li prifirenzi. Nun si potti scrìviri nnô plicu: { $path }
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Cuntinua
 
 ## General Section - Performance
 
@@ -357,6 +360,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cerca testu quannu accuminci a diggitari
     .accesskey = x
+browsing-picture-in-picture-learn-more = Cchiù nfurmazziuna
 browsing-cfr-recommendations =
     .label = Raccumanna stinziuna mentri nàvighi
     .accesskey = R
@@ -414,6 +418,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-recommended-by-learn-more = Comu funziona
 
 ## Search Section
 
@@ -571,8 +576,8 @@ sync-device-name-change =
     .label = Cancia lu nomu dû dispusitivu...
     .accesskey = h
 sync-device-name-cancel =
-    .label = Annulla
-    .accesskey = n
+    .label = Sfallisci
+    .accesskey = S
 sync-device-name-save =
     .label = Sarba
     .accesskey = v
@@ -599,6 +604,7 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Ccizziuna...
     .accesskey = x
+forms-breach-alerts-learn-more-link = Cchiù nfurmazziuna
 forms-saved-logins =
     .label = Accessi sarbati...
     .accesskey = L
@@ -641,14 +647,14 @@ history-remember-search-option =
     .label = Ricorda crunuluggìa di ricerca e mòduli
     .accesskey = f
 history-clear-on-close-option =
-    .label = Cancella la crunuluggìa quannu { -brand-short-name } si chiuji
+    .label = Cancella a crunuluggìa quannu { -brand-short-name } si chiuji
     .accesskey = r
 history-clear-on-close-settings =
     .label = Mpustazziuna...
     .accesskey = t
 history-clear-button =
-    .label = Cancella la crunuluggìa...
-    .accesskey = s
+    .label = Cancella a crunuluggìa...
+    .accesskey = C
 
 ## Privacy Section - Site Data
 
@@ -661,7 +667,7 @@ sitedata-total-size = Li cookie, li dati dî siti, e lu dipòsitu sarbati a stu 
 sitedata-learn-more = Cchiù nfurmazziuna
 sitedata-delete-on-close =
     .label = Cancella cookie e dati dî siti quannu { -brand-short-name } è chiusu
-    .accesskey = c
+    .accesskey = k
 sitedata-delete-on-close-private-browsing = Câ navigazziuni privata pirmanenti, li cookie e li dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiusu.
 sitedata-allow-cookies-option =
     .label = Accetta li cookie e li dati dî siti
@@ -839,6 +845,7 @@ permissions-a11y-privacy-link = Cchiù nfurmazziuna
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
 collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e migghiurari { -brand-short-name } pi tutti. Dumannamu sempri lu pirmisu prima d'arricìviri nfurmazziuna pirsunali.
 collection-privacy-notice = Abbisi di privatizza
+collection-health-report-telemetry-disabled-link = Cchiù nfurmazziuna
 collection-health-report =
     .label = Pirmetti a { -brand-short-name } di mannari dati tècnici e di ntirazziuni a { -vendor-short-name }
     .accesskey = r
@@ -913,7 +920,6 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = D'accordu, lu capivu
     .accesskey = K
-space-alert-under-5gb-message = { -brand-short-name } sta finennu lu spazziu nnô discu. Li cuntinuti dî siti si putìssiru vìdiri mali. Vìsita “Cchiù nfurmazziuna” p'uttimizzari l'usu dû discu pi na megghiu spirienza di navigazziuni.
 
 ## The following strings are used in the Download section of settings
 

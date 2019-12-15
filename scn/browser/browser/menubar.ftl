@@ -90,6 +90,8 @@ menu-history =
     .accesskey = u
 menu-history-show-all-history =
     .label = Mustra tutta a crunuluggía
+menu-history-clear-recent-history =
+    .label = Cancella crunuluggìa ricenti…
 menu-history-restore-last-session =
     .label = Arripigghia a sissiuni pricidenti
 

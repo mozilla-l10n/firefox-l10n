@@ -19,6 +19,7 @@ fxaccounts-avatar-button =
 
 ## Login
 
+login-item-delete-button = Cancella
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-copy-username-button-text = Copia
@@ -26,6 +27,7 @@ login-item-copied-username-button-text = Cupiatu!
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = Cupiatu!
 login-item-save-new-button = Sarba
+login-item-cancel-button = Sfallisci
 
 ## Master Password notification
 
@@ -35,6 +37,10 @@ login-item-save-new-button = Sarba
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Sfallisci
+confirmation-dialog-dismiss-button =
+    .title = Sfallisci
+confirm-delete-dialog-confirm-button = Cancella
 
 ## Breach Alert notification
 

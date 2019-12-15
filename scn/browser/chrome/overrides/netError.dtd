@@ -33,7 +33,7 @@
 
 
 
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
@@ -42,18 +42,23 @@ was trying to connect. -->
 
 
 
-<!ENTITY errorReporting.learnMore "Cchiú nfurmazzioni…">
+
+
+
+
+
+<!ENTITY errorReporting.learnMore "Cchiù nfurmazziuna…">
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
+
 
 

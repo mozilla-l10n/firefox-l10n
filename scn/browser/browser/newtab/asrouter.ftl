@@ -71,15 +71,18 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Cchiù nfurmazziuna
 
 ## What's New toolbar button and panel
 
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = Cchiù nfurmazziuna
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Cchiù nfurmazziuna
 
 ## Fingerprinter Counter
 
