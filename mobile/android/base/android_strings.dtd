@@ -400,19 +400,19 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_media_autoplay_block "ऑटोप्ले ब्लॉक करें">
 <!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करें">
 <!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड ताकि आप किसी भी पृष्ठ को ज़ूम कर सकें">
-<!ENTITY pref_voice_input "ध्वनि का इनपुट">
-<!ENTITY pref_voice_input_summary2 "शीर्षक पट्टी में आवाज URL की अनुमति दें">
+<!ENTITY pref_voice_input "वॉइस इनपुट">
+<!ENTITY pref_voice_input_summary2 "URL पट्टी में वॉइस डिक्टेशन की अनुमति दें">
 <!ENTITY pref_qrcode_enabled "QR कोड रीडर">
 <!ENTITY pref_qrcode_enabled_summary2 "URL पट्टी में QR स्कैनर की अनुमति दें">
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड का उपयोग करें">
 <!ENTITY pref_sync_default_title "Firefox खाता">
 <!ENTITY pref_sync2 "साइन इन">
-<!ENTITY pref_sync_summary2 "अपने टैब, बुकमार्क, पासवर्ड, इतिहास सिंक करें">
-<!ENTITY pref_search_suggestions "खोज सलाह दिखाएँ">
-<!ENTITY pref_history_search_suggestions "खोज इतिहास दिखाएँ">
+<!ENTITY pref_sync_summary2 "अपने टैब, बुकमार्क, लॉगिन, इतिहास सिंक करें">
+<!ENTITY pref_search_suggestions "खोज सलाह दिखाएं">
+<!ENTITY pref_history_search_suggestions "खोज इतिहास दिखाएं">
 <!ENTITY pref_import_options "आयात विकल्प">
-<!ENTITY pref_import_android_summary "देशी ब्राउज़र से बुकमार्क और इतिहास आयात करें">
+<!ENTITY pref_import_android_summary "स्थानीय ब्राउज़र से बुकमार्क और इतिहास आयात करें">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "खुले टैब">
@@ -426,35 +426,35 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोड">
 <!ENTITY pref_private_data_syncedTabs "सिंक हुए टैब">
 
-<!ENTITY pref_default_browser2 "&brandShortName; को अपना डिफ़ॉल्ट ब्राउज़र बनाएं">
+<!ENTITY pref_default_browser2 "&brandShortName; को अपना तयशुदा ब्राउज़र बनाएं">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "ब्राउज़र ऐप के &amp; को दबाएं और &brandShortName; चुनें">
 <!ENTITY pref_about_firefox "&brandShortName; परिचय">
-<!ENTITY pref_vendor_faqs "आम सवाल">
+<!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "प्रतिक्रिया दें">
 
 <!ENTITY pref_dialog_set_default "बतौर तयशुदा सेट करें">
 <!ENTITY pref_dialog_default "तयशुदा">
-<!ENTITY pref_dialog_remove "हटाएँ">
+<!ENTITY pref_dialog_remove "हटाएं">
 <!ENTITY pref_dialog_activitystream_header_content "अतिरिक्त सामग्री">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "आधुनिक बुकमार्क">
 <!ENTITY pref_dialog_activitystream_visited "देखा गया">
 
-<!ENTITY pref_search_last_toast "आप अपने आख़िरी खोज इंजिन को हटा या निष्क्रिय नहीं कर सकते.">
+<!ENTITY pref_search_last_toast "आप अपने आख़िरी खोज इंजन को हटा या निष्क्रिय नहीं कर सकते।">
 
-<!ENTITY pref_panels_show "दिखाएँ">
-<!ENTITY pref_panels_hide "छिपाएँ">
-<!ENTITY pref_panels_reorder "अनुक्रम उलटें">
+<!ENTITY pref_panels_show "दिखाएं">
+<!ENTITY pref_panels_hide "छिपाएं">
+<!ENTITY pref_panels_reorder "क्रम बदलें">
 <!ENTITY pref_panels_move_up "ऊपर करें">
-<!ENTITY pref_panels_move_down "नीचे जाएँ">
+<!ENTITY pref_panels_move_down "नीचे करें">
 
 <!ENTITY datareporting_notification_title "&brandShortName; आंकड़े &amp; डेटा">
 <!ENTITY datareporting_notification_action "चुनें क्या साझा करना है">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "चुनें कौन-सी सूचना साझा करनी है">
-<!ENTITY datareporting_notification_summary "अपने अनुभव के विस्तार के लिए, &brandShortName; स्वतः &vendorShortName; को कुछ सूचना भेजता है.">
+<!ENTITY datareporting_notification_summary "अपने अनुभव का विकास करने के लिए, &brandShortName; स्वचालित रूप से &vendorShortName; को कुछ सूचना भेजता है।">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
