@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Imprentar…
     .accesskey = m
+menu-file-import-from-another-browser =
+    .label = Importar datos de belatro navegador…
+    .accesskey = I
 menu-file-go-offline =
     .label = Treballar difuera de linia
     .accesskey = d
@@ -121,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Reiniciar
     .accesskey = n
+menu-view-full-zoom-actual-size =
+    .label = Mida real
+    .accesskey = a
 menu-view-full-zoom-toggle =
     .label = Nomás agrandir o texto
     .accesskey = i
@@ -150,7 +156,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Amostrar todas as pestanyas
@@ -206,14 +212,17 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Complementos
     .accesskey = C
-menu-tools-sync-sign-in =
-    .label = Encetar sesion en o { -sync-brand-short-name }…
-    .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Iniciar sesión en { -brand-product-name }
+    .accesskey = n
+menu-tools-turn-on-sync =
+    .label = Enchegar { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sincronizar agora
     .accesskey = z
-menu-tools-sync-re-auth =
-    .label = Reconnectar a { -sync-brand-short-name }…
+menu-tools-fxa-re-auth =
+    .label = Reconnectar a { -brand-product-name }…
     .accesskey = R
 menu-tools-web-developer =
     .label = Desembolicador web
@@ -273,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Reiniciar con os complementos activaus
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Informar de puesto malicioso…
     .accesskey = I

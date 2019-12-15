@@ -4,3 +4,6 @@
 
 restart-required-title = Reinicio requiesto
 restart-required-header = Encara nos falta una coseta que fer pa estar prestos.
+restart-required-intro-brand = Lo { -brand-short-name } s'ha actualizau en segundo plano. Fe clic en «Reiniciar { -brand-short-name }» pa rematar l'actualización.
+restart-required-description = Dimpués restauraremos totas las tuyas pachinas, finestrar y pestanyas, pa que puedas continuar rapidament.
+restart-button-label = Reiniciar { -brand-short-name }

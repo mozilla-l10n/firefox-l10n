@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } fa servir un certificau de seguranza no valido.
+cert-error-mitm-intro = Los puestos web preban la suya identidat per medio de certificaus emesos per entidatz certificaderas.
 cert-error-trust-cert-invalid = No se confía en o certificau porque estió emitiu por un certificau de CA no valido.
 cert-error-trust-untrusted-issuer = No se confía en o certificau porque tampoco no se confía en o certificau d'o emisor.
 cert-error-trust-signature-algorithm-disabled = No se confía en o certificau porque s'ha sinyau con un algoritmo de sinyadura que se desactivó porque no yera seguro.
@@ -14,6 +15,7 @@ cert-error-untrusted-default = O certificau no procede d'una fuent de confianza.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codigo d'error: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = Puetz notificar lo problema a l'administrador d'o puesto web.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguranza de Transporte Estricto HTTP: { $hasHSTS }

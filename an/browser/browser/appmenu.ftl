@@ -5,6 +5,16 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Proteccions de privacidat
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = Ir ta lo tuyo informe de privacidat
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Agrandir
+appmenuitem-zoom-reduce =
+    .label = Achiquir
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 

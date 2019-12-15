@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Pestanyas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = Quiere veyer aquí las pestanyas d'os atros dispositivos?
 synced-tabs-sidebar-notsignedin = Iniciar la sesión pa veyer una lista d'as pestanyas d'os atros dispositivos.
+synced-tabs-sidebar-intro = Veyer una lista d'as pestanyas d'os atros dispositivos.
 synced-tabs-sidebar-unverified = Fa falta verificar lo tuyo conto.
 synced-tabs-sidebar-notabs = No i hai garra pestanya ubierta
 synced-tabs-sidebar-openprefs = Ubrir las preferencias d'o { -sync-brand-short-name }
@@ -40,3 +41,4 @@ synced-tabs-context-sync-now =
     .label = Sincronizar agora
     .accesskey = z
 fxa-sign-in = Connectar-se a { -sync-brand-short-name }
+turn-on-sync = Enchegar { -sync-brand-short-name }…
