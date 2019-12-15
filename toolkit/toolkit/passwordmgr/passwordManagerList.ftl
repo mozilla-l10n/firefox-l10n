@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Ye seguro que quiere eliminar todas as claus?
 remove-all-passwords-title = Eliminar todas as claus
 no-master-password-prompt = Ye seguro que quiere amostrar as suyas claus?
+auto-fill-logins-and-passwords =
+    .label = Autorreplenar usuarios y claus
