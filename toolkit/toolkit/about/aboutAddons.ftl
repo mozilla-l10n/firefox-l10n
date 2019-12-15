@@ -30,9 +30,9 @@ preferences =
 tools-menu =
     .tooltiptext = सर्व ॲड-ऑन्स् करीता साधने
 show-unsigned-extensions-button =
-    .label = काही एक्सटेंशन्स पडताळले जाऊ शकले नाहीत
+    .label = काही एक्सटेंशन पडताळले जाऊ शकले नाहीत
 show-all-extensions-button =
-    .label = सर्व एक्सटेंशन्स दर्शवा
+    .label = सर्व एक्सटेंशन दर्शवा
 debug-addons =
     .label = अॅड-ऑनस डीबग करा
     .accesskey = b
@@ -130,7 +130,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = खालील अॅड-ऑन्स् { -brand-short-name } मध्ये वापरण्यासाठी पडताळले गेले नाहीत. आपण करू शकता <label data-l10n-name="find-addons">पुनर्बदल शोधा</label> किंवा विकासकाला ते पडताळून घ्यायला सांगा.
 disabled-unsigned-learn-more = आपणास ऑनलाईन सुरक्षित कसे ठेवायचे याबाबत आमच्या प्रयत्नांसंबंधी अधिक जाणून घ्या.
 disabled-unsigned-devinfo = ज्यांना त्यांचे अॅड-ऑन्स् पडताळून घेण्यात स्वारस्य आहे असे विकासक ते करू शकतात. त्यासाठी वाचा<label data-l10n-name="learn-more">मॅन्युअल</label>.
-plugin-deprecation-description = काही शोधताय काय? काही प्लगईन्स, { -brand-short-name } आता समर्थित नाहीत. <label data-l10n-name="learn-more">अधिक जाणा.</label>
+plugin-deprecation-description = काही शोधताय काय? काही प्लगईन, { -brand-short-name } आता समर्थित नाहीत. <label data-l10n-name="learn-more">अधिक जाणा.</label>
 legacy-warning-show-legacy = सर्व वारसा विस्तार दर्शवा
 legacy-extensions =
     .value = वारसा विस्तार
