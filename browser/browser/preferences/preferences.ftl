@@ -974,6 +974,7 @@ permissions-location = Plats
 permissions-location-settings =
     .label = Inställningar…
     .accesskey = t
+permissions-xr = Virtuell verklighet
 permissions-xr-settings =
     .label = Inställningar…
     .accesskey = t
