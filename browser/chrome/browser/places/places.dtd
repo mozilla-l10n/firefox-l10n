@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "HTML करिता वाचनखुणा एक्सपोर्ट करा…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "इतर ब्राउझरपासून डाटा आयात करा…">
+<!ENTITY importOtherBrowser.label          "इतर ब्राउझरकडून डेटा आयात करा…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "बॅकअप…">
@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "नवीन विभाजक">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "ताजे वाचनखूण पुन्हा लोड करा">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "हलवा">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "नाव">
 <!ENTITY col.tags.label          "टॅग">
 <!ENTITY col.url.label           "स्थान">
 <!ENTITY col.mostrecentvisit.label "सर्वात नुकतीच भेट">
 <!ENTITY col.visitcount.label    "भेट परिमाण">
-<!ENTITY col.description.label   "वर्णन">
 <!ENTITY col.dateadded.label     "जोडले">
 <!ENTITY col.lastmodified.label  "शेवटच्यावेळी केलेले संपादन">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "पुढे जा">
 
-<!ENTITY detailsPane.more.label "जास्त">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "कमी">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "पहाण्याकरीता व गुणधर्म संपादीत करण्याकरीता घटक निवडा">
 
 <!ENTITY view.label               "दृष्य">
