@@ -169,6 +169,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editPropertiesButton.tooltip                   "Rediger le elemento seligite">
 <!ENTITY editAbPropertiesButton.tooltip                 "Modificar le proprietates del adressario seligite">
 <!ENTITY editContactPropertiesButton.tooltip            "Rediger le contacto seligite">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Rediger le lista de distribution eligite">
 <!ENTITY newmsgButton.tooltip                           "Inviar un message de posta">
 <!ENTITY newIM.tooltip                                  "Inviar un message instantanee o chattar">
 <!ENTITY deleteButton2.tooltip                          "Deler le elemento ùeligite">

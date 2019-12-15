@@ -8,6 +8,7 @@
 <!ENTITY accountName.label "Nomine del conto:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identitate predefinite">
+<!ENTITY identityDesc.label "Cata conto ha un identitate, que es le informationes que le alteres vide quando illes lege tu messages.">
 <!ENTITY name.label "Tu nomine:">
 <!ENTITY name.accesskey "T">
 <!ENTITY email.label "Adresse de email:">
@@ -17,6 +18,12 @@
 <!ENTITY replyTo.placeholder "Le destinatarios respondera a iste altere adresse">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.label "Testo pro firma:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "Usar HTML (e.g., &lt;b&gt;nigrate&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Annexar le firma ab un file in vice que (texto, HTML o imagine):">
+<!ENTITY signatureFile.accesskey "x">
 <!ENTITY edit.label "Rediger…">
 <!ENTITY choose.label "Eliger…">
 <!ENTITY choose.accesskey "E">
@@ -34,3 +41,5 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Usar le servitor predefinite">
 
+<!ENTITY smtpServerEdit.label "Rediger servitor SMTP…">
+<!ENTITY smtpServerEdit.accesskey "P">

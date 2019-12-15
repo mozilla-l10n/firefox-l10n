@@ -5,12 +5,21 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Copias e dossiers">
+<!ENTITY sendingPrefix.label "Post haber inviate messages: ">
 <!ENTITY fccMailFolder.label "Placiar un copia in:">
 <!ENTITY fccMailFolder.accesskey "P">
 <!ENTITY fccReplyFollowsParent.label "Placiar responsas in le dossier del message respondite">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "CC a iste adresses email:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Adresses separate per virgulas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "BcC a iste adresses email:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.placeholder "Adresses separate per virgulas">
+<!ENTITY saveMessageDlg.label "Monstrar le fenestra de dialogo de confirmation durante que le messages es salvate">
+<!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Dossier &quot;Inviate&quot; sur:">
 <!ENTITY sentFolderOn.accesskey "I">
@@ -18,6 +27,8 @@
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Archivos de messages">
+<!ENTITY keepArchives.label "Tener archivos de messages in:">
+<!ENTITY keepArchives.accesskey "T">
 <!ENTITY archiveHierarchyButton.label "Optiones de archivo…">
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Dossier &quot;Archivos&quot; sur:">

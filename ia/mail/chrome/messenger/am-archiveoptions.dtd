@@ -5,9 +5,13 @@
 <!-- extracted from am-archiveoptions.xul -->
 
 <!ENTITY dialogTitle.label "Optiones de archivo">
+<!ENTITY archiveGranularityPrefix.label "Quando on archiva messages poner los in:">
 <!ENTITY archiveFlat.label "Un dossier singule">
+<!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "Dossiers archivate per anno">
+<!ENTITY archiveYearly.accesskey "a">
 <!ENTITY archiveMonthly.label "Dossiers archivate per mense">
+<!ENTITY archiveMonthly.accesskey "M">
 <!ENTITY keepFolderStructure.label "Conservar le structura de dossiers existente pro le messages archivate">
 <!ENTITY keepFolderStructure.accesskey "C">
 <!ENTITY archiveExample.label "Exemplo">

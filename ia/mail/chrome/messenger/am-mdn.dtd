@@ -4,9 +4,11 @@
 
 <!ENTITY pane.title                   "Receptas de retorno">
 <!ENTITY useGlobalPrefs.label         "Usar mi preferentias global de receptas pro iste conto">
+<!ENTITY useGlobalPrefs.accesskey     "U">
 <!ENTITY globalReceipts.label         "Preferentias global…">
 <!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalisar le receptas de retorno pro iste conto">
+<!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Quando se invia messages, sempre demandar un recepta">
 <!ENTITY requestReceipt.accesskey     "Q">
 <!ENTITY receiptArrive.label          "Quando un recepta arriva:">
@@ -20,6 +22,10 @@
 <!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "Nunquam retornar un recepta">
 <!ENTITY never.accesskey              "N">
+<!ENTITY notInToCc.label              "Si mi adresse non es in le campo A o CC del message:">
+<!ENTITY notInToCc.accesskey          "S">
+<!ENTITY outsideDomain.label          "Si le mittente es externe a mi dominio:">
+<!ENTITY outsideDomain.accesskey      "x">
 <!ENTITY otherCases.label             "In tote le altere casos:">
 <!ENTITY otherCases.accesskey         "o">
 <!ENTITY askMe.label                  "Demandar me">

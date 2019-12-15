@@ -17,3 +17,4 @@
 <!ENTITY editContactPanelDone.label "Facite">
 <!ENTITY editContactPanelDone.accesskey "F">
 
+<!ENTITY contactMoveDisabledWarning.description "Impossibile cambiar le libro del adresses perque le contacto es in un lista de diffusion.">

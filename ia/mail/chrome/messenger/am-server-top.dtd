@@ -21,6 +21,8 @@
 <!ENTITY biffStart.label "Controlar nove messages cata ">
 <!ENTITY biffStart.accesskey "c">
 <!ENTITY biffEnd.label "minutas">
+<!ENTITY useIdleNotifications.label "Permitter notificationes de servitor immediate quando arriva nove messages">
+<!ENTITY useIdleNotifications.accesskey "m">
 <!ENTITY connectionSecurity.label "Securitate de connexion:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Nulle">
@@ -31,6 +33,7 @@
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Lassar messages sur le servitor">
 <!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Reportar solo titulos">
 <!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "Non plus de">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
@@ -66,6 +69,8 @@
 <!ENTITY newsrcFilePath.label "File newsrc:">
 <!ENTITY newsrcPicker.label "Seliger le file newsrc">
 <!ENTITY abbreviate.label "Monstrar le nomines de gruppos in le pannello de dossiers como:">
+<!ENTITY abbreviateOn.label "Nomine complete (Per exemplo: 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nomine abbreviate (Per exemplo: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avantiate…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codification del testo predefinite:">
@@ -81,3 +86,4 @@
 <!ENTITY storeType.label "Typo de stockage del message:">
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "File per dossier (mbox)">
+<!ENTITY maildirStore.label "File per message (maildir)">

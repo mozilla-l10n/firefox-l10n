@@ -7,8 +7,13 @@
 <!ENTITY conversationsHeader.label     "Conversationes">
 <!ENTITY searchResultConversation.label "Resultato del recerca">
 <!ENTITY chat.noConv.title             "Le conversationes essera monstrate hic.">
+<!ENTITY chat.noConv.description       "Usa le lista de contactos in le pannello de sinistra pro initiar le conversation.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; actualmente non ha ulle previe conversationes conservate pro iste contacto.">
+<!ENTITY chat.noAccount.title             "Tu non ha ancora definite un conto chat.">
+<!ENTITY chat.noAccount.description       "Consenti a &brandShortName; de guidar te a traverso le configuration de tu conto chat.">
 <!ENTITY chat.accountWizard.button       "Comenciar">
 <!ENTITY chat.noConnectedAccount.title             "Tu contos chat non es connexe.">
+<!ENTITY chat.noConnectedAccount.description       "Tu non pote connecter les ab le fenestra de dialogo 'Stato del chat':">
 <!ENTITY chat.showAccountManager.button       "Monstrar stato del chat">
 
 <!ENTITY chat.participants             "Participantes:">
