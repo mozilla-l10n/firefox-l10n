@@ -142,6 +142,7 @@ permissions-site-xr-window =
 permissions-site-xr-desc = Šios svetainės prašo leidimo naudoti jūsų virtualios realybės įrenginius. Jūs galite nurodyti, kurioms svetainėms tai leidžiate daryti. Kartu galite užblokuoti naujus leidimų prašymus.
 permissions-site-xr-disable-label =
     .label = Blokuoti naujus virtualios realybės įrenginių naudojimo prašymus
+permissions-site-xr-disable-desc = Tai neleis svetainėms, neišvardintoms aukščiau, prašyti leidimo naudoti jūsų virtualios realybės įrenginius. Virtualios realybės įrenginių naudojimo blokavimas gali sutrikdyti svetainių funkcionalumą.
 
 ## Site Permissions - Camera
 

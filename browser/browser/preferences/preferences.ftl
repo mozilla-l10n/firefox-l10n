@@ -565,6 +565,12 @@ search-keyword-warning-bookmark = Įvedėte reikšminį žodį, kurį jau naudoj
 ## Containers Section
 
 containers-back-link = « Grįžti
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Grįžti į nuostatas
+           *[other] Grįžti į nuostatas
+        }
 containers-header = Sudėtinio rodinio kortelės
 containers-add-button =
     .label = Pridėti naują sudėtinį rodinį
@@ -972,6 +978,10 @@ permissions-location = Vieta
 permissions-location-settings =
     .label = Nuostatos…
     .accesskey = t
+permissions-xr = Virtualioji realybė
+permissions-xr-settings =
+    .label = Nuostatos…
+    .accesskey = t
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Nuostatos…
@@ -1020,6 +1030,8 @@ permissions-a11y-privacy-link = Sužinoti daugiau
 collection-header = „{ -brand-short-name }“ duomenų rinkimas ir naudojimas
 collection-description = Mes siekiame jums leisti rinktis ir rinkti tik tai, ko reikia teikti ir tobulinti „{ -brand-short-name }“ visiems. Mes visuomet paprašome leidimo prieš gaudami asmeninę informaciją.
 collection-privacy-notice = Privatumo pranešimas
+collection-health-report-telemetry-disabled = Jūs nebeleidžiate „{ -vendor-short-name }“ rinkti techninių ir naudojimosi duomenų. Visi ankstesni duomenys bus pašalinti per 30 dienų.
+collection-health-report-telemetry-disabled-link = Sužinoti daugiau
 collection-health-report =
     .label = Leisti „{ -brand-short-name }“ siųsti techninius ir naudojimosi duomenis „{ -vendor-short-name }i“
     .accesskey = t
