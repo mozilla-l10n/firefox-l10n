@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Amagnu
     .accesskey = A
+menu-view-full-zoom-actual-size =
+    .label = Teɣzi tamirant:
+    .accesskey = z
 menu-view-full-zoom-toggle =
     .label = Semɣer kan aḍris
     .accesskey = S
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Agdil Ačaran
     .accesskey = A
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Sken akk accaren
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Izegrar
     .accesskey = I
-menu-tools-sync-sign-in =
-    .label = Kcem ɣer { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Qqen ɣer { -brand-product-name }...
     .accesskey = q
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Mtawi tura
     .accesskey = M
-menu-tools-sync-re-auth =
-    .label = Qqen i tikelt-nniḍen ɣeṛ { -sync-brand-short-name }…
-    .accesskey = Q
 menu-tools-fxa-re-auth =
     .label = Qqen i tikelt-nniḍen ɣeṛ{ -brand-product-name }...
     .accesskey = Q
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Ales asenker s yizegrar urmiden
     .accesskey = A
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Mmel-aɣ-d asmel ur nemɛin ara…
     .accesskey = m
