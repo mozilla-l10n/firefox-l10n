@@ -134,6 +134,15 @@ permissions-site-location-disable-label =
     .label = Blokuoti naujus jūsų buvimo vietos nustatymo prašymus
 permissions-site-location-disable-desc = Tai neleis svetainėms, neišvardintoms aukščiau, prašyti leidimo nustatyti jūsų buvimo vietą. Buvimo vietos nustatymo blokavimas gali sutrikdyti svetainių funkcionalumą.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Nuostatos – virtualios realybės leidimai
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Šios svetainės prašo leidimo naudoti jūsų virtualios realybės įrenginius. Jūs galite nurodyti, kurioms svetainėms tai leidžiate daryti. Kartu galite užblokuoti naujus leidimų prašymus.
+permissions-site-xr-disable-label =
+    .label = Blokuoti naujus virtualios realybės įrenginių naudojimo prašymus
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
