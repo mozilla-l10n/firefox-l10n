@@ -152,6 +152,7 @@ newtab-discovery-empty-section-topstories-loading = لوڈ ہو رہا ہے…
 newtab-pocket-read-more = مشہور مضامین:
 newtab-pocket-more-recommendations = اور زیادہ سفارشات
 newtab-pocket-how-it-works = یہ کس طرح کام کرتا ہے
+newtab-pocket-whats-pocket = { -pocket-brand-name } کیا ہے؟
 newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 
 ## Error Fallback Content.

@@ -80,6 +80,7 @@ onboarding-ghostery-title = گھوسٹری
 onboarding-ghostery-text = Ghostery کے طرہ ایکسٹینشن کے ساتھ تیز، ہوشیار اور محفوز طریقے سے براؤز کرے، جو کی اپکو پریشان کرنے والے اشتہاروں کو روکنے کی اجازت دیتے ہے۔
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = ہمہ وقت سازی
+onboarding-tracking-protection-title2 = سراغ کاری سے تحفظ
 onboarding-tracking-protection-button2 = یہ کس طرح کام کرتا ہے
 onboarding-data-sync-button2 = { -sync-brand-short-name } میں  سائن ان کریں
 onboarding-browse-privately-title = رازداری سے براؤز کریں
@@ -89,6 +90,7 @@ onboarding-firefox-send-button = { -send-brand-name }آزمائیں
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = موبائل براؤزر ڈاؤن لوڈ کریں
+onboarding-pocket-anywhere-title = کہیں بھی پڑھیں اور سنیں
 onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
 onboarding-lockwise-passwords-button2 = اپلی کیشن حاصل کریں
 onboarding-lockwise-strong-passwords-title = مضبوط پاس ورڈز بنائیں اور محفوظ کریں
