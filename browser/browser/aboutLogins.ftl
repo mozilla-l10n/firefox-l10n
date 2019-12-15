@@ -87,6 +87,9 @@ login-item-copied-password-button-text = S'ha copiau!
 login-item-save-changes-button = Alzar los cambios
 login-item-save-new-button = Alzar
 login-item-cancel-button = Cancelar
+login-item-time-changed = Zaguera modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Creau: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Zaguer uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
