@@ -8,6 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = اہم خبر
+heading = اپنے  { -brand-short-name } پروفائل میں تبدیلیاں
 changed-title = تبدیل کیا ہے
 options-title = میرے اختیارات کیا ہیں؟
 resources = ماخذ

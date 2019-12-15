@@ -4,5 +4,5 @@
 
 fxa-pair-device-dialog =
     .title = اہک اور آلہ جوڑیں
-    .style = width: 26em; min-height: 35em;
+    .style = 	width: 26em; min-height: 35em;
 fxa-qrcode-error-body = دوبارہ کوشش کریں۔

@@ -28,3 +28,19 @@ serviceworker-worker-status = حالت
 serviceworker-worker-status-running = چلائے
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = رکا ہوا
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = رجسٹر کر رہا ہے
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = نقائص اور انتباہات
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = شناخت
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = آئیکن
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = مقصد:  <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = آئکن

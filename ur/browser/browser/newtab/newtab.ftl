@@ -77,6 +77,7 @@ newtab-menu-archive-pocket = { -pocket-brand-name } مے محفوظ
 
 newtab-privacy-modal-button-done = مکمل
 newtab-privacy-modal-header = آپ کی رازداری کی اہمیت ہے۔
+newtab-privacy-modal-link = سیکھیں کہ نئے ٹیب پر رازداری کیسے کام کرتی ہے
 
 
 
@@ -109,6 +110,7 @@ newtab-menu-open-file = مسل کھولیں
 
 newtab-label-visited = دورہ شدہ
 newtab-label-bookmarked = نشان شدہ
+newtab-label-removed-bookmark = نشانی ہٹا دی گئی
 newtab-label-recommended = رجحان سازی
 newtab-label-saved = { -pocket-brand-name } میں محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ

@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = سفارش شدا ایکسٹنشن
+cfr-doorhanger-feature-heading = تجویز کردہ خصوصیت
 
 
 
@@ -60,6 +61,7 @@ cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
 
 ## Protections panel
 
+cfr-protections-panel-header = بغیر پیروی کیے براؤز کریں
 cfr-protections-panel-link-text = مزید سیکھیں
 
 ## What's New toolbar button and panel
