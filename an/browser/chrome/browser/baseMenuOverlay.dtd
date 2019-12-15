@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Aduya"> 
 <!ENTITY helpMenuWin.accesskey    "u">
+
 <!ENTITY aboutProduct2.label      "Arredol d'o &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "d">
 <!ENTITY productHelp2.label       "Aduya d'o &brandShorterName;">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Reiniciar con os complementos activaus">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "Reporte de salut de &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Información ta solucionar problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "f">
@@ -52,3 +50,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Amostrar-lo tot">
+
+<!ENTITY touchBarCmdMac.label           "Personalizar la barra de toques…">
