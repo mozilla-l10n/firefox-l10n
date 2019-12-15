@@ -565,6 +565,12 @@ search-keyword-warning-bookmark = Вы выбралі ключавое слов�
 ## Containers Section
 
 containers-back-link = « Вярнуцца
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Вярнуцца да наладаў
+           *[other] Вярнуцца да параметраў
+        }
 containers-header = Карткі кантэйнераў
 containers-add-button =
     .label = Дадаць новы кантэйнер
@@ -972,6 +978,10 @@ permissions-location = Месцазнаходжанне
 permissions-location-settings =
     .label = Налады…
     .accesskey = а
+permissions-xr = Віртуальная рэчаіснасць
+permissions-xr-settings =
+    .label = Налады…
+    .accesskey = Н
 permissions-camera = Камера
 permissions-camera-settings =
     .label = Налады…
@@ -1020,6 +1030,7 @@ permissions-a11y-privacy-link = Падрабязней
 collection-header = Збор і выкарыстанне звестак { -brand-short-name }
 collection-description = Мы імкнёмся даць вам выбар і збіраць толькі тое, што патрэбна для ўсіх для выпуску і паляпшэння { -brand-short-name }. Мы заўсёды пытаемся дазволу, перш чым атрымаць асабістую інфармацыю.
 collection-privacy-notice = Паведамленне аб прыватнасці
+collection-health-report-telemetry-disabled = Вы больш не дазваляеце { -vendor-short-name } захоўваць тэхнічныя дадзеныя і звесткі аб узаемадзеянні. Усе мінулыя дадзеныя будуць выдалены на працягу 30 дзён.
 collection-health-report-telemetry-disabled-link = Падрабязней
 collection-health-report =
     .label = Дазволіць { -brand-short-name } адпраўляць тэхнічныя звесткі і звесткі ўзаемадзеяння ў { -vendor-short-name }
