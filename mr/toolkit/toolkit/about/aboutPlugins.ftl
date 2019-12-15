@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = प्लग-ईन विषयी
-installed-plugins-label = इंस्टॉल्ड प्लगइन्स
-no-plugins-are-installed-label = इंस्टॉल्ड प्लगइन्स आढळले नाही
-deprecation-description = काही शोधताय काय? काही प्लगईन्स आता समर्थित नाहीत. <a data-l10n-name="deprecation-link">अधिक जाणा.</a>
+installed-plugins-label = इंस्टॉल्ड प्लगइन
+no-plugins-are-installed-label = इंस्टॉल्ड प्लगइन आढळले नाही
+deprecation-description = काही शोधताय काय? काही प्लगईन आता समर्थित नाहीत. <a data-l10n-name="deprecation-link">अधिक जाणा.</a>
 
 ## The information of plugins
 ##
