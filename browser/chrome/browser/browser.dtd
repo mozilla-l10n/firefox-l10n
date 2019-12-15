@@ -73,7 +73,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "ऑफलाईन काम करा">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "मेन्यू पट्टी">
+<!ENTITY menubarCmd.label "मेनू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "संचारन साधनपट्टी">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "सिंक करण्यापूर्वी आपल्याला आपले खाते सत्यापित करणे आवश्यक आहे.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; सेटिंग उघडा…">
 
-<!ENTITY pictureInPictureHideToggle.label "पिक्चर-इन-पिक्चर टॉगल लपवा">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "म्हणून साइन इन">
 <!ENTITY fxa.menu.manageAccount.label "खाते व्यवस्थापित करा…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिंग…">
+
+<!ENTITY pictureInPictureHideToggle.label "पिक्चर-इन-पिक्चर टॉगल लपवा">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "&brandProductName; मध्ये साइन इन करा">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; चालू करा;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; सेवा">
-
 <!ENTITY fxa.menu.account.label "खाते">
 <!ENTITY fxa.menu.settings.label "सेटिंग">
 <!ENTITY fxa.menu.accountSettings.label "खाते सेटिंग">
@@ -558,12 +557,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "सह शोधा:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "यावेळी, यासह शोधा:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -927,11 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "का?">
-<!ENTITY protections.socialMediaTrackers.label "सोशल मीडिया ट्रॅकर">
-<!ENTITY protections.crossSiteTrackingCookies.label "क्रॉस-साईट ट्रॅकिंग कुकी">
-<!ENTITY protections.trackingContent.label "ट्रॅकिंग मजकूर">
-<!ENTITY protections.fingerprinters.label "फिंगरप्रिंटर">
-<!ENTITY protections.cryptominers.label "क्रिप्टोमाइनर">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "या साइटवरील सर्व ट्रॅकर लोड केले गेले आहेत कारण संरक्षण बंद आहे.">
 <!ENTITY protections.noTrackersFound.description "या पृष्ठावर &brandShortName; ला ज्ञात कोणतेही ट्रॅकर आढळले नाहीत.">
 
@@ -949,7 +937,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; मध्ये साईन इन करा...">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "आत्ता सिंक करा">
 <!ENTITY syncSyncNowItemSyncing.label "सिंक करत आहे…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -986,8 +973,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "सोशल मीडिया ट्रॅकर">
-
-<!ENTITY contentBlocking.cookies2.label "क्रॉस-साईट ट्रॅकिंग कुकी">
 
 <!ENTITY contentBlocking.cryptominers.label "क्रिप्टोमाइनर">
 <!ENTITY contentBlocking.cryptominersView.label "क्रिप्टोमाइनर">
