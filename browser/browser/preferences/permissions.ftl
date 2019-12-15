@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Nieuwe verzoeken om toegang tot uw locatie blokkeren
 permissions-site-location-disable-desc = Dit voorkomt dat websites die hierboven niet worden vermeld om toestemming voor toegang tot uw locatie vragen. Het blokkeren van toegang tot uw locatie kan bepaalde functies van websites verstoren.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Instellingen - Toestemmingen voor virtual reality
+    .style = { permissions-window.style }
+permissions-site-xr-desc = De volgende websites hebben om toegang tot uw virtual-reality-apparaten gevraagd. U kunt opgeven welke websites uw virtual-reality-apparaten mogen benaderen. U kunt ook nieuwe verzoeken om toegang tot uw virtual-reality-apparaten blokkeren.
+permissions-site-xr-disable-label =
+    .label = Nieuwe verzoeken om toegang tot uw virtual-reality-apparaten blokkeren
+permissions-site-xr-disable-desc = Dit voorkomt dat websites die hierboven niet worden vermeld om toestemming voor toegang tot uw virtual-reality-apparaten vragen. Het blokkeren van toegang tot uw virtual-reality-apparaten kan bepaalde functies van websites verstoren.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
