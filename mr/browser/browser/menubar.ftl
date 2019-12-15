@@ -50,7 +50,7 @@ menu-file-print =
     .label = छपाई करा…
     .accesskey = P
 menu-file-import-from-another-browser =
-    .label = इतर ब्राउझरपासून आयात करा…
+    .label = इतर ब्राउझरकडून आयात करा…
     .accesskey = I
 menu-file-go-offline =
     .label = ऑफलाईन काम करा
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = पडदाभर
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = सर्व ट्रॅक दाखवा
@@ -209,15 +209,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = ॲड-ऑन्स्
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name } मध्ये साईन इन करा...
-    .accesskey = Y
 menu-tools-sync-now =
     .label = आत्ता सिंक करा
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name } सह पुन्हा जोडणी करा…
-    .accesskey = R
 menu-tools-web-developer =
     .label = वेब डेव्हलपर
     .accesskey = W
@@ -276,8 +270,7 @@ menu-help-safe-mode-with-addons =
     .label = ॲड-ऑन्स् सक्रीय असल्यावर पुनः सुरू करा
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = फसवी साईट कळवा…
     .accesskey = d
