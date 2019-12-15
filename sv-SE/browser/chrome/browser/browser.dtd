@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Du måste verifiera ditt konto innan du kan synkronisera.">
 <!ENTITY fxa.unverified.button.label "Öppna &syncBrand.shortName.label; inställningar…">
 
-<!ENTITY pictureInPictureHideToggle.label "Dölj Picture-in-picture-väljaren">
-<!ENTITY pictureInPictureHideToggle.accesskey "D">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Inloggad som">
 <!ENTITY fxa.menu.manageAccount.label "Hantera konto…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; inställningar…">
+
+<!ENTITY pictureInPictureHideToggle.label "Dölj bild-i-bild växling">
+<!ENTITY pictureInPictureHideToggle.accesskey "D">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Logga in på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Tjänster">
-
 <!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.settings.label "Inställningar">
 <!ENTITY fxa.menu.accountSettings.label "Kontoinställningar">
@@ -202,8 +201,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Picture-in-Picture">
-<!ENTITY pictureInPicture.accesskey "u">
+<!ENTITY pictureInPicture.label "Bild-i-bild">
+<!ENTITY pictureInPicture.accesskey "B">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -568,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Sök med:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Denna gång, sök med:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -940,12 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Varför?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blockering av dessa kan förstöra delar av vissa webbplatser. Utan spårare fungerar kanske inte vissa knappar, formulär och inloggningsfält.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Genom att stänga av skydd tillåts alla spårare på denna webbplats. Det kan också förbättra vissa webbplatsfunktioner.">
-<!ENTITY protections.socialMediaTrackers.label "Sociala media-spårare">
-<!ENTITY protections.crossSiteTrackingCookies.label "Globala spårningskakor">
-<!ENTITY protections.trackingContent.label "Spårningsinnehåll">
-<!ENTITY protections.fingerprinters.label "Fingeravtrycksspårare">
-<!ENTITY protections.cryptominers.label "Kryptogrävare">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alla spårare på denna webbplats har laddats eftersom skyddet är avstängt.">
 <!ENTITY protections.noTrackersFound.description "Inga kända spårare för &brandShortName; upptäcktes på den här sidan.">
 
@@ -968,7 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Logga in till &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Synka nu">
 <!ENTITY syncSyncNowItemSyncing.label "Synkroniserar…">
 <!ENTITY syncSyncNowItem.accesskey    "n">
@@ -1006,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
 <!ENTITY contentBlocking.socialblock.label "Sociala media-spårare">
-
-<!ENTITY contentBlocking.cookies2.label "Globala spårningskakor">
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptogrävare">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptogrävare">
