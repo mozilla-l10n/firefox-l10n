@@ -11,3 +11,4 @@ refresh-profile =
     .label = Arrisetta { -brand-short-name }
 safe-mode-description = A mudalità sicura è na mudalità spiciali di { -brand-short-name } chi po' èssiri usata p'arrisòrbiri prubblemi.
 safe-mode-description-details = L'agghiuncitini e i mpustazziuna pirsunalizzati sarannu disattivati timpuraniamenti, e certi carattirìstichi di { -brand-short-name } putìssiru nun funziunari comu fannu nurmarmenti.
+refresh-profile-instead = Po' macari sautari a risuluzziuni dî prubblemi e pruvari ad arrisittari { -brand-short-name }.
