@@ -1000,6 +1000,7 @@ permissions-a11y-privacy-link = เรียนรู้เพิ่มเติ
 collection-header = การเก็บรวบรวมและใช้ข้อมูล { -brand-short-name }
 collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง { -brand-short-name } สำหรับทุกคน เราขออนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
 collection-privacy-notice = ประกาศความเป็นส่วนตัว
+collection-health-report-telemetry-disabled-link = เรียนรู้เพิ่มเติม
 collection-health-report =
     .label = อนุญาตให้ { -brand-short-name } ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง { -vendor-short-name }
     .accesskey = อ
