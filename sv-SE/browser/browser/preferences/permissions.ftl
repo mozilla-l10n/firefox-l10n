@@ -139,6 +139,8 @@ permissions-site-location-disable-desc = Detta kommer att förhindra att webbpla
 permissions-site-xr-window =
     .title = Inställningar - Rättigheter för virtuell verklighet
     .style = { permissions-window.style }
+permissions-site-xr-disable-label =
+    .label = Blockera nya förfrågningar som ber om åtkomst till dina enheter för virtuell verklighet
 
 ## Site Permissions - Camera
 
