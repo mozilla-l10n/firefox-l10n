@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Tferneḍ awal n tsarutt i yettusqedcen yakan 
 ## Containers Section
 
 containers-back-link = « Uγal
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Uɣal ɣer iɣewwaṛen
+           *[other] Uɣal ɣer ismenyifen
+        }
 containers-header = Iccaren imagbaren
 containers-add-button =
     .label = Rnu amagbar-nniḍen
