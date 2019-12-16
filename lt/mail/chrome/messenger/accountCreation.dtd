@@ -26,22 +26,33 @@
 <!ENTITY password.toggle                 "Rodyti / slėpti slaptažodį">
 <!ENTITY rememberPassword.label          "Įsiminti slaptažodį">
 <!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY usernameEx.label                "Jūsų prisijungimo vardas:">
+<!ENTITY usernameEx.accesskey            "p">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "DOMENAS\naudotojas">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Domeno prisijungimas">
 
+<!ENTITY protocol.label                  "Protokolas:">
 <!ENTITY imapLong.label                  "IMAP (nuotoliniai aplankai)">
 <!ENTITY pop3Long.label                  "POP3 (paštas laikomas jūsų kompiuteryje)">
 
 <!ENTITY incoming.label                  "Laiškų gavimo serveris:">
+<!ENTITY incomingColumn.label            "Gaunami">
 <!ENTITY outgoing.label                  "Laiškų siuntimo serveris:">
+<!ENTITY outgoingColumn.label            "Siunčiami">
 <!ENTITY username.label                  "Abonento vardas:">
 <!ENTITY hostname.label                  "Serverio vardas">
 <!ENTITY port.label                      "Prievadas">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Serveris:">
+<!ENTITY portRow.label                   "Prievadas:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Tapatumo nustatymas">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "„Exchange“">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Nustatyti automatiškai">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -51,6 +62,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "„Exchange“ serveris:">
 
 <!ENTITY advancedSetup.label             "Sudėtingesnis derinimas">
 <!ENTITY advancedSetup.accesskey         "d">
@@ -68,8 +80,14 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Rankinis derinimas">
 <!ENTITY manual-edit.accesskey           "R">
+<!ENTITY manual-config.label             "Konfigūruoti rankiniu būdu…">
+<!ENTITY manual-config.accesskey         "r">
+<!ENTITY open-provisioner.label          "Gauti naują el. pašto adresą…">
+<!ENTITY open-provisioner.accesskey      "G">
 
 
+<!ENTITY get-help.label                  "Žinynas ir pagalba">
+<!ENTITY get-help.accesskey              "P">
 
 
 <!ENTITY warning.label                   "Dėmesio!">
