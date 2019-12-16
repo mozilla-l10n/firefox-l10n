@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Paskyros">
 <!ENTITY subscribeImapFolders.label   "Prenumeruojami aplankai">
 <!ENTITY settingsLink.label           "Paskyros nuostatos">
-<!ENTITY newAcctLink.label            "Kurti naują paskyrą">
-<!ENTITY newAcct.label                "Kurti naują paskyrą:">
+<!ENTITY setupNewAcct.label           "Konfigūruoti paskyrą:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Kitkas">
 <!ENTITY searchMsgsLink.label         "Laiškų paieška">

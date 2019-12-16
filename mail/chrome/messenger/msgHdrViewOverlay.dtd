@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "P">
 <!ENTITY otherActionsPrint1.label "Spausdinti…">
 <!ENTITY otherActionsPrint1.accesskey "S">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Iškart rodyti priedų polangį">
 <!ENTITY startExpandedCmd.accesskey    "r">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Atverti">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Įrašyti kaip…">
@@ -94,8 +94,13 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "š">
 
 <!ENTITY openAttachment.tooltip "Atverti pridėtą failą">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Atverti aplanką">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "a">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Parodyti programoje „Finder“">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Įrašyti">
 <!ENTITY saveAttachmentButton1.tooltip     "Įrašyti priedą kaip failą">
 <!ENTITY saveAllAttachmentsButton1.label   "Įrašyti visus">
