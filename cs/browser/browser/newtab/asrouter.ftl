@@ -104,7 +104,7 @@ cfr-whatsnew-tracking-protect-link-text = Zobrazit podrobnosti
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title = Zablokováno sledovacích prvků
+cfr-whatsnew-tracking-blocked-title = Blokování sledovacích prvků
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Zobrazit podrobnosti
 cfr-whatsnew-lockwise-backup-title = Zálohujte svá hesla
@@ -134,7 +134,7 @@ cfr-whatsnew-permission-prompt-cta = Zjistit více
 cfr-whatsnew-fingerprinter-counter-header = Zablokováno vytvoření otisku prohlížeče
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokuje mnoho způsobů vytváření otisku prohlížeče, které tajně sbírají informace o vašem zařízení, aby si vytvořily profil pro sledování vašich dalších aktivit.
 # Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Vytváření otisku prohlížeče
+cfr-whatsnew-fingerprinter-counter-header-alt = Blokování otisku prohlížeče
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } blokuje vytváření otisku prohlížeče, které tajně sbírá informace o vašem zařízení pro vytvoření vašeho reklamního profilu
 
 ## Bookmark Sync
