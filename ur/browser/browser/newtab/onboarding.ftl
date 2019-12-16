@@ -52,6 +52,7 @@ onboarding-sync-form-skip-login-button = اس مرحلے کو چھوڑیں
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = اپنی ای میل داخل کریں
+onboarding-sync-form-sub-header = { -sync-brand-name } کو جاری رکھنے کے  لیے
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -93,6 +94,7 @@ onboarding-mobile-phone-title = { -brand-product-name }  اپنے فون پر ح
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = موبائل براؤزر ڈاؤن لوڈ کریں
+onboarding-send-tabs-title = فوری طور پر خود کو ٹیبس ارسال کریں
 onboarding-pocket-anywhere-title = کہیں بھی پڑھیں اور سنیں
 onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
 onboarding-lockwise-passwords-button2 = اپلی کیشن حاصل کریں
