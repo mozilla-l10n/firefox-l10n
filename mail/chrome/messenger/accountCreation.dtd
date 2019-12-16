@@ -2,20 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Pašto paskyros kūrimas">
+<!ENTITY autoconfigWizard2.title         "Turimos el. pašto paskyros nustatymas">
+
+<!ENTITY emailWizard.title               "Turimos el. pašto paskyros nustatymas">
+<!ENTITY emailWizard.caption             "Naudoti turimą el. pašto adresą">
 <!ENTITY name.label                      "Asmenvardis:">
 <!ENTITY name.accesskey                  "v">
 <!ENTITY name.placeholder                "Vardenis Pavardenis">
+<!ENTITY fullname.placeholder            "Jūsų vardas ir pavardė">
 <!ENTITY name.text                       "Jūsų vardas, kurį matys kiti">
+<!ENTITY name.error                      "Įveskite savo vardą">
 <!ENTITY email.label                     "El. pašto adresas:">
 <!ENTITY email.accesskey                 "a">
-<!ENTITY email.placeholder               "vpavardenis@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "vpavardenis@example.com">
+<!ENTITY email3.placeholder              "Jūsų el. pašto adresas">
+<!ENTITY email.text                      "Jūsų turimas el. pašto adresas">
+<!ENTITY email.error                     "Netinkamas el. pašto adresas">
 <!ENTITY password.label                  "Slaptažodis:">
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Slaptažodis">
 <!ENTITY password.text                   "Įvesti nebūtina, nes bus panaudotas tik paskyros abonento vardui patikrinti">
+<!ENTITY password.toggle                 "Rodyti / slėpti slaptažodį">
 <!ENTITY rememberPassword.label          "Įsiminti slaptažodį">
 <!ENTITY rememberPassword.accesskey      "m">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY imapLong.label                  "IMAP (nuotoliniai aplankai)">
 <!ENTITY pop3Long.label                  "POP3 (paštas laikomas jūsų kompiuteryje)">
@@ -28,7 +40,8 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Tapatumo nustatymas">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP">
+<!ENTITY pop3.label                      "POP">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Nustatyti automatiškai">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -36,6 +49,8 @@
 <!ENTITY noEncryption.label              "Nenaudojamas">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 
 <!ENTITY advancedSetup.label             "Sudėtingesnis derinimas">
 <!ENTITY advancedSetup.accesskey         "d">
@@ -46,15 +61,15 @@
 <!ENTITY stop.label                      "Stabdyti">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Patikrinti">
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Rankinis derinimas">
 <!ENTITY manual-edit.accesskey           "R">
-<!ENTITY switch-to-provisioner.label     "Kurti naują el. pašto paskyrą">
-<!ENTITY switch-to-provisioner.accesskey "n">
+
+
 
 
 <!ENTITY warning.label                   "Dėmesio!">

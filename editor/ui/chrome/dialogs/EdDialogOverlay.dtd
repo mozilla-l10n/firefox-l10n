@@ -12,7 +12,7 @@
 <!ENTITY makeUrlRelative.label "Santykinis universalusis adresas">
 <!ENTITY makeUrlRelative.accessKey "S">
 <!ENTITY makeUrlRelative.tooltip "Sukeisti santykinį adresą su absoliučiuoju. Prieš tai reikia įrašyti tinklalapį į diską.">
-<!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Surinkite tinklalapio adresą, vietinio failo kelią, arba iš išskleidžiamojo sąrašo parinkite žymę ar antraštę:">
-<!ENTITY LinkURLEditField.accessKey "d">
+<!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Įveskite tinklalapio adresą ar kelią iki vietinio failo arba iš išskleidžiamojo sąrašo pasirinkite žymę ar antraštę:">
+<!ENTITY LinkURLEditField2.accessKey "t">

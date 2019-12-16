@@ -5,9 +5,9 @@
 <!ENTITY windowTitle.label "Spalva">
 <!ENTITY lastPickedColor.label "Paskiausiai pasirinkta spalva">
 <!ENTITY lastPickedColor.accessKey "P">
-<!ENTITY setColor1.label "Pasirinkite spalvą iš paletės arba">
-<!ENTITY setColor2.label "surinkite spalvos HTML kodą">
-<!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Pasirinkite spalvą:">
+<!ENTITY chooseColor2.label "Įveskite HTML spalvą">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(pvz., „#0000ff“ arba „blue“):">
 <!ENTITY default.label "Numatytoji">
 <!ENTITY default.accessKey "N">
