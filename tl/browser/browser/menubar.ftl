@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = i-Reset
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Totoong Sukat
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = i-Zoom lamang ang mga Salita
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Buong Screen
     .accesskey = B
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Ipakita ang Lahat ng Mga Tab
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Mga Add-on
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Mag sign-in sa { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Mag-Sign In sa { -brand-product-name }...
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Mag-sync Na
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Kumonekta ulit sa { -sync-brand-short-name }…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Kumunektang muli sa { -brand-product-name }…
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Mag-restart nang Naka-enable ang mga Add-on
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Magsumbong ng Mapanlinlang na Site...
     .accesskey = D
