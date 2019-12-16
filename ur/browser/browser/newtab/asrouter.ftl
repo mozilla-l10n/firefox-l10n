@@ -116,6 +116,7 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } چالو  کر
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = چلتے پھرتے پڑھیں
+cfr-doorhanger-send-tab-recipe-header = اس ترکیب کو کچن تک لے جائیں
 cfr-doorhanger-send-tab-ok-button = ٹیب بھیجنے کی کوشش کریں
     .accesskey = ت
 
