@@ -121,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> سیکورٹی ٹیکنالوجی کا استعمال کرتا ہے جو کی فرسودہ اور حملے کا شکار ہے۔ حملہ آور آسانی سے اس معلومات کو ظاہر کر سکتا یے جسے آپ محفوظ سمجھ رہے ہے۔ آپکی سائٹ دورہ کرنے سے پہلے ویب سائٹ منتظمکار کو پیش کار ٹھک کرنا ہوگا۔</p><p> خرابی کا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "نیٹ ورک پروٹوکول کی خرابی">
+<!ENTITY networkProtocolError.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جا سکتا کیونکہ نیٹورک پروٹوکول میں نقص پکڑا گیا۔</p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul>">
