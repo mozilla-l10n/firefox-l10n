@@ -4,7 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "On njaɓɓaama">
 <!ENTITY firstrun_urlbar_message2 "A jaaraama ko cuɓi-ɗaa &brandShortName; koo">
+<!ENTITY newfirstrun_urlbar_message "A jaɓɓaama e &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Wanngorde cinndel Mozilla hesere, nde wonaa julorteende, heƴnde e geese ɗe njoɓetaake, udditiiɗe.">
+<!ENTITY newfirstrun_urlbar_subtext "Yaawi, suurii, ɓallii.">
 <!ENTITY firstrun_panel_title_privacy "Suturo">
 <!ENTITY firstrun_privacy_message "Yillo ɗo hay gooto yiyataa ma">
 <!ENTITY firstrun_privacy_subtext "Banngagol Sutura e Ndeenka Dewindol ina faloo ñukkintooɓe saanga nde mbanngotoɗaa kadi ɗum siiftoroytaa aslol maa nde ngasnuɗaa wanngaade.">
@@ -18,6 +20,7 @@
 <!ENTITY firstrun_data_message "Keɓe seeɗa, dannduɗe keewɗe">
 <!ENTITY firstrun_data_subtext2 "Falo nate ngal ustude ñaamdu keɓe e lowre kala njilloto-ɗaa.">
 <!ENTITY firstrun_sync_title "Yahdin">
+<!ENTITY updatednewfirstrun_sync_title "Kontal">
 <!ENTITY firstrun_sync_message2 "Ƴettit ɗo ngoppunoɗaa ɗoo.">
 <!ENTITY firstrun_sync_subtext2 "Huutoro Jahdingol ngam yiytude maantore, finndeeji kañum e geɗe goɗɗe ɗe ndaɗndataa e &brandShortName; e masiŋon maa fof.">
 <!ENTITY firstrun_signin_message "Naat e ceŋol, fuɗɗo jooni">
@@ -26,13 +29,8 @@
 <!ENTITY firstrun_button_notnow "Wonii jooni">
 <!ENTITY firstrun_button_next "Yeeso">
 
-<!ENTITY firstrun_tabqueue_title "Jokke">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Hurmin lasal Tabbe">
-<!ENTITY firstrun_tabqueue_subtext_off "Danndu jokke ngam ko fayi arde e &brandShortName; so a tappii-ɗe e jaaɓɗe goɗɗe.">
 
-<!ENTITY firstrun_tabqueue_message_on "Moƴƴii!">
-<!ENTITY firstrun_tabqueue_subtext_on "Aɗa waawi dartinde ɗum nde njɗ-ɗaa to &settings; les &pref_category_general;.">
+<!ENTITY firstrun_tabqueue_title "Jokke">
 
 <!ENTITY firstrun_readerview_title "Binndanɗe">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -67,8 +65,19 @@
 <!ENTITY  sending_crash_report "Nana nelda jaŋtol hookre\u2026">
 <!ENTITY  crash_close_label "Uddu">
 <!ENTITY  crash_restart_label "Hurmitin &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 
 <!ENTITY url_bar_default_text2 "Yiylo walla naatnu ñiiɓirde">
+
+<!-- Localization note: this text will be displayed in the Search Widget -->
+
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
 
 <!ENTITY bookmark "Maantorol">
 <!ENTITY bookmark_remove "Momtu maantorol">
@@ -95,6 +104,8 @@
 <!ENTITY bookmark_folder_updated "Runngere hesɗitinaama">
 <!ENTITY bookmark_parent_folder "Runngere Yummaare">
 <!ENTITY bookmark_add_folder "Ɓeydu runngere hesere">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
 
 <!ENTITY reader_saved_offline "Danndaama e ceŋtol">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -206,7 +217,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Artir tabbe, danndirde keɓe, kuutorɗe topayɓe">
 <!ENTITY pref_category_notifications "Tintine">
-<!ENTITY pref_category_notifications_summary "Fannuuji kesi, kesɗitine lowre">
 <!ENTITY pref_developer_remotedebugging_usb "Buggitagol goɗɗungol rewde e USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Buggitagol goɗɗungol rewde e Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Buggitagol Wi-Fi ena naamnii yoo kaɓirgol maa aafe tarorde kod QR.">
@@ -282,6 +292,15 @@
 <!ENTITY pref_whats_new_notification "Hol ko hesɗi e &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Humpito baɗte fannuuji kesi caggal kesɗitinal">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Fannuuji ƴeewtindorɗi">
@@ -302,11 +321,6 @@
 <!ENTITY pref_pwa "Jaaɓnirɗe Geese Ceeɓtore">
 <!ENTITY pref_pwa_summary "Yamir jaaɓnirɗe geese ɓeydee e jaɓɓorgo maa">
 
-<!ENTITY tracking_protection_prompt_title "Jooni ena waɗi Ndeenka Dewindol">
-<!ENTITY tracking_protection_prompt_text "Falo geɗe dewindol e caasal kisa nattaa haŋkadi faayde.">
-<!ENTITY tracking_protection_prompt_tip_text "Yillo teelte Suturo ngam ɓeydude humpito">
-<!ENTITY tracking_protection_prompt_action_button "Mi faamii!">
-
 <!ENTITY tab_queue_toast_message3 "Tabbere danndaama e &brandShortName;">
 <!ENTITY tab_queue_toast_action "Uddit jooni">
 <!ENTITY tab_queue_prompt_title "Uddit jokke keewɗe?">
@@ -320,6 +334,8 @@
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Yah to Teelte">
+<!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
+shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -354,7 +370,6 @@
 <!ENTITY pref_use_system_font_size_summary "Werngo geese wonande ɓetol fontere yuɓɓo ngoo">
 
 <!ENTITY pref_media_autoplay_enabled "Yamir tarol jaajol">
-<!ENTITY pref_media_autoplay_enabled_summary "Ƴeewto so lowe geese ena mbaawi tarde widewooji e mejaaje goɗɗe e jaajol">
 <!ENTITY pref_zoom_force_enabled "Hurmin lonngol sahaa kala">
 <!ENTITY pref_zoom_force_enabled_summary "Forsu pawtorgol kisa mbaawaa lonngaade hello kala">
 <!ENTITY pref_voice_input "Naatnal sawto">
@@ -377,15 +392,15 @@
 <!ENTITY pref_private_data_searchHistory "Aslol njiilaw">
 <!ENTITY pref_private_data_formdata2 "Aslol formeere">
 <!ENTITY pref_private_data_cookies2 "Kukiije &amp; ceŋanɗe caasɗe">
-<!ENTITY pref_private_data_passwords2 "Ceŋorɗe danndaaɗe">
 <!ENTITY pref_private_data_cache "Kaasol">
 <!ENTITY pref_private_data_offlineApps "Keɓe lowe ceŋtol">
 <!ENTITY pref_private_data_siteSettings2 "Teelte lowre">
 <!ENTITY pref_private_data_downloadFiles2 "Gaawte">
 <!ENTITY pref_private_data_syncedTabs "Tabbe synckaaɗe">
 
-<!ENTITY pref_default_browser "Waɗtu wanngorde woowaande">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Yillo Wallitorde Mozilla">
+<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
+    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
+    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY pref_about_firefox "Baɗte &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Hokku duttinal">
@@ -422,7 +437,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Lollinat keɓe to &vendorShortName; baɗte cellal wanngorde maa tee ena walla faamde ñisgol wanngorde maa">
-<!ENTITY datareporting_abouthr_title "Yiyto Jaŋtol Cellal al">
 <!ENTITY datareporting_telemetry_title "Telemeetiri">
 <!ENTITY datareporting_telemetry_summary "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; naatnoytu jaŋte kooke ngam wallude &vendorShortName; ɓeydude yamɗinde e hisnude wanngorde maa">
@@ -431,6 +445,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Jaŋtorde Kooke">
 <!ENTITY datareporting_wifi_title2 "Carwol Nokkuure &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Wallu &vendorShortName; diidtaade winndere! Lollin saraaji nokkuure Wi-Fi e selluleer kaɓirgol maa ngam ƴellitde carwol tolnitorde amen.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -475,6 +493,9 @@
 <!ENTITY find_next "Yeeso">
 <!ENTITY find_close "Uddu">
 
+<!-- Localization note (find_error) : Error message shown when there is no result for the
+     searched for text in this webpage -->
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Nana nelda to Kaɓirgol">
@@ -485,7 +506,6 @@
 <!ENTITY contextmenu_open_new_tab "Uddit e Tabbere Hesere">
 <!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
 <!ENTITY contextmenu_remove "Momtu">
-<!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
 <!ENTITY contextmenu_add_page_shortcut "Ɓeydu Codorɗe Hello">
 <!ENTITY contextmenu_set_as_homepage "Waɗtu Jaɓɓorgo">
 <!ENTITY contextmenu_share "Lollin">
@@ -537,10 +557,9 @@
 <!ENTITY pref_compact_tabs_summary2 "Waɗ tabbe ɗee nder dari ɗiɗi e mbaydi dariingo">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Hello momtaama">
-
 <!ENTITY folder_removed "Rungere momtaama">
 
 <!ENTITY bookmark_edit_title "Taƴto Maantorol">
@@ -753,7 +772,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Syncaa wattan: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Synkaa wattan: hay sahaa">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -811,17 +830,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Ɗaccu hakke! Oo &brandShortName; dogataa e ngol kaɓirgol (&formatS1;, &formatS2;). Tiiɗno aawto yamre moƴƴere ndee.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; wontaa hesɗitinde">
-<!ENTITY eol_notification_summary "Fiy ngam ɓeydude humpito">
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ena hesɗiti">
 <!ENTITY whatsnew_notification_summary "Ƴeew ko yesɗi e ndee yamre">
-
-<!ENTITY promotion_add_to_homescreen "Ɓeydu to hello jaɓɓorgo">
-
-<!ENTITY promotion_add_page_shortcut "Ɓeydu codorɗe hello">
 
 <!ENTITY helper_first_offline_bookmark_title "Tar e ceŋtol">
 <!ENTITY helper_first_offline_bookmark_message "Yiytu teme Jiytol Taro maa e Maantore; yah so a seŋaaki.">
@@ -830,6 +844,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Ena heɓoo e ceŋtol">
 <!ENTITY helper_triple_readerview_open_message "Maantoro teme Jiytol Taro ngam tarde e ceŋtol.">
 <!ENTITY helper_triple_readerview_open_button "Ɓeydu e Maantore">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+
 
 <!ENTITY activity_stream_topsites "Lowe Dowrowe">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
@@ -872,3 +891,11 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Ɓeydu toHello Jaɓɓorgo">
 <!ENTITY pwa_continue_to_website "Jooku to Lowre geese">
 <!ENTITY pwa_onboarding_sumo "Ina weeɓan maa ɓeydude ndee ɗoo lowre geese e hello jaɓɓorgo maa ngam heɓde yettagol nde njiɗɗaa fof e wanngaade ko yaawi e humpito ko nanndi e jaaɓnirgal.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
