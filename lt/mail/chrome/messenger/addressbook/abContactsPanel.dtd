@@ -4,7 +4,7 @@
 
 <!ENTITY propertiesMenu.label               "Savybės">
 <!ENTITY propertiesMenu.accesskey           "S">
-
+<!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "Adresų knygos savybės">
 <!ENTITY abPropertiesMenu.accesskey         "s">
 <!ENTITY contactPropertiesMenu.label        "Adresato savybės">
@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Adresatų sąrašo savybės">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Rodyti adresų knygos kontekstinį meniu">
 <!ENTITY addressbookPicker.label            "Adresų knyga:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchContacts.label               "Ieškoti adresatų:">
@@ -35,9 +36,10 @@
 <!ENTITY editMailingListContext.label       "Keisti sąrašą">
 <!ENTITY editMailingListContext.accesskey   "K">
 
-
-
-
+<!ENTITY newContactAbContext.label          "Naujas adresatas">
+<!ENTITY newContactAbContext.accesskey      "N">
+<!ENTITY newListAbContext.label             "Naujas sąrašas">
+<!ENTITY newListAbContext.accesskey         "s">
 
 <!ENTITY toButton.label                     "Pridėti į „Kam“">
 <!ENTITY toButton.accesskey                 "P">
