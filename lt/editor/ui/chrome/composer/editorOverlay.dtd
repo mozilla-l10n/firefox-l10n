@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.key "S">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Įdėti be formatų">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,8 +23,8 @@
 <!ENTITY checkSpellingCmd2.label "Tikrinti rašybą…">
 <!ENTITY checkSpellingCmd2.accesskey "r">
 <!ENTITY checkSpellingCmd2.key "p">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Intarpai">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Saitas…">
@@ -46,14 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "m">
 <!ENTITY insertBreakAllCmd.label "Eilutės pabaiga po paveikslu">
 <!ENTITY insertBreakAllCmd.accesskey "p">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Įterpti saitą…">
 <!ENTITY createLinkCmd.accesskey "Į">
 <!ENTITY editLinkCmd.label "Taisyti saitą naujame lange">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Parinkti šriftą">
 <!ENTITY fontfaceMenu.label "Šriftas">
 <!ENTITY fontfaceMenu.accesskey "Š">
@@ -68,19 +68,17 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Pasirinkti šrifto dydį">
 <!ENTITY decreaseFontSize.label "Mažesnis">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Didesnis">
 <!ENTITY increaseFontSize.accesskey "D">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Dydis">
 <!ENTITY fontSizeMenu.accesskey "D">
@@ -96,8 +94,8 @@
 <!ENTITY size-extraLargeCmd.accesskey "b">
 <!ENTITY size-hugeCmd.label "Milžiniškas">
 <!ENTITY size-hugeCmd.accesskey "M">
-<!-- Font Style SubMenu -->
 
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Teksto stilius">
 <!ENTITY fontStyleMenu.accesskey "i">
 <!ENTITY styleBoldCmd.label "Pusjuodis">
@@ -165,8 +163,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Formatuotas tekstas">
 <!ENTITY paragraphPreformatCmd.accesskey "F">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Sąrašas">
 <!ENTITY formatlistMenu.accesskey "r">
 <!ENTITY noneCmd.label "Nėra">
@@ -189,8 +187,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Papildoma taisa">
 <!ENTITY advancedPropertiesCmd.accesskey "P">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Lygiuotė">
 <!ENTITY alignMenu.accesskey "u">
 <!ENTITY alignLeft.label "Pagal kairįjį kraštą">
@@ -205,8 +203,8 @@
 <!ENTITY alignJustify.label "Pagal abu kraštus">
 <!ENTITY alignJustify.accesskey "b">
 <!ENTITY alignJustify.tooltip "Lygiuoti abu kraštus">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Sluoksniai">
 <!ENTITY layerSendToBack.tooltip "Perkelti į užnugarį">
 <!ENTITY layerBringToFront.tooltip "Perkelti į priekį">
@@ -220,12 +218,12 @@
 
 <!ENTITY colorsAndBackground.label "Laiško spalvos ir fonas…">
 <!ENTITY colorsAndBackground.accesskey "f">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Lentelė">
 <!ENTITY tableMenu.accesskey "L">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Pažymėti">
 <!ENTITY tableSelectMenu.accesskey "ž">
 
@@ -235,8 +233,8 @@
 <!ENTITY tableInsertMenu2.accesskey "e">
 <!ENTITY tableDeleteMenu2.label "Pašalinti lentelę">
 <!ENTITY tableDeleteMenu2.accesskey "š">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Įterpti">
 <!ENTITY tableInsertMenu.accesskey "e">
 <!ENTITY tableTable.label "Lentelę">
@@ -269,12 +267,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Pašalinti">
 <!ENTITY tableDeleteMenu.accesskey "š">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "u">
 <!ENTITY tableJoinCells.accesskey "u">
 <!ENTITY tableSplitCell.label "Skaidyti langelį">
@@ -283,8 +281,8 @@
 <!ENTITY convertToTable.accesskey "l">
 <!ENTITY tableProperties.label "Lentelės savybės…">
 <!ENTITY tableProperties.accesskey "v">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Meniu juosta">
 <!ENTITY formatToolbar.tooltip "Formatavimo priemonių juostą">
 <!ENTITY cutToolbarCmd.tooltip "Iškirpti">
@@ -309,9 +307,10 @@
 <!ENTITY TextColorButton.tooltip "Pasirinkti teksto spalvą">
 <!ENTITY BackgroundColorButton.tooltip "Parinkti fono spalvą">
 <!ENTITY throbber.tooltip "Atverti „&vendorShortName;“ tinklalapį">
+<!ENTITY throbber.tooltip2 "Atverti „&brandShortName;“ pradžios tinklalapį">
 <!ENTITY HighlightColorButton.tooltip "Parinkti teksto žymėjimo spalvą">
-<!-- Editor toolbar -->
 
+<!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nustatyti šrifto dydį">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Sumažinti šriftą">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Padidinti šriftą">
@@ -328,16 +327,16 @@
 <!ENTITY alignCenterButton.tooltip "Centruoti">
 <!ENTITY alignRightButton.tooltip "Lygiuoti dešinįjį kraštą">
 <!ENTITY alignJustifyButton.tooltip "Lygiuoti abu kraštus">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Pažymėti">
 <!ENTITY structSelect.accesskey     "ž">
 <!ENTITY structRemoveTag.label      "Pašalinti gairę">
 <!ENTITY structRemoveTag.accesskey  "š">
 <!ENTITY structChangeTag.label      "Pakeisti gairę">
 <!ENTITY structChangeTag.accesskey  "k">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Įterpti…">
 <!ENTITY insertTOC.accesskey      "e">
 <!ENTITY updateTOC.label          "Atnaujinti">
