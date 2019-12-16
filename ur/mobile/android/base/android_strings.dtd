@@ -359,6 +359,7 @@
 <!ENTITY tab_queue_prompt_settings_button "سیٹکگیں بطرف جائیں">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
+<!ENTITY tab_queue_notification_prompt "قطار میں نیا ٹیب شامل کریں &#8230;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
