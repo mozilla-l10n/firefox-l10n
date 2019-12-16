@@ -329,12 +329,12 @@ update-application-version = Version { $version } <a data-l10n-name="learn-more"
 update-history =
     .label = Monstrar le chronologia de actualisationes…
     .accesskey = M
-update-application-allow-description = Permitter { -brand-short-name } a
+update-application-allow-description = Permitter a { -brand-short-name } de
 update-application-auto =
     .label = Installar le actualisationes automaticamente (recommendate)
     .accesskey = A
 update-application-check-choose =
-    .label = Cercar actualisationes, ma lassar te decider si tu los installa
+    .label = Cercar actualisationes, lassante te decider si tu los installa
     .accesskey = C
 update-application-manual =
     .label = Non cercar jammais actualisationes (non recommendate)
