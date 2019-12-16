@@ -4,6 +4,54 @@
 
 <!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Emoticone">
+<!ENTITY insertSmiley.accesskey "E">
 
+<!ENTITY smiley1Cmd.label "Surriso">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Inserer un emoticone surridente">
+<!ENTITY smiley2Cmd.label "Contrariate">
+<!ENTITY smiley2Cmd.accesskey "C">
+<!ENTITY smiley2Cmd.tooltip "Inserer un emoticone contrariate">
 <!ENTITY smiley3Cmd.label "Palpebration">
-<!ENTITY smiley3Cmd.tooltip "Inserer un facie que batte le palpebra">
+<!ENTITY smiley3Cmd.accesskey "P">
+<!ENTITY smiley3Cmd.tooltip "Inserer un emoticone que batte le palpebra">
+<!ENTITY smiley4Cmd.label "Lingua de foras">
+<!ENTITY smiley4Cmd.accesskey "L">
+<!ENTITY smiley4Cmd.tooltip "Inserer un emoticone con lingua de foras">
+<!ENTITY smiley5Cmd.label "Ridente">
+<!ENTITY smiley5Cmd.accesskey "R">
+<!ENTITY smiley5Cmd.tooltip "Inserer un emoticone ridente">
+<!ENTITY smiley6Cmd.label "Embarassate">
+<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.tooltip "Inserer un emoticone embarassate">
+<!ENTITY smiley7Cmd.label "Indecise">
+<!ENTITY smiley7Cmd.accesskey "I">
+<!ENTITY smiley7Cmd.tooltip "Inserer un emoticone indecise">
+<!ENTITY smiley8Cmd.label "Surprendite">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "Inserer un emoticone surprendite">
+<!ENTITY smiley9Cmd.label "Basio">
+<!ENTITY smiley9Cmd.accesskey "B">
+<!ENTITY smiley9Cmd.tooltip "Inserer un emoticone que basia">
+<!ENTITY smiley10Cmd.label "Crito">
+<!ENTITY smiley10Cmd.accesskey "C">
+<!ENTITY smiley10Cmd.tooltip "Inserer un emoticone que crita">
+<!ENTITY smiley11Cmd.label "Sympathic">
+<!ENTITY smiley11Cmd.accesskey "S">
+<!ENTITY smiley11Cmd.tooltip "Inserer un emoticone sympathic">
+<!ENTITY smiley12Cmd.label "Moneta in bucca">
+<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.tooltip "Inserer un emoticone con moneta in bucca">
+<!ENTITY smiley13Cmd.label "Scarpa in bucca">
+<!ENTITY smiley13Cmd.accesskey "a">
+<!ENTITY smiley13Cmd.tooltip "Inserer un emoticone con scarpa in bucca">
+<!ENTITY smiley14Cmd.label "Innocente">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Inserer un emoticone innocente">
+<!ENTITY smiley15Cmd.label "Plancto">
+<!ENTITY smiley15Cmd.accesskey "l">
+<!ENTITY smiley15Cmd.tooltip "Inserer un emoticone que plora">
+<!ENTITY smiley16Cmd.label "Bucca sigillate">
+<!ENTITY smiley16Cmd.accesskey "u">
+<!ENTITY smiley16Cmd.tooltip "Inserer un emoticone con bucca clause">
+<!ENTITY SmileButton.tooltip "Inserer un emoticone surridente">
