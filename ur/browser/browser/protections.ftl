@@ -5,6 +5,7 @@
 protection-report-header-details-strict = تحفظ کی سطح <b> سخت </ b> پر سیٹ کی گئی ہے
     .title = رازداری ترتیبات  میں چایں
 protection-report-page-title = رازداری سے تحفظ
+protection-report-content-title = رازداری سے تحفظ
 protection-report-manage-protections = ترتیبات بندرست کریں
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -15,6 +16,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 manage-devices = آلات کو بندرست کریں
 manage-connected-devices = آلات… کو بندرست کریں
 monitor-link = یہ کیسے کام کرتا ہے
+auto-scan = آج خودکار طور پر اسکین ہوا
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

@@ -4,6 +4,7 @@
 
 safeb-blocked-phishing-page-title = آگے فریبی سائٹ ہے
 safeb-blocked-malware-page-title = اس ویب سائٹ کا دورہ آپ کے کمپیوٹر کو نقصان پہنچا سکتا ہے
+safeb-blocked-unwanted-page-title = آگے والی سائٹ میں نقصان دہ پروگرام ہوسکتے ہیں
 safeb-blocked-harmful-page-title = آگے سائٹ میں وائرس موجود ہو سکتا ہے
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>کی طرف سے فراہم کرد مشاورتی۔
 safeb-palm-accept-label = واپس جائیں

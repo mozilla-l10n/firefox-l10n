@@ -32,6 +32,7 @@ search-input-box =
             [windows] اختیارات میں تلاش کریں
            *[other] ترجیحات میں تلاش کریں
         }
+managed-notice = آپ کا براؤزر آپ کی تنظیم کے زیر انتظام ہے۔
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
@@ -314,6 +315,9 @@ update-in-progress-cancel-button = &جاری رکھیں
 ## General Section - Performance
 
 performance-title = کارکردگی
+performance-use-recommended-settings-checkbox =
+    .label = تجویز کردہ کارکردگی کی ترتیبات استعمال کریں
+    .accesskey = U
 performance-settings-learn-more = مزید سیکھیں
 performance-allow-hw-accel =
     .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
