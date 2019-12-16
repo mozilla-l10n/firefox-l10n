@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Sarba li canciamenti
     .accesskey = S
+permissions-autoplay-menu = Pridifinutu pi tutti i siti:
 permissions-searchbox =
     .placeholder = Cerca situ
+permissions-capabilities-autoplay-allow =
+    .label = Pirmetti audiu e vidiu
+permissions-capabilities-autoplay-block =
+    .label = Blocca audiu
+permissions-capabilities-autoplay-blockall =
+    .label = Blocca audiu e vidiu
 permissions-capabilities-allow =
     .label = Pirmetti
 permissions-capabilities-block =
@@ -60,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Ccizziuna - Bloccu cuntinuti
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Disabbilitasti lu bloccu di cuntinuti nna stu situ.
+permissions-exceptions-etp-window =
+    .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Disattivasti i prutizziuna pi sti siti.
 
 ## Exceptions - Cookies
 
@@ -98,6 +109,10 @@ permissions-exceptions-autoplay-media-desc2 = Po' spicificari quali siti ponnu o
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Mpustazziuna - Ripruduzziuni autumàtica
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Cca po' spicificari i siti chi nun ànnu a rispittari i mpustazziuna pridifinuti pâ ripruduzziuni autumàtica.
 
 ## Site Permissions - Notifications
 
@@ -121,6 +136,13 @@ permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparì
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Mpustazziuna - Pirmisi pâ rialtà virtuali
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Sti siti addumannaru accessu ê to dispusitivi pâ rialtà virtuali. Po' spicificari quali siti ànnu stu pirmisu, e po' macari bluccari i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
+permissions-site-xr-disable-label =
+    .label = Blocca i novi richiesti d'accessu ê to dispusitivi pâ rialtà virtuali.
+permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu elincati cca supra d'addumannàriti accessu ê dispusitivi pâ rialtà virtuali. Bluccari st'accessu po' bluccari u funziunamentu di certi siti.
 
 ## Site Permissions - Camera
 
