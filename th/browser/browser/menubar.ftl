@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = กลับค่าเดิม
     .accesskey = ก
+menu-view-full-zoom-actual-size =
+    .label = ขนาดจริง
+    .accesskey = ข
 menu-view-full-zoom-toggle =
     .label = ซูมข้อความเท่านั้น
     .accesskey = ข
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = เต็มหน้าจอ
     .accesskey = จ
 
-##
+
 
 menu-view-show-all-tabs =
     .label = แสดงแท็บทั้งหมด
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = ส่วนเสริม
     .accesskey = ส
-menu-tools-sync-sign-in =
-    .label = ลงชื่อเข้า { -sync-brand-short-name }…
-    .accesskey = ล
 menu-tools-fxa-sign-in =
     .label = ลงชื่อเข้า { -brand-product-name }…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = ซิงค์ตอนนี้
     .accesskey = ง
-menu-tools-sync-re-auth =
-    .label = เชื่อมต่อกับ { -sync-brand-short-name } ใหม่…
-    .accesskey = ช
 menu-tools-fxa-re-auth =
     .label = เชื่อมต่อกับ { -brand-product-name }…
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม
     .accesskey = ร
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = รายงานไซต์หลอกลวง…
     .accesskey = ห
