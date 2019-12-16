@@ -15,6 +15,9 @@ cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل
 cert-error-trust-expired-issuer = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ جاری کنندہ کا تصدیق نامہ زائدالمدت ہے۔
 cert-error-trust-self-signed = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ اس نے خود پر دستخط کیا ہوا ہے۔
 cert-error-untrusted-default = یہ تصدیق نامہ قابل اعتماد ماخذ سے نہیں ہے۔
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = نقص: کا کوڈ:<a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = آپ اس مسئلے کے بارے میں ویب سائٹ کے منتظم کو مطلع کرسکتے ہیں۔
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.

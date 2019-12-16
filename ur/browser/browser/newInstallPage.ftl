@@ -16,4 +16,5 @@ sync-label = اپنی ای میل داخل کریں
 sync-input =
     .placeholder = ای میل
 sync-button = جاری رکھیں
+sync-terms = آگے بڑھنے پر آپ آمادہ ہوتے ہیں <a data-l10n-name="terms"> خدمات کی  شراٴط</a> اور<a data-l10n-name="privacy"> رازداری نوٹس</a>۔
 sync-learn = مزید سیکھیں

@@ -55,3 +55,5 @@ about-config-pref-add-type-string = اسٹرنگ
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value }   (طے شدہ)
