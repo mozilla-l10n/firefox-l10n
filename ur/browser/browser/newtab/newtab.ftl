@@ -145,6 +145,7 @@ newtab-section-header-pocket = { $provider } کی جانب سے تجویز کر�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-content = مزید کہانیوں کے لئے بعد میں دوبارہ پڑتال کریں۔
 newtab-discovery-empty-section-topstories-try-again-button = دوبارہ کوشش کریں
 newtab-discovery-empty-section-topstories-loading = لوڈ ہو رہا ہے…
 
