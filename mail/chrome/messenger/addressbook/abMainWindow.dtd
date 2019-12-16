@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Adresų knyga">
 <!ENTITY blankResultsPaneMessage.label                  "Adresatai iš šios adresų knygos rodomi tik po paieškos">
 <!ENTITY localResultsOnlyMessage.label                  "Adresatai iš nutolusių adresų knygų rodomi tik po paieškos">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Failas">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Naujas">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Spausdinti adresų knygą…">
 <!ENTITY printAddressBook.accesskey                     "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Taisa">
 <!ENTITY editMenu.accesskey                             "T">
 <!ENTITY undoCmd.label                                  "Atšaukti">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "s">
 <!ENTITY mailingListPropertiesMenu.label                "Adresatų sąrašo savybės">
 <!ENTITY mailingListPropertiesMenu.accesskey            "s">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Rodymas">
 <!ENTITY viewMenu.accesskey                             "R">
 <!ENTITY viewToolbarsMenu.label                         "Priemonių juostos">
@@ -117,8 +117,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "K">
 <!ENTITY sortMenu.label                                 "Rikiuoti pagal stulpelį">
 <!ENTITY sortMenu.accesskey                             "R">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Priemonės">
 <!ENTITY tasksMenu.accesskey                            "P">
 <!ENTITY messengerCmd.label                             "Paštas ir naujienų grupės">
@@ -134,14 +134,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "N">
 <!ENTITY preferencesCmdUnix.label                       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey                   "N">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Naujas adresatas">
 <!ENTITY newContactButton.accesskey                     "a">
 <!ENTITY newlistButton.label                            "Naujas sąrašas">
 <!ENTITY newlistButton.accesskey                        "r">
-
-
+<!ENTITY showAsDefault.label                            "Numatytasis pradinis katalogas">
 <!ENTITY editPropertiesButton.label                     "Keisti">
 <!ENTITY propertiesContext.label                        "Savybės">
 <!ENTITY propertiesContext.accesskey                    "S">
@@ -159,8 +158,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "p">
 <!ENTITY deleteButton2.label                            "Pašalinti">
 <!ENTITY deleteButton2.accesskey                        "š">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Sukurti naują adresatą">
 <!ENTITY newlistButton.tooltip                          "Sukurti naują adresatų sąrašą">
 <!ENTITY editPropertiesButton.tooltip                   "Taisyti pažymėtą elementą">
@@ -170,18 +169,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Rašyti elektroninį laišką">
 <!ENTITY newIM.tooltip                                  "Siųsti žinutę arba pradėti pokalbį">
 <!ENTITY deleteButton2.tooltip                          "Pašalinti pažymėtą elementą">
-<!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label                            "Adresų knygos">
 <!-- Search Bar -->
-
 <!ENTITY SearchNameOrEmail.label                        "Asmenvardis arba el. pašto adresas">
 <!ENTITY SearchNameOrEmail.accesskey                    "A">
 <!ENTITY advancedButton.tooltip                         "Adresų paieška, naudojant papildomas sąlygas">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Sparčioji paieška">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adresų knyga…">
 <!ENTITY Addrbook.accesskey                             "k">
 <!ENTITY GeneratedName.label                            "Asmenvardis">
@@ -216,9 +212,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "k">
 <!ENTITY _PhoneticName.label                            "Sulietuvintas užsieniečio vardas">
 <!ENTITY _PhoneticName.accesskey                        "ž">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Adresatas">
 <!ENTITY home.heading                                   "Adresai">
 <!ENTITY other.heading                                  "Kitkas">
@@ -231,11 +227,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Rodyti žemėlapį">
 <!ENTITY mapIt.tooltip                                  "Rodyti šį adresą saityno žemėlapyje">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Langas">
 <!ENTITY minimizeWindow.label                           "Suskleisti">
 <!ENTITY minimizeWindow.key                             "m">
