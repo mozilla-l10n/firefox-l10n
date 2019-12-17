@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Şu anda bir yer imi tarafından kullanılan b
 ## Containers Section
 
 containers-back-link = « Geri dön
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Seçeneklere geri dön
+           *[other] Tercihlere geri dön
+        }
 containers-header = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yeni kapsayıcı ekle
@@ -925,8 +931,8 @@ content-blocking-etp-warning-description = Takipçileri engellemek bazı siteler
 content-blocking-warning-learn-how = Nasıl yapılacağını öğrenin
 content-blocking-reload-description = Bu değişiklikleri uygulamak için sekmelerinizi tazelemeniz gerekiyor.
 content-blocking-reload-tabs-button =
-    .label = Tüm sekmeleri tazele
-    .accesskey = T
+    .label = Sekmeleri tazele
+    .accesskey = S
 content-blocking-trackers-label =
     .label = Takipçiler
     .accesskey = T
@@ -968,6 +974,10 @@ permissions-location = Konum
 permissions-location-settings =
     .label = Ayarlar…
     .accesskey = r
+permissions-xr = Sanal gerçeklik
+permissions-xr-settings =
+    .label = Ayarlar…
+    .accesskey = A
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Ayarlar…
@@ -1016,6 +1026,8 @@ permissions-a11y-privacy-link = Daha fazla bilgi al
 collection-header = { -brand-short-name } veri toplama ve kullanma izinleri
 collection-description = Yalnızca { -brand-short-name } tarayıcınızı geliştirmemize yarayacak verileri topluyoruz ve istemezseniz onları da toplamıyoruz. Kişisel verilerinizi sunucularımıza göndermeden önce mutlaka izninizi istiyoruz.
 collection-privacy-notice = Gizlilik bildirimi
+collection-health-report-telemetry-disabled = Artık { -vendor-short-name }’nın teknik veri ve etkileşim verisi toplamasına izin vermiyorsunuz. Eski verilerinizin hepsi 30 gün içinde silinecektir.
+collection-health-report-telemetry-disabled-link = Daha fazla bilgi al
 collection-health-report =
     .label = { -brand-short-name }, teknik ve etkileşim verilerimi { -vendor-short-name }’ya gönderebilir
     .accesskey = r
