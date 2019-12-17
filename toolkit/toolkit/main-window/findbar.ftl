@@ -25,6 +25,12 @@ findbar-case-sensitive =
     .label = Forskel på store og små bogstaver
     .accesskey = o
     .tooltiptext = Søg med forskel på store og små bogstaver
+
+findbar-match-diacritics =
+    .label = Diakritiske tegn
+    .accesskey = D
+    .tooltiptext = Skeln mellem bogstaver med og uden accenttegn (når du fx søger efter "allé", bliver "alle" ikke fremhævet)
+
 findbar-entire-word =
     .label = Hele ord
     .accesskey = e

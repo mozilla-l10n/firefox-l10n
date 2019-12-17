@@ -151,6 +151,16 @@ permissions-site-location-disable-label =
     .label = Bloker nye anmodninger om at se din position.
 permissions-site-location-disable-desc = Dette vil forhindre websteder, der ikke er angivet ovenfor, i at anmode om din position. At blokere anmodninger om din position kan muligvis forhindre nogle websteder i at fungere optimalt.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Settings - Tilladelser for virtual reality
+    .style = { permissions-window.style }
+permissions-site-xr-desc = De følgende websteder har anmodet om adgang til dine virtual reality-enheder. Du kan angive, hvilke websteder, der må have adgang til dine virtual reality-enheder. Du kan også blokere nye anmodninger om adgang til dine virtual reality-enheder.
+permissions-site-xr-disable-label =
+    .label = Bloker nye anmodninger om adgang til dine virtual reality-enheder
+permissions-site-xr-disable-desc = Dette vil forhindre websteder, der ikke er angivet ovenfor, i at anmode om adgang til dine virtual reality-enheder. At blokere anmodninger om adgang til dine virtual reality-enheder kan muligvis forhindre nogle websteder i at fungere optimalt.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
