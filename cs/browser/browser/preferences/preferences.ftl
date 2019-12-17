@@ -588,6 +588,12 @@ search-keyword-warning-bookmark = Zvolili jste klíčové slovo, které už je p
 ## Containers Section
 
 containers-back-link = « Jít zpět
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Zpět do Možností
+           *[other] Zpět do Předvoleb
+        }
 containers-header = Kontejnerové panely
 containers-add-button =
     .label = Přidat kontejner
@@ -999,6 +1005,10 @@ permissions-location = Poloha
 permissions-location-settings =
     .label = Nastavení…
     .accesskey = a
+permissions-xr = Virtuální realita
+permissions-xr-settings =
+    .label = Nastavení…
+    .accesskey = t
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Nastavení…
@@ -1047,6 +1057,8 @@ permissions-a11y-privacy-link = Zjistit více
 collection-header = Sběr a používání dat o aplikaci { -brand-short-name }
 collection-description = S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
+collection-health-report-telemetry-disabled = Odesílat { -vendor-short-name(case: "dat") } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
+collection-health-report-telemetry-disabled-link = Zjistit více
 collection-health-report =
     .label =
         { -vendor-short-name.gender ->
