@@ -36,6 +36,8 @@
 <!ENTITY configEditDesc.label          "Cấu hình nâng cao">
 <!ENTITY configEdit.label              "Trình chỉnh sửa cấu hình…">
 <!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "Xác định cách thức &brandShortName; xử lý biên lai">
+<!ENTITY showReturnReceipts.label      "Biên lai…">
 <!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
