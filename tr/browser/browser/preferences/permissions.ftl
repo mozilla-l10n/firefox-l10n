@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Konumumu öğrenme isteklerini sormadan engelle
 permissions-site-location-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi konumunuzu öğrenme isteğinde bulunamayacaktır. Konumunuzun öğrenilmesini engellerseniz bazı site özellikleri çalışmayabilir.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Ayarlar - Sanal Gerçeklik İzinleri
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Aşağıdaki web siteleri sanal gerçeklik cihazlarınıza erişme isteğinde bulundu. Hangi web sitelerinin sanal gerçeklik cihazlarınıza erişebileceğini seçebilirsiniz. Ayrıca sanal gerçeklik cihazlarınıza erişim isteklerini tamamen engelleyebilirsiniz.
+permissions-site-xr-disable-label =
+    .label = Sanal gerçeklik cihazlarına erişme isteklerini sormadan engelle
+permissions-site-xr-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi sanal gerçeklik cihazlarınıza erişme isteğinde bulunamayacaktır. Sanal gerçeklik cihazlarınıza erişimi engellerseniz bazı site özellikleri çalışmayabilir.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
