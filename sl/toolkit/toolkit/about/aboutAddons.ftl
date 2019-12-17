@@ -353,6 +353,10 @@ remove-addon-disabled-button = Ni mogoče odstraniti <a data-l10n-name="link">Za
 disable-addon-button = Onemogoči
 enable-addon-button = Omogoči
 expand-addon-button = Več možnosti
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Omogoči
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Možnosti
@@ -458,6 +462,7 @@ discover-heading = Prilagodite svoj { -brand-short-name }
 shortcuts-heading = Upravljanje bližnjic razširitev
 theme-heading-search-label = Poišči več tem
 extension-heading-search-label = Poišči več razširitev
+default-heading-search-label = Poišči več dodatkov
 addons-heading-search-input =
     .placeholder = Iskanje po addons.mozilla.org
 addon-page-options-button =

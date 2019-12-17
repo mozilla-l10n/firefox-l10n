@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Zavrni nove zahteve, ki zahtevajo informacijo o lokaciji
 permissions-site-location-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do vaše lokacije. Blokiranje dostopa do vaše lokacije lahko prekine nekatere funkcije spletnega mesta.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Nastavitve – Dovoljenja navidezne resničnosti
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Naslednje spletne strani so zahtevale dostop do vaših naprav navidezne resničnosti. Določite lahko, katere spletne strani lahko dostopajo do vaših naprav navidezne resničnosti. Prav tako lahko zavrnete nove zahteve za dostop do vaših naprav navidezne resničnosti.
+permissions-site-xr-disable-label =
+    .label = Zavrni nove zahteve, ki zahtevajo informacijo o napravah navidezne resničnosti
+permissions-site-xr-disable-desc = To bo preprečilo, da bi katera koli spletna stran, ki ni navedena zgoraj, zahtevala dovoljenje za dostop do vaših naprav navidezne resničnosti. Blokiranje dostopa do vaših naprav navidezne resničnosti lahko prekine nekatere funkcije spletnega mesta.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

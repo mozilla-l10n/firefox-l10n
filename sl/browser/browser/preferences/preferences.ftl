@@ -569,6 +569,12 @@ search-keyword-warning-bookmark = Izbrali ste ključno besedo, ki jo trenutno up
 ## Containers Section
 
 containers-back-link = « Nazaj
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Nazaj na možnosti
+           *[other] Nazaj na nastavitve
+        }
 containers-header = Vsebniški zavihki
 containers-add-button =
     .label = Dodaj nov vsebnik
@@ -976,6 +982,10 @@ permissions-location = Lokacija
 permissions-location-settings =
     .label = Nastavitve …
     .accesskey = t
+permissions-xr = Navidezna resničnost
+permissions-xr-settings =
+    .label = Nastavitve
+    .accesskey = t
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Nastavitve …
@@ -1024,6 +1034,7 @@ permissions-a11y-privacy-link = Več o tem
 collection-header = Zbiranje in uporaba podatkov { -brand-short-name }a
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name }a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-privacy-notice = Obvestilo o zasebnosti
+collection-health-report-telemetry-disabled-link = Več o tem
 collection-health-report =
     .label = { -brand-short-name }u dovoli pošiljanje tehničnih podatkov in podatkov o uporabi organizaciji { -vendor-short-name }
     .accesskey = h
