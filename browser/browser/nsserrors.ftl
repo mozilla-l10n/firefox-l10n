@@ -13,19 +13,19 @@ psmerr-ssl-disabled = Không thể kết nối an toàn vì giao thức SSL đã
 psmerr-ssl2-disabled = Không thể kết nối an toàn vì trang này sử dụng một phiên bản giao thức SSL cũ và không bảo mật.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Bạn vừa nhận được một chứng chỉ bất hợp lệ.  Vui lòng liên hệ quản trị máy chủ hoặc email tương ứng và đưa họ thông tin sau:
+    Bạn vừa nhận được một chứng nhận không hợp lệ.  Vui lòng liên hệ quản trị máy chủ hoặc email tương ứng và đưa họ thông tin sau:
     
-    Chứng thư của bạn có cùng số sêri với chứng chỉ khác được cấp bởi cùng một nhà thẩm định chứng chỉ.  Vui lòng lấy một chứng chỉ mới có số sêri riêng biệt.
+    Chứng nhận của bạn có cùng số sê-ri với chứng nhận khác được cấp bởi cùng một nhà thẩm định chứng nhận.  Vui lòng tạo một chứng nhận mới có số sê-ri riêng biệt.
 ssl-error-export-only-server = Không thể giao tiếp một cách an toàn. Peer không hỗ trợ mã hóa cấp cao.
 ssl-error-us-only-server = Không thể giao tiếp một cách an toàn. Peer yêu cầu mã hóa cao cấp mà không được hỗ trợ.
 ssl-error-no-cypher-overlap = Không thể kết nối an toàn với máy ngang hàng: không dùng chung thuật toán mã hoá dữ liệu.
-ssl-error-no-certificate = Không tìm thấy chứng chỉ hoặc khóa cần thiết để xác thực.
-ssl-error-bad-certificate = Không thể kết nối an toàn với máy ngang hàng: chứng chỉ của máy ngang hàng bị từ chối.
+ssl-error-no-certificate = Không tìm thấy chứng nhận hoặc khóa cần thiết để xác thực.
+ssl-error-bad-certificate = Không thể kết nối an toàn với máy ngang hàng: chứng nhận của máy ngang hàng bị từ chối.
 ssl-error-bad-client = Máy chủ gặp dữ liệu xấu từ máy khách.
 ssl-error-bad-server = Máy khách gặp dữ liệu xấu từ máy chủ.
-ssl-error-unsupported-certificate-type = Kiểu chứng chỉ không được hỗ trợ.
+ssl-error-unsupported-certificate-type = Kiểu chứng nhận không được hỗ trợ.
 ssl-error-unsupported-version = Máy khách sử dụng giao thức bảo mật không hỗ trợ.
-ssl-error-wrong-certificate = Chứng thực máy khách thất bại: khóa cá nhân không phù hợp với khóa chung trong cơ sở dữ liệu chứng chỉ.
+ssl-error-wrong-certificate = Chứng thực máy khách thất bại: khóa cá nhân không phù hợp với khóa chung trong cơ sở dữ liệu chứng nhận.
 ssl-error-bad-cert-domain = Không thể kết nối an toàn với máy ngang hàng: tên miền yêu cầu không khớp với chứng chỉ của máy chủ.
 ssl-error-post-warning = Mã lỗi SSL không được chấp nhận.
 ssl-error-ssl2-disabled = Máy khách chỉ hỗ trợ SSL 2 (chưa kích hoạt)
