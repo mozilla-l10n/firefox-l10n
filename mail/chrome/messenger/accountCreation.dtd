@@ -6,7 +6,7 @@
 
 <!ENTITY emailWizard.title               "Turimos el. pašto paskyros nustatymas">
 <!ENTITY emailWizard.caption             "Naudoti turimą el. pašto adresą">
-<!ENTITY name.label                      "Asmenvardis:">
+<!ENTITY name.label                      "Jūsų vardas:">
 <!ENTITY name.accesskey                  "v">
 <!ENTITY name.placeholder                "Vardenis Pavardenis">
 <!ENTITY fullname.placeholder            "Jūsų vardas ir pavardė">
