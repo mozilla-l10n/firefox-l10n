@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Звичайний
     .accesskey = ч
+menu-view-full-zoom-actual-size =
+    .label = Початковий розмір
+    .accesskey = ч
 menu-view-full-zoom-toggle =
     .label = Збільшувати лише текст
     .accesskey = т
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = На весь екран
     .accesskey = е
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Показати всі вкладки
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Додатки
     .accesskey = Д
-menu-tools-sync-sign-in =
-    .label = Увійти в { -sync-brand-short-name(case: "acc") }…
-    .accesskey = т
 menu-tools-fxa-sign-in =
     .label = Увійти в { -brand-product-name }…
     .accesskey = в
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Синхронізувати зараз
     .accesskey = С
-menu-tools-sync-re-auth =
-    .label = Перепідключитись до { -sync-brand-short-name(case: "dat") }…
-    .accesskey = ю
 menu-tools-fxa-re-auth =
     .label = Повторно під'єднатися до { -brand-product-name }…
     .accesskey = т
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Перезапуск з увімкненими додатками
     .accesskey = у
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Повідомити про шахрайський сайт…
     .accesskey = ш
