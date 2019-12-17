@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Vous avez choisi un mot-clé qui est déjà ut
 ## Containers Section
 
 containers-back-link = « Retour
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Retour aux options
+           *[other] Retour aux préférences
+        }
 containers-header = Onglets contextuels
 containers-add-button =
     .label = Ajouter un nouveau contexte
@@ -1020,6 +1026,7 @@ permissions-a11y-privacy-link = En savoir plus
 collection-header = Collecte de données par { -brand-short-name } et utilisation
 collection-description = Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer { -brand-short-name } et l’améliorer pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.
 collection-privacy-notice = Politique de confidentialité
+collection-health-report-telemetry-disabled = Vous n’autorisez plus { -vendor-short-name } à capturer des données techniques et d’interaction. Toutes les données passées seront supprimées dans les 30 jours.
 collection-health-report-telemetry-disabled-link = En savoir plus
 collection-health-report =
     .label = Autoriser { -brand-short-name } à envoyer des données techniques et des données d’interaction à { -vendor-short-name }

@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Bloquer les nouvelles demandes d’accès à votre localisation
 permissions-site-location-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à votre localisation. Bloquer l’accès à votre localisation peut invalider les fonctionnalités de certains sites web.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Paramètres - Autorisations de réalité virtuelle
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Les sites web suivants ont demandé l’accès à vos appareils de réalité virtuelle. Vous pouvez spécifier quels sites web sont autorisés à accéder à vos appareils de réalité virtuelle. Vous pouvez également bloquer les nouvelles demandes d’accès à vos appareils de réalité virtuelle.
+permissions-site-xr-disable-label =
+    .label = Bloquer les nouvelles demandes d’accès à vos appareils de réalité virtuelle
+permissions-site-xr-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’accéder à vos appareils de réalité virtuelle. Bloquer l’accès à vos appareils de réalité virtuelle peut restreindre les fonctionnalités de certains sites web.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
