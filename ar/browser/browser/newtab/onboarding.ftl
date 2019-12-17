@@ -121,12 +121,17 @@ onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أ
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = نزّل متصفّح المحمول
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = شارِك الصفحات بين أجهزتك بسهولة تامة دون نسخ الروابط يدويًا أو ترك المتصفّح.
 onboarding-pocket-anywhere-title = اقرأ واستمع إلى ما ترغب أينما كنت
 onboarding-pocket-anywhere-text2 = احفظ ما تحبّ من محتوى وتصفّحه دون اتصال عبر تطبيق { -pocket-brand-name }. بهذا تقرأه وتسمعه وتطالعه متى ما أردت وحينما تشاء.
 onboarding-pocket-anywhere-button = جرّب { -pocket-brand-name }
 onboarding-lockwise-passwords-title = خُذ معك كلمات السر أينما ذهبت
 onboarding-lockwise-passwords-text2 = حافظ على كلمات السر التي حفظتها آمنة ولِج إلى حساباتك عبر { -lockwise-brand-name } ودون عناء.
 onboarding-lockwise-passwords-button2 = نزّل التطبيق
+onboarding-lockwise-strong-passwords-title = أنشِئ كلمات سر قوية وخزّنها
+onboarding-lockwise-strong-passwords-text = يصنع { -lockwise-brand-name } كلمات سرّ قوية مباشرةً ويحفظها كلها في مكان واحد.
 onboarding-lockwise-strong-passwords-button = أدِر جلسات الولوج
 onboarding-facebook-container-title = اضبط حدود فيسبوك
 onboarding-facebook-container-text2 = يفصل { -facebook-container-brand-name } ملفك الشخصي عن المعلومات الأخرى، وهكذا تكون مهمة فيسبوك في إيصال الإعلانات إليك أصعب وأصعب.
