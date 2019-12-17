@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "r">
 
 <!ENTITY defaultSearchEngine.label        "Numatytoji paieškos sistema">
+<!ENTITY addSearchEngine.label            "Pridėti iš failo">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Pašalinti">
+<!ENTITY removeSearchEngine.accesskey     "v">
