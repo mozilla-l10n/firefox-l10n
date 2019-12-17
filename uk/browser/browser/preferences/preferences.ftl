@@ -565,6 +565,12 @@ search-keyword-warning-bookmark = Ви вибрали скорочення, ко
 ## Containers Section
 
 containers-back-link = « Повернутись назад
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Назад до налаштувань
+           *[other] Назад до налаштувань
+        }
 containers-header = Вкладки контейнера
 containers-add-button =
     .label = Додати новий контейнер
@@ -972,6 +978,10 @@ permissions-location = Розташування
 permissions-location-settings =
     .label = Налаштування…
     .accesskey = л
+permissions-xr = Віртуальна реальність
+permissions-xr-settings =
+    .label = Налаштування…
+    .accesskey = ш
 permissions-camera = Камера
 permissions-camera-settings =
     .label = Налаштування…
@@ -1020,6 +1030,8 @@ permissions-a11y-privacy-link = Докладніше
 collection-header = Збір та використання даних { -brand-short-name }
 collection-description = Ми прагнемо надати вам вибір і збирати лише дані, необхідні для роботи і вдосконалення { -brand-short-name }. Ми завжди запитуємо дозвіл перед отриманням особистої інформації.
 collection-privacy-notice = Повідомлення про приватність
+collection-health-report-telemetry-disabled = Ви більше не дозволяєте { -vendor-short-name } збирати технічні дані й інформацію про взаємодію. Всі минулі дані будуть видалені протягом 30 днів.
+collection-health-report-telemetry-disabled-link = Докладніше
 collection-health-report =
     .label = Дозволити { -brand-short-name } надсилати технічні та користувацькі дані в { -vendor-short-name }
     .accesskey = к
