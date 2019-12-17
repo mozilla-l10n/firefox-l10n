@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = Sewḥel isuturen imaynuten n unekcum γer wadig
 permissions-site-location-disable-desc = Aya ad isewḥel asuter n tsirag n n unekcum γer wadig inek i yusmal ur nelli deg tebdart. asewḥel n unekcum γer wadig izmer ad iṛeẓ timahaltin n usmel.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Iɣewwaṛen - Tisirag n tilawt tuhlist
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
