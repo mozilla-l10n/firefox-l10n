@@ -271,6 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "أدِر استخدام برمجيات إدارة الحقوق الرقمية">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "افتح لوحة MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "منحت هذا الموقع صلاحيات أخرى.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "لقد حجبت كمرتك عن هذا الموقع.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "لقد حجبت ميكروفونك عن هذا الموقع.">
@@ -442,6 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "افتح تفضيلات «تزامُن»">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
+<!ENTITY appMenuRemoteTabs.welcome.label "اعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY appMenuRemoteTabs.unverified.label "يجب تأكيد حسابك.">
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
 <!ENTITY appMenuRemoteTabs.signintosync.label "لِج إلى &syncBrand.shortName.label;…">
@@ -845,6 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 <!ENTITY identity.customRoot "تثبّت من هذا الاتصال مُصْدِر شهادات لا تعرفه Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "أُصدرت الشّهادة إلى:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "حجب &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
@@ -926,6 +929,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "لمَ؟">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "إن حجبتها فقد تعطب بعض العناصر في المواقع. قد لا تعمل بعض الأزرار والاستمارات ومربعات الولوج إن لم تكن هناك متعقّبات.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "حُمّلت كافة المتعقّبات في هذا الموقع إذ أنّ الحماية معطّلة.">
 <!ENTITY protections.noTrackersFound.description "لم تُكتشف في هذه الصفحة أي متعقّبات يعرفها &brandShortName;.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "تتعقّبك هذه الكعكات وأنت تفتح الموقع تلو الآخر لتجمع بيانات عمّا تفعله على الشبكة. هذه الكعكات تأتي من أطراف ثالثة مثل شركات الإعلان والتحليل.">

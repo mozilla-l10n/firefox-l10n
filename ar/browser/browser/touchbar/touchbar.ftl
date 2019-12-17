@@ -28,6 +28,8 @@ search-search-in = بحث في:
 ## Various categories of shortcuts for search.
 
 search-bookmarks = العلامات
+search-history = التاريخ
+search-opentabs = الألسنة المفتوحة
 search-tags = الوسوم
 search-titles = العناوين
 
