@@ -7,7 +7,7 @@
 <!ENTITY removeButton.accesskey       "O">
 <!ENTITY removeAccount.label          "Odstrani podatke o računu">
 <!ENTITY removeAccount.accesskey      "r">
-<!ENTITY removeAccount.desc           "Odstrani samo &brandShortName;ovo vednost; o tem računu. To ne vpliva na sam račun na strežniku.">
+<!ENTITY removeAccount.desc           "Odstrani samo &brandShortName;ovo vednost o tem računu. To ne vpliva na sam račun na strežniku.">
 <!ENTITY removeData.label             "Odstrani podatke sporočil">
 <!ENTITY removeData.accesskey         "s">
 <!ENTITY removeDataChat.label         "Odstrani podatke o pogovoru">
