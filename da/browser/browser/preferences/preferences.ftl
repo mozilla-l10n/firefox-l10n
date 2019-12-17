@@ -561,6 +561,13 @@ search-keyword-warning-bookmark = Du har valgt en genvej som bruges af et bogmæ
 ## Containers Section
 
 containers-back-link = « Gå tilbage
+
+containers-back-button =
+    .aria-label =
+      { PLATFORM() ->
+          [windows] Gå tilbage til indstillinger
+         *[other] Gå tilbage til indstillinger
+      }
 containers-header = Kontekst-faneblade
 containers-add-button =
     .label = Tilføj ny kontekst
@@ -969,6 +976,10 @@ permissions-location = Position
 permissions-location-settings =
     .label = Indstillinger…
     .accesskey = I
+permissions-xr = Virtual reality
+permissions-xr-settings =
+    .label = Indstillinger…
+    .accesskey = I
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Indstillinger…
@@ -1017,6 +1028,8 @@ permissions-a11y-privacy-link = Læs mere
 collection-header = Indsamling og brug af data i { -brand-short-name }
 collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
 collection-privacy-notice = Privatlivspolitik
+collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og interaktions-data. Alle tidligere data vil blive slettet indenfor 30 dage.
+collection-health-report-telemetry-disabled-link = Læs mere
 collection-health-report =
     .label = Tillad at { -brand-short-name } indsender tekniske data og data om brug til { -vendor-short-name }
     .accesskey = d
