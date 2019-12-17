@@ -14,3 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Numatytoji struktūra">
 <!ENTITY addNewToolbar.label      "Nauja juosta">
 <!ENTITY showTitlebar.label       "Rodyti pavadinimo juostą">
+<!ENTITY extraDragSpace.label     "Pridėti „Drag Space“">
+<!ENTITY saveChanges.label        "Atlikta">
+<!ENTITY undoChanges.label        "Atšaukti pakeitimus">
