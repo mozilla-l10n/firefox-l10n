@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  windowClose.key                  "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Nuostatos">
+<!ENTITY  preferencesDefaultTitleWin.title "Parinktys">
+<!ENTITY  preferencesCloseButton.label     "Užverti">
+<!ENTITY  preferencesCloseButton.accesskey "C">
+
 <!ENTITY  prefWindow.titleWin     "Nuostatos">
 <!ENTITY  prefWindow.titleGNOME   "„&brandShortName;“ nuostatos">
 <!ENTITY  prefWindow.titleMAC     "Nuostatos">
-<!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 40em;">
-<!ENTITY  prefWindow.styleMac     "width: 52em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 40em;">
 
 <!ENTITY paneGeneral.title        "Bendrosios">
 <!ENTITY paneDisplay.title        "Laiškų skaitymas">
@@ -16,8 +19,12 @@
 <!ENTITY paneAttachments.title    "Laiškų priedai">
 <!ENTITY panePrivacy.title        "Privatumas">
 <!ENTITY paneSecurity.title       "Saugumas">
+<!ENTITY panePrivacySecurity.title "Privatumas ir saugumas">
+<!ENTITY paneLightning.title      "Kalendorius">
 <!ENTITY paneAdvanced.title       "Kitkas">
 <!ENTITY paneAccount.title        "Paskyros">
+
+<!ENTITY addonsButton.label       "Priedai ir grafiniai apvalkalai">
 
 <!ENTITY okButton.title           "Gerai">
 <!ENTITY okButton.accesskey       "G">
