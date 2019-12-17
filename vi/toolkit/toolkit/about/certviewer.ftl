@@ -21,6 +21,7 @@ certificate-viewer-curve = Đường cong
 certificate-viewer-dns-name = Tên DNS
 certificate-viewer-exponent = Chỉ số
 certificate-viewer-id = ID
+certificate-viewer-key-exchange-group = Nhóm trao đổi khóa
 certificate-viewer-key-id = ID khóa
 certificate-viewer-key-size = Kích thước khóa
 certificate-viewer-locality = Thành phố
