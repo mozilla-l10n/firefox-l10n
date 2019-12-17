@@ -35,3 +35,13 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> ไม
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:flex</strong> { learn-more }
+inactive-css-not-grid-or-flex-item-fix = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> หรือ <strong>display:inline-flex</strong> { learn-more }
+inactive-css-not-grid-item-fix = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:inline-grid</strong> ไปยังข้อมูลหลักของรายการ { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, หรือ <strong>columns:2</strong> { learn-more }
+inactive-css-not-grid-container-fix = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:inline-grid</strong> { learn-more }
+inactive-css-not-flex-item-fix = ลองเพิ่ม <strong>display:flex</strong> หรือ <strong>display:inline-flex</strong> ไปยังข้อมูลหลักของรายการ { learn-more }
+inactive-css-not-flex-container-fix = ลองเพิ่ม <strong>display:flex</strong> หรือ <strong>display:inline-flex</strong> { learn-more }
+inactive-css-not-inline-or-tablecell-fix = ลองเพิ่ม <strong>display:inline</strong> หรือ <strong>display:table-cell</strong> { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = ลองเพิ่ม <strong>display:inline-block</strong> หรือ <strong>display:block</strong> { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = ลองเพิ่ม <strong>display:inline-block</strong> { learn-more }
