@@ -30,6 +30,7 @@
 <!ENTITY quickMode.label             "Vietoje viso straipsnio rodyti tik jo santrauką">
 <!ENTITY quickMode.accesskey         "s">
 
+<!ENTITY autotagEnable.label         "Automatiškai kurti žymas iš sklaidos kanalo &lt;kategorijos&gt; pavadinimų">
 <!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Gairėms suteikti prefiksą:">
 <!ENTITY autotagUsePrefix.accesskey  "s">

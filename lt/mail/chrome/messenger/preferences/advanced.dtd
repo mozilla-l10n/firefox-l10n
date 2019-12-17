@@ -7,11 +7,12 @@
 <!ENTITY itemUpdate.label        "Atnaujinimas">
 <!ENTITY itemNetworking.label    "Tinklas ir disko atmintis">
 <!ENTITY itemCertificates.label  "Liudijimai">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
-
+<!ENTITY dateTimeFormatting.label      "Datos ir laiko formatas">
+<!ENTITY languageSelector.label        "Kalba">
 <!ENTITY allowHWAccel.label            "Jei įmanoma, naudoti aparatinį spartinimą">
 <!ENTITY allowHWAccel.accesskey        "a">
 <!ENTITY storeType.label               "Laiškų saugojimo būdas naujoms paskyroms:">
@@ -38,8 +39,8 @@
 <!ENTITY returnReceiptsInfo.label      "Nustatykite kaip „&brandShortName;“ tvarko pažymas apie pristatytus laiškus">
 <!ENTITY showReturnReceipts.label      "Laiškų pristatymo pažymos…">
 <!ENTITY showReturnReceipts.accesskey  "L">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrija">
 <!ENTITY telemetryDesc.label             "Programos „&brandShortName;“ tobulinimo tikslais siunčia „&vendorShortName;i“ duomenis apie jos našumą, naudojamas funkcijas, tinkinimą ir kompiuterio aparatinę įrangą">
 <!ENTITY enableTelemetry.label           "Įgalinti telemetriją">
@@ -51,31 +52,35 @@
 <!ENTITY enableCrashReporter.label       "Įgalinti strigčių pranešiklį">
 <!ENTITY enableCrashReporter.accesskey   "p">
 <!ENTITY crashReporterLearnMore.label    "Sužinoti daugiau">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "„&brandShortName;“ naujinimai">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Laida ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Leisti „&brandShortName;“">
 <!ENTITY updateAuto.label                "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
 <!ENTITY updateCheck.accesskey           "T">
-<!ENTITY updateManual.label              "Netikrinti, ar yra naujinimų (nerekomenduojama – galimos saugumo problemos)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
 <!ENTITY updateHistory.accesskey         "R">
 
 <!ENTITY useService.label                "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey            "f">
-<!-- Networking and Disk Space -->
 
+<!ENTITY updateCrossUserSettingWarning.description "Ši nuostata bus pritaikyta visoms „Windows“ paskyroms ir „&brandShortName;“ profiliams, naudojantiems šią „&brandShortName;“ įdiegtį.">
+
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nuostatos…">
 <!ENTITY showSettings.accesskey        "N">
 <!ENTITY proxiesConfigure.label        "Parinkite „&brandShortName;“ ryšio su internetu nuostatas">
@@ -89,22 +94,22 @@
 <!ENTITY offlineCompactFolders.label     "Suglaudinti visus aplankus, jei sumoje tai padės sutaupyti daugiau kaip">
 <!ENTITY offlineCompactFolders.accesskey "S">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Podėliui skirti iki">
 <!ENTITY useCacheBefore.accesskey        "P">
 <!ENTITY useCacheAfter.label             "MB disko atminties">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Neleisti automatinio podėlio dydžio valdymo">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Išvalyti dabar">
 <!ENTITY clearCacheNow.accesskey         "v">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Serveriui paprašius mano liudijimo:">
 <!ENTITY certs.auto                      "parinkti jį automatiškai">
 <!ENTITY certs.auto.accesskey            "a">
@@ -117,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "T">
 <!ENTITY viewSecurityDevices.label "Saugumo priemonės">
 <!ENTITY viewSecurityDevices.accesskey "S">
+
+<!ENTITY manageCertificates2.label "Tvarkyti liudijimus…">
+<!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Saugumo priemonės…">
+<!ENTITY viewSecurityDevices2.accesskey "D">
