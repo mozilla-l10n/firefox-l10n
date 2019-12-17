@@ -586,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Xếp thông điệp được chọn vào thư mục">
 <!ENTITY archiveButton.tooltip "Lưu trữ các thư đã chọn">
 <!ENTITY openConversationButton.tooltip "Hiển thị cuộc trò chuyện của thư được chọn">
+<!ENTITY openMsgConversationButton.tooltip "Hiển thị cuộc hội thoại của thư đã chọn">
 <!ENTITY nextButton.tooltip "Chuyển sang thư chưa đọc tiếp theo">
 <!ENTITY nextMsgButton.tooltip "Di chuyển đến thư kế tiếp">
 <!ENTITY previousButton.tooltip "Chuyển sang thư chưa đọc phía trước">
@@ -705,9 +706,11 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Lưu tìm kiếm dưới dạng thư mục…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Chọn thư">
 <!ENTITY threadColumn.label "Chủ đề">
 <!ENTITY fromColumn.label "Từ">
 <!ENTITY recipientColumn.label "Người nhận">
+<!ENTITY correspondentColumn.label "Người viết">
 <!ENTITY subjectColumn.label "Tiêu đề">
 <!ENTITY dateColumn.label "Ngày">
 <!ENTITY priorityColumn.label "Ưu tiên">
@@ -730,6 +733,7 @@
 <!ENTITY threadColumn2.tooltip "Hiển thị chủ đề thư">
 <!ENTITY fromColumn2.tooltip "Sắp xếp theo người gửi">
 <!ENTITY recipientColumn2.tooltip "Sắp xếp theo người nhận">
+<!ENTITY correspondentColumn2.tooltip "Sắp xếp theo người viết">
 <!ENTITY subjectColumn2.tooltip "Sắp xếp theo chủ đề">
 <!ENTITY dateColumn2.tooltip "Sắp xếp theo ngày">
 <!ENTITY priorityColumn2.tooltip "Sắp xếp theo mức độ ưu tiên">
@@ -743,6 +747,8 @@
 <!ENTITY readColumn2.tooltip "Sắp xếp theo đã đọc">
 <!ENTITY receivedColumn2.tooltip "Sắp xếp theo ngày nhận">
 <!ENTITY starredColumn2.tooltip "Sắp xếp theo sao">
+<!ENTITY locationColumn2.tooltip "Sắp xếp theo địa chỉ">
+<!ENTITY idColumn2.tooltip "Sắp xếp theo thứ tự nhận được">
 <!ENTITY attachmentColumn2.tooltip "Sắp xếp theo đính kèm">
 
 <!-- Thread Pane Context Menu -->
@@ -964,3 +970,7 @@
 <!ENTITY dockOptions.label              "Tùy chọn biểu tượng ứng dụng…">
 <!ENTITY writeNewMessageDock.label      "Viết thư mới">
 <!ENTITY openAddressBookDock.label      "Mở sổ địa chỉ">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Trở lại trang trước">
+<!ENTITY browseForwardButton.tooltip "Tiến tới trang sau">
