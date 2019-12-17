@@ -71,6 +71,7 @@ login-intro-description = إن حفظت جلسات ولوجك في { -brand-prod
 login-intro-instruction-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
 login-intro-instruction-fxa-settings = تحقّق من تحديد مربع ”جلسات الولوج“ في إعدادات { -sync-brand-short-name }
 about-logins-intro-instruction-help = زُر <a data-l10n-name="help-link">دعم { -lockwise-brand-short-name }</a> لمزيد من المساعدة
+about-logins-intro-import = لو كانت جلسات ولوجك محفوظة في متصفّح آخر فيمكنك <a data-l10n-name="import-link">استيرادها إلى { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -131,8 +132,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ألغِ
 confirmation-dialog-dismiss-button =
     .title = ألغِ
+about-logins-confirm-remove-dialog-title = أنُزيل هذا الولوج؟
 confirm-delete-dialog-message = هذا إجراء لا عودة فيه.
 confirm-delete-dialog-confirm-button = احذف
+about-logins-confirm-remove-dialog-confirm-button = أزِل
 confirm-discard-changes-dialog-title = أتريد إهمال التغييرات غير المحفوظة؟
 confirm-discard-changes-dialog-message = ستفقد كل تغيير لم تحفظه.
 confirm-discard-changes-dialog-confirm-button = أهمِل

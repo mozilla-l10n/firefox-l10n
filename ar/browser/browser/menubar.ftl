@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = صفّر
     .accesskey = ص
+menu-view-full-zoom-actual-size =
+    .label = المقاس الفعلي
+    .accesskey = ق
 menu-view-full-zoom-toggle =
     .label = قرّب النص فقط
     .accesskey = ن
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = ملء الشاشة
     .accesskey = ش
 
-##
+
 
 menu-view-show-all-tabs =
     .label = أظهِر كل الألسنة
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = الإضافات
     .accesskey = ض
-menu-tools-sync-sign-in =
-    .label = لِج إلى { -sync-brand-short-name }…
-    .accesskey = ل
 menu-tools-fxa-sign-in =
     .label = لِج إلى { -brand-product-name }…
     .accesskey = ل
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = زامِن الآن
     .accesskey = ز
-menu-tools-sync-re-auth =
-    .label = أعِد الاتصال مع { -sync-brand-short-name }…
-    .accesskey = ع
 menu-tools-fxa-re-auth =
     .label = أعِد الاتصال بِ‍ { -brand-product-name }…
     .accesskey = ع
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = أعِد التشغيل مع تفعيل الإضافات
     .accesskey = ش
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = أبلغ عن موقع مخادع…
     .accesskey = ع
