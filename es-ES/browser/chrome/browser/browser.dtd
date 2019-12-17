@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Tendrá que verificar su cuenta antes de poder sincronizar.">
 <!ENTITY fxa.unverified.button.label "Abrir Ajustes… de &syncBrand.shortName.label;">
 
-<!ENTITY pictureInPictureHideToggle.label "Ocultar botón de Picture-in-Picture">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Sesión iniciada como">
 <!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Configuración…">
+
+<!ENTITY pictureInPictureHideToggle.label "Ocultar botón de Picture-in-Picture">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Iniciar sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.settings.label "Ajustes">
 <!ENTITY fxa.menu.accountSettings.label "Ajustes de la cuenta">
@@ -568,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Buscar con:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Esta vez, busque con:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -597,7 +590,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Abrir el marco en una ventana nueva">
 <!ENTITY openFrameCmd.accesskey       "e">
-<!ENTITY openLinkCmdInContainerTab.label "Abrir enlace en pestaña de contenedor nueva.">
+<!ENTITY openLinkCmdInContainerTab.label "Abrir enlace en pestaña de contenedor nueva">
 <!ENTITY openLinkCmdInContainerTab.accesskey "A">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
@@ -940,12 +933,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Por qué?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquearlos puede interferir con elementos en algunos sitios. Sin rastreadores, algunos botones, formularios y campos de inicio de sesión podrían no funcionar.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Desactivar las protecciones permitirá todos los rastreadores en este sitio. También puede mejorar su funcionalidad.">
-<!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociales">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo entre sitios">
-<!ENTITY protections.trackingContent.label "Contenido de rastreo">
-<!ENTITY protections.fingerprinters.label "Creadores de huellas (Fingerprinters)">
-<!ENTITY protections.cryptominers.label "Criptomineros">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Todos los rastreadores en este sitio se han cargado porque las protecciones están desactivadas.">
 <!ENTITY protections.noTrackersFound.description "No se detectaron rastreadores conocidos por &brandShortName; en esta página.">
 
@@ -968,7 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sincronizar ahora">
 <!ENTITY syncSyncNowItemSyncing.label "Sincronizando…">
 <!ENTITY syncSyncNowItem.accesskey    "z">
@@ -1006,8 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
-
-<!ENTITY contentBlocking.cookies2.label "Cookies de rastreo entre sitios">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineros">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
