@@ -16,13 +16,18 @@ certificate-viewer-certificate-authority = ผู้ออกใบรับร�
 certificate-viewer-cipher-suite = ชุดการเข้ารหัส
 certificate-viewer-common-name = ชื่อทั่วไป
 certificate-viewer-email-address = ที่อยู่อีเมล
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = ประเทศที่จดทะเบียน
 certificate-viewer-country = ประเทศ
+certificate-viewer-curve = เส้นโค้ง
+certificate-viewer-distribution-point = จุดแจกจ่าย
 certificate-viewer-dns-name = ชื่อ DNS
 certificate-viewer-exponent = เลขชี้กำลัง
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = กลุ่มการแลกเปลี่ยนคีย์
 certificate-viewer-key-id = ID คีย์
-certificate-viewer-key-size = จขนาดคีย์
+certificate-viewer-key-size = ขนาดคีย์
+certificate-viewer-locality = สถานที่
 certificate-viewer-location = ตำแหน่งที่ตั้ง
 certificate-viewer-logid = ID รายการบันทึก
 certificate-viewer-method = วิธีการ
@@ -39,6 +44,8 @@ certificate-viewer-purposes = จุดประสงค์
 certificate-viewer-qualifier = ตัวบ่งคุณลักษณะ
 certificate-viewer-qualifiers = ตัวบ่งคุณลักษณะ
 certificate-viewer-required = จำเป็น
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = รัฐ/จังหวัดที่จดทะเบียน
 certificate-viewer-state-province = รัฐ/จังหวัด
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
@@ -51,10 +58,13 @@ certificate-viewer-version = รุ่น
 certificate-viewer-business-category = หมวดหมู่ธุรกิจ
 certificate-viewer-subject-name = ชื่อหัวเรื่อง
 certificate-viewer-issuer-name = ชื่อผู้ออก
+certificate-viewer-validity = ความถูกต้อง
 certificate-viewer-subject-alt-names = ชื่อหัวเรื่องแสดงแทน
 certificate-viewer-public-key-info = ข้อมูลคีย์สาธารณะ
 certificate-viewer-miscellaneous = เบ็ดเตล็ด
 certificate-viewer-fingerprints = ลายนิ้วมือ
+certificate-viewer-basic-constraints = ข้อจำกัดพื้นฐาน
+certificate-viewer-certificate-policies = นโยบายใบรับรอง
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ดาวน์โหลด
