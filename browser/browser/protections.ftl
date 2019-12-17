@@ -76,7 +76,7 @@ lockwise-sync-not-syncing-devices = Synchronisiert nicht mit anderen Geräten
 monitor-title = Nach Datenlecks Ausschau halten
 monitor-link = So funktioniert's
 monitor-header-content-no-account = Testen Sie mit { -monitor-brand-name }, ob Sie von einem Datenleck betroffen sind, und lassen Sie sich bei zukünftigen Datenlecks benachrichtigen.
-monitor-header-content-signed-in = { -monitor-brand-name } benachrichtigt Sie, falls Ihre Informationen von einem bekannt gwordenen Datenleck betroffen sind.
+monitor-header-content-signed-in = { -monitor-brand-name } benachrichtigt Sie, falls Ihre Informationen von einem bekannt gewordenen Datenleck betroffen sind.
 monitor-sign-up = Für Warnmeldungen zu Datenlecks anmelden
 auto-scan = Heute automatisch überprüft
 # This string is displayed after a large numeral that indicates the total number
