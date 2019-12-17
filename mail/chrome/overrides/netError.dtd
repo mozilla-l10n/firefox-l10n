@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Nepavyko įkelti tinklalapio">
 <!ENTITY retry.label "Bandyti dar kartą">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nepavyko užmegzti ryšio">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -78,17 +78,20 @@
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
+<!ENTITY xfoBlocked.title "Užblokuota pagal „X-Frame-Options“ politiką">
+<!ENTITY xfoBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio šiame kontekste, nes jo „X-Frame-Options“ politika to neleidžia.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Klaida: duomenys pažeisti">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes perduodant duomenis įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Galite sukurti išimtį…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Išeiti">
 <!ENTITY securityOverride.exceptionButtonLabel "Sukurti išimtį…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Išimties kurti neturėtumėte, jei naudojatės interneto ryšiu, kuriuo nepasitikite pilnai, arba jei anksčiau nematėte įspėjimo apie šį serverį.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +102,8 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Prisijungę piktavaliai lengvai galėtų pamatyti informaciją, kuri jums atrodo saugi. Aplankykite šį tinklapį tik tada, kai jo administratorius pašalins saugumo spragas.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Užblokuotas puslapis">
+
+<!ENTITY networkProtocolError.title "Tinklo protokolo klaida">
+<!ENTITY networkProtocolError.longDesc "<p>Tinklalapis, kurį bandote atverti, negali būti įkeltas dėl tinklo protokole aptiktos klaidos.</p><ul><li>Susisiekite su svetainės prižiūrėtojais ir praneškite apie šią problemą.</li></ul>">
