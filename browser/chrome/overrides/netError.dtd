@@ -120,6 +120,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "حجبتها سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
+<!ENTITY xfoBlocked.title "حجبتها سياسة X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذا السياق إذ أنّ سياسة X-Frame-Options في الصفحة تمنع ذلك.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "خطأ محتوى فاسد">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
