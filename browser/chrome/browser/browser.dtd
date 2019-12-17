@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Pred začatím synchronizácie musíte overiť svoj účet.">
 <!ENTITY fxa.unverified.button.label "Nastavenia služby &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Skryť prepínanie obrazu v obraze">
-<!ENTITY pictureInPictureHideToggle.accesskey "S">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prihlásený ako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
 <!ENTITY fxa.menu.syncSettings.label "Nastavenie synchronizácie…">
+
+<!ENTITY pictureInPictureHideToggle.label "Skryť prepínanie obrazu v obraze">
+<!ENTITY pictureInPictureHideToggle.accesskey "S">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Prihlásiť sa do aplikácie &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Zapnúť &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Služby aplikácie &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Účet">
 <!ENTITY fxa.menu.settings.label "Nastavenia">
 <!ENTITY fxa.menu.accountSettings.label "Nastavenia účtu">
@@ -568,12 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Vyhľadávať pomocou:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Vyhľadať pomocou:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -939,11 +932,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Prečo?">
-<!ENTITY protections.socialMediaTrackers.label "Sledovacie prvky sociálnych sietí">
-<!ENTITY protections.crossSiteTrackingCookies.label "Sledovacie cookies">
-<!ENTITY protections.trackingContent.label "Sledovací obsah">
-<!ENTITY protections.fingerprinters.label "Odtlačok prehliadača">
-<!ENTITY protections.cryptominers.label "Ťažba kryptomien">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Všetky sledovacie prvky na tejto stránke boli načítané, pretože ochrana je vypnutá.">
 <!ENTITY protections.noTrackersFound.description "Aplikácia &brandShortName; nenašla na tejto stránke žiadne známe sledovacie prvky.">
 
@@ -963,7 +951,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Prihlásiť sa do služby &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "r">
-
 <!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
 <!ENTITY syncSyncNowItemSyncing.label "Synchronizuje sa…">
 <!ENTITY syncSyncNowItem.accesskey    "N">
@@ -1002,8 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Sledovacie prvky sociálnych sietí">
 
-<!ENTITY contentBlocking.cookies2.label "Sledovacie cookies">
-
 <!ENTITY contentBlocking.cryptominers.label "Ťažba kryptomien">
 <!ENTITY contentBlocking.cryptominersView.label "Ťažba kryptomien">
 
@@ -1019,6 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Ďalšie informácie">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adresa URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Aké ste mali problémy? (nepovinné)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Popis problému (nepovinné)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Odoslať hlásenie">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Zrušiť">
 

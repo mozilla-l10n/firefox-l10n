@@ -73,6 +73,7 @@ lockwise-sync-status =
        *[other] Synchronizácia s { $count } ďalšími zariadeniami
     }
 lockwise-sync-not-syncing-devices = Synchronizácia s ďalšími zariadeniami nie je nastavená
+manage-connected-devices = Spravovať zariadenia…
 monitor-title = Pozor na úniky dát
 monitor-link = Ako to funguje
 monitor-sign-up = Prihláste sa na odber upozornení

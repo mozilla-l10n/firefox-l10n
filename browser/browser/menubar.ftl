@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Obnoviť
     .accesskey = O
+menu-view-full-zoom-actual-size =
+    .label = Skutočná veľkosť
+    .accesskey = v
 menu-view-full-zoom-toggle =
     .label = Meniť iba veľkosť textu
     .accesskey = M
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Na celú obrazovku
     .accesskey = c
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Zobraziť všetky karty
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Doplnky
     .accesskey = D
-menu-tools-sync-sign-in =
-    .label = Prihlásiť sa do služby { -sync-brand-short-name }…
-    .accesskey = r
 menu-tools-fxa-sign-in =
     .label = Prihlásiť sa do aplikácie { -brand-product-name }…
     .accesskey = i
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Synchronizovať teraz
     .accesskey = N
-menu-tools-sync-re-auth =
-    .label = Znova pripojiť k { -sync-brand-short-name }…
-    .accesskey = Z
 menu-tools-fxa-re-auth =
     .label = Znovu pripojiť k aplikácii { -brand-product-name }…
     .accesskey = r
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Reštartovať a povoliť doplnky…
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Nahlásenie podvodnej stránky…
     .accesskey = N
