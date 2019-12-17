@@ -130,14 +130,18 @@ cfr-whatsnew-lockwise-take-link-text = Prenesite aplikacijo
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Glejte videoposnetke med brskanjem
 cfr-whatsnew-pip-cta = Več o tem
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Manj nadležnih pojavnih oken na strani
 cfr-whatsnew-permission-prompt-cta = Več o tem
 
 ## Fingerprinter Counter
 
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Sledilci prstnih odtisov
 
 ## Bookmark Sync
 

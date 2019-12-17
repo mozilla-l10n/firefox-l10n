@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Ponastavi
     .accesskey = N
+menu-view-full-zoom-actual-size =
+    .label = Dejanska velikost
+    .accesskey = D
 menu-view-full-zoom-toggle =
     .label = Povečaj le besedilo
     .accesskey = B
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Celoten zaslon
     .accesskey = C
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Prikaži vse zavihke
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Dodatki
     .accesskey = D
-menu-tools-sync-sign-in =
-    .label = Prijava v { -sync-brand-short-name } …
-    .accesskey = n
 menu-tools-fxa-sign-in =
     .label = Prijava v { -brand-product-name } …
     .accesskey = j
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Sinhroniziraj
     .accesskey = n
-menu-tools-sync-re-auth =
-    .label = Ponovno poveži s { -sync-brand-short-name }om …
-    .accesskey = P
 menu-tools-fxa-re-auth =
     .label = Ponovno poveži { -brand-product-name } …
     .accesskey = n
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Ponovno zaženi z omogočenimi dodatki
     .accesskey = n
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Prijavi zavajajočo stran …
     .accesskey = P
