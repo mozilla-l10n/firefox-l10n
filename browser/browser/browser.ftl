@@ -56,6 +56,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = افتح لوحة الرسائل
 urlbar-geolocation-notification-anchor =
     .tooltiptext = افتح لوحة طلب المكان
+urlbar-xr-notification-anchor =
+    .tooltiptext = افتح لوحة تصاريح الواقع الافتراضي
 urlbar-storage-access-anchor =
     .tooltiptext = افتح لوحة تصاريح نشاط التصفّح
 urlbar-translate-notification-anchor =
@@ -80,6 +82,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = افتح لوحة رسائل تنصيب الإضافات
 urlbar-geolocation-blocked =
     .tooltiptext = لقد حجبت معلومات مكانك عن هذا الموقع.
+urlbar-xr-blocked =
+    .tooltiptext = لقد حجبت الوصول إلى جهاز الواقع الافتراضي عن هذا الموقع.
 urlbar-web-notifications-blocked =
     .tooltiptext = لقد حجبت التنبيهات عن هذا الموقع.
 urlbar-camera-blocked =
@@ -121,6 +125,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = الآن فقط ابحث باستعمال:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -133,6 +140,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = اجعله محرك البحث الافتراضي
     .accesskey = ف
+search-one-offs-context-set-as-default-private =
+    .label = اضبطه ليكون محرّك البحث المبدئي في النوافذ الخاصة
+    .accesskey = ن
 
 ## Bookmark Panel
 
