@@ -120,6 +120,7 @@
 <!ENTITY reorderAttachmentsPanel.label "Perrikiuoti priedus">
 <!ENTITY moveAttachmentTopPanelBtn.label "Į viršų">
 <!ENTITY moveAttachmentUpPanelBtn.label "Viršun">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Judėti kartu">
 <!ENTITY moveAttachmentDownPanelBtn.label "Žemyn">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Į apačią">
 
