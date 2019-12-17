@@ -144,6 +144,7 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Atvaizdas iš tinklo">
 <!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Įveskite nuotraukos saitą">
 <!ENTITY UpdatePhoto.label              "Atnaujinti">
 <!ENTITY UpdatePhoto.accesskey          "u">
 <!ENTITY PhotoDropTarget.label          "Čia nuvilkite naują nuotrauką">
