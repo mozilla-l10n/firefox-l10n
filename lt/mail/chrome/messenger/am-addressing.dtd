@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Laiškų rašymas ir adresavimas">
 <!ENTITY addressingGroupTitle.label "Laiškų adresavimas">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "naudoti kitą LDAP serverį:">
 <!ENTITY directories.accesskey     "k">
 <!ENTITY directoriesNone.label     "Nėra">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Laiškų rašymas">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,10 +25,10 @@
 <!ENTITY useHtml.accesskey                    "r">
 <!ENTITY autoQuote.label                      "Atsakant cituoti originalų laišką">
 <!ENTITY autoQuote.accesskey                  "A">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Tuomet">
-<!ENTITY then.accesskey                       "u">
-<!ENTITY aboveQuote.label                     "pradėti rašyti atsakymą virš pacituoto teksto">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Cituojant,">
+<!ENTITY quoting.accesskey                    "q">
+<!ENTITY aboveQuote.label                     "pradėti rašyti atsakymą virš cituojamo teksto">
 <!ENTITY belowQuote.label                     "pradėti rašyti atsakymą po pacituotu tekstu">
 <!ENTITY selectAndQuote.label                 "pažymėti pacituotą tekstą">
 <!ENTITY place.label                          "ir įdėti prierašą">

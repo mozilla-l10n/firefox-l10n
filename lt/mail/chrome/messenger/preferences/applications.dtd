@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Pridėkite failų talpinimo debesyje tarnybą">
 <!ENTITY removeCloudFileAccount.label     "Pašalinti">
 <!ENTITY removeCloudFileAccount.accesskey "š">
-<!ENTITY authRequired.description         "Parodyti šios paskyros nuostatoms būtinas jūsų leidimas.">
-<!ENTITY authRequired.button.label        "Leisti">
-<!ENTITY authRequired.button.accesskey    "L">
+<!ENTITY findCloudFileProviders.label     "Rasti daugiau teikėjų…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Siūlyti siųsti failus per debesį, kai jų dydis viršija">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

@@ -124,6 +124,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Paštas ir naujienų grupės">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Adresų knyga">
+<!ENTITY addressBookCmd.accesskey                       "a">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Paieška…">
 <!ENTITY searchAddressesCmd.accesskey                   "P">
 <!ENTITY importCmd.label                                "Importas…">
@@ -141,6 +144,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.label                            "Naujas sąrašas">
 <!ENTITY newlistButton.accesskey                        "r">
 <!ENTITY showAsDefault.label                            "Numatytasis pradinis katalogas">
+<!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Keisti">
 <!ENTITY propertiesContext.label                        "Savybės">
 <!ENTITY propertiesContext.accesskey                    "S">

@@ -5,8 +5,9 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske, neparsiųsti:">
 <!ENTITY doNotDownloadNntp.label "Taupant vietą diske, naudojimui neprisijungus prie tinklo neparsiųsti:">
 <!ENTITY doNotDownloadImap.label "Taupant vietą diske, galima apriboti laiškų, parsiunčiamų iš serverio ir laikomų diske naudojimui neprisijungus, amžių bei dydį.">
-<!ENTITY allFoldersOffline.label "Šios paskyros laiškus laikyti šiame kompiuteryje">
-<!ENTITY allFoldersOffline.accesskey "Š">
+<!ENTITY allFoldersOffline2.label "Šios paskyros visų aplankų laiškus laikyti šiame kompiuteryje">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Pastaba: šis pakeitimas įtakos visus šios paskyros aplankus. Norėdami nustatyti atskirus aplankus, naudokite mygtuką „Papilldomai…“.">
 <!ENTITY offlineNotDownload.label "laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY autosyncNotDownload.label "Neparsiųsti laiškų, didesnių kaip">
@@ -37,13 +38,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "P">
 <!ENTITY syncGroupTitle.label "Laiškų sinchronizavimas">
 <!ENTITY diskspaceGroupTitle.label "Disko atmintinė">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sinchronizuoti visus laiškus, neatsižvelgiant į jų amžių">
 <!ENTITY allAutosync.accesskey           "v">
 <!ENTITY ageAutosyncBefore.label         "Sinchronizuoti tik pastarųjų">
