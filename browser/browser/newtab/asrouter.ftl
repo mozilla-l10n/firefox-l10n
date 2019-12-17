@@ -133,10 +133,23 @@ cfr-whatsnew-pip-cta = اطّلع على المزيد
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-body = بات { -brand-shorter-name } يحجب طلبات المواقع بإرسال الرسائل المنبثقة تلقائيًا.
 cfr-whatsnew-permission-prompt-cta = اطّلع على المزيد
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [zero] مسجّلات البصمات المحجوبة
+        [one] مسجّلات البصمات المحجوبة
+        [two] مسجّلات البصمات المحجوبة
+        [few] مسجّلات البصمات المحجوبة
+        [many] مسجّلات البصمات المحجوبة
+       *[other] مسجّلات البصمات المحجوبة
+    }
 
 ## Bookmark Sync
 
@@ -175,6 +188,9 @@ cfr-doorhanger-socialtracking-dont-show-again = لا تعرض هذه الرسا�
     .accesskey = ع
 cfr-doorhanger-socialtracking-heading = منع { -brand-short-name } إحدى الشبكات الاجتماعية من تعقّبك إلى هنا
 cfr-doorhanger-socialtracking-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب أكثر متعقّبات الشبكات الاجتماعية شيوعًا فيحدّ من بياناتك وأنت تتصفّح الإنترنت التي تجمعها.
+cfr-doorhanger-fingerprinters-heading = حجب { -brand-short-name } مسجّل بصمات في هذه الصفحة
+cfr-doorhanger-fingerprinters-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب مسجّلات البصمات التي تجمع المعلومات الفريدة التي تحدّد جهازك عن غيرك، كلّه لتتعقّبك.
+cfr-doorhanger-cryptominers-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب المُعدّنات المعمّاة التي تستعمل قوّة الحساب لنظامك لتُعدّن النقود الرقمية.
 
 ## Enhanced Tracking Protection Milestones
 
