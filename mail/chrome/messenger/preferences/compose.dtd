@@ -18,8 +18,10 @@
 <!ENTITY htmlComposeHeader.label              "Raiškusis (HTML) tekstas">
 <!ENTITY font.label                           "Šriftas:">
 <!ENTITY font.accesskey                       "Š">
-<!ENTITY size.label                           "Dydis:">
-<!ENTITY size.accesskey                       "D">
+<!ENTITY fontSize.label                       "Dydis:">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.label              "Naudokite numatytasias skaitymo spalvas">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Teksto spalva:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Fono spalva:">
@@ -54,9 +56,9 @@
 <!ENTITY directoriesNone.label                 "Nėra">
 <!ENTITY editDirectories.label                 "Tvarkyti katalogus…">
 <!ENTITY editDirectories.accesskey             "T">
-
-
-
+<!ENTITY showAsDefault.label                   "Numatytasis paleidimo katalogas adresų knygos lange:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Paskiausiai naudotas katalogas">
 
 <!ENTITY sendOptionsDescription.label          "Parinkite siunčiamų laiškų tekstų tipus:">
 <!ENTITY sendOptions.label                     "Siuntimo parinktys…">
