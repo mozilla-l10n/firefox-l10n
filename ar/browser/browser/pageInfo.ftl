@@ -151,6 +151,20 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = استخدم المبدئي
 security-no-visits = لا
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [zero] الوصفية (لا وسوم)
+            [one] الوصفية (وسم واحد)
+            [two] الوصفية (وسمان اثنان)
+            [few] الوصفية ({ $tags } وسوم)
+            [many] الوصفية ({ $tags } وسمًا)
+           *[other] الوصفية ({ $tags } وسم)
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -165,6 +179,20 @@ security-visits-number =
         [many] نعم، { $visits } مرّة
        *[other] نعم، { $visits } مرّة
     }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [zero] { $kb } ك.بايت ({ $bytes } بايت)
+            [one] { $kb } ك.بايت ({ $bytes } بايت)
+            [two] { $kb } ك.بايت ({ $bytes } بايت)
+            [few] { $kb } ك.بايت ({ $bytes } بايت)
+            [many] { $kb } ك.بايت ({ $bytes } بايت)
+           *[other] { $kb } ك.بايت ({ $bytes } بايت)
+        }
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:

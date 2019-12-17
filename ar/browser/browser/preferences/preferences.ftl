@@ -519,6 +519,8 @@ search-bar-shown =
     .label = أضف شريط البحث إلى شريط الأدوات
 search-engine-default-header = محرك البحث المبدئي
 search-engine-default-desc = اختر محرك البحث المبدئي في شريطي العناوين و البحث.
+search-engine-default-desc-2 = هذا هو محرّك البحث المبدئي في شريطي العنوان والبحث. يمكنك تغييره متى شئت.
+search-engine-default-private-desc-2 = اختر محرّك بحث مبدئي آخر ليُستعمل في النوافذ الخاصة فقط
 search-separate-default-engine =
     .label = استعمل محرك البحث هذا في النوافذ الخاصة
     .accesskey = س
@@ -537,6 +539,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = فضّل اقتراحات البحث على تأريخ التصفح في نتائج شريط العنوان
+search-show-suggestions-private-windows =
+    .label = اعرض اقتراحات البحث في النوافذ الخاصة
 suggestions-addressbar-settings = غيّر تفضيلاتك تجاه تأريخ التصفح والعلامات واقتراحات الألسنة
 search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
 search-one-click-header = محركات البحث بنقرة واحدة
@@ -563,6 +567,12 @@ search-keyword-warning-bookmark = لقد اخترت كلمة مفتاحية تس
 ## Containers Section
 
 containers-back-link = → عد للخلف
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] عُد إلى الخيارات
+           *[other] عُد إلى التفضيلات
+        }
 containers-header = الألسنة الحاوية
 containers-add-button =
     .label = أضف حاوية جديدة
@@ -585,6 +595,9 @@ sync-signedout-account-create = أليس لديك حساب؟ لتبدأ
     .accesskey = س
 sync-signedout-account-signin =
     .label = لِج…
+    .accesskey = ل
+sync-signedout-account-signin2 =
+    .label = لِج إلى { -sync-brand-short-name }…
     .accesskey = ل
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -743,6 +756,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = ولّد كلمات سر قوية واقترحها عليّ
     .accesskey = ك
+forms-breach-alerts =
+    .label = اعرض تنبيهات بكلمات السر المتسرّبة من المواقع
+    .accesskey = ت
 forms-breach-alerts-learn-more-link = اطّلع على المزيد
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -901,11 +917,13 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = يوازن بين الحماية والأداء. ستتحمّل الصفحات كالعادة.
 content-blocking-etp-strict-desc = حماية أقوى وأعتى، لكنها قد تعطب محتويات بعض المواقع أو المواقع نفسها.
 content-blocking-etp-custom-desc = اختر المتعقّبات والسكربتات التي تريد حجبها.
+content-blocking-private-windows = المحتوى الذي يتعقّبك في النوافذ الخاصة
 content-blocking-cross-site-tracking-cookies = كعكات تتعقّبك بين المواقع
 content-blocking-social-media-trackers = متعقبات مواقع التواصل الاجتماعي
 content-blocking-all-cookies = كل الكعكات
 content-blocking-unvisited-cookies = الكعكات من المواقع غير المُزارة
 content-blocking-all-windows-trackers = المتعقّبات المعروفة في كل النوافذ
+content-blocking-all-windows-tracking-content = المحتوى الذي يتعقّبك في كل النوافذ
 content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
 content-blocking-cryptominers = المُعدّنات المعمّاة
 content-blocking-fingerprinters = مسجّلات البصمات
@@ -921,6 +939,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = المتعقّبات
     .accesskey = ق
+content-blocking-tracking-content-label =
+    .label = المحتوى الذي يتعقّبك
+    .accesskey = ح
 content-blocking-tracking-protection-option-all-windows =
     .label = في كل النوافذ
     .accesskey = ك
@@ -954,6 +975,10 @@ tracking-manage-exceptions =
 permissions-header = الصلاحيات
 permissions-location = المكان
 permissions-location-settings =
+    .label = الإعدادات…
+    .accesskey = ع
+permissions-xr = الواقع الافتراضي
+permissions-xr-settings =
     .label = الإعدادات…
     .accesskey = ع
 permissions-camera = الكمرة
@@ -1004,6 +1029,8 @@ permissions-a11y-privacy-link = اطّلع على المزيد
 collection-header = جمع { -brand-short-name } للبيانات و استخدامها
 collection-description = نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين { -brand-short-name }. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.
 collection-privacy-notice = تنويه الخصوصية
+collection-health-report-telemetry-disabled = لم تعد تسمح بأن يلتقط { -vendor-short-name } البيانات التقنية والتفاعلية. ستُحذف البيانات القديمة كلها خلال 30 يومًا.
+collection-health-report-telemetry-disabled-link = اطّلع على المزيد
 collection-health-report =
     .label = اسمح أن يُرسل { -brand-short-name } بيانات تقنية و بيانات التفاعل إلى { -vendor-short-name }
     .accesskey = ح

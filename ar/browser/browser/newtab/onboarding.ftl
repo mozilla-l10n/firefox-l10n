@@ -21,6 +21,7 @@ onboarding-button-label-get-started = فلنبدأ
 onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
+onboarding-welcome-modal-get-body = وصلك الآن المتصفّح.<br/>بقيت أمامك روائع { -brand-product-name } كلّها.
 onboarding-welcome-modal-family-learn-more = خُذ نظرة على طقم منتجات { -brand-product-name }.
 onboarding-welcome-form-header = ابدأ هنا
 onboarding-join-form-header = انضم إلى { -brand-product-name }
@@ -32,6 +33,8 @@ onboarding-join-form-legal = بالمتابعة فأنت توافق على <a da
 onboarding-join-form-continue = واصِل
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ألديك حساب؟
+# Text for link to submit the sign in form
+onboarding-join-form-signin = لِج
 onboarding-start-browsing-button-label = ابدأ التصفح
 onboarding-cards-dismiss =
     .title = ألغِ
@@ -39,6 +42,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = لنبدأ رحلة البحث عمّا يمكنك فعله.
 onboarding-fullpage-form-email =
     .placeholder = عنوان بريدك الإلكتروني…
 
@@ -71,7 +75,12 @@ onboarding-benefit-privacy-title = خصوصية حقة
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = كل ما نفعله يحترم ميثاق ”عهدة البيانات الشخصية“: استلم أدنى قدر، أبقِها آمنة ولا أسرار مخفية.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = خُذ معك علاماتك وكلمات السر والتأريخ وغيرها الكثير أينما تستعمل { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = استلم إشعارًا متى ما ظهرت معلوماتك الشخصية في تسريبٍ للبيانات.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = أدِر كلمات السر لديك المحمية والمحمولة.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -99,6 +108,8 @@ onboarding-data-sync-text2 = زامِن علاماتك وكلمات السر و�
 onboarding-data-sync-button2 = لِج إلى { -sync-brand-short-name }
 onboarding-firefox-monitor-title = اعلم متى يحدث تسرّب بيانات
 onboarding-firefox-monitor-text = يراقب { -monitor-brand-name } وينبّهك لو ظهر بريدك الإلكتروني في أيّ تسرّب بيانات جديد.
+onboarding-firefox-monitor-text2 = يراقب { -monitor-brand-name } وينبّهك لو ظهر بريدك الإلكتروني في أيّ تسريبٍ جديد للبيانات.
+onboarding-firefox-monitor-button = سجّل لتصلك التنبيهات
 onboarding-browse-privately-title = تصفَّح بخصوصية
 onboarding-browse-privately-text = يمسح التصفح الخاص تأريخ البحث والتصفح ليُبقيه سرًا على أي شخص يستخدم هذا الحاسوب.
 onboarding-browse-privately-button = افتح نافذة خاصة
@@ -116,9 +127,12 @@ onboarding-pocket-anywhere-button = جرّب { -pocket-brand-name }
 onboarding-lockwise-passwords-title = خُذ معك كلمات السر أينما ذهبت
 onboarding-lockwise-passwords-text2 = حافظ على كلمات السر التي حفظتها آمنة ولِج إلى حساباتك عبر { -lockwise-brand-name } ودون عناء.
 onboarding-lockwise-passwords-button2 = نزّل التطبيق
+onboarding-lockwise-strong-passwords-button = أدِر جلسات الولوج
 onboarding-facebook-container-title = اضبط حدود فيسبوك
 onboarding-facebook-container-text2 = يفصل { -facebook-container-brand-name } ملفك الشخصي عن المعلومات الأخرى، وهكذا تكون مهمة فيسبوك في إيصال الإعلانات إليك أصعب وأصعب.
 onboarding-facebook-container-button = أضِف الامتداد
+onboarding-import-browser-settings-title = استورِد العلامات وكلمات السر وغيرها
+onboarding-import-browser-settings-button = استورِد بيانات كروم
 
 ## Message strings belonging to the Return to AMO flow
 

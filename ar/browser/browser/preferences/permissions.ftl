@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب معرفة مكاني
 permissions-site-location-disable-desc = سيمنع هذا مواقع الوب غير المدرجة أعلاه من طلب تصريح معرفة مكانك. يمكن أن يؤدي منع التصريح هذا إلى عطب مزايا بعض المواقع.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = الإعدادات - تصاريح الواقع الافتراضي
+    .style = { permissions-window.style }
+permissions-site-xr-desc = طلبت المواقع الآتية الوصول إلى أجهزة الواقع الافتراضي عندك. يمكنك تحديد أي المواقع مسموح لها الوصول إلى تلك الأجهزة، ويمكنك أيضا حجب الطلبات الجديدة التي تطلب الوصول إلى تلك الأجهزة عندك.
+permissions-site-xr-disable-label =
+    .label = احجب الطلبات الجديدة التي تطلب الوصول إلى أجهزة الواقع الافتراضي عندك
+permissions-site-xr-disable-desc = سيمنع هذا مواقع الوب غير المدرجة أعلاه من طلب تصريح الوصول إلى أجهزة الواقع الافتراضي عندك. يمكن أن يؤدي منع التصريح هذا إلى عطب مزايا بعض المواقع.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
