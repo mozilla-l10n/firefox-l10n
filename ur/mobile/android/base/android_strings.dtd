@@ -881,6 +881,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; میں خوش آمدید">
+<!ENTITY activity_stream_signin_description "اپنے فائر Firefox اکاؤنٹ کے ساتھ بک مارکس ، پاس ورڈز اور بہت کچھ کی ہمہ وقت سازی شروع کریں۔">
 <!ENTITY activity_stream_signup_button "سائن اپ کریں">
 <!ENTITY activity_stream_signin_prompt "کیا پہلے سے ہی ایک اکاؤنٹ ہے؟">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
