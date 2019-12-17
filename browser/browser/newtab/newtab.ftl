@@ -175,6 +175,7 @@ newtab-discovery-empty-section-topstories-timed-out = آخ. أوشكنا على 
 newtab-pocket-read-more = المواضيع الشائعة:
 newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-how-it-works = آلية العمل
+newtab-pocket-whats-pocket = ما يكون { -pocket-brand-name }؟
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
 

@@ -103,6 +103,18 @@ cfr-whatsnew-tracking-protect-body =
     يحجب { -brand-short-name } عددًا من المتعقّبات الاجتماعية والمتعقّبات بين المواقع،
     متعقّبات هدفها معرفة ما تفعله في المواقع.
 cfr-whatsnew-tracking-protect-link-text = اعرض تقرير الحماية
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [zero] المتعقّبات المحجوبة
+        [one] المتعقّبات المحجوبة
+        [two] المتعقّبات المحجوبة
+        [few] المتعقّبات المحجوبة
+        [many] المتعقّبات المحجوبة
+       *[other] المتعقّبات المحجوبة
+    }
 cfr-whatsnew-tracking-blocked-subtitle = منذ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = اعرض التقرير
 cfr-whatsnew-lockwise-backup-title = انسخ كلمات السر احتياطيًا
@@ -116,9 +128,12 @@ cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = شاهِد الڤِديوهات بينما تتصفّح
+cfr-whatsnew-pip-cta = اطّلع على المزيد
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = اطّلع على المزيد
 
 ## Fingerprinter Counter
 
@@ -156,8 +171,22 @@ cfr-doorhanger-firefox-send-ok-button = جرّب { -send-brand-name }
 
 cfr-doorhanger-socialtracking-close-button = أغلِق
     .accesskey = غ
+cfr-doorhanger-socialtracking-dont-show-again = لا تعرض هذه الرسائل ثانيةً
+    .accesskey = ع
 cfr-doorhanger-socialtracking-heading = منع { -brand-short-name } إحدى الشبكات الاجتماعية من تعقّبك إلى هنا
 cfr-doorhanger-socialtracking-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب أكثر متعقّبات الشبكات الاجتماعية شيوعًا فيحدّ من بياناتك وأنت تتصفّح الإنترنت التي تجمعها.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [zero] لم يحجب { -brand-short-name } أيّ متعقّب منذ { $date }!
+        [one] حجب { -brand-short-name } ما يزيد على <b>متعقّب واحد</b> منذ { $date }!
+        [two] حجب { -brand-short-name } ما يزيد على <b>متعقّبين اثنين</b> منذ { $date }!
+        [few] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّبات منذ { $date }!
+        [many] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّبًا منذ { $date }!
+       *[other] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّب منذ { $date }!
+    }

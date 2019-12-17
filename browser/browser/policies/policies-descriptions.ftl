@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = منع { -brand-short-name } من تشغيل ال
 policy-DisableForgetButton = منع الوصول إلى زر النسيان.
 policy-DisableFormHistory = عدم تذكّر تأريخ الاستمارات والبحث.
 policy-DisableMasterPasswordCreation = إن كان ”صحيح“، فلا يمكن إنشاء كلمة سر رئيسية.
+policy-DisablePasswordReveal = لا تسمح بكشف كلمات السر في جلسات الولوج المحفوظة.
 policy-DisablePocket = تعطيل ميزة حفظ الصفحات في Pocket.
 policy-DisablePrivateBrowsing = تعطيل التصفح الخاص.
 policy-DisableProfileImport = تعطيل أمر القائمة الخاص باستيراد البيانات من المتصفحات الأخرى.
