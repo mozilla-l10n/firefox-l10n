@@ -545,6 +545,12 @@ search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đan
 ## Containers Section
 
 containers-back-link = « Quay lại
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Quay lại Tùy chọn
+           *[other] Quay lại Tùy chỉnh
+        }
 containers-header = Thẻ ngăn chứa
 containers-add-button =
     .label = Thêm ngăn chứa mới
@@ -952,6 +958,10 @@ permissions-location = Vị trí
 permissions-location-settings =
     .label = Cài đặt…
     .accesskey = t
+permissions-xr = Thực tế ảo
+permissions-xr-settings =
+    .label = Cài đặt…
+    .accesskey = t
 permissions-camera = Máy ảnh
 permissions-camera-settings =
     .label = Cài đặt…
@@ -1000,6 +1010,8 @@ permissions-a11y-privacy-link = Tìm hiểu thêm
 collection-header = Thu thập và sử dụng dữ liệu { -brand-short-name }
 collection-description = Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện { -brand-short-name } cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.
 collection-privacy-notice = Thông báo bảo mật
+collection-health-report-telemetry-disabled = Bạn không còn cho phép { -vendor-short-name } thu thập dữ liệu kỹ thuật và tương tác. Tất cả dữ liệu trong quá khứ sẽ bị xóa trong vòng 30 ngày.
+collection-health-report-telemetry-disabled-link = Tìm hiểu thêm
 collection-health-report =
     .label = Cho phép { -brand-short-name } gửi dữ liệu kỹ thuật và tương tác tới { -vendor-short-name }
     .accesskey = r

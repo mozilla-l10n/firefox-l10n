@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép tru cập vị trí của bạn
 permissions-site-location-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc truy cập vị trí của bạn. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Cài đặt - Quyền thực tế ảo
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Các trang web sau đây đã yêu cầu truy cập các thiết bị thực tế ảo của bạn. Bạn có thể chỉ định trang web nào được phép truy cập các thiết bị thực tế ảo của mình. Bạn cũng có thể chặn các yêu cầu mới mà nó yêu cầu truy cập các thiết bị thực tế ảo của mình.
+permissions-site-xr-disable-label =
+    .label = Chặn các yêu cầu mới mà nó yêu cầu truy cập các thiết bị thực tế ảo của bạn
+permissions-site-xr-disable-desc = Điều này sẽ ngăn mọi trang web không được liệt kê ở trên yêu cầu quyền truy cập vào các thiết bị thực tế ảo của bạn. Chặn quyền truy cập vào các thiết bị thực tế ảo của bạn có thể phá vỡ một số tính năng của trang web.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
