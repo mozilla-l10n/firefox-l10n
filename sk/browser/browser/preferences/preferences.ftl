@@ -319,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Obsah chránený pomocou Digital Rights Management (DRM)
 play-drm-content =
@@ -565,6 +565,12 @@ search-keyword-warning-bookmark = Zadali ste kľúčové slovo, ktoré je v sú�
 ## Containers Section
 
 containers-back-link = « Späť
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Späť na Možnosti
+           *[other] Späť na Možnosti
+        }
 containers-header = Kontajnerové karty
 containers-add-button =
     .label = Pridať nový kontajner
@@ -902,7 +908,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastná
     .accesskey = V
 
-##
+
 
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovplyvní načítanie webových stránok.
 content-blocking-etp-strict-desc = Viac blokovaného obsahu zvyšuje pravdepodobnosť, že niektoré stránky nebudú správne fungovať.
