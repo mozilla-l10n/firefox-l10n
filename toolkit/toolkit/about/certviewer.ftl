@@ -15,12 +15,14 @@ certificate-viewer-algorithm = Thuật toán
 certificate-viewer-certificate-authority = Cơ quan cấp chứng chỉ
 certificate-viewer-cipher-suite = Bộ mật mã
 certificate-viewer-common-name = Tên gọi chung
+certificate-viewer-email-address = Địa chỉ email
 certificate-viewer-country = Quốc gia
 certificate-viewer-dns-name = Tên DNS
 certificate-viewer-exponent = Chỉ số
 certificate-viewer-id = ID
 certificate-viewer-key-id = ID khóa
 certificate-viewer-key-size = Kích thước khóa
+certificate-viewer-locality = Thành phố
 certificate-viewer-location = Địa chỉ
 certificate-viewer-logid = ID bản ghi
 certificate-viewer-method = Phương thức
@@ -37,6 +39,7 @@ certificate-viewer-purposes = Mục đích
 certificate-viewer-qualifier = Hạn định
 certificate-viewer-qualifiers = Hạn định
 certificate-viewer-required = Bắt buộc
+certificate-viewer-state-province = Tỉnh
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Số sê-ri
@@ -77,3 +80,5 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (chứng chỉ)
+    .download = { $fileName }.pem
