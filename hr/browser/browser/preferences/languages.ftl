@@ -52,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Odaberite jezik kojeg želite dodati...
 browser-languages-installed-label = Instalirani jezici
 browser-languages-available-label = Dostupni jezici
-browser-languages-error = { -brand-short-name } trenutno ne može ažurirati Vaše jezike. Provjerite jeste li spojeni na internet ili pokušajte ponovno.
+browser-languages-error = { -brand-short-name } trenutačno ne može ažurirati tvoje jezike. Provjeri vezu s internetom ili pokušaj ponovo.

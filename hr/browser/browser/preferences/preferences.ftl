@@ -34,7 +34,7 @@ search-input-box =
             [windows] Pronađi u Mogućnostima
            *[other] Pronađi u Postavkama
         }
-managed-notice = Vašim preglednikom upravlja vaša organizacija.
+managed-notice = Tvojim preglednikom upravlja tvoja organizacija.
 pane-general-title = Osnovno
 category-general =
     .tooltiptext = { pane-general-title }
@@ -78,16 +78,16 @@ restart-later = Ponovno pokreni poslije
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira vašu početnu stranicu.
+extension-controlled-homepage-override = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira tvoju početnu stranicu.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira vašu početnu stranicu nove kartice.
+extension-controlled-new-tab-url = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira tvoju stranicu za novu karticu.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira ovu postavku.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Dodatak, <img data-l10n-name="icon"/> { $name }, je postavio vašu zadanu tražilicu.
+extension-controlled-default-search = Dodatak <img data-l10n-name="icon"/> { $name } je postavio tvoju standardnu tražilicu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Dodatak, <img data-l10n-name="icon"/> { $name }, zahtijeva sadržajne kartice.
@@ -128,8 +128,8 @@ get-started-configured = Otvori { -sync-brand-short-name } postavke
 always-check-default =
     .label = Uvijek provjeri je li { -brand-short-name } zadani preglednik
     .accesskey = z
-is-default = { -brand-short-name } je trenutno vaš zadani preglednik
-is-not-default = { -brand-short-name } trenutno nije vaš zadani preglednik
+is-default = { -brand-short-name } je trenutačno tvoj standardni preglednik
+is-not-default = { -brand-short-name } trenutačno nije tvoj standardni preglednik
 set-as-my-default-browser =
     .label = Postavi kao zadano…
     .accesskey = d
@@ -359,7 +359,7 @@ update-setting-write-failure-title = Greška prilikom spremanju postavki ažurir
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmite u obzir da postavljanje postavki za ovo ažuriranje zahtjeva dozvole za pisanje u niže navedenu datoteku. Vi ili vaš administrator sustava možda ste u mogućnosti otkloniti ovu grešku tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
+    { -brand-short-name } je naišao na pogrešku i nije spremio ovu promjenu. Uzmi u obzir da postavljanje postavki za ovo ažuriranje zahtjeva dozvole za pisanje u niže navedenu datoteku. Ti ili tvoj administrator sustava možda možete otkloniti ovu grešku, tako da dozvolite grupi korisnika potpunu kontrolu nad ovom datotekom.
     
     Nije moguće pisati u datoteku: { $path }
 update-in-progress-title = Ažuriranje u tijeku
@@ -431,7 +431,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novi prozori i kartice
-home-new-windows-tabs-description2 = Odaberite što vidite kada otvorite vašu početnu stranicu, nove prozore i nove kartice.
+home-new-windows-tabs-description2 = Odaberi što vidiš kad otvoriš svoju početnu stranicu, nove prozore i nove kartice.
 
 ## Home Section - Home Page Customization
 
@@ -468,7 +468,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Firefox početni sadržaj
-home-prefs-content-description = Odaberite koji sadržaj želite na vašoj Firefox početnoj stranici.
+home-prefs-content-description = Odaberi sadržaj koji želitš na svojoj Firefox početnoj stranici.
 home-prefs-search-header =
     .label = Web pretraživanje
 home-prefs-topsites-header =
@@ -586,8 +586,8 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Ponesite vaš Web sa sobom
-sync-signedout-description = Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.
+sync-signedout-caption = Ponesi svoj web sa sobom
+sync-signedout-description = Sinkroniziraj tvoje zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve svoje uređaje.
 sync-signedout-account-title = Povežite se sa { -fxaccount-brand-name }
 sync-signedout-account-create = Nemate račun? Započnite
     .accesskey = r
@@ -605,7 +605,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Preuzmite Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ili <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> da biste sinkronizirali s vašim mobilnim uređajem.
+sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ili <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> za sinkroniziranje s tvojim mobilnim uređajem.
 
 ## Sync Section - Signed in
 
@@ -634,7 +634,7 @@ sync-sign-in =
     .label = Prijava
     .accesskey = P
 sync-signedin-settings-header = Postavke sinkronizacije
-sync-signedin-settings-desc = Odaberite što sinkronizirati na vašim uređajima koji koriste { -brand-short-name }.
+sync-signedin-settings-desc = Odaberi što želiš sinkronizirati na tvojim uređajima koji koriste { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -643,7 +643,7 @@ prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
 prefs-sync-setup =
     .label = Postavi { -sync-brand-short-name }…
     .accesskey = P
-prefs-sync-offer-setup-label = Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.
+prefs-sync-offer-setup-label = Sinkroniziraj tvoje zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve svoje uređaje.
 prefs-sync-now =
     .labelnotsyncing = Sinkroniziraj sada
     .accesskeynotsyncing = n
@@ -794,7 +794,7 @@ history-remember-option-never =
     .label = neće nikada zapamtiti povijest
 history-remember-option-custom =
     .label = koristiti prilagođene postavke za povijest
-history-remember-description = { -brand-short-name } će zapamtiti vašu povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
+history-remember-description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.
 history-private-browsing-permanent =
     .label = Uvijek koristi privatno pregledavanje
@@ -822,7 +822,7 @@ sitedata-total-size-calculating = Izračunavanje veličine podataka web stranice
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Vaši spremljeni kolačići, podaci web stranica i privremena memorija trenutno zauzimaju { $value } { $unit } prostora na disku.
+sitedata-total-size = Tvoji spremljeni kolačići, podaci web stranica i privremena memorija trenutačno zauzimaju { $value } { $unit } prostora na disku.
 sitedata-learn-more = Saznajte više
 sitedata-delete-on-close =
     .label = Obriši kolačiće i podatke stranica kada je { -brand-short-name } zatvoren
