@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Jednu stronu wróćo
+    .aria-label = Wróćo
+    .accesskey = W
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Jednu stronu doprědka
+    .aria-label = Doprědka
+    .accesskey = D
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Znowa
+    .accesskey = Z
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stój
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Tutu stronu jako zapołožku składować
+    .accesskey = z
 main-context-menu-open-link =
     .label = Wotkaz wočinić
     .accesskey = o
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Wotkaz składować jako…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Wotkaz do { -pocket-brand-name } składować
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -144,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Połnu wobrazowku wopušćić
     .accesskey = o
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Wobraz-we-wobrazu
+    .accesskey = b
 main-context-menu-image-reload =
     .label = Wobraz znowa začitać
     .accesskey = b
@@ -201,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Tutón tykač schować
     .accesskey = h
+main-context-menu-save-to-pocket =
+    .label = Stronu pola { -pocket-brand-name } składować
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Stronu na grat pósłać
     .accesskey = S
@@ -261,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Element přepytować
     .accesskey = E
+main-context-menu-inspect-a11y-properties =
+    .label = Kajkosće bjezbarjernosće přepytować
 main-context-menu-eme-learn-more =
     .label = Zhońće wjace wo DRM…
     .accesskey = D
