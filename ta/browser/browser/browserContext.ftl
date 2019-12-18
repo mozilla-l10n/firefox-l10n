@@ -39,6 +39,12 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = இணைப்பைத் திற
+    .accesskey = O
+main-context-menu-open-link-new-window =
+    .label = புதிய சாளரத்தில் இணைப்பைத் திற
+    .accesskey = W
 main-context-menu-bookmark-this-link =
     .label = இந்த இணைப்பை புத்தகக்குறியிடு
     .accesskey = L
@@ -94,6 +100,12 @@ main-context-menu-image-save-as =
 main-context-menu-image-set-as-background =
     .label = பணிமேடையின் பின்னணியாக அமை…
     .accesskey = S
+main-context-menu-image-info =
+    .label = படத் தகவலைப் பார்
+    .accesskey = f
+main-context-menu-video-image-save-as =
+    .label = திரைக்காப்பாகச் சேமி...
+    .accesskey = த
 main-context-menu-view-background-image =
     .label = பின்னணி படத்தைக் காட்டு
     .accesskey = w
