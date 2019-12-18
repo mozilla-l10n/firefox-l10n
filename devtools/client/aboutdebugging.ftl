@@ -174,6 +174,11 @@ about-debugging-runtime-profile-button2 = ประสิทธิภาพโ�
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = การกำหนดค่าเบราว์เซอร์ของคุณเข้ากันไม่ได้กับตัวทำงานบริการ <a>เรียนรู้เพิ่มเติม</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = เบราว์เซอร์ที่เชื่อมต่อมีรุ่นเก่า ({ $runtimeVersion }) รุ่นที่รองรับขั้นต่ำคือ ({ $minVersion }) นี่เป็นการตั้งค่าที่ไม่รองรับและอาจทำให้ DevTools ล้มเหลว โปรดอัปเดตเบราว์เซอร์ที่เชื่อมต่อ <a>การแก้ไขปัญหา</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
@@ -182,7 +187,7 @@ about-debugging-runtime-service-workers-not-compatible = การกำหน�
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = แผงตัวดีบั๊กอาจไม่ทำงานกับเบราว์เซอร์ที่เชื่อมต่อ โปรดใช้ Firefox { $runtimeVersion } หากคุณต้องการใช้ตัวดีบั๊กกับเบราว์เซอร์นี้
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
