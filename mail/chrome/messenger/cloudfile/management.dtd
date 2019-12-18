@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY cloudfileMgmt.privacyPolicy "Polasaí Príobháideachta">
-<!ENTITY cloudfileMgmt.termsOfService "Téarmaí Seirbhíse">
-<!ENTITY cloudfileMgmt.usedSpace "Spás Úsáidte:">
-<!ENTITY cloudfileMgmt.unusedSpace "Spás Saor:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Faigh tuilleadh spáis">
