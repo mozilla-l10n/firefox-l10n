@@ -61,3 +61,6 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-bidi-switch-page =
+    .label = పేజీ దిశను మార్చు
+    .accesskey = D
