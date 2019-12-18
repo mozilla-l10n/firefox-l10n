@@ -73,6 +73,21 @@ main-context-menu-media-unmute =
 
 ##
 
+main-context-menu-frame =
+    .label = ఈ ఫ్రేమ్
+    .accesskey = h
+main-context-menu-frame-open-tab =
+    .label = ఫ్రేముని కొత్త ట్యాబులో తెరువు
+    .accesskey = T
+main-context-menu-frame-save-as =
+    .label = ఫ్రేముని ఇలా భద్రపరచు…
+    .accesskey = F
+main-context-menu-frame-view-source =
+    .label = ఫ్రేమ్ మూలాన్ని చూడండి
+    .accesskey = V
+main-context-menu-frame-view-info =
+    .label = ఫ్రేము సమాచారాన్ని చూడండి
+    .accesskey = I
 main-context-menu-bidi-switch-page =
     .label = పేజీ దిశను మార్చు
     .accesskey = D
