@@ -173,7 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Račun">
 <!ENTITY fxa.menu.settings.label "Postavke">
 <!ENTITY fxa.menu.accountSettings.label "Postavke računa">
-<!ENTITY fxa.menu.signOut.label "Odjavi se …">
+<!ENTITY fxa.menu.signOut.label "Odjavite se…">
 <!ENTITY fxa.menu.deviceSettings.label "Postavke uređaja">
 <!ENTITY fxa.menu.setupSync.label "Postavi &syncBrand.shortName.label; …">
 
