@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Назад за једну страну
+    .aria-label = Назад
+    .accesskey = Н
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Напред за једну страну
+    .aria-label = Проследи
+    .accesskey = а
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Опет учитај
+    .accesskey = Р
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Стани
+    .accesskey = С
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,12 +62,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Забележи ову страницу
+    .accesskey = з
 main-context-menu-open-link =
     .label = Отвори везу
     .accesskey = в
 main-context-menu-open-link-new-tab =
     .label = Отвори у новом језичку
     .accesskey = ј
+main-context-menu-open-link-container-tab =
+    .label = Отвори у новом контејнеру
+    .accesskey = т
 main-context-menu-open-link-new-window =
     .label = Отвори у новом прозору
     .accesskey = п
@@ -141,12 +161,18 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Обустави приказ преко целог екрана
     .accesskey = к
+main-context-menu-image-reload =
+    .label = Учитај поново слике
+    .accesskey = ч
 main-context-menu-image-view =
     .label = Прикажи слику
     .accesskey = и
 main-context-menu-video-view =
     .label = Преглед видеа
     .accesskey = в
+main-context-menu-image-copy =
+    .label = Копирај слику
+    .accesskey = у
 main-context-menu-image-copy-location =
     .label = Копирај одредиште слике
     .accesskey = т
@@ -252,6 +278,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Испитај елеменат
     .accesskey = И
+main-context-menu-inspect-a11y-properties =
+    .label = Истражи својства приступачности
 main-context-menu-eme-learn-more =
     .label = Сазнајте више о DRM…
     .accesskey = С
