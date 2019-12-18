@@ -71,6 +71,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Abrir link em uma nova aba
     .accesskey = b
+main-context-menu-open-link-container-tab =
+    .label = Abrir link em uma nova aba contêiner
+    .accesskey = C
 main-context-menu-open-link-new-window =
     .label = Abrir link em uma nova janela
     .accesskey = A
@@ -98,6 +101,9 @@ main-context-menu-copy-link =
 main-context-menu-media-play =
     .label = Reproduzir
     .accesskey = p
+main-context-menu-media-pause =
+    .label = Pausar
+    .accesskey = u
 
 ##
 
@@ -243,3 +249,5 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Alterar direção da página
     .accesskey = e
+main-context-menu-inspect-a11y-properties =
+    .label = Inspecionar propriedades de acessibilidade
