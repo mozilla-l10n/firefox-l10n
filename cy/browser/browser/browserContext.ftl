@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Cadw'r Ddolen Fel…
     .accesskey = a
+main-context-menu-save-link-to-pocket =
+    .label = Cadw Dolen i { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -161,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Gadael Sgrin Lawn
     .accesskey = S
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Llun mewn Llun
+    .accesskey = L
 main-context-menu-image-reload =
     .label = Ail-lwytho'r Ddelwedd
     .accesskey = D
@@ -218,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Cuddio'r ategyn
     .accesskey = C
+main-context-menu-save-to-pocket =
+    .label = Cadw Tudalen i { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Anfon Tudalen i Ddyfais
     .accesskey = D
@@ -275,6 +286,11 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Newid Cyfeiriad Tudalen
     .accesskey = N
+main-context-menu-inspect-element =
+    .label = Archwilio Elfen
+    .accesskey = E
+main-context-menu-inspect-a11y-properties =
+    .label = Archwilio'r Priodoleddau Hygyrchedd
 main-context-menu-eme-learn-more =
     .label = Dysgu rhagor am DRM…
     .accesskey = D
