@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] ისტორიის საჩვენებლად ჩამოქაჩეთ
+           *[other] ისტორიის საჩვენებლად გამოიყენეთ მარჯვენა წკაპი ან ჩამოქაჩეთ
+        }
 
 ## Back
 
@@ -39,6 +45,12 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = ბმულის გახსნა
+    .accesskey = გ
+main-context-menu-open-link-new-private-window =
+    .label = ბმულის ახალ პირად ფანჯარაში გახსნა
+    .accesskey = პ
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -61,3 +73,6 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-bidi-switch-page =
+    .label = გვერდის მიმართულების შეცვლა
+    .accesskey = მ
