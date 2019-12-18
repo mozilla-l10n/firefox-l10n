@@ -50,6 +50,12 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = ઈમેલ સરનામાની નકલ કરો
+    .accesskey = E
+main-context-menu-copy-link =
+    .label = કડી સ્થાનની નકલ કરો
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -79,9 +85,15 @@ main-context-menu-image-set-as-background =
 main-context-menu-view-background-image =
     .label = પાશ્વ ભાગ ચિત્ર જુઓ
     .accesskey = w
+main-context-menu-keyword =
+    .label = આ શોધ માટે મુખ્ય શબ્દ એડ-ઓન...
+    .accesskey = K
 main-context-menu-frame =
     .label = આ ચોકઠું
     .accesskey = h
+main-context-menu-frame-show-this =
+    .label = માત્ર આ ચોકઠું જ બતાવો
+    .accesskey = S
 main-context-menu-frame-open-window =
     .label = નવી વિન્ડોમાં ચોકઠું ખોલો
     .accesskey = W
@@ -97,6 +109,9 @@ main-context-menu-frame-print =
 main-context-menu-frame-view-source =
     .label = ચોકઠાં સ્રોત જુઓ
     .accesskey = V
+main-context-menu-frame-view-info =
+    .label = ચોકઠાં જાણકારી જુઓ
+    .accesskey = I
 main-context-menu-view-selection-source =
     .label = પસંદગી સ્રોત જુઓ
     .accesskey = e
@@ -109,3 +124,6 @@ main-context-menu-view-page-info =
 main-context-menu-bidi-switch-text =
     .label = લખાણ દિશા બદલો
     .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = પાનાં દિશા બદલો
+    .accesskey = D
