@@ -1,7 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "Hightail">
-<!ENTITY fileExceedsQuota.storageLimitReached   "Cuntanschì la limita da memoria">
-<!ENTITY fileExceedsQuota.description "Ti has cuntanschì tia limita da memoria dal conto da 2GB.">
-<!ENTITY fileExceedsQuota.description1 "Actualmain dovras ti #XXX GB.">
