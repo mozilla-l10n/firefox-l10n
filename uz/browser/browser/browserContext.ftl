@@ -40,11 +40,29 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Sahifani saqlash…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Havolani ochish
+    .accesskey = o
+main-context-menu-open-link-new-tab =
+    .label = Havolani yangi ichki oynada ochish
+    .accesskey = i
+main-context-menu-open-link-new-window =
+    .label = Havolani yangi oynada ochish
+    .accesskey = o
+main-context-menu-open-link-new-private-window =
+    .label = Havolani yangi maxfiy oynada ochish
+    .accesskey = m
+main-context-menu-bookmark-this-link =
+    .label = Havolani xatcho‘plarga qo‘shish
+    .accesskey = H
 main-context-menu-save-link =
     .label = Linkni saqlash…
     .accesskey = k
@@ -56,6 +74,9 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = E-pochta manzilidan nusxa olish
     .accesskey = E
+main-context-menu-copy-link =
+    .label = Havoladan nusxa olish
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -72,19 +93,48 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Tovushni o‘chirish
+    .accesskey = o
 main-context-menu-media-unmute =
     .label = Tovushni yoqish
     .accesskey = y
+main-context-menu-media-play-speed =
+    .label = Ijro etish tezligi
+    .accesskey = I
+main-context-menu-media-play-speed-slow =
+    .label = Sekin (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-fast =
+    .label = Tez (1.25×)
+    .accesskey = T
+main-context-menu-media-play-speed-faster =
+    .label = Tezroq (1.5×)
+    .accesskey = T
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Kulguli tezlik (2×)
+    .accesskey = K
+main-context-menu-media-loop =
+    .label = Takrorlash
+    .accesskey = T
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Boshqaruvlarni ko‘rsatish
+    .accesskey = B
 main-context-menu-media-hide-controls =
     .label = Boshqaruvlarni yashirish
     .accesskey = B
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Butun ekran
+    .accesskey = B
 main-context-menu-media-video-leave-fullscreen =
     .label = Butun ekran’dan chiqish
     .accesskey = u
@@ -142,12 +192,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ushbu plaginni yashirish
     .accesskey = y
+main-context-menu-send-to-device =
+    .label = Sahifani qurilmaga uzatish
+    .accesskey = q
 main-context-menu-view-background-image =
     .label = Orqa fon rasmini ko‘rish
     .accesskey = r
 main-context-menu-keyword =
     .label = Ushbu qidiruv uchun kalit so‘zni qo‘shish…
     .accesskey = k
+main-context-menu-link-send-to-device =
+    .label = Havolani qurilmaga uzatish
+    .accesskey = q
 main-context-menu-frame =
     .label = Ushbu kadr
     .accesskey = h
@@ -163,6 +219,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = Kadrni xatcho‘plarga qo‘shish
     .accesskey = h
+main-context-menu-frame-save-as =
+    .label = Kadr sifatida saqlash
+    .accesskey = K
 main-context-menu-frame-print =
     .label = Kadrni chop qilish…
     .accesskey = c
@@ -172,6 +231,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Kadr ma’lumotini ko‘rsatish
     .accesskey = s
+main-context-menu-view-selection-source =
+    .label = Belgilanganning manbasini ko‘rish
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Sahifa manbasini ko‘rish
     .accesskey = k
@@ -181,3 +243,12 @@ main-context-menu-view-page-info =
 main-context-menu-bidi-switch-text =
     .label = Matn yo‘nalishini almashtirish
     .accesskey = a
+main-context-menu-bidi-switch-page =
+    .label = Sahifa yo‘nalishini almashtirish
+    .accesskey = y
+main-context-menu-inspect-element =
+    .label = Elementni kuzatish
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = DRM haqida ko‘proq o‘rganish…
+    .accesskey = D
