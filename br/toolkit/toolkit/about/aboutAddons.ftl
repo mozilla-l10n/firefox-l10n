@@ -294,6 +294,12 @@ go-back-button =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Gouzout hiroc'h
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Implijerien: { $dailyUsers }
+install-extension-button = Ouzhpennañ da { -brand-product-name }
 
 ## Add-on actions
 
