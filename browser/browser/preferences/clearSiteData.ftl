@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Obriši podatke
     .style = width: 35em
-clear-site-data-description = Brisanje svih kolačića i podatka stranica koje je { -brand-short-name } spremio bi vas moglo odjaviti sa web stranica i moglo bi obrisati izvanmrežni web sadržaj. Brisanje sadržaja u priručnoj memoriji neće utjecati na vaše prijave.
+clear-site-data-description = Brisanje svih kolačića i podataka stranice koje je { -brand-short-name } spremio, može prouzročiti odjavljivanje s web stranica i brisanje izvanmrežnog web sadržaja. Brisanje sadržaja iz priručne memorije neće utjecati na tvoje prijave.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
