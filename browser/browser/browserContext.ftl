@@ -164,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Bandunar il modus da maletg entir
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = maletg-en-maletg
+    .accesskey = g
 main-context-menu-image-reload =
     .label = Rechargiar la grafica
     .accesskey = R
@@ -190,6 +195,9 @@ main-context-menu-image-save-as =
     .accesskey = g
 main-context-menu-image-email =
     .label = Trametter la grafica per e-mail…
+    .accesskey = a
+main-context-menu-image-set-as-background =
+    .label = Definir sco culissa…
     .accesskey = a
 main-context-menu-image-info =
     .label = Mussar infurmaziuns davart la grafica
