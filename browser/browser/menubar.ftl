@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Normal
     .accesskey = N
+menu-view-full-zoom-actual-size =
+    .label = Ukuran Aktual
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = Perbesar Teks Saja
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Layar Penuh
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Tampilkan Semua Tab
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Pengaya
     .accesskey = P
-menu-tools-sync-sign-in =
-    .label = Masuk ke { -sync-brand-short-name }…
-    .accesskey = M
 menu-tools-fxa-sign-in =
     .label = Masuk ke { -brand-product-name }…
     .accesskey = M
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Sinkronkan Sekarang
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Sambungkan ulang ke { -sync-brand-short-name }â€¦
-    .accesskey = u
 menu-tools-fxa-re-auth =
     .label = Sambungkan ulang ke { -brand-product-name }…
     .accesskey = S
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Mulai Ulang dengan Pengaya Diaktifkan
     .accesskey = n
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Laporkan Situs Tipuan…
     .accesskey = s
