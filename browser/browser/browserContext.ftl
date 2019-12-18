@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -96,6 +99,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ശബ്ദം സജ്ജമാക്കുക
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = പ്രവര്‍ത്തന വേഗത
+    .accesskey = ത
+main-context-menu-media-play-speed-slow =
+    .label = പതുക്കെ (0.5×)
+    .accesskey = പ
+main-context-menu-media-play-speed-fast =
+    .label = വേഗത്തില്‍ (1.25×)
+    .accesskey = വ
+main-context-menu-media-play-speed-faster =
+    .label = വേഗത്തില്‍ (1.5×)
+    .accesskey = ഗ
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = അതിവേഗം (2×)
+    .accesskey = അ
+main-context-menu-media-loop =
+    .label = ലൂപ്പ്
+    .accesskey = ല
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +132,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തില്‍
+    .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തില്‍
     .accesskey = u
@@ -118,6 +144,12 @@ main-context-menu-image-reload =
 main-context-menu-image-view =
     .label = ചിത്രം കാണുക
     .accesskey = I
+main-context-menu-video-view =
+    .label = വീഡിയോ കാണുക
+    .accesskey = i
+main-context-menu-image-copy =
+    .label = ചിത്രം പകര്‍ത്തുക
+    .accesskey = y
 main-context-menu-image-copy-location =
     .label = ചിത്രത്തിന്റെ വിലാസം പകര്‍ത്തുക
     .accesskey = o
@@ -142,6 +174,9 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = വിവരണം കാണുക
     .accesskey = D
+main-context-menu-video-save-as =
+    .label = വീഡിയോ ഇങ്ങനെ സൂക്ഷിക്കുക...
+    .accesskey = ക
 main-context-menu-audio-save-as =
     .label = ഓഡിയോ സൂക്ഷിക്കുക…
     .accesskey = v
@@ -151,6 +186,9 @@ main-context-menu-video-image-save-as =
 main-context-menu-video-email =
     .label = വീഡിയോ ഈമെയില്‍ അയയ്ക്കുക…
     .accesskey = a
+main-context-menu-audio-email =
+    .label = ഓഡിയോ ഈമെയില്‍ അയയ്ക്കുക…
+    .accesskey = ഈ
 main-context-menu-plugin-play =
     .label = ഈ പ്ലഗിന്‍ സജീവമാക്കുക
     .accesskey = സ
@@ -190,6 +228,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ഫ്രെയിം വിവരം കാണുക
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = തെരഞ്ഞെടുത്തതിന്റെ സ്രോതസ്സ്‌ കാണുക
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = താളിന്റെ സ്രോതസ്സ്‌ കാണുക
     .accesskey = V
@@ -201,4 +242,10 @@ main-context-menu-bidi-switch-text =
     .accesskey = w
 main-context-menu-bidi-switch-page =
     .label = താളിന്റെ ദിശ മാറ്റുക
+    .accesskey = D
+main-context-menu-inspect-element =
+    .label = എലമെന്റ് പരിശോധിയ്ക്കുക
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…
     .accesskey = D
