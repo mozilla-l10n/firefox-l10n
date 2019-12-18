@@ -40,11 +40,29 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Сними страница како…
+    .accesskey = к
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Отвори ја врската
+    .accesskey = О
+main-context-menu-open-link-new-tab =
+    .label = Отвори во ново јазиче
+    .accesskey = ј
+main-context-menu-open-link-container-tab =
+    .label = Отвори во ново контејнерско јазиче
+    .accesskey = о
+main-context-menu-open-link-new-window =
+    .label = Отвори во нов прозорец
+    .accesskey = п
+main-context-menu-open-link-new-private-window =
+    .label = Отвори нов приватен прозорец
+    .accesskey = п
 main-context-menu-bookmark-this-link =
     .label = Обележи ја оваа врска
     .accesskey = б
@@ -84,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Пушти звук
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Брзина на репродуцирање
+    .accesskey = б
+main-context-menu-media-play-speed-slow =
+    .label = Бавна (0.5×)
+    .accesskey = Б
+main-context-menu-media-play-speed-normal =
+    .label = Нормална
+    .accesskey = Н
+main-context-menu-media-play-speed-fast =
+    .label = Брза (1.25×)
+    .accesskey = Б
+main-context-menu-media-play-speed-faster =
+    .label = Побрза (1.5×)
+    .accesskey = п
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Смешна (2×)
+    .accesskey = С
+main-context-menu-media-loop =
+    .label = Повторувај
+    .accesskey = П
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -133,6 +174,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Прикажи информации за сликата
     .accesskey = с
+main-context-menu-image-desc =
+    .label = Види опис
+    .accesskey = В
 main-context-menu-video-save-as =
     .label = Сними го видеото како…
     .accesskey = н
@@ -154,12 +198,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Скриј го овој приклучок
     .accesskey = ф
+main-context-menu-send-to-device =
+    .label = Испрати страница на уред
+    .accesskey = и
 main-context-menu-view-background-image =
     .label = Прикажи ја позадинската слика
     .accesskey = ж
 main-context-menu-keyword =
     .label = Додај клучен збор за ова пребарување…
     .accesskey = к
+main-context-menu-link-send-to-device =
+    .label = Испрати врска до уред
+    .accesskey = и
 main-context-menu-frame =
     .label = Оваа рамка
     .accesskey = м
@@ -184,9 +234,18 @@ main-context-menu-frame-save-as =
 main-context-menu-frame-print =
     .label = Печати рамка…
     .accesskey = П
+main-context-menu-frame-view-source =
+    .label = Прикажи код на рамка
+    .accesskey = д
 main-context-menu-frame-view-info =
     .label = Прикажи ги информациите за рамката
     .accesskey = и
+main-context-menu-view-selection-source =
+    .label = Прикажи код на избран дел
+    .accesskey = П
+main-context-menu-view-page-source =
+    .label = Прикажи код на страница
+    .accesskey = д
 main-context-menu-view-page-info =
     .label = Прикажи ги информациите за страницата
     .accesskey = и
@@ -199,3 +258,6 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Истражи го елементот
     .accesskey = е
+main-context-menu-eme-learn-more =
+    .label = Дознајте повеќе за DRM…
+    .accesskey = Д
