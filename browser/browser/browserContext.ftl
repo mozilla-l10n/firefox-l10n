@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Pojdi na prejšnjo stran
+    .aria-label = Nazaj
+    .accesskey = z
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Pojdi na naslednjo stran
+    .aria-label = Naprej
+    .accesskey = r
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -96,6 +104,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Glasno
     .accesskey = n
+main-context-menu-media-play-speed =
+    .label = Hitrost predvajanja
+    .accesskey = r
+main-context-menu-media-play-speed-slow =
+    .label = Počasno (0,5 ×)
+    .accesskey = P
+main-context-menu-media-play-speed-normal =
+    .label = Običajno
+    .accesskey = O
+main-context-menu-media-play-speed-fast =
+    .label = Hitro (1,25 x)
+    .accesskey = H
+main-context-menu-media-play-speed-faster =
+    .label = Hitreje (1,5 x)
+    .accesskey = e
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Komično (2 x)
+    .accesskey = K
+main-context-menu-media-loop =
+    .label = Zanka
+    .accesskey = Z
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
