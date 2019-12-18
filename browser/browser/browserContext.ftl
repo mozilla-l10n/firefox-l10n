@@ -61,6 +61,15 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-image-desc =
+    .label = Ver descripción
+    .accesskey = D
+main-context-menu-plugin-play =
+    .label = Activar este complemento
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = Ocultar este complemento
+    .accesskey = H
 main-context-menu-view-selection-source =
     .label = Ver código fuente de la selección
     .accesskey = e
