@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = ذخیرهٔ پیوند به نام…
     .accesskey = پ
+main-context-menu-save-link-to-pocket =
+    .label = ذخیره پیوند در { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -107,6 +110,9 @@ main-context-menu-copy-link =
 main-context-menu-media-play =
     .label = پخش
     .accesskey = پ
+main-context-menu-media-pause =
+    .label = مکث
+    .accesskey = P
 
 ##
 
@@ -158,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = خروج از حالت تمام‌صفحه
     .accesskey = ت
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = تصویر-در-تصویر
+    .accesskey = u
 main-context-menu-image-reload =
     .label = بازآوری تصویر
     .accesskey = ب
@@ -215,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = پنهان کردن این افزونه
     .accesskey = پ
+main-context-menu-save-to-pocket =
+    .label = ذخیره صفحه در { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = ارسال صفحه به دستگاه
     .accesskey = د
@@ -275,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = بازرسی عناصر
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = بررسی ترجیحات دسترسی‌پذیری
 main-context-menu-eme-learn-more =
     .label = درباره‌ی DRM بیشتر بدانید...
     .accesskey = D
