@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Tynnu lawr i ddangos hanes
+           *[other] Clic de neu dynnu lawr i ddangos hanes
+        }
 
 ## Back
 
@@ -39,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Agor Dolen
+    .accesskey = D
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -58,9 +67,24 @@ toolbar-button-page-save =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-hide-controls =
+    .label = Cuddio Rheolydd
+    .accesskey = u
 
 ##
 
+main-context-menu-video-view =
+    .label = Gwylio Fideo
+    .accesskey = i
+main-context-menu-video-copy-location =
+    .label = Copïo Lleoliad Delwedd
+    .accesskey = e
+main-context-menu-audio-copy-location =
+    .label = Copïo Lleoliad Delwedd
+    .accesskey = a
 main-context-menu-frame-open-tab =
     .label = Agor Ffrâm mewn Tab Newydd
     .accesskey = T
+main-context-menu-frame-open-window =
+    .label = Agor Ffrâm mewn Ffenestr Newydd
+    .accesskey = F
