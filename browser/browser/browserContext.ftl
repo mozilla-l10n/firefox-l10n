@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Bok składowaś ako…
+    .accesskey = s
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Wótkaz w nowem rejtarku wócyniś
     .accesskey = r
+main-context-menu-open-link-container-tab =
+    .label = Wótkaz w nowem kontejnerowem rejtarku wócyniś
+    .accesskey = t
 main-context-menu-open-link-new-window =
     .label = Wótkaz w nowem woknje wócyniś
     .accesskey = n
@@ -96,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ze zukom
     .accesskey = z
+main-context-menu-media-play-speed =
+    .label = Wótgrawańska malsnošć
+    .accesskey = m
+main-context-menu-media-play-speed-slow =
+    .label = Pómałem (0.5×)
+    .accesskey = P
+main-context-menu-media-play-speed-normal =
+    .label = Normalny
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Malsna (1.25×)
+    .accesskey = M
+main-context-menu-media-play-speed-faster =
+    .label = Malsnjej (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Wjelgin wusoko (2×)
+    .accesskey = W
+main-context-menu-media-loop =
+    .label = Awtomatiski wóspjetowaś
+    .accesskey = A
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +138,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Połna wobrazowka
+    .accesskey = P
 main-context-menu-media-video-leave-fullscreen =
     .label = Połnu wobrazowku spušćiś
     .accesskey = o
@@ -121,6 +153,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Wideo pokazaś
     .accesskey = d
+main-context-menu-image-copy =
+    .label = Wobraz kopěrowaś
+    .accesskey = r
 main-context-menu-image-copy-location =
     .label = Wobrazowu adresu kopěrowaś
     .accesskey = o
@@ -166,12 +201,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Toś ten tykac schowaś
     .accesskey = h
+main-context-menu-send-to-device =
+    .label = Bok na rěd pósłaś
+    .accesskey = B
 main-context-menu-view-background-image =
     .label = Slězynowy wobraz pokazaś
     .accesskey = p
 main-context-menu-keyword =
     .label = Gronidło za toś to pytanje pśidaś…
     .accesskey = G
+main-context-menu-link-send-to-device =
+    .label = Wótkaz na rěd pósłaś
+    .accesskey = W
 main-context-menu-frame =
     .label = Toś ten wobłuk
     .accesskey = T
@@ -202,6 +243,12 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Info wó wobłuku pokazaś
     .accesskey = f
+main-context-menu-view-selection-source =
+    .label = Žrědłowy tekst wuběrka zwobrazniś
+    .accesskey = t
+main-context-menu-view-page-source =
+    .label = Žrědłowy tekst boka pokazaś
+    .accesskey = t
 main-context-menu-view-page-info =
     .label = Info wó boku pokazaś
     .accesskey = I
@@ -211,3 +258,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Směr boka pśešaltowaś
     .accesskey = b
+main-context-menu-inspect-element =
+    .label = Element pśepytowaś
+    .accesskey = E
+main-context-menu-eme-learn-more =
+    .label = Zgóńśo wěcej wó DRM…
+    .accesskey = D
