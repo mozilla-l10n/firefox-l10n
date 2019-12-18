@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Arrastrar para mostrar el historial
+           *[other] Hacer clic secundario o arrastrar para mostrar el historial
+        }
 
 ## Back
 
@@ -80,11 +86,17 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Guardar vínculo como…
     .accesskey = G
+main-context-menu-save-link-to-pocket =
+    .label = Guardar enlace en { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copiar dirección de correo electrónico
+    .accesskey = e
 main-context-menu-copy-link =
     .label = Copiar dirección del enlace
     .accesskey = a
@@ -209,6 +221,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ocultar este complemento
     .accesskey = O
+main-context-menu-save-to-pocket =
+    .label = Guardar página en { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Enviar página a dispositivo
     .accesskey = d
