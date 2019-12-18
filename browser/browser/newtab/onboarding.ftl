@@ -19,7 +19,7 @@ onboarding-button-label-get-started = Započnite
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
-onboarding-welcome-body = Imate preglednik.<br/>Upoznajte ostatak { -brand-product-name }.
+onboarding-welcome-body = Imaš preglednik.<br/>Upoznaj ostale { -brand-product-name } dijelove.
 onboarding-welcome-learn-more = Saznajte više o prednostima.
 onboarding-welcome-modal-get-body = Imaš preglednik.<br/>Sad upoznaj ostatak { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Nadopuni svoju zaštitu privatnosti.
@@ -34,7 +34,7 @@ onboarding-join-form-email-error = Potrebna je ispravna adresa e-pošte
 onboarding-join-form-legal = Ukoliko nastavite, slažete se s <a data-l10n-name="terms">Uvjetima pružanja usluge</a> i <a data-l10n-name="privacy">Politikom privatnosti</a>.
 onboarding-join-form-continue = Nastavi
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
-onboarding-join-form-signin-label = Već imate račun?
+onboarding-join-form-signin-label = Već imaš račun?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Prijavi se
 onboarding-start-browsing-button-label = Započni pregledavanje
@@ -69,7 +69,7 @@ onboarding-sync-form-sub-header = i prijavi se u { -sync-brand-name }
 onboarding-benefit-products-title = Korisni proizvodi
 onboarding-benefit-products-text = Obavite posao s pomoću obitelji alata koji poštuju vašu privatnost na svim uređajima.
 onboarding-benefit-knowledge-title = Praktično znanje
-onboarding-benefit-knowledge-text = Saznajte sve što trebate znati kako biste ostali pametniji i sigurniji na mreži.
+onboarding-benefit-knowledge-text = Saznaj sve što trebaš znati za pametnije i sigurnije kretanje po internetu.
 onboarding-benefit-privacy-title = Prava privatnost
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -92,7 +92,7 @@ onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i pre
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privatno pregledavanje
-onboarding-private-browsing-text = Pregledaj web anonimno. Privatno pregledavanje s blokiranjem sadržaja blokira pratitelje koji vas prate po internetu.
+onboarding-private-browsing-text = Pregledaj web anonimno. Privatno pregledavanje s blokiranjem sadržaja blokira programe za praćenje koji te prate po internetu.
 onboarding-screenshots-title = Snimke ekrana
 onboarding-screenshots-text = Snimite, spremite i dijelite snimke ekrana - bez napuštanja { -brand-short-name }a. Snimite dio ili cijelu stranicu dok pretražujete. Onda spremite na internet za brzi pristup i dijeljenje.
 onboarding-addons-title = Dodaci
@@ -103,13 +103,13 @@ onboarding-ghostery-text = Pretražujte brže, pametnije i sigurnije s dodacima 
 onboarding-fxa-title = Sinkronizacija
 onboarding-fxa-text = Otvorite { -fxaccount-brand-name } i sinkronizirajte svoje zabilješke, lozinke i otvorene kartice gdje god koristite { -brand-short-name }.
 onboarding-tracking-protection-title2 = Zaštita od praćenja
-onboarding-tracking-protection-text2 = { -brand-short-name } sprječava web stranice da vas prate na mreži, što otežava reklamnim agencijama da vas prate reklamama na mreži.
+onboarding-tracking-protection-text2 = { -brand-short-name } sprečava web stranice da te prate po internetu, što reklamama otežava praćenje.
 onboarding-tracking-protection-button2 = Kako ovo funkcionira
-onboarding-data-sync-title = Postavite svoje postavke sa sobom
+onboarding-data-sync-title = Ponesi svoje postavke sa sobom
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Sinkronizirajte svoje zabilješke, lozinke i više svugdje gdje koristite { -brand-product-name }.
-onboarding-data-sync-button2 = Prijavite se u { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Budite upozoreni na curenje podataka
+onboarding-data-sync-text2 = Sinkroniziraj svoje zabilješke, lozinke i ostalo gdjegod koristiš { -brand-product-name }.
+onboarding-data-sync-button2 = Prijavi se u { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Pazi na curenje podataka
 onboarding-firefox-monitor-text = { -monitor-brand-name } nadzire pojavljuje li se vaša adresa e-pošte u podacima koji su procurili na Internet i obavještava vas ukoliko otkrije.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } nadzire pojavljuje li se vaša adresa e-pošte u podacima koji su procurili na Internet i obavještava vas ukoliko otkrije.
 onboarding-firefox-monitor-button = Prijavi se za upozorenja
@@ -118,7 +118,7 @@ onboarding-browse-privately-text = Privatno pregledavanje briše povijest pretra
 onboarding-browse-privately-button = Otvori privatni prozor
 onboarding-firefox-send-title = Držite svoje dijeljene datoteke privatnima
 onboarding-firefox-send-text2 = Prenesite svoje datoteke na { -send-brand-name } kako biste ih dijelili s potpunom enkripcijom i poveznicom koja se automatski briše.
-onboarding-firefox-send-button = Isprobajte { -send-brand-name }
+onboarding-firefox-send-button = Isprobaj { -send-brand-name }
 onboarding-mobile-phone-title = Preuzmi { -brand-product-name } za svoj mobitel
 onboarding-mobile-phone-text = Preuzmite { -brand-product-name } za iOS ili Android i sinkronizirajte svoje podatke na svim uređajima.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
@@ -127,7 +127,7 @@ onboarding-mobile-phone-button = Preuzmite mobilni preglednik
 onboarding-send-tabs-title = Trenutno pošaljite sami sebi kartice
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Pošalji kartice trenutno dijeli web stranice između vaših uređaja bez da morate kopirati, zalijepiti ili napustiti vaš preglednik.
+onboarding-send-tabs-text = „Pošalji kartice” trenutno dijeli web stranice između tvojih uređaja, bez da ih moraš kopirati, zalijepiti ili napustiti preglednik.
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Jednostavno dijelite stranice između vaših uređaja bez da morate kopirati poveznice ili napustiti preglednik.
