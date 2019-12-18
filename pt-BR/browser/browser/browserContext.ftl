@@ -64,9 +64,15 @@ main-context-menu-copy-link =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-hide-controls =
+    .label = Ocultar controles
+    .accesskey = n
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Sair da tela inteira
+    .accesskey = t
 main-context-menu-video-copy-location =
     .label = Copiar endereço do vídeo
     .accesskey = o
@@ -79,9 +85,21 @@ main-context-menu-image-save-as =
 main-context-menu-image-set-as-background =
     .label = Definir como papel de parede…
     .accesskey = n
+main-context-menu-video-save-as =
+    .label = Salvar vídeo como…
+    .accesskey = v
 main-context-menu-audio-save-as =
     .label = Salvar áudio como…
     .accesskey = S
+main-context-menu-video-image-save-as =
+    .label = Salvar quadro atual como…
+    .accesskey = S
+main-context-menu-plugin-play =
+    .label = Ativar este plugin
+    .accesskey = t
+main-context-menu-plugin-hide =
+    .label = Ocultar este plugin
+    .accesskey = c
 main-context-menu-frame =
     .label = Este frame
     .accesskey = t
