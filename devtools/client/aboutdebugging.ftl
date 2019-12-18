@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Prestaasjes profilearje
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Jo browserkonfiguraasje is net kompatibel mei Service Workers. <a>Mear ynfo</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = De ferbûne browser hat in âlde ferzje ({ $runtimeVersion }). De minimaal stipe ferzje is ({ $minVersion }). Dizze konfiguraasje wurdt net stipe en kin derfoar soargje dat DevTools net goed wurket. Wurkje de ferbûne browser by. <a>Probleemoplossing</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = De ferbûne browser hat in âlde ferzj
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = It Debugger-paniel wurket mooglik net mei de ferbûne browser. Brûk Firefox { $runtimeVersion } as jo de Debugger mei dizze browser brûke moatte.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -277,11 +277,11 @@ about-debugging-worker-action-unregister = Registraasje opheffe
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Fetch
-    .value = Der wurdt nei fetch-barrens lústere
+    .value = Der wurdt nei fetch-barrens harke
 # Displayed for service workers in runtime pages that do not listen to Fetch events.
 about-debugging-worker-fetch-not-listening =
     .label = Fetch
-    .value = Der wurdt net nei fetch-barrens lústere
+    .value = Der wurdt net nei fetch-barrens harke
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Aktyf
