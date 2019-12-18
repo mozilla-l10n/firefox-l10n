@@ -83,6 +83,12 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Bokmerk denne lenka
     .accesskey = B
+main-context-menu-save-link =
+    .label = Lagre lenke som…
+    .accesskey = L
+main-context-menu-save-link-to-pocket =
+    .label = Lagre lenke til { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -158,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Avslutt fullskjerm
     .accesskey = v
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Bilde-i-bilde
+    .accesskey = B
 main-context-menu-image-reload =
     .label = Oppdater bilde
     .accesskey = l
@@ -215,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Gøym dette programtillegget
     .accesskey = G
+main-context-menu-save-to-pocket =
+    .label = Lagre sida til { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Send sida til eining
     .accesskey = e
