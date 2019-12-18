@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] ઇતિહાસ બતાવવા માટે નીચે ખેંચો
+           *[other] ઇતિહાસ બતાવવા માટે જમણું ક્લિક કરો અથવા નીચે ખેંચો
+        }
 
 ## Back
 
@@ -39,9 +45,21 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = કડીને ખોલો
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = નવી ટૅબમાં કડી ખોલો
+    .accesskey = T
 main-context-menu-open-link-new-window =
     .label = નવી વિન્ડોમાં કડી ખોલો
     .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = કડીને નવી ખાનગી વિન્ડોમાં ખોલો
+    .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = આ કડી બુકમાર્ક કરો...
+    .accesskey = L
 main-context-menu-save-link =
     .label = કડી આ રીતે સંગ્રહો...
     .accesskey = k
@@ -63,25 +81,91 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = વગાડો
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = અટકાવો
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = મૂંગુ કરો
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = મૂંગાપણું દૂર કરો
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = નિયંત્રણો બતાવો
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = નિયંત્રણો છુપાવો
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = સંપૂર્ણ સ્ક્રીન
+    .accesskey = F
+main-context-menu-image-reload =
+    .label = ઈમેજ પુનઃલાવો
+    .accesskey = R
 main-context-menu-image-view =
     .label = ચિત્ર જુઓ
     .accesskey = I
+main-context-menu-video-view =
+    .label = વીડિયો જુઓ
+    .accesskey = i
 main-context-menu-image-copy-location =
     .label = ચિત્ર સ્થાનની નકલ કરો
     .accesskey = o
+main-context-menu-video-copy-location =
+    .label = વીડિયો સ્થાનની નકલ કરો
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = ઓડિયો સ્થાનની નકલ કરો
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = ચિત્ર આ રીતે સંગ્રહો...
+    .accesskey = v
+main-context-menu-image-email =
+    .label = ઇમેલ ઇમેજ…
+    .accesskey = g
 main-context-menu-image-set-as-background =
     .label = ડેસ્કટોપ પાશ્વ ભાગ તરીકે સુયોજિત કરો...
     .accesskey = S
+main-context-menu-image-info =
+    .label = ઇમેજ જાણકારીને દર્શાવો
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = વર્ણનને જુઓ
+    .accesskey = D
+main-context-menu-video-save-as =
+    .label = વીડિયો આ રીતે સંગ્રહો…
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = ઓડિયો આ રીતે સંગ્રહો…
+    .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = ચિત્ર આ પ્રમાણે સંગ્રહો…
+    .accesskey = S
+main-context-menu-video-email =
+    .label = ઇમેલ વીડિયો…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = ઇમેલ ઓડિયો…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = આ પ્લગઇન સક્રિય કરો
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = આ પ્લગઇન છુપાવો
+    .accesskey = H
 main-context-menu-view-background-image =
     .label = પાશ્વ ભાગ ચિત્ર જુઓ
     .accesskey = w
@@ -94,12 +178,18 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = માત્ર આ ચોકઠું જ બતાવો
     .accesskey = S
+main-context-menu-frame-open-tab =
+    .label = નવી ટૅબમાં ચોકઠું ખોલો
+    .accesskey = T
 main-context-menu-frame-open-window =
     .label = નવી વિન્ડોમાં ચોકઠું ખોલો
     .accesskey = W
 main-context-menu-frame-reload =
     .label = ચોકઠું પુનઃલાવો
     .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = આ ચોકઠું બુકમાર્ક કરો...
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = ચોકઠું આ રીતે સંગ્રહો...
     .accesskey = F
@@ -127,3 +217,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = પાનાં દિશા બદલો
     .accesskey = D
+main-context-menu-inspect-element =
+    .label = ઘટકની તપાસ કરો
+    .accesskey = Q
