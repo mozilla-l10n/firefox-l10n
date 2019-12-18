@@ -18,6 +18,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Maju satu laman
+    .aria-label = Maju
+    .accesskey = M
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +29,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Muat Ulang
+    .accesskey = U
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stop
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -74,6 +84,9 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Salin Alamat Surel
+    .accesskey = E
 main-context-menu-copy-link =
     .label = Salin Lokasi Tautan
     .accesskey = S
@@ -99,6 +112,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Keraskan
     .accesskey = K
+main-context-menu-media-play-speed =
+    .label = Kecepatan Pemutaran
+    .accesskey = K
+main-context-menu-media-play-speed-slow =
+    .label = Lambat (0.5 ×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Cepat (1.25 ×)
+    .accesskey = C
+main-context-menu-media-play-speed-faster =
+    .label = Lebih Cepat (1.5×)
+    .accesskey = p
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Sangat Cepat (2×)
+    .accesskey = t
+main-context-menu-media-loop =
+    .label = Pengulangan
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -132,6 +168,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Tampilkan Video
     .accesskey = V
+main-context-menu-image-copy =
+    .label = Salin Gambar
+    .accesskey = G
 main-context-menu-image-copy-location =
     .label = Salin Lokasi Gambar
     .accesskey = o
@@ -144,6 +183,9 @@ main-context-menu-audio-copy-location =
 main-context-menu-image-save-as =
     .label = Simpan Gambar dengan Nama…
     .accesskey = a
+main-context-menu-image-email =
+    .label = Surelkan Gambar…
+    .accesskey = k
 main-context-menu-image-set-as-background =
     .label = Jadikan sebagai Latar Belakang Desktop…
     .accesskey = D
@@ -162,18 +204,30 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Simpan Cuplikan dengan Nama…
     .accesskey = S
+main-context-menu-video-email =
+    .label = Surelkan Video…
+    .accesskey = k
+main-context-menu-audio-email =
+    .label = Surelkan Audio…
+    .accesskey = k
 main-context-menu-plugin-play =
     .label = Aktifkan plugin ini
     .accesskey = p
 main-context-menu-plugin-hide =
     .label = Sembunyikan plugin ini
     .accesskey = y
+main-context-menu-send-to-device =
+    .label = Kirim Laman ke Perangkat
+    .accesskey = L
 main-context-menu-view-background-image =
     .label = Lihat Gambar Latar Belakang
     .accesskey = L
 main-context-menu-keyword =
     .label = Tambahkan Kata Kunci untuk Pencarian ini…
     .accesskey = K
+main-context-menu-link-send-to-device =
+    .label = Kirim Tautan ke Perangkat
+    .accesskey = T
 main-context-menu-frame =
     .label = Bingkai Ini
     .accesskey = B
