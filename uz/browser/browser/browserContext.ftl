@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Bir sahifa orqaga qaytish
+    .aria-label = Orqaga
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Bir sahifa oldinga o‘tish
+    .aria-label = Oldinga
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Qayta yuklash
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = To‘xtatish
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,12 +62,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Sahifani xatcho‘plarga qo‘shish
+    .accesskey = m
 main-context-menu-open-link =
     .label = Havolani ochish
     .accesskey = o
 main-context-menu-open-link-new-tab =
     .label = Havolani yangi ichki oynada ochish
     .accesskey = i
+main-context-menu-open-link-container-tab =
+    .label = Havolani yangi konteyner oynasida ochish
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Havolani yangi oynada ochish
     .accesskey = o
@@ -105,6 +125,9 @@ main-context-menu-media-play-speed =
 main-context-menu-media-play-speed-slow =
     .label = Sekin (0.5×)
     .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Me’yorda
+    .accesskey = N
 main-context-menu-media-play-speed-fast =
     .label = Tez (1.25×)
     .accesskey = T
@@ -147,6 +170,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Videoni ko‘rish
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Rasmdan nusxa olish
+    .accesskey = u
 main-context-menu-image-copy-location =
     .label = Rasm manzilidan nusxa olish
     .accesskey = z
@@ -207,6 +233,9 @@ main-context-menu-link-send-to-device =
 main-context-menu-frame =
     .label = Ushbu kadr
     .accesskey = h
+main-context-menu-frame-show-this =
+    .label = Faqat ushbu ramkani ko‘rsatish
+    .accesskey = s
 main-context-menu-frame-open-tab =
     .label = Kadrni yangi ichki oynada ochish
     .accesskey = i
