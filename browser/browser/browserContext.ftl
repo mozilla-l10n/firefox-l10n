@@ -48,6 +48,12 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = ბმულის გახსნა
     .accesskey = გ
+main-context-menu-open-link-new-tab =
+    .label = ბმულის გახსნა ახალ ჩანართში
+    .accesskey = ჩ
+main-context-menu-open-link-new-window =
+    .label = ბმულის გახსნა ახალ ფანჯარაში
+    .accesskey = ფ
 main-context-menu-open-link-new-private-window =
     .label = ბმულის ახალ პირად ფანჯარაში გახსნა
     .accesskey = პ
@@ -66,6 +72,18 @@ main-context-menu-open-link-new-private-window =
 
 ##
 
+main-context-menu-media-play-speed-slow =
+    .label = ნელი (0.5×)
+    .accesskey = ნ
+main-context-menu-media-play-speed-normal =
+    .label = ჩვეულებრივი
+    .accesskey = ჩ
+main-context-menu-media-play-speed-fast =
+    .label = სწრაფი (1.25×)
+    .accesskey = ს
+main-context-menu-media-play-speed-faster =
+    .label = უფრო სწრაფი (1.5×)
+    .accesskey = უ
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -76,3 +94,6 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bidi-switch-page =
     .label = გვერდის მიმართულების შეცვლა
     .accesskey = მ
+main-context-menu-inspect-element =
+    .label = ელემენტზე დაკვირვება
+    .accesskey = ტ
