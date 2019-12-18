@@ -110,6 +110,23 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Escuchar
     .accesskey = E
+main-context-menu-media-play-speed =
+    .label = Velocidad de reproducción
+    .accesskey = d
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rápido (1.25 ×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = Rápido (1.5 ×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Ultra rápido (2×)
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
