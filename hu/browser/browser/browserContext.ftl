@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Ugrás az előző oldalra
+    .aria-label = Vissza
+    .accesskey = V
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Ugrás a következő oldalra
+    .aria-label = Előre
+    .accesskey = E
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Frissítés
+    .accesskey = F
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Leállítás
+    .accesskey = L
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Oldal hozzáadása a könyvjelzőkhöz
+    .accesskey = k
 main-context-menu-open-link =
     .label = Hivatkozás megnyitása
     .accesskey = H
@@ -108,6 +125,9 @@ main-context-menu-media-play-speed =
 main-context-menu-media-play-speed-slow =
     .label = Lassú (0.5×)
     .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normál
+    .accesskey = N
 main-context-menu-media-play-speed-fast =
     .label = Gyors (1.25×)
     .accesskey = G
@@ -141,6 +161,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Kilépés a teljes képernyős módból
     .accesskey = K
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Kép a képben
+    .accesskey = p
 main-context-menu-image-reload =
     .label = Kép újrabetöltése
     .accesskey = r
@@ -258,6 +283,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Elem vizsgálata
     .accesskey = z
+main-context-menu-inspect-a11y-properties =
+    .label = Akadálymentesítési tulajdonságok vizsgálata
 main-context-menu-eme-learn-more =
     .label = Tudjon meg többet a DRM-ről…
     .accesskey = D
