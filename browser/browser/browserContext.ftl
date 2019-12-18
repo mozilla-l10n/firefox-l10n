@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Pull down to show history
+           *[other] Za prikaz povijesti pritisnite desnu tipku miša, ili pritisnite lijevu i povucite prema dolje
+        }
 
 ## Back
 
@@ -45,9 +51,15 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Otvori poveznicu u novoj kartici
     .accesskey = t
+main-context-menu-open-link-container-tab =
+    .label = Otvaranje poveznice u novoj kontejnerskoj kartici
+    .accesskey = a
 main-context-menu-open-link-new-window =
     .label = Otvori poveznicu u novom prozoru
     .accesskey = n
+main-context-menu-open-link-new-private-window =
+    .label = Otvori poveznicu u novom privatnom prozoru
+    .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Zabilježi ovu poveznicu
     .accesskey = l
@@ -84,6 +96,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Odtišaj
     .accesskey = O
+main-context-menu-media-play-speed =
+    .label = Brzina reprodukcije
+    .accesskey = r
+main-context-menu-media-play-speed-slow =
+    .label = Spora (0,5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Normalna
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Brza (1,25×)
+    .accesskey = B
+main-context-menu-media-play-speed-faster =
+    .label = Brža (1,5×)
+    .accesskey = r
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Suludo brza (2×)
+    .accesskey = u
+main-context-menu-media-loop =
+    .label = Ponavljaj
+    .accesskey = P
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -97,6 +132,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Potpuni zaslon
+    .accesskey = o
 main-context-menu-media-video-leave-fullscreen =
     .label = Napusti prikaz preko cijelog zaslona
     .accesskey = u
@@ -109,6 +147,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Pogledaj video
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Kopiraj sliku
+    .accesskey = s
 main-context-menu-image-copy-location =
     .label = Kopiraj lokaciju slike
     .accesskey = o
@@ -133,18 +174,27 @@ main-context-menu-image-desc =
 main-context-menu-video-email =
     .label = Pošalji video e-poštom…
     .accesskey = a
+main-context-menu-audio-email =
+    .label = Pošalji zvuk e-poštom…
+    .accesskey = a
 main-context-menu-plugin-play =
     .label = Aktiviraj ovaj priključak
     .accesskey = k
 main-context-menu-plugin-hide =
     .label = Sakrij ovaj priključak
     .accesskey = S
+main-context-menu-send-to-device =
+    .label = Pošalji stranicu na uređaj
+    .accesskey = u
 main-context-menu-view-background-image =
     .label = Pogledaj pozadinsku sliku
     .accesskey = P
 main-context-menu-keyword =
     .label = Dodaj ključnu riječ za ovu pretragu...
     .accesskey = k
+main-context-menu-link-send-to-device =
+    .label = Pošalji poveznicu na uređaj
+    .accesskey = u
 main-context-menu-frame =
     .label = Ovaj okvir
     .accesskey = O
@@ -172,6 +222,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Prikaži informacije o okviru
     .accesskey = i
+main-context-menu-view-selection-source =
+    .label = Prikaži izvorni kod odabranog
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Prikaži izvorni kod stranice
     .accesskey = v
@@ -184,3 +237,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Promijeni smjer stranice
     .accesskey = s
+main-context-menu-inspect-element =
+    .label = Ispitaj element
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = Saznajte više o DRM-u…
+    .accesskey = D
