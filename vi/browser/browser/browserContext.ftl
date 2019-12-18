@@ -63,6 +63,9 @@ main-context-menu-copy-link =
 
 ##
 
+main-context-menu-media-play-speed-normal =
+    .label = Bình thường
+    .accesskey = N
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -73,6 +76,9 @@ main-context-menu-copy-link =
 main-context-menu-media-video-leave-fullscreen =
     .label = Thoát chế độ toàn màn hình
     .accesskey = u
+main-context-menu-audio-email =
+    .label = Gửi âm thanh qua email…
+    .accesskey = a
 main-context-menu-eme-learn-more =
     .label = Tìm hiểu thêm về DRM…
     .accesskey = D
