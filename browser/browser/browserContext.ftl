@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Hâld yndrukt om skiednis te toanen
+           *[other] Klik mei rjochts of hâld yndrukt om skiednis te toanen
+        }
 
 ## Back
 
@@ -45,6 +51,12 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-window =
     .label = Keppeling yn nij finster iepenje
     .accesskey = f
+main-context-menu-open-link-new-private-window =
+    .label = Keppeling iepenje yn nij priveefinster
+    .accesskey = P
+main-context-menu-save-link =
+    .label = Keppeling bewarje as…
+    .accesskey = l
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -63,6 +75,9 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Ofspylje
+    .accesskey = O
 
 ##
 
@@ -73,27 +88,93 @@ main-context-menu-media-mute =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Knoppen toane
+    .accesskey = T
+main-context-menu-media-hide-controls =
+    .label = Knoppen ferstopje
+    .accesskey = F
 
 ##
 
 main-context-menu-media-video-fullscreen =
     .label = Folslein skerm
     .accesskey = s
+main-context-menu-media-video-leave-fullscreen =
+    .label = Folsleinskerm ferlitte
+    .accesskey = f
+main-context-menu-image-view =
+    .label = Ofbylding besjen
+    .accesskey = f
+main-context-menu-video-view =
+    .label = Fideo besjen
+    .accesskey = I
 main-context-menu-image-copy-location =
     .label = Ofbyldingslokaasje kopiearje
     .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Fideolokaasje kopiearje
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Audiolokaasje kopiearje
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Ofbylding bewarje as…
+    .accesskey = n
+main-context-menu-image-email =
+    .label = Ofbylding e-maile…
+    .accesskey = a
 main-context-menu-image-set-as-background =
     .label = As eftergrûn ynstelle
     .accesskey = e
+main-context-menu-image-info =
+    .label = Ofbyldingsynfo besjen
+    .accesskey = f
+main-context-menu-video-save-as =
+    .label = Bewarje fideo as…
+    .accesskey = f
+main-context-menu-audio-save-as =
+    .label = Bewarje audio as…
+    .accesskey = a
+main-context-menu-video-image-save-as =
+    .label = Momintopname bewarje as…
+    .accesskey = M
+main-context-menu-video-email =
+    .label = Fideo e-maile…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = Audio e-maile…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = Dizze ynstekker aktivearje
+    .accesskey = k
+main-context-menu-plugin-hide =
+    .label = Dizze ynstekker ferstoppe
+    .accesskey = f
 main-context-menu-view-background-image =
     .label = Eftergrûnôfbylding besjen
     .accesskey = g
+main-context-menu-keyword =
+    .label = Kaaiwurd foar dizze sykopdracht tafoegje…
+    .accesskey = K
 main-context-menu-frame =
     .label = Dit dielfinster
     .accesskey = D
+main-context-menu-frame-show-this =
+    .label = Allinnich dit dielfinster toane
+    .accesskey = d
+main-context-menu-frame-open-tab =
+    .label = Dielfinster yn nij ljepblêd iepenje
+    .accesskey = l
 main-context-menu-frame-open-window =
     .label = Dielfinster yn nij finster iepenje
     .accesskey = f
+main-context-menu-frame-save-as =
+    .label = Dielfinster bewarje as…
+    .accesskey = l
+main-context-menu-frame-print =
+    .label = Dielfinster ôfdrukke…
+    .accesskey = d
 main-context-menu-frame-view-source =
     .label = Dielfinsterboarne besjen
     .accesskey = b
@@ -115,3 +196,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Siderjochting draaie
     .accesskey = g
+main-context-menu-inspect-element =
+    .label = Elemint ynspektearje
+    .accesskey = E
