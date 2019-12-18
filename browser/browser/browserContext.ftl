@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = एकगोट पृष्ठ पाछाँ जाउ
+    .aria-label = पाछाँ
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = एक पृष्ठ आगाँ जाउ
+    .aria-label = अग्रेषित करू
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = फेर लोड करू
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = रोकू
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -175,12 +189,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = ई प्लगइन केँ नुकाउ (H)
     .accesskey = H
+main-context-menu-send-to-device =
+    .label = डिवाइस मे पृष्ठ पठाबू
+    .accesskey = n
 main-context-menu-view-background-image =
     .label = पृष्ठभूमि छवि देखू
     .accesskey = w
 main-context-menu-keyword =
     .label = ई खोज के लिए बीजशब्द जोडू…
     .accesskey = K
+main-context-menu-link-send-to-device =
+    .label = डिवाइस मे लिंक पठाबू
+    .accesskey = n
 main-context-menu-frame =
     .label = ई फ्रेम
     .accesskey = h
