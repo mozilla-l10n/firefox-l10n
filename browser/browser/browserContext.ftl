@@ -85,6 +85,12 @@ main-context-menu-media-play-speed-normal =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Wyświetl elementy sterujące
+    .accesskey = e
+main-context-menu-media-hide-controls =
+    .label = Ukryj elementy sterujące
+    .accesskey = e
 
 ##
 
