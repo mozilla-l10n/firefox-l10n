@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ
+    .aria-label = ថយក្រោយ
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = ទៅមុខ​មួយ​ទំព័រ
+    .aria-label = ទៅមុខ
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = ផ្ទុក​ឡើងវិញ
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = បញ្ឈប់
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -45,6 +59,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = ចំណាំ​ទំព័រ​នេះ
+    .accesskey = m
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -67,6 +84,12 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-send-to-device =
+    .label = ផ្ញើ​ទំព័រ​ទៅ​ឧបករណ៍
+    .accesskey = D
+main-context-menu-link-send-to-device =
+    .label = ផ្ញើ​តំណ​ទៅ​ឧបករណ៍
+    .accesskey = D
 main-context-menu-eme-learn-more =
     .label = ស្វែងយល់​បន្ថែម​អំពី DRM…
     .accesskey = D
