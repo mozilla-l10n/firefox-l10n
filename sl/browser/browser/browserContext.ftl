@@ -33,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Ponovno naloži
+    .accesskey = P
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Ustavi
+    .accesskey = U
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -56,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Dodaj stran med zaznamke
+    .accesskey = r
 main-context-menu-open-link =
     .label = Odpri povezavo
     .accesskey = O
@@ -77,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Shrani povezavo kot …
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Shrani povezavo v { -pocket-brand-name }
+    .accesskey = e
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -98,6 +110,9 @@ main-context-menu-copy-link =
 main-context-menu-media-play =
     .label = Predvajaj
     .accesskey = v
+main-context-menu-media-pause =
+    .label = Premor
+    .accesskey = o
 
 ##
 
@@ -158,6 +173,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Pokaži video
     .accesskey = I
+main-context-menu-image-copy =
+    .label = Kopiraj sliko
+    .accesskey = a
 main-context-menu-image-copy-location =
     .label = Kopiraj mesto slike
     .accesskey = o
@@ -203,6 +221,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Skrij vtičnik
     .accesskey = S
+main-context-menu-save-to-pocket =
+    .label = Shrani stran v { -pocket-brand-name }
+    .accesskey = s
 main-context-menu-send-to-device =
     .label = Pošlji stran na napravo
     .accesskey = N
