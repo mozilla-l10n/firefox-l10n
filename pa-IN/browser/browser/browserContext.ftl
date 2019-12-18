@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = …ਲਿੰਕ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = ਲਿੰਕ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -223,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = ਇਹ ਪਲੱਗਇਨ ਨੂੰ ਓਹਲੇ
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = ਸਫ਼ੇ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = ਸਫ਼ੇ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
     .accesskey = D
@@ -283,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = ਐਲੀਮੈਂਟ ਜਾਂਚ
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = ਅਸੈੱਸਬਿਲਟੀ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਜਾਂਚ ਕਰੋ
 main-context-menu-eme-learn-more =
     .label = …DRM ਬਾਰੇ ਹੋਰ ਜਾਣੋ
     .accesskey = D
