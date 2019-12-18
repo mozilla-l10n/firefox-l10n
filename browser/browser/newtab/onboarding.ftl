@@ -27,7 +27,7 @@ onboarding-welcome-modal-privacy-body = Imaš preglednik. Dodajmo još više za�
 onboarding-welcome-modal-family-learn-more = Saznaj više o { -brand-product-name } obitelji proizvoda.
 onboarding-welcome-form-header = Započni ovdje
 onboarding-join-form-header = Pridruži se { -brand-product-name }
-onboarding-join-form-body = Unesite vašu adresu e-pošte kako biste počeli.
+onboarding-join-form-body = Upiši svoju adresu e-pošte kako bi započeo/la.
 onboarding-join-form-email =
     .placeholder = Unesite adresu e-pošte
 onboarding-join-form-email-error = Potrebna je ispravna adresa e-pošte
@@ -46,12 +46,12 @@ onboarding-cards-dismiss =
 
 onboarding-fullpage-welcome-subheader = Počnimo s istraživanjem svega što možete učiniti.
 onboarding-fullpage-form-email =
-    .placeholder = Adresa vaše e-pošte…
+    .placeholder = Adresa tvoje e-pošte …
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Uzmite { -brand-product-name } sa sobom
-onboarding-sync-welcome-content = Preuzmite svoje zabilješke, povijest, lozinke i druge postavke na sve vaše uređaje.
+onboarding-sync-welcome-content = Preuzmi svoje zabilješke, povijest, lozinke i druge postavke na sve tvoje uređaje.
 onboarding-sync-welcome-learn-more-link = Saznajte više o Firefox računima
 onboarding-sync-form-input =
     .placeholder = E-pošta
@@ -60,14 +60,14 @@ onboarding-sync-form-skip-login-button = Preskočite ovaj korak
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
-onboarding-sync-form-header = Unesite vašu adresu e-pošte
+onboarding-sync-form-header = Upiši svoju e-adresu
 onboarding-sync-form-sub-header = i prijavi se u { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-title = Korisni proizvodi
-onboarding-benefit-products-text = Obavite posao s pomoću obitelji alata koji poštuju vašu privatnost na svim uređajima.
+onboarding-benefit-products-text = Obavi posao pomoću obitelji alata koji poštuju tvoju privatnost na svim uređajima.
 onboarding-benefit-knowledge-title = Praktično znanje
 onboarding-benefit-knowledge-text = Saznaj sve što trebaš znati za pametnije i sigurnije kretanje po internetu.
 onboarding-benefit-privacy-title = Prava privatnost
@@ -80,7 +80,7 @@ onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o oso
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Uzmi svoje oznake, lozinke, povijest i još mnogo toga gdje god koristiš { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Budite obaviješteni kada pronađemo vaše podatke u poznatom curenju podataka.
+onboarding-benefit-monitor-text = Dobij obavijest kad se tvoji podaci nalaze u poznatom curenju podataka.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i prenosive.
 
