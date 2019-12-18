@@ -45,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = 打开链接
+    .accesskey = O
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -91,12 +94,18 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = 全屏
+    .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = 退出全屏
     .accesskey = u
 main-context-menu-image-reload =
     .label = 重新载入图像
     .accesskey = R
+main-context-menu-image-view =
+    .label = 查看图像
+    .accesskey = I
 main-context-menu-video-view =
     .label = 查看视频
     .accesskey = i
@@ -115,6 +124,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-as-background =
     .label = 设为桌面背景…
     .accesskey = S
+main-context-menu-image-info =
+    .label = 查看图像信息
+    .accesskey = f
 main-context-menu-image-desc =
     .label = 查看描述
     .accesskey = D
@@ -139,6 +151,9 @@ main-context-menu-view-selection-source =
 main-context-menu-view-page-source =
     .label = 查看页面源代码
     .accesskey = V
+main-context-menu-view-page-info =
+    .label = 查看页面信息
+    .accesskey = I
 main-context-menu-bidi-switch-text =
     .label = 切换文字方向
     .accesskey = w
