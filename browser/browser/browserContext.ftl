@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Anomena i desa la pàgina…
+    .accesskey = d
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Obre l'enllaç en una pestanya nova
     .accesskey = t
+main-context-menu-open-link-container-tab =
+    .label = Obre l'enllaç en una pestanya de contenidor nova
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Obre l'enllaç en una finestra nova
     .accesskey = f
@@ -96,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Amb so
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Velocitat de reproducció
+    .accesskey = l
+main-context-menu-media-play-speed-slow =
+    .label = Lent (0,5x)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Ràpid (1,25x)
+    .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Més ràpid (1,5x)
+    .accesskey = s
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Màxima velocitat (×2)
+    .accesskey = M
+main-context-menu-media-loop =
+    .label = Repetició
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +138,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Pantalla completa
+    .accesskey = P
 main-context-menu-media-video-leave-fullscreen =
     .label = Surt de la pantalla completa
     .accesskey = p
@@ -166,12 +198,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Amaga aquest connector
     .accesskey = m
+main-context-menu-send-to-device =
+    .label = Envia la pàgina al dispositiu
+    .accesskey = d
 main-context-menu-view-background-image =
     .label = Visualitza la imatge de fons
     .accesskey = n
 main-context-menu-keyword =
     .label = Afegeix una paraula clau per a aquesta cerca…
     .accesskey = p
+main-context-menu-link-send-to-device =
+    .label = Envia l'enllaç al dispositiu
+    .accesskey = d
 main-context-menu-frame =
     .label = Aquest marc
     .accesskey = t
@@ -202,6 +240,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Informació del marc
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = Codi font de la selecció
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Codi font de la pàgina
     .accesskey = f
@@ -217,3 +258,6 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspecciona l'element
     .accesskey = I
+main-context-menu-eme-learn-more =
+    .label = Més informació sobre DRM…
+    .accesskey = D
