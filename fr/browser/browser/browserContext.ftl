@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Cliquer tout en déplaçant la souris vers le bas pour afficher l’historique
+           *[other] Faire un clic droit ou cliquer en déplaçant la souris vers le bas pour afficher l’historique
+        }
 
 ## Back
 
@@ -56,6 +62,12 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copier l’adresse électronique
+    .accesskey = E
+main-context-menu-copy-link =
+    .label = Copier l’adresse du lien
+    .accesskey = C
 
 ## Media (video/audio) controls
 ##
@@ -78,6 +90,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Audible
     .accesskey = u
+main-context-menu-media-play-speed =
+    .label = Vitesse de lecture
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Lente (×0,5)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normale
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rapide (×1,25)
+    .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Très rapide (×1,5)
+    .accesskey = T
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Démesurée (×2)
+    .accesskey = D
+main-context-menu-media-loop =
+    .label = Lire en boucle
+    .accesskey = i
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -97,18 +132,72 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Quitter le mode plein écran
     .accesskey = u
+main-context-menu-image-reload =
+    .label = Actualiser l’image
+    .accesskey = m
+main-context-menu-image-view =
+    .label = Afficher l’image
+    .accesskey = h
 main-context-menu-video-view =
     .label = Afficher la vidéo
     .accesskey = v
+main-context-menu-image-copy-location =
+    .label = Copier l’adresse de l’image
+    .accesskey = r
+main-context-menu-video-copy-location =
+    .label = Copier l’URL de la vidéo
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Copier l’URL du fichier audio
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Enregistrer l’image sous…
+    .accesskey = s
+main-context-menu-image-email =
+    .label = Envoyer l’image par courriel…
+    .accesskey = v
+main-context-menu-image-set-as-background =
+    .label = Choisir l’image comme fond d’écran
+    .accesskey = d
+main-context-menu-image-info =
+    .label = Informations sur l’image
+    .accesskey = I
+main-context-menu-image-desc =
+    .label = Description de l’image
+    .accesskey = e
 main-context-menu-video-save-as =
     .label = Enregistrer la vidéo sous…
     .accesskey = s
 main-context-menu-audio-save-as =
     .label = Enregistrer le fichier audio sous…
     .accesskey = s
+main-context-menu-video-image-save-as =
+    .label = Enregistrer un instantané sous…
+    .accesskey = n
+main-context-menu-video-email =
+    .label = Envoyer la vidéo par courriel…
+    .accesskey = v
+main-context-menu-audio-email =
+    .label = Envoyer le fichier audio par courriel…
+    .accesskey = v
+main-context-menu-plugin-play =
+    .label = Activer ce plugin
+    .accesskey = v
+main-context-menu-plugin-hide =
+    .label = Masquer ce plugin
+    .accesskey = q
+main-context-menu-send-to-device =
+    .label = Envoyer la page à un appareil
+    .accesskey = v
+main-context-menu-view-background-image =
+    .label = Afficher l’image de fond
+    .accesskey = h
 main-context-menu-keyword =
     .label = Ajouter un mot-clé pour cette recherche…
     .accesskey = m
+main-context-menu-link-send-to-device =
+    .label = Envoyer le lien à un appareil
+    .accesskey = v
 main-context-menu-frame-show-this =
     .label = Afficher ce cadre uniquement
     .accesskey = A
@@ -145,3 +234,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Changer le sens de la page
     .accesskey = g
+main-context-menu-inspect-element =
+    .label = Examiner l’élément
+    .accesskey = x
+main-context-menu-eme-learn-more =
+    .label = En savoir plus sur les DRM…
+    .accesskey = D
