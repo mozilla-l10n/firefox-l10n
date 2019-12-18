@@ -55,10 +55,13 @@ about-logins-login-list-empty-search-description = Tidak ada hasil pencarian yan
 login-list-item-title-new-login = Info Masuk Baru
 login-list-item-subtitle-new-login = Masukkan kredensial info masuk Anda
 login-list-item-subtitle-missing-username = (tidak ada nama pengguna)
+about-logins-list-item-breach-icon =
+    .title = Situs web yang dibobol
 
 ## Introduction screen
 
 login-intro-heading = Mencari info masuk Anda yang tersimpan? Siapkan { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Info masuk yang tersinkron tidak ditemukan.
 login-intro-description = Jika Anda menyimpan info masuk Anda di { -brand-product-name } pada perangkat lain, berikut cara mendapatkannya di sini:
 login-intro-instruction-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
 login-intro-instruction-fxa-settings = Pastikan Anda telah memilih kotak centang Info Masuk pada Pengaturan { -sync-brand-short-name }
