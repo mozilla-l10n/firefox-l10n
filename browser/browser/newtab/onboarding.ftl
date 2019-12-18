@@ -123,7 +123,7 @@ onboarding-mobile-phone-title = Preuzmi { -brand-product-name } za svoj mobitel
 onboarding-mobile-phone-text = Preuzmite { -brand-product-name } za iOS ili Android i sinkronizirajte svoje podatke na svim uređajima.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Preuzmite mobilni preglednik
+onboarding-mobile-phone-button = Preuzmi preglednika za mobitele
 onboarding-send-tabs-title = Trenutno pošaljite sami sebi kartice
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
