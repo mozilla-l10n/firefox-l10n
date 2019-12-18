@@ -169,3 +169,6 @@ main-context-menu-view-page-info =
 main-context-menu-bidi-switch-text =
     .label = ପାଠ୍ୟ ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ
     .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = ପୃଷ୍ଠା ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ
+    .accesskey = D
