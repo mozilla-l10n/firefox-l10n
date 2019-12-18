@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY cloudfileMgmt.privacyPolicy "Tasertit n tbaḍnit">
-<!ENTITY cloudfileMgmt.termsOfService "Tiwtilin n useqdec">
-<!ENTITY cloudfileMgmt.usedSpace "Tallunt yettwasqedcen:">
-<!ENTITY cloudfileMgmt.unusedSpace "Tallunt ue nettwasqedcen ara:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Awi-d ugar n tallunt">
