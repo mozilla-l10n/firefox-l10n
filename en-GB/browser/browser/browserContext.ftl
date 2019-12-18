@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Go backwards one page
+    .aria-label = Backwards
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Go forwards one page
+    .aria-label = Forwards
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Reload
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stop
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Bookmark This Page
+    .accesskey = m
 main-context-menu-open-link =
     .label = Open Link
     .accesskey = O
@@ -144,6 +161,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Exit Full Screen
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Reload Image
     .accesskey = R
@@ -153,6 +175,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = View Video
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Copy Image
+    .accesskey = y
 main-context-menu-image-copy-location =
     .label = Copy Image Location
     .accesskey = o
@@ -258,6 +283,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspect Element
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Inspect Accessibility Properties
 main-context-menu-eme-learn-more =
     .label = Learn more about DRM…
     .accesskey = D
