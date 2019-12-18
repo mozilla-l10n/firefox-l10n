@@ -61,7 +61,7 @@ main-context-menu-open-link-new-private-window =
     .label = Xhal kue loo taa diff loo kub chan taa naa
     .accesskey = l
 main-context-menu-bookmark-this-link =
-    .label = Tób kùe loo ndó~làz=ná{ " " }
+    .label = Tób kùe loo ndó~làz=ná
     .accesskey = l
 main-context-menu-save-link =
     .label = Loo xhog kue...
@@ -94,7 +94,7 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = Toog gaa{ " " }
+    .label = Toog gaa
     .accesskey = T
 main-context-menu-media-unmute =
     .label = Goon naá
@@ -196,7 +196,7 @@ main-context-menu-frame-open-tab =
     .label = Xhal kue lo loo kub
     .accesskey = k
 main-context-menu-frame-open-window =
-    .label = Xhal kue loo taa diff loo{ " " }
+    .label = Xhal kue loo taa diff loo
     .accesskey = k
 main-context-menu-frame-reload =
     .label = TeɁ zàp loo ré
