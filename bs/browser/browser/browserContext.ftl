@@ -40,14 +40,23 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Spasi stranicu kao…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Otvori link
+    .accesskey = O
 main-context-menu-open-link-new-tab =
     .label = Otvori link u novom tabu
     .accesskey = t
+main-context-menu-open-link-new-window =
+    .label = Otvori link u novom prozoru
+    .accesskey = O
 main-context-menu-open-link-new-private-window =
     .label = Otvori link u novom privatnom prozoru
     .accesskey = p
@@ -169,6 +178,9 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Prikaži samo ovaj okvir
     .accesskey = s
+main-context-menu-frame-open-tab =
+    .label = Otvori okvir u novom tabu
+    .accesskey = b
 main-context-menu-frame-open-window =
     .label = Otvori okvir u novom prozoru
     .accesskey = n
