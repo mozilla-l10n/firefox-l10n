@@ -1,0 +1,19 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+text-action-undo =
+    .label = Óni dóta
+    .accesskey = Ó
+text-action-cut =
+    .label = Kotade
+    .accesskey = d
+text-action-paste =
+    .label = Níta
+    .accesskey = N
+text-action-delete =
+    .label = Fúitade
+    .accesskey = F
+text-action-select-all =
+    .label = Nána nɨze
+    .accesskey = n
