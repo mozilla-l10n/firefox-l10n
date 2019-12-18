@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] ইতিহাস দেখতে নীচে টেনে আনুন
+           *[other] ইতিহাস প্রদর্শনের জন্য ডান বাটন ক্লিক করুন অথবা নীচে টেনে আনুন
+        }
 
 ## Back
 
@@ -39,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = লিঙ্ক খুলুন O
+    .accesskey = O
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -61,6 +70,18 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = পূর্ণ পর্দাজুড়ে প্রদর্শন মোড হতে প্রস্থান
+    .accesskey = u
+main-context-menu-image-email =
+    .label = ছবি ইমেইল করুন... g
+    .accesskey = g
+main-context-menu-video-email =
+    .label = ভিডিও ইমেইল করুন... a
+    .accesskey = a
 main-context-menu-view-selection-source =
     .label = নির্বাচিত অংশের সোর্স প্রদর্শন
     .accesskey = e
+main-context-menu-inspect-element =
+    .label = উপাদান পর্যবেক্ষণ করুন
+    .accesskey = Q
