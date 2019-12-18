@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] 방문 기록 내려 보기
+           *[other] 오른쪽 클릭 또는 아래로 잡아당겨 방문 기록 보기
+        }
 
 ## Back
 
@@ -65,6 +71,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = 새 탭에 링크 열기
     .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = 새 컨테이너 탭에서 링크 열기
+    .accesskey = C
 main-context-menu-open-link-new-window =
     .label = 새 창에 링크 열기
     .accesskey = W
@@ -77,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = 링크를 다른 이름으로 저장…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = 링크를 { -pocket-brand-name }에 저장
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -107,6 +119,9 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = 음소거
     .accesskey = M
+main-context-menu-media-unmute =
+    .label = 음소거 해제
+    .accesskey = m
 main-context-menu-media-play-speed =
     .label = 재생 속도
     .accesskey = d
@@ -134,12 +149,26 @@ main-context-menu-media-loop =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = 컨트롤 보이기
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = 컨트롤 숨기기
+    .accesskey = C
 
 ##
 
 main-context-menu-media-video-fullscreen =
     .label = 전체 화면
     .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = 전체 화면 종료
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = 화면 속 화면
+    .accesskey = u
 main-context-menu-image-reload =
     .label = 이미지 다시 읽기
     .accesskey = R
@@ -197,12 +226,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = 현재 플러그인 숨기기
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = 페이지를 { -pocket-brand-name }에 저장
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = 페이지를 기기로 보내기
     .accesskey = D
 main-context-menu-view-background-image =
     .label = 배경 이미지 보기
     .accesskey = w
+main-context-menu-keyword =
+    .label = 이 검색의 키워드 추가…
+    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = 링크를 기기로 보내기
     .accesskey = D
@@ -239,6 +274,9 @@ main-context-menu-frame-view-info =
 main-context-menu-view-selection-source =
     .label = 선택한 소스 보기
     .accesskey = e
+main-context-menu-view-page-source =
+    .label = 페이지 소스 보기
+    .accesskey = V
 main-context-menu-view-page-info =
     .label = 페이지 등록 정보
     .accesskey = I
