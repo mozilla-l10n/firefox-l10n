@@ -51,16 +51,31 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = ਚਲਾਓ
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = ਚੁੱਪ
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = ਸੁਣਾਓ
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = ਕੰਟਰੋਲ ਵੇਖੋ
+    .accesskey = C
 
 ##
 
+main-context-menu-frame =
+    .label = ਇਹ ਫਰੇਮ
+    .accesskey = h
 main-context-menu-frame-show-this =
     .label = ਇਹ ਫਰੇਮ ਹੀ ਵੇਖੋ
     .accesskey = w
