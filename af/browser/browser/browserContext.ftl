@@ -61,3 +61,6 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-video-email =
+    .label = E-pos video…
+    .accesskey = o
