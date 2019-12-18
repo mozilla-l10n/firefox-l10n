@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] ਅਤੀਤ ਵੇਖਣ ਲਈ ਹੇਠਾਂ ਖਿੱਚੋ
+           *[other] ਅਤੀਤ ਵੇਖਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਹੇਠਾਂ ਖਿੱਚੋ
+        }
 
 ## Back
 
@@ -73,6 +79,18 @@ main-context-menu-media-show-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = ਪੂਰੀ ਸਕਰੀਨ
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ
+    .accesskey = u
+main-context-menu-image-set-as-background =
+    .label = …ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ
+    .accesskey = S
+main-context-menu-keyword =
+    .label = ਇਸ ਖੋਜ ਲਈ ਸ਼ਬਦ ਦਿਓ…
+    .accesskey = K
 main-context-menu-frame =
     .label = ਇਹ ਫਰੇਮ
     .accesskey = h
@@ -82,3 +100,6 @@ main-context-menu-frame-show-this =
 main-context-menu-view-selection-source =
     .label = ਚੋਣ ਦਾ ਸਰੋਤ ਵੇਖੋ
     .accesskey = e
+main-context-menu-inspect-element =
+    .label = ਐਲੀਮੈਂਟ ਜਾਂਚ
+    .accesskey = Q
