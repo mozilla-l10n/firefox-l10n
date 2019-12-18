@@ -84,16 +84,63 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = 再生
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = 一時停止
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = ミュート
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = ミュート解除
+    .accesskey = m
+main-context-menu-media-play-speed =
+    .label = 再生スピード
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = スローモーション (0.5倍)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = 通常
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = 少し早く (1.25倍)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = 早送り (1.5倍)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = ウルトラスーパーハイ (2倍)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = 連続再生
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = コントロールを表示
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = コントロールを隠す
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = フルスクリーン
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = フルスクリーンモードを終了
+    .accesskey = u
 main-context-menu-image-reload =
     .label = 画像を再読み込み
     .accesskey = R
@@ -136,6 +183,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = 別名でオーディオを保存...
     .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = スナップショットを保存...
+    .accesskey = S
 main-context-menu-video-email =
     .label = 動画の URL をメールで送信...
     .accesskey = a
