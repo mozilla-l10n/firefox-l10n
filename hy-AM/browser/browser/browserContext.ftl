@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
 ##
 
 main-context-menu-media-video-fullscreen =
-    .label = Բացել Լիաէկրան{ " " }
+    .label = Բացել Լիաէկրան
     .accesskey = Բ
 main-context-menu-media-video-leave-fullscreen =
     .label = Դուրս գալ Լիաէկրան վիճակից
