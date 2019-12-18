@@ -15,5 +15,5 @@ text-action-delete =
     .label = काडून उडयात
     .accesskey = D
 text-action-select-all =
-    .label = वेंचात आनी सगलें{ " " }
+    .label = वेंचात आनी सगलें
     .accesskey = A
