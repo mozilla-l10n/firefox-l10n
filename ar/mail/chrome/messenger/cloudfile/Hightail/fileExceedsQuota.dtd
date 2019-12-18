@@ -1,7 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "Hightail">
-<!ENTITY fileExceedsQuota.storageLimitReached   "وصلت إلى أقصى حدّ للتخزين">
-<!ENTITY fileExceedsQuota.description "وصلت إلى أقصى حد للتخزين في حسابك وهو 2 ج.بايت.">
-<!ENTITY fileExceedsQuota.description1 "تستخدم حاليا مساحة #XXX ج.بايت.">
