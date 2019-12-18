@@ -45,11 +45,17 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link-new-tab =
+    .label = Отваряне в раздел
+    .accesskey = д
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Копиране на електронния адрес
+    .accesskey = е
 
 ## Media (video/audio) controls
 ##
@@ -148,6 +154,9 @@ main-context-menu-keyword =
 main-context-menu-frame-show-this =
     .label = Показване само на тази рамка
     .accesskey = р
+main-context-menu-frame-open-tab =
+    .label = Отваряне в раздел
+    .accesskey = д
 main-context-menu-frame-reload =
     .label = Презареждане на рамката
     .accesskey = з
