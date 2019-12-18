@@ -19,6 +19,9 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Peuhah keulayi
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -39,6 +42,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-save-link =
+    .label = Keubah Peunawôt Seubagoë…
+    .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -54,6 +60,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -61,3 +70,12 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Teubiet Peunoh Layeu
+    .accesskey = u
+main-context-menu-send-to-device =
+    .label = Peu'ét Laman u Alat
+    .accesskey = n
+main-context-menu-link-send-to-device =
+    .label = Peu'ét Peunawôt u Alat
+    .accesskey = n
