@@ -61,6 +61,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-image-reload =
+    .label = Reîncarcă imaginea
+    .accesskey = R
 main-context-menu-frame-reload =
     .label = Reîncarcă cadrul
     .accesskey = R
