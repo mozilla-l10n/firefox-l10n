@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Vista tengil sem…
     .accesskey = V
+main-context-menu-save-link-to-pocket =
+    .label = Vista tengil í { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -160,6 +163,11 @@ main-context-menu-media-video-fullscreen =
     .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = Hætta í fullum skjá
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Mynd-í-mynd
     .accesskey = u
 main-context-menu-image-reload =
     .label = Endurlesa mynd
