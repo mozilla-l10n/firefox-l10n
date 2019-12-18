@@ -62,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Էջանշել Այս Էջը
+    .accesskey = m
 main-context-menu-open-link =
     .label = Բացել Հղումը
     .accesskey = Բ
@@ -275,6 +278,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Զննել տարրը
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Ստուգել մատչելիության հատկությունները
 main-context-menu-eme-learn-more =
     .label = Իմանալ ավելին DRM-ի մասին...
     .accesskey = D
