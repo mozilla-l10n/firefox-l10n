@@ -54,6 +54,9 @@ main-context-menu-bookmark-this-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = ఆడించు
+    .accesskey = P
 main-context-menu-media-pause =
     .label = కొద్దిసేపు ఆపు
     .accesskey = P
@@ -93,6 +96,9 @@ main-context-menu-image-view =
 main-context-menu-image-set-as-background =
     .label = డెస్క్‌టాపు వెనుతలంగా అమర్చు…
     .accesskey = S
+main-context-menu-image-desc =
+    .label = వివరణను చూడండి
+    .accesskey = D
 main-context-menu-keyword =
     .label = ఈ శోధనకు కీలక పదాన్ని చేర్చండి…
     .accesskey = K
