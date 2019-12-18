@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Joan orri bat atzera
+    .aria-label = Atzera
+    .accesskey = z
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Joan orri bat aurrera
+    .aria-label = Aurrera
+    .accesskey = A
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Berritu
+    .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Gelditu
+    .accesskey = G
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Egin orri honen laster-marka
+    .accesskey = E
 main-context-menu-open-link =
     .label = Ireki lotura
     .accesskey = I
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Gorde lotura honela…
     .accesskey = G
+main-context-menu-save-link-to-pocket =
+    .label = Gorde lotura { -pocket-brand-name }-en
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -144,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Irten pantaila osotik
     .accesskey = s
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Bideoa beste bideo batean
+    .accesskey = b
 main-context-menu-image-reload =
     .label = Berritu irudia
     .accesskey = r
@@ -201,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ezkutatu plugin hau
     .accesskey = E
+main-context-menu-save-to-pocket =
+    .label = Gorde orria { -pocket-brand-name }-en
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Bidali orria gailura
     .accesskey = g
@@ -261,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Ikuskatu elementua
     .accesskey = s
+main-context-menu-inspect-a11y-properties =
+    .label = Ikuskatu erabilgarritasun-propietateak
 main-context-menu-eme-learn-more =
     .label = DRMri buruzko argibide gehiago…
     .accesskey = D
