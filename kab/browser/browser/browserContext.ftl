@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ amazray
+           *[other] Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ amazray
+        }
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Uɣal s yiwen n usebter
+    .aria-label = Ɣer deffir
+    .accesskey = D
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Aẓ ɣer zdat s yiwen usebter
+    .aria-label = Ɣer zdat
+    .accesskey = Z
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -19,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Smiren
+    .accesskey = M
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Seḥbes
+    .accesskey = Ḥ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -42,8 +62,17 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Creḍ asebter-a
+    .accesskey = c
 main-context-menu-open-link =
     .label = Ldi aseɣwen
+    .accesskey = L
+main-context-menu-open-link-new-tab =
+    .label = Ldi aseɣwen deg yiccer amaynut
+    .accesskey = d
+main-context-menu-open-link-container-tab =
+    .label = Ldi aseɣwen deg yiccer amagbar amaynut
     .accesskey = L
 main-context-menu-open-link-new-window =
     .label = Ldi aseɣwen deg usfaylu amaynut
@@ -84,12 +113,27 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Tasusmi
+    .accesskey = S
+main-context-menu-media-unmute =
+    .label = Kkes tasusmi
+    .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Arured n tɣuri
+    .accesskey = r
 main-context-menu-media-play-speed-slow =
     .label = S ttawil (0.5×)
     .accesskey = S
 main-context-menu-media-play-speed-normal =
     .label = Amagnu
     .accesskey = m
+main-context-menu-media-play-speed-fast =
+    .label = S tɣawla (1.25×)
+    .accesskey = z
+main-context-menu-media-play-speed-faster =
+    .label = Ittɣawal aṭas (1.5×)
+    .accesskey = r
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
@@ -105,9 +149,15 @@ main-context-menu-media-loop =
 main-context-menu-media-show-controls =
     .label = Sken isenqaden
     .accesskey = k
+main-context-menu-media-hide-controls =
+    .label = Ffer isenqaden
+    .accesskey = F
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Agdil ačaran
+    .accesskey = A
 main-context-menu-media-video-leave-fullscreen =
     .label = Ffeɣ seg uskar n ugdil ačuran{ " " }
     .accesskey = F
@@ -129,6 +179,9 @@ main-context-menu-image-copy-location =
 main-context-menu-video-copy-location =
     .label = Nɣel tansa n tvidyut
     .accesskey = N
+main-context-menu-audio-copy-location =
+    .label = Nɣel tansa n umeslaw
+    .accesskey = N
 main-context-menu-image-save-as =
     .label = Sekles tugna s yisem…
     .accesskey = u
@@ -141,6 +194,18 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Talɣut ɣef tugna
     .accesskey = l
+main-context-menu-image-desc =
+    .label = Aglam n tugna
+    .accesskey = t
+main-context-menu-video-save-as =
+    .label = Sekles tavidyut s yisem…
+    .accesskey = l
+main-context-menu-audio-save-as =
+    .label = Sekles ameslaw s yisem…
+    .accesskey = m
+main-context-menu-video-image-save-as =
+    .label = Sekles anɣel n ugdil s yisem…
+    .accesskey = S
 main-context-menu-video-email =
     .label = Azen tavidyut s yimayl…
     .accesskey = a
@@ -159,6 +224,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Sken tugna n ugilal
     .accesskey = S
+main-context-menu-keyword =
+    .label = Rnu awal tasarut i unadi-a…
+    .accesskey = w
 main-context-menu-link-send-to-device =
     .label = Azen aseɣwen ɣer yibenk
     .accesskey = b
@@ -177,6 +245,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Smiren akatar
     .accesskey = S
+main-context-menu-frame-bookmark =
+    .label = Creḍ akatar-a
+    .accesskey = c
 main-context-menu-frame-save-as =
     .label = Sekles akatar s yisem...
     .accesskey = S
@@ -186,6 +257,9 @@ main-context-menu-frame-print =
 main-context-menu-frame-view-source =
     .label = Tangalt aɣbalu n ukatar
     .accesskey = g
+main-context-menu-frame-view-info =
+    .label = Wali talɣut n ukatar-a
+    .accesskey = l
 main-context-menu-view-selection-source =
     .label = Wali tangalt taɣbalut n tefrant
     .accesskey = e
@@ -195,6 +269,12 @@ main-context-menu-view-page-source =
 main-context-menu-view-page-info =
     .label = Wali talɣut n usebter
     .accesskey = l
+main-context-menu-bidi-switch-text =
+    .label = Beddel taɣda n uḍris
+    .accesskey = n
+main-context-menu-bidi-switch-page =
+    .label = Beddel tanila n usebter
+    .accesskey = n
 main-context-menu-inspect-element =
     .label = Sweḍ aferdis
     .accesskey = S
