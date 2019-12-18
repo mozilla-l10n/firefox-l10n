@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Keppeling iepenje{ " " }
+    .accesskey = K
 main-context-menu-open-link-new-window =
     .label = Keppeling yn nij finster iepenje
     .accesskey = f
@@ -73,6 +76,9 @@ main-context-menu-media-mute =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Folslein skerm
+    .accesskey = s
 main-context-menu-image-copy-location =
     .label = Ofbyldingslokaasje kopiearje
     .accesskey = o
@@ -91,12 +97,18 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-view-source =
     .label = Dielfinsterboarne besjen
     .accesskey = b
+main-context-menu-frame-view-info =
+    .label = Dielfinsterynfo besjen
+    .accesskey = y
 main-context-menu-view-selection-source =
     .label = Boarne fan seleksje besjen
     .accesskey = B
 main-context-menu-view-page-source =
     .label = Sideboarne besjen
     .accesskey = b
+main-context-menu-view-page-info =
+    .label = Side-ynfo besjen
+    .accesskey = y
 main-context-menu-bidi-switch-text =
     .label = Tekstrjochting draaie
     .accesskey = t
