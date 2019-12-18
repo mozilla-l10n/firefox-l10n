@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "Generelt">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Tittel:">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Attgjevingsmodus:">
@@ -70,6 +71,7 @@
 <!ENTITY  mediaDimensions       "Dimensjonar:">
 <!ENTITY  mediaPhysDimensions   "Eigentleg storleik:">
 <!ENTITY  mediaTitle            "Tittel:">
+<!ENTITY  mediaDimension        "Dimensjonar:">
 <!ENTITY  mediaLongdesc         "Lang skildring:">
 <!ENTITY  mediaBlockImage.accesskey "L">
 <!ENTITY  mediaSaveAs           "Lagre som…">
@@ -92,6 +94,7 @@
 <!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permImage             "Laste inn bilde">
 <!ENTITY  permPopup             "Opne sprettoppvindauge">
+<!ENTITY  permCookie            "Vel infokapslar">
 <!ENTITY  permNotifications     "Vis varsel">
 <!ENTITY  permInstall           "Installere utvidingar og tema">
 <!ENTITY  permGeo               "Del plassering">
@@ -108,6 +111,8 @@
 <!ENTITY  securityView.identity.owner    "Eigar:">
 <!ENTITY  securityView.identity.domain   "Nettstad:">
 <!ENTITY  securityView.identity.verifier "Stadfesta av:">
+
+<!ENTITY  securityView.identity.validity "Går ut:">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har eg besøkt denne nettstaden tidlegare i dag?">
