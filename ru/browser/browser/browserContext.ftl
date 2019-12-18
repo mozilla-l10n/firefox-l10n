@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Сохранить объект как…
     .accesskey = х
+main-context-menu-save-link-to-pocket =
+    .label = Сохранить ссылку в { -pocket-brand-name }
+    .accesskey = н
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -161,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Выйти из полноэкранного режима
     .accesskey = ы
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Картинка в картинке
+    .accesskey = и
 main-context-menu-image-reload =
     .label = Перезагрузить изображение
     .accesskey = и
@@ -218,12 +226,21 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Скрыть этот плагин
     .accesskey = к
+main-context-menu-save-to-pocket =
+    .label = Сохранить страницу в { -pocket-brand-name }
+    .accesskey = ь
+main-context-menu-send-to-device =
+    .label = Отправить страницу на устройство
+    .accesskey = п
 main-context-menu-view-background-image =
     .label = Открыть фоновое изображение
     .accesskey = ы
 main-context-menu-keyword =
     .label = Добавить краткое имя для данного поиска…
     .accesskey = с
+main-context-menu-link-send-to-device =
+    .label = Отправить ссылку на устройство
+    .accesskey = п
 main-context-menu-frame =
     .label = В этом фрейме
     .accesskey = ф
