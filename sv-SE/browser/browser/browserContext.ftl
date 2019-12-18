@@ -39,9 +39,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Öppna länk
+    .accesskey = n
+main-context-menu-open-link-new-tab =
+    .label = Öppna länk i ny flik
+    .accesskey = f
 main-context-menu-open-link-new-window =
     .label = Öppna länk i nytt fönster
     .accesskey = Ö
+main-context-menu-open-link-new-private-window =
+    .label = Öppna länk i nytt privat fönster
+    .accesskey = i
 main-context-menu-bookmark-this-link =
     .label = Lägg till bokmärke för länkmål
     .accesskey = L
@@ -53,6 +62,9 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Kopiera e-postadress
+    .accesskey = e
 main-context-menu-copy-link =
     .label = Kopiera länkadress
     .accesskey = K
@@ -63,34 +75,106 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Spela upp
+    .accesskey = S
+main-context-menu-media-pause =
+    .label = Pausa
+    .accesskey = s
 
 ##
 
+main-context-menu-media-mute =
+    .label = Ljud av
+    .accesskey = L
+main-context-menu-media-unmute =
+    .label = Ljud på
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Visa kontroller
+    .accesskey = k
+main-context-menu-media-hide-controls =
+    .label = Dölj kontroller
+    .accesskey = k
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Helskärm
+    .accesskey = H
+main-context-menu-media-video-leave-fullscreen =
+    .label = Avsluta helskärm
+    .accesskey = h
+main-context-menu-image-reload =
+    .label = Hämta om bild
+    .accesskey = H
 main-context-menu-image-view =
     .label = Visa bild
+    .accesskey = V
+main-context-menu-video-view =
+    .label = Visa video
     .accesskey = V
 main-context-menu-image-copy-location =
     .label = Kopiera bildadress
     .accesskey = r
+main-context-menu-video-copy-location =
+    .label = Kopiera videoadress
+    .accesskey = r
+main-context-menu-audio-copy-location =
+    .label = Kopiera ljudadress
+    .accesskey = r
 main-context-menu-image-save-as =
     .label = Spara bild som…
     .accesskey = b
+main-context-menu-image-email =
+    .label = E-posta bild…
+    .accesskey = E
 main-context-menu-image-set-as-background =
     .label = Använd som skrivbordsbakgrund…
     .accesskey = s
+main-context-menu-image-info =
+    .label = Visa bildinfo
+    .accesskey = a
+main-context-menu-image-desc =
+    .label = Visa beskrivning
+    .accesskey = g
+main-context-menu-video-save-as =
+    .label = Spara video som…
+    .accesskey = o
+main-context-menu-audio-save-as =
+    .label = Spara ljud som…
+    .accesskey = o
+main-context-menu-video-image-save-as =
+    .label = Spara ögonblicksbild som…
+    .accesskey = ö
+main-context-menu-video-email =
+    .label = E-posta video…
+    .accesskey = E
+main-context-menu-audio-email =
+    .label = E-posta ljud…
+    .accesskey = E
+main-context-menu-plugin-play =
+    .label = Aktivera insticksmodulen
+    .accesskey = k
+main-context-menu-plugin-hide =
+    .label = Dölj insticksmodulen
+    .accesskey = ö
 main-context-menu-view-background-image =
     .label = Visa bakgrundsbild
     .accesskey = d
+main-context-menu-keyword =
+    .label = Lägg till ett nyckelord för denna sökning…
+    .accesskey = e
 main-context-menu-frame-show-this =
     .label = Visa endast denna ram
     .accesskey = e
+main-context-menu-frame-open-tab =
+    .label = Öppna ram i ny flik
+    .accesskey = n
 main-context-menu-frame-open-window =
     .label = Öppna ram i nytt fönster
     .accesskey = Ö
