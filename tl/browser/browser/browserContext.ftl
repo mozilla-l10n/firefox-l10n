@@ -39,12 +39,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = i-Bookmark ang Pahinang Ito
+    .accesskey = m
 main-context-menu-open-link-new-tab =
     .label = Buksan ang Link sa Bagong Tab
     .accesskey = T
 main-context-menu-open-link-new-window =
     .label = Buksan ang Link sa Bagong Window
     .accesskey = W
+main-context-menu-bookmark-this-link =
+    .label = i-Bookmark ang Link na Ito
+    .accesskey = L
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -70,15 +76,30 @@ main-context-menu-media-pause =
 main-context-menu-media-show-controls =
     .label = Ipakita ang Controls
     .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = Itago ang mga Control
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Umalis sa Full Screen
+    .accesskey = u
+main-context-menu-video-view =
+    .label = Tingnan ang Video
+    .accesskey = i
+main-context-menu-audio-copy-location =
+    .label = Kopyahin ang Lokasyon ng Audio
+    .accesskey = o
 main-context-menu-audio-save-as =
     .label = I-Save ang Audio Bilang…
     .accesskey = v
 main-context-menu-video-image-save-as =
     .label = I-save ang Snapshot Bilang…
     .accesskey = S
+main-context-menu-audio-email =
+    .label = i-Email ang Audio...
+    .accesskey = a
 main-context-menu-send-to-device =
     .label = Ipadala ang Pahina sa Device
     .accesskey = D
@@ -100,6 +121,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = I-load ang Frame muli
     .accesskey = l
+main-context-menu-frame-bookmark =
+    .label = i-Bookmark ang Frame na Ito
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = I-Save ang Frame Bilang…
     .accesskey = F
