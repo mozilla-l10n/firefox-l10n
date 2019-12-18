@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Natrag za jednu stranicu
+    .aria-label = Natrag
+    .accesskey = N
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Naprijed za jednu stranicu
+    .aria-label = Naprijed
+    .accesskey = a
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Osvježi
+    .accesskey = O
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Zaustavi
+    .accesskey = s
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -45,6 +59,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Zabilježi ovu stranicu
+    .accesskey = Z
 main-context-menu-open-link =
     .label = Otvori poveznicu
     .accesskey = O
