@@ -19,13 +19,13 @@ about-private-browsing-info-clipboard = kopirani tekst
 about-private-browsing-info-temporary-files = privremene datoteke
 about-private-browsing-info-cookies = kolačiće
 tracking-protection-start-tour = Pogledajte kako ovo funkcionira
-about-private-browsing-note = Privatno pregledavanje <strong>vas ne čini anonimnim</strong> na Internetu. Vaš poslodavac ili pružatelj Internet usluga svejedno može pratiti koje stranice posjećujete.
+about-private-browsing-note = Privatno pregledavanje <strong>te ne čini anonimnim</strong> na Internetu. Tvoj poslodavac ili pružatelj Internet usluga svejedno može pratiti koje stranice posjećuješ.
 about-private-browsing =
     .title = Pretraži web
 about-private-browsing-not-private = Trenutno niste u privatnom prozoru.
 content-blocking-title = Blokiranje sadržaja
 content-blocking-description = Neke web stranice koriste skripte za praćenje koje nadgledaju vašu aktivnost diljem Interneta. U privatnom načinu, { -brand-short-name } blokiranje sadržaja automatski blokira mnoge skripte za praćenje koje bi mogle prikupljati informacije o vašem pregledavanju.
-about-private-browsing-info-description = { -brand-short-name } čisti vašu povijest pretraživanja i pregledavanja kada izađete iz aplikacije ili zatvorite sve kartice i prozore privatnog pregledavanja. Ovo vas ne čini anonimnim prema web stranicama ili vašem pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržite privatnim što radite na internetu od ostalih osoba koje koriste ovo računalo.
+about-private-browsing-info-description = { -brand-short-name } čisti tvoju kronologiju pretraživanja i pregledavanja kad izađeš iz aplikacije ili kad zatvoriš sve kartice i prozore privatnog pregledavanja. Ovo te ne čini anonimnim prema web stranicama ili tvom pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržiš privatnim ono što radiš na internetu od ostalih osoba koje koriste ovo računalo.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
