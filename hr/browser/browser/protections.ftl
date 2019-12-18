@@ -49,7 +49,7 @@ tracker-tab-description = Web stranice mogu učitati vanjske reklame, video mate
 fingerprinter-tab-title = Čitači digitalnog otiska
 fingerprinter-tab-content = Čitači digitalnog otiska prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj profil. Pomoću ovog digitalnog otiska mogu te pratiti na različitim web stranicama. <a data-l10n-name="learn-more-link">Saznaj više</a>
 cryptominer-tab-title = Kripto rudari
-cryptominer-tab-content = Krupto rudari koriste računalnu snagu vašeg sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju. <a data-l10n-name="learn-more-link">Saznajte više</a>
+cryptominer-tab-content = Krupto rudari koriste računalnu snagu tvog sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju. <a data-l10n-name="learn-more-link">Saznaj više</a>
 lockwise-title = Nikad više ne zaboravi lozinku
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } sigurno sprema tvoje lozinke u pregledniku.
@@ -107,9 +107,9 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Curenje podataka je izložilo vaše informacije
-        [few] Curenja podataka je izložilo vaše informacije
-       *[other] Curenja podataka je izložilo vaše informacije
+        [one] Curenje podataka je izložilo tvoje informacije
+        [few] Curenja podataka je izložilo tvoje informacije
+       *[other] Curenja podataka je izložilo tvoje informacije
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
