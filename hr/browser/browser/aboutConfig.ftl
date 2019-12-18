@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Ovdje su zmajevi!
-about-config-warning-text = Mijenjanje ovih naprednih postavki može biti štetno za stabilnost, sigurnost i učinak ovog programa. Nastavite samo ako znate što radite.
+about-config-warning-text = Mijenjanje ovih naprednih postavki može biti štetno za stabilnost, sigurnost i učinak ovog programa. Nastavi samo ako znaš što radiš.
 about-config-warning-checkbox = Ponovno mi dosađujte s ovom porukom, molim vas!
 about-config-warning-button = Prihvaćam rizik
 about-config2-title = Napredne postavke

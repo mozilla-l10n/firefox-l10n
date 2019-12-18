@@ -45,5 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = d
     .secondarybuttonlabel = U redu, razumijem
     .secondarybuttonaccesskey = U
-appmenu-addon-private-browsing-message = Nove dodatke koje dodate u { -brand-shorter-name } neće raditi u privatnim prozorima kod ne dopustite ovo u postavkama.
-appmenu-addon-private-browsing-learn-more = Saznajte kako upravljati postavkama dodataka.
+appmenu-addon-private-browsing-message = Nove dodatke koje dodaš u { -brand-shorter-name } neće raditi u privatnim prozorima, ukoliko to ne dozvoliš u postavkama.
+appmenu-addon-private-browsing-learn-more = Saznaj kako upravljati postavkama dodataka

@@ -7,7 +7,7 @@ restore-page-tab-title = Obnovi sesiju
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Žao nam je. Imamo poteškoća s vraćanjem vaših stranica.
 restore-page-problem-desc = Imamo poteškoća s vraćanjem vaše posljednje sesije pregledavanja. Odaberite Obnovi sesiju za ponovni pokušaj.
-restore-page-try-this = Još uvijek ne možete vratiti vašu sesiju? Ponekad je uzrok problema kartica. Pregledajte posljednje kartice, uklonite kvačicu s kartica koje ne trebate vratiti, i zatim obnovite.
+restore-page-try-this = Još uvijek ne možeš vratiti sesiju? Ponekad je kartica uzrok tome. Pregledaj prethodne kartice, ukloni kvačicu s kartica koje ne želiš vratiti i zatim vrati sesiju.
 restore-page-hide-tabs = Sakrij prethodne kartice
 restore-page-show-tabs = Prikaži prethodne kartice
 # When tabs are distributed across multiple windows, this message is used as a
