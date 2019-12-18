@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Vanni in zu pe vedde a stöia
+           *[other] Sciacca o pomello drito do ratto ò tegni sciacou pe vedde a stöia
+        }
 
 ## Back
 
@@ -77,6 +83,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Sarva destinaçion co-o nomme…
     .accesskey = S
+main-context-menu-save-link-to-pocket =
+    .label = Sarva colegamento in { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -164,6 +173,9 @@ main-context-menu-video-view =
 main-context-menu-image-copy =
     .label = Còpia inmagine
     .accesskey = C
+main-context-menu-image-copy-location =
+    .label = Còpia indirisso inmagine
+    .accesskey = o
 main-context-menu-video-copy-location =
     .label = Còpia indirisso do videò
     .accesskey = o
@@ -203,6 +215,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ascondi sto plugin
     .accesskey = n
+main-context-menu-save-to-pocket =
+    .label = Sarva pagina in { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Manda Pagina a-o Dispoxitivo
     .accesskey = D
@@ -233,9 +248,18 @@ main-context-menu-frame-save-as =
 main-context-menu-frame-print =
     .label = Stanpa riquaddro…
     .accesskey = p
+main-context-menu-frame-view-source =
+    .label = Fanni vedde sorgente do riquaddro
+    .accesskey = v
 main-context-menu-frame-view-info =
     .label = Fanni vedde e informaçioin do riquaddro
     .accesskey = i
+main-context-menu-view-selection-source =
+    .label = Fanni vedde sorgente da parte seleçionâ
+    .accesskey = s
+main-context-menu-view-page-source =
+    .label = Fanni vedde sorgente da pagina
+    .accesskey = v
 main-context-menu-view-page-info =
     .label = Fanni vedde e informaçioin da pagina
     .accesskey = i
@@ -248,6 +272,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Ispeçionn-a elemento
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Ispeçionn-a propietæ de acesibilitæ
 main-context-menu-eme-learn-more =
     .label = Atre informaçioin un sce DRM…
     .accesskey = D
