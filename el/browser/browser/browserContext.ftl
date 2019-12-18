@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-this-link =
+    .label = Προσθήκη στους σελιδοδείκτες
+    .accesskey = δ
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -61,3 +64,12 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-send-to-device =
+    .label = Αποστολή σελίδας σε συσκευή
+    .accesskey = δ
+main-context-menu-link-send-to-device =
+    .label = Αποστολή συνδέσμου σε συσκευή
+    .accesskey = μ
+main-context-menu-frame-bookmark =
+    .label = Προσθήκη στους σελιδοδείκτες
+    .accesskey = λ
