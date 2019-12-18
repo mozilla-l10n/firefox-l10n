@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Падајући мени показује историјат
+           *[other] Десни клик или мени за приказ историјата
+        }
 
 ## Back
 
@@ -39,6 +45,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Отвори везу
+    .accesskey = в
+main-context-menu-open-link-new-tab =
+    .label = Отвори у новом језичку
+    .accesskey = ј
+main-context-menu-open-link-new-window =
+    .label = Отвори у новом прозору
+    .accesskey = п
+main-context-menu-bookmark-this-link =
+    .label = Забележи ову везу
+    .accesskey = в
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -51,13 +69,49 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Пуштање
+    .accesskey = П
+main-context-menu-media-pause =
+    .label = Пауза
+    .accesskey = з
 
 ##
 
+main-context-menu-media-unmute =
+    .label = Пусти тон
+    .accesskey = т
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-hide-controls =
+    .label = Сакриј контроле
+    .accesskey = С
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Користи цео екран
+    .accesskey = ц
+main-context-menu-video-view =
+    .label = Преглед видеа
+    .accesskey = в
+main-context-menu-image-info =
+    .label = Преглед података о слици
+    .accesskey = д
+main-context-menu-view-background-image =
+    .label = Прикажи позадинску слику
+    .accesskey = з
+main-context-menu-keyword =
+    .label = Додај кључну реч за ову претрагу…
+    .accesskey = Д
+main-context-menu-frame-print =
+    .label = Штампај оквир…
+    .accesskey = Ш
+main-context-menu-frame-view-info =
+    .label = Подаци о оквиру
+    .accesskey = к
+main-context-menu-bidi-switch-text =
+    .label = Промени усмерење текста
+    .accesskey = т
