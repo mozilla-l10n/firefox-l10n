@@ -84,6 +84,32 @@ main-context-menu-media-play =
 main-context-menu-media-mute =
     .label = Lûd út
     .accesskey = L
+main-context-menu-media-unmute =
+    .label = Lûd oan
+    .accesskey = L
+main-context-menu-media-play-speed =
+    .label = Ofspylfaasje
+    .accesskey = O
+main-context-menu-media-play-speed-slow =
+    .label = Stadich (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Normaal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Fluch (1,25×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = Flugger (1.5×)
+    .accesskey = r
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Healwize faasje (2×)
+    .accesskey = H
+main-context-menu-media-loop =
+    .label = Werhelje
+    .accesskey = W
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
