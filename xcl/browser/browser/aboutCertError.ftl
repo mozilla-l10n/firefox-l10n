@@ -22,3 +22,7 @@ cert-error-untrusted-default = Վկայագիրը տրամադրող աղբիւ�
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Վեբ կայքերը ապացուցում են իրենց ինքնութիւնը հաւաստագրերի միջոցով: { -brand-short-name } չի վստահում այս կայքին, քանի որ այն աւգտագործում է վկայագիր, որը վավեր չէ { $hostname }-ի համար:
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Վեբ կայքերը ապացուցում են իրենց ինքնութիւնը հաւաստագրերի միջոցով: { -brand-short-name } չի վստահում այս կայքին, քանի որ այն աւգտագործում է վկայագիր, որը վավեր չէ { $hostname } -ի համար: Վկայագիրը վաւեր է միայն <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> համար:
