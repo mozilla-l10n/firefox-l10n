@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Գնալ Նախորդ Էջ
+    .aria-label = Նախորդը
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Գնալ Հաջորդ Էջ
+    .aria-label = Հաջորդը
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Կրկին բեռնել
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Ընդհատել
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -108,6 +122,9 @@ main-context-menu-media-play-speed =
 main-context-menu-media-play-speed-slow =
     .label = Դանդաղ (0.5×)
     .accesskey = Դ
+main-context-menu-media-play-speed-normal =
+    .label = Նորմալ
+    .accesskey = N
 main-context-menu-media-play-speed-fast =
     .label = Արագ (1.25×)
     .accesskey = Ա
