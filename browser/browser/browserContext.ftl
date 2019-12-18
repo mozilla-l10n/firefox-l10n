@@ -71,6 +71,9 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = ईमेल पता की नकल लें
+    .accesskey = E
 main-context-menu-copy-link =
     .label = कड़ी स्थान की नक़ल लें
     .accesskey = a
@@ -147,8 +150,17 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = वीडियो देखें
     .accesskey = i
+main-context-menu-image-copy =
+    .label = छवि की नकल लें
+    .accesskey = y
 main-context-menu-image-copy-location =
     .label = छवि स्थान की नक़ल लें
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = वीडियो स्थान की नकल लें
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = ऑडियो स्थान की नकल लें
     .accesskey = o
 main-context-menu-image-save-as =
     .label = छवि ऐसे सहेजें…
