@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -54,9 +57,15 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-new-window =
     .label = এটা নতুন উইন্ডোত লিঙ্ক খোলক
     .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = এটা নতুন ব্যক্তিগত উইন্ডোত লিঙ্ক খোলক
+    .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = এই লিঙ্ক পত্ৰচিহ্ন কৰক
     .accesskey = L
+main-context-menu-save-link =
+    .label = এই ধৰণে লিঙ্ক সংৰক্ষণ কৰক…
+    .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -124,18 +133,36 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = অডিঅ' অৱস্থান কপি কৰক
     .accesskey = o
+main-context-menu-image-save-as =
+    .label = এই ধৰণে ছবি সংৰক্ষণ কৰক…
+    .accesskey = v
+main-context-menu-image-email =
+    .label = ছবি ই-মেইল কৰক…
+    .accesskey = g
 main-context-menu-image-set-as-background =
     .label = ডেস্কটপৰ পটভূমি হিচাপে সংহতি কৰক…
     .accesskey = S
 main-context-menu-image-info =
     .label = ছবি তথ্য দৰ্শন কৰক
     .accesskey = f
+main-context-menu-image-desc =
+    .label = বিৱৰণ দৰ্শন কৰক
+    .accesskey = D
+main-context-menu-audio-save-as =
+    .label = এই ধৰণে অডিঅ' সংৰক্ষণ কৰক…
+    .accesskey = v
 main-context-menu-video-image-save-as =
     .label = স্নেপশ্বটক এই ধৰণে সংৰক্ষণ কৰক…
     .accesskey = S
 main-context-menu-video-email =
     .label = ভিডিঅ' ই-মেইল কৰক…
     .accesskey = a
+main-context-menu-plugin-play =
+    .label = এই প্লাগিন সক্ৰিয় কৰক
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = এই প্লাগিন লুকাওক
+    .accesskey = H
 main-context-menu-view-background-image =
     .label = পটভূমিৰ ছবি দৰ্শন কৰক
     .accesskey = w
@@ -160,6 +187,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = এই ফ্ৰেইম পত্ৰচিহ্ন কৰক
     .accesskey = m
+main-context-menu-frame-save-as =
+    .label = এই ধৰণে ফ্ৰেইম সংৰক্ষণ কৰক…
+    .accesskey = F
 main-context-menu-frame-print =
     .label = ফ্ৰেইম প্ৰিন্ট কৰক…
     .accesskey = P
