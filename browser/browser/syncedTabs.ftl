@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Sinkronizirane kartice
-synced-tabs-sidebar-noclients-subtitle = Želite li vidjeti Vaše kartice s drugih uređaja ovdje?
-synced-tabs-sidebar-notsignedin = Prijavite se da biste vidjeli kartice s Vaših ostalih uređaja.
-synced-tabs-sidebar-intro = Pogledajte popis kartica s Vaših ostalih uređaja.
-synced-tabs-sidebar-unverified = Vaš račun mora biti potvrđen.
+synced-tabs-sidebar-noclients-subtitle = Želiš li ovdje vidjeti tvoje kartice s drugih uređaja?
+synced-tabs-sidebar-notsignedin = Prijavi se za prikaz kartica s tvojih ostalih uređaja.
+synced-tabs-sidebar-intro = Pogledaj popis kartica s tvojih ostalih uređaja.
+synced-tabs-sidebar-unverified = Tvoj račun mora biti potvrđen.
 synced-tabs-sidebar-notabs = Nema otvorenih kartica
 synced-tabs-sidebar-openprefs = Otvori { -sync-brand-short-name } postavke
-synced-tabs-sidebar-tabsnotsyncing = Uključite sinkronizaciju kartica da biste vidjeli kartice s vaših ostalih uređaja.
+synced-tabs-sidebar-tabsnotsyncing = Uključi sinkronizaciju kartica za prikaz kartica s tvojih ostalih uređaja.
 synced-tabs-sidebar-connect-another-device = Poveži dodatni uređaj
 synced-tabs-sidebar-search =
     .placeholder = Pretraži sinkronizirane kartice

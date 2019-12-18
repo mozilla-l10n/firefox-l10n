@@ -5,7 +5,7 @@
 sync-disconnect-dialog =
     .title = Odjavite se s { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = Želite li također ukloniti podatke preglednika na ovom računalu? Vaši { -sync-brand-name } podaci će svakako ostati sačuvani u vašem računu.
+sync-disconnect-heading = Želiš li također ukloniti podatke preglednika na ovom računalu? Neovisno o tome, tvoji { -sync-brand-name } podaci će svakako ostati u tvom računu.
 sync-disconnect-remove-sync-caption = Ukloni { -sync-brand-name } podatke
 sync-disconnect-remove-sync-data = Zabilješke, povijest, lozinke itd.
 sync-disconnect-remove-other-caption = Ukloni ostale privatne podatke

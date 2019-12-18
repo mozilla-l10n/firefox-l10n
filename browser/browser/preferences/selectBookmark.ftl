@@ -5,4 +5,4 @@
 select-bookmark-window =
     .title = Postavite početnu stranicu
     .style = width: 32em;
-select-bookmark-desc = Odaberite zabilješku za vašu početnu stranicu. Ako odaberete mapu, zabilješke iz te mape će se otvoriti u karticama.
+select-bookmark-desc = Odaberi zabilješku za tvoju početnu stranicu. Ako odabereš mapu, u karticama će se otvoriti zabilješke iz te mape.
