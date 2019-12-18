@@ -44,6 +44,9 @@ toolbar-button-page-save =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-link =
+    .label = Copiar la localisacion du lim
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -61,3 +64,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-plugin-play =
+    .label = Activar cèt’ agllèton
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = Recondre l’agllèton
+    .accesskey = H
