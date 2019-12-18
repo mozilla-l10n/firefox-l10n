@@ -45,6 +45,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Dobrir lo ligam dins un onglet novèl
     .accesskey = o
+main-context-menu-open-link-container-tab =
+    .label = Dobrir lo ligam dins un novèl onglet contèxtual
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Dobrir lo ligam dins una fenèstra novèla
     .accesskey = o
@@ -87,6 +90,26 @@ main-context-menu-media-unmute =
 main-context-menu-media-play-speed =
     .label = Velocitat de lectura
     .accesskey = l
+main-context-menu-media-play-speed-slow =
+    .label = Lenta (×0.5)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Normala
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rapida (×1.25)
+    .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Fòrça rapida (×1.5)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Subrerapida (×2)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = Tornar legir
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -151,12 +174,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Amagar aqueste plugin
     .accesskey = g
+main-context-menu-send-to-device =
+    .label = Enviar la pagina al periferic
+    .accesskey = D
 main-context-menu-view-background-image =
     .label = Afichar l'imatge de fons
     .accesskey = h
 main-context-menu-keyword =
     .label = Aisinas
     .accesskey = A
+main-context-menu-link-send-to-device =
+    .label = Enviar lo ligam al periferic
+    .accesskey = D
 main-context-menu-frame =
     .label = Aqueste quadre
     .accesskey = d
