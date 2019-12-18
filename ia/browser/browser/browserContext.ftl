@@ -6,7 +6,7 @@ navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
             [macos] Trahe a basso pro monstrar le chronologia
-           *[other] Clicca dextere o trahe a basso pro monstrar le chronologia
+           *[other] Face clic dextre o trahe a basso pro monstrar le chronologia
         }
 
 ## Back
@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Pausar
     .accesskey = P
 
-##
+
 
 main-context-menu-media-mute =
     .label = Tacer
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Celar le controlos
     .accesskey = C
 
-##
+
 
 main-context-menu-media-video-fullscreen =
     .label = Plen schermo
