@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Een pagina terug gaan
+    .aria-label = Terug
+    .accesskey = T
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Een pagina vooruit gaan
+    .aria-label = Vooruit
+    .accesskey = V
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Vernieuwen
+    .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stoppen
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,12 +62,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Bladwijzer voor deze pagina maken
+    .accesskey = m
 main-context-menu-open-link =
     .label = Koppeling openen
     .accesskey = o
 main-context-menu-open-link-new-tab =
     .label = Koppeling openen in nieuw tabblad
     .accesskey = t
+main-context-menu-open-link-container-tab =
+    .label = Koppeling openen in nieuw containertabblad
+    .accesskey = c
 main-context-menu-open-link-new-window =
     .label = Koppeling openen in nieuw venster
     .accesskey = v
@@ -66,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Koppeling opslaan als…
     .accesskey = l
+main-context-menu-save-link-to-pocket =
+    .label = Koppeling opslaan naar { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -96,6 +119,32 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Dempen
     .accesskey = D
+main-context-menu-media-unmute =
+    .label = Dempen opheffen
+    .accesskey = D
+main-context-menu-media-play-speed =
+    .label = Afspeelsnelheid
+    .accesskey = f
+main-context-menu-media-play-speed-slow =
+    .label = Langzaam (0,5×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normaal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Snel (1,25×)
+    .accesskey = S
+main-context-menu-media-play-speed-faster =
+    .label = Sneller (1,5×)
+    .accesskey = r
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Belachelijk (2×)
+    .accesskey = B
+main-context-menu-media-loop =
+    .label = Herhalen
+    .accesskey = H
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -115,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Volledig scherm verlaten
     .accesskey = v
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Afbeelding vernieuwen
     .accesskey = r
@@ -160,6 +214,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Momentopname opslaan als…
     .accesskey = M
+main-context-menu-video-email =
+    .label = Video e-mailen…
+    .accesskey = l
 main-context-menu-audio-email =
     .label = Audio e-mailen…
     .accesskey = a
@@ -169,9 +226,21 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Deze plug-in verbergen
     .accesskey = v
+main-context-menu-save-to-pocket =
+    .label = Pagina opslaan naar { -pocket-brand-name }
+    .accesskey = k
+main-context-menu-send-to-device =
+    .label = Pagina naar apparaat verzenden
+    .accesskey = d
 main-context-menu-view-background-image =
     .label = Achtergrondafbeelding bekijken
     .accesskey = h
+main-context-menu-keyword =
+    .label = Sleutelwoord voor deze zoekopdracht toevoegen…
+    .accesskey = S
+main-context-menu-link-send-to-device =
+    .label = Koppeling naar apparaat verzenden
+    .accesskey = d
 main-context-menu-frame =
     .label = Dit deelvenster
     .accesskey = D
@@ -220,3 +289,5 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Element inspecteren
     .accesskey = E
+main-context-menu-inspect-a11y-properties =
+    .label = Toegankelijkheidseigenschappen inspecteren
