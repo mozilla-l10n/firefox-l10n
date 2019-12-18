@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Сачувај везу као…
     .accesskey = о
+main-context-menu-save-link-to-pocket =
+    .label = Сачувај везу са услугом { -pocket-brand-name }
+    .accesskey = о
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -218,6 +221,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Сакриј овај прикључак
     .accesskey = ч
+main-context-menu-save-to-pocket =
+    .label = Сачувај страницу са услугом { -pocket-brand-name }
+    .accesskey = ј
 main-context-menu-send-to-device =
     .label = Пошаљи страницу на уређај
     .accesskey = у
