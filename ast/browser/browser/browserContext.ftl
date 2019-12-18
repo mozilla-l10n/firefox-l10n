@@ -61,3 +61,6 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-video-image-save-as =
+    .label = Guardar captura como…
+    .accesskey = G
