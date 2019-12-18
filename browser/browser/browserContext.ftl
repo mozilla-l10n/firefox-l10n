@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Klik og hold nede for at vise historik
+           *[other] Højreklik eller klik og hold nede for at vise historik
+        }
 
 ## Back
 
@@ -115,9 +121,15 @@ main-context-menu-image-copy-location =
 main-context-menu-video-copy-location =
     .label = Kopier videoadresse
     .accesskey = K
+main-context-menu-audio-copy-location =
+    .label = Kopier lydadresse
+    .accesskey = K
 main-context-menu-image-save-as =
     .label = Gem billede som…
     .accesskey = G
+main-context-menu-image-email =
+    .label = Send billede…
+    .accesskey = S
 main-context-menu-image-set-as-background =
     .label = Brug som skrivebordsbaggrund…
     .accesskey = B
@@ -132,6 +144,12 @@ main-context-menu-audio-save-as =
     .accesskey = G
 main-context-menu-video-image-save-as =
     .label = Gem snapshot som…
+    .accesskey = S
+main-context-menu-video-email =
+    .label = Send video…
+    .accesskey = d
+main-context-menu-audio-email =
+    .label = Send lyd…
     .accesskey = S
 main-context-menu-view-background-image =
     .label = Vis baggrundsbillede
