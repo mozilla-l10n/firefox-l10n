@@ -60,6 +60,9 @@ main-context-menu-open-link-new-private-window =
 
 ##
 
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
