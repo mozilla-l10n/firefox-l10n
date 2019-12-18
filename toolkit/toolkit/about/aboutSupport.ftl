@@ -56,9 +56,13 @@ app-basics-memory-use = หน่วยความจำที่ใช้
 app-basics-performance = ประสิทธิภาพ
 app-basics-service-workers = ตัวทำงานบริการที่ลงทะเบียน
 app-basics-profiles = โปรไฟล์
+app-basics-launcher-process-status = โปรเซสของตัวเรียกใช้
 app-basics-multi-process-support = หน้าต่างแบบหลายโปรเซส
 app-basics-remote-processes-count = โปรเซสระยะไกล
 app-basics-enterprise-policies = นโยบายองค์กร
+app-basics-location-service-key-google = คีย์ Google Location Service
+app-basics-safebrowsing-key-google = คีย์ Google Safebrowsing
+app-basics-key-mozilla = คีย์ Mozilla Location Service
 app-basics-safe-mode = โหมดปลอดภัย
 show-dir-label =
     { PLATFORM() ->
@@ -93,6 +97,8 @@ js-incremental-gc = ตัวเก็บกวาดขยะแบบเพิ
 a11y-title = การช่วยการเข้าถึง
 a11y-activated = เปิดใช้งานแล้ว
 a11y-force-disabled = ป้องกันการช่วยการเข้าถึง
+a11y-handler-used = ใช้ตัวจัดการที่เข้าถึงได้
+a11y-instantiator = ตัวสร้างอินสแตนซ์การช่วยการเข้าถึง
 library-version-title = รุ่น Library
 copy-text-to-clipboard-label = คัดลอกข้อความไปยังคลิปบอร์ด
 copy-raw-data-to-clipboard-label = คัดลอกข้อมูลดิบไปยังคลิปบอร์ด
@@ -111,6 +117,9 @@ restart-in-safe-mode-label = เริ่มการทำงานใหม่
 ## Media titles
 
 audio-backend = แบ็กเอนด์เสียง
+max-audio-channels = จำนวนแชนเนลสูงสุด
+channel-layout = เค้าโครงแชนเนลที่ต้องการ
+sample-rate = อัตราการสุ่มตัวอย่างที่ต้องการ
 media-title = สื่อ
 media-output-devices-title = อุปกรณ์ส่งออก
 media-input-devices-title = อุปกรณ์รับข้อมูล
@@ -123,8 +132,11 @@ media-device-format = รูปแบบ
 media-device-channels = ช่อง
 media-device-rate = อัตรา
 media-device-latency = เวลาแฝง
+media-capabilities-title = ความสามารถของสื่อ
+# List all the entries of the database.
+media-capabilities-enumerate = แจงนับฐานข้อมูล
 
-##
+
 
 intl-title = การทำให้เป็นสากลและการแปลเป็นภาษาท้องถิ่น
 intl-app-title = การตั้งค่าแอปพลิเคชัน
@@ -135,6 +147,19 @@ intl-locales-default = ภาษาเริ่มต้น
 intl-os-title = ระบบปฏิบัติการ
 intl-os-prefs-system-locales = ภาษาของระบบ
 intl-regional-prefs = ค่ากำหนดภูมิภาค
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันที่ผ่านมา
@@ -187,6 +212,7 @@ gpu-device-id = ID อุปกรณ์
 gpu-subsys-id = Subsys ID
 gpu-drivers = ไดรเวอร์
 gpu-ram = RAM
+gpu-driver-vendor = ผู้จำหน่ายไดรเวอร์
 gpu-driver-version = รุ่นไดรเวอร์
 gpu-driver-date = วันที่ไดรเวอร์
 gpu-active = ใช้งานอยู่
@@ -214,6 +240,13 @@ d3d9video-crash-guard = ตัวถอดรหัสวิดีโอ D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = กลับค่าเดิมเมื่อเริ่มการทำงานใหม่ในครั้งถัดไป
 gpu-process-kill-button = สิ้นสุดโปรเซส GPU
+gpu-device-reset = การกลับค่าเดิมของอุปกรณ์
+gpu-device-reset-button = ทริกเกอร์การกลับค่าเดิมของอุปกรณ์
+uses-tiling = ใช้ Tiling
+content-uses-tiling = ใช้ Tiling (เนื้อหา)
+off-main-thread-paint-enabled = เปิดใช้งาน Off Main Thread Painting แล้ว
+off-main-thread-paint-worker-count = จำนวนตัวทำงาน Off Main Thread Painting
+target-frame-rate = อัตราเฟรมเป้าหมาย
 min-lib-versions = รุ่นต่ำสุดที่ใช้ได้
 loaded-lib-versions = รุ่นที่ใช้อยู่
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
@@ -223,11 +256,14 @@ has-privileged-user-namespaces = เนมสเปซผู้ใช้สำ�
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 content-sandbox-level = ระดับ Sandbox ของโปรเซสเนื้อหา
+effective-content-sandbox-level = ระดับ Sandbox ของโปรเซสเนื้อหาที่มีประสิทธิภาพ
 sandbox-proc-type-content = เนื้อหา
 sandbox-proc-type-file = เนื้อหาไฟล์
 sandbox-proc-type-media-plugin = ปลั๊กอินสื่อ
 sandbox-proc-type-data-decoder = ตัวถอดรหัสข้อมูล
 launcher-process-status-0 = เปิดใช้งานอยู่
+launcher-process-status-1 = ถูกปิดใช้งานเนื่องจากความล้มเหลว
+launcher-process-status-2 = ถูกปิดใช้งานโดยการบังคับ
 launcher-process-status-unknown = ไม่ทราบสถานะ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
