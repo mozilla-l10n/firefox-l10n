@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = કડી આ રીતે સંગ્રહો...
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = { -pocket-brand-name } પર લિંક સાચવો
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -218,6 +221,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = આ પ્લગઇન છુપાવો
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = પૃષ્ઠને { -pocket-brand-name } પર સાચવો
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = ઉપકરણ પર પૃષ્ઠ મોકલો
     .accesskey = D
