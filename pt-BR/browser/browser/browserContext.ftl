@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Arrastar para baixo para mostrar o histórico
+           *[other] Clique com o botão direito ou clique e arraste para baixo para mostrar o histórico
+        }
 
 ## Back
 
@@ -180,12 +186,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ocultar este plugin
     .accesskey = c
+main-context-menu-send-to-device =
+    .label = Enviar página para dispositivo
+    .accesskey = d
 main-context-menu-view-background-image =
     .label = Ver imagem de fundo
     .accesskey = m
 main-context-menu-keyword =
     .label = Adicionar uma palavra-chave para esta pesquisa…
     .accesskey = r
+main-context-menu-link-send-to-device =
+    .label = Enviar Link para dispositivo
+    .accesskey = d
 main-context-menu-frame =
     .label = Este frame
     .accesskey = t
