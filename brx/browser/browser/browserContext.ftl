@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = मोनसे पेस उनफिन
+    .aria-label = उनथिं
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = मोनसे पेज बारहो
+    .aria-label = दावगा हो
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = फिन ल'ड खालाम
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = बन्द खालाम
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -54,6 +68,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = गोदान टेबआव लिंकखौ खेव
     .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = गोदान खनथेनार टेब आव लिंकखौ खेव
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = गोदान उइन्ड'आव लिंकखौ खेव
     .accesskey = W
@@ -99,6 +116,9 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = सोदोबगोनां खालाम
     .accesskey = m
+main-context-menu-media-play-speed-slow =
+    .label = लासै (0.5x)
+    .accesskey = S
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -156,6 +176,9 @@ main-context-menu-image-desc =
     .accesskey = D
 main-context-menu-video-save-as =
     .label = बादि भिडिअ'खौ थिना दोन...
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = बादि अडिअखौ थिना दोन...
     .accesskey = v
 main-context-menu-video-image-save-as =
     .label = बादि स्नेपसटखौ थिना दोन...
