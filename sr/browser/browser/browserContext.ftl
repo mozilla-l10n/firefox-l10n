@@ -93,6 +93,9 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Пригуши
+    .accesskey = г
 main-context-menu-media-unmute =
     .label = Пусти тон
     .accesskey = т
@@ -115,6 +118,9 @@ main-context-menu-media-play-speed-faster =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Прикажи контроле
+    .accesskey = л
 main-context-menu-media-hide-controls =
     .label = Сакриј контроле
     .accesskey = С
@@ -157,9 +163,15 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Преглед садржаја
     .accesskey = ж
+main-context-menu-video-save-as =
+    .label = Сачувај видео као…
+    .accesskey = ч
 main-context-menu-audio-save-as =
     .label = Сачувај аудио као…
     .accesskey = а
+main-context-menu-video-image-save-as =
+    .label = Сачувај слику као…
+    .accesskey = о
 main-context-menu-video-email =
     .label = Шаљи видео…
     .accesskey = ш
