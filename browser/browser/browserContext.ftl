@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Պահպանել Էջը որպես…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Հղումը Բացել Նոր Ներդիրում
     .accesskey = Բ
+main-context-menu-open-link-container-tab =
+    .label = Բացել հղումը Նոր Պարունակ Ներդիրում
+    .accesskey = դ
 main-context-menu-open-link-new-window =
     .label = Հղումը Բացել Նոր Պատուհանում
     .accesskey = Բ
@@ -60,6 +66,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = էջանշել Այս Հղումը
     .accesskey = Հ
+main-context-menu-save-link =
+    .label = Պահպանել Հղումը Որպես…
+    .accesskey = ո
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -78,6 +87,9 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Նվագարկել
+    .accesskey = Ն
 main-context-menu-media-pause =
     .label = Ընդմիջել
     .accesskey = Ը
@@ -90,6 +102,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ձայնով
     .accesskey = ա
+main-context-menu-media-play-speed =
+    .label = Նվագարկելու արագություն
+    .accesskey = ն
+main-context-menu-media-play-speed-slow =
+    .label = Դանդաղ (0.5×)
+    .accesskey = Դ
+main-context-menu-media-play-speed-fast =
+    .label = Արագ (1.25×)
+    .accesskey = Ա
+main-context-menu-media-play-speed-faster =
+    .label = Ավելի արագ (1,5×)
+    .accesskey = ա
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Անհավանական (2x)
+    .accesskey = Ա
+main-context-menu-media-loop =
+    .label = Օղակում
+    .accesskey = Օ
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -103,15 +135,24 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Բացել Լիաէկրան{ " " }
+    .accesskey = Բ
 main-context-menu-media-video-leave-fullscreen =
     .label = Դուրս գալ Լիաէկրան վիճակից
     .accesskey = Լ
+main-context-menu-image-reload =
+    .label = Կրկին բեռնել Նկարը
+    .accesskey = Կ
 main-context-menu-image-view =
     .label = Նայել Նկարը
     .accesskey = Ն
 main-context-menu-video-view =
     .label = Դիտել Հոլովակը
     .accesskey = Դ
+main-context-menu-image-copy =
+    .label = Կրկնօրինակել Նկարը
+    .accesskey = ր
 main-context-menu-image-copy-location =
     .label = Պատճենել Նկարի Հասցեն
     .accesskey = ա
@@ -136,21 +177,39 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Դիտել նկարագրությունը
     .accesskey = ն
+main-context-menu-video-save-as =
+    .label = Պահպանել Տեսանյութը Որպես...
+    .accesskey = լ
+main-context-menu-audio-save-as =
+    .label = Պահպանել ձայնանյութը որպես...
+    .accesskey = պ
+main-context-menu-video-image-save-as =
+    .label = Պահպանել էկրանի պատկերը որպես...
+    .accesskey = Պ
 main-context-menu-video-email =
     .label = Տեսանյութը ուղարկել էլ. փոստով...
     .accesskey = ս
+main-context-menu-audio-email =
+    .label = Ուղարկել էլ. փոստով...
+    .accesskey = ր
 main-context-menu-plugin-play =
     .label = Ակտիվացնել բաղադրիչը
     .accesskey = կ
 main-context-menu-plugin-hide =
     .label = Թաքցնել այս բաղադրիչը
     .accesskey = Թ
+main-context-menu-send-to-device =
+    .label = Ուղարկել էջը սարքին
+    .accesskey = ս
 main-context-menu-view-background-image =
     .label = Նայել Խորապատկերի Նկարը
     .accesskey = յ
 main-context-menu-keyword =
     .label = Ավելացնել Բանալի այս Որոնմանը…
     .accesskey = Բ
+main-context-menu-link-send-to-device =
+    .label = Ուղարկել հղումը սարքին
+    .accesskey = ս
 main-context-menu-frame =
     .label = Այս շրջանակում
     .accesskey = Ա
@@ -163,9 +222,15 @@ main-context-menu-frame-open-tab =
 main-context-menu-frame-open-window =
     .label = Շրջանակը բացել նոր պատուհանում
     .accesskey = Շ
+main-context-menu-frame-reload =
+    .label = Կրկին բեռնել շրջանակը
+    .accesskey = Կ
 main-context-menu-frame-bookmark =
     .label = Էջանշել Այս շրջանակը
     .accesskey = շ
+main-context-menu-frame-save-as =
+    .label = Պահպանել շրջանակը որպես…
+    .accesskey = Պ
 main-context-menu-frame-print =
     .label = Տպել շրջանակը…
     .accesskey = Տ
@@ -175,6 +240,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Տեղեկություն շրջանակի մասին
     .accesskey = Տ
+main-context-menu-view-selection-source =
+    .label = Դիտել Նշված Մասի Կոդը
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Դիտել Էջի Կոդը
     .accesskey = Դ
@@ -187,3 +255,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Փոխել Էջի Ուղղությունը
     .accesskey = Ո
+main-context-menu-inspect-element =
+    .label = Զննել տարրը
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = Իմանալ ավելին DRM-ի մասին...
+    .accesskey = D
