@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = احفظ الرابط باسم…
     .accesskey = ر
+main-context-menu-save-link-to-pocket =
+    .label = احفظ الرابط في { -pocket-brand-name }
+    .accesskey = ط
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -161,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = غادر ملء الشاشة
     .accesskey = م
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = صورة داخل صورة
+    .accesskey = خ
 main-context-menu-image-reload =
     .label = أعِد تحميل الصورة
     .accesskey = ع
@@ -218,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = أخفِ هذه المُلحقة
     .accesskey = خ
+main-context-menu-save-to-pocket =
+    .label = احفظ الصفحة في { -pocket-brand-name }
+    .accesskey = ح
 main-context-menu-send-to-device =
     .label = أرسِل الصفحة إلى جهاز
     .accesskey = ه
@@ -278,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = افحص العنصر
     .accesskey = ح
+main-context-menu-inspect-a11y-properties =
+    .label = افحص خصائص الإتاحة
 main-context-menu-eme-learn-more =
     .label = اطلع أكثر عن إدارة الحقوق الرقمية…
     .accesskey = د
