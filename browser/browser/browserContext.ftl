@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = 前のページへ戻ります
+    .aria-label = 戻る
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = 次のページへ進みます
+    .aria-label = 進む
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = 更新
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = 中止
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = このページをブックマーク
+    .accesskey = m
 main-context-menu-open-link =
     .label = 選択した URL を開く
     .accesskey = O
@@ -69,11 +86,17 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = 別名でリンク先を保存...
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = リンクを { -pocket-brand-name } に保存
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = メールアドレスをコピー
+    .accesskey = A
 main-context-menu-copy-link =
     .label = リンクの URL をコピー
     .accesskey = a
@@ -141,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = フルスクリーンモードを終了
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = ピクチャーインピクチャー
+    .accesskey = u
 main-context-menu-image-reload =
     .label = 画像を再読み込み
     .accesskey = R
@@ -198,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = このプラグインを非表示
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = ページを { -pocket-brand-name } に保存
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = ページを端末へ送信
     .accesskey = n
@@ -258,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = 要素を調査
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = アクセシビリティプロパティを調査
 main-context-menu-eme-learn-more =
     .label = DRM の詳細...
     .accesskey = D
