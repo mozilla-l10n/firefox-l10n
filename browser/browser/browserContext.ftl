@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Ir una pachina enta zaga
+    .aria-label = Enta zaga
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Ir una pachina enta debant
+    .aria-label = Enta debant
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Recargar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Aturar
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Marcar ista pachina con un marcapachinas
+    .accesskey = m
 main-context-menu-open-link =
     .label = Ubrir o vinclo
     .accesskey = l
@@ -108,6 +125,9 @@ main-context-menu-media-play-speed =
 main-context-menu-media-play-speed-slow =
     .label = Aspacio (0.5×)
     .accesskey = A
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
 main-context-menu-media-play-speed-fast =
     .label = Rapido (1.25×)
     .accesskey = R
