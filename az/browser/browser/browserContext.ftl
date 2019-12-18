@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Tarixçəni göstərmək üçün aşağı çəkin
+           *[other] Tarixçəni göstərmək üçün sağ klikləyin və ya aşağı çəkin
+        }
 
 ## Back
 
@@ -34,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Fərqli saxla…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -45,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Keçidi Yeni Vərəqdə Aç
     .accesskey = V
+main-context-menu-open-link-container-tab =
+    .label = Keçidi yeni konteyner vərəqində aç
+    .accesskey = z
 main-context-menu-open-link-new-window =
     .label = Keçidi Yeni Pəncərədə Aç
     .accesskey = P
@@ -62,6 +74,12 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = E-poçt ünvanını köçür
+    .accesskey = E
+main-context-menu-copy-link =
+    .label = Keçid ünvanını köçür
+    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -69,6 +87,9 @@ main-context-menu-save-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Oynat
+    .accesskey = O
 main-context-menu-media-pause =
     .label = Dayandır
     .accesskey = D
@@ -78,6 +99,32 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Səssiz
     .accesskey = S
+main-context-menu-media-unmute =
+    .label = Səsi aç
+    .accesskey = ə
+main-context-menu-media-play-speed =
+    .label = Oxutma Sürəti
+    .accesskey = S
+main-context-menu-media-play-speed-slow =
+    .label = Yavaş (0,5×)
+    .accesskey = Y
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Sürətli (1,25×)
+    .accesskey = S
+main-context-menu-media-play-speed-faster =
+    .label = Daha sürətli (1,5×)
+    .accesskey = D
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Çox sürətli (2×)
+    .accesskey = l
+main-context-menu-media-loop =
+    .label = Dövr
+    .accesskey = D
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -91,6 +138,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Tam Ekran
+    .accesskey = T
 main-context-menu-media-video-leave-fullscreen =
     .label = Tam ekrandan çıx
     .accesskey = e
@@ -103,6 +153,15 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Videoya bax
     .accesskey = V
+main-context-menu-image-copy-location =
+    .label = Şəkil Ünvanını Köçür
+    .accesskey = k
+main-context-menu-video-copy-location =
+    .label = Video Ünvanını Köçür
+    .accesskey = V
+main-context-menu-audio-copy-location =
+    .label = Səs Ünvanını Köçür
+    .accesskey = S
 main-context-menu-image-save-as =
     .label = Şəkili fərqli saxla…
     .accesskey = r
@@ -115,6 +174,12 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Şəkil məlumatlarını göstər
     .accesskey = r
+main-context-menu-image-desc =
+    .label = Açıqlamanı Göstər
+    .accesskey = A
+main-context-menu-video-save-as =
+    .label = Videonu Fərqli Saxla…
+    .accesskey = a
 main-context-menu-audio-save-as =
     .label = Səsi fərqli saxla…
     .accesskey = f
@@ -124,18 +189,27 @@ main-context-menu-video-image-save-as =
 main-context-menu-video-email =
     .label = Videonu e-poçt ilə göndər…
     .accesskey = V
+main-context-menu-audio-email =
+    .label = Audionu e-poçt ilə göndər…
+    .accesskey = -
 main-context-menu-plugin-play =
     .label = Bu qoşmanı aktivləşdir
     .accesskey = a
 main-context-menu-plugin-hide =
     .label = Bu qoşmanı gizlət
     .accesskey = g
+main-context-menu-send-to-device =
+    .label = Səhifəni cihaza göndər
+    .accesskey = d
 main-context-menu-view-background-image =
     .label = Arxa fon şəklini göstər
     .accesskey = r
 main-context-menu-keyword =
     .label = Bu axtarış üçün Açar söz əlavə et…
     .accesskey = A
+main-context-menu-link-send-to-device =
+    .label = Keçidi cihaza göndər
+    .accesskey = d
 main-context-menu-frame =
     .label = Bu Çərçivə
     .accesskey = u
@@ -160,9 +234,15 @@ main-context-menu-frame-save-as =
 main-context-menu-frame-print =
     .label = Çərçivəni Çap et…
     .accesskey = Ç
+main-context-menu-frame-view-source =
+    .label = Çərçivə qaynağını göstər
+    .accesskey = v
 main-context-menu-frame-view-info =
     .label = Çərçivə Məlumatlarını Göstər
     .accesskey = M
+main-context-menu-view-selection-source =
+    .label = Seçimin qaynaq kodunu göstər
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Səhifə qaynağını göstər
     .accesskey = a
@@ -175,3 +255,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Səhifənin səmtini dəyiş
     .accesskey = d
+main-context-menu-inspect-element =
+    .label = Obyekti araşdır
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = DRM haqqında ətraflı öyrən…
+    .accesskey = D
