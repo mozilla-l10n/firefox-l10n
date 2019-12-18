@@ -25,11 +25,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Actualitza
+    .accesskey = z
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Atura
+    .accesskey = A
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +54,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Afegeix la pàgina a les adreces d'interès
+    .accesskey = d
 main-context-menu-open-link =
     .label = Obre l'enllaç
     .accesskey = O
@@ -69,6 +78,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Anomena i desa el contingut de l'enllaç…
     .accesskey = s
+main-context-menu-save-link-to-pocket =
+    .label = Desa l'enllaç al { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -144,6 +156,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Surt de la pantalla completa
     .accesskey = p
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Imatge sobre imatge
+    .accesskey = I
 main-context-menu-image-reload =
     .label = Recarrega la imatge
     .accesskey = R
@@ -153,6 +170,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Visualitza el vídeo
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Copia la imatge
+    .accesskey = m
 main-context-menu-image-copy-location =
     .label = Copia la ubicació de la imatge
     .accesskey = o
@@ -198,6 +218,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Amaga aquest connector
     .accesskey = m
+main-context-menu-save-to-pocket =
+    .label = Desa la pàgina al { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Envia la pàgina al dispositiu
     .accesskey = d
