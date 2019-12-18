@@ -33,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Recargar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Cessar
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -56,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Adder un marcapaginas
+    .accesskey = m
 main-context-menu-open-link =
     .label = Aperir le ligamine
     .accesskey = A
@@ -77,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Salvar le ligamine como…
     .accesskey = S
+main-context-menu-save-link-to-pocket =
+    .label = Salvar le ligamine in { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -104,6 +116,12 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Tacer
+    .accesskey = T
+main-context-menu-media-unmute =
+    .label = Non plus tacer
+    .accesskey = p
 main-context-menu-media-play-speed =
     .label = Velocitate de presentation
     .accesskey = V
@@ -146,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Exir del plen schermo
     .accesskey = E
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Imagine annidate
+    .accesskey = a
 main-context-menu-image-reload =
     .label = Recargar le imagine
     .accesskey = R
@@ -203,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Celar iste plugin
     .accesskey = C
+main-context-menu-save-to-pocket =
+    .label = Salvar le pagina in { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Inviar le pagina a un apparato
     .accesskey = a
@@ -263,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspectar elemento
     .accesskey = I
+main-context-menu-inspect-a11y-properties =
+    .label = Controlar le proprietates de accessibilitate
 main-context-menu-eme-learn-more =
     .label = Saper plus super DRM…
     .accesskey = D
