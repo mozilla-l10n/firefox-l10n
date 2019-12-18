@@ -61,6 +61,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Закрыць поўны экран
+    .accesskey = З
 main-context-menu-view-selection-source =
     .label = Праглядзець зыходнік вылучэння
     .accesskey = л
