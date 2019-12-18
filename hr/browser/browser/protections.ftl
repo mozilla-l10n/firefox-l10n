@@ -90,7 +90,7 @@ lockwise-connected-device-status =
 monitor-title = Pazi na hakirane podatke
 monitor-link = Kako funkcionira
 monitor-header-content-no-account = Provjerite { -monitor-brand-name } kako biste vidjeli da li ste bili sudionik poznatog curenja podataka i dobivajte obavijesti ukoliko dođe do novog curenja podataka.
-monitor-header-content-signed-in = { -monitor-brand-name } vas upozorava ukoliko su se vaši podaci pojavili u krađi podataka.
+monitor-header-content-signed-in = { -monitor-brand-name } te upozorava ukoliko su se tvoji podaci pojavili u curenju podataka.
 monitor-sign-up = Prijavi se za upozorenja o hakiranju
 auto-scan = Danas automatski pretraženo
 # This string is displayed after a large numeral that indicates the total number

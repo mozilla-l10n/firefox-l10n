@@ -254,7 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvori ploču sa zahtjevima lokacije">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Otvori ploču za automatsku reprodukciju">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvori ploču s informacijama o instaliranim dodacima">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljanje dozvolama za ekstrakciju canvasa">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljanje dozvolama za izdvajanje platna">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori ploču s informacijama o lokalnom pohranjivanju">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvori ploču s informacijama o spremljenim lozinkama">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje korištenjem priključaka">
@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokirali ste pop-up prozore za ovu web stranicu.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ovoj ste stranici zabranili automatsko reproduciranje medija sa zvukom.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Blokirali ste izvoz canvas podataka za ovu web stranicu.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Blokirao/la si izdvajanje podataka platna za ovu web stranicu.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ovoj ste stranici zabranili korištenje Adobe Flash dodatka.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokirali ste MIDI pristup za ovu web stranicu.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ovoj stranici ste zabranili instalaciju dodataka.">
@@ -936,9 +936,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.">
 <!ENTITY protections.noTrackersFound.description "Programi za praćenje koji su poznati &brandShortName;u nisu otkriveni na ovoj stranici.">
 
-<!ENTITY protections.crossSiteTrackingCookies.description "Ovi kolačići vas prate od stranice do stranice i prikupljaju podatke o tome što radite na Internetu. Postavljeni su od trećih strana kao što su oglašivači i analitičke tvrtke.">
+<!ENTITY protections.crossSiteTrackingCookies.description "Ovi kolačići te prate od stranice do stranice i prikupljaju podatke o tome što radiš na Internetu. Postavljeni su od trećih strana kao što su oglašivači i analitičke tvrtke.">
 <!ENTITY protections.cryptominers.description "Krupto rudari koriste računalnu snagu vašeg sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju.">
-<!ENTITY protections.fingerprinters.description "Jedinstveni otisci prikupljaju postavke vašeg preglednika i računala kako bi stvorili vaš jedinstveni profil. Koristeći ovaj digitali otisak prsta, mogu vas pratiti diljem različitih web stranica.">
+<!ENTITY protections.fingerprinters.description "Jedinstveni otisci prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj jedinstveni profil. Koristeći ovaj digitalni otisak, mogu te pratiti diljem različitih web stranica.">
 <!ENTITY protections.trackingContent2.description "Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kȏd za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi.">
 <!ENTITY protections.socialMediaTrackers.description "Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, pregledavaš i vidiš na Internetu. Ovo omogućava tvrtkama društvenih mreža o tebi saznati više od onoga što dijeliš na svom profilu.">
 

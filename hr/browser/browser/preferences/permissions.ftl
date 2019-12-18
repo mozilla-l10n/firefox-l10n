@@ -59,7 +59,7 @@ permissions-capabilities-listitem-allow-session =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Upisano ime poslužitelja je netočno
-permissions-invalid-uri-label = Molim vas, upišite valjano ime poslužitelja
+permissions-invalid-uri-label = Upiši valjano ime glavnog računala
 
 ## Exceptions - Tracking Protection
 
@@ -119,7 +119,7 @@ permissions-site-autoplay-desc = Ovdje možete upravljati stranicama koje ne sli
 permissions-site-notification-window =
     .title = Postavke - dozvole za obavijesti
     .style = { permissions-window.style }
-permissions-site-notification-desc = Sljedeće web stranice su vas zatražile slanje obavijesti. Možete navesti koje su vam web stranice dopuštene slati obavijesti. Također možete blokirati nove zahtjeve za slanje obavijesti.
+permissions-site-notification-desc = Sljedeće web stranice su te zatražile za odobrenje slanja obavijesti. Možeš navesti web stranice, kojima dopuštaš slanje obavijesti. Također možeš blokirati nove zahtjeve za slanje obavijesti.
 permissions-site-notification-disable-label =
     .label = Blokiraj nove zahtjeve koji traže dozvolu za obavijesti
 permissions-site-notification-disable-desc = Ovo će spriječiti traženje dopuštenja za slanje obavijesti za svaku stranicu koja nije navedena. Blokiranje obavijesti može slomiti neke značajke web stranica.

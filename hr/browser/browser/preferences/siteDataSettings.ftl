@@ -50,5 +50,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Ukloni
 site-data-removing-header = Uklanjanje kolačića i podataka web stranice
-site-data-removing-desc = Uklanjanje kolačića i podataka web stranica bi vas moglo odjaviti s web stranica. Jeste li sigurni da želite napraviti promjene?
+site-data-removing-desc = Uklanjanje kolačića i podataka web stranica će te možda odjaviti s web stranica. Sigurno želiš napraviti promjene?
 site-data-removing-table = Kolačići i podaci web stranica će biti uklonjeni za sljedeće stranice
