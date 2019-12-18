@@ -54,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Otvori link u novom tabu
     .accesskey = t
+main-context-menu-open-link-container-tab =
+    .label = Otvori link u novom Container tabu
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Otvori link u novom prozoru
     .accesskey = O
@@ -99,6 +102,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Sa zvukom
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Brzina reprodukcije
+    .accesskey = i
+main-context-menu-media-play-speed-slow =
+    .label = Spora (0,5×)
+    .accesskey = S
+main-context-menu-media-play-speed-fast =
+    .label = Brza (1,25×)
+    .accesskey = B
+main-context-menu-media-play-speed-faster =
+    .label = Brža (1,5×)
+    .accesskey = r
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Suludo brza (2×)
+    .accesskey = u
+main-context-menu-media-loop =
+    .label = Ponavljaj
+    .accesskey = P
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -112,6 +135,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Prikaz preko cijelog ekrana
+    .accesskey = c
 main-context-menu-media-video-leave-fullscreen =
     .label = Izađi iz prikaza preko cijelog ekrana
     .accesskey = u
@@ -166,12 +192,21 @@ main-context-menu-audio-email =
 main-context-menu-plugin-play =
     .label = Aktiviraj ovaj plugin
     .accesskey = c
+main-context-menu-plugin-hide =
+    .label = Sakrij ovaj plugin
+    .accesskey = H
+main-context-menu-send-to-device =
+    .label = Pošalji stranicu na uređaj
+    .accesskey = u
 main-context-menu-view-background-image =
     .label = Prikaži pozadinsku sliku
     .accesskey = P
 main-context-menu-keyword =
     .label = Dodaj ključnu riječ za ovu pretragu…
     .accesskey = k
+main-context-menu-link-send-to-device =
+    .label = Pošalji link na uređaj
+    .accesskey = u
 main-context-menu-frame =
     .label = Ovaj okvir
     .accesskey = O
@@ -220,3 +255,6 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspekcija elementa
     .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = Saznajte više o DRM-u…
+    .accesskey = D
