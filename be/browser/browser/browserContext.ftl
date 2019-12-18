@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Пацягнуць уніз, каб паказаць гісторыю
+           *[other] Правы клік або пацягнуць уніз, каб паказаць гісторыю
+        }
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Папярэдняя старонка
+    .aria-label = Назад
+    .accesskey = Н
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Наступная старонка
+    .aria-label = Наперад
+    .accesskey = Н
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -19,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Абнавіць
+    .accesskey = А
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Спыніць
+    .accesskey = С
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -42,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Дадаць закладку на гэту старонкі
+    .accesskey = а
 main-context-menu-open-link =
     .label = Адкрыць спасылку
     .accesskey = А
@@ -71,6 +94,9 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Капіяваць адрас эл.пошты
+    .accesskey = э
 main-context-menu-copy-link =
     .label = Капіяваць спасылку
     .accesskey = с
@@ -152,6 +178,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Прагледзець відэа
     .accesskey = г
+main-context-menu-image-copy =
+    .label = Капіяваць выяву
+    .accesskey = я
 main-context-menu-image-copy-location =
     .label = Капіяваць спасылку на выяву
     .accesskey = а
@@ -185,6 +214,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Захаваць здымак як…
     .accesskey = З
+main-context-menu-video-email =
+    .label = Даслаць відэа эл.поштай…
+    .accesskey = д
 main-context-menu-audio-email =
     .label = Даслаць гук эл.поштай…
     .accesskey = Д
