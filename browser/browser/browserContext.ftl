@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Desloque para baixo para mostrar o histórico
+           *[other] Clique com o botão direito ou desloque para baixo para mostrar o histórico
+        }
 
 ## Back
 
@@ -34,11 +40,20 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Guardar página como…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Abrir ligação
+    .accesskey = A
+main-context-menu-save-link =
+    .label = Guardar ligação como…
+    .accesskey = G
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -51,13 +66,129 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Reproduzir
+    .accesskey = p
+main-context-menu-media-pause =
+    .label = Pausar
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Silenciar
+    .accesskey = S
+main-context-menu-media-unmute =
+    .label = Repor som
+    .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Velocidade de reprodução
+    .accesskey = V
+main-context-menu-media-play-speed-slow =
+    .label = Lenta (0.5×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rápida (1.25×)
+    .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Mais rápida (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Alucinante (2×)
+    .accesskey = l
+main-context-menu-media-loop =
+    .label = Repetir
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Mostrar controlos
+    .accesskey = c
+main-context-menu-media-hide-controls =
+    .label = Ocultar controlos
+    .accesskey = c
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Ecrã completo
+    .accesskey = E
+main-context-menu-image-reload =
+    .label = Recarregar imagem
+    .accesskey = R
+main-context-menu-image-view =
+    .label = Ver imagem
+    .accesskey = i
+main-context-menu-video-view =
+    .label = Ver vídeo
+    .accesskey = e
+main-context-menu-image-save-as =
+    .label = Guardar imagem como…
+    .accesskey = e
+main-context-menu-image-set-as-background =
+    .label = Definir como fundo do ambiente de trabalho…
+    .accesskey = e
+main-context-menu-image-desc =
+    .label = Ver descrição
+    .accesskey = d
+main-context-menu-video-save-as =
+    .label = Guardar vídeo como…
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = Guardar áudio como…
+    .accesskey = u
+main-context-menu-video-image-save-as =
+    .label = Guardar captura como…
+    .accesskey = G
+main-context-menu-plugin-play =
+    .label = Ativar este plugin
+    .accesskey = t
+main-context-menu-plugin-hide =
+    .label = Ocultar este plugin
+    .accesskey = u
+main-context-menu-view-background-image =
+    .label = Ver imagem de fundo
+    .accesskey = m
+main-context-menu-keyword =
+    .label = Adicionar uma palavra-chave para esta pesquisa…
+    .accesskey = A
+main-context-menu-frame =
+    .label = Este frame
+    .accesskey = t
+main-context-menu-frame-show-this =
+    .label = Mostrar apenas este frame
+    .accesskey = a
+main-context-menu-frame-reload =
+    .label = Recarregar frame
+    .accesskey = R
+main-context-menu-frame-save-as =
+    .label = Guardar frame como…
+    .accesskey = f
+main-context-menu-frame-print =
+    .label = Imprimir frame…
+    .accesskey = p
+main-context-menu-frame-view-source =
+    .label = Ver código fonte do frame
+    .accesskey = V
+main-context-menu-frame-view-info =
+    .label = Ver informação do frame
+    .accesskey = i
+main-context-menu-view-page-info =
+    .label = Ver informação da página
+    .accesskey = i
+main-context-menu-bidi-switch-text =
+    .label = Mudar direção do texto
+    .accesskey = x
+main-context-menu-bidi-switch-page =
+    .label = Mudar direção da página
+    .accesskey = g
+main-context-menu-inspect-element =
+    .label = Inspecionar elemento
+    .accesskey = t
