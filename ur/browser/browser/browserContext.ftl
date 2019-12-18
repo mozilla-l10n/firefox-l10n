@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = صفحہ محفوظ کریں بطور…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -60,6 +63,17 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-play-speed-slow =
+    .label = (0.5×) گنا اہستہ{ " " }
+    .accesskey = S
+main-context-menu-media-play-speed-fast =
+    .label = (1.25×) گنا تیز
+    .accesskey = F
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Ludicrous (2×)
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -70,3 +84,9 @@ toolbar-button-page-save =
 main-context-menu-view-selection-source =
     .label = انتخاب ماخذ نظارہ کریں
     .accesskey = e
+main-context-menu-inspect-element =
+    .label = عناصر چیک کریں
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = DRM کے بارے میں مزید سیکھیں
+    .accesskey = D
