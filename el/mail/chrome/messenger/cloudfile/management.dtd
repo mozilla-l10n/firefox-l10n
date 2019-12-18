@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY cloudfileMgmt.privacyPolicy "Πολιτική προστασίας απορρήτου">
-<!ENTITY cloudfileMgmt.termsOfService "Όροι χρήσης υπηρεσίας">
-<!ENTITY cloudfileMgmt.usedSpace "Χώρος σε χρήση:">
-<!ENTITY cloudfileMgmt.unusedSpace "Ελεύθερος χώρος:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Για περισσότερο χώρο">
