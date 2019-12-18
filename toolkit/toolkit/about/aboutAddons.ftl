@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Διαχείριση προσθέτων
+addons-page-title = Διαχείριση προσθέτων
 search-header =
     .placeholder = Αναζήτηση στο addons.mozilla.org
     .searchbuttonlabel = Αναζήτηση
@@ -448,3 +449,5 @@ theme-heading-search-label = Βρείτε περισσότερα θέματα
 extension-heading-search-label = Βρείτε περισσότερες επεκτάσεις
 addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.mozilla.org
+addon-page-options-button =
+    .title = Εργαλεία για όλα τα πρόσθετα
