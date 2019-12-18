@@ -925,6 +925,7 @@ permissions-location = Lokasi
 permissions-location-settings =
     .label = Setelan…
     .accesskey = t
+permissions-xr = Realitas Virtual
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Setelan…
