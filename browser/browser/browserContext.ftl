@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Rozwiń, by wyświetlić historię
+           *[other] Kliknij prawym przyciskiem lub rozwiń, by wyświetlić historię
+        }
 
 ## Back
 
@@ -39,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Otwórz odnośnik
+    .accesskey = O
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -51,9 +60,18 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Odtwórz
+    .accesskey = z
+main-context-menu-media-pause =
+    .label = Wstrzymaj
+    .accesskey = W
 
 ##
 
+main-context-menu-media-mute =
+    .label = Wycisz
+    .accesskey = c
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -61,6 +79,33 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Tryb pełnoekranowy
+    .accesskey = n
+main-context-menu-video-view =
+    .label = Pokaż wideo
+    .accesskey = k
+main-context-menu-video-copy-location =
+    .label = Kopiuj adres wideo
+    .accesskey = u
+main-context-menu-audio-copy-location =
+    .label = Kopiuj adres dźwięku
+    .accesskey = u
+main-context-menu-video-save-as =
+    .label = Zapisz wideo jako…
+    .accesskey = s
+main-context-menu-audio-save-as =
+    .label = Zapisz dźwięk jako…
+    .accesskey = s
+main-context-menu-video-image-save-as =
+    .label = Zapisz klatkę jako…
+    .accesskey = k
+main-context-menu-plugin-play =
+    .label = Aktywuj tę wtyczkę
+    .accesskey = w
+main-context-menu-plugin-hide =
+    .label = Ukryj tę wtyczkę
+    .accesskey = U
 main-context-menu-frame-print =
     .label = Drukuj ramkę…
     .accesskey = u
