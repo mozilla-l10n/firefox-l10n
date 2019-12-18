@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = ऐक पृष्ठ मागे जा
+    .aria-label = मागे
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = ऐक पृष्ठ पुढे जा
+    .aria-label = पुढे
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = पुन्हा लोड करा
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = थांबा
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = या पृष्ठाला वाचणखूण लावा
+    .accesskey = m
 main-context-menu-open-link =
     .label = दुवा उघडा
     .accesskey = O
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = दुवा असे साठवा…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = दुवा { -pocket-brand-name } मध्ये जतन करा
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -189,6 +209,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = ह्या प्लगइनला लपवा
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = पृष्ठ { -pocket-brand-name } मध्ये जतन करा
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = पृष्ठ उपकरणाला पाठवा
     .accesskey = D
@@ -249,6 +272,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = एलिमेंटची चौकशी करा
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = सुलभता गुणधर्मांची पाहणी करा
 main-context-menu-eme-learn-more =
     .label = DRM बद्दल अधिक जाणून घ्या…
     .accesskey = D
