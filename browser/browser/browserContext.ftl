@@ -39,6 +39,12 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link-new-window =
+    .label = Otvori poveznicu u novom prozoru
+    .accesskey = n
+main-context-menu-bookmark-this-link =
+    .label = Zabilježi ovu poveznicu
+    .accesskey = l
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -79,6 +85,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Napusti prikaz preko cijelog zaslona
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Ponovo učitaj sliku
     .accesskey = u
@@ -91,9 +100,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopiraj lokaciju zvuka
     .accesskey = z
+main-context-menu-image-email =
+    .label = Pošalji sliku e-poštom…
+    .accesskey = a
 main-context-menu-image-info =
     .label = Prikaži informacije o slici
     .accesskey = f
+main-context-menu-video-email =
+    .label = Pošalji video e-poštom…
+    .accesskey = a
 main-context-menu-frame-open-window =
     .label = Otvori okvir u novom prozoru
     .accesskey = p
