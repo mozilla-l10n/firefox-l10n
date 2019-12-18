@@ -83,6 +83,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Guardar enlace como…
     .accesskey = n
+main-context-menu-save-link-to-pocket =
+    .label = Guardar enlace en { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -158,6 +161,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Salir de la pantalla completa
     .accesskey = p
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Recargar imagen
     .accesskey = R
@@ -215,6 +223,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ocultar este plugin
     .accesskey = t
+main-context-menu-save-to-pocket =
+    .label = Guardar página en { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Enviar página al dispositivo
     .accesskey = v
