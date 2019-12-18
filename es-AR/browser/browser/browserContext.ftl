@@ -164,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Salir de pantalla completa
     .accesskey = e
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Recargar imagen
     .accesskey = R
@@ -284,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspeccionar elemento
     .accesskey = o
+main-context-menu-inspect-a11y-properties =
+    .label = Inspeccionar las propiedades de Accesibilidad
 main-context-menu-eme-learn-more =
     .label = Conocer más sobre DRM…
     .accesskey = D
