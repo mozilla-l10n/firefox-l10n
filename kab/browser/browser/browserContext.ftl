@@ -42,6 +42,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Ldi aseɣwen
+    .accesskey = L
 main-context-menu-open-link-new-window =
     .label = Ldi aseɣwen deg usfaylu amaynut
     .accesskey = d
@@ -171,6 +174,9 @@ main-context-menu-frame-print =
 main-context-menu-frame-view-source =
     .label = Tangalt aɣbalu n ukatar
     .accesskey = g
+main-context-menu-view-selection-source =
+    .label = Wali tangalt taɣbalut n tefrant
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Tangalt taɣbalut n usebter
     .accesskey = T
