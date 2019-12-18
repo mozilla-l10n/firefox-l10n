@@ -60,19 +60,46 @@ main-context-menu-save-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Lire
+    .accesskey = e
+main-context-menu-media-pause =
+    .label = Pause
+    .accesskey = e
 
 ##
 
+main-context-menu-media-mute =
+    .label = Muet
+    .accesskey = u
+main-context-menu-media-unmute =
+    .label = Audible
+    .accesskey = u
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Afficher les contrôles
+    .accesskey = c
+main-context-menu-media-hide-controls =
+    .label = Masquer les contrôles
+    .accesskey = c
 
 ##
 
 main-context-menu-media-video-leave-fullscreen =
     .label = Quitter le mode plein écran
     .accesskey = u
+main-context-menu-video-view =
+    .label = Afficher la vidéo
+    .accesskey = v
+main-context-menu-video-save-as =
+    .label = Enregistrer la vidéo sous…
+    .accesskey = s
+main-context-menu-audio-save-as =
+    .label = Enregistrer le fichier audio sous…
+    .accesskey = s
 main-context-menu-keyword =
     .label = Ajouter un mot-clé pour cette recherche…
     .accesskey = m
