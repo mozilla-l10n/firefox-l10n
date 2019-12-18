@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Go back one page
+    .aria-label = Back
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Go forward one page
+    .aria-label = Forward
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -78,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Save Link As…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Save Link to { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -153,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Exit Full Screen
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Reload Image
     .accesskey = R
@@ -210,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Hide this plugin
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = Save Page to { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Send Page to Device
     .accesskey = D
