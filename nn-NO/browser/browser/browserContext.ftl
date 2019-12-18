@@ -72,6 +72,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Slå på lyd
     .accesskey = S
+main-context-menu-media-play-speed =
+    .label = Avspelingsfart
+    .accesskey = A
+main-context-menu-media-play-speed-slow =
+    .label = Sakte (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Fort (1.25×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = Fortare (1.5×)
+    .accesskey = o
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Latterleg høg (2×)
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -103,9 +123,18 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Vis skildring
     .accesskey = k
+main-context-menu-plugin-play =
+    .label = Slå på dette programtillegget
+    .accesskey = a
 main-context-menu-plugin-hide =
     .label = Gøym dette programtillegget
     .accesskey = G
+main-context-menu-send-to-device =
+    .label = Send sida til eining
+    .accesskey = e
+main-context-menu-link-send-to-device =
+    .label = Send lenke til eining
+    .accesskey = e
 main-context-menu-frame =
     .label = Denne ramma
     .accesskey = D
