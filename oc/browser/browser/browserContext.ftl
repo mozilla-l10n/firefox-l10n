@@ -39,11 +39,23 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Dobrir lo ligam
+    .accesskey = o
+main-context-menu-open-link-new-tab =
+    .label = Dobrir lo ligam dins un onglet novèl
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copiar l'adreça electronica
+    .accesskey = e
+main-context-menu-copy-link =
+    .label = Copiar l'adreça del ligam
+    .accesskey = C
 
 ## Media (video/audio) controls
 ##
@@ -51,6 +63,12 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Legir
+    .accesskey = L
+main-context-menu-media-pause =
+    .label = Pausa
+    .accesskey = P
 
 ##
 
@@ -58,6 +76,24 @@ toolbar-button-page-save =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-hide-controls =
+    .label = Amagar los contraròtles
+    .accesskey = c
 
 ##
 
+main-context-menu-image-copy-location =
+    .label = Copiar l'adreça de l'imatge
+    .accesskey = o
+main-context-menu-video-image-save-as =
+    .label = Enregistrar un instantanèu jos…
+    .accesskey = s
+main-context-menu-frame-open-tab =
+    .label = Dobrir lo quadre dins un onglet novèl
+    .accesskey = o
+main-context-menu-frame-open-window =
+    .label = Dobrir lo quadre dins una fenèstra novèla
+    .accesskey = f
+main-context-menu-inspect-element =
+    .label = Examinar l'element
+    .accesskey = x
