@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Nim { -brand-product-name } mei jo mei
 onboarding-sync-welcome-content = Krij jo blêdwizers, skiednis, wachtwurden en oare ynstellingen op al jo apparaten.
 onboarding-sync-welcome-learn-more-link = Mear ynfo oer Firefox Accounts
-onboarding-sync-form-invalid-input = Jildich e-mailadres fereaske
-onboarding-sync-legal-notice = Troch fierder te gean, gean jo akkoard mei de <a data-l10n-name="terms">Tsjinstbetingsten</a> en <a data-l10n-name="privacy">Privacyferklearring</a>.
 onboarding-sync-form-input =
     .placeholder = E-mailadres
 onboarding-sync-form-continue-button = Trochgean
@@ -134,8 +132,8 @@ onboarding-send-tabs-text = Send Tabs dielt daliks siden tusken jo apparaten sû
 # tab's context menu.
 onboarding-send-tabs-text2 = Diel ienfâldich siden tusken jo apparaten sûnder keppelingen hoege te kopiearjen of de browser te ferlitten.
 onboarding-send-tabs-button = Start mei it gebrûk fan Send Tabs
-onboarding-pocket-anywhere-title = Lês en lústerje oeral
-onboarding-pocket-anywhere-text2 = Bewarje jo favorite ynhâld offline mei de { -pocket-brand-name }-app en lês, lústerje en sjoch wannear't it jo útkomt.
+onboarding-pocket-anywhere-title = Lês en harkje oeral
+onboarding-pocket-anywhere-text2 = Bewarje jo favorite ynhâld offline mei de { -pocket-brand-name }-app en lês, harkje en sjoch wannear't it jo útkomt.
 onboarding-pocket-anywhere-button = Probearje { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Nim jo wachtwurden oeral mei hinne
 onboarding-lockwise-passwords-text2 = Hâld jo bewarre wachtwurden feilich en meld jo ienfâldich by jo accounts oan mei { -lockwise-brand-name }.
