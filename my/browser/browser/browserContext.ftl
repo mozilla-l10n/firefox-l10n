@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-this-link =
+    .label = ဒီလင့်ခ်ကို မှတ်သားပါ
+    .accesskey = L
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -60,6 +63,29 @@ main-context-menu-copy-email =
 main-context-menu-media-unmute =
     .label = အသံ ပြန်ဖွင့်ပါ
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = ပြသနှုန်း
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = အနှေး(0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = ပုံမှန်
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = အမြန် (1.25×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = ပိုမြန် (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = အင်မတန်မြန်(2×)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = ပြန်ကျော့ရန်
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -67,6 +93,27 @@ main-context-menu-media-unmute =
 
 ##
 
+main-context-menu-image-reload =
+    .label = ရုပ်ပုံကို ပြန်ဖွင့်ပါ
+    .accesskey = R
+main-context-menu-image-view =
+    .label = ရုပ်ပုံကို ဖွင့်ကြည့်ရန်
+    .accesskey = I
+main-context-menu-video-view =
+    .label = ဗီဒီယိုကို ဖွင့်ကြည့်ရန်
+    .accesskey = i
+main-context-menu-image-copy-location =
+    .label = ရုပ်ပုံရှိရာ လမ်းကြောင်းကို ကူးယူပါ
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = ဗီဒီယိုရှိရာ လမ်းကြောင်းကို ကူးယူပါ
+    .accesskey = o
 main-context-menu-frame =
     .label = ဒီဘောင်{ " " }
     .accesskey = h
+main-context-menu-frame-bookmark =
+    .label = ဒီဘောင်ကို မှတ်သားပါ
+    .accesskey = m
+main-context-menu-eme-learn-more =
+    .label = DRM အကြောင်း ပိုမိုလေ့လာပါ…
+    .accesskey = D
