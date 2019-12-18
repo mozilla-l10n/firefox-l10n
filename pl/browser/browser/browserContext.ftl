@@ -48,6 +48,12 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = Otwórz odnośnik
     .accesskey = O
+main-context-menu-open-link-container-tab =
+    .label = Otwórz odnośnik w nowej karcie w nowym kontekście
+    .accesskey = k
+main-context-menu-open-link-new-private-window =
+    .label = Otwórz odnośnik w nowym oknie w trybie prywatnym
+    .accesskey = w
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -72,6 +78,9 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Wycisz
     .accesskey = c
+main-context-menu-media-play-speed-normal =
+    .label = Normalna
+    .accesskey = N
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -91,6 +100,9 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopiuj adres dźwięku
     .accesskey = u
+main-context-menu-image-desc =
+    .label = Pokaż opis
+    .accesskey = s
 main-context-menu-video-save-as =
     .label = Zapisz wideo jako…
     .accesskey = s
