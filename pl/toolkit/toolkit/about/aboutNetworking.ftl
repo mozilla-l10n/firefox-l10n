@@ -58,7 +58,7 @@ rcwn-avg-short = Krótka średnia
 rcwn-avg-long = Długa średnia
 rcwn-std-dev-long = Odchylenie standardowe długiej
 rcwn-cache-slow = Powolne trafienia
-rcwn-cache-not-slow = Normalne trafienia
+rcwn-cache-not-slow = Zwykłe trafienia
 networkid = Identyfikator sieci
 networkid-id = Identyfikator sieci
 
