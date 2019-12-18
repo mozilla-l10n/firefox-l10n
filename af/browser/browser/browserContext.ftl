@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Stoor bladsy as…
+    .accesskey = b
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Open skakel in nuwe oortjie
     .accesskey = o
+main-context-menu-open-link-container-tab =
+    .label = Open skakel in nuwe konteksoortjie
+    .accesskey = t
 main-context-menu-open-link-new-window =
     .label = Open skakel in nuwe venster
     .accesskey = v
@@ -96,6 +102,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ontdower
     .accesskey = d
+main-context-menu-media-play-speed =
+    .label = Speelspoed
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Stadig (0,5×)
+    .accesskey = S
+main-context-menu-media-play-speed-fast =
+    .label = Vinnig (1,25×)
+    .accesskey = V
+main-context-menu-media-play-speed-faster =
+    .label = Vinniger (1,5×)
+    .accesskey = n
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Blitsvinnig (2×)
+    .accesskey = B
+main-context-menu-media-loop =
+    .label = Speel in lus
+    .accesskey = l
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +135,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Volskerm
+    .accesskey = V
 main-context-menu-media-video-leave-fullscreen =
     .label = Verlaat volskerm
     .accesskey = o
@@ -121,6 +150,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Bekyk video
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Kopieer prent
+    .accesskey = K
 main-context-menu-image-copy-location =
     .label = Kopieer prentligging
     .accesskey = o
@@ -145,6 +177,9 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Bekyk beskrywing
     .accesskey = b
+main-context-menu-video-save-as =
+    .label = Stoor video as…
+    .accesskey = v
 main-context-menu-audio-save-as =
     .label = Stoor klank as…
     .accesskey = o
@@ -154,15 +189,27 @@ main-context-menu-video-image-save-as =
 main-context-menu-video-email =
     .label = E-pos video…
     .accesskey = o
+main-context-menu-audio-email =
+    .label = E-pos klank…
+    .accesskey = a
 main-context-menu-plugin-play =
     .label = Aktiveer dié inprop
     .accesskey = k
 main-context-menu-plugin-hide =
     .label = Versteek dié inprop
     .accesskey = V
+main-context-menu-send-to-device =
+    .label = Stuur bladsy na toestel
+    .accesskey = r
 main-context-menu-view-background-image =
     .label = Bekyk agtergrondprent
     .accesskey = k
+main-context-menu-keyword =
+    .label = Voeg 'n sleutelwoord vir dié soektog by…
+    .accesskey = s
+main-context-menu-link-send-to-device =
+    .label = Stuur skakel na toestel
+    .accesskey = r
 main-context-menu-frame =
     .label = Hierdie raam
     .accesskey = i
@@ -193,6 +240,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Bekyk raaminfo
     .accesskey = i
+main-context-menu-view-selection-source =
+    .label = Bekyk bron van gemerkte deel
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Bekyk bron van bladsy
     .accesskey = B
@@ -208,3 +258,6 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspekteer element
     .accesskey = n
+main-context-menu-eme-learn-more =
+    .label = Meer inligting oor DRM…
+    .accesskey = D
