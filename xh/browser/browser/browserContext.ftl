@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Hlisa ukubonisa imbali
+           *[other] Cofa ekunene okanye hlisa ukubonisa imbali
+        }
 
 ## Back
 
@@ -39,11 +45,32 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Vula ikhonkco
+    .accesskey = V
+main-context-menu-open-link-new-tab =
+    .label = Vula ikhonkco kwithebhu entsha
+    .accesskey = k
+main-context-menu-open-link-new-window =
+    .label = Vula ikhonkco kwifestile entsha
+    .accesskey = k
+main-context-menu-open-link-new-private-window =
+    .label = Vula iKhonkco kwiWindow yaBucala eNtsha
+    .accesskey = k
+main-context-menu-save-link =
+    .label = Gcina ikhonkco njenge…
+    .accesskey = c
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Kopa idilesi yeimeyile
+    .accesskey = y
+main-context-menu-copy-link =
+    .label = Kopa iNdawo yeKhonkco
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -51,13 +78,79 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Dlala
+    .accesskey = D
 
 ##
 
+main-context-menu-media-mute =
+    .label = Thulisa isandi
+    .accesskey = T
+main-context-menu-media-unmute =
+    .label = Buyisela isandi
+    .accesskey = y
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Bonisa izixhobo zolawulo
+    .accesskey = i
+main-context-menu-media-hide-controls =
+    .label = Tshonisa izixhobo zolawulo
+    .accesskey = i
 
 ##
 
+main-context-menu-image-reload =
+    .label = Layisha ngokutsha uMfanekiso
+    .accesskey = L
+main-context-menu-video-view =
+    .label = Jonga ividiyo
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Kopa iNdawo yeVidiyo
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Kopa iNdawo yeSandi
+    .accesskey = o
+main-context-menu-image-set-as-background =
+    .label = Seta Njengokungasemva eskrinini…
+    .accesskey = S
+main-context-menu-image-info =
+    .label = Bona iNkcukacha yoMfanekiso
+    .accesskey = u
+main-context-menu-audio-save-as =
+    .label = Gcina okunesandi njenge…
+    .accesskey = n
+main-context-menu-video-image-save-as =
+    .label = Gcina isnepshothi njenge…
+    .accesskey = G
+main-context-menu-plugin-play =
+    .label = Vuselela le softwe incedisayo
+    .accesskey = u
+main-context-menu-view-background-image =
+    .label = Jonga umfuziselo ongasemva eskrinini
+    .accesskey = g
+main-context-menu-keyword =
+    .label = Yongeza Igama Elisentloko koku kukhangela…
+    .accesskey = I
+main-context-menu-frame-show-this =
+    .label = Bonisa Esi Sakhelo Kuphela
+    .accesskey = B
+main-context-menu-frame-print =
+    .label = Printa iSakhelo…
+    .accesskey = P
+main-context-menu-frame-view-source =
+    .label = Jonga umthombo wefreyim
+    .accesskey = J
+main-context-menu-frame-view-info =
+    .label = Jonga Inkcazelo yefreyim
+    .accesskey = I
+main-context-menu-bidi-switch-text =
+    .label = Tshintsha icala lombhalo
+    .accesskey = s
+main-context-menu-bidi-switch-page =
+    .label = Tshintsha iNdawo eliya kulo iPhepha
+    .accesskey = i
