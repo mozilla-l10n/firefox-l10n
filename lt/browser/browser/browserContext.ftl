@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Palaikę nuspaustą pelės mygtuką, pamatysite kortelės žurnalą
+           *[other] Spustelėję dešiniu pelės mygtuku arba palaikę nuspaustą kairįjį, pamatysite kortelės žurnalą
+        }
 
 ## Back
 
@@ -39,6 +45,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Atverti saitą
+    .accesskey = A
+main-context-menu-open-link-new-window =
+    .label = Atverti saitą naujame lange
+    .accesskey = l
+main-context-menu-open-link-new-private-window =
+    .label = Atverti saitą naujame privačiojo naršymo lange
+    .accesskey = p
+main-context-menu-save-link =
+    .label = Įrašyti saistomą objektą kaip…
+    .accesskey = Į
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -67,12 +85,57 @@ main-context-menu-copy-link =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Grįžti iš viso ekrano
+    .accesskey = G
+main-context-menu-image-reload =
+    .label = Atsiųsti paveikslą iš naujo
+    .accesskey = n
 main-context-menu-image-view =
     .label = Rodyti paveikslą
+    .accesskey = y
+main-context-menu-video-view =
+    .label = Rodyti vaizdo įrašą
     .accesskey = y
 main-context-menu-image-copy-location =
     .label = Kopijuoti paveikslo adresą
     .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Kopijuoti vaizdo adresą
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Kopijuoti garso adresą
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Įrašyti paveikslą kaip…
+    .accesskey = r
+main-context-menu-image-email =
+    .label = Išsiųsti paveikslą el. paštu…
+    .accesskey = s
+main-context-menu-image-info =
+    .label = Rodyti paveikslo savybes
+    .accesskey = s
+main-context-menu-image-desc =
+    .label = Rodyti aprašą
+    .accesskey = o
+main-context-menu-video-save-as =
+    .label = Įrašyti vaizdą kaip…
+    .accesskey = r
+main-context-menu-audio-save-as =
+    .label = Įrašyti garsą kaip…
+    .accesskey = r
+main-context-menu-video-email =
+    .label = Išsiųsti vaizdo įrašą el. paštu…
+    .accesskey = s
+main-context-menu-audio-email =
+    .label = Išsiųsti garso įrašą el. paštu…
+    .accesskey = s
+main-context-menu-plugin-play =
+    .label = Aktyvinti šį papildinį
+    .accesskey = A
+main-context-menu-plugin-hide =
+    .label = Slėpti šį papildinį
+    .accesskey = S
 main-context-menu-view-background-image =
     .label = Rodyti fono piešinį
     .accesskey = f
