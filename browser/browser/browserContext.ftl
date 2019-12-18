@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন
+    .aria-label = পূর্ববর্তী
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন
+    .aria-label = পরবর্তী
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = নতুন করে প্রদর্শন করুন
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = থামান
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
+    .accesskey = m
 main-context-menu-open-link =
     .label = লিংক খুলুন
     .accesskey = O
@@ -261,6 +278,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = সামগ্রী নিরীক্ষণ করুন
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = অ্যাক্সেসযোগ্য বৈশিষ্ট্যাবলী পরিদর্শন করুন
 main-context-menu-eme-learn-more =
     .label = DRM সম্পর্কে আরও জানুন...
     .accesskey = D
