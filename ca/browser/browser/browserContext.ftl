@@ -54,6 +54,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-new-window =
     .label = Obre l'enllaç en una finestra nova
     .accesskey = f
+main-context-menu-open-link-new-private-window =
+    .label = Obre l'enllaç en una finestra privada nova
+    .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Afegeix l'enllaç a les adreces d'interès
     .accesskey = l
@@ -81,6 +84,9 @@ main-context-menu-copy-link =
 main-context-menu-media-play =
     .label = Reprodueix
     .accesskey = R
+main-context-menu-media-pause =
+    .label = Pausa
+    .accesskey = P
 
 ##
 
@@ -103,6 +109,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Surt de la pantalla completa
+    .accesskey = p
 main-context-menu-image-reload =
     .label = Recarrega la imatge
     .accesskey = R
@@ -133,6 +142,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Visualitza la informació de la imatge
     .accesskey = f
+main-context-menu-image-desc =
+    .label = Visualitza la descripció
+    .accesskey = d
 main-context-menu-video-save-as =
     .label = Anomena i desa el vídeo…
     .accesskey = v
