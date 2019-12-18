@@ -122,6 +122,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Kawjuɗo (2×)
     .accesskey = K
+main-context-menu-media-loop =
+    .label = Jirlol
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
