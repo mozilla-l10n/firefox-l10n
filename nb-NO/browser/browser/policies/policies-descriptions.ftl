@@ -13,7 +13,7 @@
 policy-3rdparty = Angi policyer som WebExtensions kan få tilgang til via chrome.storage.managed.
 policy-AppUpdateURL = Angi egendefinert programoppdateringsadresse.
 policy-Authentication = Konfigurer integrert godkjenning for nettsteder som støtter det.
-policy-BlockAboutAddons = Blokker tilgang til Utvidelsesbehandleren (about:addons)
+policy-BlockAboutAddons = Blokker tilgang til Utvidelsesbehandleren (about:addons).
 policy-BlockAboutConfig = Blokker tilgang til about:config-siden.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-siden.
 policy-BlockAboutSupport = Blokker tilgang til about:support-siden.
