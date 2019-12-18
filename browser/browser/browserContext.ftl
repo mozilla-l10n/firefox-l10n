@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Gorde orria honela…
+    .accesskey = G
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Ireki fitxa berrian
     .accesskey = t
+main-context-menu-open-link-container-tab =
+    .label = Ireki lotura edukiontzi-fitxa berrian
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Ireki leiho berrian
     .accesskey = l
@@ -96,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ez mututu
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Erreprodukzio-abiadura
+    .accesskey = b
+main-context-menu-media-play-speed-slow =
+    .label = Motela (0,5×)
+    .accesskey = M
+main-context-menu-media-play-speed-normal =
+    .label = Arrunta
+    .accesskey = A
+main-context-menu-media-play-speed-fast =
+    .label = Azkarra (1,25×)
+    .accesskey = z
+main-context-menu-media-play-speed-faster =
+    .label = Azkarragoa (1,5×)
+    .accesskey = r
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Abiadura bizia (2×)
+    .accesskey = b
+main-context-menu-media-loop =
+    .label = Begizta
+    .accesskey = B
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +138,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Pantaila osoa
+    .accesskey = P
 main-context-menu-media-video-leave-fullscreen =
     .label = Irten pantaila osotik
     .accesskey = s
@@ -121,6 +153,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ikusi bideoa
     .accesskey = k
+main-context-menu-image-copy =
+    .label = Kopiatu irudia
+    .accesskey = K
 main-context-menu-image-copy-location =
     .label = Kopiatu irudiaren helbidea
     .accesskey = o
@@ -166,12 +201,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ezkutatu plugin hau
     .accesskey = E
+main-context-menu-send-to-device =
+    .label = Bidali orria gailura
+    .accesskey = g
 main-context-menu-view-background-image =
     .label = Ikusi atzeko planoko irudia
     .accesskey = a
 main-context-menu-keyword =
     .label = Gehitu bilaketa honentzat gako-hitza…
     .accesskey = k
+main-context-menu-link-send-to-device =
+    .label = Bidali lotura gailura
+    .accesskey = g
 main-context-menu-frame =
     .label = Marko hau
     .accesskey = h
@@ -202,6 +243,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Ikusi markoaren informazioa
     .accesskey = u
+main-context-menu-view-selection-source =
+    .label = Ikusi aukeraren iturburua
+    .accesskey = u
 main-context-menu-view-page-source =
     .label = Ikusi orriaren iturburua
     .accesskey = o
@@ -214,3 +258,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Aldatu orriaren norabidea
     .accesskey = n
+main-context-menu-inspect-element =
+    .label = Ikuskatu elementua
+    .accesskey = s
+main-context-menu-eme-learn-more =
+    .label = DRMri buruzko argibide gehiago…
+    .accesskey = D
