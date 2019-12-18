@@ -39,6 +39,21 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Keçidi Aç
+    .accesskey = A
+main-context-menu-open-link-new-tab =
+    .label = Keçidi Yeni Vərəqdə Aç
+    .accesskey = V
+main-context-menu-open-link-new-window =
+    .label = Keçidi Yeni Pəncərədə Aç
+    .accesskey = P
+main-context-menu-open-link-new-private-window =
+    .label = Keçidi Yeni Məxfi Pəncərədə Aç
+    .accesskey = M
+main-context-menu-bookmark-this-link =
+    .label = Bu Keçidi Əlfəcinlə
+    .accesskey = K
 main-context-menu-save-link =
     .label = Bağlantını fərqli saxla…
     .accesskey = f
@@ -60,6 +75,9 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Səssiz
+    .accesskey = S
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -76,6 +94,12 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-leave-fullscreen =
     .label = Tam ekrandan çıx
     .accesskey = e
+main-context-menu-image-reload =
+    .label = Şəkli Yenilə
+    .accesskey = Y
+main-context-menu-image-view =
+    .label = Şəkli Göstər
+    .accesskey = Ş
 main-context-menu-video-view =
     .label = Videoya bax
     .accesskey = V
@@ -100,15 +124,45 @@ main-context-menu-video-image-save-as =
 main-context-menu-video-email =
     .label = Videonu e-poçt ilə göndər…
     .accesskey = V
+main-context-menu-plugin-play =
+    .label = Bu qoşmanı aktivləşdir
+    .accesskey = a
+main-context-menu-plugin-hide =
+    .label = Bu qoşmanı gizlət
+    .accesskey = g
 main-context-menu-view-background-image =
     .label = Arxa fon şəklini göstər
     .accesskey = r
+main-context-menu-keyword =
+    .label = Bu axtarış üçün Açar söz əlavə et…
+    .accesskey = A
+main-context-menu-frame =
+    .label = Bu Çərçivə
+    .accesskey = u
 main-context-menu-frame-show-this =
     .label = Sadəcə bu çərçivəni göstər
     .accesskey = c
+main-context-menu-frame-open-tab =
+    .label = Çərçivəni Yeni Vərəqdə Aç
+    .accesskey = V
+main-context-menu-frame-open-window =
+    .label = Çərçivəni Yeni Pəncərədə Aç
+    .accesskey = P
 main-context-menu-frame-reload =
     .label = Çərçivəni yenilə
     .accesskey = e
+main-context-menu-frame-bookmark =
+    .label = Bu Çərçivəni Əlfəcinlə
+    .accesskey = Ə
+main-context-menu-frame-save-as =
+    .label = Çərçivəni Fərqli Saxla…
+    .accesskey = Ç
+main-context-menu-frame-print =
+    .label = Çərçivəni Çap et…
+    .accesskey = Ç
+main-context-menu-frame-view-info =
+    .label = Çərçivə Məlumatlarını Göstər
+    .accesskey = M
 main-context-menu-view-page-source =
     .label = Səhifə qaynağını göstər
     .accesskey = a
