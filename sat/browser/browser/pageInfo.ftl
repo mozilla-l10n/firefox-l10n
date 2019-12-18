@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
 menu-copy =
-    .label = नोकोल (C)
+    .label = नोकोल
     .accesskey = C
 menu-select-all =
-    .label = जोतो बाछाव  (A)
+    .label = जोतो बाछाव
     .accesskey = A
 general-tab =
     .label = साधारोन

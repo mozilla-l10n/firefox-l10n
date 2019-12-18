@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label          "हा़ली को ला़गित् ञेंल">
 <!ENTITY listEmpty.search.label               "जाहां गे एड-ऑनस मिला़व बाय ञाम दाड़ेयाक् ना">
 <!ENTITY listEmpty.button.label               "खोंजा-आदेर बाबोत् बाड़ती चेद मे">
-<!ENTITY installAddonFromFile.label           "रेत् खोन एड-ऑन बो़हाल मे… (I)">
+<!ENTITY installAddonFromFile.label           "रेत् खोन एड-ऑन बो़हाल मे…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "जोतो एड-ऑनस ला़गित् टुल्स को">
 
@@ -43,14 +43,14 @@
 <!ENTITY view.availableUpdates.label          "हा़लियाक् को ञामोक् आ">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "हा़लियाक् को ला़गित् तेंघान (C)">
+<!ENTITY updates.checkForUpdates.label        "हा़लियाक् को ला़गित् तेंघान">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "नितोक् हा़लियाक् को ञेल मे (V)">
+<!ENTITY updates.viewUpdates.label            "नितोक् हा़लियाक् को ञेल मे">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "एड-ऑनस आच् आच् ते हा़ली मे (A)">
+<!ENTITY updates.updateAddonsAutomatically.label     "एड-ऑनस आच् आच् ते हा़ली मे">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -58,9 +58,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       " एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में  (R)">
+<!ENTITY updates.resetUpdatesToAutomatic.label       " एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे (R)">
+<!ENTITY updates.resetUpdatesToManual.label          "जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "एड ऑन को हा़ली येत् आ.">
 <!ENTITY updates.installed.label              "आमाक् सहा़ली आकाना.">
@@ -72,24 +72,24 @@
 <!ENTITY updates.updateSelected.tooltip       "नोवा लिसटी रे ञामोक् हा़लियाक् को बो़हाल मे">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "ढेर ला़य सोदोर को उदुग मे (S)">
+<!ENTITY cmd.showDetails.label                "ढेर ला़य सोदोर को उदुग मे">
 <!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "हा़लिया़क् बाछाव (F)">
+<!ENTITY cmd.findUpdates.label                "हा़लिया़क् बाछाव">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "आपनार मोने तेयाक् को (O)">
+<!ENTITY cmd.preferencesWin.label             "आपनार मोने तेयाक् को">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            " कुसियाक् को (P)">
+<!ENTITY cmd.preferencesUnix.label            " कुसियाक् को">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "बाबोत ते (A) ">
+<!ENTITY cmd.about.label                      "बाबोत ते ">
 <!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "उसरा़व होचो (E)">
+<!ENTITY cmd.enableAddon.label                "उसरा़व होचो">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "बाङ हुय होचो (D)">
+<!ENTITY cmd.disableAddon.label               "बाङ हुय होचो">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "उनुयहा़र होडोक् (W)">
+<!ENTITY cmd.enableTheme.label                "उनुयहा़र होडोक्">
 <!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "उनुयहा़र होरोक् तिंगु (W)">
+<!ENTITY cmd.disableTheme.label               "उनुयहा़र होरोक् तिंगु">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "चोगोड़ ला़गित् कुली">
 <!ENTITY cmd.askToActivate.tooltip            "जोतो ओकतो नोवा एड- ऑन बेभार ला़गित् कुली मेया .">
@@ -98,15 +98,15 @@
 <!ENTITY cmd.neverActivate.label              "तिस हों आलोम चोगोड़ा">
 <!ENTITY cmd.neverActivate.tooltip            "नोवा एड-ऑन तिस हों आलोम बेभारा">
 <!ENTITY cmd.stateMenu.tooltip                "नोवा एड-ऑन चालाक् जोहोक् बोदोल मे">
-<!ENTITY cmd.installAddon.label               "बोहाल मे (I)">
+<!ENTITY cmd.installAddon.label               "बोहाल मे">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "ओचोक्(R)">
+<!ENTITY cmd.uninstallAddon.label             "ओचोक्">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "आपनार मोने तेयाक् को">
 <!ENTITY cmd.showPreferencesWin.tooltip       "नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में ">
 <!ENTITY cmd.showPreferencesUnix.label        "कुसियाक् को">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "नोवा एड-ऑनस रेयाक् कुसियाक् को ">
-<!ENTITY cmd.contribute.label                 "एनेम (C)">
+<!ENTITY cmd.contribute.label                 "एनेम">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "नोवा एड-ऑन रेयाक् लाहा़नती रे एनेम ">
 
@@ -143,13 +143,13 @@
 <!ENTITY detail.repository                    "एड-ऑन प्रोफाइल ">
 <!ENTITY detail.size                          "माराङ तेत्">
 
-<!ENTITY detail.checkForUpdates.label         "हा़ली को ला़गित् तेंघान (f)">
+<!ENTITY detail.checkForUpdates.label         "हा़ली को ला़गित् तेंघान">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "नोवा एड-ऑन ला़गित् हा़ली को तेंघान ">
-<!ENTITY detail.showPreferencesWin.label      "आपनार मोने तेयाक् को (O)">
+<!ENTITY detail.showPreferencesWin.label      "आपनार मोने तेयाक् को">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में ">
-<!ENTITY detail.showPreferencesUnix.label     " कुसियाक् को (P)">
+<!ENTITY detail.showPreferencesUnix.label     " कुसियाक् को">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "नोवा एड-ऑनस रेयाक् कुसियाक् को ">
 <!-- ratings -->

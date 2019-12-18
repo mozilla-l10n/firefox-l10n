@@ -6,7 +6,7 @@ app-manager-window =
     .title = एपलिकेसोन पुरा़ बिबरोन .
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
-    .label = ओचोक्(R)
+    .label = ओचोक्
     .accesskey = R
 app-manager-handle-webfeeds = नोवा एपलिकेसोन साब सोझे ला़गित् बेभार दाड़ेयाक्  वेब फिड.
 # Variables:

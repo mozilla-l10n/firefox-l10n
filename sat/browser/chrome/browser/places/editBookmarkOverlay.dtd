@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editBookmarkOverlay.name.label                      "ञुतुम (N) :">
+<!ENTITY editBookmarkOverlay.name.label                      "ञुतुम :">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "ठांव (L) :">
+<!ENTITY editBookmarkOverlay.location.label                  "ठांव :">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "फिड ठांव ( F) :">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "फिड ठांव :">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
-<!ENTITY editBookmarkOverlay.siteLocation.label              " साइट ठांव(S) :">
+<!ENTITY editBookmarkOverlay.siteLocation.label              " साइट ठांव :">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "पोटोम :">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "जोतो पुथी चिनहा़ पोटोम को उदुग मे .">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "उकु">
-<!ENTITY editBookmarkOverlay.tags.label                      "तोल को (T):">
+<!ENTITY editBookmarkOverlay.tags.label                      "तोल को:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "कोमा सांव भेगाराक् तोल को">
-<!ENTITY editBookmarkOverlay.description.label               "बोरनोन (D):">
+<!ENTITY editBookmarkOverlay.description.label               "बोरनोन:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
-<!ENTITY editBookmarkOverlay.keyword.label                   "का़ठी साबाद  (K):">
+<!ENTITY editBookmarkOverlay.keyword.label                   "का़ठी साबाद:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "जोतो तोल को उदुग">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             " धारे बार रे नोवा पुथी चिनहा़ लादे (h) ">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             " धारे बार रे नोवा पुथी चिनहा़ लादे ">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "बाछाव मे…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "नावा पोटोम (o) ">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "नावा पोटोम ">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

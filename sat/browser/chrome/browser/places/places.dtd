@@ -6,74 +6,74 @@
 <!ENTITY places.library.title  "पुथी ओड़ाक्">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "साजाव (O)">
+<!ENTITY organize.label        "साजाव">
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "आमाक् पुथी चिनहा़ को साजाव ">
 
-<!ENTITY file.close.label               "बोंद मे (C)">
+<!ENTITY file.close.label               "बोंद मे">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "ञेंल (V)">
+<!ENTITY views.label                    "ञेंल">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "आमाक् ञेंल बोदोल मे">
-<!ENTITY view.columns.label             "कांधा को उदुग (C)">
+<!ENTITY view.columns.label             "कांधा को उदुग">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                " साला(S)">
+<!ENTITY view.sort.label                " साला">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            " बाङ साला(U)">
+<!ENTITY view.unsorted.label            " बाङ साला">
 <!ENTITY view.unsorted.accesskey        "U">
 <!ENTITY view.sortAscending.label       "A > Z थार ते साला">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A थार ते साला ">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "HTML खोन पुथी चिनहा़ को आ़गु… (I) ">
+<!ENTITY importBookmarksFromHTML.label     "HTML खोन पुथी चिनहा़ को आ़गु… ">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       " HTMLखोन पुथी चिनहा़ को कुल…(E)">
+<!ENTITY exportBookmarksToHTML.label       " HTMLखोन पुथी चिनहा़ को कुल…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "एटागाक् ब्राउजार खोन डाटा आ़गु (A) …">
+<!ENTITY importOtherBrowser.label          "एटागाक् ब्राउजार खोन डाटा आ़गु …">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<!ENTITY cmd.backup.label               "नोकोल जोगाव… (B)">
+<!ENTITY cmd.backup.label               "नोकोल जोगाव…">
 <!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             " दोहड़ा जोगाव(R) ">
+<!ENTITY cmd.restore2.label             " दोहड़ा जोगाव ">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "रेत् बाछाव (C)…">
+<!ENTITY cmd.restoreFromFile.label      "रेत् बाछाव…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.deleteDomainData.label     "नोवा साइड बाबोत ते हिंड़िग मे (F)">
+<!ENTITY cmd.deleteDomainData.label     "नोवा साइड बाबोत ते हिंड़िग मे">
 <!ENTITY cmd.deleteDomainData.accesskey "F">
 
-<!ENTITY cmd.open.label                  " झिच्  (O)">
+<!ENTITY cmd.open.label                  " झिच्">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           " मित् नावा विंडो रे झिज मे (N) .">
+<!ENTITY cmd.open_window.label           " मित् नावा विंडो रे झिज मे .">
 <!ENTITY cmd.open_window.accesskey       "N">
 
 
-<!ENTITY cmd.open_tab.label              "मित् नावा टेब रे झिज मे  (w) ">
+<!ENTITY cmd.open_tab.label              "मित् नावा टेब रे झिज मे ">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "टेब रे जोतो  झिज मे (O)">
+<!ENTITY cmd.open_all_in_tabs.label      "टेब रे जोतो  झिज मे">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
-<!ENTITY cmd.properties.label      " गुन को (i)">
+<!ENTITY cmd.properties.label      " गुन को">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              " ञुतुम दाराय ते झिज  मे (S)">
+<!ENTITY cmd.sortby_name.label              " ञुतुम दाराय ते झिज  मे">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "नावा पुथी चिनहा़  (B)…">
+<!ENTITY cmd.new_bookmark.label            "नावा पुथी चिनहा़…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
-<!ENTITY cmd.new_folder.label              "नावा पोटोम (o) …">
+<!ENTITY cmd.new_folder.label              "नावा पोटोम …">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
-<!ENTITY cmd.new_separator.label           "नावा भेगार होचो( S)">
+<!ENTITY cmd.new_separator.label           "नावा भेगार होचो">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "लाइब पुथी चिनहा़ दोहड़ा लादे (R)">
+<!ENTITY cmd.reloadLivebookmark.label      "लाइब पुथी चिनहा़ दोहड़ा लादे">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  " लाड़ाव(M)…">
+<!ENTITY cmd.moveBookmarks.label                  " लाड़ाव…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "ञुतुम">
@@ -88,7 +88,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      " आ़गु बेकऑप तेयार (I)">
+<!ENTITY maintenance.label      " आ़गु बेकऑप तेयार">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "आमाक् पुथी चिनहा़ को आ़गू आर बेकऑप">
 
@@ -96,21 +96,21 @@
 
 <!ENTITY forwardButton.tooltip  "माड़ाङ सेत् चालाक् मे">
 
-<!ENTITY detailsPane.more.label "बा़ड़ती (e)">
+<!ENTITY detailsPane.more.label "बा़ड़ती">
 <!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "कोम (e)">
+<!ENTITY detailsPane.less.label "कोम">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "मित् जिनिस आर ओना रेयाक् गुन को ञेल आर सासापड़ाव ला़गित् बाछाव मे  .">
 
-<!ENTITY view.label               "ञेल मे  (w)">
+<!ENTITY view.label               "ञेल मे">
 <!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "मा़हित् दाराय ते( D) ">
+<!ENTITY byDate.label             "मा़हित् दाराय ते ">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "साइड दाराय ते ( S) .">
+<!ENTITY bySite.label             "साइड दाराय ते .">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "आ़डी ढेर ञेल दाराय ते ( V) ">
+<!ENTITY byMostVisited.label      "आ़डी ढेर ञेल दाराय ते ">
 <!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "( L) मुचा़द ञेल दाराय ते.">
+<!ENTITY byLastVisited.label      " मुचा़द ञेल दाराय ते.">
 <!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "मा़हित् आर साइट दाराय ते (t) ">
+<!ENTITY byDayAndSite.label       "मा़हित् आर साइट दाराय ते ">
 <!ENTITY byDayAndSite.accesskey   "t">

@@ -10,7 +10,7 @@
 <!ENTITY blocklist.softandhard       "एड-ऑन ओका रे ताहें थिर आर बाङ जा़पती दिगधा़ कारोन रेयाक् माराङ कोटोक् मेनाक् आ आकोट होचो आकात् आ. एटागाक् कोरे कोम कोटोक् मेनाक् आ, मेनखान नोवा ढेर बाताव एमाकाना जे आम ओना को बाङ हुय होचो सांव दोहड़ा एहोब मे.">
 <!ENTITY blocklist.moreinfo          "बाड़ती ला़य सोदोर">
 
-<!ENTITY blocklist.accept.label      "&brandShortName; दोहड़ा एहोब मे  (R)">
+<!ENTITY blocklist.accept.label      "&brandShortName; दोहड़ा एहोब मे">
 <!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "आकोट आकाना">

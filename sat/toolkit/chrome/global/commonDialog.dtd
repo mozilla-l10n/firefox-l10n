@@ -7,7 +7,7 @@
 <!ENTITY editfield0.label "का़मी यिजाक् ञुतुम"> 
 <!ENTITY editfield1.label "दानाङ साबाद :"> 
 <!ENTITY checkbox.label   "सुही ञेल">
-<!ENTITY copyCmd.label    "नोकोल (C)">
+<!ENTITY copyCmd.label    "नोकोल">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "जोतो बाछाव  (A)">
+<!ENTITY selectAllCmd.label "जोतो बाछाव">
 <!ENTITY selectAllCmd.accesskey "A">

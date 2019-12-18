@@ -43,10 +43,10 @@ browser-main-window-content-title =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = टुलबार को उकुय मे (H)
+    .label = टुलबार को उकुय मे
     .accesskey = H
 full-screen-exit =
-    .label = पुरा़ स्क्रिन ओबोसता खोन बाहरे (F)
+    .label = पुरा़ स्क्रिन ओबोसता खोन बाहरे
     .accesskey = F
 
 ## Search Engine selection buttons (one-offs)

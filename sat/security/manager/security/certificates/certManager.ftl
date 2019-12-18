@@ -151,7 +151,7 @@ choose-p12-backup-file-dialog = नोकोल जोगाव ला़गि�
 file-browse-pkcs12-spec = PKCS12 रेत् को
 choose-p12-restore-file-dialog = आ़गू ला़गित् पोरमान साकाम रेत्
 
-## Import certificate(s) file dialog
+## Import certificate file dialog
 
 file-browse-certificate-spec = पोरमान साकाम रेत्.
 import-ca-certs-prompt = आगु ला़गित् CA  पोरमान साकाम मेनाक् रेत् बाछाव होचोय में.

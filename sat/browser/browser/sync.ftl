@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-now =
-    .label = नित् मित् ओकतो (S)
+    .label = नित् मित् ओकतो

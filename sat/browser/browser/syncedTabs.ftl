@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-context-sync-now =
-    .label = नित् मित् ओकतो (S)
+    .label = नित् मित् ओकतो
     .accesskey = S
 fxa-sign-in = { -sync-brand-short-name }रे साइन  रे.

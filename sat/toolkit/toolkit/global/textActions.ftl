@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 text-action-undo =
-    .label = रुवा़ड़ (U)
+    .label = रुवा़ड़
     .accesskey = U
 text-action-cut =
-    .label = गेत् (t)
+    .label = गेत्
     .accesskey = t
 text-action-paste =
-    .label = लाठा (P)
+    .label = लाठा
     .accesskey = P
 text-action-delete =
-    .label = मेटाव (D)
+    .label = मेटाव
     .accesskey = D
 text-action-select-all =
-    .label = जोतो बाछाव  (A)
+    .label = जोतो बाछाव
     .accesskey = A

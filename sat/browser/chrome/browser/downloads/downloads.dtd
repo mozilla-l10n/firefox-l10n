@@ -42,9 +42,9 @@
 
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
-<!ENTITY cmd.pause.label                  "तिंगू  (P) ">
+<!ENTITY cmd.pause.label                  "तिंगू ">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "दोहड़ा एहोब  (R)">
+<!ENTITY cmd.resume.label                 "दोहड़ा एहोब">
 <!ENTITY cmd.resume.accesskey             "R">
 
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
@@ -52,20 +52,20 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "मेनागाक् पोटोम झिज मे (F)">
+<!ENTITY cmd.show.label                   "मेनागाक् पोटोम झिज मे">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "ञामयिच् रे उदुग ( F) ">
+<!ENTITY cmd.showMac.label                "ञामयिच् रे उदुग ">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "दोहड़ा कुरुमुटु">
-<!ENTITY cmd.goToDownloadPage.label       " आ़तुर आंड़गो साहटा रे चालाक् मे(G)">
+<!ENTITY cmd.goToDownloadPage.label       " आ़तुर आंड़गो साहटा रे चालाक् मे">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "आ़तुर आंड़गो खोंजा नोकोल मे (L)">
+<!ENTITY cmd.copyDownloadLink.label       "आ़तुर आंड़गो खोंजा नोकोल मे">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromHistory.label      "हितल खोन ओचोक् (e) .">
+<!ENTITY cmd.removeFromHistory.label      "हितल खोन ओचोक् .">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 
 
-<!ENTITY cmd.clearDownloads.label         "आटुर आंड़गो को फारचाये मे ( D) .">
+<!ENTITY cmd.clearDownloads.label         "आटुर आंड़गो को फारचाये मे .">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -117,7 +117,7 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "जोतो आ़तुर आंड़गो को उदुग मे (S) .">
+<!ENTITY downloadsHistory.label           "जोतो आ़तुर आंड़गो को उदुग मे .">
 <!ENTITY downloadsHistory.accesskey       "S">
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the

@@ -6,16 +6,16 @@
 ## File Menu
 
 menu-file =
-    .label = रेत् (F)
+    .label = रेत्
     .accesskey = F
 menu-file-new-tab =
-    .label = नावा टैब (T)
+    .label = नावा टैब
     .accesskey = T
 menu-file-new-window =
-    .label = नावा विंडो (N)
+    .label = नावा विंडो
     .accesskey = N
 menu-file-new-private-window =
-    .label = नावा निजेराक् विंडो (W )
+    .label = नावा निजेराक् विंडो
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
@@ -23,128 +23,128 @@ menu-file-new-private-window =
 menu-file-open-location =
     .label = ठांव झिज मे …
 menu-file-open-file =
-    .label = रेत् झिज मे…  (O)
+    .label = रेत् झिज मे…
     .accesskey = O
 menu-file-close =
-    .label = बोंद मे (C)
+    .label = बोंद मे
     .accesskey = C
 menu-file-close-window =
-    .label = विंडो बोनदोय मे (d) .
+    .label = विंडो बोनदोय मे .
     .accesskey = d
 menu-file-save-page =
-    .label = लेका साहटा सांचाव (A)...
+    .label = लेका साहटा सांचाव...
     .accesskey = A
 menu-file-email-link =
-    .label = इमेल खोंजा …  (E)
+    .label = इमेल खोंजा …
     .accesskey = E
 menu-file-print-setup =
-    .label = साहटा  साजाव... (u)
+    .label = साहटा  साजाव...
     .accesskey = u
 menu-file-print-preview =
-    .label = माड़ाङ तेयाक् ञेल छापा (v)
+    .label = माड़ाङ तेयाक् ञेल छापा
     .accesskey = v
 menu-file-print =
-    .label = छापा… (P)
+    .label = छापा…
     .accesskey = P
 menu-file-go-offline =
-    .label = ऑफलाइन (k)
+    .label = ऑफलाइन
     .accesskey = k
 
 ## Edit Menu
 
 menu-edit =
-    .label = सासापड़ाव (E)
+    .label = सासापड़ाव
     .accesskey = E
 menu-edit-undo =
-    .label = रुवा़ड़ (U)
+    .label = रुवा़ड़
     .accesskey = U
 menu-edit-redo =
-    .label = दोहड़ाकोराव (R)
+    .label = दोहड़ाकोराव
     .accesskey = R
 menu-edit-cut =
-    .label = गेत् (t)
+    .label = गेत्
     .accesskey = t
 menu-edit-paste =
-    .label = लाठा (P)
+    .label = लाठा
     .accesskey = P
 menu-edit-delete =
-    .label = मेटाव (D)
+    .label = मेटाव
     .accesskey = D
 menu-edit-select-all =
-    .label = जोतो बाछाव  (A)
+    .label = जोतो बाछाव
     .accesskey = A
 menu-edit-find-on =
-    .label = नोवा साहटा रे ञाम...  (F)
+    .label = नोवा साहटा रे ञाम...
     .accesskey = F
 menu-edit-find-again =
-    .label = दोहड़ा ञाम  (g)
+    .label = दोहड़ा ञाम
     .accesskey = g
 menu-edit-bidi-switch-text-direction =
-    .label = ओनोल नाखा ओताय मे(w)
+    .label = ओनोल नाखा ओताय मे
     .accesskey = w
 
 ## View Menu
 
 menu-view =
-    .label = ञेंल (V)
+    .label = ञेंल
     .accesskey = V
 menu-view-toolbars-menu =
     .label = टुल बार को (To)
     .accesskey = T
 menu-view-customize-toolbar =
-    .label = कुसियाक् तेयार…(C)
+    .label = कुसियाक् तेयार…
     .accesskey = C
 menu-view-sidebar =
-    .label = धारे बार (e)
+    .label = धारे बार
     .accesskey = e
 menu-view-full-zoom =
-    .label = हुडिञ माराङ होचो  (Z)
+    .label = हुडिञ माराङ होचो
     .accesskey = Z
 menu-view-full-zoom-enlarge =
-    .label = माड़ाङ तेयार (I)
+    .label = माड़ाङ तेयार
     .accesskey = I
 menu-view-full-zoom-reduce =
-    .label = माड़ाङ खोन हुडिञ तेयार  (O)
+    .label = माड़ाङ खोन हुडिञ तेयार
     .accesskey = O
 menu-view-full-zoom-reset =
-    .label = दोहड़ा साजाव(R)
+    .label = दोहड़ा साजाव
     .accesskey = R
 menu-view-full-zoom-toggle =
-    .label = एकेन ओनोल हुडिञ माराङ (T)
+    .label = एकेन ओनोल हुडिञ माराङ
     .accesskey = T
 menu-view-page-style-menu =
-    .label = साहटा हुना़र(y)
+    .label = साहटा हुना़र
     .accesskey = y
 menu-view-page-style-no-style =
-    .label = जाहान हुना़र बाङ (N)
+    .label = जाहान हुना़र बाङ
     .accesskey = N
 menu-view-page-basic-style =
-    .label = मुल साहटा हुना़र (B)
+    .label = मुल साहटा हुना़र
     .accesskey = B
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = पुरा़ स्क्रिन बाहरे ओडोक (F) .
+    .label = पुरा़ स्क्रिन बाहरे ओडोक .
     .accesskey = F
 menu-view-exit-full-screen =
-    .label = पुरा़ स्क्रिन बाहरे ओडोक ( F) .
+    .label = पुरा़ स्क्रिन बाहरे ओडोक .
     .accesskey = F
 
 ##
 
 menu-view-show-all-tabs =
-    .label = जोतो टैब को उदुक् मे ( A)
+    .label = जोतो टैब को उदुक् मे
     .accesskey = A
 menu-view-bidi-switch-page-direction =
-    .label = साहटा नाखा ओताय मे ( D)
+    .label = साहटा नाखा ओताय मे
     .accesskey = D
 
 ## History Menu
 
 menu-history =
-    .label = हिता़ल  (s)
+    .label = हिता़ल
     .accesskey = s
 menu-history-undo-menu =
     .label = नितोक् बोनदोवाक् टैब को.
@@ -154,37 +154,37 @@ menu-history-undo-window-menu =
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = पुथी चिनहा़ को (B)
+    .label = पुथी चिनहा़ को
     .accesskey = B
 menu-bookmarks-show-all =
     .label = जोतो पुथी चिनहा़ को उदुगा मे.
 menu-bookmarks-all-tabs =
     .label = जोतो टैब को पुथी चिनहा़य मे …
 menu-bookmarks-toolbar =
-    .label = टुलबार पुथी चिनहा़ को (B)
+    .label = टुलबार पुथी चिनहा़ को
 
 ## Tools Menu
 
 menu-tools =
-    .label = टुल्स (T)
+    .label = टुल्स
     .accesskey = T
 menu-tools-downloads =
-    .label = आ़तुर आंड़गो (D)
+    .label = आ़तुर आंड़गो
     .accesskey = D
 menu-tools-addons =
-    .label = एड-ऑन्स (A)
+    .label = एड-ऑन्स
     .accesskey = A
 menu-tools-sync-now =
-    .label = नित् मित् ओकतो (S)
+    .label = नित् मित् ओकतो
     .accesskey = S
 menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name } रे दोहड़ा जोड़ाव …(R)
+    .label = { -sync-brand-short-name } रे दोहड़ा जोड़ाव …
     .accesskey = R
 menu-tools-web-developer =
-    .label = वेब लाहा होचोयिच् (W)
+    .label = वेब लाहा होचोयिच्
     .accesskey = W
 menu-tools-page-source =
-    .label = साहटा सोत(o)
+    .label = साहटा सोत
     .accesskey = o
 menu-tools-page-info =
     .label = साहटा ला़य सोदोर ( ) .
@@ -192,8 +192,8 @@ menu-tools-page-info =
 menu-preferences =
     .label =
         { PLATFORM() ->
-            [windows] आपनार मोने तेयाक् को (O)
-           *[other] कुसियाक् को (n)
+            [windows] आपनार मोने तेयाक् को
+           *[other] कुसियाक् को
         }
     .accesskey =
         { PLATFORM() ->
@@ -211,14 +211,14 @@ menu-window-bring-all-to-front =
 ## Help Menu
 
 menu-help-keyboard-shortcuts =
-    .label = का़ठी बोर्ड काटो तेयार (K)
+    .label = का़ठी बोर्ड काटो तेयार
     .accesskey = K
 menu-help-troubleshooting-info =
-    .label = दिगधा़ हुयुगाक् ला़य सोदोर (T)
+    .label = दिगधा़ हुयुगाक् ला़य सोदोर
     .accesskey = T
 menu-help-feedback-page =
-    .label = फिडबैक जोमा एम …(S)
+    .label = फिडबैक जोमा एम …
     .accesskey = S
 menu-help-safe-mode-without-addons =
-    .label = एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …(R)
+    .label = एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …
     .accesskey = R

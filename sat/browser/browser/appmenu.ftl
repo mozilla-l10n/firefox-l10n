@@ -9,4 +9,4 @@
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = नित् मित् ओकतो (S)
+    .label = नित् मित् ओकतो

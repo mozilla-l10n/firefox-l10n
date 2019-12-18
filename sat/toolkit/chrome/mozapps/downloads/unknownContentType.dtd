@@ -6,21 +6,21 @@
 <!ENTITY  from.label                  "खोन: ">
 <!ENTITY  actionQuestion.label        "नोवा रेत् सांव &brandShortName; चेत् चेका ला़कती. ?">
 
-<!ENTITY  openWith.label              "सांव झिच्  (O)">
+<!ENTITY  openWith.label              "सांव झिच्">
 <!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "एटागाक्…">
 
-<!ENTITY  saveFile.label              "रेत् सांचाव  (S)">
+<!ENTITY  saveFile.label              "रेत् सांचाव">
 <!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY  rememberChoice.label        "नोवा आच् आच् ते नित् खोन नोवा रेत् को ला़गित्. (a)">
+<!ENTITY  rememberChoice.label        "नोवा आच् आच् ते नित् खोन नोवा रेत् को ला़गित्.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "ओका काना:">
 
-<!ENTITY  chooseHandlerMac.label      "बाछाव मे… (C)">
+<!ENTITY  chooseHandlerMac.label      "बाछाव मे…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "पानते मे… (B)">
+<!ENTITY  chooseHandler.label         "पानते मे…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "चेत् आम नोवा रेत् सांचाव सानाम काना ?">

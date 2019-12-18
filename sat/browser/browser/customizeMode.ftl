@@ -12,6 +12,6 @@ customize-mode-lwthemes-menu-get-more =
     .label = ढेर उयहा़र को ञाम
     .accesskey = G
 customize-mode-undo-cmd =
-    .label = रुवा़ड़ (U)
+    .label = रुवा़ड़
 customize-mode-lwthemes-my-themes =
     .value = इञाक् उयहा़र

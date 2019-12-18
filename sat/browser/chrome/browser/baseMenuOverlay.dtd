@@ -18,20 +18,20 @@
 
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "का़ठी बोर्ड काटो तेयार (K)">
+<!ENTITY helpKeyboardShortcuts.label     "का़ठी बोर्ड काटो तेयार">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …(R)">
+<!ENTITY helpSafeMode.label       "एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 
 
 
 
-<!ENTITY helpTroubleshootingInfo.label      "दिगधा़ हुयुगाक् ला़य सोदोर (T)">
+<!ENTITY helpTroubleshootingInfo.label      "दिगधा़ हुयुगाक् ला़य सोदोर">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "फिडबैक जोमा एम …(S)">
+<!ENTITY helpFeedbackPage.label      "फिडबैक जोमा एम …">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 

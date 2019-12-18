@@ -12,6 +12,6 @@ findbar-previous =
 findbar-find-button-close =
     .tooltiptext = ञाम बार बोंदोय मे
 findbar-case-sensitive =
-    .label = जोड़ काथा (c)
+    .label = जोड़ काथा
     .accesskey = c
     .tooltiptext = काथा भेदावाक् सांव पानते.
