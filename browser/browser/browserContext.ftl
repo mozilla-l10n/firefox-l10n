@@ -164,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Izhod iz celozaslonskega načina
     .accesskey = j
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Slika v sliki
+    .accesskey = v
 main-context-menu-image-reload =
     .label = Ponovno naloži sliko
     .accesskey = P
