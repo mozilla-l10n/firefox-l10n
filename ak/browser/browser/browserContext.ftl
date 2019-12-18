@@ -54,6 +54,12 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Bue Link wɔ Tab Foforo mu
     .accesskey = T
+main-context-menu-open-link-new-window =
+    .label = Bue link wɔ tokura foforo mu
+    .accesskey = k
+main-context-menu-open-link-new-private-window =
+    .label = Bue link wɔ tokura praevet foforo ma wo nko ara mu
+    .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Bukmaake Link Yi
     .accesskey = L
@@ -65,6 +71,12 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Fa emel adrɛs
+    .accesskey = e
+main-context-menu-copy-link =
+    .label = Fa link lokehyɛn
+    .accesskey = e
 
 ## Media (video/audio) controls
 ##
@@ -148,6 +160,12 @@ main-context-menu-video-image-save-as =
 main-context-menu-video-email =
     .label = Emel video…
     .accesskey = m
+main-context-menu-plugin-play =
+    .label = Kenyan plagin yi
+    .accesskey = n
+main-context-menu-plugin-hide =
+    .label = Suma plagin yi
+    .accesskey = S
 main-context-menu-view-background-image =
     .label = Hwɛ Ekyiri Mfonin
     .accesskey = w
@@ -163,6 +181,9 @@ main-context-menu-frame-show-this =
 main-context-menu-frame-open-tab =
     .label = Bue Frem wɔ Tab Foforo mu
     .accesskey = T
+main-context-menu-frame-open-window =
+    .label = Bue frem wɔ tokura foforo mu
+    .accesskey = k
 main-context-menu-frame-reload =
     .label = San Lood Frem
     .accesskey = S
@@ -190,6 +211,12 @@ main-context-menu-view-page-source =
 main-context-menu-view-page-info =
     .label = Hwɛ Krataafa Info
     .accesskey = I
+main-context-menu-bidi-switch-text =
+    .label = Dane kwan a tɛkst fa so
+    .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = Dane kwan a krataafa fa so
+    .accesskey = w
 main-context-menu-inspect-element =
     .label = Inspɛkt ɛlɛmɛnt
     .accesskey = Q
