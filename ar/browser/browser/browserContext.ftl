@@ -30,6 +30,9 @@ toolbar-button-reload =
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = أوقف
+    .accesskey = ق
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -82,6 +85,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = غادر ملء الشاشة
+    .accesskey = م
 main-context-menu-image-reload =
     .label = أعِد تحميل الصورة
     .accesskey = ع
@@ -100,12 +106,18 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = انسخ مكان الصوت
     .accesskey = و
+main-context-menu-image-email =
+    .label = أرسل الصورة بالبريد…
+    .accesskey = ص
 main-context-menu-image-set-as-background =
     .label = اجعلها خلفية سطح المكتب…
     .accesskey = ج
 main-context-menu-image-info =
     .label = اعرض معلومات الصورة
     .accesskey = ة
+main-context-menu-audio-email =
+    .label = أرسل الصوت بالبريد…
+    .accesskey = ت
 main-context-menu-view-background-image =
     .label = اعرض صورة الخلفية
     .accesskey = خ
@@ -133,6 +145,9 @@ main-context-menu-frame-print =
 main-context-menu-frame-view-info =
     .label = اعرض معلومات الإطار
     .accesskey = ط
+main-context-menu-view-selection-source =
+    .label = اعرض مصدر التحديد
+    .accesskey = ص
 main-context-menu-view-page-source =
     .label = اعرض مصدر هذه الصفحة
     .accesskey = ص
