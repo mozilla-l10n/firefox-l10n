@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Paiet vienu lapu atpakaļ
+    .aria-label = Atpakaļ
+    .accesskey = A
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Paiet vienu lapu uz priekšu
+    .aria-label = Uz priekšu
+    .accesskey = P
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Pārlādēt
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Apturēt
+    .accesskey = T
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Saglabāt šo lapu grāmatzīmēs
+    .accesskey = m
 main-context-menu-open-link =
     .label = Atvērt saiti
     .accesskey = A
@@ -102,6 +119,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Atjaunot
     .accesskey = a
+main-context-menu-media-play-speed =
+    .label = Atskaņošanas ātrums
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Lēni (0.5 ×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normāls
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Ātri (1.25×)
+    .accesskey = T
+main-context-menu-media-play-speed-faster =
+    .label = Ātrāk (1.5×)
+    .accesskey = t
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Super ātri (2×)
+    .accesskey = S
+main-context-menu-media-loop =
+    .label = Ciklot
+    .accesskey = C
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -130,6 +170,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Skatīt video
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Kopēt attēlu
+    .accesskey = p
 main-context-menu-image-copy-location =
     .label = Kopēt attēla adresi
     .accesskey = o
@@ -175,12 +218,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Paslēpt šo spraudni
     .accesskey = p
+main-context-menu-send-to-device =
+    .label = Sūtīt lapu uz ierīci
+    .accesskey = I
 main-context-menu-view-background-image =
     .label = Skatīt fona attēlu
     .accesskey = f
 main-context-menu-keyword =
     .label = Pievienot meklējuma atslēgas vārdu…
     .accesskey = k
+main-context-menu-link-send-to-device =
+    .label = Sūtīt saiti uz ierīci
+    .accesskey = I
 main-context-menu-frame =
     .label = Šis ietvars
     .accesskey = a
@@ -229,6 +278,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Izmeklēt
     .accesskey = I
+main-context-menu-inspect-a11y-properties =
+    .label = Izmeklēt pieejamības iestatījumus
 main-context-menu-eme-learn-more =
     .label = Uzziniet vairāk par DRM…
     .accesskey = D
