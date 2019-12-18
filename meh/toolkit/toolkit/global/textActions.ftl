@@ -5,3 +5,15 @@
 text-action-undo =
     .label = Tanɨ
     .accesskey = D
+text-action-cut =
+    .label = Ke´ne
+    .accesskey = r
+text-action-copy =
+    .label = Tɨɨn
+    .accesskey = C
+text-action-paste =
+    .label = Tee
+    .accesskey = P
+text-action-delete =
+    .label = Xita
+    .accesskey = l
