@@ -51,13 +51,28 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Spel av
+    .accesskey = a
+main-context-menu-media-pause =
+    .label = Pause
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Slå av lyd
+    .accesskey = S
+main-context-menu-media-unmute =
+    .label = Slå på lyd
+    .accesskey = S
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Vis kontrollar
+    .accesskey = V
 
 ##
 
@@ -69,6 +84,9 @@ main-context-menu-frame-show-this =
     .accesskey = b
 main-context-menu-frame-view-source =
     .label = Vis kjeldekode for ramma
+    .accesskey = k
+main-context-menu-view-selection-source =
+    .label = Vis kjeldekode for vald tekst
     .accesskey = k
 main-context-menu-bidi-switch-text =
     .label = Byt tekstretning
