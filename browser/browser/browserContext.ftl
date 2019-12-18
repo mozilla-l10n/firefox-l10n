@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Назад на одну сторінку
+    .aria-label = Назад
+    .accesskey = Н
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Вперед на одну сторінку
+    .aria-label = Вперед
+    .accesskey = В
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Оновити
+    .accesskey = О
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Зупинити
+    .accesskey = З
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Закласти цю сторінку
+    .accesskey = к
 main-context-menu-open-link =
     .label = Відкрити посилання
     .accesskey = В
@@ -69,11 +86,20 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Зберегти посилання як…
     .accesskey = п
+main-context-menu-save-link-to-pocket =
+    .label = Зберегти посилання в { -pocket-brand-name }
+    .accesskey = п
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Копіювати адресу е-пошти
+    .accesskey = п
+main-context-menu-copy-link =
+    .label = Копіювати адресу посилання
+    .accesskey = п
 
 ## Media (video/audio) controls
 ##
@@ -138,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Вийти з повноекранного режиму
     .accesskey = В
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Зображення в зображенні
+    .accesskey = З
 main-context-menu-image-reload =
     .label = Перезавантажити зображення
     .accesskey = з
@@ -195,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Приховати цей плагін
     .accesskey = П
+main-context-menu-save-to-pocket =
+    .label = Зберегти сторінку в { -pocket-brand-name }
+    .accesskey = с
 main-context-menu-send-to-device =
     .label = Відправити сторінку на пристрій
     .accesskey = с
@@ -255,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Дослідити елемент
     .accesskey = Д
+main-context-menu-inspect-a11y-properties =
+    .label = Дослідити властивості доступності
 main-context-menu-eme-learn-more =
     .label = Докладніше про DRM…
     .accesskey = Д
