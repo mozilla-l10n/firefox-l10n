@@ -19,6 +19,9 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Nachu'un tuku
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -61,3 +64,27 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-image-reload =
+    .label = Nachu'un tuku tutu nátava
+    .accesskey = R
+main-context-menu-image-view =
+    .label = Túvi tutu nátava
+    .accesskey = i
+main-context-menu-image-copy =
+    .label = Tɨɨn tutu nátava
+    .accesskey = C
+main-context-menu-image-copy-location =
+    .label = Tɨɨn nuu tutu nátava
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Chuva´a tutu nátava kua…
+    .accesskey = u
+main-context-menu-image-email =
+    .label = Chu´un ichi tutu nátava…
+    .accesskey = a
+main-context-menu-frame-reload =
+    .label = Nachu'un tuku marco
+    .accesskey = R
+main-context-menu-eme-learn-more =
+    .label = Kuni kue´eka jiee´e DRM...
+    .accesskey = D
