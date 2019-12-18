@@ -48,11 +48,26 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = Agor Dolen
     .accesskey = D
+main-context-menu-open-link-new-tab =
+    .label = Agor Dolen mewn Tab Newydd
+    .accesskey = T
+main-context-menu-open-link-new-window =
+    .label = Agor Dolen mewn Ffenestr Newydd
+    .accesskey = F
+main-context-menu-bookmark-this-link =
+    .label = Gosod Nod Tudalen i'r Ddolen
+    .accesskey = D
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copïo Cyfeiriad E-bost
+    .accesskey = E
+main-context-menu-copy-link =
+    .label = Copïo Lleoliad Dolen
+    .accesskey = C
 
 ## Media (video/audio) controls
 ##
@@ -60,31 +75,112 @@ main-context-menu-open-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Chwarae
+    .accesskey = C
+main-context-menu-media-pause =
+    .label = Oedi
+    .accesskey = O
 
 ##
 
+main-context-menu-media-mute =
+    .label = Tewi
+    .accesskey = T
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Dangos Rheolydd
+    .accesskey = R
 main-context-menu-media-hide-controls =
     .label = Cuddio Rheolydd
     .accesskey = u
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Sgrin Lawn
+    .accesskey = S
+main-context-menu-media-video-leave-fullscreen =
+    .label = Gadael Sgrin Lawn
+    .accesskey = S
+main-context-menu-image-reload =
+    .label = Ail-lwytho'r Ddelwedd
+    .accesskey = D
+main-context-menu-image-view =
+    .label = Edrych ar Ddelwedd
+    .accesskey = E
 main-context-menu-video-view =
     .label = Gwylio Fideo
     .accesskey = i
+main-context-menu-image-copy-location =
+    .label = Copïo Lleoliad Delwedd
+    .accesskey = L
 main-context-menu-video-copy-location =
     .label = Copïo Lleoliad Delwedd
     .accesskey = e
 main-context-menu-audio-copy-location =
     .label = Copïo Lleoliad Delwedd
     .accesskey = a
+main-context-menu-image-save-as =
+    .label = Cadw Delwedd Fel…
+    .accesskey = D
+main-context-menu-image-set-as-background =
+    .label = Gosod fel Cefndir Bwrdd Gwaith…
+    .accesskey = B
+main-context-menu-video-save-as =
+    .label = Cadw Fideo Fel…
+    .accesskey = F
+main-context-menu-audio-save-as =
+    .label = Cadw Sain Fel…
+    .accesskey = C
+main-context-menu-video-image-save-as =
+    .label = Cadw Ciplun Fel…
+    .accesskey = i
+main-context-menu-view-background-image =
+    .label = Edrych ar Ddelwedd Gefndir
+    .accesskey = G
+main-context-menu-keyword =
+    .label = Ychwanegu Allweddair i'r Chwilio…
+    .accesskey = Y
+main-context-menu-frame =
+    .label = Y Ffrâm
+    .accesskey = F
+main-context-menu-frame-show-this =
+    .label = Dangos y Ffrâm yma'n Unig
+    .accesskey = D
 main-context-menu-frame-open-tab =
     .label = Agor Ffrâm mewn Tab Newydd
     .accesskey = T
 main-context-menu-frame-open-window =
     .label = Agor Ffrâm mewn Ffenestr Newydd
     .accesskey = F
+main-context-menu-frame-bookmark =
+    .label = Gosod Nod Tudalen i'r Ffrâm
+    .accesskey = F
+main-context-menu-frame-save-as =
+    .label = Cadw Ffrâm Fel…
+    .accesskey = F
+main-context-menu-frame-print =
+    .label = Argraffu'r Ffrâm…
+    .accesskey = A
+main-context-menu-frame-view-source =
+    .label = Edrych ar God Gwreiddiol y Ffrâm
+    .accesskey = F
+main-context-menu-frame-view-info =
+    .label = Edrych ar Wybodaeth am y Ffrâm
+    .accesskey = W
+main-context-menu-view-page-source =
+    .label = Edrych ar God Gwreiddiol y Dudalen
+    .accesskey = G
+main-context-menu-view-page-info =
+    .label = Edrych ar Wybodaeth am y Dudalen
+    .accesskey = E
+main-context-menu-bidi-switch-text =
+    .label = Newid Cyfeiriad Testun
+    .accesskey = T
+main-context-menu-bidi-switch-page =
+    .label = Newid Cyfeiriad Tudalen
+    .accesskey = N
