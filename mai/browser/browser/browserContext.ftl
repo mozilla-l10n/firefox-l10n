@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = पृष्ठ एहिना सहेजू…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -109,6 +112,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = पूर्ण स्क्रीन
+    .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = पूर्ण स्क्रीनसँ निकलू (u)
     .accesskey = u
@@ -118,6 +124,12 @@ main-context-menu-image-reload =
 main-context-menu-image-view =
     .label = छवि देखू
     .accesskey = I
+main-context-menu-video-view =
+    .label = वीडियो देखू
+    .accesskey = i
+main-context-menu-image-copy =
+    .label = छविक नकल लिअ'
+    .accesskey = y
 main-context-menu-image-copy-location =
     .label = छवि स्थानक नकल लिअ'
     .accesskey = o
@@ -139,6 +151,12 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = छवि सूचना देखू
     .accesskey = f
+main-context-menu-image-desc =
+    .label = विवरण देखू (D)
+    .accesskey = D
+main-context-menu-video-save-as =
+    .label = एहिना वीडियो सहेजू…(v)
+    .accesskey = v
 main-context-menu-audio-save-as =
     .label = एहिना आडियो सहेजू…
     .accesskey = v
@@ -147,6 +165,9 @@ main-context-menu-video-image-save-as =
     .accesskey = S
 main-context-menu-video-email =
     .label = वीडियो ईमेल करें (a)…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = ऑडियो ईमेल करू (a)…
     .accesskey = a
 main-context-menu-plugin-play =
     .label = ई प्लगिन सक्रिय करू (c)
@@ -190,6 +211,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = फ्रेम सूचना देखू
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = चयन स्रोत देखू
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = पृष्ठ स्रोत देखू
     .accesskey = V
@@ -201,4 +225,10 @@ main-context-menu-bidi-switch-text =
     .accesskey = w
 main-context-menu-bidi-switch-page =
     .label = पृष्ठ दिशा बदलू
+    .accesskey = D
+main-context-menu-inspect-element =
+    .label = तत्व जाँचू
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = DRM केर संबंध मे बेसी जानू…
     .accesskey = D
