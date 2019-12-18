@@ -60,6 +60,12 @@ main-context-menu-copy-email =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Reproducir
+    .accesskey = R
+main-context-menu-media-pause =
+    .label = Pausa
+    .accesskey = P
 
 ##
 
@@ -70,9 +76,18 @@ main-context-menu-copy-email =
 
 ##
 
+main-context-menu-image-reload =
+    .label = Recargar imaxe
+    .accesskey = R
+main-context-menu-video-view =
+    .label = Ver vídeo
+    .accesskey = d
 main-context-menu-image-save-as =
     .label = Gardar imaxe como…
     .accesskey = G
+main-context-menu-video-save-as =
+    .label = Gardar vídeo como…
+    .accesskey = v
 main-context-menu-view-background-image =
     .label = Ver a imaxe de fondo
     .accesskey = r
