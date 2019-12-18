@@ -34,6 +34,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Guardar como…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -45,6 +48,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Abrir enlace en una pestaña nueva
     .accesskey = p
+main-context-menu-open-link-container-tab =
+    .label = Abrir enlace en nueva pestaña contenedora
+    .accesskey = C
 main-context-menu-open-link-new-window =
     .label = Abrir enlace en una ventana nueva
     .accesskey = v
@@ -100,6 +106,12 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Pantalla completa
+    .accesskey = P
+main-context-menu-media-video-leave-fullscreen =
+    .label = Salir de pantalla completa
+    .accesskey = a
 main-context-menu-image-reload =
     .label = Recargar imagen
     .accesskey = R
@@ -135,6 +147,9 @@ main-context-menu-image-desc =
     .accesskey = d
 main-context-menu-audio-save-as =
     .label = Guardar audio como…
+    .accesskey = G
+main-context-menu-video-image-save-as =
+    .label = Guardar captura como…
     .accesskey = G
 main-context-menu-video-email =
     .label = Enviar video…
@@ -181,6 +196,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Ver información de este marco
     .accesskey = i
+main-context-menu-view-selection-source =
+    .label = Ver el código fuente de esta selección
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Ver código fuente de esta página
     .accesskey = V
@@ -193,3 +211,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Cambiar la orientación de esta página
     .accesskey = d
+main-context-menu-eme-learn-more =
+    .label = Aprende más acerca de DRM…
+    .accesskey = D
