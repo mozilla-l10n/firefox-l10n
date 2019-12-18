@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Späť o jednu stránku
+    .aria-label = Naspäť
+    .accesskey = N
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Dopredu o jednu stránku
+    .aria-label = Dopredu
+    .accesskey = D
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Obnoviť
+    .accesskey = O
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Zastaviť
+    .accesskey = s
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Pridať stránku medzi záložky
+    .accesskey = m
 main-context-menu-open-link =
     .label = Otvoriť odkaz
     .accesskey = d
@@ -60,9 +77,18 @@ main-context-menu-open-link-container-tab =
 main-context-menu-open-link-new-window =
     .label = Otvoriť odkaz v novom okne
     .accesskey = t
+main-context-menu-open-link-new-private-window =
+    .label = Otvoriť odkaz v novom súkromnom okne
+    .accesskey = h
+main-context-menu-bookmark-this-link =
+    .label = Pridať tento odkaz medzi záložky
+    .accesskey = i
 main-context-menu-save-link =
     .label = Uložiť cieľ odkazu ako…
     .accesskey = d
+main-context-menu-save-link-to-pocket =
+    .label = Uložiť odkaz do { -pocket-brand-name }u
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -92,6 +118,9 @@ main-context-menu-media-pause =
 
 main-context-menu-media-mute =
     .label = Stlmiť
+    .accesskey = m
+main-context-menu-media-unmute =
+    .label = Zapnúť zvuk
     .accesskey = m
 main-context-menu-media-play-speed =
     .label = Rýchlosť prehrávania
@@ -132,6 +161,14 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-fullscreen =
     .label = Na celú obrazovku
     .accesskey = c
+main-context-menu-media-video-leave-fullscreen =
+    .label = Ukončiť režim celej obrazovky
+    .accesskey = U
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Obraz v obraze
+    .accesskey = v
 main-context-menu-image-reload =
     .label = Znova načítať obrázok
     .accesskey = t
@@ -141,6 +178,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Zobraziť video
     .accesskey = b
+main-context-menu-image-copy =
+    .label = Kopírovať obrázok
+    .accesskey = v
 main-context-menu-image-copy-location =
     .label = Kopírovať adresu obrázka
     .accesskey = e
@@ -186,12 +226,21 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Skryť tento zásuvný modul
     .accesskey = m
+main-context-menu-save-to-pocket =
+    .label = Uložiť stránku do { -pocket-brand-name }u
+    .accesskey = k
+main-context-menu-send-to-device =
+    .label = Odoslať stránku do zariadenia
+    .accesskey = a
 main-context-menu-view-background-image =
     .label = Zobraziť obrázok pozadia
     .accesskey = b
 main-context-menu-keyword =
     .label = Pridať kľúčové slovo pre toto vyhľadávanie…
     .accesskey = d
+main-context-menu-link-send-to-device =
+    .label = Odoslať odkaz do zariadenia
+    .accesskey = a
 main-context-menu-frame =
     .label = Tento rámec
     .accesskey = T
@@ -240,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Preskúmať prvok
     .accesskey = m
+main-context-menu-inspect-a11y-properties =
+    .label = Preskúmať vlastnosti zjednodušenia ovládania
 main-context-menu-eme-learn-more =
     .label = Ďalšie informácie o DRM…
     .accesskey = D
