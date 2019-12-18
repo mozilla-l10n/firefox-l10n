@@ -106,6 +106,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Fàg an làn-sgrìn
+    .accesskey = F
 main-context-menu-image-reload =
     .label = Ath-luchdaich an dealbh
     .accesskey = A
