@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Mont d'ar bajennad kent
+    .aria-label = Kent
+    .accesskey = K
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Mont d'ar bajennad war-lerc'h
+    .aria-label = War-lerc'h
+    .accesskey = W
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Adkargañ
+    .accesskey = A
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Paouez
+    .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Lakaat ur sined war ar bajenn-mañ
+    .accesskey = b
 main-context-menu-open-link =
     .label = Digeriñ an ere
     .accesskey = g
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Enrollañ an ere evel…
     .accesskey = n
+main-context-menu-save-link-to-pocket =
+    .label = Enrollañ an ere etrezek { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -144,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Kuitaat ar mod skramm a-bezh
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Skeudenn-ouzh-skeudenn
+    .accesskey = S
 main-context-menu-image-reload =
     .label = Adkargañ ar skeudenn
     .accesskey = r
@@ -201,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Kuzhat an enlugellad-mañ
     .accesskey = u
+main-context-menu-save-to-pocket =
+    .label = Enrollañ ar bajenn etrezek { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Kas ar bajenn d'an trevnad
     .accesskey = t
@@ -261,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Ensellout an elfenn
     .accesskey = E
+main-context-menu-inspect-a11y-properties =
+    .label = Enselloutt ar perzhioù haezadusted
 main-context-menu-eme-learn-more =
     .label = Gouzout hiroc'h diwar-benn an DRM...
     .accesskey = D
