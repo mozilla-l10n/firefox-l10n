@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Crash Reports
-clear-all-reports-label = Remove All Reports
+submit-all-button-label = Submit All
 delete-button-label = Clear All
 delete-confirm-title = Are you sure?
-delete-confirm-description = This will delete all reports and cannot be undone.
 delete-unsubmitted-description = This will delete all unsubmitted crash reports and cannot be undone.
 delete-submitted-description = This will remove the list of submitted crash reports but will not delete the submitted data. This cannot be undone.
 crashes-unsubmitted-label = Unsubmitted Crash Reports
