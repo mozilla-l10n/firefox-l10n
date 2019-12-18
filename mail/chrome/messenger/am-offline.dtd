@@ -5,8 +5,8 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Ազատ տեղ ունենալու համար մի ներբեռնեք.">
 <!ENTITY doNotDownloadNntp.label "Ազատ տեղ ունենալու համար մի ներբեռնեք նամակները.">
 <!ENTITY doNotDownloadImap.label "Ազատ տեղ ունենալու համար նամակների բեռնումը սպասարկիչից և տեղային օրինակների պահումը՝ ցանցից դուրս օգտ. համար կարող է սահմանափակել ըստ ժամկետի կամ չափի։">
-<!ENTITY allFoldersOffline.label "Պահել այս փոստարկղի նամակները համակարգչում">
-<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Պահել բոլոր փոստարկղների նամակները այս համակարգչում">
+<!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY offlineNotDownload.label "Նամակներ, որոնք մեծ են՝">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Չներբեռնել նամակներ, որոնք մեծ են՝">
@@ -37,13 +37,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Նամակի համաժամեցում">
 <!ENTITY diskspaceGroupTitle.label "Ազատ տեղ">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Համաժամեցնել բոլոր նամակները անկախ ժամկետից">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Համաժամեցնել ամենավերջին՝">

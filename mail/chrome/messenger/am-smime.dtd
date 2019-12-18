@@ -30,6 +30,8 @@
 <!ENTITY manageCerts2.accesskey "Կ">
 <!ENTITY manageDevices.label "Անվտանգության սարքեր">
 <!ENTITY manageDevices.accesskey "y">
+
 <!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Ընտրել վկայագիր">
 <!ENTITY certPicker.info  "Վկայագիր.">
 <!ENTITY certPicker.detailsLabel "Ընտրված Վկայագրի մանրամասները.">
