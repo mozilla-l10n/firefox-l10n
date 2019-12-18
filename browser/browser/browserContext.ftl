@@ -42,6 +42,9 @@ toolbar-button-page-save =
 main-context-menu-open-link-new-tab =
     .label = Gufungurira Ihuza mu Gafishi Gashya
     .accesskey = G
+main-context-menu-open-link-new-window =
+    .label = Gufungurira Ihuza mu Dirishya Rishya
+    .accesskey = D
 main-context-menu-save-link =
     .label = Kubika Ihuza Muri...
     .accesskey = K
@@ -63,6 +66,9 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-pause =
+    .label = Guhagarara
+    .accesskey = h
 
 ##
 
@@ -97,12 +103,18 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Kwerekana Iyi Kadiri Gusa
     .accesskey = K
+main-context-menu-frame-open-tab =
+    .label = Gufungura Ikadiri mu Gafishi Gashya
+    .accesskey = m
 main-context-menu-frame-open-window =
     .label = Gufungura Ikadiri mu Idirishya Rishya
     .accesskey = I
 main-context-menu-frame-reload =
     .label = Kongera Gutangiza Ikadiri
     .accesskey = o
+main-context-menu-frame-save-as =
+    .label = Kubika Ikadiri Muri...
+    .accesskey = I
 main-context-menu-frame-view-source =
     .label = Kureba Inkomoko y'Ikadiri
     .accesskey = d
