@@ -54,6 +54,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Cadw Tudalen Fel…
+    .accesskey = T
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -68,6 +71,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Agor Dolen mewn Tab Newydd
     .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = Agor Dolen mewn Tab Cynhwysydd Newydd
+    .accesskey = T
 main-context-menu-open-link-new-window =
     .label = Agor Dolen mewn Ffenestr Newydd
     .accesskey = F
@@ -77,6 +83,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Gosod Nod Tudalen i'r Ddolen
     .accesskey = D
+main-context-menu-save-link =
+    .label = Cadw'r Ddolen Fel…
+    .accesskey = a
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -110,6 +119,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Dad-dewi
     .accesskey = a
+main-context-menu-media-play-speed =
+    .label = Cyflymder Chwarae
+    .accesskey = y
+main-context-menu-media-play-speed-slow =
+    .label = Araf (0.5×)
+    .accesskey = A
+main-context-menu-media-play-speed-fast =
+    .label = Cyflym (1.25×)
+    .accesskey = C
+main-context-menu-media-play-speed-faster =
+    .label = Cyflymach (1.5×)
+    .accesskey = y
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Hyrt (2×)
+    .accesskey = H
+main-context-menu-media-loop =
+    .label = Cylchu
+    .accesskey = C
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -183,12 +212,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Cuddio'r ategyn
     .accesskey = C
+main-context-menu-send-to-device =
+    .label = Anfon Tudalen i Ddyfais
+    .accesskey = D
 main-context-menu-view-background-image =
     .label = Edrych ar Ddelwedd Gefndir
     .accesskey = G
 main-context-menu-keyword =
     .label = Ychwanegu Allweddair i'r Chwilio…
     .accesskey = Y
+main-context-menu-link-send-to-device =
+    .label = Anfon Dolen i Ddyfais
+    .accesskey = D
 main-context-menu-frame =
     .label = Y Ffrâm
     .accesskey = F
@@ -201,6 +236,9 @@ main-context-menu-frame-open-tab =
 main-context-menu-frame-open-window =
     .label = Agor Ffrâm mewn Ffenestr Newydd
     .accesskey = F
+main-context-menu-frame-reload =
+    .label = Ail-lwytho'r Ffrâm
+    .accesskey = r
 main-context-menu-frame-bookmark =
     .label = Gosod Nod Tudalen i'r Ffrâm
     .accesskey = F
@@ -216,6 +254,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Edrych ar Wybodaeth am y Ffrâm
     .accesskey = W
+main-context-menu-view-selection-source =
+    .label = Edrych ar Ffynhonnell y Dewis
+    .accesskey = E
 main-context-menu-view-page-source =
     .label = Edrych ar God Gwreiddiol y Dudalen
     .accesskey = G
@@ -228,3 +269,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Newid Cyfeiriad Tudalen
     .accesskey = N
+main-context-menu-eme-learn-more =
+    .label = Dysgu rhagor am DRM…
+    .accesskey = D
