@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Clicar en tot desplaçant la mirga cap aval per afichar l'istoric
+           *[other] Far un clic drech o clicar en desplaçant la mirga cap aval per afichar l'istoric
+        }
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Recuolar d'una pagina
+    .aria-label = Pagina precedenta
+    .accesskey = P
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Avançar d'una pagina
+    .aria-label = Pagina seguenta
+    .accesskey = s
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -19,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Actualizar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Arrestar
+    .accesskey = A
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -34,11 +54,17 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Enregistrar jos…
+    .accesskey = E
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Marcar aquesta pagina
+    .accesskey = m
 main-context-menu-open-link =
     .label = Dobrir lo ligam
     .accesskey = o
@@ -54,6 +80,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-bookmark-this-link =
     .label = Marcapagina sus aqueste ligam
     .accesskey = M
+main-context-menu-save-link =
+    .label = Enregistrar la cibla del ligam jos…
+    .accesskey = E
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -150,6 +179,12 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copiar l'URL del fichièr àudio
     .accesskey = o
+main-context-menu-image-save-as =
+    .label = Enregistrar l'imatge jos…
+    .accesskey = s
+main-context-menu-image-email =
+    .label = Mandar l'imatge per corrièr electronic…
+    .accesskey = t
 main-context-menu-image-set-as-background =
     .label = Causir l'imatge coma fons d'ecran
     .accesskey = s
@@ -168,6 +203,12 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Enregistrar un instantanèu jos…
     .accesskey = s
+main-context-menu-video-email =
+    .label = Mandar la vidèo per corrièr electronic…
+    .accesskey = d
+main-context-menu-audio-email =
+    .label = Mandar lo fichièr àudio per corrièr electronic…
+    .accesskey = d
 main-context-menu-plugin-play =
     .label = Activar aqueste plugin
     .accesskey = t
@@ -204,6 +245,12 @@ main-context-menu-frame-reload =
 main-context-menu-frame-bookmark =
     .label = Marcapagina sus aqueste quadre
     .accesskey = M
+main-context-menu-frame-save-as =
+    .label = Enregistrar lo quadre jos…
+    .accesskey = E
+main-context-menu-frame-print =
+    .label = Imprimir lo quadre…
+    .accesskey = I
 main-context-menu-frame-view-source =
     .label = Còde font del quadre
     .accesskey = d
@@ -228,6 +275,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Examinar l'element
     .accesskey = x
+main-context-menu-inspect-a11y-properties =
+    .label = Inspectar las proprietats d’accessibilitat
 main-context-menu-eme-learn-more =
     .label = Ne saber mai suls DRM…
     .accesskey = D
