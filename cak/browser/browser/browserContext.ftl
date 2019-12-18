@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Tiyak ximon tzij achi'el…
     .accesskey = o
+main-context-menu-save-link-to-pocket =
+    .label = Tiyak Ximonel pa { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -161,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Tel pa chijun ruwa kematz'ib'
     .accesskey = c
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Rukamulokem wachib'äl
     .accesskey = R
@@ -218,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Tewäx re nak'ab'äl re'
     .accesskey = e
+main-context-menu-save-to-pocket =
+    .label = Tiyak Ruxaq pa { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Titaq ruxaq pa Okisaxel
     .accesskey = O
