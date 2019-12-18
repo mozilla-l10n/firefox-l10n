@@ -207,3 +207,6 @@ main-context-menu-view-page-info =
 main-context-menu-inspect-element =
     .label = මෙම අංගය පරීක්ෂා කරන්න
     .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = DRM පිළිබඳ වැඩිදුර දැනගන්න...
+    .accesskey = D
