@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Trekk ned for å vise historikk
+           *[other] Høgreklikk eller trekk ned for å vise historikk
+        }
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Gå tilbake ei side
+    .aria-label = Tilbake
+    .accesskey = b
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Gå fram ei side
+    .aria-label = Fram
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -19,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Oppdater
+    .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stopp
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -34,11 +54,32 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Lagre sida som…
+    .accesskey = r
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Bokmerk denne sida
+    .accesskey = m
+main-context-menu-open-link =
+    .label = Opne lenke
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = Opne lenke i ny fane
+    .accesskey = n
+main-context-menu-open-link-container-tab =
+    .label = Opne lenke i ny innhaldsfane
+    .accesskey = a
+main-context-menu-open-link-new-window =
+    .label = Opne lenke i nytt vindauge
+    .accesskey = O
+main-context-menu-open-link-new-private-window =
+    .label = Opne lenke i nytt privat vindauge
+    .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Bokmerk denne lenka
     .accesskey = B
@@ -47,6 +88,9 @@ main-context-menu-bookmark-this-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Kopier e-postadressa
+    .accesskey = o
 main-context-menu-copy-link =
     .label = Kopier lenkeadresse
     .accesskey = K
@@ -92,6 +136,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Latterleg høg (2×)
     .accesskey = L
+main-context-menu-media-loop =
+    .label = Repeter
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -114,15 +161,54 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-image-reload =
     .label = Oppdater bilde
     .accesskey = l
+main-context-menu-image-view =
+    .label = Vis bildet
+    .accesskey = V
 main-context-menu-video-view =
     .label = Vis video
     .accesskey = s
+main-context-menu-image-copy =
+    .label = Kopier bildet
+    .accesskey = b
+main-context-menu-image-copy-location =
+    .label = Kopier bildeadressa
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Kopier videoadressa
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Kopier lydadressa
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Lagre bildet som…
+    .accesskey = b
+main-context-menu-image-email =
+    .label = Send bildet med e-post…
+    .accesskey = i
+main-context-menu-image-set-as-background =
+    .label = Bruk som skrivebordbakgrunn…
+    .accesskey = m
 main-context-menu-image-info =
     .label = Vis bildeinfo
     .accesskey = b
 main-context-menu-image-desc =
     .label = Vis skildring
     .accesskey = k
+main-context-menu-video-save-as =
+    .label = Lagre videoen som…
+    .accesskey = a
+main-context-menu-audio-save-as =
+    .label = Lagre lyden som…
+    .accesskey = a
+main-context-menu-video-image-save-as =
+    .label = Lagre snapshot som…
+    .accesskey = L
+main-context-menu-video-email =
+    .label = Send videoen…
+    .accesskey = n
+main-context-menu-audio-email =
+    .label = Send lydfila med e-post…
+    .accesskey = n
 main-context-menu-plugin-play =
     .label = Slå på dette programtillegget
     .accesskey = a
@@ -132,6 +218,12 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = Send sida til eining
     .accesskey = e
+main-context-menu-view-background-image =
+    .label = Vis bakgrunnsbildet
+    .accesskey = b
+main-context-menu-keyword =
+    .label = Lag nykelord for dette søket…
+    .accesskey = L
 main-context-menu-link-send-to-device =
     .label = Send lenke til eining
     .accesskey = e
@@ -141,12 +233,24 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Vis berre denne ramma
     .accesskey = b
+main-context-menu-frame-open-tab =
+    .label = Opne ramme i ny fane
+    .accesskey = r
+main-context-menu-frame-open-window =
+    .label = Opne ramme i nytt vindauge
+    .accesskey = v
 main-context-menu-frame-reload =
     .label = Oppdater ramme
     .accesskey = O
 main-context-menu-frame-bookmark =
     .label = Bokmerk denne ramma
     .accesskey = B
+main-context-menu-frame-save-as =
+    .label = Lagre ramma som…
+    .accesskey = a
+main-context-menu-frame-print =
+    .label = Skriv ut ramma…
+    .accesskey = k
 main-context-menu-frame-view-source =
     .label = Vis kjeldekode for ramma
     .accesskey = k
@@ -171,3 +275,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspiser element
     .accesskey = I
+main-context-menu-inspect-a11y-properties =
+    .label = Inspiser tilgjengeinnstillingar
+main-context-menu-eme-learn-more =
+    .label = Les meir om DRM…
+    .accesskey = D
