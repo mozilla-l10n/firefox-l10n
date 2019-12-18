@@ -94,6 +94,12 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copiar endereço de email
+    .accesskey = e
+main-context-menu-copy-link =
+    .label = Copiar ligação
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -174,6 +180,15 @@ main-context-menu-video-view =
     .accesskey = e
 main-context-menu-image-copy =
     .label = Copiar imagem
+    .accesskey = o
+main-context-menu-image-copy-location =
+    .label = Copiar ligação da imagem
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Copiar ligação do vídeo
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Copiar ligação do áudio
     .accesskey = o
 main-context-menu-image-save-as =
     .label = Guardar imagem como…
