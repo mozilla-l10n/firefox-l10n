@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = ಕೊಂಡಿಯನ್ನು ತೆರೆ
+    .accesskey = O
 main-context-menu-save-link =
     .label = ಕೊಂಡಿಯನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = k
@@ -47,6 +50,9 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = ಇಮೈಲ್ ವಿಳಾಸವನ್ನು ಕಾಪಿ ಮಾಡು
+    .accesskey = E
 
 ## Media (video/audio) controls
 ##
@@ -54,28 +60,73 @@ main-context-menu-save-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = ಚಾಲನೆ ಮಾಡು
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಲ್ಲಿಸು
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = ಮೂಕವಾಗಿಸು
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = ಮೂಕವಾಗಿಸಬೇಡ
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = ನಿಯಂತ್ರಣಗಳನ್ನು ತೋರಿಸು
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = ನಿಯಂತ್ರಣಗಳನ್ನು ಅಡಗಿಸು
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು
+    .accesskey = u
+main-context-menu-image-reload =
+    .label = ಚಿತ್ರವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು
+    .accesskey = R
 main-context-menu-image-view =
     .label = ಚಿತ್ರವನ್ನು ನೋಡು
     .accesskey = I
 main-context-menu-image-copy-location =
     .label = ಚಿತ್ರದ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು
     .accesskey = o
+main-context-menu-video-copy-location =
+    .label = ವೀಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = ಆಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = v
+main-context-menu-image-email =
+    .label = ಚಿತ್ರವನ್ನು ಇಮೈಲ್ ಮಾಡಿ…
+    .accesskey = g
 main-context-menu-image-set-as-background =
     .label = ಗಣಕತೆರೆಯ ಹಿನ್ನಲೆಯಾಗಿ ಹೊಂದಿಸು...
     .accesskey = S
+main-context-menu-image-info =
+    .label = ಚಿತ್ರದ ಮಾಹಿತಿಯನ್ನು ನೋಡು
+    .accesskey = f
+main-context-menu-audio-save-as =
+    .label = ಆಡಿಯೋ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…
+    .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…
+    .accesskey = S
+main-context-menu-video-email =
+    .label = ವೀಡಿಯೊವನ್ನು ಇಮೈಲ್ ಮಾಡಿ…
+    .accesskey = a
 main-context-menu-view-background-image =
     .label = ಹಿನ್ನಲೆಯ ಚಿತ್ರವನ್ನು ನೋಡು
     .accesskey = w
@@ -94,6 +145,9 @@ main-context-menu-frame-reload =
 main-context-menu-frame-save-as =
     .label = ಚೌಕಟ್ಟನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = F
+main-context-menu-frame-print =
+    .label = ಚೌಕಟ್ಟನ್ನು ಮುದ್ರಿಸು…
+    .accesskey = P
 main-context-menu-frame-view-source =
     .label = ಚೌಕಟ್ಟಿನ ಮೂಲವನ್ನು ನೋಡು
     .accesskey = V
@@ -112,3 +166,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = ಪುಟದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸು
     .accesskey = D
+main-context-menu-inspect-element =
+    .label = ಪರೀಕ್ಷಕ ಘಟಕ
+    .accesskey = Q
