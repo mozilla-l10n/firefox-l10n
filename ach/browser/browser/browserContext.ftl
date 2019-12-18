@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Yab Kakube
+    .accesskey = Y
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -57,6 +60,12 @@ main-context-menu-media-play =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Nek dwone
+    .accesskey = N
+main-context-menu-media-unmute =
+    .label = Yab dwone
+    .accesskey = d
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
