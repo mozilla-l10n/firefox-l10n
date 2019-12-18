@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Mundur satu laman
+    .aria-label = Mundur
+    .accesskey = K
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -58,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Markahi Laman ini
+    .accesskey = m
 main-context-menu-open-link =
     .label = Buka Tautan
     .accesskey = a
