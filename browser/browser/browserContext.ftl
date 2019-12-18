@@ -5,6 +5,10 @@
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Regresar una página
+    .aria-label = Anterior
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +16,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Avanzar una página
+    .aria-label = Siguiente
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -19,11 +27,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Recargar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Detener
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -42,6 +56,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Agregar esta página a marcadores
+    .accesskey = m
 main-context-menu-open-link =
     .label = Abrir enlace
     .accesskey = A
@@ -121,6 +138,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ver video
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Copiar imagen
+    .accesskey = C
 main-context-menu-image-copy-location =
     .label = Copiar dirección de la imagen
     .accesskey = o
@@ -217,6 +237,8 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Cambiar la orientación de esta página
     .accesskey = d
+main-context-menu-inspect-a11y-properties =
+    .label = Inspeccionar propiedades de accesibilidad
 main-context-menu-eme-learn-more =
     .label = Aprende más acerca de DRM…
     .accesskey = D
