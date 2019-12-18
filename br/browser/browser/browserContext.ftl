@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Enrollañ ar bajenn evel…
+    .accesskey = b
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Digeriñ an ere e-barzh un ivinell nevez
     .accesskey = i
+main-context-menu-open-link-container-tab =
+    .label = Digeriñ an ere en un ivinell endalc'her nevez
+    .accesskey = c
 main-context-menu-open-link-new-window =
     .label = Digeriñ an ere e-barzh ur prenestr nevez
     .accesskey = b
@@ -96,6 +102,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Heglev
     .accesskey = H
+main-context-menu-media-play-speed =
+    .label = Tizh lenn
+    .accesskey = l
+main-context-menu-media-play-speed-slow =
+    .label = Gorrek (0.5×)
+    .accesskey = G
+main-context-menu-media-play-speed-fast =
+    .label = Herrek (1.25×)
+    .accesskey = H
+main-context-menu-media-play-speed-faster =
+    .label = Herrekoc'h (1.5×)
+    .accesskey = e
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Tizh divuzul (2×)
+    .accesskey = d
+main-context-menu-media-loop =
+    .label = Dol
+    .accesskey = D
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +135,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Skramm a-bezh
+    .accesskey = S
 main-context-menu-media-video-leave-fullscreen =
     .label = Kuitaat ar mod skramm a-bezh
     .accesskey = u
@@ -121,6 +150,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Gwelout ar video
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Eilañ ar skeudenn
+    .accesskey = r
 main-context-menu-image-copy-location =
     .label = Eilañ lec'hiadur ar skeudenn
     .accesskey = k
@@ -166,12 +198,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Kuzhat an enlugellad-mañ
     .accesskey = u
+main-context-menu-send-to-device =
+    .label = Kas ar bajenn d'an trevnad
+    .accesskey = t
 main-context-menu-view-background-image =
     .label = Gwelout ar skeudenn drekleur
     .accesskey = d
 main-context-menu-keyword =
     .label = Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …
     .accesskey = k
+main-context-menu-link-send-to-device =
+    .label = Kas an ere d'an trevnad
+    .accesskey = t
 main-context-menu-frame =
     .label = Ar frammad-se
     .accesskey = f
@@ -202,6 +240,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Gwelout stlennoù ar frammad
     .accesskey = t
+main-context-menu-view-selection-source =
+    .label = Gwelout tarzh an diuzad
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Gwelout tarzh ar bajennad
     .accesskey = t
@@ -214,3 +255,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Kemmañ tu ar bajenn
     .accesskey = b
+main-context-menu-inspect-element =
+    .label = Ensellout an elfenn
+    .accesskey = E
+main-context-menu-eme-learn-more =
+    .label = Gouzout hiroc'h diwar-benn an DRM...
+    .accesskey = D
