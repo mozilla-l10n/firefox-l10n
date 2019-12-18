@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Kéo xuống để xem lịch sử
+           *[other] Nhấn chuột phải hoặc kéo xuống để hiển thị lịch sử
+        }
 
 ## Back
 
@@ -64,3 +70,9 @@ main-context-menu-copy-link =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Thoát chế độ toàn màn hình
+    .accesskey = u
+main-context-menu-eme-learn-more =
+    .label = Tìm hiểu thêm về DRM…
+    .accesskey = D
