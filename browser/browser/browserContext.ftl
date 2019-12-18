@@ -39,6 +39,12 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Open Link
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = Open Link in New Tab
+    .accesskey = T
 main-context-menu-open-link-new-window =
     .label = Open Link in New Window
     .accesskey = W
@@ -66,27 +72,66 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Play
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = Pause
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Mute
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = Unmute
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Show Controls
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = Hide Controls
+    .accesskey = C
 
 ##
 
+main-context-menu-image-reload =
+    .label = Reload Image
+    .accesskey = R
 main-context-menu-image-view =
     .label = View Image
     .accesskey = I
 main-context-menu-image-copy-location =
     .label = Copy Image Location
     .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Copy Video Location
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Copy Audio Location
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Save Image As…
     .accesskey = v
 main-context-menu-image-set-as-background =
     .label = Set As Desktop Background…
+    .accesskey = S
+main-context-menu-image-info =
+    .label = View Image Info
+    .accesskey = f
+main-context-menu-video-save-as =
+    .label = Save Video As…
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = Save Audio As…
+    .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = Save Snapshot As…
     .accesskey = S
 main-context-menu-view-background-image =
     .label = View Background Image
@@ -100,6 +145,9 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Show Only This Frame
     .accesskey = S
+main-context-menu-frame-open-tab =
+    .label = Open Frame in New Tab
+    .accesskey = T
 main-context-menu-frame-open-window =
     .label = Open Frame in New Window
     .accesskey = W
@@ -130,3 +178,6 @@ main-context-menu-view-page-info =
 main-context-menu-bidi-switch-text =
     .label = Switch Text Direction
     .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = Switch Page Direction
+    .accesskey = D
