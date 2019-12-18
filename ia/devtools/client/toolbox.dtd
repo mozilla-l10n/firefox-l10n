@@ -69,8 +69,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Activar le cassas de depuration del chrome del browser e del additivos">
-<!ENTITY options.enableChrome.tooltip3  "Activar iste option te permittera usar plure instrumentos de disveloppator in le contexto del navigator (via Instrumentos > Disveloppamento Web > Cassa de instrumentos del navigator) e depurar additivos ab le gestor de additivos">
+<!ENTITY options.enableChrome.label5    "Activar le instrumentarios de depuration chrome e del additivos">
+<!ENTITY options.enableChrome.tooltip3  "Activar iste option te permittera usar plure instrumentos de disveloppator in le contexto del navigator (via Instrumentos > Disveloppamento Web > Instrumentario del navigator) e depurar additivos ab le gestor de additivos">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -82,19 +82,19 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Disactivar JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Activar iste option disactiva JavaScript pro le scheda currente. Si le scheda o le cassa de instrumentos es claudite, iste parametro essera oblidate.">
+<!ENTITY options.disableJavaScript.tooltip   "Activar iste option disactiva JavaScript pro le scheda currente. Si le scheda o le instrumentario es claudite, iste parametro essera oblidate.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "Disactivar le cache HTTP (quando le cassa de instrumentos es aperte)">
-<!ENTITY options.disableHTTPCache.tooltip   "Activar iste option disactiva le cache HTTP pro tote le schedas que ha le cassa de instrumentos aperte. Iste option non ha effecto sur le Service Workers.">
+<!ENTITY options.disableHTTPCache.label     "Disactivar le cache HTTP (quando le instrumentario es aperte)">
+<!ENTITY options.disableHTTPCache.tooltip   "Activar iste option disactiva le cache HTTP pro tote le schedas que ha le instrumentario aperte. Iste option non ha effecto sur le Service Workers.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "Activar le Service Workers via HTTP (quando le cassa de instrumentos es aperite)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Activar iste option disactiva le service workers via HTTP pro tote le schedas que ha le cassa de instrumentos aperte.">
+<!ENTITY options.enableServiceWorkersHTTP.label     "Activar le Service Workers via HTTP (quando le instrumentario es aperte)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Activar iste option disactiva le service workers via HTTP pro tote le schedas que ha le instrumentario aperte.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -110,12 +110,12 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
-<!ENTITY options.selectEnabledToolboxButtons.label     "Buttones disponibile in le cassa de instrumentos">
+<!ENTITY options.selectEnabledToolboxButtons.label     "Buttones disponibile in le instrumentario">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
-<!ENTITY options.toolNotSupported.label  "* Non admittite pro le destination actual in le cassa de instrumentos">
+<!ENTITY options.toolNotSupported.label  "* Non supportate pro le destination actual in le instrumentario">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -135,11 +135,6 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Activar le marcas temporal">
 <!ENTITY options.timestampMessages.tooltip    "Si tu activa iste option, le commandos e le resultatos in le consola web monstrara un marca temporal">
-
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Gruppar messages simile">
-<!ENTITY options.warningGroups.tooltip    "Quando activate le messages simile es gruppate">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
