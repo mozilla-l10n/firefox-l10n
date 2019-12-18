@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Trage în jos pentru afișarea istoricului
+           *[other] Dă clic dreapta sau trage în jos pentru afișarea istoricului
+        }
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Înapoi cu o pagină
+    .aria-label = Înapoi
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Înainte cu o pagină
+    .aria-label = Înainte
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Marchează pagina
+    .accesskey = m
 main-context-menu-open-link =
     .label = Deschide linkul
     .accesskey = O
@@ -63,9 +80,15 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Deschide linkul într-o fereastră privată nouă
     .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = Marchează linkul
+    .accesskey = L
 main-context-menu-save-link =
     .label = Salvează linkul ca…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Salvează linkul în { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -86,6 +109,9 @@ main-context-menu-copy-link =
 
 main-context-menu-media-play =
     .label = Redă
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = Pauză
     .accesskey = P
 
 ##
@@ -123,12 +149,21 @@ main-context-menu-media-loop =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Afișează comenzile
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = Ascunde comenzile
+    .accesskey = C
 
 ##
 
 main-context-menu-media-video-fullscreen =
     .label = Ecran complet
     .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = Ieși din modul de ecran complet
+    .accesskey = u
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
@@ -152,9 +187,15 @@ main-context-menu-image-copy-location =
 main-context-menu-video-copy-location =
     .label = Copiază locația videoclipului
     .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Copiază locația secvenței vocale
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Salvează imaginea ca…
     .accesskey = v
+main-context-menu-image-email =
+    .label = Trimite imaginea prin e-mail…
+    .accesskey = g
 main-context-menu-image-set-as-background =
     .label = Setează ca fundal pentru desktop…
     .accesskey = S
@@ -167,15 +208,36 @@ main-context-menu-image-desc =
 main-context-menu-video-save-as =
     .label = Salvează videoclipul ca…
     .accesskey = v
+main-context-menu-audio-save-as =
+    .label = Salvează materialul audio ca…
+    .accesskey = v
 main-context-menu-video-image-save-as =
     .label = Salvează instantaneul ca…
     .accesskey = S
+main-context-menu-video-email =
+    .label = Trimite videoclipul prin e-mail…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = Trimite secvența audio prin e-mail…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = Activează pluginul
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = Ascunde pluginul
+    .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = Salvează pagina în { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Trimite pagina unui dispozitiv
     .accesskey = n
 main-context-menu-view-background-image =
     .label = Vezi imaginea de fundal
     .accesskey = w
+main-context-menu-keyword =
+    .label = Adaugă un cuvânt-cheie pentru această căutare…
+    .accesskey = K
 main-context-menu-link-send-to-device =
     .label = Trimite linkul unui dispozitiv
     .accesskey = n
@@ -194,6 +256,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Reîncarcă cadrul
     .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = Marchează cadrul
+    .accesskey = M
 main-context-menu-frame-save-as =
     .label = Salvează cadrul ca…
     .accesskey = F
@@ -203,6 +268,9 @@ main-context-menu-frame-print =
 main-context-menu-frame-view-source =
     .label = Vezi sursa cadrului
     .accesskey = V
+main-context-menu-frame-view-info =
+    .label = Vezi informații despre cadru
+    .accesskey = I
 main-context-menu-view-selection-source =
     .label = Vezi sursa selecției
     .accesskey = e
