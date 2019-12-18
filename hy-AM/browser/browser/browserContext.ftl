@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Պտտեք ներքև՝ պատմությունը դիտելու համար
+           *[other] Աջ սեղմում կամ պտտում ներքև՝ պատմությունը դիտելու համար
+        }
 
 ## Back
 
@@ -39,6 +45,15 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Բացել Հղումը
+    .accesskey = Բ
+main-context-menu-open-link-new-tab =
+    .label = Հղումը Բացել Նոր Ներդիրում
+    .accesskey = Բ
+main-context-menu-open-link-new-window =
+    .label = Հղումը Բացել Նոր Պատուհանում
+    .accesskey = Բ
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -58,6 +73,33 @@ toolbar-button-page-save =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Ցուցադրել ղեկավարիչներին
+    .accesskey = Ց
+main-context-menu-media-hide-controls =
+    .label = Թաքցնել ղեկավարիչները
+    .accesskey = Թ
 
 ##
 
+main-context-menu-video-view =
+    .label = Դիտել Հոլովակը
+    .accesskey = Դ
+main-context-menu-frame =
+    .label = Այս շրջանակում
+    .accesskey = Ա
+main-context-menu-frame-open-tab =
+    .label = Շրջանակը բացել նոր ներդիրում
+    .accesskey = Շ
+main-context-menu-frame-open-window =
+    .label = Շրջանակը բացել նոր պատուհանում
+    .accesskey = Շ
+main-context-menu-frame-print =
+    .label = Տպել շրջանակը…
+    .accesskey = Տ
+main-context-menu-frame-view-source =
+    .label = Դիտել շրջանակը
+    .accesskey = Դ
+main-context-menu-frame-view-info =
+    .label = Տեղեկություն շրջանակի մասին
+    .accesskey = Տ
