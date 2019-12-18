@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-this-link =
+    .label = ఈ లింకును ఇష్టాంశము చేయి
+    .accesskey = L
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -51,9 +54,18 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-pause =
+    .label = కొద్దిసేపు ఆపు
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = ధ్వని లేకుండా చేయి
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = ధ్వనిని ప్రవేశపెట్టు
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
