@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Ji bo dîtina raboriyê kaş bike xwarê
+           *[other] Ji bo dîtina raboriyê rast bitikîne yan jî kaş biker xwarê
+        }
 
 ## Back
 
@@ -48,6 +54,12 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Girêdanê Di Hilpekîneke Nû De Veke
     .accesskey = H
+main-context-menu-open-link-new-window =
+    .label = Girêdanê di pencereyeke nû de veke
+    .accesskey = p
+main-context-menu-open-link-new-private-window =
+    .label = Girêdanê di Pencereyeke Nepen ya nû de veke
+    .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = Vê Girêdanê Têxe Nava Bijareyan...
     .accesskey = e
@@ -103,6 +115,9 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-fullscreen =
     .label = Dîmender tijî
     .accesskey = t
+main-context-menu-media-video-leave-fullscreen =
+    .label = Ji moda Dîmender Tijî derkeve
+    .accesskey = m
 main-context-menu-image-reload =
     .label = Wêneyê Dîsa Bar Bike
     .accesskey = r
@@ -124,18 +139,36 @@ main-context-menu-audio-copy-location =
 main-context-menu-image-save-as =
     .label = Wêneyê Cuda Tomar Bike...
     .accesskey = W
+main-context-menu-image-email =
+    .label = Wêneyî bi epeyamê bişîne…
+    .accesskey = n
 main-context-menu-image-set-as-background =
     .label = Wekî Rûerda Sermaseyê Mîheng Bike...
     .accesskey = S
 main-context-menu-image-info =
     .label = Agahiyên Wêneyî Nîşan Bide
     .accesskey = A
+main-context-menu-image-desc =
+    .label = Ravekirinê nîşan bide
+    .accesskey = R
 main-context-menu-video-save-as =
     .label = Vîdeoyê Cuda Tomar Bike…
     .accesskey = V
 main-context-menu-audio-save-as =
     .label = Audîoyê Cuda Tomar Bike…
     .accesskey = A
+main-context-menu-video-image-save-as =
+    .label = Wênekranê cuda tomar bike…
+    .accesskey = t
+main-context-menu-video-email =
+    .label = Vîdeoyê bi epeyamê bişîne…
+    .accesskey = y
+main-context-menu-audio-email =
+    .label = Audioyê bi epeyamê bişîne…
+    .accesskey = A
+main-context-menu-plugin-hide =
+    .label = Vê pêvekê veşêre
+    .accesskey = v
 main-context-menu-view-background-image =
     .label = Wêneyê Rûerdê Nîşan Bide
     .accesskey = W
@@ -151,6 +184,9 @@ main-context-menu-frame-show-this =
 main-context-menu-frame-open-tab =
     .label = Çarçoveyê Di Hilpekîneke Nû De Veke
     .accesskey = V
+main-context-menu-frame-open-window =
+    .label = Çarçoweyê di pencereyeke nû de veke
+    .accesskey = p
 main-context-menu-frame-reload =
     .label = Çarçoveyê Nû Nîşan Bide
     .accesskey = a
@@ -184,3 +220,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Bibore Rêveberiya Rûpelê
     .accesskey = R
+main-context-menu-inspect-element =
+    .label = Hêmanê vekole
+    .accesskey = Q
