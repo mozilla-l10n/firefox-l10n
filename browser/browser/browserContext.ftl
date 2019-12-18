@@ -61,3 +61,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-image-info =
+    .label = Skatīt attēla informāciju
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = Skatīt attēla aprakstu
+    .accesskey = p
