@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Eine Seite zurück
+    .aria-label = Zurück
+    .accesskey = Z
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Eine Seite vor
+    .aria-label = Vor
+    .accesskey = V
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Neu laden
+    .accesskey = N
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stopp
+    .accesskey = p
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -54,12 +68,21 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Link in neuem Tab öffnen
     .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = Link in neuem Tab in Umgebung öffnen
+    .accesskey = m
 main-context-menu-open-link-new-window =
     .label = Link in neuem Fenster öffnen
     .accesskey = F
+main-context-menu-open-link-new-private-window =
+    .label = Link in neuem privaten Fenster öffnen
+    .accesskey = p
 main-context-menu-save-link =
     .label = Ziel speichern unter…
     .accesskey = Z
+main-context-menu-save-link-to-pocket =
+    .label = Link in { -pocket-brand-name } speichern
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -93,6 +116,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ton an
     .accesskey = T
+main-context-menu-media-play-speed =
+    .label = Wiedergabegeschwindigkeit
+    .accesskey = g
+main-context-menu-media-play-speed-slow =
+    .label = Langsam (0.5×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Schnell (1.25×)
+    .accesskey = S
+main-context-menu-media-play-speed-faster =
+    .label = Sehr schnell (1.5×)
+    .accesskey = h
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Doppelte Geschwindigkeit (2×)
+    .accesskey = D
+main-context-menu-media-loop =
+    .label = Endlosschleife
+    .accesskey = f
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,12 +155,23 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-fullscreen =
     .label = Vollbild
     .accesskey = V
+main-context-menu-media-video-leave-fullscreen =
+    .label = Vollbild beenden
+    .accesskey = e
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Bild-im-Bild (PiP)
+    .accesskey = m
 main-context-menu-image-reload =
     .label = Grafik neu laden
     .accesskey = G
 main-context-menu-image-view =
     .label = Grafik anzeigen
     .accesskey = r
+main-context-menu-video-view =
+    .label = Video anzeigen
+    .accesskey = z
 main-context-menu-image-copy-location =
     .label = Grafikadresse kopieren
     .accesskey = d
@@ -133,6 +190,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Grafik-Info anzeigen
     .accesskey = e
+main-context-menu-image-desc =
+    .label = Beschreibung anzeigen
+    .accesskey = B
 main-context-menu-video-save-as =
     .label = Video speichern unter…
     .accesskey = u
@@ -142,12 +202,27 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Bildschirmfoto speichern unter…
     .accesskey = B
+main-context-menu-plugin-play =
+    .label = Plugin aktivieren
+    .accesskey = k
+main-context-menu-plugin-hide =
+    .label = Plugin ausblenden
+    .accesskey = b
+main-context-menu-save-to-pocket =
+    .label = Seite in { -pocket-brand-name } speichern
+    .accesskey = o
+main-context-menu-send-to-device =
+    .label = Seite an Gerät senden
+    .accesskey = X
 main-context-menu-view-background-image =
     .label = Hintergrundgrafik anzeigen
     .accesskey = H
 main-context-menu-keyword =
     .label = Ein Schlüsselwort für diese Suche hinzufügen…
     .accesskey = S
+main-context-menu-link-send-to-device =
+    .label = Link an Gerät senden
+    .accesskey = X
 main-context-menu-frame =
     .label = Aktueller Frame
     .accesskey = F
@@ -193,3 +268,5 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Element untersuchen
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Barrierefreiheit-Eigenschaften untersuchen
