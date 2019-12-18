@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Gcina iphepha njenge…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Vula ikhonkco kwithebhu entsha
     .accesskey = k
+main-context-menu-open-link-container-tab =
+    .label = Vula iLinki kwiThebhu Entsha Yekhonteyina
+    .accesskey = h
 main-context-menu-open-link-new-window =
     .label = Vula ikhonkco kwifestile entsha
     .accesskey = k
@@ -96,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Buyisela isandi
     .accesskey = y
+main-context-menu-media-play-speed =
+    .label = Dlala Isantya
+    .accesskey = a
+main-context-menu-media-play-speed-slow =
+    .label = Ecothayo (0.5×)
+    .accesskey = E
+main-context-menu-media-play-speed-normal =
+    .label = Okuqhelekileyo
+    .accesskey = O
+main-context-menu-media-play-speed-fast =
+    .label = Ekhawulezayo (1.25×)
+    .accesskey = E
+main-context-menu-media-play-speed-faster =
+    .label = Ebukhawuleza (1.5×)
+    .accesskey = b
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Ehlekisayo (2×)
+    .accesskey = E
+main-context-menu-media-loop =
+    .label = Isiqhoboshi
+    .accesskey = I
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +138,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Isikrini esiZeleyo
+    .accesskey = I
 main-context-menu-media-video-leave-fullscreen =
     .label = Phuma kwisikrini esizeleyo
     .accesskey = s
@@ -145,6 +177,9 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = Jonga Ingcaciso
     .accesskey = I
+main-context-menu-video-save-as =
+    .label = Gcina ividiyo njenge…
+    .accesskey = n
 main-context-menu-audio-save-as =
     .label = Gcina okunesandi njenge…
     .accesskey = n
@@ -154,18 +189,27 @@ main-context-menu-video-image-save-as =
 main-context-menu-video-email =
     .label = Thumela Ividiyo ngeimeyile…
     .accesskey = e
+main-context-menu-audio-email =
+    .label = Thumela ngeimeyile okunesandi…
+    .accesskey = e
 main-context-menu-plugin-play =
     .label = Vuselela le softwe incedisayo
     .accesskey = u
 main-context-menu-plugin-hide =
     .label = Fihla esi sifakelo
     .accesskey = F
+main-context-menu-send-to-device =
+    .label = Thumela iPhepha kwiSixhobo
+    .accesskey = k
 main-context-menu-view-background-image =
     .label = Jonga umfuziselo ongasemva eskrinini
     .accesskey = g
 main-context-menu-keyword =
     .label = Yongeza Igama Elisentloko koku kukhangela…
     .accesskey = I
+main-context-menu-link-send-to-device =
+    .label = Thumela iLinki kwiSixhobo
+    .accesskey = k
 main-context-menu-frame =
     .label = Esi Sakhelo
     .accesskey = s
@@ -196,9 +240,24 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Jonga Inkcazelo yefreyim
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = Jonga umthombo wokhetho
+    .accesskey = e
+main-context-menu-view-page-source =
+    .label = Jonga umthombo wephepha
+    .accesskey = J
+main-context-menu-view-page-info =
+    .label = Jonga Inkcazelo yephepha
+    .accesskey = I
 main-context-menu-bidi-switch-text =
     .label = Tshintsha icala lombhalo
     .accesskey = s
 main-context-menu-bidi-switch-page =
     .label = Tshintsha iNdawo eliya kulo iPhepha
     .accesskey = i
+main-context-menu-inspect-element =
+    .label = Hlola ielementi
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = Funda ngakumbi malunga neDRM...
+    .accesskey = D
