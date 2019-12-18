@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Retroceder uma página
+    .aria-label = Anterior
+    .accesskey = A
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Avançar uma página
+    .aria-label = Seguinte
+    .accesskey = S
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Recarregar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Parar
+    .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,12 +62,24 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Adicionar esta página aos marcadores
+    .accesskey = m
 main-context-menu-open-link =
     .label = Abrir ligação
     .accesskey = A
+main-context-menu-open-link-new-tab =
+    .label = Abrir ligação num novo separador
+    .accesskey = s
+main-context-menu-bookmark-this-link =
+    .label = Adicionar esta ligação aos marcadores
+    .accesskey = l
 main-context-menu-save-link =
     .label = Guardar ligação como…
     .accesskey = G
+main-context-menu-save-link-to-pocket =
+    .label = Guardar ligação no { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -120,6 +146,9 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-fullscreen =
     .label = Ecrã completo
     .accesskey = E
+main-context-menu-media-video-leave-fullscreen =
+    .label = Sair de ecrã completo
+    .accesskey = a
 main-context-menu-image-reload =
     .label = Recarregar imagem
     .accesskey = R
@@ -129,12 +158,18 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ver vídeo
     .accesskey = e
+main-context-menu-image-copy =
+    .label = Copiar imagem
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Guardar imagem como…
     .accesskey = e
 main-context-menu-image-set-as-background =
     .label = Definir como fundo do ambiente de trabalho…
     .accesskey = e
+main-context-menu-image-info =
+    .label = Ver informação da imagem
+    .accesskey = f
 main-context-menu-image-desc =
     .label = Ver descrição
     .accesskey = d
@@ -153,21 +188,39 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ocultar este plugin
     .accesskey = u
+main-context-menu-save-to-pocket =
+    .label = Guardar página no { -pocket-brand-name }
+    .accesskey = k
+main-context-menu-send-to-device =
+    .label = Enviar página para dispositivo
+    .accesskey = d
 main-context-menu-view-background-image =
     .label = Ver imagem de fundo
     .accesskey = m
 main-context-menu-keyword =
     .label = Adicionar uma palavra-chave para esta pesquisa…
     .accesskey = A
+main-context-menu-link-send-to-device =
+    .label = Enviar ligação para dispositivo
+    .accesskey = d
 main-context-menu-frame =
     .label = Este frame
     .accesskey = t
 main-context-menu-frame-show-this =
     .label = Mostrar apenas este frame
     .accesskey = a
+main-context-menu-frame-open-tab =
+    .label = Abrir frame num novo separador
+    .accesskey = s
+main-context-menu-frame-open-window =
+    .label = Abrir frame numa nova janela
+    .accesskey = j
 main-context-menu-frame-reload =
     .label = Recarregar frame
     .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = Adicionar este frame aos marcadores
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = Guardar frame como…
     .accesskey = f
@@ -180,6 +233,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Ver informação do frame
     .accesskey = i
+main-context-menu-view-selection-source =
+    .label = Ver fonte da seleção
+    .accesskey = e
 main-context-menu-view-page-info =
     .label = Ver informação da página
     .accesskey = i
@@ -192,3 +248,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspecionar elemento
     .accesskey = t
+main-context-menu-inspect-a11y-properties =
+    .label = Inspecionar propriedades de acessibilidade
+main-context-menu-eme-learn-more =
+    .label = Saber mais acerca de DRM…
+    .accesskey = D
