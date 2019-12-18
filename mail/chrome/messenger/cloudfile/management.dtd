@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY cloudfileMgmt.privacyPolicy "Tietosuojakäytäntö">
-<!ENTITY cloudfileMgmt.termsOfService "Palvelun käyttöehdot">
-<!ENTITY cloudfileMgmt.usedSpace "Käytetty tila:">
-<!ENTITY cloudfileMgmt.unusedSpace "Vapaa tila:">
-<!ENTITY cloudfileMgmt.upgradeOffer "Hanki lisää tilaa">
