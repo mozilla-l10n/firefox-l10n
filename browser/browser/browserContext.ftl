@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ତଳକୁ ଟାଣନ୍ତୁ
+           *[other] ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ଡ଼ାହାଣ ପାଖ କ୍ଲିକ କରନ୍ତୁ ଅଥବା ତଳକୁ ଟାଣନ୍ତୁ
+        }
 
 ## Back
 
@@ -42,9 +48,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = ସଂଯୋଗକୁ ଖୋଲନ୍ତୁ
+    .accesskey = O
 main-context-menu-open-link-new-tab =
     .label = ସଂଯୋଗକୁ ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ
     .accesskey = T
+main-context-menu-open-link-new-window =
+    .label = ସଂଯୋଗକୁ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ
+    .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ଏହି ଲିଙ୍କକୁ ଖୋଲନ୍ତୁ
+    .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = ଏହି ସଂଯୋଗକୁ ଚିହ୍ନିତ କରନ୍ତୁ
     .accesskey = L
@@ -97,6 +112,12 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ
+    .accesskey = u
 main-context-menu-image-reload =
     .label = ପ୍ରତିଛବି ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ
     .accesskey = R
@@ -115,15 +136,39 @@ main-context-menu-audio-copy-location =
 main-context-menu-image-save-as =
     .label = ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = v
+main-context-menu-image-email =
+    .label = ପ୍ରତିଛବିକୁ ଇମେଲ କରନ୍ତୁ…
+    .accesskey = g
 main-context-menu-image-set-as-background =
     .label = ଡେସ୍କଟପ ପୃଷ୍ଠଭୂମି ଆକାରରେ ବିନ୍ୟାସ କରନ୍ତୁ…
     .accesskey = S
+main-context-menu-image-info =
+    .label = ପ୍ରତିଛବି ସୂଚନାକୁ ଦେଖନ୍ତୁ
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = ଦୃଶ୍ୟ ଏବଂ ବର୍ଣ୍ଣନା
+    .accesskey = D
 main-context-menu-video-save-as =
     .label = ଭିଡ଼ିଓକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = v
 main-context-menu-audio-save-as =
     .label = ଧ୍ୱନୀକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = ଆଶୁଚିତ୍ରକୁ ଏହି ପରି ଭାବରେ ସଂରକ୍ଷଣ କରନ୍ତୁ…
+    .accesskey = S
+main-context-menu-video-email =
+    .label = ଭିଡିଓକୁ ଇମେଲ କରନ୍ତୁ…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = ଧ୍ୱନୀକୁ ଇମେଲ କରନ୍ତୁ…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = ଏହି ପ୍ଲଗଇନକୁ ସକ୍ରିୟ କରନ୍ତୁ
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = ଏହି ପ୍ଲଗଇନକୁ ଲୁଚାନ୍ତୁ
+    .accesskey = H
 main-context-menu-view-background-image =
     .label = ପୃଷ୍ଠଭୂମି ପ୍ରତିଛବି ଦେଖନ୍ତୁ
     .accesskey = w
@@ -136,6 +181,9 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = କେବଳ ଏହି ଫ୍ରେମକୁ ଦର୍ଶାନ୍ତୁ
     .accesskey = S
+main-context-menu-frame-open-tab =
+    .label = ଫ୍ରେମକୁ ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ
+    .accesskey = T
 main-context-menu-frame-open-window =
     .label = ଫ୍ରେମକୁ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ
     .accesskey = W
@@ -172,3 +220,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = ପୃଷ୍ଠା ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ
     .accesskey = D
+main-context-menu-inspect-element =
+    .label = ଉପାଦାନକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ
+    .accesskey = Q
