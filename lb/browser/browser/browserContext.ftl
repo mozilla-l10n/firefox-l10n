@@ -62,12 +62,21 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = E Lieszeechen fir des Säit dobäisetzen
+    .accesskey = m
 main-context-menu-open-link =
     .label = Link opmaachen
     .accesskey = O
 main-context-menu-open-link-new-window =
     .label = Link an enger neier Fënster opmaachen
     .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = Link an enger neier privater Fënster opmaachen
+    .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = E Lieszeechen fir des Säit dobäisetzen
+    .accesskey = L
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -83,6 +92,12 @@ main-context-menu-open-link-new-window =
 
 ##
 
+main-context-menu-media-play-speed-slow =
+    .label = Lues (×0.5)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
 main-context-menu-media-play-speed-fast =
     .label = Séier (×1.25)
     .accesskey = F
@@ -110,6 +125,36 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Vollbild zoumaachen
     .accesskey = u
+main-context-menu-image-reload =
+    .label = Bild nei lueden
+    .accesskey = R
 main-context-menu-image-view =
     .label = Bild weisen
     .accesskey = I
+main-context-menu-image-set-as-background =
+    .label = Als Hannergrondbild astellen…
+    .accesskey = S
+main-context-menu-image-info =
+    .label = Informatioune vum Bild weisen
+    .accesskey = f
+main-context-menu-send-to-device =
+    .label = Säit op en Apparat schécken
+    .accesskey = n
+main-context-menu-view-background-image =
+    .label = Hannergrondbild weisen
+    .accesskey = w
+main-context-menu-link-send-to-device =
+    .label = Link op en Apparat schécken
+    .accesskey = n
+main-context-menu-frame-bookmark =
+    .label = E Lieszeechen fir des Säit dobäisetzen
+    .accesskey = m
+main-context-menu-view-page-source =
+    .label = Quellcode vun der Säit weisen
+    .accesskey = V
+main-context-menu-view-page-info =
+    .label = Informatioune vun der Säit weisen
+    .accesskey = I
+main-context-menu-inspect-element =
+    .label = Element inspizéieren
+    .accesskey = Q
