@@ -65,11 +65,38 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = یہ صفحہ نشان زد کریں
     .accesskey = m
+main-context-menu-open-link =
+    .label = ربط کھولیں
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = ربط نئی ٹیب میں کھولیں
+    .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = ربط کو نئے حامل ٹیب میں کھولیں
+    .accesskey = b
+main-context-menu-open-link-new-window =
+    .label = ربط نئے دریچے میں کھولیں
+    .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = ربط نئے نجی دریچے میں کھولیں
+    .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = یہ ربط نشان زد کریں
+    .accesskey = L
+main-context-menu-save-link =
+    .label = ربط محفوظ کریں بطور ...
+    .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = ای میل پتہ نقل کریں
+    .accesskey = A
+main-context-menu-copy-link =
+    .label = ربط محل وقوع نقل کریں
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -77,9 +104,24 @@ main-context-menu-bookmark-page =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = چلائیں
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = توقف کریں
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = خاموش
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = انمیوٹ
+    .accesskey = m
+main-context-menu-media-play-speed =
+    .label = چلنے کی رفتار
+    .accesskey = d
 main-context-menu-media-play-speed-slow =
     .label = (0.5×) گنا اہستہ{ " " }
     .accesskey = S
@@ -89,21 +131,150 @@ main-context-menu-media-play-speed-normal =
 main-context-menu-media-play-speed-fast =
     .label = (1.25×) گنا تیز
     .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = تیز تر (1.5×)
+    .accesskey = a
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
     .label = Ludicrous (2×)
     .accesskey = L
+main-context-menu-media-loop =
+    .label = دہراؤ
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = کنٹرول دکھائیں
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = کنٹرول چھبائیں
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = پوری سکرین
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = ؑپوری اسکرین سے خروج کریں
+    .accesskey = u
+main-context-menu-image-reload =
+    .label = نقش پھر لوڈ کریں
+    .accesskey = R
+main-context-menu-image-view =
+    .label = نقش نظارہ کریں
+    .accesskey = I
+main-context-menu-video-view =
+    .label = وڈیو دیکھیں
+    .accesskey = I
+main-context-menu-image-copy =
+    .label = نقش نقل کریں
+    .accesskey = y
+main-context-menu-image-copy-location =
+    .label = نقش محل وقوع نقل کریں
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = وڈیو محل وقوع نقل کریں
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = سمعی محل وقوع نقل کریں
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = نقش محفوظ کریں بطور ...
+    .accesskey = v
+main-context-menu-image-email =
+    .label = نقش ای میل کریں…
+    .accesskey = g
+main-context-menu-image-set-as-background =
+    .label = ڈیسک ٹاپ پس منظر کے طور پر سیٹ کریں ...
+    .accesskey = S
+main-context-menu-image-info =
+    .label = صفحہ معلومات نظارہ کریں
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = تصریح دیکھیں
+    .accesskey = D
+main-context-menu-video-save-as =
+    .label = وڈیو محفوظ کریں بطور…
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = آڈیو محفوظ کریں بطور…
+    .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = سنیپ شاٹ محفوظ کریں بطور…
+    .accesskey = S
+main-context-menu-video-email =
+    .label = وڈیو ای میل کریں…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = آڈیو ای میل کریں…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = اس پلگ ان کو متحرک کریں
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = اس پلگ ان کو چھپائیں
+    .accesskey = H
+main-context-menu-send-to-device =
+    .label = صفحہ کو آلہ پر ارسال کریں
+    .accesskey = n
+main-context-menu-view-background-image =
+    .label = پس منظر نقش نظارہ کریں
+    .accesskey = w
+main-context-menu-keyword =
+    .label = اس تلاش کے لیے کلیدی لفظ ڈالیں…
+    .accesskey = K
+main-context-menu-link-send-to-device =
+    .label = ربط کو آلہ پر ارسال کریں
+    .accesskey = n
+main-context-menu-frame =
+    .label = یہ فریم
+    .accesskey = h
+main-context-menu-frame-show-this =
+    .label = صرف یہ فریم دکھائیں
+    .accesskey = S
+main-context-menu-frame-open-tab =
+    .label = فریم نئی ٹیب میں کھولیں
+    .accesskey = T
+main-context-menu-frame-open-window =
+    .label = فریم نئے دریچے میں کھولیں
+    .accesskey = W
+main-context-menu-frame-reload =
+    .label = فریم پھر لوڈ کریں
+    .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = یہ فریم نشان زد کریں
+    .accesskey = m
+main-context-menu-frame-save-as =
+    .label = فریم محفوظ کریں بطو ر...
+    .accesskey = F
+main-context-menu-frame-print =
+    .label = فریم چھاپیں ...
+    .accesskey = P
+main-context-menu-frame-view-source =
+    .label = فریم ماخذ نظارہ کریں
+    .accesskey = V
+main-context-menu-frame-view-info =
+    .label = فریم معلومات نظارہ کریں
+    .accesskey = I
 main-context-menu-view-selection-source =
     .label = انتخاب ماخذ نظارہ کریں
     .accesskey = e
+main-context-menu-view-page-source =
+    .label = صفحہ ماخذ نظارہ کریں
+    .accesskey = V
+main-context-menu-view-page-info =
+    .label = صفحہ معلومات نظارہ کریں
+    .accesskey = I
+main-context-menu-bidi-switch-text =
+    .label = متن کی سمت بدلیں کریں
+    .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = صفحے کی سمت تبدیل کریں
+    .accesskey = D
 main-context-menu-inspect-element =
     .label = عناصر چیک کریں
     .accesskey = Q
