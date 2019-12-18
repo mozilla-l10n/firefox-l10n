@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Vienu tinklalapiu atgal
+    .aria-label = Atgal
+    .accesskey = A
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Vienu tinklalapiu pirmyn
+    .aria-label = Pirmyn
+    .accesskey = P
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Įkelti iš naujo
+    .accesskey = n
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stabdyti
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Įrašyti į adresyną
+    .accesskey = y
 main-context-menu-open-link =
     .label = Atverti saitą
     .accesskey = A
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Įrašyti saistomą objektą kaip…
     .accesskey = Į
+main-context-menu-save-link-to-pocket =
+    .label = Įrašyti saitą į „{ -pocket-brand-name }“
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -144,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Grįžti iš viso ekrano
     .accesskey = G
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Vaizdas vaizde
+    .accesskey = z
 main-context-menu-image-reload =
     .label = Atsiųsti paveikslą iš naujo
     .accesskey = n
@@ -171,6 +196,9 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Išsiųsti paveikslą el. paštu…
     .accesskey = s
+main-context-menu-image-set-as-background =
+    .label = Naudoti kaip darbastalio foną…
+    .accesskey = d
 main-context-menu-image-info =
     .label = Rodyti paveikslo savybes
     .accesskey = s
@@ -198,12 +226,21 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Slėpti šį papildinį
     .accesskey = S
+main-context-menu-save-to-pocket =
+    .label = Įrašyti tinklalapį į „{ -pocket-brand-name }“
+    .accesskey = k
+main-context-menu-send-to-device =
+    .label = Siųsti tinklalapį į įrenginį
+    .accesskey = r
 main-context-menu-view-background-image =
     .label = Rodyti fono piešinį
     .accesskey = f
 main-context-menu-keyword =
     .label = Įdėti šios paieškos reikšminį žodį…
     .accesskey = p
+main-context-menu-link-send-to-device =
+    .label = Siųsti saitą į įrenginį
+    .accesskey = r
 main-context-menu-frame =
     .label = Kadras
     .accesskey = K
@@ -237,6 +274,9 @@ main-context-menu-frame-view-info =
 main-context-menu-view-selection-source =
     .label = Rodyti atrankos pirminį tekstą
     .accesskey = d
+main-context-menu-view-page-source =
+    .label = Pirminis tekstas
+    .accesskey = e
 main-context-menu-view-page-info =
     .label = Informacija apie tinklalapį
     .accesskey = I
@@ -249,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Tirti elementą
     .accesskey = T
+main-context-menu-inspect-a11y-properties =
+    .label = Tirti pritaikymo neįgaliesiems savybes
 main-context-menu-eme-learn-more =
     .label = Sužinokite daugiau apie DRM…
     .accesskey = D
