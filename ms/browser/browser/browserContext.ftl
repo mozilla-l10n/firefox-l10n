@@ -42,6 +42,9 @@ toolbar-button-page-save =
 main-context-menu-open-link-new-tab =
     .label = Buka Pautan dalam Tab Baru
     .accesskey = T
+main-context-menu-open-link-new-private-window =
+    .label = Buka Pautan dalam Tetingkap Privasi Baru
+    .accesskey = P
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
