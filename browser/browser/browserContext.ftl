@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Ir a la página anterior
+    .aria-label = Anterior
+    .accesskey = A
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Ir a la página siguiente
+    .aria-label = Siguiente
+    .accesskey = S
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Recargar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Detener
+    .accesskey = D
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -40,19 +54,46 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Guardar como…
+    .accesskey = d
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Añadir esta página a marcadores
+    .accesskey = m
+main-context-menu-open-link =
+    .label = Abrir enlace
+    .accesskey = l
+main-context-menu-open-link-new-tab =
+    .label = Abrir enlace en una pestaña nueva
+    .accesskey = T
+main-context-menu-open-link-new-window =
+    .label = Abrir enlace en una ventana nueva
+    .accesskey = v
 main-context-menu-open-link-new-private-window =
     .label = Abrir enlace en una nueva ventana privada
     .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = Añadir este enlace a marcadores
+    .accesskey = L
+main-context-menu-save-link =
+    .label = Guardar enlace como…
+    .accesskey = n
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copiar dirección de correo electrónico
+    .accesskey = E
+main-context-menu-copy-link =
+    .label = Copiar la ruta del enlace
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -60,9 +101,24 @@ main-context-menu-open-link-new-private-window =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Reproducir
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = Pausar
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Silenciar
+    .accesskey = S
+main-context-menu-media-unmute =
+    .label = Restaurar sonido
+    .accesskey = s
+main-context-menu-media-play-speed =
+    .label = Velocidad de reproducción
+    .accesskey = V
 main-context-menu-media-play-speed-slow =
     .label = Lento (0.5×)
     .accesskey = L
@@ -80,16 +136,145 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Rapidísimo (2×)
     .accesskey = a
+main-context-menu-media-loop =
+    .label = Repetir
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Mostrar controles
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = Ocultar controles
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Pantalla completa
+    .accesskey = c
 main-context-menu-media-video-leave-fullscreen =
     .label = Salir de la pantalla completa
     .accesskey = p
+main-context-menu-image-reload =
+    .label = Recargar imagen
+    .accesskey = R
+main-context-menu-image-view =
+    .label = Ver imagen
+    .accesskey = I
+main-context-menu-video-view =
+    .label = Ver vídeo
+    .accesskey = í
+main-context-menu-image-copy =
+    .label = Copiar imagen
+    .accesskey = C
+main-context-menu-image-copy-location =
+    .label = Copiar la ruta de la imagen
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Copiar dirección del vídeo
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Copiar dirección del audio
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Guardar imagen como…
+    .accesskey = u
+main-context-menu-image-email =
+    .label = Enviar imagen…
+    .accesskey = a
+main-context-menu-image-set-as-background =
+    .label = Establecer como fondo de escritorio…
+    .accesskey = S
+main-context-menu-image-info =
+    .label = Ver información de la imagen
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = Ver descripción
+    .accesskey = D
+main-context-menu-video-save-as =
+    .label = Guardar vídeo como…
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = Guardar audio como…
+    .accesskey = a
+main-context-menu-video-image-save-as =
+    .label = Guardar captura de pantalla como…
+    .accesskey = G
+main-context-menu-video-email =
+    .label = Enviar vídeo…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = Enviar audio…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = Activar este plugin
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = Ocultar este plugin
+    .accesskey = t
+main-context-menu-send-to-device =
+    .label = Enviar página al dispositivo
+    .accesskey = v
+main-context-menu-view-background-image =
+    .label = Ver imagen de fondo
+    .accesskey = f
+main-context-menu-keyword =
+    .label = Añadir una palabra clave para esta búsqueda…
+    .accesskey = v
+main-context-menu-link-send-to-device =
+    .label = Enviar enlace al dispositivo
+    .accesskey = v
+main-context-menu-frame =
+    .label = Este marco
+    .accesskey = m
+main-context-menu-frame-show-this =
+    .label = Mostrar sólo este marco
+    .accesskey = o
+main-context-menu-frame-open-tab =
+    .label = Abrir el marco en una pestaña nueva
+    .accesskey = T
+main-context-menu-frame-open-window =
+    .label = Abrir el marco en una ventana nueva
+    .accesskey = e
+main-context-menu-frame-reload =
+    .label = Recargar marco
+    .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = Añadir este cuadro a marcadores
+    .accesskey = m
+main-context-menu-frame-save-as =
+    .label = Guardar marco como…
+    .accesskey = G
+main-context-menu-frame-print =
+    .label = Imprimir marco…
+    .accesskey = P
+main-context-menu-frame-view-source =
+    .label = Ver código fuente del marco
+    .accesskey = V
+main-context-menu-frame-view-info =
+    .label = Ver información del marco
+    .accesskey = I
 main-context-menu-view-selection-source =
     .label = Ver código fuente seleccionado
     .accesskey = e
+main-context-menu-view-page-source =
+    .label = Ver código fuente de la página
+    .accesskey = V
+main-context-menu-view-page-info =
+    .label = Ver información de la página
+    .accesskey = I
+main-context-menu-bidi-switch-text =
+    .label = Cambiar dirección del texto
+    .accesskey = d
+main-context-menu-bidi-switch-page =
+    .label = Cambiar dirección de la página
+    .accesskey = D
+main-context-menu-inspect-element =
+    .label = Inspeccionar elemento
+    .accesskey = l
+main-context-menu-eme-learn-more =
+    .label = Más información sobre DRM…
+    .accesskey = D
