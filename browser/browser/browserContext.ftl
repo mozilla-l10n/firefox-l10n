@@ -93,6 +93,26 @@ main-context-menu-media-play =
 main-context-menu-media-mute =
     .label = השתקה
     .accesskey = ש
+main-context-menu-media-play-speed-slow =
+    .label = אטית (0.5×)
+    .accesskey = א
+main-context-menu-media-play-speed-normal =
+    .label = רגילה
+    .accesskey = ר
+main-context-menu-media-play-speed-fast =
+    .label = מהירה (1.25×)
+    .accesskey = מ
+main-context-menu-media-play-speed-faster =
+    .label = מהירה יותר (1.5×)
+    .accesskey = י
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = מטורפת (2×)
+    .accesskey = ט
+main-context-menu-media-loop =
+    .label = לולאה
+    .accesskey = ל
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -205,3 +225,5 @@ main-context-menu-view-page-info =
 main-context-menu-bidi-switch-text =
     .label = הפוך כיוון כתיבה
     .accesskey = כ
+main-context-menu-inspect-a11y-properties =
+    .label = חקירת מאפייני נגישות
