@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Πλήρης οθόνη
     .accesskey = Π
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Προβολή όλων των καρτελών
@@ -209,9 +209,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Πρόσθετα
     .accesskey = θ
-menu-tools-sync-sign-in =
-    .label = Σύνδεση στο { -sync-brand-short-name }…
-    .accesskey = ν
 menu-tools-fxa-sign-in =
     .label = Σύνδεση στο { -brand-product-name }…
     .accesskey = δ
@@ -221,9 +218,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Συγχρονισμός τώρα
     .accesskey = Σ
-menu-tools-sync-re-auth =
-    .label = Επανασύνδεση στο { -sync-brand-short-name }…
-    .accesskey = Ρ
 menu-tools-web-developer =
     .label = Εργαλεία προγραμματιστή
     .accesskey = Π
