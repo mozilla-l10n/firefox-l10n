@@ -61,3 +61,6 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-frame-open-tab =
+    .label = Agor Ffrâm mewn Tab Newydd
+    .accesskey = T
