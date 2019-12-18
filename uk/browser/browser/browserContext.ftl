@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Потягніть вниз, щоб показати історію вкладки
+           *[other] Натисніть праву клавішу чи потягніть вниз, щоб показати історію вкладки
+        }
 
 ## Back
 
@@ -48,9 +54,15 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Відкрити посилання в новій вкладці
     .accesskey = л
+main-context-menu-open-link-container-tab =
+    .label = Відкрити посилання в новій вкладці контейнера
+    .accesskey = к
 main-context-menu-open-link-new-window =
     .label = Відкрити посилання в новому вікні
     .accesskey = к
+main-context-menu-open-link-new-private-window =
+    .label = Відкрити в приватному вікні
+    .accesskey = и
 main-context-menu-bookmark-this-link =
     .label = Закласти це посилання
     .accesskey = с
@@ -69,6 +81,9 @@ main-context-menu-save-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Відтворити
+    .accesskey = т
 main-context-menu-media-pause =
     .label = Пауза
     .accesskey = а
@@ -81,6 +96,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Увімкнути звук
     .accesskey = и
+main-context-menu-media-play-speed =
+    .label = Швидкість відтворення
+    .accesskey = в
+main-context-menu-media-play-speed-slow =
+    .label = Повільно (0.5×)
+    .accesskey = П
+main-context-menu-media-play-speed-normal =
+    .label = Нормально
+    .accesskey = Н
+main-context-menu-media-play-speed-fast =
+    .label = Швидко (1.25×)
+    .accesskey = к
+main-context-menu-media-play-speed-faster =
+    .label = Швидше (1.5×)
+    .accesskey = е
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Надшвидко (2×)
+    .accesskey = о
+main-context-menu-media-loop =
+    .label = Цикл
+    .accesskey = л
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +147,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Переглянути відео
     .accesskey = г
+main-context-menu-image-copy =
+    .label = Копіювати зображення
+    .accesskey = з
 main-context-menu-image-copy-location =
     .label = Копіювати адресу зображення
     .accesskey = р
@@ -154,12 +195,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Приховати цей плагін
     .accesskey = П
+main-context-menu-send-to-device =
+    .label = Відправити сторінку на пристрій
+    .accesskey = с
 main-context-menu-view-background-image =
     .label = Переглянути зображення тла
     .accesskey = т
 main-context-menu-keyword =
     .label = Створити скорочення для цього пошуку…
     .accesskey = д
+main-context-menu-link-send-to-device =
+    .label = Відправити посилання на пристрій
+    .accesskey = л
 main-context-menu-frame =
     .label = У цьому фреймі
     .accesskey = ь
@@ -184,9 +231,18 @@ main-context-menu-frame-save-as =
 main-context-menu-frame-print =
     .label = Друкувати фрейм…
     .accesskey = ф
+main-context-menu-frame-view-source =
+    .label = Програмний код фрейма
+    .accesskey = й
 main-context-menu-frame-view-info =
     .label = Інформація про фрейм
     .accesskey = ф
+main-context-menu-view-selection-source =
+    .label = Програмний код вибірки
+    .accesskey = к
+main-context-menu-view-page-source =
+    .label = Програмний код сторінки
+    .accesskey = а
 main-context-menu-view-page-info =
     .label = Інформація про сторінку
     .accesskey = І
@@ -198,4 +254,7 @@ main-context-menu-bidi-switch-page =
     .accesskey = м
 main-context-menu-inspect-element =
     .label = Дослідити елемент
+    .accesskey = Д
+main-context-menu-eme-learn-more =
+    .label = Докладніше про DRM…
     .accesskey = Д
