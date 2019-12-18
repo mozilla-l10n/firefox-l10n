@@ -1,0 +1,216 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Sachit etrezek an traoñ evit diskouez ar roll istor
+           *[other] Grit ur c'hlik dehou pe sachit etrezek an traoñ evit diskouez ar roll istor
+        }
+
+## Back
+
+navbar-tooltip-back =
+    .value = { main-context-menu-back.tooltiptext }
+toolbar-button-back =
+    .label = { main-context-menu-back.aria-label }
+
+## Forward
+
+navbar-tooltip-forward =
+    .value = { main-context-menu-forward.tooltiptext }
+toolbar-button-forward =
+    .label = { main-context-menu-forward.aria-label }
+
+## Reload
+
+toolbar-button-reload =
+    .label = { main-context-menu-reload.aria-label }
+
+## Stop
+
+toolbar-button-stop =
+    .label = { main-context-menu-stop.aria-label }
+
+## Stop-Reload Button
+
+toolbar-button-stop-reload =
+    .title = { main-context-menu-reload.aria-label }
+
+## Save Page
+
+toolbar-button-page-save =
+    .label = { main-context-menu-page-save.label }
+
+## Simple menu items
+
+main-context-menu-open-link =
+    .label = Digeriñ an ere
+    .accesskey = g
+main-context-menu-open-link-new-tab =
+    .label = Digeriñ an ere e-barzh un ivinell nevez
+    .accesskey = i
+main-context-menu-open-link-new-window =
+    .label = Digeriñ an ere e-barzh ur prenestr nevez
+    .accesskey = b
+main-context-menu-open-link-new-private-window =
+    .label = Digeriñ an ere e-barzh ur prenestr merdeiñ prevez nevez
+    .accesskey = m
+main-context-menu-bookmark-this-link =
+    .label = Lakaat ur sined war an ere
+    .accesskey = L
+main-context-menu-save-link =
+    .label = Enrollañ an ere evel…
+    .accesskey = n
+
+## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-copy-email =
+    .label = Eilañ ar chomlec'h postel
+    .accesskey = p
+main-context-menu-copy-link =
+    .label = Eilañ lec'hiadur an ere
+    .accesskey = l
+
+## Media (video/audio) controls
+##
+## The accesskey for "Play" and "Pause" are the
+## same because the two context-menu items are
+## mutually exclusive.
+
+main-context-menu-media-play =
+    .label = Lenn
+    .accesskey = L
+main-context-menu-media-pause =
+    .label = Ehan
+    .accesskey = E
+
+##
+
+main-context-menu-media-mute =
+    .label = Mud
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = Heglev
+    .accesskey = H
+
+## The access keys for "Show Controls" and "Hide Controls" are the same
+## because the two context-menu items are mutually exclusive.
+
+main-context-menu-media-show-controls =
+    .label = Diskouez ar reolerezhioù
+    .accesskey = D
+main-context-menu-media-hide-controls =
+    .label = Kuzhat ar reolerezhioù
+    .accesskey = u
+
+##
+
+main-context-menu-media-video-leave-fullscreen =
+    .label = Kuitaat ar mod skramm a-bezh
+    .accesskey = u
+main-context-menu-image-reload =
+    .label = Adkargañ ar skeudenn
+    .accesskey = r
+main-context-menu-image-view =
+    .label = Gwelout ar skeudenn
+    .accesskey = s
+main-context-menu-video-view =
+    .label = Gwelout ar video
+    .accesskey = i
+main-context-menu-image-copy-location =
+    .label = Eilañ lec'hiadur ar skeudenn
+    .accesskey = k
+main-context-menu-video-copy-location =
+    .label = Eilañ lec'hiadur ar video
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Eilañ lec'hiadur ar restr klevet
+    .accesskey = E
+main-context-menu-image-save-as =
+    .label = Enrollañ ar skeudenn evel…
+    .accesskey = v
+main-context-menu-image-email =
+    .label = Kas ar skeudenn dre bostel…
+    .accesskey = K
+main-context-menu-image-set-as-background =
+    .label = Arventennañ evel Drekleur ar burev…
+    .accesskey = l
+main-context-menu-image-info =
+    .label = Gwelout stlennoù ar skeudenn
+    .accesskey = w
+main-context-menu-image-desc =
+    .label = Gwelout an deskrivadur
+    .accesskey = d
+main-context-menu-video-save-as =
+    .label = Enrollañ ar video evel…
+    .accesskey = v
+main-context-menu-audio-save-as =
+    .label = Enrollañ ar restr klevet evel…
+    .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = Enrollañ an dapadenn-skramm evel…
+    .accesskey = n
+main-context-menu-video-email =
+    .label = Kas ar video dre bostel…
+    .accesskey = K
+main-context-menu-audio-email =
+    .label = Kas ar restr klevet dre bostel…
+    .accesskey = K
+main-context-menu-plugin-play =
+    .label = Gweredekaat an enlugellad-mañ
+    .accesskey = w
+main-context-menu-plugin-hide =
+    .label = Kuzhat an enlugellad-mañ
+    .accesskey = u
+main-context-menu-view-background-image =
+    .label = Gwelout ar skeudenn drekleur
+    .accesskey = d
+main-context-menu-keyword =
+    .label = Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …
+    .accesskey = k
+main-context-menu-frame =
+    .label = Ar frammad-se
+    .accesskey = f
+main-context-menu-frame-show-this =
+    .label = Gwelout ar frammad-mañ hepken
+    .accesskey = f
+main-context-menu-frame-open-tab =
+    .label = Digeriñ ar frammad e-barzh un ivinell nevez
+    .accesskey = i
+main-context-menu-frame-open-window =
+    .label = Digeriñ ar frammad e-barzh ur prenestr nevez
+    .accesskey = p
+main-context-menu-frame-reload =
+    .label = Adkargañ ar frammad
+    .accesskey = k
+main-context-menu-frame-bookmark =
+    .label = Merkañ ar frammad war ur sined
+    .accesskey = M
+main-context-menu-frame-save-as =
+    .label = Enrollañ ar frammad evel…
+    .accesskey = f
+main-context-menu-frame-print =
+    .label = Moullañ ar frammad…
+    .accesskey = l
+main-context-menu-frame-view-source =
+    .label = Gwelout tarzh ar frammad
+    .accesskey = t
+main-context-menu-frame-view-info =
+    .label = Gwelout stlennoù ar frammad
+    .accesskey = t
+main-context-menu-view-page-source =
+    .label = Gwelout tarzh ar bajennad
+    .accesskey = t
+main-context-menu-view-page-info =
+    .label = Gwelout stlennoù ar bajennad
+    .accesskey = t
+main-context-menu-bidi-switch-text =
+    .label = Kemmañ tuadur an destenn
+    .accesskey = d
+main-context-menu-bidi-switch-page =
+    .label = Kemmañ tu ar bajenn
+    .accesskey = b
