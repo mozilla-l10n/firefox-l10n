@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Əvvəlki səhifəyə qayıt
+    .aria-label = Geri
+    .accesskey = G
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Sonrakı səhifəyə keç
+    .aria-label = İrəli
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Yenilə
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Dayan
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Bu Səhifəni Əlfəcinlə
+    .accesskey = m
 main-context-menu-open-link =
     .label = Keçidi Aç
     .accesskey = A
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Bağlantını fərqli saxla…
     .accesskey = f
+main-context-menu-save-link-to-pocket =
+    .label = Keçidi { -pocket-brand-name }-ə Saxla
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -153,6 +173,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Videoya bax
     .accesskey = V
+main-context-menu-image-copy =
+    .label = Şəkli Köçür
+    .accesskey = y
 main-context-menu-image-copy-location =
     .label = Şəkil Ünvanını Köçür
     .accesskey = k
@@ -198,6 +221,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Bu qoşmanı gizlət
     .accesskey = g
+main-context-menu-save-to-pocket =
+    .label = Səhifəni { -pocket-brand-name }-ə Saxla
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Səhifəni cihaza göndər
     .accesskey = d
@@ -258,6 +284,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Obyekti araşdır
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Əlverişlilik özəlliklərini yoxla
 main-context-menu-eme-learn-more =
     .label = DRM haqqında ətraflı öyrən…
     .accesskey = D
