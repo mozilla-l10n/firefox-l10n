@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Du har valt eit nykelord som allereie vert bru
 ## Containers Section
 
 containers-back-link = « Gå tilbake
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Tilbake til innstillingar
+           *[other] Tilbake til innstillingar
+        }
 containers-header = Innhaldsfaner
 containers-add-button =
     .label = Legg til ny behaldar
@@ -968,6 +974,7 @@ permissions-location = Plassering
 permissions-location-settings =
     .label = Innstillingar…
     .accesskey = t
+permissions-xr = Virtuell røyndom
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Innstillingar…
@@ -1016,6 +1023,7 @@ permissions-a11y-privacy-link = Les meir
 collection-header = Datainnsamling og bruk for { -brand-short-name }
 collection-description = Vi prøver alltid å gje deg val og samlar inn berre det vi treng for å levere og forbetre { -brand-short-name } for alle. Vi ber alltid om løyve før vi får personopplysningar.
 collection-privacy-notice = Personvernpraksis
+collection-health-report-telemetry-disabled-link = Les meir
 collection-health-report =
     .label = Tillat { -brand-short-name } å sende tekniske data og data for bruk til { -vendor-short-name }
     .accesskey = r
