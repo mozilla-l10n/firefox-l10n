@@ -62,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Προσθήκη στους σελιδοδείκτες
+    .accesskey = θ
 main-context-menu-open-link =
     .label = Άνοιγμα συνδέσμου
     .accesskey = ο
@@ -272,6 +275,8 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Αλλαγή κατεύθυνσης σελίδας
     .accesskey = τ
+main-context-menu-inspect-a11y-properties =
+    .label = Επιθεώρηση ιδιοτήτων προσβασιμότητας
 main-context-menu-eme-learn-more =
     .label = Μάθετε περισσότερα για το DRM…
     .accesskey = μ
