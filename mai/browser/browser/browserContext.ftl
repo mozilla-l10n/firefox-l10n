@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] इतिहास देखाबैक लेल पुल डाउन करू
+           *[other] इतिहास देखाबैक लेल दाहिना क्लिक करू अथवा पुल डाउन करू
+        }
 
 ## Back
 
@@ -39,9 +45,15 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = कड़ी खोलू
+    .accesskey = O
 main-context-menu-open-link-new-tab =
     .label = नव टैब मे कड़ी खोलू
     .accesskey = T
+main-context-menu-open-link-new-window =
+    .label = नव विंडो मे कड़ी खोलू
+    .accesskey = W
 main-context-menu-bookmark-this-link =
     .label = ई कड़ी पुस्तकचिह्नित करू
     .accesskey = L
@@ -56,6 +68,9 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ईमेल पता क नकल लिअ'
     .accesskey = E
+main-context-menu-copy-link =
+    .label = कड़ी स्थानक नकल लिअ'
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -63,24 +78,66 @@ main-context-menu-copy-email =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = बजाउ
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = ठहरू
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = मौन
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = मौन समाप्त करू
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = नियंत्रण देखाउ
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = नियंत्रण नुकाउ
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = पूर्ण स्क्रीनसँ निकलू (u)
+    .accesskey = u
+main-context-menu-image-reload =
+    .label = छवि फेर लोड करू
+    .accesskey = R
 main-context-menu-image-view =
     .label = छवि देखू
     .accesskey = I
+main-context-menu-image-copy-location =
+    .label = छवि स्थानक नकल लिअ'
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = वीडियो स्थानक नकल लिअ'{ " " }
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = आडियो स्थानक नकल लिअ'{ " " }
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = छवि एहिना सहेजू…
     .accesskey = v
 main-context-menu-image-set-as-background =
     .label = बतौर डेस्कटॉप पृष्ठभूमि सेट करू…
+    .accesskey = S
+main-context-menu-image-info =
+    .label = छवि सूचना देखू
+    .accesskey = f
+main-context-menu-audio-save-as =
+    .label = एहिना आडियो सहेजू…
+    .accesskey = v
+main-context-menu-video-image-save-as =
+    .label = चित्र एहिना सहेजू…
     .accesskey = S
 main-context-menu-view-background-image =
     .label = पृष्ठभूमि छवि देखू
@@ -94,6 +151,9 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = सिर्फ ई फ्रेम देखाउ
     .accesskey = S
+main-context-menu-frame-open-tab =
+    .label = नव टैब मे फ्रेम खोलू
+    .accesskey = T
 main-context-menu-frame-open-window =
     .label = नव विंडो मे फ्रेम खोलू
     .accesskey = W
@@ -124,3 +184,6 @@ main-context-menu-view-page-info =
 main-context-menu-bidi-switch-text =
     .label = पाठ दिशा बदलू
     .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = पृष्ठ दिशा बदलू
+    .accesskey = D
