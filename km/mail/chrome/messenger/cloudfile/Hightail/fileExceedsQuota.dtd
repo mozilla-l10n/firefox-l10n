@@ -1,7 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "ប្រញាប់ប្រញាល់">
-<!ENTITY fileExceedsQuota.storageLimitReached   "បាន​ដល់​ដែន​កំណត់​ផ្ទុក">
-<!ENTITY fileExceedsQuota.description "អ្នក​បាន​ដល់​ដែន​កំណត់​ទំហំ​ផ្ទុក​គណនី​របស់​អ្នក​នៃ ២ ជីកាបៃ។">
-<!ENTITY fileExceedsQuota.description1 "ការ​ប្រើ​ទំហំ​ផ្ទុក​បច្ចុប្បន្ន​របស់​អ្នក​គឺ #XXX ជីកាបៃ។">
