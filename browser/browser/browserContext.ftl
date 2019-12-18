@@ -114,6 +114,14 @@ main-context-menu-media-play-speed-fast =
 main-context-menu-media-play-speed-faster =
     .label = Брже (1.5×)
     .accesskey = ж
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Дупло брже (2×)
+    .accesskey = е
+main-context-menu-media-loop =
+    .label = Понављај
+    .accesskey = ј
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
