@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Paīt vīnu lopu atpakaļ
+    .aria-label = Atpakaļ
+    .accesskey = a
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Paīt vīnu lopu iz prīšku
+    .aria-label = Iz prīšku
+    .accesskey = p
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Puorluodeit
+    .accesskey = P
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Apturēt
+    .accesskey = r
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -40,14 +54,32 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Saglobōt lopu kai…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Saglobuot itū lopu gruomotzeimēs
+    .accesskey = m
 main-context-menu-open-link =
     .label = Attaiseit saiti
     .accesskey = A
+main-context-menu-open-link-new-tab =
+    .label = Attaiseit saiti jaunā cilnē
+    .accesskey = c
+main-context-menu-open-link-container-tab =
+    .label = Attaiseit saiti jaunā cilņu skreinē
+    .accesskey = b
+main-context-menu-open-link-new-window =
+    .label = Attaiseit saiti jaunā lūgā
+    .accesskey = l
+main-context-menu-open-link-new-private-window =
+    .label = Attaiseit saiti jaunā privatajā lūgā
+    .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Saglobuot itū saiti gruomotzeimēs
     .accesskey = S
@@ -84,9 +116,15 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Apklusynuot
     .accesskey = A
+main-context-menu-media-unmute =
+    .label = Īslēgt skaņu
+    .accesskey = A
 main-context-menu-media-play-speed =
     .label = Atskaņuošonys uotrums
     .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Lieni (0.5×)
+    .accesskey = S
 main-context-menu-media-play-speed-normal =
     .label = Normals
     .accesskey = N
@@ -101,6 +139,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Super uotri (2×)
     .accesskey = S
+main-context-menu-media-loop =
+    .label = Atkōrtōt
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -195,6 +236,12 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Ruodeit tikai itū ītvoru
     .accesskey = t
+main-context-menu-frame-open-tab =
+    .label = Attaiseit ītvoru jaunā cilnē
+    .accesskey = c
+main-context-menu-frame-open-window =
+    .label = Attaiseit ītvoru jaunā lūgā
+    .accesskey = l
 main-context-menu-frame-reload =
     .label = Puorluodeit ītvoru
     .accesskey = r
@@ -204,6 +251,9 @@ main-context-menu-frame-bookmark =
 main-context-menu-frame-save-as =
     .label = Saglobuot ītvoru kai…
     .accesskey = t
+main-context-menu-frame-print =
+    .label = Drukōt ītvoru…
+    .accesskey = D
 main-context-menu-frame-view-source =
     .label = Skateitīs ītvora pyrmskodu
     .accesskey = S
@@ -228,6 +278,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Izmekleit
     .accesskey = I
+main-context-menu-inspect-a11y-properties =
+    .label = Porbaudēt pīejameibys īstatejumus
 main-context-menu-eme-learn-more =
     .label = Uzzinit vairuok par DRM…
     .accesskey = D
