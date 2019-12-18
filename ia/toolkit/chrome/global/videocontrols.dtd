@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
-<!ENTITY pictureInPicture.label "Imagine annidate">
+<!ENTITY pictureInPicture.label "Imagine in imagine">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Dimension">
@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Nulle formato video supportate e typo MIME trovate.">
 <!ENTITY error.generic "Le lectura del video ha essite interrumpite a causa de un error incognite.">
 
-<!ENTITY status.pictureInPicture "Iste video es reproducite in modo imagine annidate.">
+<!ENTITY status.pictureInPicture "Iste video se reproduce in modo imagine in imagine.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

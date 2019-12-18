@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "Imagine annidate">
+<!ENTITY pictureInPicture.label "Imagine in imagine">
 <!ENTITY pictureInPicture.accesskey "a">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -243,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Cessar">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ir al adresse in le barra de adresses">
 <!ENTITY printButton.label            "Imprimer">
@@ -579,6 +580,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Aperir le ligamine in un nove scheda">
+
 <!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Aperir le ligamine in un nove fenestra">
 <!ENTITY openLinkCmd.accesskey        "f">
@@ -594,6 +596,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Monstrar solmente iste quadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recargar le quadro">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -644,6 +647,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Salvar le pagina como…">
 <!ENTITY savePageCmd.accesskey        "v">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvar le quadro como…">
 <!ENTITY saveFrameCmd.accesskey       "q">
@@ -810,6 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar le direction del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cercar in iste pagina…">
