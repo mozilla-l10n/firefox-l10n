@@ -54,3 +54,13 @@ close-tab =
     .title = ปิดแท็บ
 show-addon =
     .title = แสดงในตัวจัดการส่วนเสริม
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        การแยกส่งตั้งแต่โหลด: { $totalDispatches } ({ $totalDuration }ms)
+        การแยกส่งในช่วงวินาทีที่ผ่านมา: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
