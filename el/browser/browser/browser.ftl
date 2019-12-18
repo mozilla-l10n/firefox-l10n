@@ -141,6 +141,9 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Εμφάνιση επεξεργαστή κατά την αποθήκευση
+    .accesskey = Ε
 bookmark-panel-done-button =
     .label = Τέλος
 # Width of the bookmark panel.
