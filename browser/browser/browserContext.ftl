@@ -29,6 +29,9 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Athlódáil
+    .accesskey = A
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -61,6 +64,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Oscail an Nasc i gCluaisín Nua
     .accesskey = C
+main-context-menu-open-link-container-tab =
+    .label = Oscail an Nasc i gCluaisín Coimeádáin Nua
+    .accesskey = g
 main-context-menu-open-link-new-window =
     .label = Oscail an Nasc i bhFuinneog Nua
     .accesskey = F
@@ -94,6 +100,9 @@ main-context-menu-copy-link =
 main-context-menu-media-play =
     .label = Seinn
     .accesskey = S
+main-context-menu-media-pause =
+    .label = Cuir ar Sos
+    .accesskey = S
 
 ##
 
@@ -103,6 +112,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Le Fuaim
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Luas Seinnte
+    .accesskey = L
+main-context-menu-media-play-speed-slow =
+    .label = Mall (0.5×)
+    .accesskey = M
+main-context-menu-media-play-speed-normal =
+    .label = Gnáthluas
+    .accesskey = n
+main-context-menu-media-play-speed-fast =
+    .label = Tapa (1.25×)
+    .accesskey = T
+main-context-menu-media-play-speed-faster =
+    .label = Níos Tapúla (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Luas Áiféiseach (2×)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = Lúb
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -122,12 +154,27 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Scoir ón Lánscáileán
     .accesskey = n
+main-context-menu-image-reload =
+    .label = Athlódáil an Íomhá
+    .accesskey = A
 main-context-menu-image-view =
     .label = Taispeáin an Íomhá Amháin
     .accesskey = T
 main-context-menu-video-view =
     .label = Féach ar Fhíseán
     .accesskey = F
+main-context-menu-image-copy =
+    .label = Cóipeáil an Íomhá
+    .accesskey = p
+main-context-menu-image-copy-location =
+    .label = Cóipeáil Suíomh na hÍomhá
+    .accesskey = ó
+main-context-menu-video-copy-location =
+    .label = Cóipeáil Suíomh an Fhíseáin
+    .accesskey = ó
+main-context-menu-audio-copy-location =
+    .label = Cóipeáil Suíomh na Fuaime
+    .accesskey = ó
 main-context-menu-image-save-as =
     .label = Sábháil an Íomhá Mar…
     .accesskey = M
@@ -164,12 +211,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Folaigh an forlíontán seo
     .accesskey = h
+main-context-menu-send-to-device =
+    .label = Seol an Leathanach chuig Gléas
+    .accesskey = G
 main-context-menu-view-background-image =
     .label = Taispeáin Íomhá sa Chúlra
     .accesskey = C
 main-context-menu-keyword =
     .label = Cuir lorgfhocal leis an gcuardach seo…
     .accesskey = l
+main-context-menu-link-send-to-device =
+    .label = Seol an Nasc chuig Gléas
+    .accesskey = G
 main-context-menu-frame =
     .label = An Fráma Seo
     .accesskey = r
@@ -182,6 +235,9 @@ main-context-menu-frame-open-tab =
 main-context-menu-frame-open-window =
     .label = Oscail an Fráma i bhFuinneog Nua
     .accesskey = F
+main-context-menu-frame-reload =
+    .label = Athlódáil an Fráma
+    .accesskey = r
 main-context-menu-frame-bookmark =
     .label = Cruthaigh Leabharmharc don Fhráma Seo
     .accesskey = m
