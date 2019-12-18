@@ -42,7 +42,7 @@ toolbar-button-reload =
 ## Stop
 
 main-context-menu-stop =
-    .aria-label = Cessar
+    .aria-label = Stoppar
     .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -108,8 +108,8 @@ main-context-menu-copy-link =
 ## mutually exclusive.
 
 main-context-menu-media-play =
-    .label = Leger
-    .accesskey = L
+    .label = Reproducer
+    .accesskey = R
 main-context-menu-media-pause =
     .label = Pausar
     .accesskey = P
@@ -117,13 +117,13 @@ main-context-menu-media-pause =
 
 
 main-context-menu-media-mute =
-    .label = Tacer
-    .accesskey = T
+    .label = Silentiar
+    .accesskey = S
 main-context-menu-media-unmute =
-    .label = Non plus tacer
+    .label = Non plus silentiar
     .accesskey = p
 main-context-menu-media-play-speed =
-    .label = Velocitate de presentation
+    .label = Velocitate de reproduction
     .accesskey = V
 main-context-menu-media-play-speed-slow =
     .label = Lente (0,5×)
@@ -135,13 +135,13 @@ main-context-menu-media-play-speed-fast =
     .label = Rapide (1,25×)
     .accesskey = R
 main-context-menu-media-play-speed-faster =
-    .label = Multo rapide (1,5×)
-    .accesskey = M
+    .label = Plus rapide (1.5×)
+    .accesskey = P
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
-    .label = Dismesurate (2×)
-    .accesskey = D
+    .label = Rapidissime (2×)
+    .accesskey = s
 main-context-menu-media-loop =
     .label = Repeter
     .accesskey = R
@@ -167,7 +167,7 @@ main-context-menu-media-video-leave-fullscreen =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
-    .label = Imagine annidate
+    .label = Imagine in imagine
     .accesskey = a
 main-context-menu-image-reload =
     .label = Recargar le imagine
@@ -290,7 +290,7 @@ main-context-menu-inspect-element =
     .label = Inspectar elemento
     .accesskey = I
 main-context-menu-inspect-a11y-properties =
-    .label = Controlar le proprietates de accessibilitate
+    .label = Inspectar le proprietates de accessibilitate
 main-context-menu-eme-learn-more =
-    .label = Saper plus super DRM…
+    .label = Saper plus sur DRM…
     .accesskey = D
