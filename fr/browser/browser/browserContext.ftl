@@ -70,6 +70,9 @@ main-context-menu-save-link =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Quitter le mode plein écran
+    .accesskey = u
 main-context-menu-keyword =
     .label = Ajouter un mot-clé pour cette recherche…
     .accesskey = m
@@ -97,6 +100,9 @@ main-context-menu-frame-view-info =
 main-context-menu-view-selection-source =
     .label = Code source de la sélection
     .accesskey = e
+main-context-menu-view-page-source =
+    .label = Code source de la page
+    .accesskey = s
 main-context-menu-view-page-info =
     .label = Informations sur la page
     .accesskey = o
