@@ -54,11 +54,23 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-new-window =
     .label = Հղումը Բացել Նոր Պատուհանում
     .accesskey = Բ
+main-context-menu-open-link-new-private-window =
+    .label = Բացել հղումը Գաղտնի Դիտարկմամբ
+    .accesskey = Դ
+main-context-menu-bookmark-this-link =
+    .label = էջանշել Այս Հղումը
+    .accesskey = Հ
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Պատճենել Էլ. փոստի հասցեն
+    .accesskey = Է
+main-context-menu-copy-link =
+    .label = Պատճենել Հղման Հասցեն
+    .accesskey = ց
 
 ## Media (video/audio) controls
 ##
@@ -66,9 +78,18 @@ main-context-menu-open-link-new-window =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-pause =
+    .label = Ընդմիջել
+    .accesskey = Ը
 
 ##
 
+main-context-menu-media-mute =
+    .label = Անձայն
+    .accesskey = Ա
+main-context-menu-media-unmute =
+    .label = Ձայնով
+    .accesskey = ա
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -82,18 +103,69 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Դուրս գալ Լիաէկրան վիճակից
+    .accesskey = Լ
+main-context-menu-image-view =
+    .label = Նայել Նկարը
+    .accesskey = Ն
 main-context-menu-video-view =
     .label = Դիտել Հոլովակը
     .accesskey = Դ
+main-context-menu-image-copy-location =
+    .label = Պատճենել Նկարի Հասցեն
+    .accesskey = ա
+main-context-menu-video-copy-location =
+    .label = Պատճենել Հոլովակի Հասցեն
+    .accesskey = ա
+main-context-menu-audio-copy-location =
+    .label = Պատճենել Ձայնագրության Հասցեն
+    .accesskey = ա
+main-context-menu-image-save-as =
+    .label = Պահպանել Նկարը Որպես…
+    .accesskey = պ
+main-context-menu-image-email =
+    .label = Նկարը ուղարկել էլ. փոստով...
+    .accesskey = ա
+main-context-menu-image-set-as-background =
+    .label = Տեղադրել Աշխատասեղանին…
+    .accesskey = Տ
+main-context-menu-image-info =
+    .label = Տեղեկություն Նկարի Մասին
+    .accesskey = Տ
+main-context-menu-image-desc =
+    .label = Դիտել նկարագրությունը
+    .accesskey = ն
+main-context-menu-video-email =
+    .label = Տեսանյութը ուղարկել էլ. փոստով...
+    .accesskey = ս
+main-context-menu-plugin-play =
+    .label = Ակտիվացնել բաղադրիչը
+    .accesskey = կ
+main-context-menu-plugin-hide =
+    .label = Թաքցնել այս բաղադրիչը
+    .accesskey = Թ
+main-context-menu-view-background-image =
+    .label = Նայել Խորապատկերի Նկարը
+    .accesskey = յ
+main-context-menu-keyword =
+    .label = Ավելացնել Բանալի այս Որոնմանը…
+    .accesskey = Բ
 main-context-menu-frame =
     .label = Այս շրջանակում
     .accesskey = Ա
+main-context-menu-frame-show-this =
+    .label = Ցուցադրել միայն այս շրջանակը
+    .accesskey = Ց
 main-context-menu-frame-open-tab =
     .label = Շրջանակը բացել նոր ներդիրում
     .accesskey = Շ
 main-context-menu-frame-open-window =
     .label = Շրջանակը բացել նոր պատուհանում
     .accesskey = Շ
+main-context-menu-frame-bookmark =
+    .label = Էջանշել Այս շրջանակը
+    .accesskey = շ
 main-context-menu-frame-print =
     .label = Տպել շրջանակը…
     .accesskey = Տ
@@ -103,3 +175,15 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Տեղեկություն շրջանակի մասին
     .accesskey = Տ
+main-context-menu-view-page-source =
+    .label = Դիտել Էջի Կոդը
+    .accesskey = Դ
+main-context-menu-view-page-info =
+    .label = Էջի Մասին Տվյալներ
+    .accesskey = Տ
+main-context-menu-bidi-switch-text =
+    .label = Փոխել Տեքստի Ուղղությունը
+    .accesskey = ո
+main-context-menu-bidi-switch-page =
+    .label = Փոխել Էջի Ուղղությունը
+    .accesskey = Ո
