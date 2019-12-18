@@ -17,3 +17,5 @@ update-applying = Թարմացման կիրառում...
 update-failed = Թարմացումը չյաջողուեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չյաջողուեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
 update-adminDisabled = Թարմացումներն անջատուած են ձեր ցանցային համակարգաւարի կողմից:
+bottomLinks-license = Արտոնագրի տուեալներ
+bottomLinks-rights = Աւգտագործողի Իրաւունքները
