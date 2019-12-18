@@ -1,7 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "Hightail">
-<!ENTITY fileExceedsQuota.storageLimitReached   "ถึงขีดจำกัดที่เก็บข้อมูลแล้ว">
-<!ENTITY fileExceedsQuota.description "คุณได้ถึงขีดจำกัดที่เก็บข้อมูล 2GB ของบัญชีของคุณแล้ว">
-<!ENTITY fileExceedsQuota.description1 "ขณะนี้คุณใช้ที่เก็บข้อมูลไปแล้ว #XXX GB">
