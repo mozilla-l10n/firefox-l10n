@@ -27,6 +27,14 @@ serviceworker-worker-debug = ดีบั๊ก
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = เริ่ม
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = ดีบั๊ก
+    .title = สามารถดีบั๊กตัวทำงานบริการได้หาก multi e10s ถูกปิดใช้งานอยู่เท่านั้น
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = เริ่ม
+    .title = สามารถเริ่มตัวทำงานบริการได้หาก multi e10s ถูกปิดใช้งานอยู่เท่านั้น
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = อัปเดตเมื่อ <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -78,8 +86,12 @@ manifest-item-icons = ไอคอน
 manifest-loading = กำลังโหลดไฟล์กำกับ…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = โหลดไฟล์กำกับแล้ว
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = มีข้อผิดพลาดขณะโหลดไฟล์กำกับ:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = ข้อผิดพลาด Firefox DevTools
 # Text displayed when the page has no manifest available
 manifest-non-existing = ไม่พบไฟล์กำกับที่จะตรวจสอบ
 # Text displayed when the page has a manifest embedded in a Data URL and
