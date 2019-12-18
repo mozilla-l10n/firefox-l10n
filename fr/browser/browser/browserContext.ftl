@@ -42,6 +42,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Ouvrir le lien
+    .accesskey = O
 main-context-menu-open-link-new-window =
     .label = Ouvrir le lien dans une nouvelle fenêtre
     .accesskey = O
@@ -88,6 +91,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Plein écran
+    .accesskey = P
 main-context-menu-media-video-leave-fullscreen =
     .label = Quitter le mode plein écran
     .accesskey = u
