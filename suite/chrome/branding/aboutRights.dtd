@@ -29,8 +29,12 @@
 <!-- point 2da is technically point 3. in the list -->
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName; sine produkt kan du finna ">
+<!ENTITY rights.intro-point3b "her">
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "tenestevilkåra">
 
 
 <!-- Note that this paragraph references entities from extensions.dtd,
@@ -48,13 +52,23 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">
+<!ENTITY rights.safebrowsing-b "Å slå av Trygg nettlesing-funksjonen er ikkje tilrådd, sidan det kan føra til at du vitjar utrygge nettstader.  Dersom du ynskjer å skru av funksjonen heilt, følg desse stega:">
+<!ENTITY rights.safebrowsing-term1 "Opna programinnstillingane">
 <!ENTITY rights.safebrowsing-term2 "Vel hovudpanelet på &security.label;-panelet">
 <!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er no slått av">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Stadmedviten nettlesing: ">
+<!ENTITY rights.locationawarebrowsing-term1 "Opne program-innstillingane">
 <!ENTITY rights.locationawarebrowsing-term2 "Vel hovudpanelet på &security.label;-panelet">
 
 <!-- points 0-6 text for branded builds -->
 
 <!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; kan avbryta eller endra Tenestene etter eige ynskje.">
+<!ENTITY rights.webservices-term2 "Du er velkomen til å bruka desse Tenestene med versjonen av &brandShortName; som følger med, og du har alle rettar for å gjera det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrensa rettane som er gjevne under open kjeldekode-lisensane som er knytt til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
+<!ENTITY rights.webservices-term2a "Du er velkomen til å bruka desse Tenestene med versjonen av &brandShortName; som følger med, og du har alle rettar for å gjera det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrensa rettane som er gjevne under open kjeldekode-lisensane som er knytt til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
+<!ENTITY rights.webservices-term3 "Tenestene er tilbydde &quot;som-dei-er.&quot;  &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, verken eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passa til dine føremål. Du har den fulle og heile risikoen for å velja Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenestene.  Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dette dementiet gjeld kanskje ikkje deg.">
+<!ENTITY rights.webservices-term4 "Med unntak av der det er påkravd av lova, &vendorShortName;, dess bidragsytarar, lisensgjevarar og distributørar er ikkje ansvarlege for nokon indirekte, spesiell, tilfeldig, følgeleg, strafferettsleg eller mønstergyldige skadar eller ulemper som skjer som ei følge av eller relatert til bruk av &brandShortName; og Tenestene.  Det kollektive ansvaret i desse vilkåra vil ikkje overstiga $500 (fem hundre amerikanske dollar). Nokre jurisdiksjonar tillèt ikkje eksklusjon eller avgrensing av enkelte former av skade, så det er mogleg desse eksklusjonane og avgrensingane ikkje gjeld deg.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; kan oppdatere desse vilkåra etter behov med jamne mellomrom. Vilkåra kan ikkje verta endra eller annullerte utan skriftleg avtale frå &vendorShortName;.">
 

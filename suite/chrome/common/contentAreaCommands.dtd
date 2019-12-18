@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Tillat sprettoppvindauge frå denne nettstaden">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmdInTab.label       "Opne lenkje i ny fane">
@@ -51,6 +52,8 @@
 <!ENTITY reloadImageCmd.accesskey     "O">
 <!ENTITY viewImageCmd.label           "Vis bildet">
 <!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewImageInfoCmd.label       "Vis bildeinfo">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbildet">
@@ -151,6 +154,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "r">
 <!ENTITY spellAddDictionaries.label     "Last ned fleire ordbøker…">
 <!ENTITY spellAddDictionaries.accesskey "L">
+
+<!ENTITY fillLoginMenu.label          "Fyll ut innlogging">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "Fyll inn passord">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Fyll inn brukarnamn">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(Ingen innloggingsforslag)">
+<!ENTITY viewSavedLogins.label        "Vis lagra innloggingar">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Inspiser element">
 <!ENTITY devtoolsInspect.accesskey      "n">

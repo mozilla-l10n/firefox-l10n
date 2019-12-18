@@ -38,6 +38,10 @@
 <!ENTITY bookmarksToolbar.tooltip         "Bokmerkelinje">
 <!ENTITY navigationToolbar.tooltip        "Navigasjonsverktøylinje">
 
+<!ENTITY editBookmark.done.label "Fullført">
+<!ENTITY editBookmark.cancel.label "Avbryt">
+<!ENTITY editBookmark.removeBookmark.accessKey "r">
+
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Tilbake">
 <!ENTITY backButton.tooltip           "Gå tilbake ei side">
@@ -55,6 +59,8 @@
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
 <!ENTITY throbber.tooltip             "Gå til heimesida til til &vendorShortName;">
+
+<!ENTITY throbber.tooltip2            "Gå til heimesida til &brandShortName;">
 
 <!ENTITY locationBar.tooltip          "Skriv inn eit søkjeord, nykelord eller ei nettadresse her">
 <!ENTITY locationBar.accesskey        "d">
@@ -80,3 +86,6 @@
 <!ENTITY viewCertificate.accesskey   "s">
 <!ENTITY viewCertManager.label       "Opne sertifikathandsamar">
 <!ENTITY viewCertManager.accesskey   "n">
+
+<!ENTITY zoomIn.tooltiptext          "Større">
+<!ENTITY zoomOut.tooltiptext         "Mindre">

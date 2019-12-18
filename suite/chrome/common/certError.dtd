@@ -12,6 +12,12 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å kopla til
+<b>#1</b> på ein trygg måte, men vi greier ikkje å stadfesta om tilkoplinga faktisk er trygg.">
+
+<!-- Localization note (certerror.introPara1a) - The text content of the span
+tag will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "Kva bør eg gjere?">
 
@@ -19,3 +25,6 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "Lag ein unntaksregel…">
 
 <!ENTITY certerror.technical.heading "Tekniske detaljar">
+
+<!ENTITY dnsNotFound.pageTitle "Fann ikkje serveren">
+<!ENTITY malformedURI.pageTitle "Ugyldig nettadresse">

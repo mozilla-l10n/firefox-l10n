@@ -58,6 +58,7 @@
 <!ENTITY cookies.button.remove.label "Fjern">
 <!ENTITY cookies.button.remove.accesskey "r">
 
+<!ENTITY cookies.blockOnRemove.accesskey "f">
 
 <!-- permissions -->
 <!ENTITY perm.UseDefault "Bruk standard">
