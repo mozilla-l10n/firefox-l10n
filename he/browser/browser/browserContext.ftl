@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = חזרה דף אחד אחורה
+    .aria-label = אחורה
+    .accesskey = ז
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = התקדמות דף אחד קדימה
+    .aria-label = קדימה
+    .accesskey = ק
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = טעינה מחדש
+    .accesskey = מ
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = עצירה
+    .accesskey = ע
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,12 +62,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = יצירת סימנייה לדף זה
+    .accesskey = ס
 main-context-menu-open-link =
     .label = פתיחת קישור
     .accesskey = פ
 main-context-menu-open-link-new-tab =
     .label = פתיחת קישור בלשונית חדשה
     .accesskey = ל
+main-context-menu-open-link-container-tab =
+    .label = פתיחת קישור במגירת לשוניות חדשה
+    .accesskey = מ
 main-context-menu-open-link-new-window =
     .label = פתיחת קישור בחלון חדש
     .accesskey = ח
@@ -65,6 +85,9 @@ main-context-menu-bookmark-this-link =
     .accesskey = ק
 main-context-menu-save-link =
     .label = שמירת קישור בשם…
+    .accesskey = מ
+main-context-menu-save-link-to-pocket =
+    .label = שמירת קישור אל { -pocket-brand-name }
     .accesskey = מ
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
@@ -87,12 +110,21 @@ main-context-menu-copy-link =
 main-context-menu-media-play =
     .label = ניגון
     .accesskey = נ
+main-context-menu-media-pause =
+    .label = השהיה
+    .accesskey = ה
 
 ##
 
 main-context-menu-media-mute =
     .label = השתקה
     .accesskey = ש
+main-context-menu-media-unmute =
+    .label = ביטול השתקה
+    .accesskey = ש
+main-context-menu-media-play-speed =
+    .label = מהירות נגינה
+    .accesskey = נ
 main-context-menu-media-play-speed-slow =
     .label = אטית (0.5×)
     .accesskey = א
@@ -120,6 +152,9 @@ main-context-menu-media-loop =
 main-context-menu-media-show-controls =
     .label = הצגת פקדים
     .accesskey = פ
+main-context-menu-media-hide-controls =
+    .label = הסתרת פקדים
+    .accesskey = פ
 
 ##
 
@@ -129,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = יציאה ממסך מלא
     .accesskey = י
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = תמונה בתוך תמונה
+    .accesskey = ב
 main-context-menu-image-reload =
     .label = טעינת תמונה מחדש
     .accesskey = ת
@@ -138,6 +178,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = צפיה בוידאו
     .accesskey = צ
+main-context-menu-image-copy =
+    .label = העתקת תמונה
+    .accesskey = ת
+main-context-menu-image-copy-location =
+    .label = העתקת מיקום תמונה
+    .accesskey = ע
 main-context-menu-video-copy-location =
     .label = העתקת מיקום וידאו
     .accesskey = ה
@@ -165,6 +211,9 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = שמירת אודיו בשם…
     .accesskey = מ
+main-context-menu-video-image-save-as =
+    .label = שמירת צילום בשם…
+    .accesskey = צ
 main-context-menu-video-email =
     .label = שליחת וידאו בדוא״ל…
     .accesskey = ו
@@ -177,12 +226,21 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = הסתרת תוסף חיצוני זה
     .accesskey = ס
+main-context-menu-save-to-pocket =
+    .label = שמירת דף אל { -pocket-brand-name }
+    .accesskey = ש
+main-context-menu-send-to-device =
+    .label = שליחת דף למכשיר
+    .accesskey = מ
 main-context-menu-view-background-image =
     .label = הצגת תמונת רקע
     .accesskey = ת
 main-context-menu-keyword =
     .label = הוספת מילת מפתח לחיפוש זה…
     .accesskey = ס
+main-context-menu-link-send-to-device =
+    .label = שליחת קישור למכשיר
+    .accesskey = מ
 main-context-menu-frame =
     .label = מסגרת זו
     .accesskey = ג
@@ -225,6 +283,9 @@ main-context-menu-view-page-info =
 main-context-menu-bidi-switch-text =
     .label = הפוך כיוון כתיבה
     .accesskey = כ
+main-context-menu-bidi-switch-page =
+    .label = הפיכת כיוון דף
+    .accesskey = פ
 main-context-menu-inspect-element =
     .label = חקירת רכיב
     .accesskey = ח
