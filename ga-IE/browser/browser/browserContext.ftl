@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Tarraing anuas chun an stair a thaispeáint
+           *[other] Deaschliceáil nó tarraing anuas chun an stair a thaispeáint
+        }
 
 ## Back
 
@@ -39,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link-new-private-window =
+    .label = Oscail an Nasc i bhFuinneog Nua Phríobháideach
+    .accesskey = P
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -61,3 +70,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Scoir ón Lánscáileán
+    .accesskey = n
+main-context-menu-view-selection-source =
+    .label = Taispeáin Foinse Roghnaithe
+    .accesskey = e
