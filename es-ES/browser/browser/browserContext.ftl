@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Arrastre hacia abajo para ver el historial
+           *[other] Pinche con el botón derecho o arrastre hacia abajo para ver el historial
+        }
 
 ## Back
 
@@ -39,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link-new-private-window =
+    .label = Abrir enlace en una nueva ventana privada
+    .accesskey = P
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -61,6 +70,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Salir de la pantalla completa
+    .accesskey = p
 main-context-menu-view-selection-source =
     .label = Ver código fuente seleccionado
     .accesskey = e
