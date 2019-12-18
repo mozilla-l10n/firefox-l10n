@@ -47,4 +47,4 @@
 <!ENTITY done.title                     "Uvoz završen">
 <!ENTITY done.label                     "Sljedeće stavke su uspješno uvezene:">
 
-<!ENTITY closeSourceBrowser.label       "Molimo vas da provjerite da je odabrani preglednik zatvoren prije nastavka.">
+<!ENTITY closeSourceBrowser.label       "Prije nastavka, provjeri je li odabrani preglednik zatvoren.">

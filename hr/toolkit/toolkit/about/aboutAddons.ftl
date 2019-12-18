@@ -145,7 +145,7 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Neki dodaci su onemogućeni
 disabled-unsigned-description = Navedeni dodaci nisu mogli biti verificirani za korištenje u { -brand-short-name }u. Možete <label data-l10n-name="find-addons">pronaći zamjenske dodatke</label> ili kontaktirati autora dodataka da zatraži njihovu verifikaciju.
-disabled-unsigned-learn-more = Saznajte više o našim naporima da vas zaštitimo na Internetu.
+disabled-unsigned-learn-more = Saznaj više o našim naporima da te zaštitimo na Internetu.
 disabled-unsigned-devinfo = Razvijatelji koji su zainteresirani za verifikaciju svojih dodataka mogu nastaviti čitati naš <label data-l10n-name="learn-more">vodič</label>.
 plugin-deprecation-description = Ne možete pronaći priključak koji tražite? Neke priključke { -brand-short-name } više ne podržava. <label data-l10n-name="learn-more">Saznajte više.</label>
 legacy-warning-show-legacy = Prikaži zastarjele dodatke
