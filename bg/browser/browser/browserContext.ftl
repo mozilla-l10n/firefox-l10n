@@ -164,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Излизане от цял екран
     .accesskey = ц
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Картина в картината
+    .accesskey = т
 main-context-menu-image-reload =
     .label = Презареждане на изображение
     .accesskey = з
