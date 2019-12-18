@@ -45,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link-new-private-window =
+    .label = Otevřít odkaz v novém anonymním okně
+    .accesskey = t
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -70,6 +73,12 @@ toolbar-button-page-save =
 main-context-menu-media-video-leave-fullscreen =
     .label = Ukončit režim celé obrazovky
     .accesskey = k
+main-context-menu-image-desc =
+    .label = Zobrazit popis
+    .accesskey = p
 main-context-menu-view-selection-source =
     .label = Zobrazit zdrojový kód výběru
     .accesskey = j
+main-context-menu-eme-learn-more =
+    .label = Zjistit více o DRM…
+    .accesskey = D
