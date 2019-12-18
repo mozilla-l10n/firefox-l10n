@@ -1021,7 +1021,7 @@ permissions-addon-exceptions =
     .label = Iznimke...
     .accesskey = e
 permissions-a11y-privacy-checkbox =
-    .label = Spriječite servise pristupačnosti da pristupaju vašem pregledniku
+    .label = Spriječi usluge pristupačnosti da pristupe tvom pregledniku
     .accesskey = a
 permissions-a11y-privacy-link = Saznajte više
 
@@ -1046,7 +1046,7 @@ addon-recommendations-link = Saznajte više
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
 collection-backlogged-crash-reports =
-    .label = Dozvolite { -brand-short-name } da šalje zapise o rušenju u vaše ime
+    .label = Dozvoli { -brand-short-name } da šalje zapise o rušenju u tvoje ime
     .accesskey = o
 collection-backlogged-crash-reports-link = Saznajte više
 
