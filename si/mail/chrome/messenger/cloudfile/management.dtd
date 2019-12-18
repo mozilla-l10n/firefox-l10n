@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY cloudfileMgmt.privacyPolicy "පෞද්ගලිකත්ව පිළිවෙත">
-<!ENTITY cloudfileMgmt.termsOfService "සේවා කොන්දේසි">
-<!ENTITY cloudfileMgmt.usedSpace "භාවිතා කළ ඉඩ:">
-<!ENTITY cloudfileMgmt.unusedSpace "භාවිතා නොකළ ඉඩ:">
-<!ENTITY cloudfileMgmt.upgradeOffer "තවත් ඉඩ ලබා ගන්න">
