@@ -63,6 +63,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Захаваць спасылку як…
     .accesskey = с
+main-context-menu-save-link-to-pocket =
+    .label = Захаваць спасылку ў { -pocket-brand-name }
+    .accesskey = ў
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -135,6 +138,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Закрыць поўны экран
     .accesskey = З
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Выява ў выяве
+    .accesskey = ў
 main-context-menu-image-reload =
     .label = Абнавіць выяву
     .accesskey = А
@@ -186,6 +194,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Схаваць плагін
     .accesskey = х
+main-context-menu-save-to-pocket =
+    .label = Захаваць старонку ў { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Даслаць старонку на прыладу
     .accesskey = п
@@ -246,6 +257,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Даследаваць элемент
     .accesskey = Д
+main-context-menu-inspect-a11y-properties =
+    .label = Інспектаваць уласцівасці даступнасці
 main-context-menu-eme-learn-more =
     .label = Даведацца больш пра DRM…
     .accesskey = D
