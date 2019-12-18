@@ -63,6 +63,23 @@ main-context-menu-open-link-new-private-window =
 
 ##
 
+main-context-menu-media-play-speed-slow =
+    .label = Lento (0.5×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rápido (1.25×)
+    .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Más rápido (1.5×)
+    .accesskey = M
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Rapidísimo (2×)
+    .accesskey = a
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
