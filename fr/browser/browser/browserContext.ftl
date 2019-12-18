@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Reculer d’une page
+    .aria-label = Page précédente
+    .accesskey = P
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Avancer d’une page
+    .aria-label = Page suivante
+    .accesskey = s
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Actualiser
+    .accesskey = u
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Arrêter
+    .accesskey = r
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Marquer cette page
+    .accesskey = c
 main-context-menu-open-link =
     .label = Ouvrir le lien
     .accesskey = O
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Enregistrer la cible du lien sous…
     .accesskey = E
+main-context-menu-save-link-to-pocket =
+    .label = Enregistrer le lien dans { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -144,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Quitter le mode plein écran
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Incrustation vidéo
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Actualiser l’image
     .accesskey = m
@@ -153,6 +178,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Afficher la vidéo
     .accesskey = v
+main-context-menu-image-copy =
+    .label = Copier l’image
+    .accesskey = a
 main-context-menu-image-copy-location =
     .label = Copier l’adresse de l’image
     .accesskey = r
@@ -198,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Masquer ce plugin
     .accesskey = q
+main-context-menu-save-to-pocket =
+    .label = Enregistrer la page dans { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Envoyer la page à un appareil
     .accesskey = v
@@ -258,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Examiner l’élément
     .accesskey = x
+main-context-menu-inspect-a11y-properties =
+    .label = Inspecter les propriétés d’accessibilité
 main-context-menu-eme-learn-more =
     .label = En savoir plus sur les DRM…
     .accesskey = D
