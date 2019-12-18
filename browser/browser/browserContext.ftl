@@ -199,3 +199,6 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Elemint ynspektearje
     .accesskey = E
+main-context-menu-eme-learn-more =
+    .label = Mear ynfo oer DRM…
+    .accesskey = D
