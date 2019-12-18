@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] برای نمایش تاریخجه، به طرف پایین بکشید
+           *[other] برای نمایش تاریخچه، کلیک راست کنید یا به طرف پایین بکشید
+        }
 
 ## Back
 
@@ -39,6 +45,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = باز کردن پیوند
+    .accesskey = ب
 main-context-menu-open-link-new-window =
     .label = باز کردن پیوند در پنجرهٔ جدید
     .accesskey = پ
