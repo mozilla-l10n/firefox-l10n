@@ -103,11 +103,11 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = Kodiranje za zastarjeli sadržaj
-fonts-languages-fallback-desc = Ovo kodiranje se koristi za zastarjeli sadržaj, koji ne prijavljuje vlastito kodiranje.
+fonts-languages-fallback-desc = Ovo kodiranje se koristi za zastarjeli sadržaj, koji ne definira vlastito kodiranje.
 fonts-languages-fallback-label = Pomoćno kodiranje
     .accesskey = k
 fonts-languages-fallback-name-auto =
-    .label = Zadano kodiranje za trenutačni jezik
+    .label = Standardno kodiranje za trenutačni jezik
 fonts-languages-fallback-name-arabic =
     .label = Arapsko
 fonts-languages-fallback-name-baltic =
