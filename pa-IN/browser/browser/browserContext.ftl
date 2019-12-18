@@ -161,6 +161,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
+    .accesskey = u
 main-context-menu-image-reload =
     .label = ਚਿੱਤਰ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ
     .accesskey = R
