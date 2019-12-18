@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] ಇತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ
+           *[other] ಇತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಮೌಸ್‌ನ ಬಲಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಅಥವ ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ
+        }
 
 ## Back
 
@@ -42,6 +48,9 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = ಕೊಂಡಿಯನ್ನು ತೆರೆ
     .accesskey = O
+main-context-menu-bookmark-this-link =
+    .label = ಈ ಕೊಂಡಿಯನ್ನು ಪುಟಗುರುತು ಮಾಡು
+    .accesskey = L
 main-context-menu-save-link =
     .label = ಕೊಂಡಿಯನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = k
@@ -53,6 +62,9 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ಇಮೈಲ್ ವಿಳಾಸವನ್ನು ಕಾಪಿ ಮಾಡು
     .accesskey = E
+main-context-menu-copy-link =
+    .label = ತಾಣದ ವಿಳಾಸವನ್ನು (ಲಿಂಕ್ ಲೋಕೇಶನ್) ಪ್ರತಿ ಮಾಡು
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -118,6 +130,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = ಚಿತ್ರದ ಮಾಹಿತಿಯನ್ನು ನೋಡು
     .accesskey = f
+main-context-menu-image-desc =
+    .label = ವಿವರಣೆಯನ್ನು ನೋಡಿ (D)
+    .accesskey = D
 main-context-menu-audio-save-as =
     .label = ಆಡಿಯೋ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…
     .accesskey = v
@@ -127,6 +142,12 @@ main-context-menu-video-image-save-as =
 main-context-menu-video-email =
     .label = ವೀಡಿಯೊವನ್ನು ಇಮೈಲ್ ಮಾಡಿ…
     .accesskey = a
+main-context-menu-plugin-play =
+    .label = ಈ ಪ್ಲಗ್ಇನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = ಈ ಪ್ಲಗ್ಇನ್ ಅನ್ನು ಅಡಗಿಸು
+    .accesskey = H
 main-context-menu-view-background-image =
     .label = ಹಿನ್ನಲೆಯ ಚಿತ್ರವನ್ನು ನೋಡು
     .accesskey = w
@@ -142,6 +163,9 @@ main-context-menu-frame-show-this =
 main-context-menu-frame-reload =
     .label = ಚೌಕಟ್ಟನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು
     .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = ಈ ಚೌಕಟ್ಟನ್ನು ಪುಟಗುರುತು ಮಾಡು
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = ಚೌಕಟ್ಟನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = F
