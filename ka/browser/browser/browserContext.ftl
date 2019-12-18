@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = წინა გვერდი
+    .aria-label = წინა
+    .accesskey = წ
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = მომდევნო გვერდი
+    .aria-label = მომდევნო
+    .accesskey = მ
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -72,14 +80,26 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = ბმულის ახალ პირად ფანჯარაში გახსნა
     .accesskey = პ
+main-context-menu-bookmark-this-link =
+    .label = ბმულის ჩანიშვნა
+    .accesskey = შ
 main-context-menu-save-link =
     .label = ბმულის შენახვა როგორც…
     .accesskey = მ
+main-context-menu-save-link-to-pocket =
+    .label = ბმულის შენახვა { -pocket-brand-name }-ში
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = ელფოსტის მისამართის ასლი
+    .accesskey = ე
+main-context-menu-copy-link =
+    .label = ბმულის მისამართის ასლი
+    .accesskey = უ
 
 ## Media (video/audio) controls
 ##
@@ -122,6 +142,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = გიჟური (2×)
     .accesskey = გ
+main-context-menu-media-loop =
+    .label = გამეორება დაუსრულებლად
+    .accesskey = ო
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -141,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = სრულეკრანიანი რეჟიმიდან გამოსვლა
     .accesskey = ს
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = ეკრანი-ეკრანში
+    .accesskey = ე
 main-context-menu-image-reload =
     .label = სურათის განახლება
     .accesskey = გ
@@ -150,9 +178,24 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = ვიდეოს ნახვა
     .accesskey = ვ
+main-context-menu-image-copy =
+    .label = სურათის ასლი
+    .accesskey = რ
+main-context-menu-image-copy-location =
+    .label = სურათის მისამართის ასლი
+    .accesskey = ლ
+main-context-menu-video-copy-location =
+    .label = ვიდეოს მისამართის ასლი
+    .accesskey = ლ
+main-context-menu-audio-copy-location =
+    .label = ხმოვანი ფაილის მისამართის ასლი
+    .accesskey = ლ
 main-context-menu-image-save-as =
     .label = სურათის შენახვა როგორც…
     .accesskey = ნ
+main-context-menu-image-email =
+    .label = სურათის გაგზავნა ელფოსტით…
+    .accesskey = ფ
 main-context-menu-image-set-as-background =
     .label = სამუშაო ეკრანის ფონად გამოყენება…
     .accesskey = ო
@@ -168,6 +211,12 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = ხმოვანი ფაილის შენახვა როგორც…
     .accesskey = ნ
+main-context-menu-video-image-save-as =
+    .label = კადრის შენახვა როგორც…
+    .accesskey = კ
+main-context-menu-video-email =
+    .label = ვიდეოს გაგზავნა ელფოსტით…
+    .accesskey = ფ
 main-context-menu-audio-email =
     .label = ხმოვანი ფაილის გაგზავნა ელფოსტით…
     .accesskey = ე
@@ -177,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = ამ მოდულის დამალვა
     .accesskey = დ
+main-context-menu-save-to-pocket =
+    .label = გვერდის შენახვა { -pocket-brand-name }-ში
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = გვერდის გაგზავნა მოწყობილობაზე
     .accesskey = გ
@@ -219,6 +271,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ჩარჩოს მონაცემების ჩვენება
     .accesskey = მ
+main-context-menu-view-selection-source =
+    .label = მონიშნულის წყაროს ჩვენება
+    .accesskey = ო
 main-context-menu-view-page-source =
     .label = გვერდის წყაროს ჩვენება
     .accesskey = წ
@@ -236,3 +291,6 @@ main-context-menu-inspect-element =
     .accesskey = ტ
 main-context-menu-inspect-a11y-properties =
     .label = დამხმარე საშუალებების გამოკვლევა
+main-context-menu-eme-learn-more =
+    .label = ვრცლად, DRM-ის შესახებ…
+    .accesskey = D
