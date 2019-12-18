@@ -82,6 +82,9 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copiar le adresse de e-mail
+    .accesskey = E
 main-context-menu-copy-link =
     .label = Copiar le adresse del ligamine
     .accesskey = C
@@ -140,6 +143,9 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-fullscreen =
     .label = Plen schermo
     .accesskey = P
+main-context-menu-media-video-leave-fullscreen =
+    .label = Exir del plen schermo
+    .accesskey = E
 main-context-menu-image-reload =
     .label = Recargar le imagine
     .accesskey = R
