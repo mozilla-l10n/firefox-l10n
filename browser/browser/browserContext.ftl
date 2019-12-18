@@ -18,6 +18,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Leathanach amháin ar aghaidh
+    .aria-label = Ar Aghaidh
+    .accesskey = A
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -30,6 +34,9 @@ toolbar-button-reload =
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stad
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -40,19 +47,43 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Sábháil an Leathanach Mar…
+    .accesskey = R
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Oscail Nasc
+    .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = Oscail an Nasc i gCluaisín Nua
+    .accesskey = C
+main-context-menu-open-link-new-window =
+    .label = Oscail an Nasc i bhFuinneog Nua
+    .accesskey = F
 main-context-menu-open-link-new-private-window =
     .label = Oscail an Nasc i bhFuinneog Nua Phríobháideach
     .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = Cruthaigh Leabharmharc don Nasc Seo
+    .accesskey = L
+main-context-menu-save-link =
+    .label = Sábháil an Nasc Mar…
+    .accesskey = N
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Cóipeáil an Seoladh Ríomhphoist
+    .accesskey = e
+main-context-menu-copy-link =
+    .label = Cóipeáil Suíomh an Naisc
+    .accesskey = p
 
 ## Media (video/audio) controls
 ##
@@ -60,19 +91,130 @@ main-context-menu-open-link-new-private-window =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Seinn
+    .accesskey = S
 
 ##
 
+main-context-menu-media-mute =
+    .label = Gan Fuaim
+    .accesskey = m
+main-context-menu-media-unmute =
+    .label = Le Fuaim
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Taispeáin Rialtáin
+    .accesskey = R
+main-context-menu-media-hide-controls =
+    .label = Folaigh Rialtáin
+    .accesskey = R
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Lánscáileán
+    .accesskey = i
 main-context-menu-media-video-leave-fullscreen =
     .label = Scoir ón Lánscáileán
     .accesskey = n
+main-context-menu-image-view =
+    .label = Taispeáin an Íomhá Amháin
+    .accesskey = T
+main-context-menu-video-view =
+    .label = Féach ar Fhíseán
+    .accesskey = F
+main-context-menu-image-save-as =
+    .label = Sábháil an Íomhá Mar…
+    .accesskey = M
+main-context-menu-image-email =
+    .label = Seol an Íomhá trí Ríomhphost…
+    .accesskey = m
+main-context-menu-image-set-as-background =
+    .label = Socraigh Mar Chúlra na Deisce…
+    .accesskey = S
+main-context-menu-image-info =
+    .label = Taispeáin Eolas Faoin Íomhá
+    .accesskey = F
+main-context-menu-image-desc =
+    .label = Taispeáin Cur Síos
+    .accesskey = C
+main-context-menu-video-save-as =
+    .label = Sábháil an Físeán Mar…
+    .accesskey = F
+main-context-menu-audio-save-as =
+    .label = Sábháil an Fhuaim Mar…
+    .accesskey = b
+main-context-menu-video-image-save-as =
+    .label = Sábháil Grianghraf Mar…
+    .accesskey = S
+main-context-menu-video-email =
+    .label = Seol an Físeán trí Ríomhphost…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = Seol an Fhuaim trí Ríomhphost…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = Cuir an forlíontán seo i ngníomh
+    .accesskey = C
+main-context-menu-plugin-hide =
+    .label = Folaigh an forlíontán seo
+    .accesskey = h
+main-context-menu-view-background-image =
+    .label = Taispeáin Íomhá sa Chúlra
+    .accesskey = C
+main-context-menu-keyword =
+    .label = Cuir lorgfhocal leis an gcuardach seo…
+    .accesskey = l
+main-context-menu-frame =
+    .label = An Fráma Seo
+    .accesskey = r
+main-context-menu-frame-show-this =
+    .label = Ná Taispeáin ach an Fráma Seo
+    .accesskey = s
+main-context-menu-frame-open-tab =
+    .label = Oscail an Fráma i gCluaisín Nua
+    .accesskey = C
+main-context-menu-frame-open-window =
+    .label = Oscail an Fráma i bhFuinneog Nua
+    .accesskey = F
+main-context-menu-frame-bookmark =
+    .label = Cruthaigh Leabharmharc don Fhráma Seo
+    .accesskey = m
+main-context-menu-frame-save-as =
+    .label = Sábháil an Fráma Mar…
+    .accesskey = F
+main-context-menu-frame-print =
+    .label = Priontáil an Fráma…
+    .accesskey = P
+main-context-menu-frame-view-source =
+    .label = Taispeáin Foinse an Fhráma
+    .accesskey = T
+main-context-menu-frame-view-info =
+    .label = Taispeáin Eolas Fráma
+    .accesskey = E
 main-context-menu-view-selection-source =
     .label = Taispeáin Foinse Roghnaithe
     .accesskey = e
+main-context-menu-view-page-source =
+    .label = Taispeáin Foinse an Leathanaigh
+    .accesskey = F
+main-context-menu-view-page-info =
+    .label = Taispeáin Sonraí an Leathanaigh
+    .accesskey = i
+main-context-menu-bidi-switch-text =
+    .label = Athraigh Treo an Téacs
+    .accesskey = T
+main-context-menu-bidi-switch-page =
+    .label = Athraigh Treo an Leathanaigh
+    .accesskey = L
+main-context-menu-inspect-element =
+    .label = Scrúdaigh Eilimint
+    .accesskey = S
+main-context-menu-eme-learn-more =
+    .label = Tuilleadh eolais faoi DRM...
+    .accesskey = D
