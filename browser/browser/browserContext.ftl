@@ -5,6 +5,10 @@
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Vanni inderê de 'na pagina
+    .aria-label = Inderê
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +16,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Vanni avanti de 'na pagina
+    .aria-label = Avanti
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -19,11 +27,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Recarega
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Ferma
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -42,6 +56,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Azonzi questa pagina a-i segnalibbri
+    .accesskey = n
 main-context-menu-open-link =
     .label = Arvi colegamento
     .accesskey = v
@@ -144,6 +161,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Fanni vedde videò
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Còpia inmagine
+    .accesskey = C
 main-context-menu-video-copy-location =
     .label = Còpia indirisso do videò
     .accesskey = o
