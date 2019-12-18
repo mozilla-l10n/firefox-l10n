@@ -34,6 +34,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Kubika Paji Muri...
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -82,6 +85,9 @@ main-context-menu-media-pause =
 main-context-menu-image-view =
     .label = Kureba Ishusho
     .accesskey = I
+main-context-menu-image-copy =
+    .label = Gukoporora Ishusho
+    .accesskey = r
 main-context-menu-image-copy-location =
     .label = Gukoporora Ahari Ishusho
     .accesskey = o
@@ -120,6 +126,9 @@ main-context-menu-frame-view-source =
     .accesskey = d
 main-context-menu-frame-view-info =
     .label = Kureba Amakuru y'Ikadiri
+    .accesskey = e
+main-context-menu-view-selection-source =
+    .label = Kureba Inkomoko y'Ihitamo
     .accesskey = e
 main-context-menu-view-page-source =
     .label = Kureba Inkomoko ya Paji
