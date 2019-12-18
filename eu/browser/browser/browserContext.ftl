@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Ekarri behera historia erakusteko
+           *[other] Egin eskuin-klika edo ekarri behera historia erakusteko
+        }
 
 ## Back
 
@@ -39,11 +45,35 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Ireki lotura
+    .accesskey = I
+main-context-menu-open-link-new-tab =
+    .label = Ireki fitxa berrian
+    .accesskey = t
+main-context-menu-open-link-new-window =
+    .label = Ireki leiho berrian
+    .accesskey = l
+main-context-menu-open-link-new-private-window =
+    .label = Ireki lotura leiho pribatu berrian
+    .accesskey = p
+main-context-menu-bookmark-this-link =
+    .label = Egin lotura honen laster-marka
+    .accesskey = l
+main-context-menu-save-link =
+    .label = Gorde lotura honela…
+    .accesskey = G
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Kopiatu helbide elektronikoa
+    .accesskey = e
+main-context-menu-copy-link =
+    .label = Kopiatu loturaren helbidea
+    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -51,13 +81,133 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Erreproduzitu
+    .accesskey = p
+main-context-menu-media-pause =
+    .label = Pausatu
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Mututu
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = Ez mututu
+    .accesskey = m
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Erakutsi kontrolak
+    .accesskey = k
+main-context-menu-media-hide-controls =
+    .label = Ezkutatu kontrolak
+    .accesskey = k
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Irten pantaila osotik
+    .accesskey = s
+main-context-menu-image-reload =
+    .label = Berritu irudia
+    .accesskey = r
+main-context-menu-image-view =
+    .label = Ikusi irudia
+    .accesskey = I
+main-context-menu-video-view =
+    .label = Ikusi bideoa
+    .accesskey = k
+main-context-menu-image-copy-location =
+    .label = Kopiatu irudiaren helbidea
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = Kopiatu bideoaren helbidea
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Kopiatu audioaren helbidea
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Gorde irudia honela…
+    .accesskey = G
+main-context-menu-image-email =
+    .label = Bidali irudia postaz…
+    .accesskey = a
+main-context-menu-image-set-as-background =
+    .label = Jarri idazmahaiaren atzeko planoan…
+    .accesskey = J
+main-context-menu-image-info =
+    .label = Ikusi irudiaren informazioa
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = Ikusi deskribapena
+    .accesskey = d
+main-context-menu-video-save-as =
+    .label = Gorde bideoa honela…
+    .accesskey = b
+main-context-menu-audio-save-as =
+    .label = Gorde audioa honela…
+    .accesskey = r
+main-context-menu-video-email =
+    .label = Bidali bideoa postaz…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = Bidali audioa postaz…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = Aktibatu plugin hau
+    .accesskey = k
+main-context-menu-plugin-hide =
+    .label = Ezkutatu plugin hau
+    .accesskey = E
+main-context-menu-view-background-image =
+    .label = Ikusi atzeko planoko irudia
+    .accesskey = a
+main-context-menu-keyword =
+    .label = Gehitu bilaketa honentzat gako-hitza…
+    .accesskey = k
+main-context-menu-frame =
+    .label = Marko hau
+    .accesskey = h
+main-context-menu-frame-show-this =
+    .label = Erakutsi marko hau bakarrik
+    .accesskey = b
+main-context-menu-frame-open-tab =
+    .label = Ireki markoa fitxa berrian
+    .accesskey = t
+main-context-menu-frame-open-window =
+    .label = Ireki markoa leiho berrian
+    .accesskey = m
+main-context-menu-frame-reload =
+    .label = Berritu markoa
+    .accesskey = r
+main-context-menu-frame-bookmark =
+    .label = Egin marko honen laster-marka
+    .accesskey = m
+main-context-menu-frame-save-as =
+    .label = Gorde markoa honela…
+    .accesskey = m
+main-context-menu-frame-print =
+    .label = Inprimatu markoa…
+    .accesskey = p
+main-context-menu-frame-view-source =
+    .label = Ikusi markoaren iturburua
+    .accesskey = m
+main-context-menu-frame-view-info =
+    .label = Ikusi markoaren informazioa
+    .accesskey = u
+main-context-menu-view-page-source =
+    .label = Ikusi orriaren iturburua
+    .accesskey = o
+main-context-menu-view-page-info =
+    .label = Ikusi orriaren informazioa
+    .accesskey = I
+main-context-menu-bidi-switch-text =
+    .label = Aldatu testuaren norabidea
+    .accesskey = t
+main-context-menu-bidi-switch-page =
+    .label = Aldatu orriaren norabidea
+    .accesskey = n
