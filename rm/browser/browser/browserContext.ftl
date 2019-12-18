@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Ina pagina enavos
+    .aria-label = Enavos
+    .accesskey = E
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Ina pagina enavant
+    .aria-label = Enavant
+    .accesskey = n
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Chargiar danovamain
+    .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stop
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Agiuntar in segnapagina per la pagina
+    .accesskey = t
 main-context-menu-open-link =
     .label = Avrir la colliaziun
     .accesskey = A
@@ -105,6 +122,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Cun tun
     .accesskey = C
+main-context-menu-media-play-speed =
+    .label = Sveltezza da reproducziun
+    .accesskey = v
+main-context-menu-media-play-speed-slow =
+    .label = Plaun (0.5×)
+    .accesskey = P
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Svelt (1.25×)
+    .accesskey = S
+main-context-menu-media-play-speed-faster =
+    .label = Pli svelt (1.5×)
+    .accesskey = l
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Stravagà (2×)
+    .accesskey = t
+main-context-menu-media-loop =
+    .label = Repeter
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -241,6 +281,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspectar l'element
     .accesskey = I
+main-context-menu-inspect-a11y-properties =
+    .label = Inspectar las caracteristicas da l'accessiblitad
 main-context-menu-eme-learn-more =
     .label = Dapli infurmaziuns davart DRM…
     .accesskey = D
