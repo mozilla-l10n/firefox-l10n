@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Krasjrapporter
-clear-all-reports-label = Slett alle rapporter
+submit-all-button-label = Send inn alt
 delete-button-label = Fjern alle
 delete-confirm-title = Er du sikker?
-delete-confirm-description = Dette vil slette alle rapporter, og kan ikke omgjøres.
 delete-unsubmitted-description = Dette vil slette alle ikke-innsendte krasjrapporter og kan ikke angres.
 delete-submitted-description = Dette fjerner listen over innsendte krasjrapporter, men vil ikke slette de innsendte data. Dette kan ikke angres.
 crashes-unsubmitted-label = Ikke-innsendte krasjrapporter
