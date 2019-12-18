@@ -62,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = बे बिलाइखौ बुकमार्क हो...{ " " }
+    .accesskey = m
 main-context-menu-open-link =
     .label = लिंकखौ खेव
     .accesskey = O
