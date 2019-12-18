@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Pull down to show history
+           *[other] Right-click or pull down to show history
+        }
 
 ## Back
 
@@ -34,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Save Page As…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -45,9 +54,15 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Open Link in New Tab
     .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = Open Link in New Container Tab
+    .accesskey = C
 main-context-menu-open-link-new-window =
     .label = Open Link in New Window
     .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = Open Link in New Private Window
+    .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = Bookmark This Link
     .accesskey = L
@@ -87,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Unmute
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Play Speed
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Slow (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Fast (1.25×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = Faster (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Ludicrous (2×)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = Loop
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -100,6 +138,12 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Full Screen
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = Exit Full Screen
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Reload Image
     .accesskey = R
@@ -118,12 +162,18 @@ main-context-menu-audio-copy-location =
 main-context-menu-image-save-as =
     .label = Save Image As…
     .accesskey = v
+main-context-menu-image-email =
+    .label = Email Image…
+    .accesskey = a
 main-context-menu-image-set-as-background =
     .label = Set As Desktop Background…
     .accesskey = S
 main-context-menu-image-info =
     .label = View Image Info
     .accesskey = f
+main-context-menu-image-desc =
+    .label = View Description
+    .accesskey = D
 main-context-menu-video-save-as =
     .label = Save Video As…
     .accesskey = v
@@ -133,12 +183,30 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Save Snapshot As…
     .accesskey = S
+main-context-menu-video-email =
+    .label = Email Video…
+    .accesskey = a
+main-context-menu-audio-email =
+    .label = Email Audio…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = Activate this plugin
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = Hide this plugin
+    .accesskey = H
+main-context-menu-send-to-device =
+    .label = Send Page to Device
+    .accesskey = D
 main-context-menu-view-background-image =
     .label = View Background Image
     .accesskey = w
 main-context-menu-keyword =
     .label = Add a Keyword for this Search…
     .accesskey = K
+main-context-menu-link-send-to-device =
+    .label = Send Link to Device
+    .accesskey = D
 main-context-menu-frame =
     .label = This Frame
     .accesskey = h
@@ -169,6 +237,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = View Frame Info
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = View Selection Source
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = View Page Source
     .accesskey = V
@@ -180,4 +251,10 @@ main-context-menu-bidi-switch-text =
     .accesskey = w
 main-context-menu-bidi-switch-page =
     .label = Switch Page Direction
+    .accesskey = D
+main-context-menu-inspect-element =
+    .label = Inspect Element
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = Learn more about DRM…
     .accesskey = D
