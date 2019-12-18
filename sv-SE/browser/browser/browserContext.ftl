@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Dra ner för att visa historik
+           *[other] Högerklicka eller dra ner för att visa historik
+        }
 
 ## Back
 
@@ -34,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Spara sida som…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -45,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Öppna länk i ny flik
     .accesskey = f
+main-context-menu-open-link-container-tab =
+    .label = Öppna länk i ny innehållsflik
+    .accesskey = h
 main-context-menu-open-link-new-window =
     .label = Öppna länk i nytt fönster
     .accesskey = Ö
@@ -89,6 +101,29 @@ main-context-menu-media-mute =
     .accesskey = L
 main-context-menu-media-unmute =
     .label = Ljud på
+    .accesskey = L
+main-context-menu-media-play-speed =
+    .label = Uppspelningshastighet
+    .accesskey = U
+main-context-menu-media-play-speed-slow =
+    .label = långsam (0.5×)
+    .accesskey = l
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Snabb (1.25×)
+    .accesskey = S
+main-context-menu-media-play-speed-faster =
+    .label = Snabbare (1.5×)
+    .accesskey = n
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Löjligt snabb (2×)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = Loopa
     .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
@@ -163,12 +198,21 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Dölj insticksmodulen
     .accesskey = ö
+main-context-menu-send-to-device =
+    .label = Skicka sida till enhet
+    .accesskey = e
 main-context-menu-view-background-image =
     .label = Visa bakgrundsbild
     .accesskey = d
 main-context-menu-keyword =
     .label = Lägg till ett nyckelord för denna sökning…
     .accesskey = e
+main-context-menu-link-send-to-device =
+    .label = Skicka länk till enhet
+    .accesskey = e
+main-context-menu-frame =
+    .label = Denna ram
+    .accesskey = r
 main-context-menu-frame-show-this =
     .label = Visa endast denna ram
     .accesskey = e
@@ -196,6 +240,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Visa raminfo
     .accesskey = i
+main-context-menu-view-selection-source =
+    .label = Visa källkoden för markering
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Visa källkod
     .accesskey = V
@@ -208,3 +255,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Byt sidriktning
     .accesskey = B
+main-context-menu-eme-learn-more =
+    .label = Lär dig mer om DRM…
+    .accesskey = D
