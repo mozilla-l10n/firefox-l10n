@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Oldal mentése…
+    .accesskey = O
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,9 +54,15 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Megnyitás új lapon
     .accesskey = l
+main-context-menu-open-link-container-tab =
+    .label = Hivatkozás megnyitása új konténerlapon
+    .accesskey = k
 main-context-menu-open-link-new-window =
     .label = Megnyitás új ablakban
     .accesskey = a
+main-context-menu-open-link-new-private-window =
+    .label = Hivatkozás megnyitása új privát ablakban
+    .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Hivatkozás felvétele a könyvjelzők közé
     .accesskey = f
@@ -93,6 +102,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Hang be
     .accesskey = n
+main-context-menu-media-play-speed =
+    .label = Lejátszási sebesség
+    .accesskey = s
+main-context-menu-media-play-speed-slow =
+    .label = Lassú (0.5×)
+    .accesskey = L
+main-context-menu-media-play-speed-fast =
+    .label = Gyors (1.25×)
+    .accesskey = G
+main-context-menu-media-play-speed-faster =
+    .label = Gyorsabb (1.5×)
+    .accesskey = o
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Elképzelhetetlen (2×)
+    .accesskey = k
+main-context-menu-media-loop =
+    .label = Ismétlés
+    .accesskey = I
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -106,6 +135,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Teljes képernyő
+    .accesskey = T
 main-context-menu-media-video-leave-fullscreen =
     .label = Kilépés a teljes képernyős módból
     .accesskey = K
@@ -118,6 +150,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Videó megtekintése
     .accesskey = V
+main-context-menu-image-copy =
+    .label = Kép másolása
+    .accesskey = o
 main-context-menu-image-copy-location =
     .label = Kép címének másolása
     .accesskey = c
@@ -163,12 +198,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Bővítmény elrejtése
     .accesskey = r
+main-context-menu-send-to-device =
+    .label = Oldal küldése eszközre
+    .accesskey = e
 main-context-menu-view-background-image =
     .label = Háttérkép megjelenítése
     .accesskey = s
 main-context-menu-keyword =
     .label = Kulcsszó hozzáadása a kereséshez…
     .accesskey = u
+main-context-menu-link-send-to-device =
+    .label = Hivatkozás küldése eszközre
+    .accesskey = e
 main-context-menu-frame =
     .label = Ez a keret
     .accesskey = z
@@ -199,6 +240,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Keret adatainak megjelenítése
     .accesskey = d
+main-context-menu-view-selection-source =
+    .label = Kijelölés forrásának megtekintése
+    .accesskey = M
 main-context-menu-view-page-source =
     .label = Oldal forrása
     .accesskey = f
@@ -214,3 +258,6 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Elem vizsgálata
     .accesskey = z
+main-context-menu-eme-learn-more =
+    .label = Tudjon meg többet a DRM-ről…
+    .accesskey = D
