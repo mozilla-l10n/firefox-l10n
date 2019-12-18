@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = පිටුව සුරකින්න...
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -106,12 +109,18 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = සමුපූර්ණ තිරය
+    .accesskey = F
 main-context-menu-image-reload =
     .label = පිතුර යළි පූරණය
     .accesskey = R
 main-context-menu-image-view =
     .label = රූපය පෙන්වන්න
     .accesskey = I
+main-context-menu-video-view =
+    .label = දෘශ්‍ය දර්ශනය
+    .accesskey = i
 main-context-menu-image-copy-location =
     .label = රූපයෙ ස්ථානය පිටපත් කරන්න
     .accesskey = o
@@ -169,9 +178,15 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = රාමු තොරතුරු පෙන්වන්න
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = තේරිම් මූලය ‌පෙන්වන්න
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = පිටුවේ මූලය ‌පෙන්වන්න
     .accesskey = V
 main-context-menu-view-page-info =
     .label = පිටුවේ තොරතුරු පෙන්වන්න
     .accesskey = I
+main-context-menu-inspect-element =
+    .label = මෙම අංගය පරීක්ෂා කරන්න
+    .accesskey = Q
