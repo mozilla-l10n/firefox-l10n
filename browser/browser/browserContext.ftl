@@ -137,6 +137,11 @@ main-context-menu-media-play-speed-fast =
 main-context-menu-media-play-speed-faster =
     .label = Hurtigere (1.5×)
     .accesskey = e
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Latterlig (2×)
+    .accesskey = t
 main-context-menu-media-loop =
     .label = Gentag
     .accesskey = G
