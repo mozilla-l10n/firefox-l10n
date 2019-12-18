@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Simpan Tautan dengan Nama…
     .accesskey = T
+main-context-menu-save-link-to-pocket =
+    .label = Simpan Tautan ke { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -223,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Sembunyikan plugin ini
     .accesskey = y
+main-context-menu-save-to-pocket =
+    .label = Simpan Laman ke { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Kirim Laman ke Perangkat
     .accesskey = L
