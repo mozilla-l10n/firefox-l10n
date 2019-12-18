@@ -63,6 +63,9 @@ main-context-menu-copy-link =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Lûd út
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
