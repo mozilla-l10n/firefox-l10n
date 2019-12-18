@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Gå en side tilbage
+    .aria-label = Tilbage
+    .accesskey = T
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Gå en side fremad
+    .aria-label = Fremad
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Genindlæs
+    .accesskey = G
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stop
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,21 +62,33 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Bogmærk denne side
+    .accesskey = m
 main-context-menu-open-link =
     .label = Åbn link
     .accesskey = Å
 main-context-menu-open-link-new-tab =
     .label = Åbn link i nyt faneblad
     .accesskey = f
+main-context-menu-open-link-container-tab =
+    .label = Åbn link i nyt kontekst-faneblad
+    .accesskey = k
 main-context-menu-open-link-new-window =
     .label = Åbn link i nyt vindue
     .accesskey = v
+main-context-menu-open-link-new-private-window =
+    .label = Åbn link i nyt privat vindue
+    .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Bogmærk dette link
     .accesskey = B
 main-context-menu-save-link =
     .label = Gem link som…
     .accesskey = G
+main-context-menu-save-link-to-pocket =
+    .label = Gem link til { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -90,6 +116,30 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Slå lyd fra
+    .accesskey = S
+main-context-menu-media-unmute =
+    .label = Slå lyd til
+    .accesskey = S
+main-context-menu-media-play-speed =
+    .label = Afspilningshastighed
+    .accesskey = h
+main-context-menu-media-play-speed-slow =
+    .label = Langsom (0.5×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Hurtig (1.25×)
+    .accesskey = H
+main-context-menu-media-play-speed-faster =
+    .label = Hurtigere (1.5×)
+    .accesskey = e
+main-context-menu-media-loop =
+    .label = Gentag
+    .accesskey = G
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -103,6 +153,17 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Fuld skærm
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = Afslut fuld skærm
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Billede-i-billede
+    .accesskey = e
 main-context-menu-image-reload =
     .label = Genindlæs billede
     .accesskey = G
@@ -136,6 +197,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Vis billededoplysninger
     .accesskey = i
+main-context-menu-image-desc =
+    .label = Vis beskrivelse
+    .accesskey = b
 main-context-menu-video-save-as =
     .label = Gem video som…
     .accesskey = G
@@ -151,9 +215,27 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Send lyd…
     .accesskey = S
+main-context-menu-plugin-play =
+    .label = Aktiver dette plugin
+    .accesskey = A
+main-context-menu-plugin-hide =
+    .label = Skjul dette plugin
+    .accesskey = p
+main-context-menu-save-to-pocket =
+    .label = Gem side til { -pocket-brand-name }
+    .accesskey = k
+main-context-menu-send-to-device =
+    .label = Send side til enhed
+    .accesskey = S
 main-context-menu-view-background-image =
     .label = Vis baggrundsbillede
     .accesskey = V
+main-context-menu-keyword =
+    .label = Tilføj en genvej til denne søgning…
+    .accesskey = s
+main-context-menu-link-send-to-device =
+    .label = Send link til enhed
+    .accesskey = S
 main-context-menu-frame =
     .label = Denne ramme
     .accesskey = r
@@ -199,3 +281,11 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Skift sideretning
     .accesskey = g
+main-context-menu-inspect-element =
+    .label = Inspicer element
+    .accesskey = n
+main-context-menu-inspect-a11y-properties =
+    .label = Inspicer tilgængeligheds-egenskaber
+main-context-menu-eme-learn-more =
+    .label = Læs mere om DRM…
+    .accesskey = æ
