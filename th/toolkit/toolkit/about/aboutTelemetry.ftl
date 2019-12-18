@@ -19,6 +19,9 @@ about-telemetry-page-title = ข้อมูลการวัดและส่
 about-telemetry-current-store = ส่วนจัดเก็บปัจจุบัน:
 about-telemetry-more-information = กำลังมองหาข้อมูลเพิ่มเติม?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">เอกสารข้อมูล Firefox</a> มีคำแนะนำเกี่ยวกับวิธีการทำงานกับเครื่องมือข้อมูลของเรา
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">เอกสารเกี่ยวกับไคลเอนต์การวัดและส่งข้อมูลทางไกลของ Firefox</a> มีคำจำกัดความสำหรับหลักการทำงาน, เอกสาร API และการอ้างอิงข้อมูล
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">แดชบอร์ดการวัดและส่งข้อมูลทางไกล</a>ช่วยให้คุณเห็นภาพข้อมูลที่ Mozilla ได้รับผ่านการวัดและส่งข้อมูลทางไกล
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> มีรายละเอียดและคำอธิบายสำหรับโพรบที่รวบรวมโดยการวัดและส่งข้อมูลทางไกล
 about-telemetry-show-in-Firefox-json-viewer = เปิดในตัวดู JSON
 about-telemetry-home-section = หน้าแรก
 about-telemetry-general-data-section = ข้อมูลทั่วไป
@@ -54,6 +57,15 @@ about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] เปิดใช้งานแล้ว
        *[disabled] ปิดใช้งานแล้ว
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+       *[other] { $sampleCount } ตัวอย่าง, เฉลี่ย = { $prettyAverage }, ผลรวม = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
@@ -127,8 +139,12 @@ about-telemetry-category-header = หมวดหมู่
 about-telemetry-method-header = วิธีการ
 about-telemetry-object-header = วัตถุ
 about-telemetry-extra-header = พิเศษ
+about-telemetry-origin-section = Origin Telemetry
 about-telemetry-origin-origin = ที่มา
 about-telemetry-origin-count = จำนวน
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> เข้ารหัสข้อูลทก่อนที่จะถูกส่งเพื่อให้ { $telemetryServerOwner } สามารถนับจำนวนสิ่งต่าง ๆ ได้ แต่จะไม่ทราบว่ามี { -brand-product-name } ที่ระบุใดมีส่วนร่วมกับการนับนั้น (<a data-l10n-name="prio-blog-link">เรียนรู้เพิ่มเติม</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = โปรเซส { $process }
