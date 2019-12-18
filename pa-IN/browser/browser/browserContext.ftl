@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = ਇੱਕ ਪਿਛਲੇ ਸਫ਼ੇ 'ਤੇ ਜਾਓ
+    .aria-label = ਪਿੱਛੇ
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = ਇੱਕ ਸਫ਼ੇ 'ਤੇ ਅੱਗੇ ਜਾਓ
+    .aria-label = ਅੱਗੇ
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = ਮੁੜ ਲੋਡ ਕਰੋ
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = ਰੋਕੋ
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+    .accesskey = m
 main-context-menu-open-link =
     .label = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
@@ -153,6 +170,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = ਵੀਡੀਓ ਨੂੰ ਵੇਖੋ
     .accesskey = I
+main-context-menu-image-copy =
+    .label = ਚਿੱਤਰ ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .accesskey = y
 main-context-menu-image-copy-location =
     .label = ਚਿੱਤਰ ਟਿਕਾਣਾ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = o
@@ -243,6 +263,9 @@ main-context-menu-view-page-source =
 main-context-menu-view-page-info =
     .label = ਸਫ਼ੇ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
     .accesskey = I
+main-context-menu-bidi-switch-text =
+    .label = ਲਿਖਤ ਦੀ ਦਿਸ਼ਾ ਬਦਲੋ
+    .accesskey = w
 main-context-menu-bidi-switch-page =
     .label = ਸਫ਼ੇ ਦੀ ਦਿਸ਼ਾ ਬਦਲੋ
     .accesskey = g
