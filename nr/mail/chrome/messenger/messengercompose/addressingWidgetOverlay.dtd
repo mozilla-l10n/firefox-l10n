@@ -1,9 +1,0 @@
-<!-- address labels -->
-<!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
-<!ENTITY toAddr.label "Ku:">
-<!ENTITY ccAddr.label "Ikopelwe:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Phendula u:">
-<!ENTITY newsgroupsAddr.label "Isichema seendaba:">
-<!ENTITY followupAddr.label "Landelela u:">
-
