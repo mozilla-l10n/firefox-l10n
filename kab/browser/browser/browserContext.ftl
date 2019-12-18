@@ -162,7 +162,7 @@ main-context-menu-media-video-fullscreen =
     .label = Agdil ačaran
     .accesskey = A
 main-context-menu-media-video-leave-fullscreen =
-    .label = Ffeɣ seg uskar n ugdil ačuran{ " " }
+    .label = Ffeɣ seg uskar n ugdil ačuran
     .accesskey = F
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
