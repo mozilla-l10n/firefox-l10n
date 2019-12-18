@@ -259,6 +259,10 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 11em;">
 <!ENTITY fromAddr.label "Expéditeur :">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 11em;">
+<!ENTITY fromAddr2.label "De">
 <!ENTITY fromAddr.accesskey "x">
 <!ENTITY toAddr.label "Pour :">
 <!ENTITY ccAddr.label "Copie à :">
@@ -267,6 +271,13 @@
 <!ENTITY newsgroupsAddr.label "Groupe :">
 <!ENTITY followupAddr.label "Faire suivre à :">
 <!ENTITY subject.label "Sujet :">
+<!ENTITY toAddr2.label "Pour">
+<!ENTITY ccAddr2.label "Copie à">
+<!ENTITY bccAddr2.label "Copie cachée à">
+<!ENTITY replyAddr2.label "Répondre à">
+<!ENTITY newsgroupsAddr2.label "Newsgroup">
+<!ENTITY followupAddr2.label "Faire suivre à">
+<!ENTITY subject2.label "Sujet">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
