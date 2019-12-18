@@ -74,6 +74,9 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = इमेल ठिका़ना नोकोल मे(E)
     .accesskey = E
+main-context-menu-copy-link =
+    .label = खोंजा ठांव नोकोल मे (& )
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -121,6 +124,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = विडियो ञेंल मे (i){ " " }
     .accesskey = i
+main-context-menu-image-copy =
+    .label = चिता़र नोकोल मे  (y )
+    .accesskey = y
 main-context-menu-image-copy-location =
     .label = { " " }चिता़र ठांव नोकोल मे (o)
     .accesskey = o
