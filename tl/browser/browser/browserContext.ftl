@@ -5,6 +5,10 @@
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Bumalik nang isang pahina
+    .aria-label = Bumalik
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -91,12 +95,21 @@ main-context-menu-video-view =
 main-context-menu-audio-copy-location =
     .label = Kopyahin ang Lokasyon ng Audio
     .accesskey = o
+main-context-menu-image-email =
+    .label = i-Email ang Larawan…
+    .accesskey = g
+main-context-menu-image-desc =
+    .label = Tingnan ang Paglalarawan
+    .accesskey = D
 main-context-menu-audio-save-as =
     .label = I-Save ang Audio Bilang…
     .accesskey = v
 main-context-menu-video-image-save-as =
     .label = I-save ang Snapshot Bilang…
     .accesskey = S
+main-context-menu-video-email =
+    .label = i-Email ang Video…
+    .accesskey = a
 main-context-menu-audio-email =
     .label = i-Email ang Audio...
     .accesskey = a
