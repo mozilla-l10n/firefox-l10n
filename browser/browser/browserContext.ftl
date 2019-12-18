@@ -71,6 +71,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Avaa uuteen välilehteen
     .accesskey = v
+main-context-menu-open-link-container-tab =
+    .label = Avaa uuteen eristettyyn välilehteen
+    .accesskey = u
 main-context-menu-open-link-new-window =
     .label = Avaa uuteen ikkunaan
     .accesskey = i
@@ -83,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Tallenna kohde levylle…
     .accesskey = T
+main-context-menu-save-link-to-pocket =
+    .label = Tallenna linkki { -pocket-brand-name }-palveluun
+    .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -158,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Poistu kokoruututilasta
     .accesskey = P
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Kuva kuvassa
+    .accesskey = K
 main-context-menu-image-reload =
     .label = Lataa kuva
     .accesskey = L
@@ -215,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Piilota liitännäinen
     .accesskey = o
+main-context-menu-save-to-pocket =
+    .label = Tallenna sivu { -pocket-brand-name }-palveluun
+    .accesskey = c
 main-context-menu-send-to-device =
     .label = Lähetä sivu laitteeseen
     .accesskey = L
@@ -275,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspect Element
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Inspect Accessibility Properties
 main-context-menu-eme-learn-more =
     .label = Lue lisää DRM-suojauksesta…
     .accesskey = D
