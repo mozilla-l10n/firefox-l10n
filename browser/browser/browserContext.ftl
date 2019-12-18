@@ -45,6 +45,9 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = Адкрыць спасылку
     .accesskey = А
+main-context-menu-bookmark-this-link =
+    .label = Дадаць закладку на гэту спасылку
+    .accesskey = с
 main-context-menu-save-link =
     .label = Захаваць спасылку як…
     .accesskey = с
@@ -79,6 +82,12 @@ main-context-menu-media-unmute =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Паказаць элементы кіравання
+    .accesskey = к
+main-context-menu-media-hide-controls =
+    .label = Схаваць элементы кіравання
+    .accesskey = к
 
 ##
 
@@ -94,6 +103,9 @@ main-context-menu-image-reload =
 main-context-menu-image-view =
     .label = Праглядзець выяву
     .accesskey = г
+main-context-menu-video-view =
+    .label = Прагледзець відэа
+    .accesskey = г
 main-context-menu-image-set-as-background =
     .label = Усталяваць як фон працоўнага стала…
     .accesskey = У
@@ -106,6 +118,15 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Захаваць здымак як…
     .accesskey = З
+main-context-menu-audio-email =
+    .label = Даслаць гук эл.поштай…
+    .accesskey = Д
+main-context-menu-plugin-play =
+    .label = Задзейнічаць плагін
+    .accesskey = З
+main-context-menu-plugin-hide =
+    .label = Схаваць плагін
+    .accesskey = х
 main-context-menu-keyword =
     .label = Дадаць ключавое слова для гэтага пошуку…
     .accesskey = к
@@ -115,6 +136,9 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Паказваць толькі гэтую рамку
     .accesskey = г
+main-context-menu-frame-bookmark =
+    .label = Дадаць закладку на гэту рамку
+    .accesskey = р
 main-context-menu-frame-save-as =
     .label = Захаваць рамку як…
     .accesskey = к
@@ -142,3 +166,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Пераключыць кірунак старонкі
     .accesskey = к
+main-context-menu-inspect-element =
+    .label = Даследаваць элемент
+    .accesskey = Д
