@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Titzolïx jun ruxaq
+    .aria-label = Chi rij
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Jun chik ruxaq
+    .aria-label = Jun chik
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Tisamajib'ëx chik
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Tiq'at
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Titz'aqatisäx re ruxaq re' pa taq yaketal
+    .accesskey = m
 main-context-menu-open-link =
     .label = Tijaq ximon tzij
     .accesskey = T
@@ -77,6 +94,9 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Tiwachib'ëx rochochib'al taqoya'l
     .accesskey = t
+main-context-menu-copy-link =
+    .label = Tiwachib'ëx Ruk'ojlib'al Ximonel
+    .accesskey = i
 
 ## Media (video/audio) controls
 ##
@@ -258,6 +278,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Rutz'etik atuxtäq
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = Kenik'öx ri taq Richinil Okel
 main-context-menu-eme-learn-more =
     .label = Tetamäx ch'aqa' chik chi rij ri DRM…
     .accesskey = D
