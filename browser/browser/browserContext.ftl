@@ -5,6 +5,10 @@
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Voltar uma página
+    .aria-label = Voltar
+    .accesskey = V
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -12,6 +16,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Avançar uma página
+    .aria-label = Avançar
+    .accesskey = A
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -19,11 +27,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Recarregar
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Parar
+    .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -42,6 +56,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Adicionar esta página aos favoritos
+    .accesskey = m
 main-context-menu-open-link =
     .label = Abrir link
     .accesskey = A
@@ -78,10 +95,22 @@ main-context-menu-media-play =
 
 ##
 
+main-context-menu-media-play-speed =
+    .label = Velocidade de reprodução
+    .accesskey = d
+main-context-menu-media-play-speed-normal =
+    .label = Normal
+    .accesskey = N
+main-context-menu-media-loop =
+    .label = Repetir
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Mostrar controles
+    .accesskey = n
 main-context-menu-media-hide-controls =
     .label = Ocultar controles
     .accesskey = n
@@ -103,6 +132,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ver vídeo
     .accesskey = e
+main-context-menu-image-copy =
+    .label = Copiar imagem
+    .accesskey = i
 main-context-menu-image-copy-location =
     .label = Copiar endereço da imagem
     .accesskey = o
@@ -151,9 +183,15 @@ main-context-menu-plugin-hide =
 main-context-menu-view-background-image =
     .label = Ver imagem de fundo
     .accesskey = m
+main-context-menu-keyword =
+    .label = Adicionar uma palavra-chave para esta pesquisa…
+    .accesskey = r
 main-context-menu-frame =
     .label = Este frame
     .accesskey = t
+main-context-menu-frame-show-this =
+    .label = Mostrar só este frame
+    .accesskey = x
 main-context-menu-frame-open-tab =
     .label = Abrir frame em uma nova aba
     .accesskey = b
