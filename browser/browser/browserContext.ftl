@@ -6,7 +6,7 @@ navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
             [macos] வரலாற்றை பார்க்க கீழே இழுக்கும்
-           *[other] வரலாற்றை பார்க்க வலஞ் சொடுக்குக அல்லது கீழே இழுக்க{ "                " }
+           *[other] வரலாற்றை பார்க்க வலஞ் சொடுக்குக அல்லது கீழே இழுக்க
         }
 
 ## Back
@@ -58,7 +58,7 @@ main-context-menu-open-link-new-window =
     .label = இணைப்பைப் புதிய சாளரத்தில் திறக்க
     .accesskey = W
 main-context-menu-open-link-new-private-window =
-    .label = புதிய பிரத்தியேக உலாவுதல் சாளரத்தில் இணைப்பைத் திற{ "                " }
+    .label = புதிய பிரத்தியேக உலாவுதல் சாளரத்தில் இணைப்பைத் திற
     .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = இந்த இணைப்பைப் புத்தகக்குறியிடுக
@@ -101,7 +101,7 @@ main-context-menu-media-unmute =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = கட்டுப்பாடுகளைக் காட்டு{ "                " }
+    .label = கட்டுப்பாடுகளைக் காட்டு
     .accesskey = C
 
 ##
@@ -131,7 +131,7 @@ main-context-menu-audio-copy-location =
     .label = ஓடியோ இடத்தை நகலெடு
     .accesskey = o
 main-context-menu-image-save-as =
-    .label = { " " }படத்தை இப்படிச் சேமி…
+    .label = படத்தை இப்படிச் சேமி…
     .accesskey = v
 main-context-menu-image-email =
     .label = படத்தை மின்னஞ்சல் செய்...
