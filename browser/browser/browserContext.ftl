@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = दुवा उघडा
+    .accesskey = O
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -61,3 +64,15 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-image-info =
+    .label = प्रतिमा माहितीचे दृष्य
+    .accesskey = f
+main-context-menu-video-email =
+    .label = व्हिडिओ ईमेल करा…
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = ह्या प्लगइनला सुरू करा
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = ह्या प्लगइनला लपवा
+    .accesskey = H
