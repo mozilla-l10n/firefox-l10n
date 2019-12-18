@@ -67,3 +67,6 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-eme-learn-more =
+    .label = ស្វែងយល់​បន្ថែម​អំពី DRM…
+    .accesskey = D
