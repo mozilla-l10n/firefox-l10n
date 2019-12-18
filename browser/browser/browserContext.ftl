@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = 从链接另存文件为…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = 保存链接到 { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -223,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = 隐藏此插件
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = 保存页面到 { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = 发送页面到设备
     .accesskey = D
