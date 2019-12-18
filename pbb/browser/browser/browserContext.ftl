@@ -104,7 +104,7 @@ main-context-menu-media-unmute =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = kthegun ikahnxitx{ " " }
+    .label = kthegun ikahnxitx
     .accesskey = C
 main-context-menu-media-hide-controls =
     .label = Paçte txikhn ikahnxisatx
@@ -128,7 +128,7 @@ main-context-menu-video-view =
     .label = Kẽsehn kutxihnxi's thegn
     .accesskey = i
 main-context-menu-image-copy =
-    .label = Kapsxidun piisanxi's{ " " }
+    .label = Kapsxidun piisanxi's
     .accesskey = K
 main-context-menu-image-copy-location =
     .label = Kapsxidu pisanxi dxi'ha's
