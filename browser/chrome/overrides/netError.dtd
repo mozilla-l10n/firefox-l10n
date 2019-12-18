@@ -133,7 +133,7 @@ was trying to connect. -->
 <p>Problem je najvjerojatnije povezan s web stranicom i ne možete ništa učiniti da biste ga riješili. Možete obavijestiti administratora web stranice o ovom problemu.</p>
 ">
 
-<!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušajte ponovno za nekoliko trenutaka.</li> <li>Ako ne možete učitati niti jednu stranicu, provjerite mrežne postavke vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićena vatrozidom ili proxyem, provjerite ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušaj ponovo za nekoliko trenutaka.</li> <li>Ako ne možeš učitati niti jednu stranicu, provjeri mrežne postavke tvog računala.</li> <li>Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je sprječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje..</p>">
@@ -162,7 +162,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> provodi sigurnosnu politiku koja se zove HTTP Strict Transport Security (HSTS), što znači da se &brandShortName; može s njom samo sigurno povezati. Ne možete dodati sigurnosnu iznimku kako biste posjetili ovu web stranicu.">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj tekst u međuspremnik">
 
-<!ENTITY inadequateSecurityError.title "Vaša veza nije sigurna">
+<!ENTITY inadequateSecurityError.title "Tvoja veza nije sigurna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -170,19 +170,19 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokirana stranica">
 
 <!ENTITY certerror.mitm.title "Program spriječava &brandShortName; da se sigurno poveže s ovom stranicom">
-<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je vjerojatno sigurna stranica, ali se ne može uspostaviti sigurna veza s njom. Ovaj problem je uzrokovan od strane <span class='mitm-name'/>, koji je ili program na vašem računalu ili vašoj mreži.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ukoliko vaš antivirusni program uključuje mogućnost skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možete isključiti ovu mogućnost. Ukoliko to ne riješi problem, možete ukloniti i ponovno instalirati antivirusni program.">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je vjerojatno sigurna stranica, ali se ne može uspostaviti sigurna veza s njom. Ovaj problem je uzrokovan od strane <span class='mitm-name'/>, koji je ili program na tvom računalu ili tvojoj mreži.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ukoliko tvoj antivirusni program uključuje mogućnost skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možeš isključiti ovu mogućnost. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ukoliko se nalazite u korporativnoj mreži, možete kontaktirati svoj IT odjel.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne biste trebali nastaviti na tu stranicu.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne možete ništa učiniti kako biste pristupili stranici.">
 
 <!ENTITY clockSkewError.title "Sat na računalu je pogrešan">
-<!ENTITY clockSkewError.longDesc "Vaše računalo misli da je <span id='wrongSystemTime_systemDate1'/>, što spriječava &brandShortName; da se sigurno poveže. Kako biste posjetili <span class='hostname'></span>, ažurirajte sat vašeg računala na trenutni datum, vrijeme i vremensku zonu, te onda osvježite <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "Tvoje računalo misli da je <span id='wrongSystemTime_systemDate1'/>, što sprečava &brandShortName; da se sigurno poveže. Za posjećivanje poslužitelja <span class='hostname'></span>, ažuriraj sat tvog računala na trenutačni datum, vrijeme i vremensku zonu te onda osvježi <span class='hostname'></span>.">
 
-<!ENTITY prefReset.longDesc "Izgleda da vaše postavke sigurnosti mreže možda uzrokuju ovo. Želite li vratiti na početne postavke?">
+<!ENTITY prefReset.longDesc "Izgleda da tvoje postavke sigurnosti mreže možda ovo uzrokuju. Želiš li vratiti standardne postavke?">
 <!ENTITY prefReset.label "Vrati početne postavke">
 
-<!ENTITY enableTls10.longDesc "Ova web stranica ne podržava TLS 1.2 protokol, koji je minimalni podržani protokol od strane &brandShortName;. Omogućavanje TLS 1.0 i TLS 1.1 protokola će možda omogućiti povezivanje, ali će ugroziti vašu sigurnost.">
+<!ENTITY enableTls10.longDesc "Ova web stranica ne podržava TLS 1.2 protokol, koji je minimalni podržani protokol od strane &brandShortName;. Omogućavanje TLS 1.0 i TLS 1.1 protokola će možda omogućiti povezivanje, ali će ugroziti tvoju sigurnost.">
 <!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 će biti trajno onemogućeni u budućim izdanjima.">
 <!ENTITY enableTls10.label "Omogući TLS 1.0 i 1.1">
 
