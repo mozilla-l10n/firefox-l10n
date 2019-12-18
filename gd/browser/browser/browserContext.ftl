@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Sàbhail an duilleag mar…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -51,6 +54,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Fosgail an ceangal ann an taba ùr
     .accesskey = t
+main-context-menu-open-link-container-tab =
+    .label = Fosgail an ceangal ann an taba soithich ùr
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Fosgail an ceangal ann an uinneag ùr
     .accesskey = F
@@ -96,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Till an fhuaim
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Astar na cluich
+    .accesskey = l
+main-context-menu-media-play-speed-slow =
+    .label = Slaodach (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Àbhaisteach
+    .accesskey = b
+main-context-menu-media-play-speed-fast =
+    .label = Luath (1.25×)
+    .accesskey = u
+main-context-menu-media-play-speed-faster =
+    .label = Nas luaithe (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Air leth luath (2×)
+    .accesskey = l
+main-context-menu-media-loop =
+    .label = Lùb
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -109,6 +138,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Làn-sgrìn
+    .accesskey = L
 main-context-menu-media-video-leave-fullscreen =
     .label = Fàg an làn-sgrìn
     .accesskey = F
@@ -121,6 +153,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Coimhead air video
     .accesskey = i
+main-context-menu-image-copy =
+    .label = Dèan lethbhreac dhen dealbh
+    .accesskey = D
 main-context-menu-image-copy-location =
     .label = Dèan lethbhreac de sheòladh an deilbh
     .accesskey = D
@@ -166,12 +201,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Falaich am plugan seo
     .accesskey = h
+main-context-menu-send-to-device =
+    .label = Cuir an taba gun uidheam
+    .accesskey = d
 main-context-menu-view-background-image =
     .label = Seall dealbh a' chùlaibh
     .accesskey = S
 main-context-menu-keyword =
     .label = Cuir facal-luirg ris an lorg seo…
     .accesskey = C
+main-context-menu-link-send-to-device =
+    .label = Cuir an ceangal gun uidheam
+    .accesskey = d
 main-context-menu-frame =
     .label = Am frèam seo
     .accesskey = A
@@ -202,6 +243,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Seall fiosrachadh an fhrèama
     .accesskey = i
+main-context-menu-view-selection-source =
+    .label = Seall bun-tùs na thagh thu
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Seall bun-tùs na duilleige
     .accesskey = S
@@ -214,3 +258,9 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Atharraich comhair na duilleige
     .accesskey = d
+main-context-menu-inspect-element =
+    .label = Sgrùd an eileamaid
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = Faigh barrachd fiosrachaidh mu DRM…
+    .accesskey = D
