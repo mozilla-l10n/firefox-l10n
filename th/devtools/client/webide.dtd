@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "ค">
 <!ENTITY runtimeMenu_showSettings_label "การตั้งค่าอุปกรณ์">
 <!ENTITY runtimeMenu_showSettings_accesskey "ก">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "ประสิทธิภาพ">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "ป">
 
@@ -54,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "ก">
 
 <!ENTITY projectButton_label "เปิดแอป">
+
 <!ENTITY runtimeButton_label "เลือก Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +77,6 @@
 <!ENTITY runtimePanel_usb "อุปกรณ์ USB">
 <!ENTITY runtimePanel_wifi "อุปกรณ์ Wi-Fi">
 <!ENTITY runtimePanel_other "อื่น ๆ">
-<!ENTITY runtimePanel_noadbhelper "ติดตั้ง ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "ไม่เห็นอุปกรณ์ของคุณ?">
 <!ENTITY runtimePanel_refreshDevices_label "เรียกอุปกรณ์ใหม่">
 
@@ -111,8 +110,12 @@
 <!ENTITY prefs_general_title "ทั่วไป">
 <!ENTITY prefs_restore "เรียกคืนค่าเริ่มต้น">
 <!ENTITY prefs_manage_components "จัดการส่วนประกอบพิเศษ">
+<!ENTITY prefs_options_autoconnectruntime "เชื่อมต่อกับรันไทม์ก่อนหน้าอีกครั้ง">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "เชื่อมต่อกับรันไทม์ก่อนหน้าอีกครั้งเมื่อ WebIDE เริ่มทำงาน">
 <!ENTITY prefs_options_rememberlastproject "จดจำโครงการล่าสุด">
+<!ENTITY prefs_options_rememberlastproject_tooltip "เรียกคืนโปรเจ็กต์ก่อนหน้าเมื่อ WebIDE เริ่มทำงาน">
 <!ENTITY prefs_options_templatesurl "URL แม่แบบ">
+<!ENTITY prefs_options_templatesurl_tooltip "ดัชนีแม่แบบที่ใช้ได้">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "ข้อมูล Runtime">
@@ -142,13 +145,20 @@
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "การระบุไคลเอนต์">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "ปลายทางที่คุณกำลังเชื่อมต่อต้องการข้อมูลเพิ่มเติมเพื่อรับรองความถูกต้องของการเชื่อมต่อนี้  โปรดสแกนรหัส QR ด้านล่างในพรอมต์บนอุปกรณ์เครื่องอื่นของคุณ">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "ไม่มีพรอมต์ตัวสแกน QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "มีพรอมต์ตัวสแกน QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "หากอุปกรณ์เครื่องอื่นของคุณขอโทเค็นแทนการสแกนรหัส QR โปรดคัดลอกค่าด้านล่างไปยังอุปกรณ์เครื่องอื่น:">
+<!ENTITY wifi_auth_qr_size_note "หากรหัส QR มีขนาดเล็กเกินไปสำหรับการสร้างการเชื่อมต่อให้สำเร็จ ให้ลองซูมหรือขยายหน้าต่าง">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "รายการบันทึกคำสั่งก่อนการสร้างแพ็กเกจ">
