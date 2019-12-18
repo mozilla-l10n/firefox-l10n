@@ -39,6 +39,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link-new-window =
+    .label = باز کردن پیوند در پنجرهٔ جدید
+    .accesskey = پ
 main-context-menu-bookmark-this-link =
     .label = نشانک‌گذاری این پیوند
     .accesskey = ش
@@ -112,6 +115,9 @@ main-context-menu-image-save-as =
 main-context-menu-image-set-as-background =
     .label = قرار دادن در پس‌زمینهٔ رومیزی{ " " }
     .accesskey = ق
+main-context-menu-image-info =
+    .label = نمایش اطلاعات تصویر
+    .accesskey = ص
 main-context-menu-audio-save-as =
     .label = ذخیرهٔ پروندهٔ صوتی به نام…
     .accesskey = ذ
