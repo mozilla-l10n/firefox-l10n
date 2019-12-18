@@ -8,9 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Važne vijesti
-heading = Izmijene vašeg { -brand-short-name } profila
+heading = Promjene u tvom { -brand-short-name } profilu
 changed-title = Što se promijenilo?
-changed-desc-profiles = Ova { -brand-short-name } instalacija ima novi profil. Profil je skup datoteka gdje Firefox sprema informacije kao što su zabilješke, lozinke i vaše korisničke postavke.
+changed-desc-profiles = Ova { -brand-short-name } instalacija ima novi profil. Profil je skup datoteka gdje Firefox sprema informacije kao što su zabilješke, lozinke i tvoje korisničke postavke.
 changed-desc-dedicated = Kako bismo olakšali i učinili sigurnijim prebacivanje između Firefox instalacija (uključujući Firefox, Firefox ESR, Firefox beta izdanje, Firefox razvojno izdanje i Firefox noćno izdanje), ova instalacija sada ima posebni profil. Tvoje spremljene informacije ne dijeli automatski s drugim Firefox instalacijama.
 lost = <b>Niste izgubili osobne podatke ili prilagodbe.</b> Ukoliko ste već spremili neke informacije u Firefox na ovom računalu, još je uvijek dostupno u drugoj Firefox instalaciji.
 options-title = Koje su moje mogućnosti?
@@ -19,7 +19,7 @@ options-use-sync = Ukoliko želite da sve Firefox instalacije koriste isti profi
 resources = Izvori:
 support-link = Koristeći upravitelja profila - članak podrške
 sync-header = Prijavite se ili izradite { -fxaccount-brand-name }
-sync-label = Unesite vašu e-poštu
+sync-label = Upiši svoju e-adresu
 sync-input =
     .placeholder = E-pošta
 sync-button = Nastavi

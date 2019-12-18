@@ -16,7 +16,7 @@ update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label d
 update-applying = Primjena dopune…
 update-failed = Ažuriranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmite najnoviju inačicu</label>
 update-failed-main = Ažuriranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmite najnoviju inačicu</a>
-update-adminDisabled = Dopune je onemogućio Vaš administrator sustava
+update-adminDisabled = Dopune je onemogućio tvoj administrator sustava
 update-noUpdatesFound = { -brand-short-name } je ažuriran
 update-otherInstanceHandlingUpdates = { -brand-short-name } se nadograđuje od strane druge instance
 update-manual = Dopune su dostupne na <label data-l10n-name="manual-link"/>

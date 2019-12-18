@@ -47,7 +47,7 @@ newtab-topsites-add-button = Dodaj
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Jeste li sigurni da želite obrisati sve primjere ove stranice iz vaše povijesti?
+newtab-confirm-delete-history-p1 = Sigurno želiš izbrisati sve primjere ove stranice iz tvoje povijesti?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ova radnja je nepovratna.
 
@@ -87,9 +87,9 @@ newtab-menu-show-privacy-info = Naši sponzori i tvoja privatnost
 newtab-privacy-modal-button-done = Gotovo
 newtab-privacy-modal-header = Tvoja privatnost je važna.
 newtab-privacy-modal-paragraph =
-    Osim što vam donosimo očaravajuće priče, također vam prikazujemo
-    visoko provjeren sadržaj odabranih sponzora. Budite uvjereni, vaši
-    podaci nikada ne napuštaju vaš lokalni { -brand-product-name } — mi ih ne vidimo,
+    Osim što ti donosimo očaravajuće priče, također ti prikazujemo
+    visoko provjeren sadržaj odabranih sponzora. Tvoji podaci nikada
+    ne napuštaju tvoj lokalni { -brand-product-name } – mi ih ne vidimo,
     naši sponzori ih također ne vide.
 newtab-privacy-modal-link = Saznaj kako privatnost funkcionira na novoj kartici
 

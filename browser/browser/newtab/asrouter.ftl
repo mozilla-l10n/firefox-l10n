@@ -61,7 +61,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } korisnika
        *[other] { $total } korisnika
     }
-cfr-doorhanger-pintab-description = Jednostavan pristup vašim najkorištenijim stranicama. Držite stranice otvorene u kartici (čak i kada ponovno pokrenete preglednik).
+cfr-doorhanger-pintab-description = Jednostavan pristup tvojim najkorištenijim stranicama. Ostavi stranice otvorene u kartici (čak i kada ponovo pokreneš preglednika).
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -74,7 +74,7 @@ cfr-doorhanger-pintab-animation-resume = Nastavi
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sinkronizirajte svoje zabilješke svugdje.
-cfr-doorhanger-bookmark-fxa-body = Izvrsno! Nemojte ostati bez ove zabilješke na vašem mobilnom uređaju. Započnite s { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Izvrsno! Nemoj ostati bez ove zabilješke na tvom mobilnom uređaju. Započni s { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronizirajte zabilješke sada…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tipka za zatvaranje
@@ -146,10 +146,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [few] Jedinstvenih otisaka blokirano
        *[other] Jedinstvenih otisaka blokirano
     }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokira mnoge pratitelje jedinstvenih otisaka koji tajno skupljaju informacije o vašem uređaju i radnjama kako bi stvorili vaš reklamni profil.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokira mnoge pratitelje jedinstvenih otisaka koji tajno skupljaju informacije o tvom uređaju i radnjama kako bi stvorili tvoj reklamni profil.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Jedinstveni otisci
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } može blokirati pratitelje jedinstvenih otisaka koji tajno skupljaju informacije o vašem uređaju i radnjama kako bi stvorili vaš reklamni profil.
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } može blokirati pratitelje jedinstvenih otisaka koji tajno skupljaju informacije o tvom uređaju i radnjama kako bi stvorili tvoj reklamni profil.
 
 ## Bookmark Sync
 
@@ -193,7 +193,7 @@ cfr-doorhanger-socialtracking-description = Tvoja privatnost je važna. { -brand
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je blokirao jedinstvene otiske na ovoj stranici
 cfr-doorhanger-fingerprinters-description = Tvoja privatnost je bitna. { -brand-short-name } sada blokira jedinstvene otiske, koji skupljaju dijelove informacija koji su jedinstveni za tebe i tvoje uređaje, kako bi te mogli pratiti.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } je blokirao kripto rudare na ovoj stranici
-cfr-doorhanger-cryptominers-description = Vaša privatnost je bitna. { -brand-short-name } sada blokira kripto rudare, koji koriste resurse vašeg sustava kako bi rudarili digitalni novac.
+cfr-doorhanger-cryptominers-description = Tvoja privatnost je bitna. { -brand-short-name } sada blokira kripto rudare, koji koriste resurse tvog sustava kako bi rudarili digitalni novac.
 
 ## Enhanced Tracking Protection Milestones
 

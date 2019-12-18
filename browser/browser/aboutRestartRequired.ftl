@@ -4,7 +4,6 @@
 
 restart-required-title = Potrebno ponovno pokretanje
 restart-required-header = Samo trebamo napraviti jednu malu stvar kako bismo nastavili.
-restart-required-intro = Upravo smo u pozadini instalirali ažuriranje. Kliknite na "Ponovno pokreni { -brand-short-name }" da biste ga primjenili.
 restart-required-intro-brand = { -brand-short-name } je upravo ažuriran u pozadini. Kliknite Ponovno pokreni { -brand-short-name } kako biste dovršili ažuriranje.
-restart-required-description = Obnovit ćemo sve Vaše stranice, prozore i kartice tako da možete brzo nastaviti gdje ste stali.
+restart-required-description = Obnovit ćemo sve tvoje stranice, prozore i kartice tako da možeš brzo nastaviti.
 restart-button-label = Ponovno pokreni { -brand-short-name }
