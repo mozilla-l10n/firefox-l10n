@@ -42,6 +42,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Peuhah Peunawôt
+    .accesskey = O
 main-context-menu-save-link =
     .label = Keubah Peunawôt Seubagoë…
     .accesskey = k
@@ -70,12 +73,21 @@ main-context-menu-media-play-speed-normal =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Peunoh Layeuë
+    .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = Teubiet Peunoh Layeu
     .accesskey = u
+main-context-menu-image-view =
+    .label = Kalon Gamba
+    .accesskey = I
 main-context-menu-send-to-device =
     .label = Peu'ét Laman u Alat
     .accesskey = n
 main-context-menu-link-send-to-device =
     .label = Peu'ét Peunawôt u Alat
     .accesskey = n
+main-context-menu-eme-learn-more =
+    .label = Meurunoë leubèh lhôk bhaih DRM…
+    .accesskey = D
