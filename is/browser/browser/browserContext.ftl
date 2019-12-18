@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Flettu niður til að sýna feril
+           *[other] Hægri smelltu eða flettu niður til að sýna feril
+        }
 
 ## Back
 
@@ -61,3 +67,6 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Hætta í fullum skjá
+    .accesskey = u
