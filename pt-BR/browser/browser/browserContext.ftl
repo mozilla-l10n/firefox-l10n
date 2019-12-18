@@ -77,6 +77,9 @@ main-context-menu-open-link-container-tab =
 main-context-menu-open-link-new-window =
     .label = Abrir link em uma nova janela
     .accesskey = A
+main-context-menu-open-link-new-private-window =
+    .label = Abrir link em nova janela privativa
+    .accesskey = r
 main-context-menu-bookmark-this-link =
     .label = Adicionar este link aos favoritos
     .accesskey = d
@@ -88,6 +91,9 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copiar endereço do e-mail
+    .accesskey = o
 main-context-menu-copy-link =
     .label = Copiar link
     .accesskey = o
@@ -107,12 +113,32 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = Silenciar
+    .accesskey = S
+main-context-menu-media-unmute =
+    .label = Ativar som
+    .accesskey = s
 main-context-menu-media-play-speed =
     .label = Velocidade de reprodução
     .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Lenta (0,5×)
+    .accesskey = L
 main-context-menu-media-play-speed-normal =
     .label = Normal
     .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rápida (1,25×)
+    .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Mais rápida (1,5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Muito rápida (2×)
+    .accesskey = u
 main-context-menu-media-loop =
     .label = Repetir
     .accesskey = R
@@ -135,6 +161,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Sair da tela inteira
     .accesskey = t
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Recarregar imagem
     .accesskey = R
@@ -251,3 +282,6 @@ main-context-menu-bidi-switch-page =
     .accesskey = e
 main-context-menu-inspect-a11y-properties =
     .label = Inspecionar propriedades de acessibilidade
+main-context-menu-eme-learn-more =
+    .label = Saiba mais sobre DRM…
+    .accesskey = D
