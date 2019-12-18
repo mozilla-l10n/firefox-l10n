@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Při dlouhém stisku zobrazí historii
+           *[other] Při dlouhém stisku či po klepnutí pravým tlačítkem zobrazí historii
+        }
 
 ## Back
 
@@ -61,3 +67,9 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-media-video-leave-fullscreen =
+    .label = Ukončit režim celé obrazovky
+    .accesskey = k
+main-context-menu-view-selection-source =
+    .label = Zobrazit zdrojový kód výběru
+    .accesskey = j
