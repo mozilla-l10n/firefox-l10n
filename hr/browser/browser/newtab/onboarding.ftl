@@ -130,8 +130,8 @@ onboarding-send-tabs-title = Trenutno pošaljite sami sebi kartice
 onboarding-send-tabs-text = „Pošalji kartice” trenutno dijeli web stranice između tvojih uređaja, bez da ih moraš kopirati, zalijepiti ili napustiti preglednik.
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text2 = Jednostavno dijelite stranice između vaših uređaja bez da morate kopirati poveznice ili napustiti preglednik.
-onboarding-send-tabs-button = Počnite korisitit slanje kartica
+onboarding-send-tabs-text2 = Jednostavno dijeli stranice između tvojih uređaja bez da moraš kopirati poveznice ili napustiti preglednik.
+onboarding-send-tabs-button = Počni korisitit „Pošalji kartice”
 onboarding-pocket-anywhere-title = Čitaj i slušaj bilo gdje
 onboarding-pocket-anywhere-text2 = Spremi svoj omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitaj, slušaj i gledaj kad god želiš.
 onboarding-pocket-anywhere-button = Probaj { -pocket-brand-name }

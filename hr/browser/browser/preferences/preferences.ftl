@@ -5,7 +5,7 @@
 do-not-track-description = Šalji “Ne prati me” signal web stranicama (stranice ga ne moraju poštivati)
 do-not-track-learn-more = Saznajte više
 do-not-track-option-default-content-blocking-known =
-    .label = Samo kada je { -brand-short-name } postavljen da blokira poznate pratitelje
+    .label = Samo kad je { -brand-short-name } postavljen da blokira poznate programe za praćenje
 do-not-track-option-always =
     .label = Uvijek
 pref-page =
@@ -878,7 +878,7 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokiranje sadržaja
-content-blocking-section-description = Zaštitite svoju privatnost dok pregledavate. Blokirajte nevidljivi sadržaj koji prati koje stranice posjećujete i profilira vas. Blokiranje dijela ovog sadržaja može ubrzati učitavanje stranica.
+content-blocking-section-description = Zaštiti svoju privatnost dok pregledavaš. Blokiraj nevidljivi sadržaj koji prati koje stranice posjećuješ i koji te profilira. Blokiranje dijela ovog sadržaja može ubrzati učitavanje stranica.
 content-blocking-enhanced-tracking-protection = Poboljšana zaštita od praćenja
 content-blocking-section-top-level-description = Programi za praćenje te prate po internetu i prikupljaju podatke o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe i druge zlonamjerne skripte.
 content-blocking-learn-more = Saznajte više
@@ -1030,7 +1030,7 @@ permissions-a11y-privacy-link = Saznajte više
 collection-header = { -brand-short-name } korištenje i skupljanje podataka
 collection-description = Težimo da vam omogućimo izbor i prikupljamo samo onoliko koliko nam treba da omogućimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego li počmemo primati osobne informacije.
 collection-privacy-notice = Politika privatnosti
-collection-health-report-telemetry-disabled = Više ne dopuštate { -vendor-short-name } snimanje tehničkih i podataka o interakciji. Svi stari podaci biti će obrisani u roku od 30 dana.
+collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznajte više
 collection-health-report =
     .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke interakcije { -vendor-short-name }
@@ -1071,15 +1071,15 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certifikati
-certs-personal-label = Kad poslužitelj zatraži vaš osobni certifikat
+certs-personal-label = Kad poslužitelj zatraži tvoj osobni certifikat
 certs-select-auto-option =
     .label = Automatski označi jednoga
     .accesskey = s
 certs-select-ask-option =
-    .label = Traži vas svaki put
+    .label = Traži te svaki put
     .accesskey = a
 certs-enable-ocsp =
-    .label = Upitajte OCSP poslužitelje da biste potvrdili valjanost certifikata
+    .label = Upitaj OCSP poslužitelje za potvrđivanje valjanosti certifikata
     .accesskey = U
 certs-view =
     .label = Prikaz certifikata…
@@ -1088,7 +1088,7 @@ certs-devices =
     .label = Sigurnosni uređaji…
     .accesskey = S
 space-alert-learn-more-button =
-    .label = Saznajte više
+    .label = Saznaj više
     .accesskey = S
 space-alert-over-5gb-pref-button =
     .label =
