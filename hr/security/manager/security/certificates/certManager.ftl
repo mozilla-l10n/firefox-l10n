@@ -5,7 +5,7 @@
 certmgr-title =
     .title = Upravljač certifikata
 certmgr-tab-mine =
-    .label = Vaši certifikati
+    .label = Tvoji certifikati
 certmgr-tab-people =
     .label = Osobe
 certmgr-tab-servers =
@@ -149,7 +149,7 @@ edit-trust-ca = Certifikat "{ $certName }" predstavlja agenciju certifikata.
 ## For Deleting Certificates
 
 delete-user-cert-title =
-    .title = Obrišite vaše certifikate
+    .title = Izbriši svoje certifikate
 delete-user-cert-confirm = Jeste li sigurni da želite obrisati ove certifikate?
 delete-user-cert-impact = Ako obrišete jedan od vlastitih certifikata, više ga nećete moći koristiti za identifikaciju.
 delete-ssl-cert-title =

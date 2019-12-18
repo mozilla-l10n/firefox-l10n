@@ -5,7 +5,7 @@
 print-setup =
     .title = Postava stranice
 custom-prompt-title = Prilagođeno...
-custom-prompt-prompt = Upišite tekst vašeg zaglavlja/podnožja
+custom-prompt-prompt = Upiši tvoj standardni tekst zaglavlja/podnožja
 basic-tab =
     .label = Format i opcije
 advanced-tab =
