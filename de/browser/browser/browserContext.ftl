@@ -279,3 +279,6 @@ main-context-menu-inspect-element =
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Barrierefreiheit-Eigenschaften untersuchen
+main-context-menu-eme-learn-more =
+    .label = Mehr über DRM-Kopierschutz erfahren…
+    .accesskey = D
