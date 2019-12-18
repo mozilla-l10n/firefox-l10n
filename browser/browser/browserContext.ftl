@@ -51,6 +51,9 @@ toolbar-button-page-save =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-pause =
+    .label = Kgaotsa
+    .accesskey = K
 
 ##
 
@@ -61,6 +64,36 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-image-view =
+    .label = Leba Setshwantsho
+    .accesskey = S
+main-context-menu-image-copy-location =
+    .label = Kopolola Lefelo la Setshwantsho
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Boloka Setshwantsho Jaaka…
+    .accesskey = l
+main-context-menu-image-set-as-background =
+    .label = Tlhoma Jaaka Lemorago la Teseketopo…
+    .accesskey = T
+main-context-menu-frame =
+    .label = Foreime Eno
+    .accesskey = n
+main-context-menu-frame-save-as =
+    .label = Boloka Foreime Jaaka…
+    .accesskey = F
+main-context-menu-frame-view-source =
+    .label = Leba Motswedi wa Foreime
+    .accesskey = L
+main-context-menu-frame-view-info =
+    .label = Leba Tshedimosetso ya Foreime
+    .accesskey = T
 main-context-menu-view-selection-source =
     .label = Leba Motswedi wa Tlhopho
     .accesskey = e
+main-context-menu-view-page-source =
+    .label = Leba Motswedi wa Tsebe
+    .accesskey = L
+main-context-menu-view-page-info =
+    .label = Leba Tshedimosetso ya Tsebe
+    .accesskey = T
