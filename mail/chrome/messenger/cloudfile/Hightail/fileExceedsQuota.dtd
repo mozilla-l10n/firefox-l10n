@@ -1,7 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "Hightail">
-<!ENTITY fileExceedsQuota.storageLimitReached   "Limita de stocare atinsă">
-<!ENTITY fileExceedsQuota.description "Ai atins limita ta de stocare a contului de 2GB.">
-<!ENTITY fileExceedsQuota.description1 "Utilizarea actuală a spațiului de stocare este de #XXX GB.">
