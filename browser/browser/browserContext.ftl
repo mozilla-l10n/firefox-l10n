@@ -44,6 +44,9 @@ toolbar-button-page-save =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-link =
+    .label = Sao chép địa chỉ liên kết
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
