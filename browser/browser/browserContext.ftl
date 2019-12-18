@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Unu paĝo malantaŭen
+    .aria-label = Malantaŭen
+    .accesskey = M
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Unu paĝo antaŭen
+    .aria-label = Antaŭen
+    .accesskey = A
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Reŝargi
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Halti
+    .accesskey = H
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Aldoni legosignon por tiu ĉi paĝo
+    .accesskey = l
 main-context-menu-open-link =
     .label = Malfermi ligilon
     .accesskey = O
@@ -161,6 +178,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Spekti videon
     .accesskey = v
+main-context-menu-image-copy =
+    .label = Kopii bildon
+    .accesskey = b
 main-context-menu-image-copy-location =
     .label = Kopii adreson de bildo
     .accesskey = a
@@ -269,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspekti elementon
     .accesskey = n
+main-context-menu-inspect-a11y-properties =
+    .label = Inspekti alireblecajn atributojn
 main-context-menu-eme-learn-more =
     .label = Pli da informo pri DRM…
     .accesskey = i
