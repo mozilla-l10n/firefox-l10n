@@ -108,6 +108,9 @@ main-context-menu-media-pause =
 main-context-menu-media-video-fullscreen =
     .label = Tam ekran
     .accesskey = T
+main-context-menu-media-video-leave-fullscreen =
+    .label = Tam ekrandan çık
+    .accesskey = e
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
