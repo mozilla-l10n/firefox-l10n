@@ -291,3 +291,6 @@ main-context-menu-inspect-element =
     .accesskey = E
 main-context-menu-inspect-a11y-properties =
     .label = Toegankelijkheidseigenschappen inspecteren
+main-context-menu-eme-learn-more =
+    .label = Meer info over DRM…
+    .accesskey = D
