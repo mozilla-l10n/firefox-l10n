@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Hifadhi Ukurasa Kama…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -109,6 +112,9 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Skrini Nzima
+    .accesskey = S
 main-context-menu-media-video-leave-fullscreen =
     .label = Toka kwenye Skrini Nzima
     .accesskey = u
@@ -121,6 +127,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Angalia Video
     .accesskey = n
+main-context-menu-image-copy =
+    .label = Nakili Taswira
+    .accesskey = l
 main-context-menu-image-copy-location =
     .label = Nakili Mahali pa Taswira
     .accesskey = k
@@ -142,6 +151,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Angalia maelezo ya Picha
     .accesskey = c
+main-context-menu-image-desc =
+    .label = Tazama Maelezo
+    .accesskey = T
 main-context-menu-audio-save-as =
     .label = Hifadhi Sauti Kama…
     .accesskey = d
@@ -193,6 +205,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Analia Maelezo ya Fremu
     .accesskey = F
+main-context-menu-view-selection-source =
+    .label = Angalia Chanzo cha Uteuzi
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Angalia Chanzo cha Ukurasa
     .accesskey = A
@@ -205,3 +220,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Badilisha Upande wa Ukurasa
     .accesskey = U
+main-context-menu-inspect-element =
+    .label = Kagua Elementi
+    .accesskey = Q
