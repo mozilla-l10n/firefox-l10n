@@ -62,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = यह पृष्ठ बुकमार्कित करें
+    .accesskey = m
 main-context-menu-open-link =
     .label = कड़ी खोलें
     .accesskey = O
@@ -77,6 +80,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = नए निजी विंडो में कड़ी खोलें
     .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = यह कड़ी बुकमार्कित करें
+    .accesskey = L
 main-context-menu-save-link =
     .label = कड़ी ऐसे सहेजें…
     .accesskey = k
@@ -239,6 +245,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ढाँचा फिर लोड करें
     .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = यह फ्रेम बुकमार्कित करें
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = फ्रेम ऐसे सहेजें…
     .accesskey = F
