@@ -38,7 +38,7 @@
 <!ENTITY bookmarks.folder.toolbar.label 'Alatna traka zabilješki'>
 <!ENTITY bookmarks.folder.other.label 'Druge zabilješke'>
 <!ENTITY bookmarks.folder.desktop.label 'Desktop zabilješke'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobilne zabilješke'>
+<!ENTITY bookmarks.folder.mobile.label 'Zabilješke mobitela'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Zakačeno'>
 
