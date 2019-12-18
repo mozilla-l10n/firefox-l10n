@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Simpan Laman dengan Nama…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -201,6 +204,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Lihat Informasi Bingkai
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = Lihat Kode Sumber Teks yang Dipilih
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Lihat Kode Sumber Laman
     .accesskey = h
@@ -213,5 +219,11 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Ubah Arah Laman
     .accesskey = A
+main-context-menu-inspect-element =
+    .label = Inspeksi Elemen
+    .accesskey = n
 main-context-menu-inspect-a11y-properties =
     .label = Periksa Properti Aksesibilitas
+main-context-menu-eme-learn-more =
+    .label = Pelajari lebih lanjut tentang DRM…
+    .accesskey = D
