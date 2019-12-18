@@ -71,6 +71,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Otevřít odkaz v novém panelu
     .accesskey = n
+main-context-menu-open-link-container-tab =
+    .label = Otevřít odkaz v novém kontejnerovém panelu
+    .accesskey = K
 main-context-menu-open-link-new-window =
     .label = Otevřít odkaz v novém okně
     .accesskey = O
@@ -119,6 +122,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Zapnout zvuk
     .accesskey = z
+main-context-menu-media-play-speed =
+    .label = Rychlost přehrávání
+    .accesskey = r
+main-context-menu-media-play-speed-slow =
+    .label = Pomalá (0.5×)
+    .accesskey = P
+main-context-menu-media-play-speed-normal =
+    .label = Normální
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rychlá (1.25×)
+    .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Rychlejší (1.5×)
+    .accesskey = e
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Absurdní (2 ×)
+    .accesskey = A
+main-context-menu-media-loop =
+    .label = Smyčka
+    .accesskey = S
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
