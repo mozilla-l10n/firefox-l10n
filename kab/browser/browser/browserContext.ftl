@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Sekles aseɣwen s yisem…
     .accesskey = S
+main-context-menu-save-link-to-pocket =
+    .label = Sekles aseɣwen ɣer { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -161,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Ffeɣ seg uskar n ugdil ačuran{ " " }
     .accesskey = F
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Tugna-deg-tugna
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Smiren tugna
     .accesskey = S
@@ -218,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ffer Azegrir-a
     .accesskey = F
+main-context-menu-save-to-pocket =
+    .label = Sekles asebter ɣer { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Azen asebter ɣer yibenk
     .accesskey = b
