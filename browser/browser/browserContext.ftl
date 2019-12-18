@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Lehúzás az előzményekhez
+           *[other] Jobb kattintás vagy lehúzás az előzményekhez
+        }
 
 ## Back
 
@@ -39,9 +45,15 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Hivatkozás megnyitása
+    .accesskey = H
 main-context-menu-open-link-new-tab =
     .label = Megnyitás új lapon
     .accesskey = l
+main-context-menu-open-link-new-window =
+    .label = Megnyitás új ablakban
+    .accesskey = a
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -57,18 +69,42 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Lejátszás
+    .accesskey = L
+main-context-menu-media-pause =
+    .label = Szünet
+    .accesskey = S
 
 ##
 
+main-context-menu-media-mute =
+    .label = Némítás
+    .accesskey = N
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Vezérlők megjelenítése
+    .accesskey = V
+main-context-menu-media-hide-controls =
+    .label = Vezérlők elrejtése
+    .accesskey = V
 
 ##
 
+main-context-menu-image-reload =
+    .label = Kép újrabetöltése
+    .accesskey = r
 main-context-menu-image-view =
     .label = Kép megjelenítése
+    .accesskey = s
+main-context-menu-video-copy-location =
+    .label = Videó címének másolása
+    .accesskey = d
+main-context-menu-audio-copy-location =
+    .label = Hang címének másolása
     .accesskey = s
 main-context-menu-view-background-image =
     .label = Háttérkép megjelenítése
@@ -79,6 +115,9 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Csak az aktuális keret megjelenítése
     .accesskey = C
+main-context-menu-frame-open-tab =
+    .label = Keret megnyitása új lapon
+    .accesskey = l
 main-context-menu-frame-open-window =
     .label = Keret megnyitása új ablakban
     .accesskey = a
