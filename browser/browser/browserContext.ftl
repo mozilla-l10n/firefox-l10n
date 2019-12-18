@@ -243,3 +243,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Zmieni czerënk stronë
     .accesskey = s
+main-context-menu-inspect-element =
+    .label = Sprôwdzë Element
+    .accesskey = E
