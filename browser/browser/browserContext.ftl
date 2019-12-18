@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Алдыңғы бетке қайту
+    .aria-label = Артқа
+    .accesskey = а
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Келесі бетке өту
+    .aria-label = Алға
+    .accesskey = л
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Жаңарту
+    .accesskey = й
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Тоқтату
+    .accesskey = т
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Бұл бетті бетбелгілерге қосу
+    .accesskey = е
 main-context-menu-open-link =
     .label = Сілтемені ашу
     .accesskey = С
@@ -69,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Сілтемені қалайша сақтау…
     .accesskey = м
+main-context-menu-save-link-to-pocket =
+    .label = Сілтемені { -pocket-brand-name }-ке сақтау
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -144,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Толық экраннан шығу
     .accesskey = Т
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Суреттегі сурет
+    .accesskey = у
 main-context-menu-image-reload =
     .label = Суретті қайта жүктеу
     .accesskey = С
@@ -201,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Бұл плагинді жасыру
     .accesskey = ы
+main-context-menu-save-to-pocket =
+    .label = Бетті { -pocket-brand-name }-ке сақтау
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Парақты құрылғыға жіберу
     .accesskey = ы
@@ -261,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Элементті бақылау
     .accesskey = Э
+main-context-menu-inspect-a11y-properties =
+    .label = Қолжетерлілік қасиеттерін бақылау
 main-context-menu-eme-learn-more =
     .label = DRM туралы көбірек білу…
     .accesskey = D
