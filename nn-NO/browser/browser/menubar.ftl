@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Still tilbake
     .accesskey = S
+menu-view-full-zoom-actual-size =
+    .label = Verkeleg storleik
+    .accesskey = V
 menu-view-full-zoom-toggle =
     .label = Forstørr berre tekst
     .accesskey = o
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Fullskjerm
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Vis alle faner
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tillegg
     .accesskey = T
-menu-tools-sync-sign-in =
-    .label = Logg inn på { -sync-brand-short-name }…
-    .accesskey = L
 menu-tools-fxa-sign-in =
     .label = Logg inn på { -brand-product-name }…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Synkroniser no
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Kople til { -sync-brand-short-name } på nytt…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Kople til { -brand-product-name } på nytt…
     .accesskey = K
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Start på nytt med påslåtte tillegg
     .accesskey = S
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Rapporter villeiande nettstad…
     .accesskey = R
