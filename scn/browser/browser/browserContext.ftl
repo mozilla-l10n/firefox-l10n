@@ -5,6 +5,10 @@
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Vai na pàggina nn'arredi
+    .aria-label = Nn'arredi
+    .accesskey = a
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -19,6 +23,9 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Càrrica arredi
+    .accesskey = C
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -39,6 +46,27 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Rapi u ligami
+    .accesskey = l
+main-context-menu-open-link-new-tab =
+    .label = Rapi u ligami nta na scheda nova
+    .accesskey = s
+main-context-menu-open-link-container-tab =
+    .label = Rapi u ligami nta na scheda di cuntinituri nova
+    .accesskey = c
+main-context-menu-open-link-new-window =
+    .label = Rapi u ligami nta na finestra nova
+    .accesskey = f
+main-context-menu-open-link-new-private-window =
+    .label = Rapi u ligami nta na finestra privata nova
+    .accesskey = a
+main-context-menu-bookmark-this-link =
+    .label = Agghiunci stu lijami nnê nzingalibbra
+    .accesskey = z
+main-context-menu-save-link =
+    .label = Sarba lu lijami comu…
+    .accesskey = j
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -61,3 +89,33 @@ toolbar-button-page-save =
 
 ##
 
+main-context-menu-frame-show-this =
+    .label = Mustra sulu stu quatru
+    .accesskey = M
+main-context-menu-frame-open-tab =
+    .label = Rapi u quatru nta na scheda nova
+    .accesskey = s
+main-context-menu-frame-open-window =
+    .label = Rapi u quatru nta na finestra nova
+    .accesskey = f
+main-context-menu-frame-reload =
+    .label = Càrrica arredi lu quatru
+    .accesskey = C
+main-context-menu-frame-view-source =
+    .label = Talía la funti dû quatru
+    .accesskey = T
+main-context-menu-frame-view-info =
+    .label = Nfurmazziuna dû quatru
+    .accesskey = N
+main-context-menu-view-selection-source =
+    .label = Talía la funti dâ silizziuni
+    .accesskey = f
+main-context-menu-view-page-source =
+    .label = Talía la funti dâ pàggina
+    .accesskey = T
+main-context-menu-view-page-info =
+    .label = Nfurmazziuna dâ pàggina
+    .accesskey = N
+main-context-menu-eme-learn-more =
+    .label = Cchiù nfurmazziuna supra ô DRM…
+    .accesskey = D
