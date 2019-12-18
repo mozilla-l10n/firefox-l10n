@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Gedrückt halten, um Chronik anzuzeigen
+           *[other] Rechtsklick oder gedrückt halten, um Chronik anzuzeigen
+        }
 
 ## Back
 
@@ -42,6 +48,12 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-open-link =
+    .label = Link öffnen
+    .accesskey = k
+main-context-menu-open-link-new-tab =
+    .label = Link in neuem Tab öffnen
+    .accesskey = T
 main-context-menu-open-link-new-window =
     .label = Link in neuem Fenster öffnen
     .accesskey = F
@@ -66,22 +78,70 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Abspielen
+    .accesskey = A
+main-context-menu-media-pause =
+    .label = Anhalten
+    .accesskey = A
 
 ##
 
+main-context-menu-media-mute =
+    .label = Ton aus
+    .accesskey = T
+main-context-menu-media-unmute =
+    .label = Ton an
+    .accesskey = T
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Steuerung anzeigen
+    .accesskey = S
+main-context-menu-media-hide-controls =
+    .label = Steuerung ausblenden
+    .accesskey = S
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Vollbild
+    .accesskey = V
+main-context-menu-image-reload =
+    .label = Grafik neu laden
+    .accesskey = G
+main-context-menu-image-view =
+    .label = Grafik anzeigen
+    .accesskey = r
 main-context-menu-image-copy-location =
     .label = Grafikadresse kopieren
     .accesskey = d
+main-context-menu-video-copy-location =
+    .label = Video-Adresse kopieren
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Audio-Adresse kopieren
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = Grafik speichern unter…
+    .accesskey = u
 main-context-menu-image-set-as-background =
     .label = Als Hintergrundbild einrichten…
     .accesskey = A
+main-context-menu-image-info =
+    .label = Grafik-Info anzeigen
+    .accesskey = e
+main-context-menu-video-save-as =
+    .label = Video speichern unter…
+    .accesskey = u
+main-context-menu-audio-save-as =
+    .label = Audio speichern unter…
+    .accesskey = u
+main-context-menu-video-image-save-as =
+    .label = Bildschirmfoto speichern unter…
+    .accesskey = B
 main-context-menu-view-background-image =
     .label = Hintergrundgrafik anzeigen
     .accesskey = H
@@ -94,12 +154,18 @@ main-context-menu-frame =
 main-context-menu-frame-show-this =
     .label = Nur diesen Frame anzeigen
     .accesskey = N
+main-context-menu-frame-open-tab =
+    .label = Frame in neuem Tab öffnen
+    .accesskey = T
 main-context-menu-frame-open-window =
     .label = Frame in neuem Fenster öffnen
     .accesskey = F
 main-context-menu-frame-reload =
     .label = Frame neu laden
     .accesskey = R
+main-context-menu-frame-save-as =
+    .label = Frame speichern unter…
+    .accesskey = m
 main-context-menu-frame-print =
     .label = Frame drucken…
     .accesskey = d
@@ -124,3 +190,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Seitenrichtung ändern
     .accesskey = S
+main-context-menu-inspect-element =
+    .label = Element untersuchen
+    .accesskey = Q
