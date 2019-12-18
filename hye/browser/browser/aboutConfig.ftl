@@ -22,9 +22,32 @@ about-config-intro-warning-button = Ընդունել վտանգը եւ շարո�
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Այս նախասիրութիւնների փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի աշխատանքի կամ անվտանգութեան վրա:
 about-config-page-title = Ընդլայնուած նախընտրութիւններ
+about-config-search-input1 =
+    .placeholder = Որոնել նախընտրանքի անուն
+about-config-show-all = Ցուցադրել բոլորը
+about-config-pref-add = Աւելացնել
+about-config-pref-toggle = Փոփոխել
+about-config-pref-edit = Խմբագրել
+about-config-pref-save = Պահպանել
+about-config-pref-reset = Վերակայել
+about-config-pref-delete = Ջնջել
+about-config-pref-add-button =
+    .title = Աւելացնել
+about-config-pref-toggle-button =
+    .title = Փոփոխել
+about-config-pref-edit-button =
+    .title = Խմբագրել
+about-config-pref-save-button =
+    .title = Պահպանել
+about-config-pref-reset-button =
+    .title = Վերակայել
+about-config-pref-delete-button =
+    .title = Ջնջել
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-number = Արտոնաթիւ
+about-config-pref-add-type-string = Տող
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -33,3 +56,7 @@ about-config-page-title = Ընդլայնուած նախընտրութիւննե�
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (սկզբնադիր)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (յարմարեցուած)
