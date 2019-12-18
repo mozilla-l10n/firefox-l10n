@@ -8,6 +8,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Reportos de collapso
+submit-all-button-label = Inviar toto
 delete-button-label = Eliminar toto
 delete-confirm-title = Es tu secur?
 delete-unsubmitted-description = Isto delera tote le reportos de collapso non inviate e non potera esser disfacite.
