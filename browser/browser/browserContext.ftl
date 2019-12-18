@@ -72,6 +72,9 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Utišaj
     .accesskey = U
+main-context-menu-media-unmute =
+    .label = Odtišaj
+    .accesskey = O
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
