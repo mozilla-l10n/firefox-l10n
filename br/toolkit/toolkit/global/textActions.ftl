@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 text-action-undo =
-    .label = Dizober{ " " }
+    .label = Dizober
     .accesskey = D
 text-action-cut =
     .label = Troc'hañ
