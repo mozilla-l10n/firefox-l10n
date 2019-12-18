@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Nôl un tudalen
+    .aria-label = Nôl
+    .accesskey = N
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Ymlaen un tudalen
+    .aria-label = Ymlaen
+    .accesskey = Y
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Ail-lwytho
+    .accesskey = A
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Atal
+    .accesskey = t
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -45,6 +59,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Gosod Nod Tudalen i'r Dudalen
+    .accesskey = N
 main-context-menu-open-link =
     .label = Agor Dolen
     .accesskey = D
