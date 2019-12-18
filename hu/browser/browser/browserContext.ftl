@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Hivatkozás mentése más néven…
     .accesskey = n
+main-context-menu-save-link-to-pocket =
+    .label = Hivatkozás mentése a { -pocket-brand-name }be
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -223,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Bővítmény elrejtése
     .accesskey = r
+main-context-menu-save-to-pocket =
+    .label = Oldal mentése a { -pocket-brand-name }be
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Oldal küldése eszközre
     .accesskey = e
