@@ -40,6 +40,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = पृष्ठ असे साठवा…
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -48,9 +51,18 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = दुवा उघडा
     .accesskey = O
+main-context-menu-open-link-new-tab =
+    .label = दुवा नवीन टॅबमध्ये उघडा
+    .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = दुवा नवीन कंटेनर टॅब मध्ये उघडा
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = दुव्याला नवीन पटलात उघडा
     .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = नवीन खाजगी पटलात दुवा उघडा
+    .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = ह्या दुव्याला वाचनखूण लावा
     .accesskey = L
@@ -62,6 +74,9 @@ main-context-menu-save-link =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = ईमेल पत्त्याची प्रत बनवा
+    .accesskey = E
 main-context-menu-copy-link =
     .label = दुवा ठिकाणाचे प्रत बनवा
     .accesskey = a
@@ -87,6 +102,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = मंद अशक्य करा
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = चालवायची गती
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = (0.5×) ने हळू करा
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = सामान्य
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = (1.25×)ने जलद करा
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = (1.5×)ने जलद करा
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = अतिशय जलद (2×)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = लूप
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -100,12 +138,18 @@ main-context-menu-media-hide-controls =
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = पडदाभर
+    .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = पडदाभरपासून बाहेर पडा
     .accesskey = u
 main-context-menu-image-reload =
     .label = प्रतिमा पुन्हा लोड करा
     .accesskey = R
+main-context-menu-video-copy-location =
+    .label = व्हिडीओ ठिकाणाचे प्रत बनवा
+    .accesskey = o
 main-context-menu-audio-copy-location =
     .label = ऑडिओ ठिकाणाचे प्रत बनवा
     .accesskey = o
@@ -136,18 +180,30 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = ह्या प्लगइनला लपवा
     .accesskey = H
+main-context-menu-send-to-device =
+    .label = पृष्ठ उपकरणाला पाठवा
+    .accesskey = D
 main-context-menu-view-background-image =
     .label = पार्श्वभूमीतील चित्राचे दृष्य
     .accesskey = w
 main-context-menu-keyword =
     .label = ह्या शोधकरिता एक मुख्य शब्द समाविष्ट करा…
     .accesskey = K
+main-context-menu-link-send-to-device =
+    .label = दुवा उपकरणाला पाठवा
+    .accesskey = D
 main-context-menu-frame =
     .label = ही चौकट
     .accesskey = h
 main-context-menu-frame-show-this =
     .label = फक्त ही चौकट दाखवा
     .accesskey = S
+main-context-menu-frame-open-tab =
+    .label = नवीन टॅबमध्ये चौकट उघडा
+    .accesskey = T
+main-context-menu-frame-open-window =
+    .label = चौकटाला नवीन पटलात उघडा
+    .accesskey = W
 main-context-menu-frame-reload =
     .label = चौकट पुन्हा लोड करा
     .accesskey = R
@@ -166,6 +222,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = चौकट माहिती पहा
     .accesskey = I
+main-context-menu-view-selection-source =
+    .label = निवडलेल्या भागाचा स्त्रोत पहा
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = पृष्ठाचे स्रोत पहा
     .accesskey = V
@@ -177,4 +236,10 @@ main-context-menu-bidi-switch-text =
     .accesskey = w
 main-context-menu-bidi-switch-page =
     .label = पृष्ठ दिशा बदला
+    .accesskey = D
+main-context-menu-inspect-element =
+    .label = एलिमेंटची चौकशी करा
+    .accesskey = Q
+main-context-menu-eme-learn-more =
+    .label = DRM बद्दल अधिक जाणून घ्या…
     .accesskey = D
