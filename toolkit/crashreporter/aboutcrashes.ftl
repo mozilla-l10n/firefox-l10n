@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = דיווחי קריסה
-clear-all-reports-label = הסרת כל הדיווחים
+submit-all-button-label = שליחת הכל
 delete-button-label = ניקוי הכל
 delete-confirm-title = האם אתה בטוח?
-delete-confirm-description = פעולה זו תמחק את כל הדיווחים ולא ניתנת לביטול.
 delete-unsubmitted-description = פעולה זו תמחק את כל דיווחי הקריסה שלא נשלחו ולא ניתנת לביטול.
 delete-submitted-description = פעולה זו תסיר את רשימת דיווחי הקריסה שלא נשלחו אך לא תמחק את הנתונים שנשלחו. לא ניתן לבטל פעולה זו.
 crashes-unsubmitted-label = דיווחי קריסה שלא נשלחו
