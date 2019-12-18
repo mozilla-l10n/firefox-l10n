@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = ایک صفحہ واپس جائیں
+    .aria-label = واپس
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = ایک صفحہ آگے جائیں
+    .aria-label = آگے
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = پھر لوڈ کریں
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = رکیں
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,6 +62,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = یہ صفحہ نشان زد کریں
+    .accesskey = m
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
