@@ -67,12 +67,21 @@ main-context-menu-copy-link =
 
 ##
 
+main-context-menu-video-copy-location =
+    .label = Copiar endereço do vídeo
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Copiar endereço do áudio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Salvar imagem como…
     .accesskey = i
 main-context-menu-image-set-as-background =
     .label = Definir como papel de parede…
     .accesskey = n
+main-context-menu-audio-save-as =
+    .label = Salvar áudio como…
+    .accesskey = S
 main-context-menu-frame =
     .label = Este frame
     .accesskey = t
