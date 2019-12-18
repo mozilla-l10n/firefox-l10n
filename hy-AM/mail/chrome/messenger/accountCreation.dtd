@@ -4,6 +4,7 @@
 
 <!ENTITY autoconfigWizard2.title         "Տեղակայել էլ. փոստի առկա հաշիվ">
 
+<!ENTITY emailWizard.title               "Էլ․փոստի ձեր գործող հասցեն">
 <!ENTITY emailWizard.caption             "Մուտքագրեք Ձեր էլ­. փոստի հասցեն">
 <!ENTITY name.label                      "Ձեր անունը.">
 <!ENTITY name.accesskey                  "n">

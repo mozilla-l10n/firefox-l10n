@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Նոր նամակ &amp; Հասցեավորում">
 <!ENTITY addressingGroupTitle.label "Հասցեագրում">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Օգտ. տարբեր LDAP սպասարկիչներ.">
 <!ENTITY directories.accesskey     "տ">
 <!ENTITY directoriesNone.label     "Չկա">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Նամակ գրել">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +25,9 @@
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "Պատասխանելիս մեջբերել բնօրինակ նամակը">
 <!ENTITY autoQuote.accesskey                  "ե">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Ապա,">
-<!ENTITY then.accesskey                       "T">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Մեջբերելիս՝">
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "պատասխանել մեջբերումից առաջ">
 <!ENTITY belowQuote.label                     "պատասխանել մեջբերումից հետո">
 <!ENTITY selectAndQuote.label                 "ընտրել մեջբերումը">
