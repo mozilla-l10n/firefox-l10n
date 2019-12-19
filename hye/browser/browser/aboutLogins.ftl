@@ -53,9 +53,20 @@ login-list-intro-title = Մուտքագրումներ չկան
 login-list-intro-description = Երբ պահպանում եք գաղտնաբառը { -brand-product-name }-ում, այն կցուցադրուի այստեղ։
 about-logins-login-list-empty-search-title = Մուտքեր չեն գտնուել
 about-logins-login-list-empty-search-description = Որոնման հետ համընկնում չկա։
+login-list-item-title-new-login = Նոր մուտքագրում
+login-list-item-subtitle-new-login = Մուտքագրեք Ձեր մուտքագրման տուեալները
+login-list-item-subtitle-missing-username = (չկա աւգտուողի անուն)
+about-logins-list-item-breach-icon =
+    .title = Խախտուած կայք
 
 ## Introduction screen
 
+login-intro-heading = Փնտրո՞ւմ եք Ձեր պահպանուած մուտքագրումները։ Տեղակայեք { -sync-brand-short-name }-ը։
+about-logins-login-intro-heading-logged-in = Համաժամեցուած մուտք չի գտնուել։
+login-intro-description = Եթե պահպանել եք Ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպէս կարող եք ստանալ դրանք․
+login-intro-instruction-fxa = Ստեղծեք կամ մուտք գործեք { -fxaccount-brand-name } այն սարքում, որտեղ Ձեր մուտքագրումները պահպանուած են
+login-intro-instruction-fxa-settings = Համոզվեք, որ ընտրել եք Ձեր Մուտքագրումների նշատուփը { -sync-brand-short-name }-ի կարգաւորումներում։
+about-logins-intro-instruction-help = Լրացուցիչ օգնութեան համար այցելեք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } աջակցել</a>։
 
 ## Login
 
