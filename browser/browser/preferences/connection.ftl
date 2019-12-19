@@ -70,6 +70,15 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Միացնել DNS-ը HTTPS-ով
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL՝ DNS-ը HTTPS-ով լուծելու համար
+connection-dns-over-https-url-resolver = Օգտագործել մատակարար
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Լռելյայն)
+    .tooltiptext = Օգտագործեք լռելյայն  URL ՝ DNS ֊ HTTPS լուծելու համար։
+connection-dns-over-https-url-custom =
+    .label = Հարմարեցված
+    .accesskey = C
+    .tooltiptext = Մուտքագրե՛ք ձեր նախընտրած URL-ը DNS ֊ HTTPS լուծելու համար։
+connection-dns-over-https-custom-label = Հարմարեցված

@@ -118,6 +118,29 @@ cfr-whatsnew-lockwise-take-body =
     կրկնօրինակված գաղտնաբառերը ցանկացած վայրից:
 cfr-whatsnew-lockwise-take-link-text = Ստանալ հավելվածը
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Դիտել տեսահոլովակներ զննարկելիս
+cfr-whatsnew-pip-cta = Իմանալ ավելին
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Ավելի քիչ նյարդայնացնող կայքի թռուցիկներ
+cfr-whatsnew-permission-prompt-cta = Իմանալ ավելին
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Մատնահետքը արգելափակվեց
+       *[other] Մատնահետքերը արգելափակվեցին
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Մատնահետքեր
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Ստացեք այս էջանիշը ձեր հեռախոսի վրա
@@ -153,6 +176,8 @@ cfr-doorhanger-socialtracking-ok-button = Տեսնել Պաշտպանությո�
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Փակել
     .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = Այլևս ցույց մի տվեք այսպիսի հաղորդագրություններ
+    .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name }-ը դադարեցրել է հանրային ցանցի հետապնդումը
 cfr-doorhanger-socialtracking-description = Ձեր գաղտնիությունը կարևոր է: { -brand-short-name }-ը այժմ արգելափակում է հանրային մեդիայի ընդհանուր վտանգները, սահմանելով, թե որքան տվյալներ կարող են հավաքել ձեր առցանց գործողությունների մասին։
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } արգելափակում է մատնահետքը այս էջում
@@ -162,5 +187,13 @@ cfr-doorhanger-cryptominers-description = Ձեր գաղտնիությունը կ
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } արգելափակել է <b>{ $blockedCount }</b> հետևումը սկսած { $date }։
+       *[other] { -brand-short-name } արգելափակել է <b>{ $blockedCount }</b> հետևումները սկսած { $date }։
+    }
 cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
     .accesskey = S
