@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Blloko kërkesa të reja për njohje vendndodhjesh
 permissions-site-location-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje të njohë vendndodhjen tuaj. Bllokimi i njohjes së vendndodhjes tuaj mund të prishë punimin e ndonjë veçorie të sajtit.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Rregullime - Leje Realiteti Virtual
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Sajtet vijues kanë kërkuar të hyjnë në pajisje tuajat për realitet virtual. Mund të specifikoni cilët sajte lejohen të hyjnë pajisjet tuaja të realitetit virtual. Mundeni edhe të bllokoni kërkesa të reja për hyrje në pajisjet tuaja të realitetit virtual.
+permissions-site-xr-disable-label =
+    .label = Blloko kërkesa të reja për hyrje në pajisjet tuaja të realitetit virtual
+permissions-site-xr-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje të hyjë në pajisje tuaja të realitetit virtual. Bllokimi i hyrjes në pajisjet tuaja të realitetit virtual mund të prishë punimin e ca anëve të sajtit.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
