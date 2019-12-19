@@ -20,7 +20,7 @@
 <!ENTITY nntpDownloadMsg.label "Viestejä, jotka ovat yli">
 <!ENTITY nntpDownloadMsg.accesskey "s">
 <!ENTITY retentionCleanup.label "Kiintolevytilaa voi vapauttaa poistamalla vanhoja viestejä pysyvästi.">
-<!ENTITY retentionCleanupImap.label "Kiintolevytilaa voidaan vapauttaa poistamalla lopullisesti vanhat viestit sekä omalta koneelta, että palvelimelta.">
+<!ENTITY retentionCleanupImap.label "Kiintolevytilaa voidaan vapauttaa poistamalla lopullisesti vanhat viestit sekä omalta koneelta että palvelimelta.">
 <!ENTITY retentionCleanupPop.label "Kiintolevytilaa voidaan vapauttaa poistamalla vanhat viestit lopullisesti, myös sähköpostipalvelimelta.">
 <!ENTITY retentionKeepMsg.label "Poista viestit, jotka ovat yli">
 <!ENTITY retentionKeepMsg.accesskey "o">
