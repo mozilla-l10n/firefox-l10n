@@ -2,7 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY itemTags.label                   "Etiquettas">
+<!ENTITY itemAdvanced.label               "Avantiate">
 
+<!ENTITY style.label                      "Stylo:">
+<!ENTITY style.accesskey                  "y">
+<!ENTITY regularStyle.label               "Regular">
+<!ENTITY bold.label                       "Hardite">
+<!ENTITY italic.label                     "Italico">
+<!ENTITY boldItalic.label                 "Italico hardite">
+<!ENTITY size.label                       "Dimension:">
+<!ENTITY size.accesskey                   "s">
+<!ENTITY regularSize.label                "Regular">
+<!ENTITY bigger.label                     "Major">
+<!ENTITY smaller.label                    "Minor">
+<!ENTITY quotedTextColor.label            "Color:">
+<!ENTITY quotedTextColor.accesskey        "o">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Monstrar emoticones como imagines">
@@ -16,3 +31,5 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY secondsLabel.label               "secundas">
+<!ENTITY openMsgInNewTab.label            "Un nove scheda">
