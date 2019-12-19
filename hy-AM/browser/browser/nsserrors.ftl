@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = { $hostname }-ի հետ կապակցման ժամանակ տեղի է ունեցել սխալ: { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Սխալի կոդ ՝ { $error }
 psmerr-ssl-disabled = Չի ստացվում անվտանգ կապ հաստատել, քանի որ SSL պռոտոկոլը անջատված է:
 psmerr-ssl2-disabled = Չստացվեց հաստատել անվտանգ կապ, քանի որ սերվերը օգտագործում է հին, ոչ անվտանգ SSL պրոտոկոլ:
 # This is a multi-line message.
@@ -97,7 +104,7 @@ ssl-error-handshake-not-completed = Հնարավոր չէ սկսել մեկ այ
 ssl-error-bad-handshake-hash-value = Ստացվել են փոխանակման հեշ-ի ոչ կոռեկտ արժեքներ զույգից:
 ssl-error-cert-kea-mismatch = Տրամադրված սերտիֆիկատը չի կարող օգտագործվել բանալիների փոխանակման ընտրված ալգորիթմի հետ:
 ssl-error-no-trusted-ssl-client-ca = SSL հաճախորդի արտոնագրի հավաստիացման ոչ մի վստահելի սերտիֆիկացիոն կենտրոն չի գտնվել:
-ssl-error-session-not-found = Հաճախորդի SSL-սեսիայի համարը չի գտնվել սեռվերի սեսսիաների քեշում:
+ssl-error-session-not-found = Հաճախորդի SSL-սեսիայի համարը չի գտնվել սերվերի սեսիաների քեշում:
 ssl-error-decryption-failed-alert = Հանգույցին չհաջողվեց գաղտնազերծել ստացված SSL-գրառումը:
 ssl-error-record-overflow-alert = Հանգույցը ստացավ SSL գրառում որի երկարությունը գերազանցում է թույլատրելին:
 ssl-error-unknown-ca-alert = Հանգույցը չի ճանաչում և չի վստահում ձեր սերտիֆիկատի վավերացնող կենտրոնին:
@@ -288,14 +295,14 @@ sec-error-busy = NSS չի կարողանում ավարտել աշխատանքը
 sec-error-extra-input = DER-կեդավորված հաղորդագրությունը պարունակում է ավելորդ չօգտագործվող տվյալներ:
 sec-error-unsupported-elliptic-curve = Չսպասարկվող էլիպտիկ կոր:
 sec-error-unsupported-ec-point-form = Էլիպտիկ կորի չսպասարկվող կետի ձև:
-sec-error-unrecognized-oid = Օբյեկտի անճանաչելի իդենտիֆիկատոր:
+sec-error-unrecognized-oid = Առարկայի անճանաչելի նույնացուցիչ:
 sec-error-ocsp-invalid-signing-cert = OCSP պատասխանի սերտիֆիկատի OCSP ստորագրությունը սխալ է:
 sec-error-revoked-certificate-crl = Արտոնաթուղթը չեղյալ է համարվել թողարկողի արտոնաթուղթը չեղյալ համարող ցուցակում:
 sec-error-revoked-certificate-ocsp = Թողարկողի OCSP-ն պատասխանողի հաշվետվությունների վկայականը չեղյալ է համարում.
 sec-error-crl-invalid-version = Թողարկողի վկայականի հետկանչի ցուցակը ունի անհայտ համարով տարբերակ.
 sec-error-crl-v1-critical-extension = Թողարկողի V1 վկայականի հետկանչի ցուցակը ունի կրիտիկական ընդլայնում.
-sec-error-crl-unknown-critical-extension = Թողարկողի V2 վկայականի հետկանչի ցուցակը ունի կրիտիկական ընդլայնում.
-sec-error-unknown-object-type = Տրվել է անհայտ տեսակի օբյեկտ:
+sec-error-crl-unknown-critical-extension = Թողարկողի V2 վկայականի հետկանչի ցուցակը ունի վճռորոշ ընդլայնում.
+sec-error-unknown-object-type = Տրվել է անհայտ տեսակի առարկա:
 sec-error-incompatible-pkcs11 = PKCS #11 սարքավարը խախտում է բնորոշումը և խնդիրներ ունի համատեղելիության հետ:
 sec-error-no-event = Չկա նոր ինքնաբար միջոցառում հասանելի այս պահին:
 sec-error-crl-already-exists = CRL -ը արդեն գոյություն ունի:
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Սպասարկիչը, որը ներկայ
 mozilla-pkix-error-required-tls-feature-missing = Պահանջվող TLS յուրահատկությունը բացակայում է:
 mozilla-pkix-error-invalid-integer-encoding = Սպասարկիչը, որը պարունակում է ամբողջ թվի անվավեր կոդավորում: Սովորաբար ներառում է բացասական հաջորդական համարներ, բացասական RSA մոդուլներ և կոդավորումներ, որոնք այլևս անհրաժեշտ չեն:
 mozilla-pkix-error-empty-issuer-name = Սպասարկիչը ներկայացրել է վկայագիր՝ թողարկողին տարբերակող դատարկ անունով:
+mozilla-pkix-error-additional-policy-constraint-failed = Լրացուցիչ քաղաքականության խոչընդոտը ձախողվեց այս վկայագիրը վավերացնելիս:
+mozilla-pkix-error-self-signed-cert = Վկայագիրը վստահելի չէ, քանի որ այն ստորագրվել է իր իսկ կողմից:

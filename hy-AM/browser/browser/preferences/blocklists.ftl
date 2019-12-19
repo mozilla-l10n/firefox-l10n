@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Արգելացուցակներ
     .style = width: 55em
-blocklist-desc = Կարող եք ընտրել, թե { -brand-short-name }-ը որ ցուցակը կօգտագործի՝ արգելափակելու վեբ տարրերը, որոնք կարող են հետագծել ձեր ակտիվությունը:
+blocklist-description = Ընտրեք { -brand-short-name } ցուցակը, որը օգտագործվում է առցանց վտանգներից խուսափելու համար: Ցուցակները տրված են <a data-l10n-name="disconnect-link" title="Disconnect"> Անջատել </a>:
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Կապախզել ինձ բազային պաշտպանություն (խորհուրդ է տրվում)
-blocklist-item-moz-std-desc = Թույլատրել որոշ հետագծումներ, որպեսզի կայքը նորմալ աշխատի:
-blocklist-item-moz-full-name = Կապախզել խիստ պաշտպանությունը:
-blocklist-item-moz-full-desc = Արգելափակում է հայտնի հետագծիչները: Որոշ կայքեր, հնարավոր է, նորմալ չաշխատեն:
+blocklist-item-moz-std-listName = 1-ին մակարդակի արգելափակման ցուցակ (Խորհուրդ է տրվում)։
+blocklist-item-moz-std-description = Թույլ է տալիս որոշ հետևումներ, որպեսզի ավելի քիչ կայքեր կոտրվեն:
+blocklist-item-moz-full-listName = 2-րդ մակարդակի արգելափակման ցուցակ:
+blocklist-item-moz-full-description = Արգելափակում է բոլոր հայտնաբերված վտանգները: Որոշ վեբ կայքեր կամ բովանդակություն կարող են չբեռնվել պատշաճ կերպով:

@@ -5,5 +5,7 @@
 fxa-pair-device-dialog =
     .title = Կապակցել այլ սարքի
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-heading-phase1 = 1. Եթե դուք դեռևս չունեք, ներբեռնեք <a data-l10n-name="connect-another-device">Firefox-ը ձեր շարժական սարքում</a>։
+fxa-qrcode-heading-phase2 = 2. Հետո Մուտք գորքեք  { -sync-brand-short-name }, կամ Android-ում պատկերահանելու զուգավորման կոդը { -sync-brand-short-name } կարգավորումների ներսից։
 fxa-qrcode-error-title = Զույգումը չհաջողվեց:
 fxa-qrcode-error-body = Կրկին փորձել

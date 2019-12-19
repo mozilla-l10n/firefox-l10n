@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Բացառություններ՝ բովանդակության արգելափակում
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Դուք անջատել եք բովանդակության արգելափակումը այս կայքերի համար:
+permissions-exceptions-etp-window =
+    .title = Բացառություններ հաետագծման պաշտապանությունը կատարելագրծելու համար։
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Դուք անջատել եք այս կայքերի պաշտպանությունը։
 
 ## Exceptions - Cookies
 
@@ -101,9 +105,14 @@ permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վ
 permissions-exceptions-autoplay-media-window2 =
     .title = Բացառություններ՝  Ինքնանվագարկում
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Դուք կարող եք բնորոշել, թե որ վեբ կայքերն են միշտ կամ երբևէ թույլատրել ձայնով ինքնանվագարկման միջավայր։ Գրե՛ք այն էջի հասցեն որը դուք ուզում եք կառավարել և հետո սեղմե՛ք Արգելափակել կամ Թույլատրել։
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Կարգավորումներ - Ինքնանվագարկում
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Կարող եք կառավարել էջերը, որոնք չեն հետևում ձեր լռելյայն ինքնանվագարկման կարգավորումներին։
 
 ## Site Permissions - Notifications
 
@@ -124,6 +133,12 @@ permissions-site-location-desc = Հետևյալ կայքերը հայցել են
 permissions-site-location-disable-label =
     .label = Արգելափակել ձեր տեղադրությունը մատչելու նոր հարցումները
 permissions-site-location-disable-desc = Սա կկանխի ցանկում չնշված ցանկացած կայքի կողմից ձեր տեղադրությունը մատչելու հարցումը: Ձեր տեղադրության հարցման արգելփակաումը կարող է ընդհատել կայքի որոշ յուրահատկությունները:
+
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Կարգավորումներ - թվացյալ իրականության թույլտվություններ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 

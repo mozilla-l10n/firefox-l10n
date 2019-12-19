@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Սկսել
 onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
 onboarding-welcome-body = Դուք ունեք զննարկիչ: <br/> Ծանոթացեք { -brand-product-name } -ի մնացած մասի հետ:
 onboarding-welcome-learn-more = Իմացեք ավելին առավելությունների մասին:
+onboarding-welcome-modal-get-body = Դուք ունեք զննարկիչը։<br/>Հիմա ստացեք առավելագույնը { -brand-product-name }-ից։
 onboarding-welcome-modal-supercharge-body = Գերազանցեք ձեր գաղտնիության պաշտպանությունը։
 onboarding-welcome-modal-privacy-body = Դուք ունեք զննարկիչ։ եկեք ավելացնենք ավելի շատ գաղտնիության պաշտպանություն։
 onboarding-welcome-modal-family-learn-more = Իմացեք { -brand-product-name } ապրանքների ընտանիքի մասին։
@@ -52,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Վերցրեք { -brand-product-name } ձեզ հետ
 onboarding-sync-welcome-content = Ստացեք ձեր էջանիծերը, պատմությունը, գաղտնաբառերը և այլ կարգավորումներ ձեր բոլոր սարքերում:
 onboarding-sync-welcome-learn-more-link = Իմանալ ավելին Firefox Հաշիվների մասին
-onboarding-sync-form-invalid-input = Անհրաժեշտ է վավեր էլ․ փոստ
-onboarding-sync-legal-notice = Շարունակելով, դուք համաձայն եք <a data-l10n-name="terms"> Ծառայությունների Ժամկետի </a> և <a data-l10n-name="privacy"> Գաղտնիության Ծանուցման </a> հետ:
 onboarding-sync-form-input =
     .placeholder = Էլ. փոստ
 onboarding-sync-form-continue-button = Շարունակել
@@ -119,6 +118,34 @@ onboarding-browse-privately-text = Գաղտնի զննարկումը մաքրո�
 onboarding-browse-privately-button = Բացել գաղտնի պատուհան
 onboarding-firefox-send-title = Ձեր Տարածած ֆայլերը պահե՛ք Գաղտնի։
 onboarding-firefox-send-text2 = Վերբեռնե՛ք ձեր նիշքերը { -send-brand-name } դրանք վերջապես ծածկագրելու և ինքնաբերաբար ավարտվող հղման հետ համօգտագործելու համար:
+onboarding-firefox-send-button = Փորձե՛ք { -send-brand-name }
+onboarding-mobile-phone-title = Ունեցե՛ք { -brand-product-name }-ը Ձեր Հեռախոսում
+onboarding-mobile-phone-text = Ներբեռնե՛ք { -brand-product-name }-ը iOS- ի կամ Android- ի համար և համաժամեցրե՛ք ձեր տվյալները սարքերում:
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Ներբեռնել բջջային զննարկիչ
+onboarding-send-tabs-title = Անմիջապես ինքներդ ուղարկեք Ձեզ ներդիրները
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Ներդիրների անմիջապես ուղարկումը տարածում է էջերը ձեր սարքերի միջև առանց պատճենելու, տեղադրելու կամ զննիչը լքելու։
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Հեշտությամբ տարածեք էջերը Ձեր սարքերի միջև առանց հղումները պատճենելու կամ զննարկիչը լքելու։
+onboarding-send-tabs-button = Սկսեք օգտագործել ներդիրների ուղարկումը
+onboarding-pocket-anywhere-title = Ամեն դեպքում կարդալ և լսել
+onboarding-pocket-anywhere-text2 = Պահպանեք ձեր նախընտրած բովանդակությունն անցանց ռեժիմով՝{ -pocket-brand-name } ծրագրով և կարդացեք, լսեք և դիտեք, երբ դա ձեր համար հարմար է։
+onboarding-pocket-anywhere-button = Փորձեք { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
+onboarding-lockwise-passwords-text2 = Ապահով պահեք ձեր գաղտնաբառերը և հեշտությամբ մուտք գործեք ձեր հաշիվներ { -lockwise-brand-name } ֊ի օգնությամբ։
+onboarding-lockwise-passwords-button2 = Ստանալ հավելվածը
+onboarding-lockwise-strong-passwords-title = Ստեղծեք և պահեք լավ գաղտնաբառեր
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }-ը միանգամից ստեղծում է լավ գաղտնաբառեր և պահում դրանք մեկ տեղում։
+onboarding-lockwise-strong-passwords-button = Ձեր մուտքանունների կառավարում։
+onboarding-facebook-container-title = Սահմանե՛ք սահմաններ Facebook-ի հետ
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } ձեր հատկագիրը զերծ է պահում մնացած ամեն ինչից, ավելի դժվար է դարձնում Facebook-ի համար ձեզ գովազդով թիրախավորելը։
+onboarding-facebook-container-button = Ավելացնել ընդլայնում
+onboarding-import-browser-settings-title = Ներածեք Ձեր էջանիշերը, գաղտնաբառերը և ավելին
+onboarding-import-browser-settings-button = Ներածել Chrome-ի տվյալները
 
 ## Message strings belonging to the Return to AMO flow
 
