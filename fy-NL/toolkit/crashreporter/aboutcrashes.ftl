@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Ungelokrapporten
-clear-all-reports-label = Alle rapporten fuortsmite
+submit-all-button-label = Alles yntsjinje
 delete-button-label = Alles wiskje
 delete-confirm-title = Binne jo wis?
-delete-confirm-description = Dit sil alle rapporten fuortsmite en kin net ûngedien makke wurde
 delete-unsubmitted-description = Dit sil alle net-ferstjoerde ûngelokrapporten fuortsmite en kin net ûngedien makke wurde
 delete-submitted-description = Dit sil de list fan ferstjoerde ûngelokrapporten fuortsmite, mar net de ferstjoerde gegevens. Dit kin net ûngedien makke wurde.
 crashes-unsubmitted-label = Net ynstjoerde ûngelokrapporten
