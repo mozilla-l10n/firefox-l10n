@@ -24,13 +24,25 @@ features-title = Caracteristicas de { -brand-short-name }
 features-name = Nombre
 features-version = Versión
 features-id = ID
+processes-title = Procesos remotos
+processes-type = Tipo
+processes-count = Cuenta
 app-basics-title = Configuración basica de l'aplicación
 app-basics-name = Nombre
 app-basics-version = Versión
 app-basics-build-id = Construir ID
 app-basics-update-channel = Esviellar a Canal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Directorio d'actualizacions
+       *[other] Carpeta d'actualizacions
+    }
 app-basics-update-history = Historial d'actualizacions
 app-basics-show-update-history = Amostrar l'historial d'actualizacions
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binario de l'aplicación
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Directorio de perfil
@@ -44,8 +56,12 @@ app-basics-memory-use = Uso de memoria
 app-basics-performance = Rendimiento
 app-basics-service-workers = Service Workers rechistraus
 app-basics-profiles = Perfils
+app-basics-launcher-process-status = Proceso de lanzamiento
 app-basics-multi-process-support = Finestras multiproceso
+app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Politicas d'interpresa
+app-basics-location-service-key-google = Clau d'o servicio de plazamiento de Google
+app-basics-safebrowsing-key-google = Clau d'o servicio de navegación segura de Google
 app-basics-key-mozilla = Clau d'o servicio de plazamiento de Mozilla
 app-basics-safe-mode = Modo seguro
 show-dir-label =
@@ -71,6 +87,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Rechistro de decisions
 graphics-crash-guards-title = Caracteristicas Crash Guard desactivadas
 graphics-workarounds-title = Solucions temporals
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocolo de finestra
 place-database-title = Base de datos de puestos
 place-database-integrity = Integridat
 place-database-verify-integrity = Verificar Integridat
@@ -114,8 +132,11 @@ media-device-format = Formato
 media-device-channels = Canals
 media-device-rate = Freqüencia
 media-device-latency = Latencia
+media-capabilities-title = Capacidatz multimedia
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerar la base de datos
 
-##
+
 
 intl-title = Internacionalización & localización
 intl-app-title = Achustes d'aplicación
@@ -126,6 +147,22 @@ intl-locales-default = Locale per defecto
 intl-os-title = Sistema operativo
 intl-os-prefs-system-locales = Locales d'o sistema
 intl-regional-prefs = Preferencias rechionals
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Debug a distancia (protocolo Chromium)
+remote-debugging-accepting-connections = Se son acceptando las connexions
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -181,6 +218,8 @@ hardware-h264 = Decodificación Hardware H264
 main-thread-no-omtc = filo principal, no OMTC
 yes = Sí
 no = No
+unknown = Desconoixiu
+virtual-monitor-disp = Pantalla de monitor virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -188,12 +227,15 @@ no = No
 
 found = Trobau
 missing = Falta
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descripción
 gpu-vendor-id = ID d'o fabricante
 gpu-device-id = ID d'o dispositivo
 gpu-subsys-id = Subsys ID
 gpu-drivers = Controladors
 gpu-ram = RAM
+gpu-driver-vendor = Casa d'o driver
 gpu-driver-version = Versión d'o controlador
 gpu-driver-date = Calendata d'o controlador
 gpu-active = Activo
@@ -221,11 +263,13 @@ d3d9video-crash-guard = Decodificador de video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Meter propiedatz por defecto en o siguient reinicio.
 gpu-process-kill-button = Rematar proceso GPU
+gpu-device-reset = Reinicio d'o driver
 gpu-device-reset-button = Reinicio d'o dispositivo activador
 uses-tiling = Fa servir mosaicos
 content-uses-tiling = Fa servir mosaicos (conteniu)
 off-main-thread-paint-enabled = S'ha activau lo Painting difuera d'o filo d'execución principal
 off-main-thread-paint-worker-count = Numero de workers de pintura defuera d'o filo principal
+target-frame-rate = Freqüencia d'imachens deseyada
 min-lib-versions = S'asperaba una versión minima
 loaded-lib-versions = Versión en uso
 has-seccomp-bpf = Seccomp-BPF (Filtrau de Clamadas a o Sistema)
@@ -239,6 +283,11 @@ effective-content-sandbox-level = Nivel efectivo d'a zona de prebatinas d'os pro
 sandbox-proc-type-content = conteniu
 sandbox-proc-type-file = conteniu d'o fichero
 sandbox-proc-type-media-plugin = plugin multimedia
+sandbox-proc-type-data-decoder = descodificador de datos
+launcher-process-status-0 = Activau
+launcher-process-status-1 = Desactivau per causa d'un fallo
+launcher-process-status-2 = Desactivau forzadament
+launcher-process-status-unknown = Estau desconoixiu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

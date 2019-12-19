@@ -65,6 +65,9 @@ login-intro-heading = Yes mirando los inicios de sesión que has alzaus? Configu
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
 login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la sesión dende lo dispositivo an que tiens alzaus los inicios de sesión
+login-intro-instruction-fxa-settings = Asegura-te de que has triau la casilla de selección Inicios de sesión en os achustes de { -sync-brand-short-name }
+about-logins-intro-instruction-help = Pa obtener mas aduya, visita l' <a data-l10n-name="help-link">asistencia de { -lockwise-brand-short-name }</a>.
+about-logins-intro-import = Si los inicios de sesión s'han alzau en belatro ordinador, puetz <a data-l10n-name="import-link">importar-los en { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -96,12 +99,18 @@ login-item-time-used = Zaguer uso: { DATETIME($timeUsed, day: "numeric", month: 
 
 ## Master Password notification
 
+master-password-notification-message = Escribe la clau mayestra pa veyer los inicios de sesión y claus alzaus
 master-password-reload-button =
     .label = Iniciar sesión
     .accesskey = I
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Quiers acceder a los tuyos inicios de sesión astí an que usas { -brand-product-name }? Ves ta las Opcions de { -sync-brand-short-name } y marca la caixeta de selección Inicios de sesión.
+       *[other] Quiers acceder a los tuyos inicios de sesión astí an que usas { -brand-product-name }? Ves ta las Preferencias de { -sync-brand-short-name } y marca la caixeta de selección Inicios de sesión.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -136,3 +145,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Ya existe una dentrada pa { $loginTitle } con ixe nombre d'usuario. <a data-l10n-name="duplicate-link">Quirs ir ta la dentrada existent?</a>
+# This is a generic error message.
+about-logins-error-message-default = S'ha produciu una error quan se miraba d'alzar esta clau.
