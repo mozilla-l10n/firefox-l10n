@@ -7,25 +7,25 @@
 <!ENTITY emailWizard.title               "გამართეთ თქვენი არსებული ელფოსტის მისამართი">
 <!ENTITY emailWizard.caption             "გამოიყენეთ თქვენი არსებული ელფოსტის მისამართი">
 <!ENTITY name.label                      "თქვენი სახელი:">
-<!ENTITY name.accesskey                  "n">
+<!ENTITY name.accesskey                  "ს">
 <!ENTITY name.placeholder                "სახელი გვარი">
 <!ENTITY fullname.placeholder            "თქვენი სრული სახელი">
 <!ENTITY name.text                       "სახელი, რომლებსაც სხვები დაინახავენ">
 <!ENTITY name.error                      "გთხოვთ მიუთითოთ თქვენი სახელი">
 <!ENTITY email.label                     "ელფოსტის მისამართი:">
-<!ENTITY email.accesskey                 "l">
+<!ENTITY email.accesskey                 "ე">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "სახელი@example.com">
 <!ENTITY email3.placeholder              "თქვენი ელფოსტის მისამართი">
 <!ENTITY email.text                      "თქვენი მიმდინარე ელფოსტის მისამართი">
 <!ENTITY email.error                     "ელფოსტის არასწორი მისამართი">
 <!ENTITY password.label                  "პაროლი:">
-<!ENTITY password.accesskey              "P">
+<!ENTITY password.accesskey              "პ">
 <!ENTITY password.placeholder            "პაროლი">
 <!ENTITY password.text                   "სურვილისამებრ, გამოიყენება მხოლოდ სახელის ამოსაცნობად">
 <!ENTITY password.toggle                 "პაროლის გამოჩენა/დამალვა">
 <!ENTITY rememberPassword.label          "პაროლის დამახსოვრება">
-<!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY rememberPassword.accesskey      "ვ">
 <!ENTITY usernameEx.label                "თქვენი შესვლის მონაცემები:">
 <!ENTITY usernameEx.accesskey            "შ">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -65,11 +65,11 @@
 <!ENTITY exchange-hostname.label         "Exchange-სერვერი:">
 
 <!ENTITY advancedSetup.label             "სრულად გამართვა">
-<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY advancedSetup.accesskey         "გ">
 <!ENTITY cancel.label                    "გაუქმება">
-<!ENTITY cancel.accesskey                "a">
+<!ENTITY cancel.accesskey                "უ">
 <!ENTITY continue.label                  "გარძელება">
-<!ENTITY continue.accesskey              "C">
+<!ENTITY continue.accesskey              "ძ">
 <!ENTITY stop.label                      "შეწყვეტა">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
@@ -77,9 +77,9 @@
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "ხელახლა შემოწმება">
-<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY half-manual-test.accesskey      "წ">
 <!ENTITY manual-edit.label               "ხელით გამართვა">
-<!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-edit.accesskey           "ხ">
 <!ENTITY manual-config.label             "ხელით გამართვა…">
 <!ENTITY manual-config.accesskey         "ხ">
 <!ENTITY open-provisioner.label          "ელფოსტის ახალი მისამართის მიღება…">
@@ -97,19 +97,19 @@
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "ვაცნობიერებ რისკს.">
-<!ENTITY confirmWarning.accesskey        "u">
+<!ENTITY confirmWarning.label            "ვაცნობიერებ საფრთხეებს.">
+<!ENTITY confirmWarning.accesskey        "ვ">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY doneAccount.label               "მზადაა">
-<!ENTITY doneAccount.accesskey           "D">
+<!ENTITY doneAccount.accesskey           "მ">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
 <!ENTITY changeSettings.label            "პარამეტრების შეცვლა">
-<!ENTITY changeSettings.accesskey        "S">
+<!ENTITY changeSettings.accesskey        "პ">
 
 <!ENTITY contactYourProvider.description "&brandShortName; პროგრამა საშუალებას მოგცემთ ისარგებლოთ ელფოსტის ამ ანგარიშით, თუმცა მკაცრად რეკომენდებულია მიმართოთ და აცნობოთ ადმინს ან ელფოსტის პროვაიდერს ამ კავშირის არცთუ უსაფრთხო პარამეტრების შესახებ. დაწვრილებით იხილეთ Thunderbird FAQ.">
 

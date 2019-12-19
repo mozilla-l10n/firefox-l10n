@@ -2,15 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "ახალი სტატიების შემოწმება სეანსის დაწყებისას">
-<!ENTITY loginAtStartup.accesskey      "C">
 <!ENTITY biffAll.label                 "განახლებების ჩართვა, ყველა არხისთვის">
 <!ENTITY biffAll.accesskey             "ჩ">
 
 <!ENTITY newFeedSettings.label         "ნაგულისხმევი პარამეტრები, სიახლეების არხებისთვის">
 
 <!ENTITY manageSubscriptions.label     "ხელმოწერათა მართვა…">
-<!ENTITY manageSubscriptions.accesskey "M">
+<!ENTITY manageSubscriptions.accesskey "წ">
 
 <!ENTITY feedWindowTitle.label         "არხის ანგარიშის მეგზური">
 <!ENTITY feeds.accountName             "ბლოგები და სიახლეთა არხები">

@@ -7,19 +7,19 @@
 <!ENTITY accountManagerTitle.label "ფოსტისა და ჯგუფების ანგარიშის პარამეტრები">
 
 <!ENTITY accountActionsButton.label "ქმედებები ანგარიშებზე">
-<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY accountActionsButton.accesskey "ნ">
 <!ENTITY addMailAccountButton.label "საფოსტო ანგარიშის დამატება…">
-<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addMailAccountButton.accesskey "დ">
 <!ENTITY addIMAccountButton.label "სასაუბროს ანგარიშის დამატება…">
-<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addIMAccountButton.accesskey "ს">
 <!ENTITY addFeedAccountButton.label "არხის ანგარიშის დამატება…">
-<!ENTITY addFeedAccountButton.accesskey "F">
+<!ENTITY addFeedAccountButton.accesskey "ხ">
 <!ENTITY addOtherAccountButton.label "სხვა ანგარიშის დამატება…">
-<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY addOtherAccountButton.accesskey "ვ">
 <!ENTITY setDefaultButton.label "მითითება როგორც ძირითადი">
-<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY setDefaultButton.accesskey "მ">
 <!ENTITY removeButton.label "ანგარიშის მოცილება">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "მ">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

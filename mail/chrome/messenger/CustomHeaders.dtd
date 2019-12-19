@@ -4,8 +4,8 @@
 
 <!ENTITY window.title "თავსართების შერჩევა">
 <!ENTITY addButton.label "დამატება">
-<!ENTITY addButton.accesskey "A">
+<!ENTITY addButton.accesskey "დ">
 <!ENTITY removeButton.label "მოცილება">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "მ">
 <!ENTITY newMsgHeader.label "წერილის ახალი თავსართი:">
-<!ENTITY newMsgHeader.accesskey "N">
+<!ENTITY newMsgHeader.accesskey "ხ">

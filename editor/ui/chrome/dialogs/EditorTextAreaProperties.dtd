@@ -12,7 +12,7 @@
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "სვეტები:">
 <!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "მხოლოდ კითხვადი">
+<!ENTITY TextAreaReadOnly.label "მხოლოდ წასაკითხი">
 <!ENTITY TextAreaReadOnly.accessKey "O">
 <!ENTITY TextAreaDisabled.label "ამორთულია">
 <!ENTITY TextAreaDisabled.accessKey "D">

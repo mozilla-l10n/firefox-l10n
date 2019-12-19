@@ -30,51 +30,8 @@
 <!ENTITY abSearchHeading.accesskey   "რ">
 <!ENTITY propertiesButton.label      "პარამეტრები">
 <!ENTITY propertiesButton.accesskey  "პ">
-<!ENTITY composeButton.label         "მიწერა">
+<!ENTITY composeButton.label         "შედგენა">
 <!ENTITY composeButton.accesskey     "დ">
 <!ENTITY deleteCardButton.label      "წაშლა">
 <!ENTITY deleteCardButton.accesskey  "წ">
 <!ENTITY abSearchDialogTitle.label   "დეტალური ძიება წიგნაკში">
-
-<!-- Thread Pane -->
-<!ENTITY threadColumn.label "მიმოწერა">
-<!ENTITY fromColumn.label "გამგზავნი">
-<!ENTITY recipientColumn.label "მიმღები">
-<!ENTITY correspondentColumn.label "გამომგზავნები">
-<!ENTITY subjectColumn.label "თემა">
-<!ENTITY dateColumn.label "თარიღი">
-<!ENTITY priorityColumn.label "პრიორიტეტი">
-<!ENTITY tagsColumn.label "ჭდე">
-<!ENTITY accountColumn.label "ანგარიში">
-<!ENTITY statusColumn.label "მდგომარეობა">
-<!ENTITY sizeColumn.label "ზომა">
-<!ENTITY junkStatusColumn.label "ჯართად მიჩნეული">
-<!ENTITY unreadColumn.label "წასაკითხი">
-<!ENTITY totalColumn.label "სულ">
-<!ENTITY readColumn.label "წაკითხული">
-<!ENTITY receivedColumn.label "მიღებულია">
-<!ENTITY starredColumn.label "ალამი">
-<!ENTITY locationColumn.label "მისამართი">
-<!ENTITY idColumn.label "მიღების რიგი">
-
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "სვეტების შერჩევა საჩვენებლად">
-<!ENTITY threadColumn2.tooltip "მიმოწერის ჩვენება">
-<!ENTITY fromColumn2.tooltip "გამომგზავნის მიხედვით">
-<!ENTITY recipientColumn2.tooltip "მიმღების მიხედვით">
-<!ENTITY correspondentColumn2.tooltip "გამომგზავნების მიხედვით">
-<!ENTITY subjectColumn2.tooltip "თემის მიხედვით">
-<!ENTITY dateColumn2.tooltip "თარიღის მიხედვით">
-<!ENTITY priorityColumn2.tooltip "უპირატესობის მიხედვით">
-<!ENTITY tagsColumn2.tooltip "ჭდეების მიხედვით">
-<!ENTITY accountColumn2.tooltip "ანგარიშის მიხედვით">
-<!ENTITY statusColumn2.tooltip "მდგომარეობის მიხედვით">
-<!ENTITY sizeColumn2.tooltip "ზომის მიხედვით">
-<!ENTITY junkStatusColumn2.tooltip "ჯართად მიჩნეულის მიხედვით">
-<!ENTITY unreadColumn2.tooltip "წასაკითხი წერილების რაოდენობა მიმოწერაში">
-<!ENTITY totalColumn2.tooltip "წერილების საერთო რაოდენობა მიმოწერაში">
-<!ENTITY readColumn2.tooltip "წაკითხულის მიხედვით">
-<!ENTITY receivedColumn2.tooltip "მიღების თარიღის მიხედვით">
-<!ENTITY starredColumn2.tooltip "ვარსკვლავის მიხედვით">
-<!ENTITY locationColumn2.tooltip "მდებარეობის მიხედვით">
-<!ENTITY idColumn2.tooltip "მიღების თანმიმდევრობით">
