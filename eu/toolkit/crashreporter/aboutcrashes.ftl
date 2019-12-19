@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Hutsegite-txostenak
-clear-all-reports-label = Ezabatu txosten guztiak
+submit-all-button-label = Bidali dena
 delete-button-label = Garbitu dena
 delete-confirm-title = Ziur zaude?
-delete-confirm-description = Txosten guztiak ezabatuko dira eta ezin da desegin
 delete-unsubmitted-description = Bidali gabeko txosten guztiak ezabatuko dira eta ekintza ezin da desegin.
 delete-submitted-description = Bidalitako txostenen zerrenda ezabatuko du honek baina bidalitako datuak ez dira ezabatuko. Ekintza hau ezin da desegin.
 crashes-unsubmitted-label = Bidali gabeko hutsegite-txostenak

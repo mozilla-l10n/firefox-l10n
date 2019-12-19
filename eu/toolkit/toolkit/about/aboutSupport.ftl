@@ -158,6 +158,7 @@ intl-regional-prefs = Eskualdeko hobespenak
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = Urruneko arazketa (Chromium protokoloa)
+remote-debugging-accepting-connections = Konexioak onartzen
 remote-debugging-url = URLa
 
 
