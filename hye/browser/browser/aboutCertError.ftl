@@ -30,3 +30,14 @@ cert-error-domain-mismatch-single = Կայքերը ապացուցում են ի�
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Կայքերը ապացուցում են իրենց ինքնութիւնը հաւաստագրերի միջոցով։ { -brand-short-name } չի վստահում այս կայքին, որովհետեւ այն աւգտագործում է վկայագիր, որը վաւեր չէ { $hostname }-ի համար։ Վկայագիրը վաւեր է միայն { $alt-name }-ի համար։
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Կայքերը ապացուցում են իրենց ինքնութիւնը հաւաստագրերի միջոցով։ { -brand-short-name } չի վստահում այս կայքին, որովհետեւ այն աւգտագործում է վկայագիր, որը վաւեր չէ { $hostname }-ի համար։ Հաւաստագիրը վաւեր է միայն հետեւեալ անունների համար՝ { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Կայքերը ապացուցում են իրենց ինքնութիւնը վկայականների միջոցով, որոնք վաւեր են սահմանուած ժամանակահատուածի համար։ { $hostname } վկայագիրը { $not-after-local-time } սպառուել է։
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Կայքերը ապացուցում են իրենց ինքնութիւնը վկայականների միջոցով, որոնք վաւեր են սահմանուած ժամանակահատուածի համար։ { $hostname } վկայագիրը վաւեր չի լինի մինչեւ { $not-before-local-time }։
