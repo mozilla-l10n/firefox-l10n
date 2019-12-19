@@ -4,7 +4,7 @@
 
 about-private-browsing-learn-more = Իմացեք ավելին՝<a data-l10n-name="learn-more">Գաղտնի Դիտարկում</a>.
 about-private-browsing-info-visited = այցելած էջերը
-privatebrowsingpage-open-private-window-label = Սկսել Գաղտնի դիտարկում
+privatebrowsingpage-open-private-window-label = Բացել Գաղտնի պատուհան
     .accesskey = Գ
 about-private-browsing-info-notsaved = Երբ դիտարկում եք Գաղտնի Պատուհանով, { -brand-short-name }-ը <strong>չի պահի</strong>:
 about-private-browsing-search-placeholder = Որոնել առցանց

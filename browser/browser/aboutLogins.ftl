@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Որոնել մուտքագրումներ
 create-login-button = Ստեղծել նոր մուտքագրում
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon { $title }
 fxaccounts-sign-in-text = Ստացեք ձեր գաղտնաբառերը ձեր մյուս սարքերում
 fxaccounts-sign-in-button = Մուտք գործել { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -56,14 +51,11 @@ login-list-last-changed-option = Վերջին փոփոխության
 login-list-last-used-option = Վերջին օգտագործման
 login-list-intro-title = Մուտքագրումներ չկան
 login-list-intro-description = Երբ պահպանում եք գաղտնաբառը { -brand-product-name }-ում, այն կցուցադրվի այստեղ:
-about-logins-login-list-empty-search-title = Մուտքեր չեն գտնուել
+about-logins-login-list-empty-search-title = Մուտքեր չեն գտնվել
 about-logins-login-list-empty-search-description = Որոնման հետ համընկնում չկա։
 login-list-item-title-new-login = Նոր մուտքագրում
 login-list-item-subtitle-new-login = Նշեք մուտքագրման տվյալները
 login-list-item-subtitle-missing-username = (չկա օգտվողի անուն)
-about-logins-list-item-warning-icon =
-    .alt = Զգուշացման պատկերակ
-    .title = Վնասված վեբ կայք
 about-logins-list-item-breach-icon =
     .title = Խախտված կայք
 
@@ -75,12 +67,14 @@ login-intro-description = Եթե պահպանել եք ձեր մուտքագրո
 login-intro-instruction-fxa = Ստեղծեք կամ մուտք գործեք { -fxaccount-brand-name } այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են
 login-intro-instruction-fxa-settings = Համոզվեք, որ ընտրել եք ձեր Մուտքագրումների նշատուփը { -sync-brand-short-name }-ի կարգավորումներում:
 about-logins-intro-instruction-help = Լրացուցիչ օգնության համար այցելեք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } աջակցել</a>։
+about-logins-intro-import = Եթե ձեր մուտքանունները այլ զննարկիչում են պահպանված, դուք կարող եք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
 
 ## Login
 
 login-item-new-login-title = Ստեղծել նոր մուտքագրում
 login-item-edit-button = Խմբագրել
 login-item-delete-button = Ջնջել
+about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցեն
 login-item-origin =
     .placeholder = https://www.example.com
@@ -110,11 +104,8 @@ master-password-reload-button =
     .label = Մուտք գործել
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Չեղարկել
-confirmation-dialog-dismiss-button =
-    .title = Չեղարկել
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Ձեզ պետք են ձեր գաղտնաբառերը, որտեղ որ օգտագործում եք { -brand-product-name }-ը: Անցեք ձեր { -sync-brand-short-name }-ի ընտրանքներին և ընտրեք Մուտքագրումներ նշատուփը:
@@ -128,8 +119,19 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = Ջնջե՞լ այս մուտքագրումը
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Այլևս չհարցնել
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Չեղարկել
+confirmation-dialog-dismiss-button =
+    .title = Չեղարկել
+about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողությունը չի կարող ետարկվել:
 confirm-delete-dialog-confirm-button = Ջնջել
+about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
 confirm-discard-changes-dialog-title = Վերանայե՞լ չփրկված փոփոխությունները:
 confirm-discard-changes-dialog-message = Բոլոր չպահպանված փոփոխությունները կկորչեն:
 confirm-discard-changes-dialog-confirm-button = Մերժել
@@ -137,17 +139,12 @@ confirm-discard-changes-dialog-confirm-button = Մերժել
 ## Breach Alert notification
 
 breach-alert-text = Այս կայքի գաղտնաբառերը արտահոսք են կամ գողացել են այն բանից հետո, երբ վերջին անգամ թարմացրել եք ձեր մուտքի տվյալները: Փոխեք ձեր գաղտնաբառը ՝ ձեր հաշիվը պաշտպանելու համար:
-breach-alert-link = Իմանալ ավելին
+breach-alert-link = Իմանալ ավելին այս խախտման մասին։
 breach-alert-dismiss =
     .title = Փակել այս ահազանգը
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = { $loginTitle }-ի համար այդ անունը արդեն գոյություն ունի։
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

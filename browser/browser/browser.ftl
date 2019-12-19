@@ -56,6 +56,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Բացել հաղորդագրության վահանակը
 urlbar-geolocation-notification-anchor =
     .tooltiptext = ԲԱցել տեղադրության հարցման վահանակը
+urlbar-xr-notification-anchor =
+    .tooltiptext = Բացեք թվացյալ իրականության թույլտվության վահանակը
 urlbar-storage-access-anchor =
     .tooltiptext = Բացեք զննող գործունեության թույլտվության վահանակը
 urlbar-translate-notification-anchor =
@@ -82,6 +84,8 @@ urlbar-tip-help-icon =
     .title = Ստանալ օգնություն
 urlbar-geolocation-blocked =
     .tooltiptext = Դուք արգելափակել եք տեղադրության տեղեկությունը այս կայքի համար:
+urlbar-xr-blocked =
+    .tooltiptext = Դուք արգելափակել եք թվացյալ իրականության սարքի մատչումը այս կայքի համար։
 urlbar-web-notifications-blocked =
     .tooltiptext = Դուք արգելափակել եք ծանուցումները այս կայքի համար:
 urlbar-camera-blocked =
@@ -94,10 +98,14 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Դուք արգելափակել եք մշտական պահեստը այս կայքի համար:
 urlbar-popup-blocked =
     .tooltiptext = Դուք ունեք արգելափակված ելնող պատուհաններ այս կայքում:
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Դուք այս կայքի համար արգելափակել եք ինքնանվագարկվող ձայնային մեդիան։
 urlbar-canvas-blocked =
     .tooltiptext = Դուք արգելափակել եք canvas տվյալների դուրս բերումը այս կայքի համար:
 urlbar-midi-blocked =
     .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին:
+urlbar-install-blocked =
+    .tooltiptext = Դուք այս կայքի համար արգելափակել եք հավելասարքի բեռնումը։
 
 ## Page Action Context Menu
 
@@ -140,5 +148,13 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Ցուցադրել խմբագրիչում, երբ պահպանվում է
+    .accesskey = S
 bookmark-panel-done-button =
     .label = Պատրաստ է
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
