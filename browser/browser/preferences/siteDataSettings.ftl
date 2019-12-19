@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Almagazenamiento
 site-data-column-last-used =
     .label = Feito servir per zaguer vegada
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (fichero local)
 site-data-remove-selected =
     .label = Borrar los seleccionaus
     .accesskey = B
@@ -31,8 +33,10 @@ site-data-button-save =
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Persistent)
+site-storage-usage =
+    .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (Permanent)
 site-data-remove-all =
     .label = Borrar-lo tot
     .accesskey = r
@@ -42,8 +46,6 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Borrar
