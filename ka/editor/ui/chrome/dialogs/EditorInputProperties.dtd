@@ -31,8 +31,8 @@
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "თავიდანვე შერჩეული">
 <!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "მხოლოდ კითხვადი">
-<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputReadOnly.label "მხოლოდ წასაკითხი">
+<!ENTITY InputReadOnly.accesskey "კ">
 <!ENTITY InputDisabled.label "გაუქმებული">
 <!ENTITY InputDisabled.accesskey "D">
 <!ENTITY tabIndex.label "ინდექსი:">
@@ -42,7 +42,7 @@
 <!ENTITY TextLength.label "მაქსიმალური სიგრძე:">
 <!ENTITY TextLength.accesskey "L">
 <!ENTITY AccessKey.label "კლავიში:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "კ">
 <!ENTITY Accept.label "დასაშვები სახეობები:">
 <!ENTITY Accept.accesskey "დ">
 
