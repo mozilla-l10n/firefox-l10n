@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Wowaleńske rozpšawy
-clear-all-reports-label = Wšykne rozpšawy wótpóraś
+submit-all-button-label = Wšykne wótpósłaś
 delete-button-label = Wšykne wulašowaś
 delete-confirm-title = Sćo wěsty?
-delete-confirm-description = To buźo wšykne rozpšawy lašowaś a njedajo se anulěrowaś.
 delete-unsubmitted-description = To wšykne njepósłane wowaleńske rozpšawy wulašujo a njedajo se anulěrowaś.
 delete-submitted-description = To lisćinu wótpósłanych wowaleńskich rozpšawow wótwónoźijo, ale njewulašujo wotpósłane daty. To njedajo se anulěrowaś.
 crashes-unsubmitted-label = Njewótpósłane wowaleńske rozpšawy
