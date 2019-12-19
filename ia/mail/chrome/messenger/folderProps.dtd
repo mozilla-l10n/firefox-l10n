@@ -17,7 +17,9 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retentionUseAccount.label  "Usar le parametros de mi conto">
+<!ENTITY daysOld.label "dies">
 <!ENTITY message.label "messages">
+<!ENTITY retentionCleanup.label "Pro recuperar spatio del disco, vetere message pote ser delite permanentemente.">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisation">
 <!ENTITY folderCheckForNewMessages2.label         "Quando se recipe nove messages pro iste conto, sempre controlar iste dossier">
