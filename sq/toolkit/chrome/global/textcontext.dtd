@@ -29,10 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Jepni Kredenciale Hyrjeje">
 <!ENTITY fillLoginMenu.accesskey      "J">
-<!ENTITY fillSuggestedPassword.label  "Përdorni një Fjalëkalim të Sugjeruar">
-<!ENTITY fillSuggestedPassword.accesskey "K">
 <!ENTITY fillGeneratedPassword.label  "Përdor një Fjalëkalim të Prodhuar Në Mënyrë të Sigurt">
 <!ENTITY fillGeneratedPassword.accesskey "S">
+<!ENTITY useGeneratedPassword.label   "Përdorni një Fjalëkalim të Prodhuar Në Mënyrë të Sigurt…">
+<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Jepni Fjalëkalimin">
 <!ENTITY fillPasswordMenu.accesskey   "J">
 <!ENTITY fillUsernameMenu.label       "Jepni Emër Përdoruesi">
