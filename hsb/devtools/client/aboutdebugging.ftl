@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Profilowy wukon
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Konfiguracija wašeho wobhladowaka ze service workers kompatibelna njeje. <a>Dalše informacije</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Zwjazany wobhladowak ma staru wersiju ({ $runtimeVersion }). Podpěrana minimalna wersija je ({ $minVersion }). To je njepodpěrana konfiguracija a móže zawinować, zo wuwiwarske nastroje njefunguja. Prošu aktualizujće zwjazany wobhladowak. <a>Rozrisanje problemow</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Zwjazany wobhladowak ma staru wersiju 
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Polo pytanja zmylkow snano ze zwjazanym wobhladowakom njefunguje. Prošu wužiwajće Firefox { $runtimeVersion }, jeli dyrbiće pytanje zmylkow z tutym wobhladowakom.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -305,6 +305,11 @@ about-debugging-main-process-name = Hłowny proces
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Hłowny proces za cilowy wobhladowak
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Multiprocesowy gratowy kašćik
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Hłowny proces a wobsahowe procesy za cilowy wobhladowak
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zdźělenku začinić
