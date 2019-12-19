@@ -87,7 +87,7 @@ main-context-menu-save-link =
     .label = Uložit odkaz jako…
     .accesskey = U
 main-context-menu-save-link-to-pocket =
-    .label = Uložit odkaz do služby { -pocket-brand-name }
+    .label = Uložit odkaz do { -pocket-brand-name(case: "gen") }
     .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Pozastavit
     .accesskey = P
 
-##
+
 
 main-context-menu-media-mute =
     .label = Vypnout zvuk
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Skrýt ovládání
     .accesskey = o
 
-##
+
 
 main-context-menu-media-video-fullscreen =
     .label = Celá obrazovka
@@ -227,7 +227,7 @@ main-context-menu-plugin-hide =
     .label = Skrýt zásuvný modul
     .accesskey = S
 main-context-menu-save-to-pocket =
-    .label = Uložit stránku do služby { -pocket-brand-name }
+    .label = Uložit stránku do { -pocket-brand-name(case: "gen") }
     .accesskey = k
 main-context-menu-send-to-device =
     .label = Poslat stránku do zařízení
