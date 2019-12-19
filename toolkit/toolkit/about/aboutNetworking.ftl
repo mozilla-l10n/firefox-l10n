@@ -16,6 +16,7 @@ auto-refresh = Berritu automatikoki 3 segundoro
 hostname = Ostalari-izena
 port = Ataka
 http2 = HTTP/2
+about-networking-http-version = HTTP bertsioa
 ssl = SSL
 active = Aktibo
 idle = Inaktibo
