@@ -177,6 +177,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
+<!ENTITY xfoBlocked.title "Bllokuar nga Rregulla mbi X-Frame-Options">
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë kontekst, ngaqë faqja ka një rregull  X-Frame-Options që s’e lejon.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">

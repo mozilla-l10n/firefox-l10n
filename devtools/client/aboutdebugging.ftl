@@ -307,6 +307,8 @@ about-debugging-main-process-name = Procesi Kryesor
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Proces Kryesor për shfletuesin e synuar
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Procesi Kryesor dhe Procese Lënde për shfletuesin e synuar
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mbylle mesazhin

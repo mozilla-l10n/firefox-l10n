@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po p�
 ## Containers Section
 
 containers-back-link = « Shkoni Mbrapsht
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Mbrapsht te Mundësitë
+           *[other] Mbrapsht te Parapëlqimet
+        }
 containers-header = Skeda Kontejneri
 containers-add-button =
     .label = Shtoni Kontejner të Ri
@@ -968,6 +974,10 @@ permissions-location = Vendndodhje
 permissions-location-settings =
     .label = Rregullime…
     .accesskey = r
+permissions-xr = Realitet Virtual
+permissions-xr-settings =
+    .label = Rregullime…
+    .accesskey = R
 permissions-camera = Kamerë
 permissions-camera-settings =
     .label = Rregullime…
@@ -1016,6 +1026,8 @@ permissions-a11y-privacy-link = Mësoni më tepër
 collection-header = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
 collection-description = Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar { -brand-short-name }-in për këdo. Kërkojmë përherë leje përpara se të marrim të dhëna personale.
 collection-privacy-notice = Shënim Mbi Privatësinë
+collection-health-report-telemetry-disabled = S’e lejoni më { -vendor-short-name } të marrë të dhëna teknike dhe ndërveprimesh. Krejt të dhënat e dikurshme do të fshihen brenda 30 ditësh.
+collection-health-report-telemetry-disabled-link = Mësoni më tepër
 collection-health-report =
     .label = Lejojeni { -brand-short-name }-in të dërgojë të dhëna teknike dhe ndërveprimi te { -vendor-short-name }
     .accesskey = L

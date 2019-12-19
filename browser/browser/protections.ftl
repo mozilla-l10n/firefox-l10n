@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Po njëkohësohet te { $count } pajisje të tjera
     }
 lockwise-sync-not-syncing-devices = S’po njëkohësohet te pajisje të tjera
+manage-connected-devices = Administroni pajisje…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] I lidhur me { $count } pajisje
+       *[other] I lidhur me { $count } pajisje
+    }
 monitor-title = Shihni për cenime të dhënash
 monitor-link = Si funksionon
 monitor-header-content-no-account = Kontrolloni me { -monitor-brand-name } që të shihni nëse keni qenë prekur nga një cenim i ditur të dhënash, dhe merrni sinjalizime mbi cenime të reja.
