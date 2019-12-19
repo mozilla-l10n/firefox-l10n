@@ -41,6 +41,7 @@ graph-today = Dnes
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Graf s celkovým počtom všetkých typov sledovacích prvkov, ktoré boli tento týždeň zablokované.
 social-tab-title = Sledovacie prvky sociálnych sietí
+social-tab-contant = Sociálne siete umiestňujú na webové stránky sledovacie prvky, ktoré sledujú, čo na internete robíte. Toto umožňuje spoločnostiam, ktoré tieto sociálne médiá vlastnia dozvedieť sa o vás viac ako to, čo zdieľate na svojich profiloch. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 cookie-tab-title = Sledovacie cookies
 tracker-tab-title = Sledovací obsah
 fingerprinter-tab-title = Odtlačok prehliadača
