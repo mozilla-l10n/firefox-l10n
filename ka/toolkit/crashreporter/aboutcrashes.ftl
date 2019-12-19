@@ -2,7 +2,13 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = უეცარი გათიშვების მოხსენებები
+submit-all-button-label = ყველას გადაგზავნა
 delete-button-label = ყველას წაშლა
 delete-confirm-title = დარწმუნებული ხართ?
 delete-unsubmitted-description = შედეგად წაიშლება ყველა გადაუგზავნელი მოხსენება და ვეღარ აღდგება.
