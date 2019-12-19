@@ -154,7 +154,7 @@ permissions-site-location-disable-desc = Dette vil forhindre websteder, der ikke
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = Settings - Tilladelser for virtual reality
+    .title = Indstillinger - Tilladelser for virtual reality
     .style = { permissions-window.style }
 permissions-site-xr-desc = De følgende websteder har anmodet om adgang til dine virtual reality-enheder. Du kan angive, hvilke websteder, der må have adgang til dine virtual reality-enheder. Du kan også blokere nye anmodninger om adgang til dine virtual reality-enheder.
 permissions-site-xr-disable-label =
