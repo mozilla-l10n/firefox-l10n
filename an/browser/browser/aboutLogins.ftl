@@ -61,7 +61,10 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
+login-intro-heading = Yes mirando los inicios de sesión que has alzaus? Configura { -sync-brand-short-name }
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
+login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
+login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la sesión dende lo dispositivo an que tiens alzaus los inicios de sesión
 
 ## Login
 
