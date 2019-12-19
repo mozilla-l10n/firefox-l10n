@@ -60,8 +60,8 @@ lockwise-no-logins-content = Eskuratu <a data-l10n-name="lockwise-inline-link">{
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored =
     { $count ->
-        [one] Pasahitza modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
-       *[other] Pasahitzak modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
+        [one] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
+       *[other] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
     }
 turn-on-sync = Aktibatu { -sync-brand-short-name }…
     .title = Joan sinkronizatzeko hobespenetara
