@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Profil performansı
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Tarayıcı yapılandırmanız Service Worker’larla uyumlu değil. <a>Daha fazla bilgi alın</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Bağlı tarayıcının sürümü eski ({ $runtimeVersion }). Desteklenen en eski sürüm { $minVersion }. Bu kurulum desteklenmiyor ve Geliştirici Araçlarının düzgün çalışmasını engelleyebilir. Lütfen bağlı tarayıcıyı güncelleyin. <a>Sorun giderme</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Bağlı tarayıcının sürümü eski 
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Hata ayıklayıcı paneli bağlı tarayıcıyla çalışmayabilir. Bu tarayıcıyla hata ayıklayıcıyı kullanmak istiyorsanız lütfen Firefox { $runtimeVersion } sürümünü kullanın.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -305,6 +305,11 @@ about-debugging-main-process-name = Ana işlem
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Hedef tarayıcının ana işlemi
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Çok işlemli araç kutusu
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Hedef tarayıcı için ana işlem ve içerik işlemleri
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mesajı kapat

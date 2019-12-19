@@ -2,7 +2,13 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Çökme Raporları
+submit-all-button-label = Hepsini gönder
 delete-button-label = Hepsini temizle
 delete-confirm-title = Emin misiniz?
 delete-unsubmitted-description = Bu işlem tüm gönderilmemiş çökme rapolarını silecektir. İşlem geri alınamaz.
