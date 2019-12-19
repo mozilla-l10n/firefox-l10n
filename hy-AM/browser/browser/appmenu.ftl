@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Պաշտպանության զեկույց
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Անցնել գաղտնիության զեկույցին
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Խոշորացնել
+appmenuitem-zoom-reduce =
+    .label = Փոքրացնել
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
