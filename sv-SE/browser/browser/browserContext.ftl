@@ -12,9 +12,9 @@ navbar-tooltip-instruction =
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Gå bakåt en sida
-    .aria-label = Bakåt
-    .accesskey = B
+    .tooltiptext = Gå tillbaka en sida
+    .aria-label = Tillbaka
+    .accesskey = b
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -81,8 +81,8 @@ main-context-menu-open-link-new-private-window =
     .label = Öppna länk i nytt privat fönster
     .accesskey = i
 main-context-menu-bookmark-this-link =
-    .label = Lägg till bokmärke för länkmål
-    .accesskey = L
+    .label = Bokmärk den här länken
+    .accesskey = l
 main-context-menu-save-link =
     .label = Spara länk som…
     .accesskey = m
@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Pausa
     .accesskey = s
 
-##
+
 
 main-context-menu-media-mute =
     .label = Ljud av
@@ -126,8 +126,8 @@ main-context-menu-media-play-speed =
     .label = Uppspelningshastighet
     .accesskey = U
 main-context-menu-media-play-speed-slow =
-    .label = långsam (0.5×)
-    .accesskey = l
+    .label = Långsam (0.5×)
+    .accesskey = L
 main-context-menu-media-play-speed-normal =
     .label = Normal
     .accesskey = N
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Dölj kontroller
     .accesskey = k
 
-##
+
 
 main-context-menu-media-video-fullscreen =
     .label = Helskärm
@@ -212,8 +212,8 @@ main-context-menu-audio-save-as =
     .label = Spara ljud som…
     .accesskey = o
 main-context-menu-video-image-save-as =
-    .label = Spara ögonblicksbild som…
-    .accesskey = ö
+    .label = Spara skärmbild som
+    .accesskey = s
 main-context-menu-video-email =
     .label = E-posta video…
     .accesskey = E
@@ -257,7 +257,7 @@ main-context-menu-frame-reload =
     .label = Uppdatera ram
     .accesskey = U
 main-context-menu-frame-bookmark =
-    .label = Lägg till bokmärke för ram
+    .label = Bokmärk den här ramen
     .accesskey = r
 main-context-menu-frame-save-as =
     .label = Spara ram som…
