@@ -37,6 +37,22 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name }-ը iPhone-ի եւ iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Մուտքագրումների համապատասխանութեան որոնման հարցում
+login-list-count =
+    { $count ->
+        [one] { $count } մուտքագրում
+       *[other] { $count } մուտքագրումներ
+    }
+login-list-sort-label-text = Տեսակաւարել ըստ՝
+login-list-name-option = Անուան (Ա-Ֆ)
+login-list-breached-option = Խախտուած կայքեր
+login-list-last-changed-option = Վերջին փոփոխութեան
+login-list-last-used-option = Վերջին աւգտագործման
+login-list-intro-title = Մուտքագրումներ չկան
+login-list-intro-description = Երբ պահպանում եք գաղտնաբառը { -brand-product-name }-ում, այն կցուցադրուի այստեղ։
+about-logins-login-list-empty-search-title = Մուտքեր չեն գտնուել
+about-logins-login-list-empty-search-description = Որոնման հետ համընկնում չկա։
 
 ## Introduction screen
 
