@@ -177,6 +177,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam k
 newtab-pocket-read-more = Tema Popullore:
 newtab-pocket-more-recommendations = Më Tepër Rekomandime
 newtab-pocket-how-it-works = Si funksionon
+newtab-pocket-whats-pocket = Ç’është { -pocket-brand-name }?
 newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
 newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni, dhe ushqejeni mendjen me lexime të mahnitshme.
 
