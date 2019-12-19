@@ -361,7 +361,7 @@
 <!ENTITY calendarproperties.refreshInterval.label          "კალენდრის განახლება:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "ხელით">
 <!ENTITY calendarproperties.name.label                     "სახელი:">
-<!ENTITY calendarproperties.readonly.label                 "მხოლოდ კითხვადი">
+<!ENTITY calendarproperties.readonly.label                 "მხოლოდ წასაკითხი">
 <!ENTITY calendarproperties.firealarms.label               "შეხსენებათა ჩვენება">
 <!ENTITY calendarproperties.cache3.label                   "ბუფერიზაცია">
 <!ENTITY calendarproperties.enabled.label                  "ამ კალენდრის ჩართვა">
