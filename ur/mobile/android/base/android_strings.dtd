@@ -284,6 +284,7 @@
 <!ENTITY pref_cookies_menu "کوکیاں">
 <!ENTITY pref_cookies_accept_all "اہل">
 <!ENTITY pref_cookies_not_accept_foreign "اہل، ماسوائے تیسرے فریق">
+<!ENTITY pref_cookies_not_accept_trackers "فعال شدہ، ٹریکنگ کوکیز خارج ہو رہے ہیں">
 <!ENTITY pref_cookies_disabled "نااہل">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
