@@ -41,3 +41,17 @@ cert-error-expired-now = Կայքերը ապացուցում են իրենց ի�
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Կայքերը ապացուցում են իրենց ինքնութիւնը վկայականների միջոցով, որոնք վաւեր են սահմանուած ժամանակահատուածի համար։ { $hostname } վկայագիրը վաւեր չի լինի մինչեւ { $not-before-local-time }։
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Սխալի կոդ՝ <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Կայքերը ապացուցում են իրենց ինքնութիւնը վկայականների միջոցով, որոնք թողարկուում են հաւաստագրման մարմինների կողմից։ Զննարկիչների մեծ մասը այլեւս չի վստահում GeoTrust-ի, RapidSSL-ի, Symantec-ի, Thawte-ի եւ VeriSign-ի կողմից թողարկած վկայագրերին։ { $hostname }-ը աւգտագործում է վկայագիր այս իշխանութիւններից որեւէ մեկի կողմից, ուստի կայքի ինքնութիւնը չի կարող ապացուցուել։
+cert-error-symantec-distrust-admin = Այս խնդրի մասին կարող եք տեղեկացնել կայքի համակարգաւարին։
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP խիստ փոխանցման անվտանգութիւն՝ { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning՝ { $hasHPKP }
+cert-error-details-cert-chain-label = Վկայագրի նպատակ.

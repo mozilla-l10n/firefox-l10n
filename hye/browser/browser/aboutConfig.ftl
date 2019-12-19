@@ -15,6 +15,7 @@ about-config-search-input =
 
 about-config-intro-warning-title = Շարունակեք զգուշութեամբ
 about-config-intro-warning-text = Կազմաձեւի առաջատար նախապատուութիւնների փոփոխումը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգութեան վրա:
+about-config-intro-warning-checkbox = Զգուշացրեք ինձ, երբ ես փորձում եմ մուտք գործել այս նախընտրութիւններ
 about-config-intro-warning-button = Ընդունել վտանգը եւ շարունակել
 
 
