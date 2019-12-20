@@ -252,6 +252,40 @@ menu-tools-layout-debugger =
 
 menu-window-menu =
     .label = Պատուհան
+menu-window-bring-all-to-front =
+    .label = Բոլորն առաջ բերել
 
 ## Help Menu
 
+menu-help =
+    .label = Աւգնութիւն
+    .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name }-ի Աւգնութիւն
+    .accesskey = H
+menu-help-show-tour =
+    .label = Շրջայց { -brand-shorter-name }-ի հետ
+    .accesskey = o
+menu-help-keyboard-shortcuts =
+    .label = Ստեղնաշարի պիտակներ
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = Անսարքութեան տեղեկատուութիւն
+    .accesskey = T
+menu-help-feedback-page =
+    .label = Հաստատման արձագանք…
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = Վերամեկնարկել՝ անջատելով հաւելումները…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Վերամեկնարկել՝ միացնելով հաւելումները
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = Զեկուցել խաբուսիկ կայքի մասին…
+    .accesskey = D
+menu-help-not-deceptive =
+    .label = Սա խաբուսիկ կայք չէ…
+    .accesskey = d
