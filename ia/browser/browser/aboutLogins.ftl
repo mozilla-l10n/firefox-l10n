@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Cercar credentiales
 create-login-button = Crear nove credentiales
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon pro{ $title }
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-button = Aperir session a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Le recerca non ha producite r
 login-list-item-title-new-login = Nove credentiales
 login-list-item-subtitle-new-login = Insere le credentiales de accesso
 login-list-item-subtitle-missing-username = (nulle nomine de usator)
-about-logins-list-item-warning-icon =
-    .alt = Icone de aviso
-    .title = Sito web violate
 about-logins-list-item-breach-icon =
     .title = Sito web violate
 
@@ -86,7 +78,7 @@ about-logins-login-item-remove-button = Remover
 login-item-origin-label = Adresse web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-username-label = Nomine del usator
+login-item-username-label = Nomine de usator
 about-logins-login-item-username =
     .placeholder = (nulle nomine de usator)
 login-item-copy-username-button-text = Copiar
@@ -153,11 +145,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Un entrata pro { $loginTitle } con ille nomine de usator existe jam.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
