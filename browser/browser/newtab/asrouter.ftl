@@ -104,8 +104,8 @@ cfr-whatsnew-tracking-protect-link-text = Raporunuzu görün
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] Engellediğimiz takipçi sayısı
-       *[other] Engellediğimiz takipçi sayısı
+        [one] Engellenen takipçi
+       *[other] Engellenen takipçiler
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } tarihinden beri
 cfr-whatsnew-tracking-blocked-link-text = Raporu görüntüle
