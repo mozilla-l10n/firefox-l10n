@@ -118,25 +118,140 @@ menu-view-full-zoom =
 menu-view-full-zoom-enlarge =
     .label = Խոշորացնել
     .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = Փոքրացնել
+    .accesskey = O
+menu-view-full-zoom-reset =
+    .label = Վերակայել
+    .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Իրական չափը
+    .accesskey = A
+menu-view-full-zoom-toggle =
+    .label = Խոշորացնել միայն գրոյթը
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = Էջի ոճ
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = Առանց Ոճի
+    .accesskey = n
+menu-view-page-basic-style =
+    .label = Էջի հիմնական ոճ
+    .accesskey = B
+menu-view-charset =
+    .label = Գրոյթի կոդաւորում
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Լիաէկրան
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = Դուրս գալ լիաէկրան վիճակից
+    .accesskey = F
+menu-view-full-screen =
+    .label = Բացել լիաէկրան
+    .accesskey = F
 
 
 
+menu-view-show-all-tabs =
+    .label = Ցուցադրել բոլոր ներդիրները
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = Փոխել էջի ուղղութիւնը
+    .accesskey = D
 
 ## History Menu
 
+menu-history =
+    .label = Պատմութիւն
+    .accesskey = s
+menu-history-show-all-history =
+    .label = Ցուցադրել ամբողջ պատմութիւնը
+menu-history-clear-recent-history =
+    .label = Մաքրել վերջին պատմութիւնը…
+menu-history-synced-tabs =
+    .label = Համաժամեցուած ներդիրներ
+menu-history-restore-last-session =
+    .label = Վերականգնել նախորդ աշխատաշրջանը
+menu-history-hidden-tabs =
+    .label = Թաքնուած ներդիրներ
+menu-history-undo-menu =
+    .label = Վերջին փակուած ներդիրները
+menu-history-undo-window-menu =
+    .label = Վերջին փակուած պատուհանները
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Էջանիշեր
+    .accesskey = B
+menu-bookmarks-show-all =
+    .label = Ցուցադրել բոլոր էջանիշերը
+menu-bookmarks-all-tabs =
+    .label = Էջանշել բոլոր ներդիրները…
+menu-bookmarks-toolbar =
+    .label = Էջանիշերի վահանակ
+menu-bookmarks-other =
+    .label = Այլ էջանիշեր
+menu-bookmarks-mobile =
+    .label = Բջջային էջանիշեր
 
 ## Tools Menu
 
+menu-tools =
+    .label = Գործիքներ
+    .accesskey = T
+menu-tools-downloads =
+    .label = Ներբեռնումներ
+    .accesskey = D
+menu-tools-addons =
+    .label = Հաւելումներ
+    .accesskey = A
+menu-tools-fxa-sign-in =
+    .label = Մուտք գործել { -brand-product-name }…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Միացնել { -sync-brand-short-name }…
+    .accesskey = n
+menu-tools-sync-now =
+    .label = Համաժամեցնել հիմա
+    .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Վերակապակցուել { -brand-product-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Վեբ ծրագրավորող
+    .accesskey = W
+menu-tools-page-source =
+    .label = Էջի աղբիւր
+    .accesskey = o
+menu-tools-page-info =
+    .label = Տեղեկութիւն էջի մասին
+    .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Կարգաւորումներ
+           *[other] Նախըտրանքներ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Դասաւորութեան վրիպազերծում
+    .accesskey = L
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Պատուհան
 
 ## Help Menu
 
