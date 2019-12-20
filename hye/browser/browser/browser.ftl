@@ -72,15 +72,89 @@ urlbar-translated-notification-anchor =
     .tooltiptext = Կառաւարել էջի թարգմանութիւնը
 urlbar-plugins-notification-anchor =
     .tooltiptext = Կառաւարել բաղադրիչների աւգտագործումը
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Կառաւարել խցիկի եւ/կամ բարձրախաւսի համաւգտագործումը այս կայքի հետ
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Բացեք ինքնաշխատ վահանակը
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Պահել տուեալները Մշտական պահեստում
+urlbar-addons-notification-anchor =
+    .tooltiptext = Բացել հաւելման տեղադրման հաղորդագրութեան վահանակը
+urlbar-tip-help-icon =
+    .title = Ստանալ աւգնութիւն
+urlbar-geolocation-blocked =
+    .tooltiptext = Դուք արգելափակել եք տեղադրութեան տեղեկութիւնը այս կայքի համար։
+urlbar-xr-blocked =
+    .tooltiptext = Դուք արգելափակել եք թուացեալ իրականութեան սարքի մատչումը այս կայքի համար։
+urlbar-web-notifications-blocked =
+    .tooltiptext = Դուք արգելափակել եք ծանուցումները այս կայքի համար։
+urlbar-camera-blocked =
+    .tooltiptext = Դուք արգելափակել եք Ձեր տեսախցիկը այս կայքի համար։
+urlbar-microphone-blocked =
+    .tooltiptext = Դուք արգելափակել եք բարձրախոսը այս կայքի համար։
+urlbar-screen-blocked =
+    .tooltiptext = Դուք արգելափակել եք այս կայքը՝ Ձեր էկրանի համաւգտագործելուց։
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Դուք արգելափակել եք մշտական պահեստը այս կայքի համար։
+urlbar-popup-blocked =
+    .tooltiptext = Դուք ունեք արգելափակուած ելնող պատուհաններ այս կայքում։
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Դուք այս կայքի համար արգելափակել եք ինքնանուագարկուող ձայնային մեդիան։
+urlbar-canvas-blocked =
+    .tooltiptext = Դուք արգելափակել եք canvas տուեալների դուրս բերումը այս կայքի համար։
+urlbar-midi-blocked =
+    .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին։
+urlbar-install-blocked =
+    .tooltiptext = Դուք այս կայքի համար արգելափակել եք հաւելասարքի բեռնումը։
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Աւելացնել հասցէագաւտում
+page-action-manage-extension =
+    .label = Կառավարել ընդլայնումը…
+page-action-remove-from-urlbar =
+    .label = Հեռացնել հասցէագաւտուց
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Թաքցնել Գործիքագաւտիները
+    .accesskey = H
+full-screen-exit =
+    .label = Դուրս գալ լիաէկրան վիճակից
+    .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Այս անգամ որոնել հետեւեալի հետ.
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Փոխել որոնման կարգաւորումները
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Փոխել որոնման կարգաւորումները
+search-one-offs-context-open-new-tab =
+    .label = Որոնել Նոր Ներդիրում
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = Հաստատել որպէս հիմնական որոնիչ
+    .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Սահմանել որպէս լռելեայն որոնման միջոց անձնական պատուհանների համար
+    .accesskey = P
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Ցուցադրել խմբագրիչում, երբ պահպանուում է
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = Պատրաստ է
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
