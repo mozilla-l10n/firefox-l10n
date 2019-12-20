@@ -62,6 +62,8 @@
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Հասցե.">
 <!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Քաղաք.">
 <!ENTITY HomeCity.accesskey             "y">
 <!ENTITY HomeState.accesskey            "S">
@@ -89,6 +91,8 @@
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Հասցե.">
 <!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Քաղաք.">
 <!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.accesskey            "S">

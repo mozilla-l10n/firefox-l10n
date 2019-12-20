@@ -7,6 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Ազատ տեղ ունենալու համար նամակների բեռնումը սպասարկիչից և տեղային օրինակների պահումը՝ ցանցից դուրս օգտ. համար կարող է սահմանափակել ըստ ժամկետի կամ չափի։">
 <!ENTITY allFoldersOffline2.label "Պահել բոլոր փոստարկղների նամակները այս համակարգչում">
 <!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Նշում. Փոփոխությունը ազդում է այս հաշվի բոլոր պանակների վրա: Անհատական պանակներ տեղադրելու համար օգտագործեք Ընդլայնված… կոճակը:">
 <!ENTITY offlineNotDownload.label "Նամակներ, որոնք մեծ են՝">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Չներբեռնել նամակներ, որոնք մեծ են՝">
