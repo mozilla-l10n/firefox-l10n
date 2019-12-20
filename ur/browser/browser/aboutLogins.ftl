@@ -46,6 +46,7 @@ login-list-last-changed-option = آخری بار ترمیم کردہ
 login-list-last-used-option = آخری استعمال
 login-list-intro-title = کوئی لاگ ان نہیں ملا
 about-logins-login-list-empty-search-title = کوئی لاگ ان نہیں ملا
+about-logins-login-list-empty-search-description = آپ کی تلاش سے مماثل کوئی نتائج نہیں مل رہے ہیں۔
 login-list-item-title-new-login = نیا لاگ ان
 login-list-item-subtitle-new-login = لاگ ان کی سندیں درج کریں۔
 login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
