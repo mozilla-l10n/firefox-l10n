@@ -57,9 +57,9 @@
 <!ENTITY bottomLinks.privacy        "Politica de confidentialitate">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Recerca de actualisationes…">
+<!ENTITY update.checkingForUpdates  "Cercante actualisationes…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; es actualisate">
+<!ENTITY update.noUpdatesFound      "&brandShortName; es actual">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Actualisationes disactivate per le administrator de tu systema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
