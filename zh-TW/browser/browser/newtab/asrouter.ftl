@@ -190,7 +190,7 @@ cfr-doorhanger-cryptominers-description = 您的隱私相當重要。{ -brand-sh
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-       *[other] 從 { $date } 起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
+       *[other] 從 { $date }起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
     }
 cfr-doorhanger-milestone-ok-button = 檢視全部
     .accesskey = S
