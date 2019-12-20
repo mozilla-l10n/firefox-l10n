@@ -110,6 +110,14 @@ menu-view-bookmarks =
     .label = Էջանիշեր
 menu-view-history-button =
     .label = Պատմութիւն
+menu-view-synced-tabs-sidebar =
+    .label = Համաժամեցուած ներդիրներ
+menu-view-full-zoom =
+    .label = խոշորացնել
+    .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = Խոշորացնել
+    .accesskey = I
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
