@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Správy o zlyhaní
-clear-all-reports-label = Odstrániť všetky správy
+submit-all-button-label = Odoslať všetky
 delete-button-label = Odstrániť všetky
 delete-confirm-title = Určite?
-delete-confirm-description = Týmto odstránite všetky správy o zlyhaní. Akciu nie je možné vrátiť späť.
 delete-unsubmitted-description = Týmto odstránite všetky neodoslané správy o zlyhaní. Akciu nie je možné vrátiť späť.
 delete-submitted-description = Týmto odstránite zoznam odoslaných správ o zlyhaní, no nie odoslané údaje. Akciu nie je možné vrátiť späť.
 crashes-unsubmitted-label = Neodoslané správy o zlyhaní

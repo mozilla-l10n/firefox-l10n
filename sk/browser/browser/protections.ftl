@@ -43,9 +43,12 @@ graph-legend-description = Graf s celkovým počtom všetkých typov sledovacíc
 social-tab-title = Sledovacie prvky sociálnych sietí
 social-tab-contant = Sociálne siete umiestňujú na webové stránky sledovacie prvky, ktoré sledujú, čo na internete robíte. Toto umožňuje spoločnostiam, ktoré tieto sociálne médiá vlastnia dozvedieť sa o vás viac ako to, čo zdieľate na svojich profiloch. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 cookie-tab-title = Sledovacie cookies
+cookie-tab-content = Tieto cookies slúžia na vaše sledovanie naprieč webovými stránkami a zber údajov o tom, čo na internete robíte. Používajú ich tretie strany, ako sú reklamné systémy alebo analytické spoločnosti. Blokovanie sledovacích cookies tretích strán obmedzuje množstvo reklám, ktoré vás sledujú. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 tracker-tab-title = Sledovací obsah
+tracker-tab-description = Webové stránky môžu načítať externé reklamy a ďalší obsah, ktorý obsahuje sledovací kód. Po zablokovaní sledovacieho obsahu sa stránky načítajú rýchlejšie, ale niektoré tlačidlá alebo formuláre nemusia správne fungovať. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 fingerprinter-tab-title = Odtlačok prehliadača
 cryptominer-tab-title = Ťažba kryptomien
+cryptominer-tab-content = Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu a spomaľujú váš počítač. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 lockwise-title = Už žiadne zabudnuté heslá
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bezpečne uchováva vaše heslá vo vašom prehliadači.
@@ -75,9 +78,46 @@ lockwise-sync-status =
     }
 lockwise-sync-not-syncing-devices = Synchronizácia s ďalšími zariadeniami nie je nastavená
 manage-connected-devices = Spravovať zariadenia…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Prepojené s { $count } ďalším zariadením
+        [few] Prepojené s { $count } ďalšími zariadeniami
+       *[other] Prepojené s { $count } ďalšími zariadeniami
+    }
 monitor-title = Pozor na úniky dát
 monitor-link = Ako to funguje
+monitor-header-content-no-account = { -monitor-brand-name } skontroluje, či boli vaše údaje súčasťou nejakého známeho úniku dát a upozorní vás, ak sa vyskytnú v nejakom novom.
+monitor-header-content-signed-in = { -monitor-brand-name } vás upozorní, ak sa vaše údaje objavia v známom úniku dát.
 monitor-sign-up = Prihláste sa na odber upozornení
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Počet sledovaných e-mailových adries
+        [few] Počet sledovaných e-mailových adries
+       *[other] Počet sledovaných e-mailových adries
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Počet známych únikov dát, ktoré obsahujú vaše údaje
+        [few] Počet známych únikov dát, ktoré obsahujú vaše údaje
+       *[other] Počet známych únikov dát, ktoré obsahujú vaše údaje
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Počet vašich uniknutých hesiel
+        [few] Počet vašich uniknutých hesiel
+       *[other] Počet vašich uniknutých hesiel
+    }
 full-report-link = Pozrite si úplnú správu v službe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
@@ -87,3 +127,11 @@ full-report-link = Pozrite si úplnú správu v službe <a data-l10n-name="monit
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cryptominer =
+    .title = Ťažba kryptomien
+    .aria-label =
+        { $count ->
+            [one] Jeden pokus o ťažbu kryptomien
+            [few] { $count } pokusy o ťažbu kryptomien
+           *[other] { $count } pokusov o ťažbu kryptomien
+        } ({ $percentage }%)
