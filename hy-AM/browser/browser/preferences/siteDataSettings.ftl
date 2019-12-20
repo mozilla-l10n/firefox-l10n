@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Կառավարել Cookie-ները և կայքի տվյալները
+site-data-settings-description = Հետևյալ կայքերը պահում են տվյալներ ձեր համակարգչում: { -brand-short-name }-ը պահում է տվյալները կայքերից մշտական պահեստում՝ մինչև դուք կջնջեք դրանք: Ապա՝ ջնջում է տվյալները կայքերի ոչ մշտական պահեստից՝ տեղ ազատելու համար:
 site-data-search-textbox =
     .placeholder = Որոնել կայքեր
     .accesskey = S
@@ -18,6 +19,8 @@ site-data-column-storage =
     .label = Պահեստը
 site-data-column-last-used =
     .label = Վերջինը
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (տեղային նիշք)
 site-data-remove-selected =
     .label = Հեռացնել ընտրվածը
     .accesskey = Հ
@@ -32,6 +35,8 @@ site-data-button-save =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (Մշտական)
 site-data-remove-all =
     .label = Հեռացնել բոլորը
     .accesskey = ե
