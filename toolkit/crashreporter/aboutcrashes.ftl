@@ -4,6 +4,7 @@
 
 crash-reports-title = Fejlrapporter
 
+submit-all-button-label = Indsend alle
 delete-button-label = Slet alle
 delete-confirm-title = Er du sikker?
 delete-unsubmitted-description = Dette vil slette alle ikke-sendte fejlrapporter og kan ikke fortrydes.
