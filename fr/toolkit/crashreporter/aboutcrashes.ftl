@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Rapports de plantage
-clear-all-reports-label = Supprimer tous les rapports
+submit-all-button-label = Tout envoyer
 delete-button-label = Tout supprimer
 delete-confirm-title = Confirmation
-delete-confirm-description = Ceci supprimera tous les rapports irrémédiablement.
 delete-unsubmitted-description = Cette action irréversible supprimera tous les rapports de plantage non envoyés.
 delete-submitted-description = Cela va supprimer la liste des rapports de plantage envoyés mais ne supprimera pas les données envoyées. Cette action est irréversible.
 crashes-unsubmitted-label = Rapports de plantage non envoyés
