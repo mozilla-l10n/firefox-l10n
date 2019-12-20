@@ -5,9 +5,9 @@
 <!ENTITY windowTitle.label "Գույնը">
 <!ENTITY lastPickedColor.label "Վերջին նշված գույնը">
 <!ENTITY lastPickedColor.accessKey "Վ">
-<!ENTITY setColor1.label "Սեղմեք գույնի վրա կամ՝">
-<!ENTITY setColor2.label "նշել HTML գույնային տող">
-<!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Ընտրել գույն">
+<!ENTITY chooseColor2.label "Մուտքագրել HTML գունային տող">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "օրինակ՝ &quot;#0000ff&quot; կամ &quot;blue&quot;).">
 <!ENTITY default.label "Ծրագրային">
 <!ENTITY default.accessKey "Ծ">
