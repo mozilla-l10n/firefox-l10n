@@ -32,7 +32,7 @@
 <!ENTITY runtimeMenu_accesskey "A">
 <!ENTITY runtimeMenu_disconnect_label "Disconnecter se">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_takeScreenshot_label "Instantaneo del schermo">
+<!ENTITY runtimeMenu_takeScreenshot_label "Captura de schermo">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "I">
 <!ENTITY runtimeMenu_showDetails_label "Informationes sur le ambiente de execution">
 <!ENTITY runtimeMenu_showDetails_accesskey "n">

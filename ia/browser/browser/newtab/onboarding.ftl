@@ -93,8 +93,8 @@ onboarding-benefit-lockwise-text = Gere tu contrasignos de maniera protegite e p
 
 onboarding-private-browsing-title = Navigation private
 onboarding-private-browsing-text = Naviga solitarimente. Le navigation private con blocage de contento bloca le traciatores in linea que te seque a transverso le web.
-onboarding-screenshots-title = Instantaneos
-onboarding-screenshots-text = Captura, salva e comparti instantaneos - sin lassar { -brand-short-name }. Captura un region o un pagina integre durante que tu naviga. Pois salva lo al web pro facile accesso e compartimento.
+onboarding-screenshots-title = Capturas de schermo
+onboarding-screenshots-text = Prende, salva e comparti capturas de schermo – sin quitar { -brand-short-name }. Captura un region o un pagina integre durante que tu naviga. Pois salva lo al web pro acceder e compartir facilemente.
 onboarding-addons-title = Additivos
 onboarding-addons-text = Adde ancora plus functionalitates que face { -brand-short-name } travaliar pro te. Compara precios, consulta le meteo, o exprime tu personalitate con un thema personalisate.
 onboarding-ghostery-title = Ghostery

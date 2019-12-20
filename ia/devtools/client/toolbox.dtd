@@ -158,17 +158,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
-<!ENTITY options.screenshot.label            "Comportamento del capturas de instantaneos de schermo">
+<!ENTITY options.screenshot.label            "Comportamento de capturas de schermo">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 <!ENTITY options.screenshot.clipboard.label      "Capturar schermo in area de transferentia">
-<!ENTITY options.screenshot.clipboard.tooltip    "Salva le captura del schermo directemente in le area de transferentia">
+<!ENTITY options.screenshot.clipboard.tooltip    "Salva le captura de schermo directemente in le area de transferentia">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Sonar un ruito de obturator de camera">
-<!ENTITY options.screenshot.audio.tooltip    "Activa le sono de un obturator de camera quando captura un instantaneo">
+<!ENTITY options.screenshot.audio.tooltip    "Activa le sono de un obturator de camera quando se prende un captura de schermo">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
