@@ -25,6 +25,7 @@
 <!ENTITY firstrun_sync_message2 "Жұмысты қалдырған жерінен жалғастырыңыз.">
 <!ENTITY firstrun_sync_subtext2 "Синхрондау көмегімен сіз барлық құрылғыларыңызда &brandShortName; ішінде сақтаған бетбелгілер, парольдер және т.б. нәрселерді табуға болады.">
 <!ENTITY newfirstrun_sync_subtext "Мобильді құрылғыда сақталған нәрселерді жұмыс үстелі Firefox-қа синхрондаңыз, жеке және қауіпсіз түрде.">
+<!ENTITY firstrun_sendtab_title "Бетті жіберу">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; толығырақ қолдану үшін тіркелгіңізге кіріңіз">
 <!ENTITY firstrun_signin_message "Байланысыңыз, бастаңыз">
 <!ENTITY firstrun_signin_button "Синхрондау ішіне кіру">
@@ -33,6 +34,7 @@
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
 <!ENTITY firstrun_button_notnow "Қазір емес">
 <!ENTITY firstrun_button_next "Келесі">
+
 
 <!ENTITY firstrun_tabqueue_title "Сiлтемелер">
 
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Қысқаша атауы">
 <!ENTITY bookmark_select_folder "Буманы таңдау">
-
 <!ENTITY bookmark_edit_undo "Болдырмау">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +876,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Желіден тыс қолжетерлік">
 <!ENTITY helper_triple_readerview_open_message "Оқу тізімінің нәрселерін желіден тыс оқу үшін бетбелгілерге қосыңыз.">
 <!ENTITY helper_triple_readerview_open_button "Бетбелгілерге қосу">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+
 
 <!ENTITY activity_stream_topsites "Үздік сайттар">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
