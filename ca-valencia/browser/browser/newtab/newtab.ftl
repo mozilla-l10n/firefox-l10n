@@ -45,9 +45,6 @@ newtab-topsites-save-button = Guarda
 newtab-topsites-preview-button = Previsualització
 newtab-topsites-add-button = Afig
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Segur que voleu suprimir de l'historial totes les instàncies d'esta pàgina?
@@ -58,14 +55,14 @@ newtab-confirm-delete-history-p2 = Esta acció no es pot desfer.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Òbriga el menú
-    .aria-label = Òbriga el menú
+    .title = Obri el menú
+    .aria-label = Obri el menú
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Òbriga el menú
-    .aria-label = Òbriga el menú contextual de { $title }
+    .title = Obri el menú
+    .aria-label = Obri el menú contextual de { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Edita este lloc
@@ -74,8 +71,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Edita
-newtab-menu-open-new-window = Òbriga en una finestra nova
-newtab-menu-open-new-private-window = Òbriga en una finestra privada nova
+newtab-menu-open-new-window = Obri en una finestra nova
+newtab-menu-open-new-private-window = Obri en una finestra privada nova
 newtab-menu-dismiss = Descarta
 newtab-menu-pin = Fixa
 newtab-menu-unpin = No fixis
@@ -83,14 +80,20 @@ newtab-menu-delete-history = Elimina de l'historial
 newtab-menu-save-to-pocket = Guarda al { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
+newtab-menu-show-privacy-info = Els nostres patrocinadors i la vostra privadesa
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Fet
+newtab-privacy-modal-header = La vostra privadesa és important.
+newtab-privacy-modal-link = Vegeu com funciona la privadesa en la pestanya nova
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Elimina l'adreça d'interés
 # Bookmark is a verb here.
 newtab-menu-bookmark = Afig a les adreces d'interés
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -108,7 +111,7 @@ newtab-menu-show-file =
         [macos] Mostra-ho en el Finder
        *[other] Obre la carpeta on es troba
     }
-newtab-menu-open-file = Òbriga el fitxer
+newtab-menu-open-file = Obri el fitxer
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -120,10 +123,6 @@ newtab-label-removed-bookmark = S'ha eliminat l'adreça d'interés
 newtab-label-recommended = Tendència
 newtab-label-saved = Guardat al { -pocket-brand-name }
 newtab-label-download = Baixat
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

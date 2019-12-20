@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-dialog =
-    .title = Voleu desconnectar-vos del { -sync-brand-short-name }?
+    .title = Voleu desconnectar el { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = També voleu eliminar les dades del navegador d'este ordinador? Les vostres dades del { -sync-brand-name } romandran en el vostre compte.
 sync-disconnect-remove-sync-caption = Elimina les dades del { -sync-brand-name }

@@ -36,8 +36,8 @@ app-basics-update-channel = Canal d'actualitzacions
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Directori d'actualització
-       *[other] Carpeta d'actualització
+        [linux] Directori d'actualitzacions
+       *[other] Carpeta d'actualitzacions
     }
 app-basics-update-history = Historial d'actualitzacions
 app-basics-show-update-history = Mostra l'historial d'actualitzacions
@@ -134,7 +134,7 @@ media-device-rate = Freqüència
 media-device-latency = Latència
 media-capabilities-title = Capacitats multimèdia
 
-##
+
 
 intl-title = Internacionalització i localització
 intl-app-title = Paràmetres de l'aplicació
@@ -145,6 +145,20 @@ intl-locales-default = Llengua per defecte
 intl-os-title = Sistema operatiu
 intl-os-prefs-system-locales = Llengües del sistema
 intl-regional-prefs = Preferències regionals
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

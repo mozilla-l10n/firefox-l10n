@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = Certificat
 
 ## Error messages
 
-certificate-viewer-error-message = No s'ha trobat la informació del certificat o el certificat està malmès. Torneu-ho a provar.
+certificate-viewer-error-message = No s'ha trobat la informació del certificat o el certificat està malmés. Torneu-ho a provar.
 certificate-viewer-error-title = Alguna cosa ha anat malament.
 
 ## Certificate information labels
@@ -20,7 +20,7 @@ certificate-viewer-inc-country = País (empresa)
 certificate-viewer-country = País
 certificate-viewer-curve = Corba
 certificate-viewer-distribution-point = Punt de distribució
-cate-viewer-dns-name = Nom DNS
+certificate-viewer-dns-name = Nom DNS
 certificate-viewer-exponent = Exponent
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grup d'intercanvi de claus
@@ -28,14 +28,14 @@ certificate-viewer-key-id = ID de la clau
 certificate-viewer-key-size = Mida de la clau
 certificate-viewer-locality = Localitat
 certificate-viewer-location = Ubicació
-cate-viewer-logid = ID de registre
+certificate-viewer-logid = ID de registre
 certificate-viewer-method = Mètode
 certificate-viewer-modulus = Mòdul
 certificate-viewer-name = Nom
 certificate-viewer-not-after = No després
 certificate-viewer-not-before = No abans
 certificate-viewer-organization = Organització
-cate-viewer-organizational-unit = Unitat organitzativa
+certificate-viewer-organizational-unit = Unitat organitzativa
 certificate-viewer-policy = Política
 certificate-viewer-protocol = Protocol
 certificate-viewer-public-value = Valor públic
@@ -54,7 +54,7 @@ certificate-viewer-signature-scheme = Esquema de signatura
 certificate-viewer-timestamp = Marca horària
 certificate-viewer-value = Valor
 certificate-viewer-version = Versió
-cate-viewer-business-category = Categoria empresarial
+certificate-viewer-business-category = Categoria empresarial
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixa

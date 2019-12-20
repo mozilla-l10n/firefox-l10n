@@ -29,8 +29,8 @@
 <!ENTITY newWindowCmd.accesskey       "n">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Òbriga un fitxer…">
-<!ENTITY openFileCmd.accesskey        "Ò">
+<!ENTITY openFileCmd.label            "Obri un fitxer…">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Obre allò recent">

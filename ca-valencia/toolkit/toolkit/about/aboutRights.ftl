@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-rights-title = Conegueu els vostres drets
+rights-title = Quant als vostres drets
 rights-intro = El { -brand-full-name } és programari lliure i de codi obert, creat per una comunitat de milers de desenvolupadors d'arreu del món. Hi ha certs punts que caldria que coneguéreu:
 rights-intro-point-1 = El { -brand-short-name } es posa a la vostra disposició sota els termes de la <a data-l10n-name="mozilla-public-license-link">Mozilla Public License (Llicència Pública de Mozilla)</a>. Això significa que podeu utilitzar, copiar i distribuir el { -brand-short-name } a altres. També es permet obertament la modificació del codi font del { -brand-short-name } per tal que s'adeqüi a les vostres necessitats. La Mozilla Public License vos dóna també el dret de distribuir versions modificades.
 rights-intro-point-2 = No s'atorga cap dret ni cap llicència sobre les marques de la Fundació Mozilla, o de cap altra part, incloent-hi sense cap limitació el nom i el logotip del Firefox. Podeu trobar més informació referent a la política de marques <a data-l10n-name="mozilla-trademarks-link">ací</a>.

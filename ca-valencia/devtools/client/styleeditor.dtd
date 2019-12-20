@@ -49,7 +49,7 @@
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
 
-<!ENTITY openLinkNewTab.label     "Òbriga l'enllaç en una pestanya nova">
+<!ENTITY openLinkNewTab.label     "Obri l'enllaç en una pestanya nova">
 <!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
      context menu item that copies a stylesheet's URL -->
 

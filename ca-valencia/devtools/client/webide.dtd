@@ -8,11 +8,11 @@
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Aplicació nova…">
 <!ENTITY projectMenu_newApp_accesskey "n">
-<!ENTITY projectMenu_importPackagedApp_label "Òbriga una aplicació empaquetada…">
+<!ENTITY projectMenu_importPackagedApp_label "Obri una aplicació empaquetada…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "e">
-<!ENTITY projectMenu_importHostedApp_label "Òbriga una aplicació hostatjada…">
+<!ENTITY projectMenu_importHostedApp_label "Obri una aplicació hostatjada…">
 <!ENTITY projectMenu_importHostedApp_accesskey "h">
-<!ENTITY projectMenu_selectApp_label "Òbriga una aplicació…">
+<!ENTITY projectMenu_selectApp_label "Obri una aplicació…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Instal·la i executa">
 <!ENTITY projectMenu_play_accesskey "I">
@@ -52,7 +52,8 @@
 <!ENTITY viewMenu_resetzoom_label "Reinicia el zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
-<!ENTITY projectButton_label "Òbriga una aplicació">
+<!ENTITY projectButton_label "Obri una aplicació">
+
 <!ENTITY runtimeButton_label "Selecciona un entorn d'execució">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -101,7 +102,7 @@
 <!-- Addons -->
 
 <!ENTITY addons_title "Components addicionals">
-<!ENTITY addons_aboutaddons "Òbriga el gestor de complements">
+<!ENTITY addons_aboutaddons "Obri el gestor de complements">
 <!-- Prefs -->
 
 <!ENTITY prefs_title "Preferències">

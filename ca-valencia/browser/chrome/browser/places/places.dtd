@@ -44,16 +44,16 @@
 <!ENTITY cmd.deleteDomainData.label     "Oblida este lloc">
 <!ENTITY cmd.deleteDomainData.accesskey "O">
 
-<!ENTITY cmd.open.label                  "Òbriga">
-<!ENTITY cmd.open.accesskey              "Ò">
-<!ENTITY cmd.open_window.label           "Òbriga en una finestra nova">
+<!ENTITY cmd.open.label                  "Obri">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "Obri en una finestra nova">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Òbriga en una finestra privada nova">
+<!ENTITY cmd.open_private_window.label     "Obri en una finestra privada nova">
 <!ENTITY cmd.open_private_window.accesskey "p">
-<!ENTITY cmd.open_tab.label              "Òbriga en una pestanya nova">
+<!ENTITY cmd.open_tab.label              "Obri en una pestanya nova">
 <!ENTITY cmd.open_tab.accesskey          "t">
-<!ENTITY cmd.open_all_in_tabs.label      "Òbriga-ho tot en pestanyes">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "Ò">
+<!ENTITY cmd.open_all_in_tabs.label      "Obri-ho tot en pestanyes">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "Propietats">
 <!ENTITY cmd.properties.accesskey  "i">

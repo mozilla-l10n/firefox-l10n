@@ -37,7 +37,7 @@
 <!ENTITY captivePortal.title "Inicieu la sessió a la xarxa">
 <!ENTITY captivePortal.longDesc2 "<p>Heu d'iniciar la sessió en esta xarxa per poder accedir a Internet.</p>">
 
-<!ENTITY openPortalLoginPage.label2 "Òbriga la pàgina d'inici de sessió a la xarxa">
+<!ENTITY openPortalLoginPage.label2 "Obri la pàgina d'inici de sessió a la xarxa">
 
 <!ENTITY malformedURI.pageTitle "L'URL no és vàlid">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
@@ -102,10 +102,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Molt probablement, l'error és del lloc web i no hi podeu fer res per resoldre'l. Podeu notificar el problema a l'administrador del lloc web.</p>">
 
-<!ENTITY sharedLongDesc "<ul> <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'ací uns moments.</li> <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.</li> <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el &brandShortName; tinga permís per accedir al web.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'ací a uns moments.</li> <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.</li> <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el &brandShortName; tinga permís per accedir al web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregue d'esta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
+
+<!ENTITY xfoBlocked.title "Blocat per la política X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregue en este context perquè la pàgina té una política X-Frame-Options que no ho permet.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contingut malmés">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
@@ -147,6 +150,9 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Pareix que la configuració actual de seguretat a la xarxa està causant este error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
+
+<!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 es desactivaran permanentment en una pròxima versió.">
+<!ENTITY enableTls10.label "Habilita TLS 1.0 i 1.1">
 
 <!ENTITY networkProtocolError.title "Error del protocol de xarxa">
 <!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error del protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">

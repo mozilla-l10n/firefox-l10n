@@ -16,6 +16,6 @@
 <!ENTITY span.label                 "Expandeix">
 <!ENTITY color.label                "Color:">
 <!ENTITY setDesktopBackground.title "Defineix com a fons d'escriptori">
-<!ENTITY openDesktopPrefs.label     "Òbriga les preferències de l'escriptori">
+<!ENTITY openDesktopPrefs.label     "Obri les preferències de l'escriptori">
 <!ENTITY closeWindow.key            "w">
 <!ENTITY previewUnavailable         "La previsualització no està disponible">

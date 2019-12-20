@@ -59,7 +59,7 @@
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "Òbriga o elimina el fitxer">
+<!ENTITY cmd.chooseOpen.label             "Obri o elimina el fitxer">
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
@@ -71,7 +71,7 @@
      open the file using an app available in the system.
      -->
 
-<!ENTITY openFile.label                   "Òbriga el fitxer">
+<!ENTITY openFile.label                   "Obri el fitxer">
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
@@ -116,7 +116,7 @@
      string was preserved by bug 1362207 to be used in a future version.
      -->
 
-<!ENTITY openDownloadsFolder.label        "Òbriga la carpeta de baixades">
+<!ENTITY openDownloadsFolder.label        "Obri la carpeta de baixades">
 
 <!ENTITY clearDownloadsButton.label       "Buida la llista de baixades">
 <!ENTITY clearDownloadsButton.tooltip     "Elimina de la llista les baixades acabades, cancel·lades o que han fallat">

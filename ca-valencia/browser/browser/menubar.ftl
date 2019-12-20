@@ -24,10 +24,10 @@ menu-file-new-private-window =
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
 menu-file-open-location =
-    .label = Òbriga la ubicació…
+    .label = Obri la ubicació…
 menu-file-open-file =
-    .label = Òbriga un fitxer…
-    .accesskey = f
+    .label = Obri un fitxer…
+    .accesskey = O
 menu-file-close =
     .label = Tanca
     .accesskey = c
@@ -75,7 +75,7 @@ menu-edit-copy =
     .accesskey = C
 menu-edit-paste =
     .label = Apega
-    .accesskey = A
+    .accesskey = x
 menu-edit-delete =
     .label = Suprimeix
     .accesskey = u
@@ -144,7 +144,7 @@ menu-view-charset =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Òbriga a pantalla completa
+    .label = Obri a pantalla completa
     .accesskey = p
 menu-view-exit-full-screen =
     .label = Ix de la pantalla completa
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mostra totes les pestanyes
@@ -285,7 +285,8 @@ menu-help-safe-mode-with-addons =
     .label = Reinicia amb els complements habilitats
     .accesskey = R
 # Label of the Help menu item. Either this or
-# menu-help-notdeceptive is shown.
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Informa que el lloc és maliciós…
     .accesskey = I

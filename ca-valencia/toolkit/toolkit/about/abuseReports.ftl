@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = Informe sobre { $addon-name }
 abuse-report-title-extension = Informeu sobre esta extensió a { -vendor-short-name }
 abuse-report-title-theme = Informeu sobre este tema a { -vendor-short-name }
 abuse-report-subtitle = Quin és el problema?
@@ -71,6 +78,7 @@ abuse-report-broken-suggestions-theme =
     Sembla que heu identificat un error. A més d'enviar un informe aquí, la millor manera de resoldre un problema de funcionalitat és contactar amb el desenvolupador del tema.
     <a data-l10n-name="support-link">Visiteu el lloc web del tema</a> per obtindre la informació del desenvolupador.
 abuse-report-policy-reason = Contingut d'odi, violent o il·legal
+abuse-report-policy-reason-v2 = Inclou contingut d'odi, violent o il·legal
 abuse-report-policy-suggestions =
     Nota: els problemes de propietat intel·lectual i de marca s'han de notificar en un procés independent.
     <a data-l10n-name="report-infringement-link">Utilitzeu estes instruccions</a> per
