@@ -1,28 +1,39 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Help Menu -->
 
+<!-- Help Menu -->
 <!ENTITY helpMenu.label "Օգնություն">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Օգնություն">
 <!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutProduct2.label "&brandShorterName;-ի մասին">
+<!ENTITY aboutProduct2.accesskey "A">
 <!ENTITY helpTroubleshootingInfo.label     "Անսարքության տեղեկություններ">
 <!ENTITY helpTroubleshootingInfo.accesskey "Ա">
 <!ENTITY helpSafeMode.label     "Վերամեկնարկել հավելումներն անջատված…">
 <!ENTITY helpSafeMode.accesskey "Վ">
-<!ENTITY releaseCmd2.label "Թողարկման Նշումներ">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Ի՞նչն է նոր">
-<!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY openHelp.label "Օգնության բովանդակությունը">
-<!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; Օգնություն">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
+<!ENTITY helpSafeMode.stop.label     "Վերագործարկել՝ միացնելով հավելումները">
+<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY productHelp.label "&brandShortName; Օգնություն">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "արագացուցիչ">
 
-<!ENTITY aboutMenuCmd.label "&brandShortName;-ի մասին">
-<!ENTITY aboutMenuCmd.accesskey "A">
+<!ENTITY helpKeyboardShortcuts.label "Ստեղնաշարի դյուրանցումներ">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpFeedbackPage.label "Ուղարկել արձագանք…">
+<!ENTITY helpFeedbackPage.accesskey "S">
+
+<!ENTITY helpShowTour2.label "&brandShorterName; շրջայց">
+<!ENTITY helpShowTour2.accesskey "օ">
+
+<!ENTITY helpGetInvolvedPage.label "Միացե՛ք">
+<!ENTITY helpGetInvolvedPage.accesskey "I">
+
+<!ENTITY helpDonationsPage.label "Կատարել նվիրատվություն">
+<!ENTITY helpDonationsPage.accesskey "M">
