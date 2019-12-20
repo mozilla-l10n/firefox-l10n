@@ -102,7 +102,7 @@ cfr-whatsnew-tracking-protect-link-text = 檢視您的追蹤報告
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-       *[other] 追蹤器封鎖數量
+       *[other] 封鎖追蹤器
     }
 cfr-whatsnew-tracking-blocked-subtitle = 自 { DATETIME($earliestDate, month: "long", year: "numeric") } 起
 cfr-whatsnew-tracking-blocked-link-text = 檢視報告
@@ -116,12 +116,12 @@ cfr-whatsnew-lockwise-take-link-text = 下載 App
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = 一邊上網一邊觀看影片
-cfr-whatsnew-pip-body = 子母畫面模式會將影片放到浮動小視窗中，這樣就可在其它分頁上網時繼續觀賞。
+cfr-whatsnew-pip-body = 使用子母畫面功能將影片放到浮動視窗，邊看影片邊瀏覽其它分頁。
 cfr-whatsnew-pip-cta = 了解更多
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = 更少討人厭的彈出視窗
+cfr-whatsnew-permission-prompt-header = 減少討人厭的彈出視窗
 cfr-whatsnew-permission-prompt-body = 現在起，{ -brand-shorter-name } 會自動封鎖網站詢問您是否可以傳送彈出訊息的請求。
 cfr-whatsnew-permission-prompt-cta = 了解更多
 
@@ -132,7 +132,7 @@ cfr-whatsnew-permission-prompt-cta = 了解更多
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-       *[other] 組被封鎖的數位指紋追蹤程式
+       *[other] 封鎖數位指紋追蹤程式
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } 會封鎖許多偷偷收集裝置資訊與操作行為，以針對您建立廣告資料的數位指紋追蹤程式。
 # Message variation when fingerprinters count is less than 10
