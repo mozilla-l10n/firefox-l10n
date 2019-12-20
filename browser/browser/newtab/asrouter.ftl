@@ -93,13 +93,28 @@ cfr-whatsnew-fx70-body =
     Najnovšia aktualizácia vylepšuje ochranu pred sledovaním a zjednodušuje 
     tvorbu bezpečných hesiel pre akúkoľvek stránku.
 cfr-whatsnew-tracking-protect-title = Chráňte sa pred sledovacími prvkami
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokuje mnohé sledovacie prvky, ktoré monitorujú vašu aktivitu na internete.
 cfr-whatsnew-tracking-protect-link-text = Podrobnosti
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Podrobnosti
+cfr-whatsnew-lockwise-backup-title = Zálohujte svoje heslá
 cfr-whatsnew-lockwise-backup-body = Vygenerujte si bezpečné heslá ku ktorým budete mať prístup bez ohľadu na to, odkiaľ sa budete prihlasovať.
+cfr-whatsnew-lockwise-backup-link-text = Zapnúť zálohovanie
 cfr-whatsnew-lockwise-take-title = Vezmite si svoje heslá so sebou
 cfr-whatsnew-lockwise-take-body = S mobilnou aplikáciou { -lockwise-brand-short-name } získate bezpečný prístup k vašim zálohovaným prihlasovacím údajom - a to kdekoľvek.
 cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Pozerajte videá počas prehliadania
+cfr-whatsnew-pip-cta = Ďalšie informácie
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Ďalšie informácie
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
@@ -136,6 +151,8 @@ cfr-doorhanger-socialtracking-ok-button = Podrobnosti
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Zavrieť
     .accesskey = Z
+cfr-doorhanger-socialtracking-dont-show-again = Nabudúce už nezobrazovať
+    .accesskey = N
 
 ## Enhanced Tracking Protection Milestones
 
