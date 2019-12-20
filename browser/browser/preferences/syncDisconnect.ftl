@@ -5,7 +5,11 @@
 sync-disconnect-dialog =
     .title = Կապախզե՞լ { -sync-brand-short-name }-ը:
     .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = Ցանկանո՞ւմ եք հեռացնել զննարկչի տվյալներն այս համակարգչից: Անկախ { -sync-brand-name } ֊ից տվյալները կմնան ձեր հաշվին:
 sync-disconnect-remove-sync-caption = Հեռացնել { -sync-brand-name } տվյալը
+sync-disconnect-remove-sync-data = Էջանիշեր, պատմություն, գաղտնաբառեր և այլն։
+sync-disconnect-remove-other-caption = Հեռացրեք այլ անձնական տվյալները
+sync-disconnect-remove-other-data = Նշոցիկներ, հիշապահեստ, անցանց կայքերի տվյալներ և այլն։
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Կապախզվում է...
 sync-disconnect-cancel =

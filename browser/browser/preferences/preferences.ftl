@@ -318,7 +318,7 @@ applications-use-other-label =
 
 
 
-drm-content-header = Digital Rights Management (DRM) բովանդակություն
+drm-content-header = Թվային իրավունքների կառավարման (DRM) բովանդակություն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկավարվող բովանդակությունը
     .accesskey = P
@@ -351,11 +351,6 @@ update-pref-write-failure-title = Գրեք ձախողում
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Անհնար է պահպանել նախապատվությունները: Հնարավոր չէ գրել ֆայլում. { $path }
 update-setting-write-failure-title = Սխալ պահպանեում է թարմացման նախընտրությունները
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message = { -brand-short-name }֊ը սխալ է հանդիպել և չի կարող փրկել այս փոփոխությունը։ Ուշադրություն դարձրեք, որ այս թարմացման նախապատվությունը դնելու համար անհրաժեշտ է թույլատրել կամ գրել հետևյալ ֆայլին։Դուք կամ համակարգի ադմինիստրատորը կարող եք լուծել այս սխալը՝օգտագործողների խմբին լիակատար վերահսկողություն տրամադրելու այս ֆայլերը։
 update-in-progress-title = Արդիացվում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարվել
@@ -870,21 +865,88 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Բովանդակության արգելափակում
+content-blocking-section-description = Պաշտպանում է ձեր գաղտնիությունը՝ զննելիս։ Արգելափակել անտեսանելի բովանդակությունը, որը վնասում է ձեր այցելած կայքերը և հատկագրում ձեզ։ Այս բովանդակությն արգելափակումը կարող է արագացնել որոշ էջերի բեռնումը։
+content-blocking-enhanced-tracking-protection = Կատարելագործում է Հետևման պաշտպանությունը
+content-blocking-section-top-level-description = Հետևողները հետևում են ձեզ առցանց ձեր զննարկման հատկությունների և հետաքրքրությունների մասին տեղեկություն հավաքելու համար։ { -brand-short-name }-ը արգելափակում է այս հետևումներից և այլ վնասարար գրվածքներից շատերը։
 content-blocking-learn-more = Իմանալ ավելին
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Չափօրինակ
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Ճշգրիտ
+    .accesskey = r
 content-blocking-setting-custom =
     .label = Հարմարեցված
     .accesskey = C
+content-blocking-standard-desc = Համակշռել պաշտպանության և իրականցման համար։ Կարող թույլատրել որոշ վնասներ, վեբ կայքերի ճշգրիտ աշխատանքի համար։
+content-blocking-strict-description = Ավելի ուժեղ պաշտպանություն, կարող է հանդիսանալ որոշ կայքերի կոտրման պատճառ։
+content-blocking-custom-desc = Ընտրեք ինչը արգելափակել.։
+content-blocking-private-trackers = Հայտնի հետևումներ միայն անձնական Windows-ում
+content-blocking-third-party-cookies = Եռատող հետապնդվող թխուկներ
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Լռելյայն
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Ստույգ
+    .accesskey = r
 enhanced-tracking-protection-setting-custom =
     .label = Հարմարեցված
     .accesskey = C
 
 
 
+content-blocking-etp-standard-desc = Հավասարակշռված է պաշտպանության և կատարման համար։Էջերը կբեռնվեն կանոնակարգված կերպով։
+content-blocking-etp-strict-desc = Ավելի ուժեղ պաշտպանություն, բայց կարող է որոշ կայքերի կամ բովանդակությունների կոտրման պատճառ դառնալ։
+content-blocking-etp-custom-desc = Ընտրեք, որ հետևումները և գրվածքները արգելափակել։
+content-blocking-private-windows = Անձնական պատուհաններում բովանդակության հետևում
+content-blocking-cross-site-tracking-cookies = Միջակայքային հետևող նշոցիկներ
+content-blocking-social-media-trackers = Սոցիալական լրատվամիջոցների հետքերով
+content-blocking-all-cookies = Բոլոր նշոցիկները
+content-blocking-unvisited-cookies = Նշոցիկներ չստուգված կայքերից
+content-blocking-all-windows-trackers = Հայտնի հետքերը բոլոր պատուհաններում
+content-blocking-all-windows-tracking-content = Հետևում են բովանդակությանը բոլոր պատուհաններում
+content-blocking-all-third-party-cookies = Բոլոր երրորդ կողմերի նշոցիկները
+content-blocking-cryptominers = Գաղտնազերծիչներ
+content-blocking-fingerprinters = Մատնահետքեր
+content-blocking-warning-title = Ուշադրություն։
+content-blocking-warning-description = Բովանդակության արգելափակումը կարող է որոշ կայքերի կոտրման պատճառ դառնալ։ Հեշտ է անջատել վստահված կայքերի արգելափակումը։
 content-blocking-learn-how = Սովորել, թե ինչպես
+content-blocking-etp-warning-description = Հետևման արգելափակումը կարող է ազդել որոշ կայքերի գործառությանը։ Վերբեռնե՛ք էջը հետևումներով ողջ բովանդակությունը բեռնելու համար։
+content-blocking-warning-learn-how = Իմանալ ինչպես
+content-blocking-reload-description = Ձեզ հարկավոր կլինի վերբեռնել ձեր ներդիրները այս փոփոխությունները հաստատելու համար։
+content-blocking-reload-tabs-button =
+    .label = Վերբեռնել բոլոր ներդիրները
+    .accesskey = R
+content-blocking-trackers-label =
+    .label = Հետքեր
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = Հետևող բովանդակություն
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Բոլոր պատուհաններում
+    .accesskey = A
+content-blocking-option-private =
+    .label = Միայն անձնական պատուհաններում
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Փոխել արգելացուցակը
+content-blocking-cookies-label =
+    .label = Նշոցիկներ
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Լրացուցիչ տեղեկություն
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Գաղտնազերծիչներ
+    .accesskey = 
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
@@ -904,6 +966,10 @@ permissions-location = Տեղադրություն
 permissions-location-settings =
     .label = Կարգավորումներ...
     .accesskey = t
+permissions-xr = Թվացյալ իրականություն
+permissions-xr-settings =
+    .label = Կարգավորումներ…
+    .accesskey = t
 permissions-camera = Խցիկ
 permissions-camera-settings =
     .label = Կարգավորումներ...
@@ -920,6 +986,13 @@ permissions-notification-link = Իմանալ ավելին
 permissions-notification-pause =
     .label = Դադարեցնել ծանուցումները մինչև { -brand-short-name }-ը վերամեկնարկելը
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Արգելափակել կայքերը ինքնաբերաբար ձայնային նվագումից
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Բացառություններ…
+    .accesskey = E
+permissions-autoplay = Ինքնանվագարկում
 permissions-autoplay-settings =
     .label = Կարգավորումներ...
     .accesskey = t
@@ -945,6 +1018,8 @@ permissions-a11y-privacy-link = Իմանալ ավելին
 collection-header = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
 collection-description = Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել { -brand-short-name }-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:
 collection-privacy-notice = Գաղտնիության ծանուցում
+collection-health-report-telemetry-disabled = Դուք այլևս թույլ չեք տալիս՝{ -vendor-short-name }֊ին գրավել տեխնիկական և միջազգային միջնորդության տվյալները։ Անցյալ բոլոր տվյալները կջնջվեն 30 օրվա ընթացքում։
+collection-health-report-telemetry-disabled-link = Իմանալ ավելին
 collection-health-report =
     .label = Թույլատրել { -brand-short-name }-ին ուղարկել տեխնիկական և փոխազդելու տվյալներ { -vendor-short-name }-ին
     .accesskey = r
@@ -952,6 +1027,8 @@ collection-health-report-link = Իմանալ ավելին
 collection-studies =
     .label = Թույլատրել { -brand-short-name }-ին տեղադրել և կատարել հետազոտություններ
 collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտությունները
+addon-recommendations =
+    .label = Թույլատրել { -brand-short-name } ֊ին կատարել անհատականացված ընդլայնման առաջարկություններ
 addon-recommendations-link = Իմանալ ավելին
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -1012,6 +1089,11 @@ space-alert-over-5gb-pref-button =
             [windows] Բ
            *[other] Բ
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-ում տեղ չկա: Կայքի բովանդակությունը նորմալ չի ցուցադրվի: Դուք կարող եք մաքրել կայքերի պահված տվյալները Կարգավորումներ > Լրացուցիչ > Կայքի տվյալներում:{ -brand-short-name }
+       *[other] { -brand-short-name }-ում տեղ չկա: Կայքի բովանդակությունը նորմալ չի ցուցադրվի: Դուք կարող եք մաքրել կայքերի պահված տվյալները Կարգավորումներ > Լրացուցիչ > Կայքի տվյալներում:
+    }
 space-alert-under-5gb-ok-button =
     .label = Լավ, հասկացա
     .accesskey = ա
@@ -1022,3 +1104,7 @@ space-alert-under-5gb-message = { -brand-short-name }-ում տեղ չկա: Կա
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Պահել նիշքերը այստեղ՝ { $service-name }
