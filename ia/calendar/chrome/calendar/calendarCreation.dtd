@@ -12,7 +12,7 @@
 
 <!ENTITY locationpage.description         "Fornir le informationes necessari pro acceder a vostre agenda remote" >
 <!ENTITY locationpage.login.description   "Optional: insere un nomine de usator e un contrasigno" >
-<!ENTITY locationpage.username.label      "Nomine del usator:" >
+<!ENTITY locationpage.username.label      "Nomine de usator:" >
 <!ENTITY locationpage.password.label      "Contrasigno:" >
 
 <!ENTITY custompage.shortdescription  "Personalisa tu agenda" >
