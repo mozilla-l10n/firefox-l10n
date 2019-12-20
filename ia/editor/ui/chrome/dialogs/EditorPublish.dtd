@@ -54,7 +54,7 @@
 <!ENTITY browseUrl.label              "Adresse HTTP de tu pagina initial (p.ex.: 'http://www.mifornitor.com/minominedeusator'):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "Le adresse http:// de tu directorio personal (non includer le nomine del file)">
-<!ENTITY username.label               "Nomine del usator:">
+<!ENTITY username.label               "Nomine de usator:">
 <!ENTITY username.accesskey           "U">
 <!ENTITY username.tooltip             "Le nomine de usator que tu usa pro aperir session a tu fornitor de accesso a internet o servicio de allogiamento web">
 <!ENTITY password.label               "Contrasigno:">

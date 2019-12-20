@@ -6,7 +6,7 @@
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "General">
 <!ENTITY account.advanced              "Optiones avantiate">
-<!ENTITY account.name                  "Nomine del usator:">
+<!ENTITY account.name                  "Nomine de usator:">
 <!ENTITY account.password              "Contrasigno:">
 <!ENTITY account.alias                 "Alias:">
 <!ENTITY account.newMailNotification   "Notificar nove emails">

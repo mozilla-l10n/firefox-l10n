@@ -41,7 +41,7 @@
 <!ENTITY incomingColumn.label            "In entrata">
 <!ENTITY outgoing.label                  "In exito:">
 <!ENTITY outgoingColumn.label            "In exito">
-<!ENTITY username.label                  "Nomine del usator:">
+<!ENTITY username.label                  "Nomine de usator:">
 <!ENTITY hostname.label                  "Nomine de servitor">
 <!ENTITY port.label                      "Porta">
 <!ENTITY ssl.label                       "SSL">
