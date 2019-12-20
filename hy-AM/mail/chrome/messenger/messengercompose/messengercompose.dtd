@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Նոր նամակ. (անվերնագիր)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Ֆայլ">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Նոր">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.key "Տ">
 <!ENTITY printCmd.accesskey "P">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Խմբագրել">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Հետարկել">
@@ -85,9 +85,22 @@
 <!ENTITY editRewrapCmd.key "Վ">
 <!ENTITY renameAttachmentCmd.label "Վերանվանել կցորդը...">
 <!ENTITY renameAttachmentCmd.accesskey "ե">
+<!ENTITY reorderAttachmentsCmd.label "Վերադասավորել կցորդները…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Կցորդի փեղկ">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Ընտրել բոլորը">
-<!ENTITY selectAllCmd.key "Ը">
 <!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.key "Ը">
 <!ENTITY findBarCmd.label "Գտնել...">
 <!ENTITY findBarCmd.accesskey "Գ">
 <!ENTITY findBarCmd.key "F">
@@ -102,8 +115,28 @@
 <!ENTITY findPrevCmd.accesskey "ո">
 <!ENTITY findPrevCmd.key "Փ">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Վերադասավորել կցորդները">
+<!ENTITY moveAttachmentTopPanelBtn.label "Տեղափոխել վեր">
+<!ENTITY moveAttachmentUpPanelBtn.label "Վեր">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Տեղափոխել միասին">
+<!ENTITY moveAttachmentDownPanelBtn.label "Վար">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Տեղափոխել ներքև">
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Տեսակավորել՝ A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Տեսակավորել՝ Z - A">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Տեսակավորել ընտրությունը. A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Տեսակավորել ընտրությունը. Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
+
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Տեսք">
 <!ENTITY viewMenu.accesskey "Տ">
 <!ENTITY viewToolbarsMenuNew.label "Գործիքագոտիներ">
@@ -121,12 +154,12 @@
 
 <!ENTITY addressSidebar.label "Կոնտակտների կողագոտի">
 <!ENTITY addressSidebar.accesskey "ո">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Ձևափաչում">
 <!ENTITY formatMenu.accesskey "և">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Կարգավորումներ">
 <!ENTITY optionsMenu.accesskey "ր">
 <!ENTITY checkSpellingCmd2.label "Ստուգել ուղղագրությունը...">
@@ -137,8 +170,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Մեջբերել նամակը">
 <!ENTITY quoteCmd.accesskey "Q">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Կցել Անձնական քարտ (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -174,8 +207,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Ուղարկել պատճեն՝">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "Ֆայլը այստեղ">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "Փոստ և Լուրախմբեր">
@@ -191,15 +224,15 @@
 <!ENTITY preferencesCmd2.accesskey "Կ">
 <!ENTITY preferencesCmdUnix.label "Կարգավորումներ…">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "Թ">
 <!ENTITY minimizeWindow.label "Թաքցնել">
 <!ENTITY bringAllToFront.label "Բոլորից առջև">
 <!ENTITY zoomWindow.label "Չափը">
 <!ENTITY windowMenu.label "Պատուհան">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Ուղարկել">
 <!ENTITY quoteButton.label "Մեջբերում">
 <!ENTITY addressButton.label "Կոնտակտներ">
@@ -207,26 +240,27 @@
 <!ENTITY spellingButton.label "Ուղղագրությունը">
 <!ENTITY saveButton.label "Պահպանել">
 <!ENTITY printButton.label "Տպել">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Ուղարկել հիմա">
 <!ENTITY sendlaterButton.tooltip "Նամակը հետո ուղարկել">
 <!ENTITY quoteButton.tooltip "Մեջբերել նախորդ նամակը">
 <!ENTITY addressButton.tooltip "Հասցեատերին ընտրել Հասցեագրքից">
-<!ENTITY attachButton.tooltip "Ներառել կցորդ">
+<!ENTITY attachButton.tooltip2 "Ավելացնել կցորդ">
 <!ENTITY spellingButton.tooltip "Ստուգել ընտրվածի ուղղագրությունը">
-<!ENTITY statusLanguageText.tooltip "Ուղղագրությունը ստուգելու լեզուն">
 <!ENTITY saveButton.tooltip "Պահպանել նամակը">
 <!ENTITY cutButton.tooltip              "Կտրել">
 <!ENTITY copyButton.tooltip             "Պատճենել">
 <!ENTITY pasteButton.tooltip            "Տեղադրել">
 <!ENTITY printButton.tooltip "Տպել այս նամակը">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Ումից.">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Ում.">
 <!ENTITY ccAddr.label "Cc.">
@@ -236,11 +270,17 @@
 <!ENTITY followupAddr.label "Հետևել՝">
 <!ENTITY subject.label "Վերնագիր.">
 <!ENTITY subject.accesskey "Վ">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "m">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!ENTITY attachmentBucketHeader.tooltip "Կցորդի փեղկ">
+<!ENTITY attachmentBucketCloseButton.tooltip "Թաքցնել կցորդի փեղկը">
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Ներմուծել ժպտացող դեմք">
 <!ENTITY smiley1Cmd.label "Ժպիտ">
 <!ENTITY smiley2Cmd.label "Մռայլ">
@@ -258,8 +298,8 @@
 <!ENTITY smiley14Cmd.label "Անմեղ">
 <!ENTITY smiley15Cmd.label "Լաց">
 <!ENTITY smiley16Cmd.label "Բերանփակ">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Առաջարկություններ չկան">
 <!ENTITY spellCheckIgnoreWord.label "Անտեսել բառը">
 <!ENTITY spellCheckIgnoreWord.accesskey "Ա">
@@ -276,6 +316,7 @@
 <!ENTITY pasteQuote.label "Տեղադրել որպես մեջբերում">
 <!ENTITY pasteQuote.accesskey "Q">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Բացել">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Ջնջել">
@@ -284,6 +325,10 @@
 <!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Վերանվանել...">
 <!ENTITY renameAttachment.accesskey "Վ">
+<!ENTITY reorderAttachments.label "Վերադասավորել կցորդները…">
+<!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Հեռացնել բոլոր կցորդները">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Ընտրել բոլորը">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Կցել ֆայլեր...">
@@ -298,14 +343,28 @@
 <!ENTITY convertRegularAttachment.accesskey "Կ">
 <!ENTITY attachPage.label "Կցել վեբ էջ...">
 <!ENTITY attachPage.accesskey "W">
-<!-- Spell checker context menu items -->
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Սկզբում ցուցադրեք հավելվածի փեղկը">
+<!ENTITY initiallyShowAttachmentPane.accesskey "S">
+
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ավելացնել Բառարաններ...">
 <!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "Կոնտակտներ">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Հարմարեցնել հասցեից...">
 <!ENTITY customizeFromAddress.accesskey "հ">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Հաղորդագրության մարմին">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Ուղղագրության լեզու">
+<!ENTITY encodingStatusPanel.tooltip "Գրույթի կոդավորում">

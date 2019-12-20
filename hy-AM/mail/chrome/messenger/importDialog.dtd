@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
-
 
 <!ENTITY importDialog.windowTitle "Ներմուծել">
 <!ENTITY importAll.label          "Ներմուծել ամեն ինչ">
@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "Անունը.">
 <!ENTITY acctName.accesskey       "N">
-
+<!ENTITY noModulesFound.label     "Տվյալներ ներմուծելու համար չի գտնվել ոչ մի հավելված կամ նիշք:">
 
 <!ENTITY back.label               "&lt; Նախորդը">
 <!ENTITY forward.label            "Առաջ &gt;">
