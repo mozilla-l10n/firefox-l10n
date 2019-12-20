@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Marandu jejavyguáva
-clear-all-reports-label = Opavave momarandu mbogue
+submit-all-button-label = Emondopa
 delete-button-label = Emboguepa
 delete-confirm-title = Upéichapa reipota
-delete-confirm-description = Ko jeku'e omboguepaitéta oĩva marandu'i ha ndaikatuvéima oñembojevyjey.
 delete-unsubmitted-description = Kóva omboguéta opaite marandu jejavygua oñemondo’ỹva ha ndaikatúi ehejarei.
 delete-submitted-description = Kóva omboguéta marandu’i rysýi jejavygua mondopyre, hákatu ndoguemo'ãi mba'ekuaarã mondopyre. Kóva ndaikatúi ehejarei.
 crashes-unsubmitted-label = Jejavy ñemondo momarandu
