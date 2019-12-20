@@ -2,7 +2,13 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Poročila o sesutjih
+submit-all-button-label = Pošlji vse
 delete-button-label = Izbriši vse
 delete-confirm-title = Ali ste prepričani?
 delete-unsubmitted-description = S tem boste izbrisali vsa neposlana poročila o sesutjih, česar ni mogoče razveljaviti.
