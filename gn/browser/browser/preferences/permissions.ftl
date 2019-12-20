@@ -139,6 +139,8 @@ permissions-site-location-disable-desc = Ko'ãva omboykéta umi ñanduti renda n
 permissions-site-xr-window =
     .title = Ñemboheko - Ñemoneĩ añetegua ñandutípe
     .style = { permissions-window.style }
+permissions-site-xr-disable-label =
+    .label = Ejoko mba’ejerure jeikeha pyahu ne ñanduti añetegua mba’e’okápe
 
 ## Site Permissions - Camera
 

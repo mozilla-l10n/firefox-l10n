@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Mba’ete apopyre
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Pe kundahára ñemboheko ndojokupytýi Service Workers ndive. <a>Eikuaave</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Aravo tembiaporã joajupyre oguereko itujáva ({ $runtimeVersion }). Ojokutyvéva ha’e ({ $minVersion }). Kóva ha'e peteĩ ñemboheko ndojokupytýiva ha ikatu ombyai DevTools rembiapo. Okatúpiko hembohekopyahu aravo tembiaporã joajupyre ndive. <a>Apañuãi ñemoĩporã</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Aravo tembiaporã joajupyre oguereko i
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Ikatuhína pe mopotĩha rupa ndoikói aravo eike jave. Eipuru Firefox { $runtimeVersion } eipuruséramo mopotĩha ko kundaha ndive.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -305,6 +305,11 @@ about-debugging-main-process-name = Tembiapo ñemboguata
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Tembiapo ñemboguata kundaha og̃uahẽ hag̃ua.
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Tembipuru ryru hembiapoitáva
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Tapereko ha’etéva ha tetepy rapereko kundahára ohotahápe g̃uarã
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Emboty ñe’ẽmondo
