@@ -383,6 +383,13 @@ about-debugging-main-process-name = Hoved-proces
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Hoved-proces for mål-browser
 
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Multiproces-værktøj
+
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Hoved-proces og indholds-processer for mål-browseren
+
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
   .alt = Luk besked
