@@ -324,6 +324,7 @@
 <!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(اس اختيار کو فعال کرنے کے لئے، &pref_feature_tips_notification_enabling_path; پہلے سے فعال ہونی چاہیے۔)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -500,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "شیئر کریں">
 <!ENTITY share_title "شیئر کریں بذریعہ">
 <!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
+<!ENTITY share_error_toast_message "اشارہ کردہ ایپ پر اشتراک کرنے میں ناکام رہا">
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
 <!ENTITY print "پرنٹ کریں">
 <!ENTITY view_page_source "صفحہ ماخذ نظارہ کریں">
