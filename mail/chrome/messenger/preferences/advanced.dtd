@@ -40,6 +40,7 @@
 <!ENTITY showReturnReceipts.accesskey  "ז">
 
 <!-- Data Choices -->
+<!ENTITY telemetryDesc.label             "משתף מידע על ביצועים, חומרה, שימוש והתאמות אישיות על לקוח הדוא״ל שלך עם &vendorShortName; כדי לסייע לנו בשיפור &brandShortName;">
 <!ENTITY telemetryLearnMore.label        "מידע נוסף">
 
 <!ENTITY crashReporterSection.label      "מדווח הקריסות">
