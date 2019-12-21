@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-reload-selected-tab =
+    .label = منتخب ٹیب دوبارہ لوڈ کریں
+    .accesskey = R
+toolbar-context-menu-reload-selected-tabs =
+    .label = منتخب ٹیب دوبارہ لوڈ کریں
+    .accesskey = R
 toolbar-context-menu-select-all-tabs =
     .label = تمام ٹیب منتخب کریں
     .accesskey = S
