@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Adroddiadau Chwalu
-clear-all-reports-label = Tynnu pob Adroddiad
+submit-all-button-label = Cyflwyno Popeth
 delete-button-label = Clirio Popeth
 delete-confirm-title = Ydych chi'n siŵr?
-delete-confirm-description = Bydd hyn yn dileu pob adroddiad ac nid oes modd ei ddadwneud.
 delete-unsubmitted-description = Bydd hyn yn dileu pob adroddiad chwalu heb eu cyflwyno ac nid oes modd ei ddadwneud.
 delete-submitted-description = Bydd hyn yn dileu'r rhestr o adroddiadau chwalu sydd wedi eu cyflwyno ond ni bydd yn dileu'r data sydd wedi ei gyflwyno. Nid oes modd dadwneud hyn.
 crashes-unsubmitted-label = Adroddiadau Chwalu heb eu Cyflwyno
