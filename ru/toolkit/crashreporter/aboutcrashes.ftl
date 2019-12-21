@@ -2,13 +2,17 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Сообщения о падениях
-clear-all-reports-label = Удалить все сообщения
-delete-button-label = Очистить всё
+submit-all-button-label = Отправить все
+delete-button-label = Удалить все
 delete-confirm-title = Вы уверены?
-delete-confirm-description = Это действие удалит все сообщения и не может быть отменено.
 delete-unsubmitted-description = Это действие удалит все неотправленные сообщения о падениях и не может быть отменено.
-delete-submitted-description = Это действие удалит список отправленных сообщений о падениях, но не повлияет на отправленные данные. Это невозможно отменить.
+delete-submitted-description = Это действие удалит список отправленных сообщений о падениях, но не удалит отправленные данные. Это не может быть отменено.
 crashes-unsubmitted-label = Неотправленные сообщения о падениях
 id-heading = Идентификатор сообщения
 date-crashed-heading = Дата падения
