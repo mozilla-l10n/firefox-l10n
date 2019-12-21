@@ -7,6 +7,8 @@ abuse-report-subtitle = کیا مسئلہ ہے؟
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a>  کی جانب سے
 abuse-report-submit-description = مسئلہ کی وضاحت (اختیاری)
+abuse-report-textarea =
+    .placeholder = اگر ہمارے پاس کوئی مخصوص وضاحت ہو تو ہمارے لئے کسی مسئلے کو حل کرنا آسان ہے۔ براہ کرم اپنا تجربہ بیان کریں کہ آپ کس چیز کا سامنا کر رہے ہیں۔ ویب کو صحت مند رکھنے میں ہماری مدد کرنے کے لئے آپ کا شکریہ۔
 
 ## Panel buttons.
 
@@ -35,4 +37,8 @@ abuse-report-messagebar-action-cancel = منسوخ کریں
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = میرے کمپیوٹر اور کواٴیف  کو نقصان پہنچا رہا ہے
+abuse-report-spam-example = مثال: ویب صفحات پر اشتہارات داخل کریں
+abuse-report-settings-reason = مجھ کو بتائے یا پوچھے بغیر میرے سرچ انجن ، ابتداٴی صفحہ ، یا نئے ٹیب کو تبدیل کردیا گیا
+abuse-report-settings-reason-v2 = مجھ کو بتائے یا پوچھے بغیر میرے سرچ انجن ، ابتداٴی صفحہ ، یا نئے ٹیب کو تبدیل کردیا گیا
 abuse-report-other-reason = اس کے علاوہ کچھ اور
