@@ -16,26 +16,27 @@
 <!ENTITY firstrun_customize_subtext "使用附加元件自訂 &brandShortName;。您可封鎖廣告、新增功能，或選擇一套新的佈景主題來展現您的個性。">
 <!ENTITY firstrun_bookmarks_title "瀏覽紀錄">
 <!ENTITY firstrun_bookmarks_message "您的最愛，就在正中央">
-<!ENTITY firstrun_bookmarks_subtext "搜尋時，同步在書籤與瀏覽紀錄中尋找">
+<!ENTITY firstrun_bookmarks_subtext "搜尋時，同步尋找書籤與瀏覽紀錄。">
 <!ENTITY firstrun_data_title "網路數據">
 <!ENTITY firstrun_data_message "網路用得更少，幫您省得更多">
 <!ENTITY firstrun_data_subtext2 "關閉圖片載入，開啟網站時花費更少流量。">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message3 "將您的書籤、瀏覽紀錄、密碼同步到手機。">
 <!ENTITY updatednewfirstrun_sync_title "帳號">
 <!ENTITY firstrun_sync_message2 "從結束的地方繼續。">
-<!ENTITY firstrun_sync_message3 "將您的書籤、瀏覽紀錄、密碼同步到手機。">
 <!ENTITY firstrun_sync_subtext2 "使用 Sync 來尋找您在任何裝置中，儲存到 &brandShortName; 的書籤、密碼，還有更多東西。">
 <!ENTITY newfirstrun_sync_subtext "將您在行動裝置存下的東西私密而安全地同步到 Firefox 桌面版。">
-<!ENTITY updatednewfirstrun_sync_subtext "請登入您的帳號，發揮 &brandShortName; 的最大威力">
-<!ENTITY firstrun_signin_message "開始連線使用">
 <!ENTITY firstrun_sendtab_title "傳送分頁">
 <!ENTITY firstrun_sendtab_message "從行動裝置將分頁即刻傳送到桌面。">
+<!ENTITY updatednewfirstrun_sync_subtext "請登入您的帳號，發揮 &brandShortName; 的最大威力">
+<!ENTITY firstrun_signin_message "開始連線使用">
 <!ENTITY firstrun_signin_button "登入至 Sync">
 <!ENTITY newfirstrun_signin_button "開啟同步">
 <!ENTITY updatednewfirstrun_signin_button "登入 &brandShortName;">
-<!ENTITY onboard_start_button_browser "開始瀏覽">
+<!ENTITY  onboard_start_button_browser "開始瀏覽">
 <!ENTITY firstrun_button_notnow "現在不要">
 <!ENTITY firstrun_button_next "下一步">
+<!ENTITY firstrun_signup_button "註冊">
 
 <!ENTITY firstrun_signin_button2 "登入">
 
@@ -49,8 +50,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "您">
 <!ENTITY firstrun_account_message "在您別的裝置上有 &brandShortName; 嗎？">
-
-<!ENTITY firstrun_signup_button "註冊">
 
 <!ENTITY  onboard_start_restricted1 "透過這個簡單版的 &brandShortName; 保持安全與控制程度。">
 
@@ -696,7 +695,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "您已連線到">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -884,17 +882,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "將閱讀畫面項目加入書籤，以在離線時閱讀。">
 <!ENTITY helper_triple_readerview_open_button "加入書籤">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
-activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "歡迎使用 &brandShortName;">
 <!ENTITY activity_stream_signin_description "使用您的 Firefox 帳號同步書籤、密碼等資料。">
-<!ENTITY activity_stream_signin_button "登入">
-
 <!ENTITY activity_stream_signup_button "註冊">
 <!ENTITY activity_stream_signin_prompt "已經有帳號了嗎？">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "請登入。">
+
+<!ENTITY activity_stream_signin_button "登入">
 
 <!ENTITY activity_stream_topsites "熱門網站">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
