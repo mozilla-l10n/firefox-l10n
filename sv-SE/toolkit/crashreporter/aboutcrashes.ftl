@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Kraschrapporter
-clear-all-reports-label = Ta bort alla rapporter
+submit-all-button-label = Skicka in alla
 delete-button-label = Rensa alla
 delete-confirm-title = Är du säker?
-delete-confirm-description = Det här tar bort alla rapporter och kan inte ångras.
 delete-unsubmitted-description = Det här tar bort alla rapporter som inte har skickats och kan inte ångras.
 delete-submitted-description = Det här tar bort listan över skickade rapporter men tar inte bort det skickade uppgifterna. Detta kan inte ångras.
 crashes-unsubmitted-label = Ej Inskickade kraschrapporter
