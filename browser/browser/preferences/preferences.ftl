@@ -565,6 +565,12 @@ search-keyword-warning-bookmark = Вы выбрали краткое имя, к�
 ## Containers Section
 
 containers-back-link = « Вернуться назад
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Вернуться в настройки
+           *[other] Вернуться в настройки
+        }
 containers-header = Вкладки в контейнере
 containers-add-button =
     .label = Добавить новый контейнер
@@ -972,6 +978,10 @@ permissions-location = Местоположение
 permissions-location-settings =
     .label = Параметры…
     .accesskey = м
+permissions-xr = Виртуальная реальность
+permissions-xr-settings =
+    .label = Параметры…
+    .accesskey = м
 permissions-camera = Камера
 permissions-camera-settings =
     .label = Параметры…
@@ -1020,6 +1030,8 @@ permissions-a11y-privacy-link = Подробнее
 collection-header = Сбор и использование данных { -brand-short-name }
 collection-description = Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения { -brand-short-name } для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.
 collection-privacy-notice = Уведомление о приватности
+collection-health-report-telemetry-disabled = Вы больше не разрешаете { -vendor-short-name } собирать технические данные и данные взаимодействия. Все прошлые данные будут удалены в течение 30 дней.
+collection-health-report-telemetry-disabled-link = Подробнее
 collection-health-report =
     .label = Разрешить { -brand-short-name } отправлять технические данные и данные взаимодействия в { -vendor-short-name }
     .accesskey = е
