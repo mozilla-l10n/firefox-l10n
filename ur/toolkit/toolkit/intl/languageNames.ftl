@@ -188,6 +188,7 @@ language-name-tlh = کلنگن
 language-name-tn = ٹسوانا
 language-name-to = ٹونگا
 language-name-tr = ترکی
+language-name-trs = ٹرائکی
 language-name-ts = ٹسونگا
 language-name-tt = تاتار
 language-name-tw = توی

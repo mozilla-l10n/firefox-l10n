@@ -17,6 +17,7 @@ cert-error-trust-untrusted-issuer = یہ تصدیق نامہ قابل اعتما
 cert-error-trust-signature-algorithm-disabled = تصدیق نامہ ناقابل بھروسا ہے کیونکہ اس کو دستخط کیا گپا دستخط شدہ الگورزم کو استعمال کرتے ہوئے جس کو نااہل بنا دیا گیا تھا کیونکہ وہ الگورزم قابل بھروسا نہیں تھا۔
 cert-error-trust-expired-issuer = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ جاری کنندہ کا تصدیق نامہ زائدالمدت ہے۔
 cert-error-trust-self-signed = یہ تصدیق نامہ قابل اعتماد نہیں ہے کیوں کہ اس نے خود پر دستخط کیا ہوا ہے۔
+cert-error-trust-symantec = GeoTrust ، RapidSSL ، Symantec، Thawteاور VeriSign کے ذریعہ جاری کردہ تصدہق نامہ کو اب محفوظ  شدہ نہیں سمجھا جاتا ہے کیونکہ یہ تصدہق نامہ  حکام ماضی میں سلامتی کے طریقوں پر عمل کرنے میں ناکام رہے تھے۔
 cert-error-untrusted-default = یہ تصدیق نامہ قابل اعتماد ماخذ سے نہیں ہے۔
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.

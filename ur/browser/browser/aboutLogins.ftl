@@ -53,6 +53,7 @@ login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = کوئی ہمہ وقت ساز  لاگ ان نہیں ملا۔
 
 ## Login
 
@@ -114,3 +115,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = اس پاس ورڈ کو محفوظ کرنے کی کوشش کرتے وقت ایک نقص پیش آگیا۔
