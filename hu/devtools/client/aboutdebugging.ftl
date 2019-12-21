@@ -308,6 +308,8 @@ about-debugging-main-process-description2 = A célböngésző fő folyamata
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Többfolyamatos eszköztár
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Fő folyamat és tartalomfolyamatok a cél böngészőhöz
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Üzenet bezárása

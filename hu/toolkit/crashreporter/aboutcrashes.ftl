@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Hibajelentések
-clear-all-reports-label = Minden jelentés törlése
+submit-all-button-label = Összes beküldése
 delete-button-label = Összes törlése
 delete-confirm-title = Biztos benne?
-delete-confirm-description = A művelet az összes jelentést törli, és nem lehet visszavonni.
 delete-unsubmitted-description = Ez törli az összes nem beküldött összeomlási jelentést, és nem vonható vissza.
 delete-submitted-description = Ez eltávolítja a beküldött összeomlási jelentéseket, de nem törli a beküldött adatokat. Ez nem vonható vissza.
 crashes-unsubmitted-label = Be nem küldött hibajelentések
