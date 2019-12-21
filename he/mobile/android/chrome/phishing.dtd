@@ -15,7 +15,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "אתר מטעה!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "הדף בכתובת <span id='phishing_sitename'/> דווח בתור דף מטעה ונחסם בהתאם להגדרות האבטחה שלך.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "הדף בכתובת <span id='phishing_sitename'/> דווח כאתר מטעה ונחסם בהתאם להעדפות האבטחה שלך.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>אתרים מטעים מתוכננים לשטות בך כדי לבצע פעולה מסוכנת כגון התקנת תכנית או חשיפת פרטים אישיים כגון ססמאות, מספרי טלפון או כרטיסי אשראי.</p><p>הזנת פרטים כאלה באתר זה עשויה להוביל לגניבת זהות או כל הונאה אחרת.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "אתר תוכנה לא רצויה מדווח!">
