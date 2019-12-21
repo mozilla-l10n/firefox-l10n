@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "בעיה בטעינת דף">
+<!ENTITY loadError.label "בעיה בטעינת הדף">
 <!ENTITY retry.label "נסה שוב">
 
 <!-- Specific error messages -->
