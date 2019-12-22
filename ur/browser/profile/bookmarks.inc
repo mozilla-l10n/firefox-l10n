@@ -47,7 +47,7 @@
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-#define bugzilla موزیلا بگ سراغ راہ
+#define bugzilla Mozilla بگ ٹریکر
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
