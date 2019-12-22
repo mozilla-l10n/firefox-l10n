@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖ�
 appmenuitem-protection-report-tooltip =
     .tooltiptext = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਰਿਪੋਰਟ ‘ਤੇ ਜਾਓ
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = ਜ਼ੂਮ ਇਨ
+appmenuitem-zoom-reduce =
+    .label = ਜ਼ੂਮ ਆਉਟ
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

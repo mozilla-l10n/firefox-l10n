@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "…ਹੋਰ ਜਾਣੋ">
 
+<!ENTITY learnMoreNoEllipsis "ਹੋਰ ਸਿੱਖੋ">
+
 <!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
 

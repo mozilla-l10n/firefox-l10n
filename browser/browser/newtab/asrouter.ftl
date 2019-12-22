@@ -31,6 +31,9 @@ cfr-doorhanger-extension-author = { $name } ਰਾਹੀਂ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ੀ
+cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ਾਂ
+    .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
+    .a11y-announcement = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਮੌਜੂਦ ਹਨ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -77,6 +80,9 @@ cfr-protections-panel-link-text = ਹੋਰ ਜਾਣੋ
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ਨਵਾਂ ਫੀਚਰ
 cfr-whatsnew-button =
     .label = ਨਵਾਂ ਕੀ ਹੈ
     .tooltiptext = ਨਵਾਂ ਕੀ ਹੈ
@@ -101,6 +107,26 @@ cfr-whatsnew-lockwise-backup-link-text = ਬੈਕਅੱਪ ਚਾਲੂ ਕਰ�
 cfr-whatsnew-lockwise-take-title = ਆਪਣੇ ਪਾਸਵਰਡ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
 cfr-whatsnew-lockwise-take-link-text = ਐਪ ਲਵੋ
 
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਵੀਡਿਓ ਵੇਖੋ
+cfr-whatsnew-pip-cta = ਹੋਰ ਸਿੱਖੋ
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = ਹੋਰ ਸਿੱਖੋ
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] ਫਿੰਗਰਪਰਿੰਟਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] ਫਿੰਗਰਪਰਿੰਟਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = ਇਸ ਬੁੱਕਮਾਰਕ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ‘ਤੇ ਲਵੋ
@@ -118,6 +144,7 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } ਚਾਲੂ �
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇਹ ਪੜ੍ਹੋ
+cfr-doorhanger-send-tab-recipe-header = ਇਹ ਨੁਸਖੇ ਨੂੂੰ ਰਸੋਈ 'ਚ ਲੈ ਜਾਓ
 cfr-doorhanger-send-tab-ok-button = ਟੈਬ ਭੇਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ
     .accesskey = T
 
@@ -135,3 +162,8 @@ cfr-doorhanger-socialtracking-close-button = ਬੰਦ ਕਰੋ
     .accesskey = C
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ਨੇ ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਿਆ
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਤੋਂ ਫਿੰਗਰਪਰਿੰਟਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
+    .accesskey = S
