@@ -110,7 +110,7 @@ permissions-exceptions-autoplay-media-desc2 = Określ, które witryny będą mog
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
-    .title = Automatyczne odtwarzanie — ustawienia
+    .title = Automatyczne odtwarzanie — uprawnione witryny
     .style = { permissions-window.style }
 permissions-site-autoplay-desc = Zarządzaj witrynami, które nie korzystają z domyślnych ustawień automatycznego odtwarzania.
 
@@ -133,6 +133,13 @@ permissions-site-location-desc = Następujące strony prosiły o możliwość u
 permissions-site-location-disable-label =
     .label = Blokowanie nowych próśb o możliwość uzyskiwania informacji o położeniu
 permissions-site-location-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o możliwość uzyskiwania informacji o położeniu. Zablokowanie uzyskiwania informacji o położeniu może spowodować, że niektóre funkcje witryny nie będą działać.
+
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Rzeczywistość wirtualna — uprawnione witryny
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Następujące strony prosiły o dostęp do urządzeń rzeczywistości wirtualnej. Określ, które witryny mogą uzyskiwać do nich dostęp. Można także zablokować nowe prośby.
 
 ## Site Permissions - Camera
 

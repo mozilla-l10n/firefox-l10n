@@ -122,7 +122,10 @@ menu-view-full-zoom-reduce =
     .label = Pomniejsz
     .accesskey = m
 menu-view-full-zoom-reset =
-    .label = Rozmiar pierwotny
+    .label = Rozmiar oryginalny
+    .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Rozmiar oryginalny
     .accesskey = R
 menu-view-full-zoom-toggle =
     .label = Powiększaj tylko tekst
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Tryb pełnoekranowy
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Wyświetl wszystkie karty
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Dodatki
     .accesskey = D
-menu-tools-sync-sign-in =
-    .label = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }…
-    .accesskey = Z
 menu-tools-fxa-sign-in =
     .label = Zaloguj się w przeglądarce { -brand-product-name }…
     .accesskey = Z
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Synchronizuj teraz
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Zaloguj się ponownie do { -sync-brand-short-name(case: "gen", capitalization: "lower") }…
-    .accesskey = Z
 menu-tools-fxa-re-auth =
     .label = Zaloguj się ponownie w przeglądarce { -brand-product-name }…
     .accesskey = Z
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Uruchom ponownie z włączonymi dodatkami
     .accesskey = U
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Zgłoś oszustwo internetowe…
     .accesskey = Z
