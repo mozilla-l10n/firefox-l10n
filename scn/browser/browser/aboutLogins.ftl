@@ -27,7 +27,7 @@ login-item-copied-username-button-text = Cupiatu!
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = Cupiatu!
 login-item-save-new-button = Sarba
-login-item-cancel-button = Sfallisci
+login-item-cancel-button = Fai sfalliri
 
 ## Master Password notification
 
@@ -37,9 +37,9 @@ login-item-cancel-button = Sfallisci
 
 ## Dialogs
 
-confirmation-dialog-cancel-button = Sfallisci
+confirmation-dialog-cancel-button = Fai sfalliri
 confirmation-dialog-dismiss-button =
-    .title = Sfallisci
+    .title = Fai sfalliri
 confirm-delete-dialog-confirm-button = Cancella
 
 ## Breach Alert notification

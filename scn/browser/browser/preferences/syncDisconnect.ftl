@@ -12,8 +12,8 @@ sync-disconnect-remove-other-caption = Cancella autri dati privati
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Mi staju sculligannu…
 sync-disconnect-cancel =
-    .label = Sfallisci
-    .accesskey = S
+    .label = Fai sfalliri
+    .accesskey = F
 
 ## Disconnect confirm Button
 ##

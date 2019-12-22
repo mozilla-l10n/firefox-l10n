@@ -62,7 +62,7 @@ feature-enable-requires-restart = { -brand-short-name } s'àvi a riabbiari p'abb
 feature-disable-requires-restart = { -brand-short-name } s'àvi a riabbiari pi disabilitari sta funziunalità.
 should-restart-title = Riabbìa { -brand-short-name }
 should-restart-ok = Riabbìa { -brand-short-name } ora
-cancel-no-restart-button = Sfallisci
+cancel-no-restart-button = Fai sfalliri
 restart-later = Riabbìa doppu
 
 ## Extension Control Notifications
@@ -576,8 +576,8 @@ sync-device-name-change =
     .label = Cancia lu nomu dû dispusitivu...
     .accesskey = h
 sync-device-name-cancel =
-    .label = Sfallisci
-    .accesskey = S
+    .label = Fai sfalliri
+    .accesskey = F
 sync-device-name-save =
     .label = Sarba
     .accesskey = v

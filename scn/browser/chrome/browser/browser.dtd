@@ -168,6 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Vai avanti di na pàggina">
 <!ENTITY reloadCmd.label              "Càrrica arredi">
 <!ENTITY reloadCmd.accesskey          "C">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY printButton.label            "Stampa">
 
@@ -392,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "n">
 
 <!ENTITY openLinkCmdInTab.label       "Rapi u ligami nta na scheda nova">
+
 <!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Rapi u ligami nta na finestra nova">
 <!ENTITY openLinkCmd.accesskey        "f">
@@ -407,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Mustra sulu stu quatru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Càrrica arredi lu quatru">
 <!ENTITY reloadFrameCmd.accesskey     "C">
@@ -441,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sarba la pàggina comu…">
 <!ENTITY savePageCmd.accesskey        "c">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Sarba lu quatru comu…">
 <!ENTITY saveFrameCmd.accesskey       "q">
@@ -523,6 +527,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.commandkey "f">
@@ -600,7 +605,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Cchiù nfurmazziuna">
 
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Cchiù nfurmazziuna">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Sfallisci">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Fai sfalliri">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
