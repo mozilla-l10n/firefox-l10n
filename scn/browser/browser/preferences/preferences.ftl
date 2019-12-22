@@ -5,7 +5,7 @@
 do-not-track-description = Manna ê siti web na signalazziuni "Nun trazzari" pi nfurmalli ca nun voi ca ti tràzzanu
 do-not-track-learn-more = Cchiù nfurmazziuna
 do-not-track-option-default-content-blocking-known =
-    .label = Sulu quannu { -brand-short-name } è mpustatu pi bluccari li trazzatura canusciuti
+    .label = Sulu quannu { -brand-short-name } è mpustatu pi bluccari i trazzatura canusciuti
 do-not-track-option-always =
     .label = Sempri
 pref-page =
@@ -60,7 +60,7 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = { -brand-short-name } s'àvi a riabbiari p'abbilitari sta funziunalità.
-feature-disable-requires-restart = { -brand-short-name } s'àvi a riabbiari pi disabilitari sta funziunalità.
+feature-disable-requires-restart = { -brand-short-name } s'àvi a riabbiari pi disabbilitari sta funziunalità.
 should-restart-title = Riabbìa { -brand-short-name }
 should-restart-ok = Riabbìa { -brand-short-name } ora
 cancel-no-restart-button = Fai sfalliri
@@ -78,19 +78,19 @@ restart-later = Riabbìa doppu
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Na stinziuni, <img data-l10n-name="icon"/> { $name }, cuntrolla la to pàggina mastra.
+extension-controlled-homepage-override = A stinziuni <img data-l10n-name="icon"/> { $name } cuntrolla a to pàggina mastra.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Na stinziuni, <img data-l10n-name="icon"/> { $name }, cuntrolla la to pàggina Scheda nova.
+extension-controlled-new-tab-url = A stinziuni <img data-l10n-name="icon"/> { $name } cuntrolla a to pàggina Nova scheda.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Na stinziuni, <img data-l10n-name="icon"/> { $name }, cuntrolla sta mpustazziuni.
+extension-controlled-web-notifications = A stinziuni <img data-l10n-name="icon"/> { $name } cuntrolla sta mpustazziuni.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Na stinziuni, <img data-l10n-name="icon"/> { $name }, mpustò lu to muturi di ricerca pridifinutu.
+extension-controlled-default-search = A stinziuni <img data-l10n-name="icon"/> { $name } mpustò u to muturi di ricerca pridifinutu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Na stinziuni, <img data-l10n-name="icon"/> { $name }, àvi bisognu di Schedi cuntinitura.
+extension-controlled-privacy-containers = A stinziuni <img data-l10n-name="icon"/> { $name } àvi bisognu dî Schedi cuntinitura.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Na stinziuni, <img data-l10n-name="icon"/> { $name }, cuntrolla sta mpustazziuni.
@@ -504,9 +504,16 @@ search-bar-shown =
     .label = Agghiunci barra di ricerca nnâ barra dî strumenti
 search-engine-default-header = Muturi di ricerca pridifinutu
 search-engine-default-desc = Scegghi lu muturi di ricerca pridifinutu di usari nnâ barra dû nnirizzu e nnâ barra di ricerca.
+search-engine-default-desc-2 = Chistu è u to muturi di ricerca pridifinutu pâ barra dû nnirizzu e chiḍḍa di ricerca. Po' canciallu quannu voi.
+search-engine-default-private-desc-2 = Scegghi n'autru muturi di ricerca sulu pî finestri privati.
+search-separate-default-engine =
+    .label = Usa stu muturi di ricerca nnê finestri privati
+    .accesskey = U
+search-suggestions-header = Suggirimenti di ricerca
+search-suggestions-desc = Scegghi comu vennu mustrati i suggirimenti dî muturi di ricerca.
 search-suggestions-option =
-    .label = Furnisci suggirimenti di ricerca
-    .accesskey = s
+    .label = Dùnami suggirimenti di ricerca
+    .accesskey = D
 search-show-suggestions-url-bar-option =
     .label = Mustra suggirimenti di ricerca nnê risurtati dâ barra dû nnirizzu
     .accesskey = l
@@ -516,15 +523,19 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Mustra suggirimenti di ricerca nnô ncapu dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
-search-suggestions-cant-show = Cerca suggirimenti nun veni mustratu nnê risurtati dâ barra di lucalizzazziuni picchì cunfijurasti { -brand-short-name } ca nun sarba la crunuluggìa.
-search-one-click-desc = Scegghi li mutura di ricerca artirnativi ca cumparìscinu sutta la barra dû nnirizzu e la barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
+    .label = Mustra suggirimenti di ricerca prima dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
+search-show-suggestions-private-windows =
+    .label = Mustra suggirimenti di ricerca nnê finestri privati
+suggestions-addressbar-settings = Cancia prifirenzi dî suggirimenti pâ crunuluggìa di navigazziuni, i nzingalibbri e i schedi
+search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
+search-one-click-header = Muturi di ricerca c'un clic sulu
+search-one-click-desc = Scegghi i mutura di ricerca artirnativi ca cumparìscinu sutta â barra dû nnirizzu e â barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
 search-choose-engine-column =
     .label = Muturi di ricerca
 search-choose-keyword-column =
     .label = Palora-chiavi
 search-restore-default =
-    .label = Riprìstina li mutura di ricerca pridifinuti
+    .label = Riprìstina i mutura di ricerca pridifinuti
     .accesskey = D
 search-remove-engine =
     .label = Leva
