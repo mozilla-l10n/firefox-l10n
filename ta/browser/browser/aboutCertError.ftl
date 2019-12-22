@@ -26,6 +26,10 @@ cert-error-not-yet-valid-now = வலைத்தளங்கள் தங்க
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = பிழைக் குறியீடு: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = வலைத்தளங்கள் தங்கள் அடையாளத்தைச் சான்றிதழ்கள்மூலம் நிரூபிக்கின்றன, அவை சான்றிதழ் நிறுவனங்களால் வழங்கப்படுகின்றன. பெரும்பாலான உலாவிகள் GeoTrust, RapidSSL, Symantec, Thawte, மற்றும் VeriSign வழங்கிய சான்றிதழ்களை நம்புவதில்லை. { $hostname } இந்த நிறுவனங்களின் ஏதோ ஒன்றிடமிருந்து சான்றிதழைப் பெற்றுள்ளது, எனவே வலைத்தளத்தின் அடையாளத்தை நிரூபிக்க முடியாது.
+cert-error-symantec-distrust-admin = இந்தச் சிக்கல்குறித்து வலைத்தள நிர்வாகிக்கு நீங்கள் அறிவிக்கலாம்.
+# Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP கண்டிப்பான போக்குவரத்து பாதுகாப்பு: { $hasHSTS }
 # Variables:
