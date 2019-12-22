@@ -1026,6 +1026,7 @@ permissions-a11y-privacy-link = Issin ugar
 collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
 collection-description = Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n { -brand-short-name } i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.
 collection-privacy-notice = Tasertit n tbaḍnit
+collection-health-report-telemetry-disabled = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
 collection-health-report-telemetry-disabled-link = Issin ugar
 collection-health-report =
     .label = Sireg { -brand-short-name } ad yazen isefka itiknikanen ɣer { -vendor-short-name }
