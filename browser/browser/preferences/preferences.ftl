@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Ha seleccionado una palabra clave que está si
 ## Containers Section
 
 containers-back-link = « Volver atrás
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Volver a Opciones
+           *[other] Volver a Preferencias
+        }
 containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Añadir nuevo contenedor
@@ -968,6 +974,10 @@ permissions-location = Ubicación
 permissions-location-settings =
     .label = Configuración…
     .accesskey = u
+permissions-xr = Realidad virtual
+permissions-xr-settings =
+    .label = Ajustes…
+    .accesskey = t
 permissions-camera = Cámara
 permissions-camera-settings =
     .label = Configuración…
@@ -1016,6 +1026,8 @@ permissions-a11y-privacy-link = Saber más
 collection-header = Recopilación y uso de datos de { -brand-short-name }
 collection-description = Nos esforzamos en proporcionarle opciones y recopilamos solo lo que necesitamos para proporcionarle y mejorar { -brand-short-name } para todos. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Aviso sobre privacidad
+collection-health-report-telemetry-disabled = Ya no permite que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
+collection-health-report-telemetry-disabled-link = Saber más
 collection-health-report =
     .label = Permitir a { -brand-short-name } enviar datos técnicos y de interacción a { -vendor-short-name }
     .accesskey = P
