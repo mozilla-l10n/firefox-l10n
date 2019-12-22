@@ -71,7 +71,7 @@
 <!ENTITY  crash_comment "تبصرہ ڈالیں (تبصرے سب کو نظر آتے ہیں)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; کو مجھ سے اس رپورٹ کے بارے میں رابطہ کرنے کی اجازت دیں">
 <!ENTITY  crash_email "آپ کا ای میل">
-<!ENTITY  crash_closing_alert "کریش رپورٹ بھیجنے سے پہلے خروج کریں؟">
+<!ENTITY  crash_closing_alert "کریش رپورٹ بھیجے بغیر باہر نکلیں؟">
 <!ENTITY  sending_crash_report "کریش رپورٹ بھیج رہا ہے\u2026">
 <!ENTITY  crash_close_label "بند کریں">
 <!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
@@ -383,7 +383,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ابھی خالی کریں">
-<!ENTITY pref_clear_on_exit_title3 "نجی کوائف صاف کریں خروج پر">
+<!ENTITY pref_clear_on_exit_title3 "باہر نکلنے پر نجی ڈیٹا صاف کریں">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; خود بخود آپ کے کوائف صاف کردے گا جب بھی آپ مرکزی مینیو سے \&quot;Quit\&quot;  منتخب کریں گے">
 <!ENTITY pref_clear_on_exit_dialog_title "منتخب کریں کون سے کوائف خالی کرنے ہیں">
 <!ENTITY pref_restore_tabs "ٹیبیں بحال کریں">
