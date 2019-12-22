@@ -565,6 +565,12 @@ search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez
 ## Containers Section
 
 containers-back-link = « Wróć
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Wróć do opcji
+           *[other] Wróć do preferencji
+        }
 containers-header = Karty z kontekstem
 containers-add-button =
     .label = Dodaj kontekst
@@ -972,6 +978,10 @@ permissions-location = Położenie
 permissions-location-settings =
     .label = Ustawienia…
     .accesskey = t
+permissions-xr = Rzeczywistość wirtualna
+permissions-xr-settings =
+    .label = Ustawienia…
+    .accesskey = e
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Ustawienia…
@@ -1020,6 +1030,8 @@ permissions-a11y-privacy-link = Więcej informacji
 collection-header = Dane zbierane przez program { -brand-short-name }
 collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
 collection-privacy-notice = Prywatność
+collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
+collection-health-report-telemetry-disabled-link = Więcej informacji
 collection-health-report =
     .label = Przesyłanie do organizacji { -vendor-short-name } danych technicznych i o interakcjach z przeglądarką { -brand-short-name }.
     .accesskey = z

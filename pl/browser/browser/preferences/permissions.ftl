@@ -140,6 +140,9 @@ permissions-site-xr-window =
     .title = Rzeczywistość wirtualna — uprawnione witryny
     .style = { permissions-window.style }
 permissions-site-xr-desc = Następujące strony prosiły o dostęp do urządzeń rzeczywistości wirtualnej. Określ, które witryny mogą uzyskiwać do nich dostęp. Można także zablokować nowe prośby.
+permissions-site-xr-disable-label =
+    .label = Blokowanie nowych próśb o dostęp do urządzeń rzeczywistości wirtualnej
+permissions-site-xr-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do urządzeń rzeczywistości wirtualnej. Zablokowanie dostępu do urządzeń rzeczywistości wirtualnej może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Camera
 
