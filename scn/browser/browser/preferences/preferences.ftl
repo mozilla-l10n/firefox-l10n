@@ -34,6 +34,7 @@ search-input-box =
             [windows] Trova nnall'uzziuna
            *[other] Trova nnê prifirenzi
         }
+managed-notice = U to navigaturi è gistutu dâ to urganizzazziuni.
 pane-general-title = Ginirali
 category-general =
     .tooltiptext = { pane-general-title }
@@ -258,12 +259,41 @@ applications-action-column =
     .label = Azziuna
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = pricu { $extension }
+applications-action-save =
+    .label = Sarba pricu
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Usa { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Usa { $app-name } (pridifinutu)
+applications-use-other =
+    .label = Usa n'autra app…
+applications-select-helper = Scegghi applicazziuni sterna
+applications-always-ask =
+    .label = Addumanna sempri
+applications-type-pdf = PDF (Furmatu di Ducumentu Purtàbbili)
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Usa { $plugin-name } (nne { -brand-short-name })
+applications-preview-inapp =
+    .label = Antiprima nne { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -286,9 +316,9 @@ applications-use-other-label =
 
 
 
-drm-content-header = Cuntinutu di gistiuni diritta diggitali (GDD)
+drm-content-header = Cuntinutu di gistiuni diritta diggitali (DRM)
 play-drm-content =
-    .label = Ripruduci cuntinutu cuntrullatu di GDD
+    .label = Ripruduci cuntinutu cuntrullatu di DRM
     .accesskey = P
 play-drm-content-learn-more = Cchiù nfurmazziuna
 update-application-title = Attualizzazziuna di { -brand-short-name }
@@ -318,6 +348,18 @@ update-pref-write-failure-title = Scrittura falluta
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Mpussìbbili sarbari li prifirenzi. Nun si potti scrìviri nnô plicu: { $path }
+update-setting-write-failure-title = Erruri sarbannu i prifirenzi
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Cci fu n'erruri e { -brand-short-name } nun sarbò stu canciamentu. Teni 'n cuntu chi sarbari sta prifirenza abbisogna dû pirmisu di scrìviri nnô pricu scrittu appressu. Avissi a èssiri pussìbbili currèggiri st'erruri dànnuci ô gruppu Utenti u cuntrollu tutali supra a stu pricu.
+    
+    Mpussìbbili scrìviri nnô pricu: { $path }
+update-in-progress-title = Staju attualizzannu
+update-in-progress-message = Vo' chi { -brand-short-name } cuntinuassi cu l'attualizzazziuni?
+update-in-progress-ok-button = &Stagghia
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinua
@@ -360,6 +402,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cerca testu quannu accuminci a diggitari
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Attiva cuntrulli mmàggini-nnâ-mmàggini
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Cchiù nfurmazziuna
 browsing-cfr-recommendations =
     .label = Raccumanna stinziuna mentri nàvighi
@@ -418,7 +463,37 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Pàggina mastra di Firefox
+home-prefs-content-description = Scegghi u cuntinutu chi voi nnâ to pàggina mastra di Firefox.
+home-prefs-search-header =
+    .label = Ricerca 'n riti
+home-prefs-topsites-header =
+    .label = Siti principali
+home-prefs-topsites-description = I siti chi vìsiti cchiù assai
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Cunzigghiati di { $provider }
+home-prefs-recommended-by-description = Cuntinuti ntirissanti dâ riti, pirsunalizzati pi tia
 home-prefs-recommended-by-learn-more = Comu funziona
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Artìculi spunzurizzati
+home-prefs-highlights-description = Na silizziuni dî siti chi sarbasti o visitasti
+home-prefs-highlights-option-visited-pages =
+    .label = Pàggini visitati
+home-prefs-highlights-options-bookmarks =
+    .label = Nzingalibbri
+home-prefs-highlights-option-most-recent-download =
+    .label = Scarricamenti cchiù ricenti
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pàggini sarbati nne { -pocket-brand-name }
+home-prefs-snippets-description = Attualizzazziuna di { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } righi
+        }
 
 ## Search Section
 
