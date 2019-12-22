@@ -93,16 +93,16 @@ extension-controlled-default-search = A stinziuni <img data-l10n-name="icon"/> {
 extension-controlled-privacy-containers = A stinziuni <img data-l10n-name="icon"/> { $name } àvi bisognu dî Schedi cuntinitura.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Na stinziuni, <img data-l10n-name="icon"/> { $name }, cuntrolla sta mpustazziuni.
+extension-controlled-websites-content-blocking-all-trackers = A stinziuni <img data-l10n-name="icon"/> { $name } cuntrolla sta mpustazziuni.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Na stinziuni, <img data-l10n-name="icon"/>{ $name }, cuntrolla comu { -brand-short-name } si cunnetti a internet.
+extension-controlled-proxy-config = A stinziuni <img data-l10n-name="icon"/>{ $name } cuntrolla comu { -brand-short-name } si cunnetti â riti.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = P'abbilitari la stinziuni vai nne <img data-l10n-name="addons-icon"/> Agghiuncitini nnô <img data-l10n-name="menu-icon"/> minù.
+extension-controlled-enable = P'abbilitari a stinziuni vai nne <img data-l10n-name="addons-icon"/> Agghiuncitini nnô minù <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -110,31 +110,31 @@ search-results-header = Risurtati dâ ricerca
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Ni dispiaci! Nun cci sunnu risurtati nna l'uzziuna pi “<span data-l10n-name="query">”.
-       *[other] Ni dispiaci! Nun cci sunnu risurtati nnê prifirenzi pi “<span data-l10n-name="query">”.
+        [windows] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query">” nnê prifirenzi.
+       *[other] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query">” nnê prifirenzi.
     }
-search-results-help-link = Ti serbi aiutu? Vìsita <a data-l10n-name="url">{ -brand-short-name } Supportu</a>
+search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name="url">supportu di { -brand-short-name }</a>
 
 ## General Section
 
-startup-header = Abbìa
+startup-header = Abbìu
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Pirmetti a { -brand-short-name } e Firefox di travagghiari nnô stissu mumentu
-use-firefox-sync = Cunzigghiu: chistu usa prufili siparati. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
+use-firefox-sync = Cunzigghiu: chistu usa prufili spartuti. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
 get-started-not-logged-in = Trasi nne { -sync-brand-short-name }...
 get-started-configured = Rapi i prifirenzi di { -sync-brand-short-name }
 always-check-default =
-    .label = Cuntrolla sempri si { -brand-short-name } è lu to navigaturi pridifinutu
-    .accesskey = y
-is-default = { -brand-short-name } piccamora è lu to navigaturi pridifinutu
-is-not-default = { -brand-short-name } nun è lu to navigaturi pridifinutu
+    .label = Cuntrolla sempri si { -brand-short-name } è u to navigaturi pridifinutu
+    .accesskey = s
+is-default = { -brand-short-name } piccamora è u to navigaturi pridifinutu
+is-not-default = { -brand-short-name } nun è u to navigaturi pridifinutu
 set-as-my-default-browser =
     .label = Fai addivintari pridifinutu...
-    .accesskey = D
+    .accesskey = d
 startup-restore-previous-session =
-    .label = Riprìstina la sissiuni pricidenti
+    .label = Riprìstina a sissiuni pricidenti
     .accesskey = s
 startup-restore-warn-on-quit =
     .label = Abbìsami niscennu dû navigaturi
@@ -142,7 +142,7 @@ disable-extension =
     .label = Disabbìlita stinziuni
 tabs-group-header = Schedi
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab scurri li schedi nna l'ùrdini usati ricentimenti
+    .label = Ctrl+Tab scurri i schedi nna l'ùrdini d'usu ricenti
     .accesskey = T
 open-new-link-as-tabs =
     .label = Rapi i ligami nnê schedi mmeci ca nna finestri novi
@@ -157,7 +157,7 @@ switch-links-to-new-tabs =
     .label = Quannu rapi un ligami nna na scheda nova, passa sùbbitu a chiḍḍa
     .accesskey = h
 show-tabs-in-taskbar =
-    .label = Mustra antiprima dâ scheda nnâ barra di l'appricazziuna dî finestri
+    .label = Mustra antiprima dâ scheda nnâ barra di l'appricazziuna di Windows
     .accesskey = k
 browser-containers-enabled =
     .label = Abbìlita schedi cuntinituri
@@ -166,11 +166,11 @@ browser-containers-learn-more = Cchiù nfurmazziuna
 browser-containers-settings =
     .label = Mpustazziuna...
     .accesskey = i
-containers-disable-alert-title = Vo' chiùjiri tutti li schedi cuntinituri?
+containers-disable-alert-title = Vo' chiùjiri tutti i schedi cuntinituri?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Si disabbìliti li schedi cuntinituri ora, { $tabCount } scheda cuntinituri veni chiusa. Sì sicuru ca vo' disabbilitari li schedi cuntinituri?
-       *[other] Si disabbìliti li schedi cuntinituri ora, { $tabCount } schedi cuntinituri vennu chiusi. Sì sicuru ca vo' disabbilitari li schedi cuntinituri?
+        [one] Si disabbìliti i schedi cuntinituri ora, { $tabCount } scheda cuntinituri veni chiusa. Sì sicuru ca vo' disabbilitari i schedi cuntinituri?
+       *[other] Si disabbìliti i schedi cuntinituri ora, { $tabCount } schedi cuntinituri vennu chiusi. Sì sicuru ca vo' disabbilitari i schedi cuntinituri?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -183,7 +183,7 @@ containers-remove-alert-title = Livari stu cuntinituri?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Si levi stu cuntinituri ora, { $count } scheda cuntinituri veni chiusu. Sì sicuru ca vo' livari stu cuntinituri?
+        [one] Si levi stu cuntinituri ora, { $count } scheda cuntinituri veni chiusa. Sì sicuru ca vo' livari stu cuntinituri?
        *[other] Si levi stu cuntinituri ora, { $count } schedi cuntinituri vennu chiusi. Sì sicuru ca vo' livari stu cuntinituri?
     }
 containers-remove-ok-button = Leva stu cuntinituri
@@ -194,9 +194,9 @@ containers-remove-cancel-button = Nun livari stu cuntinituri
 language-and-appearance-header = Lingua e aspettu
 fonts-and-colors-header = Caràttiri e culura
 default-font = Caràttiri pridifinutu
-    .accesskey = D
+    .accesskey = C
 default-font-size = Diminziuni
-    .accesskey = S
+    .accesskey = z
 advanced-fonts =
     .label = Avanzatu..
     .accesskey = A
@@ -204,16 +204,15 @@ colors-settings =
     .label = Culura...
     .accesskey = C
 language-header = Lingua
-choose-language-description = Scegghi la to lingua prifiruta pi mustrari pàggini
+choose-language-description = Scegghi a to lingua prifiruta pi mustrari pàggini
 choose-button =
     .label = Scegghi...
-    .accesskey = o
-choose-browser-language-description = Scegghi li lingui di usari pi mustrari minù, missaggi e nutìfichi di { -brand-short-name }.
+    .accesskey = S
+choose-browser-language-description = Scegghi i lingui di usari pi mustrari minù, missaggi e nutìfichi di { -brand-short-name }.
 manage-browser-languages-button =
     .label = Mposta artirnativi...
-    .accesskey = l
+    .accesskey = a
 confirm-browser-language-change-description = Riabbìa { -brand-short-name } p'appricari sti canciamenti
-confirm-browser-language-change-button = Appreca e riabbìa
 translate-web-pages =
     .label = Traduci cuntinutu 'n riti
     .accesskey = T
@@ -221,42 +220,42 @@ translate-web-pages =
 # used to provide machine translations for web pages.
 translate-attribution = Traduzziuna di <img data-l10n-name="logo"/>
 translate-exceptions =
-    .label = Ccizziuna
-    .accesskey = x
+    .label = Eccizziuna…
+    .accesskey = z
 check-user-spelling =
     .label = Cuntrolla l'ortugrafìa mentri dìggiti
     .accesskey = t
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Plichi e applicazziuna
+files-and-applications-title = Prichi e applicazziuna
 download-header = Scarricamenti
 download-save-to =
-    .label = Sarba plichi nne
-    .accesskey = v
+    .label = Sarba prichi nne
+    .accesskey = b
 download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] Scegghi...
-           *[other] Cerca
+           *[other] Nàviga…
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] e
-           *[other] o
+            [macos] g
+           *[other] g
         }
 download-always-ask-where =
-    .label = Addumanna sempri unni sarbari li plichi
+    .label = Addumanna sempri unni sarbari i prichi
     .accesskey = A
 applications-header = Appricazziuna
-applications-description = Scegghi comu { -brand-short-name } tratta li plichi ca scàrrichi dâ Riti o l'applicazziuna ca usi mentri nàvighi.
+applications-description = Scegghi comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l'applicazziuna ca usi mentri nàvighi.
 applications-filter =
-    .placeholder = Cerca tipi di plichi o appricazziuna
+    .placeholder = Cerca tipi di prichi o appricazziuna
 applications-type-column =
     .label = Tipu di cuntinutu
     .accesskey = T
 applications-action-column =
-    .label = Azziuna
+    .label = Azziuni
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
@@ -322,32 +321,32 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Cchiù nfurmazziuna
 update-application-title = Attualizzazziuna di { -brand-short-name }
-update-application-description = Teni { -brand-short-name } aggiurnatu p'aviri megghiu pristazziuna, stabbilità e sicurizza.
-update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' li nuvità</a>
+update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazziuna, stabbilità e sicurizza.
+update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
 update-history =
     .label = Mustra crunuluggìa attualizzazziuna...
     .accesskey = M
 update-application-allow-description = Pirmetti a { -brand-short-name } di
 update-application-auto =
-    .label = Nzita autumaticamenti l'attualizzazziuna (cunzigghiatu)
+    .label = Nzitari autumaticamenti l'attualizzazziuna (cunzigghiatu)
     .accesskey = N
 update-application-check-choose =
-    .label = Cuntrolla si cci su' attualizzazziuna ma addumànnami si nzitalli
+    .label = Cuntrullari si cci su' attualizzazziuna (ma addumànnami si nzitalli)
     .accesskey = C
 update-application-manual =
     .label = Nun cuntrullari mai si cci su' attualizzazziuna (nun cunzigghiatu)
     .accesskey = N
-update-application-warning-cross-user-setting = Sta mpustazziuni s'appreca a tutti li cunti di Windows e li prufili di { -brand-short-name } ca ùsanu sta nstallazziuni di { -brand-short-name }.
+update-application-warning-cross-user-setting = Sta mpustazziuni s'appreca a tutti i cunti di Windows e i prufili di { -brand-short-name } ca ùsanu stu nzitamentu di { -brand-short-name }.
 update-application-use-service =
     .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzazziuna
     .accesskey = b
 update-enable-search-update =
-    .label = Aggiorna autumaticamenti li mutura di ricerca
+    .label = Attualizza autumaticamenti i mutura di ricerca
     .accesskey = e
-update-pref-write-failure-title = Scrittura falluta
+update-pref-write-failure-title = Erruri di scrittura
 # Variables:
 #   $path (String) - Path to the configuration file
-update-pref-write-failure-message = Mpussìbbili sarbari li prifirenzi. Nun si potti scrìviri nnô plicu: { $path }
+update-pref-write-failure-message = Mpussìbbili sarbari i prifirenzi. Mpussìbbili scrìviri nnô pricu: { $path }
 update-setting-write-failure-title = Erruri sarbannu i prifirenzi
 # Variables:
 #   $path (String) - Path to the configuration file
@@ -368,17 +367,17 @@ update-in-progress-cancel-button = &Cuntinua
 
 performance-title = Pristazziuni
 performance-use-recommended-settings-checkbox =
-    .label = Usa li mpustazziuna di pristazziuni raccumannati
+    .label = Usa i mpustazziuna raccumannati
     .accesskey = U
-performance-use-recommended-settings-desc = Sti mpustazziuna su' fatti apposta pi l'hardware e lu sistema upirativu dû to computer.
+performance-use-recommended-settings-desc = Sti mpustazziuna su' fatti apposta pi l'hardware e u sistema upirativu dû to computer.
 performance-settings-learn-more = Cchiù nfurmazziuna
 performance-allow-hw-accel =
     .label = Usa l'accillirazziuni hardware quannu dispunìbbili
     .accesskey = r
-performance-limit-content-process-option = Limiti prucessu cuntinutu
+performance-limit-content-process-option = Lìmiti di prucessi pû cuntinutu
     .accesskey = l
-performance-limit-content-process-enabled-desc = Li prucessi di cuntinutu addizziunali ponnu migghiurari li pristazziuna quannu si ùsanu assai schedi, ma ùsanu puru assi mimoria.
-performance-limit-content-process-blocked-desc = Canciari lu nùmmaru di prucessi cuntinutu è pussìbbili su cu { -brand-short-name } murtiprucessu. <a data-l10n-name="learn-more">Nzìgnati comu cuntrullari si murtiprucessu è abbilitatu</a>
+performance-limit-content-process-enabled-desc = Un nùmmaru cchiù autu di prucessi pû cuntinutu po migghiurari i pristazziuna quannu si ùsanu assai schedi, ma ùsanu puru assi mimoria.
+performance-limit-content-process-blocked-desc = Canciari u nùmmaru di prucessi pû cuntinutu è pussìbbili sulu câ mudalità murtiprucessu di { -brand-short-name }. <a data-l10n-name="learn-more">Nzìgnati comu cuntrullari si a mudalità murtiprucessu è abbilitata</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -388,16 +387,16 @@ performance-default-content-process-count =
 
 browsing-title = Navigazziuni
 browsing-use-autoscroll =
-    .label = Usa lu scurrimentu autumàticu
+    .label = Usa u scurrimentu autumàticu
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = Usa lu scurrimentu lisciu
+    .label = Usa u scurrimentu lisciu
     .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = Mustra na tastera tàttili quannu serbi
     .accesskey = c
 browsing-use-cursor-navigation =
-    .label = Usa sempri li tasti cursura pi navigari nnê pàggini
+    .label = Usa sempri i tasti cursura pi navigari nnê pàggini
     .accesskey = k
 browsing-search-on-start-typing =
     .label = Cerca testu quannu accuminci a diggitari
@@ -426,7 +425,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novi finestri e schedi
-home-new-windows-tabs-description2 = Scegghi chiḍḍu chi vidi quannu rapi a pàggina mastra, finestri e schedi novi.
+home-new-windows-tabs-description2 = Scegghi chiḍḍu chi vidi quannu rapi a pàggina mastra, novi finestri o novi schedi.
 
 ## Home Section - Home Page Customization
 
@@ -438,13 +437,13 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Pàggina mastra di Firefox (Pridifinutu)
+    .label = Pàggina mastra di Firefox (pridifinutu)
 home-mode-choice-custom =
-    .label = Pirsunalizza li URL...
+    .label = Nnirizzi pirsunalizzati…
 home-mode-choice-blank =
     .label = Pàggina vacanti
 home-homepage-custom-url =
-    .placeholder = Ncoḍḍa n'URL...
+    .placeholder = Ncoḍḍa nu nnirizzu…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -452,14 +451,14 @@ home-homepage-custom-url =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] Usa la pàggina currenti
-            [one] Usa la pàggina currenti
-           *[other] Usa li pàggini currenti
+            [1] Usa a pàggina currenti
+            [one] Usa a pàggina currenti
+           *[other] Usa i pàggini currenti
         }
-    .accesskey = C
+    .accesskey = c
 choose-bookmark =
-    .label = Usa nzingalibbra...
-    .accesskey = B
+    .label = Usa nu nzingalibbru...
+    .accesskey = n
 
 ## Home Section - Firefox Home Content Customization
 
