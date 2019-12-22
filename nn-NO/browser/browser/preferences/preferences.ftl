@@ -1026,6 +1026,7 @@ permissions-a11y-privacy-link = Les meir
 collection-header = Datainnsamling og bruk for { -brand-short-name }
 collection-description = Vi prøver alltid å gje deg val og samlar inn berre det vi treng for å levere og forbetre { -brand-short-name } for alle. Vi ber alltid om løyve før vi får personopplysningar.
 collection-privacy-notice = Personvernpraksis
+collection-health-report-telemetry-disabled = Du tillèt ikkje lenger { -vendor-short-name } å samle inn teknisk- og interaksjonsdata. Alle tidlegare data vil bli sletta innan 30 dagar.
 collection-health-report-telemetry-disabled-link = Les meir
 collection-health-report =
     .label = Tillat { -brand-short-name } å sende tekniske data og data for bruk til { -vendor-short-name }
