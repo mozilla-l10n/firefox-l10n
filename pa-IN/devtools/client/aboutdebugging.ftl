@@ -94,6 +94,12 @@ about-debugging-setup-usb-status-enabled = ਸਮਰੱਥ ਕੀਤਾ
 about-debugging-setup-usb-status-disabled = ਅਸਮਰੱਥ ਕੀਤਾ
 about-debugging-setup-usb-status-updating = …ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = ਆਪਣੇ ਐਂਡਰਾਇਡ ਡਿਵਾਈਸ ਤੇ ਡਿਵੈਲਪਰ ਮੀਨੂ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = ਐਂਡਰਾਇਡ ਡਿਵੈਲਪਰ ਮੀਨੂ ਵਿੱਚ USB ਡੀਬਗਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = ਐਂਡਰਾਇਡ ਡਿਵਾਈਸ ਤੇ ਫਾਇਰਫਾਕਸ ਵਿਚ USB ਡੀਬੱਗਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = ਐਂਡਰਾਈਡ ਡਿਵਾਈਸ ਨੂੰ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
@@ -101,6 +107,9 @@ about-debugging-setup-usb-troubleshoot = ਕੀ USB ਡਿਵਾਈਸ ਨਾਲ
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = ਨੈੱਟਵਰਕ ਟਿਕਾਣਾ
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = ਨੈਟਵਰਕ ਟਿਕਾਣਾ ਰਾਹੀਂ ਕਨੈਕਟ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆਵਾਂ ਹਨ? <a>ਸਮੱਸਿਆ ਨਾਲ ਨਿਪਟੋ</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = ਜੋੜੋ
@@ -187,6 +196,8 @@ about-debugging-tmp-extension-remove-button = ਹਟਾਓ
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = Manifest.json ਫਾਇਲ ਜਾਂ .xpi / .zip ਅਕਾਇਵ ਚੁਣੋ
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = ਇਸ WebExtension ਵਿੱਚ ਆਰਜ਼ੀ ਆਈਡੀ ਹੈ। <a> ਹੋਰ ਜਾਣੋ </a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
