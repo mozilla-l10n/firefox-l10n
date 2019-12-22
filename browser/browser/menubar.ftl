@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Palauta
     .accesskey = a
+menu-view-full-zoom-actual-size =
+    .label = Todellinen koko
+    .accesskey = T
 menu-view-full-zoom-toggle =
     .label = Muuta vain tekstin kokoa
     .accesskey = M
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Kokoruututila
     .accesskey = K
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Näytä kaikki välilehdet
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Lisäosat
     .accesskey = o
-menu-tools-sync-sign-in =
-    .label = Kirjaudu { -sync-brand-short-name }-palveluun…
-    .accesskey = K
 menu-tools-fxa-sign-in =
     .label = Kirjaudu { -brand-product-name }iin…
     .accesskey = K
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Synkronoi
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Palauta yhteys { -sync-brand-short-name }-palveluun…
-    .accesskey = P
 menu-tools-fxa-re-auth =
     .label = Yhdistä uudestaan { -brand-product-name }iin…
     .accesskey = Y
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Käynnistä uudelleen lisäosat päällä
     .accesskey = K
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Ilmoita petollinen sivusto…
     .accesskey = p
