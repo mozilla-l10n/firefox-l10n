@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Vezmite si { -brand-product-name } so sebou
 onboarding-sync-welcome-content = Majte svoje záložky, históriu, heslá a ostatné nastavenia na všetkých vašich zariadeniach.
 onboarding-sync-welcome-learn-more-link = Ďalšie informácie o účtoch Firefox
-onboarding-sync-form-invalid-input = Vyžaduje sa platná e-mailová adresa
-onboarding-sync-legal-notice = Pokračovaním súhlasíte s <a data-l10n-name="terms">podmienkami používania služby</a> a <a data-l10n-name="privacy">zásadami ochrany súkromia</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Pokračovať
@@ -130,6 +128,9 @@ onboarding-send-tabs-title = Odosielajte si karty medzi zariadeniami
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Posielanie kariet funguje ako okamžité zdielanie stránok medzi vašimi zariadeniami. Nemusíte nič kopírovať ani opúšťať prehliadač.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Zdieľajte a posielajte stránky medzi svojimi zariadeniami. Nemusíte kopírovať žiadne odkazy ani opúšťať prehliadač.
 onboarding-send-tabs-button = Začnite s odosielaním kariet
 onboarding-pocket-anywhere-title = Čítajte a počúvajte kdekoľvek
 onboarding-pocket-anywhere-text2 = Uložte si svoj obľúbený obsah offline s aplikáciou { -pocket-brand-name } a čítajte či počúvajte kedykoľvek.
@@ -137,9 +138,15 @@ onboarding-pocket-anywhere-button = Vyskúšajte { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Vezmite si svoje heslá so sebou
 onboarding-lockwise-passwords-text2 = Uložte si svoje heslá do bezpečia pomocou { -lockwise-brand-name }, ktorý vám uľahčí rýchle prihlasovanie do vašich účtov.
 onboarding-lockwise-passwords-button2 = Prevziať aplikáciu
+onboarding-lockwise-strong-passwords-title = Tvorba silných hesiel
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } vám okamžite vygeneruje silné heslá a uloží ich bezpečne na jednom mieste.
+onboarding-lockwise-strong-passwords-button = Správa prihlasovacích údajov
 onboarding-facebook-container-title = Stanovte hranice pre Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } oddeľuje váš účet od zvyšku internetu, takže pre Facebook a jeho reklamy je zložité vás na internete vysledovať.
 onboarding-facebook-container-button = Pridať rozšírenie
+onboarding-import-browser-settings-title = Importujte svoje záložky, heslá a ďalšie údaje
+onboarding-import-browser-settings-text = Poďme na to - jednoduchý prenos obľúbených stránok a nastavení z Chromu.
+onboarding-import-browser-settings-button = Import údajov z prehliadača Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

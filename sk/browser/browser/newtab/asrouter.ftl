@@ -107,10 +107,12 @@ cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Pozerajte videá počas prehliadania
+cfr-whatsnew-pip-body = V režime obraz v obraze sa video prehráva v samostatnom okne, takže ho môžete sledovať aj pri práci na iných kartách.
 cfr-whatsnew-pip-cta = Ďalšie informácie
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Menej otravných vyskakovacích okien
 cfr-whatsnew-permission-prompt-cta = Ďalšie informácie
 
 ## Fingerprinter Counter
@@ -153,6 +155,11 @@ cfr-doorhanger-socialtracking-close-button = Zavrieť
     .accesskey = Z
 cfr-doorhanger-socialtracking-dont-show-again = Nabudúce už nezobrazovať
     .accesskey = N
+cfr-doorhanger-socialtracking-heading = Aplikácia { -brand-short-name } zabránila vášmu sledovaniu sociálnou sieťou
+cfr-doorhanger-socialtracking-description = Na vašom súkromí záleží. { -brand-short-name } odteraz blokuje bežné sledovacie prvky sociálnych sietí, čím obmedzuje množstvo údajov, ktoré o vás môžu získať na internete.
+cfr-doorhanger-fingerprinters-heading = Aplikácia { -brand-short-name } zabránila vytvoreniu odtlačku prehliadača
+cfr-doorhanger-fingerprinters-description = Na vašom súkromí záleží. Aplikácia { -brand-short-name } odteraz blokuje tvorbu odtlačkov prehliadača, ktoré sa používajú na vaše sledovanie.
+cfr-doorhanger-cryptominers-heading = Aplikácia { -brand-short-name } zablokovala na tejto stránke ťažbu kryptomien
 
 ## Enhanced Tracking Protection Milestones
 
