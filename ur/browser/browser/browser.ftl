@@ -116,7 +116,7 @@ full-screen-autohide =
     .label = ٹول بار چھپائیں
     .accesskey = H
 full-screen-exit =
-    .label = پوری اسکرین موڈ خروج کریں
+    .label = پوری اسکرین موڈ سے باہر نکلیں
     .accesskey = F
 
 ## Search Engine selection buttons (one-offs)

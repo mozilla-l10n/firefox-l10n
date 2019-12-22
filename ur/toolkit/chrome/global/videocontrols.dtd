@@ -7,9 +7,14 @@
 <!ENTITY muteButton.muteLabel "میوٹ">
 <!ENTITY muteButton.unmuteLabel "انمیوٹ">
 <!ENTITY fullscreenButton.enterfullscreenlabel "پوری سکرین">
-<!ENTITY fullscreenButton.exitfullscreenlabel "پوری سکرین خروج کریں">
+<!ENTITY fullscreenButton.exitfullscreenlabel "پوری سکرین سے باہر نکلیں">
 <!ENTITY castingButton.castingLabel "سکرین پر ڈالیں">
 <!ENTITY closedCaption.off "بند">
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 
 <!ENTITY stats.media "میڈیا">
 <!ENTITY stats.size "سائز">
@@ -30,13 +35,15 @@
 <!ENTITY error.srcNotSupported "وڈیو وضع کاری یا MIME قسم معاونت شدہ نہیں۔">
 <!ENTITY error.noSource2 "معاونت شدہ وضع اور MIME قسم کی کوئی وڈیو نہیں ملی۔">
 <!ENTITY error.generic "وڈیو پلے بیک نامعلوم نقص کی وجی سے ساقط کر دیا گیا۔">
+
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-
 <!ENTITY scrubberScale.nameFormat "#2 میں سے #1 گزر گیا">
+
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
@@ -45,5 +52,5 @@ Note that #2 is not always available. For example, when at the 5 minute mark in 
 unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
-
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+

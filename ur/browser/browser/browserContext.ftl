@@ -111,7 +111,7 @@ main-context-menu-media-pause =
     .label = توقف کریں
     .accesskey = P
 
-##
+
 
 main-context-menu-media-mute =
     .label = خاموش
@@ -153,13 +153,13 @@ main-context-menu-media-hide-controls =
     .label = کنٹرول چھبائیں
     .accesskey = C
 
-##
+
 
 main-context-menu-media-video-fullscreen =
     .label = پوری سکرین
     .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
-    .label = ؑپوری اسکرین سے خروج کریں
+    .label = پوری سکرین سے باہر نکلیں
     .accesskey = u
 main-context-menu-image-reload =
     .label = نقش پھر لوڈ کریں

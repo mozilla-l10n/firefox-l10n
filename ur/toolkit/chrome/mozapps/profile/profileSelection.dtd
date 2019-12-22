@@ -10,7 +10,7 @@
 <!ENTITY            profilename.label      "نام پروفائل:">
 
 <!ENTITY            start.label            "&brandShortName; شروع کریں">
-<!ENTITY            exit.label             "خروج">
+<!ENTITY            exit.label             "باہر نکلیں">
 
 <!ENTITY            availprofiles.label    "دستیاب پروفائل">
 
@@ -20,8 +20,8 @@
 <!ENTITY            renameButton.accesskey "ن">
 <!ENTITY            deleteButton.label     "پروفائل حذف کریں…">
 <!ENTITY            deleteButton.accesskey "ح">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; آپ کی سیٹنگوں، ترجیحات اور دیگر صارفی اشیا کے متعلق معلومات آپ کے صارف پروفائل میں ذخیرہ کرتا ہے۔">
 
 <!ENTITY            offlineState.label    "آف لائن کام کریں">

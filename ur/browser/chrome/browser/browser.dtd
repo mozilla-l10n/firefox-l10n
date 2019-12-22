@@ -107,7 +107,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "پوری اسکرین موڈ میں داخل کریں">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label " پوری اسکرین موڈ خروج کریں">
+<!ENTITY exitFullScreenCmd.label "پوری سکرین سے باہر نکلیں">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "پوری اسکرین">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -130,7 +130,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "بند کریں">
 <!ENTITY fullScreenAutohide.label "ٹول بار چھپائیں">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "پوری اسکرین موڈ خروج کریں">
+<!ENTITY fullScreenExit.label "پوری اسکرین موڈ سے باہر نکلیں">
 <!ENTITY fullScreenExit.accesskey "F">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
@@ -166,9 +166,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "پوری اسکرین سے خروج کریں (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "پوری سکرین خروج کریں (Esc)">
-<!ENTITY leaveDOMFullScreen.label "ؑپوری اسکرین سے خروج کریں">
+<!ENTITY exitDOMFullscreen.button "پوری سکرین سے باہر نکلیں (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "پوری سکرین سے باہر نکلیں (esc)">
+<!ENTITY leaveDOMFullScreen.label "پوری سکرین سے باہر نکلیں">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "رکیں">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        "۔">
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
 <!ENTITY printButton.label            "چھاپیں">
@@ -541,6 +542,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "ربط نئی ٹیب میں کھولیں">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "ربط نئے دریچے میں کھولیں">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -556,6 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "صرف یہ فریم دکھائیں">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "فریم پھر لوڈ کریں">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -602,6 +605,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "صفحہ محفوظ کریں بطور…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "فریم محفوظ کریں بطو ر...">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -731,9 +735,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "بغلی بار بند کریں">
 <!ENTITY sidebarMenuClose.label         "بغلی بار بند کریں">
 
-<!ENTITY quitApplicationCmdWin2.label       "خروج">
+<!ENTITY quitApplicationCmdWin2.label       "باہر نکلیں">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; خارج کریں">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; سے باہر نکلیں">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں">
@@ -768,6 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "متن کی سمت بدلیں کریں">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں…">
