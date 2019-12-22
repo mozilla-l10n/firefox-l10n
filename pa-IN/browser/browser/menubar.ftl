@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = ਮੁੜ-ਸੈੱਟ
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = ਅਸਲ ਅਕਾਰ
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = ਕੇਵਲ ਟੈਕਸਟ ਹੀ ਜ਼ੂਮ ਕਰੋ
     .accesskey = T
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = ਸਭ ਟੈਬ ਵੇਖੋ
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = ਐਡ-ਆਨ
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = …{ -brand-product-name } ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = …{ -sync-brand-short-name } ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ ਕਰੋ
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = …{ -brand-product-name } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = ਐਡ-ਆਨ ਸਮਰੱਥ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = …ਭਰਮਪੂਰਕ ਸਾਈਟ ਨੂੰ ਰਿਪੋਰਟ
     .accesskey = D
