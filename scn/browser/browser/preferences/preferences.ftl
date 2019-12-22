@@ -486,6 +486,12 @@ home-prefs-highlights-option-most-recent-download =
     .label = Scarricamenti cchiù ricenti
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pàggini sarbati nne { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Pizzini
 home-prefs-snippets-description = Attualizzazziuna di { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
@@ -502,7 +508,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Agghiunci barra di ricerca nnâ barra dî strumenti
 search-engine-default-header = Muturi di ricerca pridifinutu
-search-engine-default-desc = Scegghi lu muturi di ricerca pridifinutu di usari nnâ barra dû nnirizzu e nnâ barra di ricerca.
+search-engine-default-desc = Scegghi u muturi di ricerca pridifinutu di usari nnâ barra dû nnirizzu e nnâ barra di ricerca.
 search-engine-default-desc-2 = Chistu è u to muturi di ricerca pridifinutu pâ barra dû nnirizzu e chiḍḍa di ricerca. Po' canciallu quannu voi.
 search-engine-default-private-desc-2 = Scegghi n'autru muturi di ricerca sulu pî finestri privati.
 search-separate-default-engine =
@@ -542,11 +548,11 @@ search-remove-engine =
 search-find-more-link = Trova autri mutura di ricerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Dùplica palora d'accessu
+search-keyword-warning-title = Dùplica palora-chiavi
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Scigghisti na palora d'accessu ca a stu mumentu veni usata di “{ $name }”. Scìgghinni n'autra.
-search-keyword-warning-bookmark = Scigghisti na palora d'accessu ca a stu mumentu veni usati d'un nzingalibbra. Scìgghinni n'autra.
+search-keyword-warning-engine = Scigghisti na palora-chiavi ca a stu mumentu veni usata di “{ $name }”. Scìgghinni n'autra.
+search-keyword-warning-bookmark = Scigghisti na palora-chiavi ca a stu mumentu veni usati di nu nzingalibbru. Scìgghinni n'autra.
 
 ## Containers Section
 
@@ -566,8 +572,8 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Portati appressu la to Riti
-sync-signedout-description = Sincrunizza li to nzingalibbra, la crunuluggìa, li schedi, li palori d'accessu, l'agghiuncitini e li prifirenzi attraversu tutti li to dispusitivi.
+sync-signedout-caption = Portati appressu a to Riti
+sync-signedout-description = Sincrunizza i to nzingalibbri, a crunuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
 sync-signedout-account-title = Cunnetti cu un { -fxaccount-brand-name }
 sync-signedout-account-create = Nun ài un cuntu? Accumincia
     .accesskey = c
