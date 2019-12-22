@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-title = Netzwerkverbindungen
 warning = Diese Funktion ist sehr experimentell. Verwenden Sie sie nicht ohne erwachsene Aufsicht.
 show-next-time-checkbox = Diese Warnung beim nächsten Mal anzeigen
 ok = OK
