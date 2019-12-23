@@ -139,8 +139,10 @@ permissions-site-location-disable-desc = Ko'ãva omboykéta umi ñanduti renda n
 permissions-site-xr-window =
     .title = Ñemboheko - Ñemoneĩ añetegua ñandutípe
     .style = { permissions-window.style }
+permissions-site-xr-desc = Ko'ã ñanduti renda omba'ejerure ikatúpa oike ne ñanduti añetegua mba’e’okápe. Ikatu emyesakã ñanduti renda ne ñanduti añeteguápe mba’e’okápe oikekuaáva. Avéi ikatu ejoko mba'ejerure pyahu oikeséva ne ñanduti añetegua mba’e’okápe rehegua.
 permissions-site-xr-disable-label =
     .label = Ejoko mba’ejerure jeikeha pyahu ne ñanduti añetegua mba’e’okápe
+permissions-site-xr-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva tysýi yvate gotyoguápe ojerurévo ñemoneĩ oike hag̃ua ne rendaitépe. Ejokóramo ne ñanduti añetegua mba’e’okápe jeike ikatu ombyai ambue ñanduti rendápe.
 
 ## Site Permissions - Camera
 
@@ -150,7 +152,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Ko'ãva ñanduti renda ojejerure oike hag̃ua ta'angamýime. Ikatu ehechauka mab'e ñanduti rendápa oguereko ñemoneĩ oikpurúvo ta'angamýi. Avéi ikatu ejoko mba'ejerure pyahu oikeséva ta'angamýime rehegua.
 permissions-site-camera-disable-label =
     .label = Mba'ejerure pyahu joko ani hag̃ua ojepuru ta'angamýi
-permissions-site-camera-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva tysýo yvy gotyo guápe ojerurévo ñemoneĩ oike hag̃ua ta'angamýime. Ejokóramo ta'angamýime jeike ikatu ombyai ambue ñanduti rendápe.
+permissions-site-camera-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva tysýi yvy gotyo guápe ojerurévo ñemoneĩ oike hag̃ua ta'angamýime. Ejokóramo ta'angamýime jeike ikatu ombyai ambue ñanduti rendápe.
 
 ## Site Permissions - Microphone
 
