@@ -15,9 +15,9 @@
 <!ENTITY newevent.eventStatus.none.label          "Not specified" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
 <!ENTITY newevent.todoStatus.none.label           "Not specified" >
-<!ENTITY newevent.eventStatus.cancelled.label     "Canceled" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Cancelled" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
-<!ENTITY newevent.todoStatus.cancelled.label      "Canceled" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Cancelled" >
 <!ENTITY newevent.status.tentative.label          "Tentative" >
 <!ENTITY newevent.status.tentative.accesskey      "T" >
 <!ENTITY newevent.status.confirmed.label          "Confirmed" >
