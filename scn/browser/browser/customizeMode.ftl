@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Riprìstina li mpustazziuna pridifinuti
-customize-mode-menu-and-toolbars-header = Trascina li to cosi favuriti dintra la barra dî strumenti o dintra lu minù a tinnuzza.
+    .label = Riprìstina i mpustazziuna pridifinuti
+customize-mode-menu-and-toolbars-header = Trascina i to cosi favuriti dintra â barra dî strumenti o dintra ô minù a tinnuzza.
 customize-mode-overflow-list-title = Minù a tinnuzza
 customize-mode-uidensity =
     .label = Dinsità
@@ -27,7 +27,7 @@ customize-mode-extra-drag-space =
     .label = Tira spazziu
 customize-mode-lwthemes =
     .label = Temi
-customize-mode-overflow-list-description = Trascina e posa li cosi cca p'avilli a purtata di manu ma fora dâ barra dî strumenti...
+customize-mode-overflow-list-description = Trascina e posa i cosi cca p'avilli a purtata di manu ma fora dâ barra dî strumenti…
 customize-mode-uidensity-menu-normal =
     .label = Nurmali
     .accesskey = N
@@ -42,4 +42,4 @@ customize-mode-lwthemes-menu-get-more =
 customize-mode-undo-cmd =
     .label = Annulla
 customize-mode-lwthemes-my-themes =
-    .value = Li me temi
+    .value = I me temi

@@ -62,9 +62,9 @@ cfr-doorhanger-pintab-animation-resume = Cuntinua
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Sincrunizza i to nzingalibbra unn'è-è
+cfr-doorhanger-bookmark-fxa-header = Sincrunizza i to nzingalibbri unn'è-è
 cfr-doorhanger-bookmark-fxa-body = Ranni scuperta! Ora nun arristari senza stu nzingalibbru nnû to cillulari. Parti cu un { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Sincrunizza i nzingalibbra ora...
+cfr-doorhanger-bookmark-fxa-link-text = Sincrunizza i nzingalibbri ora...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buttuni pi chiùjiri
     .title = Chiuji

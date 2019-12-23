@@ -6,16 +6,16 @@
 <!ENTITY minimizeWindow.label     "Arriduci">
 <!ENTITY windowMenu.label         "Finestra">
 
-<!ENTITY helpMenu.label           "Aiutu"> 
+<!ENTITY helpMenu.label           "Ajutu"> 
 <!ENTITY helpMenu.accesskey       "A"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Aiutu"> 
+<!ENTITY helpMenuWin.label        "Ajutu"> 
 <!ENTITY helpMenuWin.accesskey    "A">
 
 <!ENTITY aboutProduct2.label      "Supra &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "S">
-<!ENTITY productHelp2.label       "Aiutu di &brandShorterName;">
+<!ENTITY productHelp2.label       "Ajutu di &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -24,7 +24,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Nfurmazziuna p'arrisòrbiri prubblemi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
-<!ENTITY helpFeedbackPage.label      "Manna cummentu…">
+<!ENTITY helpFeedbackPage.label      "Manna riscontru…">
 <!ENTITY helpFeedbackPage.accesskey  "c">
 
 <!ENTITY helpShowTour2.label            "Vísita cunnuciuta di &brandShorterName;">

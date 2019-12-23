@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Mposta li pulìtichi ê quali WebExtensions po accèdiri attraversu chrome.storage.managed.
+policy-3rdparty = Mposta i pulìtichi ê quali WebExtensions po accèdiri attraversu chrome.storage.managed.
 policy-AppUpdateURL = Mposta n'URL pirsunalizzatu pi l'attualizzazziuni di l'app.
 policy-Authentication = Cunfijura l'autenticazziuni ntrigrata pî siti ca la suppòrtanu.
 policy-BlockAboutAddons = Blocca l'accessu ô Gisturi di agghiuncitini (about:addons).
@@ -25,7 +25,7 @@ policy-DefaultDownloadDirectory = Mposta la carpetta di scarricamentu pridifinut
 policy-DisableAppUpdate = Mpidisci ô browser di aggiurnàrisi.
 policy-DisableBuiltinPDFViewer = Disabbìlita PDF.js, lu visuallizzaturi di PDF ntigratu nne { -brand-short-name }.
 policy-DisableDeveloperTools = Blocca l'accessu ê strumenti pi diviluppatura.
-policy-DisableFeedbackCommands = Disabbìlita li cumanni pi mannari riscontri dû minù Aiutu (Situ fallaci pû Mmìu Riscontri e Signalazziuna).
+policy-DisableFeedbackCommands = Disabbìlita i cumanni pi mannari riscontri dû minù Ajutu (Manna riscontru e Signalija situ fallaci).
 policy-DisableFirefoxAccounts = Disabbìlita sirbizza basati ncapu a { -fxaccount-brand-name }, nchiusu Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Disabbìlita Schirmati Firefox.
@@ -81,6 +81,6 @@ policy-SearchSuggestEnabled = Abbìlita o disabbìlita suggirimenti di ricerca.
 policy-SecurityDevices = Nstalla li mòduli PKCS #11.
 policy-SSLVersionMax = Mposta la virsiuna màssima di SSL.
 policy-SSLVersionMin = Mposta la virsiuni mìnima di SSL.
-policy-SupportMenu = Agghiùncicci n'uggettu dû minù di supportu pirsunalizzatu o minù d'aiutu.
+policy-SupportMenu = Agghiùncicci n'uggettu dû minù di supportu pirsunalizzatu o minù d'ajutu.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocca la pussibbilità di visitari siti. Talìa la ducumentazziuni pi sapiri cchiù dittagghi ncapu lu furmatu.

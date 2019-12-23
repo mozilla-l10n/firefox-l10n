@@ -40,6 +40,8 @@ urlbar-identity-button =
 
 urlbar-translate-notification-anchor =
     .tooltiptext = Traduci sta pàggina
+urlbar-tip-help-icon =
+    .title = Fatti ajutari
 
 ## Page Action Context Menu
 

@@ -103,7 +103,7 @@ security-view-privacy-viewpasswords =
 security-view-technical =
     .value = Dittagghi tècnici
 help-button =
-    .label = Aiutu
+    .label = Ajutu
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -143,7 +143,7 @@ general-strict-mode =
 security-no-owner = Stu situ nun àvi nfurmazziuna supra lu prupitariu.
 page-info-security-no-owner =
     .value = Stu situ nun àvi nfurmazziuna supra lu prupitariu.
-media-select-folder = Scegghi na carpetta unni sarbari li mmàggini
+media-select-folder = Scegghi na carpetta unni sarbari i mmàggini
 media-unknown-not-cached =
     .value = Scanusciutu (nun dipusitatu)
 permissions-use-default =

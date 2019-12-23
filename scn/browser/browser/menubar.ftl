@@ -98,9 +98,9 @@ menu-history-restore-last-session =
 ## Bookmarks Menu
 
 menu-bookmarks-show-all =
-    .label = Mustra tutti i nzingalibbra
+    .label = Mustra tutti i nzingalibbri
 menu-bookmarks-all-tabs =
-    .label = Agghiunci tutti i schedi ê nzingalibbra…
+    .label = Agghiunci tutti i schedi ê nzingalibbri…
 menu-bookmarks-toolbar =
     .label = Sbarra dî nzingalibbra
 menu-bookmarks-other =
@@ -160,5 +160,13 @@ menu-help-troubleshooting-info =
     .label = Nfurmazziuna p'arrisòrbiri prubblemi
     .accesskey = p
 menu-help-feedback-page =
-    .label = Manna un cummentu…
-    .accesskey = c
+    .label = Manna riscontru…
+    .accesskey = r
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = Signalija situ fallaci…
+    .accesskey = S
+menu-help-not-deceptive =
+    .label = Chistu nun è un situ fallaci…
+    .accesskey = n
