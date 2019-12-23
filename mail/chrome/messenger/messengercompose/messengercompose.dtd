@@ -276,6 +276,7 @@
 <!ENTITY bccAddr2.label "Skp">
 <!ENTITY replyAddr2.label "Odgovori na">
 <!ENTITY newsgroupsAddr2.label "Novičarska skupina">
+<!ENTITY followupAddr2.label "Nadaljuj za">
 <!ENTITY subject2.label "Zadeva">
 <!ENTITY subject.accesskey "Z">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
