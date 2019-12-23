@@ -72,6 +72,11 @@ cfr-doorhanger-pintab-animation-resume = Վերսկսել
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Համաժամեցրեք Ձեր էջանիշերը ամենուր։
+cfr-doorhanger-bookmark-fxa-body = Մեծ գտածո։ Այժմ մի մնացեք առանց այս էջանիշի Ձեր բջջային սարքերում։ Խորհուրդ ենք տալիս սկսել { -fxaccount-brand-name }-ի հետ։
+cfr-doorhanger-bookmark-fxa-link-text = Համաժամեցնել էջանիշերը…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Փակելու կոճակ
+    .title = Փակել
 
 ## Protections panel
 
