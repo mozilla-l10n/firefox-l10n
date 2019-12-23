@@ -65,9 +65,13 @@ cfr-doorhanger-pintab-description = Մատչեք առաւել շատ աւգտա�
 
 cfr-doorhanger-pintab-step1 = <b>Աջ սեղմում</b>՝ այն ներդիրի վրայ, որը ցանկանում եք ամրացնել։
 cfr-doorhanger-pintab-step2 = Ընտրեք<b>Ամրացնել ներդիրը</b>՝ ցանկից։
+cfr-doorhanger-pintab-step3 = Եթե կայքը թարմացում ունի, Դուք կտեսնեք կապոյտ կէտ Ձեր ամրացուած ներդիրում։
+cfr-doorhanger-pintab-animation-pause = Դադար
+cfr-doorhanger-pintab-animation-resume = Վերսկսել
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Համաժամեցրեք Ձեր էջանիշերը ամենուր։
 
 ## Protections panel
 
