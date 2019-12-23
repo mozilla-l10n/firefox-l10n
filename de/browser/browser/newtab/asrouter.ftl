@@ -144,6 +144,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Identifizierer (Fingerprinter) blockiert
        *[other] Identifizierer (Fingerprinter) blockiert
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blockiert viele Identifizierer (Fingerprinter), welche sonst heimlich Informationen über dein Gerät und deine Aktivitäten sammeln, um ein Werbeprofil über dich zu erstellen.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Identifizierer (Fingerprinter)
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kann Identifizierer (Fingerprinter) blockieren, die sonst heimlich Informationen über dein Gerät und deine Aktivitäten sammeln, um ein Werbeprofil über dich zu erstellen.
 
 ## Bookmark Sync
 
@@ -180,6 +184,8 @@ cfr-doorhanger-socialtracking-ok-button = Schutzmaßnahmen anzeigen
     .accesskey = M
 cfr-doorhanger-socialtracking-close-button = Schließen
     .accesskey = S
+cfr-doorhanger-socialtracking-dont-show-again = Ähnliche Nachrichten nicht mehr anzeigen
+    .accesskey = n
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } hat ein soziales Netzwerk daran gehindert, deine Aktivitäten hier zu verfolgen.
 cfr-doorhanger-socialtracking-description = Deine Privatsphäre ist wichtig. { -brand-short-name } blockiert jetzt auch bekannte Skripte zur Aktivitätenverfolgung durch soziale Netzwerke und begrenzt damit, wie viel Informationen diese über deine Online-Aktivitäten sammeln können.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } hat einen Fingerabdruck auf dieser Seite blockiert
