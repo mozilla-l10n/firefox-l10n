@@ -37,7 +37,7 @@ policy-DisablePocket = Disabbìlita la pussibbilità di sarbari pàggini nnâ Sa
 policy-DisablePrivateBrowsing = Disabbìlita la Navigazziuni privata.
 policy-DisableProfileImport = Disabbìlita lu cumannu dû minù pi mpurtari dati di n'autru browser.
 policy-DisableProfileRefresh = Disabbìlita lu buttuni Arrifrisca { -brand-short-name } nnâ pàggina about:support.
-policy-DisableSafeMode = Disabbìlita la pussibbilità di riabbiari in Mudalità Sicura. Nota: lu tastu Shift pi tràsiri nnâ Mudalità Sicura si po disabbilitari nne Windows sulu usannu li Pulìtichi di gruppu.
+policy-DisableSafeMode = Disabbìlita a pussibbilità di riabbiari 'n Mudalità Sicura. Nota: u tastu Shift pi tràsiri nnâ Mudalità Sicura si po disabbilitari nne Windows sulu usannu i Pulìtichi di gruppu.
 policy-DisableSecurityBypass = Mpidisci all'utenti di trapassari certi abbisi di sicurizza.
 policy-DisableSetAsDesktopBackground = Disabbìlita lu cumannu di minù Mposta comu sfunnu dâ Scrivanìa pî mmàggini.
 policy-DisableSystemAddonUpdate = Mpidisci ô browser di nstallari e aggiurnari agghiuncitini di sistema.
@@ -52,7 +52,7 @@ policy-EnableTrackingProtection = Abbìlita o disabbìlita lu Bloccu dû cuntinu
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Nstalla, disinstalla o blocca li stinziuna. La pussibbilità di scègghiri Nstalla pigghia l'URL o li pircursi comu paràmitri. Li pussibbilità di scègghiri Disinstalla o Bluccatu pìgghianu l'ID dî stinziuna.
+policy-Extensions = Nzita, leva o blocca i stinziuna. Nzita pigghia nnirizzi o i pircursi comu paràmitri. Leva o Blocca pìgghianu l'ID dî stinziuna.
 policy-ExtensionUpdate = Abbìlita o disabbìlita l'attualizzazziuni autumàtica dî stinziuna.
 policy-FirefoxHome = Cunfijura la pàggina mastra di Firefox.
 policy-FlashPlugin = Cunzenti o nija l'usu dû cumpunenti agghiuntivu Flash.
@@ -63,8 +63,8 @@ policy-InstallAddonsPermission = Cunzenti a certi siti di nstallari agghiuncitin
 policy-LocalFileLinks = Cunzenti a siti spicìfici ci lijàrisi ê plichi lucali.
 policy-NetworkPrediction = Abbìlita o disabbìlita pridizziuni riti (prefetching DNS).
 policy-NewTabPage = Abbìlita o disabbìlita la pàggina Scheda nova.
-policy-NoDefaultBookmarks = Disabbìlita la criazziuni di nzingalibbra pridifinuti lijati a { -brand-short-name }, e li Nzingalibbra sperti (Cchiù viitati, Targhetti ricenti). Nota: sta dicisiuni è fficaci sulu si usata prima dâ prima sicuzziuni dû prufilu.
-policy-OfferToSaveLogins = Custrinci li mpustazziuna a cunzèntiri a { -brand-short-name } di òffriri di ricurdari li cridinziali sarbati. Si accèttanu valura veri e fausi.
+policy-NoDefaultBookmarks = Disabbìlita a criazziuni di nzingalibbri pridifinuti lijati a { -brand-short-name }, e i nzingalibbri sperti (Cchiù visitati, Targhetti ricenti). Nota: sta dicisiuni è efficaci sulu si usata prima dû primu abbìu dû prufilu.
+policy-OfferToSaveLogins = Custrinci i mpustazziuna a cunzèntiri a { -brand-short-name } di òffriri di ricurdari i cridinziali sarbati. Si accèttanu valura veri e fausi.
 policy-OverrideFirstRunPage = Gnora la pàggina di prima sicuzziuni. Mposta stu pruvidimentu comu vacanti si vo' disabbilitari la pàggina di prima sicuzziuni.
 policy-OverridePostUpdatePage = Cancia a pàggina “Nuvità” doppu n'attualizzazziuni. Mposta sta pulìtica comu vacanti si vo' disabbilitari a pàggina di post-attualizzazziuni.
 policy-Permissions = Cunfijura li pirmisi pi càmira, micròfunu, lucalizzazziuni e nutìfichi.

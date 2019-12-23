@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuHistory.showAll.label "Mustra tutta la crunuluggía">
 <!ENTITY appMenuHistory.viewSidebar.label "Talía sbarra di ciancu dâ crunuluggía">
-<!ENTITY appMenuHelp.label "Aiutu">
+<!ENTITY appMenuHelp.label "Ajutu">
 
 <!ENTITY appMenuRemoteTabs.label "Schedi sincrunizzati">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
