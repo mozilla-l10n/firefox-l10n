@@ -123,7 +123,7 @@ startup-header = Abbìu
 separate-profile-mode =
     .label = Pirmetti a { -brand-short-name } e Firefox di travagghiari nnô stissu mumentu
 use-firefox-sync = Cunzigghiu: chistu usa prufili spartuti. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
-get-started-not-logged-in = Trasi nne { -sync-brand-short-name }...
+get-started-not-logged-in = Trasi nne { -sync-brand-short-name }…
 get-started-configured = Rapi i prifirenzi di { -sync-brand-short-name }
 always-check-default =
     .label = Cuntrolla sempri si { -brand-short-name } è u to navigaturi pridifinutu
@@ -131,7 +131,7 @@ always-check-default =
 is-default = { -brand-short-name } piccamora è u to navigaturi pridifinutu
 is-not-default = { -brand-short-name } nun è u to navigaturi pridifinutu
 set-as-my-default-browser =
-    .label = Fai addivintari pridifinutu...
+    .label = Fai addivintari pridifinutu…
     .accesskey = d
 startup-restore-previous-session =
     .label = Riprìstina a sissiuni pricidenti
@@ -164,7 +164,7 @@ browser-containers-enabled =
     .accesskey = n
 browser-containers-learn-more = Cchiù nfurmazziuna
 browser-containers-settings =
-    .label = Mpustazziuna...
+    .label = Mpustazziuna…
     .accesskey = i
 containers-disable-alert-title = Vo' chiùjiri tutti i schedi cuntinituri?
 containers-disable-alert-desc =
@@ -201,16 +201,16 @@ advanced-fonts =
     .label = Avanzatu..
     .accesskey = A
 colors-settings =
-    .label = Culura...
+    .label = Culura…
     .accesskey = C
 language-header = Lingua
 choose-language-description = Scegghi a to lingua prifiruta pi mustrari pàggini
 choose-button =
-    .label = Scegghi...
+    .label = Scegghi…
     .accesskey = S
 choose-browser-language-description = Scegghi i lingui di usari pi mustrari minù, missaggi e nutìfichi di { -brand-short-name }.
 manage-browser-languages-button =
-    .label = Mposta artirnativi...
+    .label = Mposta artirnativi…
     .accesskey = a
 confirm-browser-language-change-description = Riabbìa { -brand-short-name } p'appricari sti canciamenti
 translate-web-pages =
@@ -236,7 +236,7 @@ download-save-to =
 download-choose-folder =
     .label =
         { PLATFORM() ->
-            [macos] Scegghi...
+            [macos] Scegghi…
            *[other] Nàviga…
         }
     .accesskey =
@@ -247,7 +247,7 @@ download-choose-folder =
 download-always-ask-where =
     .label = Addumanna sempri unni sarbari i prichi
     .accesskey = A
-applications-header = Appricazziuna
+applications-header = Applicazziuna
 applications-description = Scegghi comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l'applicazziuna ca usi mentri nàvighi.
 applications-filter =
     .placeholder = Cerca tipi di prichi o appricazziuna
@@ -324,7 +324,7 @@ update-application-title = Attualizzazziuna di { -brand-short-name }
 update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazziuna, stabbilità e sicurizza.
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
 update-history =
-    .label = Mustra crunuluggìa attualizzazziuna...
+    .label = Mustra crunuluggìa attualizzazziuna…
     .accesskey = M
 update-application-allow-description = Pirmetti a { -brand-short-name } di
 update-application-auto =
@@ -457,7 +457,7 @@ use-current-pages =
         }
     .accesskey = c
 choose-bookmark =
-    .label = Usa nu nzingalibbru...
+    .label = Usa nu nzingalibbru…
     .accesskey = n
 
 ## Home Section - Firefox Home Content Customization
@@ -578,10 +578,10 @@ sync-signedout-account-title = Cunnetti cu un { -fxaccount-brand-name }
 sync-signedout-account-create = Nun ài un cuntu? Accumincia
     .accesskey = c
 sync-signedout-account-signin =
-    .label = Trasi...
+    .label = Trasi…
     .accesskey = I
 sync-signedout-account-signin2 =
-    .label = Trasi nne { -sync-brand-short-name }...
+    .label = Trasi nne { -sync-brand-short-name }…
     .accesskey = T
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -601,7 +601,7 @@ sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Cancia la mmàggini di prufilu
 sync-disconnect =
-    .label = Discunnetti...
+    .label = Discunnetti…
     .accesskey = D
 sync-manage-account = Gistisci cuntu
     .accesskey = o
@@ -667,7 +667,7 @@ sync-engine-prefs =
 
 sync-device-name-header = Nomu dû dispusitivu
 sync-device-name-change =
-    .label = Cancia lu nomu dû dispusitivu...
+    .label = Cancia u nomu dû dispusitivu…
     .accesskey = h
 sync-device-name-cancel =
     .label = Fai sfalliri
@@ -696,18 +696,18 @@ forms-ask-to-save-logins =
     .label = Spia di sarbari l'accessi e li palori d'accessu pî siti
     .accesskey = r
 forms-exceptions =
-    .label = Ccizziuna...
-    .accesskey = x
+    .label = Eccizziuna…
+    .accesskey = z
 forms-breach-alerts-learn-more-link = Cchiù nfurmazziuna
 forms-saved-logins =
-    .label = Accessi sarbati...
-    .accesskey = L
+    .label = Cridinziali sarbati…
+    .accesskey = C
 forms-master-pw-use =
     .label = Usa na palora d'accessu d'amministraturi
     .accesskey = U
 forms-master-pw-change =
-    .label = Cancia palora d'accessu amministraturi...
-    .accesskey = M
+    .label = Cancia chiavi mastra…
+    .accesskey = m
 
 ## Privacy Section - History
 
@@ -744,16 +744,16 @@ history-clear-on-close-option =
     .label = Cancella a crunuluggìa quannu { -brand-short-name } si chiuji
     .accesskey = r
 history-clear-on-close-settings =
-    .label = Mpustazziuna...
+    .label = Mpustazziuna…
     .accesskey = t
 history-clear-button =
-    .label = Cancella a crunuluggìa...
+    .label = Cancella a crunuluggìa…
     .accesskey = C
 
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie e dati dî siti
-sitedata-total-size-calculating = Staju carculannu li diminziuna dî dati dî siti e dû dipòsitu...
+sitedata-total-size-calculating = Staju carculannu i diminziuna dî dati dî siti e dâ cache…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -782,14 +782,14 @@ sitedata-option-block-all-third-party =
 sitedata-option-block-all =
     .label = Tutti li cookie (farà ncippari li siti)
 sitedata-clear =
-    .label = Cancella dati...
+    .label = Cancella dati…
     .accesskey = l
 sitedata-settings =
-    .label = Gistisci dati...
-    .accesskey = M
+    .label = Gistisci dati…
+    .accesskey = G
 sitedata-cookies-permissions =
-    .label = Gistisci pirmisi...
-    .accesskey = P
+    .label = Gistisci pirmisi…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -885,28 +885,28 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Gistisci ccizziuna...
-    .accesskey = x
+    .label = Gistisci eccizziuna…
+    .accesskey = z
 
 ## Privacy Section - Permissions
 
 permissions-header = Pirmisi
 permissions-location = Lucalizzazziuni
 permissions-location-settings =
-    .label = Mpustazziuni...
-    .accesskey = t
+    .label = Mpustazziuna…
+    .accesskey = M
 permissions-camera = Càmira
 permissions-camera-settings =
-    .label = Mpustazziuna...
-    .accesskey = t
+    .label = Mpustazziuna…
+    .accesskey = M
 permissions-microphone = Micròfunu
 permissions-microphone-settings =
-    .label = Mpustazziuna...
-    .accesskey = t
+    .label = Mpustazziuna…
+    .accesskey = M
 permissions-notification = Nutìfichi
 permissions-notification-settings =
-    .label = Mpustazziuna...
-    .accesskey = t
+    .label = Mpustazziuna…
+    .accesskey = M
 permissions-notification-link = Cchiù nfurmazziuna
 permissions-notification-pause =
     .label = Ferma li nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
@@ -915,19 +915,19 @@ permissions-block-autoplay-media2 =
     .label = Mpidisci ê siti di riprudùciri soni autumaticamenti
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
-    .label = Ccizziuna...
+    .label = Eccizziuna…
     .accesskey = E
 permissions-block-popups =
     .label = Blocca li finestri autumàtichi
     .accesskey = B
 permissions-block-popups-exceptions =
-    .label = Ccizziuna...
+    .label = Eccizziuna…
     .accesskey = E
 permissions-addon-install-warning =
     .label = T'abbisa quannu li siti cèrcanu di nstallari agghiuncitini
     .accesskey = W
 permissions-addon-exceptions =
-    .label = Ccizziuna...
+    .label = Eccizziuna…
     .accesskey = E
 permissions-a11y-privacy-checkbox =
     .label = Mpidisci ê sirbizza d'accissibbilità d'accèdiri ô to navigaturi
@@ -987,10 +987,10 @@ certs-select-ask-option =
     .label = Addumanna ogni vota
     .accesskey = A
 certs-view =
-    .label = Talìa cirtificati...
-    .accesskey = C
+    .label = Talìa cirtificati…
+    .accesskey = c
 certs-devices =
-    .label = Dispusitivi di sicurizza...
+    .label = Dispusitivi di sicurizza…
     .accesskey = D
 space-alert-learn-more-button =
     .label = Cchiù nfurmazziuna

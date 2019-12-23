@@ -21,7 +21,7 @@ update-noUpdatesFound = { -brand-short-name } è aggiurnatu
 update-otherInstanceHandlingUpdates = { -brand-short-name } è già 'n cursu d'attualizzazziuni
 update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
 update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
-update-restarting = Riabbiannu...
+update-restarting = Staju riabbiannu…
 channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .{ " " }
 warningDesc-version = { -brand-short-name } è sprimintali e putissi farsijari.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è na <label data-l10n-name="community-exp-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri la Riti lìbbira, pùbblica e accissìbbili a tutti.

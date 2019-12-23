@@ -34,7 +34,8 @@
 <!ENTITY importItems.title              "Cosi di pigghiari">
 <!ENTITY importItems.label              "Scegghi quali cosi pigghiari:">
 
-<!ENTITY migrating.label                "Staiu pigghiannu sti cosi…">
+<!ENTITY migrating.title                "Staju mpurtannu…">
+<!ENTITY migrating.label                "Staju mpurtannu sti cosi…">
 
 <!ENTITY selectProfile.title            "Scegghi lu profilu">
 
