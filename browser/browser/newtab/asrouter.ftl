@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = von { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Empfehlung
+cfr-doorhanger-extension-notification2 = Empfehlung
+    .tooltiptext = Erweiterungsempfehlung
+    .a11y-announcement = Erweiterungsempfehlung verfügbar
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Empfehlung
+    .tooltiptext = Funktionsempfehlung
+    .a11y-announcement = Funktionsempfehlung verfügbar
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -113,6 +121,29 @@ cfr-whatsnew-lockwise-take-body =
     Mit der { -lockwise-brand-short-name } App für mobile Geräte kannst du von überall aus sicher auf deine
     gespeicherten Passwörter zugreifen.
 cfr-whatsnew-lockwise-take-link-text = Hol dir die App
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Schaue Videos während du surfst
+cfr-whatsnew-pip-body = Bild-in-Bild zeigt das Video in einem schwebenden Fenster an, damit du in anderen Tabs surfen und dennoch das Video anschauen kannst.
+cfr-whatsnew-pip-cta = Weitere Informationen
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Weniger nervige Pop-ups durch Websites
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } hindert Webseiten nun daran, automatisch nach der Berechtigung zum Anzeigen von Pop-up-Nachrichten zu fragen.
+cfr-whatsnew-permission-prompt-cta = Weitere Informationen
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Identifizierer (Fingerprinter) blockiert
+       *[other] Identifizierer (Fingerprinter) blockiert
+    }
 
 ## Bookmark Sync
 
