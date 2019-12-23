@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "General">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Day and Week Views">
 <!ENTITY pref.calendar.view.multiweekview.caption "Multiweek View">
 <!ENTITY pref.calendar.view.workweek.caption "Workweek">
@@ -15,8 +16,10 @@
 <!ENTITY pref.weekstarts.label "Start the week on:">
 <!ENTITY pref.weekstarts.accesskey "r">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Show week number in views and minimonth">
-<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "w">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Include these days in the workweek:">
+
+<!ENTITY pref.workweekDays.label "Workweek days:">
 
 <!ENTITY pref.calendar.view.daystart.label "Day starts at:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
@@ -37,3 +40,5 @@
 <!ENTITY pref.numberofweeks.4 "4 weeks">
 <!ENTITY pref.numberofweeks.5 "5 weeks">
 <!ENTITY pref.numberofweeks.6 "6 weeks">
+<!ENTITY pref.showlocation.label "Show location">
+<!ENTITY pref.showlocation.accesskey "L">

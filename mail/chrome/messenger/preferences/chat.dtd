@@ -26,7 +26,7 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "When messages directed at you arrive:">
-<!ENTITY  desktopChatNotifications.label      "Show a notification">
+<!ENTITY  desktopChatNotifications.label      "Show a notification:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  completeNotification.label          "with sender's name and message preview">
 <!ENTITY  buddyInfoOnly.label                 "with sender's name only">
@@ -61,4 +61,4 @@ sentence. -->
 <!ENTITY messageStyleShowHeader.label      "Show Header">
 <!ENTITY messageStyleShowHeader.accesskey  "H">
 <!ENTITY messageStyleNoPreview.title       "No preview available">
-<!ENTITY messageStyleNoPreview.description "This theme is not valid or is currently unavailable (disabled add-on, safe-mode, …).">
+<!ENTITY messageStyleNoPreview.description "This theme is not valid or is currently unavailable (disabled addon, safe-mode, …).">

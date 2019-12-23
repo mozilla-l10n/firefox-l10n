@@ -15,7 +15,7 @@
 <!ENTITY alignmentBox.label "Alignment">
 <!ENTITY leftRadio.label "Left">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Centre">
+<!ENTITY centerRadio.label "Center">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "Right">
 <!ENTITY rightRadio.accessKey "R">

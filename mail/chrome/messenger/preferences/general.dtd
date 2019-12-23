@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "When &brandShortName; launches, show the Start Page in the message area">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Location:">
-<!ENTITY location1.accesskey              "L">
+<!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
 
@@ -22,7 +22,7 @@
 <!ENTITY showAnimatedAlert.label          "Show an alert">
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY notificationAlertSettings2.label "Alerts and the default sound can be disabled on the Notification pane of System Preferences.">
-<!ENTITY customizeMailAlert.label         "Customise…">
+<!ENTITY customizeMailAlert.label         "Customize…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
 <!ENTITY showTrayIcon.label               "Show a tray icon">
@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Default Search Engine">
+<!ENTITY addSearchEngine.label            "Add from file">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Remove">
+<!ENTITY removeSearchEngine.accesskey     "v">

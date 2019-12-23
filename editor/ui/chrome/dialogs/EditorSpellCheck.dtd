@@ -21,7 +21,7 @@
 <!ENTITY replaceAllButton.label "Replace All">
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Stop">
-<!ENTITY stopButton.accessKey "t">
+<!ENTITY stopButton.accessKey "o">
 <!ENTITY userDictionary.label "Personal Dictionary:">
 <!ENTITY moreDictionaries.label "Download more dictionaries…">
 <!ENTITY addToUserDictionaryButton.label "Add Word">

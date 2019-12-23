@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert Mathematical Formula">
+<!ENTITY windowTitle.label "Insert Math">
 
 <!ENTITY sourceEditField.label "Enter LaTeX source code:">
 

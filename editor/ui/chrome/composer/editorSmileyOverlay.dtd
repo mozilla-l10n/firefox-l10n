@@ -11,10 +11,10 @@
 <!ENTITY smiley1Cmd.tooltip "Insert a smiley face">
 <!ENTITY smiley2Cmd.label "Frown">
 <!ENTITY smiley2Cmd.accesskey "F">
-<!ENTITY smiley2Cmd.tooltip "Insert a frowning face">
+<!ENTITY smiley2Cmd.tooltip "Insert a frown face">
 <!ENTITY smiley3Cmd.label "Wink">
 <!ENTITY smiley3Cmd.accesskey "W">
-<!ENTITY smiley3Cmd.tooltip "Insert a winking face">
+<!ENTITY smiley3Cmd.tooltip "Insert a wink face">
 <!ENTITY smiley4Cmd.label "Tongue-out">
 <!ENTITY smiley4Cmd.accesskey "T">
 <!ENTITY smiley4Cmd.tooltip "Insert a tongue-out face">
@@ -32,7 +32,7 @@
 <!ENTITY smiley8Cmd.tooltip "Insert a surprised face">
 <!ENTITY smiley9Cmd.label "Kiss">
 <!ENTITY smiley9Cmd.accesskey "K">
-<!ENTITY smiley9Cmd.tooltip "Insert a kissing face">
+<!ENTITY smiley9Cmd.tooltip "Insert a kiss face">
 <!ENTITY smiley10Cmd.label "Yell">
 <!ENTITY smiley10Cmd.accesskey "Y">
 <!ENTITY smiley10Cmd.tooltip "Insert a yelling face">
@@ -55,4 +55,3 @@
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Insert a lips-are-sealed face">
 <!ENTITY SmileButton.tooltip "Insert a smiley face">
-

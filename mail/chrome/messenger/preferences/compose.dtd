@@ -18,11 +18,13 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Size:">
-<!ENTITY size.accesskey                       "z">
-<!ENTITY fontColor.label                      "Text Colour:">
+<!ENTITY fontSize.label                       "Size:">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.label              "Use reader's default colors">
+<!ENTITY useReaderDefaults.accesskey          "d">
+<!ENTITY fontColor.label                      "Text Color:">
 <!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Background Colour:">
+<!ENTITY bgColor.label                        "Background Color:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
@@ -31,7 +33,7 @@
 
 <!ENTITY spellCheck.label                     "Check spelling before sending">
 <!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Enable spell check as you type">
+<!ENTITY spellCheckInline.label               "Enable spellcheck as you type">
 <!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "Language:">
 <!ENTITY languagePopup.accessKey              "L">
@@ -43,7 +45,7 @@
 <!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "minutes">
 
-<!ENTITY emailCollectionPicker.label           "Automatically add outgoing email addresses to my:">
+<!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Address Autocompletion">
 <!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
@@ -58,7 +60,7 @@
 <!ENTITY showAsDefault.accesskey               "S">
 <!ENTITY showAsDefaultLast.label               "Last used directory">
 
-<!ENTITY sendOptionsDescription.label          "Configure text format behaviour">
+<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
 <!ENTITY sendOptions.label                     "Send Options…">
 <!ENTITY sendOptions.accesskey                 "S">
 

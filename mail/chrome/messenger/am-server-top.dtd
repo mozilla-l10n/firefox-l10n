@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Message Storage">
 <!ENTITY securitySettings.label "Security Settings">
 <!ENTITY serverSettings.label "Server Settings">
@@ -15,13 +13,13 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Default:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Check for new messages every ">
-<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minutes">
 <!ENTITY useIdleNotifications.label "Allow immediate server notifications when new messages arrive">
 <!ENTITY useIdleNotifications.accesskey "w">
@@ -36,7 +34,7 @@
 <!ENTITY leaveOnServer.label "Leave messages on server">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Fetch headers only">
-<!ENTITY headersOnly.accesskey "f">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "For at most">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "days">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Automatically download new messages">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Your Login Name">
 <!ENTITY deleteMessagePrefix.label "When I delete a message:">
 <!ENTITY modelMoveToTrash.label "Move it to this folder:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -55,13 +52,13 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
 <!ENTITY expungeOnExit.accesskey "E">
-<!ENTITY emptyTrashOnExit.label "Empty Deleted folder on Exit">
+<!ENTITY emptyTrashOnExit.label "Empty Trash on Exit">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Check for new messages at startup">
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
-     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-     of messages between them
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Ask me before downloading more than">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -70,17 +67,17 @@
 <!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc file:">
-<!ENTITY localPath.label "Local directory:">
+<!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
 <!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
+<!ENTITY localPath.label "Local directory:">
 <!ENTITY localFolderPicker.label "Select Local Directory">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "Select newsrc File">
 <!ENTITY browseNewsrc.label "Browse…">
 <!ENTITY browseNewsrc.accesskey "e">
 

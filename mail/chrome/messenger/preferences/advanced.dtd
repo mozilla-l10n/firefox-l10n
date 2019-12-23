@@ -5,13 +5,14 @@
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY dataChoicesTab.label    "Data Choices">
 <!ENTITY itemUpdate.label        "Update">
-<!ENTITY itemNetworking.label    "Network &amp; Disc Space">
+<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificates">
 
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
-<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY dateTimeFormatting.label      "Date and Time Formatting">
+<!ENTITY languageSelector.label        "Language">
 <!ENTITY allowHWAccel.label            "Use hardware acceleration when available">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Message Store Type for new accounts:">
@@ -41,7 +42,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetry">
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customisation data about your e-mail client with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your e-mail client with &vendorShortName; to help us make &brandShortName; better">
 <!ENTITY enableTelemetry.label           "Enable Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Learn More">
@@ -66,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Version ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Allow &brandShortName; to">
 <!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Show Update History">
 <!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Use a background service to install updates">
 <!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateCrossUserSettingWarning.description "This setting will apply to all Windows accounts and &brandShortName; profiles using this installation of &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Settings…">
@@ -88,9 +90,9 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace                       "Disc Space">
+<!ENTITY Diskspace                       "Disk Space">
 <!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
-<!ENTITY offlineCompactFolders.accesskey "m">
+<!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB in total">
 
 <!-- LOCALIZATION NOTE:
@@ -110,13 +112,18 @@
 <!-- Certificates -->
 <!ENTITY certSelection.description       "When a server requests my personal certificate:">
 <!ENTITY certs.auto                      "Select one automatically">
-<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Ask me every time">
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY manageCertificates.label       "Manage Certificates">
-<!ENTITY manageCertificates.accesskey   "M">
-<!ENTITY viewSecurityDevices.label      "Security Devices">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY manageCertificates.label "Manage Certificates">
+<!ENTITY manageCertificates.accesskey "M">
+<!ENTITY viewSecurityDevices.label "Security Devices">
+<!ENTITY viewSecurityDevices.accesskey "D">
+
+<!ENTITY manageCertificates2.label "Manage Certificates…">
+<!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Security Devices…">
+<!ENTITY viewSecurityDevices2.accesskey "D">

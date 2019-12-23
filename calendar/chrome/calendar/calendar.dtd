@@ -10,9 +10,10 @@
 <!ENTITY calendar.newtask.button.tooltip          "Create a new task" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tasks" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Show completed Tasks">
 
-<!ENTITY calendar.today.button.label       "Today">
+<!ENTITY calendar.today.button.label          "Today">
 <!ENTITY calendar.tomorrow.button.label       "Tomorrow">
 <!ENTITY calendar.upcoming.button.label       "Upcoming">
 
@@ -78,12 +79,12 @@
 <!ENTITY calendar.nextmonth.accesskey           "x" >
 <!ENTITY calendar.prevmonth.accesskey           "s" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "One Day Forwards" >
-<!ENTITY calendar.navigation.prevday.tooltip    "One Day Backwards" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "One Week Forwards" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "One Week Backwards" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "One Month Forwards" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "One Month Backwards" >
+<!ENTITY calendar.navigation.nextday.tooltip    "One Day Forward" >
+<!ENTITY calendar.navigation.prevday.tooltip    "One Day Back" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "One Week Forward" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "One Week Back" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "One Month Forward" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "One Month Back" >
 
 <!ENTITY calendar.newevent.button.label         "New Event" >
 <!ENTITY calendar.newtask.button.label          "New Task" >
@@ -145,7 +146,7 @@
 <!ENTITY calendar.task-details.start.label           "start date">
 <!ENTITY calendar.task-details.due.label             "due date">
 
-<!ENTITY calendar.task.category.button.tooltip  "Categorise tasks">
+<!ENTITY calendar.task.category.button.tooltip  "Categorize tasks">
 <!ENTITY calendar.task.complete.button.tooltip  "Mark selected tasks completed">
 <!ENTITY calendar.task.priority.button.tooltip  "Change the priority">
 
@@ -172,12 +173,47 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Paste">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Today Pane" >
-<!ENTITY calendar.context.button.accesskey            "T" >
-<!ENTITY calendar.context.attendance.menu.label       "Attendance" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "This Occurrence" >
-<!ENTITY calendar.context.attendance.all.label        "All Occurrences" >
+<!ENTITY calendar.context.button.label                "Today Pane">
+<!ENTITY calendar.context.button.accesskey            "T">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Attendance">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "This Occurrence">
+<!ENTITY calendar.context.attendance.all2.label                 "Complete Series">
+<!ENTITY calendar.context.attendance.send.label                 "Send a notification now">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Do not send a notification">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
+
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Accepted">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Accepted tentatively">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Declined">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegated">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Still needs action">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "In progress">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Completed">
+
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Accepted">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Accepted tentatively">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Declined">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegated">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Still needs action">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "In progress">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "Completed">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progress">
@@ -243,7 +279,7 @@
 <!ENTITY calendar.context.removeserver.accesskey       "R">
 <!ENTITY calendar.context.unsubscribeserver.label      "Unsubscribe Calendar…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
-<!ENTITY calendar.context.synccalendars.label          "Synchronise Calendars">
+<!ENTITY calendar.context.synccalendars.label          "Synchronize Calendars">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publish Calendar…">
 <!ENTITY calendar.context.publish.accesskey            "b">
@@ -316,7 +352,7 @@
 <!ENTITY calendar.server.dialog.name.label          "Calendar Name:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label                    "Colour:">
+<!ENTITY calendarproperties.color.label                    "Color:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
@@ -329,7 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Show Reminders">
 <!ENTITY calendarproperties.cache3.label                   "Offline Support">
 <!ENTITY calendarproperties.enabled.label                  "Switch this calendar on">
-<!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain add-ons.">
+<!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
 <!ENTITY calendarproperties.unsubscribe.label              "Unsubscribe">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 

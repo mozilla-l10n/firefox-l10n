@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY viewLog.title "Filter Log">
-<!ENTITY viewLogInfo.text "The Filter Log documents the filters that have been run for this account. Use the tick box below to enable logging.">
+<!ENTITY viewLogInfo.text "The Filter Log documents the filters that have been run for this account. Use the check box below to enable logging.">
 <!ENTITY clearLog.label "Clear Log">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY enableLog.label "Enable the Filter Log">

@@ -17,6 +17,9 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Newsgroup account">
 <!ENTITY accountTypeNews.accesskey "w">
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 
@@ -64,7 +67,7 @@
 <!ENTITY newsServerNameDesc.label "Enter the name of your news server (NNTP) (for example, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Newsgroup Server:">
 <!ENTITY newsServerLabel.accesskey "S">
- 
+
 <!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Outgoing Server Information">
@@ -117,7 +120,7 @@
 <!ENTITY newsServerNamePrefix.label "News Server Name (NNTP):">
 <!ENTITY downloadOnLogin.label "Download messages now">
 <!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "Untick this box to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account.">
+<!ENTITY deferStorageDesc.label "Uncheck this checkbox to store mail for this account in its own directory. That will make this account appear as a top-level account. Otherwise, it will be part of the Local Folders Global Inbox account.">
 <!ENTITY deferStorage.label "Use Global Inbox (store mail in Local Folders)">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Click Finish to save these settings and exit the Account Wizard.">

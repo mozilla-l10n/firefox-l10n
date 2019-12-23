@@ -9,7 +9,7 @@
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Previous">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Untick items you do not want to import.">
+<!ENTITY fieldMapImport.text "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Uncheck items you do not want to import.">
 <!ENTITY fieldMapImport.up.label "Move Up">
 <!ENTITY fieldMapImport.up.accesskey "U">
 <!ENTITY fieldMapImport.down.label "Move Down">

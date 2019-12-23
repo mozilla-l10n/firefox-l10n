@@ -21,9 +21,9 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "days old">
 <!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disc space, old messages can be permanently deleted">
-<!ENTITY retentionCleanupImap.label "To recover disc space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disc space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionDeleteMsg.label "Delete messages more than">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Don't delete any messages">
@@ -33,7 +33,7 @@
 <!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Synchronisation">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
 <!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
@@ -66,6 +66,6 @@
 <!ENTITY numberOfMessages.label                  "Number of messages:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "unknown">
-<!ENTITY sizeOnDisk.label                        "Size on disc:">
+<!ENTITY sizeOnDisk.label                        "Size on disk:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "unknown">
