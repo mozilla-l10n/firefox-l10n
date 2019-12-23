@@ -16,8 +16,8 @@
 <!ENTITY pref.categories.removeButton.label "Remove">
 <!ENTITY pref.categories.removeButton.accesskey "R">
 <!ENTITY pref.categories.name.label "Name">
-<!ENTITY pref.categories.color.label "Color">
-<!ENTITY pref.categories.usecolor.label "Use Color">
+<!ENTITY pref.categories.color.label "Colour">
+<!ENTITY pref.categories.usecolor.label "Use Colour">
 <!ENTITY pref.categories.none.label "(none)">
 <!ENTITY pref.categories.overwrite "A category already exists with that name. \n Do you want to overwrite it?">
 <!ENTITY pref.categories.overwrite.title "Warning: Duplicate name">

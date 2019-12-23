@@ -352,7 +352,7 @@
 <!ENTITY calendar.server.dialog.name.label          "Calendar Name:">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label                    "Color:">
+<!ENTITY calendarproperties.color.label                    "Colour:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
@@ -365,7 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Show Reminders">
 <!ENTITY calendarproperties.cache3.label                   "Offline Support">
 <!ENTITY calendarproperties.enabled.label                  "Switch this calendar on">
-<!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
+<!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain add-ons.">
 <!ENTITY calendarproperties.unsubscribe.label              "Unsubscribe">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
