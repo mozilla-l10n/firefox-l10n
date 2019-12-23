@@ -47,7 +47,7 @@
 <!ENTITY pref.soondays2.accesskey "U">
 
 <!ENTITY pref.accessibility.label "Accessibility" >
-<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
+<!ENTITY pref.systemcolors.label "Optimize colours for accessibility" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
 <!ENTITY pref.eventsandtasks.label "Events and Tasks" >
