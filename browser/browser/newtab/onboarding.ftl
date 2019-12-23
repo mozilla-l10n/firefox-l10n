@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Vzemite { -brand-product-name } s seboj
 onboarding-sync-welcome-content = Imejte dostop do svojih zaznamkov, zgodovine, gesel in drugih podatkov z vseh svojih naprav.
 onboarding-sync-welcome-learn-more-link = Več o Firefox Računih
-onboarding-sync-form-invalid-input = Zahtevan je veljaven e-poštni naslov
-onboarding-sync-legal-notice = Z nadaljevanjem se strinjate s <a data-l10n-name="terms">Pogoji uporabe</a> in <a data-l10n-name="privacy">Obvestilom o zasebnosti</a>.
 onboarding-sync-form-input =
     .placeholder = E-pošta
 onboarding-sync-form-continue-button = Nadaljuj
@@ -141,6 +139,7 @@ onboarding-lockwise-passwords-title = Vzemite gesla s seboj
 onboarding-lockwise-passwords-text2 = Ohranite shranjena gesla na varnem in se enostavno prijavite v svoje račune z { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Prenesite aplikacijo
 onboarding-lockwise-strong-passwords-title = Ustvarite in shranjujte močna gesla
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ustvari močna gesla na kraju samem in jih shrani na eno mesto.
 onboarding-lockwise-strong-passwords-button = Upravljanje prijav
 onboarding-facebook-container-title = Postavite meje Facebooku
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ohranja vaš profil ločen od vsega ostalega, kar Facebooku otežuje ciljno oglaševanje.

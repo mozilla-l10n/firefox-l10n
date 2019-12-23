@@ -131,6 +131,7 @@ cfr-whatsnew-lockwise-take-link-text = Prenesite aplikacijo
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Glejte videoposnetke med brskanjem
+cfr-whatsnew-pip-body = Slika v sliki pokaže video v plavajočem oknu, da si ga lahko ogledate, medtem ko brskate v drugih zavihkih.
 cfr-whatsnew-pip-cta = Več o tem
 
 ## Permission Prompt
@@ -140,6 +141,16 @@ cfr-whatsnew-permission-prompt-cta = Več o tem
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Sledilec prstnih odtisov zavrnjen
+        [two] Sledilca prstnih odtisov zavrnjena
+        [few] Sledilci prstnih odtisov zavrnjeni
+       *[other] Sledilcev prstnih odtisov zavrnjenih
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Sledilci prstnih odtisov
 
