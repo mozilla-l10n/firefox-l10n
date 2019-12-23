@@ -49,7 +49,7 @@ newtab-topsites-add-button = Agghiunci
 
 newtab-confirm-delete-history-p1 = Sì sicuru chi voi cancillari tutti i voti chi visitasti sta pàggina dâ crunuluggìa?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = Nun po' turnari nn'arrè.
+newtab-confirm-delete-history-p2 = St'azziuni nun si po sfari.
 
 ## Context Menu - Action Tooltips.
 

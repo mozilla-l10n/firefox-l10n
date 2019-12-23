@@ -42,6 +42,7 @@ login-item-cancel-button = Fai sfalliri
 confirmation-dialog-cancel-button = Fai sfalliri
 confirmation-dialog-dismiss-button =
     .title = Fai sfalliri
+confirm-delete-dialog-message = St'azziuni nun si po sfari.
 confirm-delete-dialog-confirm-button = Cancella
 
 ## Breach Alert notification

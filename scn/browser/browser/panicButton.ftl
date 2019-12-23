@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 panic-button-open-new-window = Rapi na finestra nova
-panic-button-undo-warning = St'azziuni nun si po annullari.
+panic-button-undo-warning = St'azziuni nun si po sfari.
 panic-button-forget-button =
     .label = Scorda!
 

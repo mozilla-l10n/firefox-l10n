@@ -14,3 +14,6 @@ safeb-palm-advisory-desc = Abbisu furnutu di <a data-l10n-name='advisory_provide
 safeb-palm-accept-label = Vai nn'arrè
 safeb-palm-see-details-label = Vidi minutagghi
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>ripurtatu comu un situ fallaci</a>. Poi <a data-l10n-name='report_detection'>signalijari un prubblema di rilevamentu</a>, o <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
+safeb-palm-notdeceptive =
+    .label = Chistu nun è un situ fallaci…
+    .accesskey = n

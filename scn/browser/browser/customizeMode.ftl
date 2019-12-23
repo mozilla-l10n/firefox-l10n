@@ -40,6 +40,6 @@ customize-mode-lwthemes-menu-get-more =
     .label = Trova autri temi
     .accesskey = T
 customize-mode-undo-cmd =
-    .label = Annulla
+    .label = Sfai
 customize-mode-lwthemes-my-themes =
     .value = I me temi

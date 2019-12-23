@@ -41,6 +41,9 @@ menu-file-go-offline =
 menu-edit =
     .label = Cancia
     .accesskey = C
+menu-edit-undo =
+    .label = Sfai
+    .accesskey = S
 menu-edit-cut =
     .label = Tagghia
     .accesskey = T
@@ -94,6 +97,10 @@ menu-history-clear-recent-history =
     .label = Cancella crunuluggìa ricenti…
 menu-history-restore-last-session =
     .label = Arripigghia a sissiuni pricidenti
+menu-history-undo-menu =
+    .label = Schedi chiuduti di picca
+menu-history-undo-window-menu =
+    .label = Finestri chiuduti di picca
 
 ## Bookmarks Menu
 

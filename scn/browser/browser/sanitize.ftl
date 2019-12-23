@@ -67,6 +67,7 @@ item-site-preferences =
 item-offline-apps =
     .label = Dati fora linia dî siti
     .accesskey = D
+sanitize-everything-undo-warning = St'azziuni nun si po sfari.
 window-close =
     .key = w
 sanitize-button-ok =

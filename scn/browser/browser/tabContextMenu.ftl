@@ -17,3 +17,6 @@ unpin-tab =
 move-to-new-window =
     .label = Movi nta na finestra nova
     .accesskey = f
+undo-close-tab =
+    .label = Sfai Chiuji scheda
+    .accesskey = S
