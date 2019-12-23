@@ -42,7 +42,7 @@
 <!ENTITY location.label "Location:">
 <!ENTITY location.placeholder "URL or host name of the calendar server">
 
-<!ENTITY network.nocredentials.label "This location doesn't require credentials">
+<!ENTITY network.nocredentials.label "This location doesn’t require credentials">
 <!ENTITY network.loading.description "Please wait while your calendars are being discovered.">
 <!ENTITY network.notfound.description "Could not find calendars at this location. Please check your settings.">
 <!ENTITY network.authfail.description "The credentials you have entered were not accepted. Please check your settings.">

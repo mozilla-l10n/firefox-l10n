@@ -18,7 +18,7 @@
 <!ENTITY calendar.upcoming.button.label       "Upcoming">
 
 <!ENTITY calendar.events.filter.all.label "All Events">
-<!ENTITY calendar.events.filter.today.label "Today's Events">
+<!ENTITY calendar.events.filter.today.label "Today’s Events">
 <!ENTITY calendar.events.filter.future.label "All Future Events">
 <!ENTITY calendar.events.filter.current.label "Currently Selected Day">
 <!ENTITY calendar.events.filter.currentview.label "Events in Current View">
