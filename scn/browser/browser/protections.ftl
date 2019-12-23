@@ -75,6 +75,52 @@ lockwise-sync-status =
     }
 lockwise-sync-not-syncing-devices = Nun staju sincrunizzannu cu autri dispusitivi
 manage-connected-devices = Gistisci dispusitivi…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Culligatu cu { $count } dispusitivu
+       *[other] Culligatu cu { $count } dispusitivi
+    }
+monitor-title = Stai accura ê viulazziuna dî dati
+monitor-link = Comu funziona
+monitor-header-content-no-account = Cuntrolla { -monitor-brand-name } pi vìdiri si avisti quarchi viulazziuni dî dati, e nfòrmati supra ê novi viulazziuna.
+monitor-header-content-signed-in = { -monitor-brand-name } t'abbisa si i to dati spùntanu nna quarchi viulazziuni di dati canusciuta.
+monitor-sign-up = Iscrìviti pi l'abbisi di viulazziuni
+auto-scan = Cuntrullatu autumaticamenti oji
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Nnirizzu di posta elittrònica munituratu
+       *[other] Nnirizzi di posta elittrònica muniturati
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Viulazziuni di dati canusciuta chi avìa nfurmazziuna supra di tia
+       *[other] Viulazziuna di dati canusciuti chi avìanu nfurmazziuna supra di tia
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Chiavi cumprumisa di tutti i viulazziuna
+       *[other] Chiavi cumprumisi di tutti i viulazziuna
+    }
+full-report-link = Vidi tuttu u rapportu nne <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] È pussìbbili ca na cridinziali sarbata fu pubblicata nna na viulazziuni di dati. Cancia sta chiavi pi na megghiu sicurizza 'n riti. <a data-l10n-name="lockwise-link">Vidi i cridinziali sarbati</a>
+       *[other] È pussìbbili ca certi cridinziali sarbati foru pubblicati nna na viulazziuni di dati. Cancia sta chiavi pi na megghiu sicurizza 'n riti. <a data-l10n-name="lockwise-link">Vidi i cridinziali sarbati</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
