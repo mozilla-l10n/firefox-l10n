@@ -20,11 +20,11 @@
 <!ENTITY font.accesskey                       "n">
 <!ENTITY fontSize.label                       "Size:">
 <!ENTITY fontSize.accesskey                   "z">
-<!ENTITY useReaderDefaults.label              "Use reader's default colors">
+<!ENTITY useReaderDefaults.label              "Use reader’s default colours">
 <!ENTITY useReaderDefaults.accesskey          "d">
-<!ENTITY fontColor.label                      "Text Color:">
+<!ENTITY fontColor.label                      "Text Colour:">
 <!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Background Color:">
+<!ENTITY bgColor.label                        "Background Colour:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">

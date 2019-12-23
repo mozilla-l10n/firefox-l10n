@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Page Colors and Background">
-<!ENTITY pageColors.label "Page Colors">
-<!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
+<!ENTITY windowTitle.label "Page Colours and Background">
+<!ENTITY pageColors.label "Page Colours">
+<!ENTITY defaultColorsRadio.label "Reader’s default colours (Don’t set colours in page)">
 <!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip "Use the color settings from the viewer (reader's) browser only">
-<!ENTITY customColorsRadio.label "Use custom colors:">
+<!ENTITY defaultColorsRadio.tooltip "Use the colour settings from the viewer (reader’s) browser only">
+<!ENTITY customColorsRadio.label "Use custom colours:">
 <!ENTITY customColorsRadio.accessKey "C">
-<!ENTITY customColorsRadio.tooltip "These color settings override the viewer's browser settings">
+<!ENTITY customColorsRadio.tooltip "These colour settings override the viewer’s browser settings">
 
 <!ENTITY normalText.label "Normal text">
 <!ENTITY normalText.accessKey "N">

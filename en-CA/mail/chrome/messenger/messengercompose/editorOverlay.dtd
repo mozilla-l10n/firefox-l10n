@@ -132,9 +132,9 @@
 <!ENTITY styleVar.label "Variable">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Text Color…">
+<!ENTITY formatFontColor.label "Text Colour…">
 <!ENTITY formatFontColor.accesskey "C">
-<!ENTITY tableOrCellColor.label "Table or Cell Background Color…">
+<!ENTITY tableOrCellColor.label "Table or Cell Background Colour…">
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -194,9 +194,9 @@
 <!ENTITY alignLeft.label "Left">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Align Left">
-<!ENTITY alignCenter.label "Center">
+<!ENTITY alignCenter.label "Centre">
 <!ENTITY alignCenter.accesskey "C">
-<!ENTITY alignCenter.tooltip "Align Center">
+<!ENTITY alignCenter.tooltip "Align Centre">
 <!ENTITY alignRight.label "Right">
 <!ENTITY alignRight.accesskey "R">
 <!ENTITY alignRight.tooltip "Align Right">
@@ -216,7 +216,7 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Page Colors and Background…">
+<!ENTITY colorsAndBackground.label "Page Colours and Background…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
@@ -304,10 +304,10 @@
 <!ENTITY linkToolbarCmd.tooltip "Insert new link or edit selected link's properties">
 <!ENTITY anchorToolbarCmd.label "Anchor">
 <!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
-<!ENTITY TextColorButton.tooltip "Choose color for text">
-<!ENTITY BackgroundColorButton.tooltip "Choose color for background">
+<!ENTITY TextColorButton.tooltip "Choose colour for text">
+<!ENTITY BackgroundColorButton.tooltip "Choose colour for background">
 <!ENTITY throbber.tooltip2 "Go to the &brandShortName; home page">
-<!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
+<!ENTITY HighlightColorButton.tooltip "Choose highlight colour for text">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Set font size">
@@ -323,7 +323,7 @@
 <!ENTITY AlignPopupButton.tooltip "Choose text alignment">
 <!ENTITY InsertPopupButton.tooltip "Insert a Link, Anchor, Image, Horizontal Line, or Table">
 <!ENTITY alignLeftButton.tooltip "Align text along left margin">
-<!ENTITY alignCenterButton.tooltip "Align text centered">
+<!ENTITY alignCenterButton.tooltip "Align text centred">
 <!ENTITY alignRightButton.tooltip "Align text along right margin">
 <!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 

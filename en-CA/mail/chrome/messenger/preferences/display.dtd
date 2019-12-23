@@ -17,7 +17,7 @@
 <!ENTITY regularSize.label                "Regular">
 <!ENTITY bigger.label                     "Bigger">
 <!ENTITY smaller.label                    "Smaller">
-<!ENTITY quotedTextColor.label            "Color:">
+<!ENTITY quotedTextColor.label            "Colour:">
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Plain Text Messages">
 <!ENTITY displayText.label                "When displaying quoted plain text messages:">
@@ -36,14 +36,14 @@
 <!ENTITY removeTagButton.accesskey "D">
 
 <!-- Fonts and Colors -->
-<!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
+<!ENTITY fontsAndColors1.label   "Fonts &amp; Colours">
 <!ENTITY defaultFont.label       "Default font:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "Size:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Advanced…">
-<!ENTITY colorButton.label       "Colors…">
+<!ENTITY colorButton.label       "Colours…">
 <!ENTITY colorButton.accesskey   "C">
 
 <!-- Advanced -->

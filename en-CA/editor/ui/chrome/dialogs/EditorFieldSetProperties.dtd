@@ -13,7 +13,7 @@
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Default">
 <!ENTITY AlignLeft.label "Left">
-<!ENTITY AlignCenter.label "Center">
+<!ENTITY AlignCenter.label "Centre">
 <!ENTITY AlignRight.label "Right">
 
 <!ENTITY RemoveFieldSet.label "Remove Field Set">
