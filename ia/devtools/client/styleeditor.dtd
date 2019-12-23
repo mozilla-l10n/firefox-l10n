@@ -11,36 +11,21 @@
      on web development on the web. -->
 
 <!ENTITY newButton.label            "Nove">
-<!ENTITY newButton.tooltip          "Crear e appender un nove folio de stylo al documento">
+<!ENTITY newButton.tooltip          "Crear e adjunger un nove folio de stilo al documento">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "Importar…">
-<!ENTITY importButton.tooltip       "Importar e appender un nove folio de stylo al documento">
+
+<!ENTITY importButton.tooltip       "Importar e adjunger un nove folio de stilo al documento">
 <!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip   "Monstrar/celar le folio de stylo">
+<!ENTITY visibilityToggle.tooltip   "Monstrar/celar le folio de stilo">
 
 <!ENTITY saveButton.label           "Salvar">
-<!ENTITY saveButton.tooltip         "Salvar iste folio de stylo in un file">
+<!ENTITY saveButton.tooltip         "Salvar iste folio de stilo in un file">
 <!ENTITY saveButton.accesskey       "S">
 
-<!ENTITY optionsButton.tooltip      "Optiones del editor de stylo">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "Monstrar le codices fonte original">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "o">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "Monstrar le barra lateral @media">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "m">
+<!ENTITY optionsButton.tooltip      "Optiones del editor de stilos">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

@@ -22,7 +22,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "Monstrar le stilos del navigator">
-<!ENTITY options.showUserAgentStyles.tooltip "Activar isto monstrara le stylos predefinite que es cargate per le navigator.">
+<!ENTITY options.showUserAgentStyles.tooltip "Activar isto monstrara le stilos predefinite que es cargate per le navigator.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
@@ -153,7 +153,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "Autocompletar CSS">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Que tu auto-completa le proprietates CSS, le valores e le selectores, scribente in le Editor de stylo">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Auto-completar proprietates CSS, valores e selectores in le editor de stilos durante que tu scribe">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
