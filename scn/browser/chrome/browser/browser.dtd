@@ -93,7 +93,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "Trasi nna &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Trasi nne &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Rapi i prifirenzi di &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Cullégati arredi cu &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Virífica lu to' cuntu">
@@ -120,6 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
+<!ENTITY fxa.menu.signin.label "Trasi nne &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -304,7 +305,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi taliari na lista dî schedi di l'àutri apparecchi toi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Lu to' cuntu àvi a èssiri virificatu.">
-<!ENTITY appMenuRemoteTabs.signin.label "Trasi nna Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Trasi nne Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Trasi nne &syncBrand.shortName.label;…">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strummenta">
@@ -589,6 +591,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY syncSignIn.label             "Trasi nne &syncBrand.shortName.label;…">
 
 
 

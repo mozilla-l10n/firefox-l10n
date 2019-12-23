@@ -77,6 +77,7 @@ onboarding-fxa-text = Riggìstrati pi un { -fxaccount-brand-name } e sincrunizza
 onboarding-tracking-protection-title2 = Prutizziuni dû trazzamentu
 onboarding-tracking-protection-button2 = Comu funziona
 onboarding-data-sync-title = Pòrtati appressu li to mpustazziuna
+onboarding-data-sync-button2 = Trasi nne { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Arresta nfurmatu ncapu li viulazziuna di dati
 onboarding-firefox-monitor-text = { -monitor-brand-name } munìtura si la to e-mail cumparìu nna quarchi viulazziuni di dati e t'abbisa si cumparisci nna quarchi nova viulazziuni.
 onboarding-firefox-monitor-button = Riggìstrati pi l'abbisi

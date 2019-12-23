@@ -5,6 +5,7 @@
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+fxaccounts-sign-in-button = Trasi nne { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gistisci cuntu
 

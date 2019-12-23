@@ -40,5 +40,5 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sincrunizza ora
     .accesskey = S
-fxa-sign-in = Trasi nna { -sync-brand-short-name }
+fxa-sign-in = Trasi nne { -sync-brand-short-name }
 turn-on-sync = Aḍḍuma { -sync-brand-short-name }

@@ -580,6 +580,9 @@ sync-signedout-account-create = Nun ài un cuntu? Accumincia
 sync-signedout-account-signin =
     .label = Trasi...
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Trasi nne { -sync-brand-short-name }...
+    .accesskey = T
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
