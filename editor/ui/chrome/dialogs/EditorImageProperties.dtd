@@ -16,7 +16,7 @@
 <!ENTITY locationEditField.shortenedDataURI "Shortened data URI (copy will place the full URI onto the clipboard)">
 <!ENTITY title.label "Tooltip:">
 <!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "The html 'title' attribute that displays as a tooltip">
+<!ENTITY title.tooltip "The HTML ‘title’ attribute that displays as a tooltip">
 <!ENTITY altText.label "Alternate text:">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Type text to display in place of the image">
