@@ -114,7 +114,7 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Starred Messages">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Favorite Folder">
+<!ENTITY menuFavoriteFolder.label "Favourite Folder">
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "Properties">
 <!ENTITY folderPropsFolderCmd2.label "Folder Properties">
@@ -164,7 +164,7 @@
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "Unread">
 <!ENTITY unreadFolders.accesskey "U">
-<!ENTITY favoriteFolders.label "Favorite">
+<!ENTITY favoriteFolders.label "Favourite">
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recent">
 <!ENTITY recentFolders.accesskey "R">
@@ -684,7 +684,7 @@
 <!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties2.label "Properties">
 <!ENTITY folderContextProperties2.accesskey "P">
-<!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
+<!ENTITY folderContextFavoriteFolder.label "Favourite Folder">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings2.label "Settings">
 <!ENTITY folderContextSettings2.accesskey "e">
@@ -795,7 +795,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favorites">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favourites">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Copy To">
 <!ENTITY contextCopyMsgMenu.accesskey "C">

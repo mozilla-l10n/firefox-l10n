@@ -51,7 +51,7 @@
 <!ENTITY alignment.label "Align Text to Image">
 <!ENTITY bottomPopup.value "At the bottom">
 <!ENTITY topPopup.value "At the top">
-<!ENTITY centerPopup.value "In the center">
+<!ENTITY centerPopup.value "In the centre">
 <!ENTITY wrapRightPopup.value "Wrap to the right">
 <!ENTITY wrapLeftPopup.value "Wrap to the left">
 
