@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = 새 위치 정보 접근 요청을 차단함
 permissions-site-location-disable-desc = 위 목록에 없는 사이트는 위치 정보 요청을 할 수 없게 됩니다. 위치 정보 접근을 차단하면 웹사이트의 일부 기능이 작동하지 않을 수 있습니다.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = 설정 - 가상 현실 권한
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
