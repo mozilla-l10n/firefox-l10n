@@ -5,7 +5,7 @@
 <!ENTITY itemTags.label                   "Etiquettas">
 <!ENTITY itemAdvanced.label               "Avantiate">
 
-<!ENTITY style.label                      "Stylo:">
+<!ENTITY style.label                      "Stilo:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "Regular">
 <!ENTITY bold.label                       "Hardite">

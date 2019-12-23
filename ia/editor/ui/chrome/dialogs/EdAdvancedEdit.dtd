@@ -11,7 +11,7 @@
 <!ENTITY tree.propertyHeader.label      "Proprietate">
 <!ENTITY tree.valueHeader.label         "Valor">
 <!ENTITY tabHTML.label                  "Attributos HTML">
-<!ENTITY tabCSS.label                   "Stylo in linea">
+<!ENTITY tabCSS.label                   "Stilo incorporate">
 <!ENTITY tabJSE.label                   "Eventos JavaScript">
 
 <!ENTITY editAttribute.label    "Clicca sur un elemento supra pro modificar su valor">

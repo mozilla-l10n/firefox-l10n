@@ -7,7 +7,7 @@
 <!ENTITY windowTitle.label "Proprietates de lista">
 
 <!ENTITY ListType.label "Typo de lista">
-<!ENTITY bulletStyle.label "Stylo marcas:">
+<!ENTITY bulletStyle.label "Stilo de punctos:">
 <!ENTITY startingNumber.label "Numero initial:">
 <!ENTITY startingNumber.accessKey "i">
 <!ENTITY none.value "Nulle">

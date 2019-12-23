@@ -96,7 +96,7 @@
 <!ENTITY size-hugeCmd.accesskey "E">
 
 <!-- Font Style SubMenu -->
-<!ENTITY fontStyleMenu.label "Stylo">
+<!ENTITY fontStyleMenu.label "Stilo">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Hardite">
 <!ENTITY styleBoldCmd.accesskey "H">
