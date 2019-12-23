@@ -87,8 +87,8 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "HTTP 캐시 비활성화 (툴박스가 열려 있을 때)">
-<!ENTITY options.disableHTTPCache.tooltip   "이 설정을 켜면 툴박스가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. 서비스 워커는 이 설정의 영향을 받지 않습니다.">
+<!ENTITY options.disableHTTPCache.label     "HTTP 캐시 비활성화 (도구상자가 열려 있을 때)">
+<!ENTITY options.disableHTTPCache.tooltip   "이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. 서비스 워커는 이 설정의 영향을 받지 않습니다.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
@@ -135,11 +135,6 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "시각 보기">
 <!ENTITY options.timestampMessages.tooltip    "이 옵션을 켜면 웹 콘솔의 명령어와 출력을 시각과 함께 보여줍니다.">
-
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "유사한 메시지 그룹화">
-<!ENTITY options.warningGroups.tooltip    "활성화하면 유사한 메시지가 그룹으로 배치됩니다">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
