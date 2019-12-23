@@ -57,7 +57,7 @@ containers-color-toolbar =
 containers-icon-fence =
     .label = Sticcatu
 containers-icon-fingerprint =
-    .label = Mpronta diggitali
+    .label = Urma diggitali
 containers-icon-briefcase =
     .label = Valiggetta
 # String represents a money sign but currently uses a dollar sign

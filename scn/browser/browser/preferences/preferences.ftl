@@ -849,7 +849,7 @@ content-blocking-unvisited-cookies = Cookie di siti nun visitati
 content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti li finestri
 content-blocking-all-third-party-cookies = Tutti li cookie di terzi parti
 content-blocking-cryptominers = Crittuminatura
-content-blocking-fingerprinters = Riggistratura di mprunti diggitali
+content-blocking-fingerprinters = Giniratura d'urmi diggitali
 content-blocking-warning-title = Cumanna!
 content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari lu bloccu pî siti dî quali ti fidi.
 content-blocking-learn-how = Scopri comu
@@ -879,8 +879,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Riggistratura di mprunti diggitali
-    .accesskey = F
+    .label = Giniratura d'urmi diggitali
+    .accesskey = G
 
 ## Privacy Section - Tracking
 

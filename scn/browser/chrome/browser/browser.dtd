@@ -604,6 +604,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.fingerprinters.label "Giniratura d'urmi diggitali">
+<!ENTITY contentBlocking.fingerprintersView.label "Giniratura d'urmi diggitali">
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "Cchiù nfurmazziuna">
 
