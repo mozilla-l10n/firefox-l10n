@@ -137,6 +137,7 @@ cfr-whatsnew-pip-cta = Več o tem
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Manj nadležnih pojavnih oken na strani
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } sedaj stranem preprečuje samodejne zahteve za pošiljanje pojavnih sporočil.
 cfr-whatsnew-permission-prompt-cta = Več o tem
 
 ## Fingerprinter Counter
@@ -151,8 +152,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [few] Sledilci prstnih odtisov zavrnjeni
        *[other] Sledilcev prstnih odtisov zavrnjenih
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } zavrača številne sledilce prstnih odtisov, ki skrivaj zbirajo podatke o vaši napravi in dejanjih ter ustvarjajo vaš oglaševalski profil.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Sledilci prstnih odtisov
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } lahko zavrača sledilce prstnih odtisov, ki skrivaj zbirajo podatke o vaši napravi in dejanjih ter ustvarjajo vaš oglaševalski profil.
 
 ## Bookmark Sync
 
