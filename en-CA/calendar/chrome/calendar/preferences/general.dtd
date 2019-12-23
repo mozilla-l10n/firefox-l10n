@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "General Settings" >
+
 <!ENTITY pref.dateformat.label "Date Text Format:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Long" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Default Length:" >
 <!ENTITY pref.default_event_length.accesskey "E">
 
+<!ENTITY pref.default_event_task_length.label "Default Event and Task Length">
+<!ENTITY pref.default_event_task_length.accesskey "E">
+
 <!ENTITY pref.default_task_none.label "None">
 <!ENTITY pref.default_task_start_of_day.label "Start of Day">
 <!ENTITY pref.default_task_end_of_day.label "End of Day">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relative to Next Hour">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Today Pane">
-<!ENTITY pref.soondays.label "The upcoming section shows:">
-<!ENTITY pref.soondays.accesskey "u">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
@@ -46,7 +47,7 @@
 <!ENTITY pref.soondays2.accesskey "U">
 
 <!ENTITY pref.accessibility.label "Accessibility" >
-<!ENTITY pref.systemcolors.label "Optimise colours for accessibility" >
+<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
 <!ENTITY pref.eventsandtasks.label "Events and Tasks" >

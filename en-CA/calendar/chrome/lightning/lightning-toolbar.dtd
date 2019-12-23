@@ -7,8 +7,8 @@
 <!ENTITY lightning.toolbar.task.name "Task Toolbar">
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
-<!ENTITY lightning.toolbar.sync.label "Synchronise">
-<!ENTITY lightning.toolbar.sync.tooltip "Reload calendars and synchronise changes">
+<!ENTITY lightning.toolbar.sync.label "Synchronize">
+<!ENTITY lightning.toolbar.sync.tooltip "Reload calendars and synchronize changes">
 <!ENTITY lightning.toolbar.delete.label "Delete">
 <!ENTITY lightning.toolbar.delete.tooltip "Delete selected events or tasks">
 <!ENTITY lightning.toolbar.edit.label "Edit">

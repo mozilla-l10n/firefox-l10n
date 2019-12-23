@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  paneGeneral.title       "General">
-<!ENTITY  paneAlarms.title        "Alarms">
+<!ENTITY  paneAlarms.title        "Reminders">
 <!ENTITY  paneCategories.title    "Categories">
 <!ENTITY  paneViews.title         "Views">
+<!ENTITY  panelHeader.title       "Calendar">
+<!ENTITY  panelReminder.title     "Reminders">
+<!ENTITY  panelCatecory.title     "Categories">

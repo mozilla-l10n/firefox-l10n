@@ -6,7 +6,7 @@
 <!ENTITY fromField4.label "From">
 <!ENTITY senderField4.label "Sender">
 <!ENTITY author.label "Author">
-<!ENTITY organizationField4.label "Organisation">
+<!ENTITY organizationField4.label "Organization">
 <!ENTITY replyToField4.label "Reply to">
 
 <!ENTITY subjectField4.label "Subject">
@@ -20,7 +20,7 @@
 <!ENTITY referencesField4.label "References">
 <!ENTITY messageIdField4.label "Message ID">
 <!ENTITY inReplyToField4.label "In reply to">
-<!ENTITY originalWebsite4.label "Web site">
+<!ENTITY originalWebsite4.label "Website">
 
 <!ENTITY hdrArchiveButton1.label "Archive">
 <!ENTITY hdrArchiveButton1.tooltip "Archive this message">
@@ -94,6 +94,11 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Open the attached file">
+
+<!ENTITY detachedAttachmentFolder.show.label        "Open Containing Folder">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Show In Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Save">

@@ -15,9 +15,9 @@
 <!ENTITY newevent.eventStatus.none.label          "Not specified" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
 <!ENTITY newevent.todoStatus.none.label           "Not specified" >
-<!ENTITY newevent.eventStatus.cancelled.label     "Cancelled" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Canceled" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
-<!ENTITY newevent.todoStatus.cancelled.label      "Cancelled" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Canceled" >
 <!ENTITY newevent.status.tentative.label          "Tentative" >
 <!ENTITY newevent.status.tentative.accesskey      "T" >
 <!ENTITY newevent.status.confirmed.label          "Confirmed" >
@@ -33,11 +33,11 @@
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Notify attendees">
-<!ENTITY event.attendees.notify.accesskey           "f">
-<!ENTITY event.attendees.notifyundisclosed.label    "Separate invitation per attendee">
-<!ENTITY event.attendees.notifyundisclosed.accesskey  "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
+<!ENTITY event.attendees.notify.label                "Notify attendees">
+<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notifyundisclosed.label     "Separate invitation per attendee">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
 <!ENTITY event.attendees.disallowcounter.label       "Disallow counter">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indicates that you will not accept counterproposals">
@@ -117,7 +117,7 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
 <!ENTITY  event.menu.view.toolbars.event.label            "Event Toolbar">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "E">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Customise…">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Customize…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
 <!ENTITY  event.menu.view.showlink.label                  "Show Related Link">
 <!ENTITY  event.menu.view.showlink.accesskey              "R">
@@ -155,12 +155,12 @@
 
 <!ENTITY event.invite.attendees.label                     "Invite Attendees…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
-<!ENTITY event.email.attendees.label                      "Compose Email to All Attendees…">
+<!ENTITY event.email.attendees.label                      "Compose E-Mail to All Attendees…">
 <!ENTITY event.email.attendees.accesskey                  "A">
-<!ENTITY event.email.tentative.attendees.label            "Compose Email to Undecided Attendees…">
+<!ENTITY event.email.tentative.attendees.label            "Compose E-Mail to Undecided Attendees…">
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
 <!ENTITY event.remove.attendees.label2                    "Remove all attendees">
-<!ENTITY event.remove.attendees.accesskey                 "R">
+<!ENTITY event.remove.attendees.accesskey                 "r">
 <!ENTITY event.remove.attendee.label                      "Remove attendee">
 <!ENTITY event.remove.attendee.accesskey                  "e">
 
@@ -197,7 +197,7 @@
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Title:" >
-<!ENTITY event.title.textbox.accesskey                    "i">
+<!ENTITY event.title.textbox.accesskey                    "I">
 <!ENTITY event.location.label                             "Location:" >
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Category:">
@@ -206,7 +206,7 @@
 <!ENTITY event.calendar.label                             "Calendar:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "Attendees:" >
-<!ENTITY event.attendees.accesskey                        "n" >
+<!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "All day Event" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Start:" >
@@ -231,7 +231,7 @@
 <!ENTITY event.attachments.accesskey                      "h" >
 <!ENTITY event.attachments.menubutton.label               "Attach">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
-<!ENTITY event.attachments.url.label                      "Web Page…">
+<!ENTITY event.attachments.url.label                      "Webpage…">
 <!ENTITY event.attachments.url.accesskey                  "W">
 <!ENTITY event.attachments.popup.remove.label             "Remove" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
@@ -239,7 +239,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Remove All" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
-<!ENTITY event.attachments.popup.attachPage.label         "Attach Web Page…" >
+<!ENTITY event.attachments.popup.attachPage.label         "Attach Webpage…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "Related Link:" >
 <!ENTITY event.priority2.label                            "Priority:">
@@ -371,7 +371,7 @@
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Invite Attendees">
-<!ENTITY event.organizer.label                  "Organiser">
+<!ENTITY event.organizer.label                  "Organizer">
 <!ENTITY event.freebusy.suggest.slot            "Suggest time slot:">
 <!ENTITY event.freebusy.button.next.slot        "Next slot">
 <!ENTITY event.freebusy.button.previous.slot    "Previous slot">
@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Title:">
+<!ENTITY read.only.calendar.label        "Calendar:">
 <!ENTITY read.only.event.start.label     "Start Date:">
 <!ENTITY read.only.task.start.label      "Start Date:">
 <!ENTITY read.only.event.end.label       "End Date:">
@@ -405,14 +406,23 @@
 <!ENTITY read.only.repeat.label          "Repeat:">
 <!ENTITY read.only.location.label        "Location:">
 <!ENTITY read.only.category.label        "Category:">
-<!ENTITY read.only.organizer.label       "Organiser:">
-<!ENTITY read.only.reply.label           "Reply:">
-<!ENTITY read.only.accept.label          "I will attend">
-<!ENTITY read.only.decline.label         "I will not attend">
-<!ENTITY read.only.tentative.label       "I might attend">
-<!ENTITY read.only.needs.action.label    "I will confirm later">
+<!ENTITY read.only.organizer.label       "Organizer:">
 <!ENTITY read.only.reminder.label        "Reminder:">
 <!ENTITY read.only.attachments.label     "Attachments:">
 <!ENTITY read.only.attendees.label       "Attendees">
 <!ENTITY read.only.description.label     "Description">
 <!ENTITY read.only.link.label            "Related Link">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Save and Close">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Save changes and close the window without changing the participation status and sending a response">
+<!ENTITY summary.dialog.accept.label            "Accept">
+<!ENTITY summary.dialog.accept.tooltiptext      "Accept the invitation">
+<!ENTITY summary.dialog.tentative.label         "Tentative">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Accept the invitation tentatively">
+<!ENTITY summary.dialog.decline.label           "Decline">
+<!ENTITY summary.dialog.decline.tooltiptext     "Decline the invitation">
+<!ENTITY summary.dialog.dontsend.label          "Do not send a response">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Change your participation status without sending a reply to the organizer and close the window">
+<!ENTITY summary.dialog.send.label              "Send a response now">
+<!ENTITY summary.dialog.send.tooltiptext        "Send out a response to the organizer  and close the window">

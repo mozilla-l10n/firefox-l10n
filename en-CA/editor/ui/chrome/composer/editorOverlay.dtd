@@ -9,7 +9,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Paste Without Formatting">
-<!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Paste As">
 <!ENTITY pasteAs.accesskey "a">
@@ -40,7 +40,7 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertMathCmd.label "Mathematical Formula…">
+<!ENTITY insertMathCmd.label "Math…">
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Characters and Symbols…">
 <!ENTITY insertCharsCmd.accesskey "C">
@@ -132,9 +132,9 @@
 <!ENTITY styleVar.label "Variable">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Text Colour…">
+<!ENTITY formatFontColor.label "Text Color…">
 <!ENTITY formatFontColor.accesskey "C">
-<!ENTITY tableOrCellColor.label "Table or Cell Background Colour…">
+<!ENTITY tableOrCellColor.label "Table or Cell Background Color…">
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "Y">
@@ -145,7 +145,7 @@
 
 <!ENTITY paragraphMenu.label "Paragraph">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraph">  
+<!ENTITY paragraphParagraphCmd.label "Paragraph">
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Heading 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -194,9 +194,9 @@
 <!ENTITY alignLeft.label "Left">
 <!ENTITY alignLeft.accesskey "L">
 <!ENTITY alignLeft.tooltip "Align Left">
-<!ENTITY alignCenter.label "Centre">
+<!ENTITY alignCenter.label "Center">
 <!ENTITY alignCenter.accesskey "C">
-<!ENTITY alignCenter.tooltip "Align Centre">
+<!ENTITY alignCenter.tooltip "Align Center">
 <!ENTITY alignRight.label "Right">
 <!ENTITY alignRight.accesskey "R">
 <!ENTITY alignRight.tooltip "Align Right">
@@ -216,7 +216,7 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY colorsAndBackground.label "Page Colours and Background…">
+<!ENTITY colorsAndBackground.label "Page Colors and Background…">
 <!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
@@ -268,7 +268,7 @@
 <!ENTITY tableDeleteMenu.label "Delete">
 <!ENTITY tableDeleteMenu.accesskey "D">
 
-<!-- text for "Join Cells" is in editor.properties 
+<!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
@@ -304,10 +304,11 @@
 <!ENTITY linkToolbarCmd.tooltip "Insert new link or edit selected link's properties">
 <!ENTITY anchorToolbarCmd.label "Anchor">
 <!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
-<!ENTITY TextColorButton.tooltip "Choose colour for text">
-<!ENTITY BackgroundColorButton.tooltip "Choose colour for background">
+<!ENTITY TextColorButton.tooltip "Choose color for text">
+<!ENTITY BackgroundColorButton.tooltip "Choose color for background">
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
-<!ENTITY HighlightColorButton.tooltip "Choose highlight colour for text">
+<!ENTITY throbber.tooltip2 "Go to the &brandShortName; home page">
+<!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Set font size">
@@ -323,7 +324,7 @@
 <!ENTITY AlignPopupButton.tooltip "Choose text alignment">
 <!ENTITY InsertPopupButton.tooltip "Insert a Link, Anchor, Image, Horizontal Line, or Table">
 <!ENTITY alignLeftButton.tooltip "Align text along left margin">
-<!ENTITY alignCenterButton.tooltip "Align text centred">
+<!ENTITY alignCenterButton.tooltip "Align text centered">
 <!ENTITY alignRightButton.tooltip "Align text along right margin">
 <!ENTITY alignJustifyButton.tooltip "Align text along left and right margins">
 

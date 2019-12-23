@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Feed URL:">
 <!ENTITY feedLocation.accesskey      "F">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
 <!ENTITY feedLocation2.placeholder   "Enter a valid feed url">
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
@@ -32,7 +31,7 @@
 <!ENTITY quickMode.accesskey         "h">
 
 <!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
-<!ENTITY autotagEnable.accesskey     "c">
+<!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Prefix tags with:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
@@ -49,7 +48,7 @@
 <!ENTITY button.importOPML.label     "Import">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Export">
-<!ENTITY button.exportOPML.accesskey "x">
+<!ENTITY button.exportOPML.accesskey "X">
 <!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
 <!ENTITY cmd.close.commandKey        "w">

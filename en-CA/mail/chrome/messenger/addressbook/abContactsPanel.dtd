@@ -44,6 +44,6 @@
 <!ENTITY toButton.label                     "Add to To:">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Add to Cc:">
-<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Add to Bcc:">
 <!ENTITY bccButton.accesskey                "B">

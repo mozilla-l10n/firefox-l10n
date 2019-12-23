@@ -19,15 +19,15 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Composition">
+<!ENTITY compositionGroupTitle.label          "Composition">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Compose messages in HTML format">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "Automatically quote the original message when replying">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Then,">
-<!ENTITY then.accesskey                       "T">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "When quoting,">
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "start my reply above the quote">
 <!ENTITY belowQuote.label                     "start my reply below the quote">
 <!ENTITY selectAndQuote.label                 "select the quote">
@@ -36,7 +36,7 @@
 <!ENTITY belowText.label                      "below the quote (recommended)">
 <!ENTITY aboveText.label                      "below my reply (above the quote)">
 <!ENTITY includeSigOnReply.label              "Include signature for replies">
-<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "Include signature for forwards">
 <!ENTITY includeSigOnForward.accesskey        "w">
 

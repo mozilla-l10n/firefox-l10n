@@ -17,7 +17,7 @@
 <!ENTITY regularSize.label                "Regular">
 <!ENTITY bigger.label                     "Bigger">
 <!ENTITY smaller.label                    "Smaller">
-<!ENTITY quotedTextColor.label            "Colour:">
+<!ENTITY quotedTextColor.label            "Color:">
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Plain Text Messages">
 <!ENTITY displayText.label                "When displaying quoted plain text messages:">
@@ -27,7 +27,7 @@
 <!ENTITY convertEmoticons.accesskey    "e">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Tags can be used to categorise and prioritise your messages.">
+<!ENTITY displayTagsText.label     "Tags can be used to categorize and prioritize your messages.">
 <!ENTITY newTagButton.label        "New…">
 <!ENTITY newTagButton.accesskey    "N">
 <!ENTITY editTagButton1.label      "Edit…">
@@ -35,27 +35,28 @@
 <!ENTITY removeTagButton.label     "Delete">
 <!ENTITY removeTagButton.accesskey "D">
 
-<!-- Fonts -->
-<!ENTITY fontsAndColors1.label   "Fonts &amp; Colours">
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
 <!ENTITY defaultFont.label       "Default font:">
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "Size:">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "A">
 <!ENTITY fontOptions.label       "Advanced…">
-<!ENTITY colorButton.label       "Colours…">
+<!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Reading">
 <!ENTITY display.caption                  "Display">
+<!ENTITY displayName.label                "Display name:">
 <!ENTITY showCondensedAddresses.label     "Show only display name for people in my address book">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
 <!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey         "A">
 <!ENTITY markAsReadNoDelay.label          "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->

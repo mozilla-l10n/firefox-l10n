@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "Left of Table">
 <!ENTITY tableCaptionRight.label          "Right of table">
 <!ENTITY tableCaptionNone.label           "None">
-<!ENTITY tableInheritColor.label           "(Let page colour show through)">
+<!ENTITY tableInheritColor.label           "(Let page color show through)">
 
 <!ENTITY cellSelection.label              "Selection">
 <!ENTITY cellSelectCell.label             "Cell">
@@ -62,14 +62,14 @@
 <!ENTITY cellAlignMiddle.label            "Middle">
 <!ENTITY cellAlignBottom.label            "Bottom">
 <!ENTITY cellAlignJustify.label           "Justify">
-<!ENTITY cellInheritColor.label           "(Let table colour show through)">
-<!ENTITY cellUseCheckboxHelp.label        "Use tickboxes to determine which properties are applied to all selected cells">
+<!ENTITY cellInheritColor.label           "(Let table color show through)">
+<!ENTITY cellUseCheckboxHelp.label        "Use checkboxes to determine which properties are applied to all selected cells">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Size">
 <!ENTITY pixels.label                     "pixels">
-<!ENTITY backgroundColor.label            "Background Colour:">
+<!ENTITY backgroundColor.label            "Background Color:">
 <!ENTITY backgroundColor.accessKey        "B">
 <!ENTITY AlignLeft.label                  "Left">
-<!ENTITY AlignCenter.label                "Centre">
+<!ENTITY AlignCenter.label                "Center">
 <!ENTITY AlignRight.label                 "Right">
