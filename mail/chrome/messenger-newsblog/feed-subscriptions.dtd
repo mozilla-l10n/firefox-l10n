@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
 <!ENTITY learnMore.label             "Մանրամասներ Շղթաների մասին">
 
@@ -11,14 +11,14 @@
 
 <!ENTITY feedLocation.label          "Շղթայի URL-ն.">
 <!ENTITY feedLocation.accesskey      "Շ">
-<!ENTITY feedLocation.placeholder    "Նշեք ճիշտ վեբ հղում">
+<!ENTITY feedLocation2.placeholder   "Նշեք ճիշտ վեբ հղում">
 <!ENTITY locationValidate.label      "Վավերացնել">
 <!ENTITY validateText.label          "Ստուգել և ստանալ ճիշտ վեբ հղում։">
 
 <!ENTITY feedFolder.label            "Պահել հոդվածները՝">
 <!ENTITY feedFolder.accesskey        "Պ">
-<!-- Account Settings and Subscription Dialog -->
 
+<!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Ստուգել թարմացումները յուրաքանչյուր՝">
 <!ENTITY biffStart.accesskey         "լ">
 <!ENTITY biffMinutes.label           "րոպե">
@@ -35,10 +35,12 @@
 <!ENTITY autotagUsePrefix.label      "Պիտակի նախածանցը.">
 <!ENTITY autotagUsePrefix.accesskey  "Պ">
 <!ENTITY autoTagPrefix.placeholder   "Պիտակի վերջածանցը">
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Ավելացնել">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "Հաստատել">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Թարմացնել">
 <!ENTITY button.updateFeed.accesskey "Թ">
 <!ENTITY button.removeFeed.label     "Հեռացնել">

@@ -753,6 +753,7 @@
 <!ENTITY attachmentColumn2.tooltip "Տեսակավորել ըստ՝ կցորդների">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Նոր հաղորդագրություն՝ ձևանմուշից">
 <!ENTITY contextOpenNewWindow.label "Նամակը բացել նոր պատուհանում">
 <!ENTITY contextOpenNewWindow.accesskey "պ">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -768,6 +769,8 @@
 <!ENTITY contextEditMsgAsNew.label "Խմբագրել որպես նոր նամակ">
 <!ENTITY contextEditMsgAsNew.accesskey "Խ">
 <!ENTITY contextEditDraftMsg.label "Խմբագրել սևագիր նամակը">
+<!ENTITY contextEditTemplate.label "Խմբագրել ձևանմուշը">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Արխիվ">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
@@ -792,6 +795,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Վերջին">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Ընտրյալներ">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Պատճենել՝">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Անտեսել շղթան">
@@ -964,5 +969,7 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Ծրագրի պատկերակի ընտրանքներ...">
+<!ENTITY writeNewMessageDock.label      "Գրել նոր նամակ">
+<!ENTITY openAddressBookDock.label      "Բացել հասցեագիրքը">
 
 <!-- Content tab Navigation buttons -->
