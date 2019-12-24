@@ -295,15 +295,15 @@
 <!ENTITY spellToolbarCmd.label "Spell">
 <!ENTITY spellToolbarCmd.tooltip "Check spelling of selection or entire page">
 <!ENTITY imageToolbarCmd.label "Image">
-<!ENTITY imageToolbarCmd.tooltip "Insert new image or edit selected image's properties">
+<!ENTITY imageToolbarCmd.tooltip "Insert new image or edit selected image’s properties">
 <!ENTITY hruleToolbarCmd.label "H.Line">
-<!ENTITY hruleToolbarCmd.tooltip "Insert horizontal line or edit selected line's properties">
+<!ENTITY hruleToolbarCmd.tooltip "Insert horizontal line or edit selected line’s properties">
 <!ENTITY tableToolbarCmd.label "Table">
-<!ENTITY tableToolbarCmd.tooltip "Insert new table or edit selected table's properties">
+<!ENTITY tableToolbarCmd.tooltip "Insert new table or edit selected table’s properties">
 <!ENTITY linkToolbarCmd.label "Link">
-<!ENTITY linkToolbarCmd.tooltip "Insert new link or edit selected link's properties">
+<!ENTITY linkToolbarCmd.tooltip "Insert new link or edit selected link’s properties">
 <!ENTITY anchorToolbarCmd.label "Anchor">
-<!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
+<!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor’s properties">
 <!ENTITY TextColorButton.tooltip "Choose colour for text">
 <!ENTITY BackgroundColorButton.tooltip "Choose colour for background">
 <!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">

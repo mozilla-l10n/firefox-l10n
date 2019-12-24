@@ -14,14 +14,14 @@
 <!ENTITY  savingFiles.title             "When Saving or Publishing Pages">
 <!ENTITY  preserveExisting.label        "Preserve original source formatting">
 <!ENTITY  preserveExisting.accesskey    "P">
-<!ENTITY  preserveExisting.tooltip      "Preserves line breaks and page's original formatting">
+<!ENTITY  preserveExisting.tooltip      "Preserves line breaks and page’s original formatting">
 <!ENTITY  saveAssociatedFiles.label     "Save images and other associated files when saving pages">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "Always show Publish dialog when publishing pages">
 <!ENTITY  showPublishDialog.accesskey   "A">
 <!ENTITY  composerEditing.label         "Editing">
 <!ENTITY  maintainStructure.label       "Maintain table layout when inserting or deleting cells">
-<!ENTITY  maintainStructure.tooltip     "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
+<!ENTITY  maintainStructure.tooltip     "Preserves table’s rectangular shape by automatically adding cells after inserting or deleting cells">
 <!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "Use CSS styles instead of HTML elements and attributes">
 <!ENTITY  useCSS.accesskey              "U">

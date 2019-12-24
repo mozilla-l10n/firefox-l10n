@@ -34,7 +34,7 @@
 <!ENTITY pageTitleExample.label       "e.g.: &quot;My Web Page&quot;">
 <!ENTITY filename.label               "Filename:">
 <!ENTITY filename.accesskey           "F">
-<!ENTITY filename.tooltip             "Enter a name for this file, including '.html' for a web page">
+<!ENTITY filename.tooltip             "Enter a name for this file, including ‘.html’ for a web page">
 <!ENTITY filenameExample.label        "e.g,: &quot;mypage.html&quot;">
 <!ENTITY setDefaultButton.label       "Set as Default">
 <!ENTITY setDefaultButton.accesskey   "D">
@@ -47,13 +47,13 @@
 <!ENTITY loginInfo.label              "Login Information">
 <!ENTITY siteName.label               "Site Name:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "A nickname that identifies this publishing site (e.g.: 'MySite')">
-<!ENTITY siteUrl.label                "Publishing address (e.g.: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteName.tooltip             "A nickname that identifies this publishing site (e.g.: ‘MySite’)">
+<!ENTITY siteUrl.label                "Publishing address (e.g.: ‘ftp://ftp.myisp.com/myusername’):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "The FTP:// or HTTP:// address provided by your ISP or web hosting service">
-<!ENTITY browseUrl.label              "HTTP address of your homepage (e.g.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.label              "HTTP address of your homepage (e.g.: ‘http://www.myisp.com/myusername’):">
 <!ENTITY browseUrl.accesskey          "T">
-<!ENTITY browseUrl.tooltip            "The HTTP:// address of your home directory (don't include filename)">
+<!ENTITY browseUrl.tooltip            "The HTTP:// address of your home directory (don’t include filename)">
 <!ENTITY username.label               "User name:">
 <!ENTITY username.accesskey           "U">
 <!ENTITY username.tooltip             "The user name you use to log in to your ISP or web hosting service">
