@@ -50,7 +50,7 @@ cfr-doorhanger-extension-rating =
     .tooltiptext =
         { $total ->
             [one] { $total } աստղ
-           *[other] { $total } աստղ
+           *[other] { $total } աստղեր
         }
 # Variables:
 #   $total (Number) - The total number of users using the add-on
@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } օգտվող
        *[other] { $total } օգտվող
     }
-cfr-doorhanger-pintab-description = Մատչեք առավել շատ օգտագործվող կայքերը: ՊԱհեք կայքերը բացված ներդիրում, եթե անգամ վերագործարկում եք:
+cfr-doorhanger-pintab-description = Մատչեք առավել շատ օգտագործվող կայքերը։ Պահեք կայքերը բացված ներդիրում, եթե անգամ վերագործարկում եք։
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -183,7 +183,7 @@ cfr-doorhanger-socialtracking-description = Ձեր գաղտնիությունը 
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } արգելափակում է մատնահետքը այս էջում
 cfr-doorhanger-fingerprinters-description = Ձեր գաղտնիությունը կարևոր է: { -brand-short-name }-ն այժմ արգելափակում է մատնահետքեր, որոնք հավաքում են ձեր սարքի մասին եզակի անձնական տեղեկություններ վնասելու համար։
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } արգելափակեց գաղտնազերծիչը այս էջում
-cfr-doorhanger-cryptominers-description = Ձեր գաղտնիությունը կարևոր է: { -brand-short-name }-ը կարճ անունն թճճփՌէթփայժմ արգելափակում է ծպտյալ սարքերը, որոնք օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողերը հանելու համար:
+cfr-doorhanger-cryptominers-description = Ձեր գաղտնիությունը կարևոր է։ { -brand-short-name }-ը կարճ անունը հիմա արգելափակում է ծպտյալ սարքերը, որոնք օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողերը հանելու համար։
 
 ## Enhanced Tracking Protection Milestones
 

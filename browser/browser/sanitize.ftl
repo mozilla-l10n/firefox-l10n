@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Մաքրել Ամբողջ Պատմությունը
     .style = width: 34em
+clear-data-settings-label = Երբ փակ է, { -brand-short-name }-ը պետք է ինքնաշխատորեն մաքրի ամեն ինչ
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

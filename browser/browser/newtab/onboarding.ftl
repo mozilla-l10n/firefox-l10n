@@ -25,7 +25,7 @@ onboarding-welcome-modal-get-body = Դուք ունեք զննարկիչը։<br/
 onboarding-welcome-modal-supercharge-body = Գերազանցեք ձեր գաղտնիության պաշտպանությունը։
 onboarding-welcome-modal-privacy-body = Դուք ունեք զննարկիչ։ եկեք ավելացնենք ավելի շատ գաղտնիության պաշտպանություն։
 onboarding-welcome-modal-family-learn-more = Իմացեք { -brand-product-name } ապրանքների ընտանիքի մասին։
-onboarding-welcome-form-header = Սկսիր այստեղ
+onboarding-welcome-form-header = Սկսեք այստեղ
 onboarding-join-form-header = Միանալ { -brand-product-name }
 onboarding-join-form-body = Սկսելու համար մուտքագրեք ձեր էլ. Փոստի հասցեն:
 onboarding-join-form-email =
@@ -34,10 +34,10 @@ onboarding-join-form-email-error = Անհրաժեշտ է վավեր էլ․ փո
 onboarding-join-form-legal = Շարունակելով, դուք համաձայնվում եք <a data-l10n-name="terms"> Ծառայությունների մատուցման պայմանների </a> և <a data-l10n-name="privacy"> Գաղտնիության ծանուցման </a> հետ:
 onboarding-join-form-continue = Շարունակել
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
-onboarding-join-form-signin-label = Արդեն ունե՞ք հաշիվ
+onboarding-join-form-signin-label = Արդեն ունե՞ք հաշիվ։
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Մուտք գործել
-onboarding-start-browsing-button-label = ՍԿսել դիտարկումը
+onboarding-start-browsing-button-label = Սկսել դիտարկումը
 onboarding-cards-dismiss =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
@@ -46,7 +46,7 @@ onboarding-cards-dismiss =
 
 onboarding-fullpage-welcome-subheader = Եկեք սկսենք ուսումնասիրել այն ամենը, ինչ կարող եք անել։
 onboarding-fullpage-form-email =
-    .placeholder = Էլ․փոստի հասցեն
+    .placeholder = Ձեր էլ֊փոստի հասցեն…
 
 ## Firefox Sync modal dialog strings.
 
@@ -67,9 +67,9 @@ onboarding-sync-form-sub-header = շարունակել { -sync-brand-name }
 ## description.
 
 onboarding-benefit-products-title = Օգտակար արտադրանք
-onboarding-benefit-products-text = Ավարտե՛ք գործերը օգտագործելով  գործիքաընտանիքները, որոնք հարգում են ձեր գաղտնիությունը սարքերում։
+onboarding-benefit-products-text = Ավարտեք գործերը օգտագործելով  գործիքաընտանիքները, որոնք հարգում են Ձեր գաղտնիությունը սարքերում։
 onboarding-benefit-knowledge-title = Գործնական գիտելիք
-onboarding-benefit-knowledge-text = Իմացե՛ք այն ինչ պետք է խելացի և առցանց ապահով  լինելու համար։
+onboarding-benefit-knowledge-text = Իմացեք այն ինչ պետք է խելացի և առցանց ապահով  լինելու համար։
 onboarding-benefit-privacy-title = Իսկական գաղտնիություն
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -98,10 +98,10 @@ onboarding-screenshots-text = Ստացեք, պահպանեք և համօգտագ
 onboarding-addons-title = Հավելումներ
 onboarding-addons-text = Ավելացրեք ավելի շատ առանձնահատկություններ, որոնք ստիպում են { -brand-short-name }-ին ավելի շատ աշխատել ձեզ համար: Համեմատեք գները, ստուգեք եղանակը կամ արտահայտեք ձեր անձը մաքսային թեմաներով:
 onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Znne'q ավելի արագ, խելացի կամ ավելի անվտանգ ընդարձակման հետ ինչպես Ghostery-ը, որը ձեզ թույլատրում է արգելափակել նյարդայնացնող գովազդները։
+onboarding-ghostery-text = Զննեք ավելի արագ, խելացի կամ ավելի անվտանգ ընդարձակման հետ ինչպես Ghostery-ը, որը Ձեզ թույլատրում է արգելափակել նյարդայնացնող գովազդները։
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Սինք
-onboarding-fxa-text = Գրանցեք { -fxaccount-brand-name } եւ համաժամեցրեք ձեր էջանիշները, գաղտնաբառերը եւ բաց ներդիրները ամենուրեք, որտեղ էլ որ օգտագործեք { -brand-short-name }-ը:
+onboarding-fxa-text = Գրանցեք { -fxaccount-brand-name } և համաժամեցրեք Ձեր էջանիշները, գաղտնաբառերը և բաց ներդիրները ամենուրեք, որտեղ էլ որ օգտագործեք { -brand-short-name }-ը։
 onboarding-tracking-protection-title2 = Պաշտպանություն հետևելուց
 onboarding-tracking-protection-text2 = { -brand-short-name }-ը օգնում է դասարեցնել կայքերից ձեզ առցանց հետևելը, ինչը բարդեցնում է գովազդների հետապնդումը։
 onboarding-tracking-protection-button2 = Ինչպես է դա աշխատում
@@ -112,15 +112,15 @@ onboarding-data-sync-button2 = Մուտք գործել { -sync-brand-short-name 
 onboarding-firefox-monitor-title = Զգուշացեք տվյալների խախտումների մասին
 onboarding-firefox-monitor-text = { -monitor-brand-name } վերահսկում է, եթե ձեր էլ. փոստը հայտնվում է տվյալների խախտման մեջ և զգուշացնում է եթե այն հայտնվում է նոր խախտման մեջ:
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } վերահսկում է, եթե ձեր էլ֊փոտը հայտնվել է հայտնի տվյալների խախտմամբ և ահազանգում է ձեզ, եթե այն հայտնվում է նոր խախտմամբ։
-onboarding-firefox-monitor-button = Գրանցվե՛ք զգուշացման համար
+onboarding-firefox-monitor-button = Գրանցվեք զգուշացման համար
 onboarding-browse-privately-title = Զննարկչի գաղտնիություն
 onboarding-browse-privately-text = Գաղտնի զննարկումը մաքրում է ձեր որոնման և զննարկման պատմությունը` յուրաքանչյուրից օգտատիրոջից գաղտնի պահելու համար։
 onboarding-browse-privately-button = Բացել գաղտնի պատուհան
-onboarding-firefox-send-title = Ձեր Տարածած ֆայլերը պահե՛ք Գաղտնի։
-onboarding-firefox-send-text2 = Վերբեռնե՛ք ձեր նիշքերը { -send-brand-name } դրանք վերջապես ծածկագրելու և ինքնաբերաբար ավարտվող հղման հետ համօգտագործելու համար:
-onboarding-firefox-send-button = Փորձե՛ք { -send-brand-name }
-onboarding-mobile-phone-title = Ունեցե՛ք { -brand-product-name }-ը Ձեր Հեռախոսում
-onboarding-mobile-phone-text = Ներբեռնե՛ք { -brand-product-name }-ը iOS- ի կամ Android- ի համար և համաժամեցրե՛ք ձեր տվյալները սարքերում:
+onboarding-firefox-send-title = Ձեր Տարածած ֆայլերը պահեք Գաղտնի։
+onboarding-firefox-send-text2 = Վերբեռնեք Ձեր նիշքերը { -send-brand-name } դրանք վերջապես ծածկագրելու և ինքնաբերաբար ավարտվող հղման հետ համօգտագործելու համար։
+onboarding-firefox-send-button = Փորձեք { -send-brand-name }
+onboarding-mobile-phone-title = Ունեցեք { -brand-product-name }-ը Ձեր հեռախոսում
+onboarding-mobile-phone-text = Ներբեռնեք { -brand-product-name }-ը iOS- ի կամ Android- ի համար և համաժամեցրեք Ձեր տվյալները սարքերում։
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Ներբեռնել բջջային զննարկիչ
@@ -133,15 +133,14 @@ onboarding-send-tabs-text = Ներդիրների անմիջապես ուղարկ
 onboarding-send-tabs-text2 = Հեշտությամբ տարածեք էջերը Ձեր սարքերի միջև առանց հղումները պատճենելու կամ զննարկիչը լքելու։
 onboarding-send-tabs-button = Սկսեք օգտագործել ներդիրների ուղարկումը
 onboarding-pocket-anywhere-title = Ամեն դեպքում կարդալ և լսել
-onboarding-pocket-anywhere-text2 = Պահպանեք ձեր նախընտրած բովանդակությունն անցանց ռեժիմով՝{ -pocket-brand-name } ծրագրով և կարդացեք, լսեք և դիտեք, երբ դա ձեր համար հարմար է։
+onboarding-pocket-anywhere-text2 = Պահպանեք Ձեր նախընտրած բովանդակությունն անցանց ռեժիմով՝ { -pocket-brand-name } ծրագրով և կարդացեք, լսեք և դիտեք, երբ դա ձեր համար հարմար է։
 onboarding-pocket-anywhere-button = Փորձեք { -pocket-brand-name }
-onboarding-lockwise-passwords-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
-onboarding-lockwise-passwords-text2 = Ապահով պահեք ձեր գաղտնաբառերը և հեշտությամբ մուտք գործեք ձեր հաշիվներ { -lockwise-brand-name } ֊ի օգնությամբ։
+onboarding-lockwise-passwords-title = Վերցրեք Ձեր գաղտնաբառերը ամենուր
 onboarding-lockwise-passwords-button2 = Ստանալ հավելվածը
 onboarding-lockwise-strong-passwords-title = Ստեղծեք և պահեք լավ գաղտնաբառեր
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }-ը միանգամից ստեղծում է լավ գաղտնաբառեր և պահում դրանք մեկ տեղում։
 onboarding-lockwise-strong-passwords-button = Ձեր մուտքանունների կառավարում։
-onboarding-facebook-container-title = Սահմանե՛ք սահմաններ Facebook-ի հետ
+onboarding-facebook-container-title = Սահմանեք սահմաններ Facebook-ի հետ
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ձեր հատկագիրը զերծ է պահում մնացած ամեն ինչից, ավելի դժվար է դարձնում Facebook-ի համար ձեզ գովազդով թիրախավորելը։
 onboarding-facebook-container-button = Ավելացնել ընդլայնում
 onboarding-import-browser-settings-title = Ներածեք Ձեր էջանիշերը, գաղտնաբառերը և ավելին

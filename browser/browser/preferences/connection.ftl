@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Չկա պրոքսի
     .accesskey = n
 connection-proxy-noproxy-desc = Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Միացումները տեղայինհանգույցին՝ 127.0.0.1 և ::1-ին, երբեք չեն վստահվում:
 connection-proxy-autotype =
     .label = Պրոքսիի ինքնաբար կազմաձևում URL
     .accesskey = A
