@@ -41,6 +41,9 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Sarba pàggina comu…
+    .accesskey = c
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -80,14 +83,14 @@ main-context-menu-save-link =
 ## mutually exclusive.
 
 
-##
+
 
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 
-##
+
 
 main-context-menu-image-reload =
     .label = Càrrica arredi mmàggini
