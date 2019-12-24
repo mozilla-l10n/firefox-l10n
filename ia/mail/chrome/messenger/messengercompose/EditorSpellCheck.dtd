@@ -20,7 +20,7 @@
 <!ENTITY replaceButton.accessKey "R">
 <!ENTITY replaceAllButton.label "Replaciar toto">
 <!ENTITY replaceAllButton.accessKey "T">
-<!ENTITY stopButton.label "Cessar">
+<!ENTITY stopButton.label "Stoppar">
 <!ENTITY stopButton.accessKey "e">
 <!ENTITY userDictionary.label "Dictionario personal:">
 <!ENTITY moreDictionaries.label "Discargar altere dictionarios…">

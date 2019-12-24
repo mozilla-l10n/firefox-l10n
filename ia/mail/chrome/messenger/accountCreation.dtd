@@ -70,7 +70,7 @@
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Continuar">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY stop.label                      "Cessar">
+<!ENTITY stop.label                      "Stoppar">
 <!ENTITY stop.accesskey                  "C">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual config mode which will re-guess

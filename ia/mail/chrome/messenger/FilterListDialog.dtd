@@ -30,7 +30,7 @@
 <!ENTITY viewLogButton.accesskey "R">
 <!ENTITY runFilters.label "Exequer ora">
 <!ENTITY runFilters.accesskey "E">
-<!ENTITY stopFilters.label "Cessar">
+<!ENTITY stopFilters.label "Stoppar">
 <!ENTITY stopFilters.accesskey "C">
 <!ENTITY folderPickerPrefix.label "Exequer le filtro(s) seligite sur:">
 <!ENTITY folderPickerPrefix.accesskey "g">

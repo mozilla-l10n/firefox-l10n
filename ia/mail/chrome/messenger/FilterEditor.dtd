@@ -25,6 +25,7 @@
 <!ENTITY forwardTo.label "Reinviar le message a">
 <!ENTITY replyWithTemplate.label "Responder con modello">
 <!ENTITY setJunkScore.label "Mitter stato indesirate a">
+<!ENTITY stopExecution.label "Stoppar le execution del filtro">
 
 
 <!-- LOCALIZATION NOTE
