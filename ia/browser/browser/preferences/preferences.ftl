@@ -388,7 +388,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = Navigante
+browsing-title = Navigation
 browsing-use-autoscroll =
     .label = Usar le rolamento automatic
     .accesskey = a
@@ -399,14 +399,14 @@ browsing-use-onscreen-keyboard =
     .label = Monstrar un claviero tactile quando necessari
     .accesskey = M
 browsing-use-cursor-navigation =
-    .label = Sempre usar le claves con le flechas directional pro navigar intra le paginas
+    .label = Sempre usar le claves a flechas pro navigar intra paginas
     .accesskey = c
 browsing-search-on-start-typing =
     .label = Cercar le texto quando tu comencia a scriber
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
-    .label = Activa controlos picture-in-picture
-    .accesskey = p
+    .label = Activar controlos de video imagine-in-imagine
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Saper plus
 browsing-cfr-recommendations =
     .label = Extensiones recommendate quando tu naviga
