@@ -31,7 +31,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.framesPresented "Photogrammas presentate">
 <!ENTITY stats.framesPainted "Photogrammas designate">
 
-<!ENTITY error.aborted "Carga de video cessate.">
+<!ENTITY error.aborted "Cargamento de video stoppate.">
 <!ENTITY error.network "Reproduction del video abortate per un error de rete.">
 <!ENTITY error.decode "Le video non pote ser reproducite perque le file es corrumpite.">
 <!ENTITY error.srcNotSupported "Formato video o typo MIME non supportate.">
