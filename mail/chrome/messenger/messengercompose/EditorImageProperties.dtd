@@ -12,7 +12,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Image Location:">
 <!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Type the image's filename or location">
+<!ENTITY locationEditField.tooltip "Type the image’s filename or location">
 <!ENTITY locationEditField.shortenedDataURI "Shortened data URI (copy will place the full URI onto the clipboard)">
 <!ENTITY title.label "Tooltip:">
 <!ENTITY title.accessKey "T">
@@ -20,7 +20,7 @@
 <!ENTITY altText.label "Alternate text:">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Type text to display in place of the image">
-<!ENTITY noAltText.label "Don't use alternate text">
+<!ENTITY noAltText.label "Don’t use alternate text">
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "Image Preview">
@@ -30,17 +30,17 @@
 <!ENTITY actualSize.label "Actual Size:">
 <!ENTITY actualSizeRadio.label "Actual Size">
 <!ENTITY actualSizeRadio.accessKey "A">
-<!ENTITY actualSizeRadio.tooltip "Revert to the image's actual size">
+<!ENTITY actualSizeRadio.tooltip "Revert to the image’s actual size">
 <!ENTITY customSizeRadio.label "Custom Size">
 <!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "Change the image's size as displayed in the page">
+<!ENTITY customSizeRadio.tooltip "Change the image’s size as displayed in the page">
 <!ENTITY heightEditField.label "Height:">
 <!ENTITY heightEditField.accessKey "G">
 <!ENTITY widthEditField.label "Width:">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY constrainCheckbox.label "Constrain">
 <!ENTITY constrainCheckbox.accessKey "C">
-<!ENTITY constrainCheckbox.tooltip "Maintain the image's aspect ratio">
+<!ENTITY constrainCheckbox.tooltip "Maintain the image’s aspect ratio">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Image Map">

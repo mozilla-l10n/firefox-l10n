@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
-<!ENTITY articleNotFound.desc "The newsgroup server reports that it can't find the article.">
+<!ENTITY articleNotFound.desc "The newsgroup server reports that it can’t find the article.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->

@@ -22,7 +22,7 @@
 <!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "Never send a return receipt">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "If I'm not in the To or Cc of the message:">
+<!ENTITY notInToCc.label              "If I’m not in the To or Cc of the message:">
 <!ENTITY notInToCc.accesskey          "T">
 <!ENTITY outsideDomain.label          "If the sender is outside my domain:">
 <!ENTITY outsideDomain.accesskey      "s">

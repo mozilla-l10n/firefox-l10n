@@ -9,7 +9,7 @@
 <!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
 <!ENTITY importSourceNotFound.label     "No application to import data from found.">
 
-<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.label        "Don’t import anything">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
 <!ENTITY importFromSeamonkey3.accesskey "S">

@@ -14,7 +14,7 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Web Content">
 
-<!ENTITY keepHistory.label "Remember websites and links I've visited">
+<!ENTITY keepHistory.label "Remember websites and links I’ve visited">
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Accept cookies from sites">
 <!ENTITY acceptCookies.accesskey "A">
