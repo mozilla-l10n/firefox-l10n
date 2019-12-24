@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan ak'ojlemal
 permissions-site-location-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pan ak'ojlemal. We yeq'at ri taq okem pan ak'ojlemal nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Taq nuk'ulem - Ya'oj taq Ruq'ij ri achik'al K'ojlemal
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Re taq ruxaq ajk'amaya'l re' xkik'utuj q'ij richin ye'ok pa ri awokisaxel richin achik'al ak'ojlemal. Yatikïr ye'ajikib'a' ri taq ruxaq ajk'amaya'l niya' q'ij chi ke richin ye'ok pa ri taq awokisaxel richin achik'al ak'ojlemal. Chuqa' yatikïr ye'aq'ät k'ak'a' taq k'utunïk richin ye'ok pa taq awokisaxel richin achik'al ak'ojemal.
+permissions-site-xr-disable-label =
+    .label = Keq'at k'ak'a' taq k'utunïk richin ye'ok pan taq awokisaxel richin achik'al ak'ojlemal
+permissions-site-xr-disable-desc = Re re' xtub'än chi ri taq ruxaq ajk'amaya'l man ejikib'an ta pa cholajem nikik'utuj q'ij richin ye'ok pa taq awokisaxel richin achik'al ak'ojlemal. We yeq'at ri okem pan ri taq awokisaxel richin achik'al ak'ojlemal nitikïr yerutz'ila' jujun taq kib'anikil ri taq ruxaq ajk'amaya'l.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

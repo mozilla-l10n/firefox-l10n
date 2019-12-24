@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Tikirib'alil
     .accesskey = T
+menu-view-full-zoom-actual-size =
+    .label = Qitzij Runimilem
+    .accesskey = Q
 menu-view-full-zoom-toggle =
     .label = Tinimirisäx xa xe ri tz'ib'
     .accesskey = t
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Chijun ruwa kematz'ib'
     .accesskey = C
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Kek'ut pe ronojel ri taq ruwi'
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Taq tz'aqat
     .accesskey = t
-menu-tools-sync-sign-in =
-    .label = Titikirisäx molojri'ïl pa { -sync-brand-short-name }…
-    .accesskey = I
 menu-tools-fxa-sign-in =
     .label = Titikirisäx Moloj Pa { -brand-product-name }...
     .accesskey = k
@@ -220,9 +220,6 @@ menu-tools-turn-on-sync =
     .accesskey = t
 menu-tools-sync-now =
     .label = Tixim Wakami
-    .accesskey = T
-menu-tools-sync-re-auth =
-    .label = Tawokisaj chik pa { -sync-brand-short-name }…
     .accesskey = T
 menu-tools-fxa-re-auth =
     .label = Tok chik pa { -brand-product-name }...
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Titikirisäx chik rik'in ri tzijïl taq tz'aqat
     .accesskey = T
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Rutzijol q'olonel ruxaq k'amaya'l…
     .accesskey = q

@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Xacha' jun ewan tzij okisan ruma jun yaketal. 
 ## Containers Section
 
 containers-back-link = « Titzolin
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Titzolin pa taq Cha'oj
+           *[other] Titzolin pa taq Ajowab'äl
+        }
 containers-header = Ajk'wayöl taq ruwi'
 containers-add-button =
     .label = Titz'aqatisäx k'ak'a' k'wayöl
@@ -968,6 +974,10 @@ permissions-location = K'ojlib'äl
 permissions-location-settings =
     .label = Taq nuk'ulem…
     .accesskey = K
+permissions-xr = Achik'al K'ojlemal
+permissions-xr-settings =
+    .label = Taq nuk'ulem…
+    .accesskey = k
 permissions-camera = Elesäy wachib'äl
 permissions-camera-settings =
     .label = Taq nuk'ulem…
@@ -1016,6 +1026,8 @@ permissions-a11y-privacy-link = Tetamäx ch'aqa' chik
 collection-header = { -brand-short-name } Kimolik chuqa' Kokisaxik taq Tzij
 collection-description = Niqatïj qaq'ij richin yeqasüj taq cha'oj chawe chuqa' yeqamöl xa xe ri niqajo' niqaq'axaj chawe chuqa' ri niqutzilaj { -brand-short-name } kichin konojel. Junelïk naqak'utuj qij chuwäch niqak'ül ri awetamab'al.
 collection-privacy-notice = Rutzijol Ichinanem
+collection-health-report-telemetry-disabled = Man nuya' ta chik q'ij chi ri { -vendor-short-name } yeruchäp samajel chuqa' k'exonel taq tzij. Konojel ri taq tzij xkeyujtäj pa 30 q'ij.
+collection-health-report-telemetry-disabled-link = Tetamäx ch'aqa' chik
 collection-health-report =
     .label = Tiya' q'ij chi re { -brand-short-name } richin nitaq etamatel taq tzij chuqa' jutzijonem chi re ri { -vendor-short-name }
     .accesskey = r
