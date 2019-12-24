@@ -121,7 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Увайсці ў &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Увайсці ў сінхранізацыю">
 <!ENTITY fxaSignedIn.tooltip "Адкрыць налады &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Перазлучыцца з &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Пацвердзіце свой уліковы запіс">
@@ -168,7 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Увайсці ў &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Уключыць &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.turnOnSync.label "Уключыць сінхранізацыю">
 <!ENTITY fxa.menu.firefoxServices.label "Сервісы &brandProductName;">
 <!ENTITY fxa.menu.account.label "Уліковы запіс">
 <!ENTITY fxa.menu.settings.label "Налады">
@@ -243,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "А">
 <!ENTITY stopCmd.label                "Спыніць">
 <!ENTITY stopCmd.accesskey            "С">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Пайсці па адрасе, які зараз у адрасным радку">
 <!ENTITY printButton.label            "Друкаваць">
@@ -449,9 +450,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з іншых сваіх прылад.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Пабачыць спіс картак з іншых сваіх прылад.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш уліковы запіс патрабуе пацвярджэння.">
-<!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Увайсці ў &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "Уключыць &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў сінхранізацыю">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Увайсці ў сінхранізацыю…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Уключыць сінхранізацыю…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Кіраваць прыладамі...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Схаваць бакавую панэль сінхранізаваных картак">
@@ -579,6 +580,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "п">
 
 <!ENTITY openLinkCmdInTab.label       "Адкрыць спасылку ў новай картцы">
+
 <!ENTITY openLinkCmdInTab.accesskey   "й">
 <!ENTITY openLinkCmd.label            "Адкрыць спасылку ў новым акне">
 <!ENTITY openLinkCmd.accesskey        "п">
@@ -594,6 +596,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "ы">
 <!ENTITY showOnlyThisFrameCmd.label     "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "г">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Абнавіць рамку">
 <!ENTITY reloadFrameCmd.accesskey     "А">
@@ -644,6 +647,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Захаваць старонку як…">
 <!ENTITY savePageCmd.accesskey        "я">
 <!ENTITY savePageCmd.accesskey2       "с">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Захаваць рамку як…">
 <!ENTITY saveFrameCmd.accesskey       "к">
@@ -810,6 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "к">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Пераключыць кірунак тэксту">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "р">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Знайсці на гэтай старонцы…">
@@ -953,7 +958,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Сінхранізацыя">
 
-<!ENTITY syncSignIn.label             "Увайсці ў &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Увайсці ў сінхранізацыю…">
 <!ENTITY syncSignIn.accesskey         "У">
 <!ENTITY syncSyncNowItem.label        "Сінхранізаваць зараз ">
 <!ENTITY syncSyncNowItemSyncing.label "Сінхранізацыя…">
