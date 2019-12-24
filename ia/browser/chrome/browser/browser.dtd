@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenuMac.tooltip "Trahe a basso pro monstrar le chronologia">
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY stopCmd.label                "Cessar">
+<!ENTITY stopCmd.label                "Stoppar">
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">

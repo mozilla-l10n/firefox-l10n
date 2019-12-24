@@ -508,7 +508,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Barra de recerca
 search-bar-hidden =
-    .label = Utilisar le barra de adresse pro recercar e navigar
+    .label = Usar le barra de adresse pro cercar e navigar
 search-bar-shown =
     .label = Adder le barra de recerca in le barra de instrumentos
 search-engine-default-header = Motor de recerca predefinite
@@ -549,7 +549,7 @@ search-restore-default =
 search-remove-engine =
     .label = Remover
     .accesskey = r
-search-find-more-link = Trovar plus motores de recerca
+search-find-more-link = Adder plus motores de recerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Parola clave duplicate
@@ -964,7 +964,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Gerer le exceptiones…
+    .label = Gerer exceptiones…
     .accesskey = x
 
 ## Privacy Section - Permissions
