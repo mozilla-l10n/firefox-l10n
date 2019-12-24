@@ -61,4 +61,4 @@ sentence. -->
 <!ENTITY messageStyleShowHeader.label      "Show Header">
 <!ENTITY messageStyleShowHeader.accesskey  "H">
 <!ENTITY messageStyleNoPreview.title       "No preview available">
-<!ENTITY messageStyleNoPreview.description "This theme is not valid or is currently unavailable (disabled addon, safe-mode, …).">
+<!ENTITY messageStyleNoPreview.description "This theme is not valid or is currently unavailable (disabled add-on, safe-mode, …).">
