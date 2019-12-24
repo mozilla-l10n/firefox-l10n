@@ -402,18 +402,18 @@ browsing-use-cursor-navigation =
     .label = Sempre usar le claves a flechas pro navigar intra paginas
     .accesskey = c
 browsing-search-on-start-typing =
-    .label = Cercar le texto quando tu comencia a scriber
+    .label = Cercar texto quando tu comencia a scriber
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar controlos de video imagine-in-imagine
     .accesskey = A
 browsing-picture-in-picture-learn-more = Saper plus
 browsing-cfr-recommendations =
-    .label = Extensiones recommendate quando tu naviga
-    .accesskey = r
+    .label = Recommendar extensiones durante que tu naviga
+    .accesskey = R
 browsing-cfr-features =
-    .label = Functionalitates recommendate durante que tu naviga.
-    .accesskey = F
+    .label = Recommendar functiones durante que tu naviga
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Saper plus
 
 ## General Section - Proxy
@@ -428,7 +428,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nove fenestras e schedas
-home-new-windows-tabs-description2 = Elige que vider quando tu aperira tu pagina initial, nove fenestra, e nove scheda
+home-new-windows-tabs-description2 = Elige lo que tu vide quando tu aperi tu pagina initial, nove fenestras e nove schedas.
 
 ## Home Section - Home Page Customization
 
@@ -440,7 +440,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Pagina initial (predefinite) de Firefox
+    .label = Pagina initial de Firefox (predefinite)
 home-mode-choice-custom =
     .label = URLs personalisate...
 home-mode-choice-blank =
@@ -487,7 +487,7 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = Marcapaginas
 home-prefs-highlights-option-most-recent-download =
-    .label = Discargamento plus recente
+    .label = Ultime discargamento
 home-prefs-highlights-option-saved-to-pocket =
     .label = Paginas salvate in { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
@@ -500,8 +500,8 @@ home-prefs-snippets-description = Actualitates de { -vendor-short-name } e { -br
 home-prefs-sections-rows-option =
     .label =
         { $num ->
-            [one] { $num } riga
-           *[other] { $num } rigas
+            [one] { $num } linea
+           *[other] { $num } lineas
         }
 
 ## Search Section
