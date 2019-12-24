@@ -465,4 +465,4 @@ default-heading-search-label = Weitere Add-ons finden
 addons-heading-search-input =
     .placeholder = Auf addons.mozilla.org suchen
 addon-page-options-button =
-    .title = Tools für alle Add-ons
+    .title = Werkzeuge für alle Add-ons

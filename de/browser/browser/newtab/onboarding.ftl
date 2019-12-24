@@ -145,7 +145,7 @@ onboarding-facebook-container-title = Weise Facebook in die Schranken
 onboarding-facebook-container-text2 = Der { -facebook-container-brand-name } trennt dein Profil von dem, was du sonst so im Web machst. So wird es schwerer für Facebook, dir gezielt Werbung anzuzeigen.
 onboarding-facebook-container-button = Erweiterung hinzufügen
 onboarding-import-browser-settings-title = Importiere Lesezeichen, Passwörter und mehr
-onboarding-import-browser-settings-text = Lege direkt los - bringe einfach eine Chrome-Webseiten und -Einstellungen mit
+onboarding-import-browser-settings-text = Lege direkt los - bringe einfach deine Chrome-Webseiten und -Einstellungen mit
 onboarding-import-browser-settings-button = Chrome-Daten importieren
 
 ## Message strings belonging to the Return to AMO flow
