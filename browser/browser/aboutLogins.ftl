@@ -15,13 +15,8 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Шукаць лагіны
 create-login-button = Дадаць новы лагін
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Значок для { $title }
 fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
-fxaccounts-sign-in-button = Увайсці ў { -sync-brand-short-name }
+fxaccounts-sign-in-button = Увайсці ў { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
     .title = Кіраванне ўліковым запісам
 
@@ -62,9 +57,6 @@ about-logins-login-list-empty-search-description = Няма вынікаў, як
 login-list-item-title-new-login = Новы лагін
 login-list-item-subtitle-new-login = Увядзіце свае ўліковыя дадзеныя
 login-list-item-subtitle-missing-username = (без імя карыстальніка)
-about-logins-list-item-warning-icon =
-    .alt = Значок папярэджання
-    .title = Сайт з уцечкай
 about-logins-list-item-breach-icon =
     .title = Узламаны сайт
 
@@ -154,11 +146,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Запіс для { $loginTitle } з такім імем карыстальніка ўжо ёсць.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
