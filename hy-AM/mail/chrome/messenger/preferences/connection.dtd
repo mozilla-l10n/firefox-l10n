@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Կապի կարգավորումներ">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Կարգավորել պրոքսին">
 <!ENTITY  noProxyTypeRadio.label        "Առանց պրոքսի">
@@ -36,5 +38,14 @@
 <!ENTITY  noproxy.label                 "Չկա պրոքսի՝">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Միացումները localhost- ին ՝ 127.0.0.1 և :: 1-ին, երբեք չեն միջնորդվում:">
 <!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլոր հաղորդակարգերի համար">
 <!ENTITY  shareproxy.accesskey          "ք">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Միացնել DNS-ը HTTPS-ով">
+<!ENTITY  dnsOverHttps.accesskey        "b">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Օգտագործեք լռելյայն URL- ն DNS- ը HTTPS- ի լուծման համար">

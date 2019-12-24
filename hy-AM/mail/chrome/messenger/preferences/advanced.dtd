@@ -126,3 +126,4 @@
 <!ENTITY manageCertificates2.label "Կառավարել վկայագրերը…">
 <!ENTITY manageCertificates2.accesskey "M">
 <!ENTITY viewSecurityDevices2.label "Անվտանգության սարքեր...">
+<!ENTITY viewSecurityDevices2.accesskey "D">

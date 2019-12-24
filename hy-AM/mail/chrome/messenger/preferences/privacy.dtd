@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Նամակի բովանդակությունը">
 
 <!ENTITY acceptRemoteContent.label "Թույլատրել նամակի հեռակա բովանդակությունը">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Բացառություններ...">
 <!ENTITY remoteContentExceptions.accesskey "ց">
 <!ENTITY acceptRemoteContentInfo.label "Մանրամասներ՝ հեռակա բովանդակության անվտանգության մասին">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Վեբ բովանդակություն">
 
 <!ENTITY keepHistory.label "Հիշել իմ այցելած կայքերը և հղումները">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Տեղեկացնել վեբ կայքերին, ես չեմ ցանկանում, որ ինձ հետևեն">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Մանամասներ Չհետևելու մասին">
+
+<!ENTITY doNotTrackCheck.label "Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Իմանալ ավելին">

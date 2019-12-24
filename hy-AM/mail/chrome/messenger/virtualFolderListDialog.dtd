@@ -4,4 +4,5 @@
 
 <!ENTITY virtualFolderListTitle.title        "Ընտրեք թղթապանակները">
 <!ENTITY virtualFolderDesc.label       "Ընտրեք փնտրվող թղթապանակները">
-
+<!ENTITY folderName.label "Պանակի անուն">
+<!ENTITY folderSearch.label "Որոնում">

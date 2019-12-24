@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Գլխավոր">
+
 <!ENTITY  startupAction.label         "&brandShortName; -ի մեկնարկի ժամանակ`">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Պահել Զրույցի իմ հաշիվը անցանց">
 <!ENTITY  startupConnectAuto.label    "Կապակցել Զրույցի իմ հաշվեկշռին միանգամից">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Տեղեկացնել իմ կոնտակներին, որ ես Թաքնված եմ՝">
 <!ENTITY  reportIdleAfter.accesskey     "ի">
 <!ENTITY  idleTime                      "րոպե պասսիվ լինելուց հետո">
@@ -29,6 +31,9 @@ sentence. -->
 <!ENTITY  completeNotification.label          "ուղարկողի անունով և նախադիտումով">
 <!ENTITY  buddyInfoOnly.label                 "միայն ուղարկողի անունով">
 <!ENTITY  dummyNotification.label             "առանց որևէ տեղեկության">
+<!ENTITY  getAttention.label                  "Բռնկել առաջադրանքագոտու միույթ">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "ա">
 <!ENTITY  chatSound.label                     "Նվագարկել ձայն">
 <!ENTITY  play.label                          "Նվագարկել">
@@ -40,3 +45,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Ընտրել...">
 <!ENTITY  browse.accesskey                    "Ը">
 
+<!ENTITY messageStyleTab.title             "Հաղորդագրության ոճերը">
+<!ENTITY messageStylePreview.label         "Նախադիտում.">
+<!ENTITY messageStyleTheme.label           "Թեման.">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Պղպջակներ">
+<!ENTITY messageStyleDarkTheme.label       "Մուգ">
+<!ENTITY messageStylePaperSheetsTheme.label "Թղթի թերթեր">
+<!ENTITY messageStyleSimpleTheme.label     "Պարզ">
+<!ENTITY messageStyleDefaultTheme.label    "Լռելյայն">
+<!ENTITY messageStyleVariant.label         "Տարբերակ․">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Ցուցադրել վերնագիրը">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
+<!ENTITY messageStyleNoPreview.title       "Նախադիտումը հասանելի չէ">
+<!ENTITY messageStyleNoPreview.description "Այս թեման վավեր չէ կամ ներկայումս անհասանելի է (անջատված լրացում, անվտանգ աշխատակերպ,…):">

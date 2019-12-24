@@ -18,8 +18,10 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Տառը.">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Չափը.">
-<!ENTITY size.accesskey                       "z">
+<!ENTITY fontSize.label                       "Չափը.">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.label              "Օգտագործել ընթերցողի լռելյայն գույները">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Տեքստի գույնը.">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Խորապատկերի գույնը.">
@@ -54,9 +56,9 @@
 <!ENTITY directoriesNone.label                 "Չկա">
 <!ENTITY editDirectories.label                 "Խմբագրել թղթապանակները...">
 <!ENTITY editDirectories.accesskey             "E">
-
-
-
+<!ENTITY showAsDefault.label                   "Հասցեների նախնական ցուցակը հասցեների գրքի պատուհանում.">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Վերջին օգտագործված նշարանը">
 
 <!ENTITY sendOptionsDescription.label          "Կարգավորել տեքստայինի վարքը">
 <!ENTITY sendOptions.label                     "Ուղարկելու ընտրանքներ...">

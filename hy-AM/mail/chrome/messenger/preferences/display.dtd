@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Սովորական տեքստային նամակ">
 <!ENTITY displayText.label                "Մեջբերված սովորական տեքստային նամակները ցուցադրելիս.">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Ցուցարդել զգացմունքները որպես գրաֆիկա">
 <!ENTITY convertEmoticons.accesskey    "e">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "Պիտակներով կարող եք կարգավորել և դասակարգել Ձեր նամակները։">
 <!ENTITY newTagButton.label        "Նոր...">
 <!ENTITY newTagButton.accesskey    "Ն">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton1.accesskey  "Խ">
 <!ENTITY removeTagButton.label     "Ջնջել">
 <!ENTITY removeTagButton.accesskey "D">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Տառատեսակները և Գույները">
 <!ENTITY defaultFont.label       "Հիմ. տառատեսակ.">
 <!ENTITY defaultFont.accesskey   "Հ">
@@ -45,10 +45,11 @@
 <!ENTITY fontOptions.label       "Ընդլայնված...">
 <!ENTITY colorButton.label       "Գույներ…">
 <!ENTITY colorButton.accesskey   "C">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Ընթերցում">
 <!ENTITY display.caption                  "Ցուցադրել">
+<!ENTITY displayName.label                "Ցուցադրել անունը․">
 <!ENTITY showCondensedAddresses.label     "Հասցեագրքում ցուցադրել միայն մարդկանց ցուցադրվող անունը ">
 <!ENTITY showCondensedAddresses.accesskey "S">
 
