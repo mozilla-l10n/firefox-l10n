@@ -117,9 +117,12 @@ cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Tonton video sambil menjelajah
+cfr-whatsnew-pip-cta = Pelajari lebih lanjut
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Pelajari lebih lanjut
 
 ## Fingerprinter Counter
 

@@ -42,3 +42,21 @@ monitor-link = Cara kerja
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-tracker =
+    .title = Pelacakan Konten
+    .aria-label =
+        { $count ->
+           *[other] { $count } pelacakan konten ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Sidik Jari
+    .aria-label =
+        { $count ->
+           *[other] { $count } Sidik Jari ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Penambang Kripto
+    .aria-label =
+        { $count ->
+           *[other] { $count }Penambang Kripto({ $percentage }%)
+        }
