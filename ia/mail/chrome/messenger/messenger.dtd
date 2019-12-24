@@ -251,6 +251,7 @@
 <!ENTITY replyListButton.label "Responder al lista">
 <!ENTITY forwardButton.label "Reinviar">
 <!ENTITY goForwardButton1.label "Avante">
+<!ENTITY stopButton.label "Stoppar">
 <!ENTITY junkItem.title "Indesirate">
 <!ENTITY junkButton.label "Indesirate">
 <!ENTITY notJunkButton.label "Non indesirate">
@@ -265,6 +266,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Reinviar le message seligite como annexo">
 <!ENTITY goForwardButton.tooltip "Avantiar un message">
 <!ENTITY deleteButton.tooltip "Deler le message o dossier seligite">
+<!ENTITY stopButton.tooltip "Interrumper le transferentia actual">
 <!ENTITY junkButton.tooltip "Marcar le message seligite como indesirate">
 <!ENTITY notJunkButton.tooltip "Marcar le message seligite como non indesirate">
 <!ENTITY compactButton.tooltip "Remover le messages delite del dossier seligite">
@@ -456,6 +458,7 @@
 <!-- Spell checker context menu items -->
 
 <!-- Content Pane Context Menu -->
+<!ENTITY stopCmd.label "Stoppar">
 
 <!-- Statusbar -->
 
