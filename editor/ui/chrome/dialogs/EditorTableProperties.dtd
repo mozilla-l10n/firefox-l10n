@@ -57,7 +57,7 @@
 <!ENTITY cellTextWrap.label               "Text Wrap:">
 <!ENTITY cellTextWrap.accessKey           "T">
 <!ENTITY cellWrap.label                   "Wrap">
-<!ENTITY cellNoWrap.label                 "Don't wrap">
+<!ENTITY cellNoWrap.label                 "Don’t wrap">
 <!ENTITY cellAlignTop.label               "Top">
 <!ENTITY cellAlignMiddle.label            "Middle">
 <!ENTITY cellAlignBottom.label            "Bottom">

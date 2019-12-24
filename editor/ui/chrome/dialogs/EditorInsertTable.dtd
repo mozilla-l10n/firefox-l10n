@@ -14,5 +14,5 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY borderEditField.label "Border:">
 <!ENTITY borderEditField.accessKey "B">
-<!ENTITY borderEditField.tooltip "Type a number for the table's border, or type zero (0) for no border">
+<!ENTITY borderEditField.tooltip "Type a number for the table’s border, or type zero (0) for no border">
 <!ENTITY pixels.label "pixels">
