@@ -131,7 +131,7 @@ cfr-whatsnew-pip-cta = Weitere Informationen
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Weniger nervige Pop-ups durch Websites
-cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } hindert Webseiten nun daran, automatisch nach der Berechtigung zum Anzeigen von Pop-up-Nachrichten zu fragen.
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } hindert Websites nun daran, automatisch nach der Berechtigung zum Anzeigen von Pop-up-Nachrichten zu fragen.
 cfr-whatsnew-permission-prompt-cta = Weitere Informationen
 
 ## Fingerprinter Counter
