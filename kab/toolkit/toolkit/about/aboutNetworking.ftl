@@ -9,6 +9,7 @@ ok = IH
 http = HTTP
 sockets = Igrudmawen
 dns = DNS
+dnssuffix = Uḍfiṛ DNS
 websockets = Igrudam n tuqqna
 refresh = Smiren
 auto-refresh = Smiren yal 3 n tasinin

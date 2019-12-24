@@ -354,6 +354,11 @@ addon-detail-version-label = Lqem
 addon-detail-last-updated-label = Aleqqem aneggaru
 addon-detail-homepage-label = Asebter agejdan
 addon-detail-rating-label = Tizmilin
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Yettwasezmel { NUMBER($rating, maximumFractionDigits: 1) } ɣef 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on

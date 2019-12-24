@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Ineqqisen n uɣelluy
-clear-all-reports-label = Kkes akk issaɣen
+submit-all-button-label = Azem meṛṛa
 delete-button-label = Sfeḍ akk
 delete-confirm-title = Asentem?
-delete-confirm-description = Ad yekkes akk issaɣen s war tuɣalin.
 delete-unsubmitted-description = Ad yekkes akk ineqqisen n uɣelluy ur yettwaznen ara s war tuɣalin.
 delete-submitted-description = Ayagi ad ikkes tabdart n ineqqisen n uɣelluy yettwaznen dacu ur ittekkes ara isefka yettwaznen. Ulac tuƔalin Ɣer deffir.
 crashes-unsubmitted-label = Ineqqisen n uɣelluy ur yettwaznen ara

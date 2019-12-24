@@ -157,6 +157,7 @@ intl-regional-prefs = Ismenyifen n temnaḍt
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-accepting-connections = Aqbal n tuqqniwin
 remote-debugging-url = URL
 
 

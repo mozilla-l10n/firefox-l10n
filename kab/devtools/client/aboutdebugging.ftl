@@ -305,6 +305,11 @@ about-debugging-main-process-name = Akala agejdan
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Akala agejdan i yiminig asaḍas
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Tabwaḍt n yifecka aget akala
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Akala agejdan akked ukala n ugbur i yiminig asaḍas
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Mdel izen
