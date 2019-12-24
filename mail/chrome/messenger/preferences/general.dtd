@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "ի">
 <!ENTITY showAnimatedAlert.label          "Ցուցադրել ազդի ժամանակ">
 <!ENTITY showAnimatedAlert.accesskey      "Ց">
-
+<!ENTITY notificationAlertSettings2.label "Ահազանգերը և լռելյայն ձայնը կարող են անջատվել համակարգի նախապատվությունների ծանուցման վահանակում:">
 <!ENTITY customizeMailAlert.label         "Կարգավորել…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Հիմնական որոնիչ">
+<!ENTITY addSearchEngine.label            "Ավելացնել նիշքից">
+<!ENTITY addSearchEngine.accesskey        "A">
+<!ENTITY removeSearchEngine.label         "Հեռացնել">
+<!ENTITY removeSearchEngine.accesskey     "v">

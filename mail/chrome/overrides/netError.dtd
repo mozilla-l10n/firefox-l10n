@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Էջի բացման խնդիր">
 <!ENTITY retry.label "Կրկին փորձեք">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Չհաջողվեց կապ հաստատել">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -78,17 +78,18 @@
 <!ENTITY cspBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Բովանդակությունը վնասված է">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Էջը, որ փորձում եք դիտել՝ չի կարող ցուցադրվել, որովհետև սխալ է գրանցվել տվյալի փոխանցման ժամանակ:</p><ul><li>Կապնվեք սեփականատիրոջ հետ` այս խնդրի մասին հաղորդելու համար:</li></ul>">
 
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դո՛ւրս բերեք ինձ այստեղից">
 <!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Դուք չպետք է ավելացնեք բացառություն, եթե դուք օգտվում եք մի ինտերնետ կապից, որին լիարժեք չեք վստահում, կամ եթե դուք սովոր չեք հետևել նախազգուշացմանը այս սպասարկիչի համար:</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +100,8 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> օգտագործում է անվտանգ տեխնոլոգիա, որը հնացած է և խոցելի՝ հարձակումների համար: Հարձակվողը կարող է հեշտությամբ հայտնաբերել տեղեկություններ, որոնք ձեր կարծիքով ապահով են: Կայքի վարիչը պետք է նախ ուղղի սպասարկիչը, որպեսզի կարողանաք այցելել կայքը:</p><p>Սխալի կոդը՝ NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Արգելափակված էջ">
+
+<!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
+<!ENTITY networkProtocolError.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրվել, քանզի տեղի է ունեցնել ցանցի հաղորդակարգի սխալ։</p><ul><li>Կապնվեք վեբ կայիք հեղինակների հետ՝ նրանց այս մասին հաղորդելու համար։</li></ul>">

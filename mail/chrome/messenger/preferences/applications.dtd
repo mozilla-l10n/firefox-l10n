@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Ավելացնել նոր Ֆայլի հղման կրիչ սարք">
 <!ENTITY removeCloudFileAccount.label     "Ջնջել">
 <!ENTITY removeCloudFileAccount.accesskey "Ջ">
-<!ENTITY authRequired.description         "Պահանջվում է ներկայացում՝ տեսնելու շարժական սարքի կարգավորումները։">
-<!ENTITY authRequired.button.label        "Ներկայացում">
-<!ENTITY authRequired.button.accesskey    "Ն">
+<!ENTITY findCloudFileProviders.label     "Գտել ավել մատակարարներ…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Առաջարկել տարածել ֆայլերը, որոնք մեծ են՝">
 <!ENTITY enableCloudFileAccountOffer.mb "ՄԲ">
