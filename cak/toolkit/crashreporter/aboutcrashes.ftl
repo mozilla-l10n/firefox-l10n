@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Rutzijol taq sachoj
-clear-all-reports-label = Keyuj el konojel ri taq rutzijol
+submit-all-button-label = Titaq Ronojel
 delete-button-label = Tijosq'ïx Ronojel
 delete-confirm-title = ¿Kan at jikïl?
-delete-confirm-description = Re jun samaj re' xkeruyüj el konojel ri taq rutzijol chuqa' man xtitikïr ta xtitzolin chi rij.
 delete-unsubmitted-description = Re re' xkeruyüj el ronojel ri kitzijol taq sachoj man etaqon ta chuqa' man xtitikïr ta xtitzolïx chik pe.
 delete-submitted-description = Re re' xtuyüj ri kicholb'al kitzijol taq sachoj etaqon xa xe chi man xkeruyüj ta el ri taq tzij etaqon. Re re' man tikirel ta nitzolïx.
 crashes-unsubmitted-label = Rutzijol taq sachoj etaqon

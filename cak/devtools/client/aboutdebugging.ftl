@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Rub'eyal nisamäj rub'i' ruwäch
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Ri runuk'ulem awokik'amaya'l man nuk'äm ta ri' rik'in ri Service Workers. <a>Tetamäx rub'eyal</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Ri ruq'ijul samaj okisan ojer rub'anikil ({ $runtimeVersion }). Ri ko'öl ruwäch nuk'äm ri' ja ri ({ $minVersion }). Rere' jun man nuk'äm ta ri' chi nuk'ulem ri nitikïr nub'än chi nisach ri DevTools. Tak'exa' ri ruq'ijul samaj okisan. <a>Kisolik taq k'ayewal</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Ri ruq'ijul samaj okisan ojer rub'anik
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Rik'in jub'a' man nisamäj ta ri ruchojmirisanel pas rik'in ri okik'amaya'l okisan. Tawokisaj Firefox { $runtimeVersion } we nawajo' nawokisaj ri chojmirisanel rik'in re okik'amaya'l re'.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -305,6 +305,11 @@ about-debugging-main-process-name = Nimaläj Tajin
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Nïm Tajin richin ri okik'amaya'l napon wi.
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Rukaxa Rusamajib'al K'ïy Tajinïk
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Nïm Tajinïk chuqa'  Rutajinik Rupam Richin ri Aponel Okik'amaya'l
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Titz'apïx rutzijol
