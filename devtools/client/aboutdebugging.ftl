@@ -308,6 +308,8 @@ about-debugging-main-process-description2 = Pagrindinis įrenginio darinio narš
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Daugiaprocesė įrankinė
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Pagrindinis procesas ir turinio procesai paskirties naršyklei
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Užverti pranešimą
