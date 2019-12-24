@@ -12,15 +12,20 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+<!ENTITY articleNotFound.desc "newsgroup սպասարկիչը հայտնում է, որ չի կարողանում գտնել հոդվածը:">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
+<!ENTITY serverResponded.title "Newsgroup -ի սպասարկիչը պատասխանեց.">
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
+<!ENTITY articleExpired.title "Հավանաբար, հոդվածը լրացե՞լ է:">
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
+<!ENTITY trySearching.title "Փորձել որոնել հոդվածը.">
 
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
+<!ENTITY removeExpiredArticles.title "Հեռացրեք բոլոր ժամկետանց հոդվածները">
