@@ -34,7 +34,7 @@ onboarding-join-form-email-error = Mae angen e-bost dilys
 onboarding-join-form-legal = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="terms">>Amodau Gwasanaeth</a> a'r <a data-l10n-name="privacy">Hysbysiad Preifatrwydd</a>.
 onboarding-join-form-continue = Parhau
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
-onboarding-join-form-signin-label = A oes gennych chi gyfrif y barod?
+onboarding-join-form-signin-label = A oes gennych chi gyfrif yn barod?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Mewngofnodi
 onboarding-start-browsing-button-label = Cychwyn Pori
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Mynd â { -brand-product-name } gyda Chi
 onboarding-sync-welcome-content = Cael eich nodau tudalen, hanes, cyfrineiriau a gosodiadau eraill ar eich holl ddyfeisiau.
 onboarding-sync-welcome-learn-more-link = Dysgu rhagor am Gyfrif Firefox
-onboarding-sync-form-invalid-input = Mae angen e-bost dilys
-onboarding-sync-legal-notice = Gan barhau, rydych yn cytuno i delerau'r <a data-l10n-name="terms">Amodau Gwasanaeth</a> a'r <a data-l10n-name="privacy">Hysbysiad Preifatrwydd</a>.
 onboarding-sync-form-input =
     .placeholder = E-bost
 onboarding-sync-form-continue-button = Parhau
