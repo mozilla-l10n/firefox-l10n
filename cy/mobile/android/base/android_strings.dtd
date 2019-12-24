@@ -887,7 +887,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_signin_title "Croeso i &brandShortName;">
 <!ENTITY activity_stream_signin_description "Cychwynnwch gydweddu nodau tudalen, cyfrineiriau, a rhagor gyda\&apos;ch cyfrif Firefox.">
 <!ENTITY activity_stream_signup_button "Ymuno">
-<!ENTITY activity_stream_signin_prompt "Oes gennych chi gyfrif y barod?">
+<!ENTITY activity_stream_signin_prompt "A oes gennych chi gyfrif yn barod?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Mewngofnodi.">
 
