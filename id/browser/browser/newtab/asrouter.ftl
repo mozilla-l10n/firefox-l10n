@@ -97,6 +97,9 @@ cfr-whatsnew-fx70-body =
     Pembaruan terbaru meningkatkan fitur Perlindungan Pelacakan dan membuatnya
     lebih mudah dari sebelumnya untuk membuat kata sandi aman untuk setiap situs.
 cfr-whatsnew-tracking-protect-title = Lindungi diri anda dari para pelacak
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } memblokir banyak pelacak sosial dan lintas situs umum yang
+    mengikuti kegiatan daring Anda.
 cfr-whatsnew-tracking-protect-link-text = Lihat Laporan Anda
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
