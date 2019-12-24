@@ -248,6 +248,9 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = ਮੁੱਖ ਕਿਰਿਆ
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = ਨਿਸ਼ਾਨਾ ਬ੍ਰਾਊਜ਼ਰ ਲਈ ਮੁੱਖ ਪ੍ਰਕਿਰਿਆ
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ਸੁਨੇਹਾ ਬੰਦ ਕਰੋ

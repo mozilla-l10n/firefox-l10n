@@ -18,6 +18,7 @@ submit-crash-button-label = ਭੇਜੋ
 # if the crash submission fails.
 submit-crash-button-failure-label = ਅਸਫ਼ਲ ਹੈ
 crashes-submitted-label = ਭੇਜੀਆਂ ਗਈਆਂ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ
+date-submitted-heading = ਦਰਜ ਕਰਨ ਦੀ ਮਿਤੀ
 view-crash-button-label = ਵੇਖੋ
 no-reports-label = ਕੋਈ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਨਹੀਂ ਦਿੱਤੀ ਗਈ
 no-config-label = ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਵੇਖਾਉਣ ਲਈ ਸੰਰਚਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ। <code>breakpad.reportURL</code> ਸੈੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।
