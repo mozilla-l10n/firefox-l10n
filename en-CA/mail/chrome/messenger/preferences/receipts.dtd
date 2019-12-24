@@ -15,7 +15,7 @@
 <!ENTITY never.accesskey               "n">
 <!ENTITY returnSome.label              "Allow return receipts for some messages">
 <!ENTITY returnSome.accesskey          "r">
-<!ENTITY notInToCc.label               "If I'm not in the To or Cc of the message:">
+<!ENTITY notInToCc.label               "If I’m not in the To or Cc of the message:">
 <!ENTITY notInToCc.accesskey           "f">
 <!ENTITY outsideDomain.label           "If the sender is outside my domain:">
 <!ENTITY outsideDomain.accesskey       "t">
