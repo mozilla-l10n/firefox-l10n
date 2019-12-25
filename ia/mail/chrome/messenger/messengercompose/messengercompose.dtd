@@ -181,7 +181,7 @@
 <!ENTITY dsnMenu.accesskey "c">
 <!ENTITY deliveryFormatMenu.label "Formato de consignation">
 <!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Detectar automaticamente">
+<!ENTITY autoFormatCmd.label "Deteger automaticamente">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Solo texto">
 <!ENTITY plainTextFormatCmd.accesskey "t">

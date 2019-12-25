@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY exchange.label                  "Excambiar">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Detectar automaticamente">
+<!ENTITY autodetect.label                "Deteger automaticamente">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Nulle">
