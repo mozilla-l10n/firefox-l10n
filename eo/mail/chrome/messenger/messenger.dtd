@@ -74,7 +74,7 @@
 <!ENTITY emptyTrashCmd.accesskey "l">
 <!ENTITY offlineMenu.label "Malkonekta reĝimo">
 <!ENTITY offlineMenu.accesskey "t">
-<!ENTITY offlineGoOfflineCmd.label "Work Offline">
+<!ENTITY offlineGoOfflineCmd.label "Labori malkonektite">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
