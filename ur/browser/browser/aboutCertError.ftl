@@ -20,6 +20,9 @@ cert-error-trust-self-signed = یہ تصدیق نامہ قابل اعتماد ن
 cert-error-trust-symantec = GeoTrust ، RapidSSL ، Symantec، Thawteاور VeriSign کے ذریعہ جاری کردہ تصدہق نامہ کو اب محفوظ  شدہ نہیں سمجھا جاتا ہے کیونکہ یہ تصدہق نامہ  حکام ماضی میں سلامتی کے طریقوں پر عمل کرنے میں ناکام رہے تھے۔
 cert-error-untrusted-default = یہ تصدیق نامہ قابل اعتماد ماخذ سے نہیں ہے۔
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = ویب سائٹس تصدیق نامے کے ذریعے اپنی شناخت ثابت کرتی ہیں۔{ -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ وہ ایسے  تصدیق نامے کا استعمال کر رہی ہے{ $hostname } کے لئے درست نہیں ہے۔
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = نقص: کا کوڈ:<a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = آپ اس مسئلے کے بارے میں ویب سائٹ کے منتظم کو مطلع کرسکتے ہیں۔
