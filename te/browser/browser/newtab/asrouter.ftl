@@ -66,12 +66,30 @@ cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = కొత్త విశేషం:
 cfr-whatsnew-button =
     .label = కొత్తవి ఏమిటి
     .tooltiptext = కొత్తవి ఏమిటి
 cfr-whatsnew-panel-header = కొత్తవి ఏమిటి
+cfr-whatsnew-tracking-blocked-link-text = నివేదికను చూడండి
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = ఇంకా తెలుసుకోండి
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = ఇంకా తెలుసుకోండి
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
+
+
+## Login Sync
 
 
 ## Send Tab
@@ -79,3 +97,17 @@ cfr-whatsnew-panel-header = కొత్తవి ఏమిటి
 
 ## Firefox Send
 
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = రక్షణలు చూడండి
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = మూసివేయి
+    .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = ఇలాంటి సందేశాలను నాకు మళ్ళీ చూపించకు
+    .accesskey = D
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = అన్నింటినీ చూడండి
+    .accesskey = S

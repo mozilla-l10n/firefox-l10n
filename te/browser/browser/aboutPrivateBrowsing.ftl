@@ -24,3 +24,5 @@ about-private-browsing =
     .title = జాలంలో వెతకండి
 about-private-browsing-not-private = మీరు ప్రస్తుతం అంతరంగిక విండోలో లేరు.
 content-blocking-title = విషయ నిరోధం
+about-private-browsing-search-banner-close-button =
+    .aria-label = మూసివేయి
