@@ -57,8 +57,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "j">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "nuna konto">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "n">
-<!ENTITY getNextNMsgCmd2.label "Elŝuti pliajn mesaĝojn">
-<!ENTITY getNextNMsgCmd2.accesskey "p">
+<!ENTITY getNextNMsgCmd2.label "Elŝuti pliajn abonfluajn mesaĝojn">
+<!ENTITY getNextNMsgCmd2.accesskey "b">
 <!ENTITY sendUnsentCmd.label "Sendi sendotajn mesaĝojn">
 <!ENTITY sendUnsentCmd.accesskey "S">
 <!ENTITY subscribeCmd.label "Abonfluoj…">

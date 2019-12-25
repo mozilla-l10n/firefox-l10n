@@ -51,8 +51,8 @@
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "E">
 
-<!ENTITY quitApplicationCmdUnix.label  "Fini">
-<!ENTITY quitApplicationCmdUnix.accesskey  "F">
+<!ENTITY quitApplicationCmdUnix.label  "Eliri">
+<!ENTITY quitApplicationCmdUnix.accesskey  "E">
 
 <!ENTITY quitApplicationCmdMac.label  "Fermi &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "F">
