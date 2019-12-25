@@ -98,6 +98,10 @@ onboarding-screenshots-text = Ստացեք, պահպանեք եւ համաւգտ
 onboarding-addons-title = Հաւելումներ
 onboarding-addons-text = Աւելացրեք աւելի շատ առանձնայատկութիւններ, որոնք ստիպում են { -brand-short-name }-ին աւելի շատ աշխատել Ձեզ համար։ Համեմատէք գները, ստուգէք եղանակը կամ արտայայտեք Ձեր անձը մաքսային թեմաներով։
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Զննեք աւելի արագ, խելացի կամ աւելի անվտանգ ընդարձակման հետ ինչպէս Ghostery-ը, որը Ձեզ թոյլատրում է արգելափակել նեարդայնացնող գովազդները։
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Համաժամեցնել
+onboarding-fxa-text = Գրանցեք { -fxaccount-brand-name } եւ համաժամեցրեք Ձեր էջանիշները, գաղտնաբառերը եւ բաց ներդիրները ամենուրէք, որտեղ էլ որ աւգտագործեք { -brand-short-name }-ը։
 
 ## Message strings belonging to the Return to AMO flow
 
