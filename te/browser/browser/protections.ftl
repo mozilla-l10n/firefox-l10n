@@ -6,6 +6,8 @@
 # capitalization for this string should match the output for your locale.
 graph-today = ఈరోజు
 lockwise-title-logged-in = { -lockwise-brand-name }
+protection-report-view-logins-button = ప్రవేశాలను చూడండి
+    .title = భద్రపరిచిన ప్రవేశాలకు వెళ్ళండి
 monitor-link = ఇది ఎలా పనిచేస్తుంది
 
 ## The title attribute is used to display the type of protection.
