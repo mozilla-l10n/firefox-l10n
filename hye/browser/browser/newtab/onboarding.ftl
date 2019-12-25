@@ -51,6 +51,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Վերցրեք { -brand-product-name } Ձեզ հետ
+onboarding-sync-welcome-content = Ստացեք Ձեր էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ կարգաւորումներ Ձեր բոլոր սարքերում։
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
