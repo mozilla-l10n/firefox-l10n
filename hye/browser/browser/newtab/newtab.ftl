@@ -135,18 +135,36 @@ newtab-section-menu-manage-webext = Կառավարել ընդլայնումը
 newtab-section-menu-add-topsite = Աւելացնել լաւագոյն կայքերին
 newtab-section-menu-add-search-engine = Աւելացնել որոնիչին
 newtab-section-menu-move-up = Վեր
+newtab-section-menu-move-down = Տեղաշարժային վնասուածք
+newtab-section-menu-privacy-notice = Գաղտնիութեան դրոյթներ
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Կոծկել բաժինը
+newtab-section-expand-section-label =
+    .aria-label = Ընդարձակել բաժինը
 
 ## Section Headers.
 
+newtab-section-header-topsites = Լաւագոյն կայքեր
+newtab-section-header-highlights = Գունանշումներ
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Առաջարկուում է { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Սկսեք դիտարկել եւ մենք կցուցադրենք հիանալի հոդուածներ, տեսանիւթեր եւ այլ էջեր, որոնք այցելել եք վերջերս կամ էջանշել եք դրանք։
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Ամեն ինչ պատրաստ է։ Ստուգեք աւելի ուշ՝ աւելի շատ պատմութիւններ ստանալու համար { $provider } մատակարարից։ Չեք կարող սպասել։ Ընտրեք հանրաճանաչ թէմա՝ համացանցից աւելի հիանալի պատմութիւններ գտնելու համար։
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Ամէն ինչ պատրաստ է։
+newtab-discovery-empty-section-topstories-content = Վերադարձեք աւելի ուշ՝ այլ պատմութիւնների համար։
 
 ## Pocket Content Section.
 
