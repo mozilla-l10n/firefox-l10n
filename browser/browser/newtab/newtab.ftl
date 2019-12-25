@@ -45,9 +45,6 @@ newtab-topsites-save-button = భద్రపరచు
 newtab-topsites-preview-button = మునుజూపు
 newtab-topsites-add-button = చేర్చు
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = మీరు మీ చరిత్ర నుండి ఈ పేజీ యొక్క ప్రతి ఉదాహరణకు తొలగించాలనుకుంటున్నారా?
@@ -83,14 +80,17 @@ newtab-menu-delete-history = చరిత్ర నుంచి తీసివ�
 newtab-menu-save-to-pocket = { -pocket-brand-name } కి సేవ్ చేయండి
 newtab-menu-delete-pocket = { -pocket-brand-name } నుండి తొలగించు
 newtab-menu-archive-pocket = { -pocket-brand-name }లో ఆర్కయివ్ చెయ్యి
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = పూర్తయింది
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ఇష్టాంశాన్ని తొలగించు
 # Bookmark is a verb here.
 newtab-menu-bookmark = ఇష్టాంశం
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -119,10 +119,6 @@ newtab-label-bookmarked = ఇష్టాంశంగా గుర్తుప�
 newtab-label-recommended = ట్రెండింగ్
 newtab-label-saved = { -pocket-brand-name }లో భద్రపరచినది
 newtab-label-download = దింపుకున్నవి
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
