@@ -94,6 +94,10 @@ onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, 
 onboarding-private-browsing-title = Գաղտնի դիտարկում
 onboarding-private-browsing-text = Ինքներդ դիտարկեք։ Գաղտնի դիտարկում՝ վեբում Ձեզ հետեւող առցանց հետագծիչների բովանդակութեան արգելափակմամբ։
 onboarding-screenshots-title = Էկրանի կորզում
+onboarding-screenshots-text = Ստացեք, պահպանեք եւ համաւգտագործեք էկրանի հանոյթները՝ առանց { -brand-short-name }-ը լքելու։ Կորզեք էջի մի մասը կամ այն ամբողջութեամբ։ Ապա պահպանեք վեբում՝ աւելի հեշտ մատչելու եւ համաւգտագործելու համար։
+onboarding-addons-title = Հաւելումներ
+onboarding-addons-text = Աւելացրեք աւելի շատ առանձնայատկութիւններ, որոնք ստիպում են { -brand-short-name }-ին աւելի շատ աշխատել Ձեզ համար։ Համեմատէք գները, ստուգէք եղանակը կամ արտայայտեք Ձեր անձը մաքսային թեմաներով։
+onboarding-ghostery-title = Ghostery
 
 ## Message strings belonging to the Return to AMO flow
 
