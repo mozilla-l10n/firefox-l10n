@@ -130,7 +130,7 @@
 <!ENTITY redoMarkAllCmd.label "Refari marki ćiujn nelegitaj">
 <!ENTITY undoDefaultCmd.label "Malfari">
 <!ENTITY undoDefaultCmd.accesskey "M">
-<!ENTITY redoDefaultCmd.label "Redo">
+<!ENTITY redoDefaultCmd.label "Refari">
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
