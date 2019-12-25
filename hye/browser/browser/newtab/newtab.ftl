@@ -87,23 +87,40 @@ newtab-menu-show-privacy-info = Մեր հովանաւորները եւ Ձեր գ
 newtab-privacy-modal-button-done = Աւարտ
 newtab-privacy-modal-header = Ձեր գաղտնիութիւնը կարեւոր է։
 newtab-privacy-modal-paragraph = Բացի հետաքրքրաշարժ հոդուածներ պահպանելուց, մենք նաեւ ցոյց ենք տալիս Ձեզ ընտրուած հովանաւորների կողմից ապացուցուած բովանդակութիւն։ Համոզուեք որ Ձեր տուեալները վեբ֊սերուինգը երբեք չի թողնի { -brand-product-name } — Ձեր անձնական աւրինակը, մենք չունենք։ Նրանց հասանելիութիւնը, եւ մեր հովանաւորները նոյնպէս չունեն։
+newtab-privacy-modal-link = Իմացեք թե ինչպէս է գաղտնիութիւնն աշխատում նոր ներդիրում
 
 
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Հեռացնել էջանիշը
+# Bookmark is a verb here.
+newtab-menu-bookmark = Էջանիշ
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Պատճէնել ներբեռնելու յղումը
+newtab-menu-go-to-download-page = Անցնել ներբեռնելու էջին
+newtab-menu-remove-download = Ջնջել պատմութիւնից
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Ցուցադրել Որոնիչում
+       *[other] Բացել պարունակութեան պանակը
+    }
+newtab-menu-open-file = Բացել նիշքը
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Այցելած
+newtab-label-bookmarked = Էջանշուած
+newtab-label-removed-bookmark = Էջանիշը հեռացուել է
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
