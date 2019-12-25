@@ -121,6 +121,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = పునరుద్ధరించు
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = అసలు పరిమాణం
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = పాఠ్యాన్ని మాత్రమే జూమ్‌ చేయి
     .accesskey = T
@@ -150,7 +153,7 @@ menu-view-full-screen =
     .label = నిండు తెర
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = ట్యాబులన్నింటినీ చూపించు
@@ -206,15 +209,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = పొడగింతలు
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name } లోనికి ప్రవేశించండి…
-    .accesskey = Y
 menu-tools-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name } కు తిరిగి అనుసంధానించు...
-    .accesskey = R
 menu-tools-web-developer =
     .label = వెబ్ అభివృద్దికారి
     .accesskey = W
@@ -273,8 +270,7 @@ menu-help-safe-mode-with-addons =
     .label = యాడ్-ఆన్స్ చేతనపరచి పునఃప్రారంభించు
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = మోసపూరిత సైట్ ను నివేదించండి…
     .accesskey = D

@@ -7,6 +7,14 @@ about-config-warning-button = నేను నష్టభయాన్ని అ
 about-config2-title = ఉన్నత స్వరూపణం
 about-config-search-input =
     .placeholder = వెతకండి
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = జాగ్రత్తతో ముందుకువెళ్ళండి
+
+
+
+about-config-page-title = ఉన్నత అభిరుచులు
 about-config-show-all = అన్నిటినీ చూపించు
 about-config-pref-add = చేర్చు
 about-config-pref-toggle = అటుదిటుచేయి

@@ -5,6 +5,11 @@
 
 ## App Menu
 
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = మీ అంతరంగికతా నివేదికను చూడండి
+
+## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
