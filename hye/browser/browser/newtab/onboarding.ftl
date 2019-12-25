@@ -52,13 +52,23 @@ onboarding-fullpage-form-email =
 
 onboarding-sync-welcome-header = Վերցրեք { -brand-product-name } Ձեզ հետ
 onboarding-sync-welcome-content = Ստացեք Ձեր էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ կարգաւորումներ Ձեր բոլոր սարքերում։
+onboarding-sync-welcome-learn-more-link = Իմանալ աւելին Firefox-ի հաշիւների մասին
+onboarding-sync-form-input =
+    .placeholder = Էլ֊փոստ
+onboarding-sync-form-continue-button = Շարունակել
+onboarding-sync-form-skip-login-button = Բաց թողնել այս քայլը
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Մուտքագրեք Ձեր էլ֊փոստը
+onboarding-sync-form-sub-header = շարունակել { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Աւգտակար արտադրանքներ
+onboarding-benefit-products-text = Աւարտեք գործերը աւգտագործելով  գործիքաընտանիքները, որոնք հարգում են Ձեր գաղտնիութիւնը սարքերում։
+onboarding-benefit-knowledge-title = Գործնական գիտելիք
 
 ## These strings belong to the individual onboarding messages.
 
