@@ -121,10 +121,20 @@ newtab-menu-open-file = Բացել նիշքը
 newtab-label-visited = Այցելած
 newtab-label-bookmarked = Էջանշուած
 newtab-label-removed-bookmark = Էջանիշը հեռացուել է
+newtab-label-saved = Պահպանուած է { -pocket-brand-name }-ում
+newtab-label-download = Ներբեռնուած է
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Հեռացնել բաժինը
+newtab-section-menu-collapse-section = Կոծկել բաժինը
+newtab-section-menu-expand-section = Ընդարձակել բաժինը
+newtab-section-menu-manage-section = Կառավարել բաժինը
+newtab-section-menu-manage-webext = Կառավարել ընդլայնումը
+newtab-section-menu-add-topsite = Աւելացնել լաւագոյն կայքերին
+newtab-section-menu-add-search-engine = Աւելացնել որոնիչին
+newtab-section-menu-move-up = Վեր
 
 ## Section aria-labels
 
