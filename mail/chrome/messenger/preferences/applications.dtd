@@ -27,13 +27,9 @@
 
 <!ENTITY addCloudFileAccount1.label       "Přidat…">
 <!ENTITY addCloudFileAccount1.accesskey   "a">
-<!ENTITY addCloudFileAccount.description  "Přidejte službu online úložiště, kterou chcete použít pro odesílání velkých příloh.">
+<!ENTITY addCloudFileAccount.description  "Přidat nové webové úložiště pro odesílání příloh">
 <!ENTITY removeCloudFileAccount.label     "Odebrat">
 <!ENTITY removeCloudFileAccount.accesskey "d">
-<!ENTITY authRequired.description         "Tato služba pro zobrazení nastavení vyžaduje přihlášení.">
-<!ENTITY authRequired.button.label        "Přihlásit">
-<!ENTITY authRequired.button.accesskey    "h">
-
 <!ENTITY findCloudFileProviders.label     "Najít další poskytovatele…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Nabízet nahrávání na úložiště pro soubory větší než">

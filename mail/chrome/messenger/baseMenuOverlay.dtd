@@ -15,19 +15,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Restartovat se zakázanými doplňky…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Poznámky k vydání">
-<!ENTITY releaseCmd2.accesskey "P">
-<!ENTITY whatsNewCmd.label "Co je nového">
-<!ENTITY whatsNewCmd.accesskey "C">
-<!ENTITY openHelp.label "Obsah nápovědy">
-<!ENTITY openHelp.accesskey "n">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Nápověda aplikace &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "O aplikaci &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "O">
 <!ENTITY helpSafeMode.stop.label     "Restartovat s povolenými doplňky">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Nápověda aplikace &brandShortName;">
@@ -42,7 +29,7 @@
 <!ENTITY helpFeedbackPage.label "Odeslat zpětnou vazbu…">
 <!ENTITY helpFeedbackPage.accesskey "O">
 
-<!ENTITY helpShowTour2.label "Prohlídka aplikace &brandShorterName;">
+<!ENTITY helpShowTour2.label "Průvodce aplikací &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey "a">
 
 <!ENTITY helpGetInvolvedPage.label "Zapojte se">
