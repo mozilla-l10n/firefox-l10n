@@ -69,6 +69,20 @@ onboarding-sync-form-sub-header = շարունակել { -sync-brand-name }
 onboarding-benefit-products-title = Աւգտակար արտադրանքներ
 onboarding-benefit-products-text = Աւարտեք գործերը աւգտագործելով  գործիքաընտանիքները, որոնք հարգում են Ձեր գաղտնիութիւնը սարքերում։
 onboarding-benefit-knowledge-title = Գործնական գիտելիք
+onboarding-benefit-knowledge-text = Իմացեք այն ինչ պէտք է խելացի եւ առցանց ապահով  լինելու համար։
+onboarding-benefit-privacy-title = Իսկական գաղտնիութիւն
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Այն ամէնը, ինչ մենք անում ենք, հարգում է մեր անձնական տուեալների խոստումը. Քիչ վերցրեք։ Ապահով պահէք։ Ոչ մի գաղտնիք։
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Վերցրեք Ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, որտեղ աւգտագործում եք { -brand-product-name }։
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Տեղեկացեք, երբ Ձեր անձնական տեղեկութիւնները յայտնի տուեալների խախտման մէջ են։
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, որոնք պաշտպանուած եւ շարժական են։
 
 ## These strings belong to the individual onboarding messages.
 
@@ -77,6 +91,9 @@ onboarding-benefit-knowledge-title = Գործնական գիտելիք
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Գաղտնի դիտարկում
+onboarding-private-browsing-text = Ինքներդ դիտարկեք։ Գաղտնի դիտարկում՝ վեբում Ձեզ հետեւող առցանց հետագծիչների բովանդակութեան արգելափակմամբ։
+onboarding-screenshots-title = Էկրանի կորզում
 
 ## Message strings belonging to the Return to AMO flow
 
