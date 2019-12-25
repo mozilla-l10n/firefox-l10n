@@ -80,27 +80,83 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Զննարկել առանց հետեւուելու
+cfr-protections-panel-body = Ձեր տուեալները պահեք Ձեզ մոտ։ { -brand-short-name }-ը Ձեզ պաշտպանում է ամենատարածուած վնասներից, որոնք հետեւում են այն ամենին, ինչ դուք անում եք առցանց։
+cfr-protections-panel-link-text = Իմանալ աւելին
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Նոր հատկութիւն․
+cfr-whatsnew-button =
+    .label = Ինչն է նոր
+    .tooltiptext = Ինչն է նոր
+cfr-whatsnew-panel-header = Ինչն է նոր
+cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
+cfr-whatsnew-fx70-title = { -brand-short-name } այժմ աւելի է պայքարում Ձեր գաղտնիութեան համար
+cfr-whatsnew-fx70-body = Վերջին թարմացումը ուժեղացնում է պաշտպանումը վնասներից առանձնահատկութիւնը եւ դարձնում է այն աւելի հեշտ, քան երբեւէ բոլոր կայքերի համար անուտանգ գաղտնաբառեր ստեղծելը։
+cfr-whatsnew-tracking-protect-title = Պաշտպանեք Ձեզ հետագծումներից
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } արգելափակում է շատ տարածուած սոցիալական եւ խաչմերուկային վնասները, որոնք հետեւում են Ձեր առցանց գործողութիւններին։
+cfr-whatsnew-tracking-protect-link-text = Դիտել Ձեր զեկոյցը
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Հետեւումը արգելափակուած է
+       *[other] Հետեւումները արգելափակուած են
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Քանի որ { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Դիտել զեկոյցը
+cfr-whatsnew-lockwise-backup-title = Կրկնաւրինակել Ձեր գաղտնաբառերը
+cfr-whatsnew-lockwise-backup-body = Այժմ ստեղծեք անուտանգ գաղտնաբառեր, որոնցից կարող եք մուտք գործել ցանկացած մուտք։
+cfr-whatsnew-lockwise-backup-link-text = Միացնել կրկնաւրինակումները
+cfr-whatsnew-lockwise-take-title = Վերցրեք Ձեր գաղտնաբառերը Ձեզ հետ
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } բջջային հաւելուածը հնարաւորութիւն է տալիս ապահով կերպով մուտք գործել Ձեր կրկնաւրինակուած գաղտնաբառերը ցանկացած վայրից։
+cfr-whatsnew-lockwise-take-link-text = Ստանալ հաւելուածը
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Դիտել տեսահոլովակներ զննարկելիս
+cfr-whatsnew-pip-cta = Իմանալ աւելին
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Աւելի քիչ նեարդայնացնող կայքի թռուցիկներ
+cfr-whatsnew-permission-prompt-cta = Իմանալ աւելին
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Մատնահետքը արգելափակուեց
+       *[other] Մատնահետքերը արգելափակուեց
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Մատնահետքեր
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Ստացեք այս էջանիշը Ձեր հեռախաւսի վրայ
+cfr-doorhanger-sync-bookmarks-body = Վերցնել Ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, որտեղ Դուք մուտք եք գործել { -brand-product-name }։
+cfr-doorhanger-sync-bookmarks-ok-button = Միացնել { -sync-brand-short-name }
+    .accesskey = T
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Այլեւս երբեք մի կորցրեք գաղտնաբառ
+cfr-doorhanger-sync-logins-body = Ապահով պահէք եւ համաժամացրեք Ձեր գաղտնաբառերը Ձեր բոլոր սարքերում։
+cfr-doorhanger-sync-logins-ok-button = Միացնել { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Կարդացեք սա անմիջապէս
+cfr-doorhanger-send-tab-recipe-header = Վերցրեք այս բաղադրատոմսը խոհանոցից
 
 ## Firefox Send
 
