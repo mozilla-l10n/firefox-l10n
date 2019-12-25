@@ -37,4 +37,4 @@
 <!ENTITY helpButton.label "Nápověda">
 <!ENTITY helpButton.accesskey "v">
 <!ENTITY closeCmd.key "W">
-<!ENTITY searchBox.emptyText "Hledat filtry dle jména…">
+<!ENTITY searchBox.emptyText "Hledat filtry podle názvu…">

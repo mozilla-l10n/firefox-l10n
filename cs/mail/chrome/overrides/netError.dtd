@@ -164,6 +164,7 @@ za chvíli.</li>
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila načtení této stránky, protože takovýto způsob načtení bezpečnostní pravidla této stránky zakazují.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
@@ -189,7 +190,7 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Správce serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "Server <p><span class='hostname'></span> používá technologii, která je zastaralá a zranitelná vůči útokům. Útočník může snadno získat informace, které považujete za zabezpečené. Správce serveru musí server opravit, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
 
