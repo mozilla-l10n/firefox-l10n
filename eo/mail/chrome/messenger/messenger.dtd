@@ -96,15 +96,15 @@
 <!ENTITY deleteMsgCmd.label "Forigi mesaĝon">
 <!ENTITY deleteMsgCmd.accesskey "F">
 <!ENTITY undeleteMsgCmd.label "Malfari forigi mesaĝon">
-<!ENTITY undeleteMsgCmd.accesskey "f">
+<!ENTITY undeleteMsgCmd.accesskey "M">
 <!ENTITY deleteMsgsCmd.label "Forigi elektitajn mesaĝojn">
 <!ENTITY deleteMsgsCmd.accesskey "F">
 <!ENTITY undeleteMsgsCmd.label "Malfari forigi elektitajn mesaĝojn">
-<!ENTITY undeleteMsgsCmd.accesskey "f">
+<!ENTITY undeleteMsgsCmd.accesskey "M">
 <!ENTITY deleteFolderCmd.label "Forigi mesaĝujon">
 <!ENTITY deleteFolderCmd.accesskey "F">
 <!ENTITY unsubscribeNewsgroupCmd.label "Malaboni">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "M">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "Elekti">
 <!ENTITY selectMenu.accesskey "E">
 <!ENTITY all.label "ĉiujn">
@@ -112,24 +112,24 @@
 <!ENTITY selectThreadCmd.label "fadenon">
 <!ENTITY selectThreadCmd.accesskey "f">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Starred Messages">
-<!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Favorite Folder">
-<!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd2.label "Properties">
-<!ENTITY folderPropsFolderCmd2.label "Folder Properties">
-<!ENTITY folderPropsNewsgroupCmd2.label "Newsgroup Properties">
-<!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY undoDeleteMsgCmd.label "Undo Delete Message">
-<!ENTITY redoDeleteMsgCmd.label "Redo Delete Message">
-<!ENTITY undoMoveMsgCmd.label "Undo Move Message">
-<!ENTITY redoMoveMsgCmd.label "Redo Move Message">
-<!ENTITY undoCopyMsgCmd.label "Undo Copy Message">
-<!ENTITY redoCopyMsgCmd.label "Redo Copy Message">
-<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
-<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
-<!ENTITY undoDefaultCmd.label "Undo">
-<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY selectFlaggedCmd.label "markitajn per steleto">
+<!ENTITY selectFlaggedCmd.accesskey "s">
+<!ENTITY menuFavoriteFolder.label "Ŝatata mesaĝujo">
+<!ENTITY menuFavoriteFolder.accesskey "t">
+<!ENTITY folderPropsCmd2.label "Atributoj">
+<!ENTITY folderPropsFolderCmd2.label "Atributoj de mesaĝujo">
+<!ENTITY folderPropsNewsgroupCmd2.label "Atributoj de novaĵgrupo">
+<!ENTITY folderPropsCmd.accesskey "A">
+<!ENTITY undoDeleteMsgCmd.label "Malfari forigi mesaĝon">
+<!ENTITY redoDeleteMsgCmd.label "Refari forigi mesaĝon">
+<!ENTITY undoMoveMsgCmd.label "Malfari movi mesaĝon">
+<!ENTITY redoMoveMsgCmd.label "Refari movi mesaĝon">
+<!ENTITY undoCopyMsgCmd.label "Malfari kopii mesaĝon">
+<!ENTITY redoCopyMsgCmd.label "Refari kopii mesaĝon">
+<!ENTITY undoMarkAllCmd.label "Malfari marki ĉiujn nelegitaj">
+<!ENTITY redoMarkAllCmd.label "Refari marki ćiujn nelegitaj">
+<!ENTITY undoDefaultCmd.label "Malfari">
+<!ENTITY undoDefaultCmd.accesskey "M">
 <!ENTITY redoDefaultCmd.label "Redo">
 <!ENTITY redoDefaultCmd.accesskey "R">
 
