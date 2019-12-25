@@ -52,7 +52,7 @@
 <!ENTITY saveAsTemplateCmd.label "ŝablonon">
 <!ENTITY saveAsTemplateCmd.accesskey "a">
 <!ENTITY getNewMsgForCmd.label "Elŝuti novajn mesaĝojn el">
-<!ENTITY getNewMsgForCmd.accesskey "E">
+<!ENTITY getNewMsgForCmd.accesskey "l">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "ĉiuj kontoj">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "j">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "nuna konto">
@@ -71,7 +71,7 @@
 <!ENTITY compactFolders.label "Reorganizi mesaĝujojn">
 <!ENTITY compactFolders.accesskey "o">
 <!ENTITY emptyTrashCmd.label "Malplenigi rubujon">
-<!ENTITY emptyTrashCmd.accesskey "l">
+<!ENTITY emptyTrashCmd.accesskey "g">
 <!ENTITY offlineMenu.label "Malkonekta reĝimo">
 <!ENTITY offlineMenu.accesskey "t">
 <!ENTITY offlineGoOfflineCmd.label "Labori malkonektite">
@@ -87,30 +87,30 @@
 <!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.label "Agordi paĝon…">
+<!ENTITY printSetupCmd.accesskey "d">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Delete Message">
-<!ENTITY deleteMsgCmd.accesskey "D">
-<!ENTITY undeleteMsgCmd.label "Undelete Message">
-<!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY deleteMsgsCmd.label "Delete Selected Messages">
-<!ENTITY deleteMsgsCmd.accesskey "D">
-<!ENTITY undeleteMsgsCmd.label "Undelete Selected Messages">
-<!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY deleteFolderCmd.label "Delete Folder">
-<!ENTITY deleteFolderCmd.accesskey "D">
-<!ENTITY unsubscribeNewsgroupCmd.label "Unsubscribe">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
-<!ENTITY selectMenu.label "Select">
-<!ENTITY selectMenu.accesskey "S">
-<!ENTITY all.label "All">
-<!ENTITY all.accesskey "A">
-<!ENTITY selectThreadCmd.label "Thread">
-<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY deleteMsgCmd.label "Forigi mesaĝon">
+<!ENTITY deleteMsgCmd.accesskey "F">
+<!ENTITY undeleteMsgCmd.label "Malfari forigi mesaĝon">
+<!ENTITY undeleteMsgCmd.accesskey "f">
+<!ENTITY deleteMsgsCmd.label "Forigi elektitajn mesaĝojn">
+<!ENTITY deleteMsgsCmd.accesskey "F">
+<!ENTITY undeleteMsgsCmd.label "Malfari forigi elektitajn mesaĝojn">
+<!ENTITY undeleteMsgsCmd.accesskey "f">
+<!ENTITY deleteFolderCmd.label "Forigi mesaĝujon">
+<!ENTITY deleteFolderCmd.accesskey "F">
+<!ENTITY unsubscribeNewsgroupCmd.label "Malaboni">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "M">
+<!ENTITY selectMenu.label "Elekti">
+<!ENTITY selectMenu.accesskey "E">
+<!ENTITY all.label "ĉiujn">
+<!ENTITY all.accesskey "j">
+<!ENTITY selectThreadCmd.label "fadenon">
+<!ENTITY selectThreadCmd.accesskey "f">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Starred Messages">
 <!ENTITY selectFlaggedCmd.accesskey "S">
