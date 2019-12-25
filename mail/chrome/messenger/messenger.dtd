@@ -75,16 +75,16 @@
 <!ENTITY offlineMenu.label "Malkonekta reĝimo">
 <!ENTITY offlineMenu.accesskey "t">
 <!ENTITY offlineGoOfflineCmd.label "Labori malkonektite">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
-<!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
-<!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd2.label "Offline Settings">
-<!ENTITY settingsOfflineCmd2.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "Get Selected Messages">
+<!ENTITY offlineGoOfflineCmd.accesskey "t">
+<!ENTITY synchronizeOfflineCmd.label "Elŝuti/samtempigi nun…">
+<!ENTITY synchronizeOfflineCmd.accesskey "E">
+<!ENTITY settingsOfflineCmd2.label "Agordoj pri malkonekta reĝimo">
+<!ENTITY settingsOfflineCmd2.accesskey "A">
+<!ENTITY downloadSelectedCmd.label "Elŝuti elektitajn mesaĝojn">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Get Starred Messages">
-<!ENTITY downloadStarredCmd.accesskey "a">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY downloadStarredCmd.label "Elŝuti mesaĝojn markitajn per steleto">
+<!ENTITY downloadStarredCmd.accesskey "s">
+<!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Print Preview">
