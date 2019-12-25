@@ -165,10 +165,23 @@ newtab-empty-section-topstories = Ամեն ինչ պատրաստ է։ Ստուգ
 
 newtab-discovery-empty-section-topstories-header = Ամէն ինչ պատրաստ է։
 newtab-discovery-empty-section-topstories-content = Վերադարձեք աւելի ուշ՝ այլ պատմութիւնների համար։
+newtab-discovery-empty-section-topstories-try-again-button = Կրկին փորձել
+newtab-discovery-empty-section-topstories-loading = Բեռնում…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե բեռնում ենք այս հատուածը, բայց ոչ ամբողջովին։
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Հանրաճանաչ թէմաներ.
+newtab-pocket-more-recommendations = Լրացուցիչ առաջարկութիւններ
+newtab-pocket-how-it-works = Ինչպէս է աշխատում
+newtab-pocket-whats-pocket = Ի՞նչ է { -pocket-brand-name }-ը։
+newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
+newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւնները { -pocket-brand-name }, եւ Ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանութեամբ։
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Վայ, ինչ-որ սխալ է տեղի ունեցել այս բովանդակութիւնը բեռնելու համար։
+newtab-error-fallback-refresh-link = Թարմացրեք էջը՝ կրկին փորձելու համար։
