@@ -18,6 +18,8 @@ site-data-column-storage =
     .label = నిల్వ
 site-data-column-last-used =
     .label = చివరి వాడుక
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (స్థానిక ఫైలు)
 site-data-remove-selected =
     .label = ఎంచుకున్నవి తొలగించు
     .accesskey = r
@@ -27,11 +29,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = మార్పులను భద్రపరచు
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (పెర్సిస్టెంట్)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

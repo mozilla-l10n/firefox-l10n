@@ -288,7 +288,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
 play-drm-content =
@@ -316,6 +316,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = సెర్చింజన్లను స్వయంచాలకంగా తాజాకరించు
     .accesskey = e
+update-in-progress-title = తాజాకరణ జరుగుతోంది
 update-in-progress-message = { -brand-short-name } ఈ తాజాకరణతో కొనసాగాలని అనుకుంటున్నారా?
 update-in-progress-ok-button = విస్మరించు (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -494,6 +495,12 @@ search-keyword-warning-bookmark = మీరు ఎంచుకున్న క�
 ## Containers Section
 
 containers-back-link = « వెనక్కి వెళ్ళు
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] తిరిగి ఎంపికలకు
+           *[other] తిరిగి అభిరుచులకు
+        }
 containers-header = కంటైనర్ ట్యాబులు
 containers-add-button =
     .label = కొత్త కంటెయినరు చేర్చు
@@ -557,6 +564,20 @@ sync-signedin-settings-header = సింక్ అమరికలు
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = ఇష్టాంశాలు
+sync-currently-syncing-history = చరిత్ర
+sync-currently-syncing-logins-passwords = ప్రవేశాలు, సంకేతపదాలు
+sync-currently-syncing-addresses = చిరునామాలు
+sync-currently-syncing-creditcards = క్రెడిట్ కార్డులు
+sync-currently-syncing-addons = పొడిగింతలు
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] ఎంపికలు
+       *[other] అభిరుచులు
+    }
+sync-change-options =
+    .label = మార్చు…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -573,6 +594,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = ప్రవేశాలు
     .tooltiptext = మీరు భద్రపరచుకున్న వాడుకరి పేర్లూ, సంకేతపదాలు
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = ప్రవేశాలు, సంకేతపదాలు
+    .tooltiptext = మీరు భద్రపరచిన వాడుకరి పేర్లు, సంకేతపదాలు
     .accesskey = L
 sync-engine-addresses =
     .label = చిరునామాలు
@@ -623,6 +648,7 @@ privacy-header = విహరిణి గోప్యత
 ## Privacy Section - Logins and Passwords
 
 logins-header = ప్రవేశాలు & సంకేతపదాలు
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = సైట్ల ప్రవేశాలూ, సంకేతపదాలు భద్రపరచుకోడానికి అడుగు
     .accesskey = r
@@ -760,7 +786,7 @@ enhanced-tracking-protection-setting-custom =
     .label = అభిమతం
     .accesskey = C
 
-##
+
 
 content-blocking-all-cookies = అన్ని కుకీలు
 content-blocking-all-windows-trackers = తెలిసిన ట్రాకర్లు, అన్ని కిటికీల్లోనూ
@@ -802,6 +828,9 @@ permissions-location = స్థానము
 permissions-location-settings =
     .label = అమరికలు…
     .accesskey = I
+permissions-xr-settings =
+    .label = అమరికలు…
+    .accesskey = t
 permissions-camera = కెమేరా
 permissions-camera-settings =
     .label = అమరికలు…
@@ -840,6 +869,7 @@ permissions-a11y-privacy-link = ఇంకా తెలుసుకోండి
 
 collection-header = { -brand-short-name } డేటా సేకరణ, వాడుక
 collection-privacy-notice = గోప్యతా విధానం
+collection-health-report-telemetry-disabled-link = ఇంకా తెలుసుకోండి
 collection-health-report =
     .label = సాంకేతిక, ఇంటరాక్షన్ డేటాను { -vendor-short-name }‌కి పంపించుటకు { -brand-short-name }‌ని అనుమతించు
     .accesskey = r
