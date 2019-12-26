@@ -4,12 +4,12 @@
 
 aboutDialog-title =
     .title = A prupòsitu di { -brand-full-name }
-releaseNotes-link = Nuvitati
+releaseNotes-link = Nuvità
 update-checkForUpdatesButton =
     .label = Talìa si cci sunnu attualizzazziuna
     .accesskey = V
 update-updateButton =
-    .label = Riabbìa p'aggiurnari { -brand-shorter-name }
+    .label = Riabbìa p'attualizzari { -brand-shorter-name }
     .accesskey = A
 update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazziuna…
 update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'attualizzazziuni — <label data-l10n-name="download-status"/>
@@ -17,7 +17,7 @@ update-applying = Staju appricannu l'attualizzazziuni…
 update-failed = L'attualizzazziuni fallìu. <label data-l10n-name="failed-link">Scàrrica l'ùrtima virsiuni</label>
 update-failed-main = L'attualizzazziuni fallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
 update-adminDisabled = L'attualizzazziuna foru sdisarmati di l'amministraturi dû sistema
-update-noUpdatesFound = { -brand-short-name } è aggiurnatu
+update-noUpdatesFound = { -brand-short-name } è attualizzatu
 update-otherInstanceHandlingUpdates = { -brand-short-name } è già 'n cursu d'attualizzazziuni
 update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
 update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
