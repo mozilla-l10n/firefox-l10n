@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = DRM edukia
 play-drm-content =
@@ -561,6 +561,12 @@ search-keyword-warning-bookmark = Aukeratu duzun gako-hitza dagoeneko laster-mar
 ## Containers Section
 
 containers-back-link = « Joan atzera
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Itzuli aukeretara
+           *[other] Itzuli hobespenetara
+        }
 containers-header = Edukiontzi-fitxak
 containers-add-button =
     .label = Gehitu edukiontzi berria
@@ -583,6 +589,9 @@ sync-signedout-account-create = Ez daukazu konturik? Has gaitezen
     .accesskey = k
 sync-signedout-account-signin =
     .label = Hasi saioa…
+    .accesskey = H
+sync-signedout-account-signin2 =
+    .label = Hasi saioa { -sync-brand-short-name }(e)n…
     .accesskey = H
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -731,6 +740,7 @@ privacy-header = Nabigatzailearen pribatutasuna
 ## Privacy Section - Logins and Passwords
 
 logins-header = Saio-hasierak eta pasahitzak
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Galdetu webguneetako saio-hasierak eta pasahitzak gordetzeko
     .accesskey = G
@@ -744,6 +754,7 @@ forms-breach-alerts =
     .label = Erakutsi datu-urratzeak izan dituzten webguneetako pasahitzei buruzko abisuak
     .accesskey = E
 forms-breach-alerts-learn-more-link = Argibide gehiago
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatikoki bete erabiltzaile-izen eta pasahitzak
     .accesskey = A
@@ -898,7 +909,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pertsonalizatua
     .accesskey = s
 
-##
+
 
 content-blocking-etp-standard-desc = Babeserako eta errendimendurako orekatua. Orriak ohi bezala kargatuko dira.
 content-blocking-etp-strict-desc = Babes sendoagoa baina zenbait gune edo eduki apurtzea eragin lezake.
@@ -963,6 +974,10 @@ permissions-location = Kokapena
 permissions-location-settings =
     .label = Ezarpenak…
     .accesskey = n
+permissions-xr = Errealitate birtuala
+permissions-xr-settings =
+    .label = Ezarpenak…
+    .accesskey = E
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Ezarpenak…
@@ -1011,6 +1026,8 @@ permissions-a11y-privacy-link = Argibide gehiago
 collection-header = { -brand-short-name } datuen bilketa eta erabilera
 collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.
 collection-privacy-notice = Pribatutasun-oharra
+collection-health-report-telemetry-disabled = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
+collection-health-report-telemetry-disabled-link = Argibide gehiago
 collection-health-report =
     .label = Baimendu { -brand-short-name }(r)i datu tekniko eta interakziozkoak { -vendor-short-name }ra bidaltzea
     .accesskey = r
