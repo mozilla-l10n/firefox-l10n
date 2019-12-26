@@ -10,6 +10,7 @@ protection-report-manage-protections = ترتیبات بندرست کریں
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = آج
+social-tab-title = سماجی میڈیا ٹریکرز
 cryptominer-tab-title = کریپٹومینر
 lockwise-title = دوبارہ کبھی پاس ورڈ مت بھولیے
 lockwise-title-logged-in = { -lockwise-brand-name }
