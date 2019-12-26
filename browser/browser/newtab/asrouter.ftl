@@ -138,8 +138,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Hatz-marka bidezko jarraipena blokeatuta
        *[other] Hatz-marka bidezko jarraipena blokeatuta
     }
+cfr-whatsnew-fingerprinter-counter-body = Zuri buruzko iragarki-profila sortzeko asmoz zure gailuaren eta zure ekintzei buruzko informazioa sekretupean biltzen dituzten hatz-marka bidezko jarraipen-elementuak blokeatzen ditu { -brand-shorter-name }(e)k.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Hatz-marka bidezko jarraipena
+cfr-whatsnew-fingerprinter-counter-body-alt = Zuri buruzko iragarki-profila sortzeko asmoz zure gailuaren eta zure ekintzei buruzko informazioa sekretupean biltzen dituzten hatz-marka bidezko jarraipen-elementuak blokea ditzake { -brand-shorter-name }(e)k.
 
 ## Bookmark Sync
 

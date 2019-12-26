@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Blokeatu zure kokalekua ezagutzeko eskaera berriak
 permissions-site-location-disable-desc = Aukera honekin, kokalekua ezagutzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Kokalekuaren ezagutza blokeatzeak webguneen zenbait eginbide hauts litzake.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Ezarpenak - Errealitate birtualaren baimenak
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Ondorengo webguneek zure errealitate birtualeko gailuetarako sarbidea eskatu dute. Errealitate birtualeko gailuetarako sarbidea duten webguneak zehatz ditzakezu. Errealitate birtualeko gailuetarako sarbide-eskaerak ere blokea ditzakezu.
+permissions-site-xr-disable-label =
+    .label = Blokeatu errealitate birtualeko gailuetarako sarbide-eskaera berriak
+permissions-site-xr-disable-desc = Aukera honekin, errealitate birtualeko gailuetarako sarbidearen baimen-eskaerak galaraziko dira goian zerrendatzen ez diren webguneetan. Errealitate birtualeko gailuetarako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
