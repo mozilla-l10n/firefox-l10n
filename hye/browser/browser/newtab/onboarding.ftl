@@ -118,6 +118,28 @@ onboarding-browse-privately-text = Գաղտնի զննարկումը մաքրո�
 onboarding-browse-privately-button = Բացել գաղտնի պատուհան
 onboarding-firefox-send-title = Ձեր տարածած նիշքերը պահեք գաղտնի։
 onboarding-firefox-send-text2 = Վերբեռնեք Ձեր նիշքերը { -send-brand-name } դրանք վերջապէս ծածկագրելու եւ ինքնաբերաբար աւարտուող յղման հետ համաւգտագործելու համար։
+onboarding-firefox-send-button = Փորձեք { -send-brand-name }
+onboarding-mobile-phone-title = Ունեցեք { -brand-product-name }-ը Ձեր հեռախաւսում
+onboarding-mobile-phone-text = Ներբեռնեք { -brand-product-name }-ը iOS- ի կամ Android- ի համար եւ համաժամեցրեք Ձեր տուեալները սարքերում։
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Ներբեռնել բջջային զննարկիչ
+onboarding-send-tabs-title = Անմիջապէս ինքներդ ուղարկեք Ձեզ ներդիրները
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Ներդիրների անմիջապէս ուղարկումը տարածում է էջերը Ձեր սարքերի միջեւ առանց պատճէնելու, տեղադրելու կամ զննիչը լքելու։
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Հեշտութեամբ տարածէք էջերը Ձեր սարքերի միջեւ առանց յղումները պատճէնելու կամ զննարկիչը լքելու։
+onboarding-send-tabs-button = Սկսեք աւգտագործել ներդիրների ուղարկումը
+onboarding-pocket-anywhere-title = Ամէն դէպքում կարդալ եւ լսել
+onboarding-pocket-anywhere-text2 = Պահպանեք Ձեր նախընտրած բովանդակութիւնն անցանց ռեժիմով՝ { -pocket-brand-name } ծրագրով եւ կարդացեք, լսեք եւ դիտեք, երբ դա ձեր համար հարմար է։
+onboarding-pocket-anywhere-button = Փորձեք { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Վերցրեք Ձեր գաղտնաբառերը ամենուր
+onboarding-lockwise-passwords-text2 = Ապահով պահէք Ձեր գաղտնաբառերը եւ հեշտութեամբ մուտք գործեք Ձեր հաշիւներ { -lockwise-brand-name }֊ի օգնութեամբ։
+onboarding-lockwise-passwords-button2 = Ստանալ հաւելուածը
+onboarding-lockwise-strong-passwords-title = Ստեղծէք եւ պահէք լաւ գաղտնաբառեր
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }-ը միանգամից ստեղծում է լաւ գաղտնաբառեր եւ պահում դրանք մեկ տեղում։
 
 ## Message strings belonging to the Return to AMO flow
 
