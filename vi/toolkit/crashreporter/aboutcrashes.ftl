@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Báo cáo lỗi
-clear-all-reports-label = Xóa toàn bộ báo cáo
+submit-all-button-label = Gửi tất cả
 delete-button-label = Xóa tất cả
 delete-confirm-title = Bạn có chắc không?
-delete-confirm-description = Điều này sẽ xóa tất cả báo cáo và không thể hoàn tác.
 delete-unsubmitted-description = Hành động này sẽ xóa tất cả báo cáo lỗi chưa gửi và không thể hoàn tác.
 delete-submitted-description = Thao tác này sẽ xóa danh sách các báo cáo sự cố đã gửi nhưng sẽ không xóa dữ liệu đã gửi. Điều này không thể hoàn tác được.
 crashes-unsubmitted-label = Các báo cáo lỗi chưa gửi
