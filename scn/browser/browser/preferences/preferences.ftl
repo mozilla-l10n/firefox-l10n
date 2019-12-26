@@ -134,8 +134,8 @@ set-as-my-default-browser =
     .label = Fai addivintari pridifinutu…
     .accesskey = d
 startup-restore-previous-session =
-    .label = Riprìstina a sissiuni pricidenti
-    .accesskey = s
+    .label = Arripigghia a sissiuni pricidenti
+    .accesskey = A
 startup-restore-warn-on-quit =
     .label = Abbìsami niscennu dû navigaturi
 disable-extension =
@@ -625,6 +625,7 @@ sync-signedin-settings-desc = Scigghi chi vo' sincrunizzari nnê to dispusitivi 
 ## The list of things currently syncing.
 
 sync-currently-syncing-tabs = Schedi raputi
+sync-currently-syncing-logins-passwords = Accessi e chiavi
 
 ## The "Choose what to sync" dialog.
 
@@ -642,6 +643,10 @@ sync-engine-logins =
     .label = Accessi
     .tooltiptext = Noma utenti e palori d'accessu ca sarbasti
     .accesskey = L
+sync-engine-logins-passwords =
+    .label = Accessi e chiavi
+    .tooltiptext = Nomi utenti e chiavi chi sarbasti
+    .accesskey = A
 sync-engine-addresses =
     .label = Nnirizzi
     .tooltiptext = Nnirizzi pustali ca sarbasti (sulu virsiuni scrivanìa)
@@ -690,24 +695,32 @@ privacy-header = Privatizza navigaturi
 
 ## Privacy Section - Logins and Passwords
 
-logins-header = Accessi e palori d'accessu
+logins-header = Accessi e chiavi
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Spia di sarbari l'accessi e li palori d'accessu pî siti
+    .label = Spija di sarbari l'accessi e i chiavi pî siti
     .accesskey = r
 forms-exceptions =
     .label = Eccizziuna…
     .accesskey = z
+forms-generate-passwords =
+    .label = Suggirisci e gènira chiavi forti
+    .accesskey = f
 forms-breach-alerts-learn-more-link = Cchiù nfurmazziuna
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Metti autumaticamenti accessi e chiavi
+    .accesskey = M
 forms-saved-logins =
     .label = Cridinziali sarbati…
     .accesskey = C
 forms-master-pw-use =
-    .label = Usa na palora d'accessu d'amministraturi
+    .label = Usa na chiavi mastra
     .accesskey = U
 forms-master-pw-change =
     .label = Cancia chiavi mastra…
     .accesskey = m
+forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
 ## Privacy Section - History
 

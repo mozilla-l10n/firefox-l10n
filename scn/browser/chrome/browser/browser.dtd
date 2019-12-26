@@ -263,6 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "U">
 <!ENTITY preferencesCmdUnix.label       "Prifirenzi">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Accessi e chiavi">
 
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Mustra tutta la crunuluggía">
+<!ENTITY appMenuHistory.restoreSession.label "Arripigghia a sissiuni pricidenti">
 <!ENTITY appMenuHistory.viewSidebar.label "Talía sbarra di ciancu dâ crunuluggía">
 <!ENTITY appMenuHelp.label "Ajutu">
 

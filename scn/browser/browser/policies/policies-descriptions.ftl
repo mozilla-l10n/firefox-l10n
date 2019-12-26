@@ -22,7 +22,7 @@ policy-CaptivePortal = Abbìlita o disabbìlita lu supportu pû purtali cuntrull
 policy-CertificatesDescription = Agghiunci cirtificati o usa cirtificati ntigrati.
 policy-Cookies = Cunzenti o nija ê siti di mpustari cookie.
 policy-DefaultDownloadDirectory = Mposta la carpetta di scarricamentu pridifinuta.
-policy-DisableAppUpdate = Mpidisci ô browser di aggiurnàrisi.
+policy-DisableAppUpdate = Mpidisci ô navigaturi di attualizzàrisi.
 policy-DisableBuiltinPDFViewer = Disabbìlita PDF.js, lu visuallizzaturi di PDF ntigratu nne { -brand-short-name }.
 policy-DisableDeveloperTools = Blocca l'accessu ê strumenti pi diviluppatura.
 policy-DisableFeedbackCommands = Disabbìlita i cumanni pi mannari riscontri dû minù Ajutu (Manna riscontru e Signalija situ fallaci).
@@ -40,7 +40,7 @@ policy-DisableProfileRefresh = Disabbìlita lu buttuni Arrifrisca { -brand-short
 policy-DisableSafeMode = Disabbìlita a pussibbilità di riabbiari 'n Mudalità Sicura. Nota: u tastu Shift pi tràsiri nnâ Mudalità Sicura si po disabbilitari nne Windows sulu usannu i Pulìtichi di gruppu.
 policy-DisableSecurityBypass = Mpidisci all'utenti di trapassari certi abbisi di sicurizza.
 policy-DisableSetAsDesktopBackground = Disabbìlita lu cumannu di minù Mposta comu sfunnu dâ Scrivanìa pî mmàggini.
-policy-DisableSystemAddonUpdate = Mpidisci ô browser di nstallari e aggiurnari agghiuncitini di sistema.
+policy-DisableSystemAddonUpdate = Mpidisci ô navigaturi di nzitari o attualizzari agghiuncitini di sistema.
 policy-DisableTelemetry = Astuta la Telimitrìa.
 policy-DisplayBookmarksToolbar = Mustra la Barra dî strumenti dî nzingalibbra comu mpustazziuni pridifinuta.
 policy-DisplayMenuBar = Mustra la Barra dû minù comu mpustazziuni pridifinuta.
@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Abbìlita o disabbìlita lu Bloccu dû cuntinu
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Nzita, leva o blocca i stinziuna. Nzita pigghia nnirizzi o i pircursi comu paràmitri. Leva o Blocca pìgghianu l'ID dî stinziuna.
+policy-ExtensionSettings = Gistisci tutti l'aspetti dû nzitamentu dî stinziuna.
 policy-ExtensionUpdate = Abbìlita o disabbìlita l'attualizzazziuni autumàtica dî stinziuna.
 policy-FirefoxHome = Cunfijura la pàggina mastra di Firefox.
 policy-FlashPlugin = Cunzenti o nija l'usu dû cumpunenti agghiuntivu Flash.

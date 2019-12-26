@@ -99,6 +99,7 @@ onboarding-send-tabs-button = Accumincia a usari Manna schedi
 onboarding-pocket-anywhere-title = Leggi e ascuta unn'è-è
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Pòrtati la palora d'accessu unn'è-è
+onboarding-lockwise-strong-passwords-button = Gistisci i Cridinziali
 onboarding-facebook-container-title = Mèttici i paletti a Facebook
 onboarding-facebook-container-button = Agghiunci stinziuni
 
