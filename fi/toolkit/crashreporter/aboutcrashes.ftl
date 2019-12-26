@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Kaatumisilmoitukset
-clear-all-reports-label = Poista ilmoitukset
+submit-all-button-label = Lähetä kaikki
 delete-button-label = Poista kaikki
 delete-confirm-title = Poistetaanko kaikki ilmoitukset?
-delete-confirm-description = Tämä poistaa kaikki ilmoitukset, eikä toimintoa voi peruuttaa.
 delete-unsubmitted-description = Tämä poistaa kaikki lähettämättömät kaatumisilmoitukset eikä toimintoa voi perua.
 delete-submitted-description = Tämä poistaa listan lähetetyistä kaatumisilmoituksista, mutta ei poista lähetettyjä tietoja. Toimintoa ei voi perua.
 crashes-unsubmitted-label = Lähettämättömät kaatumisilmoitukset
