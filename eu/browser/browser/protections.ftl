@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Beste { $count } gailuetara sinkronizatzen
     }
 lockwise-sync-not-syncing-devices = Ez da beste gailuetara sinkronizatzen ari
+manage-connected-devices = Kudeatu gailuak…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Gailu batera konektatuta
+       *[other] { $count } gailura konektatuta
+    }
 monitor-title = Erne ibili datuen inguruko urratzeekin
 monitor-link = Nola dabilen
 monitor-header-content-no-account = Egiaztatu { -monitor-brand-name } ezaguna den datu-urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.
