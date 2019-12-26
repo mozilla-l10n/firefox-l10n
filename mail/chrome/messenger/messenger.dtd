@@ -136,40 +136,40 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Strio de menuo">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showMessengerToolbarCmd.label "Mail Toolbar">
-<!ENTITY showMessengerToolbarCmd.accesskey "o">
-<!ENTITY customizeToolbar.label "Customize…">
-<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY showMessengerToolbarCmd.label "Strio de retpoŝto">
+<!ENTITY showMessengerToolbarCmd.accesskey "r">
+<!ENTITY customizeToolbar.label "Personecigi…">
+<!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY messagePaneLayoutStyle.label "Layout">
-<!ENTITY messagePaneLayoutStyle.accesskey "L">
-<!ENTITY messagePaneClassic.label "Classic View">
-<!ENTITY messagePaneClassic.accesskey "C">
-<!ENTITY messagePaneWide.label "Wide View">
-<!ENTITY messagePaneWide.accesskey "W">
-<!ENTITY messagePaneVertical.label "Vertical View">
+<!ENTITY messagePaneLayoutStyle.label "Aranĝo">
+<!ENTITY messagePaneLayoutStyle.accesskey "A">
+<!ENTITY messagePaneClassic.label "Klasika">
+<!ENTITY messagePaneClassic.accesskey "K">
+<!ENTITY messagePaneWide.label "Larĝa">
+<!ENTITY messagePaneWide.accesskey "L">
+<!ENTITY messagePaneVertical.label "Vertikala">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showFolderPaneColsCmd.label "Folder Pane Columns">
-<!ENTITY showFolderPaneColsCmd.accesskey "P">
-<!ENTITY showMessageCmd.label "Message Pane">
-<!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showFolderPaneCmd.label "Panelo de mesaĝujoj">
+<!ENTITY showFolderPaneCmd.accesskey "P">
+<!ENTITY showFolderPaneColsCmd.label "Kolumnoj en panelo de mesaĝujoj">
+<!ENTITY showFolderPaneColsCmd.accesskey "K">
+<!ENTITY showMessageCmd.label "Panelo de mesaĝo">
+<!ENTITY showMessageCmd.accesskey "m">
 
-<!ENTITY folderView.label "Folders">
-<!ENTITY folderView.accesskey "F">
-<!ENTITY unifiedFolders.label "Unified">
-<!ENTITY unifiedFolders.accesskey "n">
-<!ENTITY allFolders.label "All">
-<!ENTITY allFolders.accesskey "A">
-<!ENTITY unreadFolders.label "Unread">
-<!ENTITY unreadFolders.accesskey "U">
-<!ENTITY favoriteFolders.label "Favorite">
-<!ENTITY favoriteFolders.accesskey "F">
-<!ENTITY recentFolders.label "Recent">
-<!ENTITY recentFolders.accesskey "R">
-<!ENTITY compactVersion.label "Compact View">
-<!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderView.label "Mesaĝujoj">
+<!ENTITY folderView.accesskey "M">
+<!ENTITY unifiedFolders.label "Unuigita">
+<!ENTITY unifiedFolders.accesskey "U">
+<!ENTITY allFolders.label "Ĉiuj">
+<!ENTITY allFolders.accesskey "j">
+<!ENTITY unreadFolders.label "Nelegitaj">
+<!ENTITY unreadFolders.accesskey "N">
+<!ENTITY favoriteFolders.label "Ŝatataj">
+<!ENTITY favoriteFolders.accesskey "a">
+<!ENTITY recentFolders.label "Ĵusaj">
+<!ENTITY recentFolders.accesskey "s">
+<!ENTITY compactVersion.label "Kompakta vido">
+<!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Folder Pane Toolbar">
 <!ENTITY folderPaneBar.accesskey "F">
 
