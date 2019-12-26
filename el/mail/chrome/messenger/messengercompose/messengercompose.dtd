@@ -272,6 +272,11 @@
 <!ENTITY followupAddr.label "Συνέχεια σε:">
 <!ENTITY subject.label "Θέμα:">
 <!ENTITY toAddr2.label "Προς">
+<!ENTITY ccAddr2.label "Κοιν.">
+<!ENTITY bccAddr2.label "Κρυφή Κοιν.">
+<!ENTITY replyAddr2.label "Απάντηση προς">
+<!ENTITY newsgroupsAddr2.label "Ομάδα ειδήσεων">
+<!ENTITY followupAddr2.label "Σε συνέχεια του ">
 <!ENTITY subject2.label "Θέμα">
 <!ENTITY subject.accesskey "Θ">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
