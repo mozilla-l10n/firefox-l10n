@@ -113,6 +113,7 @@ cfr-whatsnew-tracking-blocked-link-text = Lihat Laporan
 cfr-whatsnew-lockwise-backup-title = Cadangkan kata sandi Anda
 cfr-whatsnew-lockwise-backup-link-text = Nyalakan pencadangan
 cfr-whatsnew-lockwise-take-title = Bawa sandi ke mana Anda pergi
+cfr-whatsnew-lockwise-take-body = Aplikasi seluler { -lockwise-brand-short-name } memungkinkan Anda mengakses cadangan kata sandi Anda dari mana saja.
 cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
 ## Picture-in-Picture
@@ -122,6 +123,7 @@ cfr-whatsnew-pip-cta = Pelajari lebih lanjut
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Lebih sedikit pop-up situs yang mengganggu
 cfr-whatsnew-permission-prompt-cta = Pelajari lebih lanjut
 
 ## Fingerprinter Counter
