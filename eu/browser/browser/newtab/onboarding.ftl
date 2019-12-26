@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Eraman { -brand-product-name } aldean
 onboarding-sync-welcome-content = Izan laster-markak, historia, pasahitzak eta beste ezarpenak eskura zure gailu guztietan.
 onboarding-sync-welcome-learn-more-link = Firefox kontuei buruzko argibide gehiago
-onboarding-sync-form-invalid-input = Baliozko helbide elektronikoa behar da
-onboarding-sync-legal-notice = Jarraitzearekin bat, <a data-l10n-name="terms">Zerbitzu-baldintzak</a> eta <a data-l10n-name="privacy">Pribatutasun-oharra</a> onartzen dituzu.
 onboarding-sync-form-input =
     .placeholder = Helbide elektronikoa
 onboarding-sync-form-continue-button = Jarraitu
@@ -130,6 +128,9 @@ onboarding-send-tabs-title = Bidali fitxak di-da zure buruari
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Fitxak bidalita berehala partekatzen dira orriak zure gailuen artean, horretarako kopiatu eta itsatsi edo nabigatzailea uzteko beharrik gabe.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Partekatu orriak modu errazean zure gailuen artean, horretarako loturak kopiatu eta itsatsi edo nabigatzailea uzteko beharrik gabe.
 onboarding-send-tabs-button = Hasi fitxak bidaltzeko eginbidea erabiltzen
 onboarding-pocket-anywhere-title = Irakurri eta entzun edonon
 onboarding-pocket-anywhere-text2 = Gorde zure gogoko edukia { -pocket-brand-name } aplikazioarekin lineaz kanpo eta ondoen datorkizunean irakurri, entzun eta ikusteko.
@@ -137,9 +138,15 @@ onboarding-pocket-anywhere-button = Probatu { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Eraman pasahitzak alboan
 onboarding-lockwise-passwords-text2 = Mantendu seguru gordetako pasahitzak eta hasi saioa zure kontuetan modu errazean { -lockwise-brand-name } erabiliz.
 onboarding-lockwise-passwords-button2 = Eskuratu aplikazioa
+onboarding-lockwise-strong-passwords-title = Sortu eta biltegiratu pasahitz sendoak
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }(e)k pasahitz sendoak istantean sortu eta denak toki bakarrean gordetzen ditu.
+onboarding-lockwise-strong-passwords-button = Kudeatu zure saio-hasierak
 onboarding-facebook-container-title = Ezarri mugak Facebookekin
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } erabilita zure profila gainontzeko guztitik bereiziko da eta Facebooki zailagoa egingo zaio haien iragarkien jomugan zu izatea.
 onboarding-facebook-container-button = Gehitu hedapena
+onboarding-import-browser-settings-title = Inportatu zure laster-markak, pasahitzak eta gehiago
+onboarding-import-browser-settings-text = Murgildu zuzenean — ekarri zurekin Chrome-ko gune eta ezarpenak.
+onboarding-import-browser-settings-button = Inportatu Chrome-ko datuak
 
 ## Message strings belonging to the Return to AMO flow
 
