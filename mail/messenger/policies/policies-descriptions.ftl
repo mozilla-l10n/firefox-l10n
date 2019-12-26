@@ -44,3 +44,4 @@ policy-HardwareAcceleration = Якщо значення false, апаратне 
 policy-InstallAddonsPermission = Дозволити певним вебсайтам встановлювати додатки.
 policy-LocalFileLinks = Дозволити певним вебсайтам посилатися на локальні файли.
 policy-NetworkPrediction = Ввімкнути чи вимкнути прогнозування мережі (попереднє отримання DNS).
+policy-OfferToSaveLogins = Застосувати налаштування, яке дозволить { -brand-short-name } пропонувати запам'ятати збережені логіни та паролі. Працюють обидва значення true і false.
