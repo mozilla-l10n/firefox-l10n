@@ -140,6 +140,20 @@ onboarding-lockwise-passwords-text2 = Ապահով պահէք Ձեր գաղտն�
 onboarding-lockwise-passwords-button2 = Ստանալ հաւելուածը
 onboarding-lockwise-strong-passwords-title = Ստեղծէք եւ պահէք լաւ գաղտնաբառեր
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }-ը միանգամից ստեղծում է լաւ գաղտնաբառեր եւ պահում դրանք մեկ տեղում։
+onboarding-lockwise-strong-passwords-button = Ձեր մուտքանունների կառաւարում։
+onboarding-facebook-container-title = Սահմանէք սահմաններ Facebook-ի հետ
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } Ձեր հաշիւը զերծ է պահում մնացած ամէն ինչից, աւելի դժուար է դարձնում Facebook-ի համար Ձեզ գովազդով թիրախաւորելը։
+onboarding-facebook-container-button = Աւելացնել ընդլայնում
+onboarding-import-browser-settings-title = Ներածէք Ձեր էջանիշերը, գաղտնաբառերը եւ աւելին
+onboarding-import-browser-settings-button = Ներածէք Chrome-ի տուեալները
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Հիանալի է, Դուք ստացել եք { -brand-short-name }-ը
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Այժմ ստացէք Ձեր <icon></icon><b>{ $addon-name }-ը։</b></b>
+return-to-amo-extension-button = Աւելացնել ընդլայնում
+return-to-amo-get-started-button = Սկսեք { -brand-short-name }-ից
