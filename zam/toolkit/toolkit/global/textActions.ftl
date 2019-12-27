@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Vereé
     .accesskey = V
+text-action-redo =
+    .label = Veree koo blil
+    .accesskey = V
 text-action-cut =
     .label = Chuy
     .accesskey = u
