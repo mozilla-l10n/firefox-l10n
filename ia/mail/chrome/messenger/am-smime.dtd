@@ -21,6 +21,9 @@
 <!ENTITY encryption.certificate_clear.button "Rader">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Firma digital">
+<!ENTITY signMessage.label "Firma digital del messages (predefinite)">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Usar iste certificato pro signar digitalmente le messages que tu invia:">
 
 <!ENTITY certificates.label "Certificatos">
 <!ENTITY manageCerts2.label "Gerer certificatos">

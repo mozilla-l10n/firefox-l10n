@@ -16,10 +16,22 @@
 <!ENTITY folderIncludeInGlobalSearch.label       "Includer le messages de iste dossier in le resultatos de recerca global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
+<!ENTITY retention.label "Regulas de retention">
 <!ENTITY retentionUseAccount.label  "Usar le parametros de mi conto">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dies">
 <!ENTITY message.label "messages">
 <!ENTITY retentionCleanup.label "Pro recuperar spatio del disco, vetere message pote ser delite permanentemente.">
+<!ENTITY retentionCleanupImap.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, sia copias e originales local, sia sur le servitor remote.">
+<!ENTITY retentionCleanupPop.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, anque originales sur le servitor remote.">
+<!ENTITY retentionDeleteMsg.label "Deler messages plus vetere de">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Non deler ulle message">
+<!ENTITY retentionKeepAll.accesskey "N">
+<!ENTITY retentionKeepRecent.label "Deler totos salvo los plus recente">
+<!ENTITY retentionKeepRecent.accesskey "t">
+<!ENTITY retentionApplyToFlagged.label "Retener sempre messages stellate">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Synchronisation">
 <!ENTITY folderCheckForNewMessages2.label         "Quando se recipe nove messages pro iste conto, sempre controlar iste dossier">
@@ -41,6 +53,9 @@
 <!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Compartition">
+<!ENTITY privileges.button.label                 "Privilegios…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "Tu ha le sequente permissos:">
 <!ENTITY folderType.label                        "Typo de dossier:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
@@ -51,4 +66,6 @@
 <!ENTITY numberOfMessages.label                  "Numero de messages:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "incognite">
+<!ENTITY sizeOnDisk.label                        "Dimension del disco:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "incognite">
