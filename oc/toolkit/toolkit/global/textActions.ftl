@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Anullar
     .accesskey = u
+text-action-redo =
+    .label = Restablir
+    .accesskey = R
 text-action-cut =
     .label = Talhar
     .accesskey = T
