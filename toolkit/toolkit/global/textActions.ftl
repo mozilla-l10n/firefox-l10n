@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Etsolla
     .accesskey = E
+text-action-redo =
+    .label = Etsa hape
+    .accesskey = E
 text-action-cut =
     .label = Kgaola
     .accesskey = o
