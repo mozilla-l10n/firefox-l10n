@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Anulează
     .accesskey = U
+text-action-redo =
+    .label = Refă
+    .accesskey = R
 text-action-cut =
     .label = Taie
     .accesskey = t
