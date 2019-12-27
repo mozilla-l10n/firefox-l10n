@@ -25,3 +25,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = កុំ​ទាន់​អាល
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = បន្ទាប់ពីចាប់ផ្តើមឡើងវិញ { -brand-shorter-name } នឹងស្តារផ្ទាំង ដែលបើកទាំងអស់របស់អ្នក ដែលមិននៅក្នុង​មុខងារ​រុករក​ឯកជន។
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = យល់​ហើយ
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = គ្រប់គ្រងកម្មវិធីបន្ថែមរបស់អ្នកដោយចុច <image data-l10n-name='addon-install-icon'></image> ក្នុងម៉ឺនុយ <image data-l10n-name='addon-menu-icon'></image>។

@@ -46,6 +46,8 @@ urlbar-midi-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង MIDI
 urlbar-eme-notification-anchor =
     .tooltiptext = គ្រប់គ្រង​ការ​ប្រើប្រាស់​កម្មវិធី DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = បើកផ្ទាំងការផ្ទៀងផ្ទាត់​គេហទំព័រ
 urlbar-canvas-notification-anchor =
     .tooltiptext = គ្រប់គ្រង​ការអនុញ្ញាត​ដកចេញ​កម្មវិធី​កែរូបភាព
 urlbar-web-rtc-share-microphone-notification-anchor =
@@ -68,6 +70,8 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = គ្រប់គ្រង​ការ​ប្រើប្រាស់​ផ្នែក​បន្ថែម
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = គ្រប់គ្រង​ការ​ចែករំលែក​កាមេរ៉ា​របស់​អ្នក និង/ឬ​មីក្រូហ្វូន​ជាមួយ​ទំព័រ​បណ្ដាញ​នេះ
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = បើកផ្ទាំងលេងស្វ័យប្រវត្តិ
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ផ្ទុក​ទិន្នន័យ​នៅ​ក្នុង​កន្លែង​ផ្ទុក​អចិន្ត្រៃយ៍
 urlbar-addons-notification-anchor =
@@ -88,6 +92,8 @@ urlbar-popup-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ផ្ទាំង​លេចឡើង​សម្រាប់​គេហទំព័រ​នេះ។
 urlbar-canvas-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។
+urlbar-midi-blocked =
+    .tooltiptext = អ្នក​បាន​ទប់ស្កាត់ការចូលប្រើ MIDI សម្រាប់​គេហទំព័រ​នេះ។
 
 ## Page Action Context Menu
 
@@ -126,3 +132,8 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = ធ្វើ​រួច
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
