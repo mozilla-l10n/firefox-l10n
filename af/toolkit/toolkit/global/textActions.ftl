@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Ontdoen
     .accesskey = O
+text-action-redo =
+    .label = Herdoen
+    .accesskey = H
 text-action-cut =
     .label = Knip
     .accesskey = p
