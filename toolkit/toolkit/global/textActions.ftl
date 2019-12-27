@@ -5,6 +5,9 @@
 text-action-undo =
     .label = 撤销
     .accesskey = U
+text-action-redo =
+    .label = 重做
+    .accesskey = R
 text-action-cut =
     .label = 剪切
     .accesskey = t
