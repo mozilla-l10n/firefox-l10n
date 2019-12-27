@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Itululani
     .accesskey = I
+text-action-redo =
+    .label = Itani hafhu
+    .accesskey = I
 text-action-cut =
     .label = Gerani
     .accesskey = g
