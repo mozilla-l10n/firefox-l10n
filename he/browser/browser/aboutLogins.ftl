@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = חיפוש כניסות
 create-login-button = יצירת כניסה חדשה
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = סמל אתר עבור { $title }
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-sign-in-button = כניסה ל־{ -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = אין תוצאות התוא�
 login-list-item-title-new-login = כניסה חדשה
 login-list-item-subtitle-new-login = נא להזין את פרטי הכניסה שלך
 login-list-item-subtitle-missing-username = (אין שם משתמש)
-about-logins-list-item-warning-icon =
-    .alt = סמל אזהרה
-    .title = אתר פרוץ
 about-logins-list-item-breach-icon =
     .title = אתר פרוץ
 
@@ -93,6 +85,8 @@ login-item-password-reveal-checkbox-show =
     .title = הצגת ססמה
 login-item-password-reveal-checkbox-hide =
     .title = הסתרת ססמה
+login-item-password-reveal-checkbox =
+    .aria-label = הצגת ססמה
 login-item-copy-password-button-text = העתקה
 login-item-copied-password-button-text = הועתק!
 login-item-save-changes-button = שמירת שינויים
@@ -140,11 +134,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = כבר קיימת רשומה עבור { $loginTitle } עם שם משתמש זה.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

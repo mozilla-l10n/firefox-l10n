@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = צבעים…
     .accesskey = צ
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = מרחק מתצוגה
+preferences-default-zoom = מרחק מתצוגה ברירת מחדל
+    .accesskey = ת
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = שינוי גודל טקסט בלבד
+    .accesskey = ט
 language-header = שפה
 choose-language-description = בחירת השפה המועדפת עליך להצגת דפים
 choose-button =
