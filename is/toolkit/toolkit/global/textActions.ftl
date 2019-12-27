@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Afturkalla
     .accesskey = f
+text-action-redo =
+    .label = Endurtaka
+    .accesskey = n
 text-action-cut =
     .label = Klippa
     .accesskey = K
