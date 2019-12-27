@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Revocar
     .accesskey = R
+text-action-redo =
+    .label = Restituir
+    .accesskey = R
 text-action-cut =
     .label = Tagliar ora
     .accesskey = a
