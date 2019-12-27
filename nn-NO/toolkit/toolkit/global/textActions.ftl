@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Angre
     .accesskey = A
+text-action-redo =
+    .label = Gjer om
+    .accesskey = G
 text-action-cut =
     .label = Klipp ut
     .accesskey = u
