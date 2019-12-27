@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Visszavonás
     .accesskey = V
+text-action-redo =
+    .label = Újra
+    .accesskey = r
 text-action-cut =
     .label = Kivágás
     .accesskey = K
