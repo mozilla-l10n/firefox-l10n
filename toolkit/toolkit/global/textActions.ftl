@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Поништи
     .accesskey = ш
+text-action-redo =
+    .label = Понови
+    .accesskey = П
 text-action-cut =
     .label = Исеци
     .accesskey = ц
