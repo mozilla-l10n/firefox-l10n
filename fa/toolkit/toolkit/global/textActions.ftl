@@ -5,6 +5,9 @@
 text-action-undo =
     .label = برگردان
     .accesskey = ب
+text-action-redo =
+    .label = از نو
+    .accesskey = ا
 text-action-cut =
     .label = بریدن
     .accesskey = ب
