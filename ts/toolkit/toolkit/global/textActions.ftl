@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Khansela
     .accesskey = K
+text-action-redo =
+    .label = Endla nakambe
+    .accesskey = E
 text-action-cut =
     .label = Tsema
     .accesskey = t
