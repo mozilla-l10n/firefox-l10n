@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Dirolla
     .accesskey = D
+text-action-redo =
+    .label = Dira gape
+    .accesskey = D
 text-action-cut =
     .label = Ripa
     .accesskey = a
