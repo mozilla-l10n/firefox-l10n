@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "請先驗證您的帳號，即可開始同步。">
 <!ENTITY fxa.unverified.button.label "開啟 &syncBrand.shortName.label; 設定…">
 
-<!ENTITY pictureInPictureHideToggle.label "隱藏子母畫面切換按鈕">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "已登入為">
 <!ENTITY fxa.menu.manageAccount.label "管理帳號…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 設定…">
+
+<!ENTITY pictureInPictureHideToggle.label "隱藏子母畫面切換按鈕">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "登入 &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "開啟 &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 服務">
-
 <!ENTITY fxa.menu.account.label "帳號">
 <!ENTITY fxa.menu.settings.label "設定">
 <!ENTITY fxa.menu.accountSettings.label "帳號設定">
+<!ENTITY fxa.menu.manageAccount2.label "管理帳號">
 <!ENTITY fxa.menu.signOut.label "登出…">
 <!ENTITY fxa.menu.deviceSettings.label "裝置設定">
 <!ENTITY fxa.menu.setupSync.label "設定 &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "停止">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "按此前往網址列中的網址">
 <!ENTITY printButton.label            "列印">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "您已封鎖此網站執行 Adobe Flash 外掛程式。">
 <!ENTITY urlbar.midiBlocked.tooltip              "您已封鎖此網站的 MIDI 存取權限。">
 <!ENTITY urlbar.installBlocked.tooltip           "您已封鎖此網站安裝附加元件。">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "顯示瀏覽紀錄">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "搜尋:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "這次使用下列搜尋引擎搜尋:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "用新分頁開啟鏈結">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "用新視窗開啟鏈結">
 <!ENTITY openLinkCmd.accesskey        "w">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "只顯示本頁框">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "重新載入頁框">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "另存新檔…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "頁框另存新檔…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "改變文字方向">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "尋找文字…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "為什麼？">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "封鎖這些項目可能會造成某些網站上的元素不正常。若沒有追蹤器，某些按鈕、表單、登入欄位可能無法正常運作。">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "若關閉保護，將放行此網站上的所有追蹤器。可能也會改善某些網站功能。">
-<!ENTITY protections.socialMediaTrackers.label "社交媒體追蹤器">
-<!ENTITY protections.crossSiteTrackingCookies.label "跨網站追蹤 Cookie">
-<!ENTITY protections.trackingContent.label "追蹤用內容">
-<!ENTITY protections.fingerprinters.label "數位指紋追蹤程式">
-<!ENTITY protections.cryptominers.label "加密貨幣採礦程式">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "由於關閉了追蹤保護功能，已放行本網站中的所有追蹤器。">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; 未在此頁面偵測到已知的追蹤器。">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "登入至 &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "立刻同步">
 <!ENTITY syncSyncNowItemSyncing.label "同步中…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "社交媒體追蹤器">
-
-<!ENTITY contentBlocking.cookies2.label "跨網站追蹤 Cookie">
 
 <!ENTITY contentBlocking.cryptominers.label "加密貨幣採礦程式">
 <!ENTITY contentBlocking.cryptominersView.label "加密貨幣採礦程式">
