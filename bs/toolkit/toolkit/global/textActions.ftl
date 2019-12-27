@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Poništi
     .accesskey = P
+text-action-redo =
+    .label = Ponovi
+    .accesskey = P
 text-action-cut =
     .label = Isjeci
     .accesskey = I
