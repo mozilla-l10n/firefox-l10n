@@ -5,6 +5,9 @@
 text-action-undo =
     .label = เลิกทำ
     .accesskey = ล
+text-action-redo =
+    .label = ทำซ้ำ
+    .accesskey = ท
 text-action-cut =
     .label = ตัด
     .accesskey = ต
