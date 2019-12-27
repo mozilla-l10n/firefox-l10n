@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Firtu
     .accesskey = F
+text-action-redo =
+    .label = Waɗtu
+    .accesskey = W
 text-action-cut =
     .label = Dottu
     .accesskey = t
