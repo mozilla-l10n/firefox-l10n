@@ -5,6 +5,9 @@
 text-action-undo =
     .label = முன்செயல் நீக்கு
     .accesskey = U
+text-action-redo =
+    .label = மீளச் செய்க
+    .accesskey = R
 text-action-paste =
     .label = ஒட்டு
     .accesskey = P
