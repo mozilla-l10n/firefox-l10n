@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Sa'y…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Moañete
+preferences-default-zoom = Moañete ypyguáva
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Emoañete moñe’ẽrã año
+    .accesskey = t
 language-header = Ñe'ẽ
 choose-language-description = Eipoiravo pe ñe'ẽ erohoryvéva ehechauka hag̃ua ñanduti kuatiarogue
 choose-button =

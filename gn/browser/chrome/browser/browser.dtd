@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Ehechajeyva’erã ne mba’ete embojuehe mboyve.">
 <!ENTITY fxa.unverified.button.label "Eike &syncBrand.shortName.label; Ñoĩporã…">
 
-<!ENTITY pictureInPictureHideToggle.label "Emokañy votõ Picture-in-Picture (PIP)">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Heraguapy kóicha">
 <!ENTITY fxa.menu.manageAccount.label "Mba'ete ñangareko…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Moĩporã…">
+
+<!ENTITY pictureInPictureHideToggle.label "Emokañy votõ Picture-in-Picture (PIP)">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Eike &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Emyandy &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Mba'epuru">
-
 <!ENTITY fxa.menu.account.label "Mba'ete">
 <!ENTITY fxa.menu.settings.label "Ñemboheko">
 <!ENTITY fxa.menu.accountSettings.label "Mba'ete ñemboheko">
+<!ENTITY fxa.menu.manageAccount2.label "Mba'ete Ñangarekoha">
 <!ENTITY fxa.menu.signOut.label "Ñesẽ…">
 <!ENTITY fxa.menu.deviceSettings.label "Mba'e'oka ñemboheko">
 <!ENTITY fxa.menu.setupSync.label "Emboheko &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Epyta">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Kundaharape renda URL-pe jeho">
 <!ENTITY printButton.label            "Mbokuatia">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ejokóma ko ñanduti renda ani hag̃ua tembipuru'i Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Kóva ndive jeheka:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Ko'ág̃a, eheka hendive:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Tendayke pyahu joajuhápe jeike">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Ovetã pyahu joajuhápe jeike">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ko kora año jehechauka">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Kora myenyhẽjey">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Ñongatu pyahu…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Kora ñongatu pyahu…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Kundaharape moñe'ẽrã moambue">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Ko kuatiaroguépe jeheka…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Mba'ére?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ko’ãva jejoko ikatu ombyai mba’epuru ñanduti renda pegua. Jehapykuehoha’ỹre heta votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ikatu ndoikói.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Ñemo’ãha jepe’a ombojurujáta opaite jehapykuehoha ko tendápe. Ikatu avei omba’apo porãve.">
-<!ENTITY protections.socialMediaTrackers.label "Ava ñandutieta rapykuehoha">
-<!ENTITY protections.crossSiteTrackingCookies.label "Kookie rapykuehoha tenda ojoasáva rehegua">
-<!ENTITY protections.trackingContent.label "Tetepu rapykuehoha">
-<!ENTITY protections.fingerprinters.label "Kuãhũ kuaaukaha">
-<!ENTITY protections.cryptominers.label "Criptomineros">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Opaite tepykuehoha ko tenda pegua oñemyanyhẽ ñemo’ãha ojepe’aite rupi.">
 <!ENTITY protections.noTrackersFound.description "Ndaipóri tapykuehoha &brandShortName; peg̃uarã ojehechakuaáva ko kutiaroguépe.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;-pe jeike…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Embojuehe ko'ág̃a">
 <!ENTITY syncSyncNowItemSyncing.label "Embojuehehína…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
-
-<!ENTITY contentBlocking.cookies2.label "Kookie rapykuehoha tenda ojoasáva rehegua">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptominero">
 <!ENTITY contentBlocking.cryptominersView.label "Criptominero">

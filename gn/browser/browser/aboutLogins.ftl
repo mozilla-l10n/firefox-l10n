@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Tembiapo ñepyrũ jeheka
 create-login-button = Tembiapo ñepyrũ moheñói
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon { $title } peg̃uarã
 fxaccounts-sign-in-text = Egueru umi ne ñe’ẽñemi ne ambue mba’e’okágui
 fxaccounts-sign-in-button = Eñemboheraguapy { -sync-brand-short-name }-pe
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Ndaipóri pe ehekáva.
 login-list-item-title-new-login = Tembiapo ñepyrũ pyahu
 login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
 login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
-about-logins-list-item-warning-icon =
-    .alt = Ta'ãngachu'i kyhyjerã
-    .title = Ñanduti renda imarãva
 about-logins-list-item-breach-icon =
     .title = Ñanduti renda imarãva
 
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Ñe'ẽñemi jehechauka
 login-item-password-reveal-checkbox-hide =
     .title = Ñe'ẽñemi kañymby
+login-item-password-reveal-checkbox =
+    .aria-label = Ehechauka ñe’ẽñemi
 login-item-copy-password-button-text = Monguatia
 login-item-copied-password-button-text = Monguatiapyre!
 login-item-save-changes-button = Moambue ñongatu
@@ -153,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Eikekuaáma { $loginTitle }-pe ko puruhára reheve.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
