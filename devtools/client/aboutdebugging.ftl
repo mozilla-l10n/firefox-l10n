@@ -307,7 +307,7 @@ about-debugging-main-process-name = Huvudprocess
 about-debugging-main-process-description2 = Huvudprocess för målwebbläsaren
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
-about-debugging-multiprocess-toolbox-name = Multiprocess Verktygslåda
+about-debugging-multiprocess-toolbox-name = Verktygslåda för multiprocess
 # Description for the Multiprocess Toolbox target.
 about-debugging-multiprocess-toolbox-description = Huvudprocesser och innehållsprocesser för målwebbläsaren
 # Alt text used for the close icon of message component (warnings, errors and notifications).

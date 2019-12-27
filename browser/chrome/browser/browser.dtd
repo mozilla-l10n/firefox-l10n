@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.settings.label "Inställningar">
 <!ENTITY fxa.menu.accountSettings.label "Kontoinställningar">
+<!ENTITY fxa.menu.manageAccount2.label "Hantera konto">
 <!ENTITY fxa.menu.signOut.label "Logga ut…">
 <!ENTITY fxa.menu.deviceSettings.label "Enhetsinställningar">
 <!ENTITY fxa.menu.setupSync.label "Konfigurera &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "U">
 <!ENTITY stopCmd.label                "Stopp">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Gå till adressen i adressfältet">
 <!ENTITY printButton.label            "Skriv ut">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "s">
 
 <!ENTITY openLinkCmdInTab.label       "Öppna länk i ny flik">
+
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openLinkCmd.label            "Öppna länk i nytt fönster">
 <!ENTITY openLinkCmd.accesskey        "Ö">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "h">
 <!ENTITY showOnlyThisFrameCmd.label     "Visa endast denna ram">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Uppdatera ram">
 <!ENTITY reloadFrameCmd.accesskey     "U">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Spara sida som…">
 <!ENTITY savePageCmd.accesskey        "m">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Spara ram som…">
 <!ENTITY saveFrameCmd.accesskey       "S">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "B">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Byt textriktning">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Sök på den här sidan…">
