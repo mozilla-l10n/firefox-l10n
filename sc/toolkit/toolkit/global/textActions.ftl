@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Iscontza
     .accesskey = I
+text-action-redo =
+    .label = Torra a fàghere
+    .accesskey = R
 text-action-cut =
     .label = Sega
     .accesskey = S
