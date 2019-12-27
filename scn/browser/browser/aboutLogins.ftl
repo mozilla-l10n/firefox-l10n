@@ -5,6 +5,7 @@
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-subtitle = Nzìtati l'appricazziuni { -lockwise-brand-name } a gratis
 fxaccounts-sign-in-button = Trasi nne { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gistisci cuntu

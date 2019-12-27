@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Cca cci su' i liuna!
-about-config-warning-text = Canciari sti mpustazziuna avanzati po èssiri piriculusu pâ stabbilità, pâ sicurizza e pî pristazziuna di sta applicazziuni. Cuntinua sulu si sì sicuru di zoccu fai.
+about-config-warning-text = Canciari sti mpustazziuna avanzati po èssiri piriculusu pâ stabbilità, pâ sicurizza e pî pristazziuna di st'appricazziuni. Cuntinua sulu si sì sicuru di soccu fai.
 about-config-warning-checkbox = Ncuètami arrè, pi fauri!
 about-config-warning-button = Accettu u rìsicu
 about-config2-title = Cunfijurazziuna avanzati

@@ -228,7 +228,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Prichi e applicazziuna
+files-and-applications-title = Prichi e appricazziuna
 download-header = Scarricamenti
 download-save-to =
     .label = Sarba prichi nne
@@ -247,8 +247,8 @@ download-choose-folder =
 download-always-ask-where =
     .label = Addumanna sempri unni sarbari i prichi
     .accesskey = A
-applications-header = Applicazziuna
-applications-description = Scegghi comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l'applicazziuna ca usi mentri nàvighi.
+applications-header = Appricazziuna
+applications-description = Scegghi comu { -brand-short-name } tratta i prichi ca scàrrichi dâ riti o l'appricazziuna ca usi mentri nàvighi.
 applications-filter =
     .placeholder = Cerca tipi di prichi o appricazziuna
 applications-type-column =
@@ -272,7 +272,7 @@ applications-use-app-default =
     .label = Usa { $app-name } (pridifinutu)
 applications-use-other =
     .label = Usa n'autra app…
-applications-select-helper = Scegghi applicazziuni sterna
+applications-select-helper = Scegghi appricazziuni sterna
 applications-always-ask =
     .label = Addumanna sempri
 applications-type-pdf = PDF (Furmatu di Ducumentu Purtàbbili)
