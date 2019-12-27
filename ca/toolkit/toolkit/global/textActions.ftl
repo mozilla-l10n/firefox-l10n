@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Desfés
     .accesskey = D
+text-action-redo =
+    .label = Refés
+    .accesskey = R
 text-action-cut =
     .label = Retalla
     .accesskey = t
