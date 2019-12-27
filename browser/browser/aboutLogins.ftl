@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = 搜尋登入資訊
 create-login-button = 新增登入資訊
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } 的網站圖示
 fxaccounts-sign-in-text = 在其他裝置上使用您的密碼
 fxaccounts-sign-in-button = 登入 { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -60,9 +55,6 @@ about-logins-login-list-empty-search-description = 沒有符合您搜尋條件�
 login-list-item-title-new-login = 新增登入資訊
 login-list-item-subtitle-new-login = 請輸入您的登入帳密
 login-list-item-subtitle-missing-username = （無使用者名稱）
-about-logins-list-item-warning-icon =
-    .alt = 警告圖示
-    .title = 網站發生過資料外洩事件
 about-logins-list-item-breach-icon =
     .title = 發生資料外洩事件的網站
 
@@ -95,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = 顯示密碼
 login-item-password-reveal-checkbox-hide =
     .title = 隱藏密碼
+login-item-password-reveal-checkbox =
+    .aria-label = 顯示密碼
 login-item-copy-password-button-text = 複製
 login-item-copied-password-button-text = 已複製！
 login-item-save-changes-button = 儲存變更
@@ -152,11 +146,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = 使用該使用者名稱的 { $loginTitle } 項目已經存在。
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
