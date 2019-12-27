@@ -1,7 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
-   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY fileExceedsQuota.title   "Hightail">
-<!ENTITY fileExceedsQuota.storageLimitReached   "Đạt giới hạn lưu trữ">
-<!ENTITY fileExceedsQuota.description "Bạn đã đạt đến giới hạn lưu trữ tài khoản là 2GB.">
-<!ENTITY fileExceedsQuota.description1 "Mức sử dụng bộ nhớ hiện tại của bạn là #XXX GB.">
