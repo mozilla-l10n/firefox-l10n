@@ -5,6 +5,9 @@
 text-action-undo =
     .label = 元に戻す
     .accesskey = U
+text-action-redo =
+    .label = やり直し
+    .accesskey = R
 text-action-cut =
     .label = 切り取り
     .accesskey = t
