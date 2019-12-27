@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Søk innloggingar
 create-login-button = Lag ny innlogging
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon for { $title }
 fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Ingen resultat passar med sø
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsopplysningar
 login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
-about-logins-list-item-warning-icon =
-    .alt = Åtvaringsikon
-    .title = Nettstad med datalekkasje
 about-logins-list-item-breach-icon =
     .title = Nettstad med datalekkasje
 
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Vis passord
 login-item-password-reveal-checkbox-hide =
     .title = Gøym passord
+login-item-password-reveal-checkbox =
+    .aria-label = Vis passord
 login-item-copy-password-button-text = Kopier
 login-item-copied-password-button-text = Kopiert!
 login-item-save-changes-button = Lagre endringar
@@ -153,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Ei oppføring for { $loginTitle } med dette brukarnamnet finst allereie.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
