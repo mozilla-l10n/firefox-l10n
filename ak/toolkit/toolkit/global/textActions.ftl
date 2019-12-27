@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Nnyɛ
     .accesskey = y
+text-action-redo =
+    .label = Yɛ bio
+    .accesskey = b
 text-action-cut =
     .label = Twa
     .accesskey = T
