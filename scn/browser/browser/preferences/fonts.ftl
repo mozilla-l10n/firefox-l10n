@@ -94,7 +94,7 @@ fonts-minsize = Diminziuni mìnima dû caràttiri
 fonts-minsize-none =
     .label = Nuḍḍu
 fonts-allow-own =
-    .label = Pirmetti ê pàggini di scègghiri lu so caràttiri mmeci dî to scigghiuti supra
+    .label = Pirmetti ê pàggini di scègghiri u so caràttiri mmeci dî to scigghiuti supra
     .accesskey = A
 
 ## Text Encodings
@@ -103,7 +103,7 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = Cudìfica testu pi cuntinutu datatu
-fonts-languages-fallback-desc = Sta cudìfica testu veni usata pû cuntinutu datatu ca nun arrinesci a cumunicari la so cudìfica.
+fonts-languages-fallback-desc = Sta cudìfica testu veni usata pû cuntinutu datatu ca nun arrinesci a cumunicari a so cudìfica.
 fonts-languages-fallback-label = Cudìfica testu di riserba
     .accesskey = T
 fonts-languages-fallback-name-auto =
@@ -138,9 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vitnamisi
 fonts-languages-fallback-name-other =
     .label = Autru (nchiusu Europa Uccidintali)
-fonts-very-large-warning-title = Mìnimu granni dâ diminziuni dû caràttiri
-fonts-very-large-warning-message = Scigghisti un mìnimu assai granni pâ diminziuni dû caràttiri (cchiù assai di 24 pixel). Chistu putissi rènniri diffìcili o mpussìbbili usari certi paggini mpurtanti di cunfijurazziuni comu a chista.
-fonts-very-large-warning-accept = Teni li me canci lu stissu accussì
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

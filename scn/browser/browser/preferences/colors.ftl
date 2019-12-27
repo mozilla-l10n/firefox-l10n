@@ -11,7 +11,7 @@ colors-window =
         }
 colors-close-key =
     .key = w
-colors-page-override = Gnora li culura spicificati dâ pàggina chî to scigghiuti supra
+colors-page-override = Gnora i culura spicificati dâ pàggina chî to scigghiuti supra
     .accesskey = O
 colors-page-override-option-always =
     .label = Sempri
@@ -28,7 +28,7 @@ colors-use-system =
     .label = Usa culura di sistema
     .accesskey = s
 colors-underline-links =
-    .label = Suttalinia li lijami
+    .label = Suttalinia i lijami
     .accesskey = U
 colors-links-header = Culura lijami
 colors-unvisited-links = Lijami nun visitati

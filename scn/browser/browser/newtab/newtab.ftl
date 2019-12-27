@@ -91,7 +91,7 @@ newtab-menu-remove-download = Cancella dâ cronuluggìa
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
-newtab-label-bookmarked = Nnî nzingalibbri
+newtab-label-bookmarked = Nnê nzingalibbri
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

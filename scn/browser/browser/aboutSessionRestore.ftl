@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restore-page-tab-title = Riprìstina la sissiuni
+restore-page-tab-title = Riprìstina a sissiuni
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Scusa. Stamu avennu prubblemi pi ripigghiari i to pàggini.
-restore-page-problem-desc = Stamu avennu prubblemi pi ripristinari la to ùrtima sissiuni di navigazziuni. Scegghi Riprìstina sissiuni pi ripruvari.
+restore-page-problem-desc = Stamu avennu prubblemi pi ripristinari a to ùrtima sissiuni di navigazziuni. Scegghi Riprìstina sissiuni pi ripruvari.
 restore-page-try-this = Ancora nun arrinesci a ripristinari a to sissiuni? Certi voti è na scheda ca causa stu prubblema. Talìa i schedi pricidenti, leva a spunta dî schedi ca nun ti sèrbinu ripristinati, e poi riprìstina.
 restore-page-hide-tabs = Ammuccia i schedi pricidenti
 restore-page-show-tabs = Vidi i schedi pricidenti
@@ -21,7 +21,7 @@ restore-page-restore-header =
 restore-page-list-header =
     .label = Finestri e schedi
 restore-page-try-again-button =
-    .label = Riprìstina la sissiuni
+    .label = Riprìstina a sissiuni
     .accesskey = R
 restore-page-close-button =
     .label = Accumincia na nova sissiuni

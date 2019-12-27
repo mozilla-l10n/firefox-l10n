@@ -4,3 +4,9 @@
 
 translation-close-key =
     .key = w
+translation-languages-button-remove-all =
+    .label = Leva tutti i lingui
+    .accesskey = t
+translation-sites-button-remove-all =
+    .label = Leva tutti i siti
+    .accesskey = v

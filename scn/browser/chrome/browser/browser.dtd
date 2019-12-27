@@ -35,8 +35,8 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "L">
-<!ENTITY  sendPageToDevice.label             "Manna la pàggina nna l'apparecchiu">
-<!ENTITY  sendLinkToDevice.label             "Manna lu lijami nna l'apparecchiu">
+<!ENTITY  sendPageToDevice.label             "Manna a pàggina nna l'apparecchiu">
+<!ENTITY  sendLinkToDevice.label             "Manna u lijami nna l'apparecchiu">
 <!ENTITY  undoCloseTab.label                 "Sfai Chiuji scheda">
 <!ENTITY  undoCloseTab.accesskey             "S">
 
@@ -51,6 +51,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Rapi pricu…">
 <!ENTITY openFileCmd.accesskey "G">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printPreviewCmd.label "Ammustra a visuali prima di pubbricari">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
@@ -92,14 +93,14 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Mustra tutti li schedi">
+<!ENTITY showAllTabsCmd.label "Mustra tutti i schedi">
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Trasi nne &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Rapi i prifirenzi di &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Cullégati arredi cu &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Virífica lu to' cuntu">
+<!ENTITY fxaSignInError.label "Cullègati arrè cu &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Virífica u to' cuntu">
 
 
  <!-- } is above this key on many keyboards -->
@@ -149,6 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "pigghiau cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.">
+<!ENTITY pointerlockWarning.generic.label "Sta pàggini teni cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.">
 
 <!ENTITY closeWindow.label "Chiudi finestra">
 <!ENTITY closeWindow.accesskey "d">
@@ -159,20 +162,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Cancia stu nzingalibbru">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "Agghiunci tutti li schedi a li nzingalibbri…">
+<!ENTITY addCurPagesCmd.label "Agghiunci tutti i schedi nnê nzingalibbri…">
 
-<!ENTITY showAllBookmarks2.label "Mustra tutti li nzingalibbri">
-<!ENTITY otherBookmarksCmd.label "Àutri nzingalibbri">
-<!ENTITY mobileBookmarksCmd.label "Nzingalibbri dû smarfu">
-<!ENTITY bookmarksToolbarChevron.tooltip "Mustra cchiú nzingalibbri">
+<!ENTITY showAllBookmarks2.label "Mustra tutti i nzingalibbri">
+<!ENTITY otherBookmarksCmd.label "Autri nzingalibbri">
+<!ENTITY mobileBookmarksCmd.label "Nzingalibbri dû cillulari">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mustra cchiù nzingalibbri">
 
-<!ENTITY backCmd.label                "Nn'arredi">
+<!ENTITY backCmd.label                "Nn'arrè">
 <!ENTITY backCmd.accesskey            "a">
-<!ENTITY backButton.tooltip           "Vai na pàggina nn'arredi">
+<!ENTITY backButton.tooltip           "Vai na pàggina nn'arrè">
 <!ENTITY forwardCmd.label             "Avanti">
 <!ENTITY forwardButton.tooltip        "Vai avanti di na pàggina">
 <!ENTITY backForwardButtonMenu.tooltip "Ammacca u buttuni a dritta o tira sutta pi mustrari a cronuluggìa">
-<!ENTITY reloadCmd.label              "Càrrica arredi">
+<!ENTITY reloadCmd.label              "Càrrica arrè">
 <!ENTITY reloadCmd.accesskey          "C">
 
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -182,10 +185,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Diriggi usannu u tò micròfunu cu stu situ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Diriggi usannu i toi finestri o tila cu stu situ">
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduci sta pàggina">
 
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Nzirrasti a to màchina fotugràfica pi stu situ.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Nzirrasti u to micròfunu pi stu situ.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Pruibbisti u ricèviri di nutizzî pi stu situ.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra cronuluggìa">
@@ -198,17 +206,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Nzingalibbri">
-<!ENTITY bookmarksMenuButton2.label         "Menú nzingalibbri">
-<!ENTITY bookmarksMenuButton.other.label    "Àutri nzingalibbri">
-<!ENTITY bookmarksMenuButton.mobile.label   "Nzingalibbri dû smarfu">
-<!ENTITY viewBookmarksSidebar2.label        "Talìa la sbarra di fajanca di nzingalibbri">
-<!ENTITY hideBookmarksSidebar.label         "Ammuccia la sbarra di fajanca di nzingalibbri">
-<!ENTITY viewBookmarksToolbar.label         "Talía sbarra dî nzingalibbri">
-<!ENTITY hideBookmarksToolbar.label         "Ammuccia la sbarra dî nzingalibbri">
-<!ENTITY searchBookmarks.label              "Cerca nzingalibbri">
+<!ENTITY bookmarksMenuButton2.label         "Minù nzingalibbri">
+<!ENTITY bookmarksMenuButton.other.label    "Autri nzingalibbri">
+<!ENTITY bookmarksMenuButton.mobile.label   "Nzingalibbri dû cillulari">
+<!ENTITY viewBookmarksSidebar2.label        "Talìa a sbarra di ciancu dî nzingalibbri">
+<!ENTITY hideBookmarksSidebar.label         "Ammuccia a sbarra di ciancu dî nzingalibbri">
+<!ENTITY viewBookmarksToolbar.label         "Talìa sbarra dî nzingalibbri">
+<!ENTITY hideBookmarksToolbar.label         "Ammuccia a sbarra dî nzingalibbri">
+<!ENTITY searchBookmarks.label              "Cerca nnê nzingalibbri">
 <!ENTITY bookmarkingTools.label             "Strummenta pi nzingari">
-<!ENTITY addBookmarksMenu.label             "Agghiunci lu menú dî nzingalibbri â sbarra dî strummenta">
-<!ENTITY removeBookmarksMenu.label          "Leva lu menú dî nzingalibbri dâ sbarra dî strummenta">
+<!ENTITY addBookmarksMenu.label             "Agghiunci u minù dî nzingalibbri â sbarra dî strummenta">
+<!ENTITY removeBookmarksMenu.label          "Leva u minù dî nzingalibbri dâ sbarra dî strummenta">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -282,7 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewCustomizeToolbar.label       "Pirsunalizza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza la sbarra dî strummenta…">
+<!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza a sbarra dî strummenta…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Cronuluggìa">
@@ -314,15 +322,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Mustra tuttu">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Mustra tutti i schedi di st'apparecchiu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Appiccia a sync dî schedi pi taliari na lista dî schedi di l'àutri apparecchi mòbbili toi.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Voi taliari ccà i toi schedi di l'àutri apparecchi mòbbili?">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi taliari na lista dî schedi di l'àutri apparecchi toi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Lu to' cuntu àvi a èssiri virificatu.">
 <!ENTITY appMenuRemoteTabs.signin.label "Trasi nne Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Trasi nne &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Talìa a sbarra di fajanca dî schedi syncati">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strummenta">
@@ -351,7 +363,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggirimentu:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cancia li prifirenzi…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cancia i prifirenzi…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
@@ -382,6 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchSubmit.tooltip  "Avanza a ricerca">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -409,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Cerca nta na nova scheda">
 <!ENTITY searchInNewTab.accesskey     "n">
+<!ENTITY searchSetAsDefault.label     "Spicìfica comu u muturi di ricerca prifirutu">
 
 <!ENTITY openLinkCmdInTab.label       "Rapi u ligami nta na scheda nova">
 
@@ -429,19 +443,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
 
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Càrrica arredi lu quatru">
+<!ENTITY reloadFrameCmd.label         "Càrrica arrè u quatru">
 <!ENTITY reloadFrameCmd.accesskey     "C">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Talía la funti dâ silizziuni">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Talía a funti dâ silizziuni">
 <!ENTITY viewPartialSourceCmd.accesskey "f">
-<!ENTITY viewPageSourceCmd.label      "Talía la funti dâ pàggina">
+<!ENTITY viewPageSourceCmd.label      "Talía a funti dâ pàggina">
 <!ENTITY viewPageSourceCmd.accesskey  "T">
-<!ENTITY viewFrameSourceCmd.label     "Talía la funti dû quatru">
+<!ENTITY viewFrameSourceCmd.label     "Talía a funti dû quatru">
 <!ENTITY viewFrameSourceCmd.accesskey "T">
 <!ENTITY viewPageInfoCmd.label        "Nfurmazziuna dâ pàggina">
 <!ENTITY viewPageInfoCmd.accesskey    "N">
 <!ENTITY viewFrameInfoCmd.label       "Nfurmazziuna dû quatru">
 <!ENTITY viewFrameInfoCmd.accesskey   "N">
-<!ENTITY reloadImageCmd.label         "Càrrica arredi mmàggini">
+<!ENTITY reloadImageCmd.label         "Càrrica arrè mmàggini">
 <!ENTITY reloadImageCmd.accesskey     "C">
 <!ENTITY viewImageCmd.label           "Talía mmàggini">
 <!ENTITY viewImageCmd.accesskey       "i">
@@ -450,39 +464,47 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.label       "Talìa discrizziuni">
 <!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Talía vídiu">
+<!ENTITY viewBGImageCmd.label         "Talía a mmàggini ô funnu">
 <!ENTITY bookmarkPageCmd2.label       "Nzinga sta pàggina">
 <!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
 <!ENTITY bookmarkThisFrameCmd.label      "Nzinga stu quatru">
-<!ENTITY pageAction.copyLink.label    "Copia lu lijami">
+<!ENTITY pageAction.copyLink.label    "Copia u lijami">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.label            "Sarba la pàggina comu…">
+<!ENTITY savePageCmd.label            "Sarba a pàggina comu…">
 <!ENTITY savePageCmd.accesskey        "c">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Sarba lu quatru comu…">
+<!ENTITY saveFrameCmd.label           "Sarba u quatru comu…">
 <!ENTITY saveFrameCmd.accesskey       "q">
-<!ENTITY saveLinkCmd.label            "Sarba lu lijami comu…">
+<!ENTITY printFrameCmd.label          "Pùbbrica u quatru…">
+<!ENTITY saveLinkCmd.label            "Sarba u lijami comu…">
 <!ENTITY saveLinkCmd.accesskey        "j">
-<!ENTITY saveImageCmd.label           "Sarba la mmàggini comu…">
+<!ENTITY saveImageCmd.label           "Sarba a mmàggini comu…">
 <!ENTITY saveImageCmd.accesskey       "r">
-<!ENTITY saveVideoCmd.label           "Sarba lu vídiu comu…">
+<!ENTITY saveVideoCmd.label           "Sarba u vídiu comu…">
 <!ENTITY saveVideoCmd.accesskey       "r">
-<!ENTITY saveAudioCmd.label           "Sarba lu sonu comu…">
+<!ENTITY saveAudioCmd.label           "Sarba u sonu comu…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY emailImageCmd.label          "Manna la mmàggini…">
+<!ENTITY emailImageCmd.label          "Manna a mmàggini…">
 <!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "Manna u vídiu…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Manna lu sonu…">
+<!ENTITY emailAudioCmd.label          "Manna u sonu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY copyLinkCmd.label            "Copia u locu dû lijami">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
-<!ENTITY copyImageContentsCmd.label   "Copia la mmàggini">
+<!ENTITY copyImageCmd.label           "Copia u locu dâ mmàggini">
+<!ENTITY copyImageContentsCmd.label   "Copia a mmàggini">
+<!ENTITY copyVideoURLCmd.label        "Copia u locu dû vidiu">
+<!ENTITY copyAudioURLCmd.label        "Copia u locu dû sonu">
+<!ENTITY copyEmailCmd.label           "Copia u nnirizzu email">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -502,6 +524,7 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Mustra i cummani">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -525,10 +548,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY fullZoomToggleCmd.label        "Larghija sulu u testu">
 
 
-<!ENTITY sidebarCloseButton.tooltip     "Chiudi la sbarra di ciancu">
-<!ENTITY sidebarMenuClose.label         "Chiudi la sbarra di ciancu">
+<!ENTITY sidebarCloseButton.tooltip     "Chiudi a sbarra di ciancu">
+<!ENTITY sidebarMenuClose.label         "Chiudi a sbarra di ciancu">
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -544,12 +568,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Cancia i prifirenzi di nzirraturi dî popup…">
 <!ENTITY editPopupSettings.label "Cancia l'uzziuni di nzirraturi dî popup…">
 
 
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Cerca arrè">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
@@ -563,29 +589,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 
+<!ENTITY identity.connectionNotSecure "A cunnissioni nun e' sicura">
 
+<!ENTITY identity.insecureLoginForms2 "I firmati scritti nta sta pàggina cùrrinu rìsicu.">
 
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeLoaded "Disabbilitasti la prutizziuni nta sta pàggina.">
+<!ENTITY identity.passiveLoaded "Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).">
+<!ENTITY identity.activeLoaded "Disabbilitasti a prutizziuni nta sta pàggina.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "La cunnissioni a stu situ nun e' privata.  Nfurmazziuni chi cci scrivi ccà pò èssiri viduta d'àutri (comu palori d'òrdini, missaggi, carti di crèdditu, ecc.).">
-<!ENTITY identity.description.insecureLoginForms "La nfurmazziuni d'accuminzagghia chi cci metti nta sta pàggina nun e' sicura si pò èssiri  siquistrata.">
-<!ENTITY identity.description.weakCipher2 "Àutri ponnu vìdiri la to nfurmazziuni e/o canciari lu cumpurtamentu dû situ web.">
-<!ENTITY identity.description.passiveLoaded "La to cunnissioni nun e' privata e ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri.">
-<!ENTITY identity.description.activeLoaded2 "Ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri (comu li palori d'òrdini, missaggi , carti di crèdditu, ecc.).">
+<!ENTITY identity.description.insecure "A cunnissioni a stu situ nun e' privata.  Nfurmazziuni chi cci scrivi ccà pò èssiri viduta d'àutri (comu palori d'òrdini, missaggi, carti di crèdditu, ecc.).">
+<!ENTITY identity.description.insecureLoginForms "A nfurmazziuni d'accuminzagghia chi cci metti nta sta pàggina nun e' sicura si pò èssiri  siquistrata.">
+<!ENTITY identity.description.weakCipher "A to cunnissioni usa u cifrariu fraccu e nun e' privata.">
+<!ENTITY identity.description.weakCipher2 "Àutri ponnu vìdiri a to nfurmazziuni e/o canciari u cumpurtamentu dû situ web.">
+<!ENTITY identity.description.passiveLoaded "A to cunnissioni nun e' privata e ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri.">
+<!ENTITY identity.description.passiveLoaded2 "Stu situ cunteni zoccu nun e' sicuru (comu i mmàggini).">
+<!ENTITY identity.description.passiveLoaded3 "Puru ca &brandShortName; nzirrau parti dû cuntinutu, ancora s'arrèsta cuntinutu supra sta pàggina chi nun e' sicuru (comu i mmàggini).">
+<!ENTITY identity.description.activeLoaded "Stu zitu cunteni zoccu nun e' sicuru (comu i scritti) e a to cunnissioni nun e' privata.">
+<!ENTITY identity.description.activeLoaded2 "Ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri (comu i palori d'òrdini, missaggi , carti di crèdditu, ecc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Arma â prutizziuni">
 <!ENTITY identity.disableMixedContentBlocking.label "P'accamora disarma prutizziuni">
 <!ENTITY identity.learnMore "Cchiù nfurmazziuna">
 
-<!ENTITY identity.removeCertException.label "Lèvacci la ccizziuni">
+<!ENTITY identity.removeCertException.label "Lèvacci a ccizziuni">
 
 <!ENTITY identity.moreInfoLinkText2 "Cchiú nfurmazziuni">
 
 
 
+<!ENTITY identity.permissionsReloadHint "Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.">
 
 
 <!-- LOCALIZATION NOTE:
@@ -624,7 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.label "Màchina di fotu pi cullabburazziuni:">
 <!ENTITY getUserMedia.selectMicrophone.label "Micròfunu pi cullabburazziuni:">
 <!ENTITY getUserMedia.audioCapture.label "Lu sonu di sta scheda e' pi cullabburazziuni.">
-<!ENTITY getUserMedia.allWindowsShared.message "Tutti li finestri visìbbili sunnu pi cullabburazziuni.">
+<!ENTITY getUserMedia.allWindowsShared.message "Tutti i finestri visìbbili sunnu pi cullabburazziuni.">
 
 
 
@@ -664,6 +698,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
+<!ENTITY newTabControlled.header.message "A to nova scheda si canciau.">
+<!ENTITY newTabControlled.keepButton.label "Riteni i canciamenti">
 
 
 

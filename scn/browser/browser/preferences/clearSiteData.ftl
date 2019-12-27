@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Cancella dati
     .style = width: 35em
-clear-site-data-description = Cancillari tutti li cookie e li sati sarbati nne { -brand-short-name } ti putissi fari nèsciri dî siti e putissi livari cuntinuti di riti fora-linia. Cancillari lu dipòsitu dati nun nfruinzarà li to accessi.
+clear-site-data-description = Cancillari tutti i cookie e i sati sarbati nne { -brand-short-name } ti putissi fari nèsciri dî siti e putissi livari cuntinuti di riti fora-linia. Cancillari u dipòsitu dati nun nfruinzarà i to accessi.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -41,7 +41,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Cuntinutu di riti dipusitatu
     .accesskey = W
-clear-site-data-cache-info = Cci sarà bisognu ca li siti ricàrricanu mmàggini e dati
+clear-site-data-cache-info = Cci sarà bisognu ca i siti ricàrricanu mmàggini e dati
 clear-site-data-cancel =
     .label = Fai sfalliri
     .accesskey = F

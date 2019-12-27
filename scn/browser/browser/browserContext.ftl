@@ -6,8 +6,8 @@
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Vai na pàggina nn'arredi
-    .aria-label = Nn'arredi
+    .tooltiptext = Vai na pàggina nn'arrè
+    .aria-label = Nn'arrè
     .accesskey = a
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
@@ -24,7 +24,7 @@ toolbar-button-forward =
 ## Reload
 
 main-context-menu-reload =
-    .aria-label = Càrrica arredi
+    .aria-label = Càrrica arrè
     .accesskey = C
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
@@ -68,7 +68,7 @@ main-context-menu-bookmark-this-link =
     .label = Agghiunci stu lijami nnê nzingalibbri
     .accesskey = z
 main-context-menu-save-link =
-    .label = Sarba lu lijami comu…
+    .label = Sarba u lijami comu…
     .accesskey = j
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
@@ -93,16 +93,16 @@ main-context-menu-save-link =
 
 
 main-context-menu-image-reload =
-    .label = Càrrica arredi mmàggini
-    .accesskey = C
+    .label = Càrrica arrè mmàggini
+    .accesskey = m
 main-context-menu-image-view =
     .label = Talía mmàggini
     .accesskey = i
 main-context-menu-image-save-as =
-    .label = Sarba la mmàggini comu…
+    .label = Sarba a mmàggini comu…
     .accesskey = r
 main-context-menu-image-email =
-    .label = Manna la mmàggini…
+    .label = Manna a mmàggini…
     .accesskey = g
 main-context-menu-image-info =
     .label = Nfurmazziuna dâ mmàggini
@@ -111,13 +111,13 @@ main-context-menu-image-desc =
     .label = Talìa discrizziuni
     .accesskey = d
 main-context-menu-video-save-as =
-    .label = Sarba lu vídiu comu…
+    .label = Sarba u vídiu comu…
     .accesskey = r
 main-context-menu-audio-save-as =
-    .label = Sarba lu sonu comu…
+    .label = Sarba u sonu comu…
     .accesskey = r
 main-context-menu-audio-email =
-    .label = Manna lu sonu…
+    .label = Manna u sonu…
     .accesskey = a
 main-context-menu-frame =
     .label = Stu quatru
@@ -132,22 +132,22 @@ main-context-menu-frame-open-window =
     .label = Rapi u quatru nta na finestra nova
     .accesskey = f
 main-context-menu-frame-reload =
-    .label = Càrrica arredi lu quatru
-    .accesskey = C
+    .label = Càrrica arrè u quatru
+    .accesskey = q
 main-context-menu-frame-save-as =
-    .label = Sarba lu quatru comu…
+    .label = Sarba u quatru comu…
     .accesskey = q
 main-context-menu-frame-view-source =
-    .label = Talía la funti dû quatru
+    .label = Talía a funti dû quatru
     .accesskey = T
 main-context-menu-frame-view-info =
     .label = Nfurmazziuna dû quatru
     .accesskey = N
 main-context-menu-view-selection-source =
-    .label = Talía la funti dâ silizziuni
+    .label = Talía a funti dâ silizziuni
     .accesskey = f
 main-context-menu-view-page-source =
-    .label = Talía la funti dâ pàggina
+    .label = Talía a funti dâ pàggina
     .accesskey = T
 main-context-menu-view-page-info =
     .label = Nfurmazziuna dâ pàggina

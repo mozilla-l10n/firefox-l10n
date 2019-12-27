@@ -4,13 +4,14 @@
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Libbrarìa">
-<!ENTITY organize.tooltip      "Duna na sistimata a li to' nzingalibbri">
+<!ENTITY organize.tooltip      "Urganizza i to nzingalibbri">
 
 <!ENTITY file.close.label               "Chiudi">
 <!ENTITY cmd.close.key                  "w">
+<!ENTITY views.tooltip                  "Cancia a to viduta">
 
-<!ENTITY importBookmarksFromHTML.label     "Pigghia nzingalibbri da HTML…">
-<!ENTITY exportBookmarksToHTML.label       "Poia nzingalibbri na HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Pigghia nzingalibbri nnô furmatu HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Sarba nzingalibbri nnô furmatu HTML…">
 <!ENTITY importOtherBrowser.label          "Pigghia nfurmazziuni di n'àutru navicaturi…">
 
 
@@ -28,11 +29,11 @@
 
 <!ENTITY col.dateadded.label     "Agghiunciutu">
 
-<!ENTITY bookmarksSearch.placeholder  "Cerca nzingalibbri">
+<!ENTITY bookmarksSearch.placeholder  "Cerca nnê nzingalibbri">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.tooltip    "Pigghia e sarba na copia di riserva pi to nzingalibbri">
+<!ENTITY maintenance.tooltip    "Pigghia e sarba na copia di sicurizza dî to nzingalibbri">
 
 
 

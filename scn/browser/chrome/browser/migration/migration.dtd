@@ -7,7 +7,7 @@
 
 <!ENTITY importFrom.label               "Pigghia i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
 <!ENTITY importFromUnix.label           "Pigghia i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
-<!ENTITY importFromBookmarks.label      "Pigghia li nzingalibbri di:">
+<!ENTITY importFromBookmarks.label      "Pigghia i nzingalibbri di:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -37,8 +37,9 @@
 <!ENTITY migrating.title                "Staju mpurtannu…">
 <!ENTITY migrating.label                "Staju mpurtannu sti cosi…">
 
-<!ENTITY selectProfile.title            "Scegghi lu profilu">
+<!ENTITY selectProfile.title            "Scegghi u profilu">
+<!ENTITY selectProfile.label            "Chisti sunu i profila ca poi scègghiri:">
 
-<!ENTITY done.label                     "Chisti sunnu li cosi ca potti pigghiari:">
+<!ENTITY done.label                     "Chisti sunnu i cosi ca potti pigghiari:">
 
-<!ENTITY closeSourceBrowser.label       "Pi favuri vidi si lu navigaturi ca scigghisti fu chiusu prima di cuntinuari.">
+<!ENTITY closeSourceBrowser.label       "Pi favuri vidi si u navigaturi ca scigghisti fu chiusu prima di cuntinuari.">

@@ -8,4 +8,6 @@
                        some of the entire image will be on each monitor.
                        This should ideally match the wording in Windows' own
                        Desktop Background settings page. -->
+<!ENTITY setDesktopBackground.title "Spicìfica comu u funnu dû suprascagnu">
+<!ENTITY openDesktopPrefs.label     "Grapi i prifirenzi dû suprascagnu">
 <!ENTITY closeWindow.key            "w">

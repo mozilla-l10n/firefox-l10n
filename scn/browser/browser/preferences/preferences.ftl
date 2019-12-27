@@ -492,7 +492,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Barra di ricerca
 search-bar-hidden =
-    .label = Usa la barra dû nnirizzu pi ricerca e navigazziuni
+    .label = Usa a barra dû nnirizzu pi ricerca e navigazziuni
 search-bar-shown =
     .label = Agghiunci barra di ricerca nnâ barra dî strumenti
 search-engine-default-header = Muturi di ricerca pridifinutu
@@ -723,18 +723,18 @@ history-header = Cronuluggìa
 history-remember-label = { -brand-short-name } po
     .accesskey = p
 history-remember-option-all =
-    .label = Ricorda la cronuluggìa
+    .label = Ricorda a cronuluggìa
 history-remember-option-never =
-    .label = Nun ricurdari mai la cronuluggìa
+    .label = Nun ricurdari mai a cronuluggìa
 history-remember-option-custom =
     .label = Usa mpustazziuna pirsunalizzati pâ cronuluggìa
-history-remember-description = { -brand-short-name } ricurdarà la to navigazziuni, li scarricamenti, li mòduli e la cronuluggìa di ricerca.
-history-dontremember-description = { -brand-short-name } usarà li stissi mpustazziuna pâ navigazziuni privata, e nun ricurdarà nuḍḍa cronuluggìa mentri nàvighi nnâ Riti.
+history-remember-description = { -brand-short-name } ricurdarà a to navigazziuni, i scarricamenti, i mòduli e a cronuluggìa di ricerca.
+history-dontremember-description = { -brand-short-name } usarà i stissi mpustazziuna pâ navigazziuni privata, e nun ricurdarà nuḍḍa cronuluggìa mentri nàvighi nnâ Riti.
 history-private-browsing-permanent =
-    .label = Usa sempri la mudalità di navigazziuni privata
+    .label = Usa sempri a mudalità di navigazziuni privata
     .accesskey = p
 history-remember-browser-option =
-    .label = Ricorda la cronuluggìa di navigazziuni e scarricamenti
+    .label = Ricorda a cronuluggìa di navigazziuni e scarricamenti
     .accesskey = b
 history-remember-search-option =
     .label = Ricorda cronuluggìa di ricerca e mòduli
@@ -756,17 +756,17 @@ sitedata-total-size-calculating = Staju carculannu i diminziuna dî dati dî sit
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Li cookie, li dati dî siti, e lu dipòsitu sarbati a stu mumentu ùsanu { $value } { $unit } di spazziu nnô discu.
+sitedata-total-size = I cookie, i dati dî siti, e u dipòsitu sarbati a stu mumentu ùsanu { $value } { $unit } di spazziu nnô discu.
 sitedata-learn-more = Cchiù nfurmazziuna
 sitedata-delete-on-close =
     .label = Cancella cookie e dati dî siti quannu { -brand-short-name } è chiusu
     .accesskey = k
-sitedata-delete-on-close-private-browsing = Câ navigazziuni privata pirmanenti, li cookie e li dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiusu.
+sitedata-delete-on-close-private-browsing = Câ navigazziuni privata pirmanenti, i cookie e i dati dî siti vennu sempri cancillati quannu { -brand-short-name } veni chiusu.
 sitedata-allow-cookies-option =
-    .label = Accetta li cookie e li dati dî siti
+    .label = Accetta i cookie e i dati dî siti
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = Blocca li cookie e li dati dî siti
+    .label = Blocca i cookie e i dati dî siti
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -777,9 +777,9 @@ sitedata-option-block-trackers =
 sitedata-option-block-unvisited =
     .label = Cookie di siti nun visitati
 sitedata-option-block-all-third-party =
-    .label = Tutti li cookie di terzi parti (putissi fari ncippari li siti)
+    .label = Tutti i cookie di terzi parti (putissi fari ncippari i siti)
 sitedata-option-block-all =
-    .label = Tutti li cookie (farà ncippari li siti)
+    .label = Tutti i cookie (farà ncippari i siti)
 sitedata-clear =
     .label = Cancella dati…
     .accesskey = l
@@ -793,7 +793,7 @@ sitedata-cookies-permissions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra dû nnirizzu
-addressbar-suggest = Quannu si usa la barra dû nnirizzu, duna suggirimenti
+addressbar-suggest = Quannu si usa a barra dû nnirizzu, duna suggirimenti
 addressbar-locbar-history-option =
     .label = Cronuluggìa di navigazziuni
     .accesskey = C
@@ -803,12 +803,12 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Schedi raputi
     .accesskey = S
-addressbar-suggestions-settings = Cancia li prifirenzi pî suggirimenti di muturi di ricerca
+addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi di ricerca
 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bluccaggiu di cuntinutu
-content-blocking-section-description = Pruteggi la to privatizza mentri nàvighi. Blocca li cuntinuti mmisìbbili ca tràzzanu li siti ca vìsiti e ti prufìlanu. Bluccari certi di sti cuntinuti ponnu fari carricari li pàggini cchiù lesti.
+content-blocking-section-description = Pruteggi a to privatizza mentri nàvighi. Blocca i cuntinuti mmisìbbili ca tràzzanu i siti ca vìsiti e ti prufìlanu. Bluccari certi di sti cuntinuti ponnu fari carricari i pàggini cchiù lesti.
 content-blocking-learn-more = Cchiù nfurmazziuna
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -821,7 +821,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Pirsunalizzatu
     .accesskey = C
-content-blocking-standard-desc = Valanzatu pi prutizziuni e pristazziuna. Pirmetti certi trazzatura pi fari funziunari li siti boni.
+content-blocking-standard-desc = Valanzatu pi prutizziuni e pristazziuna. Pirmetti certi trazzatura pi fari funziunari i siti boni.
 content-blocking-strict-description = Prutizziuni cchiù forti, putissi ncippari certi siti.
 content-blocking-custom-desc = Scegghi zoccu bluccari.
 content-blocking-private-trackers = Trazzatura canusciuti sulu nnê finestri privati
@@ -843,29 +843,29 @@ enhanced-tracking-protection-setting-custom =
 
 
 
-content-blocking-all-cookies = Tutti li cookie
+content-blocking-all-cookies = Tutti i cookie
 content-blocking-unvisited-cookies = Cookie di siti nun visitati
-content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti li finestri
-content-blocking-all-third-party-cookies = Tutti li cookie di terzi parti
+content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti i finestri
+content-blocking-all-third-party-cookies = Tutti i cookie di terzi parti
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d'urmi diggitali
 content-blocking-warning-title = Cumanna!
-content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari lu bloccu pî siti dî quali ti fidi.
+content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari u bloccu pî siti dî quali ti fidi.
 content-blocking-learn-how = Scopri comu
-content-blocking-reload-description = Ài a ricarricari li schedi p'appricari sti canciamenti.
+content-blocking-reload-description = Ài a ricarricari i schedi p'appricari sti canciamenti.
 content-blocking-reload-tabs-button =
-    .label = Ricàrrica tutti li schedi
+    .label = Ricàrrica tutti i schedi
     .accesskey = R
 content-blocking-trackers-label =
     .label = Trazzatura
     .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
-    .label = Nna tutti li finestri
+    .label = Nna tutti i finestri
     .accesskey = A
 content-blocking-option-private =
     .label = Sulu nnê finestri privati
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Cancia la lista dî blocchi
+content-blocking-tracking-protection-change-block-list = Cancia a lista dî blocchi
 content-blocking-cookies-label =
     .label = Cookie
     .accesskey = C
@@ -908,7 +908,7 @@ permissions-notification-settings =
     .accesskey = M
 permissions-notification-link = Cchiù nfurmazziuna
 permissions-notification-pause =
-    .label = Ferma li nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
+    .label = Ferma i nutìfichi nzinu a quannu { -brand-short-name } si riabbìa
     .accesskey = n
 permissions-block-autoplay-media2 =
     .label = Mpidisci ê siti di riprudùciri soni autumaticamenti
@@ -917,13 +917,13 @@ permissions-block-autoplay-media-exceptions =
     .label = Eccizziuna…
     .accesskey = E
 permissions-block-popups =
-    .label = Blocca li finestri autumàtichi
+    .label = Blocca i finestri autumàtichi
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = Eccizziuna…
     .accesskey = E
 permissions-addon-install-warning =
-    .label = T'abbisa quannu li siti cèrcanu di nstallari agghiuncitini
+    .label = T'abbisa quannu i siti cèrcanu di nstallari agghiuncitini
     .accesskey = W
 permissions-addon-exceptions =
     .label = Eccizziuna…
@@ -936,7 +936,7 @@ permissions-a11y-privacy-link = Cchiù nfurmazziuna
 ## Privacy Section - Data Collection
 
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
-collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e migghiurari { -brand-short-name } pi tutti. Dumannamu sempri lu pirmisu prima d'arricìviri nfurmazziuna pirsunali.
+collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e migghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmisu prima d'arricìviri nfurmazziuna pirsunali.
 collection-privacy-notice = Abbisi di privatizza
 collection-health-report-telemetry-disabled-link = Cchiù nfurmazziuna
 collection-health-report =
@@ -951,7 +951,7 @@ addon-recommendations =
 addon-recommendations-link = Cchiù nfurmazziuna
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = La signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta build
+collection-health-report-disabled = A signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta build
 collection-backlogged-crash-reports =
     .label = Pirmetti a { -brand-short-name } di mannari signalazziuna di ntirruzziun arritrati a nomu to
     .accesskey = c
@@ -969,7 +969,7 @@ security-enable-safe-browsing =
     .accesskey = B
 security-enable-safe-browsing-link = Cchiù nfurmazziuna
 security-block-downloads =
-    .label = Blocca li scarricamenti piriculusi
+    .label = Blocca i scarricamenti piriculusi
     .accesskey = d
 security-block-uncommon-software =
     .label = T'abbisa di prugrammi nun vuluti e nun cumuni
@@ -978,7 +978,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Cirtificati
-certs-personal-label = Quannu un sirburi dumanna lu to cirtificatu pirsunali
+certs-personal-label = Quannu un sirburi dumanna u to cirtificatu pirsunali
 certs-select-auto-option =
     .label = Scègghinni unu autumaticamenti
     .accesskey = S
@@ -1007,11 +1007,11 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } sta finennu lu spazziu nnô discu. Li cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari li dati sarbati nne Uzziuna > Privatizza e sicurizza > Cookie e dati dî siti.
-       *[other] { -brand-short-name } sta finennu lu spazziu nnô discu. Li cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari li dati sarbati nne Prifirenzi > Privatizza e sicurizza > Cookie e dati dî siti.
+        [windows] { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari i dati sarbati nne Uzziuna > Privatizza e sicurizza > Cookie e dati dî siti.
+       *[other] { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari i dati sarbati nne Prifirenzi > Privatizza e sicurizza > Cookie e dati dî siti.
     }
 space-alert-under-5gb-ok-button =
-    .label = D'accordu, lu capivu
+    .label = D'accordu, u capivu
     .accesskey = K
 
 ## The following strings are used in the Download section of settings

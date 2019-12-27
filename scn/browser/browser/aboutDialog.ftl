@@ -24,7 +24,7 @@ update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <labe
 update-restarting = Staju riabbiannu…
 channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .{ " " }
 warningDesc-version = { -brand-short-name } è sprimintali e putissi farsijari.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è na <label data-l10n-name="community-exp-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri la Riti lìbbira, pùbblica e accissìbbili a tutti.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è na <label data-l10n-name="community-exp-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.
 community-2 = { -brand-short-name } fu pruggittatu di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, na <label data-l10n-name="community-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.
 helpus = Ni vo' aiutari? <label data-l10n-name="helpus-donateLink">Fai na dunazziuni</label> o <label data-l10n-name="helpus-getInvolvedLink">jùnciti cu nuiautri!</label>
 bottomLinks-license = Nfurmazziuna dâ licenza

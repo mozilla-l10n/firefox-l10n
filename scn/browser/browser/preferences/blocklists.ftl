@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Lista dî bloccu
     .style = width: 55em
-blocklist-description = Scegghi la lista ca { -brand-short-name } usa pi firmari li trazzatura 'n linia. Li listu vennu furnuti di<a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
+blocklist-description = Scegghi a lista ca { -brand-short-name } usa pi firmari i trazzatura 'n linia. I listu vennu furnuti di<a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -27,4 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Lista di bloccu di liveḍḍu 1 (Raccumannatu).
 blocklist-item-moz-std-description = Cunzenti a certi trazzatura di tràsiri nna cchiù picca siti.
 blocklist-item-moz-full-listName = Lista di bloccu di liveḍḍu 2.
-blocklist-item-moz-full-description = Blocca tutti li trazzatura truvati. Certi siti o cuntinuti si putìssiru carricari mali.
+blocklist-item-moz-full-description = Blocca tutti i trazzatura truvati. Certi siti o cuntinuti si putìssiru carricari mali.

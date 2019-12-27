@@ -5,6 +5,8 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY retry.label "Riprova">
+<!ENTITY returnToPreviousPage.label "Vai nn'arrè">
 
 <!-- Specific error messages -->
 
@@ -60,6 +62,6 @@ was trying to connect. -->
 
 
 
-<!ENTITY prefReset.label "Arripigghia li principali mpustazziuni">
+<!ENTITY prefReset.label "Arripigghia i principali mpustazziuni">
 
 

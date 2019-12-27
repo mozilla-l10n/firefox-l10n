@@ -5,7 +5,7 @@
 search-header-shortcut =
     .key = f
 list-empty-button =
-    .label = Cchiú nfurmazziuni supra li agghiuncitini
+    .label = Cchiú nfurmazziuni supra i agghiuncitini
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =

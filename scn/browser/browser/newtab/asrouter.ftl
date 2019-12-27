@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-description = Trasi fàcili nnî siti ca usi cchiù assai.
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Ammacca cû tastu drittu</b> ncapu la scheda ca vo' fissari.
+cfr-doorhanger-pintab-step1 = <b>Ammacca cû tastu drittu</b> ncapu a scheda ca vo' fissari.
 cfr-doorhanger-pintab-step2 = Scegghi <b>Fissa scheda</b> dû minù.
 cfr-doorhanger-pintab-step3 = Si u situ àvi n'attualizzazziuni vidi un puntu blu ncapu â to scheda fissa.
 cfr-doorhanger-pintab-animation-pause = Pausa

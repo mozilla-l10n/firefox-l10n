@@ -17,9 +17,11 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.copyDownloadLink.label       "Copia lu lijami di scarricamentu">
+<!ENTITY cmd.showDownloads.label          "Mustra a carpetta di scarricamenti">
+<!ENTITY cmd.goToDownloadPage.label       "Vai A A Pàggina di i Scarricamenti">
+<!ENTITY cmd.copyDownloadLink.label       "Copia u lijami di scarricamentu">
 <!ENTITY cmd.removeFromHistory.label      "Cancella dâ cronuluggìa">
-<!ENTITY cmd.clearList2.label             "Annetta lu quatru di visualizzazziuni">
+<!ENTITY cmd.clearList2.label             "Annetta u quatru di visualizzazziuni">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
@@ -79,6 +81,7 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
+<!ENTITY downloadsHistory.label           "Mustra tutti i scarricamenti">
 
 <!-- LOCALIZATION NOTE (downloadDetails.label):
      This string is shown at the top of the Download Details Panel, to indicate
