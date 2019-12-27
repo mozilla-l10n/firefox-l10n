@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Desfer
     .accesskey = D
+text-action-redo =
+    .label = Refer
+    .accesskey = R
 text-action-cut =
     .label = Retallar
     .accesskey = t
