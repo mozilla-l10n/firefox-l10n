@@ -5,6 +5,9 @@
 text-action-undo =
     .label = ཕྱིར་འཐེན
     .accesskey = U
+text-action-redo =
+    .label = བསྐྱར་བཟོ
+    .accesskey = R
 text-action-cut =
     .label = གཅོད་པ
     .accesskey = t
