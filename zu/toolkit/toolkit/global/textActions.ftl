@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Susa okwenzile
     .accesskey = S
+text-action-redo =
+    .label = Buyisela okususile
+    .accesskey = B
 text-action-cut =
     .label = Sika
     .accesskey = k
