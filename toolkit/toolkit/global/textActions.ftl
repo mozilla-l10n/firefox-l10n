@@ -5,6 +5,9 @@
 text-action-undo =
     .label = დაბრუნება
     .accesskey = დ
+text-action-redo =
+    .label = კვლავ შესრულება
+    .accesskey = კ
 text-action-cut =
     .label = ამოჭრა
     .accesskey = ა
