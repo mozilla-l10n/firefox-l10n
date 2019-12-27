@@ -5,4 +5,4 @@
 select-bookmark-window =
     .title = Mposta pàggina masstra
     .style = width: 32em;
-select-bookmark-desc = Scegghi nu nzingalibbru comu Pàggina mastra. Siḍḍu scigghi na carpetta, i nzingalibbra di sta carpetta si ràpinu nnê Schedi.
+select-bookmark-desc = Scegghi nu nzingalibbru comu Pàggina mastra. Siḍḍu scigghi na carpetta, i nzingalibbri di sta carpetta si ràpinu nnê Schedi.

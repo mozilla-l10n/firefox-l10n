@@ -6,23 +6,15 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Postu:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "P">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Postu dî nutizzi:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "u">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Postu dû situ:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Carpetta:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostra tutti quanti li carpetti dî nzingalibbra">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostra tutti quanti li carpetti dî nzingalibbri">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ammuccia">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etichetti:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Sparti l'etichetti cu li virguli">
-<!ENTITY editBookmarkOverlay.description.label               "Discrizzioni:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Palora chiavi:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "h">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mostra tutti l'etichetti">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Càrrica stu nzingalibbru nnâ sbarra di ciancu">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "b">
 <!ENTITY editBookmarkOverlay.choose.label                    "Scegghi…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nova carpetta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "c">

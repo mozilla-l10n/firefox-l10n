@@ -5,7 +5,7 @@
 
 
 
-<!ENTITY  unsupportedLink.label           "cchiú nfurmazzioni.">
+<!ENTITY  unsupportedLink.label           "cchiú nfurmazziuni.">
 
 
 
@@ -16,7 +16,8 @@
                                            
                                            
 
+                                           
 
-
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 

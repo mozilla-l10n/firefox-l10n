@@ -118,10 +118,6 @@ search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name=
 ## General Section
 
 startup-header = Abbìu
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Pirmetti a { -brand-short-name } e Firefox di travagghiari nnô stissu mumentu
 use-firefox-sync = Cunzigghiu: chistu usa prufili spartuti. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
 get-started-not-logged-in = Trasi nne { -sync-brand-short-name }…
 get-started-configured = Rapi i prifirenzi di { -sync-brand-short-name }
@@ -228,7 +224,6 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Prichi e appricazziuna
 download-header = Scarricamenti
 download-save-to =
     .label = Sarba prichi nne
@@ -257,9 +252,6 @@ applications-type-column =
 applications-action-column =
     .label = Azziuni
     .accesskey = A
-# Variables:
-#   $extension (String) - file extension (e.g .TXT)
-applications-file-ending = pricu { $extension }
 applications-action-save =
     .label = Sarba pricu
 # Variables:
@@ -283,10 +275,6 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $extension (String) - file extension (e.g .TXT)
-#   $type (String) - the MIME type (e.g application/binary)
-applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -324,7 +312,7 @@ update-application-title = Attualizzazziuna di { -brand-short-name }
 update-application-description = Teni { -brand-short-name } attualizzatu p'aviri megghiu pristazziuna, stabbilità e sicurizza.
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su' i nuvità</a>
 update-history =
-    .label = Mustra crunuluggìa attualizzazziuna…
+    .label = Mustra cronuluggìa attualizzazziuna…
     .accesskey = M
 update-application-allow-description = Pirmetti a { -brand-short-name } di
 update-application-auto =
@@ -528,11 +516,11 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Mustra suggirimenti di ricerca prima dâ crunuluggìa nnê risurtati dâ barra dû nnirizzu
+    .label = Mustra suggirimenti di ricerca prima dâ cronuluggìa nnê risurtati dâ barra dû nnirizzu
 search-show-suggestions-private-windows =
     .label = Mustra suggirimenti di ricerca nnê finestri privati
-suggestions-addressbar-settings = Cancia prifirenzi dî suggirimenti pâ crunuluggìa di navigazziuni, i nzingalibbri e i schedi
-search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a crunuluggìa.
+suggestions-addressbar-settings = Cancia prifirenzi dî suggirimenti pâ cronuluggìa di navigazziuni, i nzingalibbri e i schedi
+search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a cronuluggìa.
 search-one-click-header = Muturi di ricerca c'un clic sulu
 search-one-click-desc = Scegghi i mutura di ricerca artirnativi ca cumparìscinu sutta â barra dû nnirizzu e â barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
 search-choose-engine-column =
@@ -573,7 +561,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Portati appressu a to Riti
-sync-signedout-description = Sincrunizza i to nzingalibbri, a crunuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
+sync-signedout-description = Sincrunizza i to nzingalibbri, a cronuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
 sync-signedout-account-title = Cunnetti cu un { -fxaccount-brand-name }
 sync-signedout-account-create = Nun ài un cuntu? Accumincia
     .accesskey = c
@@ -598,8 +586,6 @@ sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a
 
 ## Firefox Account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Cancia la mmàggini di prufilu
 sync-disconnect =
     .label = Discunnetti…
     .accesskey = D
@@ -630,10 +616,10 @@ sync-currently-syncing-logins-passwords = Accessi e chiavi
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
-    .label = Nzingalibbra
+    .label = Nzingalibbri
     .accesskey = m
 sync-engine-history =
-    .label = Crunuluggìa
+    .label = Cronuluggìa
     .accesskey = r
 sync-engine-tabs =
     .label = Schedi raputi
@@ -724,7 +710,7 @@ forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
 ## Privacy Section - History
 
-history-header = Crunuluggìa
+history-header = Cronuluggìa
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -737,30 +723,30 @@ history-header = Crunuluggìa
 history-remember-label = { -brand-short-name } po
     .accesskey = p
 history-remember-option-all =
-    .label = Ricorda la crunuluggìa
+    .label = Ricorda la cronuluggìa
 history-remember-option-never =
-    .label = Nun ricurdari mai la crunuluggìa
+    .label = Nun ricurdari mai la cronuluggìa
 history-remember-option-custom =
-    .label = Usa mpustazziuna pirsunalizzati pâ crunuluggìa
-history-remember-description = { -brand-short-name } ricurdarà la to navigazziuni, li scarricamenti, li mòduli e la crunuluggìa di ricerca.
-history-dontremember-description = { -brand-short-name } usarà li stissi mpustazziuna pâ navigazziuni privata, e nun ricurdarà nuḍḍa crunuluggìa mentri nàvighi nnâ Riti.
+    .label = Usa mpustazziuna pirsunalizzati pâ cronuluggìa
+history-remember-description = { -brand-short-name } ricurdarà la to navigazziuni, li scarricamenti, li mòduli e la cronuluggìa di ricerca.
+history-dontremember-description = { -brand-short-name } usarà li stissi mpustazziuna pâ navigazziuni privata, e nun ricurdarà nuḍḍa cronuluggìa mentri nàvighi nnâ Riti.
 history-private-browsing-permanent =
     .label = Usa sempri la mudalità di navigazziuni privata
     .accesskey = p
 history-remember-browser-option =
-    .label = Ricorda la crunuluggìa di navigazziuni e scarricamenti
+    .label = Ricorda la cronuluggìa di navigazziuni e scarricamenti
     .accesskey = b
 history-remember-search-option =
-    .label = Ricorda crunuluggìa di ricerca e mòduli
+    .label = Ricorda cronuluggìa di ricerca e mòduli
     .accesskey = f
 history-clear-on-close-option =
-    .label = Cancella a crunuluggìa quannu { -brand-short-name } si chiuji
+    .label = Cancella a cronuluggìa quannu { -brand-short-name } si chiuji
     .accesskey = r
 history-clear-on-close-settings =
     .label = Mpustazziuna…
     .accesskey = t
 history-clear-button =
-    .label = Cancella a crunuluggìa…
+    .label = Cancella a cronuluggìa…
     .accesskey = C
 
 ## Privacy Section - Site Data
@@ -809,10 +795,10 @@ sitedata-cookies-permissions =
 addressbar-header = Barra dû nnirizzu
 addressbar-suggest = Quannu si usa la barra dû nnirizzu, duna suggirimenti
 addressbar-locbar-history-option =
-    .label = Crunuluggìa di navigazziuni
-    .accesskey = h
+    .label = Cronuluggìa di navigazziuni
+    .accesskey = C
 addressbar-locbar-bookmarks-option =
-    .label = Nzingalibbra
+    .label = Nzingalibbri
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = Schedi raputi
@@ -1033,7 +1019,3 @@ space-alert-under-5gb-ok-button =
 desktop-folder-name = Scrivanìa
 downloads-folder-name = Scarricamenti
 choose-download-folder-title = Scegghi carpetta pî scarricamenti:
-# Variables:
-#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
-save-files-to-cloud-storage =
-    .label = Sarba plichi nne { $service-name }

@@ -5,36 +5,6 @@
 
 ## File Menu
 
-menu-file =
-    .label = Pricu
-    .accesskey = P
-menu-file-new-tab =
-    .label = Nova scheda
-    .accesskey = s
-menu-file-new-window =
-    .label = Nova finestra
-    .accesskey = N
-menu-file-new-private-window =
-    .label = Nova finestra privata
-    .accesskey = p
-menu-file-open-file =
-    .label = Rapi pricu…
-    .accesskey = R
-menu-file-close =
-    .label = Chiuji
-    .accesskey = C
-menu-file-close-window =
-    .label = Chiuji finestra
-    .accesskey = j
-menu-file-save-page =
-    .label = Sarba a pàggina comu…
-    .accesskey = c
-menu-file-print =
-    .label = Stampa…
-    .accesskey = S
-menu-file-go-offline =
-    .label = Travagghia sculligatu
-    .accesskey = g
 
 ## Edit Menu
 
@@ -72,9 +42,9 @@ menu-view-customize-toolbar =
     .label = Pirsunalizza…
     .accesskey = P
 menu-view-bookmarks =
-    .label = Nzingalibbra
+    .label = Nzingalibbri
 menu-view-history-button =
-    .label = Crunuluggía
+    .label = Cronuluggìa
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -89,12 +59,12 @@ menu-view-show-all-tabs =
 ## History Menu
 
 menu-history =
-    .label = Crunuluggía
-    .accesskey = u
+    .label = Cronuluggìa
+    .accesskey = C
 menu-history-show-all-history =
-    .label = Mustra tutta a crunuluggía
+    .label = Mustra tutta a cronuluggìa
 menu-history-clear-recent-history =
-    .label = Cancella crunuluggìa ricenti…
+    .label = Cancella cronuluggìa ricenti…
 menu-history-restore-last-session =
     .label = Arripigghia a sissiuni pricidenti
 menu-history-undo-menu =
@@ -104,16 +74,19 @@ menu-history-undo-window-menu =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Nzingalibbri
+    .accesskey = N
 menu-bookmarks-show-all =
     .label = Mustra tutti i nzingalibbri
 menu-bookmarks-all-tabs =
     .label = Agghiunci tutti i schedi ê nzingalibbri…
 menu-bookmarks-toolbar =
-    .label = Sbarra dî nzingalibbra
+    .label = Sbarra dî nzingalibbri
 menu-bookmarks-other =
-    .label = Autri nzingalibbra
+    .label = Autri nzingalibbri
 menu-bookmarks-mobile =
-    .label = Nzingalibbra dû cillulari
+    .label = Nzingalibbri dû cillulari
 
 ## Tools Menu
 
@@ -138,7 +111,7 @@ menu-tools-page-info =
 menu-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Uzzioni
+            [windows] Uzziuni
            *[other] Prifirenzi
         }
     .accesskey =

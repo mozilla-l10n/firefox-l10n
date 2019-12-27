@@ -18,7 +18,7 @@ update-failed = L'attualizzazziuni fallìu. <label data-l10n-name="failed-link">
 update-failed-main = L'attualizzazziuni fallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
 update-adminDisabled = L'attualizzazziuna foru sdisarmati di l'amministraturi dû sistema
 update-noUpdatesFound = { -brand-short-name } è attualizzatu
-update-otherInstanceHandlingUpdates = { -brand-short-name } è già 'n cursu d'attualizzazziuni
+update-otherInstanceHandlingUpdates = { -brand-short-name } si sta già attualizzannu
 update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
 update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
 update-restarting = Staju riabbiannu…

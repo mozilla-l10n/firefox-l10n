@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Comu si voli prucèdiri:
 panic-button-delete-cookies = Cancella <strong>cookie</strong> ricenti
-panic-button-delete-history = Cancella <strong>crunuluggìa</strong> ricenti
+panic-button-delete-history = Cancella <strong>cronuluggìa</strong> ricenti
 panic-button-delete-tabs-and-windows = Chiuji tutti i <strong>schedi</strong> e i <strong>finestri</strong>

@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-history-title = Crunuluggìa di l'attualizzazziuna
+history-title = Cronuluggìa di l'attualizzazziuna
 history-intro = Foru nzitati st'attualizzazziuna
 close-button-label =
     .buttonlabelcancel = Chiuji
-    .title = Crunuluggìa di l'attualizzazziuna
+    .title = Cronuluggìa di l'attualizzazziuna
 no-updates-label = Nuḍḍa attualizzazziuni fu ancora nzitata
 name-header = Nomu di l'attualizzazziuni
 date-header = Data dû nzitamentu

@@ -4,11 +4,14 @@
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Libbrarìa">
-<!ENTITY organize.tooltip      "Duna na sistimata a li to' nzingalibbra">
+<!ENTITY organize.tooltip      "Duna na sistimata a li to' nzingalibbri">
 
 <!ENTITY file.close.label               "Chiudi">
 <!ENTITY cmd.close.key                  "w">
 
+<!ENTITY importBookmarksFromHTML.label     "Pigghia nzingalibbri da HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Poia nzingalibbri na HTML…">
+<!ENTITY importOtherBrowser.label          "Pigghia nfurmazziuni di n'àutru navicaturi…">
 
 
 <!ENTITY cmd.deleteDomainData.label     "Scòrdati stu situ">
@@ -25,9 +28,11 @@
 
 <!ENTITY col.dateadded.label     "Agghiunciutu">
 
+<!ENTITY bookmarksSearch.placeholder  "Cerca nzingalibbri">
 
 <!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.tooltip    "Pigghia e sarba na copia di riserva pi to nzingalibbri">
 
 
 

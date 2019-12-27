@@ -5,6 +5,8 @@
 <!-- addon actions -->
 
 
+<!ENTITY cmd.showPreferencesWin.label         "Uzziuni">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Cancia chisti uzziuni di l'agghiuncitina">
 
 
 <!-- download/install progress -->
@@ -27,4 +29,4 @@
 
 
 <!-- addon actions -->
-<!ENTITY setting.learnmore "Cchiú nfurmazzioni…">
+<!ENTITY setting.learnmore "Cchiú nfurmazziuni…">

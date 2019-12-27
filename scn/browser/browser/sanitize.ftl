@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = Mpustazziuni pâ pulizzìa dâ crunuluggìa
+    .title = Mpustazziuni pâ pulizzìa dâ cronuluggìa
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Cancella crunuluggìa ricenti
+    .title = Cancella cronuluggìa ricenti
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = Cancella tutta a crunuluggìa
+    .title = Cancella tutta a cronuluggìa
     .style = width: 34em
 clear-data-settings-label = Cancella tuttu quannu chiuji { -brand-short-name }
 
@@ -44,9 +44,9 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
-history-section-label = Crunuluggìa
+history-section-label = Cronuluggìa
 item-history-and-downloads =
-    .label = Crunuluggìa navigazziuni e scarricamenti
+    .label = Cronuluggìa navigazziuni e scarricamenti
     .accesskey = C
 item-cookies =
     .label = Cookie
@@ -79,7 +79,7 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Tutta a crunuluggìa sarà cancillata.
+sanitize-everything-warning = Tutta a cronuluggìa sarà cancillata.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

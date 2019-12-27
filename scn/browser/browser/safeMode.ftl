@@ -7,10 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Abbìa nnâ mudalità sicura
-refresh-profile =
-    .label = Arrisetta { -brand-short-name }
 safe-mode-description = A mudalità sicura è na mudalità spiciali di { -brand-short-name } chi po' èssiri usata p'arrisòrbiri prubblemi.
 safe-mode-description-details = L'agghiuncitini e i mpustazziuna pirsunalizzati sarannu disattivati timpuraniamenti, e certi carattirìstichi di { -brand-short-name } putìssiru nun funziunari comu fannu nurmarmenti.
-refresh-profile-instead = Po' macari sautari a risuluzziuni dî prubblemi e pruvari ad arrisittari { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } si chiujìu 'n manera anòmala duranti l'abbìu. Putissi èssiri pi curpa di n'agghiuncitina o di autri prubblemi. Po' pruvari ad arrisòrbiri stu prubblema câ mudalità sicura.

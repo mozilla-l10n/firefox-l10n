@@ -10,7 +10,6 @@
 title = Nutizzi mpurtanti
 heading = Canciamenti nnô to prufilu { -brand-short-name }
 changed-title = Chi canciò?
-changed-desc-profiles = Sta nstallazziuni di { -brand-short-name } àvi un prufilu novu. Un prufilu è lu nzemi di plichi unni Firefox sarba nfurmazziuna comu nzingalibbra, palori d'accessu e prifirenzi di l'utenti.
 changed-desc-dedicated = Ô fini di passari 'n manera cchiù fàcili e sicura di nu nzitamentu di Firefox a n'autru (nchiusi Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition e Firefox Nightly), stu nzitamentu ora àvi un prufilu didicatu. Nun sparti autumaticamenti i to nfurmazziuna sarbati cu autri nzitamenti di Firefox.
 lost = <b>Nun pirdisti nuḍḍu datu pirsunali o pirsunalizzazziuni.</b> Si già sarbasti i nfurmazziuna nne Firefox nna stu computer, sunnu ancora dispunìbbili nna n'autru nzitamentu di Firefox.
 options-title = Quali su' i me pussibbilità?

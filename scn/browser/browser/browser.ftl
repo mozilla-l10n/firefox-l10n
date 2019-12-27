@@ -14,7 +14,7 @@
 #   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
 browser-main-window-title =
     { $mode ->
-        [private] { -brand-full-name } (Navigazzioni ammucciata)
+        [private] { -brand-full-name } (Navigazziuni ammucciata)
        *[default] { -brand-full-name }
     }
 # This is the default window title in case there is a content
@@ -30,7 +30,7 @@ browser-main-window-title =
 #   $title (String) - Content title string.
 browser-main-window-content-title =
     { $mode ->
-        [private] { $title } - { -brand-full-name } (Navigazzioni ammucciata)
+        [private] { $title } - { -brand-full-name } (Navigazziuni ammucciata)
        *[default] { $title } - { -brand-full-name }
     }
 urlbar-identity-button =

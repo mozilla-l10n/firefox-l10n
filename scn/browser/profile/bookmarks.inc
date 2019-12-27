@@ -7,7 +7,8 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title Nzingalibbra
+#define bookmarks_title Nzingalibbri
+#define bookmarks_heading Nzingalibbri
 
 
 # LOCALIZATION NOTE (getting_started):

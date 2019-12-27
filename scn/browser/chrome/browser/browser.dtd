@@ -65,11 +65,12 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbarCmd.label "Sbarra dî nzingalibbra">
+<!ENTITY personalbarCmd.label "Sbarra dî nzingalibbri">
 <!ENTITY personalbarCmd.accesskey "n">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY bookmarksToolbarItem.label "Strummenta dî nzingalibbri">
 
 <!ENTITY pageSourceCmd.label "Còdici dâ pàggina">
 <!ENTITY pageSourceCmd.accesskey "d">
@@ -152,23 +153,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Chiudi finestra">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Nzingalibbra">
+<!ENTITY bookmarksMenu.label "Nzingalibbri">
 
 <!ENTITY bookmarkThisPageCmd.label "Nzinga sta pàggina">
 <!ENTITY editThisBookmarkCmd.label "Cancia stu nzingalibbru">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "Agghiunci tutti li schedi a li nzingalibbra…">
+<!ENTITY addCurPagesCmd.label "Agghiunci tutti li schedi a li nzingalibbri…">
 
-<!ENTITY showAllBookmarks2.label "Mustra tutti li nzingalibbra">
-<!ENTITY otherBookmarksCmd.label "Àutri nzingalibbra">
-<!ENTITY mobileBookmarksCmd.label "Nzingalibbra dû smarfu">
+<!ENTITY showAllBookmarks2.label "Mustra tutti li nzingalibbri">
+<!ENTITY otherBookmarksCmd.label "Àutri nzingalibbri">
+<!ENTITY mobileBookmarksCmd.label "Nzingalibbri dû smarfu">
+<!ENTITY bookmarksToolbarChevron.tooltip "Mustra cchiú nzingalibbri">
 
 <!ENTITY backCmd.label                "Nn'arredi">
 <!ENTITY backCmd.accesskey            "a">
 <!ENTITY backButton.tooltip           "Vai na pàggina nn'arredi">
 <!ENTITY forwardCmd.label             "Avanti">
 <!ENTITY forwardButton.tooltip        "Vai avanti di na pàggina">
+<!ENTITY backForwardButtonMenu.tooltip "Ammacca u buttuni a dritta o tira sutta pi mustrari a cronuluggìa">
 <!ENTITY reloadCmd.label              "Càrrica arredi">
 <!ENTITY reloadCmd.accesskey          "C">
 
@@ -185,25 +188,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra crunuluggía">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra cronuluggìa">
 
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Pàggina mastra">
 
-<!ENTITY bookmarksButton.label          "Nzingalibbra">
+<!ENTITY bookmarksButton.label          "Nzingalibbri">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "Nzingalibbra">
-<!ENTITY bookmarksMenuButton2.label         "Menú nzingalibbra">
-<!ENTITY bookmarksMenuButton.other.label    "Àutri nzingalibbra">
-<!ENTITY bookmarksMenuButton.mobile.label   "Nzingalibbra dû smarfu">
-<!ENTITY viewBookmarksToolbar.label         "Talía sbarra dî nzingalibbra">
-<!ENTITY hideBookmarksToolbar.label         "Ammuccia la sbarra dî nzingalibbra">
-<!ENTITY searchBookmarks.label              "Cerca nzingalibbra">
+<!ENTITY bookmarksSubview.label             "Nzingalibbri">
+<!ENTITY bookmarksMenuButton2.label         "Menú nzingalibbri">
+<!ENTITY bookmarksMenuButton.other.label    "Àutri nzingalibbri">
+<!ENTITY bookmarksMenuButton.mobile.label   "Nzingalibbri dû smarfu">
+<!ENTITY viewBookmarksSidebar2.label        "Talìa la sbarra di fajanca di nzingalibbri">
+<!ENTITY hideBookmarksSidebar.label         "Ammuccia la sbarra di fajanca di nzingalibbri">
+<!ENTITY viewBookmarksToolbar.label         "Talía sbarra dî nzingalibbri">
+<!ENTITY hideBookmarksToolbar.label         "Ammuccia la sbarra dî nzingalibbri">
+<!ENTITY searchBookmarks.label              "Cerca nzingalibbri">
 <!ENTITY bookmarkingTools.label             "Strummenta pi nzingari">
-<!ENTITY addBookmarksMenu.label             "Agghiunci lu menú dî nzingalibbra â sbarra dî strummenta">
-<!ENTITY removeBookmarksMenu.label          "Leva lu menú dî nzingalibbra dâ sbarra dî strummenta">
+<!ENTITY addBookmarksMenu.label             "Agghiunci lu menú dî nzingalibbri â sbarra dî strummenta">
+<!ENTITY removeBookmarksMenu.label          "Leva lu menú dî nzingalibbri dâ sbarra dî strummenta">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -211,7 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Crunuluggía">
+<!ENTITY historyButton.label            "Cronuluggìa">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Strummenta">
@@ -265,6 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "Accessi e chiavi">
 
+<!ENTITY clearRecentHistory.label               "Cancella cronuluggìa ricenti…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -279,20 +285,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza la sbarra dî strummenta…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
-<!ENTITY historyMenu.label "Crunuluggía">
+<!ENTITY historyMenu.label "Cronuluggìa">
 <!ENTITY historyMenu.accesskey "u">
 <!ENTITY historyUndoMenu.label "Schedi chiuduti di picca">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Finestri chiuduti di picca">
 <!ENTITY historyRestoreLastSession.label "Arripigghia a sissiuni pricidenti">
 
-<!ENTITY showAllHistoryCmd2.label "Mustra tutta la crunuluggía">
+<!ENTITY showAllHistoryCmd2.label "Mustra tutta a cronuluggìa">
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuHistory.showAll.label "Mustra tutta la crunuluggía">
+<!ENTITY appMenuHistory.showAll.label "Mustra tutta a cronuluggìa">
+<!ENTITY appMenuHistory.clearRecent.label "Cancella cronuluggìa ricenti…">
 <!ENTITY appMenuHistory.restoreSession.label "Arripigghia a sissiuni pricidenti">
-<!ENTITY appMenuHistory.viewSidebar.label "Talía sbarra di ciancu dâ crunuluggía">
+<!ENTITY appMenuHistory.viewSidebar.label "Talìa sbarra di ciancu dâ cronuluggìa">
+<!ENTITY appMenuHistory.recentHistory.label "Cronuluggìa ricenti">
 <!ENTITY appMenuHelp.label "Ajutu">
 
 <!ENTITY appMenuRemoteTabs.label "Schedi sincrunizzati">
@@ -443,7 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Talía vídiu">
 <!ENTITY bookmarkPageCmd2.label       "Nzinga sta pàggina">
-<!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbra">
+<!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
 <!ENTITY bookmarkThisFrameCmd.label      "Nzinga stu quatru">
 <!ENTITY pageAction.copyLink.label    "Copia lu lijami">
@@ -536,6 +544,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettings.label "Cancia l'uzziuni di nzirraturi dî popup…">
 
 
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -558,13 +567,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeLoaded "Disabbilitasti la prutizziuni nta sta pàggina.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "La cunnissioni a stu situ nun e' privata.  Nfurmazziuni chi cci scrivi ccà pò èssiri viduta d'àutri (comu palori d'òrdini, missaggi, carti di crèdditu, ecc.).">
+<!ENTITY identity.description.insecureLoginForms "La nfurmazziuni d'accuminzagghia chi cci metti nta sta pàggina nun e' sicura si pò èssiri  siquistrata.">
+<!ENTITY identity.description.weakCipher2 "Àutri ponnu vìdiri la to nfurmazziuni e/o canciari lu cumpurtamentu dû situ web.">
+<!ENTITY identity.description.passiveLoaded "La to cunnissioni nun e' privata e ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri.">
+<!ENTITY identity.description.activeLoaded2 "Ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri (comu li palori d'òrdini, missaggi , carti di crèdditu, ecc.).">
 
+<!ENTITY identity.enableMixedContentBlocking.label "Arma â prutizziuni">
+<!ENTITY identity.disableMixedContentBlocking.label "P'accamora disarma prutizziuni">
 <!ENTITY identity.learnMore "Cchiù nfurmazziuna">
 
+<!ENTITY identity.removeCertException.label "Lèvacci la ccizziuni">
 
-<!ENTITY identity.moreInfoLinkText2 "Cchiú nfurmazzioni">
+<!ENTITY identity.moreInfoLinkText2 "Cchiú nfurmazziuni">
 
 
 
@@ -594,6 +612,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Schedi di navigazziuni">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
@@ -602,6 +621,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Trasi nne &syncBrand.shortName.label;…">
 
 
+<!ENTITY getUserMedia.selectCamera.label "Màchina di fotu pi cullabburazziuni:">
+<!ENTITY getUserMedia.selectMicrophone.label "Micròfunu pi cullabburazziuni:">
+<!ENTITY getUserMedia.audioCapture.label "Lu sonu di sta scheda e' pi cullabburazziuni.">
+<!ENTITY getUserMedia.allWindowsShared.message "Tutti li finestri visìbbili sunnu pi cullabburazziuni.">
 
 
 
@@ -635,6 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 
 
+<!ENTITY panicButton.thankyou.msg1                "Cancillasti a cronuluggìa ricenti.">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Cchiù nfurmazziuna supra ô DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
@@ -644,11 +668,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY pageActionButton.tooltip "Azziuni dâ pàggina">
 <!ENTITY pageAction.addToUrlbar.label "Agghiunci nnâ sbarra dû nnirizzu">
 
 
 
-<!ENTITY libraryButton.tooltip "Vidi crunuluggìa, nzingalibbra sarbati e àutru">
+<!ENTITY libraryButton.tooltip "Vidi cronuluggìa, nzingalibbri sarbati e àutru">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

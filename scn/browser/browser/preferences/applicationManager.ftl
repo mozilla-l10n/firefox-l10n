@@ -11,9 +11,6 @@ app-manager-remove =
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = L'appricazziuna appressu si ponnu usari pi manijari lijami { $type }.
-# Variables:
-#   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = L'appricazziuna appressu si ponnu usari pi manijari cuntinuti { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
