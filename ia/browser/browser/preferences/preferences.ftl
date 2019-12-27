@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Colores…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom predefinite
+    .accesskey = p
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zoom del texto solmente
+    .accesskey = t
 language-header = Lingua
 choose-language-description = Elige tu lingua preferite pro presentar le paginas
 choose-button =
