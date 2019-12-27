@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Anulěrowaś
     .accesskey = A
+text-action-redo =
+    .label = Wóspjetowaś
+    .accesskey = s
 text-action-cut =
     .label = Wurězaś
     .accesskey = r
