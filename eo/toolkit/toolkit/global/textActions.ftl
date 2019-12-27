@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Malfari
     .accesskey = M
+text-action-redo =
+    .label = Refari
+    .accesskey = R
 text-action-cut =
     .label = Eltondi
     .accesskey = t
