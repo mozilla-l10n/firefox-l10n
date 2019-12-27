@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Отменить
     .accesskey = О
+text-action-redo =
+    .label = Повторить
+    .accesskey = р
 text-action-cut =
     .label = Вырезать
     .accesskey = В
