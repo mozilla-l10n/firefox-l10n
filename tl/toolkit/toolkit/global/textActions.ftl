@@ -5,6 +5,9 @@
 text-action-undo =
     .label = i-Undo
     .accesskey = U
+text-action-redo =
+    .label = Ulitin
+    .accesskey = R
 text-action-cut =
     .label = i-Cut
     .accesskey = t
