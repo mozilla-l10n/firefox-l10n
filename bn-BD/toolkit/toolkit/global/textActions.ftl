@@ -5,6 +5,9 @@
 text-action-undo =
     .label = পূর্বাবস্থায় ফেরানো U
     .accesskey = U
+text-action-redo =
+    .label = পুনরায় করা
+    .accesskey = R
 text-action-cut =
     .label = কাটা
     .accesskey = t
