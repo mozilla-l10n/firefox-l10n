@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Conta">
 <!ENTITY fxa.menu.settings.label "Configurações">
 <!ENTITY fxa.menu.accountSettings.label "Configurações da conta">
+<!ENTITY fxa.menu.manageAccount2.label "Gerenciar conta">
 <!ENTITY fxa.menu.signOut.label "Sair…">
 <!ENTITY fxa.menu.deviceSettings.label "Configurações do dispositivo">
 <!ENTITY fxa.menu.setupSync.label "Configurar o &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.accesskey            "P">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Abrir a página">
 <!ENTITY printButton.label            "Imprimir">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Abrir link em uma nova aba">
+
 <!ENTITY openLinkCmdInTab.accesskey   "b">
 <!ENTITY openLinkCmd.label            "Abrir link em uma nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar só este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar frame">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Salvar página como…">
 <!ENTITY savePageCmd.accesskey        "v">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvar frame como…">
 <!ENTITY saveFrameCmd.accesskey       "l">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "e">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Alterar direção do texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "A">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Procurar nesta página…">
