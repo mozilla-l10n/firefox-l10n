@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Atšaukti
     .accesskey = A
+text-action-redo =
+    .label = Atstatyti
+    .accesskey = t
 text-action-cut =
     .label = Iškirpti
     .accesskey = r
