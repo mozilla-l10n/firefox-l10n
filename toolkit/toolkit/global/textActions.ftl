@@ -5,6 +5,9 @@
 text-action-undo =
     .label = पहिने जहिना (U)
     .accesskey = U
+text-action-redo =
+    .label = फेर करू
+    .accesskey = R
 text-action-cut =
     .label = काटू
     .accesskey = t
