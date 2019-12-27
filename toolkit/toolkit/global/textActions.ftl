@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Neo-dhèan
     .accesskey = N
+text-action-redo =
+    .label = Ath-dhèan
+    .accesskey = A
 text-action-cut =
     .label = Gearr às
     .accesskey = G
