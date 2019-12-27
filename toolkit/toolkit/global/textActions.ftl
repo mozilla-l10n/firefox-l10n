@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Võta tagasi
     .accesskey = V
+text-action-redo =
+    .label = Tee uuesti
+    .accesskey = T
 text-action-cut =
     .label = Lõika
     .accesskey = L
