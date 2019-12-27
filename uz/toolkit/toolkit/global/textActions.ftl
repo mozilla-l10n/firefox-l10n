@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Amalni bekor qilish
     .accesskey = b
+text-action-redo =
+    .label = Amalni qaytarish
+    .accesskey = q
 text-action-cut =
     .label = Kesish
     .accesskey = K
