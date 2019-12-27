@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Төннөр
     .accesskey = Т
+text-action-redo =
+    .label = Хатылаа
+    .accesskey = Х
 text-action-cut =
     .label = Кырый
     .accesskey = К
