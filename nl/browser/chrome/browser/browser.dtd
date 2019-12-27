@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "U dient uw account te verifiëren voordat u kunt synchroniseren.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label;-instellingen openen…">
 
-<!ENTITY pictureInPictureHideToggle.label "Beeld-in-beeld-schakelaar verbergen">
-<!ENTITY pictureInPictureHideToggle.accesskey "V">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Aangemeld als">
 <!ENTITY fxa.menu.manageAccount.label "Account beheren…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-instellingen…">
+
+<!ENTITY pictureInPictureHideToggle.label "Beeld-in-beeld-schakelaar verbergen">
+<!ENTITY pictureInPictureHideToggle.accesskey "V">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Aanmelden bij &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; inschakelen">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-diensten">
-
 <!ENTITY fxa.menu.account.label "Account">
 <!ENTITY fxa.menu.settings.label "Instellingen">
 <!ENTITY fxa.menu.accountSettings.label "Accountinstellingen">
+<!ENTITY fxa.menu.manageAccount2.label "Account beheren">
 <!ENTITY fxa.menu.signOut.label "Afmelden…">
 <!ENTITY fxa.menu.deviceSettings.label "Apparaatinstellingen">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; instellen…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY stopCmd.label                "Stoppen">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Naar het adres in de locatiebalk gaan">
 <!ENTITY printButton.label            "Afdrukken">
@@ -568,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Zoeken met:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Deze keer zoeken met:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "s">
 
 <!ENTITY openLinkCmdInTab.label       "Koppeling openen in nieuw tabblad">
+
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Koppeling openen in nieuw venster">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -601,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Alleen dit deelvenster tonen">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Deelvenster vernieuwen">
 <!ENTITY reloadFrameCmd.accesskey     "n">
@@ -651,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Pagina opslaan als…">
 <!ENTITY savePageCmd.accesskey        "p">
 <!ENTITY savePageCmd.accesskey2       "p">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Deelvenster opslaan als…">
 <!ENTITY saveFrameCmd.accesskey       "r">
@@ -817,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Tekstrichting omkeren">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Zoeken op deze pagina…">
@@ -940,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Waarom?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Door beschermingen uit te schakelen worden alle trackers op deze website toegestaan. Het kan ook de functionaliteit van de website verbeteren.">
-<!ENTITY protections.socialMediaTrackers.label "Sociale-mediatrackers">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cross-site-trackingcookies">
-<!ENTITY protections.trackingContent.label "Volginhoud">
-<!ENTITY protections.fingerprinters.label "Fingerprinters">
-<!ENTITY protections.cryptominers.label "Cryptominers">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alle trackers op deze website zijn geladen omdat beschermingen zijn uitgeschakeld.">
 <!ENTITY protections.noTrackersFound.description "Op deze pagina zijn geen bij &brandShortName; bekende trackers aangetroffen.">
 
@@ -968,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Aanmelden bij &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "y">
-
 <!ENTITY syncSyncNowItem.label        "Nu synchroniseren">
 <!ENTITY syncSyncNowItemSyncing.label "Synchroniseren…">
 <!ENTITY syncSyncNowItem.accesskey    "N">
@@ -1006,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "B">
 
 <!ENTITY contentBlocking.socialblock.label "Sociale-mediatrackers">
-
-<!ENTITY contentBlocking.cookies2.label "Cross-site-trackingcookies">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
