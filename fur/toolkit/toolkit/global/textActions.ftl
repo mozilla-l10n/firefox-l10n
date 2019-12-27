@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Anule
     .accesskey = u
+text-action-redo =
+    .label = Torne a fâ
+    .accesskey = f
 text-action-cut =
     .label = Taie
     .accesskey = T
