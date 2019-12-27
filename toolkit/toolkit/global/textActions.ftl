@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Αναίρεση
     .accesskey = Α
+text-action-redo =
+    .label = Ακύρωση αναίρεσης
+    .accesskey = κ
 text-action-cut =
     .label = Αποκοπή
     .accesskey = π
