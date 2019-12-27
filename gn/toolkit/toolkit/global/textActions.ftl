@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Mboguevi
     .accesskey = U
+text-action-redo =
+    .label = Japojey
+    .accesskey = R
 text-action-cut =
     .label = Kytĩ
     .accesskey = t
