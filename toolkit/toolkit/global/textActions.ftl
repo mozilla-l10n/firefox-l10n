@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Dirolola
     .accesskey = D
+text-action-redo =
+    .label = Diragape
+    .accesskey = D
 text-action-cut =
     .label = Sega
     .accesskey = S
