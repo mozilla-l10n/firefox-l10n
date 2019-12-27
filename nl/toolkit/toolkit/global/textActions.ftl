@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Ongedaan maken
     .accesskey = O
+text-action-redo =
+    .label = Opnieuw uitvoeren
+    .accesskey = u
 text-action-cut =
     .label = Knippen
     .accesskey = n
