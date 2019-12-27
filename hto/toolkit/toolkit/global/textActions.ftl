@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Óni dóta
     .accesskey = Ó
+text-action-redo =
+    .label = Ábɨdo jóne
+    .accesskey = Á
 text-action-cut =
     .label = Kotade
     .accesskey = d
