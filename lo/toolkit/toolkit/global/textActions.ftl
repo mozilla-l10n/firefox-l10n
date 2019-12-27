@@ -5,6 +5,9 @@
 text-action-undo =
     .label = ກັບຄືນ
     .accesskey = U
+text-action-redo =
+    .label = ເຮັດຄືນໃຫມ່
+    .accesskey = R
 text-action-cut =
     .label = ຕັດ
     .accesskey = t
