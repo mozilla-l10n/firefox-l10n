@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Zhbëje
     .accesskey = Z
+text-action-redo =
+    .label = Ribëje
+    .accesskey = R
 text-action-cut =
     .label = Prije
     .accesskey = P
