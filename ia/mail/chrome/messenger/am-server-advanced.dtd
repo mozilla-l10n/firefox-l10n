@@ -4,7 +4,10 @@
 
 <!ENTITY serverAdvanced.label "Parametros avantiate de contos">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Directorio del servitor IMAP:">
+<!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Monstrar solmente dossiers subscribite">
+<!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "Le servitor supporta dossiers que contine subdossiers e messages">
 <!ENTITY dualUseFolders.accesskey "d">
 <!ENTITY maximumConnectionsNumber.label "Numero maxime de connexiones al servitor a tener in cache">
