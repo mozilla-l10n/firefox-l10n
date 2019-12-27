@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Você bloqueou informações de localização neste site.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Você bloqueou notificações deste site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Você bloqueou o armazenamento persistente deste site.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Você bloqueou pop-ups desse site.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Você bloqueou abertura de janelas neste site.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Você bloqueou a reprodução automática de mídia com som neste site.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Você bloqueou a extração de dados da tela neste site.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Você bloqueou o uso do Adobe Flash neste site.">
