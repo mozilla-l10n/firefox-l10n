@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Tendua
     .accesskey = T
+text-action-redo =
+    .label = Rudia
+    .accesskey = R
 text-action-cut =
     .label = Kata
     .accesskey = t
