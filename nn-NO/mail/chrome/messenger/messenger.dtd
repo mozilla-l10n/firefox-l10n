@@ -605,6 +605,7 @@
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
 <!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
+<!ENTITY addonsButton.tooltip "Handter tillegga dine">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Vidaresend innbunde">
@@ -705,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Lagre søk som mappe…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Vel meldingar">
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Frå">
 <!ENTITY recipientColumn.label "Mottakar">
