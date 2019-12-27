@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                 "Inviar optiones">
+<!ENTITY sendMail.title               "Formato de texto">
+<!ENTITY autoDowngrade.label          "Inviar messages in texto plan, si possibile">
+<!ENTITY autoDowngrade.accesskey      "t">
+<!ENTITY askMe.label                  "Demendar me que facer">
+<!ENTITY askMe.accesskey              "m">
+
+<!ENTITY AddHtmlDomain.label          "Adder…">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.label           "Adder…">
+<!ENTITY AddPlainText.accesskey       "A">
+<!ENTITY DeleteHtmlDomain.label       "Deler">
+<!ENTITY DeleteHtmlDomain.accesskey   "D">
+<!ENTITY DeletePlainText.label        "Deler">
+<!ENTITY DeletePlainText.accesskey    "D">
+

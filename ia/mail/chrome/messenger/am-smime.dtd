@@ -4,9 +4,13 @@
 
 <!ENTITY securityTitle.label "Securitate">
 <!ENTITY securityTab.label "Securitate">
+<!ENTITY securityHeading.label "Pro inviar e reciper messages cifrate, tu debe specificar sia un certificato de firma digital que un certificato de cryptation.">
 <!ENTITY encryptionGroupTitle.label "Cryptographia">
+<!ENTITY encryptionChoiceLabel.label "Parametros de cryptation predefinite al invio del messages:">
 <!ENTITY neverEncrypt.label "Nunquam (non usa le cryptographia)">
 <!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Obligatori (impossibile inviar messages sin que tote le destinatarios ha le certificatos)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Usa iste certificato pro cryptar e decryptar messages inviate a te:">
 <!ENTITY digitalSign.certificate.button "Seliger…">
 <!ENTITY digitalSign.certificate.accesskey "S">
