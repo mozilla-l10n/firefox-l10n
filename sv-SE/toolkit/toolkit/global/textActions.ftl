@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Ångra
     .accesskey = Å
+text-action-redo =
+    .label = Gör om
+    .accesskey = G
 text-action-cut =
     .label = Klipp ut
     .accesskey = K
