@@ -5,6 +5,9 @@
 text-action-undo =
     .label = تراجع
     .accesskey = ت
+text-action-redo =
+    .label = أعِد
+    .accesskey = ع
 text-action-cut =
     .label = قصّ
     .accesskey = ق
