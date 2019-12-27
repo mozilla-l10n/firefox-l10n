@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Sefsex
     .accesskey = S
+text-action-redo =
+    .label = Err-d
+    .accesskey = E
 text-action-cut =
     .label = Gzem
     .accesskey = G
