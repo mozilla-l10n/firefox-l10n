@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Nadurê'
     .accesskey = U
+text-action-redo =
+    .label = Nagi'iaj ñunj
+    .accesskey = R
 text-action-cut =
     .label = Ga'nè'
     .accesskey = t
