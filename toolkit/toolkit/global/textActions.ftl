@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Späť
     .accesskey = S
+text-action-redo =
+    .label = Znovu
+    .accesskey = Z
 text-action-cut =
     .label = Vystrihnúť
     .accesskey = V
