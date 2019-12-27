@@ -5,6 +5,9 @@
 text-action-undo =
     .label = අවලංගු
     .accesskey = U
+text-action-redo =
+    .label = යළි කරන්න
+    .accesskey = R
 text-action-cut =
     .label = කපන්න
     .accesskey = t
