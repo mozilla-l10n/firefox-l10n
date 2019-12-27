@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Razveljavi …
     .accesskey = Z
+text-action-redo =
+    .label = Ponovi
+    .accesskey = O
 text-action-cut =
     .label = Izreži
     .accesskey = i
