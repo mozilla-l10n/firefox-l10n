@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Dadwneud
     .accesskey = w
+text-action-redo =
+    .label = Ailwneud
+    .accesskey = A
 text-action-cut =
     .label = Torri
     .accesskey = T
