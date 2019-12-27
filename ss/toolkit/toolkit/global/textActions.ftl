@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Cisha
     .accesskey = C
+text-action-redo =
+    .label = Phindza wente
+    .accesskey = P
 text-action-cut =
     .label = Juba
     .accesskey = J
