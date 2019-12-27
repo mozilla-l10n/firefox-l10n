@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Şûnde Bîne
     .accesskey = n
+text-action-redo =
+    .label = Nû bike
+    .accesskey = N
 text-action-cut =
     .label = Jê bike
     .accesskey = J
