@@ -5,6 +5,9 @@
 text-action-undo =
     .label = പൂര്‍വ്വാവസ്ഥയിലാക്കുക
     .accesskey = U
+text-action-redo =
+    .label = ആവര്‍ത്തിക്കുക
+    .accesskey = R
 text-action-cut =
     .label = മുറിക്കുക
     .accesskey = t
