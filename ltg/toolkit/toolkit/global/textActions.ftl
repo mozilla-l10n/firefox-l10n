@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Atsaukt
     .accesskey = u
+text-action-redo =
+    .label = Puordareit
+    .accesskey = r
 text-action-cut =
     .label = Izgrīzt
     .accesskey = t
