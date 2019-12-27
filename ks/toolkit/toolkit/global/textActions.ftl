@@ -5,6 +5,9 @@
 text-action-undo =
     .label = تئ انڈو
     .accesskey = U
+text-action-redo =
+    .label = تئ دوبارہ کریو
+    .accesskey = R
 text-action-cut =
     .label = ژٹیو
     .accesskey = t
