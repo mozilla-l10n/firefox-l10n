@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Уліковы запіс">
 <!ENTITY fxa.menu.settings.label "Налады">
 <!ENTITY fxa.menu.accountSettings.label "Налады ўліковага запісу">
+<!ENTITY fxa.menu.manageAccount2.label "Кіраваць уліковым запісам">
 <!ENTITY fxa.menu.signOut.label "Выйсці…">
 <!ENTITY fxa.menu.deviceSettings.label "Налады прылады">
 <!ENTITY fxa.menu.setupSync.label "Наладзіць сінхранізацыю…">
