@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Titzolïx
     .accesskey = t
+text-action-redo =
+    .label = Tikamulüx
+    .accesskey = m
 text-action-cut =
     .label = Tiqupïx
     .accesskey = q
