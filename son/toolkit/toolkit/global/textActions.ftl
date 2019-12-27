@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Taafeeri
     .accesskey = T
+text-action-redo =
+    .label = Tee taaga
+    .accesskey = T
 text-action-cut =
     .label = Dunbu
     .accesskey = D
