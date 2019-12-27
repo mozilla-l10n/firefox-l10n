@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Účet">
 <!ENTITY fxa.menu.settings.label "Nastavení">
 <!ENTITY fxa.menu.accountSettings.label "Nastavení účtu">
+<!ENTITY fxa.menu.manageAccount2.label "Správa účtu">
 <!ENTITY fxa.menu.signOut.label "Odhlásit se…">
 <!ENTITY fxa.menu.deviceSettings.label "Nastavení zařízení">
 <!ENTITY fxa.menu.setupSync.label "Nastavit &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "o">
 <!ENTITY stopCmd.label                "Zastavit">
 <!ENTITY stopCmd.accesskey            "s">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Přejde na adresu v adresním řádku">
 <!ENTITY printButton.label            "Vytisknout">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "v">
 
 <!ENTITY openLinkCmdInTab.label       "Otevřít odkaz v novém panelu">
+
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Otevřít odkaz v novém okně">
 <!ENTITY openLinkCmd.accesskey        "O">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Zobrazit pouze tento rám">
 <!ENTITY showOnlyThisFrameCmd.accesskey "p">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Znovu načíst rám">
 <!ENTITY reloadFrameCmd.accesskey     "m">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Uložit stránku jako…">
 <!ENTITY savePageCmd.accesskey        "U">
 <!ENTITY savePageCmd.accesskey2       "j">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Uložit rám jako…">
 <!ENTITY saveFrameCmd.accesskey       "r">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "o">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Změnit směr textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Najít na této stránce…">

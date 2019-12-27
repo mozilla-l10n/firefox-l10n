@@ -212,6 +212,15 @@ advanced-fonts =
 colors-settings =
     .label = Barvy…
     .accesskey = y
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Velikost stránky
+preferences-default-zoom = Výchozí velikost
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage } %
+preferences-zoom-text-only =
+    .label = Pouze velikost textu
+    .accesskey = t
 language-header = Jazyk
 choose-language-description = Vyberte jazyky pro zobrazování webových stránek
 choose-button =
