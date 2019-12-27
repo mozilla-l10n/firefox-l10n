@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Lungisa okwenzileyo
     .accesskey = L
+text-action-redo =
+    .label = Phinda wenze
+    .accesskey = P
 text-action-cut =
     .label = Sika
     .accesskey = k
