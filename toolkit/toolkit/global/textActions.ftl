@@ -5,6 +5,9 @@
 text-action-undo =
     .label = 실행 취소
     .accesskey = U
+text-action-redo =
+    .label = 실행 반복
+    .accesskey = R
 text-action-cut =
     .label = 잘라내기
     .accesskey = t
