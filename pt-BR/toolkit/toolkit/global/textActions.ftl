@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Desfazer
     .accesskey = D
+text-action-redo =
+    .label = Refazer
+    .accesskey = R
 text-action-cut =
     .label = Cortar
     .accesskey = t
