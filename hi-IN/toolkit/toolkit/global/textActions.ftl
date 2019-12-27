@@ -5,6 +5,9 @@
 text-action-undo =
     .label = पहले जैसा
     .accesskey = U
+text-action-redo =
+    .label = दोहराएँ
+    .accesskey = R
 text-action-cut =
     .label = काटें
     .accesskey = t
