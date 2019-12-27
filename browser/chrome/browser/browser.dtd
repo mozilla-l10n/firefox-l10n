@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Для початку синхронізації вам необхідно підтвердити свій обліковий запис.">
 <!ENTITY fxa.unverified.button.label "Відкрити налаштування Синхронізації…">
 
-<!ENTITY pictureInPictureHideToggle.label "Приховати перемикач Зображення в зображенні">
-<!ENTITY pictureInPictureHideToggle.accesskey "х">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Вхід виконано">
 <!ENTITY fxa.menu.manageAccount.label "Керувати обліковим записом…">
 <!ENTITY fxa.menu.syncSettings.label "Налаштування Синхронізації…">
+
+<!ENTITY pictureInPictureHideToggle.label "Приховати перемикач Зображення в зображенні">
+<!ENTITY pictureInPictureHideToggle.accesskey "х">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Увійти в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Увімкнути Синхронізацію">
 <!ENTITY fxa.menu.firefoxServices.label "Сервіси &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Обліковий запис">
 <!ENTITY fxa.menu.settings.label "Налаштування">
 <!ENTITY fxa.menu.accountSettings.label "Налаштування облікового запису">
+<!ENTITY fxa.menu.manageAccount2.label "Керувати обліковим записом">
 <!ENTITY fxa.menu.signOut.label "Вийти…">
 <!ENTITY fxa.menu.deviceSettings.label "Налаштування пристрою">
 <!ENTITY fxa.menu.setupSync.label "Налаштувати синхронізацію…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "О">
 <!ENTITY stopCmd.label                "Зупинити">
 <!ENTITY stopCmd.accesskey            "З">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Перейти за адресою з панелі адреси">
 <!ENTITY printButton.label            "Друкувати">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ви заборонили використання Adobe Flash на цьому сайті.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ви заблокували MIDI доступ для цього веб-сайту.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ви заблокували встановлення додатка з цього веб-сайту.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Шукати з:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Цього разу, пошук з:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "т">
 
 <!ENTITY openLinkCmdInTab.label       "Відкрити посилання в новій вкладці">
+
 <!ENTITY openLinkCmdInTab.accesskey   "л">
 <!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
 <!ENTITY openLinkCmd.accesskey        "к">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "к">
 <!ENTITY showOnlyThisFrameCmd.label     "Показати тільки цей фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "з">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Оновити фрейм">
 <!ENTITY reloadFrameCmd.accesskey     "в">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Зберегти як…">
 <!ENTITY savePageCmd.accesskey        "З">
 <!ENTITY savePageCmd.accesskey2       "б">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Зберегти фрейм як…">
 <!ENTITY saveFrameCmd.accesskey       "ф">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "м">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Перемкнути напрям тексту на сторінці">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "к">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Знайти на цій сторінці…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Чому?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокування їх може пошкодити елементи деяких веб-сайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Вимкнення захисту дозволить всі елементи стеження на цьому сайті. Це також може покращити деякі функції веб-сайту.">
-<!ENTITY protections.socialMediaTrackers.label "Стеження соціальних мереж">
-<!ENTITY protections.crossSiteTrackingCookies.label "Куки стеження між сайтами">
-<!ENTITY protections.trackingContent.label "Вміст стеження">
-<!ENTITY protections.fingerprinters.label "Зчитування відбитку браузера">
-<!ENTITY protections.cryptominers.label "Криптомайнери">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Всі елементи стеження на цьому сайті були завантажені, тому що захист вимкнено.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; не виявив відомих елементів стеження на цій сторінці.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Увійти в Синхронізацію…">
 <!ENTITY syncSignIn.accesskey         "У">
-
 <!ENTITY syncSyncNowItem.label        "Синхронізувати зараз">
 <!ENTITY syncSyncNowItemSyncing.label "Синхронізація…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "К">
 
 <!ENTITY contentBlocking.socialblock.label "Стеження соціальних мереж">
-
-<!ENTITY contentBlocking.cookies2.label "Куки стеження між сайтами">
 
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнери">
 <!ENTITY contentBlocking.cryptominersView.label "Криптомайнери">
