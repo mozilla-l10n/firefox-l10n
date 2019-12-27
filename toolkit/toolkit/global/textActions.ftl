@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Hoàn tác
     .accesskey = U
+text-action-redo =
+    .label = Làm lại
+    .accesskey = R
 text-action-cut =
     .label = Cắt
     .accesskey = t
