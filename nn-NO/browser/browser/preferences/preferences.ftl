@@ -204,7 +204,7 @@ colors-settings =
     .label = Fargar…
     .accesskey = F
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zoom
+preferences-zoom-header = Skalering
 preferences-default-zoom = Standardskalering
     .accesskey = s
 preferences-default-zoom-value =
