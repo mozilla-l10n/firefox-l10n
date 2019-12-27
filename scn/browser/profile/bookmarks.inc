@@ -27,11 +27,11 @@
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
-#define firefox_community Júnciti cu nuàutri
+#define firefox_community Cullàbbura cu nuiautri
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
-#define firefox_about Supra di nuàutri
+#define firefox_about Supra di nuiautri
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name

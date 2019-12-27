@@ -325,16 +325,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Mustra tutti i schedi di st'apparecchiu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Appiccia a sync dî schedi pi taliari na lista dî schedi di l'àutri apparecchi mòbbili toi.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Attiva a sincrunizzazziuni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Voi taliari ccà i toi schedi di l'àutri apparecchi mòbbili?">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi taliari na lista dî schedi di l'àutri apparecchi toi.">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vo' vìdiri cca i to schedi di l'autri dispusitivi?">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Lu to' cuntu àvi a èssiri virificatu.">
 <!ENTITY appMenuRemoteTabs.signin.label "Trasi nne Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Trasi nne &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Talìa a sbarra di fajanca dî schedi syncati">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Cunnetti n'autru dispusitivu">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strummenta">
@@ -599,15 +600,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.activeLoaded "Disabbilitasti a prutizziuni nta sta pàggina.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "A cunnissioni a stu situ nun e' privata.  Nfurmazziuni chi cci scrivi ccà pò èssiri viduta d'àutri (comu palori d'òrdini, missaggi, carti di crèdditu, ecc.).">
+<!ENTITY identity.description.insecure "A cunnissiuni a stu situ nun è privata. I nfurmazziuna chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).">
 <!ENTITY identity.description.insecureLoginForms "A nfurmazziuni d'accuminzagghia chi cci metti nta sta pàggina nun e' sicura si pò èssiri  siquistrata.">
 <!ENTITY identity.description.weakCipher "A to cunnissioni usa u cifrariu fraccu e nun e' privata.">
-<!ENTITY identity.description.weakCipher2 "Àutri ponnu vìdiri a to nfurmazziuni e/o canciari u cumpurtamentu dû situ web.">
-<!ENTITY identity.description.passiveLoaded "A to cunnissioni nun e' privata e ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri.">
+<!ENTITY identity.description.weakCipher2 "Autri ponnu vìdiri i to nfurmazziuna o canciari u cumpurtamentu dû situ web.">
+<!ENTITY identity.description.passiveLoaded "A to cunnissiuni nun è privata e i nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri.">
 <!ENTITY identity.description.passiveLoaded2 "Stu situ cunteni zoccu nun e' sicuru (comu i mmàggini).">
 <!ENTITY identity.description.passiveLoaded3 "Puru ca &brandShortName; nzirrau parti dû cuntinutu, ancora s'arrèsta cuntinutu supra sta pàggina chi nun e' sicuru (comu i mmàggini).">
 <!ENTITY identity.description.activeLoaded "Stu zitu cunteni zoccu nun e' sicuru (comu i scritti) e a to cunnissioni nun e' privata.">
-<!ENTITY identity.description.activeLoaded2 "Ogni cullabburazziuni cu stu situ pò èssiri viduta d'àutri (comu i palori d'òrdini, missaggi , carti di crèdditu, ecc.).">
+<!ENTITY identity.description.activeLoaded2 "I nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Arma â prutizziuni">
 <!ENTITY identity.disableMixedContentBlocking.label "P'accamora disarma prutizziuni">
@@ -709,7 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY libraryButton.tooltip "Vidi cronuluggìa, nzingalibbri sarbati e àutru">
+<!ENTITY libraryButton.tooltip "Vidi cronuluggìa, nzingalibbri sarbati e autru">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

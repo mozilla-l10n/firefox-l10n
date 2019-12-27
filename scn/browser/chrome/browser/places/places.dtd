@@ -12,7 +12,7 @@
 
 <!ENTITY importBookmarksFromHTML.label     "Pigghia nzingalibbri nnô furmatu HTML…">
 <!ENTITY exportBookmarksToHTML.label       "Sarba nzingalibbri nnô furmatu HTML…">
-<!ENTITY importOtherBrowser.label          "Pigghia nfurmazziuni di n'àutru navicaturi…">
+<!ENTITY importOtherBrowser.label          "Pigghia dati di n'autru navigaturi…">
 
 
 <!ENTITY cmd.deleteDomainData.label     "Scòrdati stu situ">
