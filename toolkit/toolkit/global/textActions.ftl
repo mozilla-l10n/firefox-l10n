@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Kumoa
     .accesskey = m
+text-action-redo =
+    .label = Tee uudelleen
+    .accesskey = T
 text-action-cut =
     .label = Leikkaa
     .accesskey = L
