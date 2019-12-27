@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Keri Yap
     .accesskey = K
+text-action-redo =
+    .label = Kene Yap
+    .accesskey = n
 text-action-cut =
     .label = Kes
     .accesskey = k
