@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Xerentsï
     .accesskey = X
+text-action-redo =
+    .label = ÚntsÏ
+    .accesskey = Ú
 text-action-cut =
     .label = Akuarhetani
     .accesskey = a
