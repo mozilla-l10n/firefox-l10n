@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Gony
     .accesskey = G
+text-action-redo =
+    .label = Nwo timo
+    .accesskey = N
 text-action-cut =
     .label = Ngol
     .accesskey = o
