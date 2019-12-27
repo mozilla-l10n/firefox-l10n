@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Հետարկել
     .accesskey = Հ
+text-action-redo =
+    .label = Կրկնել
+    .accesskey = Կ
 text-action-cut =
     .label = Կտրել
     .accesskey = ր
