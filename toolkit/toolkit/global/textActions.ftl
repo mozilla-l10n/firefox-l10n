@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Desegin
     .accesskey = D
+text-action-redo =
+    .label = Berregin
+    .accesskey = r
 text-action-cut =
     .label = Ebaki
     .accesskey = E
