@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Zpět
     .accesskey = Z
+text-action-redo =
+    .label = Znovu
+    .accesskey = o
 text-action-cut =
     .label = Vyjmout
     .accesskey = y
