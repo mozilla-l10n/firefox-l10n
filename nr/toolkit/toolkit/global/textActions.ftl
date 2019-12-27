@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Susa
     .accesskey = S
+text-action-redo =
+    .label = Susa
+    .accesskey = S
 text-action-cut =
     .label = Sika
     .accesskey = s
