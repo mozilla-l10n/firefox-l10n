@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Urungkan
     .accesskey = g
+text-action-redo =
+    .label = Ulangi
+    .accesskey = U
 text-action-cut =
     .label = Potong
     .accesskey = t
