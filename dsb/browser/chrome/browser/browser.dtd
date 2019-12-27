@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Musyśo swójo konto wobkšuśiś, nježli až móžośo synchronizěrowaś.">
 <!ENTITY fxa.unverified.button.label "Nastajenja &syncBrand.shortName.label; wócyniś…">
 
-<!ENTITY pictureInPictureHideToggle.label "Pśešaltowanje wobraz-we-wobrazu schowaś">
-<!ENTITY pictureInPictureHideToggle.accesskey "P">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Pśizjawjony ako">
 <!ENTITY fxa.menu.manageAccount.label "Konto zastojaś…">
 <!ENTITY fxa.menu.syncSettings.label "Nastajenja &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Pśešaltowanje wobraz-we-wobrazu schowaś">
+<!ENTITY pictureInPictureHideToggle.accesskey "P">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Pla &brandProductName; pśizjawiś">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; zmóžniś">
 <!ENTITY fxa.menu.firefoxServices.label "Słužby &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.settings.label "Nastajenja">
 <!ENTITY fxa.menu.accountSettings.label "Kontowe nastajenja">
+<!ENTITY fxa.menu.manageAccount2.label "Konto zastojaś">
 <!ENTITY fxa.menu.signOut.label "Wótzjawiś…">
 <!ENTITY fxa.menu.deviceSettings.label "Rědowe nastajenja">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; konfigurěrowaś…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "Z">
 <!ENTITY stopCmd.label                "Stoj">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "K adresy w adresowem pólu">
 <!ENTITY printButton.label            "Śišćaś">
@@ -568,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Pytaś z:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Něnto pytaś z:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY openLinkCmdInTab.label       "Wótkaz w nowem rejtarku wócyniś">
+
 <!ENTITY openLinkCmdInTab.accesskey   "r">
 <!ENTITY openLinkCmd.label            "Wótkaz w nowem woknje wócyniś">
 <!ENTITY openLinkCmd.accesskey        "n">
@@ -601,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
 <!ENTITY showOnlyThisFrameCmd.accesskey "J">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Wobłuk znowego zacytaś">
 <!ENTITY reloadFrameCmd.accesskey     "z">
@@ -651,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Bok składowaś ako…">
 <!ENTITY savePageCmd.accesskey        "B">
 <!ENTITY savePageCmd.accesskey2       "s">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Wobłuk składowaś ako…">
 <!ENTITY saveFrameCmd.accesskey       "b">
@@ -817,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "b">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Směr teksta pśešaltowaś">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Na toś tom boku pytaś…">
@@ -940,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Cogodla?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Gaž šćit znjemóžnjaśo, se wšykne pśeslědowaki na toś tom sedle dowólujo. To móžo wěstu funkcionalnosć websedła pólěpšyś.">
-<!ENTITY protections.socialMediaTrackers.label "Pśeslědowaki socialnych medijow">
-<!ENTITY protections.crossSiteTrackingCookies.label "Slědujuce cookieje mjazy sedłami">
-<!ENTITY protections.trackingContent.label "Slědujuce wopśimjeśe">
-<!ENTITY protections.fingerprinters.label "Palcowe wótśišće">
-<!ENTITY protections.cryptominers.label "Kryptokopanje">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Wšykne pśeslědowaki na toś tom sydle su se zacytali, dokulaž šćit jo znjemóžnjony.">
 <!ENTITY protections.noTrackersFound.description "Žedne pśeslědowaki, kótarež &brandShortName; znajo, njejsu se namakali na toś tom boku.">
 
@@ -968,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Pla &syncBrand.shortName.label; pśizjawiś…">
 <!ENTITY syncSignIn.accesskey         "P">
-
 <!ENTITY syncSyncNowItem.label        "Něnto synchronizěrowaś">
 <!ENTITY syncSyncNowItemSyncing.label "Synchronizěrujo se…">
 <!ENTITY syncSyncNowItem.accesskey    "N">
@@ -1006,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "n">
 
 <!ENTITY contentBlocking.socialblock.label "Pśeslědowaki socialnych medijow">
-
-<!ENTITY contentBlocking.cookies2.label "Slědujuce cookieje mjazy sedłami">
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptokopanje">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptokopanje">
