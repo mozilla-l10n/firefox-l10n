@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Atsaukt
     .accesskey = u
+text-action-redo =
+    .label = Pārdarīt
+    .accesskey = r
 text-action-cut =
     .label = Izgriezt
     .accesskey = t
