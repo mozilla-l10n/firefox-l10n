@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Болдырмау
     .accesskey = Б
+text-action-redo =
+    .label = Қайталау
+    .accesskey = й
 text-action-cut =
     .label = Қиып алу
     .accesskey = ы
