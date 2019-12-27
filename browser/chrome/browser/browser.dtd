@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "You’ll need to verify your account before you can synchronise.">
 <!ENTITY fxa.unverified.button.label "Open &syncBrand.shortName.label; Settings…">
 
-<!ENTITY pictureInPictureHideToggle.label "Hide Picture-in-Picture Toggle">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Signed in as">
 <!ENTITY fxa.menu.manageAccount.label "Manage Account…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Settings…">
+
+<!ENTITY pictureInPictureHideToggle.label "Hide Picture-in-Picture Toggle">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Sign in to &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Turn on &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Services">
-
 <!ENTITY fxa.menu.account.label "Account">
 <!ENTITY fxa.menu.settings.label "Settings">
 <!ENTITY fxa.menu.accountSettings.label "Account Settings">
+<!ENTITY fxa.menu.manageAccount2.label "Manage Account">
 <!ENTITY fxa.menu.signOut.label "Sign Out…">
 <!ENTITY fxa.menu.deviceSettings.label "Device Settings">
 <!ENTITY fxa.menu.setupSync.label "Set Up &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Go to the address in the Location Bar">
 <!ENTITY printButton.label            "Print">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "You have blocked this web site from using the Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "You have blocked MIDI access for this web site.">
 <!ENTITY urlbar.installBlocked.tooltip           "You have blocked add-on installation for this web site.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Show history">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Search with:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "This time, search with:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Open Link in New Tab">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Open Link in New Window">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Show Only This Frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Reload Frame">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Save Page As…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Save Frame As…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Switch Text Direction">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Find in This Page…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Why?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocking these could break elements of some web sites. Without trackers, some buttons, forms, and login fields might not work.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Turning off protections will allow all trackers on this site. It may also improve some web site functionality.">
-<!ENTITY protections.socialMediaTrackers.label "Social Media Trackers">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cross-Site Tracking Cookies">
-<!ENTITY protections.trackingContent.label "Tracking Content">
-<!ENTITY protections.fingerprinters.label "Fingerprinters">
-<!ENTITY protections.cryptominers.label "Cryptominers">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "All trackers on this site have been loaded because protections are turned off.">
 <!ENTITY protections.noTrackersFound.description "No trackers known to &brandShortName; were detected on this page.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Sign In To &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Synchronise Now">
 <!ENTITY syncSyncNowItemSyncing.label "Synchronising…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Social Media Trackers">
-
-<!ENTITY contentBlocking.cookies2.label "Cross-Site Tracking Cookies">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
