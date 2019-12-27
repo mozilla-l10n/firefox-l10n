@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Dizober
     .accesskey = D
+text-action-redo =
+    .label = Adober
+    .accesskey = r
 text-action-cut =
     .label = Troc'hañ
     .accesskey = T
