@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Batal
     .accesskey = B
+text-action-redo =
+    .label = Ulang
+    .accesskey = U
 text-action-cut =
     .label = Potong
     .accesskey = t
