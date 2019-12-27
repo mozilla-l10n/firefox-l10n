@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
@@ -368,7 +368,7 @@ update-in-progress-cancel-button = &Magpatuloy
 
 ## General Section - Performance
 
-performance-title = Pagganap
+performance-title = Performance
 performance-use-recommended-settings-checkbox =
     .label = Gamitin ang inirerekomendang mga performance setting
     .accesskey = U
@@ -727,6 +727,7 @@ privacy-header = Browser Privacy
 ## Privacy Section - Logins and Passwords
 
 logins-header = Mga Login at mga Password
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Magtanong kung dapat mag-save ng mga login at password sa mga website
     .accesskey = r
@@ -740,6 +741,7 @@ forms-breach-alerts =
     .label = Magpakita ng mga alerto tungkol sa mga password sa mga breached website
     .accesskey = b
 forms-breach-alerts-learn-more-link = Alamin
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = I-autofill ang mga login at password
     .accesskey = i
@@ -894,7 +896,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasadya
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Balansado para sa proteksyon at performance. Normal na maglo-load ang mga pahina.
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.
