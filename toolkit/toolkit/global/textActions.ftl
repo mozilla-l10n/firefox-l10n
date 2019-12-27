@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Rückgängig
     .accesskey = R
+text-action-redo =
+    .label = Wiederherstellen
+    .accesskey = W
 text-action-cut =
     .label = Ausschneiden
     .accesskey = A
