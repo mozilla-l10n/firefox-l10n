@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Geri al
     .accesskey = G
+text-action-redo =
+    .label = Yinele
+    .accesskey = n
 text-action-cut =
     .label = Kes
     .accesskey = e
