@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Адмяніць
     .accesskey = м
+text-action-redo =
+    .label = Вярнуць
+    .accesskey = р
 text-action-cut =
     .label = Выразаць
     .accesskey = р
