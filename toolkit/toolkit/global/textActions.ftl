@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Cofnyć
     .accesskey = C
+text-action-redo =
+    .label = Wospjetować
+    .accesskey = o
 text-action-cut =
     .label = Wutřihać
     .accesskey = t
