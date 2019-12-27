@@ -5,6 +5,9 @@
 text-action-undo =
     .label = کالعدم کریں
     .accesskey = U
+text-action-redo =
+    .label = اعادہ کریں
+    .accesskey = R
 text-action-cut =
     .label = کاٹیں
     .accesskey = t
