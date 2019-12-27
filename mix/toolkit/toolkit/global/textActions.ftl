@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Stoò
     .accesskey = U
+text-action-redo =
+    .label = Ndasa'a
+    .accesskey = R
 text-action-cut =
     .label = Kancha
     .accesskey = t
