@@ -5,6 +5,9 @@
 text-action-undo =
     .label = सिगांनि महराव लाबोफिन
     .accesskey = U
+text-action-redo =
+    .label = मावफिन
+    .accesskey = R
 text-action-cut =
     .label = दानस'
     .accesskey = t
