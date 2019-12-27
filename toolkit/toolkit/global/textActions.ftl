@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Copni
     .accesskey = i
+text-action-redo =
+    .label = Doprowadzë nazôd
+    .accesskey = p
 text-action-cut =
     .label = Wëtni
     .accesskey = W
