@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Cofnij
     .accesskey = C
+text-action-redo =
+    .label = Przywróć
+    .accesskey = P
 text-action-cut =
     .label = Wytnij
     .accesskey = W
