@@ -5,6 +5,9 @@
 text-action-undo =
     .label = ପଦକ୍ଷେପ ବାତିଲ କରନ୍ତୁ
     .accesskey = U
+text-action-redo =
+    .label = ପୁଣି କରନ୍ତୁ
+    .accesskey = R
 text-action-cut =
     .label = କାଟନ୍ତୁ
     .accesskey = t
