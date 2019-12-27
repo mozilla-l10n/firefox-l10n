@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Geri al
     .accesskey = G
+text-action-redo =
+    .label = Təkrarla
+    .accesskey = T
 text-action-cut =
     .label = Kəs
     .accesskey = K
