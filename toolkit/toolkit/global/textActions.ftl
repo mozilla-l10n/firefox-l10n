@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Fortryd
     .accesskey = F
+text-action-redo =
+    .label = Gendan
+    .accesskey = G
 text-action-cut =
     .label = Klip
     .accesskey = K
