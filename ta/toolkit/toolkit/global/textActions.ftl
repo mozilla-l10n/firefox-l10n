@@ -5,6 +5,9 @@
 text-action-undo =
     .label = செயல்தவிர்
     .accesskey = U
+text-action-redo =
+    .label = மீட்டல்
+    .accesskey = R
 text-action-cut =
     .label = வெட்டு
     .accesskey = t
