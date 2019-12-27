@@ -5,6 +5,9 @@
 text-action-undo =
     .label = చర్యరద్దు
     .accesskey = U
+text-action-redo =
+    .label = పునరాచరణ
+    .accesskey = R
 text-action-cut =
     .label = కత్తిరించు
     .accesskey = t
