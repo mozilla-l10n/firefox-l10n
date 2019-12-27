@@ -5,6 +5,9 @@
 text-action-undo =
     .label = ביטול
     .accesskey = ט
+text-action-redo =
+    .label = ביצוע שוב
+    .accesskey = צ
 text-action-cut =
     .label = גזירה
     .accesskey = ג
