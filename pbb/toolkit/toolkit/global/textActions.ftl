@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Khũkhnxi
     .accesskey = K
+text-action-redo =
+    .label = Ki'h vxithna
+    .accesskey = K
 text-action-cut =
     .label = Spẽthna
     .accesskey = S
