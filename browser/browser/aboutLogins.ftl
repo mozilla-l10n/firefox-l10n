@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Aanmeldingen zoeken
 create-login-button = Nieuwe aanmelding maken
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon voor { $title }
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
 fxaccounts-sign-in-button = Aanmelden bij { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Uw zoekopdracht heeft geen re
 login-list-item-title-new-login = Nieuwe aanmelding
 login-list-item-subtitle-new-login = Voer uw aanmeldgegevens in
 login-list-item-subtitle-missing-username = (geen gebruikersnaam)
-about-logins-list-item-warning-icon =
-    .alt = Waarschuwingspictogram
-    .title = Website met datalek
 about-logins-list-item-breach-icon =
     .title = Website met datalek
 
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Wachtwoord tonen
 login-item-password-reveal-checkbox-hide =
     .title = Wachtwoorden verbergen
+login-item-password-reveal-checkbox =
+    .aria-label = Wachtwoord tonen
 login-item-copy-password-button-text = Kopiëren
 login-item-copied-password-button-text = Gekopieerd!
 login-item-save-changes-button = Wijzigingen opslaan
@@ -153,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Er bestaat al een vermelding voor { $loginTitle } met die gebruikersnaam.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
