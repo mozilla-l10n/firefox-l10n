@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Přizjewjenja pytać
 create-login-button = Nowe přizjewjenje załožić
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Fawikon za { $title }
 fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
 fxaccounts-sign-in-button = So pola { -sync-brand-short-name } přizjewić
 fxaccounts-avatar-button =
@@ -63,9 +58,6 @@ about-logins-login-list-empty-search-description = Njejsu žane wuslědki, kotre
 login-list-item-title-new-login = Nowe přizjewjenje
 login-list-item-subtitle-new-login = Zapodajće swoje přizjewjenske daty
 login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
-about-logins-list-item-warning-icon =
-    .alt = Warnowanski symbol
-    .title = Zranjene websydło
 about-logins-list-item-breach-icon =
     .title = Zranjene websydło
 
@@ -98,6 +90,8 @@ login-item-password-reveal-checkbox-show =
     .title = Hesło pokazać
 login-item-password-reveal-checkbox-hide =
     .title = Hesło schować
+login-item-password-reveal-checkbox =
+    .aria-label = Hesło pokazać
 login-item-copy-password-button-text = Kopěrować
 login-item-copied-password-button-text = Kopěrowane!
 login-item-save-changes-button = Změny składować
@@ -155,11 +149,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Zapisk za { $loginTitle } z tym wužiwarskim mjenom hižo eksistuje.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
