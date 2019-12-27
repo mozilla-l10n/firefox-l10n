@@ -5,6 +5,9 @@
 text-action-undo =
     .label = ਵਾਪਸ
     .accesskey = U
+text-action-redo =
+    .label = ਮੁੜ-ਪਹਿਲਾਂ
+    .accesskey = R
 text-action-cut =
     .label = ਕੱਟੋ
     .accesskey = t
