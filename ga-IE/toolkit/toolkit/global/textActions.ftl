@@ -5,6 +5,9 @@
 text-action-undo =
     .label = Cealaigh
     .accesskey = l
+text-action-redo =
+    .label = Athfheidhmigh
+    .accesskey = f
 text-action-cut =
     .label = Gearr
     .accesskey = G
