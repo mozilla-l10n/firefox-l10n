@@ -5,6 +5,9 @@
 text-action-undo =
     .label = 復原
     .accesskey = U
+text-action-redo =
+    .label = 取消「復原」
+    .accesskey = R
 text-action-cut =
     .label = 剪下
     .accesskey = t
