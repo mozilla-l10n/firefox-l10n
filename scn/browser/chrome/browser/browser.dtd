@@ -344,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "Lu to' cuntu àvi a èssiri virificatu.">
 <!ENTITY appMenuRemoteTabs.signin.label "Trasi nne Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Trasi nne &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Talìa a sbarra di fajanca dî schedi syncati">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Talìa a sbarra di ciancu dî schedi sincrunizzati">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Cunnetti n'autru dispusitivu">
 
 

@@ -5,5 +5,5 @@
 restart-required-title = Riabbìu nicissariu
 restart-required-header = Scusa. Ni manca na cusuzza di fari prima di cuntinuari.
 restart-required-intro-brand = { -brand-short-name } fu attualizzatu ora ora 'n suttafunnu. Ammacca Riabbìa { -brand-short-name } pi cumplitari l'attualizzazziuni.
-restart-required-description = Riprisitinaremu tutti i to pàggini, finestri e schedi succissivamenti, accussì po' cuntinuari sùbbitu.
+restart-required-description = Ricupiraremu tutti i to pàggini, finestri e schedi succissivamenti, accussì po' cuntinuari sùbbitu.
 restart-button-label = Riabbìa { -brand-short-name }
