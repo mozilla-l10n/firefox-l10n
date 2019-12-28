@@ -5,6 +5,7 @@
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Pòrtati i chiavi unn'è-è
 login-app-promo-subtitle = Nzìtati l'appricazziuni { -lockwise-brand-name } a gratis
 fxaccounts-sign-in-button = Trasi nne { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -18,6 +19,7 @@ about-logins-menu-menuitem-help = Ajutu
 
 ## Login List
 
+about-logins-login-list-empty-search-description = Nun cci sunnu risurtati pâ to ricerca.
 
 ## Introduction screen
 

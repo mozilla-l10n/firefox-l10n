@@ -110,8 +110,8 @@ search-results-header = Risurtati dâ ricerca
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query">” nnê prifirenzi.
-       *[other] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query">” nnê prifirenzi.
+        [windows] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query"></span>” nnê prifirenzi.
+       *[other] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query"></span>” nnê prifirenzi.
     }
 search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name="url">supportu di { -brand-short-name }</a>
 
@@ -560,7 +560,7 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Portati appressu a to Riti
+sync-signedout-caption = Pòrtati appressu a to Riti
 sync-signedout-description = Sincrunizza i to nzingalibbri, a cronuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
 sync-signedout-account-title = Cunnetti cu un { -fxaccount-brand-name }
 sync-signedout-account-create = Nun ài un cuntu? Accumincia

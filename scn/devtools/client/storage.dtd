@@ -10,6 +10,6 @@
 <!ENTITY storage.popupMenu.deleteAllLabel "Cancella tuttu">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
-<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Cancella tutti i cooki di sissiuni">
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Cancella tutti i cookie di sissiuni">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
