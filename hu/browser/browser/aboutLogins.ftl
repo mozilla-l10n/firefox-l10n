@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Bejelentkezések keresése
 create-login-button = Új bejelentkezés létrehozása
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon a következőhöz: { $title }
 fxaccounts-sign-in-text = Érje el jelszavait a többi eszközén is
 fxaccounts-sign-in-button = Jelentkezzen be a { -sync-brand-short-name }be
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Nincs találat, amely megfele
 login-list-item-title-new-login = Új bejelentkezés
 login-list-item-subtitle-new-login = Adja meg a bejelentkezési adatait
 login-list-item-subtitle-missing-username = (nincs felhasználónév)
-about-logins-list-item-warning-icon =
-    .alt = Figyelmeztetés ikon
-    .title = Adatsértésben érintett weboldal
 about-logins-list-item-breach-icon =
     .title = Adatsértésben érintett weboldal
 
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Jelszó megjelenítése
 login-item-password-reveal-checkbox-hide =
     .title = Jelszó elrejtése
+login-item-password-reveal-checkbox =
+    .aria-label = Jelszó megjelenítése
 login-item-copy-password-button-text = Másolás
 login-item-copied-password-button-text = Másolva!
 login-item-save-changes-button = Változások mentése
@@ -153,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Már létezik egy bejegyzés azzal a felhasználónévvel ennél: { $loginTitle }.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
