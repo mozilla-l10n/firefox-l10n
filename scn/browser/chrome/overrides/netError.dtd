@@ -17,6 +17,7 @@
 
 
 
+<!ENTITY generic.title "Ah!">
 
 
 
@@ -55,6 +56,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY certerror.copyToClipboard.label "Copia u testu nnô pitazzu">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

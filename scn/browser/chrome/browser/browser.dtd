@@ -25,7 +25,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Signalía scheda">
+<!ENTITY  pinTab.label                       "Appizza scheda">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -101,7 +101,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Trasi nne &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Rapi i prifirenzi di &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Cullègati arrè cu &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Virífica u to' cuntu">
+<!ENTITY fxaUnverified.label "Virìfica u to cuntu">
 
 
  <!-- } is above this key on many keyboards -->
@@ -456,11 +456,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Càrrica arrè u quatru">
 <!ENTITY reloadFrameCmd.accesskey     "C">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Talía a funti dâ silizziuni">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Talìa u còdici dâ silizziuni">
 <!ENTITY viewPartialSourceCmd.accesskey "f">
-<!ENTITY viewPageSourceCmd.label      "Talía a funti dâ pàggina">
+<!ENTITY viewPageSourceCmd.label      "Talìa u còdici dâ pàggina">
 <!ENTITY viewPageSourceCmd.accesskey  "T">
-<!ENTITY viewFrameSourceCmd.label     "Talía a funti dû quatru">
+<!ENTITY viewFrameSourceCmd.label     "Talìa u còdici dû quatru">
 <!ENTITY viewFrameSourceCmd.accesskey "T">
 <!ENTITY viewPageInfoCmd.label        "Nfurmazziuna dâ pàggina">
 <!ENTITY viewPageInfoCmd.accesskey    "N">
@@ -468,14 +468,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "N">
 <!ENTITY reloadImageCmd.label         "Càrrica arrè mmàggini">
 <!ENTITY reloadImageCmd.accesskey     "C">
-<!ENTITY viewImageCmd.label           "Talía mmàggini">
+<!ENTITY viewImageCmd.label           "Talìa a mmàggini">
 <!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY viewImageInfoCmd.label       "Nfurmazziuna dâ mmàggini">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Talìa discrizziuni">
+<!ENTITY viewImageDescCmd.label       "Talìa a discrizziuni">
 <!ENTITY viewImageDescCmd.accesskey   "d">
-<!ENTITY viewVideoCmd.label           "Talía vídiu">
-<!ENTITY viewBGImageCmd.label         "Talía a mmàggini ô funnu">
+<!ENTITY viewVideoCmd.label           "Talìa u vidiu">
+<!ENTITY viewBGImageCmd.label         "Talìa a mmàggini ô funnu">
 <!ENTITY bookmarkPageCmd2.label       "Nzinga sta pàggina">
 <!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
@@ -497,13 +497,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "j">
 <!ENTITY saveImageCmd.label           "Sarba a mmàggini comu…">
 <!ENTITY saveImageCmd.accesskey       "r">
-<!ENTITY saveVideoCmd.label           "Sarba u vídiu comu…">
+<!ENTITY saveVideoCmd.label           "Sarba u vidiu comu…">
 <!ENTITY saveVideoCmd.accesskey       "r">
 <!ENTITY saveAudioCmd.label           "Sarba u sonu comu…">
 <!ENTITY saveAudioCmd.accesskey       "r">
 <!ENTITY emailImageCmd.label          "Manna a mmàggini…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Manna u vídiu…">
+<!ENTITY emailVideoCmd.label          "Manna u vidiu…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Manna u sonu…">
 <!ENTITY emailAudioCmd.accesskey      "a">

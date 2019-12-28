@@ -30,7 +30,8 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 
-<!ENTITY translation.showTranslation.button     "Talía traduzziuni">
+<!ENTITY translation.showOriginal.button        "Talìa l'urigginali">
+<!ENTITY translation.showTranslation.button     "Talìa a traduzziuni">
 
 <!ENTITY translation.tryAgain.button            "Riprova">
 

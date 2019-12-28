@@ -96,6 +96,7 @@
      -->
 <!ENTITY openDownloadsFolder.label        "Rapi a carpetta dî scarricamenti">
 
+<!ENTITY clearDownloadsButton.label       "Pulizzìa i scarricamenti">
 <!ENTITY clearDownloadsButton.tooltip     "Leva scarricamenti cunchiujuti, sfalluti e falluti">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):

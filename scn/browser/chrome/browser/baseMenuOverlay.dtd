@@ -29,7 +29,7 @@
 <!ENTITY helpFeedbackPage.label      "Manna riscontru…">
 <!ENTITY helpFeedbackPage.accesskey  "c">
 
-<!ENTITY helpShowTour2.label            "Vísita cunnuciuta di &brandShorterName;">
+<!ENTITY helpShowTour2.label            "Vìsita cunnuciuta di &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "V">
 
 <!ENTITY preferencesCmdMac.label        "Prifirenzi…">
