@@ -308,7 +308,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contengut amb Digital Rights Management (DRM)
 play-drm-content =
@@ -644,6 +644,7 @@ privacy-header = Confidencialitat del navegador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Identificants e senhals
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Demandar per salvar los identificants e senhals dels sites
     .accesskey = r
@@ -782,7 +783,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizat
     .accesskey = P
 
-##
+
 
 content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
@@ -795,7 +796,7 @@ content-blocking-tracking-protection-option-all-windows =
     .label = Dins totas las fenèstras
     .accesskey = D
 content-blocking-option-private =
-    .label = Soque las fenèstras privadas
+    .label = Snoque las fenèstras privadas
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Cambiar la lista de blocatge
 content-blocking-cookies-label =
