@@ -809,6 +809,7 @@ permissions-a11y-privacy-link = مزید سیکھیں
 ## Privacy Section - Data Collection
 
 collection-privacy-notice = رازداری کا نوٹس
+collection-health-report-telemetry-disabled-link = مزید سیکھیں
 collection-health-report-link = مزید سیکھیں
 addon-recommendations-link = مزید سیکھیں
 collection-backlogged-crash-reports-link = مزید سیکھیں
