@@ -93,8 +93,8 @@ auto-scan = Cuntrullatu autumaticamenti oji
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-        [one] Nnirizzu di posta elittrònica munituratu
-       *[other] Nnirizzi di posta elittrònica muniturati
+        [one] Nnirizzu e-mail munituratu
+       *[other] Nnirizzi e-mail muniturati
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to

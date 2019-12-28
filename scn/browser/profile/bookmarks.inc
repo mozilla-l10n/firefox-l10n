@@ -10,6 +10,7 @@
 #define bookmarks_title Nzingalibbri
 #define bookmarks_heading Nzingalibbri
 
+#define bookmarks_toolbarfolder Carpetta dâ sbarra dî nzingalibbri
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/

@@ -45,7 +45,7 @@ menu-view =
     .label = Vidi
     .accesskey = V
 menu-view-toolbars-menu =
-    .label = Sbarri dî strummenta
+    .label = Sbarri dî strumenti
     .accesskey = s
 menu-view-customize-toolbar =
     .label = Pirsunalizza…
@@ -100,7 +100,7 @@ menu-bookmarks-mobile =
 ## Tools Menu
 
 menu-tools =
-    .label = Strummenta
+    .label = Strumenti
     .accesskey = S
 menu-tools-downloads =
     .label = Scarricamenti

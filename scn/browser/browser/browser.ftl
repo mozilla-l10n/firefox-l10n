@@ -50,6 +50,9 @@ page-action-add-to-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Ammuccia sbarri dî strumenti
+    .accesskey = A
 
 ## Search Engine selection buttons (one-offs)
 
@@ -62,6 +65,9 @@ search-one-offs-change-settings-compact-button =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Mustra l'edituri quannu sarbi
+    .accesskey = s
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

@@ -7,14 +7,14 @@
 <!ENTITY editBookmarkOverlay.location.label                  "Postu:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "P">
 <!ENTITY editBookmarkOverlay.folder.label                    "Carpetta:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostra tutti quanti i carpetti dî nzingalibbri">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mustra tutti quanti i carpetti dî nzingalibbri">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ammuccia">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etichetti:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Sparti l'etichetti cu i virguli">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Palora chiavi:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "h">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mostra tutti l'etichetti">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Mustra tutti l'etichetti">
 <!ENTITY editBookmarkOverlay.choose.label                    "Scegghi…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nova carpetta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "c">

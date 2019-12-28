@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazziuni privata)">
 
 <!ENTITY appmenu.tooltip                     "Rapi u minù">
-<!ENTITY navbarOverflow.label                "Cchiù strummenta…">
+<!ENTITY navbarOverflow.label                "Cchiù strumenti…">
 
 <!-- Tab context menu -->
 
@@ -72,7 +72,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY bookmarksToolbarItem.label "Strummenta dî nzingalibbri">
+<!ENTITY bookmarksToolbarItem.label "Strumenti dî nzingalibbri">
 
 <!ENTITY pageSourceCmd.label "Còdici dâ pàggina">
 <!ENTITY pageSourceCmd.accesskey "d">
@@ -108,7 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullScreenMinimize.tooltip "Arriduci">
 <!ENTITY fullScreenClose.tooltip "Chiuji">
-<!ENTITY fullScreenAutohide.label "Ammuccia sbarri dî strummenta">
+<!ENTITY fullScreenAutohide.label "Ammuccia sbarri dî strumenti">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
@@ -224,9 +224,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Talìa sbarra dî nzingalibbri">
 <!ENTITY hideBookmarksToolbar.label         "Ammuccia a sbarra dî nzingalibbri">
 <!ENTITY searchBookmarks.label              "Cerca nnê nzingalibbri">
-<!ENTITY bookmarkingTools.label             "Strummenta pi nzingari">
-<!ENTITY addBookmarksMenu.label             "Agghiunci u minù dî nzingalibbri â sbarra dî strummenta">
-<!ENTITY removeBookmarksMenu.label          "Leva u minù dî nzingalibbri dâ sbarra dî strummenta">
+<!ENTITY bookmarkingTools.label             "Strumenti pî nzingalibbri">
+<!ENTITY addBookmarksMenu.label             "Agghiunci u minù dî nzingalibbri â sbarra dî strumenti">
+<!ENTITY removeBookmarksMenu.label          "Leva u minù dî nzingalibbri dâ sbarra dî strumenti">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Cronuluggìa">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Strummenta">
+<!ENTITY toolsMenu.label              "Strumenti">
 <!ENTITY toolsMenu.accesskey          "S">
 
 
@@ -294,13 +294,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Vidi">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "Sbarri dî strummenta">
+<!ENTITY viewToolbarsMenu.label       "Sbarri dî strumenti">
 <!ENTITY viewToolbarsMenu.accesskey     "s">
 <!ENTITY viewSidebarMenu.label "Sbarra di ciancu">
 
 <!ENTITY viewCustomizeToolbar.label       "Pirsunalizza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza a sbarra dî strummenta…">
+<!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza a sbarra dî strumenti…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Cronuluggìa">
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Cunnetti n'autru dispusitivu">
 
 
-<!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strummenta">
+<!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strumenti">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
@@ -356,7 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
-<!ENTITY customizeMenu.removeFromToolbar.label "Leva dâ sbarra dî strummenta">
+<!ENTITY customizeMenu.removeFromToolbar.label "Leva dâ sbarra dî strumenti">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "L">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
