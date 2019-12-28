@@ -40,3 +40,6 @@ serviceworker-worker-status-stopped = रुकी हुई
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = पंजीकृत किया जा रहा है
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = उद्देश्य: <code>{ $purpose }</code>
