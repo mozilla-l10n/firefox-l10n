@@ -95,6 +95,9 @@ onboarding-send-tabs-title = Mànnati i schedi di sùbbitu
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = “Manna schedi” sparti di sùbbitu i pàggini ntra i to dispusitivi senza ca ài a cupiari, ncuḍḍari o nèsciri dû navigaturi.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Sparti fàcili i pàggini ntra i to dispusitivi senza cupiari lijami o nèsciri dû navigaturi.
 onboarding-send-tabs-button = Accumincia a usari Manna schedi
 onboarding-pocket-anywhere-title = Leggi e ascuta unn'è-è
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }

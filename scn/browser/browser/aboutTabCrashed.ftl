@@ -4,7 +4,7 @@
 
 crashed-title = Signalaturi dû bloccu dî schedi
 crashed-close-tab-button = Chiuji scheda
-crashed-restore-tab-button = Riprìstina sta scheda
+crashed-restore-tab-button = Ricùpira sta scheda
 crashed-restore-all-button = Riprìstina tutti i schedi bluccati
 crashed-header = Ah. Si bluccò a scheda.
 crashed-offer-help = Putemu ajutari!

@@ -20,6 +20,8 @@
 <!ENTITY helpMac.commandkey       "?">
 
 
+<!ENTITY helpSafeMode.label       "Riabbìa cu l'agghiuncitini disabbilitati…">
+<!ENTITY helpSafeMode.stop.label       "Riabbìa cu l'agghiuncitini abbilitati">
 
 <!ENTITY helpTroubleshootingInfo.label      "Nfurmazziuna p'arrisòrbiri prubblemi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">

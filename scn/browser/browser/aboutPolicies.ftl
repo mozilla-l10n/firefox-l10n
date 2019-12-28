@@ -4,7 +4,7 @@
 
 about-policies-title = Pulìtichi di mprisa
 # 'Active' is used to describe the policies that are currently active
-active-policies-tab = All'attivu
+active-policies-tab = Attiva
 errors-tab = Errura
 documentation-tab = Ducumentazziuni
 no-specified-policies-message = U sirbizzu Pulìtichi di mprisa è attivu ma nun cci su' pulìtichi abbilitati.

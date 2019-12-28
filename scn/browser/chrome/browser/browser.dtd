@@ -61,7 +61,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Travagghia sculligatu">
 <!ENTITY goOfflineCmd.accesskey "g">
 
-<!ENTITY menubarCmd.label "Sbarra dî menú">
+<!ENTITY menubarCmd.label "Sbarra dî minù">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Sbarra di navigazziuni">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -107,7 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Arriduci">
-<!ENTITY fullScreenClose.tooltip "Chiudi">
+<!ENTITY fullScreenClose.tooltip "Chiuji">
 <!ENTITY fullScreenAutohide.label "Ammuccia sbarri dî strummenta">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
@@ -136,6 +136,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "è a tuttu schermu ora">
+<!ENTITY fullscreenWarning.generic.label "Sta pàggina ora è a tuttu schermu">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -154,7 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "pigghiau cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.">
 <!ENTITY pointerlockWarning.generic.label "Sta pàggini teni cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.">
 
-<!ENTITY closeWindow.label "Chiudi finestra">
+<!ENTITY closeWindow.label "Chiuji finestra">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Nzingalibbri">
@@ -190,6 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Rapi u quatru di missaggi pi l'archiviu fora linia">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Rapi u quatru dî missaggi di sarbataggiu dî chiavi">
 
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "U navigaturi è sutta cuntrollu rimotu">
 
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Diriggi usannu u tò micròfunu cu stu situ">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Diriggi usannu i toi finestri o tila cu stu situ">
@@ -302,10 +305,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Cronuluggìa">
 <!ENTITY historyMenu.accesskey "u">
-<!ENTITY historyUndoMenu.label "Schedi chiuduti di picca">
+<!ENTITY historyUndoMenu.label "Schedi chiujuti di picca">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Finestri chiuduti di picca">
-<!ENTITY historyRestoreLastSession.label "Arripigghia a sissiuni pricidenti">
+<!ENTITY historyUndoWindowMenu.label "Finestri chiujuti di picca">
+<!ENTITY historyRestoreLastSession.label "Ricùpira a sissiuni pricidenti">
 
 <!ENTITY showAllHistoryCmd2.label "Mustra tutta a cronuluggìa">
 
@@ -313,7 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuHistory.showAll.label "Mustra tutta a cronuluggìa">
 <!ENTITY appMenuHistory.clearRecent.label "Cancella cronuluggìa ricenti…">
-<!ENTITY appMenuHistory.restoreSession.label "Arripigghia a sissiuni pricidenti">
+<!ENTITY appMenuHistory.restoreSession.label "Ricùpira a sissiuni pricidenti">
 <!ENTITY appMenuHistory.viewSidebar.label "Talìa sbarra di ciancu dâ cronuluggìa">
 <!ENTITY appMenuHistory.recentHistory.label "Cronuluggìa ricenti">
 <!ENTITY appMenuHelp.label "Ajutu">
@@ -552,6 +555,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.label         "Risetta">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -559,14 +563,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.label        "Larghija sulu u testu">
 
 
-<!ENTITY sidebarCloseButton.tooltip     "Chiudi a sbarra di ciancu">
-<!ENTITY sidebarMenuClose.label         "Chiudi a sbarra di ciancu">
+<!ENTITY sidebarCloseButton.tooltip     "Chiuji a sbarra di ciancu">
+<!ENTITY sidebarMenuClose.label         "Chiuji a sbarra di ciancu">
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Chiudi">
+<!ENTITY closeCmd.label                 "Chiuji">
 
 <!ENTITY closeCmd.key                   "W">
 
@@ -597,8 +601,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 
-<!ENTITY identity.connectionNotSecure "A cunnissioni nun e' sicura">
+<!ENTITY identity.connectionNotSecure "A cunnissiuni nun è sicura">
 
+<!ENTITY identity.connectionFile "Sta pàggina è sarbata nnô to computer.">
+<!ENTITY identity.connectionInternal "Chista è na pàggina sicura di &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "I firmati scritti nta sta pàggina cùrrinu rìsicu.">
 
 
@@ -608,13 +614,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "A cunnissiuni a stu situ nun è privata. I nfurmazziuna chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).">
-<!ENTITY identity.description.insecureLoginForms "A nfurmazziuni d'accuminzagghia chi cci metti nta sta pàggina nun e' sicura si pò èssiri  siquistrata.">
-<!ENTITY identity.description.weakCipher "A to cunnissioni usa u cifrariu fraccu e nun e' privata.">
+<!ENTITY identity.description.insecureLoginForms "I nfurmazziuna d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.">
+<!ENTITY identity.description.weakCipher "A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.">
 <!ENTITY identity.description.weakCipher2 "Autri ponnu vìdiri i to nfurmazziuna o canciari u cumpurtamentu dû situ web.">
 <!ENTITY identity.description.passiveLoaded "A to cunnissiuni nun è privata e i nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri.">
-<!ENTITY identity.description.passiveLoaded2 "Stu situ cunteni zoccu nun e' sicuru (comu i mmàggini).">
-<!ENTITY identity.description.passiveLoaded3 "Puru ca &brandShortName; nzirrau parti dû cuntinutu, ancora s'arrèsta cuntinutu supra sta pàggina chi nun e' sicuru (comu i mmàggini).">
-<!ENTITY identity.description.activeLoaded "Stu zitu cunteni zoccu nun e' sicuru (comu i scritti) e a to cunnissioni nun e' privata.">
+<!ENTITY identity.description.passiveLoaded2 "Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini).">
+<!ENTITY identity.description.passiveLoaded3 "Puru ca &brandShortName; bluccò parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).">
+<!ENTITY identity.description.activeLoaded "Stu situ cunteni cuntinutu ca nun è sicuru (comu i script) e a to cunnissiuni nun è privata.">
 <!ENTITY identity.description.activeLoaded2 "I nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Arma â prutizziuni">
@@ -665,7 +671,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Màchina di fotu pi cullabburazziuni:">
 <!ENTITY getUserMedia.selectMicrophone.label "Micròfunu pi cullabburazziuni:">
-<!ENTITY getUserMedia.audioCapture.label "Lu sonu di sta scheda e' pi cullabburazziuni.">
+<!ENTITY getUserMedia.audioCapture.label "U sonu dâ scheda sarà spartutu.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutti i finestri visìbbili sunnu pi cullabburazziuni.">
 
 
@@ -699,6 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
+<!ENTITY uiTour.infoPanel.close "Chiuji">
 
 <!ENTITY panicButton.thankyou.msg1                "Cancillasti a cronuluggìa ricenti.">
 

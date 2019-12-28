@@ -10,3 +10,6 @@ translation-languages-button-remove-all =
 translation-sites-button-remove-all =
     .label = Leva tutti i siti
     .accesskey = v
+translation-button-close =
+    .label = Chiuji
+    .accesskey = C

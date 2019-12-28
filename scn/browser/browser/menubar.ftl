@@ -8,6 +8,9 @@
 menu-file-open-file =
     .label = Rapi pricu…
     .accesskey = p
+menu-file-close-window =
+    .label = Chiuji finestra
+    .accesskey = f
 menu-file-email-link =
     .label = Manna lijami…
     .accesskey = M
@@ -72,11 +75,11 @@ menu-history-show-all-history =
 menu-history-clear-recent-history =
     .label = Cancella cronuluggìa ricenti…
 menu-history-restore-last-session =
-    .label = Arripigghia a sissiuni pricidenti
+    .label = Ricùpira a sissiuni pricidenti
 menu-history-undo-menu =
-    .label = Schedi chiuduti di picca
+    .label = Schedi chiujuti di picca
 menu-history-undo-window-menu =
-    .label = Finestri chiuduti di picca
+    .label = Finestri chiujuti di picca
 
 ## Bookmarks Menu
 
