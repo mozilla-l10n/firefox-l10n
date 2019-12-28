@@ -16,6 +16,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Vai avanti di na pàggina
+    .aria-label = Avanti
+    .accesskey = A
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -31,6 +35,9 @@ toolbar-button-reload =
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Ferma
+    .accesskey = F
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -49,6 +56,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Nzinga sta pàggina
+    .accesskey = N
 main-context-menu-open-link =
     .label = Rapi u lijami
     .accesskey = l
@@ -70,11 +80,20 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Sarba u lijami comu…
     .accesskey = j
+main-context-menu-save-link-to-pocket =
+    .label = Sarba lijami nne { -pocket-brand-name }
+    .accesskey = S
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copia u nnirizzu email
+    .accesskey = C
+main-context-menu-copy-link =
+    .label = Copia u lijami
+    .accesskey = C
 
 ## Media (video/audio) controls
 ##
@@ -82,9 +101,21 @@ main-context-menu-save-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Ripruduci
+    .accesskey = R
+main-context-menu-media-pause =
+    .label = Pausa
+    .accesskey = P
 
 
 
+main-context-menu-media-mute =
+    .label = Zitti
+    .accesskey = Z
+main-context-menu-media-unmute =
+    .label = Sona
+    .accesskey = S
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
