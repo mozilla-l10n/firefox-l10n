@@ -6,6 +6,7 @@ about-logins-page-title = لاگ ان اور پاس ورڈ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = اپنے پاس ورڈ ہر جگہ لے  جاٴییں
 login-app-promo-subtitle = { -lockwise-brand-name } ایپلیکیشن  مفت  حاصل  کریں
 login-app-promo-android =
     .alt = Google Play سے حاصل کریں
@@ -74,6 +75,8 @@ login-item-password-reveal-checkbox-show =
     .title = پاس ورڈدکھائیں
 login-item-password-reveal-checkbox-hide =
     .title = پاس ورڈ چھپائیں
+login-item-password-reveal-checkbox =
+    .aria-label = پاس ورڈ  دکھائیں
 login-item-copy-password-button-text = نقل کریں
 login-item-copied-password-button-text = نقل شدہ!
 login-item-save-changes-button = تبدیلیاں محفوظ کریں
