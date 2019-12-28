@@ -237,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "रूकें">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पता में जाएँ">
 <!ENTITY printButton.label            "छापें">
@@ -568,6 +569,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "नए टैब में कड़ी खोलें">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "नए विंडो में कड़ी खोलें">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -583,6 +585,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "सिर्फ यह फ्रेम दिखाएँ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ढाँचा फिर लोड करें">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -633,6 +636,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "पृष्ठ ऐसे सहेजें…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "पी">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "फ्रेम ऐसे सहेजें…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -799,6 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        " पाठ दिशा बदलें">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     " इस पृष्ठ में ढूँढ़ें…">
@@ -887,6 +892,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.forms "फ़ॉर्म">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "भुगतान">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "टिप्पणियाँ">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "वीडियो">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "एक रिपोर्ट भेजें">

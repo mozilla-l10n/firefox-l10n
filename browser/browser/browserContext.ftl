@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = ठहरें
     .accesskey = P
 
-##
+
 
 main-context-menu-media-mute =
     .label = मौन
@@ -156,13 +156,18 @@ main-context-menu-media-hide-controls =
     .label = नियंत्रण छिपाएँ
     .accesskey = C
 
-##
+
 
 main-context-menu-media-video-fullscreen =
     .label = पूर्ण स्क्रीन
     .accesskey = प
 main-context-menu-media-video-leave-fullscreen =
     .label = पूर्ण स्क्रीन से निकलें
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = चित्र-में-चित्र
     .accesskey = u
 main-context-menu-image-reload =
     .label = छवि फिर लोड करें
