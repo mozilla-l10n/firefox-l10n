@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazziuni privata)">
 
-<!ENTITY appmenu.tooltip                     "Rapi minù">
+<!ENTITY appmenu.tooltip                     "Rapi u minù">
 <!ENTITY navbarOverflow.label                "Cchiú strummenta…">
 
 <!-- Tab context menu -->
@@ -48,6 +48,7 @@ in "Search through tabs". -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Rapi nnirizzu…">
 <!ENTITY openFileCmd.label "Rapi pricu…">
 <!ENTITY openFileCmd.accesskey "G">
 <!ENTITY openFileCmd.commandkey "o">
@@ -183,11 +184,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Talìa nfurmazziuna dû situ">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Rapi u quatru dî missaggi">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Rapi u quatru dâ richiesta dâ pusizziuni">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Rapi u quatru dî missaggi di nzitamentu di l'agghiuncitini">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Rapi u quatru di missaggi pi l'archiviu fora linia">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Rapi u quatru dî missaggi di sarbataggiu dî chiavi">
 
 
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Diriggi usannu u tò micròfunu cu stu situ">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Diriggi usannu i toi finestri o tila cu stu situ">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Rapi u quatru dî missaggi di nzitamentu">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduci sta pàggina">
 
 
@@ -425,20 +432,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "n">
 <!ENTITY searchSetAsDefault.label     "Spicìfica comu u muturi di ricerca prifirutu">
 
-<!ENTITY openLinkCmdInTab.label       "Rapi u ligami nta na scheda nova">
+<!ENTITY openLinkCmdInTab.label       "Rapi u lijami nta na scheda nova">
 
 <!ENTITY openLinkCmdInTab.accesskey   "s">
-<!ENTITY openLinkCmd.label            "Rapi u ligami nta na finestra nova">
+<!ENTITY openLinkCmd.label            "Rapi u lijami nta na finestra nova">
 <!ENTITY openLinkCmd.accesskey        "f">
-<!ENTITY openLinkInPrivateWindowCmd.label "Rapi u ligami nta na finestra privata nova">
+<!ENTITY openLinkInPrivateWindowCmd.label "Rapi u lijami nta na finestra privata nova">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "a">
-<!ENTITY openLinkCmdInCurrent.label     "Rapi u ligami">
+<!ENTITY openLinkCmdInCurrent.label     "Rapi u lijami">
 <!ENTITY openLinkCmdInCurrent.accesskey "l">
 <!ENTITY openFrameCmdInTab.label      "Rapi u quatru nta na scheda nova">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Rapi u quatru nta na finestra nova">
 <!ENTITY openFrameCmd.accesskey       "f">
-<!ENTITY openLinkCmdInContainerTab.label "Rapi u ligami nta na scheda di cuntinituri nova">
+<!ENTITY openLinkCmdInContainerTab.label "Rapi u lijami nta na scheda di cuntinituri nova">
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Mustra sulu stu quatru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">

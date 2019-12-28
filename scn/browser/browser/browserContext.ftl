@@ -50,19 +50,19 @@ toolbar-button-page-save =
 ## Simple menu items
 
 main-context-menu-open-link =
-    .label = Rapi u ligami
+    .label = Rapi u lijami
     .accesskey = l
 main-context-menu-open-link-new-tab =
-    .label = Rapi u ligami nta na scheda nova
+    .label = Rapi u lijami nta na scheda nova
     .accesskey = s
 main-context-menu-open-link-container-tab =
-    .label = Rapi u ligami nta na scheda di cuntinituri nova
+    .label = Rapi u lijami nta na scheda di cuntinituri nova
     .accesskey = c
 main-context-menu-open-link-new-window =
-    .label = Rapi u ligami nta na finestra nova
+    .label = Rapi u lijami nta na finestra nova
     .accesskey = f
 main-context-menu-open-link-new-private-window =
-    .label = Rapi u ligami nta na finestra privata nova
+    .label = Rapi u lijami nta na finestra privata nova
     .accesskey = a
 main-context-menu-bookmark-this-link =
     .label = Agghiunci stu lijami nnê nzingalibbri

@@ -5,6 +5,12 @@
 
 ## File Menu
 
+menu-file-open-file =
+    .label = Rapi pricu…
+    .accesskey = p
+menu-file-email-link =
+    .label = Manna lijami…
+    .accesskey = M
 
 ## Edit Menu
 

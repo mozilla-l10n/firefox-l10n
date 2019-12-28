@@ -14,15 +14,15 @@ update-updateButton =
 update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzazziuna…
 update-downloading = <img data-l10n-name="icon"/>Staju scarricannu l'attualizzazziuni — <label data-l10n-name="download-status"/>
 update-applying = Staju appricannu l'attualizzazziuni…
-update-failed = L'attualizzazziuni fallìu. <label data-l10n-name="failed-link">Scàrrica l'ùrtima virsiuni</label>
-update-failed-main = L'attualizzazziuni fallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
-update-adminDisabled = L'attualizzazziuna foru sdisarmati di l'amministraturi dû sistema
+update-failed = L'attualizzazziuni sfallìu. <label data-l10n-name="failed-link">Scàrrica l'ùrtima virsiuni</label>
+update-failed-main = L'attualizzazziuni sfallìu. <a data-l10n-name="failed-link-main">Scàrrica l'ùrtima virsiuni</a>
+update-adminDisabled = L'attualizzazziuna foru disabbilitati di l'amministraturi dû sistema
 update-noUpdatesFound = { -brand-short-name } è attualizzatu
 update-otherInstanceHandlingUpdates = { -brand-short-name } si sta già attualizzannu
 update-manual = L'attualizzazziuna sunnu dispunìbbili nne <label data-l10n-name="manual-link"/>
 update-unsupported = Nun po' cchiù fari attualizzazziuna nna stu sistema. <label data-l10n-name="unsupported-link">Cchiù nfurmazziuna</label>
 update-restarting = Staju riabbiannu…
-channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .{ " " }
+channel-description = P'accamora sì nnô canali d'attualizzazziuni <label data-l10n-name="current-channel"></label> .
 warningDesc-version = { -brand-short-name } è sprimintali e putissi farsijari.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è na <label data-l10n-name="community-exp-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.
 community-2 = { -brand-short-name } fu pruggittatu di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, na <label data-l10n-name="community-creditsLink">cumunità munniali</label> ca travagghia nzèmmula pi tèniri a Riti lìbbira, pùbblica e accissìbbili a tutti.

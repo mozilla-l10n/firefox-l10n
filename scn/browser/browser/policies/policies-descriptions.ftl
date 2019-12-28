@@ -11,7 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Mposta i pulìtichi ê quali WebExtensions po accèdiri attraversu chrome.storage.managed.
-policy-AppUpdateURL = Mposta n'URL pirsunalizzatu pi l'attualizzazziuni di l'app.
+policy-AppUpdateURL = Mposta nu nnirizzu pirsunalizzatu pi l'attualizzazziuni di l'app.
 policy-Authentication = Cunfijura l'autenticazziuni ntrigrata pî siti ca a suppòrtanu.
 policy-BlockAboutAddons = Blocca l'accessu ô Gisturi di agghiuncitini (about:addons).
 policy-BlockAboutConfig = Blocca l'accessu â pàggina about:config.
@@ -65,7 +65,7 @@ policy-NewTabPage = Abbìlita o disabbìlita a pàggina Scheda nova.
 policy-NoDefaultBookmarks = Disabbìlita a criazziuni di nzingalibbri pridifinuti lijati a { -brand-short-name }, e i nzingalibbri sperti (Cchiù visitati, Targhetti ricenti). Nota: sta dicisiuni è efficaci sulu si usata prima dû primu abbìu dû prufilu.
 policy-OfferToSaveLogins = Custrinci i mpustazziuna a cunzèntiri a { -brand-short-name } di òffriri di ricurdari i cridinziali sarbati. Si accèttanu valura veri e fausi.
 policy-OverrideFirstRunPage = Gnora a pàggina di prima sicuzziuni. Mposta stu pruvidimentu comu vacanti si vo' disabbilitari a pàggina di prima sicuzziuni.
-policy-OverridePostUpdatePage = Cancia a pàggina “Nuvità” doppu n'attualizzazziuni. Mposta sta pulìtica comu vacanti si vo' disabbilitari a pàggina di post-attualizzazziuni.
+policy-OverridePostUpdatePage = Cancia a pàggina “Nuvità” doppu n'attualizzazziuni. Mposta sta pulìtica comu vacanti si vo' disabbilitari sta pàggina doppu n'attualizzazziuni.
 policy-Permissions = Cunfijura i pirmisi pi càmira, micròfunu, lucalizzazziuni e nutìfichi.
 policy-PopupBlocking = Cunzenti a certi siti di mustrari finestri autumatichi comu mpustazziuni pridifinuta.
 policy-Preferences = Mposta e blocca u valuri pi un suttanzemi di prifirenzi.

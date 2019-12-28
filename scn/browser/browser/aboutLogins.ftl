@@ -12,6 +12,8 @@ fxaccounts-avatar-button =
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Rapi u minù
 about-logins-menu-menuitem-help = Ajutu
 
 ## Login List

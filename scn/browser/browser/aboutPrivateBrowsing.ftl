@@ -4,6 +4,8 @@
 
 about-private-browsing-learn-more = Cchiù nfurmazziuna ncapu â <a data-l10n-name="learn-more">Navigazziuni privata</a>.
 about-private-browsing-info-visited = pàggini visitati
+privatebrowsingpage-open-private-window-label = Rapi na finestra privata
+    .accesskey = p
 about-private-browsing-info-notsaved = Quannu nàvighi nta na finestra privata, { -brand-short-name } <strong>nun sarba</strong>:
 about-private-browsing-search-placeholder = Cerca nnâ Riti
 about-private-browsing-info-bookmarks = nzingalibbri

@@ -66,11 +66,14 @@ newtab-menu-content-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-open-new-window = Rapi nna na finestra nova
+newtab-menu-open-new-private-window = Rapi nna na finestra privata nova
 newtab-menu-delete-history = Cancella dâ cronuluggìa
 newtab-menu-delete-pocket = Cancella di { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-paragraph = Sparti sirbìriti cunta ntirissanti, ti mustramu macari cuntinuti, curati e pirtinenti, d'un gruppu di spunzura silizziunati. Stai sicuru chi nun veni spartutu nuḍḍu datu ncapu â to navigazziuni dâ to copia pirsunali di { -brand-product-name }. Nun avemu accessu a sti nfurmazziuna, e mancu i nostri spunzura.
 
 
 
@@ -80,12 +83,19 @@ newtab-menu-remove-bookmark = Cancella nzingalibbru
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copia u lijami di scarricamentu
 newtab-menu-remove-download = Cancella dâ cronuluggìa
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Mustra nne Finder
+       *[other] Rapi a carpetta unni s'attrova
+    }
+newtab-menu-open-file = Rapi pricu
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that

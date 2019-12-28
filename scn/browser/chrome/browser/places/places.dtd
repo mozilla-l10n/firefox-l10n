@@ -20,6 +20,7 @@
 
 <!ENTITY cmd.open.label                  "Rapi">
 <!ENTITY cmd.open.accesskey              "R">
+<!ENTITY cmd.open_window.label           "Rapi nta na finestra nova">
 <!ENTITY cmd.open_private_window.accesskey "A">
 
 
