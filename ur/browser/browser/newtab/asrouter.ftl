@@ -7,6 +7,7 @@
 
 cfr-doorhanger-extension-heading = سفارش شدا ایکسٹنشن
 cfr-doorhanger-feature-heading = تجویز کردہ خصوصیت
+cfr-doorhanger-pintab-heading = یہ آزمائیں: پن ٹیب
 
 
 
@@ -30,6 +31,9 @@ cfr-doorhanger-extension-author = { $name } کے ساتھ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = سفارش
+cfr-doorhanger-extension-notification2 = سفارش
+    .tooltiptext = ایکسٹینشن کی سفارش
+    .a11y-announcement = ایکسٹینشن کی  دتستیاب سفارش
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -73,6 +77,7 @@ cfr-whatsnew-button =
     .label = نیا کیا ہے
     .tooltiptext = نیا کیا ہے
 cfr-whatsnew-panel-header = نیا کیا ہے
+cfr-whatsnew-fx70-title = { -brand-short-name } اب آپ کی رازداری کے لئے اب سخت مقابلہ کررہا ہے
 cfr-whatsnew-tracking-protect-link-text = اپنی رپورٹ دیکھیں
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -132,6 +137,7 @@ cfr-doorhanger-socialtracking-close-button = بند کریں
     .accesskey = چ
 cfr-doorhanger-socialtracking-dont-show-again = مجھے دوبارہ اس طرح کے پیغامات نہ دکھائیں
     .accesskey = د
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } نے ایک سماجی نیٹ ورک کو یہاں آپ کی سراغ کاری کرنے سے روک دیا ہے
 
 ## Enhanced Tracking Protection Milestones
 

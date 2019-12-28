@@ -72,6 +72,7 @@ newtab-menu-delete-history = تاریخ سے حذف کریں
 newtab-menu-save-to-pocket = { -pocket-brand-name } میں محفوظ کریں
 newtab-menu-delete-pocket = { -pocket-brand-name } سے جزف کریں
 newtab-menu-archive-pocket = { -pocket-brand-name } مے محفوظ
+newtab-menu-show-privacy-info = ہمارے کفیل اور آپ کی رازداری
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
