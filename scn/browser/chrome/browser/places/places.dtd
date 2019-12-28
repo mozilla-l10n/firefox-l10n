@@ -9,6 +9,7 @@
 <!ENTITY file.close.label               "Chiuji">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.tooltip                  "Cancia a to viduta">
+<!ENTITY view.unsorted.label            "Nuḍḍu òrdini">
 
 <!ENTITY importBookmarksFromHTML.label     "Pigghia nzingalibbri nnô furmatu HTML…">
 <!ENTITY exportBookmarksToHTML.label       "Sarba nzingalibbri nnô furmatu HTML…">
@@ -24,6 +25,7 @@
 <!ENTITY cmd.open_private_window.accesskey "A">
 
 
+<!ENTITY cmd.sortby_name.label              "Òrdina pi nomu">
 
 <!ENTITY cmd.new_bookmark.label            "Novu nzingalibbru…">
 <!ENTITY cmd.new_folder.label              "Nova carpetta…">

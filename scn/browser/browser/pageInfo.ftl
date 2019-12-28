@@ -111,9 +111,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Sì, cookie e { $value }{ $unit } di dati dû situ
-security-site-data-only = Sì, { $value }{ $unit } di dati dû situ
-security-site-data-cookies-only = Sì, cookie
+security-site-data-cookies = Se, cookie e { $value }{ $unit } di dati dû situ
+security-site-data-only = Se, { $value }{ $unit } di dati dû situ
+security-site-data-cookies-only = Se, cookie
 security-site-data-no = No
 image-size-unknown = Scanusciutu
 not-set-verified-by = Nun spicificatu
@@ -166,8 +166,8 @@ general-meta-tags =
 security-visits-number =
     { $visits ->
         [0] No
-        [one] Sì, na vota
-       *[other] Sì, { $visits } voti
+        [one] Se, na vota
+       *[other] Se, { $visits } voti
     }
 # This string is used to display the size of a media file
 # Variables:

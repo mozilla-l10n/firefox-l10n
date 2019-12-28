@@ -63,6 +63,7 @@ library-version-title = Virsiuna libbrirìi
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+yes = Se
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

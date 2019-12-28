@@ -8,7 +8,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Nfurmazziuni dû ncidenti
-delete-confirm-title = Sí sicuru?
+delete-confirm-title = Sì sicuru?
 date-crashed-heading = Data dû ncidenti
 date-submitted-heading = Data mannata
 no-reports-label = Nun s'ha mannatu nuḍḍa nfurmazziuni di ncidenti.

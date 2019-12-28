@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazziuni privata)">
 
 <!ENTITY appmenu.tooltip                     "Rapi u minù">
-<!ENTITY navbarOverflow.label                "Cchiú strummenta…">
+<!ENTITY navbarOverflow.label                "Cchiù strummenta…">
 
 <!-- Tab context menu -->
 
@@ -89,7 +89,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.accesskey "N">
 
 <!ENTITY pageInfoCmd.commandkey "n">
-<!ENTITY mirrorTabCmd.label "Dúpprica scheda">
+<!ENTITY mirrorTabCmd.label "Dùpprica a scheda">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -629,7 +629,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.removeCertException.label "Lèvacci a ccizziuni">
 
-<!ENTITY identity.moreInfoLinkText2 "Cchiú nfurmazziuni">
+<!ENTITY identity.moreInfoLinkText2 "Cchiù nfurmazziuna">
 
 
 
@@ -730,3 +730,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Carattarìstichi d'accissibbilità abbilitati">

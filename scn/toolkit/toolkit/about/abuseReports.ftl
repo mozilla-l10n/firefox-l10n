@@ -16,6 +16,8 @@ abuse-report-messagebar-aborted = Signalazziuni sfalluta pi <span data-l10n-name
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Se, cancèllala
+abuse-report-messagebar-action-remove-theme = Se, cancèllalu
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
