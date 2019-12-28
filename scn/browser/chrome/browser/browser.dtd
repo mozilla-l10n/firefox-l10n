@@ -341,7 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vo' vìdiri cca i to schedi di l'autri dispusitivi?">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.">
-<!ENTITY appMenuRemoteTabs.unverified.label "Lu to' cuntu àvi a èssiri virificatu.">
+<!ENTITY appMenuRemoteTabs.unverified.label "U to cuntu àvi a èssiri virificatu.">
 <!ENTITY appMenuRemoteTabs.signin.label "Trasi nne Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Trasi nne &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Talìa a sbarra di ciancu dî schedi sincrunizzati">
