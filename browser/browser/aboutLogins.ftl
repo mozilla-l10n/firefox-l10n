@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Buscar conexiones
 create-login-button = Crear nueva conexión
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon para { $title }
 fxaccounts-sign-in-text = Ten tus contraseñas en tus otros dispositivos
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = No hay resultados que coincid
 login-list-item-title-new-login = Nueva conexión
 login-list-item-subtitle-new-login = Ingresa tus credenciales de conexión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
-about-logins-list-item-warning-icon =
-    .alt = Ícono de advertencia
-    .title = Sitio web vulnerado
 about-logins-list-item-breach-icon =
     .title = Sitio web vulnerado
 
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Mostrar contraseña
 login-item-password-reveal-checkbox-hide =
     .title = Ocultar contraseña
+login-item-password-reveal-checkbox =
+    .aria-label = Mostrar contraseña
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = ¡Copiado!
 login-item-save-changes-button = Guardar cambios
@@ -153,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Ya existe una entrada para { $loginTitle } con ese nombre de usuario.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
