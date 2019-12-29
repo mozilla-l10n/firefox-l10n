@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Ieškoti prisijungimų
 create-login-button = Sukurti naują prisijungimą
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = „{ $title }“ svetainės piktograma
 fxaccounts-sign-in-text = Turėkite savo slaptažodžius ir kituose įrenginiuose
 fxaccounts-sign-in-button = Prisijungti prie „{ -sync-brand-short-name }“
 fxaccounts-avatar-button =
@@ -62,9 +57,6 @@ about-logins-login-list-empty-search-description = Nėra jūsų paiešką atitin
 login-list-item-title-new-login = Naujas prisijungimas
 login-list-item-subtitle-new-login = Įveskite prisijungimo duomenis
 login-list-item-subtitle-missing-username = (nėra naudotojo vardo)
-about-logins-list-item-warning-icon =
-    .alt = Įspėjimo piktograma
-    .title = Pažeista svetainė
 about-logins-list-item-breach-icon =
     .title = Pažeista svetainė
 
@@ -97,6 +89,8 @@ login-item-password-reveal-checkbox-show =
     .title = Rodyti slaptažodį
 login-item-password-reveal-checkbox-hide =
     .title = Slėpti slaptažodį
+login-item-password-reveal-checkbox =
+    .aria-label = Rodyti slaptažodį
 login-item-copy-password-button-text = Kopijuoti
 login-item-copied-password-button-text = Nukopijuota!
 login-item-save-changes-button = Įrašyti pakeitimus
@@ -154,11 +148,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Jau yra { $loginTitle } įrašas su tokiu naudotojo vardu.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

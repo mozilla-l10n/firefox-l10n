@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Prieš sinchronizuodami turėsite patvirtinti savo paskyrą.">
 <!ENTITY fxa.unverified.button.label "Atverti „&syncBrand.shortName.label;“ nuostatas…">
 
-<!ENTITY pictureInPictureHideToggle.label "Slėpti vaizdo–vaizde perjungimą">
-<!ENTITY pictureInPictureHideToggle.accesskey "S">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prisijungėte kaip">
 <!ENTITY fxa.menu.manageAccount.label "Tvarkyti paskyrą…">
 <!ENTITY fxa.menu.syncSettings.label "„&syncBrand.shortName.label;“ nuostatos…">
+
+<!ENTITY pictureInPictureHideToggle.label "Slėpti vaizdo–vaizde perjungimą">
+<!ENTITY pictureInPictureHideToggle.accesskey "S">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Prisijungti prie „&brandProductName;“">
 <!ENTITY fxa.menu.turnOnSync.label "Įjungti „&syncBrand.shortName.label;“">
 <!ENTITY fxa.menu.firefoxServices.label "„&brandProductName;“ paslaugos">
-
 <!ENTITY fxa.menu.account.label "Paskyra">
 <!ENTITY fxa.menu.settings.label "Nuostatos">
 <!ENTITY fxa.menu.accountSettings.label "Paskyros nuostatos">
+<!ENTITY fxa.menu.manageAccount2.label "Tvarkyti paskyrą">
 <!ENTITY fxa.menu.signOut.label "Atsijungti…">
 <!ENTITY fxa.menu.deviceSettings.label "Įrenginio nuostatos">
 <!ENTITY fxa.menu.setupSync.label "Konfigūruoti „&syncBrand.shortName.label;“…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY stopCmd.label                "Stabdyti">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Eiti į adreso lauke surinktą adresą">
 <!ENTITY printButton.label            "Spausdinti">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Šioje svetainėje esate užblokavę „Adobe Flash“ papildinio naudojimą.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Šioje svetainėje esate užblokavę MIDI naudojimą.">
 <!ENTITY urlbar.installBlocked.tooltip           "Šioje svetainėje esate užblokavę priedų diegimą.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Ieškoti per:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Šįkart ieškokite su:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "m">
 
 <!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
+
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">
 <!ENTITY openLinkCmd.accesskey        "l">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Rodyti tik šį kadrą">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Atsiųsti kadrą iš naujo">
 <!ENTITY reloadFrameCmd.accesskey     "n">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
 <!ENTITY savePageCmd.accesskey        "r">
 <!ENTITY savePageCmd.accesskey2       "p">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Įrašyti kadrą kaip…">
 <!ENTITY saveFrameCmd.accesskey       "r">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Pakeisti teksto kryptį">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "k">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Ieškoti šiame tinklalapyje…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Kodėl?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Šių dalykų blokavimas gali sutrikdyti elementų, esančių svetainėse, veikimą. Be stebėjimo elementų, gali neveikti kai kurie mygtukai, formos, prisijungimo laukai.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Išjungus apsaugas, šioje svetainėje bus leidžiami stebėjimo elementai. Kartu gali pagerėti tam tikras funkcionalumas.">
-<!ENTITY protections.socialMediaTrackers.label "Socialinių tinklų stebėjimo elementai">
-<!ENTITY protections.crossSiteTrackingCookies.label "Tarp svetainių veikiantys stebėjimo slapukai">
-<!ENTITY protections.trackingContent.label "Stebėjimui naudojamas turinys">
-<!ENTITY protections.fingerprinters.label "Skaitmeninių atspaudų stebėjimas">
-<!ENTITY protections.cryptominers.label "Kriptovaliutų kasėjai">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Buvo įkelti visi šioje svetainėje esantys stebėjimo elementai, nes apsaugos yra išjungtos.">
 <!ENTITY protections.noTrackersFound.description "Tinklalapyje nerasta „&brandShortName;“ žinomų stebėjimo elementų.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Jungtis prie „&syncBrand.shortName.label;“…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
 <!ENTITY syncSyncNowItemSyncing.label "Sinchronizuojama…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "T">
 
 <!ENTITY contentBlocking.socialblock.label "Socialinių tinklų stebėjimo elementai">
-
-<!ENTITY contentBlocking.cookies2.label "Tarp svetainių veikiantys stebėjimo slapukai">
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptovaliutų kasėjai">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptovaliutų kasėjai">
