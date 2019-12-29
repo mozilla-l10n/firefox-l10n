@@ -228,10 +228,11 @@
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "nelegitaj">
 <!ENTITY unreadMsgsCmd.accesskey "n">
-<!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "Ignored Threads">
+<!ENTITY threadsWithUnreadCmd.label "legitaj kun novaj mesaĝoj">
+<!ENTITY threadsWithUnreadCmd.accesskey "l">
+<!ENTITY watchedThreadsWithUnreadCmd.label "observataj kun novaj mesaĝoj">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "o">
+<!ENTITY ignoredThreadsCmd.label "ignorataj">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Headers">
