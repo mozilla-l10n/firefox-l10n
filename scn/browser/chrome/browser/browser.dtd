@@ -743,6 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Azziuni dâ pàggina">
 <!ENTITY pageAction.addToUrlbar.label "Agghiunci nnâ sbarra dû nnirizzu">
 
+<!ENTITY sendToDevice.syncNotReady.label "Staju sincrunizzannu i dispusitivi…">
 
 
 <!ENTITY libraryButton.tooltip "Vidi cronuluggìa, nzingalibbri sarbati e autru">
