@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = ფერები…
     .accesskey = ფ
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = ზომა
+preferences-default-zoom = ნაგულისხმევი ზომა
+    .accesskey = ზ
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = მხოლოდ ტექსტის ზომა
+    .accesskey = ტ
 language-header = ენა
 choose-language-description = მიუთითეთ სასურველი ენა გვერდების საჩვენებლად
 choose-button =

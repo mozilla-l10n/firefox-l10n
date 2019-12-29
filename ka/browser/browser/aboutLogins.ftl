@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = ანგარიშების ძიება
 create-login-button = ანგარიშის ახალი მონაცემები
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = ხატულა საიტის { $title }
 fxaccounts-sign-in-text = გადმოიტანეთ პაროლები სხვა მოწყობილობებიდან
 fxaccounts-sign-in-button = { -sync-brand-short-name } – შესვლა
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = ძიების შეს�
 login-list-item-title-new-login = ანგარიშის ახალი მონაცემები
 login-list-item-subtitle-new-login = შეიყვანეთ თქვენი მონაცემები
 login-list-item-subtitle-missing-username = (მომხმარებლის სახელის გარეშე)
-about-logins-list-item-warning-icon =
-    .alt = გაფრთხილების ნიშანი
-    .title = იერიშმიტანილი საიტი
 about-logins-list-item-breach-icon =
     .title = იერიშმიტანილი საიტი
 
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = პაროლის ჩვენება
 login-item-password-reveal-checkbox-hide =
     .title = პაროლის დამალვა
+login-item-password-reveal-checkbox =
+    .aria-label = პაროლის ჩვენება
 login-item-copy-password-button-text = ასლი
 login-item-copied-password-button-text = ასლი აღებულია!
 login-item-save-changes-button = ცვლილებების შენახვა
@@ -153,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = ჩანაწერი ანგარიშისთვის { $loginTitle } ამ მომხმარებლის სახელით უკვე არსებობს.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
