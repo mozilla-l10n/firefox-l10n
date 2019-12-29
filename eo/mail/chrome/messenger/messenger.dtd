@@ -196,20 +196,16 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "a">
 <!ENTITY sortBySubjectCmd.label "temo">
 <!ENTITY sortBySubjectCmd.accesskey "t">
-<!ENTITY sortByFromCmd.label "From">
-<!ENTITY sortByFromCmd.accesskey "F">
-<!ENTITY sortByRecipientCmd.label "Recipient">
-<!ENTITY sortByRecipientCmd.accesskey "c">
-<!ENTITY sortByCorrespondentCmd.label "Correspondents">
+<!ENTITY sortByFromCmd.label "sendanto">
+<!ENTITY sortByFromCmd.accesskey "s">
+<!ENTITY sortByRecipientCmd.label "ricevanto">
+<!ENTITY sortByRecipientCmd.accesskey "r">
+<!ENTITY sortByCorrespondentCmd.label "koresponduloj">
 <!ENTITY sortByCorrespondentCmd.accesskey "n">
-<!ENTITY sortByUnreadCmd.label "Read">
-<!ENTITY sortByUnreadCmd.accesskey "R">
-<!ENTITY sortByOrderReceivedCmd.label "Order Received">
-<!ENTITY sortByOrderReceivedCmd.accesskey "O">
-<!ENTITY sortAscending.label "Ascending">
-<!ENTITY sortAscending.accesskey "A">
-<!ENTITY sortDescending.label "Descending">
-<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortByUnreadCmd.label "legitaj mesaĝoj">
+<!ENTITY sortByOrderReceivedCmd.label "ordo de ricevo">
+<!ENTITY sortAscending.label "kreskante">
+<!ENTITY sortDescending.label "malkreskante">
 <!ENTITY sortThreaded.label "Threaded">
 <!ENTITY sortThreaded.accesskey "T">
 <!ENTITY sortUnthreaded.label "Unthreaded">
