@@ -4,4 +4,5 @@
 
 ssl-error-mac-computation-failure = U càrculu dû MAC sfallìu.
 ssl-error-user-canceled-alert = L'autru utenti sfici a niguzziazziuni dâ cunnissiuni.
+xp-sec-fortezza-bad-pin = Còdici PIN nun vàlitu
 sec-error-user-cancelled = L'utenti ammaccò Sfai.

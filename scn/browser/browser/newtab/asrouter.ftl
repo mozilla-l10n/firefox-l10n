@@ -6,7 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Stinziuni suggiruta
-cfr-doorhanger-pintab-heading = Prova chistu: Fissa scheda
+cfr-doorhanger-pintab-heading = Prova chistu: Appuntiḍḍa scheda
 
 
 
@@ -16,8 +16,8 @@ cfr-doorhanger-extension-cancel-button = Ora no
     .accesskey = O
 cfr-doorhanger-extension-ok-button = Agghiunci ora
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = Fissa sta scheda
-    .accesskey = F
+cfr-doorhanger-pintab-ok-button = Appuntiḍḍa sta scheda
+    .accesskey = A
 cfr-doorhanger-extension-manage-settings-button = Gistisci mpustazziuna dî suggirimenti
     .accesskey = G
 cfr-doorhanger-extension-never-show-recommendation = Nun mi mustrari stu suggirimentu
@@ -54,9 +54,9 @@ cfr-doorhanger-pintab-description = Trasi fàcili nnî siti ca usi cchiù assai.
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Ammacca cû tastu drittu</b> ncapu a scheda ca vo' fissari.
-cfr-doorhanger-pintab-step2 = Scegghi <b>Fissa scheda</b> dû minù.
-cfr-doorhanger-pintab-step3 = Si u situ àvi n'attualizzazziuni vidi un puntu blu ncapu â to scheda appizzata.
+cfr-doorhanger-pintab-step1 = <b>Ammacca cû tastu drittu</b> ncapu a scheda ca vo' appuntiḍḍari.
+cfr-doorhanger-pintab-step2 = Scegghi <b>Appuntiḍḍa scheda</b> dû minù.
+cfr-doorhanger-pintab-step3 = Si u situ àvi n'attualizzazziuni vidi un puntu blu ncapu â to scheda appuntiḍḍata.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Cuntinua
 

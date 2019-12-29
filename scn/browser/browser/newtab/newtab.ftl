@@ -73,6 +73,8 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = Cancia
 newtab-menu-open-new-window = Rapi nna na finestra nova
 newtab-menu-open-new-private-window = Rapi nna na finestra privata nova
+newtab-menu-pin = Appuntiḍḍa
+newtab-menu-unpin = Spuntiḍḍa
 newtab-menu-delete-history = Cancella dâ cronuluggìa
 newtab-menu-delete-pocket = Cancella di { -pocket-brand-name }
 
