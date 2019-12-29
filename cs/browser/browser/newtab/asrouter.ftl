@@ -174,7 +174,7 @@ cfr-doorhanger-send-tab-ok-button = Vyzkoušet posílání panelů
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Sdílejte bezpečně toto PDF
-cfr-doorhanger-firefox-send-body = Sdílejte své dokumenty bez toho, aby vám někdo koukal přes rameno, chráněné pomocí end-to-end šifrování a odkazů s omezenou platností.
+cfr-doorhanger-firefox-send-body = Sdílejte své dokumenty bez toho, aby vám někdo koukal přes rameno. Ochráníme je pomocí end-to-end šifrování a odkazů s omezenou platností.
 cfr-doorhanger-firefox-send-ok-button = Vyzkoušet { -send-brand-name(case: "acc") }
     .accesskey = V
 
