@@ -5,15 +5,56 @@
 
 ## File Menu
 
+menu-file =
+    .label = Pricu
+    .accesskey = P
+menu-file-new-tab =
+    .label = Nova scheda
+    .accesskey = N
+menu-file-new-container-tab =
+    .label = Nova scheda cuntinituri
+    .accesskey = c
+menu-file-new-window =
+    .label = Nova finestra
+    .accesskey = f
+menu-file-new-private-window =
+    .label = Nova finestra privata
+    .accesskey = p
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Rapi nnirizzu…
 menu-file-open-file =
     .label = Rapi pricu…
-    .accesskey = p
+    .accesskey = R
+menu-file-close =
+    .label = Chiuji
+    .accesskey = C
 menu-file-close-window =
     .label = Chiuji finestra
     .accesskey = f
+menu-file-save-page =
+    .label = Sarba pàggina comu…
+    .accesskey = c
 menu-file-email-link =
     .label = Manna lijami…
     .accesskey = M
+menu-file-print-setup =
+    .label = Mposta pàggina
+    .accesskey = M
+menu-file-print-preview =
+    .label = Antiprima di stampa
+    .accesskey = n
+menu-file-print =
+    .label = Stampa…
+    .accesskey = S
+menu-file-import-from-another-browser =
+    .label = Pigghia dati di n'autru navigaturi…
+    .accesskey = g
+menu-file-go-offline =
+    .label = Travagghia sculligatu
+    .accesskey = s
 
 ## Edit Menu
 
@@ -36,7 +77,16 @@ menu-edit-delete =
     .label = Cancella
     .accesskey = l
 menu-edit-select-all =
-    .label = Scegghi tuttu
+    .label = Silizziuna tuttu
+    .accesskey = t
+menu-edit-find-on =
+    .label = Cerca nna sta pàggina…
+    .accesskey = C
+menu-edit-find-again =
+    .label = Cerca arrè
+    .accesskey = r
+menu-edit-bidi-switch-text-direction =
+    .label = Cancia versu dû testu
     .accesskey = t
 
 ## View Menu
@@ -50,20 +100,64 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Pirsunalizza…
     .accesskey = P
+menu-view-sidebar =
+    .label = Sbarra di ciancu
+    .accesskey = c
 menu-view-bookmarks =
     .label = Nzingalibbri
 menu-view-history-button =
     .label = Cronuluggìa
+menu-view-synced-tabs-sidebar =
+    .label = Schedi sincrunizzati
+menu-view-full-zoom =
+    .label = Grannizza
+    .accesskey = G
+menu-view-full-zoom-enlarge =
+    .label = Cchiù granni
+    .accesskey = n
+menu-view-full-zoom-reduce =
+    .label = Cchiù nicu
+    .accesskey = c
+menu-view-full-zoom-actual-size =
+    .label = Grannizza riali
+    .accesskey = r
+menu-view-full-zoom-toggle =
+    .label = Sulu u testu cchiù granni
+    .accesskey = t
+menu-view-page-style-menu =
+    .label = Stili dâ pàggina
+    .accesskey = S
+menu-view-page-style-no-style =
+    .label = Nuḍḍu stili
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = Stili di basi
+    .accesskey = b
+menu-view-charset =
+    .label = Cudìfica dû testu
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Metti a tuttu schirmu
+    .accesskey = M
+menu-view-exit-full-screen =
+    .label = Nesci di tuttu schirmu
+    .accesskey = N
+menu-view-full-screen =
+    .label = Tuttu schirmu
+    .accesskey = T
 
 
 
 menu-view-show-all-tabs =
     .label = Mustra tutti i schedi
     .accesskey = t
+menu-view-bidi-switch-page-direction =
+    .label = Cancia versu dâ pàggina
+    .accesskey = C
 
 ## History Menu
 
@@ -74,8 +168,12 @@ menu-history-show-all-history =
     .label = Mustra tutta a cronuluggìa
 menu-history-clear-recent-history =
     .label = Cancella cronuluggìa ricenti…
+menu-history-synced-tabs =
+    .label = Schedi sincrunizzati
 menu-history-restore-last-session =
     .label = Ricùpira a sissiuni pricidenti
+menu-history-hidden-tabs =
+    .label = Schedi ammucciati
 menu-history-undo-menu =
     .label = Schedi chiujuti di picca
 menu-history-undo-window-menu =
@@ -111,6 +209,18 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Trasi nne { -brand-product-name }…
     .accesskey = T
+menu-tools-turn-on-sync =
+    .label = Attiva { -sync-brand-short-name }
+    .accesskey = A
+menu-tools-sync-now =
+    .label = Sincrunizza ora
+    .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Ricullègati a { -brand-product-name }
+    .accesskey = R
+menu-tools-web-developer =
+    .label = Diviluppaturi Web
+    .accesskey = D
 menu-tools-page-source =
     .label = Còdici dâ pàggina
     .accesskey = d
@@ -151,6 +261,12 @@ menu-help-troubleshooting-info =
 menu-help-feedback-page =
     .label = Manna riscontru…
     .accesskey = r
+menu-help-safe-mode-without-addons =
+    .label = Riabbìa cu l'agghiuncitini disabbilitati…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Riabbìa cu l'agghiuncitini abbilitati
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

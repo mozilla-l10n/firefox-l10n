@@ -11,6 +11,10 @@
 
 # Sidebar strings
 
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
 
 # Setup Page strings
 

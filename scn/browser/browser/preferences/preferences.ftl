@@ -890,7 +890,7 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Pirmisi
-permissions-location = Lucalizzazziuni
+permissions-location = Pusizziuni
 permissions-location-settings =
     .label = Mpustazziuna…
     .accesskey = M

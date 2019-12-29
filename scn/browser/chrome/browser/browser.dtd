@@ -52,7 +52,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Rapi pricu…">
 <!ENTITY openFileCmd.accesskey "G">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printPreviewCmd.label "Ammustra a visuali prima di pubbricari">
+<!ENTITY printPreviewCmd.label "Antiprima di stampa">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
@@ -136,8 +136,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "è a tuttu schermu ora">
-<!ENTITY fullscreenWarning.generic.label "Sta pàggina ora è a tuttu schermu">
+<!ENTITY fullscreenWarning.afterDomain.label "è a tuttu schirmu ora">
+<!ENTITY fullscreenWarning.generic.label "Sta pàggina ora è a tuttu schirmu">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -182,6 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "C">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY goEndCap.tooltip             "Vai ô nnirizzu nnâ sbarra dî nnirizzi">
 <!ENTITY printButton.label            "Stampa">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Talìa nfurmazziuna dû situ">
@@ -191,19 +192,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Rapi u quatru dî missaggi di nzitamentu di l'agghiuncitini">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Rapi u quatru di missaggi pi l'archiviu fora linia">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Rapi u quatru dî missaggi di sarbataggiu dî chiavi">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gistisci l'usu di l'agghiuncitini">
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "U navigaturi è sutta cuntrollu rimotu">
 
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Diriggi usannu u tò micròfunu cu stu situ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Diriggi usannu i toi finestri o tila cu stu situ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gistisci a spartuta dû micròfunu cu stu situ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gistisci a spartuta dî finestri o dû schirmu cu stu situ">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Rapi u quatru dî missaggi di nzitamentu">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduci sta pàggina">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gistisci l'usu dî prugrammi DRM">
 
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Nzirrasti a to màchina fotugràfica pi stu situ.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Nzirrasti u to micròfunu pi stu situ.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Pruibbisti u ricèviri di nutizzî pi stu situ.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bluccasti a to fotucàmmara pi stu situ.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bluccasti u to micròfunu pi stu situ.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Bluccasti a spartuta dû schirmu pi stu situ.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Bluccasti i nfurmazziuna supra a to pusizziuni pi stu situ.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bluccasti i nutìfichi pi stu situ.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Bluccasti l'archiviu pirmanenti pi stu situ.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bluccasti a ripruduzziuni autumàtica dî soni pi stu situ.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Bluccasti l'usu di Adobe Flash pi stu situ.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Bluccasti l'accessu MIDI pi stu situ.">
+<!ENTITY urlbar.installBlocked.tooltip           "Bluccasti u nzitamentu d'agghiuncitini pi stu situ.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra cronuluggìa">
@@ -507,14 +517,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Manna u sonu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY copyLinkCmd.label            "Copia u locu dû lijami">
+<!ENTITY copyLinkCmd.label            "Copia u lijami">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
-<!ENTITY copyImageCmd.label           "Copia u locu dâ mmàggini">
+<!ENTITY copyImageCmd.label           "Copia nnirizzu dâ mmàggini">
 <!ENTITY copyImageContentsCmd.label   "Copia a mmàggini">
-<!ENTITY copyVideoURLCmd.label        "Copia u locu dû vidiu">
-<!ENTITY copyAudioURLCmd.label        "Copia u locu dû sonu">
+<!ENTITY copyVideoURLCmd.label        "Copia nnirizzu dû vidiu">
+<!ENTITY copyAudioURLCmd.label        "Copia nnirizzu dû sonu">
 <!ENTITY copyEmailCmd.label           "Copia u nnirizzu email">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
@@ -546,11 +556,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY fullZoomEnlargeCmd.label       "Cchiù granni">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.label        "Cchiù nicu">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -560,7 +572,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Larghija sulu u testu">
+<!ENTITY fullZoomToggleCmd.label        "Sulu u testu cchiù granni">
 
 
 <!ENTITY sidebarCloseButton.tooltip     "Chiuji a sbarra di ciancu">

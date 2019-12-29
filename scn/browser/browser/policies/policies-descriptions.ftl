@@ -66,14 +66,14 @@ policy-NoDefaultBookmarks = Disabbìlita a criazziuni di nzingalibbri pridifinut
 policy-OfferToSaveLogins = Custrinci i mpustazziuna a cunzèntiri a { -brand-short-name } di òffriri di ricurdari i cridinziali sarbati. Si accèttanu valura veri e fausi.
 policy-OverrideFirstRunPage = Gnora a pàggina di prima sicuzziuni. Mposta stu pruvidimentu comu vacanti si vo' disabbilitari a pàggina di prima sicuzziuni.
 policy-OverridePostUpdatePage = Cancia a pàggina “Nuvità” doppu n'attualizzazziuni. Mposta sta pulìtica comu vacanti si vo' disabbilitari sta pàggina doppu n'attualizzazziuni.
-policy-Permissions = Cunfijura i pirmisi pi càmira, micròfunu, lucalizzazziuni e nutìfichi.
+policy-Permissions = Cunfijura i pirmisi pâ fotucàmmara, u micròfunu, a lucalizzazziuni e i nutìfichi.
 policy-PopupBlocking = Cunzenti a certi siti di mustrari finestri autumatichi comu mpustazziuni pridifinuta.
 policy-Preferences = Mposta e blocca u valuri pi un suttanzemi di prifirenzi.
 policy-PromptForDownloadLocation = Spija unni sarbari i prichi quannu i scàrrichi.
 policy-Proxy = Cunfijura mpustazziuna dû proxy.
 policy-RequestedLocales = Mposta a lista di prichi lucali nicissari pi l'appricazziuni 'n ùrdini di prifirenza.
 policy-SanitizeOnShutdown2 = Cancella i dati di navigazziuni chiujennu.
-policy-SearchBar = Mposta a lucalizzazziuni pridifinuta nnâ barra di ricerca. L'utenti a po ancora pirsunalizzari.
+policy-SearchBar = Mposta a pusizziuni pridifinuta dâ barra di ricerca. L'utenti a po ancora pirsunalizzari.
 policy-SearchEngines = Cunfijura mpustazziuna dû muturi di ricerca. Stu pruvidimentu è dispunìbbili sulu nnâ virsiuni Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Abbìlita o disabbìlita suggirimenti di ricerca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation

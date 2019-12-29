@@ -132,7 +132,7 @@ permissions-site-location-window =
 permissions-site-location-desc = I siti appressu dumannaru di accèdiri â to pusizziuni. Po' spicificari quali siti ponnu accèdiri â to pusizziuni. Po' puru bloccari i novi dumanni d'accessu â to pusizziuni.
 permissions-site-location-disable-label =
     .label = Blocca i novi dumanni d'accessu â to pusizziuni
-permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri â pusizziuni. Bluccari l'accessu â pusizziuni putissi ncippari certi carattirìstichi dû situ.
+permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri â to pusizziuni. Bluccari l'accessu â to pusizziuni putissi fari sfarsijari certi carattirìstichi dû situ.
 
 ## Site Permissions - Virtual Reality
 

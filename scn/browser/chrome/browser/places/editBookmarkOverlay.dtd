@@ -4,7 +4,7 @@
 
 <!ENTITY editBookmarkOverlay.name.label                      "Nomi:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "Postu:">
+<!ENTITY editBookmarkOverlay.location.label                  "Pusizziuni:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "P">
 <!ENTITY editBookmarkOverlay.folder.label                    "Carpetta:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mustra tutti quanti i carpetti dî nzingalibbri">

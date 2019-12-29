@@ -41,6 +41,7 @@ app-basics-update-dir =
     }
 app-basics-update-history = Cronuluggìa attualizzazziuna
 library-version-title = Virsiuna libbrirìi
+restart-in-safe-mode-label = Riabbìa cu l'agghiuncitini disabbilitati…
 
 ## Media titles
 
@@ -69,6 +70,7 @@ yes = Se
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+async-pan-zoom = Spustamentu/Grannizza asìncruni
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

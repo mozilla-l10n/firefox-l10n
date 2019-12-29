@@ -5,6 +5,10 @@
 
 
 
+<!ENTITY viewMenu_zoomin_label "Cchiù granni">
+<!ENTITY viewMenu_zoomin_accesskey "g">
+<!ENTITY viewMenu_zoomout_label "Cchiù nicu">
+<!ENTITY viewMenu_zoomout_accesskey "n">
 
 
 
@@ -14,6 +18,9 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
 
 
 <!-- Lense -->

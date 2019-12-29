@@ -30,6 +30,7 @@
 <!ENTITY cmd.new_bookmark.label            "Novu nzingalibbru…">
 <!ENTITY cmd.new_folder.label              "Nova carpetta…">
 
+<!ENTITY col.url.label           "Pusizziuni">
 <!ENTITY col.dateadded.label     "Agghiunciutu">
 
 <!ENTITY bookmarksSearch.placeholder  "Cerca nnê nzingalibbri">

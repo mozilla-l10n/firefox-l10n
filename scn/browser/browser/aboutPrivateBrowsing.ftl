@@ -30,7 +30,7 @@ about-private-browsing-info-description = { -brand-short-name } cancella i to ri
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } è u to muturi di ricerca pridifinutu nnî Finestri Privati
+about-private-browsing-search-banner-title = { $engineName } è u to muturi di ricerca pridifinutu nnê finestri privati
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Pi scègghiri n'autru muturi di ricerca, vai nnî <a data-l10n-name="link-options">Scigghiuti</a>

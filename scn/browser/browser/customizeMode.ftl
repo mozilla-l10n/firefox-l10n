@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Sfai
 customize-mode-lwthemes-my-themes =
     .value = I me temi
+customize-mode-touchbar-cmd =
+    .label = Pirsunalizza sbarra tàttili…

@@ -8,6 +8,7 @@
 
 ## Certificate information labels
 
+certificate-viewer-location = Pusizziuni
 certificate-viewer-fingerprints = Urmi
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:

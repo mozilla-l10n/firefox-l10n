@@ -24,7 +24,7 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; sarba nfurmazziuna supra i to mpustazziuna, i to prifirenzi e autri cosi nnô to prufilu utenti.">
 
-<!ENTITY            offlineState.label    "Travagghia fora linia">
+<!ENTITY            offlineState.label    "Travagghia sculligatu">
 <!ENTITY            offlineState.accesskey "T">
 
 <!ENTITY            useSelected.label       "Usa u prufilu silizziunatu senza addumannàrimi all'abbìu">
