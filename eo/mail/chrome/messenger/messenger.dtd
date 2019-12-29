@@ -235,20 +235,20 @@
 <!ENTITY ignoredThreadsCmd.label "ignorataj">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
-<!ENTITY headersMenu.label "Headers">
-<!ENTITY headersMenu.accesskey "H">
-<!ENTITY headersAllCmd.label "All">
-<!ENTITY headersAllCmd.accesskey "A">
-<!ENTITY headersNormalCmd.label "Normal">
-<!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Message Body As">
-<!ENTITY bodyMenu.accesskey "B">
-<!ENTITY bodyAllowHTML.label "Original HTML">
+<!ENTITY headersMenu.label "Mesaĝkapoj">
+<!ENTITY headersMenu.accesskey "k">
+<!ENTITY headersAllCmd.label "ĉiuj">
+<!ENTITY headersAllCmd.accesskey "j">
+<!ENTITY headersNormalCmd.label "normaj">
+<!ENTITY headersNormalCmd.accesskey "n">
+<!ENTITY bodyMenu.label "Vidigi mesaĝojn kiel">
+<!ENTITY bodyMenu.accesskey "V">
+<!ENTITY bodyAllowHTML.label "originalajn HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
-<!ENTITY bodySanitized.label "Simple HTML">
-<!ENTITY bodySanitized.accesskey "S">
-<!ENTITY bodyAsPlaintext.label "Plain Text">
-<!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodySanitized.label "simpligitajn HTML">
+<!ENTITY bodySanitized.accesskey "s">
+<!ENTITY bodyAsPlaintext.label "plattekstojn">
+<!ENTITY bodyAsPlaintext.accesskey "p">
 <!ENTITY bodyAllParts.label "All Body Parts">
 <!ENTITY bodyAllParts.accesskey "A">
 
