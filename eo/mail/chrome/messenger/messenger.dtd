@@ -181,19 +181,28 @@
 <!ENTITY sortByReceivedCmd.label "dato de ricevo">
 <!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "markitaj per steleto">
+<!ENTITY sortByStarCmd.accesskey "s">
 <!ENTITY sortByAttachmentsCmd.label "kunsendaĵoj">
+<!ENTITY sortByAttachmentsCmd.accesskey "u">
 <!ENTITY sortByPriorityCmd.label "prioritato">
+<!ENTITY sortByPriorityCmd.accesskey "p">
 <!ENTITY sortBySizeCmd.label "grando">
+<!ENTITY sortBySizeCmd.accesskey "g">
 <!ENTITY sortByStatusCmd.label "stato">
+<!ENTITY sortByStatusCmd.accesskey "a">
 <!ENTITY sortByTagsCmd.label "etikedoj">
+<!ENTITY sortByTagsCmd.accesskey "e">
 <!ENTITY sortByJunkStatusCmd.label "stato de trudmesaĝo">
 <!ENTITY sortBySubjectCmd.label "temo">
 <!ENTITY sortByFromCmd.label "sendanto">
 <!ENTITY sortByRecipientCmd.label "ricevanto">
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByCorrespondentCmd.label "koresponduloj">
-<!ENTITY sortByUnreadCmd.label "legitaj mesaĝoj">
+<!ENTITY sortByCorrespondentCmd.accesskey "j">
+<!ENTITY sortByUnreadCmd.label "legita">
+<!ENTITY sortByUnreadCmd.accesskey "l">
 <!ENTITY sortByOrderReceivedCmd.label "ordo de ricevo">
+<!ENTITY sortByOrderReceivedCmd.accesskey "o">
 <!ENTITY sortAscending.label "Kreskante">
 <!ENTITY sortAscending.accesskey "K">
 <!ENTITY sortDescending.label "Malkreskante">
