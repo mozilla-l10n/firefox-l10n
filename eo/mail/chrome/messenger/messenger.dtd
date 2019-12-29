@@ -249,17 +249,15 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "plattekstojn">
 <!ENTITY bodyAsPlaintext.accesskey "p">
-<!ENTITY bodyAllParts.label "All Body Parts">
-<!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "Feed Message Body As">
-<!ENTITY bodyMenuFeed.accesskey "B">
-<!ENTITY viewFeedWebPage.label "Web Page">
-<!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY viewFeedSummary.label "Summary">
-<!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+<!ENTITY bodyMenuFeed.label "Vidigi artikolojn kiel">
+<!ENTITY bodyMenuFeed.accesskey "V">
+<!ENTITY viewFeedWebPage.label "retpaĝojn">
+<!ENTITY viewFeedWebPage.accesskey "r">
+<!ENTITY viewFeedSummary.label "sumigojn">
+<!ENTITY viewFeedSummary.accesskey "s">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "implicita formo">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "i">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Display Attachments Inline">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
