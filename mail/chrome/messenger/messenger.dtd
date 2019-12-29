@@ -193,8 +193,11 @@
 <!ENTITY sortByTagsCmd.label "etikedoj">
 <!ENTITY sortByTagsCmd.accesskey "e">
 <!ENTITY sortByJunkStatusCmd.label "stato de trudmesaĝo">
+<!ENTITY sortByJunkStatusCmd.accesskey "ĝ">
 <!ENTITY sortBySubjectCmd.label "temo">
+<!ENTITY sortBySubjectCmd.accesskey "t">
 <!ENTITY sortByFromCmd.label "sendanto">
+<!ENTITY sortByFromCmd.accesskey "o">
 <!ENTITY sortByRecipientCmd.label "ricevanto">
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByCorrespondentCmd.label "koresponduloj">
@@ -202,7 +205,7 @@
 <!ENTITY sortByUnreadCmd.label "legita">
 <!ENTITY sortByUnreadCmd.accesskey "l">
 <!ENTITY sortByOrderReceivedCmd.label "ordo de ricevo">
-<!ENTITY sortByOrderReceivedCmd.accesskey "o">
+<!ENTITY sortByOrderReceivedCmd.accesskey "c">
 <!ENTITY sortAscending.label "Kreskante">
 <!ENTITY sortAscending.accesskey "K">
 <!ENTITY sortDescending.label "Malkreskante">
@@ -213,17 +216,15 @@
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Grupigitaj">
 <!ENTITY groupBySort.accesskey "G">
-<!ENTITY msgsMenu.label "Messages">
-<!ENTITY msgsMenu.accesskey "M">
-<!ENTITY threads.label "Threads">
-<!ENTITY threads.accesskey "e">
-<!ENTITY allMsgsCmd.label "All">
-<!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "Expand All Threads">
+<!ENTITY threads.label "Fadenoj">
+<!ENTITY threads.accesskey "F">
+<!ENTITY allMsgsCmd.label "ĉiuj">
+<!ENTITY allMsgsCmd.accesskey "j">
+<!ENTITY expandAllThreadsCmd.label "Etendi ĉiujn fadenojn">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Collapse All Threads">
-<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.label "Maletendi ĉiujn fadenojn">
+<!ENTITY collapseAllThreadsCmd.accesskey "M">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Unread">
 <!ENTITY unreadMsgsCmd.accesskey "U">
