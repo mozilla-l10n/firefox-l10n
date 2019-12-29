@@ -47,6 +47,7 @@ certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Uṭṭun n umazrar
 certificate-viewer-signature-algorithm = Alguritm n usezmel
 certificate-viewer-signature-scheme = Azenziɣ n usezmel
+certificate-viewer-timestamp = Azemzakud
 certificate-viewer-value = Azal
 certificate-viewer-version = Lqem
 certificate-viewer-validity = Taneɣbalt

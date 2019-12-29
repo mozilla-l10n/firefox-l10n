@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Nadi inekcam
 create-login-button = Rnu anekcum amaynut
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Tignit i { $title }
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
 fxaccounts-sign-in-button = Qqen ɣer { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Ula d yiwen n ugmuḍ ur yemm
 login-list-item-title-new-login = Anekcum amaynut
 login-list-item-subtitle-new-login = Sekcem inekcumen-ik n tuqqna
 login-list-item-subtitle-missing-username = (ulas isem n useqdac)
-about-logins-list-item-warning-icon =
-    .alt = Tginit n ulɣu
-    .title = Asmel i tḥuza trewla n yisefka
 about-logins-list-item-breach-icon =
     .title = Asmel i tḥuza trewla n yisefka
 
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Sken awal uffir
 login-item-password-reveal-checkbox-hide =
     .title = Ffer awal uffir
+login-item-password-reveal-checkbox =
+    .aria-label = Sken awal uffir
 login-item-copy-password-button-text = Nɣel
 login-item-copied-password-button-text = Inɣel!
 login-item-save-changes-button = Sekles asnifel
@@ -153,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Anekcum i { $loginTitle } s yisem-a yella yakan.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

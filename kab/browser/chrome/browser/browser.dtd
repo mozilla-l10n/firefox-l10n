@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Amiḍan">
 <!ENTITY fxa.menu.settings.label "Iɣewwaṛen">
 <!ENTITY fxa.menu.accountSettings.label "Iɣewwaṛen n umiḍan">
+<!ENTITY fxa.menu.manageAccount2.label "Sefrek amiḍan">
 <!ENTITY fxa.menu.signOut.label "Ffeɣ…">
 <!ENTITY fxa.menu.deviceSettings.label "Iɣewwaṛen n yibenk">
 <!ENTITY fxa.menu.setupSync.label "Swel &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "M">
 <!ENTITY stopCmd.label                "Seḥbes">
 <!ENTITY stopCmd.accesskey            "Ḥ">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tansa">
 <!ENTITY printButton.label            "Siggez">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Ldi aseɣwen deg yiccer amaynut">
+
 <!ENTITY openLinkCmdInTab.accesskey   "d">
 <!ENTITY openLinkCmd.label            "Ldi aseɣwen deg usfaylu amaynut">
 <!ENTITY openLinkCmd.accesskey        "d">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-a kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Smiren akatar">
 <!ENTITY reloadFrameCmd.accesskey     "S">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Sekles asebter di...">
 <!ENTITY savePageCmd.accesskey        "l">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Sekles akatar s yisem...">
 <!ENTITY saveFrameCmd.accesskey       "S">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Beddel taɣda n uḍris">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Nadi deg usebter-a…">
