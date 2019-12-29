@@ -206,6 +206,15 @@ advanced-fonts =
 colors-settings =
     .label = Spalvos…
     .accesskey = S
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Dydis
+preferences-default-zoom = Numatytasis dydis
+    .accesskey = d
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Keisti tik teksto dydį
+    .accesskey = t
 language-header = Kalba
 choose-language-description = Pasirinkite kalbą, kuria pageidaujate matyti tinklalapių turinį.
 choose-button =
