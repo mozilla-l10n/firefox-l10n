@@ -11,7 +11,7 @@
      that should fit are usually those of in-progress and blocked downloads.
      -->
 
-<!ENTITY cmd.cancel.label                 "Sfallisci">
+<!ENTITY cmd.cancel.label                 "Sfai">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -64,7 +64,7 @@
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
      -->
-<!ENTITY cancelDownload.label             "Sfallisci scarricamentu">
+<!ENTITY cancelDownload.label             "Sfai scarricamentu">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.

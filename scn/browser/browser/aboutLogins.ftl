@@ -92,7 +92,7 @@ login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = Cupiatu!
 login-item-save-changes-button = Sarba canciamenti
 login-item-save-new-button = Sarba
-login-item-cancel-button = Fai sfalliri
+login-item-cancel-button = Sfai
 login-item-time-changed = Ùrtimu canciamentu: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Criatu: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ùrtimu usu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
@@ -125,7 +125,7 @@ about-logins-enable-password-sync-dont-ask-again-button =
 
 ## Dialogs
 
-confirmation-dialog-cancel-button = Fai sfalliri
+confirmation-dialog-cancel-button = Sfai
 confirmation-dialog-dismiss-button =
     .title = Sfai
 about-logins-confirm-remove-dialog-title = Livari sta cridinziali?

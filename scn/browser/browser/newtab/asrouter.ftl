@@ -99,9 +99,13 @@ cfr-whatsnew-fingerprinter-counter-header-alt = Giniratura d'urmi diggitali
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = Attiva { -sync-brand-short-name }
+    .accesskey = A
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = Attiva { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
@@ -111,6 +115,7 @@ cfr-whatsnew-fingerprinter-counter-header-alt = Giniratura d'urmi diggitali
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-description = A to privatizza è mpurtanti. { -brand-short-name } ora blocca i trazzatura cchiù cumuni dî riti suciali, limitannu i dati chi ponnu arricògghiri supra a soccu fai 'n riti.
 
 ## Enhanced Tracking Protection Milestones
 

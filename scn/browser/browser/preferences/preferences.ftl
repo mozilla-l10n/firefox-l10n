@@ -63,7 +63,7 @@ feature-enable-requires-restart = { -brand-short-name } s'àvi a riabbiari p'abb
 feature-disable-requires-restart = { -brand-short-name } s'àvi a riabbiari pi disabbilitari sta funziunalità.
 should-restart-title = Riabbìa { -brand-short-name }
 should-restart-ok = Riabbìa { -brand-short-name } ora
-cancel-no-restart-button = Fai sfalliri
+cancel-no-restart-button = Sfai
 restart-later = Riabbìa doppu
 
 ## Extension Control Notifications
@@ -199,6 +199,15 @@ advanced-fonts =
 colors-settings =
     .label = Culura…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Grannizza
+preferences-default-zoom = Grannizza pridifinuta
+    .accesskey = f
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Sulu u testu cchiù granni
+    .accesskey = t
 language-header = Lingua
 choose-language-description = Scegghi a to lingua prifiruta pi mustrari pàggini
 choose-button =
@@ -209,6 +218,7 @@ manage-browser-languages-button =
     .label = Mposta artirnativi…
     .accesskey = a
 confirm-browser-language-change-description = Riabbìa { -brand-short-name } p'appricari sti canciamenti
+confirm-browser-language-change-button = Sarba e riabbìa
 translate-web-pages =
     .label = Traduci cuntinutu 'n riti
     .accesskey = T
@@ -224,6 +234,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Prichi e appricazziuna
 download-header = Scarricamenti
 download-save-to =
     .label = Sarba prichi nne
@@ -252,6 +263,9 @@ applications-type-column =
 applications-action-column =
     .label = Azziuni
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = pricu { $extension }
 applications-action-save =
     .label = Sarba pricu
 # Variables:
@@ -265,6 +279,8 @@ applications-use-app-default =
 applications-use-other =
     .label = Usa n'autra app…
 applications-select-helper = Scegghi appricazziuni sterna
+applications-manage-app =
+    .label = Minutagghi appricazziuni…
 applications-always-ask =
     .label = Addumanna sempri
 applications-type-pdf = PDF (Furmatu di Ducumentu Purtàbbili)
@@ -275,6 +291,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -545,6 +565,12 @@ search-keyword-warning-bookmark = Scigghisti na palora-chiavi ca a stu mumentu v
 ## Containers Section
 
 containers-back-link = « Torna nn'arrè
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Nn'arrè ê Prifirenzi
+           *[other] Nn'arrè ê Prifirenzi
+        }
 containers-header = Schedi cuntinituri
 containers-add-button =
     .label = Agghiunci novu cuntinituri
@@ -586,9 +612,14 @@ sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cancia a mmàggini dû prufilu
 sync-disconnect =
     .label = Discunnetti…
     .accesskey = D
+sync-sign-out =
+    .label = Nesci…
+    .accesskey = N
 sync-manage-account = Gistisci cuntu
     .accesskey = o
 sync-signedin-unverified = { $email } nun è virificata.
@@ -607,14 +638,45 @@ sync-signedin-settings-desc = Scigghi chi vo' sincrunizzari nnê to dispusitivi 
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincrunizzazziuni: AḌḌUMATA
+prefs-syncing-off = Sincrunizzazziuni: ASTUTATA
+prefs-sync-setup =
+    .label = Mposta { -sync-brand-short-name }…
+    .accesskey = M
+prefs-sync-offer-setup-label = Sincrunizza i to nzingalibbri, a cronuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
+prefs-sync-now =
+    .labelnotsyncing = Sincrunizza ora
+    .accesskeynotsyncing = S
+    .labelsyncing = Staju sincrunizzannu…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Sta' sincrunizzannu sti cosi:
+sync-currently-syncing-bookmarks = Nzingalibbri
+sync-currently-syncing-history = Cronuluggìa
 sync-currently-syncing-tabs = Schedi raputi
 sync-currently-syncing-logins-passwords = Accessi e chiavi
+sync-currently-syncing-addresses = Nnirizzi
+sync-currently-syncing-creditcards = Carti di crèditu
+sync-currently-syncing-addons = Agghiuncitini
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Prifirenzi
+       *[other] Prifirenzi
+    }
+sync-change-options =
+    .label = Cancia…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Scegghi soccu sincrunizzari
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Sarba canciamenti
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Discunnetti…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Nzingalibbri
     .accesskey = m
@@ -661,8 +723,8 @@ sync-device-name-change =
     .label = Cancia u nomu dû dispusitivu…
     .accesskey = h
 sync-device-name-cancel =
-    .label = Fai sfalliri
-    .accesskey = F
+    .label = Sfai
+    .accesskey = S
 sync-device-name-save =
     .label = Sarba
     .accesskey = v
@@ -692,6 +754,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suggirisci e gènira chiavi forti
     .accesskey = f
+forms-breach-alerts =
+    .label = Mustra abbisi supra ê chiavi dî siti viulati
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Cchiù nfurmazziuna
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -706,6 +771,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Cancia chiavi mastra…
     .accesskey = m
+forms-master-pw-fips-title = Accamora sì 'n mudalità FIPS. FIPS abbisogna di na chiavi mastra mpustata.
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
 ## Privacy Section - History
@@ -774,6 +840,10 @@ sitedata-block-desc = Tipu bluccatu
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Trazzatura di terzi parti
+sitedata-option-block-cross-site-trackers =
+    .label = Trazzatura ntirsitu
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Trazzatura ntirsitu e dî riti suciali
 sitedata-option-block-unvisited =
     .label = Cookie di siti nun visitati
 sitedata-option-block-all-third-party =
@@ -843,6 +913,7 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-social-media-trackers = Trazzatura dî riti suciali
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-unvisited-cookies = Cookie di siti nun visitati
 content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti i finestri

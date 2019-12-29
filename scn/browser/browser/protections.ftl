@@ -38,8 +38,8 @@ protection-report-manage-protections = Gistisci mpustazziuna
 graph-today = Oji
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Gràficu cû nùmmaru tutali di trazzatura bluccati sta simana, spartuti pi tipu.
-social-tab-title = Trazzatura dî midia suciali
-social-tab-contant = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazziuna supra di tia sparti di chiḍḍu chi sparti nnô to prufilu. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
+social-tab-title = Trazzatura dî riti suciali
+social-tab-contant = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazziuna supra di tia sparti di chiḍḍu chi sparti nnê to prufili. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
 cookie-tab-title = Cookie trazzanti di situ 'n situ
 cookie-tab-content = Sti cookie t'assicùtanu d'un situ a n'autru pi cògghiri dati supra a soccu fai 'n linia. Vennu misi di terzi parti, p'asempiu agginzìi pubblicitari o cumpagnìi d'anàlisi dî dati. Bluccari sti cookie veni a diri arridùciri u nùmmaru di pubblicità ca t'assicùtanu riti riti. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
 tracker-tab-title = Cuntinutu trazzanti
@@ -130,11 +130,11 @@ password-warning =
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Trazzatura dî midia suciali
+    .title = Trazzatura dî riti suciali
     .aria-label =
         { $count ->
-            [one] { $count } trazzaturi dî midia suciali ({ $percentage }%)
-           *[other] { $count } trazzatura dî midia suciali ({ $percentage }%)
+            [one] { $count } trazzaturi dî riti suciali ({ $percentage }%)
+           *[other] { $count } trazzatura dî riti suciali ({ $percentage }%)
         }
 bar-tooltip-cookie =
     .title = Cookie trazzanti di situ 'n situ

@@ -39,7 +39,7 @@ newtab-topsites-image-validation = Mpussìbbili carricari a mmàggini. Prova nu 
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
-newtab-topsites-cancel-button = Fai sfalliri
+newtab-topsites-cancel-button = Sfai
 newtab-topsites-delete-history-button = Cancella dâ cronuluggìa
 newtab-topsites-save-button = Sarba
 newtab-topsites-preview-button = Antiprima

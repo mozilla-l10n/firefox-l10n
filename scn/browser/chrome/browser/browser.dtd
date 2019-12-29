@@ -669,6 +669,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 
+<!ENTITY protections.socialMediaTrackers.description "I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazziuna supra di tia sparti di chiḍḍu chi sparti nnê to prufili.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -693,6 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.socialblock.label "Trazzatura dî riti suciali">
 
 
 <!ENTITY contentBlocking.fingerprinters.label "Giniratura d'urmi diggitali">
@@ -701,7 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Cchiù nfurmazziuna">
 
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Cchiù nfurmazziuna">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Fai sfalliri">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Sfai">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 ssl-error-mac-computation-failure = U càrculu dû MAC sfallìu.
+ssl-error-user-canceled-alert = L'autru utenti sfici a niguzziazziuni dâ cunnissiuni.
+sec-error-user-cancelled = L'utenti ammaccò Sfai.
