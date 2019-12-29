@@ -30,7 +30,7 @@ protection-report-header-details-custom = U liveḍḍu di prutizziuni è mpusta
 protection-report-page-title = Prutizziuna pâ privatizza
 protection-report-content-title = Prutizziuna pâ privatizza
 etp-card-title = Prutizziuni avanzata dû trazzamentu
-etp-card-content = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazziuna supra i to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e prugrammi dannusi.
+etp-card-content = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazziuna supra i to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
 protection-report-etp-card-content-custom-not-blocking = Tutti i prutizziuna sunnu sdisarmati accamora. Scegghi quali trazzatura bluccari nnê mpustazziuna di prutizziuni di { -brand-short-name }.
 protection-report-manage-protections = Gistisci mpustazziuna
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -40,7 +40,7 @@ graph-today = Oji
 graph-legend-description = Gràficu cû nùmmaru tutali di trazzatura bluccati sta simana, spartuti pi tipu.
 social-tab-title = Trazzatura dî riti suciali
 social-tab-contant = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazziuna supra di tia sparti di chiḍḍu chi sparti nnê to prufili. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
-cookie-tab-title = Cookie trazzanti di situ 'n situ
+cookie-tab-title = Cookie trazzanti ntirsitu
 cookie-tab-content = Sti cookie t'assicùtanu d'un situ a n'autru pi cògghiri dati supra a soccu fai 'n linia. Vennu misi di terzi parti, p'asempiu agginzìi pubblicitari o cumpagnìi d'anàlisi dî dati. Bluccari sti cookie veni a diri arridùciri u nùmmaru di pubblicità ca t'assicùtanu riti riti. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
 tracker-tab-title = Cuntinutu trazzanti
 tracker-tab-description = I siti web ponnu carricari pubblicità, vidiu e autri cuntinuti cu còdici trazzanti. Bluccari sti cuntinuti po fari carricari sti siti cchiù lesti, ma certi buttuna, mòduli e panneḍḍi d'accessu putìssiru nun funziunari cchiù. <a data-l10n-name="learn-more-link">Cchiù nfurmazziuna</a>
@@ -137,11 +137,11 @@ bar-tooltip-social =
            *[other] { $count } trazzatura dî riti suciali ({ $percentage }%)
         }
 bar-tooltip-cookie =
-    .title = Cookie trazzanti di situ 'n situ
+    .title = Cookie trazzanti ntirsitu
     .aria-label =
         { $count ->
-            [one] { $count } cookie trazzanti di situ 'n situ ({ $percentage }%)
-           *[other] { $count } cookie trazzanti di situ 'n situ ({ $percentage }%)
+            [one] { $count } cookie trazzanti ntirsitu ({ $percentage }%)
+           *[other] { $count } cookie trazzanti ntirsitu ({ $percentage }%)
         }
 bar-tooltip-tracker =
     .title = Cuntinutu trazzanti

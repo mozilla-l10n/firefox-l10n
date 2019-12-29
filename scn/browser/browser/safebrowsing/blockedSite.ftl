@@ -14,6 +14,10 @@ safeb-palm-advisory-desc = Abbisu furnutu di <a data-l10n-name='advisory_provide
 safeb-palm-accept-label = Vai nn'arrè
 safeb-palm-see-details-label = Vidi minutagghi
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>ripurtatu comu un situ fallaci</a>. Poi <a data-l10n-name='report_detection'>signalijari un prubblema di rilevamentu</a>, o <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
+safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>ripurtatu comu un situ fallaci</a>. Poi <a data-l10n-name='report_detection'>signalari un prubblema di rilevamentu</a>.
+safeb-blocked-phishing-page-learn-more = Vidi <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> p'aviri chiù nfurmazziuna supra i siti fallaci e i truffi 'n riti. Vai nne <a data-l10n-name='firefox_support'>support.mozilla.org</a> pi aviri cchiù nfurmazziuna supra i prutizziuna di { -brand-short-name }.
+safeb-blocked-malware-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>ripurtatu comu un situ cu prugrammi nun sicuri</a>. Poi <a data-l10n-name='report_detection'>signalijari un prubblema di rilevamentu</a>, o <a data-l10n-name='ignore_warning_link'>nun tèniri cuntu dû rìsicu</a> e visitari stu situ nun sicuru.
+safeb-blocked-malware-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> fu <a data-l10n-name='error_desc_link'>ripurtatu comu un situ cu prugrammi nun sicuri</a>. Poi <a data-l10n-name='report_detection'>signalari un prubblema di rilevamentu</a>.
 safeb-palm-notdeceptive =
     .label = Chistu nun è un situ fallaci…
     .accesskey = n

@@ -75,6 +75,7 @@ cfr-protections-panel-link-text = Cchiù nfurmazziuna
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blocca assai trazzatura suciali e ntirsitu cumuni chi sicùtanu soccu fai nnâ riti.
 
 ## Picture-in-Picture
 

@@ -118,6 +118,10 @@ search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name=
 ## General Section
 
 startup-header = Abbìu
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Pirmetti a { -brand-short-name } e Firefox di firriari nnô stissu mumentu
 use-firefox-sync = Cunzigghiu: chistu usa prufili spartuti. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
 get-started-not-logged-in = Trasi nne { -sync-brand-short-name }…
 get-started-configured = Rapi i prifirenzi di { -sync-brand-short-name }
@@ -879,6 +883,8 @@ addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi
 
 content-blocking-header = Bluccaggiu di cuntinutu
 content-blocking-section-description = Pruteggi a to privatizza mentri nàvighi. Blocca i cuntinuti mmisìbbili ca tràzzanu i siti ca vìsiti e ti prufìlanu. Bluccari certi di sti cuntinuti ponnu fari carricari i pàggini cchiù lesti.
+content-blocking-enhanced-tracking-protection = Prutizziuni avanzata dû trazzamentu
+content-blocking-section-top-level-description = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazziuna supra i to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.
 content-blocking-learn-more = Cchiù nfurmazziuna
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -913,16 +919,23 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-strict-desc = Prutizziuni cchiù auta, ma certi siti o cuntinuti putìssiru farsijari.
+content-blocking-etp-custom-desc = Scegghi quali trazzatura e prugrammi bluccari.
+content-blocking-private-windows = Cuntinuti trazzanti nnê finestri anònimi
+content-blocking-cross-site-tracking-cookies = Cookie trazzanti ntirsitu
 content-blocking-social-media-trackers = Trazzatura dî riti suciali
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-unvisited-cookies = Cookie di siti nun visitati
 content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti i finestri
+content-blocking-all-windows-tracking-content = Cuntinuti trazzanti 'n tutti i finestri
 content-blocking-all-third-party-cookies = Tutti i cookie di terzi parti
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Giniratura d'urmi diggitali
 content-blocking-warning-title = Cumanna!
 content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari u bloccu pî siti dî quali ti fidi.
 content-blocking-learn-how = Scopri comu
+content-blocking-etp-warning-description = Bluccari i trazzatura putissi fari farsijari certi siti. Ricàrrica na pàggina chî trazzatura pi càrricari tutti i cuntinuti.
+content-blocking-warning-learn-how = Vidi comu
 content-blocking-reload-description = Ài a ricarricari i schedi p'appricari sti canciamenti.
 content-blocking-reload-tabs-button =
     .label = Ricàrrica tutti i schedi
@@ -930,6 +943,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Trazzatura
     .accesskey = T
+content-blocking-tracking-content-label =
+    .label = Cuntinutu trazzanti
+    .accesskey = t
 content-blocking-tracking-protection-option-all-windows =
     .label = Nna tutti i finestri
     .accesskey = A
@@ -965,6 +981,10 @@ permissions-location = Pusizziuni
 permissions-location-settings =
     .label = Mpustazziuna…
     .accesskey = M
+permissions-xr = Rialtà virtuali
+permissions-xr-settings =
+    .label = Mpustazziuna…
+    .accesskey = M
 permissions-camera = Càmira
 permissions-camera-settings =
     .label = Mpustazziuna…
@@ -987,6 +1007,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Eccizziuna…
     .accesskey = E
+permissions-autoplay = Ripruduzziuni autumàtica
+permissions-autoplay-settings =
+    .label = Mpustazziuna…
+    .accesskey = M
 permissions-block-popups =
     .label = Blocca i finestri autumàtichi
     .accesskey = B
@@ -1009,6 +1033,7 @@ permissions-a11y-privacy-link = Cchiù nfurmazziuna
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
 collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e migghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmisu prima d'arricìviri nfurmazziuna pirsunali.
 collection-privacy-notice = Abbisi di privatizza
+collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazziuna. Tutti i dati vecchi sarannu cancillati nna 30 jorna.
 collection-health-report-telemetry-disabled-link = Cchiù nfurmazziuna
 collection-health-report =
     .label = Pirmetti a { -brand-short-name } di mannari dati tècnici e di ntirazziuni a { -vendor-short-name }
@@ -1056,6 +1081,9 @@ certs-select-auto-option =
 certs-select-ask-option =
     .label = Addumanna ogni vota
     .accesskey = A
+certs-enable-ocsp =
+    .label = Addumànnaci e sirbura rispunnituri OCSP di cunfirmari si i cirtificati sunnu vàliti
+    .accesskey = A
 certs-view =
     .label = Talìa cirtificati…
     .accesskey = c
@@ -1084,9 +1112,14 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = D'accordu, u capivu
     .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti dî siti si putìssiru vìdiri mali. Vìsita “Cchiù nfurmazziuna” p'uttimizzari l'usu dû discu pi na megghiu spirienza di navigazziuni.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scrivanìa
 downloads-folder-name = Scarricamenti
 choose-download-folder-title = Scegghi carpetta pî scarricamenti:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Sarba prichi nne { $service-name }
