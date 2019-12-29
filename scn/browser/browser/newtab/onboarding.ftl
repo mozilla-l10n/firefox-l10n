@@ -26,7 +26,7 @@ onboarding-join-form-header = Jùnciti a { -brand-product-name }
 onboarding-join-form-body = Metti a to e-mail p'accuminciari.
 onboarding-join-form-email =
     .placeholder = Metti l'e-mail
-onboarding-join-form-email-error = Serbi n'e-mail vàlida
+onboarding-join-form-email-error = È nicissariu nu nnirizzu e-mail vàlitu
 onboarding-join-form-legal = Cuntinuannu, accetti i <a data-l10n-name="terms">tèrmini di sirbizzu</a> e <a data-l10n-name="privacy">l'abbisu di privatizza</a>.
 onboarding-join-form-continue = Cuntinua
 onboarding-start-browsing-button-label = Accumincia a navigari
@@ -75,6 +75,7 @@ onboarding-ghostery-text = Nàviga cchiù lestu, cchiù spertu o cchiù sicuru c
 onboarding-fxa-title = Sincrunizza
 onboarding-fxa-text = Riggìstra un { -fxaccount-brand-name } e sincrunizza i to nzingalibbri, i chiavi, e rapi schedi unn'è-è ca usi { -brand-short-name }.
 onboarding-tracking-protection-title2 = Prutizziuni dû trazzamentu
+onboarding-tracking-protection-text2 = { -brand-short-name } t'ajuta a nun fàriti trazzari 'n riti dî siti, facennu addivintari cchiù diffìcili u trazzamentu dî pubblicità 'n riti.
 onboarding-tracking-protection-button2 = Comu funziona
 onboarding-data-sync-title = Pòrtati appressu i to mpustazziuna
 onboarding-data-sync-button2 = Trasi nne { -sync-brand-short-name }

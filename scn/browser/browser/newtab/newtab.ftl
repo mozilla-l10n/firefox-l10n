@@ -25,7 +25,7 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Agghiunci muturi di ricerca
 newtab-topsites-add-topsites-header = Novu situ principali
-newtab-topsites-edit-topsites-header = Cancia u situ principali
+newtab-topsites-edit-topsites-header = Cancia situ principali
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Metti un tìtulu
@@ -63,9 +63,14 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .title = Rapi u minù
     .aria-label = Rapi u minù cuntistuali pi { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Cancia stu situ
+    .aria-label = Cancia stu situ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Cancia
 newtab-menu-open-new-window = Rapi nna na finestra nova
 newtab-menu-open-new-private-window = Rapi nna na finestra privata nova
 newtab-menu-delete-history = Cancella dâ cronuluggìa
@@ -113,6 +118,7 @@ newtab-section-menu-remove-section = Cancella sizziuni
 
 ## Section Headers.
 
+newtab-section-header-topsites = Siti principali
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
