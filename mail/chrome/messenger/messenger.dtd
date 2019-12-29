@@ -226,9 +226,8 @@
 <!ENTITY collapseAllThreadsCmd.label "Maletendi ĉiujn fadenojn">
 <!ENTITY collapseAllThreadsCmd.accesskey "M">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Unread">
-<!ENTITY unreadMsgsCmd.accesskey "U">
-<!ENTITY threadsWithUnreadCmd.label "Threads with Unread">
+<!ENTITY unreadMsgsCmd.label "nelegitaj">
+<!ENTITY unreadMsgsCmd.accesskey "n">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
