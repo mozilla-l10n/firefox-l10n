@@ -179,38 +179,30 @@
 <!ENTITY sortByDateCmd.label "dato">
 <!ENTITY sortByDateCmd.accesskey "d">
 <!ENTITY sortByReceivedCmd.label "dato de ricevo">
-<!ENTITY sortByReceivedCmd.accesskey "r">
+<!ENTITY sortByReceivedCmd.accesskey "v">
 <!ENTITY sortByStarCmd.label "markitaj per steleto">
-<!ENTITY sortByStarCmd.accesskey "s">
 <!ENTITY sortByAttachmentsCmd.label "kunsendaĵoj">
-<!ENTITY sortByAttachmentsCmd.accesskey "u">
 <!ENTITY sortByPriorityCmd.label "prioritato">
-<!ENTITY sortByPriorityCmd.accesskey "p">
 <!ENTITY sortBySizeCmd.label "grando">
-<!ENTITY sortBySizeCmd.accesskey "g">
 <!ENTITY sortByStatusCmd.label "stato">
-<!ENTITY sortByStatusCmd.accesskey "o">
 <!ENTITY sortByTagsCmd.label "etikedoj">
-<!ENTITY sortByTagsCmd.accesskey "e">
 <!ENTITY sortByJunkStatusCmd.label "stato de trudmesaĝo">
-<!ENTITY sortByJunkStatusCmd.accesskey "a">
 <!ENTITY sortBySubjectCmd.label "temo">
-<!ENTITY sortBySubjectCmd.accesskey "t">
 <!ENTITY sortByFromCmd.label "sendanto">
-<!ENTITY sortByFromCmd.accesskey "s">
 <!ENTITY sortByRecipientCmd.label "ricevanto">
-<!ENTITY sortByRecipientCmd.accesskey "r">
+<!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByCorrespondentCmd.label "koresponduloj">
-<!ENTITY sortByCorrespondentCmd.accesskey "n">
 <!ENTITY sortByUnreadCmd.label "legitaj mesaĝoj">
 <!ENTITY sortByOrderReceivedCmd.label "ordo de ricevo">
-<!ENTITY sortAscending.label "kreskante">
-<!ENTITY sortDescending.label "malkreskante">
-<!ENTITY sortThreaded.label "Threaded">
-<!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "Unthreaded">
-<!ENTITY sortUnthreaded.accesskey "h">
-<!ENTITY groupBySort.label "Grouped By Sort">
+<!ENTITY sortAscending.label "Kreskante">
+<!ENTITY sortAscending.accesskey "K">
+<!ENTITY sortDescending.label "Malkreskante">
+<!ENTITY sortDescending.accesskey "M">
+<!ENTITY sortThreaded.label "Fadenigitaj">
+<!ENTITY sortThreaded.accesskey "F">
+<!ENTITY sortUnthreaded.label "Nefadenigitaj">
+<!ENTITY sortUnthreaded.accesskey "N">
+<!ENTITY groupBySort.label "Grupigitaj">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Messages">
 <!ENTITY msgsMenu.accesskey "M">
