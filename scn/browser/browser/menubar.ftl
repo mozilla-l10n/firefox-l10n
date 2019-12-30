@@ -64,6 +64,9 @@ menu-edit =
 menu-edit-undo =
     .label = Sfai
     .accesskey = S
+menu-edit-redo =
+    .label = Rifai
+    .accesskey = R
 menu-edit-cut =
     .label = Tagghia
     .accesskey = T
@@ -118,6 +121,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Cchiù nicu
     .accesskey = c
+menu-view-full-zoom-reset =
+    .label = Risetta
+    .accesskey = R
 menu-view-full-zoom-actual-size =
     .label = Grannizza riali
     .accesskey = r
@@ -243,6 +249,8 @@ menu-preferences =
 
 menu-window-menu =
     .label = Finestra
+menu-window-bring-all-to-front =
+    .label = Porta tutti davanzi
 
 ## Help Menu
 
@@ -255,6 +263,9 @@ menu-help-product =
 menu-help-show-tour =
     .label = Vìsita cunnuciuta di { -brand-shorter-name }
     .accesskey = V
+menu-help-keyboard-shortcuts =
+    .label = Accurzi dâ tastiera
+    .accesskey = A
 menu-help-troubleshooting-info =
     .label = Nfurmazziuna p'arrisòrbiri prubblemi
     .accesskey = p

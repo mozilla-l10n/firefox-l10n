@@ -24,6 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Rapi u minù
+# This menuitem is only visible on Windows
+menu-menuitem-import = Mporta chiavi…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Prifirenzi

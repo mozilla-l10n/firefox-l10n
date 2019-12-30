@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Archiviu
 site-data-column-last-used =
     .label = Ùrtimu usu
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (pricu lucali)
 site-data-remove-selected =
     .label = Cancella silizziunatu
     .accesskey = s
