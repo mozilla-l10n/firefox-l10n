@@ -21,9 +21,9 @@
 <!ENTITY  useSystemColors.label           "Usar le colores del systema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "Sublinear le ligamines">
+<!ENTITY  underlineLinks.label            "Sublinear ligamines">
 <!ENTITY  underlineLinks.accesskey        "S">
-<!ENTITY  links                           "Colores del ligamines">
+<!ENTITY  links                           "Colores de ligamines">
 <!ENTITY  linkColor.label                 "Ligamines non visitate:">
 <!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Ligamines visitate:">

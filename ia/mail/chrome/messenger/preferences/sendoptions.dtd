@@ -6,7 +6,7 @@
 <!ENTITY sendMail.title               "Formato de texto">
 <!ENTITY autoDowngrade.label          "Inviar messages in texto plan, si possibile">
 <!ENTITY autoDowngrade.accesskey      "t">
-<!ENTITY askMe.label                  "Demendar me que facer">
+<!ENTITY askMe.label                  "Demandar me que facer">
 <!ENTITY askMe.accesskey              "m">
 
 <!ENTITY AddHtmlDomain.label          "Adder…">
