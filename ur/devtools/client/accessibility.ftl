@@ -14,6 +14,8 @@ accessibility-warning =
     .alt = انتباہ
 accessibility-fail =
     .alt = نقص
+accessibility-best-practices =
+    .alt = بہترین طریقے
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue

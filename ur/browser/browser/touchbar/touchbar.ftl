@@ -12,11 +12,19 @@ fullscreen = پوری اسکرین
 find = ڈھونڈیں
 new-tab = نیا ٹیب
 add-bookmark = بک مارک شامل کریں
+reader-view = پڑھنے کا نظارہ
+# Meant to match the string displayed in an empty URL bar.
+open-location = تلاش کریں یا پتہ درج کریں
 share = شیئر کریں
 close-window = ونڈو بند کریں
+open-sidebar = بغلی بار
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = میں تلاش کریں:
 
 ## Various categories of shortcuts for search.
 
+search-bookmarks = بک مارکس
 search-history = سابقات
 search-opentabs = ٹیبس کھولیں
 search-tags = ٹیگز

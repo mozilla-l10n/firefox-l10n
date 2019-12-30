@@ -64,6 +64,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "چھاپیں…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "دوسرے براؤزر سے درآمد کریں…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "ٹاسک مینیجر">
@@ -260,6 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM سافٹ ویئر کہ استعمال کو بندوبست کریں">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI پینل کھولیں">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "آپ نے اس ویب سائٹ کے لیئے کیمرہ بلاک کیا ہوا ہے">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "آپ نے اس ویب سائٹ کے لیئے مائیکروفون بلاک کیا ہوا ہے۔">
@@ -372,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "لاگ ان اور پاس ورڈ">
 
 <!ENTITY clearRecentHistory.label               "حالیہ سابقات خالی کریں…">
 
@@ -816,8 +819,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "بعید کنکشن">
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
 
+<!ENTITY identity.connectionNotSecure2 "ناقابل بھروسا کنکشن">
 <!ENTITY identity.connectionFile "یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔">
 <!ENTITY identity.connectionVerified2 "آپ محفوظ طریقے سے اس سائٹ سے جڑے ہوے ہے، کی ملکیت ہے:">
+<!ENTITY identity.connectionVerified3 "آپ اس سائٹ کے ساتھ محفوظ طریقے سے جڑے ہوئے ہیں۔">
 <!ENTITY identity.connectionInternal "یہ ایک قابل بھروسا &brandShortName; صفحہ ہے۔">
 <!ENTITY identity.extensionPage "یہ صفہ ایکسٹینشن سے لوڈ کیا گیا ہے۔">
 <!ENTITY identity.insecureLoginForms2 "اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔">
@@ -856,6 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "اجازتیں">
 
+<!ENTITY identity.permissions3 "اجازتیں">
 <!ENTITY identity.permissionsEmpty "آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔">
 <!ENTITY identity.permissionsReloadHint "تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔">
 <!ENTITY identity.permissionsPreferences.tooltip "اجازت ترجیحات کھولیں">
@@ -863,9 +869,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.showreport.label "رپورٹ دکھائیں">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "سائٹ کام نہیں کررہی ہے؟">
 <!ENTITY protections.siteNotWorkingView.title "سائٹ کام نہیں کررہا ہے؟">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
@@ -884,6 +892,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "مسدود شدہ">
+<!ENTITY protections.notBlocking2.label "اجازت ہے">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -927,9 +937,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "ٹریکرس">
 
 <!ENTITY contentBlocking.cookies.label "کوکیس">
+<!ENTITY contentBlocking.cookiesView.label "کوکیز اور سائٹ کے کواِئف">
 
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
+<!ENTITY contentBlocking.socialblock.label "سماجی میڈیا ٹریکرز">
 
 <!ENTITY contentBlocking.cryptominers.label "کریپٹومینر">
 <!ENTITY contentBlocking.cryptominersView.label "کریپٹومینر">
@@ -980,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; تازہ کاری کو ڈاؤن لوڈ کریں">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; کی تازہ کاپی ڈاون لوڈ کرے">
+<!ENTITY updateUnsupported.panelUI.label "آپ مزید تازہ کاری نہیں کرسکتے ہیں">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں">
 
 <!ENTITY newTabControlled.header.message "آپکا نیا ٹیب تبدیل کردیا گیا ہے۔">
@@ -995,6 +1009,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "توسیعات نا اہل بنائیں">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "اپنے پوشیدہ ٹیبز تک رسائی حاصل کریں">
 <!ENTITY tabHideControlled.keepButton.label "ٹیبس کو مخفی رکھیں">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "توسیعات نا اہل بنائیں">
