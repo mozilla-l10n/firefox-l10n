@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Etsi kirjautumistietoja
 create-login-button = Luo uusi kirjautumistieto
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon sivustolle { $title }
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-button = Kirjaudu { -sync-brand-short-name }-palveluun
 fxaccounts-avatar-button =
@@ -57,9 +52,6 @@ about-logins-login-list-empty-search-description = Hakuasi vastaavia tuloksia ei
 login-list-item-title-new-login = Uusi kirjautumistieto
 login-list-item-subtitle-new-login = Anna kirjautumistietosi
 login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
-about-logins-list-item-warning-icon =
-    .alt = Varoituskuvake
-    .title = Tietovuodon kokenut sivusto
 about-logins-list-item-breach-icon =
     .title = Tietovuodon kokenut sivusto
 
@@ -92,6 +84,8 @@ login-item-password-reveal-checkbox-show =
     .title = Näytä salasana
 login-item-password-reveal-checkbox-hide =
     .title = Piilota salasana
+login-item-password-reveal-checkbox =
+    .aria-label = Näytä salasana
 login-item-copy-password-button-text = Kopioi
 login-item-copied-password-button-text = Kopioitu!
 login-item-save-changes-button = Tallenna muutokset
@@ -145,11 +139,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Tietue sivustolle { $loginTitle } kyseisellä käyttäjätunnuksella on jo olemassa.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
