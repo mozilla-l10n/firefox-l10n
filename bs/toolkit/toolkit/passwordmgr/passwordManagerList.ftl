@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Da li ste sigurni da želite ukloniti sve lozinke?
 remove-all-passwords-title = Ukloni sve lozinke
 no-master-password-prompt = Da li ste sigurni da želite prikazati vaše lozinke?
+auto-fill-logins-and-passwords =
+    .label = Automatsko popunjavanje prijava i lozinki

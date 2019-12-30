@@ -24,13 +24,25 @@ features-title = { -brand-short-name } mogućnosti
 features-name = Naziv
 features-version = Verzija
 features-id = ID
+processes-title = Udaljeni procesi
+processes-type = Tip
+processes-count = Broj
 app-basics-title = Osnove aplikacije
 app-basics-name = Naziv
 app-basics-version = Verzija
 app-basics-build-id = Build ID
 app-basics-update-channel = Kanal za nadograđivanje
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Ažuriraj direktorij
+       *[other] Ažuriraj direktorij
+    }
 app-basics-update-history = Historija nadogradnji
 app-basics-show-update-history = Prikaži historiju nadogradnji
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binarna aplikacija
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Direktorij profila
@@ -44,7 +56,12 @@ app-basics-memory-use = Upotreba memorije
 app-basics-performance = Performanse
 app-basics-service-workers = Registrovani Service Workeri
 app-basics-profiles = Profili
+app-basics-launcher-process-status = Pokretački proces
 app-basics-multi-process-support = Multiprocesni prozori
+app-basics-remote-processes-count = Udaljeni procesi
+app-basics-enterprise-policies = Enterprise police
+app-basics-location-service-key-google = Google Location Service Key
+app-basics-safebrowsing-key-google = Google Safebrowsing Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Sigurni režim
 show-dir-label =
@@ -70,6 +87,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Zapisnik odluka
 graphics-crash-guards-title = Onemogućene osobine čuvara rušenja
 graphics-workarounds-title = Zaobilazna rješenja
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokol prozora
 place-database-title = Baza podataka mjesta
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifikuj integritet
@@ -113,8 +132,11 @@ media-device-format = Format
 media-device-channels = Kanali
 media-device-rate = Brzina
 media-device-latency = Kašnjenje
+media-capabilities-title = Mogućnosti medija
+# List all the entries of the database.
+media-capabilities-enumerate = Enumeriraj bazu podataka
 
-##
+
 
 intl-title = Internacionalizacija & lokalizacija
 intl-app-title = Postavke aplikacije
@@ -125,6 +147,22 @@ intl-locales-default = Glavni lokal
 intl-os-title = Operativni sistem
 intl-os-prefs-system-locales = Sistemski lokali
 intl-regional-prefs = Regionalne postavke
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Udaljeno debagiranje (Chromium protokol)
+remote-debugging-accepting-connections = Prihvatanje veza
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -185,6 +223,8 @@ hardware-h264 = Hardversko H264 dekodiranje
 main-thread-no-omtc = glavna nit, bez OMTC
 yes = Da
 no = Ne
+unknown = Nepoznato
+virtual-monitor-disp = Virtualni monitor
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -192,12 +232,15 @@ no = Ne
 
 found = Pronađeno
 missing = Nedostaje
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUPproces
 gpu-description = Opis
 gpu-vendor-id = ID Izdavača
 gpu-device-id = ID Uređaja
 gpu-subsys-id = Subsys ID
 gpu-drivers = Drajveri
 gpu-ram = RAM
+gpu-driver-vendor = Proizvođač drajvera
 gpu-driver-version = Verzija drajvera
 gpu-driver-date = Datum drajvera
 gpu-active = Aktivno
@@ -225,10 +268,13 @@ d3d9video-crash-guard = D3D9 Video dekoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Resetuj vrijednosti kod sljedećeg restarta
 gpu-process-kill-button = Okončaj GPU procese
+gpu-device-reset = Reset uređaja
 gpu-device-reset-button = Okini reset uređaja
 uses-tiling = Koristi mozaik
+content-uses-tiling = Koristi tiling (sadržaj)
 off-main-thread-paint-enabled = Off Main Thread Painting omogućen
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker brojač
+target-frame-rate = Ciljni Frame Rate
 min-lib-versions = Očekivana minimalna verzija
 loaded-lib-versions = Verzija u upotrebi
 has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
@@ -242,6 +288,11 @@ effective-content-sandbox-level = Efektivni Content Process Sandbox nivo
 sandbox-proc-type-content = sadržaj
 sandbox-proc-type-file = sadržaj fajla
 sandbox-proc-type-media-plugin = medijski plugin
+sandbox-proc-type-data-decoder = dekoder podataka
+launcher-process-status-0 = Omogućeno
+launcher-process-status-1 = Onemogućeno zbog kvara
+launcher-process-status-2 = Prisilno onemogućeno
+launcher-process-status-unknown = Nepoznat status
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -270,3 +321,6 @@ touch-warning = asinhroni ulaz dodirom onemogućen zbog nepodržane postavke: { 
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Neaktivno
+policies-active = Aktivno
+policies-error = Greška
