@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Pause
     .accesskey = P
 
-##
+
 
 main-context-menu-media-mute =
     .label = Slå av lyd
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Gøym kontrollar
     .accesskey = ø
 
-##
+
 
 main-context-menu-media-video-fullscreen =
     .label = Fullskjerm
@@ -236,7 +236,7 @@ main-context-menu-view-background-image =
     .label = Vis bakgrunnsbildet
     .accesskey = b
 main-context-menu-keyword =
-    .label = Lag nykelord for dette søket…
+    .label = Lag nøkkelord for dette søket…
     .accesskey = L
 main-context-menu-link-send-to-device =
     .label = Send lenke til eining
