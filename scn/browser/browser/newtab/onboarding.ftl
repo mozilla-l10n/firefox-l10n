@@ -21,25 +21,47 @@ onboarding-button-label-get-started = Accumincia
 onboarding-welcome-header = Bimminuti nne { -brand-short-name }
 onboarding-welcome-body = Ài u navigaturi.<br/>Canusci u restu di { -brand-product-name }.
 onboarding-welcome-learn-more = Cchiù nfurmazziuna supra i binifici.
+onboarding-welcome-modal-get-body = Ài u navigaturi.<br/>Ora sfrutta { -brand-product-name } megghiu ca poi!
+onboarding-welcome-modal-supercharge-body = Prutizziuni dâ to privatizza ê màssimi liveḍḍi.
+onboarding-welcome-modal-privacy-body = Ài u navigaturi. Agghiunci quarchi prutizziuni pâ to privatizza.
 onboarding-welcome-modal-family-learn-more = Cchiù nfurmazziuna supra â famigghia di prudutti { -brand-product-name }
+onboarding-welcome-form-header = Accumincia di cca
 onboarding-join-form-header = Jùnciti a { -brand-product-name }
-onboarding-join-form-body = Metti a to e-mail p'accuminciari.
+onboarding-join-form-body = Metti u to nnirizzu e-mail p'accuminciari.
 onboarding-join-form-email =
     .placeholder = Metti l'e-mail
 onboarding-join-form-email-error = È nicissariu nu nnirizzu e-mail vàlitu
 onboarding-join-form-legal = Cuntinuannu, accetti i <a data-l10n-name="terms">tèrmini di sirbizzu</a> e <a data-l10n-name="privacy">l'abbisu di privatizza</a>.
 onboarding-join-form-continue = Cuntinua
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ài già un cuntu?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Trasi
 onboarding-start-browsing-button-label = Accumincia a navigari
+onboarding-cards-dismiss =
+    .title = Leva
+    .aria-label = Leva
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Scupremu nzèmmula chiḍḍu ca poi fari.
+onboarding-fullpage-form-email =
+    .placeholder = U to nnirizzu e-mail…
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Pòrtati { -brand-product-name } appressu
+onboarding-sync-welcome-content = Attrova i to nzingalibbri, a to cronuluggìa, i chiavi e l'autri mpustazziuna nna tutti i to dispusitivi.
 onboarding-sync-welcome-learn-more-link = Cchiù nfurmazziuna supra ô cuntu Firefox
+onboarding-sync-form-input =
+    .placeholder = Nnirizzu e-mail
+onboarding-sync-form-continue-button = Cuntinua
+onboarding-sync-form-skip-login-button = Sauta stu passaggiu
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Metti u to nnirizzu e-mail
+onboarding-sync-form-sub-header = pi cuntinuari cu { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -55,6 +77,12 @@ onboarding-benefit-privacy-title = Privatizza vera
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tuttu chiḍḍu chi facemu porta anuri â nostra Prumisa dî Dati Pirsunali: Pigghiari cchiù picca. Tinilli ô sicuru. Nenti sicrita.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Pòrtati i to nzingalibbri, i chiavi, a cronuluggìa e autru unn'è-è ca usi { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Ricivi na nutìfica quannu i to dati pirsunali vennu attruvati nna na viulazziuni di dati.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gistisci i chiavi 'n manera sicura e purtàbbili.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -78,6 +106,8 @@ onboarding-tracking-protection-title2 = Prutizziuni dû trazzamentu
 onboarding-tracking-protection-text2 = { -brand-short-name } t'ajuta a nun fàriti trazzari 'n riti dî siti, facennu addivintari cchiù diffìcili u trazzamentu dî pubblicità 'n riti.
 onboarding-tracking-protection-button2 = Comu funziona
 onboarding-data-sync-title = Pòrtati appressu i to mpustazziuna
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincrunizza i to nzingalibbri, i chiavi e autru unn'è-è ca usi { -brand-product-name }.
 onboarding-data-sync-button2 = Trasi nne { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Arresta nfurmatu ncapu i viulazziuna dî dati
 onboarding-firefox-monitor-text = { -monitor-brand-name } munìtura si a to e-mail cumparìu nna quarchi viulazziuni di dati e t'abbisa si cumparisci nna quarchi nova viulazziuni.
