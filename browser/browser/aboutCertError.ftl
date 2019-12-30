@@ -53,5 +53,5 @@ cert-error-symantec-distrust-admin = Du kan varsle nettsideadministratoren om de
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
-cert-error-details-key-pinning-label = Festa HTTP-nykel: { $hasHPKP }
+cert-error-details-key-pinning-label = Festa HTTP-nøkkel: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikatkjede:
