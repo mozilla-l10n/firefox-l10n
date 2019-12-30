@@ -8,6 +8,11 @@ profiles-create = Kreiraj novi profil
 profiles-restart-title = Restartuj
 profiles-restart-in-safe-mode = Restartuj sa onemogućenim add-onima…
 profiles-restart-normal = Restartuj na normalan način…
+profiles-conflict = Još jedna kopija { -brand-product-name } je mijenjala profile. Morate restartovati { -brand-short-name } prije no što izvršite dodatne promjene.
+profiles-flush-fail-title = Promjene nisu spremljene
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Neočekivana greška spriječila je spremanje promjena.
+profiles-flush-restart-button = Restartuj { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
@@ -26,6 +31,8 @@ profiles-rename = Preimenuj
 profiles-remove = Ukloni
 profiles-set-as-default = Postavi kao glavni profil
 profiles-launch-profile = Pokreni profil u novom browseru
+profiles-cannot-set-as-default-title = Ne mogu postaviti glavni
+profiles-cannot-set-as-default-message = Glavni profile ne može biti promijenjen za { -brand-short-name }.
 profiles-yes = da
 profiles-no = ne
 profiles-rename-profile-title = Preimenuj profil
@@ -45,6 +52,8 @@ profiles-delete-profile-confirm =
     Želite li obrisati fajlove profila?
 profiles-delete-files = Obriši fajlove
 profiles-dont-delete-files = Nemoj brisati fajlove
+profiles-delete-profile-failed-title = Greška
+profiles-delete-profile-failed-message = Došlo je do greške prilikom pokušaja brisanja ovog profila.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Prikaži u Finderu

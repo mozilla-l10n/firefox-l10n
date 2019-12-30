@@ -26,3 +26,15 @@ about-private-browsing-not-private = Trenutno niste u privatnom prozoru.
 content-blocking-title = Blokiranje sadržaja
 content-blocking-description = Neke web stranice koriste trackere koji nadziru vaše aktivnosti na internetu. U privatnim prozorima, { -brand-short-name } blokiranje sadržaja automatski blokira mnoge trackere koji mogu prikupljati informacije o vašim navikama surfanja.
 about-private-browsing-info-description = { -brand-short-name } briše vašu historiju pretraga i surfanja kada ugasite aplikaciju ili zatvorite sve tabove i prozore Privatnog surfanja. Iako vas ovo ne čini anonimnim web stranicama ili vašem internet provajderu, omogućava vam da ono što radite online zadržite privatnim od svih drugih korisnika ovog računara.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } je vaš glavni pretraživač u Privatnim prozorima
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Da izaberete drugi pretraživač posjetite <a data-l10n-name="link-options">Opcije</a>
+       *[other] Da izaberete drugi pretraživač posjetite <a data-l10n-name="link-options">Preference</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Zatvori

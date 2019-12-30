@@ -23,6 +23,8 @@ about-config-intro-warning-button = Prihvati rizik i nastavi
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Promjena ovih postavki može uticati na performanse ili sigurnost { -brand-short-name }a.
 about-config-page-title = Napredne postavke
+about-config-search-input1 =
+    .placeholder = Traži naziv preference
 about-config-show-all = Prikaži sve
 about-config-pref-add = Dodaj
 about-config-pref-toggle = Uključi/isključi

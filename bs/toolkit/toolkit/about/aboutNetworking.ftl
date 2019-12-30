@@ -9,12 +9,14 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
+dnssuffix = DNS sufiks
 websockets = WebSockets
 refresh = Osvježi
 auto-refresh = Automatski osvježi svake 3 sekunde
 hostname = Naziv hosta
 port = Port
 http2 = HTTP/2
+about-networking-http-version = HTTP verzija
 ssl = SSL
 active = Aktivno
 idle = Neaktivan
@@ -23,6 +25,7 @@ tcp = TCP
 sent = Poslano
 received = Primljeno
 family = Familija
+trr = TRR
 addresses = Adrese
 expires = Ističe (sekunde)
 messages-sent = Poruka poslano
@@ -56,3 +59,13 @@ rcwn-avg-long = Duga prosječna
 rcwn-std-dev-long = Dugo standardno odstupanje
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
+networkid = ID Mreže
+networkid-id = ID Mreže
+
+## Link is intended as "network link"
+
+networkid-isUp = Veza radi
+networkid-statusKnown = Status veze je poznat
+
+
+
