@@ -21,25 +21,24 @@
 <!ENTITY firstrun_data_message "פחות נתונים יותר חסכון">
 <!ENTITY firstrun_data_subtext2 "בטלו הצגת תמונות לחסכון בתעבורת נתונים עם כל אתר שנפתח.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message3 "סנכרון הסימניות, ההיסטוריה והססמאות שלך לטלפון שלך.">
 <!ENTITY updatednewfirstrun_sync_title "חשבון">
 <!ENTITY firstrun_sync_message2 "המשך מהמקום שבו הפסקת.">
-<!ENTITY firstrun_sync_message3 "סנכרון הסימניות, ההיסטוריה והססמאות שלך לטלפון שלך.">
 <!ENTITY firstrun_sync_subtext2 "ניתן להשתמש ב־Sync כדי למצוא סימניות, ססמאות ודברים נוספים ששמרת ב־&brandShortName; בכל המכשירים שלך.">
 <!ENTITY newfirstrun_sync_subtext "סינכרון של הדברים שנשמרים בנייד אל Firefox במחשב, בצורה פרטית ומאובטחת.">
-<!ENTITY updatednewfirstrun_sync_subtext "עליך להתחבר לחשבון שלך כי להפיק את המרב מ־&brandShortName;">
 <!ENTITY firstrun_sendtab_title "שליחת לשונית">
 <!ENTITY firstrun_sendtab_message "שיתוף לשוניות מהטלפון הנייד למחשב השולחני — באופן מיידי.">
+<!ENTITY updatednewfirstrun_sync_subtext "עליך להתחבר לחשבון שלך כי להפיק את המרב מ־&brandShortName;">
 <!ENTITY firstrun_signin_message "להישאר בעניינים, קדימה">
 <!ENTITY firstrun_signin_button "כניסה אל Sync">
 <!ENTITY newfirstrun_signin_button "הפעלת Sync">
 <!ENTITY updatednewfirstrun_signin_button "כניסה ל־&brandShortName;">
-<!ENTITY onboard_start_button_browser "התחלת גלישה">
+<!ENTITY  onboard_start_button_browser "התחלת גלישה">
 <!ENTITY firstrun_button_notnow "לא כרגע">
 <!ENTITY firstrun_button_next "הבא">
+<!ENTITY firstrun_signup_button "הרשמה">
 
 <!ENTITY firstrun_signin_button2 "כניסה">
-
-<!ENTITY firstrun_signup_button "הרשמה">
 
 <!ENTITY firstrun_tabqueue_title "קישורים">
 
@@ -402,9 +401,9 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_zoom_force_enabled "תמיד להפעיל תקריב">
 <!ENTITY pref_zoom_force_enabled_summary "כפיית מעקף כדי לאפשר התקרבות על כל עמוד שהוא">
 <!ENTITY pref_voice_input "קלט קולי">
-<!ENTITY pref_voice_input_summary2 "לאפשר הקראה בסרגל הכתובות">
+<!ENTITY pref_voice_input_summary2 "לאפשר הקראה בשורת הכתובת">
 <!ENTITY pref_qrcode_enabled "קורא קוד QR">
-<!ENTITY pref_qrcode_enabled_summary2 "לאפשר סריקת QR בסרגל הכתובות">
+<!ENTITY pref_qrcode_enabled_summary2 "לאפשר סריקת QR בשורת הכתובת">
 
 <!ENTITY pref_use_master_password "שימוש בססמה ראשית">
 <!ENTITY pref_sync_default_title "חשבון Firefox">
@@ -885,16 +884,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ניתן להוסיף סימנייה של פריטי תצוגת הקריאה כדי לקרוא אותם ללא חיבור לאינטרנט.">
 <!ENTITY helper_triple_readerview_open_button "הוספה לסימניות">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
-activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "ברוכים הבאים אל &brandShortName;">
 <!ENTITY activity_stream_signin_description "סנכרון סימניות, ססמאות ועוד עם חשבון ה־Firefox שלך.">
-<!ENTITY activity_stream_signin_button "כניסה">
-
 <!ENTITY activity_stream_signup_button "הרשמה">
 <!ENTITY activity_stream_signin_prompt "כבר יש לך חשבון?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+
+<!ENTITY activity_stream_signin_button "כניסה">
 
 <!ENTITY activity_stream_topsites "אתרים מובילים">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
