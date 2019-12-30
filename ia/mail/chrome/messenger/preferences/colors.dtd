@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Colores">
-<!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "41em">
+<!ENTITY  window.width                    "44em">
+<!ENTITY  window.macWidth                 "45em">
 
-<!ENTITY  overridePageColors.label        "Supplantar le colores specificate per le contento, con mi selectiones supra:">
+<!ENTITY  overridePageColors.label        "Substituer le colores specificate per le contento con mi selectiones supra:">
 <!ENTITY  overridePageColors.accesskey    "S">
 
 <!ENTITY  overridePageColors.always.label "Sempre">
