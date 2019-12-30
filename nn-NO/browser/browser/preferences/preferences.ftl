@@ -551,7 +551,7 @@ search-one-click-desc = Vel alternative søkjemotorar som vert viste under adres
 search-choose-engine-column =
     .label = Søkjemotor
 search-choose-keyword-column =
-    .label = Nykelord
+    .label = Nøkkelord
 search-restore-default =
     .label = Bygg oppatt standard søkjemotorar
     .accesskey = G
@@ -564,8 +564,8 @@ search-find-more-link = Finn fleire søkjemotorar
 search-keyword-warning-title = Kopiere stikkord
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Du har valt eit nykelord som allereie er i bruk av «{ $name }». Vel eit anna nykelord.
-search-keyword-warning-bookmark = Du har valt eit nykelord som allereie vert brukt av eit bokmerke. Vel eit anna nykelord.
+search-keyword-warning-engine = Du har valt eit nøkkelord som allereie er i bruk av «{ $name }». Vel eit anna nøkkelord.
+search-keyword-warning-bookmark = Du har valt eit nøkkelord som allereie vert brukt av eit bokmerke. Vel eit anna nøkkelord.
 
 ## Containers Section
 

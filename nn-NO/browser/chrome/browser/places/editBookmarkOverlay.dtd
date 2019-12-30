@@ -12,7 +12,7 @@
 <!ENTITY editBookmarkOverlay.tags.label                      "Etikettar:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Skil etikettar med komma">
-<!ENTITY editBookmarkOverlay.keyword.label                   "Nykelord:">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Nøkkelord:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Vis alle etikettar">
 <!ENTITY editBookmarkOverlay.choose.label                    "Vel…">
