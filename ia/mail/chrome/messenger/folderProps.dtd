@@ -22,7 +22,7 @@
 <!ENTITY daysOld.label "dies">
 <!ENTITY message.label "messages">
 <!ENTITY retentionCleanup.label "Pro recuperar spatio del disco, vetere message pote ser delite permanentemente.">
-<!ENTITY retentionCleanupImap.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, sia copias e originales local, sia sur le servitor remote.">
+<!ENTITY retentionCleanupImap.label "Pro recuperar spatio de disco, messages ancian pote esser delite permanentemente, tanto le copias local como le originales sur le servitor remote.">
 <!ENTITY retentionCleanupPop.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, anque originales sur le servitor remote.">
 <!ENTITY retentionDeleteMsg.label "Deler messages plus vetere de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
