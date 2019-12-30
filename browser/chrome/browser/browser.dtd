@@ -329,7 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Verktøy">
 <!ENTITY toolsMenu.accesskey          "e">
 
-<!ENTITY keywordfield.label           "Lag nykelord for dette søket…">
+<!ENTITY keywordfield.label           "Lag nøkkelord for dette søket…">
 <!ENTITY keywordfield.accesskey       "L">
 
 <!ENTITY downloads.label              "Nedlastingar">
