@@ -256,7 +256,7 @@
 <!ENTITY viewFeedWebPage.accesskey "r">
 <!ENTITY viewFeedSummary.label "sumigojn">
 <!ENTITY viewFeedSummary.accesskey "s">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "implicita formo">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "implicitajn formojn">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "i">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Display Attachments Inline">
