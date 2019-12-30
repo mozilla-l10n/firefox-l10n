@@ -131,12 +131,20 @@ onboarding-send-tabs-text = “Manna schedi” sparti di sùbbitu i pàggini ntr
 onboarding-send-tabs-text2 = Sparti fàcili i pàggini ntra i to dispusitivi senza cupiari lijami o nèsciri dû navigaturi.
 onboarding-send-tabs-button = Accumincia a usari Manna schedi
 onboarding-pocket-anywhere-title = Leggi e ascuta unn'è-è
-onboarding-pocket-anywhere-text2 = Sarba i to cuntinuti favuriti fora-linia cu l'app { -pocket-brand-name } e lèggili, ascùtali e talìali quannu ti veni còmmidu.
+onboarding-pocket-anywhere-text2 = Sarba i to cuntinuti favuriti fora-linia cu l'app { -pocket-brand-name } e lèggili, ascùtali e talìali quannu ti veni cchiù còmmidu.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Pòrtati i chiavi unn'è-è
+onboarding-lockwise-passwords-text2 = Teni i chiavi chi sarbi ô sicuru e trasi fàcili nnî to cunti cu { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Nzìtati l'App
+onboarding-lockwise-strong-passwords-title = Crea e sarba chiavi cumpricati
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crea chiavi cumpricati di sùbbitu e i sarba tutti nna un postu.
 onboarding-lockwise-strong-passwords-button = Gistisci i Cridinziali
 onboarding-facebook-container-title = Mèttici i paletti a Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } teni u to prufilu spartutu di tutti l'autri cosi, accussì è cchiù diffìcili pi Facebook trazzàriti pî pubblicità.
 onboarding-facebook-container-button = Agghiunci stinziuni
+onboarding-import-browser-settings-title = Mporta i to nzingalibbri, i chiavi e autri dati
+onboarding-import-browser-settings-text = Accumincia sùbbitu — porta fàcili i to siti e i mpustazziuna di Chrome cu tia.
+onboarding-import-browser-settings-button = Mporta i dati di Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
