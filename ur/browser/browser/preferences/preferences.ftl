@@ -175,6 +175,10 @@ advanced-fonts =
 colors-settings =
     .label = رنگ…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = زوم
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = زبان
 choose-language-description = صفحہ دکھانے کے لیے اپنی زبان چنیں
 choose-button =
@@ -434,9 +438,12 @@ search-bar-shown =
     .label = سرچ بار کا ٹولبار مے ا ضافہ کریں۔
 search-engine-default-header = طےشدہ تلاش انجن
 search-suggestions-header = تلاش تجاویز
+search-suggestions-desc = منتخب کریں کہ تلاش انجن سے تجاویز کیسے ظاہر ہوں۔
 search-suggestions-option =
     .label = تلاش تجاویز مہیا کریں
     .accesskey = s
+search-show-suggestions-private-windows =
+    .label = نجی ونڈوز میں تلاش کی تجاویز دکھائیں
 search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
 search-one-click-header = ایک کلک تلاش انجن
 search-choose-engine-column =
@@ -461,6 +468,12 @@ search-keyword-warning-bookmark = آپ نے ایسا کلیدی لفظ منتخ�
 ## Containers Section
 
 containers-back-link = «  واہس جائیں
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] اختیارات پر واپس
+           *[other] ترجیحات پر واپس
+        }
 containers-header = حامل ٹیبز
 containers-add-button =
     .label = نئے حامل کا اضافہ کریں
@@ -676,6 +689,8 @@ sitedata-block-desc = بلاک کی ہوئی مواد
     .accesskey = T
 sitedata-option-block-trackers =
     .label = تیسری تنظیم کے ٹریکر
+sitedata-option-block-all =
+    .label = تمام کوکیز (ویب سائٹس کے ٹوٹنے کا سبب بنے گی)
 sitedata-clear =
     .label = کوائف… خالی کریں
     .accesskey = l
@@ -737,6 +752,7 @@ content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
 content-blocking-warning-title = دھیان دیں!
 content-blocking-learn-how = جانیں کہ کس طرح
+content-blocking-warning-learn-how = کیسے سیکھیں
 content-blocking-reload-tabs-button =
     .label = تمام ٹیب پھر لوڈ کریں
     .accesskey = R
@@ -775,6 +791,9 @@ permissions-location = محل وقوع
 permissions-location-settings =
     .label = ترتیبات…
     .accesskey = t
+permissions-xr-settings =
+    .label = ترتیبات…
+    .accesskey = t
 permissions-camera = کیمرہ
 permissions-camera-settings =
     .label = ترتیبات…
@@ -792,6 +811,9 @@ permissions-block-autoplay-media-exceptions =
     .label = استثنیات…
     .accesskey = E
 permissions-autoplay = آٹو پلے
+permissions-autoplay-settings =
+    .label = ترتیبات…
+    .accesskey = t
 permissions-block-popups =
     .label = پوپ اپ دریچے بلاک کیجیے
     .accesskey = B

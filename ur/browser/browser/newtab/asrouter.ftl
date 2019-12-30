@@ -119,6 +119,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } چالو  �
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = دوبارہ کبھی پاس ورڈ مت کھوءیں
 cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } چالو  کریں
     .accesskey = ت
 
@@ -137,6 +138,8 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }آزمائیں
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = حفظات دیکھیں
+    .accesskey = P
 cfr-doorhanger-socialtracking-close-button = بند کریں
     .accesskey = چ
 cfr-doorhanger-socialtracking-dont-show-again = مجھے دوبارہ اس طرح کے پیغامات نہ دکھائیں

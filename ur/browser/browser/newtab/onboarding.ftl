@@ -96,6 +96,7 @@ onboarding-mobile-phone-title = { -brand-product-name }  اپنے فون پر ح
 # browser.
 onboarding-mobile-phone-button = موبائل براؤزر ڈاؤن لوڈ کریں
 onboarding-send-tabs-title = فوری طور پر خود کو ٹیبس ارسال کریں
+onboarding-send-tabs-button = Send Tabs کا  استعمال شروع کریں
 onboarding-pocket-anywhere-title = کہیں بھی پڑھیں اور سنیں
 onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
 onboarding-lockwise-passwords-title = اپنے پاس ورڈ ہر جگہ  لے جاٴییں

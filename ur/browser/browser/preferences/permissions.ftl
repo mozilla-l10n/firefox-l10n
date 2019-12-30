@@ -34,10 +34,13 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = تبدیلیاں محفوظ کریں
     .accesskey = S
+permissions-autoplay-menu = تمام ویب سائٹس کے لئے پہلے سے طے شدہ:
 permissions-searchbox =
     .placeholder = ویبسائٹ تلاش کریں
 permissions-capabilities-autoplay-block =
     .label = آڈیو کو مسدود کریں۔
+permissions-capabilities-autoplay-blockall =
+    .label = آڈیو اور ویڈیو کو مسدود کریں
 permissions-capabilities-allow =
     .label = ہونے دیں
 permissions-capabilities-block =
@@ -123,6 +126,9 @@ permissions-site-location-desc = مندرجہ ذیل ویب سائٹ نے آپک
 permissions-site-location-disable-label =
     .label = آپ کے مقام تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
 permissions-site-location-disable-desc = یہ کسی بھی ویب سائٹ کو آپکے موجودہ مقام کے رسائی کی اجازت کی درخواست کرنے سے روکتا ہے جو اوپر درج نہیں ہے۔ آپکے موجودہ مقام کے رسائی کو روکنے سے ویب سائٹ کی کچھ خوبی وقفہ ہو سکتی ہے۔
+
+## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
