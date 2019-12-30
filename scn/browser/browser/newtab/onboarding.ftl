@@ -131,6 +131,7 @@ onboarding-send-tabs-text = “Manna schedi” sparti di sùbbitu i pàggini ntr
 onboarding-send-tabs-text2 = Sparti fàcili i pàggini ntra i to dispusitivi senza cupiari lijami o nèsciri dû navigaturi.
 onboarding-send-tabs-button = Accumincia a usari Manna schedi
 onboarding-pocket-anywhere-title = Leggi e ascuta unn'è-è
+onboarding-pocket-anywhere-text2 = Sarba i to cuntinuti favuriti fora-linia cu l'app { -pocket-brand-name } e lèggili, ascùtali e talìali quannu ti veni còmmidu.
 onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Pòrtati i chiavi unn'è-è
 onboarding-lockwise-strong-passwords-button = Gistisci i Cridinziali
