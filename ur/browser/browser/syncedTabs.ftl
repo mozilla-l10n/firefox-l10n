@@ -40,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = ابھی ہمہ وقت سازی کریں
     .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } سائن ان کریں
+turn-on-sync = { -sync-brand-short-name } چالو کریں

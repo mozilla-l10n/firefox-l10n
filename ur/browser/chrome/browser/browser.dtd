@@ -82,6 +82,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "بک مارکس">
 <!ENTITY bookmarksToolbarItem.label "ٹولبار اشیاہ کو بک مارک کگاتا ہے">
 
 <!ENTITY pageSourceCmd.label "صفحہ ماخذ">
@@ -123,7 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "اپنا اکاؤنٹ توثیق کریں">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "{">
+<!ENTITY togglePictureInPicture.key "["> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "چھوٹا کریں">
 <!ENTITY fullScreenRestore.tooltip "بحال کریں">
@@ -139,17 +141,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "اپنی ای میل کی پڑتال کریں">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; ترتیبات">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "&brandProductName; میں سائن ان کریں">
+<!ENTITY fxa.menu.account.label "اکائونٹ">
+<!ENTITY fxa.menu.settings.label "ترتیبات">
+<!ENTITY fxa.menu.accountSettings.label "اکاؤنٹ کی ترتیبات">
+<!ENTITY fxa.menu.manageAccount2.label "اکاؤنٹ بندوبست کریں">
+<!ENTITY fxa.menu.signOut.label "سائن آؤٹ…">
+<!ENTITY fxa.menu.deviceSettings.label "آلہ کی ترتیبات">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -174,6 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "تصویر-میں-تصویر">
 <!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,

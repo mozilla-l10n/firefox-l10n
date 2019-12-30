@@ -895,3 +895,7 @@ space-alert-under-5gb-ok-button =
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
 choose-download-folder-title = ڈاؤن لوڈ پوشہ انتخاب کریں:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = { $service-name } میں فائلیں محفوظ کریںِ

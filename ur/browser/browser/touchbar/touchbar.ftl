@@ -11,5 +11,16 @@ home = ابتدائی صفحہ
 fullscreen = پوری اسکرین
 find = ڈھونڈیں
 new-tab = نیا ٹیب
+add-bookmark = بک مارک شامل کریں
 share = شیئر کریں
 close-window = ونڈو بند کریں
+
+## Various categories of shortcuts for search.
+
+search-history = سابقات
+search-opentabs = ٹیبس کھولیں
+search-tags = ٹیگز
+search-titles = عنوانات
+
+
+

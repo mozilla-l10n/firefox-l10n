@@ -6,6 +6,7 @@ sync-disconnect-dialog =
     .title = { -sync-brand-short-name } منقطع کریں
     .style = width: 36em; min-height: 35em;
 sync-disconnect-remove-sync-caption = { -sync-brand-name } کوائف ہٹائیں
+sync-disconnect-remove-sync-data = بُک مارکس ، سابقات، پاس ورڈز ، وغیرہ۔
 sync-disconnect-remove-other-caption = دیگر بجی کوائف ہٹائیں
 sync-disconnect-remove-other-data = کوکیاں کیسہ آفلائن ویبساَۃٹ کوائف وغیرہ
 # Shown while the disconnect is in progress
