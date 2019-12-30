@@ -57,6 +57,7 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step3 = اگر سائٹ میں تازہ کاری ہوئی تو آپ کو اپنے پن شدہ ٹیب پر ایک نیلا نقطہ نظر آئے گا۔
 cfr-doorhanger-pintab-animation-pause = توقف کریں
 cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
 
@@ -79,6 +80,7 @@ cfr-whatsnew-button =
     .label = نیا کیا ہے
     .tooltiptext = نیا کیا ہے
 cfr-whatsnew-panel-header = نیا کیا ہے
+cfr-whatsnew-release-notes-link-text = اجرائی نوٹس پڑھیں
 cfr-whatsnew-fx70-title = { -brand-short-name } اب آپ کی رازداری کے لئے اب سخت مقابلہ کررہا ہے
 cfr-whatsnew-tracking-protect-link-text = اپنی رپورٹ دیکھیں
 # This string is displayed before a large numeral that indicates the total

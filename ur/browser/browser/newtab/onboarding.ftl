@@ -38,6 +38,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = آئیے آپ جو کچھ بھی کر سکتے ہیں اس کی دریافت شروع کریں۔
 onboarding-fullpage-form-email =
     .placeholder = آپکا ای میل ایڈرس…
 
@@ -97,11 +98,13 @@ onboarding-mobile-phone-button = موبائل براؤزر ڈاؤن لوڈ کر�
 onboarding-send-tabs-title = فوری طور پر خود کو ٹیبس ارسال کریں
 onboarding-pocket-anywhere-title = کہیں بھی پڑھیں اور سنیں
 onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
+onboarding-lockwise-passwords-title = اپنے پاس ورڈ ہر جگہ  لے جاٴییں
 onboarding-lockwise-passwords-button2 = اپلی کیشن حاصل کریں
 onboarding-lockwise-strong-passwords-title = مضبوط پاس ورڈز بنائیں اور محفوظ کریں
 onboarding-lockwise-strong-passwords-button = اپنے  لاگ ان بندوبست کریں
 onboarding-facebook-container-title = Facebook کے ساتھ حدود طے کریں
 onboarding-facebook-container-button = ایکسٹینشن شامل کریں
+onboarding-import-browser-settings-title = اپنے بُک مارکس ، پاس ورڈز اور بہت کچھ درآمد کریں
 
 ## Message strings belonging to the Return to AMO flow
 
