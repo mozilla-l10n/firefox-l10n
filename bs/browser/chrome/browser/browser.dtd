@@ -286,7 +286,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokirali ste notifikacije za ovu web stranicu.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokirali ste trajno spremište za ovu web stranicu.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Imate blokirane pop-up prozore za ovu web stranicu.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Blokirali ste automatsku reprodukciju medija sa zvukom na ovoj stranici.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Blokirali ste ovu web stranicu da koristi Adobe Flash plugin.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži historiju">
