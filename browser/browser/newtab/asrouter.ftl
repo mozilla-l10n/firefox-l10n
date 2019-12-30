@@ -137,7 +137,7 @@ cfr-whatsnew-fingerprinter-counter-header =
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } 會封鎖許多偷偷收集裝置資訊與操作行為，以針對您建立廣告資料的數位指紋追蹤程式。
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = 數位指紋追蹤程式
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } 可封鎖偷偷收集裝置資訊與操作行為，以針對您建立廣告資料的數位指紋追蹤程式。
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } 會封鎖偷偷收集裝置資訊與操作行為，以針對您建立廣告資料的數位指紋追蹤程式。
 
 ## Bookmark Sync
 
