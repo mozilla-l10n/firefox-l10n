@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = 로그인 검색
 create-login-button = 새 로그인 만들기
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title }의 파비콘
 fxaccounts-sign-in-text = 다른 기기에서 비밀번호 받기
 fxaccounts-sign-in-button = { -sync-brand-short-name }에 로그인
 fxaccounts-avatar-button =
@@ -60,9 +55,6 @@ about-logins-login-list-empty-search-description = 검색어와 일치하는 결
 login-list-item-title-new-login = 새 로그인
 login-list-item-subtitle-new-login = 로그인 자격 증명을 입력하십시오
 login-list-item-subtitle-missing-username = (사용자 이름 없음)
-about-logins-list-item-warning-icon =
-    .alt = 경고 아이콘
-    .title = 유출된 웹 사이트
 about-logins-list-item-breach-icon =
     .title = 유출된 웹 사이트
 
@@ -95,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = 비밀번호 표시
 login-item-password-reveal-checkbox-hide =
     .title = 비밀번호 숨기기
+login-item-password-reveal-checkbox =
+    .aria-label = 비밀번호 표시
 login-item-copy-password-button-text = 복사
 login-item-copied-password-button-text = 복사됨!
 login-item-save-changes-button = 변경사항 저장
@@ -152,11 +146,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = 해당 사용자 이름으로 { $loginTitle }에 대한 항목이 이미 존재합니다.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
