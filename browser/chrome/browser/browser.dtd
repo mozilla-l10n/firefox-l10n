@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Bydd angen i chi wirio eich cyfrif cyn y gallwch gydweddu.">
 <!ENTITY fxa.unverified.button.label "Agor Dewisiadau &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Cuddio'r Togl Llun-mewn-Llun">
-<!ENTITY pictureInPictureHideToggle.accesskey "L">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Mewngofnodwyd fel">
 <!ENTITY fxa.menu.manageAccount.label "Rheoli Cyfrif…">
 <!ENTITY fxa.menu.syncSettings.label "Gosodiadau &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Cuddio'r Togl Llun-mewn-Llun">
+<!ENTITY pictureInPictureHideToggle.accesskey "L">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Mewngofnodi i &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Troi &syncBrand.shortName.label; ymlaen">
 <!ENTITY fxa.menu.firefoxServices.label "Gwasanaethau &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Cyfrif">
 <!ENTITY fxa.menu.settings.label "Gosodiadau">
 <!ENTITY fxa.menu.accountSettings.label "Gosodiadau Cyfrif">
+<!ENTITY fxa.menu.manageAccount2.label "Rheoli Cyfrif">
 <!ENTITY fxa.menu.signOut.label "Allgofnodi…">
 <!ENTITY fxa.menu.deviceSettings.label "Gosodiadau Dyfais">
 <!ENTITY fxa.menu.setupSync.label "Gosod &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "A">
 <!ENTITY stopCmd.label                "Atal">
 <!ENTITY stopCmd.accesskey            "t">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Mynd i'r cyfeiriad yn y Bar Lleoliad">
 <!ENTITY printButton.label            "Argraffu">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Rydych wedi rhwystro'r wefan yma rhag defnyddio ategyn Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.">
 <!ENTITY urlbar.installBlocked.tooltip           "Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Chwilio gyda:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Y tro hwn, chwilio gyda:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "R">
 
 <!ENTITY openLinkCmdInTab.label       "Agor Dolen mewn Tab Newydd">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Agor Dolen mewn Ffenestr Newydd">
 <!ENTITY openLinkCmd.accesskey        "F">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "T">
 <!ENTITY showOnlyThisFrameCmd.label     "Dangos y Ffrâm yma'n Unig">
 <!ENTITY showOnlyThisFrameCmd.accesskey "D">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ail-lwytho'r Ffrâm">
 <!ENTITY reloadFrameCmd.accesskey     "r">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey        "C">
 <!ENTITY savePageCmd.accesskey2       "T">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Cadw Ffrâm Fel…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "N">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Newid Cyfeiriad Testun">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Canfod ar y Dudalen…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pam?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Gallai rhwystro'r rhain dorri elfennau o rai gwefannau. Heb dracwyr, efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Bydd diffodd diogelu'n caniatáu pob traciwr ar y wefan hon. Efallai hefyd, y bydd yn gwella rhywfaint o ymarferoldeb gwefan.">
-<!ENTITY protections.socialMediaTrackers.label "Tracwyr Cyfryngau Cymdeithasol">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cwcis Tracio Traws-Gwefan">
-<!ENTITY protections.trackingContent.label "Cynnwys Tracio">
-<!ENTITY protections.fingerprinters.label "Bysbrintwyr">
-<!ENTITY protections.cryptominers.label "Cryptogloddwyr">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Mae'r holl dracwyr ar y wefan hon wedi'u llwytho gan fod diogelu wedi'i ddiffodd.">
 <!ENTITY protections.noTrackersFound.description "Dim tracwyr hysbys i &brandShortName; wedi eu canfod ar y dudalen hon.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Mewngofnodi i &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
 <!ENTITY syncSyncNowItemSyncing.label "Cydweddu…">
 <!ENTITY syncSyncNowItem.accesskey    "y">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Tracwyr Cyfryngau Cymdeithasol">
-
-<!ENTITY contentBlocking.cookies2.label "Cwcis Tracio Traws-Gwefan">
 
 <!ENTITY contentBlocking.cryptominers.label "Cryptogloddwyr">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptogloddwyr">

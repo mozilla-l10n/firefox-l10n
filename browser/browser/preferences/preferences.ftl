@@ -215,6 +215,15 @@ advanced-fonts =
 colors-settings =
     .label = Lliwiau…
     .accesskey = i
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Chwyddo
+preferences-default-zoom = Chwyddo rhagosodedig
+    .accesskey = C
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Chwyddo testun yn unig
+    .accesskey = t
 language-header = Iaith
 choose-language-description = Dewis eich dewis iaith i ddangos tudalennau
 choose-button =
