@@ -109,6 +109,10 @@ permissions-exceptions-autoplay-media-desc2 = Puetz indicar qués puestos web ti
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Achustes - Lectura automatica
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Puetz chestionar dende aquí los puestos que no siguen los parametros de reproducción automatica per defecto.
 
 ## Site Permissions - Notifications
 
@@ -132,6 +136,13 @@ permissions-site-location-disable-desc = Esto privará que garra puesto web no l
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Achustes - Permisos de realidat virtual
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Los puestos web siguients han demandau l'acceso a los tuyos dispositivos de realidat virutal. Puetz especificar qué puestos web son autorizaus a acceder a los dispositivos de realidat virtual. Tamién puetz blocar las nuevas demandas d'acceso a ixes dispositivos.
+permissions-site-xr-disable-label =
+    .label = Blocar nuevas demandas d'accesos a los tuyos dispositivos de realidat virtual
+permissions-site-xr-disable-desc = Esto privará a totz los puestos web que no sigan listaus aquí debaixo de demandar permiso d'acceso a los tuyos dispositivos de realidat virutal. Blocar l'acceso a estes dispositivos puede restrinchir las funcionalidatz de bell puesto web.
 
 ## Site Permissions - Camera
 
