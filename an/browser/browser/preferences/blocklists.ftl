@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Listas de bloqueyo
     .style = width: 55em
-blocklist-desc = Puede trigar a lista que { -brand-short-name } ha d'usar pa blocar elementos Web que puedan fer seguimiento d'a suya actividat de navegación.
+blocklist-description = Tría la lista que { -brand-short-name } fa servir pa blocar los elementos que tos fan seguimiento. Estas listas son proporcionadas per <a data-l10n-name="disconnect-link" title="Disconnectar">Desconnectar</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me, protección basica (recomendau).
-blocklist-item-moz-std-desc = Permite bell seguimiento pa que as webs funcionen correctament.
-blocklist-item-moz-full-name = Disconnect.me, protección estricta.
-blocklist-item-moz-full-desc = Bloca los programas de seguimiento conoixius. Bells puestos webs podrían no funcionar adequadament.
+blocklist-item-moz-std-listName = Lista de bloqueyo de nivel 1 (recomendada).
+blocklist-item-moz-std-description = Permite bell elemento de seguimiento, y asinas i hai menos webs que no funcionan.
+blocklist-item-moz-full-listName = Lista de bloqueyo de nivel 2.
+blocklist-item-moz-full-description = Bloqueya totz los elementos de seguimiento detectaus. Ye posible que bell puesto web u conteniu no se cargue correctament.
