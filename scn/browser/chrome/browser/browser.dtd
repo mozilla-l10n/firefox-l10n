@@ -88,7 +88,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Nfurmazziuna dâ pàggina">
 <!ENTITY pageInfoCmd.accesskey "N">
 
-<!ENTITY pageInfoCmd.commandkey "n">
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Dùpprica a scheda">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):

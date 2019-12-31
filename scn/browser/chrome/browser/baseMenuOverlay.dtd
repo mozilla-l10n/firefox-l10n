@@ -39,9 +39,9 @@
 <!ENTITY servicesMenuMac.label          "Sirbizza">
 
 <!ENTITY hideThisAppCmdMac2.label       "Ammuccia &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "A">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ammuccia l'autri">
-<!ENTITY hideOtherAppsCmdMac.commandkey "A">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 
