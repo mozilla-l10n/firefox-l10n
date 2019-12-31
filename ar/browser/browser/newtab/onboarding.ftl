@@ -121,6 +121,10 @@ onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أ
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = نزّل متصفّح المحمول
+onboarding-send-tabs-title = أرسِل الألسنة إلى ذاتك الأخرى مباشرةً
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = تُشارك خاصية إرسال الألسنة الصفحات بين أجزتك بسهولة تامة دون نسخ شيء ولا مغادرة المتصفّح.
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = شارِك الصفحات بين أجهزتك بسهولة تامة دون نسخ الروابط يدويًا أو ترك المتصفّح.

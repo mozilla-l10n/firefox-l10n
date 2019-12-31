@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = من { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصية
+cfr-doorhanger-extension-notification2 = توصية
+    .tooltiptext = نُوصيك بامتداد
+    .a11y-announcement = توصية بوجود امتداد
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = توصية
+    .tooltiptext = نُوصيك بامتداد
+    .a11y-announcement = توصية بوجود امتداد
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -129,6 +137,7 @@ cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = شاهِد الڤِديوهات بينما تتصفّح
+cfr-whatsnew-pip-body = في وضع الصورة داخل الصورة، يصير الڤديو داخل نافذة تكون أعلى كلّ شيء لتُطالعه وأنت تؤدّي أشغالك في الألسنة الأخرى.
 cfr-whatsnew-pip-cta = اطّلع على المزيد
 
 ## Permission Prompt
@@ -206,3 +215,5 @@ cfr-doorhanger-milestone-heading =
         [many] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّبًا منذ { $date }!
        *[other] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّب منذ { $date }!
     }
+cfr-doorhanger-milestone-ok-button = اعرض الكل
+    .accesskey = ع
