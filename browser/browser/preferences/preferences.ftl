@@ -212,6 +212,15 @@ advanced-fonts =
 colors-settings =
     .label = الألوان…
     .accesskey = ل
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = التقريب
+preferences-default-zoom = التقريب المبدئي
+    .accesskey = ق
+preferences-default-zoom-value =
+    .label = { $percentage }٪
+preferences-zoom-text-only =
+    .label = قرّب النص فقط
+    .accesskey = ن
 language-header = اللّغات
 choose-language-description = اختر لغتك المفضلة لعرض الصفحات
 choose-button =
