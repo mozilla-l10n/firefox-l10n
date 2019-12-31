@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "동기화하기 전에 계정을 확인해야 합니다.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; 설정 열기…">
 
-<!ENTITY pictureInPictureHideToggle.label "화면 속 화면 토글 숨기기">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "로그인 됨">
 <!ENTITY fxa.menu.manageAccount.label "계정 관리…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
+
+<!ENTITY pictureInPictureHideToggle.label "화면 속 화면 토글 숨기기">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "&brandProductName;에 로그인">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; 켜기">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 서비스">
-
 <!ENTITY fxa.menu.account.label "계정">
 <!ENTITY fxa.menu.settings.label "설정">
 <!ENTITY fxa.menu.accountSettings.label "계정 설정">
+<!ENTITY fxa.menu.manageAccount2.label "계정 관리">
 <!ENTITY fxa.menu.signOut.label "로그 아웃…">
 <!ENTITY fxa.menu.deviceSettings.label "기기 설정">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; 설정…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "중지">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "주소 표시줄에 있는 주소로 접속하기">
 <!ENTITY printButton.label            "인쇄">
@@ -290,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "이 사이트에서 Adobe Flash 플러그인을 사용할 수 없게 설정하였습니다.">
 <!ENTITY urlbar.midiBlocked.tooltip              "이 사이트의 MIDI 접근을 차단하였습니다.">
 <!ENTITY urlbar.installBlocked.tooltip           "이 사이트의 부가 기능 설치를 차단했습니다.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "여기서 검색:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "이번에 다음으로 검색:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "새 탭에 링크 열기">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "새 창에 링크 열기">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "이 프레임만 보이기">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "프레임 새로 고침">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "다른 이름으로 저장…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "프레임을 다른 이름으로 저장…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "글자 방향 변경">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "이 페이지에서 찾기…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "왜?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "이들을 차단하면 일부 웹 사이트의 요소가 손상 될 수 있습니다. 추적기가 없으면 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "보호 기능을 끄면 이 사이트의 모든 추적기가 허용됩니다. 또한 일부 웹 사이트 기능을 향상시킬 수 있습니다.">
-<!ENTITY protections.socialMediaTrackers.label "소셜 미디어 추적기">
-<!ENTITY protections.crossSiteTrackingCookies.label "교차 사이트 추적 쿠키">
-<!ENTITY protections.trackingContent.label "추적 콘텐츠">
-<!ENTITY protections.fingerprinters.label "핑거프린터">
-<!ENTITY protections.cryptominers.label "크립토마이너">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "보호 기능이 꺼져 있어 이 사이트의 모든 추적기가 로드되었습니다.">
 <!ENTITY protections.noTrackersFound.description "이 페이지에서 &brandShortName;에 알려진 추적기가 탐지되지 않았습니다.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "동기화하기">
 <!ENTITY syncSyncNowItemSyncing.label "동기화 중…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "소셜 미디어 추적기">
-
-<!ENTITY contentBlocking.cookies2.label "교차 사이트 추적 쿠키">
 
 <!ENTITY contentBlocking.cryptominers.label "크립토마이너">
 <!ENTITY contentBlocking.cryptominersView.label "크립토마이너">
