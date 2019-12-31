@@ -2,6 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-context-menu-reload-selected-tab =
+    .label = Recargar la pestanya triada
+    .accesskey = R
+toolbar-context-menu-reload-selected-tabs =
+    .label = Recargar las pestanyas triadas
+    .accesskey = R
+toolbar-context-menu-bookmark-selected-tab =
+    .label = Meter en marcapachinas la pestanya triada
+    .accesskey = t
+toolbar-context-menu-bookmark-selected-tabs =
+    .label = Meter en marcapachinas la pestanya triada
+    .accesskey = t
+toolbar-context-menu-select-all-tabs =
+    .label = Triar totas las pestanyas
+    .accesskey = S
 toolbar-context-menu-undo-close-tab =
     .label = Desfer a zarradura d'a zaguera pestanya
     .accesskey = D
