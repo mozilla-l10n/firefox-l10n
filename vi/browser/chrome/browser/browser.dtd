@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Tài khoản">
 <!ENTITY fxa.menu.settings.label "Cài đặt">
 <!ENTITY fxa.menu.accountSettings.label "Cài đặt tài khoản">
+<!ENTITY fxa.menu.manageAccount2.label "Quản lý tài khoản">
 <!ENTITY fxa.menu.signOut.label "Đăng xuất…">
 <!ENTITY fxa.menu.deviceSettings.label "Cài đặt thiết bị">
 <!ENTITY fxa.menu.setupSync.label "Thiết lập &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Dừng">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Mở trang trong thanh địa chỉ">
 <!ENTITY printButton.label            "In">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Mở liên kết trong thẻ mới">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Mở liên kết trong cửa sổ mới">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Chỉ hiện khung này">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Tải lại khung">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Lưu trang dưới dạng…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Lưu khung thành…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Chuyển hướng văn bản">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Tìm trong trang này…">
