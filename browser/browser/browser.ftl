@@ -56,6 +56,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Ubrir lo panel d'o mensache
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Ubrir lo panel de requesta de localización
+urlbar-xr-notification-anchor =
+    .tooltiptext = Ubrir lo panel de permisos d'a realidat virtual
+urlbar-storage-access-anchor =
+    .tooltiptext = Ubrir lo panel de permisos de navegación
 urlbar-translate-notification-anchor =
     .tooltiptext = Traducir ista pachina
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -76,8 +80,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Alzar los datos en l'almagazenamiento persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Ubrir lo panel de mensaches d'instalación de complementos
+urlbar-tip-help-icon =
+    .title = Obtener aduya
 urlbar-geolocation-blocked =
     .tooltiptext = Ha blocau la información de localización pa iste puesto web.
+urlbar-xr-blocked =
+    .tooltiptext = Has blocau l'acceso d'os dispositivos de realidat virtual en este puesto web.
 urlbar-web-notifications-blocked =
     .tooltiptext = Ha blocau las notificacions pa iste puesto web.
 urlbar-camera-blocked =
@@ -90,10 +98,14 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Ha blocau l'almagazenamiento persistent de datos pa iste puesto web.
 urlbar-popup-blocked =
     .tooltiptext = Has blocau las finestras emerchents en este puesto web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Has blocau la lectura automatica de contenius multimedia con soniu en este puesto.
 urlbar-canvas-blocked =
     .tooltiptext = Has blocau la extracción de datos de lienzo pa este puesto web.
 urlbar-midi-blocked =
     .tooltiptext = Tiens blocau l'acceso MIDI en esta web.
+urlbar-install-blocked =
+    .tooltiptext = Has blocau la instalación de complementos dende este puesto web.
 
 ## Page Action Context Menu
 
@@ -115,6 +127,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Esta vegada, mira con:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -127,8 +142,19 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Definir como o motor de busca por defecto
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Definir como motor de busqueda per defecto en finestras privadas
+    .accesskey = D
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Amostrar l'editor mientres se grava
+    .accesskey = A
 bookmark-panel-done-button =
     .label = Feito
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
