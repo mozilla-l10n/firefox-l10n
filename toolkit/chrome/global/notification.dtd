@@ -8,5 +8,9 @@
 
 <!ENTITY learnMore "Saber-ne mas…">
 
+<!ENTITY learnMoreNoEllipsis "Saber-ne mas">
+
 <!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Mas accions">
