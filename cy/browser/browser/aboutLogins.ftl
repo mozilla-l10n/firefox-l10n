@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Chwilio Mewngofnodion
 create-login-button = Creu Mewngofnod Newydd
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon ar gyfer { $title }
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
 fxaccounts-sign-in-button = Mewngofnodi i { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -65,9 +60,6 @@ about-logins-login-list-empty-search-description = Nid oes unrhyw ganlyniadau sy
 login-list-item-title-new-login = Mewngofnod Newydd
 login-list-item-subtitle-new-login = Rhowch eich manylion mewngofnodi
 login-list-item-subtitle-missing-username = (dim enw defnyddwyr)
-about-logins-list-item-warning-icon =
-    .alt = Eicon rhybuddio
-    .title = Gwefan wedi dioddef tor-data
 about-logins-list-item-breach-icon =
     .title = Gwefan wedi dioddef tor-data
 
@@ -100,6 +92,8 @@ login-item-password-reveal-checkbox-show =
     .title = Dangos cyfrinair
 login-item-password-reveal-checkbox-hide =
     .title = Cuddio cyfrinair
+login-item-password-reveal-checkbox =
+    .aria-label = Dangos cyfrinair
 login-item-copy-password-button-text = Copïo
 login-item-copied-password-button-text = Copïwyd
 login-item-save-changes-button = Cadw Newidiadau
@@ -157,11 +151,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Mae mewngofnod ar gyfer { $loginTitle } â'r enw defnyddiwr hwnnw'n bodoli eisoes.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
