@@ -191,6 +191,15 @@ advanced-fonts =
 colors-settings =
     .label = Màu sắc…
     .accesskey = M
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Thu phóng
+preferences-default-zoom = Thu phóng mặc định
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Chỉ thu phóng văn bản
+    .accesskey = t
 language-header = Ngôn ngữ
 choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hiển thị trang
 choose-button =

@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Tìm kiếm thông tin đăng nhập
 create-login-button = Tạo đăng nhập mới
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Biểu tượng cho { $title }
 fxaccounts-sign-in-text = Nhận mật khẩu của bạn trên các thiết bị khác của bạn
 fxaccounts-sign-in-button = Đăng nhập vào { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -60,9 +55,6 @@ about-logins-login-list-empty-search-description = Không có kết quả phù h
 login-list-item-title-new-login = Đăng nhập mới
 login-list-item-subtitle-new-login = Nhập thông tin đăng nhập của bạn
 login-list-item-subtitle-missing-username = (không có tên người dùng)
-about-logins-list-item-warning-icon =
-    .alt = Biểu tượng cảnh báo
-    .title = Trang web bị rò rỉ
 about-logins-list-item-breach-icon =
     .title = Trang web bị rò rỉ
 
@@ -95,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Hiện mật khẩu
 login-item-password-reveal-checkbox-hide =
     .title = Ẩn mật khẩu
+login-item-password-reveal-checkbox =
+    .aria-label = Hiện mật khẩu
 login-item-copy-password-button-text = Sao chép
 login-item-copied-password-button-text = Đã sao chép!
 login-item-save-changes-button = Lưu thay đổi
@@ -152,11 +146,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Một mục nhập cho { $loginTitle } với tên người dùng đó đã tồn tại.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
