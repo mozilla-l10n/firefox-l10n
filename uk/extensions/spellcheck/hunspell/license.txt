@@ -5,7 +5,7 @@ dictionary of dict_uk project https://github.com/brown-uk/dict_uk
 xpi package authors:
 	Yaroslav Krytsun <slavko7@gmail.com>, 2006
 	Andriy Rysin <arysin@gmail.com>, 2007 — 2019
-This is Ukrainian spelling dictionary for myspell & hunspell version 4.7.0
+This is Ukrainian spelling dictionary for myspell & hunspell version 4.8.0
 
 Copyright (C) 1999
 	Volodymyr Yakovchuk
