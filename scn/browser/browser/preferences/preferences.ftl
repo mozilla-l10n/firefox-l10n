@@ -121,7 +121,7 @@ startup-header = Abbìu
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Pirmetti a { -brand-short-name } e Firefox di firriari nnô stissu mumentu
+    .label = Pirmetti a { -brand-short-name } Ã¨ Firefox di firrijari nnô stissu mumentu
 use-firefox-sync = Cunzigghiu: chistu usa prufili spartuti. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
 get-started-not-logged-in = Trasi nne { -sync-brand-short-name }…
 get-started-configured = Rapi i prifirenzi di { -sync-brand-short-name }
