@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Hesaplarda ara
 create-login-button = Yeni hesap oluştur
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } favicon'u
 fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
 fxaccounts-sign-in-button = { -sync-brand-short-name }’e giriş yapın
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Aramanızla eşleşen sonuç 
 login-list-item-title-new-login = Yeni hesap
 login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
-about-logins-list-item-warning-icon =
-    .alt = Uyarı simgesi
-    .title = Bu site ihlale uğramış
 about-logins-list-item-breach-icon =
     .title = Bu site ihlale uğramış
 
@@ -81,7 +73,6 @@ about-logins-intro-import = Hesaplarınız başka bir tarayıcıda kayıtlıysa 
 
 login-item-new-login-title = Yeni hesap oluştur
 login-item-edit-button = Düzenle
-login-item-delete-button = Sil
 about-logins-login-item-remove-button = Kaldır
 login-item-origin-label = Web sitesi adresi
 login-item-origin =
@@ -96,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Parolayı göster
 login-item-password-reveal-checkbox-hide =
     .title = Parolayı gizle
+login-item-password-reveal-checkbox =
+    .aria-label = Parolayı göster
 login-item-copy-password-button-text = Kopyala
 login-item-copied-password-button-text = Kopyalandı!
 login-item-save-changes-button = Değişiklikleri kaydet
@@ -126,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } tercihlerine git
         }
     .accesskey = t
-confirm-delete-dialog-title = Bu hesap silinsin mi?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Bunu bir daha sorma
     .accesskey = B
@@ -138,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = İptal
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
-confirm-delete-dialog-confirm-button = Sil
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
@@ -153,11 +144,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Bu kullanıcı adına sahip bir { $loginTitle } hesabı zaten var.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

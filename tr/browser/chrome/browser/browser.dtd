@@ -149,15 +149,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Eşitlemeyi başlatmak için hesabınızı doğrulamanız gerekiyor.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ayarlarını aç…">
 
-<!ENTITY pictureInPictureHideToggle.label "Görüntü içinde görüntü düğmesini gizle">
-<!ENTITY pictureInPictureHideToggle.accesskey "G">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Giriş yapan kullanıcı">
 <!ENTITY fxa.menu.manageAccount.label "Hesabı yönet…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ayarları…">
+
+<!ENTITY pictureInPictureHideToggle.label "Görüntü içinde görüntü düğmesini gizle">
+<!ENTITY pictureInPictureHideToggle.accesskey "G">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -169,10 +169,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "&brandProductName;’a giriş yap">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label;’i etkinleştir">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; hizmetleri">
-
 <!ENTITY fxa.menu.account.label "Hesap">
 <!ENTITY fxa.menu.settings.label "Ayarlar">
 <!ENTITY fxa.menu.accountSettings.label "Hesap ayarları">
+<!ENTITY fxa.menu.manageAccount2.label "Hesabı yönet">
 <!ENTITY fxa.menu.signOut.label "Çıkış yap…">
 <!ENTITY fxa.menu.deviceSettings.label "Cihaz ayarları">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label;’i kur…">
@@ -243,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "z">
 <!ENTITY stopCmd.label                "Durdur">
 <!ENTITY stopCmd.accesskey            "D">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Konum çubuğundaki adrese git">
 <!ENTITY printButton.label            "Yazdır">
@@ -275,8 +276,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM yazılımı kullanımını yönet">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panelini aç">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Bu siteye ek izinler verdiniz.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sitenin kameranızı kullanmasını engellediniz.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sitenin mikrofonunuzu kullanmasını engellediniz.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bu sitenin ekranınızı paylaşmasını engellediniz.">
@@ -289,6 +288,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu web sitesinin Adobe Flash yan uygulamasını kullanmasını engellediniz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sitenin MIDI erişimini engellediniz.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bu sitenin eklenti yüklemesini engellediniz.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Bu siteye ek izinler verdiniz.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geçmişi göster">
@@ -567,12 +568,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Bununla ara:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Bir de bununla aramayı deneyin:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +580,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "m">
 
 <!ENTITY openLinkCmdInTab.label       "Yeni sekmede aç">
+
 <!ENTITY openLinkCmdInTab.accesskey   "Y">
 <!ENTITY openLinkCmd.label            "Yeni pencerede aç">
 <!ENTITY openLinkCmd.accesskey        "e">
@@ -600,6 +596,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Sadece bu çerçeveyi göster">
 <!ENTITY showOnlyThisFrameCmd.accesskey "c">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Çerçeveyi tazele">
 <!ENTITY reloadFrameCmd.accesskey     "t">
@@ -650,6 +647,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "f">
 <!ENTITY savePageCmd.accesskey2       "f">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Çerçeveyi farklı kaydet…">
 <!ENTITY saveFrameCmd.accesskey       "f">
@@ -816,6 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Metnin yönünü değiştir">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "M">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Bu sayfada bul…">
@@ -939,12 +938,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Neden?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bunları engellemek bazı web sitelerini kısmen bozabilir. Takipçiler engellendiğinde bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Korumaları kapattığınızda bu sitedeki tüm takipçilere izin verilecektir. Önceden çalışmayan site işlevleri de çalışır hale gelebilir.">
-<!ENTITY protections.socialMediaTrackers.label "Sosyal Medya Takipçileri">
-<!ENTITY protections.crossSiteTrackingCookies.label "Siteler arası takip çerezleri">
-<!ENTITY protections.trackingContent.label "Takip amaçlı içerikler">
-<!ENTITY protections.fingerprinters.label "Parmak izi toplayıcılar">
-<!ENTITY protections.cryptominers.label "Kripto madencileri">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Korumalar kapalı olduğu için bu sitedeki tüm takipçiler yüklendi.">
 <!ENTITY protections.noTrackersFound.description "Bu sayfada &brandShortName; tarayıcısının tanıdığı bir takipçi tespit edilmedi.">
 
@@ -967,7 +960,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;’e giriş yap…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Şimdi eşitle">
 <!ENTITY syncSyncNowItemSyncing.label "Eşitleniyor…">
 <!ENTITY syncSyncNowItem.accesskey    "m">
@@ -1005,8 +997,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "K">
 
 <!ENTITY contentBlocking.socialblock.label "Sosyal medya takipçileri">
-
-<!ENTITY contentBlocking.cookies2.label "Siteler arası takip çerezleri">
 
 <!ENTITY contentBlocking.cryptominers.label "Kripto madencileri">
 <!ENTITY contentBlocking.cryptominersView.label "Kripto madencileri">
