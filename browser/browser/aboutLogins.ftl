@@ -69,7 +69,6 @@ about-logins-intro-import = Se le credenziali sono salvate in un altro browser, 
 
 login-item-new-login-title = Inserisci nuove credenziali
 login-item-edit-button = Modifica
-login-item-delete-button = Elimina
 about-logins-login-item-remove-button = Rimuovi
 login-item-origin-label = Indirizzo web
 login-item-origin =
@@ -83,7 +82,7 @@ login-item-password-label = Password
 login-item-password-reveal-checkbox-show =
     .title = Mostra password
 login-item-password-reveal-checkbox =
-  .aria-label = Mostra password    
+  .aria-label = Mostra password
 login-item-password-reveal-checkbox-hide =
     .title = Nascondi password
 login-item-copy-password-button-text = Copia
@@ -126,10 +125,8 @@ confirmation-dialog-cancel-button = Annulla
 confirmation-dialog-dismiss-button =
     .title = Annulla
 
-confirm-delete-dialog-title = Eliminare queste credenziali?
 about-logins-confirm-remove-dialog-title = Rimuovere queste credenziali?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
-confirm-delete-dialog-confirm-button = Elimina
 about-logins-confirm-remove-dialog-confirm-button = Rimuovi
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
 confirm-discard-changes-dialog-message = Tutte le modifiche non salvate andranno perse.
