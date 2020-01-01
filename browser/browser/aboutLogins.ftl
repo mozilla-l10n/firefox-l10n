@@ -74,7 +74,6 @@ about-logins-intro-import = Ako su tvoje prijave spremljene u jednom drugom preg
 
 login-item-new-login-title = Stvorite novu prijavu
 login-item-edit-button = Uredi
-login-item-delete-button = Obriši
 about-logins-login-item-remove-button = Ukloni
 login-item-origin-label = Adresa web stranice
 login-item-origin =
@@ -89,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Prikaži lozinku
 login-item-password-reveal-checkbox-hide =
     .title = Sakrij lozinku
+login-item-password-reveal-checkbox =
+    .aria-label = Prikaži lozinku
 login-item-copy-password-button-text = Kopiraj
 login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Spremi promjene
@@ -119,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Posjetite { -sync-brand-short-name } mogućnosti
         }
     .accesskey = m
-confirm-delete-dialog-title = Obriši ovu prijavu?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ne pitaj me ponovo
     .accesskey = N
@@ -131,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Otkaži
 about-logins-confirm-remove-dialog-title = Ukloni ovu prijavu?
 confirm-delete-dialog-message = Ova radnja se neće moći poništiti.
-confirm-delete-dialog-confirm-button = Obriši
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
 confirm-discard-changes-dialog-title = Odbaci nespremljene izmjene?
 confirm-discard-changes-dialog-message = Sve nespremljene izmjene će biti izgubljene.

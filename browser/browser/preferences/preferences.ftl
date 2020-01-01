@@ -206,6 +206,15 @@ advanced-fonts =
 colors-settings =
     .label = Boje...
     .accesskey = B
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zumiraj
+preferences-default-zoom = Standardni postotak zumiranja
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zumiraj samo tekst
+    .accesskey = t
 language-header = Jezik
 choose-language-description = Odaberite jezik za prikazivanje stranica
 choose-button =

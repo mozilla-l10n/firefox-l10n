@@ -243,6 +243,9 @@ about-debugging-extension-id =
 about-debugging-worker-action-start = Započni
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Odjavi
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Izvodi se
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Zaustavljeno
 # Displayed for service workers in runtime pages that are registering.
