@@ -126,7 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "["> <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "چھوٹا کریں">
 <!ENTITY fullScreenRestore.tooltip "بحال کریں">
