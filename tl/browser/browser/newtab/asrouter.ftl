@@ -118,10 +118,12 @@ cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Manood ng mga video habang ikaw ay nagba-browse
 cfr-whatsnew-pip-cta = Alamain pa
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Mas kaunting nakaiinis na mga pop-up
 cfr-whatsnew-permission-prompt-cta = Alamin
 
 ## Fingerprinter Counter

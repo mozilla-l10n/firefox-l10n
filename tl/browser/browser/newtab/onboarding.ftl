@@ -52,8 +52,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Isama ang { -brand-product-name } saan man
 onboarding-sync-welcome-content = Kunin ang mga bookmark, kasaysayan, mga password at iba pang mga setting sa lahat ng iyong mga device.
 onboarding-sync-welcome-learn-more-link = Alamin ang tungkol sa Firefox Accounts
-onboarding-sync-form-invalid-input = Wastong email ang kailangan
-onboarding-sync-legal-notice = Kung magpapatuloy, ikaw ay pumapayag sa mga <a data-l10n-name="terms">Mga Tuntunin sa Serbisyo</a> at <a data-l10n-name="privacy">Abisong Pangbribasiya</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Magpatuloy
@@ -139,6 +137,7 @@ onboarding-lockwise-passwords-button2 = Kunin ang App
 onboarding-facebook-container-title = Bigyang-hangganan ang Facebook
 onboarding-facebook-container-text2 = Ihinihiwalay ng { -facebook-container-brand-name } ang iyong profile mula sa iba pang mga bagay, at ginagawang mas mahirap para sa Facebook na i-target ka ng mga ad.
 onboarding-facebook-container-button = Idagdag ang Extension
+onboarding-import-browser-settings-button = i-Import ang Chrome Data
 
 ## Message strings belonging to the Return to AMO flow
 
