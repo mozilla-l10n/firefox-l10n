@@ -61,21 +61,14 @@ lockwise-no-logins-content = Installa l’app <a data-l10n-name="lockwise-inline
 lockwise-passwords-stored = Password salvate in modo sicuro <a data-l10n-name="lockwise-how-it-works">Come funziona</a>
 turn-on-sync = Attiva { -sync-brand-short-name }…
     .title = Apri le impostazioni di sincronizzazione
-manage-devices = Gestisci dispositivi
 manage-connected-devices = Gestisci dispositivi…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Sincronizzato con un altro dispositivo
-       *[other] Sincronizzato con { $count } altri dispositivi
-    }
 lockwise-connected-device-status =
     { $count ->
         [one] Connesso con un dispositivo
        *[other] Connesso con { $count } dispositivi
     }
-lockwise-sync-not-syncing-devices = Non sincronizzato con altri dispositivi
 monitor-title = Tieni sotto controllo le violazioni di dati
 monitor-link = Come funziona
 monitor-header-content-no-account = Controlla { -monitor-brand-name } per verificare se sei stato coinvolto in una violazione di dati conosciuta e ricevere avvisi per nuove violazioni.
