@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File menu items -->
-<!ENTITY openFileCmd.label "Apertura de un file…">
+<!ENTITY openFileCmd.label "Aperir un file…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "A">
 <!ENTITY openRemoteCmd.label "Aperir adresse web…">
