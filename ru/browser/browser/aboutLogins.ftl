@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Поиск логинов
 create-login-button = Создать новый логин
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Значок для { $title }
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
 fxaccounts-sign-in-button = Войти в { -sync-brand-short-name(case: "accusative") }
 fxaccounts-avatar-button =
@@ -62,9 +57,6 @@ about-logins-login-list-empty-search-description = Результатов, по�
 login-list-item-title-new-login = Новый логин
 login-list-item-subtitle-new-login = Введите свои учётные данные
 login-list-item-subtitle-missing-username = (нет имени пользователя)
-about-logins-list-item-warning-icon =
-    .alt = Значок предупреждения
-    .title = Атакованный сайт
 about-logins-list-item-breach-icon =
     .title = Атакованный сайт
 
@@ -82,7 +74,6 @@ about-logins-intro-import = Если ваши логины сохранены в
 
 login-item-new-login-title = Создать новый логин
 login-item-edit-button = Изменить
-login-item-delete-button = Удалить
 about-logins-login-item-remove-button = Удалить
 login-item-origin-label = Адрес веб-сайта
 login-item-origin =
@@ -97,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Показать пароль
 login-item-password-reveal-checkbox-hide =
     .title = Скрыть пароль
+login-item-password-reveal-checkbox =
+    .aria-label = Показать пароль
 login-item-copy-password-button-text = Копировать
 login-item-copied-password-button-text = Скопировано!
 login-item-save-changes-button = Сохранить изменения
@@ -127,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Открыть настройки { -sync-brand-short-name(case: "genitive") }
         }
     .accesskey = О
-confirm-delete-dialog-title = Удалить этот логин?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Не спрашивать в следующий раз
     .accesskey = е
@@ -139,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Отмена
 about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие не может быть отменено.
-confirm-delete-dialog-confirm-button = Удалить
 about-logins-confirm-remove-dialog-confirm-button = Удалить
 confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
 confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
@@ -154,11 +145,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Запись для { $loginTitle } с таким именем пользователя уже существует.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
