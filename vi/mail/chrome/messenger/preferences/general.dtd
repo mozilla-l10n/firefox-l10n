@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "Trang khởi động &brandShortName;">
-<!ENTITY enableStartPage.label            "Khi &brandShortName; khởi động, hiển thị trang bắt đầu trong vùng tin nhắn">
+<!ENTITY enableStartPage.label            "Khi &brandShortName; khởi động, hiển thị trang bắt đầu trong vùng hiển thị thư">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Địa chỉ:">
 <!ENTITY location1.accesskey               "o">
