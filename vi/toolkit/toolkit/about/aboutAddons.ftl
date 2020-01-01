@@ -159,7 +159,7 @@ private-browsing-description2 =
     Chúng tôi đã thực hiện thay đổi này để giữ trình duyệt của bạn riêng tư.
     <label data-l10n-name="private-browsing-learn-more">Tìm hiểu cách quản lý cài đặt tiện ích mở rộng.</label>
 extensions-view-discopane =
-    .name = Được đề xuất
+    .name = Đề xuất
     .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Cập nhật gần đây
