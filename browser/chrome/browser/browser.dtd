@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Для включения синхронизации, вам необходимо подтвердить свой Аккаунт.">
 <!ENTITY fxa.unverified.button.label "Открыть настройки Синхронизации…">
 
-<!ENTITY pictureInPictureHideToggle.label "Скрыть переключатель «Картинка в картинке»">
-<!ENTITY pictureInPictureHideToggle.accesskey "ы">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Вы вошли как">
 <!ENTITY fxa.menu.manageAccount.label "Управление аккаунтом…">
 <!ENTITY fxa.menu.syncSettings.label "Настройки Синхронизации…">
+
+<!ENTITY pictureInPictureHideToggle.label "Скрыть переключатель «Картинка в картинке»">
+<!ENTITY pictureInPictureHideToggle.accesskey "ы">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Войти в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Включить Синхронизацию">
 <!ENTITY fxa.menu.firefoxServices.label "Сервисы &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Аккаунт">
 <!ENTITY fxa.menu.settings.label "Настройки">
 <!ENTITY fxa.menu.accountSettings.label "Настройки Аккаунта">
+<!ENTITY fxa.menu.manageAccount2.label "Управление аккаунтом">
 <!ENTITY fxa.menu.signOut.label "Выйти…">
 <!ENTITY fxa.menu.deviceSettings.label "Настройки устройства">
 <!ENTITY fxa.menu.setupSync.label "Настроить синхронизацию…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "в">
 <!ENTITY stopCmd.label                "Остановить">
 <!ENTITY stopCmd.accesskey            "н">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Перейти по введённому адресу">
 <!ENTITY printButton.label            "Печать">
@@ -276,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление запуском программы DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Открыть MIDI-панель">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Вы предоставили этому веб-сайту дополнительные разрешения.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашей камере.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблокировали доступ этого веб-сайта к вашему микрофону.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашему экрану.">
@@ -290,6 +289,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы запретили этому веб-сайту использовать плагин Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Вы заблокировали доступ этого веб-сайта к MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "Вы заблокировали установку дополнений с этого веб-сайта.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Вы предоставили этому веб-сайту дополнительные разрешения.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показать историю">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Искать в:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "В этот раз, искать с помощью:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "о">
 
 <!ENTITY openLinkCmdInTab.label       "Открыть ссылку в новой вкладке">
+
 <!ENTITY openLinkCmdInTab.accesskey   "в">
 <!ENTITY openLinkCmd.label            "Открыть ссылку в новом окне">
 <!ENTITY openLinkCmd.accesskey        "ь">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "е">
 <!ENTITY showOnlyThisFrameCmd.label     "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Обновить фрейм">
 <!ENTITY reloadFrameCmd.accesskey     "и">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Сохранить как…">
 <!ENTITY savePageCmd.accesskey        "х">
 <!ENTITY savePageCmd.accesskey2       "р">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Сохранить фрейм как…">
 <!ENTITY saveFrameCmd.accesskey       "н">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "н">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Переключить направление текста на странице">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "т">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Найти на этой странице…">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Почему?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокировка может привести к неработоспособности элементов некоторых веб-сайтов. Без трекеров некоторые кнопки, формы и поля для входа могут не работать.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Отключение защиты разрешит все трекеры на этом сайте. Также это может привести к улучшению работы веб-сайта.">
-<!ENTITY protections.socialMediaTrackers.label "Трекеры социальных сетей">
-<!ENTITY protections.crossSiteTrackingCookies.label "Межсайтовые отслеживающие куки">
-<!ENTITY protections.trackingContent.label "Отслеживающее содержимое">
-<!ENTITY protections.fingerprinters.label "Сборщики цифровых отпечатков">
-<!ENTITY protections.cryptominers.label "Криптомайнеры">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Все трекеры на этом сайте были загружены, потому что защита отключена.">
 <!ENTITY protections.noTrackersFound.description "На этой странице не обнаружено трекеров известных &brandShortName;.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Войти в Синхронизацию…">
 <!ENTITY syncSignIn.accesskey         "о">
-
 <!ENTITY syncSyncNowItem.label        "Синхронизировать">
 <!ENTITY syncSyncNowItemSyncing.label "Синхронизация…">
 <!ENTITY syncSyncNowItem.accesskey    "х">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "п">
 
 <!ENTITY contentBlocking.socialblock.label "Трекеры социальных сетей">
-
-<!ENTITY contentBlocking.cookies2.label "Межсайтовые отслеживающие куки">
 
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнеры">
 <!ENTITY contentBlocking.cryptominersView.label "Криптомайнеры">
