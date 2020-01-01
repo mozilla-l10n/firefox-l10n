@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Račun">
 <!ENTITY fxa.menu.settings.label "Postavke">
 <!ENTITY fxa.menu.accountSettings.label "Postavke računa">
+<!ENTITY fxa.menu.manageAccount2.label "Upravljaj računom">
 <!ENTITY fxa.menu.signOut.label "Odjavite se…">
 <!ENTITY fxa.menu.deviceSettings.label "Postavke uređaja">
 <!ENTITY fxa.menu.setupSync.label "Postavi &syncBrand.shortName.label; …">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY stopCmd.label                "Zaustavi">
 <!ENTITY stopCmd.accesskey            "s">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Idi na adresu iz lokacijske trake">
 <!ENTITY printButton.label            "Ispiši">
@@ -275,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte korištenjem DRM softvera">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvori MIDI okno">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste odobrili dodatne dozvole.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ovoj ste stranici zabranili korištenje kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ovoj ste stranici zabranili korištenje mikrofona.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ovoj si stranici zabranio/la dijeljenje tvog ekrana.">
@@ -289,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ovoj ste stranici zabranili korištenje Adobe Flash dodatka.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokirali ste MIDI pristup za ovu web stranicu.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ovoj stranici ste zabranili instalaciju dodataka.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste odobrili dodatne dozvole.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY openLinkCmdInTab.label       "Otvori poveznicu u novoj kartici">
+
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Otvori poveznicu u novom prozoru">
 <!ENTITY openLinkCmd.accesskey        "n">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Prikaži samo ovaj okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Osvježi okvir">
 <!ENTITY reloadFrameCmd.accesskey     "r">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Spremi stranicu kao …">
 <!ENTITY savePageCmd.accesskey        "a">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Spremi okvir kao …">
 <!ENTITY saveFrameCmd.accesskey       "o">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Promijeni smjer teksta">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Pronađi na ovoj stranici...">
