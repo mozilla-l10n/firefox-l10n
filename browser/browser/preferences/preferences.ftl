@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Renkler…
     .accesskey = R
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Yakınlaştırma
+preferences-default-zoom = Varsayılan yakınlaştırma
+    .accesskey = m
+preferences-default-zoom-value =
+    .label = %{ $percentage }
+preferences-zoom-text-only =
+    .label = Sadece metni yakınlaştır
+    .accesskey = t
 language-header = Dil
 choose-language-description = Sayfaları hangi dilde görmeyi tercih ettiğinizi seçin
 choose-button =
