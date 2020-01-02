@@ -37,10 +37,10 @@
 <!ENTITY imapLong.label                  "IMAP (dossiers remote)">
 <!ENTITY pop3Long.label                  "POP3 (mantene email sur tu computator)">
 
-<!ENTITY incoming.label                  "In entrata:">
-<!ENTITY incomingColumn.label            "In entrata">
-<!ENTITY outgoing.label                  "In exito:">
-<!ENTITY outgoingColumn.label            "In exito">
+<!ENTITY incoming.label                  "Entrante:">
+<!ENTITY incomingColumn.label            "Entrante">
+<!ENTITY outgoing.label                  "Exiente:">
+<!ENTITY outgoingColumn.label            "Exiente">
 <!ENTITY username.label                  "Nomine de usator:">
 <!ENTITY hostname.label                  "Nomine de servitor">
 <!ENTITY port.label                      "Porta">

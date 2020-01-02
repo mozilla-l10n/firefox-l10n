@@ -19,9 +19,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "r">
 <!ENTITY nntpDownloadMsg.label "Messages major de">
 <!ENTITY nntpDownloadMsg.accesskey "j">
-<!ENTITY retentionCleanup.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente.">
-<!ENTITY retentionCleanupImap.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, sia copias e originales local, sia sur le servitor remote.">
-<!ENTITY retentionCleanupPop.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, anque originales sur le servitor remote.">
+<!ENTITY retentionCleanup.label "Pro recuperar spatio de disco, messages ancian pote esser delite permanentemente.">
+<!ENTITY retentionCleanupImap.label "Pro recuperar spatio de disco, messages ancian pote esser delite permanentemente, tanto le copias local como le originales sur le servitor remote.">
+<!ENTITY retentionCleanupPop.label "Pro recuperar spatio de disco, messages ancian pote esser delite permanentemente, incluse le originales sur le servitor remote.">
 <!ENTITY retentionKeepMsg.label "Deler messages major de">
 <!ENTITY retentionKeepMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "Non deler messages major de">

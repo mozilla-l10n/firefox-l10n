@@ -22,6 +22,7 @@
 
 <!ENTITY autoSaveEnd.label                    "minutas">
 
+<!ENTITY emailCollectionPicker.label           "Adder automaticamente le adresses de posta exiente a mi:">
 
 
 <!ENTITY attachmentReminder.label              "Deteger omission de annexos">
