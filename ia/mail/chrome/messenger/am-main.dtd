@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Parametros de contos">
 <!ENTITY accountName.label "Nomine del conto:">
 <!ENTITY accountName.accesskey "N">
@@ -37,7 +39,7 @@
 <!ENTITY manageIdentities.accesskey "G">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Servitor in exito (SMTP):">
+<!ENTITY smtpName.label "Servitor de exito (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Usar le servitor predefinite">
 

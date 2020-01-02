@@ -92,12 +92,12 @@
 
 <!ENTITY warning.label                   "Advertentia!">
 <!ENTITY incomingSettings.label          "Parametros de posta entrante:">
-<!ENTITY outgoingSettings.label          "Parametros in exito:">
+<!ENTITY outgoingSettings.label          "Parametros de posta exiente:">
 <!ENTITY technicaldetails.label          "Detalios technic">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "Io comprehende le riscos.">
+<!ENTITY confirmWarning.label            "Io comprende le riscos.">
 <!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will

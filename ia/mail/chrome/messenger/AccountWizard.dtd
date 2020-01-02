@@ -70,10 +70,10 @@
 
 <!-- Entities for Outgoing Server page -->
 
-<!ENTITY outgoingTitle.label "Informationes del servitor in exito">
+<!ENTITY outgoingTitle.label "Informationes del servitor de exito">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Insere le nomine de tu servitor de exito (SMTP) (per exemplo, &quot;smtp.example.net&quot;).">
-<!ENTITY outgoingServer.label "Servitor in exito:">
+<!ENTITY outgoingServer.label "Servitor de exito:">
 <!ENTITY outgoingServer.accesskey "S">
 <!ENTITY outgoingUsername.description "Insere le nomine de usator de exito que tu fornitor de e-mail te ha date (iste es generalmente le mesme que le nomine de usator de entrata).">
 <!ENTITY outgoingUsername.label "Nomine de usator in exito:">
@@ -116,7 +116,7 @@
 <!ENTITY completionText.label "Verifica que le information infra es correcte.">
 <!ENTITY serverTypePrefix.label "Typo de servitor de entrata:">
 <!ENTITY serverNamePrefix.label "Nomine del servitor de entrata:">
-<!ENTITY smtpServerNamePrefix.label "Nomine del servitor in exito (SMTP):">
+<!ENTITY smtpServerNamePrefix.label "Nomine del servitor de exito (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nomine del servitor de gruppos (NNTP):">
 <!ENTITY downloadOnLogin.label "Discargar ora le messages">
 <!ENTITY downloadOnLogin.accesskey "D">

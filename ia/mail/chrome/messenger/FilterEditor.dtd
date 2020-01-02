@@ -20,6 +20,8 @@
 <!ENTITY contextIncomingMail.accesskey "R">
 <!ENTITY contextBeforeCls.label "Filtrar ante le detection de posta indesirate">
 <!ENTITY contextAfterCls.label "Filtrar post le detection de posta indesirate">
+<!ENTITY contextOutgoing.label "Post inviar">
+<!ENTITY contextOutgoing.accesskey "i">
 
 
 

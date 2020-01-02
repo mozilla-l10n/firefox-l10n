@@ -127,7 +127,7 @@
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Codice">
 <!ENTITY styleCode.accesskey "o">
-<!ENTITY styleSamp.label "Exemplo de egresso">
+<!ENTITY styleSamp.label "Exemplo de resultato">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Variabile">
 <!ENTITY styleVar.accesskey "V">
@@ -319,7 +319,7 @@
 <!ENTITY underlineToolbarCmd.tooltip "Sublinear">
 <!ENTITY bulletListToolbarCmd.tooltip "Crea o remove le lista punctate">
 <!ENTITY numberListToolbarCmd.tooltip "Crea o remove le lista numerate">
-<!ENTITY outdentToolbarCmd.tooltip "Indentar testo (verso sinistra)">
+<!ENTITY outdentToolbarCmd.tooltip "Disindentar texto (verso sinistra)">
 <!ENTITY indentToolbarCmd.tooltip "Indentar testo (verso dextra)">
 <!ENTITY AlignPopupButton.tooltip "Seliger alineamento del texto">
 <!ENTITY InsertPopupButton.tooltip "Inserer un ligamine, un ancora, un imagine, un linea horizontal o un tabella">

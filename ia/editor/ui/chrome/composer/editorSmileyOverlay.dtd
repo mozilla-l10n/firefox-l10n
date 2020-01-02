@@ -15,9 +15,9 @@
 <!ENTITY smiley3Cmd.label "Palpebration">
 <!ENTITY smiley3Cmd.accesskey "A">
 <!ENTITY smiley3Cmd.tooltip "Inserer un emoticone que batte le palpebra">
-<!ENTITY smiley4Cmd.label "Lingua de foras">
+<!ENTITY smiley4Cmd.label "Lingua tirate foras">
 <!ENTITY smiley4Cmd.accesskey "L">
-<!ENTITY smiley4Cmd.tooltip "Inserer un emoticone con lingua de foras">
+<!ENTITY smiley4Cmd.tooltip "Inserer un emoticone con lingua tirate foras">
 <!ENTITY smiley5Cmd.label "Ridente">
 <!ENTITY smiley5Cmd.accesskey "R">
 <!ENTITY smiley5Cmd.tooltip "Inserer un emoticone ridente">
