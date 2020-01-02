@@ -10,7 +10,7 @@
 <!ENTITY smtpServer.label "Servitor in exito (SMTP), parametros">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "Quando tu gere tu identitates, tu pote usar un servitor de iste lista seligente lo como le servitor de exito (SMTP), o tu pote usar le servitor predefinite de iste lista seligente &quot;Usar le servitor predefinite&quot;.">
+<!ENTITY smtpDescription.label "In le gestion de identitates, selige de iste lista un servitor a usar como le servitor de exito (SMTP), o lassa le servitor de exito predefinite seligente &quot;Usar le servitor predefinite&quot;.">
 
 <!ENTITY smtpListAdd.label  "Adder…">
 <!ENTITY smtpListAdd.accesskey  "d">
