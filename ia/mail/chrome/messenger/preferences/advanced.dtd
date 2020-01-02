@@ -110,7 +110,7 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Quando un servitor require mi certificato personal:">
+<!ENTITY certSelection.description       "Quando un servitor requesta mi certificato personal:">
 <!ENTITY certs.auto                      "Selectionar un automaticamente">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Demandar me cata vice">

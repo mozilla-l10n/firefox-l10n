@@ -14,3 +14,4 @@ policy-DefaultDownloadDirectory = Selige le directorio predefinite pro discargam
 policy-DisableFeedbackCommands = Disactivar le commandos pro inviar opinion ab le menu Adjuta ("Inviar opinion" e "Denunciar un sito fraudulente").
 policy-DisplayMenuBar = Monstrar le barra de menu per predefinition.
 policy-DontCheckDefaultClient = Disactivar le verification de cliente predefinite al initio.
+policy-RequestedLocales = Definir le lista de linguas desirate pro le application in ordine de preferentia.
