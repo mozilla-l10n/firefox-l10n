@@ -69,12 +69,12 @@
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Posta in exito:">
+<!ENTITY sendDefaultCharset.label         "Posta exiente:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle2.label            "Codification del texto">
 <!ENTITY composingDescription2.label      "Predefinir le codification del texto pro reciper e inviar posta">
 
-<!ENTITY viewDefaultCharsetList.label     "Posta in arrivata:">
+<!ENTITY viewDefaultCharsetList.label     "Posta entrante:">
 <!ENTITY viewDefaultCharsetList.accesskey  "">
 <!ENTITY replyInDefaultCharset3.label     "Quando possibile, usar le codification de texto predefinite in responsas">
 <!ENTITY replyInDefaultCharset3.accesskey "Q">

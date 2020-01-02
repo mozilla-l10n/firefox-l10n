@@ -4,6 +4,7 @@
 
 pane-general-title = General
 general-language-and-appearance-header = Lingua e apparentia
+general-incoming-mail-header = Messages entrante
 general-files-and-attachment-header = Files e annexos
 general-tags-header = Etiquettas
 general-updates-header = Actualisationes

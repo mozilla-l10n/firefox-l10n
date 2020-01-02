@@ -16,6 +16,8 @@
 <!ENTITY highPriorityCmd.label "Alte">
 <!ENTITY highestPriorityCmd.label "Plus alte">
 
+<!ENTITY contextIncomingMail.label "Reception de nove posta:">
+<!ENTITY contextIncomingMail.accesskey "R">
 <!ENTITY contextBeforeCls.label "Filtrar ante le detection de posta indesirate">
 <!ENTITY contextAfterCls.label "Filtrar post le detection de posta indesirate">
 

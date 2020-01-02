@@ -19,3 +19,5 @@
 <!-- Passwords -->
 
 <!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "&brandShortName; pote facilitar al programmas antivirus de deteger viruses in le messages de posta entrante ante que illos se immagazina localmente.">
+<!ENTITY antiVirus.label      "Permitter que programmas antivirus mitte messages entrante individual in quarantena">

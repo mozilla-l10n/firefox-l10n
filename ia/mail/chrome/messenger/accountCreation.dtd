@@ -91,7 +91,7 @@
 
 
 <!ENTITY warning.label                   "Advertentia!">
-<!ENTITY incomingSettings.label          "Parametros in arrivata:">
+<!ENTITY incomingSettings.label          "Parametros de posta entrante:">
 <!ENTITY outgoingSettings.label          "Parametros in exito:">
 <!ENTITY technicaldetails.label          "Detalios technic">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
