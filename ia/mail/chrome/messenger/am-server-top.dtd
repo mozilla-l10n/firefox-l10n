@@ -64,7 +64,7 @@
 <!ENTITY maxMessagesStart.accesskey "M">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "messages">
-<!ENTITY alwaysAuthenticate.label "Requirer sempre authentication al connexion a iste servitor">
+<!ENTITY alwaysAuthenticate.label "Sempre demandar authentication quando se connecte a iste servitor">
 <!ENTITY alwaysAuthenticate.accesskey "s">
 <!ENTITY newsrcFilePath.label "File newsrc:">
 <!ENTITY newsrcPicker.label "Seliger le file newsrc">

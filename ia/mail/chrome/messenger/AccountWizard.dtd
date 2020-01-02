@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Pro reciper messages, tu debe primo configurar un conto.">
 <!ENTITY accountTypeTitle.label "Configuration de nove conto">
-<!ENTITY accountTypeDesc2.label "Iste Assistente colligera le informationes necessari a implementar un conto. Si tu non sape le informationes demandate, per favor continge tu Administrator de systema o Fornitor de servicio internet.">
+<!ENTITY accountTypeDesc2.label "Iste assistente collige le informationes necessari pro configurar un conto. Si tu non cognosce le informationes requestate, contacta tu administrator de systema o fornitor de servicio internet.">
 <!ENTITY accountTypeDirections.label "Selectiona le typo de conto que tu vole implementar:">
 <!ENTITY accountTypeMail.label "Conto email">
 <!ENTITY accountTypeMail.accesskey "C">
