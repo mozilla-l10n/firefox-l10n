@@ -193,6 +193,8 @@ colors-settings =
     .accesskey = C
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = 확대/축소
+preferences-default-zoom = 기본 확대/축소
+    .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
