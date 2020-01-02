@@ -12,7 +12,7 @@
 <!ENTITY requestReceipt.label         "Quando se invia messages, sempre demandar un recepta">
 <!ENTITY requestReceipt.accesskey     "Q">
 <!ENTITY receiptArrive.label          "Quando un recepta arriva:">
-<!ENTITY leaveIt.label                "Lassar lo in mi cassa de ingresso">
+<!ENTITY leaveIt.label                "Lassar lo in mi cassa de entrata">
 <!ENTITY leaveIt.accesskey            "I">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Displaciar lo a mi dossier &quot;Inviate&quot;">

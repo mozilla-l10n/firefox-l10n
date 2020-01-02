@@ -23,9 +23,9 @@
 <!ENTITY overrideNamespaces.label "Permitter que le servitor supplanta iste spatios de nomines">
 <!ENTITY overrideNamespaces.accesskey "s">
 <!ENTITY pop3DeferringDesc.label "Quando se discarga posta del servitor de iste conto, mitter nove messages in iste dossier:">
-<!ENTITY accountInbox.label "Cassa de ingresso pro iste conto">
-<!ENTITY accountInbox.accesskey "s">
-<!ENTITY deferToServer.label "Cassa de ingresso pro contos differente">
+<!ENTITY accountInbox.label "Cassa de entrata pro iste conto">
+<!ENTITY accountInbox.accesskey "e">
+<!ENTITY deferToServer.label "Cassa de entrata de un altere conto">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Includer iste servitor durante le reception de nove posta">
 <!ENTITY deferGetNewMail.accesskey "I">
