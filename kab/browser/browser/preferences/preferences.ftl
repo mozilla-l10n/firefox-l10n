@@ -205,8 +205,13 @@ colors-settings =
     .accesskey = I
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Semɣeṛ/Semẓi
+preferences-default-zoom = Zoom awurman
+    .accesskey = Z
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zoom: Aḍris kan
+    .accesskey = A
 language-header = Tutlayt
 choose-language-description = Fren tutlayt tebɣiḍ i uskan n isebtar
 choose-button =
