@@ -33,6 +33,7 @@ printpreview-of =
     .value = याचे
 printpreview-custom-prompt =
     .value = हवे तसे प्रमाण...
+printpreview-custom-scale-prompt-title = सानुकूल प्रमाण
 printpreview-page-setup =
     .label = पृष्ठाची मांडणी…
     .accesskey = u
@@ -44,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = पहिले पृष्ठ
