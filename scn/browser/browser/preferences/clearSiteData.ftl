@@ -8,6 +8,14 @@ clear-site-data-window =
 clear-site-data-description = Cancillari tutti i cookie e i sati sarbati nne { -brand-short-name } ti putissi fari nèsciri dî siti e putissi livari cuntinuti di riti fora-linia. Cancillari u dipòsitu dati nun nfruinzarà i to accessi.
 clear-site-data-close-key =
     .key = w
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cookies-with-data =
+    .label = Cookie e dati dî siti ({ $amount } { $unit })
+    .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -17,6 +25,14 @@ clear-site-data-cookies-empty =
     .label = Cookie e dati dî siti
     .accesskey = S
 clear-site-data-cookies-info = Putissi èssiri scullijatu dî siti si veni cancillatu
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of cache currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cache-with-data =
+    .label = Cuntinutu di riti nnâ cache ({ $amount } { $unit })
+    .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
