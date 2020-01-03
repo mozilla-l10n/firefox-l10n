@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = Mposta pàggina masstra
+    .title = Mposta pàggina mastra
     .style = width: 32em;
 select-bookmark-desc = Scegghi nu nzingalibbru comu Pàggina mastra. Siḍḍu scigghi na carpetta, i nzingalibbri di sta carpetta si ràpinu nnê Schedi.
