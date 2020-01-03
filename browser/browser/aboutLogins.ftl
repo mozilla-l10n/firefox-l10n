@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Cerca els inicis de sessió
 create-login-button = Crea un inici de sessió
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Icona de web de { $title }
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-button = Inicia la sessió al { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = No hi ha cap resultat que coi
 login-list-item-title-new-login = Inici de sessió nou
 login-list-item-subtitle-new-login = Introduïu les credencials d'inici de sessió
 login-list-item-subtitle-missing-username = (cap nom d'usuari)
-about-logins-list-item-warning-icon =
-    .alt = Icona d'avís
-    .title = Lloc web amb filtració de dades
 about-logins-list-item-breach-icon =
     .title = Lloc web amb filtració de dades
 
@@ -81,7 +73,6 @@ about-logins-intro-import = Si els vostres inicis de sessió estan desats en un 
 
 login-item-new-login-title = Crea un inici de sessió
 login-item-edit-button = Edita
-login-item-delete-button = Suprimeix
 about-logins-login-item-remove-button = Elimina
 login-item-origin-label = Adreça del lloc web
 login-item-origin =
@@ -96,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Mostra la contrasenya
 login-item-password-reveal-checkbox-hide =
     .title = Amaga la contrasenya
+login-item-password-reveal-checkbox =
+    .aria-label = Mostra la contrasenya
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = S'ha copiat
 login-item-save-changes-button = Desa els canvis
@@ -126,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] Vés a les Preferències del { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Voleu suprimir aquest inici de sessió?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = No m'ho tornis a demanar
     .accesskey = N
@@ -138,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = Cancel·la
 about-logins-confirm-remove-dialog-title = Voleu eliminar aquest inici de sessió?
 confirm-delete-dialog-message = Aquesta acció no es pot desfer.
-confirm-delete-dialog-confirm-button = Suprimeix
 about-logins-confirm-remove-dialog-confirm-button = Elimina
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgiu desat.
@@ -153,11 +144,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Ja existeix una entrada per a { $loginTitle } amb aquest nom d'usuari.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

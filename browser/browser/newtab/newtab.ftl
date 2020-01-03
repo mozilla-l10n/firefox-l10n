@@ -175,7 +175,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Sembla que aquesta se
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temes populars:
 newtab-pocket-more-recommendations = Més recomanacions
-newtab-pocket-how-it-works = Com funciona
+newtab-pocket-whats-pocket = Què és el { -pocket-brand-name }?
 newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Deseu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
 
