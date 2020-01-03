@@ -341,6 +341,10 @@ remove-addon-disabled-button = No s'ha pogut eliminar. <a data-l10n-name="link">
 disable-addon-button = Desactiva
 enable-addon-button = Activa
 expand-addon-button = Més opcions
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Activa
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opcions
@@ -444,6 +448,7 @@ discover-heading = Personalitzeu el { -brand-short-name }
 shortcuts-heading = Gestioneu les dreceres de les extensions
 theme-heading-search-label = Cerqueu més temes
 extension-heading-search-label = Cerqueu més extensions
+default-heading-search-label = Cerqueu més complements
 addons-heading-search-input =
     .placeholder = Cerca a addons.mozilla.org
 addon-page-options-button =

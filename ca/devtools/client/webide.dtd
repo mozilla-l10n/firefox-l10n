@@ -45,9 +45,9 @@
 
 <!ENTITY viewMenu_label "Visualitza">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_zoomin_label "Apropa">
+<!ENTITY viewMenu_zoomin_label "Amplia">
 <!ENTITY viewMenu_zoomin_accesskey "A">
-<!ENTITY viewMenu_zoomout_label "Allunya">
+<!ENTITY viewMenu_zoomout_label "Redueix">
 <!ENTITY viewMenu_zoomout_accesskey "l">
 <!ENTITY viewMenu_resetzoom_label "Reinicia el zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
