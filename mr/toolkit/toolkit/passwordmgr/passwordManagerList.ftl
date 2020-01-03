@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = आपणास नक्की सर्व पासवर्ड पुसून टाकायचे?
 remove-all-passwords-title = सर्व पासवर्ड काढा
 no-master-password-prompt = आपणास नक्की पासवर्ड्स दर्शवायचे?
+auto-fill-logins-and-passwords =
+    .label = लॉगिन आणि पासवर्ड आपोआप भरा
