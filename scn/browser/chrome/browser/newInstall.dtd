@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE: For this feature, "installation" is used to mean "this
+ discrete download of Firefox" and "version" is used to mean "the specific
+ revision number of a given Firefox channel". These terms are not synonymous.
+-->
+
+<!ENTITY window.title "Nutizzi mpurtanti">
+<!ENTITY window.style "width: 490px">
+<!ENTITY sync "Pi sincrunizzari i nfurmazziuna chi già sarbasti nne Firefox cu stu nzitamentu di &brandShortName;, trasi cu to &syncBrand.fxAccount.label;.">
+<!ENTITY continue-button "Cuntinua">
+
+<!ENTITY mainText "Stu nzitamentu di &brandShortName; àvi un prufilu novu. Nun sparti nuḍḍu nzingalibbru, chiavi o prifirenza di l'utenti cu autri nzitamenti di Firefox (nchiusi Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition e Firefox Nightly) nni stu computer.">

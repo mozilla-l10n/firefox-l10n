@@ -425,12 +425,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vo' vìdiri cca i to schedi di l'autri dispusitivi?">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Rapi prifirenzi di sincrunizzazziuni">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Vidi na lista dî schedi di l'autri dispusitivi toi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "U to cuntu àvi a èssiri virificatu.">
 <!ENTITY appMenuRemoteTabs.signin.label "Trasi nne Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Trasi nne &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Attiva &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gistisci dispusitivi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Talìa a sbarra di ciancu dî schedi sincrunizzati">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Ammuccia a sbarra di ciancu dî schedi sincrunizzati">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Cunnetti n'autru dispusitivu">
 
 
@@ -450,21 +454,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "S">
 <!ENTITY customizeMenu.removeFromToolbar.label "Leva dâ sbarra dî strumenti">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "L">
+<!ENTITY customizeMenu.addMoreItems.label "Agghiunci cchiù assai cumpunenti…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Gistisci stinziuni">
+<!ENTITY customizeMenu.manageExtension.accesskey "s">
+<!ENTITY customizeMenu.removeExtension.label "Leva stinziuni">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Signala stinziuni">
+<!ENTITY customizeMenu.reportExtension.accesskey "S">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Cchiù assai">
 
 <!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder2          "Cerca o metti nu nnirizzu">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Stinziuni:">
 <!ENTITY urlbar.switchToTab.label     "Passa â scheda:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggirimentu:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Fatti ajutari! Cerca a &#x1F50E; ô ciancu dî suggirimenti di ricerca.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cancia i prifirenzi…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cancia i prifirenzi…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
@@ -496,15 +513,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Ricerca">
 
 <!ENTITY contentSearchSubmit.tooltip  "Avanza a ricerca">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Cerca">
+<!ENTITY searchIcon.tooltip           "Cerca">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Cerca ">
+<!ENTITY searchWith.label             " cu:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -512,11 +534,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Cerca cu ">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Cerca cu:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -568,6 +593,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "d">
 <!ENTITY viewVideoCmd.label           "Talìa u vidiu">
 <!ENTITY viewBGImageCmd.label         "Talìa a mmàggini ô funnu">
+<!ENTITY setDesktopBackgroundCmd.label      "Mposta comu sfunnu dâ scrivanìa…">
 <!ENTITY bookmarkPageCmd2.label       "Nzinga sta pàggina">
 <!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
@@ -576,7 +602,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Sarba nne Pocket">
+<!ENTITY saveToPocketCmd.label        "Sarba pàggina nne Pocket">
+<!ENTITY saveLinkToPocketCmd.label    "Sarba lijami nne Pocket">
+<!ENTITY pocketMenuitem.label         "Vidi lista Pocket">
 
+<!ENTITY emailPageCmd.label           "Manna lijami…">
+<!ENTITY emailPageCmd.accesskey       "M">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sarba a pàggina comu…">
 <!ENTITY savePageCmd.accesskey        "c">
@@ -599,6 +631,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "Manna u sonu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Attiva st'agghiuncitina">
+<!ENTITY playPluginCmd.accesskey      "t">
+<!ENTITY hidePluginCmd.label          "Ammuccia st'agghiuncitina">
+<!ENTITY hidePluginCmd.accesskey      "A">
 <!ENTITY copyLinkCmd.label            "Copia u lijami">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
@@ -618,12 +654,31 @@ context menu items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Ripruduci">
+<!ENTITY mediaPlay.accesskey         "u">
+<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.accesskey        "u">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Zitti">
+<!ENTITY mediaMute.accesskey         "Z">
+<!ENTITY mediaUnmute.label           "Attiva sonu">
+<!ENTITY mediaUnmute.accesskey       "s">
+<!ENTITY mediaPlaybackRate050x2.label "Adaciu (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "A">
+<!ENTITY mediaPlaybackRate100x2.label "Nurmali">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Lesta (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "L">
+<!ENTITY mediaPlaybackRate150x2.label "Cchiù lesta (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "C">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Senza lìmiti (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "S">
+<!ENTITY mediaLoop.label             "Ripeti">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
