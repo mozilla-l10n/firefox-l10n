@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Bloca les noves sol·licituds d'accés a la vostra ubicació
 permissions-site-location-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir a la vostra ubicació. Blocar l'accés a la vostra ubicació podria fer que algunes funcions dels llocs web no funcionin correctament.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Paràmetres - Permisos de realitat virtual
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Els llocs web següents han sol·licitat accés als dispositius de realitat virtual. Podeu indicar quins llocs web tenen permís per accedir als dispositius de realitat virtual. També podeu blocar les noves sol·licituds d'accedir als dispositius de realitat virtual.
+permissions-site-xr-disable-label =
+    .label = Bloca les noves sol·licituds d'accés als dispositius de realitat virtual
+permissions-site-xr-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir als dispositius de realitat virtual. Blocar l'accés als dispositius de realitat virtual podria fer que algunes funcions dels llocs web no funcionin correctament.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
