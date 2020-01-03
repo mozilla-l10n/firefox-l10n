@@ -77,6 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Iminig isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
 
 <!ENTITY xfoBlocked.title "Tessewḥel-it tsertit X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Iminig isewḥel asali n usebter-a deg usatal-a acku asebter ɣur-s tasertit X-Frame-Options ur t-yeǧǧan ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad ittwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
