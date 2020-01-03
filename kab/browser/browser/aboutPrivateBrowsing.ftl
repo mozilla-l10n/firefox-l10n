@@ -25,7 +25,7 @@ about-private-browsing =
 about-private-browsing-not-private = Mačči deg usfaylu uslig i telliḍ tura.
 content-blocking-title = Asewḥel n ugbur
 content-blocking-description = Kra n ismal web seqdacen ineḍfaren izemren ad walin armud-inek deg internet.deg usfaylu uslig, { -brand-short-name } ad isewḥel swudem awurman agbur, akked ineḍrafen ibɣan ad leqḍen talɣut n tunigin-inek.
-about-private-browsing-info-description = { -brand-short-name } iseffeḍ amazray n unadi d tunigin mi ara tefɣeḍ sed usnas neɣ ad tmedleḍ iccaren n ifuyla n tunigin tusligin. aya ad ak-ikkes udem uslig mi ara ti,igeḍ.
+about-private-browsing-info-description = { -brand-short-name } iseffeḍ azray n unadi d tunigin mi ara teffɣeḍ seg usnas neɣ ad tmedleḍ iccaren n ifuyla n tunigin tusligin. aya ad ak-ikkes udem uslig mi ara ti,igeḍ.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

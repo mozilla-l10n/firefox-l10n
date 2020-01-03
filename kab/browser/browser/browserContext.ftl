@@ -5,8 +5,8 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ amazray
-           *[other] Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ amazray
+            [macos] Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ azray
+           *[other] Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ azray
         }
 
 ## Back
@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Asteɛfu
     .accesskey = A
 
-##
+
 
 main-context-menu-media-mute =
     .label = Tasusmi
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Ffer isenqaden
     .accesskey = F
 
-##
+
 
 main-context-menu-media-video-fullscreen =
     .label = Agdil ačaran
