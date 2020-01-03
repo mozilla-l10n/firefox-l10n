@@ -11,6 +11,9 @@
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = Stu { -brand-shorter-name }
 # Title for runtime sidebar items where we cannot get device information (network
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =

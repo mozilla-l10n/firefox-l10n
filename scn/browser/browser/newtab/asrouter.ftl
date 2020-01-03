@@ -118,6 +118,7 @@ cfr-whatsnew-lockwise-take-link-text = Scàrrica l'app
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Talìa i vidiu mentri chi nàvighi
+cfr-whatsnew-pip-body = A funziunalità mmàggini-nnâ-mmàggini fa spuntari u vidiu nta na finestra spartuta accussì u po' taliari mentri ca travagghi cu l'autri schedi.
 cfr-whatsnew-pip-cta = Cchiù nfurmazziuna
 
 ## Permission Prompt

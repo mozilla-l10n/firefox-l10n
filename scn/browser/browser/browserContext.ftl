@@ -123,6 +123,11 @@ main-context-menu-media-unmute =
 
 
 
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Mmàggini-nnâ-Mmàggini
+    .accesskey = M
 main-context-menu-image-reload =
     .label = Càrrica arrè mmàggini
     .accesskey = m

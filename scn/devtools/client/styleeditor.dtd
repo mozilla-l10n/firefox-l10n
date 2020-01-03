@@ -32,7 +32,7 @@
 
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
-<!ENTITY openLinkNewTab.label     "Grapi u lijami nta na nova scheda">
+<!ENTITY openLinkNewTab.label     "Rapi u lijami nta na scheda nova">
 
 <!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
      context menu item that copies a stylesheet's URL -->
