@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Motores de búsqueda
 create-login-button = Crear nuevo inicio de sesión
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon para { $title }
 fxaccounts-sign-in-text = Obtenga sus contraseñas en sus otros dispositivos
 fxaccounts-sign-in-button = Inicie sesión en { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = No hay resultados que coincid
 login-list-item-title-new-login = Nuevo inicio de sesión
 login-list-item-subtitle-new-login = Ingrese sus credenciales de inicio de sesión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
-about-logins-list-item-warning-icon =
-    .alt = Icono de advertencia
-    .title = Sitio web violado
 about-logins-list-item-breach-icon =
     .title = Sitio web violado
 
@@ -81,7 +73,6 @@ about-logins-intro-import = Si sus inicios de sesión se guardan en otro navegad
 
 login-item-new-login-title = Crear nuevo inicio de sesión
 login-item-edit-button = Editar
-login-item-delete-button = Eliminar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Dirección web
 login-item-origin =
@@ -96,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Mostrar contraseña
 login-item-password-reveal-checkbox-hide =
     .title = Ocultar contraseña
+login-item-password-reveal-checkbox =
+    .aria-label = Mostrar contraseña
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = ¡Copiado!
 login-item-save-changes-button = Guardar cambios
@@ -126,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] Vaya a Preferencias de { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = ¿Borrar este inicio de sesión?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = No preguntarme de nuevo
     .accesskey = D
@@ -138,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = ¿Eliminar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no puede deshacerse.
-confirm-delete-dialog-confirm-button = Eliminar
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
 confirm-discard-changes-dialog-message = Se van a perder todos los cambios no guardados.
@@ -153,11 +144,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Ya hay una entrada para { $loginTitle } con ese nombre de usuario.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
