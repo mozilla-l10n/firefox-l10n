@@ -172,6 +172,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Sembla que la configuració actual de seguretat a la xarxa està causant aquest error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
 
+<!ENTITY enableTls10.longDesc "És possible que aquest lloc web no admeti el protocol TLS 1.2, que és la versió mínima compatible amb el &brandShortName;. L'activació de TLS 1.0 i TLS 1.1 podria fer que la connexió funcioni correctament.">
 <!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 es desactivaran permanentment en una pròxima versió.">
 <!ENTITY enableTls10.label "Habilita TLS 1.0 i 1.1">
 

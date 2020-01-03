@@ -1035,6 +1035,7 @@ permissions-a11y-privacy-link = Més informació
 collection-header = Ús i recollida de dades i del { -brand-short-name }
 collection-description = Ens esforcem per oferir-vos opcions i recollir només allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
 collection-privacy-notice = Avís de privadesa
+collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
 collection-health-report-telemetry-disabled-link = Més informació
 collection-health-report =
     .label = Permet que el { -brand-short-name } enviï dades tècniques i d'interacció a { -vendor-short-name }
