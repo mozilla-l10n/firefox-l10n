@@ -59,17 +59,23 @@ abuse-report-messagebar-action-cancel = Cancel·la
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Danys en l'ordinador i en les meves dades
+abuse-report-damage-reason-v2 = Ha malmès l'ordinador o ha posat les meves dades en risc
 abuse-report-damage-example = Exemple: programari maliciós injectat o robatori de dades
 abuse-report-spam-reason = Crea brossa o publicitat
+abuse-report-spam-reason-v2 = Conté brossa o insereix publicitat no desitjada
 abuse-report-spam-example = Exemple: insereix anuncis en les pàgines web
 abuse-report-settings-reason = Ha canviat el meu motor de cerca, la pàgina d'inici o la de pestanya nova sense informar-me'n ni preguntar-m'ho
+abuse-report-settings-reason-v2 = Ha canviat el meu motor de cerca, la pàgina d'inici o la de pestanya nova sense informar-me'n ni preguntar-m'ho
 abuse-report-settings-suggestions = Abans d’informar sobre l'extensió, podeu provar de canviar els paràmetres:
 abuse-report-settings-suggestions-search = Canvieu els paràmetres de cerca per defecte
 abuse-report-settings-suggestions-homepage = Canvieu la vostra pàgina principal i de pestanya nova
 abuse-report-deceptive-reason = Pretén ser quelcom que no és
+abuse-report-deceptive-reason-v2 = Pretén ser quelcom que no és
 abuse-report-deceptive-example = Exemple: imatges o descripcions enganyoses
 abuse-report-broken-reason-extension = No funciona, deixa llocs web inutilitzables o fa que el { -brand-product-name } vagi lent
-abuse-report-broken-reason-theme = No funciona o malmet la visualització del navegador
+abuse-report-broken-reason-theme = No funciona o fa que el navegador es vegi malament
+abuse-report-broken-reason-extension-v2 = No funciona, deixa llocs web inutilitzables o fa que el { -brand-product-name } vagi lent
+abuse-report-broken-reason-theme-v2 = No funciona o fa que el navegador es vegi malament
 abuse-report-broken-example = Exemple: les funcions són lentes, difícils d’utilitzar o no funcionen; parts dels llocs web no es carreguen o tenen un aspecte inusual
 abuse-report-broken-suggestions-extension =
     Sembla que heu identificat un error. A més d'enviar un informe aquí, la millor manera de resoldre un problema de funcionalitat, és contactar amb el desenvolupador de l'extensió.
@@ -84,5 +90,6 @@ abuse-report-policy-suggestions =
     <a data-l10n-name="report-infringement-link">Utilitzeu aquestes instruccions</a> per
     informar del problema.
 abuse-report-unwanted-reason = No he volgut mai aquesta extensió i no me'n puc desfer
+abuse-report-unwanted-reason-v2 = No l'he volgut mai i no sé com desfer-me'n
 abuse-report-unwanted-example = Exemple: una aplicació la va instal·lar sense el meu permís
 abuse-report-other-reason = Una altra cosa
