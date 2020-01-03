@@ -65,15 +65,14 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Activa el { -sync-brand-short-name }…
     .title = Vés a les preferències de sincronització
-manage-devices = Gestiona els dispositius
+manage-connected-devices = Gestiona els dispositius…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
+lockwise-connected-device-status =
     { $count ->
-        [one] S'està sincronitzant amb { $count } altre dispositiu.
-       *[other] S'està sincronitzant amb { $count } altres dispositius.
+        [one] Connectat a { $count } dispositiu
+       *[other] Connectat a { $count } dispositius
     }
-lockwise-sync-not-syncing-devices = No se sincronitza amb altres dispositius
 monitor-title = Tingueu controlades les filtracions de dades
 monitor-link = Com funciona
 monitor-header-content-no-account = Visiteu el { -monitor-brand-name } per veure si hi ha alguna filtració de dades coneguda que us hagi afectat i obteniu alertes de noves filtracions.
