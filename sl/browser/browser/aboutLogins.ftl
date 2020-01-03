@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Iskanje prijav
 create-login-button = Ustvari novo prijavo
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Ikona spletnega mesta { $title }
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-button = Prijava v { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -63,9 +58,6 @@ about-logins-login-list-empty-search-description = Ni rezultatov, ki bi ustrezal
 login-list-item-title-new-login = Nova prijava
 login-list-item-subtitle-new-login = Vnesite podatke za prijavo
 login-list-item-subtitle-missing-username = (ni uporabniškega imena)
-about-logins-list-item-warning-icon =
-    .alt = Ikona opozorila
-    .title = Ogrožena spletna stran
 about-logins-list-item-breach-icon =
     .title = Ogrožena spletna stran
 
@@ -83,7 +75,6 @@ about-logins-intro-import = Če so vaše prijave shranjene v drugem brskalniku, 
 
 login-item-new-login-title = Ustvari novo prijavo
 login-item-edit-button = Uredi
-login-item-delete-button = Izbriši
 about-logins-login-item-remove-button = Odstrani
 login-item-origin-label = Naslov spletnega mesta
 login-item-origin =
@@ -98,6 +89,8 @@ login-item-password-reveal-checkbox-show =
     .title = Prikaži geslo
 login-item-password-reveal-checkbox-hide =
     .title = Skrij geslo
+login-item-password-reveal-checkbox =
+    .aria-label = Prikaži geslo
 login-item-copy-password-button-text = Kopiraj
 login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Shrani spremembe
@@ -128,7 +121,6 @@ enable-password-sync-preferences-button =
            *[other] Obišči nastavitve { -sync-brand-short-name }a
         }
     .accesskey = š
-confirm-delete-dialog-title = Izbrišem to prijavo?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ne sprašuj več
     .accesskey = N
@@ -140,7 +132,6 @@ confirmation-dialog-dismiss-button =
     .title = Prekliči
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
-confirm-delete-dialog-confirm-button = Izbriši
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
 confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
 confirm-discard-changes-dialog-message = Vse neshranjene spremembe bodo izgubljene.
@@ -155,11 +146,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Vnos za { $loginTitle } s tem uporabniškim imenom že obstaja.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

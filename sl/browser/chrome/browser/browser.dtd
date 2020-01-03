@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Pred začetkom sinhronizacije boste morali potrditi svoj račun.">
 <!ENTITY fxa.unverified.button.label "Odpri nastavitve &syncBrand.shortName.label;a …">
 
-<!ENTITY pictureInPictureHideToggle.label "Skrij preklop slike v sliki">
-<!ENTITY pictureInPictureHideToggle.accesskey "p">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prijavljen kot">
 <!ENTITY fxa.menu.manageAccount.label "Upravljanje računa …">
 <!ENTITY fxa.menu.syncSettings.label "Nastavitve &syncBrand.shortName.label;a …">
+
+<!ENTITY pictureInPictureHideToggle.label "Skrij preklop slike v sliki">
+<!ENTITY pictureInPictureHideToggle.accesskey "p">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Prijava v &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Vklopi &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Storitve &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Račun">
 <!ENTITY fxa.menu.settings.label "Nastavitve">
 <!ENTITY fxa.menu.accountSettings.label "Nastavitve računa">
+<!ENTITY fxa.menu.manageAccount2.label "Upravljanje računa">
 <!ENTITY fxa.menu.signOut.label "Odjava …">
 <!ENTITY fxa.menu.deviceSettings.label "Nastavitve naprave">
 <!ENTITY fxa.menu.setupSync.label "Nastavi &syncBrand.shortName.label; …">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "P">
 <!ENTITY stopCmd.label                "Ustavi">
 <!ENTITY stopCmd.accesskey            "U">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Odpri mesto v vrstici z naslovom">
 <!ENTITY printButton.label            "Natisni">
@@ -276,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte uporabo programske opreme DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Odpri ploščo MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Tej strani ste dodelili dodatna dovoljenja.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Za to stran ste zavrnili uporabo kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Za to stran ste zavrnili uporabo mikrofona.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Za to stran ste zavrnili deljenje zaslona.">
@@ -290,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tej strani ste zavrnili uporabo vtičnika Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Za to stran ste zavrnili uporabo MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "Za to stran ste zavrnili namestitev dodatkov.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Tej strani ste dodelili dodatna dovoljenja.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
@@ -568,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Išči z iskalnikom:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Tokrat išči z iskalnikom:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "P">
 
 <!ENTITY openLinkCmdInTab.label       "Odpri povezavo v novem zavihku">
+
 <!ENTITY openLinkCmdInTab.accesskey   "Z">
 <!ENTITY openLinkCmd.label            "Odpri povezavo v novem oknu">
 <!ENTITY openLinkCmd.accesskey        "N">
@@ -601,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "O">
 <!ENTITY showOnlyThisFrameCmd.label     "Pokaži le ta okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "L">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ponovno naloži okvir">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -651,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Shrani stran kot …">
 <!ENTITY savePageCmd.accesskey        "S">
 <!ENTITY savePageCmd.accesskey2       "s">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Shrani okvir kot …">
 <!ENTITY saveFrameCmd.accesskey       "T">
@@ -817,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Spremeni smer besedila">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "b">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Najdi na tej strani …">
@@ -940,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Zakaj?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Zavračanje te vsebine lahko povzroči nedelovanje nekaterih delov spletnih strani. Brez sledilcev nekateri gumbi, obrazci in polja za prijavo morda ne bodo delovali.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Z izklopom zaščite bodo vsi sledilci na tej strani dovoljeni. Lahko se tudi izboljša delovanje spletne strani.">
-<!ENTITY protections.socialMediaTrackers.label "Sledilci družbenih omrežij">
-<!ENTITY protections.crossSiteTrackingCookies.label "Spletni sledilni piškotki">
-<!ENTITY protections.trackingContent.label "Sledilna vsebina">
-<!ENTITY protections.fingerprinters.label "Sledilci prstnih odtisov">
-<!ENTITY protections.cryptominers.label "Kriptorudarji">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Naloženi so vsi sledilci na strani, ker so zaščite izklopljene.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; na strani ni zaznal znanih sledilcev.">
 
@@ -968,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Prijava v &syncBrand.shortName.label; …">
 <!ENTITY syncSignIn.accesskey         "n">
-
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
 <!ENTITY syncSyncNowItemSyncing.label "Sinhroniziranje …">
 <!ENTITY syncSyncNowItem.accesskey    "n">
@@ -1006,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "U">
 
 <!ENTITY contentBlocking.socialblock.label "Sledilci družbenih omrežij">
-
-<!ENTITY contentBlocking.cookies2.label "Spletni sledilni piškotki">
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptorudarji">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptorudarji">
