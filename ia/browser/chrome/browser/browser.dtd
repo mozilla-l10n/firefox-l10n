@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerer le utilisation de software de DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Aperir le quadro MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Tu ha concedite permissiones additional a iste sito web.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tu ha blocate tu camera pro iste sito web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu ha blocate tu microphono pro iste sito web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tu ha blocate iste sito web de compartir tu schermo.">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tu ha blocate iste sito web per le plug-in de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tu ha blocate le accesso MIDI pro iste sito web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tu ha blocate le accesso al installation de additivos pro iste sito web.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Tu ha concedite permissiones additional a iste sito web.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Monstrar le chronologia">
@@ -942,7 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tote le traciatores sur iste sito ha essite cargate perque le protectiones ha essite disactivate.">
 <!ENTITY protections.noTrackersFound.description "Nulle traciator cognoscite per &brandShortName; ha essite detegite sur iste pagina.">
 
-<!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es ponite per tertie partes como companias de publicitate e de analyse de datos.">
+<!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es deponite per tertios como companias de publicitate e de analyse de datos.">
 <!ENTITY protections.cryptominers.description "Cryptominatores usa le potentia de calculo de tu systema pro excavar moneta digital. Scripts de cryptominage exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.">
 <!ENTITY protections.fingerprinters.description "Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web.">
 <!ENTITY protections.trackingContent2.description "Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de aperir session pote non functionar.">
