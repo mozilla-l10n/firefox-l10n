@@ -5,15 +5,14 @@
 
 <!ENTITY migrationWizard.title          "Mpurtazziuni cunnuciuta">
 
-<!ENTITY importFrom.label               "Pigghia i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
-<!ENTITY importFromUnix.label           "Pigghia i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
-<!ENTITY importFromBookmarks.label      "Pigghia i nzingalibbri di:">
+<!ENTITY importFrom.label               "Mporta i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
+<!ENTITY importFromUnix.label           "Mporta i prifirenzi, i nzingalibbri, a cronuluggìa, i chiavi e l'autri dati di:">
+<!ENTITY importFromBookmarks.label      "Mporta i nzingalibbri di:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "Nun pigghiari nenti">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">

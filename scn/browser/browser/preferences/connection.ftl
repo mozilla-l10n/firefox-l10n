@@ -22,7 +22,7 @@ connection-proxy-option-system =
     .accesskey = U
 connection-proxy-option-auto =
     .label = Trova autumaticamenti i mpustazziuna proxy pi sta riti
-    .accesskey = w
+    .accesskey = x
 connection-proxy-option-manual =
     .label = Cunfijurazziuni manuali dû proxy
     .accesskey = M
@@ -71,7 +71,7 @@ connection-dns-over-https =
     .label = Abbìlita u DNS nne HTTPS
     .accesskey = b
 connection-dns-over-https-url-resolver = Usa furnituri
-    .accesskey = P
+    .accesskey = f
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =

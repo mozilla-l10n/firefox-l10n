@@ -56,6 +56,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Mporta di n'autru navigaturi…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "M">
 
 
 <!ENTITY goOfflineCmd.label "Travagghia sculligatu">
@@ -104,7 +106,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Virìfica u to cuntu">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "*">
+<!ENTITY togglePictureInPicture.key "+"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Arriduci">
 <!ENTITY fullScreenClose.tooltip "Chiuji">
@@ -203,7 +206,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduci sta pàggina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gistisci l'usu dî prugrammi DRM">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bluccasti a to fotucàmmara pi stu situ.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bluccasti u to micròfunu pi stu situ.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bluccasti a spartuta dû schirmu pi stu situ.">
@@ -214,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bluccasti l'usu di Adobe Flash pi stu situ.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bluccasti l'accessu MIDI pi stu situ.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bluccasti u nzitamentu d'agghiuncitini pi stu situ.">
+
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra cronuluggìa">

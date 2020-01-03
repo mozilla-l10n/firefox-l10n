@@ -10,7 +10,7 @@ fonts-window-close =
 ## Font groups by language
 
 fonts-langgroup-header = Caràttiri pi
-    .accesskey = F
+    .accesskey = C
 fonts-langgroup-arabic =
     .label = Àrabbu
 fonts-langgroup-armenian =
@@ -87,12 +87,12 @@ fonts-sans-serif = Senza grazzi
     .accesskey = n
 fonts-monospace = Monuspazziu
     .accesskey = M
-fonts-monospace-size = Diminziuni
-    .accesskey = e
-fonts-minsize = Diminziuni mìnima dû caràttiri
-    .accesskey = o
+fonts-monospace-size = Grannizza
+    .accesskey = G
+fonts-minsize = Grannizza mìnima dû caràttiri
+    .accesskey = z
 fonts-minsize-none =
-    .label = Nuḍḍu
+    .label = Nuḍḍa
 fonts-allow-own =
     .label = Pirmetti ê pàggini di scègghiri u so caràttiri mmeci dî to scigghiuti supra
     .accesskey = A

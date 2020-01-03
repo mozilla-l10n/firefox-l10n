@@ -406,13 +406,13 @@ browsing-use-smooth-scrolling =
     .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = Mustra na tastera tàttili quannu serbi
-    .accesskey = c
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Usa sempri i tasti cursura pi navigari nnê pàggini
-    .accesskey = k
+    .accesskey = p
 browsing-search-on-start-typing =
     .label = Cerca testu quannu accuminci a diggitari
-    .accesskey = x
+    .accesskey = q
 browsing-picture-in-picture-toggle-enabled =
     .label = Attiva cuntrulli mmàggini-nnâ-mmàggini
     .accesskey = A
@@ -805,7 +805,7 @@ history-private-browsing-permanent =
     .accesskey = p
 history-remember-browser-option =
     .label = Ricorda a cronuluggìa di navigazziuni e scarricamenti
-    .accesskey = b
+    .accesskey = c
 history-remember-search-option =
     .label = Ricorda cronuluggìa di ricerca e mòduli
     .accesskey = f
@@ -873,7 +873,7 @@ addressbar-locbar-history-option =
     .accesskey = C
 addressbar-locbar-bookmarks-option =
     .label = Nzingalibbri
-    .accesskey = k
+    .accesskey = z
 addressbar-locbar-openpage-option =
     .label = Schedi raputi
     .accesskey = S
@@ -890,13 +890,13 @@ content-blocking-learn-more = Cchiù nfurmazziuna
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
     .label = Nurmali
-    .accesskey = d
+    .accesskey = N
 content-blocking-setting-strict =
     .label = Rìggidu
     .accesskey = r
 content-blocking-setting-custom =
     .label = Pirsunalizzatu
-    .accesskey = C
+    .accesskey = P
 content-blocking-standard-desc = Valanzatu pi prutizziuni e pristazziuna. Pirmetti certi trazzatura pi fari funziunari i siti boni.
 content-blocking-strict-description = Prutizziuni cchiù forti, putissi ncippari certi siti.
 content-blocking-custom-desc = Scegghi zoccu bluccari.
@@ -960,8 +960,8 @@ content-blocking-expand-section =
     .tooltiptext = Cchiù nfurmazziuna
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Crittuminatura
-    .accesskey = y
+    .label = Minatura di crittumunita
+    .accesskey = M
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
@@ -1049,8 +1049,8 @@ addon-recommendations-link = Cchiù nfurmazziuna
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta build
 collection-backlogged-crash-reports =
-    .label = Pirmetti a { -brand-short-name } di mannari signalazziuna di ntirruzziun arritrati a nomu to
-    .accesskey = c
+    .label = Pirmetti a { -brand-short-name } di mannari signalazziuna di ntirruzziuni arritrati a nomu to
+    .accesskey = s
 collection-backlogged-crash-reports-link = Cchiù nfurmazziuna
 
 ## Privacy Section - Security

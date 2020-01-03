@@ -23,8 +23,8 @@ clear-site-data-cookies-info = Putissi èssiri scullijatu dî siti si veni canci
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Cuntinutu di riti dipusitatu
-    .accesskey = W
+    .label = Cuntinutu nnâ cache
+    .accesskey = h
 clear-site-data-cache-info = Cci sarà bisognu ca i siti ricàrricanu mmàggini e dati
 clear-site-data-cancel =
     .label = Sfai
