@@ -603,8 +603,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Cancia i prifirenzi di nzirraturi dî popup…">
-<!ENTITY editPopupSettings.label "Cancia l'uzziuni di nzirraturi dî popup…">
 
 
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
@@ -640,6 +638,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "I nfurmazziuna d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.">
 <!ENTITY identity.description.weakCipher "A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.">
 <!ENTITY identity.description.weakCipher2 "Autri ponnu vìdiri i to nfurmazziuna o canciari u cumpurtamentu dû situ web.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; bluccò parti di sta pàggina ca nun èranu sicuri.">
 <!ENTITY identity.description.passiveLoaded "A to cunnissiuni nun è privata e i nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri.">
 <!ENTITY identity.description.passiveLoaded2 "Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini).">
 <!ENTITY identity.description.passiveLoaded3 "Puru ca &brandShortName; bluccò parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini).">
