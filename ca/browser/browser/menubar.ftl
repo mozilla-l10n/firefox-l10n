@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Reinicia
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Mida Real
+    .accesskey = M
 menu-view-full-zoom-toggle =
     .label = Augmenta el text només
     .accesskey = t
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Mostra totes les pestanyes
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Complements
     .accesskey = m
-menu-tools-sync-sign-in =
-    .label = Inicia la sessió al { -sync-brand-short-name }…
-    .accesskey = y
 menu-tools-fxa-sign-in =
     .label = Inicia la sessió al { -brand-product-name }…
     .accesskey = F
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Sincronitza ara
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Torna a connectar al { -sync-brand-short-name }…
-    .accesskey = T
 menu-tools-fxa-re-auth =
     .label = Torna a connectar al { -brand-product-name }…
     .accesskey = T
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Reinicia amb els complements habilitats
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Informa que el lloc és maliciós…
     .accesskey = I
