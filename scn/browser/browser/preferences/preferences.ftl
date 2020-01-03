@@ -577,7 +577,7 @@ containers-back-button =
         }
 containers-header = Schedi cuntinituri
 containers-add-button =
-    .label = Agghiunci novu cuntinituri
+    .label = Agghiunci un cuntinituri novu
     .accesskey = A
 containers-preferences-button =
     .label = Prifirenzi
@@ -881,7 +881,7 @@ addressbar-suggestions-settings = Cancia i prifirenzi pî suggirimenti di muturi
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Bluccaggiu di cuntinutu
+content-blocking-header = Bloccu dî cuntinuti
 content-blocking-section-description = Pruteggi a to privatizza mentri nàvighi. Blocca i cuntinuti mmisìbbili ca tràzzanu i siti ca vìsiti e ti prufìlanu. Bluccari certi di sti cuntinuti ponnu fari carricari i pàggini cchiù lesti.
 content-blocking-enhanced-tracking-protection = Prutizziuni avanzata dû trazzamentu
 content-blocking-section-top-level-description = I trazzatura t'assicùtanu riti riti pi cògghiri nfurmazziuna supra i to abbitùdini e ntiressi. { -brand-short-name } blocca assai di sti trazzatura e autri prugrammi dannusi.

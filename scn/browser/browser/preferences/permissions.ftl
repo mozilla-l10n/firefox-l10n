@@ -64,9 +64,9 @@ permissions-invalid-uri-label = Metti nomu òspiti vàlidu
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-content-blocking-window =
-    .title = Ccizziuna - Bloccu cuntinuti
+    .title = Ccizziuna - Bloccu dî cuntinuti
     .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Disabbilitasti u bloccu di cuntinuti nna stu situ.
+permissions-exceptions-content-blocking-desc = Disabbilitasti u bloccu dî cuntinuti nna stu situ.
 permissions-exceptions-etp-window =
     .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
     .style = { permissions-window.style }

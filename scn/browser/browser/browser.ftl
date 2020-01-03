@@ -127,7 +127,7 @@ search-one-offs-with-title = Sta vota, cerca cu:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Cancia i mpustazziuna di ricerca
+    .label = Mpustazziuna di ricerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cancia i mpustazziuna di ricerca
 search-one-offs-context-open-new-tab =

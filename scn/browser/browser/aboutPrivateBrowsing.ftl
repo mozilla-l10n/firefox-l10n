@@ -23,7 +23,7 @@ about-private-browsing-note = A navigazziuni privata <strong>nun ti fa affacciar
 about-private-browsing =
     .title = Cerca nnâ Riti
 about-private-browsing-not-private = P'accamora nun sì nta na finestra privata.
-content-blocking-title = Bloccu dû cuntinutu
+content-blocking-title = Bloccu dî cuntinuti
 content-blocking-description = Certi siti ùsanu trazzatura ca ponnu muniturari i to attività nne Internet. Nnî finestri privati, u bloccu dî cuntinuti di { -brand-short-name } blocca autumaticamenti assai trazzatura ca ponnu arricògghiri nfurmazziuna ncapu â to manera di navigari.
 about-private-browsing-info-description = { -brand-short-name } cancella i to ricerchi e a to cronuluggìa di navigazziuni quannu nesci di l'appricazziuni o chiuji tutti i schedi e i finestri dâ navigazziuni privata. Puru si chistu nun ti fa anònimu pî siti o pû to furnituri dû sirbizzu Internet, è cchiù fàcili tèniri privatu chiḍḍu chi fai 'n linia di tutti chiḍḍi ca ùsanu stu computer.
 # This string is the title for the banner for search engine selection

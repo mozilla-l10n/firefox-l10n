@@ -46,7 +46,7 @@ policy-DNSOverHTTPS = Cunfijura u DNS ncapu a HTTPS.
 policy-DontCheckDefaultBrowser = Disabbìlita u cuntrollu dû browser pridifinutu all'abbìu.
 policy-DownloadDirectory = Mposta e blocca a carpetta di scarricamentu.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Abbìlita o disabbìlita u Bloccu dû cuntinutu e si voi blòccalu.
+policy-EnableTrackingProtection = Abbìlita o disabbìlita u Bloccu dî cuntinuti e si voi blòccalu.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.

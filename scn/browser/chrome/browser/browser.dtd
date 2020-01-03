@@ -127,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Cunnetti n'autru dispusitivu…">
 
 <!ENTITY fxa.menu.signin.label "Trasi nne &brandProductName;">
 
@@ -168,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Cancia stu nzingalibbru">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "Agghiunci tutti i schedi nnê nzingalibbri…">
+<!ENTITY addCurPagesCmd.label "Agghiunci tutti i schedi ê nzingalibbri…">
 
 <!ENTITY showAllBookmarks2.label "Mustra tutti i nzingalibbri">
 <!ENTITY otherBookmarksCmd.label "Autri nzingalibbri">
@@ -656,6 +657,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY identity.permissionsReloadHint "Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Rapi prifirenzi pû bloccu dî cuntinuti">
 
 
 <!-- LOCALIZATION NOTE:
@@ -675,6 +677,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Bluccatu">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -697,8 +700,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "U sonu dâ scheda sarà spartutu.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutti i finestri visìbbili sunnu pi cullabburazziuni.">
 
+<!ENTITY contentBlocking.title "Bloccu dî cuntinuti">
 
 
+<!ENTITY contentBlocking.manageSettings.label "Gistisci Bloccu dî cuntinuti">
 
 
 
