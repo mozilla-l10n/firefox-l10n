@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Tilisi täytyy vahvistaa ennen kuin voit synkronoida.">
 <!ENTITY fxa.unverified.button.label "Avaa &syncBrand.shortName.label;-asetukset…">
 
-<!ENTITY pictureInPictureHideToggle.label "Piilota kuva kuvassa -kytkin">
-<!ENTITY pictureInPictureHideToggle.accesskey "P">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Kirjautuneena tilillä">
 <!ENTITY fxa.menu.manageAccount.label "Hallitse tiliä…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-asetukset…">
+
+<!ENTITY pictureInPictureHideToggle.label "Piilota kuva kuvassa -kytkin">
+<!ENTITY pictureInPictureHideToggle.accesskey "P">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Kirjaudu &brandProductName;iin">
 <!ENTITY fxa.menu.turnOnSync.label "Ota &syncBrand.shortName.label; käyttöön">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-palvelut">
-
 <!ENTITY fxa.menu.account.label "Tili">
 <!ENTITY fxa.menu.settings.label "Asetukset">
 <!ENTITY fxa.menu.accountSettings.label "Tilin asetukset">
+<!ENTITY fxa.menu.manageAccount2.label "Hallitse tiliä">
 <!ENTITY fxa.menu.signOut.label "Kirjaudu ulos…">
 <!ENTITY fxa.menu.deviceSettings.label "Laiteasetukset">
 <!ENTITY fxa.menu.setupSync.label "Määritä &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "P">
 <!ENTITY stopCmd.label                "Pysäytä">
 <!ENTITY stopCmd.accesskey            "P">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Siirry osoitepalkissa olevaan osoitteeseen">
 <!ENTITY printButton.label            "Tulosta">
@@ -276,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hallinnoi DRM-ohjelmiston käyttöä">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Avaa MIDI-paneeli">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Olet myöntänyt tälle sivustolle lisäoikeuksia.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Olet estänyt tämän sivuston jakamasta näyttöäsi.">
@@ -290,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Olet estänyt Adobe Flash -liitännäisen käytön tältä sivustolta.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Olet estänyt MIDI-käytön tältä sivustolta.">
 <!ENTITY urlbar.installBlocked.tooltip           "Olet estänyt lisäosien asennuksen tältä sivustolta.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Olet myöntänyt tälle sivustolle lisäoikeuksia.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
@@ -568,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Hae hakukoneella:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Tällä kertaa käytä hakuun:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "A">
 
 <!ENTITY openLinkCmdInTab.label       "Avaa uuteen välilehteen">
+
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">
 <!ENTITY openLinkCmd.accesskey        "i">
@@ -601,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "u">
 <!ENTITY showOnlyThisFrameCmd.label     "Näytä vain tämä kehys">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Päivitä kehys">
 <!ENTITY reloadFrameCmd.accesskey     "ä">
@@ -651,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Tallenna sivu nimellä…">
 <!ENTITY savePageCmd.accesskey        "n">
 <!ENTITY savePageCmd.accesskey2       "s">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Tallenna kehys nimellä…">
 <!ENTITY saveFrameCmd.accesskey       "T">
@@ -817,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "V">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Vaihda tekstin suuntaa">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Etsi tältä sivulta…">
@@ -940,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Miksi?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Näiden estäminen voisi rikkoa osia joistain sivustoista. Ilman seuraimia jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Suojauksien poistaminen käytöstä sallii kaikki seuraimet tällä sivustolla. Se saattaa myös parantaa joidenkin sivustojen toiminnallisuutta.">
-<!ENTITY protections.socialMediaTrackers.label "Sosiaalisen median seuraimet">
-<!ENTITY protections.crossSiteTrackingCookies.label "Sivustorajat ylittävät seurainevästeet">
-<!ENTITY protections.trackingContent.label "Seurantaan tarkoitettu sisältö">
-<!ENTITY protections.fingerprinters.label "Yksilöijät">
-<!ENTITY protections.cryptominers.label "Kryptolouhijat">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Kaikki tämän sivuston seuraimet on ladattu, sillä suojaukset ovat pois päältä.">
 <!ENTITY protections.noTrackersFound.description "Tällä sivulla ei havaittu seuraimia, jotka &brandShortName; tuntee.">
 
@@ -968,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Kirjaudu &syncBrand.shortName.label;-palveluun…">
 <!ENTITY syncSignIn.accesskey         "K">
-
 <!ENTITY syncSyncNowItem.label        "Synkronoi">
 <!ENTITY syncSyncNowItemSyncing.label "Synkronoidaan…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1006,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
 <!ENTITY contentBlocking.socialblock.label "Sosiaalisen median seuraimet">
-
-<!ENTITY contentBlocking.cookies2.label "Sivustorajat ylittävät seurainevästeet">
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptolouhijat">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptolouhijat">
