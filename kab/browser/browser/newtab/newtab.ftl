@@ -166,7 +166,7 @@ newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagrade
 
 newtab-discovery-empty-section-topstories-header = Ulac d acu yellan.
 newtab-discovery-empty-section-topstories-content = Uɣal-d ticki akken ad tafeḍ ugar n teqsiḍin.
-newtab-discovery-empty-section-topstories-try-again-button = Ɛreḍ tikelt nniḍen
+newtab-discovery-empty-section-topstories-try-again-button = Ɛreḍ tikkelt-nniḍen
 newtab-discovery-empty-section-topstories-loading = Asali…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ihuh! Waqil tigezmi ur d-tuli ara akken iwata.
@@ -176,7 +176,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ihuh! Waqil tigezmi ur d-t
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Isental ittwasnen aṭas:
 newtab-pocket-more-recommendations = Ugar n iwellihen
-newtab-pocket-how-it-works = Amek iteddu
 newtab-pocket-whats-pocket = D acu-t { -pocket-brand-name }?
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.

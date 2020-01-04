@@ -39,8 +39,8 @@ app-basics-update-dir =
         [linux] Akaram n Ileqman
        *[other] Akaram n Ileqman
     }
-app-basics-update-history = Amazray n ileqman
-app-basics-show-update-history = Sken amazray n ileqman
+app-basics-update-history = Azray n ileqman
+app-basics-show-update-history = Sken azray n ileqman
 # Represents the path to the binary used to start the application.
 app-basics-binary = Timsint n usnas
 app-basics-profile-dir =

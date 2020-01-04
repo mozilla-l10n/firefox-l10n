@@ -6,7 +6,7 @@
 <!ENTITY migrationWizard.title          "Amarag n ukter">
 
 <!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtar, azray, awalen uffiren d isefka-nniḍen seg:">
-<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka-nniḍen seg:">
+<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtar, azray, awalen uffiren d isefka-nniḍen seg:">
 <!ENTITY importFromBookmarks.label      "Kter ticṛaḍ n isebtar seg: ">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -32,7 +32,7 @@
 <!ENTITY importFrom360se.label          "360 Iminig aɣelsan">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Ulac aseɣẓan i igebren ticraḍ n isebtar, amazray, neɣ awalen uffiren ikelsen.">
+<!ENTITY noMigrationSources.label       "Ulac aseɣẓan i igebren ticraḍ n yisebtar, azray, neɣ awalen uffiren ikelsen.">
 
 <!ENTITY importSource.title             "Aktar n iɣewwaṛen d isefka">
 <!ENTITY importItems.title              "Iferdisen ara yettwaketren">

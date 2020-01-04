@@ -70,22 +70,15 @@
 <!ENTITY cmd.new_separator.label           "Anabraz amaynut">
 <!ENTITY cmd.new_separator.accesskey       "b">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Smiren ineksam">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "m">
-
-<!ENTITY cmd.moveBookmarks.label                  "Senkez…">
-<!ENTITY cmd.moveBookmarks.accesskey              "k">
-
 <!ENTITY col.name.label          "Isem">
 <!ENTITY col.tags.label          "Tibzimin">
 <!ENTITY col.url.label           "Tansa">
 <!ENTITY col.mostrecentvisit.label "Tirza taneggarut">
 <!ENTITY col.visitcount.label    "Amḍan n tmerziwin">
-<!ENTITY col.description.label   "Aglam">
 <!ENTITY col.dateadded.label     "Azem n tmerna">
 <!ENTITY col.lastmodified.label  "Asnifel aneggaru">
 
-<!ENTITY historySearch.placeholder  "Amazray n unadi">
+<!ENTITY historySearch.placeholder  "Azray n unadi">
 <!ENTITY bookmarksSearch.placeholder  "Nadi ticraḍ n isebtar">
 
 <!ENTITY cmd.find.key  "f">
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Ddu ɣer zdat">
 
-<!ENTITY detailsPane.more.label "Ugar">
-<!ENTITY detailsPane.more.accesskey "U">
-<!ENTITY detailsPane.less.label "Ddaw">
-<!ENTITY detailsPane.less.accesskey "d">
 <!ENTITY detailsPane.selectAnItemText.description "Fren aferdis akken ad twaliḍ udiɣ ad tesnifleḍ taɣaṛa-yines">
 
 <!ENTITY view.label               "Smizzwer">
