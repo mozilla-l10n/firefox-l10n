@@ -1032,7 +1032,7 @@ permissions-a11y-privacy-link = Cchiù nfurmazziuna
 
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
 collection-description = Ni sfurzamu di furnìriti scigghiuti e arricògghiri sulu chiḍḍu chi ni serbi pi furniri e migghiurari { -brand-short-name } pi tutti. Dumannamu sempri u pirmisu prima d'arricìviri nfurmazziuna pirsunali.
-collection-privacy-notice = Abbisi di privatizza
+collection-privacy-notice = Abbisu di privatizza
 collection-health-report-telemetry-disabled = Nun sta' pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazziuna. Tutti i dati vecchi sarannu cancillati nna 30 jorna.
 collection-health-report-telemetry-disabled-link = Cchiù nfurmazziuna
 collection-health-report =

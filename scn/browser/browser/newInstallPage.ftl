@@ -23,6 +23,6 @@ sync-label = Metti u to nnirizzu e-mail
 sync-input =
     .placeholder = Email
 sync-button = Cuntinua
-sync-terms = Cuntinuannu, accetti i <a data-l10n-name="terms">tèrmini di sirbizzu</a> e <a data-l10n-name="privacy">l'abbisu di privatizza</a>.
+sync-terms = Cuntinuannu, accetti i <a data-l10n-name="terms">tèrmini di sirbizzu</a> e l'<a data-l10n-name="privacy">abbisu di privatizza</a>.
 sync-first = È a prima vota ca usi { -sync-brand-name }? Ài bisognu di tràsiri nna ogni nzitamentu di Firefox pi sincrunizzari i to nfurmazziuna.
 sync-learn = Cchiù nfurmazziuna
