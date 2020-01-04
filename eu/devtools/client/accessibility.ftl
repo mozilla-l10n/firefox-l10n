@@ -22,6 +22,7 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Erabili <code>alt</code> atributua <span>href</span> atributua duten <div>area</div> elementuak etiketatzeko. <a>Argibide gehiago</a>
 accessibility-text-label-issue-dialog = Elkarrizketa-koadroak etiketatu egin beharko lirateke. <a>Argibide gehiago</a>
 accessibility-text-label-issue-document-title = Dokumentuek <code>title</code> atributua izan behar dute. <a>Argibide gehiago</a>
 accessibility-text-label-issue-embed = Kapsulatutako edukia etiketatu egin behar da. <a>Argibide gehiago</a>
@@ -49,3 +50,4 @@ accessibility-keyboard-issue-tabindex = Saiatu ez erabiltzen zero baino handiago
 accessibility-keyboard-issue-action = Elementu interaktiboak teklatua erabiliz aktibatzeko modukoak izan behar dute. <a>Argibide gehiago</a>
 accessibility-keyboard-issue-focusable = Elementu interaktiboak fokua hartzeko gai izan behar dira. <a>Argibide gehiago</a>
 accessibility-keyboard-issue-focus-visible = Fokua har dezakeen elementuak agian fokuaren estiloa falta du. <a>Argibide gehiago</a>
+accessibility-keyboard-issue-mouse-only = Klik egin daitezken elementuek esanahi interaktiboa izan beharko lukete. <a>Argibide gehiago</a>
