@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Taq b'onil…
     .accesskey = T
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Sum
+preferences-default-zoom = Sum k'o wi
+    .accesskey = S
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Sum xa xe pa ri tz'ib'
+    .accesskey = t
 language-header = Ch'ab'äl
 choose-language-description = Ticha' ri ch'ab'äl nawajo' richin yek'ut pe ri taq ruxaq k'amaya'l
 choose-button =

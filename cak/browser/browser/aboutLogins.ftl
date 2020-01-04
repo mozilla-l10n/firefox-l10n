@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Kekanöx Tikirib'äl taq Molojri'ïl
 create-login-button = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon richin { $title }
 fxaccounts-sign-in-text = Ke'ak'ulu' ewan taq kitzij ru ch'aqa' chik taq okisab'äl
 fxaccounts-sign-in-button = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Majun xilitäj achi'el ri nak
 login-list-item-title-new-login = K'ak'a' Tikirib'äl Molojri'ïl
 login-list-item-subtitle-new-login = Ke'atz'ib'aj ri taq retamab'al rutikirib'al molojri'ïl
 login-list-item-subtitle-missing-username = (majun rub'i' okisanel)
-about-logins-list-item-warning-icon =
-    .alt = Ruwachib'al k'ayewal
-    .title = Ajk'amaya'l ruxaq ojqan
 about-logins-list-item-breach-icon =
     .title = Tz'ilan Ajk'amaya'l taq Ruxaq
 
@@ -81,7 +73,6 @@ about-logins-intro-import = We ri rutikirib'al amolojri'ïl yakon pa jun chik ok
 
 login-item-new-login-title = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
 login-item-edit-button = Tinuk'
-login-item-delete-button = Tiyuj
 about-logins-login-item-remove-button = Tiyuj
 login-item-origin-label = Ajk'amaya'l Ochochib'äl
 login-item-origin =
@@ -96,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Tik'ut ewan tzij
 login-item-password-reveal-checkbox-hide =
     .title = Tewäx ewan tzij
+login-item-password-reveal-checkbox =
+    .aria-label = Tik'ut ri ewan tzij
 login-item-copy-password-button-text = Tiwachib'ëx
 login-item-copied-password-button-text = ¡Xwachib'ëx!
 login-item-save-changes-button = Keyak taq Jaloj
@@ -126,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] Titz'et { -sync-brand-short-name } Taq Ajowab'äl
         }
     .accesskey = t
-confirm-delete-dialog-title = ¿La niyuj re rutikirib'al molojri'ïl?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Mani nab'än chik pe re k'utunïk re' chwe
     .accesskey = M
@@ -138,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = Tiq'at
 about-logins-confirm-remove-dialog-title = ¿La niyuj el rutikirib'al re moloj re'?
 confirm-delete-dialog-message = Man nitzolin ta chik re samaj.
-confirm-delete-dialog-confirm-button = Tiyuj
 about-logins-confirm-remove-dialog-confirm-button = Tiyuj
 confirm-discard-changes-dialog-title = ¿La yech'aqïx ri taq jaloj man eyakon ta?
 confirm-discard-changes-dialog-message = Xkesach ronojel ri jaloj man eyakon ta.
@@ -153,11 +144,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = K'o chik jun rokem { $loginTitle } rik'in ri b'i'aj ri'.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
