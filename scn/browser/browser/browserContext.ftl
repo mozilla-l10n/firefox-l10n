@@ -57,8 +57,8 @@ toolbar-button-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .aria-label = Nzinga sta pàggina
-    .accesskey = N
+    .aria-label = Agghiunci sta pàggina ê nzingalibbri
+    .accesskey = n
 main-context-menu-open-link =
     .label = Rapi u lijami
     .accesskey = l
@@ -75,7 +75,7 @@ main-context-menu-open-link-new-private-window =
     .label = Rapi u lijami nta na finestra privata nova
     .accesskey = a
 main-context-menu-bookmark-this-link =
-    .label = Agghiunci stu lijami nnê nzingalibbri
+    .label = Agghiunci stu lijami ê nzingalibbri
     .accesskey = z
 main-context-menu-save-link =
     .label = Sarba u lijami comu…

@@ -71,8 +71,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Cancia
-newtab-menu-open-new-window = Rapi nna na finestra nova
-newtab-menu-open-new-private-window = Rapi nna na finestra privata nova
+newtab-menu-open-new-window = Rapi nta na finestra nova
+newtab-menu-open-new-private-window = Rapi nta na finestra privata nova
 newtab-menu-dismiss = Leva
 newtab-menu-pin = Appuntiḍḍa
 newtab-menu-unpin = Spuntiḍḍa
@@ -94,7 +94,7 @@ newtab-privacy-modal-link = Nzìgnati comu funziona a privatizza nnâ scheda nov
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Cancella nzingalibbru
 # Bookmark is a verb here.
-newtab-menu-bookmark = Nzingalibbru
+newtab-menu-bookmark = Agghiunci ê nzingalibbri
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -152,7 +152,7 @@ newtab-section-header-topsites = Siti principali
 newtab-section-header-highlights = Cchiù mpurtanti
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = Raccumannati di { $provider }
+newtab-section-header-pocket = Cunzigghiati di { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Nzingalibbri">
 
-<!ENTITY bookmarkThisPageCmd.label "Nzinga sta pàggina">
+<!ENTITY bookmarkThisPageCmd.label "Agghiunci sta pàggina ê nzingalibbri">
 <!ENTITY editThisBookmarkCmd.label "Cancia stu nzingalibbru">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -594,10 +594,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label           "Talìa u vidiu">
 <!ENTITY viewBGImageCmd.label         "Talìa a mmàggini ô funnu">
 <!ENTITY setDesktopBackgroundCmd.label      "Mposta comu sfunnu dâ scrivanìa…">
-<!ENTITY bookmarkPageCmd2.label       "Nzinga sta pàggina">
-<!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbri">
+<!ENTITY bookmarkPageCmd2.label       "Agghiunci sta pàggina ê nzingalibbri">
+<!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami ê nzingalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
-<!ENTITY bookmarkThisFrameCmd.label      "Nzinga stu quatru">
+<!ENTITY bookmarkThisFrameCmd.label      "Agghiunci stu quatru ê nzingalibbri">
 <!ENTITY pageAction.copyLink.label    "Copia u lijami">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):

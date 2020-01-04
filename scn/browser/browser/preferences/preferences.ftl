@@ -477,7 +477,7 @@ choose-bookmark =
 home-prefs-content-header = Pàggina mastra di Firefox
 home-prefs-content-description = Scegghi u cuntinutu chi voi nnâ to pàggina mastra di Firefox.
 home-prefs-search-header =
-    .label = Ricerca 'n riti
+    .label = Ricerca nnâ riti
 home-prefs-topsites-header =
     .label = Siti principali
 home-prefs-topsites-description = I siti chi vìsiti cchiù assai
@@ -1110,8 +1110,8 @@ space-alert-over-5gb-message =
        *[other] { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari i dati sarbati nne Prifirenzi > Privatizza e sicurizza > Cookie e dati dî siti.
     }
 space-alert-under-5gb-ok-button =
-    .label = D'accordu, u capivu
-    .accesskey = K
+    .label = D'accordu
+    .accesskey = D
 space-alert-under-5gb-message = { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti dî siti si putìssiru vìdiri mali. Vìsita “Cchiù nfurmazziuna” p'uttimizzari l'usu dû discu pi na megghiu spirienza di navigazziuni.
 
 ## The following strings are used in the Download section of settings
