@@ -215,6 +215,8 @@
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "Remitente">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Para:">
 <!ENTITY ccAddr.label "Cc:">
@@ -223,6 +225,13 @@
 <!ENTITY newsgroupsAddr.label "Grupo de noticias:">
 <!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Asunto:">
+<!ENTITY toAddr2.label "A">
+<!ENTITY ccAddr2.label "Cc">
+<!ENTITY bccAddr2.label "Bcc">
+<!ENTITY replyAddr2.label "Responder a">
+<!ENTITY newsgroupsAddr2.label "Grupo de noticias">
+<!ENTITY followupAddr2.label "Followup-To">
+<!ENTITY subject2.label "Asunto">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.accesskey "j">
 <!ENTITY attachmentBucketHeader.tooltip "Panel de adjuntos">
