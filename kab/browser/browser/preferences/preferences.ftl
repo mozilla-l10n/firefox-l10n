@@ -336,7 +336,7 @@ update-application-title = Ileqman n { -brand-short-name }
 update-application-description = Ḥrez { -brand-short-name } yettwalqem i tmellit ifazen, arkad, akked tɣellist.
 update-application-version = Lqem { $version } <a data-l10n-name="learn-more">D acu i d amaynut</a>
 update-history =
-    .label = Sken-d amazray n ulqqem…
+    .label = Sken-d azray n ulqqem…
     .accesskey = S
 update-application-allow-description = Sireg { -brand-short-name } akken ad
 update-application-auto =
@@ -541,11 +541,11 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Sken-d asumer n unadi uqbel amazray n tunigin deg ugemmuḍ deg ufeggag n tansa
+    .label = Sken-d asumer n unadi uqbel azraynn tunigin deg ugemmuḍ deg ufeggag n tansa
 search-show-suggestions-private-windows =
     .label = Sken isumar n unadi deg isfuyla n tunigin tusligin
 suggestions-addressbar-settings = Beddel ismenyifen i uzray n tunigin, ticraḍ n yisebtar akked isumar n yiccaren
-search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara amazray.
+search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara azray.
 search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti
 search-one-click-desc = Fren imseddayen n unadi-nniḍen ad d-ibanen daw ufeggag n tansa akked ufeggag n unadi m'ara ad tebduḍ ad tsekcameḍ awal n tsarut.
 search-choose-engine-column =
@@ -592,7 +592,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Awi web-inek yid-k
-sync-signedout-description = Semtawi ticraḍ-inek n yisebtar, amazray, accaren, awalen uffiren, izegrar, akked yismenyifen d yibenkan-inek akk.
+sync-signedout-description = Semtawi ticraḍ-inek n yisebtar, azray, accaren, awalen uffiren, izegrar, akked yismenyifen d yibenkan-inek akk.
 sync-signedout-account-title = Qqen ɣer { -fxaccount-brand-name }
 sync-signedout-account-create = Ur tesεiḍ ara amiḍan? Bdu
     .accesskey = A
@@ -686,7 +686,7 @@ sync-engine-bookmarks =
     .label = Ticraḍ n yisebtar
     .accesskey = c
 sync-engine-history =
-    .label = Amazray
+    .label = Azray
     .accesskey = A
 sync-engine-tabs =
     .label = Ldi accaren
@@ -781,7 +781,7 @@ forms-master-pw-fips-desc = Asnifel n wawal uffir agejdan ur yeddi ara
 
 ## Privacy Section - History
 
-history-header = Amazray
+history-header = Azray
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -794,13 +794,13 @@ history-header = Amazray
 history-remember-label = { -brand-short-name } ad
     .accesskey = l
 history-remember-option-all =
-    .label = Ḥrez amazray
+    .label = Ḥrez azray
 history-remember-option-never =
-    .label = Ur ḥerrez ara amazray
+    .label = Ur ḥerrez ara azray
 history-remember-option-custom =
     .label = Seqdec iɣewwaṛen udmawanen i umazray-a
 history-remember-description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
-history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara amazray n tunigin-inek.
+history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
 history-private-browsing-permanent =
     .label = Seqdec yal ass askar n tunigin tusligt
     .accesskey = g
@@ -808,16 +808,16 @@ history-remember-browser-option =
     .label = Cfu ɣef umezruy n tunigin d izdamen
     .accesskey = C
 history-remember-search-option =
-    .label = Ḥrez amazray n unadi d tferkit
+    .label = Ḥrez azray n unadi d tferkit
     .accesskey = u
 history-clear-on-close-option =
-    .label = Sfeḍ amazray ticki tmedleḍ { -brand-short-name }
+    .label = Sfeḍ azray ticki tmedleḍ { -brand-short-name }
     .accesskey = r
 history-clear-on-close-settings =
     .label = Iɣewwaṛen…
     .accesskey = I
 history-clear-button =
-    .label = Sfeḍ amazray…
+    .label = Sfeḍ azray…
     .accesskey = s
 
 ## Privacy Section - Site Data
@@ -870,7 +870,7 @@ sitedata-cookies-permissions =
 addressbar-header = Afeggag n tansa
 addressbar-suggest = Ticki tesqedceḍ afeggag n tansa, sumer
 addressbar-locbar-history-option =
-    .label = Amazray n tunigin
+    .label = Azray n tunigin
     .accesskey = M
 addressbar-locbar-bookmarks-option =
     .label = Ticraḍ n isebtar

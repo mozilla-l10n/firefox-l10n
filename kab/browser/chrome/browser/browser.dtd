@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Awi Firefox yid-k">
-<!ENTITY fxa.signin.description.label "Awi ticraḍ-ik n yisebtar, amazray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.">
+<!ENTITY fxa.signin.description.label "Awi ticraḍ-ik n yisebtar, azray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.">
 <!ENTITY fxa.signin.button.label "Rmed &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
@@ -238,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Ɣer zdat">
 <!ENTITY forwardCmd.accesskey         "Z">
 <!ENTITY forwardButton.tooltip        "Aẓ ɣer zdat s yiwen usebter">
-<!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ amazray">
-<!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ amazray">
+<!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ azray">
+<!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ azray">
 <!ENTITY reloadCmd.label              "Smiren">
 <!ENTITY reloadCmd.accesskey          "M">
 <!ENTITY stopCmd.label                "Seḥbes">
@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ldi agalis MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ɣur-k tisirag-nniḍen akken ad tkecmeḍ ɣeṛ usmel-a web.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-ik i usmelweb-a.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
@@ -292,8 +290,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Tesweḥleḍ anekcum i MIDI γer usmel-agi.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tesweḥleḍ asbeddi n yizegrar i usmel-a.">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ɣur-k tisirag-nniḍen akken ad tkecmeḍ ɣeṛ usmel-a web.">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
+
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Sken azray">
 
 <!ENTITY searchItem.title             "Nadi">
 
@@ -323,7 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Amazray">
+<!ENTITY historyButton.label            "Azray">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ifecka">
@@ -393,7 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "s">
 <!ENTITY logins.label                           "Inekcam d wawalen uffiren">
 
-<!ENTITY clearRecentHistory.label               "Sfeḍ amazray-ik n melmi kan…">
+<!ENTITY clearRecentHistory.label               "Sfeḍ azray-ik n melmi kan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -409,23 +409,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY overflowCustomizeToolbar.label       "Sagen afeggag n yifecka…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
-<!ENTITY historyMenu.label "Amazray">
+<!ENTITY historyMenu.label "Azray">
 <!ENTITY historyMenu.accesskey "A">
 <!ENTITY historyUndoMenu.label "Accaren imedlen melmi kan">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Isfuyla imedlen melmi kan">
 <!ENTITY historyRestoreLastSession.label "Err-d tiɣimit yezrin">
 
-<!ENTITY showAllHistoryCmd2.label "Sken akk amazray">
+<!ENTITY showAllHistoryCmd2.label "Sken akk azray">
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuHistory.showAll.label "Sken akk amazray">
-<!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-ik n melmi kan…">
+<!ENTITY appMenuHistory.showAll.label "Sken akk azray">
+<!ENTITY appMenuHistory.clearRecent.label "Sfeḍ azray-ik n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit yezrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
 <!ENTITY appMenuHistory.hideSidebar.label "Ffer agalis adisan n umazray">
-<!ENTITY appMenuHistory.recentHistory.label "Amazray n melmi kan">
+<!ENTITY appMenuHistory.recentHistory.label "Azray n melmi kan">
 <!ENTITY appMenuHelp.label "Tallelt">
 
 <!ENTITY appMenuRemoteTabs.label "Accaren yemtawin">
@@ -1046,7 +1046,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Mdel">
 
-<!ENTITY panicButton.thankyou.msg1                "Amazray-ik n melmi kan yesfeḍ.">
+<!ENTITY panicButton.thankyou.msg1                "Azray-ik n melmi kan yesfeḍ.">
 <!ENTITY panicButton.thankyou.msg2                "Tunigin igerrzen!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tanemmirt!">
 
@@ -1088,7 +1088,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "Bḍu">
 <!ENTITY pageAction.shareMore.label "Ugar…">
 
-<!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwakelsen, d wayen-nniḍen">
+<!ENTITY libraryButton.tooltip "Sken azray, ticraḍ yettwakelsen, d wayen-nniḍen">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

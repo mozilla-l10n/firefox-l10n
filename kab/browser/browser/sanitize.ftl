@@ -8,12 +8,12 @@ sanitize-prefs =
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Sfeḍ amazray n melmi kan
+    .title = Sfeḍ azray n melmi kan
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = Sfeḍ akk amazray
+    .title = Sfeḍ akk azray
     .style = width: 34em
 clear-data-settings-label = Ticki yemdel, { -brand-short-name } ad yekkes s wudem awurman iferdisen-agi meṛṛa
 
@@ -44,9 +44,9 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
-history-section-label = Amazray
+history-section-label = Azray
 item-history-and-downloads =
-    .label = Amazray n tunigin d isidar
+    .label = Azray n tunigin d isidar
     .accesskey = A
 item-cookies =
     .label = Inagan n tuqqna
@@ -58,7 +58,7 @@ item-cache =
     .label = Tuffirt
     .accesskey = u
 item-form-search-history =
-    .label = Amazray n tferkit d unadi
+    .label = Azray n tferkit d unadi
     .accesskey = m
 data-section-label = Isefka
 item-site-preferences =
@@ -79,7 +79,7 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Amazray ad yettwasfeḍ akk.
+sanitize-everything-warning = Azray ad yettwasfeḍ akk.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

@@ -51,7 +51,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Awi { -brand-product-name } yid-k
-onboarding-sync-welcome-content = Awi ticraḍ-ik n yisebtar, amazray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.
+onboarding-sync-welcome-content = Awi ticraḍ-ik n yisebtar, azray-ik, awalen-ik uffiren d yiɣewwaṛen-nniḍen ɣef ibenkan-ik meṛṛa.
 onboarding-sync-welcome-learn-more-link = Issin ugar ɣef Firefox Accounts
 onboarding-sync-form-input =
     .placeholder = Imayl

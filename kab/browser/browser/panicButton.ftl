@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = Ma tkemmleḍ ad:
 panic-button-delete-cookies = Sfeḍ <strong>inagan n tuqqna</strong> n melmi kan
-panic-button-delete-history = Sfeḍ <strong> amazray </strong> n melmi kan
+panic-button-delete-history = Sfeḍ <strong> azray</strong> n melmi kan
 panic-button-delete-tabs-and-windows = Mdel akk<strong>iccaren</strong> d isfuyla<strong>imeṛṛa</strong>

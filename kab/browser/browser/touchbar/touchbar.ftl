@@ -28,7 +28,7 @@ search-search-in = Nadi di:
 ## Various categories of shortcuts for search.
 
 search-bookmarks = Ticraḍ n isebtar
-search-history = Amazray
+search-history = Azray
 search-opentabs = Lddi icarren
 search-tags = Tibzimin
 search-titles = Izwal
