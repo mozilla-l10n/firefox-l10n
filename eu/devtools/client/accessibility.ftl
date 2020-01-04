@@ -30,7 +30,7 @@ accessibility-text-label-issue-figure = Aukerako epigrafeak dituzten irudiak eti
 accessibility-text-label-issue-fieldset = <code>fieldset</code> elementuak etiketatu egin behar dira. <a>Argibide gehiago</a>
 accessibility-text-label-issue-fieldset-legend2 = Erabili <code>legend</code> elementua <span>fieldset</span> elementua etiketatzeko. <a>Argibide gehiago</a>
 accessibility-text-label-issue-form = Inprimakietako elementuak etiketatu egin behar dira. <a>Argibide gehiago</a>
-accessibility-text-label-issue-form-visible = Inprimakietako elementuetako testu-etiketak ikusteko modukoak izan beharko lirateke. <a>Argibide gehiago</a>
+accessibility-text-label-issue-form-visible = Inprimakietako elementuetako testu-etiketak ikusteko modukoak izan behar lirateke. <a>Argibide gehiago</a>
 accessibility-text-label-issue-frame = <code>frame</code> elementuak etiketatu egin behar dira. <a>Argibide gehiago</a>
 accessibility-text-label-issue-glyph = Erabili <code>alt</code> atributua <span>mglyph</span> elementuak etiketatzeko. <a>Argibide gehiago</a>
 accessibility-text-label-issue-heading = Goiburuak etiketatu egin behar dira. <a>Argibide gehiago</a>
@@ -45,9 +45,9 @@ accessibility-text-label-issue-toolbar = Tresna-barra bat baino gehiago dagoenea
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
-accessibility-keyboard-issue-semantics = Fokua har dezaketen elementuek esanahi interaktiboa izan beharko lukete. <a>Argibide gehiago</a>
+accessibility-keyboard-issue-semantics = Fokua har dezaketen elementuek esanahi interaktiboa izan behar lukete. <a>Argibide gehiago</a>
 accessibility-keyboard-issue-tabindex = Saiatu ez erabiltzen zero baino handiagoa den balioa <code>tabindex</code> atributurako. <a>Argibide gehiago</a>
 accessibility-keyboard-issue-action = Elementu interaktiboak teklatua erabiliz aktibatzeko modukoak izan behar dute. <a>Argibide gehiago</a>
 accessibility-keyboard-issue-focusable = Elementu interaktiboak fokua hartzeko gai izan behar dira. <a>Argibide gehiago</a>
 accessibility-keyboard-issue-focus-visible = Fokua har dezakeen elementuak agian fokuaren estiloa falta du. <a>Argibide gehiago</a>
-accessibility-keyboard-issue-mouse-only = Klik egin daitezken elementuek esanahi interaktiboa izan beharko lukete. <a>Argibide gehiago</a>
+accessibility-keyboard-issue-mouse-only = Klik egin daitezken elementuek esanahi interaktiboa izan behar lukete. <a>Argibide gehiago</a>
