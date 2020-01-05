@@ -57,7 +57,10 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conto actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd2.label "Discargar nove messages sequente">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Inviar le messages non inviate">
+<!ENTITY sendUnsentCmd.accesskey "r">
 <!ENTITY subscribeCmd.label "Subscriber…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Deler dossier">
@@ -74,6 +77,13 @@
 <!ENTITY offlineGoOfflineCmd.label "Laborar disconnexe">
 <!ENTITY offlineGoOfflineCmd.accesskey "d">
 <!ENTITY synchronizeOfflineCmd.label "Discargar/synchronisar ora…">
+<!ENTITY synchronizeOfflineCmd.accesskey "s">
+<!ENTITY settingsOfflineCmd2.label "Parametros offline">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Discargar messages selecte">
+<!ENTITY downloadSelectedCmd.accesskey "D">
+<!ENTITY downloadStarredCmd.label "Discargar messages stellate">
+<!ENTITY downloadStarredCmd.accesskey "s">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">
@@ -85,6 +95,12 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Deler message">
 <!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "Recuperar message">
+<!ENTITY undeleteMsgCmd.accesskey "c">
+<!ENTITY deleteMsgsCmd.label "Deler imagines selecte">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Recuperar messages selecte">
+<!ENTITY undeleteMsgsCmd.accesskey "c">
 <!ENTITY deleteFolderCmd.label "Deler dossier">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "Disabonar se">
@@ -95,6 +111,7 @@
 <!ENTITY all.accesskey "T">
 <!ENTITY selectThreadCmd.label "Filo">
 <!ENTITY selectThreadCmd.accesskey "F">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY menuFavoriteFolder.label "Dossier favorite">
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "Proprietates">
