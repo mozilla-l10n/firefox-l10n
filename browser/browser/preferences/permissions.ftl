@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = Bloquear novas solicitações a perguntar para aceder à sua localização
 permissions-site-location-disable-desc = Isto irá impedir quaisquer sites não listados acima de solicitar permissão para aceder à sua localização. Bloquear o acesso à sua localização pode quebrar algumas funcionalidades dos sites.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Definições - Permissões de realidade virtual
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

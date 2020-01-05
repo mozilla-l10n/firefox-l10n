@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Cores…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom predefinido
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Ampliar apenas o texto
+    .accesskey = t
 language-header = Idioma
 choose-language-description = Escolha o seu idioma preferencial para apresentar as páginas
 choose-button =
@@ -561,6 +570,12 @@ search-keyword-warning-bookmark = Escolheu uma palavra chave que está a ser uti
 ## Containers Section
 
 containers-back-link = « Retroceder
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Voltar às Opções
+           *[other] Voltar às Preferências
+        }
 containers-header = Separadores contentores
 containers-add-button =
     .label = Adicionar novo contentor
@@ -968,6 +983,10 @@ permissions-location = Localização
 permissions-location-settings =
     .label = Definições…
     .accesskey = f
+permissions-xr = Realidade virtual
+permissions-xr-settings =
+    .label = Definições...
+    .accesskey = f
 permissions-camera = Câmara
 permissions-camera-settings =
     .label = Definições…
@@ -1016,6 +1035,7 @@ permissions-a11y-privacy-link = Saber mais
 collection-header = Recolha de dados e utilização do { -brand-short-name }
 collection-description = Nós esforçamos-nos para lhe fornecer escolhas e recolher apenas o que precisamos para fornecer e melhorar o { -brand-short-name } para toda a gente. Pedimos sempre permissão antes de receber informação pessoal.
 collection-privacy-notice = Aviso de privacidade
+collection-health-report-telemetry-disabled-link = Saber mais
 collection-health-report =
     .label = Permitir ao { -brand-short-name } enviar dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r

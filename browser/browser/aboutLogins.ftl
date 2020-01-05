@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Pesquisar credenciais
 create-login-button = Criar nova credencial
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon para { $title }
 fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
 fxaccounts-sign-in-button = Iniciar sessão no { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Não foram encontrados result
 login-list-item-title-new-login = Nova credencial
 login-list-item-subtitle-new-login = Introduza as suas credenciais
 login-list-item-subtitle-missing-username = (sem nome de utilizador)
-about-logins-list-item-warning-icon =
-    .alt = Ícone de aviso
-    .title = Site invadido
 about-logins-list-item-breach-icon =
     .title = Site invadido
 
@@ -81,7 +73,6 @@ about-logins-intro-import = Se as suas credenciais estão guardadas noutro naveg
 
 login-item-new-login-title = Criar nova credencial
 login-item-edit-button = Editar
-login-item-delete-button = Apagar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do site
 login-item-origin =
@@ -96,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Mostrar palavra-passe
 login-item-password-reveal-checkbox-hide =
     .title = Ocultar palavra-passe
+login-item-password-reveal-checkbox =
+    .aria-label = Mostrar palavra-passe
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiada!
 login-item-save-changes-button = Guardar alterações
@@ -126,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] Visitar as preferências do { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Apagar esta credencial?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Não voltar a perguntar
     .accesskey = N
@@ -138,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = Remover esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
-confirm-delete-dialog-confirm-button = Apagar
 about-logins-confirm-remove-dialog-confirm-button = Remover
 confirm-discard-changes-dialog-title = Descartar alterações não guardadas?
 confirm-discard-changes-dialog-message = Todas as alterações não guardadas irão ser perdidas.
@@ -153,11 +144,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Já existe uma entrada com esse nome de utilizador para { $loginTitle }.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
