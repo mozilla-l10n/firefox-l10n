@@ -175,7 +175,7 @@
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordigi laŭ">
-<!ENTITY sortMenu.accesskey "O">
+<!ENTITY sortMenu.accesskey "l">
 <!ENTITY sortByDateCmd.label "dato">
 <!ENTITY sortByDateCmd.accesskey "d">
 <!ENTITY sortByReceivedCmd.label "dato de ricevo">
@@ -236,7 +236,7 @@
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Mesaĝkapoj">
-<!ENTITY headersMenu.accesskey "k">
+<!ENTITY headersMenu.accesskey "s">
 <!ENTITY headersAllCmd.label "ĉiuj">
 <!ENTITY headersAllCmd.accesskey "j">
 <!ENTITY headersNormalCmd.label "normaj">
@@ -261,18 +261,18 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "implicitajn formojn">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "i">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Display Attachments Inline">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.label "Montri kunsendaĵojn en enhavo de mesaĝo">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "k">
 
-<!ENTITY pageSourceCmd.label "Message Source">
+<!ENTITY pageSourceCmd.label "Fonto de la mesaĝo">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
-<!ENTITY findMenu.label "Find">
-<!ENTITY findMenu.accesskey "F">
+<!ENTITY findMenu.label "Serĉi">
+<!ENTITY findMenu.accesskey "S">
 <!ENTITY findCmd.label "Find in This Message…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
