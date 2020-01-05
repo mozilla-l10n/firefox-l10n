@@ -32,14 +32,14 @@ clear-site-data-cookies-info = Putissi èssiri scullijatu dî siti si veni canci
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
     .label = Cuntinutu di riti nnâ cache ({ $amount } { $unit })
-    .accesskey = W
+    .accesskey = h
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Cuntinutu nnâ cache
+    .label = Cuntinutu di riti nnâ cache
     .accesskey = h
 clear-site-data-cache-info = Cci sarà bisognu ca i siti ricàrricanu mmàggini e dati
 clear-site-data-cancel =

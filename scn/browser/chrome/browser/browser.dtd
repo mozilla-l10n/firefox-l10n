@@ -36,7 +36,9 @@ unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "S">
 <!ENTITY  sendPageToDevice.label             "Manna a pàggina ô dispusitivu">
+<!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "Manna u lijami ô dispusitivu">
+<!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  undoCloseTab.label                 "Sfai Chiuji scheda">
 <!ENTITY  undoCloseTab.accesskey             "S">
 <!ENTITY  hiddenTabs.label                   "Schedi ammucciati">
@@ -47,23 +49,26 @@ in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Cerca nnê schedi">
 
 <!ENTITY tabCmd.label "Nova scheda">
+<!ENTITY tabCmd.accesskey "s">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Rapi nnirizzu…">
 <!ENTITY openFileCmd.label "Rapi pricu…">
-<!ENTITY openFileCmd.accesskey "G">
+<!ENTITY openFileCmd.accesskey "R">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Mposta pàggina…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printPreviewCmd.label "Antiprima di stampa">
+<!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printCmd.label "Stampa…">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
 <!ENTITY importFromAnotherBrowserCmd.label "Mporta di n'autru navigaturi…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "M">
 
+<!ENTITY taskManagerCmd.label "Gisturi attività">
 
 <!ENTITY goOfflineCmd.label "Travagghia sculligatu">
 <!ENTITY goOfflineCmd.accesskey "g">
@@ -205,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "Sta pàggini teni cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.">
 
 <!ENTITY closeWindow.label "Chiuji finestra">
-<!ENTITY closeWindow.accesskey "d">
+<!ENTITY closeWindow.accesskey "f">
 
 <!ENTITY bookmarksMenu.label "Nzingalibbri">
 
@@ -327,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Diviluppaturi Web">
+<!ENTITY webDeveloperMenu.accesskey   "D">
 
 <!ENTITY inspectContextMenu.label     "Cuntrolla cumpunenti">
 
@@ -362,12 +369,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "N">
 <!ENTITY deleteCmd.label          "Cancella">
 <!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "S">
+<!ENTITY deleteCmd.accesskey        "C">
 <!ENTITY selectAllCmd.label         "Scegghi tuttu">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "t">
 <!ENTITY preferencesCmd2.label       "Prifirenzi">
-<!ENTITY preferencesCmd2.accesskey     "U">
+<!ENTITY preferencesCmd2.accesskey     "P">
 <!ENTITY preferencesCmdUnix.label       "Prifirenzi">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "Accessi e chiavi">
@@ -683,9 +690,13 @@ fast. -->
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Mustra i cummani">
+<!ENTITY videoFullScreen.label       "Tuttu schirmu">
+<!ENTITY videoFullScreen.accesskey   "T">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Mustra i statìstichi">
+<!ENTITY videoHideStats.label        "Ammuccia i statìstichi">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -711,12 +722,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Sulu u testu cchiù granni">
 
+<!ENTITY fullZoom.label                 "Grannizza">
+<!ENTITY fullZoom.accesskey             "G">
 
 <!ENTITY sidebarCloseButton.tooltip     "Chiuji a sbarra di ciancu">
 <!ENTITY sidebarMenuClose.label         "Chiuji a sbarra di ciancu">
 
+<!ENTITY quitApplicationCmdWin2.label       "Nesci">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Nesci di &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Nesci">
+<!ENTITY quitApplicationCmd.accesskey   "N">
+<!ENTITY quitApplicationCmdMac2.label   "Nesci di &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Chiuji">
@@ -725,6 +743,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY toggleMuteCmd.key              "M">
 
+<!ENTITY pageStyleMenu.label "Stili dâ pàggina">
+<!ENTITY pageStyleNoStyle.label "Nuḍḍu stili">
+<!ENTITY pageStylePersistentOnly.label "Stili di basi">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
