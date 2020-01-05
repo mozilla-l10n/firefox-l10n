@@ -9,27 +9,27 @@
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Dosiero">
 <!ENTITY fileMenu.accesskey                             "D">
-<!ENTITY newMenu.label                                  "Krei">
-<!ENTITY newMenu.accesskey                              "K">
-<!ENTITY newContact.label                               "Kontakton…">
-<!ENTITY newContact.accesskey                           "K">
+<!ENTITY newMenu.label                                  "Nova">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newContact.label                               "kontakto…">
+<!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Dissendoliston…">
-<!ENTITY newListCmd.accesskey                           "D">
-<!ENTITY newAddressBookCmd.label                        "Adresaron…">
-<!ENTITY newAddressBookCmd.accesskey                    "A">
-<!ENTITY newLDAPDirectoryCmd.label                      "Katalogon LDAP…">
+<!ENTITY newListCmd.label                               "dissendolisto…">
+<!ENTITY newListCmd.accesskey                           "d">
+<!ENTITY newAddressBookCmd.label                        "adresaro…">
+<!ENTITY newAddressBookCmd.accesskey                    "a">
+<!ENTITY newLDAPDirectoryCmd.label                      "katalogo LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
-<!ENTITY newMessageCmd.label                            "Mesaĝon…">
+<!ENTITY newMessageCmd.label                            "mesaĝo">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "M">
+<!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Uzi adresaron Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "X">
 <!ENTITY closeCmd.label                                 "Fermi">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Agordoj de paĝo…">
+<!ENTITY printSetupCmd.label                            "Agordoj pri paĝo…">
 <!ENTITY printSetupCmd.accesskey                        "p">
 <!ENTITY printPreviewContactCmd.label                   "Antaŭvidi presadon de kontakto">
 <!ENTITY printPreviewContactCmd.accesskey               "o">
@@ -127,7 +127,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addressBookCmd.label                           "Adresaro">
 <!ENTITY addressBookCmd.accesskey                       "A">
 <!ENTITY addressBookCmd.key                             "B">
-<!ENTITY searchAddressesCmd.label                       "Serĉi en kontaktoj…">
+<!ENTITY searchAddressesCmd.label                       "Serĉi kontaktojn…">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "Enporti…">
 <!ENTITY importCmd.accesskey                            "n">
