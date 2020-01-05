@@ -249,6 +249,8 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "plattekstojn">
 <!ENTITY bodyAsPlaintext.accesskey "p">
+<!ENTITY bodyAllParts.label "ĉiujn partojn de enhavo">
+<!ENTITY bodyAllParts.accesskey "j">
 
 <!ENTITY bodyMenuFeed.label "Vidigi artikolojn kiel">
 <!ENTITY bodyMenuFeed.accesskey "V">
