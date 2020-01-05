@@ -216,6 +216,8 @@
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Grupigitaj">
 <!ENTITY groupBySort.accesskey "G">
+<!ENTITY msgsMenu.label "Mesaĝoj">
+<!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Fadenoj">
 <!ENTITY threads.accesskey "F">
 <!ENTITY allMsgsCmd.label "ĉiuj">
@@ -289,7 +291,7 @@
 <!ENTITY searchAddressesCmd.accesskey "S">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Go">
+<!ENTITY goMenu.label "Iri">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY nextMenu.label "Next">
 <!ENTITY nextMenu.accesskey "N">
