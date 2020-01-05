@@ -292,9 +292,9 @@
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Iri">
-<!ENTITY goMenu.accesskey "G">
-<!ENTITY nextMenu.label "Next">
-<!ENTITY nextMenu.accesskey "N">
+<!ENTITY goMenu.accesskey "I">
+<!ENTITY nextMenu.label "Sekva">
+<!ENTITY nextMenu.accesskey "S">
 <!ENTITY nextMsgCmd.label "Message">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
