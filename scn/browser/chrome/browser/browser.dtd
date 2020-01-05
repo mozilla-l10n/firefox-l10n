@@ -646,14 +646,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
+<!ENTITY copyLinkCmd.accesskey        "l">
 <!ENTITY copyImageCmd.label           "Copia nnirizzu dâ mmàggini">
 <!ENTITY copyImageContentsCmd.label   "Copia a mmàggini">
 <!ENTITY copyVideoURLCmd.label        "Copia nnirizzu dû vidiu">
 <!ENTITY copyAudioURLCmd.label        "Copia nnirizzu dû sonu">
-<!ENTITY copyEmailCmd.label           "Copia u nnirizzu email">
+<!ENTITY copyEmailCmd.label           "Copia u nnirizzu e-mail">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
+<!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Stu quatru">
 <!ENTITY thisFrameMenu.accesskey          "t">
 

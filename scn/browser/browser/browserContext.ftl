@@ -89,7 +89,7 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = Copia u nnirizzu email
+    .label = Copia u nnirizzu e-mail
     .accesskey = C
 main-context-menu-copy-link =
     .label = Copia u lijami

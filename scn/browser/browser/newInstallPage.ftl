@@ -21,7 +21,7 @@ support-link = Usari u Gisturi di prufilu - Artìculu di supportu
 sync-header = Trasi o fai un { -fxaccount-brand-name }
 sync-label = Metti u to nnirizzu e-mail
 sync-input =
-    .placeholder = Email
+    .placeholder = Nnirizzu e-mail
 sync-button = Cuntinua
 sync-terms = Cuntinuannu, accetti i <a data-l10n-name="terms">tèrmini di sirbizzu</a> e l'<a data-l10n-name="privacy">abbisu di privatizza</a>.
 sync-first = È a prima vota ca usi { -sync-brand-name }? Ài bisognu di tràsiri nna ogni nzitamentu di Firefox pi sincrunizzari i to nfurmazziuna.

@@ -46,7 +46,7 @@ policy-DisableTelemetry = Astuta a Telimitrìa.
 policy-DisplayBookmarksToolbar = Mustra a sbarra dî nzingalibbri comu mpustazziuni pridifinuta.
 policy-DisplayMenuBar = Mustra a Barra dû minù comu mpustazziuni pridifinuta.
 policy-DNSOverHTTPS = Cunfijura u DNS ncapu a HTTPS.
-policy-DontCheckDefaultBrowser = Disabbìlita u cuntrollu dû browser pridifinutu all'abbìu.
+policy-DontCheckDefaultBrowser = Disabbìlita u cuntrollu dû navigaturi pridifinutu all'abbìu.
 policy-DownloadDirectory = Mposta e blocca a carpetta di scarricamentu.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Abbìlita o disabbìlita u Bloccu dî cuntinuti e si voi blòccalu.
