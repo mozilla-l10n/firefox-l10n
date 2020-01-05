@@ -1035,6 +1035,7 @@ permissions-a11y-privacy-link = Saber mais
 collection-header = Recolha de dados e utilização do { -brand-short-name }
 collection-description = Nós esforçamos-nos para lhe fornecer escolhas e recolher apenas o que precisamos para fornecer e melhorar o { -brand-short-name } para toda a gente. Pedimos sempre permissão antes de receber informação pessoal.
 collection-privacy-notice = Aviso de privacidade
+collection-health-report-telemetry-disabled = Deixou de permitir que o { -vendor-short-name } recolha dados técnicos e de interação. Todos os dados anteriores serão eliminados dentro de 30 dias.
 collection-health-report-telemetry-disabled-link = Saber mais
 collection-health-report =
     .label = Permitir ao { -brand-short-name } enviar dados técnicos e de interação para a { -vendor-short-name }
