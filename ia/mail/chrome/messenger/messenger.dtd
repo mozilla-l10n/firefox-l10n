@@ -112,12 +112,22 @@
 <!ENTITY selectThreadCmd.label "Filo">
 <!ENTITY selectThreadCmd.accesskey "F">
 <!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Messages stellate">
+<!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Dossier favorite">
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "Proprietates">
 <!ENTITY folderPropsFolderCmd2.label "Proprietates del dossier">
 <!ENTITY folderPropsNewsgroupCmd2.label "Proprietates del gruppo">
 <!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY undoDeleteMsgCmd.label "Disfacer deler message">
+<!ENTITY redoDeleteMsgCmd.label "Refacer deler message">
+<!ENTITY undoMoveMsgCmd.label "Disfacer mover message">
+<!ENTITY redoMoveMsgCmd.label "Refacer mover message">
+<!ENTITY undoCopyMsgCmd.label "Disfacer copiar message">
+<!ENTITY redoCopyMsgCmd.label "Refacer copiar message">
+<!ENTITY undoMarkAllCmd.label "Disfacer marcar toto como legite">
+<!ENTITY redoMarkAllCmd.label "Refacer marcar toto como legite">
 <!ENTITY undoDefaultCmd.label "Disfacer">
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refacer">
@@ -126,15 +136,25 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
+<!ENTITY showMessengerToolbarCmd.label "Barra del utensiles del emailes">
+<!ENTITY showMessengerToolbarCmd.accesskey "u">
 <!ENTITY customizeToolbar.label "Personalisar…">
 <!ENTITY customizeToolbar.accesskey "C">
 
 <!ENTITY messagePaneLayoutStyle.label "Disposition">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
+<!ENTITY messagePaneClassic.label "Visualisation classic">
+<!ENTITY messagePaneClassic.accesskey "c">
+<!ENTITY messagePaneWide.label "Visualisation large">
+<!ENTITY messagePaneWide.accesskey "l">
+<!ENTITY messagePaneVertical.label "Visualisation vertical">
+<!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showFolderPaneCmd.label "Pannello de dossiers">
 <!ENTITY showFolderPaneCmd.accesskey "o">
 <!ENTITY showFolderPaneColsCmd.label "Columnas del pannello de dossiers">
 <!ENTITY showFolderPaneColsCmd.accesskey "p">
+<!ENTITY showMessageCmd.label "Pannello de message">
+<!ENTITY showMessageCmd.accesskey "m">
 
 <!ENTITY folderView.label "Dossiers">
 <!ENTITY folderView.accesskey "P">
@@ -148,21 +168,83 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recente">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Visualisation compacte">
+<!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Barra del pannello de dossiers">
 <!ENTITY folderPaneBar.accesskey "B">
 
 <!-- Sort Menu -->
+<!ENTITY sortMenu.label "Ordinar per">
+<!ENTITY sortMenu.accesskey "O">
+<!ENTITY sortByDateCmd.label "Data">
+<!ENTITY sortByDateCmd.accesskey "a">
+<!ENTITY sortByReceivedCmd.label "Recipite">
+<!ENTITY sortByReceivedCmd.accesskey "p">
+<!ENTITY sortByStarCmd.label "Stellas">
+<!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Annexos">
 <!ENTITY sortByAttachmentsCmd.accesskey "x">
+<!ENTITY sortByPriorityCmd.label "Prioritate">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Dimension">
+<!ENTITY sortBySizeCmd.accesskey "s">
+<!ENTITY sortByStatusCmd.label "Stato">
+<!ENTITY sortByStatusCmd.accesskey "o">
+<!ENTITY sortByTagsCmd.label "Etiquettas">
+<!ENTITY sortByTagsCmd.accesskey "q">
 <!ENTITY sortByJunkStatusCmd.label "Stato indesirate">
 <!ENTITY sortByJunkStatusCmd.accesskey "I">
+<!ENTITY sortBySubjectCmd.label "Subjecto">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortByFromCmd.label "De">
+<!ENTITY sortByFromCmd.accesskey "D">
+<!ENTITY sortByRecipientCmd.label "Destinatario">
+<!ENTITY sortByRecipientCmd.accesskey "s">
+<!ENTITY sortByCorrespondentCmd.label "Correspondentes">
+<!ENTITY sortByCorrespondentCmd.accesskey "n">
+<!ENTITY sortByUnreadCmd.label "Legite">
+<!ENTITY sortByUnreadCmd.accesskey "L">
+<!ENTITY sortByOrderReceivedCmd.label "Ordine recipite">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "Ascendente">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Descendente">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "In argumento">
+<!ENTITY sortThreaded.accesskey "a">
+<!ENTITY sortUnthreaded.label "Non in argumento">
+<!ENTITY sortUnthreaded.accesskey "n">
+<!ENTITY groupBySort.label "Gruppate per ordine">
+<!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Messages">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Filos">
 <!ENTITY threads.accesskey "i">
 <!ENTITY allMsgsCmd.label "Toto">
 <!ENTITY allMsgsCmd.accesskey "T">
+<!ENTITY expandAllThreadsCmd.label "Expander tote le argumentos">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Collaber tote le argumentos">
+<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Non legite">
+<!ENTITY unreadMsgsCmd.accesskey "N">
 
+<!ENTITY headersMenu.label "Capites">
+<!ENTITY headersMenu.accesskey "C">
+<!ENTITY headersAllCmd.label "Toto">
+<!ENTITY headersAllCmd.accesskey "T">
+<!ENTITY headersNormalCmd.label "Normal">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Corpore del message como">
+<!ENTITY bodyMenu.accesskey "C">
+<!ENTITY bodyAllowHTML.label "HTML original">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "HTML simple">
+<!ENTITY bodySanitized.accesskey "s">
+<!ENTITY bodyAsPlaintext.label "Texto simple">
+<!ENTITY bodyAsPlaintext.accesskey "s">
 
 <!ENTITY bodyMenuFeed.label "Corpore del message de fluxo como">
 <!ENTITY bodyMenuFeed.accesskey "C">
@@ -178,8 +260,20 @@
 
 
 <!-- Search Menu -->
+<!ENTITY findAgainCmd.label "Cercar ancora">
+<!ENTITY findAgainCmd.accesskey "c">
+<!ENTITY findAgainCmd.key "c">
+<!ENTITY searchMailCmd.label "Cercar messages…">
+<!ENTITY searchMailCmd.accesskey "m">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Cercar adresses…">
+<!ENTITY searchAddressesCmd.accesskey "C">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Ir">
+<!ENTITY goMenu.accesskey "I">
+<!ENTITY nextMenu.label "Sequente">
+<!ENTITY nextMenu.accesskey "n">
 <!ENTITY goForwardCmd.label "Reinviar">
 <!ENTITY goForwardCmd.accesskey "R">
 <!ENTITY goForwardCmd.commandKey "]">
