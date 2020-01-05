@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Criar uma nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar tarefas concluídas">
 
 <!ENTITY calendar.today.button.label          "Hoje">
@@ -178,7 +179,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Assistência">
 <!ENTITY calendar.context.attendance.menu.accesskey             "s">
 <!ENTITY calendar.context.attendance.occurrence.label           "Esta ocorrência">
-<!ENTITY calendar.context.attendance.all2.label                 "Completar a série">
+<!ENTITY calendar.context.attendance.all2.label                 "Série Completa">
 <!ENTITY calendar.context.attendance.send.label                 "Enviar uma notificação agora">
 <!ENTITY calendar.context.attendance.send.accesskey             "E">
 <!ENTITY calendar.context.attendance.dontsend.label             "Não enviar uma notificação">
