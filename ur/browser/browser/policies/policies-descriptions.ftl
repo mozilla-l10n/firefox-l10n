@@ -42,6 +42,7 @@ policy-EnableTrackingProtection = مواد روکنے کو فعال یا غیر 
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = ایکسٹنشن کو انسٹال، ان انسٹال یا لاک کریں۔ انسٹال اختیارات URL یا پاتھ کو بطور پیرامیٹر لیتا ہے۔ ان انسٹال یا لاک کے اختیار ایکسٹنش آئی ڈی کے تحت کام کرتے ہیں۔
+policy-ExtensionSettings = ایکسٹینشن کی تنصیب کے تمام پہلوؤں کو بندرست کریں کریں۔
 policy-FlashPlugin = Flash پلگ ان کے استعمال کا اجازت دینے یا انکار کریں۔
 policy-HardwareAcceleration = غلط ہونے کی صورت میں ہارڈویئر تیز رفتاری کو بند کریں۔
 # “lock” means that the user won’t be able to change this setting

@@ -261,8 +261,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM سافٹ ویئر کہ استعمال کو بندوبست کریں">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI پینل کھولیں">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "آپ نے اس ویب سائٹ کے لیئے کیمرہ بلاک کیا ہوا ہے">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "آپ نے اس ویب سائٹ کے لیئے مائیکروفون بلاک کیا ہوا ہے۔">
 <!ENTITY urlbar.screenBlocked.tooltip            "آپ نے اس ویب سائٹ کو سکرین کا اشتراک کرنے سے بلاک کیا ہے">
@@ -274,6 +272,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "آپنے اس ویب سائٹ کے لئے کینوس کوائف ماحصل بلاک کر دی ہیں۔">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "آپنے اس ویب سائٹ کو Adobe Flash plugin استعمال کرنے سے بلاک کر دیا ہیں۔">
 <!ENTITY urlbar.midiBlocked.tooltip              "آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "سابقات دکھائیں">
@@ -730,7 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "باہر زوم">
+<!ENTITY fullZoomReduceCmd.label        "باہر زوم کریں">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">

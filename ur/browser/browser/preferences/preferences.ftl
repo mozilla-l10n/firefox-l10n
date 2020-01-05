@@ -177,8 +177,13 @@ colors-settings =
     .accesskey = C
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = زوم
+preferences-default-zoom = طے شدہ زوم
+    .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = ْصرف متن زوم کریں
+    .accesskey = t
 language-header = زبان
 choose-language-description = صفحہ دکھانے کے لیے اپنی زبان چنیں
 choose-button =
