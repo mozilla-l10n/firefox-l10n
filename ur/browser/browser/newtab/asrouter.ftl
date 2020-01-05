@@ -65,6 +65,9 @@ cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
 
 cfr-doorhanger-bookmark-fxa-header = ہر جگہ اپنے بک مارکس کی ہمہ وقت سازی کریں
 cfr-doorhanger-bookmark-fxa-link-text = ابھی بک مارک کی ہہمہ وقت سازی کریں…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = بٹن بند کریں
+    .title = بند کریں
 
 ## Protections panel
 
