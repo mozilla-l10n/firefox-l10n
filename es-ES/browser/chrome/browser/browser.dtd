@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.settings.label "Ajustes">
 <!ENTITY fxa.menu.accountSettings.label "Ajustes de la cuenta">
+<!ENTITY fxa.menu.manageAccount2.label "Administrar cuenta">
 <!ENTITY fxa.menu.signOut.label "Cerrar sesión…">
 <!ENTITY fxa.menu.deviceSettings.label "Ajustes del dispositivo">
 <!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Detener">
 <!ENTITY stopCmd.accesskey            "D">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ir a la URL de la barra de direcciones">
 <!ENTITY printButton.label            "Imprimir">
@@ -275,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso de software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir el panel MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ha concedido permisos adicionales a este sitio web.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado su cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado su micrófono para este sitio web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ha impedido que este sitio web comparta su pantalla.">
@@ -289,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ha bloqueado que este sitio web utilice el plugin de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ha bloqueado el acceso al MIDI para este sitio web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ha bloqueado la instalación de complementos para este sitio web.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ha concedido permisos adicionales a este sitio web.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "E">
 
 <!ENTITY openLinkCmdInTab.label       "Abrir enlace en una pestaña nueva">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Abrir enlace en una ventana nueva">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "A">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recargar marco">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Guardar como…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "d">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Guardar marco como…">
 <!ENTITY saveFrameCmd.accesskey       "G">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar dirección del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Buscar en esta página…">
