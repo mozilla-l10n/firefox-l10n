@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "General">
 
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
@@ -15,4 +16,25 @@ sentence. -->
 
 
 <!ENTITY  dummyNotification.label             "sin information">
+<!ENTITY  chatSound.label                     "Reproducer un sono">
+<!ENTITY  play.label                          "Reproducer">
+<!ENTITY  play.accesskey                      "R">
+<!ENTITY  systemSound.label                   "Sono predefinite de systema pro nove email">
+<!ENTITY  systemSound.accesskey               "P">
+<!ENTITY  customsound.label                   "Utilisar le file sonor sequente">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "Foliettar…">
+<!ENTITY  browse.accesskey                    "F">
 
+<!ENTITY messageStylePreview.label         "Vista preliminar:">
+<!ENTITY messageStyleTheme.label           "Thema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bullas">
+<!ENTITY messageStyleDarkTheme.label       "Obscur">
+<!ENTITY messageStyleSimpleTheme.label     "Simple">
+<!ENTITY messageStyleDefaultTheme.label    "Predefinite">
+<!ENTITY messageStyleVariant.label         "Variante:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Monstrar capite">
+<!ENTITY messageStyleShowHeader.accesskey  "c">
