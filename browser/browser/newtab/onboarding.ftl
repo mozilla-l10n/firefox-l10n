@@ -19,19 +19,21 @@ onboarding-button-label-get-started = Per començar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
+onboarding-welcome-form-header = Començatz aquí
 onboarding-join-form-continue = Contunhar
 onboarding-start-browsing-button-label = Començar de navegar
 onboarding-cards-dismiss =
     .title = Tirar
     .aria-label = Tirar
 
+## Welcome full page string
+
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Emportatz { -brand-product-name } amb vos
 onboarding-sync-welcome-content = Accedissètz als marcapaginas, istoric, senhals d’autres paramètres de totes vòstres periferics.
 onboarding-sync-welcome-learn-more-link = Mai d’explicacions tocant los comptes Firefox
-onboarding-sync-form-invalid-input = Cal una adreça electronica valida
-onboarding-sync-legal-notice = Se contunhatz, acceptatz las <a data-l10n-name="terms">Condicions d’utilizacion</a> e l’<a data-l10n-name="privacy">Avís de privacitat</a>.
 onboarding-sync-form-input =
     .placeholder = Adreça electronica
 onboarding-sync-form-continue-button = Contunhar
@@ -63,6 +65,8 @@ onboarding-ghostery-title = Ghostery
 onboarding-fxa-title = Sincronizar
 onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
 onboarding-tracking-protection-button2 = Cossí fonciona
+onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
+onboarding-firefox-send-button = Ensajatz { -send-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 

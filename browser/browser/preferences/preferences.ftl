@@ -380,6 +380,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Començar la recèrca en picar lo tèxte
     .accesskey = x
+browsing-picture-in-picture-learn-more = Ne saber mai
 browsing-cfr-recommendations-learn-more = Ne saber mai
 
 ## General Section - Proxy
@@ -581,6 +582,18 @@ sync-signedin-settings-desc = Causir çò que cal sincronizar per vòstres perif
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Marcapaginas
+sync-currently-syncing-history = Istoric
+sync-currently-syncing-tabs = Onglets dobèrts
+sync-currently-syncing-logins-passwords = Identificants e senhals
+sync-currently-syncing-addresses = Adreças
+sync-currently-syncing-creditcards = Cartas de crèdit
+sync-currently-syncing-addons = Moduls complementaris
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opcions
+       *[other] Preferéncias
+    }
 
 ## The "Choose what to sync" dialog.
 
@@ -651,6 +664,7 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
+forms-breach-alerts-learn-more-link = Ne saber mai
 forms-saved-logins =
     .label = Identificants salvats…
     .accesskey = S

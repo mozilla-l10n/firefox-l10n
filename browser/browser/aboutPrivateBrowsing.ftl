@@ -22,5 +22,10 @@ about-private-browsing =
     .title = Recèrca sul web
 about-private-browsing-not-private = Pel moment, sètz pas dins una fenèstra de navegacion privada.
 content-blocking-title = Blocatge de contengut
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } es vòstre motor de recèrca per defaut en navegacion privada
 about-private-browsing-search-banner-close-button =
     .aria-label = Tampar

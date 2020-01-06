@@ -121,6 +121,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Normal
     .accesskey = N
+menu-view-full-zoom-actual-size =
+    .label = Talha reala
+    .accesskey = a
 menu-view-full-zoom-toggle =
     .label = Zoom tèxte solament
     .accesskey = x
@@ -150,7 +153,7 @@ menu-view-full-screen =
     .label = Ecran complet
     .accesskey = p
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Afichar totes los onglets
@@ -206,15 +209,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Moduls complementaris
     .accesskey = e
-menu-tools-sync-sign-in =
-    .label = Se connectar a { -sync-brand-short-name }
-    .accesskey = Y
 menu-tools-sync-now =
     .label = Sincronizar ara
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Se reconnectar a { -sync-brand-short-name }…
-    .accesskey = r
 menu-tools-web-developer =
     .label = Desvolopaire web
     .accesskey = w
@@ -273,8 +270,7 @@ menu-help-safe-mode-with-addons =
     .label = Reaviar, moduls activats…
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Senhalar un site enganaire…
     .accesskey = S
