@@ -50,7 +50,12 @@ master-password-notification-message = Picatz vòstre senhal màger per veire lo
 confirmation-dialog-cancel-button = Anullar
 confirmation-dialog-dismiss-button =
     .title = Anullar
+about-logins-confirm-remove-dialog-title = Suprimir aqueste identificant ?
+confirm-delete-dialog-message = Aquesta accion es irreversibla.
 about-logins-confirm-remove-dialog-confirm-button = Suprimir
+confirm-discard-changes-dialog-title = Ignorar las modificacions pas enregistradas ?
+confirm-discard-changes-dialog-message = Totas las modificacions pas enregistradas seràn perdudas.
+confirm-discard-changes-dialog-confirm-button = Ignorar
 
 ## Breach Alert notification
 

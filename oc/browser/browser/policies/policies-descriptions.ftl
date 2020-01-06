@@ -51,7 +51,8 @@ policy-Permissions = Configurar las autorizacions per la camèra, lo microfòn, 
 policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
 policy-Proxy = Configura los paramètres del servidor mandatari.
 policy-RequestedLocales = Definís la lista de las lengas demandadas per l’aplicacion dins l‘òrdre de preferéncia.
-policy-SanitizeOnShutdown = Suprimís totas las donadas de navigacion a la tampadura.
 policy-SearchBar = Definís l’emplaçament per defaut de la barra de recèrca. L’utilizaire garda la possibilitat de personalizar aquò.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permet d’installar de moduls PKCS #11.
+policy-SSLVersionMax = Definir la version maximala de SSL a utilizar
+policy-SSLVersionMin = Definir la version minimala de SSL a utilizar

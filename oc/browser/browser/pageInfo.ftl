@@ -149,6 +149,26 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Utilizar las valors per defaut
 security-no-visits = Non
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Non
+        [one] Òc, un còp
+       *[other] Òc, { $visits } còps
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } Ko ({ $bytes } octet)
+           *[other] { $kb } Ko ({ $bytes } octets)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

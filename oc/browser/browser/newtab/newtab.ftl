@@ -45,7 +45,7 @@ newtab-topsites-save-button = Enregistrar
 newtab-topsites-preview-button = Apercebut
 newtab-topsites-add-button = Apondre
 
-## Top Sites - Delete history confirmation dialog. 
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Volètz vertadièrament suprimir l’istoric de totas las instàncias d’aquesta pagina ?
 # "This action" refers to deleting a page from history.
@@ -80,12 +80,18 @@ newtab-menu-delete-history = Suprimir de l’istoric
 newtab-menu-save-to-pocket = Enregistrar dins { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimir de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Suprimir lo marcapagina
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marcar aquesta pagina
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Copiar lo ligam de telecargament
@@ -109,11 +115,12 @@ newtab-menu-open-file = Dobrir lo fichièr
 
 newtab-label-visited = Visitat
 newtab-label-bookmarked = Apondut als marcapaginas
+newtab-label-removed-bookmark = Marcapaginas suprimit
 newtab-label-recommended = Tendéncia
 newtab-label-saved = Pagina enregistrada dins { -pocket-brand-name }
 newtab-label-download = Telecargat
 
-## Section Menu: These strings are displayed in the section context menu and are 
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Suprimir la seccion
@@ -126,6 +133,9 @@ newtab-section-menu-add-search-engine = Apondre un motor de recèrca
 newtab-section-menu-move-up = Desplaçar cap amont
 newtab-section-menu-move-down = Desplaçar cap aval
 newtab-section-menu-privacy-notice = Politica de confidencialitat
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -149,7 +159,6 @@ newtab-discovery-empty-section-topstories-loading = Cargament…
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tèmas populars :
 newtab-pocket-more-recommendations = Mai de recomandacions
-newtab-pocket-how-it-works = Cossí fonciona
 newtab-pocket-cta-button = Installar { -pocket-brand-name }
 
 ## Error Fallback Content.

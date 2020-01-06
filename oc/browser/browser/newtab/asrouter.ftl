@@ -27,6 +27,11 @@ cfr-doorhanger-extension-author = per { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomandacions
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomandacions
+    .tooltiptext = Foncion de recomandacions
+    .a11y-announcement = Foncion de recomandacions disponibla
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -61,19 +66,36 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Ne saber mai
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Novèla foncionalitat :
 cfr-whatsnew-button =
     .label = Qué de nòu
     .tooltiptext = Qué de nòu
 cfr-whatsnew-panel-header = Qué de nòu
+cfr-whatsnew-release-notes-link-text = Legir la nòta de version
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Traçador blocat
+       *[other] Traçadors blocats
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Dempuèi { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Veire lo rapòrt
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = Ne saber mai
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Ne saber mai
 
 ## Fingerprinter Counter
 
@@ -86,14 +108,23 @@ cfr-whatsnew-panel-header = Qué de nòu
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-ok-button = Ensajatz d’enviar un onglet
+    .accesskey = t
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Partejatz aqueste PDF de forma segura
+cfr-doorhanger-firefox-send-ok-button = Ensajatz { -send-brand-name }
+    .accesskey = t
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Veire las proteccions
+    .accesskey = p
 cfr-doorhanger-socialtracking-close-button = Tampar
     .accesskey = T
+cfr-doorhanger-socialtracking-dont-show-again = Me mostrar pas mai de messatges coma aqueste
+    .accesskey = d
 
 ## Enhanced Tracking Protection Milestones
 
