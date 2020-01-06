@@ -159,6 +159,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName; میں سائن ان کریں">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; چالو  کریں ">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; خدمات">
 <!ENTITY fxa.menu.account.label "اکائونٹ">
 <!ENTITY fxa.menu.settings.label "ترتیبات">
 <!ENTITY fxa.menu.accountSettings.label "اکاؤنٹ کی ترتیبات">
@@ -614,8 +616,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Pocket میں محفوظ کریں">
+<!ENTITY saveToPocketCmd.label        "Pocket میں صفحات محوظ کریں">
 <!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Pocket میں ربط محفوظ کریں">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Pocket فہرست دیکھیں">
 
 <!ENTITY emailPageCmd.label           "ای میل ربط…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -821,6 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "بعید کنکشن">
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
 
+<!ENTITY identity.connectionSecure3 "قابل بھروسا کنکشن">
 <!ENTITY identity.connectionNotSecure2 "ناقابل بھروسا کنکشن">
 <!ENTITY identity.connectionFile "یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔">
 <!ENTITY identity.connectionVerified2 "آپ محفوظ طریقے سے اس سائٹ سے جڑے ہوے ہے، کی ملکیت ہے:">
@@ -959,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "مزید سیکھیں">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "آپ کے کیا مسائل ہیں؟ (اختیاری)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "اختیاری: مسئلہ بیان کریں">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "رپورٹ ارسال کریں">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "منسوخ کریں">
 
