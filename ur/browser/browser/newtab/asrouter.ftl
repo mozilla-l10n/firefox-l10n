@@ -85,6 +85,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = نیا کیا ہے
 cfr-whatsnew-release-notes-link-text = اجرائی نوٹس پڑھیں
 cfr-whatsnew-fx70-title = { -brand-short-name } اب آپ کی رازداری کے لئے اب سخت مقابلہ کررہا ہے
+cfr-whatsnew-tracking-protect-title = اپنے آپ کو  سراغ  کاری سے بچائیں
 cfr-whatsnew-tracking-protect-link-text = اپنی رپورٹ دیکھیں
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your

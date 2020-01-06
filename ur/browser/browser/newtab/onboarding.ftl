@@ -44,6 +44,7 @@ onboarding-fullpage-form-email =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name }کو  اپنے ساتھ جائے
 onboarding-sync-welcome-learn-more-link = Firefox Accounts کے بارے میں مزید سیکھیں
 onboarding-sync-form-input =
     .placeholder = ای میل
