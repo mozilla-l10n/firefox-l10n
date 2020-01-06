@@ -12,3 +12,10 @@ fullscreen = Ecran complet
 find = Recercar
 new-tab = Onglet novèl
 share = Partejar
+close-window = Tampar la fenèstra
+
+## Various categories of shortcuts for search.
+
+
+
+
