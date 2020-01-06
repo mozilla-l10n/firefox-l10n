@@ -22,3 +22,5 @@ about-private-browsing =
     .title = Recèrca sul web
 about-private-browsing-not-private = Pel moment, sètz pas dins una fenèstra de navegacion privada.
 content-blocking-title = Blocatge de contengut
+about-private-browsing-search-banner-close-button =
+    .aria-label = Tampar
