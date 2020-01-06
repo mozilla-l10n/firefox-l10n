@@ -298,41 +298,42 @@
 <!ENTITY nextMsgCmd.label "mesaĝo">
 <!ENTITY nextMsgCmd.accesskey "m">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Unread Message">
-<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.label "nelegita mesaĝo">
+<!ENTITY nextUnreadMsgCmd.accesskey "n">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Starred Message">
-<!ENTITY nextStarredMsgCmd.accesskey "S">
-<!ENTITY nextUnreadThread.label "Unread Thread">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextStarredMsgCmd.label "mesaĝo markita per steleto">
+<!ENTITY nextStarredMsgCmd.accesskey "s">
+<!ENTITY nextUnreadThread.label "nelegita fadeno">
+<!ENTITY nextUnreadThread.accesskey "f">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "Previous">
-<!ENTITY prevMenu.accesskey "P">
-<!ENTITY prevMsgCmd.label "Message">
-<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMenu.label "Antaŭa">
+<!ENTITY prevMenu.accesskey "A">
+<!ENTITY prevMsgCmd.label "mesaĝo">
+<!ENTITY prevMsgCmd.accesskey "m">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Unread Message">
-<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY prevUnreadMsgCmd.label "nelegita mesaĝo">
+<!ENTITY prevUnreadMsgCmd.accesskey "n">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goForwardCmd.label "Forward">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.label "Pluen">
+<!ENTITY goForwardCmd.accesskey "P">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "Back">
-<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.label "Reen">
+<!ENTITY goBackCmd.accesskey "R">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Chat">
-<!ENTITY goChatCmd.accesskey "c">
-<!ENTITY prevStarredMsgCmd.label "Starred Message">
-<!ENTITY prevStarredMsgCmd.accesskey "S">
-<!ENTITY folderMenu.label "Folder">
-<!ENTITY folderMenu.accesskey "O">
-<!ENTITY goRecentlyClosedTabs.label "Recently Closed Tabs">
-<!ENTITY goRecentlyClosedTabs.accesskey "R">
-<!ENTITY startPageCmd.label "Mail Start Page">
-<!ENTITY startPageCmd.accesskey "S">
+<!ENTITY goChatCmd.label "Tujmesaĝilo">
+<!ENTITY goChatCmd.accesskey "T">
+<!ENTITY goChatCmd2.key "H">
+<!ENTITY prevStarredMsgCmd.label "mesaĝo markita per steleto">
+<!ENTITY prevStarredMsgCmd.accesskey "s">
+<!ENTITY folderMenu.label "Mesaĝujo">
+<!ENTITY folderMenu.accesskey "M">
+<!ENTITY goRecentlyClosedTabs.label "Antaŭnelonge fermitaj langetoj">
+<!ENTITY goRecentlyClosedTabs.accesskey "n">
+<!ENTITY startPageCmd.label "Eka paĝo">
+<!ENTITY startPageCmd.accesskey "E">
 
 <!-- Message Menu -->
-<!ENTITY msgMenu.label "Message">
+<!ENTITY msgMenu.label "Mesaĝo">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "New Message">
 <!ENTITY newMsgCmd.accesskey "N">
