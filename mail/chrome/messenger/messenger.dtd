@@ -295,8 +295,8 @@
 <!ENTITY goMenu.accesskey "I">
 <!ENTITY nextMenu.label "Sekva">
 <!ENTITY nextMenu.accesskey "S">
-<!ENTITY nextMsgCmd.label "Message">
-<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.label "mesaĝo">
+<!ENTITY nextMsgCmd.accesskey "m">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Unread Message">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
