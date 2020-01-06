@@ -17,6 +17,26 @@
 
 ## Login
 
+login-item-edit-button = Modificar
+about-logins-login-item-remove-button = Suprimir
+login-item-username-label = Nom d'utilizaire
+login-item-copy-username-button-text = Copiar
+login-item-copied-username-button-text = Copiat !
+login-item-password-label = Senhal
+login-item-password-reveal-checkbox-show =
+    .title = Mostrar lo senhal
+login-item-password-reveal-checkbox-hide =
+    .title = Amagar lo senhal
+login-item-password-reveal-checkbox =
+    .aria-label = Mostrar lo senhal
+login-item-copy-password-button-text = Copiar
+login-item-copied-password-button-text = Copiat !
+login-item-save-changes-button = Enregistrar las modificacions
+login-item-save-new-button = Enregistrar
+login-item-cancel-button = Anullar
+login-item-time-changed = Darrièra modificacion : { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Creacion : { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Darrièra utilizacion : { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
@@ -27,9 +47,15 @@ master-password-notification-message = Picatz vòstre senhal màger per veire lo
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Anullar
+confirmation-dialog-dismiss-button =
+    .title = Anullar
+about-logins-confirm-remove-dialog-confirm-button = Suprimir
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = Tampar aquesta alèrta
 
 ## Error Messages
 
