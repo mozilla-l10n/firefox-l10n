@@ -43,11 +43,13 @@ policy-EnableTrackingProtection = مواد روکنے کو فعال یا غیر 
 # English or translate them as verbs.
 policy-Extensions = ایکسٹنشن کو انسٹال، ان انسٹال یا لاک کریں۔ انسٹال اختیارات URL یا پاتھ کو بطور پیرامیٹر لیتا ہے۔ ان انسٹال یا لاک کے اختیار ایکسٹنش آئی ڈی کے تحت کام کرتے ہیں۔
 policy-ExtensionSettings = ایکسٹینشن کی تنصیب کے تمام پہلوؤں کو بندرست کریں کریں۔
+policy-ExtensionUpdate = خودکار ایکسٹینشن کی تازہ کاریوں کو فعال یا غیر فعال کریں۔
 policy-FlashPlugin = Flash پلگ ان کے استعمال کا اجازت دینے یا انکار کریں۔
 policy-HardwareAcceleration = غلط ہونے کی صورت میں ہارڈویئر تیز رفتاری کو بند کریں۔
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = ابتدائی صفحہ سیٹ کریں اور اختیاری طور پر تالا بندی کرِں۔
 policy-InstallAddonsPermission = چند ویب سائٹص کو اظافہ جات کی تنسیب کاری کی اجازت دیں۔
+policy-NewTabPage = نیا ٹیب صفحہ فعال یا غیر فعال بانیے ۔
 policy-NoDefaultBookmarks = { -brand-short-name } کے ساتھ آئے ہوئے طے شدہ بکمارک، اور سمارٹ بکمارک (سب سے زیادہ ملاحظہ کردہ، حالیہ ٹیگز)، کی تخلیق کو غیر فعال کرے۔ نوٹ: یہ پالسی تبھی مؤثر ہوگی جب پروفائل کے پہلی بار چلانے میں استعمال کی ہوئ ہوگی۔
 policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
 policy-SearchSuggestEnabled = تلاش تجاویز کو فعال یا غیر فعال کریں۔

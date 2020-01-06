@@ -361,6 +361,9 @@ browsing-search-on-start-typing =
     .label = میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں
     .accesskey = x
 browsing-picture-in-picture-learn-more = مزید سیکھیں
+browsing-cfr-features =
+    .label = براؤز کرتے وقت خصوصیات کی تجویز کریں
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = مزید سیکھیں
 
 ## General Section - Proxy
@@ -410,6 +413,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Firefox ابتائی مواد
+home-prefs-content-description = اپنی Firefox کی ابتدائی اسکرین پر آپ کون سا مواد چاہتے پیں اسکا انتخاب کریں۔
 home-prefs-search-header =
     .label = وءب تلاش
 home-prefs-topsites-header =
@@ -552,6 +556,8 @@ sync-signedin-settings-header = ہمہ وقت ساز ترتیبات
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = سنکنگ چالو ہے
+prefs-syncing-off = سنکنگ بند ہے
 prefs-sync-now =
     .labelnotsyncing = ابھی ہمہ وقت سازی کریں
     .accesskeynotsyncing = ن
