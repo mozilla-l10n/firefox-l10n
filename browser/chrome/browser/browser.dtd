@@ -823,7 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "Las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres (coma par exemple los senhals, los messatges, las cartas de crèdit, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar la proteccion">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "v">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Desactivar la proteccion per ara">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ne saber mai">
@@ -887,7 +887,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Camèra de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
-<!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
+<!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "L’àudio de l’onglet serà partejat.">
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
