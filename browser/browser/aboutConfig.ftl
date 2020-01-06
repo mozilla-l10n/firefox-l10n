@@ -2,16 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-text = Cambiar aquestas configuracions avançadas pòt damatjar l'estabilitat, la seguretat e las performanças d'aquela aplicacion. Contunhatz solament se sabètz çò que fasètz.
+about-config-warning-checkbox = O me rapelar lo còp que ven !
 about-config-warning-button = Preni lo risc
+about-config2-title = Configuracions avançada
 about-config-search-input =
     .placeholder = Recercar
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Agissètz amb prudéncia
+about-config-intro-warning-text = Cambiar las configuracions avançadas pòt influenciar las performanças o la seguretat de { -brand-short-name }.
+about-config-intro-warning-checkbox = M'avertir quand ensagi d'accedir a aquestas configuracions
+about-config-intro-warning-button = Prendre lo risc e contunhar
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Modificar aquelas preferéncias pòt damatjar las performanças o l'estabilitat de { -brand-short-name }.
+about-config-page-title = Preferéncias avançadas
+about-config-search-input1 =
+    .placeholder = Recercar un nom de preferéncia
+about-config-show-all = O afichar tot
 about-config-pref-add = Apondre
+about-config-pref-toggle = Inversar
 about-config-pref-edit = Modificar
 about-config-pref-save = Enregistrar
 about-config-pref-reset = Reïnicializar
 about-config-pref-delete = Suprimir
 about-config-pref-add-button =
     .title = Apondre
+about-config-pref-toggle-button =
+    .title = Inversar
 about-config-pref-edit-button =
     .title = Modificar
 about-config-pref-save-button =
@@ -34,3 +56,7 @@ about-config-pref-add-type-string = Cadena de tèxte
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (per defaut)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (personalizada)
