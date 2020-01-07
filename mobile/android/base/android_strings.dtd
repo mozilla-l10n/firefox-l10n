@@ -511,6 +511,9 @@
 <!ENTITY activity_stream_signin_title "Benvenuto in &brandShortName;">
 <!ENTITY activity_stream_signin_description "Inizia a sincronizzare segnalibri, password e molto altro ancora con il tuo account Firefox.">
 <!ENTITY activity_stream_signin_button "Accedi">
+<!ENTITY activity_stream_firefox_promo_title "Un Firefox completamente rinnovato, in arrivo nel 2020">
+<!ENTITY activity_stream_firefox_promo_description "Prossimamente: prestazioni migliorate, protezione antitracciamento avanzata e caratteristiche progettate per aiutarti a trovare, salvare e condividere tutto ciò che ami online.">
+<!ENTITY activity_stream_firefox_promo_button "Scoprilo in anteprima">
 <!ENTITY activity_stream_signup_button "Iscriviti">
 <!ENTITY activity_stream_signin_prompt "Hai già un account?">
 <!ENTITY activity_stream_signin_prompt_button "Accedi.">
