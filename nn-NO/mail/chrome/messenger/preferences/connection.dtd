@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "HTTPS-proxy:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS-vert:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Tilkoplingar til localhost, 127.0.0.1 og ::1 er aldri kopla til via proxy.">
+<!ENTITY  noproxyLocalhostDesc.label    "Tilkoplingar til localhost, 127.0.0.1 og ::1 er aldri kopla til via proxy.">
 <!ENTITY  shareproxy.label              "Bruk denne mellomtenaren for alle protokollar">
 <!ENTITY  shareproxy.accesskey          "B">
+<!ENTITY  proxyHttpSharing.label        "Bruk også denne proxyserveren for HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Ikkje be om autentisering viss passordet er lagra">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Dette alternativet stadfestar deg, i det stille, til proxiar når du har lagra innloggingsdetaljar for dei. Du vil få spørsmål om godkjenninga er mislykka.">
@@ -51,3 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Aktiver DNS-over-HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "o">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Bruk standard-URL-en for DNS-oppslag over HTTPS">
