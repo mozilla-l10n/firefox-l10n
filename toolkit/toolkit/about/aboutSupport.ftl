@@ -136,7 +136,7 @@ media-capabilities-title = Médiafunkciók
 # List all the entries of the database.
 media-capabilities-enumerate = Adatbázis felsorolása
 
-
+##
 
 intl-title = Nemzetköziesítés és honosítás
 intl-app-title = Alkalmazásbeállítások
@@ -161,7 +161,7 @@ remote-debugging-title = Távoli hibakeresés (Chromium protokoll)
 remote-debugging-accepting-connections = Kapcsolatok elfogadása
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -261,6 +261,7 @@ d3d11video-crash-guard = D3D11 videodekóder
 d3d9video-crash-buard = D3D9 videodekóder
 d3d9video-crash-guard = D3D9 videodekóder
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX videodekóder
 reset-on-next-restart = Újraindításkor alaphelyzetbe
 gpu-process-kill-button = GPU folyamat leállítása
 gpu-device-reset = Eszköz visszaállítása
