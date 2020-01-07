@@ -57,6 +57,7 @@ show-passwords =
 hide-passwords =
     .label = Gøym passord
     .accesskey = p
+logins-description-all = Innloggingar for følgjande leverandørar er lagra på datamaskina di
 logins-description-filtered = Følgjande innloggingar passar med søket:
 remove-all =
     .label = Fjern alle
