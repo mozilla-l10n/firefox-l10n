@@ -21,21 +21,14 @@
 <!ENTITY firstrun_data_message "Risparmia sulla connessione">
 <!ENTITY firstrun_data_subtext2 "Disattiva le immagini per consumare meno dati ogni volta che visiti un sito.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Account">
-<!ENTITY firstrun_sync_message2 "Riprendi da dove ti eri interrotto">
 <!ENTITY firstrun_sync_message3 "Sincronizza segnalibri, cronologia e password con il tuo telefono.">
 <!ENTITY firstrun_sync_subtext2 "Utilizza Sync per accedere da tutti i dispositivi a segnalibri, password e altre informazioni salvate in &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizza le informazioni salvate sul tuo dispositivo mobile con Firefox sul tuo computer, in modo riservato e sicuro.">
-<!ENTITY updatednewfirstrun_sync_subtext "Accedi al tuo account per ottenere il massimo da &brandShortName;">
 <!ENTITY firstrun_sendtab_title "Invia scheda">
 <!ENTITY firstrun_sendtab_message "Condividi al volo schede tra il computer di casa e il telefono.">
 <!ENTITY firstrun_signin_message "Connettiti e inizia">
-<!ENTITY firstrun_signin_button "Accedi a Sync">
-<!ENTITY newfirstrun_signin_button "Attiva Sync">
-<!ENTITY updatednewfirstrun_signin_button "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_notnow "Non adesso">
-<!ENTITY firstrun_signin_button2 "Accedi">
 <!ENTITY firstrun_signup_button "Registrati">
 <!ENTITY firstrun_button_next "Successivo">
 <!ENTITY firstrun_tabqueue_title "Link">
@@ -510,7 +503,6 @@
 <!ENTITY helper_triple_readerview_open_button "Aggiungi ai segnalibri">
 <!ENTITY activity_stream_signin_title "Benvenuto in &brandShortName;">
 <!ENTITY activity_stream_signin_description "Inizia a sincronizzare segnalibri, password e molto altro ancora con il tuo account Firefox.">
-<!ENTITY activity_stream_signin_button "Accedi">
 <!ENTITY activity_stream_firefox_promo_title "Un Firefox completamente rinnovato, in arrivo nel 2020">
 <!ENTITY activity_stream_firefox_promo_description "Prossimamente: prestazioni migliorate, protezione antitracciamento avanzata e caratteristiche progettate per aiutarti a trovare, salvare e condividere tutto ciò che ami online.">
 <!ENTITY activity_stream_firefox_promo_button "Scoprilo in anteprima">
