@@ -70,10 +70,13 @@ abuse-report-deceptive-reason-v2 = Nagpapanggap
 abuse-report-deceptive-example = Halimbawa: Mapanlinlang na pagkakalarawan
 abuse-report-broken-reason-extension = Hindi gumagana, naninira ng website, o nagpapabagal sa { -brand-product-name }
 abuse-report-broken-reason-theme = Hindi gumagana o naninira ng display ng browser
+abuse-report-broken-reason-extension-v2 = Hindi gumagana, nasisira ang mga website, o bumabagal { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = Hindi gumana o sinira ang browser display
 abuse-report-broken-example = Halimbawa: Mabagal ang feature, mahirap gamitin, o hindi gumagana; may mga parte ng website na hindi magpapakita o kakaiba ang itsura
 abuse-report-broken-suggestions-extension = Mukhang nakahanap ka ng bug. Bukod sa pag-ulat nito, ang pinakamagandang paraan para maayos ang isyu ay direktang tawagan ang developer ng extension. <a data-l10n-name="support-link">Bisitahin ang website ng extension</a> para makuha ang impormasyon patungkol sa developer.
 abuse-report-broken-suggestions-theme = Mukhang nakahanap ka ng bug. Bukod sa pag-ulat nito, ang pinakamagandang paraan para maayos ang isyu ay direktang tawagan ang developer ng tema. <a data-l10n-name="support-link">Bisitahin ang website ng tema</a> para makuha ang impormasyon patungkol sa developer.
 abuse-report-policy-reason = Nakapopoot, marahas, o iligal na nilalaman.
+abuse-report-policy-reason-v2 = May lamang galit, marahas, o illegal na nilalaman
 abuse-report-policy-suggestions = Tandaan: Ang mga issue patungkol sa copyright at trademark ay dapat iulat sa hiwalay na proseso. <a data-l10n-name="report-infringement-link">Gamitin ang mga panutong ito</a> para maiulat ang problema.
 abuse-report-unwanted-reason = Ni minsan ay di ginusto ang extension na ito at hindi ko ito matanggal-tanggal.
 abuse-report-unwanted-reason-v2 = Hindi ko ito nais at hindi alam kung paano mapupuksa ito
