@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM 소프트웨어 사용 관리">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI 패널 열기">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "이 웹 사이트에 추가 권한을 부여했습니다.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "이 사이트의 카메라 사용을 차단하였습니다.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "이 사이트의 마이크 사용을 차단하였습니다.">
 <!ENTITY urlbar.screenBlocked.tooltip            "이 사이트의 화면 공유를 차단하였습니다.">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "이 사이트에서 Adobe Flash 플러그인을 사용할 수 없게 설정하였습니다.">
 <!ENTITY urlbar.midiBlocked.tooltip              "이 사이트의 MIDI 접근을 차단하였습니다.">
 <!ENTITY urlbar.installBlocked.tooltip           "이 사이트의 부가 기능 설치를 차단했습니다.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "이 웹 사이트에 추가 권한을 부여했습니다.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
@@ -467,14 +467,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "더 보기 메뉴에 추가">
+<!ENTITY customizeMenu.addToOverflowMenu.label "더보기 메뉴에 추가">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "더 보기 메뉴에 고정">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "더보기 메뉴에 고정">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "더 보기 메뉴에서 고정 해제">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "더보기 메뉴에서 고정 해제">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "도구 모음에서 제거">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
