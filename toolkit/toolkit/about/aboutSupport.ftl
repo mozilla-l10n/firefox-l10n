@@ -136,7 +136,7 @@ media-capabilities-title = Medijowe móžnosće
 # List all the entries of the database.
 media-capabilities-enumerate = Datowu banku naličić
 
-
+##
 
 intl-title = Internacionalizacija a lokalizacija
 intl-app-title = Nastajenja nałoženja
@@ -161,7 +161,7 @@ remote-debugging-title = Zdalene pytanje zmylkow (protokol Chromium)
 remote-debugging-accepting-connections = Zwiski so přijimaja
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -271,6 +271,7 @@ d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Widejodekoder WMF VPX
 reset-on-next-restart = Při přichodnym nowym starće wróćo stajić
 gpu-process-kill-button = GPU-proces skónčić
 gpu-device-reset = Grat wróćo stajić
