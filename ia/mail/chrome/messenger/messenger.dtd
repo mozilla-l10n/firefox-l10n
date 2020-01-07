@@ -500,7 +500,6 @@
 <!ENTITY compactButton.tooltip "Remover le messages delite del dossier seligite">
 
 <!-- Toolbar Button Popup -->
-<!ENTITY buttonMenuForwardAsInline.label "Inviar ultra in le texto del message">
 <!ENTITY buttonMenuForwardAsAttachment.label "Inviar ultra como annexo">
 
 <!-- Remote Content Button Popup -->
