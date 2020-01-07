@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vel kolonner du vil vise">
+<!ENTITY selectColumn.tooltip "Skift vel alle meldingane">
 <!ENTITY threadColumn2.tooltip "Vis meldingstrådar">
 <!ENTITY fromColumn2.tooltip "Sorter etter: Frå">
 <!ENTITY recipientColumn2.tooltip "Sorter etter: Mottakar">
