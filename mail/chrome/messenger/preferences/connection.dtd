@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL-proxy:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "HTTPS-proxy:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS gép:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "A localhost, a 127.0.0.1 és a ::1 felé nyitott kapcsolatok sosem kerülnek proxyzásra.">
+<!ENTITY  noproxyLocalhostDesc.label    "A localhost, a 127.0.0.1 és a ::1 felé nyitott kapcsolatok sosem kerülnek proxyzásra.">
 <!ENTITY  shareproxy.label              "Ugyanazon proxy használata minden protokollhoz">
 <!ENTITY  shareproxy.accesskey          "U">
+<!ENTITY  proxyHttpSharing.label        "Használja ezt a proxyt HTTPS esetén is">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Ne kérjen hitelesítést, ha a jelszó el van mentve">
 <!ENTITY  autologinproxy.accesskey      "h">
 <!ENTITY  autologinproxy.tooltip        "Ez a beállítás csendben hitelesíti proxyk felé, ha mentette hozzájuk a hitelesítési adatokat. Ha a hitelesítés sikertelen, akkor felszólítást kap.">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "HTTPS feletti DNS bekapcsolása">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Alapértelmezés használata">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "A">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Az alapértelmezett URL használata a HTTPS feletti DNS feloldáshoz">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Egyéni">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "E">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Adja meg az előnyben részesített URL-t a HTTPS feletti DNS feloldáshoz">
