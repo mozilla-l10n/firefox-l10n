@@ -356,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferéncias">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
+<!ENTITY logins.label                           "Identificants e senhals">
 
 <!ENTITY clearRecentHistory.label               "Suprimir l'istoric recent…">
 
@@ -862,6 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.noTrackersFound.description "Cap de traçadors coneguts per &brandShortName; pas detectat sus aquesta pagina.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

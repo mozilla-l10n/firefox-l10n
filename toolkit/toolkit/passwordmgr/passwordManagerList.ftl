@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = Sètz segur que volètz suprimir totes los senhals ?
 remove-all-passwords-title = Suprimir totes los senhals
 no-master-password-prompt = Sètz segur que volètz afichar vòstres senhals ?
+auto-fill-logins-and-passwords =
+    .label = Emplenar automaticament los identificants e senhals
