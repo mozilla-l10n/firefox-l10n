@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "關閉圖片載入，開啟網站時花費更少流量。">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "將您的書籤、瀏覽紀錄、密碼同步到手機。">
-<!ENTITY updatednewfirstrun_sync_title "帳號">
-<!ENTITY firstrun_sync_message2 "從結束的地方繼續。">
 <!ENTITY firstrun_sync_subtext2 "使用 Sync 來尋找您在任何裝置中，儲存到 &brandShortName; 的書籤、密碼，還有更多東西。">
 <!ENTITY newfirstrun_sync_subtext "將您在行動裝置存下的東西私密而安全地同步到 Firefox 桌面版。">
 <!ENTITY firstrun_sendtab_title "傳送分頁">
 <!ENTITY firstrun_sendtab_message "從行動裝置將分頁即刻傳送到桌面。">
-<!ENTITY updatednewfirstrun_sync_subtext "請登入您的帳號，發揮 &brandShortName; 的最大威力">
 <!ENTITY firstrun_signin_message "開始連線使用">
-<!ENTITY firstrun_signin_button "登入至 Sync">
-<!ENTITY newfirstrun_signin_button "開啟同步">
-<!ENTITY updatednewfirstrun_signin_button "登入 &brandShortName;">
-<!ENTITY  onboard_start_button_browser "開始瀏覽">
+<!ENTITY onboard_start_button_browser "開始瀏覽">
 <!ENTITY firstrun_button_notnow "現在不要">
 <!ENTITY firstrun_button_next "下一步">
 <!ENTITY firstrun_signup_button "註冊">
-
-<!ENTITY firstrun_signin_button2 "登入">
 
 <!ENTITY firstrun_tabqueue_title "鏈結">
 
@@ -882,7 +874,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "將閱讀畫面項目加入書籤，以在離線時閱讀。">
 <!ENTITY helper_triple_readerview_open_button "加入書籤">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "歡迎使用 &brandShortName;">
 <!ENTITY activity_stream_signin_description "使用您的 Firefox 帳號同步書籤、密碼等資料。">
@@ -891,7 +884,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "請登入。">
 
-<!ENTITY activity_stream_signin_button "登入">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "全新 Firefox，2020 年即將推出">
+<!ENTITY activity_stream_firefox_promo_description "即將推出: 改善效能、加強型追蹤保護。還有滿滿讓您更方便就能尋找、儲存、分享喜愛的線上內容的設計。">
+<!ENTITY activity_stream_firefox_promo_button "搶先看">
 
 <!ENTITY activity_stream_topsites "熱門網站">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
