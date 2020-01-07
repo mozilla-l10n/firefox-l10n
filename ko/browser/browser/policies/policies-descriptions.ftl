@@ -45,7 +45,7 @@ policy-DisableSystemAddonUpdate = 브라우저가 시스템 부가 기능을 설
 policy-DisableTelemetry = 원격 측정을 끕니다.
 policy-DisplayBookmarksToolbar = 기본으로 북마크 도구 모음을 표시합니다.
 policy-DisplayMenuBar = 기본으로 메뉴 막대를 표시합니다.
-policy-DNSOverHTTPS = HTTPS를 통한 DNS를 설정합니다.
+policy-DNSOverHTTPS = HTTPS를 통한 DNS를 설정합니다(DNS over HTTPS).
 policy-DontCheckDefaultBrowser = 시작할 때 기본 브라우저 확인을 하지 않습니다.
 policy-DownloadDirectory = 다운로드 디렉토리를 설정하고 잠급니다.
 # “lock” means that the user won’t be able to change this setting
