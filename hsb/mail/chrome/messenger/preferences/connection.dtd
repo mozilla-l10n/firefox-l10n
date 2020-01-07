@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL-Proksy:">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "HTTPS-proksy:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS Host:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Zwiski z localhost, 127.0.0.1 a ::1 ženje přez proksy njeńdu.">
+<!ENTITY  noproxyLocalhostDesc.label    "Zwiski z localhost, 127.0.0.1 a ::1 ženje přez proksy njeńdu.">
 <!ENTITY  shareproxy.label              "Tutón proksy-serwer za wšě protokole wužiwać">
 <!ENTITY  shareproxy.accesskey          "u">
+<!ENTITY  proxyHttpSharing.label        "Tež tutón proksy za HTTPS wužiwać">
+<!ENTITY  proxyHttpSharing.accesskey    "k">
 <!ENTITY  autologinproxy.label          "Za awtentifikaciju so njeprašeć, jeli hesło je składowane">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Tute nastajenje awtentizuje was w pozadku pola proksyjow, hdyž sće přizjwjenske daty za nje składował. Dóstanjeće informaciju, hdyž so awtentifikacija njeporadźi.">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "DNS přez HTTPS zmóžnić">
 <!ENTITY  dnsOverHttps.accesskey        "m">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Standard wužiwać">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "t">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Za rozpušćenje DNS přez HTTPS standardny URL wužiwać">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Swójski">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "k">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Zapodajće swój preferowany URL za rozpušćenje DNS přez HTTPS">
