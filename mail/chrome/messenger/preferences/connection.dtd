@@ -22,6 +22,8 @@
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "Proxy SSL:">
 <!ENTITY ssl.accesskey "s">
+<!ENTITY https.label "Proxy HTTPS:">
+<!ENTITY https.accesskey "S">
 <!ENTITY socks.label "Servidor SOCKS:">
 <!ENTITY socks.accesskey "c">
 <!ENTITY socks4.label "SOCKS v4">
@@ -40,6 +42,8 @@
 <!ENTITY noproxyLocalhostDesc.label "Las conexiones a localhost, 127.0.0.1 y ::1 nunca se tratan por el proxy.">
 <!ENTITY shareproxy.label "Usar el mismo proxy para todo">
 <!ENTITY shareproxy.accesskey "x">
+<!ENTITY proxyHttpSharing.label "Usar también este proxy para HTTPS">
+<!ENTITY proxyHttpSharing.accesskey "x">
 <!ENTITY autologinproxy.label "No solicitar identificación si la contraseña está guardada">
 <!ENTITY autologinproxy.accesskey "d">
 <!ENTITY autologinproxy.tooltip "Esta opción le identifica sin ningún mensaje ante los proxis cuando ha guardado credenciales para ellos. Se le preguntará en caso de que falle el inicio de sesión.">
