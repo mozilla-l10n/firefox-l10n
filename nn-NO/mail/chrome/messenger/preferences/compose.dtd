@@ -20,6 +20,8 @@
 <!ENTITY font.accesskey                       "S">
 <!ENTITY fontSize.label                       "Storleik:">
 <!ENTITY fontSize.accesskey                   "e">
+<!ENTITY useReaderDefaults.label              "Bruk standardfargane til lesaren">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Tekstfarge:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Bakgrunnsfarge:">
