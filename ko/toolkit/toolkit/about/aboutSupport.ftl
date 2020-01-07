@@ -139,7 +139,7 @@ media-capabilities-title = 미디어 기능
 # List all the entries of the database.
 media-capabilities-enumerate = 데이터베이스 열거
 
-
+##
 
 intl-title = 국제화 & 현지화
 intl-app-title = 응용 프로그램 설정
@@ -164,7 +164,7 @@ remote-debugging-title = 원격 디버깅 (Chromium 프로토콜)
 remote-debugging-accepting-connections = 연결 수락
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -244,6 +244,7 @@ d3d11video-crash-guard = D3D11 동영상 디코더
 d3d9video-crash-buard = D3D9 동영상 디코더
 d3d9video-crash-guard = D3D9 동영상 디코더
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX 비디오 디코더
 reset-on-next-restart = 다음에 다시 시작할 때 초기화
 gpu-process-kill-button = GPU 프로세스 종료
 gpu-device-reset = 기기 초기화
