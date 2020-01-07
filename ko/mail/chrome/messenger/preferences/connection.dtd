@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "SSL 프록시:">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "HTTPS 프록시:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS 호스트:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Localhost나 127.0.0.1, ::1로의 연결은 프록시 되지 않습니다.">
+<!ENTITY  noproxyLocalhostDesc.label    "Localhost나 127.0.0.1, ::1로의 연결은 프록시 되지 않습니다.">
 <!ENTITY  shareproxy.label              "이 프록시 서버를 모든 프로토콜에 적용">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  proxyHttpSharing.label        "HTTPS에도 이 프록시를 사용">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "비밀번호가 저장되어 있으면 인증시 묻지 않기">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "저장한 자격 증명이 있으면 조용히 인증합니다. 인증이 되지 않으면 물어볼 것입니다.">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "HTTPS를 통한 DNS 활성화">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "기본값 사용">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "HTTPS를 통한 DNS를 해결할 때 기본 URL 사용">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "사용자 정의">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "HTTPS를 통한 DNS를 해결하는 선호하는 URL을 입력">
