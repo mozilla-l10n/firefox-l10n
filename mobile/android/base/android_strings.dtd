@@ -890,7 +890,9 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 <!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
-<!ENTITY activity_stream_firefox_promo_title "Tu nuevo Firefox, va a llegar en 2020">
+<!ENTITY activity_stream_firefox_promo_title "Tu nuevo Firefox va a llegar en 2020">
+<!ENTITY activity_stream_firefox_promo_description "Próximamente vas a ver un: mejor rendimiento y mejor protección de rastreo. Y además funciones diseñadas para ayudarte a encontrar, guardar y compartir más de lo que te gusta en línea.">
+<!ENTITY activity_stream_firefox_promo_button "Mirá un adelanto">
 
 <!ENTITY activity_stream_topsites "Más visitados">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
