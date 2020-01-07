@@ -259,6 +259,10 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "보내는 사람:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "보내는사람">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "받는 사람:">
 <!ENTITY ccAddr.label "참조:">
@@ -267,6 +271,13 @@
 <!ENTITY newsgroupsAddr.label "뉴스 그룹:">
 <!ENTITY followupAddr.label "전달:">
 <!ENTITY subject.label "제목:">
+<!ENTITY toAddr2.label "받는 사람">
+<!ENTITY ccAddr2.label "참조">
+<!ENTITY bccAddr2.label "숨은 참조">
+<!ENTITY replyAddr2.label "회신 대상">
+<!ENTITY newsgroupsAddr2.label "뉴스그룹">
+<!ENTITY followupAddr2.label "전달 대상">
+<!ENTITY subject2.label "제목">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
@@ -278,7 +289,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "첨부 창">
 <!ENTITY attachmentBucketCloseButton.tooltip "첨부 창 숨기기">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "표정 아이콘 삽입">
 <!ENTITY smiley1Cmd.label "미소">
 <!ENTITY smiley2Cmd.label "시무룩">
