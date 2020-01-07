@@ -55,10 +55,13 @@ abuse-report-messagebar-action-cancel = Kanselahin
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Sinisira ang computer at data ko
+abuse-report-damage-reason-v2 = Nasira ang aking computer o na-kompromiso ang data ko
 abuse-report-damage-example = Halimbawa: Nagpasok ng malware o nagnakaw ng data
 abuse-report-spam-reason = Nagii-spam o nang-aalok ng kung anu-ano
+abuse-report-spam-reason-v2 = Ito ay may lamang spam o di-kanais nais na advertising
 abuse-report-spam-example = Halimbawa: Nagpapasok ng mga ad sa mga webpage
 abuse-report-settings-reason = Binago ang aking search engine, homepage, o bagong tab nang hindi ako inaabisuhan
+abuse-report-settings-reason-v2 = Binago ang aking search engine, homepage, o bagong tab na hindi nagsabi o nagpaalam
 abuse-report-settings-suggestions = Bago isumbong ang extension, subukan mo munang baguhin ang iyong mga setting:
 abuse-report-settings-suggestions-search = Baguhin ang iyong mga default search setting
 abuse-report-settings-suggestions-homepage = Baguhin ang iyong homepage at bagong tab
