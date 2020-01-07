@@ -139,7 +139,7 @@ media-capabilities-title = Mediamooglikheden
 # List all the entries of the database.
 media-capabilities-enumerate = Database ynventarisearje
 
-
+##
 
 intl-title = Ynternasjonalisaasje & lokalisaasje
 intl-app-title = Applikaasjeynstellingen
@@ -164,7 +164,7 @@ remote-debugging-title = Remote debugging (Chromium-protokol)
 remote-debugging-accepting-connections = Akseptearret ferbiningen
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -264,6 +264,7 @@ d3d11video-crash-guard = D3D11-fideodecoder
 d3d9video-crash-buard = D3D9-fideodecoder
 d3d9video-crash-guard = D3D9-fideodecoder
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX-fideodecoder
 reset-on-next-restart = Opnij ynstelle nij werstart
 gpu-process-kill-button = GPU-proses beëinigje
 gpu-device-reset = Apparaatwerinisjalisaasje
