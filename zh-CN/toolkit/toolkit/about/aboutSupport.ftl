@@ -139,7 +139,7 @@ media-capabilities-title = 媒体能力
 # List all the entries of the database.
 media-capabilities-enumerate = 枚举数据库
 
-
+##
 
 intl-title = 国际化与本地化
 intl-app-title = 应用程序设置
@@ -164,7 +164,7 @@ remote-debugging-title = 远程调试（Chromium 协议）
 remote-debugging-accepting-connections = 接受连接
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -244,6 +244,7 @@ d3d11video-crash-guard = D3D11 视频解码器
 d3d9video-crash-buard = D3D9 视频解码器
 d3d9video-crash-guard = D3D9 视频解码器
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX 视频解码器
 reset-on-next-restart = 下次开启时重置
 gpu-process-kill-button = 终止 GPU 进程
 gpu-device-reset = 设备重置
