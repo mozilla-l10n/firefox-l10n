@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL-proxy:">
 <!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  https.label                   "HTTPS-proxy:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS-host:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Verbindingen met localhost, 127.0.0.1 en ::1 gaan nooit via een proxy.">
+<!ENTITY  noproxyLocalhostDesc.label    "Verbindingen met localhost, 127.0.0.1 en ::1 gaan nooit via een proxy.">
 <!ENTITY  shareproxy.label              "Deze proxyserver voor alle protocollen gebruiken">
 <!ENTITY  shareproxy.accesskey          "z">
+<!ENTITY  proxyHttpSharing.label        "Deze proxy ook voor HTTPS gebruiken">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Niet om authenticatie vragen als wachtwoord is opgeslagen">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Deze optie authenticeert u automatisch bij proxy’s als u hiervoor referenties hebt opgeslagen. Als authenticatie mislukt, wordt hierom gevraagd.">
