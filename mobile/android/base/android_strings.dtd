@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Daha az veri, daha çok tasarruf">
 <!ENTITY firstrun_data_subtext2 "Girdiğiniz her sitede daha az veri harcamak için resimleri kapatabilirsiniz.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Hesap">
-<!ENTITY firstrun_sync_message2 "Kaldığın yerden devam et.">
 <!ENTITY firstrun_sync_message3 "Yer imlerinizi, geçmişinizi ve parolalarınızı telefonunuzda kullanın.">
 <!ENTITY firstrun_sync_subtext2 "Tüm cihazlarınızda &brandShortName;’a kaydettiğiniz yer imlerine, parolalara ve diğer bilgilere ulaşmak için Sync’i kullanabilirsiniz.">
 <!ENTITY newfirstrun_sync_subtext "Mobil cihazınızda kaydettiğiniz her şeyi bilgisayarınızdaki Firefox’a güvenle aktarın.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName;’tan en iyi şekilde yararlanmak için hesabınıza giriş yapın">
-<!ENTITY firstrun_signin_message "Bağlan, kullanmaya başla">
 <!ENTITY firstrun_sendtab_title "Sekmeyi Gönder">
 <!ENTITY firstrun_sendtab_message "Telefonunuzdaki sekmeleri anında bilgisayarınıza gönderin.">
-<!ENTITY firstrun_signin_button "Sync’e giriş yap">
-<!ENTITY newfirstrun_signin_button "Sync’i etkinleştir">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName;’a giriş yapın">
+<!ENTITY firstrun_signin_message "Bağlan, kullanmaya başla">
 <!ENTITY onboard_start_button_browser "Gezinmeye başla">
 <!ENTITY firstrun_button_notnow "Daha sonra">
 <!ENTITY firstrun_button_next "İleri">
-
-<!ENTITY firstrun_signin_button2 "Giriş yap">
+<!ENTITY firstrun_signup_button "Kaydol">
 
 <!ENTITY firstrun_tabqueue_title "Bağlantılar">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Siz">
 <!ENTITY firstrun_account_message "Başka bir cihazda &brandShortName; kullanıyor musunuz?">
-
-<!ENTITY firstrun_signup_button "Kaydol">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName;’un bu basitleştirilmiş sürümüyle güvende kalın ve kontrolü elinizde tutun.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Bağlandığınız site:">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; tarayıcısına hoş geldiniz">
 <!ENTITY activity_stream_signin_description "Firefox hesabınızla yer imlerinizi, parolalarınızı ve daha fazlasını eşitlemeye başlayın.">
-<!ENTITY activity_stream_signin_button "Giriş yap">
-
 <!ENTITY activity_stream_signup_button "Kaydol">
 <!ENTITY activity_stream_signin_prompt "Zaten hesabınız var mı?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Giriş yapın.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Yepyeni Firefox 2020’de geliyor">
+<!ENTITY activity_stream_firefox_promo_description "Çok yakında: Daha yüksek performans; gelişmiş izlenme koruması; sevdiğiniz şeyleri daha kolay bulmanız, kaydetmeniz ve paylaşmanız için tasarlanmış özellikler.">
+<!ENTITY activity_stream_firefox_promo_button "İlk siz deneyin">
 
 <!ENTITY activity_stream_topsites "Önemli Siteler">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
