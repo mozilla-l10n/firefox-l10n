@@ -888,7 +888,7 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "En helt nye Firefox, kommer i 2020">
-<!ENTITY activity_stream_firefox_promo_description "Kommer snart: Forbedret ytelse. Forbedret sporingsbeskyttelse. Og funksjoner designet for å hjelpe deg med å finne, lagre og dele mer av det du liker på nettet.">
+<!ENTITY activity_stream_firefox_promo_description "Kommer snart: Forbedret ytelse. Forbedret sporingsbeskyttelse. I tillegg kommer funksjoner laget for å hjelpe deg med å finne, lagre og dele mer av det du liker på nettet.">
 <!ENTITY activity_stream_firefox_promo_button "Ta en sniktitt">
 
 <!ENTITY activity_stream_topsites "Populære nettsteder">
