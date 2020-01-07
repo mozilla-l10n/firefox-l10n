@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "ઓછી માહિતી, વધુ બચત">
 <!ENTITY firstrun_data_subtext2 "દરેક સાઇટ જેની તમે મુલાકાત લો છો તેના પર ડેટા નો વપરાશ ઓછો કરવા છબીઓ બંધ કરો.">
 <!ENTITY firstrun_sync_title "સમન્વય">
-<!ENTITY updatednewfirstrun_sync_title "ખાતું">
-<!ENTITY firstrun_sync_message2 "જ્યાંથી તમે છોડી દીધું ત્યાંથી શરૂ કરો.">
 <!ENTITY firstrun_sync_message3 "તમારા બુકમાર્ક્સ, ઇતિહાસ અને પાસવર્ડોને તમારા ફોન પર સમન્વયિત કરો.">
 <!ENTITY firstrun_sync_subtext2 "તમારા બધા ઉપકરણો પર &brandShortName; ના બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનો ઉપયોગ કરો.">
 <!ENTITY newfirstrun_sync_subtext "તમે મોબાઇલ પર જે વસ્તુઓ સાચવો છો, તેને ડેસ્કટોપ માટેનાં Firefox માં ખાનગી અને સલામત રીતે સમન્વયિત કરો.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; માંથી વધુ મેળવવા માટે તમારા એકાઉન્ટમાં સાઇન ઇન કરો">
-<!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY firstrun_sendtab_title "ટેબ મોકલો">
 <!ENTITY firstrun_sendtab_message "ટૅબ્સ મોબાઇલથી ડેસ્કટૉપ પર ટૅબ્સ શેર કરો — તરત.">
-<!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
-<!ENTITY newfirstrun_signin_button "સમન્વયન ચાલુ કરો">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; માં સાઇન ઇન કરો;">
+<!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY onboard_start_button_browser "બ્રાઉઝ શરૂ કરો">
 <!ENTITY firstrun_button_notnow "હમણા નહિ">
 <!ENTITY firstrun_button_next "આગામી">
-
-<!ENTITY firstrun_signin_button2 "સાઇન ઇન કરો">
+<!ENTITY firstrun_signup_button "સાઇન અપ કરો">
 
 <!ENTITY firstrun_tabqueue_title "કડીઓ">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "તમે">
 <!ENTITY firstrun_account_message "&brandShortName; બીજા ઉપકરણ પર છે?">
-
-<!ENTITY firstrun_signup_button "સાઇન અપ કરો">
 
 <!ENTITY  onboard_start_restricted1 "આ &brandShortName; ના સરળ આવૃત્તિ સાથે સુરક્ષિત અને નિયંત્રણમાં રહો.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "તમે જોડાયેલા છો">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; પર આપનું સ્વાગત છે">
 <!ENTITY activity_stream_signin_description "તમારા Firefox એકાઉન્ટ સાથે બુકમાર્ક્સ, પાસવર્ડ્સ અને વધુનું સમન્વય કરવાનું પ્રારંભ કરો.">
-<!ENTITY activity_stream_signin_button "સાઇન ઇન કરો">
-
 <!ENTITY activity_stream_signup_button "સાઇન અપ કરો">
 <!ENTITY activity_stream_signin_prompt "પહેલેથી જ એકાઉન્ટ છે?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "સાઇન ઇન કરો.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "તમારું નવું ફાયરફોક્સ, 2020 માં પહોંચ્યું છે">
+<!ENTITY activity_stream_firefox_promo_description "ટૂંક સમયમાં આવી રહ્યું છે: સુધારેલ પ્રદર્શન. ઉન્નત ટ્રેકિંગ સુરક્ષા. અને તમને જે ઓનલાઈન ગમે છે તે વધુ શોધવા, બચાવવા અને વહેંચવામાં સહાય કરવા માટે રચાયેલ સુવિધાઓ.">
+<!ENTITY activity_stream_firefox_promo_button "એક ઝલક લો">
 
 <!ENTITY activity_stream_topsites "ટોચની સાઇટ્સ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
