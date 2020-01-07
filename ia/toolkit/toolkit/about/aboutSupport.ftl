@@ -139,7 +139,7 @@ media-capabilities-title = Functionalitates del medios
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerar base de datos
 
-
+##
 
 intl-title = Internationalisation & Localisation
 intl-app-title = Parametros del application
@@ -164,7 +164,7 @@ remote-debugging-title = Depuration remote (protocollo de Chromium)
 remote-debugging-accepting-connections = Connexiones ora acceptate
 remote-debugging-url = Adresse URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -264,6 +264,7 @@ d3d11video-crash-guard = Decodificator de video D3D11
 d3d9video-crash-buard = Decodificator de video D3D9
 d3d9video-crash-guard = Decodificator de video D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Decodificator de video WMF VPX
 reset-on-next-restart = Reinitialisar post quitar e reaperir
 gpu-process-kill-button = Terminar le processo GPU
 gpu-device-reset = Restabilir le apparato
