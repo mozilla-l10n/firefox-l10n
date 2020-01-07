@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
 
-<!ENTITY showAllBookmarks2.label "Mostrar favoritos">
+<!ENTITY showAllBookmarks2.label "Mostrar todos os favoritos">
 <!ENTITY recentBookmarks.label "Favoritos recentes">
 <!ENTITY otherBookmarksCmd.label "Outros favoritos">
 <!ENTITY mobileBookmarksCmd.label "Favoritos do celular">
@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso do software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir o painel MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Você concedeu permissões adicionais a este site.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Você bloqueou sua câmera neste site.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Você bloqueou seu microfone neste site.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Você bloqueou o compartilhamento de tela neste site.">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Você bloqueou o uso do Adobe Flash neste site.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Você bloqueou o acesso a MIDI neste site.">
 <!ENTITY urlbar.installBlocked.tooltip           "Você bloqueou a instalação de extensões deste site.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Você concedeu permissões adicionais a este site.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
