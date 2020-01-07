@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "더 적은 데이터, 더 많은 절약">
 <!ENTITY firstrun_data_subtext2 "데이터 사용량을 줄이기 위해 방문하는 모든 사이트에서 이미지를 가져오지 않습니다.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "계정">
-<!ENTITY firstrun_sync_message2 "중단했던 지점에서 다시 시작하세요.">
 <!ENTITY firstrun_sync_message3 "휴대폰에 북마크나 방문기록, 비밀번호를 동기화 하세요.">
 <!ENTITY firstrun_sync_subtext2 "Sync를 이용해서 즐겨찾기나 비밀번호, &brandShortName;에 저장한 다른 설정을 사용하는 모든 기기에서 찾아보세요.">
 <!ENTITY newfirstrun_sync_subtext "사적으로 안전하게 모바일 환경에서 저장한 것을 데스크탑용 Firefox와 동기화하세요.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName;를 최대한 활용하려면 계정에 로그인하세요.">
-<!ENTITY firstrun_signin_message "연결 및 시작하기">
 <!ENTITY firstrun_sendtab_title "탭 보내기">
 <!ENTITY firstrun_sendtab_message "모바일에서 데스크톱으로 탭을 즉시 공유해보세요.">
-<!ENTITY firstrun_signin_button "Sync 로그인">
-<!ENTITY newfirstrun_signin_button "Sync 켜기">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName;에 로그인">
+<!ENTITY firstrun_signin_message "연결 및 시작하기">
 <!ENTITY onboard_start_button_browser "브라우징 시작">
 <!ENTITY firstrun_button_notnow "다음에">
 <!ENTITY firstrun_button_next "다음">
-
-<!ENTITY firstrun_signin_button2 "로그인">
+<!ENTITY firstrun_signup_button "회원 가입">
 
 <!ENTITY firstrun_tabqueue_title "링크">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "사용자">
 <!ENTITY firstrun_account_message "다른 기기에서 &brandShortName; 를 사용하시나요?">
-
-<!ENTITY firstrun_signup_button "회원 가입">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; 간소화 버전으로 더 쉽고 안전하고 사용하세요.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "현재 웹 사이트는 인증 되었음">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName;에 오신 것을 환영합니다.">
 <!ENTITY activity_stream_signin_description "Firefox 계정으로 북마크, 비밀번호 등을 동기화하세요.">
-<!ENTITY activity_stream_signin_button "로그인">
-
 <!ENTITY activity_stream_signup_button "회원 가입">
 <!ENTITY activity_stream_signin_prompt "계정이 이미 있으신가요?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "로그인">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "2020년에 출시 된 완전히 새로운 Firefox">
+<!ENTITY activity_stream_firefox_promo_description "출시 임박: 성능 향상, 향상된 추적 보호, 온라인에서 좋아하는 것을 더 많이 찾고 저장하고 공유 할 수 있도록 설계된 기능을 제공합니다.">
+<!ENTITY activity_stream_firefox_promo_button "살짝 알아보기">
 
 <!ENTITY activity_stream_topsites "상위 사이트">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
