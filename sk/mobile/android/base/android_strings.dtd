@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Menej prenesených dát, väčšia úspora">
 <!ENTITY firstrun_data_subtext2 "Vypnutím obrázkov prenesiete menej dát na každej stránke, ktorú navštívite.">
 <!ENTITY firstrun_sync_title "Synchronizácia">
-<!ENTITY updatednewfirstrun_sync_title "Účet">
-<!ENTITY firstrun_sync_message2 "Pokračujte tam, kde ste prestali.">
 <!ENTITY firstrun_sync_message3 "Synchronizujte svoje záložky, históriu prehliadania a heslá so svojim telefónom.">
 <!ENTITY firstrun_sync_subtext2 "Nájdite pomocou služby Sync záložky, heslá a ďalšie veci, ktoré ste si uložili do prehliadača &brandShortName; na všetkých svojich zariadeniach.">
 <!ENTITY newfirstrun_sync_subtext "Zosynchronizujte si veci, ktoré si uložíte na mobile s počítačom - bezpečne a s ohľadom na súkromie.">
-<!ENTITY updatednewfirstrun_sync_subtext "Prihláste sa do svojho účtu a vyťažte zo svojej aplikácie &brandShortName; čo najviac">
-<!ENTITY firstrun_signin_message "Pripojte sa a začnite">
 <!ENTITY firstrun_sendtab_title "Odosielanie kariet">
 <!ENTITY firstrun_sendtab_message "Zdieľajte karty medzi telefónom a počítačom — jednoducho.">
-<!ENTITY firstrun_signin_button "Prihlásiť sa k službe Sync">
-<!ENTITY newfirstrun_signin_button "Zapnúť synchronizáciu">
-<!ENTITY updatednewfirstrun_signin_button "Prihlásiť sa do aplikácie &brandShortName;">
+<!ENTITY firstrun_signin_message "Pripojte sa a začnite">
 <!ENTITY onboard_start_button_browser "Začať prehliadať">
 <!ENTITY firstrun_button_notnow "Teraz nie">
 <!ENTITY firstrun_button_next "Ďalej">
-
-<!ENTITY firstrun_signin_button2 "Prihlásiť sa">
+<!ENTITY firstrun_signup_button "Prihlásiť sa">
 
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vy">
 <!ENTITY firstrun_account_message "Máte &brandShortName; aj na inom zariadení?">
-
-<!ENTITY firstrun_signup_button "Prihlásiť sa">
 
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Pripojené k stránke">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Víta vás &brandShortName;">
 <!ENTITY activity_stream_signin_description "S účtom Firefox môžete synchronizovať záložky, históriu prehliadania a omnoho viac.">
-<!ENTITY activity_stream_signin_button "Prihlásiť sa">
-
 <!ENTITY activity_stream_signup_button "Zaregistrovať sa">
 <!ENTITY activity_stream_signin_prompt "Už máte účet?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Prihláste sa.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "V roku 2020 prichádza úplne nový Firefox">
+<!ENTITY activity_stream_firefox_promo_description "Už čoskoro: vylepšený výkon. Rozšírená ochrana pred sledovaním. A funkcie navrhnuté tak, aby vám pomohli nájsť, uložiť a zdieľať to, čo máte na internete radi.">
+<!ENTITY activity_stream_firefox_promo_button "Pozrite sa na náhľad">
 
 <!ENTITY activity_stream_topsites "Top stránky">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
