@@ -888,6 +888,8 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "Waš dospołnje nowy Firefox, kotryž w lěće 2020 wundźe">
+<!ENTITY activity_stream_firefox_promo_description "Póndźe bórze: Polěpšeny wukon. Polěpšeny slědowanski škit. A funkcije, kotrež su so wuwili, zo bychu wam pomhali, wjace wo tym namakać, składować a dźělić, štož online lubujeće.">
+<!ENTITY activity_stream_firefox_promo_button "Pohladnyć">
 
 <!ENTITY activity_stream_topsites "Najhusćišo wopytane sydła">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
