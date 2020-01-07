@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Blokujće wobrazy, zo byšće mjenje datow na kóždym sydłe, kotrež wopytujeće, přetrjebował.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Synchronizujće swoje zapołožki, historiju a hesła na swojim telefonje.">
-<!ENTITY updatednewfirstrun_sync_title "Konto">
-<!ENTITY firstrun_sync_message2 "Čińće tam dale, hdźež sće přestał.">
 <!ENTITY firstrun_sync_subtext2 "Wužiwajće Sync, zo byšće zapołožki, hesła a druhe wěcy namakał, kotrež w &brandShortName; na wšěch swojich gratach składujeće.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujće informacije, kotrež na mobilnym graće składujeće, z Firefox za desktop, priwatnje a wěsće.">
 <!ENTITY firstrun_sendtab_title "Rajtark słać">
 <!ENTITY firstrun_sendtab_message "Dźělće rajtarki mobilneho telefona z desktopom - hnydom.">
-<!ENTITY updatednewfirstrun_sync_subtext "Přizjewće so pola swojeho konta, zo byšće najlěpše z &brandShortName; wućahnył">
 <!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
-<!ENTITY firstrun_signin_button "Pola Sync přizjewić">
-<!ENTITY newfirstrun_signin_button "Synchronizaciju zapinać">
-<!ENTITY updatednewfirstrun_signin_button "Pola &brandShortName; přizjewić">
-<!ENTITY  onboard_start_button_browser "Přehladowanje startować">
+<!ENTITY onboard_start_button_browser "Přehladowanje startować">
 <!ENTITY firstrun_button_notnow "Nic hnydom">
 <!ENTITY firstrun_button_next "Přichodny">
 <!ENTITY firstrun_signup_button "Registrować">
-
-<!ENTITY firstrun_signin_button2 "Přizjewić">
 
 <!ENTITY firstrun_tabqueue_title "Wotkazy">
 
@@ -882,7 +874,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Składujće zapiski čitanskeho napohlada jako zapołožki, zo byšće je offline čitał.">
 <!ENTITY helper_triple_readerview_open_button "K zapołožkam přidać">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Witajće k &brandShortName;">
 <!ENTITY activity_stream_signin_description "Synchronizujće nětko zapołožki, hesła a wjace ze swojim kontom Firefox.">
@@ -891,7 +884,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Přizjewće so.">
 
-<!ENTITY activity_stream_signin_button "Přizjewić">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Waš dospołnje nowy Firefox, kotryž w lěće 2020 wundźe">
 
 <!ENTITY activity_stream_topsites "Najhusćišo wopytane sydła">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
