@@ -308,7 +308,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contengut amb Digital Rights Management (DRM)
 play-drm-content =
@@ -665,6 +665,10 @@ forms-exceptions =
     .label = Excepcions…
     .accesskey = x
 forms-breach-alerts-learn-more-link = Ne saber mai
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Emplenar automaticament los identificants e senhals
+    .accesskey = i
 forms-saved-logins =
     .label = Identificants salvats…
     .accesskey = S
@@ -797,7 +801,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizat
     .accesskey = P
 
-
+##
 
 content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
