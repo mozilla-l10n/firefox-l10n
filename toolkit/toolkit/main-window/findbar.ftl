@@ -15,10 +15,10 @@ findbar-highlight-all2 =
     .label = 모두 강조 표시
     .accesskey =
         { PLATFORM() ->
-            [macos] I
+            [macos] l
            *[other] a
         }
-    .tooltiptext = 일치하는 모든 부분을 강조 표시
+    .tooltiptext = 일치하는 모든 부분을 강조 표시합니다
 findbar-case-sensitive =
     .label = 대문자/소문자 구분
     .accesskey = C
@@ -30,4 +30,4 @@ findbar-match-diacritics =
 findbar-entire-word =
     .label = 단어 일치
     .accesskey = w
-    .tooltiptext = 단어가 일치하는 경우만 검색
+    .tooltiptext = 단어가 일치하는 경우만 검색합니다
