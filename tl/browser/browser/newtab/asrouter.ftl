@@ -119,6 +119,7 @@ cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Manood ng mga video habang ikaw ay nagba-browse
+cfr-whatsnew-pip-body = Binubuksan ng Picture-in-picture ang video sa lumulutang na window para maaari kang manood habang abala sa ibang mga tab.
 cfr-whatsnew-pip-cta = Alamain pa
 
 ## Permission Prompt

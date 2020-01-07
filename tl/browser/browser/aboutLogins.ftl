@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Hanapin sa mga Login
 create-login-button = Gumawa ng panibagong Login
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon para sa { $title }
 fxaccounts-sign-in-text = Kuhanin ang iyong mga password sa iba mong mga device
 fxaccounts-sign-in-button = Mag-sign in sa { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Walang resultang tumugma sa i
 login-list-item-title-new-login = Bagong Login
 login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
 login-list-item-subtitle-missing-username = (walang username)
-about-logins-list-item-warning-icon =
-    .alt = Babalang icon
-    .title = Breached website
 about-logins-list-item-breach-icon =
     .title = Breached website
 
@@ -75,12 +67,12 @@ login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-n
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
 login-intro-instruction-fxa-settings = Siguruhin na napili mo ang checkbox na Mga Login sa Mga { -sync-brand-short-name } Setting
 about-logins-intro-instruction-help = Bisitahin ang <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> para sa karagdagang tulong
+about-logins-intro-import = Kung ang iyong mga login ay naka-save sa ibang browser, maaari mong <a data-l10n-name="import-link"> ilipat ang mga ito sa { -lockwise-brand-short-name } </a>
 
 ## Login
 
 login-item-new-login-title = Gumawa ng Panibagong Login
 login-item-edit-button = Baguhin
-login-item-delete-button = Burahin
 about-logins-login-item-remove-button = Tanggalin
 login-item-origin-label = Website Address
 login-item-origin =
@@ -125,7 +117,6 @@ enable-password-sync-preferences-button =
            *[other] Tingnan ang mga kagustuhan para sa { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Burahin ang login na ito?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Huwag nang muling itanong
     .accesskey = H
@@ -137,7 +128,6 @@ confirmation-dialog-dismiss-button =
     .title = Kanselahin
 about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
-confirm-delete-dialog-confirm-button = Burahin
 about-logins-confirm-remove-dialog-confirm-button = Tanggalin
 confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
@@ -152,11 +142,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Mayroon nang tala para sa { $loginTitle } na may ganitong username.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
