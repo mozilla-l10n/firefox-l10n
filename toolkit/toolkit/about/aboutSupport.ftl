@@ -136,7 +136,7 @@ media-capabilities-title = Gallu Cyfryngol
 # List all the entries of the database.
 media-capabilities-enumerate = Cyfrifo'r gronfa ddata
 
-
+##
 
 intl-title = Rhyngwladoli a Lleoleiddio
 intl-app-title = Gosodiadau'r Rhaglen
@@ -161,7 +161,7 @@ remote-debugging-title = Dadfygio o Bell (Protocol Cromiwm)
 remote-debugging-accepting-connections = Derbyn Cysylltiadau
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -281,6 +281,7 @@ d3d11video-crash-guard = Dadgodiwr Fideo D3D11
 d3d9video-crash-buard = Dadgodiwr Fideo D3D9
 d3d9video-crash-guard = Dadgodiwr Fideo D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Dadgodiwr Fideo WMF VPX
 reset-on-next-restart = Ailosod wrth Ailgychwyn
 gpu-process-kill-button = Gorffen Proses GPU
 gpu-device-reset = Ailosod Dyfais
