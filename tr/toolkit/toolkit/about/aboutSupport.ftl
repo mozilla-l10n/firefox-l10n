@@ -136,7 +136,7 @@ media-capabilities-title = Çoku ortam yetenekleri
 # List all the entries of the database.
 media-capabilities-enumerate = Veritabanını numaralandır
 
-
+##
 
 intl-title = Uluslararasılaştırma ve yerelleştirme
 intl-app-title = Uygulama ayarları
@@ -161,7 +161,7 @@ remote-debugging-title = Uzaktan hata ayıklama (Chromium protokolü)
 remote-debugging-accepting-connections = Bağlantılar kabul ediliyor mu?
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -261,6 +261,7 @@ d3d11video-crash-guard = D3D11 Video Çözücüsü
 d3d9video-crash-buard = D3D9 Video Çözücüsü
 d3d9video-crash-guard = D3D9 Video Çözücüsü
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX video çözücüsü
 reset-on-next-restart = Sonraki yeniden başlatmada sıfırla
 gpu-process-kill-button = GPU işlemini sonlandır
 gpu-device-reset = Aygıtı sıfırla
