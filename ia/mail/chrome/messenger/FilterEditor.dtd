@@ -26,7 +26,7 @@
 
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY forwardTo.label "Reinviar le message a">
+<!ENTITY forwardTo.label "Inviar le message ultra a">
 <!ENTITY replyWithTemplate.label "Responder con modello">
 <!ENTITY setJunkScore.label "Mitter stato indesirate a">
 <!ENTITY stopExecution.label "Stoppar le execution del filtro">

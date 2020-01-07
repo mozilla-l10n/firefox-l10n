@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
@@ -19,7 +21,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY forwardCmd.label "Avante">
-<!ENTITY forwardCmd.accesskey "A">
+<!ENTITY forwardCmd.label "Inviar ultra">
+<!ENTITY forwardCmd.accesskey "u">
 <!ENTITY goForwardCmd.commandKey "]">
 

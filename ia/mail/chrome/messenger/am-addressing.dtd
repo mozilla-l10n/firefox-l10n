@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Composition &amp; Adresses">
 <!ENTITY addressingGroupTitle.label "Adresses">
 <!ENTITY addressingText.label      "Durante le recerca del adresses:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Nulle">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Composition">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -37,7 +41,7 @@
 <!ENTITY aboveText.label                      "sub mi responsa (ante le texto citate)">
 <!ENTITY includeSigOnReply.label              "Includer le signatura in le responsas">
 <!ENTITY includeSigOnReply.accesskey          "I">
-<!ENTITY includeSigOnForward.label            "Includer signatura in messages reinviate">
+<!ENTITY includeSigOnForward.label            "Includer signatura in messages invios ultra">
 <!ENTITY includeSigOnForward.accesskey        "r">
 
 <!ENTITY globalComposingPrefs.label           "Preferentias global de redaction…">

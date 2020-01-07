@@ -6,8 +6,8 @@
 <!ENTITY itemAutoComplete.label              "Adresses">
 
 
-<!ENTITY forwardMsg.label                     "Reinviar messages:">
-<!ENTITY forwardMsg.accesskey                 "R">
+<!ENTITY forwardMsg.label                     "Inviar ultra messages:">
+<!ENTITY forwardMsg.accesskey                 "u">
 <!ENTITY asAttachment.label                   "Como annexo">
 
 <!ENTITY font.label                           "Typo de litteras:">

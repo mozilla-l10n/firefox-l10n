@@ -292,7 +292,7 @@
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Message non legite">
 <!ENTITY prevUnreadMsgCmd.accesskey "n">
-<!ENTITY goForwardCmd.label "Reinviar">
+<!ENTITY goForwardCmd.label "Inviar ultra">
 <!ENTITY goForwardCmd.accesskey "R">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY folderMenu.label "Dossier">
@@ -323,11 +323,11 @@
 <!ENTITY replyToListMsgCmd.label "Responder al lista">
 <!ENTITY replyToListMsgCmd.accesskey "L">
 <!ENTITY replyToListMsgCmd.key "l">
-<!ENTITY forwardMsgCmd.label "Reinivar">
-<!ENTITY forwardMsgCmd.accesskey "R">
+<!ENTITY forwardMsgCmd.label "Inviar ultra">
+<!ENTITY forwardMsgCmd.accesskey "u">
 <!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardAsMenu.label "Reinviar como">
-<!ENTITY forwardAsMenu.accesskey "r">
+<!ENTITY forwardAsMenu.label "Inviar ultra como">
+<!ENTITY forwardAsMenu.accesskey "u">
 <!ENTITY forwardAsInline.label "In message">
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Annexo">
@@ -457,7 +457,7 @@
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Responder a totes">
 <!ENTITY replyListButton.label "Responder al lista">
-<!ENTITY forwardButton.label "Reinviar">
+<!ENTITY forwardButton.label "Inviar ultra">
 <!ENTITY fileButton.label "File">
 <!ENTITY archiveButton.label "Archivo">
 <!ENTITY openConversationButton.label "Conversatione">
@@ -466,7 +466,7 @@
 <!ENTITY previousButton.label "Previe">
 <!ENTITY previousMsgButton.label "Previe">
 <!ENTITY backButton1.label "Retro">
-<!ENTITY goForwardButton1.label "Avante">
+<!ENTITY goForwardButton1.label "Inviar ultra">
 <!ENTITY deleteItem.title "Deler">
 <!ENTITY deleteButton.label "Deler">
 <!ENTITY markButton.label "Marcar">
@@ -489,10 +489,10 @@
 <!ENTITY replyButton.tooltip "Responder al message">
 <!ENTITY replyAllButton.tooltip "Responder al expeditor e a tote le destinatarios">
 <!ENTITY replyListButton.tooltip "Responder al lista de diffusion">
-<!ENTITY forwardButton.tooltip "Reinviar le message seligite">
-<!ENTITY forwardAsInline.tooltip "Reinviar le message seligite como parte del texto del message">
-<!ENTITY forwardAsAttachment.tooltip "Reinviar le message seligite como annexo">
-<!ENTITY goForwardButton.tooltip "Avantiar un message">
+<!ENTITY forwardButton.tooltip "Inviar ultra le message seligite">
+<!ENTITY forwardAsInline.tooltip "Inviar ultra le message seligite como parte del texto del message">
+<!ENTITY forwardAsAttachment.tooltip "Inviar ultra le message seligite como annexo">
+<!ENTITY goForwardButton.tooltip "Inviar ultra un message">
 <!ENTITY deleteButton.tooltip "Deler le message o dossier seligite">
 <!ENTITY stopButton.tooltip "Interrumper le transferentia actual">
 <!ENTITY junkButton.tooltip "Marcar le message seligite como indesirate">
@@ -500,8 +500,8 @@
 <!ENTITY compactButton.tooltip "Remover le messages delite del dossier seligite">
 
 <!-- Toolbar Button Popup -->
-<!ENTITY buttonMenuForwardAsInline.label "Reinviar in le texto del message">
-<!ENTITY buttonMenuForwardAsAttachment.label "Reinviar como annexo">
+<!ENTITY buttonMenuForwardAsInline.label "Inviar ultra in le texto del message">
+<!ENTITY buttonMenuForwardAsAttachment.label "Inviar ultra como annexo">
 
 <!-- Remote Content Button Popup -->
 
@@ -593,15 +593,15 @@
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "Responder al lista">
 <!ENTITY contextReplyList.accesskey "L">
-<!ENTITY contextForward.label "Reinviar">
-<!ENTITY contextForward.accesskey "R">
-<!ENTITY contextForwardAsMenu.label "Reinviar como">
+<!ENTITY contextForward.label "Inviar ultra">
+<!ENTITY contextForward.accesskey "u">
+<!ENTITY contextForwardAsMenu.label "Inviar ultra como">
 <!ENTITY contextForwardAsMenu.accesskey "o">
 <!ENTITY contextForwardAsInline.label "In message">
 <!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Annexo">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
-<!ENTITY contextMultiForwardAsAttachment.label "Reinviar como annexos">
+<!ENTITY contextMultiForwardAsAttachment.label "Inviar ultra como annexos">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "x">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
