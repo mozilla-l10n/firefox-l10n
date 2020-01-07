@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Ang Antas ng Proteksyon ay naka-set sa <b>Standard</b>
-protection-header-details-strict = Ang Antas ng Proteksyon ay naka-set sa <b>Strikto</b>
-protection-header-details-custom = Ang Antas ng Proteksyon ay naka-set sa <b>Pasadya</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Ang Antas ng Proteksyon ay naka-set sa <b>Standard</b>
     .title = Pumunta sa mga Privacy Setting
 protection-report-header-details-strict = Ang Antas ng Proteksyon ay naka-set sa <b>Strikto</b>
@@ -37,6 +31,7 @@ protection-report-page-title = Mga Proteksyong Pribasiya
 protection-report-content-title = Mga Proteksyong Pribasiya
 etp-card-title = Enhanced Tracking Protection
 etp-card-content = Sinusundan ka ng mga tracker online para makakuha ng impormasyon tungkol sa iyong mga kaugalian at interes sa pagba-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at ibang mga delikadong script.
+protection-report-etp-card-content-custom-not-blocking = Lahat ng proteksyon ay kasalukyang naka-off. Piliin kung alin tracker ang i-blblock sa pamamagitan ng pamamahala ng iyong { -brand-short-name } protection settings.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ngayon
@@ -56,7 +51,6 @@ lockwise-title = Huwag nang muling makalimot ng password
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga password mo sa iyong browser.
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
-about-logins-view-logins-button = Tingan ang mga Login
 protection-report-view-logins-button = Tingan ang mga Login
     .title = Pumunta sa mga naka-save na Login
 lockwise-no-logins-content = Kunin ang <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> app para madala kahti saan ang iyong mga password.
@@ -70,15 +64,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Buksan ang { -sync-brand-short-name }...
     .title = Pumunta sa sync preferences
-manage-devices = I-manage ang mga device
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Nagsi-sync sa { $count } device
-       *[other] Nagsi-sync sa { $count } iba pang mga device
-    }
-lockwise-sync-not-syncing-devices = Hindi nagsi-sync sa ibang mga device
 monitor-title = Maging alisto sa mga data breach
 monitor-link = Paano ito gumagana
 monitor-header-content-no-account = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang naiulat na data breach, at maalerto sa mga bagong breach.
@@ -118,10 +103,6 @@ password-warning =
         [one] Ang naka-save na login ay maaaring nalantad sa isang data breach. Baguhin ang password na ito para sa mas mabuting seguridad online. <a data-l10n-name="lockwise-link">Tingnan ang mga Naka-save na Login</a>
        *[other] Ang mga naka-save na login ay maaaring nalantad sa isang data breach. Baguhin ang mga password na ito para sa mas mabuting seguridad online. <a data-l10n-name="lockwise-link">Tingnan ang mga Naka-save na Login</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Pumunta sa mga Privacy Setting
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Pumunta sa mga naka-save na Login
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

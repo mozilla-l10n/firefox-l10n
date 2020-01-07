@@ -134,9 +134,11 @@ onboarding-pocket-anywhere-button = Subukan ang { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Dalhin mo Kahit Saan ang Iyong mga Password
 onboarding-lockwise-passwords-text2 = Panatilihing secure ang iyong mga password at mabilis mag-log in sa mga account gamit ang { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Kunin ang App
+onboarding-lockwise-strong-passwords-button = I-manage ang iyong mga Login
 onboarding-facebook-container-title = Bigyang-hangganan ang Facebook
 onboarding-facebook-container-text2 = Ihinihiwalay ng { -facebook-container-brand-name } ang iyong profile mula sa iba pang mga bagay, at ginagawang mas mahirap para sa Facebook na i-target ka ng mga ad.
 onboarding-facebook-container-button = Idagdag ang Extension
+onboarding-import-browser-settings-title = I-import ang iyong mga Bookmark, Password, at iba pa
 onboarding-import-browser-settings-button = i-Import ang Chrome Data
 
 ## Message strings belonging to the Return to AMO flow

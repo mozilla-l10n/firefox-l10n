@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = I-block ang mga bagong kahilingang humihingi ng access sa iyong lokasyon
 permissions-site-location-disable-desc = Ito ang pipigil sa mga website na wala sa listahan upang humingi ng permiso na i-access ang iyong location. Ang pagblock ng access sa iyong location ay maaaring makasira sa ibang features ng website.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-desc = Ang mga sumusunod na website ay humingi ng access sa iyong mga virtual reality device. Maaari mong tukuyin kung aling website ang puwedeng makapag-acccess ng mga ito. Maaari mo ring i-block ang mga bagong request na humihingi ng access sa mga virtual reality device mo.
+permissions-site-xr-disable-label =
+    .label = I-block ang mga bagong request na humihingi ng access sa mga virtual reality device mo
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
