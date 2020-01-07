@@ -10,7 +10,7 @@ rights-intro-point-3 = { -brand-short-name } 當中的一些功能，像是程�
 rights-intro-point-4 = 關於我們如何使用您透過 { -brand-short-name } 送出給 { -vendor-short-name } 的個人資訊的方法位於 <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } 隱私權保護政策</a>。
 rights-intro-point-4-unbranded = 適用此產品的隱私權保護政策應在此處列出。
 rights-intro-point-5 = 一些 { -brand-short-name } 的功能將會用到以網頁為基礎的資訊服務，然而我們無法保證這些資料完全正確。您可以在<a data-l10n-name="mozilla-service-terms-link">服務聲明條款</a>找到更多資訊，包括如何停用這些服務的說明。
-rights-intro-point-5-unbranded = 若此產品包含任何網站資訊服務，適用的服務條款應寫在<a data-l10n-name="mozilla-website-services-link">網站資訊服務</a> 章節。
+rights-intro-point-5-unbranded = 若此產品包含任何網站資訊服務，適用的服務條款應寫在<a data-l10n-name="mozilla-website-services-link">網站資訊服務</a>章節。
 rights-intro-point-6 = { -brand-short-name } 需要下載某些第三方內容解碼程式才能播放某些格式的視訊內容。
 rights-webservices-header = 以網頁為基礎的 { -brand-full-name } 資訊服務
 rights-webservices = { -brand-full-name } 依照下列方式使用以網頁為基礎的資訊（以下簡稱「服務」）以在此二進位版本的 { -brand-short-name } 提供某些功能。如果您不想使用當中一或多個服務或不願意接受以下的服務條款，您可以停用這些功能或服務。停用某種特定功能或服務的方式可以在<a data-l10n-name="mozilla-disable-service-link">這裡</a>找到，其它功能與服務可在應用程式偏好設定中停用。
