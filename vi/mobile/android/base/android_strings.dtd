@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Dữ liệu ít hơn, tiết kiệm nhiều hơn">
 <!ENTITY firstrun_data_subtext2 "Tắt hiển thị ảnh để giảm dữ liệu mà bạn cần tải cho mỗi trang.">
 <!ENTITY firstrun_sync_title "Đồng bộ hóa">
-<!ENTITY updatednewfirstrun_sync_title "Tài khoản">
-<!ENTITY firstrun_sync_message2 "Tiếp tục trang mà bạn vừa rời khỏi.">
 <!ENTITY firstrun_sync_message3 "Đồng bộ trang đánh dấu, lịch sử, và mật khẩu lên điện thoại của bạn.">
 <!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
 <!ENTITY newfirstrun_sync_subtext "Đồng bộ hóa những thứ bạn lưu trên thiết bị di động với Firefox cho máy tính để bàn, riêng tư và an toàn.">
-<!ENTITY updatednewfirstrun_sync_subtext "Đăng nhập vào tài khoản của bạn để tận dụng tối đa &brandShortName;">
-<!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY firstrun_sendtab_title "Gửi thẻ">
 <!ENTITY firstrun_sendtab_message "Chia sẻ các thẻ từ điện thoại lên máy tình bàn — ngay lập tức.">
-<!ENTITY firstrun_signin_button "Đăng nhập để đồng bộ">
-<!ENTITY newfirstrun_signin_button "Bật đồng bộ hóa">
-<!ENTITY updatednewfirstrun_signin_button "Đăng nhập vào &brandShortName;">
+<!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY onboard_start_button_browser "Bắt đầu duyệt web">
 <!ENTITY firstrun_button_notnow "Không phải lúc này">
 <!ENTITY firstrun_button_next "Tiếp">
-
-<!ENTITY firstrun_signin_button2 "Đăng nhập">
+<!ENTITY firstrun_signup_button "Đăng ký">
 
 <!ENTITY firstrun_tabqueue_title "Liên kết">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Bạn">
 <!ENTITY firstrun_account_message "Đã có &brandShortName; trên thiết bị khác?">
-
-<!ENTITY firstrun_signup_button "Đăng ký">
 
 <!ENTITY  onboard_start_restricted1 "Giữ an toàn và kiểm soát với phiên bản đơn giản hoá này của &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Bạn đang kết nối đến">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Chào mừng đến với &brandShortName;">
 <!ENTITY activity_stream_signin_description "Bắt đầu đồng bộ hóa dấu trang, mật khẩu và hơn thế nữa với tài khoản Firefox của bạn.">
-<!ENTITY activity_stream_signin_button "Đăng nhập">
-
 <!ENTITY activity_stream_signup_button "Đăng ký">
 <!ENTITY activity_stream_signin_prompt "Đã có một tài khoản?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Đăng nhập.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Firefox mới của bạn, sẽ sớm ra mắt vào năm 2020">
+<!ENTITY activity_stream_firefox_promo_description "Sắp có: Hiệu suất được cải thiện. Tăng cường trình chống theo dõi. Và các tính năng được thiết kế để giúp bạn tìm, lưu và chia sẻ nhiều hơn những gì bạn yêu thích trực tuyến.">
+<!ENTITY activity_stream_firefox_promo_button "Cái nhìn đầu tiên">
 
 <!ENTITY activity_stream_topsites "Các trang vào nhiều nhất">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
