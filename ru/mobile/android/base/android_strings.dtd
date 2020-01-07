@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Меньше трафика, больше экономии">
 <!ENTITY firstrun_data_subtext2 "Отключайте изображения, чтобы уменьшить расход трафика на каждом посещаемом сайте.">
 <!ENTITY firstrun_sync_title "Синхронизация">
-<!ENTITY updatednewfirstrun_sync_title "Аккаунт">
-<!ENTITY firstrun_sync_message2 "Начните с того места, на котором остановились.">
 <!ENTITY firstrun_sync_message3 "Синхронизируйте ваши закладки, историю и пароли с вашим телефоном.">
 <!ENTITY firstrun_sync_subtext2 "Используйте синхронизацию для доступа к закладкам, паролям и многому другому, что вы сохраните в &brandShortName;, на всех ваших устройствах.">
 <!ENTITY newfirstrun_sync_subtext "Синхронизируйте вещи, которые вы сохраняете на мобильном, с Firefox для компьютеров, приватно и безопасно.">
-<!ENTITY updatednewfirstrun_sync_subtext "Войдите в аккаунт, чтобы получить максимум от &brandShortName;">
-<!ENTITY firstrun_signin_message "Соединитесь и вперёд">
 <!ENTITY firstrun_sendtab_title "Отправить вкладку">
 <!ENTITY firstrun_sendtab_message "Отправляйте вкладки с телефона на компьютер — мгновенно.">
-<!ENTITY firstrun_signin_button "Войти в Синхронизацию">
-<!ENTITY newfirstrun_signin_button "Включить синхронизацию">
-<!ENTITY updatednewfirstrun_signin_button "Войти в &brandShortName;">
+<!ENTITY firstrun_signin_message "Соединитесь и вперёд">
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
 <!ENTITY firstrun_button_notnow "Не сейчас">
 <!ENTITY firstrun_button_next "Далее">
-
-<!ENTITY firstrun_signin_button2 "Войти">
+<!ENTITY firstrun_signup_button "Регистрация">
 
 <!ENTITY firstrun_tabqueue_title "Ссылки">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Вы">
 <!ENTITY firstrun_account_message "Установили &brandShortName; на другом устройстве?">
-
-<!ENTITY firstrun_signup_button "Регистрация">
 
 <!ENTITY  onboard_start_restricted1 "Будьте в безопасности и установите свой контроль с этой упрощённой версией &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Вы соединены с">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Добро пожаловать в &brandShortName;">
 <!ENTITY activity_stream_signin_description "Начните синхронизировать закладки, пароли и многое другое с вашим Аккаунтом Firefox.">
-<!ENTITY activity_stream_signin_button "Войти">
-
 <!ENTITY activity_stream_signup_button "Регистрация">
 <!ENTITY activity_stream_signin_prompt "Уже есть аккаунт?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Войти.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Совершенно новый Firefox грядёт в 2020">
+<!ENTITY activity_stream_firefox_promo_description "Уже скоро: Улучшенная производительность. Расширенная защита от отслеживания. А также функции, созданные, чтобы помочь вам найти, сохранить и поделиться всем, что вы так любите в Интернете.">
+<!ENTITY activity_stream_firefox_promo_button "Познакомиться">
 
 <!ENTITY activity_stream_topsites "Топ сайтов">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
