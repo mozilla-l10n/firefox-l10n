@@ -136,7 +136,7 @@ media-capabilities-title = Khả năng truyền thông
 # List all the entries of the database.
 media-capabilities-enumerate = Liệt kê cơ sở dữ liệu
 
-
+##
 
 intl-title = Quốc tế hóa & bản địa hóa
 intl-app-title = Cài đặt ứng dụng
@@ -161,7 +161,7 @@ remote-debugging-title = Gỡ lỗi từ xa (Giao thức Chromium)
 remote-debugging-accepting-connections = Đang cho phép kết nối
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -241,6 +241,7 @@ d3d11video-crash-guard = Bộ giải mã video D3D11
 d3d9video-crash-buard = Bộ giải mã video D3D9
 d3d9video-crash-guard = Bộ giải mã video D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Bộ giải mã video WMF VPX
 reset-on-next-restart = Đặt lại vào lần khởi động lại tiếp theo
 gpu-process-kill-button = Buộc dừng quá trình GPU
 gpu-device-reset = Đặt lại thiết bị
