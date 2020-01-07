@@ -6,7 +6,7 @@
 <!ENTITY  window.width                  "49em">
 <!ENTITY  window.macWidth               "44em">
 
-<!ENTITY  proxyTitle.label              "配置访问国际互联网的代理">
+<!ENTITY  proxyTitle.label              "配置访问互联网的代理">
 <!ENTITY  noProxyTypeRadio.label        "不使用代理">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "使用系统代理设置">
@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL 代理:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "HTTPS Proxy:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS 主机:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "与 localhost、127.0.0.1 和 ::1 的连接永不经过代理。">
+<!ENTITY  noproxyLocalhostDesc.label    "与 localhost、127.0.0.1 和 ::1 的连接永不经过代理。">
 <!ENTITY  shareproxy.label              "为所有协议使用此代理服务器">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  proxyHttpSharing.label        "也将此代理用于 HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "如果密码已保存，不提示身份验证">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "如果选中此选项，当您已保存身份凭据时，将会自动验证身份。如果身份验证失败，仍将向您询问身份凭据。">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "启用基于 HTTPS 的 DNS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "使用默认值">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "使用默认 URL 完成基于 HTTPS 的 DNS 解析">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "自定义">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "输入您偏好的 URL，用来完成基于 HTTPS 的 DNS 解析">
