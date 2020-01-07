@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Mens de donadas, mai d’estalvi">
 <!ENTITY firstrun_data_subtext2 "Desactivatz los imatges per far cargar mens donadas per cada site que visitatz.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Compte">
-<!ENTITY firstrun_sync_message2 "Tornatz ont èretz.">
 <!ENTITY firstrun_sync_message3 "Sincronizar vòstres marcapaginas, istoric e senhals amb vòstre telefòn.">
 <!ENTITY firstrun_sync_subtext2 "Utilizatz Sync per retrobar de marcapaginas, senhals, e autras donadas que gardatz dins &brandShortName; sus totes vòstres periferics.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizatz çò qu’enregistratz dins vòstre periferic mobil amb Firefox per ordenador, d’un biais privat e segur.">
-<!ENTITY updatednewfirstrun_sync_subtext "Connectatz-vos a vòstre compte per aprofechar al maximum de &brandShortName;">
-<!ENTITY firstrun_signin_message "Connectatz-vos e començatz">
 <!ENTITY firstrun_sendtab_title "Enviar l’onglet">
 <!ENTITY firstrun_sendtab_message "Partejatz d’onglets de vòstre telefòn estan amb l’ordenador, instantanèament.">
-<!ENTITY firstrun_signin_button "Se connectar a Sync">
-<!ENTITY newfirstrun_signin_button "Activar la sincronizacion">
-<!ENTITY updatednewfirstrun_signin_button "Se connectar a&brandShortName;">
+<!ENTITY firstrun_signin_message "Connectatz-vos e començatz">
 <!ENTITY onboard_start_button_browser "Començar de navegar">
 <!ENTITY firstrun_button_notnow "Non, pas ara">
 <!ENTITY firstrun_button_next "Seguent">
-
-<!ENTITY firstrun_signin_button2 "Se connectar">
+<!ENTITY firstrun_signup_button "S’inscriure">
 
 <!ENTITY firstrun_tabqueue_title "Ligams">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vos">
 <!ENTITY firstrun_account_message "Utilizatz &brandShortName; sus d’autres periferics ?">
-
-<!ENTITY firstrun_signup_button "S’inscriure">
 
 <!ENTITY  onboard_start_restricted1 "Demoratz en seguretat e a la mena amb aquela version simplificada de &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sètz connectat a">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -892,12 +882,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "La benvenguda a &brandShortName;">
 <!ENTITY activity_stream_signin_description "Començatz de sincronizar los marcapaginas, los senhales e encara mai amb vòstre compte Firefox.">
-<!ENTITY activity_stream_signin_button "Se connectar">
-
 <!ENTITY activity_stream_signup_button "S’inscriure">
 <!ENTITY activity_stream_signin_prompt "Avètz ja un compte ?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Connectatz-vos.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Vòstre tot novèl Firefox arriba en 2020">
+<!ENTITY activity_stream_firefox_promo_description "Arriba lèu : de melhoras performanças. Proteccion de seguiment mai fòrta. E de foncionalitats per vos ajudar a trobar, enregistrar e partejar çò qu’aimatz en linha.">
+<!ENTITY activity_stream_firefox_promo_button "Fasètz una ulhada">
 
 <!ENTITY activity_stream_topsites "Sites favorits">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
