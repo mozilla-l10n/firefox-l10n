@@ -244,6 +244,7 @@ d3d11video-crash-guard = D3D11 視訊解碼器
 d3d9video-crash-buard = D3D9 視訊解碼器
 d3d9video-crash-guard = D3D9 視訊解碼器
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX 視訊解碼器
 reset-on-next-restart = 下次重新啟動時重設
 gpu-process-kill-button = 結束 GPU 處理程序
 gpu-device-reset = 裝置重設
