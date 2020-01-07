@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Diffoddwch ddelweddau a gwario llai ar ddata pob gwefan fyddwch yn mynd iddyn nhw.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Cydweddu eich nodau tudalen, hanes a\&apos;ch cyfrineiriau i\&apos;ch ffôn.">
-<!ENTITY updatednewfirstrun_sync_title "Cyfrif">
-<!ENTITY firstrun_sync_message2 "Parhau lle roeddech o\&apos;r blaen.">
 <!ENTITY firstrun_sync_subtext2 "Defnyddiwch Sync i ganfod nodau tudalen, cyfrineiriau a phethau eraill rydych wedi eu cadw i &brandShortName; ar eich holl ddyfeisiau.">
 <!ENTITY newfirstrun_sync_subtext "Cydweddwch y pethau rydych chi\&apos;n eu cadw ar Firefox symudol i Firefox y bwrdd gwaith, yn breifat ac yn ddiogel.">
 <!ENTITY firstrun_sendtab_title "Tab Anfon">
 <!ENTITY firstrun_sendtab_message "Rhannwch dabiau o\&apos;r ffôn symudol i\&apos;r bwrdd gwaith - ar unwaith.">
-<!ENTITY updatednewfirstrun_sync_subtext "Mewngofnodwch i\&apos;ch cyfrif i gael y mwyaf o &brandShortName;">
 <!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
-<!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
-<!ENTITY newfirstrun_signin_button "Cychwyn Sync">
-<!ENTITY updatednewfirstrun_signin_button "Mewngofnodi i &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Cychwyn Pori">
+<!ENTITY onboard_start_button_browser "Cychwyn Pori">
 <!ENTITY firstrun_button_notnow "Dim nawr">
 <!ENTITY firstrun_button_next "Nesaf">
 <!ENTITY firstrun_signup_button "Ymuno">
-
-<!ENTITY firstrun_signin_button2 "Mewngofnodi">
 
 <!ENTITY firstrun_tabqueue_title "Dolenni">
 
@@ -882,7 +874,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Gosod Nod Tudalen i eitemau Golwg Darllen i\&apos;w darllen all-lein.">
 <!ENTITY helper_triple_readerview_open_button "Ychwanegu at y Nodau Tudalen">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Croeso i &brandShortName;">
 <!ENTITY activity_stream_signin_description "Cychwynnwch gydweddu nodau tudalen, cyfrineiriau, a rhagor gyda\&apos;ch cyfrif Firefox.">
@@ -891,7 +884,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Mewngofnodi.">
 
-<!ENTITY activity_stream_signin_button "Mewngofnodi">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Eich Firefox newydd sbon, yn cyrraedd yn 2020">
+<!ENTITY activity_stream_firefox_promo_description "Yn dod cyn hir: Gwell perfformiad. Gwell diogelwch rhag tracio. A nodweddion sydd wedi\&apos;u cynllunio i\&apos;ch helpu chi i ganfod, cadw, a rhannu mwy o\&apos;r hyn rydych chi\&apos;n ei fwynhau ar-lein.">
+<!ENTITY activity_stream_firefox_promo_button "Cymerwch olwg">
 
 <!ENTITY activity_stream_topsites "Hoff Wefannau">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
