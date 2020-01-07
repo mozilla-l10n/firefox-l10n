@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Minder gegevens, mear besparje">
 <!ENTITY firstrun_data_subtext2 "Set ôfbyldingen út foar minder gegevensferkear by elke besochte website.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Account">
-<!ENTITY firstrun_sync_message2 "Gean troch wêr\&apos;t jo bleaun wiene.">
 <!ENTITY firstrun_sync_message3 "Syngronisearje jo blêdwizers, skiednis en wachtwurden nei jo telefoan.">
 <!ENTITY firstrun_sync_subtext2 "Brûk Sync om de blêdwizers, wachtwurden en oare saken dy\&apos;t jo yn &brandShortName; op al jo apparaten bewarje te finen.">
 <!ENTITY newfirstrun_sync_subtext "Syngronisearje de dingen dy\&apos;t jo op mobyl bewarje nei Firefox foar desktop, privee en feilich.">
-<!ENTITY updatednewfirstrun_sync_subtext "Meld jo oan by jo account om it measte út &brandShortName; te heljen">
-<!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
 <!ENTITY firstrun_sendtab_title "Ljepblêd ferstjoere">
 <!ENTITY firstrun_sendtab_message "Diel ljepblêden fan mobyl nei desktop – daliks.">
-<!ENTITY firstrun_signin_button "Oanmelde by Sync">
-<!ENTITY newfirstrun_signin_button "Sync ynskeakelje">
-<!ENTITY updatednewfirstrun_signin_button "Oanmelde by &brandShortName;">
+<!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
 <!ENTITY onboard_start_button_browser "Start mei browsen">
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Folgjende">
-
-<!ENTITY firstrun_signin_button2 "Oanmelde">
+<!ENTITY firstrun_signup_button "Registrearje">
 
 <!ENTITY firstrun_tabqueue_title "Keppelingen">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Jo">
 <!ENTITY firstrun_account_message "Hawwe jo &brandShortName; op in oar apparaat?">
-
-<!ENTITY firstrun_signup_button "Registrearje">
 
 <!ENTITY  onboard_start_restricted1 "Bliuw feilich en yn kontrôle mei dizze ferienfâldige ferzje fan &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jo binne ferbûn mei">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -892,12 +882,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Wolkom by &brandShortName;">
 <!ENTITY activity_stream_signin_description "Start mei syngronisearjen fan blêdwizers, wachtwurden en mear mei jo Firefox-account.">
-<!ENTITY activity_stream_signin_button "Oanmelde">
-
 <!ENTITY activity_stream_signup_button "Registrearje">
 <!ENTITY activity_stream_signin_prompt "Hawwe jo al in account?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Oanmelde.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Jo folslein fernijde Firefox, arrivearret yn 2020">
+<!ENTITY activity_stream_firefox_promo_description "Ynkoarten: ferbettere prestaasjes. Ferbettere befeiliging tsjin folgjen. En funksjes dy\&apos;t ûntwurpen binne om jo te helpen mear fan de dingen dy\&apos;t jo online geweldich fine te finen, te bewarjen en te dielen.">
+<!ENTITY activity_stream_firefox_promo_button "Sjoch ris rûn">
 
 <!ENTITY activity_stream_topsites "Topwebsites">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
