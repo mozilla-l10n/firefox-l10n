@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Менше даних, більше заощаджень">
 <!ENTITY firstrun_data_subtext2 "Вимкніть зображення на відвідуваних сайтах, щоб зменшити споживання даних.">
 <!ENTITY firstrun_sync_title "Синхронізація">
-<!ENTITY updatednewfirstrun_sync_title "Обліковий запис">
-<!ENTITY firstrun_sync_message2 "Продовжуйте з місця, на якому ви зупинилися.">
 <!ENTITY firstrun_sync_message3 "Синхронізуйте свої закладки, історію та паролі з телефоном.">
 <!ENTITY firstrun_sync_subtext2 "Використовуйте синхронізацію для доступу до закладок, паролів та інших даних, які ви зберігаєте в &brandShortName;, на всіх пристроях.">
 <!ENTITY newfirstrun_sync_subtext "Користуйтеся приватною і безпечною синхронізацією Firefox між мобільним і комп\&apos;ютером.">
-<!ENTITY updatednewfirstrun_sync_subtext "Увійдіть до свого облікового запису для отримання максимуму від &brandShortName;">
-<!ENTITY firstrun_signin_message "Під’єднайтесь і вперед">
 <!ENTITY firstrun_sendtab_title "Надіслати вкладку">
 <!ENTITY firstrun_sendtab_message "Миттєво надсилайте вкладки з мобільного на комп\&apos;ютер.">
-<!ENTITY firstrun_signin_button "Увійти до Синхронізації">
-<!ENTITY newfirstrun_signin_button "Увімкнути синхронізацію">
-<!ENTITY updatednewfirstrun_signin_button "Увійти в &brandShortName;">
+<!ENTITY firstrun_signin_message "Під’єднайтесь і вперед">
 <!ENTITY onboard_start_button_browser "Почати перегляд">
 <!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далі">
-
-<!ENTITY firstrun_signin_button2 "Увійти">
+<!ENTITY firstrun_signup_button "Зареєструватись">
 
 <!ENTITY firstrun_tabqueue_title "Посилання">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ви">
 <!ENTITY firstrun_account_message "Маєте &brandShortName; на іншому пристрої?">
-
-<!ENTITY firstrun_signup_button "Зареєструватись">
 
 <!ENTITY  onboard_start_restricted1 "Залишайтеся в безпеці та на контролі з цією спрощеною версією &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ви підключені до">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -892,12 +882,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Вітаємо в &brandShortName;">
 <!ENTITY activity_stream_signin_description "Почніть синхронізувати закладки, паролі та інші дані з Обліковим записом Firefox.">
-<!ENTITY activity_stream_signin_button "Увійти">
-
 <!ENTITY activity_stream_signup_button "Зареєструватись">
 <!ENTITY activity_stream_signin_prompt "Вже маєте обліковий запис?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Увійти.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "У 2020 році вийде цілком новий Firefox">
+<!ENTITY activity_stream_firefox_promo_description "Незабаром: Покращена швидкодія. Вдосконалений захист від стеження. А також функції, створені, щоб допомагати вам краще знаходити, зберігати й ділитися тим, що ви любите в Інтернеті.">
+<!ENTITY activity_stream_firefox_promo_button "Ознайомитись">
 
 <!ENTITY activity_stream_topsites "Популярні сайти">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
