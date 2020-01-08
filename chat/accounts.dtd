@@ -32,10 +32,10 @@
 <!ENTITY account.movedown.label       "Mover abajo">
 <!ENTITY account.cancelReconnection.label         "Cancelar la reconexión">
 <!ENTITY account.cancelReconnection.accesskey     "A">
-<!ENTITY account.copyDebugLog.label     "Copiar información para depuración">
+<!ENTITY account.copyDebugLog.label     "Copiar registro de depuración">
 <!ENTITY account.copyDebugLog.accesskey "C">
-<!ENTITY account.showDebugLog.label     "Ver la información de depuración">
-<!ENTITY account.showDebugLog.accesskey "V">
+<!ENTITY account.showDebugLog.label     "Mostrar registro de depuración">
+<!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Conectando…">
 <!ENTITY account.disconnecting        "Desconectando…">
 <!ENTITY account.disconnected         "No conectado">
