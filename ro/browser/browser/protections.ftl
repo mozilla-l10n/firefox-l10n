@@ -33,6 +33,7 @@ protection-report-page-title = Protecții privind intimitatea
 protection-report-content-title = Protecții privind intimitatea
 etp-card-title = Protecție îmbunătățită împotriva urmăririi
 etp-card-content = Elementele de urmărire te urmăresc online pentru a colecta informații despre obiceiurile și interesele tale de navigare. { -brand-short-name } blochează multe dintre aceste elementele de urmărire și alte scripturi rău-intenționate.
+protection-report-etp-card-content-custom-not-blocking = Toate protecțiile sunt acum dezactivate. Selectează elementele de urmărire care să fie blocate prin gestionarea setărilor de protecție din { -brand-short-name }.
 protection-report-manage-protections = Gestionează setările
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -67,6 +68,15 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Activează { -sync-brand-short-name }...
     .title = Mergi la preferințele de sincronizare
+manage-connected-devices = Gestionare dispozitive…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Conectat la { $count } dispozitiv
+        [few] Conectat la { $count } dispozitive
+       *[other] Conectat la { $count } de dispozitive
+    }
 monitor-title = Stai cu ochii pe încălcările securității datelor
 monitor-link = Cum funcționează
 monitor-header-content-no-account = Verifică { -monitor-brand-name } pentru a vedea dacă faci parte dintr-o încălcare cunoscută a securității datelor și pentru a obține alerte despre încălcările noi.
