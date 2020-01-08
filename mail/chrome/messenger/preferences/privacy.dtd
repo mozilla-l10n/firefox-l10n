@@ -38,4 +38,5 @@
 <!ENTITY doNotTrackInfo.label "Докладніше про відмову від стеження">
 
 <!ENTITY doNotTrackCheck.label "Надішліть вебсайтам сигнал “Не стежити”, якщо ви не хочете, щоб вас відстежували">
+<!ENTITY doNotTrackCheck.accesskey "с">
 <!ENTITY doNotTrackLearnMore.label "Докладніше">

@@ -261,6 +261,7 @@
 <!ENTITY fromAddr.label "Від:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY fromAddr2.label "Від">
 <!ENTITY fromAddr.accesskey "д">
 <!ENTITY toAddr.label "Кому:">
@@ -270,10 +271,12 @@
 <!ENTITY newsgroupsAddr.label "Група новин:">
 <!ENTITY followupAddr.label "Продовжити в:">
 <!ENTITY subject.label "Тема:">
+<!ENTITY toAddr2.label "Кому">
 <!ENTITY ccAddr2.label "Копія">
 <!ENTITY bccAddr2.label "Прихована копія">
 <!ENTITY replyAddr2.label "Відповісти">
 <!ENTITY newsgroupsAddr2.label "Група новин">
+<!ENTITY followupAddr2.label "Продовжити в">
 <!ENTITY subject2.label "Тема">
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
@@ -286,7 +289,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Панель вкладень">
 <!ENTITY attachmentBucketCloseButton.tooltip "Сховати панель вкладень">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Вставити смайлик">
 <!ENTITY smiley1Cmd.label "Посміхаюся">
 <!ENTITY smiley2Cmd.label "Сумую">

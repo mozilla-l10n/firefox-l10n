@@ -81,11 +81,13 @@
 <!ENTITY manual-edit.label               "Вручну">
 <!ENTITY manual-edit.accesskey           "В">
 <!ENTITY manual-config.label             "Налаштувати вручну…">
+<!ENTITY manual-config.accesskey         "Н">
 <!ENTITY open-provisioner.label          "Отримати нову адресу електронної пошти…">
 <!ENTITY open-provisioner.accesskey      "О">
 
 
 <!ENTITY get-help.label                  "Отримати допомогу">
+<!ENTITY get-help.accesskey              "д">
 
 
 <!ENTITY warning.label                   "Увага!">
