@@ -39,3 +39,6 @@
 
 <!ENTITY defaultSearchEngine.label        "Типовий засіб пошуку">
 <!ENTITY addSearchEngine.label            "Додати з файлу">
+<!ENTITY addSearchEngine.accesskey        "Д">
+<!ENTITY removeSearchEngine.label         "Вилучити">
+<!ENTITY removeSearchEngine.accesskey     "в">

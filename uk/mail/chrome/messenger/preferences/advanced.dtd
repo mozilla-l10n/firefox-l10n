@@ -124,4 +124,6 @@
 <!ENTITY viewSecurityDevices.accesskey "з">
 
 <!ENTITY manageCertificates2.label "Керування сертифікатами…">
+<!ENTITY manageCertificates2.accesskey "К">
 <!ENTITY viewSecurityDevices2.label "Пристрої безпеки…">
+<!ENTITY viewSecurityDevices2.accesskey "з">
