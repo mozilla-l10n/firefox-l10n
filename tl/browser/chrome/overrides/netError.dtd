@@ -129,6 +129,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>Hinarang ng &brandShortName; na mag-load ang pahinang ito sa ganitong paraan dahil sa content security policy ng pahinang ito.</p>">
 
 <!ENTITY xfoBlocked.title "Na-Block ng X-Frame_options Policy">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ay pumigil sa page na ito na mag-load dahil ang page ay may X-Frame-Options policy na nagbabawal dito.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ang pahinang sinusubukan mong tingnan ay hindi maipakita dahil may problemang natuklasan sa pag-transmit ng data.</p><ul><li>Pakitawagan ang mga may-ari ng website upang ipagbigay-alam ang problemang ito.</li></ul>">
