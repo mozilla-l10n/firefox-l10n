@@ -46,6 +46,8 @@
 <!ENTITY  noproxyLocalhostDesc.label    "Las conexiones a localhost, 127.0.0.1 y ::1 nunca pasan pro proxy.">
 <!ENTITY  shareproxy.label              "Usar este servidor proxy para todos los protocolos">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  proxyHttpSharing.label        "Use este proxy también para FTP y HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "No pedir autenticación si la contraseña está guardada">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Esta opción autentica silenciosamente a los proxys cuand se han gardado credenciales para ellos. Se pedirá si falla la autenticación.">
