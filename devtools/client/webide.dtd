@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "기기 설정">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "성능">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -50,10 +49,11 @@
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "축소">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "처음 크기로">
+<!ENTITY viewMenu_resetzoom_label "확대/축소 초기화">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "앱 열기">
+
 <!ENTITY runtimeButton_label "런타임 선택">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +77,6 @@
 <!ENTITY runtimePanel_usb "USB 기기">
 <!ENTITY runtimePanel_wifi "Wi-Fi 기기">
 <!ENTITY runtimePanel_other "기타">
-<!ENTITY runtimePanel_noadbhelper "ADB 도우미 설치">
 <!ENTITY runtimePanel_nousbdevice "기기가 안뜹니까?">
 <!ENTITY runtimePanel_refreshDevices_label "기기 새로고침">
 
@@ -120,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "런타임 정보">
-<!ENTITY runtimedetails_adbIsRoot "루트 권한 ADB: ">
-<!ENTITY runtimedetails_summonADBRoot "루팅된 기기">
-<!ENTITY runtimedetails_ADBRootWarning "(언락된 부트로더 필요)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "개발자 도구 권한 제한 풀림: ">
-<!ENTITY runtimedetails_requestPrivileges "더 높은 권한 요구">
-<!ENTITY runtimedetails_privilegesWarning "(기기를 다시 시작합니다. 루트 접근이 필요합니다.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "불린">
