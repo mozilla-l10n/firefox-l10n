@@ -12,6 +12,7 @@
 <!ENTITY window.title "Ai lansat o versiune mai veche de &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "Este posibil ca o versiune mai nouă de &brandProductName; să fi efectuat modificări în profilul tău, care nu mai sunt compatibile cu această versiune mai veche. Folosește acest profil numai cu versiunea mai nouă respectivă sau creează un profil nou pentru această versiune de &brandShortName;. Crearea unui profil nou necesită re-configurarea conturilor, calendarelor și suplimentelor.">
 
 <!ENTITY window.moreinfo "Mai multe informații…">
 <!ENTITY window.create "Creează un profil nou">

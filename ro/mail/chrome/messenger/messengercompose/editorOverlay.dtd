@@ -306,6 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o ancoră denumită nouă sau editează proprietățile ancorei selectate">
 <!ENTITY TextColorButton.tooltip "Alege culoarea textului">
 <!ENTITY BackgroundColorButton.tooltip "Alege culoarea de fundal">
+<!ENTITY throbber.tooltip2 "Intră pe pagina de start &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->

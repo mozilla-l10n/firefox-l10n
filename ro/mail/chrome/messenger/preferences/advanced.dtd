@@ -125,4 +125,5 @@
 
 <!ENTITY manageCertificates2.label "Gestionează certificatele…">
 <!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Dispozitive de securitate…">
 <!ENTITY viewSecurityDevices2.accesskey "D">
