@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Simulan natin alamin ang lahat ng magagawa mo
 onboarding-fullpage-form-email =
     .placeholder = Ang iyong email address...
 
@@ -134,6 +135,7 @@ onboarding-pocket-anywhere-button = Subukan ang { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Dalhin mo Kahit Saan ang Iyong mga Password
 onboarding-lockwise-passwords-text2 = Panatilihing secure ang iyong mga password at mabilis mag-log in sa mga account gamit ang { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Kunin ang App
+onboarding-lockwise-strong-passwords-title = Gumawa at Itago ang mga Strong Password
 onboarding-lockwise-strong-passwords-button = I-manage ang iyong mga Login
 onboarding-facebook-container-title = Bigyang-hangganan ang Facebook
 onboarding-facebook-container-text2 = Ihinihiwalay ng { -facebook-container-brand-name } ang iyong profile mula sa iba pang mga bagay, at ginagawang mas mahirap para sa Facebook na i-target ka ng mga ad.

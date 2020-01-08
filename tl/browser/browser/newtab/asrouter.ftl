@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Inirerekomendang Extension
 cfr-doorhanger-feature-heading = Inirerekomenda na Tampok
 cfr-doorhanger-pintab-heading = Subukan: Mag-pin ng Tab
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bakit ko nakikita ito
@@ -167,6 +167,8 @@ cfr-doorhanger-socialtracking-ok-button = Tingnan ang mga Proteksyon
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Isara
     .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = Huwag na muling ipakita ang mga mensaheng gaya nito
+    .accesskey = H
 cfr-doorhanger-socialtracking-heading = Pinigilan ng { -brand-short-name } ang isang social network na sundan ka rito
 cfr-doorhanger-socialtracking-description = Mahalaga ang iyong privacy. Hinaharang na ngayon ng { -brand-short-name } ang mga karaniwang social media tracker, nililimitahan kung gaano karaming data ang pwede nilang kolektahin patungkol sa mga gawain mo online.
 cfr-doorhanger-fingerprinters-heading = Hinarang ng { -brand-short-name } ang isang fingerprinter sa pahinang ito

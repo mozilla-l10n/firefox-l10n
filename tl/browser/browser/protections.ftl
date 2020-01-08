@@ -32,6 +32,7 @@ protection-report-content-title = Mga Proteksyong Pribasiya
 etp-card-title = Enhanced Tracking Protection
 etp-card-content = Sinusundan ka ng mga tracker online para makakuha ng impormasyon tungkol sa iyong mga kaugalian at interes sa pagba-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at ibang mga delikadong script.
 protection-report-etp-card-content-custom-not-blocking = Lahat ng proteksyon ay kasalukyang naka-off. Piliin kung alin tracker ang i-blblock sa pamamagitan ng pamamahala ng iyong { -brand-short-name } protection settings.
+protection-report-manage-protections = Pamahalaan ang Settings
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ngayon
@@ -64,6 +65,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Buksan ang { -sync-brand-short-name }...
     .title = Pumunta sa sync preferences
+manage-connected-devices = Pamahalaan ang mga device…
 monitor-title = Maging alisto sa mga data breach
 monitor-link = Paano ito gumagana
 monitor-header-content-no-account = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang naiulat na data breach, at maalerto sa mga bagong breach.
