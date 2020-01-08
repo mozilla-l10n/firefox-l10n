@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Account beheren…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-instellingen…">
 
-<!ENTITY pictureInPictureHideToggle.label "Beeld-in-beeld-schakelaar verbergen">
+<!ENTITY pictureInPictureHideToggle.label "Picture-in-Picture-knop verbergen">
 <!ENTITY pictureInPictureHideToggle.accesskey "V">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gebruik van DRM-software beheren">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-paneel openen">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "U hebt deze website aanvullende toestemmingen gegeven.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "U hebt uw camera voor deze website geblokkeerd.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "U hebt uw microfoon voor deze website geblokkeerd.">
 <!ENTITY urlbar.screenBlocked.tooltip            "U hebt het delen van uw scherm voor deze website geblokkeerd.">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "U hebt het gebruik van de Adobe Flash-plug-in voor deze website geblokkeerd.">
 <!ENTITY urlbar.midiBlocked.tooltip              "U hebt MIDI-toegang voor deze website geblokkeerd.">
 <!ENTITY urlbar.installBlocked.tooltip           "U hebt installatie van add-ons voor deze website geblokkeerd.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "U hebt deze website aanvullende toestemmingen gegeven.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
