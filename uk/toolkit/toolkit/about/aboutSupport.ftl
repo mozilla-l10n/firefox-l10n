@@ -139,7 +139,7 @@ media-capabilities-title = Медіа-можливості
 # List all the entries of the database.
 media-capabilities-enumerate = Перерахувати базу даних
 
-
+##
 
 intl-title = Інтернаціоналізація та локалізація
 intl-app-title = Налаштування програми
@@ -164,7 +164,7 @@ remote-debugging-title = Віддалене зневадження (Проток
 remote-debugging-accepting-connections = Вхідні з'єднання
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -269,6 +269,7 @@ d3d11video-crash-guard = Відео декодер D3D11
 d3d9video-crash-buard = Відео декодер D3D9
 d3d9video-crash-guard = Відео декодер D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 reset-on-next-restart = Скинути при наступному перезавантаженні
 gpu-process-kill-button = Завершити GPU процес
 gpu-device-reset = Скидання пристрою
