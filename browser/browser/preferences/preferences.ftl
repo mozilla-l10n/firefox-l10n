@@ -313,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = 디지털 권리 관리(DRM) 콘텐츠
 play-drm-content =
@@ -425,7 +425,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = 새 창과 탭
-home-new-windows-tabs-description2 = 홈페이지나 새창, 새탭을 열었을 때 나올 내용을 선택하세요.
+home-new-windows-tabs-description2 = 홈페이지, 새 창 및 새 탭을 열 때 표시되는 것을 선택하세요.
 
 ## Home Section - Home Page Customization
 
@@ -462,7 +462,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Firefox 홈 콘텐츠
-home-prefs-content-description = Firefox 홈 화면에 나올 콘텐츠를 선택하세요.
+home-prefs-content-description = Firefox 홈 화면에서 원하는 콘텐츠를 선택하세요.
 home-prefs-search-header =
     .label = 웹 검색
 home-prefs-topsites-header =
@@ -795,7 +795,7 @@ history-remember-search-option =
     .label = 검색 및 입력 기록 저장
     .accesskey = f
 history-clear-on-close-option =
-    .label = { -brand-short-name } 닫을 때 방문 기록 삭제
+    .label = { -brand-short-name }를 닫을 때 방문 기록 삭제
     .accesskey = r
 history-clear-on-close-settings =
     .label = 설정…
@@ -902,7 +902,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 사용자 지정
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.

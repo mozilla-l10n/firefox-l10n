@@ -15,7 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = 모든 기록 삭제
     .style = width: 34em
-clear-data-settings-label = 닫을 때 { -brand-short-name }가 자동으로 모두 삭제
+clear-data-settings-label = 닫을 때, { -brand-short-name }가 자동으로 모두 삭제
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
