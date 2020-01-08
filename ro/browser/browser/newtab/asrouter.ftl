@@ -138,14 +138,14 @@ cfr-whatsnew-permission-prompt-cta = Află mai multe
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-        [one] detector de amprente digitale blocat
-        [few] detectoare de amprente digitale blocate
-       *[other] de detectoare de amprente digitale blocate
+        [one] generator de amprente digitale blocat
+        [few] generatoare de amprente digitale blocate
+       *[other] de generatoare de amprente digitale blocate
     }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochează multe detectoare de amprente digitale, care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochează multe generatoare de amprente digitale, care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
 # Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Detectoare de amprente digitale
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poate bloca detectoarele de amprente digitale care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
+cfr-whatsnew-fingerprinter-counter-header-alt = Generatoare de amprente digitale
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poate bloca generatoarele de amprente digitale care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
 
 ## Bookmark Sync
 
@@ -186,8 +186,12 @@ cfr-doorhanger-socialtracking-dont-show-again = Nu mai afișa mesaje de acest ge
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } a împiedicat o rețea de socializare care voia să te urmărească aici
 cfr-doorhanger-socialtracking-description = Confidențialitatea ta contează. { -brand-short-name } acum blochează elementele de urmărire prezente frecvent pe mediile de socializare, limitând cât de multe date pot colecta despre ce faci tu online.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a blocat un detector de amprente digitale de pe această pagină
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a blocat un generator de amprente digitale de pe această pagină
 cfr-doorhanger-fingerprinters-description = Confidențialitatea ta contează. { -brand-short-name } acum blochează generatoarele de amprente digitale, care colectează informații de identificare unică despre dispozitivul tău ca să te urmărească.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } a blocat un criptominer de pe această pagină
+cfr-doorhanger-cryptominers-description = Confidențialitatea ta contează. { -brand-short-name } blochează acum criptominerii, care folosesc puterea de calcul a sistemului tău ca să mineze după monede digitale.
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Afișează tot
+    .accesskey = S

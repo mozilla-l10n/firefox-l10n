@@ -315,7 +315,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
@@ -889,7 +889,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizată
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Echilibrat pentru protecție și performanță. Paginile se vor încărca normal.
 content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoca funcționarea necorespunzătoare a site-urilor sau a conținutului.
@@ -903,7 +903,7 @@ content-blocking-all-windows-trackers = Elemente de urmărire cunoscute în toat
 content-blocking-all-windows-tracking-content = Conținut de urmărire în toate ferestrele
 content-blocking-all-third-party-cookies = Toate cookie-urile de la terți
 content-blocking-cryptominers = Criptomineri
-content-blocking-fingerprinters = Detectoare de amprente digitale
+content-blocking-fingerprinters = Generatoare de amprente digitale
 content-blocking-warning-title = Atenție!
 content-blocking-warning-description = Blocarea conținutului poate împiedica funcționarea unor site-uri web. Deblocarea se poare realiza ușor pentru site-urile în care ai încredere.
 content-blocking-learn-how = Află cum
@@ -938,7 +938,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Detectoare de amprente digitale
+    .label = Generatoare de amprente digitale
     .accesskey = F
 
 ## Privacy Section - Tracking
