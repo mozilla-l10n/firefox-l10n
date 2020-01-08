@@ -17,8 +17,8 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "No hay una cuenta configurada">
-<!ENTITY accountManager.noAccount.description "Hace clic en el botón &accountManager.newAccount.label; y &brandShortName; te guiará en el proceso de configurar una.">
-<!ENTITY account.autoSignOn.label     "Ingresar al inicio">
+<!ENTITY accountManager.noAccount.description "Haga clic en el botón &accountManager.newAccount.label; y &brandShortName; lo va a guiar en el proceso de configurar una.">
+<!ENTITY account.autoSignOn.label     "Iniciar sesión al inicio">
 <!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Conectar">
 <!ENTITY account.connect.accesskey    "o">
