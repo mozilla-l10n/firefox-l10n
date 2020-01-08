@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Activează sau dezactivează Blocarea de conț
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalează, dezinstalează și blochează extensii. Opțiunea Instalare ia ca parametri URL-urile sau căile. Opțiunile Dezinstalare și Blocare iau ID-urile extensiilor.
+policy-ExtensionSettings = Gestionează toate aspectele instalării extensiei.
 policy-ExtensionUpdate = Activează sau dezactivează actualizările automate de extensii.
 policy-HardwareAcceleration = Dacă este fals, dezactivează accelerarea hardware.
 policy-InstallAddonsPermission = Permite anumitor site-uri să instaleze suplimente.

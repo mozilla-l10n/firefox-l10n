@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Citire">
 <!ENTITY display.caption                  "Afișare">
+<!ENTITY displayName.label                "Nume afișat:">
 <!ENTITY showCondensedAddresses.label     "Afișează numai numele de afișaj ale persoanelor din agenda mea de contacte">
 <!ENTITY showCondensedAddresses.accesskey "S">
 

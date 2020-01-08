@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+saved-logins =
+    .title = Date de autentificare salvate
 window-close =
     .key = w
 focus-search-shortcut =
@@ -32,6 +34,14 @@ column-heading-username =
     .label = Nume de utilizator
 column-heading-password =
     .label = Parolă
+column-heading-time-created =
+    .label = Prima utilizare
+column-heading-time-last-used =
+    .label = Ultima utilizare
+column-heading-time-password-changed =
+    .label = Ultima modificare
+column-heading-times-used =
+    .label = Frecvență de folosire
 remove =
     .label = Elimină
     .accesskey = R
@@ -47,6 +57,14 @@ show-passwords =
 hide-passwords =
     .label = Ascunde parolele
     .accesskey = P
+logins-description-all = Pe calculator sunt stocate datele de autentificare pentru următorii furnizori
+logins-description-filtered = Următoarele date de autentificare se potrivesc căutării tale:
+remove-all =
+    .label = Elimină-le pe toate
+    .accesskey = A
+remove-all-shown =
+    .label = Elimină-le pe toate cele afișate
+    .accesskey = A
 remove-all-passwords-prompt = Sigur dorești să elimini toate parolele?
 remove-all-passwords-title = Elimină toate parolele
 no-master-password-prompt = Sigur dorești să afișezi parolele?

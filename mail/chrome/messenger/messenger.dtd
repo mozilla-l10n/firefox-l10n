@@ -586,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
 <!ENTITY archiveButton.tooltip "Arhivează mesajele selectate">
 <!ENTITY openConversationButton.tooltip "Afișează conversația mesajului selectat">
+<!ENTITY openMsgConversationButton.tooltip "Afișează conversația mesajului selectat">
 <!ENTITY nextButton.tooltip "Trece la următorul mesaj necitit">
 <!ENTITY nextMsgButton.tooltip "Mergi la următorul mesaj">
 <!ENTITY previousButton.tooltip "Treci la precedentul mesaj necitit">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selectează coloanele de afișat">
+<!ENTITY selectColumn.tooltip "Comută selectarea tuturor mesajelor">
 <!ENTITY threadColumn2.tooltip "Afișează conversațiile">
 <!ENTITY fromColumn2.tooltip "Sortează după expeditor">
 <!ENTITY recipientColumn2.tooltip "Sortează după destinatar">
@@ -969,3 +971,7 @@
 <!ENTITY dockOptions.label              "Opțiuni pentru pictograma aplicației…">
 <!ENTITY writeNewMessageDock.label      "Scrie un mesaj nou">
 <!ENTITY openAddressBookDock.label      "Deschide agenda de contacte">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Mergi cu o pagină înapoi">
+<!ENTITY browseForwardButton.tooltip "Mergi cu o pagină înainte">
