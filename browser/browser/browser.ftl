@@ -56,6 +56,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Deschide panoul de mesaje
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Deschide panoul cu cereri de locație
+urlbar-xr-notification-anchor =
+    .tooltiptext = Deschide panoul de permisiuni pentru realitate virtuală
 urlbar-storage-access-anchor =
     .tooltiptext = Deschide panoul de permisiuni pentru activitatea de navigare
 urlbar-translate-notification-anchor =
@@ -78,8 +80,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stochează date în stocarea persistentă
 urlbar-addons-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje privind instalarea de suplimente
+urlbar-tip-help-icon =
+    .title = Obține asistență
 urlbar-geolocation-blocked =
     .tooltiptext = Ai blocat informațiile despre locație pentru acest site web.
+urlbar-xr-blocked =
+    .tooltiptext = Ai blocat accesarea dispozitivelor de realitate virtuală pentru acest site web.
 urlbar-web-notifications-blocked =
     .tooltiptext = Ai blocat notificările pentru acest site web.
 urlbar-camera-blocked =
@@ -136,6 +142,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Setează ca motor de căutare implicit
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Setează ca motor de căutare implicit în ferestre private
+    .accesskey = P
 
 ## Bookmark Panel
 

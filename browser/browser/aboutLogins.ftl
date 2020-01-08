@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Caută autentificări
 create-login-button = Creează o autentificare nouă
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon pentru { $title }
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
 fxaccounts-sign-in-button = Autentifică-te în { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -62,25 +57,23 @@ about-logins-login-list-empty-search-description = Nu există rezultate care să
 login-list-item-title-new-login = Date de autentificare noi
 login-list-item-subtitle-new-login = Introdu datele tale de autentificare
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
-about-logins-list-item-warning-icon =
-    .alt = Pictogramă de avertisment
-    .title = Site web a cărui securitate a fost încălcată
 about-logins-list-item-breach-icon =
     .title = Site web a cărui securitate a fost încălcată
 
 ## Introduction screen
 
 login-intro-heading = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
 login-intro-instruction-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name } pe dispozitivul pe care ai salvat datele de autentificare
 login-intro-instruction-fxa-settings = Asigură-te că ai bifat caseta de selectare Date de autentificare în Setările { -sync-brand-short-name }
 about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">asistență { -lockwise-brand-short-name }</a> pentru ajutor suplimentar
+about-logins-intro-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți <a data-l10n-name="import-link">importa în{ -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Creează o autentificare nouă
 login-item-edit-button = Editează
-login-item-delete-button = Șterge
 about-logins-login-item-remove-button = Elimină
 login-item-origin-label = Adresa site-ului web
 login-item-origin =
@@ -95,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Afișează parola
 login-item-password-reveal-checkbox-hide =
     .title = Ascunde parola
+login-item-password-reveal-checkbox =
+    .aria-label = Afișează parola
 login-item-copy-password-button-text = Copiază
 login-item-copied-password-button-text = Copiată!
 login-item-save-changes-button = Salvează modificările
@@ -113,6 +108,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Vrei să ai datele de autentificare oriunde folosești { -brand-product-name }? Intră în { -sync-brand-short-name } Opțiuni și selectează caseta Date de autentificare.
+       *[other] Vrei să ai datele de autentificare oriunde folosești { -brand-product-name }? Intră în { -sync-brand-short-name } Preferințe și selectează caseta Date de autentificare.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -120,7 +120,9 @@ enable-password-sync-preferences-button =
            *[other] Vizitează preferințele { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Ștergi această autentificare?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Nu mă mai întreba
+    .accesskey = D
 
 ## Dialogs
 
@@ -129,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Renunță
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
-confirm-delete-dialog-confirm-button = Șterge
 about-logins-confirm-remove-dialog-confirm-button = Elimină
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
@@ -148,6 +149,6 @@ breach-alert-dismiss =
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Deja există o intrare pentru { $loginTitle } cu acel nume de utilizator.
+about-logins-error-message-duplicate-login-with-link = Deja există o intrare pentru { $loginTitle } cu acest nume de utilizator. <a data-l10n-name="duplicate-link">Mergi la intrarea existentă?</a>
 # This is a generic error message.
 about-logins-error-message-default = A apărut o eroare la încercarea de salvare a acestei parole.

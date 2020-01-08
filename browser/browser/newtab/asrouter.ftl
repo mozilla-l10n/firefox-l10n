@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extensie recomandată
 cfr-doorhanger-feature-heading = Funcție recomandată
 cfr-doorhanger-pintab-heading = Încearcă asta: Fixează fila
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = De ce văd asta
@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = de { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomandare
+cfr-doorhanger-extension-notification2 = Recomandare
+    .tooltiptext = Recomandare extensie
+    .a11y-announcement = Recomandare disponibilă pentru extensie
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomandare
+    .tooltiptext = Recomandare funcționalitate
+    .a11y-announcement = Recomandare disponibilă pentru funcționalitate
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -80,6 +88,9 @@ cfr-protections-panel-link-text = Află mai multe
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Funcționalitate nouă:
 cfr-whatsnew-button =
     .label = Ce este nou
     .tooltiptext = Ce este nou
@@ -107,6 +118,34 @@ cfr-whatsnew-lockwise-backup-link-text = Activează crearea de copii de siguran�
 cfr-whatsnew-lockwise-take-title = Ia-ți parolele cu tine
 cfr-whatsnew-lockwise-take-body = Aplicația pentru dispozitive mobile { -lockwise-brand-short-name } îți permite să îți accesezi în siguranță parolele cărora le-ai făcut backup, oriunde te-ai afla.
 cfr-whatsnew-lockwise-take-link-text = Obține aplicația
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Urmărești videoclipuri în timp ce navighezi
+cfr-whatsnew-pip-body = Funcția de imagine-în-imagine inserează videoclipul într-o fereastră flotantă ca să îl poți vedea în timp ce lucrezi în alte file.
+cfr-whatsnew-pip-cta = Află mai multe
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Mai puține ferestre contextuale iritante pe site-uri
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } acum blochează site-urile ca să te mai întrebe automat să îți trimită mesaje contextuale.
+cfr-whatsnew-permission-prompt-cta = Află mai multe
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] detector de amprente digitale blocat
+        [few] detectoare de amprente digitale blocate
+       *[other] de detectoare de amprente digitale blocate
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochează multe detectoare de amprente digitale, care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Detectoare de amprente digitale
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poate bloca detectoarele de amprente digitale care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
 
 ## Bookmark Sync
 
@@ -143,6 +182,12 @@ cfr-doorhanger-socialtracking-ok-button = Vezi protecțiile
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Închide
     .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = Nu mai afișa mesaje de acest gen
+    .accesskey = D
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } a împiedicat o rețea de socializare care voia să te urmărească aici
+cfr-doorhanger-socialtracking-description = Confidențialitatea ta contează. { -brand-short-name } acum blochează elementele de urmărire prezente frecvent pe mediile de socializare, limitând cât de multe date pot colecta despre ce faci tu online.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a blocat un detector de amprente digitale de pe această pagină
+cfr-doorhanger-fingerprinters-description = Confidențialitatea ta contează. { -brand-short-name } acum blochează generatoarele de amprente digitale, care colectează informații de identificare unică despre dispozitivul tău ca să te urmărească.
 
 ## Enhanced Tracking Protection Milestones
 
