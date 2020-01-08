@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Protecții privind intimitatea
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mergi la raportul de intimitate
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Mărește
+appmenuitem-zoom-reduce =
+    .label = Micșorează
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

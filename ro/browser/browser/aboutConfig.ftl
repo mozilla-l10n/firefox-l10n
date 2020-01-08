@@ -13,9 +13,12 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Continuă cu prudență
 about-config-intro-warning-text = Modificarea preferințelor avansate de configurare poate afecta performanța sau securitatea din { -brand-short-name }.
+about-config-intro-warning-checkbox = Avertizează-mă când încerc să accesez aceste preferințe
+about-config-intro-warning-button = Acceptă riscul și continuă
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Modificarea acestor preferințe poate afecta performanța sau securitatea din { -brand-short-name }.

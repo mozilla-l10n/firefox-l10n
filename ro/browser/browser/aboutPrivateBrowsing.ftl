@@ -31,3 +31,10 @@ about-private-browsing-info-description = { -brand-short-name } îți șterge is
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } este motorul tău de căutare implicit în ferestrele private
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Pentru a selecta alt motor de căutare, intră în <a data-l10n-name="link-options">Opțiuni</a>
+       *[other] Pentru a selecta alt motor de căutare, intră în <a data-l10n-name="link-options">Preferințe</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Închide

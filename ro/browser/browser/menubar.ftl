@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Resetează
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Mărime reală
+    .accesskey = A
 menu-view-full-zoom-toggle =
     .label = Zoom doar pe text
     .accesskey = T
@@ -209,14 +212,17 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Suplimente
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Autentifică-te în { -sync-brand-short-name }…
-    .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Autentificare în { -brand-product-name }…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Activare { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sincronizează acum
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Reconectează-te în { -sync-brand-short-name }
+menu-tools-fxa-re-auth =
+    .label = Reconectare la { -brand-product-name }…
     .accesskey = R
 menu-tools-web-developer =
     .label = Dezvoltator web
@@ -276,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Repornește cu suplimentele activate
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Raportează site-uri înșelătoare…
     .accesskey = d
