@@ -125,12 +125,14 @@ cfr-whatsnew-pip-cta = Alamain pa
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Mas kaunting nakaiinis na mga pop-up
+cfr-whatsnew-permission-prompt-body = Hinaharangan na ngayon ng { -brand-shorter-name } ang mga site na kusang humihiling na magpadala ng mga pop-up na mensahe sa iyo.
 cfr-whatsnew-permission-prompt-cta = Alamin
 
 ## Fingerprinter Counter
 
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Mga Fingerprinter
+cfr-whatsnew-fingerprinter-counter-body-alt = Maaaring harangan ng { -brand-shorter-name } ang mga fingerprinter na palihim na nangangalap ng impormasyon ukol sa iyong device at mga action para gumawa ng iyong advertising profile.
 
 ## Bookmark Sync
 
