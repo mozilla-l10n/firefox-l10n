@@ -55,23 +55,66 @@ about-logins-login-list-empty-search-title = કોઈપણ લોગિન્�
 about-logins-login-list-empty-search-description = તમારી શોધ સાથે મેળ ખાતા કોઈ પરિણામો નથી.
 login-list-item-title-new-login = નવો લોગિન
 login-list-item-subtitle-new-login = તમારા લોગિન્સ ઓળખપત્રો દાખલ કરો
+login-list-item-subtitle-missing-username = (વપરાશકર્તા નામ નથી)
 about-logins-list-item-breach-icon =
     .title = ભંગ વેબસાઇટ
 
 ## Introduction screen
 
+login-intro-heading = તમારા સાચવેલા લોગિન્સ શોધી રહ્યાં છો? { -sync-brand-short-name }  સેટ કરો.
+about-logins-login-intro-heading-logged-in = કોઈ સમન્વયિત લોગિન્સ મળ્યાં નથી.
+login-intro-instruction-fxa = જ્યાં તમારા લોગિન્સ સચવાયા છે ત્યાં ડિવાઇસ પર તમારું { -fxaccount-brand-name } બનાવો અથવા સાઇન ઇન કરો
+login-intro-instruction-fxa-settings = સુનિશ્ચિત કરો કે તમે { -sync-brand-short-name } સેટિંગ્સમાં લોગિન્સ ચેકબોક્સ પસંદ કર્યું છે
+about-logins-intro-instruction-help = વધુ સહાય માટે <a data-l10n-name="help-link"> { -lockwise-brand-short-name }સપોર્ટ</a> ની મુલાકાત લો
 
 ## Login
 
+login-item-new-login-title = નવું લોગિન બનાવો
+login-item-edit-button = ફેરફાર કરો
+about-logins-login-item-remove-button = દૂર કરો
+login-item-origin-label = વેબસાઇટનું સરનામું
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = વપરાશકર્તા નામ
+about-logins-login-item-username =
+    .placeholder = (વપરાશકર્તા નામ નથી)
+login-item-copy-username-button-text = નકલ
+login-item-copied-username-button-text = નકલ કરેલ!
+login-item-password-label = પાસવર્ડ
+login-item-password-reveal-checkbox-show =
+    .title = પાસવર્ડ બતાવો
+login-item-password-reveal-checkbox-hide =
+    .title = પાસવર્ડ છુપાવો
+login-item-copy-password-button-text = નકલ
+login-item-copied-password-button-text = નકલ કરેલ!
+login-item-save-changes-button = ફેરફારો સાચવો
+login-item-save-new-button = સાચવો
+login-item-cancel-button = રદ કરો
+login-item-time-changed = છેલ્લે સુધારેલું: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = બનાવ્યું: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = છેલ્લે વપરાયેલ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = સાચવેલ લોગિન્સ અને પાસવર્ડો જોવા માટે કૃપા કરીને તમારો મુખ્ય પાસવર્ડ દાખલ કરો
+master-password-reload-button =
+    .label = લોગિન
+    .accesskey = L
 
 ## Password Sync notification
 
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = મને ફરીથી પૂછશો નહીં
+    .accesskey = D
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = રદ કરો
+confirmation-dialog-dismiss-button =
+    .title = રદ કરો
+about-logins-confirm-remove-dialog-title = આ લોગિન ને દૂર કરીએ?
+confirm-delete-dialog-message = આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.
+about-logins-confirm-remove-dialog-confirm-button = દૂર કરો
 
 ## Breach Alert notification
 
