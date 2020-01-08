@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Începe
 onboarding-welcome-header = Bine ai venit la { -brand-short-name }
 onboarding-welcome-body = Ai browserul. <br/>Vezi și ce altceva mai oferă { -brand-product-name }.
 onboarding-welcome-learn-more = Află mai multe despre beneficii.
+onboarding-welcome-modal-get-body = Ai browserul. <br/>Acum poți beneficia la maxim de { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Protecția confidențialității la cote maxime.
+onboarding-welcome-modal-privacy-body = Ai browserul. Să adăugăm un plus de protecție a vieții private.
+onboarding-welcome-modal-family-learn-more = Află despre familia de produse { -brand-product-name }.
+onboarding-welcome-form-header = Începe de aici
 onboarding-join-form-header = Alătură-te { -brand-product-name }
 onboarding-join-form-body = Introdu adresa de e-mail ca să începi.
 onboarding-join-form-email =
@@ -28,6 +33,10 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Este necesară o adresă de e-mail validă
 onboarding-join-form-legal = Continuând, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciilor</a> și <a data-l10n-name="privacy">Declarația de confidențialitate</a>.
 onboarding-join-form-continue = Continuă
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ai deja un cont?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Autentifică-te
 onboarding-start-browsing-button-label = Începe să navighezi
 onboarding-cards-dismiss =
     .title = Înlătură
@@ -35,14 +44,15 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Să explorăm tot ce poți face.
+onboarding-fullpage-form-email =
+    .placeholder = Adresa ta de e-mail...
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Ia { -brand-product-name } cu tine
 onboarding-sync-welcome-content = Ia marcajele, istoricul, parolele și alte setări cu tine pe toate dispozitivele.
 onboarding-sync-welcome-learn-more-link = Află mai multe despre Conturi Firefox
-onboarding-sync-form-invalid-input = Necesită o adresă de e-mail validă
-onboarding-sync-legal-notice = Continuând, ești de acord cu <a data-l10n-name="terms">Termenii de utilizare a serviciului</a> și <a data-l10n-name="privacy">Declarație de confidențialitate</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Continuă
@@ -67,8 +77,12 @@ onboarding-benefit-privacy-title = Confidențialitate cu adevărat
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Ne ținem de promisiunea noastră privind datele cu caracter personal prin tot ceea ce facem: Luăm mai puține informații. Le păstrăm în siguranță. Fără secrete.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Ia-ți cu tine marcajele, parolele, istoricul și multe altele oriunde folosești { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Primește notificare când informațiile tale cu caracter personal sunt într-o încălcare cunoscută a securității datelor.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gestionarea parolelor protejate și portabile.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -114,6 +128,9 @@ onboarding-send-tabs-title = Trimite-ți instant file
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs instantly partajează pagini între dispozitivele tale fără a mai fi nevoie să le copiezi, să le lipești sau să ieși din browser.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Partajare ușoară a paginilor între dispozitive fără copiere de linkuri sau ieșiri din browser.
 onboarding-send-tabs-button = Începe să folosești Send Tabs
 onboarding-pocket-anywhere-title = Citești și asculți oriunde
 onboarding-pocket-anywhere-text2 = Salvează-ți conținuturile preferate offline cu aplicația { -pocket-brand-name } și le citești, asculți și vezi oricând îți convine.
@@ -121,9 +138,15 @@ onboarding-pocket-anywhere-button = Încearcă { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ia-ți parolele cu tine oriunde
 onboarding-lockwise-passwords-text2 = Păstrează-ți parolele salvate în siguranță și autentifică-te ușor în conturi cu ajutorul { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Obține aplicația
+onboarding-lockwise-strong-passwords-title = Creare și stocare de parole puternice
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } creează pe loc parole puternice și le salvează pe toate într-un singur loc.
+onboarding-lockwise-strong-passwords-button = Gestionarea datelor de autentificare
 onboarding-facebook-container-title = Setează limite cu Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } îți păstrează profilul separat de orice altceva, făcând mai dificil pentru Facebook să îți dea reclame țintite.
 onboarding-facebook-container-button = Adaugă extensia
+onboarding-import-browser-settings-title = Import de marcaje, parole și multe altele
+onboarding-import-browser-settings-text = Intră direct—iei ușor cu tine site-urile și setările din Chrome.
+onboarding-import-browser-settings-button = Import de date din Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

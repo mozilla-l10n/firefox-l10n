@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Împiedică efectuarea de studii de către { -bra
 policy-DisableForgetButton = Împiedică accesul la butonul de uitare.
 policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor.
 policy-DisableMasterPasswordCreation = Dacă este activat, nu se poate crea o parolă generală.
+policy-DisablePasswordReveal = Nu permite dezvăluirea parolelor din datele de autentificare salvate.
 policy-DisablePocket = Dezactivează funcționalitatea de salvare a paginilor web în Pocket.
 policy-DisablePrivateBrowsing = Dezactivează navigarea privată.
 policy-DisableProfileImport = Dezactivează comanda de meniu pentru importul de date din alte browsere.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardwa
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Setează și, opțional, blochează pagina de start.
 policy-InstallAddonsPermission = Permite anumitor site-uri web să instaleze suplimente.
+policy-LegacyProfiles = Dezactivează funcționalitatea care forțează crearea unui profil separat pentru fiecare versiune instalată.
 policy-LocalFileLinks = Permite anumitor site-uri web să se lege la fișiere locale.
 policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (prelectură DNS).
 policy-NewTabPage = Activează sau dezactivează pagina Filă nouă.

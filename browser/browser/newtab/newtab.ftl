@@ -45,9 +45,6 @@ newtab-topsites-save-button = Salvează
 newtab-topsites-preview-button = Previzualizare
 newtab-topsites-add-button = Adaugă
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Sigur vrei să ștergi fiecare instanță a acestei pagini din istoric?
@@ -83,14 +80,21 @@ newtab-menu-delete-history = Șterge din istoric
 newtab-menu-save-to-pocket = Salvează în { -pocket-brand-name }
 newtab-menu-delete-pocket = Șterge din { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivează în { -pocket-brand-name }
+newtab-menu-show-privacy-info = Sponsorii noștri și confidențialitatea ta
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Terminat
+newtab-privacy-modal-header = Confidențialitatea ta contează.
+newtab-privacy-modal-paragraph = În plus față de afișarea unor articole captivante, îți arătăm și conținuturi relevante foarte bine cotate de la sponsori selectați. Fii fără grijă, datele tale de navigare nu pleacă niciodată din exemplarul tău personal de { -brand-product-name } — nici noi nu le vedem, nici sponsorii noștri.
+newtab-privacy-modal-link = Află cum funcționează confidențialitatea în fila nouă
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Elimină marcajul
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marchează
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +124,6 @@ newtab-label-removed-bookmark = Marcaj eliminat
 newtab-label-recommended = În tendințe
 newtab-label-saved = Salvat în { -pocket-brand-name }
 newtab-label-download = Descărcat
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -164,6 +164,7 @@ newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Ești prins!
 newtab-discovery-empty-section-topstories-content = Revino mai târziu pentru mai multe articole.
 newtab-discovery-empty-section-topstories-try-again-button = Încearcă din nou
 newtab-discovery-empty-section-topstories-loading = Se încarcă…
@@ -175,7 +176,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Aproape că am încă
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subiecte populare:
 newtab-pocket-more-recommendations = Mai multe recomandări
-newtab-pocket-how-it-works = Cum funcționează
+newtab-pocket-whats-pocket = Ce este { -pocket-brand-name }?
 newtab-pocket-cta-button = Obține { -pocket-brand-name }
 newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
 

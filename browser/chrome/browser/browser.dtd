@@ -79,11 +79,13 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigare">
 <!ENTITY personalbarCmd.label "Bară de marcaje">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Marcaje">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara de marcaje">
 
 <!ENTITY pageSourceCmd.label "Sursa paginii">
@@ -125,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifică-ți contul">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
 <!ENTITY fullScreenRestore.tooltip "Restaurează">
@@ -160,6 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Setări">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -167,7 +171,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.turnOnSync.label "Activează &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicii &brandProductName;">
 <!ENTITY fxa.menu.account.label "Cont">
+<!ENTITY fxa.menu.settings.label "Setări">
+<!ENTITY fxa.menu.accountSettings.label "Setările contului">
+<!ENTITY fxa.menu.manageAccount2.label "Gestionează contul">
 <!ENTITY fxa.menu.signOut.label "Deconectează-te…">
+<!ENTITY fxa.menu.deviceSettings.label "Setările dispozitivului">
+<!ENTITY fxa.menu.setupSync.label "Configurare &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -281,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Ai blocat accesul MIDI pentru acest site web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ai blocat suplimentele instalate pentru acest site web.">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ai acordat permisiuni suplimentare acestui site web.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
@@ -439,8 +449,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vrei să vezi aici filele de pe celelalte dispozitive?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Deschide preferințele de sincronizare">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă cu file de pe celelalte dispozitive.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Afișează o listă cu filele de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Contul tău trebuie verificat.">
 <!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Autentificare în &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activează &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Ascunde bara laterală cu file sincronizate">
@@ -926,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "De ce?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocarea acestora poate împiedica funcționarea elementelor anumitor site-uri web. Fără elementele de urmărire, este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Toate elementele de urmărire de pe acest site au fost încărcate deoarece ai protecțiile dezactivate.">
 <!ENTITY protections.noTrackersFound.description "Nu s-a depistat niciun element de urmărire cunoscut de &brandShortName; pe această pagină.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Aceste cookie-uri te urmăresc de pe un site pe altul pentru a colecta date despre ceea ce faci online. Acestea sunt setate de terțe părți precum agenții de publicitate și companiile de analiză.">
@@ -981,6 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Conținut de urmărire">
 
 <!ENTITY contentBlocking.manageSettings2.label "Gestionează setările pentru protecție">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Elemente de urmărire ale rețelelor sociale">
 
