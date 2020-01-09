@@ -31,7 +31,10 @@ options-show-user-agent-styles-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = हुड़ाक् रोङ मिदाक्
 options-default-color-unit-hex = मोहनी
+options-default-color-unit-hsl = HSL
+options-default-color-unit-rgb = RGB
 options-default-color-unit-name = रोङ ञुतुम को{ " " }
 
 ## Style Editor section
@@ -59,6 +62,8 @@ options-sourceeditor-autoclosebrackets-label = { "                              
 options-sourceeditor-expandtab-tooltip =
     .title = टेब आखोर बादाल ते फांक को बेभार मे .
 options-sourceeditor-expandtab-label = साहटा सिमा़ बेभार  फांक को.
+options-sourceeditor-tabsize-label = टेब माराङ तेत्
+options-sourceeditor-keybinding-label = का़ठी तोल को .
 
 ## Advanced section
 
