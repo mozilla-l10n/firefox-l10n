@@ -51,10 +51,20 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = 편집기 설정
 options-sourceeditor-detectindentation-tooltip =
     .title = 소스 내용에서 들여 쓰기를 감지
+options-sourceeditor-detectindentation-label = 들여 쓰기 감지
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = 괄호를 자동 입력함
+options-sourceeditor-autoclosebrackets-label = 괄호 자동 입력
+options-sourceeditor-expandtab-tooltip =
+    .title = 탭 문자 대신 스페이스 문자를 사용
+options-sourceeditor-expandtab-label = 들여 쓰기로 스페이스 문자를 쓰기{ " " }
+options-sourceeditor-tabsize-label = 탭 길이
+options-sourceeditor-keybinding-label = 키 바인드
+options-sourceeditor-keybinding-default-label = 기본 설정
 
 ## Advanced section
 
@@ -68,6 +78,8 @@ options-disable-javascript-tooltip =
 options-enable-chrome-label = 브라우저 크롬과 부가 기능 디버깅에도 도구상자 쓰기
 options-enable-chrome-tooltip =
     .title = 이 옵션을 켜면 브라우저 컨텍스트에서 ([도구] > [웹 개발 도구] > [브라우저 도구상자]로 불러낸)여러가지 개발자 도구를 쓰고 부가 기능 관리자에서 부가 기능을 디버깅할 수 있습니다.
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = 원격 디버깅 켜기
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = HTTP로 가져온 서비스 워커 쓰기 (도구상자가 열려 있을 때에만)
 options-enable-service-workers-http-tooltip =
