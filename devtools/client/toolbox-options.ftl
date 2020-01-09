@@ -14,21 +14,34 @@ options-select-additional-tools-label = डेवलेपर टूल एड-�
 
 ## Inspector section
 
+# The heading
+options-context-inspector = इंस्पेक्टर
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = शैली संपादक
 
 ## Screenshot section
 
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = संपादक वरीयता
+options-sourceeditor-keybinding-default-label = पूर्वनिर्धारित
 
 ## Advanced section
 
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = जावास्क्रिप्ट अक्षम करू*
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = दूरस्थ डिबगिंग सक्रिय करू
 
 ##
 
