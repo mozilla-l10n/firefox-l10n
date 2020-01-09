@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Taq kisamajib'al b'anonela' e k'o wi
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Man nikoch'otäj ta pa ri kikaxa taq samajib'äl wakami chanin
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Taq kisamajib'al b'anel eyakon kik'in taq tz'aqat
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Taq pitz'bäl yewachin pa ri kikaxa taq samajib'äl
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Taq wachinel
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Nik'onel
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Tik'ut pe ri rub'anikil okik'amaya'l
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Junilal k'o wi rub'onil
+options-default-color-unit-authored = Achi'el nik'oxïk
+options-default-color-unit-hex = Kiwa winäq
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Rub'i' ri b'onil
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Kinuk'unel taq b'anikil
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Titz'aqatisäx ruyon CSS
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Rub'anikil ri chapoj ruwa
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Chapoj ruwa pa yakwuj
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Jikib'an wi
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Q'axinäq chi nuk'ulem
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Tichup HTTP ewa'n (toq jaqäl ri kikaxa taq samajib'äl)
 options-disable-http-cache-tooltip =
@@ -82,9 +109,15 @@ options-enable-service-workers-http-tooltip =
     .title = Toq nitzij re cha'oj re' xtuya' q'ij chi yesamäj ri Samajela' pa samaj rik'in HTTP pa ronojel ri taq ruwi' erujaqon ri kikaxa taq samajib'äl.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Titzij kitzub'al xe'el{ " " }
+options-source-maps-tooltip =
+    .title = We natzïj re cha'oj xe'el re' xke'atzu' pa ri taq samajib'äl.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Xa xe re moloj wakami chanin, tasamajib'ej ri ruxaq
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Chojmirisab'äl
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Tik'ut pe ri kinuk'uche'el taq tzij richin Gecko
