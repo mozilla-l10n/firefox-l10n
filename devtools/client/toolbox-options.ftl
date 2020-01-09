@@ -37,6 +37,7 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unidad de color predeterminada
 options-default-color-unit-authored = como indicó el autor
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
