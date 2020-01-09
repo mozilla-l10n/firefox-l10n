@@ -8,12 +8,17 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Privzeta razvojna orodja
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Ni podprto za trenutno tarčo razvojnih orodij
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Razvojna orodja, nameščena kot dodatki
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Razpoložljivi gumbi razvojnih orodij
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Teme
 
@@ -25,6 +30,10 @@ options-context-inspector = Pregledovalnik
 options-show-user-agent-styles-label = Prikaži sloge brskalnika
 options-show-user-agent-styles-tooltip =
     .title = Če vključite to možnost, boste prikazali privzete sloge, ki jih naloži brskalnik.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Skrajšaj atribute DOM
+options-collapse-attrs-tooltip =
+    .title = Skrajšaj dolge atribute v pregledovalniku
 
 ## "Default Color Unit" options for the Inspector
 
@@ -44,6 +53,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Posnetki zaslona
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Shrani v odložišče
+options-screenshot-clipboard-tooltip =
+    .title = Shrani posnetek zaslona v odložišče
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Predvajaj zvok zaslonke kamere
+options-screenshot-audio-tooltip =
+    .title = Ob zajemanju posnetka zaslona omogoči zvok kamere
 
 ## Editor section
 
@@ -66,6 +85,10 @@ options-sourceeditor-keybinding-default-label = Privzeto
 
 # The heading
 options-context-advanced-settings = Napredne nastavitve
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Onemogoči predpomnilnik HTTP (ko so razvojna orodja odprta)
+options-disable-http-cache-tooltip =
+    .title = Vklop te možnosti bo onemogočil predpomnilnik HTTP za vse zavihke, ki imajo odrta razvojna orodja. Ta možnost ne vpliva na Service Workerje.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Onemogoči JavaScript *
 options-disable-javascript-tooltip =
@@ -76,6 +99,8 @@ options-enable-chrome-tooltip =
     .title = Če vključite to možnost, boste omogočili uporabo razvojnih orodij v oknu brskalnika (meni Orodja > Spletni razvoj > Razvojna orodja brskalnika) in razhroščevanje dodatkov iz Upravitelja dodatkov
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Omogoči oddaljeno razhroščevanje
+options-enable-remote-tooltip =
+    .title = Vklop te možnosti bo razvojnim orodjem omogočil razhroščevanje oddaljenega primerka (npr. OS-a Firefox)
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Omogoči Service Workerje preko HTTP (ko so razvojna orodja odprta)
 options-enable-service-workers-http-tooltip =
@@ -85,6 +110,8 @@ options-context-triggers-page-refresh = * Samo za to sejo, ponovno naloži stran
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Razhroščevalnik
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Prikaži podatke platforme Gecko
