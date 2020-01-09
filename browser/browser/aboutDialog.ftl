@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = Tá { -brand-short-name } á nuashonrú ag
 update-manual = Nuashonruithe ar fáil ó <label data-l10n-name="manual-link"/>
 update-unsupported = Ní féidir leat tuilleadh nuashonruithe a chur i bhfeidhm ar an gcóras seo. <label data-l10n-name="unsupported-link">Tuilleadh eolais</label>
 update-restarting = Á Atosú…
-channel-description = Tá tú ar an gcainéal <label data-l10n-name="current-channel"></label> faoi láthair.{ " " }
+channel-description = Tá tú ar an gcainéal <label data-l10n-name="current-channel"></label> faoi láthair.
 warningDesc-version = Is táirge turgnamhach é { -brand-short-name } agus seans nach mbeidh sé cobhsaí.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> - <label data-l10n-name="community-exp-creditsLink">comhphobal domhanda</label> atá ag obair ar son Gréasáin atá oscailte, poiblí, agus ar fáil do chách.
 community-2 = Bhí { -brand-short-name } cruthaithe ag <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">comhphobal domhanda</label> atá ag obair ar son Gréasáin atá oscailte, poiblí, agus ar fáil do chách.
