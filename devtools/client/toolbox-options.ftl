@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Standardne wuwijaŕske rědy
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Za aktualny zaměr rědowego kašćika njepódprěty
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Wuwijaŕske rědy zainstalěrowane pśez dodanki
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = K dispoziciji stojece tłocaški rědowego kašćika
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Drastwy
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspektor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Stile wobglědowaka pokazaś
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Standardna barwowa jadnotka
+options-default-color-unit-authored = Ako spisany
+options-default-color-unit-hex = Heks
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Barwne mjenja
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Stilowy editor
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS awtomatiski wudopołniś
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Zaźaržanje fota wobrazowki
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Foto wobrazowki do mjazywótkłada
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Standard
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Rozšyrjone nastajenja
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP-Cache znjemóžniś (gaž rědowy kašćik jo wócynjony)
 options-disable-http-cache-tooltip =
@@ -70,17 +97,27 @@ options-disable-javascript-tooltip =
     .title = Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtark. Jolic rejtark abo rědowy kašćik se zacynijo, ga toś to nastajenje se zabydnjo.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Rědowe kašćiki pytanja zmólkow pówjercha wobglědowaka a dodankow zmóžniś
+options-enable-chrome-tooltip =
+    .title = Gaž zmóžnijośo toś to nastajenje, móžośo wšake wuwijaŕske rědy w konteksće wobglědowaka (pśez Rědy > Webwuwijaŕ > Rědowy kašćik) wužywaś a dodanki ze zastojnika dodankow za zmólkami pśepytowaś
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Daloke pytanje za zmólkami
+options-enable-remote-tooltip =
+    .title = Zmóžnjenje toś togo nastajenja dowólijo wuwijaŕskim rědam, daloku instancu Firefox ako Firefox OS za zmólkami pśepytowaś
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Service worker pśez HTTP zmóžniś (gaž rědowy kašćik jo wócynjony)
 options-enable-service-workers-http-tooltip =
     .title = Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtarki wužywaś, za kótarež rědowy kašćik jo wócynjony.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Žrědłowe kórty zmóžniś
+options-source-maps-tooltip =
+    .title = Joliv toś to nastajenje zmóžnjaśo, se žrědła w rědach kartěruju.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Jano aktualne pósejźenje, bok zacytujo se znowego
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Pytanje za zmólkami
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Platformowe daty Gecko pokazaś
