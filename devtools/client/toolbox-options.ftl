@@ -11,26 +11,78 @@
 
 ## Inspector section
 
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = ব্রাউজার স্টাইল দেখান
+options-show-user-agent-styles-tooltip =
+    .title = এটি চালু করলে, ব্রাউজারে লোড থাকা ডিফল্ট স্টাইলগুলো দেখানো হবে।
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = DOM বৈশিষ্ট্য টার্নকেট করো
+options-collapse-attrs-tooltip =
+    .title = পরিদর্কের দীর্ঘ বৈশিষ্ট্য টার্নকেট করো
 
 ## "Default Color Unit" options for the Inspector
 
 
 ## Style Editor section
 
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = স্বয়ংসম্পূর্ণ CSS
+options-stylesheet-autocompletion-tooltip =
+    .title = স্টাইল সম্পাদকের অংশে আপনার লিপিবদ্ধকৃত স্বয়ংসম্পূর্ণ CSS বৈশিষ্ট্যাবলী, মান ও নির্বাচক
 
 ## Screenshot section
 
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = স্ক্রিনশট ক্লিপবোর্ডে পাঠাও
+options-screenshot-clipboard-tooltip =
+    .title = স্ক্রিনশটটি সরাসরি ক্লিপবোর্ডে সংরক্ষণ কর
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = ক্যামেরা সাটার শব্দ চালাও
+options-screenshot-audio-tooltip =
+    .title = স্ক্রিনশট নেওয়ার সময় ক্যামেরা অডিও শব্দ সক্রিয় কর
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = এডিটর পছন্দসমূহ
+options-sourceeditor-detectindentation-label = ইনডেন্টেশন শনাক্তকরণ
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন
+options-sourceeditor-autoclosebrackets-label = অটোক্লোজ ব্র্যাকেট
+options-sourceeditor-expandtab-tooltip =
+    .title = ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন
+options-sourceeditor-expandtab-label = ফাঁকাস্থান ব্যবহার করে ইনডেন্ট করুন
+options-sourceeditor-keybinding-label = কীবাইন্ডিং
 
 ## Advanced section
 
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = HTTP ক্যাশে নিষ্ক্রিয় করুন (টুলবক্স খোলা থাকাকালীন)
+options-disable-http-cache-tooltip =
+    .title = এই অপশনটি চালু করলে, যেসকল ট্যাব এর টুলবক্স খোলা রয়েছে, সেগুলোর HTTP ক্যাশে নিষ্ক্রিয় হয়ে যাবে। পরিসেবা কার্যক্রমে এই অপশনের কোন প্রভাব পরবে না।
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = জাভাস্ক্রিপ্ট নিস্ক্রিয় করুন*
+options-disable-javascript-tooltip =
+    .title = এই অপশন চালুর ফলে বর্তমান ট্যাবে জাভাস্ক্রিপ্ট নিস্ক্রিয় হবে। যদি ট্যাব অথবা টুলবক্স বন্ধ করা হয় তবে এই সেটিং ভুলে যাবে।
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = ব্রাউজার chrome ও অ্যাড অন ডিবাগ টুলবক্স সক্রিয় করুন
+options-enable-chrome-tooltip =
+    .title = এই অপশান চালু করলে আপনি অনেকগুলো টুল ব্যবহার করতে পারবেন ব্রাউজার কন্টেক্সট এ (Tools > Web Developer > Browser Toolbox এর মাধ্যমে) এবং অ্যাড-অন ম্যানেজার দিয়ে অ্যাড-অন ডিবাগ করতে পারবেন
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = রিমোট ডিবাগিং সক্রিয় করুন
+options-enable-remote-tooltip =
+    .title = অপশনটি চালু করলে ডেভেলোপার টুলগুলো দূরে থেকে ডিবাগ করা যাবে যেমন Firefox OS
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করুন (যখন টুলবক্স খোলা থাকে)
+options-enable-service-workers-http-tooltip =
+    .title = এই অপশন চালু থাকলে যেসব ট্যাবের টুলবক্স খোলা আছে সেগুলোর HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করে দিবে।
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = উৎস ম্যাপ সক্রিয় করুন
 
 ##
 
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = গেকো প্ল্যাটফর্ম ডাটা দেখান
+options-show-platform-data-tooltip =
+    .title = যদি আপনি এই অপশন সক্রিয় করেন তবে জাভাস্ক্রিপ্ট প্রোফাইলার গেকো প্লাটফর্ম চিহ্নে অর্ন্তভূক্ত রাখবে
