@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = ಪೂರ್ವನಿಯೋಜಿತ ವಿಕಸನ ಉಪಕರಣಗಳು
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * ಪ್ರಸಕ್ತ ಉಪಕರಣಪೆಟ್ಟಿಗೆ ಗುರಿಯಿಂದ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = ಆಡ್‌-ಆನ್‌ಗಳಿಂದ ಅನುಸ್ಥಾಪಿಸಲಾದ ವಿಕಸನೆಗಾರ ಉಪಕರಣಗಳು
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = ಲಭ್ಯವಿರುವ ಉಪಕರಣಪೆಟ್ಟಿಗೆ ಗುಂಡಿಗಳು
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = ಥೀಮ್‌ಗಳು
 
 ## Inspector section
 
+# The heading
+options-context-inspector = ಪರೀಕ್ಷಕ
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ಜಾಲವೀಕ್ಷಕದ ಶೈಲಿಗಳನ್ನು ತೋರಿಸು
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = ಪೂರ್ವನಿಯೋಜಿತ ಬಣ್ಣದ ಘಟಕ
+options-default-color-unit-authored = ‍ಆಗಿ ರಚಿಸಲಾಗಿದೆ
+options-default-color-unit-hex = ಹೆಕ್ಸ್
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = ಬಣ್ಣದ ಹೆಸರುಗಳು
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = ಶೈಲಿ ಸಂಪಾದಕ
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS ಅನ್ನು ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸು
 options-stylesheet-autocompletion-tooltip =
@@ -52,6 +75,8 @@ options-sourceeditor-keybinding-default-label = ಪೂರ್ವನಿಯೋಜ�
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = ಸುಧಾರಿತ ಸಂಯೋಜನೆಗಳು:
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP ಕ್ಯಾಶೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (ಉಪಕರಣಪೆಟ್ಟಿಗೆಯು ತೆರೆದಾಗ)
 options-disable-http-cache-tooltip =
@@ -70,9 +95,15 @@ options-enable-remote-label = ದೂರದಿಂದಲೆ ಡೀಬಗ್‌ ಮ
 options-enable-service-workers-http-label = HTTP ನ ಮೇಲೆ ಸೇವಾ ವರ್ಕರ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು (ಉಪಕರಣಪೆಟ್ಟಿಗೆ ತೆರೆದಿದ್ದಾಗ)
 options-enable-service-workers-http-tooltip =
     .title = ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದರಿಂದ ಉಪಕರಣಪೆಟ್ಟಿಗೆಯನ್ನು ಯಾವ ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ತೆರೆಯಲಾಗಿದೆಯೊ ಅವುಗಳಿಗೆ HTTP ಮೂಲಕ ಸೇವಾ ವರ್ಕರ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = ಮೂಲ ನಕ್ಷೆಗಳನ್ನು ಸಕ್ರಿಯಗಳಿಸು
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * ಪ್ರಸಕ್ತ ಅಧಿವೇಶನ ಮಾತ್ರ, ಪುಟವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡುತ್ತದೆ
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = ಡೀಬಗ್ಗರ್
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Gecko ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು
