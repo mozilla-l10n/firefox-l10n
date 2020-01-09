@@ -26,6 +26,10 @@ options-select-dev-tools-theme-label = Temaer
 
 # The heading
 options-context-inspector = Inspektør
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = Vis browser-styles
+options-show-user-agent-styles-tooltip =
+    .title = Aktivering af dette vil vise de standard-styles, som indlæses af browseren.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Afkort DOM-attributter
 options-collapse-attrs-tooltip =
@@ -44,9 +48,23 @@ options-default-color-unit-name = Farvenavne
 
 # The heading
 options-styleeditor-label = Rediger CSS
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = Autofuldfør CSS
+options-stylesheet-autocompletion-tooltip =
+    .title = Autofuldfør CSS-egenskaber, -værdier og -selektorer, mens du skriver i CSS-editoren
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Indstillinger for skærmbilleder
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Skærmbillede til udklipsholder
+options-screenshot-clipboard-tooltip =
+    .title = Gemmer skærmbillede direkte til udklipsholderen
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Afspil lyd
+options-screenshot-audio-tooltip =
+    .title = Aktiverer afspilning af en lyd, når der tages et skærmbillede
 
 ## Editor section
 
@@ -75,6 +93,8 @@ options-disable-http-cache-tooltip =
     .title = Denne indstilling slår HTTP-cache fra for alle faneblade, der har Udviklerværktøj åbne. Service workers er ikke påvirket af denne indstilling.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Slå JavaScript fra *
+options-disable-javascript-tooltip =
+    .title = Denne indstilling slår JavaScript fra i det aktuelle faneblad. Indstillingen vil blive glemt, når fanebladet eller Værktøj lukkes.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Slå chrome- og tilføjelses-debuggingsværktøjer til
 options-enable-chrome-tooltip =
@@ -87,6 +107,8 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Aktiver service workers over HTTP (når værktøjerne er åbnet)
 options-enable-service-workers-http-tooltip =
     .title = Aktiverer du denne funktion, vil du aktivere service workers over HTTP i alle faneblade, hvor værktøjerne er åbnet.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Aktiver Source-maps
 options-source-maps-tooltip =
     .title = Hvis du aktiverer denne indstilling, vil sources blive mappet i værktøjerne.
 # The message shown for settings that trigger page reload
@@ -94,6 +116,8 @@ options-context-triggers-page-refresh = * Kun nuværende session, genindlæser s
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Debugger
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Vis Gecko-platformsdata
