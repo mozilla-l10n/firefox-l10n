@@ -80,13 +80,15 @@ newtab-menu-delete-history = Hapus dari Riwayat
 newtab-menu-save-to-pocket = Simpan ke { -pocket-brand-name }
 newtab-menu-delete-pocket = Hapus dari { -pocket-brand-name }
 newtab-menu-archive-pocket = Arsip di { -pocket-brand-name }
+newtab-menu-show-privacy-info = Sponsor kami & privasi Anda
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Selesai
 newtab-privacy-modal-header = Privasi Anda penting.
+newtab-privacy-modal-link = Pelajari cara privasi bekerja di tab baru
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Hapus Markah
@@ -162,15 +164,17 @@ newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk l
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Semua sudah selesai terbaca!
+newtab-discovery-empty-section-topstories-content = Periksa kembali nanti untuk lebih banyak kisah.
 newtab-discovery-empty-section-topstories-try-again-button = Coba Lagi
 newtab-discovery-empty-section-topstories-loading = Memuat…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ups! Kami belum selesai memuat bagian ini, tetapi ternyata belum.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Topik Populer:
 newtab-pocket-more-recommendations = Rekomendasi Lainnya
-newtab-pocket-how-it-works = Panduan
 newtab-pocket-whats-pocket = Apa itu { -pocket-brand-name }?
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
