@@ -43,8 +43,20 @@ options-screenshot-audio-tooltip =
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Түзетуші баптаулары
+options-sourceeditor-detectindentation-tooltip =
+    .title = Бастапқы код құрамасына негізделіп, шегінуді анықтау
+options-sourceeditor-detectindentation-label = Шегінуді анықтау
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Жабатын жақшаларды автокірістіру
+options-sourceeditor-autoclosebrackets-label = Жақшаларды автожабу
 options-sourceeditor-expandtab-tooltip =
     .title = Табуляция орнына бос аралық таңбасын қолдану
+options-sourceeditor-expandtab-label = Шегіністі бос аралықтармен жасау
+options-sourceeditor-tabsize-label = Табуляция өлшемі
+options-sourceeditor-keybinding-label = Пернетақта байланыстары
+options-sourceeditor-keybinding-default-label = Бастапқы
 
 ## Advanced section
 
