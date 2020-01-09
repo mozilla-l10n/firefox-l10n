@@ -57,6 +57,7 @@ show-passwords =
 hide-passwords =
     .label = Приховати паролі
     .accesskey = П
+logins-description-all = На вашому компʼютері збережено паролі для таких провайдерів
 logins-description-filtered = Наступні дані для входу відповідають запиту:
 remove-all =
     .label = Видалити все
