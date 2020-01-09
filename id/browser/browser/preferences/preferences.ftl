@@ -191,6 +191,15 @@ advanced-fonts =
 colors-settings =
     .label = Warna…
     .accesskey = W
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Perbesaran
+preferences-default-zoom = Perbesaran baku
+    .accesskey = P
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Perbesar teks saja
+    .accesskey = t
 language-header = Bahasa
 choose-language-description = Pilih bahasa yang disukai untuk menampilkan laman
 choose-button =
@@ -275,6 +284,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Gunakan { $plugin-name } (di { -brand-short-name })
@@ -300,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Konten Digital Rights Management (DRM)
 play-drm-content =
@@ -388,6 +401,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cari teks saat Anda mulai mengetik
     .accesskey = k
+browsing-picture-in-picture-toggle-enabled =
+    .label = Aktifkan kontrol video gambar-dalam-gambar
+    .accesskey = g
 browsing-picture-in-picture-learn-more = Pelajari lebih lanjut
 browsing-cfr-recommendations =
     .label = Sarankan ekstensi seiring penjelajahan Anda
@@ -490,8 +506,13 @@ search-bar-shown =
     .label = Tambahkan bilah pencarian di bilah alat
 search-engine-default-header = Mesin Pencari Baku
 search-engine-default-desc = Pilih mesin pencari baku yang akan digunakan di bilah alamat dan bilah pencarian.
+search-engine-default-desc-2 = Ini adalah mesin pencari baku Anda dalam bilah alamat dan bilah pencarian. Anda dapat menggantinya kapan saja.
 search-engine-default-private-desc-2 = Pilih mesin pencari bawaan yang berbeda hanya untuk Jendela Pribadi
+search-separate-default-engine =
+    .label = Gunakan mesin pencari ini dalam Jendela Pribadi
+    .accesskey = G
 search-suggestions-header = Saran Pencarian
+search-suggestions-desc = Pilih bagaimana saran dari mesin pencari tampil.
 search-suggestions-option =
     .label = Sertakan saran pencarian
     .accesskey = s
@@ -507,6 +528,7 @@ search-show-suggestions-above-history-option =
     .label = Tampilkan saran pencarian di atas riwayat penjelajahan dalam hasil bilah alamat
 search-show-suggestions-private-windows =
     .label = Tampilkan saran pencarian di Jendela Pribadi
+suggestions-addressbar-settings = Ubah preferensi untuk riwayat penjelajahan, markah, dan saran tab.
 search-suggestions-cant-show = Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur { -brand-short-name } agar tidak mengingat riwayat.
 search-one-click-header = Mesin pencari sekali klik
 search-one-click-desc = Pilih mesin pencari alternatif yang muncul di bawah bilah alamat dan bilah pencarian ketika Anda mulai memasukkan kata kunci.
@@ -532,6 +554,12 @@ search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan
 ## Containers Section
 
 containers-back-link = « Kembali
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Kembali ke Pengaturan
+           *[other] Kembali ke Pengaturan
+        }
 containers-header = Tab Kontainer
 containers-add-button =
     .label = Tambahkan Kontainer Baru
@@ -554,6 +582,9 @@ sync-signedout-account-create = Tidak punya akun? Buatlah
     .accesskey = B
 sync-signedout-account-signin =
     .label = Masuk…
+    .accesskey = M
+sync-signedout-account-signin2 =
+    .label = Masuk ke { -sync-brand-short-name }…
     .accesskey = M
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -601,6 +632,7 @@ prefs-syncing-off = Sinkronisasi: NONAKTIF
 prefs-sync-setup =
     .label = Siapkan { -sync-brand-short-name }…
     .accesskey = S
+prefs-sync-offer-setup-label = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di semua perangkat Anda.
 prefs-sync-now =
     .labelnotsyncing = Sinkronkan Sekarang
     .accesskeynotsyncing = S
@@ -608,6 +640,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Anda sedang menyinkronkan item ini:
 sync-currently-syncing-bookmarks = Markah
 sync-currently-syncing-history = Riwayat
 sync-currently-syncing-tabs = Tab terbuka
@@ -710,6 +743,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sarankan dan hasilkan kata sandi yang kuat
     .accesskey = u
+forms-breach-alerts =
+    .label = Tampilkan peringatan tentang kata sandi untuk situs web yang diretas
+    .accesskey = w
 forms-breach-alerts-learn-more-link = Pelajari lebih lanjut
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -795,6 +831,8 @@ sitedata-option-block-trackers =
     .label = Pelacak pihak ketiga
 sitedata-option-block-cross-site-trackers =
     .label = Pelacak lintas situs
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Pelacak lintas situs dan media sosial
 sitedata-option-block-unvisited =
     .label = Kuki dari situs yang tidak dikunjungi
 sitedata-option-block-all-third-party =
@@ -863,7 +901,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ubahsuai
     .accesskey = U
 
-
+##
 
 content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat menyebabkan beberapa situs atau konten rusak.
 content-blocking-private-windows = Melacak konten di Jendela Pribadi
@@ -926,6 +964,9 @@ permissions-location-settings =
     .label = Setelan…
     .accesskey = t
 permissions-xr = Realitas Virtual
+permissions-xr-settings =
+    .label = Pengaturan…
+    .accesskey = P
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Setelan…
@@ -974,6 +1015,7 @@ permissions-a11y-privacy-link = Pelajari lebih lanjut
 collection-header = Pengumpulan dan Penggunaan Data { -brand-short-name }
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-privacy-notice = Pemberitahuan Privasi
+collection-health-report-telemetry-disabled-link = Pelajari lebih lanjut
 collection-health-report =
     .label = Izinkan { -brand-short-name } mengirim data teknis dan interaksi ke { -vendor-short-name }
     .accesskey = r

@@ -21,7 +21,9 @@ onboarding-button-label-get-started = Bersiap
 onboarding-welcome-header = Selamat datang di { -brand-short-name }
 onboarding-welcome-body = Anda telah mendapatkan perambannya. <br/>Temui lini produk { -brand-product-name } lainnya.
 onboarding-welcome-learn-more = Pelajari lebih lanjut tentang manfaatnya.
+onboarding-welcome-modal-get-body = Anda telah mendapatkan perambannya. <br/>Kini dapatkan yang terbaik dari { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Perkuat perlindungan privasi Anda.
+onboarding-welcome-modal-privacy-body = Anda telah mendapatkan perambannya. Mari tambahkan perlindungan privasi lebih lengkap.
 onboarding-welcome-modal-family-learn-more = Pelajari tentang rangkaian produk { -brand-product-name }.
 onboarding-welcome-form-header = Mulai di sini
 onboarding-join-form-header = Bergabunglah dengan { -brand-product-name }
@@ -42,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Mari mulai mengeksplorasi semua yang dapat Anda lakukan.
 onboarding-fullpage-form-email =
     .placeholder = Alamat surel Anda…
 
@@ -125,6 +128,9 @@ onboarding-send-tabs-title = Kirim Tab Secara Instan
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Kirim Tab secara instan membagikan laman di antara perangkat Anda tanpa harus menyalin, menempel, atau meninggalkan peramban.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Mudah berbagi halaman di semua perangkat Anda tanpa perlu menyalin tautan atau meninggalkan peramban.
 onboarding-send-tabs-button = Mulai Gunakan Kirim Tab
 onboarding-pocket-anywhere-title = Baca dan Dengarkan di Mana Saja
 onboarding-pocket-anywhere-text2 = Simpan konten favorit Anda luring dengan aplikasi { -pocket-brand-name } dan baca, dengarkan, dan simak kapanpun senyaman Anda.
@@ -133,10 +139,13 @@ onboarding-lockwise-passwords-title = Bawa Sandi Anda ke Mana Saja
 onboarding-lockwise-passwords-text2 = Simpan kata sandi yang Anda simpan dengan aman dan mudah masuk ke akun Anda dengan { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Dapatkan Aplikasinya
 onboarding-lockwise-strong-passwords-title = Buat dan Simpan Sandi yang Kuat
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } menciptakan sandi yang kuat langsung di tempat dan menyimpan semuanya di satu tempat.
 onboarding-lockwise-strong-passwords-button = Kelola Info Masuk Anda
 onboarding-facebook-container-title = Tetapkan Batas dengan Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } menjaga profil Anda terpisah dari hal lainnya, menjadikan Facebook lebih sulit untuk menargetkan Anda dengan iklan.
 onboarding-facebook-container-button = Tambahkan Ekstensi
+onboarding-import-browser-settings-title = Impor Markah, Kata Sandi, dan Lainnya
+onboarding-import-browser-settings-button = Impor Data Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
