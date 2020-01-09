@@ -28,6 +28,8 @@ options-select-dev-tools-theme-label = 主题
 options-context-inspector = 查看器
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = 显示浏览器样式
+options-show-user-agent-styles-tooltip =
+    .title = 启用此选项将显示由浏览器载入的默认样式。
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = 截短 DOM 属性
 options-collapse-attrs-tooltip =
@@ -61,6 +63,8 @@ options-screenshot-clipboard-tooltip =
     .title = 直接将截图保存到剪贴板
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = 播放相机快门声
+options-screenshot-audio-tooltip =
+    .title = 截图时播放相机快门声
 
 ## Editor section
 
@@ -75,6 +79,7 @@ options-sourceeditor-autoclosebrackets-label = 自动关闭括号
 options-sourceeditor-expandtab-tooltip =
     .title = 使用空格而非制表符缩进
 options-sourceeditor-expandtab-label = 使用空格缩进
+options-sourceeditor-tabsize-label = 制表符尺寸
 options-sourceeditor-keybinding-label = 按键绑定
 options-sourceeditor-keybinding-default-label = 默认设置
 
