@@ -85,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Baku
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Setelan lanjutan
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Menonaktifkan HTTP Cache (saat kotak peralatan terbuka)
 options-disable-http-cache-tooltip =
