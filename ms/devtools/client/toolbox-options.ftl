@@ -24,6 +24,19 @@ options-default-color-unit-hex = Hex
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Keutamaan Editor
+options-sourceeditor-detectindentation-tooltip =
+    .title = Mengandai berasaskan inden pada konteks sumber
+options-sourceeditor-detectindentation-label = Mengesan inden
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Menyelitkan tutup pendakap secara automatik
+options-sourceeditor-autoclosebrackets-label = Auto tutup pendakap
+options-sourceeditor-expandtab-tooltip =
+    .title = Gunakan ruang dan bukannya aksara tab
+options-sourceeditor-expandtab-label = Inden menggunakan ruang
+options-sourceeditor-tabsize-label = Saiz tab
+options-sourceeditor-keybinding-label = Keybindings
 
 ## Advanced section
 
