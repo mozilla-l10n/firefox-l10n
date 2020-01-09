@@ -26,6 +26,10 @@ options-select-dev-tools-theme-label = Tèmas
 
 # The heading
 options-context-inspector = Inspector
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = Mostrar los estils navegador
+options-show-user-agent-styles-tooltip =
+    .title = Activar aquesta opcion aficharà los estils per defaut cargats pel navegador.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Troncar los atributs DOM
 options-collapse-attrs-tooltip =
@@ -91,6 +95,10 @@ options-disable-http-cache-tooltip =
 options-disable-javascript-label = Activar JavaScript *
 options-disable-javascript-tooltip =
     .title = Activar aquesta opcion desactivarà JavaScript per l'onglet corrent. Aqueste paramètre serà doblidat a la tampadura de l'onglet o de la bóstia d'aisinas.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Activar lo desbogatge del chrome del navegador e dels moduls
+options-enable-chrome-tooltip =
+    .title = Activar aquesta opcion vos autorizarà a utilizar diferentas aisinas de desvelopament dins lo contèxte del navegador (via Aisinas > Desvelopament web > Bòstia d'aisinas del navegador) e de desbogar de moduls dempuèi lo gestionari de moduls complementaris
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Activar lo desbugatge distant
 options-enable-remote-tooltip =
