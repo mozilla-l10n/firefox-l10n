@@ -18,7 +18,7 @@ options-tool-not-supported-label = *در حال حاضر جعبه ابزار ه�
 options-select-additional-tools-label = ابزارهای توسعه نصب شده توسط افزودنی‌ها
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
-options-select-enabled-toolbox-buttons-label = دکمه‌های در دسترس جعبه ابزار{ " " }
+options-select-enabled-toolbox-buttons-label = دکمه‌های در دسترس جعبه ابزار
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = تم‌ها
 
