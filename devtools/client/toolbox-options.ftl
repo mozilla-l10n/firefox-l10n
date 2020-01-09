@@ -10,6 +10,17 @@
 
 # The heading
 options-select-default-tools-label = Alat Pengembang Bawaan
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Tidak didukung untuk target kotak alat saat ini
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Alat Pengembang yang diinstal dari pengaya
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Tombol Kotak Alat yang Tersedia
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Tema
 
 ## Inspector section
 
@@ -24,9 +35,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unit warna baku
+options-default-color-unit-authored = Sesuai Penyusun
+options-default-color-unit-hex = Heksa
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = MHB(A)
+options-default-color-unit-name = Nama Warna
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Editor Gaya
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS Lengkapi-Otomasis
 options-stylesheet-autocompletion-tooltip =
@@ -70,6 +89,8 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Aktifkan Peta Sumber
 options-source-maps-tooltip =
     .title = Jika opsi ini diaktifkan, kode sumber akan dipetakan dalam alat.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Hanya sesi ini saja, memulai ulang laman
 
 ##
 
