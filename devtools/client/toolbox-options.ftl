@@ -14,15 +14,24 @@ options-tool-not-supported-label = * nie je podporované pre aktuálny kontext
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Dostupné tlačidlá Vývojárskych nástrojov
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Témy vzhľadu
 
 ## Inspector section
 
 # The heading
 options-context-inspector = Prieskumník
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = Zobraziť štýly prehliadača
+options-show-user-agent-styles-tooltip =
+    .title = Povolením tejto možnosti zobrazíte predvolené štýly, ktoré sú načítavané prehliadačom
+options-collapse-attrs-tooltip =
+    .title = Skrátené dlhé atribúty v prieskumníkovi
 
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Predvolená jednotka farieb
+options-default-color-unit-authored = Podľa autora
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -30,6 +39,12 @@ options-default-color-unit-name = Názov farby
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Editor štýlov
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = Automatické dokončovanie CSS
+options-stylesheet-autocompletion-tooltip =
+    .title = Počas písania v okne Editora štýlov automaticky dokončuje vlastnosti CSS, hodnoty a selektory
 
 ## Screenshot section
 
@@ -55,8 +70,25 @@ options-sourceeditor-keybinding-default-label = Predvolené
 
 # The heading
 options-context-advanced-settings = Rozšírené nastavenia
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Zakázať JavaScript *
+options-disable-javascript-tooltip =
+    .title = Označením tejto voľby zakážete používanie JavaScriptu na aktuálnej karte. Po zatvorení karty alebo ukončení vývojárskych nástrojov bude táto voľba automaticky prepnutá späť
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Povoliť nástroje ladenia chrome prehliadača a doplnkov
+options-enable-chrome-tooltip =
+    .title = Zapnutie tejto voľby vám umožní ladiť doplnky z okna Správcu doplnkov a používať rôzne vývojárske nástroje aj pre kontext prehliadača (Nástroje > Webový vývojár > Nástroje prehliadača)
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Povoliť vzdialené ladenie
+options-enable-service-workers-http-tooltip =
+    .title = Zapnutie tejto voľby povolí service workers cez HTTP pre všetky karty, ktoré majú otvorené vývojárske nástroje
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Len pre aktuálnu reláciu, opäť načíta obsah stránky
 
 ##
 
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = Zobrazovať údaje platformy Gecko
+options-show-platform-data-tooltip =
+    .title = Ak povolíte túto možnosť, správy Nástroja na profilovanie JavaScriptu budú obsahovať symboly platformy Gecko
