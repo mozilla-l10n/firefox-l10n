@@ -108,6 +108,8 @@ options-enable-service-workers-http-tooltip =
     .title = Включение этой опции включит service workers поверх HTTP для всех вкладок, в которых открыта панель инструментов.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Включить Карты Исходников
+options-source-maps-tooltip =
+    .title = Если вы включите эту настройку, исходники будут картированы в инструментах.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Только текущая сессия, перезагружает страницу
 
