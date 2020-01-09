@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     jara přepruwowany wobsah wot wubranych sponsorow. Budźće zawěsćeny, waše přehladowanske 
     daty wašu wosobinsku wersiju { -brand-product-name } ženje njewopušća ­­- njewidźimy je, a naši 
     sponsorojo tež nic.
+newtab-privacy-modal-paragraph-2 =
+    Přidatnje k napowědanju putawych powědančkow, pokazujemy wam tež relewantny, 
+    jara přepruwowany wobsah wot wubranych sponsorow. Budźće zawěsćeny, <strong>waše přehladowanske 
+    daty wašu wosobinsku wersiju { -brand-product-name } ženje njewopušća</strong> ­­- njewidźimy je, a naši 
+    sponsorojo tež nic.
 newtab-privacy-modal-link = Zhońće, kak priwatnosć w nowym rajtarku funguje
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Zapołožku wotstronić
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy tutón wotrězk
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Woblubowane temy:
 newtab-pocket-more-recommendations = Dalše doporučenja
-newtab-pocket-how-it-works = Kak funguje
 newtab-pocket-whats-pocket = Što je { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
 newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -pocket-brand-name } a žiwće swój duch z fascinowacymi čitančkami.
