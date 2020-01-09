@@ -25,6 +25,10 @@ options-default-color-unit-hsl = HSL(A)
 
 ## Editor section
 
+options-sourceeditor-detectindentation-tooltip =
+    .title = Deducir sangráu basándose nel conteníu del códigu fonte
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Inxertar llaves de zarru automáticamente
 
 ## Advanced section
 
