@@ -212,6 +212,15 @@ advanced-fonts =
 colors-settings =
     .label = Livioù…
     .accesskey = L
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoum
+preferences-default-zoom = Zoum dre ziouer
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zoumañ war an destenn hepken
+    .accesskey = d
 language-header = Yezh
 choose-language-description = Dibabit ho yezh muiañ plijet evit skrammañ ar pajennadoù
 choose-button =
@@ -325,7 +334,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Endalc'had Digital Rights Management (DRM)
 play-drm-content =
@@ -573,6 +582,12 @@ search-keyword-warning-bookmark = Dibabet hoc'h eus ur ger alc'hwez war arver ev
 ## Containers Section
 
 containers-back-link = « Distreiñ
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Distreiñ d'an dibarzhioù
+           *[other] Distreiñ d'ar gwellvezioù
+        }
 containers-header = Ivinelloù endalc'her
 containers-add-button =
     .label = Ouzhpennañ un endalc'her nevez
@@ -915,7 +930,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personelaet
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar pajennoù a gargo en un doare ordinal.
 content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù 'zo da derriñ.
@@ -980,6 +995,10 @@ permissions-location = Lec'hiadur
 permissions-location-settings =
     .label = Arventennoù…
     .accesskey = r
+permissions-xr = Gwirionez niverel
+permissions-xr-settings =
+    .label = Arventennoù…
+    .accesskey = A
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Arventennoù…
@@ -1028,6 +1047,8 @@ permissions-a11y-privacy-link = Gouzout hiroc'h
 collection-header = Dastumadeg roadennoù { -brand-short-name } hag arver
 collection-description = Strivañ a reomp evit kinnig deoc'h dibaboù ha dastum ar pep ret nemetken da wellaat { -brand-short-name } evit an holl. Goulenn a reomp atav an aotre a-raok degemer titouroù personel.
 collection-privacy-notice = Evezhiadennoù a-fet buhez prevez
+collection-health-report-telemetry-disabled = Ne aotreit ket ken { -vendor-short-name } da zastum ho roadennoù teknikel hag etrewezhiañ. An holl roadennoù tremenet a vo skarzhet dindan 30 deiz.
+collection-health-report-telemetry-disabled-link = Gouzout hiroc'h
 collection-health-report =
     .label = Aotren { -brand-short-name } da gas roadennoù teknikel hag etrewerzhañ da v{ -vendor-short-name }
     .accesskey = A

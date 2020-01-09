@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Adderaouekaat
     .accesskey = r
+menu-view-full-zoom-actual-size =
+    .label = Ment vremanel
+    .accesskey = M
 menu-view-full-zoom-toggle =
     .label = Zoumañ war an destenn hepken
     .accesskey = t
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Askouezhioù
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = En em gennaskañ ouzh { -sync-brand-short-name }
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Kennaskañ ouzh { -brand-product-name }…
     .accesskey = k
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Goubredañ bremañ
     .accesskey = G
-menu-tools-sync-re-auth =
-    .label = En em adkennaskañ ouzh { -sync-brand-short-name }…
-    .accesskey = a
 menu-tools-fxa-re-auth =
     .label = Adkennaskañ ouzh { -brand-product-name }
     .accesskey = A
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Adloc'hañ gant an askouezhioù diweredekaet
     .accesskey = r
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Danevelliñ al lec'hienn dagus…
     .accesskey = d

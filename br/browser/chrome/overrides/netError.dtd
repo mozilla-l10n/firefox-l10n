@@ -124,6 +124,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
 
 <!ENTITY xfoBlocked.title "Stanket gant politikerezh X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; en deus harzet kargadur ar bajennad-mañ er c'henarroud-mañ dre ma vez difennet gant he folitikerezh X-Frame-Options.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
@@ -166,6 +167,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
 <!ENTITY prefReset.label "Assav an arventennoù dre ziouer">
 
+<!ENTITY enableTls10.longDesc "Al lec'hienn-mañ n'eo ket evit kemer e karg ar protokol TLS 1.2 hag a zo an handelv izekañ degemeret gant &brandShortName;. Gweredekaat TLS 1.0 ha TLS 1.1 a c'hall peurgas ar gevreadenn.">
 <!ENTITY enableTls10.note "Diweredekaet da vat e vo TLS 1.0 ha TLS 1.1 en un handelv da zont.">
 <!ENTITY enableTls10.label "Gweredekaat TLS 1.0 hag 1.1">
 

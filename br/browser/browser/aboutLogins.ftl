@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Klask titouroù kennaskañ
 create-login-button = Krouiñ un titour nevez
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Arlun evit { $title }
 fxaccounts-sign-in-text = Adkavit ho kerioù-tremen war ho trevnadoù all
 fxaccounts-sign-in-button = Kennaskit da { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -64,9 +59,6 @@ about-logins-login-list-empty-search-description = N'eus disoc'h ebet a glot gan
 login-list-item-title-new-login = Titour kennaskañ nevez
 login-list-item-subtitle-new-login = Enankit ho titouroù kennaskañ
 login-list-item-subtitle-missing-username = (anv arveriad ebet)
-about-logins-list-item-warning-icon =
-    .alt = Arlun evezh
-    .title = Lec'hienn frailhet
 about-logins-list-item-breach-icon =
     .title = Lec'hienn frailhet
 
@@ -84,7 +76,6 @@ about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merde
 
 login-item-new-login-title = Krouiñ un titour kennaskañ nevez
 login-item-edit-button = Embann
-login-item-delete-button = Dilemel
 about-logins-login-item-remove-button = Dilemel
 login-item-origin-label = Chomlec'h al lec'hienn
 login-item-origin =
@@ -99,6 +90,8 @@ login-item-password-reveal-checkbox-show =
     .title = Diskouez ar ger-tremen
 login-item-password-reveal-checkbox-hide =
     .title = Kuzhat ar ger-tremen
+login-item-password-reveal-checkbox =
+    .aria-label = Diskouez ar ger-tremen
 login-item-copy-password-button-text = Eilañ
 login-item-copied-password-button-text = Eilet!
 login-item-save-changes-button = Enrollañ ar c'hemmoù
@@ -129,7 +122,6 @@ enable-password-sync-preferences-button =
            *[other] Gwellvezioù { -sync-brand-short-name }
         }
     .accesskey = o
-confirm-delete-dialog-title = Dilemel an titouroù kennaskañ-mañ?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Na c'houlennit en-dro
     .accesskey = N
@@ -141,7 +133,6 @@ confirmation-dialog-dismiss-button =
     .title = Nullañ
 about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
-confirm-delete-dialog-confirm-button = Dilemel
 about-logins-confirm-remove-dialog-confirm-button = Dilmeel
 confirm-discard-changes-dialog-title = Dilezel ar c'hemmoù n'int ket bet enrollet?
 confirm-discard-changes-dialog-message = An holl c'hemmoù n'int ket bet enrollet a vo kollet.
@@ -156,11 +147,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Un enankad gant an anv arveriad-se a zo evit { $loginTitle } endeo.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

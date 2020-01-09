@@ -85,6 +85,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Kerzhlevr divizoù
 graphics-crash-guards-title = Keweriusterioù diweredekaet gant ar gwarez e-enep d'ar sac'hadennoù
 graphics-workarounds-title = Tremen e-biou
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokol ar prenestrañ
 place-database-title = Stlennvon "Places"
 place-database-integrity = Kevanded
 place-database-verify-integrity = Gwiriañ ar gevanded
@@ -129,7 +131,7 @@ media-device-channels = Sanell
 media-device-rate = Feur
 media-device-latency = Dale
 
-
+##
 
 intl-title = Etrevoradeladur & lec'hiadur
 intl-app-title = Arventennoù an arload
@@ -152,7 +154,7 @@ intl-regional-prefs = Gwellvezioù rannvroel
 
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
