@@ -75,7 +75,7 @@ options-sourceeditor-detectindentation-tooltip =
 options-sourceeditor-detectindentation-label = Kkes arigel
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = Ger s wudem awurman ticcewt tumdilt
-options-sourceeditor-autoclosebrackets-label = Mdel s twurmant ticciwin d{ " " }
+options-sourceeditor-autoclosebrackets-label = Mdel s twurmant ticciwin d
 options-sourceeditor-expandtab-tooltip =
     .title = Seqdec tafinaɣt tilemt deg umḍiq n tfinaɣt n trigla
 options-sourceeditor-expandtab-label = Rigel s useqdec n tallunt
@@ -96,9 +96,9 @@ options-disable-javascript-label = Ssens JavaScript *
 options-disable-javascript-tooltip =
     .title = Armad n uɣewwaṛ-agi ad isens JavaScript i yiccer amiran. Aɣewwaṛ-agi ad ittwattu ticki tmedleḍ iccer neɣ tanaka n ifecka.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Rmed tanaka n ifecka n teseɣtit n chrome n iminig d izegrar{ " " }
+options-enable-chrome-label = Rmed tanaka n ifecka n teseɣtit n chrome n iminig d izegrar
 options-enable-chrome-tooltip =
-    .title = Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tesqedceḍ ifecka n tneflit deg umnaḍ n iminig (s Ifecka > Taneflit web > Tanaka n ifecka n iminig) wa d yessireg taseɣtit n izegrar seg umsefrak n izegrar{ " " }
+    .title = Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tesqedceḍ ifecka n tneflit deg umnaḍ n iminig (s Ifecka > Taneflit web > Tanaka n ifecka n iminig) wa d yessireg taseɣtit n izegrar seg umsefrak n izegrar
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Rmed taseɣtit tanmeggagt
 options-enable-remote-tooltip =
@@ -108,7 +108,7 @@ options-enable-service-workers-http-label = Rmed tanaka Workers s HTTP (ticki ta
 options-enable-service-workers-http-tooltip =
     .title = Armad n uɣewwaṛ-agi ad isireg ameẓlu Workers s HTTP i yiccaren anda tanaka n ifecka teldi.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Rmed aɣbalu n tifelwiyi{ " " }
+options-source-maps-label = Rmed aɣbalu n tifelwiyi
 options-source-maps-tooltip =
     .title = Ma tremdeḍ aɣewwar-agi Taɣbalut ad tt-ttwacreḍ deg ufecku.
 # The message shown for settings that trigger page reload
