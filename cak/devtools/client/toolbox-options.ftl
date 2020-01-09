@@ -78,7 +78,7 @@ options-sourceeditor-autoclosebrackets-tooltip =
 options-sourceeditor-autoclosebrackets-label = Tutz'apij ri' ruyon ri q'inijuch'
 options-sourceeditor-expandtab-tooltip =
     .title = Ke'okisäx taq kojol pa ruk'exel ri rutz'ib' alk'utu'
-options-sourceeditor-expandtab-label = Ruchi' cholaj nrokisab'ej taq kojol{ " " }
+options-sourceeditor-expandtab-label = Ruchi' cholaj nrokisab'ej taq kojol
 options-sourceeditor-tabsize-label = Runimilem ruwi'
 options-sourceeditor-keybinding-label = Kitunik taq pitz'b'äl
 options-sourceeditor-keybinding-default-label = Jikib'an wi
@@ -108,7 +108,7 @@ options-enable-service-workers-http-label = Titzij ri samajela' pa samaj rik'in 
 options-enable-service-workers-http-tooltip =
     .title = Toq nitzij re cha'oj re' xtuya' q'ij chi yesamäj ri Samajela' pa samaj rik'in HTTP pa ronojel ri taq ruwi' erujaqon ri kikaxa taq samajib'äl.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Titzij kitzub'al xe'el{ " " }
+options-source-maps-label = Titzij kitzub'al xe'el
 options-source-maps-tooltip =
     .title = We natzïj re cha'oj xe'el re' xke'atzu' pa ri taq samajib'äl.
 # The message shown for settings that trigger page reload
