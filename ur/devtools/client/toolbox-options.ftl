@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = طےشدہ تخلیق کار ٹول
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * موجودہ ٹولبکس ہدف کی ہمایت نہہیں کرتا
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = تخلیق کار ٹول اظافہ جات کی جانب سے تنصیب کیئے گئے
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = ٹولبکس کا بٹن دستیاب ہے
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = خیالیات
 
 ## Inspector section
 
+# The heading
+options-context-inspector = انسپکٹر
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = انداز براؤزر دکھائیں
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = پہلے سے طے شدہ رنگ یونٹ
+options-default-color-unit-authored = مصنف کے طور پر
+options-default-color-unit-hex = ہیکس
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = (RGB(A
+options-default-color-unit-name = رنگ کے نام
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = انداز تدوین کار
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS خودکار تکمیل کریں
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = سکرین شاٹ رویہ
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = کلپ بورڈ میں سکرین شاٹ
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = طے شدہ
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = اعلٰی ترتیبات
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP کیسہ کو نا اہل بنائیں (جب ٹول بکسا کھلا ہو )
 options-disable-http-cache-tooltip =
@@ -80,9 +107,15 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = خدمت کارکنان کو  HTTP کے اوپر اہل بنائیں (جب ٹول بکس کھلا ہو )
 options-enable-service-workers-http-tooltip =
     .title = اس اختیار کو چالو کرنے سے HTTP کے اوپر سروس کارکنان کو اہل بنائیں گے کہ تمام ٹیب میں ٹول بکس کھلا ہے۔
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = ماخذ نقشہ جات اہل بنائیں
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * موجودہ سیشن صرف، صفحات دوبارہ
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = ٹھیک کرنے والا
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = گیکو پلیٹ فارم کوائف دکھایں
