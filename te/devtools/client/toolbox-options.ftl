@@ -8,19 +8,39 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * ప్రస్తుత సాధనపెట్టె లక్ష్యము కొరకు తోడ్పాటునీయదు
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = అందుబాటులోని సాధనపెట్టె బటన్లు
 
 ## Inspector section
 
+# The heading
+options-context-inspector = ఇన్‌స్పెక్టర్
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = విహారిణి శైలులు చూపు
 options-show-user-agent-styles-tooltip =
     .title = దీనిని ఆన్ చేయుట వలన విహారిణి చేత లోడుచేయబడిన అప్రమేయ శైలులు చూపబడును.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = DOM లక్షణాలను ఖండించు
+options-collapse-attrs-tooltip =
+    .title = ఇన్స్పెక్టర్ లో దీర్ఘ గుణాలు ఖండించు
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = అప్రమేయ రంగు ప్రమాణం
+options-default-color-unit-authored = రచించినట్లుగా
+options-default-color-unit-hex = హెక్స్
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = రంగుల పేర్లు
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = శైలి సరికూర్పరి
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = ఆటోకంప్లీట్ CSS
 options-stylesheet-autocompletion-tooltip =
@@ -47,6 +67,8 @@ options-sourceeditor-keybinding-default-label = అప్రమేయ
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = ఉన్నత అమరికలు
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = ఆపివేయి HTTP కాష్ ని (టూల్ బాక్స్ తెరిచినప్పుడు)
 options-disable-http-cache-tooltip =
@@ -63,10 +85,14 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = రిమోట్ డీబగ్గింగ్ చేతనంచేయి
 options-enable-remote-tooltip =
     .title = ఈ ఎంపిక ఆన్ చేయుట వలన రిమోట్ Firefox పై OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = సర్వీస్ వర్కర్స్ ప్రారంభించు HTTP పైగా (టూల్ బాక్స్ తెరిచినప్పుడు)
 options-enable-service-workers-http-tooltip =
     .title = ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = మూల మ్యాప్ లను ప్రారంభించు
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * ప్రస్తుత సెషన్ మాత్రమే, పేజీ తిరిగిలోడుచేయును
 
 ##
 
