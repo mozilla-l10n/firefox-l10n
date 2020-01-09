@@ -27,7 +27,7 @@ options-context-inspector = Thẽhgsaa
 
 # The heading
 options-sourceeditor-label = Txhitxna Fxi'nxi's ãate kavxia'na.
-options-sourceeditor-tabsize-label = walasa's txhuden{ " " }
+options-sourceeditor-tabsize-label = walasa's txhuden
 options-sourceeditor-keybinding-label = Kuh jwed phkithnxisaa
 options-sourceeditor-keybinding-default-label = Ãhçxaak  pey.
 
