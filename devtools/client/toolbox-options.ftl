@@ -28,6 +28,10 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = కామెరా యొక్క షట్టర్ ధ్వనిని ప్లే చేయండి
+options-screenshot-audio-tooltip =
+    .title = స్క్రీన్ షాట్ తీసుకొనప్పుడు కెమెరా ఆడియో సౌండ్ ప్రారంభించును
 
 ## Editor section
 
@@ -36,15 +40,40 @@ options-sourceeditor-detectindentation-tooltip =
 options-sourceeditor-detectindentation-label = ఇన్‌డెంటేషన్ గుర్తించు
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = మూసివేత బ్రాకెట్లు స్వయంచాలకంగా చొప్పించును
+options-sourceeditor-expandtab-tooltip =
+    .title = ట్యాబ్ కారెక్టర్ బదులు ఖాళీలు ఉపయోగించు
 options-sourceeditor-keybinding-label = కీబైండిగ్లు
 options-sourceeditor-keybinding-default-label = అప్రమేయ
 
 ## Advanced section
 
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = ఆపివేయి HTTP కాష్ ని (టూల్ బాక్స్ తెరిచినప్పుడు)
+options-disable-http-cache-tooltip =
+    .title = ఈ ఎంపికను టర్నింగ్ టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP కాష్ ను ఆపివేస్తుంది. సేవా ఉద్యోగులు ఈ ఎంపిక ద్వారా ప్రభావితం కాదు.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript * అచేతనంచేయి
+options-disable-javascript-tooltip =
+    .title = ఈ ఎంపిక ఆన్ చేయుట వలన ఈ ప్రస్తుత ట్యాబ్ కొరకు జావాస్క్రిప్ట్ అచేతనంచేయబడును. ఒకవేళ ట్యాబ్ లేదా సాధనపెట్టె మూయబడితే అప్పుడు ఈ అమరిక మర్చిపోబడును.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = విహారిణి క్రోమ్ ను ప్రారంభించు మరియు పొడిగింత టూల్ బాక్సులను డీబగ్గింగ్ చేయండి
+options-enable-chrome-tooltip =
+    .title = ఈ ఎంపికను ఆన్ చెయ్యడానికి మీరు పొడిగింతలు మేనేజర్ నుండి మరియు డీబగ్ అనుబంధాలను (ఉపకరణాలు> వెబ్ డెవలపర్> విహారిణి టూల్ ద్వారా) విహారిణి సందర్భంలో వివిధ డెవలపర్ టూల్స్ ఉపయోగించడానికి అనుమతిస్తుంది
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = రిమోట్ డీబగ్గింగ్ చేతనంచేయి
+options-enable-remote-tooltip =
+    .title = ఈ ఎంపిక ఆన్ చేయుట వలన రిమోట్ Firefox పై OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును
+options-enable-service-workers-http-tooltip =
+    .title = ఈ ఎంపికను ఆన్ చేయడం వల్ల టూల్ బాక్స్ తెరిచిన అన్ని ట్యాబ్ల కోసం HTTP పైగా సేవ కార్మికులు ఎనేబుల్ చేస్తుంది.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = మూల మ్యాప్ లను ప్రారంభించు
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = డీబగ్గర్
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = గెకో ప్లాట్‌ఫాం దత్తాంశం చూపు
+options-show-platform-data-tooltip =
+    .title = మీరు ఈ ఎంపిక చేతనం చేస్తే జావాస్క్రిప్ట్ ప్రొఫైలర్ అనునదిగెకో ప్లాట్‌ఫాం చిహ్నాలు నివేదించును
