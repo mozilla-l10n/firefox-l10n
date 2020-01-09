@@ -37,7 +37,7 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
-options-default-color-unit-label = Tilasu noone ize{ " " }
+options-default-color-unit-label = Tilasu noone ize
 options-default-color-unit-authored = Hantumkaw
 options-default-color-unit-hex = Ferši-16
 options-default-color-unit-hsl = HSL(A)
@@ -67,7 +67,7 @@ options-sourceeditor-autoclosebrackets-tooltip =
     .title = Holgu daabuyan dam nga boŋ se
 options-sourceeditor-autoclosebrackets-label = Boŋdaabu holgey
 options-sourceeditor-expandtab-tooltip =
-    .title = Goy nda farrey, manti nor loku harfu{ " " }
+    .title = Goy nda farrey, manti nor loku harfu
 options-sourceeditor-expandtab-label = Hirri nor nda farrey
 options-sourceeditor-tabsize-label = Kanji azzaati
 options-sourceeditor-keybinding-label = Kufalhawarey
