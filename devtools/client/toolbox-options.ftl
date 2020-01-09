@@ -8,13 +8,21 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Не падтрымліваецца скрынкай прыладаў для цяперашняй адзінкі
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Даследчык
 
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Назвы колераў
 
 ## Style Editor section
 
