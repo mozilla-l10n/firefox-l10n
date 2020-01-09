@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = { -brand-product-name } 随身带着走
 onboarding-sync-welcome-content = 在所有设备上都能同步书签、历史记录、密码以及其他设置，数据随处可取。
 onboarding-sync-welcome-learn-more-link = 详细了解 Firefox 账户
-onboarding-sync-form-invalid-input = 需要有效的电子邮件地址
-onboarding-sync-legal-notice = 若您选择继续，即表示您同意我们的<a data-l10n-name="terms">服务条款</a>和<a data-l10n-name="privacy">隐私声明</a>。
 onboarding-sync-form-input =
     .placeholder = 电子邮件
 onboarding-sync-form-continue-button = 继续
@@ -80,7 +78,7 @@ onboarding-benefit-privacy-title = 真诚捍卫隐私
 # transparent about how we use it."
 onboarding-benefit-privacy-text = 我们所做的一切，均符合我们对个人数据隐私的承诺：索取更少、确保安全、绝不隐瞒。
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = 在任何使用 { -brand-product-name } 的地方同步书签、密码等数据。
+onboarding-benefit-sync-text = 时刻使用 { -brand-product-name } 同步书签、密码、历史记录等数据。
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = 在您的个人信息出现在数据外泄事件时收到通知。
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
@@ -107,7 +105,7 @@ onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何�
 onboarding-tracking-protection-title2 = 保护您不受跟踪
 onboarding-tracking-protection-text2 = { -brand-short-name } 可帮助阻止网站的在线跟踪，让内容跟踪器更难盯上您。
 onboarding-tracking-protection-button2 = 工作原理
-onboarding-data-sync-title = 将您的设置随身带着走
+onboarding-data-sync-title = 您的设置不离身
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = 在任何使用 { -brand-product-name } 的地方同步书签、密码等数据。
 onboarding-data-sync-button2 = 登录{ -sync-brand-short-name }服务
