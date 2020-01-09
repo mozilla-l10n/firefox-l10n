@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = ডিফল্ট ডেভেলপার টুলসমূহ
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * বর্তমান টুলবক্স টার্গেট এর জন্য সমর্থিত নয়
@@ -68,6 +70,8 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = এডিটর পছন্দসমূহ
+options-sourceeditor-detectindentation-tooltip =
+    .title = উৎসের কন্টেন্টের ভিত্তিতে ইনডেন্টেশন ধারণা করুন
 options-sourceeditor-detectindentation-label = ইনডেন্টেশন শনাক্তকরণ
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন
@@ -75,10 +79,14 @@ options-sourceeditor-autoclosebrackets-label = অটোক্লোজ ব্�
 options-sourceeditor-expandtab-tooltip =
     .title = ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন
 options-sourceeditor-expandtab-label = ফাঁকাস্থান ব্যবহার করে ইনডেন্ট করুন
+options-sourceeditor-tabsize-label = ট্যাবের আকার
 options-sourceeditor-keybinding-label = কীবাইন্ডিং
+options-sourceeditor-keybinding-default-label = ডিফল্ট
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = উন্নত সেটিং
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP ক্যাশে নিষ্ক্রিয় করুন (টুলবক্স খোলা থাকাকালীন)
 options-disable-http-cache-tooltip =
@@ -101,6 +109,10 @@ options-enable-service-workers-http-tooltip =
     .title = এই অপশন চালু থাকলে যেসব ট্যাবের টুলবক্স খোলা আছে সেগুলোর HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করে দিবে।
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = উৎস ম্যাপ সক্রিয় করুন
+options-source-maps-tooltip =
+    .title = আপনি যদি এই অপশন সক্রিয় করেন টুলে সোর্স ম্যাপড হবে।
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = *কেবল বর্তমান সেশন, পাতা পুনরায় লোড করে
 
 ##
 
