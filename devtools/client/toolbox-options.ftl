@@ -21,6 +21,8 @@ options-show-user-agent-styles-tooltip =
 
 ## Style Editor section
 
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = Autocompleta el CSS
 options-stylesheet-autocompletion-tooltip =
     .title = Completa automàticament propietats CSS, valors i selectors en l'editor d'estils a mesura que s'escriu
 
@@ -46,6 +48,8 @@ options-sourceeditor-keybinding-default-label = Per defecte
 
 ## Advanced section
 
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Inhabilita el JavaScript *
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Habilita la depuració remota
 
