@@ -14,10 +14,11 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = सावधानी के साथ आगे बढ़ें
+about-config-intro-warning-text = उन्नत कॉन्फ़िगरेशन वरीयताओं को बदलना { -brand-short-name } की प्रदर्शन या सुरक्षा को प्रभावित कर सकता है।
 about-config-intro-warning-checkbox = जब मैं इन सुविधाओं का उपयोग करने का प्रयास करूं तो मुझे चेतावनी दें
 about-config-intro-warning-button = जोखिम को स्वीकार करें और जारी रखें
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = इन प्राथमिकताओं को बदलने से { -brand-short-name } का प्रदर्शन या सुरक्षा प्रभावित हो सकती है।

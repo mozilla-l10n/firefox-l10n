@@ -68,7 +68,6 @@ about-logins-login-intro-heading-logged-in = कोई संकलित लॉ
 
 login-item-new-login-title = नया लॉगिन बनाएं
 login-item-edit-button = संपादित करें
-login-item-delete-button = मिटाएं
 about-logins-login-item-remove-button = हटाएँ
 login-item-origin-label = वेबसाइट का पता
 login-item-origin =
@@ -83,6 +82,8 @@ login-item-password-reveal-checkbox-show =
     .title = पासवर्ड दिखाएं
 login-item-password-reveal-checkbox-hide =
     .title = पासवर्ड छिपाएं
+login-item-password-reveal-checkbox =
+    .aria-label = पासवर्ड दिखाएं
 login-item-copy-password-button-text = कॉपी करें
 login-item-copied-password-button-text = कॉपी हो गया!
 login-item-save-changes-button = परिवर्तनों को सहेजें
@@ -108,7 +109,6 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } वरीयताएँ पर जाएँ
         }
     .accesskey = V
-confirm-delete-dialog-title = इस लॉगिन को मिटाएं?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = मुझसे फिर न पूछें
     .accesskey = न
@@ -120,7 +120,6 @@ confirmation-dialog-dismiss-button =
     .title = रद्द करें
 about-logins-confirm-remove-dialog-title = इस लॉगिन को हटाएँ?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
-confirm-delete-dialog-confirm-button = मिटाएं
 about-logins-confirm-remove-dialog-confirm-button = हटाएँ
 confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
 confirm-discard-changes-dialog-message = सभी सहेजे न गए परिवर्तन खो जाएंगे।
