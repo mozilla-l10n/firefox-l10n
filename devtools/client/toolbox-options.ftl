@@ -53,6 +53,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Perilaku Tangkapan Layar
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Salin tangkapan layar ke papan klip
+options-screenshot-clipboard-tooltip =
+    .title = Simpan tangkapan layar langsung ke papan klip
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Bunyikan suara shutter kamera
+options-screenshot-audio-tooltip =
+    .title = Aktifkan suara audio kamera saat mengambil tangkapan layar
 
 ## Editor section
 
