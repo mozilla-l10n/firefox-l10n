@@ -95,6 +95,8 @@ options-disable-http-cache-tooltip =
 options-disable-javascript-label = JavaScript uitschakelen *
 options-disable-javascript-tooltip =
     .title = Door deze optie aan te zetten, wordt JavaScript voor het huidige tabblad uitgeschakeld. Als het tabblad of de werkset wordt gesloten, wordt deze instelling vergeten.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Browserchrome- en add-on-debugging-werksets inschakelen
 options-enable-chrome-tooltip =
     .title = Door deze optie aan te zetten, kunt u diverse ontwikkelaarshulpmiddelen in browsercontext gebruiken (via Extra > Webontwikkelaar > Browserwerkset) en fouten in add-ons van de add-onbeheerder opsporen
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
