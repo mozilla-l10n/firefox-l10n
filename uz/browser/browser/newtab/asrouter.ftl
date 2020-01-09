@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Tavsiya qilingan kengaytma
 cfr-doorhanger-feature-heading = Tavsiya qilingan funksiya
 cfr-doorhanger-pintab-heading = Sinab koʻring: Ichki oynani qistirish
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Men buni nega ko‘ryapman
@@ -59,9 +59,12 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ta foydalanuvchi
        *[other] { $total } ta foydalanuvchi
     }
+cfr-doorhanger-pintab-description = Koʻp kirilgan saytlarga osongina kiring. Saytlarni ochiq ichki oynalarda saqlang (qayta ishga tushirganda ham).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = Qistirilishi lozim boʻlgan ichki oyna ustida <b>sichqonchaning oʻng tugmasini bosing</b>.
+cfr-doorhanger-pintab-step2 = Menyudan <b>Ichki oynani qistirish</b>ni tanlang.
 cfr-doorhanger-pintab-animation-pause = Pauza
 cfr-doorhanger-pintab-animation-resume = Davom etish
 
@@ -82,6 +85,15 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 cfr-whatsnew-panel-header = Yangi xususiyatlar
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
