@@ -8,12 +8,17 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = เครื่องมือนักพัฒนาเริ่มต้น
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * ไม่รองรับในชุดเครื่องมือปัจจุบัน
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = เครื่องมือนักพัฒนาที่ติดตั้งผ่านส่วนเสริม
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = ปุ่มกล่องเครื่องมือที่มี
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = ชุดตกแต่ง
 
@@ -21,9 +26,14 @@ options-select-dev-tools-theme-label = ชุดตกแต่ง
 
 # The heading
 options-context-inspector = ตัวตรวจสอบ
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = แสดงลักษณะของเบราว์เซอร์
+options-show-user-agent-styles-tooltip =
+    .title = การเปิดสิ่งนี้จะแสดงลักษณะเริ่มต้นที่ถูกโหลดโดยเบราว์เซอร์
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = หน่วยสีเริ่มต้น
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -40,9 +50,19 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = ลักษณะการทำงานของภาพหน้าจอ
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = จับภาพหน้าจอไปยังคลิปบอร์ด
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = เล่นเสียงชัตเตอร์กล้อง
+options-screenshot-audio-tooltip =
+    .title = เปิดใช้งานเสียงกล้องเมื่อถ่ายภาพหน้าจอ
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = ค่ากำหนดตัวแก้ไข
 options-sourceeditor-detectindentation-tooltip =
     .title = กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ
 options-sourceeditor-detectindentation-label = ตรวจสอบการเยื้อง
@@ -54,6 +74,7 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-expandtab-label = เยื้องโดยใช้ช่องว่าง
 options-sourceeditor-tabsize-label = ขนาดแท็บ
 options-sourceeditor-keybinding-label = ปุ่มลัด
+options-sourceeditor-keybinding-default-label = ค่าเริ่มต้น
 
 ## Advanced section
 
@@ -65,10 +86,19 @@ options-disable-http-cache-label = ปิดใช้งานแคช HTTP (�
 options-disable-javascript-label = ปิดใช้งาน JavaScript *
 options-disable-javascript-tooltip =
     .title = การเปิดใช้ตัวเลือกนี้จะปิดใช้งาน JavaScript ในแท็บปัจจุบัน ถ้าแท็บนี้ถูกปิดไป ค่าที่ตั้งนี้จะถูกล้าง
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = เปิดใช้งานการดีบั๊กระยะไกล
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = เปิดใช้งานตัวทำงานบริการผ่าน HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = *เรียกหน้าเว็บใหม่เฉพาะวาระปัจจุบันเท่านั้น
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = ตัวดีบั๊ก
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = แสดงข้อมูลแพลตฟอร์ม Gecko
 options-show-platform-data-tooltip =
     .title = ถ้าคุณเปิดใช้งานตัวเลือกนี้ รายงานตัวเก็บประวัติ JavaScript จะรวมสัญลักษณ์ของ Gecko platform เข้าไปด้วย
