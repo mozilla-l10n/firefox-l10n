@@ -8,9 +8,13 @@
 
 ## Default Developer Tools section
 
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Mövzular
 
 ## Inspector section
 
+# The heading
+options-context-inspector = İnspektor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Səyyah Stillərini Göstər
 options-show-user-agent-styles-tooltip =
@@ -21,6 +25,8 @@ options-show-user-agent-styles-tooltip =
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Stil Redaktoru
 
 ## Screenshot section
 
@@ -33,6 +39,8 @@ options-sourceeditor-keybinding-default-label = Standart
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Təkmilləşmiş tənzimləmələr
 
 ##
 
