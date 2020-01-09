@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Eines per a desenvolupadors per defecte
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * No és compatible amb l'element actual de la caixa d'eines
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Eines per a desenvolupadors instal·lades per complements
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Botons de la caixa d'eines disponibles
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Temes
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspector
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Mostra els estils del navegador
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unitat per defecte dels colors
+options-default-color-unit-authored = Tal com s'ha creat
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Noms de colors
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Editor d'estils
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Autocompleta el CSS
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Comportament de la captura de pantalla
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Captura de pantalla al porta-retalls
+options-screenshot-clipboard-tooltip =
+    .title = Desa la captura de pantalla directament al porta-retalls
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Reprodueix un so d'obturador de càmera
+options-screenshot-audio-tooltip =
+    .title = Activa el so d'obturador de càmera fotogràfica en fer una captura de pantalla
 
 ## Editor section
 
@@ -52,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Per defecte
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Paràmetres avançats
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Inhabilita la memòria cau HTTP (quan la caixa d'eines està oberta)
 options-disable-http-cache-tooltip =
@@ -72,9 +107,17 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Habilita els processos de treball de servei a través de HTTP (quan la caixa d'eines és oberta)
 options-enable-service-workers-http-tooltip =
     .title = Activeu aquesta opció per permetre els processos de treball de servei a través de HTTP en totes les pestanyes que tinguin la caixa d'eines oberta.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Habilita els mapes de fonts
+options-source-maps-tooltip =
+    .title = Si habiliteu aquesta opció, es maparan les fonts en les eines.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Només la sessió actual, recarrega la pàgina
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Depurador
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Mostra dades de la plataforma Gecko
