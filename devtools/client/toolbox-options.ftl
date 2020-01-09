@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = అన్ని డెవెలపర్ టూల్స్
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * ప్రస్తుత సాధనపెట్టె లక్ష్యము కొరకు తోడ్పాటునీయదు
