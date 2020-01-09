@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Garatzaile-tresna lehenetsiak
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Ez da onartzen tresna-kutxaren uneko helbururako
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Gehigarriek instalatutako garatzaile-tresnak
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Tresna-kutxako botoi erabilgarriak
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Itxurak
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Ikuskatzailea
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Erakutsi nabigatzaile-estiloak
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Koloreen unitate lehenetsia
+options-default-color-unit-authored = Sortu bezala
+options-default-color-unit-hex = Hamaseitarra
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Koloreen izenak
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Estilo-editorea
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSSaren osatze automatikoa
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Pantaila-argazkiaren portaera
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Pantaila-argazkia arbelera
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Lehenetsia
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Ezarpen aurreratuak
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Desgaitu HTTP cachea (tresna-kutxa irekita dagoenean)
 options-disable-http-cache-tooltip =
@@ -82,9 +109,15 @@ options-enable-service-workers-http-tooltip =
     .title = Ezarrita badago, zerbitzu-langileak HTTP bidez erabilgarri egongo dira tresna-kutxa zabalik duten fitxa guztietan.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Gaitu iturburu-mapak
+options-source-maps-tooltip =
+    .title = Aukera hau gaituz gero, iturburuak mapeatu egingo dira tresnetan.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Uneko saioa soilik, orria berritzen du
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Araztailea
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Erakutsi Gecko plataformaren datuak
