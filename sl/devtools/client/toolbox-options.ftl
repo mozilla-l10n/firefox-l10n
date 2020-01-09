@@ -107,6 +107,8 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Omogoči Service Workerje preko HTTP (ko so razvojna orodja odprta)
 options-enable-service-workers-http-tooltip =
     .title = Če vključite to možnost, boste omogočili Service Workerje preko HTTP v vseh zavihkih, ki imajo odprta razvojna orodja.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Omogoči preslikave virov
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Samo za to sejo, ponovno naloži stran
 
