@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspBlocked.longDesc "<p>Ar merdeer en deus harzet kargadur ar bajennad-mañ gant an doare-mañ rak difennet eo gant ur reolenn diogelroez a-fet endalc'hadoù eus ar bajennad.</p>">
 
+<!ENTITY xfoBlocked.title "Stanket gant politikerezh X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Ar merdeer en deus harzet kargadur ar bajennad-mañ er c'henarroud-mañ dre ma vez difennet gant he folitikerezh X-Frame-Options.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ar bajenn emaoc'h o klask gweladenniñ n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p> <ul><li>Mar plij, kit e darempred gant perc'henned al lec'hienn a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
 
