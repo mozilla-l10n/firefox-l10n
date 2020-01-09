@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Tembipuru mboguatahára ijypyguáva
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Ndojokupytýi mba'epuru ag̃agua tembipuru ryru rehegua
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Tembiporu Mboguatahára moimbaha omohendapyréra
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Tembipuru Ryru ojepurukuaáva
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Mbojeguaha
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Mbohekoha
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Kundaha rehegua jehechauka
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Sa'y joja imarãva
+options-default-color-unit-authored = Apoháraramo
+options-default-color-unit-hex = Mba'evai
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Sa'ykuéra réra
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Mbosako'iha
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS ijehegui ñemoĩmba
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Mba'erechaha japyhypyre reko
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Mba'erechaha japyhypyre kuatiajokohápe
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Jepokokuaa'ỹha
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Ñemoĩporã opapotáva
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Kache HTTP ñemonge (tembipuru ryru ijuruja jave)
 options-disable-http-cache-tooltip =
@@ -80,9 +107,17 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Mba'epytyvõrã mba'apohára moheñói HTTP rupi (tembipuru ryru ijurujáramo)
 options-enable-service-workers-http-tooltip =
     .title = Emyandývo ko poravopyrã omoneĩta mba'apoharakuéra mba'epytyvõrãva HTTP rupi opavave tenda'ípe g̃uarã oguerekóva tembipuru ryru ijurujáva.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Embojuruja yvyra'ãnga ypýva
+options-source-maps-tooltip =
+    .title = Embojurujáramo ko poravopyrã, teñoiha ijehecháta tembipurúpe.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyenyhẽjey kuatiarogue
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Mopotĩha
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Mba'ekuaarã jehechauka Gecko rehegua
