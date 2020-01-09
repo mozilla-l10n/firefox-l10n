@@ -8,9 +8,22 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * বর্তমান টুলবক্স টার্গেট এর জন্য সমর্থিত নয়
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = এড-অন এর মাধ্যমে ইন্সটলকৃত ডেভেলপার টুল
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = প্রাপ্তিসাধ্য টুলবক্স বাটন
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = থিম
 
 ## Inspector section
 
+# The heading
+options-context-inspector = পরিদর্শক
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ব্রাউজার স্টাইল দেখান
 options-show-user-agent-styles-tooltip =
@@ -22,9 +35,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = ডিফল্ট রঙের একক u
+options-default-color-unit-authored = লেখক হিসেবে
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = রঙের নামসমূহ
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = স্টাইল সম্পাদনা
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = স্বয়ংসম্পূর্ণ CSS
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +53,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = স্ক্রিনশটের আচরণ
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = স্ক্রিনশট ক্লিপবোর্ডে পাঠাও
 options-screenshot-clipboard-tooltip =
@@ -81,6 +104,8 @@ options-source-maps-label = উৎস ম্যাপ সক্রিয় কর�
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = ডিবাগার
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = গেকো প্ল্যাটফর্ম ডাটা দেখান
