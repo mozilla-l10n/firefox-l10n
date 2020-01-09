@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     válogatott tartalmait is megjelenítjük. Biztos lehet benne, hogy a böngészési adatai
     sosem hagyják el az Ön { -brand-product-name } példányát – mi nem látjuk azokat,
     és a szponzoraink sem.
+newtab-privacy-modal-paragraph-2 =
+    A magával ragadó történetek mellett, kiválasztott szponzoraink releváns,
+    válogatott tartalmait is megjelenítjük. Biztos lehet benne, hogy <strong>a böngészési adatai
+    sosem hagyják el az Ön { -brand-product-name } példányát</strong> – mi nem látjuk azokat,
+    és a szponzoraink sem.
 newtab-privacy-modal-link = Tudja meg, hogyan működik az adatvédelem az új lapon
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Könyvjelző eltávolítása
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hoppá! Majdnem betöltöt
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Népszerű témák:
 newtab-pocket-more-recommendations = További javaslatok
-newtab-pocket-how-it-works = Hogyan működik
 newtab-pocket-whats-pocket = Mi a { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } beszerzése
 newtab-pocket-cta-text = Mentse az Ön által kedvelt történeteket a { -pocket-brand-name }be, és töltse fel elméjét lebilincselő olvasnivalókkal.
