@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Izvorni razvojni alati
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Nije podržano za trenutni toolbox cilj
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Developer alati instalirani od strane add-ona
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Dostupna dugmad alatne trake
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Teme
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspektor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Prikaz stilova browsera
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Zadana jedinica boje
+options-default-color-unit-authored = As Authored
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Nazivi boja
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Editor stilova
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Automatsko dovršavanje CSS-a
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Ponašanje screenshota
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Slika ekrana u međuspremnik
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Izvorno
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Napredne postavke
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Onemogući HTTP keš (kada je toolbox otvoren)
 options-disable-http-cache-tooltip =
@@ -80,9 +107,17 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Omogući Service Workere preko HTTP (kada je alatna traka otvorena)
 options-enable-service-workers-http-tooltip =
     .title = Uključivanje ove opcije će omogućiti korištenje opcija testiranja service workera putem HTTP-a za sve tabove koji imaju otvorenu alatnu traku.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Omogući mape izvora
+options-source-maps-tooltip =
+    .title = Ukoliko omogućite ovu opciju, izvori će biti mapirani u alatima.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Samo trenutna sesija, ponovo učitava stranicu
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Debugger
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Prikaži podatke Gecko platforme
