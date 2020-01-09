@@ -96,7 +96,7 @@ options-disable-javascript-label = JavaBitigi'ni naqabilleştir
 options-disable-javascript-tooltip =
     .title = Bu seçenekniñ faalleştirilmesi JavaBitigi'ni cari ilmek içün ğayrıqabilleştirecek. İlmek yaki alet qutusı qapatılsa bu ayar unutılacaq.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Kezici chrome ve eklenti illetsizlendirim alet-qutularını qabilleştir{ " " }
+options-enable-chrome-label = Kezici chrome ve eklenti illetsizlendirim alet-qutularını qabilleştir
 options-enable-chrome-tooltip =
     .title = Bu seçenekni açsañız  kezici bağlamında çeşitli inkişafçı aletlerini (Aletler > Ağ Keliştiricisi > Kezici Alet-qutusı arqalı) qullanabilir ve Eklenti İdarecisi'nden eklentilerni illetsizlendirebilirsiñiz
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
