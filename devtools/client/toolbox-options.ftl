@@ -109,6 +109,8 @@ options-enable-service-workers-http-tooltip =
     .title = Če vključite to možnost, boste omogočili Service Workerje preko HTTP v vseh zavihkih, ki imajo odprta razvojna orodja.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Omogoči preslikave virov
+options-source-maps-tooltip =
+    .title = Če omogočite to možnost, bodo viri v orodjih preslikani.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Samo za to sejo, ponovno naloži stran
 
