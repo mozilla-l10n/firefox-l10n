@@ -35,6 +35,19 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Redigerarinställningar
+options-sourceeditor-detectindentation-tooltip =
+    .title = Gissa indentering baserad på källinnehåll
+options-sourceeditor-detectindentation-label = Känn av indentering
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Infoga avslutande hakparenteser automatiskt
+options-sourceeditor-autoclosebrackets-label = Avsluta hakparenteser automatiskt
+options-sourceeditor-expandtab-tooltip =
+    .title = Använd mellanslag istället för tab-tecknet
+options-sourceeditor-expandtab-label = Indentera med mellanslag
+options-sourceeditor-tabsize-label = Tabbstorlek
+options-sourceeditor-keybinding-label = Snabbtangenter
 options-sourceeditor-keybinding-default-label = Standard
 
 ## Advanced section
