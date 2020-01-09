@@ -643,10 +643,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_closed_tabs_number "&formatD; टैब">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 टैब">
-<!ENTITY home_most_recent_empty "आपके देखे हुए सबसे हालिया वेबसाइट यहाँ दिखाए गए हैं.">
+<!ENTITY home_most_recent_empty "आपके द्वारा हाल ही में देखे गए वेबसाइट यहां दीखते हैं।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "अरे: &formatS1; का उपयोग करते हुए नया निजी टैब &formatS2; आपका नक्शे कदम संचय नहि करेगा.">
+<!ENTITY home_most_recent_emptyhint2 "अरे: &formatS1;नई निजी टैब&formatS2; का उपयोग करने से आपका इतिहास सहेजा नहीं जाएगा।">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -908,7 +908,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "लोकप्रिय">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "ब्राउज़िंग प्रारंभ करें, और हम कुछ प्रमुख आलेख, विडियो, तथा अन्य पृष्ठों को प्रदर्शित करेंगे जिन्हें आपने ने हाल ही में देखा है या पुस्तचिन्हित किया है.">
+<!ENTITY activity_stream_highlights_empty "ब्राउज़िंग प्रारंभ करें, और हम यहां कुछ प्रमुख आलेख, विडियो, तथा अन्य पृष्ठों को प्रदर्शित करेंगे जिन्हें आप ने हाल ही में देखा है या बुकमार्क किया है।">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
