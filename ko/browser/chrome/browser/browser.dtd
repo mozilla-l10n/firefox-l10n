@@ -887,7 +887,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.label "예외 제거">
 <!ENTITY identity.removeCertException.accesskey "R">
 
-<!ENTITY identity.moreInfoLinkText2 "더 보기">
+<!ENTITY identity.moreInfoLinkText2 "자세한 정보">
 
 <!ENTITY identity.clearSiteData "쿠키와 사이트 데이터 삭제…">
 
