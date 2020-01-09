@@ -109,6 +109,8 @@ options-enable-service-workers-http-tooltip =
     .title = Калі ўключана, дазваляе воркеры сервісу праз HTTP для ўсіх картак, на якіх адкрыта панэль прылад.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Уключыць мапы зыходнага коду
+options-source-maps-tooltip =
+    .title = Калі ўключана, зыходныя коды будуць супастаўлены ў інструментах.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Толькі для бягучага сеанса, перазагружае старонку
 
