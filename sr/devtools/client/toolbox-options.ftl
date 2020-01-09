@@ -55,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Screenshot Behavior
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Screenshot to clipboard
+options-screenshot-clipboard-tooltip =
+    .title = Saves to the screenshot directly to the clipboard
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Play camera shutter sound
+options-screenshot-audio-tooltip =
+    .title = Enables the camera audio sound when taking screenshot
 
 ## Editor section
 
