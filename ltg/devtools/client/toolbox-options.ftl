@@ -32,6 +32,14 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Ekranattāls iz storpliktuvi
+options-screenshot-clipboard-tooltip =
+    .title = Sagloboj ekranattālu storpliktuvē (datora atmiņā)
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Play camera shutter sound
+options-screenshot-audio-tooltip =
+    .title = Enables the camera audio sound when taking screenshot
 
 ## Editor section
 
@@ -72,6 +80,10 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Enable Service Workers over HTTP (when toolbox is open)
 options-enable-service-workers-http-tooltip =
     .title = Turning this option on will enable the service workers over HTTP for all tabs that have the toolbox open.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Enable Source Maps
+options-source-maps-tooltip =
+    .title = If you enable this option sources will be mapped in the tools.
 
 ##
 
