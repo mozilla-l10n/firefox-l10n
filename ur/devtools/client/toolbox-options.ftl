@@ -71,7 +71,7 @@ options-screenshot-audio-tooltip =
 # The heading
 options-sourceeditor-label = تدوین کار ترجیحات
 options-sourceeditor-detectindentation-tooltip =
-    .title = { " " }مںبع مواد پر منحصر پوٹ کاری کا اندازہ لگائیں
+    .title = مںبع مواد پر منحصر پوٹ کاری کا اندازہ لگائیں
 options-sourceeditor-detectindentation-label = پوٹ کاری کا کھوج لگائیں
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = خود کار طریقے سے بند خطوط وحدانی داخل کریں
