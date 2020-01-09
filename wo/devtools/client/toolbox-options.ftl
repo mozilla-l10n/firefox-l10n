@@ -8,15 +8,21 @@
 
 ## Default Developer Tools section
 
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Tem yi
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspektëër
 
 ## "Default Color Unit" options for the Inspector
 
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Defarkatu melin
 
 ## Screenshot section
 
