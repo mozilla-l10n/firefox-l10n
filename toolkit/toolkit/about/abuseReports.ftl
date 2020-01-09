@@ -83,7 +83,7 @@ abuse-report-broken-suggestions-extension =
 abuse-report-broken-suggestions-theme =
     버그를 발견하신 것 같습니다. 여기에 신고를 하는 것 외에, 기능 문제를 해결하는 가장 좋은 방법은 테마 개발자에게 문의하시는 것입니다.
     개발자 정보를 얻으시려면 <a data-l10n-name="support-link">테마의 웹 사이트를 방문하십시오</a>.
-abuse-report-policy-reason = 혐오스럽거나 폭력적, 불법 컨텐츠입니다
+abuse-report-policy-reason = 혐오스럽거나 폭력적, 불법 콘텐츠입니다
 abuse-report-policy-reason-v2 = 증오, 폭력 또는 불법 콘텐츠가 포함되어 있습니다
 abuse-report-policy-suggestions =
     참고: 저작권 및 상표권 문제는 별도의 절차로 보고해야합니다.
