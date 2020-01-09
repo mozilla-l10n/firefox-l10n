@@ -30,10 +30,15 @@ options-context-inspector = Inspeutor
 options-show-user-agent-styles-label = Amosar estilos del restolador
 options-show-user-agent-styles-tooltip =
     .title = Activar esto, va amosar los estilos por defeutu que se carguen pol restolador.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Truncar atributos DOM
+options-collapse-attrs-tooltip =
+    .title = Truncar atributos llargos nel inspeutor
 
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Unidá de color predetermináu
+options-default-color-unit-authored = Como Autoría
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB (A)
@@ -72,6 +77,10 @@ options-sourceeditor-keybinding-default-label = Predetermináu
 
 # The heading
 options-context-advanced-settings = Axustes avanzaos
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Desactivar caché HTTP (cuando la caxa de ferramientes tea abierta)
+options-disable-http-cache-tooltip =
+    .title = Habilitar esta opción va deshabilitar el caché HTTP pa toles llingüetes que tengan la caxa de ferramientes abierta. Los Service Workers nun tán afeutaos por esta opción.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desactivar JavaScript *
 options-disable-javascript-tooltip =
@@ -84,6 +93,12 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Activar depuración remota
 options-enable-remote-tooltip =
     .title = Activando esta opción permitirá a les ferramientes de desendolcador depurar una instancia remota como Firefox OS
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Activar service workers baxo HTTP (cuando la caxa de ferramientes tea abierta)
+options-enable-service-workers-http-tooltip =
+    .title = Activar esta opción va activar los service workers al traviés de HTTP pa toles llingüetes que tengan la caxa de ferramientes abierta.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Habilitar mapes de fontes
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Namái sesión actual, recarga la páxina
 
