@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Temas
 
 ## Inspector section
 
@@ -19,15 +21,20 @@ options-context-inspector = Inspekteur
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Stylredigeerder
 
 ## Screenshot section
 
 
 ## Editor section
 
+options-sourceeditor-keybinding-default-label = Verstek
 
 ## Advanced section
 
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Ontfouter
