@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Offer Datblygu Firefox Rhagosodedig
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Dim cefnogaeth ar gyfer targed y blwch offer cyfredol
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Offer Datblygu wedi eu gosod gan ychwanegion
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Botymau Blwch Offer sydd ar Gael
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Themâu
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Archwiliwr
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Dangos Arddulliau Porwr
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Uned lliw rhagnodedig
+options-default-color-unit-authored = Fel ei Awduro
+options-default-color-unit-hex = Hecs
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Enw Lliwiau
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Golygydd Arddull
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Awtogwblhau CSS
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Ymddygiad Llun Sgrin
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Llun sgrin i'r clipfwrdd
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Rhagosodiad
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Gosodiadau uwch
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Analluogi JavaScript *
 options-disable-javascript-tooltip =
@@ -78,9 +105,15 @@ options-enable-service-workers-http-tooltip =
     .title = Bydd cychwyn y dewis wn yn caniatáu i nodwedd service workers dros HTTP ar gyfer pob tab sydd â blwch offer ar agor.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Galluogi Mapiau Ffynhonnell
+options-source-maps-tooltip =
+    .title = Os ydych yn galluogi'r dewis hwn bydd ffenylalanin cael eu mapio yn yr offer.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Sesiwn gyfredol yn unig, ail-lwytho'r dudalen
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Dadfygiwr
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Dangos data platfform Gecko
