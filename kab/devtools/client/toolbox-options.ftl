@@ -93,6 +93,8 @@ options-disable-http-cache-tooltip =
     .title = Armed n weɣewwaṛ-agi ad irurmed Uffir HTTP i yakk iccaren i yesɛan Tanaka n ifecka yeldin. Tinafutin ur ttwarurmdent ara s uɣewwaṛ-agi.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Ssens JavaScript *
+options-disable-javascript-tooltip =
+    .title = Armad n uɣewwaṛ-agi ad isens JavaScript i yiccer amiran. Aɣewwaṛ-agi ad ittwattu ticki tmedleḍ iccer neɣ tanaka n ifecka.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Rmed tanaka n ifecka n teseɣtit n chrome n iminig d izegrar{ " " }
 options-enable-chrome-tooltip =
