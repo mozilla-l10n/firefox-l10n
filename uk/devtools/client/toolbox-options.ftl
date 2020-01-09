@@ -79,6 +79,7 @@ options-sourceeditor-autoclosebrackets-label = Автоматичне закри
 options-sourceeditor-expandtab-tooltip =
     .title = Використовувати пробіли замість символа табуляції
 options-sourceeditor-expandtab-label = Відступ за допомогою пробілів
+options-sourceeditor-tabsize-label = Розмір табуляції
 options-sourceeditor-keybinding-label = Сполучення клавіш
 options-sourceeditor-keybinding-default-label = Типово
 
@@ -86,6 +87,8 @@ options-sourceeditor-keybinding-default-label = Типово
 
 # The heading
 options-context-advanced-settings = Додаткові параметри
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Вимкнути HTTP-кеш (коли відкрита панель інструментів)
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Вимкнути JavaScript *
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -100,11 +103,15 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Увімкнути Service Workers поверх HTTP (коли відкрита панель інструментів)
 options-enable-service-workers-http-tooltip =
     .title = Увімкнення цього параметра активує Service Workers поверх HTTP для всіх вкладок, які мають відкриту панель інструментів.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Увімкнути карти джерел
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * тільки поточний сеанс, перезавантажити сторінку
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Зневаджувач
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Показати дані платформи Gecko
