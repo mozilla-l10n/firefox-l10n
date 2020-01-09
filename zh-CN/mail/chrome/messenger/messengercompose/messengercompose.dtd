@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "其他类型的地址">
 <!ENTITY fromAddr2.label "发件人">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "发至：">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "附件窗格">
 <!ENTITY attachmentBucketCloseButton.tooltip "隐藏附件窗格">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "插入一个笑脸">
 <!ENTITY smiley1Cmd.label "微笑">
 <!ENTITY smiley2Cmd.label "皱眉">
