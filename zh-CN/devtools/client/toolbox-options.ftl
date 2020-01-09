@@ -41,6 +41,7 @@ options-sourceeditor-expandtab-tooltip =
     .title = 使用空格而非制表符缩进
 options-sourceeditor-expandtab-label = 使用空格缩进
 options-sourceeditor-keybinding-label = 按键绑定
+options-sourceeditor-keybinding-default-label = 默认设置
 
 ## Advanced section
 
