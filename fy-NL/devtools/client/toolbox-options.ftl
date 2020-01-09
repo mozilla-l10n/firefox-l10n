@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Standert ûntwikkelersark
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Net stipe foar aktuele toolbox doel
@@ -22,12 +24,16 @@ options-select-dev-tools-theme-label = Tema's
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspector
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Browserstilen toane
 options-show-user-agent-styles-tooltip =
     .title = As jo dit ynskeakelje sille standert stilen toand wurde dy't laden binne troch de browser.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM-attributen ôfkappe
+options-collapse-attrs-tooltip =
+    .title = Lange attributen yn de ynspektor ôfkappe
 
 ## "Default Color Unit" options for the Inspector
 
@@ -49,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Gedrach skermôfbylding
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Skermôfbylding nei klamboerd
+options-screenshot-clipboard-tooltip =
+    .title = Bewarret de skermôfbylding daliks nei it klamboerd
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Lit kamerasluterlûd hearre
+options-screenshot-audio-tooltip =
+    .title = Skeakelet it kameralûd yn as jo in skermôfbylding meitsje
 
 ## Editor section
 
@@ -73,20 +89,37 @@ options-sourceeditor-keybinding-default-label = Standert
 options-context-advanced-settings = Avansearre ynstellingen
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP-buffer útskeakelje (as wurkset iepene is)
+options-disable-http-cache-tooltip =
+    .title = Troch dizze opsje oan te setten, wurdt de HTTP-buffer foar alle ljepblêden dy't de wurkset iepene hawwe útskeakele. Service Workers wurde net troch dizze opsje beynfloede.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript útskeakelje *
 options-disable-javascript-tooltip =
     .title = Troch dizze opsje oan te setten, wurdt JavaScript foar it aktuele ljepblêd útskeakelje. As it ljepblêd of de toolbox sluten is dan wurdt dizze ynstelling ferjitten.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Browserchrome- en add-on-debugging-wurksets ynskeakelje
+options-enable-chrome-tooltip =
+    .title = Troch dizze opsje oan te setten, kinne jo in ferskaat oan ûntwikkelersark yn browserkontekst brûke (fia Ekstra > Webûntwikkeler > Browserwurkset) en flaters yn add-ons fan de add-onbehearder opspoare
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Remote debugging ynskeakelje
+options-enable-remote-tooltip =
+    .title = Troch dizze opsje oan te setten, kin it ûntwikkelersark in instance op in oar apparaat lykas Firefox OS debugge
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Service Workers oer HTTP ynskeakelje (as wurkset iepene is)
 options-enable-service-workers-http-tooltip =
     .title = Troch dizze opsje oan te setten, wurde de service workers oer HTTP foar alle ljepblêden dy't de wurkset iepene hawwe ynskeakele.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Boarneferwizingen ynskeakelje
+options-source-maps-tooltip =
+    .title = As jo dizze opsje ynskeakelje, sille boarnen yn it ark tawizen wurde.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Allinnich aktuele sesje, fernijt de side
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Debugger
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = Gecko-platfoarmgegevens toane
 options-show-platform-data-tooltip =
     .title = As jo dizze opsje ynskeakelje sil de JavaScript Profiler rapportearje ynklusyf Gecko-platformsymboalen
