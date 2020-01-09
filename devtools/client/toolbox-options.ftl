@@ -8,6 +8,14 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Gan tacaíocht i sprioc reatha an bhosca uirlisí
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Cnaipí Bosca Uirlisí atá ar fáil
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Téamaí
 
 ## Inspector section
 
@@ -26,19 +34,50 @@ options-default-color-unit-name = Ainmneacha Dathanna
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Eagarthóir Stíle
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = CSS a uathlíonadh
+options-stylesheet-autocompletion-tooltip =
+    .title = Déan uathlíonadh beo d'airíonna, luachanna, agus roghnóirí CSS san Eagarthóir Stíle{ " " }
 
 ## Screenshot section
 
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Sainroghanna an Eagarthóra
+options-sourceeditor-detectindentation-tooltip =
+    .title = Tomhais an stíl eangaithe bunaithe ar inneachar na foinse
+options-sourceeditor-detectindentation-label = Braith an stíl eangaithe
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = Cuir lúibíní deiridh isteach go huathoibríoch
+options-sourceeditor-autoclosebrackets-label = Dún lúibíní go huathoibríoch
+options-sourceeditor-expandtab-tooltip =
+    .title = Úsáid spásanna in ionad táb
+options-sourceeditor-expandtab-label = Eangaigh le spásanna
+options-sourceeditor-tabsize-label = Méid táib
+options-sourceeditor-keybinding-label = Aicearraí
+options-sourceeditor-keybinding-default-label = Réamhshocrú
 
 ## Advanced section
 
 # The heading
 options-context-advanced-settings = Ardsocruithe
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Díchumasaigh JavaScript *
+options-disable-javascript-tooltip =
+    .title = Díchumasóidh an rogha seo JavaScript sa chluaisín reatha. Dá ndúnfaí an cluaisín nó an bosca uirlisí, dhéanfaí dearmad ar an socrú seo.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Cumasaigh boscaí uirlisí do chrome agus dífhabhtú breiseán
+options-enable-chrome-tooltip =
+    .title = Leis an rogha seo, is féidir leat uirlisí éagsúla forbartha a úsáid i gcomhthéacs an bhrabhsálaí (via Uirlisí > Forbróir Gréasáin > Bosca Uirlisí an Bhrabhsálaí) agus breiseáin a dhífhabhtú i mBainisteoir na mBreiseán
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Cumasaigh cian-dífhabhtú
 
 ##
 
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = Taispeáin sonraí faoin ardán Gecko
