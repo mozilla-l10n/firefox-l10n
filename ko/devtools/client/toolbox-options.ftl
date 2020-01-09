@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = 기본 개발자 도구
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * 현재 도구상자에서는 지원하지 않음
@@ -28,10 +30,15 @@ options-context-inspector = 검사기
 options-show-user-agent-styles-label = 브라우저 스타일 보기
 options-show-user-agent-styles-tooltip =
     .title = 이 옵션을 켜면 브라우저가 읽어들이는 기본 스타일을 보여줍니다.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = DOM 속성 줄이기
+options-collapse-attrs-tooltip =
+    .title = 검사기에서 긴 속성을 줄이기
 
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = 기본 색상 단위
+options-default-color-unit-authored = 작성된 대로
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -48,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = 스크린샷 동작
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = 클립보드로 스크린샷
+options-screenshot-clipboard-tooltip =
+    .title = 클립보드로 바로 스크린샷을 저장
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = 카메라 셔터 소리 재생
+options-screenshot-audio-tooltip =
+    .title = 스크린샷을 찍을 때 카메라 소리를 활성화
 
 ## Editor section
 
@@ -80,12 +97,16 @@ options-enable-chrome-tooltip =
     .title = 이 옵션을 켜면 브라우저 컨텍스트에서 ([도구] > [웹 개발 도구] > [브라우저 도구상자]로 불러낸)여러가지 개발자 도구를 쓰고 부가 기능 관리자에서 부가 기능을 디버깅할 수 있습니다.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = 원격 디버깅 켜기
+options-enable-remote-tooltip =
+    .title = 이 옵션을 켜면 개발자 도구가 Firefox OS와 같은 원격 인스턴스를 디버깅 할 수 있습니다.
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = HTTP로 가져온 서비스 워커 쓰기 (도구상자가 열려 있을 때에만)
 options-enable-service-workers-http-tooltip =
     .title = 이 옵션을 켜면 도구 상자가 열려 있는 모든 탭에서 HTTP로 가져온 서비스 워커를 쓸 수 있습니다.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = 소스맵 켜기
+options-source-maps-tooltip =
+    .title = 이 설정을 켜면 소스가 도구에서 매핑됩니다.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * 현재 세션에서만 쓰이며, 페이지를 새로고침함
 
