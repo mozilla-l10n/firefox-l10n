@@ -29,6 +29,7 @@ options-show-user-agent-styles-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Standertkleurienheid
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -55,6 +56,8 @@ options-sourceeditor-keybinding-default-label = Standert
 
 # The heading
 options-context-advanced-settings = Avansearre ynstellingen
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Browserchrome- en add-on-debugging-wurksets ynskeakelje
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Remote debugging ynskeakelje
 
