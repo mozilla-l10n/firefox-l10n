@@ -95,4 +95,4 @@ options-context-triggers-page-refresh = * Faqat joriy seans, sahifani qayta yukl
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Gecko platformasi ma’lumotlarini koʻrsatish
 options-show-platform-data-tooltip =
-    .title = Agar siz ushbu moslamani yoqsangiz, JavaScript Profiler natijalari  Gekko platformasi simvollarini qoʻshadi{ " " }
+    .title = Agar siz ushbu moslamani yoqsangiz, JavaScript Profiler natijalari  Gekko platformasi simvollarini qoʻshadi
