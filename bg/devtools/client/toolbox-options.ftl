@@ -8,12 +8,17 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Стандартни развойни инструменти
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Не се поддържа от назначението на текущата кутия с инструменти
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Развойни инструменти, инсталирани от добавки
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Бутони за лентата с инструменти
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Теми
 
@@ -21,6 +26,10 @@ options-select-dev-tools-theme-label = Теми
 
 # The heading
 options-context-inspector = Инспектор
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = Показване и стиловете на четеца
+options-show-user-agent-styles-tooltip =
+    .title = Ако е включено ще бъдат показвани и стандартните стилове, зареждани от четеца.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Изрязване на атрибутите на DOM
 options-collapse-attrs-tooltip =
@@ -37,6 +46,8 @@ options-default-color-unit-name = Имена на цветове
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Стилове
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Автоматично довършване на CSS
 options-stylesheet-autocompletion-tooltip =
@@ -44,11 +55,23 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Снимка на екрана
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Запазване в системния буфер
+options-screenshot-clipboard-tooltip =
+    .title = Запазва снимката на екрана директно в системния буфер
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Звук от затвора на фотоапарат
+options-screenshot-audio-tooltip =
+    .title = Включва звук от затвора на фотоапарат при правене на снимка на екрана
 
 ## Editor section
 
 # The heading
 options-sourceeditor-label = Настройки на редактора
+options-sourceeditor-detectindentation-tooltip =
+    .title = Предугаждане на използвания отстъп, чрез изследване на кода
 options-sourceeditor-detectindentation-label = Разпознаване на отстъп
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = Автоматично вмъкване на затваряща скоба
@@ -64,19 +87,37 @@ options-sourceeditor-keybinding-default-label = Стандартни
 
 # The heading
 options-context-advanced-settings = Настройки за напреднали
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Изключване на буфера на HTTP (при отворена кутия с инструменти)
+options-disable-http-cache-tooltip =
+    .title = Когато е избрана тази отметка буферът на HTTP, за всички раздели с отворена кутия с инструменти, ще бъде изключен. Обслужващи нишки не се влияят от тази настройка.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Изключване на JavaScript *
 options-disable-javascript-tooltip =
     .title = Включването на тази настройка ще изключи JavaScript в текущия раздел. Ако той или кутията с инструменти бъдат затворени, тази настройка ще бъде забравена.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Включване на кутията с инструменти за отстраняване на дефекти от хрома на четеца и добавките
+options-enable-chrome-tooltip =
+    .title = Отмятането на тази настройка ще ви позволи да използвате различни развойни инструменти в контекста на четеца (чрез Инструменти > Разработчик > Кутия с инструменти) и за отстраняване на дефекти на добавки от управлението на добавки
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Отдалечено дебъгване
+options-enable-remote-tooltip =
+    .title = Включването на тази настройка ще ви позволи да използвате развойните инструменти за дебъгване на отдалечени екземпляри на Firefox, като Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Включване на обслужващите нишки през HTTP (при отворена кутия с инструменти)
 options-enable-service-workers-http-tooltip =
     .title = Отмятането на тази настройка ще включи обслужващите нишки през HTTP за всички раздели, които имат отворена кутия с инструменти.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Включване на Source Maps
+options-source-maps-tooltip =
+    .title = Ако е отметнато source maps ще бъдат използвани в инструментите.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Само за текущата сесия, презарежда страницата
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Дебъгер
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Показване на данните от платформата Gecko
