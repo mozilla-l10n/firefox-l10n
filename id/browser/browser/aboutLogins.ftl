@@ -72,7 +72,6 @@ about-logins-intro-import = Jika info masuk Anda tersimpan dalam peramban lain, 
 
 login-item-new-login-title = Buat Info Masuk Baru
 login-item-edit-button = Edit
-login-item-delete-button = Hapus
 about-logins-login-item-remove-button = Hapus
 login-item-origin-label = Alamat Situs Web
 login-item-origin =
@@ -117,7 +116,6 @@ enable-password-sync-preferences-button =
            *[other] Kunjungi Pengaturan { -sync-brand-short-name }
         }
     .accesskey = K
-confirm-delete-dialog-title = Hapus info masuk ini?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Jangan tanyakan lagi
     .accesskey = J
@@ -129,7 +127,6 @@ confirmation-dialog-dismiss-button =
     .title = Batal
 about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
-confirm-delete-dialog-confirm-button = Hapus
 about-logins-confirm-remove-dialog-confirm-button = Hapus
 confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
 confirm-discard-changes-dialog-message = Semua perubahan yang belum disimpan akan hilang.
@@ -148,6 +145,6 @@ breach-alert-dismiss =
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Entri log masuk { $loginTitle } dengan nama pengguna itu sudah tersimpan. <a data-l10n-name="duplicate-link">Buka dari entri yang tersimpan?</a>
+about-logins-error-message-duplicate-login-with-link = Entri info masuk { $loginTitle } dengan nama pengguna itu sudah tersimpan. <a data-l10n-name="duplicate-link">Buka entri yang tersimpan?</a>
 # This is a generic error message.
 about-logins-error-message-default = Terjadi kesalahan saat mencoba menyimpan kata sandi ini.

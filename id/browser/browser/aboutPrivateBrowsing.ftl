@@ -30,7 +30,7 @@ about-private-browsing-info-description = { -brand-short-name } menghapus riwaya
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } merupakan mesin pencari baku Anda di dalam Jendela Pribadi.
+about-private-browsing-search-banner-title = { $engineName } adalah mesin pencari baku Anda di dalam Jendela Pribadi.
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Untuk memilih mesin pencari yang berbeda, buka <a data-l10n-name="link-options">Pengaturan</a>

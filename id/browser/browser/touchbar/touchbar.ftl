@@ -26,9 +26,9 @@ search-popover = Pintasan pencarian
 
 search-bookmarks = Markah
 search-history = Riwayat
-search-opentabs = Buka Tab
+search-opentabs = Tab Terbuka
 search-tags = Label
 search-titles = Judul
 
-
+##
 
