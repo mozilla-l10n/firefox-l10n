@@ -47,6 +47,8 @@ options-sourceeditor-keybinding-default-label = Implicite
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Setări avansate
 options-disable-http-cache-tooltip =
     .title = Activarea opțiunii va dezactiva cache-ul HTTP pentru toate filele care au deschisă cutia de unelte. Scripturile Service Worker nu sunt afectate.
 options-disable-javascript-tooltip =
