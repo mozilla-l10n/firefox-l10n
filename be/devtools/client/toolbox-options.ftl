@@ -68,6 +68,8 @@ options-screenshot-audio-tooltip =
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Налады рэдактара
 options-sourceeditor-detectindentation-tooltip =
     .title = Вызначаць водступы па зыходнаму змесціву
 options-sourceeditor-detectindentation-label = Вызначаць водступы
@@ -83,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Прадвызначана
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Дадатковыя налады
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Выключыць кэш HTTP (калі панэль прылад адкрыта)
 options-disable-http-cache-tooltip =
