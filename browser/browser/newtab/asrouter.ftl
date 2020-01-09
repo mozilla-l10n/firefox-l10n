@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Rekomendasi Ekstensi
 cfr-doorhanger-feature-heading = Fitur yang Direkomendasikan
 cfr-doorhanger-pintab-heading = Coba Yang Ini: Sematkan Tab
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mengapa saya melihat ini?
@@ -128,6 +128,15 @@ cfr-whatsnew-permission-prompt-cta = Pelajari lebih lanjut
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+       *[other] Pelacak Sidik diblokir
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Pelacak Sidik
 
 ## Bookmark Sync
 
@@ -146,6 +155,7 @@ cfr-doorhanger-sync-logins-ok-button = Aktifkan { -sync-brand-short-name }
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Baca ini saat bepergian
+cfr-doorhanger-send-tab-recipe-header = Bawa resep ini ke dapur
 cfr-doorhanger-send-tab-ok-button = Coba Kirim Tab
     .accesskey = K
 
