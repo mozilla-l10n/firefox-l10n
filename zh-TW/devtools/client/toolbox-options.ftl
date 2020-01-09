@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = 預設開發者工具
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * 目前的工具箱目標不支援
@@ -53,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = 畫面擷圖行為
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = 將畫面擷圖拍到剪貼簿
+options-screenshot-clipboard-tooltip =
+    .title = 直接將畫面擷圖拍到剪貼簿
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = 播放快門音效
+options-screenshot-audio-tooltip =
+    .title = 拍攝畫面擷圖時播放快門音效
 
 ## Editor section
 
@@ -89,15 +101,23 @@ options-enable-chrome-tooltip =
     .title = 開啟此選項將會讓您可在瀏覽器環境中使用不同的開發者工具（透過工具 > 網頁開發者 > 瀏覽器工具箱）並透過附加元件管理員對附加元件除錯
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = 啟用遠端除錯
+options-enable-remote-tooltip =
+    .title = 開啟此選項將允許開發者工具對遠端實例，例如 Firefox OS 除錯
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = 啟用 Service Workers over HTTP（當工具箱開啟時）
 options-enable-service-workers-http-tooltip =
     .title = 開啟此選項後，將會允許在開啟工具箱的所有分頁中透過 HTTP 使用 service workers。
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = 開啟原始碼對應
+options-source-maps-tooltip =
+    .title = 若您開啟此選項，將會在開發者工具中進行原始碼對應。
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * 僅在目前瀏覽階段有效，將會重新載入頁面
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = 除錯器
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = 顯示 Gecko 平台資料
