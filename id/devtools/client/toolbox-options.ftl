@@ -73,6 +73,10 @@ options-sourceeditor-keybinding-default-label = Baku
 
 ## Advanced section
 
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Menonaktifkan HTTP Cache (saat kotak peralatan terbuka)
+options-disable-http-cache-tooltip =
+    .title = Mengaktifkan opsi ini akan menonaktifkan cache HTTP untuk semua tab yang kotak peralatannya terbuka. Layanan Pekerja tidak terpengaruh oleh opsi ini.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Nonaktifkan JavaScript *
 options-disable-javascript-tooltip =
@@ -81,6 +85,10 @@ options-disable-javascript-tooltip =
 options-enable-chrome-label = Aktifkan kotak alat debug chrome peramban dan pengaya
 options-enable-chrome-tooltip =
     .title = Mengaktifkan opsi ini akan dapat digunakan untuk menggunakan berbagai alat pengembang dalam konteks peramban (lewat Alat > Pengembang Web > Kotak Alat Peramban) serta mendebug pengaya dari Pengelola Pengaya
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Aktifkan pendebugan jarak jauh
+options-enable-remote-tooltip =
+    .title = Mengaktifkan opsi ini akan memungkinkan pengembang untuk mendebug salinan jarak jauh misalnya Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktifkan Service Worker lewat HTTP (saat kotak alat terbuka)
 options-enable-service-workers-http-tooltip =
