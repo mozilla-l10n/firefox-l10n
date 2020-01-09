@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Más típusú címzési mezők">
 <!ENTITY fromAddr2.label "Feladó">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY toAddr.label "Címzett:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Mellékletek ablaktábla">
 <!ENTITY attachmentBucketCloseButton.tooltip "Mellékletek ablaktábla elrejtése">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Hangulatjel beszúrása">
 <!ENTITY smiley1Cmd.label "Mosolygó">
 <!ENTITY smiley2Cmd.label "Rosszkedvű">
