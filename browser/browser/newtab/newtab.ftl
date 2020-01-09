@@ -91,9 +91,15 @@ newtab-privacy-modal-paragraph =
     perthnasol wedi'i ddewis yn ofalus gan noddwyr dethol. Peidiwch â phoeni, 
     nid yw eich data pori byth yn gadael eich copi personol o { -brand-product-name } - nid ydym 
     yn ei weld, na'n noddwyr chwaith.
+newtab-privacy-modal-paragraph-2 =
+    Yn ogystal â rhannu straeon cyfareddol, rydyn hefyd yn dangos i chi
+    gynnwys perthnasol wedi'i ddewis yn ofalus gan noddwyr dethol. Peidiwch â phoeni,
+    nid yw eich data pori byth yn gadael eich copi personol o { -brand-product-name } - nid ydym 
+    yn ei weld, na'n
+    noddwyr chwaith.
 newtab-privacy-modal-link = Dysgwch sut mae preifatrwydd yn gweithio ar y tab newydd
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Tynnu Nod Tudalen
@@ -180,7 +186,6 @@ newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a lwytho'r adran
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Pynciau Poblogaidd:
 newtab-pocket-more-recommendations = Rhagor o Argymhellion
-newtab-pocket-how-it-works = Sut mae'n gweithio
 newtab-pocket-whats-pocket = Beth yw { -pocket-brand-name }?
 newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
