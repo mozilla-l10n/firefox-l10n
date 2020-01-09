@@ -89,6 +89,8 @@ options-sourceeditor-keybinding-default-label = Типово
 options-context-advanced-settings = Додаткові параметри
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Вимкнути HTTP-кеш (коли відкрита панель інструментів)
+options-disable-http-cache-tooltip =
+    .title = Вмикаючи цю опцію ви забороняєте HTTP-кеш для всіх вкладок з відкритою панеллю інструментів. Ця опція не впливає на Service Workers.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Вимкнути JavaScript *
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -105,6 +107,8 @@ options-enable-service-workers-http-tooltip =
     .title = Увімкнення цього параметра активує Service Workers поверх HTTP для всіх вкладок, які мають відкриту панель інструментів.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Увімкнути карти джерел
+options-source-maps-tooltip =
+    .title = Якщо увімкнути цю опцію, джерела будуть заноситись в інструменти.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * тільки поточний сеанс, перезавантажити сторінку
 
