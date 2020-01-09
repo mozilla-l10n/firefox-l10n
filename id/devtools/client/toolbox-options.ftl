@@ -24,6 +24,8 @@ options-select-dev-tools-theme-label = Tema
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspektur
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Tampilkan Gaya Peramban
 options-show-user-agent-styles-tooltip =
