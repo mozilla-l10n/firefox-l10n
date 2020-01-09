@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     관련성높고 철저하게 검토된 콘텐츠를 보여줍니다. 안심하세요. 사용자의 브라우징
     데이터는 { -brand-product-name }의 사본을 남겨두지 않습니다. — 우리와 스폰서 모두
     들여다 보지 않습니다.
+newtab-privacy-modal-paragraph-2 =
+    매력적인 이야기를 정리해서 보여주는 것 뿐만 아니라, 엄선된 스폰서로 부터
+    관련성 높은 콘텐츠를 보여줍니다. 안심하세요. <strong>사용자의 브라우징 데이터는 
+    { -brand-product-name }의 개인 사본을 남기지 않습니다</strong> — 저희와 스폰서 모두
+    들여다보지 않습니다.
 newtab-privacy-modal-link = 새 탭에서 개인 정보 보호 작동 방식 알아보기
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = 즐겨찾기 삭제
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 인기 주제:
 newtab-pocket-more-recommendations = 더 많은 추천
-newtab-pocket-how-it-works = 사용 방법
 newtab-pocket-whats-pocket = { -pocket-brand-name }은 무엇인가요?
 newtab-pocket-cta-button = { -pocket-brand-name } 받기
 newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
