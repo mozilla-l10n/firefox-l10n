@@ -27,6 +27,12 @@ options-default-color-unit-hex = Hex
 
 ## Advanced section
 
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Забараніць JavaScript *
+options-disable-javascript-tooltip =
+    .title = Уключэнне гэтага параметра забароніць JavaScript у гэтачасовай устаўцы. Параметр забудзецца пасля закрыцця ўстаўкі або скрынкі прыладаў.
 
 ##
 
+options-show-platform-data-tooltip =
+    .title = Калі вы дазволіце гэтае наладжванне, справаздачы прафіляўніка JavaScript будуць уключаць сімвалы платформы Gecko
