@@ -25,6 +25,10 @@ options-collapse-attrs-tooltip =
 
 ## Style Editor section
 
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = CSS स्वपूर्ण करा
+options-stylesheet-autocompletion-tooltip =
+    .title = स्टाइल संपादकात टाइप करत असल्याप्रमाणे CSS गुणधर्म, मूल्य आणि सिलेक्टर्स स्वपूर्ण करा
 
 ## Screenshot section
 
@@ -60,6 +64,8 @@ options-sourceeditor-keybinding-default-label = पूर्वनिर्ध�
 options-disable-http-cache-label = HTTP कॅशे निष्क्रिय करा (साधनपेटी खुले असतेवेळी)
 options-disable-http-cache-tooltip =
     .title = हा पर्याय सुरु केल्यामुळे साधनपेटी उघडे असलेले सर्व टॅब्ससाठी HTTP कॅशे निष्क्रिय होईल. Service Workers वर याचा परिणाम होणार नाही.
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = JavaScript * बंद करा
 options-disable-javascript-tooltip =
     .title = सध्याच्या टॅबकरिता ह्या पर्यायची निवड केल्यास JavaScript बंद होईल. टॅब किंवा साधनपेटी बंद केल्यास ह्या सेटिंगकडे दुर्लक्ष केले जाईल.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
