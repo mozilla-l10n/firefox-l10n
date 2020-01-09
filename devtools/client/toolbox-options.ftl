@@ -46,6 +46,8 @@ options-default-color-unit-name = Imena barv
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Urejevalnik sloga
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Samodokončaj CSS
 options-stylesheet-autocompletion-tooltip =
