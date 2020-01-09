@@ -51,6 +51,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Compòrtament per las capturas d’ecran
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Captura d'ecran cap al pòrtapapièr
 options-screenshot-clipboard-tooltip =
@@ -99,6 +101,8 @@ options-enable-service-workers-http-tooltip =
     .title = Activar aquesta opcion activarà los trabalhadors de servici via HTTP per totes los onglets ont la bóstia d'aisinas es dobèrta.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Activar las mapas de font
+options-source-maps-tooltip =
+    .title = En activar aquesta opcion, las fonts seràn ligadas dins las aisinas.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Per aquesta session, recarga la pagina
 
