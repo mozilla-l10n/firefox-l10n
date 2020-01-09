@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Strumenti do svilupatô predefinii
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * No soportou pe-o target corente di strumenti
@@ -28,6 +30,10 @@ options-context-inspector = Analixi pagina
 options-show-user-agent-styles-label = Amia stili do navegatô
 options-show-user-agent-styles-tooltip =
     .title = Ativando sta opçion saiâ mostrou i stili predefinii caregæ do-u navegatô.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Tronca atributi DOM
+options-collapse-attrs-tooltip =
+    .title = Tronca atributi longhi into strumento d'analixi
 
 ## "Default Color Unit" options for the Inspector
 
@@ -49,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Conportamento de-e föto do schermo
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Föto do schermo inti aponti
+options-screenshot-clipboard-tooltip =
+    .title = Sarva e föto do schermo diretamente inti aponti
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Fanni o son da machina fòtografica
+options-screenshot-audio-tooltip =
+    .title = Abilita o son da machina fotografica quande ti fæ 'na föto do schermo
 
 ## Editor section
 
@@ -71,6 +87,10 @@ options-sourceeditor-keybinding-default-label = Predefinio
 
 # The heading
 options-context-advanced-settings = Inpostaçioin avansæ
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Dizabilita a cache HTTP (quande a bara di atressi a l'é averta)
+options-disable-http-cache-tooltip =
+    .title = Se ti açendi sta òpçion saiâ dizabilitâ a cahce HTTP pe tutti i feuggi che gh'an a scatoa di atressi averta. I Service Worker no vegnan influensæ da sta òpçion.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Dizativa JavaScript
 options-disable-javascript-tooltip =
@@ -81,15 +101,23 @@ options-enable-chrome-tooltip =
     .title = Ativando sta opçion se peu adeuviâ diversci strumenti do svilupatô diretamente dò-u navegatô (da Strumenti > Svilupatô web > Strumenti) e fâ o debug di conponenti agzonti
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ativa debug remòtto
+options-enable-remote-tooltip =
+    .title = Ativando sta opçion se peu adeuviâ i strumenti do svilupatô pò-u debug su istanse remòtte de Firefox comme Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Ativa Service worker via HTTP (quande i strumenti en averti)
 options-enable-service-workers-http-tooltip =
     .title = Ativando sta opçion saiâ ativou o Service worker via HTTP in tutte i feuggi dove gh'é i strumenti averti.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Abilita a mappa di sorgenti
+options-source-maps-tooltip =
+    .title = Se ti abiliti sta òpçion i sorgenti saian mapæ inti atressi.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * solo sescion corente, recarega a pagina
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Debugger
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Fanni vedde i daæti piataforma Gecko
