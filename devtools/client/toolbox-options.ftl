@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Outils de développement par défaut
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Non géré pour la cible actuelle de la boîte à outils
