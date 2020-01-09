@@ -8,6 +8,12 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Ši kanbe nda sohõ goyjinay bata toodogoo
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Tontoney na cinakaw goyjinawey sinjandi
 
 ## Inspector section
 
@@ -28,6 +34,10 @@ options-context-inspector = Hawgaykaw
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Hanseyan koyjinantey
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Hasarawkaayan moora tunandi
 
 ##
 
