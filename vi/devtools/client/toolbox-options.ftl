@@ -21,8 +21,11 @@ options-show-user-agent-styles-label = Hiển thị kiểu của trình duyệt
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Đơn vị màu mặc định
 options-default-color-unit-authored = Theo bản gốc
 options-default-color-unit-hex = Thập lục phân
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-name = Tên màu
 
 ## Style Editor section
@@ -35,6 +38,10 @@ options-stylesheet-autocompletion-label = Tự động điền CSS
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Tùy chỉnh trình soạn thảo
+options-sourceeditor-expandtab-label = Căn lề bằng khoảng trắng
+options-sourceeditor-keybinding-label = Tổ hợp phím
 options-sourceeditor-keybinding-default-label = Mặc định
 
 ## Advanced section
