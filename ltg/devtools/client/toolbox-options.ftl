@@ -15,6 +15,10 @@
 options-show-user-agent-styles-label = Show Browser Styles
 options-show-user-agent-styles-tooltip =
     .title = Turning this on will show default styles that are loaded by the browser.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Truncate DOM attributes
+options-collapse-attrs-tooltip =
+    .title = Truncate long attributes in the inspector
 
 ## "Default Color Unit" options for the Inspector
 
@@ -34,6 +38,8 @@ options-sourceeditor-expandtab-tooltip =
 
 ## Advanced section
 
+options-disable-http-cache-tooltip =
+    .title = Turning this option on will disable the HTTP cache for all tabs that have the toolbox open. Service Workers are not affected by this option.
 options-enable-chrome-tooltip =
     .title = Turning this option on will allow you to use various developer tools in browser context (via Tools > Web Developer > Browser Toolbox) and debug add-ons from the Add-ons Manager
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
