@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     wjelgin pśeglědane wopśimjeśe wót wubranych sponsorow. Buźćo wěsty, waše pśeglědowańske 
     daty wašu wósobinsku wersiju { -brand-product-name } nigda njespušća ­­- njewiźimy je, a naše 
     sponsory teke nic.
+newtab-privacy-modal-paragraph-2 =
+    Pśidatnje k našwicanjeju pśejmajucych tšojenjow, pokazujomy wam teke relewantny, 
+    wjelgin pśeglědane wopśimjeśe wót wubranych sponsorow. Buźćo wěsty, <strong>waše pśeglědowańske 
+    daty wašu wósobinsku wersiju { -brand-product-name } nigda njespušća</strong> ­­- njewiźimy je, a naše 
+    sponsory teke nic.
 newtab-privacy-modal-link = Zgóńśo, kak priwatnosć w nowem rejtarku funkcioněrujo
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Cytańske znamje wótpóraś
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy womało zacytal
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Woblubowane temy:
 newtab-pocket-more-recommendations = Dalšne pórucenja
-newtab-pocket-how-it-works = Kak funkcioněrujo
 newtab-pocket-whats-pocket = Co jo { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } wobstaraś
 newtab-pocket-cta-text = Składujśo tšojeńka, kótarež se wam spódobuju, w { -pocket-brand-name } a žywśo swój duch z fasciněrujucymi cytańkami.
