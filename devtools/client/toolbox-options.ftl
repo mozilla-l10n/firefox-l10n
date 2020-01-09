@@ -109,6 +109,8 @@ options-enable-service-workers-http-tooltip =
     .title = Turning this option on will enable the service workers over HTTP for all tabs that have the toolbox open.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Enable Source Maps
+options-source-maps-tooltip =
+    .title = If you enable this option sources will be mapped in the tools.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Current session only, reloads the page
 
