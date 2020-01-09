@@ -16,13 +16,19 @@ options-select-additional-tools-label = Công cụ phát triển được cài �
 
 ## Inspector section
 
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = Hiển thị kiểu của trình duyệt
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-authored = Theo bản gốc
+options-default-color-unit-hex = Thập lục phân
 options-default-color-unit-name = Tên màu
 
 ## Style Editor section
 
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = Tự động điền CSS
 
 ## Screenshot section
 
@@ -37,8 +43,13 @@ options-sourceeditor-keybinding-default-label = Mặc định
 options-context-advanced-settings = Cài đặt nâng cao
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Tắt JavaScript *
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Cho phép gỡ lỗi từ xa
 
 ##
 
 # The heading for the Debugger section
 options-debugger-label = Trình gỡ lỗi
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = Hiện dữ liệu nền tảng Gecko
