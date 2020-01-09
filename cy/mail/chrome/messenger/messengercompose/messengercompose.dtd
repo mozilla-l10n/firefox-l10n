@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Mathau eraill o feysydd cyfeiriad">
 <!ENTITY fromAddr2.label "Oddi wrth">
 <!ENTITY fromAddr.accesskey "O">
 <!ENTITY toAddr.label "At:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Paen Atodiad">
 <!ENTITY attachmentBucketCloseButton.tooltip "Cuddio'r paen atodiad">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Mewnosod wyneb gwenog">
 <!ENTITY smiley1Cmd.label "Gwên">
 <!ENTITY smiley2Cmd.label "Gwg">
