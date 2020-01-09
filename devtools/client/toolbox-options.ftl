@@ -42,6 +42,8 @@ options-default-color-unit-name = Farvenavne
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Rediger CSS
 
 ## Screenshot section
 
@@ -71,6 +73,8 @@ options-context-advanced-settings = Avancerede indstillinger
 options-disable-http-cache-label = Slå HTTP-cache fra (når Værktøj er åben)
 options-disable-http-cache-tooltip =
     .title = Denne indstilling slår HTTP-cache fra for alle faneblade, der har Udviklerværktøj åbne. Service workers er ikke påvirket af denne indstilling.
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Slå JavaScript fra *
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Slå chrome- og tilføjelses-debuggingsværktøjer til
 options-enable-chrome-tooltip =
@@ -85,6 +89,8 @@ options-enable-service-workers-http-tooltip =
     .title = Aktiverer du denne funktion, vil du aktivere service workers over HTTP i alle faneblade, hvor værktøjerne er åbnet.
 options-source-maps-tooltip =
     .title = Hvis du aktiverer denne indstilling, vil sources blive mappet i værktøjerne.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Kun nuværende session, genindlæser siden
 
 ##
 
