@@ -17,6 +17,8 @@
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = စတိုင် အယ်ဒီတာ
 
 ## Screenshot section
 
