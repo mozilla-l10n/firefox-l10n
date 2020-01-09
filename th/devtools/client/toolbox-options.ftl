@@ -30,10 +30,15 @@ options-context-inspector = ตัวตรวจสอบ
 options-show-user-agent-styles-label = แสดงลักษณะของเบราว์เซอร์
 options-show-user-agent-styles-tooltip =
     .title = การเปิดสิ่งนี้จะแสดงลักษณะเริ่มต้นที่ถูกโหลดโดยเบราว์เซอร์
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = ตัดทอนแอตทริบิวต์ DOM
+options-collapse-attrs-tooltip =
+    .title = ตัดทอนแอตทริบิวต์แบบยาวในตัวตรวจสอบ
 
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = หน่วยสีเริ่มต้น
+options-default-color-unit-authored = ตามหน่วยเดิม
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -54,6 +59,8 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = ลักษณะการทำงานของภาพหน้าจอ
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = จับภาพหน้าจอไปยังคลิปบอร์ด
+options-screenshot-clipboard-tooltip =
+    .title = บันทึกไปที่ภาพหน้าจอโดยตรงไปยังคลิปบอร์ด
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = เล่นเสียงชัตเตอร์กล้อง
 options-screenshot-audio-tooltip =
@@ -82,14 +89,28 @@ options-sourceeditor-keybinding-default-label = ค่าเริ่มต้�
 options-context-advanced-settings = การตั้งค่าขั้นสูง
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = ปิดใช้งานแคช HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)
+options-disable-http-cache-tooltip =
+    .title = การเปิดตัวเลือกนี้จะเป็นการปิดการใช้งานแคช HTTP สำหรับแท็บทั้งหมดที่เปิดกล่องเครื่องมือ ตัวทำงานบริการจะไม่ได้รับผลกระทบจากตัวเลือกนี้
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = ปิดใช้งาน JavaScript *
 options-disable-javascript-tooltip =
     .title = การเปิดใช้ตัวเลือกนี้จะปิดใช้งาน JavaScript ในแท็บปัจจุบัน ถ้าแท็บนี้ถูกปิดไป ค่าที่ตั้งนี้จะถูกล้าง
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = เปิดใช้งานเบราว์เซอร์ chrome และกล่องเครื่องมือการดีบั๊กส่วนเสริม
+options-enable-chrome-tooltip =
+    .title = การเปิดตัวเลือกนี้จะช่วยให้คุณสามารถใช้เครื่องมือนักพัฒนาในบริบทของเบราว์เซอร์ได้ (ผ่าน เครื่องมือ > นักพัฒนาเว็บ > กล่องเครื่องมือเบราว์เซอร์) และดีบั๊กส่วนเสริมจากตัวจัดการส่วนเสริม
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = เปิดใช้งานการดีบั๊กระยะไกล
+options-enable-remote-tooltip =
+    .title = การเปิดใช้ตัวเลือกนี้จะอนุญาตให้เครื่องมือนักพัฒนาตรวจสอบอินสแตนซ์ระยะไกลเหมือนใน Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = เปิดใช้งานตัวทำงานบริการผ่าน HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)
+options-enable-service-workers-http-tooltip =
+    .title = การเปิดตัวเลือกนี้จะเป็นการเปิดใช้งานตัวทำงานบริการผ่าน HTTP สำหรับแท็บทั้งหมดที่เปิดกล่องเครื่องมือ
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = เปิดใช้งานการแมปต้นฉบับ
+options-source-maps-tooltip =
+    .title = หากคุณเปิดใช้งานตัวเลือกนี้ ต้นฉบับจะถูกแมปในเครื่องมือ
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = *เรียกหน้าเว็บใหม่เฉพาะวาระปัจจุบันเท่านั้น
 
