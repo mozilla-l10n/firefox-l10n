@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = सुनिश्चित डेवलपर औज़ार
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * मौजूदा औज़ारपेटी लक्ष्य के लिए समर्थित नहीं
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = सहयुक्ति द्वारा संस्थापित डेवलेपर औज़ार
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = उपलब्ध उपकरण बॉक्स बटन
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = प्रसंग
 
 ## Inspector section
 
+# The heading
+options-context-inspector = इंस्पेक्टर
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ब्राउज़र शैलियाँ दिखाएँ
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = तयशुदा रंग इकाई
+options-default-color-unit-authored = लेखक जैसा
+options-default-color-unit-hex = हेक्स
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = रंग नाम
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = शैली संपादक
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = स्वतःपूर्ण CSS
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = स्क्रीनशॉट व्यवहार
 
 ## Editor section
 
@@ -52,6 +77,8 @@ options-sourceeditor-keybinding-default-label = तयशुदा
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = उन्नत सेटिंग...
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP कैश निष्क्रिय करें (जब औज़ारपेटी खुला हो)
 options-disable-http-cache-tooltip =
@@ -72,9 +99,13 @@ options-enable-service-workers-http-tooltip =
     .title = इस विकल्प को सक्रिय करने से HTTP पर श्रमिक सेवा सक्रिय हो जाएगी उन सभी टैब के लिए जिनमें औजारपेटी खुली होगी |
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = स्रोत नक्शा सक्षम करें
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * वर्तमान सत्र केवल, फिर से पृष्ठ लोड करता है
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = डिबगर
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = दिखाएँ गेक्को मंच डेटा
