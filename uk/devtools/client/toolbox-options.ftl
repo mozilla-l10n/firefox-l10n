@@ -93,6 +93,8 @@ options-disable-http-cache-tooltip =
     .title = Вмикаючи цю опцію ви забороняєте HTTP-кеш для всіх вкладок з відкритою панеллю інструментів. Ця опція не впливає на Service Workers.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Вимкнути JavaScript *
+options-disable-javascript-tooltip =
+    .title = Увімкнення цього параметра вимкне JavaScript для поточної вкладки. Якщо вкладку чи інструменти закрито, то ці налаштування не збережуться.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Увімкнути інструменти зневадження browser chrome та додатків
 options-enable-chrome-tooltip =
