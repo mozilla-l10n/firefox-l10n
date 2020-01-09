@@ -55,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Comportamiento de la captura de pantalla
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Captura de pantalla al portapapeles
+options-screenshot-clipboard-tooltip =
+    .title = Guarda la captura de pantalla directamente al portapapeles
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Reproducir el sonido del obturador de la cámara
+options-screenshot-audio-tooltip =
+    .title = Activa el sonido de la cámara al tomar una captura de pantalla
 
 ## Editor section
 
