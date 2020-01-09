@@ -17,6 +17,10 @@ options-select-default-tools-label = Alat Pengembang Bawaan
 options-show-user-agent-styles-label = Tampilkan Gaya Peramban
 options-show-user-agent-styles-tooltip =
     .title = Jika opsi ini diaktifkan, gaya baku yang dimuat peramban akan ditampilkan.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Potong atribut DOM
+options-collapse-attrs-tooltip =
+    .title = Potong atribut panjang pada inspektur
 
 ## "Default Color Unit" options for the Inspector
 
@@ -54,6 +58,14 @@ options-sourceeditor-keybinding-default-label = Baku
 options-disable-javascript-label = Nonaktifkan JavaScript *
 options-disable-javascript-tooltip =
     .title = Dengan mengaktifkan opsi ini, JavaScript pada tab sekarang akan dinonaktifkan. Jika tab atau kotak alat ditutup maka setelan ini akan dilupakan.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Aktifkan kotak alat debug chrome peramban dan pengaya
+options-enable-chrome-tooltip =
+    .title = Mengaktifkan opsi ini akan dapat digunakan untuk menggunakan berbagai alat pengembang dalam konteks peramban (lewat Alat > Pengembang Web > Kotak Alat Peramban) serta mendebug pengaya dari Pengelola Pengaya
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Aktifkan Service Worker lewat HTTP (saat kotak alat terbuka)
+options-enable-service-workers-http-tooltip =
+    .title = Mengaktifkan opsi ini akan mengaktifkan Service Worker lewat HTTP untuk semua tab yang kotak alatnya terbuka.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Aktifkan Peta Sumber
 options-source-maps-tooltip =
@@ -66,3 +78,5 @@ options-debugger-label = Debugger
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Tampilkan data platform Gecko
+options-show-platform-data-tooltip =
+    .title = Jika Anda mengaktifkan opsi ini, laporan Profiler JavaScript akan menyertakan  simbol platform Gecko
