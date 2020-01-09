@@ -14,6 +14,8 @@
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unidá de color predetermináu
+options-default-color-unit-hsl = HSL(A)
 
 ## Style Editor section
 
