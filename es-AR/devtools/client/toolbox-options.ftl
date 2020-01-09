@@ -109,6 +109,8 @@ options-enable-service-workers-http-tooltip =
     .title = Habilitar esta opción habilitará service workers sobre HTTP para todas las pestañas que tengan la caja de herramientas abierta.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Habilitar mapas de fuentes
+options-source-maps-tooltip =
+    .title = Si habilita esta opción, las fuentes serán mapeadas en las herramientas.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Solo sesión actual, recarga la página
 
