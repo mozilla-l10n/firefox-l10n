@@ -8,9 +8,22 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * មិន​ត្រូវ​បាន​គាំទ្រ​សម្រាប់​គោលដៅ​ប្រអប់​ឧបករណ៍​បច្ចុប្បន្ន
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = ឧបករណ៍​របស់​អ្នក​អភិវឌ្ឍន៍​ដែល​បាន​ដំឡើង​​ដោយ​កម្មវិធី​បន្ថែម
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = ប៊ូតុង​ប្រអប់​ឧបករណ៍​​ដែល​មាន
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = រូបរាង
 
 ## Inspector section
 
+# The heading
+options-context-inspector = កម្មវិធី​ត្រួតពិនិត្យ
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = បង្ហាញ​រចនាប័ទ្ម​​សម្រាប់​កម្មវិធី​អ៊ីនធឺណិត
 options-show-user-agent-styles-tooltip =
@@ -18,10 +31,16 @@ options-show-user-agent-styles-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = ឯកតា​ពណ៌លំនាំដើម
 options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = ឈ្មោះ​ពណ៌
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = កម្មវិធី​កែ​សម្រួល​រចនា​ប័ទ្ម
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS  បំពេញ​ស្វ័យប្រវត្តិ
 options-stylesheet-autocompletion-tooltip =
@@ -49,6 +68,8 @@ options-sourceeditor-keybinding-default-label = លំនាំ​ដើម
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = ការ​កំណត់​កម្រិត​ខ្ពស់
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = បិទ JavaScript *
 options-disable-javascript-tooltip =
@@ -63,6 +84,8 @@ options-enable-remote-label = បើក​ការ​បំបាត់​ក�
 options-enable-service-workers-http-label = បើក Service Workers តាម HTTP (នៅ​ពេល​ប្រអប់​ឧបករណ៍​បើក)
 options-enable-service-workers-http-tooltip =
     .title = ការ​បើក​ជម្រើស​នេះ​​នឹង​អនុញ្ញាត​ Service Workers តាម HTTP សម្រាប់​ផ្ទាំង​ទាំងអស់​ដែល​​បាន​បើក​ប្រអប់​ឧបករណ៍។
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = តែ​សម័យ​ប៉ុណ្ណោះ ផ្ទុក​ទំព័រ​​ឡើយ​វិញ
 
 ##
 
