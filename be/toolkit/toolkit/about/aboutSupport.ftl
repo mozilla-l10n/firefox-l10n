@@ -139,7 +139,7 @@ media-capabilities-title = Медыя-магчымасці
 # List all the entries of the database.
 media-capabilities-enumerate = Пералічыць базу дадзеных
 
-
+##
 
 intl-title = Інтэрнацыяналізацыя і лакалізацыя
 intl-app-title = Налады праграмы
@@ -164,7 +164,7 @@ remote-debugging-title = Адлеглая адладка (пратакол Chrom
 remote-debugging-accepting-connections = Прыём злучэнняў
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -269,6 +269,7 @@ d3d11video-crash-guard = Відэадэкодэр D3D11
 d3d9video-crash-buard = Відэадэкодэр D3D9
 d3d9video-crash-guard = Відэадэкодэр D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Відэадэкодэр WMF VPX
 reset-on-next-restart = Скінуць пры наступным перазапуску
 gpu-process-kill-button = Завяршыць GPU працэс
 gpu-device-reset = Скід прылады
