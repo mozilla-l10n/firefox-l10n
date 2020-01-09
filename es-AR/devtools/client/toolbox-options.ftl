@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Herramientas de desarrollador predeterminadas
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * No soportado para el destino de caja de herramientas actual
@@ -35,6 +37,7 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unidad de color predeterminada
 options-default-color-unit-authored = Como el autor
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
@@ -52,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Comportamiento de la captura de pantalla
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Captura de pantalla al portapapeles
+options-screenshot-clipboard-tooltip =
+    .title = Guardar la captura de pantalla directamente en el portapapeles
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Reproducir sonido de obturador de cámara
+options-screenshot-audio-tooltip =
+    .title = Habilita el sonido de cámara al hacer una captura de pantalla
 
 ## Editor section
 
@@ -74,23 +87,35 @@ options-sourceeditor-keybinding-default-label = Predeterminados
 
 # The heading
 options-context-advanced-settings = Opciones avanzadas
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Deshabilitar cache HTTP (cuando las herramientas están abiertas)
+options-disable-http-cache-tooltip =
+    .title = Habilitar esta opción deshabilitará el caché HTTP para todas las pestañas que tengan las herramientas abiertas. Service Workers no están afectados por esta opción.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Deshabilitar JavaScript *
+options-disable-javascript-tooltip =
+    .title = Activar esta opción deshabilitará JavaScript para la pestaña actual. Si la pestaña o la caja de herramientas se cierran, esta opción será olvidada.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Habilitar cajas de herramientas de depuración de chrome y complementos
 options-enable-chrome-tooltip =
     .title = Encender esta opción permitirá usar varias herramientas de depuración en el contexto del navegador (via Herramientas > Desarrollador web > Barra de herramientas del navegador) y depurar complementos desde el administrador de complementos
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Habilitar depuración remota
+options-enable-remote-tooltip =
+    .title = Habilitar esta opción permitirá a las herramientas de desarrollador depurar una instancia remota como Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Habilitar Service Workers sobre HTTP (cuando esté abierta la caja de herramientas)
 options-enable-service-workers-http-tooltip =
     .title = Habilitar esta opción habilitará service workers sobre HTTP para todas las pestañas que tengan la caja de herramientas abierta.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Habilitar mapas de fuentes
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Solo sesión actual, recarga la página
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Depurador
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Mostrar datos de plataforma de Gecko
