@@ -30,6 +30,10 @@ options-context-inspector = Průzkumník
 options-show-user-agent-styles-label = Zobrazit styly prohlížeče
 options-show-user-agent-styles-tooltip =
     .title = Zapnutím zobrazíte výchozí styly, které jsou načítány prohlížečem.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Zkrátit DOM atributy
+options-collapse-attrs-tooltip =
+    .title = Zkrátit dlouhé atributy v průzkumníku
 
 ## "Default Color Unit" options for the Inspector
 
@@ -73,6 +77,10 @@ options-sourceeditor-keybinding-default-label = Výchozí
 
 # The heading
 options-context-advanced-settings = Rozšířené nastavení
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Zakázat mezipaměť (když jsou nástroje otevřeny)
+options-disable-http-cache-tooltip =
+    .title = Zapnutím této volby bude mezipaměť HTTP vypnuta pro všechny panely, které mají otevřené nástroje. Service Workers nejsou touto volbou ovlivněny.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Zakázat JavaScript *
 options-disable-javascript-tooltip =
