@@ -26,6 +26,10 @@ options-select-dev-tools-theme-label = テーマ
 
 # The heading
 options-context-inspector = 調査
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = ブラウザー CSS を表示
+options-show-user-agent-styles-tooltip =
+    .title = このオプションを有効にすると、ブラウザーが読み込んだ既定のスタイルを表示します。
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM 属性値を省略
 options-collapse-attrs-tooltip =
