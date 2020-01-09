@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Mga Tema
 
 ## Inspector section
 
@@ -17,6 +19,7 @@
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Mga Ngalan ng Kulay
 
 ## Style Editor section
 
@@ -26,10 +29,13 @@ options-default-color-unit-rgb = RGB(A)
 
 ## Editor section
 
+options-sourceeditor-tabsize-label = Sukat ng tab
 options-sourceeditor-keybinding-label = Keybindings
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Mga advanced na setting
 
 ##
 
