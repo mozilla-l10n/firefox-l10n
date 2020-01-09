@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Ferramientas de desenvolvimiento por defecto
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Incompatible con l'elemento actual d'a caixa de ferramientas
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Ferramientas de desembolicador instaladas por complementos
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Botons disposables en a caixa de ferramientas
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Temas
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspector
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Amostrar os estilos d'o navegador
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unidat de color predeterminada
+options-default-color-unit-authored = Como s'ha creyau
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Nombres de colors
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Editor de estilo
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Completar automaticament as CSS
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Comportamiento de captura de pantalla
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Capturar de pantalla en o portafuellas
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Predeterminau
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Achustes abanzaus
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Desactivar la caché HTTP (quan a caixa de ferramientas ye ubierta)
 options-disable-http-cache-tooltip =
@@ -80,9 +107,17 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Activar os Service Workers sobre HTTP (quan a caixa de ferramientas siga ubierta)
 options-enable-service-workers-http-tooltip =
     .title = En activar ista opción s'habilitarán os service workers sobre HTTP pa todas as pestanyas que tienen a caixa de ferramientas ubierta.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Habilitar los mapas fuent
+options-source-maps-tooltip =
+    .title = Si activas esta opción las fuents serán mapiadas en as ferramientas.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * esviella a pachina nomás ta ista sesión
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Depurador
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Amostrar os datos d'a plataforma Gecko
