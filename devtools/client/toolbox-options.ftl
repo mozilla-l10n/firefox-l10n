@@ -8,28 +8,60 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * לא נתמך עבור המטרה הנוכחית של ארגז הכלים
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = כלי פיתוח שהותקנו על־ידי תוספות
 
 ## Inspector section
 
+# The heading
+options-context-inspector = מפקח
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
 
 ## Style Editor section
 
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = השלמה אוטומטית של CSS
 
 ## Screenshot section
 
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = העדפות עורך
+options-sourceeditor-detectindentation-tooltip =
+    .title = לנחש הזחה לפי תוכן קוד המקור
+options-sourceeditor-detectindentation-label = זיהוי הזחה
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = להכניס את סגירת הסוגריים באופן אוטומטי
+options-sourceeditor-autoclosebrackets-label = סגירת סוגריים אוטומטית
+options-sourceeditor-expandtab-label = הזחה עם רווחים
+options-sourceeditor-tabsize-label = גודל Tab
+options-sourceeditor-keybinding-label = קיצורי מקשים
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = הגדרות מתקדמות
 options-disable-javascript-tooltip =
     .title = הפעלת אפשרות זו תנטרל את JavaScript בלשונית הנוכחית. אם הלשונית או ארגז הכלים יסגרו הגדרה זו תישכח.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = הפעלת מנפה שגיאות מרוחק
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * הפעלה נוכחית בלבד, יש לטעון מחדש את הדף
 
 ##
 
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = הצגת נתוני סביבת Gecko
+options-show-platform-data-tooltip =
+    .title = אפשרות זו תגרום לדיווחי מאבחן ה־JavaScript להכיל גם סמלי סביבת Gecko
