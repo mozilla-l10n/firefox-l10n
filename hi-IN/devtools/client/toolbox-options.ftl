@@ -57,6 +57,14 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = स्क्रीनशॉट व्यवहार
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = स्क्रीनशॉट क्लिपबोर्ड पर भेजें
+options-screenshot-clipboard-tooltip =
+    .title = स्क्रीनबोर्ड को सीधे क्लिपबोर्ड पर सहेजता है
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = कैमरा शटर ध्वनि चलाएँ
+options-screenshot-audio-tooltip =
+    .title = स्क्रीनशॉट लेते समय कैमरा ऑडियो ध्वनि सक्षम करता है
 
 ## Editor section
 
@@ -99,6 +107,8 @@ options-enable-service-workers-http-tooltip =
     .title = इस विकल्प को सक्रिय करने से HTTP पर श्रमिक सेवा सक्रिय हो जाएगी उन सभी टैब के लिए जिनमें औजारपेटी खुली होगी |
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = स्रोत नक्शा सक्षम करें
+options-source-maps-tooltip =
+    .title = यदि आप इस विकल्प को सक्षम करते हैं तो सूत्रों को साधनों में मैप किया जाएगा.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * वर्तमान सत्र केवल, फिर से पृष्ठ लोड करता है
 
