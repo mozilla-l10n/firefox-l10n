@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Nūkluseitī izstruoduotuoju reiki
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Natīk pabaļsteits konkretajam reikam
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Papyldynuojumu instaleitī izstruoduotuoju reiki
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Pīejamuos reiku pūgys
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Temys
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Puorraugs
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Show Browser Styles
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Nūkluseituo kruosu vīneiba
+options-default-color-unit-authored = Kai nūruodeits
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Kruosu nūsaukumi
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Stila redaktors
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Automatiski pabeigt CSS
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Screenshot Behavior
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Ekranattāls iz storpliktuvi
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Nūkluseituo
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Papyldu īstatiejumi
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Deaktivēt HTTP kešatmiņu (nui ir attaiseiti izstruoduotuoju reiki)
 options-disable-http-cache-tooltip =
@@ -84,9 +111,13 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = Enable Source Maps
 options-source-maps-tooltip =
     .title = If you enable this option sources will be mapped in the tools.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Tikai itū seseju, puorluodej lopu
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Atklaiduotuojs
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Ruodeit Gecko platformys datus
