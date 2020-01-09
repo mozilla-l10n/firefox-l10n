@@ -30,12 +30,15 @@ options-context-inspector = નિરીક્ષક
 options-show-user-agent-styles-label = બ્રાઉઝર શૈલીને બતાવો
 options-show-user-agent-styles-tooltip =
     .title = આને ચાલુ કરવાથી મૂળભૂત શૈલીને બતાવશે કે જે બ્રાઉઝર દ્દારા લાવેલ છે.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = DOM લક્ષણોને કાઢી નાખો
 options-collapse-attrs-tooltip =
     .title = નિરીક્ષકમાં લાંબી લાક્ષણિકતાઓ કાઢી નાખો
 
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = મૂળભૂત રંગ એકમ
+options-default-color-unit-authored = લેખક તરીકે
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -56,6 +59,12 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = સ્ક્રીનશૉટ વર્તન
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = ક્લિપબોર્ડ પર સ્ક્રીનશૉટ
+options-screenshot-clipboard-tooltip =
+    .title = ક્લિપબોર્ડ પર સીધા જ સ્ક્રીનશૉટ સાચવે છે
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = કેમેરા શટર અવાજ ચલાવો
+options-screenshot-audio-tooltip =
+    .title = સ્ક્રીનશૉટ લેતી વખતે કેમેરા ઓડિયો સાઉન્ડને સક્ષમ કરે છે
 
 ## Editor section
 
@@ -78,16 +87,26 @@ options-sourceeditor-keybinding-default-label = મૂળભૂત
 
 # The heading
 options-context-advanced-settings = ઉન્નત સેટીંગ
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = HTTP કામચલાઉ સંગ્રહ અક્ષમ કરો (જ્યારે ટૂલબોક્સ ખુલ્લું હોય)
+options-disable-http-cache-tooltip =
+    .title = આ વિકલ્પને ચાલુ કરવાથી, બધા ટૅબ્સ માટે HTTP કામચલાઉ સંગ્રહને અક્ષમ કરશે જે પાસે ટૂલબોક્સ ખુલ્લું છે. સર્વિસ વર્કર્સ આ વિકલ્પ દ્વારા પ્રભાવિત નથી.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript * ને સક્રિય કરો
 options-disable-javascript-tooltip =
     .title = આ વિકલ્પને ચાલુ રાખવાથી વર્તમાન ટૅબ માટે JavaScript નિષ્ક્રિય થઇ જશે. જો ટૅબ અથવા સાધનબોક્સ બંધ થયેલ છે પછી આ સુયોજન ભૂલ થઇ જશે.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = બ્રાઉઝર chrome અને એડ-ઓન ડિબગિંગ ટૂલબોક્સ સક્ષમ કરો
 options-enable-chrome-tooltip =
     .title = આ વિકલ્પને ચાલુ કરવાથી તમને બ્રાઉઝર સંદર્ભમાં (ટૂલ્સ> વેબ ડેવલપર> બ્રાઉઝર ટૂલબાર દ્વારા) વિવિધ ડેવલપર સાધનોનો ઉપયોગ કરવાની અને ઍડ-ઑન્સ મેનેજરમાંથી ડિબગ ઍડ-ઑન્સની મંજૂરી મળશે
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = દૂરસ્થ ડિબગીંગ સક્રિય કરો
 options-enable-remote-tooltip =
     .title = આ વિકલ્પને ચાલુ કરવાથી વિકાસકર્તા સાધનોને Firefox OS જેવી દૂરસ્થ દાખલાની ડિબગ કરવા દેશે
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = HTTP પર સર્વિસ વર્કર્સને સક્ષમ કરો (જ્યારે ટૂલબોક્સ ખુલ્લું હોય)
+options-enable-service-workers-http-tooltip =
+    .title = આ વિકલ્પને ચાલુ કરવાથી, બધા ટેબ્સ માટે, જે ટૂલબોક્સ ખુલ્લા છે, તેના માટે HTTP પર સર્વિસ કાર્યકર્તાઓને સક્ષમ કરશે.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = સ્રોત નકશા સક્ષમ કરો
 options-source-maps-tooltip =
