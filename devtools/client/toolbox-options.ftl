@@ -13,9 +13,14 @@ options-select-default-tools-label = అన్ని డెవెలపర్ �
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * ప్రస్తుత సాధనపెట్టె లక్ష్యము కొరకు తోడ్పాటునీయదు
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = పొడగింతలు స్థాపించిన అభివృద్దికారి సాధనాలు
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = అందుబాటులోని సాధనపెట్టె బటన్లు
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = అలంకారాలు
 
 ## Inspector section
 
@@ -50,6 +55,12 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = తెరపట్టు ప్రవర్తన
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = క్లిప్‌బోర్డు లోనికి తీయి
+options-screenshot-clipboard-tooltip =
+    .title = తెరపట్టుని నేరుగా క్లిప్‌బోర్డులో భద్రపరుస్తుంది
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = కామెరా యొక్క షట్టర్ ధ్వనిని ప్లే చేయండి
 options-screenshot-audio-tooltip =
@@ -57,13 +68,18 @@ options-screenshot-audio-tooltip =
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = కూర్పరి అభిరుచులు
 options-sourceeditor-detectindentation-tooltip =
     .title = సోర్స్ కాంటెంట్‌పై ఆధారపడి ఇండెంటేషన్ అంచనావేయి
 options-sourceeditor-detectindentation-label = ఇన్‌డెంటేషన్ గుర్తించు
 options-sourceeditor-autoclosebrackets-tooltip =
     .title = మూసివేత బ్రాకెట్లు స్వయంచాలకంగా చొప్పించును
+options-sourceeditor-autoclosebrackets-label = బ్రాకెట్లను స్వయంచాలకంగా మూసివేయి
 options-sourceeditor-expandtab-tooltip =
     .title = ట్యాబ్ కారెక్టర్ బదులు ఖాళీలు ఉపయోగించు
+options-sourceeditor-expandtab-label = ఇండెంటు కోసం ఖాళీలు వాడు
+options-sourceeditor-tabsize-label = ట్యాబు పరిమాణం
 options-sourceeditor-keybinding-label = కీబైండిగ్లు
 options-sourceeditor-keybinding-default-label = అప్రమేయ
 
