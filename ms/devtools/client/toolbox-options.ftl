@@ -38,6 +38,7 @@ options-collapse-attrs-tooltip =
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Unit warna piawai
+options-default-color-unit-authored = Seperti yang Ditetapkan
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
