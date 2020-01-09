@@ -73,6 +73,8 @@ options-sourceeditor-keybinding-default-label = Standert
 options-context-advanced-settings = Avansearre ynstellingen
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP-buffer útskeakelje (as wurkset iepene is)
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = JavaScript útskeakelje *
 options-disable-javascript-tooltip =
     .title = Troch dizze opsje oan te setten, wurdt JavaScript foar it aktuele ljepblêd útskeakelje. As it ljepblêd of de toolbox sluten is dan wurdt dizze ynstelling ferjitten.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
