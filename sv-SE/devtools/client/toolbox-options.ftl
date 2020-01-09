@@ -55,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Beteende för skärmdump
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Skärmdump till Urklipp
+options-screenshot-clipboard-tooltip =
+    .title = Sparar skärmdump direkt till Urklipp
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Spela slutarljud för kamera
+options-screenshot-audio-tooltip =
+    .title = Aktiverar kameraljudet när du tar skärmdump
 
 ## Editor section
 
@@ -99,6 +109,8 @@ options-enable-service-workers-http-tooltip =
     .title = Med det här alternativet kan du aktivera service workers över HTTP för alla flikar som har verktygslådan öppen.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Aktivera källmappning
+options-source-maps-tooltip =
+    .title = Om du aktiverar det här alternativet kommer källor att mappas i verktygen.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Endast aktuell session, laddar om sidan
 
