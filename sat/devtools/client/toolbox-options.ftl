@@ -17,6 +17,8 @@ options-select-additional-tools-label = एड ऑन दाराय ते ल
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = टुल बाक्सा बुता़म को ञामोक् आ .
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = उयहा़र
 
 ## Inspector section
 
@@ -76,3 +78,5 @@ options-context-triggers-page-refresh = *एकेन नित आ का़म
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = गेको प्लेटफोर्म डाटा उदुक{ " " }
+options-show-platform-data-tooltip =
+    .title = जुदी  आम नोवा  आपनार मोने तेयाक् हुय होचोया जावा चिकी प्रोफाइलार रिपोर्ट मेसाया गेको प्लेटफोर्म चिनहा़ को
