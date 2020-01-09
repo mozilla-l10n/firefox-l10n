@@ -90,9 +90,13 @@ newtab-privacy-modal-paragraph =
     Además de ofrecer historias cautivadoras, también le mostramos información relevante,
     contenido altamente revisado de patrocinadores seleccionados. No se preocupe, la seguridad de los datos de su navegación
      nunca dejan su copia personal de { -brand-product-name }: no la vemos y nuestros patrocinadores tampoco.
+newtab-privacy-modal-paragraph-2 =
+    Además de ofrecer historias cautivadoras, también le vamos a mostrar información relevante,
+    contenido sumamente revisado de patrocinadores seleccionados. No se preocupe, <strong>la seguridad de los datos de su navegación
+     nunca dejan su copia personal de { -brand-product-name }: nosotros no la vemos y nuestros patrocinadores tampoco.
 newtab-privacy-modal-link = Aprenda cómo funciona la privacidad en la pestaña nueva
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Eliminar marcador
@@ -179,7 +183,6 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Uy! Casi cargamos esta s
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tópicos populares:
 newtab-pocket-more-recommendations = Más recomendaciones
-newtab-pocket-how-it-works = Cómo funciona
 newtab-pocket-whats-pocket = ¿Qué es { -pocket-brand-name }?
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarde las historias que quiera en { -pocket-brand-name } y potencie su mente con lecturas fascinantes.
