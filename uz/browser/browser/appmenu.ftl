@@ -5,9 +5,16 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Maxfiylik himoyasi
+appmenuitem-protection-report-title = Maxfiylik himoyalari
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Maxfiylik haqidagi hisobotga kirish
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Kattalashtirish
+appmenuitem-zoom-reduce =
+    .label = Kichiklashtirish
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
