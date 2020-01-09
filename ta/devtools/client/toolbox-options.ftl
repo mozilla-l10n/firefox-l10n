@@ -40,7 +40,7 @@ options-default-color-unit-authored = ஆசிரியராக
 options-default-color-unit-hex = பதின்னறும
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
-options-default-color-unit-name = வண்ணங்களின் பெயர்கள்{ " " }
+options-default-color-unit-name = வண்ணங்களின் பெயர்கள்
 
 ## Style Editor section
 
