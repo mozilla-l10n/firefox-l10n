@@ -26,6 +26,7 @@ options-show-user-agent-styles-tooltip =
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL
 options-default-color-unit-name = වර්ණ නාම
 
 ## Style Editor section
