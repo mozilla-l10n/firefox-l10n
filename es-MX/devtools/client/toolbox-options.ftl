@@ -77,6 +77,10 @@ options-sourceeditor-keybinding-default-label = Predeterminado
 
 # The heading
 options-context-advanced-settings = Configuración avanzada
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Desactivar caché HTTP (cuando la caja de herramientas esté abierta)
+options-disable-http-cache-tooltip =
+    .title = Habilitar esta opción deshabilitará el caché HTTP para todas las pestañas que tengan la caja de herramientas abierta. Los Service Workers no están afectados por esta opción.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Deshabilitar JavaScript *
 options-disable-javascript-tooltip =
