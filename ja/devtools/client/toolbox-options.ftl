@@ -13,6 +13,10 @@
 
 # The heading
 options-context-inspector = 調査
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = DOM 属性値を省略
+options-collapse-attrs-tooltip =
+    .title = 値の長い属性を省略します
 
 ## "Default Color Unit" options for the Inspector
 
