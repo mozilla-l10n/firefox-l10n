@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = पूर्वनिर्धारित डेव्हलपर साधने
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * सध्याच्या साधनपेटी लक्ष्यकरिता समर्थीत नाही
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = ॲड-ऑन्स् सतर्फे इन्स्टॉल केलेले डेव्हलपर साधने
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = उपलब्ध साधनपेटी बटन्स
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = थीम्स
 
 ## Inspector section
 
+# The heading
+options-context-inspector = इंस्पेक्टर
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ब्राउझर शैली दाखवा
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = पूर्वनिर्धारित रंग एकक
+options-default-color-unit-authored = लेखका प्रमाणे
+options-default-color-unit-hex = हेक्स
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = रंगांचे नाव
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = शैली संपादक
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS स्वपूर्ण करा
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = स्क्रीनशॉट वर्तन
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = क्लिपबोर्ड वर स्क्रीनशॉट घ्या
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = पूर्वनिर्ध�
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = प्रगत सेटिंग्ज
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP कॅशे निष्क्रिय करा (साधनपेटी खुले असतेवेळी)
 options-disable-http-cache-tooltip =
@@ -80,9 +107,17 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = Service Workers, HTTP वर सक्रिय करा (जेव्हा साधनपेटी उघडी असेल)
 options-enable-service-workers-http-tooltip =
     .title = हा पर्याय सुरू केल्याने, असे टॅब्स ज्यांची साधनपेटी उघडी आहे त्यासाठी, HTTP वरील service workers सुरू केले जाईल.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = सोर्स नकाशे सक्षम करा
+options-source-maps-tooltip =
+    .title = आपण हा पर्याय स्त्रोत सक्षम केल्यास साधनांमध्ये मॅप केला जाईल.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * फक्त सध्याच्या सत्रकरिता, पृष्ठ पुन्हा लोड करते
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = डिबगर
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Gecko प्लॅटफॉर्म माहिती दाखवा
