@@ -46,7 +46,7 @@
 <!ENTITY  noproxyLocalhostDesc.label    "З'єднання з localhost, 127.0.0.1 та ::1 ніколи не використовує проксі.">
 <!ENTITY  shareproxy.label              "Використовувати цей проксі-сервер для всіх протоколів">
 <!ENTITY  shareproxy.accesskey          "с">
-<!ENTITY  proxyHttpSharing.label        "Також використовуйте цей проксі для HTTPS">
+<!ENTITY  proxyHttpSharing.label        "Також використовувати цей проксі для HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "Т">
 <!ENTITY  autologinproxy.label          "Не запитувати про автентифікацію, якщо пароль вже збережено">
 <!ENTITY  autologinproxy.accesskey      "Н">
