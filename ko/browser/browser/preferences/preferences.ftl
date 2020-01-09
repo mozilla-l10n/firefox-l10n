@@ -472,7 +472,7 @@ home-prefs-topsites-description = 가장 많이 방문한 사이트
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } 추천
-home-prefs-recommended-by-description = 여러분에게 맞춰진 웹에서 제공되는 훌륭한 컨텐츠
+home-prefs-recommended-by-description = 여러분에게 맞춰진 웹에서 제공되는 훌륭한 콘텐츠
 home-prefs-recommended-by-learn-more = 사용 방법
 home-prefs-recommended-by-option-sponsored-stories =
     .label = 후원된 스토리
