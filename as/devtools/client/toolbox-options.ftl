@@ -11,6 +11,9 @@
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * বৰ্তমান সঁজুলিবাকচৰ বাবে সমৰ্থিত নহয়
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = এড-অনসমূহ দ্বাৰা ইনস্টল কৰা উন্নয়নকাৰী সঁজুলিসমূহ
 
 ## Inspector section
 
