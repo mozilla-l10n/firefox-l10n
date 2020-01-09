@@ -87,6 +87,10 @@ options-sourceeditor-keybinding-default-label = Rhagosodiad
 
 # The heading
 options-context-advanced-settings = Gosodiadau uwch
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Analluogi Storfa Dros Dro HTTP (pan mae'r blwch offer ar agor)
+options-disable-http-cache-tooltip =
+    .title = Bydd cychwyn y dewis hwn yn analluogi storfa dros dro'r HTTP ar gyfer pob tab sydd a' r blwch offer ar agor. Nid yw Service Workers yn cael eu heffeithio gan y dewis hwn.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Analluogi JavaScript *
 options-disable-javascript-tooltip =
