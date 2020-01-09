@@ -878,9 +878,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; में आपका स्वागत है">
-<!ENTITY activity_stream_signin_description "बुकमार्क, पासवर्ड और अपने Firefox खाते के साथ और अधिक सिंक करना शुरू करें।">
+<!ENTITY activity_stream_signin_description "अपने Firefox खाते के साथ बुकमार्क, पासवर्ड, तथा और भी चीज़ें सिंक करना शुरू करें।">
 <!ENTITY activity_stream_signup_button "साइन अप करें">
-<!ENTITY activity_stream_signin_prompt "पहले से ही एक खाता है?">
+<!ENTITY activity_stream_signin_prompt "पहले से एक खाता है?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "साइन इन करें।">
 
@@ -894,7 +894,7 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 <!ENTITY activity_stream_topsites "सर्वोत्तम साइटें">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; द्वारा अनुशंसित">
-<!ENTITY activity_stream_highlights "प्रमुखताएँ">
+<!ENTITY activity_stream_highlights "प्रमुखताएं">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "अधिक">
