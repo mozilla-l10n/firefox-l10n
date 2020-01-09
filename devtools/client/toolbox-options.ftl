@@ -32,6 +32,14 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Screenshot to clipboard
+options-screenshot-clipboard-tooltip =
+    .title = Saves to the screenshot directly to the clipboard
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Play camera shutter sound
+options-screenshot-audio-tooltip =
+    .title = Enables the camera audio sound when taking screenshot
 
 ## Editor section
 
@@ -52,6 +60,10 @@ options-sourceeditor-keybinding-default-label = Default
 
 ## Advanced section
 
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Disable HTTP Cache (when toolbox is open)
+options-disable-http-cache-tooltip =
+    .title = Turning this option on will disable the HTTP cache for all tabs that have the toolbox open. Service Workers are not affected by this option.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Disable JavaScript *
 options-disable-javascript-tooltip =
@@ -62,13 +74,19 @@ options-enable-chrome-tooltip =
     .title = Turning this option on will allow you to use various developer tools in browser context (via Tools > Web Developer > Browser Toolbox) and debug add-ons from the Add-ons Manager
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Enable remote debugging
+options-enable-remote-tooltip =
+    .title = Turning this option on will allow the developer tools to debug a remote instance like Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Enable Service Workers over HTTP (when toolbox is open)
 options-enable-service-workers-http-tooltip =
     .title = Turning this option on will enable the service workers over HTTP for all tabs that have the toolbox open.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Enable Source Maps
 
 ##
 
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Show Gecko platform data
+options-show-platform-data-tooltip =
+    .title = If you enable this option the JavaScript Profiler reports will include Gecko platform symbols
