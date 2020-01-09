@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Standard utvecklarverktyg
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Stöds inte för aktuellt mål för verktygen
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Utvecklarverktyg installerade av tillägg
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Tillgängliga verktygsknappar
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Teman
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspektör
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Visa webbläsarstilar
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Standardfärgvärde
+options-default-color-unit-authored = Som författat
+options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Färgnamn
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Stileditor
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Autokomplettera CSS
 options-stylesheet-autocompletion-tooltip =
@@ -52,6 +75,8 @@ options-sourceeditor-keybinding-default-label = Standard
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Avancerade inställningar
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Inaktivera HTTP Cache (när verktygslådan är öppen)
 options-disable-http-cache-tooltip =
@@ -74,9 +99,13 @@ options-enable-service-workers-http-tooltip =
     .title = Med det här alternativet kan du aktivera service workers över HTTP för alla flikar som har verktygslådan öppen.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Aktivera källmappning
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Endast aktuell session, laddar om sidan
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Avlusare
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Visa Geckos plattformsdata
