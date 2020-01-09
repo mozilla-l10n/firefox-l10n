@@ -35,12 +35,12 @@ options-default-color-unit-label = हुड़ाक् रोङ मिदा�
 options-default-color-unit-hex = मोहनी
 options-default-color-unit-hsl = HSL
 options-default-color-unit-rgb = RGB
-options-default-color-unit-name = रोङ ञुतुम को{ " " }
+options-default-color-unit-name = रोङ ञुतुम को
 
 ## Style Editor section
 
 # The heading
-options-styleeditor-label = हुना़र सासापड़ायिच्{ " " }
+options-styleeditor-label = हुना़र सासापड़ायिच्
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = आच् ते पुरा़व  CSS
 options-stylesheet-autocompletion-tooltip =
@@ -68,11 +68,11 @@ options-sourceeditor-keybinding-label = का़ठी तोल को .
 ## Advanced section
 
 # The heading
-options-context-advanced-settings = लाहावाक् साजाव को{ " " }
+options-context-advanced-settings = लाहावाक् साजाव को
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = जोवा चिकी बाङ हुय होचो  *
 options-disable-javascript-tooltip =
-    .title = नोवा आपनार मोने तेयाक् नितोगाक् टेब ला़गित् जावा चिकी बाय हुय होचो या. जुदी टेब आर टुल बाक्सा बोंदो ताहेनाक् एनखान नोवा साजाव हिंड़िञोक् आ.{ " " }
+    .title = नोवा आपनार मोने तेयाक् नितोगाक् टेब ला़गित् जावा चिकी बाय हुय होचो या. जुदी टेब आर टुल बाक्सा बोंदो ताहेनाक् एनखान नोवा साजाव हिंड़िञोक् आ.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = सांगिंञ डिबॉगिंग हुय होचो  .
 # The message shown for settings that trigger page reload
@@ -82,6 +82,6 @@ options-context-triggers-page-refresh = *एकेन नित आ का़म
 
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = गेको प्लेटफोर्म डाटा उदुक{ " " }
+options-show-platform-data-label = गेको प्लेटफोर्म डाटा उदुक
 options-show-platform-data-tooltip =
     .title = जुदी  आम नोवा  आपनार मोने तेयाक् हुय होचोया जावा चिकी प्रोफाइलार रिपोर्ट मेसाया गेको प्लेटफोर्म चिनहा़ को
