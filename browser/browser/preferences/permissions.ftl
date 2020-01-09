@@ -70,6 +70,7 @@ permissions-exceptions-content-blocking-desc = Anda telah menonaktifkan pembloki
 permissions-exceptions-etp-window =
     .title = Pengecualian untuk Perlindungan Pelacakan yang Ditingkatkan
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Anda telah menonaktifkan perlindungan di situs web ini.
 
 ## Exceptions - Cookies
 

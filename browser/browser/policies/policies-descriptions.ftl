@@ -62,6 +62,7 @@ policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi pera
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Mengatur dan mengunci halaman beranda secara opsional.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
+policy-LegacyProfiles = Nonaktifkan fitur yang memberlakukan profil terpisah pada setiap pemasangan.
 policy-LocalFileLinks = Izinkan situs web tertentu untuk bertaut dengan berkas lokal.
 policy-NetworkPrediction = Aktifkan atau nonaktifkan prediksi jaringan (DNS prefetching).
 policy-NewTabPage = Aktifkan atau nonaktifkan laman Tab Baru.
@@ -69,6 +70,7 @@ policy-NoDefaultBookmarks = Nonaktifkan pembuatan markah default yang dibundel d
 policy-OfferToSaveLogins = Paksa setelan untuk mengizinkan { -brand-short-name } untuk menawarkan agar mengingat info masuk dan kata sandi yang disimpan. Nilai true dan false diterima.
 policy-OverrideFirstRunPage = Ganti laman pertama yang dibuka. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman pertama yang dibuka.
 policy-OverridePostUpdatePage = Ganti laman "Yang Baru" yang tampil setelah pembaruan. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman setelah pembaruan.
+policy-PasswordManagerEnabled = Aktifkan penyimpanan sandi melalui manajer sandi.
 policy-Permissions = Atur izin untuk kamera, mikrofon, lokasi, dan notifikasi.
 policy-PopupBlocking = Izinkan situs tertentu untuk menampilkan pop-up secara otomatis.
 policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
