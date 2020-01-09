@@ -8,9 +8,24 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Standardne wuwiwarske nastroje
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Za aktualny zaměr gratoweho kašćika njepodpěrany
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Wuwiwarske nastroje instalowane přez přidatki
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = K dispoziciji stejace tłóčatka gratoweho kašćika
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Drasty
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Inspektor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Wobhladowakowe stile pokazać
 options-show-user-agent-styles-tooltip =
@@ -22,9 +37,17 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Standardna barbowa jednotka
+options-default-color-unit-authored = Kaž spisany
+options-default-color-unit-hex = Heksadecimalny
+options-default-color-unit-hsl = HSL(A)
+options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-name = Barbowe mjena
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Stilowy editor
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS awtomatisce wudospołnić
 options-stylesheet-autocompletion-tooltip =
@@ -32,6 +55,8 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Zadźerženje fota wobrazowki
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Foto wobrazowki do mjezyskłada
 options-screenshot-clipboard-tooltip =
@@ -60,6 +85,8 @@ options-sourceeditor-keybinding-default-label = Standard
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Rozšěrjene nastajenja
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP-pufrowak znjemóžnić (hdyž gratowy kašćik je wočinjeny)
 options-disable-http-cache-tooltip =
@@ -82,9 +109,15 @@ options-enable-service-workers-http-tooltip =
     .title = Tute nastajenje zmóžni service workers přez HTTP za wšě rajtarki wužiwać, za kotrež gratowy kašćik je wočinjeny.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Žórłowe karty zmóžnić
+options-source-maps-tooltip =
+    .title = Jeli tute nastajenje zmóžnjeće, so žórła w nastrojach kartěruja.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * Jenož aktualne posedźenje, strona so znowa začituje
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Pytanje za zmylkami
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Platformowe daty Gecko pokazać
