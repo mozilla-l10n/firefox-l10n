@@ -15,6 +15,10 @@
 options-show-user-agent-styles-label = Erakutsi nabigatzaile-estiloak
 options-show-user-agent-styles-tooltip =
     .title = Ezarrita badago, nabigatzaileak kargatzen dituen estilo lehenetsiak erakutsiko dira.
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Moztu DOM atributuak
+options-collapse-attrs-tooltip =
+    .title = Moztu ikuskatzaileko atributu luzeak
 
 ## "Default Color Unit" options for the Inspector
 
@@ -28,6 +32,14 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Pantaila-argazkia arbelera
+options-screenshot-clipboard-tooltip =
+    .title = Pantaila-argazkia zuzenean arbelean gordetzen du
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Erreproduzitu kamera-obturadorearen soinua
+options-screenshot-audio-tooltip =
+    .title = Kameraren audio-soinua gaitzen du pantaila-argazkia hartzerakoan
 
 ## Editor section
 
@@ -48,15 +60,33 @@ options-sourceeditor-keybinding-default-label = Lehenetsia
 
 ## Advanced section
 
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Desgaitu HTTP cachea (tresna-kutxa irekita dagoenean)
+options-disable-http-cache-tooltip =
+    .title = Ezarrita badago, Ezarrita badago, HTTP cachea desgaitu egingo da tresna-kutxa zabalik duten fitxa guztietan. Aukera honek ez die zerbitzu-langileei eragiten.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desgaitu JavaScript *
 options-disable-javascript-tooltip =
     .title = Ezarrita badago, JavaScript desgaituko da uneko fitxan. Fitxa edo tresna-kutxa itxita badaude, ezarpen hau ahaztu egingo da.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Gaitu nabigatzailearen interfazea eta gehigarriak arazteko tresna-kutxak
+options-enable-chrome-tooltip =
+    .title = Ezarrita badago, hainbat garatzaile-tresna nabigatzailearen testuinguruan erabili (Tresnak > Web garapena > Nabigatzailearen tresna-kutxa bidez) eta gehigarrien kudeatzailetik araztu ahal izango dituzu
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Gaitu urruneko arazketa
+options-enable-remote-tooltip =
+    .title = Ezarrita badago, garatzaile-tresnekin urruneko instantziak araztu ahal izango dira, adibidez Firefox OS
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Gaitu zerbitzu-langileak HTTP bidez (tresna-kutxa irekita dagoenean)
+options-enable-service-workers-http-tooltip =
+    .title = Ezarrita badago, zerbitzu-langileak HTTP bidez erabilgarri egongo dira tresna-kutxa zabalik duten fitxa guztietan.
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Gaitu iturburu-mapak
 
 ##
 
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Erakutsi Gecko plataformaren datuak
+options-show-platform-data-tooltip =
+    .title = Aukera hau gaituz gero, JavaScript analizatzailearen txostenek Gecko plataformaren sinboloak izango dituzte
