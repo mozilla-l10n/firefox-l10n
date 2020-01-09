@@ -8,6 +8,8 @@
 
 ## Default Developer Tools section
 
+# The heading
+options-select-default-tools-label = Predvolené vývojárske nástroje
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * nie je podporované pre aktuálny kontext
@@ -53,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Snímky obrazovky
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Uložiť snímku obrazovky do schránky
+options-screenshot-clipboard-tooltip =
+    .title = Uloží snímku obrazovky priamo do schránky
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Prehrať zvuk spúšte fotoaparátu
+options-screenshot-audio-tooltip =
+    .title = Povolí zvuk fotoaparátu pri tvorbe snímok obrazovky
 
 ## Editor section
 
@@ -75,6 +87,10 @@ options-sourceeditor-keybinding-default-label = Predvolené
 
 # The heading
 options-context-advanced-settings = Rozšírené nastavenia
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Zakázať vyrovnávaciu pamäť HTTP (ak sú otvorené vývojárske nástroje)
+options-disable-http-cache-tooltip =
+    .title = Zapnutím tejto voľby bude vyrovnávacia pamäť HTTP vypnutá pre všetky karty, ktoré majú otvorené nástroje. Service Workery nebudú touto voľbou ovplyvnené.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Zakázať JavaScript *
 options-disable-javascript-tooltip =
@@ -85,10 +101,16 @@ options-enable-chrome-tooltip =
     .title = Zapnutie tejto voľby vám umožní ladiť doplnky z okna Správcu doplnkov a používať rôzne vývojárske nástroje aj pre kontext prehliadača (Nástroje > Webový vývojár > Nástroje prehliadača)
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Povoliť vzdialené ladenie
+options-enable-remote-tooltip =
+    .title = Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie vzdialených inštancií, napr. Firefox OS
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Povoliť Service Workery cez HTTP (ak sú vývojárske nástroje otvorené)
 options-enable-service-workers-http-tooltip =
     .title = Zapnutie tejto voľby povolí service workers cez HTTP pre všetky karty, ktoré majú otvorené vývojárske nástroje
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Povoliť zdrojové mapy
+options-source-maps-tooltip =
+    .title = Ak túto voľbu zapnete, zdroje budú mapované v nástrojoch.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Len pre aktuálnu reláciu, opäť načíta obsah stránky
 
