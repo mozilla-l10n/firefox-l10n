@@ -90,10 +90,17 @@ newtab-privacy-modal-header = La tua privacy è importante.
 newtab-privacy-modal-paragraph =
     Oltre a servirti storie accattivanti, ti mostriamo anche contenuti,
     pertinenti e attentamente curati, promossi da un gruppo selezionato di
-    sponsor. Ti assicuriamo che nessun dato relativo alla tua navigazione viene
+    sponsor. Ti garantiamo che nessun dato relativo alla tua navigazione viene
     condiviso dalla tua copia personale di { -brand-product-name }. Noi non
     abbiamo accesso a queste informazioni, e tantomeno ce l’hanno i nostri
     sponsor.
+newtab-privacy-modal-paragraph-2 =
+    Oltre a servirti storie accattivanti, ti mostriamo anche contenuti,
+    pertinenti e attentamente curati, promossi da un gruppo selezionato di
+    sponsor. Ti garantiamo che <strong>nessun dato relativo alla tua navigazione
+    viene condiviso dalla tua copia personale di { -brand-product-name }</strong>.
+    Noi non abbiamo accesso a queste informazioni, e tantomeno ce l’hanno i
+    nostri sponsor.
 newtab-privacy-modal-link = Scopri come funziona la privacy nella pagina Nuova scheda
 
 ##
