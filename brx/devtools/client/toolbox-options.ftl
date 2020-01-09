@@ -8,9 +8,22 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * दानि टुलबाक्सु थांखिनि थाखाय बेफाजाब होआखै
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = add-ons जों इनष्टल खालामखानाय जौगाखांहोग्रा टुल
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = मोननो हाथाव टुलबाक्सु बुथाम
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = थिम
 
 ## Inspector section
 
+# The heading
+options-context-inspector = नायबिजिरग्रा
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ब्राउजार आदबखौ दिन्थि
 options-show-user-agent-styles-tooltip =
@@ -18,10 +31,16 @@ options-show-user-agent-styles-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = डिफल्ट गाबनि सानगुदि
 options-default-color-unit-hex = Hex
+options-default-color-unit-hsl = HSL
+options-default-color-unit-rgb = RGB
+options-default-color-unit-name = गाबनि मुं
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = आदब सुजुगिरि
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = हार्सिं-जोबनाय CSS
 options-stylesheet-autocompletion-tooltip =
@@ -49,15 +68,21 @@ options-sourceeditor-keybinding-default-label = डिफल्ट
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = जौगाहोनाय सेटिं
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = जाभास्क्रिप्टखौ लोरबां खालाम
 options-disable-javascript-tooltip =
     .title = बे उफ्राखौ अन खालामोब्ला दानि टेबनि थाखाय जाभास्क्रिप्टखौ लोरबां खालामगोन। टेब एबा टुलबाक्सुखौ बन्द खालामोब्ला बे सेटिंखौ बावलांगोन।
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = रिमट डेबागिंखौ हाहोनाय खालाम
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = दानि जथुम्माल', बिलाइखौ फिन ल'ड खालामो
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = डेबागार
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Gecko प्लेटफर्म डाटाखौ दिन्थि
