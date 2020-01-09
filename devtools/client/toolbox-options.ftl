@@ -11,6 +11,9 @@
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * nie je podporované pre aktuálny kontext
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Vývojárske nástroje nainštalované doplnkami
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Dostupné tlačidlá Vývojárskych nástrojov
@@ -25,6 +28,8 @@ options-context-inspector = Prieskumník
 options-show-user-agent-styles-label = Zobraziť štýly prehliadača
 options-show-user-agent-styles-tooltip =
     .title = Povolením tejto možnosti zobrazíte predvolené štýly, ktoré sú načítavané prehliadačom
+# The label for the checkbox option to enable collapse attributes
+options-collapse-attrs-label = Skrátené DOM atribúty
 options-collapse-attrs-tooltip =
     .title = Skrátené dlhé atribúty v prieskumníkovi
 
@@ -82,11 +87,15 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Povoliť vzdialené ladenie
 options-enable-service-workers-http-tooltip =
     .title = Zapnutie tejto voľby povolí service workers cez HTTP pre všetky karty, ktoré majú otvorené vývojárske nástroje
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = Povoliť zdrojové mapy
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Len pre aktuálnu reláciu, opäť načíta obsah stránky
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Ladenie
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Zobrazovať údaje platformy Gecko
