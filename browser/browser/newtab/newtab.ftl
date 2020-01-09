@@ -87,9 +87,10 @@ newtab-menu-show-privacy-info = 我們的贊助商與您的隱私權
 newtab-privacy-modal-button-done = 完成
 newtab-privacy-modal-header = 您的隱私相當重要。
 newtab-privacy-modal-paragraph = 除了提供吸引人的文章之外，我們還與贊助商合作提供與您相關，且經精挑細選的內容。請放心，您的上網資料絕對不會流出於您電腦上的 { -brand-product-name } 之外 — 我們跟我們的贊助商都不會看到。
+newtab-privacy-modal-paragraph-2 = 除了提供吸引人的文章之外，我們還與贊助商合作提供與您相關，且經精挑細選的內容。請放心，<strong>您的上網資料絕對不會流出於您電腦上的 { -brand-product-name } 之外</strong>— 我們跟我們的贊助商都不會看到。
 newtab-privacy-modal-link = 了解我們如何在提供新分頁內容的同時確保您的隱私
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = 移除書籤
@@ -176,7 +177,6 @@ newtab-discovery-empty-section-topstories-timed-out = 唉呀，暫時無法載�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 熱門主題:
 newtab-pocket-more-recommendations = 更多推薦項目
-newtab-pocket-how-it-works = 原理是什麼
 newtab-pocket-whats-pocket = { -pocket-brand-name } 是什麼？
 newtab-pocket-cta-button = 取得 { -pocket-brand-name }
 newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }，閱讀一篇篇好文章。
