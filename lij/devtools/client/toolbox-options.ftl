@@ -8,12 +8,31 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * No soportou pe-o target corente di strumenti
+# The label for the heading of group of checkboxes corresponding to the developer tools
+# added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
+options-select-additional-tools-label = Strumenti do svilupatô instalæ da componenti azonti
+# The label for the heading of group of checkboxes corresponding to the default developer
+# tool buttons.
+options-select-enabled-toolbox-buttons-label = Pomelli disponibili
+# The label for the heading of the radiobox corresponding to the theme
+options-select-dev-tools-theme-label = Temi:
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Analixi pagina
+# The label for the checkbox option to show user agent styles
+options-show-user-agent-styles-label = Amia stili do navegatô
+options-show-user-agent-styles-tooltip =
+    .title = Ativando sta opçion saiâ mostrou i stili predefinii caregæ do-u navegatô.
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = Unitæ predefinia coi:
+options-default-color-unit-authored = comme l’òriginale
 options-default-color-unit-hex = ezadeçimale
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
@@ -21,19 +40,58 @@ options-default-color-unit-name = nommi di coî
 
 ## Style Editor section
 
+# The heading
+options-styleeditor-label = Editô do stile
+# The label for the checkbox that toggles autocompletion of css in the Style Editor
+options-stylesheet-autocompletion-label = Conpletamento aotomatico CSS
+options-stylesheet-autocompletion-tooltip =
+    .title = Conpleta aotomaticamente inta scritua into Editô do stile e proprietæ CSS, i valori e i selettori
 
 ## Screenshot section
 
 
 ## Editor section
 
+# The heading
+options-sourceeditor-label = Preferenze editô
 options-sourceeditor-detectindentation-tooltip =
     .title = Çerca de identificâ o rientro do testo in baze a-o còdice sorgente
+options-sourceeditor-detectindentation-label = Rileva tipo de rientro
+options-sourceeditor-autoclosebrackets-tooltip =
+    .title = Inserisci aotomaticamente e parentexi pe serâ
+options-sourceeditor-autoclosebrackets-label = Særa parentexi aotomaticamente
+options-sourceeditor-expandtab-tooltip =
+    .title = Deuvia spaççi veui a-o pòsto do carattere de tabolaçion
+options-sourceeditor-expandtab-label = Deuvia spaçio pe rientri
+options-sourceeditor-tabsize-label = Dimenscion tabolaçion
+options-sourceeditor-keybinding-label = Pomelli çerna rapida
+options-sourceeditor-keybinding-default-label = Predefinio
 
 ## Advanced section
 
 # The heading
 options-context-advanced-settings = Inpostaçioin avansæ
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label = Dizativa JavaScript
+options-disable-javascript-tooltip =
+    .title = Ativando sta opçion, JavaScript o saiâ dizativou pe o feuggio corente. Se o feuggio ò i strumenti pe-i svilupatoî vegnan seræ l'inpostaçion saiâ scancelâ.
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = Ativa debug chrome do navegatô e conponenti azonti
+options-enable-chrome-tooltip =
+    .title = Ativando sta opçion se peu adeuviâ diversci strumenti do svilupatô diretamente dò-u navegatô (da Strumenti > Svilupatô web > Strumenti) e fâ o debug di conponenti agzonti
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Ativa debug remòtto
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = Ativa Service worker via HTTP (quande i strumenti en averti)
+options-enable-service-workers-http-tooltip =
+    .title = Ativando sta opçion saiâ ativou o Service worker via HTTP in tutte i feuggi dove gh'é i strumenti averti.
+# The message shown for settings that trigger page reload
+options-context-triggers-page-refresh = * solo sescion corente, recarega a pagina
 
 ##
 
+# The label for the checkbox that toggles the display of the platform data in the
+# Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
+options-show-platform-data-label = Fanni vedde i daæti piataforma Gecko
+options-show-platform-data-tooltip =
+    .title = Ativando sta opçion i rapòrti do Profiler JavaScript contegnian i scinboli da piataforma Gecko
