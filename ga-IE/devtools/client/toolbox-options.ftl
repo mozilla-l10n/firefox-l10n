@@ -51,7 +51,7 @@ options-styleeditor-label = Eagarthóir Stíle
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS a uathlíonadh
 options-stylesheet-autocompletion-tooltip =
-    .title = Déan uathlíonadh beo d'airíonna, luachanna, agus roghnóirí CSS san Eagarthóir Stíle{ " " }
+    .title = Déan uathlíonadh beo d'airíonna, luachanna, agus roghnóirí CSS san Eagarthóir Stíle
 
 ## Screenshot section
 
