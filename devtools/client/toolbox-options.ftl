@@ -24,12 +24,16 @@ options-select-dev-tools-theme-label = Ciŋkooje
 
 ## Inspector section
 
+# The heading
+options-context-inspector = Yuurnitorde
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Hollu Panni Wanngorde
 options-show-user-agent-styles-tooltip =
     .title = Huɓɓude ɗum maa hollu panni goowooɗi ɗi wanngorde ndee loowi.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Dottu joopanɗe DOM
+options-collapse-attrs-tooltip =
+    .title = Dottu joopanɗe juuɗɗe nder yuurnitorde nde
 
 ## "Default Color Unit" options for the Inspector
 
@@ -51,6 +55,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Jikkorde Nokitol Yaynirde
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-label = Nokitol yaynirde to ɗakkitorde
+options-screenshot-clipboard-tooltip =
+    .title = Danndat nokitol yaynirde bec to ɗakkitorde
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = Taro hito guddirgel kameraa
+options-screenshot-audio-tooltip =
+    .title = Hurminat hito ojoo kameraa oo tuma ƴettugol nokitol naynirde
 
 ## Editor section
 
@@ -102,6 +116,8 @@ options-context-triggers-page-refresh = * Rogere wonaande tan, ina loowta hello 
 
 ##
 
+# The heading for the Debugger section
+options-debugger-label = Buggitorde
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Hollu keɓe yuɓɓo Gecko
