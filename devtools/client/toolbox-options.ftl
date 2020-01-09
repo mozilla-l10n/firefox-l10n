@@ -8,6 +8,9 @@
 
 ## Default Developer Tools section
 
+# The label for the explanation of the * marker on a tool which is currently not supported
+# for the target of the toolbox.
+options-tool-not-supported-label = * Non géré pour la cible actuelle de la boîte à outils
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Outils installés via modules complémentaires
@@ -80,6 +83,8 @@ options-sourceeditor-keybinding-default-label = Par défaut
 
 ## Advanced section
 
+# The heading
+options-context-advanced-settings = Paramètres avancés
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Désactiver le cache HTTP (lorsque la boîte à outils est ouverte)
 options-disable-http-cache-tooltip =
@@ -92,6 +97,8 @@ options-disable-javascript-tooltip =
 options-enable-chrome-label = Activer le débogage du chrome du navigateur et des modules
 options-enable-chrome-tooltip =
     .title = Activer cette option vous permettra d’utiliser divers outils de développement dans le contexte du navigateur (via Outils > Développement web > Boîte à outils du navigateur) et de déboguer des modules depuis le gestionnaire de modules complémentaires
+# The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
+options-enable-remote-label = Activer le débogage distant
 options-enable-remote-tooltip =
     .title = Activer cette option permettra de déboguer grâce aux outils de développement, une instance distante telle que Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
