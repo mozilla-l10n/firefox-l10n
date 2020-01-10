@@ -158,3 +158,32 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = 這是安全的 { -brand-short-name } 頁面。
+identity-connection-file = 此頁面位於您的電腦上。
+identity-active-blocked = { -brand-short-name } 已經封鎖此頁面中不安全的部分。
+identity-passive-loaded = 本頁面中的部分內容（例如圖片）並不安全。
+identity-active-loaded = 您已停用此頁面中的保護。
+identity-weak-encryption = 此頁面使用了弱強度的加密。
+identity-insecure-login-forms = 在此頁面輸入的登入資訊可能會被洩漏。
+identity-permissions-empty = 您並未授予此網站任何特殊權限。
+identity-remove-cert-exception =
+    .label = 移除例外
+    .accesskey = R
+identity-description-insecure = 您到此網站的連線並不私密。您發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。
+identity-description-insecure-login-forms = 此頁面並不安全，您的登入資訊可能會被洩漏。
+identity-description-weak-cipher-intro = 您與此網站間的連線使用了弱強度的加密，並不私密。
+identity-description-weak-cipher-risk = 其他人可以看到您的資訊，或修改網站的行為。
+identity-description-passive-loaded = 您的連線並不私密，您提供給此網站的資訊可能會被其他人看到。
+identity-description-active-loaded = 此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。
+identity-description-active-loaded-insecure = 您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。
+identity-disable-mixed-content-blocking =
+    .label = 暫時停止保護
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = 啟用保護
+    .accesskey = E
+identity-more-info-link-text =
+    .label = 更多資訊
