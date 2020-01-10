@@ -112,3 +112,39 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = Déanta
+
+## Identity Panel
+
+identity-connection-internal = Is leathanach slán { -brand-short-name } é seo.
+identity-connection-file = Stóráiltear an leathanach seo ar do ríomhaire.
+identity-extension-page = Lódáiltear an leathanach seo ó eisínteacht.
+identity-active-blocked = Chuir { -brand-short-name } bac ar chodanna den leathanach seo nach bhfuil slán.
+identity-passive-loaded = Tá codanna den leathanach seo neamhshlán (léithéidí íomhánna).
+identity-active-loaded = Tá cosaint díchumasaithe agat ar an leathanach seo.
+identity-weak-encryption = Úsáideann an leathanach seo criptiú lag.
+identity-insecure-login-forms = D'fhéadfadh sonraí logáil isteach bheith i mbaol ar an leathanach seo.
+identity-permissions-reload-hint = Ní mór duit an leathanach a athlódáil chun na hathruithe a chur i bhfeidhm.
+identity-permissions-empty = Níor thug tú aon chead speisialta don suíomh seo.
+identity-remove-cert-exception =
+    .label = Bain an Eisceacht
+    .accesskey = B
+identity-description-insecure = Níl do cheangal leis an suíomh seo príobháideach. D'fhéadfadh daoine eile an t-eolas a aighníonn tú a fheiscint (leithéidí focail faire, teachtaireachtaí, cártaí creidmheasa, etc.)
+identity-description-insecure-login-forms = Níl an fhaisnéis chuntais a chuireann tú isteach ar an leathanach seo seolta thar ceangal slán, agus seans go mbeadh bradaí in ann teacht air.
+identity-description-weak-cipher-intro = Úsáideann do cheangal leis an suíomh seo criptiúchán lag nach bhfuil príobháideach.
+identity-description-weak-cipher-risk = Is féidir le daoine eile do chuid sonraí a fheiceáil agus iompar an tsuímh a athrú.
+identity-description-active-blocked = Chuir { -brand-short-name } bac ar chodanna den leathanach seo nach bhfuil slán. <label data-l10n-name="link">Tuilleadh Eolais</label>
+identity-description-passive-loaded = Níl do cheangal príobháideach, leis seo d'fhéadfadh daoine eile aon eolas a roinneann tú ar an suíomh a fheiscint.
+identity-description-passive-loaded-insecure = Tá ábhar neamhshlán ar an suíomh seo (leithéidí íomhánna). <label data-l10n-name="link">Tuilleadh Eolais</label>
+identity-description-passive-loaded-mixed = Cé gur chuir { -brand-short-name } bac ar roinnt ábhar, tá ábhar neamhshlán ar an leathanach seo go fóill (leithéidí íomhánna). <label data-l10n-name="link">Tuilleadh Eolais</label>
+identity-description-active-loaded = Tá ábhar neamhshlán ar an suíomh seo (leithéidí scripteanna) agus níl do cheangal leis príobháideach.
+identity-description-active-loaded-insecure = D'fhéadfadh daoine eile an t-eolas a roinneann tú ar an suíomh seo a fheiscint (leithéidí focail faire, teachtaireachtaí, cártaí creidmheasa, etc.)
+identity-learn-more =
+    .value = Tuilleadh Eolais
+identity-disable-mixed-content-blocking =
+    .label = Díchumasaigh cosaint don am i láthair
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Cumasaigh cosaint
+    .accesskey = C
+identity-more-info-link-text =
+    .label = Tuilleadh Eolais
