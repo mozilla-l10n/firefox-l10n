@@ -161,21 +161,47 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Conexão insegura
+identity-connection-secure = Conexão segura
 identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
 identity-connection-file = Esta página está armazenada no seu computador.
 identity-extension-page = Esta página é carregada a partir de uma extensão.
+identity-active-blocked = O { -brand-short-name } bloqueou partes não seguras desta página.
+identity-custom-root = Conexão homologada por uma entidade certificadora que não é reconhecida pela Mozilla.
+identity-passive-loaded = Partes desta página não são seguras (como imagens).
 identity-active-loaded = Você desativou a proteção nesta página.
 identity-weak-encryption = Esta página usa criptografia fraca.
 identity-insecure-login-forms = As contas de acesso inseridas nesta página podem ser comprometidas.
+identity-permissions =
+    .value = Permissões
 identity-permissions-reload-hint = Pode ser necessário recarregar a página para que as alterações sejam aplicadas.
 identity-permissions-empty = Você não concedeu permissões especiais a este site.
+identity-clear-site-data =
+    .label = Limpar os cookies e dados do site…
+identity-connection-not-secure-security-view = Você não está conectado com segurança a este site.
+identity-connection-verified = Você está conectado com segurança a este site.
+identity-ev-owner-label = Certificado emitido para:
+identity-description-custom-root = A Mozilla não reconhece esta entidade certificadora. Ela pode ter sido adicionada pelo seu sistema operacional ou por um administrador. <label data-l10n-name="link">Saiba mais</label>
 identity-remove-cert-exception =
     .label = Remover exceção
     .accesskey = R
+identity-description-insecure = Sua conexão com este site não é privativa. As informações que enviar (como senhas, mensagens, cartões de créditos, etc) podem ser vistas por outros.
 identity-description-insecure-login-forms = As informações de acesso que você inserir nesta página não estão seguras e podem ser comprometidas.
+identity-description-weak-cipher-intro = Sua conexão com este site usa criptografia fraca e não é privativa.
+identity-description-weak-cipher-risk = Outras pessoas podem ver as suas informações ou modificar o comportamento do site.
+identity-description-active-blocked = O { -brand-short-name } bloqueou partes não seguras desta página. <label data-l10n-name="link">Saiba mais</label>
 identity-description-passive-loaded = Sua conexão não é privativa e as informações que compartilhar com o site podem ser vistas por outros.
+identity-description-passive-loaded-insecure = Este site tem conteúdo que não é seguro (como imagens). <label data-l10n-name="link">Saiba mais</label>
+identity-description-passive-loaded-mixed = Apesar do { -brand-short-name } ter bloqueado algum conteúdo, ainda há elementos na página que não são seguros (como imagens). <label data-l10n-name="link">Saiba mais</label>
+identity-description-active-loaded = Este site tem conteúdo que não é seguro (como scripts) e sua conexão com ele não é privativa.
+identity-description-active-loaded-insecure = Informações que você compartilhar com este site (como senhas, mensagens, cartões de créditos, etc) podem ser vistas por terceiros.
+identity-learn-more =
+    .value = Saiba mais
 identity-disable-mixed-content-blocking =
     .label = Desativar proteção por enquanto
     .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Ativar proteção
+    .accesskey = e
 identity-more-info-link-text =
     .label = Mais informações
