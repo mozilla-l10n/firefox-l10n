@@ -163,12 +163,44 @@ bookmark-panel =
 
 identity-connection-not-secure = Bağlantı güvenli değil
 identity-connection-secure = Bağlantı güvenli
+identity-connection-internal = Burası güvenli bir { -brand-short-name } sayfasıdır.
+identity-connection-file = Bu sayfa bilgisayarınızda depolanıyor.
 identity-extension-page = Bu sayfa bir eklenti üzerinden yüklendi.
+identity-active-blocked = { -brand-short-name } bu sayfanın güvenli olmayan kısımlarını engelledi.
 identity-custom-root = Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.
+identity-passive-loaded = Bu sayfanın bazı kısımları (örneğin resimler) güvenli değil.
+identity-active-loaded = Bu sayfada korumayı devre dışı bıraktınız.
+identity-weak-encryption = Bu sayfada zayıf şifreleme kullanılıyor.
+identity-insecure-login-forms = Bu sayfaya girilen hesap bilgileri ele geçirilebilir.
 identity-permissions =
     .value = İzinler
+identity-permissions-reload-hint = Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.
+identity-permissions-empty = Bu siteye özel bir izin vermediniz.
 identity-clear-site-data =
     .label = Çerezleri ve site verilerini temizle…
 identity-connection-not-secure-security-view = Bu siteye güvenli bir şekilde bağlanmadınız.
 identity-connection-verified = Bu siteye güvenli bir şekilde bağlandınız.
 identity-ev-owner-label = Sertifika sahibi:
+identity-description-custom-root = Mozilla bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir. <label data-l10n-name="link">Daha fazla bilgi al</label>
+identity-remove-cert-exception =
+    .label = Ayrıcalığı kaldır
+    .accesskey = k
+identity-description-insecure-login-forms = Bu sayfaya yazdığınız hesap bilgileri güvende değildir ve saldırganlar tarafından ele geçirilebilir.
+identity-description-weak-cipher-intro = Bu siteye bağlatnınız zayıf bir şifreleme kullanıyor ve size özel değil.
+identity-description-weak-cipher-risk = Başkaları bilgilerinizi görebilir veya web sitesinin davranışını değiştirebilir.
+identity-description-active-blocked = { -brand-short-name } bu sayfanın güvenli olmayan kısımlarını engelledi. <label data-l10n-name="link">Daha fazla bilgi al</label>
+identity-description-passive-loaded = Bağlantınız size özel değil ve bu siteyle paylaştığınız bilgiler başkaları tarafından görülebilir.
+identity-description-passive-loaded-insecure = Bu sitede güvenli olmayan içerikler (resimler vb.) var. <label data-l10n-name="link">Daha fazla bilgi al</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } bazı içerikleri engellemiş olmasına rağmen bu sayfada hâlâ güvenli olmayan içerikler (örn. resimler) var. <label data-l10n-name="link">Daha fazla bilgi al</label>
+identity-description-active-loaded = Bu web sitesinde güvenli olmayan içerikler var (örn. betikler) ve siteye olan bağlantınız gizli değil.
+identity-description-active-loaded-insecure = Bu siteyle paylaştığınız bilgiler (örn. parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.
+identity-learn-more =
+    .value = Daha fazla bilgi al
+identity-disable-mixed-content-blocking =
+    .label = Korumayı şimdilik devre dışı bırak
+    .accesskey = d
+identity-enable-mixed-content-blocking =
+    .label = Korumayı etkinleştir
+    .accesskey = e
+identity-more-info-link-text =
+    .label = Daha fazla bilgi
