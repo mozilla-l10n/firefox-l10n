@@ -158,3 +158,17 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-not-secure = Bağlantı güvenli değil
+identity-connection-secure = Bağlantı güvenli
+identity-extension-page = Bu sayfa bir eklenti üzerinden yüklendi.
+identity-custom-root = Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.
+identity-permissions =
+    .value = İzinler
+identity-clear-site-data =
+    .label = Çerezleri ve site verilerini temizle…
+identity-connection-not-secure-security-view = Bu siteye güvenli bir şekilde bağlanmadınız.
+identity-connection-verified = Bu siteye güvenli bir şekilde bağlandınız.
+identity-ev-owner-label = Sertifika sahibi:
