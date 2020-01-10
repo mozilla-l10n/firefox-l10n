@@ -161,12 +161,16 @@ identity-connection-internal = Tämä on suojattu { -brand-short-name }-sivu.
 identity-connection-file = Sivu on tallennettu tietokoneellesi.
 identity-extension-page = Tämän sivun latasi laajennus.
 identity-active-blocked = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen.
+identity-custom-root = Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.
 identity-passive-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten kuvia).
 identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
 identity-weak-encryption = Sivusto käyttää heikkoa salausta.
 identity-insecure-login-forms = Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
 identity-permissions-empty = Sivustolle ei ole myönnetty mitään erityisoikeuksia.
+identity-clear-site-data =
+    .label = Poista evästeet ja sivustotiedot…
+identity-description-custom-root = Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta. <label data-l10n-name="link">Lue lisää</label>
 identity-remove-cert-exception =
     .label = Poista poikkeus
     .accesskey = s
@@ -177,6 +181,7 @@ identity-description-weak-cipher-risk = Sivullisten on mahdollista tarkastella a
 identity-description-active-blocked = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen. <label data-l10n-name="link">Lue lisää</label>
 identity-description-passive-loaded = Yhteytesi verkkosivustoon ei ole yksityinen ja sivullisten on mahdollista tarkastella tietoja, joita lähetät sivustolle.
 identity-description-passive-loaded-insecure = Tällä sivulla on suojaamatonta sisältöä (kuten kuvia). <label data-l10n-name="link">Lue lisää</label>
+identity-description-passive-loaded-mixed = Vaikka { -brand-short-name } on osittain estänyt suojaamattoman sisällön, osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat). <label data-l10n-name="link">Lue lisää</label>
 identity-description-active-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.
 identity-description-active-loaded-insecure = Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).
 identity-learn-more =
