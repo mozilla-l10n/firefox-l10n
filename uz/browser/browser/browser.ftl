@@ -162,6 +162,7 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-file = Bu sahifa kompyuteringizda saqlangan.
+identity-extension-page = Bu sahifa kengaytmadan yuklandi.
 identity-active-blocked = { -brand-short-name } ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.
 identity-passive-loaded = Ushbu sahifa qismlari xavfsiz emas (masalan, rasmlar).
 identity-active-loaded = Siz bu sahifadagi himoyani o‘chirib qo‘ygansiz.
