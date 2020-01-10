@@ -161,18 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = 안전하지 않은 연결
+identity-connection-secure = 안전한 연결
 identity-connection-internal = 안전한 { -brand-short-name } 페이지입니다.
 identity-connection-file = 이 페이지는 사용자의 컴퓨터에 저장됩니다.
 identity-extension-page = 이 페이지는 확장 기능으로부터 로드되었습니다.
 identity-active-blocked = { -brand-short-name }가 안전하지 않은 페이지의 일부를 차단했습니다.
+identity-custom-root = Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.
 identity-passive-loaded = 페이지의 일부(이미지 등)가 안전하지 않습니다.
 identity-active-loaded = 이 페이지의 보호를 비활성화 하였습니다.
 identity-weak-encryption = 이 페이지는 약한 암호화를 사용합니다.
 identity-insecure-login-forms = 이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.
+identity-permissions =
+    .value = 권한
 identity-permissions-reload-hint = 변경 사항을 적용하려면 페이지를 새로고침해야 할 수 있습니다.
 identity-permissions-empty = 이 사이트를 특별한 권한으로 승인하지 않았습니다.
 identity-clear-site-data =
     .label = 쿠키와 사이트 데이터 삭제…
+identity-connection-not-secure-security-view = 이 사이트에 안전하게 연결되어 있지 않습니다.
+identity-connection-verified = 이 사이트에 안전하게 연결되어 있습니다.
+identity-ev-owner-label = 인증서 발급 대상:
+identity-description-custom-root = Mozilla는 이 인증서 발급자를 인식하지 못합니다. 운영 체제 또는 관리자가 추가한 것일 수 있습니다. <label data-l10n-name="link">더 알아보기</label>
 identity-remove-cert-exception =
     .label = 예외 제거
     .accesskey = R
@@ -183,6 +192,7 @@ identity-description-weak-cipher-risk = 다른 사람이 정보를 보거나 웹
 identity-description-active-blocked = { -brand-short-name }가 안전하지 않은 페이지의 일부분을 차단했습니다. <label data-l10n-name="link">더 알아보기</label>
 identity-description-passive-loaded = 연결이 안전하지 않아서 사용자가 공유하는 정보를 다른 사람이 볼 수 있습니다.
 identity-description-passive-loaded-insecure = 이 웹사이트는 안전하지 않은 콘텐츠(이미지 등)을 포함하고 있습니다. <label data-l10n-name="link">더 알아보기</label>
+identity-description-passive-loaded-mixed = { -brand-short-name }가 일부 콘텐츠를 차단했지만 아직 안전하지 않은 콘텐츠(이미지 등)가 있습니다. <label data-l10n-name="link">더 알아보기</label>
 identity-description-active-loaded = 이 웹사이트는 안전하지 않은 콘텐츠(스크립트 등)를 포함하고 있고 사용자의 연결이 보호되지 않습니다.
 identity-description-active-loaded-insecure = 이 사이트에 공유하는 정보(비밀번호, 메시지, 신용 카드 번호 등)를 다른사람이 볼 수 있습니다.
 identity-learn-more =
@@ -193,3 +203,5 @@ identity-disable-mixed-content-blocking =
 identity-enable-mixed-content-blocking =
     .label = 보호 켜기
     .accesskey = E
+identity-more-info-link-text =
+    .label = 자세한 정보
