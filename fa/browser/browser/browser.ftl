@@ -157,16 +157,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = اتصال امن نیست
+identity-connection-secure = اتصال امن است
 identity-connection-internal = این یک صفحهٔ امن { -brand-short-name } است.
 identity-connection-file = این صفحه بر روی رایانه شما ذخیره شده است.
 identity-extension-page = این صفحه توسط یک افزونه بارگیری شده است.
 identity-active-blocked = { -brand-short-name } قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.
+identity-custom-root = گواهیِ این اتصال، توسط صادرکننده‌ای ایجاد شده است که برای موزیلا قابل شناسایی نیست.
 identity-passive-loaded = قسمت‌هایی از این صفحه امن نیست (مانند تصاویر).
 identity-active-loaded = شما محافظت را در این صفحه غیرفعال کرده‌اید.
 identity-weak-encryption = این صفحه از کدگذاری ضعیفی استفاده می‌کند.
 identity-insecure-login-forms = اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.
+identity-permissions =
+    .value = مجوزها
 identity-permissions-reload-hint = ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.
 identity-permissions-empty = شما به این سایت هیچ دسترسی خاصی نداده‌اید.
+identity-clear-site-data =
+    .label = حذف کوکی‌ها و اطلاعات پایگاه‌ها…
+identity-connection-not-secure-security-view = شما بطور امن به این سایت متصل نشده‌اید.
+identity-connection-verified = شما بطور امن به این سایت متصل شده‌اید.
+identity-ev-owner-label = گواهی صادر شده برای:
+identity-description-custom-root = صادر کنندهٔ این گواهی برای موزیلا قابل شناسایی نیست. ممکن است از طریق سیستم‌عامل یا مدیرِ سیستم شما اضافه شده باشد. <label data-l10n-name="link">بیشتر بدانید</label>
 identity-remove-cert-exception =
     .label = حذف استثنا
     .accesskey = ح
