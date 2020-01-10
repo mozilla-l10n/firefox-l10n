@@ -80,3 +80,8 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = Fatu
+
+## Identity Panel
+
+identity-learn-more =
+    .value = Nde chèrgio ischire de prus
