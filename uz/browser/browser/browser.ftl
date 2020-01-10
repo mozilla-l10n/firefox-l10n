@@ -161,14 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Ishonchsiz ulanish
+identity-connection-secure = Xavfsiz ulanish
+identity-connection-internal = Bu ishonchli { -brand-short-name } sahifasi.
 identity-connection-file = Bu sahifa kompyuteringizda saqlangan.
 identity-extension-page = Bu sahifa kengaytmadan yuklandi.
 identity-active-blocked = { -brand-short-name } ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.
+identity-custom-root = Aloqa Mozilla tomonidan tasdiqlanmagan sertifikat beruvchi tomonidan tasdiqlangan.
 identity-passive-loaded = Ushbu sahifa qismlari xavfsiz emas (masalan, rasmlar).
 identity-active-loaded = Siz bu sahifadagi himoyani o‘chirib qo‘ygansiz.
 identity-weak-encryption = Ushbu sahifa kuchsiz kodlash usulidan foydalanadi.
+identity-insecure-login-forms = Bu sahifaga kiritilgan ma’lumotlar o‘g‘irlanishi mumkin.
+identity-permissions =
+    .value = Ruxsatlar
 identity-permissions-reload-hint = O‘zgarishlar amalga oshishi uchun sahifani yangilashingiz kerak.
 identity-permissions-empty = Bu saytga hech qanday maxsus ruxsat bermagansiz.
+identity-clear-site-data =
+    .label = Kuki va sayt ma’lumotlarini tozalash
+identity-connection-not-secure-security-view = Bu saytga ishonchsiz aloqa bilan ulangansiz.
+identity-connection-verified = Bu saytga ishonchli aloqa bilan ulangansiz.
+identity-ev-owner-label = Sertifikat beruvchi:
+identity-description-custom-root = Mozilla bu sertifikat beruvchini tanimaydi. Uni operatsion tizim yoki administratoringiz qoʻshgan boʻlishi mumkin. <label data-l10n-name="link">Batafsil ma’lumot</label>
 identity-remove-cert-exception =
     .label = Istisnoni olib tashlash
     .accesskey = o
