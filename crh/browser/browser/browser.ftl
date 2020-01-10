@@ -144,3 +144,39 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Bu emniyetli bir { -brand-short-name } sahifesidir.
+identity-connection-file = Bu saife bilgisayarıñızda mağazlana.
+identity-extension-page = Bu saife bir eklentiden yüklengendir.
+identity-active-blocked = { -brand-short-name } bu saifeniñ emniyetli olmağan qısımlarını bloklağandır.
+identity-passive-loaded = Bu saifeniñ bazı qısımları (meselâ, suretler) emniyetli degildir.
+identity-active-loaded = Bu saifede imayeni naqabilleştirdiñiz.
+identity-weak-encryption = Bu saife zayıf şifreleme qullana.
+identity-insecure-login-forms = Bu saifede kirsetilgen içeri imzalanışlarğa halel kelebilir.
+identity-permissions-reload-hint = Deñişikliklerniñ uyğulanması içün saifeni kene yüklemeñiz kerekebilir.
+identity-permissions-empty = Bu saytqa er angi mahsus ruhsetler bergen degilsiñiz.
+identity-remove-cert-exception =
+    .label = İstisnanı Çetleştir
+    .accesskey = e
+identity-description-insecure = Bu saytqa bağlantıñız hususiy degildir. Teslim etkeniñiz malümat (sır-sözler, mesajlar, kredit kartları vs.) başqaları tarafından körülebilir edi.
+identity-description-insecure-login-forms = Bu saifede kirsetecegiñiz içeri imzalanış malümatı emniyetli degildir ve oña halel berilebilir.
+identity-description-weak-cipher-intro = Bu ağ-saytına bağlantıñız zayıf şifreleme qullana ve hususiy degildir.
+identity-description-weak-cipher-risk = Başqa kişiler malümatıñıznı körebilir yaki ağ-saytınıñ davranışını başqalaştırabilir.
+identity-description-active-blocked = { -brand-short-name } bu saifeniñ emniyetli olmağan qısımlarını bloklağandır. <label data-l10n-name="link">Daa Çoq Ögren</label>
+identity-description-passive-loaded = Bağlantıñız hususiy degildir ve bu sayt ile üleşkeniñiz malümat başqaları tarafından körülebilir edi.
+identity-description-passive-loaded-insecure = Bu sayt emniyetli olmağan muhteva (meselâ, suretler) ihtiva ete. <label data-l10n-name="link">Daa Çoq Ögren</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } bazı muhtevanı bloklağan olmasına rağmen, bu saifede halâ emniyetli olmağan muhteva (meselâ, suretler) bardır. <label data-l10n-name="link">Daa Çoq Ögren</label>
+identity-description-active-loaded = Bu sayt emniyetli olmağan muhteva (meselâ, bitikler) ihtiva ete ve oña bağlantıñız hususiy degildir.
+identity-description-active-loaded-insecure = Bu sayt ile üleşkeniñiz malümat (sır-sözler, mesajlar, kredit kartları vs. kibi) başqaları tarafından körülebilir edi.
+identity-learn-more =
+    .value = Daa Çoq Ögren
+identity-disable-mixed-content-blocking =
+    .label = Şimdilik imayeni naqabilleştir
+    .accesskey = n
+identity-enable-mixed-content-blocking =
+    .label = İmayeni qabilleştir
+    .accesskey = l
+identity-more-info-link-text =
+    .label = Daa Çoq Malümat
