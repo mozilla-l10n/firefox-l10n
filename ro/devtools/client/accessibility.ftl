@@ -32,11 +32,16 @@ accessibility-text-label-issue-fieldset-legend2 = Folosește un element <code>le
 accessibility-text-label-issue-form = Elementele din formulare trebuie să fie etichetate. <a>Află mai multe</a>
 accessibility-text-label-issue-form-visible = Elementele din formulare trebuie să aibă o etichetă text vizibilă. <a>Află mai multe</a>
 accessibility-text-label-issue-frame = Elementele <code>frame</code> trebuie să fie etichetate. <a>Află mai multe</a>
+accessibility-text-label-issue-glyph = Folosește un atribut <code>alt</code> ca să etichetezi elemente <span>mglyph</span>. <a>Află mai multe</a>
+accessibility-text-label-issue-heading = Titlurile trebuie să fie etichetate. <a>Află mai multe</a>
+accessibility-text-label-issue-heading-content = Titlurile trebuie să aibă conținut text vizibil. <a>Află mai multe</a>
+accessibility-text-label-issue-toolbar = Barele de unelte trebuie să fie etichetate dacă sunt mai mult de una. <a>Află mai multe</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Elementele focalizabile trebuie să aibă o semantică interactivă. <a>Află mai multe</a>
 accessibility-keyboard-issue-action = Elementele interactive trebuie să poată fi activate cu ajutorul unei tastaturi. <a>Află mai multe</a>
 accessibility-keyboard-issue-focusable = Elementele interactive trebuie să fie focalizabile. <a>Află mai multe</a>
 accessibility-keyboard-issue-focus-visible = Este posibil ca elementului focalizabil să îi lipsească elemente de stil pentru focalizare. <a>Află mai multe</a>
