@@ -167,10 +167,15 @@ identity-active-blocked = { -brand-short-name } ha blocau partes d'ista pachina 
 identity-passive-loaded = Bella parte d'ista pachina no ye segura (p. eix. imachens)
 identity-active-loaded = Ha desactivau a protección en ista pachina.
 identity-weak-encryption = Ista pachina fa servir zifrau feble.
+identity-permissions-reload-hint = Talment haiga de recargar la pachina pa que s'apliquen los cambios.
 identity-permissions-empty = No ha dau garra permiso especial ta iste puesto.
+identity-remove-cert-exception =
+    .label = Eliminar la excepción
+    .accesskey = x
 identity-description-insecure = A connexión ta iste puesto no ye privada. A información que ninvia podría estar visualizada por atras personas (como claus, mensaches, tarchetas de credito, etc.).
 identity-description-insecure-login-forms = A información d'inicio de sesión que introduz en ista pachina no ye segura y podría interceptar-se.
 identity-description-weak-cipher-intro = A suya connexión ta ista web fa servir un zifrau feble y no ye privada.
+identity-description-weak-cipher-risk = Atras personas podrían visualizar la información u modificar lo comportamiento d'o puesto
 identity-description-active-blocked = { -brand-short-name } ha blocau partes d'ista pachina que no son seguras. <label data-l10n-name="link">Saber-ne mas</label>
 identity-description-passive-loaded = A connexión no ye privada y a información que comparte con o puesto podría estar visualizada por atras personas.
 identity-description-passive-loaded-insecure = Iste puesto web inclui contenius que no son seguros (p. eix. imachens). <label data-l10n-name="link">Saber-ne mas</label>
@@ -179,6 +184,9 @@ identity-description-active-loaded = Iste puesto web tien contenius que no son s
 identity-description-active-loaded-insecure = A información que comparte con iste puesto podría estar vista por atros (como claus, mensaches, tarchetas de credito, etc.).
 identity-learn-more =
     .value = Saber-ne mas
+identity-disable-mixed-content-blocking =
+    .label = Desactivar a protección por agora
+    .accesskey = D
 identity-enable-mixed-content-blocking =
     .label = Activar a protección
     .accesskey = v
