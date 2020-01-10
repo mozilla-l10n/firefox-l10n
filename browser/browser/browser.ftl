@@ -161,7 +161,7 @@ bookmark-panel =
 
 ## Identity Panel
 
-identity-connection-not-secure = 连接不安全
+identity-connection-not-secure = 不安全连接
 identity-connection-secure = 安全连接
 identity-connection-internal = 这是安全的 { -brand-short-name } 页面。
 identity-connection-file = 此页面存储在您的计算机上。
