@@ -137,3 +137,28 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = នេះគឺជាទំព័រ { -brand-short-name } ដែល​មាន​សុវត្ថិភាព
+identity-connection-file = ទំព័រ​នេះ​ត្រូវ​បាន​រក្សាទុក​នៅ​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក។
+identity-active-blocked = { -brand-short-name } បាន​​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។
+identity-passive-loaded = ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​មិន​មាន​សុវត្ថិភាព​ទេ​ (ដូចជា​រូបភាព)។
+identity-active-loaded = អ្នក​បាន​បិទ​ការ​ការពារ​នៅ​លើ​ទំព័រ​នេះ។
+identity-weak-encryption = ទំព័រ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ។
+identity-insecure-login-forms = ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​
+identity-permissions-empty = អ្នក​មិន​បាន​ផ្ដល់​សិទ្ធិ​អនុញ្ញាត​ពិសេស​ណា​មួយ​​ដល់​តំបន់បណ្ដាញ​នេះ​ទេ។
+identity-description-insecure = ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​តំបន់បណ្ដាញ​នេះ​មិន​មែន​ជា​ឯកជន​ទេ។ ព័ត៌មាន​ដែល​អ្នក​ដាក់​ស្នើ​អាច​ត្រូវ​បាន​អ្នក​ផ្សេង​មើល​ឃើញ (ដូចជា​ពាក្យ​សម្ងាត់ សារ ប័ណ្ណ​ឥណទាន។ល។)។
+identity-description-insecure-login-forms = ព័ត៌មាន​ចូល​ដែល​អ្នក​​ចូល​នៅ​លើ​ទំព័រ​នេះ​មិន​មាន​សុវត្ថិភាព ហើយ​អាច​ត្រូវ​​បាន​​ធ្វើ​​ឲ្យ​រំខាន។
+identity-description-weak-cipher-intro = ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​កាន់​វិបសាយ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ និង​មិន​មែន​ជា​ឯកជន។
+identity-description-weak-cipher-risk = អ្នក​ផ្សេង​ទៀត​​អាច​មើល​ព័ត៌មាន​​របស់​អ្នក ឬ​កែប្រែ​​​ការ​ប្រព្រឹត្តិ​របស់​វេបសាយ​បាន។
+identity-description-active-blocked = { -brand-short-name } បាន​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
+identity-description-passive-loaded = ការ​តភ្ជាប់​របស់​អ្នក​​មិន​មែន​ជា​ឯកជន​ទេ ហើយអ្នក​ផ្សេង​ក៏​អាច​មើល​ឃើញ​​ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ដែរ។
+identity-description-passive-loaded-insecure = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
+identity-description-passive-loaded-mixed = ទោះបីជា { -brand-short-name } បាន​បិទ​​មាតិកា​ខ្លះ នៅតែ​មាន​​មាតិកា​នៅ​លើ​ទំព័រ​នេះ​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​រូបភាព)។ <label data-l10n-name="link">ស្វែងយល់​បន្ថែម</label>
+identity-description-active-loaded = វិបសាយ​នេះ​មាន​មាតិកា​ដែល​មិន​មាន​សុវត្ថិភាព (ដូចជា​ស្គ្រីប) ហើយ​ការ​តភ្ជាប់​របស់​អ្នក​ទៅ​​វា​គឺ​មិន​មែន​ជា​ឯកជន​ទេ។
+identity-description-active-loaded-insecure = ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ អ្នក​ផ្សេង​អាច​មើល​ឃើញ​ដែរ (ដូចជា​ពាក្យ​សម្ងាត់ សារ ប័ណ្ណ​ឥណទាន។ល។)។
+identity-learn-more =
+    .value = ស្វែងយល់​បន្ថែម
+identity-more-info-link-text =
+    .label = ព័ត៌មាន​បន្ថែម
