@@ -158,3 +158,18 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Toto je zabezpečená stránka aplikace { -brand-short-name }.
+identity-active-blocked = Aplikace { -brand-short-name } zablokovala nezabezpečené části této stránky.
+identity-passive-loaded = Části této stránky nejsou zabezpečené (například obrázky).
+identity-description-insecure-login-forms = Přihlašovací údaje, které zadáte na této stránce, nebudou zabezpečeny a mohou být vyzrazeny.
+identity-description-active-blocked = Aplikace { -brand-short-name } zablokovala nezabezpečené části této stránky. <label data-l10n-name="link">Zjistit více</label>
+identity-description-passive-loaded-insecure = Tato webová stránka obsahuje obsah, který není zabezpečen (například obrázky). <label data-l10n-name="link">Zjistit více</label>
+identity-description-passive-loaded-mixed = Ačkoli aplikace { -brand-short-name } zablokovala nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky). <label data-l10n-name="link">Zjistit více</label>
+identity-learn-more =
+    .value = Zjistit více
+identity-enable-mixed-content-blocking =
+    .label = Povolit ochranu
+    .accesskey = P
