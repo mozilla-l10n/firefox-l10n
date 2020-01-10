@@ -158,3 +158,7 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = 안전한 { -brand-short-name } 페이지입니다.
