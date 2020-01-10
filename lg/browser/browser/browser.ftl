@@ -51,3 +51,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+
+## Bookmark Panel
+
+
+## Identity Panel
+
