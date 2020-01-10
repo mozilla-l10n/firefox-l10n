@@ -161,6 +161,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Tuqqna taraɣelsant
+identity-connection-secure = Taɣellist n tuqqna
 identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
 identity-connection-file = Asebter-a yettwakles deg uselkim-inek.
 identity-extension-page = Asebter-a yuli-d seg usiɣzef.
@@ -170,6 +172,8 @@ identity-passive-loaded = Kra n yiḥricen deg usebter-a mačči d iɣelsanen (a
 identity-active-loaded = Tessenseḍ ammesten deg usebter-a.
 identity-weak-encryption = Asebter-a isseqdac awgelhen fessusen.
 identity-insecure-login-forms = Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.
+identity-permissions =
+    .value = Tisirag
 identity-permissions-reload-hint = Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.
 identity-permissions-empty = Ur tefkiḍ ara kra n tsiregt i usmel-a.
 identity-clear-site-data =
