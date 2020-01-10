@@ -154,3 +154,25 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Tämä on suojattu { -brand-short-name }-sivu.
+identity-connection-file = Sivu on tallennettu tietokoneellesi.
+identity-active-blocked = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen.
+identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
+identity-weak-encryption = Sivusto käyttää heikkoa salausta.
+identity-permissions-empty = Sivustolle ei ole myönnetty mitään erityisoikeuksia.
+identity-description-weak-cipher-intro = Yhteytesi verkkosivustoon käyttää heikkoa salausta eikä sen takia ole yksityinen.
+identity-description-active-blocked = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen. <label data-l10n-name="link">Lue lisää</label>
+identity-description-passive-loaded = Yhteytesi verkkosivustoon ei ole yksityinen ja sivullisten on mahdollista tarkastella tietoja, joita lähetät sivustolle.
+identity-learn-more =
+    .value = Lue lisää
+identity-disable-mixed-content-blocking =
+    .label = Poista suojaus käytöstä
+    .accesskey = P
+identity-enable-mixed-content-blocking =
+    .label = Ota suojaus käyttöön
+    .accesskey = O
+identity-more-info-link-text =
+    .label = Lisätietoja
