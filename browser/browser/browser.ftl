@@ -144,3 +144,38 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = এটি একটি সুরক্ষিত { -brand-short-name } পৃষ্ঠা।
+identity-connection-file = এই পাতাটি আপনার কম্পিউটার এ সংরক্ষন করা হয়েছে।
+identity-active-blocked = { -brand-short-name } এই পৃষ্ঠাতে কিছু নিরাপদ নয় এমন উপাদানকে অবরোধ করেছে।
+identity-passive-loaded = এই পাতাটির অংশ নিরাপদ নয় (যেমন ছবি)।
+identity-active-loaded = আপনি নিরাপদ নয় এমন উপাদানের থেকে সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
+identity-weak-encryption = এই পৃষ্ঠাটি দুর্বল এনক্রিপশন ব্যবহার করে।
+identity-insecure-login-forms = এই পেজে হওয়া লগইন সংকটাপন্ন হতে পারে।
+identity-permissions-reload-hint = আপনাকে হয়তো বদলগুলো দেখবার জন্য পেজটা রিলোড করতে হতে পারে।
+identity-permissions-empty = আপনি বর্তমান সাইটটিকে কোনও বিশেষ অনুমতি দেননি।
+identity-remove-cert-exception =
+    .label = ব্যাতিক্রম মুছে ফেলুন
+    .accesskey = R
+identity-description-insecure = এই সাইট টি তে আপনার কানেক্সন নিরাপদ নয়। আপনি যে তথ্যগুলি জমা করেছেন, সেগুলি অন্ন কেউ দেখতে পেতে পারেন(পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি )।
+identity-description-insecure-login-forms = আপনার দ্বারা পৃষ্ঠাটিতে প্রবেশ করানো তথ্যগুলি নিরাপদ নয় এবং এগুলি বিপদের সম্মুখীন হতে পারে।
+identity-description-weak-cipher-intro = এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং ব্যক্তিগত নয়।
+identity-description-weak-cipher-risk = অন্ন কেউ আপনার তথ্য দেখে নিয়ে সেটিকে পরিবরতন করতে পারে।
+identity-description-active-blocked = { -brand-short-name } এই পৃষ্ঠাতে কিছু নিরাপদ নয় উপাদান অবরোধ করেছে। <label data-l10n-name="link">আরও জানুন</label>
+identity-description-passive-loaded = আপনার সংযোগ সুরক্ষিত নয় এবনং সেটি অন্য কেউ দেখতে পেতে পারে।
+identity-description-passive-loaded-insecure = এই ওয়েবসাইটে নিরাপদ নয় এমন সামগ্রী রয়েছে (যেমন ছবি)। <label data-l10n-name="link">আরও জানুন</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } যদিও কিছু বিপজ্জনক সামগ্রী প্রতিরোধ করেছে, তাও সেটি পুরপুরি নিরাপদ নয় (যেমন ছবি)। <label data-l10n-name="link">আরও জানুন</label>
+identity-description-active-loaded = এই ওয়েবসাইট থেকে সংযোগ সম্পূর্ণরূপে নিরাপদ নয় কারণ এটিতে এনক্রিপশনবিহীন উপাদান (যেমন ছবি) উপস্থিত রয়েছে।
+identity-description-active-loaded-insecure = আপনি কি এই সাইটের সাথে তথ্য শেয়ার করলে সবাই দেখতে পারে (পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি)।
+identity-learn-more =
+    .value = আরও জানুন
+identity-disable-mixed-content-blocking =
+    .label = এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = সুরক্ষা সক্রিয় করুন
+    .accesskey = E
+identity-more-info-link-text =
+    .label = অধিক বিবরণ
