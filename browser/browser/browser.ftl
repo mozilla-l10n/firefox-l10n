@@ -161,15 +161,26 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Злучэнне не бяспечнае
+identity-connection-secure = Бяспечнае злучэнне
 identity-connection-internal = Гэта бяспечная { -brand-short-name } старонка.
 identity-connection-file = Гэта старонка захоўваецца на вашым камп'ютары.
 identity-active-blocked = { -brand-short-name } заблакаваў небяспечныя часткі старонкі.
+identity-custom-root = Падключэнне пацверджана сертыфікатам эмітэнта, які не прызнаны Mozilla.
 identity-passive-loaded = Некаторыя часткі гэтай старонкі небяспечныя (напрыклад, выявы).
 identity-active-loaded = Вы адключылі ахову на гэтай старонцы.
 identity-weak-encryption = Гэта старонка ўжывае слабы тып шыфравання.
 identity-insecure-login-forms = Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.
+identity-permissions =
+    .value = Дазволы
 identity-permissions-reload-hint = Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.
 identity-permissions-empty = Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.
+identity-clear-site-data =
+    .label = Выдаліць кукі і дадзеныя сайтаў…
+identity-connection-not-secure-security-view = Вы не злучаны бяспечна з гэтым сайтам.
+identity-connection-verified = Вы бяспечна злучаны з гэтым сайтам.
+identity-ev-owner-label = Сертыфікат выдадзены:
+identity-description-custom-root = Mozilla не прызнае гэтага выдаўца сертыфікатаў. Магчыма, ён дададзены з вашай аперацыйнай сістэмы ці адміністратарам. <label data-l10n-name="link">Даведацца больш</label>
 identity-remove-cert-exception =
     .label = Выдаліць выключэнне
     .accesskey = В
