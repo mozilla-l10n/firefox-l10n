@@ -888,6 +888,8 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "Zure Firefox eraberritua 2020an iritsiko da">
+<!ENTITY activity_stream_firefox_promo_description "Laster zuekin: hobetutako errendimendua. Jarraipenaren babes aurreratua. Eta sarean gustuko dituzunak bilatu, gorde eta partekatzeko diseinatutako eginbideak.">
+<!ENTITY activity_stream_firefox_promo_button "Emaiozu begirada bat">
 
 <!ENTITY activity_stream_topsites "Gune erabilienak">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
