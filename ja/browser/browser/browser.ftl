@@ -160,6 +160,7 @@ bookmark-panel =
 identity-connection-not-secure = 安全ではない接続
 identity-connection-secure = 安全な接続
 identity-connection-internal = このページは { -brand-short-name } の安全な内部ページです。
+identity-connection-file = これはあなたのコンピューターに保存されているページです。
 identity-extension-page = このページは拡張機能から読み込まれています。
 identity-active-blocked = このページの一部が安全でないため { -brand-short-name } がブロックしました。
 identity-custom-root = Mozilla が承認していない発行者の証明書で検証された接続です。
