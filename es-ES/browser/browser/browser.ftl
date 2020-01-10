@@ -167,6 +167,7 @@ identity-connection-internal = Esta es una página segura de { -brand-short-name
 identity-connection-file = Esta página se guarda en su equipo.
 identity-extension-page = Esta página está cargada desde una extensión.
 identity-active-blocked = { -brand-short-name } ha bloqueado partes de esta página que no son seguras.
+identity-custom-root = Conexión verificada por un emisor de certificados que Mozilla no reconoce.
 identity-passive-loaded = Partes de esta página no son seguras (como imágenes).
 identity-active-loaded = Tiene la protección desactivada en esta página.
 identity-weak-encryption = Esta página usa cifrado débil.
