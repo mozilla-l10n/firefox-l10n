@@ -55,3 +55,12 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = تبدیل کْریو تلاش سیٹینگ
+
+## Bookmark Panel
+
+
+## Identity Panel
+
+identity-disable-mixed-content-blocking =
+    .label = حفاظت کْریو ڈیسیبْل وْنئ &
+    .accesskey = D
