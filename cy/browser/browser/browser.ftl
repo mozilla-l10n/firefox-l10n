@@ -158,3 +158,38 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Mae hon yn dudalen { -brand-short-name } diogel.
+identity-connection-file = Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.
+identity-active-blocked = Mae { -brand-short-name } wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.
+identity-passive-loaded = Nid yw rhannau o'r dudalen hon yn ddiogel (megis delweddau).
+identity-active-loaded = Rydych wedi analluogi diogelwch ar y dudalen hon.
+identity-weak-encryption = Mae'r dudalen hon yn defnyddio amgryptiad gwan.
+identity-insecure-login-forms = Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.
+identity-permissions-reload-hint = Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.
+identity-permissions-empty = Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.
+identity-remove-cert-exception =
+    .label = Tynnu Eithriad
+    .accesskey = E
+identity-description-insecure = Nid yw eich cysylltiad â'r dudalen hon yn breifat. Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).
+identity-description-insecure-login-forms = Nid yw'r manylion mewngofnodi rydych wedi ei roi i'r dudalen yn ddiogel a gall fod wedi ei danseilio.
+identity-description-weak-cipher-intro = Mae eich cysylltiad i'r wefan hon yn defnyddio amgryptiad gwan ac nid yw'n breifat.
+identity-description-weak-cipher-risk = Gall bobl eraill weld eich manylion neu newid ymddygiad y wefan.
+identity-description-active-blocked = Mae { -brand-short-name } wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel. <label data-l10n-name="link">Dysgu Rhagor</label>
+identity-description-passive-loaded = Nid yw eich cysylltiad yn breifat ac mae'n bosib i wybodaeth rydych yn ei rannu gael ei weld gan eraill.
+identity-description-passive-loaded-insecure = Mae'r wefan yn cynnwys deunydd nad yw'n ddiogel (megis delweddau). <label data-l10n-name="link">Dysgu Rhagor</label>
+identity-description-passive-loaded-mixed = Er bod { -brand-short-name } wedi rhwystro peth cynnwys, mae cynnwys dal ar y dudalen nad yw'n ddiogel (megis delweddau). <label data-l10n-name="link">Dysgu Rhagor</label>
+identity-description-active-loaded = Mae'r wefan yn cynnwys yn deunydd nad yw'n ddiogel (megis sgriptiau) ac nid yw eich cysylltiad â nhw'n breifat.
+identity-description-active-loaded-insecure = Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).
+identity-learn-more =
+    .value = Dysgu Rhagor
+identity-disable-mixed-content-blocking =
+    .label = Analluogi diogelu dros dro
+    .accesskey = A
+identity-enable-mixed-content-blocking =
+    .label = Galluogi diogelu
+    .accesskey = G
+identity-more-info-link-text =
+    .label = Rhagor o Wybodaeth
