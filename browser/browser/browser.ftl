@@ -158,3 +158,33 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
+identity-extension-page = Ova stranica je učitana iz dodatka.
+identity-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
+identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
+identity-active-loaded = Isključili ste zaštitu za ovu stranicu.
+identity-weak-encryption = Ova stranica koristi slabu enkripciju.
+identity-insecure-login-forms = Prijave na ovoj stranici mogu biti kompromitirane.
+identity-permissions-reload-hint = Trebali biste ponovno osvježiti stranicu radi primjene izmjena.
+identity-permissions-empty = Ovoj stranici niste dali nikakva posebna dopuštenja.
+identity-remove-cert-exception =
+    .label = Ukloni iznimku
+    .accesskey = U
+identity-description-insecure-login-forms = Pristupni podaci koje unesete na ovoj stranici nisu sigurni i mogu biti kompromitirani.
+identity-description-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni. <label data-l10n-name="link">Saznajte više</label>
+identity-description-passive-loaded-insecure = Ova stranica ima sadržaj koji nije siguran (npr. slike). <label data-l10n-name="link">Saznajte više</label>
+identity-description-passive-loaded-mixed = Iako je { -brand-short-name } blokirao dio sadržaja, još uvijek postoje nesigurni sadržaji na ovoj stranici (poput slika). <label data-l10n-name="link">Saznajte više</label>
+identity-description-active-loaded-insecure = Informacije koje dijelite s ovom stranicom (npr. lozinke, poruke, broj kreditne kartice itd.) može vidjeti treća strana.
+identity-learn-more =
+    .value = Saznajte više
+identity-disable-mixed-content-blocking =
+    .label = Onemogući zaštitu za sada
+    .accesskey = d
+identity-enable-mixed-content-blocking =
+    .label = Omogući zaštitu
+    .accesskey = O
+identity-more-info-link-text =
+    .label = Više informacija
