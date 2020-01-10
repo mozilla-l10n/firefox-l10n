@@ -176,6 +176,8 @@ identity-permissions-reload-hint = Maaaring kailangan mong i-reload ang pahina p
 identity-permissions-empty = Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.
 identity-clear-site-data =
     .label = Burahin ang mga Cookie at Site Data…
+identity-connection-not-secure-security-view = Ikaw ay hindi ligtas na nakakonekta sa site na ito.
+identity-connection-verified = Ikaw ay ligtas na nakakonekta sa site na ito.
 identity-ev-owner-label = Inisyu ang certificate kay:
 identity-description-custom-root = Hindi kilala ng Mozilla ang certificate issuer na ito. Maaari itong nadagdag sa iyong operating system o ng isang administrator. <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-remove-cert-exception =
