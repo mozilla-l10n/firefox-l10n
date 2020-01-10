@@ -91,3 +91,12 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = Fäerdeg
+
+## Identity Panel
+
+identity-connection-file = Dës Säit ass op Dengem Computer gespäichert.
+identity-weak-encryption = Dës Säit benotzt eng schwaach Verschlësselung.
+identity-learn-more =
+    .value = Fir méi ze wëssen
+identity-more-info-link-text =
+    .label = Méi Informatiounen
