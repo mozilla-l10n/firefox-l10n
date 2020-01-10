@@ -154,3 +154,11 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 30em
+
+## Identity Panel
+
+identity-extension-page = Ina extensiun ha chargià questa pagina.
+identity-insecure-login-forms = Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.
+identity-permissions-reload-hint = Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.
+identity-more-info-link-text =
+    .label = Mussar detagls
