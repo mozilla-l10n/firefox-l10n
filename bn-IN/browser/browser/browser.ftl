@@ -149,6 +149,7 @@ bookmark-panel =
 
 identity-connection-internal = এটি একটি সুরক্ষিত { -brand-short-name } পৃষ্ঠা।
 identity-connection-file = এই পাতাটি আপনার কম্পিউটার এ সংরক্ষন করা হয়েছে।
+identity-extension-page = এই পৃষ্ঠাটিকে একটি এক্সটেনশন থেকে লোড করা হয়।
 identity-active-blocked = { -brand-short-name } এই পৃষ্ঠাতে কিছু নিরাপদ নয় এমন উপাদানকে অবরোধ করেছে।
 identity-passive-loaded = এই পাতাটির অংশ নিরাপদ নয় (যেমন ছবি)।
 identity-active-loaded = আপনি নিরাপদ নয় এমন উপাদানের থেকে সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
