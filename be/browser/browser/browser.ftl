@@ -158,3 +158,9 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 25em
+
+## Identity Panel
+
+identity-active-blocked = { -brand-short-name } заблакаваў небяспечныя часткі старонкі.
+identity-weak-encryption = Гэта старонка ўжывае слабы тып шыфравання.
+identity-description-insecure = Ваша злучэнне з гэтым сайтам не з'яўляецца прыватным. Інфармацыя, якую вы ўводзіце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).
