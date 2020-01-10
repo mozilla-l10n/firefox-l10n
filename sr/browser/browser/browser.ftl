@@ -156,6 +156,7 @@ identity-passive-loaded = Делови ове странице нису безб
 identity-active-loaded = Заштита на овој страници је искључена.
 identity-weak-encryption = Страница користи слабо шифровање.
 identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
+identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
 identity-remove-cert-exception =
     .label = Уклони изузетак
     .accesskey = и
