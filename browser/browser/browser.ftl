@@ -159,4 +159,36 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = هذه صفحة { -brand-short-name } آمنة.
+identity-connection-file = هذه الصفحة مخزنة على حاسوبك.
+identity-extension-page = حمِّلت هذه الصفحة من امتداد.
 identity-active-blocked = حجب { -brand-short-name } الأجزاء غير الآمنة في هذه الصفحة.
+identity-passive-loaded = بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).
+identity-active-loaded = لقد أوقفت الحماية على هذه الصفحة.
+identity-weak-encryption = تستخدم هذه الصفحة تعمية ضعيفة.
+identity-insecure-login-forms = معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.
+identity-permissions-reload-hint = قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.
+identity-permissions-empty = لم تمنح هذا الموقع أي صلاحيات خاصة.
+identity-remove-cert-exception =
+    .label = أزِل الاستثناء
+    .accesskey = س
+identity-description-insecure = اتصالك بهذا الموقع ليس خاصًّا. يمكن للآخرين مطالعة المعلومات التي ترسلها (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).
+identity-description-insecure-login-forms = معلومات الولوج التي تُدخلها في هذه الصفحة ليست مُؤمّنة و قد تكون مخترقة.
+identity-description-weak-cipher-intro = اتصالك بهذا الموقع يستخدم تعمية ضعيفة وليس خاصًّا أيضًا.
+identity-description-weak-cipher-risk = يمكن للآخرين الاطلاع على معلوماتك أو تغيير سلوك الموقع.
+identity-description-active-blocked = حجب { -brand-short-name } الأجزاء غير الآمنة في هذه الصفحة. <label data-l10n-name="link">اطّلع على المزيد</label>
+identity-description-passive-loaded = اتصالك ليس خاصًا و يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع.
+identity-description-passive-loaded-insecure = يحوي هذا الموقع محتوى غير آمن (مثل الصور). <label data-l10n-name="link">اطّلع على المزيد</label>
+identity-description-passive-loaded-mixed = مع أنّ { -brand-short-name } حجب بعض المحتويات، إلا أن هناك أخرى غير آمنة ما زالت في الصفحة (مثل الصور). <label data-l10n-name="link">اطّلع على المزيد</label>
+identity-description-active-loaded = يحوي هذا الموقع محتوى غير آمن (مثل السكربتات) و اتصالك به ليس خاصا.
+identity-description-active-loaded-insecure = يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).
+identity-learn-more =
+    .value = اطّلع على المزيد
+identity-disable-mixed-content-blocking =
+    .label = عطّل الحماية في الوقت الحالي
+    .accesskey = ع
+identity-enable-mixed-content-blocking =
+    .label = فعّل الحماية
+    .accesskey = ف
+identity-more-info-link-text =
+    .label = المزيد من المعلومات
