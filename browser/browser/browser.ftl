@@ -161,16 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Cysylltiad yn anniogel
+identity-connection-secure = Cysylltiad yn ddiogel
 identity-connection-internal = Mae hon yn dudalen { -brand-short-name } diogel.
 identity-connection-file = Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.
 identity-extension-page = Mae'r dudalen wedi ei llwytho o estyniad.
 identity-active-blocked = Mae { -brand-short-name } wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.
+identity-custom-root = Dilyswyd y cysylltiad gan gyhoeddwr tystysgrif nad yw'n cael ei gydnabod gan Mozilla.
 identity-passive-loaded = Nid yw rhannau o'r dudalen hon yn ddiogel (megis delweddau).
 identity-active-loaded = Rydych wedi analluogi diogelwch ar y dudalen hon.
 identity-weak-encryption = Mae'r dudalen hon yn defnyddio amgryptiad gwan.
 identity-insecure-login-forms = Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.
+identity-permissions =
+    .value = Caniatâd
 identity-permissions-reload-hint = Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.
 identity-permissions-empty = Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.
+identity-clear-site-data =
+    .label = Clirio Data Cwcis a Gwefan…
+identity-connection-not-secure-security-view = Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
+identity-connection-verified = Rydych wedi eich cysylltu'n ddiogel â'r wefan hon.
+identity-ev-owner-label = Tystysgrif wedi'i ryddhau i:
+identity-description-custom-root = Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr. <label data-l10n-name="link">Dysgu Rhagor</label>
 identity-remove-cert-exception =
     .label = Tynnu Eithriad
     .accesskey = E
