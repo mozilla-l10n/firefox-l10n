@@ -69,3 +69,6 @@ search-one-offs-context-open-new-tab =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
