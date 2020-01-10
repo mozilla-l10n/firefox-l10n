@@ -103,3 +103,25 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-passive-loaded = ເນື້ອຫາບາງສ່ວນໃນຫນ້ານີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ)
+identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
+identity-permissions-reload-hint = ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.
+identity-permissions-empty = ທ່ານຍັງບໍ່ໄດ້ມອບການອະນຸຍາດພິເສດໃດໆໃຫ້ກັບເວັບໄຊນີ້.
+identity-clear-site-data =
+    .label = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ…
+identity-remove-cert-exception =
+    .label = ລຶບຂໍ້ຍົກເວັ້ນ
+    .accesskey = R
+identity-learn-more =
+    .value = ຮຽນຮູ້ເພີ່ມເຕີມ
+identity-disable-mixed-content-blocking =
+    .label = ປິດການປ້ອງກັນສຳລັບຕອນນີ້
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = ເປີດໃຊ້ການປ້ອງກັນ
+    .accesskey = E
+identity-more-info-link-text =
+    .label = ຂໍ້ມູນເພີ່ມເຕີມ
