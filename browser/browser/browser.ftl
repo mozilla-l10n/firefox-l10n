@@ -158,3 +158,50 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 28em
+
+## Identity Panel
+
+identity-connection-not-secure = Connessione non sicura
+identity-connection-secure = Connessione sicura
+identity-connection-internal = Questa è una pagina sicura di { -brand-short-name }.
+identity-connection-file = Questa pagina è salvata sul dispositivo in uso.
+identity-extension-page = Questa pagina è caricata da un’estensione.
+identity-active-blocked = Alcuni elementi non sicuri di questa pagina sono stati bloccati da { -brand-short-name }.
+identity-custom-root = Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Mozilla.
+identity-passive-loaded = Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).
+identity-active-loaded = La protezione è disattivata per questa pagina.
+identity-weak-encryption = Questa pagina utilizza una crittografia debole.
+identity-insecure-login-forms = Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.
+identity-permissions =
+    .value = Permessi
+identity-permissions-reload-hint = Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.
+identity-permissions-empty = Nessun permesso speciale associato a questo sito.
+identity-clear-site-data =
+    .label = Elimina cookie e dati dei siti web…
+identity-connection-not-secure-security-view = La connessione con questo sito non è sicura.
+identity-connection-verified = La connessione con questo sito è sicura.
+identity-ev-owner-label = Certificato rilasciato a:
+identity-description-custom-root = Mozilla non riconosce il soggetto che ha emesso questo certificato. Potrebbe essere stato aggiunto dal sistema operativo o da un amministratore. <label data-l10n-name="link">Ulteriori informazioni</label>
+identity-remove-cert-exception =
+    .label = Elimina eccezione
+    .accesskey = E
+identity-description-insecure = La connessione con questo sito non è privata. Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.
+identity-description-insecure-login-forms = Le credenziali di accesso inserite in questa pagina non sono sicure e potrebbero essere vulnerabili.
+identity-description-weak-cipher-intro = La connessione con questo sito web utilizza una crittografia debole e non è privata.
+identity-description-weak-cipher-risk = Altri soggetti potrebbero visualizzare le informazioni trasmesse o modificare il comportamento del sito.
+identity-description-active-blocked = Alcuni elementi non sicuri di questa pagina sono stati bloccati da { -brand-short-name }. <label data-l10n-name="link">Ulteriori informazioni</label>
+identity-description-passive-loaded = La connessione non è privata e le informazioni trasmesse al sito potrebbero essere visibili ad altri soggetti.
+identity-description-passive-loaded-insecure = Alcuni elementi di questo sito web non sono sicuri (ad esempio immagini). <label data-l10n-name="link">Ulteriori informazioni</label>
+identity-description-passive-loaded-mixed = Nonostante alcuni elementi siano stati bloccati da { -brand-short-name }, in questa pagina sono ancora presenti elementi non sicuri (ad esempio immagini). <label data-l10n-name="link">Ulteriori informazioni</label>
+identity-description-active-loaded = La connessione con questo sito web non è sicura in quanto presenta contenuti non sicuri (ad esempio script).
+identity-description-active-loaded-insecure = Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.
+identity-learn-more =
+    .value = Ulteriori informazioni
+identity-disable-mixed-content-blocking =
+    .label = Disattiva temporaneamente protezione
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Attiva protezione
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Ulteriori informazioni
