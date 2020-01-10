@@ -181,17 +181,17 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = 您並未安全地連線至此網站。
 identity-connection-verified = 您正安全地連線至此網站。
 identity-ev-owner-label = 憑證簽發給:
-identity-description-custom-root = Mozilla 不認識此憑證簽發者，可能是由您的作業系統或網路管理員所加入的。 <label data-l10n-name="link">了解更多</label>
+identity-description-custom-root = Mozilla 不認識此憑證簽發者，可能是由您的作業系統或網路管理員所加入的。<label data-l10n-name="link">了解更多</label>
 identity-remove-cert-exception =
     .label = 移除例外
     .accesskey = R
-identity-description-insecure = 您到此網站的連線並不私密。您發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。
+identity-description-insecure = 您對此網站的連線並不私密。發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。
 identity-description-insecure-login-forms = 此頁面並不安全，您的登入資訊可能會被洩漏。
 identity-description-weak-cipher-intro = 您與此網站間的連線使用了弱強度的加密，並不私密。
 identity-description-weak-cipher-risk = 其他人可以看到您的資訊，或修改網站的行為。
-identity-description-active-blocked = { -brand-short-name } 已經封鎖此頁面中不安全的部分。 <label data-l10n-name="link">了解更多</label>
-identity-description-passive-loaded = 您的連線並不私密，您提供給此網站的資訊可能會被其他人看到。
-identity-description-passive-loaded-insecure = 此網站包含不安全的內容（例如圖片）。 <label data-l10n-name="link">了解更多</label>
+identity-description-active-blocked = { -brand-short-name } 已經封鎖此頁面中不安全的部分。<label data-l10n-name="link">了解更多</label>
+identity-description-passive-loaded = 您的連線並不私密，提供給此網站的資訊可能會被其他人看到。
+identity-description-passive-loaded-insecure = 此網站包含不安全的內容（例如圖片）。<label data-l10n-name="link">了解更多</label>
 identity-description-passive-loaded-mixed = 雖然 { -brand-short-name } 已經封鎖部分內容，但頁面中還是有不安全的內容（例如圖片）。 <label data-l10n-name="link">了解更多</label>
 identity-description-active-loaded = 此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。
 identity-description-active-loaded-insecure = 您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。

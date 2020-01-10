@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 軟體使用">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "開啟 MIDI 面板">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此網站更多權限。">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "您已封鎖此網站的攝影機存取權限。">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已封鎖此網站存取您麥克風的權限。">
 <!ENTITY urlbar.screenBlocked.tooltip            "您已封鎖此網站分享您螢幕畫面的權限。">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "您已封鎖此網站執行 Adobe Flash 外掛程式。">
 <!ENTITY urlbar.midiBlocked.tooltip              "您已封鎖此網站的 MIDI 存取權限。">
 <!ENTITY urlbar.installBlocked.tooltip           "您已封鎖此網站安裝附加元件。">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此網站更多權限。">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "顯示瀏覽紀錄">
@@ -866,12 +866,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "此頁面使用了弱強度的加密。">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "您到此網站的連線並不私密。您發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。">
+<!ENTITY identity.description.insecure "您對此網站的連線並不私密。發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。">
 <!ENTITY identity.description.insecureLoginForms "此頁面並不安全，您的登入資訊可能會被洩漏。">
 <!ENTITY identity.description.weakCipher "您與此網站間的連線使用了弱強度的加密，並不私密。">
 <!ENTITY identity.description.weakCipher2 "其他人可以看到您的資訊，或修改網站的行為。">
 <!ENTITY identity.description.activeBlocked "&brandShortName; 已經封鎖此頁面中不安全的部分。">
-<!ENTITY identity.description.passiveLoaded "您的連線並不私密，您提供給此網站的資訊可能會被其他人看到。">
+<!ENTITY identity.description.passiveLoaded "您的連線並不私密，提供給此網站的資訊可能會被其他人看到。">
 <!ENTITY identity.description.passiveLoaded2 "此網站包含不安全的內容（例如圖片）。">
 <!ENTITY identity.description.passiveLoaded3 "雖然 &brandShortName; 已經封鎖部分內容，但頁面中還是有不安全的內容（例如圖片）。">
 <!ENTITY identity.description.activeLoaded "此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。">
