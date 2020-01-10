@@ -154,20 +154,44 @@ bookmark-panel =
 
 identity-connection-not-secure = Ebaturvaline ühendus
 identity-connection-secure = Turvaline ühendus
+identity-connection-internal = See on turvaline { -brand-short-name }i leht.
+identity-connection-file = See leht on loodud arvutisse salvestatud faili põhjal.
 identity-extension-page = Selle lehe sisu pärineb laienduselt.
+identity-active-blocked = { -brand-short-name } blokkis sellel lehel mõned ebaturvalised osad.
 identity-custom-root = Ühenduse on verifitseerinud Mozillale tundmatu serdi väljaandja.
+identity-passive-loaded = Mõned selle lehe osad on ebaturvalised (nt pildid).
+identity-active-loaded = Kaitse sellel lehel on keelatud.
 identity-weak-encryption = See leht kasutab nõrka krüpteeringut.
+identity-insecure-login-forms = Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.
 identity-permissions =
     .value = Õigused
+identity-permissions-empty = Sellele saidile pole tagatud ühtki eriõigust.
 identity-clear-site-data =
     .label = Kustuta küpsised ja saidi andmed…
 identity-connection-not-secure-security-view = Ühendus selle saidiga pole turvaline.
 identity-connection-verified = Ühendus selle saidiga on turvaline.
 identity-ev-owner-label = Serdi omanik:
+identity-description-custom-root = Mozilla ei tea seda serdi väljaandjat. Selle võis lisada operatsioonisüsteem või süsteemiadministraator. <label data-l10n-name="link">Rohkem teavet</label>
+identity-remove-cert-exception =
+    .label = Eemalda erand
+    .accesskey = E
+identity-description-insecure = Ühendus selle saidiga pole privaatne. Edastatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.
 identity-description-insecure-login-forms = Sisestatud kasutajakonto andmed pole turvalise ühendusega kaitstud ja võivad seetõttu ohus olla.
+identity-description-weak-cipher-intro = Ühendus selle saidiga on turvatud nõrga krüpteeringuga ja pole seetõttu privaatne.
+identity-description-weak-cipher-risk = Teised inimesed saavad vaadata sinu andmeid või muuta veebilehe käitumist.
+identity-description-active-blocked = { -brand-short-name } blokkis selle lehe ebaturvalised osad. <label data-l10n-name="link">Rohkem teavet</label>
+identity-description-passive-loaded = Ühendus pole privaatne ja sinu edastatavaid andmeid võivad näha ka teised.
+identity-description-passive-loaded-insecure = See veebileht sisaldab ebaturvalist sisu (nt pilte). <label data-l10n-name="link">Rohkem teavet</label>
+identity-description-passive-loaded-mixed = Vaatamata sellele, et { -brand-short-name } blokkis mõned selle lehe osad, sisaldab see jätkuvalt ebaturvalist sisu (nt pilte). <label data-l10n-name="link">Rohkem teavet</label>
+identity-description-active-loaded = See veebileht sisaldab ebaturvalist sisu (nt skripte) ja ühendus sellega pole privaatne.
+identity-description-active-loaded-insecure = Saidiga jagatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.
+identity-learn-more =
+    .value = Rohkem teavet
 identity-disable-mixed-content-blocking =
     .label = Keela kaitse ajutiselt
     .accesskey = K
 identity-enable-mixed-content-blocking =
     .label = Luba kaitse
     .accesskey = L
+identity-more-info-link-text =
+    .label = Rohkem teavet
