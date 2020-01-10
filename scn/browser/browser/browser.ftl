@@ -152,3 +152,26 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 28em
+
+## Identity Panel
+
+identity-connection-internal = Chista è na pàggina sicura di { -brand-short-name }.
+identity-connection-file = Sta pàggina è sarbata nnô to computer.
+identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).
+identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
+identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
+identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.
+identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazziuna chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
+identity-description-insecure-login-forms = I nfurmazziuna d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.
+identity-description-weak-cipher-intro = A to cunnissiuni a stu situ usa un cifrariu fraccu e nun è privata.
+identity-description-weak-cipher-risk = Autri ponnu vìdiri i to nfurmazziuna o canciari u cumpurtamentu dû situ web.
+identity-description-active-blocked = { -brand-short-name } bluccò parti di sta pàggina ca nun èranu sicuri. <label data-l10n-name="link">Cchiù nfurmazziuna</label>
+identity-description-passive-loaded = A to cunnissiuni nun è privata e i nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri.
+identity-description-passive-loaded-insecure = Stu situ cunteni cuntinutu ca nun è sicuru (comu i mmàggini). <label data-l10n-name="link">Cchiù nfurmazziuna</label>
+identity-description-passive-loaded-mixed = Puru ca { -brand-short-name } bluccò parti dû cuntinutu, cc'è ancora cuntinutu supra a sta pàggina chi nun è sicuru (comu i mmàggini). <label data-l10n-name="link">Cchiù nfurmazziuna</label>
+identity-description-active-loaded = Stu situ cunteni cuntinutu ca nun è sicuru (comu i script) e a to cunnissiuni nun è privata.
+identity-description-active-loaded-insecure = I nfurmazziuna chi sparti cu stu situ putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
+identity-learn-more =
+    .value = Cchiù nfurmazziuna
+identity-more-info-link-text =
+    .label = Cchiù nfurmazziuna
