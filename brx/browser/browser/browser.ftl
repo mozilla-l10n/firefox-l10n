@@ -119,3 +119,9 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-disable-mixed-content-blocking =
+    .label = दानि थाखाय रैखाथिखौ लोरबां खालाम
+    .accesskey = D
