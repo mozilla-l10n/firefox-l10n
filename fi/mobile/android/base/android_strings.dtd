@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Vähemmän dataa, enemmän säästöä">
 <!ENTITY firstrun_data_subtext2 "Estä kuvat käyttääksesi vähemmän dataa sivustoilla, joilla vierailet.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Tili">
-<!ENTITY firstrun_sync_message2 "Jatka siitä, mihin jäit.">
 <!ENTITY firstrun_sync_message3 "Synkronoi kirjanmerkit, historia ja salasanat puhelimeesi.">
 <!ENTITY firstrun_sync_subtext2 "Käytä Sync-palvelua löytämään kirjanmerkit, salasanat ynnä muut &brandShortName;iin tallentamasi tiedot kaikilla laitteillasi.">
 <!ENTITY newfirstrun_sync_subtext "Synkronoi kaikki mobiililaitteelle tallentamasi Firefoxin työpöytäversioon, yksityisesti ja turvallisesti.">
-<!ENTITY updatednewfirstrun_sync_subtext "Kirjaudu tilillesi saadaksesi täyden hyödyn irti &brandShortName;ista">
-<!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY firstrun_sendtab_title "Lähetä välilehti">
 <!ENTITY firstrun_sendtab_message "Jaa välilehdet mobiililaitteelta työpöydälle — välittömästi.">
-<!ENTITY firstrun_signin_button "Kirjaudu sisään Sync-palveluun">
-<!ENTITY newfirstrun_signin_button "Ota Sync käyttöön">
-<!ENTITY updatednewfirstrun_signin_button "Kirjaudu sisään &brandShortName;iin">
+<!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY onboard_start_button_browser "Aloita selaaminen">
 <!ENTITY firstrun_button_notnow "Ei nyt">
 <!ENTITY firstrun_button_next "Seuraava">
-
-<!ENTITY firstrun_signin_button2 "Kirjaudu sisään">
+<!ENTITY firstrun_signup_button "Rekisteröidy">
 
 <!ENTITY firstrun_tabqueue_title "Linkit">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Sinä">
 <!ENTITY firstrun_account_message "Onko sinulla &brandShortName; toisella laitteella?">
-
-<!ENTITY firstrun_signup_button "Rekisteröidy">
 
 <!ENTITY  onboard_start_restricted1 "Surffaa turvallisin mielin ja tukevasti kontrollissa tämän yksinkertaisemman &brandShortName;in kanssa.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Yhteys muodostettu verkkosivustoon">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -892,12 +882,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Tervetuloa &brandShortName;-selaimen pariin">
 <!ENTITY activity_stream_signin_description "Aloita kirjanmerkkiesi, salasanojesi ja paljon muun synkronointi Firefox-tilillä.">
-<!ENTITY activity_stream_signin_button "Kirjaudu sisään">
-
 <!ENTITY activity_stream_signup_button "Rekisteröidy">
 <!ENTITY activity_stream_signin_prompt "Onko sinulla jo tili?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Kirjaudu sisään.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Uusittu Firefox, tulossa vuonna 2020">
+<!ENTITY activity_stream_firefox_promo_description "Tulossa pian: Aiempaa parempi suorituskyky. Tehostettu seurannan suojaus. Ominaisuuksia joiden avulla löydät, tallennat ja jaat verkon suosikkisisältöä.">
+<!ENTITY activity_stream_firefox_promo_button "Kurkista tulevaan">
 
 <!ENTITY activity_stream_topsites "Ykkössivustot">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
