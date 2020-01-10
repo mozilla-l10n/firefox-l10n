@@ -163,6 +163,7 @@ bookmark-panel =
 
 identity-connection-not-secure = Niezabezpieczone połączenie
 identity-connection-secure = Zabezpieczone połączenie
+identity-connection-internal = To jest strona programu { -brand-short-name }.
 identity-connection-file = Strona wczytana z tego komputera.
 identity-extension-page = Ta strona została wczytana przez rozszerzenie.
 identity-active-blocked = { -brand-short-name } zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.
