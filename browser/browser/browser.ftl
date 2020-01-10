@@ -168,6 +168,7 @@ identity-active-loaded = Você desativou a proteção nesta página.
 identity-weak-encryption = Esta página usa criptografia fraca.
 identity-insecure-login-forms = As contas de acesso inseridas nesta página podem ser comprometidas.
 identity-permissions-reload-hint = Pode ser necessário recarregar a página para que as alterações sejam aplicadas.
+identity-permissions-empty = Você não concedeu permissões especiais a este site.
 identity-remove-cert-exception =
     .label = Remover exceção
     .accesskey = R
