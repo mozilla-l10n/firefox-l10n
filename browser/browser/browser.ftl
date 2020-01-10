@@ -167,6 +167,7 @@ identity-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso 
 identity-passive-loaded = Deli strani niso varni (npr. slike).
 identity-active-loaded = Zaščita na tej strani je onemogočena.
 identity-weak-encryption = Stran uporablja šibko šifriranje.
+identity-permissions-empty = Tej strani niste dodelili posebnih dovoljenj.
 identity-clear-site-data =
     .label = Počisti piškotke in podatke te strani …
 identity-description-insecure = Vaša povezava na to stran ni zasebna. Podatke, ki jih pošiljate (npr. gesla, sporočila in kreditne kartice), si lahko ogledajo tudi druge osebe.
