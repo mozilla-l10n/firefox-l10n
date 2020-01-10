@@ -157,12 +157,17 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Conexión no segura
+identity-connection-secure = Conexión segura
 identity-connection-internal = Esta es un página { -brand-short-name } segura.
 identity-connection-file = Esta página está almacenada en tu computadora.
 identity-active-loaded = Has deshabilitado la protección en esta página.
 identity-weak-encryption = Esta página usa encriptación débil.
 identity-insecure-login-forms = Inicios de sesión ingresados en esta página pueden ser peligrosos.
+identity-permissions =
+    .value = Permisos
 identity-permissions-empty = No tienes permitido en este sitio web ningún permiso especial.
+identity-ev-owner-label = Certificado emitido a nombre de:
 identity-remove-cert-exception =
     .label = Eliminar excepción
     .accesskey = E
