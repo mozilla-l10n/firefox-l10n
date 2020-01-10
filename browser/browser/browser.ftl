@@ -156,19 +156,28 @@ bookmark-panel =
 
 identity-connection-internal = Αυτή είναι μια ασφαλής σελίδα του { -brand-short-name }.
 identity-connection-file = Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.
+identity-extension-page = Αυτή η σελίδα φορτώθηκε από μια επέκταση.
+identity-active-blocked = Το { -brand-short-name } έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας.
 identity-passive-loaded = Κάποια τμήματα αυτής της σελίδας δεν είναι ασφαλή (π.χ. κάποιες εικόνες).
 identity-active-loaded = Έχετε απενεργοποιήσει την προστασία σε αυτή τη σελίδα.
 identity-weak-encryption = Αυτή η σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση.
 identity-insecure-login-forms = Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.
+identity-permissions-reload-hint = Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.
+identity-permissions-empty = Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.
 identity-description-insecure = Η σύνδεσή σας σε αυτή τη σελίδα δεν είναι ασφαλής. Πληροφορίες που υποβάλετε μπορεί να είναι ορατές σε τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α. ).
 identity-description-insecure-login-forms = Τα στοιχεία σύνδεσης που εισάγατε στη σελίδα δεν είναι ασφαλή και μπορεί να τεθούν σε κίνδυνο.
 identity-description-weak-cipher-intro = Η σύνδεση σας σε αυτή τη σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση και δεν είναι ασφαλής.
 identity-description-weak-cipher-risk = Τρίτοι μπορούν να δουν τις πληροφορίες σας ή να τροποποιήσουν την συμπεριφορά αυτής της ιστοσελίδας.
+identity-description-active-blocked = Το { -brand-short-name } έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας. <label data-l10n-name="link">Μάθετε περισσότερα</label>
 identity-description-passive-loaded = Η σύνδεσή σας δεν είναι ασφαλής και πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους.
 identity-description-passive-loaded-insecure = Αυτή η σελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. εικόνες). <label data-l10n-name="link">Μάθετε περισσότερα</label>
+identity-description-passive-loaded-mixed = Παρόλο που το { -brand-short-name } έχει αποκλείσει ορισμένο περιεχόμενο, υπάρχει ακόμη επισφαλές περιεχόμενο (π.χ. εικόνες). <label data-l10n-name="link">Μάθετε περισσότερα</label>
 identity-description-active-loaded = Αυτή η ιστοσελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. scripts) και η σύνδεσή σας δεν είναι ασφαλής.
 identity-description-active-loaded-insecure = Πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α.).
 identity-learn-more =
     .value = Μάθετε περισσότερα
+identity-enable-mixed-content-blocking =
+    .label = Ενεργοποίηση προστασίας
+    .accesskey = Ε
 identity-more-info-link-text =
     .label = Περισσότερες πληροφορίες
