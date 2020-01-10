@@ -158,3 +158,38 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Detta är en säker { -brand-short-name } sida.
+identity-connection-file = Den här sidan är lagrad på din dator.
+identity-active-blocked = { -brand-short-name } har blockerat några osäkra komponenter på sidan.
+identity-passive-loaded = Vissa komponenter av den här sidan är inte säkra (t.ex. bilder).
+identity-active-loaded = Du har stängt av skyddet på den här sidan.
+identity-weak-encryption = Den här sidan använder en svag kryptering.
+identity-insecure-login-forms = Inloggningar du anger på denna sida kan äventyras
+identity-permissions-reload-hint = Du kan behöva ladda om sidan för att ändringarna ska verkställas.
+identity-permissions-empty = Du har inte beviljat denna webbplats några särskilda rättigheter.
+identity-remove-cert-exception =
+    .label = Ta bort undantag
+    .accesskey = T
+identity-description-insecure = Din anslutning till den här sidan är inte privat. Information som du skickar kan ses av andra personer (som t.ex. lösenord, meddelanden, bankkort, osv.).
+identity-description-insecure-login-forms = Inloggningsinformation du anger på denna sida är inte säker och kan äventyras.
+identity-description-weak-cipher-intro = Din anslutning till den här webbsidan använder en svag kryptering och är inte privat.
+identity-description-weak-cipher-risk = Andra personer kan se din information eller ändra webbplatsens beteende.
+identity-description-active-blocked = { -brand-short-name } har blockerat några osäkra komponenter på sidan. <label data-l10n-name="link">Lär dig mer</label>
+identity-description-passive-loaded = Anslutningen till denna webbplats är inte privat och andra personer kan se din information.
+identity-description-passive-loaded-insecure = Den här webbplatsen har innehåll som inte är säkert (t.ex. bilder). <label data-l10n-name="link">Lär dig mer</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } har blockerat några osäkra komponenter på sidan, men det finns fortfarande osäkra komponenter (såsom bilder). <label data-l10n-name="link">Lär dig mer</label>
+identity-description-active-loaded = Den här webbplatsen innehåller material som inte är säkra (såsom skript) och din anslutning till det är inte privat.
+identity-description-active-loaded-insecure = Information du delar med denna webbplats kan ses av andra (som lösenord, meddelanden, kreditkort, etc.).
+identity-learn-more =
+    .value = Lär dig mer
+identity-disable-mixed-content-blocking =
+    .label = Inaktivera skydd tillfälligt
+    .accesskey = I
+identity-enable-mixed-content-blocking =
+    .label = Aktivera skydd
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Mer information
