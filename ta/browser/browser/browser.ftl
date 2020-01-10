@@ -146,7 +146,7 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-internal = இது பாதுகாப்பான { -brand-short-name } பக்கம்.
-identity-connection-file = உங்கள் கணினியில் இப்பக்கம் சேமிக்கப்பட்டது.{ " " }
+identity-connection-file = உங்கள் கணினியில் இப்பக்கம் சேமிக்கப்பட்டது.
 identity-extension-page = ஏற்கனவே உள்ள நீட்சியிலிருந்து இந்தப்இந்தப் பக்கம்.
 identity-active-blocked = { -brand-short-name } இப்பக்கத்தின் பாதுகாப்பற்ற சில பகுதிகளைத் தடுத்துள்ளது.
 identity-passive-loaded = இந்த பக்கத்தின் சில பகுதிகள் பாதுகாப்பற்றது (எ.கா. படங்கள்).
