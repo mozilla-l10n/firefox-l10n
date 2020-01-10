@@ -158,3 +158,41 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-not-secure = Conexión insegura
+identity-connection-secure = Conexión segura
+identity-connection-internal = Esta es una página de { -brand-short-name } segura.
+identity-connection-file = Esta página está guardada en su computadora.
+identity-extension-page = Esta página está cargada desde una extensión.
+identity-custom-root = Conexión verificada por un emisor de certificados no reconocido por Mozilla.
+identity-passive-loaded = Partes de esta página no son seguras (como las imágenes).
+identity-active-loaded = Ha deshabilitado la protección en esta página.
+identity-weak-encryption = Esta página usa cifrado débil.
+identity-insecure-login-forms = Los ingresos en esta página pueden estar comprometidos.
+identity-permissions-reload-hint = Hay que recargar la página para que se apliquen los cambios.
+identity-permissions-empty = No ha dado permisos especiales a este sitio.
+identity-ev-owner-label = Certificado emitido a:
+identity-description-custom-root = Mozilla no reconoce a este emisor de certificados. Puede haber sido agregado desde el sistema operativo o por un administrador. <label data-l10n-name="link">Conocer más</label>
+identity-remove-cert-exception =
+    .label = Eliminar excepción
+    .accesskey = r
+identity-description-insecure = La conexión a este sitio no es privada. La información que envíe puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
+identity-description-insecure-login-forms = La información de ingreso que se usó en esta página no es segura puede estar comprometida.
+identity-description-weak-cipher-intro = La conexión a este sitio usa cifrado débil y no es privada.
+identity-description-weak-cipher-risk = Otras personas pueden ver la información o modificar el comportamiento del sitio.
+identity-description-passive-loaded = La conexión no es privada y la información que se comparta con el sitio puede ser vista por otros.
+identity-description-passive-loaded-insecure = Este sitio incluye contenido que no es seguro (como las imágenes). <label data-l10n-name="link">Conocer más</label>
+identity-description-active-loaded = Este sitio incluye contenido que no es seguro (como scripts) y la conexión no es privada.
+identity-description-active-loaded-insecure = La información compartida con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
+identity-learn-more =
+    .value = Conocer más
+identity-disable-mixed-content-blocking =
+    .label = Deshabilitar protección por ahora
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Habilitar protección
+    .accesskey = E
+identity-more-info-link-text =
+    .label = Más información
