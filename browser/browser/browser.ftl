@@ -161,6 +161,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Konexio ez-segurua
+identity-connection-secure = Konexio segurua
 identity-connection-internal = { -brand-short-name } orri segurua da hau.
 identity-connection-file = Orri hau zure ordenagailuan biltegiratuta dago.
 identity-extension-page = Orri hau gehigarri batetik kargatu da.
@@ -170,10 +172,15 @@ identity-passive-loaded = Orri honetako zenbait atal ez dira seguruak (adib. iru
 identity-active-loaded = Babesa desgaitu duzu orri honetan.
 identity-weak-encryption = Orri honek zifraketa ahula erabiltzen du.
 identity-insecure-login-forms = Orri honetan sartutako saio-hasierak arriskuan egon litezke.
+identity-permissions =
+    .value = Baimenak
 identity-permissions-reload-hint = Agian orria berritu beharko duzu aldaketek eragina izan dezaten.
 identity-permissions-empty = Ez diozu gune honi baimen berezirik eman.
 identity-clear-site-data =
     .label = Garbitu cookieak eta guneetako datuak…
+identity-connection-not-secure-security-view = Ez zaude modu seguruan konektatuta gune honetara.
+identity-connection-verified = Modu seguruan zaude konektatuta gune honetara.
+identity-ev-owner-label = Ziurtagiriaren honi jaulkia:
 identity-description-custom-root = Mozillak ez du ziurtagiri-jaulkitzaile hau ontzat hartzen. Zure sistema eragileak edo administratzaile batek gehitu du agian. <label data-l10n-name="link">Argibide gehiago</label>
 identity-remove-cert-exception =
     .label = Kendu salbuespena
