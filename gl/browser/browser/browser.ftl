@@ -142,3 +142,36 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Esta é unha páxina segura de { -brand-short-name }.
+identity-connection-file = Está páxina está almacenada no computador.
+identity-active-blocked = { -brand-short-name } bloqueou partes desta páxina que non son seguras.
+identity-passive-loaded = Partes desta páxina non son seguras (como as imaxes).
+identity-active-loaded = Desactivou a protección nesta páxina.
+identity-weak-encryption = Esta páxina usa cifrado débil.
+identity-insecure-login-forms = As identificacións introducidas nesta páxina poderían estar comprometidas.
+identity-permissions-empty = Non lle concedeu ningún permiso especial a este sitio.
+identity-clear-site-data =
+    .label = Borrar cookies e datos do sitio…
+identity-description-insecure = A conexión con este sitio non é privada. A información que envíe podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).
+identity-description-insecure-login-forms = A información de identificación que introduciu nesta páxina non é segura e podería estar comprometida.
+identity-description-weak-cipher-intro = A conexión con este sitio web usa un cifrado débil e non é privada.
+identity-description-weak-cipher-risk = Outras persoas poden ver a súa información ou modificar o comportamento do sitio web.
+identity-description-active-blocked = { -brand-short-name } bloqueou partes desta páxina que non son seguras. <label data-l10n-name="link">Obteña máis información</label>
+identity-description-passive-loaded = A súa conexión non é privada e a información que comparte con este sitio podería ser visíbel por outros.
+identity-description-passive-loaded-insecure = Este sitio web contén contido que non é seguro (como as imaxes). <label data-l10n-name="link">Obteña máis información</label>
+identity-description-passive-loaded-mixed = Aínda que { -brand-short-name } bloqueou algún contido, aínda hai contido na páxina que non é seguro (como as imaxes). <label data-l10n-name="link">Obteña máis información</label>
+identity-description-active-loaded = Este sitio web contén contido que non é seguro (como os scripts) e a súa conexión non é privada.
+identity-description-active-loaded-insecure = A información que comparte con este sitio podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).
+identity-learn-more =
+    .value = Obteña máis información
+identity-disable-mixed-content-blocking =
+    .label = Desactivar a protección por agora
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Activar protección
+    .accesskey = e
+identity-more-info-link-text =
+    .label = Máis información
