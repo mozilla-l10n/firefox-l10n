@@ -115,8 +115,36 @@ bookmark-panel-done-button =
 
 ## Identity Panel
 
+identity-connection-internal = Esta ye una páxina segura de { -brand-short-name }.
+identity-connection-file = Esta páxina ta atroxada nel to ordenador.
+identity-extension-page = Esta páxina cargóse dende una estensión.
 identity-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures.
 identity-passive-loaded = Partes d'esta páxina nun son segures (cómo imáxenes).
+identity-active-loaded = Deshabilitesti la proteición nesta páxina.
+identity-weak-encryption = Esta páxina usa cifráu feble.
+identity-insecure-login-forms = Quiciabes se comprometieren los anicios de sesión introducíos nesta páxina.
+identity-permissions-reload-hint = Quiciabes precises recargar la páxina p'aplicar les camudancies.
+identity-permissions-empty = Nun-y concediesti permisu especial dalu a esti sitiu.
+identity-remove-cert-exception =
+    .label = Desaniciar esceición
+    .accesskey = D
+identity-description-insecure = La to conexón a esti sitiu nun ye privada. La información qu'unvies, (como contraseñes, mensaxes, tarxetes de creitu... etc), quiciabes puean vela otros.
+identity-description-insecure-login-forms = La información del aniciu de sesión qu'introduzas nesta páxina nun ta segura y pue vese comprometida.
+identity-description-weak-cipher-intro = La conexón con esti sitiu web usa cifráu feble y nun ye privada.
+identity-description-weak-cipher-risk = Otra xente pue ver la to información o midificar el comportamientu'l sitiu web.
 identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Deprendi más</label>
+identity-description-passive-loaded = La to conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
+identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (por exemplu: imáxenes). <label data-l10n-name="link">Deprendi más</label>
+identity-description-passive-loaded-mixed = Magar que { -brand-short-name } bloquiare daqué conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes). <label data-l10n-name="link">Deprendi más</label>
+identity-description-active-loaded = Esti sitiu web contién conteníu que nun ye seguru (como scripts) y la to conexón a ella nun ye privada.
+identity-description-active-loaded-insecure = La información que compartas con esti sitiu van poder vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
 identity-learn-more =
     .value = Deprendi más
+identity-disable-mixed-content-blocking =
+    .label = Deshabilitar proteición pel momentu
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Habilitar proteición
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Más información
