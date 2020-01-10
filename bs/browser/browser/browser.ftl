@@ -129,10 +129,12 @@ bookmark-panel-done-button =
 
 identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
 identity-connection-file = Ova stranica je pohranjena na vaš računar.
+identity-extension-page = Ova stranica je učitana iz ekstenzije.
 identity-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
 identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
 identity-active-loaded = Onemogućili ste zaštitu na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabu enkripciju.
+identity-insecure-login-forms = Prijave unešene na ovoj stranici mogle bi biti kompromitovane.
 identity-permissions-reload-hint = Možda ćete morati ponovo učitati stranicu radi primjene izmjena.
 identity-permissions-empty = Ovoj stranici niste dodijelili nikakve posebne dozvole.
 identity-remove-cert-exception =
