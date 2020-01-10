@@ -118,14 +118,14 @@ identity-active-blocked = { -brand-short-name } het dele van dié blad geblok wa
 identity-passive-loaded = Dele van dié blad is nie beveilig nie (soos prente).
 identity-active-loaded = U het beskerming vir dié blad gedeaktiveer.
 identity-weak-encryption = Dié bladsy gebruik swak enkripsie.
-identity-insecure-login-forms = Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word.{ " " }
+identity-insecure-login-forms = Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word.
 identity-permissions-reload-hint = Dit is dalk nodig om die bladsy te herlaai voor veranderinge toegepas word.
-identity-permissions-empty = U het geen spesiale toestemming aan dié werf gegee nie.{ " " }
+identity-permissions-empty = U het geen spesiale toestemming aan dié werf gegee nie.
 identity-remove-cert-exception =
     .label = Verwyder uitsondering
     .accesskey = r
 identity-description-insecure = U verbinding aan dié werf is nie privaat nie. Inligting wat ingedien word kan deur ander gesien word (bv. wagwoorde, boodskappe, kredietkaartnommers, ens.)
-identity-description-insecure-login-forms = Die aanmeldinligting wat u op hierdie bladsy intik, is nie beveilig nie en kan gekompromitteer word.{ " " }
+identity-description-insecure-login-forms = Die aanmeldinligting wat u op hierdie bladsy intik, is nie beveilig nie en kan gekompromitteer word.
 identity-description-weak-cipher-intro = U verbinding aan dié werf gebruik swak enkripsie en is nie privaat nie.
 identity-description-weak-cipher-risk = Ander mense kan u inligting sien of die webwerf se gedrag verander.
 identity-description-active-blocked = { -brand-short-name } het dele van dié blad geblok wat nie beveilig is nie. <label data-l10n-name="link">Meer inligting</label>
