@@ -132,3 +132,39 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Man potbuk me { -brand-short-name } matye ki ber bedo.
+identity-connection-file = Kigwoko potbuk man i kompiuta mamegi.
+identity-extension-page = Kicano potbuk man ki i lamed
+identity-active-blocked = { -brand-short-name } ogengo but potbuk man ma pe tye ki ber bedo.
+identity-passive-loaded = But potbuk man pe tye ki ber bedo (calo cal).
+identity-active-loaded = I juko gwokke woko ki i potbuk man.
+identity-weak-encryption = Potbuk man tiyo ki loko ngec i kod ma goro.
+identity-insecure-login-forms = Donyo iyie ma kiketo gi i potbuk man twero bedo ki goro.
+identity-permissions-reload-hint = Twero mite ni myero i nwo cano potbuk wek alokaloka otime.
+identity-permissions-empty = Pe imiyo ki kakube man kit twer madito mo keken.
+identity-remove-cert-exception =
+    .label = Kwany ma kiweko woko
+    .accesskey = K
+identity-description-insecure = Kube ni ki kakube man pe tye i mung. Jo mukene twero neno ngec ma i cwalo (calo mung me donyo, kwena, ka me wil, ki mukene).
+identity-description-insecure-login-forms = Ngec me donyo iye ma i keto i pot buk man pe ki ber bedo kadong ki romo libo ne.
+identity-description-weak-cipher-intro = Kube ni ki kakube man tiyo ki loko ngec i kod ma goro ki peke i mung.
+identity-description-weak-cipher-risk = Jo mukene twero neno ngec mamegi onyo loko time pa kakube.
+identity-description-active-blocked = { -brand-short-name } ogengo but potbuk man ma pe tye ki ber bedo. <label data-l10n-name="link">Nong ngec mapol</label>
+identity-description-passive-loaded = Kube mamegi pe tye ki ber bedo kadong jo mukene twero neno ngec ma i nywako ki kakube ne.
+identity-description-passive-loaded-insecure = Kakube man tye ki jami mogo ma pe tye ki ber bedo (calo cal). <label data-l10n-name="link">Nong ngec mapol</label>
+identity-description-passive-loaded-mixed = Kadi bed { -brand-short-name } ogengo jami mogo, pud tye jami i potbuk man ma pe tye ki ber bedo (calo cal). <label data-l10n-name="link">Nong ngec mapol</label>
+identity-description-active-loaded = Kakube man tye ki jami ma pe tye ki ber bedo (calo coc) ki kube mamegi iye pe tye i mung.
+identity-description-active-loaded-insecure = Jo mukene twero neno ngec ma i nywako ki kakube man (calo mung me donyo, kwena, ka me wil, ki mukene).
+identity-learn-more =
+    .value = Nong ngec mapol
+identity-disable-mixed-content-blocking =
+    .label = Juk gwoke pi kombedi
+    .accesskey = J
+identity-enable-mixed-content-blocking =
+    .label = Cak gwoke
+    .accesskey = C
+identity-more-info-link-text =
+    .label = Ngec mapol
