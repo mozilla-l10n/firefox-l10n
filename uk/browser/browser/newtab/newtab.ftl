@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     перевірений вміст від обраних спонсорів. Будьте впевнені, що ваші дані
     перегляду ніколи не виходять за межі { -brand-product-name } — ми їх не бачимо,
     і наші спонсори теж.
+newtab-privacy-modal-paragraph-2 =
+    Окрім захопливих історій, ми також показуємо вам відповідний,
+    перевірений вміст від обраних спонсорів. Будьте впевнені, що <strong>ваші дані
+    перегляду ніколи не виходять за межі { -brand-product-name }</strong> — ми їх не бачимо,
+    і наші спонсори теж.
 newtab-privacy-modal-link = Дізнайтеся, як працює приватність, у новій вкладці
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Вилучити закладку
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Отакої! Ми май�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярні теми:
 newtab-pocket-more-recommendations = Інші рекомендації
-newtab-pocket-how-it-works = Як це працює
 newtab-pocket-whats-pocket = Що таке { -pocket-brand-name }?
 newtab-pocket-cta-button = Отримати { -pocket-brand-name }
 newtab-pocket-cta-text = Зберігайте улюблені статті в { -pocket-brand-name } і задовольніть себе захопливим читанням.
