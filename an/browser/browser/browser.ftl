@@ -163,10 +163,12 @@ bookmark-panel =
 
 identity-connection-internal = Ista ye una pachina segura de { -brand-short-name }.
 identity-connection-file = Ista pachina s'alza en o suyo ordinadora
+identity-extension-page = Esta pachina ye estada cargada dende una extensión.
 identity-active-blocked = { -brand-short-name } ha blocau partes d'ista pachina que no son seguras.
 identity-passive-loaded = Bella parte d'ista pachina no ye segura (p. eix. imachens)
 identity-active-loaded = Ha desactivau a protección en ista pachina.
 identity-weak-encryption = Ista pachina fa servir zifrau feble.
+identity-insecure-login-forms = Los datos de dentrada escritos en ista pachina pueden estar compromesos.
 identity-permissions-reload-hint = Talment haiga de recargar la pachina pa que s'apliquen los cambios.
 identity-permissions-empty = No ha dau garra permiso especial ta iste puesto.
 identity-remove-cert-exception =
