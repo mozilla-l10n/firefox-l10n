@@ -126,3 +126,9 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = කළා
+
+## Identity Panel
+
+identity-connection-file = මෙම පිටුව ඔබේ පරිගණකයේ ගබඩා කර ඇත.
+identity-extension-page = මෙම පිටුව දිගුවක් මගින් පූරණය වේ.
+identity-permissions-reload-hint = වෙනස්කම් යෙදවීම සඳහා ඔබට පිටුව යළි පූරණය කිරීමට සිදුවිය හැක.
