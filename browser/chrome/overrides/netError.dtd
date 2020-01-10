@@ -9,7 +9,6 @@
 <!ENTITY retry.label "Încearcă din nou">
 <!ENTITY returnToPreviousPage.label "Întoarce-te">
 <!ENTITY returnToPreviousPage1.label "Întoarce-te (Recomandat)">
-<!ENTITY advanced.label "Avansat">
 <!ENTITY advanced2.label "Avansat…">
 <!ENTITY viewCertificate.label "Vezi certificatul">
 
@@ -104,14 +103,8 @@
 <!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Conexiunea nu este securizată">
-
 <!ENTITY certerror.longpagetitle2 "Avertisment: Urmează un posibil risc de securitate">
 <!ENTITY certerror.sts.longpagetitle  "Nu s-a realizat conectarea: Posibilă problemă de securitate">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "Proprietarul <span class='hostname'/> și-a configurat site-ul web necorespunzător.  Pentru a proteja informațiile împotriva furtului, &brandShortName; nu s-a conectat la acest site web.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -150,11 +143,11 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
+<!ENTITY xfoBlocked.title "Blocată de politica de opțiuni X-Frame">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; a împiedicat încărcarea paginii în acest context deoarece pagina are o politică de opțiuni X-Frame care nu o permite.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Eroare cauzată de conținut corupt">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată deoarece a fost detectată o eroare legată de transmiterea datelor.</p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">
-
-
-<!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
 
 <!ENTITY securityOverride.exceptionButton1Label "Acceptă riscul și continuă">
 
@@ -169,17 +162,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informații avansate: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; nu s-a conectat la <span id='wrongSystemTime_URL'/> deoarece ceasul calculatorului tău pare că afișează ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului este setat la <span id='wrongSystemTime_systemDate'/>, deși ar trebui să fie <span id='wrongSystemTime_actualDate'/>. Pentru a rezolva această problemă, schimbă setările privind data și ora pentru a se potrivi cu cele corecte.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu s-a conectat la <span id='wrongSystemTimeWithoutReference_URL'/> deoarece ceasul calculatorului tău pare că afișează ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului este setat la <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pentru a rezolva această problemă, schimbă setările privind data și ora pentru a se potrivi cu cele corecte.</p>">
-
-<!ENTITY certerror.pagetitle1  "Conexiune nesecurizată">
-
 <!ENTITY certerror.pagetitle2  "Avertisment: Urmează un posibil risc de securitate">
 <!ENTITY certerror.sts.pagetitle  "Nu s-a realizat conectarea: Posibilă problemă de securitate">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se poate conecta doar în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> are o politică de securitate numită HTTP Strict Transport Security (HSTS), ceea ce înseamnă că &brandShortName; se poate conecta la acesta numai în mod securizat. Nu poți adăuga o excepție pentru a vizita acest site.">
 <!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">
 
@@ -202,6 +186,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Se pare că setările de securitate ale rețelei sunt de vină. Vrei să restaurezi setările implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">
+
+<!ENTITY enableTls10.longDesc "Este posibil ca acest site să nu acccepte protocolul TLS 1.2, care este versiunea minimă acceptată de &brandShortName;. Activarea TLS 1.0 și TLS 1.1 ar putea permite realizarea acestei conexiuni cu succes.">
+<!ENTITY enableTls10.note "TLS 1.0 și TLS 1.1 vor fi dezactivate permanent în versiunile viitoare.">
+<!ENTITY enableTls10.label "Activează TLS 1.0 și 1.1">
 
 <!ENTITY networkProtocolError.title "Eroare legată de protocolul de rețea">
 <!ENTITY networkProtocolError.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată, deoarece a fost detectată o eroare în protocolul de rețea.</p><ul><li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li></ul>">
