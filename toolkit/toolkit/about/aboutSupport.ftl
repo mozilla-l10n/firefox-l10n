@@ -130,7 +130,7 @@ media-capabilities-title = Podpora médií
 # List all the entries of the database.
 media-capabilities-enumerate = Vypsat databázi
 
-
+##
 
 intl-title = Internacionalizace a lokalizace
 intl-app-title = Nastavení aplikace
@@ -155,7 +155,7 @@ remote-debugging-title = Vzdálené ladění (protokol Chromia)
 remote-debugging-accepting-connections = Přijímá spojení
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -260,6 +260,7 @@ d3d11video-crash-guard = D3D11 Video dekodér
 d3d9video-crash-buard = D3D9 Video dekodér
 d3d9video-crash-guard = D3D9 Video dekodér
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Video dekodér
 reset-on-next-restart = Obnovit po při příštím restartu
 gpu-process-kill-button = Ukončit GPU proces
 gpu-device-reset = Obnova zařízení
