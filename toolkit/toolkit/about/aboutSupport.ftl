@@ -139,7 +139,7 @@ media-capabilities-title = Podpora médií
 # List all the entries of the database.
 media-capabilities-enumerate = Vypísanie databázy
 
-
+##
 
 intl-title = Internacionalizácia a lokalizácia
 intl-app-title = Nastavenia aplikácie
@@ -160,9 +160,10 @@ intl-regional-prefs = Miestne nastavenia
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Vzdialené ladenie (protokol Chromia)
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -267,6 +268,7 @@ d3d11video-crash-guard = D3D11 Video dekodér
 d3d9video-crash-buard = D3D9 Video dekodér
 d3d9video-crash-guard = D3D9 Video dekodér
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX video dekodér
 reset-on-next-restart = Obnoviť pri nasledujúcom reštarte
 gpu-process-kill-button = Ukončiť GPU proces
 gpu-device-reset = Obnova zariadenia
