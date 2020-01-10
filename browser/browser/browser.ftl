@@ -154,3 +154,30 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = このページは { -brand-short-name } の安全な内部ページです。
+identity-extension-page = このページは拡張機能から読み込まれています。
+identity-active-blocked = このページの一部が安全でないため { -brand-short-name } がブロックしました。
+identity-passive-loaded = このページの一部 (画像など) は安全ではありません。
+identity-active-loaded = このページでの保護は無効に設定されています。
+identity-weak-encryption = このページは脆弱な暗号を使用しています。
+identity-description-custom-root = Mozilla はこの証明書の発行者を承認していません。OS またはシステム管理者により追加された可能性があります。 <label data-l10n-name="link">詳細情報</label>
+identity-remove-cert-exception =
+    .label = 例外から削除
+    .accesskey = R
+identity-description-insecure = このサイトへの接続は秘密が保たれません。このサイトに送信した情報 (パスワードやメッセージ、クレジットカード情報など) が第三者に盗み見られる可能性があります。
+identity-description-weak-cipher-risk = 第三者にあなたの情報を盗み見られたりウェブサイトの動作を不正に改変される可能性があります。
+identity-description-active-blocked = { -brand-short-name } がこのページ上の安全でないコンテンツをブロックしました。 <label data-l10n-name="link">詳細情報</label>
+identity-description-passive-loaded = この接続は安全ではないため、サイトと共有したあなたの情報が第三者に盗み見られる可能性があります。
+identity-description-passive-loaded-mixed = { -brand-short-name } が一部のコンテンツをブロックしていますが、ページ上には安全でないコンテンツ (画像など) が含まれています。 <label data-l10n-name="link">詳細情報</label>
+identity-description-active-loaded-insecure = このサイトと共有したあなたの情報 (パスワードやメッセージ、クレジットカード情報など) が第三者に盗み見られる可能性があります。
+identity-learn-more =
+    .value = 詳細情報
+identity-disable-mixed-content-blocking =
+    .label = このセッションのみ保護を無効にする
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = 保護を有効にする
+    .accesskey = E
