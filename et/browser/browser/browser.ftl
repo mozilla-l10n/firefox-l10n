@@ -149,3 +149,25 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-not-secure = Ebaturvaline ühendus
+identity-connection-secure = Turvaline ühendus
+identity-extension-page = Selle lehe sisu pärineb laienduselt.
+identity-custom-root = Ühenduse on verifitseerinud Mozillale tundmatu serdi väljaandja.
+identity-weak-encryption = See leht kasutab nõrka krüpteeringut.
+identity-permissions =
+    .value = Õigused
+identity-clear-site-data =
+    .label = Kustuta küpsised ja saidi andmed…
+identity-connection-not-secure-security-view = Ühendus selle saidiga pole turvaline.
+identity-connection-verified = Ühendus selle saidiga on turvaline.
+identity-ev-owner-label = Serdi omanik:
+identity-description-insecure-login-forms = Sisestatud kasutajakonto andmed pole turvalise ühendusega kaitstud ja võivad seetõttu ohus olla.
+identity-disable-mixed-content-blocking =
+    .label = Keela kaitse ajutiselt
+    .accesskey = K
+identity-enable-mixed-content-blocking =
+    .label = Luba kaitse
+    .accesskey = L
