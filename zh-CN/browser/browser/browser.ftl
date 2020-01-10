@@ -158,3 +158,22 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-file = 此页面存储在您的计算机上。
+identity-active-loaded = 您在此页面上已禁用保护。
+identity-weak-encryption = 此页面使用较弱加密。
+identity-permissions-empty = 您尚未授予此站点任何权限。
+identity-description-insecure = 您至此网站的连接非私密。您提交的信息可能被其他人看到（例如密码、邮件、信用卡等）。
+identity-description-active-loaded = 此网站包含的内容不安全（例如脚本），并且您至它的连接非私密。
+identity-learn-more =
+    .value = 详细了解
+identity-disable-mixed-content-blocking =
+    .label = 暂时解除保护
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = 启用保护
+    .accesskey = E
+identity-more-info-link-text =
+    .label = 更多信息
