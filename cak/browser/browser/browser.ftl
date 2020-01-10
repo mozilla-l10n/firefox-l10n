@@ -161,18 +161,29 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Man ütz ta okem
+identity-connection-secure = Rujikomal okem
 identity-connection-internal = Re re' ütz chi { -brand-short-name } ruxaq.
 identity-connection-file = Re ruxaq k'amaya'l re' yakon pan akematz'ib'.
 identity-extension-page = Re jun ruxaq k'amaya'l re' nisamajib'ëx pa jun k'amal.
 identity-active-blocked = { -brand-short-name } xeruq'ät ri itzel taq ruperaj re ruxaq re'.
+identity-custom-root =
+    Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Mozilla.
+    { "" }
 identity-passive-loaded = K'o man ütz ta taq ruch'akulal re ruxaq re' (achi'el ri taq wachib'äl).
 identity-active-loaded = Xachüp ruchajixik re ruxaq re'.
 identity-weak-encryption = Re ruxaq re' nrokisaj yamayïk chi suq'ch'ab'äl.
 identity-insecure-login-forms = Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.
+identity-permissions =
+    .value = Taq ya'oj q'ij
 identity-permissions-reload-hint = Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.
 identity-permissions-empty = Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.
 identity-clear-site-data =
     .label = Keyuj ri Kaxlanwäy chuqa' Kitzij Ruxaq K'amaya'l…
+identity-connection-not-secure-security-view = Man ütz ta ri awokem pa re ruxaq k'amaya'l re'.
+identity-connection-verified = Ütz ri awokem pa re ruxaq k'amaya'l re'.
+identity-ev-owner-label = Iqitzijib'äl talun richin:
+identity-description-custom-root = Ri Mozilla man retaman ta ruwäch ri ruya'öl iqitzijib'äl Mozilla. Rik'in jub'a' xtz'aqatisäx pa jun samajel q'inoj o ruma jun nuk'samajel. <label data-l10n-name="link">Tetamäx ch'aqa' chik</label>
 identity-remove-cert-exception =
     .label = Telesäx el ri man ja ta jun
     .accesskey = T
