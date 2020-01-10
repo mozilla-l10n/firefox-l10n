@@ -157,19 +157,47 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Връзката не е защитена
+identity-connection-secure = Връзката е защитена
 identity-connection-internal = Това е защитена страница на { -brand-short-name }.
 identity-connection-file = Страницата е запазена в компютъра.
+identity-extension-page = Страницата е отворена от разширение.
 identity-active-blocked = { -brand-short-name } блокира части от страницата, които не са шифрирани.
+identity-custom-root = Връзката е потвърдена от издател на сертификат, който не е разпознат от Mozilla.
+identity-passive-loaded = Части от страницата, например изображения, не са шифровани.
 identity-active-loaded = Изключихте защитата за тази страница.
 identity-weak-encryption = Тази странница използва слабо шифриране.
+identity-insecure-login-forms = Въведените на страницата данни за вход може да бъдат компрометирани.
+identity-permissions =
+    .value = Права
+identity-permissions-reload-hint = За да бъдат приложени промените може да се наложи да презаредите страницата.
+identity-permissions-empty = Не сте дали допълнителни права на страницата.
+identity-clear-site-data =
+    .label = Изчистване на бисквитки и данни…
+identity-connection-not-secure-security-view = Връзката със сайта не е сигурна.
+identity-connection-verified = Връзката със сайта е сигурна.
+identity-ev-owner-label = Сертификатът е издаден на:
+identity-description-custom-root = Mozilla не разпознава този издател на сертификати. Може да е добавен от вашата операционна система или от администратор. <label data-l10n-name="link">Научете повече</label>
+identity-remove-cert-exception =
+    .label = Премахване на изключението
+    .accesskey = П
+identity-description-insecure = Връзката ви със сайта не е поверителна. Изпращаната информация, като например пароли, съобщения, банкови карти и др., може да бъде видяна от други.
+identity-description-insecure-login-forms = Данните за регистрацията, които въвеждате в страницата, не са защитени и може да бъдат компрометирани.
+identity-description-weak-cipher-intro = Връзката с тази страница използва слабо шифроване и не е поверителна.
 identity-description-weak-cipher-risk = Други хора могат да виждат ваша информация и да променят поведението на уебсайта.
 identity-description-active-blocked = { -brand-short-name } блокира части от страницата, които не са шифрирани. <label data-l10n-name="link">Научете повече</label>
 identity-description-passive-loaded = Връзката не е поверителна и споделяната информация със сайта може да бъде видяна от други.
+identity-description-passive-loaded-insecure = Страницата има нешифровано съдържание, като например изображения. <label data-l10n-name="link">Научете повече</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } блокира част от съдържанието, но все още има съдържание, което не е шифрирано, като например изображения. <label data-l10n-name="link">Научете повече</label>
+identity-description-active-loaded = Страницата има съдържание, например скриптове, което не е шифровано, и връзката със сайта не е поверителна.
+identity-description-active-loaded-insecure = Споделяната със сайта информация, като например пароли, съобщения, банкови карти и др., може да бъде виждана от други.
 identity-learn-more =
     .value = Научете повече
 identity-disable-mixed-content-blocking =
     .label = Изключване на защитата за момента
     .accesskey = И
+identity-enable-mixed-content-blocking =
+    .label = Включване на защитата
+    .accesskey = В
 identity-more-info-link-text =
     .label = Повече информация
