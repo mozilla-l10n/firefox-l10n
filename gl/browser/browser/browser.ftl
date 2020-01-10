@@ -147,6 +147,7 @@ bookmark-panel =
 
 identity-connection-internal = Esta é unha páxina segura de { -brand-short-name }.
 identity-connection-file = Está páxina está almacenada no computador.
+identity-extension-page = Este páxina cargouse dende unha extensión.
 identity-active-blocked = { -brand-short-name } bloqueou partes desta páxina que non son seguras.
 identity-passive-loaded = Partes desta páxina non son seguras (como as imaxes).
 identity-active-loaded = Desactivou a protección nesta páxina.
