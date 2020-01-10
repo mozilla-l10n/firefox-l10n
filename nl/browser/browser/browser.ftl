@@ -162,6 +162,7 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-not-secure = Verbinding niet beveiligd
+identity-connection-secure = Verbinding beveiligd
 identity-connection-internal = Dit is een beveiligde { -brand-short-name }-pagina.
 identity-connection-file = Deze pagina is op uw computer opgeslagen.
 identity-extension-page = Deze pagina is geladen vanuit een extensie.
@@ -177,6 +178,8 @@ identity-permissions-reload-hint = Mogelijk dient u de pagina te vernieuwen om w
 identity-permissions-empty = U hebt deze website geen speciale toestemmingen gegeven.
 identity-clear-site-data =
     .label = Cookies en websitegegevens wissen…
+identity-connection-not-secure-security-view = U hebt een onbeveiligde verbinding met deze website.
+identity-connection-verified = U hebt een beveiligde verbinding met deze website.
 identity-ev-owner-label = Certificaat uitgegeven aan:
 identity-description-custom-root = Mozilla herkent deze certificaatuitgever niet. Hij is mogelijk vanuit uw besturingssysteem of door een beheerder toegevoegd. <label data-l10n-name="link">Meer info</label>
 identity-remove-cert-exception =
