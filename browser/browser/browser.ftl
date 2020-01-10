@@ -158,3 +158,7 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-description-insecure-login-forms = Orri honetan sartzen duzun saio-hasiera informazioa ez da segurua eta arriskuan egon liteke.
