@@ -67,5 +67,6 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-file = Ônmiëng nyoë teukeubah lam komputer droëneuh.
 identity-learn-more =
     .value = Meurunoë Lom
