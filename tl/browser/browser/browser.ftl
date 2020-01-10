@@ -164,6 +164,7 @@ identity-connection-secure = Matibay na Koneksyon
 identity-connection-internal = Ito ay secure na { -brand-short-name } na pahina.
 identity-connection-file = Ang pahinang ito ay naka-imbak sa iyong computer.
 identity-extension-page = Ang pahinang ito ay nai-load mula sa isang extension.
+identity-active-blocked = { -brand-short-name } Na-block ang mga bahagi ng pahinang ito na hindi ligtas.
 identity-passive-loaded = Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad ng mga larawan).
 identity-active-loaded = Hindi mo pinagana ang proteksyon sa pahinang ito.
 identity-weak-encryption = Ang pahinang ito ay gumagamit ng mahina na pag-encrypt.
@@ -179,6 +180,7 @@ identity-description-insecure = Ang iyong koneksyon sa site na ito ay hindi prib
 identity-description-insecure-login-forms = Ang impormasyon sa pag-login na ipinasok mo sa pahinang ito ay hindi ligtas at maaaring makompromiso.
 identity-description-weak-cipher-intro = Ang iyong koneksyon sa website na ito ay gumagamit ng mahina na pag-encrypt at hindi pribado.
 identity-description-weak-cipher-risk = Maaaring tingnan ng iba pang mga tao ang iyong impormasyon o baguhin ang pag-uugali ng website.
+identity-description-active-blocked = { -brand-short-name } Na-block ang mga bahagi ng pahinang ito na hindi ligtas. <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-description-passive-loaded = Ang iyong koneksyon ay hindi pribado at ang impormasyon na iyong ibinabahagi sa site ay maaaring makita ng iba.
 identity-description-passive-loaded-insecure = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-description-passive-loaded-mixed = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
