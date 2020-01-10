@@ -34,7 +34,7 @@ search-input-box =
             [windows] In Einstellungen suchen
            *[other] In Einstellungen suchen
         }
-managed-notice = Der Browser wird durch Ihre Organisation verwaltet.
+managed-notice = Ihr Browser wird durch Ihre Organisation verwaltet.
 pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Farben…
     .accesskey = F
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Standard-Zoom
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Nur Text zoomen
+    .accesskey = T
 language-header = Sprache
 choose-language-description = Bevorzugte Sprachen für die Darstellung von Websites wählen
 choose-button =
@@ -316,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Inhalte mit DRM-Kopierschutz
 play-drm-content =
@@ -561,6 +570,12 @@ search-keyword-warning-bookmark = Sie haben ein Schlüsselwort ausgewählt, das 
 ## Containers Section
 
 containers-back-link = « Zurück
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Zurück zu den Einstellungen
+           *[other] Zurück zu den Einstellungen
+        }
 containers-header = Tab-Umgebungen
 containers-add-button =
     .label = Neue Umgebung hinzufügen
@@ -903,7 +918,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Benutzerdefiniert
     .accesskey = B
 
-
+##
 
 content-blocking-etp-standard-desc = Ausgewogen zwischen Schutz und Leistung. Seiten laden normal.
 content-blocking-etp-strict-desc = Stärkerer Schutz, einige Websites oder mancher Inhalt funktioniert eventuell nicht.

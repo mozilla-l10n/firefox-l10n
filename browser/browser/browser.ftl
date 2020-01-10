@@ -158,14 +158,14 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-not-secure = Verbindung nicht sicher
-identity-connection-secure = Verbindung gesichert
+identity-connection-secure = Verbindung sicher
 identity-connection-internal = Dies ist eine sichere { -brand-short-name }-Seite.
 identity-connection-file = Diese Seite ist auf Ihrem Computer gespeichert.
 identity-extension-page = Diese Seite wurde durch eine Erweiterung bereitgestellt.
 identity-active-blocked = { -brand-short-name } hat nicht sichere Inhalte dieser Seite blockiert.
 identity-custom-root = Die Verbindung wurde durch eine Zertifizierungsstelle bestätigt, welche standardmäßig nicht von Mozilla anerkannt wird.
-identity-passive-loaded = Teile dieser Seite sind nicht sicher. Dies können z.B. Grafiken sein.
-identity-active-loaded = Sie haben den Schutz vor Aktivitätenverfolgung für diese Seite deaktiviert.
+identity-passive-loaded = Teile dieser Seite sind nicht sicher (wie z.B. Grafiken).
+identity-active-loaded = Sie haben den Schutz für diese Seite deaktiviert.
 identity-weak-encryption = Diese Seite verwendet eine schwache Verschlüsselung.
 identity-insecure-login-forms = Ihre Zugangsdaten könnten auf dieser Seite in falsche Hände geraten.
 identity-permissions =
