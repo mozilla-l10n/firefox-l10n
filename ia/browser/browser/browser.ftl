@@ -161,10 +161,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Connexion non secur
+identity-connection-secure = Connexion secur
 identity-connection-internal = Isto es un pagina secur de { -brand-short-name }.
 identity-connection-file = Iste pagina es immagazinate in tu computator.
 identity-extension-page = Iste pagina es cargate ab un extension.
 identity-active-blocked = { -brand-short-name } ha blocate partes de iste pagina que non es secur.
+identity-custom-root = Connexion verificate per un certificate emittite per un autoritate non recognoscite per Mozilla.
 identity-passive-loaded = Partes de iste pagina non es secur (pro exemplo, imagines).
 identity-active-loaded = Tu ha disactivate le protection sur iste pagina.
 identity-weak-encryption = Iste pagina usa un cryptographia debile.
@@ -175,6 +178,9 @@ identity-permissions-reload-hint = Il es possibile que tu debe recargar le pagin
 identity-permissions-empty = Tu non ha concedite ulle permission special a iste sito.
 identity-clear-site-data =
     .label = Rader cookies e datos de sitos…
+identity-connection-not-secure-security-view = Tu non es connectite con securitate a iste sito.
+identity-connection-verified = Tu es connectite con securitate a iste sito.
+identity-ev-owner-label = Certificato expedite a:
 identity-description-custom-root = Mozilla non recognosce iste emissor de certificatos. Illo poterea provenir de tu systema de operation, o forsan un administrator lo ha addite. <label data-l10n-name="link">Saper plus</label>
 identity-remove-cert-exception =
     .label = Remover le exception
