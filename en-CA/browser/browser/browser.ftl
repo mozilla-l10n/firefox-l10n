@@ -158,3 +158,35 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = This is a secure { -brand-short-name } page.
+identity-connection-file = This page is stored on your computer.
+identity-extension-page = This page is loaded from an extension.
+identity-active-blocked = { -brand-short-name } has blocked parts of this page that are not secure.
+identity-passive-loaded = Parts of this page are not secure (such as images).
+identity-active-loaded = You have disabled protection on this page.
+identity-weak-encryption = This page uses weak encryption.
+identity-insecure-login-forms = Logins entered on this page could be compromised.
+identity-permissions-reload-hint = You may need to reload the page for changes to apply.
+identity-permissions-empty = You have not granted this site any special permissions.
+identity-remove-cert-exception =
+    .label = Remove Exception
+    .accesskey = R
+identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
+identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
+identity-description-active-blocked = { -brand-short-name } has blocked parts of this page that are not secure. <label data-l10n-name="link">Learn More</label>
+identity-description-passive-loaded = Your connection is not private and information you share with the site could be viewed by others.
+identity-description-passive-loaded-mixed = Although { -brand-short-name } has blocked some content, there is still content on the page that is not secure (such as images). <label data-l10n-name="link">Learn More</label>
+identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
+identity-learn-more =
+    .value = Learn More
+identity-disable-mixed-content-blocking =
+    .label = Disable protection for now
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Enable protection
+    .accesskey = E
+identity-more-info-link-text =
+    .label = More Information
