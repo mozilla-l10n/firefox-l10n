@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Datu gutxiago, aurrezpen handiagoa">
 <!ENTITY firstrun_data_subtext2 "Desaktibatu irudiak datu gutxiago gastatzeko bisitatzen duzun gune bakoitzean.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Kontua">
-<!ENTITY firstrun_sync_message2 "Jarraitu utzi zenuen tokitik.">
 <!ENTITY firstrun_sync_message3 "Sinkronizatu laster-markak, historia eta pasahitzak zure telefonoan.">
 <!ENTITY firstrun_sync_subtext2 "Erabili Sync laster-markak, pasahitza eta &brandShortName;(r)en gailu guztietan gordetzen dituzun beste gauzak aurkitzeko.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronizatu mugikorrean gordetako gauzak mahaigainerako Firefoxekin, modu pribatu eta seguruan.">
-<!ENTITY updatednewfirstrun_sync_subtext "Hasi saioa zure kontuan &brandShortName;(r)i ahalik eta zuku gehien ateratzeko">
-<!ENTITY firstrun_signin_message "Konektatu eta abiatu">
 <!ENTITY firstrun_sendtab_title "Bidali fitxa">
 <!ENTITY firstrun_sendtab_message "Partekatu fitxak mugikorretik mahaigainera — berehala.">
-<!ENTITY firstrun_signin_button "Hasi saioa Sync-en">
-<!ENTITY newfirstrun_signin_button "Gaitu sinkronizazioa">
-<!ENTITY updatednewfirstrun_signin_button "Hasi saioa &brandShortName;(e)n">
+<!ENTITY firstrun_signin_message "Konektatu eta abiatu">
 <!ENTITY onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_notnow "Orain ez">
 <!ENTITY firstrun_button_next "Hurrengoa">
-
-<!ENTITY firstrun_signin_button2 "Hasi saioa">
+<!ENTITY firstrun_signup_button "Eman izena">
 
 <!ENTITY firstrun_tabqueue_title "Loturak">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Zu">
 <!ENTITY firstrun_account_message "&brandShortName; beste gailu batean duzu?">
-
-<!ENTITY firstrun_signup_button "Eman izena">
 
 <!ENTITY  onboard_start_restricted1 "Egon seguru eta kontrolpean &brandShortName;(r)en bertsio sinplifikatu honekin.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Hona konektatuta: ">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,15 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Ongi etorri &brandShortName;(e)ra">
 <!ENTITY activity_stream_signin_description "Hasi sinkronizatzen laster-markak, historia eta gehiago zure Firefox kontua erabiliz.">
-<!ENTITY activity_stream_signin_button "Hasi saioa">
-
 <!ENTITY activity_stream_signup_button "Eman izena">
 <!ENTITY activity_stream_signin_prompt "Dagoeneko baduzu kontua?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Hasi saioa.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Zure Firefox eraberritua 2020an iritsiko da">
 
 <!ENTITY activity_stream_topsites "Gune erabilienak">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
