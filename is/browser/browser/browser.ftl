@@ -153,6 +153,7 @@ identity-connection-internal = Þetta er örugg { -brand-short-name } síða.
 identity-connection-file = Þessi síða er vistuð á tölvunni þinni.
 identity-extension-page = Þessi síða er hlaðinn inn af viðbót.
 identity-active-blocked = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.
+identity-custom-root = Tenging staðfest af útgefanda vottorðs sem ekki er viðurkennt af Mozilla.
 identity-passive-loaded = Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).
 identity-active-loaded = Þú hefur slökkt á vernd fyrir þessa síðu.
 identity-weak-encryption = Þessi síða notar lélega dulkóðun.
