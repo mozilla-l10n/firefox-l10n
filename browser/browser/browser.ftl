@@ -161,15 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Kết nối không an toàn
+identity-connection-secure = Kết nối an toàn
 identity-connection-internal = Đây là một trang an toàn của { -brand-short-name }
 identity-connection-file = Trang này đã được lưu ở máy tính của bạn.
+identity-extension-page = Trang này được tải từ một tiện ích mở rộng.
 identity-active-blocked = { -brand-short-name } đã chặn những phần không an toàn của trang này.
+identity-custom-root = Kết nối được xác minh bởi nhà phát hành chứng chỉ không được Mozilla công nhận.
 identity-passive-loaded = Có nhiều thành phân của trang không an toàn (ví dụ như ảnh).
 identity-active-loaded = Bạn đã tắt tính năng bảo vệ trên trang này.
 identity-weak-encryption = Trang này sử dụng mã hóa yếu.
 identity-insecure-login-forms = Đăng nhập vào trang này bạn có thể bị xâm nhập.
+identity-permissions =
+    .value = Quyền hạn
 identity-permissions-reload-hint = Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.
 identity-permissions-empty = Bạn chưa cấp cho trang này bất kỳ một quyền đặc biệt nào.
+identity-clear-site-data =
+    .label = Xóa cookie và dữ liệu trang web…
+identity-connection-not-secure-security-view = Bạn không được kết nối an toàn với trang web này.
+identity-connection-verified = Bạn đang kết nối an toàn tới trang này.
+identity-ev-owner-label = Chứng chỉ được cấp cho:
+identity-description-custom-root = Mozilla không công nhận nhà phát hành chứng chỉ này. Nó có thể đã được thêm từ hệ điều hành của bạn hoặc bởi quản trị viên. <label data-l10n-name="link">Tìm hiểu thêm</label>
 identity-remove-cert-exception =
     .label = Loại bỏ ngoại lệ
     .accesskey = R
