@@ -158,3 +158,30 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 25em
+
+## Identity Panel
+
+identity-extension-page = Ta strona została wczytana przez rozszerzenie.
+identity-active-blocked = { -brand-short-name } zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.
+identity-active-loaded = Ochrona na tej stronie została wyłączona przez użytkownika.
+identity-weak-encryption = Strona używa słabego szyfrowania.
+identity-insecure-login-forms = Dane logowania wprowadzone na tej stronie nie są chronione.
+identity-permissions-reload-hint = Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.
+identity-clear-site-data =
+    .label = Wyczyść ciasteczka i dane stron…
+identity-remove-cert-exception =
+    .label = Usuń wyjątek
+    .accesskey = U
+identity-description-insecure-login-forms = Dane logowania wprowadzone na tej stronie nie są bezpieczne i mogą być dostępne dla innych.
+identity-description-active-blocked = { -brand-short-name } zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny. <label data-l10n-name="link">Więcej informacji</label>
+identity-description-active-loaded-insecure = Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.
+identity-learn-more =
+    .value = Więcej informacji
+identity-disable-mixed-content-blocking =
+    .label = Tymczasowo wyłącz ochronę
+    .accesskey = T
+identity-enable-mixed-content-blocking =
+    .label = Włącz ochronę
+    .accesskey = W
+identity-more-info-link-text =
+    .label = Więcej informacji…
