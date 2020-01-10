@@ -158,3 +158,34 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Dette er en sikker { -brand-short-name }-side.
+identity-connection-file = Denne siden lagres på datamaskinen din.
+identity-active-blocked = { -brand-short-name } blokkerte deler av denne siden som ikke er sikre.
+identity-passive-loaded = Deler av denne siden er ikke sikker (f.eks. bilder).
+identity-active-loaded = Du har slått av beskyttelse på denne siden.
+identity-weak-encryption = Denne siden bruker svak kryptering.
+identity-insecure-login-forms = Innloggingsinfo skrevet inn på denne kan leses av en tredjepart.
+identity-permissions-empty = Du har ikke gitt dette nettstedet noen spesialtillatelser.
+identity-remove-cert-exception =
+    .label = Fjern unntak
+    .accesskey = F
+identity-description-insecure = Tilkoblingen til dette nettstedet er ikke privat. Informasjon du sender kan leses av andre (som f.eks. passord, meldinger, kredittkort, osv.).
+identity-description-insecure-login-forms = Innloggingsinformasjonen du skriver inn på denne siden er ikke trygg, og kan kompromitteres.
+identity-description-weak-cipher-intro = Tilkoblingen til dette nettstedet bruker svak kryptering, og er ikke privat.
+identity-description-weak-cipher-risk = Andre personer kan se informasjonen eller endre nettstedets oppførsel.
+identity-description-active-blocked = { -brand-short-name } har blokkert deler av denne siden som ikke er sikker. <label data-l10n-name="link">Les mer</label>
+identity-description-passive-loaded = Tilkoblingen er ikke privat, og informasjon du sender til nettstedet kan vises av andre.
+identity-description-passive-loaded-insecure = Dette nettstedet inneholder informasjon som ikke er overført sikkert (f.eks. bilder). <label data-l10n-name="link">Les mer</label>
+identity-description-passive-loaded-mixed = Selv om { -brand-short-name } har blokkert noe innhold, er det fortsatt innhold på denne siden som ikke er sikker (f.eks. bilder). <label data-l10n-name="link">Les mer</label>
+identity-description-active-loaded = Dette nettstedet inneholder innhold som ikke er overført sikkert (som f.eks. skript), og tilkoblingen til nettstedet er derfor ikke privat.
+identity-description-active-loaded-insecure = Informasjon du sender til dette nettstedet kan vises av andre (som passord, meldinger, kredittkort, osv.).
+identity-learn-more =
+    .value = Les mer
+identity-disable-mixed-content-blocking =
+    .label = Slå av beskyttelse
+    .accesskey = a
+identity-more-info-link-text =
+    .label = Mer informasjon
