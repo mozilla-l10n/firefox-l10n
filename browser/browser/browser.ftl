@@ -157,6 +157,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = การเชื่อมต่อไม่ปลอดภัย
+identity-connection-secure = การเชื่อมต่อปลอดภัย
 identity-connection-internal = นี่คือหน้า { -brand-short-name } ที่ปลอดภัย
 identity-connection-file = หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ
 identity-extension-page = หน้านี้ถูกโหลดจากส่วนขยาย
@@ -171,6 +173,9 @@ identity-permissions-reload-hint = คุณอาจจำเป็นต้อ
 identity-permissions-empty = คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิอนุญาตพิเศษใด ๆ
 identity-clear-site-data =
     .label = ล้างคุกกี้และข้อมูลไซต์…
+identity-connection-not-secure-security-view = คุณไม่ได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้
+identity-connection-verified = คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้
+identity-ev-owner-label = ออกใบรับรองให้กับ:
 identity-remove-cert-exception =
     .label = เอาข้อยกเว้นออก
     .accesskey = อ
