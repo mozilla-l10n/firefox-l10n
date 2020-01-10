@@ -161,6 +161,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Connection not secure
+identity-connection-secure = Connection secure
 identity-connection-internal = This is a secure { -brand-short-name } page.
 identity-connection-file = This page is stored on your computer.
 identity-extension-page = This page is loaded from an extension.
@@ -169,8 +171,15 @@ identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
 identity-insecure-login-forms = Logins entered on this page could be compromised.
+identity-permissions =
+    .value = Permissions
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-permissions-empty = You have not granted this site any special permissions.
+identity-clear-site-data =
+    .label = Clear Cookies and Site Data…
+identity-connection-not-secure-security-view = You are not securely connected to this site.
+identity-connection-verified = You are securely connected to this site.
+identity-ev-owner-label = Certificate issued to:
 identity-remove-cert-exception =
     .label = Remove Exception
     .accesskey = R
