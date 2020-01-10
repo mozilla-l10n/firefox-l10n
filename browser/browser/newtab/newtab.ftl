@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     có liên quan, được đánh giá cao từ các nhà tài trợ chọn lọc. Hãy yên tâm, dữ liệu duyệt web
     của bạn không bao giờ để lại bản sao { -brand-product-name } cá nhân của bạn — chúng tôi không thể nhìn
     thấy nó và các nhà tài trợ của chúng tôi cũng không thể.
+newtab-privacy-modal-paragraph-2 =
+    Ngoài việc tận hưởng những câu chuyện hấp dẫn, chúng tôi cũng cho bạn thấy có liên quan,
+    nội dung được đánh giá cao từ các nhà tài trợ chọn lọc. Hãy yên tâm, <strong>dữ liệu duyệt của bạn
+    không bao giờ để lại bản sao { -brand-product-name }</strong> của bạn — chúng tôi không thể nhìn thấy nó
+    và các tài trợ của chúng tôi cũng vậy.
 newtab-privacy-modal-link = Tìm hiểu cách hoạt động của quyền riêng tư trên thẻ mới
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xóa đánh dấu
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Các chủ đề phổ biến:
 newtab-pocket-more-recommendations = Nhiều khuyến nghị hơn
-newtab-pocket-how-it-works = Nó hoạt động như thế nào
 newtab-pocket-whats-pocket = { -pocket-brand-name } là gì?
 newtab-pocket-cta-button = Nhận { -pocket-brand-name }
 newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
