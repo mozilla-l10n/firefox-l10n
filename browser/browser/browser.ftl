@@ -163,6 +163,7 @@ bookmark-panel =
 
 identity-connection-internal = Mae hon yn dudalen { -brand-short-name } diogel.
 identity-connection-file = Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.
+identity-extension-page = Mae'r dudalen wedi ei llwytho o estyniad.
 identity-active-blocked = Mae { -brand-short-name } wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.
 identity-passive-loaded = Nid yw rhannau o'r dudalen hon yn ddiogel (megis delweddau).
 identity-active-loaded = Rydych wedi analluogi diogelwch ar y dudalen hon.
