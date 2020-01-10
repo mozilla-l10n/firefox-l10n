@@ -88,7 +88,7 @@ newtab-privacy-modal-button-done = Hotovo
 newtab-privacy-modal-header = Na vašom súkromí záleží.
 newtab-privacy-modal-link = Ďalšie informácie o tom, ako funguje súkromie na stránke novej karty
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Odstrániť záložku
@@ -175,7 +175,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Túto sekciu sa nepo
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populárne témy:
 newtab-pocket-more-recommendations = Ďalšie odporúčania
-newtab-pocket-how-it-works = Ako to funguje
+newtab-pocket-whats-pocket = Čo je { -pocket-brand-name }?
 newtab-pocket-cta-button = Získajte { -pocket-brand-name }
 newtab-pocket-cta-text = Ukladajte si články do služby { -pocket-brand-name } a užívajte si skvelé čítanie.
 

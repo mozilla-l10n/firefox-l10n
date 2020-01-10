@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Skúsiť znova">
 <!ENTITY returnToPreviousPage.label "Prejsť naspäť">
 <!ENTITY returnToPreviousPage1.label "Prejsť naspäť (odporúča sa)">
-<!ENTITY advanced.label "Rozšírené">
-<!ENTITY continue2.label "Viac…">
 <!ENTITY advanced2.label "Rozšírené…">
-<!ENTITY moreInformation.label "Ďalšie informácie">
 <!ENTITY viewCertificate.label "Zobraziť certifikát">
 
 <!-- Specific error messages -->
@@ -146,13 +143,11 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Vaše pripojenie nie je zabezpečené">
 <!ENTITY certerror.longpagetitle2 "Varovanie: možné bezpečnostné riziko">
 <!ENTITY certerror.sts.longpagetitle  "Nepripojené: možné bezpečnostné riziko">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Vlastník stránky <span class='hostname'/> nakonfiguroval svoju stránku nesprávne.  Kvôli ochrane vašich údajov pred odcudzením blokuje &brandShortName; pripojenie k tejto webovej stránke.">
 <!ENTITY certerror.introPara2 "Aplikácia &brandShortName; rozpoznala potenciálne bezpečnostné riziko a stránku <span class='hostname'/> nenačítala. Ak sa napriek tomu rozhodnete danú stránku navštíviť, útočníci sa môžu pokúsiť odcudziť vaše informácie, ako napríklad heslá, e-mailové adresy alebo údaje o platobných kartách.">
 <!ENTITY certerror.sts.introPara "Aplikácia &brandShortName; rozpoznala potenciálne bezpečnostné riziko a stránku <span class='hostname'/> nenačítala, pretože táto webová stránka vyžaduje zabezpečené pripojenie.">
 
@@ -187,11 +182,10 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanú stránku nemožno zobraziť, pretože pri prenose údajov došlo k chybe.</p><ul><li>Kontaktujte prosím vlastníkov webovej stránky a informujte ich o tomto probléme.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">
 <!ENTITY securityOverride.exceptionButton1Label "Rozumiem riziku a chcem pokračovať">
 
 <!ENTITY errorReporting.automatic2 "Hlásiť chyby ako je táto a pomôcť tým organizácii Mozilla identifikovať a blokovať škodlivé stránky">
@@ -205,18 +199,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšírené informácie: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> Aplikácia &brandShortName; sa nemohla pripojiť k adrese <span id='wrongSystemTime_URL'/>, pretože čas na vašom počítači je pravdepodobe zle nastavený. Toto bráni vytvoreniu zabezpečeného pripojenia.</p> <p>Čas na vašom počítači je nastavený na <span id='wrongSystemTime_systemDate'/>, mal by však byť nastavený na <span id='wrongSystemTime_actualDate'/>. Opravte, prosím, nastavenie času a dátumu na vašom počítači.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Aplikácia &brandShortName; sa nemohla pripojiť k adrese <span id='wrongSystemTimeWithoutReference_URL'/>, pretože čas na vašom počítači je pravdepodobne zle nastavený. Toto bráni vytvoreniu zabezpečeného pripojenia.</p> <p>Čas na vašom počítači je nastavený na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Opravte, prosím, nastavenie času a dátumu na vašom počítači.</p>">
-
-<!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
 <!ENTITY certerror.pagetitle2  "Varovanie: možné bezpečnostné riziko">
 <!ENTITY certerror.sts.pagetitle  "Nepripojené: možné bezpečnostné riziko">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Táto stránka používa HTTP
-Strict Transport Security (HSTS), čím určuje, že &brandShortName; sa k nej má pripájať len zabezpečene.
-Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Server <span class='hostname'></span> má nastavené bezpečnostné pravidlo HTTP Strict Transport Security (HSTS), ktoré vynucuje používanie len zabezpečeného spojenia. Pre pripojenie k tejto stránke nie je možné pridať výnimku.">
 <!ENTITY certerror.copyToClipboard.label "Kopírovať text do schránky">
 
@@ -239,6 +223,10 @@ Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
 
 <!ENTITY prefReset.longDesc "Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?">
 <!ENTITY prefReset.label "Obnoviť predvolené nastavenia">
+
+<!ENTITY enableTls10.longDesc "Táto stránka zrejme nepodporuje TLS protokol verzie 1.2, čo je minimálna verzia, ktorú &brandShortName; podporuje. Povolenie TLS 1.0 a TLS 1.1 môže problém s nadviazaním spojenia vyriešiť.">
+<!ENTITY enableTls10.note "Podpora TLS 1.0 a TLS 1.1 bude v nasledujúcom vydaní odstránená.">
+<!ENTITY enableTls10.label "Povoliť TLS 1.0 a 1.1">
 
 <!ENTITY networkProtocolError.title "Chyba sieťového protokolu">
 <!ENTITY networkProtocolError.longDesc "<p>Stránka, ktorú sa pokúšate navštíviť nemôže byť zobrazená, pretože bola zistená chyba v sieťovom protokole.</p><ul><li>Kontaktujte, prosím, vlastníkov stránky a informujte ich o tomto probléme.</li></ul>">
