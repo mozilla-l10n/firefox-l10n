@@ -154,3 +154,39 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Бұл - қауіпсіз { -brand-short-name } беті.
+identity-connection-file = Бұл парақ сіздің компьютеріңізде сақталған.
+identity-extension-page = Бұл парақ кеңейтуден жүктелген.
+identity-active-blocked = { -brand-short-name } бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.
+identity-passive-loaded = Бұл парақтың кейбір бөліктері қауіпсіз емес (суреттер сияқты).
+identity-active-loaded = Бұл парақта қорғанысты сөндіргенсіз.
+identity-weak-encryption = Бұл парақ әлсіз шифрлеуді қолданады.
+identity-insecure-login-forms = Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.
+identity-permissions-reload-hint = Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.
+identity-permissions-empty = Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.
+identity-remove-cert-exception =
+    .label = Ережеден тыс жағдайды өшіру
+    .accesskey = ш
+identity-description-insecure = Бұл веб сайтқа байланысыңыз шынымен жеке емес. Басқа адамдар сіздің жіберетін ақпаратыңызды көре алады (парольдер, хабарламалар, кредит карталар, т.б.).
+identity-description-insecure-login-forms = Бұл парақта енгізілген логин ақпараты қауіпсіз емес, және оған бөтен адамдардың қолы жетуі мүмкін.
+identity-description-weak-cipher-intro = Бұл веб сайтқа байланысыңыз әлсіз шифрлеуді қолданады және шын жеке емес.
+identity-description-weak-cipher-risk = Басқа адамдар сіздің ақпаратыңызды көре алады немесе веб сайттың мінез-құлығын өзгерте алады.
+identity-description-active-blocked = { -brand-short-name } бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған. <label data-l10n-name="link">Көбірек білу</label>
+identity-description-passive-loaded = Бұл веб сайтқа байланысыңыз шынымен жеке емес және басқа адамдар сіз осы сайтпен бөліскен ақпаратты көре алады.
+identity-description-passive-loaded-insecure = Бұл веб сайттың кейбір құрамасы қауіпсіз емес (суреттер сияқты). <label data-l10n-name="link">Көбірек білу</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } кейбір құраманы блоктаса да, бұл парақтың кейбір құрамасы қауіпсіз емес (суреттер сияқты). <label data-l10n-name="link">Көбірек білу</label>
+identity-description-active-loaded = Бұл веб сайттың кейбір құрамасы қауіпсіз емес (скрипттер сияқты) және сіздің оған байланысыңыз шынымен жеке емес.
+identity-description-active-loaded-insecure = Бұл сайтпен сіз бөліскен ақпаратты басқа адамдар көре алады (парольдер, хабарламалар, кредит карталар, т.б.).
+identity-learn-more =
+    .value = Көбірек білу
+identity-disable-mixed-content-blocking =
+    .label = Қорғанысты қазірге сөндіру
+    .accesskey = н
+identity-enable-mixed-content-blocking =
+    .label = Қорғанысты іске қосу
+    .accesskey = е
+identity-more-info-link-text =
+    .label = Көбірек білу
