@@ -107,3 +107,41 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Kayandi sanda tilasu ceecijinay
     .accesskey = t
+
+## Bookmark Panel
+
+
+## Identity Panel
+
+identity-connection-internal = Woo ti { -brand-short-name } moo saajante.
+identity-connection-file = Moɲoo woo n' ka jisandii war ordinateroo ga.
+identity-active-blocked = { -brand-short-name } na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.
+identity-passive-loaded = Moɲoo woo doo fooyaŋ ši saajaw (sanda biiyaŋ).
+identity-active-loaded = War na jejebuyanoo kaa moɲoo woo ga.
+identity-weak-encryption = Moɲoo woo tuguyan dabaroo ga yalaafu.
+identity-insecure-login-forms = Huruyan šilbawey kaŋ goo moɲoo woo ši hima saajante.
+identity-permissions-reload-hint = War ma moɲoo zumandi taaga ka barmawey kanandi.
+identity-permissions-empty = War mana cerecere duɲeyan kul noo nungoo woo se.
+identity-remove-cert-exception =
+    .label = Hasaraw kaa
+    .accesskey = k
+identity-description-insecure = War dobuyanoo moɲoo woo ga ši sutura. Boro taney ga hin ka dii šilbawey kaŋ war n'i sanba (sanda šennikufal, toonandiyan, garaw katta, nda tana).
+identity-description-insecure-login-forms = War huruyan šilbaa kaŋ war g'a dam moɲoo woo ga manti saajante nd'a hin ka fukkar.
+identity-description-weak-cipher-intro = War dobuyanoo moɲoo woo tuguyan dabaroo ga yalaafu nd'a ši sutura.
+identity-description-weak-cipher-risk = Boro taney ga hin ka dii war alhabarey wal'i ma nungoo aladaboo barmay.
+identity-description-active-blocked = { -brand-short-name } na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay. <label data-l10n-name="link">Bay ka tonton</label>
+identity-description-passive-loaded = War dobuyano ši sutura nda boro taney ga hin ka dii alhabarey kaŋ war n'i žemna nda nungoo.
+identity-description-passive-loaded-insecure = Nungoo goo nda gundekuna kaŋ manti saajante (sanda biiyaŋ). <label data-l10n-name="link">Bay ka tonton</label>
+identity-description-passive-loaded-mixed = Baa kaŋ { -brand-short-name } ga gundekuna jere gagay, gundekuna cindi moɲoo ga kaŋ manti saajante (sanda biiyaŋ). <label data-l10n-name="link">Bay ka tonton</label>
+identity-description-active-loaded = Nungoo woo goo nda gundekuna kaŋ manti saajante (sanda šigira dumiyaŋ) nda dobuyanoo ši sutura.
+identity-description-active-loaded-insecure = Boro taney ga hin ka dii alhabar kaŋ war g'a žemna nda nungoo woo (sanda šennikufal, tooonandiyan, garaw katta, nda tana).
+identity-learn-more =
+    .value = Bay ka tonton
+identity-disable-mixed-content-blocking =
+    .label = Jejebu kaa sohõ se
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Jejebuyan tunandi
+    .accesskey = e
+identity-more-info-link-text =
+    .label = Alhabar tontoni
