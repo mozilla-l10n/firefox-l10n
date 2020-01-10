@@ -154,3 +154,50 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 30em
+
+## Identity Panel
+
+identity-connection-not-secure = La connexió no és segura
+identity-connection-secure = Connexió segura
+identity-connection-internal = Esta és una pàgina del { -brand-short-name } segura.
+identity-connection-file = Esta pàgina està guardada a l'ordinador.
+identity-extension-page = Esta pàgina s'ha carregat des d'una extensió.
+identity-active-blocked = El { -brand-short-name } ha blocat parts d'esta pàgina que no són segures.
+identity-custom-root = Connexió verificada per un emissor de certificats que no és reconegut per Mozilla.
+identity-passive-loaded = Parts d'esta pàgina no són segures (com les imatges).
+identity-active-loaded = Heu desactivat la protecció en esta pàgina.
+identity-weak-encryption = Esta pàgina utilitza xifratge feble.
+identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en esta pàgina podrien estar en risc.
+identity-permissions =
+    .value = Permisos
+identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
+identity-permissions-empty = No heu donat cap permís especial a este lloc.
+identity-clear-site-data =
+    .label = Esborra les galetes i dades dels llocs…
+identity-connection-not-secure-security-view = No esteu connectat de forma segura a este lloc.
+identity-connection-verified = Esteu connectat de forma segura a este lloc.
+identity-ev-owner-label = Certificat emés per a:
+identity-description-custom-root = Mozilla no reconeix este emissor de certificats. És possible que l'haja afegit el vostre sistema operatiu o un administrador. <label data-l10n-name="link">Més informació</label>
+identity-remove-cert-exception =
+    .label = Elimina l'excepció
+    .accesskey = x
+identity-description-insecure = La connexió a este lloc no és privada. La informació que envieu podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).
+identity-description-insecure-login-forms = La informació d'inici de sessió que introduïu en esta pàgina no és segura i podria interceptar-se.
+identity-description-weak-cipher-intro = La connexió a este lloc web utilitza un xifratge feble i no és privada.
+identity-description-weak-cipher-risk = Altres persones podrien visualitzar la informació o modificar el comportament del lloc web.
+identity-description-active-blocked = El { -brand-short-name } ha blocat parts d'esta pàgina que no són segures. <label data-l10n-name="link">Més informació</label>
+identity-description-passive-loaded = La connexió no és privada i la informació que compartiu amb el lloc podria ser visualitzada per altres persones.
+identity-description-passive-loaded-insecure = Este lloc web inclou contingut que no és segur (com les imatges). <label data-l10n-name="link">Més informació</label>
+identity-description-passive-loaded-mixed = Malgrat que el { -brand-short-name } ha blocat parts del contingut, encara hi ha contingut de la pàgina que no és segur (such as images). <label data-l10n-name="link">Més informació</label>
+identity-description-active-loaded = Este lloc web inclou contingut que no és segur (com els scripts) i la connexió no és privada.
+identity-description-active-loaded-insecure = La informació que compartiu amb este lloc podria ser visualitzada per altres persones (com contrasenyes, missatges, targetes de crèdit, etc.).
+identity-learn-more =
+    .value = Més informació
+identity-disable-mixed-content-blocking =
+    .label = Desactiva la protecció esta vegada
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Activa la protecció
+    .accesskey = v
+identity-more-info-link-text =
+    .label = Més informació
