@@ -152,6 +152,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = ناقابل بھروسا کنکشن
+identity-connection-secure = قابل بھروسا کنکشن
 identity-connection-internal = یہ ایک قابل بھروسا { -brand-short-name } صفحہ ہے۔
 identity-connection-file = یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔
 identity-extension-page = یہ صفہ ایکسٹینشن سے لوڈ کیا گیا ہے۔
@@ -160,10 +162,13 @@ identity-passive-loaded = اس صفحے کے حصے قابل بھروسا نہی
 identity-active-loaded = آپ نے اس صفحے پر حفاظت نا اہل بنا دی ہے۔
 identity-weak-encryption = یہ صفحہ کمزور خفیہ کاری استعمال کرتا ہے۔
 identity-insecure-login-forms = اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔
+identity-permissions =
+    .value = اجازتیں
 identity-permissions-reload-hint = تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔
 identity-permissions-empty = آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔
 identity-clear-site-data =
     .label = کوکیاں اور سائٹ کے کواِئف… صاف کریں
+identity-connection-verified = آپ اس سائٹ کے ساتھ محفوظ طریقے سے جڑے ہوئے ہیں۔
 identity-description-insecure = اس سائٹ سے آپ کی کنکشن رازدار نہیں ہے۔ جو معلومات آپ بھیجتے ہیں (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ) اسے اور لوگ دیکھ سکیں گے۔
 identity-description-insecure-login-forms = جو لاگ ان معلومات آپ اس صفحے پر داخل کرتے ہیں وہ محفوظ نہیں ہے اور اشتباہ ہو سکتی ہے۔
 identity-description-weak-cipher-intro = اس ویب سائٹ پر آپ کے کنکشن کمزور خفیہ کندھ استعمال کرتا ہے اور نجی نہیں ہے۔
