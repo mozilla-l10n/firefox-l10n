@@ -163,6 +163,7 @@ identity-connection-internal = นี่คือหน้า { -brand-short-nam
 identity-connection-file = หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ
 identity-extension-page = หน้านี้ถูกโหลดจากส่วนขยาย
 identity-active-blocked = { -brand-short-name } ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย
+identity-custom-root = การเชื่อมต่อถูกตรวจสอบโดยผู้ออกใบรับรองที่ Mozilla ไม่รู้จัก
 identity-passive-loaded = บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่น ภาพ)
 identity-active-loaded = คุณได้ปิดใช้งานการป้องกันในหน้านี้
 identity-weak-encryption = หน้านี้ใช้การเข้ารหัสที่อ่อนแอ
@@ -176,6 +177,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = คุณไม่ได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้
 identity-connection-verified = คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้
 identity-ev-owner-label = ออกใบรับรองให้กับ:
+identity-description-custom-root = Mozilla ไม่รู้จักผู้ออกใบรับรองนี้ ซึ่งอาจถูกเพิ่มจากระบบปฏิบัติการของคุณหรือโดยผู้ดูแลระบบ <label data-l10n-name="link">เรียนรู้เพิ่มเติม</label>
 identity-remove-cert-exception =
     .label = เอาข้อยกเว้นออก
     .accesskey = อ
