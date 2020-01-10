@@ -180,7 +180,7 @@ identity-clear-site-data =
     .label = Garbitu cookieak eta guneetako datuak…
 identity-connection-not-secure-security-view = Ez zaude modu seguruan konektatuta gune honetara.
 identity-connection-verified = Modu seguruan zaude konektatuta gune honetara.
-identity-ev-owner-label = Ziurtagiriaren honi jaulkia:
+identity-ev-owner-label = Ziurtagiria honi jaulkia:
 identity-description-custom-root = Mozillak ez du ziurtagiri-jaulkitzaile hau ontzat hartzen. Zure sistema eragileak edo administratzaile batek gehitu du agian. <label data-l10n-name="link">Argibide gehiago</label>
 identity-remove-cert-exception =
     .label = Kendu salbuespena
@@ -189,12 +189,12 @@ identity-description-insecure = Gune honetarako zure konexioa ez da pribatua. Bi
 identity-description-insecure-login-forms = Orri honetan sartzen duzun saio-hasiera informazioa ez da segurua eta arriskuan egon liteke.
 identity-description-weak-cipher-intro = Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.
 identity-description-weak-cipher-risk = Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.
-identity-description-active-blocked = { -brand-short-name }(e)k seguruak ez diren orri honetako zatiak blokeatu ditu. <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-active-blocked = { -brand-short-name }(e)k seguruak ez diren orri honetako atalak blokeatu ditu. <label data-l10n-name="link">Argibide gehiago</label>
 identity-description-passive-loaded = Zure konexioa ez da pribatua eta gunearekin partekatzen duzun informazioa besteek ikus lezakete.
-identity-description-passive-loaded-insecure = Wegune honek segurua ez den edukia dauka (adibidez irudiak). <label data-l10n-name="link">Argibide gehiago</label>
-identity-description-passive-loaded-mixed = Nahiz eta { -brand-short-name }(e)k zenbait eduki blokeatu duen, segurua ez den edukia dauka oraindik orriak (adibidez irudiak). <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-passive-loaded-insecure = Webgune honek segurua ez den edukia du (adib. irudiak). <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-passive-loaded-mixed = { -brand-short-name }(e)k zenbait eduki blokeatu arren, oraindik ere segurua ez den edukia du orriak (adib. irudiak). <label data-l10n-name="link">Argibide gehiago</label>
 identity-description-active-loaded = Wegune honek segurua ez den edukia dauka (adibidez script-ak) eta zure konexioa ez da pribatua.
-identity-description-active-loaded-insecure = Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu-txartelak, etab.).
+identity-description-active-loaded-insecure = Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).
 identity-learn-more =
     .value = Argibide gehiago
 identity-disable-mixed-content-blocking =
