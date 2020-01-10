@@ -158,3 +158,35 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Це захищена сторінка { -brand-short-name }.
+identity-connection-file = Ця сторінка збережена на вашому комп'ютері.
+identity-extension-page = Ця сторінка завантажена з розширення.
+identity-active-blocked = { -brand-short-name } заблокував небезпечні частини цієї сторінки.
+identity-passive-loaded = Частини цієї сторінки (такі як зображення) незахищені.
+identity-active-loaded = Ви вимкнули захист на цій сторінці.
+identity-weak-encryption = Ця сторінка використовує слабке шифрування.
+identity-insecure-login-forms = Паролі, введені на цій сторінці, можуть бути скомпрометовані.
+identity-permissions-empty = Ви не надали цьому сайту жодних спеціальних дозволів.
+identity-remove-cert-exception =
+    .label = Вилучити виняток
+    .accesskey = В
+identity-description-insecure = Ваше з'єднання з цим сайтом не є приватним. Інформація, яку ви відправляєте може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
+identity-description-insecure-login-forms = Введені на цій сторінці дані входу не захищені і можуть бути перехоплені.
+identity-description-weak-cipher-intro = Ваше з'єднання з цим веб-сайтом використовує слабке шифрування і не є приватним.
+identity-description-weak-cipher-risk = Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.
+identity-description-active-blocked = { -brand-short-name } заблокував небезпечні частини цієї сторінки. <label data-l10n-name="link">Докладніше</label>
+identity-description-passive-loaded = Ваше з'єднання не є приватним й інформація, якою ви ділитесь з сайтом може бути переглянута іншими.
+identity-description-active-loaded-insecure = Інформація, якою ви ділитесь з цим сайтом може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
+identity-learn-more =
+    .value = Докладніше
+identity-disable-mixed-content-blocking =
+    .label = Тимчасово вимкнути захист
+    .accesskey = в
+identity-enable-mixed-content-blocking =
+    .label = Увімкнути захист
+    .accesskey = У
+identity-more-info-link-text =
+    .label = Докладніше
