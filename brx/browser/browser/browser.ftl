@@ -122,6 +122,14 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-permissions =
+    .value = गनायथि
+identity-clear-site-data =
+    .label = कुकिज आरो साइट दाटा फोरखौ खोमोर...
+identity-learn-more =
+    .value = गोबां सोलों
 identity-disable-mixed-content-blocking =
     .label = दानि थाखाय रैखाथिखौ लोरबां खालाम
     .accesskey = D
+identity-more-info-link-text =
+    .label = गोबां फोरमायथिहोग्रा
