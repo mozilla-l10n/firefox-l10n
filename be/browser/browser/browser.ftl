@@ -165,6 +165,7 @@ identity-connection-not-secure = Злучэнне не бяспечнае
 identity-connection-secure = Бяспечнае злучэнне
 identity-connection-internal = Гэта бяспечная { -brand-short-name } старонка.
 identity-connection-file = Гэта старонка захоўваецца на вашым камп'ютары.
+identity-extension-page = Гэтая старонка загружана з пашырэння.
 identity-active-blocked = { -brand-short-name } заблакаваў небяспечныя часткі старонкі.
 identity-custom-root = Падключэнне пацверджана сертыфікатам эмітэнта, які не прызнаны Mozilla.
 identity-passive-loaded = Некаторыя часткі гэтай старонкі небяспечныя (напрыклад, выявы).
