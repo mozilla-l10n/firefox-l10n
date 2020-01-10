@@ -157,12 +157,16 @@ bookmark-panel =
 
 identity-connection-internal = Bu səhifə təhlükəsiz bir { -brand-short-name } səhifəsidir.
 identity-connection-file = Bu səhifə sizin kompüterinizdə saxlanıb.
+identity-extension-page = Bu səhifə uzantıdan yüklənib.
+identity-active-blocked = { -brand-short-name } bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi.
 identity-passive-loaded = Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.
 identity-active-loaded = Bu səhifədə qorumanı söndürmüsünüz.
 identity-weak-encryption = Bu səhifə zəif şifrləmə istifadə edir.
 identity-insecure-login-forms = Bu səhifədə girilən məlumatlar oğurlana bilər.
 identity-permissions-reload-hint = Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.
 identity-permissions-empty = Bu sayta heç bir xüsusi icazə verməmisiniz.
+identity-clear-site-data =
+    .label = Çərəzlər və Sayt Məlumatlarını Təmizlə…
 identity-remove-cert-exception =
     .label = İstisnanı sil
     .accesskey = s
@@ -170,8 +174,10 @@ identity-description-insecure = Bu səhifəyə olan bağlantınız məxfi deyil.
 identity-description-insecure-login-forms = Bu səhifədə yazdığınız daxil olma məlumatları qorunmur və oğurlana bilər.
 identity-description-weak-cipher-intro = Bu səhifəyə olan bağlantınız zəif şifrləmə istifadə edir və məxfi deyil.
 identity-description-weak-cipher-risk = Başqaları sizin məlumatlarınızı görə və ya saytın davranışını səyişdirə bilər.
+identity-description-active-blocked = { -brand-short-name } bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi. <label data-l10n-name="link">Ətraflı Öyrən</label>
 identity-description-passive-loaded = Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.
 identity-description-passive-loaded-insecure = Saytda güvənilir olmayan məzmun var (şəkillər kimi). <label data-l10n-name="link">Ətraflı Öyrən</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } bəzi məzmunları əngəlləsə də bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var. <label data-l10n-name="link">Ətraflı Öyrən</label>
 identity-description-active-loaded = Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.
 identity-description-active-loaded-insecure = Bu saytla paylaşdığınız məlumatlar (məs. parollar, mesajlar, kredit kartları kimi) başqaları tərəfindən görülə bilər.
 identity-learn-more =
