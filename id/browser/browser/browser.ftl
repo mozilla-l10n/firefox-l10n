@@ -164,6 +164,7 @@ bookmark-panel =
 identity-connection-internal = Ini adalah laman { -brand-short-name } aman.
 identity-connection-file = Laman ini tersimpan di komputer Anda.
 identity-active-blocked = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman.
+identity-custom-root = Koneksi diverifikasi oleh penerbit sertifikat yang tidak dikenali oleh Mozilla.
 identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
 identity-active-loaded = Anda telah menonaktifkan perlindungan di laman ini.
 identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
@@ -171,6 +172,7 @@ identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa dik
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
 identity-permissions-empty = Anda belum memberikan izin khusus apa pun untuk situs ini.{ " " }
 identity-ev-owner-label = Sertifikat diterbitkan untuk:
+identity-description-custom-root = Mozilla tidak mengenali penerbit sertifikat ini. Itu mungkin telah ditambahkan dari sistem operasi Anda atau oleh administrator. <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
 identity-remove-cert-exception =
     .label = Buang Pengecualian
     .accesskey = B
