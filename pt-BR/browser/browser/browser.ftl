@@ -158,3 +158,15 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
+identity-connection-file = Esta página está armazenada no seu computador.
+identity-active-loaded = Você desativou a proteção nesta página.
+identity-weak-encryption = Esta página usa criptografia fraca.
+identity-disable-mixed-content-blocking =
+    .label = Desativar proteção por enquanto
+    .accesskey = D
+identity-more-info-link-text =
+    .label = Mais informações
