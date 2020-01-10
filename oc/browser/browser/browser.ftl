@@ -180,3 +180,5 @@ identity-disable-mixed-content-blocking =
 identity-enable-mixed-content-blocking =
     .label = Activar la proteccion
     .accesskey = A
+identity-more-info-link-text =
+    .label = Mai d’informacions
