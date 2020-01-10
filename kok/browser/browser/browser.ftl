@@ -55,3 +55,12 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = सोद स्थापितां बदलात
+
+## Bookmark Panel
+
+
+## Identity Panel
+
+identity-disable-mixed-content-blocking =
+    .label = आतापुरती सुरक्षा अक्षम करात
+    .accesskey = D
