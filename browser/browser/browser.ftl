@@ -158,3 +158,26 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Esta es una página segura de { -brand-short-name }.
+identity-active-blocked = { -brand-short-name } ha bloqueado partes de esta página que no son seguras.
+identity-passive-loaded = Partes de esta página no son seguras (por ejemplo: imágenes).
+identity-weak-encryption = Esta página usa un cifrado débil.
+identity-remove-cert-exception =
+    .label = Remover excepción
+    .accesskey = R
+identity-description-active-blocked = { -brand-short-name } ha bloqueado partes de esta página que no son seguras. <label data-l10n-name="link">Aprender más</label>
+identity-description-passive-loaded-insecure = Este sitio web contiene contenido que no es seguro (por ejemplo: imágenes). <label data-l10n-name="link">Aprender más</label>
+identity-description-passive-loaded-mixed = Aunque { -brand-short-name } ha bloqueado parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo: imágenes). <label data-l10n-name="link">Aprender más</label>
+identity-learn-more =
+    .value = Aprender más
+identity-disable-mixed-content-blocking =
+    .label = Desactivar protección por ahora
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Activar protección
+    .accesskey = E
+identity-more-info-link-text =
+    .label = Más información
