@@ -136,6 +136,7 @@ onboarding-pocket-anywhere-title = Ամեն դեպքում կարդալ և լս�
 onboarding-pocket-anywhere-text2 = Պահպանեք Ձեր նախընտրած բովանդակությունն անցանց ռեժիմով՝ { -pocket-brand-name } ծրագրով և կարդացեք, լսեք և դիտեք, երբ դա ձեր համար հարմար է։
 onboarding-pocket-anywhere-button = Փորձեք { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Վերցրեք Ձեր գաղտնաբառերը ամենուր
+onboarding-lockwise-passwords-text2 = Ապահով պահեք Ձեր գաղտնաբառերը և հեշտությամբ մուտք գործեք Ձեր հաշիվներ { -lockwise-brand-name } ֊ի օգնությամբ։
 onboarding-lockwise-passwords-button2 = Ստանալ հավելվածը
 onboarding-lockwise-strong-passwords-title = Ստեղծեք և պահեք լավ գաղտնաբառեր
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }-ը միանգամից ստեղծում է լավ գաղտնաբառեր և պահում դրանք մեկ տեղում։

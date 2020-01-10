@@ -276,8 +276,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Կառավարել DRM ծրագրաշարի օգտագործումը">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Բացել MIDI փեղկը">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Դուք արգելափակել եք ձեր տեսախցիկը այս կայքի համար:">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Դուք արգելափակել եք բարձրախոսը այս կայքի համար:">
 <!ENTITY urlbar.screenBlocked.tooltip            "Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համօգտագործելուց:">
@@ -290,6 +288,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Դուք արգելափակել եք այս կայքը Adobe Flash բաղադրիչը օգտագործելուց:">
 <!ENTITY urlbar.midiBlocked.tooltip              "Դուք արգելափակել եք MIDI մատչումը այս կայքին:">
 <!ENTITY urlbar.installBlocked.tooltip           "Դուք արգելափակել եք հավելման տեղակայումը այս վեբ կայքի համար։">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
@@ -639,6 +639,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Պահպանել հղումը Pocket-ում">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Դիտել Pocket ցուցակը">
 
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
@@ -831,21 +832,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Պատրաստ է">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Ցուցադրել խմբագրիչը պահման ժամանակ">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Կայքի անվտանգությունը">
 
+<!ENTITY identity.connection "Կապակցում">
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
 
+<!ENTITY identity.connectionSecure3 "Միացումը ապահով է">
+<!ENTITY identity.connectionNotSecure2 "Կապակցումը անվտանգ չէ">
+<!ENTITY identity.connectionNotSecureSecurityView "Այս կայքի հետ դուկ կապակցված եք անապահով կերպով։">
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
 <!ENTITY identity.connectionVerified2 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
+<!ENTITY identity.connectionVerified3 "Դուք անվտանգ կապակցվել եք այս կայքի հետ։">
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է:">
 <!ENTITY identity.extensionPage "Այս էջը բեռնվել է ընդլայնումից:">
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգված են:">
+<!ENTITY identity.customRoot "Կապը հաստատված է ըստ թողարկողի վավերագրի, որը ճանաչված չէ Mozilla-ի կողմից։">
 
+<!ENTITY identity.evOwnerLabel2 "Վկայագիր, որը տրվել է ՝">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:">
@@ -864,6 +875,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Չնայած &brandShortName;-ը արգելափակել է որոշ բովանդակություն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակություն (օր.՝ պատկերներ):">
 <!ENTITY identity.description.activeLoaded "Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ գրվածքներ) և ձեր կապակցումը գաղտնի չէ:">
 <!ENTITY identity.description.activeLoaded2 "Կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):">
+<!ENTITY identity.description.customRoot "Mozilla-ն չի ճանաչում այս վկայագրի թողարկողին: Այն կարող է ավելացվել ձեր գործավար համակարգից կամ համակարգավարի կողմից:">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Միացնել պաշտպանություն">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "Մ">
@@ -876,23 +888,41 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Մանրամասն">
 
+<!ENTITY identity.clearSiteData "Մաքրել նշոցիկները և կայքի տվյալները…">
 
 <!ENTITY identity.permissions "Թույլտվություններ">
 
+<!ENTITY identity.permissions3 "Իրավունքներ">
 <!ENTITY identity.permissionsEmpty "Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:">
 <!ENTITY identity.permissionsReloadHint "Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։">
+<!ENTITY identity.permissionsPreferences.tooltip "Բացել իրավունքների նախասիրությունները">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Բացել արգելքների նախընտրութիւնները">
 
 
+<!ENTITY protections.etpON.header "Ընդլայնված պաշտպանությունը հետապնդումից ՄԻԱՑՎԱԾ է այս կայքում">
+<!ENTITY protections.etpOFF.header "Ընդլայնված պաշտպանությունը հետապնդումից ԱՆՋԱՏՎԱԾ է այս կայքում">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Հետապնդումից ընդլայնված պաշտպանության մասին լրացուցիչ տեղեկություններ">
+<!ENTITY protections.settings.label "Պաշտպանության կարգավորումներ">
+<!ENTITY protections.showreport.label "Ցույց տալ զեկույց">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Կայքը չի՞ աշխատում:">
+<!ENTITY protections.siteNotWorkingView.title "Կայքը չի՞ աշխատում:">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Անջատեք պաշտպանությունները, եթե խնդիրներ ունեք.">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Մուտքի դաշտերը">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Ձևեր">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Վճարումներ">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Մեկնաբանություններ">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Տեսանյութեր">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Ուղարկել զեկույց">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -900,10 +930,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Արգելափակված">
+<!ENTITY protections.notBlocking2.label "Թույլատրված">
+<!ENTITY protections.notFound.label "Ոչ մեկը չի հայտնաբերվել">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Ինչո՞ւ։">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Դրանց արգելափակումը կարող է վնասել որոշ կայքերի բաղադրիչներ: Առանց հետապնդման, որոշ կոճակներ, ձևեր և մուտքային դաշտեր կարող են չգործել:">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Այս կայքի բոլոր հետքերը բեռնված են, քանի որ պաշտպանությունն անջատված է։">
+<!ENTITY protections.noTrackersFound.description "Ոչ մի հայտնի հետապնդումներ &brandShortName; չեն հայտնաբերվել այս էջում։">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Այս նշոցիները հետևում են ձեզ կայքից կայք տվյալներ հավաքելու այն մասին թե ինչ եք անում դուք առցանց։ Դրանք սահմանված են երրորդ կողմի մողմից ինչպիսիք են՝ գովազդատուները և վերլուծական ընկերությունները։">
+<!ENTITY protections.cryptominers.description "Գաղտնազերծիչները օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողը հանելու համար։ Գաղտնազերծիչի սցենարները չորացնում են ձեր մարտկոցը, դանդաղեցնում ձեր համակարգիչը և կարող են մեծացնել ձեր էներգիայի հաշիվը։">
+<!ENTITY protections.fingerprinters.description "Մատնահետքերը հավաքում են կարգավորումներ ձեր զննարկչից և համակարգչից ձեր հատկագիրը ստեղծելու համար։ Օգտագործելով այս թվային մատնահետքը, նրանք կարող են հետևել ձեզ տարբեր վեբ կայքերի միջով։">
+<!ENTITY protections.trackingContent2.description "Կայքերը կարող են բեռնել արտաքին գովազդներ, տեսանյութեր և այլ պարունակություն հետևման կոդով։ Պարունակության հետևումը արգելափակելը կարող է ավելի արագացնել կայքերի բեռնումը, բայց որոշ կոճակներ, ձևեր և մուտքագործման դաշտեր կարող են չաշխատել։">
+<!ENTITY protections.socialMediaTrackers.description "Սոց ցանցերը տեղադրում են հետևումներ այլ վեբ կայքերում հետևելու համար, թե ինչ եք անում՝ տեսնելու և դիտելու առցանց։ Սա թույլատրում է սոց մեդիա ընկերությունների իմանալ ավելին ձեր մասին մինչ ձեր կիսումը հատկագրերում։">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -919,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Մուտք գործել &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Սինք">
+<!ENTITY syncSyncNowItemSyncing.label "Համաժամեցում…">
 <!ENTITY syncSyncNowItem.accesskey    "Ս">
 <!ENTITY syncReAuthItem.label         "Վերակապակցվել &syncBrand.shortName.label;ին">
 <!ENTITY syncReAuthItem.accesskey     "Վ">
@@ -933,17 +976,47 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ներդիրի ձայնանյութը կհամօգտագործվի:">
 <!ENTITY getUserMedia.allWindowsShared.message "Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:">
 
+<!ENTITY contentBlocking.title "Բովանդակության արգելափակում">
+<!ENTITY contentBlocking.detected "Այս կայքում հայտնաբերվել է արգելափակված բովանդակություն։">
+<!ENTITY contentBlocking.notDetected "Այս էջում արգելափակված պարունակություն չի հայտնաբերվել:">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Հետևումներ">
 
+<!ENTITY contentBlocking.manageSettings.label "Կառավարել բովանդակության արգելափակումը">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "Հետևումներ">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Բոլոր հետևումները արգելափակելու համար, սահմանե՛ք բովանդակության արգելափակումը “Խիստ”։">
 
+<!ENTITY contentBlocking.cookies.label "Նշոցիկներ">
+<!ENTITY contentBlocking.cookiesView.label "Նշոցիկներ և կայքի տվյալներ">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Հետևվող բովանդակություն">
 
+<!ENTITY contentBlocking.manageSettings2.label "Կառավարել պաշտպանություն կարգավորումները">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
+<!ENTITY contentBlocking.socialblock.label "Սոց մեդիայի հետևումներ">
 
+<!ENTITY contentBlocking.cryptominers.label "Ծպտյալ արժույթներ">
+<!ENTITY contentBlocking.cryptominersView.label "Ծպտյալ արժույթներ">
 
+<!ENTITY contentBlocking.fingerprinters.label "Մատնահետքեր">
+<!ENTITY contentBlocking.fingerprintersView.label "Մատնահետքեր">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Հաղորդել խնդրի մասին">
+<!ENTITY contentBlocking.breakageReportView.label "Հաղորդել խնդիրների մասին">
+<!ENTITY contentBlocking.breakageReportView2.description "Բովանդակության արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Երբ դուք զեկուցեք խնդիրների մասին, դուք կօգնեք, որ &brandShortName;-ը բոլորի համար ավելի լավը դառնա։ (Սա կուղարկի URL ինչպես նաև տեղեկություն Mozilla-ին ձեր զննարկչի կարգավորումներ մասին։)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Իմանալ ավելին">
 
+<!ENTITY contentBlocking.breakageReportView.title "Հաղորդել կոտրված կայքի մասին">
+<!ENTITY contentBlocking.breakageReportView3.description "Որոշ հետևումների արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Այս խնդիրների զեկուցումը &brandShortName;-ը բոլորի համար ավելի լավը կդարձնի։ Այս զեկույցն ուղարկելով Mozila-ին կուղարկվի URL և ձեր զննարկչի կարգավորումների մասին տեղեկություն։">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Իմանալ ավելին">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ի՞նչ խնդիրներ ունեիք: (Պարտադիր)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Լրացուցիչ: Նկարագրեք խնդիրը">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Ուղարկել զեկույց">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Չեղարկել">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

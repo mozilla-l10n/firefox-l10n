@@ -65,15 +65,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Միացնել { -sync-brand-short-name }
     .title = Անցնել համաժամեցման հատկություններին
-manage-devices = Կառավարել սարքերը
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Համաժամեցվում է { $count } այլ սարքի հետ
-       *[other] Համաժամեցվում է { $count } այլ սարքերի հետ
-    }
-lockwise-sync-not-syncing-devices = Չհամաժամեցվելով այլ սարքերի հետ
 manage-connected-devices = Կառավարել սարքերը…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
@@ -156,4 +147,11 @@ bar-tooltip-fingerprinter =
         { $count ->
             [one] { $count }Մատնահետք ({ $percentage }%)
            *[other] { $count }Մատնահետքեր ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Ծպտյալ արժույթներ
+    .aria-label =
+        { $count ->
+            [one] { $count } ծպտյալ արժույթներ ({ $percentage }%)
+           *[other] { $count } ծպտյալ արժույթներ ({ $percentage }%)
         }
