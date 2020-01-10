@@ -161,15 +161,23 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Anslutningen är inte säker
+identity-connection-secure = Anslutningen säker
 identity-connection-internal = Detta är en säker { -brand-short-name } sida.
 identity-connection-file = Den här sidan är lagrad på din dator.
+identity-extension-page = Den här sidan laddas från ett tillägg.
 identity-active-blocked = { -brand-short-name } har blockerat några osäkra komponenter på sidan.
 identity-passive-loaded = Vissa komponenter av den här sidan är inte säkra (t.ex. bilder).
 identity-active-loaded = Du har stängt av skyddet på den här sidan.
 identity-weak-encryption = Den här sidan använder en svag kryptering.
 identity-insecure-login-forms = Inloggningar du anger på denna sida kan äventyras
+identity-permissions =
+    .value = Behörigheter
 identity-permissions-reload-hint = Du kan behöva ladda om sidan för att ändringarna ska verkställas.
 identity-permissions-empty = Du har inte beviljat denna webbplats några särskilda rättigheter.
+identity-connection-not-secure-security-view = Du är inte säkert ansluten till den här webbplatsen.
+identity-connection-verified = Du är säkert ansluten till den här webbplatsen.
+identity-ev-owner-label = Certifikat utfärdat till:
 identity-remove-cert-exception =
     .label = Ta bort undantag
     .accesskey = T
