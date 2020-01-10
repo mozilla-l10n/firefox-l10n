@@ -158,3 +158,39 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = To je wěsta strona { -brand-short-name }.
+identity-connection-file = Tuta strona je so na wašim ličaku składowała.
+identity-extension-page = Tuta strona je so z rozšěrjenja začitała.
+identity-active-blocked = { -brand-short-name } je dźěle tuteje strony zablokował, kotrež wěste njejsu.
+identity-passive-loaded = Dźěle tuteje strony wěste njejsu (na přikład wobrazy).
+identity-active-loaded = Sće škit na tutej stronje znjemóžnił.
+identity-weak-encryption = Tuta strona słabe zaklučowanje wužiwa.
+identity-insecure-login-forms = Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.
+identity-permissions-reload-hint = Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.
+identity-permissions-empty = Njejsće tutomu sydłu wosebite prawa přizwolił.
+identity-remove-cert-exception =
+    .label = Wuwzaće wotstronić
+    .accesskey = W
+identity-description-insecure = Waš zwisk z tutym sydłom priwatny njeje. Druzy ludźo móhli Informacije widźeć, kotrež sćeleće (na přikład hesła, powěsće, kreditne karty atd.).
+identity-description-insecure-login-forms = Přizjewjenske informacije, kotrež na tutej stronje zapodawać, njejsu wěste a móhli so wothrozyć.
+identity-description-weak-cipher-intro = Waš zwisk z websydłom słabe zaklučowanje wužiwa a njeje priwatny.
+identity-description-weak-cipher-risk = Druzy ludźo móža sej waše informacije wobhladać abo zadźerženje websydła změnić.
+identity-description-active-blocked = { -brand-short-name } je dźěle tuteje strony zablokował, kotrež wěste njejsu. <label data-l10n-name="link">Dalše informacije</label>
+identity-description-passive-loaded = Waš zwisk priwatny njeje a druzy móhli informacije widźeć, kotrež ze sydłom dźěliće.
+identity-description-passive-loaded-insecure = Websydło wobsahuje wobsah, kotryž wěsty njeje (kaž na přikład wobrazy). <label data-l10n-name="link">Dalše informacije</label>
+identity-description-passive-loaded-mixed = Hačrunjež { -brand-short-name } je wobsah zablokował, je hišće wobsah na stronje, kotryž wěsty njeje (na přikład wobrazy). <label data-l10n-name="link">Dalše informacije</label>
+identity-description-active-loaded = Tute websydło wobsahuje wobsah, kotryž wěsty njeje (na přikład skripty) a waš zwisk z nim priwatny njeje.
+identity-description-active-loaded-insecure = Druzy ludźo móža informacije widźeć, kotrež z tutym sydłom dźěliće (na přikład hesła, powěsće, kreditne karty atd.).
+identity-learn-more =
+    .value = Dalše informacije
+identity-disable-mixed-content-blocking =
+    .label = Škit nachwilnje znjemóžnić
+    .accesskey = z
+identity-enable-mixed-content-blocking =
+    .label = Škit zmóžnić
+    .accesskey = z
+identity-more-info-link-text =
+    .label = Dalše informacije
