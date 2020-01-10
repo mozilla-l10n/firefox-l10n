@@ -158,3 +158,9 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 34em
+
+## Identity Panel
+
+identity-permissions =
+    .value = Permissions
+identity-ev-owner-label = Certificat émis pour :
