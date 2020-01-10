@@ -163,6 +163,7 @@ bookmark-panel =
 
 identity-connection-internal = Ini adalah laman { -brand-short-name } aman.
 identity-connection-file = Laman ini tersimpan di komputer Anda.
+identity-extension-page = Laman ini dimuat dari ekstensi.
 identity-active-blocked = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman.
 identity-custom-root = Koneksi diverifikasi oleh penerbit sertifikat yang tidak dikenali oleh Mozilla.
 identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
