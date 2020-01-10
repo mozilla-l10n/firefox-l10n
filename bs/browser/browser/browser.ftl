@@ -124,3 +124,37 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = Gotovo
+
+## Identity Panel
+
+identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
+identity-connection-file = Ova stranica je pohranjena na vaš računar.
+identity-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
+identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
+identity-active-loaded = Onemogućili ste zaštitu na ovoj stranici.
+identity-weak-encryption = Ova stranica koristi slabu enkripciju.
+identity-permissions-reload-hint = Možda ćete morati ponovo učitati stranicu radi primjene izmjena.
+identity-permissions-empty = Ovoj stranici niste dodijelili nikakve posebne dozvole.
+identity-remove-cert-exception =
+    .label = Ukloni izuzetak
+    .accesskey = U
+identity-description-insecure = Vaša konekcija na ovu stranicu nije privatna. Informacije koje pošaljete vidljive su drugima (poput lozinki, poruka, kreditnih kartica, itd.).
+identity-description-insecure-login-forms = Informacije za prijavu koje unesete na ovoj stranici nisu sigurne i mogle bi biti kompromitovane.
+identity-description-weak-cipher-intro = Vaša konekcija na ovu web stranicu koristi slabu enkripciju i nije privatna.
+identity-description-weak-cipher-risk = Drugi ljudi mogu vidjeti vaše informacije ili modifikovati ponašanje web stranice.
+identity-description-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni. <label data-l10n-name="link">Saznajte više</label>
+identity-description-passive-loaded = Vaša konekcija nije privatna, a informacije koje dijelite sa stranicom mogu vidjeti drugi.
+identity-description-passive-loaded-insecure = Ova stranica sadrži nesiguran sadržaj (poput slika). <label data-l10n-name="link">Saznajte više</label>
+identity-description-passive-loaded-mixed = Iako je { -brand-short-name } blokirao dio sadržaja, i dalje postoji sadržaj na stranici koji nije siguran (poput slika). <label data-l10n-name="link">Saznajte više</label>
+identity-description-active-loaded = Ova web stranica sadrži nesiguran sadržaj (poput skripti) te vaša konekcija na nju nije privatna.
+identity-description-active-loaded-insecure = Informacije koje dijelite sa ovom stranicom mogu vidjeti drugi (poput lozinki, poruka, kreditnih kartica, itd.).
+identity-learn-more =
+    .value = Saznajte više
+identity-disable-mixed-content-blocking =
+    .label = Onemogući zaštitu za sada
+    .accesskey = d
+identity-enable-mixed-content-blocking =
+    .label = Omogući zaštitu
+    .accesskey = O
+identity-more-info-link-text =
+    .label = Više informacija
