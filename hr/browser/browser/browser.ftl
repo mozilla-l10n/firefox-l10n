@@ -164,6 +164,7 @@ bookmark-panel =
 identity-connection-internal = Ovo je sigurna { -brand-short-name } stranica.
 identity-extension-page = Ova stranica je učitana iz dodatka.
 identity-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
+identity-custom-root = Vezu je potvrdio izdavatelj certifikata kojeg Mozilla ne prepoznaje.
 identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
 identity-active-loaded = Isključili ste zaštitu za ovu stranicu.
 identity-weak-encryption = Ova stranica koristi slabu enkripciju.
