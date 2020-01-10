@@ -154,6 +154,7 @@ bookmark-panel =
 
 identity-connection-internal = یہ ایک قابل بھروسا { -brand-short-name } صفحہ ہے۔
 identity-connection-file = یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔
+identity-extension-page = یہ صفہ ایکسٹینشن سے لوڈ کیا گیا ہے۔
 identity-active-blocked = { -brand-short-name } نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔
 identity-passive-loaded = اس صفحے کے حصے قابل بھروسا نہیں ہیں (جیسے کہ نقوش)۔
 identity-active-loaded = آپ نے اس صفحے پر حفاظت نا اہل بنا دی ہے۔
