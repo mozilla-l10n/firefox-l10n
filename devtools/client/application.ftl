@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Execută pas cu pas înregistrarea sc
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspectează scripturile Service Worker de pe alte domenii. <a>Deschide about:debugging</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifestul aplicației
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Trebuie să adaugi un manifest de aplicație web pentru a-l inspecta aici. <a>Află mai multe</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Erori și avertismente
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -83,10 +86,39 @@ manifest-item-icons = Pictograme
 manifest-loading = Se încarcă manifestul...
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifest încărcat.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = A apărut o eroare la încărcarea manifestului:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Eroare Firefox DevTools
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nu s-a găsit niciun manifest de inspectat.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifestul este înglobat într-un URL de date.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Scop: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Pictogramă
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Pictogramă cu mărimi: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Pictogramă de mărime nespecificată
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Pictogramă manifest
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Scripturi Service Worker
+    .alt = Pictogramă scripturi Service Worker
+    .title = Scripturi Service Worker
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Pictogramă de avertizare

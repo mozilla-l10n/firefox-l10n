@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Află mai multe
+accessibility-text-label-header = Etichete și denumiri în format text
 accessibility-keyboard-header = Tastatură
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
@@ -21,6 +22,16 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = Folosește atributul <code>alt</code> pentru etichetarea elementelor de <div>zonă</div> care au atributul <span>href</span>. <a>Află mai multe</a>
+accessibility-text-label-issue-dialog = Ferestrele de dialog trebuie să fie etichetate. <a>Află mai multe</a>
+accessibility-text-label-issue-document-title = Documentele trebuie să aibă un <code>titlu</code>. <a>Află mai multe</a>
+accessibility-text-label-issue-embed = Conținutul înglobat trebuie să fie etichetat. <a>Află mai multe</a>
+accessibility-text-label-issue-figure = Figurile cu legende opționale trebuie să fie etichetate. <a>Află mai multe</a>
+accessibility-text-label-issue-fieldset = Elementele <code>fieldset</code> trebuie să fie etichetate. <a>Află mai multe</a>
+accessibility-text-label-issue-fieldset-legend2 = Folosește un element <code>legend</code> ca să etichetezi un <span>fieldset</span>. <a>Află mai multe</a>
+accessibility-text-label-issue-form = Elementele din formulare trebuie să fie etichetate. <a>Află mai multe</a>
+accessibility-text-label-issue-form-visible = Elementele din formulare trebuie să aibă o etichetă text vizibilă. <a>Află mai multe</a>
+accessibility-text-label-issue-frame = Elementele <code>frame</code> trebuie să fie etichetate. <a>Află mai multe</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
