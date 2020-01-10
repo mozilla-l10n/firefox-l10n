@@ -161,17 +161,24 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = דף זה הנו דף מאובטח של { -brand-short-name }.
 identity-connection-file = העמוד הזה מאוחסן במחשב שלך.
 identity-extension-page = עמוד זה נטען מתוך הרחבה.
 identity-active-loaded = ניטרלת את אמצעי האבטחה על דף זה.
 identity-weak-encryption = דף זה משתמש בהצפנה חלשה.
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
+identity-permissions-empty = לא סופקו לאתר זה הרשאות מיוחדות.
 identity-remove-cert-exception =
     .label = הסרת חריגה
     .accesskey = ס
 identity-description-insecure = החיבור שלך לאתר זה אינו פרטי. המידע שנשלח זמין לצפייה לאחרים (כגון ססמאות, הודעות, כרטיסי אשראי וכו׳).
+identity-description-insecure-login-forms = פרטי ההתחברות שיוכנסו בדף זה אינם מאובטחים ועלולים להיות בסכנה.
 identity-description-weak-cipher-intro = החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.
 identity-description-weak-cipher-risk = אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.
+identity-description-passive-loaded-insecure = אתר זה מכיל תוכן שאינו מאובטח (כגון תמונות). <label data-l10n-name="link">מידע נוסף</label>
+identity-description-passive-loaded-mixed = למרות ש־{ -brand-short-name } חסם חלק מהתוכן, עדיין קיים בדף תוכן שאינו מאובטח (כגון תמונות). <label data-l10n-name="link">מידע נוסף</label>
+identity-description-active-loaded = אתר זה מכיל תוכן שאינו מאובטח (כגון תסריטים) והחיבור שלך אליו אינו פרטי.
+identity-description-active-loaded-insecure = מידע שישותף עם אתר זה, כגון ססמאות, הודעות, פרטי כרטיס האשראי וכדומה, עשוי להיות נגיש לאחרים.
 identity-learn-more =
     .value = מידע נוסף
 identity-disable-mixed-content-blocking =
@@ -180,3 +187,5 @@ identity-disable-mixed-content-blocking =
 identity-enable-mixed-content-blocking =
     .label = הפעלת הגנה
     .accesskey = ג
+identity-more-info-link-text =
+    .label = מידע נוסף
