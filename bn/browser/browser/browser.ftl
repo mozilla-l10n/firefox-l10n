@@ -176,6 +176,7 @@ identity-clear-site-data =
     .label = কুকি এবং সাইট ডাটা পরিষ্কার করুন…
 identity-connection-not-secure-security-view = এই সাইটে আপনার সংযোগ সুরক্ষিত নয়।
 identity-connection-verified = আপনি সুরক্ষিতভাবে এই সাইটে সংযুক্ত হয়েছেন।
+identity-ev-owner-label = সার্টিফিকেট দেওয়া হয়েছে:
 identity-description-custom-root = Mozilla এই সার্টিফিকেট আনুমোদনকারীকে চিনতে পারছে না। এটি আপনার অপারেটিং সিস্টেম বা প্রশাসক দ্বারা যুক্ত করা হতে পারে। <label data-l10n-name="link">আরও জানুন</label>
 identity-remove-cert-exception =
     .label = ব্যাতিক্রম সরিয়ে ফেলুন
