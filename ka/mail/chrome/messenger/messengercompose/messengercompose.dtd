@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "სხვა სახის მისამართების ველები">
 <!ENTITY fromAddr2.label "ვისგან">
 <!ENTITY fromAddr.accesskey "ვ">
 <!ENTITY toAddr.label "ვის:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "დანართების არე">
 <!ENTITY attachmentBucketCloseButton.tooltip "დანართების არის დამალვა">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "მიმიკის ჩამატება">
 <!ENTITY smiley1Cmd.label "ღიმილი">
 <!ENTITY smiley2Cmd.label "შეჭმუხვნა">
