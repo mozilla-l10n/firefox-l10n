@@ -162,7 +162,11 @@ bookmark-panel =
 ## Identity Panel
 
 identity-weak-encryption = ეს გვერდი სუსტ დაშიფვრას იყენებს.
+identity-permissions-reload-hint = ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.
 identity-permissions-empty = ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.
+identity-remove-cert-exception =
+    .label = გამონაკლისის წაშლა
+    .accesskey = წ
 identity-disable-mixed-content-blocking =
     .label = დაცვის გამორთვა დროებით
     .accesskey = დ
