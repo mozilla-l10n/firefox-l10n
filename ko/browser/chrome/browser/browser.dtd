@@ -607,9 +607,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "프레임 소스">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "페이지 등록 정보">
+<!ENTITY viewPageInfoCmd.label        "페이지 정보 보기">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "프레임 등록 정보">
+<!ENTITY viewFrameInfoCmd.label       "프레임 정보 보기">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "이미지 다시 읽기">
 <!ENTITY reloadImageCmd.accesskey     "R">
