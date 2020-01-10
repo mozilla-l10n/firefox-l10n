@@ -149,6 +149,7 @@ bookmark-panel =
 
 identity-connection-internal = Aquò es una pagina segura de { -brand-short-name }.
 identity-connection-file = Aquela pagina es enregistrada dins vòstre ordinador.
+identity-extension-page = Aquela pagina es estada cargada d’una extension.
 identity-active-blocked = { -brand-short-name } a blocat d'elements pas segurs sus aquela pagina.
 identity-passive-loaded = D'elements de la pagina son pas segurs (coma los imatges).
 identity-active-loaded = Avètz desactivat la proteccion sus aquela pagina.
@@ -156,12 +157,15 @@ identity-weak-encryption = Aquela pagina utiliza un chiframent flac.
 identity-insecure-login-forms = Los identificants marcats sus aquela pagina pòdon far perilh.
 identity-permissions-reload-hint = Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.
 identity-permissions-empty = Avètz donat pas cap de permission espaciala a aquel site.
+identity-clear-site-data =
+    .label = Escafar los cookies e las donadas de site…
 identity-remove-cert-exception =
     .label = Suprimir l'excepcion
     .accesskey = L
 identity-description-insecure = La vòstra connexion a aquel site es pas privada. Las informacions qu'enviatz pòdon èsser vistas per d’autres (coma per exemple los senhals, los messatges, las cartas de crèdit, etc.).
 identity-description-insecure-login-forms = Las informacions d’identificacion que marcatz sus aquela pagina son pas seguras e pòdon far perilh.
 identity-description-weak-cipher-intro = Vòstra connexion a aquel site web utiliza un chiframent flac e es pas privada.
+identity-description-weak-cipher-risk = D’autres pòdon accedir a vòstras informacions o modificar lo compòrtament del site web.
 identity-description-active-blocked = { -brand-short-name } a blocat d'elements pas segurs sus aquela pagina. <label data-l10n-name="link">Ne saber mai</label>
 identity-description-passive-loaded = Vòstra connexion es pas privada e las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres.
 identity-description-passive-loaded-insecure = Aquel site ten de contenguts pas segurs (coma d'imatges). <label data-l10n-name="link">Ne saber mai</label>
