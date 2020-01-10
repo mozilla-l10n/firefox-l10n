@@ -112,3 +112,39 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = Kugqityiwe
+
+## Identity Panel
+
+identity-connection-internal = Le yi-{ -brand-short-name } ekhuselekileyo indawo yolawulo.
+identity-connection-file = Eli phepha liyagcinwa kwikhompyutha yakho.
+identity-extension-page = Eli phepha lilowudwe kwisongezelelo.
+identity-active-blocked = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha ezingakhuselekanga.
+identity-passive-loaded = Iinxalenye zeli phepha azikhuselekangae (njengemifanekiso).
+identity-active-loaded = Ulucimile ukhuseleko kweli phepha.
+identity-weak-encryption = Eli phepha lisebenzisa ukukhowuda okubuthathaka.
+identity-insecure-login-forms = Iiogini ezifakwe kweli phepha zinokuba sengozini.
+identity-permissions-reload-hint = Kusenokufuneka uphinde ulifake eli phepha ukuze utshintsho lubonakale.
+identity-permissions-empty = Akunikanga le sayithi nayiphi na imvume ekhethekileyo.
+identity-remove-cert-exception =
+    .label = Susa Ezikhethekileyo
+    .accesskey = S
+identity-description-insecure = Uqhagamshelo lwakho kule sayithi alukho bucala. Inkcazelo oyifakayo inokubonwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).
+identity-description-insecure-login-forms = Inkcazelo yelogini oyifakayo kweli phepha ayikhuselekanga yaye ingalahleka.
+identity-description-weak-cipher-intro = Uqhagamshelo kule webhsayithi lusebenzisa ukukhowuda okubuthathaka yaye alukho bucala.
+identity-description-weak-cipher-risk = Abanye abantu banokujonga inkcazelo yakho okanye batshintshe indlela esebenza ngayo iwebhsayithi.
+identity-description-active-blocked = I-{ -brand-short-name } ibhloke iinxalenye zeli phepha ezingakhuselekanga. <label data-l10n-name="link">Funda Ngakumbi</label>
+identity-description-passive-loaded = Uqhagamshelo lwakho alukho bucala yaye inkcazelo owabelana ngayo nale sayithi inokubonwa ngabanye.
+identity-description-passive-loaded-insecure = Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso). <label data-l10n-name="link">Funda Ngakumbi</label>
+identity-description-passive-loaded-mixed = Nangona i-{ -brand-short-name } ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso). <label data-l10n-name="link">Funda Ngakumbi</label>
+identity-description-active-loaded = Le webhsayithi inesiqulatho esingakhuselekanga (njengezikripti) yaye uqhagamshelo lwakho kuyo alukho bucala.
+identity-description-active-loaded-insecure = Inkcazelo owabelana ngayo nale sayithi inokujongwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).
+identity-learn-more =
+    .value = Funda Ngakumbi
+identity-disable-mixed-content-blocking =
+    .label = Kunye nokhuseleko lusayekiwe
+    .accesskey = K
+identity-enable-mixed-content-blocking =
+    .label = Vumela ukhuseleko
+    .accesskey = V
+identity-more-info-link-text =
+    .label = Inkcazelo engaphezulu
