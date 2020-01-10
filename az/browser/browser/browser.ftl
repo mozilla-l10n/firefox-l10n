@@ -152,3 +152,35 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Bu səhifə təhlükəsiz bir { -brand-short-name } səhifəsidir.
+identity-connection-file = Bu səhifə sizin kompüterinizdə saxlanıb.
+identity-passive-loaded = Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.
+identity-active-loaded = Bu səhifədə qorumanı söndürmüsünüz.
+identity-weak-encryption = Bu səhifə zəif şifrləmə istifadə edir.
+identity-insecure-login-forms = Bu səhifədə girilən məlumatlar oğurlana bilər.
+identity-permissions-reload-hint = Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.
+identity-permissions-empty = Bu sayta heç bir xüsusi icazə verməmisiniz.
+identity-remove-cert-exception =
+    .label = İstisnanı sil
+    .accesskey = s
+identity-description-insecure = Bu səhifəyə olan bağlantınız məxfi deyil. Göndərdiyiniz məlumatlar başqaları tərəfindən görülə bilər (parol, mesaj, kredit kartları və s. kimi).
+identity-description-insecure-login-forms = Bu səhifədə yazdığınız daxil olma məlumatları qorunmur və oğurlana bilər.
+identity-description-weak-cipher-intro = Bu səhifəyə olan bağlantınız zəif şifrləmə istifadə edir və məxfi deyil.
+identity-description-weak-cipher-risk = Başqaları sizin məlumatlarınızı görə və ya saytın davranışını səyişdirə bilər.
+identity-description-passive-loaded = Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.
+identity-description-passive-loaded-insecure = Saytda güvənilir olmayan məzmun var (şəkillər kimi). <label data-l10n-name="link">Ətraflı Öyrən</label>
+identity-description-active-loaded = Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.
+identity-description-active-loaded-insecure = Bu saytla paylaşdığınız məlumatlar (məs. parollar, mesajlar, kredit kartları kimi) başqaları tərəfindən görülə bilər.
+identity-learn-more =
+    .value = Ətraflı Öyrən
+identity-disable-mixed-content-blocking =
+    .label = Qorumanı hələlik söndür
+    .accesskey = s
+identity-enable-mixed-content-blocking =
+    .label = Qorumanı aktivləşdir
+    .accesskey = k
+identity-more-info-link-text =
+    .label = Daha çox məlumat
