@@ -171,10 +171,13 @@ identity-weak-encryption = Esta página usa cifrado débil.
 identity-insecure-login-forms = Los inicios de sesión introducidos en esta página podrían verse comprometidos.
 identity-permissions-reload-hint = Puede que necesite recargar la página para que se apliquen los cambios.
 identity-permissions-empty = No ha concedido ningún permiso especial a este sitio.
+identity-clear-site-data =
+    .label = Limpiar cookies y datos del sitio…
 identity-remove-cert-exception =
     .label = Eliminar excepción
     .accesskey = E
 identity-description-insecure = Su conexión a este sitio no es privada. La información que envíe podría ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
+identity-description-insecure-login-forms = La información de inicio de sesión que ha introducido en esta página no es segura y podría verse comprometida.
 identity-description-weak-cipher-intro = Su conexión a este sitio web usa cifrado débil y no es privada.
 identity-description-weak-cipher-risk = Otras personas pueden ver su información o modificar el comportamiento del sitio web.
 identity-description-active-blocked = { -brand-short-name } ha bloqueado partes de esta página que no son seguras. <label data-l10n-name="link">Saber más</label>
