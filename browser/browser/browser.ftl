@@ -157,6 +157,7 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = Това е защитена страница на { -brand-short-name }.
 identity-connection-file = Страницата е запазена в компютъра.
 identity-active-blocked = { -brand-short-name } блокира части от страницата, които не са шифрирани.
 identity-active-loaded = Изключихте защитата за тази страница.
