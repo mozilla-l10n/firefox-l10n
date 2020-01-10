@@ -149,6 +149,7 @@ bookmark-panel =
 
 identity-connection-internal = Sta chi a l'é 'na pagina segua de { -brand-short-name }.
 identity-connection-file = Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.
+identity-extension-page = Sta pagina a l'é caregâ da 'na estenscion.
 identity-active-loaded = A proteçion a l'é dizativâ pe sta pagina.
 identity-weak-encryption = Sta pagina a deuvia na cifratua debole.
 identity-insecure-login-forms = I acessi a sta pagina porieivan ese vulnerabili.
