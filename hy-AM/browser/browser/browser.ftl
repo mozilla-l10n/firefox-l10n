@@ -158,3 +158,38 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է:
+identity-connection-file = Այս էջը գտնվում է համակարգչում:
+identity-active-blocked = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:
+identity-passive-loaded = Այս էջի մասերը անվտանգ չեն (օր.՝ պատկերները):
+identity-active-loaded = Դուք անջատել եք պաշտպանությունը այս էջում:
+identity-weak-encryption = Այս էջը օգտագործում է աղքատ գաղտնագրում:
+identity-insecure-login-forms = Այս էջից մուտքագրումները վտանգված են:
+identity-permissions-reload-hint = Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։
+identity-permissions-empty = Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:
+identity-remove-cert-exception =
+    .label = Հեռացնել բացառությունը
+    .accesskey = Հ
+identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղկլարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
+identity-description-insecure-login-forms = Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:
+identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:
+identity-description-weak-cipher-risk = Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:
+identity-description-active-blocked = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, որոնք անվտանգ չեն: <label data-l10n-name="link">Իմանալ ավելին</label>
+identity-description-passive-loaded = Ձեր կապակցումը գատնի չէ և կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից:
+identity-description-passive-loaded-insecure = Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ պատկերներ): <label data-l10n-name="link">Իմանալ ավելին</label>
+identity-description-passive-loaded-mixed = Չնայած { -brand-short-name }-ը արգելափակել է որոշ բովանդակություն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակություն (օր.՝ պատկերներ): <label data-l10n-name="link">Իմանալ ավելին</label>
+identity-description-active-loaded = Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ գրվածքներ) և ձեր կապակցումը գաղտնի չէ:
+identity-description-active-loaded-insecure = Կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
+identity-learn-more =
+    .value = Իմանալ ավելին
+identity-disable-mixed-content-blocking =
+    .label = Անջատել պաշտպանությունը
+    .accesskey = Ա
+identity-enable-mixed-content-blocking =
+    .label = Միացնել պաշտպանություն
+    .accesskey = Մ
+identity-more-info-link-text =
+    .label = Մանրամասն
