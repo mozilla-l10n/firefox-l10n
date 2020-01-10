@@ -158,3 +158,14 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
+identity-remove-cert-exception =
+    .label = Kkes tasureft
+    .accesskey = K
+identity-learn-more =
+    .value = Issin ugar
+identity-more-info-link-text =
+    .label = Ugar n telɣut
