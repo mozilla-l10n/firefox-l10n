@@ -168,6 +168,7 @@ identity-weak-encryption = Esta página usa encriptación débil.
 identity-insecure-login-forms = Inicios de sesión ingresados en esta página pueden ser peligrosos.
 identity-permissions =
     .value = Permisos
+identity-permissions-reload-hint = Puede que tengas que recargar la página para que se apliquen los cambios.
 identity-permissions-empty = No tienes permitido en este sitio web ningún permiso especial.
 identity-ev-owner-label = Certificado emitido a nombre de:
 identity-remove-cert-exception =
