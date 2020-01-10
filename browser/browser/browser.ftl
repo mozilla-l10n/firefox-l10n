@@ -161,5 +161,36 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = Ini adalah laman { -brand-short-name } aman.
+identity-connection-file = Laman ini tersimpan di komputer Anda.
+identity-active-blocked = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman.
+identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
+identity-active-loaded = Anda telah menonaktifkan perlindungan di laman ini.
+identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
+identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
+identity-permissions-empty = Anda belum memberikan izin khusus apa pun untuk situs ini.{ " " }
 identity-ev-owner-label = Sertifikat diterbitkan untuk:
+identity-remove-cert-exception =
+    .label = Buang Pengecualian
+    .accesskey = B
+identity-description-insecure = Sambungan Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).
+identity-description-insecure-login-forms = Info masuk yang Anda masukkan di laman ini tidak aman dan bisa diketahui orang lain.
+identity-description-weak-cipher-intro = Sambungan Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.
+identity-description-weak-cipher-risk = Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.
+identity-description-active-blocked = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman. <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
+identity-description-passive-loaded = Sambungan Anda tidak pribadi dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.
+identity-description-passive-loaded-insecure = Situs web ini mengandung konten yang tidak aman (misalnya, gambar). <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
+identity-description-passive-loaded-mixed = Meskipun { -brand-short-name } telah memblokir sejumlah konten, tetapi masih ada konten di laman ini yang tidak aman (misalnya gambar). <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
+identity-description-active-loaded = Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.
+identity-description-active-loaded-insecure = Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)
+identity-learn-more =
+    .value = Pelajari Lebih Lanjut
+identity-disable-mixed-content-blocking =
+    .label = Nonaktifkan perlindungan untuk saat ini
+    .accesskey = N
+identity-enable-mixed-content-blocking =
+    .label = Aktifkan perlindungan
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Informasi Lebih Lanjut
