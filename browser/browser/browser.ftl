@@ -158,3 +158,47 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-not-secure = Forbindelsen er usikker
+identity-connection-secure = Forbindelsen er sikker
+identity-connection-file = Denne side er gemt på din computer.
+identity-active-blocked = { -brand-short-name } har blokeret usikre dele af denne side.
+identity-custom-root = Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.
+identity-passive-loaded = Dele af denne side (såsom billeder) er ikke sikre.
+identity-active-loaded = Du har slået beskyttelse fra på denne side.
+identity-weak-encryption = Denne side bruger svag kryptering.
+identity-permissions =
+    .value = Tilladelser
+identity-permissions-reload-hint = Du skal muligvis genindlæse siden, før at ændringerne slår igennem.
+identity-permissions-empty = Du har ikke tildelt dette websted nogen særlige tilladelser.
+identity-clear-site-data =
+    .label = Ryd cookies og webstedsdata…
+identity-connection-not-secure-security-view = Din forbindelse til webstedet er ikke sikker.
+identity-connection-verified = Din forbindelse til dette websted er sikker.
+identity-ev-owner-label = Certifikatet er udstedt til:
+identity-description-custom-root = Mozilla kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator. <label data-l10n-name="link">Læs mere</label>
+identity-remove-cert-exception =
+    .label = Fjern undtagelser
+    .accesskey = F
+identity-description-insecure = Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (fx adgangskoder, beskeder og oplysninger om betalingskort)
+identity-description-insecure-login-forms = Login-information, du indtaster på denne side, er ikke sikker og kan være kompromitteret.
+identity-description-weak-cipher-intro = Din forbindelse til dette websted anvender svag kryptering og er ikke privat.
+identity-description-weak-cipher-risk = Andre kan se dine informationer eller ændre webstedets opførsel.
+identity-description-active-blocked = { -brand-short-name } har blokeret usikre dele af denne side. <label data-l10n-name="link">Læs mere</label>
+identity-description-passive-loaded = Din forbindelse er ikke privat og de informationer, du deler, kan ses af andre.
+identity-description-passive-loaded-insecure = Noget af dette websteds indhold (fx billeder) er usikkert. <label data-l10n-name="link">Læs mere</label>
+identity-description-passive-loaded-mixed = Selvom { -brand-short-name } har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder). <label data-l10n-name="link">Læs mere</label>
+identity-description-active-loaded = Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.
+identity-description-active-loaded-insecure = Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.
+identity-learn-more =
+    .value = Læs mere
+identity-disable-mixed-content-blocking =
+    .label = Deaktiver beskyttelse indtil videre
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Aktiver beskyttelse
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Mere information
