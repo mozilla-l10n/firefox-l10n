@@ -161,18 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Jeikekatu'ỹ
+identity-connection-secure = Jeikekatu
 identity-connection-internal = Kóva { -brand-short-name } jeroviáva; kuatiarogue.
 identity-connection-file = Ko kuatiarogue oñeñongatu mohendahápe.
 identity-extension-page = Ko kuatiarogue oñemyanyhẽ jepysokue guive.
 identity-active-blocked = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.
+identity-custom-root = Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.
 identity-passive-loaded = Ko kuatiarogue pehẽ heta hendápe nda'ijeroviapái (mba'era'ãngáramo).
 identity-active-loaded = Ndereguerekói pa'ũ ko kuatiaroguépe g̃uarã.
 identity-weak-encryption = Ko kuatiarogue oipuru ñangarekoha ikangýva.
 identity-insecure-login-forms = Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.
+identity-permissions =
+    .value = Moneĩ
 identity-permissions-reload-hint = Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.
 identity-permissions-empty = Nome'ẽi ko tenda ñemoneĩ ha'etéva.
 identity-clear-site-data =
     .label = Emopotĩ kookie ha mba’ekuaarã tendágui…
+identity-connection-not-secure-security-view = Nde jeike nahekorosãi ko tendápe.
+identity-connection-verified = Eikehína tekorosãme ko tendápe.
+identity-ev-owner-label = Mboajepyre osẽmava:
+identity-description-custom-root = Mozilla nomoneĩri ko mboajepyre me’ẽhápe. Ikatu oñembojuaju apopyvusu oku’éva térã ñangarekoha rupive. <label data-l10n-name="link">Kuaave</label>
 identity-remove-cert-exception =
     .label = Emongue oĩ'ỹva
     .accesskey = E
