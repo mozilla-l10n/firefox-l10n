@@ -162,7 +162,7 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-not-secure = Anslutningen är inte säker
-identity-connection-secure = Anslutningen säker
+identity-connection-secure = Anslutningen är säker
 identity-connection-internal = Detta är en säker { -brand-short-name } sida.
 identity-connection-file = Den här sidan är lagrad på din dator.
 identity-extension-page = Den här sidan laddas från ett tillägg.
@@ -184,7 +184,7 @@ identity-ev-owner-label = Certifikat utfärdat till:
 identity-description-custom-root = Mozilla känner inte igen denna certifikatutgivare. Den kan ha lagts till från ditt operativsystem eller av en administratör. <label data-l10n-name="link">Lär dig mer</label>
 identity-remove-cert-exception =
     .label = Ta bort undantag
-    .accesskey = T
+    .accesskey = R
 identity-description-insecure = Din anslutning till den här sidan är inte privat. Information som du skickar kan ses av andra personer (som t.ex. lösenord, meddelanden, bankkort, osv.).
 identity-description-insecure-login-forms = Inloggningsinformation du anger på denna sida är inte säker och kan äventyras.
 identity-description-weak-cipher-intro = Din anslutning till den här webbsidan använder en svag kryptering och är inte privat.
@@ -199,9 +199,9 @@ identity-learn-more =
     .value = Lär dig mer
 identity-disable-mixed-content-blocking =
     .label = Inaktivera skydd tillfälligt
-    .accesskey = I
+    .accesskey = D
 identity-enable-mixed-content-blocking =
     .label = Aktivera skydd
-    .accesskey = A
+    .accesskey = E
 identity-more-info-link-text =
     .label = Mer information
