@@ -161,25 +161,40 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Conexiune nesecurizată
+identity-connection-secure = Conexiune securizată
 identity-connection-internal = Aceasta este o pagină securizată { -brand-short-name }.
+identity-connection-file = Pagina este stocată pe calculator.
 identity-extension-page = Această pagină a fost încărcată de la o extensie.
+identity-active-blocked = { -brand-short-name } a blocat părți de pe această pagină care nu sunt sigure.
 identity-custom-root = Conexiune verificată de un emițător de certificate nerecunoscut de Mozilla.
+identity-passive-loaded = Unele părți din pagină nu sunt sigure (cum ar fi imaginile).
 identity-active-loaded = Ai dezactivat protecția pe această pagină.
 identity-weak-encryption = Această pagină folosește criptare slabă.
 identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
+identity-permissions =
+    .value = Permisiuni
 identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
 identity-permissions-empty = Nu ai acordat acestui site nicio permisiune specială.
 identity-clear-site-data =
     .label = Șterge cookie-urile și datele site-urilor…
 identity-connection-not-secure-security-view = Nu ești conectat în mod securizat la acest site.
 identity-connection-verified = Ești conectat în mod securizat la acest site.
+identity-ev-owner-label = Certificat emis către:
+identity-description-custom-root = Mozilla nu recunoaște acest emițător de certificate. Este posibil să fi fost adăugat de sistemul tău de operare sau de un administrator. <label data-l10n-name="link">Află mai multe</label>
 identity-remove-cert-exception =
     .label = Elimină excepția
     .accesskey = R
 identity-description-insecure = Conexiunea la acest site nu este privată. Informațiile pe care le trimiți pot fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
 identity-description-insecure-login-forms = Informațiile de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.
 identity-description-weak-cipher-intro = Conexiunea la acest site web folosește criptare slabă și nu este privată.
+identity-description-weak-cipher-risk = Alte persoane îți pot vedea informațiile sau pot modifica comportamentul site-ului web.
 identity-description-active-blocked = { -brand-short-name } a blocat părți ale acestei pagini care nu sunt sigure. <label data-l10n-name="link">Află mai multe</label>
+identity-description-passive-loaded = Conexiunea nu este privată și informațiile pe care le partajezi cu acest site pot fi văzute de alții.
+identity-description-passive-loaded-insecure = Acest site web are conținut care nu este sigur (cum ar fi imaginile). <label data-l10n-name="link">Află mai multe</label>
+identity-description-passive-loaded-mixed = Deși { -brand-short-name } a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile). <label data-l10n-name="link">Află mai multe</label>
+identity-description-active-loaded = Acest site web are conținut care nu este sigur (cum ar fi scripturile), iar conexiunea ta la acesta nu este privată.
+identity-description-active-loaded-insecure = Informațiile pe care le partajezi cu site-ul ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
 identity-learn-more =
     .value = Află mai multe
 identity-disable-mixed-content-blocking =
