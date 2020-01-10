@@ -158,3 +158,50 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-not-secure = Lidhje jo e sigurt
+identity-connection-secure = Lidhje e sigurt
+identity-connection-internal = Kjo është një faqe { -brand-short-name } e sigurt.
+identity-connection-file = Kjo është faqe e depozituar në kompjuterin tuaj.
+identity-extension-page = Kjo faqe është ngarkuar nga një zgjerim.
+identity-active-blocked = { -brand-short-name }-i ka bllokuar pjesë të kësaj faqeje që s'janë të sigurta.
+identity-custom-root = Lidhje e verifikuar nga një lëshues dëshmish që s’njihet nga Mozilla.
+identity-passive-loaded = Pjesë të kësaj faqeje (fjala vjen, figura) s'janë të sigurta.
+identity-active-loaded = E keni çaktivizuar mbrojtjen për këtë faqe.
+identity-weak-encryption = Kjo faqe përdor fshehtëzim të dobët.
+identity-insecure-login-forms = Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.
+identity-permissions =
+    .value = Leje
+identity-permissions-reload-hint = Mund t'ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.
+identity-permissions-empty = S'i keni dhënë këtij sajti ndonjë leje speciale.
+identity-clear-site-data =
+    .label = Spastroni Cookie-t dhe të Dhëna Sajti…
+identity-connection-not-secure-security-view = S'jeni lidhur në mënyrë të siguruar me këtë sajt.
+identity-connection-verified = Jeni lidhur në mënyrë të siguruar me këtë sajt.
+identity-ev-owner-label = Dëshmi lëshuar për:
+identity-description-custom-root = Mozilla nuk e njeh këtë lëshues dëshmish. Mund të jetë shtuar nga sistemi juaj operativ ose nga një përgjegjës. <label data-l10n-name="link">Mësoni Më Tepër</label>
+identity-remove-cert-exception =
+    .label = Hiqeni Përjashtimin
+    .accesskey = H
+identity-description-insecure = Lidhja juaj te ky sajt, s'është private. Të dhënat që parashtroni mund të shihen nga të tjerë (fjalëkalime, mesazhe, karta krediti, etj.).
+identity-description-insecure-login-forms = Të dhënat e hyrjes që dhatë në këtë faqe s'janë të sigurta dhe mund të komprometohen.
+identity-description-weak-cipher-intro = Lidhja juaj te ky sajt përdor fshehtëzim të dobët dhe s'është private.
+identity-description-weak-cipher-risk = Të tjerët mund të shohin të dhënat tuaja ose të ndryshojnë sjelljen e sajtit.
+identity-description-active-blocked = { -brand-short-name }-i ka bllokuar pjesë të kësaj faqeje që s'janë të sigurta. <label data-l10n-name="link">Mësoni Më Tepër</label>
+identity-description-passive-loaded = Lidhja juaj s'është private dhe të dhënat që ndani me të tjerët në këtë saj mund të shihen nga të tjerë.
+identity-description-passive-loaded-insecure = Ky sajt përmban lëndë që s'është e sigurt (fjala vjen, figura). <label data-l10n-name="link">Mësoni Më Tepër</label>
+identity-description-passive-loaded-mixed = Edhe pse { -brand-short-name }-i ka bllokuar një pjesë të lëndës, në këtë faqe prapë ka lëndë që s'është e sigurt (fjala vjen, figura). <label data-l10n-name="link">Mësoni Më Tepër</label>
+identity-description-active-loaded = Ky sajt përmban lëndë që s'është e sigurt (fjala vjen, programthe) dhe lidhja juaj me të s'është private.
+identity-description-active-loaded-insecure = Të dhënat që ndani me këtë sajt mund të shihen nga të tjerë (fjala vjen, fjalëkalime, mesazhe, karta krediti, etj.).
+identity-learn-more =
+    .value = Mësoni Më Tepër
+identity-disable-mixed-content-blocking =
+    .label = Çaktivizoje mbrojtjen për tani
+    .accesskey = Ç
+identity-enable-mixed-content-blocking =
+    .label = Aktivizo mbrojtjen
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Më Tepër të Dhëna
