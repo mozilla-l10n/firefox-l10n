@@ -161,15 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = A kapcsolat nem biztonságos
+identity-connection-secure = A kapcsolat biztonságos
 identity-connection-internal = Ez egy biztonságos { -brand-short-name } oldal.
 identity-connection-file = Ez az oldal a számítógépén van tárolva.
 identity-extension-page = Ez az oldal kiegészítőből lett betöltve.
 identity-active-blocked = A { -brand-short-name } blokkolta az oldal néhány nem biztonságos elemét.
+identity-custom-root = A kapcsolatot egy olyan tanúsítványkibocsátó igazolta, amelyet a Mozilla nem ismeri fel.
 identity-passive-loaded = A weboldal egyes részei nem biztonságosak (például a képek).
 identity-active-loaded = Kikapcsolta a védelmet ezen az oldalon.
 identity-weak-encryption = Ez az oldal gyenge titkosítást használ.
 identity-insecure-login-forms = Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.
+identity-permissions =
+    .value = Engedélyek
 identity-permissions-reload-hint = Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.
+identity-permissions-empty = Nem adott speciális engedélyeket ennek az oldalnak.
+identity-clear-site-data =
+    .label = Sütik és oldaladatok eltávolítása…
+identity-connection-not-secure-security-view = Nem biztonságosan kapcsolódik ehhez az oldalhoz.
+identity-connection-verified = Biztonságosan kapcsolódik ehhez az oldalhoz.
+identity-ev-owner-label = Tanúsítvány kiállítva ennek:
+identity-description-custom-root = A Mozilla nem ismeri fel ezt a tanúsítványkibocsátót. Lehet, hogy az operációs rendszer vagy egy rendszergazda adta hozzá. <label data-l10n-name="link">További tudnivalók</label>
 identity-remove-cert-exception =
     .label = Kivétel eltávolítása
     .accesskey = v
