@@ -385,12 +385,12 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = 보기 기능
+browsing-title = 탐색
 browsing-use-autoscroll =
-    .label = 자동 스크롤 기능 사용
+    .label = 자동 스크롤 사용
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = 부드러운 스크롤 기능 사용
+    .label = 부드러운 스크롤 사용
     .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = 필요하면 터치 키보드 보여주기
@@ -537,8 +537,8 @@ search-choose-engine-column =
 search-choose-keyword-column =
     .label = 키워드
 search-restore-default =
-    .label = 기본 검색 사이트 되돌리기
-    .accesskey = d
+    .label = 기본 검색 엔진 복원
+    .accesskey = D
 search-remove-engine =
     .label = 삭제
     .accesskey = R
