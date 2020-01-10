@@ -146,3 +146,39 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Þetta er örugg { -brand-short-name } síða.
+identity-connection-file = Þessi síða er vistuð á tölvunni þinni.
+identity-extension-page = Þessi síða er hlaðinn inn af viðbót.
+identity-active-blocked = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.
+identity-passive-loaded = Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).
+identity-active-loaded = Þú hefur slökkt á vernd fyrir þessa síðu.
+identity-weak-encryption = Þessi síða notar lélega dulkóðun.
+identity-insecure-login-forms = Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.
+identity-permissions-reload-hint = Þú gætir þurft að endurhlaða síðuna til að virkja breytingar.
+identity-permissions-empty = Þú hefur ekki gefið þessu vefsvæði nein sérstök réttindi.
+identity-remove-cert-exception =
+    .label = Fjarlægja undantekningu
+    .accesskey = r
+identity-description-insecure = Tengingin við þetta vefsvæði er ekki læst. Þær upplýsingar sem þú sendir gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).
+identity-description-insecure-login-forms = Upplýsingarnar sem þú setur inn á þessa síðu eru ekki öruggar og hugsanlega gæti þriðji aðili komist yfir þær.
+identity-description-weak-cipher-intro = Tengingin við þetta vefsvæði notar lélega dulkóðun og er ekki lokuð.
+identity-description-weak-cipher-risk = Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.
+identity-description-active-blocked = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir. <label data-l10n-name="link">Fræðast meira</label>
+identity-description-passive-loaded = Tengingin við þetta vefsvæði er ekki lokuð og upplýsingar sem þú sendir gætu aðrir skoðað.
+identity-description-passive-loaded-insecure = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir). <label data-l10n-name="link">Fræðast meira</label>
+identity-description-passive-loaded-mixed = Þótt { -brand-short-name } hafi lokað á suma hluta, er ennþá innihald á síðunni sem er ekki öruggt (eins og myndir). <label data-l10n-name="link">Fræðast meira</label>
+identity-description-active-loaded = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.
+identity-description-active-loaded-insecure = Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).
+identity-learn-more =
+    .value = Fræðast meira
+identity-disable-mixed-content-blocking =
+    .label = Hætta við vörn í bili
+    .accesskey = H
+identity-enable-mixed-content-blocking =
+    .label = Virkja vernd
+    .accesskey = e
+identity-more-info-link-text =
+    .label = Nánari upplýsingar
