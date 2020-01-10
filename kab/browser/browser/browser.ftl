@@ -165,6 +165,7 @@ identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
 identity-connection-file = Asebter-a yettwakles deg uselkim-inek.
 identity-extension-page = Asebter-a yuli-d seg usiɣzef.
 identity-active-blocked = { -brand-short-name } issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.
+identity-custom-root = Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.
 identity-passive-loaded = Kra n yiḥricen deg usebter-a mačči d iɣelsanen (am tugniwin).
 identity-active-loaded = Tessenseḍ ammesten deg usebter-a.
 identity-weak-encryption = Asebter-a isseqdac awgelhen fessusen.
@@ -175,6 +176,8 @@ identity-clear-site-data =
     .label = Sfeḍ inagan n tuqqna akked isefka n usme…
 identity-connection-not-secure-security-view = Aqli-k ur teqqineḍ ara s wudem aɣelsan ɣeṛ usmel-a.
 identity-connection-verified = Aqli-k teqqneḍ s wudem aɣelsan ɣeṛ usmel-a.
+identity-ev-owner-label = Aselkin yeffeɣ-d i:
+identity-description-custom-root = Mozilla ur teɛqil ara amazan-a n uselkin. Ahat yezmer yettwarn seg unagraw-ik n wammud neɣ anedbal. <label data-l10n-name="link">Issin ugar</label>
 identity-remove-cert-exception =
     .label = Kkes tasureft
     .accesskey = K
