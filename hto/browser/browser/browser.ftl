@@ -29,3 +29,17 @@ search-one-offs-change-settings-button =
 search-one-offs-context-open-new-tab =
     .label = Kómue úitɨraɨ jéno
     .accesskey = ú
+
+## Bookmark Panel
+
+
+## Identity Panel
+
+identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
+identity-learn-more =
+    .value = Aiyo onóde
+identity-enable-mixed-content-blocking =
+    .label = Rɨidite bonua
+    .accesskey = R
+identity-more-info-link-text =
+    .label = Jamano ráfue
