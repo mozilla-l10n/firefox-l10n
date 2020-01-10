@@ -161,22 +161,40 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Ferbining net befeilige
+identity-connection-secure = Ferbining befeilige
 identity-connection-internal = Dit is in befeilige { -brand-short-name }-side.
 identity-connection-file = Dizze side is op jo kompjûter bewarre.
+identity-extension-page = Dizze side is laden fan in útwreiding út.
 identity-active-blocked = { -brand-short-name } hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.
+identity-custom-root = Ferbining ferifiearre troch in sertifikaatútjouwer dy't net troch Mozilla werkend wurdt.
 identity-passive-loaded = Underdielen fan dizze side binne net befeilige (lykas ôfbyldingen).
 identity-active-loaded = Jo hawwe befeiliging op dizze side útskeakele.
 identity-weak-encryption = Dizze side brûkt swakke befeiliging.
+identity-insecure-login-forms = Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.
+identity-permissions =
+    .value = Tastimmingen
+identity-permissions-reload-hint = It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.
 identity-permissions-empty = Jo hawwe dizze website gjin spesjale tastimmingen jûn.
+identity-clear-site-data =
+    .label = Cookies en websitegegevens wiskje…
+identity-connection-not-secure-security-view = Jo hawwe in ûnbefeilige ferbining mei dizze website.
+identity-connection-verified = Jo hawwe in befeilige ferbining mei dizze website.
+identity-ev-owner-label = Sertifikaat útjûn oan:
+identity-description-custom-root = Mozilla werkent dizze sertifikaatútjouwer net. Hy is mooglik fan jo bestjoeringssysteem út of troch in behearder tafoege. <label data-l10n-name="link">Mear ynfo</label>
 identity-remove-cert-exception =
     .label = Utsûndering fuortsmite
     .accesskey = f
+identity-description-insecure = Jo ferbining mei dizze website is net privee. Gegevens dy't jo ferstjoere, soene troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).
 identity-description-insecure-login-forms = De oanmeldingsgegevens dy't jo op dizze side ynfiere binne net feilich en kinne oernommen wurde.
 identity-description-weak-cipher-intro = Jo ferbining mei dizze website brûkt swakke fersifering en is net privee.
 identity-description-weak-cipher-risk = Oare persoanen kinne jo gegevens besjen of it gedrach fan de website oanpasse.
 identity-description-active-blocked = { -brand-short-name } hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre. <label data-l10n-name="link">Mear ynfo</label>
+identity-description-passive-loaded = Jo ferbining is net privee en gegevens dy't jo mei de website diele soene troch oaren besjoen wurde kinne.
+identity-description-passive-loaded-insecure = Dizze website befettet ynhâld dy't net befeilige is (lykas ôfbyldingen). <label data-l10n-name="link">Mear ynfo</label>
 identity-description-passive-loaded-mixed = Hoewol { -brand-short-name } bepaalde ynhâld blokkearre hat, is der noch hieltyd ynhâld op de side dy't net befeilige is (lykas ôfbyldingen). <label data-l10n-name="link">Mear ynfo</label>
 identity-description-active-loaded = Dizze website befettet ynhâld dy't net befeilige is (lykas scripts) en jo ferbining dêrmei is net privee.
+identity-description-active-loaded-insecure = Gegevens dy't jo mei dizze website diele, soene troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).
 identity-learn-more =
     .value = Mear ynfo
 identity-disable-mixed-content-blocking =
