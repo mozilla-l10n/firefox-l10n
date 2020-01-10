@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Քիչ տվյալ, շատ պահումներ">
 <!ENTITY firstrun_data_subtext2 "Անջատել պատկերները՝ կայքեր այցելելիս քիչ տվյալներ ծախսելու համար:">
 <!ENTITY firstrun_sync_title "Սինք">
-<!ENTITY updatednewfirstrun_sync_title "Հաշիվ">
-<!ENTITY firstrun_sync_message2 "Շարունակեք այնտեղից, որտեղ ընդհատել եք:">
 <!ENTITY firstrun_sync_message3 "Համաժամեցրեք ձեր էջանիշերը, պատմությունը և գաղտնաբառերը ձեր հեռախոսում:">
 <!ENTITY firstrun_sync_subtext2 "Օգտագործեք համաժամեցում՝ գտնելու համար էջանիշները, գաղտնաբառերը և այլն, որոնք պահպանել եք &brandShortName;-ում՝ ցանկացած սարքում:">
 <!ENTITY newfirstrun_sync_subtext "Համաժամեցրեք Firefox-ի բոլոր տարբերակները՝ գաղտնի և ապահով:">
-<!ENTITY updatednewfirstrun_sync_subtext "Մուտք գործեք ձեր հաշիվ՝ ավլին ստանալու համար &brandShortName;-ից">
-<!ENTITY firstrun_signin_message "Եղեք կապակցված, սկսեք">
 <!ENTITY firstrun_sendtab_title "Ուղարկել ներդիրը">
 <!ENTITY firstrun_sendtab_message "Համօգտագործել բջջայինից դեսքթոփ — ակնթարթորեն">
-<!ENTITY firstrun_signin_button "Մուտք գործեք՝ Սինքը սկսելու համար">
-<!ENTITY newfirstrun_signin_button "Միացնել Սինքը">
-<!ENTITY updatednewfirstrun_signin_button "Մուտք գործել &brandShortName;">
+<!ENTITY firstrun_signin_message "Եղեք կապակցված, սկսեք">
 <!ENTITY onboard_start_button_browser "Սկսել">
 <!ENTITY firstrun_button_notnow "Ոչ հիմա">
 <!ENTITY firstrun_button_next "Հաջորդ">
-
-<!ENTITY firstrun_signin_button2 "Մուտք գործել">
+<!ENTITY firstrun_signup_button "Գրանցվել">
 
 <!ENTITY firstrun_tabqueue_title "Հղումներ">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Դուք">
 <!ENTITY firstrun_account_message "Ունե՞ք &brandShortName;-ը այլ սարքում:">
-
-<!ENTITY firstrun_signup_button "Գրանցվել">
 
 <!ENTITY  onboard_start_restricted1 "Եղեք ապահով &brandShortName;-ի պարզեցված տարբերակով:">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Դուք կապակցված եք՝">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Բարի գալուստ &brandShortName;">
 <!ENTITY activity_stream_signin_description "Համաժամեցրեք էջանիշերը, գաղտնաբառերը և ավելին ձեր Firefox հաշվով:">
-<!ENTITY activity_stream_signin_button "Մուտք գործել">
-
 <!ENTITY activity_stream_signup_button "Գրանցվել">
 <!ENTITY activity_stream_signin_prompt "Արդեն ունե՞ք հաշիվ">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Մուտք գործել:">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Ձեր լիովին նոր Firefox-ը կգա 2020-ին">
+<!ENTITY activity_stream_firefox_promo_description "Շուտով. Լավարկված արտադրողականություն: Ընդլայնված հետագծման պաշտպանություն: Եվ յուրահատկություններ, որոնք նախագծված են, որպեսզի դուք կարողանաք գտնել, պահպանել և համօգտագործել ավելին այն ամենից, ինչ սիրում եք առցանց:">
+<!ENTITY activity_stream_firefox_promo_button "Աչքի անցկացրեք">
 
 <!ENTITY activity_stream_topsites "Լավագույն կայքեր">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
