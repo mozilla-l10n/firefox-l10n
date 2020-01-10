@@ -154,3 +154,47 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 24em
+
+## Identity Panel
+
+identity-connection-not-secure = Nesekura konekto
+identity-connection-secure = Sekura konekto
+identity-connection-internal = Tiu ĉi estas sekura paĝo de { -brand-short-name }.
+identity-connection-file = Tiu ĉi paĝo estas konservita en via komputilo.
+identity-active-blocked = { -brand-short-name } blokis partojn de tiu ĉi paĝo, kiuj ne estas sekuraj.
+identity-custom-root = Konekto kontrolita de eldoninto de atestilo, kiu ne estas rekonita de Mozilla.
+identity-passive-loaded = Partoj de tiu ĉi paĝo ne estas sekuraj (bildoj, ekzemple).
+identity-active-loaded = Mi malaktivigis protekton en tiu ĉi paĝo.
+identity-weak-encryption = Tiu ĉi paĝo uzas malfortan ĉifradon.
+identity-insecure-login-forms = Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.
+identity-permissions =
+    .value = Permesoj
+identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
+identity-permissions-empty = Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.
+identity-connection-not-secure-security-view = Vi ne estas sekure konektita al tiu ĉi retejo.
+identity-connection-verified = Vi estas sekure konektita al tiu ĉi retejo.
+identity-ev-owner-label = Atestilo eldonita por:
+identity-description-custom-root = Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto. <label data-l10n-name="link">Pli da informo</label>
+identity-remove-cert-exception =
+    .label = Forigi escepton
+    .accesskey = F
+identity-description-insecure = Via konekto al tiu ĉi retejo ne estas privata. La datumoj, kiujn vi sendas (ekzemple pasvortojn, mesaĝojn, kreditkartojn, ktp.), povus esti viditaj de aliaj.
+identity-description-insecure-login-forms = La akreditiloj, kiujn vi tajpas en tiu ĉi paĝo, ne estas sekuraj kaj povus esti minacataj.
+identity-description-weak-cipher-intro = Via konekto al tiu ĉi retejo uzas malfortan ĉifradon kaj ne estas privata.
+identity-description-weak-cipher-risk = Aliaj personoj povus vidi viajn datumojn aŭ modifi la konduton de la retejo.
+identity-description-active-blocked = { -brand-short-name } blokis partojn de tiu paĝo, kiuj ne estas sekuraj. <label data-l10n-name="link">Pli da informo</label>
+identity-description-passive-loaded = Via konekto ne estas privata kaj la datumoj, kiujn vi dividas kun la retejo, povus esti viditaj de aliaj.
+identity-description-passive-loaded-insecure = Tiu ĉi retejo enhavas nesekurajn elementojn (bildoj, ekzemple). <label data-l10n-name="link">Pli da informo</label>
+identity-description-passive-loaded-mixed = Kvankam { -brand-short-name } blokis iom de la enhavo, ankoraŭ estas nesekuraj elementoj en la paĝo (bildoj, ekzemple). <label data-l10n-name="link">Pli da informo</label>
+identity-description-active-loaded = Tiu ĉi retejo enhavas nesekurajn elementojn (skriptojn, ekzemple) kaj via konekto al ĝi ne estas privata.
+identity-description-active-loaded-insecure = Datumoj, kiujn vi dividas kun tiu ĉi retejo, povus esti viditaj de aliaj (ekzemple pasvortoj, mesaĝoj, kreditkartoj, ktp.
+identity-learn-more =
+    .value = Pli da informo
+identity-disable-mixed-content-blocking =
+    .label = Momente malaktivigi la protekton
+    .accesskey = M
+identity-enable-mixed-content-blocking =
+    .label = Aktivigi protekton
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Pli da informo
