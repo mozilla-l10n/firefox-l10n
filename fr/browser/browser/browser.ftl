@@ -167,6 +167,7 @@ identity-connection-internal = Cette page de { -brand-short-name } est sécuris�
 identity-connection-file = Cette page est stockée sur votre ordinateur.
 identity-extension-page = Cette page a été chargée depuis une extension.
 identity-active-blocked = { -brand-short-name } a bloqué des éléments non sécurisés sur cette page.
+identity-custom-root = Connexion vérifiée par un émetteur de certificat non reconnu par Mozilla.
 identity-passive-loaded = Des éléments de la page ne sont pas sécurisés (tels que des images).
 identity-active-loaded = Vous avez désactivé la protection sur cette page.
 identity-weak-encryption = Cette page utilise un faible niveau de chiffrement.
@@ -180,6 +181,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Votre connexion à ce site n’est pas sécurisée.
 identity-connection-verified = Votre connexion à ce site est sécurisée.
 identity-ev-owner-label = Certificat émis pour :
+identity-description-custom-root = Mozilla ne reconnaît pas cet émetteur de certificat. Il a peut-être été ajouté à partir de votre système d’exploitation ou par un administrateur. <label data-l10n-name="link">En savoir plus</label>
 identity-remove-cert-exception =
     .label = Supprimer l’exception
     .accesskey = S
