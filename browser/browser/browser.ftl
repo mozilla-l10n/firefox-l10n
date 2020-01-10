@@ -158,3 +158,24 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Aceasta este o pagină securizată { -brand-short-name }.
+identity-active-loaded = Ai dezactivat protecția pe această pagină.
+identity-weak-encryption = Această pagină folosește criptare slabă.
+identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
+identity-permissions-empty = Nu ai acordat acestui site nicio permisiune specială.
+identity-remove-cert-exception =
+    .label = Elimină excepția
+    .accesskey = R
+identity-description-insecure-login-forms = Informațiile de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.
+identity-description-weak-cipher-intro = Conexiunea la acest site web folosește criptare slabă și nu este privată.
+identity-description-active-blocked = { -brand-short-name } a blocat părți ale acestei pagini care nu sunt sigure. <label data-l10n-name="link">Află mai multe</label>
+identity-learn-more =
+    .value = Află mai multe
+identity-disable-mixed-content-blocking =
+    .label = Dezactivează protecția deocamdată
+    .accesskey = D
+identity-more-info-link-text =
+    .label = Mai multe informații
