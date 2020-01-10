@@ -158,3 +158,9 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = To je varna stran { -brand-short-name }a.
+identity-more-info-link-text =
+    .label = Več informacij
