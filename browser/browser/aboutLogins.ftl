@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Tschertgar datas d'annunzia
 create-login-button = Crear datas d'annunzia
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon per { $title }
 fxaccounts-sign-in-text = Acceda a tes pleds-clav cun tut tes apparats
 fxaccounts-sign-in-button = Connectar cun { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = I na dat nagins resultats che
 login-list-item-title-new-login = Nova infurmaziun d'annunzia
 login-list-item-subtitle-new-login = Endatescha tias infurmaziuns d'annunzia
 login-list-item-subtitle-missing-username = (nagin num d'utilisader)
-about-logins-list-item-warning-icon =
-    .alt = Icona d'avis
-    .title = Website che ha pers datas
 about-logins-list-item-breach-icon =
     .title = Website che ha pers datas
 
@@ -81,7 +73,6 @@ about-logins-intro-import = En cas che las infurmaziuns d'annunzia èn memorisad
 
 login-item-new-login-title = Creescha ina nova infurmaziun d'annunzia
 login-item-edit-button = Modifitgar
-login-item-delete-button = Stizzar
 about-logins-login-item-remove-button = Allontanar
 login-item-origin-label = Adressa da la website
 login-item-origin =
@@ -96,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Mussar il pled-clav
 login-item-password-reveal-checkbox-hide =
     .title = Zuppentar il pled-clav
+login-item-password-reveal-checkbox =
+    .aria-label = Mussar il pled-clav
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copià!
 login-item-save-changes-button = Memorisar las midadas
@@ -126,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] Avrir las preferenzas da { -sync-brand-short-name }
         }
     .accesskey = A
-confirm-delete-dialog-title = Stizzar questas infurmaziuns d'annunzia?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Betg pli dumandar
     .accesskey = B
@@ -138,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = Interrumper
 about-logins-confirm-remove-dialog-title = Allontanar questas infurmaziuns d'annunzia?
 confirm-delete-dialog-message = Questa acziun na po betg vegnir revocada.
-confirm-delete-dialog-confirm-button = Stizzar
 about-logins-confirm-remove-dialog-confirm-button = Allontanar
 confirm-discard-changes-dialog-title = Ignorar las modificaziuns betg memorisadas?
 confirm-discard-changes-dialog-message = Tut las modificaziuns betg memorisadas van a perder.
@@ -153,11 +144,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Ina endataziun per { $loginTitle } cun quest num d'utilisader exista gia.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

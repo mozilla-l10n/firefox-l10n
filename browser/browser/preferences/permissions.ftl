@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Bloccar novas dumondas d'access a tia posiziun
 permissions-site-location-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tia posiziun geografica. Cun bloccar l'access a tia posiziun vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Parameters - permissiuns per la realitad virtuala
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Las suandantas websites han dumandà l'access a tes apparats da realitad virtuala. Ti pos definir per mintga website schebain ella dastga acceder a tes apparats da realitad virtuala. Ti pos era bloccar novas dumondas da pudair acceder a tes apparats da realitad virtuala.
+permissions-site-xr-disable-label =
+    .label = Bloccar novas dumondas d'access a tes apparats da realitad virtuala
+permissions-site-xr-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tes apparats da realitad virtuala. Cun bloccar l'access a tes apparats da realitad virtuala vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
