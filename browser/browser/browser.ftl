@@ -163,6 +163,7 @@ bookmark-panel =
 
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է:
 identity-connection-file = Այս էջը գտնվում է համակարգչում:
+identity-extension-page = Այս էջը բեռնվել է ընդլայնումից:
 identity-active-blocked = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:
 identity-passive-loaded = Այս էջի մասերը անվտանգ չեն (օր.՝ պատկերները):
 identity-active-loaded = Դուք անջատել եք պաշտպանությունը այս էջում:
