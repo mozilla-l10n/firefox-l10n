@@ -157,6 +157,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Yhteys ei ole suojattu
+identity-connection-secure = Yhteys on suojattu
 identity-connection-internal = Tämä on suojattu { -brand-short-name }-sivu.
 identity-connection-file = Sivu on tallennettu tietokoneellesi.
 identity-extension-page = Tämän sivun latasi laajennus.
@@ -166,10 +168,15 @@ identity-passive-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten ku
 identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
 identity-weak-encryption = Sivusto käyttää heikkoa salausta.
 identity-insecure-login-forms = Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.
+identity-permissions =
+    .value = Käyttöoikeudet
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
 identity-permissions-empty = Sivustolle ei ole myönnetty mitään erityisoikeuksia.
 identity-clear-site-data =
     .label = Poista evästeet ja sivustotiedot…
+identity-connection-not-secure-security-view = Yhteytesi tähän sivustoon ei ole suojattu.
+identity-connection-verified = Yhteytesi tähän sivustoon on suojattu.
+identity-ev-owner-label = Varmenne myönnetty taholle:
 identity-description-custom-root = Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta. <label data-l10n-name="link">Lue lisää</label>
 identity-remove-cert-exception =
     .label = Poista poikkeus
