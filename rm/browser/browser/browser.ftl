@@ -157,8 +157,17 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = Quai è ina pagina segira da { -brand-short-name }.
+identity-connection-file = Questa pagina è memorisada sin tes computer.
 identity-extension-page = Ina extensiun ha chargià questa pagina.
+identity-active-blocked = { -brand-short-name } ha bloccà parts da questa pagina che n'èn betg segiradas.
+identity-passive-loaded = Parts da questa pagina (p.ex. maletgs) n'èn betg segiradas.
+identity-active-loaded = Ti has deactivà la protecziun per questa pagina.
+identity-weak-encryption = Questa pagina utilisescha in criptadi flaivel.
 identity-insecure-login-forms = Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.
 identity-permissions-reload-hint = Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.
+identity-description-insecure = Tia connexiun cun questa pagina n'è betg privata. Infurmaziuns che ti tramettas (p.ex. pleds-clav, messadis, numers da cartas da credit etc.) pon eventualmain vegnir legidas dad auters.
+identity-description-weak-cipher-intro = Tia connexiun cun questa pagina utilisescha in criptadi flaivel e n'è betg privata.
+identity-description-weak-cipher-risk = Autras persunas pon vesair tias infurmaziuns u modifitgar la pagina d'internet.
 identity-more-info-link-text =
     .label = Mussar detagls
