@@ -158,3 +158,25 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-file = העמוד הזה מאוחסן במחשב שלך.
+identity-extension-page = עמוד זה נטען מתוך הרחבה.
+identity-active-loaded = ניטרלת את אמצעי האבטחה על דף זה.
+identity-weak-encryption = דף זה משתמש בהצפנה חלשה.
+identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
+identity-remove-cert-exception =
+    .label = הסרת חריגה
+    .accesskey = ס
+identity-description-insecure = החיבור שלך לאתר זה אינו פרטי. המידע שנשלח זמין לצפייה לאחרים (כגון ססמאות, הודעות, כרטיסי אשראי וכו׳).
+identity-description-weak-cipher-intro = החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.
+identity-description-weak-cipher-risk = אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.
+identity-learn-more =
+    .value = מידע נוסף
+identity-disable-mixed-content-blocking =
+    .label = נטרול ההגנה לבינתיים
+    .accesskey = נ
+identity-enable-mixed-content-blocking =
+    .label = הפעלת הגנה
+    .accesskey = ג
