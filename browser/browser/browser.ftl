@@ -161,14 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = 不安全連線
+identity-connection-secure = 安全連線
 identity-connection-internal = 這是安全的 { -brand-short-name } 頁面。
 identity-connection-file = 此頁面位於您的電腦上。
+identity-extension-page = 此頁面是擴充套件頁面。
 identity-active-blocked = { -brand-short-name } 已經封鎖此頁面中不安全的部分。
+identity-custom-root = 連線是由 Mozilla 不認識的憑證簽發者所驗證。
 identity-passive-loaded = 本頁面中的部分內容（例如圖片）並不安全。
 identity-active-loaded = 您已停用此頁面中的保護。
 identity-weak-encryption = 此頁面使用了弱強度的加密。
 identity-insecure-login-forms = 在此頁面輸入的登入資訊可能會被洩漏。
+identity-permissions =
+    .value = 權限
+identity-permissions-reload-hint = 您可能需要重新載入頁面才能讓變更生效。
 identity-permissions-empty = 您並未授予此網站任何特殊權限。
+identity-clear-site-data =
+    .label = 清除 Cookie 與網站資料…
+identity-connection-not-secure-security-view = 您並未安全地連線至此網站。
+identity-connection-verified = 您正安全地連線至此網站。
+identity-ev-owner-label = 憑證簽發給:
+identity-description-custom-root = Mozilla 不認識此憑證簽發者，可能是由您的作業系統或網路管理員所加入的。 <label data-l10n-name="link">了解更多</label>
 identity-remove-cert-exception =
     .label = 移除例外
     .accesskey = R
@@ -176,9 +189,14 @@ identity-description-insecure = 您到此網站的連線並不私密。您發送
 identity-description-insecure-login-forms = 此頁面並不安全，您的登入資訊可能會被洩漏。
 identity-description-weak-cipher-intro = 您與此網站間的連線使用了弱強度的加密，並不私密。
 identity-description-weak-cipher-risk = 其他人可以看到您的資訊，或修改網站的行為。
+identity-description-active-blocked = { -brand-short-name } 已經封鎖此頁面中不安全的部分。 <label data-l10n-name="link">了解更多</label>
 identity-description-passive-loaded = 您的連線並不私密，您提供給此網站的資訊可能會被其他人看到。
+identity-description-passive-loaded-insecure = 此網站包含不安全的內容（例如圖片）。 <label data-l10n-name="link">了解更多</label>
+identity-description-passive-loaded-mixed = 雖然 { -brand-short-name } 已經封鎖部分內容，但頁面中還是有不安全的內容（例如圖片）。 <label data-l10n-name="link">了解更多</label>
 identity-description-active-loaded = 此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。
 identity-description-active-loaded-insecure = 您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。
+identity-learn-more =
+    .value = 了解更多
 identity-disable-mixed-content-blocking =
     .label = 暫時停止保護
     .accesskey = D
