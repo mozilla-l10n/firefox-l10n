@@ -144,3 +144,14 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-permissions-empty = You have not granted this site any special permissions.
+identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
+identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
+identity-description-passive-loaded = Your connection is not private and information you share with the site could be viewed by others.
+identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
+identity-disable-mixed-content-blocking =
+    .label = Disable protection for now
+    .accesskey = D
