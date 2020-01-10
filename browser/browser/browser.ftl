@@ -144,3 +144,29 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Sta chi a l'é 'na pagina segua de { -brand-short-name }.
+identity-connection-file = Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.
+identity-active-loaded = A proteçion a l'é dizativâ pe sta pagina.
+identity-weak-encryption = Sta pagina a deuvia na cifratua debole.
+identity-insecure-login-forms = I acessi a sta pagina porieivan ese vulnerabili.
+identity-permissions-empty = Nisciun permisso speciale asociou a sto scito.
+identity-description-insecure = A conescion con sto scito a no l'é privâ. E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.
+identity-description-insecure-login-forms = E informaçioin de acesso inserie in sta pagina no en segue e porievan ese conpromisse.
+identity-description-weak-cipher-intro = A conescion con sto scito web a deuvia na cifratua debole e a no l'é privâ.
+identity-description-weak-cipher-risk = Atri sogetti porievan amiâ e informaçioin trasmisse ò modificâ o conportamento do scito.
+identity-description-passive-loaded = A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri sogetti.
+identity-description-active-loaded = A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).
+identity-description-active-loaded-insecure = E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.
+identity-learn-more =
+    .value = Ulteriori informazioni
+identity-disable-mixed-content-blocking =
+    .label = Dizativa temporaneamente proteçion
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Ativa proteçion
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Ciù informaçioin
