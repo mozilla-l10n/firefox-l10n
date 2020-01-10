@@ -147,5 +147,21 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = Aquò es una pagina segura de { -brand-short-name }.
+identity-connection-file = Aquela pagina es enregistrada dins vòstre ordinador.
+identity-active-blocked = { -brand-short-name } a blocat d'elements pas segurs sus aquela pagina.
+identity-passive-loaded = D'elements de la pagina son pas segurs (coma los imatges).
+identity-active-loaded = Avètz desactivat la proteccion sus aquela pagina.
+identity-weak-encryption = Aquela pagina utiliza un chiframent flac.
+identity-insecure-login-forms = Los identificants marcats sus aquela pagina pòdon far perilh.
+identity-description-insecure = La vòstra connexion a aquel site es pas privada. Las informacions qu'enviatz pòdon èsser vistas per d’autres (coma per exemple los senhals, los messatges, las cartas de crèdit, etc.).
+identity-description-insecure-login-forms = Las informacions d’identificacion que marcatz sus aquela pagina son pas seguras e pòdon far perilh.
+identity-description-weak-cipher-intro = Vòstra connexion a aquel site web utiliza un chiframent flac e es pas privada.
+identity-description-active-blocked = { -brand-short-name } a blocat d'elements pas segurs sus aquela pagina. <label data-l10n-name="link">Ne saber mai</label>
+identity-description-passive-loaded = Vòstra connexion es pas privada e las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres.
+identity-description-passive-loaded-insecure = Aquel site ten de contenguts pas segurs (coma d'imatges). <label data-l10n-name="link">Ne saber mai</label>
+identity-description-passive-loaded-mixed = Pasmens se { -brand-short-name } a blocat de contengut, demòra d'elements pas segurs sus la pagina (coma d'imatges). <label data-l10n-name="link">Ne saber mai</label>
+identity-description-active-loaded = Aquel site web ten de contengut non segurs (coma d'scripts) e la connexion establida es pas privada.
+identity-description-active-loaded-insecure = Las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres (coma par exemple los senhals, los messatges, las cartas de crèdit, etc.).
 identity-learn-more =
     .value = Ne saber mai
