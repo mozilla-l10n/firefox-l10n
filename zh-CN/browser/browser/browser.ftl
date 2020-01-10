@@ -161,18 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = 连接不安全
+identity-connection-secure = 安全连接
 identity-connection-internal = 这是安全的 { -brand-short-name } 页面。
 identity-connection-file = 此页面存储在您的计算机上。
 identity-extension-page = 此页面是扩展页面。
 identity-active-blocked = { -brand-short-name } 已拦截此页面上不安全的内容。
+identity-custom-root = 连接由 Mozilla 不认可的证书颁发者所验证。
 identity-passive-loaded = 此页面上部分内容不安全（例如图像）。
 identity-active-loaded = 您在此页面上已禁用保护。
 identity-weak-encryption = 此页面使用较弱加密。
 identity-insecure-login-forms = 在此网页上输入的登录信息可能会泄露。
+identity-permissions =
+    .value = 权限
 identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
 identity-permissions-empty = 您尚未授予此站点任何权限。
 identity-clear-site-data =
     .label = 清除 Cookie 和网站数据…
+identity-connection-not-secure-security-view = 您并未安全地连接至此网站。
+identity-connection-verified = 您已安全地连接至此网站。
+identity-ev-owner-label = 证书颁发给：
+identity-description-custom-root = Mozilla 不认可此证书颁发者，可能是由您的操作系统或超级管理员所添加的。 <label data-l10n-name="link">详细了解</label>
 identity-remove-cert-exception =
     .label = 移除例外
     .accesskey = R
