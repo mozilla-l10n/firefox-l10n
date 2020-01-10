@@ -161,4 +161,34 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = { -brand-short-name } orri segurua da hau.
+identity-connection-file = Orri hau zure ordenagailuan biltegiratuta dago.
+identity-extension-page = Orri hau gehigarri batetik kargatu da.
+identity-active-blocked = { -brand-short-name }(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.
+identity-passive-loaded = Orri honetako zenbait atal ez dira seguruak (adib. irudiak).
+identity-active-loaded = Babesa desgaitu duzu orri honetan.
+identity-weak-encryption = Orri honek zifraketa ahula erabiltzen du.
+identity-insecure-login-forms = Orri honetan sartutako saio-hasierak arriskuan egon litezke.
+identity-permissions-reload-hint = Agian orria berritu beharko duzu aldaketek eragina izan dezaten.
+identity-permissions-empty = Ez diozu gune honi baimen berezirik eman.
+identity-remove-cert-exception =
+    .label = Kendu salbuespena
+    .accesskey = K
 identity-description-insecure-login-forms = Orri honetan sartzen duzun saio-hasiera informazioa ez da segurua eta arriskuan egon liteke.
+identity-description-weak-cipher-intro = Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.
+identity-description-weak-cipher-risk = Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.
+identity-description-active-blocked = { -brand-short-name }(e)k seguruak ez diren orri honetako zatiak blokeatu ditu. <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-passive-loaded = Zure konexioa ez da pribatua eta gunearekin partekatzen duzun informazioa besteek ikus lezakete.
+identity-description-passive-loaded-insecure = Wegune honek segurua ez den edukia dauka (adibidez irudiak). <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-passive-loaded-mixed = Nahiz eta { -brand-short-name }(e)k zenbait eduki blokeatu duen, segurua ez den edukia dauka oraindik orriak (adibidez irudiak). <label data-l10n-name="link">Argibide gehiago</label>
+identity-description-active-loaded = Wegune honek segurua ez den edukia dauka (adibidez script-ak) eta zure konexioa ez da pribatua.
+identity-learn-more =
+    .value = Argibide gehiago
+identity-disable-mixed-content-blocking =
+    .label = Desgaitu babesa momentuz
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Gaitu babesa
+    .accesskey = G
+identity-more-info-link-text =
+    .label = Informazio gehiago
