@@ -167,9 +167,7 @@ identity-connection-internal = Re re' ütz chi { -brand-short-name } ruxaq.
 identity-connection-file = Re ruxaq k'amaya'l re' yakon pan akematz'ib'.
 identity-extension-page = Re jun ruxaq k'amaya'l re' nisamajib'ëx pa jun k'amal.
 identity-active-blocked = { -brand-short-name } xeruq'ät ri itzel taq ruperaj re ruxaq re'.
-identity-custom-root =
-    Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Mozilla.
-    { "" }
+identity-custom-root = Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Mozilla.
 identity-passive-loaded = K'o man ütz ta taq ruch'akulal re ruxaq re' (achi'el ri taq wachib'äl).
 identity-active-loaded = Xachüp ruchajixik re ruxaq re'.
 identity-weak-encryption = Re ruxaq re' nrokisaj yamayïk chi suq'ch'ab'äl.
