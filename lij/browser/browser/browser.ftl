@@ -152,6 +152,7 @@ identity-connection-secure = Conescion segua
 identity-connection-internal = Sta chi a l'é 'na pagina segua de { -brand-short-name }.
 identity-connection-file = Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.
 identity-extension-page = Sta pagina a l'é caregâ da 'na estenscion.
+identity-active-blocked = Quarche elemento no seguo da pagina o l'é stæto blocòu da { -brand-short-name }.
 identity-passive-loaded = Quarche elemento da pagina o no l'é seguo (prezempio inmagini).
 identity-active-loaded = A proteçion a l'é dizativâ pe sta pagina.
 identity-weak-encryption = Sta pagina a deuvia na cifratua debole.
@@ -160,6 +161,8 @@ identity-permissions =
     .value = Permissi
 identity-permissions-reload-hint = Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.
 identity-permissions-empty = Nisciun permisso speciale asociou a sto scito.
+identity-clear-site-data =
+    .label = Scancella cookie e dæti di sciti…
 identity-connection-not-secure-security-view = Ti no ê conesso in mòddo seguo a sto scito.
 identity-remove-cert-exception =
     .label = Scancella Eceçion
@@ -168,8 +171,10 @@ identity-description-insecure = A conescion con sto scito a no l'é privâ. E in
 identity-description-insecure-login-forms = E informaçioin de acesso inserie in sta pagina no en segue e porievan ese conpromisse.
 identity-description-weak-cipher-intro = A conescion con sto scito web a deuvia na cifratua debole e a no l'é privâ.
 identity-description-weak-cipher-risk = Atri sogetti porievan amiâ e informaçioin trasmisse ò modificâ o conportamento do scito.
+identity-description-active-blocked = Quarche elemento no seguo da pagina o l'é stæto blocòu da { -brand-short-name }. <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-passive-loaded = A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri sogetti.
 identity-description-passive-loaded-insecure = Quarche elemento do scito web o no l'é seguo (prezenpio inmagini). <label data-l10n-name="link">Ulteriori informazioni</label>
+identity-description-passive-loaded-mixed = Sciben che quarche elemento o l'é blocòu da { -brand-short-name }, in sta pagina gh'é ancon di elementi no segui (prezenpio inmagini). <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-active-loaded = A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).
 identity-description-active-loaded-insecure = E informaçioin mandæ, comme prezempio paròlle segrete, mesaggi, dæti de carte de credito, ecc. porievan ese amiæ da atri sogetti.
 identity-learn-more =
