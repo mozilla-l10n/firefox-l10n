@@ -139,10 +139,35 @@ bookmark-panel-done-button =
 ## Identity Panel
 
 identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
+identity-connection-file = ఈ పేజీ మీ కంప్యూటర్లో భద్రమయివుంటుంది.
+identity-extension-page = ఈ పేజీ ఒక పొడగింత నుండి తెరవబడింది.
+identity-active-blocked = ఈ పేజీలో సురక్షితంకాని భాగాలను { -brand-short-name } నిరోధించింది.
+identity-passive-loaded = ఈ పేజీలోని కొన్ని భాగాలు సురక్షితమైనవి కావు (బొమ్మల వంటివి).
 identity-active-loaded = ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.
+identity-weak-encryption = ఈ పేజీ బలహీనమైన ఎన్‌క్రిప్షన్ వాడుతోంది.
+identity-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.
+identity-permissions-reload-hint = మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.
+identity-permissions-empty = ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.
+identity-clear-site-data =
+    .label = కుకీలను, సైటు డేటాను తుడిచివేయి…
+identity-remove-cert-exception =
+    .label = మినహాయింపును తొలగించు
+    .accesskey = R
+identity-description-insecure = ఈ సైటుకు మీరు గుట్టుగా అనుసంధానం కావడంలేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డులు, మొదలైనవి).
+identity-description-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చిన లాగిన్ సమాచారం సురక్షితమైనది కాదు మరియు రాజీపడవచ్చు.
+identity-description-weak-cipher-intro = ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్‌క్రిప్షన్‌తో ఉన్నది మరియు గుట్టుగా లేదు.
 identity-description-weak-cipher-risk = ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.
+identity-description-active-blocked = ఈ పేజీలో సురక్షితంకాని భాగాలను { -brand-short-name } నిరోధించింది. <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
+identity-description-passive-loaded = ఈ సైటుకు మీ అనుసంధానం గుట్టుగా లేదు మరియు ఈ సైటుతో మీరు పంచుకునే సమాచారం ఇతరులు చూడవచ్చు.
+identity-description-passive-loaded-insecure = ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (బొమ్మల వంటివి). <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా ఈ పేజీలో సురక్షితం కాని కాంటెంట్ ఉంది (బొమ్మల వంటివి). <label data-l10n-name="link">ఇంకా తెలుసుకోండి</label>
+identity-description-active-loaded = ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్‌ను కలిగివుంది (స్క్రిప్టుల వంటివి) మరియు దానికి మీరు గుట్టుగా అనుసంధానంకాలేదు.
+identity-description-active-loaded-insecure = ఈ సైటుతో మీరు పంచుకునే సమాచారాన్ని ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డులు, మొదలైనవి).
 identity-learn-more =
     .value = ఇంకా తెలుసుకోండి
+identity-disable-mixed-content-blocking =
+    .label = ఇప్పటికి రక్షణను అచేతనించు
+    .accesskey = D
 identity-enable-mixed-content-blocking =
     .label = రక్షణను చేతనించు
     .accesskey = E
