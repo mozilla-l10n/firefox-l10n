@@ -157,6 +157,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Nitāj seguridâ nikāj koneksiôn
+identity-connection-secure = Huā seguridâ nikāj koneksiôn
 identity-connection-internal = Nitaj si hua ahī pajina nikaj ñu'unj { -brand-short-name }
 identity-connection-file = 'Ngà nu sa' pajinâ na riña si aga't.
 identity-extension-page = Asij a'ngo hij nachra pajinâ na.
@@ -174,6 +176,7 @@ identity-clear-site-data =
     .label = Nagi'iaj niñu' kookies nī si dato sitio...
 identity-connection-not-secure-security-view = Nitāj si huā hue'e seguridâ nikāj sitiô nan.
 identity-connection-verified = Riña sitiô nan nī huā seguridâ.
+identity-ev-owner-label = Sertifikadô giri sa gu’nàj:
 identity-description-custom-root = Nu nani'in Mozilla sa giri sertifikadô nan. Sa ga'nïn si sistemât huin asi sa ga'nïn 'ngō administrador huin. <label data-l10n-name="link">Gahuin chrūn doj</label>
 identity-remove-cert-exception =
     .label = Dure' sa taj a
