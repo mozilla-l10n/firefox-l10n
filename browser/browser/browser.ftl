@@ -158,3 +158,32 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Dit is in befeilige { -brand-short-name }-side.
+identity-connection-file = Dizze side is op jo kompjûter bewarre.
+identity-active-blocked = { -brand-short-name } hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.
+identity-passive-loaded = Underdielen fan dizze side binne net befeilige (lykas ôfbyldingen).
+identity-active-loaded = Jo hawwe befeiliging op dizze side útskeakele.
+identity-weak-encryption = Dizze side brûkt swakke befeiliging.
+identity-permissions-empty = Jo hawwe dizze website gjin spesjale tastimmingen jûn.
+identity-remove-cert-exception =
+    .label = Utsûndering fuortsmite
+    .accesskey = f
+identity-description-insecure-login-forms = De oanmeldingsgegevens dy't jo op dizze side ynfiere binne net feilich en kinne oernommen wurde.
+identity-description-weak-cipher-intro = Jo ferbining mei dizze website brûkt swakke fersifering en is net privee.
+identity-description-weak-cipher-risk = Oare persoanen kinne jo gegevens besjen of it gedrach fan de website oanpasse.
+identity-description-active-blocked = { -brand-short-name } hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre. <label data-l10n-name="link">Mear ynfo</label>
+identity-description-passive-loaded-mixed = Hoewol { -brand-short-name } bepaalde ynhâld blokkearre hat, is der noch hieltyd ynhâld op de side dy't net befeilige is (lykas ôfbyldingen). <label data-l10n-name="link">Mear ynfo</label>
+identity-description-active-loaded = Dizze website befettet ynhâld dy't net befeilige is (lykas scripts) en jo ferbining dêrmei is net privee.
+identity-learn-more =
+    .value = Mear ynfo
+identity-disable-mixed-content-blocking =
+    .label = Beskerming foar no útskeakelje
+    .accesskey = t
+identity-enable-mixed-content-blocking =
+    .label = Beskerming ynskeakelje
+    .accesskey = s
+identity-more-info-link-text =
+    .label = Mear ynformaasje
