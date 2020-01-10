@@ -140,6 +140,9 @@ bookmark-panel-done-button =
 
 identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
 identity-active-loaded = ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.
+identity-description-weak-cipher-risk = ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ పనితీరుని మార్చగలరు.
+identity-learn-more =
+    .value = ఇంకా తెలుసుకోండి
 identity-enable-mixed-content-blocking =
     .label = రక్షణను చేతనించు
     .accesskey = E
