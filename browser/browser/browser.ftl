@@ -163,10 +163,22 @@ bookmark-panel =
 
 identity-connection-not-secure = Spojení není zabezpečené
 identity-connection-secure = Zabezpečené spojení
-identity-connection-internal = Toto je zabezpečená stránka aplikace { -brand-short-name }.
+identity-connection-internal =
+    Toto je zabezpečená stránka { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }.
 identity-connection-file = Tato stránka je uložena ve vašem počítači.
 identity-extension-page = Tato stránka je načtena z doplňku.
-identity-active-blocked = Aplikace { -brand-short-name } zablokovala nezabezpečené části této stránky.
+identity-active-blocked =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval
+        [feminine] { -brand-short-name } zablokovala
+        [neuter] { -brand-short-name } zablokovalo
+       *[other] Aplikace { -brand-short-name } zablokovala
+    } nezabezpečené části této stránky.
 identity-custom-root = Připojení je ověřeno vydavatelem certifikátů, kterého Mozilla nezná.
 identity-passive-loaded = Části této stránky nejsou zabezpečené (například obrázky).
 identity-active-loaded = Na této stránce jste ochranu zakázali.
@@ -189,10 +201,22 @@ identity-description-insecure = Vaše připojení k tomuto serveru není soukrom
 identity-description-insecure-login-forms = Přihlašovací údaje, které zadáte na této stránce, nebudou zabezpečeny a mohou být vyzrazeny.
 identity-description-weak-cipher-intro = Vaše spojení s tímto serverem používá slabé šifrování a není soukromé.
 identity-description-weak-cipher-risk = Ostatní lidé mohou vidět vaše informace nebo pozměnit chování stránky.
-identity-description-active-blocked = Aplikace { -brand-short-name } zablokovala nezabezpečené části této stránky. <label data-l10n-name="link">Zjistit více</label>
+identity-description-active-blocked =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval
+        [feminine] { -brand-short-name } zablokovala
+        [neuter] { -brand-short-name } zablokovalo
+       *[other] Aplikace { -brand-short-name } zablokovala
+    } nezabezpečené části této stránky. <label data-l10n-name="link">Zjistit více</label>
 identity-description-passive-loaded = Vaše připojení není soukromé a informace, které sdílíte s tímto serverem, mohou být viděny ostatními.
 identity-description-passive-loaded-insecure = Tato webová stránka obsahuje obsah, který není zabezpečen (například obrázky). <label data-l10n-name="link">Zjistit více</label>
-identity-description-passive-loaded-mixed = Ačkoli aplikace { -brand-short-name } zablokovala nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky). <label data-l10n-name="link">Zjistit více</label>
+identity-description-passive-loaded-mixed =
+    Ačkoli { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval
+        [feminine] { -brand-short-name } zablokovala
+        [neuter] { -brand-short-name } zablokovalo
+       *[other] aplikace { -brand-short-name } zablokovala
+    } nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky). <label data-l10n-name="link">Zjistit více</label>
 identity-description-active-loaded = Tato webová stránka obsahuje obsah, který není zabezpečen (například skripty), a připojení k tomuto serveru tak není soukromé.
 identity-description-active-loaded-insecure = Informace, které sdílíte s tímto serverem (jako hesla, zprávy, číslo platební karty, atd.), mohou být viděny ostatními.
 identity-learn-more =
