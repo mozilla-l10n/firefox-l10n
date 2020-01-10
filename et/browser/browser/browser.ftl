@@ -165,6 +165,7 @@ identity-weak-encryption = See leht kasutab nõrka krüpteeringut.
 identity-insecure-login-forms = Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.
 identity-permissions =
     .value = Õigused
+identity-permissions-reload-hint = Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.
 identity-permissions-empty = Sellele saidile pole tagatud ühtki eriõigust.
 identity-clear-site-data =
     .label = Kustuta küpsised ja saidi andmed…
