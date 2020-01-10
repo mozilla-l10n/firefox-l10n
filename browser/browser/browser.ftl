@@ -144,3 +144,8 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 26em
+
+## Identity Panel
+
+identity-learn-more =
+    .value = Ne saber mai
