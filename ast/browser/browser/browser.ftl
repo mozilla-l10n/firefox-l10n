@@ -112,3 +112,11 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = Fecho
+
+## Identity Panel
+
+identity-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures.
+identity-passive-loaded = Partes d'esta páxina nun son segures (cómo imáxenes).
+identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Deprendi más</label>
+identity-learn-more =
+    .value = Deprendi más
