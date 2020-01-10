@@ -161,12 +161,25 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = 这是安全的 { -brand-short-name } 页面。
 identity-connection-file = 此页面存储在您的计算机上。
+identity-extension-page = 此页面是扩展页面。
+identity-active-blocked = { -brand-short-name } 已拦截此页面上不安全的内容。
+identity-passive-loaded = 此页面上部分内容不安全（例如图像）。
 identity-active-loaded = 您在此页面上已禁用保护。
 identity-weak-encryption = 此页面使用较弱加密。
+identity-insecure-login-forms = 在此网页上输入的登录信息可能会泄露。
 identity-permissions-empty = 您尚未授予此站点任何权限。
 identity-description-insecure = 您至此网站的连接非私密。您提交的信息可能被其他人看到（例如密码、邮件、信用卡等）。
+identity-description-insecure-login-forms = 在此页面输入您的登录信息并不安全，可能会泄露。
+identity-description-weak-cipher-intro = 您与此网站的连接使用了较弱的加密，并不私密。
+identity-description-weak-cipher-risk = 其他人可能查看您的信息或修改该网站的行为。
+identity-description-active-blocked = { -brand-short-name } 已拦截此页面上不安全的内容。 <label data-l10n-name="link">详细了解</label>
+identity-description-passive-loaded = 您的连接并不私密，您提供给此网站的信息可能会被其他人看到。
+identity-description-passive-loaded-insecure = 此网站包含不安全的内容（例如图像）。 <label data-l10n-name="link">详细了解</label>
+identity-description-passive-loaded-mixed = 尽管 { -brand-short-name } 已拦截部分内容，但页面上仍有内容不安全（例如图像）。 <label data-l10n-name="link">详细了解</label>
 identity-description-active-loaded = 此网站包含的内容不安全（例如脚本），并且您至它的连接非私密。
+identity-description-active-loaded-insecure = 您提供给此网站的信息（例如密码、聊天消息、信用卡等）可能会被其他人看到。
 identity-learn-more =
     .value = 详细了解
 identity-disable-mixed-content-blocking =
