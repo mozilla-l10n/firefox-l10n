@@ -115,3 +115,8 @@ page-action-remove-from-urlbar =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-learn-more =
+    .value = Ootzi ka'te
