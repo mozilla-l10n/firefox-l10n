@@ -162,5 +162,30 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-internal = To je varna stran { -brand-short-name }a.
+identity-connection-file = Ta stran je shranjena na vašem računalniku.
+identity-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso varni.
+identity-passive-loaded = Deli strani niso varni (npr. slike).
+identity-active-loaded = Zaščita na tej strani je onemogočena.
+identity-weak-encryption = Stran uporablja šibko šifriranje.
+identity-clear-site-data =
+    .label = Počisti piškotke in podatke te strani …
+identity-description-insecure = Vaša povezava na to stran ni zasebna. Podatke, ki jih pošiljate (npr. gesla, sporočila in kreditne kartice), si lahko ogledajo tudi druge osebe.
+identity-description-insecure-login-forms = Podatki, ki jih vnesete ob prijavi na to stran, niso varni in so lahko ogroženi.
+identity-description-weak-cipher-intro = Vaša povezava na to stran uporablja šibko šifriranje in ni zasebna.
+identity-description-weak-cipher-risk = Druge osebe lahko vidijo vaše podatke ali spreminjajo obnašanje spletne strani.
+identity-description-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso varni. <label data-l10n-name="link">Več o tem</label>
+identity-description-passive-loaded = Vaša povezava ni zasebna, zato lahko podatke, ki jih delite s stranjo, vidijo tudi druge osebe.
+identity-description-passive-loaded-insecure = Spletna stran vsebuje elemente, ki niso varni (npr. slike). <label data-l10n-name="link">Več o tem</label>
+identity-description-passive-loaded-mixed = Čeprav je { -brand-short-name } zavrnil dele vsebine, nekateri drugi deli še vedno niso varni (npr. slike). <label data-l10n-name="link">Več o tem</label>
+identity-description-active-loaded = Spletna stran vsebuje elemente, ki niso varni (npr. skripti) in vaša povezava nanjo ni zasebna.
+identity-description-active-loaded-insecure = Podatke, ki jih delite s to stranjo, si lahko ogledajo druge osebe (npr. gesla, sporočila in kreditne kartice).
+identity-learn-more =
+    .value = Več o tem
+identity-disable-mixed-content-blocking =
+    .label = Onemogoči zaščito za zdaj
+    .accesskey = N
+identity-enable-mixed-content-blocking =
+    .label = Omogoči zaščito
+    .accesskey = O
 identity-more-info-link-text =
     .label = Več informacij
