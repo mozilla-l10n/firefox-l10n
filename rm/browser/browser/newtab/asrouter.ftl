@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extensiun recumandada
 cfr-doorhanger-feature-heading = Funcziunalitad recumandada
 cfr-doorhanger-pintab-heading = Emprova quai: Fixar quest tab
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
@@ -124,9 +124,24 @@ cfr-whatsnew-pip-cta = Ulteriuras infurmaziuns
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Damain pop-ups stentus da websites
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } evitescha ussa che websites dumondan automaticamain la permissiun da mussar messadis pop-up.
+cfr-whatsnew-permission-prompt-cta = Ulteriuras infurmaziuns
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Bloccà in improntader
+       *[other] Bloccà improntaders
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochescha blers improntaders (fingerprinters) che rimnan adascus infurmaziuns davart tes apparat e tias acziuns per crear in profil da reclama da tai.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Improntaders
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } po bloccar improntaders (fingerprinters) che rimnan adascus infurmaziuns davart tes apparat e tias acziuns per crear in profil da reclama da tai.
 
 ## Bookmark Sync
 
