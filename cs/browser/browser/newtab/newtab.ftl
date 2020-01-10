@@ -93,9 +93,16 @@ newtab-privacy-modal-paragraph =
         [neuter] vaše { -brand-product-name(case: "acc") }
        *[other] vaši aplikaci { -brand-product-name }
     } - neodesílají se nám ani našim sponzorům.
+newtab-privacy-modal-paragraph-2 =
+    Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných sponzorů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí { -brand-product-name.gender ->
+        [masculine] váš { -brand-product-name(case: "acc") }
+        [feminine] vaši { -brand-product-name(case: "acc") }
+        [neuter] vaše { -brand-product-name(case: "acc") }
+       *[other] vaši aplikaci { -brand-product-name }
+    }</strong> - neodesílají se nám ani našim sponzorům.
 newtab-privacy-modal-link = Zjistěte, jak chráníme vaše soukromí na stránce nového panelu.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Odebrat záložku
@@ -182,7 +189,6 @@ newtab-discovery-empty-section-topstories-timed-out = Jejda, při načítání o
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populární témata:
 newtab-pocket-more-recommendations = Další doporučení
-newtab-pocket-how-it-works = Jak to funguje
 newtab-pocket-whats-pocket = Co je { -pocket-brand-name }?
 newtab-pocket-cta-button = Získejte { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Ukládejte si články do { -pocket-brand-name(case: "gen") } a užívejte si skvělé čtení.
