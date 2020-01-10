@@ -148,6 +148,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = असुरक्षित जोडणी
+identity-connection-secure = जोडणी सुरक्षित
 identity-connection-internal = हे सुरक्षित { -brand-short-name } पृष्ठ आहे.
 identity-connection-file = हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.
 identity-extension-page = हे पृष्ठ एका विस्तारापासून लोड केलेले आहे.
@@ -156,10 +158,15 @@ identity-passive-loaded = या पृष्ठावरील काही भ
 identity-active-loaded = आपण ह्या पृष्ठावरील सुरक्षा बंद केली आहे.
 identity-weak-encryption = हे पृष्ठ कमकुवत एनक्रिप्शन वापरते.
 identity-insecure-login-forms = आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.
+identity-permissions =
+    .value = परवानग्या
 identity-permissions-reload-hint = आपल्याला बदल लागू करण्यासाठी पृष्ठ पुन्हा लोड करावे लागू शकते.
 identity-permissions-empty = आपण ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.
 identity-clear-site-data =
     .label = कुकीज आणि साईट माहिती पुसा…
+identity-connection-not-secure-security-view = आपण या साइटशी सुरक्षितपणे कनेक्ट केलेले नाही.
+identity-connection-verified = आपण या साइटशी सुरक्षितपणे कनेक्ट केले आहे.
+identity-ev-owner-label = यांना प्रमाणपत्र दिले:
 identity-remove-cert-exception =
     .label = अपवाद काढा
     .accesskey = R
