@@ -158,3 +158,33 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 28em
+
+## Identity Panel
+
+identity-connection-internal = Isto es un pagina secur de { -brand-short-name }.
+identity-extension-page = Iste pagina es cargate ab un extension.
+identity-active-blocked = { -brand-short-name } ha blocate partes de iste pagina que non es secur.
+identity-passive-loaded = Partes de iste pagina non es secur (pro exemplo, imagines).
+identity-insecure-login-forms = Le informationes de authentication scribite in iste pagina pote esser compromittite.
+identity-permissions-reload-hint = Il es possibile que tu debe recargar le pagina pro que le cambios se applica.
+identity-permissions-empty = Tu non ha concedite ulle permission special a iste sito.
+identity-remove-cert-exception =
+    .label = Remover le exception
+    .accesskey = R
+identity-description-insecure = Tu connexion a iste sito non es private. Informationes que tu submitte pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).
+identity-description-insecure-login-forms = Le informationes de authentication que tu scribe in iste pagina non es secur e pote esser compromittite.
+identity-description-weak-cipher-intro = Tu connexion a iste sito web usa un cryptographia debile e non es private.
+identity-description-weak-cipher-risk = Altere personas pote vider tu information o modificar le comportamento del sito web.
+identity-description-active-blocked = { -brand-short-name } ha blocate partes de iste pagina que non es secur. <label data-l10n-name="link">Saper plus</label>
+identity-description-passive-loaded = Tu connexion non es private e informationes que tu comparti con iste sito pote esser vidite per alteres.
+identity-description-passive-loaded-insecure = Iste sito web contine contento que non es secur (pro exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
+identity-description-passive-loaded-mixed = Ben que { -brand-short-name } ha blocate alcun contento, il ha ancora contento in le pagina que non es secur (pro exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
+identity-description-active-loaded = Iste sito web contine contento que non es secur (como scripts) e tu connexion a illo non es private.
+identity-description-active-loaded-insecure = Le informationes que tu comparti con iste sito pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).
+identity-learn-more =
+    .value = Saper plus
+identity-enable-mixed-content-blocking =
+    .label = Activar le protection
+    .accesskey = E
+identity-more-info-link-text =
+    .label = Plus information
