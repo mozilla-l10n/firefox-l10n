@@ -151,12 +151,16 @@ bookmark-panel =
 
 identity-connection-internal = Ово је безбедна { -brand-short-name } страница.
 identity-connection-file = Ова страница се складишти на рачунару.
+identity-extension-page = Ова страница је учитана са екстензије.
 identity-active-blocked = { -brand-short-name } је блокирао делове странице које нису безбедне.
 identity-passive-loaded = Делови ове странице нису безбедни (као што су слике).
 identity-active-loaded = Заштита на овој страници је искључена.
 identity-weak-encryption = Страница користи слабо шифровање.
 identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
+identity-permissions-empty = Овом сајту нису додељене никакве посебне дозволе.
+identity-clear-site-data =
+    .label = Обриши колачиће и податке сајта…
 identity-remove-cert-exception =
     .label = Уклони изузетак
     .accesskey = и
