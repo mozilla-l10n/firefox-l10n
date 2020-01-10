@@ -92,3 +92,8 @@ search-one-offs-context-set-as-default =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-learn-more =
+    .value = Ka´vi kue´eka
