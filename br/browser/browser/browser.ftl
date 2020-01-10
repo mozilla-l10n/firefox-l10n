@@ -161,6 +161,7 @@ identity-connection-internal = Ur bajenn { -brand-short-name } diarvar eo.
 identity-connection-file = War hoc'h urzhiataer eo kadavet ar bajenn-mañ.
 identity-extension-page = Diwar un askouezh eo karget ar bajenn-mañ.
 identity-active-blocked = Stanket eo bet gant { -brand-short-name } lodennoù arvarus er bajennad.
+identity-custom-root = Gwiriet eo bet ar c'hennask hag ur pourchaser testenioù n'eo ket adanavezet gant Mozilla.
 identity-passive-loaded = Arvarus eo lodennoù eus ar bajennad (skeudennoù, da skouer).
 identity-active-loaded = Diweredekaet ho peus ar gwarez war ar bajenn-mañ.
 identity-weak-encryption = Enrinegañ gwan a vez arveret gant ar bajenn-mañ.
