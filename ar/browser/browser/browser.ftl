@@ -159,16 +159,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = الاتصال غير آمن
+identity-connection-secure = الاتصال آمن
 identity-connection-internal = هذه صفحة { -brand-short-name } آمنة.
 identity-connection-file = هذه الصفحة مخزنة على حاسوبك.
 identity-extension-page = حمِّلت هذه الصفحة من امتداد.
 identity-active-blocked = حجب { -brand-short-name } الأجزاء غير الآمنة في هذه الصفحة.
+identity-custom-root = تثبّت من هذا الاتصال مُصْدِر شهادات لا تعرفه Mozilla.
 identity-passive-loaded = بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).
 identity-active-loaded = لقد أوقفت الحماية على هذه الصفحة.
 identity-weak-encryption = تستخدم هذه الصفحة تعمية ضعيفة.
 identity-insecure-login-forms = معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.
+identity-permissions =
+    .value = التصاريح
 identity-permissions-reload-hint = قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.
 identity-permissions-empty = لم تمنح هذا الموقع أي صلاحيات خاصة.
+identity-clear-site-data =
+    .label = امسح الكعكات و بيانات المواقع…
+identity-connection-not-secure-security-view = لست متصلا مع هذا الموقع بأمان.
+identity-connection-verified = أنت متصل مع هذا الموقع بأمان.
+identity-ev-owner-label = أُصدرت الشّهادة إلى:
+identity-description-custom-root = لم تتعرّف Mozilla على مُصْدِر الشهادات هذا. لربّما أضافه نظام التشغيل أو أحد المدراء. <label data-l10n-name="link">اطّلع على المزيد</label>
 identity-remove-cert-exception =
     .label = أزِل الاستثناء
     .accesskey = س
