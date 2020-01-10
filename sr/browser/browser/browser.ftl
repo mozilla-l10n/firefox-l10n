@@ -146,3 +146,33 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Ово је безбедна { -brand-short-name } страница.
+identity-connection-file = Ова страница се складишти на рачунару.
+identity-active-blocked = { -brand-short-name } је блокирао делове странице које нису безбедне.
+identity-passive-loaded = Делови ове странице нису безбедни (као што су слике).
+identity-active-loaded = Заштита на овој страници је искључена.
+identity-weak-encryption = Страница користи слабо шифровање.
+identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
+identity-remove-cert-exception =
+    .label = Уклони изузетак
+    .accesskey = и
+identity-description-insecure = Веза до овог сајта није приватна. Информације које шаљете могу бити прочитане од стране других (као што су лозинке, поруке, кредитне картице, итд.).
+identity-description-insecure-login-forms = Информације за пријаву које сте унели на овој страницу нису сигурне и могу бити угрожене.
+identity-description-weak-cipher-intro = Веза до овог сајта користи слабо шифровање и није приватна.
+identity-description-weak-cipher-risk = Друге особе могу да виде ваше информације или да модификују понашање веб сајта.
+identity-description-passive-loaded = Веза није приватна и информације које делите могу бити прочитане од стране других.
+identity-description-active-loaded = Сајт садржи садржај који није безбедан (као што су скрипте) и веза није приватна.
+identity-description-active-loaded-insecure = Информације које делите могу бити виђене од стране осталих (као што су лозинке, поруке, кредитне картице, итд.).
+identity-learn-more =
+    .value = Сазнајте више
+identity-disable-mixed-content-blocking =
+    .label = Онемогући заштиту за сада
+    .accesskey = н
+identity-enable-mixed-content-blocking =
+    .label = Омогући заштиту
+    .accesskey = О
+identity-more-info-link-text =
+    .label = Више информација
