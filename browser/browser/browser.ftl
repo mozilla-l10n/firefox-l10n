@@ -154,18 +154,26 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Μη ασφαλής σύνδεση
+identity-connection-secure = Ασφαλής σύνδεση
 identity-connection-internal = Αυτή είναι μια ασφαλής σελίδα του { -brand-short-name }.
 identity-connection-file = Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.
 identity-extension-page = Αυτή η σελίδα φορτώθηκε από μια επέκταση.
 identity-active-blocked = Το { -brand-short-name } έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας.
+identity-custom-root = Η σύνδεση επαληθεύτηκε από έναν εκδότη πιστοποιητικών που δεν αναγνωρίζεται από τη Mozilla.
 identity-passive-loaded = Κάποια τμήματα αυτής της σελίδας δεν είναι ασφαλή (π.χ. κάποιες εικόνες).
 identity-active-loaded = Έχετε απενεργοποιήσει την προστασία σε αυτή τη σελίδα.
 identity-weak-encryption = Αυτή η σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση.
 identity-insecure-login-forms = Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.
+identity-permissions =
+    .value = Δικαιώματα
 identity-permissions-reload-hint = Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.
 identity-permissions-empty = Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.
 identity-clear-site-data =
     .label = Διαγραφή cookies και δεδομένων ιστοσελίδων…
+identity-connection-not-secure-security-view = Η σύνδεσή σας σε αυτή την ιστοσελίδα δεν είναι ασφαλής.
+identity-connection-verified = Η σύνδεσή σας σε αυτή την ιστοσελίδα είναι ασφαλής.
+identity-description-custom-root = Η Mozilla δεν αναγνωρίζει αυτό τον εκδότη πιστοποιητικών. Ενδέχεται να έχει προστεθεί από το λειτουργικό σας σύστημα ή κάποιο διαχειριστή. <label data-l10n-name="link">Μάθετε περισσότερα</label>
 identity-remove-cert-exception =
     .label = Αφαίρεση εξαίρεσης
     .accesskey = Ρ
@@ -181,6 +189,9 @@ identity-description-active-loaded = Αυτή η ιστοσελίδα έχει �
 identity-description-active-loaded-insecure = Πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α.).
 identity-learn-more =
     .value = Μάθετε περισσότερα
+identity-disable-mixed-content-blocking =
+    .label = Απενεργοποίηση προστασίας προσωρινά
+    .accesskey = π
 identity-enable-mixed-content-blocking =
     .label = Ενεργοποίηση προστασίας
     .accesskey = Ε
