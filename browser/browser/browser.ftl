@@ -147,9 +147,36 @@ bookmark-panel =
 
 identity-connection-internal = Ini adalah halaman { -brand-short-name } yang selamat.
 identity-connection-file = Halaman ini disimpan dalam komputer anda.
+identity-extension-page = Halaman ini dimuatkan dari ekstensi.
+identity-active-blocked = { -brand-short-name } telah menyekat sebahagian halaman ini yang tidak selamat.
+identity-passive-loaded = Sebahagian halaman ini tidak selamat (contohnya imej).
+identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini.
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
+identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
+identity-permissions-reload-hint = Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.
+identity-permissions-empty = Anda tidak memberikan laman ini sebarang keizinan khas.
+identity-clear-site-data =
+    .label = Buang Kuki dan Data Laman…
+identity-remove-cert-exception =
+    .label = Buang Pengecualian
+    .accesskey = B
 identity-description-insecure = Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).
+identity-description-insecure-login-forms = Maklumat log masuk yang anda masukkan dalam halaman ini tidak selamat dan boleh dikompromi.
+identity-description-weak-cipher-intro = Sambungan anda ke laman web ini menggunakan enkripsi yang lemah dan bukan secara persendirian.
 identity-description-weak-cipher-risk = Orang lain boleh melihat maklumat anda atau mengubah tingkah laku laman web.
+identity-description-active-blocked = { -brand-short-name } telah menyekat sebahagian halaman ini yang tidak selamat. <label data-l10n-name="link">Ketahui Selanjutnya</label>
 identity-description-passive-loaded = Sambungan anda adalah terbuka dan maklumat yang anda kongsi dengan halaman ini mampu dilihat oleh orang lain.
+identity-description-passive-loaded-insecure = Laman web ini mengandungi kandungan yang tidak selamat (seperti imej). <label data-l10n-name="link">Ketahui Selanjutnya</label>
+identity-description-passive-loaded-mixed = Walaupun { -brand-short-name } telah menyekat beberapa kandungan, masih ada kandungan pada halaman ini yang tidak selamat (seperti imej). <label data-l10n-name="link">Ketahui Selanjutnya</label>
 identity-description-active-loaded = Laman web ini mengandungi kandungan yang tidak selamat (seperti skrip) dan sambungan anda kepadanya adalah terbuka.
 identity-description-active-loaded-insecure = Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).
+identity-learn-more =
+    .value = Ketahui Selanjutnya
+identity-disable-mixed-content-blocking =
+    .label = Nyahdayakan perlindungan buat masa ni
+    .accesskey = N
+identity-enable-mixed-content-blocking =
+    .label = Dayakan perlindungan
+    .accesskey = D
+identity-more-info-link-text =
+    .label = Maklumat Lanjut
