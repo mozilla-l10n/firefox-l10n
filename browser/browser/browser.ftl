@@ -161,16 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = La connexió no és segura
+identity-connection-secure = Connexió segura
 identity-connection-internal = Aquesta és una pàgina del { -brand-short-name } segura.
 identity-connection-file = Aquesta pàgina està desada a l'ordinador.
 identity-extension-page = Aquesta pàgina s'ha carregat des d'una extensió.
 identity-active-blocked = El { -brand-short-name } ha blocat parts d'aquesta pàgina que no són segures.
+identity-custom-root = Connexió verificada per un emissor de certificats que no és reconegut per Mozilla.
 identity-passive-loaded = Parts d'aquesta pàgina no són segures (com les imatges).
 identity-active-loaded = Heu desactivat la protecció en aquesta pàgina.
 identity-weak-encryption = Aquesta pàgina utilitza xifratge feble.
 identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.
+identity-permissions =
+    .value = Permisos
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
 identity-permissions-empty = No heu donat cap permís especial a aquest lloc.
+identity-clear-site-data =
+    .label = Esborra les galetes i dades dels llocs…
+identity-connection-not-secure-security-view = No esteu connectat de forma segura a aquest lloc.
+identity-connection-verified = Esteu connectat de forma segura a aquest lloc.
+identity-ev-owner-label = Certificat emès per a:
+identity-description-custom-root = Mozilla no reconeix aquest emissor de certificats. És possible que l'hagi afegit el vostre sistema operatiu o un administrador. <label data-l10n-name="link">Més informació</label>
 identity-remove-cert-exception =
     .label = Elimina l'excepció
     .accesskey = x
