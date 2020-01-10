@@ -221,7 +221,7 @@ translate-exceptions =
     .label = 예외…
     .accesskey = x
 check-user-spelling =
-    .label = 입력할 때 철자 확인
+    .label = 입력할 때 맞춤법 검사
     .accesskey = t
 
 ## General Section - Files and Applications
@@ -328,7 +328,7 @@ update-history =
     .accesskey = p
 update-application-allow-description = { -brand-short-name } 설치 방법
 update-application-auto =
-    .label = 자동으로 업데이트 설치(추천)
+    .label = 자동으로 업데이트 설치(권장)
     .accesskey = A
 update-application-check-choose =
     .label = 새로운 업데이트를 확인하지만 설치는 수동으로 진행
@@ -376,7 +376,7 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = 콘텐츠 프로세스 제한
     .accesskey = L
-performance-limit-content-process-enabled-desc = 추가 콘텐츠 프로세스는 다중 탭을 사용 하는 경우 성능을 향상 시킬 수 있지만 더 많은 메모리를 사용 합니다.
+performance-limit-content-process-enabled-desc = 추가 콘텐츠 프로세스는 여러 탭을 사용할 때 성능을 향상시킬 수 있지만 더 많은 메모리를 사용합니다.
 performance-limit-content-process-blocked-desc = 콘텐츠 프로세스 갯수 변경은 멀티 프로세스 { -brand-short-name }에서만 가능합니다. <a data-l10n-name="learn-more">멀티 프로세스가 활성화 되었는지 확인하는 방법</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
