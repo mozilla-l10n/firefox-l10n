@@ -161,16 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Zwisk njewěsty
+identity-connection-secure = Zwisk wěsty
 identity-connection-internal = To je wěsta strona { -brand-short-name }.
 identity-connection-file = Tuta strona je so na wašim ličaku składowała.
 identity-extension-page = Tuta strona je so z rozšěrjenja začitała.
 identity-active-blocked = { -brand-short-name } je dźěle tuteje strony zablokował, kotrež wěste njejsu.
+identity-custom-root = Zwisk je so přez certifikatoweho wudawarja přepruwował, kotryž wot Mozilla připóznaty njeje.
 identity-passive-loaded = Dźěle tuteje strony wěste njejsu (na přikład wobrazy).
 identity-active-loaded = Sće škit na tutej stronje znjemóžnił.
 identity-weak-encryption = Tuta strona słabe zaklučowanje wužiwa.
 identity-insecure-login-forms = Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.
+identity-permissions =
+    .value = Prawa
 identity-permissions-reload-hint = Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.
 identity-permissions-empty = Njejsće tutomu sydłu wosebite prawa přizwolił.
+identity-clear-site-data =
+    .label = Placki a sydłowe daty zhašeć…
+identity-connection-not-secure-security-view = Njejsće wěsće z tutym sydłom zwjazany.
+identity-connection-verified = Sće wěsće z tutym sydłom zwjazany.
+identity-ev-owner-label = Certifikat wupisany na:
+identity-description-custom-root = Mozilla tutoho certifikatoweho wudawarja njepřipóznawa. Je so snano přez waš dźěłowy system abo wot administratora přidał. <label data-l10n-name="link">Dalše informacije</label>
 identity-remove-cert-exception =
     .label = Wuwzaće wotstronić
     .accesskey = W
