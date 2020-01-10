@@ -161,6 +161,7 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = Toto je bezpečná stránka prehliadača { -brand-short-name }
 identity-connection-file = Táto stránka je uložená vo vašom počítači.
 identity-active-loaded = Na tejto stránke ste vypli Ochranu pred sledovaním.
 identity-weak-encryption = Táto stránka používa slabé šifrovanie.
@@ -182,3 +183,5 @@ identity-disable-mixed-content-blocking =
 identity-enable-mixed-content-blocking =
     .label = Povoliť ochranu
     .accesskey = P
+identity-more-info-link-text =
+    .label = Ďalšie informácie
