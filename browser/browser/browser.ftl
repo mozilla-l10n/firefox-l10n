@@ -161,6 +161,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Sambungan tidak aman
+identity-connection-secure = Sambungan aman
 identity-connection-internal = Ini adalah laman { -brand-short-name } aman.
 identity-connection-file = Laman ini tersimpan di komputer Anda.
 identity-extension-page = Laman ini dimuat dari ekstensi.
@@ -170,8 +172,14 @@ identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
 identity-active-loaded = Anda telah menonaktifkan perlindungan di laman ini.
 identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
 identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.
+identity-permissions =
+    .value = Izin
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
 identity-permissions-empty = Anda belum memberikan izin khusus apa pun untuk situs ini.{ " " }
+identity-clear-site-data =
+    .label = Hapus Kuki dan Data Situs…
+identity-connection-not-secure-security-view = Anda tidak terhubung dengan aman ke situs ini.
+identity-connection-verified = Anda terhubung dengan aman ke situs ini.
 identity-ev-owner-label = Sertifikat diterbitkan untuk:
 identity-description-custom-root = Mozilla tidak mengenali penerbit sertifikat ini. Itu mungkin telah ditambahkan dari sistem operasi Anda atau oleh administrator. <label data-l10n-name="link">Pelajari Lebih Lanjut</label>
 identity-remove-cert-exception =
