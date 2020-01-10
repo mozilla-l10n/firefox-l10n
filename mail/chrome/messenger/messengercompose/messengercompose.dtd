@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Iné typy polí adries">
 <!ENTITY fromAddr2.label "Od">
 <!ENTITY fromAddr.accesskey "O">
 <!ENTITY toAddr.label "Komu:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Panel príloh">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skryť panel príloh">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Vložiť emotikon">
 <!ENTITY smiley1Cmd.label "Úsmev">
 <!ENTITY smiley2Cmd.label "Zamračenie">
