@@ -147,12 +147,16 @@ bookmark-panel =
 
 identity-connection-internal = Šī ir droša { -brand-short-name } lapa.
 identity-connection-file = Šī lapa ir saglabāta jūsu datorā.
+identity-extension-page = Šī lapa ir ielādēta no papildinājuma.
 identity-active-blocked = { -brand-short-name } bloķēja nedrošo saturu šajā lapā.
 identity-passive-loaded = Šīs lapas daļas (piemēram attēli) nav drošas.
 identity-active-loaded = Nedrošu elementu aizsardzība ir deaktivēta.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
 identity-insecure-login-forms = Dati, ko ievadīsiet šajā lapā nav aizsargāti un var tikt pārtverti.
+identity-permissions-reload-hint = Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.
 identity-permissions-empty = Šai lapai nav piešķirtas nekādas īpašas atļaujas.
+identity-clear-site-data =
+    .label = Notīrīt sīkdatnes un lapu datus…
 identity-remove-cert-exception =
     .label = Attālinātā izpilde
     .accesskey = A
