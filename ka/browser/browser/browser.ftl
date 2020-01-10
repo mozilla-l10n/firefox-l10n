@@ -161,27 +161,40 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = დაუცველი კავშირი
+identity-connection-secure = კავშირი დაცულია
+identity-connection-internal = { -brand-short-name } – უსაფრთხო გვერდი.
 identity-connection-file = ეს გვერდი თქვენს კომპიუტერში ინახება.
 identity-extension-page = ეს გვერდი გახსნილია გაფართოების მიერ.
 identity-active-blocked = { -brand-short-name } ზღუდავს გვერდის დაუცველ ნაწილებს.
+identity-custom-root = კავშირი დამოწმებულია სერტიფიკატის გამომშვების მიერ, რომელიც უცნობია Mozilla-სთვის.
 identity-passive-loaded = ამ გვერდის გარკვეული ნაწილი დაუცველია (როგორიცაა სურათები).
 identity-active-loaded = ამ გვერდზე დაცვა გამორთული გაქვთ.
 identity-weak-encryption = ეს გვერდი სუსტ დაშიფვრას იყენებს.
 identity-insecure-login-forms = ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.
+identity-permissions =
+    .value = ნებართვები
 identity-permissions-reload-hint = ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.
 identity-permissions-empty = ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.
 identity-clear-site-data =
     .label = საიტის ფაილებისა და მონაცემების წაშლა…
+identity-connection-not-secure-security-view = თქვენი კავშირი ამ საიტთან არაა დაცული.
+identity-connection-verified = თქვენ საიმედოდ ხართ დაკავშირებული ამ საიტთან.
+identity-ev-owner-label = სერტიფიკატის მფლობელი:
+identity-description-custom-root = Mozilla არ ცნობს ამ სერტიფიკატის გამცემს. იგი შეიძლება დამატებულია თქვენი საოპერაციო სისტემას ან მმართველი პირის მიერ. <label data-l10n-name="link">ვრცლად</label>
 identity-remove-cert-exception =
     .label = გამონაკლისის წაშლა
     .accesskey = წ
+identity-description-insecure = კავშირი ამ საიტთან დაუცველია. თქვენ მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათების ნომრები და ა. შ.).
 identity-description-insecure-login-forms = ამ გვერდზე შეყვანილი ანგარიშის მონაცემები დაუცველია და შესაძლოა მოიპარონ.
 identity-description-weak-cipher-intro = საიტთან კავშირი სუსტ დაშიფვრას იყენებს და დაუცველია.
 identity-description-weak-cipher-risk = სხვებსაც შეუძლიათ თქვენი ინფორმაციის ნახვა ან ვებსაიტის ქცევის შეცვლა.
 identity-description-active-blocked = { -brand-short-name } ზღუდავს გვერდის დაუცველ ნაწილებს. <label data-l10n-name="link">ვრცლად</label>
 identity-description-passive-loaded = კავშირი დაუცველია და თქვენ მიერ ამ საიტთან გაზიარებული პირადი მონაცემები, შესაძლოა სხვებმაც ნახონ.
 identity-description-passive-loaded-insecure = ეს ვებსაიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სურათები). <label data-l10n-name="link">ვრცლად</label>
+identity-description-passive-loaded-mixed = მიუხედავად იმისა, რომ { -brand-short-name } ზღუდავს გარკვეულ შიგთავსს, დაუცველი ნაწილი მაინც რჩება (როგორიცაა სურათები). <label data-l10n-name="link">ვრცლად</label>
 identity-description-active-loaded = საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სკრიპტები) და მასთან კავშირი, ვერ უზრუნველყოფს პირადი მონაცემების უსაფრთხოებას.
+identity-description-active-loaded-insecure = ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა. შ.).
 identity-learn-more =
     .value = ვრცლად
 identity-disable-mixed-content-blocking =
