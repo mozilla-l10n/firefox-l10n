@@ -161,6 +161,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Conexión no segura
+identity-connection-secure = Conexión segura
 identity-connection-internal = Esta es una página segura de { -brand-short-name }.
 identity-connection-file = Esta página se guarda en su equipo.
 identity-extension-page = Esta página está cargada desde una extensión.
@@ -169,10 +171,15 @@ identity-passive-loaded = Partes de esta página no son seguras (como imágenes)
 identity-active-loaded = Tiene la protección desactivada en esta página.
 identity-weak-encryption = Esta página usa cifrado débil.
 identity-insecure-login-forms = Los inicios de sesión introducidos en esta página podrían verse comprometidos.
+identity-permissions =
+    .value = Permisos
 identity-permissions-reload-hint = Puede que necesite recargar la página para que se apliquen los cambios.
 identity-permissions-empty = No ha concedido ningún permiso especial a este sitio.
 identity-clear-site-data =
     .label = Limpiar cookies y datos del sitio…
+identity-connection-not-secure-security-view = No está conectado de forma segura a este sitio.
+identity-connection-verified = Está conectado de forma segura a este sitio.
+identity-ev-owner-label = Certificado emitido a nombre de:
 identity-description-custom-root = Mozilla no reconoce al emisor de este certificado. Puede haber sido agregado desde su sistema operativo o por un administrador. <label data-l10n-name="link">Saber más</label>
 identity-remove-cert-exception =
     .label = Eliminar excepción
