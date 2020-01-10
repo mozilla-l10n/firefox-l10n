@@ -142,3 +142,39 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Ɗum ko hello { -brand-short-name } hisngo.
+identity-connection-file = Ngoo hello mooftaa ko e ordinateer maa.
+identity-extension-page = Ngoo hello loowraa ko jokkel
+identity-active-blocked = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani.
+identity-passive-loaded = Geɗe ɗe kisaani nana e ngoo hello (wano nate).
+identity-active-loaded = A dartinii ndeenka e ngoo hello.
+identity-weak-encryption = Ngoo hello huutortoo ko gannugol jaafngol.
+identity-insecure-login-forms = Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.
+identity-permissions-reload-hint = Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.
+identity-permissions-empty = A hokkaani ndee lowre hay yamiroore heeriinde.
+identity-remove-cert-exception =
+    .label = Momtu Paltol
+    .accesskey = M
+identity-description-insecure = Ƴeŋagol maa e ndee lowre wonaa suuriinde. Humpito ngo naatnataa e mayre ena waawi yiyeede woɗɓe (wano findeeji, ɓatakuuje, karte banke, ekn.).
+identity-description-insecure-login-forms = Humpito ceŋagol naatnu-ɗaa e ngoo hello hisaani tee ena waawi jaayeede.
+identity-description-weak-cipher-intro = Ceŋagol maa e ndee lowre huutortoo ko gannugol jaafngol tee wonaa suuriinde.
+identity-description-weak-cipher-risk = Yimɓe woɗɓe ena mbaawi yiyde humpito maa walla mbayla ngonka lowre ndee.
+identity-description-active-blocked = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani. <label data-l10n-name="link">Ɓeydu Humpito</label>
+identity-description-passive-loaded = Ceŋagol maa suuraaki tee humpito lollintaa e ndee lowre ena waawi woɗɓe njiya ɗum.
+identity-description-passive-loaded-insecure = Ndee lowre ena waɗi loowdi ndi hisaani (wano nate). <label data-l10n-name="link">Ɓeydu Humpito</label>
+identity-description-passive-loaded-mixed = Goonga { -brand-short-name } daaƴii won e loowdi, haa jooni ena waɗi loowdi e ngoo hello ndi hisaani (wano nate). <label data-l10n-name="link">Ɓeydu Humpito</label>
+identity-description-active-loaded = Ndee lowre ena waɗi loowdi ndi hisaani (wano dokkore) tee ceŋagol maa e mayre suuraaki.
+identity-description-active-loaded-insecure = Humpito ngo lollintaa e ngoo hello ena waawi woɗɓe njiya ɗum (wano finndeeji, ɓatakuuje, karte banke, ekn.).
+identity-learn-more =
+    .value = Ɓeydu Humpito
+identity-disable-mixed-content-blocking =
+    .label = Daaƴ kisnugol e soo sahaa
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Hurmin kisnugol
+    .accesskey = H
+identity-more-info-link-text =
+    .label = Ɓeydu Humpito
