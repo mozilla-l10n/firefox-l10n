@@ -162,15 +162,19 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-file = Denne sida er lagra på datamaskina di.
+identity-extension-page = Denne sida er lasta frå ei utviding.
 identity-passive-loaded = Delar av denne sida er ikkje trygg (til dømes bilde).
 identity-active-loaded = Du har slått av vern på denne sida.
 identity-weak-encryption = Denne sida brukar ei svak kryptering.
 identity-insecure-login-forms = Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.
+identity-permissions-reload-hint = Du må kanskje laste sida på nytt for at endringane skal gjelde.
 identity-permissions-empty = Du har ikkje gjeve denne nettstaden spesielle løyve.
 identity-remove-cert-exception =
     .label = Fjern unntak
     .accesskey = F
+identity-description-insecure-login-forms = Innloggingsinformasjonen du skreiv inn på denne sida er ikkje trygg og kan difor verte kompromittert.
 identity-description-weak-cipher-intro = Sambandet til denne nettsida brukar ei svak kryptering og er ikkje privat.
+identity-description-weak-cipher-risk = Andre personar kan sjå informasjon eller endre måten nettsida oppfører seg på.
 identity-description-active-blocked = { -brand-short-name } har blokkert delar av denne sida som ikkje er trygg. <label data-l10n-name="link">Les meir</label>
 identity-description-passive-loaded = Sambandet til denne nettstaden er ikkje privat og informasjon du deler med denne sida kan sjåast av andre.
 identity-description-passive-loaded-insecure = Denne nettsida har innhald som ikkje er trygt (t.d. bilde). <label data-l10n-name="link">Les meir</label>
