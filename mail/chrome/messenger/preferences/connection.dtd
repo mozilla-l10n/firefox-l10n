@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "SSL პროქსი:">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "HTTPS-პროქსი:">
+<!ENTITY  https.accesskey               "ს">
 <!ENTITY  socks.label                   "SOCKS ჰოსტი:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "ადგილობრივი კავშირები, 127.0.0.1 და ::1 არასდროს გამოიყენებს პროქსის.">
+<!ENTITY  noproxyLocalhostDesc.label    "ადგილობრივი კავშირები, 127.0.0.1 და ::1 არასდროს გამოიყენებს პროქსის.">
 <!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  proxyHttpSharing.label        "აგრეთვე, ამ პროქსის გამოყენება HTTPS-ისთვის">
+<!ENTITY  proxyHttpSharing.accesskey    "ქ">
 <!ENTITY  autologinproxy.label          "შესვლის მოთხოვნის გამოტოვება, თუ პაროლი დამახსოვრებულია">
 <!ENTITY  autologinproxy.accesskey      "ე">
 <!ENTITY  autologinproxy.tooltip        "ამ მითითების შედეგად, პროქსის ანგარიშზე ავტომატურად შეხვალთ, თუ ანგარიშის მონაცემები დამახსოვრებული იქნება. ასევე გეცნობებათ, თუ შესვლა ვერ მოხერხდება.">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "DNS-ის HTTPS-ით გადაცემის ჩართვა">
 <!ENTITY  dnsOverHttps.accesskey        "ვ">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "ნაგულისხმევის გამოყენება">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "ნ">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ნაგულისხმევი URL-ს გამოყენება DNS-გადაყვანებისთვის HTTPS-ით">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "ნაგულისხმევი">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "ლ">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "შეიყვანეთ სასურველი URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით">
