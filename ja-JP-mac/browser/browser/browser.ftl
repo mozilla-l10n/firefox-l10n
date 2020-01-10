@@ -163,11 +163,13 @@ identity-active-blocked = このページの一部が安全でないため { -br
 identity-passive-loaded = このページの一部 (画像など) は安全ではありません。
 identity-active-loaded = このページでの保護は無効に設定されています。
 identity-weak-encryption = このページは脆弱な暗号を使用しています。
+identity-permissions-empty = このサイトに特別な権限は設定されていません。
 identity-description-custom-root = Mozilla はこの証明書の発行者を承認していません。OS またはシステム管理者により追加された可能性があります。 <label data-l10n-name="link">詳細情報</label>
 identity-remove-cert-exception =
     .label = 例外から削除
     .accesskey = R
 identity-description-insecure = このサイトへの接続は秘密が保たれません。このサイトに送信した情報 (パスワードやメッセージ、クレジットカード情報など) が第三者に盗み見られる可能性があります。
+identity-description-insecure-login-forms = このページに入力したログイン情報は安全に送信されません。第三者に盗み見られる可能性があります。
 identity-description-weak-cipher-risk = 第三者にあなたの情報を盗み見られたりウェブサイトの動作を不正に改変される可能性があります。
 identity-description-active-blocked = { -brand-short-name } がこのページ上の安全でないコンテンツをブロックしました。 <label data-l10n-name="link">詳細情報</label>
 identity-description-passive-loaded = この接続は安全ではないため、サイトと共有したあなたの情報が第三者に盗み見られる可能性があります。
@@ -181,3 +183,5 @@ identity-disable-mixed-content-blocking =
 identity-enable-mixed-content-blocking =
     .label = 保護を有効にする
     .accesskey = E
+identity-more-info-link-text =
+    .label = 詳細を表示
