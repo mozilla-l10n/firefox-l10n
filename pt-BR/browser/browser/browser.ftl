@@ -163,8 +163,16 @@ bookmark-panel =
 
 identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
 identity-connection-file = Esta página está armazenada no seu computador.
+identity-extension-page = Esta página é carregada a partir de uma extensão.
 identity-active-loaded = Você desativou a proteção nesta página.
 identity-weak-encryption = Esta página usa criptografia fraca.
+identity-insecure-login-forms = As contas de acesso inseridas nesta página podem ser comprometidas.
+identity-permissions-reload-hint = Pode ser necessário recarregar a página para que as alterações sejam aplicadas.
+identity-remove-cert-exception =
+    .label = Remover exceção
+    .accesskey = R
+identity-description-insecure-login-forms = As informações de acesso que você inserir nesta página não estão seguras e podem ser comprometidas.
+identity-description-passive-loaded = Sua conexão não é privativa e as informações que compartilhar com o site podem ser vistas por outros.
 identity-disable-mixed-content-blocking =
     .label = Desativar proteção por enquanto
     .accesskey = D
