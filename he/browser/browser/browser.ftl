@@ -161,13 +161,26 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = החיבור אינו מאובטח
+identity-connection-secure = החיבור מאובטח
 identity-connection-internal = דף זה הנו דף מאובטח של { -brand-short-name }.
 identity-connection-file = העמוד הזה מאוחסן במחשב שלך.
 identity-extension-page = עמוד זה נטען מתוך הרחבה.
+identity-active-blocked = { -brand-short-name } חסם חלקים מהדף שאינם בטוחים.
+identity-custom-root = חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.
+identity-passive-loaded = חלקים מדף זה אינם מאובטחים (כגון תמונות).
 identity-active-loaded = ניטרלת את אמצעי האבטחה על דף זה.
 identity-weak-encryption = דף זה משתמש בהצפנה חלשה.
+identity-insecure-login-forms = פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.
+identity-permissions =
+    .value = הרשאות
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
 identity-permissions-empty = לא סופקו לאתר זה הרשאות מיוחדות.
+identity-clear-site-data =
+    .label = ניקוי עוגיות ונתוני אתרים…
+identity-connection-verified = התחברת לאתר זה באופן מאובטח.
+identity-ev-owner-label = האישור הונפק עבור:
+identity-description-custom-root = ‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת. <label data-l10n-name="link">מידע נוסף</label>
 identity-remove-cert-exception =
     .label = הסרת חריגה
     .accesskey = ס
@@ -175,6 +188,8 @@ identity-description-insecure = החיבור שלך לאתר זה אינו פר�
 identity-description-insecure-login-forms = פרטי ההתחברות שיוכנסו בדף זה אינם מאובטחים ועלולים להיות בסכנה.
 identity-description-weak-cipher-intro = החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.
 identity-description-weak-cipher-risk = אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.
+identity-description-active-blocked = { -brand-short-name } חסם חלקים שאינם בטוחים בדף זה. <label data-l10n-name="link">מידע נוסף</label>
+identity-description-passive-loaded = החיבור שלך לאתר זה אינו פרטי, ומידע שישותף עם האתר עשוי להיות נגיש לאחרים.
 identity-description-passive-loaded-insecure = אתר זה מכיל תוכן שאינו מאובטח (כגון תמונות). <label data-l10n-name="link">מידע נוסף</label>
 identity-description-passive-loaded-mixed = למרות ש־{ -brand-short-name } חסם חלק מהתוכן, עדיין קיים בדף תוכן שאינו מאובטח (כגון תמונות). <label data-l10n-name="link">מידע נוסף</label>
 identity-description-active-loaded = אתר זה מכיל תוכן שאינו מאובטח (כגון תסריטים) והחיבור שלך אליו אינו פרטי.
