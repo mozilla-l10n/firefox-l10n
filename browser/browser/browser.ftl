@@ -163,6 +163,7 @@ bookmark-panel =
 
 identity-connection-internal = To je varna stran { -brand-short-name }a.
 identity-connection-file = Ta stran je shranjena na vašem računalniku.
+identity-extension-page = To stran je naložila razširitev.
 identity-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso varni.
 identity-passive-loaded = Deli strani niso varni (npr. slike).
 identity-active-loaded = Zaščita na tej strani je onemogočena.
@@ -172,6 +173,7 @@ identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali po
 identity-permissions-empty = Tej strani niste dodelili posebnih dovoljenj.
 identity-clear-site-data =
     .label = Počisti piškotke in podatke te strani …
+identity-description-custom-root = Mozilla ne prepozna tega izdajatelja digitalnih potrdil. Morda ga je dodal vaš operacijski sistem ali skrbnik. <label data-l10n-name="link">Več o tem</label>
 identity-remove-cert-exception =
     .label = Odstrani izjemo
     .accesskey = d
