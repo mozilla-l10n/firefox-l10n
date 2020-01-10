@@ -158,3 +158,31 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-file = Denne sida er lagra på datamaskina di.
+identity-passive-loaded = Delar av denne sida er ikkje trygg (til dømes bilde).
+identity-active-loaded = Du har slått av vern på denne sida.
+identity-weak-encryption = Denne sida brukar ei svak kryptering.
+identity-insecure-login-forms = Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.
+identity-permissions-empty = Du har ikkje gjeve denne nettstaden spesielle løyve.
+identity-remove-cert-exception =
+    .label = Fjern unntak
+    .accesskey = F
+identity-description-weak-cipher-intro = Sambandet til denne nettsida brukar ei svak kryptering og er ikkje privat.
+identity-description-active-blocked = { -brand-short-name } har blokkert delar av denne sida som ikkje er trygg. <label data-l10n-name="link">Les meir</label>
+identity-description-passive-loaded = Sambandet til denne nettstaden er ikkje privat og informasjon du deler med denne sida kan sjåast av andre.
+identity-description-passive-loaded-insecure = Denne nettsida har innhald som ikkje er trygt (t.d. bilde). <label data-l10n-name="link">Les meir</label>
+identity-description-passive-loaded-mixed = Sjølv om { -brand-short-name } har blokkert noko innhald, finst det framleis innhald på sida som ikkje er trygt (slik som bilde). <label data-l10n-name="link">Les meir</label>
+identity-description-active-loaded-insecure = Informasjonen du deler med denne nettstaden kan sjåast av andre (t.d. passords, meldingar, kredittkort osb.).
+identity-learn-more =
+    .value = Les meir
+identity-disable-mixed-content-blocking =
+    .label = Slå av vern
+    .accesskey = a
+identity-enable-mixed-content-blocking =
+    .label = Slå på vern
+    .accesskey = S
+identity-more-info-link-text =
+    .label = Meir informasjon
