@@ -8,7 +8,9 @@
 <!ENTITY loadError.label "Էջը բեռնելու խնդիր">
 <!ENTITY retry.label "Կրկին փորձել">
 <!ENTITY returnToPreviousPage.label "Հետ գնալ">
-<!ENTITY advanced.label "Լրացուցիչ">
+<!ENTITY returnToPreviousPage1.label "Վերադառնալ (առաջարկվում է)">
+<!ENTITY advanced2.label "Լրացուցիչ…">
+<!ENTITY viewCertificate.label "Զննել Արտոնագիրը">
 
 <!-- Specific error messages -->
 
@@ -86,27 +88,45 @@
 <!ENTITY nssFailure2.title "Չհաջողվեց կատարել Պաշտպանված կապակցում">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Այն էջը, որը փորձում եք դիտել, կարող է չերևալ, որովհետև ստացված տվյալների իսկությունը  չի կարող ստուգվել:</li> <li>Խնդրում ենք կապնվել կայքի սեփականատերերի հետ՝ նրանց տեղյակ պահելու այս խնդրի մասին:</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Կապակցումն անվտանգ չէ">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Զգուշացում․ հնարավոր է ապահովության վտանգ">
+<!ENTITY certerror.sts.longpagetitle  "Չկապակցվեց․ հնարավոր անվտանգության թողարկող">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/>-ի սեփականատերը իր կայքը սխալ է կազմաձևել:  Որպեսզի ձեր տվյալները չգողանան՝ &brandShortName;-ը չի կապակցվել այս կայքին:">
+<!ENTITY certerror.introPara2 "&brandShortName;֊ը հայտնաբերել է անվտանգության սպառնալիք և չի շարունակել <span class='hostname'/>։ Եթե այցելեք այս կայք, հարձակվողները կարող են փորձել ստանալ Ձեր գաղտնաբառերի, էլ֊փոստերի, կամ վարկային քարտի մասին տեղակություն։">
+<!ENTITY certerror.sts.introPara "&brandShortName;֊ը հայտնաբերել է անվտանգության սպառնալիք և չի շարունակել <span class='hostname'/>, քանզի այս կայքը պահանջում է ապահով միացում։">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; խնդիր է հայտնաբերել, դադարեցնելով <span class='hostname'/>: Կայքը կա՛մ ձևափոխված է սխալ կերպով, կա՛մ ձեր համակարգչի ժամացույցը սխալ է:">
+<!ENTITY certerror.expiredCert.secondPara2 "Հնարավոր է, որ կայքի վկայագրի ժամկետն ավարտվել է, ինչը կանխում է &brandShortName;֊ին ապահով կերպով միացումից: Եթե այցելեք այս կայք, ապա հարձակվողները կարող են փորձել գողանալ Ձեր գաղտնաբառերի, էլ֊փոստի կամ վարկային քարտի տվյալների նման տեղեկատվություններ:">
+<!ENTITY certerror.expiredCert.sts.secondPara "Հնարավոր է կայքի վկայագրի ժամկետն ավարտվել է, ինչն էլ թույլ չի տալիս &brandShortName;֊ին միանալ ապահով կերպով:">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Ի՞նչ կարող եք անել դրա վերաբերյալ։">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Խնդիրը ամենայն հավանականությամբ, կայքի հետ է, այն լուծելու համար ոչինչ չկա</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Ձեր համակարգչի ժամացույցը սահմանված է <span id='wrongSystemTime_systemDate2'/>։ Համոզվեք, որ Ձեր համակարգիչում տվյալները, ժամանակը և ժամային գոտին Ձեր համակարգի կարգավորումներում ճիշտ են սահմանված և հետո թարմացրեք <span class='hostname'/>.</p>
+<p>Եթե Ձեր ժամացույցը արդեն սահմնաված է ճիշտ ժամանակով, կայքը հավանաբար սխալ է կազմաձևվել և Դուք ոչինչ չեք կարող անել խնդիրը լուծելու համար։ Խնդրի մասին Դուք կարող եք ծանուցել կայքի վարիչներին։</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Խնդիրը, ամենայն հավանականությամբ, կայքի հետ է, և այն լուծելու համար ոչինչ չկա։ Խնդրի մասին կարող եք տեղեկացնել վեբ կայքի վարիչին։</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Հնարավոր է՝ կայքը անհասանելի է կամ գերբեռնված է: Կրկին փորձեք մի քանի րոպե  անց:</li> <li>Եթե չի ստացվում բացել որևէ էջ, ստուգեք ձեր համակարգչի  ցանցային միացումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը ապահովագրված է firewall-ով, համոզվեք, որ  &brandShortName;-ը ունի ցանցին միանալու արտոնություն:</li> </ul>">
 
 <!ENTITY cspBlocked.title "Արգելափակվել է Կոնտենտի Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչնդոտեց այս էջի բեռնավորումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է նման բեռնավորումը</p>">
 
+<!ENTITY xfoBlocked.title "Արգելափակված է X-Frame-Options քաղաքականությամբ">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName;֊ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա։</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Բովանդակությունը վնասված է">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրվել, քանզի տեղի է ունեցնել փոխանցման սխալ։</p><ul><li>Կապնվեք վեբ կայիք հեղինակների հետ՝ նրանց այս մասին հաղորդելու համար։</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն...">
+<!ENTITY securityOverride.exceptionButton1Label "Ընդունել վտանգը և շարունակել">
 
 <!ENTITY errorReporting.automatic2 "Հաղորդեք նման սխալների մասին՝ օգնելու համար Mozilla-ին գտնելու և արգելափակելու վնասակար կայքերը">
 <!ENTITY errorReporting.learnMore "Իմանալ ավելին…">
@@ -119,14 +139,9 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Լրացուցիչ՝ SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName;-ը չի կապակցվել <span id='wrongSystemTime_URL'/>-ին, քանի որ կարծես թե ձեր համակարգչի ժամացույցը սխալ ժամանակ է ցույց տալիս և դա խանգարում է անվտանգ կապակցմանը:</p> <p>Ձեր համակարգչի ժամանակն է՝ <span id='wrongSystemTime_systemDate'/>, այնինչ պետք է լինի՝ <span id='wrongSystemTime_actualDate'/>: Խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը համակարգչում:</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName;-ը չի կապակցվել <span id='wrongSystemTimeWithoutReference_URL'/> -ին, քանի որ կարծես թե ձեր համակարգչի ժամացույցը սխալ ժամանակ է ցույց տալիս և դա խանգարում է անվտանգ կապակցմանը:</p> <p>Ձեր համակարգչի ժամանակն է՝ <span id='wrongSystemTimeWithoutReference_systemDate'/>: Խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը համակարգչում:</p>">
-
-<!ENTITY certerror.pagetitle1  "Ոչ անվտանգ կապակցում">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Այս կայքը օգտագործում է HTTP Strict Transport Security (HSTS)՝ հատկորոշելու այն, որ &brandShortName;-ը կապակցվում է միայն անվտանգ: Որպես արդյունք՝ հնարավոր չէ ավելացնել բացառություն այս վկայագրի համար:">
+<!ENTITY certerror.pagetitle2  "Զգուշացում․ Պոտենցիալ ավտանգության վտանգից առաջ">
+<!ENTITY certerror.sts.pagetitle  "Չկապվեց․ Անվտանգության հնարավոր պոտենցիալ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ունի անվտանգության քաղաքականություն, որը կոչվում է HTTP Strict Transport Security (HSTS), ինչը նշանակում է, որ &brandShortName; կարող է միայն ապահով կերպով միանալու դրան։ Դուք չեք կարող բացառություն ավելացնել այս կայք այցելելու համար։">
 <!ENTITY certerror.copyToClipboard.label "Պատճենել մեկուսաշրջույթում">
 
 <!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
@@ -136,8 +151,13 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Արգելափակված էջ">
 
+<!ENTITY certerror.mitm.title "Ծրագիրը կանխում է &brandShortName; Անվտանգորեն կապվելով այս կայքի հետ։">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span>֊ը ամենայն հավանականությամբ, անվտանգ կայք է, բայց անվտանգ կապ չի ստեղծվել։ Այս խնդիրը պայմանավորված է <span class='mitm-name'/>֊ի կողմից, որը համակարգչային ծրագիր է ձեր համակարգչի կամ ձեր ցանցի վրա։">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Եթե Ձեր հակավիրուսային ծրագիրը ներառում է այնպիսի հատկություն, որը սկանավորում է կոդավորված կապերը (Հաճախ կոչվում է «վեբ սկանավորում» կամ «https սկան»), կարող եք անջատել այդ հնարավորությունը։ Եթե դա չի աշխատում, կարող եք հեռացնել և վերազինել հակավիրուսային ծրագիր։">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Եթե դուք գտնվում եք կորպորատիվ ցանցում, կարող եք կապվել ձեր ՏՏ բաժին։">
 
 
 <!ENTITY prefReset.longDesc "Կարծես՝ ձեր ցանցի անվտանգության կարգավորումները առաջացնել սա: Վերականգնե՞լ հիմնական կարգավորումները:">
 <!ENTITY prefReset.label "Վերականգնել հիմնական կարգավորումները">
+
 
