@@ -145,3 +145,34 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = हे सुरक्षित { -brand-short-name } पृष्ठ आहे.
+identity-connection-file = हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.
+identity-extension-page = हे पृष्ठ एका विस्तारापासून लोड केलेले आहे.
+identity-active-blocked = { -brand-short-name } ने ह्या पृष्ठावरील काही असुरक्षित भाग अडवले आहेत.
+identity-passive-loaded = या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.
+identity-active-loaded = आपण ह्या पृष्ठावरील सुरक्षा बंद केली आहे.
+identity-weak-encryption = हे पृष्ठ कमकुवत एनक्रिप्शन वापरते.
+identity-insecure-login-forms = आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.
+identity-permissions-reload-hint = आपल्याला बदल लागू करण्यासाठी पृष्ठ पुन्हा लोड करावे लागू शकते.
+identity-permissions-empty = आपण ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.
+identity-remove-cert-exception =
+    .label = अपवाद काढा
+    .accesskey = R
+identity-description-insecure = ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.
+identity-description-insecure-login-forms = ह्या पृष्ठावर आपण दिलेली लॉग इन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.
+identity-description-weak-cipher-intro = ह्या वेबसाइट बरोबरची आपली जोडणी कमकुवत एनक्रिप्शन वापरत असून ती खाजगी नाही.
+identity-description-weak-cipher-risk = इतर लोक आपली माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात.{ " " }
+identity-description-passive-loaded = ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात ते इतर लोक पाहू शकतात.
+identity-description-active-loaded = या वेबसाईटवरील काही भाग (उदा. स्क्रिप्ट्स) सुरक्षित नाही आणि आपली जोडणी खाजगी नाही आहे.
+identity-description-active-loaded-insecure = आपण जी माहिती जमा करता आहात (जसे कि पासवर्ड, संदेश, क्रेडीट कार्ड माहिती, इत्यादी) ते इतर लोक पाहू शकतात.
+identity-disable-mixed-content-blocking =
+    .label = सद्या सुरक्षा निष्क्रिय करा
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = सुरक्षा सक्रीय करा
+    .accesskey = E
+identity-more-info-link-text =
+    .label = अधिक माहिती
