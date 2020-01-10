@@ -60,3 +60,9 @@ full-screen-autohide =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-remove-cert-exception =
+    .label = Garar l’èxcèpcion
+    .accesskey = R
