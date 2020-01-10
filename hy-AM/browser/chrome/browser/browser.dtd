@@ -1021,9 +1021,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Անջատել արգելափակումը այս կայքում">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Ժամանակ առ ժամանակ անջատել արգելափակումը">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "Միացնել արգելափակումը այս կայքում">
+<!ENTITY trackingProtection.block6.accesskey "T">
+<!ENTITY trackingProtection.reload2.label "Վերբեռնել էջը">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Ցուցադրել բոլորը">
 <!ENTITY pluginNotification.showAll.accesskey "Ց">
@@ -1046,6 +1054,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Ներբեռնել &brandShorterName;-ի թարմացումը">
 <!ENTITY updateManual.panelUI.label "Ներբեռնել &brandShorterName;-ի նոր տարբերակը">
+<!ENTITY updateUnsupported.panelUI.label "Դուք չեք կարող կատարել հետագա թարմացումները">
 <!ENTITY updateRestart.panelUI.label2 "Վերամեկնարկեք՝ &brandShorterName;-ը՝ արդիացնելու համար">
 
 <!ENTITY newTabControlled.header.message "Ձեր Նոր Ներդիրը փոխվել է:">
@@ -1054,8 +1063,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Անջատել ընդլայնումը">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Հավելումը փոխված է, ինչը տեսնում եք որպեք ձեր գլխավոր էջ։ Դուք կարող եք վերականգնել ձեր կարգավորումները, եթե դուք չեք ցանկանում այս փոփոխությունները։">
 
+<!ENTITY homepageControlled.header.message "Ձեր գլխավոր էջը փոխվել է:">
+<!ENTITY homepageControlled.keepButton.label "Պահել փոփոխությունները">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Անջատել ընդլայնումը">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Մուտք գործել ձեր թաքնված ներդիրներում">
+<!ENTITY tabHideControlled.keepButton.label "Թաքնված պահել ներդիրները">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Անջատել ընդլայնումը">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Էջի գործույթները">
 <!ENTITY pageAction.addToUrlbar.label "Ավելացնել Հասցեագոտում">
@@ -1064,6 +1084,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "Սարքերի համաժամեցում...">
 
+<!ENTITY pageAction.shareUrl.label "Կիսվել">
+<!ENTITY pageAction.shareMore.label "Ավելին…">
 
 <!ENTITY libraryButton.tooltip "Դիտել պատմությունը, պահպանված էջանիշերը և ավելին">
 
