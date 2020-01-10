@@ -159,13 +159,26 @@ bookmark-panel =
 
 identity-connection-internal = Tämä on suojattu { -brand-short-name }-sivu.
 identity-connection-file = Sivu on tallennettu tietokoneellesi.
+identity-extension-page = Tämän sivun latasi laajennus.
 identity-active-blocked = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen.
+identity-passive-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten kuvia).
 identity-active-loaded = Suojaamattoman sisällön estäminen on otettu pois päältä sivustolla.
 identity-weak-encryption = Sivusto käyttää heikkoa salausta.
+identity-insecure-login-forms = Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.
+identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
 identity-permissions-empty = Sivustolle ei ole myönnetty mitään erityisoikeuksia.
+identity-remove-cert-exception =
+    .label = Poista poikkeus
+    .accesskey = s
+identity-description-insecure = Yhteytesi verkkosivustoon ei ole yksityinen. Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).
+identity-description-insecure-login-forms = Kirjautumistiedot, jotka kirjoitat tälle sivulle, eivät ole suojassa ja voidaan murtaa.
 identity-description-weak-cipher-intro = Yhteytesi verkkosivustoon käyttää heikkoa salausta eikä sen takia ole yksityinen.
+identity-description-weak-cipher-risk = Sivullisten on mahdollista tarkastella antamiasi tietoja tai vaikuttaa sivuston toimintaan.
 identity-description-active-blocked = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen. <label data-l10n-name="link">Lue lisää</label>
 identity-description-passive-loaded = Yhteytesi verkkosivustoon ei ole yksityinen ja sivullisten on mahdollista tarkastella tietoja, joita lähetät sivustolle.
+identity-description-passive-loaded-insecure = Tällä sivulla on suojaamatonta sisältöä (kuten kuvia). <label data-l10n-name="link">Lue lisää</label>
+identity-description-active-loaded = Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.
+identity-description-active-loaded-insecure = Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).
 identity-learn-more =
     .value = Lue lisää
 identity-disable-mixed-content-blocking =
