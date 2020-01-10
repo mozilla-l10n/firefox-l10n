@@ -151,11 +151,11 @@ disabled-unsigned-heading =
 disabled-unsigned-description = 以下原件尚未經過驗證，無法在 { -brand-short-name } 使用。您可以<label data-l10n-name="find-addons">看看有沒有其他的替代方案</label>或是請開發者申請驗證。
 disabled-unsigned-learn-more = 了解我們為了保護您的線上安全作了哪些努力。
 disabled-unsigned-devinfo = 有興趣想要驗證附加元件的開發者可繼續閱讀我們的<label data-l10n-name="learn-more">驗證指南</label>。
-plugin-deprecation-description = 少了點東西嗎？{ -brand-short-name } 已不再支援某些外掛程式。 <label data-l10n-name="learn-more">了解更多。</label>
+plugin-deprecation-description = 少了點東西嗎？{ -brand-short-name } 已不再支援某些外掛程式。<label data-l10n-name="learn-more">了解更多。</label>
 legacy-warning-show-legacy = 顯示傳統擴充套件
 legacy-extensions =
     .value = 傳統擴充套件
-legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。 <label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
+legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。<label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
 private-browsing-description2 = { -brand-short-name } 將調整擴充套件於隱私瀏覽模式中運作的方式。預設情況下，任何新安裝至 { -brand-short-name } 的擴充套件都無法在隱私瀏覽視窗中執行。我們這樣做是為了確保您的隱私瀏覽過程更加私密；除非您在設定中允許，否則擴充套件將無法在隱私瀏覽模式中運作，也無法在該模式中存取您的線上行為。<label data-l10n-name="private-browsing-learn-more">了解如何管理擴充套件設定。</label>
 extensions-view-discopane =
     .name = 推薦項目
