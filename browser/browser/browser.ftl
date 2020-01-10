@@ -161,6 +161,7 @@ identity-connection-not-secure = Conexión no segura
 identity-connection-secure = Conexión segura
 identity-connection-internal = Esta es un página { -brand-short-name } segura.
 identity-connection-file = Esta página está almacenada en tu computadora.
+identity-extension-page = Esta página se carga desde una extensión.
 identity-active-blocked = { -brand-short-name } bloqueó partes de esta página que no eran seguras.
 identity-passive-loaded = Partes de esta página no son seguras (por ejemplo imágenes).
 identity-active-loaded = Has deshabilitado la protección en esta página.
