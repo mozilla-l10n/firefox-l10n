@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Méně přenesených dat, větší úspora">
 <!ENTITY firstrun_data_subtext2 "Vypnutím obrázků přenesete méně dat na každé stránce, kterou navštívíte.">
 <!ENTITY firstrun_sync_title "Synchronizace">
-<!ENTITY updatednewfirstrun_sync_title "Účet">
-<!ENTITY firstrun_sync_message2 "Pokračujte tam, kde jste skončili.">
 <!ENTITY firstrun_sync_message3 "Synchronizujte své záložky, historii prohlížení a hesla na svém telefonu.">
 <!ENTITY firstrun_sync_subtext2 "Používejte Sync k nalezení záložek, hesel a dalších věcí uložených v aplikaci &brandShortName; na všech vašich zařízeních.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujte věci, které ukládáte na mobilu, s Firefoxem pro počítač – soukromě a bezpečně.">
-<!ENTITY updatednewfirstrun_sync_subtext "Přihlaste se ke svému účtu a využijte aplikace &brandShortName; naplno">
-<!ENTITY firstrun_signin_message "Připojte se a začněte">
 <!ENTITY firstrun_sendtab_title "Posílání panelů">
 <!ENTITY firstrun_sendtab_message "Sdílejte své panely mezi svým mobilem a počítačem.">
-<!ENTITY firstrun_signin_button "Přihlásit se ke službě Sync">
-<!ENTITY newfirstrun_signin_button "Zapnout synchronizaci">
-<!ENTITY updatednewfirstrun_signin_button "Přihlaste se do aplikace &brandShortName;">
+<!ENTITY firstrun_signin_message "Připojte se a začněte">
 <!ENTITY onboard_start_button_browser "Začít prohlížet">
 <!ENTITY firstrun_button_notnow "Nyní ne">
 <!ENTITY firstrun_button_next "Další">
-
-<!ENTITY firstrun_signin_button2 "Přihlásit se">
+<!ENTITY firstrun_signup_button "Přihlásit se">
 
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vy">
 <!ENTITY firstrun_account_message "Máte &brandShortName; i na dalším zařízení?">
-
-<!ENTITY firstrun_signup_button "Přihlásit se">
 
 <!ENTITY  onboard_start_restricted1 "Zůstaňte v bezpečí a mějte kontrolu s touto zjednodušenou verzí aplikace &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jste připojeni k">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Vítá vás &brandShortName;">
 <!ENTITY activity_stream_signin_description "S účtem Firefoxu můžete synchronizovat záložky, hesla i další svá data.">
-<!ENTITY activity_stream_signin_button "Přihlásit se">
-
 <!ENTITY activity_stream_signup_button "Přihlásit se">
 <!ENTITY activity_stream_signin_prompt "Už máte účet?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Přihlásit se.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "V roce 2020 se můžete těšit na zcela nový Firefox">
+<!ENTITY activity_stream_firefox_promo_description "Již brzy: Výkonnější, rychlejší, s vylepšenou ochranou proti sledování. A také nové funkce, které vám pomohou najít, uložit a sdílet více obsahu, který máte rádi.">
+<!ENTITY activity_stream_firefox_promo_button "Podívejte se">
 
 <!ENTITY activity_stream_topsites "Top stránky">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
