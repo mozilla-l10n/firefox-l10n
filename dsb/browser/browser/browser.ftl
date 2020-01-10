@@ -161,16 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Zwisk njejo wěsty
+identity-connection-secure = Zwisk jo wěsty
 identity-connection-internal = To jo wěsty bok { -brand-short-name }.
 identity-connection-file = Toś ten bok jo se na wašom licadle składł.
 identity-extension-page = Toś ten bok jo se z rozšyrjenja zacytał.
 identity-active-blocked = { -brand-short-name } jo źěle toś togo boka blokěrował, kótarež njejsu wěste.
+identity-custom-root = Zwisk jo se pśeglědował pśez certifikatowego wudawarja, kótaryž njejo pśipóznaty wót Mozilla.
 identity-passive-loaded = Źěle toś togo boka njejsu wěste (na pśikład wobraze).
 identity-active-loaded = Sćo šćit na toś tom boku znjemóžnił.
 identity-weak-encryption = Toś ten bok wužywa słabe koděrowanje.
 identity-insecure-login-forms = Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.
+identity-permissions =
+    .value = Pšawa
 identity-permissions-reload-hint = Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.
 identity-permissions-empty = Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.
+identity-clear-site-data =
+    .label = Cookieje a sedłowe daty wulašowaś…
+identity-connection-not-secure-security-view = Njejsćo wěsće zwězany z toś tym sedłom.
+identity-connection-verified = Sćo wěsće zwězany z toś tym sedłom.
+identity-ev-owner-label = Certifikat wudany na:
+identity-description-custom-root = Mozilla toś togo certifikatowego wudawarja njepśipóznawa. Jo se snaź pśidał pśez waš źěłowy system abo wót administratora. <label data-l10n-name="link">Dalšne informacije</label>
 identity-remove-cert-exception =
     .label = Wuwześe wótpóraś
     .accesskey = W
