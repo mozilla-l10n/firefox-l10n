@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kudeatu DRM softwarearen erabilpena">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ireki MIDI panela">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Baimen bereziak eman dizkiozu webgune honi.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Kamera blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Mikrofonoa blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Pantaila partekatzea blokeatuta daukazu webgune honetarako.">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Adobe Flash plugina erabiltzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.midiBlocked.tooltip              "MIDI sarbidea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.installBlocked.tooltip           "Gehigarrien instalazioa blokeatuta daukazu webgune honetarako.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Baimen bereziak eman dizkiozu webgune honi.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
@@ -857,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!ENTITY identity.customRoot "Mozillak onetsi gabeko ziurtagiri-jaulkitzaile batek egiaztatu du konexioa.">
 
-<!ENTITY identity.evOwnerLabel2 "Ziurtagiriaren honi jaulkia:">
+<!ENTITY identity.evOwnerLabel2 "Ziurtagiria honi jaulkia:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.">

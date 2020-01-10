@@ -90,9 +90,13 @@ newtab-privacy-modal-paragraph =
     Harrapatuko zaituzten istorioak biltzeaz gain, hautatutako babesleek
     hornitutako eta aurrez ikuskatutako eduki esanguratsua ere erakusten dizugu.
     Zaude lasai, zure nabigatze-datuak inoiz ez dira zure { -brand-product-name }(e)tik irtengo — ez guk ez eta gure babesleek ez dute halakorik ikusten.
+newtab-privacy-modal-paragraph-2 =
+    Harrapatuko zaituzten istorioak biltzeaz gain, hautatutako babesleek
+    hornitutako eta aurrez ikuskatutako eduki esanguratsua ere erakusten dizugu.
+    Zaude lasai, <strong>zure nabigatze-datuak inoiz ez dira zure { -brand-product-name }(e)tik irtengo</strong> — ez guk ez eta gure babesleek ez dute halakorik ikusten.
 newtab-privacy-modal-link = Ikasi pribatutasuna nola dabilen fitxa berrian
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Kendu laster-marka
@@ -179,7 +183,6 @@ newtab-discovery-empty-section-topstories-timed-out = Kontxo! Atal hau ia-ia kar
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Gai ezagunak:
 newtab-pocket-more-recommendations = Gomendio gehiago
-newtab-pocket-how-it-works = Nola dabilen
 newtab-pocket-whats-pocket = Zer da { -pocket-brand-name }?
 newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
 newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.

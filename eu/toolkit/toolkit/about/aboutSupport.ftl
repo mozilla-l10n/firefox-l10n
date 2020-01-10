@@ -136,7 +136,7 @@ media-capabilities-title = Multimedia-gaitasunak
 # List all the entries of the database.
 media-capabilities-enumerate = Zerrendatu datu-basea
 
-
+##
 
 intl-title = Internazionalizazioa eta lokalizazioa
 intl-app-title = Aplikazioaren ezarpenak
@@ -161,7 +161,7 @@ remote-debugging-title = Urruneko arazketa (Chromium protokoloa)
 remote-debugging-accepting-connections = Konexioak onartzen
 remote-debugging-url = URLa
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -261,6 +261,7 @@ d3d11video-crash-guard = D3D11 bideo-deskodetzailea
 d3d9video-crash-buard = D3D9 bideo-deskodetzailea
 d3d9video-crash-guard = D3D9 bideo-deskodetzailea
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX bideo-deskodetzailea
 reset-on-next-restart = Berrezarri hurrengo berrabiaraztean
 gpu-process-kill-button = Amaitu GPU prozesua
 gpu-device-reset = Gailua berrabiaraztea
