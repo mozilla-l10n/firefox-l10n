@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "გამორთეთ გამოსახულებები ნებისმიერ საიტზე ნაკლები მონაცემის დასახარჯად.">
 <!ENTITY firstrun_sync_title "სინქრონიზაცია">
 <!ENTITY firstrun_sync_message3 "დაასინქრონეთ თქვენი სანიშნები, ისტორია და პაროლები, თქვენს ტელეფონზე.">
-<!ENTITY updatednewfirstrun_sync_title "ანგარიში">
-<!ENTITY firstrun_sync_message2 "განაგრძეთ იქიდან, სადაც გაჩერდით.">
 <!ENTITY firstrun_sync_subtext2 "გამოიყენეთ სინქრონიზაცია სანიშნების, პაროლებისა და სხვა მონაცემების, რომელთაც &brandShortName; ინახავს, ყველა მოწყობილობაზე გასაზიარებლად.">
 <!ENTITY newfirstrun_sync_subtext "დაასინქრონეთ ნებისმიერი რამ, რასაც შეინახავთ მობილურში, კომპიუტერის Firefox-ზე, უსაფრთხოდ და დაცულად.">
 <!ENTITY firstrun_sendtab_title "ჩანართის გაგზავნა">
 <!ENTITY firstrun_sendtab_message "ჩანართების გაზიარება მობილურიდან სამუშაო მაგიდაზე — მყისიერად.">
-<!ENTITY updatednewfirstrun_sync_subtext "შედით ანგარიშზე, რომ შეგეძლოთ სრულყოფილად გამოიყენოთ &brandShortName;">
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
-<!ENTITY firstrun_signin_button "Sync-ში შესვლა">
-<!ENTITY newfirstrun_signin_button "ჩართეთ Sync">
-<!ENTITY updatednewfirstrun_signin_button "შესვლა &brandShortName;">
-<!ENTITY  onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
+<!ENTITY onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
 <!ENTITY firstrun_button_notnow "ახლა არა">
 <!ENTITY firstrun_button_next "შემდეგი">
 <!ENTITY firstrun_signup_button "ანგარიშის შექმნა">
-
-<!ENTITY firstrun_signin_button2 "შესვლა">
 
 <!ENTITY firstrun_tabqueue_title "ბმულები">
 
@@ -885,7 +877,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ჩაინიშნეთ წასაკითხი სტატიები, კავშირგარეშე წვდომისთვის.">
 <!ENTITY helper_triple_readerview_open_button "ჩანიშვნა">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "მოგესალმებათ &brandShortName;">
 <!ENTITY activity_stream_signin_description "დაიწყეთ დასინქრონება სანიშნების, პაროლებისა და სხვა მონაცემების, თქვენი Firefox-ანგარიშის მეშვეობით.">
@@ -894,7 +887,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "შესვლა.">
 
-<!ENTITY activity_stream_signin_button "შესვლა">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "სრულიად ახალი Firefox, წარდგება 2020-ში">
+<!ENTITY activity_stream_firefox_promo_description "მალე: გაუმჯობესებული წარმადობა. თვალთვალისგან გაძლიერებული დაცვა. ამასთან, ახალი შესაძლებლობები, იმ ყველაფერის მოსაძიებლად, შესანახად და გასაზიარებლად, რაც ყველაზე მეტად გიყვართ ინტერნეტში.">
+<!ENTITY activity_stream_firefox_promo_button "თვალი შეავლეთ">
 
 <!ENTITY activity_stream_topsites "რჩეული საიტები">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
