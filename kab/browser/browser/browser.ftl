@@ -162,9 +162,13 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
+identity-connection-file = Asebter-a yettwakles deg uselkim-inek.
+identity-extension-page = Asebter-a yuli-d seg usiɣzef.
 identity-remove-cert-exception =
     .label = Kkes tasureft
     .accesskey = K
+identity-description-passive-loaded-insecure = Asmel-a isεa agbur araɣelsan (am tugniwin). <label data-l10n-name="link">Issin ugar</label>
+identity-description-active-loaded = Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.
 identity-learn-more =
     .value = Issin ugar
 identity-more-info-link-text =
