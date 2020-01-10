@@ -775,14 +775,14 @@ history-header = 방문 기록
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }의 방문 기록을
+history-remember-label = { -brand-short-name }가
     .accesskey = w
 history-remember-option-all =
-    .label = 방문 기록 저장
+    .label = 방문 기록을 기억함
 history-remember-option-never =
-    .label = 방문 기록 저장 안 함
+    .label = 방문 기록을 기억 안 함
 history-remember-option-custom =
-    .label = 방문 기록 사용자 지정 설정 사용
+    .label = 방문 기록에 사용자 지정 설정 사용
 history-remember-description = { -brand-short-name }가 탐색과 다운로드, 서식, 검색 히스토리를 저장합니다.
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.
 history-private-browsing-permanent =
