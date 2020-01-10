@@ -135,3 +135,13 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-done-button =
     .label = పూర్తయింది
+
+## Identity Panel
+
+identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
+identity-active-loaded = ఈ పేజీకి రక్షణను మీరు అచేతనం చేసారు.
+identity-enable-mixed-content-blocking =
+    .label = రక్షణను చేతనించు
+    .accesskey = E
+identity-more-info-link-text =
+    .label = మరింత సమాచారం
