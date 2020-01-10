@@ -158,3 +158,35 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
+identity-connection-file = Esta página está armazenada no seu computador.
+identity-extension-page = Esta página está carregada a partir de uma extensão.
+identity-active-blocked = O { -brand-short-name } bloqueou partes desta página que não são seguras.
+identity-passive-loaded = Partes desta página não são seguras (tais como imagens).
+identity-active-loaded = Desativou a proteção nesta página.
+identity-weak-encryption = Esta página utiliza encriptação fraca.
+identity-insecure-login-forms = Credenciais introduzidas nesta página podem ser comprometidas.
+identity-permissions-reload-hint = Poderá ter de recarregar a página para as alterações se aplicarem.
+identity-permissions-empty = Não concedeu quaisquer permissões especiais a este site.
+identity-remove-cert-exception =
+    .label = Remover exceção
+    .accesskey = R
+identity-description-insecure = A sua ligação a este site não é privada. A informação que submeter pode ser vista por outros (tal como palavras-passe, mensagens, cartões de crédito, etc.).
+identity-description-insecure-login-forms = As credenciais que introduzir nesta página podem não ser seguras e poderão ser comprometidas.
+identity-description-active-blocked = O { -brand-short-name } bloqueou partes desta página que não são seguras. <label data-l10n-name="link">Saber mais</label>
+identity-description-passive-loaded = A sua ligação não é privada e a informação que partilha com o site pode ser vista por outros.
+identity-description-passive-loaded-mixed = Embora o { -brand-short-name } tenha bloqueado algum conteúdo, ainda há conteúdo na página que não é seguro (tal como imagens). <label data-l10n-name="link">Saber mais</label>
+identity-description-active-loaded-insecure = A informação que partilhar com este site pode ser vista por outros (tal como palavras-passe, mensagens, cartões de crédito, etc.).
+identity-learn-more =
+    .value = Saber mais
+identity-disable-mixed-content-blocking =
+    .label = Desativar proteção por agora
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Ativar proteção
+    .accesskey = e
+identity-more-info-link-text =
+    .label = Mais informação
