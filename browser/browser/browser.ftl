@@ -163,11 +163,13 @@ bookmark-panel =
 
 identity-connection-internal = 안전한 { -brand-short-name } 페이지입니다.
 identity-connection-file = 이 페이지는 사용자의 컴퓨터에 저장됩니다.
+identity-extension-page = 이 페이지는 확장 기능으로부터 로드되었습니다.
 identity-active-blocked = { -brand-short-name }가 안전하지 않은 페이지의 일부를 차단했습니다.
 identity-passive-loaded = 페이지의 일부(이미지 등)가 안전하지 않습니다.
 identity-active-loaded = 이 페이지의 보호를 비활성화 하였습니다.
 identity-weak-encryption = 이 페이지는 약한 암호화를 사용합니다.
 identity-insecure-login-forms = 이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.
+identity-permissions-reload-hint = 변경 사항을 적용하려면 페이지를 새로고침해야 할 수 있습니다.
 identity-permissions-empty = 이 사이트를 특별한 권한으로 승인하지 않았습니다.
 identity-clear-site-data =
     .label = 쿠키와 사이트 데이터 삭제…
