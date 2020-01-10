@@ -77,3 +77,40 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Txãa bubnxi's nawe pakwen jxanyah
     .accesskey = j
+
+## Bookmark Panel
+
+
+## Identity Panel
+
+identity-connection-internal = Naa teeçx aj web-te pa'yakx { -brand-short-name }isate.
+identity-connection-file = Naa eça ayte jxawnxii ũstah idx mjĩnxite.
+identity-active-blocked = { -brand-short-name } na' aphne' maisa paynxite nanxu isa ewmeta.
+identity-passive-loaded = Naa kxtee web-te jiphunime's pa'yakx (piisanisa).
+identity-active-loaded = Ayte ktudujmeta payatx na paynxite.
+identity-weak-encryption = Naa fxi'jhnxisa mej tudkwe ũ'sa'
+identity-insecure-login-forms = Putxna na'we u'kan nate nanxu pa'yatxinega.
+identity-permissions-empty = Ji'meig ayte webte dxihj mawẽ yuhpa.
+identity-remove-cert-exception =
+    .label = Khukhn yahtxn
+    .accesskey = K
+identity-description-insecure = Idx çxkitxanxii ayte paçteme ũsa' na ayte ta'sxnxii vxite uyya ewutxin (nawe paçtewesxna,meçxa yuwe tusu vxiu kahnxite, ma'wẽpa
+identity-description-insecure-login-forms = Nawe putxn ta'sxnxii vxitn na ayte meka napa isasamena y suwena.
+identity-description-weak-cipher-intro = Idx ukanxii webte mvxis nawesa's uka'h wehçxaa ũ'sanapa jĩçxapa paçteme.
+identity-description-weak-cipher-risk = Vxite nasa idx vxitnxi's uyya ewutxina meçxa wejx phewuhya na webtewe'sxa's.
+identity-description-active-blocked = { -brand-short-name } na' aphne' maisa paynxite nanxu isa ewmeta. <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
+identity-description-passive-loaded = Idx çxkitxanxi' paçteme' aça tasxnxisa's katxuhdete ayte vxite uya' ewutxin.
+identity-description-passive-loaded-insecure = Ayte web jip ũsa' napa thakwe selpimena isamanx (nawẽ pisanxi). <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
+identity-description-passive-loaded-mixed = Ma'wẽtepa { -brand-short-name } nanxu aphnxi ũsn mawẽçxapa ji'pn, ma'wẽntepa nenxutana thegnxite ãhmetepa (ma'wẽsa pisanxitepa) <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
+identity-description-active-loaded = Ayte ahmea' webte ji'punxi' (nawẽsa scripts) vxite idx çxkitxanxii txãwẽsxi' paçteme nenxuna.
+identity-description-active-loaded-insecure = Ayte ta'sxn katxudenxi vxitetx ya' ta'sxya ewuna (nawẽ vxite paçte fxi'hjnxi, vxite yuwe kahnxisa vxite vxiu ktusehnxinxa'kh, meçxa fxifxisanxakh.).
+identity-learn-more =
+    .value = &Jweiçxaa jiyunxi...
+identity-disable-mixed-content-blocking =
+    .label = Ãçxte phuphnxi's nuyçxhaçxhanximee.
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = nwe'wene'ga puphnxisa's
+    .accesskey = n
+identity-more-info-link-text =
+    .label = Jweiçxaa pta'sxna
