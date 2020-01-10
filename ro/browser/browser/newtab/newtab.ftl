@@ -87,6 +87,7 @@ newtab-menu-show-privacy-info = Sponsorii noștri și confidențialitatea ta
 newtab-privacy-modal-button-done = Terminat
 newtab-privacy-modal-header = Confidențialitatea ta contează.
 newtab-privacy-modal-paragraph = În plus față de afișarea unor articole captivante, îți arătăm și conținuturi relevante foarte bine cotate de la sponsori selectați. Fii fără grijă, datele tale de navigare nu pleacă niciodată din exemplarul tău personal de { -brand-product-name } — nici noi nu le vedem, nici sponsorii noștri.
+newtab-privacy-modal-paragraph-2 = În plus față de afișarea unor articole captivante, îți arătăm și conținuturi relevante foarte bine cotate de la sponsori selectați. Fii fără grijă, <strong>datele tale de navigare nu pleacă niciodată din exemplarul tău personal de { -brand-product-name }</strong> — nici noi nu le vedem, nici sponsorii noștri.
 newtab-privacy-modal-link = Află cum funcționează confidențialitatea în fila nouă
 
 ##

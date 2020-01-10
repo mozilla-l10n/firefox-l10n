@@ -35,6 +35,8 @@ accessibility-text-label-issue-frame = Elementele <code>frame</code> trebuie să
 accessibility-text-label-issue-glyph = Folosește un atribut <code>alt</code> ca să etichetezi elemente <span>mglyph</span>. <a>Află mai multe</a>
 accessibility-text-label-issue-heading = Titlurile trebuie să fie etichetate. <a>Află mai multe</a>
 accessibility-text-label-issue-heading-content = Titlurile trebuie să aibă conținut text vizibil. <a>Află mai multe</a>
+accessibility-text-label-issue-image = Conținutul cu imagini trebuie să fie etichetat. <a>Află mai multe</a>
+accessibility-text-label-issue-interactive = Elementele interactive trebuie să fie etichetate. <a>Află mai multe</a>
 accessibility-text-label-issue-toolbar = Barele de unelte trebuie să fie etichetate dacă sunt mai mult de una. <a>Află mai multe</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
