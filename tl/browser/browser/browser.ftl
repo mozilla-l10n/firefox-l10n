@@ -161,5 +161,33 @@ bookmark-panel =
 
 identity-connection-not-secure = Di Matibay na Koneksyon
 identity-connection-secure = Matibay na Koneksyon
+identity-connection-internal = Ito ay secure na { -brand-short-name } na pahina.
+identity-connection-file = Ang pahinang ito ay naka-imbak sa iyong computer.
+identity-extension-page = Ang pahinang ito ay nai-load mula sa isang extension.
+identity-passive-loaded = Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad ng mga larawan).
+identity-active-loaded = Hindi mo pinagana ang proteksyon sa pahinang ito.
+identity-weak-encryption = Ang pahinang ito ay gumagamit ng mahina na pag-encrypt.
+identity-insecure-login-forms = Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.
 identity-permissions =
     .value = Mga Pahintulot
+identity-permissions-reload-hint = Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.
+identity-permissions-empty = Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.
+identity-remove-cert-exception =
+    .label = Tanggalin ang Exception
+    .accesskey = R
+identity-description-insecure = Ang iyong koneksyon sa site na ito ay hindi pribado. Ang impormasyon na iyong isinumite ay maaaring matingnan ng iba (tulad ng mga password, mensahe, credit card, atbp.).
+identity-description-insecure-login-forms = Ang impormasyon sa pag-login na ipinasok mo sa pahinang ito ay hindi ligtas at maaaring makompromiso.
+identity-description-weak-cipher-intro = Ang iyong koneksyon sa website na ito ay gumagamit ng mahina na pag-encrypt at hindi pribado.
+identity-description-weak-cipher-risk = Maaaring tingnan ng iba pang mga tao ang iyong impormasyon o baguhin ang pag-uugali ng website.
+identity-description-passive-loaded = Ang iyong koneksyon ay hindi pribado at ang impormasyon na iyong ibinabahagi sa site ay maaaring makita ng iba.
+identity-description-passive-loaded-insecure = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
+identity-description-passive-loaded-mixed = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
+identity-description-active-loaded = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga script) at ang iyong koneksyon dito ay hindi pribado.
+identity-description-active-loaded-insecure = Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).
+identity-learn-more =
+    .value = Matuto ng higit pa
+identity-disable-mixed-content-blocking =
+    .label = Huwag paganahin ang proteksyon sa ngayon
+    .accesskey = D
+identity-more-info-link-text =
+    .label = Karagdagang Impormasyon
