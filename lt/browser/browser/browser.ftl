@@ -161,16 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Ryšys nesaugus
+identity-connection-secure = Ryšys saugus
 identity-connection-internal = Tai yra saugus „{ -brand-short-name }“ tinklalapis.
 identity-connection-file = Šis tinklalapis yra įrašytas jūsų kompiuteryje.
 identity-extension-page = Šis tinklalapis yra įkeltas iš priedo.
 identity-active-blocked = „{ -brand-short-name }“ užblokavo nesaugias šio tinklalapio dalis.
+identity-custom-root = Ryšį patvirtino liudijimo išdavėjas, kurio „Mozilla“ neatpažino.
 identity-passive-loaded = Kai kurios šio tinklalapio dalys nėra saugios (pvz., paveikslai).
 identity-active-loaded = Šiame tinklalapyje esate išjungę apsaugą.
 identity-weak-encryption = Šis tinklalapis naudoja silpną šifravimą.
 identity-insecure-login-forms = Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.
+identity-permissions =
+    .value = Leidimai
 identity-permissions-reload-hint = Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.
 identity-permissions-empty = Šiai svetainei nesate suteikę jokių ypatingų leidimų.
+identity-clear-site-data =
+    .label = Valyti slapukus ir svetainių duomenis…
+identity-connection-not-secure-security-view = Nesate saugiai prisijungę prie šios svetainės.
+identity-connection-verified = Esate saugiai prisijungę prie šios svetainės.
+identity-ev-owner-label = Kam išduotas liudijimas:
+identity-description-custom-root = „Mozilla“ neatpažįsta šio liudijimo išdavėjo. Jis galėjo būti pridėtas iš jūsų operacinės sistemos, arba administratoriaus. <label data-l10n-name="link">Sužinoti daugiau</label>
 identity-remove-cert-exception =
     .label = Panaikinti išimtį
     .accesskey = n
