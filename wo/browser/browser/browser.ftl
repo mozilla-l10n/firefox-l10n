@@ -56,3 +56,6 @@ full-screen-exit =
 
 bookmark-panel-done-button =
     .label = Jeexal
+
+## Identity Panel
+
