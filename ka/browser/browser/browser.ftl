@@ -158,3 +158,14 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-weak-encryption = ეს გვერდი სუსტ დაშიფვრას იყენებს.
+identity-permissions-empty = ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.
+identity-disable-mixed-content-blocking =
+    .label = დაცვის გამორთვა დროებით
+    .accesskey = დ
+identity-enable-mixed-content-blocking =
+    .label = დაცვის ჩართვა
+    .accesskey = რ
