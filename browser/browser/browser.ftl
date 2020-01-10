@@ -102,3 +102,38 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = Во ред
+
+## Identity Panel
+
+identity-connection-internal = Ова е безбедна страница на { -brand-short-name }.
+identity-connection-file = Оваа страница е складирана на вашиот компјутер.
+identity-extension-page = Оваа страница е вчитана преку проширување.
+identity-active-blocked = { -brand-short-name } блокираше делови од оваа страница што не се безбедни.
+identity-passive-loaded = Делови од оваа страница не се безбедни (како на пример, сликите).
+identity-active-loaded = Ја исклучивте заштитата за оваа страница.
+identity-weak-encryption = Оваа страница користи слаба енкрипција.
+identity-insecure-login-forms = Најавувањата на оваа страница можат да бидат злоупотребени.
+identity-permissions-reload-hint = Можно е да треба да ја превчитате страницата за измените да имаат ефект.
+identity-permissions-empty = Немате активирано специфични дозволи за ова место.
+identity-remove-cert-exception =
+    .label = Отстрани исклучок
+    .accesskey = Д
+identity-description-insecure-login-forms = Податоците што ги внесувате за најава на оваа страница не се безбедни и би можеле да бидат злоупотребени.
+identity-description-weak-cipher-intro = Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.
+identity-description-weak-cipher-risk = Други луѓе можат да ги гледаат вашите информации или да го менуваат однесувањето на мрежното место.
+identity-description-active-blocked = { -brand-short-name } блокираше делови од оваа страница што не се безбедни. <label data-l10n-name="link">Дознај повеќе</label>
+identity-description-passive-loaded = Вашата врска не е приватна и податоците што ги споделувате со ова место, би можеле да бидат видливи за други.
+identity-description-passive-loaded-insecure = Ова мрежно место има содржини што не се безбедни (како на пример: слики). <label data-l10n-name="link">Дознај повеќе</label>
+identity-description-passive-loaded-mixed = Иако { -brand-short-name } блокираше некои содржини, оваа страница сѐ уште има содржини што не се безбедни (како, на пример, слики). <label data-l10n-name="link">Дознај повеќе</label>
+identity-description-active-loaded = Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.
+identity-description-active-loaded-insecure = Податоците што ги споделувате со ова место би можеле да бидат видливи за други (како на пример: лозинки, пораки, кредитни картички и сл.).
+identity-learn-more =
+    .value = Дознај повеќе
+identity-disable-mixed-content-blocking =
+    .label = Исклучи заштита за сега
+    .accesskey = Д
+identity-enable-mixed-content-blocking =
+    .label = Активирај заштита
+    .accesskey = Б
+identity-more-info-link-text =
+    .label = Повеќе информации
