@@ -156,3 +156,10 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-not-secure = Di Matibay na Koneksyon
+identity-connection-secure = Matibay na Koneksyon
+identity-permissions =
+    .value = Mga Pahintulot
