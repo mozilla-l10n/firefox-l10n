@@ -161,15 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Tilkoblingen er ikke sikker
+identity-connection-secure = Tilkoblingen er sikker
 identity-connection-internal = Dette er en sikker { -brand-short-name }-side.
 identity-connection-file = Denne siden lagres på datamaskinen din.
+identity-extension-page = Denne siden er lastet fra en utvidelse.
 identity-active-blocked = { -brand-short-name } blokkerte deler av denne siden som ikke er sikre.
+identity-custom-root = Tilkobling verifisert av en sertifikatutsteder som ikke kjennes igjen av Mozilla.
 identity-passive-loaded = Deler av denne siden er ikke sikker (f.eks. bilder).
 identity-active-loaded = Du har slått av beskyttelse på denne siden.
 identity-weak-encryption = Denne siden bruker svak kryptering.
 identity-insecure-login-forms = Innloggingsinfo skrevet inn på denne kan leses av en tredjepart.
+identity-permissions =
+    .value = Tillatelser
 identity-permissions-reload-hint = Du må kanskje laste siden på nytt for at endringene skal gjelde.
 identity-permissions-empty = Du har ikke gitt dette nettstedet noen spesialtillatelser.
+identity-clear-site-data =
+    .label = Slett infokapsler og nettstedsdata…
+identity-connection-not-secure-security-view = Du er ikke sikkert koblet til dette nettstedet.
+identity-connection-verified = Du er sikkert koblet til dette nettstedet.
+identity-ev-owner-label = Sertifikat utstedt til:
+identity-description-custom-root = Mozilla kjenner ikke igjen denne sertifikatutstederen. Den kan ha blitt lagt til av ditt operativsystem eller av en administrator. <label data-l10n-name="link">Les mer</label>
 identity-remove-cert-exception =
     .label = Fjern unntak
     .accesskey = F
