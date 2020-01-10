@@ -162,12 +162,20 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-internal = Isto es un pagina secur de { -brand-short-name }.
+identity-connection-file = Iste pagina es immagazinate in tu computator.
 identity-extension-page = Iste pagina es cargate ab un extension.
 identity-active-blocked = { -brand-short-name } ha blocate partes de iste pagina que non es secur.
 identity-passive-loaded = Partes de iste pagina non es secur (pro exemplo, imagines).
+identity-active-loaded = Tu ha disactivate le protection sur iste pagina.
+identity-weak-encryption = Iste pagina usa un cryptographia debile.
 identity-insecure-login-forms = Le informationes de authentication scribite in iste pagina pote esser compromittite.
+identity-permissions =
+    .value = Permissiones
 identity-permissions-reload-hint = Il es possibile que tu debe recargar le pagina pro que le cambios se applica.
 identity-permissions-empty = Tu non ha concedite ulle permission special a iste sito.
+identity-clear-site-data =
+    .label = Rader cookies e datos de sitos…
+identity-description-custom-root = Mozilla non recognosce iste emissor de certificatos. Illo poterea provenir de tu systema de operation, o forsan un administrator lo ha addite. <label data-l10n-name="link">Saper plus</label>
 identity-remove-cert-exception =
     .label = Remover le exception
     .accesskey = R
@@ -183,6 +191,9 @@ identity-description-active-loaded = Iste sito web contine contento que non es s
 identity-description-active-loaded-insecure = Le informationes que tu comparti con iste sito pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).
 identity-learn-more =
     .value = Saper plus
+identity-disable-mixed-content-blocking =
+    .label = Disactivar le protection pro le momento
+    .accesskey = I
 identity-enable-mixed-content-blocking =
     .label = Activar le protection
     .accesskey = E
