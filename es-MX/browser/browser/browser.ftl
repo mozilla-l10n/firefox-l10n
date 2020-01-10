@@ -154,3 +154,29 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Esta es un página { -brand-short-name } segura.
+identity-connection-file = Esta página está almacenada en tu computadora.
+identity-active-loaded = Has deshabilitado la protección en esta página.
+identity-weak-encryption = Esta página usa encriptación débil.
+identity-insecure-login-forms = Inicios de sesión ingresados en esta página pueden ser peligrosos.
+identity-permissions-empty = No tienes permitido en este sitio web ningún permiso especial.
+identity-remove-cert-exception =
+    .label = Eliminar excepción
+    .accesskey = E
+identity-description-weak-cipher-intro = Tu conexión con este sitio web usa encriptación débil y no es privado.
+identity-description-weak-cipher-risk = Otras personas pueden ver tu información o modificar el comportamiento del sitio web.
+identity-description-active-loaded = Este sitio web tiene contenido que no es seguro (tales como scripts) y tu conexión a ellos no es privada.
+identity-description-active-loaded-insecure = La información que compartas con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).
+identity-learn-more =
+    .value = Saber más
+identity-disable-mixed-content-blocking =
+    .label = Protección inhabilitada por ahora
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Habilitar protección
+    .accesskey = H
+identity-more-info-link-text =
+    .label = Más información
