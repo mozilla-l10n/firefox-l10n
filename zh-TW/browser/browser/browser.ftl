@@ -192,7 +192,7 @@ identity-description-weak-cipher-risk = 其他人可以看到您的資訊，或�
 identity-description-active-blocked = { -brand-short-name } 已經封鎖此頁面中不安全的部分。<label data-l10n-name="link">了解更多</label>
 identity-description-passive-loaded = 您的連線並不私密，提供給此網站的資訊可能會被其他人看到。
 identity-description-passive-loaded-insecure = 此網站包含不安全的內容（例如圖片）。<label data-l10n-name="link">了解更多</label>
-identity-description-passive-loaded-mixed = 雖然 { -brand-short-name } 已經封鎖部分內容，但頁面中還是有不安全的內容（例如圖片）。 <label data-l10n-name="link">了解更多</label>
+identity-description-passive-loaded-mixed = 雖然 { -brand-short-name } 已經封鎖部分內容，但頁面中還是有不安全的內容（例如圖片）。<label data-l10n-name="link">了解更多</label>
 identity-description-active-loaded = 此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。
 identity-description-active-loaded-insecure = 您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。
 identity-learn-more =
