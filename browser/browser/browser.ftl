@@ -161,15 +161,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Незахищене з'єднання
+identity-connection-secure = Захищене з'єднання
 identity-connection-internal = Це захищена сторінка { -brand-short-name }.
 identity-connection-file = Ця сторінка збережена на вашому комп'ютері.
 identity-extension-page = Ця сторінка завантажена з розширення.
 identity-active-blocked = { -brand-short-name } заблокував небезпечні частини цієї сторінки.
+identity-custom-root = З'єднання засвідчене сертифікатом, видавець якого не розпізнається Mozilla.
 identity-passive-loaded = Частини цієї сторінки (такі як зображення) незахищені.
 identity-active-loaded = Ви вимкнули захист на цій сторінці.
 identity-weak-encryption = Ця сторінка використовує слабке шифрування.
 identity-insecure-login-forms = Паролі, введені на цій сторінці, можуть бути скомпрометовані.
+identity-permissions =
+    .value = Дозволи
+identity-permissions-reload-hint = Для застосування змін, можливо, доведеться перезавантажити сторінку.
 identity-permissions-empty = Ви не надали цьому сайту жодних спеціальних дозволів.
+identity-clear-site-data =
+    .label = Стерти куки і дані сайтів…
+identity-connection-not-secure-security-view = Ваше з'єднання з цим сайтом незахищене.
+identity-connection-verified = Ваше з'єднання з цим сайтом захищене.
+identity-ev-owner-label = Сертифікат виданий:
+identity-description-custom-root = Mozilla не розпізнає цього видавця сертифіката. Він міг бути доданий вашою операційною системою чи адміністратором. <label data-l10n-name="link">Докладніше</label>
 identity-remove-cert-exception =
     .label = Вилучити виняток
     .accesskey = В
@@ -179,6 +191,9 @@ identity-description-weak-cipher-intro = Ваше з'єднання з цим в
 identity-description-weak-cipher-risk = Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.
 identity-description-active-blocked = { -brand-short-name } заблокував небезпечні частини цієї сторінки. <label data-l10n-name="link">Докладніше</label>
 identity-description-passive-loaded = Ваше з'єднання не є приватним й інформація, якою ви ділитесь з сайтом може бути переглянута іншими.
+identity-description-passive-loaded-insecure = Цей веб-сайт має вміст, що не є безпечним (наприклад, зображення). <label data-l10n-name="link">Докладніше</label>
+identity-description-passive-loaded-mixed = Хоча { -brand-short-name } заблокував деякий вміст, все ж на сторінці ще залишається вміст, що не є безпечним (наприклад, зображення). <label data-l10n-name="link">Докладніше</label>
+identity-description-active-loaded = Цей веб-сайт має вміст, що не є безпечним (наприклад, сценарії) і ваше з'єднання з ним не є приватним.
 identity-description-active-loaded-insecure = Інформація, якою ви ділитесь з цим сайтом може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
 identity-learn-more =
     .value = Докладніше
