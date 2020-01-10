@@ -163,6 +163,7 @@ bookmark-panel =
 
 identity-connection-not-secure = Forbindelsen er usikker
 identity-connection-secure = Forbindelsen er sikker
+identity-connection-internal = Dette er en sikker { -brand-short-name }-side.
 identity-connection-file = Denne side er gemt på din computer.
 identity-extension-page = Denne side er indlæst fra en udvidelse.
 identity-active-blocked = { -brand-short-name } har blokeret usikre dele af denne side.
