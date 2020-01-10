@@ -161,15 +161,34 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-file = ეს გვერდი თქვენს კომპიუტერში ინახება.
+identity-extension-page = ეს გვერდი გახსნილია გაფართოების მიერ.
+identity-active-blocked = { -brand-short-name } ზღუდავს გვერდის დაუცველ ნაწილებს.
+identity-passive-loaded = ამ გვერდის გარკვეული ნაწილი დაუცველია (როგორიცაა სურათები).
+identity-active-loaded = ამ გვერდზე დაცვა გამორთული გაქვთ.
 identity-weak-encryption = ეს გვერდი სუსტ დაშიფვრას იყენებს.
+identity-insecure-login-forms = ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.
 identity-permissions-reload-hint = ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.
 identity-permissions-empty = ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.
+identity-clear-site-data =
+    .label = საიტის ფაილებისა და მონაცემების წაშლა…
 identity-remove-cert-exception =
     .label = გამონაკლისის წაშლა
     .accesskey = წ
+identity-description-insecure-login-forms = ამ გვერდზე შეყვანილი ანგარიშის მონაცემები დაუცველია და შესაძლოა მოიპარონ.
+identity-description-weak-cipher-intro = საიტთან კავშირი სუსტ დაშიფვრას იყენებს და დაუცველია.
+identity-description-weak-cipher-risk = სხვებსაც შეუძლიათ თქვენი ინფორმაციის ნახვა ან ვებსაიტის ქცევის შეცვლა.
+identity-description-active-blocked = { -brand-short-name } ზღუდავს გვერდის დაუცველ ნაწილებს. <label data-l10n-name="link">ვრცლად</label>
+identity-description-passive-loaded = კავშირი დაუცველია და თქვენ მიერ ამ საიტთან გაზიარებული პირადი მონაცემები, შესაძლოა სხვებმაც ნახონ.
+identity-description-passive-loaded-insecure = ეს ვებსაიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სურათები). <label data-l10n-name="link">ვრცლად</label>
+identity-description-active-loaded = საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (როგორიცაა სკრიპტები) და მასთან კავშირი, ვერ უზრუნველყოფს პირადი მონაცემების უსაფრთხოებას.
+identity-learn-more =
+    .value = ვრცლად
 identity-disable-mixed-content-blocking =
     .label = დაცვის გამორთვა დროებით
     .accesskey = დ
 identity-enable-mixed-content-blocking =
     .label = დაცვის ჩართვა
     .accesskey = რ
+identity-more-info-link-text =
+    .label = ვრცლად
