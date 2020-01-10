@@ -158,3 +158,42 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-not-secure = Незащищённое соединение
+identity-connection-secure = Защищённое соединение
+identity-connection-file = Эта страница хранится на вашем компьютере.
+identity-active-blocked = { -brand-short-name } заблокировал незащищённые части этой страницы.
+identity-passive-loaded = Части этой страницы (такие как изображения) не защищены.
+identity-active-loaded = Вы отключили защиту на этой странице.
+identity-weak-encryption = Эта страница использует слабое шифрование.
+identity-permissions =
+    .value = Разрешения
+identity-permissions-reload-hint = Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.
+identity-permissions-empty = Вы не давали этому сайту каких-либо специальных разрешений.
+identity-clear-site-data =
+    .label = Удалить куки и данные сайта…
+identity-ev-owner-label = Сертификат выдан:
+identity-remove-cert-exception =
+    .label = Удалить исключение
+    .accesskey = л
+identity-description-insecure = Ваше соединение с этим сайтом не защищено. Вводимая вами информация может быть видна посторонним (например, пароли, сообщения, номера кредитных карт и т.д.).
+identity-description-weak-cipher-intro = Ваше соединение с этим веб-сайтом использует слабое шифрование и не защищено.
+identity-description-weak-cipher-risk = Посторонние лица могут просматривать вашу информацию или изменять поведение веб-сайта.
+identity-description-active-blocked = { -brand-short-name } заблокировал незащищённые части этой страницы. <label data-l10n-name="link">Подробнее</label>
+identity-description-passive-loaded = Ваше соединение не является защищённым и информация, вводимая вами на этом сайте, может быть видна посторонним.
+identity-description-passive-loaded-insecure = Этот веб-сайт содержит незащищённое содержимое (такое как изображения). <label data-l10n-name="link">Подробнее</label>
+identity-description-passive-loaded-mixed = Хотя { -brand-short-name } заблокировал некоторое содержимое, на этой странице всё ещё имеется незащищённое содержимое (такое как изображения). <label data-l10n-name="link">Подробнее</label>
+identity-description-active-loaded = Этот веб-сайт содержит незащищённое содержимое (такое как сценарии) и ваше соединение с ним является незащищённым.
+identity-description-active-loaded-insecure = Информация, вводимая вами на этом сайте, может быть видна посторонним (например, пароли, сообщения, номера кредитных карт и т.д.).
+identity-learn-more =
+    .value = Подробнее
+identity-disable-mixed-content-blocking =
+    .label = Пока отключить защиту
+    .accesskey = а
+identity-enable-mixed-content-blocking =
+    .label = Включить защиту
+    .accesskey = ю
+identity-more-info-link-text =
+    .label = Подробнее
