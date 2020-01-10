@@ -128,3 +128,28 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = सम्पन्न भयो
+
+## Identity Panel
+
+identity-connection-internal = यो सुरक्षित { -brand-short-name } पृष्ठ हो।
+identity-connection-file = यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।
+identity-active-blocked = { -brand-short-name } यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।
+identity-passive-loaded = यो पृष्ठको भागहरू सुरक्षित छैनन् (जस्तै चित्रहरू)।
+identity-active-loaded = तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।
+identity-permissions-reload-hint = परिवर्तनहरू लागू हुन पेज पुनः लोड गर्नुहोस्
+identity-permissions-empty = तपाईँले यस साइटलाई कुनै विशेष अनुमति दिनुभएको छैन।
+identity-remove-cert-exception =
+    .label = एक्सेप्सन हटाउनुहोस्
+    .accesskey = R
+identity-description-insecure = तपाईँको जडान सुरक्षित छैन। तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरूले पनि देख्न सक्छन्।
+identity-description-insecure-login-forms = तपाईँ यो पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।
+identity-description-active-loaded = यो वेबसाइटमा सुरक्षित सामग्री छैन (जस्तै स्क्रिप्टहरू) र तपाईँको जडान निजी पनि छैन।{ " " }
+identity-description-active-loaded-insecure = तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरूले पनि देख्न सक्छन्।
+identity-disable-mixed-content-blocking =
+    .label = सुरक्षा खारेज गर्नुहोस्
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = सुरक्षा सक्षम
+    .accesskey = E
+identity-more-info-link-text =
+    .label = थप जानकारी
