@@ -147,11 +147,34 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-internal = Itei ir drūsa { -brand-short-name } lopa.
+identity-connection-file = Itei lopa ir saglobuota jiusu datorā.
+identity-extension-page = Itei lopa ir īluodeita nu papyldynuojuma.
+identity-active-blocked = { -brand-short-name } blokieja nadrūsū saturu itymā lopā.
+identity-active-loaded = Nadrūsu elementu aizsardzeiba ir deaktiveita.
+identity-weak-encryption = Itei lopa izmontoj vuoju šifriešonu.
+identity-permissions-reload-hint = Kab radzāti izmaiņis īspiejams byus napīcīšama lopys puorluode.
 identity-permissions-empty = You have not granted this site any special permissions.
+identity-remove-cert-exception =
+    .label = Attuolynuotuo izpilde
+    .accesskey = A
 identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
 identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
+identity-description-weak-cipher-intro = Jiusu savīnuojums ar itū lopu izmontoj vuoju šifriešonu i nav privats.
+identity-description-weak-cipher-risk = Cyti cylvāki var apsavērt jiusu informaceju voi modificeit lopys uzvedeibu.
+identity-description-active-blocked = { -brand-short-name } blokieja nadrūsū saturu itymā lopā. <label data-l10n-name="link">Uzzynojit vairuok</label>
 identity-description-passive-loaded = Your connection is not private and information you share with the site could be viewed by others.
+identity-description-passive-loaded-insecure = This website contains content that is not secure (such as images). <label data-l10n-name="link">Uzzynojit vairuok</label>
+identity-description-passive-loaded-mixed = Kab ari { -brand-short-name } blokieja nadrūsū saturu, lopā vys vēļ ir saturs, kas nav drūss (pīmāram attāli). <label data-l10n-name="link">Uzzynojit vairuok</label>
+identity-description-active-loaded = Ituos lopys daļis (pīmāram attāli voi skripti) nav drūsais i jiusu savīnuojums nav privats.
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
+identity-learn-more =
+    .value = Uzzynojit vairuok
 identity-disable-mixed-content-blocking =
     .label = Disable protection for now
     .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Aktivēt aizsardzeibu
+    .accesskey = b
+identity-more-info-link-text =
+    .label = Seikuoka informaceja
