@@ -136,7 +136,7 @@ media-capabilities-title = მასალის შესაძლებლო�
 # List all the entries of the database.
 media-capabilities-enumerate = მონაცემთა ბაზის გამოთვლა
 
-
+##
 
 intl-title = საერთაშორისოობა და ცალკეულ ენებზე მორგება
 intl-app-title = პროგრამის პარამეტრები
@@ -161,7 +161,7 @@ remote-debugging-title = დისტანციური გამართვ
 remote-debugging-accepting-connections = კავშირების მიღება
 remote-debugging-url = URL-ბმული
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -261,6 +261,7 @@ d3d11video-crash-guard = D3D11 ვიდეომშიფრავი
 d3d9video-crash-buard = D3D9 ვიდეომშიფრავი
 d3d9video-crash-guard = D3D9 ვიდეომშიფრავი
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX ვიდეოგამშიფრავი
 reset-on-next-restart = ჩამოყრა მომდევნო ჩართვისას
 gpu-process-kill-button = GPU პროცესის შეწყვეტა
 gpu-device-reset = მოწყობილობის ხელახალი გამართვა

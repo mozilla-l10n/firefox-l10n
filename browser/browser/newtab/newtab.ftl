@@ -90,10 +90,15 @@ newtab-privacy-modal-paragraph =
     გარდა საინტერესო ამბებისა, ჩვენ ასევე გიჩვენებთ მნიშვნელოვან, ღირებულ
     მასალას შერჩეული მხარდამჭერებისგან. შეგიძლიათ მშვიდად იყოთ, თქვენ მიერ ნანახ
     მონაცემებს, მხოლოდ ინახავს თქვენი კუთვნილი { -brand-product-name }  — ვერც ჩვენ და ვერც
-    ჩვენი მხარდამჭერები ვერ იხილავს მათ.
+    ჩვენი მხარდამჭერი კომპანიები ვერ იხილავს მათ.
+newtab-privacy-modal-paragraph-2 =
+    გარდა საინტერესო ამბებისა, ჩვენ ასევე გიჩვენებთ მნიშვნელოვან, ღირებულ
+    მასალას შერჩეული მხარდამჭერებისგან. შეგიძლიათ მშვიდად იყოთ, თქვენ მიერ ნანახ
+    მონაცემებს, მხოლოდ ინახავს თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ და ვერც
+    ჩვენი მხარდამჭერი კომპანიები ვერ იხილავს მათ.
 newtab-privacy-modal-link = იხილეთ, როგორ მუშაობს პირადი მონაცემების უსაფრთხოება ახალ ჩანართზე
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = სანიშნებიდან ამოშლა
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = ჰმ! თითქმი
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = მეტად გავრცელებული საკითხები:
 newtab-pocket-more-recommendations = მეტი შემოთავაზებები
-newtab-pocket-how-it-works = როგორ მუშაობს
 newtab-pocket-whats-pocket = რა არის { -pocket-brand-name }?
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
 newtab-pocket-cta-text = გადაინახეთ სასურველი შიგთავსი { -pocket-brand-name }-ში და მიეცით გონებას საკვები, შთამბეჭდავი საკითხავი მასალის სახით.
