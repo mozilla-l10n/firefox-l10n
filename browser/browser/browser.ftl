@@ -182,6 +182,9 @@ identity-connection-not-secure-security-view = Spojení s tímto serverem není 
 identity-connection-verified = Spojení s tímto serverem je zabezpečené.
 identity-ev-owner-label = Certifikát vydán pro:
 identity-description-custom-root = Mozilla tohoto vydavatele certifikátů nezná. Mohl být přidán operačním systémem nebo správcem vašeho počítače. <label data-l10n-name="link">Zjistit více</label>
+identity-remove-cert-exception =
+    .label = Odstranit výjimku
+    .accesskey = O
 identity-description-insecure = Vaše připojení k tomuto serveru není soukromé. Informace, které odešlete (jako hesla, zprávy, číslo platební karty atd.), mohou být viděny ostatními.
 identity-description-insecure-login-forms = Přihlašovací údaje, které zadáte na této stránce, nebudou zabezpečeny a mohou být vyzrazeny.
 identity-description-weak-cipher-intro = Vaše spojení s tímto serverem používá slabé šifrování a není soukromé.
