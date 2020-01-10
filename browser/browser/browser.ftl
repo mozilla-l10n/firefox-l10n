@@ -157,18 +157,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Connexiun betg segirada
+identity-connection-secure = Connexiun segirada
 identity-connection-internal = Quai è ina pagina segira da { -brand-short-name }.
 identity-connection-file = Questa pagina è memorisada sin tes computer.
 identity-extension-page = Ina extensiun ha chargià questa pagina.
 identity-active-blocked = { -brand-short-name } ha bloccà parts da questa pagina che n'èn betg segiradas.
+identity-custom-root = Connexiun verifitgada dad in certificat emess dad post da certificaziun betg renconuschì da Mozilla.
 identity-passive-loaded = Parts da questa pagina (p.ex. maletgs) n'èn betg segiradas.
 identity-active-loaded = Ti has deactivà la protecziun per questa pagina.
 identity-weak-encryption = Questa pagina utilisescha in criptadi flaivel.
 identity-insecure-login-forms = Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.
+identity-permissions =
+    .value = Autorisaziuns
 identity-permissions-reload-hint = Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.
 identity-permissions-empty = Ti n'has betg definì autorisaziuns spezialas per questa pagina.
 identity-clear-site-data =
     .label = Stizzar ils cookies e las datas da websites…
+identity-connection-not-secure-security-view = Ti n'es betg collià a moda segira cun questa website.
+identity-connection-verified = Ti es collià a moda segira cun questa website.
+identity-ev-owner-label = Certificat emess per:
+identity-description-custom-root = Mozilla na renconuscha betg l'emettur da quest certificat. Eventualmain è el vegnì agiuntà da tes sistem operativ u dad in administratur. <label data-l10n-name="link">Ulteriuras infurmaziuns</label>
 identity-remove-cert-exception =
     .label = Allontanar l'excepziun
     .accesskey = r
