@@ -51,3 +51,12 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+
+## Bookmark Panel
+
+
+## Identity Panel
+
+identity-disable-mixed-content-blocking =
+    .label = नितोक् ला़गित् आ़ड बाङ हुय होचो आकाना
+    .accesskey = D
