@@ -154,3 +154,21 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 25em
+
+## Identity Panel
+
+identity-connection-file = Страницата е запазена в компютъра.
+identity-active-blocked = { -brand-short-name } блокира части от страницата, които не са шифрирани.
+identity-active-loaded = Изключихте защитата за тази страница.
+identity-weak-encryption = Тази странница използва слабо шифриране.
+identity-description-weak-cipher-risk = Други хора могат да виждат ваша информация и да променят поведението на уебсайта.
+identity-description-active-blocked = { -brand-short-name } блокира части от страницата, които не са шифрирани. <label data-l10n-name="link">Научете повече</label>
+identity-description-passive-loaded = Връзката не е поверителна и споделяната информация със сайта може да бъде видяна от други.
+identity-description-passive-loaded-mixed = { -brand-short-name } блокира част от съдържанието, но все още има съдържание, което не е шифрирано, като например изображения. <label data-l10n-name="link">Научете повече</label>
+identity-learn-more =
+    .value = Научете повече
+identity-disable-mixed-content-blocking =
+    .label = Изключване на защитата за момента
+    .accesskey = И
+identity-more-info-link-text =
+    .label = Повече информация
