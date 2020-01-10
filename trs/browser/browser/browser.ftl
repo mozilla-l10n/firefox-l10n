@@ -154,3 +154,41 @@ bookmark-panel-done-button =
 # Cancel/Remove Bookmark buttons.
 bookmark-panel =
     .style = min-width: 23em
+
+## Identity Panel
+
+identity-connection-internal = Nitaj si hua ahī pajina nikaj ñu'unj { -brand-short-name }
+identity-connection-file = 'Ngà nu sa' pajinâ na riña si aga't.
+identity-extension-page = Asij a'ngo hij nachra pajinâ na.
+identity-active-blocked = { -brand-short-name } garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.
+identity-passive-loaded = Hua da'aj nej sa 'na' riña ñanj na ni sa yi'ìi huin nej ma (daj rû' nej ñadu'ua ni'io')
+identity-active-loaded = Guxunt sa dugumin pajinâ na.
+identity-weak-encryption = Ûta ninaj hua sifrado arajsun pajinâ na.
+identity-insecure-login-forms = Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.
+identity-permissions-reload-hint = Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.
+identity-permissions-empty = Nitaj si huaj gatut riña sitio na daj garan' ruat.
+identity-clear-site-data =
+    .label = Nagi'iaj niñu' kookies nī si dato sitio...
+identity-remove-cert-exception =
+    .label = Dure' sa taj a
+    .accesskey = R
+identity-description-insecure = Nitaj si yitïnj hua sitio na. Hua da'aj nej nuguan' a'nît nī ga'ue ni'iaj a'ngò dugui' (Daj run' da'nga' huìi, tarjetâ yikín, etc.).
+identity-description-insecure-login-forms = Nej nuguan' achrut riña ayi'ìt sesion nī nitaj si yitïnj hua ma riña pajinâ na, ga'ue rikij 'ngo sa si garan' ruat.
+identity-description-weak-cipher-intro = Si conexión riña sitio na nī ûta akò huaj nitaj si hua huìi ma.
+identity-description-weak-cipher-risk = Hua a'ngo dugui' ga'ue gini'iaj si nuguant nī ga'ue si gi'iaj sun hue'ê sitio web na.
+identity-description-active-blocked = { -brand-short-name } garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma. <label data-l10n-name="link">Gahuin chrūn doj</label>
+identity-description-passive-loaded = Se conexión huìi huin ma nī ga'ue si hua a'ngò dugui' ni'iaj ma.
+identity-description-passive-loaded-insecure = Nitaj si yitïnj hua sa ma riña sitio web na (daj run' ñadu'ua). <label data-l10n-name="link">Gahuin chrūn doj</label>
+identity-description-passive-loaded-mixed = Antaj si { -brand-short-name } garán riña da'aj sa ma na sani nū gè sa yi'ì riña pajinâ na (daj run' ñadu'ua). <label data-l10n-name="link">Gahuin chrūn doj</label>
+identity-description-active-loaded = Nitaj si yitïnj hua sa ma riña pajinâ web na (daj run' skripts) nī nitaj si yitïnj hua riña ma.
+identity-description-active-loaded-insecure = Nej nuguan' a'nínt riña sitio na nī ga'ue gini'iaj a'ngo dugui' (Daj run' da'ngà huìi, tarjeta yikín, etc.).
+identity-learn-more =
+    .value = Gahuin chrūn doj
+identity-disable-mixed-content-blocking =
+    .label = Nitaj si 'raj sun sa dugumî ñù'
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Nachrun' sa dugumî ñù'
+    .accesskey = E
+identity-more-info-link-text =
+    .label = Doj nuguan' a'min rayi'î nan
