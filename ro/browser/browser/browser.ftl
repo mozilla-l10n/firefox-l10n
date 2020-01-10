@@ -162,13 +162,21 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-internal = Aceasta este o pagină securizată { -brand-short-name }.
+identity-extension-page = Această pagină a fost încărcată de la o extensie.
+identity-custom-root = Conexiune verificată de un emițător de certificate nerecunoscut de Mozilla.
 identity-active-loaded = Ai dezactivat protecția pe această pagină.
 identity-weak-encryption = Această pagină folosește criptare slabă.
 identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
+identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
 identity-permissions-empty = Nu ai acordat acestui site nicio permisiune specială.
+identity-clear-site-data =
+    .label = Șterge cookie-urile și datele site-urilor…
+identity-connection-not-secure-security-view = Nu ești conectat în mod securizat la acest site.
+identity-connection-verified = Ești conectat în mod securizat la acest site.
 identity-remove-cert-exception =
     .label = Elimină excepția
     .accesskey = R
+identity-description-insecure = Conexiunea la acest site nu este privată. Informațiile pe care le trimiți pot fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
 identity-description-insecure-login-forms = Informațiile de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.
 identity-description-weak-cipher-intro = Conexiunea la acest site web folosește criptare slabă și nu este privată.
 identity-description-active-blocked = { -brand-short-name } a blocat părți ale acestei pagini care nu sunt sigure. <label data-l10n-name="link">Află mai multe</label>
@@ -177,5 +185,8 @@ identity-learn-more =
 identity-disable-mixed-content-blocking =
     .label = Dezactivează protecția deocamdată
     .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Activează protecția
+    .accesskey = E
 identity-more-info-link-text =
     .label = Mai multe informații
