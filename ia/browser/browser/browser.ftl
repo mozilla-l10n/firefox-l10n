@@ -191,17 +191,17 @@ identity-description-weak-cipher-intro = Tu connexion a iste sito web usa crypta
 identity-description-weak-cipher-risk = Altere personas pote vider tu information o modificar le comportamento del sito web.
 identity-description-active-blocked = { -brand-short-name } ha blocate partes de iste pagina que non es secur. <label data-l10n-name="link">Saper plus</label>
 identity-description-passive-loaded = Tu connexion non es private e informationes que tu insere sur iste sito poterea esser vidite per alteres.
-identity-description-passive-loaded-insecure = Iste sito web contine contento que non es secur (pro exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
-identity-description-passive-loaded-mixed = Ben que { -brand-short-name } ha blocate alcun contento, il ha ancora contento in le pagina que non es secur (pro exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
-identity-description-active-loaded = Iste sito web contine contento que non es secur (como scripts) e tu connexion a illo non es private.
-identity-description-active-loaded-insecure = Le informationes que tu comparti con iste sito pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).
+identity-description-passive-loaded-insecure = Iste sito web ha contento non secur (per exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
+identity-description-passive-loaded-mixed = Ben que { -brand-short-name } ha blocate alcun contento, il ha ancora contento non secur sur le pagina (per exemplo, imagines). <label data-l10n-name="link">Saper plus</label>
+identity-description-active-loaded = Iste sito web ha contento non secur (per exemplo, scripts) e tu connexion a illo non es private.
+identity-description-active-loaded-insecure = Le informationes que tu insere sur iste sito poterea esser vidite per alteres (per exemplo, contrasignos, messages, cartas de credito, etc.).
 identity-learn-more =
     .value = Saper plus
 identity-disable-mixed-content-blocking =
     .label = Disactivar le protection pro le momento
-    .accesskey = I
+    .accesskey = D
 identity-enable-mixed-content-blocking =
     .label = Activar le protection
-    .accesskey = E
+    .accesskey = A
 identity-more-info-link-text =
     .label = Plus information

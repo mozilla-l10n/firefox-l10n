@@ -42,7 +42,7 @@ options-default-color-unit-authored = Como autorisate
 options-default-color-unit-hex = Hexadecimal
 options-default-color-unit-hsl = TSL(A)
 options-default-color-unit-rgb = RVB(A)
-options-default-color-unit-name = Nomines del colores
+options-default-color-unit-name = Nomines de colores
 
 ## Style Editor section
 
@@ -51,7 +51,7 @@ options-styleeditor-label = Editor de stilos
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Autocompletar CSS
 options-stylesheet-autocompletion-tooltip =
-    .title = Auto-completar proprietates CSS, valores e selectores in le editor de stilos durante que tu scribe
+    .title = Autocompletar proprietates CSS, valores e selectores in le editor de stilos durante que tu scribe
 
 ## Screenshot section
 
@@ -71,14 +71,14 @@ options-screenshot-audio-tooltip =
 # The heading
 options-sourceeditor-label = Preferentias del editor
 options-sourceeditor-detectindentation-tooltip =
-    .title = Deducer le indentation in base la contento del fonte
+    .title = Deducer le indentation a base del contento fonte
 options-sourceeditor-detectindentation-label = Deteger indentation
 options-sourceeditor-autoclosebrackets-tooltip =
-    .title = Inserer automaticamente le parenthese de clausura
-options-sourceeditor-autoclosebrackets-label = Autoclauder le parentheses
+    .title = Inserer automaticamente le parentheses de clausura
+options-sourceeditor-autoclosebrackets-label = Autoclauder parentheses
 options-sourceeditor-expandtab-tooltip =
-    .title = Usar le spatios in vice del characteres de tabulation
-options-sourceeditor-expandtab-label = Identar usante spatios
+    .title = Usar spatios in loco del character de tabulation
+options-sourceeditor-expandtab-label = Indentar con spatios
 options-sourceeditor-tabsize-label = Dimension del tabulation
 options-sourceeditor-keybinding-label = Assignationes de claves
 options-sourceeditor-keybinding-default-label = Predefinite
@@ -113,11 +113,6 @@ options-source-maps-tooltip =
     .title = Si tu activa iste option le fontes essera mappate in le instrumentos.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Solmente le session actual, recarga le pagina
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Depurator
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Monstrar le datos del platteforma Gecko
