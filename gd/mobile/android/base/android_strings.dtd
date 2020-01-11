@@ -888,6 +888,8 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "Am Firefox ùr-nodha, a’ tighinn ann an 2020">
+<!ENTITY activity_stream_firefox_promo_description "A’ tighinn a dh’aithghearr: Dèanadas nas fheàrr. Dìon leasaichte o thracadh. Agus gleusan a chuidicheas tu a’ lorg, a’ sàbhaladh is a’ co-roinneadh dhen stuth as toil leat air loidhne.">
+<!ENTITY activity_stream_firefox_promo_button "Faigh plathadh dheth">
 
 <!ENTITY activity_stream_topsites "Brod nan làrach">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
