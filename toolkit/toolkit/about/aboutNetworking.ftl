@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = 네트워크 정보
-warning = 이 기능은 실험 단계입니다. 네트워크 기술에 잘 아는 사람 이외는 사용하지 마십시오.
+warning = 이 기능은 실험 단계입니다. 네트워크 기술에 잘 아는 사람 이외는 사용하지 마세요.
 show-next-time-checkbox = 다음에 이 경고 표시하기
 ok = 확인
 http = HTTP
@@ -67,5 +67,5 @@ networkid-id = 네트워크 ID
 networkid-isUp = 링크가 작동 중
 networkid-statusKnown = 링크 상태가 알려져 있음
 
-
+##
 

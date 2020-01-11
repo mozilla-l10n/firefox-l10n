@@ -58,5 +58,5 @@ profiles-opendir =
     { PLATFORM() ->
         [macos] Finder에서 보기
         [windows] 폴더 열기
-       *[other] 디렉토리 열기
+       *[other] 디렉터리 열기
     }
