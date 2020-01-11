@@ -40,7 +40,7 @@ devmgr-button-disable-fips =
 
 load-device =
     .title = PKCS#11 장치 드라이버 로드
-load-device-info = 추가하고자 하는 모듈에 대한 정보를 입력하십시오.
+load-device-info = 추가하고자 하는 모듈에 대한 정보를 입력하세요.
 load-device-modname =
     .value = 모듈 이름
     .accesskey = M
@@ -86,7 +86,7 @@ devinfo-label =
     .label = 레이블
 devinfo-serialnum =
     .label = 일련 번호
-fips-nonempty-password-required = FIPS 모드는 각 보안 장치에 적용할 하나로 통합된 기본 비밀번호 설정이 필요합니다. FIPS 모드를 사용하기 전에 먼저 기본 비밀번호를 설정하십시오.
+fips-nonempty-password-required = FIPS 모드는 각 보안 장치에 적용할 하나로 통합된 기본 비밀번호 설정이 필요합니다. FIPS 모드를 사용하기 전에 먼저 기본 비밀번호를 설정하세요.
 unable-to-toggle-fips = 보안 장치에 대해 FIPS 모드를 변경할 수 없습니다. 애플리케이션을 닫고 다시 시작해 보시기 바랍니다.
 load-pk11-module-file-picker-title = 로드 할 PKCS#11 장치 드라이버 선택
 # Load Module Dialog

@@ -45,7 +45,7 @@ about-debugging-sidebar-item-connect-button-connecting = 연결 중…
 about-debugging-sidebar-item-connect-button-connection-failed = 연결 실패
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
-about-debugging-sidebar-item-connect-button-connection-not-responding = 연결이 아직 대기 중입니다. 대상 브라우저에서 메시지를 확인하십시오.
+about-debugging-sidebar-item-connect-button-connection-not-responding = 연결이 아직 대기 중입니다. 대상 브라우저에서 메시지를 확인하세요
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = 연결 시간 초과
 # Temporary text displayed in sidebar items representing remote runtimes after
@@ -83,9 +83,9 @@ about-debugging-setup-title = 설정
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = 장치를 원격으로 디버깅할 연결 방법을 구성합니다.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = 이 버전의 { -brand-shorter-name }에서 탭, 확장기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하십시오.
+about-debugging-setup-this-firefox = 이 버전의 { -brand-shorter-name }에서 탭, 확장기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하세요.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = 이 버전의 { -brand-shorter-name }에서 확장 기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>을 사용하십시오.
+about-debugging-setup-this-firefox2 = 이 버전의 { -brand-shorter-name }에서 확장 기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>을 사용하세요.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 기기 연결
 # USB section of the Setup page
@@ -178,21 +178,21 @@ about-debugging-runtime-service-workers-not-compatible = 브라우저 구성이 
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = 연결된 브라우저에는 이전 버전 ({ $runtimeVersion })이 있습니다. 지원되는 최소 버전은 ({ $minVersion }) 입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패 할 수 있습니다. 연결된 브라우저를 업데이트하십시오. <a>문제 해결</a>
+about-debugging-browser-version-too-old = 연결된 브라우저에는 이전 버전 ({ $runtimeVersion })이 있습니다. 지원되는 최소 버전은 ({ $minVersion }) 입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패 할 수 있습니다. 연결된 브라우저를 업데이트하세요. <a>문제 해결</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
 # Those are normally in range for DevTools compatibility policy, but specific non
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
-about-debugging-browser-version-too-old-67-debugger = 디버거 패널이 연결된 브라우저와 작동하지 않을 수 있습니다. 이 브라우저에 디버거를 사용해야 하는 경우 Firefox { $runtimeVersion }를 사용하십시오.
+about-debugging-browser-version-too-old-67-debugger = 디버거 패널이 연결된 브라우저와 작동하지 않을 수 있습니다. 이 브라우저에 디버거를 사용해야 하는 경우 Firefox { $runtimeVersion }를 사용하세요.
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = 연결된 브라우저가 { -brand-shorter-name } ({ $localVersion }, buildID { $localID })보다 최근 버전({ $runtimeVersion }, buildID { $runtimeID })입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패 할 수 있습니다. Firefox를 업데이트하십시오. <a>문제 해결</a>
+about-debugging-browser-version-too-recent = 연결된 브라우저가 { -brand-shorter-name } ({ $localVersion }, buildID { $localID })보다 최근 버전({ $runtimeVersion }, buildID { $runtimeID })입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패 할 수 있습니다. Firefox를 업데이트하세요. <a>문제 해결</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
