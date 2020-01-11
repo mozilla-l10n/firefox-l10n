@@ -148,7 +148,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } 켜기
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = 다시는 비밀번호를 잃어버리지 마십시오
+cfr-doorhanger-sync-logins-header = 다시는 비밀번호를 잃어버리지 마세요
 cfr-doorhanger-sync-logins-body = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
 cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } 켜기
     .accesskey = T

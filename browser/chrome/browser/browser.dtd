@@ -442,7 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "이 기기의 탭 모두 보기">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "다른 기기의 탭 목록을 보려면 탭 동기화를 켜세요.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
