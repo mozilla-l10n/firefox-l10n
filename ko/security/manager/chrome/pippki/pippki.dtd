@@ -34,17 +34,17 @@
 <!ENTITY pkcs12.setpassword.message  "입력하신 인증서 백업 비밀번호는 곧 생성할 인증서 백업 파일을 보호합니다.  백업을 계속하려면 반드시 비밀번호를 설정해야 합니다.">
 <!ENTITY pkcs12.setpassword.label1 "인증서 백업 비밀번호:">
 <!ENTITY pkcs12.setpassword.label2 "인증서 백업 비밀번호 (재입력):">
-<!ENTITY pkcs12.setpassword.reminder "중요: 만약 인증서 백업 비밀번호를 분실하면 백업한 인증서를 다시 가져올 수 없습니다.  안전한 곳에 기록해 두십시오.">
+<!ENTITY pkcs12.setpassword.reminder "중요: 만약 인증서 백업 비밀번호를 분실하면 백업한 인증서를 다시 가져올 수 없습니다.  안전한 곳에 기록해 두세요.">
 
 <!ENTITY chooseToken.title  "토큰 선택하기">
 <!ENTITY chooseToken.message1 "토큰을 선택하세요.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "개인키 생성 중">
-<!ENTITY createCertInfo.msg1 "키를 생성하는 중… 잠시만 기다려 주십시오….">
-<!ENTITY createCertInfo.msg2 "잠시만 기다려 주십시오…">
+<!ENTITY createCertInfo.msg1 "키를 생성하는 중… 잠시만 기다려 주세요….">
+<!ENTITY createCertInfo.msg2 "잠시만 기다려 주세요…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "잠금 방식 토큰 인증">
-<!ENTITY protectedAuth.msg "토큰을 인증해주십시오. 인증 방식은 토큰의 유형에 따라 다릅니다.">
+<!ENTITY protectedAuth.msg "토큰을 인증해 주세요. 인증 방식은 토큰의 유형에 따라 다릅니다.">
 <!ENTITY protectedAuth.tokenName.label "토큰:">

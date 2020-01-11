@@ -22,7 +22,7 @@ abuse-report-submit-description = 문제 설명 (선택 사항)
 abuse-report-textarea =
     .placeholder = 구체적인 사항이 있으면 문제를 해결하는 것이 더 쉬워집니다. 지금 어떤 상황인지 설명해 주세요. 웹을 건강하게 유지하도록 도와 주셔서 감사합니다.
 abuse-report-submit-note =
-    참고 : 개인 정보(이름, 이메일 주소, 전화 번호, 실제 주소 등)를 포함하지 마십시오.
+    참고 : 개인 정보(이름, 이메일 주소, 전화 번호, 실제 주소 등)를 포함하지 마세요.
     { -vendor-short-name }는 이러한 보고서를 영구적으로 저장합니다.
 
 ## Panel buttons.

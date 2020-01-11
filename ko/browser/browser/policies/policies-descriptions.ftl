@@ -21,7 +21,7 @@ policy-Bookmarks = 북마크 도구 모음이나 북마크 메뉴 또는 그 안
 policy-CaptivePortal = 캡티브 포털 지원을 사용 또는 사용하지 않게 합니다.
 policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인증서를 사용합니다.
 policy-Cookies = 웹사이트의 쿠키 설정을 허용하거나 거부합니다.
-policy-DefaultDownloadDirectory = 기본 다운로드 디렉토리를 설정합니다.
+policy-DefaultDownloadDirectory = 기본 다운로드 디렉터리를 설정합니다.
 policy-DisableAppUpdate = 브라우저가 업데이트 되지 않게 합니다.
 policy-DisableBuiltinPDFViewer = { -brand-short-name }에 탑재된 PDF 뷰어인 PDF.js를 비활성화 합니다.
 policy-DisableDeveloperTools = 개발자 도구 접근을 차단합니다.
@@ -47,7 +47,7 @@ policy-DisplayBookmarksToolbar = 기본으로 북마크 도구 모음을 표시�
 policy-DisplayMenuBar = 기본으로 메뉴 막대를 표시합니다.
 policy-DNSOverHTTPS = HTTPS를 통한 DNS를 설정합니다(DNS over HTTPS).
 policy-DontCheckDefaultBrowser = 시작할 때 기본 브라우저 확인을 하지 않습니다.
-policy-DownloadDirectory = 다운로드 디렉토리를 설정하고 잠급니다.
+policy-DownloadDirectory = 다운로드 디렉터리를 설정하고 잠급니다.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 콘텐츠 차단을 활성화 하거나 비활성화 하고 선택적으로 고정합니다.
 # A “locked” extension can’t be disabled or removed by the user. This policy

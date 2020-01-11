@@ -39,7 +39,7 @@ app-basics-update-channel = 업데이트 채널
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] 업데이트 디렉토리
+        [linux] 업데이트 디렉터리
        *[other] 업데이트 폴더
     }
 app-basics-update-history = 업데이트 기록
@@ -71,7 +71,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Finder에 표시
         [windows] 폴더 열기
-       *[other] 디렉토리 열기
+       *[other] 디렉터리 열기
     }
 modified-key-prefs-title = 중요한 변경된 환경 설정
 modified-prefs-name = 이름
@@ -192,7 +192,7 @@ blocked-os-version = 운영 체제 버전에서 지원하지 않기 때문에 �
 blocked-mismatched-version = 레지스트리와 DLL간의 그래픽 드라이버 버전이 일치하지 않아서 차단하였습니다.
 # Variables
 # $driverVersion - The graphics driver version string
-try-newer-driver = 그래픽 드라이버는 그리기 지원이 차단되었습니다.  그래픽 드라이버를 버전 { $driverVersion } 이상으로 업데이트해 보십시오.
+try-newer-driver = 그래픽 드라이버는 그리기 지원이 차단되었습니다.  그래픽 드라이버를 버전 { $driverVersion } 이상으로 업데이트해 보세요.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType 매개 변수
