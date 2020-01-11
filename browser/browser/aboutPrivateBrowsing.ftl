@@ -33,8 +33,8 @@ about-private-browsing-info-description = { -brand-short-name }는 앱을 종료
 about-private-browsing-search-banner-title = { $engineName }은 사생활 보호 창의 기본 검색 엔진입니다
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] 다른 검색 엔진을 선택하려면 <a data-l10n-name="link-options">설정</a>으로 이동하십시오
-       *[other] 다른 검색 엔진을 선택하려면 <a data-l10n-name="link-options">설정</a>으로 이동하십시오
+        [windows] 다른 검색 엔진을 선택하려면 <a data-l10n-name="link-options">설정</a>으로 이동하세요
+       *[other] 다른 검색 엔진을 선택하려면 <a data-l10n-name="link-options">설정</a>으로 이동하세요
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = 닫기

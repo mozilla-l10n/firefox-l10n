@@ -102,7 +102,7 @@ extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } 확�
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = 확장 프로그램을 사용하려면 <img data-l10n-name="menu-icon"/> 메뉴에서 <img data-l10n-name="addons-icon"/> 부가 기능으로 이동하십시오.
+extension-controlled-enable = 확장 프로그램을 사용하려면 <img data-l10n-name="menu-icon"/> 메뉴에서 <img data-l10n-name="addons-icon"/> 부가 기능으로 이동하세요.
 
 ## Preferences UI Search Results
 
@@ -122,7 +122,7 @@ startup-header = 시작 페이지
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name }과 Firefox 같이 돌리기
-use-firefox-sync = 팁: 이렇게 하면 프로필을 따로 쓰게 됩니다. { -sync-brand-short-name }를 써서 데이터를 공유하십시오.
+use-firefox-sync = 팁: 이렇게 하면 프로필을 따로 쓰게 됩니다. { -sync-brand-short-name }를 써서 데이터를 공유하세요.
 get-started-not-logged-in = { -sync-brand-short-name }에 로그인…
 get-started-configured = { -sync-brand-short-name } 설정 열기
 always-check-default =
@@ -246,7 +246,7 @@ download-always-ask-where =
     .label = 파일 저장 위치 항상 묻기
     .accesskey = A
 applications-header = 응용 프로그램
-applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 응용 프로그램을 처리하는 방법을 선택하십시오.
+applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 응용 프로그램을 처리하는 방법을 선택하세요.
 applications-filter =
     .placeholder = 파일 형식 또는 응용 프로그램 검색
 applications-type-column =
@@ -507,12 +507,12 @@ search-bar-shown =
 search-engine-default-header = 기본 검색 사이트
 search-engine-default-desc = 주소바와 검색바에서 사용할 기본 검색 엔진을 선택하세요.
 search-engine-default-desc-2 = 주소 표시줄과 검색 표시줄의 기본 검색 엔진입니다. 언제든지 바꿀 수 있습니다.
-search-engine-default-private-desc-2 = 사생활 보호 창에서만 사용할 다른 기본 검색 엔진을 선택하십시오
+search-engine-default-private-desc-2 = 사생활 보호 창에서만 사용할 다른 기본 검색 엔진을 선택하세요
 search-separate-default-engine =
     .label = 이 검색 엔진을 사생활 보호 창에서 사용
     .accesskey = U
 search-suggestions-header = 검색 제안
-search-suggestions-desc = 검색 엔진의 제안 사항 표시 방법을 선택하십시오.
+search-suggestions-desc = 검색 엔진의 제안 사항 표시 방법을 선택하세요.
 search-suggestions-option =
     .label = 검색 제안 사용
     .accesskey = s
@@ -531,7 +531,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings = 방문 기록, 북마크 및 탭 제안에 대한 설정 변경
 search-suggestions-cant-show = 방문 기록을 기억하지 않도록 { -brand-short-name }를 구성했기 때문에 검색 제안이 주소창 결과에 표시되지 않습니다.
 search-one-click-header = 원클릭 검색 사이트
-search-one-click-desc = 키워드 입력을 시작했을 때 주소 표시줄과 검색 표시줄 아래에 나타날 대체 검색 엔진을 선택하십시오.
+search-one-click-desc = 키워드 입력을 시작했을 때 주소 표시줄과 검색 표시줄 아래에 나타날 대체 검색 엔진을 선택하세요.
 search-choose-engine-column =
     .label = 검색 사이트
 search-choose-keyword-column =
@@ -548,8 +548,8 @@ search-find-more-link = 더 많은 검색 엔진 찾기
 search-keyword-warning-title = 키워드 복사
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = "{ $name }"에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하십시오.
-search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하십시오.
+search-keyword-warning-engine = "{ $name }"에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
+search-keyword-warning-bookmark = 북마크에서 이미 사용 중인 키워드를 선택했습니다. 다른 것을 선택하세요.
 
 ## Containers Section
 
@@ -867,7 +867,7 @@ addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 콘텐츠 차단
-content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하십시오. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
+content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하세요. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
 content-blocking-enhanced-tracking-protection = 향상된 추적 방지 기능
 content-blocking-section-top-level-description = 추적기는 온라인에서 사용자를 따라다니며 브라우징 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
 content-blocking-learn-more = 더 알아보기
@@ -906,7 +906,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.
-content-blocking-etp-custom-desc = 차단할 추적기와 스크립트를 선택하십시오.
+content-blocking-etp-custom-desc = 차단할 추적기와 스크립트를 선택하세요.
 content-blocking-private-windows = 사생활 보호 창의 추적 콘텐츠
 content-blocking-cross-site-tracking-cookies = 교차 사이트 추적 쿠키
 content-blocking-social-media-trackers = 소셜 미디어 추적기
@@ -920,7 +920,7 @@ content-blocking-fingerprinters = 핑거프린터
 content-blocking-warning-title = 조심하세요!
 content-blocking-warning-description = 콘텐츠를 차단하면 일부 웹사이트가 깨질 수 있습니다. 신뢰할 수 있는 사이트에 대한 차단은 쉽게 해제 할 수 있습니다.
 content-blocking-learn-how = 방법 알아보기
-content-blocking-etp-warning-description = 추적기 차단은 일부 사이트의 기능에 영향을 줄 수 있습니다. 모든 콘텐츠를 로드하려면 추적기가 있는 페이지를 다시 로드하십시오.
+content-blocking-etp-warning-description = 추적기 차단은 일부 사이트의 기능에 영향을 줄 수 있습니다. 모든 콘텐츠를 로드하려면 추적기가 있는 페이지를 다시 로드하세요.
 content-blocking-warning-learn-how = 방법 알아보기
 content-blocking-reload-description = 이러한 변경 사항을 적용하려면 탭을 다시 로드해야 합니다.
 content-blocking-reload-tabs-button =
