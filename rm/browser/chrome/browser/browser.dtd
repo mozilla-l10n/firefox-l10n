@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Ti stos verifitgar tes conto avant che ti pos sincronisar.">
 <!ENTITY fxa.unverified.button.label "Avrir ils parameters da &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Zuppentar il buttun per activar/deactivar maletg-en-maletg">
-<!ENTITY pictureInPictureHideToggle.accesskey "Z">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Annunzià sco">
 <!ENTITY fxa.menu.manageAccount.label "Administrar il conto…">
 <!ENTITY fxa.menu.syncSettings.label "Parameters da &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Zuppentar il buttun per activar/deactivar maletg-en-maletg">
+<!ENTITY pictureInPictureHideToggle.accesskey "Z">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "S'annunziar tar &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servetschs da &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Conto">
 <!ENTITY fxa.menu.settings.label "Parameters">
 <!ENTITY fxa.menu.accountSettings.label "Parameters dal conto">
+<!ENTITY fxa.menu.manageAccount2.label "Administrar il conto">
 <!ENTITY fxa.menu.signOut.label "Sortir…">
 <!ENTITY fxa.menu.deviceSettings.label "Parameters da l'apparat">
 <!ENTITY fxa.menu.setupSync.label "Endrizzar &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Chargiar l'adressa endatada en la trav d'adressas">
 <!ENTITY printButton.label            "Stampar">
@@ -276,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar l'utilisaziun da software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Avrir la panela MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ti has concedì dretgs supplementars a questa pagina.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ti has bloccà tia camera per questa website.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ti has bloccà tes microfon per questa website.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ti has bloccà la pussaivladad da questa website da cundivider tes visur.">
@@ -290,6 +289,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti has impedì che questa pagina d'internet utiliseschia il plug-in Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ti has bloccà l'access a MIDI per questa pagina d'internet.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ti has bloccà l'installaziun da supplements per questa website.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ti has concedì dretgs supplementars a questa pagina.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mussar la cronologia">
 
@@ -567,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Tschertgar cun:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Per questa giada, tschertgar cun:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Avrir la colliaziun en in nov tab">
+
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Avrir la colliaziun en ina nova fanestra">
 <!ENTITY openLinkCmd.accesskey        "f">
@@ -600,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Mussar mo quest frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Chargiar danovamain il frame">
 <!ENTITY reloadFrameCmd.accesskey     "r">
@@ -650,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Memorisar la pagina sut…">
 <!ENTITY savePageCmd.accesskey        "u">
 <!ENTITY savePageCmd.accesskey2       "u">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Memorisar il frame sut…">
 <!ENTITY saveFrameCmd.accesskey       "u">
@@ -816,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "M">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Midar la direcziun dal text">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "M">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Tschertgar en la pagina">
@@ -939,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pertge?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "La bloccada da quests elements pudess avair per consequenza che tschertas parts da websites na funcziunan betg endretg. Senza fastizaders na funcziunan tscherts buttuns, formulars e champs d'annunzia eventualmain betg.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Cun deactivar las protecziuns vegnan tut ils fastizaders permess sin questa site. Eventualmain funcziunan tscherts elements da la website meglier qua tras.">
-<!ENTITY protections.socialMediaTrackers.label "Fastizaders da medias socialas">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookies che fastizeschan tranter websites">
-<!ENTITY protections.trackingContent.label "Cuntegn che fastizescha">
-<!ENTITY protections.fingerprinters.label "Improntaders dal det">
-<!ENTITY protections.cryptominers.label "Criptominiers">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Chargià tut ils fastizaders sin questa site perquai che las protecziuns èn deactivadas.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; n'ha chattà nagins fastizaders enconuschents sin questa pagina.">
 
@@ -967,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "S'annunziar tar &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sincronisar ussa">
 <!ENTITY syncSyncNowItemSyncing.label "Sincronisar…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "A">
 
 <!ENTITY contentBlocking.socialblock.label "Fastizaders da medias socialas">
-
-<!ENTITY contentBlocking.cookies2.label "Cookies che fastizeschan tranter websites">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptominiers">
 <!ENTITY contentBlocking.cryptominersView.label "Criptominiers">

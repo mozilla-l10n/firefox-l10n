@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Colurs…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom da standard
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zoomar mo il text
+    .accesskey = t
 language-header = Lingua
 choose-language-description = Tscherna tia lingua preferida per la visualisaziun da websites
 choose-button =
@@ -316,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Cuntegn DRM (Digital Rights Management)
 play-drm-content =
@@ -561,6 +570,12 @@ search-keyword-warning-bookmark = Ti has tschernì in pled magic che vegn gia ut
 ## Containers Section
 
 containers-back-link = « Turnar
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Turnar a las preferenzas
+           *[other] Turnar a las preferenzas
+        }
 containers-header = Tabs da container
 containers-add-button =
     .label = Agiuntar in nov container
@@ -903,7 +918,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Persunalisà
     .accesskey = u
 
-
+##
 
 content-blocking-etp-standard-desc = Equiliber tranter protecziun e prestaziun. Paginas chargian normal.
 content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per consequenza che tschertas websites u tscherts cuntegns na funcziuneschan betg pli.
@@ -968,6 +983,10 @@ permissions-location = Posiziun
 permissions-location-settings =
     .label = Parameters…
     .accesskey = m
+permissions-xr = Realitad virtuala
+permissions-xr-settings =
+    .label = Parameters…
+    .accesskey = t
 permissions-camera = Camera
 permissions-camera-settings =
     .label = Parameters…
@@ -1016,6 +1035,8 @@ permissions-a11y-privacy-link = Ulteriuras infurmaziuns
 collection-header = { -brand-short-name }: Collecziun ed utilisaziun da datas
 collection-description = Nus ta laschain la tscherna e ramassain mo las infurmaziuns che nus duvrain per porscher e meglierar { -brand-short-name } per tuts. Nus ta dumandain adina avant che rimnar datas persunalas.
 collection-privacy-notice = Infurmaziuns davart la protecziun da datas
+collection-health-report-telemetry-disabled = Ti na permettas betg pli a { -vendor-short-name } da registrar datas davart la tecnica e l'interacziun. Tut las datas dal passà vegnan stizzadas entaifer 30 dis.
+collection-health-report-telemetry-disabled-link = Ulteriuras infurmaziuns
 collection-health-report =
     .label = Permetter a { -brand-short-name } da trametter datas tecnicas e datas d'interacziun a { -vendor-short-name }
     .accesskey = r
