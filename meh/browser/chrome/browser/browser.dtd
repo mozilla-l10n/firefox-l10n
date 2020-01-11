@@ -58,6 +58,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY goOfflineCmd.accesskey "k">
 
+<!ENTITY menubarCmd.label "Barra daa Menú">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
@@ -108,16 +109,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-
 
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -163,7 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Nachu'un tuku">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
+
 
 
 
@@ -377,17 +379,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 
 <!ENTITY searchInNewTab.accesskey     "p">
 <!ENTITY searchSetAsDefault.accesskey "p">
+
 
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -397,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "e">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Nachu'un tuku marco">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -428,6 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey        "G">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.accesskey       "G">
 <!ENTITY printFrameCmd.accesskey      "p">
@@ -549,6 +549,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "o">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.accesskey "B">
@@ -622,7 +623,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Nakɨvu tuku nuu &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
@@ -644,7 +644,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
 
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineros">

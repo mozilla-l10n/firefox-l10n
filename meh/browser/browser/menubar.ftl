@@ -26,7 +26,7 @@ menu-file-new-private-window =
 menu-file-open-location =
     .label = Síne nuu…
 menu-file-open-file =
-    .label = Sine Archivo...
+    .label = Sine Archivo…
     .accesskey = S
 menu-file-close =
     .label = Nakasɨ
@@ -35,19 +35,19 @@ menu-file-close-window =
     .label = Nakasɨ ventana
     .accesskey = N
 menu-file-save-page =
-    .label = Chuva´a kua...
+    .label = Chuva´a kua…
     .accesskey = C
 menu-file-email-link =
-    .label = Chu'un íchi Link...
+    .label = Chu'un íchi Link…
     .accesskey = C
 menu-file-print-setup =
-    .label = Ke'i página...
+    .label = Ke'i página…
     .accesskey = K
 menu-file-print-preview =
     .label = Natava naja kino
     .accesskey = N
 menu-file-print =
-    .label = Nátava
+    .label = Nátava…
     .accesskey = N
 menu-file-import-from-another-browser =
     .label = Tajima jiin inka ka̱a̱ nánuku
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pantalla ka'nu
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Xituvi kuaiyo daa pestañas
@@ -209,18 +209,12 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Ka̱a̱ chunta´an
     .accesskey = C
-menu-tools-sync-sign-in =
-    .label = Kajie'e sesión { -sync-brand-short-name }...
-    .accesskey = y
 menu-tools-fxa-sign-in =
     .label = Kajie'e sesión { -brand-product-name }…
     .accesskey = j
 menu-tools-sync-now =
     .label = Sincronizar ntañu´u
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Nakɨvu tuku { -sync-brand-short-name }...
-    .accesskey = N
 menu-tools-fxa-re-auth =
     .label = Nakɨvu tuku { -brand-product-name }...
     .accesskey = N
@@ -282,8 +276,7 @@ menu-help-safe-mode-with-addons =
     .label = Nakaji´e jii daa nachisó-kúmani na´va...
     .accesskey = N
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Kachi dee sitio ya´a kuvi sakui´ina...
     .accesskey = K

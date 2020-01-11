@@ -264,7 +264,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-account-signin =
-    .label = Kajie´e sesión
+    .label = Kajie´e sesión…
     .accesskey = s
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -282,7 +282,7 @@ sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l
 ## Firefox Account - Signed in
 
 sync-disconnect =
-    .label = Kene...
+    .label = Kene…
     .accesskey = K
 sync-manage-account = Administrar cuenta
     .accesskey = o
@@ -468,6 +468,7 @@ permissions-a11y-privacy-link = Ka´vi kue´eka
 
 ## Privacy Section - Data Collection
 
+collection-health-report-telemetry-disabled-link = Ka´vi kue´eka
 collection-health-report-link = Ka´vi kue´eka
 addon-recommendations-link = Ka´vi kue´eka
 collection-backlogged-crash-reports-link = Ka´vi kue´eka

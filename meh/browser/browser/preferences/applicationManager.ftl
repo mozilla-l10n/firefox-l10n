@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-window =
-    .title = Detalles  ka̱a̱
+    .title = Detalles ka̱a̱
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Xita

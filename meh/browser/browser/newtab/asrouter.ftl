@@ -8,7 +8,7 @@
 cfr-doorhanger-extension-heading = Extensión kuvi ni´inu
 cfr-doorhanger-pintab-heading = Sá´á ya´a: Tee pestaña
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Navi ne´yani ya´a?
@@ -96,6 +96,17 @@ cfr-whatsnew-tracking-blocked-link-text = Kune´ya reporte
 cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
 cfr-whatsnew-lockwise-take-title = Kuiso daa contraseña jii noo´o
 cfr-whatsnew-lockwise-take-link-text = Ni'i App
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Ka´vi kue´eka
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Ka´vi kue´eka
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
