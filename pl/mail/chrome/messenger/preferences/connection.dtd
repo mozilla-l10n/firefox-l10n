@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Serwer proxy SSL:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "Serwer proxy HTTPS:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "Host SOCKS:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Połączania z localhost, 127.0.0.1 i ::1 nigdy nie używają serwera proxy.">
+<!ENTITY  noproxyLocalhostDesc.label    "Połączania z localhost, 127.0.0.1 i ::1 nigdy nie używają serwera proxy.">
 <!ENTITY  shareproxy.label              "Użyj tego serwera proxy dla wszystkich protokołów">
 <!ENTITY  shareproxy.accesskey          "U">
+<!ENTITY  proxyHttpSharing.label        "Użyj tego serwera proxy także dla HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "U">
 <!ENTITY  autologinproxy.label          "Nie pytaj o uwierzytelnianie, jeśli istnieje zachowane hasło">
 <!ENTITY  autologinproxy.accesskey      "u">
 <!ENTITY  autologinproxy.tooltip        "Umożliwia automatyczne uwierzytelnianie na serwerach proxy, jeśli wcześniej zostały zachowane dane logowania. W przypadku nieudanego uwierzytelniania zostanie wyświetlone standardowe pytanie.">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "x">
 <!ENTITY  dnsOverHttps.label            "DNS poprzez HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "D">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Domyślny adres">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "D">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Użyj domyślnego adresu serwera DNS udostępnionego poprzez HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Własny adres">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "W">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Podaj adres wybranego serwera DNS udostępnionego poprzez HTTPS">
