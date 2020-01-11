@@ -983,6 +983,7 @@ permissions-location = Standort
 permissions-location-settings =
     .label = Einstellungen…
     .accesskey = E
+permissions-xr = Virtuelle Realität
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Einstellungen…
