@@ -79,15 +79,15 @@ abuse-report-broken-reason-theme-v2 = 작동하지 않거나 브라우저 화면
 abuse-report-broken-example = 예: 기능이 느리고, 사용하기가 어렵거나 작동하지 않습니다. 웹 사이트의 일부가 로드되지 않거나 비정상적으로 보입니다.
 abuse-report-broken-suggestions-extension =
     버그를 발견하신 것 같습니다. 여기에 신고를 하는 것 외에, 기능 문제를 해결하는 가장 좋은 방법은 확장기능 개발자에게 문의하시는 것입니다.
-    개발자 정보를 얻으시려면 <a data-l10n-name="support-link">확장기능의 웹 사이트를 방문하십시오</a>.
+    개발자 정보를 얻으시려면 <a data-l10n-name="support-link">확장기능의 웹 사이트를 방문하세요</a>.
 abuse-report-broken-suggestions-theme =
     버그를 발견하신 것 같습니다. 여기에 신고를 하는 것 외에, 기능 문제를 해결하는 가장 좋은 방법은 테마 개발자에게 문의하시는 것입니다.
-    개발자 정보를 얻으시려면 <a data-l10n-name="support-link">테마의 웹 사이트를 방문하십시오</a>.
+    개발자 정보를 얻으시려면 <a data-l10n-name="support-link">테마의 웹 사이트를 방문하세요</a>.
 abuse-report-policy-reason = 혐오스럽거나 폭력적, 불법 콘텐츠입니다
 abuse-report-policy-reason-v2 = 증오, 폭력 또는 불법 콘텐츠가 포함되어 있습니다
 abuse-report-policy-suggestions =
     참고: 저작권 및 상표권 문제는 별도의 절차로 보고해야합니다.
-    문제를 보고하려면 <a data-l10n-name="report-infringement-link">이 지침을 사용하십시오</a>.
+    문제를 보고하려면 <a data-l10n-name="report-infringement-link">이 지침을 사용하세요</a>.
 abuse-report-unwanted-reason = 이런 확장기능을 원하지 않았고 제거 할 수 없습니다
 abuse-report-unwanted-reason-v2 = 내가 원한것도 아니고 제거하는 방법도 모르겠습니다
 abuse-report-unwanted-example = 예: 내 허가 없이 응용 프로그램이 설치됐습니다

@@ -39,7 +39,7 @@ config-value-column =
 config-pref-column-header =
     .tooltip = 정렬
 config-column-chooser =
-    .tooltip = 표시하고자 하는 항목을 클릭하십시오.
+    .tooltip = 표시하고자 하는 항목을 클릭하세요
 
 ## These strings are used for the context menu
 
@@ -80,7 +80,7 @@ config-locked = 잠금
 config-property-string = 문자열
 config-property-int = 정수
 config-property-bool = 불린
-config-new-prompt = 환경 설정 이름을 입력하십시오.
+config-new-prompt = 환경 설정 이름을 입력하세요
 config-nan-title = 유효하지 않는 값
 config-nan-text = 입력한 문자가 숫자가 아닙니다.
 # Variables:
