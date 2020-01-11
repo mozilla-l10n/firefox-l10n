@@ -67,7 +67,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "문서 만료">
-<!ENTITY notCached.longDesc "<p>요청한 문서는 더 이상 &brandShortName; 캐시에 저장되어 있지 않습니다.</p><ul><li>보안 문제로 인해 &brandShortName;는 자동적으로 문서를 재 호출 합니다.</li><li>웹 사이트에서 문서를 재 요청 하시려면 다시 시도를 눌러주십시오.</li></ul>">
+<!ENTITY notCached.longDesc "<p>요청하신 문서는 &brandShortName; 캐시에서 사용할 수 없습니다.</p><ul><li>보안 예방책으로 &brandShortName;는 자동으로 민감한 문서를 다시 요청하지 않습니다.</li><li>웹 사이트에서 문서를 다시 요청하려면 다시 시도를 누르세요.</li></ul>">
 
 <!ENTITY netOffline.title "오프라인 모드">
 <!ENTITY netOffline.longDesc2 "
