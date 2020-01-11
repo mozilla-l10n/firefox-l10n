@@ -148,7 +148,7 @@ open-new-link-as-tabs =
     .label = 打开链接在新标签页而非新窗口
     .accesskey = w
 warn-on-close-multiple-tabs =
-    .label = 关闭多个标签页时警告您
+    .label = 批量关闭标签页时向您确认
     .accesskey = m
 warn-on-open-many-tabs =
     .label = 打开多个标签页可能拖慢 { -brand-short-name } 前提醒我
@@ -321,7 +321,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = 采用数字版权管理（DRM）的内容
 play-drm-content =
@@ -910,7 +910,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自定义
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 平衡保护和性能。页面将正常加载。
 content-blocking-etp-strict-desc = 更强大的保护，但可能导致某些网站异常。
