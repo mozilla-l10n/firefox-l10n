@@ -44,6 +44,7 @@ accessibility-text-label-issue-toolbar = Barele de unelte trebuie să fie etiche
 ## issue.
 
 accessibility-keyboard-issue-semantics = Elementele focalizabile trebuie să aibă o semantică interactivă. <a>Află mai multe</a>
+accessibility-keyboard-issue-tabindex = Evită să folosești atribute <code>tabindex</code> cu o valoare mai mare decât zero. <a>Află mai multe</a>
 accessibility-keyboard-issue-action = Elementele interactive trebuie să poată fi activate cu ajutorul unei tastaturi. <a>Află mai multe</a>
 accessibility-keyboard-issue-focusable = Elementele interactive trebuie să fie focalizabile. <a>Află mai multe</a>
 accessibility-keyboard-issue-focus-visible = Este posibil ca elementului focalizabil să îi lipsească elemente de stil pentru focalizare. <a>Află mai multe</a>
