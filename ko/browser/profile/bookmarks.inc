@@ -11,7 +11,7 @@
 #define bookmarks_heading 북마크
 
 #define bookmarks_toolbarfolder 북마크 도구 모음
-#define bookmarks_toolbarfolder_description 북마크 도구 모음에 표시할 북마크를 이 폴더에 추가하십시오.
+#define bookmarks_toolbarfolder_description 북마크 도구 모음에 표시할 북마크를 이 폴더에 추가하세요
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
