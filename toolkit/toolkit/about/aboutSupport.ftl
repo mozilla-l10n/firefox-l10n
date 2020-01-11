@@ -69,7 +69,7 @@ app-basics-key-mozilla = Mozilla 위치 서비스 키
 app-basics-safe-mode = 안전 모드
 show-dir-label =
     { PLATFORM() ->
-        [macos] Finder에 표시
+        [macos] Finder에서 보기
         [windows] 폴더 열기
        *[other] 디렉터리 열기
     }
