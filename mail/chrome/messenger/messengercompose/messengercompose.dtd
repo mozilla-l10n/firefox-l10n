@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Άλλοι τύποι πεδίων διευθυνσιοδότησης">
 <!ENTITY fromAddr2.label "Από">
 <!ENTITY fromAddr.accesskey "π">
 <!ENTITY toAddr.label "Προς:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Πίνακας συνημμένων">
 <!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Εισαγωγή φατσούλας">
 <!ENTITY smiley1Cmd.label "Χαμόγελο">
 <!ENTITY smiley2Cmd.label "Κατσούφιασμα">

@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "Διαμεσολαβητής SSL:">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "Διακομιστής μεσολάβησης HTTPS:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "Σύστημα SOCKS:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Συνδέσεις στο localhost, 127.0.0.1 και ::1 δεν περνούν ποτέ μέσω διαμεσολαβητή.">
+<!ENTITY  noproxyLocalhostDesc.label    "Συνδέσεις στο localhost, 127.0.0.1 και ::1 δεν περνούν ποτέ μέσω διαμεσολαβητή.">
 <!ENTITY  shareproxy.label              "Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα">
 <!ENTITY  shareproxy.accesskey          "δ">
+<!ENTITY  proxyHttpSharing.label        "Χρησιμοποιήστε επίσης αυτό το διακομιστή μεσολάβησης για το HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός πρόσβασης">
 <!ENTITY  autologinproxy.accesskey      "α">
 <!ENTITY  autologinproxy.tooltip        "Αυτή η επιλογή κάνει κρυφά την ταυτοποίησή σας σε διαμεσολαβητές, όταν έχετε αποθηκευμένα τα διαπιστευτήριά τους. Θα ειδοποιηθείτε αν αποτύχει η ταυτοποίηση.">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Ενεργοποίηση DNS αντί HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "γ">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Χρήση προεπιλογής">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "λ">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Να χρησιμοποιηθεί η προκαθορισμένη διεύθυνση URL για την επίλυση DNS μέσω HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Προσαρμοσμένο">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "μ">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Εισάγετε την προτεινόμενη διεύθυνση URL για την επίλυση DNS μέσω HTTPS">
