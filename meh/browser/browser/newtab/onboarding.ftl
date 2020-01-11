@@ -44,7 +44,6 @@ onboarding-fullpage-form-email =
 
 onboarding-sync-welcome-header = Kuiso { -brand-product-name } jii noo´o
 onboarding-sync-welcome-learn-more-link = Ka´vi kue´eka jiie´e Firefox Accounts
-onboarding-sync-form-invalid-input = Nejika chu´unu iin correo vatu
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Kɨ´ɨ
@@ -79,12 +78,14 @@ onboarding-tracking-protection-button2 = Naja satiñu
 onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
 onboarding-browse-privately-button = Síne iin ventana yu´u
+onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
 onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android jee saa sincronizar datos jii inka ka̱a̱.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
 onboarding-send-tabs-button = Kajie´e ni´i Send Tabs
 onboarding-pocket-anywhere-title = Ka´vi jee teso´o ntaka nuu
+onboarding-pocket-anywhere-button = Nasá´á tuku { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Kua´a jii contraseña noo´o ntaka nuu
 onboarding-lockwise-passwords-button2 = Ni'i App
 onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
