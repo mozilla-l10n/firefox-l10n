@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = 모든 창과 탭 복원
 welcome-back-restore-some-label = 사용자가 원하는 하나만 복원
-welcome-back-page-info-link = 부가 기능 및 사용자 지정이 제거되고 브라우저 설정이 기본값으로 복원되었습니다. 그래도 문제가 해결되지 않으면 <a data-l10n-name="link-more">무엇을 할 수 있는지 더 알아보십시오.</a>
+welcome-back-page-info-link = 부가 기능 및 사용자 지정이 제거되고 브라우저 설정이 기본값으로 복원되었습니다. 그래도 문제가 해결되지 않으면 <a data-l10n-name="link-more">무엇을 할 수 있는지 더 알아보세요.</a>

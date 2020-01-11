@@ -15,7 +15,7 @@ psmerr-ssl2-disabled = 보안에 취약한 오래된 SSL 프로토콜을 사용�
 psmerr-hostreusedissuerandserial =
     유효하지 않은 인증서를 받았습니다. 아래 사항을 서버 관리자에게 제공하시기 바랍니다.
     
-    제공한 인증서가 인증 기관에서 발급한 다른 인증서와 같은 시리얼 넘버를 가지고 있습니다. 단일 시리얼 넘버를 가진 새로운 인증서를 제공해 주십시오.
+    제공한 인증서가 인증 기관에서 발급한 다른 인증서와 같은 시리얼 넘버를 가지고 있습니다. 단일 시리얼 넘버를 가진 새로운 인증서를 제공해 주세요.
 ssl-error-export-only-server = 안전하게 통신 할 수 없습니다. 상대방이 높은 등급의 암호화를 지원하지 않습니다.
 ssl-error-us-only-server = 안전하게 통신 할 수 없습니다. 상대방이 지원하지 않는 높은 등급의 암호화를 요청합니다.
 ssl-error-no-cypher-overlap = 상대방과 안전하게 통신 할 수 없음: 일반 암호화 알고리듬이 없습니다.
@@ -253,8 +253,8 @@ sec-error-pkcs12-unable-to-write = 내보낼 수 없습니다.  내보내기 파
 sec-error-pkcs12-unable-to-read = 가져올 수 없습니다.  가져오기 파일을 읽을 수 없습니다.
 sec-error-pkcs12-key-database-not-initialized = 내보낼 수 없습니다.  키 저장소가 훼손되거나 삭제됐습니다.
 sec-error-keygen-fail = 공개/개인키 쌍을 생성할 수 없습니다.
-sec-error-invalid-password = 입력한 비밀번호가 유효하지 않습니다. 다른 것을 골라보십시오.
-sec-error-retry-old-password = 입력한 이전 비밀번호가 틀렸습니다. 다시 입력해주십시오.
+sec-error-invalid-password = 입력한 비밀번호가 유효하지 않습니다. 다른 것을 골라보세요.
+sec-error-retry-old-password = 이전 비밀번호가 잘못 입력되었습니다. 다시 시도하세요.
 sec-error-bad-nickname = 인증서 별명이 이미 사용 중입니다.
 sec-error-not-fortezza-issuer = 상대방 FORTEZZA 체인이 FORTEZZA 인증서가 아닌 것을 포함하고 있습니다.
 sec-error-cannot-move-sensitive-key = 중요한 키는 필요로하는 슬롯으로 이동될 수 없습니다.
