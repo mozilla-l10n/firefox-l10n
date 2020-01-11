@@ -46,7 +46,7 @@ accessibility-text-label-issue-toolbar = 도구 모음이 두 개 이상 있는 
 ## issue.
 
 accessibility-keyboard-issue-semantics = 포커스 가능한 요소에는 대화형 의미가 있어야 합니다. <a>더 알아보기</a>
-accessibility-keyboard-issue-tabindex = 0 보다 큰 <code>tabindex</code> 속성을 사용하지 마십시오. <a>더 알아보기</a>
+accessibility-keyboard-issue-tabindex = 0 보다 큰 <code>tabindex</code> 속성을 사용하지 마세요. <a>더 알아보기</a>
 accessibility-keyboard-issue-action = 대화형 요소는 키보드를 사용하여 활성화 할 수 있어야 합니다. <a>더 알아보기</a>
 accessibility-keyboard-issue-focusable = 대화형 요소는 포커스 가능해야 합니다. <a>더 알아보기</a>
 accessibility-keyboard-issue-focus-visible = 포커스 가능한 요소에 포커스 스타일이 없을 수 있습니다. <a>더 알아보기</a>
