@@ -21,19 +21,16 @@
 <!ENTITY firstrun_data_message "Nas lugha de dhàta, caomhnadh nas motha">
 <!ENTITY firstrun_data_subtext2 "Cuir na dealbhan dheth is lughdaich na chaitheas tu de dhàta air na lìon.">
 <!ENTITY firstrun_sync_title "Sioncronachadh">
-<!ENTITY updatednewfirstrun_sync_title "Cunntas">
-<!ENTITY firstrun_sync_message2 "Lean ort far an do stad thu roimhe.">
+<!ENTITY firstrun_sync_message3 "Sioncronaich na comharran-lìn, an eachdraidh is na faclan-faire agad ris an fhòn agad.">
 <!ENTITY firstrun_sync_subtext2 "Cleachd gleus an t-sioncronachaidh is faigh greim air na comharran-lìn, faclan-faire is rudan eile a shàbhail thu ann am &brandShortName; air feadh nan uidheaman agad.">
 <!ENTITY newfirstrun_sync_subtext "Sioncronaich na rudan a shàbhaileas tu air Firefox Mobile ris an desktop agad air dòigh phrìobhaideach is thèarainteach.">
-<!ENTITY updatednewfirstrun_sync_subtext "Clàraich a-steach dhan chunntas agad is cuir &brandShortName; gu làn-fheum">
+<!ENTITY firstrun_sendtab_title "Cuir an taba">
+<!ENTITY firstrun_sendtab_message "Co-roinn tabaichean on bhrabhsair mhobile ris an desktop agad – sa bhad.">
 <!ENTITY firstrun_signin_message "Dèan ceangal, dèan toiseach-tòiseachaidh">
-<!ENTITY firstrun_signin_button "Clàraich a-steach gun t-sioncronachadh">
-<!ENTITY newfirstrun_signin_button "Cuir an sioncronachadh air">
-<!ENTITY updatednewfirstrun_signin_button "Clàraich a-steach gu &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
+<!ENTITY onboard_start_button_browser "Tòisich air brabhsadh">
 <!ENTITY firstrun_button_notnow "Chan ann an-dràsta">
 <!ENTITY firstrun_button_next "Air adhart">
-
+<!ENTITY firstrun_signup_button "Clàraich leinn">
 
 <!ENTITY firstrun_tabqueue_title "Ceanglaichean">
 
@@ -496,6 +493,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Co-roinn">
 <!ENTITY share_title "Co-roinn slighe">
 <!ENTITY share_image_failed "Cha ghabh an dealbh seo a cho-roinneadh">
+<!ENTITY share_error_toast_message "Chan urrainn dhuinn a cho-roinneadh dhan aplacaid a dh’iarr thu">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
 <!ENTITY print "Clò-bhuail">
 <!ENTITY view_page_source "Seall bun-tùs na duilleige">
@@ -596,7 +594,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Ionad">
 <!ENTITY bookmark_edit_keyword "Facal-luirg">
 <!ENTITY bookmark_select_folder "Tagh pasgan">
-
 <!ENTITY bookmark_edit_undo "Neo-dhèan">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -877,8 +874,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Cruthaich comharran-leabhair san t-sealladh leughaidh is leugh iad far loidhne.">
 <!ENTITY helper_triple_readerview_open_button "Cuir ris na comharran-lìn">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Fàilte gu &brandShortName;">
+<!ENTITY activity_stream_signin_description "Tòisich air sioncronachadh nan comharran-lìn, faclan-faire is mòran a bharrachd leis a’ chunntas Firefox agad.">
+<!ENTITY activity_stream_signup_button "Clàraich leinn">
+<!ENTITY activity_stream_signin_prompt "A bheil cunntas agad mu thràth?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Clàraich a-steach.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Am Firefox ùr-nodha, a’ tighinn ann an 2020">
 
 <!ENTITY activity_stream_topsites "Brod nan làrach">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
