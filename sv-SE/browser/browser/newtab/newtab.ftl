@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     högt kontrollerat innehåll från utvalda sponsorer. Var säker, din surfdata
     lämnar aldrig din personliga kopia av { -brand-product-name } — vi ser inte den och våra
     sponsorer inte heller.
+newtab-privacy-modal-paragraph-2 =
+    Förutom att servera fängslande berättelser, visar vi dig också relevant,
+    högt kontrollerat innehåll från utvalda sponsorer. Du kan vara säker på att <strong>din surfinformation
+    inte lämnar din personliga kopia av { -brand-product-name }</strong> — vi ser inte den och våra
+    sponsorer gör det inte heller.
 newtab-privacy-modal-link = Lär dig hur sekretess fungerar på den nya fliken
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Ta bort bokmärke
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi laddade nästa
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populära ämnen:
 newtab-pocket-more-recommendations = Fler rekommendationer
-newtab-pocket-how-it-works = Hur fungerar det
 newtab-pocket-whats-pocket = Vad är { -pocket-brand-name }?
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
 newtab-pocket-cta-text = Spara de nyheter som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
