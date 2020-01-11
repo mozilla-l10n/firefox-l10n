@@ -29,7 +29,7 @@ protection-report-page-title = 개인 정보 보호
 protection-report-content-title = 개인 정보 보호
 etp-card-title = 향상된 추적 방지 기능
 etp-card-content = 추적기는 온라인에서 사용자를 따라다니며 브라우징 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
-protection-report-etp-card-content-custom-not-blocking = 현재 모든 보호 기능이 꺼져 있습니다. { -brand-short-name } 보호 설정에서 차단할 추적기를 선택하십시오.
+protection-report-etp-card-content-custom-not-blocking = 현재 모든 보호 기능이 꺼져 있습니다. { -brand-short-name } 보호 설정에서 차단할 추적기를 선택하세요.
 protection-report-manage-protections = 설정 관리
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -52,7 +52,7 @@ lockwise-header-content = { -lockwise-brand-name }은 비밀번호를 브라우�
 lockwise-header-content-logged-in = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
 protection-report-view-logins-button = 로그인 보기
     .title = 저장된 로그인으로 이동
-lockwise-no-logins-content = <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 앱을 통해 어디서나 비밀번호를 사용하십시오.
+lockwise-no-logins-content = <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 앱을 통해 어디서나 비밀번호를 사용하세요.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -62,14 +62,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = { -sync-brand-short-name } 켜기…
     .title = Sync 설정으로 가기
-manage-devices = 기기 관리
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-       *[other] 다른 { $count }개의 기기에 동기화중
-    }
-lockwise-sync-not-syncing-devices = 다른 기기와 동기화되지 않습니다.
 manage-connected-devices = 기기 관리…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
@@ -77,7 +69,7 @@ lockwise-connected-device-status =
     { $count ->
        *[other] { $count } 기기에 연결됨
     }
-monitor-title = 데이터 유출에 주의하십시오
+monitor-title = 데이터 유출에 주의하세요
 monitor-link = 작동 원리
 monitor-header-content-no-account = { -monitor-brand-name }를 확인하여 사용자가 알려진 데이터 유출 사건의 피해자인지 확인하고 새로운 유출에 대한 알림을 받습니다.
 monitor-header-content-signed-in = 알려진 데이터 유출 사건에 사용의 정보가 있으면 { -monitor-brand-name }가 경고합니다.
@@ -110,7 +102,7 @@ full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-       *[other] 저장된 로그인이 데이터 유출에 노출되었을 수 있습니다. 더 나은 온라인 보안을 위해 이 비밀번호를 변경하십시오. <a data-l10n-name="lockwise-link">저장된 로그인 보기</a>
+       *[other] 저장된 로그인이 데이터 유출에 노출되었을 수 있습니다. 더 나은 온라인 보안을 위해 이 비밀번호를 변경하세요. <a data-l10n-name="lockwise-link">저장된 로그인 보기</a>
     }
 
 ## The title attribute is used to display the type of protection.

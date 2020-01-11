@@ -59,7 +59,7 @@ permissions-capabilities-listitem-allow-session =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = 유효하지 않은 호스트명
-permissions-invalid-uri-label = 유효한 호스트명을 입력하십시오.
+permissions-invalid-uri-label = 유효한 호스트명을 입력하세요.
 
 ## Exceptions - Tracking Protection
 
@@ -84,7 +84,7 @@ permissions-exceptions-cookie-desc = 웹사이트별로 쿠키나 사이트 데�
 permissions-exceptions-popup-window =
     .title = 웹사이트 허용 - 팝업
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = 특정 웹 사이트에 대한 팝업창 허용을 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하십시오.
+permissions-exceptions-popup-desc = 특정 웹 사이트에 대한 팝업창 허용을 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하세요.
 
 ## Exceptions - Saved Logins
 
@@ -98,7 +98,7 @@ permissions-exceptions-saved-logins-desc = 다음 웹사이트의 로그인이 �
 permissions-exceptions-addons-window =
     .title = 웹사이트 허용 - 부가기능 설치
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하십시오.
+permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하세요.
 
 ## Exceptions - Autoplay Media
 

@@ -36,7 +36,7 @@
 
 <!ENTITY importSource.title             "설정과 데이터 가져오기">
 <!ENTITY importItems.title              "가져올 항목">
-<!ENTITY importItems.label              "가져올 항목을 선택하십시오:">
+<!ENTITY importItems.label              "가져올 항목을 선택하세요:">
 
 <!ENTITY migrating.title                "가져오는 중…">
 <!ENTITY migrating.label                "다음 항목들을 가져오고 있습니다…">
