@@ -16,8 +16,8 @@ abuse-report-subtitle = 무엇이 문제입니까?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = 제작: <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
-    어떤 문제를 선택해야 하는지 잘 모르시겠습니까?
-    <a data-l10n-name="learnmore-link">확장기능 및 테마의 보고에 대해 더 알아보기</a>
+    어떤 걸 선택해야 할지 잘 모르시겠습니까?
+    <a data-l10n-name="learnmore-link">확장기능 및 테마의 신고에 대해 더 알아보기</a>
 abuse-report-submit-description = 문제 설명 (선택 사항)
 abuse-report-textarea =
     .placeholder = 구체적인 사항이 있으면 문제를 해결하는 것이 더 쉬워집니다. 지금 어떤 상황인지 설명해 주세요. 웹을 건강하게 유지하도록 도와 주셔서 감사합니다.
@@ -69,8 +69,8 @@ abuse-report-settings-reason-v2 = 나에게 알리거나 묻지 않고 검색 �
 abuse-report-settings-suggestions = 확장기능을 신고하기 전에 설정을 변경해보세요:
 abuse-report-settings-suggestions-search = 기본 검색 설정 변경
 abuse-report-settings-suggestions-homepage = 홈페이지 및 새 탭 변경
-abuse-report-deceptive-reason = 아무 것도 아닌 척합니다
-abuse-report-deceptive-reason-v2 = 다른 것인 척 합니다
+abuse-report-deceptive-reason = 위장합니다
+abuse-report-deceptive-reason-v2 = 위장합니다
 abuse-report-deceptive-example = 예: 오해의 소지가 있는 설명 또는 이미지
 abuse-report-broken-reason-extension = 작동하지 않거나 웹 사이트를 손상시키거나 { -brand-product-name }를 느리게합니다
 abuse-report-broken-reason-theme = 작동하지 않거나 브라우저 표시를 손상시킵니다
