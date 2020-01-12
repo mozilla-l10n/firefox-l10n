@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     goed trochljochte ynhâld fan selektearre sponsors. Wês gerêst, jo navigaasjegegevens
     ferlitte nea jo persoanlike eksimplaar fan { -brand-product-name } – wy krije se net te sjen,
     en ús sponsors ek net.
+newtab-privacy-modal-paragraph-2 =
+    Neist it fertellen fan boeiende ferhalen, toane wy jo ek relevante,
+    goed trochljochte ynhâld fan selektearre sponsors. Wês gerêst, <strong>jo navigaasjegegevens
+    ferlitte nea jo persoanlike eksimplaar fan { -brand-product-name }</strong> – wy krije se net te sjen,
+    en ús sponsors ek net.
 newtab-privacy-modal-link = Untdek hoe't privacy wurket op it nije ljepblêd
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Blêdwizer fuortsmite
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksj
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populêre ûnderwerpen:
 newtab-pocket-more-recommendations = Mear oanrekommandaasjes
-newtab-pocket-how-it-works = Hoe it wurket
 newtab-pocket-whats-pocket = Wat is { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } brûke
 newtab-pocket-cta-text = Bewarje de ferhalen dy't jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
