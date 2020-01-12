@@ -9,12 +9,12 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name }에 대한 신고
-abuse-report-title-extension = 이 확장기능을 { -vendor-short-name }에 신고
+abuse-report-title-extension = 이 확장기능을 { -vendor-short-name }에 신고하기
 abuse-report-title-theme = 이 테마를 { -vendor-short-name }에 신고
 abuse-report-subtitle = 무엇이 문제입니까?
 # Variables:
 #   $author-name (string) - Name of the add-on author
-abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a> 님이 작성
+abuse-report-addon-authored-by = 제작: <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     어떤 문제를 선택해야 하는지 잘 모르시겠습니까?
     <a data-l10n-name="learnmore-link">확장기능 및 테마의 보고에 대해 더 알아보기</a>
@@ -40,7 +40,7 @@ abuse-report-submit-button = 제출
 
 abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고가 취소되었습니다.
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내는 중입니다.
-abuse-report-messagebar-submitted = 신고해 주셔서 감사합니다. <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거 하시겠습니까?
+abuse-report-messagebar-submitted = 신고해 주셔서 감사합니다. <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거하시겠습니까?
 abuse-report-messagebar-submitted-noremove = 보고서를 제출해 주셔서 감사합니다.
 abuse-report-messagebar-removed-extension = 신고해 주셔서 감사합니다. 확장기능 <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거했습니다.
 abuse-report-messagebar-removed-theme = 신고해 주셔서 감사합니다. 테마 <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거했습니다.
