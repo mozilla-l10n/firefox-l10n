@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 软件使用">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "打开 MIDI 面板">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此站点更多权限。">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "您已阻止此网站使用您的摄像头。">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已阻止此网站使用您的麦克风。">
 <!ENTITY urlbar.screenBlocked.tooltip            "您已阻止此网站共享您的屏幕。">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "您已阻止此网站使用 Adobe Flash 插件。">
 <!ENTITY urlbar.midiBlocked.tooltip              "您已阻止此网站访问 MIDI。">
 <!ENTITY urlbar.installBlocked.tooltip           "您已阻止此网站安装附加组件。">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此站点更多权限。">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
@@ -937,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "咦？">
+<!ENTITY protections.notBlocking.why.label "为什么？">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "隐私保护处于关闭状态，已载入此网站的所有跟踪器。">
 <!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
