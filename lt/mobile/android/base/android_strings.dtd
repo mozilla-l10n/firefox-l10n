@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Mažiau duomenų, daugiau taupymo">
 <!ENTITY firstrun_data_subtext2 "Blokuokite paveikslus, norėdami svetainėse sunaudoti mažiau duomenų.">
 <!ENTITY firstrun_sync_title "Sinchronizavimas">
-<!ENTITY updatednewfirstrun_sync_title "Paskyra">
-<!ENTITY firstrun_sync_message2 "Tęskite nuo ten, kur baigėte.">
 <!ENTITY firstrun_sync_message3 "Sinchronizuokite savo adresyną, žurnalą, ir slaptažodžius su telefonu.">
 <!ENTITY firstrun_sync_subtext2 "Naudokitės „Sync“ norėdami rasti adresyno įrašus, slaptažodžius bei kitus su „&brandShortName;“ išsaugotus dalykus, visuose savo įrenginiuose.">
 <!ENTITY newfirstrun_sync_subtext "Sinchronizuokite mobiliojoje „Firefox“ įrašytus dalykus su kompiuterine „Firefox“, privačiai ir saugiai.">
-<!ENTITY updatednewfirstrun_sync_subtext "Prisijungę prie savo paskyros išnaudosite daugiau „&brandShortName;“ galimybių">
-<!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
 <!ENTITY firstrun_sendtab_title "Nusiųsti kortelę">
 <!ENTITY firstrun_sendtab_message "Dalinkitės kortelėmis iš telefono į kompiuterį – akimirksniu.">
-<!ENTITY firstrun_signin_button "Prisijungti prie „Sync“">
-<!ENTITY newfirstrun_signin_button "Įjungti „Sync“">
-<!ENTITY updatednewfirstrun_signin_button "Prisijungti prie „&brandShortName;“">
+<!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
 <!ENTITY onboard_start_button_browser "Pradėti naršymą">
 <!ENTITY firstrun_button_notnow "Ne dabar">
 <!ENTITY firstrun_button_next "Toliau">
-
-<!ENTITY firstrun_signin_button2 "Prisijungti">
+<!ENTITY firstrun_signup_button "Registruotis">
 
 <!ENTITY firstrun_tabqueue_title "Saitai">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Jūs">
 <!ENTITY firstrun_account_message "Turite „&brandShortName;“ kitame įrenginyje?">
-
-<!ENTITY firstrun_signup_button "Registruotis">
 
 <!ENTITY  onboard_start_restricted1 "Būkite saugūs su šia supaprastinta „&brandShortName;“ versija.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Esate prisijungę prie">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Sveiki, čia „&brandShortName;“">
 <!ENTITY activity_stream_signin_description "Pradėkite sinchronizuoti adresyną, slaptažodžius, ir daugiau su savo „Firefox“ paskyra.">
-<!ENTITY activity_stream_signin_button "Prisijungti">
-
 <!ENTITY activity_stream_signup_button "Registruotis">
 <!ENTITY activity_stream_signin_prompt "Jau turite paskyrą?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Prisijunkite.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Jūsų naujoji „Firefox“, atkeliaujanti 2020-aisiais">
+<!ENTITY activity_stream_firefox_promo_description "Netrukus: pagerintas našumas, patobulinta apsauga nuo stebėjimo. Bei funkcionalumas, skirtas padėti jums rasti, išsaugoti, ir dalintis tuo, kas patinka internete.">
+<!ENTITY activity_stream_firefox_promo_button "Pamatykite iš anksto">
 
 <!ENTITY activity_stream_topsites "Lankomiausios">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
