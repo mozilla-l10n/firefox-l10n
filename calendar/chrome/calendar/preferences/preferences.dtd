@@ -6,5 +6,6 @@
 <!ENTITY  paneAlarms.title        "Mementouri">
 <!ENTITY  paneCategories.title    "Categorii">
 <!ENTITY  paneViews.title         "Vizualizări">
+<!ENTITY  panelHeader.title       "Calendar">
 <!ENTITY  panelReminder.title     "Mementouri">
 <!ENTITY  panelCatecory.title     "Categorii">
