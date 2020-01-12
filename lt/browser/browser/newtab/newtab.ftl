@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     gerai vertinamą turinį iš atrinktų rėmėjų. Būkite ramūs – jūsų naršymo
     duomenys niekada neiškeliauja už jūsų asmeninės „{ -brand-product-name }“ ribų – mes jų nematome,
     kaip ir nemato mūsų rėmėjai.
+newtab-privacy-modal-paragraph-2 =
+    Mes ne tik pateikiame įtraukiančias istorijas, bet ir rodome susijusį,
+    gerai vertinamą turinį iš atrinktų rėmėjų. Būkite ramūs – <strong>jūsų naršymo
+    duomenys niekada neiškeliauja už jūsų asmeninės „{ -brand-product-name }“ ribų</strong> – mes jų nematome,
+    kaip ir nemato mūsų rėmėjai.
 newtab-privacy-modal-link = Sužinokite, kaip naujoje kortelėje veikia privatumas
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Pašalinti iš adresyno
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oi! Mes beveik įkėlėme 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populiarios temos:
 newtab-pocket-more-recommendations = Daugiau rekomendacijų
-newtab-pocket-how-it-works = Kaip tai veikia
 newtab-pocket-whats-pocket = Kas yra „{ -pocket-brand-name }“?
 newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
