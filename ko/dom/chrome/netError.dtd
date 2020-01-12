@@ -38,12 +38,12 @@
 <!ENTITY netOffline.longDesc2 "<p>브라우저가 오프라인 모드에서 작업 중이며 요청한 항목에 접속할 수 없습니다.</p><ul><li>컴퓨터가 활성화된 네트워크에 접속되어 있습니까?</li><li>브라우저를 온라인 모드로 전환하고 다시 시도해 주시기 바랍니다.</li></ul>">
 
 <!ENTITY contentEncodingError.title "콘텐츠 인코딩 오류">
-<!ENTITY contentEncodingError.longDesc "<p>보려는 페이지가 유효하지 않거나 지원하지 않는 압축 형식을 사용하므로 해당 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>보려는 페이지가 유효하지 않거나 지원하지 않는 압축 형식을 사용하므로 해당 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
 
 <!ENTITY unsafeContentType.title "안전하지 않은 파일 형식">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li>
+  <li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li>
 </ul>
 ">
 
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>해당 사이트가 네트워크 요청에 예기치 않은 방식으로 반응했기 때문에 브라우저는 계속할 수 없습니다.</p>">
 
 <!ENTITY nssFailure2.title "보안 연결 실패">
-<!ENTITY nssFailure2.longDesc2 "<p>받은 데이터의 신뢰성을 확인할 수 없으므로 보시려는 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>받은 데이터의 신뢰성을 확인할 수 없으므로 보시려는 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
 
 <!ENTITY nssBadCert.title "보안 연결 실패">
 <!ENTITY nssBadCert.longDesc2 "<ul><li>현재 웹 서버 설정에 문제가 있거나 누군가가 원래 접속하려던 진짜 서버처럼 가장하고 있을 가능성이 있습니다.</li><li>만약 이전에 이 웹 서버에 정상적으로 접속을 한적이 있다면, 일시적인 문제일 수 있으니 나중에 다시 접속해 보시기 바랍니다.</li></ul>">
@@ -87,10 +87,10 @@
 <!ENTITY xfoBlocked.longDesc "<p>페이지에 허용하지 않는 X-Frame-Options 정책이 있으므로 브라우저가 이 컨텍스트에서 이 페이지를 로드하지 못했습니다.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "잘못된 콘텐츠 오류">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여서 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
 
 <!ENTITY remoteXUL.title "원격 XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "연결이 안전하지 않음">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -100,4 +100,4 @@
 <!ENTITY blockedByPolicy.title "차단된 페이지">
 
 <!ENTITY networkProtocolError.title "네트워크 프로토콜 오류">
-<!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
