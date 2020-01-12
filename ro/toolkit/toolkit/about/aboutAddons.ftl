@@ -335,9 +335,15 @@ addon-options-button =
 
 report-addon-button = Raportează
 remove-addon-button = Elimină
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Nu se poate elimina <a data-l10n-name="link">De ce?</a>
 disable-addon-button = Dezactivează
 enable-addon-button = Activează
 expand-addon-button = Mai multe opțiuni
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Activează
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opțiuni
@@ -414,6 +420,11 @@ addon-detail-private-browsing-disallow = Nu permite
 addon-badge-recommended =
     .title = Recomandată
     .alt = Recomandată
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } recomandă numai extensiile care ne întrunesc standardele de securitate și performanță
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Actualizări disponibile
 recent-updates-heading = Actualizări recente
 release-notes-loading = Se încarcă...
@@ -432,10 +443,12 @@ theme-heading = Gestionează temele
 plugin-heading = Gestionează pluginurile
 dictionary-heading = Gestionează dicționarele
 locale-heading = Gestionează limbile
+updates-heading = Gestionează-ți actualizările
 discover-heading = Personalizează { -brand-short-name }
 shortcuts-heading = Gestionează comenzile rapide ale extensiilor
 theme-heading-search-label = Găsește mai multe teme
 extension-heading-search-label = Găsește mai multe extensii
+default-heading-search-label = Caută mai multe suplimente
 addons-heading-search-input =
     .placeholder = Caută pe addons.mozilla.org
 addon-page-options-button =

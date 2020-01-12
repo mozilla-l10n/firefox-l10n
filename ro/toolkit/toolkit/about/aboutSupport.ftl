@@ -150,6 +150,22 @@ intl-locales-default = Limba implicită
 intl-os-title = Sistem de operare
 intl-os-prefs-system-locales = Limbile sistemului
 intl-regional-prefs = Preferințe regionale
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Depanare la distanță (protocol Chromium)
+remote-debugging-accepting-connections = Acceptarea conexiunilor
+remote-debugging-url = URL
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -253,6 +269,7 @@ d3d11video-crash-guard = Decodor video D3D11
 d3d9video-crash-buard = Decodor video D3D9
 d3d9video-crash-guard = Decodor video D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Decodor video WMF VPX
 reset-on-next-restart = Resetează la următoarea repornire
 gpu-process-kill-button = Termină procesul GPU
 gpu-device-reset = Resetarea dispozitivului

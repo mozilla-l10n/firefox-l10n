@@ -188,6 +188,7 @@ language-name-tlh = Klingoniană
 language-name-tn = Tswana
 language-name-to = Tonga
 language-name-tr = Turcă
+language-name-trs = Triqui
 language-name-ts = Tsonga
 language-name-tt = Tătară
 language-name-tw = Twi
