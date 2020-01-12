@@ -8,6 +8,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Rapoarte de defecțiuni
+submit-all-button-label = Trimite tot
 delete-button-label = Șterge-le pe toate
 delete-confirm-title = Sigur vrei asta?
 delete-unsubmitted-description = Acest lucru va șterge toate rapoartele de defecțiuni netrimise și este ireversibil.

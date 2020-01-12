@@ -9,12 +9,14 @@ ok = Ok
 http = HTTP
 sockets = Socketuri
 dns = DNS
+dnssuffix = Sufix DNS
 websockets = WebSockets
 refresh = Reîmprospătează
 auto-refresh = Reîmprospătează automat la fiecare 3 secunde
 hostname = Numele gazdei
 port = Port
 http2 = HTTP/2
+about-networking-http-version = Versiune HTTP
 ssl = SSL
 active = Activ(ă)
 idle = Inactiv(ă)
@@ -65,5 +67,5 @@ networkid-id = ID rețea
 networkid-isUp = Link stabilit
 networkid-statusKnown = Starea linkului este necunoscută
 
-
+##
 

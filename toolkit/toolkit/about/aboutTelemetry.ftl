@@ -78,6 +78,7 @@ about-telemetry-settings-explanation = Telemetria colectează { about-telemetry-
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Fiecare bucată de informație este trimisă ca fiind împachetată în „<a data-l10n-name="ping-link">pinguri</a>”. Acum te uiți la pingul { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Fiecare bucată de informație este trimisă ca fiind împachetată în „<a data-l10n-name="ping-link">pinguri</a>”. Acum te uiți la pingul actual.
+about-telemetry-data-details-current = Fiecare informație este trimisă în pachete în „<a data-l10n-name="ping-link">pinguri</a>”. Acum vezi datele curente.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -104,6 +105,8 @@ about-telemetry-no-search-results-all = Ne pare rău! Nu există rezultate în v
 about-telemetry-no-data-to-display = Ne pare rău! În prezent nu sunt date disponibile în „{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = date curente
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = toate
 # button label to copy the histogram
