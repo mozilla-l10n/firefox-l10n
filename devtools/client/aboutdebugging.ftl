@@ -11,6 +11,10 @@
 
 # Sidebar strings
 
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = En espèra del navegador…
 
 # Setup Page strings
 
