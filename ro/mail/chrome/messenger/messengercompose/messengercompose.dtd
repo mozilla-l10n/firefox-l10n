@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Alte tipuri de câmpuri de adresare">
 <!ENTITY fromAddr2.label "De la">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Către:">
