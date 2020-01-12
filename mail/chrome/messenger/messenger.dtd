@@ -335,30 +335,30 @@
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Mesaĝo">
 <!ENTITY msgMenu.accesskey "M">
-<!ENTITY newMsgCmd.label "New Message">
+<!ENTITY newMsgCmd.label "Nova mesaĝo">
 <!ENTITY newMsgCmd.accesskey "N">
-<!ENTITY newNewMsgCmd.label "Message">
+<!ENTITY newNewMsgCmd.label "Mesaĝo">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.label "Arĥivi">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
-<!ENTITY cancelNewsMsgCmd.label "Cancel Message">
-<!ENTITY cancelNewsMsgCmd.accesskey "C">
-<!ENTITY replyMsgCmd.label "Reply">
+<!ENTITY cancelNewsMsgCmd.label "Rezigni mesaĝon">
+<!ENTITY cancelNewsMsgCmd.accesskey "z">
+<!ENTITY replyMsgCmd.label "Respondi">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Reply to Sender Only">
+<!ENTITY replySenderCmd.label "Respondi nur al sendinto">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
-<!ENTITY replyNewsgroupCmd2.accesskey "u">
-<!ENTITY replyToAllMsgCmd.label "Reply to All">
-<!ENTITY replyToAllMsgCmd.accesskey "p">
+<!ENTITY replyNewsgroupCmd2.label "Respondi al novaĵgrupo">
+<!ENTITY replyNewsgroupCmd2.accesskey "g">
+<!ENTITY replyToAllMsgCmd.label "Respondi al ĉiuj">
+<!ENTITY replyToAllMsgCmd.accesskey "j">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToListMsgCmd.label "Reply to List">
-<!ENTITY replyToListMsgCmd.accesskey "L">
+<!ENTITY replyToListMsgCmd.label "Respondi al listo">
+<!ENTITY replyToListMsgCmd.accesskey "l">
 <!ENTITY replyToListMsgCmd.key "l">
-<!ENTITY forwardMsgCmd.label "Forward">
-<!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.label "Plusendi">
+<!ENTITY forwardMsgCmd.accesskey "P">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Forward As">
 <!ENTITY forwardAsMenu.accesskey "w">
