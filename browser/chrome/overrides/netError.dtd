@@ -79,14 +79,14 @@
 <!ENTITY contentEncodingError.title "콘텐츠 인코딩 오류">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>웹 사이트 관리자에게 현재 문제를 알려 주시기 바랍니다.</li>
+  <li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "안전하지 않은 파일 유형">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>웹 사이트 관리자에게 현재 문제를 알려 주시기 바랍니다.</li>
+  <li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li>
 </ul>
 ">
 
@@ -143,7 +143,7 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>받은 데이터의 신뢰성을 확인할 수 없으므로 보시려는 페이지를 표시할 수 없습니다.</li>
-  <li>웹 사이트 관리자에게 문의해 주세요.</li>
+  <li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li>
 </ul>
 ">
 
@@ -193,7 +193,7 @@ was trying to connect. -->
 <!ENTITY xfoBlocked.longDesc "<p>페이지에 허용하지 않는 X-Frame-Options 정책이 있으므로 &brandShortName;가 이 컨텍스트에서 이 페이지를 로드하지 못했습니다.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "손상된 콘텐츠 오류">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여서 페이지를 표시할 수 없습니다.</p><ul><li>이 문제를 웹사이트 소유자에게 알려주세요.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "위험을 감수하고 계속">
 
@@ -201,7 +201,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "더 알아보기…">
 
 <!ENTITY remoteXUL.title "원격 XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>현재 문제에 대해 웹 사이트 관리자에게 알려 주시기 바랍니다.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "보안 접속을 할 수 없음">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
@@ -238,4 +238,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "TLS 1.0 및 1.1 활성화">
 
 <!ENTITY networkProtocolError.title "네트워크 프로토콜 오류">
-<!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 소유자에게 이 문제에 대해 문의하시기 바랍니다.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주세요.</li></ul>">
