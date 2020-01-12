@@ -360,18 +360,21 @@
 <!ENTITY forwardMsgCmd.label "Plusendi">
 <!ENTITY forwardMsgCmd.accesskey "P">
 <!ENTITY forwardMsgCmd.key "l">
-<!ENTITY forwardAsMenu.label "Forward As">
-<!ENTITY forwardAsMenu.accesskey "w">
-<!ENTITY forwardAsInline.label "Inline">
-<!ENTITY forwardAsInline.accesskey "I">
-<!ENTITY forwardAsAttachmentCmd.label "Attachment">
-<!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editAsNewMsgCmd.label "Edit As New Message">
-<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY forwardAsMenu.label "Plusendi kiel">
+<!ENTITY forwardAsMenu.accesskey "k">
+<!ENTITY forwardAsInline.label "enhavon de mesaĝo">
+<!ENTITY forwardAsInline.accesskey "e">
+<!ENTITY forwardAsAttachmentCmd.label "kunsendaĵon">
+<!ENTITY forwardAsAttachmentCmd.accesskey "k">
+<!ENTITY editAsNewMsgCmd.label "Redakti kiel novan mesaĝon">
+<!ENTITY editAsNewMsgCmd.accesskey "e">
 <!ENTITY editAsNewMsgCmd.key "e">
-<!ENTITY editDraftMsgCmd.label "Edit Draft Message">
-<!ENTITY editDraftMsgCmd.accesskey "D">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY editDraftMsgCmd.label "Redakti malneton">
+<!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editTemplateMsgCmd.label "Redakti ŝablonon">
+<!ENTITY editTemplateMsgCmd.accesskey "b">
+<!ENTITY newMsgFromTemplateCmd.label "Nova mesaĝo el ŝablono">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Create Filter From Message…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Move To">
