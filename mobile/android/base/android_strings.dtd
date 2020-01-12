@@ -21,22 +21,16 @@
 <!ENTITY firstrun_data_message "Trafic de date mai mic, mai mult trafic economisit">
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">
 <!ENTITY firstrun_sync_title "Sincronizare">
-<!ENTITY updatednewfirstrun_sync_title "Cont">
-<!ENTITY firstrun_sync_message2 "Continuă de unde ai rămas.">
 <!ENTITY firstrun_sync_message3 "Sincronizează-ți marcajele, istoricul și parolele pe telefon.">
 <!ENTITY firstrun_sync_subtext2 "Folosește Sync pentru a găsi pe toate dispozitivele tale marcajele, parolele și celelalte lucruri pe care le salvezi în &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizează lucrurile salvate pe dispozitivul mobil cu Firefox pentru desktop, în mod privat și sigur.">
-<!ENTITY updatednewfirstrun_sync_subtext "Intră în cont pentru a obține maximul de la &brandShortName;">
-<!ENTITY firstrun_signin_message "Conectează-te și începe">
+<!ENTITY firstrun_sendtab_title "Trimite fila">
 <!ENTITY firstrun_sendtab_message "Partajează filele de pe mobil pe desktop — instant.">
-<!ENTITY firstrun_signin_button "Autentifică-te la Sync">
-<!ENTITY newfirstrun_signin_button "Activează Sync">
-<!ENTITY updatednewfirstrun_signin_button "Autentifică-te în &brandShortName;">
+<!ENTITY firstrun_signin_message "Conectează-te și începe">
 <!ENTITY onboard_start_button_browser "Începe navigarea">
 <!ENTITY firstrun_button_notnow "Nu chiar acum">
 <!ENTITY firstrun_button_next "Înainte">
-
-<!ENTITY firstrun_signin_button2 "Autentifică-te">
+<!ENTITY firstrun_signup_button "Înregistrare">
 
 <!ENTITY firstrun_tabqueue_title "Linkuri">
 
@@ -48,7 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Tu">
 <!ENTITY firstrun_account_message "Ai &brandShortName; pe alt dispozitiv?">
-
 
 <!ENTITY  onboard_start_restricted1 "Rămâi în siguranță și păstrează controlul cu această versiune simplificată de &brandShortName;.">
 
@@ -500,6 +493,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Împărtășește">
 <!ENTITY share_title "Distribuie prin intermediul">
 <!ENTITY share_image_failed "Nu se poate partaja această imagine">
+<!ENTITY share_error_toast_message "Nu se poate realiza partajarea cu aplicația indicată">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY print "Tipărește">
 <!ENTITY view_page_source "Vezi sursa paginii">
@@ -693,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ești conectat la">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -886,11 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Bun venit la &brandShortName;">
 <!ENTITY activity_stream_signin_description "Începe să sincronizezi marcajele, parolele și multe altele cu contul Firefox.">
-<!ENTITY activity_stream_signin_button "Autentifică-te">
-
+<!ENTITY activity_stream_signup_button "Înregistrare">
 <!ENTITY activity_stream_signin_prompt "Ai deja un cont?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Autentifică-te.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Noul tău Firefox, care va sosi în 2020">
+<!ENTITY activity_stream_firefox_promo_description "În curând: Performanță îmbunătățită. Protecție sporită împotriva urmăririi. Și funcționalități concepute ca să găsești, să salvezi și să partajezi mai multe din ce îți place online.">
+<!ENTITY activity_stream_firefox_promo_button "Aruncă o privire">
 
 <!ENTITY activity_stream_topsites "Site-uri de top">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
