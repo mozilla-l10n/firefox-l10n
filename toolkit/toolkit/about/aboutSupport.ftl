@@ -136,7 +136,7 @@ media-capabilities-title = Medijos galimybės
 # List all the entries of the database.
 media-capabilities-enumerate = Išvardinti duomenų bazės turinį
 
-
+##
 
 intl-title = Internacionalizacija ir lokalizacija
 intl-app-title = Programos nuostatos
@@ -161,7 +161,7 @@ remote-debugging-title = Nuotolinis derinimas („Chromium“ protokolu)
 remote-debugging-accepting-connections = Galima prisijungti
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -266,6 +266,7 @@ d3d11video-crash-guard = D3D11 vaizdo iškoduotuvas
 d3d9video-crash-buard = D3D9 vaizdo iškoduotuvas
 d3d9video-crash-guard = D3D9 vaizdo iškoduotuvas
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX vaizdo iškoduotuvas
 reset-on-next-restart = Atstatyti kito paleidimo metu
 gpu-process-kill-button = Sustabdyti GPU procesą
 gpu-device-reset = Įrenginio atstatymas
