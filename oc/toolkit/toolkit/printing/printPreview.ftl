@@ -33,6 +33,7 @@ printpreview-of =
     .value = sus
 printpreview-custom-prompt =
     .value = Personalizar l'escala…
+printpreview-custom-scale-prompt-title = Escala personalizada
 printpreview-page-setup =
     .label = Mesa en pagina…
     .accesskey = i
@@ -44,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent } %
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Primièra pagina
