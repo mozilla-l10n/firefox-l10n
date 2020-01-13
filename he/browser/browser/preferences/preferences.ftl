@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
 play-drm-content =
@@ -908,7 +908,7 @@ enhanced-tracking-protection-setting-custom =
     .label = התאמה אישית
     .accesskey = ה
 
-
+##
 
 content-blocking-etp-standard-desc = מאוזן בין הגנה לביצועים. דפים ייטענו כרגיל.
 content-blocking-etp-strict-desc = הגנה חזקה יותר, אך עשויה לשבש פעילות של אתרים או תוכן.
@@ -1065,7 +1065,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = אישורים
-certs-personal-label = כאשר שרת מבקש את האישור האישי שלך
+certs-personal-label = כאשר שרת מבקש את אישור האבטחה האישי שלך
 certs-select-auto-option =
     .label = לבחור אחד באופן אוטומטי
     .accesskey = ב
