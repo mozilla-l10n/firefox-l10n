@@ -33,7 +33,7 @@ serviceworker-worker-updated = Actualizacion <time>{ DATETIME($date, day: "numer
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Font
 # Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Estatut
+serviceworker-worker-status = Estat
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -49,3 +49,30 @@ serviceworker-worker-status-registering = Inscripcion
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = Vos cal inscriure un Service Worker per inspectar aquò aquí. <a>Ne saber mai</a>
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitat
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentacion
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Icònas
+# Text displayed while we are loading the manifest file
+manifest-loading = Cargament del manifèst…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifèst cargat.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = S’es producha una error en cargar lo manifèst :
+# Text displayed when the page has no manifest available
+manifest-non-existing = Cap de manifèst pas trobat a inspectar.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Icòna
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifèst
+    .alt = Icòna del manifèst
+    .title = Manifèst
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Icòna d’error
+    .title = Error
