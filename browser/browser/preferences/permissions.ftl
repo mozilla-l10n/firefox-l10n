@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
 permissions-site-location-disable-desc = ਇਹ ਉਪਰੋਕਤ ਸੂਚੀਬੱਧ ਨਾ ਹੋਣ ਵਾਲੀਆਂ ਕਿਸੇ ਵੀ ਵੈਬਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਸਥਾਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਅਨੁਮਤੀ ਦੀ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਰੋਕੇਗਾ। ਤੁਹਾਡੇ ਸਥਾਨ ਤੱਕ ਪਹੁੰਚ ਨੂੰ ਰੋਕਣਾ ਕੁਝ ਵੈਬਸਾਈਟ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਤੋੜ ਸਕਦਾ ਹੈ।
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = ਸੈਟਿੰਗਾਂ - ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ ਇਜਾਜ਼ਤਾਂ
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

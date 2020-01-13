@@ -191,6 +191,15 @@ advanced-fonts =
 colors-settings =
     .label = …ਰੰਗ
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = ਜ਼ੂਮ
+preferences-default-zoom = ਮੂਲ ਜ਼ੂਮ
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = ਸਿਰਫ਼ ਲਿਖਤ ਜ਼ੂਮ ਕਰੋ
+    .accesskey = t
 language-header = ਬੋਲੀ
 choose-language-description = ਸਫ਼ੇ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਬੋਲੀ ਚੁਣੋ
 choose-button =
@@ -275,6 +284,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ਵਰਤੋਂ ({ -brand-short-name } ਵਿੱਚ)
@@ -300,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
 play-drm-content =
@@ -378,6 +391,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ਜਿਵੇਂ ਤੁਸੀਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਨਾਲ ਨਾਲ ਖੋਜੋ
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਵਿਡੀਓ ਕੰਟਰੋਲ ਸਮਰੱਲ ਕਰੋ
+    .accesskey = E
+browsing-picture-in-picture-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-cfr-recommendations =
     .label = ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
     .accesskey = R
@@ -483,6 +500,7 @@ search-bar-shown =
     .label = ਸੰਦ-ਪੱਟੀ 'ਚ ਖੋਜ ਪੱਟੀ ਜੋੜੋ
 search-engine-default-header = ਮੂਲ ਖੋਜ ਇੰਜਣ
 search-engine-default-desc = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਅਤੇ ਖੋਜ ਪੱਟੀ 'ਚ ਵਰਤਣ ਲਈ ਡਿਫਾਲਟ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ।
+search-suggestions-header = ਖੋਜ ਸੁਝਾਅ
 search-suggestions-option =
     .label = ਖੋਜ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ
     .accesskey = s
@@ -521,6 +539,12 @@ search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁ�
 ## Containers Section
 
 containers-back-link = « ਵਾਪਸ ਜਾਓ
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] ਚੋਣਾਂ ਤੇ ਵਾਪਸ ਜਾਓ
+           *[other] ਮੇਰੀ ਪਸੰਦ ਤੇ ਵਾਪਸ ਜਾਓ
+        }
 containers-header = ਕਨਟਰੇਨਰ ਟੈਬਾਂ
 containers-add-button =
     .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
@@ -544,6 +568,9 @@ sync-signedout-account-create = ਖਾਤਾ ਨਹੀ ਹੈ? ਤਾਂ ਬਣ�
 sync-signedout-account-signin =
     .label = …ਸਾਈਨ ਇਨ
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -564,6 +591,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = …ਡਿਸਕਨੈਕਟ ਕਰੋ
     .accesskey = D
+sync-sign-out =
+    .label = ਸਾਈਨ ਆਉਟ…
+    .accesskey = g
 sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = o
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
@@ -582,6 +612,16 @@ sync-signedin-settings-desc = ਚੁਣੋ ਕਿ { -brand-short-name } ਦੀ �
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = ਸਿੰਕ ਕਰਨਾ: ਚਾਲੂ ਹੈ
+prefs-syncing-off = ਸਿੰਕ ਕਰਨਾ: ਬੰਦ ਹੈ
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } ਸੈਟਅੱਪ ਕਰੋ…
+    .accesskey = S
+prefs-sync-offer-setup-label = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸਿੰਕਰੋਨਾਈਜ਼ ਕਰੋ।
+prefs-sync-now =
+    .labelnotsyncing = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+    .accesskeynotsyncing = N
+    .labelsyncing = ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 
 ## The list of things currently syncing.
 
@@ -590,8 +630,17 @@ sync-currently-syncing-bookmarks = ਬੁੱਕਮਾਰਕ
 sync-currently-syncing-history = ਅਤੀਤ
 sync-currently-syncing-tabs = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
 sync-currently-syncing-logins-passwords = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
+sync-currently-syncing-addresses = ਸਿਰਨਾਵੇਂ
 sync-currently-syncing-creditcards = ਕਰੈਡਿਟ ਕਾਰਡ
 sync-currently-syncing-addons = ਐਡ-ਆਨ
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] ਚੋਣਾਂ
+       *[other] ਮੇਰੀ ਪਸੰਦ
+    }
+sync-change-options =
+    .label = ਬਦਲੋ…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -608,6 +657,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = ਲਾਗਇਨ
     .tooltiptext = ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਵਰਤੋਂਕਾਰ-ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
+    .tooltiptext = ਵਰਤੋਂਕਾਰ-ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ, ਜੋ ਕਿ ਤੁਸੀਂ ਸੰਭਾਲੇ ਹਨ
     .accesskey = L
 sync-engine-addresses =
     .label = ਸਿਰਨਾਵੇਂ
@@ -823,7 +876,7 @@ enhanced-tracking-protection-setting-custom =
     .label = ਚੁਣਿੰਦਾ
     .accesskey = c
 
-
+##
 
 content-blocking-etp-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ, ਸਫ਼ੇ ਆਮ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ।
 content-blocking-etp-strict-desc = ਵਧੇਰੇ ਸੁਰੱਖਿਆ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਦੇ ਨਾ ਕੰਮ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।
@@ -884,6 +937,10 @@ permissions-location = ਟਿਕਾਣਾ
 permissions-location-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = t
+permissions-xr = ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ
+permissions-xr-settings =
+    .label = ਸੈਟਿੰਗਾਂ…
+    .accesskey = t
 permissions-camera = ਕੈਮਰਾ
 permissions-camera-settings =
     .label = …ਸੈਟਿੰਗਾਂ
@@ -931,6 +988,7 @@ permissions-a11y-privacy-link = ਹੋਰ ਜਾਣੋ
 
 collection-header = { -brand-short-name } ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ ਅਤੇ ਵਰਤੋ
 collection-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+collection-health-report-telemetry-disabled-link = ਹੋਰ ਜਾਣੋ
 collection-health-report =
     .label = { -brand-short-name } ਨੂੰ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜਣ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਓ
     .accesskey = r

@@ -21,7 +21,10 @@ onboarding-button-label-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 onboarding-welcome-body = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ।<br/>ਬਾਕੀ { -brand-product-name } ਨੂੰ ਜਾਣੋ।
 onboarding-welcome-learn-more = ਫਾਇਦਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
+onboarding-welcome-modal-get-body = ਤੁਹਾਡੇ ਕੋਲ ਨਵਾਂ ਨਕੋਰ ਬਰਾਊਜ਼ਰ ਹੈ।<br/>ਹੁਣ { -brand-product-name } ਦਾ ਪੂਰਾ ਫਾਇਦਾ ਲਵੋ।
 onboarding-welcome-modal-supercharge-body = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਨੂੰ ਵਧੀਆ ਬਣਾਓ।
+onboarding-welcome-modal-privacy-body = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਲੈ ਲਿਆ ਹੈ। ਆਓ ਫੇਰ ਹੋਰ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਜੋੜੀਏ।
+onboarding-welcome-modal-family-learn-more = { -brand-product-name } ਉਤਪਾਦਾਂ ਦੇ ਟੱਬਰ ਬਾਰੇ ਜਾਣੀਏ।
 onboarding-welcome-form-header = ਇੱਥੇ ਸ਼ੁਰੂ ਕਰੋ
 onboarding-join-form-header = { -brand-product-name } ਦਾ ਹਿੱਸਾ ਬਣੋ
 onboarding-join-form-body = ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਦਿਓ।
@@ -41,6 +44,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ…
 
 ## Firefox Sync modal dialog strings.
 
@@ -72,8 +77,11 @@ onboarding-benefit-privacy-title = ਅਸਲ ਪਰਦੇਦਾਰੀ
 # transparent about how we use it."
 onboarding-benefit-privacy-text = ਜੋ ਵੀ ਅਸੀਂ ਕਰਦੇ ਹਨ, ਉਹ ਸਾਡੀ ਨਿੱਜੀ ਡਾਟੇ ਦੇ ਵਾਅਦੇ ਦਾ ਸਨਮਾਣ ਕਰਦੀ ਹੈ: ਘੱਟ ਲਵੋ। ਸੁਰੱਖਿਅਤ ਰੱਖੋ। ਕੋਈ ਭੇਤ ਨਹੀਂ।
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ { -brand-product-name } ਵਰਤਣ ਸਮੇਂ ਹਰ ਥਾਂ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ।
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = ਜਦੋਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਲੱਭੇ ਕਿਸੇ ਲੱਗੇ ਸੰਨ੍ਹ ਵਿੱਚ ਹੋਵੇ ਤਾਂ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਕਰੋ।
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਅਤੇ ਚੱਕਵੇ ਹਨ।
 
 ## These strings belong to the individual onboarding messages.
 
@@ -118,9 +126,13 @@ onboarding-pocket-anywhere-text2 = { -pocket-brand-name } ਐਪ ਦੇ ਨਾ�
 onboarding-pocket-anywhere-button = { -pocket-brand-name } ਵਰਤ ਕੇ ਵੇਖੋ
 onboarding-lockwise-passwords-title = ਆਪਣੇ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਉੱਤੇ ਲੈ ਜਾਓ
 onboarding-lockwise-passwords-button2 = ਐਪ ਲਵੋ
+onboarding-lockwise-strong-passwords-title = ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਬਣਾਓ ਅਤੇ ਸੰਭਾਲੋ
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ਮੌਕੇ ਉੱਤੇ ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਬਣਾਉਂਦੀ ਅਤੇ ਉਹਨਾਂ ਸਾਰਿਆਂ ਨੂੰ ਇੱਕ ਥਾਂ ਉੱਤੇ ਸੰਭਾਲਦੀ ਹੈ।
+onboarding-lockwise-strong-passwords-button = ਆਪਣੇ ਲਾਗਇਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 onboarding-facebook-container-title = ਫੇਸਬੁੱਕ 'ਤੇ ਬੰਨ੍ਹ ਲਾਓ
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ਤੁਹਾਡੇ ਪਰੋਫਾਈਲ ਨੂੰ ਹਰੇਕ ਚੀਜ਼ ਤੋਂ ਵੱਖਰਾ ਰੱਖਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਫੇਸਬੁੱਕ ਵਲੋਂ ਇਸ਼ਤਿਹਾਰਾਂ ਨਾਲ ਤੁਹਾਨੂੰ ਨਿਸ਼ਾਨਾ ਬਣਾਉਣਾ ਔਖਾ ਹੋ ਜਾਂਦਾ ਹੈ।
 onboarding-facebook-container-button = ਇਕਟੈਨਸ਼ਨ ਜੋੜੋ
+onboarding-import-browser-settings-title = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ
 onboarding-import-browser-settings-button = ਕਰੋਮ ਡਾਟਾ ਆਯਾਤ ਕਰੋ
 
 ## Message strings belonging to the Return to AMO flow
