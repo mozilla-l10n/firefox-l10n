@@ -19,6 +19,7 @@ policy-BlockAboutSupport = Blòca l’accès a la pagina about:support.
 policy-Bookmarks = Permet de crear de marcapaginas dins la barra personala, lo menú dels marcapaginas o un dels jos-dorsièrs.
 policy-CertificatesDescription = Apondre de certificats o utilizar de certificats predefinits.
 policy-Cookies = Permet o defend als sites de definir de cookies.
+policy-DefaultDownloadDirectory = Definir lo dorsièr de telecargament per defaut
 policy-DisableAppUpdate = Empacha lo navigador de se metre a jorn.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.
 policy-DisableDeveloperTools = Blòca l’accès a las aisinas de desvolopament.
@@ -40,13 +41,18 @@ policy-DisplayBookmarksToolbar = Aficha la barra personala per defaut.
 policy-DisplayMenuBar = Aficha la barra de menús per defaut.
 policy-DNSOverHTTPS = Permet de configurar lo DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Desactiva la verificacion del navegador per defaut en aviar.
+policy-DownloadDirectory = Definir e varrolhar lo dorsièr de telecargament.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activa o desactiva lo blocatge del contengut e permet de clavar aqueste causida.
+policy-FirefoxHome = Configurar l’acuèlh de Firefox.
 policy-FlashPlugin = Autoriza o pas l’utilizacion del plugin Flash.
 policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definís la pagina d’acuèlh e prepausa de la verrolhar.
 policy-InstallAddonsPermission = Autoriza certans sites web d'installar d'extensions.
+policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
+policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
+policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari de senhals.
 policy-Permissions = Configurar las autorizacions per la camèra, lo microfòn, lo localizacion e las notificacions.
 policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
 policy-Proxy = Configura los paramètres del servidor mandatari.
