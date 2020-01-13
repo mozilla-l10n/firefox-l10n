@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "ਘੱਟ ਡਾਟਾ, ਵੱਧ ਬੱਚਤ">
 <!ENTITY firstrun_data_subtext2 "ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾਂਦੀ ਹਰ ਸਾਈਟ ਲਈ ਡਾਟੇ ਨੂੰ ਘਟਾਉਣ ਲਈ ਚਿੱਤਰਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।">
 <!ENTITY firstrun_sync_title "ਸਿੰਕ ਕਰੋ">
-<!ENTITY updatednewfirstrun_sync_title "ਖਾਤਾ">
-<!ENTITY firstrun_sync_message2 "ਜਿੱਥੇ ਛੱਡਿਆ ਸੀ, ਉੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ।">
 <!ENTITY firstrun_sync_message3 "ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਨਾਲ ਸਿੰਕ ਕਰੋ।">
 <!ENTITY firstrun_sync_subtext2 "ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ &brandShortName; \&apos;ਤੇ ਸੰਭਾਲਿਆ ਹੈ, ਨੂੰ ਲੱਭਣ ਲਈ ਸਿੰਕ ਨੂੰ ਵਰਤੋਂ।">
 <!ENTITY newfirstrun_sync_subtext "ਤੁਹਾਡੇ ਵਲੋਂ ਮੋਬਾਈਲ ਉੱਤੇ ਸੰਭਾਲੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਡੈਸਕਟਾਪ ਵਿਚਲੇ ਫਾਇਰਪਾਕਸ ਨਾਲ ਗੁਪਤ ਤੌਰ ਉੱਤੇ ਅਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰੋ।">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; ਦਾ ਪੂਰਾ ਫਾਇਦਾ ਲੈਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ">
-<!ENTITY firstrun_signin_message "ਕਨੈਕਟ ਹੋਵੋ, ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY firstrun_sendtab_title "ਟੈਬ ਭੇਜੋ">
 <!ENTITY firstrun_sendtab_message "ਮੋਬਾਈਲ ਤੋਂ ਡੈਸਕਟਾਪ ਨਾਲ ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕਰੋ — ਤੁਰੰਤ।">
-<!ENTITY firstrun_signin_button "ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ">
-<!ENTITY newfirstrun_signin_button "ਸਿੰਕ ਚਾਲੂ ਕਰੋ">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ">
+<!ENTITY firstrun_signin_message "ਕਨੈਕਟ ਹੋਵੋ, ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY firstrun_button_notnow "ਹੁਣ ਨਹੀਂ">
 <!ENTITY firstrun_button_next "ਅੱਗੇ">
-
-<!ENTITY firstrun_signin_button2 "ਸਾਇਨ ਇਨ">
+<!ENTITY firstrun_signup_button "ਸਾਇਨ ਅੱਪ">
 
 <!ENTITY firstrun_tabqueue_title "ਲਿੰਕ">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "ਤੁਸੀਂ">
 <!ENTITY firstrun_account_message "ਕੀ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ &brandShortName; ਹੈ?">
-
-<!ENTITY firstrun_signup_button "ਸਾਇਨ ਅੱਪ">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ਦੇ ਇਸ ਸਧਾਰਨ ਬਣਾਏ ਵਰਜ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰਹੋ ਅਤੇ ਕੰਟਰੋਲ ਵਿੱਚ ਰੱਖੋ">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ਤੁਸੀਂ ਕਨੈਕਟ ਹੋ">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -892,12 +882,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ">
 <!ENTITY activity_stream_signin_description "ਆਪਣੇ ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਨਾਲ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਤੇ ਹੋਰ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕੀਤਾ।">
-<!ENTITY activity_stream_signin_button "ਸਾਇਨ ਇਨ">
-
 <!ENTITY activity_stream_signup_button "ਸਾਇਨ ਅੱਪ">
 <!ENTITY activity_stream_signin_prompt "ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "ਸਾਇਨ ਇਨ ਕਰੋ।">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "ਤੁਹਾਡਾ ਬਿਲਕੁਲ ਨਵਾਂ ਨਕੋਰ ਫਾਇਰਫਾਕਸ 2020 ਵਿੱਚ ਆ ਰਿਹਾ ਹੈ">
+<!ENTITY activity_stream_firefox_promo_description "ਛੇਤੀ ਆ ਰਿਹਾ ਹੈ: ਸੁਧਾਰ ਕੀਤੀ ਕਾਰਗੁਜ਼ਾਰੀ। ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ। ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਆਨਲਾਈਨ ਚੰਗੇ ਲੱਗਿਆਂ ਨੂੰ ਲੱਭਣ, ਸੰਭਾਲਣ ਅਤੇ ਸਾਂਝਾ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਮਦਦ ਵਾਸਤੇ ਬਣਾਏ ਫ਼ੀਚਰਾਂ ਦੇ ਨਾਲ।">
+<!ENTITY activity_stream_firefox_promo_button "ਝਾਤੀ ਤਾਂ ਮਾਰੋ">
 
 <!ENTITY activity_stream_topsites "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
