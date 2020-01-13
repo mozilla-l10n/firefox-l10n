@@ -138,9 +138,9 @@ cfr-whatsnew-permission-prompt-cta = Află mai multe
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-        [one] generator de amprente digitale blocat
-        [few] generatoare de amprente digitale blocate
-       *[other] de generatoare de amprente digitale blocate
+        [one] Generator de amprente digitale blocat
+        [few] Generatoare de amprente digitale blocate
+       *[other] Generatoare de amprente digitale blocate
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochează multe generatoare de amprente digitale, care adună în secret informații despre dispozitivul și acțiunile tale ca să creeze un profil de publicitate despre tine.
 # Message variation when fingerprinters count is less than 10
