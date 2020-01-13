@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Rheoli Cyfrif…">
 <!ENTITY fxa.menu.syncSettings.label "Gosodiadau &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Cuddio'r Togl Llun-mewn-Llun">
+<!ENTITY pictureInPictureHideToggle.label "Cuddio'r Togl Llun mewn Llun">
 <!ENTITY pictureInPictureHideToggle.accesskey "L">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Rheoli'r defnydd o feddalwedd DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Agor panel MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Rydych wedi diffodd eich camera ar gyfer y wefan hon.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Rydych wedi diffodd eich meicroffon ar gyfer y wefan hon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Rydych wedi rhwystro'r wefan yma rhag defnyddio ategyn Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.">
 <!ENTITY urlbar.installBlocked.tooltip           "Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">

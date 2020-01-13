@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Estyniadau Cymeradwy
 cfr-doorhanger-feature-heading = Nodwedd Cymeradwy
 cfr-doorhanger-pintab-heading = Profi hwn: Pinio Tab
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pam ydw i'n gweld hyn
@@ -137,7 +137,7 @@ cfr-whatsnew-lockwise-take-link-text = Estyn yr ap
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Gwyliwch fideos wrth i chi bori
-cfr-whatsnew-pip-body = Mae llun-mewn-llun yn gosod fideo i mewn i ffenestr sy'n arnofio, fel y gallwch chi wylio wrth weithio mewn tabiau eraill.
+cfr-whatsnew-pip-body = Mae Llun mewn Llun yn gosod fideo i mewn i ffenestr sy'n arnofio, fel y gallwch chi wylio wrth weithio mewn tabiau eraill.
 cfr-whatsnew-pip-cta = Dysgu rhagor
 
 ## Permission Prompt

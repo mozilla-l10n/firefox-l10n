@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Heb ganfod fideo gyda fformat sy'n cael ei gynnal na math MIME.">
 <!ENTITY error.generic "Ataliwyd chwarae'r fideo oherwydd gwall anhysbys.">
 
-<!ENTITY status.pictureInPicture "Mae'r fideo hwn yn chwarae yn y modd Llun o Fewn Llun.">
+<!ENTITY status.pictureInPicture "Mae'r fideo hwn yn chwarae yn y modd Llun mewn Llun.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
