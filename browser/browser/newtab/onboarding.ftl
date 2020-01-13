@@ -20,7 +20,10 @@ onboarding-button-label-get-started = Per començar
 
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
 onboarding-welcome-form-header = Començatz aquí
+onboarding-join-form-email-error = Cal una adreça electronica valida
 onboarding-join-form-continue = Contunhar
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Connectatz-vos
 onboarding-start-browsing-button-label = Començar de navegar
 onboarding-cards-dismiss =
     .title = Tirar
@@ -28,6 +31,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = Vòstra adreça electronica…
 
 ## Firefox Sync modal dialog strings.
 
@@ -47,6 +52,8 @@ onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }{ -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -67,6 +74,10 @@ onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
 onboarding-tracking-protection-button2 = Cossí fonciona
 onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
 onboarding-firefox-send-button = Ensajatz { -send-brand-name }
+onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
+onboarding-lockwise-passwords-button2 = Obténer l’aplicacion
+onboarding-lockwise-strong-passwords-button = Gerir vòstres identificants
+onboarding-facebook-container-button = Apondre l’extension
 
 ## Message strings belonging to the Return to AMO flow
 

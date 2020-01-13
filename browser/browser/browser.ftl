@@ -119,6 +119,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Aqueste còp, recercar amb :
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -147,6 +150,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = La connexion pas segura
+identity-connection-secure = Connexion segura
 identity-connection-internal = Aquò es una pagina segura de { -brand-short-name }.
 identity-connection-file = Aquela pagina es enregistrada dins vòstre ordinador.
 identity-extension-page = Aquela pagina es estada cargada d’una extension.

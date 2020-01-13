@@ -86,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Enregistrar la cibla del ligam jos…
     .accesskey = E
+main-context-menu-save-link-to-pocket =
+    .label = Enregistrar lo ligam dins { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -218,6 +221,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Amagar aqueste plugin
     .accesskey = g
+main-context-menu-save-to-pocket =
+    .label = Enregistrar la pagina dins { -pocket-brand-name }
+    .accesskey = n
 main-context-menu-send-to-device =
     .label = Enviar la pagina al periferic
     .accesskey = D
