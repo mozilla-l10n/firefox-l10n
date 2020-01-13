@@ -337,7 +337,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
@@ -426,7 +426,7 @@ browsing-search-on-start-typing =
     .label = Chwilio am destun wrth i mi gychwyn teipio
     .accesskey = d
 browsing-picture-in-picture-toggle-enabled =
-    .label = Galluogi rheolyddion fideo llun-mewn-llun
+    .label = Galluogi rheolyddion fideo Llun mewn Llun
     .accesskey = G
 browsing-picture-in-picture-learn-more = Dysgu rhagor
 browsing-cfr-recommendations =
@@ -934,7 +934,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Cyfaddas
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Cydbwysedd rhwng diogelwch a pherfformiad. Bydd tudalennau'n llwytho fel arfer.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
