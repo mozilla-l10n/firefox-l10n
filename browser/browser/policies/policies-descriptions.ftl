@@ -52,6 +52,7 @@ policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas
 policy-Proxy = Configura los paramètres del servidor mandatari.
 policy-RequestedLocales = Definís la lista de las lengas demandadas per l’aplicacion dins l‘òrdre de preferéncia.
 policy-SearchBar = Definís l’emplaçament per defaut de la barra de recèrca. L’utilizaire garda la possibilitat de personalizar aquò.
+policy-SearchSuggestEnabled = Activar o desactivar las suggestions de recèrca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permet d’installar de moduls PKCS #11.
 policy-SSLVersionMax = Definir la version maximala de SSL a utilizar

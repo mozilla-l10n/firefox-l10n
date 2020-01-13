@@ -244,6 +244,12 @@ addon-open-about-debugging = Desbugar los moduls
 
 ## Add-on actions
 
+addons-enabled-heading = Activats
+extension-enabled-heading = Activadas
+theme-enabled-heading = Activat
+plugin-enabled-heading = Activats
+dictionary-enabled-heading = Activats
+locale-enabled-heading = Activadas
 
 ## Pending uninstall message bar
 

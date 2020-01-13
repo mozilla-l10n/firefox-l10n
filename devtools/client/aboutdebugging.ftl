@@ -11,6 +11,8 @@
 
 # Sidebar strings
 
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB activat
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
@@ -18,6 +20,10 @@ about-debugging-sidebar-runtime-item-waiting-for-browser = En espèra del navega
 
 # Setup Page strings
 
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Desactivar los periferics USB
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Activat
 
 # Runtime Page strings
 

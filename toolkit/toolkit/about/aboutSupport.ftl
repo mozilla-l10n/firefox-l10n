@@ -126,6 +126,19 @@ intl-locales-default = Lenga per defaut
 intl-os-title = Sistèma operatiu
 intl-os-prefs-system-locales = Lenga del sistèma
 intl-regional-prefs = Preferéncias regionalas
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -240,6 +253,7 @@ effective-content-sandbox-level = Nivèl del nauc de sabla efectiu pels procedim
 sandbox-proc-type-content = contengut
 sandbox-proc-type-file = contengut del fichièr
 sandbox-proc-type-media-plugin = plugin mèdia
+launcher-process-status-0 = Activat
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

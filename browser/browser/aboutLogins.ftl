@@ -11,15 +11,24 @@
 
 ## Login List
 
+login-list-item-subtitle-missing-username = (Pas cap de nom d’utilizaire)
+about-logins-list-item-breach-icon =
+    .title = Site amb contengut expausat al public
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-new-login-title = Crear un identificant novèl
 login-item-edit-button = Modificar
 about-logins-login-item-remove-button = Suprimir
+login-item-origin-label = Adreça web
+login-item-origin =
+    .placeholder = https://www.exemple.com
 login-item-username-label = Nom d'utilizaire
+about-logins-login-item-username =
+    .placeholder = (Pas cap de nom d’utilizaire)
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copiat !
 login-item-password-label = Senhal
@@ -41,9 +50,15 @@ login-item-time-used = Darrièra utilizacion : { DATETIME($timeUsed, day: "num
 ## Master Password notification
 
 master-password-notification-message = Picatz vòstre senhal màger per veire los identificants e senhals salvats
+master-password-reload-button =
+    .label = Connexion
+    .accesskey = C
 
 ## Password Sync notification
 
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Demandar pas mai
+    .accesskey = D
 
 ## Dialogs
 
