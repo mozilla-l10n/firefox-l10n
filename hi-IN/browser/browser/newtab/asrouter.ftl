@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = अनुशंसित एक्सटे�
 cfr-doorhanger-feature-heading = अनुशंसित विशेषता
 cfr-doorhanger-pintab-heading = इसे आज़माएं: पिन टैब
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = मैं यह क्यों देख रहा हूँ
@@ -72,6 +72,7 @@ cfr-doorhanger-pintab-animation-resume = फिर से शुरू करे
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = अपने बुकमार्क हर जगह सिंक करें।
+cfr-doorhanger-bookmark-fxa-body = शानदार खोज! अब आपके मोबाइल उपकरणों पर इस बुकमार्क को छोड़ा जाएगा। एक { -fxaccount-brand-name } के साथ आरंभ करें।
 cfr-doorhanger-bookmark-fxa-link-text = अभी बुकमार्क सिंक करें...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = बटन बंद करें
