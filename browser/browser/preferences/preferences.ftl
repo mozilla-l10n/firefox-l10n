@@ -199,6 +199,12 @@ advanced-fonts =
 colors-settings =
     .label = Colors…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom per defaut
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage } %
 language-header = Lenga
 choose-language-description = Causissètz vòstra lenga preferida per l'afichatge de las paginas
 choose-button =
@@ -341,6 +347,7 @@ update-pref-write-failure-title = Fracàs d’escritura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Enregistrament impossible de las preferéncias. Impossible d’escriure dins lo fichièr : { $path }
+update-in-progress-title = Actualizacion en cors
 
 ## General Section - Performance
 
@@ -480,6 +487,7 @@ search-bar-shown =
     .label = Apondre la barre de recèrca a la barra d'aisinas
 search-engine-default-header = Motor de cerca per defaut
 search-engine-default-desc = Causir lo motor de recèrca per defaut per d'utilizar dins las barras d'adreça e de recèrca.
+search-suggestions-header = Suggestions de recèrca
 search-suggestions-option =
     .label = Afichar de suggestions de recèrca
     .accesskey = A
@@ -518,6 +526,12 @@ search-keyword-warning-bookmark = Avètz causit un mot clau que ja es utilizat p
 ## Containers Section
 
 containers-back-link = « Tornar
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Tornar a las opcions
+           *[other] Tornar a las preferéncias
+        }
 containers-header = Onglets de contenidor
 containers-add-button =
     .label = Apondre un contenidor novèl
@@ -561,6 +575,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Se desconectar…
     .accesskey = D
+sync-sign-out =
+    .label = Se desconnectar
+    .accesskey = d
 sync-manage-account = Gestion del compte
     .accesskey = o
 sync-signedin-unverified = { $email } es pas verificat.
@@ -579,6 +596,10 @@ sync-signedin-settings-desc = Causir çò que cal sincronizar per vòstres perif
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar ara
+    .accesskeynotsyncing = n
+    .labelsyncing = Sincronizacion…
 
 ## The list of things currently syncing.
 
@@ -610,6 +631,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Identificants
     .tooltiptext = Los noms d’utilizaires e los senhales qu’avètz salvats
+    .accesskey = I
+sync-engine-logins-passwords =
+    .label = Identificants e senhals
+    .tooltiptext = Identificants e senhals que gardatz
     .accesskey = I
 sync-engine-addresses =
     .label = Adreças
@@ -644,6 +669,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Enregistrar
     .accesskey = g
+sync-connect-another-device = Connectar un periferic de mai
+sync-manage-devices = Gerir los periferics
 sync-tos-link = Condicions d'utilizacion
 sync-fxa-privacy-notice = Politica de confidencialitat
 
@@ -803,10 +830,13 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-all-cookies = Totes los cookies
+content-blocking-unvisited-cookies = Cookies dels sites pas visitats
 content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
 content-blocking-warning-title = Atencion !
 content-blocking-learn-how = Ne saber mai
+content-blocking-warning-learn-how = M’ensenhar cossí far
 content-blocking-trackers-label =
     .label = Traçadors
     .accesskey = T
@@ -820,6 +850,8 @@ content-blocking-tracking-protection-change-block-list = Cambiar la lista de blo
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Mai d’entresenhas
 
 ## Privacy Section - Tracking
 
@@ -834,6 +866,9 @@ permissions-location = Localizacion
 permissions-location-settings =
     .label = Paramètres…
     .accesskey = A
+permissions-xr-settings =
+    .label = Paramètres…
+    .accesskey = t
 permissions-camera = Camèra
 permissions-camera-settings =
     .label = Paramètres…
@@ -853,6 +888,9 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
+permissions-autoplay-settings =
+    .label = Paramètres…
+    .accesskey = t
 permissions-block-popups =
     .label = Blocar las fenèstras sorgissentas
     .accesskey = B
@@ -875,6 +913,7 @@ permissions-a11y-privacy-link = Ne saber mai
 collection-header = Recuèlh de donadas e utilizacion per { -brand-short-name }
 collection-description = Nos esforçam de vos daissar causir e reculhir sonque las informacions qu'avèm besonh per provesir e melhorar { -brand-short-name } per tot lo mond. Sempre demandam vòstra permission abans de recebre de donadas personalas.
 collection-privacy-notice = Politica de confidencialitat
+collection-health-report-telemetry-disabled-link = Ne saber mai
 collection-health-report =
     .label = Autorizar { -brand-short-name } a mandar de donadas tecnicas e d’interaccions a { -vendor-short-name }
     .accesskey = A

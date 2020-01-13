@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Estocatge
 site-data-column-last-used =
     .label = Darrièra utilizacion
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (fichièr local)
 site-data-remove-selected =
     .label = Suprimir çò seleccionat
     .accesskey = s
@@ -31,8 +33,8 @@ site-data-button-save =
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Persistent)
+site-storage-usage =
+    .value = { $value } { $unit }
 site-data-remove-all =
     .label = Suprimir tot
     .accesskey = e
@@ -42,8 +44,6 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Suprimir
