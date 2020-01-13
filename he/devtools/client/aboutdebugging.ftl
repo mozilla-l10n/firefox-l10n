@@ -43,6 +43,9 @@ about-debugging-sidebar-item-connect-button = התחברות
 about-debugging-sidebar-item-connect-button-connecting = חיבור בהקמה…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = החיבור נכשל
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = החיבור עדיין בהמתנה, נא לבדוק אם יש הודעות בדפדפן היעד
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = תם הזמן המוקצב לחיבור
 # Temporary text displayed in sidebar items representing remote runtimes after
@@ -162,7 +165,7 @@ about-debugging-runtime-profile-button2 = פרופיל ביצועים
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = תצורת הדפדפן שלך אינה תואמת ל־Service Workers. <a>מידע נוסף</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = הדפדפן המחובר הוא בגרסה ישנה ({ $runtimeVersion }). הגרסה המינימלית ביותר הנתמכת היא ({ $minVersion }). תצורה זו אינה נתמכת ועשויה לגרום לכשל בכלי הפיתוח. נא לעדכן את הדפדפן המחובר. <a>פתרון בעיות</a>
@@ -212,6 +215,10 @@ about-debugging-tmp-extension-remove-button = הסרה
 about-debugging-tmp-extension-install-message = נא לבחור בקובץ manifest.json או בארכיון ‎.xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = ל־WebExtension זה יש מזהה זמני. <a>מידע נוסף</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = כתובת manifest
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
@@ -239,9 +246,15 @@ about-debugging-worker-status-stopped = נעצר
 # of a worker
 about-debugging-worker-push-service =
     .label = שירות דחיפה
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = חקירת Service Worker מושבתת כרגע עבור { -brand-shorter-name } מרובה תהליכים
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = תהליך ראשי
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = ארגז כלים מרובה תהליכים
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = סגירת הודעה
