@@ -392,7 +392,7 @@
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorovať podvlákno">
-<!ENTITY killSubthreadMenu.accesskey "g">
+<!ENTITY killSubthreadMenu.accesskey "o">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Sledovať vlákno">
 <!ENTITY watchThreadMenu.accesskey "S">
