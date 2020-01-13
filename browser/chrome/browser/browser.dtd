@@ -599,7 +599,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "프레임 새로 고침">
+<!ENTITY reloadFrameCmd.label         "프레임 새로고침">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "선택한 소스 보기">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
