@@ -8,6 +8,10 @@ protection-report-manage-protections = Gerir los paramètres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Uèi
+tracker-tab-title = Contengut utilizat pel seguiment
+lockwise-title = Oblidatz pas jamai un senhal
+protection-report-view-logins-button = Veire los identificants
+    .title = Anar als identificants gardats
 manage-connected-devices = Gerir los periferics…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.

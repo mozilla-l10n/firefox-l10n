@@ -6,6 +6,8 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extension recomanda
+cfr-doorhanger-feature-heading = Foncion recomandada
+cfr-doorhanger-pintab-heading = Ensajatz aquò : penjar un onglet
 
 ##
 
@@ -60,6 +62,8 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Clic drech</b> sus l’onglet que volètz penjar.
+cfr-doorhanger-pintab-step2 = Seleccionatz <b>Penjar aqueste onglet</b> al menú.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Reprene
 
@@ -115,6 +119,7 @@ cfr-whatsnew-permission-prompt-cta = Ne saber mai
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Accedissètz a aqueste onglet de vòstre mobil estant
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
 
