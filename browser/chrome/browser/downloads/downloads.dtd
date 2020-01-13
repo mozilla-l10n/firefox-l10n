@@ -119,7 +119,7 @@
 <!ENTITY openDownloadsFolder.label        "다운로드 폴더 열기">
 
 <!ENTITY clearDownloadsButton.label       "다운로드 항목 지우기">
-<!ENTITY clearDownloadsButton.tooltip     "완료, 취소, 그리고 실패한 다운로드 항목 지우기">
+<!ENTITY clearDownloadsButton.tooltip     "완료, 취소 및 실패한 다운로드 항목 지우기">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
