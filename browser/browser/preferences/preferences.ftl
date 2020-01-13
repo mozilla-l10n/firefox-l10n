@@ -331,7 +331,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Wobsah Digital Right Management (DRM)
 play-drm-content =
@@ -926,7 +926,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-
+##
 
 content-blocking-etp-standard-desc = Wuwaženy za škit a wukon. Strony so normalnje začitaja.
 content-blocking-etp-strict-desc = Mócniši škit, ale móže zawinować, zo někotre sydła abo wobsa hižo njefunguja.
@@ -1034,8 +1034,8 @@ permissions-addon-exceptions =
     .label = Wuwzaća…
     .accesskey = W
 permissions-a11y-privacy-checkbox =
-    .label = Słužby přistupnosće při přistupu na waš wobhladowak haćić
-    .accesskey = t
+    .label = Słužby bjezbarjernosće při přistupu k wašemu wobhladowakej haćić
+    .accesskey = b
 permissions-a11y-privacy-link = Dalše informacije
 
 ## Privacy Section - Data Collection
