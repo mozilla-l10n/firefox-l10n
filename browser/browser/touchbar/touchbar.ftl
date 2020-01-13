@@ -19,3 +19,19 @@ open-location = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 share = ਸਾਂਝਾ ਕਰੋ
 close-window = ਵਿੰਡੋ ਬੰਦ ਕਰੋ
 open-sidebar = ਬਾਹੀਆਂ
+# This string describes shortcuts for search.
+search-popover = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = ਇਸ ਵਿੱਚ ਖੋਜੋ:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = ਬੁੱਕਮਾਰਕ
+search-history = ਅਤੀਤ
+search-opentabs = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ
+search-tags = ਟੈਗਾਂ
+search-titles = ਟਾਈਟਲਾਂ
+
+##
+

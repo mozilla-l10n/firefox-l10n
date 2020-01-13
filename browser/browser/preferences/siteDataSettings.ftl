@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+site-data-settings-description = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ 'ਤੇ ਕੂਕੀਜ਼ ਅਤੇ ਡਾਟਾ ਸਟੋਰ ਕਰਦੀਆਂ ਹਨ। { -brand-short-name } ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਡਾਟੇ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਹਟਾਉਣ ਤੱਕ ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਚ ਰੱਖਦਾ ਹੈ ਅਤੇ ਥਾਂ ਦੀ ਲੋੜ ਲਈ ਗ਼ੈਰ-ਪੱਕੀ ਸਟੋਰੇਜ਼ ਵਾਲੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਡਾਟੇ ਨੂੰ ਹਟਾਉਂਦਾ ਹੈ।
 site-data-search-textbox =
     .placeholder = ਖੋਜ ਵੈੱਬਸਾਈਟ
     .accesskey = S
@@ -18,6 +19,8 @@ site-data-column-storage =
     .label = ਸਟੋਰੇਜ਼
 site-data-column-last-used =
     .label = ਪਿਛਲੀ ਵਾਰ ਦੀ ਵਰਤੋਂ
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (ਲੋਕਲ ਫਾਇਲ)
 site-data-remove-selected =
     .label = ਚੁਣੇ ਨੂੰ ਹਟਾਓ
     .accesskey = r
@@ -27,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (ਸਥਿਰ)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

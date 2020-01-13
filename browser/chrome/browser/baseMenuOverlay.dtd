@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ਮਦਦ"> 
 <!ENTITY helpMenuWin.accesskey    "c">
+
 <!ENTITY aboutProduct2.label      "&brandShorterName; ਬਾਰੇ">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; ਮਦਦ">
@@ -49,3 +50,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "ਸਭ ਵੇਖੋ">
+
+<!ENTITY touchBarCmdMac.label           "…ਟੱਚ ਪੱਟੀ ਨੂੰ ਪਸੰਦ ਮੁਤਾਬਕ ਢਾਲੋ">
