@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਇਕਸਟ�
 cfr-doorhanger-feature-heading = ਸਿਫਾਰਸ਼ ਕੀਤੇ ਫੀਚਰ
 cfr-doorhanger-pintab-heading = ਇਹ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ: ਪਿੰਨ ਟੈਬ
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ਮੈਂ ਇਹ ਕਿਓ ਵੇਖ ਰਿਹਾ/ਰਹੀ ਹਾਂ
@@ -34,6 +34,11 @@ cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ੀ
 cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ਾਂ
     .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
     .a11y-announcement = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਮੌਜੂਦ ਹਨ
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼
+    .tooltiptext = ਭਵਿੱਖ ਦੀ ਸਿਫਾਰਸ਼
+    .a11y-announcement = ਭਵਿੱਖ ਦੀ ਸਿਫਾਰਸ਼ ਮੌਜੂਦ ਹੈ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -114,6 +119,7 @@ cfr-whatsnew-pip-cta = ਹੋਰ ਸਿੱਖੋ
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = ਘੱਟ ਤੰਗ ਕਰਨ ਵਾਲੇ ਸਾਈਟ ਪੌਪ-ਅੱਪ
 cfr-whatsnew-permission-prompt-cta = ਹੋਰ ਸਿੱਖੋ
 
 ## Fingerprinter Counter
@@ -126,6 +132,8 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] ਫਿੰਗਰਪਰਿੰਟਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
        *[other] ਫਿੰਗਰਪਰਿੰਟਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
     }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = ਫਿੰਗਰਪਰਿੰਟਰ
 
 ## Bookmark Sync
 
@@ -160,8 +168,11 @@ cfr-doorhanger-socialtracking-ok-button = ਸੁਰੱਖਿਆਵਾਂ ਵੇ�
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = ਬੰਦ ਕਰੋ
     .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = ਮੈਨੂੰ ਇਹ ਵਰਗੇ ਸੁਨੇਹੇ ਹੋਰ ਨਾ ਦਿਖਾਓ
+    .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ਨੇ ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਿਆ
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਤੋਂ ਫਿੰਗਰਪਰਿੰਟਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਤੋਂ ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ
 
 ## Enhanced Tracking Protection Milestones
 

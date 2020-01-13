@@ -73,7 +73,6 @@ about-logins-intro-import = ਜੇ ਤੁਸੀਂ ਹੋਰ ਬਰਾਊਜ਼ਰ 
 
 login-item-new-login-title = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
 login-item-edit-button = ਸੋਧੋ
-login-item-delete-button = ਹਟਾਓ
 about-logins-login-item-remove-button = ਹਟਾਓ
 login-item-origin-label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ
 login-item-origin =
@@ -88,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = ਪਾਸਵਰਡ ਵੇਖਾਓ
 login-item-password-reveal-checkbox-hide =
     .title = ਪਾਸਵਰਡ ਲੁਕਾਓ
+login-item-password-reveal-checkbox =
+    .aria-label = ਪਾਸਵਰਡ ਵੇਖਾਓ
 login-item-copy-password-button-text = ਕਾਪੀ ਕਰੋ
 login-item-copied-password-button-text = ਕਾਪੀ ਕੀਤਾ!
 login-item-save-changes-button = ਤਬਦੀਲੀਆਂ ਸੰਭਾਲੋ
@@ -118,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } ਪਸੰਦਾਂ ਨੂੰ ਵੇਖੋ
         }
     .accesskey = V
-confirm-delete-dialog-title = ਇਹ ਲਾਗਇਨ ਹਟਾਉਣਾ ਹੈ?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = ਮੈਨੂੰ ਮੁੜ ਨਾ ਪੁੱਛੋ
     .accesskey = D
@@ -130,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = ਰੱਦ ਕਰੋ
 about-logins-confirm-remove-dialog-title = ਇਹ ਲਾਗਇਨ ਹਟਾਉਣਾ ਹੈ?
 confirm-delete-dialog-message = ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ ਹੈ।
-confirm-delete-dialog-confirm-button = ਹਟਾਓ
 about-logins-confirm-remove-dialog-confirm-button = ਹਟਾਓ
 confirm-discard-changes-dialog-title = ਨਾ-ਸੰਭਾਲੀਆਂ ਤਬਦੀਲੀਆਂ ਖ਼ਾਰਜ ਕਰਨੀਆਂ ਹਨ?
 confirm-discard-changes-dialog-message = ਸਾਰੀਆਂ ਨਾ-ਸੰਭਾਲੀਆਂ ਤਬਦੀਲੀਆਂ ਗੁਆਚ ਜਾਣਗੀਆਂ।
