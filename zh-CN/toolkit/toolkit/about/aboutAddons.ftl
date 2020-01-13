@@ -305,9 +305,9 @@ go-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = 扩展与主题跟手机上的应用一样，帮您保护密码、下载视频、提供优惠信息、拦截恼人广告、改变浏览器外观等等。这些小程序通常由第三方开发。以下是一些 { -brand-product-name } 所<a data-l10n-name="learn-more-trigger">推荐</a>的，在安全性、性能、功能等方面表现突出的项目。
+discopane-intro = 扩展和主题就像手机上的应用，可帮助您保管密码、下载视频、查找优惠信息、拦截恼人广告、改变浏览器外观等等。这些小型程序大多由第三方开发。以下是一些 { -brand-product-name } <a data-l10n-name="learn-more-trigger">推荐</a>的附加组件，她们在安全性、性能和功能等方面表现优秀。
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = 下面某些是根据您安装的其他附加组件、偏好设置、使用统计推导出的个性化推荐。
+discopane-notice-recommendations = 以下的部分推荐是基于您的已安装附加组件、选项设置和使用统计得出的个性化结果。
 discopane-notice-learn-more = 详细了解
 privacy-policy = 隐私政策
 # Refers to the author of an add-on, shown below the name of the add-on.
