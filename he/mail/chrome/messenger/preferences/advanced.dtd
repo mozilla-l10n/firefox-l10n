@@ -103,7 +103,7 @@
 <!ENTITY clearCacheNow.accesskey         "נ">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "כאשר שרת מבקש את האישור האישי שלי:">
+<!ENTITY certSelection.description       "כאשר שרת מבקש את אישור האבטחה האישי שלי:">
 <!ENTITY certs.auto                      "בחר אחד באופן אוטומטי">
 <!ENTITY certs.auto.accesskey            "א">
 <!ENTITY certs.ask                       "שאל אותי תמיד">
