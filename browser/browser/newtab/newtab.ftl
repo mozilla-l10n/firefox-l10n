@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     geprüfte Inhalte von ausgewählten Sponsoren. Ihre 
     Surf-Daten verlassen niemals Ihre { -brand-product-name }-Installation - wir sehen sie nicht und unsere
     Sponsoren auch nicht.
+newtab-privacy-modal-paragraph-2 =
+    Neben spannenden Geschichten zeigen wir Ihnen auch relevante,
+    geprüfte Inhalte von ausgewählten Sponsoren. <strong>Ihre 
+    Surf-Daten verlassen niemals Ihre { -brand-product-name }-Installation<strong> — wir sehen sie nicht und unsere
+    Sponsoren auch nicht.
 newtab-privacy-modal-link = Wie Datenschutz für die Tab-Startseite funktioniert
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Lesezeichen entfernen
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Leider ist ein Fehler beim
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Beliebte Themen:
 newtab-pocket-more-recommendations = Mehr Empfehlungen
-newtab-pocket-how-it-works = Wie es funktioniert
 newtab-pocket-whats-pocket = Was ist { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } holen
 newtab-pocket-cta-text = Speichern Sie Ihre Lieblingstexte in { -pocket-brand-name } und gewinnen Sie gedankenreiche Einblicke durch faszinierende Texte.
