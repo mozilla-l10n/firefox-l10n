@@ -36,6 +36,10 @@ permissions-button-ok =
     .accesskey = E
 permissions-searchbox =
     .placeholder = Recercar un site web
+permissions-capabilities-autoplay-block =
+    .label = Blocar l’àudio
+permissions-capabilities-autoplay-blockall =
+    .label = Blocar l’àudio e la vidèo
 permissions-capabilities-allow =
     .label = Autorizar
 permissions-capabilities-block =
@@ -46,8 +50,6 @@ permissions-capabilities-listitem-allow =
     .value = Autorizar
 permissions-capabilities-listitem-block =
     .value = Blocar
-permissions-capabilities-listitem-allow-first-party =
-    .value = Domeni principal sol
 permissions-capabilities-listitem-allow-session =
     .value = Autorizar pendent la session
 
@@ -58,10 +60,6 @@ permissions-invalid-uri-label = Picatz un nom d'òste valid
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Excepcions - Proteccion contra lo seguiment
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Avètz desactivat la proteccion contra lo seguiment sus aqueles sites web.
 permissions-exceptions-content-blocking-window =
     .title = Excepcions - Blocatge de contengut
     .style = { permissions-window.style }
@@ -102,6 +100,12 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Podètz indicar quines sites web an totjorn o jamai l’autorizacion de lançar un mèdia amb son. Picatz las adreças dels sites que volètz gerir e causissètz Blocar o Autorizar.
 
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Paramètres - Lectura automatica
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +125,9 @@ permissions-site-location-desc = Los sites seguents an demandat l’accès a vò
 permissions-site-location-disable-label =
     .label = Blocar las novèlas demandas d’accès a vòstra adreça
 permissions-site-location-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar vòstra adreça. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
+
+## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 

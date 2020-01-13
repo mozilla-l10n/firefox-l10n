@@ -82,6 +82,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Marcapaginas">
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra personala">
 
 <!ENTITY pageSourceCmd.label "Còdi font de la pagina">
@@ -142,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.manageAccount.label "Gestion del compte…">
 
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels

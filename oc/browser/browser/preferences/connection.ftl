@@ -35,6 +35,8 @@ connection-proxy-http-share =
     .accesskey = t
 connection-proxy-ssl = Servidor mandatari SSL
     .accesskey = S
+connection-proxy-https = Servidor mandatari HTTPS
+    .accesskey = H
 connection-proxy-ssl-port = Pòrt
     .accesskey = o
 connection-proxy-ftp = Servidor mandatari FTP
@@ -70,16 +72,15 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Activar lo DNS via HTTPS
     .accesskey = v
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL per resòlver DNS amb HTTPS
+connection-dns-over-https-url-resolver = Utilizar lo provesidor
+    .accesskey = p
 # Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Utilizar lo DNS per defaut ({ $url })
-    .accesskey = U
-    .tooltiptext = Utilizar lo DNS per defaut per resòlver via HTTPS
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (per defaut)
+    .tooltiptext = Utilizar l‘URL per defaut per la resolucion DNS via HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizat
     .accesskey = P
     .tooltiptext = Picatz vòstra URL preferida per la resolucion de DNS via HTTPS
+connection-dns-over-https-custom-label = Personalizat
