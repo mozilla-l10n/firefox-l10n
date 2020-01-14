@@ -135,7 +135,7 @@ media-capabilities-title = Mediaominaisuudet
 # List all the entries of the database.
 media-capabilities-enumerate = Listaa tietokannan sisältö
 
-
+##
 
 intl-title = Internationalisointi ja lokalisointi
 intl-app-title = Sovelluksen asetukset
@@ -160,7 +160,7 @@ remote-debugging-title = Etävianjäljitys (Chromium-protokolla)
 remote-debugging-accepting-connections = Hyväksyy yhteyksiä
 remote-debugging-url = URL-osoite
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -260,6 +260,7 @@ d3d11video-crash-guard = D3D11-videopurkaja
 d3d9video-crash-buard = D3D9-videopurkaja
 d3d9video-crash-guard = D3D9-videopurkaja
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX -videopurkaja
 reset-on-next-restart = Nollaa seuraavan käynnistyksen yhteydessä
 gpu-process-kill-button = Lopeta GPU-prosessi
 gpu-device-reset = Laitteen nollaus
