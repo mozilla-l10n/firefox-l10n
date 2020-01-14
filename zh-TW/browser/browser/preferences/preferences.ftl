@@ -313,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = 數位權利管理（DRM）內容
 play-drm-content =
@@ -623,7 +623,7 @@ sync-sign-in =
     .label = 登入
     .accesskey = g
 sync-signedin-settings-header = 同步設定
-sync-signedin-settings-desc = 請選擇要同步哪些資料到您其他使用 { -brand-short-name } 的裝置上。
+sync-signedin-settings-desc = 選擇要同步哪些資料到您其他使用 { -brand-short-name } 的裝置
 
 ## Sync section - enabling or disabling sync.
 
@@ -902,7 +902,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自訂
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 兼顧保護與效能。網站可正常運作。
 content-blocking-etp-strict-desc = 保護更強大，但可能會導致某些網站或內容故障。
