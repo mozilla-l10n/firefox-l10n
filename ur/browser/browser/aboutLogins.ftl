@@ -36,6 +36,8 @@ menu-menuitem-android-app = { -lockwise-brand-short-name }  براٴے  Android
 
 ## Login List
 
+login-list =
+    .aria-label = لاگ انزتلاش کرنےوالی کیوری
 login-list-count =
     { $count ->
         [one] { $count }  لاگ  ان
@@ -43,6 +45,7 @@ login-list-count =
     }
 login-list-sort-label-text = کے مطابق چھانٹیں:
 login-list-name-option = نام (A-Z)
+login-list-breached-option = خلاف ورزی کرنے والی ویب سائٹیں
 login-list-last-changed-option = آخری بار ترمیم کردہ
 login-list-last-used-option = آخری استعمال
 login-list-intro-title = کوئی لاگ ان نہیں ملا
@@ -60,11 +63,8 @@ about-logins-login-intro-heading-logged-in = کوئی ہمہ وقت ساز  لا
 
 login-item-new-login-title = نیا لاگ ان بنائیں
 login-item-edit-button = تدوین کریں
-login-item-delete-button = مٹائیں
 about-logins-login-item-remove-button = ہٹائیں
 login-item-origin-label = ویب سائٹ ایڈریس
-login-item-origin =
-    .placeholder = https://www.example.com
 login-item-username-label = صارف کا نام
 about-logins-login-item-username =
     .placeholder = (صارف نام کا نہیں)
@@ -93,7 +93,6 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-confirm-delete-dialog-title = اس لاگ ان کو مٹایں؟
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = مجھے دوبارہ مت پوچھیں
     .accesskey = د
@@ -105,7 +104,6 @@ confirmation-dialog-dismiss-button =
     .title = منسوخ کریں
 about-logins-confirm-remove-dialog-title = اس لاگ ان کو ہٹائیں؟
 confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
-confirm-delete-dialog-confirm-button = مٹائیں
 about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ضائع کریں؟
 confirm-discard-changes-dialog-message = سبھی غیر محفوظ شدہ تبدیلیاں ختم ہوجائیں گی۔
