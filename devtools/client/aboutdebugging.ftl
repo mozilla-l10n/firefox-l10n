@@ -24,6 +24,15 @@ about-debugging-sidebar-runtime-item-waiting-for-browser = En espèra del navega
 about-debugging-setup-usb-disable-button = Desactivar los periferics USB
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Activat
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Apondre
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Cap d’emplaçament ret es pas estat apondut pel moment.
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Òste
 
 # Runtime Page strings
 
@@ -33,6 +42,10 @@ about-debugging-runtime-disconnect-button = Se desconectar
 
 # Debug Targets strings
 
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Examinar
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Tampar lo messatge

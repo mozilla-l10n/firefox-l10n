@@ -241,18 +241,60 @@ addon-open-about-debugging = Desbugar los moduls
 
 ## Recommended add-ons page
 
+install-theme-button = Installar lo tèma
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Gerir
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Mai d’opcions
 
 ## Add-on actions
 
+report-addon-button = Rapòrt
+remove-addon-button = Levar
+disable-addon-button = Desactivar
+enable-addon-button = Activar
+expand-addon-button = Mai d’opcions
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Activar
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opcions
+       *[other] Preferéncias
+    }
+details-addon-button = Detalhs
+release-notes-addon-button = Nòtas de version
+permissions-addon-button = Permissions
 addons-enabled-heading = Activats
 extension-enabled-heading = Activadas
 theme-enabled-heading = Activat
 plugin-enabled-heading = Activats
 dictionary-enabled-heading = Activats
 locale-enabled-heading = Activadas
+ask-to-activate-button = Demandar per activar
+always-activate-button = Totjorn activar
+never-activate-button = Activar pas jamai
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (desactivat)
 
 ## Pending uninstall message bar
 
+addon-detail-updates-label = Permetre las mesas a jorn automaticas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Autorizat en navegacion privada
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Autorizat en navegacion privada
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 
 ## Page headings
 

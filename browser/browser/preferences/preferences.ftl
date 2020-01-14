@@ -487,12 +487,14 @@ search-bar-shown =
     .label = Apondre la barre de recèrca a la barra d'aisinas
 search-engine-default-header = Motor de cerca per defaut
 search-engine-default-desc = Causir lo motor de recèrca per defaut per d'utilizar dins las barras d'adreça e de recèrca.
+search-engine-default-desc-2 = Aqueste es lo motor de recèrca per defaut de la barra d’adreça e de a barra de recèrca. Podètz lo cambiar quand volgatz.
 search-suggestions-header = Suggestions de recèrca
+search-suggestions-desc = Causissètz cossí apareisseràn las suggestions dels motors de recèrca.
 search-suggestions-option =
     .label = Afichar de suggestions de recèrca
     .accesskey = A
 search-show-suggestions-url-bar-option =
-    .label = Afichar las suggestions dins los resultats de la barra d'adreça
+    .label = Mostrar las suggestions dins los resultats de la barra d'adreça
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -501,6 +503,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mostrar las suggestions avant l’istoric dins la barra d’adreça
+search-show-suggestions-private-windows =
+    .label = Mostrar las suggestions de recèrca en navegacion privada
 search-suggestions-cant-show = Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat { -brand-short-name } per pas jamai servar l'istoric.
 search-one-click-header = Motor de recèrca en un clic
 search-one-click-desc = Causir de motors de recerca altenatius qu'apareisson jos las barras d'adreça e de recèrca quand sètz a picar un mot.
