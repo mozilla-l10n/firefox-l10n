@@ -25,7 +25,7 @@ scope = <strong>범위:</strong> { $name }
 script-spec = <strong>스크립트 스펙:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>현재 워커 URL:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>활성화 캐시 이름:</strong> { $name }
-waiting-cache-name = <strong>대기중 캐시 이름:</strong> { $name }
+waiting-cache-name = <strong>대기 캐시 이름:</strong> { $name }
 push-end-point-waiting = <strong>푸시 엔드포인트:</strong> { waiting }
 push-end-point-result = <strong>푸시 엔드포인트:</strong> { $name }
 # This term is used as a button label (verb, not noun).
