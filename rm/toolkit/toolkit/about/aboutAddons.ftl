@@ -353,6 +353,10 @@ remove-addon-disabled-button = Impussibel dad allontanar <a data-l10n-name="link
 disable-addon-button = Deactivar
 enable-addon-button = Activar
 expand-addon-button = Ulteriuras opziuns
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Activar
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Preferenzas
@@ -456,6 +460,7 @@ discover-heading = Persunalisescha tes { -brand-short-name }
 shortcuts-heading = Administrar scursanidas dad extensiuns
 theme-heading-search-label = Chattar ulteriurs designs
 extension-heading-search-label = Chattar ulteriuras extensiuns
+default-heading-search-label = Chattar ulteriurs supplements
 addons-heading-search-input =
     .placeholder = Tschertgar sin addons.mozilla.org
 addon-page-options-button =

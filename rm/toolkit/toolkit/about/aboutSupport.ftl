@@ -139,7 +139,7 @@ media-capabilities-title = Funcziunalitad medias
 # List all the entries of the database.
 media-capabilities-enumerate = Percurrer la banca da datas
 
-
+##
 
 intl-title = Internaziunalisaziun & lingua
 intl-app-title = Configuraziun da l'applicaziun
@@ -160,9 +160,11 @@ intl-regional-prefs = Preferenzas regiunalas
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Debugadi a distanza (protocol Chromium)
+remote-debugging-accepting-connections = Connexiuns vegnan acceptadas
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -262,6 +264,7 @@ d3d11video-crash-guard = Decodader da video D3D11
 d3d9video-crash-buard = Decodader da video D3D9
 d3d9video-crash-guard = Decodader da video D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 reset-on-next-restart = Redefinir cun reaviar la proxima giada
 gpu-process-kill-button = Terminar il process da la GPU
 gpu-device-reset = Reinizialisaziun da l'apparat
