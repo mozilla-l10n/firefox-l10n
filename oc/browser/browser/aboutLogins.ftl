@@ -5,6 +5,8 @@
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+fxaccounts-avatar-button =
+    .title = Gestion del compte
 
 ## The ⋯ menu that is in the top corner of the page
 

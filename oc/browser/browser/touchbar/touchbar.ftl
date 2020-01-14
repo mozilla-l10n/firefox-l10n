@@ -14,6 +14,8 @@ new-tab = Onglet novèl
 add-bookmark = Apondre un marcapagina
 open-bookmarks-sidebar = Dobrir la barra laterala d'onglets
 reader-view = Mòde lectura
+# Meant to match the string displayed in an empty URL bar.
+open-location = Picar un tèrme de recercar o una adreça
 share = Partejar
 close-window = Tampar la fenèstra
 
