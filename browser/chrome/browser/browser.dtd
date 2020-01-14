@@ -912,6 +912,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "Cookies e donadas de sites">
 
 
+<!ENTITY contentBlocking.manageSettings2.label "Gerir los paramètres de proteccion">
+<!ENTITY contentBlocking.manageSettings2.accesskey "G">
 
 
 
