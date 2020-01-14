@@ -87,6 +87,7 @@ login-item-time-created = { DATETIME($timeCreated, day: "numeric", month: "long"
 
 ## Master Password notification
 
+master-password-notification-message = براہ کرم محفوظ لاگ ان اور پاس ورڈز کو دیکھنے کے لئے اپنا ماسٹر پاس ورڈ درج کریں
 master-password-reload-button =
     .label = لاگ ان
     .accesskey = L
@@ -111,6 +112,8 @@ confirm-discard-changes-dialog-confirm-button = رد کريں
 
 ## Breach Alert notification
 
+breach-alert-text = اس ویب سائٹ سے پاس ورڈز لیک یا چوری ہوگئے تھے جب سے آپ نے لاگ ان کی تفصیلات کو آخری بار اپ ڈیٹ کیا تھا۔ اپنے اکاؤنٹ کی حفاظت کے لئے اپنا پاس ورڈ تبدیل کریں۔
+breach-alert-link = اس خلاف ورزی کے بارے میں مزید معلومات حاصل کریں۔
 breach-alert-dismiss =
     .title = اس انتباہ کو بند کریں
 
