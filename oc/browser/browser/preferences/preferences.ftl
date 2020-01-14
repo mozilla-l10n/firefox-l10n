@@ -822,8 +822,11 @@ content-blocking-third-party-cookies = Cookies de seguiment tèrces
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Standard
+    .label = Estandard
     .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estricte
+    .accesskey = r
 enhanced-tracking-protection-setting-custom =
     .label = Personalizat
     .accesskey = P

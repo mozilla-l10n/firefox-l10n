@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } a blocat { $count } traçador dempuèi la setmana passada.
+       *[other] { -brand-short-name } a blocat { $count } traçadors dempuèi la setmana passada.
+    }
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Lo nivèl de proteccion es reglat sus <b>Estandard</b>
+    .title = Anar als paramètres de confidencialitat
+protection-report-header-details-strict = Lo nivèl de proteccion es reglat sus <b>Estricte</b>
+    .title = Anar als paramètres de confidencialitat
+protection-report-header-details-custom = Lo nivèl de proteccion es reglat sus <b>Personalizat</b>
+    .title = Anar als paramètres de confidencialitat
 protection-report-page-title = Proteccion de la vida privada
 protection-report-content-title = Proteccions de la vida privada
 protection-report-manage-protections = Gerir los paramètres
