@@ -892,6 +892,7 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "In Firefox cumplettamain nov arriva il 2020">
 <!ENTITY activity_stream_firefox_promo_description "Proximamain: Prestaziun augmentada. Dapli protecziun cunter il fastizar. E funcziuns sviluppadas per ta gidar a chattar, memorisar e cundivider tut quai che ta plascha online.">
+<!ENTITY activity_stream_firefox_promo_button "Dà in tgit">
 
 <!ENTITY activity_stream_topsites "Paginas preferidas">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
