@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     curà cun premura da sponsurs distinguids. Nus garantin che tias datas
     da navigaziun na bandunan mai tia copia persunala da { -brand-product-name }  —
     nus n'avain betg access a questas datas e noss sponsurs n'era betg.
+newtab-privacy-modal-paragraph-2 =
+    Ultra dad istorgias captivantas, ta mussain nus era cuntegn relevant, 
+    curà cun premura da sponsurs distinguids. Nus garantin che <strong>tias datas
+    da navigaziun na bandunan mai tia copia persunala da { -brand-product-name }</strong>  —
+    nus n'avain betg access a questas datas e noss sponsurs n'era betg.
 newtab-privacy-modal-link = Ve a savair co la protecziun da datas funcziuna sin la pagina Nov tab
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Allontanar il segnapagina
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oha! Nus avain quasi charg
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populars:
 newtab-pocket-more-recommendations = Dapli propostas
-newtab-pocket-how-it-works = Co ch'i funcziuna
 newtab-pocket-whats-pocket = Tge è { -pocket-brand-name }?
 newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
 newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.
