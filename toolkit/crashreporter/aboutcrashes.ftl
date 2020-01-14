@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Annunzias da collaps
-clear-all-reports-label = Allontanar tut las annunzias
+submit-all-button-label = Trametter tut
 delete-button-label = Allontanar tut
 delete-confirm-title = Allontanar las annunzias
-delete-confirm-description = Quai stizza tut las annunzias e na po betg pli vegnir revocà.
 delete-unsubmitted-description = Quai stizza tut las annunzias da collaps betg tramessas e na po betg pli vegnir revocà.
 delete-submitted-description = Quai stizza la glista d'annunzias da collaps tramessas, na stizza dentant betg las datas tramessas. Igl è impussibel da revocar quest pass.
 crashes-unsubmitted-label = Annunzias da collaps betg tramessas
