@@ -284,11 +284,11 @@ about-debugging-worker-fetch-not-listening =
     .value = fetch 이벤트를 기다리지 않습니다
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
-about-debugging-worker-status-running = 실행중
+about-debugging-worker-status-running = 실행 중
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = 중지됨
 # Displayed for service workers in runtime pages that are registering.
-about-debugging-worker-status-registering = 등록중
+about-debugging-worker-status-registering = 등록 중
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = 범위

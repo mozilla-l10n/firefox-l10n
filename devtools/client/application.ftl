@@ -48,12 +48,12 @@ serviceworker-worker-status = 상태
 
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
-serviceworker-worker-status-running = 실행중
+serviceworker-worker-status-running = 실행 중
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = 중지됨
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
-serviceworker-worker-status-registering = 등록중
+serviceworker-worker-status-registering = 등록 중
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = 여기서 검사하려면 서비스 워커를 등록해야 합니다. <a>더 알아보기</a>

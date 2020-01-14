@@ -807,7 +807,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = 쿠키와 사이트 데이터
-sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산중…
+sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산 중…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
