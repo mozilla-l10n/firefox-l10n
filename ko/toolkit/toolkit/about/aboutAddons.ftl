@@ -239,7 +239,7 @@ addon-updates-reset-updates-to-manual = 모든 부가기능을 수동 업데이�
 extensions-updates-updating =
     .value = 업데이트 확인 중
 extensions-updates-installed =
-    .value = 업데이트가 완료되었습니다.
+    .value = 업데이트 완료
 extensions-updates-downloaded =
     .value = 부가 기능 업데이트를 다운로드 완료 했습니다.
 extensions-updates-restart =
@@ -252,7 +252,7 @@ extensions-updates-update-selected =
     .label = 업데이트 설치
     .tooltiptext = 현재 목록 내 업데이트 설치하기
 addon-updates-updating = 업데이트 확인 중
-addon-updates-installed = 업데이트가 완료되었습니다.
+addon-updates-installed = 업데이트 완료
 addon-updates-none-found = 업데이트 없음
 addon-updates-manual-updates-found = 업데이트 가능 항목 보기
 
