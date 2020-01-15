@@ -18,6 +18,10 @@ config-about-warning-checkbox =
 config-search-prefs =
     .value = Soek:
     .accesskey = o
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 

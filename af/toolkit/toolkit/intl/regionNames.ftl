@@ -233,6 +233,7 @@ region-name-vn = Viëtnam
 region-name-vu = Vanuatu
 region-name-wf = Wallis en Futuna
 region-name-ws = Samoa
+region-name-xr = Svalbard
 region-name-ye = Jemen
 region-name-yt = Mayotte
 region-name-za = Suid-Afrika
