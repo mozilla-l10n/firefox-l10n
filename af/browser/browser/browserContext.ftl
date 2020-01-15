@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Gaan een bladsy terug
+    .aria-label = Terug
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Gaan een bladsy vorentoe
+    .aria-label = Vorentoe
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Herlaai
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Stop
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -72,6 +86,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Stoor skakel as…
     .accesskey = e
+main-context-menu-save-link-to-pocket =
+    .label = Stoor skakel in { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -111,6 +128,9 @@ main-context-menu-media-play-speed =
 main-context-menu-media-play-speed-slow =
     .label = Stadig (0,5×)
     .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Normaal
+    .accesskey = N
 main-context-menu-media-play-speed-fast =
     .label = Vinnig (1,25×)
     .accesskey = V
@@ -144,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Verlaat volskerm
     .accesskey = o
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Beeld-in-Beeld
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Herlaai prent
     .accesskey = H
@@ -201,6 +226,9 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Versteek dié inprop
     .accesskey = V
+main-context-menu-save-to-pocket =
+    .label = Stoor bladsy in { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Stuur bladsy na toestel
     .accesskey = r
@@ -261,6 +289,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspekteer element
     .accesskey = n
+main-context-menu-inspect-a11y-properties =
+    .label = Inspekteer toeganklikheidseienskappe
 main-context-menu-eme-learn-more =
     .label = Meer inligting oor DRM…
     .accesskey = D
