@@ -23,6 +23,7 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL Proxy:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "HTTPS proxy:">
 <!ENTITY  socks.label                   "SOCKS poslužitelj:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +42,10 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Veze s localhost, 127.0.0.1 i ::1 nikada nisu preko proxy.">
+<!ENTITY  noproxyLocalhostDesc.label    "Veze s localhost, 127.0.0.1 i ::1 nikada nisu preko proxy.">
 <!ENTITY  shareproxy.label              "Koristi ovaj proxy poslužitelj za sve protokole">
 <!ENTITY  shareproxy.accesskey          "o">
+<!ENTITY  proxyHttpSharing.label        "Koristi ovaj proxy i za HTTPS">
 <!ENTITY  autologinproxy.label          "Ne pitaj za prijavu ukoliko je lozinka spremljena">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Ova mogućnost vas tiho prijavi na proxy ukoliko imate spremljene lozinke za njih. Biti ćete obaviješteni ukoliko prijava nije uspješna.">
@@ -51,9 +53,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Omogući DNS preko HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "D">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Koristi zadano">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "n">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Koristi zadani URL za rješavanje DNS preko HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Prilagođeno">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "g">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Unesite željeni URL za rješavanje DNS preko HTTPS">
