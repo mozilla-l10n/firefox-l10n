@@ -49,7 +49,7 @@ fonts-langgroup-korean =
     .label = Korejski
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
 fonts-langgroup-latin =
-    .label = Latinski
+    .label = Latinica
 fonts-langgroup-malayalam =
     .label = Malezijski
 fonts-langgroup-math =
