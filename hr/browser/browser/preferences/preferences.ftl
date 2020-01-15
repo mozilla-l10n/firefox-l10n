@@ -148,13 +148,13 @@ open-new-link-as-tabs =
     .label = Otvori poveznice u karticama umjesto novih prozora
     .accesskey = p
 warn-on-close-multiple-tabs =
-    .label = Upozorava te pri zatvaranju višestrukih kartica
+    .label = Upozorava te prilikom zatvaranja višestrukih kartica
     .accesskey = v
 warn-on-open-many-tabs =
-    .label = Upozorava te pri otvaranju višestrukih kartica koje može usporiti { -brand-short-name }
+    .label = Upozorava te prilikom otvaranja višestrukih kartica, što može usporiti { -brand-short-name }
     .accesskey = u
 switch-links-to-new-tabs =
-    .label = Kada otvorite poveznicu u novoj kartici, odmah prijeđi na nju
+    .label = Kad otvoriš poveznicu u novoj kartici, odmah prijeđi na nju
     .accesskey = d
 show-tabs-in-taskbar =
     .label = Prikaži pretpregled kartica u Windows traci zadataka
@@ -328,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) sadržaj
 play-drm-content =
@@ -922,7 +922,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Prilagođeno
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
 content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti lom nekih web lokacija ili sadržaja.
