@@ -390,6 +390,7 @@ search-keyword-warning-bookmark = U het 'n sleutelwoord gekies wat tans deur 'n 
 
 ## Containers Section
 
+containers-back-link = « Gaan terug
 containers-header = Konteksoortjies
 containers-add-button =
     .label = Voeg nuwe konteks by
