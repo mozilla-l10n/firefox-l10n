@@ -57,7 +57,7 @@ policy-Extensions = Instaliraj, ukloni ili zaključaj dodatke. Mogućnost instal
 policy-ExtensionSettings = Upravljajte svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Omogućite ili onemogućite automatska ažuriranja dodataka.
 policy-FirefoxHome = Postavite Firefox početnnu stranicu.
-policy-FlashPlugin = Dopustite ili zabranite upotrebu dodatka Flash.
+policy-FlashPlugin = Dopusti ili zabrani upotrebu dodatka Flash.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Postavite i opcionalno zaključajte početnu stranicu.
