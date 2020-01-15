@@ -12,8 +12,8 @@
 <!ENTITY cmd.askToActivate.tooltip            "현재 부가 기능 사용 확인">
 <!ENTITY cmd.alwaysActivate.label             "항상 사용">
 <!ENTITY cmd.alwaysActivate.tooltip           "현재 부가 기능은 항상 사용">
-<!ENTITY cmd.neverActivate.label              "사용 안함 ">
-<!ENTITY cmd.neverActivate.tooltip            "현재 부가 기능은 사용 안함">
+<!ENTITY cmd.neverActivate.label              "사용 안 함">
+<!ENTITY cmd.neverActivate.tooltip            "현재 부가 기능은 사용 안 함">
 <!ENTITY cmd.stateMenu.tooltip                "부가 기능 사용 상태 변경">
 
 <!ENTITY cmd.uninstallAddon.label             "제거">
@@ -68,4 +68,6 @@
 <!ENTITY addon.createdBy.label                "- ">
 
 <!ENTITY settings.path.button.label           "찾아보기…">
+
+<!-- addon actions -->
 <!ENTITY setting.learnmore "더 알아보기…">

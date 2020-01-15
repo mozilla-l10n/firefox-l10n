@@ -25,8 +25,8 @@ version-dd = <span data-l10n-name="version">버전:</span> { $version }
 
 state-dd-enabled = <span data-l10n-name="state">상태:</span> 사용
 state-dd-enabled-block-list-state = <span data-l10n-name="state">상태:</span> 사용 ({ $blockListState })
-state-dd-Disabled = <span data-l10n-name="state">상태:</span> 사용 안함
-state-dd-Disabled-block-list-state = <span data-l10n-name="state">상태:</span> 사용 안함 ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">상태:</span> 사용 안 함
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">상태:</span> 사용 안 함 ({ $blockListState })
 mime-type-label = MIME 타입
 description-label = 설명
 suffixes-label = 확장자
