@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Bywerkgeskiedenis
+history-intro = Die volgende opdaterings is geïnstalleer
 close-button-label =
     .buttonlabelcancel = Sluit
     .title = Bywerkgeskiedenis
@@ -11,13 +12,6 @@ name-header = Bywerkingnaam
 date-header = Installeringdatum
 type-header = Soort
 state-header = Status
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
 # Used to display update history
 #
 # Variables:
