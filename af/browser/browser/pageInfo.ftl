@@ -12,6 +12,8 @@ select-all =
 menu-select-all =
     .label = Kies almal
     .accesskey = a
+close-dialog =
+    .key = w
 general-tab =
     .label = Algemeen
     .accesskey = A
@@ -85,6 +87,8 @@ security-view-identity-domain =
     .value = Webwerf:
 security-view-identity-verifier =
     .value = Geverifieer deur:
+security-view-identity-validity =
+    .value = Verval op:
 security-view-privacy =
     .value = Privaatheid en geskiedenis
 security-view-privacy-history-value = Het ek hierdie webwerf voor vandag besoek?
@@ -103,6 +107,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = Ja, koekies
+security-site-data-no = Nee
 image-size-unknown = Onbekend
 not-set-verified-by = Nie gespesifiseer nie
 page-info-not-specified =
@@ -137,6 +143,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Gebruik verstek
 security-no-visits = Nee
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Nee
+        [one] Ja, een keer
+       *[other] Ja, { $visits } keer
+    }
 # This string is used to display the type of
 # an image
 # Variables:
