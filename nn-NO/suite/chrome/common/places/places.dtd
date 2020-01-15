@@ -32,6 +32,7 @@
 <!ENTITY exportBookmarksToHTML.label       "Eksporter bokmerke til HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Importer data frå ein annan nettlesar…">
+<!ENTITY importOtherBrowser.accesskey      "a">
 
 
 
