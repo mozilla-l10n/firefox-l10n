@@ -48,6 +48,9 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Boekmerk hierdie bladsy
+    .accesskey = m
 main-context-menu-open-link =
     .label = Open skakel
     .accesskey = O
