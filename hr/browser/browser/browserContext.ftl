@@ -292,5 +292,5 @@ main-context-menu-inspect-element =
 main-context-menu-inspect-a11y-properties =
     .label = Ispitaj svojstva pristupačnosti
 main-context-menu-eme-learn-more =
-    .label = Saznajte više o DRM-u…
+    .label = Saznaj više o DRM-u …
     .accesskey = D

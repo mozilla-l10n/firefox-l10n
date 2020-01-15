@@ -45,7 +45,7 @@ social-tab-contant = Društvene mreže postavljaju programe za praćenje na drug
 cookie-tab-title = Kolačići za praćenje između web stranica
 cookie-tab-content = Ovi kolačići te prate od web stranice do web stranice, kako bi prikupili podatke o tome što radiš na mreži. Postavljaju ih treće strane poput oglašivača i analitičkih tvrtki. Blokiranje kolačića za praćenje među web stranicama, smanjuje broj oglasa koji te prate. <a data-l10n-name="learn-more-link">Saznaj više</a>
 tracker-tab-title = Praćenje sadržaja
-tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kȏd za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznajte više</a>
+tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kod za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznaj više</a>
 fingerprinter-tab-title = Čitači digitalnog otiska
 fingerprinter-tab-content = Čitači digitalnog otiska prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj profil. Pomoću ovog digitalnog otiska mogu te pratiti na različitim web stranicama. <a data-l10n-name="learn-more-link">Saznaj više</a>
 cryptominer-tab-title = Kripto rudari
@@ -68,16 +68,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Uključi { -sync-brand-short-name } …
     .title = Prijeđi na postavke sinkronizacije
-manage-devices = Upravljaj uređajima
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Sinkronizacija s { $count } drugim uređajem
-        [few] Sinkronizacija s { $count } druga uređaja
-       *[other] Sinkronizacija s { $count } drugih uređaja
-    }
-lockwise-sync-not-syncing-devices = Ne sinkronizira se na druge uređaje
 manage-connected-devices = Upravljanje uređajima…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.

@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Preporučeni dodatak
 cfr-doorhanger-feature-heading = Preporučena funkcija
 cfr-doorhanger-pintab-heading = Pokušajte ovo: Zakačite karticu
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zašto ovo vidim
@@ -23,7 +23,7 @@ cfr-doorhanger-extension-manage-settings-button = Upravljanje postavkama preporu
     .accesskey = U
 cfr-doorhanger-extension-never-show-recommendation = Ne pokazuj mi ovu preporuku
     .accesskey = N
-cfr-doorhanger-extension-learn-more-link = Saznajte više
+cfr-doorhanger-extension-learn-more-link = Saznaj više
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
