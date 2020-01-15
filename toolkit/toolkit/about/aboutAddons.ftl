@@ -21,7 +21,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Provjeri dostupnost dopuna
 list-empty-button =
-    .label = Saznajte više o dodacima
+    .label = Saznaj više o dodacima
 install-addon-from-file =
     .label = Instaliraj dodatak iz datoteke…
     .accesskey = I
@@ -316,7 +316,7 @@ discopane-intro =
 discopane-notice-recommendations =
     Neki prijedlozi su personalizirani. Bazirani su na drugim dodacima koje
     ste već instalirali, postavkama profila ili statistici korištenja.
-discopane-notice-learn-more = Saznajte više
+discopane-notice-learn-more = Saznaj više
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

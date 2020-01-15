@@ -40,7 +40,7 @@ protection-report-manage-protections = Upravljanje postavkama
 graph-today = Danas
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Dijagram sadrži ukupni broj svake vrste programa za praćenje koji su ovaj tjedan bili blokirani.
-social-tab-title = Programi za praćenje društvenih mreža
+social-tab-title = Programi za praćenje s društvenih mreža
 social-tab-contant = Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, vidiš i gledaš na mreži. To omogućava društvenim medijima saznati o tebi više od onoga što dijeliš na svojim profilima na društvenim mrežama. <a data-l10n-name="learn-more-link">Saznaj više</a>
 cookie-tab-title = Kolačići za praćenje između web stranica
 cookie-tab-content = Ovi kolačići te prate od web stranice do web stranice, kako bi prikupili podatke o tome što radiš na mreži. Postavljaju ih treće strane poput oglašivača i analitičkih tvrtki. Blokiranje kolačića za praćenje među web stranicama, smanjuje broj oglasa koji te prate. <a data-l10n-name="learn-more-link">Saznaj više</a>
@@ -129,12 +129,12 @@ password-warning =
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Programi za praćenje društvenih mreža
+    .title = Programi za praćenje s društvenih mreža
     .aria-label =
         { $count ->
-            [one] { $count } program za praćenje društvenih mreža { $percentage }
-            [few] { $count } programa za praćenje društvenih mreža { $percentage }
-           *[other] { $count } programa za praćenje društvenih mreža { $percentage }
+            [one] { $count } program za praćenje s društvenih mreža { $percentage }
+            [few] { $count } programa za praćenje s društvenih mreža { $percentage }
+           *[other] { $count } programa za praćenje s društvenih mreža { $percentage }
         }
 bar-tooltip-cookie =
     .title = Kolačići za praćenje među web lokacijama

@@ -24,8 +24,8 @@ newsletter-thanks-title = Hvala!
 newsletter-thanks-message = Ako prethodno nisi potvrdio/la prijavu na neki Mozilla bilten, možda to moraš učiniti. Potraži našu e-poruku u svom ulaznom poštanskom pretincu ili u filteru za neželjenu poštu.
 footer-title = Razvojno izdanje Firefoxa
 footer-message = Tražiš više od običnih programerskih alata? Provjeri Firefox preglednik koji je izgrađen izričito za programere i moderan radni proces.
-footer-learn-more-link = Saznajte više
-features-learn-more = Saznajte više
+footer-learn-more-link = Saznaj više
+features-learn-more = Saznaj više
 features-inspector-title = Inspektor
 features-inspector-desc = Ispitaj i prilagodi kȏd za izradu savršenih prijeloma stranica na razini piksela. <a data-l10n-name="learn-more">{ features-learn-more }
 features-console-title = Konzola

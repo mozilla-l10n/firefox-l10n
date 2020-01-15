@@ -925,21 +925,21 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
-content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti lom nekih web lokacija ili sadržaja.
+content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti probleme nekim web-stanicama ili sadržajima.
 content-blocking-etp-custom-desc = Odaberi programe za praćenje i skripte koje želiš blokirati.
 content-blocking-private-windows = Praćenje sadržaja u privatnim prozorima
-content-blocking-cross-site-tracking-cookies = Kolačići za praćenje među različitim web lokacijama
-content-blocking-social-media-trackers = Programi za praćenje društvenih mreža
+content-blocking-cross-site-tracking-cookies = Višestranični kolačići za praćenje
+content-blocking-social-media-trackers = Programi za praćenje s društvenih mreža
 content-blocking-all-cookies = Sve kolačiće
 content-blocking-unvisited-cookies = Kolačiće s neposjećenih stranica
 content-blocking-all-windows-trackers = Poznati pratitelji u svim prozorima
 content-blocking-all-windows-tracking-content = Praćenje sadržaja u svim prozorima
 content-blocking-all-third-party-cookies = Svi kolačići trećih strana
-content-blocking-cryptominers = Kripto rudare
+content-blocking-cryptominers = Kripto rudari
 content-blocking-fingerprinters = Jedinstvene otiske
 content-blocking-warning-title = Upozorenje!
 content-blocking-warning-description = Blokiranje sadržaja može uzrokovati greške u prikazu nekih web stranica. Lako možete isključiti blokiranje na stranicama kojima vjerujete.
-content-blocking-learn-how = Saznajte kako
+content-blocking-learn-how = Saznaj kako
 content-blocking-etp-warning-description = Blokiranje programa za praćenje moglo bi utjecati na funkcionalnost nekih web lokacija. Učitaj stranicu s programima za praćenje, kako bi se učitao sav sadržaj.
 content-blocking-warning-learn-how = Saznaj kako
 content-blocking-reload-description = Morat ćete osvježiti svoje kartice kako bi primijenili ove promjene.

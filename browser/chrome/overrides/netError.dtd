@@ -147,7 +147,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButton1Label "Prihvati rizik i nastavi">
 
 <!ENTITY errorReporting.automatic2 "Prijavite greške poput ove da biste pomogli Mozilli identificirati i blokirati maliciozne stranice">
-<!ENTITY errorReporting.learnMore "Saznajte više…">
+<!ENTITY errorReporting.learnMore "Saznaj više …">
 
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">

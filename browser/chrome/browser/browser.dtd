@@ -997,7 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.label "Upravljanje postavkama za zaštitu">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
-<!ENTITY contentBlocking.socialblock.label "Programi za praćenje društvenih mreža">
+<!ENTITY contentBlocking.socialblock.label "Programi za praćenje s društvenih mreža">
 
 <!ENTITY contentBlocking.cryptominers.label "Kripto rudari">
 <!ENTITY contentBlocking.cryptominersView.label "Kripto rudari">
