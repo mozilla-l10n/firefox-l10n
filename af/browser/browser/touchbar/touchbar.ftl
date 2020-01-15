@@ -12,6 +12,8 @@ fullscreen = Volskerm
 find = Vind
 new-tab = Nuwe oortjie
 add-bookmark = Voeg boekmerk by
+open-bookmarks-sidebar = Maak boekmerkkantbalk oop
+reader-view = Leesaansig
 # Meant to match the string displayed in an empty URL bar.
 open-location = Soek of tik adres in
 share = Deel

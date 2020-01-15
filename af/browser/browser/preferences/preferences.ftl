@@ -19,6 +19,7 @@ pref-page-title =
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Tuis
 pane-search-title = Soek
 category-search =
     .tooltiptext = { pane-search-title }
@@ -37,6 +38,7 @@ feature-enable-requires-restart = { -brand-short-name } moet herbegin om dié fu
 feature-disable-requires-restart = { -brand-short-name } moet herbegin om dié funksie te deaktiveer.
 should-restart-title = Herbegin { -brand-short-name }
 should-restart-ok = Herbegin { -brand-short-name } nou
+cancel-no-restart-button = Kanselleer
 restart-later = Herbegin later
 
 ## Extension Control Notifications
@@ -75,10 +77,19 @@ always-check-default =
     .accesskey = K
 is-default = { -brand-short-name } is tans die verstekblaaier
 is-not-default = { -brand-short-name } is nie die verstekblaaier nie
+set-as-my-default-browser =
+    .label = Maak verstek...
+    .accesskey = D
+startup-restore-previous-session =
+    .label = Herstel vorige sessie
+    .accesskey = S
 tabs-group-header = Oortjies
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab besoek oortjies in die volgorde wat hulle onlangs gebruik is
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Maak skakels oop in oortjies in plaas van nuwe vensters
+    .accesskey = W
 warn-on-close-multiple-tabs =
     .label = Waarsku wanneer meer as een oortjie gesluit word
     .accesskey = m
@@ -123,6 +134,7 @@ containers-remove-cancel-button = Moenie dié konteks verwyder nie
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Taal en Voorkoms
 fonts-and-colors-header = Fonte en kleure
 default-font = Verstekfont
     .accesskey = V
@@ -134,10 +146,20 @@ advanced-fonts =
 colors-settings =
     .label = Kleure…
     .accesskey = K
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoem
+preferences-default-zoom = Verstek zoem
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+language-header = Taal
 choose-language-description = Kies u voorkeurtaal waarin bladsye vertoon moet word
 choose-button =
     .label = Kies…
     .accesskey = K
+manage-browser-languages-button =
+    .label = Stel alternatiewe...
+    .accesskey = l
 translate-web-pages =
     .label = Vertaal webinhoud
     .accesskey = V
@@ -153,6 +175,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Lêers en Toepassings
 download-header = Aflaaie
 download-save-to =
     .label = Stoor lêers na
@@ -242,6 +265,7 @@ update-application-version = Weergawe { $version } <a data-l10n-name="learn-more
 update-application-use-service =
     .label = Gebruik 'n agtergronddiens om bywerkings te installeer
     .accesskey = a
+update-pref-write-failure-title = Skryf mislukking
 
 ## General Section - Performance
 
@@ -249,6 +273,7 @@ performance-title = Werkverrigting
 performance-use-recommended-settings-checkbox =
     .label = Gebruik aanbevole instellings vir werkverrigting
     .accesskey = u
+performance-use-recommended-settings-desc = Hierdie instellings is aangepas vir u rekenaar se hardeware en bedryfstelsel.
 performance-settings-learn-more = Meer inligting
 performance-allow-hw-accel =
     .label = Gebruik hardewareversnelling indien beskikbaar
@@ -279,6 +304,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Soek vir teks wanneer ek begin tik
     .accesskey = s
+browsing-picture-in-picture-toggle-enabled =
+    .label = Aktiveer beeld-in-beeld videokontroles
+    .accesskey = E
+browsing-picture-in-picture-learn-more = Meer inligting
+browsing-cfr-recommendations-learn-more = Meer inligting
 
 ## General Section - Proxy
 
@@ -288,9 +318,14 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Nuwe Vensters en Oortjies
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Tuisblad en nuwe vensters
+home-newtabs-mode-label = Nuwe oortjies
+home-mode-choice-blank =
+    .label = Leë bladsy
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -308,10 +343,27 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-search-header =
+    .label = Web soektog
+home-prefs-topsites-header =
+    .label = Topwerwe
+home-prefs-topsites-description = Die webwerwe wat u die meeste besoek
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Aanbeveel deur { $provider }
+home-prefs-recommended-by-learn-more = Hoe dit werk
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Geborgde Verhale
+home-prefs-highlights-option-visited-pages =
+    .label = Besoeke Bladsye
+home-prefs-highlights-options-bookmarks =
+    .label = Boekmerke
 
 ## Search Section
 
 search-engine-default-header = Versteksoekenjin
+search-suggestions-header = Soekvoorstelle
 search-suggestions-option =
     .label = Verskaf soekvoorstelle
     .accesskey = s
@@ -327,6 +379,7 @@ search-restore-default =
 search-remove-engine =
     .label = Verwyder
     .accesskey = V
+search-find-more-link = Vind meer soekenjins
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dupliseer sleutelwoord
