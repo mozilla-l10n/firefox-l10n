@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Menos dados, mais poupança">
 <!ENTITY firstrun_data_subtext2 "Desative as imagens para gastar menos dados em cada site que visita.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Conta">
-<!ENTITY firstrun_sync_message2 "Retome onde ficou.">
 <!ENTITY firstrun_sync_message3 "Sincronize os seus marcadores, histórico e palavras-passe com o seu telefone.">
 <!ENTITY firstrun_sync_subtext2 "Utilize o Sync para encontrar os marcadores, palavras-passe, e outras coisas que guarda no &brandShortName; em todos os seus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincronize as coisas que guarda em dispositivos móveis no Firefox para computador, de forma privada e segura.">
-<!ENTITY updatednewfirstrun_sync_subtext "Inicie sessão na sua conta para aproveitar ao máximo o &brandShortName;">
-<!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY firstrun_sendtab_title "Enviar separador">
 <!ENTITY firstrun_sendtab_message "Partilhe os separadores do telemóvel para o PC — instantaneamente.">
-<!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
-<!ENTITY newfirstrun_signin_button "Ligar o Sync">
-<!ENTITY updatednewfirstrun_signin_button "Iniciar sessão no &brandShortName;">
+<!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY onboard_start_button_browser "Iniciar navegação">
 <!ENTITY firstrun_button_notnow "Agora não">
 <!ENTITY firstrun_button_next "Seguinte">
-
-<!ENTITY firstrun_signin_button2 "Iniciar sessão">
+<!ENTITY firstrun_signup_button "Registar">
 
 <!ENTITY firstrun_tabqueue_title "Ligações">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Eu">
 <!ENTITY firstrun_account_message "Instalou o &brandShortName; noutro dispositivo?">
-
-<!ENTITY firstrun_signup_button "Registar">
 
 <!ENTITY  onboard_start_restricted1 "Mantenha-se seguro e em controlo com esta versão simplificada do &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Está ligado a">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,15 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Bem-vindo ao &brandShortName;">
 <!ENTITY activity_stream_signin_description "Comece a sincronizar os marcadores, palavras-passe e muito mais com a sua conta Firefox.">
-<!ENTITY activity_stream_signin_button "Iniciar sessão">
-
 <!ENTITY activity_stream_signup_button "Registar">
 <!ENTITY activity_stream_signin_prompt "Já tem uma conta?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Inicie a sessão.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "O seu Firefox, completamente novo, chega em 2020">
 
 <!ENTITY activity_stream_topsites "Sites mais visitados">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
