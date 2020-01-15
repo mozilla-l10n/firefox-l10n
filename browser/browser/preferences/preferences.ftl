@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Šalji “Ne prati me” signal web stranicama (stranice ga ne moraju poštivati)
-do-not-track-learn-more = Saznajte više
+do-not-track-learn-more = Saznaj više
 do-not-track-option-default-content-blocking-known =
     .label = Samo kad je { -brand-short-name } postavljen da blokira poznate programe za praćenje
 do-not-track-option-always =
@@ -162,7 +162,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Omogući sadržajne kartice
     .accesskey = m
-browser-containers-learn-more = Saznajte više
+browser-containers-learn-more = Saznaj više
 browser-containers-settings =
     .label = Postavke…
     .accesskey = t
@@ -334,7 +334,7 @@ drm-content-header = Digital Rights Management (DRM) sadržaj
 play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
     .accesskey = p
-play-drm-content-learn-more = Saznajte više
+play-drm-content-learn-more = Saznaj više
 update-application-title = { -brand-short-name } dopune
 update-application-description = Ažuriraj { -brand-short-name } za najbolju preformansu, stabilnost i sigurnost.
 update-application-version = Inačica { $version } <a data-l10n-name="learn-more">Što je novo</a>
@@ -392,7 +392,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Granica procesiranja sadržaja
     .accesskey = G
 performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu poboljšati performansu kad koristiš više kartica, ali će koristiti i više memorije.
-performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznajte kako provjeriti da li je više procesa omogućeno.</a>
+performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznaj kako provjeriti je li omogućen višeprocesni rad.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -426,13 +426,13 @@ browsing-cfr-recommendations =
 browsing-cfr-features =
     .label = Preporuči mogućnosti tijekom pregledavanja
     .accesskey = m
-browsing-cfr-recommendations-learn-more = Saznajte više
+browsing-cfr-recommendations-learn-more = Saznaj više
 
 ## General Section - Proxy
 
 network-settings-title = Postavke mreže
 network-proxy-connection-description = Postavi kako se { -brand-short-name } spaja na Internet.
-network-proxy-connection-learn-more = Saznajte više
+network-proxy-connection-learn-more = Saznaj više
 network-proxy-connection-settings =
     .label = Postavke...
     .accesskey = e
@@ -523,10 +523,10 @@ search-bar-header = Traka pretraživanja
 search-bar-hidden =
     .label = Koristite adresnu traku za pretraživanje i navigaciju
 search-bar-shown =
-    .label = Dodajte traku pretraživanja u alatnu traku
+    .label = Dodaj traku pretraživanja u alatnu traku
 search-engine-default-header = Zadana tražilica
 search-engine-default-desc = Odaberite zadani pretraživač koji ćete koristiti u adresnoj traci i traci pretraživanja.
-search-engine-default-desc-2 = Ovo je zadana tražilica u adresnoj traci i traci za pretraživanje. Možete je promijeniti u bilo koje vrijeme.
+search-engine-default-desc-2 = Ovo je zadana tražilica u adresnoj traci i traci za pretraživanje. Možeš je promijeniti u bilo koje vrijeme.
 search-engine-default-private-desc-2 = Odaberite drugi zadani pretraživač za Privatno pretraživanje
 search-separate-default-engine =
     .label = Koristi ovu tražilicu u privatnim prozorima
@@ -545,13 +545,13 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Prikažite prijedloge za pretraživanje ispred povijesti pregledavanja u rezultatima adresne trake
+    .label = U adresnoj traci prikaži prijedloge za pretraživanje ispred povijesti pregledavanja
 search-show-suggestions-private-windows =
     .label = Prikaži prijedloge za pretraživanje u Privatnom pretraživanju
 suggestions-addressbar-settings = Promijeni postavke za povijest pregledavanja, zabilješke i prijedloge za kartice
 search-suggestions-cant-show = Sugestije pretraživanja neće biti prikazane u lokacijskoj traci jer ste podesili { -brand-short-name } da ne pamti povijest.
 search-one-click-header = Pretraživači na jedan klik
-search-one-click-desc = Odaberite alternativne pretraživače koji će se pojaviti ispod adresne trake i trake pretraživanja kada započnete upisivati pojmove.
+search-one-click-desc = Odaberi alternativne pretraživače koji će se pojaviti ispod adresne trake i trake pretraživanja kad započneš upisivati pojmove.
 search-choose-engine-column =
     .label = Pretraživač
 search-choose-keyword-column =
@@ -562,7 +562,7 @@ search-restore-default =
 search-remove-engine =
     .label = Ukloni
     .accesskey = U
-search-find-more-link = Pronađite još pretraživača
+search-find-more-link = Pronađi još pretraživača
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Postojeća ključna riječ
@@ -832,7 +832,7 @@ sitedata-total-size-calculating = Izračunavanje veličine podataka web stranice
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tvoji spremljeni kolačići, podaci web stranica i privremena memorija trenutačno zauzimaju { $value } { $unit } prostora na disku.
-sitedata-learn-more = Saznajte više
+sitedata-learn-more = Saznaj više
 sitedata-delete-on-close =
     .label = Obriši kolačiće i podatke stranica kada je { -brand-short-name } zatvoren
     .accesskey = c
@@ -890,7 +890,7 @@ content-blocking-header = Blokiranje sadržaja
 content-blocking-section-description = Zaštiti svoju privatnost dok pregledavaš. Blokiraj nevidljivi sadržaj koji prati koje stranice posjećuješ i koji te profilira. Blokiranje dijela ovog sadržaja može ubrzati učitavanje stranica.
 content-blocking-enhanced-tracking-protection = Poboljšana zaštita od praćenja
 content-blocking-section-top-level-description = Programi za praćenje te prate po internetu i prikupljaju podatke o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe i druge zlonamjerne skripte.
-content-blocking-learn-more = Saznajte više
+content-blocking-learn-more = Saznaj više
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -1003,7 +1003,7 @@ permissions-notification = Obavijesti
 permissions-notification-settings =
     .label = Postavke…
     .accesskey = o
-permissions-notification-link = Saznajte više
+permissions-notification-link = Saznaj više
 permissions-notification-pause =
     .label = Pauziraj obavijesti dok se { -brand-short-name } ponovno ne pokrene
     .accesskey = n
@@ -1032,7 +1032,7 @@ permissions-addon-exceptions =
 permissions-a11y-privacy-checkbox =
     .label = Spriječi usluge pristupačnosti da pristupe tvom pregledniku
     .accesskey = a
-permissions-a11y-privacy-link = Saznajte više
+permissions-a11y-privacy-link = Saznaj više
 
 ## Privacy Section - Data Collection
 
@@ -1040,24 +1040,24 @@ collection-header = { -brand-short-name } korištenje i skupljanje podataka
 collection-description = Težimo da vam omogućimo izbor i prikupljamo samo onoliko koliko nam treba da omogućimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego li počmemo primati osobne informacije.
 collection-privacy-notice = Politika privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.
-collection-health-report-telemetry-disabled-link = Saznajte više
+collection-health-report-telemetry-disabled-link = Saznaj više
 collection-health-report =
     .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke interakcije { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Saznajte više
+collection-health-report-link = Saznaj više
 collection-studies =
     .label = Dopusti { -brand-short-name }u da instalira i pokreće  studije
 collection-studies-link = Pregledajte { -brand-short-name } studije
 addon-recommendations =
     .label = Dopusiti { -brand-short-name } da radi presonalizirane preporuke dodataka
-addon-recommendations-link = Saznajte više
+addon-recommendations-link = Saznaj više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
 collection-backlogged-crash-reports =
     .label = Dozvoli { -brand-short-name } da šalje zapise o rušenju u tvoje ime
     .accesskey = o
-collection-backlogged-crash-reports-link = Saznajte više
+collection-backlogged-crash-reports-link = Saznaj više
 
 ## Privacy Section - Security
 ##
@@ -1069,7 +1069,7 @@ security-browsing-protection = Zaštita od zavaravajućeg sadržaja i zlonamjern
 security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
     .accesskey = B
-security-enable-safe-browsing-link = Saznajte više
+security-enable-safe-browsing-link = Saznaj više
 security-block-downloads =
     .label = Blokiraj opasna preuzimanja
     .accesskey = o
@@ -1118,7 +1118,7 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = U redu, razumijem
     .accesskey = U
-space-alert-under-5gb-message = { -brand-short-name }u ponestaje memorije. Sadržaji stranica se možda neće dobro prikazati. Posjetite “Saznajte više” kako biste optimirali korištenje memorije za bolje iskustvo tijekom pregledavanja.
+space-alert-under-5gb-message = { -brand-short-name }u ponestaje memorije. Sadržaji stranica se možda neće dobro prikazati. Posjeti „Saznaj više” za optimiranje korištenja memorije za bolje iskustvo tijekom pregledavanja.
 
 ## The following strings are used in the Download section of settings
 

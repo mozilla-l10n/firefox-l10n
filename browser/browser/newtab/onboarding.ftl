@@ -12,7 +12,7 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-learn-more = Saznajte više
+onboarding-button-label-learn-more = Saznaj više
 onboarding-button-label-try-now = Isprobajte odmah
 onboarding-button-label-get-started = Započnite
 
@@ -20,7 +20,7 @@ onboarding-button-label-get-started = Započnite
 
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
 onboarding-welcome-body = Imaš preglednik.<br/>Upoznaj ostale { -brand-product-name } dijelove.
-onboarding-welcome-learn-more = Saznajte više o prednostima.
+onboarding-welcome-learn-more = Saznaj više o prednostima.
 onboarding-welcome-modal-get-body = Imaš preglednik.<br/>Sad upoznaj ostatak { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Nadopuni svoju zaštitu privatnosti.
 onboarding-welcome-modal-privacy-body = Imaš preglednik. Dodajmo još više zaštite privatnosti.
@@ -52,7 +52,7 @@ onboarding-fullpage-form-email =
 
 onboarding-sync-welcome-header = Uzmite { -brand-product-name } sa sobom
 onboarding-sync-welcome-content = Preuzmi svoje zabilješke, povijest, lozinke i druge postavke na sve tvoje uređaje.
-onboarding-sync-welcome-learn-more-link = Saznajte više o Firefox računima
+onboarding-sync-welcome-learn-more-link = Saznaj više o Firefox računima
 onboarding-sync-form-input =
     .placeholder = E-pošta
 onboarding-sync-form-continue-button = Nastavi
