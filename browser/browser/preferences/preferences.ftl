@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Šalji “Ne prati me” signal web stranicama (stranice ga ne moraju poštivati)
+do-not-track-description = Šalji web-stranicama signal „Ne prati me” (stranice ga ne moraju poštivati)
 do-not-track-learn-more = Saznaj više
 do-not-track-option-default-content-blocking-known =
     .label = Samo kad je { -brand-short-name } postavljen da blokira poznate programe za praćenje
@@ -815,7 +815,7 @@ history-remember-search-option =
     .label = Zapamti povijest traženja i formi
     .accesskey = f
 history-clear-on-close-option =
-    .label = Očisti povijest pri zatvaranju { -brand-short-name }
+    .label = Očisti povijest prilikom zatvaranja { -brand-short-name }a
     .accesskey = z
 history-clear-on-close-settings =
     .label = Postavke…
@@ -882,7 +882,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Otvori kartice
     .accesskey = O
-addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
+addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
 
 ## Privacy Section - Content Blocking
 
@@ -958,7 +958,7 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Samo u privatnim prozorima
     .accesskey = p
-content-blocking-tracking-protection-change-block-list = Promijenite popis blokiranih
+content-blocking-tracking-protection-change-block-list = Promijeni popis blokiranih
 content-blocking-cookies-label =
     .label = Kolačići
     .accesskey = K
@@ -1037,7 +1037,7 @@ permissions-a11y-privacy-link = Saznaj više
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } korištenje i skupljanje podataka
-collection-description = Težimo da vam omogućimo izbor i prikupljamo samo onoliko koliko nam treba da omogućimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego li počmemo primati osobne informacije.
+collection-description = Želimo ti omogučiti izbor i prikupljati samo onoliko koliko nam treba da omogučimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego što počnemo primati osobne informacije.
 collection-privacy-notice = Politika privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznaj više
