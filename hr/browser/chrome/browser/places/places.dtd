@@ -15,7 +15,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Pogledi">
 <!ENTITY views.accesskey                "P">
-<!ENTITY views.tooltip                  "Promijenite prikaz">
+<!ENTITY views.tooltip                  "Promijeni prikaz">
 <!ENTITY view.columns.label             "Prikaži stupce">
 <!ENTITY view.columns.accesskey         "s">
 <!ENTITY view.sort.label                "Sortiraj">
@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Novi razdjelnik">
 <!ENTITY cmd.new_separator.accesskey       "r">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Ponovo učitaj žive zabilješke">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "u">
-
-<!ENTITY cmd.moveBookmarks.label                  "Premjesti…">
-<!ENTITY cmd.moveBookmarks.accesskey              "P">
-
 <!ENTITY col.name.label          "Ime">
 <!ENTITY col.tags.label          "Oznake">
 <!ENTITY col.url.label           "Lokacija">
 <!ENTITY col.mostrecentvisit.label "Posljednja posjeta">
 <!ENTITY col.visitcount.label    "Broj posjeta">
-<!ENTITY col.description.label   "Opis">
 <!ENTITY col.dateadded.label     "Dodano">
 <!ENTITY col.lastmodified.label  "Zadnje izmijenjeno">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Idi naprijed">
 
-<!ENTITY detailsPane.more.label "Više">
-<!ENTITY detailsPane.more.accesskey "V">
-<!ENTITY detailsPane.less.label "Manje">
-<!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Odaberite stavku za pregled i ureživanje njenih svojstava">
 
 <!ENTITY view.label               "Prikaz">

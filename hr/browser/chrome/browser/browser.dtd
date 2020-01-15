@@ -260,7 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori ploču s informacijama o lokalnom pohranjivanju">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvori ploču s informacijama o spremljenim lozinkama">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje korištenjem priključaka">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Promijenite postavke primanja obavijesti od ove stranice">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Promijeni postavke primanja obavijesti od ove stranice">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Trajno pohranjuj podatke">
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Preglednik se kontrolira s udaljene lokacije">

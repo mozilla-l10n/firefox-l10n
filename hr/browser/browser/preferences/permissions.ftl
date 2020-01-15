@@ -84,7 +84,7 @@ permissions-exceptions-cookie-desc = Možete navesti koje web stranice smiju uvi
 permissions-exceptions-popup-window =
     .title = Dopuštene stranice - skočni prozori
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Možete odrediti koje web stranice smiju prikazivati skočne prozore. Upišite točnu adresu web stranice kojoj to želite dopustiti, te kliknite na Dopusti.
+permissions-exceptions-popup-desc = Može odrediti koje web-stranice smiju prikazivati skočne prozore. Upiši točnu adresu web-stranice kojoj to želiš dopustiti, te klikni na „Dopusti”.
 
 ## Exceptions - Saved Logins
 
