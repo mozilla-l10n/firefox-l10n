@@ -8,6 +8,10 @@ profiles-create = Skep 'n nuwe profiel
 profiles-restart-title = Herbegin
 profiles-restart-in-safe-mode = Herbegin met byvoegings gedeaktiveer…
 profiles-restart-normal = Herbegin gewoonweg…
+profiles-flush-fail-title = Wysigings nie gestoor nie
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = 'n Onverwagte fout het verhoed dat u veranderinge gestoor word.
+profiles-flush-restart-button = Herbegin { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profiel: { $name }
@@ -21,10 +25,12 @@ profiles-rootdir = Wortelgids
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Plaaslike gids
 profiles-current-profile = Hierdie profiel is tans in gebruik en kan nie geskrap word nie.
+profiles-in-use-profile = Hierdie profiel word in 'n ander program gebruik en kan nie uitgevee word nie.
 profiles-rename = Hernoem
 profiles-remove = Verwyder
 profiles-set-as-default = Stel as verstekprofiel
 profiles-launch-profile = Begin met profiel in nuwe blaaier
+profiles-cannot-set-as-default-title = Kan nie verstek stel nie
 profiles-yes = ja
 profiles-no = nee
 profiles-rename-profile-title = Hernoem profiel
@@ -44,6 +50,7 @@ profiles-delete-profile-confirm =
     Wil u die profieldatalêers skrap?
 profiles-delete-files = Skrap lêers
 profiles-dont-delete-files = Moenie lêers skrap nie
+profiles-delete-profile-failed-title = Fout
 profiles-opendir =
     { PLATFORM() ->
         [macos] Wys in Finder
