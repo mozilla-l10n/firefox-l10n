@@ -263,6 +263,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = ผลัก
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = เริ่ม
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = ผลัก
+    .disabledTitle = การผลักตัวทำงานบริการถูกปิดใช้งานอยู่สำหรับ { -brand-shorter-name } แบบหลายกระบวนการในขณะนี้
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = เริ่ม
+    .disabledTitle = การเริ่มตัวทำงานบริการถูกปิดใช้งานอยู่สำหรับ { -brand-shorter-name } แบบหลายกระบวนการในขณะนี้
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = เลิกลงทะเบียน
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -287,12 +296,20 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = บริการผลัก
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = การตรวจสอบตัวทำงานบริการถูกปิดใช้งานอยู่สำหรับ { -brand-shorter-name } แบบหลายกระบวนการในขณะนี้
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = โปรเซสหลัก
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = โปรเซสหลักสำหรับเบราว์เซอร์เป้าหมาย
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = กล่องเครื่องมือแบบหลายกระบวนการ
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = กระบวนการหลักและกระบวนการเนื้อหาสำหรับเบราว์เซอร์เป้าหมาย
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ปิดข้อความ
