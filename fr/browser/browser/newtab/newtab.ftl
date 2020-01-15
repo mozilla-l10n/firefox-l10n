@@ -87,9 +87,10 @@ newtab-menu-show-privacy-info = Nos sponsors et votre vie privée
 newtab-privacy-modal-button-done = Terminé
 newtab-privacy-modal-header = Votre vie privée compte pour nous.
 newtab-privacy-modal-paragraph = En plus de partager des histoires captivantes, nous vous montrons également des contenus pertinents et soigneusement sélectionnés de sponsors triés sur le volet. Rassurez-vous, vos données de navigation ne quittent jamais votre copie personnelle de { -brand-product-name } — nous ne les voyons pas, et nos sponsors non plus.
+newtab-privacy-modal-paragraph-2 = En plus de partager des histoires captivantes, nous vous montrons également des contenus pertinents et soigneusement sélectionnés de sponsors triés sur le volet. Rassurez-vous, <strong>vos données de navigation ne quittent jamais votre copie personnelle de { -brand-product-name }</strong> — nous ne les voyons pas, et nos sponsors non plus.
 newtab-privacy-modal-link = En savoir plus sur le respect de la vie privée dans le nouvel onglet
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Supprimer le marque-page
@@ -176,7 +177,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oups, il semblerait que la
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Sujets populaires :
 newtab-pocket-more-recommendations = Plus de recommandations
-newtab-pocket-how-it-works = Mode d’emploi
 newtab-pocket-whats-pocket = { -pocket-brand-name }, qu’est-ce que c’est ?
 newtab-pocket-cta-button = Installer { -pocket-brand-name }
 newtab-pocket-cta-text = Enregistrez les articles que vous aimez dans { -pocket-brand-name }, et stimulez votre imagination avec des lectures fascinantes.
