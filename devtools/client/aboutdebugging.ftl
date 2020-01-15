@@ -205,7 +205,7 @@ about-debugging-runtime-disconnect-button = 연결 끊기
 about-debugging-connection-prompt-enable-button = 연결 프롬프트 사용
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
-about-debugging-connection-prompt-disable-button = 연결 프롬프트 사용안함
+about-debugging-connection-prompt-disable-button = 연결 프롬프트 사용 안 함
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = 프로파일러
 # Clicking on the header of a debug target category will expand or collapse the debug
