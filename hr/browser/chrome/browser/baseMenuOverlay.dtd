@@ -38,7 +38,7 @@
 <!ENTITY helpShowTour2.label            "&brandShorterName; Vodič">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Postavke...">
+<!ENTITY preferencesCmdMac.label        "Postavke …">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Usluge">

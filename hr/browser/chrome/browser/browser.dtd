@@ -55,10 +55,10 @@ in "Search through tabs". -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Otvori lokaciju…">
-<!ENTITY openFileCmd.label "Otvori datoteku...">
+<!ENTITY openFileCmd.label "Otvori datoteku …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Postavke stranice...">
+<!ENTITY printSetupCmd.label "Postavke stranice …">
 <!ENTITY printSetupCmd.accesskey "s">
 <!ENTITY printPreviewCmd.label "Pregled ispisa">
 <!ENTITY printPreviewCmd.accesskey "s">
@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Uredi ovu zabilješku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "Dodaj sve kartice u zabilješke...">
+<!ENTITY addCurPagesCmd.label "Dodaj sve kartice u zabilješke …">
 
 <!ENTITY showAllBookmarks2.label "Prikaži sve zabilješke">
 <!ENTITY recentBookmarks.label "Nedavno zabilježeno">
@@ -329,7 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Alati">
 <!ENTITY toolsMenu.accesskey          "t">
 
-<!ENTITY keywordfield.label           "Dodaj ključnu riječ za ovu pretragu...">
+<!ENTITY keywordfield.label           "Dodaj ključnu riječ za ovu pretragu …">
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "Preuzimanja">
@@ -404,7 +404,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.label "Bočna traka">
 <!ENTITY viewSidebarMenu.accesskey "B">
 
-<!ENTITY viewCustomizeToolbar.label       "Prilagodi...">
+<!ENTITY viewCustomizeToolbar.label       "Prilagodi …">
 <!ENTITY viewCustomizeToolbar.accesskey     "l">
 <!ENTITY overflowCustomizeToolbar.label       "Prilagodi alatnu traku…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "a">
@@ -478,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "I">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ukloni s alatne trake">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
-<!ENTITY customizeMenu.addMoreItems.label "Dodaj više stavki...">
+<!ENTITY customizeMenu.addMoreItems.label "Dodaj više stavki …">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatski sakrij u alatnoj traci">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
@@ -623,7 +623,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Pogledaj pozadinsku sliku">
 <!ENTITY viewBGImageCmd.accesskey     "P">
-<!ENTITY setDesktopBackgroundCmd.label      "Postavi kao podlogu radne površine...">
+<!ENTITY setDesktopBackgroundCmd.label      "Postavi kao podlogu radne površine …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Zabilježi ovu stranicu">
 <!ENTITY bookmarkPageCmd2.accesskey   "Z">
@@ -806,8 +806,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Uredi postavke blokiranja skočnih prozora...">
-<!ENTITY editPopupSettings.label "Uredi opcije blokiranja skočnih prozora...">
+<!ENTITY editPopupSettingsUnix.label "Uredi postavke blokiranja skočnih prozora …">
+<!ENTITY editPopupSettings.label "Uredi opcije blokiranja skočnih prozora …">
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "v">
 
@@ -818,7 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Pronađi na ovoj stranici...">
+<!ENTITY findOnCmd.label     "Pronađi na ovoj stranici …">
 <!ENTITY findOnCmd.accesskey "s">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Ponovno pronađi">
@@ -827,7 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Dodaj rječnike...">
+<!ENTITY spellAddDictionaries.label "Dodaj rječnike …">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.

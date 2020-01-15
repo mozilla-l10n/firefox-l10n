@@ -38,8 +38,8 @@
 <!ENTITY importItems.title              "Stavke za uvoz">
 <!ENTITY importItems.label              "Odaberite stavke za uvoz:">
 
-<!ENTITY migrating.title                "Uvozim...">
-<!ENTITY migrating.label                "Sljedeće stavke se trenutno uvoze...">
+<!ENTITY migrating.title                "Uvozi se …">
+<!ENTITY migrating.label                "Sljedeće stavke se trenutačno uvoze …">
 
 <!ENTITY selectProfile.title            "Odaberite profil">
 <!ENTITY selectProfile.label            "Uvoz je moguć iz sljedećih profila:">

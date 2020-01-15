@@ -201,10 +201,10 @@ default-font = Zadani font
 default-font-size = Veličina
     .accesskey = V
 advanced-fonts =
-    .label = Napredno...
+    .label = Napredno …
     .accesskey = a
 colors-settings =
-    .label = Boje...
+    .label = Boje …
     .accesskey = B
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zumiraj
@@ -249,8 +249,8 @@ download-save-to =
 download-choose-folder =
     .label =
         { PLATFORM() ->
-            [macos] Odaberi...
-           *[other] Pretraži...
+            [macos] Odaberi …
+           *[other] Pretraži …
         }
     .accesskey =
         { PLATFORM() ->
@@ -434,7 +434,7 @@ network-settings-title = Postavke mreže
 network-proxy-connection-description = Postavi kako se { -brand-short-name } spaja na Internet.
 network-proxy-connection-learn-more = Saznaj više
 network-proxy-connection-settings =
-    .label = Postavke...
+    .label = Postavke …
     .accesskey = e
 
 ## Home Section
@@ -624,7 +624,7 @@ sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a d
 sync-profile-picture =
     .tooltiptext = Primijeni sliku profila
 sync-disconnect =
-    .label = Prekini vezu...
+    .label = Prekini vezu …
     .accesskey = k
 sync-sign-out =
     .label = Odjavi se …
@@ -758,7 +758,7 @@ forms-ask-to-save-logins =
     .label = Pitaj za spremanje prijava i lozinka za web stranice
     .accesskey = r
 forms-exceptions =
-    .label = Iznimke...
+    .label = Iznimke …
     .accesskey = m
 forms-generate-passwords =
     .label = Predloži i generiraj jake lozinke
@@ -778,7 +778,7 @@ forms-master-pw-use =
     .label = Koristi glavnu lozinku
     .accesskey = u
 forms-master-pw-change =
-    .label = Promijeni glavnu lozinku...
+    .label = Promijeni glavnu lozinku …
     .accesskey = m
 forms-master-pw-fips-title = Trenutačno si u FIPS modu. FIPS ne dopušta praznu glavnu lozinku.
 forms-master-pw-fips-desc = Promjena lozinke nije uspjela
@@ -1011,7 +1011,7 @@ permissions-block-autoplay-media2 =
     .label = Blokiraj automatsku reprodukciju zvuka na web stranicama
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
-    .label = Iznimke...
+    .label = Iznimke …
     .accesskey = e
 permissions-autoplay = Automatska reprodukcija
 permissions-autoplay-settings =
@@ -1021,13 +1021,13 @@ permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s
 permissions-block-popups-exceptions =
-    .label = Iznimke...
+    .label = Iznimke …
     .accesskey = e
 permissions-addon-install-warning =
     .label = Upozorava te kad stranice pokušaju instalirati dodatke
     .accesskey = d
 permissions-addon-exceptions =
-    .label = Iznimke...
+    .label = Iznimke …
     .accesskey = e
 permissions-a11y-privacy-checkbox =
     .label = Spriječi usluge pristupačnosti da pristupe tvom pregledniku
