@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Atverti priedo diegimo pranešimo skydelį
 urlbar-tip-help-icon =
     .title = Žinynas ir pagalba
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Rašykite mažiau, raskite daugiau: ieškokite per „{ $engineName }“ tiesiai iš savo adreso lauko.
+urlbar-search-tips-redirect = Pradėkite savo paiešką čia, norėdami matyti žodžių siūlymus iš „{ $engineName }“ bei jūsų naršymo istorijos.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę buvimo vietos informaciją.
 urlbar-xr-blocked =
