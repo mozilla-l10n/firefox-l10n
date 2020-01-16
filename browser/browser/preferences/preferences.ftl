@@ -500,7 +500,12 @@ search-bar-shown =
     .label = ਸੰਦ-ਪੱਟੀ 'ਚ ਖੋਜ ਪੱਟੀ ਜੋੜੋ
 search-engine-default-header = ਮੂਲ ਖੋਜ ਇੰਜਣ
 search-engine-default-desc = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਅਤੇ ਖੋਜ ਪੱਟੀ 'ਚ ਵਰਤਣ ਲਈ ਡਿਫਾਲਟ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ।
+search-engine-default-private-desc-2 = ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਲਈ ਵੱਖਰਾ ਮੂਲ ਖੋਜ ਇੰਜਣ ਚੁਣੋ
+search-separate-default-engine =
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱੱਚ ਇਹ ਖੋਜ ਇੰਜਣ ਵਰਤੋਂ
+    .accesskey = U
 search-suggestions-header = ਖੋਜ ਸੁਝਾਅ
+search-suggestions-desc = ਖੋਜ ਇੰਜਣ ਤੋਂ ਸੁਝਾਅ ਕਿਵੇਂ ਦੇਣ, ਉਸ ਦੀ ਚੋਣ ਕਰੋ।
 search-suggestions-option =
     .label = ਖੋਜ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ
     .accesskey = s
@@ -644,6 +649,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = ਤਬਦੀਲੀਆਂ ਸੰਭਾਲੋ
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnect…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = m
@@ -721,6 +733,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਸੁਝਾਓ ਅਤੇ ਤਿਆਰ ਕਰੋ
     .accesskey = u
+forms-breach-alerts =
+    .label = ਸੰਨ੍ਹ ਲੱਗੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਪਾਸਵਰਡਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀ ਵੇਖਾਓ
+    .accesskey = b
 forms-breach-alerts-learn-more-link = ਹੋਰ ਜਾਣੋ
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -880,6 +895,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ, ਸਫ਼ੇ ਆਮ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ।
 content-blocking-etp-strict-desc = ਵਧੇਰੇ ਸੁਰੱਖਿਆ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਦੇ ਨਾ ਕੰਮ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।
+content-blocking-etp-custom-desc = ਚੁਣੋ ਕਿ ਕਿਹੜੇ ਟਰੈਕਰਾਂ ਅਤੇ ਸਕ੍ਰਿਪਟਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਹੈ।
 content-blocking-private-windows = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਸਮੱਗਰੀ ਟਰੈਕਿੰਗ
 content-blocking-cross-site-tracking-cookies = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼
 content-blocking-social-media-trackers = ਸਮਾਜਿਕ ਮੀਡਿਆ ਟਰੈਕਰ

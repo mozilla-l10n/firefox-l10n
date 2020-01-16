@@ -167,6 +167,7 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } ਚਾਲੂ �
 
 cfr-doorhanger-send-tab-header = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇਹ ਪੜ੍ਹੋ
 cfr-doorhanger-send-tab-recipe-header = ਇਹ ਨੁਸਖੇ ਨੂੂੰ ਰਸੋਈ 'ਚ ਲੈ ਜਾਓ
+cfr-doorhanger-send-tab-body = ਟੈਬ ਭੇਜੋ ਤੁਹਾਨੂੰ ਇਹ ਲਿੰਕ ਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ ਜਾਂ ਕਿਸੇ ਵੀ ਥਾਂ, ਜਿੱਥੇ ਤੁਸੀਂ { -brand-product-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰ ਸਕਦੇ ਹੋ, ਵਿੱਚ ਸੌਖੀ ਤਰ੍ਹਾਂ ਸਾੰਝਾ ਕਰਨ ਦਿੰਦੀ ਹੈ।
 cfr-doorhanger-send-tab-ok-button = ਟੈਬ ਭੇਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ
     .accesskey = T
 
@@ -185,10 +186,18 @@ cfr-doorhanger-socialtracking-close-button = ਬੰਦ ਕਰੋ
 cfr-doorhanger-socialtracking-dont-show-again = ਮੈਨੂੰ ਇਹ ਵਰਗੇ ਸੁਨੇਹੇ ਹੋਰ ਨਾ ਦਿਖਾਓ
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ਨੇ ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਿਆ
+cfr-doorhanger-socialtracking-description = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਜ਼ਰੂਰੀ ਹੈ। { -brand-short-name } ਹੁਣ ਸਧਾਰਨ ਆਮ ਸਮਾਜਿਕ ਮੀਡਿਆ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ, ਉਨਾਂ ਵਲੋਂ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਮੌਜੂਦਗੀ ਬਾਰੇ ਇਕੱਤਰ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਸੀਮਤ ਕਰਦਾ ਹੈ।
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਤੋਂ ਫਿੰਗਰਪਰਿੰਟਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਤੋਂ ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } ਨੇ { $date } ਤੱਕ  <b>{ $blockedCount }</b> ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।!
+    }
 cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
     .accesskey = S

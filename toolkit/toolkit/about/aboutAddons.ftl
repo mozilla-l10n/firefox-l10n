@@ -273,6 +273,7 @@ shortcuts-input =
 shortcuts-browserAction = ਇਕਸਟੈਨਸ਼ਨ ਸਰਗਰਮ ਕਰੋ
 shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਸਰਗਰਮ ਕਰੋ
 shortcuts-sidebarAction = ਬਾਹੀ ਬਦਲੋ
+shortcuts-letter = ਅੱਖਰ ਲਿਖੋ
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -324,9 +325,15 @@ addon-options-button =
 
 report-addon-button = ਰਿਪੋਰਟ
 remove-addon-button = ਹਟਾਓ
+# The link will always be shown after the other text.
+remove-addon-disabled-button = ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ <a data-l10n-name="link">ਕਿਓ?</a>
 disable-addon-button = ਅਸਮਰੱਥ ਕਰੋ
 enable-addon-button = ਸਮਰੱਥ ਕਰੋ
 expand-addon-button = ਹੋਰ ਚੋਣਾਂ
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = ਸਮਰੱਥ ਕਰੋ
 preferences-addon-button =
     { PLATFORM() ->
         [windows] ਚੋਣਾਂ
@@ -416,10 +423,12 @@ theme-heading = ਆਪਣੇ ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰ
 plugin-heading = ਆਪਣੀਆਂ ਪਲੱਗਇਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 dictionary-heading = ਆਪਣੀਆਂ ਡਿਕਸ਼ਨਰੀਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 locale-heading = ਆਪਣੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+updates-heading = ਆਪਣੇ ਅੱਪਡੇਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 discover-heading = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ
 shortcuts-heading = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 theme-heading-search-label = ਹੋਰ ਥੀਮ ਲੱਭੋ
 extension-heading-search-label = ਹੋਰ ਇਕਸਟੈਨਸ਼ਨਾਂ ਲੱਭੋ
+default-heading-search-label = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ
 addons-heading-search-input =
     .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
 addon-page-options-button =
