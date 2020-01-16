@@ -80,6 +80,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Digeriñ penel kemennadenn staliadur an askouezh
 urlbar-tip-help-icon =
     .title = Kaout skoazell
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Skrivit nebeutoc'h, kavit muioc'h: Klaskit war { $engineName } adalek ho parrenn chomlec'h.
+urlbar-search-tips-redirect = Krogit gant ar c'hlask amañ evit gwelout alioù eus { $engineName } hag ho roll istor merdeiñ.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Stanket ho peus an titouroù lec'hiadur evit al lec'hienn-mañ.
 urlbar-web-notifications-blocked =
