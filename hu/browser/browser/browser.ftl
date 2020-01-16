@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Kiegészítő telepítési üzenetpanel megnyitása
 urlbar-tip-help-icon =
     .title = Segítség kérése
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Gépeljen kevesebbet, találjon többet: { $engineName } keresés közvetlenül a címsorból.
+urlbar-search-tips-redirect = Kezdje a keresést itt, és lássa a { $engineName } javaslatait, valamint a böngészési előzményeit.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Blokkolta a helymeghatározási információkat ezen az oldalon.
 urlbar-xr-blocked =
