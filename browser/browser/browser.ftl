@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Åpne meldingspanel for utvidelsesinstallasjon
 urlbar-tip-help-icon =
     .title = Få hjelp
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Skriv mindre, finn mer: Søk med { $engineName } direkte fra adresselinjen din.
+urlbar-search-tips-redirect = Start ditt søk her for å se forslag fra { $engineName } og din nettleserhistorikk.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Du har blokkert plasseringsinformasjon for dette nettstedet.
 urlbar-xr-blocked =
