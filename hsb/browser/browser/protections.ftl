@@ -22,6 +22,8 @@ graph-total-tracker-summary =
         [few] <b>{ $count }</b> přesćěhowaki je so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowali
        *[other] <b>{ $count }</b> přesćěhowakow je so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowało
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } přesćěhowaki w priwatnych woknach dale blokuje, ale njezapřijima, što je so zablokowało.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Přesćěhowaki, kotrež { -brand-short-name } je so tutón tydźeń zablokował
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
