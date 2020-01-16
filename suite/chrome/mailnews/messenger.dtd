@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Zászlócskával megjelölt üzenetek">
 <!ENTITY selectFlaggedCmd.accesskey "Z">
+<!ENTITY menuFavoriteFolder.label "Kedvencek mappa">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Tulajdonságok…">
 <!ENTITY folderPropsFolderCmd.label "Mappatulajdonságok…">
 <!ENTITY folderPropsNewsgroupCmd.label "Hírcsoport tulajdonságai…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "E">
 <!ENTITY prevFlaggedMsgCmd.label "Zászlócskával megjelölt üzenet">
 <!ENTITY prevFlaggedMsgCmd.accesskey "Z">
+<!ENTITY folderMenu.label "Mappa">
+<!ENTITY folderMenu.accesskey "M">
 <!ENTITY startPageCmd.label "Levelező kezdőoldala">
 <!ENTITY startPageCmd.accesskey "k">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "k">
 <!ENTITY folderContextProperties.label "Tulajdonságok…">
 <!ENTITY folderContextProperties.accesskey "T">
+<!ENTITY folderContextFavoriteFolder.label "Kedvencek mappa">
+<!ENTITY folderContextFavoriteFolder.accesskey "K">
 <!ENTITY folderContextSettings.label "Beállítások…">
 <!ENTITY folderContextSettings.accesskey "B">
 
