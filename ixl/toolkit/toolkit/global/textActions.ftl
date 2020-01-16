@@ -5,6 +5,8 @@
 text-action-copy =
     .label = Eesa ivatz
     .accesskey = C
+text-action-copy-shortcut =
+    .key = C
 text-action-delete =
     .label = Eesa el
     .accesskey = D
