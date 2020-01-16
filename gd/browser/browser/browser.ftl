@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stòr dàta san stòras bhuan
 urlbar-addons-notification-anchor =
     .tooltiptext = Fosgail panail teachdaireachdan stàladh thuilleadan
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Nas lugha de sgrìobhadh: Dèan lorg le { $engineName } o bhàr an t-seòlaidh fhèin.
+urlbar-search-tips-redirect = Tòisich air lorg an-seo ’s chì thu molaidhean o { $engineName } agus on eachdraidh bhrabhsaidh agad.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Bhac thu fiosrachadh mun ionad agad air an làrach-lìn seo.
 urlbar-web-notifications-blocked =
