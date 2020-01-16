@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Otevřít panel zpráv instalace doplňku
 urlbar-tip-help-icon =
     .title = Získat pomoc
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Méně psaní, více výsledků: používejte { $engineName } přímo z vašeho adresního řádku.
+urlbar-search-tips-redirect = Zadejte vyhledávaný text a uvidíte návrhy z vyhledávače { $engineName } a vaší historie prohlížení.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali zjišťovat vaši polohu.
 urlbar-xr-blocked =
