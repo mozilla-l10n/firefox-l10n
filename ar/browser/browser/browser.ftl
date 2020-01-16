@@ -80,6 +80,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = حفظ البيانات في مساحة تخزين دائمة
 urlbar-addons-notification-anchor =
     .tooltiptext = افتح لوحة رسائل تنصيب الإضافات
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-redirect = ابدأ البحث هنا لترى الاقتراحات من { $engineName } و من تأريخ التصفح.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = لقد حجبت معلومات مكانك عن هذا الموقع.
 urlbar-xr-blocked =
