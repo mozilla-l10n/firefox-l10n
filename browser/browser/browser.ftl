@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = 打开附加组件安装消息面板
 urlbar-tip-help-icon =
     .title = 获取帮助
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = 输入寥寥，搜遍万千：在地址栏就能用 { $engineName } 搜索。
+urlbar-search-tips-redirect = 在这里搜索，可以看到 { $engineName } 提供的建议，还有您的相关浏览历史。
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = 您已阻止此网站获取位置信息。
 urlbar-xr-blocked =
