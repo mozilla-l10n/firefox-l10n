@@ -72,6 +72,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Yab dirica me kwena pi keto med-ikome
 urlbar-tip-help-icon =
     .title = Nong kony
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Coo manok, nong mapol: Yeny { $engineName } atir ki ii lanyut me kanonge mamegi.
+urlbar-search-tips-redirect = Cak yeny mamegi kany me neno tam amia ki bot { $engineName } ki yeny mamegi mukato.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Igengo woko ngec me kabedo pi kakube man.
 urlbar-web-notifications-blocked =
