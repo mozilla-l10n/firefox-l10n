@@ -16,6 +16,10 @@ graph-total-tracker-summary =
     { $count ->
        *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }起，封鎖了 <b>{ $count }</b> 組追蹤器
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } 會繼續在隱私瀏覽視窗當中封鎖追蹤器，但不會對封鎖的項目留下紀錄。
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = { -brand-short-name } 本週封鎖的追蹤器
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -62,14 +66,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = 開啟 { -sync-brand-short-name }…
     .title = 前往同步偏好設定
-manage-devices = 管理裝置
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-       *[other] 與另 { $count } 部裝置同步
-    }
-lockwise-sync-not-syncing-devices = 未與其他裝置同步
 manage-connected-devices = 管理裝置…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
