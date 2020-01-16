@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "已標示的訊息">
 <!ENTITY selectFlaggedCmd.accesskey "F">
+<!ENTITY menuFavoriteFolder.label "最愛資料夾">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "屬性…">
 <!ENTITY folderPropsFolderCmd.label "資料夾屬性…">
 <!ENTITY folderPropsNewsgroupCmd.label "新聞群組屬性…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "已標示訊息">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY folderMenu.label "資料夾">
+<!ENTITY folderMenu.accesskey "o">
 <!ENTITY startPageCmd.label "開始頁面">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "屬性…">
 <!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "最愛資料夾">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "設定…">
 <!ENTITY folderContextSettings.accesskey "e">
 
