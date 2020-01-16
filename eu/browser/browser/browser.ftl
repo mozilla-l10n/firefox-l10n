@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Ireki gehigarrien instalazio-mezuen panela
 urlbar-tip-help-icon =
     .title = Lortu laguntza
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Gutxiago idatzi, gehiago aurkitu: bilatu { $engineName } erabiliz helbide-barratik zuzenean.
+urlbar-search-tips-redirect = Hasi zure bilaketa hemen { $engineName } bilaketa-motorretik eta zure nabigazio-historiatik gomendioak ikusteko.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Kokalekuaren informazioa blokeatuta daukazu webgune honetarako.
 urlbar-xr-blocked =
