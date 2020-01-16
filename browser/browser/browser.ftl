@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Geyma gögn í varanlegri gagnageymslu
 urlbar-addons-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa fyrir viðbótauppsetningu
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Minni innsláttur, finna meira: Leitaðu með { $engineName } beint frá leitarslá.
+urlbar-search-tips-redirect = Byrjaðu að leita hér til að sjá tillögur frá { $engineName } og leitarferli.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
 urlbar-web-notifications-blocked =
