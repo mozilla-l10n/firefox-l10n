@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sarva dæti inta memöia persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Arvi o panello de instalaçion conponente azonto
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Scrivi de meno, treuva de ciù: Çerca { $engineName } inta teu bara di indirissi.
+urlbar-search-tips-redirect = Iniçia a çercâ chi pe vedde i conseggi da { $engineName } e da stöia da navegaçion.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = T'æ blocòu e informaçioin de localizaçion pe sto scito.
 urlbar-web-notifications-blocked =
