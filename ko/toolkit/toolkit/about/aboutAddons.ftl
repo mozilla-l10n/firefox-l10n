@@ -315,7 +315,7 @@ privacy-policy = 개인 정보 보호 정책
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = 제작자: <a data-l10n-name="author">{ $author }</a>
+created-by-author = 제작: <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -367,7 +367,7 @@ locale-disabled-heading = 사용 안 함
 ask-to-activate-button = 활성화 요청
 always-activate-button = 항상 사용
 never-activate-button = 사용 안 함
-addon-detail-author-label = 제작자
+addon-detail-author-label = 제작
 addon-detail-version-label = 버전
 addon-detail-last-updated-label = 최종 수정일
 addon-detail-homepage-label = 홈페이지
