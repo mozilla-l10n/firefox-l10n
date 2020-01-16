@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = ปิดกั้นคำขอใหม่ที่ขอเข้าถึงตำแหน่งที่ตั้งของคุณ
 permissions-site-location-disable-desc = นี่จะป้องกันไม่ให้เว็บไซต์ใด ๆ ที่ไม่ได้ระบุไว้ด้านบนขออนุญาตเพื่อเข้าถึงตำแหน่งที่ตั้งของคุณ การปิดกั้นการเข้าถึงตำแหน่งที่ตั้งของคุณอาจทำให้คุณลักษณะบางอย่างของเว็บไซต์ไม่สมบูรณ์
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = การตั้งค่า - สิทธิอนุญาตความจริงเสมือน
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

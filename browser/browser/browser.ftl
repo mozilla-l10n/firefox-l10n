@@ -80,6 +80,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = เปิดแผงข้อความการติดตั้งส่วนเสริม
 urlbar-tip-help-icon =
     .title = รับความช่วยเหลือ
+urlbar-search-tips-confirm = ตกลง เข้าใจแล้ว
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
