@@ -83,6 +83,7 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { $engineName } adreses joslā.
+urlbar-search-tips-redirect = Rakstiet meklējamo te un redziet meklēšanas ieteikumus no { $engineName } vai jūsu pārlūkošanas vēstures.
 
 ##
 
