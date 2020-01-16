@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
 <!ENTITY fxa.menu.syncSettings.label "Nastavení synchronizace…">
 
-<!ENTITY pictureInPictureHideToggle.label "Skrýt přepínání obrazu v obraze">
+<!ENTITY pictureInPictureHideToggle.label "Skrýt přepínač obrazu v obraze">
 <!ENTITY pictureInPictureHideToggle.accesskey "v">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -277,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Správa využívání softwaru DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otevřít MIDI panel">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Tomuto serveru jste udělili dodatečná oprávnění.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tomuto serveru jste zablokovali přístup k vaší kameře.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tomuto serveru jste zablokovali přístup k vašemu mikrofonu.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tomuto serveru jste zablokovali sdílení vaší obrazovky.">
@@ -291,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tomuto serveru jste zablokovali používání zásuvného modulu Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tomuto serveru jste zablokovali přístup k MIDI zařízením.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tomuto serveru jste zablokovali instalaci doplňků.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Tomuto serveru jste udělili dodatečná oprávnění.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazí historii">

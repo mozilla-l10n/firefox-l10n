@@ -334,7 +334,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Obsah chráněný pomocí Digital Rights Management (DRM)
 play-drm-content =
@@ -429,7 +429,7 @@ browsing-search-on-start-typing =
     .label = Psaním vyhledávat text na stránce
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
-    .label = Zobrazovat ovládací prvky videa v režimu obraz v obraze
+    .label = Zobrazovat přepínač do režimu obrazu v obraze
     .accesskey = E
 browsing-picture-in-picture-learn-more = Zjistit více
 browsing-cfr-recommendations =
@@ -949,7 +949,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastní
     .accesskey = V
 
-
+##
 
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní správné načítání webových stránek.
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
