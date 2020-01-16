@@ -82,6 +82,16 @@ urlbar-addons-notification-anchor =
     .tooltiptext = 부가기능 설치 메시지 패널 열기
 urlbar-tip-help-icon =
     .title = 도움 받기
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = 적게 입력, 많이 찾기: 주소창에서 바로 { $engineName } 검색어로 검색해 보세요.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = 이 사이트의 위치 정보 사용을 차단하였습니다.
 urlbar-xr-blocked =
