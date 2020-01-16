@@ -38,6 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "ਸਹਾਇਕ ਫਾਰਮੈਟ ਤੇ MIME ਕਿਸਮ ਵਾਲੀ ਕੋਈ ਵਿਡੀਓ ਨਹੀਂ ਲੱਭੀ।">
 <!ENTITY error.generic "ਵੀਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਣਜਾਣ ਕਾਰਨ ਕਰਕੇ ਛੱਡਿਆ ਗਿਆ।">
 
+<!ENTITY status.pictureInPicture "ਇਹ ਵਿਡੀਓ ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ ਢੰਗ ਚੱਲ ਰਿਹਾ ਹੈ।">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
