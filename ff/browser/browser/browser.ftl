@@ -76,6 +76,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Mooftu keɓe e Ndesgu Duumiingu
 urlbar-addons-notification-anchor =
     .tooltiptext = Uddit ɗaldugal ɓatakuure aafirgal ɓeyditte
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Tappu seeɗa, yiytu ko heewi: Yiylo { $engineName } e palal ñiiɓirde maa.
+urlbar-search-tips-redirect = Fuɗɗo njiilaw maa ɗoo ngam yiyde baggine ummoraade e { $engineName } kam e aslol banngogol maa.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = A daaƴii humpito nokkuure e ndee lowre.
 urlbar-web-notifications-blocked =
