@@ -649,13 +649,6 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog =
-    .title = ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ
-    .style = width: 36em; min-height: 35em;
-    .buttonlabelaccept = ਤਬਦੀਲੀਆਂ ਸੰਭਾਲੋ
-    .buttonaccesskeyaccept = S
-    .buttonlabelextra2 = Disconnect…
-    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = m
