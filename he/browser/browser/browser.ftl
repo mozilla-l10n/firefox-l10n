@@ -88,6 +88,7 @@ urlbar-tip-help-icon =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = מהיום מקלידים פחות ומוצאים יותר: אפשר לחפש עם { $engineName } ישירות משורת הכתובת שלך.
 urlbar-search-tips-redirect = ניתן להתחיל לחפש מכאן כדי לצפות בהצעות מ־{ $engineName } ואת היסטוריית הגלישה שלך.
 
 ##
