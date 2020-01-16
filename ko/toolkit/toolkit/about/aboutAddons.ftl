@@ -108,7 +108,7 @@ detail-private-browsing-on =
     .label = 허용
     .tooltiptext = 사생활 보호 모드에서 사용
 detail-private-browsing-off =
-    .label = 허용하지 않음
+    .label = 허용 안 함
     .tooltiptext = 사생활 보호 모드에서 사용 안 함
 detail-home =
     .label = 홈페이지
@@ -412,7 +412,7 @@ addon-badge-private-browsing-allowed2 =
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = 허용된 경우, 확장기능은 사생활 보호 브라우징 중에 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
-addon-detail-private-browsing-disallow = 허용하지 않음
+addon-detail-private-browsing-disallow = 허용 안 함
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
