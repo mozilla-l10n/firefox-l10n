@@ -72,6 +72,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = අනවරත ගබඩාවේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
     .tooltiptext = ඇඩෝන ස්ථාපනය කිරීමේ පණිවිඩ පුවරුව විවෘත කරන්න
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-redirect = { $engineName } යෙන් සහ ගවේශන ඉතිහාසයෙන් යෝජනා ලබාගැනීමට ඔබගේ සෙවීම මෙහි ආරම්භ කරන්න.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා ස්ථානීය තොරතුරු අවහිර කර ඇත.
 urlbar-web-notifications-blocked =
