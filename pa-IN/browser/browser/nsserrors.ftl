@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = { $hostname } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ। { $errorMessage }
+# Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = ਗ਼ਲਤੀ ਕੋਡ: { $error }
 psmerr-ssl-disabled = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਕਿਉਂਕਿ SSL ਪਰੋਟੋਕਾਲ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ।
