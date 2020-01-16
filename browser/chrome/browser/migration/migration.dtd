@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "אשף היבוא">
+<!ENTITY migrationWizard.title          "אשף הייבוא">
 
 <!ENTITY importFrom.label               "ייבוא אפשרויות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
 <!ENTITY importFromUnix.label           "ייבוא העדפות, סימניות, היסטוריה, ססמאות ונתונים נוספים מ:">
@@ -13,6 +13,8 @@
 <!ENTITY importFromIE.accesskey         "I">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
+<!ENTITY importFromEdgeBeta.accesskey   "d">
 <!ENTITY importFromNothing.label        "לא לייבא דבר">
 <!ENTITY importFromNothing.accesskey    "א">
 <!ENTITY importFromSafari.label         "Safari">
@@ -29,13 +31,13 @@
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.label          "‎360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע ססמאות.">
 
 <!ENTITY importSource.title             "ייבוא הגדרות ונתונים">
-<!ENTITY importItems.title              "פריטים ליבוא">
+<!ENTITY importItems.title              "פריטים לייבוא">
 <!ENTITY importItems.label              "נא לבחור אילו פריטים לייבא:">
 
 <!ENTITY migrating.title                "מתבצע ייבוא…">
@@ -44,7 +46,7 @@
 <!ENTITY selectProfile.title            "בחירת פרופיל">
 <!ENTITY selectProfile.label            "ניתן לייבא מהפרופילים הבאים:">
 
-<!ENTITY done.title                     "היבוא הושלם">
+<!ENTITY done.title                     "הייבוא הושלם">
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">
 
 <!ENTITY closeSourceBrowser.label       "נא לוודא שהדפדפן הנבחר סגור לפני המשך הפעילות.">
