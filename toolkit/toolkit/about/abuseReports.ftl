@@ -26,6 +26,12 @@ abuse-report-submit-button = ਭੇਜੋ
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = ਹਾਂ, ਇਹ ਹਟਾਓ
+abuse-report-messagebar-action-keep-extension = ਨਹੀਂ, ਮੈਂ ਰੱਖਾਂਗਾਂ/ਰੱਖਾਂਗੀ
+abuse-report-messagebar-action-remove-theme = ਹਾਂ, ਇਹ ਹਟਾਓ
+abuse-report-messagebar-action-keep-theme = ਨਹੀਂ, ਮੈਂ ਇਹ ਰੱਖਾਂਗਾ/ਰੱਖਾਂਗੀ
+abuse-report-messagebar-action-retry = ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ
+abuse-report-messagebar-action-cancel = ਰੱਦ ਕਰੋ
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-other-reason = ਕੁਝ ਹੋਰ

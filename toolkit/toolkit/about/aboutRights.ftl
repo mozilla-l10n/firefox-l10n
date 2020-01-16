@@ -16,6 +16,7 @@ rights-webservices = { -brand-full-name } ਤੁਹਾਡੀ ਵਰਤੋਂ ਲ
 rights-safebrowsing = <strong>ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ: </strong>ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਫੀਚਰ ਨੂੰ ਬੰਦ ਕਰਨਾ ਸਿਫਾਰਸ਼ੀ ਨਹੀਂ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਨਾਲ ਤੁਸੀਂ ਅਸੁਰੱਖਿਅਤ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਜਾ ਸਕਦੇ ਹੋ। ਜੇ ਤੁਸੀਂ ਇਹ ਫੀਚਰ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਹੇਠ ਦਿੱਤੇ ਸਟੈਪ ਹਨ:
 rights-safebrowsing-term-1 = ਐਪਲੀਕੇਸ਼ਨ ਪਸੰਦ ਖੋਲ੍ਹੋ
 rights-safebrowsing-term-2 = ਸੁਰੱਖਿਆ ਚੋਣ ਚੁਣੋ
+rights-safebrowsing-term-3 = “{ enableSafeBrowsing-label }” ਵਾਸਤੇ ਚੋਣ ਹਟਾਓ
 enableSafeBrowsing-label = ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
 rights-safebrowsing-term-4 = ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਹੁਣ ਬੰਦ ਹੋ ਜਾਵੇਗੀ
 rights-locationawarebrowsing = <strong>ਟਿਕਾਣਾ ਜਾਣੂ ਬਰਾਊਜ਼ਿੰਗ: </strong>ਚੋਣ ਮੁਤਾਬਕ ਹੈ। ਬਿਨਾਂ ਅਧਿਕਾਰ ਦੇ ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਨਹੀਂ ਭੇਜੀ ਜਾਵੇਗੀ। ਜੇ ਤੁਸੀਂ ਇਹ ਫੀਚਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਸਟੈਪ ਅੱਗੇ ਦਿੱਤੇ ਹਨ:

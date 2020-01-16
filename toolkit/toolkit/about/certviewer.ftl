@@ -14,6 +14,7 @@ certificate-viewer-algorithm = ਐਲਗੋਰਿਥਮ
 certificate-viewer-certificate-authority = ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ
 certificate-viewer-cipher-suite = ਸੀਫ਼ਰ ਸੂਟ
 certificate-viewer-common-name = ਆਮ ਨਾਂ
+certificate-viewer-email-address = ਈਮੇਲ ਸਿਰਨਾਵਾਂ
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = ਇੰਕਾ. ਦੇਸ਼
 certificate-viewer-country = ਦੇਸ਼

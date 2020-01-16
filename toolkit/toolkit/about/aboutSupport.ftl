@@ -44,6 +44,8 @@ app-basics-update-dir =
     }
 app-basics-update-history = ਅੱਪਡੇਟ ਅਤੀਤ
 app-basics-show-update-history = ਅੱਪਡੇਟ ਅਤੀਤ ਨੂੰ ਵੇਖਾਓ
+# Represents the path to the binary used to start the application.
+app-basics-binary = ਐਪਲੀਕੇਸ਼ਨ ਬਾਈਨਰੀ
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] ਪਰੋਫਾਈਲ ਡਾਇਰੈਕਟਰੀ
@@ -57,7 +59,12 @@ app-basics-memory-use = ਮੈਮੋਰੀ ਵਰਤੋਂ
 app-basics-performance = ਕਾਰਗੁਜ਼ਾਰੀ
 app-basics-service-workers = ਰਜਿਸਟਰ ਕੀਤੇ Service Workers
 app-basics-profiles = ਪਰੋਫਾਈਲ
+app-basics-launcher-process-status = ਲਾਂਚਰ ਪਰੋਸੈਸ
 app-basics-multi-process-support = ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼
+app-basics-remote-processes-count = ਰਿਮੋਟ ਪਰੋਸੈਸ
+app-basics-enterprise-policies = ਇੰਟਰਪ੍ਰਾਈਜ਼ ਨੀਤੀਆਂ
+app-basics-location-service-key-google = ਗੂਗਲ ਟਿਕਾਣਾ ਸੇਵਾ ਕੁੰਜੀ
+app-basics-safebrowsing-key-google = ਗੂਗਲ ਸੇਫ਼-ਬਰਾਊਜਿੰਗ ਕੁੰਜੀ
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = ਸੁਰੱਖਿਅਤ ਮੋਡ
 show-dir-label =
@@ -83,6 +90,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = ਫ਼ੈਸਲਾ ਲਾਗ
 graphics-crash-guards-title = ਕਰੈਸ਼ ਗਾਰਡ ਆਯੋਗ ਫੀਚਰ
 graphics-workarounds-title = ਜੁਗਾੜ
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = ਵਿੰਡੋ ਪਰੋਟੋਕਾਲ
 place-database-title = ਥਾਵਾਂ ਦਾ ਡਾਟਾਬੇਸ
 place-database-integrity = ਇਕਸਾਰਤਾ
 place-database-verify-integrity = ਇਕਸਾਰਤਾ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
@@ -137,6 +146,20 @@ intl-locales-default = ਮੂਲ ਬੋਲੀ
 intl-os-title = ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ
 intl-os-prefs-system-locales = ਸਿਸਟਮ ਬੋਲੀਆਂ
 intl-regional-prefs = ਖੇਤਰੀ ਪਸੰਦਾਂ
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-url = URL
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
