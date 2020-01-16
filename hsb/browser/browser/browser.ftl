@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Wobłuk zdźělenki přidatkoweje instalacije wočinić
 urlbar-tip-help-icon =
     .title = Pomoc sej wobstarać
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Pisajće mjenje, namakajće wjace: Pytajće z { $engineName } direktnje ze swojeho adresoweho pola.
+urlbar-search-tips-redirect = Započńće swoje pytanje tu, zo byšće namjety wot { $engineName } a ze swojeje přehladowanskeje historije widźał.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Sće tutomu websydłu informacijie wo stejnišću zapowědźił.
 urlbar-xr-blocked =
