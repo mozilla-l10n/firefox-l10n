@@ -86,6 +86,7 @@ urlbar-addons-notification-anchor =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = اكتب بحروف أقل، و جِد نتائج أكثر: ابحث مستخدمًا { $engineName } مباشرة من شريط العنوان.
 urlbar-search-tips-redirect = ابدأ البحث هنا لترى الاقتراحات من { $engineName } و من تأريخ التصفح.
 
 ##
