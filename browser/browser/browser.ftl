@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = સ્થાયી સંગ્રહમાં ડેટા સંગ્રહ કરો
 urlbar-addons-notification-anchor =
     .tooltiptext = ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = ઓછ ટાઇપ કરો, વધુ શોધો: { $engineName } તમારા સરનામાં બારમાંથી જ શોધો.
+urlbar-search-tips-redirect = { $engineName } માંથી અને તમારા બ્રાઉઝિંગ ઇતિહાસમાંથી સૂચનો જોવા માટે અહીં તમારી શોધ શરૂ કરો.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = તમે આ વેબસાઇટ માટે સ્થાન માહિતી અવરોધિત કરી છે.
 urlbar-web-notifications-blocked =
