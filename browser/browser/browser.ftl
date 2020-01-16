@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Agor panel neges gosod yr ychwanegyn
 urlbar-tip-help-icon =
     .title = Derbyn cymorth
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Teipio llai, canfod mwy: Chwiliwch gyda { $engineName } yn syth o'ch bar cyfeiriad.
+urlbar-search-tips-redirect = Cychwynnwch eich chwilio yma i weld awgrymiadau gan { $engineName } a'ch hanes pori.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Rydych wedi rhwystro'r manylion lleoliad ar gyfer y wefan hon.
 urlbar-xr-blocked =
