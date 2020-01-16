@@ -80,6 +80,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Avaa lisäosan asentamisen viestipaneeli
 urlbar-tip-help-icon =
     .title = Apua ongelmiin
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Kirjoita vähemmän, löydä enemmän: Hae hakukoneella { $engineName } suoraan osoitepalkista.
+urlbar-search-tips-redirect = Aloita hakeminen täältä, niin näet ehdotukset palvelusta { $engineName } ja selaushistoriastasi.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Olet estänyt sijaintitiedot tältä sivustolta.
 urlbar-web-notifications-blocked =
