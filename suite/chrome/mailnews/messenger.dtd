@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Flaggede meldinger">
 <!ENTITY selectFlaggedCmd.accesskey "F">
+<!ENTITY menuFavoriteFolder.label "Favorittmappe">
+<!ENTITY menuFavoriteFolder.accesskey "m">
 <!ENTITY folderPropsCmd.label "Egenskaper …">
 <!ENTITY folderPropsFolderCmd.label "Mappeegenskaper …">
 <!ENTITY folderPropsNewsgroupCmd.label "Innstillinger for nyhetsgrupper">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flaggede melding">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY folderMenu.label "Mappe">
+<!ENTITY folderMenu.accesskey "a">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Egenskaper…">
 <!ENTITY folderContextProperties.accesskey "I">
+<!ENTITY folderContextFavoriteFolder.label "Favorittmappe">
+<!ENTITY folderContextFavoriteFolder.accesskey "m">
 <!ENTITY folderContextSettings.label "Innstillinger …">
 <!ENTITY folderContextSettings.accesskey "e">
 
