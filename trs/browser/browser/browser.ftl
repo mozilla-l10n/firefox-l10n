@@ -80,6 +80,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj
 urlbar-tip-help-icon =
     .title = Nana'uì' sa rugûñu'ūnj sò'
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Ninaj gachrut. nikò narit: Nana'ui' 'ngà { $engineName } asij riña dukuán direksiôn.
+urlbar-search-tips-redirect = Gayi'ì nana'uit asij ñuna daj ni'iaj sa ruguñu'unj { $engineName } nī riña gaché nut.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Gi'iaj blokeandot dara' nuguan'an guenda sitio web na.
 urlbar-web-notifications-blocked =
