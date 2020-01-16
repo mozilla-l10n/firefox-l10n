@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = 開啟附加元件安裝訊息面板
 urlbar-tip-help-icon =
     .title = 取得幫助
+urlbar-search-tips-confirm = 好的，知道了
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
