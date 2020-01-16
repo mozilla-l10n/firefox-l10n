@@ -82,13 +82,14 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Opne meldingspanel for tileggsinstallasjon
 urlbar-tip-help-icon =
     .title = Få hjelp
+urlbar-search-tips-confirm = Ok, eg forstår
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Skriv mindre, finn meir: Søk med { $engineName } direkte frå adresselinja di.
+urlbar-search-tips-onboard = Tast mindre, finn meir: Søk med { $engineName } rett frå adresselinja.
 urlbar-search-tips-redirect = Start søket ditt her for å sjå forslag frå { $engineName } og nettlesarhistorikken.
 
 ##
