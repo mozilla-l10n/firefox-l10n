@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Store data in Persistent Storage
 urlbar-addons-notification-anchor =
     .tooltiptext = Open add-on installation message panel
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Type less, find more: Search { $engineName } right from your address bar.
+urlbar-search-tips-redirect = འདིར་ཁྱེད་ཀྱི་འཚོལ་བཤེར་འགོ་བཙུགས་ནས་{ $engineName }་དང་ཁྱེད་ཀྱི་ལྟ་བཤེར་གྱི་ཟིན་ཐོ་ནས་འོས་སྦྱོར་ལྟ་བ།
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = You have blocked location information for this website.
 urlbar-web-notifications-blocked =
