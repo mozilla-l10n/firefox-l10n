@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Onemogućite prikazivanje slika kako biste po svakoj posjećenoj stranici potrošili manje podatkovnog prometa.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Sinkroniziraj zabilješke, povijest i lozinke na tvoj mobitel.">
-<!ENTITY updatednewfirstrun_sync_title "Račun">
-<!ENTITY firstrun_sync_message2 "Nastavite gdje ste stali.">
 <!ENTITY firstrun_sync_subtext2 "Koristite Sinkronizaciju kako biste našli zabilješke, lozinke i ostalo što spremate na &brandShortName; kod svih vaših uređaja.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronizirajte stvari koje spremite na mobitelu s Firefoxom za računala, privatno i sigurno.">
 <!ENTITY firstrun_sendtab_title "Pošalji karticu">
 <!ENTITY firstrun_sendtab_message "Dijeli kartice s mobitela na radnu površinu – trenutno.">
-<!ENTITY updatednewfirstrun_sync_subtext "Prijavite se u svoj račun kako biste na najbolji način iskoristili &brandShortName;">
 <!ENTITY firstrun_signin_message "Povežite se, započnite">
-<!ENTITY firstrun_signin_button "Prijavite se u Sync">
-<!ENTITY newfirstrun_signin_button "Uključite sinkronizaciju">
-<!ENTITY updatednewfirstrun_signin_button "Prijavite se u &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Započni pregledavanje">
+<!ENTITY onboard_start_button_browser "Započni pregledavanje">
 <!ENTITY firstrun_button_notnow "Ne sada">
 <!ENTITY firstrun_button_next "Sljedeći">
 <!ENTITY firstrun_signup_button "Registriraj se">
-
-<!ENTITY firstrun_signin_button2 "Prijava">
 
 <!ENTITY firstrun_tabqueue_title "Poveznice">
 
@@ -882,7 +874,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Zabilježite stavke Prikaza čitača kako biste ih čitali i kada nema interneta.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj u zabilješke">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Dobro došli u &brandShortName;">
 <!ENTITY activity_stream_signin_description "Počni sinkronizirati zbilješke, lozinke i ostalo sa svojim Firefox računom.">
@@ -891,7 +884,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Prijavi se.">
 
-<!ENTITY activity_stream_signin_button "Prijava">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Vaš potpuno novi Firefox, stiže 2020">
+<!ENTITY activity_stream_firefox_promo_description "Uskoro dolazi: Poboljšane performanse. Napredna zaštita od praćenja. I značajke stvorene da bi Vam pomogle u traženju, spremanju i dijeljenje više onoga što volite na mreži.">
+<!ENTITY activity_stream_firefox_promo_button "Zavirite">
 
 <!ENTITY activity_stream_topsites "Najpopularnije stranice">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
