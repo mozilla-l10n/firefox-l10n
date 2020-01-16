@@ -42,6 +42,7 @@ browser-languages-window =
     .title = { -brand-short-name } postavke jezika
     .style = width: 40em
 browser-languages-description = { -brand-short-name } će prikazati prvi jezik kao zadani, dok će alternativne jezike prikazati ukoliko je potrebno prema redosljedu pojavljivanja.
+browser-languages-search = Traži više jezika…
 browser-languages-searching =
     .label = Traženje jezika …
 browser-languages-downloading =
