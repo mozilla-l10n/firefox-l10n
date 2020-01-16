@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = ค้นหาการเข้าสู่ระบบ
 create-login-button = สร้างการเข้าสู่ระบบใหม่
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon สำหรับ { $title }
 fxaccounts-sign-in-text = รับรหัสผ่านของคุณบนอุปกรณ์อื่น ๆ ของคุณ
 fxaccounts-sign-in-button = ลงชื่อเข้า { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -60,9 +55,6 @@ about-logins-login-list-empty-search-description = ไม่มีผลลั�
 login-list-item-title-new-login = การเข้าสู่ระบบใหม่
 login-list-item-subtitle-new-login = ป้อนข้อมูลรับรองการเข้าสู่ระบบของคุณ
 login-list-item-subtitle-missing-username = (ไม่มีชื่อผู้ใช้)
-about-logins-list-item-warning-icon =
-    .alt = ไอคอนคำเตือน
-    .title = เว็บไซต์ที่มีการรั่วไหล
 about-logins-list-item-breach-icon =
     .title = เว็บไซต์ที่มีการรั่วไหล
 
@@ -80,7 +72,6 @@ about-logins-intro-import = หากการเข้าสู่ระบบ�
 
 login-item-new-login-title = สร้างการเข้าสู่ระบบใหม่
 login-item-edit-button = แก้ไข
-login-item-delete-button = ลบ
 about-logins-login-item-remove-button = ลบ
 login-item-origin-label = ที่อยู่เว็บไซต์
 login-item-origin =
@@ -95,6 +86,8 @@ login-item-password-reveal-checkbox-show =
     .title = แสดงรหัสผ่าน
 login-item-password-reveal-checkbox-hide =
     .title = ซ่อนรหัสผ่าน
+login-item-password-reveal-checkbox =
+    .aria-label = แสดงรหัสผ่าน
 login-item-copy-password-button-text = คัดลอก
 login-item-copied-password-button-text = คัดลอกแล้ว!
 login-item-save-changes-button = บันทึกการเปลี่ยนแปลง
@@ -125,7 +118,6 @@ enable-password-sync-preferences-button =
            *[other] เยี่ยมชมค่ากำหนด { -sync-brand-short-name }
         }
     .accesskey = ย
-confirm-delete-dialog-title = ลบการเข้าสู่ระบบนี้?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = ไม่ต้องถามฉันอีก
     .accesskey = ม
@@ -137,7 +129,6 @@ confirmation-dialog-dismiss-button =
     .title = ยกเลิก
 about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
-confirm-delete-dialog-confirm-button = ลบ
 about-logins-confirm-remove-dialog-confirm-button = ลบ
 confirm-discard-changes-dialog-title = ละทิ้งการเปลี่ยนแปลงที่ยังไม่ได้บันทึก?
 confirm-discard-changes-dialog-message = การเปลี่ยนแปลงที่ยังไม่ได้บันทึกทั้งหมดจะสูญหาย
@@ -152,11 +143,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = มีรายการสำหรับ { $loginTitle } พร้อมชื่อผู้ใช้นั้นแล้ว
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

@@ -191,6 +191,15 @@ advanced-fonts =
 colors-settings =
     .label = สี…
     .accesskey = ส
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = ซูม
+preferences-default-zoom = ซูมเริ่มต้น
+    .accesskey = ร
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = ซูมข้อความเท่านั้น
+    .accesskey = ข
 language-header = ภาษา
 choose-language-description = เลือกภาษาที่คุณต้องการในการแสดงผลหน้า
 choose-button =
@@ -304,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = เนื้อหา Digital Rights Management (DRM)
 play-drm-content =
@@ -887,7 +896,7 @@ enhanced-tracking-protection-setting-custom =
     .label = กำหนดเอง
     .accesskey = ก
 
-
+##
 
 content-blocking-etp-standard-desc = การป้องกันและประสิทธิภาพแบบสมดุล หน้าเว็บจะโหลดเป็นปกติ
 content-blocking-etp-strict-desc = การป้องกันที่แกร่งขึ้น แต่อาจทำให้บางไซต์หรือเนื้อหาหยุดทำงานได้
@@ -952,6 +961,10 @@ permissions-location = ตำแหน่งที่ตั้ง
 permissions-location-settings =
     .label = การตั้งค่า…
     .accesskey = ต
+permissions-xr = ความจริงเสมือน
+permissions-xr-settings =
+    .label = การตั้งค่า…
+    .accesskey = ก
 permissions-camera = กล้อง
 permissions-camera-settings =
     .label = การตั้งค่า…

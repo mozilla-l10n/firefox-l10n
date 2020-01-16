@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "คุณจำเป็นต้องยืนยันบัญชีของคุณก่อนจึงจะสามารถซิงค์ได้">
 <!ENTITY fxa.unverified.button.label "เปิดการตั้งค่า &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "ซ่อนสลับภาพที่เล่นควบคู่">
-<!ENTITY pictureInPictureHideToggle.accesskey "อ">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "ลงชื่อเข้าเป็น">
 <!ENTITY fxa.menu.manageAccount.label "จัดการบัญชี…">
 <!ENTITY fxa.menu.syncSettings.label "การตั้งค่า &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "ซ่อนสลับภาพที่เล่นควบคู่">
+<!ENTITY pictureInPictureHideToggle.accesskey "อ">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "ลงชื่อเข้า &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "เปิด &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "บริการของ &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "บัญชี">
 <!ENTITY fxa.menu.settings.label "การตั้งค่า">
 <!ENTITY fxa.menu.accountSettings.label "การตั้งค่าบัญชี">
+<!ENTITY fxa.menu.manageAccount2.label "จัดการบัญชี">
 <!ENTITY fxa.menu.signOut.label "ลงชื่อออก…">
 <!ENTITY fxa.menu.deviceSettings.label "การตั้งค่าอุปกรณ์">
 <!ENTITY fxa.menu.setupSync.label "ตั้งค่า &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "ห">
 <!ENTITY stopCmd.label                "หยุด">
 <!ENTITY stopCmd.accesskey            "ห">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง">
 <!ENTITY printButton.label            "พิมพ์">
@@ -276,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "จัดการการใช้ซอฟต์แวร์ DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "เปิดแผง MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "คุณได้ปิดกั้นกล้องของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "คุณได้ปิดกั้นไมโครโฟนของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.screenBlocked.tooltip            "คุณได้ปิดกั้นเว็บไซต์นี้จากการแบ่งปันหน้าจอของคุณ">
@@ -290,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "คุณได้ปิดกั้นเว็บไซต์นี้จากการใช้ปลั๊กอิน Adobe Flash">
 <!ENTITY urlbar.midiBlocked.tooltip              "คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.installBlocked.tooltip           "คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
@@ -568,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "ค้นหาด้วย:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "คราวนี้ค้นหาด้วย:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "ต">
 
 <!ENTITY openLinkCmdInTab.label       "เปิดลิงก์ในแท็บใหม่">
+
 <!ENTITY openLinkCmdInTab.accesskey   "ท">
 <!ENTITY openLinkCmd.label            "เปิดลิงก์ในหน้าต่างใหม่">
 <!ENTITY openLinkCmd.accesskey        "ห">
@@ -601,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "ย">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "โหลดกรอบใหม่">
 <!ENTITY reloadFrameCmd.accesskey     "ล">
@@ -651,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey        "น">
 <!ENTITY savePageCmd.accesskey2       "ห">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "บันทึกกรอบเป็น…">
 <!ENTITY saveFrameCmd.accesskey       "ก">
@@ -817,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "ส">
 <!ENTITY bidiSwitchTextDirectionItem.label        "สลับทิศทางข้อความ">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ล">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
@@ -940,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "ทำไม?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ หากไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "การปิดการป้องกันจะเป็นการอนุญาตตัวติดตามทั้งหมดในไซต์นี้ นอกจากนี้ยังช่วยปรับปรุงฟังก์ชันการทำงานบางอย่างของเว็บไซต์">
-<!ENTITY protections.socialMediaTrackers.label "ตัวติดตามสังคมออนไลน์">
-<!ENTITY protections.crossSiteTrackingCookies.label "คุกกี้ติดตามข้ามไซต์">
-<!ENTITY protections.trackingContent.label "ตัวติดตามเนื้อหา">
-<!ENTITY protections.fingerprinters.label "ลายนิ้วมือดิจิทัล">
-<!ENTITY protections.cryptominers.label "ตัวขุดเหรียญดิจิทัล">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "ตัวติดตามทั้งหมดในไซต์นี้ถูกโหลดเนื่องจากการป้องกันถูกปิด">
 <!ENTITY protections.noTrackersFound.description "ไม่มีตัวติดตามที่ &brandShortName; รู้จักถูกตรวจพบที่หน้านี้">
 
@@ -968,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "ลงชื่อเข้า &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ล">
-
 <!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
 <!ENTITY syncSyncNowItemSyncing.label "กำลังซิงค์…">
 <!ENTITY syncSyncNowItem.accesskey    "ง">
@@ -1006,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "ตัวติดตามสังคมออนไลน์">
-
-<!ENTITY contentBlocking.cookies2.label "คุกกี้ติดตามข้ามไซต์">
 
 <!ENTITY contentBlocking.cryptominers.label "ตัวขุดเหรียญดิจิทัล">
 <!ENTITY contentBlocking.cryptominersView.label "ตัวขุดเหรียญดิจิทัล">
