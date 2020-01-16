@@ -90,7 +90,7 @@ urlbar-search-tips-confirm = Ok, eg forstår
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tast mindre, finn meir: Søk med { $engineName } rett frå adresselinja.
-urlbar-search-tips-redirect = Start søket ditt her for å sjå forslag frå { $engineName } og nettlesarhistorikken.
+urlbar-search-tips-redirect = Start søket ditt her for å sjå forslag frå { $engineName } og frå nettlesarshistorikken din.
 
 ##
 
