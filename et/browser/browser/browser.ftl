@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Salvesta andmeid püsivalt
 urlbar-addons-notification-anchor =
     .tooltiptext = Ava lisa paigaldamise teavituspaneel
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Sisesta vähem, leia rohkem: otsi otsingumootoriga { $engineName } otse oma aadressiribalt.
+urlbar-search-tips-redirect = Alusta oma otsingut siit, et näha soovitusi otsingumootorilt { $engineName } ning oma lehitsemise ajaloost.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Oled sellel lehel keelanud asukohateabe kasutamise.
 urlbar-web-notifications-blocked =
