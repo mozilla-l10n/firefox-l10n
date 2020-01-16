@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     visoko provjeren sadržaj odabranih sponzora. Tvoji podaci nikada
     ne napuštaju tvoj lokalni { -brand-product-name } – mi ih ne vidimo,
     naši sponzori ih također ne vide.
+newtab-privacy-modal-paragraph-2 =
+    Osim što ti donosimo očaravajuće priče, također ti prikazujemo
+    visoko provjeren sadržaj odabranih sponzora. <strong>Tvoji podaci nikada
+    ne napuštaju tvoj lokalni { -brand-product-name }</strong> — mi ih ne vidimo,
+    naši sponzori ih također ne vide.
 newtab-privacy-modal-link = Saznaj kako privatnost funkcionira na novoj kartici
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Ukloni zabilješku
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Uh! Skoro smo učitali ova
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
 newtab-pocket-more-recommendations = Više preporuka
-newtab-pocket-how-it-works = Kako ovo funkcionira
 newtab-pocket-whats-pocket = Što je { -pocket-brand-name }?
 newtab-pocket-cta-button = Nabavi { -pocket-brand-name }
 newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-name } i napuni si mozak vrhunskim štivom.
