@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Kiegészítő telepítési üzenetpanel megnyitása
 urlbar-tip-help-icon =
     .title = Segítség kérése
+urlbar-search-tips-confirm = Rendben, értettem
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
