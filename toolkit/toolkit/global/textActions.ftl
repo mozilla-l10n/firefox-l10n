@@ -23,3 +23,5 @@ text-action-delete =
 text-action-select-all =
     .label = Alles auswählen
     .accesskey = u
+text-action-select-all-shortcut =
+    .key = A
