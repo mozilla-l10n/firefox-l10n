@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складишти податке у трајном складишту
 urlbar-addons-notification-anchor =
     .tooltiptext = Отвори панел са инсталацијом додатака
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Укуцајте мање, пронађите више: претражујте { $engineName } директно из ваше адресне траке.
+urlbar-search-tips-redirect = Започните ваше претраживање овде да бисте видели предлоге { $engineName }-а и вашег историјата.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Блокирали сте локацију за овај веб сајт.
 urlbar-web-notifications-blocked =
