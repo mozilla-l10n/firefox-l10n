@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Բացել հավելման տեղադրման հաղորդագրության վահանակը
 urlbar-tip-help-icon =
     .title = Ստանալ օգնություն
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Մուտքագրեք քիչ, գտեք շատ. որոնեք { $engineName }-ը անմիջապես հասցեի գոտուց:
+urlbar-search-tips-redirect = Սկսեք ձեր որոնումը այստեղ՝ տեսնելու ամար { $engineName }-ի առաջարկները և դիտարկումների ձեր պատմությունը:
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Դուք արգելափակել եք տեղադրության տեղեկությունը այս կայքի համար:
 urlbar-xr-blocked =
