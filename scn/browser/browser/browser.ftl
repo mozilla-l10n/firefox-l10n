@@ -80,6 +80,16 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Rapi u quatru dî missaggi di nzitamentu di l'agghiuncitini
 urlbar-tip-help-icon =
     .title = Fatti ajutari
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Scrivi cchiù picca, trova cchi+ assai: cerca cu { $engineName } direttamenti dâ to barra dû nnirizzu.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Bluccasti i nfurmazziuna supra a to pusizziuni pi stu situ.
 urlbar-xr-blocked =
