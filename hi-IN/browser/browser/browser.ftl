@@ -80,6 +80,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = सहयुक्ति संस्थापन संदेश पटल खोलें
 urlbar-tip-help-icon =
     .title = सहायता प्राप्त करें
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = कम टाइप करें, अधिक खोजें: सीधे अपने पता पट्टी { $engineName } खोजें.
+urlbar-search-tips-redirect = { $engineName } और अपने ब्राउज़िंग इतिहास से सुझाव देखने के लिए अपनी खोज यहां प्रारंभ करें.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए स्थान की सूचना अवरुद्ध किये है.
 urlbar-web-notifications-blocked =
