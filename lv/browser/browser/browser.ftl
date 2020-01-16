@@ -76,6 +76,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Glabāt datus pastāvīgajā krātuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Atvērt papildinājumu instalēšanas ziņojumu paneli
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { $engineName } adreses joslā.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Atrašanās vietas informācijas koplietošana ar šo lapu ir bloķēta.
 urlbar-web-notifications-blocked =
