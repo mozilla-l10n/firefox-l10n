@@ -22,7 +22,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "서버를 찾을 수 없음">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "음. 사이트를 찾는데 문제가 발생하였습니다.">
+<!ENTITY dnsNotFound.title1 "사이트를 찾는데 문제가 발생하였습니다.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>주소가 정확하다면 다음 세 가지를 시도해 보세요:</strong>
 <ul>
@@ -61,7 +61,7 @@
 
 <!ENTITY malformedURI.pageTitle "잘못된 URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "음. 주소가 올바르지 않습니다.">
+<!ENTITY malformedURI.title1 "주소가 올바르지 않습니다.">
 
 <!ENTITY netInterrupt.title "연결이 끊어짐">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

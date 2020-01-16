@@ -178,7 +178,7 @@ newtab-discovery-empty-section-topstories-content = 더 많은 이야기는 나�
 newtab-discovery-empty-section-topstories-try-again-button = 다시 시도
 newtab-discovery-empty-section-topstories-loading = 읽는 중…
 # Displays when a layout in a section took too long to fetch articles.
-newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거의 다 로드했지만, 안 된 부분이 있습니다.
+newtab-discovery-empty-section-topstories-timed-out = 이 섹션을 거의 다 로드했지만, 안 된 부분이 있습니다.
 
 ## Pocket Content Section.
 
