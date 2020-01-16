@@ -82,6 +82,17 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Ldi agalis n yizen i usebded n uzegrir
 urlbar-tip-help-icon =
     .title = Awi tallelt
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Aru cwiṭ, af-d ugar : nadi s { $engineName } srid seg ufeggag n tensa.
+urlbar-search-tips-redirect = Bdu anadi-ik dagi akken ad tsekneḍ isumar seg { $engineName } daɣen seg umuzruy-ik n tunigin.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Tesweḥleḍ talɣut ɣef wadeg i usmelweb-a.
 urlbar-xr-blocked =
