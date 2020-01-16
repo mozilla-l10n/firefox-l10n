@@ -89,6 +89,7 @@ urlbar-tip-help-icon =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Insere minus, trova plus: cerca { $engineName } justo per tu barra de adresse.
+urlbar-search-tips-redirect = Comencia tu recerca hic pro vider le suggestiones de { $engineName } e tu chronologia de navigation.
 
 ##
 
