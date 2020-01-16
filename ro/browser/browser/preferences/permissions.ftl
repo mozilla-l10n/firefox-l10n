@@ -137,12 +137,12 @@ permissions-site-location-disable-desc = Acest lucru va împiedica orice site we
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = Setări - permisiuni pentru realitate virtuală
+    .title = Setări - Permisiuni pentru realitate virtuală
     .style = { permissions-window.style }
-permissions-site-xr-desc = Următoarele site-uri web au solicitat accesul la dispozitivele tale de realitate virtuală. Poți specifica ce site-uri pot avea acces la dispozitivele tale de realitate virtuală. Poți bloca și cererile noi de acces la dispozitivele tale de realitate virtuală.
+permissions-site-xr-desc = Următoarele site-uri web au solicitat să îți acceseze dispozitivele de realitate virtuală. Poți specifica ce site-uri web au permisiunea de a-ți accesa dispozitivele de realitate virtuală. De asemenea, poți bloca noile solicitări de accesare a dispozitivelor tale de realitate virtuală.
 permissions-site-xr-disable-label =
-    .label = Blochează cererile noi de acces la dispozitivele tale de realitate virtuală.
-permissions-site-xr-disable-desc = Astfel vei împiedica orice site-uri web nelistate mai sus ca să ceară permisiunea de a-ți accesa dispozitivele de realitate virtuală. Blocarea accesului la dispozitivele de realitate virtuală poate produce defecțiuni ale anumitor funcționalități de pe site-urile web.
+    .label = Blochează noile solicitări de accesare a dispozitivelor de realitate virtuală
+permissions-site-xr-disable-desc = Acest lucru va împiedica orice site web care nu este listat mai sus să ceară permisiunea de a-ți accesa dispozitivele de realitate virtuală. Blocarea accesului la dispozitivele de realitate virtuală ar putea interfera cu unele funcții ale site-urilor web.
 
 ## Site Permissions - Camera
 
