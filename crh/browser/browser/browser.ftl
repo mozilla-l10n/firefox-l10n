@@ -78,6 +78,17 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Verilerni Sebatkâr Mağazda mağazla
 urlbar-addons-notification-anchor =
     .tooltiptext = Eklenti qurulımı mesaj panelini aç
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+urlbar-search-tips-onboard = Daa az tuşla, daa çoq tap: { $engineName } üzerinde doğrudan adres çubuğıñızdan qıdırıñız.
+urlbar-search-tips-redirect = { $engineName } ve kezinüv keçmişiñizge esaslı telqinlerni körmek içün qıdırmañıznı mında başlañız.
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Bu sayttan qonum malümatını bloklağan olasıñız.
 urlbar-web-notifications-blocked =
