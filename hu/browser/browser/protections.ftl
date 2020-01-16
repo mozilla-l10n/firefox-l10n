@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> nyomkövető blokkolva { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } óta
        *[other] <b>{ $count }</b> nyomkövető blokkolva { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } óta
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = A { -brand-short-name } továbbra is blokkolja a nyomkövetőket a privát ablakokban, de nem tárolja, hogy mi lett blokkolva.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Követők, melyet a { -brand-short-name } blokkolt a héten
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = { -sync-brand-short-name } bekapcsolása…
     .title = Ugrás a szinkronizálási beállításokhoz
-manage-devices = Eszközök kezelése
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Szinkronizálás { $count } további eszközre
-       *[other] Szinkronizálás { $count } további eszközre
-    }
-lockwise-sync-not-syncing-devices = Nincs szinkronizálás más eszközökre
 manage-connected-devices = Eszközök kezelése…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
