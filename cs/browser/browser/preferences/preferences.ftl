@@ -1080,15 +1080,21 @@ collection-health-report =
 collection-health-report-link = Zjistit více
 collection-studies =
     .label =
-        { -brand-short-name.gender ->
-            [masculine] Povolit { -brand-short-name(case: "dat") } instalovat studie
-            [feminine] Povolit { -brand-short-name(case: "dat") } instalovat studie
-            [neuter] Povolit { -brand-short-name(case: "dat") } instalovat studie
-           *[other] Povolit instalaci studií
+        Povolit { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "dat") } instalovat studie
+            [feminine] { -brand-short-name(case: "dat") } instalovat studie
+            [neuter] { -brand-short-name(case: "dat") } instalovat studie
+           *[other] instalaci studií
         }
 collection-studies-link = Zobrazit studie aplikace { -brand-short-name }
 addon-recommendations =
-    .label = Povolit aplikaci { -brand-short-name } doporučovat rozšíření vybraná přímo pro mě
+    .label =
+        Povolit { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "dat") }
+            [feminine] { -brand-short-name(case: "dat") }
+            [neuter] { -brand-short-name(case: "dat") }
+           *[other] aplikaci { -brand-short-name }
+        } doporučovat rozšíření vybraná přímo pro mě
 addon-recommendations-link = Zjistit více
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
