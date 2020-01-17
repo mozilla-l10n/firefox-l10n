@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Flaggade meddelanden">
 <!ENTITY selectFlaggedCmd.accesskey "F">
+<!ENTITY menuFavoriteFolder.label "Favoritmapp">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Egenskaper…">
 <!ENTITY folderPropsFolderCmd.label "Mappegenskaper">
 <!ENTITY folderPropsNewsgroupCmd.label "Diskussionsgruppegenskaper">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "ä">
 <!ENTITY prevFlaggedMsgCmd.label "Flaggade meddelande">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY folderMenu.label "Mapp">
+<!ENTITY folderMenu.accesskey "o">
 <!ENTITY startPageCmd.label "Startsida för E-post">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Egenskaper…">
 <!ENTITY folderContextProperties.accesskey "a">
+<!ENTITY folderContextFavoriteFolder.label "Favoritmapp">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Inställningar…">
 <!ENTITY folderContextSettings.accesskey "I">
 
