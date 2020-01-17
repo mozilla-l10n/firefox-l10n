@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Správy označené vlajkou">
 <!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY menuFavoriteFolder.label "Priečinok Obľúbené">
+<!ENTITY menuFavoriteFolder.accesskey "b">
 <!ENTITY folderPropsCmd.label "Vlastnosti…">
 <!ENTITY folderPropsFolderCmd.label "Vlastnosti priečinka…">
 <!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusnej skupiny…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Správu označenú vlajkou">
 <!ENTITY prevFlaggedMsgCmd.accesskey "v">
+<!ENTITY folderMenu.label "Priečinok">
+<!ENTITY folderMenu.accesskey "o">
 <!ENTITY startPageCmd.label "Úvodná stránka">
 <!ENTITY startPageCmd.accesskey "v">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "l">
+<!ENTITY folderContextFavoriteFolder.label "Priečinok Obľúbené">
+<!ENTITY folderContextFavoriteFolder.accesskey "b">
 <!ENTITY folderContextSettings.label "Nastavenie…">
 <!ENTITY folderContextSettings.accesskey "s">
 
