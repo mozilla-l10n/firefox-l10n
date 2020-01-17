@@ -9,10 +9,15 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Danevell evit { $addon-name }
+abuse-report-title-extension = Disklêriañ an askouezhadenn-mañ da { -vendor-short-name }
+abuse-report-title-theme = Disklêriañ an tem-mañ da { -vendor-short-name }
 abuse-report-subtitle = Petra eo ar gudenn ?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = gant <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Ne ouezit ket peseurt kudenn dibab ?
+    <a data-l10n-name="learnmore-link">Gouzout hiroc'h diwar-benn an disklêriañ askouezhadennoù ha temoù</a>
 abuse-report-submit-description = Deskrivañ ar gudenn (diret)
 
 ## Panel buttons.
