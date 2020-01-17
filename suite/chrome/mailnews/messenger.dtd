@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Gemarkeerde berichten">
 <!ENTITY selectFlaggedCmd.accesskey "m">
+<!ENTITY menuFavoriteFolder.label "Favoriete map">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Eigenschappen…">
 <!ENTITY folderPropsFolderCmd.label "Mapeigenschappen…">
 <!ENTITY folderPropsNewsgroupCmd.label "Nieuwsgroepeigenschappen…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Gemarkeerd bericht">
 <!ENTITY prevFlaggedMsgCmd.accesskey "m">
+<!ENTITY folderMenu.label "Map">
+<!ENTITY folderMenu.accesskey "a">
 <!ENTITY startPageCmd.label "E-mail-startpagina">
 <!ENTITY startPageCmd.accesskey "s">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "z">
 <!ENTITY folderContextProperties.label "Eigenschappen…">
 <!ENTITY folderContextProperties.accesskey "E">
+<!ENTITY folderContextFavoriteFolder.label "Favoriete map">
+<!ENTITY folderContextFavoriteFolder.accesskey "o">
 <!ENTITY folderContextSettings.label "Instellingen…">
 <!ENTITY folderContextSettings.accesskey "I">
 
