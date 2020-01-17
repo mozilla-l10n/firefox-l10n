@@ -26,6 +26,10 @@ graph-total-tracker-summary =
         [many] <b>{ $count }</b> thraciwr wedi eu rwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> traciwr wedi eu rwystro ers{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = Mae { -brand-short-name } yn parhau i rwystro tracwyr mewn Ffenestri Preifat, ond nid yw'n cadw cofnod o'r hyn gafodd ei rwystro.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Tracwyr rhwystrodd { -brand-short-name } yr wythnos hon
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -77,19 +81,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Cychwyn { -sync-brand-short-name }…
     .title = Mynd i ddewisiadau cydweddu
-manage-devices = Rheoli dyfeisiau
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [zero] Cydweddu i { $count } dyfais arall
-        [one] Cydweddu i { $count } dyfais arall
-        [two] Cydweddu i { $count } ddyfais arall
-        [few] Cydweddu i { $count } dyfais arall
-        [many] Cydweddu i { $count } dyfais arall
-       *[other] Cydweddu i { $count } dyfais arall
-    }
-lockwise-sync-not-syncing-devices = Ddim yn cydweddu â dyfeisiau eraill.
 manage-connected-devices = Rheoli dyfeisiau…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
