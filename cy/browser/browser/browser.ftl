@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Agor panel neges gosod yr ychwanegyn
 urlbar-tip-help-icon =
     .title = Derbyn cymorth
+urlbar-search-tips-confirm = Iawn, rwy'n deall
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
