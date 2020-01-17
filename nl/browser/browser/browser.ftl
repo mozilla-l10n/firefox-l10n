@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Berichtpaneel voor add-on-installatie openen
 urlbar-tip-help-icon =
     .title = Hulp verkrijgen
+urlbar-search-tips-confirm = Oké, begrepen
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
