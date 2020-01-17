@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje privind instalarea de suplimente
 urlbar-tip-help-icon =
     .title = Obține asistență
+urlbar-search-tips-confirm = OK, am înțeles
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
