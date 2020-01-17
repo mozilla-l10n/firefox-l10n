@@ -19,6 +19,9 @@ abuse-report-learnmore =
     Ne ouezit ket peseurt kudenn dibab ?
     <a data-l10n-name="learnmore-link">Gouzout hiroc'h diwar-benn an disklêriañ askouezhadennoù ha temoù</a>
 abuse-report-submit-description = Deskrivañ ar gudenn (diret)
+abuse-report-submit-note =
+    Evezhiadenn : Ne lakit ket titouroù personel (evel an anv, chomlec'h postel, niverenn pellgomz, chomlec'h).
+    { -vendor-short-name } a vir an danevelloù-se en un enrolladenn badus.
 
 ## Panel buttons.
 
@@ -33,6 +36,8 @@ abuse-report-submit-button = Kas
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Disklêriañ <span data-l10n-name="addon-name">{ $addon-name }</span> nullet.
+abuse-report-messagebar-submitting = O kas an disklêriadenn diwar-benn <span data-l10n-name="addon-name">{ $addon-name }</span>.
 
 ## Message bars actions.
 
