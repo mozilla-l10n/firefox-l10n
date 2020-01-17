@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> traqueur bloqué depuis le { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> traqueurs bloqués depuis le { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } continue de bloquer les traqueurs dans les fenêtres de navigation privée, mais ne conserve aucune trace de ce qui a été bloqué.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Traqueurs bloqués par { -brand-short-name } cette semaine
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Activer { -sync-brand-short-name }…
     .title = Ouvrir les préférences de synchronisation
-manage-devices = Gérer les appareils
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Synchronisation avec { $count } autre appareil
-       *[other] Synchronisation avec { $count } autres appareils
-    }
-lockwise-sync-not-syncing-devices = Pas de synchronisation avec d’autres appareils
 manage-connected-devices = Gérer les appareils…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
