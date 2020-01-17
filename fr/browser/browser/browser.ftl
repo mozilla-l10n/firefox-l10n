@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Afficher le message d’installation du module complémentaire
 urlbar-tip-help-icon =
     .title = Obtenir de l’aide
+urlbar-search-tips-confirm = J’ai compris
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
