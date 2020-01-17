@@ -35,13 +35,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Պատկերը">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Աշխատաժամանակի մասին">
-
-<!ENTITY runtimeMenu_showMonitor_label "Դիտազննում">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Սարքի նախըտրանքներ">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Սարքի կարգավորումներ">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Արտադրողականություն">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Տեսք">
 <!ENTITY viewMenu_accesskey "V">
@@ -53,10 +53,11 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Բացել հավելված">
+
 <!ENTITY runtimeButton_label "Ընտրել աշխատաժամանակը">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +76,11 @@
 <!ENTITY projectPanel_tabs "Ներդիրներ">
 <!ENTITY runtimePanel_usb "USB սարքեր">
 <!ENTITY runtimePanel_wifi "Wi-Fi սարքեր">
-<!ENTITY runtimePanel_simulator "Նմանակիչներ">
 <!ENTITY runtimePanel_other "Այլ">
-<!ENTITY runtimePanel_installsimulator "Տեղադրել Նմանակիչ">
-<!ENTITY runtimePanel_noadbhelper "Տեղադրել ADB օգնականը">
 <!ENTITY runtimePanel_nousbdevice "Չե՞ք տեսնում ձեր սարքը">
 <!ENTITY runtimePanel_refreshDevices_label "Թարմացնել սարքերը">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "Վավեր է">
 <!ENTITY details_warning_header "Զգուշացումներ">
 <!ENTITY details_error_header "Սխալմունքներ">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "Հասցե">
 <!ENTITY details_manifestURL "Հավելվածի ID">
 <!ENTITY details_removeProject_button "Հեռացնել նախագիծը">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Նոր հավելված">
 <!ENTITY newAppHeader "Ընտրել ձևանմուշը">
 <!ENTITY newAppLoadingTemplate "Ձևանմուշների բեռնում...">
 <!ENTITY newAppProjectName "Նախագծի անունը.">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Փակել">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Լր. բաղադրիչներ">
 <!ENTITY addons_aboutaddons "Բացել Հավելումների կառավարիչը">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Կարգավորումներ">
 <!ENTITY prefs_editor_title "Խմբագրիչ">
 <!ENTITY prefs_general_title "Գլխավոր">
@@ -118,45 +116,35 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Վերականգնել նախորդ նախագիծըմ երբ WebIDE-ը սկսում է">
 <!ENTITY prefs_options_templatesurl "Ձևանմուշի URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Հասանելի ձևանմուշների ինդեքսը">
+
 <!-- Runtime Details -->
-
 <!ENTITY runtimedetails_title "Աշխատաժամանակի մասին">
-<!ENTITY runtimedetails_adbIsRoot "ADB-ն ունի root-ի իրավունքներ. ">
-<!ENTITY runtimedetails_summonADBRoot "սարքը ունի root-ի իրավունք">
-<!ENTITY runtimedetails_ADBRootWarning "(պահանջում է չկողպված bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Անսահմանափակ DevTools արտոնություններ. ">
-<!ENTITY runtimedetails_requestPrivileges "պահանջել ավելի բարձր արտոնություններ">
-<!ENTITY runtimedetails_privilegesWarning "(Կվերագործարկի սարքը: Պահանջում է root-ի իրավունքներ:)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Բուլյան">
 <!ENTITY device_typenumber "Ամբողջ">
 <!ENTITY device_typestring "Տողը">
 <!ENTITY device_typeobject "Օբյեկտ">
 <!ENTITY device_typenone "Ընտրեք տեսակը">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Սարքի նախըտրանքներ">
 <!ENTITY devicepreference_search "Որոնման նախապատվություններ">
 <!ENTITY devicepreference_newname "Նոր նախապատվության անունը">
 <!ENTITY devicepreference_newtext "Նախընտրանքի արժեքը">
 <!ENTITY devicepreference_addnew "Ավելացնել նոր նախապատվություն">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Սարքի կարգավորումներ">
 <!ENTITY devicesetting_search "Որոնման կարգավորում">
 <!ENTITY devicesetting_newname "Չկա կարգավորման անուն">
 <!ENTITY devicesetting_newtext "Կարգավորման արժեք">
 <!ENTITY devicesetting_addnew "Ավելացնել նոր կարգավորում">
-<!-- Monitor -->
 
-<!ENTITY monitor_title "Դիտազննում">
-<!ENTITY monitor_help "Օգնություն">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Սպասառուի նույնացում">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +159,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Եթե ձեր մյուս սարքը հարցնում է նշան՝ QR կոդը սկանավորելու փոխարեն, ապա պարզապես պատճենեք հետևյալ արժեքը այլ սարքում.">
 <!ENTITY wifi_auth_qr_size_note "Կարծես թե QR կոդը փոքր է, որպեսզի կապակցումը հաջողությամբ հաստատվի: Փորձեք խոշորացնել կամ մեծացնել պատուհանը:">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Հրամանի մատյանների նախափաթեթավորում">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Նմանակման ընտրանքներ">
-<!ENTITY simulator_remove "Ջնջել նմանակիչը">
-<!ENTITY simulator_reset "Վերականգնել ծրագրայինը">
-<!ENTITY simulator_name "Անուն">
-<!ENTITY simulator_software "Ծրագրակազմ">
-<!ENTITY simulator_version "Տարբերակ">
-<!ENTITY simulator_profile "Պրոֆիլ">
-<!ENTITY simulator_hardware "Սարքակազմ">
-<!ENTITY simulator_device "Սարք">
-<!ENTITY simulator_screenSize "Էկրան">
-<!ENTITY simulator_pixelRatio "Փիքսելի հարաբերակցություն">
-<!ENTITY simulator_tv_data "TV նմանակում">
-<!ENTITY simulator_tv_data_open "Կարգավորումների տվյալ">
-<!ENTITY simulator_tv_data_open_button "Բացել կարգավորումների գրացուցակը...">
