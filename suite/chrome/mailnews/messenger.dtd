@@ -275,7 +275,7 @@
 <!ENTITY prevFlaggedMsgCmd.label "Flaggade meddelande">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY folderMenu.label "Mapp">
-<!ENTITY folderMenu.accesskey "o">
+<!ENTITY folderMenu.accesskey "p">
 <!ENTITY startPageCmd.label "Startsida för E-post">
 <!ENTITY startPageCmd.accesskey "S">
 
