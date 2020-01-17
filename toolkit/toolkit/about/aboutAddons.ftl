@@ -452,7 +452,7 @@ available-updates-heading = Dostupné aktualizace
 recent-updates-heading = Aktualizováno
 release-notes-loading = Načítání…
 release-notes-error = Omlouváme se, ale při načítání poznámek k vydání nastala chyba.
-addon-permissions-empty = Toto rozšíření neotřenuje žádná oprávnění.
+addon-permissions-empty = Toto rozšíření nevyžaduje žádná oprávnění.
 recommended-extensions-heading = Doporučená rozšíření
 recommended-themes-heading = Doporučené vzhledy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
