@@ -33,7 +33,7 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Nij in flugge werstart, sil { -brand-shorter-name } al jo iepen ljepblêden en finsters dy't net yn priveemodus binne werstelle.
 appmenu-addon-private-browsing-installed =
-    .buttonlabel = Okee, begrepen
+    .buttonlabel = Oké, begrepen
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Behear jo add-ons troch op <image data-l10n-name='addon-install-icon'></image> yn it menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
 appmenu-addon-post-install-incognito-checkbox =
@@ -43,7 +43,7 @@ appmenu-addon-private-browsing =
     .label = Wiziging oan útwreidingen yn priveefinsters
     .buttonlabel = Utwreidingen beheare
     .buttonaccesskey = U
-    .secondarybuttonlabel = Okee, begrepen
+    .secondarybuttonlabel = Oké, begrepen
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Nije útwreidingen dy't jo oan { -brand-shorter-name } tafoegje wurkje net yn priveefinsters, útsein jo dit tastean yn de ynstellingen.
 appmenu-addon-private-browsing-learn-more = Mear ynfo oer it behearen fan útwreidingen-ynstellingen.
