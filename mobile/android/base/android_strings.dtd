@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Færre data, hurtigere internet">
 <!ENTITY firstrun_data_subtext2 "Blokér billeder, så der skal hentes færre data fra de besøgte sider.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Konto">
-<!ENTITY firstrun_sync_message2 "Fortsæt hvor du slap.">
 <!ENTITY firstrun_sync_message3 "Synkroniser dine bogmærker, historik og adgangskoder til din telefon.">
 <!ENTITY firstrun_sync_subtext2 "Brug Sync til at finde bogmærker, adgangskoder og andet du har gemt i &brandShortName; på alle dine enheder.">
 <!ENTITY newfirstrun_sync_subtext "Synkroniser de gemte ting i Firefox for Android med Firefox på din computer. Der synkroniseres privat og sikkert.">
-<!ENTITY updatednewfirstrun_sync_subtext "Log ind på din konto for at få det fulde udbytte af &brandShortName;">
-<!ENTITY firstrun_signin_message "Bliv forbundet, start">
 <!ENTITY firstrun_sendtab_title "Send faneblad">
 <!ENTITY firstrun_sendtab_message "Del faneblade fra mobil til computer — uden forsinkelse.">
-<!ENTITY firstrun_signin_button "Log ind på Sync">
-<!ENTITY newfirstrun_signin_button "Aktiver Sync">
-<!ENTITY updatednewfirstrun_signin_button "Log ind på &brandShortName;">
+<!ENTITY firstrun_signin_message "Bliv forbundet, start">
 <!ENTITY onboard_start_button_browser "Start surfing">
 <!ENTITY firstrun_button_notnow "Ikke nu">
 <!ENTITY firstrun_button_next "Næste">
-
-<!ENTITY firstrun_signin_button2 "Log ind">
+<!ENTITY firstrun_signup_button "Tilmeld dig">
 
 <!ENTITY firstrun_tabqueue_title "Links">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Dig">
 <!ENTITY firstrun_account_message "Har du &brandShortName; på andre enheder?">
-
-<!ENTITY firstrun_signup_button "Tilmeld dig">
 
 <!ENTITY  onboard_start_restricted1 "Beskyt dig selv og bevar kontrollen med denne mere simple version af &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du er forbundet til">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -892,12 +882,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Velkommen til &brandShortName;">
 <!ENTITY activity_stream_signin_description "Begynd at synkronisere bogmærker, adgangskoder m.m. med din Firefox-konto.">
-<!ENTITY activity_stream_signin_button "Log ind">
-
 <!ENTITY activity_stream_signup_button "Tilmeld dig">
 <!ENTITY activity_stream_signin_prompt "Har du allerede en konto?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Log ind.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Din helt nye Firefox, der kommer i 2020">
+<!ENTITY activity_stream_firefox_promo_description "Kommer snart: Bedre ydelse, bedre sporingsbeskyttelse, og funktioner designet til at hjælpe dig med at finde, gemme og dele mere af det, du kan lide online.">
+<!ENTITY activity_stream_firefox_promo_button "Tag et smugkig">
 
 <!ENTITY activity_stream_topsites "Mest besøgte websider">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
