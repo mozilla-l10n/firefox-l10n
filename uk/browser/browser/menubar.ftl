@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = На весь екран
     .accesskey = е
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Показати всі вкладки
@@ -267,7 +267,7 @@ menu-help-show-tour =
     .label = Знайомство з { -brand-shorter-name }
     .accesskey = й
 menu-help-keyboard-shortcuts =
-    .label = Клавіатурні скорочення
+    .label = Комбінації клавіш
     .accesskey = К
 menu-help-troubleshooting-info =
     .label = Вирішення проблем
