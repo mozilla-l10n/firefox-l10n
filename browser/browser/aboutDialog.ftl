@@ -9,7 +9,13 @@ update-checkForUpdatesButton =
     .label = Zkontrolovat aktualizace
     .accesskey = Z
 update-updateButton =
-    .label = Restartovat a aktualizovat { -brand-shorter-name(case: "acc") }
+    .label =
+        Restartovat a aktualizovat { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] aplikaci { -brand-shorter-name }
+        }
     .accesskey = R
 update-checkingForUpdates = Kontrola aktualizací…
 update-downloading = <img data-l10n-name="icon"/>Stahování aktualizace — <label data-l10n-name="download-status"/>
