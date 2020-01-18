@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Թվային իրավունքների կառավարման (DRM) բովանդակություն
 play-drm-content =
@@ -901,14 +901,14 @@ enhanced-tracking-protection-setting-custom =
     .label = Հարմարեցված
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Հավասարակշռված է պաշտպանության և կատարման համար։Էջերը կբեռնվեն կանոնակարգված կերպով։
 content-blocking-etp-strict-desc = Ավելի ուժեղ պաշտպանություն, բայց կարող է որոշ կայքերի կամ բովանդակությունների կոտրման պատճառ դառնալ։
 content-blocking-etp-custom-desc = Ընտրեք, որ հետևումները և գրվածքները արգելափակել։
 content-blocking-private-windows = Անձնական պատուհաններում բովանդակության հետևում
 content-blocking-cross-site-tracking-cookies = Միջակայքային հետևող նշոցիկներ
-content-blocking-social-media-trackers = Սոցիալական լրատվամիջոցների հետքերով
+content-blocking-social-media-trackers = Սոցիալական մեդիայի հետագծումներ
 content-blocking-all-cookies = Բոլոր նշոցիկները
 content-blocking-unvisited-cookies = Նշոցիկներ չստուգված կայքերից
 content-blocking-all-windows-trackers = Հայտնի հետքերը բոլոր պատուհաններում
