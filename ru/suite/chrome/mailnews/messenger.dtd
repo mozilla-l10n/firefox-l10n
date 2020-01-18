@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Отмеченные флагом сообщения">
 <!ENTITY selectFlaggedCmd.accesskey "ф">
+<!ENTITY menuFavoriteFolder.label "Избранная папка">
+<!ENTITY menuFavoriteFolder.accesskey "з">
 <!ENTITY folderPropsCmd.label "Свойства…">
 <!ENTITY folderPropsFolderCmd.label "Свойства папки…">
 <!ENTITY folderPropsNewsgroupCmd.label "Свойства группы новостей…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Отмеченное флагом сообщение">
 <!ENTITY prevFlaggedMsgCmd.accesskey "ф">
+<!ENTITY folderMenu.label "Папка">
+<!ENTITY folderMenu.accesskey "к">
 <!ENTITY startPageCmd.label "Начальная страница">
 <!ENTITY startPageCmd.accesskey "Н">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "П">
 <!ENTITY folderContextProperties.label "Свойства…">
 <!ENTITY folderContextProperties.accesskey "С">
+<!ENTITY folderContextFavoriteFolder.label "Избранная папка">
+<!ENTITY folderContextFavoriteFolder.accesskey "з">
 <!ENTITY folderContextSettings.label "Параметры…">
 <!ENTITY folderContextSettings.accesskey "а">
 
