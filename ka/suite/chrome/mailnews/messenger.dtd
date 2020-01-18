@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "მონიშნული წერილები">
 <!ENTITY selectFlaggedCmd.accesskey "მ">
+<!ENTITY menuFavoriteFolder.label "რჩეული საქაღალდე">
+<!ENTITY menuFavoriteFolder.accesskey "რ">
 <!ENTITY folderPropsCmd.label "პარამეტრები…">
 <!ENTITY folderPropsFolderCmd.label "საქაღალდის პარამეტრები…">
 <!ENTITY folderPropsNewsgroupCmd.label "ჯგუფების პარამეტრები…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "ალმიანი წერილი">
 <!ENTITY prevFlaggedMsgCmd.accesskey "ა">
+<!ENTITY folderMenu.label "საქაღალდე">
+<!ENTITY folderMenu.accesskey "ქ">
 <!ENTITY startPageCmd.label "ფოსტის საწყისი გვერდი">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "ძ">
 <!ENTITY folderContextProperties.label "პარამეტრები…">
 <!ENTITY folderContextProperties.accesskey "პ">
+<!ENTITY folderContextFavoriteFolder.label "რჩეული საქაღალდე">
+<!ENTITY folderContextFavoriteFolder.accesskey "ა">
 <!ENTITY folderContextSettings.label "პარამეტრები…">
 <!ENTITY folderContextSettings.accesskey "რ">
 
