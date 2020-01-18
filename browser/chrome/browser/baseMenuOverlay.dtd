@@ -14,13 +14,14 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Довідка"> 
 <!ENTITY helpMenuWin.accesskey    "Д">
+
 <!ENTITY aboutProduct2.label      "Про &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "о">
 <!ENTITY productHelp2.label       "Довідка &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "Д">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Клавіатурні скорочення">
+<!ENTITY helpKeyboardShortcuts.label     "Комбінації клавіш">
 <!ENTITY helpKeyboardShortcuts.accesskey "К">
 
 <!ENTITY helpSafeMode.label       "Перезапуск з вимкненими додатками…">
