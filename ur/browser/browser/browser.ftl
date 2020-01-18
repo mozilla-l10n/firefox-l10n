@@ -80,6 +80,16 @@ urlbar-addons-notification-anchor =
     .tooltiptext = ایڈاون کا تنصیب شدہ پیغام کا پینل کھولیں
 urlbar-tip-help-icon =
     .title = مدد حاصل کریں
+urlbar-search-tips-confirm = ٹھیک ہے ، سمجھ آگیا
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کے لیئے محل وقوع کی معلومات کو بلاک کیا ہوا ہے
 urlbar-web-notifications-blocked =
