@@ -41,8 +41,14 @@ devmgr-button-disable-fips =
 load-device =
     .title = Բեռնել PKCS#11 սարքի սարքավարը
 load-device-info = Մուտքագրեք ավելացվող բաղադրի վերաբերվող տվյալները
+load-device-modname =
+    .value = Հանգույցի Անուն
+    .accesskey = M
 load-device-modname-default =
     .value = Նոր PKCS#11 Բաղադիր
+load-device-filename =
+    .value = Հանգույցի նիշքանուն
+    .accesskey = f
 load-device-browse =
     .label = Ընտրել…
     .accesskey = B
@@ -83,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS եղանակը նախանշում է ամեն անվտանգության սարքի համար Հիմնական գաղտնաբառի առկայություն: Խնդրեմ նշեք գաղտնաբառը նախքան FIPS եղանակն օգտագործելը:
 unable-to-toggle-fips = Հնարավոր չէ փոխել FIPS եղանակը՝ անվտանգության սարքի համար: Խորհուրդ ենք տալիս դուրս գալ և վերամեկնարկել ծրագիրը:
 load-pk11-module-file-picker-title = Ընտրեք PKCS#11 սարքի սարքավարը՝ բեռնելու համար
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Հանգույցի անունը չի կարող դատարկ լինել։
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘-ը պահպանվծ է և չի կարող լինել որպես հանգույցի անուն։
 add-module-failure = Չստացվեց ավելացնել մոդուլը
 del-module-warning = Իրո՞ք ցանկանում եք անվտանգության այս բաղադրիչը հեռացնել:
 del-module-error = Չստացվեց ջնջել մոդուլը
