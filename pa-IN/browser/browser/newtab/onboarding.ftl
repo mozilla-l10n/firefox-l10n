@@ -111,10 +111,13 @@ onboarding-data-sync-text2 = ਜਿੱਥੇ ਵੀ ਕਿਤੇ ਤੁਸੀਂ
 onboarding-data-sync-button2 = { -sync-brand-short-name } 'ਚ ਸਾਇਨ-ਇਨ ਕਰੋ
 onboarding-firefox-monitor-title = ਡਾਟਾ ਚੋਰੀ ਬਾਰੇ ਚੌਕਸ ਰਹੋ
 onboarding-firefox-monitor-text = { -monitor-brand-name } ਨਿਗਰਾਨੀ ਕਰਦਾ ਹੈ ਕਿ ਜੇ ਤੁਹਾਡਾ ਈਮੇਲ ਡਾਟਾ ਸੰਨ੍ਹ ਲੱਗਣ ਵਿੱਚ ਆਇਆ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਸੰਨ੍ਹ ਲੱਗਣ ਵਿੱਚ ਆਉਣ ਉੱਤੇ ਚੌਕਸ ਕਰਦਾ ਹੈ।
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } ਨਿਗਰਾਨੀ ਕਰਦਾ ਹੈ ਕਿ ਜੇ ਤੁਹਾਡਾ ਈਮੇਲ ਡਾਟਾ ਲੱਭੇ ਕਿਸੇ ਸੰਨ੍ਹ ਲੱਗਣ ਵਿੱਚ ਆਇਆ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਸੰਨ੍ਹ ਲੱਗਣ ਵਿੱਚ ਆਉਣ ਉੱਤੇ ਚੌਕਸ ਕਰਦਾ ਹੈ।
 onboarding-firefox-monitor-button = ਚੌਕਸੀ ਲਈ ਸਾਇਨ ਅੱਪ ਕਰੋ
 onboarding-browse-privately-title = ਪਰਾਈਵੇਟ ਤੌਰ 'ਤੇ ਬਰਾਊਜ਼ ਕਰੋ
+onboarding-browse-privately-text = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੁਹਾਡੀ ਖੋਜ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਦੀ ਹੈ ਤਾਂ ਕਿ ਇਸ ਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਕਿਸੇ ਨੂੰ ਵਰਤਣ ਵਾਲੇ ਤੋਂ ਭੇਤ ਬਣਾ ਕੇ ਰੱਖਿਆ ਜਾਵੇ।
 onboarding-browse-privately-button = ਪਰਾਈਵੇਟ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
 onboarding-firefox-send-title = ਆਪਣੀਆਂ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਨੂੰ ਪਰਾਈਵੇਟ ਰੱਖੋ
+onboarding-firefox-send-text2 = ਆਪਣੀਆਂ ਫ਼ਾਈਲਾਂ ਨੂੰ { -send-brand-name } ਉੱਤੇ ਅੱਪਲੋਡ ਕਰੋ ਤਾਂ ਕਿ ਉਹਨਾਂ ਨੂੰ ਸਿਰੇ-ਤੋਂ-ਸਿਰੇ ਇੰਕ੍ਰਿਪਸ਼ਨ ਅਤੇ ਲਿੰਕ, ਜਿਸ ਦੀ ਮਿਆਦ ਆਪਣੇ-ਆਪ ਪੁੱਗ ਜਾਂਦੀ ਹੈ, ਨਾਲ ਸਾਂਝਾ ਕਰ ਸਕੋ।
 onboarding-firefox-send-button = { -send-brand-name } ਵਰਤ ਕੇ ਵੇਖੋ
 onboarding-mobile-phone-title = ਆਪਣੇ ਫ਼ੋਨ 'ਤੇ { -brand-product-name } ਲਵੋ
 onboarding-mobile-phone-text = iOS ਜਾਂ ਐਂਡਰਾਇਡ 'ਤੇ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰੋ ਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ 'ਤੇ ਸਿੰਕ ਕਰੋ।
@@ -122,6 +125,12 @@ onboarding-mobile-phone-text = iOS ਜਾਂ ਐਂਡਰਾਇਡ 'ਤੇ { -br
 # browser.
 onboarding-mobile-phone-button = ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਡਾਊਨਲੋਡ ਕਰੋ
 onboarding-send-tabs-title = ਟੈਬਾਂ ਖੁਦ ਨੂੰ ਮੌਕੇ 'ਤੇ ਭੇਜੋ
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = ਟੈਬਾਂ ਭੇਜੋ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਫ਼ਿਆਂ ਨੂੰ ਬਿਨਾਂ ਕਾਪੀ, ਚੇਪੋ ਜਾਂ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦੂਰ ਗਏ ਬਿਨਾਂ ਤੁਰੰਤ ਸਾਂਝਾ ਕਰਨ ਦਿੰਦਾ ਹੈ।
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = ਆਪਣੇ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਫ਼ਿਆਂ ਨੂੰ ਬਿਨਾਂ ਲਿੰਕ ਕਾਪੀ ਕੀਤੇ ਜਾਂ ਬਰਾਊਜ਼ਰ ਛੱਡੇ ਸੌਖੀ ਤਰ੍ਹਾਂ ਸਾਂਝਾ ਕਰੋ।
 onboarding-send-tabs-button = ਟੈਬਾਂ ਭੇਜਣ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰੋ
 onboarding-pocket-anywhere-title = ਹਰ ਥਾਂ 'ਤੇ ਪੜ੍ਹੋ ਤੇ ਸੁਣੋ
 onboarding-pocket-anywhere-text2 = { -pocket-brand-name } ਐਪ ਦੇ ਨਾਲ ਆਪਣੀ ਮਨਪਸੰਦ ਸਮੱਗਰੀ ਨੂੰ ਔਫਲਾਈਨ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਜਦੋਂ ਵੀ ਤੁਹਾਡੇ ਲਈ ਸੁਵਿਧਾਜਨਕ ਹੋਵੇ, ਉਸਨੂੰ ਪੜ੍ਹੋ, ਸੁਣੋ ਅਤੇ ਦੇਖੋ।
@@ -135,6 +144,7 @@ onboarding-facebook-container-title = ਫੇਸਬੁੱਕ 'ਤੇ ਬੰਨ੍
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ਤੁਹਾਡੇ ਪਰੋਫਾਈਲ ਨੂੰ ਹਰੇਕ ਚੀਜ਼ ਤੋਂ ਵੱਖਰਾ ਰੱਖਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਫੇਸਬੁੱਕ ਵਲੋਂ ਇਸ਼ਤਿਹਾਰਾਂ ਨਾਲ ਤੁਹਾਨੂੰ ਨਿਸ਼ਾਨਾ ਬਣਾਉਣਾ ਔਖਾ ਹੋ ਜਾਂਦਾ ਹੈ।
 onboarding-facebook-container-button = ਇਕਟੈਨਸ਼ਨ ਜੋੜੋ
 onboarding-import-browser-settings-title = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ
+onboarding-import-browser-settings-text = ਹੁਣੇ ਸ਼ੂਰੋ ਕਰੋ — ਆਪਣੀਆਂ ਕਰੋਮ ਸਾਈਟਾਂ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲਿਆਓ।
 onboarding-import-browser-settings-button = ਕਰੋਮ ਡਾਟਾ ਆਯਾਤ ਕਰੋ
 
 ## Message strings belonging to the Return to AMO flow
