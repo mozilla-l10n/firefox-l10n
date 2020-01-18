@@ -20,6 +20,10 @@ graph-total-tracker-summary =
         [few] <b>{ $count }</b> трекера заблокировано с { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[many] <b>{ $count }</b> трекеров заблокировано с { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } продолжает блокировать трекеры во время работы в режиме Приватного просмотра, но не ведет запись того, что было заблокировано.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Трекеры, заблокированные { -brand-short-name } на этой неделе.
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -68,16 +72,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Включить { -sync-brand-short-name(case: "accusative") }…
     .title = Перейти в настройки синхронизации
-manage-devices = Управление устройствами
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Синхронизация с { $count } другим устройством
-        [few] Синхронизация с { $count } другими устройствами
-       *[many] Синхронизация с { $count } другими устройствами
-    }
-lockwise-sync-not-syncing-devices = Нет синхронизации с другими устройствами
 manage-connected-devices = Управление устройствами…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
