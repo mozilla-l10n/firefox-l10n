@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> მეთვალყურეა შეზღუდული თარიღიდან { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> მეთვალყურეა შეზღუდული თარიღიდან { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } განაგრძობს მეთვალყურეების შეზღუდვას პირად ჩანართებში, თუმცა არ აღრიცხავს, რა შეიზღუდა.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = მეთვალყურეები, რომელთაც ზღუდავდა { -brand-short-name } ამ კვირაში
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = ჩართეთ { -sync-brand-short-name }…
     .title = იხილეთ სინქრონიზაციის პარამეტრები
-manage-devices = მოწყობილობების მართვა
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] დასინქრონებულია { $count } სხვა მოწყობილობასთან
-       *[other] დასინქრონებულია { $count } სხვა მოწყობილობასთან
-    }
-lockwise-sync-not-syncing-devices = არაა დასინქრონებული სხვა მოწყობილობებთან
 manage-connected-devices = მოწყობილობების მართვა…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
