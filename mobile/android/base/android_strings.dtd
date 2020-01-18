@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Lebih sedikit data, lebih banyak hematnya">
 <!ENTITY firstrun_data_subtext2 "Nonaktifkan gambar untuk menghemat kuota data di setiap situs yang Anda buka.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Akun">
-<!ENTITY firstrun_sync_message2 "Mulai dari situasi saat Anda pergi.">
 <!ENTITY firstrun_sync_message3 "Sinkronkan markah, riwayat, dan sandi ke telepon Anda.">
 <!ENTITY firstrun_sync_subtext2 "Gunakan Sync untuk menemukan markah, sandi, dan hal lainnya yang Anda simpan ke &brandShortName; di semua peranti Anda.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronkan hal-hal yang Anda simpan di ponsel ke Firefox untuk desktop, secara pribadi dan aman.">
-<!ENTITY updatednewfirstrun_sync_subtext "Masuk ke akun Anda untuk memaksimalkan &brandShortName;">
-<!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
 <!ENTITY firstrun_sendtab_title "Kirim Tab">
 <!ENTITY firstrun_sendtab_message "Bagikan tab dari ponsel ke desktop — secara instan.">
-<!ENTITY firstrun_signin_button "Masuk ke Sync">
-<!ENTITY newfirstrun_signin_button "Aktifkan Sync">
-<!ENTITY updatednewfirstrun_signin_button "Masuk ke &brandShortName;">
+<!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
 <!ENTITY onboard_start_button_browser "Mulai Menjelajah">
 <!ENTITY firstrun_button_notnow "Tidak saat ini">
 <!ENTITY firstrun_button_next "Selanjutnya">
-
-<!ENTITY firstrun_signin_button2 "Masuk">
+<!ENTITY firstrun_signup_button "Daftar">
 
 <!ENTITY firstrun_tabqueue_title "Tautan">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Anda">
 <!ENTITY firstrun_account_message "Punya &brandShortName; di perangkat lainnya?">
-
-<!ENTITY firstrun_signup_button "Daftar">
 
 <!ENTITY  onboard_start_restricted1 "Tetap aman dan dalam kendali dengan versi yang disederhanakan dari &brandShortName; ini.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Anda tersambung ke">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Selamat datang di &brandShortName;">
 <!ENTITY activity_stream_signin_description "Mulai sinkronkan markah, kata sandi, dan lainnya dengan akun Firefox Anda.">
-<!ENTITY activity_stream_signin_button "Masuk">
-
 <!ENTITY activity_stream_signup_button "Daftar">
 <!ENTITY activity_stream_signin_prompt "Sudah memiliki akun?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Masuk.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Firefox Anda yang serba baru, tiba pada tahun 2020">
+<!ENTITY activity_stream_firefox_promo_description "Segera hadir: Peningkatan kinerja. Perlindungan pelacakan ditingkatkan. Dan fitur yang dirancang untuk membantu Anda menemukan, menyimpan, dan berbagi lebih banyak dari apa yang Anda sukai daring.">
+<!ENTITY activity_stream_firefox_promo_button "Coba intip">
 
 <!ENTITY activity_stream_topsites "Situs Teratas">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
