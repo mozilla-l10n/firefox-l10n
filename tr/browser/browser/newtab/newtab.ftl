@@ -87,9 +87,10 @@ newtab-menu-show-privacy-info = Sponsorlarımız ve gizliliğiniz
 newtab-privacy-modal-button-done = Tamam
 newtab-privacy-modal-header = Gizliliğiniz bizim için önemli.
 newtab-privacy-modal-paragraph = İlginizi çekebilecek yazıların yanı sıra seçkin sponsorlarımızdan gelen bazı içerikleri de gösteriyoruz. Gezinti verileriniz asla bilgisayarınızdaki { -brand-product-name }'un dışına çıkmıyor: Hangi sitelere girdiğinizi ne biz görüyoruz ne de sponsorlarımız.
+newtab-privacy-modal-paragraph-2 = İlginizi çekebilecek yazıların yanı sıra seçkin sponsorlarımızdan gelen bazı içerikleri de gösteriyoruz. Gezinti verileriniz <strong>asla bilgisayarınızdaki { -brand-product-name } kurulumunun dışına çıkmıyor</strong>: Hangi sitelere girdiğinizi ne biz görüyoruz ne de sponsorlarımız.
 newtab-privacy-modal-link = Yeni sekmede gizliliğinizi nasıl koruduğumuzu öğrenin
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Yer imini sil
@@ -176,7 +177,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hata! Bu bölüm tam olara
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popüler konular:
 newtab-pocket-more-recommendations = Daha fazla öneri
-newtab-pocket-how-it-works = Nasıl çalışıyor?
 newtab-pocket-whats-pocket = { -pocket-brand-name } nedir?
 newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
 newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınız okumaya değer şeylerle doldurun.

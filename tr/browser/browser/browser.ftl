@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Eklenti yükleme mesajı panelini aç
 urlbar-tip-help-icon =
     .title = Yardım al
+urlbar-search-tips-confirm = Tamam, anladım
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
