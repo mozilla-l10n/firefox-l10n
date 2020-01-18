@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = ਐਡ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
 urlbar-tip-help-icon =
     .title = ਮਦਦ ਲਵੋ
+urlbar-search-tips-confirm = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
