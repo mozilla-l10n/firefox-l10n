@@ -156,6 +156,7 @@ intl-regional-prefs = ਖੇਤਰੀ ਪਸੰਦਾਂ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-accepting-connections = ਮਨਜ਼ੂਰ ਕੀਤੇ ਕਨੈਕਸ਼ਨ
 remote-debugging-url = URL
 
 ##
@@ -260,6 +261,7 @@ d3d9video-crash-guard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ਅਗਲੀ ਵਾਰ ਮੁੜ-ਚਲਾਉਣ ਉੱਤੇ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 gpu-process-kill-button = Terminate GPU Process
+gpu-device-reset = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 gpu-device-reset-button = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਲਈ ਪਲਟੋ
 uses-tiling = ਟਿਲਿੰਗ ਵਰਤਦਾ ਹੈ
 off-main-thread-paint-enabled = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਸਮਰੱਥ ਨੂੰ ਬੰਦ ਕਰੋ
@@ -279,6 +281,7 @@ sandbox-proc-type-file = ਫ਼ਾਇਲ ਸਮੱਗਰੀ
 sandbox-proc-type-media-plugin = ਮੀਡੀਆ ਪਲੱਗਇਨ
 launcher-process-status-0 = ਸਮਰੱਥ ਹੈ
 launcher-process-status-1 = ਅਸਫ਼ਲਤਾ ਕਰਕੇ ਅਸਮਰੱਥ ਹੈ
+launcher-process-status-2 = ਧੱਕੇ ਨਾਲ ਅਸਮਰੱਥ ਕੀਤਾ
 launcher-process-status-unknown = ਅਣਪਛਾਤੀ ਹਾਲਤ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
