@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Aperir le pannello de messages de installation de additivos
 urlbar-tip-help-icon =
     .title = Obtener adjuta
+urlbar-search-tips-confirm = OK, comprendite
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
