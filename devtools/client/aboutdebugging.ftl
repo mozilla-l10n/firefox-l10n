@@ -105,9 +105,9 @@ about-debugging-setup-usb-status-enabled = Միացված
 about-debugging-setup-usb-status-disabled = Անջատված
 about-debugging-setup-usb-status-updating = Թարմացվում է ...
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu2 = Միացնել Ծրագրավորողի ցանկը ձեր Android սարքում։
+about-debugging-setup-usb-step-enable-dev-menu2 = Միացնել Մշակողի ցանկը ձեր Android սարքում։
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Միացնել USB վրիպազերծումը Android-ի Ծրագրավորողի ցանկում։
+about-debugging-setup-usb-step-enable-debug2 = Միացնել USB վրիպազերծումը Android-ի Մշակողի ցանկում։
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Միացնել USB վրիպազերծումը Android սարքի Firefox-ում։
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.

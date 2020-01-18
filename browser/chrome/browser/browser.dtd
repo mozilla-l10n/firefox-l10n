@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Հ">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Վեբ ծրագրավորող">
+<!ENTITY webDeveloperMenu.label       "Վեբ մշակող">
 <!ENTITY webDeveloperMenu.accesskey   "Վ">
 
 <!ENTITY inspectContextMenu.label     "Զննել տարրը">

@@ -13,7 +13,7 @@
 options-tool-not-supported-label = * Չի աջակցվում ընթացիկ գործիքներում
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
-options-select-additional-tools-label = Տեղակայված Ծրագրավորողի Գործիքները ըստ հավելումների
+options-select-additional-tools-label = Տեղակայված Մշակողի գործիքները ըստ հավելումների
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Ձևավորումներ
 
@@ -60,12 +60,9 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Դարձնել հնարին հեռակառավարվող կարգաբերումը
 options-enable-remote-tooltip =
-    .title = Այս ընտրանքի կապակցումը թույլ կտա ծրագրավորողի գործիքներին հեռակա կարգաբերել Firefox-ի նմուշը, ինչպիսինն Firefox OS-ն է
+    .title = Այս ընտրանքի կապակցումը թույլ կտա մշակողի գործիքներին հեռակա կարգաբերել Firefox-ի նմուշը, ինչպիսինն Firefox OS-ն է
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Միայն ընթացիկ շրջանը, վերաբացում է էջը
-
-##
-
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Ցուցադրել Gecko հարթակի տվյալները

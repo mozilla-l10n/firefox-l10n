@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Բացել Լիաէկրան
     .accesskey = Բ
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Ցուցադրել բոլոր ներդիրները
@@ -225,7 +225,7 @@ menu-tools-fxa-re-auth =
     .label = Վերակապակցվել { -brand-product-name }․․․
     .accesskey = R
 menu-tools-web-developer =
-    .label = Վեբ ծրագրավորող
+    .label = Վեբ մշակող
     .accesskey = Վ
 menu-tools-page-source =
     .label = Դիտել Էջի Կոդը
