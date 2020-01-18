@@ -136,7 +136,7 @@ media-capabilities-title = Возможности медиа
 # List all the entries of the database.
 media-capabilities-enumerate = Вывести записи из базы данных
 
-
+##
 
 intl-title = Интернационализация и Локализация
 intl-app-title = Настройки приложения
@@ -161,7 +161,7 @@ remote-debugging-title = Удалённая отладка (Протокол Chr
 remote-debugging-accepting-connections = Входящие соединения
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -266,6 +266,7 @@ d3d11video-crash-guard = Видеодекодер D3D11
 d3d9video-crash-buard = Видеодекодер D3D9
 d3d9video-crash-guard = Видеодекодер D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Видеодекодер WMF VPX
 reset-on-next-restart = Сбросить при следующем перезапуске
 gpu-process-kill-button = Завершить процесс видеокарты
 gpu-device-reset = Сбросить устройство
