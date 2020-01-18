@@ -167,6 +167,11 @@ browser-containers-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = i
 containers-disable-alert-title = ਸਾਰੀਆਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] ਜੇ ਤੁਸੀਂ ਹੁਣ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰਦੇ ਹੋ ਤਾਂ { $tabCount } ਕਨਟੇਨਰ ਟੈਬ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+       *[other] ਜੇ ਤੁਸੀਂ ਹੁਣ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰਦੇ ਹੋ ਤਾਂ { $tabCount } ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] { $tabCount } ਕਨਟੇਨਰ ਨੂੰ ਬੰਦ ਕਰੋ
@@ -174,6 +179,13 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = ਸਮਰੱਥ ਰੱਖੋ
 containers-remove-alert-title = ਇਹ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] ਜੇ ਤੁਸੀਂ ਹੁਣ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਹਟਾਉਂਦੇ ਹੋ ਤਾਂ { $count } ਕਨਟੇਨਰ ਟੈਬ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+       *[other] ਜੇ ਤੁਸੀਂ ਹੁਣ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਹਟਾਉਂਦੇ ਹੋ ਤਾਂ { $count } ਕਨਟੇਨਰਾਂ ਟੈਬ ਨੂੰ ਬੰਦ ਕੀਤਾ ਜਾਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+    }
 containers-remove-ok-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਓ
 containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹਟਾਓ
 
@@ -902,6 +914,7 @@ content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
 content-blocking-warning-title = ਧਿਆਨ ਰੱਖੋ!
 content-blocking-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 content-blocking-warning-learn-how = ਹੋਰ ਸਿੱਖੋ
+content-blocking-reload-description = ਇਹ ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।
 content-blocking-reload-tabs-button =
     .label = ਸਾਰੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ
     .accesskey = R
@@ -997,6 +1010,7 @@ permissions-a11y-privacy-link = ਹੋਰ ਜਾਣੋ
 
 collection-header = { -brand-short-name } ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ ਅਤੇ ਵਰਤੋ
 collection-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
+collection-health-report-telemetry-disabled = ਤੁਸੀਂ ਹੁਣ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਫੜਨ ਲਈ ਸਹਿਮਤੀ ਹਟਾ ਦਿੱਤੀ ਹੈ। ਸਾਰੇ ਪਿਛਲੇ ਡਾਟੇ ਨੂੰ 30 ਦਿਨਾਂ ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।
 collection-health-report-telemetry-disabled-link = ਹੋਰ ਜਾਣੋ
 collection-health-report =
     .label = { -brand-short-name } ਨੂੰ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜਣ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਓ
@@ -1005,6 +1019,8 @@ collection-health-report-link = ਹੋਰ ਜਾਣੋ
 collection-studies =
     .label = { -brand-short-name } ਨੂੰ ਅਧਿਐਨ ਇੰਸਟਾਲ ਅਤੇ ਚਲਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 collection-studies-link = { -brand-short-name } ਅਧਿਐਨ ਵੇਖੋ
+addon-recommendations =
+    .label = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਖਾਸ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦਿਓ
 addon-recommendations-link = ਹੋਰ ਜਾਣੋ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
