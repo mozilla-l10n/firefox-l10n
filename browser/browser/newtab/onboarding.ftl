@@ -126,12 +126,24 @@ onboarding-private-browsing-text = Prohlížejte internet v soukromí. Funkce an
 onboarding-screenshots-title = Snímky stránek
 onboarding-screenshots-text = Pořizujte, ukládejte a sdílejte snímky stránek přímo v aplikaci { -brand-short-name }. Vyberte oblast nebo celou stránku během jejího prohlížení a uložte si její snímek na web pro snadné sdílení nebo pozdější zobrazení.
 onboarding-addons-title = Doplňky
-onboarding-addons-text = Přidejte si do aplikace { -brand-short-name } další funkce. Porovnávání cen v e-shopech, předpověď počasí nebo vlastní vzhled prohlížeče.
+onboarding-addons-text =
+    Přidejte si do { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } další funkce. Porovnávání cen v e-shopech, předpověď počasí nebo vlastní vzhled prohlížeče.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ještě rychlejší, chytřejší a bezpečnější prohlížení vám umožní např. rozšíření Ghostery, které blokuje otravné reklamy.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchronizace
-onboarding-fxa-text = Přihlaste se k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } a synchronizuje své záložky, hesla a otevřené panely kdekoliv používáte aplikaci { -brand-short-name }.
+onboarding-fxa-text =
+    Přihlaste se k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } a synchronizuje své záložky, hesla a otevřené panely kdekoliv používáte { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    }.
 onboarding-tracking-protection-title2 = Ochrana před sledováním
 onboarding-tracking-protection-text2 = { -brand-short-name } vám pomůže zastavit sledování webovými stránkami a znesnadní reklamám, aby vás následovaly na další weby.
 onboarding-tracking-protection-button2 = Jak to funguje
@@ -205,4 +217,10 @@ return-to-amo-sub-header = Skvěle, nyní máte aplikaci { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Teď zpět k doplňku <icon></icon><b>{ $addon-name }</b>.
 return-to-amo-extension-button = Přidat rozšíření
-return-to-amo-get-started-button = Jak začít s aplikací { -brand-short-name }
+return-to-amo-get-started-button =
+    Jak začít s { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "ins") }
+        [feminine] { -brand-short-name(case: "ins") }
+        [neuter] { -brand-short-name(case: "ins") }
+       *[other] aplikací { -brand-short-name }
+    }

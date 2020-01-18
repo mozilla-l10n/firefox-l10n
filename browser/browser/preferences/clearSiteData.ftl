@@ -5,7 +5,13 @@
 clear-site-data-window =
     .title = Vymazat data
     .style = width: 35em
-clear-site-data-description = Po vymazání všech cookies a dat stránek uložených v aplikaci { -brand-short-name } může dojít k vašemu odhlášení z webových stránek a odstranění offline uloženého webového obsahu. Vymazání mezipaměti vaše přihlášení neovlivní.
+clear-site-data-description =
+    Po vymazání všech cookies a dat stránek uložených { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    } může dojít k vašemu odhlášení z webových stránek a odstranění offline uloženého webového obsahu. Vymazání mezipaměti vaše přihlášení neovlivní.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage

@@ -3,15 +3,45 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safe-mode-window =
-    .title = Nouzový režim aplikace { -brand-short-name }
+    .title =
+        Nouzový režim { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace { -brand-short-name }
+        }
     .style = max-width: 400px
 start-safe-mode =
     .label = Spustit v nouzovém režimu
 refresh-profile =
-    .label = Obnovení aplikace { -brand-short-name }
-safe-mode-description = Nouzový režim je speciální režim aplikace { -brand-short-name }, který se používá při řešení potíží.
-safe-mode-description-details = Vaše doplňky a vlastní nastavení budou dočasně zakázány a některé funkce aplikace { -brand-short-name } nemusí fungovat jako nyní.
-refresh-profile-instead = Můžete také obnovit nastavení aplikace { -brand-short-name } a začít znova.
+    .label =
+        Obnovení { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace { -brand-short-name }
+        }
+safe-mode-description =
+    Nouzový režim je speciální režim { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }, který se používá při řešení potíží.
+safe-mode-description-details =
+    Vaše doplňky a vlastní nastavení budou dočasně zakázány a některé funkce { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } nemusí fungovat jako nyní.
+refresh-profile-instead =
+    Můžete také obnovit nastavení { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } a začít znova.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description =
     { -brand-short-name.gender ->

@@ -23,7 +23,13 @@ profiles-conflict =
 profiles-flush-fail-title = Změny nebyly uloženy
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Kvůli neočekávané chybě se nepodařilo vaše změny uložit.
-profiles-flush-restart-button = Restartovat aplikaci { -brand-short-name }
+profiles-flush-restart-button =
+    Restartovat { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
@@ -43,7 +49,13 @@ profiles-remove = Smazat
 profiles-set-as-default = Nastavit jako výchozí profil
 profiles-launch-profile = Spustit profil v novém okně prohlížeče
 profiles-cannot-set-as-default-title = Výchozí profil nelze změnit
-profiles-cannot-set-as-default-message = Výchozí profil pro aplikaci { -brand-short-name } nelze změnit.
+profiles-cannot-set-as-default-message =
+    Výchozí profil { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] pro aplikaci { -brand-short-name }
+    } nelze změnit.
 profiles-yes = ano
 profiles-no = ne
 profiles-rename-profile-title = Přejmenování profilu

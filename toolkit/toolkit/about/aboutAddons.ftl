@@ -76,7 +76,18 @@ cmd-contribute =
     .accesskey = s
     .tooltiptext = Zobrazí informace jak přispět na vývoj doplňku
 discover-title = Co jsou doplňky?
-discover-description = Doplňky jsou aplikace, které vám umožní přizpůsobit si aplikaci { -brand-short-name } pomocí nových funkcí či stylů. Vyzkoušejte čas šetřící postranní lištu či motiv vzhledu, který přizpůsobí aplikaci { -brand-short-name } do vašeho stylu.
+discover-description =
+    Doplňky jsou aplikace, které vám umožní přizpůsobit si { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } pomocí nových funkcí či stylů. Vyzkoušejte čas šetřící postranní lištu či motiv vzhledu, který přizpůsobí { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } do vašeho stylu.
 discover-footer = V případě dostupného připojení k internetu bude tato stránka zobrazovat některé z nejoblíbenějších doplňků, které si můžete vyzkoušet.
 detail-version =
     .label = Verze
@@ -149,14 +160,26 @@ addon-restart-now =
     .label = Restartovat
 disabled-unsigned-heading =
     .value = Některé doplňky byly zablokovány
-disabled-unsigned-description = Následující doplňky nebyly ověřeny pro použití v aplikaci { -brand-short-name }. Můžete <label data-l10n-name="find-addons">za ně najít náhrady</label> nebo požádat vývojáře, aby je nechal ověřit.
+disabled-unsigned-description =
+    Následující doplňky nebyly ověřeny pro použití { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    }. Můžete <label data-l10n-name="find-addons">za ně najít náhrady</label> nebo požádat vývojáře, aby je nechal ověřit.
 disabled-unsigned-learn-more = Zjistěte více o naší snaze o vaši bezpečnost.
 disabled-unsigned-devinfo = Vývojáři, kteří mají zájem o ověření svých rozšíření, mohou pokračovat přečtením <label data-l10n-name="learn-more">našeho manuálu</label>.
 plugin-deprecation-description = Něco chybí? Některé zásuvné moduly už { -brand-short-name } nepodporuje. <label data-l10n-name="learn-more">Zjistit více.</label>
 legacy-warning-show-legacy = Zobrazit zastaralá rozšíření
 legacy-extensions =
     .value = Zastaralá rozšíření
-legacy-extensions-description = Tato rozšíření byla zakázána, protože neodpovídají současným standardům aplikace { -brand-short-name }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
+legacy-extensions-description =
+    Tato rozšíření byla zakázána, protože neodpovídají současným standardům { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }. <label data-l10n-name="legacy-learn-more">Zjistit více o změnách pro doplňky</label>
 private-browsing-description2 =
     Fungování rozšíření pro aplikaci { -brand-short-name } se v anonymním prohlížení mění. Všechna nově nainstalovaná rozšíření, nebudou ve výchozím nastavení v anonymních oknech fungovat, pokud jim to nepovolíte. Rozšíření tak nebudou mít bez vašeho vědomí přístup k tomu, co v anonymním prohlížení děláte.
     <label data-l10n-name="private-browsing-learn-more">Jak na nastavení rozšíření</label>
@@ -287,7 +310,13 @@ shortcuts-modifier-mac = Zahrnout Ctrl, Alt nebo ⌘
 shortcuts-modifier-other = Zahrnout Ctrl nebo Alt
 shortcuts-invalid = Neplatná kombinace kláves
 shortcuts-letter = Napište písmeno
-shortcuts-system = Nelze přepsat zkratku aplikace { -brand-short-name }
+shortcuts-system =
+    Nelze přepsat zkratku { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplicitní zkratka
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
@@ -467,7 +496,13 @@ plugin-heading = Správa zásuvných modulů
 dictionary-heading = Správa slovníků
 locale-heading = Správa jazyků
 updates-heading = Správa aktualizací
-discover-heading = Přizpůsobte si aplikaci { -brand-short-name }
+discover-heading =
+    Přizpůsobte si { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    }
 shortcuts-heading = Správa klávesových zkratek pro rozšíření
 theme-heading-search-label = Najít další vzhledy
 extension-heading-search-label = Najít další rozšíření
