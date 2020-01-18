@@ -26,7 +26,7 @@
 <!ENTITY newfirstrun_sync_subtext "Sinkronkan hal-hal yang Anda simpan di ponsel ke Firefox untuk desktop, secara pribadi dan aman.">
 <!ENTITY firstrun_sendtab_title "Kirim Tab">
 <!ENTITY firstrun_sendtab_message "Bagikan tab dari ponsel ke desktop — secara instan.">
-<!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
+<!ENTITY firstrun_signin_message "Sambungkan dan mulai">
 <!ENTITY onboard_start_button_browser "Mulai Menjelajah">
 <!ENTITY firstrun_button_notnow "Tidak saat ini">
 <!ENTITY firstrun_button_next "Selanjutnya">
@@ -888,8 +888,8 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "Firefox Anda yang serba baru, tiba pada tahun 2020">
-<!ENTITY activity_stream_firefox_promo_description "Segera hadir: Peningkatan kinerja. Perlindungan pelacakan ditingkatkan. Dan fitur yang dirancang untuk membantu Anda menemukan, menyimpan, dan berbagi lebih banyak dari apa yang Anda sukai daring.">
-<!ENTITY activity_stream_firefox_promo_button "Coba intip">
+<!ENTITY activity_stream_firefox_promo_description "Segera hadir: Peningkatan kinerja. Perlindungan pelacakan ditingkatkan. Serta fitur yang dirancang untuk membantu Anda menemukan, menyimpan, dan berbagi lebih banyak dari apa yang Anda sukai di dunia daring.">
+<!ENTITY activity_stream_firefox_promo_button "Intip sekarang juga">
 
 <!ENTITY activity_stream_topsites "Situs Teratas">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
