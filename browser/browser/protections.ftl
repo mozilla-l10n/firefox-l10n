@@ -47,6 +47,7 @@ cookie-tab-title = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀ�
 tracker-tab-title = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
 fingerprinter-tab-title = ਫਿੰਗਰਪਰਿੰਟਰ
 cryptominer-tab-title = ਕ੍ਰਿਪਟੋਮਾਈਨਰ
+cryptominer-tab-content = ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਡਿਜ਼ਿਟਲ ਧਨ ਦੀ ਟਕਸਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਊਰਜਾ ਨੂੰ ਗੁਪਤ ਰੂਪ ਵਿੱਚ ਵਰਤਦੇ ਹਨ। ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਸਕ੍ਰਿਪਟ ਤੁਹਾਡੀ ਬੈਟਰੀ ਖਪਾਉਂਦੀਆਂ ਹਨ, ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹੌਲੀ ਕਰਦੀਆਂ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਬਿਜਲੀ ਦੇ ਬਿੱਲ ‘ਚ ਵੀ ਵਾਧਾ ਕਰ ਸਕਦੀਆਂ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
 lockwise-title = ਮੁੜ ਕੇ ਪਾਸਵਰਡ ਕਦੇ ਵੀ ਨਾ ਭੁੱਲੋ
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ‘ਚ ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲਦਾ ਹੈ।
@@ -54,6 +55,14 @@ lockwise-header-content-logged-in = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸ
 protection-report-view-logins-button = ਲਾਗਇਨ ਵੇਖੋ
     .title = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਉੱਤੇ ਜਾਓ
 lockwise-no-logins-content = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਰ ਲਾਂ ਲੈ ਕੇ ਜਾਣ ਲਈ <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ਐਪ ਲਵੋ।
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ <a data-l10n-name="lockwise-how-it-works">ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ</a>
+       *[other] ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ <a data-l10n-name="lockwise-how-it-works">ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ</a>
+    }
 turn-on-sync = { -sync-brand-short-name } ਚਾਲੂ ਕਰੋ…
     .title = ਸਿੰਕ ਪਸੰਦਾਂ ‘ਤੇ ਜਾਓ
 manage-connected-devices = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ…
@@ -66,6 +75,7 @@ lockwise-connected-device-status =
     }
 monitor-title = ਡਾਟੇ ‘ਚ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਖੋਜ ਕਰੋ
 monitor-link = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
+monitor-header-content-signed-in = { -monitor-brand-name } ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੇਗਾ, ਜੇ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਪਤਾ ਲੱਗੀ ਡਾਟਾ ਸੰਨ੍ਹ ‘ਚ ਲੱਭਿਆ ਗਿਆ।
 monitor-sign-up = ਸੰਨ੍ਹ ਲੱਗਣ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
 auto-scan = ਅੱਜ ਆਪਣੇ-ਆਪ ਸਕੈਨ ਕੀਤਾ
 # This string is displayed after a large numeral that indicates the total number
@@ -76,7 +86,31 @@ info-monitored-emails =
         [one] ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਦੀ ਨਿਗਰਾਨੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
        *[other] ਈਮੇਲ ਸਿਰਨਾਵਿਆਂ ਦੀ ਨਿਗਰਾਨੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] ਪਤਾ ਲੱਗੀ ਡਾਟਾ ਸੰਨ੍ਹ ‘ਚ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨਸ਼ਰ ਹੈ
+       *[other] ਪਤਾ ਲੱਗੀਆਂ ਡਾਟਾ ਸੰਨ੍ਹ ‘ਚ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨਸ਼ਰ ਹੈ
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] ਪਾਸਵਰਡ ਸਾਰੀਆਂ ਲੱਗੀਆਂ ਸੰਨ੍ਹਾਂ ‘ਚ ਨਸ਼ਰ ਹੈ
+       *[other] ਪਾਸਵਰਡ ਸਾਰੀਆਂ ਲੱਗੀਆਂ ਸੰਨ੍ਹਾਂ ‘ਚ ਨਸ਼ਰ ਹਨ
+    }
 full-report-link = ਸਾਰੀ ਰਿਪੋਰਟ <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> ‘ਤੇ ਵੇਖੋ
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] ਸੰਭਾਲੇ ਲਾਗਇਨ ਡਾਟਾ ਸੰਨ੍ਹ ‘ਚ ਨਸ਼ਰ ਹੋ ਸਕਦਾ ਹੈ। ਚੰਗੀ ਆਨਲਾਈਨ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਇਹ ਪਾਸਵਰਡ ਬਦਲੋ। <a data-l10n-name="lockwise-link">ਸੰਭਾਲੇ ਲਾਗਇਨ ਵੇੇਖੋ</a>
+       *[other] ਸੰਭਾਲੇ ਲਾਗਇਨ ਡਾਟਾ ਸੰਨ੍ਹ ‘ਚ ਨਸ਼ਰ ਹੋ ਸਕਦੇ ਹਨ। ਚੰਗੀ ਆਨਲਾਈਨ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਇਹ ਪਾਸਵਰਡ ਬਦਲੋ। <a data-l10n-name="lockwise-link">ਸੰਭਾਲੇ ਲਾਗਇਨ ਵੇੇਖੋ</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
