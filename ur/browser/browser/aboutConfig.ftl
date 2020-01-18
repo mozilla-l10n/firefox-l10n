@@ -17,7 +17,7 @@ about-config-intro-warning-title = احتیاط سے آگے بڑھیں
 about-config-intro-warning-checkbox = مجھے انتباہ کریں جب میں ان ترجیحات تک رسائی حاصل کرنے کی کوشش کروں
 about-config-intro-warning-button = خطرے کو قبول کریں اور جاری رکھیں
 
-
+##
 
 about-config-page-title = اعلی درجے کی ترجیحات
 about-config-search-input1 =
@@ -57,3 +57,5 @@ about-config-pref-add-type-string = اسٹرنگ
 
 about-config-pref-accessible-value-default =
     .aria-label = { $value }   (طے شدہ)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (مخصوص)
