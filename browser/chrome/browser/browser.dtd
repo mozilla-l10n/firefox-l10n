@@ -180,6 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "ਟੈਬ ਨੂੰ ਫ਼ੌਰਨ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ, ਜਿਸ ਵਿੱਚ ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਹੋ।">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -287,7 +288,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਤੁਸੀਂ ਕੈਨਵਸ ਡਾਟਾ ਕੱਢਣ ਉੱਤੇ ਰੋਕ ਲਗਾ ਚੁੱਕੇ ਹੋ">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ਤੁਸੀਂ Adobe ਫਲੈਸ਼ ਪਲੱਗਇਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
 <!ENTITY urlbar.midiBlocked.tooltip              "ਤੁਸੀਂ ਇਸ ਵੈਬਸਾਈਟ ਲਈ MIDI ਪਹੁੰਚ ਲਈ ਪਾਬੰਦੀਲਗਾਈ ਹੈ।">
+<!ENTITY urlbar.installBlocked.tooltip           "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਐਡ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦਿੱਤੀਆਂ ਹਨ।">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
@@ -446,6 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ਸਿੰਕ ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।">
+<!ENTITY appMenuRemoteTabs.welcome.label "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖੋ।">
 <!ENTITY appMenuRemoteTabs.unverified.label "ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।">
 <!ENTITY appMenuRemoteTabs.signin.label "ਸਿੰਕ ਕਰਨ ਸਾਈਨ ਇਨ ਕਰੋ">
 <!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label; ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ…">
@@ -872,6 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "ਹਾਲਾਂਕਿ &brandShortName; ਨੇ ਕੁਝ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਪਰ ਸਫ਼ੇ ਉੱਤੇ ਹਾਲੇ ਵੀ ਸਮੱਗਰੀ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ (ਜਿਵੇਂ ਕਿ ਚਿੱਤਰ)।">
 <!ENTITY identity.description.activeLoaded "ਇਸ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਸਮੱਗਰੀ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ (ਜਿਵੇਂ ਕਿ ਸਕ੍ਰਿਪਟਾਂ) ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਵੀ ਪ੍ਰਾਈਵੇਟ ਨਹੀਂ ਹੈ।">
 <!ENTITY identity.description.activeLoaded2 "ਇਸ ਸਾਈਟ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਂਝੀ ਕੀਤੀ ਜਾਣਕਾਰੀ (ਜਿਵੇਂ ਕਿ ਪਾਸਵਰਡ, ਸੁਨੇਹੇ, ਕਰੈਡਿਟ ਕਾਰਡ ਆਦਿ) ਨੂੰ ਹੋਰਾਂ ਵਲੋਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।">
+<!ENTITY identity.description.customRoot "ਮੋਜ਼ੀਲਾ ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੇ ਜਾਰੀਕਰਤਾ ਨੂੰ ਮਾਨਤਾ ਨਹੀਂ ਦਿੰਦਾ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਜਾਂ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਜੋੜਿਆ ਗਿਆ ਹੋ ਸਕਦਾ ਹੈ।">
 
 <!ENTITY identity.enableMixedContentBlocking.label "ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -899,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "ਇਸ ਸਾਈਟ ਲਈ ਵਾਧਾ ਕੀਤਾ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬੰਦ ਹੈ">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ">
 <!ENTITY protections.settings.label "ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ">
 <!ENTITY protections.showreport.label "ਰਿਪੋਰਟ ਵੇਖਾਓ">
 <!-- LOCALIZATION NOTE:
@@ -911,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਮਸਲੇ ਹਨ ਤਾਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਬੰਦ ਕਰੋ:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "ਲਾਗਇਨ ਖੇਤਰ">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "ਫ਼ਾਰਮ">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "ਭੁਗਤਾਨ">
@@ -931,7 +938,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "ਕਿਓ?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "ਇਹਨਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਭਾਗ ਖ਼ਰਾਬ ਹੋ ਸਕਦੇ ਹਨ। ਬਿਨਾਂ ਟਰੈਕਰਾਂ, ਕੁਝ ਬਟਨ, ਫਾਰਮ ਤੇ ਲਾਗਇਨ ਖੇਤਰ ਕੰਮ ਨਹੀਂ ਵੀ ਕਰ ਸਕਦੇ ਹਨ।">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "ਸੁਰੱਖਿਆਵਾਂ ਬੰਦ ਕੀਤੇ ਹੋਣ ਕਰਕੇ ਇਸ ਸਾਈਟ ਤੋਂ ਸਾਰੇ ਟਰੈਕਰ ਲੋਡ ਕੀਤੇ ਜਾ ਚੁੱਕੇ ਹਨ।">
+<!ENTITY protections.noTrackersFound.description "ਇਸ ਸਫ਼ੇ ‘ਤੇ &brandShortName; ਵਲੋਂ ਜਾਣੇ-ਪਛਾਣੇ ਕੋਈ ਟਰੈਕਰ ਨਹੀਂ ਹਨ।">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "ਇਹ ਕੂਕੀਜ਼ ਜੋ ਵੀ ਤੁਸੀਂ ਆਨਲਾਈਨ ਕਰਦੇ ਹੋ, ਦੇ ਬਾਰੇ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਲਈ ਇੱਕ ਤੋਂ ਦੂਜੀ ਸਾਈਟ ‘ਤੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਦੇ ਹਨ। ਇਹਨਾਂ ਨੂੰ ਅਕਸਰ ਤੀਜੀਆਂ ਧਿਰਾਂ ਜਿਵੇਂ ਕਿ ਇਸ਼ਤਿਹਾਰ ਦੇਣ ਵਾਲੀਆਂ ਤੇ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਨ ਵਾਲੀਆਂ ਕੰਪਨੀਆਂ ਵਲੋਂ ਨਿਯਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।">
+<!ENTITY protections.cryptominers.description "ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਡਿਜ਼ਿਟਲ ਧਨ ਦੀ ਟਕਸਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਊਰਜਾ ਨੂੰ ਵਰਤਦੇ ਹਨ। ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਸਕ੍ਰਿਪਟ ਤੁਹਾਡੀ ਬੈਟਰੀ ਖਪਾਉਂਦੀਆਂ ਹਨ, ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹੌਲੀ ਕਰਦੀਆਂ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਬਿਜਲੀ ਦੇ ਬਿੱਲ ‘ਚ ਵੀ ਵਾਧਾ ਕਰ ਸਕਦੀਆਂ ਹਨ।">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
