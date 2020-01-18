@@ -94,11 +94,16 @@ detail-update-manual =
     .tooltiptext = ਅੱਪਡੇਟ ਆਟੋਮੈਟਿਕ ਇੰਸਟਾਲ ਨਾ ਕਰੋ
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਚੱਲਣਾ
+detail-private-browsing-description2 = ਜਦੋਂ ਸਹਿਮਤੀ ਦਿੱਤੀ ਤਾਂ ਇਕਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਕਰ ਸਕੇਗੀ। <label data-l10n-name="detail-private-browsing-learn-more">ਹੋਰ ਜਾਣੋ</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
+detail-private-disallowed-description = ਇਹ ਇਕਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਨਹੀਂ ਚੱਲੇਗੀ। <label data-l10n-name="detail-private-browsing-learn-more">ਹੋਰ ਜਾਣੋ</label>
+detail-private-disallowed-description2 = ਇਹ ਇਕਟੈਨਸ਼ਨ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਨਹੀਂ ਚੱਲੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਲਈ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੈ
+detail-private-required-description = ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਕੋਲ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੈ।  <label data-l10n-name="detail-private-browsing-learn-more">ਹੋਰ ਜਾਣੋ</label>
+detail-private-required-description2 = ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੈ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 detail-private-browsing-on =
     .label = ਇਜਾਜ਼ਤ ਹੈ
     .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ‘ਚ ਸਮਰੱਥ ਹੈ
@@ -273,6 +278,8 @@ shortcuts-input =
 shortcuts-browserAction = ਇਕਸਟੈਨਸ਼ਨ ਸਰਗਰਮ ਕਰੋ
 shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਸਰਗਰਮ ਕਰੋ
 shortcuts-sidebarAction = ਬਾਹੀ ਬਦਲੋ
+shortcuts-modifier-mac = Ctrl, Alt, ਜਾਂ ⌘ ਸਮੇਤ
+shortcuts-modifier-other = Ctrl ਜਾਂ Alt ਸਮੇਤ
 shortcuts-letter = ਅੱਖਰ ਲਿਖੋ
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
