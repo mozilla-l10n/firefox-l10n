@@ -3,7 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Je k dispozici nová aktualizace { -brand-shorter-name(case: "gen") }.
+    .label =
+        Je k dispozici nová aktualizace { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] aplikace { -brand-shorter-name }
+        }.
     .buttonlabel = Stáhnout aktualizaci
     .buttonaccesskey = S
     .secondarybuttonlabel = Teď ne
@@ -50,7 +56,13 @@ appmenu-update-unsupported-message =
        *[other] aplikace { -brand-shorter-name }
     } není pro váš systém podporována.
 appmenu-update-restart =
-    .label = Restartovat a aktualizovat { -brand-shorter-name(case: "acc") }.
+    .label =
+        Restartovat a aktualizovat { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] aplikaci { -brand-shorter-name }
+        }.
     .buttonlabel = Restartovat
     .buttonaccesskey = R
     .secondarybuttonlabel = Teď ne
