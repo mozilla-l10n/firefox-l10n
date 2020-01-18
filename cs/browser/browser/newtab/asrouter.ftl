@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Doporučené rozšíření
 cfr-doorhanger-feature-heading = Doporučená funkce
 cfr-doorhanger-pintab-heading = Vyzkoušejte připnout panel
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Co to je
@@ -200,9 +200,15 @@ cfr-doorhanger-fingerprinters-heading =
         [feminine] { -brand-short-name } zabránila
         [neuter] { -brand-short-name } zabránilo
        *[other] Aplikace { -brand-short-name } zabránila
-    } zabránila vytvoření otisku vašeho prohlížeče
+    } vytvoření otisku vašeho prohlížeče
 cfr-doorhanger-fingerprinters-description = Na vašem soukromí záleží. { -brand-short-name } blokuje vytváření otisku vašeho prohlížeče, který může být využit k vaší identifikaci nebo vašemu sledování.
-cfr-doorhanger-cryptominers-heading = Aplikace { -brand-short-name } zablokovala těžbu kryptoměn
+cfr-doorhanger-cryptominers-heading =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval
+        [feminine] { -brand-short-name } zablokovala
+        [neuter] { -brand-short-name } zablokovalo
+       *[other] Aplikace { -brand-short-name } zablokovala
+    } těžbu kryptoměn
 cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -brand-short-name } blokuje těžbu kryptoměn, která spotřebovává výkon vašeho počítače k těžbě digitálních mincí.
 
 ## Enhanced Tracking Protection Milestones
@@ -211,10 +217,15 @@ cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -bran
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
-    { $blockedCount ->
-        [one] Od { $date } aplikace { -brand-short-name } zablokovala jeden sledovací prvek.
-        [few] Od { $date } aplikace { -brand-short-name } zablokovala více než <b>{ $blockedCount }</b> sledovací prvky.
-       *[other] Od { $date } aplikace { -brand-short-name } zablokovala více než <b>{ $blockedCount }</b> sledovacích prvků.
-    }
+    Od { $date } { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zablokoval
+        [feminine] { -brand-short-name } zablokovala
+        [neuter] { -brand-short-name } zablokovalo
+       *[other] aplikace { -brand-short-name } zablokovala
+    } { $blockedCount ->
+        [one] jeden sledovací prvek
+        [few] více než <b>{ $blockedCount }</b> sledovací prvky
+       *[other] více než <b>{ $blockedCount }</b> sledovacích prvků
+    }.
 cfr-doorhanger-milestone-ok-button = Zobrazit vše
     .accesskey = v

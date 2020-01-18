@@ -23,13 +23,25 @@ policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné 
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
-policy-DisableBuiltinPDFViewer = Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
+policy-DisableBuiltinPDFViewer =
+    Zablokování PDF prohlížeče PDF.js vestavěného { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    }.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
 policy-DisableFirefoxAccounts = Vypnutí služeb používajících { -fxaccount-brand-name(case: "acc", capitalization: "lower") }, včetně Syncu.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypnutí funkce Firefox Screenshots.
-policy-DisableFirefoxStudies = Zablokování spouštění studií aplikace { -brand-short-name }.
+policy-DisableFirefoxStudies =
+    Zablokování spouštění studií { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }.
 policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
 policy-DisableFormHistory = Vypnutí ukládání historie vyhledávání a formulářů.
 policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
@@ -37,7 +49,13 @@ policy-DisablePasswordReveal = Zablokovat zobrazování hesel ve správci přihl
 policy-DisablePocket = Vypnutí funkce pro ukládání stránek do služby Pocket.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
 policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
-policy-DisableProfileRefresh = Blokování tlačítka pro obnovu aplikace { -brand-short-name } na stránce about:support.
+policy-DisableProfileRefresh =
+    Blokování tlačítka pro obnovu { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } na stránce about:support.
 policy-DisableSafeMode = Zablokování možnosti restartovat se zakázanými doplňky. Poznámka: přechod do nouzového režimu podržením klávesy Shift lze zablokovat jen na systému Windows pomocí zásad skupin.
 policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezpečnostních varování.
 policy-DisableSetAsDesktopBackground = Zablokování kontextové nabídky obrázků pro jejich nastavení jako pozadí plochy.
@@ -66,8 +84,20 @@ policy-LegacyProfiles = Vypnout funkci vynucující samostatný profil pro každ
 policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
 policy-NewTabPage = Povolení nebo zákaz stránky nového panelu.
-policy-NoDefaultBookmarks = Vypnutí vytváření výchozích záložek a chytrých záložek aplikace { -brand-short-name } (Nejnavštěvovanější, Poslední štítky). Poznámka: toto pravidlo se uplatní jen pokud bude nastaveno před prvním spuštěním.
-policy-OfferToSaveLogins = Nastavení dotazu na uložení přihlašovacích údajů v aplikaci { -brand-short-name }. Lze použít hodnoty true i false.
+policy-NoDefaultBookmarks =
+    Vypnutí vytváření výchozích záložek a chytrých záložek { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } (Nejnavštěvovanější, Poslední štítky). Poznámka: toto pravidlo se uplatní jen pokud bude nastaveno před prvním spuštěním.
+policy-OfferToSaveLogins =
+    Nastavení dotazu na uložení přihlašovacích údajů { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    }. Lze použít hodnoty true i false.
 policy-OfferToSaveLoginsDefault = Nastavení výchozí hodnoty, zda má { -brand-short-name } nabízet ukládání přihlašovacích údajů. Platné hodnoty jsou true a false.
 policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.

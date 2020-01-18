@@ -43,7 +43,13 @@ protection-report-page-title = Ochrana soukromí
 protection-report-content-title = Ochrana soukromí
 etp-card-title = Rozšířená ochrana proti sledování
 etp-card-content = Sledovací prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
-protection-report-etp-card-content-custom-not-blocking = Všechny ochrany jsou v tuto chvíli vypnuté. V nastavení aplikace { -brand-short-name } vyberte, které sledovací prvky chcete blokovat.
+protection-report-etp-card-content-custom-not-blocking =
+    Všechny ochrany jsou v tuto chvíli vypnuté. V nastavení { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } vyberte, které sledovací prvky chcete blokovat.
 protection-report-manage-protections = Nastavení
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
