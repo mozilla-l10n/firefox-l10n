@@ -261,6 +261,8 @@
 <!ENTITY fromAddr.label "Ումից.">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "Ումից">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Ում.">
 <!ENTITY ccAddr.label "Cc.">
@@ -269,6 +271,13 @@
 <!ENTITY newsgroupsAddr.label "Լուրախումբ.">
 <!ENTITY followupAddr.label "Հետևել՝">
 <!ENTITY subject.label "Վերնագիր.">
+<!ENTITY toAddr2.label "Ում">
+<!ENTITY ccAddr2.label "Պճ">
+<!ENTITY bccAddr2.label "Ծպճ">
+<!ENTITY replyAddr2.label "Պատասխանել՝">
+<!ENTITY newsgroupsAddr2.label "Լուրախումբ">
+<!ENTITY followupAddr2.label "Հետևել՝">
+<!ENTITY subject2.label "Վերնագիր">
 <!ENTITY subject.accesskey "Վ">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
@@ -280,7 +289,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Կցորդի փեղկ">
 <!ENTITY attachmentBucketCloseButton.tooltip "Թաքցնել կցորդի փեղկը">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Ներմուծել ժպտացող դեմք">
 <!ENTITY smiley1Cmd.label "Ժպիտ">
 <!ENTITY smiley2Cmd.label "Մռայլ">

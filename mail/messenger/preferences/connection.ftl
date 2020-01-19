@@ -4,3 +4,13 @@
 
 connection-dns-over-https-url-resolver = Օգտագործել մատակարարից
     .accesskey = r
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Լռելյայն)
+    .tooltiptext = Օգտագործեք լռելյայն URL-ը DNS-ը HTTPS-ի վրա լուծելու համար
+connection-dns-over-https-url-custom =
+    .label = Ընտրովի
+    .accesskey = C
+    .tooltiptext = Մուտքագրեք Ձեր նախընտրված URL-ը DNS-ը HTTPS-ի վրա լուծելու համար
+connection-dns-over-https-custom-label = Ընտրովի

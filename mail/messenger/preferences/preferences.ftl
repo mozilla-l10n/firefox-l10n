@@ -30,13 +30,22 @@ chat-pane-header = Զրույց
 chat-status-title = Վիճակ
 chat-notifications-title = Ծանուցումներ
 chat-pane-styling-header = Ոճավորում
+choose-messenger-language-description = Ընտրեք օգտագործված լեզուները ցանկերը, հաղորդագրություններ և ծանուցումները { -brand-short-name }-ից ցուցադրելու համար։
 manage-messenger-languages-button =
     .label = Սահմանել այլընտրանքներ…
     .accesskey = I
 confirm-messenger-language-change-description = Այս փոփոխությունները կիրառելու համար վերագործարկեք { -brand-short-name }
 confirm-messenger-language-change-button = Գործադրել և վերագործարկել
 update-pref-write-failure-title = Գրել ձախողում
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Հնարավոր չէ պահպանել նախընտրանքը։ Հնարավոր չէ գրել նիշքում՝ { $path }
 update-setting-write-failure-title = Նախընտրությունների թարմեցման Սխալ
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = { -brand-short-name } բախվել է սխալի և չի պահպանել այս փոփոխությունը։ Նկատի ունեցեք, որ այս թարմացման նախընտրանքի կարգավորումը պահանջում է թույլատվություն ստորին նիշքում գրելու համար։ Դուք կամ համակարգի վարիչը կարող եք լուծել սխալը օգտագործողների խմբին շնորհելով այս նիշքի ողջ կառավարումը։
 update-in-progress-title = Թարմացումն ընթացքի մեջ է
 update-in-progress-message = Ցանկանո՞ւմ եք, որ { -brand-short-name } -ը շարունակի այս թարմեցումով:
 update-in-progress-ok-button = &Հրաժարվել
