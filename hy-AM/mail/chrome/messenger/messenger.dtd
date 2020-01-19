@@ -973,3 +973,5 @@
 <!ENTITY openAddressBookDock.label      "Բացել հասցեագիրքը">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Գնալ նախորդ էջ">
+<!ENTITY browseForwardButton.tooltip "Գնալ հաջորդ էջ">

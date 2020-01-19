@@ -66,6 +66,7 @@
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Քաղաք.">
 <!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "Նահանգ/Գավառ․">
 <!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "ZIP/Postal կոդ․">
 <!ENTITY HomeZipCode.accesskey          "Z">
@@ -95,7 +96,9 @@
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Քաղաք.">
 <!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "Նահանգ/Գավառ․">
 <!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "ZIP/Փոստային կոդ․">
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "Երկիր.">
 <!ENTITY WorkCountry.accesskey          "u">

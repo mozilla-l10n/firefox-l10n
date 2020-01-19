@@ -78,6 +78,8 @@
 <!ENTITY cspBlocked.title "Արգելափակվել է Բովանդակության Անվտանգության Քաղաքականության կողմից">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակության անվտանգության կանոնակարգն արգելում է դա:</p>">
 
+<!ENTITY xfoBlocked.title "Արգելափկվել է X-Frame-Options քաղաքականության կողմից">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; արգելել է այս էջի բեռնումը այս համատեքստում, որովհետև էջը ունի X-Frame-Options քաղաքականություն, որը մերժում է այս։</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Բովանդակությունը վնասված է">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Էջը, որ փորձում եք դիտել՝ չի կարող ցուցադրվել, որովհետև սխալ է գրանցվել տվյալի փոխանցման ժամանակ:</p><ul><li>Կապնվեք սեփականատիրոջ հետ` այս խնդրի մասին հաղորդելու համար:</li></ul>">

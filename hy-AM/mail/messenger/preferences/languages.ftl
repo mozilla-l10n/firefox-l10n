@@ -19,6 +19,7 @@ languages-customize-add =
 messenger-languages-window =
     .title = { -brand-short-name } Lեզվի կարգավորումներ
     .style = width: 40em
+messenger-languages-description = { -brand-short-name } կցուցադրի առաջին լեզուն որպես Ձեր լռելյայն և կցուցադրի այլընտրական լեզուները, եթե անհրաժեշտ է լինի։
 messenger-languages-search = Որոնել այլ լեզուներ...
 messenger-languages-searching =
     .label = Որոնում է լեզուներ...

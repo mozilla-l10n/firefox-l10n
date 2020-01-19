@@ -33,6 +33,7 @@ sentence. -->
 <!ENTITY  dummyNotification.label             "առանց որևէ տեղեկության">
 <!ENTITY  getAttention.label                  "Բռնկել առաջադրանքագոտու միույթ">
 <!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Շարժապատկերված հարակցման պատկերակ">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "ա">
 <!ENTITY  chatSound.label                     "Նվագարկել ձայն">
