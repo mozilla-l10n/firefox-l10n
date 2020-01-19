@@ -318,7 +318,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 play-drm-content =
@@ -563,6 +563,12 @@ search-keyword-warning-bookmark = Annettu pikakomento on jo toisella kirjanmerki
 ## Containers Section
 
 containers-back-link = « Siirry takaisin
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Takaisin asetuksiin
+           *[other] Takaisin asetuksiin
+        }
 containers-header = Eristetyt välilehdet
 containers-add-button =
     .label = Lisää uusi eristystila
@@ -905,7 +911,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Oma
     .accesskey = O
 
-
+##
 
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.
