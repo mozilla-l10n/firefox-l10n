@@ -93,6 +93,8 @@ urlbar-search-tips-redirect = Aloita hakeminen täältä, niin näet ehdotukset 
 
 urlbar-geolocation-blocked =
     .tooltiptext = Olet estänyt sijaintitiedot tältä sivustolta.
+urlbar-xr-blocked =
+    .tooltiptext = Olet estänyt virtuaalitodellisuuslaitteen tältä sivustolta.
 urlbar-web-notifications-blocked =
     .tooltiptext = Olet estänyt ilmoitukset tältä sivustolta.
 urlbar-camera-blocked =
