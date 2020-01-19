@@ -23,6 +23,21 @@ cert-error-untrusted-default = یہ تصدیق نامہ قابل اعتماد م
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = ویب سائٹس تصدیق نامے کے ذریعے اپنی شناخت ثابت کرتی ہیں۔{ -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ وہ ایسے  تصدیق نامے کا استعمال کر رہی ہے{ $hostname } کے لئے درست نہیں ہے۔
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں۔ { -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ { $hostname } کے لئے جو سرٹیفکیٹ استعمال ہو رہا ہے وہ درست نہیں ہے۔ یہ سرٹیفکیٹ صرف <a data-l10n-name="domain-mismatch-link"> کے لئے درست ہے۔
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں۔ { -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ { $hostname } کے لئے جو سرٹیفکیٹ استعمال ہو رہا ہے وہ درست نہیں ہے۔ یہ سرٹیفکیٹ صرف { $alt-name } کے لئے درست ہے۔
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں۔ { -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ { $hostname } کے لئے جو سرٹیفکیٹ استعمال ہو رہا ہے وہ درست نہیں ہے۔ یہ سرٹیفکیٹ صرف { $subject-alt-names } کے لئے درست ہے۔
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں، جو کی مقررہ مدت کے لئے درست ہوتا ہے۔ { $hostname } کی میعاد { $not-after-local-time } کو ختم ہو گئی۔
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = نقص: کا کوڈ:<a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
