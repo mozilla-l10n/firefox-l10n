@@ -5,6 +5,7 @@
 customize-mode-restore-defaults =
     .label = طےشدہ بحال کریں
 customize-mode-menu-and-toolbars-header = اپنی پسندیدہ اشیاء کو ٹولبار یا اورفلوںمینو میں شامل کرے۔
+customize-mode-overflow-list-title = اوور فلو مینو
 customize-mode-uidensity =
     .label = کثافت
 customize-mode-done =
@@ -41,3 +42,5 @@ customize-mode-undo-cmd =
     .label = کالعدم کریں
 customize-mode-lwthemes-my-themes =
     .value = میرے تھیم
+customize-mode-touchbar-cmd =
+    .label = ٹچ بار کی تخصیص کریں

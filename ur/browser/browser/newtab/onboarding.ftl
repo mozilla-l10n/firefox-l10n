@@ -19,7 +19,10 @@ onboarding-button-label-get-started = شروع کریں
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
+onboarding-welcome-body = آپ کو براؤزر مل گیا ہے۔ <br/> باقی { -brand-product-name } سے ملیں۔
 onboarding-welcome-learn-more = فوائد کے بارے میں مزید سیکھیں۔
+onboarding-welcome-modal-supercharge-body = اپنی رازداری کے تحفظ کو سپرچارج کریں۔
+onboarding-welcome-modal-family-learn-more = مصنوعات کے { -brand-product-name } کے کنبہ کے بارے میں جانیں۔
 onboarding-welcome-form-header = یہاں سے شروع کرو
 onboarding-join-form-header = { -brand-product-name } میں شامل ہوِں۔
 onboarding-join-form-body = شروع کرنے کے لئے اپنا ای میل ایڈریس درج کریں۔
@@ -45,6 +48,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }کو  اپنے ساتھ جائے
+onboarding-sync-welcome-content = اپنے تمام آلات پر اپنی نشانیاں ، تاریخ ، پاس ورڈ اور دیگر ترتیبات حاصل کریں۔
 onboarding-sync-welcome-learn-more-link = Firefox Accounts کے بارے میں مزید سیکھیں
 onboarding-sync-form-input =
     .placeholder = ای میل
@@ -61,10 +65,19 @@ onboarding-sync-form-sub-header = { -sync-brand-name } کو جاری رکھنے 
 
 onboarding-benefit-products-title = مفید مصنوعات
 onboarding-benefit-knowledge-title = عملی علم
+onboarding-benefit-knowledge-text = ہوشیار اور محفوظ تر آن لائن رہنے کے لیے آپ کو ہر چیز کو جاننے کی ضرورت ہے۔
 onboarding-benefit-privacy-title = سچی  رازداری
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = ہم جو بھی کام کرتے ہیں وہ ہمارے ذاتی ڈیٹا کے وعدے کی قدر کرتا ہے: کم لیں۔ اسے محفوظ رکھیں۔ کوئی راز نہیں۔
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = جب آپ کی ذاتی معلومات معروف ڈیٹا کی خلاف ورزی میں ہے تو مطلع ھوں۔
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = پاس ورڈ کا نظم کریں جو محفوظ اور پورٹیبل ہیں۔
 
 ## These strings belong to the individual onboarding messages.
 
@@ -87,8 +100,10 @@ onboarding-tracking-protection-title2 = سراغ کاری سے تحفظ
 onboarding-tracking-protection-button2 = یہ کس طرح کام کرتا ہے
 onboarding-data-sync-title = اپنی ترتیبات اپنے ساتھ رکھیں
 onboarding-data-sync-button2 = { -sync-brand-short-name } میں  سائن ان کریں
+onboarding-firefox-monitor-title = ڈیٹا کی خلاف ورزیوں پر الرٹ رہیں
 onboarding-firefox-monitor-button = الرٹس کے لئے سائن اپ کریں
 onboarding-browse-privately-title = رازداری سے براؤز کریں
+onboarding-browse-privately-text = نجی براؤزنگ آپ کے کمپیوٹر کو استعمال کرنے والے ہر شخص سے خفیہ رکھنے کے لیے آپ کی تلاش اور براؤزنگ کی تاریخ کو صاف کردیتی ہے۔
 onboarding-browse-privately-button = نجی ونڈو میں کھولیں؟
 onboarding-firefox-send-title = اپنی مشترکہ امسال نجی رکھیں
 onboarding-firefox-send-button = { -send-brand-name }آزمائیں
@@ -97,6 +112,12 @@ onboarding-mobile-phone-title = { -brand-product-name }  اپنے فون پر ح
 # browser.
 onboarding-mobile-phone-button = موبائل براؤزر ڈاؤن لوڈ کریں
 onboarding-send-tabs-title = فوری طور پر خود کو ٹیبس ارسال کریں
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = ٹیبز کو بھیجیں بغیر کسی کاپی ، پیسٹ ، یا براؤزر کو چھوڑے بغیر فوری طور پر آپ کے آلات کے درمیان صفحات کا اشتراک کرتا ہے۔
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = لنکس کاپی کیے بغیر یا براؤزر کو چھوڑے بغیر اپنے آلات کے درمیان آسانی سے صفحات کا اشتراک کریں۔
 onboarding-send-tabs-button = Send Tabs کا  استعمال شروع کریں
 onboarding-pocket-anywhere-title = کہیں بھی پڑھیں اور سنیں
 onboarding-pocket-anywhere-button = { -pocket-brand-name } آزمائیں
@@ -107,8 +128,10 @@ onboarding-lockwise-strong-passwords-button = اپنے  لاگ ان بندوبس
 onboarding-facebook-container-title = Facebook کے ساتھ حدود طے کریں
 onboarding-facebook-container-button = ایکسٹینشن شامل کریں
 onboarding-import-browser-settings-title = اپنے بُک مارکس ، پاس ورڈز اور بہت کچھ درآمد کریں
+onboarding-import-browser-settings-button = chrome ڈیٹا درآمد کریں
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = بہت اچھا ، آپ کو { -brand-short-name } مل گیا ہے
 return-to-amo-extension-button = اس توسیع شامل کریں
 return-to-amo-get-started-button = { -brand-short-name } کے ساتھ شروع کریں

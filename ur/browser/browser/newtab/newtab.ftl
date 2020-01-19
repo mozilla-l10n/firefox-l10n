@@ -132,6 +132,8 @@ newtab-section-menu-privacy-notice = رازداری کا نوٹس
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = صیغہ کی تخفیف کر یں
 newtab-section-expand-section-label =
     .aria-label = صیغہ کی توسیع کریں
 
@@ -145,12 +147,16 @@ newtab-section-header-pocket = { $provider } کی جانب سے تجویز کر�
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = برائوزنگگ شروع کریں،اور ہم آپ کو کچھ بہترین عبارات، وڈیوز اور حالیہ دورہ شددہ دیگر صفحات یا نشانیاں دکھائیں گے۔
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = آپ پکڑے گئے!
 newtab-discovery-empty-section-topstories-content = مزید کہانیوں کے لئے بعد میں دوبارہ پڑتال کریں۔
 newtab-discovery-empty-section-topstories-try-again-button = دوبارہ کوشش کریں
 newtab-discovery-empty-section-topstories-loading = لوڈ ہو رہا ہے…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = افوہ! ہم نے اس حصے کو تقریبا بھرا ہوا ہے ، لیکن کافی نہیں۔
 
 ## Pocket Content Section.
 
@@ -163,3 +169,4 @@ newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے پیج کو ریفریش کریں۔
