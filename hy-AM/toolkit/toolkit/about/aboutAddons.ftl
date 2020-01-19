@@ -431,8 +431,28 @@ addon-badge-recommended2 =
 available-updates-heading = Առկա թարմացումներ
 recent-updates-heading = Վերջին թարմացումները
 release-notes-loading = Բեռնում․․․
+release-notes-error = Հնարավոր չեղավ բացել թողարկման նշումները։
+addon-permissions-empty = Այս ընդլայնումը չի պահանջում որևէ թույլատվություններ
+recommended-extensions-heading = Երաշխավորված ընդլայնում
+recommended-themes-heading = Երաշխավորված հիմնապատկերներ
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Զգու՞մ եք ստեղծող։ <a data-l10n-name="link">Firefox Color-ով կառուցեք ձեր սեփական հիմնապատեկերը։</a>
 
 ## Page headings
 
+extension-heading = Կառավարեք ձեր ընդարձակումները
+theme-heading = Կառավարեք ձեր հիմնապատկերները
+plugin-heading = Կառավարեք ձեր ընդլայնումները
+dictionary-heading = Կառավարեք ձեր բառարանները
+locale-heading = Կառավարեք ձեր լեզուները
+updates-heading = Կառավարեք ձեր թարմացումները
+discover-heading = Անհատականացրեք ձեր { -brand-short-name }-ը
+shortcuts-heading = Կառավարել ընդլայնման դյուրացումները
+theme-heading-search-label = Ավելի շատ ձևավորումներ
+extension-heading-search-label = Ավելի շատ ընդլայնումներ
+default-heading-search-label = Ավելի շատ հավելումներ
+addons-heading-search-input =
+    .placeholder = Որոնել  addons.mozilla.org֊ում
 addon-page-options-button =
     .title = Գործիքներ բոլոր հավելումների համար

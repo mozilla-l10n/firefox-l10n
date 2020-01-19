@@ -9,12 +9,14 @@ ok = Լավ
 http = HTTP
 sockets = Բնիկներ
 dns = DNS
+dnssuffix = DNS վերջածանց
 websockets = ՎեբԲնիկներ
 refresh = Թարմացնել
 auto-refresh = Ինքնաթարմացնել 3 վայրկյանը մեկ
 hostname = Հոսթի անունը
 port = Դարպասը
 http2 = HTTP/2
+about-networking-http-version = HTTP տարբերակ
 ssl = SSL
 active = Ակտիվ
 idle = Անգործ
@@ -23,6 +25,7 @@ tcp = TCP
 sent = Ուղարկված
 received = Ստացված
 family = Ընտանիք
+trr = TRR
 addresses = Հասցեներ
 expires = Կավարտվի (վայրկյանից)
 messages-sent = Հաղորդագրությունները ուղարկվել են
@@ -41,3 +44,28 @@ dns-lookup = DNS փնտրում
 dns-lookup-button = Ուղղել
 dns-domain = Տիրույթ:
 dns-lookup-table-column = IP-ներ
+rcwn = RCWN վիճակներ
+rcwn-status = RCWN  կարգավիճակ
+rcwn-cache-won-count = Շտեմի քանակը հաղթում է
+rcwn-net-won-count = Ցանցի քանակը հաղթում է
+total-network-requests = Ենթագումարների հարցումների ընդհանուր հաշվարկ
+rcwn-operation = Շտեմարանների գործողություն
+rcwn-perf-open = Բացել
+rcwn-perf-read = Ընթերցել
+rcwn-perf-write = Գրել
+rcwn-perf-entry-open = Մատչումը բաց է
+rcwn-avg-short = Կարճ միջին
+rcwn-avg-long = Երկար միջին
+rcwn-std-dev-long = Երկար չափօրինակի շեղում
+rcwn-cache-slow = Հիշապահեստը դանդաղ է աշխատում
+rcwn-cache-not-slow = Հիշապահեստը դանդաղ չի հաշվում
+networkid = Ցանցի ID
+networkid-id = Ցանցի ID
+
+## Link is intended as "network link"
+
+networkid-isUp = Հղումը վեր է
+networkid-statusKnown = Հայտնի է հղման կարգավիճակը
+
+##
+
