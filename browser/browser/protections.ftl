@@ -20,6 +20,10 @@ graph-total-tracker-summary =
         [few] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowano <b>{ $count }</b> elementy śledzące
        *[many] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowano <b>{ $count }</b> elementów śledzących
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } blokuje elementy śledzące w oknach prywatnych, ale nie zachowuje informacji o tym, co zostało zablokowane.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Elementy śledzące zablokowane przez przeglądarkę { -brand-short-name } w tym tygodniu
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -68,16 +72,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
     .title = Otwórz preferencje synchronizacji
-manage-devices = Zarządzaj urządzeniami
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Synchronizowanie z { $count } innym urządzeniem
-        [few] Synchronizowanie z { $count } innymi urządzeniami
-       *[many] Synchronizowanie z { $count } innymi urządzeniami
-    }
-lockwise-sync-not-syncing-devices = Żadne inne urządzenia nie są synchronizowane
 manage-connected-devices = Zarządzaj urządzeniami…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
