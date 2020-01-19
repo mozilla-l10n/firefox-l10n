@@ -80,6 +80,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = بغیر پیروی کیے براؤز کریں
+cfr-protections-panel-body = اپنا ڈیٹا اپنے پاس رکھیں۔{ -brand-short-name } آپ کو بہت سے عام ٹریکرس سے بچاتا ہے جواسکی پیروی کر تےھیں کے آپ آن لائن کیا کرتے ہیں ۔
 cfr-protections-panel-link-text = مزید سیکھیں
 
 ## What's New toolbar button and panel
@@ -93,6 +94,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = نیا کیا ہے
 cfr-whatsnew-release-notes-link-text = اجرائی نوٹس پڑھیں
 cfr-whatsnew-fx70-title = { -brand-short-name } اب آپ کی رازداری کے لئے اب سخت مقابلہ کررہا ہے
+cfr-whatsnew-fx70-body = تازہ ترین اپ ڈیٹ ٹریکنگ، پروٹیکشن کی خصوصیت میں اضافہ کرتی ہے اور اسےہر سائٹ کے لئے محفوظ پاس ورڈ بنانے میں  پہلے سے کہیں زیادہ آسان بناتی ہے۔
 cfr-whatsnew-tracking-protect-title = اپنے آپ کو  سراغ  کاری سے بچائیں
 cfr-whatsnew-tracking-protect-link-text = اپنی رپورٹ دیکھیں
 # This string is displayed before a large numeral that indicates the total
