@@ -36,7 +36,11 @@ cert-error-domain-mismatch-multiple = ویب سائٹس اپنی شناخت سر
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں، جو کی مقررہ مدت کے لئے درست ہوتا ہے۔ { $hostname } کی میعاد { $not-after-local-time } کو ختم ہو گئی۔
+cert-error-expired-now = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں، جو کی مقررہ مدت کے لئے درست ہوتا ہے۔ { $hostname } کے سرٹیفکیٹ کی میعاد { $not-after-local-time } کو ختم ہو گئی۔
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں، جو کی مقررہ مدت کے لئے درست ہوتا ہے۔ { $hostname } کا سرٹیفکیٹ { $not-before-local-time } سے پہلے درست نہیں ہوگا۔
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = نقص: کا کوڈ:<a data-l10n-name="error-code-link">{ $error }</a>
