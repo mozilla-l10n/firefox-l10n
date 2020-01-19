@@ -34,6 +34,11 @@ cfr-doorhanger-extension-notification = سفارش
 cfr-doorhanger-extension-notification2 = سفارش
     .tooltiptext = ایکسٹینشن کی سفارش
     .a11y-announcement = ایکسٹینشن کی  دتستیاب سفارش
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = سفارشات
+    .tooltiptext = خصوصیات سفارشات
+    .a11y-announcement = دستیاب خصوصیات سفارشات
 
 ## Add-on statistics
 ## These strings are used to display the total number of

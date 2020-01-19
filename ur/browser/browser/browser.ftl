@@ -179,6 +179,7 @@ identity-permissions-empty = آپ نے اس سائٹ کو کوئی خاص اجا
 identity-clear-site-data =
     .label = کوکیاں اور سائٹ کے کواِئف… صاف کریں
 identity-connection-verified = آپ اس سائٹ کے ساتھ محفوظ طریقے سے جڑے ہوئے ہیں۔
+identity-ev-owner-label = تصدیق نامہ جاری کیا گیا:
 identity-remove-cert-exception =
     .label = استثنا ہٹائیں
     .accesskey = R

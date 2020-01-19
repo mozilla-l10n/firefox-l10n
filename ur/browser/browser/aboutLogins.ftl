@@ -84,6 +84,7 @@ login-item-save-new-button = محفوظ کریں
 login-item-cancel-button = منسوخ کریں
 login-item-time-changed = { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") } :آخری بار ترمیم کردہ
 login-item-time-created = { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") } :تشکیل دیا گیا
+login-item-time-used = آخری استعمال شدہ:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
@@ -94,6 +95,13 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] دورہ کریں  { -sync-brand-short-name } اختیارات
+           *[other] دورہ کریں{ -sync-brand-short-name }ترجیحات
+        }
+    .accesskey = V
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = مجھے دوبارہ مت پوچھیں
     .accesskey = د
