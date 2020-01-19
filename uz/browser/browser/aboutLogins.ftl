@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Loginlarni qidirish
 create-login-button = Yangi login yaratish
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } uchun belgi
 fxaccounts-sign-in-text = Boshqa qurilmalardagi parollaringizdan foydalaning
 fxaccounts-sign-in-button = { -sync-brand-short-name } hisobiga kiring
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Qidiruvingiz boʻyicha hech n
 login-list-item-title-new-login = Yangi login
 login-list-item-subtitle-new-login = Hisobingiz maʼlumotlarini kiriting
 login-list-item-subtitle-missing-username = (foydalanuvchi nomi yoʻq)
-about-logins-list-item-warning-icon =
-    .alt = Ogohlantirish belgisi
-    .title = Buzilgan sayt
 about-logins-list-item-breach-icon =
     .title = Hujum qilingan sayt
 
@@ -81,7 +73,7 @@ about-logins-intro-import = Loginlaringiz boshqa brauzerga saqlangan boʻlsa, ul
 
 login-item-new-login-title = Yangi login yaratish
 login-item-edit-button = Tahrirlash
-login-item-delete-button = Oʻchirish
+about-logins-login-item-remove-button = Olib tashlash
 login-item-origin-label = Sayt manzili
 login-item-origin =
     .placeholder = https://www.example.com
@@ -95,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Parolni koʻrsatish
 login-item-password-reveal-checkbox-hide =
     .title = Parolni yashirish
+login-item-password-reveal-checkbox =
+    .aria-label = Parolni koʻrsatish
 login-item-copy-password-button-text = Nusxa olish
 login-item-copied-password-button-text = Nusxa olindi!
 login-item-save-changes-button = Oʻzgarishlarni saqlash
@@ -134,9 +128,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Bekor qilish
 confirmation-dialog-dismiss-button =
     .title = Bekor qilish
-confirm-delete-dialog-title = Bu login oʻchirilsinmi?
+about-logins-confirm-remove-dialog-title = Bu login olib tashlansinmi?
 confirm-delete-dialog-message = Bu amalni orqaga qaytarib boʻlmaydi.
-confirm-delete-dialog-confirm-button = Oʻchirish
+about-logins-confirm-remove-dialog-confirm-button = Olib tashlash
 confirm-discard-changes-dialog-title = Saqlanmagan oʻzgarishlar bekor qilinsinmi?
 confirm-discard-changes-dialog-message = Barcha saqlanmagan oʻzgarishlar yoʻqoladi.
 confirm-discard-changes-dialog-confirm-button = Rad etish
@@ -150,11 +144,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = { $loginTitle } uchun kiritilgan logindan foydalanib kelayotgan foydalanuvchi mavjud.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

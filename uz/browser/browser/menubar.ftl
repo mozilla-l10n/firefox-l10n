@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Tiklash
     .accesskey = T
+menu-view-full-zoom-actual-size =
+    .label = Haqiqiy hajmi:
+    .accesskey = a
 menu-view-full-zoom-toggle =
     .label = Faqat matnni kattalashtirish
     .accesskey = m
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Qo‘shimcha dasturlar
     .accesskey = Q
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name } tizimiga kirish…
-    .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } hisobiga kirish…
     .accesskey = g
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Hozir sinxronlash
     .accesskey = s
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name } ga qayta ulanish…
-    .accesskey = q
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name }ga qayta ulanmoqda…
     .accesskey = R
@@ -285,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Qo‘sh. dasturlarni yoqib, qayta ishga tushirish
     .accesskey = q
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Qalbaki sayt haqida xabar berish…
     .accesskey = Q

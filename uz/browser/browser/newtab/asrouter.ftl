@@ -79,18 +79,39 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Batafsil
 
 ## What's New toolbar button and panel
 
 cfr-whatsnew-panel-header = Yangi xususiyatlar
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Kuzatuvchi bloklandi
+       *[other] Kuzatuvchilar bloklandi
+    }
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } sanasidan
+cfr-whatsnew-tracking-blocked-link-text = Hisobotni koʻrish
+cfr-whatsnew-lockwise-backup-title = Parollarning zaxira nusxasini saqlang
+cfr-whatsnew-lockwise-backup-body = Endi ishonchli parol yaratish mumkin. Undan istalgan joyda foydalanishmumkin.
+cfr-whatsnew-lockwise-backup-link-text = Zaxiralashni yoqish
+cfr-whatsnew-lockwise-take-title = Parolni oʻzingiz bilan olib yuring
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil ilovasi istalgan joydan zaxiralangan parol yordamida xavfsiz foydalanish imkonini beradi.
+cfr-whatsnew-lockwise-take-link-text = Ilovani yuklab olish
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Internetda kezayotganda videolarni tomosha qiling
+cfr-whatsnew-pip-body = “Tasvir ichida tasvir” funksiyasi videolarni turli oynalarda tomosha qilish imkonini beradi.
+cfr-whatsnew-pip-cta = Batafsil
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Asabga tegadigan qalqib chiquvchi oynalar kamayadi
 
 ## Fingerprinter Counter
 
