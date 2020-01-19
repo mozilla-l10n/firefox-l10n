@@ -4,6 +4,8 @@
 
 do-not-track-description = Kuzatishlarini xohlamasangiz, saytlarga "Kuzatilmasin" signalini yuboring
 do-not-track-learn-more = Batafsil ma’lumot
+do-not-track-option-default-content-blocking-known =
+    .label = { -brand-short-name } maʼlum kuzatuvchilarni bloklash uchun sozlanganda
 do-not-track-option-always =
     .label = Doimo
 pref-page =
@@ -32,6 +34,7 @@ search-input-box =
             [windows] Parametrlar ichidan topish
            *[other] Sozlamalar ichidan topish
         }
+managed-notice = Brauzeringiz tashkilotingiz tomonidan boshqariladi.
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,7 +47,11 @@ category-search =
 pane-privacy-title = Maxfiylik va xavfsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } yordami
+addons-button-label = Kengaytmalar va mavzular
 focus-search =
     .key = f
 close-button =
@@ -99,8 +106,13 @@ is-not-default = { -brand-short-name } - standart brauzeringiz emas
 set-as-my-default-browser =
     .label = Asosiy sifatida o‘rnatish
     .accesskey = A
+startup-restore-previous-session =
+    .label = Oldingi seansni tiklash
+    .accesskey = t
+startup-restore-warn-on-quit =
+    .label = Brauzerdan chiqishda sizni ogohlantiradi
 disable-extension =
-    .label = Kengaytmani o‘chirib qo‘yish
+    .label = Kengaytmani oʻchirib qoʻyish
 tabs-group-header = Ichki oynalar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yordamida ichki oynalarga so‘nggi foydalanish tartibida o‘tish mumkin
@@ -241,6 +253,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name }`dan foydalanish ({ -brand-short-name }da)
@@ -295,6 +311,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Qidiruv tizimlarini avtomatik yangilasin
     .accesskey = e
+update-in-progress-ok-button = &Rad etish
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Davom etish
 
 ## General Section - Performance
 
@@ -334,9 +354,12 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yozishni boshlaganimda, matn izlansin
     .accesskey = n
+browsing-picture-in-picture-learn-more = Batafsil
 
 ## General Section - Proxy
 
+network-settings-title = Tarmoq sozlamalari
+network-proxy-connection-description = { -brand-short-name } brauzerni internetga ulanishini sozlash.
 network-proxy-connection-learn-more = Batafsil ma’lumot
 network-proxy-connection-settings =
     .label = Sozlamalar…
@@ -393,6 +416,7 @@ home-prefs-topsites-description = Tez-tez tashrif buyuradigan saytlaringiz
 home-prefs-recommended-by-header =
     .label = { $provider } tomonidan tavsiya qilingan
 home-prefs-recommended-by-description = Siz uchun moslangan internetdagi ajoyib kontent
+home-prefs-recommended-by-learn-more = U qanday ishlaydi
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Homiylik maqolalari
 home-prefs-highlights-header =
@@ -467,6 +491,12 @@ search-keyword-warning-bookmark = Xatcho‘pda foydalaniladigan kalit so‘zni t
 ## Containers Section
 
 containers-back-link = « Orqaga qaytish
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Parametrlarga qaytish
+           *[other] Parametrlarga qaytish
+        }
 containers-header = Ichki oynalar konteyneri
 containers-add-button =
     .label = Yangi konteyner qo‘shish
@@ -490,6 +520,9 @@ sync-signedout-account-create = Hisobingiz yo‘qmi? Unda
 sync-signedout-account-signin =
     .label = Kirish
     .accesskey = i
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name } hisobiga kirish…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -510,6 +543,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Uzish
     .accesskey = U
+sync-sign-out =
+    .label = Chiqish…
+    .accesskey = C
 sync-manage-account = Hisobni boshqarish
     .accesskey = o
 sync-signedin-unverified = { $email } tasdiqlanmagan.
@@ -528,6 +564,11 @@ sync-signedin-settings-desc = Qurilmangizda { -brand-short-name }dan foydalanib 
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sinxronizatsiya: YONIQ
+prefs-syncing-off = Sinxronizatsiya: OʻCHIQ
+prefs-sync-setup =
+    .label = { -sync-brand-short-name }ni sozlash
+    .accesskey = s
 
 ## The list of things currently syncing.
 
@@ -593,6 +634,7 @@ privacy-header = Brauzer maxfiyligi
 
 ## Privacy Section - Logins and Passwords
 
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Saytlar uchun taxallus va parollarni saqlash so‘ralsin
     .accesskey = r

@@ -83,6 +83,12 @@ cfr-protections-panel-link-text = Batafsil
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Yangi funksiya:
+cfr-whatsnew-button =
+    .label = Yangi xususiyatlar
+    .tooltiptext = Yangi xususiyatlar
 cfr-whatsnew-panel-header = Yangi xususiyatlar
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
