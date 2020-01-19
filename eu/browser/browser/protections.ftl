@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> jarraipen-elementu blokeatuta data honetatik: { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> jarraipen-elementu blokeatuta data honetatik: { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen jarraitzen du leiho pribatuetan baina ez du blokeatu denaren erregistrorik gordetzen.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = { -brand-short-name }(e)k aste honetan blokeatu dituen jarraipen-elementuak
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Aktibatu { -sync-brand-short-name }…
     .title = Joan sinkronizatzeko hobespenetara
-manage-devices = Kudeatu gailuak
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Beste gailu batera sinkronizatzen
-       *[other] Beste { $count } gailuetara sinkronizatzen
-    }
-lockwise-sync-not-syncing-devices = Ez da beste gailuetara sinkronizatzen ari
 manage-connected-devices = Kudeatu gailuak…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
