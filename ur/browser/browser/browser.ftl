@@ -146,6 +146,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = بطور طے شدہ تلاش انجن سیٹ کریں
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = نجی ونڈوں کے لیئے طے شدہ تلاش انجن بنائیں
+    .accesskey = P
 
 ## Bookmark Panel
 
@@ -178,6 +181,7 @@ identity-permissions-reload-hint = تبدیلی کو لگانے کے لیئے آ
 identity-permissions-empty = آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔
 identity-clear-site-data =
     .label = کوکیاں اور سائٹ کے کواِئف… صاف کریں
+identity-connection-not-secure-security-view = آپ اس سائٹ کے ساتھ غیر محفوظ طریقے سے جڑے ہوئے ہیں۔
 identity-connection-verified = آپ اس سائٹ کے ساتھ محفوظ طریقے سے جڑے ہوئے ہیں۔
 identity-ev-owner-label = تصدیق نامہ جاری کیا گیا:
 identity-remove-cert-exception =

@@ -295,9 +295,12 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = عددی حقوق بندرستگی(DRM) مواد
+play-drm-content =
+    .label = DRM کے زیرانتظام مواد چلائیں
+    .accesskey = P
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
@@ -331,6 +334,7 @@ performance-title = کارکردگی
 performance-use-recommended-settings-checkbox =
     .label = تجویز کردہ کارکردگی کی ترتیبات استعمال کریں
     .accesskey = U
+performance-use-recommended-settings-desc = یہ ترتیبات آپ کے کمپیوٹر کے ہارڈ ویئر اور آپریٹنگ سسٹم کے مطابق ہیں۔
 performance-settings-learn-more = مزید سیکھیں
 performance-allow-hw-accel =
     .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
@@ -360,6 +364,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = تصویر میں تصویر ویڈیو کنٹرول کو قابل بنائیں
+    .accesskey = E
 browsing-picture-in-picture-learn-more = مزید سیکھیں
 browsing-cfr-features =
     .label = براؤز کرتے وقت خصوصیات کی تجویز کریں
@@ -428,6 +435,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = سرپرست شدہ کہاناں
 home-prefs-highlights-header =
     .label = شہ سرخياں
+home-prefs-highlights-description = ان سائٹس کا ایک انتخاب جو آپ نے محفوظ کیا ہے یا ملاحظہ کیا ہے
 home-prefs-highlights-option-visited-pages =
     .label = دورہ کردہ صفحہات
 home-prefs-highlights-options-bookmarks =
@@ -443,6 +451,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = سنپیٹ
 home-prefs-snippets-description = { -vendor-short-name } اور{ -brand-product-name } کی جانب سے تازہ کاریاں
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } قطار
+           *[other] { $num } قطاریں
+        }
 
 ## Search Section
 
@@ -458,6 +472,9 @@ search-suggestions-desc = منتخب کریں کہ تلاش انجن سے تجا
 search-suggestions-option =
     .label = تلاش تجاویز مہیا کریں
     .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = ایڈریس بار کے نتائج میں تلاش کی تجاویز دکھائیں
+    .accesskey = I
 search-show-suggestions-private-windows =
     .label = نجی ونڈوز میں تلاش کی تجاویز دکھائیں
 search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
@@ -558,6 +575,9 @@ sync-signedin-settings-header = ہمہ وقت ساز ترتیبات
 
 prefs-syncing-on = سنکنگ چالو ہے
 prefs-syncing-off = سنکنگ بند ہے
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } مرتب کریں۔
+    .accesskey = S
 prefs-sync-now =
     .labelnotsyncing = ابھی ہمہ وقت سازی کریں
     .accesskeynotsyncing = ن
@@ -762,7 +782,7 @@ enhanced-tracking-protection-setting-custom =
     .label = مخصوص
     .accesskey = C
 
-
+##
 
 content-blocking-all-cookies = تمام کوکیاں
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
