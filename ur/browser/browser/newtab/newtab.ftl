@@ -80,7 +80,7 @@ newtab-privacy-modal-button-done = مکمل
 newtab-privacy-modal-header = آپ کی رازداری کی اہمیت ہے۔
 newtab-privacy-modal-link = سیکھیں کہ نئے ٹیب پر رازداری کیسے کام کرتی ہے
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = نشانى ہٹائيں
@@ -132,6 +132,8 @@ newtab-section-menu-privacy-notice = رازداری کا نوٹس
 
 ## Section aria-labels
 
+newtab-section-expand-section-label =
+    .aria-label = صیغہ کی توسیع کریں
 
 ## Section Headers.
 
@@ -155,7 +157,6 @@ newtab-discovery-empty-section-topstories-loading = لوڈ ہو رہا ہے…
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = مشہور مضامین:
 newtab-pocket-more-recommendations = اور زیادہ سفارشات
-newtab-pocket-how-it-works = یہ کس طرح کام کرتا ہے
 newtab-pocket-whats-pocket = { -pocket-brand-name } کیا ہے؟
 newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 
