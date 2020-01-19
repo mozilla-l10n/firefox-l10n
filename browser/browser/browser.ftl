@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Ireki gehigarrien instalazio-mezuen panela
 urlbar-tip-help-icon =
     .title = Lortu laguntza
+urlbar-search-tips-confirm = Ados, ulertuta
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
