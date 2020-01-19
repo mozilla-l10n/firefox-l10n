@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = سفارش شدا ایکسٹنشن
 cfr-doorhanger-feature-heading = تجویز کردہ خصوصیت
 cfr-doorhanger-pintab-heading = یہ آزمائیں: پن ٹیب
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = میں یہ کیوں دیکھ رہا ہوں
@@ -57,6 +57,8 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = آپ ٹیب پر <b> دائیں کلک کریں </ b> جس پر آپ پن کرنا چاہتے ہیں۔
+cfr-doorhanger-pintab-step2 = مینو سے <b> پن ٹیب </ b> منتخب کریں۔
 cfr-doorhanger-pintab-step3 = اگر سائٹ میں تازہ کاری ہوئی تو آپ کو اپنے پن شدہ ٹیب پر ایک نیلا نقطہ نظر آئے گا۔
 cfr-doorhanger-pintab-animation-pause = توقف کریں
 cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
@@ -64,6 +66,7 @@ cfr-doorhanger-pintab-animation-resume = پھر جاری کریں
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = ہر جگہ اپنے بک مارکس کی ہمہ وقت سازی کریں
+cfr-doorhanger-bookmark-fxa-body = بہت اچھا! اب آپ کو اپنے موبائل آلات پر اس نشانی کے بغیر نہیں چھوڑے گا۔ ایک { -fxaccount-brand-name } کے ساتھ شروع کریں۔
 cfr-doorhanger-bookmark-fxa-link-text = ابھی بک مارک کی ہہمہ وقت سازی کریں…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = بٹن بند کریں
