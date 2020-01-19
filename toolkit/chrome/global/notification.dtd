@@ -8,5 +8,9 @@
 
 <!ENTITY learnMore "Իմանալ ավելին…">
 
+<!ENTITY learnMoreNoEllipsis "Իմանալ ավելին">
+
 <!ENTITY defaultButton.label "Լավ">
 <!ENTITY defaultButton.accesskey "Լ">
+
+<!ENTITY moreActionsButton.accessibleLabel "Լրացուցիչ">
