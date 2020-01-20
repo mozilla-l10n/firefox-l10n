@@ -517,7 +517,7 @@ search-suggestions-option =
     .label = 검색 제안 사용
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = 주소창 결과에 검색 제안 보이기
+    .label = 주소창 결과에 검색 제안 표시
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -525,7 +525,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = 주소창 결과의 방문 기록 앞에 검색 제안 보이기
+    .label = 주소창 결과의 방문 기록 앞에 검색 제안 표시
 search-show-suggestions-private-windows =
     .label = 사생활 보호 창에 검색 제안 표시
 suggestions-addressbar-settings = 방문 기록, 북마크 및 탭 제안에 대한 설정 변경

@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "도움말"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct2.label      "&brandShorterName; 정보">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; 도움말">
@@ -48,6 +49,6 @@
 <!ENTITY hideOtherAppsCmdMac.label      "모두 숨기기">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "모두 보이기">
+<!ENTITY showAllAppsCmdMac.label        "모두 표시">
 
 <!ENTITY touchBarCmdMac.label           "터치바 사용자 정의…">

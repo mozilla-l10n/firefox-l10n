@@ -23,8 +23,8 @@
 <!ENTITY cmd.showPreferencesUnix.label        "환경 설정">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "부가 기능 환경 설정 변경">
 
-<!ENTITY cmd.showReleaseNotes.label           "출시 정보 보이기">
-<!ENTITY cmd.showReleaseNotes.tooltip         "이 업데이트의 출시 정보 보이기">
+<!ENTITY cmd.showReleaseNotes.label           "출시 정보 표시">
+<!ENTITY cmd.showReleaseNotes.tooltip         "이 업데이트의 출시 정보 표시">
 <!ENTITY cmd.hideReleaseNotes.label           "출시 정보 숨기기">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "이 업데이트의 출시 정보 숨기기">
 <!ENTITY cmd.findReplacement.label            "다른 플러그인 찾기">
