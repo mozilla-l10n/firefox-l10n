@@ -17,6 +17,8 @@ cert-error-trust-untrusted-issuer = Ntu nakuni certificado jiee ntu nakuni certi
 cert-error-trust-signature-algorithm-disabled = Ntu nakuni certificado jiee ya´a nsá´á jii iin algoritmo nná´va jiee kuviji iin ntu va´a.
 cert-error-trust-expired-issuer = Ntu nakuni certificado jiee certificado emisor nnɨ´ɨ.
 cert-error-trust-self-signed = Certificado ya´a ntu vatu jiee kuviji autofirmado.
+cert-error-trust-symantec = Daa certificados vaji jiee GeoTrust,RapidSSL, Symantec, Thawte y VeriSign ntu nakuni vatu jiee daa vetiñu certificación ntu nnitada daa tu´un va´a ichi yata.
+cert-error-untrusted-default = Certificado ntu vaji nuu iin nuu va´a.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Código a stivu <a data-l10n-name="error-code-link">{ $error }</a>
