@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri <b>{ $count }</b> takipçi engellendi
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri <b>{ $count }</b> takipçi engellendi
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } gizli pencelerde takipçileri engellemeye devam eder ama neleri engellediğinin kaydını tutmaz.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Bu hafta { -brand-short-name } tarafından engellenen takipçiler
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = { -sync-brand-short-name }’i etkinleştir…
     .title = Eşitleme tercihlerine git
-manage-devices = Cihazları yönet
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] { $count } cihazla eşitleniyor
-       *[other] { $count } cihazla eşitleniyor
-    }
-lockwise-sync-not-syncing-devices = Diğer cihazlarla eşitlenmiyor
 manage-connected-devices = Cihazları yönet…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
