@@ -20,6 +20,13 @@ cert-error-trust-self-signed = Certificado ya´a ntu vatu jiee kuviji autofirmad
 cert-error-trust-symantec = Daa certificados vaji jiee GeoTrust,RapidSSL, Symantec, Thawte y VeriSign ntu nakuni vatu jiee daa vetiñu certificación ntu nnitada daa tu´un va´a ichi yata.
 cert-error-untrusted-default = Certificado ntu vaji nuu iin nuu va´a.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Daa nuu web íyo vatu jiee daa certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Daa nuu web íyo vatu jiee daa certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }. Certificado íyo vatu ntu xini nuu <a data-l10n-name="domain-mismatch-link"> </a>
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Código a stivu <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = Kuvi kachinu nuu tee nɨnuu web jie´e tixí ya´a.
