@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = 기본값으로 복원
-customize-mode-menu-and-toolbars-header = 좋아하는 항목을 도구모음이나 더보기 메뉴에 드래그 하세요.
+customize-mode-menu-and-toolbars-header = 좋아하는 항목을 도구모음이나 더보기 메뉴에 끌어서 놓으세요.
 customize-mode-overflow-list-title = 더보기 메뉴
 customize-mode-uidensity =
     .label = 밀도
@@ -16,7 +16,7 @@ customize-mode-lwthemes-menu-manage =
 customize-mode-toolbars =
     .label = 도구 모음
 customize-mode-titlebar =
-    .label = 제목창
+    .label = 제목 표시줄
 customize-mode-uidensity-menu-touch =
     .label = 터치
     .accesskey = T
@@ -27,7 +27,7 @@ customize-mode-extra-drag-space =
     .label = 드래그 공간
 customize-mode-lwthemes =
     .label = 테마
-customize-mode-overflow-list-description = 도구 모음에서는 빼지만 계속 사용할 수 있게 항목을 여기에 끌어다 놓으세요…
+customize-mode-overflow-list-description = 도구 모음에서는 빼지만 계속 사용할 수 있도록 항목을 여기에 끌어서 놓으세요…
 customize-mode-uidensity-menu-normal =
     .label = 보통
     .accesskey = N
