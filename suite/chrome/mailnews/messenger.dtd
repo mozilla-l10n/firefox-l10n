@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Označené zprávy">
 <!ENTITY selectFlaggedCmd.accesskey "O">
+<!ENTITY menuFavoriteFolder.label "Složka Oblíbené">
+<!ENTITY menuFavoriteFolder.accesskey "b">
 <!ENTITY folderPropsCmd.label "Vlastnosti…">
 <!ENTITY folderPropsFolderCmd.label "Vlastnosti složky…">
 <!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusní skupiny…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Zpráva s praporkem">
 <!ENTITY prevFlaggedMsgCmd.accesskey "r">
+<!ENTITY folderMenu.label "Složka">
+<!ENTITY folderMenu.accesskey "S">
 <!ENTITY startPageCmd.label "Úvodní stránka">
 <!ENTITY startPageCmd.accesskey "t">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "V">
+<!ENTITY folderContextFavoriteFolder.label "Složka Oblíbené">
+<!ENTITY folderContextFavoriteFolder.accesskey "b">
 <!ENTITY folderContextSettings.label "Nastavení…">
 <!ENTITY folderContextSettings.accesskey "t">
 
