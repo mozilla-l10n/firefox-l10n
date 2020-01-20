@@ -56,6 +56,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Хабарлама панелін ашу
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Орналасуды сұрау панелін ашу
+urlbar-xr-notification-anchor =
+    .tooltiptext = Виртуалды шынайылық рұқсаттар панелін ашу
 urlbar-storage-access-anchor =
     .tooltiptext = Веб-шолу кезіндегі рұқсаттардың панелін ашу
 urlbar-translate-notification-anchor =
@@ -80,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Кеңейтулерді орнату хабарламалар панелін ашу
 urlbar-tip-help-icon =
     .title = Көмек алу
+urlbar-search-tips-confirm = Жақсы, түсіндім
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -93,6 +96,8 @@ urlbar-search-tips-redirect = { $engineName } және шолу тарихы ұ�
 
 urlbar-geolocation-blocked =
     .tooltiptext = Сіз орналасу ақпаратымен бөлісуді бұл вебсайтқа блоктадыңыз.
+urlbar-xr-blocked =
+    .tooltiptext = Сіз виртуалды шынайылық құрылғысын қолдануды бұл вебсайтқа блоктадыңыз.
 urlbar-web-notifications-blocked =
     .tooltiptext = Сіз хабарламаларды бұл вебсайтқа блоктадыңыз.
 urlbar-camera-blocked =
@@ -168,6 +173,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Байланыс қауіпсіз емес
+identity-connection-secure = Байланыс қауіпсіз
 identity-connection-internal = Бұл - қауіпсіз { -brand-short-name } беті.
 identity-connection-file = Бұл парақ сіздің компьютеріңізде сақталған.
 identity-extension-page = Бұл парақ кеңейтуден жүктелген.
@@ -183,6 +190,9 @@ identity-permissions-reload-hint = Өзгерістер іске асуы үші
 identity-permissions-empty = Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.
 identity-clear-site-data =
     .label = Cookies файлдары және сайт деректерін тазарту…
+identity-connection-not-secure-security-view = Бұл сайтқа қауіпсіз түрде байланысқан емессіз.
+identity-connection-verified = Бұл сайтқа қауіпсіз түрде байланысқансыз.
+identity-ev-owner-label = Сертификат кімге шығарылған:
 identity-description-custom-root = Mozilla бұл сертификатты шығарушысын танымайды. Ол сіздің операциялық жүйеңіз немесе әкімшіңізбен қосылған болуы мүмкін. <label data-l10n-name="link">Көбірек білу</label>
 identity-remove-cert-exception =
     .label = Ережеден тыс жағдайды өшіру

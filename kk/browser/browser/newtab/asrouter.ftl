@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Ұсынылатын кеңейту
 cfr-doorhanger-feature-heading = Ұсынылатын мүмкіндік
 cfr-doorhanger-pintab-heading = Осыны көріңіз: Бетті бекіту
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Мен бұны неге көріп отырмын
@@ -78,6 +78,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Бақыламай шолыңыз
 cfr-protections-panel-link-text = Көбірек білу
 
 ## What's New toolbar button and panel
@@ -101,10 +102,13 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } бастап
 cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
 cfr-whatsnew-lockwise-backup-title = Парольдеріңіздің қор көшірмесін жасаңыз
+cfr-whatsnew-lockwise-backup-link-text = Қор көшірмелерді іске қосу
+cfr-whatsnew-lockwise-take-title = Парольдіріңізді өзіңізбен бірге ұстаңыз
 cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Шолу кезінде видеоларды қараңыз
 
 ## Permission Prompt
 
