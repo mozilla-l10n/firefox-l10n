@@ -47,8 +47,6 @@ newtab-topsites-save-button = Gem
 newtab-topsites-preview-button = Vis prøve
 newtab-topsites-add-button = Tilføj
 
-## Top Sites - Delete history confirmation dialog. 
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Er du sikker på, at du vil slette alle forekomster af denne side fra din historik?
@@ -85,7 +83,6 @@ newtab-menu-delete-history = Slet fra historik
 newtab-menu-save-to-pocket = Gem til { -pocket-brand-name }
 newtab-menu-delete-pocket = Slet fra { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkiver i { -pocket-brand-name }
-
 newtab-menu-show-privacy-info = Vores sponsorer og dit privatliv
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -97,6 +94,12 @@ newtab-privacy-modal-paragraph =
     og grundigt undersøgt indhold fra udvalgte sponsorer. Du kan være 
     sikker på, at dine data aldrig kommer videre end den version af 
     { -brand-product-name }, du har på din computer — Vi ser ikke dine data, 
+    og det gør vores sponsorer heller ikke.
+newtab-privacy-modal-paragraph-2 =
+    Udover at servere fængslende historier viser vi dig også relevant
+    og grundigt undersøgt indhold fra udvalgte sponsorer. Du kan være 
+    sikker på, at <strong>dine data aldrig kommer videre end den version af 
+    { -brand-product-name }, du har på din computer </strong> — Vi ser ikke dine data, 
     og det gør vores sponsorer heller ikke.
 newtab-privacy-modal-link = Læs mere om, hvordan sikring af dit privatliv fungerer i nyt faneblad
 
@@ -138,9 +141,6 @@ newtab-label-removed-bookmark = Bogmærke fjernet
 newtab-label-recommended = Populært
 newtab-label-saved = Gemt til { -pocket-brand-name }
 newtab-label-download = Hentet
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -195,7 +195,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populære emner:
 newtab-pocket-more-recommendations = Flere anbefalinger
-newtab-pocket-how-it-works = Sådan virker det
 newtab-pocket-whats-pocket = Hvad er { -pocket-brand-name }?
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.
