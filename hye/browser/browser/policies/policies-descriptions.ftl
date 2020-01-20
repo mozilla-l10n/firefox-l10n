@@ -29,3 +29,9 @@ policy-DisableFeedbackCommands = Անջատել հրամանները արձագ�
 policy-DisableFirefoxAccounts = Անջատել { -fxaccount-brand-name } հիմնուած ծառայութիւնները, համաժամեցումը ներառեալ։
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Անջատել Firefox-ի էկրանի հանոյթների յատկութիւնը։
+policy-DisableFirefoxStudies = Կանխարգելել { -brand-short-name }-ը բեռնուող ուսումնասիրութիւններից։
+policy-DisableForgetButton = Կանխարգելել մուտքը մոռացման կոճակով։
+policy-DisableFormHistory = Չյիշել որոնումները պատմութեան միջից։
+policy-DisableMasterPasswordCreation = Եթե ճշմարիտ է, հիմնական գաղտնաբառը չի կարող ստեղծուել։
+policy-DisablePasswordReveal = Թոյլ մի տուեք, որ գաղտնաբառերը բացահայտուեն պահուած մուտքերում։
+policy-DisablePocket = Կայքերը Pocket-ում պահպանելու համար անջատեք գործառոյթը։
