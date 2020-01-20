@@ -141,13 +141,13 @@ full-screen-exit =
 
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
-search-one-offs-with-title = 이번에 다음으로 검색:
+search-one-offs-with-title = 이번에 사용할 검색 엔진:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = 검색 설정 바꾸기
+    .label = 검색 설정 변경
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = 검색 설정 바꾸기
+    .tooltiptext = 검색 설정 변경
 search-one-offs-context-open-new-tab =
     .label = 새 탭에서 검색
     .accesskey = T
