@@ -11,7 +11,7 @@ protection-report-view-logins-button = Логиндерді қарау
     .title = Сақталған логиндерге өту
 turn-on-sync = { -sync-brand-short-name } іске қосу…
     .title = Синхрондау баптауларына өту
-manage-devices = Құрылғыларды басқару
+manage-connected-devices = Құрылғыларды басқару…
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

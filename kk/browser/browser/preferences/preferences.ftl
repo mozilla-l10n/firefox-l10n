@@ -203,6 +203,8 @@ advanced-fonts =
 colors-settings =
     .label = Түстер…
     .accesskey = Т
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = Тіл
 choose-language-description = Интернет-беттерді көрсету үшін тілді таңдаңыз
 choose-button =
@@ -719,6 +721,7 @@ privacy-header = Браузер жекелігі
 ## Privacy Section - Logins and Passwords
 
 logins-header = Логиндер және парольдер
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
     .accesskey = с
@@ -729,6 +732,7 @@ forms-generate-passwords =
     .label = Қатаң парольдерді ұсыну және генерациялау
     .accesskey = ы
 forms-breach-alerts-learn-more-link = Көбірек білу
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Логиндер мен парольдерді автотолтыру
     .accesskey = ы
@@ -889,6 +893,7 @@ content-blocking-fingerprinters = Баспаны жинаушылар
 content-blocking-warning-title = Ескерту!
 content-blocking-warning-description = Құраманы бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Сенімді сайттар үшін бұғаттауды өшіру оңай.
 content-blocking-learn-how = Көбірек білу
+content-blocking-warning-learn-how = Көбірек білу
 content-blocking-reload-description = Бұл өзгерістер іске асуы үшін беттерді қайта жүктеу керек болады.
 content-blocking-reload-tabs-button =
     .label = Барлық беттерді қайта жүктеу
@@ -931,6 +936,10 @@ permissions-location = Орналасу
 permissions-location-settings =
     .label = Баптаулар…
     .accesskey = л
+permissions-xr = Виртуалды шынайылық
+permissions-xr-settings =
+    .label = Баптаулар…
+    .accesskey = т
 permissions-camera = Камера
 permissions-camera-settings =
     .label = Баптаулар…

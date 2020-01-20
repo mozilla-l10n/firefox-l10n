@@ -35,6 +35,8 @@ connection-proxy-http-share =
     .accesskey = К
 connection-proxy-ssl = SSL прокси
     .accesskey = S
+connection-proxy-https = HTTPS проксиі
+    .accesskey = п
 connection-proxy-ssl-port = Порт
     .accesskey = о
 connection-proxy-ftp = FTP прокси
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS арқылы DNS іске қосу
     .accesskey = ы
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Бастапқысын қолдану ({ $url })
-    .accesskey = ы
-    .tooltiptext = HTTPS арқылы DNS шешу үшін бастапқы URL қолдану
 connection-dns-over-https-url-resolver = Провайдерді қолдану
     .accesskey = п
 # Variables:

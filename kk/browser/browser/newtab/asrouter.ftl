@@ -109,6 +109,8 @@ cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Шолу кезінде видеоларды қараңыз
+cfr-whatsnew-pip-body = Суреттегі сурет режимі видеоны қалқымалы терезеде көрсетеді, оның көмегімен сіз басқа беттерде жасаған кезде де қарай аласыз.
+cfr-whatsnew-pip-cta = Көбірек білу
 
 ## Permission Prompt
 
