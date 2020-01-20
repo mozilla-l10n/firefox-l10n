@@ -709,7 +709,7 @@ sync-engine-prefs =
 
 sync-device-name-header = 기기 이름
 sync-device-name-change =
-    .label = 기기 이름 바꾸기…
+    .label = 기기 이름 변경…
     .accesskey = h
 sync-device-name-cancel =
     .label = 취소
