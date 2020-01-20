@@ -278,7 +278,7 @@ shortcuts-no-commands = 다음 확장기능에는 단축키가 없습니다:
 shortcuts-input =
     .placeholder = 단축키 입력
 shortcuts-browserAction = 확장기능 활성화
-shortcuts-pageAction = 페이지 동작 활성화
+shortcuts-pageAction = 페이지 작업 활성화
 shortcuts-sidebarAction = 사이드바 열고 닫기
 shortcuts-modifier-mac = Ctrl, Alt 또는 ⌘ 포함
 shortcuts-modifier-other = Ctrl 또는 Alt 포함
@@ -290,7 +290,7 @@ shortcuts-duplicate = 중복 단축키
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut }이(가) 하나 이상의 경우에 단축키로 사용되고 있습니다. 단축키가 중복되면 예상치 못한 동작이 발생할 수 있습니다.
+shortcuts-duplicate-warning-message = { $shortcut } 단축키가 여러 곳에 사용되고 있습니다. 단축키가 중복되면 예상치 못한 동작이 발생할 수 있습니다.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
