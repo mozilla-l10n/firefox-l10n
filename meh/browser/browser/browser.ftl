@@ -139,6 +139,8 @@ search-one-offs-context-set-as-default =
 
 ## Bookmark Panel
 
+bookmark-panel-done-button =
+    .label = Xinɨ´ɨ
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -147,5 +149,16 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Conexión ntu va´a.
+identity-connection-secure = Conexión va´a
+identity-connection-internal = Ya´a kuvi iin página { -brand-short-name } va´a.
+identity-connection-file = Página ya´a nchuva´a nuu ka̱a̱ tee nɨnuu noo´o.
+identity-clear-site-data =
+    .label = Xina cookies jii datos sitio...
+identity-connection-not-secure-security-view = Ntu nkuvi sá´á iin conexión va´a jii sitio ya´a.
+identity-connection-verified = Nkuvi sá´á iin conexión vatu jii sitio ya´a.
+identity-remove-cert-exception =
+    .label = Xina excepción
+    .accesskey = E
 identity-learn-more =
     .value = Ka´vi kue´eka
