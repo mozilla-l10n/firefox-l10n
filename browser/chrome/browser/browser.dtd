@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; 켜기…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "기기 관리…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 보이기">
+<!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 표시">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "동기화한 탭 탐색창 숨기기">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "다른 기기 연결">
 
@@ -595,7 +595,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "새 컨테이너 탭에서 링크 열기">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
-<!ENTITY showOnlyThisFrameCmd.label     "이 프레임만 보이기">
+<!ENTITY showOnlyThisFrameCmd.label     "이 프레임만 표시">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 
 <!ENTITY reloadCmd.commandkey         "r">
@@ -728,7 +728,7 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "컨트롤 보이기">
+<!ENTITY mediaShowControls.label     "컨트롤 표시">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "컨트롤 숨기기">
 <!ENTITY mediaHideControls.accesskey "C">
@@ -835,7 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "완료">
-<!ENTITY editBookmark.showForNewBookmarks.label       "저장할 때 편집기 보이기">
+<!ENTITY editBookmark.showForNewBookmarks.label       "저장할 때 편집기 표시">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)

@@ -150,7 +150,7 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = 컨트롤 보이기
+    .label = 컨트롤 표시
     .accesskey = C
 main-context-menu-media-hide-controls =
     .label = 컨트롤 숨기기
@@ -245,7 +245,7 @@ main-context-menu-frame =
     .label = 현재 프레임
     .accesskey = h
 main-context-menu-frame-show-this =
-    .label = 이 프레임만 보이기
+    .label = 이 프레임만 표시
     .accesskey = S
 main-context-menu-frame-open-tab =
     .label = 새 탭에 프레임 열기
