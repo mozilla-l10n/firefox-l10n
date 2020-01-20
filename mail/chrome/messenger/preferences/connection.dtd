@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL proxy-a:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "HTTP proxy-a:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS ostalaria:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "localhost, 127.0.0.1 eta ::1 helbideetarako konexioak inoiz ez dira proxy bidez egiten.">
+<!ENTITY  noproxyLocalhostDesc.label    "localhost, 127.0.0.1 eta ::1 helbideetarako konexioak inoiz ez dira proxy bidez egiten.">
 <!ENTITY  shareproxy.label              "Erabili proxy hau protokolo guztientzako">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  proxyHttpSharing.label        "Erabili proxy hau HTTPS protokoloarentzat ere bai">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Ez eskatu autentifikaziorik pasahitza gordeta badago">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Aukera honek proxietarako autentifikazioa isilean burutzen du hauentzat kredentzialak gorde dituzunean. Autentifikazioak huts egiten badu, eskatu egingo zaizu.">
