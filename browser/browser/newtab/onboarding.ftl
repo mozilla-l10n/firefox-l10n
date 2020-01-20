@@ -48,8 +48,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = { -brand-product-name }-ты өзіңізбен бірге алыңыз
 onboarding-sync-welcome-content = Бетбелгілер, тарих, парольдер және т.б. баптауларды құрылғыларыңыздың барлығында алыңыз.
 onboarding-sync-welcome-learn-more-link = Firefox тіркелгілері туралы көбірек білу
-onboarding-sync-form-invalid-input = Жарамды эл. пошта адресі керек
-onboarding-sync-legal-notice = Жалғастырсаңыз, <a data-l10n-name="terms">Қолдану шарттары</a> және <a data-l10n-name="privacy">Жекелік ескертуі</a> шарттарымен келісесіз.
 onboarding-sync-form-input =
     .placeholder = Эл. пошта
 onboarding-sync-form-continue-button = Жалғастыру
@@ -128,9 +126,11 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name } қолданып кө
 onboarding-lockwise-passwords-title = Парольдеріңізді өзіңізбен бірге алып жүріңіз
 onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } көмегімен парольдерді қауіпсіз сақтаңыз және тіркелгілеріңізге оңай кіріңіз.
 onboarding-lockwise-passwords-button2 = Қолданбаны алу
+onboarding-lockwise-strong-passwords-button = Логиндеріңізді басқару
 onboarding-facebook-container-title = Фейсбук үшін шекараларды орнатыңыз
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } профиліңізді басқа нәрседен бөлек ұстап, Фейсбук үшін сізге мақсатталған жарнаманы көрсетуге қиынырақ етеді.
 onboarding-facebook-container-button = Кеңейтуді қосу
+onboarding-import-browser-settings-title = Бетбелгілер, парольдерді және т.б. импорттау
 
 ## Message strings belonging to the Return to AMO flow
 
