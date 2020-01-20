@@ -106,6 +106,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Логиндеріңізді { -brand-product-name } қолданатын барлық жерде қалайсыз ба? { -sync-brand-short-name } баптауларына өтіп, Логиндерді таңдаңыз.
+       *[other] Логиндеріңізді { -brand-product-name } қолданатын барлық жерде қалайсыз ба? { -sync-brand-short-name } баптауларына өтіп, Логиндерді таңдаңыз.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -131,10 +136,17 @@ confirm-discard-changes-dialog-confirm-button = Тайдыру
 
 ## Breach Alert notification
 
+breach-alert-text = Логин ақпаратыңызды соңғы рет жаңартқаннан кейін бұл веб-сайттан парольдер алынған немесе ұрланған болатын. Тіркелгіңізді қорғау үшін, пароліңізді ауыстырыңыз.
+breach-alert-link = Бұл бұзушылық туралы көбірек біліңіз.
 breach-alert-dismiss =
     .title = Бұл ескертуді жабу
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Осы пайдаланушы атын қолданатын { $loginTitle } жазбасы бар болып тұр. <a data-l10n-name="duplicate-link">Бар болып тұрған жазбаға өту</a> керек пе?
 # This is a generic error message.
 about-logins-error-message-default = Бұл парольді сақтау кезінде қате орын алды.
