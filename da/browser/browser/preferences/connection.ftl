@@ -41,6 +41,12 @@ connection-proxy-http-share =
 
 connection-proxy-ssl = SSL-proxy
     .accesskey = S
+connection-proxy-http-sharing =
+    .label = Brug også denne proxy til FTP og HTTPS
+    .accesskey = s
+
+connection-proxy-https = HTTPS-proxy
+    .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
 

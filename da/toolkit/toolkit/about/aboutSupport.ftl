@@ -263,6 +263,9 @@ d3d11video-crash-guard = D3D11-videodekoder
 d3d9video-crash-buard = D3D9-videodekoder
 d3d9video-crash-guard = D3D9-videodekoder
 glcontext-crash-guard = OpenGL
+
+wmfvpxvideo-crash-guard = WMF VPX-videodekoder
+
 reset-on-next-restart = Nulstil ved næste genstart
 gpu-process-kill-button = Afslut GPU-process
 gpu-device-reset = Device Reset

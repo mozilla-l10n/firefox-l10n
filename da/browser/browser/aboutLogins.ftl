@@ -77,7 +77,6 @@ about-logins-intro-import = Hvis dine logins er gemt i en anden browser, kan du 
 
 login-item-new-login-title = Opret nyt login
 login-item-edit-button = Rediger
-login-item-delete-button = Slet
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Webstedets adresse
 login-item-origin =
@@ -92,6 +91,8 @@ login-item-password-reveal-checkbox-show =
   .title = Vis adgangskode
 login-item-password-reveal-checkbox-hide =
   .title = Skjul adgangskode
+login-item-password-reveal-checkbox =
+  .aria-label = Vis adgangskode
 login-item-copy-password-button-text = Kopier
 login-item-copied-password-button-text = Kopieret!
 login-item-save-changes-button = Gem ændringer
@@ -123,7 +124,6 @@ enable-password-sync-preferences-button =
     }
   .accesskey = G
 
-confirm-delete-dialog-title = Slet dette login?
 about-logins-enable-password-sync-dont-ask-again-button =
   .label = Spørg mig ikke igen
   .accesskey = S
@@ -136,8 +136,6 @@ confirmation-dialog-dismiss-button =
 
 about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
-confirm-delete-dialog-confirm-button = Slet
-
 about-logins-confirm-remove-dialog-confirm-button = Fjern
 
 confirm-discard-changes-dialog-title = Annuller ikke-gemte ændringer?
