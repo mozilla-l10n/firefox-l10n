@@ -14,11 +14,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Nánuku nuu kajie´e sesión
 create-login-button = Sá´á jíía iin kajie´e sesión
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon para { $title }
 fxaccounts-sign-in-button = Kajie´e sesión { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Administrar cuenta
@@ -57,9 +52,6 @@ about-logins-login-list-empty-search-description = Ntu íyo tu´un ínu jii a n�
 login-list-item-title-new-login = A jíía inicio sesión
 login-list-item-subtitle-new-login = Chu´un credenciales noo´o a kajie´e sesión
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
-about-logins-list-item-warning-icon =
-    .alt = Ícono ntu vatu
-    .title = Nuu Web ntu vatu
 about-logins-list-item-breach-icon =
     .title = Nuu Web ntu vatu
 
@@ -75,7 +67,7 @@ about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lock
 
 login-item-new-login-title = Sá´á jíía nuu kajie´e sesión
 login-item-edit-button = Natee
-login-item-delete-button = Xita
+about-logins-login-item-remove-button = Xita
 login-item-origin-label = Nuu sitio web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -105,11 +97,8 @@ master-password-reload-button =
     .label = Kajie´e sesión
     .accesskey = K
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Nkuvi-ka
-confirmation-dialog-dismiss-button =
-    .title = Nkuvi-ka
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -117,9 +106,13 @@ enable-password-sync-preferences-button =
            *[other] Kune´ya daa preferencias { -sync-brand-short-name }
         }
     .accesskey = K
-confirm-delete-dialog-title = Xina nuu kajie´e sesión ya´a?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Nkuvi-ka
+confirmation-dialog-dismiss-button =
+    .title = Nkuvi-ka
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
-confirm-delete-dialog-confirm-button = Xita
 confirm-discard-changes-dialog-message = Kuaiyo daa nsama jee ntu nchuva´a náan.
 
 ## Breach Alert notification
