@@ -211,7 +211,7 @@ about-debugging-profiler-dialog-title2 = 프로파일러
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
-about-debugging-collapse-expand-debug-targets = 축소 / 확장
+about-debugging-collapse-expand-debug-targets = 접기 / 펼치기
 
 # Debug Targets strings
 
