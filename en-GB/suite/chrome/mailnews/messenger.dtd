@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Flagged Messages">
 <!ENTITY selectFlaggedCmd.accesskey "F">
+<!ENTITY menuFavoriteFolder.label "Favourite Folder">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Properties…">
 <!ENTITY folderPropsFolderCmd.label "Folder Properties…">
 <!ENTITY folderPropsNewsgroupCmd.label "Newsgroup Properties…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
 <!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY folderMenu.label "Folder">
+<!ENTITY folderMenu.accesskey "o">
 <!ENTITY startPageCmd.label "Mail Start Page">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Properties…">
 <!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Favourite Folder">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Settings…">
 <!ENTITY folderContextSettings.accesskey "e">
 
