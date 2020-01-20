@@ -143,8 +143,8 @@ intl-regional-prefs = Preferéncias regionalas
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Rapòrts de plantatge del { $days } darrièr jorn
-       *[other] Rapòrts de plantatge dels { $days } darrièrs jorns
+        [one] Rapòrts de plantatge del darrièr { $days } jorn
+       *[other] Rapòrts de plantatge dels darrièrs { $days } jorns
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
