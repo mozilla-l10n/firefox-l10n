@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL-välityspalvelin:">
 <!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  https.label                   "HTTPS-välityspalvelin:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS-palvelin:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Yhteyksiä kohteisiin localhost, 127.0.0.1 ja ::1 ei koskaan ohjata välityspalvelimen kautta.">
+<!ENTITY  noproxyLocalhostDesc.label    "Yhteyksiä kohteisiin localhost, 127.0.0.1 ja ::1 ei koskaan ohjata välityspalvelimen kautta.">
 <!ENTITY  shareproxy.label              "Sama välityspalvelin kaikille yhteyskäytännöille">
 <!ENTITY  shareproxy.accesskey          "m">
+<!ENTITY  proxyHttpSharing.label        "Käytä tätä välityspalvelinta myös HTTPS:lle">
+<!ENTITY  proxyHttpSharing.accesskey    "v">
 <!ENTITY  autologinproxy.label          "Älä pyydä tunnistautumista, jos salasana on tallennettu">
 <!ENTITY  autologinproxy.accesskey      "p">
 <!ENTITY  autologinproxy.tooltip        "Tämä asetus kirjaa sinut automaattisesti välityspalvelimiin, jos olet tallentanut niiden kirjautumistiedot. Jos kirjautuminen epäonnistuu, sinua tiedotetaan asiasta.">
