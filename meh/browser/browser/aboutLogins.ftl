@@ -7,6 +7,7 @@ about-logins-page-title = Nuu kajie´e sesión jii contraseñas
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Kua´a jii contraseña noo´o ntaka nuu
+login-app-promo-subtitle = Ni´i aplicación { -lockwise-brand-name } ntu xu´un
 login-app-promo-android =
     .alt = Ni´ima nuu Google Play
 login-app-promo-apple =
@@ -14,6 +15,7 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Nánuku nuu kajie´e sesión
 create-login-button = Sá´á jíía iin kajie´e sesión
+fxaccounts-sign-in-text = Ni´i daa contraseñas nuu inka ka̱a̱
 fxaccounts-sign-in-button = Kajie´e sesión { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Administrar cuenta
@@ -58,6 +60,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = ¿Nánuku daa nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Ntu nani´i nuu kajie´e sesión sincronizados.
 login-intro-description = Dee nchuva´anu daa nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma jee suni:
 login-intro-instruction-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } jii ka̱a̱ nuu nkajie´enu sesión nchuva´a
 login-intro-instruction-fxa-settings = Kune´ya nkajinu nuu kajie´e sesión nuu daa ke´i { -sync-brand-short-name }
@@ -82,6 +85,8 @@ login-item-password-reveal-checkbox-show =
     .title = Kutúvi contraseña
 login-item-password-reveal-checkbox-hide =
     .title = Chiyu´u contraseña
+login-item-password-reveal-checkbox =
+    .aria-label = Xituvi contraseña
 login-item-copy-password-button-text = Tɨɨn
 login-item-copied-password-button-text = Ntɨɨn
 login-item-save-changes-button = Chuva´a nsama
@@ -107,6 +112,9 @@ enable-password-sync-preferences-button =
            *[other] Kune´ya daa preferencias { -sync-brand-short-name }
         }
     .accesskey = K
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Nkatu´unu ichika
+    .accesskey = D
 
 ## Dialogs
 

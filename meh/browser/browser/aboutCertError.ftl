@@ -38,6 +38,20 @@ cert-error-domain-mismatch-multiple = Daa nuu web íyo vatu jiee daa certificado
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = Daa nuu web íyo vatu jiee daa certificados, daa ya´a íyo vatu ntu kue´e kivɨ . Certificado { $hostname } nnɨ ´ɨ  { $not-after-local-time }.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Daa nuu web íyo vatu jiee daa certificados, daa ya´a íyo vatu ntu kue´e kivɨ . Certificado { $hostname } koo tiñu kivɨ { $not-before-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Código a stivu <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Daa nuu web íyo vatu jiee daa certificados tava tee nee tiñu certificación. Ntaka daa ka̱a̱ nánuku ntu nakuni daa certificados tava GeoTrust, RapidSSL,  Symantec, Thawte y VeriSign. { $hostname } ni´i iin certificado vaji nuu daa vetiñu ya´a jee, ntu kuvi nakuni dee vatu nuu web ya´a.
 cert-error-symantec-distrust-admin = Kuvi kachinu nuu tee nɨnuu web jie´e tixí ya´a.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Seguridad de transporte HTTP estricta: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Tee clave pública HTTP: { $hasHPKP }
+cert-error-details-cert-chain-label = Cadena de certificado:
