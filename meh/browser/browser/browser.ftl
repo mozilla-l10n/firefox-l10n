@@ -64,19 +64,42 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = Síne panel mensajes nchuva´a ntu íyo conexión
 urlbar-password-notification-anchor =
     .tooltiptext = Síne panel daa mensajes daa contraseñas nchuva´a
+urlbar-translated-notification-anchor =
+    .tooltiptext = Tetiñu traducción página
 urlbar-plugins-notification-anchor =
     .tooltiptext = Tetiñu naja ni´i plugins
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Chuva´a datos kino kue´e kivɨ
+urlbar-addons-notification-anchor =
+    .tooltiptext = Síne panel daa mensajes chu´un nachisó-kúmani
 urlbar-tip-help-icon =
     .title = Nánuku chineída noo´o
+urlbar-search-tips-confirm = OK, vatu!
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = Tee mati´i, nani´i kue´e: Nánuku { $engineName } nee barra direccion.
+urlbar-search-tips-redirect = Kajie´e nánuku ya´a jee kuni nee { $engineName } jee daa nnánukunu.
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = Nasɨ información nuu iñɨ noo´o nuu web ya´a.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Nasɨ daa notificaciones nuu sitio web ya´a.
+urlbar-camera-blocked =
+    .tooltiptext = Ka̱a̱ natava nasɨ nuu sitio web ya´a.
+urlbar-microphone-blocked =
+    .tooltiptext = Microfono noo´o nasɨ nuu  web ya´a.
+urlbar-screen-blocked =
+    .tooltiptext = Nuu web ya´a nasɨ jee nkuvi kua´a pantalla.
+urlbar-popup-blocked =
+    .tooltiptext = Nasɨ daa pop-ups nuu sitio web ya´a.
+urlbar-canvas-blocked =
+    .tooltiptext = Noo´o nakasɨ tava datos canvas nuu sitio ya´a.
 
 ## Page Action Context Menu
 
