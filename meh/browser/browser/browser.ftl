@@ -38,16 +38,37 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Síne panel tu´un chu´un
+urlbar-web-notification-anchor =
+    .tooltiptext = Sama dee kene notificaciones sitio
 urlbar-midi-notification-anchor =
     .tooltiptext = Síne panel MIDI
 urlbar-eme-notification-anchor =
     .tooltiptext = Tetiñu naja ni´i software DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = Síne panel auntenticación web
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Tetiñu permiso extración canvas
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Tetiñu kua´a micrófono jii sitio
 urlbar-default-notification-anchor =
     .tooltiptext = Síne panel daa mensajes
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Síne panel jiniñu´u ubicación
 urlbar-plugins-notification-anchor =
     .tooltiptext = Tetiñu naja ni´i plugins
 urlbar-tip-help-icon =
     .title = Nánuku chineída noo´o
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 
 ## Page Action Context Menu
 

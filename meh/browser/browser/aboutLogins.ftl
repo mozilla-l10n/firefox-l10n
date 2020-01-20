@@ -121,8 +121,12 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
+about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
+about-logins-confirm-remove-dialog-confirm-button = Xita
+confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
 confirm-discard-changes-dialog-message = Kuaiyo daa nsama jee ntu nchuva´a náan.
+confirm-discard-changes-dialog-confirm-button = Xita
 
 ## Breach Alert notification
 
