@@ -18,7 +18,7 @@ about-config-intro-warning-text = 고급 구성 설정을 변경하면 { -brand-
 about-config-intro-warning-checkbox = 이 설정에 접근하려고 할 때 경고
 about-config-intro-warning-button = 위험을 감수하고 계속
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = 이러한 설정을 변경하면 { -brand-short-name } 성능 또는 보안에 영향을 줄 수 있습니다.
@@ -27,7 +27,7 @@ about-config-search-input1 =
     .placeholder = 설정 이름 검색
 about-config-show-all = 모두 보기
 about-config-pref-add = 추가
-about-config-pref-toggle = 토글
+about-config-pref-toggle = 설정/해제
 about-config-pref-edit = 편집
 about-config-pref-save = 저장
 about-config-pref-reset = 초기화
@@ -35,7 +35,7 @@ about-config-pref-delete = 삭제
 about-config-pref-add-button =
     .title = 추가
 about-config-pref-toggle-button =
-    .title = 토글
+    .title = 설정/해제
 about-config-pref-edit-button =
     .title = 편집
 about-config-pref-save-button =
