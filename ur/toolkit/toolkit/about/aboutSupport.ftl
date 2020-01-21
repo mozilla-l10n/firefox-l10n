@@ -118,7 +118,7 @@ media-device-latency = لیٹینسی
 ##
 
 intl-title = انٹرنیشنلائزیشن & لوکلائزیشن
-intl-app-title = ایپلیکیشن ترتیبات
+intl-app-title = ایپلیکیشن سیٹنگز
 intl-locales-requested = درخواست کی گئی زبانات
 intl-locales-available = دستیاب زبانات
 intl-locales-supported = ایپ کی زبانیں
@@ -126,6 +126,19 @@ intl-locales-default = طے شدہ زبان
 intl-os-title = آپریٹنگ سسٹم
 intl-os-prefs-system-locales = سسٹم کی زبان
 intl-regional-prefs = علاقائی ترجیحات
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

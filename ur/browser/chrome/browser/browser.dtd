@@ -162,11 +162,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; چالو  کریں ">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; خدمات">
 <!ENTITY fxa.menu.account.label "اکائونٹ">
-<!ENTITY fxa.menu.settings.label "ترتیبات">
-<!ENTITY fxa.menu.accountSettings.label "اکاؤنٹ کی ترتیبات">
+<!ENTITY fxa.menu.settings.label "سیٹنگز">
+<!ENTITY fxa.menu.accountSettings.label "اکاؤنٹ کی سیٹنگز">
 <!ENTITY fxa.menu.manageAccount2.label "اکاؤنٹ بندوبست کریں">
 <!ENTITY fxa.menu.signOut.label "سائن آؤٹ…">
-<!ENTITY fxa.menu.deviceSettings.label "آلہ کی ترتیبات">
+<!ENTITY fxa.menu.deviceSettings.label "آلہ کی سیٹنگز">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -878,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.settings.label "تحفظ کی سیٹنگز">
 <!ENTITY protections.showreport.label "رپورٹ دکھائیں">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view

@@ -86,7 +86,7 @@ options-sourceeditor-keybinding-default-label = طے شدہ
 ## Advanced section
 
 # The heading
-options-context-advanced-settings = اعلٰی ترتیبات
+options-context-advanced-settings = اعلٰی سیٹنگز
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP کیسہ کو نا اہل بنائیں (جب ٹول بکسا کھلا ہو )
 options-disable-http-cache-tooltip =
@@ -111,11 +111,6 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = ماخذ نقشہ جات اہل بنائیں
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * موجودہ سیشن صرف، صفحات دوبارہ
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = ٹھیک کرنے والا
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = گیکو پلیٹ فارم کوائف دکھایں

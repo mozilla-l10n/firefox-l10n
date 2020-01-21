@@ -38,7 +38,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "آلہ ترجیحات">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-<!ENTITY runtimeMenu_showSettings_label "آلہ کی ترتیبات">
+<!ENTITY runtimeMenu_showSettings_label "آلہ سیٹنگز">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 <!ENTITY runtimeMenu_showPerformancePanel_label "کارکردگی">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
@@ -135,7 +135,7 @@
 <!ENTITY devicepreference_addnew "نئے ترجیح میں اضافہ کریں">
 
 <!-- Device Settings -->
-<!ENTITY devicesetting_title "آلہ ترتیبات">
+<!ENTITY devicesetting_title "آلہ سیٹنگز">
 <!ENTITY devicesetting_search "تلاش کی ترتیبات">
 <!ENTITY devicesetting_newname "نیا سیٹگ کا نام">
 <!ENTITY devicesetting_newtext "سیٹنگ قدر">
