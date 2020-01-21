@@ -46,10 +46,10 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> <li>پھر کوشش کریں۔ &brandShortName; کنکشن کھولنے کی کوشش کرے گا اور صفحہ دوبارہ لوڈ کرے گا۔ <button id='wifi'>وائی فائی اہل بنائیں</button> </li> </ul>">
 
-<!ENTITY contentEncodingError.title "مواد ضابطہ بندی نقص">
+<!ENTITY contentEncodingError.title "مواد انکوڈنگ نقص">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>ویب سائٹ کے مالکین کو اس مسلے کا بتانے کے لیے رابطہ کریں</li> </ul>">
 
-<!ENTITY unsafeContentType.title "غیر محفوظ مسل قسم">
+<!ENTITY unsafeContentType.title "غیر محفوظ فائل قسم">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>برائے مہربانی ویب سائٹ کے مالکان کو اس مسئلے سے آگاہ کرنے کے لیے رابطہ کریں۔</li> </ul>">
 
 <!ENTITY netReset.title "کنکشن ریسٹ ہو گیا">
@@ -69,7 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>مختار سیٹنگوں کی پڑتال کرنے کے لیے اثبات کریں کہ وہ صحیح ہیں۔</li> <li>پڑتال کرنے کے لیے اثبات کریں کہ آپ کے آلہ کے کوائف یا وائی فائی کنکشن کام کر رہے ہیں۔ <button id='wifi'>وائی فائی اہل بنائیں</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "پہ صفحہ صجہج طرج سے دوسری سمت نہیں جا رہا">
+<!ENTITY redirectLoop.title "صفحہ ٹھیک طرح ری ڈائریکٹ نہیں ہو رہا">
 <!ENTITY redirectLoop.longDesc "<ul> <li>یہ مسلہ کبھی کبھی کوکیاں نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔</li> </ul>">
 
 <!ENTITY unknownSocketType.title "سرور کی طرف سے غیر متوقع جواب">
