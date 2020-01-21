@@ -5,6 +5,8 @@
 pictureinpicture-player-title = Зображення в зображенні
 pictureinpicture-pause =
     .aria-label = Пауза
+pictureinpicture-play =
+    .aria-label = Відтворити
 pictureinpicture-mute =
     .aria-label = Вимкнути звук
 pictureinpicture-unmute =
