@@ -7,3 +7,7 @@ pictureinpicture-pause =
     .aria-label = Pauză
 pictureinpicture-play =
     .aria-label = Redare
+pictureinpicture-mute =
+    .aria-label = Dezactivează sunetul
+pictureinpicture-unmute =
+    .aria-label = Activează sunetul
