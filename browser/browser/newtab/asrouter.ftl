@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = הרחבה מומלצת
 cfr-doorhanger-feature-heading = תכונה מומלצת
 cfr-doorhanger-pintab-heading = התנסות בתכונה: נעיצת לשונית
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
@@ -136,12 +136,14 @@ cfr-doorhanger-sync-bookmarks-ok-button = הפעלת { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = אף ססמה לא תלך עוד לאיבוד
 cfr-doorhanger-sync-logins-body = אחסון וסנכרון הססמאות שלך באופן מאובטח לכל המכשירים שלך.
 cfr-doorhanger-sync-logins-ok-button = הפעלת { -sync-brand-short-name }
     .accesskey = ה
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = לקריאה בדרכים
 cfr-doorhanger-send-tab-ok-button = לנסות את Send Tab
     .accesskey = ל
 
