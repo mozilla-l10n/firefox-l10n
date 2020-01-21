@@ -20,6 +20,10 @@ graph-total-tracker-summary =
         [few] <b>{ $count }</b> pratitelja blokirana od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> pratitelja blokirano od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } nastavlja blokirati programe za praćenje u privatnim prozorima, ali ne vodi evidenciju o tome što je blokirano.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Programi za praćenje, koje je { -brand-short-name } blokirao ovaj tjedan
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
