@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Препоръчано разширение
 cfr-doorhanger-feature-heading = Препоръчана възможност
 cfr-doorhanger-pintab-heading = Опитайте: закачане на раздел
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Защо го виждам?
@@ -97,20 +97,60 @@ cfr-whatsnew-release-notes-link-text = Прочетете бележките к�
 cfr-whatsnew-fx70-title = { -brand-short-name } вече се бори по-отдадено за вашата поверителност
 cfr-whatsnew-tracking-protect-title = Защитете се от проследяване
 cfr-whatsnew-tracking-protect-link-text = Вижте отчета
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Проследяващият е блокиран
+       *[other] Проследяващите са блокирани
+    }
 cfr-whatsnew-tracking-blocked-subtitle = От { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Преглед на отчета
+cfr-whatsnew-lockwise-backup-title = Архивирайте паролите си
 cfr-whatsnew-lockwise-take-link-text = Вземете приложението
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Гледайте видеоклипове, докато разглеждате
+cfr-whatsnew-pip-cta = Научете повече
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = По-малко досадни изскачащи прозорци
+cfr-whatsnew-permission-prompt-cta = Научете повече
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Спряно снемане на цифров отпечатък
+       *[other] Спряно снемане на цифров отпечатък
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Снемане на цифров отпечатък
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = Включване на { -sync-brand-short-name }
+    .accesskey = В
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Никога не забравяйте отново парола
+cfr-doorhanger-sync-logins-ok-button = Включване на { -sync-brand-short-name }
+    .accesskey = В
 
 ## Send Tab
 
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = Изпробвайте { -send-brand-name }
+    .accesskey = И
 
 ## Social Tracking Protection
 
