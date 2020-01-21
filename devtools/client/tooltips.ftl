@@ -52,3 +52,4 @@ inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> 또�
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> 또는 <strong>display:block</strong>을 추가하세요. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong>을 추가하세요. { learn-more }
 inactive-css-not-display-block-on-floated-fix = <strong>float</strong>를 제거하거나 <strong>display:block</strong>을 추가해보세요. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> 속성을 <strong>static</strong> 이외의 것으로 설정해 보세요. { learn-more }
