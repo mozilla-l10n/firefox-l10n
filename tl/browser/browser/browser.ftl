@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Buksan ang add-on intallation message panel
 urlbar-tip-help-icon =
     .title = Humingi ng tulong
+urlbar-search-tips-confirm = OK, nakuha ko
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -95,6 +96,8 @@ urlbar-search-tips-redirect = Simulan ang iyong paghahanap dito upang makita ang
 
 urlbar-geolocation-blocked =
     .tooltiptext = Na-block mo ang impormasyon ng lokasyon para sa website na ito.
+urlbar-xr-blocked =
+    .tooltiptext = Hinarangan mo ang virtual reality device na mag-access para sa website na ito.
 urlbar-web-notifications-blocked =
     .tooltiptext = Na-block mo ang mga notification para sa website na ito.
 urlbar-camera-blocked =

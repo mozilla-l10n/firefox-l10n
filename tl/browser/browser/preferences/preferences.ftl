@@ -203,6 +203,13 @@ advanced-fonts =
 colors-settings =
     .label = Mga Kulay…
     .accesskey = M
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = I-zoom ang text lamang
+    .accesskey = z
 language-header = Wika
 choose-language-description = Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina
 choose-button =
@@ -316,7 +323,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
@@ -896,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasadya
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Balansado para sa proteksyon at performance. Normal na maglo-load ang mga pahina.
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.
@@ -1009,6 +1016,7 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
 collection-description = Nagsusumikap kaming mabigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
 collection-privacy-notice = Abisong Pribasiya
+collection-health-report-telemetry-disabled-link = Matuto ng higit pa
 collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
     .accesskey = r
