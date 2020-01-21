@@ -82,7 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = 부가기능 설치 메시지 패널 열기
 urlbar-tip-help-icon =
     .title = 도움 받기
-urlbar-search-tips-confirm = 네, 알겠습니다
+urlbar-search-tips-confirm = 확인
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

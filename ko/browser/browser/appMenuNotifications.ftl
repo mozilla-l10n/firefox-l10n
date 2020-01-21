@@ -33,7 +33,7 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = 빠른 다시 시작 후 { -brand-shorter-name }가 사생활 보호 모드에 있지 않은 모든 열려있는 탭과 창을 복원합니다.
 appmenu-addon-private-browsing-installed =
-    .buttonlabel = 네, 알겠습니다
+    .buttonlabel = 확인
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> 메뉴에서 <image data-l10n-name='addon-install-icon'></image> 아이콘을 눌러서 부가 기능을 관리하세요.
 appmenu-addon-post-install-incognito-checkbox =
@@ -43,7 +43,7 @@ appmenu-addon-private-browsing =
     .label = 사생활 보호 창 관련 확장기능 변경 사항
     .buttonlabel = 확장기능 관리
     .buttonaccesskey = M
-    .secondarybuttonlabel = 네, 알겠습니다
+    .secondarybuttonlabel = 확인
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = { -brand-shorter-name }에 추가되는 모든 새 확장 기능은 사용자가 설정에서 허용하지 않는 한 사생활 보호 모드에서 작동하지 않습니다.
 appmenu-addon-private-browsing-learn-more = 확장 기능 설정 관리 방법에 대해 알아봅니다.
