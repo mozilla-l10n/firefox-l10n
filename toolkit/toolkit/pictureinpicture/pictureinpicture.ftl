@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = Chwarae
 pictureinpicture-mute =
     .aria-label = Tewi
+pictureinpicture-unmute =
+    .aria-label = Dad dewi
