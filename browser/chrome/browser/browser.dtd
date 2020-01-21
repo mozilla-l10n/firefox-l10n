@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Účet">
 <!ENTITY fxa.menu.settings.label "Nastavenia">
 <!ENTITY fxa.menu.accountSettings.label "Nastavenia účtu">
+<!ENTITY fxa.menu.manageAccount2.label "Spravovať účet">
 <!ENTITY fxa.menu.signOut.label "Odhlásiť sa…">
 <!ENTITY fxa.menu.deviceSettings.label "Nastavenia zariadenia">
 <!ENTITY fxa.menu.setupSync.label "Nastaviť službu &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY stopCmd.label                "Zastaviť">
 <!ENTITY stopCmd.accesskey            "s">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Prejsť na adresu zadanú v paneli s adresou">
 <!ENTITY printButton.label            "Tlačiť">
@@ -275,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Spravovať používanie softvéru DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvoriť MIDI panel">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Tejto stránke ste udelili dodatočné povolenia.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tejto stránke ste zakázali prístup k vašej kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tejto stránke ste zakázali prístup v vášmu mikrofónu.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tejto stránke ste zakázali zdieľanie vašej obrazovky.">
@@ -289,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tejto stránke ste zablokovali možnosť používať zásuvný modul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tejto stránke ste zakázali prístup k MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tejto stránke ste zakázali inštaláciu doplnkov.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Tejto stránke ste udelili dodatočné povolenia.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "N">
 
 <!ENTITY openLinkCmdInTab.label       "Otvoriť odkaz na novej karte">
+
 <!ENTITY openLinkCmdInTab.accesskey   "O">
 <!ENTITY openLinkCmd.label            "Otvoriť odkaz v novom okne">
 <!ENTITY openLinkCmd.accesskey        "t">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "z">
 <!ENTITY showOnlyThisFrameCmd.label     "Zobraziť len tento rámec">
 <!ENTITY showOnlyThisFrameCmd.accesskey "l">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Obnoviť rámec">
 <!ENTITY reloadFrameCmd.accesskey     "b">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Uložiť stránku ako…">
 <!ENTITY savePageCmd.accesskey        "r">
 <!ENTITY savePageCmd.accesskey2       "U">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Uložiť rámec ako…">
 <!ENTITY saveFrameCmd.accesskey       "m">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "m">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Zmeniť smer textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "m">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Hľadať na tejto stránke…">
