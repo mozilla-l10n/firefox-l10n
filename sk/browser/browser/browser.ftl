@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Otvorí panel správ inštalácie doplnkov
 urlbar-tip-help-icon =
     .title = Získať pomoc
+urlbar-search-tips-confirm = Ok, rozumiem
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
