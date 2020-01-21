@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Wobraz-we-wobrazu
+pictureinpicture-pause =
+    .aria-label = Pawza
+pictureinpicture-play =
+    .aria-label = Wótgraś
+pictureinpicture-mute =
+    .aria-label = Bźez zuka
+pictureinpicture-unmute =
+    .aria-label = Ze zukom
