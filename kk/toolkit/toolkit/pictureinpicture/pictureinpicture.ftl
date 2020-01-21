@@ -7,5 +7,7 @@ pictureinpicture-pause =
     .aria-label = Аялдату
 pictureinpicture-play =
     .aria-label = Ойнау
+pictureinpicture-mute =
+    .aria-label = Дыбысын сөндіру
 pictureinpicture-unmute =
     .aria-label = Даусын қосу
