@@ -135,14 +135,25 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } іске қо�
 
 cfr-doorhanger-send-tab-header = Мұны жолда оқыңыз
 cfr-doorhanger-send-tab-recipe-header = Бұл рецептті ас үйге апарыңыз
+cfr-doorhanger-send-tab-ok-button = Бетті жіберуді қолданып көріңіз
+    .accesskey = т
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Бұл PDF файлымен қауіпсіз түрде бөлісіңіз
+cfr-doorhanger-firefox-send-body = Құпия құжаттарыңызбен бөтен көзден тыс, толық шифрлеумен және дайын болғаннан кейін өшірілетін сілтеме арқылы бөлісіңіз.
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } қолданып көріңіз
+    .accesskey = п
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Қорғанысты қарау
+    .accesskey = р
 cfr-doorhanger-socialtracking-close-button = Жабу
     .accesskey = Ж
+cfr-doorhanger-socialtracking-dont-show-again = Енді осындай хабарламаларды көрсетпеу
+    .accesskey = д
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } әлеуметтік желіні сізді осында бақылаудан блоктады
 
 ## Enhanced Tracking Protection Milestones
 

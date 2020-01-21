@@ -188,6 +188,7 @@ language-name-tlh = Клингон
 language-name-tn = Тунис
 language-name-to = Тонга
 language-name-tr = Түрік
+language-name-trs = Трике
 language-name-ts = Тсонга
 language-name-tt = Татар
 language-name-tw = Тайвань
