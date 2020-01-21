@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = תמונה בתוך תמונה
+pictureinpicture-play =
+    .aria-label = ניגון
