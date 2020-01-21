@@ -6,3 +6,7 @@ pictureinpicture-pause =
     .aria-label = અટકાવો
 pictureinpicture-play =
     .aria-label = વગાડો
+pictureinpicture-mute =
+    .aria-label = અવાજ બંધ કરો
+pictureinpicture-unmute =
+    .aria-label = અવાજ ચાલુ કરો
