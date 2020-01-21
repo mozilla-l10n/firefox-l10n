@@ -7,5 +7,7 @@ pictureinpicture-pause =
     .aria-label = Pausar
 pictureinpicture-play =
     .aria-label = Reproducir
+pictureinpicture-mute =
+    .aria-label = Silenciar
 pictureinpicture-unmute =
     .aria-label = Escuchar
