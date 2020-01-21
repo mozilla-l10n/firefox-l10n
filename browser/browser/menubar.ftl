@@ -98,8 +98,8 @@ menu-view-toolbars-menu =
     .label = Barras d'aisinas
     .accesskey = s
 menu-view-customize-toolbar =
-    .label = Panèl lateral
-    .accesskey = e
+    .label = Personalizar…
+    .accesskey = P
 menu-view-sidebar =
     .label = Panèl lateral
     .accesskey = e
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Ecran complet
     .accesskey = p
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Afichar totes los onglets

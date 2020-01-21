@@ -372,8 +372,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.label "Panèl lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
 
-<!ENTITY viewCustomizeToolbar.label       "Panèl lateral">
-<!ENTITY viewCustomizeToolbar.accesskey     "e">
+<!ENTITY viewCustomizeToolbar.label       "Personalizar…">
+<!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar la barra d'aisinas…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
@@ -452,6 +452,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Senhalar l’extension">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
