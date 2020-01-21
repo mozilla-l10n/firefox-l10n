@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = Afspelen
 pictureinpicture-mute =
     .aria-label = Dempen
+pictureinpicture-unmute =
+    .aria-label = Dempen opheffen
