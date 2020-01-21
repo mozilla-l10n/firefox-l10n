@@ -94,7 +94,7 @@ detail-update-manual =
     .tooltiptext = Nemoj automatski instalirati dopune
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Pokreni u privatnim prozorima
-detail-private-browsing-description2 = Kada je omogućeno, dodatak će imati pristup vašoj aktivnosti dok ste u privatnom pretraživanju. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+detail-private-browsing-description2 = Kad je dopušteno, dodatak će imati pristup tvojim aktivnostima dok si u privatnom pretraživanju. <label data-l10n-name="detail-private-browsing-learn-more">Saznaj više</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Nije dopušteno u privatnim prozorima
@@ -418,7 +418,7 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = Dopušteno u privatnim prozorima
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Kada je dopušteno, dodatak će imati pristup vašoj aktivnosti na mreži dok ste u načinu privatnog pretraživanja. <a data-l10n-name="learn-more">Saznajte više</a>
+addon-detail-private-browsing-help = Kad je dopušteno, dodatak će imati pristup tvojim aktivnostima dok si u privatnom pretraživanju. <a data-l10n-name="learn-more">Saznaj više</a>
 addon-detail-private-browsing-allow = Dozvoli
 addon-detail-private-browsing-disallow = Nemoj dozvoliti
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
