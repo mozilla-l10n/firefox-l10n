@@ -16,8 +16,8 @@ abuse-report-subtitle = Što je problem?
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = od <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
-    Niste sigurni koji problem trebate odabrati?
-    <a data-l10n-name="learnmore-link">Saznajte više o prijavljivanju problema s dodacima i motivima</a>
+    Ne znaš koji problem odabrati?
+    <a data-l10n-name="learnmore-link">Saznaj više o prijavljivanju problema s dodacima i motivima</a>
 abuse-report-submit-description = Opišite problem (opcionalno)
 abuse-report-textarea =
     .placeholder = Lakše nam je ispraviti pogrešku ukoliko znamo detalje problema. Molimo vas da opištete događaj. Hvala vam što nam pomažete održati web zdravim.

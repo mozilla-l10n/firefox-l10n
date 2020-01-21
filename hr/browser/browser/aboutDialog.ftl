@@ -20,7 +20,7 @@ update-adminDisabled = Dopune je onemogućio tvoj administrator sustava
 update-noUpdatesFound = { -brand-short-name } je ažuriran
 update-otherInstanceHandlingUpdates = { -brand-short-name } se nadograđuje od strane druge instance
 update-manual = Dopune su dostupne na <label data-l10n-name="manual-link"/>
-update-unsupported = Na ovom sustavu više ne možete izvršavati dodatne nadogradnje. <label data-l10n-name="unsupported-link">Saznajte više</label>
+update-unsupported = Na ovom sustavu više ne možeš nadograđivati. <label data-l10n-name="unsupported-link">Saznaj više</label>
 update-restarting = Ponovno pokretanje…
 channel-description = Trenutno ste na <label data-l10n-name="current-channel"></label> kanalu dopuna.
 warningDesc-version = { -brand-short-name } je eksperimentalna inačica i može biti nestabilna.

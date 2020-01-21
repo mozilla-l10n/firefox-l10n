@@ -98,11 +98,11 @@ detail-private-browsing-description2 = Kad je dopušteno, dodatak će imati pris
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Nije dopušteno u privatnim prozorima
-detail-private-disallowed-description = Ovaj dodatak se ne pokreće dok privatno pretražujete. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+detail-private-disallowed-description = Ovaj dodatak se ne pokreće dok si u privatnom pretraživanju. <label data-l10n-name="detail-private-browsing-learn-more">Saznaj više</label>
 detail-private-disallowed-description2 = Ovaj dodatak se ne pokreće tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Zahtjeva pristup u privatnim prozorima
-detail-private-required-description = Ovaj dodatak ima pristup vašoj aktivnosti dok privatno pretražujete. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+detail-private-required-description = Ovaj dodatak ima pristup tvojoj aktivnosti dok si u privatnom pretraživanju. <label data-l10n-name="detail-private-browsing-learn-more">Saznaj više</label>
 detail-private-required-description2 = Ovo proširenje ima pristup vašim internetskim aktivnostima tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
 detail-private-browsing-on =
     .label = Dozvoli
@@ -147,12 +147,12 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Navedeni dodaci nisu mogli biti verificirani za korištenje u { -brand-short-name }u. Možete <label data-l10n-name="find-addons">pronaći zamjenske dodatke</label> ili kontaktirati autora dodataka da zatraži njihovu verifikaciju.
 disabled-unsigned-learn-more = Saznaj više o našim naporima da te zaštitimo na Internetu.
 disabled-unsigned-devinfo = Razvijatelji koji su zainteresirani za verifikaciju svojih dodataka mogu nastaviti čitati naš <label data-l10n-name="learn-more">vodič</label>.
-plugin-deprecation-description = Ne možete pronaći priključak koji tražite? Neke priključke { -brand-short-name } više ne podržava. <label data-l10n-name="learn-more">Saznajte više.</label>
+plugin-deprecation-description = Ne možeš pronaći priključak koji tražiš? Neke priključke { -brand-short-name } više ne podržava. <label data-l10n-name="learn-more">Saznaj više.</label>
 legacy-warning-show-legacy = Prikaži zastarjele dodatke
 legacy-extensions =
     .value = Zastarjeli dodaci
-legacy-extensions-description = Ovi dodaci ne zadovoljavaju trenutne { -brand-short-name } standarde te se isključeni. <label data-l10n-name="legacy-learn-more">Saznajte o promjenama u dodacima</label>
-private-browsing-description2 = { -brand-short-name } mijenja način na koji dodaci rade u privatnom pretraživanju. Svaki novi dodatak koji dodate u { -brand-short-name } neće automatski raditi u privatnom pretraživanju. Ukoliko ne dozvolite u postavkama, dodatak neće raditi dok koristite privatno pretraživanje i neće imati pristup vašim aktivnostima. Napravili smo ovu izmjenu kako bismo zadržali vaše pretraživanje privatnim. <label data-l10n-name="private-browsing-learn-more">Saznajte kako upravljati postavkama dodataka</label>
+legacy-extensions-description = Ovi dodaci ne zadovoljavaju trenutačne { -brand-short-name } standarde te se isključeni. <label data-l10n-name="legacy-learn-more">Saznaj o promjenama u dodacima</label>
+private-browsing-description2 = { -brand-short-name } mijenja način na koji dodaci rade u privatnom pretraživanju. Svaki novi dodatak koji dodaš u { -brand-short-name } neće automatski raditi u privatnom pretraživanju. Ukoliko ne dozvoliš u postavkama, dodatak neće raditi dok koristiš privatno pretraživanje i neće imati pristup tvojim aktivnostima. Napravili smo ovu izmjenu kako bismo zadržali tvoje pretraživanje privatnim. <label data-l10n-name="private-browsing-learn-more">Saznaj kako upravljati postavkama dodataka</label>
 extensions-view-discopane =
     .name = Preporuke
     .tooltiptext = { extensions-view-discopane.name }
