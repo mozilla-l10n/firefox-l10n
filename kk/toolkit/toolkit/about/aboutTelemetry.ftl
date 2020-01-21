@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Пинг деректерінің көзі:
 about-telemetry-show-current-ping-data = Ағымдағы пинг деректері
+about-telemetry-show-current-data = Ағымдағы деректер
 about-telemetry-show-archived-ping-data = Архивтелген пинг деректері
 about-telemetry-show-subsession-data = Ішкі сессия деректерін көрсету
 about-telemetry-choose-ping = Пингті таңдау:
@@ -75,6 +76,7 @@ about-telemetry-settings-explanation = Телеметрия { about-telemetry-da
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Ақпараттың әр бөлігі "<a data-l10n-name="ping-link">пингтер</a>" ішіне салынып жіберіледі. Сіз { $name }, { $timestamp } пингіне қарап отырсыз.
 about-telemetry-ping-details-current = Ақпараттың әр бөлігі "<a data-l10n-name="ping-link">пингтер</a>" ішіне салынып жіберіледі. Сіз ағымдағы пингіне қарап отырсыз.
+about-telemetry-data-details-current = Ақпараттың әр бөлігі "<a data-l10n-name="ping-link">пингтер</a>" ішіне салынып жіберіледі. Сіз ағымдағы деректерге қарап отырсыз.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -101,6 +103,8 @@ about-telemetry-no-search-results-all = Кешіріңіз! Бірде-бір с
 about-telemetry-no-data-to-display = Кешіріңіз! Ағымдағы уақытта "{ $sectionName }" ішінде деректер жоқ
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ағымдағы пинг
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = ағымдағы деректер
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = барлығы
 # button label to copy the histogram

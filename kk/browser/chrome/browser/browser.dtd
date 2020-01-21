@@ -127,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Тіркелгіні растау">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Бүктеу">
 <!ENTITY fullScreenRestore.tooltip "Қалпына келтіру">
@@ -149,13 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Синхрондауды бастамас бұрын тіркелгіңізді растау керек.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; баптауларын ашу…">
 
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Кім ретінде кірген:">
 <!ENTITY fxa.menu.manageAccount.label "Тіркелгіні басқару…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; баптаулары…">
+
+<!ENTITY pictureInPictureHideToggle.label "Суреттегі сурет қосқышын жасыру">
+<!ENTITY pictureInPictureHideToggle.accesskey "ы">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -167,12 +170,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "&brandProductName; ішіне кіру">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; іске қосу">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; қызметтері">
-
 <!ENTITY fxa.menu.account.label "Тіркелгі">
 <!ENTITY fxa.menu.settings.label "Баптаулар">
 <!ENTITY fxa.menu.accountSettings.label "Тіркелгі баптаулары">
+<!ENTITY fxa.menu.manageAccount2.label "Тіркелгіні басқару">
 <!ENTITY fxa.menu.signOut.label "Шығу…">
 <!ENTITY fxa.menu.deviceSettings.label "Құрылғы баптаулары">
+<!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; баптау…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -239,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "й">
 <!ENTITY stopCmd.label                "Тоқтату">
 <!ENTITY stopCmd.accesskey            "т">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Енгізілген адреске өту">
 <!ENTITY printButton.label            "Баспаға шығару">
@@ -271,7 +276,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM БҚ қолдануын басқару">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI панелін ашу">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Камераңызды қолдануды бұл веб-сайтқа бұғаттадыңыз.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Сіз микрофоныңызды қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Сіз экраныңызбен бөлісуді бұл вебсайтқа блоктадыңыз.">
@@ -284,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Сіз бұл вебсайтқа Adobe Flash қолдануды блоктадыңыз.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.installBlocked.tooltip           "Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.">
+
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
@@ -559,11 +564,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Көмегімен іздеу:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -576,6 +576,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "г">
 
 <!ENTITY openLinkCmdInTab.label       "Сілтемені жаңа бетте ашу">
+
 <!ENTITY openLinkCmdInTab.accesskey   "б">
 <!ENTITY openLinkCmd.label            "Сілтемені жаңа терезеде ашу">
 <!ENTITY openLinkCmd.accesskey        "т">
@@ -591,6 +592,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "к">
 <!ENTITY showOnlyThisFrameCmd.label     "Тек осы фреймді көрсету">
 <!ENTITY showOnlyThisFrameCmd.accesskey "о">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Фреймді жаңарту">
 <!ENTITY reloadFrameCmd.accesskey     "ж">
@@ -641,6 +643,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Парақты қалайша сақтау…">
 <!ENTITY savePageCmd.accesskey        "а">
 <!ENTITY savePageCmd.accesskey2       "т">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Фреймді қалайша сақтау…">
 <!ENTITY saveFrameCmd.accesskey       "е">
@@ -807,6 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "а">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Парақтағы мәтін бағытын ауыстыру">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "у">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Осы парақтан іздеу…">
@@ -837,13 +841,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
 
+<!ENTITY identity.connectionNotSecure2 "Байланыс қауіпсіз емес">
+<!ENTITY identity.connectionNotSecureSecurityView "Бұл сайтқа қауіпсіз түрде байланысқан емессіз.">
 <!ENTITY identity.connectionFile "Бұл парақ сіздің компьютеріңізде сақталған.">
 <!ENTITY identity.connectionVerified2 "Бұл сайтқа қауіпсіз түрде байланысты орнаттыңыз, сайт иесі:">
+<!ENTITY identity.connectionVerified3 "Бұл сайтқа қауіпсіз түрде байланысқансыз.">
 <!ENTITY identity.connectionInternal "Бұл - қауіпсіз &brandShortName; беті.">
 <!ENTITY identity.extensionPage "Бұл парақ кеңейтуден жүктелген.">
 <!ENTITY identity.insecureLoginForms2 "Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.">
 <!ENTITY identity.customRoot "Байланысты растайтын сертификат шығарушысы Mozilla-ға бейтаныс.">
 
+<!ENTITY identity.evOwnerLabel2 "Сертификат кімге шығарылған:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
@@ -886,9 +894,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Құраманы бұғаттау баптауларын ашу">
 
 
+<!ENTITY protections.etpON.header "Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылған">
+<!ENTITY protections.etpOFF.header "Бақылаудан кеңейтілген қорғаныс бұл сайт үшін іске қосылмаған">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Бақылаудан кеңейтілген қорғаныс туралы көбірек ақпарат">
 <!ENTITY protections.settings.label "Қорғаныс баптаулары">
+<!ENTITY protections.showreport.label "Есептемені көрсету">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -917,9 +929,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Неге?">
-<!ENTITY protections.socialMediaTrackers.label "Әлеуметтік желілер трекерлері">
-<!ENTITY protections.fingerprinters.label "Баспаны жинаушылар">
-<!ENTITY protections.cryptominers.label "Криптомайнерлер">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -935,7 +944,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ішіне кіру…">
 <!ENTITY syncSignIn.accesskey         "у">
-
 <!ENTITY syncSyncNowItem.label        "Қазір синхрондау">
 <!ENTITY syncSyncNowItemSyncing.label "Синхрондау…">
 <!ENTITY syncSyncNowItem.accesskey    "с">
@@ -970,7 +978,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY contentBlocking.socialblock.label "Әлеуметтік желілер трекерлері">
-
 
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнерлер">
 <!ENTITY contentBlocking.cryptominersView.label "Криптомайнерлер">
