@@ -8,9 +8,6 @@
 <!ENTITY loadError.label "صفحہ لوڈ کرنے میں مسلہ">
 <!ENTITY retry.label "دوبارہ کوشش کریں">
 <!ENTITY returnToPreviousPage.label "واپس جائیں">
-<!ENTITY advanced.label "اعلٰی">
-<!ENTITY continue2.label "مزید…">
-<!ENTITY moreInformation.label "مزید معلومات">
 
 <!-- Specific error messages -->
 
@@ -73,17 +70,15 @@
 <!ENTITY redirectLoop.title "صفحہ ٹھیک طرح سمت نہیں دل رہا">
 <!ENTITY redirectLoop.longDesc "<ul> <li>یہ مسلہ کبھی کبھی کوکیاں نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔</li> </ul>">
 
-<!ENTITY unknownSocketType.title "پیش کار کے غیر توقع رسپانس">
+<!ENTITY unknownSocketType.title "سرور کی طرف سے غیر متوقع جواب">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>چیک کریں کہ آپ کے سسٹم پر پرسنل سکیورٹی مینیجر  تنصیب ہے۔</li> <li>یہ پیش کار پر غیر سٹینڈرڈ تشکیل کی وجہ سے ہو سکتا ہے۔</li> </ul>">
 
 <!ENTITY nssFailure2.title "قابل بھروسا کنکشن ناکام ہو گیا ہے">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>جو صفحہ آپ دیکھنا چاہ رہے ہیں، دکھایا نہیں جا سکتا کیونکہ موصول قوائف کی اصلیت کی تصدیق نہیں ہو سکی۔</li> <li>ویب سائٹ کے مالک کو اس مسلے کا بتانے کے لیے ان سے رابطہ کریں۔</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "آپکا کنکشن محفوظ نہیں ہے">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/> کے مالک نے انکی ویب سائٹ نامناسب طرحہ سے تشکیل کی ہیں۔ آپکی معلومات کو چوری ہونے سے حفاظت کے لئے، &brandShortName; اس ویب سائٹ سے نہیں جڑا ہے۔">
 
 
 
@@ -95,11 +90,10 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
 <!ENTITY cspBlocked.longDesc "<p> نے اس صفحے کو اس طریقے سے لوڈ نہیں ہونے دیا کیونکہ اس صفحے کی مواد سکیورٹی پالیسی ہے جو اس کی اجازت نہیں دیتی۔ &brandShortName;</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "خراب مواد نقص">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>جو صفح آپ دیکھنے کی کوشش کر رہے ہیں وہ دکھایا نہیں جا سکتا کیونکہ قوائف کی منتقلی میں نقص پکڑا گیا۔</p><ul><li>اس مسلے کا بتانے کے لیے ویب سائٹ کے مالکین سے رابطہ کیجیے۔</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "اکسیپشن اضافہ کریں">
 <!ENTITY securityOverride.exceptionButton1Label "خطرے کو قبول کریں اور جاری رکھیں">
 
 <!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
@@ -113,14 +107,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> سے نہیں جڑ سکا کیوں کے ایسا ظاہر ہوتا ہے کہ آپکے کمپیوٹر کی گھڑی عٰلط وقت دکھا رہی ہے اور یہ ایک قابل بھروسا کنکشن کو روک ر ہا ہے۔</p> <p> آپکا کمپیوٹر <span id='wrongSystemTime_systemDate'/>، پر سیٹ ہے جبکے اسے <span id='wrongSystemTime_actualDate'/> پر ہونا چاہیے۔ اس مسلہ کو حل کرنے کے لیئے اپنی تاریخ اور وقت کی سیٹکگیں تبدیل کریں تاکہ درست وقت کہ مشابہ ہو سکے۔ </p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; سے <span id='wrongSystemTimeWithoutReference_URL'/> نہیں جڑ سکا کیوں کے ایسا ظاہر ہوتا ہے کہ آپکے کمپیوٹر کی گھڑی عٰلط وقت دکھا رہی ہے اور یہ ایک قابل بھروسا کنکشن کو روک ر ہا ہے۔</p> <p> آپکا کمپیوٹر<span id='wrongSystemTimeWithoutReference_systemDate'/>، پر سیٹ ہے۔ اس مسلہ کو حل کرنے کے لیئے اپنی تاریخ اور وقت کی سیٹکگیں تبدیل کریں تاکہ درست وقت کہ مشابہ ہو سکے۔ </p>">
-
-<!ENTITY certerror.pagetitle1  "غیر مھفوظ کنکشن">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP سخت ٹرانسپورٹ سیکورٹی (HSTS) کہ &brandShortName; کی وضاحت کرنے کی استعمال کرتا ہے؛ صرف محفوظ طریقے سے اس سے رابطہ قائم کر سکتا ہے۔ نتیجے کے طور پر، اسے اس کی سند کے لئے ایک رعایت شامل کرنے کے لئے ممکن نہیں ہے۔">
 <!ENTITY certerror.copyToClipboard.label "متن کو تختہ تراشہ پر نقل کریں">
 
 <!ENTITY inadequateSecurityError.title "آپکا کنکشن ناقابل بھروسا ہے">
@@ -134,4 +120,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی ترتیبات ہو سکتی ہے۔ کیا آپ طےشدہ ترتیبات بحال کرناچاہتے ہیں؟">
 <!ENTITY prefReset.label "طے شدہ ترتیبات بحال کریں">
+
 
