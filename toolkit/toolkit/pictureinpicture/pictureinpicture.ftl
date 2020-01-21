@@ -5,6 +5,8 @@
 pictureinpicture-player-title = Görüntü içinde görüntü
 pictureinpicture-pause =
     .aria-label = Duraklat
+pictureinpicture-play =
+    .aria-label = Oynat
 pictureinpicture-mute =
     .aria-label = Sesi kapat
 pictureinpicture-unmute =
