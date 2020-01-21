@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
+pictureinpicture-play =
+    .aria-label = ਚਲਾਓ
+pictureinpicture-mute =
+    .aria-label = ਚੁੱਪ
+pictureinpicture-unmute =
+    .aria-label = ਸੁਣਾਓ
