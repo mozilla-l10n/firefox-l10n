@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Picture-in-picture
+pictureinpicture-pause =
+    .aria-label = Mombyta
+pictureinpicture-play =
+    .aria-label = Mboheta
+pictureinpicture-mute =
+    .aria-label = Mokirirĩ
+pictureinpicture-unmute =
+    .aria-label = Mba'epu mbojevy
