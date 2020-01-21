@@ -4,5 +4,9 @@
 
 pictureinpicture-pause =
     .aria-label = Pösa
+pictureinpicture-play =
+    .aria-label = Riproduçion
+pictureinpicture-mute =
+    .aria-label = Mutto
 pictureinpicture-unmute =
     .aria-label = Fanni sentî
