@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Slika u slici
+pictureinpicture-pause =
+    .aria-label = Pauziraj
+pictureinpicture-play =
+    .aria-label = Pokreni
+pictureinpicture-mute =
+    .aria-label = Utišaj
+pictureinpicture-unmute =
+    .aria-label = Odtišaj
