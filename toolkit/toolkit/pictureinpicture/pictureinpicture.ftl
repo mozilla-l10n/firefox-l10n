@@ -4,6 +4,8 @@
 
 pictureinpicture-pause =
     .aria-label = இடைநிறுத்து
+pictureinpicture-play =
+    .aria-label = இயக்கு
 pictureinpicture-mute =
     .aria-label = ஒலி நீக்கு
 pictureinpicture-unmute =
