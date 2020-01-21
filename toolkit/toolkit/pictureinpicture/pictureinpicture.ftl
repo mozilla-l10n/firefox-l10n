@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Maletg-en-maletg
+pictureinpicture-pause =
+    .aria-label = Pausa
+pictureinpicture-play =
+    .aria-label = Far ir
+pictureinpicture-mute =
+    .aria-label = Senza tun
+pictureinpicture-unmute =
+    .aria-label = Cun tun
