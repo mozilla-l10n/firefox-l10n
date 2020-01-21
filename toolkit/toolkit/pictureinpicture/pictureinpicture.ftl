@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Bildo en bildo
+pictureinpicture-pause =
+    .aria-label = Paŭzigi
+pictureinpicture-play =
+    .aria-label = Ludi
+pictureinpicture-mute =
+    .aria-label = Silentigi
+pictureinpicture-unmute =
+    .aria-label = Malsilentigi
