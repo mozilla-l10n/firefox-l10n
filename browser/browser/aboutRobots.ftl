@@ -15,7 +15,7 @@ error-title-text = Dobrodošli ljudi!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Došli smo te posjetiti u miru i dobroj volji!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Roboti ne smiju ozlijediti ljudsko biće ili, kroz nedjelovanje, dozvoliti nanošenje zla ljudskom biću.
+error-long-desc1 = Roboti ne smiju ozlijediti ljudsko biće ili kroz nedjelovanje, dozvoliti nanošenje zla ljudskom biću.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Roboti su vidjeli stvari kojima vi ljudi ne biste vjerovali.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
