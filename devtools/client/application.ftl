@@ -69,3 +69,5 @@ serviceworker-empty-suggestions-debugger = Service Worker тіркеуінен �
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Басқа домендерден Service Worker-ді бақылау. <a>about:debugging ашу</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Қателер мен ескертулер
