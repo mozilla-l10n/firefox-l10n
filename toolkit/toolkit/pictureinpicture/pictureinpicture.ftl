@@ -8,3 +8,5 @@ pictureinpicture-play =
     .aria-label = Միացնել
 pictureinpicture-mute =
     .aria-label = Սսկել
+pictureinpicture-unmute =
+    .aria-label = Միացնել ձայնը
