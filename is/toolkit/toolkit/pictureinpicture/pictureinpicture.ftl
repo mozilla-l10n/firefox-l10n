@@ -6,3 +6,7 @@ pictureinpicture-pause =
     .aria-label = Í bið
 pictureinpicture-play =
     .aria-label = Spila
+pictureinpicture-mute =
+    .aria-label = Hljóðlaus
+pictureinpicture-unmute =
+    .aria-label = Kveikja á hljóði
