@@ -7,5 +7,7 @@ pictureinpicture-pause =
     .aria-label = Pausa
 pictureinpicture-play =
     .aria-label = Executar
+pictureinpicture-mute =
+    .aria-label = Silenciar
 pictureinpicture-unmute =
     .aria-label = Ativar som
