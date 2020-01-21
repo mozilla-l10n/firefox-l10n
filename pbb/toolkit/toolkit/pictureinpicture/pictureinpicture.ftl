@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-pause =
-    .aria-label = Tudte kyujun{ " " }
+    .aria-label = Tudte kyujun
 pictureinpicture-play =
     .aria-label = Nuykũjaana
 pictureinpicture-mute =
