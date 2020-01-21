@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = Lecture
 pictureinpicture-mute =
     .aria-label = Muet
+pictureinpicture-unmute =
+    .aria-label = Audible
