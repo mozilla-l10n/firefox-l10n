@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Суреттегі сурет
+pictureinpicture-pause =
+    .aria-label = Аялдату
+pictureinpicture-play =
+    .aria-label = Ойнау
+pictureinpicture-unmute =
+    .aria-label = Даусын қосу
