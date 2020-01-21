@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = Reproduzir
 pictureinpicture-mute =
     .aria-label = Silenciar
+pictureinpicture-unmute =
+    .aria-label = Repor som
