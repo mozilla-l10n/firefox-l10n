@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Stinziuni suggiruta
 cfr-doorhanger-feature-heading = Funziunalità suggiruta
 cfr-doorhanger-pintab-heading = Prova chistu: Appuntiḍḍa scheda
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Picchì viju chistu
@@ -158,14 +158,14 @@ cfr-doorhanger-sync-logins-ok-button = Attiva { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Lèggilu unni ti trovi trovi
 cfr-doorhanger-send-tab-recipe-header = Pòrtati sta ricetta 'n cucina
-cfr-doorhanger-send-tab-body = “Manna scheda” ti pirmetti di spàrtiri fàcili stu lijami cû to tilèfunu o unn'è-è ca trasisti cû to cuntu { -brand-product-name }.
+cfr-doorhanger-send-tab-body = “Manna scheda” ti pirmetti di spàrtiri fàcili sta lijami cû to tilèfunu o unn'è-è ca trasisti cû to cuntu { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Prova “Manna scheda”
     .accesskey = P
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Sparti stu PDF 'n manera sicura
-cfr-doorhanger-firefox-send-body = Teni i to ducumenti risirbati ô sicuru câ crittugrafìa capu-a-capu e un lijami chi scumparisci quannu finisti.
+cfr-doorhanger-firefox-send-body = Teni i to ducumenti risirbati ô sicuru câ crittugrafìa capu-a-capu e na lijami chi scumparisci quannu finisti.
 cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
     .accesskey = P
 

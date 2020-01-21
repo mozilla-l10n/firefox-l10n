@@ -89,7 +89,7 @@ newtab-privacy-modal-header = A to privatizza è mpurtanti.
 newtab-privacy-modal-paragraph = Sparti sirbìriti cunta ntirissanti, ti mustramu macari cuntinuti, curati e pirtinenti, d'un gruppu di spunzura silizziunati. Stai sicuru chi nun veni spartutu nuḍḍu datu ncapu â to navigazziuni dâ to copia pirsunali di { -brand-product-name }. Nun avemu accessu a sti nfurmazziuna, e mancu i nostri spunzura.
 newtab-privacy-modal-link = Nzìgnati comu funziona a privatizza nnâ scheda nova.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Cancella nzingalibbru
@@ -99,7 +99,7 @@ newtab-menu-bookmark = Agghiunci ê nzingalibbri
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = Copia u lijami di scarricamentu
+newtab-menu-copy-download-link = Copia a lijami di scarricamentu
 newtab-menu-go-to-download-page = Vai â pàggina di scarricamentu
 newtab-menu-remove-download = Cancella dâ cronuluggìa
 

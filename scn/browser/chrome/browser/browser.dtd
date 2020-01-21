@@ -37,7 +37,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "S">
 <!ENTITY  sendPageToDevice.label             "Manna a pàggina ô dispusitivu">
 <!ENTITY  sendPageToDevice.accesskey         "n">
-<!ENTITY  sendLinkToDevice.label             "Manna u lijami ô dispusitivu">
+<!ENTITY  sendLinkToDevice.label             "Manna a lijami ô dispusitivu">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  undoCloseTab.label                 "Sfai Chiuji scheda">
 <!ENTITY  undoCloseTab.accesskey             "S">
@@ -559,20 +559,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.accesskey     "n">
 <!ENTITY searchSetAsDefault.label     "Spicìfica comu u muturi di ricerca prifirutu">
 
-<!ENTITY openLinkCmdInTab.label       "Rapi u lijami nta na scheda nova">
+<!ENTITY openLinkCmdInTab.label       "Rapi a lijami nta na scheda nova">
 
 <!ENTITY openLinkCmdInTab.accesskey   "s">
-<!ENTITY openLinkCmd.label            "Rapi u lijami nta na finestra nova">
+<!ENTITY openLinkCmd.label            "Rapi a lijami nta na finestra nova">
 <!ENTITY openLinkCmd.accesskey        "f">
-<!ENTITY openLinkInPrivateWindowCmd.label "Rapi u lijami nta na finestra privata nova">
+<!ENTITY openLinkInPrivateWindowCmd.label "Rapi a lijami nta na finestra privata nova">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "a">
-<!ENTITY openLinkCmdInCurrent.label     "Rapi u lijami">
+<!ENTITY openLinkCmdInCurrent.label     "Rapi a lijami">
 <!ENTITY openLinkCmdInCurrent.accesskey "l">
 <!ENTITY openFrameCmdInTab.label      "Rapi u quatru nta na scheda nova">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Rapi u quatru nta na finestra nova">
 <!ENTITY openFrameCmd.accesskey       "f">
-<!ENTITY openLinkCmdInContainerTab.label "Rapi u lijami nta na scheda di cuntinituri nova">
+<!ENTITY openLinkCmdInContainerTab.label "Rapi a lijami nta na scheda di cuntinituri nova">
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Mustra sulu stu quatru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
@@ -602,16 +602,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.label         "Talìa a mmàggini ô funnu">
 <!ENTITY setDesktopBackgroundCmd.label      "Mposta comu sfunnu dâ scrivanìa…">
 <!ENTITY bookmarkPageCmd2.label       "Agghiunci sta pàggina ê nzingalibbri">
-<!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami ê nzingalibbri">
+<!ENTITY bookmarkThisLinkCmd.label      "Agghiunci sta lijami ê nzingalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
 <!ENTITY bookmarkThisFrameCmd.label      "Agghiunci stu quatru ê nzingalibbri">
-<!ENTITY pageAction.copyLink.label    "Copia u lijami">
+<!ENTITY pageAction.copyLink.label    "Copia a lijami">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Sarba nne Pocket">
 <!ENTITY saveToPocketCmd.label        "Sarba pàggina nne Pocket">
-<!ENTITY saveLinkToPocketCmd.label    "Sarba lijami nne Pocket">
+<!ENTITY saveLinkToPocketCmd.label    "Sarba a lijami nne Pocket">
 <!ENTITY pocketMenuitem.label         "Vidi lista Pocket">
 
 <!ENTITY emailPageCmd.label           "Manna lijami…">
@@ -624,7 +624,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.label           "Sarba u quatru comu…">
 <!ENTITY saveFrameCmd.accesskey       "q">
 <!ENTITY printFrameCmd.label          "Pùbbrica u quatru…">
-<!ENTITY saveLinkCmd.label            "Sarba u lijami comu…">
+<!ENTITY saveLinkCmd.label            "Sarba a lijami comu…">
 <!ENTITY saveLinkCmd.accesskey        "j">
 <!ENTITY saveImageCmd.label           "Sarba a mmàggini comu…">
 <!ENTITY saveImageCmd.accesskey       "r">
@@ -642,7 +642,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "t">
 <!ENTITY hidePluginCmd.label          "Ammuccia st'agghiuncitina">
 <!ENTITY hidePluginCmd.accesskey      "A">
-<!ENTITY copyLinkCmd.label            "Copia u lijami">
+<!ENTITY copyLinkCmd.label            "Copia a lijami">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->

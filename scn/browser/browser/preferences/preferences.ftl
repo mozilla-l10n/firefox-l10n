@@ -154,7 +154,7 @@ warn-on-open-many-tabs =
     .label = Abbìsami quannu ràpiri cchiù schedi po rallintari { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = Quannu rapi un lijami nna na scheda nova, passa sùbbitu a chiḍḍa
+    .label = Quannu rapi na lijami nna na scheda nova, passa sùbbitu a chiḍḍa
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Mustra antiprima dâ scheda nnâ barra di l'appricazziuna di Windows
@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Cuntinutu di gistiuni diritta diggitali (DRM)
 play-drm-content =
@@ -917,7 +917,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pirsunalizzatu
     .accesskey = P
 
-
+##
 
 content-blocking-etp-strict-desc = Prutizziuni cchiù auta, ma certi siti o cuntinuti putìssiru farsijari.
 content-blocking-etp-custom-desc = Scegghi quali trazzatura e prugrammi bluccari.

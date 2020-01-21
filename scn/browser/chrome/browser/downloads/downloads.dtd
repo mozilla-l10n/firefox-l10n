@@ -20,7 +20,7 @@
 <!ENTITY cmd.show.label                   "Rapi a carpetta unni s'attrova">
 <!ENTITY cmd.showDownloads.label          "Mustra a carpetta di scarricamenti">
 <!ENTITY cmd.goToDownloadPage.label       "Vai A A Pàggina di i Scarricamenti">
-<!ENTITY cmd.copyDownloadLink.label       "Copia u lijami di scarricamentu">
+<!ENTITY cmd.copyDownloadLink.label       "Copia a lijami di scarricamentu">
 <!ENTITY cmd.removeFromHistory.label      "Cancella dâ cronuluggìa">
 <!ENTITY cmd.clearList2.label             "Annetta u quatru di visualizzazziuni">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):

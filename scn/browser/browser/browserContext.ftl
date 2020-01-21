@@ -60,28 +60,28 @@ main-context-menu-bookmark-page =
     .aria-label = Agghiunci sta pàggina ê nzingalibbri
     .accesskey = n
 main-context-menu-open-link =
-    .label = Rapi u lijami
+    .label = Rapi a lijami
     .accesskey = l
 main-context-menu-open-link-new-tab =
-    .label = Rapi u lijami nta na scheda nova
+    .label = Rapi a lijami nta na scheda nova
     .accesskey = s
 main-context-menu-open-link-container-tab =
-    .label = Rapi u lijami nta na scheda di cuntinituri nova
+    .label = Rapi a lijami nta na scheda di cuntinituri nova
     .accesskey = c
 main-context-menu-open-link-new-window =
-    .label = Rapi u lijami nta na finestra nova
+    .label = Rapi a lijami nta na finestra nova
     .accesskey = f
 main-context-menu-open-link-new-private-window =
-    .label = Rapi u lijami nta na finestra privata nova
+    .label = Rapi a lijami nta na finestra privata nova
     .accesskey = a
 main-context-menu-bookmark-this-link =
-    .label = Agghiunci stu lijami ê nzingalibbri
+    .label = Agghiunci sta lijami ê nzingalibbri
     .accesskey = z
 main-context-menu-save-link =
-    .label = Sarba u lijami comu…
+    .label = Sarba a lijami comu…
     .accesskey = j
 main-context-menu-save-link-to-pocket =
-    .label = Sarba lijami nne { -pocket-brand-name }
+    .label = Sarba a lijami nne { -pocket-brand-name }
     .accesskey = S
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
@@ -92,7 +92,7 @@ main-context-menu-copy-email =
     .label = Copia u nnirizzu e-mail
     .accesskey = C
 main-context-menu-copy-link =
-    .label = Copia u lijami
+    .label = Copia a lijami
     .accesskey = C
 
 ## Media (video/audio) controls
@@ -108,7 +108,7 @@ main-context-menu-media-pause =
     .label = Pausa
     .accesskey = P
 
-
+##
 
 main-context-menu-media-mute =
     .label = Zitti
@@ -121,7 +121,7 @@ main-context-menu-media-unmute =
 ## because the two context-menu items are mutually exclusive.
 
 
-
+##
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
