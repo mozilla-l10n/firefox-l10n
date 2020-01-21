@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Imagine-in-imagine
+pictureinpicture-pause =
+    .aria-label = Pausar
+pictureinpicture-play =
+    .aria-label = Reproducer
+pictureinpicture-mute =
+    .aria-label = Tacer
+pictureinpicture-unmute =
+    .aria-label = Non plus tacer
