@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Vaizdas vaizde
+pictureinpicture-pause =
+    .aria-label = Pristabdyti
+pictureinpicture-play =
+    .aria-label = Groti
+pictureinpicture-mute =
+    .aria-label = Išjungti garsą
+pictureinpicture-unmute =
+    .aria-label = Įjungti garsą
