@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = ส่วนขยายที่แนะน
 cfr-doorhanger-feature-heading = คุณลักษณะที่แนะนำ
 cfr-doorhanger-pintab-heading = ลองนี่: ปักหมุดแท็บ
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ทำไมฉันจึงเห็นสิ่งนี้
@@ -128,6 +128,15 @@ cfr-whatsnew-permission-prompt-cta = เรียนรู้เพิ่มเ�
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+       *[other] ลายนิ้วมือดิจิทัลถูกปิดกั้น
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = ลายนิ้วมือดิจิทัล
 
 ## Bookmark Sync
 
