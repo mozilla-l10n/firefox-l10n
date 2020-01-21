@@ -11,11 +11,12 @@
      on web development on the web. -->
 
 <!ENTITY newButton.label            "새로 만들기">
-<!ENTITY newButton.tooltip          "새로운 스타일 시트를 만들고 웹 문서에서 가져오기">
+<!ENTITY newButton.tooltip          "새 스타일 시트를 만들어서 문서에 추가">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "가져오기…">
-<!ENTITY importButton.tooltip       "기존의 스타일 시트를 문서에 가져오기">
+
+<!ENTITY importButton.tooltip       "기존의 스타일 시트를 가져와서 문서에 추가">
 <!ENTITY importButton.accesskey     "I">
 
 <!ENTITY visibilityToggle.tooltip   "스타일 시트 적용 내용 보기">
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      "스타일 편집기 설정">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "원본 소스 보기">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "o">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "@media 탐색창 보기">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "m">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
