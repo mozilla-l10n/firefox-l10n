@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Imagine în imagine
+pictureinpicture-pause =
+    .aria-label = Pauză
+pictureinpicture-play =
+    .aria-label = Redare
