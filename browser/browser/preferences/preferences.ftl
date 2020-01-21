@@ -1096,7 +1096,7 @@ space-alert-over-5gb-message =
        *[other] { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인정보와 보안 > 쿠키와 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
     }
 space-alert-under-5gb-ok-button =
-    .label = 알겠습니다
+    .label = 확인
     .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
 
