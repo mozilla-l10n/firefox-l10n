@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Llun mewn Llun
+pictureinpicture-pause =
+    .aria-label = Oedi
 pictureinpicture-play =
     .aria-label = Chwarae
 pictureinpicture-mute =
