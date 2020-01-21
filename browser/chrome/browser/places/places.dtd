@@ -62,23 +62,19 @@
 <!ENTITY cmd.sortby_name.accesskey          "T">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Marcapaginas novèl…">
+<!ENTITY cmd.new_bookmark.label            "Marcapagina novèl…">
 <!ENTITY cmd.new_bookmark.accesskey        "s">
 <!ENTITY cmd.new_folder.label              "Repertòri novèl…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "d">
-<!ENTITY cmd.new_separator.label           "Separator novèl">
+<!ENTITY cmd.new_separator.label           "Separador novèl">
 <!ENTITY cmd.new_separator.accesskey       "S">
-
-<!ENTITY cmd.reloadLivebookmark.label      "Tornar cargar lo marcapagina dinamic">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "T">
 
 <!ENTITY col.name.label          "Nom">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Adreça">
 <!ENTITY col.mostrecentvisit.label "Darrièra visita">
 <!ENTITY col.visitcount.label    "Nombre de visitas">
-<!ENTITY col.description.label   "Descripcion">
 <!ENTITY col.dateadded.label     "Data d'apondon">
 <!ENTITY col.lastmodified.label  "Darrièra modificacion">
 
@@ -95,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Avançar d'una pagina">
 
-<!ENTITY detailsPane.more.label "Mai">
-<!ENTITY detailsPane.more.accesskey "i">
-<!ENTITY detailsPane.less.label "Mens">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Seleccionatz un element per visualizar e modificar sas proprietats">
 
 <!ENTITY view.label               "Visualizar">
