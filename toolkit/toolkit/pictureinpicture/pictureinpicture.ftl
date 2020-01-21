@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Vídeo em janela flutuante
+pictureinpicture-play =
+    .aria-label = Reproduzir
