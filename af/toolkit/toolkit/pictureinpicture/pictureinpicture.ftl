@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Beeld-in-Beeld
+pictureinpicture-pause =
+    .aria-label = Laat wag
+pictureinpicture-play =
+    .aria-label = Speel
+pictureinpicture-mute =
+    .aria-label = Dower
