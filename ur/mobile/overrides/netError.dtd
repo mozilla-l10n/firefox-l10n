@@ -72,7 +72,7 @@
 <!ENTITY redirectLoop.title "پہ صفحہ صجہج طرج سے دوسری سمت نہیں جا رہا">
 <!ENTITY redirectLoop.longDesc "<ul> <li>یہ مسلہ کبھی کبھی کوکیاں نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔</li> </ul>">
 
-<!ENTITY unknownSocketType.title "پیش کار کے غیر توقع رسپانس">
+<!ENTITY unknownSocketType.title "سرور کی طرف سے غیر متوقع جواب">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>چیک کریں کہ آپ کے سسٹم پر پرسنل سکیورٹی مینیجر  تنصیب ہے۔</li> <li>یہ پیش کار پر غیر سٹینڈرڈ تشکیل کی وجہ سے ہو سکتا ہے۔</li> </ul>">
 
 <!ENTITY nssFailure2.title "محفوظ کنکشن ناکام ہوگیا">
