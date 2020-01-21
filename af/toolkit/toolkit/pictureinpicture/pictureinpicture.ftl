@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = Speel
 pictureinpicture-mute =
     .aria-label = Dower
+pictureinpicture-unmute =
+    .aria-label = Ontdoof
