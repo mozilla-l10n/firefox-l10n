@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Bideoa beste bideo batean
+pictureinpicture-pause =
+    .aria-label = Pausatu
+pictureinpicture-play =
+    .aria-label = Erreproduzitu
+pictureinpicture-mute =
+    .aria-label = Mututu
+pictureinpicture-unmute =
+    .aria-label = Ez mututu
