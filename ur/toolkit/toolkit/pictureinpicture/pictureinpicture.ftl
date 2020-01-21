@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = تصویر میں تصویر
+pictureinpicture-pause =
+    .aria-label = توقف کریں
+pictureinpicture-play =
+    .aria-label = پلے
+pictureinpicture-mute =
+    .aria-label = میوٹ
+pictureinpicture-unmute =
+    .aria-label = انمیوٹ
