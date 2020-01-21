@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Kép a képben
+pictureinpicture-pause =
+    .aria-label = Szünet
+pictureinpicture-play =
+    .aria-label = Lejátszás
+pictureinpicture-mute =
+    .aria-label = Némítás
+pictureinpicture-unmute =
+    .aria-label = Hang be
