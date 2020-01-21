@@ -5,6 +5,9 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox ہمہ وار کریں">
+
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
 <!ENTITY syncBrand.shortName.label "ہمہ وار کریں">
 
 <!-- Main titles. -->
@@ -67,7 +70,7 @@
 <!ENTITY fxaccount_status_history 'سابقات'>
 <!ENTITY fxaccount_status_passwords2 'لاگ ان'>
 <!ENTITY fxaccount_status_tabs 'ٹیب کھولیے'>
-<!ENTITY fxaccount_status_additional_settings 'اضافی سیٹنگیں'>
+<!ENTITY fxaccount_status_additional_settings 'اضافی سیٹنگز'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'صرف بعظریہ وائی فائی ہمہ وقت سازی کریں'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->

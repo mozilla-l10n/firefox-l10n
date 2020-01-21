@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "ہر سائٹ دیکھتیں وقت نقوش کو آف کردیں تاکہ کمتر کوائف خرچ ہوں۔">
 <!ENTITY firstrun_sync_title "ہمہ وار کریں">
 <!ENTITY firstrun_sync_message3 "اپنے بک مارک، تاریخ، اور پاس ورڈ کو اپنے فون پر سینک کریں۔">
-<!ENTITY updatednewfirstrun_sync_title "اکائونٹ">
-<!ENTITY firstrun_sync_message2 "اٹھائیں جہاں آپ نے چھوڑ دیا ہے۔">
 <!ENTITY firstrun_sync_subtext2 "اپنی نشانی، پاس ورڈ اور دوسری چیزیے جو آپنے تمام آلات پر &brandShortName; میں محفوز کی ہے اسے تلاش کرنے کے لئے ہم وقت سازی کا استعمال کریں۔">
 <!ENTITY newfirstrun_sync_subtext "اپنے موبائل پر محفوظ کی گئی چیزوں کو ڈیسک ٹاپ کے لئے Firefox پر، نجی اور محفوظ طریقے سے سینک کریں۔">
 <!ENTITY firstrun_sendtab_title "ٹیب بھیجیں">
 <!ENTITY firstrun_sendtab_message "فوری طور پر — موبائل سے ڈیسک ٹاپ پر ٹیبوں کو اشتراک کریں۔">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; کا زیادہ سے زیادہ فائدہ اٹھانے کے لئے اپنے اکاؤنٹ میں سائن ان کریں۔">
 <!ENTITY firstrun_signin_message "جڑیں، شروع کریں">
-<!ENTITY firstrun_signin_button "ہم سازی کے لئے سائن ان کریں">
-<!ENTITY newfirstrun_signin_button "سینک آن کریں">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; میں سائن ان کریں">
-<!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
+<!ENTITY onboard_start_button_browser "براؤزنگ شروع کریں">
 <!ENTITY firstrun_button_notnow "ابھی نہیں">
 <!ENTITY firstrun_button_next "اگلا">
 <!ENTITY firstrun_signup_button "سائن اپ کریں">
-
-<!ENTITY firstrun_signin_button2 "سائن ان کریں">
 
 <!ENTITY firstrun_tabqueue_title "روابط">
 
@@ -166,8 +158,8 @@
      the content description. -->
 <!ENTITY tab_title_prefix_is_playing_audio "آڈیو چل رہا ہے – &formatS;">
 
-<!ENTITY settings "سیٹنگیں">
-<!ENTITY settings_title "سیٹنگیں">
+<!ENTITY settings "سیٹنگز">
+<!ENTITY settings_title "سیٹنگز">
 <!ENTITY pref_category_general "عمومی">
 <!ENTITY pref_category_general_summary3 "گھر، زبان ، ٹیب قطار">
 
@@ -422,7 +414,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_cookies2 "کوکیاں &amp; متحرک لاگ ان">
 <!ENTITY pref_private_data_cache "کیسہ">
 <!ENTITY pref_private_data_offlineApps "کوکیاں &amp; متحرک لاگ ان">
-<!ENTITY pref_private_data_siteSettings2 "سائٹ سیٹکگیں">
+<!ENTITY pref_private_data_siteSettings2 "سائٹ سیٹنگز">
 <!ENTITY pref_private_data_downloadFiles2 "ڈاؤن لوڈ">
 <!ENTITY pref_private_data_syncedTabs "ہمہ وقت ساز ٹیب">
 
@@ -505,7 +497,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
 <!ENTITY print "پرنٹ کریں">
 <!ENTITY view_page_source "صفحہ ماخذ نظارہ کریں">
-<!ENTITY find_in_page "صفحہ میں تلاش کریں">
+<!ENTITY find_in_page "صفحہ میں ڈھونڈیں">
 <!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ کی درخواست کریں">
 <!ENTITY page "صفحہ">
 <!ENTITY tools "ٹول">
@@ -548,7 +540,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_copyurl "پتہ نقل کریں">
 <!ENTITY contextmenu_edit_bookmark "تدوین">
 <!ENTITY contextmenu_subscribe "اس صفحہ کے ساتھ رکنیت سازی کریں">
-<!ENTITY contextmenu_site_settings "سائٹ سیٹنگیں تدوین کریں">
+<!ENTITY contextmenu_site_settings "سائٹ سیٹنگز تدوین کریں">
 <!ENTITY contextmenu_top_sites_edit "تدوین">
 <!ENTITY contextmenu_top_sites_pin "سائٹ پنپن کریں">
 <!ENTITY contextmenu_top_sites_unpin "سائٹ کو اتاریں">
@@ -606,7 +598,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title3       "سائٹ سیٹنگیں">
+<!ENTITY site_settings_title3       "سائٹ سیٹنگز">
 <!ENTITY site_settings_cancel       "منسوخ کریں">
 <!ENTITY site_settings_clear        "صاف کریں">
 
@@ -841,7 +833,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing_description "خاندان کے ارکان کو اجازت دیں براؤز کرنے کی معلومات محفوظ کییے بغیر ان صفحات کی جو انھوں نے ملاحظہ کیے۔">
 <!ENTITY restrictable_feature_clear_history "سابقات صاف کریں">
 <!ENTITY restrictable_feature_clear_history_description "خاندان کے ارکان کو اجازت دیں کہ معلومات حذف کریں ان سائٹس اور صفحات کی جو ملاحظہ کیے گۓ۔">
-<!ENTITY restrictable_feature_advanced_settings "اعلٰی سیٹنگیں">
+<!ENTITY restrictable_feature_advanced_settings "اعلٰی سیٹنگز">
 <!ENTITY restrictable_feature_advanced_settings_description "اس میں نشانیاں کو درآمد کرنا شامل ہے ، ٹیبیں کو بحال کرنا اور خودکار کردہ تازہ کاری کرنا۔ آف کردیں آسان کردہ سیٹنگیں کو ناکۃ کسی بھی خاندان کے رکن کے لئے موزوں۔">
 <!ENTITY restrictable_feature_camera_microphone "کیمرہ اور مائیکروفون">
 <!ENTITY restrictable_feature_camera_microphone_description "خاندان کے ارکان ویب سائٹس پر اصل وقت مواصلات میں مشغول کرنے کی اجازت دیتا ہے۔">
@@ -881,7 +873,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "نشانی پڑھنے والا شہ کا نظارہ کریں تاکہ آفلائین پڑھ سکیں۔">
 <!ENTITY helper_triple_readerview_open_button "نشانیوں میں اضافہ کریں">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; میں خوش آمدید">
 <!ENTITY activity_stream_signin_description "اپنے فائر Firefox اکاؤنٹ کے ساتھ بک مارکس ، پاس ورڈز اور بہت کچھ کی ہمہ وقت سازی شروع کریں۔">
@@ -890,7 +883,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "سائن ان کریں۔">
 
-<!ENTITY activity_stream_signin_button "سائن ان کریں">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
 
 <!ENTITY activity_stream_topsites "بہترین سائٹیں">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
