@@ -6,3 +6,7 @@ pictureinpicture-pause =
     .aria-label = Pausa
 pictureinpicture-play =
     .aria-label = Reproducir
+pictureinpicture-mute =
+    .aria-label = Enmudecer
+pictureinpicture-unmute =
+    .aria-label = Desenmudecer
