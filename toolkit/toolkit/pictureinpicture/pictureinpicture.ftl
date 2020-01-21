@@ -4,3 +4,9 @@
 
 pictureinpicture-pause =
     .aria-label = Jeda
+pictureinpicture-play =
+    .aria-label = Main
+pictureinpicture-mute =
+    .aria-label = Senyap
+pictureinpicture-unmute =
+    .aria-label = Nyahsenyap
