@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = Prehrať
 pictureinpicture-mute =
     .aria-label = Stlmiť
+pictureinpicture-unmute =
+    .aria-label = Zapnúť zvuk
