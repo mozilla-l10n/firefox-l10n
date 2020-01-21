@@ -67,6 +67,7 @@ permissions-exceptions-content-blocking-window =
     .title = Ережеден тыс - Құраманы бұғаттау
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Бұл веб-сайттар үшін құраманы бұғаттауды сөндіргенсіз.
+permissions-exceptions-etp-desc = Сіз осы веб-сайттарда қорғауды өшірдіңіз.
 
 ## Exceptions - Cookies
 
@@ -129,6 +130,16 @@ permissions-site-location-desc = Келесі веб-сайттар орнала
 permissions-site-location-disable-label =
     .label = Орналасуыңызды білуге жаңа сұранымдарды блоктау
 permissions-site-location-disable-desc = Бұл төменде тізілмеген веб-сайттарға орналасуыңызды білуге рұқсат сұрауға тыйым салады. Орналасуыңызға қатынауды блоктау веб-сайттардың кейбір мүмкіндіктерін сындыра алады.
+
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Баптаулар - виртуалды шынайылық рұқсаттары
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Келесі веб-сайттар виртуалды шынайылық құрылғыларына қатынау құқығын сұраған. Сіз қай веб-сайттарға виртуалды шынайылық құрылғыларына қатынауға болатынын таңдай аласыз. Сонымен қатар, виртуалды шынайылық құрылғыларын қолдануға жаңа сұранымдарды блоктай аласыз.
+permissions-site-xr-disable-label =
+    .label = Виртуалды шынайылық құрылғыларына қатынауға жаңа сұранымдарды блоктау
+permissions-site-xr-disable-desc = Бұл төменде тізілмеген веб-сайттарға виртуалды шынайылық құрылғыларына қатынауға рұқсат сұрауға тыйым салады. Виртуалды шынайылық құрылғыларына қатынауды блоктау веб-сайттардың кейбір мүмкіндіктерін сындыра алады.
 
 ## Site Permissions - Camera
 

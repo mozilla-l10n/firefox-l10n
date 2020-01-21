@@ -32,6 +32,8 @@ app-basics-name = Аты
 app-basics-version = Нұсқасы
 app-basics-build-id = Жинақ ID-і
 app-basics-update-channel = Жаңарту арнасы
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Буманы жаңарту
@@ -130,6 +132,9 @@ media-device-format = Пішімі
 media-device-channels = Арналар
 media-device-rate = Жиілігі
 media-device-latency = Кідірісі
+media-capabilities-title = Медиа мүмкіндіктері
+# List all the entries of the database.
+media-capabilities-enumerate = Дерекқор жазбаларын шығару
 
 ##
 
@@ -142,6 +147,22 @@ intl-locales-default = Бастапқы локаль
 intl-os-title = Операциялық жүйе
 intl-os-prefs-system-locales = Жүйелік локальдер
 intl-regional-prefs = Аймақтық баптаулар
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Қашықтан жөндеу (Chromium хаттамасы)
+remote-debugging-accepting-connections = Кіріс байланыстарды қабылдау
+remote-debugging-url = URL
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -240,6 +261,7 @@ d3d11video-crash-guard = D3D11 видео декодері
 d3d9video-crash-buard = D3D9 видео декодері
 d3d9video-crash-guard = D3D9 видео декодері
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX видео декодері
 reset-on-next-restart = Келесі іске қосылған кезде тастау
 gpu-process-kill-button = GPU процесін тоқтату
 gpu-device-reset = Құрылғыны қалпына келтіру

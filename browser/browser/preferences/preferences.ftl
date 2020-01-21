@@ -203,8 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Түстер…
     .accesskey = Т
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Масштаб
+preferences-default-zoom = Бастапқы масштаб
+    .accesskey = ш
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Тек мәтінді масштабтау
+    .accesskey = т
 language-header = Тіл
 choose-language-description = Интернет-беттерді көрсету үшін тілді таңдаңыз
 choose-button =
@@ -288,6 +295,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -402,6 +413,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Мәтін терілген кезде оны парақтан іздей бастау
     .accesskey = т
+browsing-picture-in-picture-toggle-enabled =
+    .label = Суреттегі сурет видеоның басқару пернелерін іске қосу
+    .accesskey = е
 browsing-picture-in-picture-learn-more = Көбірек білу
 browsing-cfr-recommendations =
     .label = Шолу кезінде кеңейтулерді ұсыну
@@ -508,6 +522,7 @@ search-bar-shown =
     .label = Құралдар панеліне іздеу панелін қосу
 search-engine-default-header = Негізгі іздеу жүйесі
 search-engine-default-desc = Адрестік жолақ және іздеу өрісі үшін қолданылатын негізгі іздеу жүйесін таңдау.
+search-engine-default-desc-2 = Бұл сіздің адрес жолағыңыздағы және іздеу жолындағы негізгі іздеу жүйесі. Сіз оны кез келген уақытта ауыстыра аласыз.
 search-suggestions-header = Іздеу ұсыныстары
 search-suggestions-desc = Іздеу жүйелерінің ұсыныстары қайда көрсетілетінін таңдаңыз.
 search-suggestions-option =

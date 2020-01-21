@@ -131,6 +131,7 @@ onboarding-facebook-container-title = Фейсбук үшін шекаралар
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } профиліңізді басқа нәрседен бөлек ұстап, Фейсбук үшін сізге мақсатталған жарнаманы көрсетуге қиынырақ етеді.
 onboarding-facebook-container-button = Кеңейтуді қосу
 onboarding-import-browser-settings-title = Бетбелгілер, парольдерді және т.б. импорттау
+onboarding-import-browser-settings-button = Chrome деректерін импорттау
 
 ## Message strings belonging to the Return to AMO flow
 
