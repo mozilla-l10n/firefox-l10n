@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Hình trong hình
+pictureinpicture-pause =
+    .aria-label = Tạm dừng
+pictureinpicture-mute =
+    .aria-label = Tắt tiếng
+pictureinpicture-unmute =
+    .aria-label = Bật tiếng
