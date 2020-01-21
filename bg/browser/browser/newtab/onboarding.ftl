@@ -51,8 +51,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Вземете { -brand-product-name } с вас
 onboarding-sync-welcome-content = Вземете своите отметки, история, пароли и всички други настройки на всички ваши устройства.
 onboarding-sync-welcome-learn-more-link = Научете повече за Firefox Accounts
-onboarding-sync-form-invalid-input = Необходим е валиден адрес на ел. поща
-onboarding-sync-legal-notice = Продължавайки, вие се съгласявате с <a data-l10n-name="terms">условията на услугата</a> и <a data-l10n-name="privacy">политиката за лични данни</a>.
 onboarding-sync-form-input =
     .placeholder = адрес на електронна поща
 onboarding-sync-form-continue-button = Продължаване
@@ -122,9 +120,11 @@ onboarding-pocket-anywhere-title = Четете и слушайте навсяк
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Вземете паролите си навсякъде
 onboarding-lockwise-passwords-button2 = Вземете приложението
+onboarding-lockwise-strong-passwords-button = Управление на регистрации
 onboarding-facebook-container-title = Сложете ограда на Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } държи профила ви отделен от всичко останало, което затруднява Facebook да ви показва целеви реклами.
 onboarding-facebook-container-button = Добавяне на разширението
+onboarding-import-browser-settings-title = Внесете вашите отметки, пароли и др.
 
 ## Message strings belonging to the Return to AMO flow
 

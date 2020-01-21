@@ -84,8 +84,9 @@ newtab-menu-archive-pocket = Архивиране в { -pocket-brand-name }
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Готово
+newtab-privacy-modal-header = Вашата поверителност има значение.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Премахване на отметка
@@ -172,7 +173,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ами сега! Почт�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярни теми:
 newtab-pocket-more-recommendations = Повече препоръчани
-newtab-pocket-how-it-works = Как работи
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
 

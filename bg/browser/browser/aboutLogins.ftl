@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Търсене на регистрация
 create-login-button = Нова регистрация
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon за { $title }
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
 fxaccounts-sign-in-button = Вписване в { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,9 +56,6 @@ about-logins-login-list-empty-search-description = Няма резултати, 
 login-list-item-title-new-login = Нова регистрация
 login-list-item-subtitle-new-login = Въведете данните за вход
 login-list-item-subtitle-missing-username = (без потребителско име)
-about-logins-list-item-warning-icon =
-    .alt = Предупредителна пиктограма
-    .title = Взломена страница
 about-logins-list-item-breach-icon =
     .title = Взломена страница
 
@@ -71,6 +63,9 @@ about-logins-list-item-breach-icon =
 
 login-intro-heading = Търсите запазените си данни за вход? Настройте { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
+login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
+login-intro-instruction-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
+login-intro-instruction-fxa-settings = Уверете се, че сте отметнали квадратчето за входни данни в настройките на { -sync-brand-short-name }
 about-logins-intro-instruction-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
 about-logins-intro-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -lockwise-brand-short-name }</a>.
 
@@ -78,7 +73,7 @@ about-logins-intro-import = Ако вашите регистрации са за
 
 login-item-new-login-title = Нова регистрация
 login-item-edit-button = Променяне
-login-item-delete-button = Изтриване
+about-logins-login-item-remove-button = Премахване
 login-item-origin-label = Адрес на страницата
 login-item-origin =
     .placeholder = https://www.example.com
@@ -92,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Показва паролата
 login-item-password-reveal-checkbox-hide =
     .title = Скрива паролата
+login-item-password-reveal-checkbox =
+    .aria-label = Показване на паролата
 login-item-copy-password-button-text = Копиране
 login-item-copied-password-button-text = Копирано!
 login-item-save-changes-button = Запазване
@@ -103,6 +100,10 @@ login-item-time-used = Последна употреба: { DATETIME($timeUsed, 
 
 ## Master Password notification
 
+master-password-notification-message = Моля, въведете главната си парола, за да видите запазените входни данни и пароли
+master-password-reload-button =
+    .label = Вписване
+    .accesskey = в
 
 ## Password Sync notification
 
@@ -122,15 +123,21 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Отказ
 confirmation-dialog-dismiss-button =
     .title = Отказ
-confirm-delete-dialog-title = Изтриване на регистрацията?
+about-logins-confirm-remove-dialog-title = Изтриване на регистрацията?
 confirm-delete-dialog-message = Действието е необратимо.
-confirm-delete-dialog-confirm-button = Изтриване
+about-logins-confirm-remove-dialog-confirm-button = Премахване
 confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отхвърляне
 
 ## Breach Alert notification
 
+breach-alert-text = Паролите са изтекли или откраднати от този уебсайт, откакто последно сте обновили данните си за вход. Променете паролата си, за да защитите сметката си.
+breach-alert-link = Научете повече за този пробив.
+breach-alert-dismiss =
+    .title = Затваряне на предупреждението
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = Възникна грешка при опита за запазване на тази парола.
