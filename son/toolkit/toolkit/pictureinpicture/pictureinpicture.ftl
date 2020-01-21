@@ -4,6 +4,8 @@
 
 pictureinpicture-pause =
     .aria-label = Hunanzam
+pictureinpicture-play =
+    .aria-label = Hẽeenandi
 pictureinpicture-mute =
     .aria-label = Jinde daabu
 pictureinpicture-unmute =
