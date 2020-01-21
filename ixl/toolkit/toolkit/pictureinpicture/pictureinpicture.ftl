@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Vatzib'al
+pictureinpicture-pause =
+    .aria-label = Tanb'a'
