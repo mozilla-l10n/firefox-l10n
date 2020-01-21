@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = 播放
 pictureinpicture-mute =
     .aria-label = 靜音
+pictureinpicture-unmute =
+    .aria-label = 取消靜音
