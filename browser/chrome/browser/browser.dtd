@@ -265,7 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Preglednik se kontrolira s udaljene lokacije">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otvori okno Web autentifikacije">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Otvori okno s dozvolama za pregledavanje">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Otvori prikaz dozvola za pregledavanje">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljaj dijeljenjem tvoje kamere i/ili mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljaj dijeljenjem tvog mikrofona sa stranicom">
