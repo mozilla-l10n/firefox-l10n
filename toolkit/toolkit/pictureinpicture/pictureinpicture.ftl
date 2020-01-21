@@ -5,3 +5,9 @@
 pictureinpicture-player-title = ছবিৰ-ওপৰত-ছবি
 pictureinpicture-pause =
     .aria-label = ৰখক
+pictureinpicture-play =
+    .aria-label = চলাওক
+pictureinpicture-mute =
+    .aria-label = মৌন কৰক
+pictureinpicture-unmute =
+    .aria-label = অমৌন কৰক
