@@ -45,7 +45,7 @@ config-column-chooser =
 
 config-copy-pref =
     .key = C
-    .label = 복사하기
+    .label = 복사
     .accesskey = C
 config-copy-name =
     .label = 이름 복사
