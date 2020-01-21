@@ -9,3 +9,5 @@ pictureinpicture-play =
     .aria-label = Odtwórz
 pictureinpicture-mute =
     .aria-label = Wycisz
+pictureinpicture-unmute =
+    .aria-label = Włącz dźwięk
