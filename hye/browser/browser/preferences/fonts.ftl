@@ -104,3 +104,17 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Գրանշանի կոդաւորումը տարբերանշանի բովանդակութեան համար
 fonts-languages-fallback-desc = Գրանշանի կոդաւորումը աւգտագործուում է այն տարբերանշանի բովանդակութեան համար, որը չի կարողանում որոշել իր կոդաւորումը։
+fonts-languages-fallback-label = Գրոյթի պահեստային կոդաւորում
+    .accesskey = T
+fonts-languages-fallback-name-auto =
+    .label = Լռելեայն է ընթացիկ լեզուի համար
+fonts-languages-fallback-name-arabic =
+    .label = Արաբերէն
+fonts-languages-fallback-name-baltic =
+    .label = Բալթեան
+fonts-languages-fallback-name-ceiso =
+    .label = Կենտրոնաեւրոպական, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = Կենտրոնաեւրոպական, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Չինարէն, Պարզեցուած
