@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Slika v sliki
+pictureinpicture-pause =
+    .aria-label = Premor
 pictureinpicture-play =
     .aria-label = Predvajaj
 pictureinpicture-mute =
