@@ -21,6 +21,7 @@ onboarding-button-label-get-started = תחילת עבודה
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
 onboarding-welcome-body = הדפדפן כבר בידיך.<br/>עכשיו נציג את שאר { -brand-product-name }.
 onboarding-welcome-learn-more = מידע נוסף על היתרונות.
+onboarding-welcome-modal-get-body = הדפדפן כבר בידיך.<br/>עכשיו הזמן להפיק את המירב מ־{ -brand-product-name }.
 onboarding-welcome-modal-privacy-body = יש לך דפדפן. עכשיו נוסיף קצת חיזוקי פרטיות.
 onboarding-welcome-modal-family-learn-more = מידע נוסף על משפחת מוצרי { -brand-product-name }.
 onboarding-welcome-form-header = תחילת עבודה
@@ -50,8 +51,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = { -brand-product-name } איתך בכל מקום
 onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
 onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
-onboarding-sync-form-invalid-input = נדרשת כתובת דוא״ל חוקית
-onboarding-sync-legal-notice = בחירה בהמשך התהליך מהווה הסכמה ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
 onboarding-sync-form-input =
     .placeholder = דוא״ל
 onboarding-sync-form-continue-button = המשך
@@ -103,6 +102,7 @@ onboarding-browse-privately-text = גלישה פרטית מנקה את היסט�
 onboarding-browse-privately-button = פתיחת חלון פרטי
 onboarding-firefox-send-button = לנסות את { -send-brand-name }
 onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון שלך
+onboarding-mobile-phone-text = ניתן להוריד את { -brand-product-name } עבור iOS או Android ולסנכרן את הנתונים שלך בין מכשירים.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = הורדת דפדפן לנייד
