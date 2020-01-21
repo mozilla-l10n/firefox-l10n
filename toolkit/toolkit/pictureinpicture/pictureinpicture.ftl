@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Εικόνα εντός εικόνας
+pictureinpicture-pause =
+    .aria-label = Παύση
+pictureinpicture-play =
+    .aria-label = Αναπαραγωγή
+pictureinpicture-mute =
+    .aria-label = Σίγαση
+pictureinpicture-unmute =
+    .aria-label = Άρση σίγασης
