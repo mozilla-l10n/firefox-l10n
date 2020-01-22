@@ -156,6 +156,12 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Հղումը նոր ներդիրում բացելիս միանգամից անցնել դրան
     .accesskey = բ
+show-tabs-in-taskbar =
+    .label = Ցուցադրել ներդիրների նախադիտումը Windows taskbar-ում
+    .accesskey = k
+browser-containers-enabled =
+    .label = Միացնել պարունակ ներդիրները
+    .accesskey = ի
 
 ## General Section - Language & Appearance
 
