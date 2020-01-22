@@ -74,7 +74,7 @@ newtab-menu-archive-pocket = Chuva´a nuu { -pocket-brand-name }
 
 newtab-privacy-modal-button-done = Nsá´á
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xita a ta´a ini noo´o
@@ -92,6 +92,11 @@ newtab-menu-remove-download = Xita nuu sɨ´ɨ nsá´ánu
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Kutuvi nuu Finder
+       *[other] Síne carpeta contenedora
+    }
 newtab-menu-open-file = Sine archivo
 
 ## Card Labels: These labels are associated to pages to give
@@ -143,7 +148,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi 
 ## Pocket Content Section.
 
 newtab-pocket-more-recommendations = Kue´eka a kuvi ni´inu
-newtab-pocket-how-it-works = Naja satiñu
+newtab-pocket-whats-pocket = Nakuvi { -pocket-brand-name }?
 newtab-pocket-cta-button = Taji { -pocket-brand-name }
 
 ## Error Fallback Content.

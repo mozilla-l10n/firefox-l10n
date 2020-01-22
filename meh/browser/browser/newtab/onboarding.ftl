@@ -28,6 +28,8 @@ onboarding-join-form-email =
     .placeholder = Chu´un correo
 onboarding-join-form-email-error = Nejika chu´unu iin correo vatu
 onboarding-join-form-continue = Kɨ´ɨ
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ¿Kuminu iin cuenta?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Kajie´e sesión
 onboarding-start-browsing-button-label = Kajie´e nánuku
@@ -37,6 +39,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Kune´ya kuaiyo a kuvi sá´ánu.
 onboarding-fullpage-form-email =
     .placeholder = Correo electrónico noo´o…
 
