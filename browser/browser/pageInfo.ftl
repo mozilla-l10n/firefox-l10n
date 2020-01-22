@@ -86,24 +86,24 @@ security-view-identity =
 security-view-identity-owner =
     .value = 소유자:
 security-view-identity-domain =
-    .value = 사이트 정보:
+    .value = 웹사이트:
 security-view-identity-verifier =
-    .value = 신원 확인자:
+    .value = 인증 기관:
 security-view-identity-validity =
     .value = 만료일:
 security-view-privacy =
     .value = 개인 정보 및 방문 기록
-security-view-privacy-history-value = 이전에 현재 웹 사이트 방문 여부
-security-view-privacy-sitedata-value = 이 웹사이트가 내 컴퓨터에 데이터를 저장하나요?
+security-view-privacy-history-value = 이 웹사이트를 이전에 방문한 적이 있나요?
+security-view-privacy-sitedata-value = 이 웹사이트가 내 컴퓨터에 정보를 저장하나요?
 security-view-privacy-clearsitedata =
     .label = 쿠키와 사이트 데이터 삭제
     .accesskey = C
-security-view-privacy-passwords-value = 이 사이트에 저정된 비밀번호가 있나요?
+security-view-privacy-passwords-value = 이 웹사이트에 비밀번호를 저장한 적이 있나요?
 security-view-privacy-viewpasswords =
     .label = 저장된 비밀번호 보기
     .accesskey = w
 security-view-technical =
-    .value = 세부 사항
+    .value = 기술적 세부 사항
 help-button =
     .label = 도움말
 
@@ -113,8 +113,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = 네, 쿠키와 { $value } { $unit } 데이터
-security-site-data-only = 네, { $value } { $unit } 데이터
+security-site-data-cookies = 네, 쿠키와 { $value } { $unit } 사이트 데이터
+security-site-data-only = 네, { $value } { $unit } 사이트 데이터
 security-site-data-cookies-only = 네, 쿠키
 security-site-data-no = 아니오
 image-size-unknown = 알 수 없음
