@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Λιγότερα δεδομένα, μεγαλύτερη οικονομία">
 <!ENTITY firstrun_data_subtext2 "Απενεργοποιήστε τις εικόνες για να ξοδεύετε λιγότερα δεδομένα σε κάθε ιστοσελίδα που επισκέπτεστε.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Λογαριασμός">
-<!ENTITY firstrun_sync_message2 "Συνεχίστε από εκεί που σταματήσατε.">
 <!ENTITY firstrun_sync_message3 "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό και τους κωδικούς πρόσβασής σας με το τηλέφωνό σας.">
 <!ENTITY firstrun_sync_subtext2 "Χρησιμοποιήστε το Sync για να βρείτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και άλλα στοιχεία που αποθηκεύετε στο &brandShortName;, σε όλες σας τις συσκευές.">
 <!ENTITY newfirstrun_sync_subtext "Συγχρονίστε τα δεδομένα που αποθηκεύετε στο κινητό με το Firefox για υπολογιστές, με ασφάλεια και απόρρητο.">
-<!ENTITY updatednewfirstrun_sync_subtext "Συνδεθείτε στο λογαριασμό σας για να αξιοποιήσετε στο έπακρο το &brandShortName;">
-<!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_sendtab_title "Αποστολή καρτέλας">
 <!ENTITY firstrun_sendtab_message "Αποστολή καρτελών από κινητό σε υπολογιστή — άμεσα.">
-<!ENTITY firstrun_signin_button "Είσοδος στο Sync">
-<!ENTITY newfirstrun_signin_button "Ενεργοποίηση Sync">
-<!ENTITY updatednewfirstrun_signin_button "Σύνδεση στο &brandShortName;">
+<!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY onboard_start_button_browser "Έναρξη περιήγησης">
 <!ENTITY firstrun_button_notnow "Όχι τώρα">
 <!ENTITY firstrun_button_next "Επόμενο">
-
-<!ENTITY firstrun_signin_button2 "Σύνδεση">
+<!ENTITY firstrun_signup_button "Εγγραφή">
 
 <!ENTITY firstrun_tabqueue_title "Σύνδεσμοι">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Εσείς">
 <!ENTITY firstrun_account_message "Έχετε το &brandShortName; σε κάποια άλλη συσκευή;">
-
-<!ENTITY firstrun_signup_button "Εγγραφή">
 
 <!ENTITY  onboard_start_restricted1 "Παραμείνετε ασφαλής και διατηρήστε τον έλεγχο με αυτή την απλοποιημένη έκδοση του &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Έχει συνδεθεί στο">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -892,12 +882,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Καλώς ήλθατε στο &brandShortName;">
 <!ENTITY activity_stream_signin_description "Έναρξη συγχρονισμού σελιδοδεικτών, κωδικών πρόσβασης και άλλων δεδομένων με το λογαριασμό Firefox.">
-<!ENTITY activity_stream_signin_button "Σύνδεση">
-
 <!ENTITY activity_stream_signup_button "Εγγραφή">
 <!ENTITY activity_stream_signin_prompt "Έχετε ήδη λογαριασμό;">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Σύνδεση.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Το ολοκαίνουριο Firefox, έρχεται το 2020">
+<!ENTITY activity_stream_firefox_promo_description "Έρχεται σύντομα: Βελτιωμένες επιδόσεις. Ενισχυμένη προστασία από καταγραφή. Και λειτουργίες σχεδιασμένες για εύρεση, αποθήκευση και κοινή χρήση στο διαδίκτυο.">
+<!ENTITY activity_stream_firefox_promo_button "Ρίξτε μια ματιά">
 
 <!ENTITY activity_stream_topsites "Κορυφαίες ιστοσελίδες">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
