@@ -136,7 +136,7 @@ media-capabilities-title = Kisamaj K'oxom
 # List all the entries of the database.
 media-capabilities-enumerate = Ticholajïx cholxe'el
 
-
+##
 
 intl-title = Elniminïk & Tzalq'omanri'ïl
 intl-app-title = Kinuk'ulem Chokoy
@@ -161,7 +161,7 @@ remote-debugging-title = Näj Ruchojmirisanem (Chromium Rub'eyal Samaj)
 remote-debugging-accepting-connections = Kek'ul taq okem
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -261,6 +261,7 @@ d3d11video-crash-guard = D3D11 Silowachib'äl ewanel rusik'ixik
 d3d9video-crash-buard = D3D9 Silowachib'äl Ewanel rusik'ixik
 d3d9video-crash-guard = D3D9 Silowachib'äl Ewanel rusik'ixik
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Silowachib'äl Ewanel Rusik'ixik
 reset-on-next-restart = K'a xtitzolïx na ri Rutikirisaxik chik
 gpu-process-kill-button = Tik'isb'ëx ri GPU Tajin
 gpu-device-reset = Titzij chik Okisaxel
