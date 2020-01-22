@@ -197,6 +197,17 @@ default-font = Հիմնական տառատեսակը
     .accesskey = Հ
 default-font-size = Չափը
     .accesskey = Չ
+advanced-fonts =
+    .label = Լրացուցիչ…
+    .accesskey = Լ
+colors-settings =
+    .label = Գոյներ…
+    .accesskey = Գ
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Խոշորացնել
+preferences-default-zoom = Սկզբնադիր խոշորացում
+    .accesskey = z
+language-header = Լեզուն
 
 ## General Section - Files and Applications
 
