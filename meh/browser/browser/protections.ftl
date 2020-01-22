@@ -22,6 +22,8 @@ graph-total-tracker-summary =
 graph-today = Ki̱vɨ̱ vitá
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Iin tutu nuu vaji tunin kuaíyo daa ka̱a̱ nita noo´o,  nstasava nakuvi daa ka̱a̱ ya´a, daa nnasɨ semana nña´a.
+lockwise-title-logged-in = { -lockwise-brand-name }
+manage-connected-devices = …Tetiñu daa ka̱a̱…
 monitor-link = Naja satiñu
 
 ## The title attribute is used to display the type of protection.

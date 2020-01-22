@@ -18,6 +18,8 @@ dialog-title =
 
 clear-time-duration-value-today =
     .label = Ki̱vɨ̱ vitá
+clear-time-duration-value-everything =
+    .label = Kuaiyo
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -35,6 +37,12 @@ data-section-label = Datos
 sanitize-everything-undo-warning = Ya´a nkuvi tanɨ.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Sá´á noo ntañu´u
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Nná
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.

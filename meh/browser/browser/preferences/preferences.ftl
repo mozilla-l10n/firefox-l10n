@@ -413,6 +413,10 @@ privacy-header = Nánuku yu´u
 ## Privacy Section - Logins and Passwords
 
 logins-header = Nuu kajie´e sesión jii contraseñas
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Katu´un dee chuva´a nuu kajie´e sesión jii contraseñas nuu daa web
+    .accesskey = r
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -420,10 +424,27 @@ forms-breach-alerts-learn-more-link = Ka´vi kue´eka
 forms-saved-logins =
     .label = Nuu kajie´e sesión nchuva´a
     .accesskey = L
+forms-master-pw-change =
+    .label = Sama...
+    .accesskey = m
+forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 
 ## Privacy Section - History
 
 history-header = Sɨ´ɨ
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
+history-remember-option-never =
+    .label = Nchuva´a historial
 history-clear-on-close-settings =
     .label = Nake´i
     .accesskey = t
@@ -433,6 +454,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies jii datos nuu ya´a
 sitedata-learn-more = Ka´vi jiee ya´a
 sitedata-clear =
     .label = Sá´á noo datos
@@ -525,6 +547,9 @@ permissions-location = Nuu iñɨnu
 permissions-location-settings =
     .label = Ke´i...
     .accesskey = K
+permissions-xr-settings =
+    .label = Daa ke´i...
+    .accesskey = t
 permissions-camera-settings =
     .label = Ke´i
     .accesskey = K
@@ -534,13 +559,23 @@ permissions-microphone-settings =
     .accesskey = K
 permissions-notification = Notificaciones
 permissions-notification-link = Ka´vi kue´eka
+permissions-block-autoplay-media-exceptions =
+    .label = Excepciones…
+    .accesskey = E
 permissions-autoplay-settings =
     .label = Ke´i
     .accesskey = K
+permissions-block-popups-exceptions =
+    .label = Excepciones…
+    .accesskey = E
+permissions-addon-exceptions =
+    .label = Excepciones…
+    .accesskey = E
 permissions-a11y-privacy-link = Ka´vi kue´eka
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = Tu´un xitu a nejika kumio
 collection-health-report-telemetry-disabled-link = Ka´vi kue´eka
 collection-health-report-link = Ka´vi kue´eka
 addon-recommendations-link = Ka´vi kue´eka
@@ -556,6 +591,10 @@ security-enable-safe-browsing-link = Ka´vi kue´eka
 
 ## Privacy Section - Certificates
 
+certs-header = Certificados
+certs-view =
+    .label = Kune´ya certificados…
+    .accesskey = C
 space-alert-learn-more-button =
     .label = Ka´vi kue´eka
     .accesskey = K
