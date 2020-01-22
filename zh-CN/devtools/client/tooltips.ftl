@@ -32,15 +32,16 @@ inactive-css-not-inline-or-tablecell = 由于不是内联或表格单元格元�
 inactive-css-property-because-of-display = 由于其有 <strong>{ $display }</strong> 的 display 属性，<strong>{ $property }</strong> 对此元素没有影响。
 inactive-css-not-display-block-on-floated = 由于是 <strong>floated<strong> 元素，引擎已将 <strong>display</strong> 值更改为 <strong>block</strong>。
 inactive-css-property-is-impossible-to-override-in-visited = 由于 <strong>:visited</strong> 的限制，无法覆盖 <strong>{ $property }</strong>。
+inactive-css-position-property-on-unpositioned-box = 由于不是定位元素，<strong>{ $property }</strong> 对此元素无效。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = 请尝试添加 <strong>display:grid</ strong> 或 <strong>display:flex</strong>。{ learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>columns:2</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix = 请尝试添加 <strong>display:grid</ strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-grid-item-fix = 请尝试为项目的父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>columns:2</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = 请尝试添加 <strong>display:grid</ strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-grid-item-fix-2 = 请尝试为元素的父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-grid-container-fix = 请尝试添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
@@ -51,3 +52,4 @@ inactive-css-not-inline-or-tablecell-fix = 请尝试添加 <strong>display:inlin
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = 请尝试添加 <strong>display:inline-block</strong> 或 <strong>display:block</strong>。{ learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = 请尝试添加 <strong>display:inline-block</strong>。{ learn-more }
 inactive-css-not-display-block-on-floated-fix = 请尝试移除 <strong>float</ strong> 或添加 <strong>display:block</strong>。{ learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = 请尝试将其 <strong>position</strong> 属性设为非 <strong>static</strong>。{ learn-more }
