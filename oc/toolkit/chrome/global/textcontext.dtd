@@ -21,7 +21,7 @@
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Verificar l'ortografia">
 <!ENTITY spellCheckToggle.accesskey "V">
-<!ENTITY spellNoSuggestions.label "(pas de mot suggerit)">
+<!ENTITY spellNoSuggestions.label "(cap de mot suggerit)">
 <!ENTITY spellDictionaries.label "Lengas">
 <!ENTITY spellDictionaries.accesskey "g">
 
