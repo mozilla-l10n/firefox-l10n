@@ -208,6 +208,15 @@ preferences-zoom-header = Խոշորացնել
 preferences-default-zoom = Սկզբնադիր խոշորացում
     .accesskey = z
 language-header = Լեզուն
+choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
+choose-button =
+    .label = Ընտրել…
+    .accesskey = տ
+choose-browser-language-description = Ընտրեք աւգտագործուած լեզուների ցանկերը, նամակները եւ ծանուցումները { -brand-short-name }-ից ցուցադրելու համար։
+manage-browser-languages-button =
+    .label = Կայել այլընտրանքներ...
+    .accesskey = l
+confirm-browser-language-change-description = Վերամեկնարկեք { -brand-short-name }-ը՝ փոփոխութիւնները գործադրելու համար
 
 ## General Section - Files and Applications
 
