@@ -109,16 +109,24 @@ default-font-size = Naja ka´nu
 colors-settings =
     .label = Teku...
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Kua vaji zoom
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = Tu'un
 choose-button =
     .label = Sama...
     .accesskey = S
+confirm-browser-language-change-button = Tee jee nakajie´e
 translate-exceptions =
     .label = Excepciones…
     .accesskey = X
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Archivos jii daa ka̱a̱
 download-header = Da a xinuun
 download-save-to =
     .label = Chuva´a tutu nuu
@@ -137,12 +145,20 @@ download-choose-folder =
 download-always-ask-where =
     .label = Ntaka ichi katu´un nuu´u nenu chuva´aní daa archivos
     .accesskey = N
+applications-header = Daa ka̱a̱
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = archivo { $extension }
 applications-action-save =
     .label = Chuva´a archivo
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Ni´i { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Ni´i { $app-name } (predeterminado)
 applications-use-other =
     .label = Ni´i inka...
 applications-always-ask =
@@ -154,6 +170,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -199,6 +219,8 @@ browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 
 ## General Section - Proxy
 
+network-settings-title = Ke´i conexión
+network-proxy-connection-description = Ke´i naja { -brand-short-name } kivu nuu internet.
 network-proxy-connection-learn-more = Ka´vi jiee ya´a
 network-proxy-connection-settings =
     .label = Ke´i
@@ -218,8 +240,24 @@ home-mode-choice-default =
     .label = Xinañu´u página Firefox
 home-mode-choice-custom =
     .label = Sa´a vii URLs
+home-mode-choice-blank =
+    .label = Página kuijin
 home-homepage-custom-url =
     .placeholder = Tee iin URL...
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Ni´i página ntañu´u
+           *[other] Ni´i daa página ntañu´u
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Ni´i marcador...
+    .accesskey = m
 
 ## Home Section - Firefox Home Content Customization
 
@@ -228,15 +266,26 @@ home-prefs-search-header =
     .label = Nánuku web
 home-prefs-topsites-header =
     .label = Daa sitio vii
+home-prefs-topsites-description = Daa nuu ni´inu kue´e
 home-prefs-recommended-by-learn-more = Naja satiñu
 home-prefs-highlights-options-bookmarks =
     .label = A ta´a ini noo´o
 home-prefs-highlights-option-most-recent-download =
     .label = Nxinuun Ntañu´u
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Fragmentos
 
 ## Search Section
 
 search-bar-header = Nuu nánuku
+search-bar-hidden =
+    .label = Ni´i barra daa nuu nánuku jii kaka
+search-bar-shown =
+    .label = Tee barra nánuku nuu barra daa ka̱a̱
 search-choose-engine-column =
     .label = Ka̱a̱ nánuku
 search-choose-keyword-column =
@@ -263,6 +312,7 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = Kua´an Web jii noo´o
 sync-signedout-account-signin =
     .label = Kajie´e sesión…
     .accesskey = s
@@ -284,6 +334,9 @@ sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l
 sync-disconnect =
     .label = Kene…
     .accesskey = K
+sync-sign-out =
+    .label = Kene…
+    .accesskey = g
 sync-manage-account = Administrar cuenta
     .accesskey = o
 sync-signedin-login-failure = Kuamani ini noo´o jee kajie´e sesión tuku { $email }
@@ -300,7 +353,12 @@ sync-sign-in =
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = A ta´a ini noo´o
+sync-currently-syncing-tabs = Síne pestañas
+sync-currently-syncing-addresses = Daa nuu
 sync-currently-syncing-addons = Ka̱a̱ chunta´an
+sync-change-options =
+    .label = Sama
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -310,6 +368,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Sɨ´ɨ
     .accesskey = r
+sync-engine-logins =
+    .label = Nuu kajie´e sesión
+    .tooltiptext = Sivɨ jii contraseñas nchuva´anu
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = Nuu kajie´e sesión jii contraseñas
+    .tooltiptext = Sivɨ jii contraseñas nchuva´anu
+    .accesskey = L
+sync-engine-addresses =
+    .label = Daa nuu
+    .tooltiptext = Daa nuu ve´i nchuva´anu (ntu xini escritorio)
+    .accesskey = e
 sync-engine-addons =
     .label = Ka̱a̱ chunta´an
     .tooltiptext = Ka̱a̱ chunta´an Firefox escritorio
@@ -318,6 +388,9 @@ sync-engine-addons =
 ## The device name controls.
 
 sync-device-name-header = Sivɨ ka̱a̱
+sync-device-name-change =
+    .label = Sama sivɨ ka̱a̱...
+    .accesskey = h
 sync-device-name-cancel =
     .label = Nkuvi-ka
     .accesskey = N
