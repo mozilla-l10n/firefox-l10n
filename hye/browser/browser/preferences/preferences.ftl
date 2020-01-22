@@ -94,12 +94,68 @@ extension-controlled-privacy-containers = Ընդլայնում, <img data-l10n-n
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name }-ի ընդլայնումը կառաւարում է այս կարգաւորումը։
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկավարում է, թե ինչպէս { -brand-short-name }-ը կապակցուի համացանցին:
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Ընդլայնումը միացնելու համար անցեք <img data-l10n-name="addons-icon"/> յաւելումներին <img data-l10n-name="menu-icon"/> ցանկում:
 
 ## Preferences UI Search Results
 
+search-results-header = Որոնման արդիւնքներ
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Արդիւնքներ չկան Ընտրանքներում “<span data-l10n-name="query"></span>”-ի համար:
+       *[other] Կարգաւորումներում այլ արդիւնքներ չկան “<span data-l10n-name="query"></span>”-ի համար:
+    }
+search-results-help-link = Աւգնութիւ՞ն է պէտք: Այցելեք <a data-l10n-name="url">{ -brand-short-name } աջակցում</a>
 
 ## General Section
 
+startup-header = Մեկնարկը
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Թոյլատրել, որ { -brand-short-name }-ը և Firefox-ը մեկնարկեն միաժամանակ
+use-firefox-sync = Խորհուրդ․ Աւգտագործում են առանձին հատկագրեր։ Աւգտագործեք { -sync-brand-short-name }-ը տվեալները դրանց մէջ տարծելու համար։
+get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
+get-started-configured = Բացել { -sync-brand-short-name }-ի կարգաւորումները
+always-check-default =
+    .label = Միշտ ստուգել, թե արդեաւք { -brand-short-name }-ը ձեր հիմնական դիտարկիչն է
+    .accesskey = շ
+is-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
+is-not-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչը չէ
+set-as-my-default-browser =
+    .label = Դարձնել լռելեայն...
+    .accesskey = D
+startup-restore-previous-session =
+    .label = Վերականգնել նախորդ աշխատաշրջանը
+    .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Զգուշացնել ինձ դիտարկիչը փակելիս:
+disable-extension =
+    .label = Անջատել ընդլայնումը
+tabs-group-header = Ներդիրներ
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab՝ պտտուում է ներդիրների միջեւ՝ ըստ վերջին աւգտագործածի
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Հղումները բացել նոր ներդիրներում՝ նոր պատուհանների փոխարեն
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Զգուշացնել բազմաթիվ ներդիրներ փակելիս
+    .accesskey = Զ
+warn-on-open-many-tabs =
+    .label = Զգուշացնել բազմակի ներդիրներ բացելիս, ինչը կարող է դանդաղեցնել { -brand-short-name }-ը:
+    .accesskey = դ
+switch-links-to-new-tabs =
+    .label = Հղումը նոր ներդիրում բացելիս միանգամից անցնել դրան
+    .accesskey = բ
 
 ## General Section - Language & Appearance
 
