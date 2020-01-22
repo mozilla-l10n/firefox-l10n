@@ -21,6 +21,10 @@ onboarding-button-label-get-started = Бастау
 onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 onboarding-welcome-body = Браузеріңіз бар.<br/>{ -brand-product-name } қалған бөлігімен танысыңыз.
 onboarding-welcome-learn-more = Артықшылықтары туралы көбірек біліңіз.
+onboarding-welcome-modal-get-body = Браузеріңіз бар.<br/>Енді { -brand-product-name } максималды мәнін алыңыз.
+onboarding-welcome-modal-supercharge-body = Құпиялылықты қорғаңыз.
+onboarding-welcome-modal-privacy-body = Браузеріңіз бар. Көбірек жекелік қорғанысты қосайық.
+onboarding-welcome-modal-family-learn-more = { -brand-product-name } өнімдер отбасы туралы көбірек біліңіз.
 onboarding-welcome-form-header = Осы жерден бастаңыз
 onboarding-join-form-header = { -brand-product-name } қоғамдастығына қосылыңыз
 onboarding-join-form-body = Бастау үшін, эл. пошта адресіңізді енгізіңіз.
@@ -40,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Қолыңыздан келетін барлығын зерттей бастайық.
 onboarding-fullpage-form-email =
     .placeholder = Эл. пошта адресіңіз…
 
@@ -73,8 +78,11 @@ onboarding-benefit-privacy-title = Шынайы жекелік
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Біз жасайтын барлық нәрсе біздің Жеке Деректер Уәдесіне сай: Азырақ алу. Оны қауіпсіз сақтау. Құпиясыз.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = { -brand-product-name } қолданатын барлық жерде бетбелгілер, парольдер және т.б. өзіңізбен бірге ұстаңыз.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Сіздің жеке ақпаратыңыз белгілі деректер ұрланған деректер ішінде болғанда хабарлама алу.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Қорғалған және тасымалданатын парольдерді басқару.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -103,6 +111,7 @@ onboarding-data-sync-text2 = { -brand-product-name } қолданатын бар
 onboarding-data-sync-button2 = { -sync-brand-short-name } ішіне кіріңіз
 onboarding-firefox-monitor-title = Деректердің жайылып кетулері туралы біліп отырыңыз
 onboarding-firefox-monitor-text = { -monitor-brand-name } сіздің эл. пошта адресіңіз деректердің жайылып кетуінде көрінгенін бақылап, табылған уақытта сізге хабарлайды.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } сіздің эл. пошта адресіңіз деректердің белгілі ұрлануында көрінгенін бақылап, табылған уақытта сізге хабарлайды.
 onboarding-firefox-monitor-button = Хабарламаларға жазылу
 onboarding-browse-privately-title = Жекелік түрде шолыңыз
 onboarding-browse-privately-text = Жекелік шолу компьютеріңіздің қолданатын адамдардан құпия сақтау үшін сіздің іздеулер және шолу тарихыңыхжы өшіреді.
@@ -119,6 +128,9 @@ onboarding-send-tabs-title = Браузер беттерін өзіңізге л
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Беттерді жіберу мүмкіндігі құрылғыларыңыз арасында браузер беттерін көшіру, кірістіру немесе браузерден кетусіз-ақ бөлісуге мүмкіндік береді.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Сілтемелерді көшірмей, немесе браузерден кетусіз-ақ беттермен жеңіл түрде бөлісіңіз.
 onboarding-send-tabs-button = Беттерді жіберу мүмкіндігін қолдануды бастау
 onboarding-pocket-anywhere-title = Кез келген жерде оқу және тыңдау
 onboarding-pocket-anywhere-text2 = Таңдамалы мазмұнды оффлайн түрде { -pocket-brand-name } қолданбасымен сақтап, өзіңізге лайықты уақытта оқу, тыңдау немесе қарауға болады.
@@ -126,11 +138,14 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name } қолданып кө
 onboarding-lockwise-passwords-title = Парольдеріңізді өзіңізбен бірге алып жүріңіз
 onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } көмегімен парольдерді қауіпсіз сақтаңыз және тіркелгілеріңізге оңай кіріңіз.
 onboarding-lockwise-passwords-button2 = Қолданбаны алу
+onboarding-lockwise-strong-passwords-title = Қатаң парольдерді жасау және сақтау
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } қатаң парольдерді лезде жасайды және олардың барлығын бір жерде сақтайды.
 onboarding-lockwise-strong-passwords-button = Логиндеріңізді басқару
 onboarding-facebook-container-title = Фейсбук үшін шекараларды орнатыңыз
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } профиліңізді басқа нәрседен бөлек ұстап, Фейсбук үшін сізге мақсатталған жарнаманы көрсетуге қиынырақ етеді.
 onboarding-facebook-container-button = Кеңейтуді қосу
 onboarding-import-browser-settings-title = Бетбелгілер, парольдерді және т.б. импорттау
+onboarding-import-browser-settings-text = Тікелей кірісу — Chrome сайттары және баптауларын оңай көшіріп алыңыз.
 onboarding-import-browser-settings-button = Chrome деректерін импорттау
 
 ## Message strings belonging to the Return to AMO flow
