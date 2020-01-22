@@ -309,7 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "다른 북마크">
 <!ENTITY bookmarksMenuButton.mobile.label   "모바일 북마크">
 <!ENTITY viewBookmarksSidebar2.label        "북마크 탐색창 보기">
-<!ENTITY hideBookmarksSidebar.label         "북마크 탐색창 감춤">
+<!ENTITY hideBookmarksSidebar.label         "북마크 탐색창 숨기기">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
 <!ENTITY hideBookmarksToolbar.label         "북마크 도구 모음 감춤">
 <!ENTITY searchBookmarks.label              "즐겨찾기 검색">
@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; 켜기…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "기기 관리…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 표시">
+<!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 보기">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "동기화한 탭 탐색창 숨기기">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "다른 기기 연결">
 
@@ -775,8 +775,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "확대/축소">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip     "사이드바 닫기">
-<!ENTITY sidebarMenuClose.label         "사이드바 닫기">
+<!ENTITY sidebarCloseButton.tooltip     "탐색창 닫기">
+<!ENTITY sidebarMenuClose.label         "탐색창 닫기">
 
 <!ENTITY quitApplicationCmdWin2.label       "종료">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
