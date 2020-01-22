@@ -11,3 +11,12 @@ find = Nánuku
 new-tab = Sukua jíía
 share = Kua´a ya´a
 close-window = Kasɨ ventana
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Nánuku:
+
+## Various categories of shortcuts for search.
+
+
+##
+
