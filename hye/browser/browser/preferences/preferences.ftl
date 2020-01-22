@@ -34,6 +34,24 @@ search-input-box =
             [windows] Գտնել Ընտրանքներում
            *[other] Գտնել Նախընտրութիւններում
         }
+managed-notice = Ձեր զննիչը կառաւարում է ձեր կազմակերպութիւնը։
+pane-general-title = Գլխաւոր
+category-general =
+    .tooltiptext = { pane-general-title }
+pane-home-title = Տուն
+category-home =
+    .tooltiptext = { pane-home-title }
+pane-search-title = Որոնում
+category-search =
+    .tooltiptext = { pane-search-title }
+pane-privacy-title = Գաղտնիութեան եւ անվտանգութեան
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
+help-button-label = { -brand-short-name }-ի աջակցում
+addons-button-label = Ընդլայնումներ եւ Ոճեր
 
 ## Browser Restart Dialog
 
