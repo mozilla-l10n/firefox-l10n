@@ -21,12 +21,15 @@ onboarding-button-label-get-started = Kajie´e
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo daa ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
+onboarding-welcome-modal-privacy-body = A kuminu ka̱a̱ nánuku. Vitan tee kue´e a kumi noo yu´u.
+onboarding-welcome-modal-family-learn-more = Kuni jie´e daa inka ka̱a̱ { -brand-product-name }.
 onboarding-welcome-form-header = Kajie´e ya´a
 onboarding-join-form-header = Náyonika { -brand-product-name }
 onboarding-join-form-body = Chu´un correo noo´o saa kajie´e.
 onboarding-join-form-email =
     .placeholder = Chu´un correo
 onboarding-join-form-email-error = Nejika chu´unu iin correo vatu
+onboarding-join-form-legal = Dee kakanu, noo´o kanijia jii <a data-l10n-name="terms"> Tutu kachi a sá´á ka̱a̱ ya´a</a> jii <a data-l10n-name="privacy"> Tu´un xitu a nejika kumio</a>.
 onboarding-join-form-continue = Kɨ´ɨ
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ¿Kuminu iin cuenta?
@@ -63,6 +66,11 @@ onboarding-sync-form-sub-header = Saa kɨ´ɨ nuu { -sync-brand-name }.
 onboarding-benefit-products-title = Daa ka̱a̱ íyo tiñu
 onboarding-benefit-knowledge-title = Tu´un tu´va íyo tiñu
 onboarding-benefit-knowledge-text = Kuní kuaíyo kumani kuninu jee koo va´anu saa nánuku.
+onboarding-benefit-privacy-title = A kumi noo´o maná
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Tetiñu daa contraseña noo´o kumima va´a jii noo´o.
 
 ## These strings belong to the individual onboarding messages.
 

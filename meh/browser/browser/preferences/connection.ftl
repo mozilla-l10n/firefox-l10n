@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+connection-window =
+    .title = Ke´i conexión
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
 connection-close-key =
     .key = W
 connection-proxy-option-no =
@@ -37,4 +44,15 @@ connection-proxy-noproxy-desc = Kua: .mozilla.org, .net.nz, 192.168.1.0/24
 connection-proxy-reload =
     .label = Nachu'un tuku
     .accesskey = e
+connection-proxy-socks-remote-dns =
+    .label = Proxy DNS saa ni´inu SOCKS v5
+    .accesskey = D
+connection-dns-over-https =
+    .label = Tee DNS jii HTTPS
+    .accesskey = T
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Predeterminado)
+    .tooltiptext = Ni´i URL predeterminado jee nasa´a DNS jii HTTPS
 connection-dns-over-https-custom-label = Personalizado
