@@ -855,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "اس ویب سائٹ میں مواد شامل ہے جو کے قابل بھروسا نہیں ہے (جیسے کے نوشتے) اور اس کے ساتھ آپ کی کنکشن قابل بھروسا نہیں ہے۔">
 <!ENTITY identity.description.activeLoaded2 "وہ معلومات جو آپ اس سائٹ کے ساتھ شیئر کرتے ہیں وہ دیگر لوگ دیکھ سکیں گے (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ)۔">
 
-<!ENTITY identity.enableMixedContentBlocking.label "حفاظت اہل بنائیں">
+<!ENTITY identity.enableMixedContentBlocking.label "تحفظ فعال کریں">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "ابھی کے لئے حفاظت کو نا اہل بنائیں">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
