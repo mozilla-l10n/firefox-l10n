@@ -298,7 +298,7 @@
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
 
-<!ENTITY pref_tracking_protection_enabled "اہل بنایا گیا">
+<!ENTITY pref_tracking_protection_enabled "فعال شدہ">
 <!ENTITY pref_tracking_protection_enabled_pb "نجی براؤزنگ میں اہل کردہ">
 <!ENTITY pref_tracking_protection_disabled "نا اہل بنائیں">
 
@@ -683,6 +683,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "آواز چنیں یا ریکارڈ کریں">
 <!ENTITY filepicker_image_title "تصویر چنیں یا ریکارڈ کریں">
 <!ENTITY filepicker_video_title "وڈیو چنیں یا ریکارڈ کریں">
+<!ENTITY filepicker_permission_denied "درکار اجازتیں نہیں دی گئی، سسٹم فائل چننے والے پر واپس لوٹ رہا ہے۔">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "آپ جڑیں ہوئے ہیں بر">
@@ -716,7 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "اور سیکھیں">
-<!ENTITY enable_protection "حفاظت اہل بنائیں">
+<!ENTITY enable_protection "تحفظ فعال کریں">
 <!ENTITY disable_protection "حفاظت نا اہل بنائیں">
 
 <!ENTITY private_data_success "نجی کوائف ہٹا دیئے گئے">
@@ -886,6 +887,7 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 <!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "آپکا بلکل نیا Firefox، 2020 میں آ رہا ہے">
 
 <!ENTITY activity_stream_topsites "بہترین سائٹیں">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
