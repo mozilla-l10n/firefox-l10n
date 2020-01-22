@@ -45,9 +45,6 @@ newtab-topsites-save-button = Guardar
 newtab-topsites-preview-button = Vista previa
 newtab-topsites-add-button = Agregar
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = ¿Estás seguro de que quieres eliminar de tu historial todas las instancias de esta página?
@@ -93,18 +90,15 @@ newtab-privacy-modal-paragraph =
     Además de ofrecer historias cautivadoras, también te mostramos información relevante,
     contenido altamente revisado de patrocinadores seleccionados. No te preocupes, la seguridad de los datos de su navegación
      nunca dejan su copia personal de { -brand-product-name }: no la vemos y nuestros patrocinadores tampoco.
+newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, te mostramos contenido relevante y muy revisado de patrocinadores seleccionados. No te preocupes, <strong>tus datos de navegación jamás dejan una copia personal de { -brand-product-name }</strong> — nosotros los vemos, y tampoco lo hacen nuestros patrocinadores.
 newtab-privacy-modal-link = Conoce cómo tu privacidad trabaja en la nueva pestaña
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Eliminar marcador
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marcador
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -134,10 +128,6 @@ newtab-label-removed-bookmark = Marcador eliminado
 newtab-label-recommended = Tendencias
 newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargado
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -190,7 +180,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Casi cargamos esta 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-more-recommendations = Más recomendaciones
-newtab-pocket-how-it-works = Cómo funciona
+newtab-pocket-whats-pocket = ¿Qué es { -pocket-brand-name }?
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarda las historias que quieras en { -pocket-brand-name } y llena tu mente con fascinantes lecturas.
 

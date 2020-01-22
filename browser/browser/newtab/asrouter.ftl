@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extensión recomendada
 cfr-doorhanger-feature-heading = Característica recomendada
 cfr-doorhanger-pintab-heading = Intenta esto: Fijar pestaña
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Por qué estoy viendo esto?
@@ -121,6 +121,33 @@ cfr-whatsnew-lockwise-take-body =
     La aplicación móvil { -lockwise-brand-short-name } te permite acceder de forma segura a tus
     copias de seguridad de las contraseñas desde cualquier lugar.
 cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Mira videos mientras navegas
+cfr-whatsnew-pip-body = La función picture-in-picture muestra el video en una ventana flotante para que puedas verlo mientras trabajas en otras pestañas.
+cfr-whatsnew-pip-cta = Saber más
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Reduce molestas ventanas emergentes
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ahora bloquea los sitios para que no soliciten automáticamente el envío de mensajes emergentes.
+cfr-whatsnew-permission-prompt-cta = Saber más
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Detector de huellas digitales bloqueado
+       *[other] Detectores de huellas digitales bloqueados
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloquea muchos detectores de huellas digitales (fingerprinters) que recopilan en secreto información sobre tu dispositivo y acciones, para crear un perfil tuyo con fines publicitarios.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede bloquear muchos detectores de huellas digitales (fingerprinters) que recopilan en secreto información sobre tu dispositivo y acciones, para crear un perfil tuyo con fines publicitarios.
 
 ## Bookmark Sync
 
