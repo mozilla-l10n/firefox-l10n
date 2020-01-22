@@ -118,6 +118,8 @@ cfr-whatsnew-permission-prompt-cta = Көбірек білу
 
 ## Fingerprinter Counter
 
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Баспаны жинаушылар
 
 ## Bookmark Sync
 
