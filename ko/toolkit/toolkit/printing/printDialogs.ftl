@@ -78,7 +78,7 @@ footer-center-tip =
 footer-right-tip =
     .tooltiptext = 오른쪽 바닥글
 hf-blank =
-    .label = -- 공백 --
+    .label = --공백--
 hf-title =
     .label = 제목
 hf-url =
@@ -100,7 +100,7 @@ print-preparing =
 print-progress =
     .value = 진행 상태:
 print-window =
-    .title = 인쇄 중…
+    .title = 인쇄 중
 print-complete =
     .value = 인쇄가 완료되었습니다.
 # Variables
