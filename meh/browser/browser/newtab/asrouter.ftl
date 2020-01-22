@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-description = Kivu ñama nuu daa sitios jikanuka. Kua´a d
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Kuaxin jii bóton derecho</b> nuu pestaña kuvinu kino.
+cfr-doorhanger-pintab-step1 = <b>Kuaxin jii bóton kuá´á</b> nuu pestaña kuvinu kino.
 cfr-doorhanger-pintab-step2 = Kaji <b> Kino pestaña</b> nuu menú.
 cfr-doorhanger-pintab-step3 = Dee íyo iin a jíía, kutuvi iin a kuvi teku lee nuu pestaña nee.
 cfr-doorhanger-pintab-animation-pause = Siankuiñu

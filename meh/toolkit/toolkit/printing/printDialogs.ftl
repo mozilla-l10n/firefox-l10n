@@ -6,6 +6,17 @@ scale-percent =
     .value = %
 options-group-label =
     .value = Kaji
+margin-left =
+    .value = Satí
+    .accesskey = I
+margin-left-invisible =
+    .value = Satí:
+hf-left-label =
+    .value = Satí:
+header-left-tip =
+    .tooltiptext = Xini satí
+footer-left-tip =
+    .tooltiptext = Jie´e satí
 hf-blank =
     .label = --nada--
 # Variables

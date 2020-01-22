@@ -16,6 +16,15 @@ dialog-title =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Rango tiempu saa xita:{ " " }
+    .accesskey = R
+clear-time-duration-value-last-hour =
+    .label = Nɨ´ɨ hora
+clear-time-duration-value-last-2-hours =
+    .label = Daa nɨ´ɨ uvi hora
+clear-time-duration-value-last-4-hours =
+    .label = Daa nɨ´ɨ kumi hora
 clear-time-duration-value-today =
     .label = Ki̱vɨ̱ vitá
 clear-time-duration-value-everything =
