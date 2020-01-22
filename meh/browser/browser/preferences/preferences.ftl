@@ -278,6 +278,11 @@ home-prefs-highlights-option-most-recent-download =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Fragmentos
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+           *[other] { $num } fila
+        }
 
 ## Search Section
 
@@ -286,6 +291,7 @@ search-bar-hidden =
     .label = Ni´i barra daa nuu nánuku jii kaka
 search-bar-shown =
     .label = Tee barra nánuku nuu barra daa ka̱a̱
+search-engine-default-header = Ka̱a̱ nánuku kua vaji
 search-choose-engine-column =
     .label = Ka̱a̱ nánuku
 search-choose-keyword-column =
@@ -354,6 +360,7 @@ sync-sign-in =
 
 sync-currently-syncing-bookmarks = A ta´a ini noo´o
 sync-currently-syncing-tabs = Síne pestañas
+sync-currently-syncing-logins-passwords = Daa nuu kajie´e sesión jii contraseñas
 sync-currently-syncing-addresses = Daa nuu
 sync-currently-syncing-addons = Ka̱a̱ chunta´an
 sync-change-options =
@@ -368,6 +375,10 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Sɨ´ɨ
     .accesskey = r
+sync-engine-tabs =
+    .label = Síne pestañas
+    .tooltiptext = iin lista nakuvi nune nuu kuaiyo daa ka̱a̱ sincronizados
+    .accesskey = t
 sync-engine-logins =
     .label = Nuu kajie´e sesión
     .tooltiptext = Sivɨ jii contraseñas nchuva´anu
@@ -547,9 +558,11 @@ permissions-location = Nuu iñɨnu
 permissions-location-settings =
     .label = Ke´i...
     .accesskey = K
+permissions-xr = Realidad virtual
 permissions-xr-settings =
     .label = Daa ke´i...
     .accesskey = t
+permissions-camera = Ka̱a̱ natava
 permissions-camera-settings =
     .label = Ke´i
     .accesskey = K

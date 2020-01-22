@@ -35,6 +35,8 @@ permissions-button-ok =
 permissions-autoplay-menu = Kua vají nuu kuaiyo nuu web:
 permissions-searchbox =
     .placeholder = Nánuku nuu Web
+permissions-capabilities-autoplay-allow =
+    .label = Kuvi koo nasun jii tutu kana
 permissions-capabilities-autoplay-block =
     .label = Kasɨ audio
 permissions-capabilities-autoplay-blockall =
@@ -83,6 +85,9 @@ permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu daa si
 
 
 ## Site Permissions - Location
+
+
+## Site Permissions - Virtual Reality
 
 
 ## Site Permissions - Camera

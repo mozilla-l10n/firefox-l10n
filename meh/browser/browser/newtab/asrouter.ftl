@@ -122,6 +122,8 @@ cfr-doorhanger-send-tab-ok-button = Ni´í Send Tab
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = Ni´i { -send-brand-name }
+    .accesskey = T
 
 ## Social Tracking Protection
 

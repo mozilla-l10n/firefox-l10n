@@ -43,6 +43,7 @@ login-list-count =
     { $count ->
        *[other] { $count }Nuu kajie´e sesión
     }
+login-list-sort-label-text = Naka̱ji:
 login-list-name-option = Sivɨ (A-Z)
 login-list-breached-option = Nuu Web ntu vatu
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama

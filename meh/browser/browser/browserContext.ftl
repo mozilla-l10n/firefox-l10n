@@ -41,6 +41,9 @@ toolbar-button-reload =
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Siankuiñi
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -183,6 +186,9 @@ main-context-menu-image-copy-location =
     .accesskey = o
 main-context-menu-video-copy-location =
     .label = Tɨɨn nuu tutu kana
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = Tɨɨn nuu nasun
     .accesskey = o
 main-context-menu-image-save-as =
     .label = Chuva´a tutu nátava kua…
