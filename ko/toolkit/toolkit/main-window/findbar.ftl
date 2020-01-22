@@ -6,9 +6,9 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = 문구의 다음 항목을 찾습니다
+    .tooltiptext = 다음 찾기
 findbar-previous =
-    .tooltiptext = 문구의 이전 항목을 찾습니다
+    .tooltiptext = 이전 찾기
 findbar-find-button-close =
     .tooltiptext = 찾기 표시줄 닫기
 findbar-highlight-all2 =
