@@ -26,5 +26,15 @@ about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu�
 content-blocking-title = Nakasɨ contenido
 content-blocking-description = Iyo daa nuu Web ni´ida ka̱a̱ nita noo´o nuu Internet. Nuu daa ventana yu´u { -brand-short-name } a chiyu´u tu´un { -brand-short-name } ka̱a̱ chiyu´u nakasɨ daa ka̱a̱ nita a sá´á noo´o nuu Internet.
 about-private-browsing-info-description = { -brand-short-name } xita a nnánukunu a nsá´ánu saa kenenu nuu ka̱a̱ a xiin nakasɨnu kuaiyo daa pestaña jíí ventana nánuku yu´u . Ya´a ntu taji a noo´o nánuku yu´u nuu Web jii nuu ñɨvu tatu Internet, ya´a sá´á kumi a nánukunu nuu inka ñɨvu ni´i ka̱a̱ tee nɨnuu ya´a.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } kuvi ka̱a̱ nánuku vaji nuu daa ventana yu´u
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Saa kuvi kaji inka ka̱a̱, kua´an <a data-l10n-name="link-options">Kaji</a>
+       *[other] Saa kuvi kaji inka ka̱a̱, kua´an <a data-l10n-name="link-options">Kaji</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasɨ
