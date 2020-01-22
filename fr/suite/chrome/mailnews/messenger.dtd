@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Messages suivis">
 <!ENTITY selectFlaggedCmd.accesskey "u">
+<!ENTITY menuFavoriteFolder.label "Dossier préféré">
+<!ENTITY menuFavoriteFolder.accesskey "p">
 <!ENTITY folderPropsCmd.label "Propriétés du dossier">
 <!ENTITY folderPropsFolderCmd.label "Propriétés du dossier…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriétés du groupe…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Message coché">
 <!ENTITY prevFlaggedMsgCmd.accesskey "c">
+<!ENTITY folderMenu.label "Dossier">
+<!ENTITY folderMenu.accesskey "o">
 <!ENTITY startPageCmd.label "Page de démarrage du Courrier">
 <!ENTITY startPageCmd.accesskey "g">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Propriétés…">
 <!ENTITY folderContextProperties.accesskey "o">
+<!ENTITY folderContextFavoriteFolder.label "Dossier préféré">
+<!ENTITY folderContextFavoriteFolder.accesskey "p">
 <!ENTITY folderContextSettings.label "Paramètres…">
 <!ENTITY folderContextSettings.accesskey "a">
 
