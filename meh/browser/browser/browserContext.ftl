@@ -51,11 +51,41 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Chuva´a kua...
+    .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Tee página ya´a nuu a ta´an ini noo´o
+    .accesskey = m
+main-context-menu-open-link =
+    .label = Síne enlace
+    .accesskey = A
+main-context-menu-open-link-new-tab =
+    .label = Síne enlace nuu iin pestaña jíía
+    .accesskey = p
+main-context-menu-open-link-container-tab =
+    .label = Síne enlace nuu a jíía pestaña contenedora
+    .accesskey = C
+main-context-menu-open-link-new-window =
+    .label = Sikune enlace nuu ventana jíía
+    .accesskey = v
+main-context-menu-open-link-new-private-window =
+    .label = Sikune enlace nuu ventana jíía yu´u
+    .accesskey = p
+main-context-menu-bookmark-this-link =
+    .label = Tee enlace ya´a nuu a ta´an ini noo´o
+    .accesskey = l
+main-context-menu-save-link =
+    .label = Chuva´a vínculo kua...
+    .accesskey = G
+main-context-menu-save-link-to-pocket =
+    .label = Chuva´a enlace nuu { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
