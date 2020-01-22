@@ -14,7 +14,9 @@
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Naka̱ji A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Naka̱ji Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.accesskey "I">

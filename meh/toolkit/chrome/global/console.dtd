@@ -10,7 +10,9 @@
 <!ENTITY copyCmd.label       "Tɨɨn">  
  
  
+<!ENTITY sortFirst.label     "Naka̱ji xinañu´u > nɨ´ɨ">
 <!ENTITY sortFirst.accesskey "p">
+<!ENTITY sortLast.label      "Naka̱ji nɨ´ɨ > xinañu´u">
 <!ENTITY sortLast.accesskey  "I">
   
   
