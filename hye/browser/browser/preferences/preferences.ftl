@@ -162,9 +162,41 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Միացնել պարունակ ներդիրները
     .accesskey = ի
+browser-containers-learn-more = Իմանալ ավելին
+browser-containers-settings =
+    .label = Կարգաւորումներ...
+    .accesskey = ր
+containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Եթե անջատեք Պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կփակվի: Համոզվա՞ծ եք, որ ցանկանում եք անջատել Պարունակի ներդիրը
+       *[other] Եթե անջատեք Պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կփակվի: Համոզվա՞ծ եք, որ ցանկանում եք անջատել Պարունակի ներդիրները:
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Փակել { $tabCount } Պարունակի ներդիրը
+       *[other] { $tabCount } Պարունակի ներդիրները
+    }
+containers-disable-alert-cancel-button = Պահել միացուած
+containers-remove-alert-title = Հեռացնե՞լ այս Պարունակը:
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Եթե հեռացնեք Պարունակը հիմա՝ { $count } պարունակի ներդիր կփակվի: Համոզվա՞ծ եք:
+       *[other] Եթե հեռացնեք Պարունակը հիմա՝ { $count } պարունակի ներդիրներ կփակվեն: Համոզվա՞ծ եք:
+    }
+containers-remove-ok-button = Հեռացնել այս Պարունակը
+containers-remove-cancel-button = Չհեռացնել այս Պարունակը
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Լեզուն եւ տեսքը
+fonts-and-colors-header = Տառատեսակները եւ Գոյները
+default-font = Հիմնական տառատեսակը
+    .accesskey = Հ
+default-font-size = Չափը
+    .accesskey = Չ
 
 ## General Section - Files and Applications
 
