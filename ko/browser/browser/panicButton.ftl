@@ -11,7 +11,7 @@ panic-button-forget-button =
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
-panic-main-timeframe-desc = 지난 시간을 삭제합니다:
+panic-main-timeframe-desc = 삭제할 최근 기간:
 panic-button-5min =
     .label = 5분
 panic-button-2hr =
@@ -25,7 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
-panic-button-action-desc = 다음을 진행합니다:
+panic-button-action-desc = 진행할 작업:
 panic-button-delete-cookies = 최근 <strong>쿠키</strong> 삭제
 panic-button-delete-history = 최근 <strong>방문기록</strong> 삭제
 panic-button-delete-tabs-and-windows = 모든 <strong>탭</strong>과 <strong>창</strong> 닫기

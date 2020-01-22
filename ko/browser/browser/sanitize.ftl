@@ -60,9 +60,9 @@ item-cache =
 item-form-search-history =
     .label = 폼 입력 및 검색 기록
     .accesskey = F
-data-section-label = 자료
+data-section-label = 데이터
 item-site-preferences =
-    .label = 웹 사이트 설정
+    .label = 사이트 설정
     .accesskey = S
 item-offline-apps =
     .label = 오프라인 웹 데이터
@@ -75,7 +75,7 @@ sanitize-button-ok =
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
-    .label = 삭제하고 있음
+    .label = 삭제 중
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
@@ -83,4 +83,4 @@ sanitize-everything-warning = 모든 방문 기록이 삭제됩니다.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = 선택 항목의 방문 기록이 삭제됩니다.
+sanitize-selected-warning = 모든 선택 항목이 삭제됩니다.
