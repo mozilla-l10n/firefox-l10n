@@ -56,6 +56,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Abrir panel de mensajes
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Abrir panel de solicitud de ubicación
+urlbar-xr-notification-anchor =
+    .tooltiptext = Abrir el panel de permisos de realidad virtual
 urlbar-storage-access-anchor =
     .tooltiptext = Abrir el panel de permisos de actividad de navegación
 urlbar-translate-notification-anchor =
@@ -80,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de instalación de complementos
 urlbar-tip-help-icon =
     .title = Obtener ayuda
+urlbar-search-tips-confirm = De acuerdo, lo entiendo
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -93,6 +96,8 @@ urlbar-search-tips-redirect = Empieza tu búsqueda aquí para ver sugerencias de
 
 urlbar-geolocation-blocked =
     .tooltiptext = Está bloqueada tu información de ubicación para este sitio web.
+urlbar-xr-blocked =
+    .tooltiptext = Bloqueaste el acceso de dispositivos de realidad virtual para este sitio web.
 urlbar-web-notifications-blocked =
     .tooltiptext = Están bloqueadas las notificaciones para este sitio web.
 urlbar-camera-blocked =
