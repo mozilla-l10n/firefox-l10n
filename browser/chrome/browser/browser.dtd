@@ -173,6 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Llogari">
 <!ENTITY fxa.menu.settings.label "Rregullime">
 <!ENTITY fxa.menu.accountSettings.label "Rregullime Llogarie">
+<!ENTITY fxa.menu.manageAccount2.label "Administroni Llogarinë">
 <!ENTITY fxa.menu.signOut.label "Dilni…">
 <!ENTITY fxa.menu.deviceSettings.label "Rregullime Pajisjeje">
 <!ENTITY fxa.menu.setupSync.label "Ujdisni &syncBrand.shortName.label;…">
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Ndale">
 <!ENTITY stopCmd.accesskey            "N">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve">
 <!ENTITY printButton.label            "Shtype">
@@ -275,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administroni përdorim software-i DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Hapni panel MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "I keni akorduar leje shtesë këtij sajti.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.">
@@ -289,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ia keni bllokuar këtij sajti përdorimin e shtojcës Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "E keni bllokuar hyrjen MIDI për këtë sajt.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ia keni bllokuar këtij sajti instalimin e shtesave.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "I keni akorduar leje shtesë këtij sajti.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaqni historikun">
@@ -579,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "P">
 
 <!ENTITY openLinkCmdInTab.label       "Hape Lidhjen në Skedë të Re">
+
 <!ENTITY openLinkCmdInTab.accesskey   "S">
 <!ENTITY openLinkCmd.label            "Hape Lidhjen në Dritare të Re">
 <!ENTITY openLinkCmd.accesskey        "D">
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Shfaq Vetëm Këtë Kuadër">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ringarkoje Kuadrin">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -644,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
 <!ENTITY savePageCmd.accesskey        "R">
 <!ENTITY savePageCmd.accesskey2       "S">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Ruajeni Kuadrin Si…">
 <!ENTITY saveFrameCmd.accesskey       "i">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "F">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Këmbe Drejtim Teksti">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Gjeni në Këtë Faqe…">

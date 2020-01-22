@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Ngjyra…
     .accesskey = y
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom parazgjedhje
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zoom vetëm për tekst
+    .accesskey = t
 language-header = Gjuhë
 choose-language-description = Zgjidhni gjuhën tuaj të parapëlqyer për shfaqje faqesh
 choose-button =
@@ -316,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Lëndën nën Digital Rights Management (DRM)
 play-drm-content =
@@ -909,7 +918,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vetjak
     .accesskey = V
 
-
+##
 
 content-blocking-etp-standard-desc = I baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
 content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktojë mosfunksionim për disa sajte apo lëndë.
