@@ -52,9 +52,19 @@ category-sync2 =
     .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ եւ Ոճեր
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Փակել
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Այս հնարաւորութիւնը միացնելու համար վերաբացեք { -brand-short-name }-ը:
+feature-disable-requires-restart = Այս հնարաւորութիւնը անջատելու համար վերաբացեք { -brand-short-name }-ը:
+should-restart-title = Վերամեկնարկել { -brand-short-name }-ը
+should-restart-ok = Վերամեկնարկել { -brand-short-name }-ը
+cancel-no-restart-button = Չեղարկել
+restart-later = Վերամեկնարկել յետոյ
 
 ## Extension Control Notifications
 ##
@@ -66,6 +76,24 @@ addons-button-label = Ընդլայնումներ եւ Ոճեր
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկաւարում է ձեր տնային էջը:
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկաւարում է ձեր նոր ներդիր էջը:
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name } ընդլայնումը կառաւարում է այս կարգաւորումը:
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } ընդլայնումը կայել է ձեր հիմնական որոնիչը:
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Ընդլայնում, <img data-l10n-name="icon"/> { $name }-ը, պահանջում է Պարունակի ներդիրներ:
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name }-ի ընդլայնումը կառաւարում է այս կարգաւորումը։
 
 ## Preferences UI Search Results
 
