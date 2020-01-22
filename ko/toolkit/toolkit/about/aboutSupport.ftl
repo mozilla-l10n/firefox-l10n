@@ -115,7 +115,7 @@ sandbox-sys-call-proc-type = 프로세스 타입
 sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
 safe-mode-title = 안전 모드 시도
-restart-in-safe-mode-label = 부가기능을 비활성화하고 다시 시작…
+restart-in-safe-mode-label = 부가기능을 끄고 다시 시작…
 
 ## Media titles
 
