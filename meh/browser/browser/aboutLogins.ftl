@@ -105,6 +105,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ¿Kuvinu kune´yanu nuu kajie´e sesión noo´o ntaka nuu ni´inu { -brand-product-name }?Síne Kaji { -sync-brand-short-name } jee kaji kajun nuu kajie´e sesión.
+       *[other] ¿Kuvinu kune´yanu nuu kajie´e sesión noo´o ntaka nuu ni´inu { -brand-product-name }?Síne Kaji { -sync-brand-short-name } jee kaji kajun nuu kajie´e sesión.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -130,11 +135,17 @@ confirm-discard-changes-dialog-confirm-button = Xita
 
 ## Breach Alert notification
 
+breach-alert-text = Ntava yu´uda contraseñas a xiin nsakui´inada nuu web ya´a nuu nɨ ´ɨ ichi nnaxi´ñanu datos nuu kajie´e sesión. Sama contraseña noo´o saa kuvi koo va´a cuenta.
 breach-alert-link = Ka´vi kue´eka jiee filtración.
 breach-alert-dismiss =
     .title = Kasɨ tu´un
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = A íyo iin nkivɨ nuu { $loginTitle } jii sivɨ ñivɨ. <a data-l10n-name="duplicate-link"> ¿Kuvinu kɨ ´ɨnɨ yukuan?</a>
 # This is a generic error message.
 about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contraseña ya´a.
