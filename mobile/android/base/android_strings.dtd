@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Bllokojini figurat, që të harxhoni më pak të dhëna, në çdo sajt që vizitoni.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Njëkohësoni faqerojtësit, historikun dhe fjalëkalimet te telefoni juaj.">
-<!ENTITY updatednewfirstrun_sync_title "Llogari">
-<!ENTITY firstrun_sync_message2 "Vazhdoni atje ku e latë.">
 <!ENTITY firstrun_sync_subtext2 "Përdoreni Sync-un që të gjeni faqerojtës, fjalëkalime dhe të tjera gjëra që ruani në &brandShortName; në krejt pajisjet tuaja.">
 <!ENTITY newfirstrun_sync_subtext "Njëkohësoni te Firefox-i për desktop gjëra që ruani në celular, privatisht dhe në mënyrë të parrezik.">
 <!ENTITY firstrun_sendtab_title "Dërgoje Skedën">
 <!ENTITY firstrun_sendtab_message "Ndani skeda me të tjerë nga celulari në desktop — aty për aty.">
-<!ENTITY updatednewfirstrun_sync_subtext "Bëni hyrjen në llogarinë tuaj që të përfitoni maksimumin prej &brandShortName;-it">
 <!ENTITY firstrun_signin_message "Lidhuni, fillojani">
-<!ENTITY firstrun_signin_button "Bëni hyrjen, që të Njëkohësohet">
-<!ENTITY newfirstrun_signin_button "Aktivizo Sync-un">
-<!ENTITY updatednewfirstrun_signin_button "Bëni hyrjen te &brandShortName;-in">
-<!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
+<!ENTITY onboard_start_button_browser "Filloni të Shfletoni">
 <!ENTITY firstrun_button_notnow "Jo tani">
 <!ENTITY firstrun_button_next "Pasuesi">
 <!ENTITY firstrun_signup_button "Regjistrohuni">
-
-<!ENTITY firstrun_signin_button2 "Hyni">
 
 <!ENTITY firstrun_tabqueue_title "Lidhje">
 
@@ -883,7 +875,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Faqeruani objekte Reader View, që t’i lexoni edhe pa internet.">
 <!ENTITY helper_triple_readerview_open_button "Shtoje te Faqerojtësit">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Mirë se vini te &brandShortName;-i">
 <!ENTITY activity_stream_signin_description "Filloni të njëkohësoni faqerojtës, fjalëkalime, etj me llogarinë tuaj Firefox.">
@@ -892,7 +885,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Hyni.">
 
-<!ENTITY activity_stream_signin_button "Hyni">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Firefox-i juaj fringo i ri, që mbërrin më 2020">
+<!ENTITY activity_stream_firefox_promo_description "Së afërmi: Punim i përmirësuar. Mbrojtje e thelluar nga gjurmimi. Dhe veçori të konceptuara për t’ju ndihmuar të gjeni, ruani dhe ndani me të tjerë më tepër nga ato çka ju pëlqejnë në internet.">
+<!ENTITY activity_stream_firefox_promo_button "Hidhini një sy vjedhurazi">
 
 <!ENTITY activity_stream_topsites "Sajte Kryesues">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
