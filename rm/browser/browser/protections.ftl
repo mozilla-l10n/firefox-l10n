@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> fastizader bloccà dapi { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> fastizaders bloccads dapi { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } cuntinuescha a bloccar fastizaders en fanestras privatas ma na registrescha betg tge ch'è vegnì bloccà.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Fastizaders che { -brand-short-name } ha bloccà questa emna
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Acceder a las preferenzas da sync
-manage-devices = Administrar ils apparats
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Sincronisaziun cun { $count } auter apparat
-       *[other] Sincronisaziun cun { $count } auters apparats
-    }
-lockwise-sync-not-syncing-devices = Nagina sincronisaziun cun auters apparats
 manage-connected-devices = Administrar ils apparats…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.

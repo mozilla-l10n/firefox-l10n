@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Avrir la panela d'installaziun da supplements
 urlbar-tip-help-icon =
     .title = Ir per agid
+urlbar-search-tips-confirm = Ok, chapì
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
