@@ -90,9 +90,13 @@ newtab-privacy-modal-paragraph =
     Man xa xe ta jeb'ël taq b'anob'äl yeqak'üt, chuqa' yeqak'üt nïm taq etamab'äl.
     nik'on ri rupam kuma ri yeto'on qichin. Man kamayon, ri rujikomal rutzij awokem pa k'amaya'l
      majub'ey nuya' kan jun ruwachib'al { -brand-product-name } — man niqatz'ët ta, nita ri yojto'o qichin.
+newtab-privacy-modal-paragraph-2 =
+    Man xa xe ta jeb'ël taq b'anob'äl yeqak'üt, chuqa' yeqak'üt nïm taq etamab'äl.
+    nik'on ri rupam kuma ri yeto'on qichin. Man kamayon, <strong>ri rujikomal rutzij awokem pa k'amaya'l
+     majub'ey nuya' kan jun ruwachib'al { -brand-product-name }</strong> — man niqatz'ët ta, nita ri yojto'o qichin.
 newtab-privacy-modal-link = Tawetamaj rub'eyal nisamäj ri ichinanem pa ri k'ak'a' ruwi'
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Tiyuj el ri yaketal
@@ -179,7 +183,6 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Nima'q taq Na'oj:
 newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
-newtab-pocket-how-it-works = Achike rub'eyal nisamäj
 newtab-pocket-whats-pocket = ¿Achike ri { -pocket-brand-name }?
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.

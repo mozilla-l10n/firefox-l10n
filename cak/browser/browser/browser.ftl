@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Tijaq tz'aqat pa rupas tzijol richin niyak
 urlbar-tip-help-icon =
     .title = Tak'ulu' ato'ik
+urlbar-search-tips-confirm = Ütz, Xq'ax pa nuwi'
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

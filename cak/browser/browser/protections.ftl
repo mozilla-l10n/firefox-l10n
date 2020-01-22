@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> ojqanel q'aton chik pe pa { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> ojqanela' eq'aton chik pe pa { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } k'a yeruq'atala' rojqanela' Ichinan Tzuwäch, po man yeruyäk ri kitz'ib'axik ri xeq'at.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Ojqanela' { -brand-short-name } xeq'at re wuqq'ij re'
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Titzij { -sync-brand-short-name }...
     .title = B'enam pa kajowab'al ximoj
-manage-devices = Kenuk'samajïx taq okisab'äl
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Nixim rik'in { $count } chik okisab'äl
-       *[other] Nixim rik'in { $count } ch'aqa' chik okisab'äl
-    }
-lockwise-sync-not-syncing-devices = Man nixim ta kik'in ch'aqa' chik ta okisab'äl.
 manage-connected-devices = Kenuk'samajïx taq okisaxel…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
