@@ -24,7 +24,7 @@ general-title =
 general-url =
     .value = 주소:
 general-type =
-    .value = 형식:
+    .value = 유형:
 general-mode =
     .value = 렌더링 방식:
 general-size =
@@ -139,15 +139,15 @@ saved-passwords-no = 없음
 no-page-title =
     .value = 페이지 제목 없음:
 general-quirks-mode =
-    .value = 비표준 모드
+    .value = 쿼크 모드
 general-strict-mode =
     .value = 표준 호환 모드
-security-no-owner = 현재 웹 사이트는 소유자 정보를 제공하지 않고 있습니다.
+security-no-owner = 현재 웹 사이트는 소유권 정보를 제공하고 있지 않습니다.
 page-info-security-no-owner =
-    .value = 현재 웹 사이트는 소유자 정보를 제공하지 않고 있습니다.
+    .value = 현재 웹 사이트는 소유권 정보를 제공하고 있지 않습니다.
 media-select-folder = 이미지를 저장할 폴더 선택
 media-unknown-not-cached =
-    .value = 알 수 없음(캐싱 안 함)
+    .value = 알 수 없음 (캐시되지 않음)
 permissions-use-default =
     .label = 기본 설정 사용
 security-no-visits = 없음
@@ -167,7 +167,7 @@ general-meta-tags =
 security-visits-number =
     { $visits ->
         [0] 아니오
-       *[other] 예, { $visits }회
+       *[other] 네, { $visits }회
     }
 # This string is used to display the size of a media file
 # Variables:
@@ -193,7 +193,7 @@ media-animated-image-type =
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
-    .value = { $type } 형식
+    .value = { $type } 이미지
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
