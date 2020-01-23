@@ -59,6 +59,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } صارف
        *[other] { $total } صارفین
     }
+cfr-doorhanger-pintab-description = اپنی سب سے زیادہ استعمال شدہ سائٹس تک آسانی سے رسائی حاصل کریں۔ سائٹس کو ٹیب میں کھلا رکھیں (یہاں تک کہ جب آپ دوبارہ شروع کریں)۔
 
 ## These messages are steps on how to use the feature and are shown together.
 

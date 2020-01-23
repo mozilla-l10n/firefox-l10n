@@ -8,4 +8,5 @@ fxa-toolbar-sync-syncing-tabs =
     .label = ٹیبز کی ہمہ وقت سازی ہو رہی ہے…
 sync-disconnect-dialog-title = { -sync-brand-short-name } منقطع کریں
 fxa-disconnect-dialog-title = { -brand-product-name } کو منقطع کریں؟
+fxa-disconnect-dialog-body = { -brand-product-name } آپ کے اکاؤنٹ مقطع کر دے گا ، لیکن اس آلہ پر آپ براؤزنگ کوائف کو حذف  نہیں کریے گا۔
 sync-disconnect-dialog-button = منقطع کریں
