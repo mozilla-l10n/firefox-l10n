@@ -108,6 +108,7 @@ onboarding-browse-privately-button = نجی ونڈو میں کھولیں؟
 onboarding-firefox-send-title = اپنی مشترکہ امسال نجی رکھیں
 onboarding-firefox-send-button = { -send-brand-name }آزمائیں
 onboarding-mobile-phone-title = { -brand-product-name }  اپنے فون پر حاصل کریں
+onboarding-mobile-phone-text = iOS یا Android  کے لئے { -brand-product-name } ڈونلوڈ کریں اور تمام آلات پر ڈیٹا سنک کریں.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = موبائل براؤزر ڈاؤن لوڈ کریں
@@ -133,5 +134,10 @@ onboarding-import-browser-settings-button = chrome ڈیٹا درآمد کریں
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = بہت اچھا ، آپ کو { -brand-short-name } مل گیا ہے
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = چلیں آئیے آپ کو <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = اس توسیع شامل کریں
 return-to-amo-get-started-button = { -brand-short-name } کے ساتھ شروع کریں

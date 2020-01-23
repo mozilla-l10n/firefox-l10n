@@ -19,6 +19,7 @@ certificate-viewer-distribution-point = تقسیمی  نقتہ
 certificate-viewer-exponent = قوت
 certificate-viewer-location = موجودہ مقام
 certificate-viewer-method = طریقہ
+certificate-viewer-modulus = ماڈیولس
 certificate-viewer-name = نام
 certificate-viewer-not-after = کے بعد نہیں
 certificate-viewer-not-before = سے  پہلے نہیں
@@ -26,8 +27,10 @@ certificate-viewer-organization = تنظیم
 certificate-viewer-organizational-unit = تنظیمی یونٹ
 certificate-viewer-policy = پالیسی
 certificate-viewer-protocol = پروٹوکول
+certificate-viewer-public-value = عوامی قدر
 certificate-viewer-purposes = مقاصد
 certificate-viewer-required = درکار ہے
+certificate-viewer-state-province = ریاست / صوبہ
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = تسلسلی نمبر
@@ -39,6 +42,7 @@ certificate-viewer-subject-name = موضوع کا نام
 certificate-viewer-issuer-name = جاری کنندہ کا نام
 certificate-viewer-miscellaneous = متفرق
 certificate-viewer-basic-constraints = بنیادی رکاوٹیں
+certificate-viewer-key-usages = کلیدی استعمال
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ڈاؤن لوڈ
