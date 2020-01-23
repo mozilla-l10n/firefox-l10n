@@ -22,6 +22,7 @@ onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
 onboarding-welcome-body = آپ کو براؤزر مل گیا ہے۔ <br/> باقی { -brand-product-name } سے ملیں۔
 onboarding-welcome-learn-more = فوائد کے بارے میں مزید سیکھیں۔
 onboarding-welcome-modal-supercharge-body = اپنی رازداری کے تحفظ کو سپرچارج کریں۔
+onboarding-welcome-modal-privacy-body = آپ کو براؤزر مل گیا ہے۔ آئیے مزید رازداری تحفظات شامل کریں۔
 onboarding-welcome-modal-family-learn-more = مصنوعات کے { -brand-product-name } کے کنبہ کے بارے میں جانیں۔
 onboarding-welcome-form-header = یہاں سے شروع کرو
 onboarding-join-form-header = { -brand-product-name } میں شامل ہوِں۔

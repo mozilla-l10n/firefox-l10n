@@ -323,6 +323,7 @@ update-enable-search-update =
 update-pref-write-failure-title = لکھیں مے ناکام
 update-setting-write-failure-title = تازہ کاری کی ترجیحات کو محفوظ کرنے میں مسلہ ہے
 update-in-progress-title = اپ ڈیٹ جاری ہے
+update-in-progress-message = کیا آپ { -brand-short-name } کی تازہ کاری جاریرکھناچاھتے ہیں؟
 update-in-progress-ok-button = &رد کريں
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -467,6 +468,7 @@ search-bar-header = تلاش بار
 search-bar-shown =
     .label = سرچ بار کا ٹولبار مے ا ضافہ کریں۔
 search-engine-default-header = طےشدہ تلاش انجن
+search-engine-default-desc = پتے کی بار اور تلاش بار میں استعمال کرنے کیلئے طے شدہ تلاش انجن منتخب کریں۔
 search-separate-default-engine =
     .label = اس تلاش انجن کو نجی ونڈوز میں استعمال کریں
     .accesskey = U
@@ -573,6 +575,7 @@ sync-sign-in =
     .label = سائن ان کریں
     .accesskey = g
 sync-signedin-settings-header = ہمہ وقت ساز ترتیبات
+sync-signedin-settings-desc = { -brand-short-name } کا استعمال کرتے ہوئے اپنے آلات پر کیا سنکرونائز کرنا ہے اس کا انتخاب کریں۔
 
 ## Sync section - enabling or disabling sync.
 
@@ -588,6 +591,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = آپ فی الحال ان اشیاء کو سنک کر رہے ہیں:
 sync-currently-syncing-bookmarks = بک مارک
 sync-currently-syncing-history = سابقات
 sync-currently-syncing-tabs = ٹیب کھولیں
@@ -792,6 +796,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
+content-blocking-social-media-trackers = سماجی میڈیا ٹریکرز
 content-blocking-all-cookies = تمام کوکیاں
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
@@ -799,6 +804,7 @@ content-blocking-fingerprinters = فنگر پرنٹرز
 content-blocking-warning-title = دھیان دیں!
 content-blocking-learn-how = جانیں کہ کس طرح
 content-blocking-warning-learn-how = کیسے سیکھیں
+content-blocking-reload-description = آپ کو ان تبدیلیوں کو لاگو کرنے کے لئے اپنے ٹیب کو دوبارہ لوڈ کرنے کی ضرورت ہوگی۔
 content-blocking-reload-tabs-button =
     .label = تمام ٹیب پھر لوڈ کریں
     .accesskey = R
@@ -837,6 +843,7 @@ permissions-location = محل وقوع
 permissions-location-settings =
     .label = سیٹنگز…
     .accesskey = t
+permissions-xr = مجازی حقیقت
 permissions-xr-settings =
     .label = سیٹنگز…
     .accesskey = t
