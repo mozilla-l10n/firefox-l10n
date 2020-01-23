@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> gjurmues i bblokuar që prej { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> gjurmues të bblokuar që prej { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } vazhdon të bllokojë gjurmues në Dritare Private, por nuk mban ndonjë regjistër se ç’është bllokuar.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Gjurmues që { -brand-short-name } bllokoi këtë javë
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Aktivizoni { -sync-brand-short-name }…
     .title = Shkoni te parapëlqimet rreth njëkohësimit
-manage-devices = Administroni pajisje
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Po njëkohësohet te { $count } pajisje tjetër
-       *[other] Po njëkohësohet te { $count } pajisje të tjera
-    }
-lockwise-sync-not-syncing-devices = S’po njëkohësohet te pajisje të tjera
 manage-connected-devices = Administroni pajisje…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
