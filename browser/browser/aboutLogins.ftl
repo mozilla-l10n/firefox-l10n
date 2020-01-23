@@ -73,7 +73,6 @@ about-logins-intro-import = Nëse kredencialet tuaj për hyrje janë ruajtur në
 
 login-item-new-login-title = Krijoni Kredenciale të Reja Hyrjeje
 login-item-edit-button = Përpunoni
-login-item-delete-button = Fshije
 about-logins-login-item-remove-button = Hiqi
 login-item-origin-label = Adresë sajti
 login-item-origin =
@@ -88,6 +87,8 @@ login-item-password-reveal-checkbox-show =
     .title = Shfaqe fjalëkalimin
 login-item-password-reveal-checkbox-hide =
     .title = Fshihe fjalëkalimin
+login-item-password-reveal-checkbox =
+    .aria-label = Shfaqe fjalëkalimin
 login-item-copy-password-button-text = Kopjoje
 login-item-copied-password-button-text = U kopjua!
 login-item-save-changes-button = Ruaji Ndryshimet
@@ -118,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] Vizitoni Parapëlqime { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Të fshihen këto kredenciale hyrjeje?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Mos më pyet më
     .accesskey = M
@@ -130,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = Anulim
 about-logins-confirm-remove-dialog-title = Të hiqen këto kredenciale hyrjesh?
 confirm-delete-dialog-message = Ky veprim s’mund të zhbëhet.
-confirm-delete-dialog-confirm-button = Fshije
 about-logins-confirm-remove-dialog-confirm-button = Hiqi
 confirm-discard-changes-dialog-title = Të hidhen tej këto ndryshime?
 confirm-discard-changes-dialog-message = Do të humbin krejt ndryshimet e paruajtura.
