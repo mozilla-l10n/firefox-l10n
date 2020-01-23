@@ -672,9 +672,54 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Անջատուած…
     .buttonaccesskeyextra2 = D
+sync-engine-bookmarks =
+    .label = Էջանիշերը
+    .accesskey = ն
+sync-engine-history =
+    .label = Պատմութիւնը
+    .accesskey = թ
+sync-engine-tabs =
+    .label = Բացել ներդիրներ
+    .tooltiptext = Համաժամեցուած բոլոր սարքերում բացուածների ցանկը
+    .accesskey = T
+sync-engine-logins =
+    .label = Մուտքագրումներ
+    .tooltiptext = Ձեր պահպանած աւգտուողի անունները եւ գաղտնաբառերը
+    .accesskey = Մ
+sync-engine-logins-passwords =
+    .label = Մուտքանուններ եւ գաղտնաբառեր
+    .tooltiptext = Ձեր պահպանած աւգտուողի անուններ եւ գաղտնաբառեր
+    .accesskey = L
+sync-engine-addresses =
+    .label = Հասցէներ
+    .tooltiptext = Փոստային հասցէներ, որոնք Դուք պահպանել եք (միայն աշխատասեղանում)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Բանկային քարտեր
+    .tooltiptext = Անուններ, համարներ եւ սպառման ամսաթուեր (միայն աշխատասեղանում)
+    .accesskey = C
+sync-engine-addons =
+    .label = Յաւելումները
+    .tooltiptext = Ընդլայնումներ եւ ոճեր Firefox-ի համար
+    .accesskey = Հ
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Ընտրանքներ
+           *[other] Կարգաւորումները
+        }
+    .tooltiptext = Ընդհանուր, Գաղտնիութիւն եւ Անւտանգութիւն
+    .accesskey = ը
 
 ## The device name controls.
 
+sync-device-name-header = Սարքի անունը
+sync-device-name-change =
+    .label = Փոխել սարքի անունը…
+    .accesskey = ո
+sync-device-name-cancel =
+    .label = Չեղարկել
+    .accesskey = ա
 
 ## Privacy Section
 
