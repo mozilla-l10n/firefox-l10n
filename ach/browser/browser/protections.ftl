@@ -11,6 +11,8 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> lalub kor ma ki gengo nicake { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> lulub kor ma ki gengo nicake { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Lulub kor ma { -brand-short-name } ogengo i cabit man
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Tin
@@ -29,7 +31,6 @@ lockwise-passwords-stored =
         [one] Kigwoko mung me donyo maber <a data-l10n-name="lockwise-how-it-works">Kit ma tiyo kwede</a>
        *[other] Kigwoko mung me donyo maber <a data-l10n-name="lockwise-how-it-works">Kit ma tiyo kwede</a>
     }
-manage-devices = Lo nyonyo
 manage-connected-devices = Lo nyonyo…
 monitor-link = Kit ma tiyo kwede
 full-report-link = Nen ripot weng ikom <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>

@@ -82,6 +82,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Alamabuk">
 <!ENTITY bookmarksToolbarItem.label "Jami me gintic me alama buk">
 
 <!ENTITY pageSourceCmd.label "Kama pot buk nonge iye">
@@ -161,6 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Akaunt">
 <!ENTITY fxa.menu.settings.label "Ter">
 <!ENTITY fxa.menu.accountSettings.label "Ter me Akaunt">
+<!ENTITY fxa.menu.manageAccount2.label "Lo Akaunt">
 <!ENTITY fxa.menu.signOut.label "Kat Woko…">
 <!ENTITY fxa.menu.deviceSettings.label "Ter me Nyonyo">
 <!ENTITY fxa.menu.setupSync.label "Ter &syncBrand.shortName.label;…">
@@ -229,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "N">
 <!ENTITY stopCmd.label                "Juk">
 <!ENTITY stopCmd.accesskey            "J">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Cit i kanonge ma i lanyut me gintic kabedo">
 <!ENTITY printButton.label            "Go">
@@ -257,8 +260,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lo tic ki purugram me DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Yab dirica me MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Imiyo ki kakube man twero mukene.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Igengo woko lamak cal mamegi pi kakube man.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Igengo woko mikropon mamegi pi kakube man.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
@@ -267,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Igengo woko kakube man me tic ki larwak me Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "I gengo woko nongo MIDI pi kakube man.">
 <!ENTITY urlbar.installBlocked.tooltip           "Igengo woko keto med-ikome pi kakube man.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Imiyo ki kakube man twero mukene.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
@@ -548,6 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "m">
 
 <!ENTITY openLinkCmdInTab.label       "Yab kakube i dirica matidi manyen">
+
 <!ENTITY openLinkCmdInTab.accesskey   "d">
 <!ENTITY openLinkCmd.label            "Yab kakube i dirica manyen">
 <!ENTITY openLinkCmd.accesskey        "r">
@@ -563,6 +567,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Nyut pem man keken">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Nwo cano pem">
 <!ENTITY reloadFrameCmd.accesskey     "N">
@@ -613,6 +618,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Gwok pot buk calo…">
 <!ENTITY savePageCmd.accesskey        "c">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Gwok pem calo…">
 <!ENTITY saveFrameCmd.accesskey       "p">
@@ -778,6 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Lok tung coc">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "o">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Nong i pot buk man…">
@@ -802,14 +809,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Ber bedo pa kakube">
 
+<!ENTITY identity.connection "Kube">
 <!ENTITY identity.connectionSecure "Kube maber">
 <!ENTITY identity.connectionNotSecure "Kube pe tye ki ber bedo">
 
+<!ENTITY identity.connectionSecure3 "Kube tye ki ber bedo">
+<!ENTITY identity.connectionNotSecure2 "Kube pe tye ki ber bedo">
+<!ENTITY identity.connectionNotSecureSecurityView "Pe itye ki kube maber ki kakube man.">
 <!ENTITY identity.connectionFile "Kigwoko potbuk man i kompiuta mamegi.">
 <!ENTITY identity.connectionVerified2 "Itye ki kube maber ki kakube man, rwode aye:">
+<!ENTITY identity.connectionVerified3 "Itye ki kube maber ki kakube man.">
 <!ENTITY identity.connectionInternal "Man potbuk me &brandShortName; matye ki ber bedo.">
 <!ENTITY identity.extensionPage "Kicano potbuk man ki i lamed">
 <!ENTITY identity.insecureLoginForms2 "Donyo iyie ma kiketo gi i potbuk man twero bedo ki goro.">
+<!ENTITY identity.customRoot "Kimoko kube ki lami catibiket ma Mozilla pe ngeyo.">
 
 <!ENTITY identity.evOwnerLabel2 "Kimiyo catibiket bot:">
 
@@ -885,6 +898,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pi ngo?">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Kicano lulub kor weng ma i kakube man pien kijuko gwokke woko.">
 <!ENTITY protections.noTrackersFound.description "Pe tye lulub kor mo ma ngene bot &brandShortName; ma ononge i potbuk man.">
 
 
