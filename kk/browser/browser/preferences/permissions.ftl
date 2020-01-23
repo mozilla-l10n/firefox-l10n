@@ -67,6 +67,9 @@ permissions-exceptions-content-blocking-window =
     .title = Ережеден тыс - Құраманы бұғаттау
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Бұл веб-сайттар үшін құраманы бұғаттауды сөндіргенсіз.
+permissions-exceptions-etp-window =
+    .title = Бақылаудан кеңейтілген көріністен тыс ережелер
+    .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Сіз осы веб-сайттарда қорғауды өшірдіңіз.
 
 ## Exceptions - Cookies

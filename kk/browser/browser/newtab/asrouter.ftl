@@ -79,6 +79,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Бақыламай шолыңыз
+cfr-protections-panel-body = Деректеріңізді тек өзіңіз үшін қалдырыңыз. { -brand-short-name } желіде сіздің соңыңыздан еретін ең кең тараған трекерлердің көбінен қорғайды.
 cfr-protections-panel-link-text = Көбірек білу
 
 ## What's New toolbar button and panel
@@ -96,6 +97,10 @@ cfr-whatsnew-fx70-body =
     Соңғы жаңарту Бақылаудан Қорғанысты жақсартып, әр сайт үшін
     күштірек парольдерді жасауды оңайырақ қылады.
 cfr-whatsnew-tracking-protect-title = Өзіңізді трекерлерден қорғаңыз
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } желіде сіздің соңыңыздан еретін көптеген әлеуметтік
+    және сайтаралық трекерлерді бұғаттайды.
+cfr-whatsnew-tracking-protect-link-text = Есепті қарау
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -106,8 +111,12 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } бастап
 cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
 cfr-whatsnew-lockwise-backup-title = Парольдеріңіздің қор көшірмесін жасаңыз
+cfr-whatsnew-lockwise-backup-body = Қайда кірсеңіз де. қолдана алатын қауіпсіз парольдерді жасаңыз.
 cfr-whatsnew-lockwise-backup-link-text = Қор көшірмелерді іске қосу
 cfr-whatsnew-lockwise-take-title = Парольдіріңізді өзіңізбен бірге ұстаңыз
+cfr-whatsnew-lockwise-take-body =
+    { -lockwise-brand-short-name } мобильді қолданбасы әр жерден сіздің қор
+    көшірмедегі парольдерге қауіпсіз қатынауды мүмкін етеді.
 cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
 ## Picture-in-Picture
@@ -118,6 +127,7 @@ cfr-whatsnew-pip-cta = Көбірек білу
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Сайттардың мазаны алатын азырақ қалқымалы хабарламалар.
 cfr-whatsnew-permission-prompt-cta = Көбірек білу
 
 ## Fingerprinter Counter
@@ -127,6 +137,7 @@ cfr-whatsnew-fingerprinter-counter-header-alt = Баспаны жинаушыл�
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Бұл бетбелгіні өз телефоныңызға алыңыз
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } іске қосу
     .accesskey = с
 
