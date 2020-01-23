@@ -889,13 +889,42 @@ content-blocking-setting-custom =
     .label = Հարմարեցուած
     .accesskey = C
 content-blocking-standard-desc = Համակշռել պաշտպանութեան եւ իրականցման համար։ Կարող թոյլատրել որոշ վնասներ, վեբ կայքերի ճշգրիտ աշխատանքի համար։
+content-blocking-strict-description = Ավելի ուժեղ պաշտպանութիւն, կարող է հանդիսանալ որոշ կայքերի կոտրման պատճառ։
+content-blocking-custom-desc = Ընտրեք ինչը արգելափակել.։
+content-blocking-private-trackers = Յայտնի հետեւումներ միայն անձնական Windows-ում
+content-blocking-third-party-cookies = Եռատող յետապնդուող թխուկներ
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Լռելեայն
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Ստոյգ
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Հարմարեցուած
+    .accesskey = C
 
 ##
 
+content-blocking-etp-standard-desc = Հաւասարակշռուած է պաշտպանութեան եւ կատարման համար։Էջերը կը բեռնուեն կանոնակարգուած կերպով։
+content-blocking-etp-strict-desc = Ավելի ուժեղ պաշտպանութիւն, բայց կարող է որոշ կայքերի կամ բովանդակութիւնների կոտրման պատճառ դառնալ։
+content-blocking-etp-custom-desc = Ընտրեք, որ հետեւումները եւ գրուածքները արգելափակել։
+content-blocking-private-windows = Անձնական պատուհաններում բովանդակութեան հետեւում
+content-blocking-cross-site-tracking-cookies = Միջակայքային հետեւող նշոցիկներ
+content-blocking-social-media-trackers = Սոցիալական մեդիայի հետագծումներ
+content-blocking-all-cookies = Բոլոր նշոցիկները
+content-blocking-unvisited-cookies = Նշոցիկներ չստուգուած կայքերից
+content-blocking-all-windows-trackers = Յայտնի հետքերը բոլոր պատուհաններում
+content-blocking-all-windows-tracking-content = Հետեւում են բովանդակութեանը բոլոր պատուհաններում
+content-blocking-all-third-party-cookies = Բոլոր երրորդ կողմերի նշոցիկները
+content-blocking-cryptominers = Գաղտնազերծիչներ
+content-blocking-fingerprinters = Մատնահետքեր
+content-blocking-warning-title = Ուշադրութիւն։
+content-blocking-warning-description = Բովանդակութեան արգելափակումը կարող է որոշ կայքերի կոտրման պատճառ դառնալ։ Հեշտ է անջատել վստահուած կայքերի արգելափակումը։
 
 ## Privacy Section - Tracking
 
