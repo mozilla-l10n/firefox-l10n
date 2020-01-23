@@ -9,6 +9,7 @@ forward = Avanti
 reload = Ricarica
 home = Pagina iniziale
 fullscreen = Schermo intero
+touchbar-fullscreen-exit = Esci da schermo intero
 find = Trova
 new-tab = Nuova scheda
 add-bookmark = Aggiungi segnalibro
