@@ -371,21 +371,130 @@ performance-use-recommended-settings-checkbox =
     .label = Աւգտ. արտադրողականութեան յանձնարարելի կարգաւորումները
     .accesskey = Օ
 performance-use-recommended-settings-desc = Այս կարգաւորումները հարմարեցուած են ձեր համակարգչի սարքաշարին եւ աւպերացիոն համակարգին:
+performance-settings-learn-more = Իմանալ ավելին
+performance-allow-hw-accel =
+    .label = Հնարավորութեան դեպքում աւգտագործել սարքակազմի արագացումը
+    .accesskey = ր
+performance-limit-content-process-option = Բովանդակութեան ընթացքի սահմանափակում
+    .accesskey = ս
+performance-limit-content-process-enabled-desc = Բովանդակութեան լրացուցիչ ընթացքները կարող են լաւարկել արտադրողականութիւնը, երբ աւգտագործուում են բազմակի ներդիրներ, բայց միեւնոյն ժամանակ՝ դրանք աւելի շատ հիշողութիւն կը խլեն:
+performance-limit-content-process-blocked-desc = Հնարավոր է փոփոխել բովանդակութեան ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դէպքում: <a data-l10n-name="learn-more">Կարդալ, թե ինչպէս ստուգել՝ արդեւք բազմամշակիչը միացուած է:</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (լռելեայն)
 
 ## General Section - Browsing
 
+browsing-title = Դիտարկում
+browsing-use-autoscroll =
+    .label = Աւգտագործել ինքնաթերթումը
+    .accesskey = ի
+browsing-use-smooth-scrolling =
+    .label = Աւգտագործել կոկիկ թերթումը
+    .accesskey = ո
+browsing-use-onscreen-keyboard =
+    .label = Անհրաժեշտութեան դէպքում ցուցադրել հպաստեղնաշարը
+    .accesskey = հ
+browsing-use-cursor-navigation =
+    .label = Էջերում ուղղորդման համար միշտ աւգտագործել ցուցիչի սեղմակները:
+    .accesskey = կ
+browsing-search-on-start-typing =
+    .label = Տեքստ մուտքագրելու դէպքում փնտրել այն
+    .accesskey = ք
+browsing-picture-in-picture-toggle-enabled =
+    .label = Միացնում է նկարում-պատկերուած տեսանիւթի կառաւարները
+    .accesskey = E
+browsing-picture-in-picture-learn-more = Իմանալ աւելին
+browsing-cfr-recommendations =
+    .label = Առարջարկեք յաւելումներ՝ զննարկելիս
+    .accesskey = R
+browsing-cfr-features =
+    .label = Առարջարկեք յատկութիւններ՝ զննարկելիս
+    .accesskey = f
+browsing-cfr-recommendations-learn-more = Իմանալ աւելին
 
 ## General Section - Proxy
 
+network-settings-title = Ցանցի կարգաւորումներ
+network-proxy-connection-description = Կազմաձեւեք, թե ինչպէս { -brand-short-name }-ը կապակցուի համացանցին:
+network-proxy-connection-learn-more = Իմանալ աւելին
+network-proxy-connection-settings =
+    .label = Կարգաւորումներ…
+    .accesskey = ա
 
 ## Home Section
 
+home-new-windows-tabs-header = Նոր Պատուհաններ եւ Ներդիրներ
+home-new-windows-tabs-description2 = Ընտրեք, թե ինչը տեսնել՝ տուն էջը, նոր պատուհաններ եւ նոր ներդիրներ բացելիս:
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Տուն էջ եւ նոր պատուհաններ
+home-newtabs-mode-label = Նոր Ներդիրներ
+home-restore-defaults =
+    .label = Վերականգնել ծրագրայինը
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox-ի Տնային էջը
+home-mode-choice-custom =
+    .label = Հարմարեցուած URL-ներ...
+home-mode-choice-blank =
+    .label = Դատարկ էջ
+home-homepage-custom-url =
+    .placeholder = Տեղադրել URL-ն...
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Օգտագործել ընթացիկ էջը
+            [one] Օգտագործել ընթացիկ էջերը
+           *[other] Օգտագործել ընթացիկ էջերը
+        }
+    .accesskey = ը
+choose-bookmark =
+    .label = Աւգտագործել էջանիշ...
+    .accesskey = է
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Firefox-ի սկզբնական պարունակութիւնը
+home-prefs-content-description = Ընտրեք, թե ինչ բովանդակութիւն կը ցնականաք Ձեր Firefox-ի սկզբնական էկրանին։
+home-prefs-search-header =
+    .label = Վեբ որոնում
+home-prefs-topsites-header =
+    .label = Լավագոյն կայքեր
+home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Առաջարկուում է { $provider }
+home-prefs-recommended-by-description = Հիանալի բովանդակութիւն համացանցից, անձնաւորուած Ձեզ համար
+home-prefs-recommended-by-learn-more = Ինչպէս է դա աշխատում
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Հովանաւորուած կայքեր
+home-prefs-highlights-header =
+    .label = Գունանշումներ
+home-prefs-highlights-description = Ձեր պահպանած կամ այցելած կայքերի ընտրութիւնը
+home-prefs-highlights-option-visited-pages =
+    .label = Այցելած էջեր
+home-prefs-highlights-options-bookmarks =
+    .label = Էջանիշեր
+home-prefs-highlights-option-most-recent-download =
+    .label = Ամենավերջին ներբեռնումը
+home-prefs-highlights-option-saved-to-pocket =
+    .label = { -pocket-brand-name }-ում պահուած էջեր
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Հատուածներ
 
 ## Search Section
 
