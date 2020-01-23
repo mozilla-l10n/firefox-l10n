@@ -534,9 +534,46 @@ search-show-suggestions-above-history-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդիւնքների ամենավերեւում
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնաւոր պատուհանում
+suggestions-addressbar-settings = Փոխեք նախապատվութիւնները թերթելու պատմութիւնը, էջանիշները եւ ներդիրի առաջարկները
+search-suggestions-cant-show = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
+search-one-click-header = Մեկ սեղմամբ որոնիչներ
+search-one-click-desc = Ընտրեք այլ ընտրանքային որոնիչներ, որոնք կերեւան ստորեւ հասցեի գոտում եւ որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
+search-choose-engine-column =
+    .label = Որոնիչներ
+search-choose-keyword-column =
+    .label = Հիմնաբառ
+search-restore-default =
+    .label = Վերականգնել հիմնական որոնիչը
+    .accesskey = հ
+search-remove-engine =
+    .label = Հեռացնել
+    .accesskey = Հ
+search-find-more-link = Գտնել լրացուցիչ որոնիչներ
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Կրկնել հիմնաբառը
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Դուք ընտրել եք կրկնուող հիմնաբառ, որը արդեն աւգտագործուում է "{ $name }" -ի կողմից: Խնդրում ենք ընտրել մեկ ուրիշը:
+search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, որը այս պահին աւգտագործուում է էջանիշի կողմից: Խնդրում եմ ընտրեք մեկ ուրիշը:
 
 ## Containers Section
 
+containers-back-link = « Հետ գնալ
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Վերադառնալ ընտրանքներին
+           *[other] Վերադառնալ նախապատուութիւններին
+        }
+containers-header = Պարունակ ներդիրներ
+containers-add-button =
+    .label = Աւելացնել նոր պարունակ
+    .accesskey = Ա
+containers-preferences-button =
+    .label = Նախընտրութիւններ
+containers-remove-button =
+    .label = Հեռացնել
 
 ## Sync Section - Signed out
 
@@ -544,6 +581,11 @@ search-show-suggestions-private-windows =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = Ձեր վեբը Ձեզ հետ է
+sync-signedout-description = Համաժամեցրեք Ձեր բոլոր էջանիշերը, պատմութիւնը, ներդիրները, գաղտնաբառերը, յաւելումները եւ կարգաւորումները Ձեր բոլոր սարքերի միջեւ:
+sync-signedout-account-title = Կապակցել { -fxaccount-brand-name }-ի հետ
+sync-signedout-account-create = Չունե՞ք հաշիւ: Սկսեք
+    .accesskey = C
 
 ## Sync Section - Signed in
 
