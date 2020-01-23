@@ -178,20 +178,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY recentBookmarks.label "A ta´a ini noo´o skuata ntee">
 <!ENTITY otherBookmarksCmd.label "Inka a ta´a ini noo´o">
+<!ENTITY mobileBookmarksCmd.label "A ta´a ini noo´o móviles">
+<!ENTITY bookmarksToolbarChevron.tooltip "Xituvi kuaiyo a ta´a ini noo´o">
 
 <!ENTITY backCmd.label                "Niko yata">
 <!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "Sniko iin página">
+<!ENTITY forwardCmd.label             "Ichi nuu">
 <!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "Kaka iin página">
+<!ENTITY backForwardButtonMenu.tooltip "Kuaxin kuá´á a xiin staka kutuvi historial">
 <!ENTITY reloadCmd.label              "Nachu'un tuku">
 <!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY stopCmd.label                "Siankuiñi">
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY printButton.label            "Nátava">
+<!ENTITY printButton.tooltip          "Natava página ya´a">
+
+
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Síne panel daa mensajes">
 
 
 
-
-
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
 
 
 
@@ -220,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Sɨ´ɨ">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
+<!ENTITY toolsMenu.label              "Ka̱a̱">
 <!ENTITY toolsMenu.accesskey          "t">
 
 <!ENTITY keywordfield.accesskey       "p">
@@ -241,12 +253,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "I">
 
 
+<!ENTITY fileMenu.label         "Archivo">
 <!ENTITY fileMenu.accesskey       "A">
 
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.accesskey      "O">
+<!ENTITY newNavigatorCmd.label        "Ventana jíía">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Ventana jíía yu´u">
 <!ENTITY newPrivateWindow.accesskey "p">
 
 <!ENTITY editMenu.label         "Natee">
@@ -278,7 +293,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
+<!ENTITY viewMenu.label         "Kune'ya">
 <!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "Barra ka̱a̱">
 <!ENTITY viewToolbarsMenu.accesskey     "h">
 <!ENTITY viewSidebarMenu.accesskey "l">
 
@@ -292,6 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Pestañas nnakasɨ ntañu´u">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Pestañas nnakasɨ ntañu´u">
+<!ENTITY historyRestoreLastSession.label "Nate tuku sesión yata">
 
 <!ENTITY showAllHistoryCmd2.label "Tuvi kuaiyo sɨ´ɨ">
 
@@ -299,6 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuHistory.showAll.label "Tuvi kuaiyo sɨ´ɨ">
 <!ENTITY appMenuHistory.clearRecent.label "Xinó a nnánukunu ntañu´u…">
+<!ENTITY appMenuHistory.restoreSession.label "Nate tuku sesión yata">
 <!ENTITY appMenuHelp.label "Chinei">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -314,6 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Chu´un inka ka̱a̱">
 
 
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -387,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchWith.label             " jii:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -401,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Nánuku:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -412,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.accesskey        "v">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
+<!ENTITY openLinkCmdInCurrent.label     "Síne enlace">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.accesskey       "e">
