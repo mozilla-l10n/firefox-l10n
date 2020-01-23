@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Ldi agalis n yizen i usebded n uzegrir
 urlbar-tip-help-icon =
     .title = Awi tallelt
+urlbar-search-tips-confirm = Ih, awi-t-id
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
