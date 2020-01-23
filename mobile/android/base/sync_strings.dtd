@@ -82,13 +82,13 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Điều khoản dịch vụ'>
 <!ENTITY fxaccount_status_linkprivacy2 'Thông báo bảo mật'>
-<!ENTITY fxaccount_remove_account 'Ngưng kết nối&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Ngắt kết nối&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Ngắt kết nối đến đồng bộ hóa?'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Ngắt kết nối khỏi đồng bộ hóa?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Dữ liệu duyệt web của bạn sẽ vẫn trên thiết bị này, nhưng nó sẽ không còn đồng bộ với tài khoản của bạn.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Tài khoản Firefox &formatS; ngắt kết nối.'>
+<!ENTITY fxaccount_remove_account_toast2 'Đã ngắt kết nối khỏi tài khoản Firefox &formatS;.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'Ngắt kết nối'>
