@@ -746,9 +746,43 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Բացառութիւններ…
     .accesskey = ա
+forms-generate-passwords =
+    .label = Առաջարկեք եւ ստեղծեք ուժեղ գաղտնաբառեր
+    .accesskey = u
+forms-breach-alerts =
+    .label = Ցուցադրել զգուշացումներ խախտուած վեբ կայքերի գաղտնաբառերի մասին
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Իմանալ աւելին
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Մուտքանունների եւ գաղտնաբառերի ինքնալցում
+    .accesskey = i
+forms-saved-logins =
+    .label = Պահուած մուտքանուններ...
+    .accesskey = մ
+forms-master-pw-use =
+    .label = Աւգտագործել Հիմնական գաղտնաբառ
+    .accesskey = Օ
+forms-master-pw-change =
+    .label = Փոխել Հիմնական գաղտնաբառը…
+    .accesskey = Հ
+forms-master-pw-fips-title = Դուք այժմ աւգտագործում էք FIPS եղանակը: FIPS-ը պահանջում է Հիմնական Գաղտնաբառի աւգտագործում:
+forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխութիւնը Չյաջողուեց
 
 ## Privacy Section - History
 
+history-header = Պատմութիւն
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }-ը կսկսի`
+    .accesskey = կ
 
 ## Privacy Section - Site Data
 
