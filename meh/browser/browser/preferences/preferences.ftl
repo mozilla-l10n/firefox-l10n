@@ -211,6 +211,10 @@ update-in-progress-cancel-button = &Kɨ´ɨ
 ## General Section - Performance
 
 performance-settings-learn-more = Ka´vi jiee ya´a
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (Predeterminado)
 
 ## General Section - Browsing
 
