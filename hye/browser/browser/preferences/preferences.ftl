@@ -586,12 +586,49 @@ sync-signedout-description = Համաժամեցրեք Ձեր բոլոր էջան
 sync-signedout-account-title = Կապակցել { -fxaccount-brand-name }-ի հետ
 sync-signedout-account-create = Չունե՞ք հաշիւ: Սկսեք
     .accesskey = C
+sync-signedout-account-signin =
+    .label = Մուտք գործել...
+    .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Մուտք գործել { -sync-brand-short-name }…
+    .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Ներբեռնել Firefox-ը <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> կամ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>-ի համար՝ համաժամեցնելու բջջային սարքի հետ:
 
 ## Sync Section - Signed in
 
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Փոխել հաշուի նկարը
+sync-disconnect =
+    .label = Անջատել...
+    .accesskey = Ա
+sync-sign-out =
+    .label = Դուրս գալ…
+    .accesskey = g
+sync-manage-account = Կառաւարել հաշիւը
+    .accesskey = o
+sync-signedin-unverified = { $email } նույնականացրած չէ:
+sync-signedin-login-failure = Նախ մուտք գործեք { $email }
+sync-resend-verification =
+    .label = Կրկին ուղարկել հաստատումը
+    .accesskey = d
+sync-remove-account =
+    .label = Ջնջել հաշիւը
+    .accesskey = R
+sync-sign-in =
+    .label = Մուտք գործել
+    .accesskey = տ
+sync-signedin-settings-header = համաժամեցման կարգաւորումներ
 
 ## Sync section - enabling or disabling sync.
 
