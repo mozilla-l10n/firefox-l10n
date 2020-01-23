@@ -16,6 +16,10 @@ graph-total-tracker-summary =
     { $count ->
        *[other] <b>{ $count }</b> trình theo dõi bị chặn kể từ { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } tiếp tục  chặn trình theo dõi trong cửa sổ riêng tư, nhưng không lưu giữ hồ sơ về những gì đã bị chặn.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Trình theo dõi mà { -brand-short-name } đã chặn trong tuần này
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -62,14 +66,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Bật { -sync-brand-short-name }…
     .title = Đi đến tùy chọn đồng bộ hóa
-manage-devices = Quản lý thiết bị
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-       *[other] Đang đồng bộ hóa với { $count } thiết bị khác
-    }
-lockwise-sync-not-syncing-devices = Không đồng bộ hóa với các thiết bị khác.
 manage-connected-devices = Quản lý thiết bị…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.

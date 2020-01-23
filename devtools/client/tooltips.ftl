@@ -32,15 +32,16 @@ inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> không có
 inactive-css-property-because-of-display = <strong>{ $property }</strong> không ảnh hưởng đến yếu tố này vì nó có hiển thị của <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Giá trị <strong>display</strong> đã được thay đổi bởi máy thành <strong>block</strong> vì phần tử là <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Nó không thể ghi đè <strong>{ $property }</strong> do hạn chế <strong>:visited</strong>.
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là phần tử được định vị.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:flex</strong>. { learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong> hoặc <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> hoặc <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong> vào mục gốc. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong> hoặc <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, hoặc <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong> vào phần tử mẹ. { learn-more }
 inactive-css-not-grid-container-fix = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong>. { learn-more }
@@ -51,3 +52,4 @@ inactive-css-not-inline-or-tablecell-fix = Hãy thử thêm <strong>display:inli
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Hãy thử thêm <strong>display:inline-block</strong> hoặc <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Hãy thử thêm <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Hãy thử xóa <strong>float</strong> hoặc thêm <strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Hãy thử đặt thuộc tính <strong>position</strong> của nó thành một thứ khác ngoài <strong>static</strong>. { learn-more }
