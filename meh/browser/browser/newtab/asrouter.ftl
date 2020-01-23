@@ -99,6 +99,7 @@ cfr-whatsnew-lockwise-take-link-text = Ni'i App
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Kune´ya video saa jikanu
 cfr-whatsnew-pip-cta = Ka´vi kue´eka
 
 ## Permission Prompt
@@ -131,6 +132,7 @@ cfr-doorhanger-firefox-send-ok-button = Ni´i { -send-brand-name }
 
 cfr-doorhanger-socialtracking-close-button = Nakasɨ
     .accesskey = C
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } nnakasɨ  iin criptomonero nuu página ya´a
 
 ## Enhanced Tracking Protection Milestones
 

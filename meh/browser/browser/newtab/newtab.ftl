@@ -25,6 +25,7 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Chisó ka̱a̱ nánuku
 newtab-topsites-add-topsites-header = Daa sitio xinañu´u
+newtab-topsites-edit-topsites-header = Natee sitio xinañu´u
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chu´un iin título
@@ -32,6 +33,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tee iin URL
 newtab-topsites-url-validation = Nejika chu´unu iin URL vatu
+newtab-topsites-use-image-link = Ni´i iin tutu nátva personalizada…
 newtab-topsites-image-validation = Ntu nkuvi síne tutu natava. Nachu´un inka URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -58,6 +60,10 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .title = Síne menu
     .aria-label = Síne menu nuu { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Natee sitio
+    .aria-label = Natee sitio
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
