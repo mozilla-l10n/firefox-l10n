@@ -8,7 +8,7 @@
 cfr-doorhanger-extension-heading = Lamed ma kicwako
 cfr-doorhanger-pintab-heading = Tem man: Mwon dirica matidi
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pi ngo atye kaneno man
@@ -54,6 +54,14 @@ cfr-whatsnew-panel-header = Ngo Manyen
 cfr-whatsnew-fx70-title = { -brand-short-name } dong lwenyo matek kato pi mung mamegi
 cfr-whatsnew-tracking-protect-title = Gwokke ki ikom lulub kor
 cfr-whatsnew-tracking-protect-link-text = Nen Ripot Mamegi
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Kigengo lalub kor
+       *[other] Kigengo lulub kor
+    }
 cfr-whatsnew-tracking-blocked-subtitle = Nicake { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Nen Ripot
 cfr-whatsnew-lockwise-take-title = Cwal mung me donyo mamegi kwedi
@@ -91,11 +99,14 @@ cfr-doorhanger-send-tab-ok-button = Tem Send Tab
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Nywak PDF man ki ber bedo
 cfr-doorhanger-firefox-send-ok-button = Tem { -send-brand-name }
     .accesskey = T
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Nen Gwokke
+    .accesskey = N
 cfr-doorhanger-socialtracking-close-button = Lor
     .accesskey = L
 cfr-doorhanger-socialtracking-dont-show-again = Pe doki inyuta kwena calo man
@@ -103,5 +114,12 @@ cfr-doorhanger-socialtracking-dont-show-again = Pe doki inyuta kwena calo man
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } gengo lulub kor makato <b>{ $blockedCount }</b> nicake { $date }!
+    }
 cfr-doorhanger-milestone-ok-button = Nen Weng
     .accesskey = N

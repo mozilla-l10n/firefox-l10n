@@ -72,6 +72,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Yab dirica me kwena pi keto med-ikome
 urlbar-tip-help-icon =
     .title = Nong kony
+urlbar-search-tips-confirm = Aya, Aniang
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

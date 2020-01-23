@@ -26,6 +26,11 @@ menu =
     .title = Yab jami ayera
 # This menuitem is only visible on Windows
 menu-menuitem-import = Kel Mung me donyo…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Ter
+       *[other] Ter
+    }
 about-logins-menu-menuitem-help = Kony
 menu-menuitem-android-app = { -lockwise-brand-short-name } pi Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
@@ -34,6 +39,11 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
 
 login-list =
     .aria-label = Donyo iyie ma rwatte ki lok me yeny
+login-list-count =
+    { $count ->
+        [one] donyo iyie
+       *[other] donyo iyie
+    }
 login-list-name-option = Nying (A-Z)
 login-list-last-changed-option = Yub me agiki
 login-list-last-used-option = Tic kwede me agiki
@@ -42,6 +52,7 @@ login-list-intro-description = Ka igwoko mung me donyo mo i { -brand-product-nam
 about-logins-login-list-empty-search-title = Pe ki nongo donyo iyie mo
 about-logins-login-list-empty-search-description = Pe tye adwogi mo ma rwatte ki yeny mamegi.
 login-list-item-title-new-login = Donyo iyie manyen
+login-list-item-subtitle-missing-username = (nying me tic pe)
 
 ## Introduction screen
 
