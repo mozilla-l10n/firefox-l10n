@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+synced-tabs-sidebar-notabs = Ntu íyo pestañas nune
 synced-tabs-sidebar-connect-another-device = Chu´un inka ka̱a̱
+synced-tabs-sidebar-search =
+    .placeholder = Nánuku pestañas sincronizadas
 synced-tabs-context-open =
     .label = Síne
     .accesskey = O

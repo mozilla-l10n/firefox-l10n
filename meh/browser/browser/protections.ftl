@@ -17,11 +17,14 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> ka̱a̱ nita noo´o nnasɨ nee { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> ka̱a̱ nita noo´o nnasɨ nee { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+protection-report-manage-protections = Tetiñu nuu kei´i
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ki̱vɨ̱ vitá
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Iin tutu nuu vaji tunin kuaíyo daa ka̱a̱ nita noo´o,  nstasava nakuvi daa ka̱a̱ ya´a, daa nnasɨ semana nña´a.
+fingerprinter-tab-title = Huellas dactilares
+cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
 manage-connected-devices = …Tetiñu daa ka̱a̱…
 monitor-link = Naja satiñu
