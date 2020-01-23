@@ -87,9 +87,10 @@ newtab-menu-show-privacy-info = Sponsorët tanë & privatësia jonë
 newtab-privacy-modal-button-done = Kaq qe
 newtab-privacy-modal-header = Privatësia juaj ka rëndësi.
 newtab-privacy-modal-paragraph = Jo vetëm ju shërbejmë histori tërheqëse, por ju shfaqim edhe lëndë me vlerë, të kontrolluar mirë, prej sponsorësh të përzgjedhur. Flijeni mendjen, të dhënat e shfletimit tuaj nuk ikin kurrë nga kopja juaj personale e { -brand-product-name }-it — as ne nuk i shohim dot, as sponsorët tanë.
+newtab-privacy-modal-paragraph-2 = Jo vetëm ju shërbejmë histori tërheqëse, por ju shfaqim edhe lëndë me vlerë, të kontrolluar mirë, prej sponsorësh të përzgjedhur. Flijeni mendjen, <strong>të dhënat e shfletimit tuaj nuk ikin kurrë nga kopja juaj personale e { -brand-product-name }-it</strong> — as ne nuk i shohim dot, as sponsorët tanë.
 newtab-privacy-modal-link = Mësoni se si funksionon privatësia në skedën e re
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Hiqe Faqerojtësin
@@ -176,7 +177,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam k
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tema Popullore:
 newtab-pocket-more-recommendations = Më Tepër Rekomandime
-newtab-pocket-how-it-works = Si funksionon
 newtab-pocket-whats-pocket = Ç’është { -pocket-brand-name }?
 newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
 newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni, dhe ushqejeni mendjen me lexime të mahnitshme.
