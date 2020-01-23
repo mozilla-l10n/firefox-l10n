@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "ປິດຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Sync ບຸກມາກ, ປະຫວັດການໃຊ້ງານ ແລະ ລະຫັດຜ່ານຂອງທ່ານເຂົ້າໄວ້ໃນໂທລະສັບຂອງທ່ານ.">
-<!ENTITY updatednewfirstrun_sync_title "ບັນຊີ">
-<!ENTITY firstrun_sync_message2 "ຮັບເອົາຈາກບ່ອນທີ່ທ່ານໄດ້ປະເອົາໄວ້.">
 <!ENTITY firstrun_sync_subtext2 "ໃຊ້ Sync ເພື່ອຊອກຫາບຸກມາກ, ລະຫັດຜ່ານ, ແລະ ສິ່ງອື່ນໆທີ່ທ່ານໄດ້ບັນທຶກໄວ້ທີ່ &brandShortName; ໃນອຸປະກອນທັງຫມົດຂອງທ່ານ.">
 <!ENTITY newfirstrun_sync_subtext "Sync ສິ່ງທີ່ທ່ານບັນທຶກໄວ້ໃນໂທລະສັບໄປຫາ Firefox ສຳລັບເດສກທັອບ ເພື່ອໃຫ້ມີຄວາມເປັນສ່ວນຕົວ ແລະ ປອດໄພ.">
 <!ENTITY firstrun_sendtab_title "ສົ່ງແທັບ">
 <!ENTITY firstrun_sendtab_message "ແບ່ງປັນແທັບຈາກມືຖືໄປຫາຄອມພິວເຕີ້ — ໄດ້ທັນທີ.">
-<!ENTITY updatednewfirstrun_sync_subtext "ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອນຳໃຊ້ປະໂຫຍດສູງສຸດຈາກ &brandShortName;">
 <!ENTITY firstrun_signin_message "ຮັບການເຊື່ອມຕໍ່ ເລີມຕົ້ນເຮັດວຽກ">
-<!ENTITY firstrun_signin_button "ເຂົ້າສູ່ລະບົບເພື່ອ Sync">
-<!ENTITY newfirstrun_signin_button "ເປີດ Sync">
-<!ENTITY updatednewfirstrun_signin_button "ເຂົ້າສູ່ລະບົບ &brandShortName;">
-<!ENTITY  onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
+<!ENTITY onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
 <!ENTITY firstrun_button_notnow "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
 <!ENTITY firstrun_signup_button "ລົງ​ທະ​ບຽນ">
-
-<!ENTITY firstrun_signin_button2 "ເຂົ້າສູ່ລະບົບ">
 
 <!ENTITY firstrun_tabqueue_title "ລີ້ງຄ໌">
 
@@ -884,7 +876,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ບຸກມາກລາຍການອ່ານເອົາໄວ້ເພື່ອເອົາໄວ້ອ່ານຕອນອັອບລາຍ.">
 <!ENTITY helper_triple_readerview_open_button "ເພີ່ມເຂົ້າໄປໃນບຸກມາກສ໌">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
 <!ENTITY activity_stream_signin_description "ເລີ່ມການ Sync ຂໍ້ມູນບຸກມາກ, ລະຫັດຜ່ານ ແລະ ອື່ນໆດ້ວຍບັນຊີ Firefox ຂອງທ່ານ.">
@@ -893,7 +886,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "ເຂົ້າ​ສູ່​ລະ​ບົບ.">
 
-<!ENTITY activity_stream_signin_button "ເຂົ້າສູ່ລະບົບ">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Firefox ໃໝ່, ເປີດຕົວໃນປີ 2020">
+<!ENTITY activity_stream_firefox_promo_description "ໃນໄວໆນີ້: ການປະຕິບັດງານທີ່ດີກວ່າເກົ່າ, ການປ້ອງກັນການຕິດຕາມທີ່ດີຂື້ນ, ລັກສະນະໃໝ່ທີ່ໄດ້ອອກແບບມາເພື່ອການຊອກຫາ, ບັນທຶກ ແລະ ແບ່ງປັນສິ່ງທີ່ທ່ານຫມົກໃນໂລກອອນໄລນ.">
+<!ENTITY activity_stream_firefox_promo_button "ເບິງຕົວຢ່າງ">
 
 <!ENTITY activity_stream_topsites "ເວັບໄຊທ໌ຍອດນິຍົມ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
