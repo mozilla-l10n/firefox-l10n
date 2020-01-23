@@ -116,8 +116,6 @@ options-context-triggers-page-refresh = * Kun nuværende session, genindlæser s
 
 ##
 
-# The heading for the Debugger section
-options-debugger-label = Debugger
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Vis Gecko-platformsdata

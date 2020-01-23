@@ -3,3 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Billede-i-billede
+pictureinpicture-pause =
+    .aria-label = Pause
+pictureinpicture-play =
+    .aria-label = Afspil
+pictureinpicture-mute =
+    .aria-label = Slå lyd fra
+pictureinpicture-unmute =
+    .aria-label = Slå lyd til
