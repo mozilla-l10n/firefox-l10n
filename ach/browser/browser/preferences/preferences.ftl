@@ -314,7 +314,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 play-drm-content-learn-more = Nong ngec mapol
 update-application-title = Ngec manyen me { -brand-short-name }
@@ -470,6 +470,11 @@ search-bar-shown =
     .label = Med lanyut me yeny i gitic
 search-engine-default-header = Ingin me yeny makwongo
 search-engine-default-desc = Yer injin me yeny makwongo me tic kwede i lanyut me kanonge ki lanyut me yeny.
+search-separate-default-engine =
+    .label = Tii ki injin yeny man i DIrica me Mung
+    .accesskey = T
+search-suggestions-header = Tam amiya me Yeny
+search-suggestions-desc = Yer kit ma tam amiya ki bot injin yeny nyute kwede.
 search-suggestions-option =
     .label = Mi tam me yeny
     .accesskey = y
@@ -483,6 +488,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Nyut tam amia me yeny inyim jami mukato me yeny ii adwogi pa lanyut me kabedo
+search-show-suggestions-private-windows =
+    .label = Nyut tam amiya me yeny i Dirica me Mung
 search-suggestions-cant-show = Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero { -brand-short-name } pe me poo ikom gin mukato matwal.
 search-one-click-header = Ingin me yeny ma idiyo kicel
 search-one-click-desc = Yer injin yeny mukene manyute piny ite lanyut kanonge ki lanyut yeny ka i cako keto nyig lok ma pire tek.
@@ -554,6 +561,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Juk kube…
     .accesskey = J
+sync-sign-out =
+    .label = Kat Woko…
+    .accesskey = K
 sync-manage-account = Lo akaunt
     .accesskey = o
 sync-signedin-unverified = { $email } pe ki moko ada ne.
@@ -762,7 +772,7 @@ content-blocking-private-trackers = Lulub kor ma ngene keken i Dirica me Mung
 ## Enhanced Tracking Protection.
 
 
-
+##
 
 content-blocking-all-cookies = Angija weng
 content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi
@@ -840,6 +850,7 @@ permissions-a11y-privacy-link = Nong ngec mapol
 collection-header = { -brand-short-name } coko ki tic ki data
 collection-description = Wa tute me miini jami ayera ki wacoko keken ngo ma wa mito me miyo ki yubo maber { -brand-short-name } pi dano weng. Jwijwi wa penyo pi twero ma pud pe kigamo ngec ma ngat moni.
 collection-privacy-notice = Ngec me mung
+collection-health-report-telemetry-disabled-link = Nong ngec mapol
 collection-health-report =
     .label = Yee { -brand-short-name } me cwalo data me diro ki kube bot { -vendor-short-name }
     .accesskey = r
