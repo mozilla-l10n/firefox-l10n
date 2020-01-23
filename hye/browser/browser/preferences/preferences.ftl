@@ -783,9 +783,68 @@ history-header = Պատմութիւն
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }-ը կսկսի`
     .accesskey = կ
+history-remember-option-all =
+    .label = Հիշել պատմութիւնը
+history-remember-option-never =
+    .label = Երբեք չյիշել այցելութիւնները
+history-remember-option-custom =
+    .label = Պատմութեան համար աւգտագործել սեփական կարգաւորումները
+history-remember-description = { -brand-short-name }-ը կը հիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
+history-dontremember-description = { -brand-short-name }ը կաւգտագործի գաղտնի դիտարկման կարգաւորումները եւ  չի հիշի համացանցում Ձեր դիտարկումների պատմութիւնը:
+history-private-browsing-permanent =
+    .label = Միշտ աւգտագործել Գաղտնի Դիտարկումը
+    .accesskey = Գ
+history-remember-browser-option =
+    .label = Հիշել դիտարկումները եւ ներբեռնումների պատմութիւնը
+    .accesskey = b
+history-remember-search-option =
+    .label = Հիշել որոնման եւ ձեւերի պատմութիւնը
+    .accesskey = ձ
+history-clear-on-close-option =
+    .label = { -brand-short-name }-ը փակելիս մաքրել պատմութիւնը
+    .accesskey = լ
+history-clear-on-close-settings =
+    .label = Կարգաւորումներ...
+    .accesskey = ր
+history-clear-button =
+    .label = Մաքրել պատմութիւնը…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookie-ներ եւ կայքի տուեալներ
+sitedata-total-size-calculating = Հաշուում է կայքի տուեալները եւ շտեմի չափը…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ձեր cookie-ները, կայքի տուեալները եւ շտեմը այժմ զբաղեցնում են { $value } { $unit } տեղ:
+sitedata-learn-more = Իմանալ աւելին
+sitedata-delete-on-close =
+    .label = Ջնջել թխուկներ եւ կայքի տուեալները երբ { -brand-short-name }-ը փակուած է
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = Մշտական կողպուած զննարկման աշխատատեսակում, թխուկների եւ կայքերի տուեալները միշտ կլինեն մաքրուած երբ { -brand-short-name }-ը փակուած է։
+sitedata-allow-cookies-option =
+    .label = Ընդունեք թխուկների եւ կայքերի տուեալներ
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Արգելափակել թխուկների եւ կայքերի տուեալները
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Տեսակը արգելափակուած է
+    .accesskey = T
+sitedata-option-block-trackers =
+    .label = Երրորդ կողմի հետագծիչներ
+sitedata-option-block-cross-site-trackers =
+    .label = Միջակայքային հետեւումներ
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Խաչաձեւ կայքի եւ սոցիալական միջաւայրի վնասներ
+sitedata-option-block-unvisited =
+    .label = Նշոցիկներ չայցելած վեբ կայքերից
+sitedata-option-block-all-third-party =
+    .label = Բոլոր երրորդ-կողմերի թխուկները (կարող են վեբ կայքերի կոտրման պատճառ լինել)
+sitedata-option-block-all =
+    .label = Բոլոր թխուկները (վեբ կայքերի կոտրման պատճառ կը լինեն)
 
 ## Privacy Section - Address Bar
 
