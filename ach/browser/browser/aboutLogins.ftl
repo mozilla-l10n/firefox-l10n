@@ -39,11 +39,6 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
 
 login-list =
     .aria-label = Donyo iyie ma rwatte ki lok me yeny
-login-list-count =
-    { $count ->
-        [one] donyo iyie
-       *[other] donyo iyie
-    }
 login-list-name-option = Nying (A-Z)
 login-list-last-changed-option = Yub me agiki
 login-list-last-used-option = Tic kwede me agiki
