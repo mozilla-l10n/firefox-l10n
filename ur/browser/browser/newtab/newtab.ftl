@@ -33,6 +33,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ٹائپ کریں یا ایک URL چسباں کریں
 newtab-topsites-url-validation = جائز URL درکار ہے
+newtab-topsites-image-url-label = مخصوص نقش کا URL
 newtab-topsites-image-validation = نقش لوڈ ہونے میں ناکام رہا۔ براہ مہربانی ایک مختلف URL کو آزمائیں۔
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -169,4 +170,5 @@ newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = افوہ ، اس مواد کو لوڈ کرنے میں کچھ غلط ہو گیا۔
 newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے پیج کو ریفریش کریں۔
