@@ -161,9 +161,12 @@ newtab-empty-section-topstories = Ityeko weng. Rot doki lacen pi lok madito mapo
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Ityeko woko weng!
 newtab-discovery-empty-section-topstories-content = Rot doki lacen pi lok mapol.
 newtab-discovery-empty-section-topstories-try-again-button = Tem Doki
 newtab-discovery-empty-section-topstories-loading = Tye ka cano…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Oops! Manok kono onongo wa cano bute man, ento pe weng.
 
 ## Pocket Content Section.
 

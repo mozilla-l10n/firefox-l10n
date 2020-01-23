@@ -23,6 +23,7 @@ onboarding-welcome-body = Dong itye ki layeny.<br/>Rwatte ki jami mukene me { -b
 onboarding-welcome-learn-more = Nong ngec mapol ikom ber ne.
 onboarding-welcome-modal-get-body = Dong itye ki layeny.<br/>Dong nong mapol ki i { -brand-product-name }.
 onboarding-welcome-modal-privacy-body = Dong itye ki layeny. Wek wamed gwoke me mung mapol.
+onboarding-welcome-modal-family-learn-more = Nong ngec mapol ikom dul jami me { -brand-product-name }.
 onboarding-welcome-form-header = Cak Ki Kany
 onboarding-join-form-header = Dony iyie { -brand-product-name }
 onboarding-join-form-body = Ket kanonge ni me email me cako.
@@ -114,7 +115,10 @@ onboarding-pocket-anywhere-button = Tem { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Wot ki mung me donyo mamegi ka mo keken
 onboarding-lockwise-passwords-text2 = Gwok mung me donyo ma igwoko gi maber ki dony mayot iyie akaunt mamegi ki { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Nong purugram ne
+onboarding-lockwise-strong-passwords-button = Lo Donyo iyie Mamegi
+onboarding-facebook-container-button = Med Lamed
 onboarding-import-browser-settings-title = Kel ki woko Alamabuk Mamegi, Mung me donyo, ki Mapol
+onboarding-import-browser-settings-button = Kel ki woko Data me Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
