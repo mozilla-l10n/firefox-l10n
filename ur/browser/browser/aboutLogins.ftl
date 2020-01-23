@@ -59,6 +59,7 @@ login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
 
 ## Introduction screen
 
+login-intro-heading = اپنے محفوظ شدہ لاگ ان ڈھونڈ رہے ہیں؟ { -sync-brand-short-name } مرتب کریں۔
 about-logins-login-intro-heading-logged-in = کوئی ہمہ وقت ساز  لاگ ان نہیں ملا۔
 
 ## Login

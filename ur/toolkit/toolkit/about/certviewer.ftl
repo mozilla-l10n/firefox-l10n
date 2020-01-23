@@ -31,6 +31,7 @@ certificate-viewer-required = درکار ہے
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = تسلسلی نمبر
+certificate-viewer-signature-scheme = دستخطی اسکیم
 certificate-viewer-value = قدر
 certificate-viewer-version = ورژن
 certificate-viewer-business-category = کاروباری زمرہ
