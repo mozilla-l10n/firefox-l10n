@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = ہمہ وقت ساز ٹیب
 synced-tabs-sidebar-noclients-subtitle = اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟
 synced-tabs-sidebar-notsignedin = ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔
+synced-tabs-sidebar-intro = دیگر آلات سے ٹیبیں کی فہرست دیکھنیں۔
 synced-tabs-sidebar-unverified = آپ کے اکائونٹ کو توژیک کاری کی ظرورت ہے۔
 synced-tabs-sidebar-notabs = کوئی کھلے ٹیب نہیں
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } ترجیحات کھولیں
