@@ -845,12 +845,50 @@ sitedata-option-block-all-third-party =
     .label = Բոլոր երրորդ-կողմերի թխուկները (կարող են վեբ կայքերի կոտրման պատճառ լինել)
 sitedata-option-block-all =
     .label = Բոլոր թխուկները (վեբ կայքերի կոտրման պատճառ կը լինեն)
+sitedata-clear =
+    .label = Մաքրել տուեալները…
+    .accesskey = l
+sitedata-settings =
+    .label = Կառաւարել տուեալները…
+    .accesskey = M
+sitedata-cookies-permissions =
+    .label = Կառաւարել թոյլատրութիւնները…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Հասցէագոտի
+addressbar-suggest = Հասցէագոտին աւգտագործելիս առաջարկել
+addressbar-locbar-history-option =
+    .label = Դիտարկման պատմութիւն
+    .accesskey = H
+addressbar-locbar-bookmarks-option =
+    .label = Էջանիշեր
+    .accesskey = ի
+addressbar-locbar-openpage-option =
+    .label = Բացել ներդիրները
+    .accesskey = Բ
+addressbar-suggestions-settings = Փոխել որոնիչների նախապատուութիւնները
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Բովանդակութեան արգելափակում
+content-blocking-section-description = Պաշտպանում է ձեր գաղտնիութիւնը՝ զննելիս։ Արգելափակել անտեսանելի բովանդակութիւնը, որը վնասում է Ձեր այցելած կայքերը եւ հատկագրում Ձեզ։ Այս բովանդակութեան արգելափակումը կարող է արագացնել որոշ էջերի բեռնումը։
+content-blocking-enhanced-tracking-protection = Կատարելագործում է Հետեւման պաշտպանութիւնը
+content-blocking-section-top-level-description = Հետեւողները հետեւում են Ձեզ առցանց Ձեր զննարկման հատկութիւնների եւ հետաքրքրութիւնների մասին տեղեկութիւն հաւաքելու համար։ { -brand-short-name }-ը արգելափակում է այս հետեւումներից եւ այլ վնասարար գրուածքներից շատերը։
+content-blocking-learn-more = Իմանալ աւելին
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Չափաւրինակ
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Ճշգրիտ
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Հարմարեցուած
+    .accesskey = C
+content-blocking-standard-desc = Համակշռել պաշտպանութեան եւ իրականցման համար։ Կարող թոյլատրել որոշ վնասներ, վեբ կայքերի ճշգրիտ աշխատանքի համար։
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
