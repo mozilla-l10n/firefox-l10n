@@ -254,6 +254,32 @@ download-choose-folder =
 download-always-ask-where =
     .label = Միշտ հարցնել ֆայլերը պահպանելու տեղը
     .accesskey = Մ
+applications-header = Ծրագրեր
+applications-description = Ընտրեք, թե ինչպէս { -brand-short-name }-ը վարուի Ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ Ձեր կողմից օգտագործուող յաւելուածների հետ:
+applications-filter =
+    .placeholder = Որոնել ֆայլերի տեսակները կամ ծրագրերը
+applications-type-column =
+    .label = Բովանդակութեան տեսակը
+    .accesskey = տ
+applications-action-column =
+    .label = Գործողութիւն
+    .accesskey = Գ
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } ֆայլ
+applications-action-save =
+    .label = Պահպանել Ֆայլը
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Աւգտագործել { $app-name }-ը
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Աւգտագործել { $app-name }-ը (լռելեայն)
+applications-use-other =
+    .label = Աւգտագործել մեկ ուրիշը…
+applications-select-helper = Ընտրել Սատարող Ծրագիրը
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
