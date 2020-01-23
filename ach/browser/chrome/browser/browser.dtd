@@ -948,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Mi ripot me bal">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Nong ngec mapol">
 
+<!ENTITY contentBlocking.breakageReportView3.description "Gengo lulub kor moni mogo twero kelo peko ki kakube mogo. Miyo ripot ikom peko magi konyo weko &brandShortName; bedo ber pi dano weng. Cwalo ripot man bicwalo URL ki ngec ikom ter me layeny mamegi bot Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Nong ngec mapol">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Peko ango ma ibedo kwede? (Ka imito)">

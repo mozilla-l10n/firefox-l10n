@@ -48,15 +48,19 @@ login-list-item-title-new-login = Donyo iyie manyen
 login-intro-heading = Itye ka yenyo donyo iyie mamegi ma igwoko? Ter { -sync-brand-short-name }.
 login-intro-description = Kacce igwoko donyo iyie mamegi i { -brand-product-name } i nyonyo mukene, man aye kit ma itwero nongo gi kany:
 login-intro-instruction-fxa = Cwe onyo dony iyie { -fxaccount-brand-name } mamegi i nyonyo ma kigwoko iyie donyo iyie mamegi.
+about-logins-intro-import = Kacce kigwoko donyo iyie mamgei ii layeny mukene, itwero <a data-l10n-name="import-link">kelo gi ki woko ii { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Cwe Donyo iyie manyen
 login-item-edit-button = Yubi
-login-item-delete-button = Kwany
 about-logins-login-item-remove-button = Kwany
+login-item-origin-label = Kanonge me kakube
 login-item-origin =
     .placeholder = https://www.example.com
+login-item-username-label = Nying me tic
+about-logins-login-item-username =
+    .placeholder = (nying me tic pe)
 login-item-copy-username-button-text = Loki
 login-item-copied-username-button-text = Kiloko!
 login-item-password-label = Mung me donyo
@@ -64,6 +68,8 @@ login-item-password-reveal-checkbox-show =
     .title = Nyut mung me donyo
 login-item-password-reveal-checkbox-hide =
     .title = Kan mung me donyo
+login-item-password-reveal-checkbox =
+    .aria-label = Nyut mung me donyo
 login-item-copy-password-button-text = Loki
 login-item-copied-password-button-text = Kiloko!
 login-item-save-changes-button = Gwok alokaloka
@@ -81,7 +87,6 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-confirm-delete-dialog-title = Kwany donyo iyie man?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Pe i penya doki
     .accesskey = P
@@ -93,12 +98,13 @@ confirmation-dialog-dismiss-button =
     .title = Juki
 about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
 confirm-delete-dialog-message = Pe ki twero gonyo tic man.
-confirm-delete-dialog-confirm-button = Kwany
 about-logins-confirm-remove-dialog-confirm-button = Kwany
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = Lor ngec man
 
 ## Error Messages
 
