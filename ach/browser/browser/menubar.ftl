@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Wang komputa ma opong
     .accesskey = W
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Nyut dirica matino weng
@@ -218,6 +218,9 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Rib Kombedi
     .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = Nwo kube ki { -brand-product-name }…
+    .accesskey = N
 menu-tools-web-developer =
     .label = Layub Kakube
     .accesskey = L

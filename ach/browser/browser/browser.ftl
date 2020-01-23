@@ -133,6 +133,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ter calo Ingin me yeny makwongo
     .accesskey = m
+search-one-offs-context-set-as-default-private =
+    .label = Ter calo Injin Yeny Makwongo pi Dirica me Mung
+    .accesskey = D
 
 ## Bookmark Panel
 
@@ -146,10 +149,13 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Kube pe tye ki ber bedo
+identity-connection-secure = Kube tye ki ber bedo
 identity-connection-internal = Man potbuk me { -brand-short-name } matye ki ber bedo.
 identity-connection-file = Kigwoko potbuk man i kompiuta mamegi.
 identity-extension-page = Kicano potbuk man ki i lamed
 identity-active-blocked = { -brand-short-name } ogengo but potbuk man ma pe tye ki ber bedo.
+identity-custom-root = Kimoko kube ki lami catibiket ma Mozilla pe ngeyo.
 identity-passive-loaded = But potbuk man pe tye ki ber bedo (calo cal).
 identity-active-loaded = I juko gwokke woko ki i potbuk man.
 identity-weak-encryption = Potbuk man tiyo ki loko ngec i kod ma goro.
@@ -160,6 +166,8 @@ identity-permissions-reload-hint = Twero mite ni myero i nwo cano potbuk wek alo
 identity-permissions-empty = Pe imiyo ki kakube man kit twer madito mo keken.
 identity-clear-site-data =
     .label = Jwa Angija ki Data me kakube…
+identity-connection-not-secure-security-view = Pe itye ki kube maber ki kakube man.
+identity-connection-verified = Itye ki kube maber ki kakube man.
 identity-ev-owner-label = Kimiyo catibiket bot:
 identity-remove-cert-exception =
     .label = Kwany ma kiweko woko

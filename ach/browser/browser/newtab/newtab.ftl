@@ -84,8 +84,9 @@ newtab-menu-archive-pocket = Kan i { -pocket-brand-name }
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Otum
+newtab-privacy-modal-link = Nong ngec ikit ma mung tiyo kwede i dirica matidi manyen
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Kwany alamabuk
@@ -168,7 +169,7 @@ newtab-discovery-empty-section-topstories-loading = Tye ka cano…
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Lok macuk gi lamal:
-newtab-pocket-how-it-works = Kit ma tiyo kwede
+newtab-pocket-whats-pocket = Ngo ma obedo { -pocket-brand-name }?
 newtab-pocket-cta-button = Nong { -pocket-brand-name }
 newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik wii ki jami me akwana ma mako wii.
 
