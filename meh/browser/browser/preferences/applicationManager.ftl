@@ -8,6 +8,12 @@ app-manager-window =
 app-manager-remove =
     .label = Xita
     .accesskey = R
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Daa ka̱a̱ ya´a kuvi ni´i tetiñu { $type } enlaces.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Daa ka̱a̱ ya´a kuvi ni´i tetiñu { $type } contenido.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.

@@ -24,5 +24,7 @@ colors-use-system =
     .label = Ni´i teku ka̱a̱ tee nɨnuu
     .accesskey = s
 colors-links-header = Link Teku
+colors-unvisited-links = Enlaces ntu nne´ya
+    .accesskey = L
 colors-visited-links = Página nne´ya
     .accesskey = V

@@ -61,6 +61,9 @@ permissions-invalid-uri-label = Nejika chu´unu iin nuu vatu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-content-blocking-window =
+    .title = Excepciones - Nnakasɨ contenido
+    .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu daa sitios ya´a.
 
 ## Exceptions - Cookies
