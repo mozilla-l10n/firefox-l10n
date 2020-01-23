@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Mở bảng thông báo cài đặt tiện ích
 urlbar-tip-help-icon =
     .title = Trợ giúp
+urlbar-search-tips-confirm = OK, đã hiểu
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
