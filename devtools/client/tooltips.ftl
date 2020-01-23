@@ -52,3 +52,4 @@ inactive-css-not-inline-or-tablecell-fix = Паспрабуйце дадаць <
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Паспрабуйце дадаць <strong>display:inline-block</strong> або <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Паспрабуйце дадаць <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Паспрабуйце выдаліць <strong>float</strong> або дадаць <strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Паспрабуйце ўсталяваць яго ўласцівасць <strong>position</strong> на што-небудзь іншае, ніж <strong>static</strong>. { learn-more }
