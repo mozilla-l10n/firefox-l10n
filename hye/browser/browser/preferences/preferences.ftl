@@ -495,9 +495,45 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Հատուածներ
+home-prefs-snippets-description = Թարմացումներ { -vendor-short-name }-ից եւ { -brand-product-name }-ից
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } տող
+           *[other] { $num } տողեր
+        }
 
 ## Search Section
 
+search-bar-header = Որոնման գոտի
+search-bar-hidden =
+    .label = Աւգտագործեք հասցեի գոտին՝ որոնման եւ ուղղորդման համար
+search-bar-shown =
+    .label = Աւելացնել որոնման գոտին գործիքագոտիում
+search-engine-default-header = Հիմնական որոնիչը
+search-engine-default-desc = Ընտրեք լռելեայն որոնիչը՝ աւգտագործելու համար հասցեի եւ որոնման գոտիում:
+search-engine-default-desc-2 = Սա ձեր լռելեայն որոնման միջոցն է հասցեագոտում եւ որոնման գոտում։ Դուք կարող եք փոխել այն ցանկացած ժամանակ։
+search-engine-default-private-desc-2 = Ընտրեք այլ լռելեայն որոնման միջոց անձնական պատուհանների համար միայն
+search-separate-default-engine =
+    .label = Անձնական պատուհաններում աւգտագործեք այս որոնիչը
+    .accesskey = U
+search-suggestions-header = Որոնել առաջարկութիւն
+search-suggestions-desc = Ընտրեք, թե ինչպէս են որոնման առաջարկները երեւում։
+search-suggestions-option =
+    .label = Ցուցադրել որոնման հուշումներ
+    .accesskey = ո
+search-show-suggestions-url-bar-option =
+    .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդիւնքներում
+    .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդիւնքների ամենավերեւում
+search-show-suggestions-private-windows =
+    .label = Ցույց տալ որոնման առաջարկները մասնաւոր պատուհանում
 
 ## Containers Section
 
