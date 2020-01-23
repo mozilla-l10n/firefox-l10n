@@ -925,12 +925,51 @@ content-blocking-cryptominers = Գաղտնազերծիչներ
 content-blocking-fingerprinters = Մատնահետքեր
 content-blocking-warning-title = Ուշադրութիւն։
 content-blocking-warning-description = Բովանդակութեան արգելափակումը կարող է որոշ կայքերի կոտրման պատճառ դառնալ։ Հեշտ է անջատել վստահուած կայքերի արգելափակումը։
+content-blocking-learn-how = Իմանալ, թե ինչպէս
+content-blocking-etp-warning-description = Հետեւման արգելափակումը կարող է ազդել որոշ կայքերի գործառութեանը։ Վերբեռնե՛ք էջը հետեւումներով ողջ բովանդակութիւնը բեռնելու համար։
+content-blocking-warning-learn-how = Իմանալ ինչպէս
+content-blocking-reload-description = Ձեզ հարկաւոր կլինի վերբեռնել Ձեր ներդիրները այս փոփոխութիւնները հաստատելու համար։
+content-blocking-reload-tabs-button =
+    .label = Վերբեռնել բոլոր ներդիրները
+    .accesskey = R
+content-blocking-trackers-label =
+    .label = Հետքեր
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = Հետեւող բովանդակութիւն
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = Բոլոր պատուհաններում
+    .accesskey = A
+content-blocking-option-private =
+    .label = Միայն անձնական պատուհաններում
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Փոխել արգելացուցակը
+content-blocking-cookies-label =
+    .label = Նշոցիկներ
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Լրացուցիչ տեղեկութիւն
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Գաղտնազերծիչներ
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Մատնահետքեր
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Կառաւարել ընդլայնումները...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = Թոյլտուութիւններ
+permissions-location = Տեղադրութիւն
 
 ## Privacy Section - Data Collection
 
