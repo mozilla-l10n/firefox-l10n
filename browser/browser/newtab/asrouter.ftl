@@ -91,6 +91,10 @@ cfr-whatsnew-button =
     .tooltiptext = Не жаңалық
 cfr-whatsnew-panel-header = Не жаңалық
 cfr-whatsnew-release-notes-link-text = Шығарылым ескертпесін оқу
+cfr-whatsnew-fx70-title = { -brand-short-name } сіздің жекелігіңіз үшін енді күштірек күреседі
+cfr-whatsnew-fx70-body =
+    Соңғы жаңарту Бақылаудан Қорғанысты жақсартып, әр сайт үшін
+    күштірек парольдерді жасауды оңайырақ қылады.
 cfr-whatsnew-tracking-protect-title = Өзіңізді трекерлерден қорғаңыз
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
