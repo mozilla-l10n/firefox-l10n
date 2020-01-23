@@ -318,12 +318,35 @@ addon-options-button =
 
 ## Add-on actions
 
+report-addon-button = Danevelliñ
 remove-addon-button = Dilemel
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Ne c'hall ket bezañ dilemet <a data-l10n-name="link">Perak ?</a>
 disable-addon-button = Diweredekaat
 enable-addon-button = Gweredekaat
 expand-addon-button = Dibarzhioù ouzhpenn
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Gweredekaat
+details-addon-button = Munudoù
+release-notes-addon-button = Notennoù handelv
+permissions-addon-button = Aotreoù
 addons-enabled-heading = Gweredekaet
 addons-disabled-heading = Diweredekaet
+extension-enabled-heading = Gweredekaet
+extension-disabled-heading = Diweredekaet
+theme-enabled-heading = Gweredekaet
+theme-disabled-heading = Diweredekaet
+plugin-enabled-heading = Gweredekaet
+plugin-disabled-heading = Diweredekaet
+dictionary-enabled-heading = Gweredekaet
+dictionary-disabled-heading = Diweredekaet
+locale-enabled-heading = Gweredekaet
+locale-disabled-heading = Diweredekaet
+ask-to-activate-button = Goulenn evit gweredekaat
+always-activate-button = Atav gweredekaat
+never-activate-button = Na weredekaat biken
 addon-detail-author-label = Aozer
 addon-detail-version-label = Handelv
 addon-detail-last-updated-label = Hizivaet da ziwezhañ
