@@ -8,6 +8,9 @@ profiles-create = Krouiñ un aelad nevez
 profiles-restart-title = Adloc'hañ
 profiles-restart-in-safe-mode = Adloc'hañ gant an askouezhioù diweredekaet…
 profiles-restart-normal = Adloc'hañ ordinal...
+profiles-flush-fail-title = N'eo ket enrollet ar c'hemmoù
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = Adloc'hañ { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Aelad : { $name }

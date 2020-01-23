@@ -99,6 +99,7 @@ detail-private-browsing-description2 = P'eo aotreet e c'hall an askouezh haeziñ
 # cannot be overridden by the user.
 detail-private-disallowed-label = N'eo ket aotreet er prenestroù prevez
 detail-private-disallowed-description = An askouezh-mañ n'eo ket lañset er merdeiñ prevez. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
+detail-private-disallowed-description2 = An askouezh-mañ n'eo ket lañset er merdeiñ prevez. <a data-l10n-name="learn-more">Gouzout hiroc'h</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Goulenn haeziñ d'ar prenestroù prevez
 detail-private-required-description = An askouezh-mañ a c'hall haeziñ hoc'h oberiantiz enlinenn e-pad ar merdeiñ prevez. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
@@ -295,11 +296,25 @@ go-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Gouzout hiroc'h
+privacy-policy = Reolenn a-fet buhez prevez
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = gant <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Implijerien: { $dailyUsers }
 install-extension-button = Ouzhpennañ da { -brand-product-name }
+install-theme-button = Staliañ an tem
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Merañ
+find-more-addons = Kavout askouezhioù ouzhpenn
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Dibarzhioù ouzhpenn
 
 ## Add-on actions
 

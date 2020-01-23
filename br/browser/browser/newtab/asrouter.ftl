@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Askouezh erbedet
 cfr-doorhanger-feature-heading = Keweriuster erbedet
 cfr-doorhanger-pintab-heading = Klaskit an dra-se: spilhennañ an ivinell
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perak e welan an dra-mañ
@@ -124,6 +124,17 @@ cfr-whatsnew-lockwise-backup-link-text = Gweredekaat ar gwaredoù
 cfr-whatsnew-lockwise-take-title = Kemerit ho kerioù-tremen ganeoc'h
 cfr-whatsnew-lockwise-take-body = Gant arload hezoug { -lockwise-brand-short-name } e c'hallit gwelout ho kerioù-tremen gwaredet adalek forzh pe lec'h.
 cfr-whatsnew-lockwise-take-link-text = Kaout an arload
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Gouzout hiroc'h
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Gouzout hiroc'h
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 

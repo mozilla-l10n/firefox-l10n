@@ -80,6 +80,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Digeriñ penel kemennadenn staliadur an askouezh
 urlbar-tip-help-icon =
     .title = Kaout skoazell
+urlbar-search-tips-confirm = Mat eo, komprenet am eus
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -168,6 +169,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = N'eo ket diarvar ar c'hennask
+identity-connection-secure = Kennask suraet
 identity-connection-internal = Ur bajenn { -brand-short-name } diarvar eo.
 identity-connection-file = War hoc'h urzhiataer eo kadavet ar bajenn-mañ.
 identity-extension-page = Diwar un askouezh eo karget ar bajenn-mañ.
@@ -177,10 +180,14 @@ identity-passive-loaded = Arvarus eo lodennoù eus ar bajennad (skeudennoù, da 
 identity-active-loaded = Diweredekaet ho peus ar gwarez war ar bajenn-mañ.
 identity-weak-encryption = Enrinegañ gwan a vez arveret gant ar bajenn-mañ.
 identity-insecure-login-forms = Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.
+identity-permissions =
+    .value = Aotreoù
 identity-permissions-reload-hint = Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.
 identity-permissions-empty = N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.
 identity-clear-site-data =
     .label = Skarzhañ an toupinoù ha roadennoù lec'hienn…
+identity-connection-not-secure-security-view = N'oc'h ket kennasket d'al lec'hienn-mañ en un doare sur.
+identity-connection-verified = Kennasket oc'h d'al lec'hienn-mañ en un doare sur.
 identity-description-custom-root = Ne adanavez ket Mozilla pourchaser an testeni-mañ. Marteze eo bet ouzhpennet gant ho reizhiad korvoiñ pe gant un ardoer. <label data-l10n-name="link">Gouzout hiroc'h</label>
 identity-remove-cert-exception =
     .label = Lemel an nemedenn kuit
