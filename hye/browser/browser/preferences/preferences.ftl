@@ -634,12 +634,44 @@ sync-signedin-settings-desc = Ընտրեք, թե { -brand-short-name }-ի միջ
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Համաժամեցում։ ՄԻԱՑՈՒԱԾ
+prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՈՒԱԾ
+prefs-sync-setup =
+    .label = Տեղակայել { -sync-brand-short-name }-ը․․․
+    .accesskey = S
+prefs-sync-offer-setup-label = Համաժամեցրեք Ձեր բոլոր էջանիշերը, պատմութիւնը, ներդիրները,գաղտնաբառերը, յաւելումները եւ կարգաւորումները Ձեր բոլոր սարքերի միջեւ։
+prefs-sync-now =
+    .labelnotsyncing = Համաժամեցնել հիմա
+    .accesskeynotsyncing = N
+    .labelsyncing = Համաժամեցում․․․
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Այս պահին համաժամեցնում ենք այս կետերը․
+sync-currently-syncing-bookmarks = Էջանիշեր
+sync-currently-syncing-history = Պատմութիւն
+sync-currently-syncing-tabs = Բացել ներդիրները
+sync-currently-syncing-logins-passwords = Մուտքանուններ եւ գաղտնաբառեր
+sync-currently-syncing-addresses = Հասցեներ
+sync-currently-syncing-creditcards = Վարկային քարտեր
+sync-currently-syncing-addons = Յաւելասարքեր
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Ընտրանքներ
+       *[other] Նախընտրութիւններ
+    }
+sync-change-options =
+    .label = Փոխել…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Ընրեք, թե ինչը համաժամեցնել
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Պահպանել փոփոխութիւնները
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Անջատուած…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
