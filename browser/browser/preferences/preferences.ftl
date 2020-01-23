@@ -523,6 +523,10 @@ search-bar-shown =
 search-engine-default-header = Негізгі іздеу жүйесі
 search-engine-default-desc = Адрестік жолақ және іздеу өрісі үшін қолданылатын негізгі іздеу жүйесін таңдау.
 search-engine-default-desc-2 = Бұл сіздің адрес жолағыңыздағы және іздеу жолындағы негізгі іздеу жүйесі. Сіз оны кез келген уақытта ауыстыра аласыз.
+search-engine-default-private-desc-2 = Тек жекелік терезелері үшін басқа іздеу жүйесін орнату
+search-separate-default-engine =
+    .label = Бұл іздеу жүйесін жекелік терезелерде қолдану
+    .accesskey = у
 search-suggestions-header = Іздеу ұсыныстары
 search-suggestions-desc = Іздеу жүйелерінің ұсыныстары қайда көрсетілетінін таңдаңыз.
 search-suggestions-option =
@@ -566,6 +570,12 @@ search-keyword-warning-bookmark = Сіз таңдаған қысқаша ата�
 ## Containers Section
 
 containers-back-link = « Артқа
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Баптауларға оралу
+           *[other] Баптауларға оралу
+        }
 containers-header = Контейнер беттері
 containers-add-button =
     .label = Жаңа контейнерді қосу
@@ -589,6 +599,9 @@ sync-signedout-account-create = Тіркелгіңіз жоқ па? Бастау
 sync-signedout-account-signin =
     .label = Кіру…
     .accesskey = р
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name } ішіне кіру…
+    .accesskey = у
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -829,6 +842,10 @@ sitedata-block-desc = Блокталғанның түрі
     .accesskey = т
 sitedata-option-block-trackers =
     .label = Үшінші жақты трекерлер
+sitedata-option-block-cross-site-trackers =
+    .label = Сайтаралық трекерлер
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Сайтаралық және әлеуметтік желілер трекерлері
 sitedata-option-block-unvisited =
     .label = Қаралмаған веб-сайттардан cookies файлдары
 sitedata-option-block-all-third-party =
@@ -864,6 +881,7 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 
 content-blocking-header = Құраманы бұғаттау
 content-blocking-section-description = Шолу кезінде жекелігіңізді қорғаңыз. Сіз шолатын сайттарды бақылайтын және сіздің профиліңізді жасайтын көрінбейтін құраманы бұғаттаңыз. Бұл құраманың кейбіреуін бұғаттау беттердің жылдамдау жүктелуіне әкеп соғуы мүмкін.
+content-blocking-enhanced-tracking-protection = Бақылаудан кеңейтілген қорғаныс
 content-blocking-learn-more = Көбірек білу
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -898,16 +916,23 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Қорғаныс және өнімділік теңгерімі. Беттер әдеттегідей жүктеледі.
+content-blocking-etp-strict-desc = Қатаңырақ қорғаныс, бірақ, кейбір сайттар немесе мазмұнның бұзылуына әкеп соғуы мүмкін.
+content-blocking-etp-custom-desc = Қай трекерлер мен скрипттерді блоктауды таңдаңыз.
+content-blocking-private-windows = Жекелік шолу терезелерінде бақылайтын құрама
+content-blocking-cross-site-tracking-cookies = Сайтаралық бақылайтын cookie файлдары
 content-blocking-social-media-trackers = Әлеуметтік желілер трекерлері
 content-blocking-all-cookies = Барлық cookie файлдары
 content-blocking-unvisited-cookies = Қаралмаған сайттардың cookies файлдары
 content-blocking-all-windows-trackers = Барлық терезелердегі белгілі трекерлер
+content-blocking-all-windows-tracking-content = Барлық терезелердегі бақылайтын құрама
 content-blocking-all-third-party-cookies = Барлық үшінші жақты cookies
 content-blocking-cryptominers = Криптомайнерлер
 content-blocking-fingerprinters = Баспаны жинаушылар
 content-blocking-warning-title = Ескерту!
 content-blocking-warning-description = Құраманы бұғаттау кейбір веб-сайттар жұмысын бұзуы мүмкін. Сенімді сайттар үшін бұғаттауды өшіру оңай.
 content-blocking-learn-how = Көбірек білу
+content-blocking-etp-warning-description = Трекерлерді бұғаттау кейбір сайттардың жұмысына әсер етуі мүмкін. Барлық мазмұнды жүктеу үшін трекерлермен бетті қайта жүктеңіз.
 content-blocking-warning-learn-how = Көбірек білу
 content-blocking-reload-description = Бұл өзгерістер іске асуы үшін беттерді қайта жүктеу керек болады.
 content-blocking-reload-tabs-button =
@@ -916,6 +941,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Трекерлер
     .accesskey = Т
+content-blocking-tracking-content-label =
+    .label = Бақылайтын құрама
+    .accesskey = т
 content-blocking-tracking-protection-option-all-windows =
     .label = Барлық терезелерде
     .accesskey = а
@@ -1003,6 +1031,7 @@ permissions-a11y-privacy-link = Көбірек білу
 collection-header = { -brand-short-name } деректер жинауы және қолданылуы
 collection-description = Біз сізге таңдауды қолыңызға беріп, тек әркім үшін { -brand-short-name } өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.
 collection-privacy-notice = Жекелік ескертуі
+collection-health-report-telemetry-disabled-link = Көбірек білу
 collection-health-report =
     .label = { -brand-short-name } үшін { -vendor-short-name } адресіне техникалық және әрекеттесу деректерін жіберуді рұқсат ету
     .accesskey = р

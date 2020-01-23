@@ -87,7 +87,7 @@ newtab-menu-show-privacy-info = Біздің демеушілеріміз жән
 newtab-privacy-modal-button-done = Дайын
 newtab-privacy-modal-header = Сіздің жекелігіңіз маңызды.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Бетбелгіні өшіру
@@ -172,7 +172,7 @@ newtab-discovery-empty-section-topstories-loading = Жүктелуде…
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Әйгілі тақырыптар:
 newtab-pocket-more-recommendations = Көбірек ұсыныстар
-newtab-pocket-how-it-works = Ол қалай жұмыс істейді
+newtab-pocket-whats-pocket = { -pocket-brand-name } деген не?
 newtab-pocket-cta-button = { -pocket-brand-name }-ті алу
 newtab-pocket-cta-text = Өзіңіз ұнатқан хикаяларды { -pocket-brand-name } ішіне сақтап, миіңізді тамаша оқумен толықтырыңыз.
 

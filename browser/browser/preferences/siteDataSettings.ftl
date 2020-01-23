@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Сақтауыш
 site-data-column-last-used =
     .label = Соңғы қолданылған
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (жергілікті файл)
 site-data-remove-selected =
     .label = Таңдалғанды өшіру
     .accesskey = р
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Өзгерістерді сақтау
     .accesskey = с
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Тұрақты)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
