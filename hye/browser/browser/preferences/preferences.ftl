@@ -628,10 +628,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Մուտք գործել
     .accesskey = տ
-sync-signedin-settings-header = համաժամեցման կարգաւորումներ
+sync-signedin-settings-header = Համաժամեցման կարգաւորումներ
+sync-signedin-settings-desc = Ընտրեք, թե { -brand-short-name }-ի միջոցով ինչը համաժամեցնել Ձեր սարքերի միջեւ:
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Համաժամեցում։ ՄԻԱՑՈՒԱԾ
 
 ## The list of things currently syncing.
 
