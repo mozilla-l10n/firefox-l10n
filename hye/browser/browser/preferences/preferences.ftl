@@ -970,18 +970,118 @@ tracking-manage-exceptions =
 
 permissions-header = Թոյլտուութիւններ
 permissions-location = Տեղադրութիւն
+permissions-location-settings =
+    .label = Կարգաւորումներ...
+    .accesskey = t
+permissions-xr = Թվացեալ իրականութիւն
+permissions-xr-settings =
+    .label = Կարգաւորումներ…
+    .accesskey = t
+permissions-camera = Խցիկ
+permissions-camera-settings =
+    .label = Կարգաւորումներ...
+    .accesskey = t
+permissions-microphone = Խոսափող
+permissions-microphone-settings =
+    .label = Կարգաւորումներ...
+    .accesskey = t
+permissions-notification = Ծանուցումներ
+permissions-notification-settings =
+    .label = Կարգաւորումներ...
+    .accesskey = t
+permissions-notification-link = Իմանալ աւելին
+permissions-notification-pause =
+    .label = Դադարեցնել ծանուցումները մինչեւ{ -brand-short-name }-ը վերամեկնարկելը
+    .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Արգելափակել կայքերը ինքնաբերաբար ձայնային նուագումից
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Բացառութիւններ…
+    .accesskey = E
+permissions-autoplay = Ինքնանուագարկում
+permissions-autoplay-settings =
+    .label = Կարգաւորումներ...
+    .accesskey = t
+permissions-block-popups =
+    .label = Կանխել Pop-up պատուհանները
+    .accesskey = Կ
+permissions-block-popups-exceptions =
+    .label = Բացառութիւններ…
+    .accesskey = Բ
+permissions-addon-install-warning =
+    .label = Զգուշացնել, երբ կայքերը փորձում են տեղադրել յաւելումներ
+    .accesskey = W
+permissions-addon-exceptions =
+    .label = Բացառութիւններ…
+    .accesskey = Բ
+permissions-a11y-privacy-checkbox =
+    .label = Կանխել մատչելիութեան ծառայութիւնների կողմից Ձեր դիտարկիչի մատչումը
+    .accesskey = a
+permissions-a11y-privacy-link = Իմանալ աւելին
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name }-ի տուեալների հաւաքում եւ աւգտագործում
+collection-description = Մենք փորձում ենք տրամադրել Ձեզ ընտրութիւն եւ հաւաքել միայն այն ժամանակ, երբ մեզ պէտք է տրամադրել եւ լաւարկել { -brand-short-name }-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թոյլտուութիւն՝ մինչեւ անձնական տեղեկութիւններ ստանալը:
+collection-privacy-notice = Գաղտնիութեան ծանուցում
+collection-health-report-telemetry-disabled = Դուք այլեւս թոյլ չեք տալիս՝{ -vendor-short-name }֊ին գրաւել տեխնիկական եւ միջազգային միջնորդութեան տուեալները։ Անցեալ բոլոր տուեալները կը ջնջուեն 30 աւրուայ ընթացքում։
+collection-health-report-telemetry-disabled-link = Իմանալ աւելին
+collection-health-report =
+    .label = Թոյլատրել { -brand-short-name }-ին ուղարկել տեխնիկական եւ փոխազդելու տուեալներ { -vendor-short-name }-ին
+    .accesskey = r
+collection-health-report-link = Իմանալ աւելին
+collection-studies =
+    .label = Թոյլատրել { -brand-short-name }-ին տեղադրել եւ կատարել հետազոտութիւններ
+collection-studies-link = Դիտել { -brand-short-name }-ի հետազոտութիւնները
+addon-recommendations =
+    .label = Թոյլատրել { -brand-short-name } ֊ին կատարել անհատականացուած ընդլայնման առաջարկութիւններ
+addon-recommendations-link = Իմանալ աւելին
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Տուեալների զեկուցումը անջատուած է կազմաձեւի այս կառուցման համար
+collection-backlogged-crash-reports =
+    .label = Թոյլատրե՞լ { -brand-short-name }-ին ուղարկել հետին վթարի զեկույցներ առանց հարցնելու:
+    .accesskey = c
+collection-backlogged-crash-reports-link = Իմանալ աւելին
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Անվտանգութիւն
+security-browsing-protection = Խաբուսիկ բովանդակութիւն եւ պաշտպանութիւն վտանգաւոր ծրագրերից
+security-enable-safe-browsing =
+    .label = Արգելափակել վտանգաւոր եւ խաբուսիկ բովանդակութիւնը
+    .accesskey = Ա
+security-enable-safe-browsing-link = Իմանալ աւելին
+security-block-downloads =
+    .label = Արգելափակել վտանգաւոր ներբեռնումները
+    .accesskey = վ
+security-block-uncommon-software =
+    .label = Զգուշացնել ինձ անցանկալի եւ անսովոր ծրագրերի մասին
+    .accesskey = ս
 
 ## Privacy Section - Certificates
 
+certs-header = Վկայագրեր
+certs-personal-label = Երբ սպասարկիչը հարցնում է Ձեր անձնական վկայագիրը
+certs-select-auto-option =
+    .label = Ընտրել ինքնաշխատ
+    .accesskey = S
+certs-select-ask-option =
+    .label = Ամեն անգամ հարցնել
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Հարցում OCSP պատասխանիչի սպասարկիչին՝
+    .accesskey = Հ
+certs-view =
+    .label = Դիտել վկայագրերը...
+    .accesskey = C
+certs-devices =
+    .label = Անվտանգութեան սարքեր...
+    .accesskey = D
 
 ## The following strings are used in the Download section of settings
 
