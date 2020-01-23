@@ -33,6 +33,7 @@ menu-menuitem-preferences =
     }
 about-logins-menu-menuitem-help = مدد
 menu-menuitem-android-app = { -lockwise-brand-short-name }  براٴے  Android
+menu-menuitem-iphone-app = iPhone اور iPad کے لئے { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -49,6 +50,7 @@ login-list-breached-option = خلاف ورزی کرنے والی ویب سائٹ
 login-list-last-changed-option = آخری بار ترمیم کردہ
 login-list-last-used-option = آخری استعمال
 login-list-intro-title = کوئی لاگ ان نہیں ملا
+login-list-intro-description = جب آپ { -brand-product-name } میں پاس ورڈ محفوظ کریں گے تو ، وہ یہاں دکھایا جائے گا.
 about-logins-login-list-empty-search-title = کوئی لاگ ان نہیں ملا
 about-logins-login-list-empty-search-description = آپ کی تلاش سے مماثل کوئی نتائج نہیں مل رہے ہیں۔
 login-list-item-title-new-login = نیا لاگ ان
