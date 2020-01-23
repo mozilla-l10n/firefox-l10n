@@ -720,15 +720,32 @@ sync-device-name-change =
 sync-device-name-cancel =
     .label = Չեղարկել
     .accesskey = ա
+sync-device-name-save =
+    .label = Պահպանել
+    .accesskey = պ
+sync-connect-another-device = Միացնել այլ սարքի
+sync-manage-devices = Կառաւարել սարքերը
+sync-fxa-begin-pairing = Կցել սարք
+sync-tos-link = Ծառայութեան պայմանները
+sync-fxa-privacy-notice = Գաղտնիութեան Դրոյթները
 
 ## Privacy Section
 
+privacy-header = Դիտարկիչի գաղտնիութիւն
 
 ## Privacy Section - Forms
 
 
 ## Privacy Section - Logins and Passwords
 
+logins-header = Մուտքանուններ եւ Գաղտնաբառեր
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Հարցնել եւ պահպանել մուտքագրումները եւ գաղտնաբառերը կայքերի համար
+    .accesskey = r
+forms-exceptions =
+    .label = Բացառութիւններ…
+    .accesskey = ա
 
 ## Privacy Section - History
 
