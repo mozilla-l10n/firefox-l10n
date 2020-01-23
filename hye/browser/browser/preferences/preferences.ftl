@@ -1082,6 +1082,36 @@ certs-view =
 certs-devices =
     .label = Անվտանգութեան սարքեր...
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Իմանալ աւելին
+    .accesskey = Ի
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Բացել ընտրանքները
+           *[other] Բացել նախապատուութիւնները
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Բ
+           *[other] Բ
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-ում տեղ չկա: Կայքի բովանդակութիւնը նորմալ չի ցուցադրուի: Դուք կարող եք մաքրել կայքերի պահուած տուեալները Կարգաւորումներ > Լրացուցիչ > Կայքի տուեալներում:{ -brand-short-name }
+       *[other] { -brand-short-name }-ում տեղ չկա: Կայքի բովանդակութիւնը նորմալ չի ցուցադրուի: Դուք կարող եք մաքրել կայքերի պահուած տուեալները Կարգաւորումներ > Լրացուցիչ > Կայքի տուեալներում:
+    }
+space-alert-under-5gb-ok-button =
+    .label = Լաւ, հասկացա
+    .accesskey = ա
+space-alert-under-5gb-message = { -brand-short-name }-ում տեղ չկայ: Կայքի բովանդակութիւնը, հնարաւոր է, նորմալ չի ցուցադրուի: Այցելեք «Իմանալ աւելին»՝ լաւարկելու համար հիշասարքի աւգտագործումը՝ դիտարկումների աւելի լաւ փորձառութեան համար:
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Աշխատասեղան
+downloads-folder-name = Ներբեռնումներ
+choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Պահել նիշքերը այստէղ՝ { $service-name }
