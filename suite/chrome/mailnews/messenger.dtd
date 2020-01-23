@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mensagens sinalizadas">
 <!ENTITY selectFlaggedCmd.accesskey "M">
+<!ENTITY menuFavoriteFolder.label "Pasta preferida">
+<!ENTITY menuFavoriteFolder.accesskey "r">
 <!ENTITY folderPropsCmd.label "Propriedades">
 <!ENTITY folderPropsFolderCmd.label "Propriedades da pasta">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Mensagem sinalizada">
 <!ENTITY prevFlaggedMsgCmd.accesskey "z">
+<!ENTITY folderMenu.label "Pasta">
+<!ENTITY folderMenu.accesskey "s">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "c">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "P">
 <!ENTITY folderContextProperties.label "Propriedades">
 <!ENTITY folderContextProperties.accesskey "o">
+<!ENTITY folderContextFavoriteFolder.label "Pasta preferida">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Configurações…">
 <!ENTITY folderContextSettings.accesskey "C">
 
