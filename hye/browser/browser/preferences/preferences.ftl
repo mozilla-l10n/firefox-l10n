@@ -280,17 +280,97 @@ applications-use-app-default =
 applications-use-other =
     .label = Աւգտագործել մեկ ուրիշը…
 applications-select-helper = Ընտրել Սատարող Ծրագիրը
+applications-manage-app =
+    .label = Ծրագրի մանրամասները...
+applications-always-ask =
+    .label = Միշտ հարցնել
+applications-type-pdf = Դյուրակիր փաստաթղթի ձեւաչափ
+# Variables:
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+# Variables:
+#   $type-description (String) - Description of the type (e.g "Portable Document Format")
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Աւգտագործել { $plugin-name } ({ -brand-short-name }-ում)
+applications-preview-inapp =
+    .label = Դիտել { -brand-short-name }-ում
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
+applications-action-save-label =
+    .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
+applications-preview-inapp-label =
+    .value = { applications-preview-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
 
 ##
 
+drm-content-header = Թուային իրավունքների կառաւարման (DRM) բովանդակութիւն
+play-drm-content =
+    .label = Նվագարկել DRM-ղեկաւարուող բովանդակութիւնը
+    .accesskey = P
+play-drm-content-learn-more = Իմանալ ավելին
+update-application-title = { -brand-short-name }-ի թարմացումներ
+update-application-description = Պահեք { -brand-short-name }-ը թարմացուած՝ լավագոյն արտադրողականութեան, կայունութեան եւ անվտանգութեան համար:
+update-application-version = Տարբերակ { $version } <a data-l10n-name="learn-more">Ինչն է նոր</a>
+update-history =
+    .label = Ցուցադրել Թարմացումների Պատմութիւնը...
+    .accesskey = ա
+update-application-allow-description = Թոյլատրել { -brand-short-name }-ին
+update-application-auto =
+    .label = Ինքնաբար տեղադրել թարմացումները (յանձնարարելի)
+    .accesskey = A
+update-application-check-choose =
+    .label = Ստուգել թարմացումները, բայց ես կընտրեմ, թե որոնք տեղադրել
+    .accesskey = Ս
+update-application-manual =
+    .label = Երբեք չստուգել թարմացումները (խորհուրդ չի տրուում)
+    .accesskey = Ե
+update-application-warning-cross-user-setting = Այս կարգաւորումը կը գործադրուի բոլոր Windows-ի էջերի եւ { -brand-short-name }-ի հատկագրերի վրա աւգտագործելով { -brand-short-name }-ի այս ներբեռնումը։
+update-application-use-service =
+    .label = Թարմացումները տեղադրելիս աւգտվել խորքային ծառայութիւնից
+    .accesskey = խ
+update-enable-search-update =
+    .label = Ինքնաբար թարմացնել որոնիչները
+    .accesskey = լ
+update-pref-write-failure-title = Գրեք ձախողում
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Անհնար է պահպանել նախապատուութիւնները: Հնարավոր չէ գրել ֆայլում. { $path }
+update-setting-write-failure-title = Սխալ է պահպանում թարմացման նախընտրութիւնները
+update-in-progress-title = Արդիացուում է
+update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
+update-in-progress-ok-button = &Հրաժարուել
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Շարունակել
 
 ## General Section - Performance
 
+performance-title = Արտադրողականութիւն
+performance-use-recommended-settings-checkbox =
+    .label = Աւգտ. արտադրողականութեան յանձնարարելի կարգաւորումները
+    .accesskey = Օ
+performance-use-recommended-settings-desc = Այս կարգաւորումները հարմարեցուած են ձեր համակարգչի սարքաշարին եւ աւպերացիոն համակարգին:
 
 ## General Section - Browsing
 
