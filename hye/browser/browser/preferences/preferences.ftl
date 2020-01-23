@@ -207,6 +207,8 @@ colors-settings =
 preferences-zoom-header = Խոշորացնել
 preferences-default-zoom = Սկզբնադիր խոշորացում
     .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = Լեզուն
 choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
 choose-button =
@@ -217,9 +219,41 @@ manage-browser-languages-button =
     .label = Կայել այլընտրանքներ...
     .accesskey = l
 confirm-browser-language-change-description = Վերամեկնարկեք { -brand-short-name }-ը՝ փոփոխութիւնները գործադրելու համար
+confirm-browser-language-change-button = Գործադրել եւ վերամեկնարկել
+translate-web-pages =
+    .label = Թարգմանել բովանդակութիւնը
+    .accesskey = Թ
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Թարգմանել է՝ <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Բացառութիւններ…
+    .accesskey = ա
+check-user-spelling =
+    .label = Տեքստ մուտքագրելիս ստուգել ուղղագրութիւնը
+    .accesskey = մ
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Ֆայլեր եւ յաւելուածներ
+download-header = Ներբեռնումներ
+download-save-to =
+    .label = Ֆայլերը պահպանել`
+    .accesskey = ե
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Ընտրել…
+           *[other] Ընտրել…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] լ
+           *[other] տ
+        }
+download-always-ask-where =
+    .label = Միշտ հարցնել ֆայլերը պահպանելու տեղը
+    .accesskey = Մ
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
