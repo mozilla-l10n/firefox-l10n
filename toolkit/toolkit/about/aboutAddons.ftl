@@ -154,7 +154,7 @@ legacy-extensions =
 legacy-extensions-description = 이 확장 기능들은 현재 { -brand-short-name } 표준에 맞지 않으므로 비활성화되었습니다. <label data-l10n-name="legacy-learn-more">부가 기능의 변경 내용 알아보기</label>
 private-browsing-description2 =
     { -brand-short-name }가 사생활 보호 모드에서 확장 기능이 작동하는 방식을 바꾸고 있습니다.
-    { -brand-short-name }에 추가되는 모든 새 확장 기능은 기본적으로 사생활 보호 모드에서 실행되지 않습니다. 만약 사용자가 설정에서 허용하지 않는다면, 확장 기능은 사생활 보호 모드에서 작동하지 않으며, 사용자 온라인 활동에 접근할 수 없습니다.
+    { -brand-short-name }에 추가되는 모든 새 확장 기능은 기본적으로 사생활 보호 창에서 실행되지 않습니다. 만약 사용자가 설정에서 허용하지 않는다면, 확장 기능은 사생활 보호 모드에서 작동하지 않으며, 사용자 온라인 활동에 접근할 수 없습니다.
     사용자의 사생활 보호 모드를 비공개로 유지 하기 위해 이렇게 변경 했습니다.
     <label data-l10n-name="private-browsing-learn-more">확장 기능 설정 관리 방법 알아보기</label>
 extensions-view-discopane =
@@ -410,7 +410,7 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = 사생활 보호 창에서 허용됨
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = 허용된 경우, 확장기능은 사생활 보호 브라우징 중에 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
+addon-detail-private-browsing-help = 허용된 경우, 확장기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용 안 함
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
