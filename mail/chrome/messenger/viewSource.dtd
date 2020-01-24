@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Źródło: ">
 
+<!ENTITY editMenu.label "Edycja">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Plik">
 <!ENTITY fileMenu.accesskey "P">
 <!ENTITY savePageCmd.label "Zapisz stronę jako…">
@@ -28,6 +32,12 @@
 <!ENTITY closeCmd.accesskey "k">
 <!ENTITY closeCmd.commandkey "W">
 
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
 <!ENTITY textEnlarge.commandkey3 "">
@@ -40,8 +50,8 @@
 <!ENTITY goToLineCmd.accesskey "P">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label "Widok">
-<!ENTITY viewMenu.accesskey "W">
+<!ENTITY viewMenu.label           "Widok">
+<!ENTITY viewMenu.accesskey       "W">
 <!ENTITY reloadCmd.label "Odśwież">
 <!ENTITY reloadCmd.accesskey "O">
 <!ENTITY reloadCmd.commandkey "r">
@@ -58,10 +68,10 @@
 <!ENTITY menu_textReset.label "Zwykły">
 <!ENTITY menu_textReset.accesskey "Z">
 
-<!ENTITY findOnCmd.label "Znajdź na tej stronie…">
+<!ENTITY findOnCmd.label     "Znajdź na tej stronie…">
 <!ENTITY findOnCmd.accesskey "Z">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label "Znajdź ponownie">
+<!ENTITY findAgainCmd.label  "Znajdź ponownie">
 <!ENTITY findAgainCmd.accesskey "o">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
