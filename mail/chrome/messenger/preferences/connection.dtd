@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "Ndërmjetës SSL:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "Ndërmjetës HTTPS:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "Strehë SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Lidhjet me localhost, 127.0.0.1, dhe ::1 nuk kalohen kurrë përmes ndërmjetësi.">
+<!ENTITY  noproxyLocalhostDesc.label    "Lidhjet me localhost, 127.0.0.1, dhe ::1 nuk kalohen kurrë përmes ndërmjetësi.">
 <!ENTITY  shareproxy.label              "Përdor këtë shërbyes ndërmjetës për tërë protokollet">
 <!ENTITY  shareproxy.accesskey          "d">
+<!ENTITY  proxyHttpSharing.label        "Përdor gjithashtu këtë ndërmjetës për HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Mos shfaq kërkesë mirëfilltësimi, nëse është ruajtur fjalëkalim">
 <!ENTITY  autologinproxy.accesskey      "o">
 <!ENTITY  autologinproxy.tooltip        "Me këtë mundësi, mirëfilltësimi te ndërmjetësit, bëhet heshtazi, kur keni kredenciale të ruajtura për ta. Nëse mirëfilltësimi dështon, do të shfaqet kërkesa.">
