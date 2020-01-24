@@ -58,14 +58,14 @@
 <!ENTITY cellTextWrap.accessKey           "T">
 <!ENTITY cellWrap.label                   "Łamaś">
 <!ENTITY cellNoWrap.label                 "Njełamaś">
-<!ENTITY cellAlignTop.label               "Górjejće">
+<!ENTITY cellAlignTop.label               "Górjejce">
 <!ENTITY cellAlignMiddle.label            "Wesrjejź">
 <!ENTITY cellAlignBottom.label            "Dołojce">
 <!ENTITY cellAlignJustify.label           "Blokowa sajźba">
 <!ENTITY cellInheritColor.label           "(Tabelowu barwu pśeswěśiś daś)">
 <!ENTITY cellUseCheckboxHelp.label        "Kontrolowy kašćik wužywaś, aby se zwěsćiło, kotare kakosći nałožuju se na wšykne wubrane cele">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Wjelikosć">
 <!ENTITY pixels.label                     "pikselow">
 <!ENTITY backgroundColor.label            "Slězynowa barwa:">
