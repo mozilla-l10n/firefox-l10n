@@ -138,6 +138,7 @@ newtab-label-removed-bookmark = Segnalibro eliminato
 newtab-label-recommended = Di tendenza
 newtab-label-saved = Salvato in { -pocket-brand-name }
 newtab-label-download = Scaricata
+newtab-label-sponsored = { $sponsorOrSource } · Sponsorizzata
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
