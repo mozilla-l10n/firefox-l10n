@@ -20,10 +20,28 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } жекелік терезелерінде трекерлерді бұғаттауды жалғастырады, бірақ, не бұғатталғанын жазып отырмайды.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Бұл аптада { -brand-short-name } бұғаттаған трекерлер
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Қорғаныс деңгейі <b>Қалыпты</b> етіп орнатылды
+    .title = Жекелік баптауларына өтіңіз
+protection-report-header-details-strict = Қорғаныс деңгейі <b>Қатаң</b> етіп орнатылды
+    .title = Жекелік баптауларына өтіңіз
+protection-report-header-details-custom = Қорғаныс деңгейі <b>Таңдауыңызша</b> етіп орнатылды
+    .title = Жекелік баптауларына өтіңіз
+protection-report-page-title = Жекелікті қорғау
+protection-report-content-title = Жекелікті қорғау
+etp-card-title = Бақылаудан кеңейтілген қорғаныс
+protection-report-manage-protections = Баптауларды басқару
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Бүгін
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Осы аптада бұғатталған трекерлердің әр түрінің жалпы санын көрсететін график.
 social-tab-title = Әлеуметтік желілер трекерлері
+cookie-tab-title = Сайтаралық бақылайтын cookie файлдары
+tracker-tab-title = Бақылайтын құрама
+fingerprinter-tab-title = Цифрлық баспаны жинаушылар
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Логиндерді қарау
     .title = Сақталған логиндерге өту
