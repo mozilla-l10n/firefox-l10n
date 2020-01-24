@@ -168,6 +168,9 @@ og du anbefales at prøve igen senere.</li>
 <!ENTITY cspBlocked.title "Blokeret grundet indholdssikkerhedspolitik">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst på denne måde, da den har en indholdssikkerhedspolitik, der forbyder dette.</p>">
 
+<!ENTITY xfoBlocked.title "Blokeret af politik for X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; forhindrede denne side i at blive indlæst i denne kontekst, fordi siden har en politik for X-Frame-Options, der forbyder det.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Indholdet kan ikke vises på grund af en fejl under overførslen.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
 

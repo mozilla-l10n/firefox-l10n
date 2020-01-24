@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Kildekoden for: ">
 
+<!ENTITY editMenu.label "Rediger">
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY fileMenu.label "Filer">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Gem side som…">
@@ -84,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY copyEmailCmd.label "Kopier mailadresse">
 <!ENTITY copyEmailCmd.accesskey "m">
-

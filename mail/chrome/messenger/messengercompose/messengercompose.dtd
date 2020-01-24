@@ -259,6 +259,11 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 11.5em;">
 <!ENTITY fromAddr.label "Fra:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 11.5em;">
+<!ENTITY extraRecipients.tooltip "Andre typer adressefelter">
+<!ENTITY fromAddr2.label "Fra">
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY toAddr.label "Til:">
 <!ENTITY ccAddr.label "Kopi til (Cc):">
@@ -267,6 +272,13 @@
 <!ENTITY newsgroupsAddr.label "Nyhedsgruppe:">
 <!ENTITY followupAddr.label "Opfølgning til:">
 <!ENTITY subject.label "Emne:">
+<!ENTITY toAddr2.label "Til">
+<!ENTITY ccAddr2.label "Kopi til (Cc)">
+<!ENTITY bccAddr2.label "Skjult kopi til (Bcc)">
+<!ENTITY replyAddr2.label "Svar til (Reply-To)">
+<!ENTITY newsgroupsAddr2.label "Nyhedsgruppe">
+<!ENTITY followupAddr2.label "Opfølgning til">
+<!ENTITY subject2.label "Emne">
 <!ENTITY subject.accesskey "E">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
@@ -278,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Ruden Vedhæftede filer">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skjul ruden Vedhæftede filer">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Indsæt smiley">
 <!ENTITY smiley1Cmd.label "Smil">
 <!ENTITY smiley2Cmd.label "Ked af det">

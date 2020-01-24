@@ -7,7 +7,6 @@
 <!-- File menu items -->
 <!ENTITY saveCmd.key "S">
 
-
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Indsæt uden formatering">
 <!ENTITY pasteNoFormatting.accesskey "u">
@@ -80,6 +79,7 @@
 <!ENTITY increaseFontSize.accesskey "s">
 <!ENTITY incrementFontSize.key ".">
 <!ENTITY incrementFontSize.key2 ""> <!-- > is above this key on many keyboards -->
+
 <!ENTITY fontSizeMenu.label "Størrelse">
 <!ENTITY fontSizeMenu.accesskey "ø">
 <!ENTITY size-tinyCmd.label "Meget lille">
@@ -259,9 +259,9 @@
 <!ENTITY tableCellContents.label "Celleindhold">
 <!ENTITY tableCellContents.accesskey "i">
 <!ENTITY tableAllCells.label "Alle celler">
+<!ENTITY tableAllCells.accesskey "a">
 <!ENTITY tableCellBefore.label "Celle før">
 <!ENTITY tableCellBefore.accesskey "C">
-<!ENTITY tableAllCells.accesskey "a">
 <!ENTITY tableCellAfter.label "Celle efter">
 <!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Indsæt nyt linkmål eller rediger det markerede linkmåls egenskaber">
 <!ENTITY TextColorButton.tooltip "Vælg tekstfarve">
 <!ENTITY BackgroundColorButton.tooltip "Vælg baggrundsfarve">
-<!ENTITY throbber.tooltip "Gå til &vendorShortName;s webside">
+<!ENTITY throbber.tooltip2 "Gå til &brandShortName;s webside">
 <!ENTITY HighlightColorButton.tooltip "Vælg farve for fremhævet tekst">
 
 <!-- Editor toolbar -->
@@ -328,19 +328,19 @@
 <!ENTITY alignJustifyButton.tooltip "Juster teksten langs højre og venstre margin">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label "Marker">
-<!ENTITY structSelect.accesskey "M">
-<!ENTITY structRemoveTag.label "Fjern tag">
-<!ENTITY structRemoveTag.accesskey "r">
-<!ENTITY structChangeTag.label "Skift tag">
-<!ENTITY structChangeTag.accesskey "S">
+<!ENTITY structSelect.label         "Marker">
+<!ENTITY structSelect.accesskey     "M">
+<!ENTITY structRemoveTag.label      "Fjern tag">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Skift tag">
+<!ENTITY structChangeTag.accesskey  "S">
 
 <!-- TOC manipulation -->
-<!ENTITY insertTOC.label "Indsæt">
-<!ENTITY insertTOC.accesskey "i">
-<!ENTITY updateTOC.label "Opdater">
-<!ENTITY updateTOC.accesskey "O">
-<!ENTITY removeTOC.label "Fjern">
-<!ENTITY removeTOC.accesskey "r">
-<!ENTITY tocMenu.label "Indholdsfortegnelse">
-<!ENTITY tocMenu.accesskey "I">
+<!ENTITY insertTOC.label          "Indsæt">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "Opdater">
+<!ENTITY updateTOC.accesskey      "O">
+<!ENTITY removeTOC.label          "Fjern">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "Indholdsfortegnelse">
+<!ENTITY tocMenu.accesskey        "I">
