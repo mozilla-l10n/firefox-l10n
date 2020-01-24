@@ -12,7 +12,7 @@
 
 policy-3rdparty = Встановити політики, за якими WebExtensions можуть отримувати доступ через chrome.storage.managed.
 policy-AppUpdateURL = Встановити власний URL для оновлення програми.
-policy-Authentication = Налаштувати інтегровану авторизацію для підтримуваних веб-сайтів.
+policy-Authentication = Налаштувати інтегровану авторизацію для підтримуваних вебсайтів.
 policy-BlockAboutAddons = Блокувати доступ до Менеджера додатків (about:addons).
 policy-BlockAboutConfig = Блокувати доступ до сторінки about:config.
 policy-BlockAboutProfiles = Блокувати доступ до сторінки about:profiles.
@@ -62,4 +62,4 @@ policy-SSLVersionMax = Встановити максимальну версію 
 policy-SSLVersionMin = Встановити мінімальну версію SSL.
 policy-SupportMenu = Додати власний елемент меню підтримки в меню довідки.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Блокувати відвідування веб-сайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
+policy-WebsiteFilter = Блокувати відвідування вебсайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
