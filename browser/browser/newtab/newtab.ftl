@@ -86,6 +86,7 @@ newtab-menu-show-privacy-info = Біздің демеушілеріміз жән
 
 newtab-privacy-modal-button-done = Дайын
 newtab-privacy-modal-header = Сіздің жекелігіңіз маңызды.
+newtab-privacy-modal-link = Жекелік қалай жұмыс істейтінін жаңа бетте қараңыз
 
 ##
 
@@ -166,6 +167,8 @@ newtab-discovery-empty-section-topstories-header = Барлығын оқып ш�
 newtab-discovery-empty-section-topstories-content = Көбірек оқиғаларды көру үшін кейінірек кіріңіз.
 newtab-discovery-empty-section-topstories-try-again-button = Қайталап көру
 newtab-discovery-empty-section-topstories-loading = Жүктелуде…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Қап! Бұл санатты жүктеуді аяқтауға сәл қалды, бірақ бітпеді.
 
 ## Pocket Content Section.
 
