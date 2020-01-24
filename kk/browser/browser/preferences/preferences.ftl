@@ -759,6 +759,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Қатаң парольдерді ұсыну және генерациялау
     .accesskey = ы
+forms-breach-alerts =
+    .label = Бұзылған веб-сайттардың парольдері туралы ескертулерді көрсету
+    .accesskey = б
 forms-breach-alerts-learn-more-link = Көбірек білу
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -882,6 +885,7 @@ addressbar-suggestions-settings = Іздеу жүйесінің ұсыныста
 content-blocking-header = Құраманы бұғаттау
 content-blocking-section-description = Шолу кезінде жекелігіңізді қорғаңыз. Сіз шолатын сайттарды бақылайтын және сіздің профиліңізді жасайтын көрінбейтін құраманы бұғаттаңыз. Бұл құраманың кейбіреуін бұғаттау беттердің жылдамдау жүктелуіне әкеп соғуы мүмкін.
 content-blocking-enhanced-tracking-protection = Бақылаудан кеңейтілген қорғаныс
+content-blocking-section-top-level-description = Трекерлер желіде сіздің соңыңыздан ереді, сіздің шолу әдеттері мен тақырыптары туралы ақпаратты жинайды. { -brand-short-name } осындай трекерлердің көбін және басқа да зиянкес скрипттерді бұғаттайды.
 content-blocking-learn-more = Көбірек білу
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -1031,6 +1035,7 @@ permissions-a11y-privacy-link = Көбірек білу
 collection-header = { -brand-short-name } деректер жинауы және қолданылуы
 collection-description = Біз сізге таңдауды қолыңызға беріп, тек әркім үшін { -brand-short-name } өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.
 collection-privacy-notice = Жекелік ескертуі
+collection-health-report-telemetry-disabled = Сіз { -vendor-short-name } үшін ешбір техникалық және әрекеттесу мәліметтерін жинауға енді рұқсат етпейсіз. Барлық бұрыңғы деректер 30 күннің ішінде өшірілетін болады.
 collection-health-report-telemetry-disabled-link = Көбірек білу
 collection-health-report =
     .label = { -brand-short-name } үшін { -vendor-short-name } адресіне техникалық және әрекеттесу деректерін жіберуді рұқсат ету
