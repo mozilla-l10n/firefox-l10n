@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "SSL proxy">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "HTTPS-proxy:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS vært:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Forbindelser til localhost, 127.0.0.1 og ::1 er aldrig forbundet via en proxy.">
+<!ENTITY  noproxyLocalhostDesc.label    "Forbindelser til localhost, 127.0.0.1 og ::1 er aldrig forbundet via en proxy.">
 <!ENTITY  shareproxy.label              "Brug denne proxy-server for alle protokoller">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  proxyHttpSharing.label        "Brug også denne proxy til HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Spørg ikke efter godkendelse, hvis adgangskoden er gemt">
 <!ENTITY  autologinproxy.accesskey      "g">
 <!ENTITY  autologinproxy.tooltip        "Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Aktiver DNS via HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "k">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Brug standard">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "B">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Brug standard-URL'en til DNS-opslag over HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Tilpasset">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "e">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Angiv den URL, du foretrækker til DNS-opslag over HTTPS">

@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Gem som virtuel mappe…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Marker meddelelser">
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Til">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vælg hvilke kolonner der skal vises">
+<!ENTITY selectColumn.tooltip "Marker/afmarker alle meddelelser">
 <!ENTITY threadColumn2.tooltip "Vis meddelelser i tråde">
 <!ENTITY fromColumn2.tooltip "Sorter efter afsender">
 <!ENTITY recipientColumn2.tooltip "Sorter efter modtager">
@@ -969,3 +971,7 @@
 <!ENTITY dockOptions.label              "Indstillinger for app-ikon…">
 <!ENTITY writeNewMessageDock.label      "Skriv ny meddelelse">
 <!ENTITY openAddressBookDock.label      "Åbn adressebog">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Gå en side tilbage">
+<!ENTITY browseForwardButton.tooltip "Gå en side frem">
