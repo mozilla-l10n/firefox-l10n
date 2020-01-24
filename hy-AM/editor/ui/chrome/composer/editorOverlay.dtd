@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.key "S">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Տեղադրել առանց ձևավորման">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,8 +23,8 @@
 <!ENTITY checkSpellingCmd2.label "Ստուգել ուղղագրությունը">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ներմուծել">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Հղում...">
@@ -46,14 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Անջատել հետևյալ նկարները">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Ստեղծել հղում...">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Խմբագրել հղումը նոր Սեղմիչում">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Ընտրեք տառատեսակը">
 <!ENTITY fontfaceMenu.label "Տառատեսակ">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -68,19 +68,17 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Ընտրեք տառի չափը">
 <!ENTITY decreaseFontSize.label "Փոքր">
 <!ENTITY decreaseFontSize.accesskey "ր">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Մեծ">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Չափը">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -96,8 +94,8 @@
 <!ENTITY size-extraLargeCmd.accesskey "ա">
 <!ENTITY size-hugeCmd.label "Հսկայական">
 <!ENTITY size-hugeCmd.accesskey "Հ">
-<!-- Font Style SubMenu -->
 
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Տեքստի ոճը">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Թավ">
@@ -165,8 +163,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "Հ">
 <!ENTITY paragraphPreformatCmd.label "Նախաձևավորմամբ">
 <!ENTITY paragraphPreformatCmd.accesskey "ձ">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Ցանկ">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Չկա">
@@ -189,8 +187,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Ընդլայնված հատկություններ">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Հավասարեցում">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Ձախից">
@@ -205,8 +203,8 @@
 <!ENTITY alignJustify.label "Հավասարեցում">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Հավասարեցնել կենտրոնացումը">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Շերտը">
 <!ENTITY layerSendToBack.tooltip "Ուղարկել հետև">
 <!ENTITY layerBringToFront.tooltip "Պահել հետևում">
@@ -220,12 +218,12 @@
 
 <!ENTITY colorsAndBackground.label "Էջի գույները և խորապատկերը...">
 <!ENTITY colorsAndBackground.accesskey "u">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Աղյուսակ">
 <!ENTITY tableMenu.accesskey "b">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Ընտրել">
 <!ENTITY tableSelectMenu.accesskey "S">
 
@@ -235,8 +233,8 @@
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Ջնջել աղյուսակը">
 <!ENTITY tableDeleteMenu2.accesskey "D">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Ներմուծել">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Աղյուսակ">
@@ -269,12 +267,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Ջնջել">
 <!ENTITY tableDeleteMenu.accesskey "D">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Կտրել վանդակը">
@@ -283,8 +281,8 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Աղյուսակի հատկությունները...">
 <!ENTITY tableProperties.accesskey "o">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Ցանկագոտի">
 <!ENTITY formatToolbar.tooltip "Գործիքաշերտի կարգ.">
 <!ENTITY cutToolbarCmd.tooltip "Կտրել">
@@ -309,9 +307,10 @@
 <!ENTITY TextColorButton.tooltip "Ընտրեք տեքստի գույները">
 <!ENTITY BackgroundColorButton.tooltip "Ընտրեք խորապատկերի գույները">
 <!ENTITY throbber.tooltip "Անցնել &vendorShortName; մեկնարկային էջին">
+<!ENTITY throbber.tooltip2 "Անցնել &brandShortName;-ի մեկնարկային էջ:">
 <!ENTITY HighlightColorButton.tooltip "Ընտրել գունանշման գույնը տեքստի համար">
-<!-- Editor toolbar -->
 
+<!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ընտրել տառաչափը">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Տառատեսակի փոքր չափ">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Տառատեսակի մեծ չափ">
@@ -328,16 +327,16 @@
 <!ENTITY alignCenterButton.tooltip "Հավասարեցնել տեքստը կենտրոնով">
 <!ENTITY alignRightButton.tooltip "Հավասարեցնել տեքստը ձախ լուսանցքին">
 <!ENTITY alignJustifyButton.tooltip "Հավասարեցնել տեքստը աջ լուսանցքին">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Ընտրել">
 <!ENTITY structSelect.accesskey     "S">
 <!ENTITY structRemoveTag.label      "Հեռացնել պիտակը">
 <!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "Փոխել պիտակը">
 <!ENTITY structChangeTag.accesskey  "C">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ներմուծել">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Թարմացնել">

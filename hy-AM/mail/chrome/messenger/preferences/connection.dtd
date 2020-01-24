@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL պրոսքի.">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "HTTP պրոքսի.">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS հոսթը.">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -44,6 +46,7 @@
 <!ENTITY  noproxyLocalhostDesc.label    "Միացումները localhost- ին ՝ 127.0.0.1 և :: 1-ին, երբեք չեն միջնորդվում:">
 <!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլոր հաղորդակարգերի համար">
 <!ENTITY  shareproxy.accesskey          "ք">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Մի պահանջեք վավերացումը, եթե գաղտնաբառը պահպանված է">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
