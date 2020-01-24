@@ -39,6 +39,41 @@ graph-today = Այսաւր
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Գրաֆիկ, որը պարունակում է այս շաբաթուայ ընթացքում խցանուած յուրաքանչյուր տեսակի հետախուզողի ընդհանուր թիվը։
 social-tab-title = Ընդհանուր միջաւայրի հետեւումներ
+social-tab-contant = Սոցցանցերը հետապնդում են Ձեզ այլ կայքերում, Ձեր գործողութիւնները իմանալու համար։ Սա թոյլատրում է սոցմեդիայի կազմակերպութիւններին իմանալ աւելին Ձեր մասին ըստ Ձեր կիսումների Ձեր սոցմեդիայ հաշիւներում։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+cookie-tab-title = Միջակայքի հետեւող նշոցիկներ
+cookie-tab-content = Այս նշոցիկները հետեւում են Ձեզ՝ կայքից կայք, Ձեր գործողութիւնների մասին տեղեկանալու համար։ Նրանք սահմանուել են կազմակերպութիւնների վերլուծումների եւ գովազդատուների կողմից։ Արգելփակելով խաչուող կայքի հետապնդող նշոցիկների նուազեցնում եք գովազդի քանակը Ձեր շրջապատում։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+tracker-tab-title = Հետագծող բովանդակութիւն
+tracker-tab-description = Կայքերը կարող են բեռնել արտաքին գովազդ եւ այլ բովանդակութիւն հետապնդուող կոդով։ Հետապնդուող բովանդակութեան արգելափակումը կարող է աւգնել կայքերին աւելի արագ բեռնուել, բայց որոշ կոճակներ ձեւեր եւ մուտքային դաշտեր կարող են չաշխատել։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+fingerprinter-tab-title = Մատնահետքեր
+fingerprinter-tab-content = Մատնահետքերը հաւաքում են կարգաւորումներ Ձեր զննարկչից եւ համակարգչից Ձեր հատկագրից ստեղծելու համար։ Աւգտագործելով այդ թուային մատնահետքերը նրանք կարող են հետապնդել Ձեզ տարբեր վեբ կայքերում։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
+cryptominer-tab-title = Գաղտնազերծիչներ
+cryptominer-tab-content = Կրիպտոարժոյթները աւգտագործում են Ձեր համակարգի հաշուարկային ուժը թուային փողը հանելու համար։ Ծպտեալ արժեքների գրուածքները սպառում են Ձեր մարտկոցը, դանդաղեցնում Ձեր համակարգիչը եւ կարող են մեծացնել Ձեր էներգիայի հաշիւը։ <a data-l10n-name="learn-more-link"> Իմանալ աւելին</a>
+lockwise-title = Այլեւս երբէք չմոռանալ գաղտնաբառը
+lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } ապահով պահպանում է Ձեր գաղտնաբառերը Ձեր զննարկիչում:
+lockwise-header-content-logged-in = Ապահով պահեք եւ համաժամացրեք Ձեր գաղտնաբառերը Ձեր բոլոր սարքերում:
+protection-report-view-logins-button = Դիտել մուտքերը
+    .title = Անցնել պահուած մուտքերին
+lockwise-no-logins-content = Ձեռք բերէք <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ծրագիրը՝ Ձեր գաղտնաբառերը ամենուր վերցնելու համար:
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Անւտանգ պահուած գաղտնաբառ <a data-l10n-name="lockwise-how-it-works"> Ինչպէս է այն աշխատում </a>
+       *[other] Անւտանգ պահուած գաղտնաբառերը <a data-l10n-name="lockwise-how-it-works"> Ինչպէս է այն աշխատում </a>
+    }
+turn-on-sync = Միացնել { -sync-brand-short-name }
+    .title = Անցնել համաժամեցման հատկութիւններին
+manage-connected-devices = Կառաւարել սարքերը…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Կապակցուած է { $count } սարքին
+       *[other] Կապակցուած են { $count } սարքերին
+    }
+monitor-title = Փնտրել տուեալների խախտումներ
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
