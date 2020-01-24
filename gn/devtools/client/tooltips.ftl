@@ -32,15 +32,16 @@ inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ndoguerek�
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe, oguereko rupi jehechaha <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pe mongu'eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mab’epuru oĩgui <strong>vevuihápe<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’aite <strong>{ $property }</strong> jejoko <strong>:jehopyre</strong> rupive.
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’epuru osẽtava renda.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:flex</strong>. { learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>yta:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Eñeha’ã embojuaju  <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong> item túvate. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>yta:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong> ítem rúpe. { learn-more }
 inactive-css-not-grid-container-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong>. { learn-more }
@@ -51,3 +52,4 @@ inactive-css-not-inline-or-tablecell-fix = Eñeha’ã embojuaju <strong>display
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Eñaha'ã embojuaju <strong>display:inline-block</strong> térã <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha'ã embojuaju <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Eñeha’ã emboheko <strong>rendatee</strong> mba’éva tuichavéva <strong>opytáva</strong>. { learn-more }

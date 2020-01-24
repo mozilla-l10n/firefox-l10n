@@ -136,7 +136,7 @@ media-capabilities-title = Hupytyha pyrusukue
 # List all the entries of the database.
 media-capabilities-enumerate = Embopapapy mba’ekuaarã guapyha
 
-
+##
 
 intl-title = Mongakuaa & ñemohenda
 intl-app-title = Tembipuru'i ñemboheko
@@ -161,7 +161,7 @@ remote-debugging-title = Ñemopotĩ okayguáva (Chromium raperekoite)
 remote-debugging-accepting-connections = Emoneĩ jeike
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -261,6 +261,7 @@ d3d11video-crash-guard = D3D11 Ta'ãngamýi Mbopapapy'oha
 d3d9video-crash-buard = D3D9 Ta'ãngamýi Mbopapapy'oha
 d3d9video-crash-guard = D3D9 Ta'ãngamýi Mbopapapy'oha
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Ta'ãngamýi Mbopapapy'oha WMF VPX
 reset-on-next-restart = Embojevy moñepyrũjey uperire
 gpu-process-kill-button = GPU raperekogua mohu'ã
 gpu-device-reset = Emoñepyrũjey mba’e’oka

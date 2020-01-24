@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> tapykuehoha jokopyre { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
        *[other] <b>{ $count }</b> tapykuehoha jokopyre { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } ojoko gueteri  tapykuehoha ovetã megua, hákatu noñongatúi pe jokopyre rapykuere.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Tapykuehoha { -brand-short-name } ojejokóva ko arapokõindýpe
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
-manage-devices = Eñangareko mba’e’okáre
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Ñembojuehe { $count } ambue mba’e’oka rehe
-       *[other] Ñembojuehe { $count } ambue mba’e’oka rehe
-    }
-lockwise-sync-not-syncing-devices = Ndojuehéi ambue mba’e’oka ndive
 manage-connected-devices = Mba'e'oka ñangarekoha…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
