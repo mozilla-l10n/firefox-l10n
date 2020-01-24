@@ -4,14 +4,18 @@
 
 <!-- extracted from content/viewSource.xul -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!-- extracted from content/viewSource.xhtml -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Žrědło wót: ">
 
+<!ENTITY editMenu.label "Wobźěłaś">
+<!ENTITY editMenu.accesskey "b">
 <!ENTITY fileMenu.label "Dataja">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY savePageCmd.label "Bok składowaś ako…">
@@ -51,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Znowego zacytaś">
 <!ENTITY reloadCmd.accesskey "Z">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Dłujke smužki łamaś"> 
+<!ENTITY menu_wrapLongLines.title "Dłujke smužki łamaś">
 <!ENTITY menu_wrapLongLines.accesskey "D">
 <!ENTITY menu_highlightSyntax.label "Syntaksowe wuzwignjenje">
 <!ENTITY menu_highlightSyntax.accesskey "S">
@@ -84,8 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "k">
 <!ENTITY copyEmailCmd.label "E-mailowu adresu kopěrowaś">
 <!ENTITY copyEmailCmd.accesskey "E">
-
-<!-- Copied from charsetMenu.dtd -->
-<!ENTITY charsetMenu2.label            "Tekstowe koděrowanje">
-<!ENTITY charsetMenu2.accesskey        "d">
-
