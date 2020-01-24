@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Eike ñe'ẽmondo moĩmbaha ñemohenda ra'ãngarupápe
 urlbar-tip-help-icon =
     .title = Eipota pytyvõ
+urlbar-search-tips-confirm = Oĩma, aikumbýma
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

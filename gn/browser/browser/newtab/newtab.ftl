@@ -90,9 +90,13 @@ newtab-privacy-modal-paragraph =
     Ome’ẽse avei tembiasakue oporombovy’áva, avei rohechauka marandu iporãva,
     tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, nde kundaha mba’ekuaarã tekorosã
      araka’eve ndohejái mbohasarã mba’eteéva { -brand-product-name } rehegua: ndorohechái ha ore pytyvõhára avei.
+newtab-privacy-modal-paragraph-2 =
+    Ome’ẽse avei tembiasakue oporombovy’áva, avei rohechauka marandu iporãva,
+    tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, nde kundaha mba’ekuaarã tekorosã
+     araka’eve ndohejái mbohasarã mba’eteéva { -brand-product-name } rehegua: ore ndorohechái ha ore pytyvõhára avei.
 newtab-privacy-modal-link = Eikuaa mba’éicha omba’apo ñemigua tendayke pyahúpe
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Techaukaha Mboguete
@@ -179,7 +183,6 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyh
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Ñe'ẽmbyrã Ojehayhuvéva:
 newtab-pocket-more-recommendations = Hetave je’eporã
-newtab-pocket-how-it-works = Mba’éichapa omba’apo
 newtab-pocket-whats-pocket = ¿Mba’e kóva { -pocket-brand-name }?
 newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
 newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
