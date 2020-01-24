@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Lloje të tjerë fushash adrese">
 <!ENTITY fromAddr2.label "Nga">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Për:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Kuadrat Bashkëngjitjesh">
 <!ENTITY attachmentBucketCloseButton.tooltip "Fshiheni kuadratin e bashkëngjitjeve">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Futni një emotikon">
 <!ENTITY smiley1Cmd.label "I buzëqeshur">
 <!ENTITY smiley2Cmd.label "I vrenjtur">
