@@ -4,14 +4,18 @@
 
 <!-- extracted from content/viewSource.xul -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!-- extracted from content/viewSource.xhtml -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Källa till: ">
 
+<!ENTITY editMenu.label "Redigera">
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY fileMenu.label "Arkiv">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY savePageCmd.label "Spara sida som…">
@@ -51,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Uppdatera">
 <!ENTITY reloadCmd.accesskey "U">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Radbryt långa rader"> 
+<!ENTITY menu_wrapLongLines.title "Radbryt långa rader">
 <!ENTITY menu_wrapLongLines.accesskey "R">
 <!ENTITY menu_highlightSyntax.label "Syntaxmarkering">
 <!ENTITY menu_highlightSyntax.accesskey "m">
@@ -84,8 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "n">
 <!ENTITY copyEmailCmd.label "Kopiera e-postadress">
 <!ENTITY copyEmailCmd.accesskey "t">
-
-<!-- Copied from charsetMenu.dtd -->
-<!ENTITY charsetMenu2.label            "Textkodning">
-<!ENTITY charsetMenu2.accesskey        "T">
-
