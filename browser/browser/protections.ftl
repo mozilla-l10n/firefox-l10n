@@ -17,7 +17,7 @@ graph-total-tracker-summary =
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 이후 <b>{ $count }</b>개의 추적기가 차단됨
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name }는 사생활 보호 모드 창에서 추적기를 계속 차단하지만, 차단 된 내용은 기록하지 않습니다.
+graph-private-window = { -brand-short-name }는 사생활 보호 창에서 추적기를 계속 차단하지만, 차단 된 내용은 기록하지 않습니다.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = 이번 주에 { -brand-short-name }가 차단한 추적기
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

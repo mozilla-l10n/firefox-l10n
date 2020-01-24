@@ -885,7 +885,7 @@ content-blocking-setting-custom =
 content-blocking-standard-desc = 보호와 성능 사이의 균형을 유지합니다. 웹 사이트가 제대로 작동하도록 일부 추적기를 허용합니다.
 content-blocking-strict-description = 강한 보호 기능으로 인해 일부 사이트가 손상될 수 있습니다.
 content-blocking-custom-desc = 차단할 항목을 선택하세요.
-content-blocking-private-trackers = 사생활 보호 모드에서 알려진 추적기만
+content-blocking-private-trackers = 사생활 보호 창에서 알려진 추적기만
 content-blocking-third-party-cookies = 제3자 추적 쿠키
 
 ## These strings are used to define the different levels of

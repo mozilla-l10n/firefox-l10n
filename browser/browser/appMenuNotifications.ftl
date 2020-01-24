@@ -45,5 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = M
     .secondarybuttonlabel = 확인
     .secondarybuttonaccesskey = O
-appmenu-addon-private-browsing-message = { -brand-shorter-name }에 추가되는 모든 새 확장 기능은 사용자가 설정에서 허용하지 않는 한 사생활 보호 모드에서 작동하지 않습니다.
+appmenu-addon-private-browsing-message = { -brand-shorter-name }에 추가되는 모든 새 확장 기능은 사용자가 설정에서 허용하지 않는 한 사생활 보호 창에서 작동하지 않습니다.
 appmenu-addon-private-browsing-learn-more = 확장 기능 설정 관리 방법에 대해 알아봅니다.

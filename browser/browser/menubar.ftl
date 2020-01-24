@@ -18,7 +18,7 @@ menu-file-new-window =
     .label = 새 창
     .accesskey = N
 menu-file-new-private-window =
-    .label = 새 사생활 보호 모드
+    .label = 새 사생활 보호 창
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
