@@ -13,7 +13,7 @@
 <!ENTITY LegendAlign.accesskey "l">
 <!ENTITY AlignDefault.label "Numatytoji">
 <!ENTITY AlignLeft.label "Pagal kairįjį kraštą">
-<!ENTITY AlignCenter.label "Centrinta">
+<!ENTITY AlignCenter.label "Centruota">
 <!ENTITY AlignRight.label "Pagal dešinįjį kraštą">
 
 <!ENTITY RemoveFieldSet.label "Pašalinti grupę rinkinį">
