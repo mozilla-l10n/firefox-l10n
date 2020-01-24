@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "พร็อกซี SSL:">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "พร็อกซี HTTPS:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "โฮสต์ SOCKS:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -41,9 +43,11 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "การเชื่อมต่อไปยัง localhost, 127.0.0.1, และ ::1 จะไม่ผ่านพร็อกซี">
+<!ENTITY  noproxyLocalhostDesc.label    "การเชื่อมต่อไปยัง localhost, 127.0.0.1, และ ::1 จะไม่ผ่านพร็อกซี">
 <!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโปรโตคอลทั้งหมด">
 <!ENTITY  shareproxy.accesskey          "ใ">
+<!ENTITY  proxyHttpSharing.label        "ใช้พร็อกซีนี้สำหรับ HTTPS ด้วย">
+<!ENTITY  proxyHttpSharing.accesskey    "ก">
 <!ENTITY  autologinproxy.label          "ไม่ต้องถามสำหรับการรับรองความถูกต้องหากรหัสผ่านถูกบันทึกไว้">
 <!ENTITY  autologinproxy.accesskey      "ถ">
 <!ENTITY  autologinproxy.tooltip        "ตัวเลือกนี้จะรับรองความถูกต้องของคุณไปยังพร็อกซีโดยอัตโนมัติเมื่อคุณได้บันทึกหนังสือรับรองไว้ คุณจะได้รับการแจ้งหากการรับรองความถูกต้องล้มเหลว">
@@ -51,9 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "เปิดใช้งาน DNS ผ่าน HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "ป">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "ใช้ค่าเริ่มต้น">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "ค">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ใช้ URL เริ่มต้นสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "กำหนดเอง">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "น">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "ป้อน URL ที่คุณต้องการสำหรับแปลงที่อยู่ DNS ผ่าน HTTPS">
