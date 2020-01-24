@@ -14,7 +14,7 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Веб-вміст">
 
-<!ENTITY keepHistory.label "Пам'ятати відвідані мною веб-сайти й посилання">
+<!ENTITY keepHistory.label "Пам'ятати відвідані мною вебсайти й посилання">
 <!ENTITY keepHistory.accesskey "П">
 <!ENTITY acceptCookies.label "Приймати куки від сайтів">
 <!ENTITY acceptCookies.accesskey "к">

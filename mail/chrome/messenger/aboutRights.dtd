@@ -37,11 +37,11 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Якщо цей продукт включає послуги веб-сайтів, то будь які чинні угоди надання послуг для них мають бути додані посиланнями у розділі ">
-<!ENTITY rights.intro-point4b-unbranded "Послуги веб-сайтів">
+<!ENTITY rights.intro-point4a-unbranded "Якщо цей продукт включає послуги вебсайтів, то будь-які чинні угоди надання послуг для них мають бути додані посиланнями у розділі ">
+<!ENTITY rights.intro-point4b-unbranded "Послуги вебсайтів">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
-<!ENTITY rights.webservices-header "Послуги веб-сайтів у &brandFullName;">
+<!ENTITY rights.webservices-header "Послуги вебсайтів у &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
