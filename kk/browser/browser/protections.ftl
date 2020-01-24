@@ -16,6 +16,10 @@ graph-total-tracker-summary =
     { $count ->
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } кейін <b>{ $count }</b> трекер бұғатталды
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } жекелік терезелерінде трекерлерді бұғаттауды жалғастырады, бірақ, не бұғатталғанын жазып отырмайды.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Бұл аптада { -brand-short-name } бұғаттаған трекерлер
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Бүгін
