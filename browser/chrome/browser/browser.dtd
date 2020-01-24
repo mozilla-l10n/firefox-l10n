@@ -911,10 +911,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Кіру өрістері">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Формалар">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Төлемдер">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Түсіндірмелер">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Видеолар">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Есептемені жіберу">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:

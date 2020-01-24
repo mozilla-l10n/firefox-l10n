@@ -45,12 +45,31 @@ social-tab-contant = Әлеуметтік желілер басқа веб-са�
 cookie-tab-title = Сайтаралық бақылайтын cookie файлдары
 tracker-tab-title = Бақылайтын құрама
 fingerprinter-tab-title = Цифрлық баспаны жинаушылар
+lockwise-title = Парольдерді енді ешқашан ұмытпаңыз
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } парольдеріңізді браузерде қауіпсіз түрде сақтайды.
+lockwise-header-content-logged-in = Парольдеріңізді барлық құрылғыларыңызда қауіпсіз түрде сақтау және синхрондау.
 protection-report-view-logins-button = Логиндерді қарау
     .title = Сақталған логиндерге өту
 turn-on-sync = { -sync-brand-short-name } іске қосу…
     .title = Синхрондау баптауларына өту
 manage-connected-devices = Құрылғыларды басқару…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+       *[other] { $count } құрылғыға байланысқан
+    }
+monitor-title = Деректердің ұрлануын бақылау
+monitor-link = Бұл қалай жұмыс істейді
+auto-scan = Бүгін автоматты түрде сканерленді
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+       *[other] Бақыланатын эл. пошта адрестері
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -65,9 +84,27 @@ bar-tooltip-social =
         { $count ->
            *[other] { $count } әлеуметтік желілер трекері ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = Сайтаралық бақылайтын cookie файлдары
+    .aria-label =
+        { $count ->
+           *[other] { $count } сайтаралық бақылайтын cookie файл ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Бақылайтын құрама
+    .aria-label =
+        { $count ->
+           *[other] { $count } бақылайтын құрама ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = Баспаны жинаушылар
     .aria-label =
         { $count ->
            *[other] { $count } баспаны жинаушы ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Криптомайнерлер
+    .aria-label =
+        { $count ->
+           *[other] { $count } криптомайнер ({ $percentage }%)
         }
