@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-syncing =
+    .label = Համաժամեցում…
 fxa-toolbar-sync-syncing-tabs =
     .label = Ներդիրների համաժամեցում…
 sync-disconnect-dialog-title = Կապախզե՞լ{ -sync-brand-short-name }֊ը։
