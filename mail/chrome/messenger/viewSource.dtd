@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Исходный код: ">
 
+<!ENTITY editMenu.label "Правка">
+<!ENTITY editMenu.accesskey "в">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "а">
 <!ENTITY savePageCmd.label "Сохранить страницу как…">
@@ -84,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "и">
 <!ENTITY copyEmailCmd.label "Копировать адрес электронной почты">
 <!ENTITY copyEmailCmd.accesskey "в">
-
