@@ -93,16 +93,16 @@ detail-update-manual =
     .label = 중단
     .tooltiptext = 업데이트 자동 설치 중단
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = 사생활 보호 모드에서 실행
-detail-private-browsing-description2 = 허용되면, 확장 기능은 사생활 보호 브라우징 중에 사용자 온라인 활동에 접근할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
+detail-private-browsing-label = 사생활 보호 창에서 실행
+detail-private-browsing-description2 = 허용되면, 확장 기능은 사생활 보호 모드에서 사용자 온라인 활동에 접근할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = 사생활 보호 창에서 허용안됨
+detail-private-disallowed-label = 사생활 보호 창에서 허용 안 됨
 detail-private-disallowed-description = 이 확장기능은 사생활 보호 모드에서는 실행되지 않습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
 detail-private-disallowed-description2 = 이 확장기능은 사생활 보호 모드에서는 실행되지 않습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = 사생활 보호 창에 대한 접근 필요
-detail-private-required-description = 이 확장기능은 사생활 보호모드에서 온라인 활동에 접근 할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
+detail-private-required-description = 이 확장기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
 detail-private-required-description2 = 이 확장기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 detail-private-browsing-on =
     .label = 허용
