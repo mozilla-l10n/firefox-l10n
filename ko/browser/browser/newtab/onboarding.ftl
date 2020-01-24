@@ -92,7 +92,7 @@ onboarding-benefit-lockwise-text = 비밀번호를 보호하면서 항상 가지
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = 사생활 보호 모드
-onboarding-private-browsing-text = 개인적으로 탐색하세요. 컨텐츠 차단과 사생활 보호 탐색은 웹에서 사용자를 추적하는 온라인 추적기들을 막아줍니다.
+onboarding-private-browsing-text = 개인적으로 탐색하세요. 콘텐츠 차단과 사생활 보호 모드는 웹에서 사용자를 추적하는 온라인 추적기들을 막아줍니다.
 onboarding-screenshots-title = 스크린샷
 onboarding-screenshots-text = 스크린샷을 찍고 저장하고 공유하세요 - { -brand-short-name }를 떠날 필요조차 없습니다. 탐색하면서 일부분 또는 전체 페이지를 캡처하세요. 그리고 웹에 저장해서 쉽게 접근하고 공유하세요.
 onboarding-addons-title = 부가기능
