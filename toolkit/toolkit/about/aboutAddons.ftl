@@ -375,6 +375,10 @@ locale-disabled-heading = Անջատած
 ask-to-activate-button = Ակտիվացման հարցում
 always-activate-button = Միշտ ակտիվացնել
 never-activate-button = Երբեք չակտիվացնել
+addon-detail-author-label = Հեղինակ
+addon-detail-version-label = Տարբերակ
+addon-detail-last-updated-label = Վերջին թարմացումը
+addon-detail-homepage-label = Կայքէջ
 addon-detail-rating-label = Վարկանիշ
 # The average rating that the add-on has received.
 # Variables:

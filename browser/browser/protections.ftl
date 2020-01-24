@@ -76,7 +76,7 @@ lockwise-connected-device-status =
 monitor-title = Փնտրել տվյալների խախտումներ
 monitor-link = Ինչպես է դա աշխատում
 monitor-header-content-no-account = Ստուգեք { -monitor-brand-name }՝իմանալու համար, թե արդյոք դուք եղել եք հայտնի տվյալների խախտման մաս, և ահազանգեր ստացեք նոր խախտումների մասին։
-monitor-header-content-signed-in = { -monitor-brand-name }-ը զգուշացնում է ձեզ, եթե ձեր տեղեկությունները բախվել են հայտնի խախտման հետ։
+monitor-header-content-signed-in = { -monitor-brand-name }-ը զգուշացնում է Ձեզ, եթե Ձեր տեղեկութիւնները բախուել են յայտնի խախտման հետ։
 monitor-sign-up = Գրանցվեք խախտումների մասին ահազանգների համար
 auto-scan = Այսօր ինքնուրույն պատկերահանվել է։
 # This string is displayed after a large numeral that indicates the total number

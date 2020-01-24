@@ -32,6 +32,7 @@ profiles-remove = Հեռացնել
 profiles-set-as-default = Կայել որպես լռելյայն պրոֆիլ
 profiles-launch-profile = Բացել պոֆիլը այլ դիտարկիչում
 profiles-cannot-set-as-default-title = Հնարավոր չէ կայել պատկերը
+profiles-cannot-set-as-default-message = Լռելյայն  պրոֆիլը հնարավոր չէ փոխել { -brand-short-name }
 profiles-yes = այո
 profiles-no = ոչ
 profiles-rename-profile-title = Հաշիվը Վերանվանել
@@ -51,6 +52,8 @@ profiles-delete-profile-confirm =
     Ջնջե՞լ պրոֆիլի տվյալները:
 profiles-delete-files = Ջնջել Ֆայլերը
 profiles-dont-delete-files = Ֆայլերը Չջնջել
+profiles-delete-profile-failed-title = Սխալ
+profiles-delete-profile-failed-message = Այս պրոֆիլը ջնջելու ընթացքում սխալ տեղի ունեցավ։
 profiles-opendir =
     { PLATFORM() ->
         [macos] Ցուցադրել Finder-ում
