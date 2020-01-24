@@ -286,6 +286,8 @@ sandbox-proc-type-media-plugin = մեդիա բաղադրիչ
 sandbox-proc-type-data-decoder = տվյալների վերծանիչ
 launcher-process-status-0 = Միացված
 launcher-process-status-1 = Անջատված է ձախողման պատճառով
+launcher-process-status-2 = Ուժով անջատված
+launcher-process-status-unknown = Անհայտ իրավիճակ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -303,6 +305,8 @@ apz-none = նշում
 wheel-enabled = անիվի ներածումը միացված է
 touch-enabled = հպմամբ մուտքագրումը միացված է
 drag-enabled = գլորագոտու քաշելը միացված է
+keyboard-enabled = ստեղնաշարի միացված է
+autoscroll-enabled = ինքնապտտումը միացված է
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -312,3 +316,6 @@ touch-warning = async հպմամբ ներածումը անջատված է չաջ
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Անգործուն
+policies-active = Գործուն
+policies-error = Սխալ
