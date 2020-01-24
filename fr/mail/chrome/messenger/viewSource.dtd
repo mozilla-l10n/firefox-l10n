@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Source de : ">
 
+<!ENTITY editMenu.label "Modifier">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY fileMenu.label "Fichier">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Enregistrer sous…">
@@ -84,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyEmailCmd.label "Copier l’adresse électronique">
 <!ENTITY copyEmailCmd.accesskey "o">
-
