@@ -888,6 +888,8 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "تمام فایرفاکس های جدید شما در سال 2020 به دست شما می‌ رسد">
+<!ENTITY activity_stream_firefox_promo_description "به زودی:‌ بازدهی بهتر،‌ جلوگیری از دنبال شدن قوی تر و ویژیگی های طراحی شده برای پیدا کردن و به اشتراک گذاشتن،‌ ذخیره کردن مواردی که به صورت آنلاین بهشون علاقه دارید.">
+<!ENTITY activity_stream_firefox_promo_button "یک نگاه ریزی داشته باشید">
 
 <!ENTITY activity_stream_topsites "سایت‌های برتر">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
