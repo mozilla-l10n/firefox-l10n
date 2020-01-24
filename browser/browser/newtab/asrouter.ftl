@@ -128,10 +128,18 @@ cfr-whatsnew-pip-cta = Көбірек білу
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Сайттардың мазаны алатын азырақ қалқымалы хабарламалар.
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } енді сізге автоматты түрде қалқымалы хабарламаларды жіберуді сұрайтын сайттарды бұғаттайды.
 cfr-whatsnew-permission-prompt-cta = Көбірек білу
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+       *[other] Цифрлық баспаны жинаушы бұғатталды
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Баспаны жинаушылар
 
@@ -171,8 +179,17 @@ cfr-doorhanger-socialtracking-close-button = Жабу
 cfr-doorhanger-socialtracking-dont-show-again = Енді осындай хабарламаларды көрсетпеу
     .accesskey = д
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } әлеуметтік желіні сізді осында бақылаудан блоктады
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } бұл бетте цифрлық баспаны жинаушыны бұғаттады
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } бұл бетте криптомайнерді бұғаттады
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } { $date } <b>{ $blockedCount }</b> шамасынан көп трекерді бұғаттаған!
+    }
 cfr-doorhanger-milestone-ok-button = Барлығын қарау
     .accesskey = р
