@@ -104,6 +104,14 @@ info-exposed-passwords-found =
        *[other] Գաղտնաբառերը ենթարկուում են խախտումների
     }
 full-report-link = Տեսեք ողջ դիմումը այստէղ՝ <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Պահպանուած մուտքերը կարող են ենթարկուել տուեալների խախտման: Փոխեք այս գաղտնաբառերը առցանց աւելի լաւ անվտանգութեան համար: <a data-l10n-name="lockwise-link"> Դիտեք պահուած մուտքերը </a>
+       *[other] Պահպանուած մուտքերը կարող են ենթարկուել տուեալների խախտման: Փոխեք այս գաղտնաբառերը առցանց աւելի լաւ անվտանգության համար: <a data-l10n-name="lockwise-link"> Դիտեք պահուած մուտքերը </a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -112,3 +120,10 @@ full-report-link = Տեսեք ողջ դիմումը այստէղ՝ <a data-l10n-
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Սոց մեդիայի հետեւումներ
+    .aria-label =
+        { $count ->
+            [one] { $count } սոց մեդիայի հետեւում ({ $percentage }%)
+           *[other] { $count } սոց մեդիայի հետեւումներ ({ $percentage }%)
+        }
