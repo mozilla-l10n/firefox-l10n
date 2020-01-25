@@ -43,7 +43,7 @@ abuse-report-messagebar-submitting = Ուղարկվում է զեկույց <spa
 abuse-report-messagebar-submitted = Շնորհակալություն զեկույցը ուղակելու համար։ Ցանկանու՞մ եք հեռացնել <span data-l10n-name="addon-name">{ $addon-name }</span>-ը։
 abuse-report-messagebar-submitted-noremove = Շնորհակալություն զեկույցը ուղակելու համար։
 abuse-report-messagebar-removed-extension = Շնորհակալություն զեկույցը ուղակելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name">{ $addon-name }</span>-ի ընդլայնումը։
-abuse-report-messagebar-removed-theme = Շնորհակալություն զեկույցն ուղարկելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name"></span>-ի հիմնապատկերը։
+abuse-report-messagebar-removed-theme = Շնորհակալություն զեկույցն ուղարկելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name">{ $addon-name }</span>-ի հիմնապատկերը։
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկույց ուղարկելիս սխալ տեղի ունեցավ։
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկույցը չի ուղարկվել, որովհետև վերջերս այլ զեկույց է հաստատվել։
 
