@@ -328,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) змесціва
 play-drm-content =
@@ -584,6 +584,9 @@ containers-header = Карткі кантэйнераў
 containers-add-button =
     .label = Дадаць новы кантэйнер
     .accesskey = Д
+containers-new-tab-check =
+    .label = Абярыце кантэйнер для кожнай новай карткі
+    .accesskey = ы
 containers-preferences-button =
     .label = Налады
 containers-remove-button =
@@ -922,7 +925,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Адмыслова
     .accesskey = с
 
-
+##
 
 content-blocking-etp-standard-desc = Збалансаваная ахова і прадукцыйнасць. Старонкі загружаюцца нармальна.
 content-blocking-etp-strict-desc = Больш моцная ахова, але можа прывесці да парушэння некаторых сайтаў ці змесціва.
