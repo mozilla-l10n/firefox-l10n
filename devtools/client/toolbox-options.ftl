@@ -75,6 +75,7 @@ options-sourceeditor-expandtab-tooltip =
     .title = استخدم المسافات بدل محرف الجدولة
 options-sourceeditor-expandtab-label = أزِح مستخدما المسافات
 options-sourceeditor-tabsize-label = حجم التبويب
+options-sourceeditor-keybinding-label = ربطات المفاتيح
 options-sourceeditor-keybinding-default-label = المبدئي
 
 ## Advanced section
@@ -93,8 +94,3 @@ options-enable-remote-tooltip =
 options-enable-service-workers-http-label = فعّل عمّال الخدمة عبر HTTP (عندما يكون صندوق الأدوات مفتوحا)
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * في الجلسة الحالية فقط، تُعيد تحميل الصفحة
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = المنقّح

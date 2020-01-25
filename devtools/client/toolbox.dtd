@@ -32,6 +32,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "وحدة الألوان المبدئية">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
@@ -137,7 +138,7 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
-<!ENTITY options.stylesheetAutocompletion.label      "أكِل CSS تلقائيا">
+<!ENTITY options.stylesheetAutocompletion.label      "أكمِل CSS تلقائيا">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "أكمِل خصائص CSS وقيمها ومُحدِّداتها في محرر الأنماط تلقائيا وأنت تكتبها">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
@@ -172,4 +173,5 @@
 <!ENTITY options.sourceeditor.expandtab.tooltip         "استخدم المسافات بدل محرف الجدولة">
 <!ENTITY options.sourceeditor.tabsize.label             "حجم التبويب">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "ت">
+<!ENTITY options.sourceeditor.keybinding.label          "ربطات المفاتيح">
 <!ENTITY options.sourceeditor.keybinding.default.label  "المبدئي">
