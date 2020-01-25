@@ -9,6 +9,7 @@ forward = Avançar
 reload = Recarregar
 home = Página inicial
 fullscreen = Tela inteira
+touchbar-fullscreen-exit = Sair da tela inteira
 find = Procurar
 new-tab = Nova aba
 add-bookmark = Adicionar favorito
@@ -33,5 +34,5 @@ search-opentabs = Abas abertas
 search-tags = Etiquetas
 search-titles = Títulos
 
-
+##
 
