@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "افعل هذا آليا مع الملفات من هذا النوع من الآن فصاعدا.">
 <!ENTITY  rememberChoice.accesskey    "ف">
 
-<!ENTITY  whichIs.label              "الذي هو:">
+<!ENTITY  whichIs.label              "ونوعه:">
 
 <!ENTITY  chooseHandlerMac.label      "اختر…">
 <!ENTITY  chooseHandlerMac.accesskey  "خ">
