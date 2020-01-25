@@ -230,8 +230,8 @@ was trying to connect. -->
 <!ENTITY clockSkewError.title "컴퓨터의 시각이 올바르지 않음">
 <!ENTITY clockSkewError.longDesc "컴퓨터의 시계가 <span id='wrongSystemTime_systemDate1'/>으로 설정되어 있어서 &brandShortName;가 안전하게 연결을 할 수 없습니다. <span class='hostname'></span> 방문을 위해서는 컴퓨터의 시계를 올바른 날짜, 시간 및 시간대로 설정하시고 난 후, <span class='hostname'></span>를 다시 로드하세요.">
 
-<!ENTITY prefReset.longDesc "네트워크 보안 설정 때문에 이러한 현상이 발생한 것으로 보입니다. 기본 설정으로 되돌리겠습니까?">
-<!ENTITY prefReset.label "기본 설정으로 되돌리기">
+<!ENTITY prefReset.longDesc "네트워크 보안 설정이 원인일 수 있습니다. 기본 설정으로 복원하시겠습니까?">
+<!ENTITY prefReset.label "기본 설정으로 복원">
 
 <!ENTITY enableTls10.longDesc "이 웹 사이트는 &brandShortName;에서 지원하는 최소 버전인 TLS 1.2 프로토콜을 지원하지 않을 수 있습니다. TLS 1.0 및 TLS 1.1을 활성화하면 이 연결이 성공할 수 있습니다.">
 <!ENTITY enableTls10.note "TLS 1.0 및 TLS 1.1은 향후 출시에서 영구적으로 비활성화됩니다.">
