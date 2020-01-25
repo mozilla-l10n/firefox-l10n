@@ -42,6 +42,7 @@ login-list =
 login-list-count = { $count } credenziali
 login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
+login-list-name-reverse-option = Nome (Z-A)
 login-list-breached-option = Violazione dati
 login-list-last-changed-option = Ultima modifica
 login-list-last-used-option = Ultimo utilizzo
