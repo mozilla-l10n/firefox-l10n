@@ -220,7 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "북마크">
 <!ENTITY bookmarksMenu.accesskey "B">
 
-<!ENTITY bookmarkThisPageCmd.label "현재 페이지 북마크에 추가">
+<!ENTITY bookmarkThisPageCmd.label "이 페이지를 북마크에 추가">
 <!ENTITY editThisBookmarkCmd.label "이 북마크 편집">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -690,7 +690,7 @@ context menu items are mutually exclusive. -->
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "현재 프레임">
+<!ENTITY thisFrameMenu.label              "이 프레임">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
