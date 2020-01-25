@@ -92,9 +92,23 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-       *[other] Белгілі деректерді бұзудан сіздің ақпаратыңыз табылды
+       *[other] Ішінен сіздің ақпаратыңыз табылған белгілі деректерді бұзушылықтары
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+       *[other] Барлық бұзушылықтардан ашылған парольдер
     }
 full-report-link = Толық есептемені <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> жерінен қараңыз
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+       *[other] Сақталған логиндер деректер бұзуында табылған мүмкіндігі бар. Күштірек онлайн қорғаныс үшін осы паролдерді өзгертіңіз. <a data-l10n-name="lockwise-link">Сақталған логиндерді қарау</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
