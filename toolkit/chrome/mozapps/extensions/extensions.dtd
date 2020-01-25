@@ -9,11 +9,11 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 
 <!ENTITY cmd.askToActivate.label              "활성화 요청">
-<!ENTITY cmd.askToActivate.tooltip            "현재 부가 기능 사용 확인">
+<!ENTITY cmd.askToActivate.tooltip            "매번 이 부가 기능 사용 묻기">
 <!ENTITY cmd.alwaysActivate.label             "항상 사용">
-<!ENTITY cmd.alwaysActivate.tooltip           "현재 부가 기능은 항상 사용">
+<!ENTITY cmd.alwaysActivate.tooltip           "항상 이 부가 기능 사용">
 <!ENTITY cmd.neverActivate.label              "사용 안 함">
-<!ENTITY cmd.neverActivate.tooltip            "현재 부가 기능은 사용 안 함">
+<!ENTITY cmd.neverActivate.tooltip            "이 부가 기능 사용 안 함">
 <!ENTITY cmd.stateMenu.tooltip                "부가 기능 사용 상태 변경">
 
 <!ENTITY cmd.uninstallAddon.label             "제거">
@@ -50,14 +50,14 @@
      necessary -->
 <!ENTITY addon.update.postfix                 "업데이트">
 <!ENTITY addon.undoAction.label               "실행 취소">
-<!ENTITY addon.undoAction.tooltip             "현재 동작 취소">
+<!ENTITY addon.undoAction.tooltip             "이 동작 취소">
 <!ENTITY addon.undoRemove.label               "실행 취소">
 <!ENTITY addon.undoRemove.tooltip             "부가 기능 설치 유지">
 
 <!ENTITY addon.install.label                  "설치하기">
-<!ENTITY addon.install.tooltip                "현재 부가 기능 설치하기">
+<!ENTITY addon.install.tooltip                "이 부가 기능 설치하기">
 <!ENTITY addon.updateNow.label                "업데이트">
-<!ENTITY addon.updateNow.tooltip              "현재 부가 기능 업데이트하기">
+<!ENTITY addon.updateNow.tooltip              "이 부가 기능 업데이트하기">
 <!ENTITY addon.includeUpdate.label            "업데이트에 포함">
 <!ENTITY addon.updateAvailable.label          "업데이트 사용 가능">
 <!ENTITY addon.checkingForUpdates.label       "업데이트 확인…">
