@@ -29,3 +29,5 @@ inactive-css-not-grid-or-flex-item = ليس للصفة <strong>{ $property }</st
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>display:inline-grid</strong> أو <strong>display:inline-flex</strong>. { learn-more }
