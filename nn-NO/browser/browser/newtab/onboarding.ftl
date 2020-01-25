@@ -31,7 +31,7 @@ onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.
 onboarding-join-form-email =
     .placeholder = Skriv inn e-postadresse
 onboarding-join-form-email-error = Gyldig e-postadresse påkravd
-onboarding-join-form-legal = Ved å fortsetje godtek du <a data-l10n-name="terms">tenestevilkåra</a> våre og <a data-l10n-name="privacy">personvernerklæringa</a> vår.
+onboarding-join-form-legal = Ved å fortsetje godtek du <a data-l10n-name="terms">tenestevilkåra</a> våre og <a data-l10n-name="privacy">personvernpraksisen</a> vår.
 onboarding-join-form-continue = Fortset
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Har du allereie ein konto?
