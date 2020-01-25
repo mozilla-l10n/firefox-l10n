@@ -20,6 +20,10 @@ graph-total-tracker-summary =
         [few] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuoti <b>{ $count }</b> stebėjimo elementai
        *[other] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuota <b>{ $count }</b> stebėjimo elementų
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = „{ -brand-short-name }“ ir toliau blokuoja stebėjimo elementus privačiojo naršymo languose, tačiau nefiksuoja, kas buvo užblokuota.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Šią savaitę „{ -brand-short-name }“ užblokuoti stebėjimo elementai
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -68,16 +72,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Įjungti „{ -sync-brand-short-name }“…
     .title = Eiti į sinchronizavimo nuostatas
-manage-devices = Tvarkyti įrenginius
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Sinchronizuojama su { $count } kitu įrenginiu
-        [few] Sinchronizuojama su { $count } kitais įrenginiais
-       *[other] Sinchronizuojama su { $count } kitų įrenginių
-    }
-lockwise-sync-not-syncing-devices = Nesinchronizuojama su kitais įrenginiais
 manage-connected-devices = Tvarkyti įrenginius…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
