@@ -134,7 +134,7 @@ full-screen-autohide =
     .label = 도구 모음 닫기
     .accesskey = H
 full-screen-exit =
-    .label = 원래 화면으로 복구
+    .label = 전체 화면 종료
     .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
