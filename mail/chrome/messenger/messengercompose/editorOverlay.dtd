@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "แทรกจุดยึดที่มีชื่อใหม่หรือแก้ไขคุณสมบัติของจุดยึดที่เลือก">
 <!ENTITY TextColorButton.tooltip "เลือกสีสำหรับข้อความ">
 <!ENTITY BackgroundColorButton.tooltip "เลือกสีสำหรับพื้นหลัง">
-<!ENTITY throbber.tooltip "ไปยังหน้าแรกของ &vendorShortName;">
+<!ENTITY throbber.tooltip2 "ไปยังหน้าแรกของ &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "เลือกสีเน้นสำหรับข้อความ">
 
 <!-- Editor toolbar -->

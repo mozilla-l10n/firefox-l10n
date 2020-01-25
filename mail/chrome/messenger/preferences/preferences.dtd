@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "ไฟล์แนบ">
 <!ENTITY panePrivacy.title        "ความเป็นส่วนตัว">
 <!ENTITY paneSecurity.title       "ความปลอดภัย">
+<!ENTITY panePrivacySecurity.title "ความเป็นส่วนตัวและความปลอดภัย">
 <!ENTITY paneLightning.title      "ปฏิทิน">
 <!ENTITY paneAdvanced.title       "ขั้นสูง">
 <!ENTITY paneAccount.title        "บัญชี">

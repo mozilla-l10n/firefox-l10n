@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "จ">
 <!ENTITY viewSecurityDevices.label "อุปกรณ์ความปลอดภัย">
 <!ENTITY viewSecurityDevices.accesskey "ค">
+
+<!ENTITY manageCertificates2.label "จัดการใบรับรอง…">
+<!ENTITY manageCertificates2.accesskey "จ">
+<!ENTITY viewSecurityDevices2.label "อุปกรณ์ความปลอดภัย…">
+<!ENTITY viewSecurityDevices2.accesskey "อ">

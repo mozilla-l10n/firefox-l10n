@@ -37,7 +37,9 @@
 <!ENTITY pop3Long.label                  "POP3 (เก็บจดหมายไว้ในคอมพิวเตอร์ของคุณ)">
 
 <!ENTITY incoming.label                  "ขาเข้า:">
+<!ENTITY incomingColumn.label            "ขาเข้า">
 <!ENTITY outgoing.label                  "ขาออก:">
+<!ENTITY outgoingColumn.label            "ขาออก">
 <!ENTITY username.label                  "ชื่อผู้ใช้:">
 <!ENTITY hostname.label                  "ชื่อโฮสต์เซิร์ฟเวอร์">
 <!ENTITY port.label                      "พอร์ต">
