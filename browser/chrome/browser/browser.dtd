@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "주소 표시줄에 있는 주소로 접속하기">
 <!ENTITY printButton.label            "인쇄">
-<!ENTITY printButton.tooltip          "현재 페이지 인쇄">
+<!ENTITY printButton.tooltip          "이 페이지 인쇄">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "사이트 정보 보기">
 
@@ -625,7 +625,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "배경으로 지정…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "북마크에 추가">
+<!ENTITY bookmarkPageCmd2.label       "이 페이지를 북마크에 추가">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "링크를 북마크에 추가">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
@@ -668,9 +668,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "오디오 보내기…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "현재 플러그인 활성화">
+<!ENTITY playPluginCmd.label          "이 플러그인 활성화">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "현재 플러그인 숨기기">
+<!ENTITY hidePluginCmd.label          "이 플러그인 숨기기">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "링크 주소 복사">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link

@@ -63,7 +63,7 @@ toolbar-button-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .aria-label = 북마크에 추가
+    .aria-label = 이 페이지를 북마크에 추가
     .accesskey = m
 main-context-menu-open-link =
     .label = 링크 열기
