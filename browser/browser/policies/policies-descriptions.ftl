@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. L
 policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter ei oppdatering. La policyen stå tom viss sida etter ei oppdatering skal deaktiverast.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordhandteraren.
 policy-Permissions = Still inn løyve for kamera, mikrofon, plassering og varsel.
+policy-Permissions2 = Konfigurer løyve for kamera, mikrofon, plassering, varsel og auto-avspeling.
 policy-PopupBlocking = Tillat at visse nettstadar skal kunne vise sprettoppvindauge som standard.
 policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar.
 policy-PromptForDownloadLocation = Spør kvar nedlasta filer skal lagrast.
