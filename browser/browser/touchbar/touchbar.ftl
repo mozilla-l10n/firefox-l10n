@@ -9,6 +9,7 @@ forward = تقدّم
 reload = أعِد التحميل
 home = البداية
 fullscreen = ملء الشاشة
+touchbar-fullscreen-exit = غادر ملء الشاشة
 find = ابحث
 new-tab = لسان جديد
 add-bookmark = أضِف علامة
@@ -33,5 +34,5 @@ search-opentabs = الألسنة المفتوحة
 search-tags = الوسوم
 search-titles = العناوين
 
-
+##
 

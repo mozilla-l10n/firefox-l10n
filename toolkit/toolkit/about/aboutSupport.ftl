@@ -24,13 +24,25 @@ features-title = مميزات { -brand-short-name }
 features-name = الاسم
 features-version = النسخة
 features-id = المعرّف
+processes-title = العمليات البعيدة
+processes-type = النوع
+processes-count = العدد
 app-basics-title = أساسيات التطبيق
 app-basics-name = الاسم
 app-basics-version = النسخة
 app-basics-build-id = معرف البناء
 app-basics-update-channel = قناة التحديث
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] دليل التحديثات
+       *[other] مجلد التحديثات
+    }
 app-basics-update-history = تأريخ التحديث
 app-basics-show-update-history = أظهر تأريخ التحديث
+# Represents the path to the binary used to start the application.
+app-basics-binary = ملف التطبيق الثنائي
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] مجلد الملف الشخصي
@@ -45,7 +57,10 @@ app-basics-performance = الأداء
 app-basics-service-workers = عمّال الخدمة المسجلين
 app-basics-profiles = ملفات الإعدادات
 app-basics-multi-process-support = نوافذ متعددة السيرورات
+app-basics-remote-processes-count = العمليات البعيدة
 app-basics-enterprise-policies = سياسات المؤسسات
+app-basics-location-service-key-google = مفتاح خدمة التموضع من جوجل
+app-basics-safebrowsing-key-google = مفتاح التصفّح الآمن من جوجل
 app-basics-key-mozilla = مفتاح خدمة التموضع من Mozilla
 app-basics-safe-mode = الوضع الآمن
 show-dir-label =
@@ -71,6 +86,8 @@ graphics-gpu2-title = معالج الرسوميات #2
 graphics-decision-log-title = سجل القرارات
 graphics-crash-guards-title = خصائص حامي التحطم المعطَّلة
 graphics-workarounds-title = الحلول الالتفافية
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = ميفاق النوافذ
 place-database-title = قاعدة بيانات الأماكن
 place-database-integrity = التكامل
 place-database-verify-integrity = تحقّق من التكامل
@@ -115,7 +132,7 @@ media-device-channels = القنوات
 media-device-rate = المعدل
 media-device-latency = الكمون
 
-
+##
 
 intl-title = التدويل و التوطين
 intl-app-title = إعدادات التطبيق
@@ -137,7 +154,7 @@ intl-regional-prefs = التفضيلات الإقليمية
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log

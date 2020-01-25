@@ -33,6 +33,7 @@ printpreview-of =
     .value = من
 printpreview-custom-prompt =
     .value = مقياس مخصص…
+printpreview-custom-scale-prompt-title = مقياس مخصّص
 printpreview-page-setup =
     .label = إعداد الصفحة…
     .accesskey = ع
@@ -44,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }٪
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = الصفحة الأولى
