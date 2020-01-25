@@ -4,7 +4,7 @@
 
 page-title = 문제 해결 정보
 page-subtitle =
-    현재 페이지는 여러분이 { -brand-short-name } 사용 상 문제점을 해결 할 수 있는
+    이 페이지는 여러분이 { -brand-short-name } 사용 상 문제점을 해결 할 수 있는
     다양한 기술적 정보를 담고 있습니다. 여러분이 문제의 해결을 얻기 위해서는
     이 정보를 토대로 <a data-l10n-name="support-link">고객 지원 사이트</a>에 문의하시기 바랍니다.
 crashes-title = 충돌 보고서
