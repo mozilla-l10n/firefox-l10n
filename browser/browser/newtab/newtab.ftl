@@ -133,6 +133,10 @@ newtab-label-removed-bookmark = Zapołožka je so wotstroniła
 newtab-label-recommended = Popularny
 newtab-label-saved = Do { -pocket-brand-name } składowany
 newtab-label-download = Sćehnjeny
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } - sponsorowane
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

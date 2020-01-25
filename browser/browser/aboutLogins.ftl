@@ -48,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortěrować po:
 login-list-name-option = Mjenje (A-Z)
+login-list-name-reverse-option = Mjeno (Z - A)
 login-list-breached-option = Zranjene websydła
 login-list-last-changed-option = Poslednjej změnje
 login-list-last-used-option = Poslednim wužiću
@@ -75,7 +76,6 @@ about-logins-intro-import = Jeli waše přizjewjenja su składowane w druhim wob
 
 login-item-new-login-title = Nowe přizjewjenje załožić
 login-item-edit-button = Wobdźěłać
-login-item-delete-button = Zhašeć
 about-logins-login-item-remove-button = Wotstronić
 login-item-origin-label = Adresa websydła
 login-item-origin =
@@ -122,7 +122,6 @@ enable-password-sync-preferences-button =
            *[other] Nastajenja { -sync-brand-short-name } wopytać
         }
     .accesskey = N
-confirm-delete-dialog-title = Tute přizjewjenje zhašeć?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Hižo so njeprašeć
     .accesskey = H
@@ -134,7 +133,6 @@ confirmation-dialog-dismiss-button =
     .title = Přetorhnyć
 about-logins-confirm-remove-dialog-title = Tute přizjewjenje wotstronić?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
-confirm-delete-dialog-confirm-button = Zhašeć
 about-logins-confirm-remove-dialog-confirm-button = Wotstronić
 confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
 confirm-discard-changes-dialog-message = Wšě njeskładowane změny so zhubja.
