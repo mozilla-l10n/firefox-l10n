@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "การอ่าน">
 <!ENTITY display.caption                  "การแสดงผล">
+<!ENTITY displayName.label                "ชื่อที่แสดง:">
 <!ENTITY showCondensedAddresses.label     "แสดงเฉพาะชื่อที่แสดงสำหรับผู้คนในสมุดรายชื่อของฉัน">
 <!ENTITY showCondensedAddresses.accesskey "ส">
 

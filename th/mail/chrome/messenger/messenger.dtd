@@ -684,6 +684,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "บันทึกการค้นหาเป็นโฟลเดอร์…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "เลือกข้อความ">
 <!ENTITY threadColumn.label "หัวข้อ">
 <!ENTITY fromColumn.label "จาก">
 <!ENTITY recipientColumn.label "ผู้รับ">
@@ -937,3 +938,5 @@
 <!ENTITY dockOptions.label              "ตัวเลือกไอคอนแอป…">
 <!ENTITY writeNewMessageDock.label      "เขียนข้อความใหม่">
 <!ENTITY openAddressBookDock.label      "เปิดสมุดรายชื่อ">
+
+<!-- Content tab Navigation buttons -->
