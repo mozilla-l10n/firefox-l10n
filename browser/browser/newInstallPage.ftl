@@ -23,6 +23,6 @@ sync-label = Skriv inn e-postadressa di
 sync-input =
     .placeholder = E-post
 sync-button = Hald fram
-sync-terms = Ved å fortsette aksepterer du <a data-l10n-name="terms">tenestevilkåra</a> og <a data-l10n-name="privacy">personvernpraksisane</a> våre.
+sync-terms = Ved å fortsetje godtek du <a data-l10n-name="terms">tenestevilkåra</a> og <a data-l10n-name="privacy">personvernpraksisen</a> vår.
 sync-first = Er det første gong du brukar { -sync-brand-name }? Du må logge inn på kvar installasjon av Firefox for å synkronisere informasjonen din.
 sync-learn = Les meir
