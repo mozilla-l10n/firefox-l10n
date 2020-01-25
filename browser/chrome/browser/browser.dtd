@@ -180,6 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Бетті сіз кірген кез келген құрылғыға лезде жіберіңіз.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -289,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.installBlocked.tooltip           "Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Бұл веб-сайтқа қосымша рұқсаттарды бердіңіз.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
@@ -447,8 +449,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Синхрондау баптауларын ашу">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Басқа құрылғыларыңыздан беттер тізімін қарау.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Тіркелгіңіз расталуы тиіс.">
 <!ENTITY appMenuRemoteTabs.signin.label "Синхрондау ішіне кіру">
+<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label; ішіне кіру…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; іске қосу…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Құрылғыларды басқару…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Синхрондалған беттер бүйір панелін қарау">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Синхрондалған беттер бүйір панелін жабу">
@@ -841,6 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
 
+<!ENTITY identity.connectionSecure3 "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure2 "Байланыс қауіпсіз емес">
 <!ENTITY identity.connectionNotSecureSecurityView "Бұл сайтқа қауіпсіз түрде байланысқан емессіз.">
 <!ENTITY identity.connectionFile "Бұл парақ сіздің компьютеріңізде сақталған.">

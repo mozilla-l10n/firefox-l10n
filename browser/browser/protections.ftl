@@ -46,12 +46,22 @@ cookie-tab-title = Сайтаралық бақылайтын cookie файлда
 tracker-tab-title = Бақылайтын құрама
 tracker-tab-description = Веб-сайттар бақылау кодымен сыртқы жарнама, видео және басқа құраманы жүктей алады. Бақылайтын құраманы бұғаттау сайттардың жылдамдау жүктелуіне көмектеседі, бірақ, кейбір батырмалар, формалар және кіру өрістері жасамауы мүмкін. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 fingerprinter-tab-title = Цифрлық баспаны жинаушылар
+cryptominer-tab-title = Криптомайнерлер
 lockwise-title = Парольдерді енді ешқашан ұмытпаңыз
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } парольдеріңізді браузерде қауіпсіз түрде сақтайды.
 lockwise-header-content-logged-in = Парольдеріңізді барлық құрылғыларыңызда қауіпсіз түрде сақтау және синхрондау.
 protection-report-view-logins-button = Логиндерді қарау
     .title = Сақталған логиндерге өту
+lockwise-no-logins-content = Парольдерді өзіңізбен әр жерде ұстау үшін, <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> қолданбасын алыңыз.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Пароль(дер) қауіпсіз түрде сақталды <a data-l10n-name="lockwise-how-it-works">Бұл қалай жасайды</a>
+       *[other] Passwords stored securely <a data-l10n-name="lockwise-how-it-works">How it works</a>
+    }
 turn-on-sync = { -sync-brand-short-name } іске қосу…
     .title = Синхрондау баптауларына өту
 manage-connected-devices = Құрылғыларды басқару…
@@ -71,6 +81,7 @@ info-monitored-emails =
     { $count ->
        *[other] Бақыланатын эл. пошта адрестері
     }
+full-report-link = Толық есептемені <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> жерінен қараңыз
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

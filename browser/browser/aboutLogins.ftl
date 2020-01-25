@@ -45,6 +45,7 @@ login-list-count =
     }
 login-list-sort-label-text = Бойынша сұрыптау:
 login-list-name-option = Аты (A-Z)
+login-list-name-reverse-option = Аты (A-Z)
 login-list-breached-option = Бұзылған веб-сайттар
 login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
