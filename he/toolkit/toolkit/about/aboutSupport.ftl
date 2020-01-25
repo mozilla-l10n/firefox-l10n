@@ -126,7 +126,7 @@ media-device-channels = ערוצים
 media-device-rate = קצב
 media-device-latency = עיכוב
 
-
+##
 
 intl-title = בינלאומי ושפות
 intl-app-title = הגדרות יישום
@@ -149,7 +149,7 @@ intl-regional-prefs = העדפות אזוריות
 
 remote-debugging-url = כתובת
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -239,6 +239,7 @@ d3d11video-crash-guard = מפענח הווידאו D3D11
 d3d9video-crash-buard = מפענח הווידאו D3D9
 d3d9video-crash-guard = מפענח הווידאו D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = מפענח הווידאו WMF VPX
 reset-on-next-restart = איפוס בהפעלה מחדש הבאה
 gpu-process-kill-button = סיום תהליך GPU
 gpu-device-reset = איפוס מכשיר

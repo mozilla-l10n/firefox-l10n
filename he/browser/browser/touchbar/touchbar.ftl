@@ -9,6 +9,7 @@ forward = קדימה
 reload = טעינה מחדש
 home = בית
 fullscreen = מסך מלא
+touchbar-fullscreen-exit = יציאה ממסך מלא
 find = חיפוש
 new-tab = לשונית חדשה
 add-bookmark = הוספת סימנייה
@@ -33,5 +34,5 @@ search-opentabs = לשוניות פתוחות
 search-tags = תגיות
 search-titles = כותרות
 
-
+##
 

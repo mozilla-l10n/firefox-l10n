@@ -86,7 +86,7 @@ newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name 
 newtab-privacy-modal-button-done = סיום
 newtab-privacy-modal-header = הפרטיות שלך חשובה.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = הסרת סימנייה
@@ -121,6 +121,10 @@ newtab-label-removed-bookmark = הסימנייה הוסרה
 newtab-label-recommended = פופולרי
 newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · ממומן
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -169,7 +173,6 @@ newtab-discovery-empty-section-topstories-loading = בטעינה…
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = נושאים פופולריים:
 newtab-pocket-more-recommendations = המלצות נוספות
-newtab-pocket-how-it-works = איך זה עובד
 newtab-pocket-whats-pocket = מה זה { -pocket-brand-name }?
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
