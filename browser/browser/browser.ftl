@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Atverti priedo diegimo pranešimo skydelį
 urlbar-tip-help-icon =
     .title = Žinynas ir pagalba
+urlbar-search-tips-confirm = Gerai, supratau
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
