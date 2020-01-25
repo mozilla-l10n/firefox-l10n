@@ -47,6 +47,7 @@ login-list-count =
     }
 login-list-sort-label-text = Rikiuoti pagal:
 login-list-name-option = Pavadinimas (A-Z)
+login-list-name-reverse-option = Pavadinimas (Z-A)
 login-list-breached-option = Pažeistos svetainės
 login-list-last-changed-option = Atnaujinimo laikas
 login-list-last-used-option = Paskiausias naudojimo laikas
@@ -74,7 +75,6 @@ about-logins-intro-import = Jeigu turite kitoje naršyklėje įrašytų prisijun
 
 login-item-new-login-title = Sukurti naują prisijungimą
 login-item-edit-button = Taisyti
-login-item-delete-button = Pašalinti
 about-logins-login-item-remove-button = Pašalinti
 login-item-origin-label = Svetainės adresas
 login-item-origin =
@@ -121,7 +121,6 @@ enable-password-sync-preferences-button =
            *[other] Aplankyti „{ -sync-brand-short-name }“ nuostatas
         }
     .accesskey = A
-confirm-delete-dialog-title = Pašalinti šį prisijungimą?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Daugiau neklausti
     .accesskey = D
@@ -133,7 +132,6 @@ confirmation-dialog-dismiss-button =
     .title = Atsisakyti
 about-logins-confirm-remove-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
-confirm-delete-dialog-confirm-button = Šalinti
 about-logins-confirm-remove-dialog-confirm-button = Pašalinti
 confirm-discard-changes-dialog-title = Atsisakyti neįrašytų pakeitimų?
 confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
