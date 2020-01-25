@@ -37,6 +37,7 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
+options-default-color-unit-label = وحدة الألوان المبدئية
 options-default-color-unit-name = أسماء الألوان
 
 ## Style Editor section
