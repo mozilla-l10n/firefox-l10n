@@ -49,7 +49,7 @@
 
 <!ENTITY generic.title "이런.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName;가 어떠한 이유로 인하여 현재 페이지를 읽을 수 없습니다.</p>
+<p>&brandShortName;가 어떠한 이유로 인하여 이 페이지를 읽을 수 없습니다.</p>
 ">
 
 <!ENTITY captivePortal.title "네트워크에 로그인">
