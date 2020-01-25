@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Conteúdo com Gestão de Direitos Digitais (DRM)
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Separadores contentores
 containers-add-button =
     .label = Adicionar novo contentor
     .accesskey = A
+containers-new-tab-check =
+    .label = Selecionar um contentor para cada novo separador
+    .accesskey = S
 containers-preferences-button =
     .label = Preferências
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizada
     .accesskey = e
 
-
+##
 
 content-blocking-etp-standard-desc = Balanceado para proteção e desempenho. As páginas serão carregadas normalmente.
 content-blocking-etp-strict-desc = Proteção mais forte, mas pode causar problemas em alguns sites ou conteúdos.
