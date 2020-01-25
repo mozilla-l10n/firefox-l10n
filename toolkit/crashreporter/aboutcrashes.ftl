@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Құлау хабарламалары
-clear-all-reports-label = Барлық хабарлауларды өшіру
+submit-all-button-label = Барлығын жіберу
 delete-button-label = Барлығын тазарту
 delete-confirm-title = Сіз шынымен осыны қалайсыз ба?
-delete-confirm-description = Бұл әрекеттің нәтижесінде барлық хабарлар қайтымсыз жойылады.
 delete-unsubmitted-description = Бұл әрекет барлық жіберілмеген құлау туралы хабарламаларын толығымен өшіріледі, және оны кейін болдырмау мүмкін емес.
 delete-submitted-description = Бұл әрекет барлық жіберілген құлау туралы хабарламалар тізімін өшіреді, бірақ, жіберілген деректерді өшірмейді. Кейін оны болдырмау мүмкін емес.
 crashes-unsubmitted-label = Құлау туралы жіберілмеген хабарламалар

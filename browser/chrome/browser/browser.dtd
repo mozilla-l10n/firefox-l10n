@@ -917,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Келесімен мәселелер болса, қорғанысты сөндіріңіз:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Кіру өрістері">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Формалар">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Төлемдер">
@@ -937,7 +938,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Неге?">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Бұл сайттағы барлық трекерлер жүктелген, себебі қорғаныс сөндірілген.">
+<!ENTITY protections.noTrackersFound.description "Бұл бетте &brandShortName; үшін белгілі трекерлер табылмады.">
 
+<!ENTITY protections.cryptominers.description "Криптомайнерлер жүйеңіздің есептеу қуатын цифрлық валютаны алу үшін қолданады. Криптомайнерлік скрипттер батареяны отырғызып, компьютерді тежейді және қуат шығындарын көбейтеді.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
