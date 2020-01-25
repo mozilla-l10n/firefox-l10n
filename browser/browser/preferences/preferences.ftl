@@ -328,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Treści DRM (Digital Rights Management)
 play-drm-content =
@@ -584,6 +584,9 @@ containers-header = Karty z kontekstem
 containers-add-button =
     .label = Dodaj kontekst
     .accesskey = D
+containers-new-tab-check =
+    .label = Wybieraj kontekst dla każdej nowej karty
+    .accesskey = W
 containers-preferences-button =
     .label = Preferencje
 containers-remove-button =
@@ -922,7 +925,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Własna
     .accesskey = W
 
-
+##
 
 content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą działać bez problemów.
 content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niepoprawne działanie niektórych stron.

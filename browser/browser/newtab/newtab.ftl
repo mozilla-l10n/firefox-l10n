@@ -127,12 +127,16 @@ newtab-menu-open-file = Otwórz plik
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
-newtab-label-visited = Z odwiedzonych
-newtab-label-bookmarked = Z zakładek
+newtab-label-visited = Z odwiedzonych
+newtab-label-bookmarked = Z zakładek
 newtab-label-removed-bookmark = Usunięto zakładkę
 newtab-label-recommended = Na czasie
-newtab-label-saved = Z { -pocket-brand-name }
-newtab-label-download = Z pobranych
+newtab-label-saved = Z { -pocket-brand-name }
+newtab-label-download = Z pobranych
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponsorowane
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
