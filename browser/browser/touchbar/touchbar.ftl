@@ -9,6 +9,7 @@ forward = Вперед
 reload = Перезавантажити
 home = Домівка
 fullscreen = Повний екран
+touchbar-fullscreen-exit = Вийти з повноекранного режиму
 find = Знайти
 new-tab = Нова вкладка
 add-bookmark = Додати закладку
@@ -33,5 +34,5 @@ search-opentabs = Відкритих вкладках
 search-tags = Мітках
 search-titles = Заголовках
 
-
+##
 

@@ -328,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Вміст з керуванням цифровими правами (DRM)
 play-drm-content =
@@ -583,6 +583,9 @@ containers-back-button =
 containers-header = Вкладки контейнера
 containers-add-button =
     .label = Додати новий контейнер
+    .accesskey = к
+containers-new-tab-check =
+    .label = Оберіть контейнер для кожної нової вкладки
     .accesskey = к
 containers-preferences-button =
     .label = Налаштування
@@ -922,7 +925,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Власний
     .accesskey = л
 
-
+##
 
 content-blocking-etp-standard-desc = Збалансований захист і швидкодія. Сторінки завантажуватимуться нормально.
 content-blocking-etp-strict-desc = Надійніший захист, але може пошкоджувати деякі сайти чи їх вміст.
