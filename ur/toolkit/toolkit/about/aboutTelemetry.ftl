@@ -7,6 +7,7 @@ about-telemetry-show-current-ping-data = موجودہ پنگ کے کوائف
 about-telemetry-show-archived-ping-data = محفوظہ پنگ کوائف
 about-telemetry-show-subsession-data = ذیلی سیشن کوائف دکھائیں
 about-telemetry-choose-ping = پنگ کا انتخاب کریں
+about-telemetry-archive-ping-type = پنگ کی قسم
 about-telemetry-archive-ping-header = پینگ
 about-telemetry-option-group-today = آج
 about-telemetry-option-group-yesterday = گزرا کل
@@ -14,6 +15,8 @@ about-telemetry-option-group-older = پرانا
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = ٹیلیمٹری کوائف
+about-telemetry-current-store = موجودہ اسٹور:
+about-telemetry-more-information = مزید معلومات تلاش کر رہے ہیں؟
 about-telemetry-home-section = ابتدائی صفحہ
 about-telemetry-general-data-section = جنرل کوائف
 about-telemetry-environment-data-section = ماحولیاتی کوائف
@@ -48,6 +51,12 @@ about-telemetry-page-subtitle = یہ صفحہ کارکردگی، ہارڈ ہئر
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } میں تلاش کریں
+about-telemetry-filter-all-placeholder =
+    .placeholder = تمام حصوں میں تلاش کریں
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = موجودہ پنگ
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = موجودہ ڈیٹا
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = تمام
 # button label to copy the histogram
@@ -78,3 +87,4 @@ about-telemetry-category-header = زمرہ
 about-telemetry-method-header = طریقہ
 about-telemetry-object-header = آبجیکٹ
 about-telemetry-extra-header = فالتو
+about-telemetry-origin-count = گنیں

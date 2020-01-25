@@ -57,3 +57,11 @@ rcwn-avg-long = لمبی اوسط
 rcwn-std-dev-long = طویل معیاری انحراف
 rcwn-cache-slow = کیشیں کی دھیمی شمارات
 rcwn-cache-not-slow = کیشیں کی غیر دھیمی شمارات
+networkid = نیٹ ورک کی شناخت
+networkid-id = نیٹ ورک کی شناخت
+
+## Link is intended as "network link"
+
+
+##
+

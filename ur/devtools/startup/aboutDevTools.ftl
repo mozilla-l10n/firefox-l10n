@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+head-title = تخلیق کار ٹول کے بارے میں
+enable-title = Firefox تخلیق کار ٹول کو فعال بناۓ
 enable-close-button = یہ ٹیب بند کریں
 newsletter-email-placeholder =
     .placeholder = ای میل
