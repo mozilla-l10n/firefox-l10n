@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "املأ بالولوج">
 <!ENTITY fillLoginMenu.accesskey      "م">
+<!ENTITY useGeneratedPassword.label   "استعمل كلمة سرّ مولّدة توليدًا آمنًا…">
+<!ENTITY useGeneratedPassword.accesskey "س">
 <!ENTITY fillPasswordMenu.label       "املأ بكلمة السر">
 <!ENTITY fillPasswordMenu.accesskey   "م">
 <!ENTITY fillUsernameMenu.label       "املأ باسم المستخدم">

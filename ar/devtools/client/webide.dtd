@@ -56,8 +56,11 @@
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
