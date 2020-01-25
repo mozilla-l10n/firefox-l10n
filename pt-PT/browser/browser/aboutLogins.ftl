@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
+login-list-name-reverse-option = Nome (Z-A)
 login-list-breached-option = Sites invadidos
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Última utilização

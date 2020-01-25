@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Sobrepor a página de primeira execução. Defina 
 policy-OverridePostUpdatePage = Sobrepor a página "Novidades" pós-atualização. Defina esta política para blank se pretende desativar a página pós-atualização.
 policy-PasswordManagerEnabled = Ativar a opção de guardar as palavras-passe no gestor de palavras-passe.
 policy-Permissions = Configurar permissões para a câmara, microfone, localização e notificações.
+policy-Permissions2 = Configurar as permissões para a câmara, microfone, localização, notificações e reprodução automática.
 policy-PopupBlocking = Permitir que determinados sites mostrem popups por predefinição.
 policy-Preferences = Definir e bloquear o valor para um subconjunto de preferências.
 policy-PromptForDownloadLocation = Perguntar onde guardar os ficheiros durante a transferência.
