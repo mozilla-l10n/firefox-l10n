@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "بيانات أقل، توفير أكبر">
 <!ENTITY firstrun_data_subtext2 "عطّل الصور لتوفير البيانات في كل موقع تزوره.">
 <!ENTITY firstrun_sync_title "تزامُن">
-<!ENTITY updatednewfirstrun_sync_title "الحساب">
-<!ENTITY firstrun_sync_message2 "أكمل من حيث انتهيت.">
 <!ENTITY firstrun_sync_message3 "زامِن العلامات والتأريخ وكلمات السر إلى هاتفك.">
 <!ENTITY firstrun_sync_subtext2 "استعمل «تزامن» لتجد العلامات، وكلمات السر وغيرها من الأمور التي تحفظها في &brandShortName; على أجهزتك.">
 <!ENTITY newfirstrun_sync_subtext "زامِن ما حفظته على المحمول في فَيَرفُكس على سطح المكتب، بكل أمان وأقصى خصوصية.">
-<!ENTITY updatednewfirstrun_sync_subtext "لِج إلى حسابك لتستفد أقصى استفادة من &brandShortName;">
-<!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY firstrun_sendtab_title "أرسِل الألسنة">
 <!ENTITY firstrun_sendtab_message "شارِك الألسنة بين المحمول وسطح المكتب، في لحظة.">
-<!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
-<!ENTITY newfirstrun_signin_button "فعّل «تزامُن»">
-<!ENTITY updatednewfirstrun_signin_button "لِج إلى &brandShortName;">
+<!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY onboard_start_button_browser "ابدأ التصفح">
 <!ENTITY firstrun_button_notnow "ليس الآن">
 <!ENTITY firstrun_button_next "التالي">
-
-<!ENTITY firstrun_signin_button2 "لِج">
+<!ENTITY firstrun_signup_button "اخرج">
 
 <!ENTITY firstrun_tabqueue_title "الروابط">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "أنت">
 <!ENTITY firstrun_account_message "أتملك &brandShortName; على جهاز آخر؟">
-
-<!ENTITY firstrun_signup_button "اخرج">
 
 <!ENTITY  onboard_start_restricted1 "ابقَ في مأمن و أمسك بزمام الأمور بإصدارة &brandShortName; المبسّطة هذه.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "تتصل ب‍">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "مرحبًا بك مع &brandShortName;">
 <!ENTITY activity_stream_signin_description "اشرع الآن بمزامنة العلامات وكلمات السر وغيرها الكثير عبر حساب فَيَرفُكس.">
-<!ENTITY activity_stream_signin_button "لِج">
-
 <!ENTITY activity_stream_signup_button "اخرج">
 <!ENTITY activity_stream_signin_prompt "ألديك حساب أساسا؟">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "لِج.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "متصفّحك Firefox الجديد، قريبًا في 2020">
+<!ENTITY activity_stream_firefox_promo_description "قريبًا: أداء أفضل وحماية من التعقّب محسّنة، وغيرها من الميزات المصمّمة خصيصًا لك لتجد ما تحبّه في بحر الإنترنت، وتحفظه وتشاركه مع من تريد.">
+<!ENTITY activity_stream_firefox_promo_button "ألقِ نظرة سريعة">
 
 <!ENTITY activity_stream_topsites "المواقع الأكثر زيارة">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
