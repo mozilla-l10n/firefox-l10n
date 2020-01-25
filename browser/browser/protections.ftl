@@ -43,10 +43,13 @@ graph-legend-description = Осы аптада бұғатталған треке
 social-tab-title = Әлеуметтік желілер трекерлері
 social-tab-contant = Әлеуметтік желілер басқа веб-сайттарға сіз желіде не жасайтынын, қарайтынын және көретінін бақылау үшін трекерлерді орнатады. Бұл әлеуметтік желі компанияларына сіз әлеуметтік желі профилінде қалдырған ақпараттан бөлек сіз туралы көбірек білуге мүмкін етеді. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 cookie-tab-title = Сайтаралық бақылайтын cookie файлдары
+cookie-tab-content = Бұл cookie файлдары Интернетте не істегеніңіз туралы мәліметтер жинау үшін сайттан сайтқа соңыңыздан еріп жүреді. Оларды жарнама берушілер мен аналитикалық компаниялар сияқты үшінші тараптар орнатады. Сайтаралық бақылайтын cookie файлдарын бұғаттау сіздің айналаңыздағы жарнама санын азайтады. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 tracker-tab-title = Бақылайтын құрама
 tracker-tab-description = Веб-сайттар бақылау кодымен сыртқы жарнама, видео және басқа құраманы жүктей алады. Бақылайтын құраманы бұғаттау сайттардың жылдамдау жүктелуіне көмектеседі, бірақ, кейбір батырмалар, формалар және кіру өрістері жасамауы мүмкін. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 fingerprinter-tab-title = Цифрлық баспаны жинаушылар
+fingerprinter-tab-content = Цифрлық баспаны жинаушылар сіздің профиліңізді жасау үшін браузер мен компьютерден параметрлерді жинайды. Бұл цифрлық саусақ ізін қолдана отырып, олар сізді әртүрлі веб-сайттар бойынша қадағалай алады. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 cryptominer-tab-title = Криптомайнерлер
+cryptominer-tab-content = Криптомайнерлер жүйеңіздің есептеу қуатын цифрлық валютаны алу үшін қолданады. Криптомайнерлік скрипттер батареяны отырғызып, компьютерді тежейді және қуат шығындарын көбейтеді. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 lockwise-title = Парольдерді енді ешқашан ұмытпаңыз
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } парольдеріңізді браузерде қауіпсіз түрде сақтайды.
@@ -73,6 +76,9 @@ lockwise-connected-device-status =
     }
 monitor-title = Деректердің ұрлануын бақылау
 monitor-link = Бұл қалай жұмыс істейді
+monitor-header-content-no-account = Белгілі бір деректердің бұзылуына қатысқаныңызды және жаңа бұзушылықтар туралы ескертулер алу үшін { -monitor-brand-name } тексеріңіз.
+monitor-header-content-signed-in = { -monitor-brand-name } сіздің ақпаратыңыз белгілі деректерді бұзуда табылса, сізге ескертеді.
+monitor-sign-up = Бұзушылық туралы ескертулерге жазылу
 auto-scan = Бүгін автоматты түрде сканерленді
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -80,6 +86,13 @@ auto-scan = Бүгін автоматты түрде сканерленді
 info-monitored-emails =
     { $count ->
        *[other] Бақыланатын эл. пошта адрестері
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+       *[other] Белгілі деректерді бұзудан сіздің ақпаратыңыз табылды
     }
 full-report-link = Толық есептемені <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> жерінен қараңыз
 
