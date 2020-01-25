@@ -9,6 +9,7 @@ forward = Алға
 reload = Қайта жүктеу
 home = Үй
 fullscreen = Толық экран
+touchbar-fullscreen-exit = Толық экраннан шығу
 find = Табу
 new-tab = Жаңа бет
 add-bookmark = Бетбелгіні қосу
@@ -33,5 +34,5 @@ search-opentabs = Ашық беттер
 search-tags = Тегтер
 search-titles = Тақырыптар
 
-
+##
 
