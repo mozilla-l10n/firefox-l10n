@@ -52,3 +52,4 @@ inactive-css-not-inline-or-tablecell-fix = Pabandykite pridėti <strong>display:
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Pabandykite pridėti <strong>display:inline-block</strong> arba <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pabandykite pridėti <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Pabandykite nuimti <strong>float</strong> arba pridėti <strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Pabandykite nustatyti jo <strong>position</strong> savybės reikšmę į kitą negu <strong>static</strong>. { learn-more }
