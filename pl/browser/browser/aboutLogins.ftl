@@ -47,6 +47,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortuj wg:
 login-list-name-option = Nazwa (A-Z)
+login-list-name-reverse-option = Nazwa (Z-A)
 login-list-breached-option = Witryny z wyciekami haseł
 login-list-last-changed-option = Ostatnia modyfikacja
 login-list-last-used-option = Ostatnie użycie
@@ -74,7 +75,6 @@ about-logins-intro-import = Jeśli dane logowania są zachowane w innej przegl�
 
 login-item-new-login-title = Nowe dane logowania
 login-item-edit-button = Edytuj
-login-item-delete-button = Usuń
 about-logins-login-item-remove-button = Usuń
 login-item-origin-label = Adres witryny
 login-item-origin =
@@ -121,7 +121,6 @@ enable-password-sync-preferences-button =
            *[other] Otwórz preferencje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
         }
     .accesskey = O
-confirm-delete-dialog-title = Usunąć te dane logowania?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Nie pytaj ponownie
     .accesskey = N
@@ -133,7 +132,6 @@ confirmation-dialog-dismiss-button =
     .title = Anuluj
 about-logins-confirm-remove-dialog-title = Usunąć te dane logowania?
 confirm-delete-dialog-message = Tej czynności nie można cofnąć.
-confirm-delete-dialog-confirm-button = Usuń
 about-logins-confirm-remove-dialog-confirm-button = Usuń
 confirm-discard-changes-dialog-title = Odrzucić niezachowane zmiany?
 confirm-discard-changes-dialog-message = Wszystkie niezachowane zmiany zostaną utracone.

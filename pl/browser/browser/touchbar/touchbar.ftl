@@ -9,6 +9,7 @@ forward = Do przodu
 reload = Odśwież
 home = Strona startowa
 fullscreen = Pełny ekran
+touchbar-fullscreen-exit = Opuść tryb pełnoekranowy
 find = Znajdź
 new-tab = Nowa karta
 add-bookmark = Dodaj zakładkę
@@ -33,5 +34,5 @@ search-opentabs = otwartych kartach
 search-tags = etykietach
 search-titles = tytułach
 
-
+##
 
