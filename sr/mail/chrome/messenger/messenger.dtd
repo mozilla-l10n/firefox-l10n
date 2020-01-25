@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "К">
 <!ENTITY folderPaneBar.label "Трака са алаткама окна фасцикле">
 <!ENTITY folderPaneBar.accesskey "Ф">
-<!ENTITY folderModeSelector.label "Прегледи фасцикле">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Сортирај по">
@@ -606,7 +605,6 @@
 <!ENTITY compactButton.tooltip "Уклони обрисане поруке из изабране фасцикле">
 <!ENTITY appmenuButton1.tooltip "Прикажи мени &brandShortName;-а">
 
-
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Проследи као текст унутар друге поруке">
 <!ENTITY buttonMenuForwardAsAttachment.label "Проследи као прилог">
@@ -793,6 +791,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "П">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Скорашње">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "р">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Омиљено">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "О">
 <!ENTITY contextCopyMsgMenu.label "Копирај у">
 <!ENTITY contextCopyMsgMenu.accesskey "У">
 <!ENTITY contextKillThreadMenu.label "Занемари нит">
@@ -967,3 +967,5 @@
 <!ENTITY dockOptions.label              "Опције иконица програма…">
 <!ENTITY writeNewMessageDock.label      "Напишите нову поруку">
 <!ENTITY openAddressBookDock.label      "Отвори именик">
+
+<!-- Content tab Navigation buttons -->

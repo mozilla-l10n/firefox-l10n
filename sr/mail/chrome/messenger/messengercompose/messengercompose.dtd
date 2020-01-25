@@ -70,7 +70,7 @@
 <!ENTITY cutCmd.label "Исеци">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "с">
-<!ENTITY copyCmd.label "Ископирај">
+<!ENTITY copyCmd.label "Копирај">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "о">
 <!ENTITY pasteCmd.label "Налепи">
@@ -259,6 +259,8 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Шаље:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY fromAddr.accesskey "а">
 <!ENTITY toAddr.label "Прима:">
 <!ENTITY ccAddr.label "Коп:">
@@ -278,7 +280,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Површ за прилоге">
 <!ENTITY attachmentBucketCloseButton.tooltip "Сакриј површ за прилоге">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Убаците смајли">
 <!ENTITY smiley1Cmd.label "Смајли који се смешка">
 <!ENTITY smiley2Cmd.label "Намрштени смајли">
