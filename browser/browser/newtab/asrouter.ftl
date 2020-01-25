@@ -159,6 +159,8 @@ cfr-whatsnew-fingerprinter-counter-header =
         [many] مسجّلات البصمات المحجوبة
        *[other] مسجّلات البصمات المحجوبة
     }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = مسجّلات البصمات
 
 ## Bookmark Sync
 
