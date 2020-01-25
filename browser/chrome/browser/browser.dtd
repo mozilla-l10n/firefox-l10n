@@ -662,11 +662,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "다른 이름으로 오디오 저장…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "이미지 보내기…">
+<!ENTITY emailImageCmd.label          "메일로 이미지 보내기…">
 <!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "동영상 보내기…">
+<!ENTITY emailVideoCmd.label          "메일로 동영상 보내기…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "오디오 보내기…">
+<!ENTITY emailAudioCmd.label          "메일로 오디오 보내기…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "이 플러그인 활성화">
 <!ENTITY playPluginCmd.accesskey      "c">
