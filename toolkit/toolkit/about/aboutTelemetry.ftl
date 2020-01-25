@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = مصدر بيانات الطرْق:
 about-telemetry-show-current-ping-data = بيانات الطرْق الحالية
+about-telemetry-show-current-data = البيانات الحالية
 about-telemetry-show-archived-ping-data = بيانات الطرْق المحفوظة
 about-telemetry-show-subsession-data = اعرض بيانات الإرسال
 about-telemetry-choose-ping = اختر الطرْق:
@@ -87,6 +88,8 @@ about-telemetry-no-search-results-all = للأسف لا نتائج في أي م�
 about-telemetry-no-data-to-display = للأسف لا بيانات متاحة حاليا في ”{ $sectionName }“
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = الطرْق الحالي
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = البيانات الحالية
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = الكل
 # button label to copy the histogram

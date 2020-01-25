@@ -167,6 +167,10 @@ about-debugging-runtime-service-workers-not-compatible = إعدادات المت
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = اقطع الاتصال
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = وسّع/اطوِ
 
 # Debug Targets strings
 
