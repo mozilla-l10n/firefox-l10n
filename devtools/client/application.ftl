@@ -69,5 +69,61 @@ serviceworker-empty-suggestions-debugger = Service Worker тіркеуінен �
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Басқа домендерден Service Worker-ді бақылау. <a>about:debugging ашу</a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Қолданба манифесті
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Веб қолданбаны осында бақылау үшін, оған манифестті қосуыңыз керек. <a>Көбірек білу</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Қателер мен ескертулер
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Жеке мәліметтер
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Презентация
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Таңбашалар
+# Text displayed while we are loading the manifest file
+manifest-loading = Манифестті жүктеу…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Манифестті жүктелді.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Манифестті жүктеу кезінде қате орын алды:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools қатесі
+# Text displayed when the page has no manifest available
+manifest-non-existing = Бақылау үшін манифест табылмады.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Манифест Data URL ішіне ендірілген.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Мақсаты: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Таңбаша
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Өлшемдері бар таңбаша: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Өлшемі көрсетілмеген таңбаша
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Манифест
+    .alt = Манифест таңбашасы
+    .title = Манифест
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Service Workers таңбашасы
+    .title = Service Workers
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ескерту таңбашасы
+    .title = Ескерту
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Қате таңбашасы
+    .title = Қате
