@@ -9,6 +9,7 @@ forward = Doprědka
 reload = Znowa začitać
 home = Startowa strona
 fullscreen = Połna wobrazowka
+touchbar-fullscreen-exit = Połnu wobrazowku wopušćić
 find = Pytać
 new-tab = Nowy rajtark
 add-bookmark = Zapołožku přidać
@@ -33,5 +34,5 @@ search-opentabs = Wočinjene rajtarki
 search-tags = Znački
 search-titles = Titule
 
-
+##
 

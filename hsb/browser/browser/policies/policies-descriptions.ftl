@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Stronu přepisać, kotraž so při prěnim starće
 policy-OverridePostUpdatePage = Stronu Nowe funkcije a změny po aktualizaciji přepisać. Stajće tute prawidło na prózdne, jeli chceće tutu stronu znjemóžnić.
 policy-PasswordManagerEnabled = Składowanje hesłow do zrjadowaka hesłow zmóžnić.
 policy-Permissions = Prawa za kameru, mikrofon, stejnišćo a zdźělenki konfigurować.
+policy-Permissions2 = Prawa za kameru, mikrofon, adresu, zdźělenki a awtomatiske wothraće konfigurować.
 policy-PopupBlocking = Wěstym websydłam dowolić, wuskakowace wokna po standardźe pokazać.
 policy-Preferences = Hódnotu za podsadźbu nastajenjow stajić a zawrěć
 policy-PromptForDownloadLocation = Prašeć so, hdźež maja so dataje při sćehnjenju składować.
