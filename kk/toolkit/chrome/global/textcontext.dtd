@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Логинді толтыру">
 <!ENTITY fillLoginMenu.accesskey      "ы">
+<!ENTITY useGeneratedPassword.label   "Қауіпсіз генерацияланған парольді қолдану…">
+<!ENTITY useGeneratedPassword.accesskey "с">
 <!ENTITY fillPasswordMenu.label       "Парольді толтыру">
 <!ENTITY fillPasswordMenu.accesskey   "ы">
 <!ENTITY fillUsernameMenu.label       "Пайдаланушы атын толтыру">

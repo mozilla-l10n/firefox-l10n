@@ -99,9 +99,11 @@ detail-private-browsing-description2 = Рұқсат етілген кезде, �
 # cannot be overridden by the user.
 detail-private-disallowed-label = Жекелік шолу терезелерінде рұқсат етілмеген
 detail-private-disallowed-description = Бұл кеңейту жекелік шолу режимінде жасамайды. <label data-l10n-name="detail-private-browsing-learn-more">Көбірек білу</label>
+detail-private-disallowed-description2 = Бұл кеңейту жекелік шолу режимінде жасамайды. <a data-l10n-name="learn-more">Көбірек білу</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Жекелік терезелеріне қатынау рұқсатын талап етеді
 detail-private-required-description = Бұл кеңейту жекелік шолу кезінде сіздің желідегі әрекеттеріңізге қол жеткізе алады. <label data-l10n-name="detail-private-browsing-learn-more">Көбірек білу</label>
+detail-private-required-description2 = Бұл кеңейтудің жекелік шолу режимінде сіздің желідегі белсенділігіңізге қатынау рұқсаты бар. <a data-l10n-name="learn-more">Көбірек білу</a>
 detail-private-browsing-on =
     .label = Рұқсат ету
     .tooltiptext = Жекелік шолу режимінде іске қосу
@@ -279,6 +281,12 @@ shortcuts-modifier-other = Ctrl немесе Alt қосыңыз
 shortcuts-invalid = Комбинация жарамсыз
 shortcuts-letter = Әріпті теріңіз
 shortcuts-system = { -brand-short-name } жарлығын қайта анықтау мүмкін емес
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Жарлықты қосарлау
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } бірден көп жерде жарлық ретінде қолданылуда. Қосарланған жарлықтар күтпеген мінез-құлығына әкеп соғуы мүмкін.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -322,14 +330,24 @@ install-theme-button = Теманы орнату
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Басқару
 find-more-addons = Көбірек қосымшаларды табу
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Көбірек опциялар
 
 ## Add-on actions
 
 report-addon-button = Хабарлау
 remove-addon-button = Өшіру
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Өшіру мүмкін емес <a data-l10n-name="link">Неге?</a>
 disable-addon-button = Сөндіру
 enable-addon-button = Іске қосу
 expand-addon-button = Көбірек опциялар
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Іске қосу
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Баптаулар
@@ -391,6 +409,11 @@ install-update-button = Жаңарту
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Жекелік терезелерінде рұқсат етілген
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Жекелік терезелерінде рұқсат етілген
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Рұқсат етілген кезде, кеңейту жекелік шолу кезінде сіздің желілік белсенділігіңізге қол жеткізе алады. <a data-l10n-name="learn-more">Көбірек білу</a>
 addon-detail-private-browsing-allow = Рұқсат ету
 addon-detail-private-browsing-disallow = Рұқсат етпеу
@@ -399,6 +422,11 @@ addon-detail-private-browsing-disallow = Рұқсат етпеу
 addon-badge-recommended =
     .title = Ұсынылатын
     .alt = Ұсынылатын
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } тек біздің қауіпсіздік және өнімділік стандарттарына сай келетін кеңейтулерді ұсынады
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Қолжетерлік жаңартулар
 recent-updates-heading = Соңғы жаңартулар
 release-notes-loading = Жүктелуде…
@@ -417,10 +445,12 @@ theme-heading = Темаларды басқару
 plugin-heading = Плагиндерді басқару
 dictionary-heading = Сөздіктерді басқару
 locale-heading = Тілдерді басқару
+updates-heading = Жаңартуларды басқару
 discover-heading = Өз { -brand-short-name } жеке қылыңыз
 shortcuts-heading = Кеңейтудің пернетақта жарлықтарын басқару
 theme-heading-search-label = Көбірек темаларды табу
 extension-heading-search-label = Көбірек кеңейтулерді табу
+default-heading-search-label = Көбірек қосымшаларды табу
 addons-heading-search-input =
     .placeholder = addons.mozilla.org-ға іздеу
 addon-page-options-button =
