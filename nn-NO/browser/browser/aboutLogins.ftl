@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sorter etter:
 login-list-name-option = Namn (A-Å)
+login-list-name-reverse-option = Namn (Å-A)
 login-list-breached-option = Nettstadar med datalekkasjar
 login-list-last-changed-option = Sist endra
 login-list-last-used-option = Sist brukt
@@ -73,7 +74,6 @@ about-logins-intro-import = Dersom innloggingane dine er lagra i ein annen nettl
 
 login-item-new-login-title = Lag ny innlogging
 login-item-edit-button = Rediger
-login-item-delete-button = Slett
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettstadadresse
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Gå til { -sync-brand-short-name } innstillingar
         }
     .accesskey = G
-confirm-delete-dialog-title = Slette denne innlogginga?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ikkje spør igjen
     .accesskey = I
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Avbryt
 about-logins-confirm-remove-dialog-title = Fjerne denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
-confirm-delete-dialog-confirm-button = Slett
 about-logins-confirm-remove-dialog-confirm-button = Fjern
 confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
 confirm-discard-changes-dialog-message = Alle ikkje-lagra endringar vil gå tapt.
