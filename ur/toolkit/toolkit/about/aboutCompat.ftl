@@ -4,3 +4,6 @@
 
 label-disable = غیر فعال
 label-enable = فعال
+label-interventions = مداخلتیں
+text-no-interventions = کوئی مداخلت استعمال نہیں کیا جارہا ہے
+text-title = کے بارے میں: compat

@@ -669,10 +669,6 @@ privacy-header = براؤزر رازداری
 ## Privacy Section - Logins and Passwords
 
 logins-header = لاگ ان & پاس ورڈ
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = ویب سائٹس کیلئے لاگ ان اور پاس ورڈ کو محفوظ کرنے کے لئے پوچھیں
-    .accesskey = 
 forms-exceptions =
     .label = استثنیات…
     .accesskey = x
