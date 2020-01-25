@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = الامتدادات المقترحة
 cfr-doorhanger-feature-heading = ميّزة موصى بها
 cfr-doorhanger-pintab-heading = هيا جرّب: ثبّت اللسان
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = لماذا أرى هذا
@@ -137,7 +137,7 @@ cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = شاهِد الڤِديوهات بينما تتصفّح
-cfr-whatsnew-pip-body = في وضع الصورة داخل الصورة، يصير الڤديو داخل نافذة تكون أعلى كلّ شيء لتُطالعه وأنت تؤدّي أشغالك في الألسنة الأخرى.
+cfr-whatsnew-pip-body = في وضع الڤديوهات المعترِضة (Picture-in-picture)، يصير الڤديو داخل نافذة تكون أعلى كلّ شيء لتُطالعه وأنت تؤدّي أشغالك في الألسنة الأخرى.
 cfr-whatsnew-pip-cta = اطّلع على المزيد
 
 ## Permission Prompt
