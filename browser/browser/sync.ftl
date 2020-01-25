@@ -7,4 +7,7 @@ fxa-toolbar-sync-syncing =
 fxa-toolbar-sync-syncing-tabs =
     .label = Беттерді синхрондау…
 sync-disconnect-dialog-title = { -sync-brand-short-name } байланысын үзу керек пе?
+sync-disconnect-dialog-body = { -brand-product-name } тіркелгіңізді синхрондауды тоқтатады, бірақ, бұл құрылғыда шолу тарихын өшірмейді.
+fxa-disconnect-dialog-title = { -brand-product-name } байланысын үзу керек пе?
+fxa-disconnect-dialog-body = { -brand-product-name } тіркелгіңізбен байланысты үзеді, бірақ, бұл құрылғыда шолу тарихын өшірмейді.
 sync-disconnect-dialog-button = Байланысты үзу

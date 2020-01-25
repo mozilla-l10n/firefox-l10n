@@ -9,12 +9,14 @@ ok = ОК
 http = HTTP
 sockets = Сокеттер
 dns = DNS
+dnssuffix = DNS жұрнағы
 websockets = WebSockets
 refresh = Жаңарту
 auto-refresh = Әр 3 секунд сайын жаңарту
 hostname = Хост аты
 port = Порт
 http2 = HTTP/2
+about-networking-http-version = HTTP нұсқасы
 ssl = SSL
 active = Белсенді
 idle = Іссіз
@@ -57,3 +59,13 @@ rcwn-avg-long = Ұзақ орташа мәні
 rcwn-std-dev-long = Ұзақ стандартты ауытқу
 rcwn-cache-slow = Кэшке баяу қатынаудың саны
 rcwn-cache-not-slow = Кэшке баяу емес қатынаудың саны
+networkid = Желі идентификаторы
+networkid-id = Желі идентификаторы
+
+## Link is intended as "network link"
+
+networkid-isUp = Байланыс орнатылды
+networkid-statusKnown = Байланыс қалып-күйі белгісіз
+
+##
+

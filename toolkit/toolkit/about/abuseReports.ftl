@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = { $addon-name } үшін есептеме жасау
 abuse-report-title-extension = Бұл кеңейту туралы { -vendor-short-name } адресіне шағым жасау
 abuse-report-title-theme = Бұл тема туралы { -vendor-short-name } адресіне шағым жасау
 abuse-report-subtitle = Мәселе қандай?
@@ -50,17 +57,23 @@ abuse-report-messagebar-action-cancel = Бас тарту
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Компьютер мен деректерімді зақымдайды
+abuse-report-damage-reason-v2 = Ол менің компьютерімді зақымдады немесе деректерімді ұрлады
 abuse-report-damage-example = Мысалы: Зиянкес БҚ орнату немесе деректерді ұрлау
 abuse-report-spam-reason = Спам немесе жарнаманы жасау
+abuse-report-spam-reason-v2 = Оның құрамында спам бар немесе қаламаған жарнаманы кірістіреді
 abuse-report-spam-example = Мысалы: Веб-парақтарда жарнаманы кірістіреді
 abuse-report-settings-reason = Менің іздеу жүйесін, үй парағын немесе жаңа бетті маған хабарламай немесе сұрамай өзгертуі
+abuse-report-settings-reason-v2 = Ол менің іздеу жүйесін, үй парағын немесе жаңа бетті маған хабарламай немесе сұрамай өзгертті
 abuse-report-settings-suggestions = Кеңетуге шағым жіберу алдында, баптауларыңызды өзгертіп көруіңізге болады:
 abuse-report-settings-suggestions-search = Бастапқы іздеу баптауларын өзгерту
 abuse-report-settings-suggestions-homepage = Үй парағын және жаңа бетті өзгерту
 abuse-report-deceptive-reason = Өзі болмай тұрған нәрсемін деп хабарлайды
+abuse-report-deceptive-reason-v2 = Өз-өзін болмай тұрған нәрсе ретінде көрсетеді
 abuse-report-deceptive-example = Мысалы: Алдамшы сипаттама немесе сурет
 abuse-report-broken-reason-extension = Жұмыс жасамайды, веб-сайттарды бұзады, немесе { -brand-product-name } жұмысын баяулатады
 abuse-report-broken-reason-theme = Жұмыс жасамайды немесе браузер жұмысын бұзады
+abuse-report-broken-reason-extension-v2 = Ол жұмыс істемейді, веб-сайттарды сындырады немесе { -brand-product-name } жұмысын тежейді
+abuse-report-broken-reason-theme-v2 = Ол жұмыс жасамайды немесе браузер жұмысын бұзады
 abuse-report-broken-example = Мысалы: Мүмкіндіктері баяу, қолдануға қиын, немесе тіпті жасмайды; веб-сайттар бөліктері жүктелмейді немесе сыртқы түрлері әдеттен тыс түрде
 abuse-report-broken-suggestions-extension =
     Ақаулықты тапқан сияқтысыз. Осында шағымды жіберуге қоса, мүмкіндік мәселесін
@@ -71,9 +84,11 @@ abuse-report-broken-suggestions-theme =
     шешудің тиімді жолы - теманың әзірлеушісіне хабарласу.
     Әзірлеуші ақпаратын алу үшін, <a data-l10n-name="support-link">теманың веб-сайтын шолыңыз</a>.
 abuse-report-policy-reason = Заңсыз, мейірімсіз немесе жек көрушілікті туғызатын мазмұн
+abuse-report-policy-reason-v2 = Оның құрамында жеккөрушілік, зорлық-зомбылық немесе заңсыз мазмұн бар
 abuse-report-policy-suggestions =
     Ескерту: Авторлық құқықтар және сауда белгілерін бұзу мәселелері бөлек жіберілуі тиіс.
     Мәселені хабарлау үшін, <a data-l10n-name="report-infringement-link"> мына нұсқаманы қолданыңыз</a>.
 abuse-report-unwanted-reason = Бұл кеңейтуді ешқашан орнатпадым және өшіре алмаймын
+abuse-report-unwanted-reason-v2 = Мен оны ешқашан қаламадым және одан қалай құтылуды білмеймін
 abuse-report-unwanted-example = Мысалы: Оны қандай да бір қолданба менің рұқсатымсыз орнатты
 abuse-report-other-reason = Басқа нәрсе
