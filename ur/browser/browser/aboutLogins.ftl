@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = کے مطابق چھانٹیں:
 login-list-name-option = نام (A-Z)
+login-list-name-reverse-option = نام  (Z-A)
 login-list-breached-option = خلاف ورزی کرنے والی ویب سائٹیں
 login-list-last-changed-option = آخری بار ترمیم کردہ
 login-list-last-used-option = آخری استعمال
