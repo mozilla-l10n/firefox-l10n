@@ -9,6 +9,7 @@ forward = Pirmyn
 reload = Įkelti iš naujo
 home = Pradžia
 fullscreen = Visas ekranas
+touchbar-fullscreen-exit = Grįžti iš viso ekrano
 find = Ieškoti
 new-tab = Nauja kortelė
 add-bookmark = Įtraukti adresą
@@ -33,5 +34,5 @@ search-opentabs = atvertose kortelėse
 search-tags = gairėse
 search-titles = pavadinimuose
 
-
+##
 

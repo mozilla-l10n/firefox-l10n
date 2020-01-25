@@ -133,6 +133,10 @@ newtab-label-removed-bookmark = Adresyno įrašas pašalintas
 newtab-label-recommended = Populiaru
 newtab-label-saved = Įrašyta į „{ -pocket-brand-name }“
 newtab-label-download = Atsiųsta
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Rėmėjas
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

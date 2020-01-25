@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Pakeisti pirmo paleidimo puslapį. Padarykite ši�
 policy-OverridePostUpdatePage = Pakeisti po atnaujinimų rodomą puslapį „Kas naujo“. Padarykite šią strategiją „blank“, norėdami išjungti po atnaujinimų rodomą puslapį.
 policy-PasswordManagerEnabled = Įjungti slaptažodžių įrašymą į slaptažodžių tvarkytuvę.
 policy-Permissions = Konfigūruoti kameros, mikrofono, buvimo vietos nustatymo ir pranešimų leidimus.
+policy-Permissions2 = Konfigūruoti kameros, mikrofono, buvimo vietos nustatymo, pranešimų ir automatinio grojimo leidimus.
 policy-PopupBlocking = Leisti kai kurioms svetainėms pagal numatymą rodyti iškylančiuosius langus.
 policy-Preferences = Nustatykite ir užfiksuokite nuostatų rinkinio reikšmę.
 policy-PromptForDownloadLocation = Klausti, kur įrašyti atsiunčiamus failus.
