@@ -125,6 +125,10 @@ newtab-label-removed-bookmark = 书签已移除
 newtab-label-recommended = 趋势
 newtab-label-saved = 已保存到 { -pocket-brand-name }
 newtab-label-download = 已下载
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · 赞助
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
