@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "أدِر الحساب…">
 <!ENTITY fxa.menu.syncSettings.label "إعدادات &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "أخفِ زر تفعيل/تعطيل الڤديوهات المعترِضة">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -198,7 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
-<!ENTITY pictureInPicture.label "صورة داخل صورة">
+<!ENTITY pictureInPicture.label "ڤديو معترِض">
 <!ENTITY pictureInPicture.accesskey "خ">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
