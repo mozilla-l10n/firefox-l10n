@@ -26,6 +26,10 @@ graph-total-tracker-summary =
         [many] حُجب <b>{ $count }</b> متعقبا منذ { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] حُجب <b>{ $count }</b> متعقب منذ { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = يحجب { -brand-short-name } المتعقّبات في النوافذ الخاصّة أيضًا، ولكنّه لا يسجّل ما حجبه وكم حجب.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = المُتعقّبات التي حجبها { -brand-short-name } هذا الأسبوع
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -47,6 +51,7 @@ graph-today = اليوم
 graph-legend-description = رسم بياني فيه إجمالي عدد المتعقّبات ونوعها التي حُجبت هذا الأسبوع.
 social-tab-title = متعقبات مواقع التواصل الاجتماعي
 cookie-tab-title = كعكات تتعقّبك بين المواقع
+tracker-tab-title = حجب المحتوى
 fingerprinter-tab-title = مسجّلات البصمات
 cryptominer-tab-title = المُعدّنات المعمّاة
 lockwise-title = بعد الآن، ”نسيت كلمة السر“ فعل ماض
@@ -58,19 +63,6 @@ protection-report-view-logins-button = اعرض جلسات الولوج
 lockwise-no-logins-content = نزّل تطبيق <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> لتأخذ معك كلمات السر أينما ذهبت.
 turn-on-sync = فعّل { -sync-brand-short-name }…
     .title = انتقل إلى تفضيلات المزامنة
-manage-devices = أدِر الأجهزة
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [zero] لست تزامن مع أي جهاز آخر
-        [one] تزامن الآن مع جهاز واحد آخر
-        [two] تزامن الآن مع جهازين آخرين
-        [few] تزامن الآن مع { $count } أجهزة أخرى
-        [many] تزامن الآن مع { $count } جهازا آخر
-       *[other] تزامن الآن مع { $count } جهاز آخر
-    }
-lockwise-sync-not-syncing-devices = لست تزامن مع أي جهاز آخر
 manage-connected-devices = أدِر الأجهزة…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.

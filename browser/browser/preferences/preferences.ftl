@@ -330,7 +330,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = محتوى إدارة الحقوق الرقمية (DRM)
 play-drm-content =
@@ -586,6 +586,9 @@ containers-header = الألسنة الحاوية
 containers-add-button =
     .label = أضف حاوية جديدة
     .accesskey = ح
+containers-new-tab-check =
+    .label = اختر حاويًا لكلّ لسان جديد
+    .accesskey = خ
 containers-preferences-button =
     .label = التفضيلات
 containers-remove-button =
@@ -922,7 +925,7 @@ enhanced-tracking-protection-setting-custom =
     .label = مخصّص
     .accesskey = خ
 
-
+##
 
 content-blocking-etp-standard-desc = يوازن بين الحماية والأداء. ستتحمّل الصفحات كالعادة.
 content-blocking-etp-strict-desc = حماية أقوى وأعتى، لكنها قد تعطب محتويات بعض المواقع أو المواقع نفسها.
