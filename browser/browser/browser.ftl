@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Avaa lisäosan asentamisen viestipaneeli
 urlbar-tip-help-icon =
     .title = Apua ongelmiin
+urlbar-search-tips-confirm = Selvä
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

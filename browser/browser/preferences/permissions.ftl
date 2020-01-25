@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = Estä uudet lupapyynnöt sijainnin käyttämiseksi
 permissions-site-location-disable-desc = Tämä estää kaikki yllä mainitsemattomat sivustot pyytämästä lupaa käyttää sijaintia. Sijainnin käytön estäminen voi rikkoa joitain sivuston ominaisuuksia.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Asetukset - Virtuaalitodellisuuden oikeudet
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
