@@ -9,6 +9,7 @@ forward = 下一頁
 reload = 重新載入
 home = 首頁
 fullscreen = 全螢幕
+touchbar-fullscreen-exit = 離開全螢幕模式
 find = 尋找
 new-tab = 開新分頁
 add-bookmark = 新增書籤
@@ -33,5 +34,5 @@ search-opentabs = 開啟的分頁
 search-tags = 標籤
 search-titles = 標題
 
-
+##
 
