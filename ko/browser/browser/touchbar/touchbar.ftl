@@ -9,6 +9,7 @@ forward = 앞으로
 reload = 새로고침
 home = 홈
 fullscreen = 전체화면
+touchbar-fullscreen-exit = 전체 화면 종료
 find = 찾기
 new-tab = 새 탭
 add-bookmark = 즐겨찾기 추가

@@ -111,7 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "전체 화면으로 표시">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "전체 화면 표시 해제">
+<!ENTITY exitFullScreenCmd.label "전체 화면 종료">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "전체 화면">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -135,7 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "닫기">
 <!ENTITY fullScreenAutohide.label "도구 모음 닫기">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "원래 화면으로 복구">
+<!ENTITY fullScreenExit.label "전체 화면 종료">
 <!ENTITY fullScreenExit.accesskey "F">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
@@ -194,8 +194,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "전체 화면 종료(Esc)">
-<!ENTITY exitDOMFullscreenMac.button "전체 화면 종료(esc)">
+<!ENTITY exitDOMFullscreen.button "전체 화면 종료 (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "전체 화면 종료 (esc)">
 <!ENTITY leaveDOMFullScreen.label "전체 화면 종료">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
