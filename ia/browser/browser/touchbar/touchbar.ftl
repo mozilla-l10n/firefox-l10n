@@ -9,6 +9,7 @@ forward = Avante
 reload = Recargar
 home = Initio
 fullscreen = Plen schermo
+touchbar-fullscreen-exit = Exir del plen schermo
 find = Trovar
 new-tab = Nove scheda
 add-bookmark = Adder marcapagina
@@ -33,5 +34,5 @@ search-opentabs = Schedas aperte
 search-tags = Etiquettas
 search-titles = Titulos
 
-
+##
 

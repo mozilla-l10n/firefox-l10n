@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Pausar
     .accesskey = P
 
-
+##
 
 main-context-menu-media-mute =
     .label = Silentiar
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Celar le controlos
     .accesskey = C
 
-
+##
 
 main-context-menu-media-video-fullscreen =
     .label = Plen schermo
@@ -235,6 +235,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Vider le imagine de fundo
     .accesskey = m
+main-context-menu-generate-new-password =
+    .label = Usar contrasigno generate…
+    .accesskey = g
 main-context-menu-keyword =
     .label = Adder un parola clave pro iste recerca…
     .accesskey = p

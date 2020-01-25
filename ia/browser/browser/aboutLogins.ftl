@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordinar per:
 login-list-name-option = Nomine (A-Z)
+login-list-name-reverse-option = Nomine (Z-A)
 login-list-breached-option = Sitos web violate
 login-list-last-changed-option = Ultime modification
 login-list-last-used-option = Ultime uso
@@ -73,7 +74,6 @@ about-logins-intro-import = Si tu credentiales es salvate in un altere navigator
 
 login-item-new-login-title = Crear nove credentiales
 login-item-edit-button = Modificar
-login-item-delete-button = Deler
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Adresse web
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Visita Preferentias de { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Deler iste credentiales?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Non plus demandar me isto
     .accesskey = N
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Cancellar
 about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
-confirm-delete-dialog-confirm-button = Deler
 about-logins-confirm-remove-dialog-confirm-button = Remover
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
 confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
