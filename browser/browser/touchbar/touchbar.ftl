@@ -9,6 +9,7 @@ forward = 前进
 reload = 刷新
 home = 主页
 fullscreen = 全屏
+touchbar-fullscreen-exit = 退出全屏
 find = 查找
 new-tab = 新标签页
 add-bookmark = 添加书签
@@ -33,5 +34,5 @@ search-opentabs = 打开的标签页
 search-tags = 标签
 search-titles = 标题
 
-
+##
 
