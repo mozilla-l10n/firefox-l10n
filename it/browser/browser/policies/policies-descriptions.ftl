@@ -67,6 +67,7 @@ policy-OverrideFirstRunPage = Sostituisci la pagina visualizzata alla prima esec
 policy-OverridePostUpdatePage = Sostituisci la pagina “Novità” visualizzata dopo un aggiornamento. Impostare questo criterio con un valore vuoto per disattivarne la visualizzazione.
 policy-PasswordManagerEnabled = Attiva il salvataggio delle password nel gestore password.
 policy-Permissions = Configura i permessi per fotocamera, microfono, posizione e notifiche.
+policy-Permissions2 = Configura i permessi per fotocamera, microfono, posizione, notifiche e riproduzione automatica.
 policy-PopupBlocking = Consenti ad alcuni siti web di visualizzare finestre pop-up per impostazione predefinita.
 policy-Preferences = Imposta un gruppo di preferenze e bloccane il valore.
 policy-PromptForDownloadLocation = Chiedi dove salvare i file scaricati.
