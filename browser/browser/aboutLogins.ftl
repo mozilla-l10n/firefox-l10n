@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Trier par :
 login-list-name-option = Nom (A-Z)
+login-list-name-reverse-option = Nom (Z-A)
 login-list-breached-option = Fuites de données de sites
 login-list-last-changed-option = Dernière modification
 login-list-last-used-option = Dernière utilisation
@@ -73,7 +74,6 @@ about-logins-intro-import = Si vos identifiants sont enregistrés dans un autre 
 
 login-item-new-login-title = Créer un nouvel identifiant
 login-item-edit-button = Modifier
-login-item-delete-button = Supprimer
 about-logins-login-item-remove-button = Supprimer
 login-item-origin-label = Adresse web
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Consulter les préférences de { -sync-brand-short-name }
         }
     .accesskey = C
-confirm-delete-dialog-title = Supprimer cet identifiant ?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ne plus me demander
     .accesskey = N
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Annuler
 about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
-confirm-delete-dialog-confirm-button = Supprimer
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
 confirm-discard-changes-dialog-title = Ignorer les modifications non enregistrées ?
 confirm-discard-changes-dialog-message = Toutes les modifications non enregistrées seront perdues.
