@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = מיון לפי:
 login-list-name-option = שם (A-Z)
+login-list-name-reverse-option = שם (Z-A)
 login-list-breached-option = אתרים פרוצים
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
@@ -70,7 +71,6 @@ about-logins-intro-import = אם הכניסות שלך שמורות בדפדפן
 
 login-item-new-login-title = יצירת כניסה חדשה
 login-item-edit-button = עריכה
-login-item-delete-button = מחיקה
 about-logins-login-item-remove-button = הסרה
 login-item-origin-label = כתובת אתר
 login-item-origin =
@@ -109,7 +109,6 @@ enable-password-sync-preferences-button =
            *[other] פתיחת העדפות { -sync-brand-short-name }
         }
     .accesskey = פ
-confirm-delete-dialog-title = האם למחוק כניסה זו?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = לא לשאול אותי שוב
     .accesskey = ל
@@ -121,7 +120,6 @@ confirmation-dialog-dismiss-button =
     .title = ביטול
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
-confirm-delete-dialog-confirm-button = מחיקה
 about-logins-confirm-remove-dialog-confirm-button = הסרה
 confirm-discard-changes-dialog-title = האם לבטל את השינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
