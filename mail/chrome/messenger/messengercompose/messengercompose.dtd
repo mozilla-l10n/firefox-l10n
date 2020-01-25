@@ -216,6 +216,7 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Otros tipos de campos de dirección">
 <!ENTITY fromAddr2.label "Remitente">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Para:">

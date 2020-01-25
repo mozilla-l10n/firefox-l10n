@@ -6,6 +6,8 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Fuente de: ">
+<!ENTITY editMenu.label "Editar">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY savePageCmd.label "Guardar página como…">
