@@ -179,6 +179,7 @@ cfr-doorhanger-socialtracking-close-button = بند کریں
 cfr-doorhanger-socialtracking-dont-show-again = مجھے دوبارہ اس طرح کے پیغامات نہ دکھائیں
     .accesskey = د
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } نے ایک سماجی نیٹ ورک کو یہاں آپ کی سراغ کاری کرنے سے روک دیا ہے
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name }  نے اس صفحے پر ایک فنگرپرنٹر کو مسدود کردیا
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } نے اس صفحے پر ایک کرپٹوماٴینر کو مسدود کردیا
 
 ## Enhanced Tracking Protection Milestones

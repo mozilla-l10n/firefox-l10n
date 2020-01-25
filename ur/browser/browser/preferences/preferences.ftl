@@ -669,6 +669,10 @@ privacy-header = براؤزر رازداری
 ## Privacy Section - Logins and Passwords
 
 logins-header = لاگ ان & پاس ورڈ
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = ویب سائٹس کیلئے لاگ ان اور پاس ورڈ کو محفوظ کرنے کے لئے پوچھیں
+    .accesskey = 
 forms-exceptions =
     .label = استثنیات…
     .accesskey = x
@@ -721,6 +725,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = کوکیاں اور سائٹ کے کواِئف
+sitedata-total-size-calculating = سائٹ کے ڈیٹا اور کیشے کے ماپ کا حساب لگا رہے ہیں…
 sitedata-learn-more = مزید سیکھیں
 sitedata-allow-cookies-option =
     .label = کوکیز اور سائٹ کا ڈیٹا قبول کریں

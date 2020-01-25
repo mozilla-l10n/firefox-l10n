@@ -260,6 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "براؤزر ریموٹ کنٹرول کے تحت ہے">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ویب توثیق پینل کھولیں">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "براؤزنگ سرگرمی کی اجازت والا پینل کھولیں">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "کیمرہ اور مائیکروفون کی سائٹ کے ساتھ حصہ داری کو بندوبست کریں">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "مائیکروفون کی سائٹ کہ ساتھ حصہ داری کو بندوبست کریں">
@@ -444,6 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "آپ کے اکائونٹ کو توژیکاری کی ظرورت ہے۔">
 <!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label;… میں سائن ان کریں">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label;… چالو کریں">
 <!ENTITY appMenuRemoteTabs.managedevices.label "آلات کو بندرست کریں…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ہمہ وقت ساز ٹیبس کے بغلی بار کا نظارہ کریں">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "اہک اور آلہ جوڑیں">
