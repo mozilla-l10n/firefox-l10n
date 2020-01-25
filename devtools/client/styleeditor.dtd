@@ -21,7 +21,7 @@
 
 <!ENTITY visibilityToggle.tooltip   "스타일 시트 적용 내용 보기">
 
-<!ENTITY saveButton.label           "저장하기">
+<!ENTITY saveButton.label           "저장">
 <!ENTITY saveButton.tooltip         "스타일 시트를 파일로 저장">
 <!ENTITY saveButton.accesskey       "S">
 
