@@ -21,20 +21,16 @@
 <!ENTITY firstrun_data_message "Азырақ деректер, көбірек үнемдеу">
 <!ENTITY firstrun_data_subtext2 "Әр қаралатын сайтта азырақ деректерді қолдану үшін суреттерді сөндіріңіз.">
 <!ENTITY firstrun_sync_title "Синхрондау">
-<!ENTITY updatednewfirstrun_sync_title "Тіркелгі">
-<!ENTITY firstrun_sync_message2 "Жұмысты қалдырған жерінен жалғастырыңыз.">
+<!ENTITY firstrun_sync_message3 "Бетбелгілер, шолу тарихы және парольдерді телефоныңызға синхрондаңыз.">
 <!ENTITY firstrun_sync_subtext2 "Синхрондау көмегімен сіз барлық құрылғыларыңызда &brandShortName; ішінде сақтаған бетбелгілер, парольдер және т.б. нәрселерді табуға болады.">
 <!ENTITY newfirstrun_sync_subtext "Мобильді құрылғыда сақталған нәрселерді жұмыс үстелі Firefox-қа синхрондаңыз, жеке және қауіпсіз түрде.">
 <!ENTITY firstrun_sendtab_title "Бетті жіберу">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; толығырақ қолдану үшін тіркелгіңізге кіріңіз">
+<!ENTITY firstrun_sendtab_message "Беттермен мобильді құрылғыдан жұмыс үстеліне — лезде бөлісіңіз.">
 <!ENTITY firstrun_signin_message "Байланысыңыз, бастаңыз">
-<!ENTITY firstrun_signin_button "Синхрондау ішіне кіру">
-<!ENTITY newfirstrun_signin_button "Синхрондауды іске қосу">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; ішіне кіріңіз">
-<!ENTITY  onboard_start_button_browser "Шолуды бастау">
+<!ENTITY onboard_start_button_browser "Шолуды бастау">
 <!ENTITY firstrun_button_notnow "Қазір емес">
 <!ENTITY firstrun_button_next "Келесі">
-
+<!ENTITY firstrun_signup_button "Тіркелгіні жасау">
 
 <!ENTITY firstrun_tabqueue_title "Сiлтемелер">
 
@@ -497,6 +493,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Бөлісу">
 <!ENTITY share_title "Арқылы бөлісу">
 <!ENTITY share_image_failed "Бұл суретпен бөлісу сәтсіз аяқталды">
+<!ENTITY share_error_toast_message "Көрсетілген қолданбамен бөлісу мүмкін емес">
 <!ENTITY save_as_pdf "PDF ретінде сақтау">
 <!ENTITY print "Баспаға шығару">
 <!ENTITY view_page_source "Парақтың бастапқы кодын қарау">
@@ -877,10 +874,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Оқу тізімінің нәрселерін желіден тыс оқу үшін бетбелгілерге қосыңыз.">
 <!ENTITY helper_triple_readerview_open_button "Бетбелгілерге қосу">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "&brandShortName; өніміне қош келдіңіз">
+<!ENTITY activity_stream_signin_description "Firefox тіркелгісімен бетбелгілер, парольдер және т.б. синхрондауды бастаңыз.">
+<!ENTITY activity_stream_signup_button "Тіркелгіні жасау">
+<!ENTITY activity_stream_signin_prompt "Тіркелгіңіз бар ма?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Кіру.">
 
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Сіздің су жаңа Firefox браузеріңіз, 2020 жылы күтілуде">
+<!ENTITY activity_stream_firefox_promo_description "Жақында: Жақсартылған өнімділік. Бақылауды жақсартылған қорғаныс. Интернетте өзіңізге ұнайтын нәрсені табуға, сақтауға және бөлісуге көмектесетін функциялар.">
+<!ENTITY activity_stream_firefox_promo_button "Танысу">
 
 <!ENTITY activity_stream_topsites "Үздік сайттар">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
