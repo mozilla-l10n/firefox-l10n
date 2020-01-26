@@ -10,6 +10,7 @@ screenshots-save-visible-button = Guardar visible
 screenshots-save-page-button = Guardar página completa
 screenshots-download-button = Descargar
 screenshots-download-button-tooltip = Descargar captura de pantalla
+screenshots-copy-button = Copiar
 screenshots-copy-button-tooltip = Copiar la captura de pantalla al portapapeles
 screenshots-meta-key =
     { PLATFORM() ->
@@ -18,6 +19,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Enlace copiado
 screenshots-notification-link-copied-details = Se ha copiado el enlace a la captura en el portapapeles. Pulsa { screenshots-meta-key }-V para pegar.
+screenshots-notification-image-copied-title = Captura copiada
+screenshots-notification-image-copied-details = Tu captura ha ido copiada al portapapeles. Presiona { screenshots-meta-key }-V para pegar.
 screenshots-request-error-title = No funciona.
 screenshots-request-error-details = ¡Lo sentimos! No hemos podido guardar tu captura. Inténtalo más tarde.
 screenshots-connection-error-title = No podemos acceder a tus capturas de pantalla.
