@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) innhold
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Innholdsfaner
 containers-add-button =
     .label = Legg til ny beholder
     .accesskey = L
+containers-new-tab-check =
+    .label = Velg en beholder for hver ny fane
+    .accesskey = V
 containers-preferences-button =
     .label = Innstillinger
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tilpasset
     .accesskey = T
 
-
+##
 
 content-blocking-etp-standard-desc = Balansert for beskyttelse og ytelse. Sider lastes normalt.
 content-blocking-etp-strict-desc = Sterkere beskyttelse, men kan føre til at noen nettsteder eller innhold ikke vil fungere.
