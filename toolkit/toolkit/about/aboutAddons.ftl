@@ -148,9 +148,9 @@ disabled-unsigned-description = 다음 부가기능은 { -brand-short-name }에�
 disabled-unsigned-learn-more = 사용자가 온라인에서 안전할 수 있게 노력하는 내용에 대해서 더 알아보세요.
 disabled-unsigned-devinfo = 부가기능을 확인하는데 관심이 있는 개발자는 <label data-l10n-name="learn-more">메뉴얼</label>을 읽어보세요.
 plugin-deprecation-description = 빠진게 있나요? 어떤 플러그인은 { -brand-short-name }에서 더이상 지원하지 않습니다. <label data-l10n-name="learn-more">더 알아보기.</label>
-legacy-warning-show-legacy = 오래된 확장 기능 보기
+legacy-warning-show-legacy = 레거시 확장 기능 보기
 legacy-extensions =
-    .value = 오래된 확장 기능
+    .value = 레거시 확장 기능
 legacy-extensions-description = 이 확장 기능들은 현재 { -brand-short-name } 표준에 맞지 않으므로 비활성화되었습니다. <label data-l10n-name="legacy-learn-more">부가 기능의 변경 내용 알아보기</label>
 private-browsing-description2 =
     { -brand-short-name }가 사생활 보호 모드에서 확장 기능이 작동하는 방식을 바꾸고 있습니다.
