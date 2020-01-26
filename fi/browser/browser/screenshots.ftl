@@ -9,7 +9,9 @@ screenshots-cancel-button = Peruuta
 screenshots-save-visible-button = Tallenna näkyvä alue
 screenshots-save-page-button = Tallenna koko sivu
 screenshots-download-button = Lataa
+screenshots-download-button-tooltip = Lataa kuvakaappaus
 screenshots-copy-button = Kopioi
+screenshots-copy-button-tooltip = Kopioi kuvakaappaus leikepöydälle
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
