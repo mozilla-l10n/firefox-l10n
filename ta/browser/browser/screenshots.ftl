@@ -16,6 +16,7 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = தொடுப்பு நகலெடுக்கப்பட்டது
 screenshots-notification-link-copied-details = நீங்கள் எடுத்த திரைப்பிடிப்பிற்கான தொடுப்பு ஒட்டுபலகைக்கு நகலெடுக்கப்பட்டது. ஒட்ட { screenshots-meta-key } விசையை அழுத்தவும்.
+screenshots-notification-image-copied-details = நீங்கள் எடுத்த திரைப்பிடிப்பிற்கான தொடுப்பு ஒட்டுபலகைக்கு நகலெடுக்கப்பட்டது. ஒட்ட { screenshots-meta-key }-V விசையை அழுத்தவும்.
 screenshots-request-error-title = சேவை இணைப்பில் இல்லை.
 screenshots-request-error-details = மன்னிக்க! உங்களின் திரைப்பிடிப்பைச் சேமிக்க முடியவில்லை. மீண்டும் முயற்சிக்கவும்.
 screenshots-connection-error-title = உங்களின் திரைப்பிடிப்பு சேவையகத்தை அணுக முடியவில்லை.
