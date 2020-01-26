@@ -9,11 +9,18 @@ screenshots-cancel-button = გაუქმება
 screenshots-save-visible-button = ხილული ნაწილის შენახვა
 screenshots-save-page-button = მთლიანი გვერდის შენახვა
 screenshots-download-button = ჩამოტვირთვა
+screenshots-download-button-tooltip = ეკრანის სურათის ჩამოტვირთვა
+screenshots-copy-button = ასლი
+screenshots-copy-button-tooltip = სურათის ასლის აღება
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
+screenshots-notification-link-copied-title = ბმულის ასლი აღებულია
+screenshots-notification-link-copied-details = თქვენი სურათის ბმულის ასლი მზადაა. ჩასმისთვის დააწექით { screenshots-meta-key }-V.
+screenshots-notification-image-copied-title = სურათის ასლი მზადაა
+screenshots-notification-image-copied-details = თქვენი სურათის ასლი მზადაა. ჩასმისთვის დააწექით { screenshots-meta-key }-V.
 screenshots-request-error-title = გაფუჭებულია.
 screenshots-request-error-details = ვწუხვარ! გადაღებული სურათის შენახვა ვერ ხერხდება. მოგვიანებით სცადეთ.
 screenshots-connection-error-title = თქვენს გადაღებულ სურათებთან კავშირი ვერ ხერხდება.
