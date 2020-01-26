@@ -24,6 +24,7 @@ screenshots-login-error-details = Нам не вдалося зберегти в
 screenshots-unshootable-page-error-title = Ми не можемо зробити знімок цієї сторінки.
 screenshots-unshootable-page-error-details = Це не стандартна веб-сторінка, тому ви не можете зробити її знімок.
 screenshots-self-screenshot-error-title = Ви не можете зробити знімок сторінки { -screenshots-brand-name }!
+screenshots-empty-selection-error-title = Обрана область є замалою
 screenshots-private-window-error-title = Знімки екрану вимкнено в приватному перегляді
 screenshots-private-window-error-details = Вибачте за незручності. Ми працюємо над цією функцією для майбутніх випусків.
 screenshots-generic-error-title = Оу! З { -screenshots-brand-name } щось негаразд.
