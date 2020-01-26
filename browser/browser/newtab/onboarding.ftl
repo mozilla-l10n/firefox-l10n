@@ -19,6 +19,7 @@ onboarding-button-label-get-started = Per començar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
+onboarding-welcome-modal-supercharge-body = Maximalizatz vòstra proteccion privada.
 onboarding-welcome-form-header = Començatz aquí
 onboarding-join-form-email =
     .placeholder = Picatz una adreça electronica
