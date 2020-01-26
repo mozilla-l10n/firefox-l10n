@@ -9,7 +9,9 @@ screenshots-cancel-button = Heja
 screenshots-save-visible-button = Ñongatu hechapy
 screenshots-save-page-button = Kuatiarogue tuichavéva ñongatu
 screenshots-download-button = Mboguejy
+screenshots-download-button-tooltip = Emboguejy mba’erechaha japyhypyre
 screenshots-copy-button = Monguatia
+screenshots-copy-button-tooltip = Embohasa mba’erechaha japyhypyre kuatiajokohápe
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
