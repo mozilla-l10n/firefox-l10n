@@ -961,7 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "동기화하기">
+<!ENTITY syncSyncNowItem.label        "지금 동기화">
 <!ENTITY syncSyncNowItemSyncing.label "동기화 중…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;에 다시 연결…">
