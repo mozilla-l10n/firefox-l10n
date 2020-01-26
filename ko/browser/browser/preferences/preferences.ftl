@@ -677,7 +677,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = 열린 탭
-    .tooltiptext = 모든 동기화된 장치에서 열린 항목의 목록
+    .tooltiptext = 모든 동기화된 기기에서 열린 탭의 목록
     .accesskey = T
 sync-engine-logins =
     .label = 로그인
@@ -697,7 +697,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = 부가 기능
-    .tooltiptext = 데스크톱용 Firefox를 위한 확장 프로그램과 테마
+    .tooltiptext = Firefox 데스크톱 용 확장 기능 및 테마
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -705,7 +705,7 @@ sync-engine-prefs =
             [windows] 설정
            *[other] 환경 설정
         }
-    .tooltiptext = 변경된 일반, 개인 정보 및 보안 설정
+    .tooltiptext = 사용자가 변경한 일반, 개인 정보 및 보안 설정
     .accesskey = S
 
 ## The device name controls.
