@@ -31,5 +31,6 @@ screenshots-unshootable-page-error-details = To ni običajna spletna stran, zato
 screenshots-self-screenshot-error-title = Posnetka strani { -screenshots-brand-name } ni mogoče zajeti!
 screenshots-empty-selection-error-title = Vaš izbor je premajhen
 screenshots-private-window-error-title = { -screenshots-brand-name } je onemogočen v zasebnem načinu brskanja
+screenshots-private-window-error-details = Oprostite za nevšečnost. To možnost izboljšujemo za prihodnje izdaje.
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se je pokvaril.
 screenshots-generic-error-details = Ne vemo točno, kaj se je pravkar zgodilo. Bi radi poskusili znova ali pa zajeli posnetek kakšne druge strani?
