@@ -9,7 +9,9 @@ screenshots-cancel-button = Batal
 screenshots-save-visible-button = Simpan yang terlihat
 screenshots-save-page-button = Simpan laman sepenuhnya
 screenshots-download-button = Unduh
+screenshots-download-button-tooltip = Unduh tangkapan layar
 screenshots-copy-button = Salin
+screenshots-copy-button-tooltip = Salin tangkapan layar ke papan klip
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
