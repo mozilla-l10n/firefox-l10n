@@ -9,7 +9,9 @@ screenshots-cancel-button = Tiq'at
 screenshots-save-visible-button = Tiyak wachel
 screenshots-save-page-button = Tiyak chijun ruxaq
 screenshots-download-button = Tiqasäx
+screenshots-download-button-tooltip = Tiqasäx chapoj wachib'äl
 screenshots-copy-button = Tiwachib'ëx
+screenshots-copy-button-tooltip = Tiwachib'ëx ri chapoj wachib'äl pa molwuj
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
