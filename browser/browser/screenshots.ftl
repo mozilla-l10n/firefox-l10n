@@ -16,7 +16,9 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = 链接已复制
+screenshots-notification-link-copied-details = 已将您的截图的链接复制到剪贴板。按 { screenshots-meta-key }-V 即可粘贴。
 screenshots-notification-image-copied-title = 截图已复制
+screenshots-notification-image-copied-details = 已将您的截图复制到剪贴板。按 { screenshots-meta-key }-V 即可粘贴。
 screenshots-request-error-title = 出故障了。
 screenshots-request-error-details = 很抱歉，我们无法为您保存截图。请稍后再试。
 screenshots-connection-error-title = 我们无法连接到您的截图。
