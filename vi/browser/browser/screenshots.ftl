@@ -4,6 +4,7 @@
 
 screenshots-context-menu = Chụp ảnh màn hình
 screenshots-my-shots-button = Các ảnh chụp của tôi
+screenshots-instructions = Kéo hoặc nhấp vào trang để chọn một khu vực. Nhấn ESC để hủy bỏ.
 screenshots-cancel-button = Hủy bỏ
 screenshots-save-visible-button = Lưu phần nhìn thấy
 screenshots-save-page-button = Lưu toàn trang
@@ -14,4 +15,15 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Đã sao chép liên kết
+screenshots-notification-link-copied-details = Liên kết ảnh chụp màn hình của bạn đã được sao chép vào clipboard. Nhấn { screenshots-meta-key }-V để dán.
+screenshots-request-error-title = Không sử dụng được.
+screenshots-request-error-details = Xin lỗi! Chúng tôi không thể sao lưu ảnh chụp của bạn. Vui lòng thử lại sau.
+screenshots-connection-error-title = Chúng tôi không thể kết nối với ảnh chụp màn hình của bạn.
+screenshots-connection-error-details = Vui lòng kiểm tra kết nối Internet của bạn. Nếu bạn có thể kết nối với Internet, đó có thể là sự cố tạm thời với dịch vụ Ảnh chụp màn hình của Firefox.
+screenshots-login-error-details = Chúng tôi không thể lưu hình của bạn vì có sự cố với dịch vụ Ảnh chụp màn hình của Firefox. Vui lòng thử lại sau.
+screenshots-unshootable-page-error-title = Chúng tôi không thể chụp màn hình trang này.
+screenshots-unshootable-page-error-details = Đây không phải là trang Web bình thường, bạn không thể chụp ảnh màn hình nó.
 screenshots-empty-selection-error-title = Vùng chọn của bạn quá nhỏ
+screenshots-private-window-error-title = Ảnh chụp màn hình đã bị vô hiệu hóa ở chế độ duyệt Web riêng tư
+screenshots-private-window-error-details = Xin lỗi vì sự bất tiện này. Chúng tôi đang làm việc trên các tính năng này cho bản phát hành trong tương lai.
+screenshots-generic-error-details = Chúng tôi không chắc những gì vừa xảy ra. Thử lại hoặc chụp một trang khác?
