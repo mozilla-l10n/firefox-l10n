@@ -9,7 +9,9 @@ screenshots-cancel-button = Interrumper
 screenshots-save-visible-button = Memorisar la regiun visibla
 screenshots-save-page-button = Memorisar la pagina cumpletta
 screenshots-download-button = Telechargiar
+screenshots-download-button-tooltip = Telechargiar il maletg dal visur
 screenshots-copy-button = Copiar
+screenshots-copy-button-tooltip = Copiar il maletg dal visur en l'archiv provisoric
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
