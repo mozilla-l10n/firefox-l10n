@@ -44,9 +44,15 @@ abuse-report-messagebar-submitted = نشكرك على إرسال التقرير.
 abuse-report-messagebar-submitted-noremove = نشكرك على إرسال التقرير.
 abuse-report-messagebar-removed-extension = نشكرك على إرسال التقرير. أزلت بنجاح الامتداد <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = نشكرك على إرسال التقرير. أزلت بنجاح السمة <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = حدث خطأ في إرسال التقرير عن <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = لم يُرسل التقرير عن <span data-l10n-name="addon-name">{ $addon-name }</span> إذ أُرسل تقرير آخر عنها حديثًا.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = نعم ، أزِله
+abuse-report-messagebar-action-keep-extension = لا، سأُبقيه
+abuse-report-messagebar-action-remove-theme = نعم، أزِلها
+abuse-report-messagebar-action-keep-theme = لا، سأُبقيها
 abuse-report-messagebar-action-retry = أعِد المحاولة
 abuse-report-messagebar-action-cancel = ألغِ
 
