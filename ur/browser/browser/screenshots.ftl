@@ -21,6 +21,7 @@ screenshots-request-error-title = خراب ہے۔
 screenshots-request-error-details = معاف کیجیئے گا! ہم آپ کی شاٹ محفوظ نہیں کر سکے۔ براہ مہربانی کچھ دیر بعد کوشش کریں۔
 screenshots-connection-error-title = ہم آپ کی اسکرین شاٹس سے نہیں جڑ سکتے۔
 screenshots-connection-error-details = براہ مہربانی اپنے انٹرنیٹ کنکشن کی پڑتال کریں۔ اگر آپ انٹرنیٹ سے جڑنے کے قابل ہیں، تو شاید Firefox اسکرین شاٹ خدمات کے ساتھ عارظی مسلہ ہو۔
+screenshots-login-error-details = ہم آُپ کی شاٹ محفوظ نہیں کر سکے کیونکہ Firefox اسکرین شاٹ خدمت کے ساتھ مسلہ ہے۔ براہ مہربانی کچھ دیربعد کوشش کیجیئے۔
 screenshots-unshootable-page-error-title = ہم اس صفحہ کی اسکرین شاٹ نہیں کر سکتے۔
 screenshots-unshootable-page-error-details = یہ ایک میعاری صفحہ نہہیں، تو آپ اسکی اسکرین شاٹ نہیں لے سکتے۔
 screenshots-self-screenshot-error-title = آپ Firefox اسکرین شاٹس صفحے! کی ایک شاٹ نہیں لے سکت
