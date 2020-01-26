@@ -48,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = Razvrsti po:
 login-list-name-option = Imenu (A–Ž)
+login-list-name-reverse-option = Imenu (Ž–A)
 login-list-breached-option = Ogrožene spletne strani
 login-list-last-changed-option = Času zadnje spremembe
 login-list-last-used-option = Času zadnje uporabe
