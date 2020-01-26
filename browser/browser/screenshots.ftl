@@ -9,7 +9,9 @@ screenshots-cancel-button = キャンセル
 screenshots-save-visible-button = 表示範囲を保存
 screenshots-save-page-button = ページ全体を保存
 screenshots-download-button = ダウンロード
+screenshots-download-button-tooltip = スクリーンショットをダウンロード
 screenshots-copy-button = コピー
+screenshots-copy-button-tooltip = スクリーンショットをクリップボードにコピー
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
