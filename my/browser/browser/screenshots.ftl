@@ -4,11 +4,13 @@
 
 screenshots-context-menu = မျက်နှာပြင်ပုံရိပ် ဖမ်းယူပါ
 screenshots-my-shots-button = ရိုက်ကူးထားသော ပုံများ
+screenshots-instructions = နယ်ပယ်ရွေးရန်စာမျက်နှာကို ဆွဲတင်သို့မဟုတ်ကလစ်နှိပ်ပါ. မလုပ်ဆောင်လိုလှျင်ESC နှိပ်ပါ
 screenshots-cancel-button = မဆောင်ရွက်တော့ပါ
 screenshots-save-visible-button = မြင်ရသည်များကို သိမ်းပါ
 screenshots-save-page-button = စာမျက်နှာတစ်ခုလုံးကို သိမ်းပါ
 screenshots-download-button = ဆွဲယူရန်
 screenshots-download-button-tooltip = မျက်နှာပြင်ပုံဖမ်းချက်ကို ကူးယူဆွဲချပါ
+screenshots-copy-button = ကူးပါ
 screenshots-copy-button-tooltip = မျက်နှာပြင်ပုံဖမ်းချက်ကို ကလစ်ဘုတ်သို့ ကူးယူပါ
 screenshots-meta-key =
     { PLATFORM() ->
@@ -17,6 +19,7 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = လင့်ခ်ကို ကူယူပြီး
 screenshots-notification-link-copied-details = သင်ဖမ်းယူခဲ့သော ပုံ၏ လင့်ခ်ကို ကလစ်ဘုတ်သို့ ကူးယူပြီးပြီ။ ပွားယူရန် { screenshots-meta-key }-V ကို နှိပ်ပါ။
+screenshots-notification-image-copied-title = ရိုက်ချက်ကူးပါ
 screenshots-notification-image-copied-details = သင်ဖမ်းယူခဲ့သော ပုံကို ကလစ်ဘုတ်သို့ ကူးယူပြီးပြီ။ ပွားယူရန် { screenshots-meta-key }-V ကို နှိပ်ပါ။
 screenshots-request-error-title = ပျက်နေသည်
 screenshots-request-error-details = စိတ်မကောင်းပါ၊ သင်ရိုက်ကူးထားသော ပုံကို မသိမ်းနိုင်ပါ။ နောင်တွင် ပြန်စမ်းကြည့်ပါ။
@@ -25,6 +28,9 @@ screenshots-connection-error-details = အင်တာနက်ချိတ်�
 screenshots-login-error-details = သင်ဖမ်းယူခဲ့သော ပုံကို မသိမ်းနိုင်ခဲ့ပါ။ အဘယ့်ကြောင့်ဆိုသော် { -screenshots-brand-name } ဝန်ဆောင်မှုတွင် အမှားတစ်ခု ဖြစ်ပေါ်နေ၍ ဖြစ်သည်။ ကျေးဇူးပြု၍ ထပ်ကြိုးစားကြည့်ပါ။
 screenshots-unshootable-page-error-title = ဒီစာမျက်နှာ၏ မျက်နှာပြင်ပုံရိပ်ကို မရိုက်ကူးနိုင်ပါ။
 screenshots-unshootable-page-error-details = ယခုဝဘ်စာမျက်နှာသည် စံနှင့်ကိုက်ညီသော ဝဘ်စာမျက်နှာ မဟုတ်ပါ။ ထို့ကြောင့် မျက်နှာပြင်ပုံဖမ်းခြင်း ပြုလုပ်နိုင်မည် မဟုတ်ပါ။
+screenshots-self-screenshot-error-title = စာမျက်နှာတွင် Firefoxမှ ပုံဖမ်းရိုက်ချက်များကို သင်မရယူနိုင်ပါ
+screenshots-empty-selection-error-title = သင့်ရွေးချယ်မှု အရမ်းသေးလွန်းပါသည်
+screenshots-private-window-error-title = သီးသန့်ကြည့်ရှုခြင်းပုံစံတွင် ပုံဖမ်းရိုက်ချက်ရယူခြင်းပိတ်ပါ
 screenshots-private-window-error-details = အဆင်မပြေမှုများအတွက် တောင်းပန်ပါတယ်။ ယခုလုပ်ဆောင်ချက်ကို နောင်ထုတ်ကုန်တွင် ပါဝင်စေရန် ဆောင်ရွက်နေပါသည်။
 screenshots-generic-error-title = ဝိုး။ { -screenshots-brand-name } မှာ အမှားဖြစ်ပေါ်ခဲ့သည်။
 screenshots-generic-error-details = ဘာဖြစ်သွားခဲ့မှန်း သေချာမသိခဲ့ပါ။ ထပ်စမ်းကြည့်လိုပါသလား သို့မဟုတ် အခြားဝဘ်စာမျက်နှာကို ပုံရိပ်ဖမ်းလိုပါသလား။
