@@ -9,6 +9,7 @@ forward = Vpřed
 reload = Znovu načíst
 home = Domů
 fullscreen = Celá obrazovka
+touchbar-fullscreen-exit = Ukončit režim celé obrazovky
 find = Najít
 new-tab = Nový panel
 add-bookmark = Přidat záložku
@@ -33,5 +34,5 @@ search-opentabs = otevřených panelech
 search-tags = štítcích
 search-titles = názvech
 
-
+##
 

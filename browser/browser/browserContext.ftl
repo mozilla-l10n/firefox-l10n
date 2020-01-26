@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Pozastavit
     .accesskey = P
 
-
+##
 
 main-context-menu-media-mute =
     .label = Vypnout zvuk
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Skrýt ovládání
     .accesskey = o
 
-
+##
 
 main-context-menu-media-video-fullscreen =
     .label = Celá obrazovka
@@ -235,6 +235,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Zobrazit obrázek na pozadí
     .accesskey = b
+main-context-menu-generate-new-password =
+    .label = Použít vygenerované heslo…
+    .accesskey = G
 main-context-menu-keyword =
     .label = Přiřadit k tomuto vyhledávání klíčové slovo…
     .accesskey = h
