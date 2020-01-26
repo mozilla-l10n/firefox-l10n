@@ -9,7 +9,9 @@ screenshots-cancel-button = Avbryt
 screenshots-save-visible-button = Lagre synleg område
 screenshots-save-page-button = Lagre heile sida
 screenshots-download-button = Last ned
+screenshots-download-button-tooltip = Last ned skjermbildet
 screenshots-copy-button = Kopier
+screenshots-copy-button-tooltip = Kopier skjermbildet til utklippstavla
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
