@@ -18,6 +18,7 @@ screenshots-meta-key =
 screenshots-notification-link-copied-title = Ο σύνδεσμος αντιγράφηκε
 screenshots-notification-link-copied-details = Ο σύνδεσμος προς την λήψη σας αντιγράφηκε στο πρόχειρο. Πατήστε { screenshots-meta-key }-V για επικόλληση.
 screenshots-notification-image-copied-title = Το στιγμιότυπο αντιγράφηκε
+screenshots-notification-image-copied-details = Το στιγμιότυπο έχει αντιγραφεί στο πρόχειρο. Πατήστε { screenshots-meta-key }-V για επικόλληση.
 screenshots-request-error-title = Εκτός λειτουργίας.
 screenshots-request-error-details = Συγνώμη! Δεν μπορέσαμε να αποθηκεύουμε την λήψη σας. Προσπαθήστε ξανά αργότερα.
 screenshots-connection-error-title = Δεν μπορούμε να συνδεθούμε στις λήψεις σας.
