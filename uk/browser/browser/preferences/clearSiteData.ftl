@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Стерти дані
     .style = width: 35em
-clear-site-data-description = Стирання всіх куків і даних сайтів, що зберігаються в { -brand-short-name }, може призвести до виходу на веб-сайтах та вилучення автономного веб-вмісту.
+clear-site-data-description = Стирання всіх куків і даних сайтів, що зберігаються в { -brand-short-name }, може призвести до виходу на вебсайтах та вилучення автономного веб-вмісту.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Куки і дані сайтів
     .accesskey = К
-clear-site-data-cookies-info = При стиранні може виконатись вихід на веб-сайтах
+clear-site-data-cookies-info = При стиранні може виконатись вихід на вебсайтах
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -41,7 +41,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Кешований веб-вміст
     .accesskey = ш
-clear-site-data-cache-info = Веб-сайтам доведеться повторно завантажувати зображення і дані
+clear-site-data-cache-info = Вебсайтам доведеться повторно завантажувати зображення і дані
 clear-site-data-cancel =
     .label = Скасувати
     .accesskey = С
