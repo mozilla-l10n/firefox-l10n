@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Konténer lapok
 containers-add-button =
     .label = Új konténer hozzáadása
     .accesskey = a
+containers-new-tab-check =
+    .label = Konténer kiválasztása minden új laphoz
+    .accesskey = K
 containers-preferences-button =
     .label = Beállítások
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Egyéni
     .accesskey = E
 
-
+##
 
 content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Az oldalak normálisan fognak betölteni.
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.

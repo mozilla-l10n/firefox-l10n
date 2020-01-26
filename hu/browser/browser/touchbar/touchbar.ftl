@@ -9,6 +9,7 @@ forward = Előre
 reload = Frissítés
 home = Kezdőlap
 fullscreen = Teljes képernyő
+touchbar-fullscreen-exit = Kilépés a teljes képernyős módból
 find = Keresés
 new-tab = Új lap
 add-bookmark = Könyvjelzők hozzáadása
@@ -33,5 +34,5 @@ search-opentabs = Nyitott lapok
 search-tags = Címkék
 search-titles = Címek
 
-
+##
 

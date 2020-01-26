@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Az első indítás oldal felülbírálása. Állí
 policy-OverridePostUpdatePage = A frissítés utáni „Újdonságok” oldal felülbírálása. Állítsa üres ezt a házirendet, ha azt szeretné, hogy ne legyen frissítés utáni oldal.
 policy-PasswordManagerEnabled = A jelszavak jelszókezelőbe történő mentésének engedélyezése.
 policy-Permissions = A kamera, mikrofon, helyadatok és értesítések jogosultságának beállítása.
+policy-Permissions2 = A kamera, mikrofon, helyadatok, értesítések és automatikus lejátszás jogosultságának beállítása.
 policy-PopupBlocking = Bizonyos weboldalak alapértelmezetten jeleníthessenek meg felugró ablakokat.
 policy-Preferences = Értékek beállítása és zárolása a beállítások egy részhalmazánál.
 policy-PromptForDownloadLocation = Kérdezze meg, hogy hová legyenek letöltve a fájlok.
