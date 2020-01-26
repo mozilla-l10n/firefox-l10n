@@ -9,7 +9,9 @@ screenshots-cancel-button = Ακύρωση
 screenshots-save-visible-button = Αποθήκευση ορατής περιοχής
 screenshots-save-page-button = Αποθήκευση ολόκληρης σελίδας
 screenshots-download-button = Λήψη
+screenshots-download-button-tooltip = Λήψη στιγμιότυπου
 screenshots-copy-button = Αντιγραφή
+screenshots-copy-button-tooltip = Αντιγραφή στιγμιότυπου στο πρόχειρο
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
