@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Передавати веб-сайтам сигнал “Не стежити”
+do-not-track-description = Передавати вебсайтам сигнал “Не стежити”
 do-not-track-learn-more = Докладніше
 do-not-track-option-default-content-blocking-known =
     .label = Лише якщо { -brand-short-name } налаштовано блокувати відомі елементи стеження
@@ -493,7 +493,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Матеріали від спонсорів
 home-prefs-highlights-header =
     .label = Обране
-home-prefs-highlights-description = Відібрані веб-сайти, які ви зберегли чи відвідали
+home-prefs-highlights-description = Відібрані вебсайти, які ви зберегли чи відвідали
 home-prefs-highlights-option-visited-pages =
     .label = Відвідані сторінки
 home-prefs-highlights-options-bookmarks =
@@ -758,7 +758,7 @@ privacy-header = Приватність браузера
 logins-header = Входи і паролі
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Запит збереження паролів для веб-сайтів
+    .label = Запит збереження паролів для вебсайтів
     .accesskey = п
 forms-exceptions =
     .label = Винятки…
@@ -767,7 +767,7 @@ forms-generate-passwords =
     .label = Пропонувати й генерувати надійні паролі
     .accesskey = г
 forms-breach-alerts =
-    .label = Показувати сповіщення про паролі для зламаних веб-сайтів
+    .label = Показувати сповіщення про паролі для зламаних вебсайтів
     .accesskey = з
 forms-breach-alerts-learn-more-link = Докладніше
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
@@ -857,11 +857,11 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Стеження між сайтами і соціальні мережі
 sitedata-option-block-unvisited =
-    .label = Куки з невідвіданих веб-сайтів
+    .label = Куки з невідвіданих вебсайтів
 sitedata-option-block-all-third-party =
-    .label = Усі сторонні куки (може пошкодити веб-сайти)
+    .label = Усі сторонні куки (може пошкодити вебсайти)
 sitedata-option-block-all =
-    .label = Усі куки (порушить роботу веб-сайтів)
+    .label = Усі куки (порушить роботу вебсайтів)
 sitedata-clear =
     .label = Стерти дані…
     .accesskey = С
@@ -905,7 +905,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Власний
     .accesskey = л
-content-blocking-standard-desc = Збалансовано для захисту і швидкодії. Дозволяє деякі елементи стеження для належної роботи веб-сайтів.
+content-blocking-standard-desc = Збалансовано для захисту і швидкодії. Дозволяє деякі елементи стеження для належної роботи вебсайтів.
 content-blocking-strict-description = Сильніший захист. Може пошкодити роботу деяких сайтів.
 content-blocking-custom-desc = Оберіть, що блокувати.
 content-blocking-private-trackers = Відомі елементи стеження лише у приватних вікнах
@@ -941,7 +941,7 @@ content-blocking-all-third-party-cookies = Усі сторонні куки
 content-blocking-cryptominers = Криптомайнери
 content-blocking-fingerprinters = Зчитування відбитку браузера
 content-blocking-warning-title = Увага!
-content-blocking-warning-description = Блокування вмісту може пошкоджувати роботу деяких веб-сайтів. Можна легко вимкнути блокування для сайтів, яким ви довіряєте.
+content-blocking-warning-description = Блокування вмісту може пошкоджувати роботу деяких вебсайтів. Можна легко вимкнути блокування для сайтів, яким ви довіряєте.
 content-blocking-learn-how = Навчитися
 content-blocking-etp-warning-description = Блокування стеження може вплинути на функціональність деяких сайтів. Перезавантажте сторінку зі стеженням, щоб завантажити весь вміст.
 content-blocking-warning-learn-how = Навчитися
@@ -1011,7 +1011,7 @@ permissions-notification-pause =
     .label = Призупинити сповіщення до перезапуску { -brand-short-name }
     .accesskey = П
 permissions-block-autoplay-media2 =
-    .label = Блокувати автоматичне відтворення звуку веб-сайтами
+    .label = Блокувати автоматичне відтворення звуку вебсайтами
     .accesskey = з
 permissions-block-autoplay-media-exceptions =
     .label = Винятки…
@@ -1027,7 +1027,7 @@ permissions-block-popups-exceptions =
     .label = Винятки…
     .accesskey = В
 permissions-addon-install-warning =
-    .label = Попереджати при спробі веб-сайтів встановити додаток
+    .label = Попереджати при спробі вебсайтів встановити додаток
     .accesskey = ж
 permissions-addon-exceptions =
     .label = Винятки…
@@ -1115,13 +1115,13 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } - закінчується місце на диску. Вміст веб-сайтів може показуватись неналежним чином. Ви можете стерти збережені дані в меню Налаштування > Приватність і безпека > Куки і дані сайтів.
-       *[other] { -brand-short-name } - закінчується місце на диску. Вміст веб-сайтів може показуватись неналежним чином. Ви можете стерти збережені дані в меню Налаштування > Приватність і безпека > Куки і дані сайтів.
+        [windows] { -brand-short-name } - закінчується місце на диску. Вміст вебсайтів може показуватись неналежним чином. Ви можете стерти збережені дані в меню Налаштування > Приватність і безпека > Куки і дані сайтів.
+       *[other] { -brand-short-name } - закінчується місце на диску. Вміст вебсайтів може показуватись неналежним чином. Ви можете стерти збережені дані в меню Налаштування > Приватність і безпека > Куки і дані сайтів.
     }
 space-alert-under-5gb-ok-button =
     .label = Гаразд, зрозуміло
     .accesskey = Г
-space-alert-under-5gb-message = У { -brand-short-name } закінчується місце на диску. Вміст веб-сайтів може показуватись неправильно. Натисніть “Докладніше”, щоб оптимізувати використання вашого диска для кращої роботи.
+space-alert-under-5gb-message = У { -brand-short-name } закінчується місце на диску. Вміст вебсайтів може показуватись неправильно. Натисніть “Докладніше”, щоб оптимізувати використання вашого диска для кращої роботи.
 
 ## The following strings are used in the Download section of settings
 

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Values for changepassword.xul -->
+<!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "Зміна головного пароля">
 <!ENTITY setPassword.tokenName.label "Пристрій захисту">
 <!ENTITY setPassword.oldPassword.label "Поточний пароль:">
@@ -10,7 +10,7 @@
 <!ENTITY setPassword.reenterPassword.label "Новий пароль (ще раз):">
 <!ENTITY setPassword.meter.label "Рівень якості пароля">
 
-<!-- Values for resetpassword.xul -->
+<!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "Скинути">
 <!ENTITY resetPassword.title  "Скидання головного пароля">
 <!ENTITY resetPassword.text  "Якщо ви скинете свій головний пароль, всі збережені паролі для інтернету і електронної пошти, дані форм, особисті сертифікати і закриті ключі будуть втрачені. Ви дійсно хочете скинути свій головний пароль?">
@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Завантаження сертифіката">
 <!ENTITY downloadCert.message1 "Вас просять довіряти новому центру сертифікації (CA).">
-<!ENTITY downloadCert.trustSSL "Довіряти при ідентифікації веб-сайтів.">
+<!ENTITY downloadCert.trustSSL "Довіряти при ідентифікації вебсайтів.">
 <!ENTITY downloadCert.trustEmail "Довіряти при ідентифікації користувачів електронної пошти.">
 <!ENTITY downloadCert.message3 "Перед тим, як визначитися з довірою до цього центру, рекомендується перевірити його сертифікат, політику і процедури (якщо можливо).">
 <!ENTITY downloadCert.viewCert.label "Перегляд">
