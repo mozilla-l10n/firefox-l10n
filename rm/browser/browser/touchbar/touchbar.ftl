@@ -9,6 +9,7 @@ forward = Enavant
 reload = Rechargiar
 home = Pagina da partenza
 fullscreen = Maletg entir
+touchbar-fullscreen-exit = Bandunar il modus da maletg entir
 find = Tschertgar
 new-tab = Nov tab
 add-bookmark = Agiuntar in segnapagina
@@ -33,5 +34,5 @@ search-opentabs = Tabs averts
 search-tags = Etichettas
 search-titles = Titels
 
-
+##
 
