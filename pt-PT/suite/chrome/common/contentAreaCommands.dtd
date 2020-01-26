@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "I">
 <!ENTITY spellAddDictionaries.label     "Transferir mais dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "d">
+
+<!ENTITY fillLoginMenu.label          "Preencher credencial">
+<!ENTITY fillLoginMenu.accesskey      "e">
+<!ENTITY fillPasswordMenu.label       "Preencher palavra-passe">
+<!ENTITY fillPasswordMenu.accesskey   "e">
+<!ENTITY fillUsernameMenu.label       "Preencher nome de utilizador">
+<!ENTITY fillUsernameMenu.accesskey   "e">
+<!ENTITY noLoginSuggestions.label     "(Sem sugestões de credenciais)">
+<!ENTITY viewSavedLogins.label        "Ver credenciais guardadas">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Inspecionar elemento">
 <!ENTITY devtoolsInspect.accesskey      "n">
