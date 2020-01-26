@@ -9,7 +9,9 @@ screenshots-cancel-button = റദ്ദാക്കുക
 screenshots-save-visible-button = കാണുന്നതു സംരക്ഷിക്കുക
 screenshots-save-page-button = താള്‍ മുഴുവന്‍ സംരക്ഷിക്കുക
 screenshots-download-button = ഡൗണ്‍ലോഡ് ചെയ്യുക
+screenshots-download-button-tooltip = സ്ക്രീൻഷോട്ട് ഡൗൺലോഡ് ചെയ്യുക
 screenshots-copy-button = പകര്‍ത്തുക
+screenshots-copy-button-tooltip = ക്ലിപ്പ്ബോർഡിലേക്ക് സ്ക്രീൻഷോട്ട് പകർത്തുക
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -26,6 +28,7 @@ screenshots-login-error-details = ഫയർഫോക്സ് സ്ക്ര
 screenshots-unshootable-page-error-title = ഈ താളിന്റെ സ്ക്രീൻഷോട്ട് എടുക്കാന്‍ സാധ്യമല്ല.
 screenshots-unshootable-page-error-details = ഇതൊരു സാധാരണ താള്‍ അല്ല, അതിനാൽ അതിന്റെ ഒരു സ്ക്രീൻഷോട്ട് എടുക്കാനാകില്ല.
 screenshots-self-screenshot-error-title = സ്ക്രീൻഷോട്ട് താളിന്റെ സ്ക്രീൻഷോട്ട് എടുക്കാന്‍ പറ്റില്ല‌!
+screenshots-empty-selection-error-title = നിങ്ങളുടെ തെരഞ്ഞെടുപ്പ് തീരെ ചെറുതാണ്
 screenshots-private-window-error-details = അസൗകര്യം നേരിടേണ്ടി വന്നതിൽ ഖേദിക്കുന്നു. ഈ സവിശേഷതയുള്ള ഭാവിയിലെ റിലീസുകൾക്കായി ഞങ്ങൾ പ്രവർത്തിക്കുന്നു.
 screenshots-generic-error-title = അയ്യോ! ഫയര്‍ഫോക്സ് സ്ക്രീൻഷോട്ടിനു എന്തോ പറ്റി.
 screenshots-generic-error-details = എന്താ സംഭവിച്ചതെന്ന് വല്യ പിടി ഇല്ല. ഒന്നുകൂടി നോക്കുകയോ അല്ലെങ്കില്‍ വേറെ താളിന്റെ സ്ക്രീൻഷോട്ട് എടുക്കുകയോ ചെയ്യുന്നോ?
