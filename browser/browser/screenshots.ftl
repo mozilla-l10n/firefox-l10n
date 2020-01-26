@@ -9,11 +9,13 @@ screenshots-cancel-button = Anulla
 screenshots-save-visible-button = Sarva o vixibile
 screenshots-save-page-button = Sarva tutta a pagina
 screenshots-download-button = Descarega
+screenshots-copy-button = Còpia
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
+screenshots-notification-image-copied-details = A föto a l'é stæta copiâ inti aponti. Sciacca { screenshots-meta-key }-V pe incolâ.
 screenshots-request-error-title = Feua serviçio.
 screenshots-request-error-details = Ne spiaxe! No poemmo sarvâ l'inmagine. Pe piaxei preuva torna dòppo.
 screenshots-connection-error-title = No poemmo conetise a-e teu föto do schermo.
