@@ -5,6 +5,7 @@
 screenshots-context-menu = ఒక తెరపట్టు తీసుకోండి
 screenshots-instructions = ఒక ప్రాంతాన్ని ఎంచుకోవడానికి పేజీని లాగండి లేదా నొక్కండి. రద్దు చేయడానికి ESC నొక్కండి.
 screenshots-cancel-button = రద్దుచేయి
+screenshots-save-visible-button = కనిపించే దానిని బద్రపరచండి
 screenshots-save-page-button = పూర్తి పేజీని భద్రపరచు
 screenshots-download-button = దింపుకోండి
 screenshots-copy-button = కాపీచెయ్యి
