@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Zavrar tenor:
 login-list-name-option = Num (A-Z)
+login-list-name-reverse-option = Num (Z-A)
 login-list-breached-option = Websites cun sperdita da datas
 login-list-last-changed-option = Ultima midada
 login-list-last-used-option = Ultima utilisaziun

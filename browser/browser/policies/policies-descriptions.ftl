@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avai
 policy-OverridePostUpdatePage = Surscriver la pagina «What's New» che vegn mussada suenter actualisaziuns. Definir questa directiva cun ina valur vida per impedir che la pagina vegnia mussada.
 policy-PasswordManagerEnabled = Activar la memorisaziun da pleds-clav en l'administraziun da pleds-clav.
 policy-Permissions = Configurar permissiuns per camera, microfon, posiziun e notificaziuns.
+policy-Permissions2 = Configurar permissiuns per camera, microfon, posiziun, notificaziuns e la reproducziun automatica.
 policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
 policy-Preferences = Definescha e fixescha la valur per ina subgruppa da preferenzas.
 policy-PromptForDownloadLocation = Dumandar nua memorisar datotecas cun telechargiar.
