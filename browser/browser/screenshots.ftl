@@ -4,6 +4,7 @@
 
 screenshots-context-menu = Bildschirmfoto aufnehmen
 screenshots-my-shots-button = Meine Bildschirmfotos
+screenshots-instructions = Ziehen oder klicken Sie auf der Seite, um einen Bereich auszuwählen. Drücken Sie ESC zum Abbrechen.
 screenshots-cancel-button = Abbrechen
 screenshots-save-visible-button = Sichtbaren Bereich speichern
 screenshots-save-page-button = Gesamte Seite speichern
@@ -26,6 +27,7 @@ screenshots-connection-error-title = Es war keine Verbindung zu Ihren Bildschirm
 screenshots-connection-error-details = Bitte überprüfen Sie Ihre Internetverbindung. Wenn diese funktioniert, gibt es eventuell ein temporäres Problem mit dem Dienst von { -screenshots-brand-name }.
 screenshots-login-error-details = Ihr Bildschirmfoto konnte nicht gespeichert werden, weil ein Problem mit dem Dienst { -screenshots-brand-name } aufgetreten ist. Bitte versuchen Sie es später erneut.
 screenshots-unshootable-page-error-title = Ein Bildschirmfoto dieser Seite ist nicht möglich.
+screenshots-unshootable-page-error-details = Dies ist keine Standard-Webseite, deshalb sind keine Bildschirmfotos von ihr möglich.
 screenshots-self-screenshot-error-title = Sie können kein Bildschirmfoto einer Firefox-Screenshots-Seite machen!
 screenshots-empty-selection-error-title = Ihr Auswahlbereich ist zu klein
 screenshots-private-window-error-title = { -screenshots-brand-name } ist im Privaten Modus deaktiviert
