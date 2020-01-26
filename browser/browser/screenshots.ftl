@@ -9,7 +9,9 @@ screenshots-cancel-button = Скасаваць
 screenshots-save-visible-button = Захаваць бачную вобласць
 screenshots-save-page-button = Захаваць усю старонку
 screenshots-download-button = Сцягнуць
+screenshots-download-button-tooltip = Сцягнуць здымак экрана
 screenshots-copy-button = Капіраваць
+screenshots-copy-button-tooltip = Капіраваць здымак экрана ў буфер абмену
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
