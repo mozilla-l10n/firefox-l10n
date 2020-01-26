@@ -9,7 +9,7 @@
 <!ENTITY newfirstrun_urlbar_subtext "Швидкий, приватний і ваш.">
 <!ENTITY firstrun_panel_title_privacy "Приватність">
 <!ENTITY firstrun_privacy_message "Переглядайте без думки, що за вами хтось спостерігає">
-<!ENTITY firstrun_privacy_subtext "В режимі приватного перегляду блокуються елементи стеження на веб-сайтах і не зберігається історія після завершення сеансу.">
+<!ENTITY firstrun_privacy_subtext "В режимі приватного перегляду блокуються елементи стеження на вебсайтах і не зберігається історія після завершення сеансу.">
 <!ENTITY newfirstrun_privacy_subtext "Приватний перегляд блокує рекламу і стеження, що переслідують вас онлайн.">
 <!ENTITY firstrun_panel_title_customize "Пристосування">
 <!ENTITY firstrun_customize_message "Зробіть &brandShortName; зручним для себе.">
@@ -413,7 +413,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_formdata2 "Історія форм">
 <!ENTITY pref_private_data_cookies2 "Куки й активні сеанси">
 <!ENTITY pref_private_data_cache "Кеш">
-<!ENTITY pref_private_data_offlineApps "Дані автономних веб-сайтів">
+<!ENTITY pref_private_data_offlineApps "Дані автономних вебсайтів">
 <!ENTITY pref_private_data_siteSettings2 "Налаштування сайтів">
 <!ENTITY pref_private_data_downloadFiles2 "Завантаження">
 <!ENTITY pref_private_data_syncedTabs "Синхронізовані вкладки">
@@ -643,7 +643,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_closed_tabs_number "&formatD; вкладок">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 вкладка">
-<!ENTITY home_most_recent_empty "Тут з’являтимуться останні відвідані вами веб-сайти.">
+<!ENTITY home_most_recent_empty "Тут з’являтимуться останні відвідані вами вебсайти.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Зверніть увагу: історія з &formatS1;Нової приватної вкладки&formatS2; не буде зберігатися.">
@@ -840,9 +840,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "Додаткові налаштування">
 <!ENTITY restrictable_feature_advanced_settings_description "Це включає імпорт закладок, відновлення вкладок та автоматичні оновлення. Вимкніть для спрощених налаштувань, які підходять для будь-кого з членів сім’ї.">
 <!ENTITY restrictable_feature_camera_microphone "Камера й мікрофон">
-<!ENTITY restrictable_feature_camera_microphone_description "Дозволяє членам сім’ї спілкуватись у режимі реального часу на веб-сайтах.">
+<!ENTITY restrictable_feature_camera_microphone_description "Дозволяє членам сім’ї спілкуватись у режимі реального часу на вебсайтах.">
 <!ENTITY restrictable_feature_block_list "Список блокування">
-<!ENTITY restrictable_feature_block_list_description "Блокувати веб-сайти, які включають вразливий вміст.">
+<!ENTITY restrictable_feature_block_list_description "Блокувати вебсайти, які включають вразливий вміст.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -933,8 +933,8 @@ is simply hidden from the Activity Stream panel. -->
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Додати на головний екран">
-<!ENTITY pwa_continue_to_website "Продовжити на веб-сайті">
-<!ENTITY pwa_onboarding_sumo "Ви можете легко додати цей веб-сайт на головний екран, щоб мати миттєвий доступ до нього і працювати швидше.">
+<!ENTITY pwa_continue_to_website "Продовжити на вебсайті">
+<!ENTITY pwa_onboarding_sumo "Ви можете легко додати цей вебсайт на головний екран, щоб мати миттєвий доступ до нього і працювати швидше.">
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
