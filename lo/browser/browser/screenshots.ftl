@@ -9,6 +9,7 @@ screenshots-cancel-button = ຍົກເລີກ
 screenshots-save-visible-button = ບັນທຶກສ່ວນທີ່ເບິງເຫັນໄດ້
 screenshots-save-page-button = ບັນທຶກຫມົດຫນ້າ
 screenshots-download-button = ດາວໂຫລດ
+screenshots-copy-button = ສຳເນົາ
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,7 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = ໄດ້ສຳເນົາລີ້ງໄວ້ແລ້ວ
 screenshots-notification-link-copied-details = ລີ້ງໄປຫາຮູບພາບຂອງທ່ານໄດ້ຖືກບັນທຶກໄວ້ໃນຄຣິບບອດ. ກົດ { screenshots-meta-key }-V ເພື່ອວາງ.
+screenshots-notification-image-copied-details = ຮູບພາບຂອງທ່ານໄດ້ຖືກສຳເນົາລົງໃນຄລິບບອດ. ກົດ { screenshots-meta-key }-V ເພື່ອວາງ.
 screenshots-request-error-title = ໃຊ້ວຽກບໍ່ໄດ້.
 screenshots-request-error-details = ຂໍອະໄພ! ພວກເຮົາບໍ່ສາມາດບັນທຶກພາບຂອງທ່ານໄດ້. ກະລູນາລອງໃຫມ່ອີກຄັ້ງ.
 screenshots-connection-error-title = ພວກເຮົາບໍ່ສາມາດເຊື່ອມຕໍ່ໄປຫາພາບຫນ້າຈໍຂອງທ່ານໄດ້.
