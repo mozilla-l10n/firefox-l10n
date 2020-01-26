@@ -9,6 +9,7 @@ screenshots-cancel-button = Hủy bỏ
 screenshots-save-visible-button = Lưu phần nhìn thấy
 screenshots-save-page-button = Lưu toàn trang
 screenshots-download-button = Tải xuống
+screenshots-copy-button = Sao chép
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Đã sao chép liên kết
 screenshots-notification-link-copied-details = Liên kết ảnh chụp màn hình của bạn đã được sao chép vào clipboard. Nhấn { screenshots-meta-key }-V để dán.
+screenshots-notification-image-copied-title = Ảnh chụp màn hình đã được sao chép
+screenshots-notification-image-copied-details = Ảnh chụp màn hình của bạn đã được sao chép vào clipboard. Nhấn { screenshots-meta-key }-V để dán.
 screenshots-request-error-title = Không sử dụng được.
 screenshots-request-error-details = Xin lỗi! Chúng tôi không thể sao lưu ảnh chụp của bạn. Vui lòng thử lại sau.
 screenshots-connection-error-title = Chúng tôi không thể kết nối với ảnh chụp màn hình của bạn.
