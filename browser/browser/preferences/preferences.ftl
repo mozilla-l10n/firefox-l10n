@@ -1031,6 +1031,7 @@ permissions-a11y-privacy-link = Lue lisää
 collection-header = { -brand-short-name }in tietojen keräys ja käyttö
 collection-description = Pyrimme antamaan sinulle vapauden valita ja keräämään vain tietoja, joita tarvitsemme voidaksemme tarjota { -brand-short-name }in kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.
 collection-privacy-notice = Tietosuojakäytäntö
+collection-health-report-telemetry-disabled = Et enää salli { -vendor-short-name }n vastaanottaa teknisiä ja käyttötilastoja. Kaikki aikaisemmat tiedot poistetaan 30 päivän kuluessa.
 collection-health-report-telemetry-disabled-link = Lue lisää
 collection-health-report =
     .label = Salli, että { -brand-short-name } lähettää teknisiä ja käyttötilastoja { -vendor-short-name }lle
