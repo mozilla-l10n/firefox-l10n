@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+screenshots-context-menu = Képernyőkép készítése
 screenshots-my-shots-button = Az Ön képei
+screenshots-instructions = Húzza, vagy kattintson a lapra a terület kiválasztásához. A megszakításhoz nyomja meg az ESC billentyűt.
 screenshots-cancel-button = Mégse
+screenshots-save-visible-button = Látható rész mentése
 screenshots-save-page-button = Teljes oldal mentése
 screenshots-download-button = Letöltés
 screenshots-download-button-tooltip = Képernyőkép letöltése
