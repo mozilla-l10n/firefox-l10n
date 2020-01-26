@@ -50,6 +50,7 @@ login-list-count =
     }
 login-list-sort-label-text = افرز حسب:
 login-list-name-option = الاسم (ا-ي)
+login-list-name-reverse-option = الاسم (ي-ا)
 login-list-breached-option = المواقع المسرّبة بياناتها
 login-list-last-changed-option = آخر تعديل
 login-list-last-used-option = آخر استخدام
@@ -77,7 +78,6 @@ about-logins-intro-import = لو كانت جلسات ولوجك محفوظة ف�
 
 login-item-new-login-title = أنشِئ جلسة ولوج جديدة
 login-item-edit-button = حرِّر
-login-item-delete-button = احذف
 about-logins-login-item-remove-button = أزِل
 login-item-origin-label = عنوان الموقع
 login-item-origin =
@@ -124,7 +124,6 @@ enable-password-sync-preferences-button =
            *[other] افتح تفضيلات { -sync-brand-short-name }
         }
     .accesskey = ف
-confirm-delete-dialog-title = أأحذف هذا الولوج؟
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = لا تسألني ثانيةً
     .accesskey = ت
@@ -136,7 +135,6 @@ confirmation-dialog-dismiss-button =
     .title = ألغِ
 about-logins-confirm-remove-dialog-title = أنُزيل هذا الولوج؟
 confirm-delete-dialog-message = هذا إجراء لا عودة فيه.
-confirm-delete-dialog-confirm-button = احذف
 about-logins-confirm-remove-dialog-confirm-button = أزِل
 confirm-discard-changes-dialog-title = أتريد إهمال التغييرات غير المحفوظة؟
 confirm-discard-changes-dialog-message = ستفقد كل تغيير لم تحفظه.

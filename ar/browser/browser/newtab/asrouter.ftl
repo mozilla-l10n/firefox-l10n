@@ -142,6 +142,7 @@ cfr-whatsnew-pip-cta = اطّلع على المزيد
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = قلّلنا عدد المُنبثقات المزعجة
 cfr-whatsnew-permission-prompt-body = بات { -brand-shorter-name } يحجب طلبات المواقع بإرسال الرسائل المنبثقة تلقائيًا.
 cfr-whatsnew-permission-prompt-cta = اطّلع على المزيد
 
@@ -201,6 +202,7 @@ cfr-doorhanger-socialtracking-heading = منع { -brand-short-name } إحدى ا
 cfr-doorhanger-socialtracking-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب أكثر متعقّبات الشبكات الاجتماعية شيوعًا فيحدّ من بياناتك وأنت تتصفّح الإنترنت التي تجمعها.
 cfr-doorhanger-fingerprinters-heading = حجب { -brand-short-name } مسجّل بصمات في هذه الصفحة
 cfr-doorhanger-fingerprinters-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب مسجّلات البصمات التي تجمع المعلومات الفريدة التي تحدّد جهازك عن غيرك، كلّه لتتعقّبك.
+cfr-doorhanger-cryptominers-heading = حجب { -brand-short-name } مُعدّنًا معمّى في هذه الصفحة
 cfr-doorhanger-cryptominers-description = خصوصيتك فوق كل شيء. بات { -brand-short-name } يحجب المُعدّنات المعمّاة التي تستعمل قوّة الحساب لنظامك لتُعدّن النقود الرقمية.
 
 ## Enhanced Tracking Protection Milestones
