@@ -91,9 +91,14 @@ newtab-privacy-modal-paragraph =
     tarkastettua sisältöä valituilta sponsoreilta. Voit olla varma, että selaustietosi
     pysyvät omassa { -brand-product-name }-kopiossasi – emme näe niitä eivätkä 
     myöskään sponsorimme.
+newtab-privacy-modal-paragraph-2 =
+    Kiehtovien tarinoiden tarjoamisen lisäksi näytämme sinulle myös kiinnostavaa,
+    tarkastettua sisältöä valituilta sponsoreilta. Voit olla varma, että <strong>selaustietosi
+    pysyvät omassa { -brand-product-name }-kopiossasi</strong> – emme näe niitä eivätkä 
+    myöskään sponsorimme.
 newtab-privacy-modal-link = Opi miten yksityisyys on esillä uusi välilehti -sivulla
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Poista kirjanmerkki
@@ -180,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Tämä osio ladattii
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Suositut aiheet:
 newtab-pocket-more-recommendations = Lisää suosituksia
-newtab-pocket-how-it-works = Kuinka se toimii
 newtab-pocket-whats-pocket = Mikä { -pocket-brand-name } on?
 newtab-pocket-cta-button = Hanki { -pocket-brand-name }
 newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
