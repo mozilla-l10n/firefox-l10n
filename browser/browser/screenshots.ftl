@@ -9,6 +9,7 @@ screenshots-cancel-button = Скасаваць
 screenshots-save-visible-button = Захаваць бачную вобласць
 screenshots-save-page-button = Захаваць усю старонку
 screenshots-download-button = Сцягнуць
+screenshots-copy-button = Капіраваць
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Спасылка скапіявана
 screenshots-notification-link-copied-details = Спасылка на ваш здымак была скапіявана ў буфер абмену. Націсніце { screenshots-meta-key }-V для ўстаўкі.
+screenshots-notification-image-copied-title = Скрыншот скапіраваны
+screenshots-notification-image-copied-details = Скрыншот скапіраваны ў буфер абмену. Націсніце { screenshots-meta-key }-V, каб уставіць.
 screenshots-request-error-title = Здарылася памылка.
 screenshots-request-error-details = Выбачайце! Нам не ўдалося захаваць ваш здымак. Паспрабуйце пазней.
 screenshots-connection-error-title = Мы не можам атрымаць доступ да вашых скрыншотаў.
