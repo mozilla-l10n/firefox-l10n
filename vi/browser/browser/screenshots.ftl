@@ -14,3 +14,4 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Đã sao chép liên kết
+screenshots-empty-selection-error-title = Vùng chọn của bạn quá nhỏ
