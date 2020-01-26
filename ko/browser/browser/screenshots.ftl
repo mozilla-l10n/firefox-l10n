@@ -9,7 +9,9 @@ screenshots-cancel-button = 취소
 screenshots-save-visible-button = 보이는 내용 저장
 screenshots-save-page-button = 전체 페이지 저장
 screenshots-download-button = 다운로드
+screenshots-download-button-tooltip = 스크린샷 다운로드
 screenshots-copy-button = 복사
+screenshots-copy-button-tooltip = 클립보드에 스크린샷 복사
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
