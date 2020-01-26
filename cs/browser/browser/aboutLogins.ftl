@@ -51,6 +51,7 @@ login-list-count =
     }
 login-list-sort-label-text = Seřadit podle:
 login-list-name-option = názvu (A-Z)
+login-list-name-reverse-option = názvu (Z-A)
 login-list-breached-option = serveru, kde došlo k úniku dat
 login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
@@ -90,7 +91,6 @@ about-logins-intro-import = Pokud máte přihlašovací údaje uložené v jiné
 
 login-item-new-login-title = Nové přihlašovací údaje
 login-item-edit-button = Upravit
-login-item-delete-button = Smazat
 about-logins-login-item-remove-button = Odstranit
 login-item-origin-label = Adresa serveru
 login-item-origin =
@@ -142,7 +142,6 @@ enable-password-sync-preferences-button =
            *[other] Předvolby
         } { -sync-brand-short-name(case: "gen") }
     .accesskey = V
-confirm-delete-dialog-title = Smazat tyto přihlašovací údaje?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Příště se už neptat
     .accesskey = n
@@ -154,7 +153,6 @@ confirmation-dialog-dismiss-button =
     .title = Zrušit
 about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
-confirm-delete-dialog-confirm-button = Smazat
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
 confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
