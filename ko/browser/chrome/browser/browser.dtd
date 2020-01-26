@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "향상된 추적 방지 기능에 대한 추가 정보">
 <!ENTITY protections.settings.label "보호 설정">
-<!ENTITY protections.showreport.label "보고서 보기">
+<!ENTITY protections.showreport.label "보고서 표시">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
