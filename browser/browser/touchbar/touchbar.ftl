@@ -9,6 +9,7 @@ forward = Framåt
 reload = Ladda om
 home = Start
 fullscreen = Helskärm
+touchbar-fullscreen-exit = Avsluta helskärm
 find = Sök
 new-tab = Ny flik
 add-bookmark = Lägg till bokmärke
@@ -33,5 +34,5 @@ search-opentabs = Öppna flikar
 search-tags = Taggar
 search-titles = Rubriker
 
-
+##
 
