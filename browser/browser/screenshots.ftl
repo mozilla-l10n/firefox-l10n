@@ -9,6 +9,7 @@ screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Guardar visible
 screenshots-save-page-button = Guardar página completa
 screenshots-download-button = Descargar
+screenshots-copy-button = Copiar
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Enlace copiado
 screenshots-notification-link-copied-details = El enlace a la captura ha sido copiado al portapapeles. Presioná { screenshots-meta-key }-V para pegar.
+screenshots-notification-image-copied-title = Captura copiada
+screenshots-notification-image-copied-details = Tu captura ha sido copiada al portapapeles. Presioná { screenshots-meta-key }-V para pegar.
 screenshots-request-error-title = No funciona.
 screenshots-request-error-details = ¡Perdón! No pudimos guardar la captura. Intentá más tarde.
 screenshots-connection-error-title = No podemos conectar a las capturas de pantalla.
