@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortera efter:
 login-list-name-option = Namn (A-Ö)
+login-list-name-reverse-option = Namn (Ö-A)
 login-list-breached-option = Webbplatser med dataintrång
 login-list-last-changed-option = Senast ändrad
 login-list-last-used-option = Senast använd
@@ -73,7 +74,6 @@ about-logins-intro-import = Om dina inloggningar finns sparade i en annan webbl�
 
 login-item-new-login-title = Skapa ny inloggning
 login-item-edit-button = Redigera
-login-item-delete-button = Ta bort
 about-logins-login-item-remove-button = Ta bort
 login-item-origin-label = Webbadress
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Besök { -sync-brand-short-name } Inställningar
         }
     .accesskey = B
-confirm-delete-dialog-title = Ta bort denna inloggning?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Fråga mig inte igen
     .accesskey = F
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Avbryt
 about-logins-confirm-remove-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
-confirm-delete-dialog-confirm-button = Ta bort
 about-logins-confirm-remove-dialog-confirm-button = Ta bort
 confirm-discard-changes-dialog-title = Ignorera dessa förändringar?
 confirm-discard-changes-dialog-message = Alla ändringar som inte är sparade kommer att gå förlorade.
