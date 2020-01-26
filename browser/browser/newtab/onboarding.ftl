@@ -22,6 +22,7 @@ onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
 onboarding-welcome-modal-get-body = وصلك الآن المتصفّح.<br/>بقيت أمامك روائع { -brand-product-name } كلّها.
+onboarding-welcome-modal-privacy-body = صار المتصفّح عندك. الآن لنزيد من حمايات الخصوصيّة.
 onboarding-welcome-modal-family-learn-more = خُذ نظرة على طقم منتجات { -brand-product-name }.
 onboarding-welcome-form-header = ابدأ هنا
 onboarding-join-form-header = انضم إلى { -brand-product-name }
