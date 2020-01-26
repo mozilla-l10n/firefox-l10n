@@ -10,6 +10,7 @@ screenshots-save-visible-button = Spremi vidljivo
 screenshots-save-page-button = Spremi cijelu stranicu
 screenshots-download-button = Preuzmi
 screenshots-download-button-tooltip = Preuzmite snimku zaslona
+screenshots-copy-button = Kopiraj
 screenshots-copy-button-tooltip = Kopiraj snimku zaslona u međuspremnik
 screenshots-meta-key =
     { PLATFORM() ->
@@ -18,6 +19,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Poveznica je kopirana
 screenshots-notification-link-copied-details = Poveznica do vaše snimke je kopirana u međuspremnik. Pristinite { screenshots-meta-key }-V da ju zalijepite.
+screenshots-notification-image-copied-title = Snimka kopirana
+screenshots-notification-image-copied-details = Vaša snimka je kopirana u međuspremnik. Pritisnite { screenshots-meta-key }-V da ju zalijepite.
 screenshots-request-error-title = Ne radi.
 screenshots-request-error-details = Ups! Nismo uspjeli spremiti vašu snimku. Molimo pokušajte ponovo kasnije.
 screenshots-connection-error-title = Ne možemo se spojiti s vašim snimkama.
