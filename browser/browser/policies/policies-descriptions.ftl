@@ -12,7 +12,7 @@
 
 policy-3rdparty = Встановити політики, за якими WebExtensions можуть отримувати доступ через chrome.storage.managed.
 policy-AppUpdateURL = Встановити власну URL-адресу для оновлення додатка.
-policy-Authentication = Налаштувати інтегровану авторизацію для підтримуваних веб-сайтів.
+policy-Authentication = Налаштувати інтегровану авторизацію для підтримуваних вебсайтів.
 policy-BlockAboutAddons = Заблокувати доступ до керування додатками (about:addons).
 policy-BlockAboutConfig = Заблокувати доступ до сторінки about:config.
 policy-BlockAboutProfiles = Заблокувати доступ до сторінки about:profiles.
@@ -20,7 +20,7 @@ policy-BlockAboutSupport = Заблокувати доступ до сторін
 policy-Bookmarks = Створювати закладки в панелі закладок, меню закладок, або в окремих теках.
 policy-CaptivePortal = Вмикає чи вимикає підтримку порталу перехоплення.
 policy-CertificatesDescription = Додавання або використання вбудованих сертифікатів.
-policy-Cookies = Дозволити або заборонити веб-сайтам встановлювати куки.
+policy-Cookies = Дозволити або заборонити вебсайтам встановлювати куки.
 policy-DefaultDownloadDirectory = Встановити типову теку для завантажень.
 policy-DisableAppUpdate = Заборонити оновлення браузера
 policy-DisableBuiltinPDFViewer = Вимкнути вбудований PDF.js для перегляду файлів PDF у { -brand-short-name }.
@@ -61,9 +61,9 @@ policy-FlashPlugin = Дозволити або заборонити викори
 policy-HardwareAcceleration = Значення false вимикає апаратне прискорення.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Встановити і за бажанням заблокувати домівку.
-policy-InstallAddonsPermission = Дозволити певним веб-сайтам встановлювати додатки.
+policy-InstallAddonsPermission = Дозволити певним вебсайтам встановлювати додатки.
 policy-LegacyProfiles = Вимкнути функцію, що застосовує окремий профіль для кожного встановлення
-policy-LocalFileLinks = Дозволити певним веб-сайтам посилання на локальні файли.
+policy-LocalFileLinks = Дозволити певним вебсайтам посилання на локальні файли.
 policy-NetworkPrediction = Вмикає чи вимикає прогнозування мережі (попереднє отримання DNS).
 policy-NewTabPage = Увімкнути чи вимкнути сторінку нової вкладки.
 policy-NoDefaultBookmarks = Вимкнути створення типових закладок, пов'язаних з { -brand-short-name }, а також інтелектуальних закладок (Найбільш відвідувані, Останні мітки). Примітка: цю політику можливо застосувати лише при першому запуску профілю.
@@ -74,7 +74,7 @@ policy-OverridePostUpdatePage = Замінити сторінку "Що ново
 policy-PasswordManagerEnabled = Увімкнути збереження паролів у менеджері паролів.
 policy-Permissions = Налаштувати дозволи для камери, мікрофона, розташування та сповіщень.
 policy-Permissions2 = Налаштувати дозволи для камери, мікрофона, розташування, сповіщень та автовідтворення.
-policy-PopupBlocking = Дозволити певним веб-сайтам типово відображати виринаючі вікна.
+policy-PopupBlocking = Дозволити певним вебсайтам типово відображати виринаючі вікна.
 policy-Preferences = Встановити і зафіксувати значення для набору налаштувань.
 policy-PromptForDownloadLocation = Запитувати, де зберігати файли при завантаженні.
 policy-Proxy = Налаштувати параметри проксі.
@@ -89,4 +89,4 @@ policy-SSLVersionMax = Встановлює максимальну версію 
 policy-SSLVersionMin = Встановлює мінімальну версію SSL.
 policy-SupportMenu = Додає власний елемент меню підтримки в меню довідки.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Блокувати відвідування веб-сайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
+policy-WebsiteFilter = Блокувати відвідування вебсайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.

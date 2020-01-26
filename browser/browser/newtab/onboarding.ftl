@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Візьміть { -brand-product-name } з собою
 onboarding-sync-welcome-content = Ваші закладки, історія, паролі та інші налаштування на всіх ваших пристроях.
 onboarding-sync-welcome-learn-more-link = Дізнайтеся більше про обліковий запис Firefox
-onboarding-sync-form-invalid-input = Необхідна адреса електронної пошти
-onboarding-sync-legal-notice = Продовжуючи, ви приймаєте <a data-l10n-name="terms">Умови надання послуги</a> і <a data-l10n-name="privacy">Повідомлення про приватність</a>.
 onboarding-sync-form-input =
     .placeholder = Е-пошта
 onboarding-sync-form-continue-button = Продовжити
@@ -105,7 +103,7 @@ onboarding-ghostery-text = Завантажуйте сторінки швидш�
 onboarding-fxa-title = Синхронізувати
 onboarding-fxa-text = Зареєструйтеся в { -fxaccount-brand-name(case: "dat") } і синхронізуйте свої закладки, паролі та відкриті вкладки всюди, де ви використовуєте { -brand-short-name }.
 onboarding-tracking-protection-title2 = Захист від стеження
-onboarding-tracking-protection-text2 = { -brand-short-name } допомагає запобігти стеженню веб-сайтами за вами в мережі, ускладнюючи рекламі переслідувати вас.
+onboarding-tracking-protection-text2 = { -brand-short-name } допомагає запобігти стеженню вебсайтами за вами в мережі, ускладнюючи рекламі переслідувати вас.
 onboarding-tracking-protection-button2 = Як це працює
 onboarding-data-sync-title = Синхронізуйте свої налаштування
 # "Sync" is short for synchronize.

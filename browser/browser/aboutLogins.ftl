@@ -48,7 +48,7 @@ login-list-count =
 login-list-sort-label-text = Сортувати:
 login-list-name-option = Ім'я (A-Z)
 login-list-name-reverse-option = Назва (Z-A)
-login-list-breached-option = Зламані веб-сайти
+login-list-breached-option = Зламані вебсайти
 login-list-last-changed-option = Змінено
 login-list-last-used-option = Використано
 login-list-intro-title = Паролів не знайдено
@@ -59,7 +59,7 @@ login-list-item-title-new-login = Новий запис
 login-list-item-subtitle-new-login = Введіть облікові дані
 login-list-item-subtitle-missing-username = (без імені користувача)
 about-logins-list-item-breach-icon =
-    .title = Зламаний веб-сайт
+    .title = Зламаний вебсайт
 
 ## Introduction screen
 
@@ -76,7 +76,7 @@ about-logins-intro-import = Якщо ваші паролі збережено в
 login-item-new-login-title = Створити новий запис
 login-item-edit-button = Змінити
 about-logins-login-item-remove-button = Вилучити
-login-item-origin-label = Адреса веб-сайту
+login-item-origin-label = Адреса вебсайту
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ім'я користувача
@@ -139,7 +139,7 @@ confirm-discard-changes-dialog-confirm-button = Відхилити
 
 ## Breach Alert notification
 
-breach-alert-text = З часу останнього оновлення облікових даних, з цього веб-сайту було викрито або викрадено паролі. Змініть пароль, щоб захистити свій обліковий запис.
+breach-alert-text = З часу останнього оновлення облікових даних, з цього вебсайту було викрито або викрадено паролі. Змініть пароль, щоб захистити свій обліковий запис.
 breach-alert-link = Дізнатися більше про цей витік даних.
 breach-alert-dismiss =
     .title = Закрити це попередження
