@@ -9,6 +9,7 @@ forward = Taakse
 reload = Päivitä
 home = Aloitussivu
 fullscreen = Kokoruututila
+touchbar-fullscreen-exit = Poistu kokoruututilasta
 find = Etsi
 new-tab = Uusi välilehti
 add-bookmark = Lisää kirjanmerkki
@@ -33,5 +34,5 @@ search-opentabs = Avoimet välilehdet
 search-tags = Tunnisteet
 search-titles = Otsikot
 
-
+##
 
