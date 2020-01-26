@@ -277,20 +277,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Керувати використанням програмного забезпечення DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Відкрити MIDI панель">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ви надали цьому веб-сайту додаткові дозволи.">
-
-<!ENTITY urlbar.cameraBlocked.tooltip            "Ви заблокували камеру для цього веб-сайту.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Ви заблокували мікрофон для цього веб-сайту.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Ви заблокували доступ до екрану для цього веб-сайту.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Ви заблокували інформацію розташування для цього веб-сайту.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ви заблокували сповіщення для цього веб-сайту.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ви заблокували постійне сховище для цього веб-сайту.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Ви заблокували виринаючі вікна для цього веб-сайту.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ви заблокували автовідтворення медіа зі звуком для цього веб-сайту.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Ви заблокували видобування даних canvas для цього веб-сайту.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ви заблокували камеру для цього вебсайту.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Ви заблокували мікрофон для цього вебсайту.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ви заблокували доступ до екрану для цього вебсайту.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ви заблокували інформацію розташування для цього вебсайту.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ви заблокували сповіщення для цього вебсайту.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ви заблокували постійне сховище для цього вебсайту.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Ви заблокували виринаючі вікна для цього вебсайту.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ви заблокували автовідтворення медіа зі звуком для цього вебсайту.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Ви заблокували видобування даних canvas для цього вебсайту.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ви заборонили використання Adobe Flash на цьому сайті.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Ви заблокували MIDI доступ для цього веб-сайту.">
-<!ENTITY urlbar.installBlocked.tooltip           "Ви заблокували встановлення додатка з цього веб-сайту.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Ви заблокували MIDI доступ для цього вебсайту.">
+<!ENTITY urlbar.installBlocked.tooltip           "Ви заблокували встановлення додатка з цього вебсайту.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ви надали цьому вебсайту додаткові дозволи.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
@@ -868,13 +868,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Ваше з'єднання з цим сайтом не є приватним. Інформація, яку ви відправляєте може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).">
 <!ENTITY identity.description.insecureLoginForms "Введені на цій сторінці дані входу не захищені і можуть бути перехоплені.">
-<!ENTITY identity.description.weakCipher "Ваше з'єднання з цим веб-сайтом використовує слабке шифрування і не є приватним.">
-<!ENTITY identity.description.weakCipher2 "Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.">
+<!ENTITY identity.description.weakCipher "Ваше з'єднання з цим вебсайтом використовує слабке шифрування і не є приватним.">
+<!ENTITY identity.description.weakCipher2 "Інші люди можуть переглядати вашу інформацію чи змінювати поведінку вебсайту.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; заблокував небезпечні частини цієї сторінки.">
 <!ENTITY identity.description.passiveLoaded "Ваше з'єднання не є приватним й інформація, якою ви ділитесь з сайтом може бути переглянута іншими.">
-<!ENTITY identity.description.passiveLoaded2 "Цей веб-сайт має вміст, що не є безпечним (наприклад, зображення).">
+<!ENTITY identity.description.passiveLoaded2 "Цей вебсайт має вміст, що не є безпечним (наприклад, зображення).">
 <!ENTITY identity.description.passiveLoaded3 "Хоча &brandShortName; заблокував деякий вміст, все ж на сторінці ще залишається вміст, що не є безпечним (наприклад, зображення).">
-<!ENTITY identity.description.activeLoaded "Цей веб-сайт має вміст, що не є безпечним (наприклад, сценарії) і ваше з'єднання з ним не є приватним.">
+<!ENTITY identity.description.activeLoaded "Цей вебсайт має вміст, що не є безпечним (наприклад, сценарії) і ваше з'єднання з ним не є приватним.">
 <!ENTITY identity.description.activeLoaded2 "Інформація, якою ви ділитесь з цим сайтом може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).">
 <!ENTITY identity.description.customRoot "Mozilla не розпізнає цього видавця сертифіката. Він міг бути доданий вашою операційною системою чи адміністратором.">
 
@@ -938,15 +938,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Чому?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокування їх може пошкодити елементи деяких веб-сайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокування їх може пошкодити елементи деяких вебсайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Всі елементи стеження на цьому сайті були завантажені, тому що захист вимкнено.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; не виявив відомих елементів стеження на цій сторінці.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ці куки переслідують вас від одного сайту до іншого, з метою збирання даних про вашу діяльність онлайн. Вони встановлюються сторонніми рекламними й аналітичними компаніями.">
 <!ENTITY protections.cryptominers.description "Криптомайнери використовують ресурси вашої системи для створення цифрових грошей. Криптомайнингові скрипти споживають заряд вашого акумулятора, сповільнюють роботу комп'ютера, а також можуть збільшити ваші витрати на електроенергію.">
-<!ENTITY protections.fingerprinters.description "Засоби зчитування відбитку браузера збирають дані про налаштування вашого браузера і комп'ютера, з метою створення вашого профілю. Використовуючи такий цифровий відбиток, вони можуть стежити за вами на багатьох різних веб-сайтах.">
-<!ENTITY protections.trackingContent2.description "Веб-сайти можуть завантажувати зовнішню рекламу, відео, а також інший вміст з кодом стеження. Блокування такого вмісту може допомогти сайтам швидше завантажуватись, але при цьому деякі кнопки, поля форм і входів можуть не працювати.">
-<!ENTITY protections.socialMediaTrackers.description "Соціальні мережі розміщують елементи стеження на інших веб-сайтах, щоб стежити за вашими діями в інтернеті. Це дозволяє їм дізнаватися більше про вас, окрім того, чим ви ділитеся в своєму профілі.">
+<!ENTITY protections.fingerprinters.description "Засоби зчитування відбитку браузера збирають дані про налаштування вашого браузера і комп'ютера, з метою створення вашого профілю. Використовуючи такий цифровий відбиток, вони можуть стежити за вами на багатьох різних вебсайтах.">
+<!ENTITY protections.trackingContent2.description "Вебсайти можуть завантажувати зовнішню рекламу, відео, а також інший вміст з кодом стеження. Блокування такого вмісту може допомогти сайтам швидше завантажуватись, але при цьому деякі кнопки, поля форм і входів можуть не працювати.">
+<!ENTITY protections.socialMediaTrackers.description "Соціальні мережі розміщують елементи стеження на інших вебсайтах, щоб стежити за вашими діями в інтернеті. Це дозволяє їм дізнаватися більше про вас, окрім того, чим ви ділитеся у своєму профілі.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -1007,11 +1007,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Звіт про проблему">
 <!ENTITY contentBlocking.breakageReportView.label "Звіт про проблему">
-<!ENTITY contentBlocking.breakageReportView2.description "Блокування вмісту може пошкодити роботу деяких веб-сайтів. Коли ви звітуєте про проблеми, ви допомагаєте покращити &brandShortName;. (В Mozilla відправиться URL-адреса, а також інформація про налаштування вашого браузера.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Блокування вмісту може пошкодити роботу деяких вебсайтів. Коли ви звітуєте про проблеми, ви допомагаєте покращити &brandShortName;. (В Mozilla відправиться URL-адреса, а також інформація про налаштування вашого браузера.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Докладніше">
 
 <!ENTITY contentBlocking.breakageReportView.title "Повідомити про пошкоджений сайт">
-<!ENTITY contentBlocking.breakageReportView3.description "Блокування певних елементів стеження може призвести до проблем з деякими веб-сайтами. Звіт про такі проблеми, допомагає покращувати роботу &brandShortName;. При надсиланні цього звіту, в Mozilla відправиться URL-адреса з інформацією про налаштування вашого браузера.">
+<!ENTITY contentBlocking.breakageReportView3.description "Блокування певних елементів стеження може призвести до проблем з деякими вебсайтами. Звіт про такі проблеми, допомагає покращувати роботу &brandShortName;. При надсиланні цього звіту, в Mozilla відправиться URL-адреса з інформацією про налаштування вашого браузера.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Докладніше">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Які у вас виникли проблеми? (Необов'язково)">

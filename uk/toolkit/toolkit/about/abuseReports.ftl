@@ -72,19 +72,19 @@ abuse-report-settings-suggestions-homepage = Зміна домівки і сто
 abuse-report-deceptive-reason = Видавання себе за щось інше
 abuse-report-deceptive-reason-v2 = Видавання себе за щось інше
 abuse-report-deceptive-example = Наприклад: Опис чи зображення, що вводять в оману
-abuse-report-broken-reason-extension = Не працює, пошкоджує веб-сайти, або сповільнює роботу { -brand-product-name }
+abuse-report-broken-reason-extension = Не працює, пошкоджує вебсайти, або сповільнює роботу { -brand-product-name }
 abuse-report-broken-reason-theme = Не працює чи пошкоджує вигляд браузера
-abuse-report-broken-reason-extension-v2 = Не працює, пошкоджує веб-сайти, або сповільнює роботу { -brand-product-name }
+abuse-report-broken-reason-extension-v2 = Не працює, пошкоджує вебсайти, або сповільнює роботу { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Не працює чи пошкоджує вигляд браузера
-abuse-report-broken-example = Наприклад: Повільна робота, труднощі з використанням, або не працює; частини веб-сайтів не завантажуються, або виглядають незвично
+abuse-report-broken-example = Наприклад: Повільна робота, труднощі з використанням, або не працює; частини вебсайтів не завантажуються, або виглядають незвично
 abuse-report-broken-suggestions-extension =
     Схоже, ви виявили помилку. Окрім надсилання скарги, найкращим способом
-    вирішення проблеми буде зв'язок із розробником розширення.
-    <a data-l10n-name="support-link">Відвідайте веб-сайт розширення</a> для отримання інформації про розробника.
+    розв'язання проблеми буде зв'язок із розробником розширення.
+    <a data-l10n-name="support-link">Відвідайте вебсайт розширення</a> для отримання інформації про розробника.
 abuse-report-broken-suggestions-theme =
     Схоже, ви виявили помилку. Окрім надсилання скарги, найкращим способом
-    вирішення проблеми буде зв'язок із розробником теми.
-    <a data-l10n-name="support-link">Відвідайте веб-сайт теми</a> для отримання інформації про розробника.
+    розв'язання проблеми буде зв'язок із розробником теми.
+    <a data-l10n-name="support-link">Відвідайте вебсайт теми</a> для отримання інформації про розробника.
 abuse-report-policy-reason = Вміст з ненавистю, насильством чи незаконний
 abuse-report-policy-reason-v2 = Має ненависний, насильницький або незаконний вміст
 abuse-report-policy-suggestions =

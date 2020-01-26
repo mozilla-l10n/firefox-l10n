@@ -9,7 +9,7 @@ sync-disconnect-heading = Ви хочете також вилучити дані
 sync-disconnect-remove-sync-caption = Вилучити дані { -sync-brand-name(case: "gen") }
 sync-disconnect-remove-sync-data = Закладки, історія, паролі та інші дані
 sync-disconnect-remove-other-caption = Вилучити інші особисті дані
-sync-disconnect-remove-other-data = Куки, кеш, автономні дані веб-сайтів та інше
+sync-disconnect-remove-other-data = Куки, кеш, автономні дані вебсайтів та інше
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Від'єднання…
 sync-disconnect-cancel =
