@@ -9,6 +9,7 @@ screenshots-cancel-button = रद्द करें
 screenshots-save-visible-button = दृश्यमान सहेजें
 screenshots-save-page-button = पूर्ण पृष्ठ सहेजें
 screenshots-download-button = डाउनलोड करें
+screenshots-copy-button = प्रतिलिपि बनाएँ
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = लिंक की नक़ल की गयी
 screenshots-notification-link-copied-details = आपके शॉट के लिंक क्लिपबोर्ड पर कॉपी किए गए हैं. पेस्ट करने के लिए { screenshots-meta-key }-V दबाएँ.
+screenshots-notification-image-copied-title = शॉट प्रतिलिपि बनाई गई
+screenshots-notification-image-copied-details = आपके शॉट के लिंक क्लिपबोर्ड पर कॉपी किए गए हैं. पेस्ट करने के लिए { screenshots-meta-key }-V दबाएँ.
 screenshots-request-error-title = कार्यरत नहीं है.
 screenshots-request-error-details = क्षमा करें! हम आपके शॉट को सहेज़ नहीं सके. कृपया बाद में पुन: प्रयास करें.
 screenshots-connection-error-title = हम आपके स्क्रीनशॉट से जुड़ नहीं सकते हैं.
