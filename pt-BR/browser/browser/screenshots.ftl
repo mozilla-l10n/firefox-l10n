@@ -14,7 +14,13 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Link copiado
 screenshots-notification-link-copied-details = O link da sua captura foi copiado para a área de transferência. Pressione { screenshots-meta-key }-V para colar.
+screenshots-request-error-title = Oops! Fora do ar.
+screenshots-connection-error-title = Não conseguimos nos conectar às suas capturas de tela.
+screenshots-connection-error-details = Por favor, verifique a sua conexão com a Internet. Se consegue conectar-se à Internet, pode haver um problema temporário com o serviço { -screenshots-brand-name }.
+screenshots-login-error-details = Não conseguimos salvar sua captura porque há um problema com o serviço { -screenshots-brand-name }. Por favor, tente novamente mais tarde.
 screenshots-unshootable-page-error-title = Não conseguimos capturar a tela nesta página.
+screenshots-self-screenshot-error-title = Você não pode capturar uma página do { -screenshots-brand-name }!
 screenshots-empty-selection-error-title = Sua seleção é muito pequena
 screenshots-private-window-error-details = Lamentamos o inconveniente. Estamos trabalhando neste recurso para lançamentos futuros.
+screenshots-generic-error-title = Uoou! O Firefox Screenshot enlouqueceu.
 screenshots-generic-error-details = Não temos certeza do que acabou de acontecer. Tentar novamente ou fazer uma captura de uma página diferente?
