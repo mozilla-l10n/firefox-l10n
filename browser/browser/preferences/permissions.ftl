@@ -139,6 +139,9 @@ permissions-site-location-disable-desc = Tämä estää kaikki yllä mainitsemat
 permissions-site-xr-window =
     .title = Asetukset - Virtuaalitodellisuuden oikeudet
     .style = { permissions-window.style }
+permissions-site-xr-disable-label =
+    .label = Estä uudet lupapyynnöt virtuaalitodellisuuslaitteiden käyttämiseksi
+permissions-site-xr-disable-desc = Tämä estää kaikki yllä mainitsemattomat sivustot pyytämästä lupaa käyttää virtuaalitodellisuuslaitteitasi. Virtuaalitodellisuuslaitteitesi käytön estäminen voi rikkoa joitain sivuston ominaisuuksia.
 
 ## Site Permissions - Camera
 
