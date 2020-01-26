@@ -17,6 +17,7 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = تبط نقل کر دیا گیا
 screenshots-notification-link-copied-details = آُپ کی شاٹس کا ربط و تختہ تراشہ پر نقل کر دیا گیا ہے۔ چسپاں کرنے کے لیئے { screenshots-meta-key }-V دبائِں۔
+screenshots-notification-image-copied-title = نقل شدہ شاٹ
 screenshots-request-error-title = خراب ہے۔
 screenshots-request-error-details = معاف کیجیئے گا! ہم آپ کی شاٹ محفوظ نہیں کر سکے۔ براہ مہربانی کچھ دیر بعد کوشش کریں۔
 screenshots-connection-error-title = ہم آپ کی اسکرین شاٹس سے نہیں جڑ سکتے۔
@@ -26,5 +27,6 @@ screenshots-unshootable-page-error-title = ہم اس صفحہ کی اسکرین 
 screenshots-unshootable-page-error-details = یہ ایک میعاری صفحہ نہہیں، تو آپ اسکی اسکرین شاٹ نہیں لے سکتے۔
 screenshots-self-screenshot-error-title = آپ Firefox اسکرین شاٹس صفحے! کی ایک شاٹ نہیں لے سکت
 screenshots-empty-selection-error-title = آپ کا انتخاب بہت چھوٹا ہے
+screenshots-private-window-error-title = اسکرین شاٹ نجی برائوزنگ موڈ مییں نااہل بنایا گیا ہے
 screenshots-generic-error-title = لاجواب! { -screenshots-brand-name } بہت مشہور ہو گیا۔
 screenshots-generic-error-details = ہمیں یقین نہیں کہ کیا ہوا تھا۔ خیال رکھ کر پھر کوشش کریں یا بھر مختلف صفحہ کی تصویرلیں؟
