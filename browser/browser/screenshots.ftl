@@ -15,6 +15,8 @@ screenshots-meta-key =
         [macos] ⌘
        *[other] Ctrl
     }
+screenshots-notification-link-copied-title = Colegamento copiòu inti aponti
+screenshots-notification-link-copied-details = O colegamento a l'inmagine o l'é stæto copiòu inti aponti. Sciacca{ screenshots-meta-key }-V pe incolalo.
 screenshots-notification-image-copied-details = A föto a l'é stæta copiâ inti aponti. Sciacca { screenshots-meta-key }-V pe incolâ.
 screenshots-request-error-title = Feua serviçio.
 screenshots-request-error-details = Ne spiaxe! No poemmo sarvâ l'inmagine. Pe piaxei preuva torna dòppo.
