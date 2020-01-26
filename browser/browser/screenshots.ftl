@@ -9,7 +9,9 @@ screenshots-cancel-button = ยกเลิก
 screenshots-save-visible-button = บันทึกส่วนที่มองเห็น
 screenshots-save-page-button = บันทึกเต็มหน้า
 screenshots-download-button = ดาวน์โหลด
+screenshots-download-button-tooltip = ดาวน์โหลดภาพหน้าจอ
 screenshots-copy-button = คัดลอก
+screenshots-copy-button-tooltip = คัดลอกภาพหน้าจอไปยังคลิปบอร์ด
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -18,6 +20,7 @@ screenshots-meta-key =
 screenshots-notification-link-copied-title = คัดลอกลิงก์แล้ว
 screenshots-notification-link-copied-details = คัดลอกลิงก์ไปยังภาพหน้าจอของคุณไปยังคลิปบอร์ดแล้ว กด { screenshots-meta-key }-V เพื่อวาง
 screenshots-notification-image-copied-title = คัดลอกภาพหน้าจอแล้ว
+screenshots-notification-image-copied-details = คัดลอกภาพของคุณไปยังคลิปบอร์ดแล้ว กด { screenshots-meta-key }-V เพื่อวาง
 screenshots-request-error-title = ใช้งานไม่ได้
 screenshots-request-error-details = ขออภัย! เราไม่สามารถบันทึกภาพหน้าจอของคุณ โปรดลองอีกครั้งในภายหลัง
 screenshots-connection-error-title = เราไม่สามารถเชื่อมต่อกับภาพหน้าจอของคุณ
