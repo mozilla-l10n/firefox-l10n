@@ -9,6 +9,7 @@ screenshots-cancel-button = Utzi
 screenshots-save-visible-button = Gorde ikusgai dagoena
 screenshots-save-page-button = Gorde orri osoa
 screenshots-download-button = Deskargatu
+screenshots-copy-button = Kopiatu
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
