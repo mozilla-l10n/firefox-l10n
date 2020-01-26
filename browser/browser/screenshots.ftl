@@ -9,7 +9,9 @@ screenshots-cancel-button = Nuligi
 screenshots-save-visible-button = Konservi tion, kio videblas
 screenshots-save-page-button = Konservi tutan paĝon
 screenshots-download-button = Elŝuti
+screenshots-download-button-tooltip = Elŝuti ekrankopion
 screenshots-copy-button = Kopii
+screenshots-copy-button-tooltip = Kopii ekrankopion al tondujo
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
