@@ -22,6 +22,8 @@ graph-total-tracker-summary =
         [few] <b>{ $count }</b> sledilci zavrnjeni od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> sledilcev zavrnjenih od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } še naprej zavrača sledilce v zasebnih oknih, vendar ne vodi seznama zavrnjenih vsebin.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Sledilci, ki jih je { -brand-short-name } zavrnil v tem tednu
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

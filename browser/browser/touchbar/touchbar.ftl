@@ -9,6 +9,7 @@ forward = Naprej
 reload = Ponovno naloži
 home = Domov
 fullscreen = Cel zaslon
+touchbar-fullscreen-exit = Izhod iz celozaslonskega načina
 find = Najdi
 new-tab = Nov zavihek
 add-bookmark = Dodaj zaznamek
@@ -33,5 +34,5 @@ search-opentabs = odprtih zavihkih
 search-tags = oznakah
 search-titles = naslovih
 
-
+##
 

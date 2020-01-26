@@ -331,7 +331,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
@@ -588,6 +588,9 @@ containers-header = Vsebniški zavihki
 containers-add-button =
     .label = Dodaj nov vsebnik
     .accesskey = D
+containers-new-tab-check =
+    .label = Izberi vsebnik za vsak nov zavihek
+    .accesskey = I
 containers-preferences-button =
     .label = Nastavitve
 containers-remove-button =
@@ -926,7 +929,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Po meri
     .accesskey = m
 
-
+##
 
 content-blocking-etp-standard-desc = Uravnotežena zaščita in delovanje. Strani bodo delovale običajno.
 content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči nedelovanje nekaterih strani ali vsebine.
