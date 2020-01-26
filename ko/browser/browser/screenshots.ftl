@@ -4,7 +4,7 @@
 
 screenshots-context-menu = 스크린샷 찍기
 screenshots-my-shots-button = 내 스크린샷
-screenshots-instructions = 캡처 할 범위를 드래그하거나 클릭하세요. ESC를 누르면 취소됩니다.
+screenshots-instructions = 캡처할 영역을 드래그하거나 클릭하세요. ESC를 누르면 취소됩니다.
 screenshots-cancel-button = 취소
 screenshots-save-visible-button = 보이는 내용 저장
 screenshots-save-page-button = 전체 페이지 저장
@@ -18,7 +18,7 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = 링크 복사됨
-screenshots-notification-link-copied-details = 방금 찍은 스냅샷의 링크가 클립보드에 저장됐습니다. 붙여넣으려면 { screenshots-meta-key }-V를 누르세요.
+screenshots-notification-link-copied-details = 스크린샷의 링크가 클립보드에 복사되었습니다. 붙여넣으려면 { screenshots-meta-key }-V를 누르세요.
 screenshots-notification-image-copied-title = 스크린샷 복사됨
 screenshots-notification-image-copied-details = 스크린샷이 클립보드에 복사되었습니다. 붙여넣으려면 { screenshots-meta-key }-V를 누르세요.
 screenshots-request-error-title = 문제가 발생했습니다.
@@ -30,7 +30,7 @@ screenshots-unshootable-page-error-title = 이 페이지를 캡처할 수 없습
 screenshots-unshootable-page-error-details = 표준 웹 페이지가 아니어서 스크린샷을 찍을 수 없습니다.
 screenshots-self-screenshot-error-title = { -screenshots-brand-name } 페이지는 캡처할 수 없어요!
 screenshots-empty-selection-error-title = 선택영역이 너무 작음
-screenshots-private-window-error-title = 개인정보 보호 모드에서는 스크린샷이 비활성화 됨
+screenshots-private-window-error-title = 사생활 보호 모드에서는 { -screenshots-brand-name }이 비활성화됨
 screenshots-private-window-error-details = 불편을 끼쳐 드려서 죄송합니다. 다음 출시에 넣을 수 있도록 기능을 개선중입니다.
 screenshots-generic-error-title = 이런! { -screenshots-brand-name }이 망가졌네요.
 screenshots-generic-error-details = 무슨 일이 있었는지 모르겠네요. 다시 시도하시거나 다른 페이지 스크린샷을 찍어 보시겠어요?
