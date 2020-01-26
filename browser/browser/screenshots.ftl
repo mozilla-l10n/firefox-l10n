@@ -23,5 +23,6 @@ screenshots-login-error-details = Нам не ўдалося захаваць в
 screenshots-unshootable-page-error-title = Мы не можам зрабіць скрыншот гэтай старонкі.
 screenshots-unshootable-page-error-details = Гэта не стандартная вэб-старонка, таму вы не можаце зрабіць яе скрыншот.
 screenshots-self-screenshot-error-title = Вы не можаце зрабіць здымак старонкі { -screenshots-brand-name }!
+screenshots-empty-selection-error-title = Абраная вобласць занадта малая
 screenshots-generic-error-title = Вой! З { -screenshots-brand-name } нешта не так.
 screenshots-generic-error-details = Мы не ўпэўненыя, у чым праблема. Паспрабаваць яшчэ раз, ці зрабіць здымак іншай старонкі?
