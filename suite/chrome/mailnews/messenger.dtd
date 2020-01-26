@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "Renomear pasta…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY compactFolders.label "Compactar pastas">
-<!ENTITY compactFolders.accesskey		"p">
+<!ENTITY compactFolders.accesskey "p">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixo">
-<!ENTITY emptyTrashCmd.accesskey		"x">
+<!ENTITY emptyTrashCmd.accesskey "x">
 <!ENTITY offlineMenu.label "Modo desligado">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY synchronizeOfflineCmd.label "Transferir ou sincronizar agora…">
@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mensagens marcadas">
 <!ENTITY selectFlaggedCmd.accesskey "a">
+<!ENTITY menuFavoriteFolder.label "Pasta favorita">
+<!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd.label "Propriedades…">
 <!ENTITY folderPropsFolderCmd.label "Propriedades da pasta…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Mensagem marcada">
 <!ENTITY prevFlaggedMsgCmd.accesskey "r">
+<!ENTITY folderMenu.label "Pasta">
+<!ENTITY folderMenu.accesskey "t">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "c">
 
@@ -284,23 +288,23 @@
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "Responder">
 <!ENTITY replyMsgCmd.accesskey "R">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Responder à lista">
 <!ENTITY replyListCmd.accesskey "d">
 <!ENTITY replyNewsgroupCmd.label "Responder ao grupo">
-<!ENTITY replyNewsgroupCmd.accesskey	"g">
+<!ENTITY replyNewsgroupCmd.accesskey "g">
 <!ENTITY replySenderCmd.label "Responder ao remetente">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
-<!ENTITY replyToAllMsgCmd.accesskey	"t">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "t">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Responder ao remetente e ao grupo">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Responder a todos os destinatários">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Avançar">
 <!ENTITY forwardMsgCmd.accesskey "A">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Reencaminhar como">
 <!ENTITY forwardAsMenu.accesskey "o">
 <!ENTITY forwardAsInline.label "Inline">
@@ -442,6 +446,7 @@
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY stopButton.tooltip "Parar descarga em curso">
 <!ENTITY throbber.tooltip "Ir para a página inicial do &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
 <!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como lixo">
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não sendo lixo">
 
@@ -525,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Propriedades…">
 <!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Pasta favorita">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Definições…">
 <!ENTITY folderContextSettings.accesskey "e">
 
