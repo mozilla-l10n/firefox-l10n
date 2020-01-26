@@ -116,6 +116,16 @@ cfr-whatsnew-permission-prompt-cta = Ne saber mai
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Generador d’emprentas numericas
+       *[other] Generadors d’emprentas numericas
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Generadors d’emprentas numericas
 
 ## Bookmark Sync
 

@@ -83,8 +83,9 @@ newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-header = Vòstra vida privada es importanta.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Suprimir lo marcapagina
@@ -159,6 +160,7 @@ newtab-discovery-empty-section-topstories-loading = Cargament…
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tèmas populars :
 newtab-pocket-more-recommendations = Mai de recomandacions
+newtab-pocket-whats-pocket = Qu’es aquò { -pocket-brand-name } ?
 newtab-pocket-cta-button = Installar { -pocket-brand-name }
 
 ## Error Fallback Content.
