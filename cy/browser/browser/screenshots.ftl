@@ -9,7 +9,9 @@ screenshots-cancel-button = Diddymu
 screenshots-save-visible-button = Cadw'r gweladwy
 screenshots-save-page-button = Cadw tudalen lawn
 screenshots-download-button = Llwytho i Lawr
+screenshots-download-button-tooltip = Llwytho i lawr llun sgrin
 screenshots-copy-button = Copïo
+screenshots-copy-button-tooltip = Copïo llun sgrin i'r clipfwrdd
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
