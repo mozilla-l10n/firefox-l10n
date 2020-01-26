@@ -114,7 +114,7 @@ main-context-menu-media-pause =
     .label = Pausa
     .accesskey = s
 
-
+##
 
 main-context-menu-media-mute =
     .label = Ljud av
@@ -156,7 +156,7 @@ main-context-menu-media-hide-controls =
     .label = Dölj kontroller
     .accesskey = k
 
-
+##
 
 main-context-menu-media-video-fullscreen =
     .label = Helskärm
@@ -235,6 +235,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Visa bakgrundsbild
     .accesskey = d
+main-context-menu-generate-new-password =
+    .label = Använd genererat lösenord…
+    .accesskey = A
 main-context-menu-keyword =
     .label = Lägg till ett nyckelord för denna sökning…
     .accesskey = e
