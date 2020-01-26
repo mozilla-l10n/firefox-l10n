@@ -9,7 +9,9 @@ screenshots-cancel-button = Sefsex
 screenshots-save-visible-button = Sekles ayen ibanen
 screenshots-save-page-button = Sekles asebter meṛṛa
 screenshots-download-button = Sider
+screenshots-download-button-tooltip = Sider tuṭṭfa n ugdil
 screenshots-copy-button = Nγel
+screenshots-copy-button-tooltip = Nɣel tuṭṭfa ɣef afus
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
