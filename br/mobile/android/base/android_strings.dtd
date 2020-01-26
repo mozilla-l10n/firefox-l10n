@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "Nebeutoc\&apos;h a roadennoù, muioc\&apos;h a espernoù.">
 <!ENTITY firstrun_data_subtext2 "Stankañ ar skeudennoù evit dispign nebeutoc\&apos;h a roadennoù war kement lec\&apos;hienn gweladennet ganeoc\&apos;h.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Kont">
-<!ENTITY firstrun_sync_message2 "Adloc\&apos;hit el lec\&apos;h m\&apos;ho peus paouezet.">
 <!ENTITY firstrun_sync_message3 "Goubredit ho sinedoù, ho roll istor hag ho kerioù-tremen war ho pellgomzer.">
 <!ENTITY firstrun_sync_subtext2 "Grit gant Sync evit adkavout ar sinedoù, ar gerioù-tremen, hag an holl draoù enrollet e &brandShortName; war ho holl drevnadoù.">
 <!ENTITY newfirstrun_sync_subtext "Goubredit ar pezh a enrollit war hoc\&apos;h hezougell evit Firefox war urzhiataer, en un doare prevez ha diogel.">
-<!ENTITY updatednewfirstrun_sync_subtext "Kennaskit d\&apos;ho kont evit kaout ar muiañ eus &brandShortName;">
-<!ENTITY firstrun_signin_message "Kennaskit, krogit ganti">
 <!ENTITY firstrun_sendtab_title "Kas an ivinell">
 <!ENTITY firstrun_sendtab_message "Rannañ ivinelloù eus ho pellgomzer betek hoc\&apos;h urzhiataer hep gortoz.">
-<!ENTITY firstrun_signin_button "Kennaskañ ouzh Sync">
-<!ENTITY newfirstrun_signin_button "Gweredekaat Sync">
-<!ENTITY updatednewfirstrun_signin_button "Kennaskit da &brandShortName;">
+<!ENTITY firstrun_signin_message "Kennaskit, krogit ganti">
 <!ENTITY onboard_start_button_browser "Krog da verdeiñ">
 <!ENTITY firstrun_button_notnow "Ket evit ar mare">
 <!ENTITY firstrun_button_next "War-lerc\&apos;h">
-
-<!ENTITY firstrun_signin_button2 "Kennaskañ">
+<!ENTITY firstrun_signup_button "Marilhañ">
 
 <!ENTITY firstrun_tabqueue_title "Ereoù">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "C\&apos;hwi">
 <!ENTITY firstrun_account_message "&brandShortName; ho peus war un trevnad all?">
-
-<!ENTITY firstrun_signup_button "Marilhañ">
 
 <!ENTITY  onboard_start_restricted1 "Chomit diarvar ha dalc\&apos;hit ar mestroniezh gant stumm eeunaet &brandShortName;.">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Kennasket oc\&apos;h ouzh">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Donemat war &brandShortName;">
 <!ENTITY activity_stream_signin_description "Krogit da c\&apos;houbredañ sinedoù, gerioù-tremen, ha muioc\&apos;h c\&apos;hoazh gant ho kont Firefox.">
-<!ENTITY activity_stream_signin_button "Kennaskañ">
-
 <!ENTITY activity_stream_signup_button "Marilhañ">
 <!ENTITY activity_stream_signin_prompt "Ur gont hoc\&apos;h eus dija ?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Kennaskañ.">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Ho Firefox nevez-flamm a erruo e 2020">
+<!ENTITY activity_stream_firefox_promo_description "Da zont a-benn nebeud: digonusted gwellaet, gwarez heuliañ gwellaet ha keweriusterioù savet evit ho skoazell da glask, enrollañ ha rannañ ar pezh a blij deoc\&apos;h enlinenn.">
+<!ENTITY activity_stream_firefox_promo_button "Sellit un tañva">
 
 <!ENTITY activity_stream_topsites "Lec\&apos;hiennoù e-touez re wellañ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
