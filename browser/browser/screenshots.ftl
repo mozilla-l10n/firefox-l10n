@@ -9,7 +9,9 @@ screenshots-cancel-button = لغو
 screenshots-save-visible-button = ذخیره ناحیه قابل مشاهده
 screenshots-save-page-button = ذخیره صفحه کامل
 screenshots-download-button = دریافت
+screenshots-download-button-tooltip = دریافت تصاویرگرفته شده از صفحه
 screenshots-copy-button = رونوشت
+screenshots-copy-button-tooltip = برداشت تصاویرگرفته شده از صفحه به کلیپ بورد
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
