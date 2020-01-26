@@ -9,6 +9,7 @@ screenshots-cancel-button = Interrumper
 screenshots-save-visible-button = Memorisar la regiun visibla
 screenshots-save-page-button = Memorisar la pagina cumpletta
 screenshots-download-button = Telechargiar
+screenshots-copy-button = Copiar
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Copià la colliaziun
 screenshots-notification-link-copied-details = La colliaziun tar tes maletg da visur è vegnida copiada en l'archiv provisoric. Smatga { screenshots-meta-key }-V per l'encollar.
+screenshots-notification-image-copied-title = Copià il maletg
+screenshots-notification-image-copied-details = Tes maletg dal visur è vegnì copià en l'archiv provisoric. Smatga { screenshots-meta-key }-V per l'encollar.
 screenshots-request-error-title = Ord funcziun.
 screenshots-request-error-details = Perstgisa! I è actualmain betg pussibel da memorisar tes maletg da visur. Emprova p.pl. pli tard anc ina giada.
 screenshots-connection-error-title = Impussibel da connectar a tes maletgs da visur.
@@ -24,6 +27,7 @@ screenshots-login-error-details = Impussibel da memorisar tes maletg da virus pe
 screenshots-unshootable-page-error-title = Impussibel da far in maletg da visur da questa pagina.
 screenshots-unshootable-page-error-details = Quai n'è betg ina pagina web da standard, perquai n'èsi betg pussaivel da far in maletg da visur dad ella.
 screenshots-self-screenshot-error-title = Impussibel da far in maletg da visur dad ina pagina da { -screenshots-brand-name }.
+screenshots-empty-selection-error-title = La zona selecziunada è memia pitschna
 screenshots-private-window-error-title = { -screenshots-brand-name } è deactivà en il modus privat
 screenshots-private-window-error-details = Perstgisa las malempernaivladads. Nus furnin questa funcziun en ina da las proximas versiuns.
 screenshots-generic-error-title = Oh dieu! { -screenshots-brand-name } ha il singlut.
