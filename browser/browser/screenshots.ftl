@@ -9,6 +9,9 @@ screenshots-cancel-button = Tühista
 screenshots-save-visible-button = Salvesta nähtav
 screenshots-save-page-button = Salvesta terve leht
 screenshots-download-button = Laadi alla
+screenshots-download-button-tooltip = Ekraanipildi allalaadimine
+screenshots-copy-button = Kopeeri
+screenshots-copy-button-tooltip = Ekraanipildi vahemällu kopeerimine
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +19,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Link kopeeriti
 screenshots-notification-link-copied-details = Link sinu pildile kopeeriti lõikepuhvrisse. Asetamiseks vajuta { screenshots-meta-key }-V.
+screenshots-notification-image-copied-title = Pilt kopeeriti
+screenshots-notification-image-copied-details = Sinu pilt kopeeriti vahemällu. Asetamiseks vajuta { screenshots-meta-key }-V.
 screenshots-request-error-title = Tekkis viga.
 screenshots-request-error-details = Vabandame! Me ei suutnud su pilti salvestada. Palun proovi hiljem uuesti.
 screenshots-connection-error-title = Ühendumine sinu ekraanipiltidega ei õnnestunud.
