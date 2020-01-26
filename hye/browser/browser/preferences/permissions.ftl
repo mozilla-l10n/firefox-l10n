@@ -144,9 +144,7 @@ permissions-site-xr-window =
 
 permissions-site-camera-window =
     .title = Կարգաւորումներ՝ խցիկի թոյլտուութիւններ
-    .style =
-        	
-        { permissions-window.style }
+    .style = { permissions-window.style }
 permissions-site-camera-desc = Հետեւեալ կայքերը ձեր խցիկը մատչելու հարցում են կատարել: Դուք կարող եք հատկորոշել, թե որ կայքերը կարող են մատչել ձեր խցիկը: Նաեւ՝ կարող եք արգելափակել ձեր խցիկը մատչելու նոր հարցումները:
 permissions-site-camera-disable-label =
     .label = Արգելափակել ձեր խցիկը մատչելու նոր հարցումները
