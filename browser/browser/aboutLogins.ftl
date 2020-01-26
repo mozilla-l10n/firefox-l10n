@@ -2,17 +2,53 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-logins-page-title = Identificants e senhals
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Emportatz vòstres senhals pertot
+login-app-promo-subtitle = Telecargatz l’aplicacion { -lockwise-brand-name } per res
+login-app-promo-android =
+    .alt = Disponible sus Google Play
+login-app-promo-apple =
+    .alt = Telecargar de l’App Store
+login-filter =
+    .placeholder = Recercar d’identificants
+create-login-button = Crear un identificant novèl
+fxaccounts-sign-in-text = Accedissètz a vòstres senhals sus vòstres periferics
+fxaccounts-sign-in-button = Se connectar a { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gestion del compte
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Dobrir lo menú
+# This menuitem is only visible on Windows
+menu-menuitem-import = Importar los senhals…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Opcions
+       *[other] Preferéncias
+    }
+about-logins-menu-menuitem-help = Ajuda
+menu-menuitem-android-app = { -lockwise-brand-short-name } per Android
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } identificant
+       *[other] { $count } identificants
+    }
+login-list-sort-label-text = Triar per :
+login-list-name-option = Nom (A-Z)
+login-list-name-reverse-option = Nom (Z-A)
+login-list-last-changed-option = Darrièra modificacion
+login-list-last-used-option = Darrièra utilizacion
+login-list-intro-title = Cap d’identificant pas trobat
+about-logins-login-list-empty-search-title = Cap d’identificant pas trobat
+login-list-item-title-new-login = Identificant novèl
 login-list-item-subtitle-missing-username = (Pas cap de nom d’utilizaire)
 about-logins-list-item-breach-icon =
     .title = Site amb contengut expausat al public

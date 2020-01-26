@@ -20,6 +20,8 @@ onboarding-button-label-get-started = Per començar
 
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
 onboarding-welcome-form-header = Començatz aquí
+onboarding-join-form-email =
+    .placeholder = Picatz una adreça electronica
 onboarding-join-form-email-error = Cal una adreça electronica valida
 onboarding-join-form-continue = Contunhar
 # Text for link to submit the sign in form
@@ -78,6 +80,8 @@ onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
 onboarding-lockwise-passwords-button2 = Obténer l’aplicacion
 onboarding-lockwise-strong-passwords-button = Gerir vòstres identificants
 onboarding-facebook-container-button = Apondre l’extension
+onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senhals, e encara mai
+onboarding-import-browser-settings-button = Importar las donadas de Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

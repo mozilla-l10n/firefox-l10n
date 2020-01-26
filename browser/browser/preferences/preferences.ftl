@@ -46,6 +46,9 @@ category-search =
 pane-privacy-title = Vida privada e seguretat
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Assisténcia de { -brand-short-name }
 addons-button-label = Extensions e tèmas
 focus-search =
@@ -348,6 +351,10 @@ update-pref-write-failure-title = Fracàs d’escritura
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Enregistrament impossible de las preferéncias. Impossible d’escriure dins lo fichièr : { $path }
 update-in-progress-title = Actualizacion en cors
+update-in-progress-ok-button = &Ignorar
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Contunhar
 
 ## General Section - Performance
 
@@ -619,6 +626,9 @@ sync-currently-syncing-prefs =
         [windows] Opcions
        *[other] Preferéncias
     }
+sync-change-options =
+    .label = Modificar…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
@@ -675,6 +685,7 @@ sync-device-name-save =
     .accesskey = g
 sync-connect-another-device = Connectar un periferic de mai
 sync-manage-devices = Gerir los periferics
+sync-fxa-begin-pairing = Associar un periferic
 sync-tos-link = Condicions d'utilizacion
 sync-fxa-privacy-notice = Politica de confidencialitat
 
@@ -808,6 +819,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocatge de contengut
+content-blocking-enhanced-tracking-protection = Proteccion contra lo seguiment renfortida
 content-blocking-learn-more = Ne saber mai
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -837,10 +849,13 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-social-media-trackers = Traçadors de malhums socials
 content-blocking-all-cookies = Totes los cookies
 content-blocking-unvisited-cookies = Cookies dels sites pas visitats
 content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
+content-blocking-all-windows-tracking-content = Contengut utilizat per pistar totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
+content-blocking-fingerprinters = Generadors d’emprentas numericas
 content-blocking-warning-title = Atencion !
 content-blocking-learn-how = Ne saber mai
 content-blocking-warning-learn-how = M’ensenhar cossí far
@@ -865,6 +880,11 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Mai d’entresenhas
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Generadors d’emprentas numericas
+    .accesskey = G
 
 ## Privacy Section - Tracking
 
@@ -879,6 +899,7 @@ permissions-location = Localizacion
 permissions-location-settings =
     .label = Paramètres…
     .accesskey = A
+permissions-xr = Realitat virtuala
 permissions-xr-settings =
     .label = Paramètres…
     .accesskey = t
