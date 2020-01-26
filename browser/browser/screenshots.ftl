@@ -18,6 +18,7 @@ screenshots-meta-key =
 screenshots-notification-link-copied-title = Lenke kopiert
 screenshots-notification-link-copied-details = Lenka til skjermbildet ditt er kopiert til utklippstavla. Trykk på { screenshots-meta-key }-V for å lime inn.
 screenshots-notification-image-copied-title = Bilde kopiert
+screenshots-notification-image-copied-details = Bildet ditt er kopiert til utklippstavla. Trykk på { screenshots-meta-key }-V for å lime det inn.
 screenshots-request-error-title = I ustand.
 screenshots-request-error-details = Beklagar! Vi klarte ikkje å lagre skjermbiildet ditt. Prøv igjen seinare.
 screenshots-connection-error-title = Vi kan ikkje kople til skjermbilda dine.
