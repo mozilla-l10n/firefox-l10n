@@ -22,6 +22,7 @@ screenshots-notification-image-copied-details = A sua captura foi copiada para a
 screenshots-request-error-title = Fora de serviço.
 screenshots-request-error-details = Desculpe! Não conseguimos guardar a sua captura. Por favor tente novamente mais tarde.
 screenshots-connection-error-title = Não conseguimos ligar às suas capturas de ecrã.
+screenshots-connection-error-details = Por favor, verifique a sua ligação à Internet. Se consegue ligar-se à Internet, pode existir um problema temporário com o serviço { -screenshots-brand-name }.
 screenshots-login-error-details = Não conseguimos guardar a sua captura porque existe um problema com o serviço { -screenshots-brand-name }. Por favor tente novamente mais tarde.
 screenshots-unshootable-page-error-title = Não conseguimos capturar o ecrã nesta página.
 screenshots-unshootable-page-error-details = Esta não é uma página Web padrão, por isso não podemos tirar uma captura de ecrã da mesma.
