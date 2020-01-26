@@ -19,4 +19,4 @@ appmenuitem-zoom-reduce =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = 동기화하기
+    .label = 지금 동기화
