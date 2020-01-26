@@ -32,5 +32,5 @@ screenshots-self-screenshot-error-title = { -screenshots-brand-name } 페이지�
 screenshots-empty-selection-error-title = 선택 영역이 너무 작음
 screenshots-private-window-error-title = 사생활 보호 모드에서는 { -screenshots-brand-name }이 비활성화됨
 screenshots-private-window-error-details = 불편하게 해드려서 죄송합니다. 향후에 넣을 수 있도록 이 기능을 개발 중입니다.
-screenshots-generic-error-title = 이런! { -screenshots-brand-name }이 망가졌네요.
-screenshots-generic-error-details = 무슨 일이 있었는지 모르겠네요. 다시 시도하시거나 다른 페이지 스크린샷을 찍어 보시겠어요?
+screenshots-generic-error-title = { -screenshots-brand-name }이 고장났습니다.
+screenshots-generic-error-details = 무슨 일이 있었는지 잘 모르겠습니다. 다시 시도하시거나 다른 페이지의 스크린샷을 찍어 보시겠습니까?
