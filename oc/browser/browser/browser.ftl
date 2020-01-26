@@ -78,6 +78,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Mostrar lo messatge d'installation del modul
 urlbar-tip-help-icon =
     .title = Obténer d’ajuda
+urlbar-search-tips-confirm = Òc, plan comprés
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -171,10 +172,15 @@ identity-passive-loaded = D'elements de la pagina son pas segurs (coma los imatg
 identity-active-loaded = Avètz desactivat la proteccion sus aquela pagina.
 identity-weak-encryption = Aquela pagina utiliza un chiframent flac.
 identity-insecure-login-forms = Los identificants marcats sus aquela pagina pòdon far perilh.
+identity-permissions =
+    .value = Permissions
 identity-permissions-reload-hint = Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.
 identity-permissions-empty = Avètz donat pas cap de permission espaciala a aquel site.
 identity-clear-site-data =
     .label = Escafar los cookies e las donadas de site…
+identity-connection-not-secure-security-view = Sètz pas connectat amb seguretat a aquel site.
+identity-connection-verified = Sètz connectat amb seguretat a aquel site.
+identity-ev-owner-label = Certificat emés per :
 identity-remove-cert-exception =
     .label = Suprimir l'excepcion
     .accesskey = L
