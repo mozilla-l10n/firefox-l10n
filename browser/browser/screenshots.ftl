@@ -9,7 +9,9 @@ screenshots-cancel-button = 取消
 screenshots-save-visible-button = 截取可见范围
 screenshots-save-page-button = 截取整个页面
 screenshots-download-button = 下载
+screenshots-download-button-tooltip = 下载截图
 screenshots-copy-button = 复制
+screenshots-copy-button-tooltip = 复制截图到剪贴板
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
