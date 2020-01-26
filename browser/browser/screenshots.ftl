@@ -4,7 +4,7 @@
 
 screenshots-context-menu = Wykonaj zrzut ekranu
 screenshots-my-shots-button = Moje zrzuty
-screenshots-instructions = Przeciągnij lub kliknij na stronie, aby wybrać obszar. Naciśnij klawisz Esc, aby anulować.
+screenshots-instructions = Przeciągnij lub kliknij na stronie, aby zaznaczyć obszar. Naciśnij klawisz Esc, aby anulować.
 screenshots-cancel-button = Anuluj
 screenshots-save-visible-button = Zapisz widoczne
 screenshots-save-page-button = Zapisz całą stronę
@@ -30,7 +30,7 @@ screenshots-unshootable-page-error-title = Nie można wykonać zrzutu tej strony
 screenshots-unshootable-page-error-details = To nie jest standardowa strona internetowa, więc nie można wykonać jej zrzutu.
 screenshots-self-screenshot-error-title = Nie można wykonać zrzutu strony { -screenshots-brand-name }.
 screenshots-empty-selection-error-title = Zaznaczenie jest za małe
-screenshots-private-window-error-title = Firefox { -screenshots-brand-name } jest wyłączony w trybie prywatnym
+screenshots-private-window-error-title = { -screenshots-brand-name } jest wyłączony w trybie prywatnym
 screenshots-private-window-error-details = Przepraszamy za utrudnienia. Pracujemy nad dodaniem tej funkcji.
 screenshots-generic-error-title = { -screenshots-brand-name } wymknął się spod kontroli.
-screenshots-generic-error-details = Nie bardzo wiemy, co się wydarzyło. Spróbujesz ponownie lub wykonasz zrzut innej strony?
+screenshots-generic-error-details = Nie bardzo wiemy, co się wydarzyło. Chcesz spróbować ponownie lub wykonać zrzut innej strony?
