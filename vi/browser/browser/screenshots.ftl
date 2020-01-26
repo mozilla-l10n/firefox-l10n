@@ -9,7 +9,9 @@ screenshots-cancel-button = Hủy bỏ
 screenshots-save-visible-button = Lưu phần nhìn thấy
 screenshots-save-page-button = Lưu toàn trang
 screenshots-download-button = Tải xuống
+screenshots-download-button-tooltip = Tải về ảnh chụp màn hình
 screenshots-copy-button = Sao chép
+screenshots-copy-button-tooltip = Sao chép ảnh chụp màn hình vào clipboard
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
