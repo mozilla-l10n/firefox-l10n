@@ -9,7 +9,9 @@ screenshots-cancel-button = Откажи
 screenshots-save-visible-button = Сачувај видљиво
 screenshots-save-page-button = Сачувај целу страницу
 screenshots-download-button = Преузми
+screenshots-download-button-tooltip = Преузми снимак
 screenshots-copy-button = Копирај
+screenshots-copy-button-tooltip = Копирај снимак екрана у оставу
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
