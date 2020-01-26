@@ -86,3 +86,4 @@
         [ins] Firefoxem Send
     }
     .gender = masculine
+-screenshots-brand-name = Firefox Screenshots
