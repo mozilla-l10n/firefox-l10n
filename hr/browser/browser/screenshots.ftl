@@ -9,6 +9,8 @@ screenshots-cancel-button = Otkaži
 screenshots-save-visible-button = Spremi vidljivo
 screenshots-save-page-button = Spremi cijelu stranicu
 screenshots-download-button = Preuzmi
+screenshots-download-button-tooltip = Preuzmite snimku zaslona
+screenshots-copy-button-tooltip = Kopiraj snimku zaslona u međuspremnik
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -25,5 +27,7 @@ screenshots-unshootable-page-error-title = Ovu stranicu ne možemo snimiti.
 screenshots-unshootable-page-error-details = Ovo nije standardna Web stranica stoga ju ne možete snimiti.
 screenshots-self-screenshot-error-title = Ne možete snimiti { -screenshots-brand-name } stranicu!
 screenshots-empty-selection-error-title = Vaš odabir je premalen
+screenshots-private-window-error-title = Snimke ekrana su onemogućene u načinu privatnog pretraživanja
+screenshots-private-window-error-details = Žao nam je na neugodnosti. Radimo na ovoj mogućnosti za buduća izdanja.
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se zbrkao.
 screenshots-generic-error-details = Nismo sigurno što se upravo dogodilo. Možete li pokušati ponovno ili snimiti drukčiju stranicu?
