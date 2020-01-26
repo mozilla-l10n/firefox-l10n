@@ -9,6 +9,7 @@ screenshots-cancel-button = रद्द करा
 screenshots-save-visible-button = दृश्यमय साठवा
 screenshots-save-page-button = संपूर्ण पृष्ठ साठवा
 screenshots-download-button = डाउनलोड करा
+screenshots-copy-button = प्रत बनवा
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = दुवा कॉपी केला
 screenshots-notification-link-copied-details = आपल्या शॉटचा दुवा क्लिपबोर्डवर कॉपी झाला आहे. चिटकवण्यासाठी { screenshots-meta-key } -V दाबा.
+screenshots-notification-image-copied-title = शॉट प्रतिकृत केला
+screenshots-notification-image-copied-details = आपला शॉट क्लिपबोर्डवर कॉपी झाला आहे. चिटकवण्यासाठी { screenshots-meta-key } -V दाबा.
 screenshots-request-error-title = नादुरुस्त.
 screenshots-request-error-details = क्षमस्व! आम्ही आपला शॉट साठवु शकलो नाही. कृपया नंतर प्रयत्न करा.
 screenshots-connection-error-title = आम्ही आपल्या स्क्रीनशॉटशी जोडणी करु शकत नाही.
