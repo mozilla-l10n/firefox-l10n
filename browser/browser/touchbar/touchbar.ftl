@@ -9,6 +9,7 @@ forward = Frem
 reload = Oppdater
 home = Hjem
 fullscreen = Fullskjerm
+touchbar-fullscreen-exit = Avslutt fullskjerm
 find = Søk
 new-tab = Ny fane
 add-bookmark = Legg til bokmerke
@@ -33,5 +34,5 @@ search-opentabs = Åpne faner
 search-tags = Etiketter
 search-titles = Titler
 
-
+##
 
