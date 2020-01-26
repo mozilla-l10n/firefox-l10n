@@ -890,6 +890,8 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 <!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Vaš povsem nov Firefox prihaja leta 2020">
+<!ENTITY activity_stream_firefox_promo_description "Kmalu: izboljšana zmogljivost. Nadgrajena zaščita pred sledenjem. In zmogljivosti za iskanje, shranjevanje ter skupno rabo spletnih vsebin, ki jih imate radi.">
 <!ENTITY activity_stream_firefox_promo_button "Pokukajte">
 
 <!ENTITY activity_stream_topsites "Glavne strani">
