@@ -9,6 +9,7 @@ about-performance-title = مدير المهام
 
 column-name = الاسم
 column-type = النوع
+column-energy-impact = الأثر على الطاقة
 column-memory = الذاكرة
 
 ## Special values for the Name column
@@ -17,6 +18,13 @@ ghost-windows = الألسنة المُغلقة حديثًا
 
 ## Values for the Type column
 
+type-tab = لسان
+type-subframe = إطار فرعي
+type-tracker = متعقّب
+type-addon = إضافة
+type-browser = متصفّح
+type-worker = عامل خدمة
+type-other = أخرى
 
 ## Values for the Energy Impact column
 ##
@@ -24,6 +32,9 @@ ghost-windows = الألسنة المُغلقة حديثًا
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = عالٍ ({ $value })
+energy-impact-medium = متوسط ({ $value })
+energy-impact-low = منخفض ({ $value })
 
 ## Values for the Memory column
 ##
