@@ -9,6 +9,7 @@ screenshots-cancel-button = Tiq'at
 screenshots-save-visible-button = Tiyak wachel
 screenshots-save-page-button = Tiyak chijun ruxaq
 screenshots-download-button = Tiqasäx
+screenshots-copy-button = Tiwachib'ëx
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Ximonel Wachib'en
 screenshots-notification-link-copied-details = Xwachib'ëx pa molwuj ri ruximonel awachib'al. Tapitz'a' { screenshots-meta-key }-V richin natz'äm.
+screenshots-notification-image-copied-title = Xwachib'ëx chapoj
+screenshots-notification-image-copied-details = Xwachib'ëx pa molwuj ri ruchapoj awachib'al. Tapitz'a' { screenshots-meta-key }-V richin natz'äm.
 screenshots-request-error-title = Man nisamäj ta.
 screenshots-request-error-details = ¡Takuyu! Man yojtikïr ta niqayäk ri awachib'al. Tatojtob'ej jumej.
 screenshots-connection-error-title = Man yojtikïr ta yojok pari taq chapoj awachib'al.
