@@ -9,6 +9,7 @@ screenshots-cancel-button = Cancel
 screenshots-save-visible-button = Save visible
 screenshots-save-page-button = Save full page
 screenshots-download-button = Download
+screenshots-copy-button = Copy
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +17,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Link Copied
 screenshots-notification-link-copied-details = The link to your shot has been copied to the clipboard. Press { screenshots-meta-key }-V to paste.
+screenshots-notification-image-copied-title = Shot Copied
+screenshots-notification-image-copied-details = Your shot has been copied to the clipboard. Press { screenshots-meta-key }-V to paste.
 screenshots-request-error-title = Out of order.
 screenshots-request-error-details = Sorry! We couldn’t save your shot. Please try again later.
 screenshots-connection-error-title = We can’t connect to your screenshots.
@@ -24,5 +27,8 @@ screenshots-login-error-details = We couldn’t save your shot because there is 
 screenshots-unshootable-page-error-title = We can’t screenshot this page.
 screenshots-unshootable-page-error-details = This isn’t a standard Web page, so you can’t take a screenshot of it.
 screenshots-self-screenshot-error-title = You can’t take a shot of a { -screenshots-brand-name } page!
+screenshots-empty-selection-error-title = Your selection is too small
+screenshots-private-window-error-title = { -screenshots-brand-name } is disabled in Private Browsing Mode
+screenshots-private-window-error-details = Sorry for the inconvenience. We are working on this feature for future releases.
 screenshots-generic-error-title = Whoa! { -screenshots-brand-name } went haywire.
 screenshots-generic-error-details = We’re not sure what just happened. Care to try again or take a shot of a different page?
