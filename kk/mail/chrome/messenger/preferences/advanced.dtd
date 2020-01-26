@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "б">
 <!ENTITY viewSecurityDevices.label "Қорғаныс жабдықтары">
 <!ENTITY viewSecurityDevices.accesskey "ж">
+
+<!ENTITY manageCertificates2.label "Сертификаттарды басқару…">
+<!ENTITY manageCertificates2.accesskey "б">
+<!ENTITY viewSecurityDevices2.label "Қауіпсіздік құрылғылары…">
+<!ENTITY viewSecurityDevices2.accesskey "р">

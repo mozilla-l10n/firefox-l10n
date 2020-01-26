@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.key "S">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Пішімдеусіз кірістіру">
 <!ENTITY pasteNoFormatting.accesskey "д">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,8 +23,8 @@
 <!ENTITY checkSpellingCmd2.label "Емлені тексеру…">
 <!ENTITY checkSpellingCmd2.accesskey "Е">
 <!ENTITY checkSpellingCmd2.key "м">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Енгізу">
 <!ENTITY insertMenu.accesskey "Е">
 <!ENTITY insertLinkCmd2.label "Сілтеме…">
@@ -46,14 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "Т">
 <!ENTITY insertBreakAllCmd.label "Суреттер астында ажырауды кірістіру">
 <!ENTITY insertBreakAllCmd.accesskey "р">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Сілтемені жасау…">
 <!ENTITY createLinkCmd.accesskey "С">
 <!ENTITY editLinkCmd.label "Сілтемені жаңа құрастырушыда түзету">
 <!ENTITY editLinkCmd.accesskey "е">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Қаріпті таңдау">
 <!ENTITY fontfaceMenu.label "Қаріп">
 <!ENTITY fontfaceMenu.accesskey "а">
@@ -68,19 +68,17 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Қаріп өлшемін таңдау">
 <!ENTITY decreaseFontSize.label "Кішірек">
 <!ENTITY decreaseFontSize.accesskey "к">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Үлкенірек">
 <!ENTITY increaseFontSize.accesskey "Ү">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Өлшемі">
 <!ENTITY fontSizeMenu.accesskey "ш">
@@ -96,8 +94,8 @@
 <!ENTITY size-extraLargeCmd.accesskey "т">
 <!ENTITY size-hugeCmd.label "Ең үлкен">
 <!ENTITY size-hugeCmd.accesskey "е">
-<!-- Font Style SubMenu -->
 
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Мәтін стилі">
 <!ENTITY fontStyleMenu.accesskey "с">
 <!ENTITY styleBoldCmd.label "Жуан">
@@ -165,8 +163,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "А">
 <!ENTITY paragraphPreformatCmd.label "Берілген пішім">
 <!ENTITY paragraphPreformatCmd.accesskey "Б">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Тізім">
 <!ENTITY formatlistMenu.accesskey "Т">
 <!ENTITY noneCmd.label "Ештеме">
@@ -189,8 +187,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Кеңейтілген қасиеттері">
 <!ENTITY advancedPropertiesCmd.accesskey "й">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Туралау">
 <!ENTITY alignMenu.accesskey "а">
 <!ENTITY alignLeft.label "Солға">
@@ -205,8 +203,8 @@
 <!ENTITY alignJustify.label "Енi бойынша">
 <!ENTITY alignJustify.accesskey "н">
 <!ENTITY alignJustify.tooltip "Енімен туралау">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Қабат">
 <!ENTITY layerSendToBack.tooltip "Артқа жіберу">
 <!ENTITY layerBringToFront.tooltip "Алға шығару">
@@ -220,12 +218,12 @@
 
 <!ENTITY colorsAndBackground.label "Бет түсі және фон…">
 <!ENTITY colorsAndBackground.accesskey "ф">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Кесте">
 <!ENTITY tableMenu.accesskey "с">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Таңдау">
 <!ENTITY tableSelectMenu.accesskey "а">
 
@@ -235,8 +233,8 @@
 <!ENTITY tableInsertMenu2.accesskey "к">
 <!ENTITY tableDeleteMenu2.label "Кестені өшіру">
 <!ENTITY tableDeleteMenu2.accesskey "ш">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Енгізу">
 <!ENTITY tableInsertMenu.accesskey "Е">
 <!ENTITY tableTable.label "Кесте">
@@ -269,12 +267,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Өшіру">
 <!ENTITY tableDeleteMenu.accesskey "р">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Ұяшықты бөліп жіберу">
@@ -283,8 +281,8 @@
 <!ENTITY convertToTable.accesskey "ж">
 <!ENTITY tableProperties.label "Кесте қасиеттері…">
 <!ENTITY tableProperties.accesskey "и">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Мәзір панелі">
 <!ENTITY formatToolbar.tooltip "Пішімдеу саймандары">
 <!ENTITY cutToolbarCmd.tooltip "Қиып алу">
@@ -309,9 +307,10 @@
 <!ENTITY TextColorButton.tooltip "Мәтін үшін түсті таңдау">
 <!ENTITY BackgroundColorButton.tooltip "Фон үшін түсті таңдау">
 <!ENTITY throbber.tooltip "&vendorShortName; үй парағына өту">
+<!ENTITY throbber.tooltip2 "&brandShortName; үй парағына өту">
 <!ENTITY HighlightColorButton.tooltip "Мәтінді ерекшелеу түсін таңдау">
-<!-- Editor toolbar -->
 
+<!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Қаріп өлшемін орнату">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Кішірек қаріп">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Үлкенірек қаріп">
@@ -328,16 +327,16 @@
 <!ENTITY alignCenterButton.tooltip "Мәтінді ортасымен туралау">
 <!ENTITY alignRightButton.tooltip "Мәтінді оң жақ өріспен туралау">
 <!ENTITY alignJustifyButton.tooltip "Мәтінді сол және оң жақ өрістерімен туралау">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Таңдау">
 <!ENTITY structSelect.accesskey     "Т">
 <!ENTITY structRemoveTag.label      "Тегті өшіру">
 <!ENTITY structRemoveTag.accesskey  "ш">
 <!ENTITY structChangeTag.label      "Тегті өзгерту">
 <!ENTITY structChangeTag.accesskey  "з">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Кірістіру">
 <!ENTITY insertTOC.accesskey      "р">
 <!ENTITY updateTOC.label          "Жаңарту">

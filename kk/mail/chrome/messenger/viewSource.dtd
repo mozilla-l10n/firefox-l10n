@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Бастапқы коды: ">
 
+<!ENTITY editMenu.label "Түзету">
+<!ENTITY editMenu.accesskey "з">
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY savePageCmd.label "Бетті қалайша сақтау…">
@@ -84,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "ш">
 <!ENTITY copyEmailCmd.label "Эл. пошта адресін көшіріп алу">
 <!ENTITY copyEmailCmd.accesskey "э">
-

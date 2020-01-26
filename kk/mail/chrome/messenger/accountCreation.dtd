@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Бар болып тұрған эл. пошта тіркелгісін баптау">
+
+<!ENTITY emailWizard.title               "Бар болып тұрған эл. пошта адресін баптау">
+<!ENTITY emailWizard.caption             "Ағымдағы эл. пошта адресін қолдану">
 <!ENTITY name.label                      "Сіздің атыңыз:">
 <!ENTITY name.accesskey                  "ы">
 <!ENTITY name.placeholder                "Аты Жөні">
+<!ENTITY fullname.placeholder            "Сіздің толық атыңыз">
 <!ENTITY name.text                       "Басқаларға көрсетілетіндей, сіздің атыңыз">
+<!ENTITY name.error                      "Атыңызды енгізіңіз">
 <!ENTITY email.label                     "Эл. пошта адресі:">
 <!ENTITY email.accesskey                 "л">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Эл. пошта адресіңіз">
 <!ENTITY email.text                      "Сіздің бар болып тұрған эл. пошта адресіңіз">
+<!ENTITY email.error                     "Эл. пошта адресі қате">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Паролі">
 <!ENTITY password.text                   "Міндетті емес, тек пайдаланушы атын растау үшін керек">
+<!ENTITY password.toggle                 "Парольді көрсету/жасыру">
 <!ENTITY rememberPassword.label          "Парольді еске сақтау">
 <!ENTITY rememberPassword.accesskey      "л">
-
 <!ENTITY usernameEx.label                "Сіздің логиніңіз:">
 <!ENTITY usernameEx.accesskey            "л">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Домендегі пайдаланушы аты">
 
+<!ENTITY protocol.label                  "Хаттама:">
 <!ENTITY imapLong.label                  "IMAP (қашықтағы бумалар)">
 <!ENTITY pop3Long.label                  "POP3 (поштаны сіздің компьютеріңізде сақтау)">
 
 <!ENTITY incoming.label                  "Кіріс:">
+<!ENTITY incomingColumn.label            "Кіріс">
 <!ENTITY outgoing.label                  "Шығыс:">
+<!ENTITY outgoingColumn.label            "Шығыс">
 <!ENTITY username.label                  "Пайдаланушы аты:">
 <!ENTITY hostname.label                  "Сервердің хост аты">
 <!ENTITY port.label                      "Порт">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Сервер:">
+<!ENTITY portRow.label                   "Порт:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Аутентификация">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Тоқтату">
 <!ENTITY stop.accesskey                  "Т">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Қайта тексеру">
 <!ENTITY half-manual-test.accesskey      "т">
 <!ENTITY manual-edit.label               "Қолмен баптау">
 <!ENTITY manual-edit.accesskey           "м">
+<!ENTITY manual-config.label             "Қолдан баптау…">
+<!ENTITY manual-config.accesskey         "д">
 <!ENTITY open-provisioner.label          "Жаңа эл. пошта адресін алу…">
 <!ENTITY open-provisioner.accesskey      "л">
+
+
+<!ENTITY get-help.label                  "Көмек алу">
+<!ENTITY get-help.accesskey              "е">
 
 
 <!ENTITY warning.label                   "Ескерту!">

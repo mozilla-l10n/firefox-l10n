@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "Ы">
 <!ENTITY folderPaneBar.label "Бума панелінің саймандар панелі">
 <!ENTITY folderPaneBar.accesskey "Б">
-<!ENTITY folderModeSelector.label "Бумалар көріністері">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Бойынша сұрыптау">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Таңдалған хабарламаны керек бумаға салу">
 <!ENTITY archiveButton.tooltip "Таңдалған хабарламаны архивтеу">
 <!ENTITY openConversationButton.tooltip "Таңдалған хабарламаның сөйлесуін көрсету">
+<!ENTITY openMsgConversationButton.tooltip "Таңдалған хабарламаның сөйлесуін көрсету">
 <!ENTITY nextButton.tooltip "Келесі оқылмаған хабарламаға өту">
 <!ENTITY nextMsgButton.tooltip "Келесі хабарламаға өту">
 <!ENTITY previousButton.tooltip "Алдыңғы оқылмаған хабарламаға өту">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Хабарламаларға тег қою">
 <!ENTITY compactButton.tooltip "Таңдалған бумадан өшірілген хабарламаларды жою">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; мәзірін көрсету">
-
 <!ENTITY addonsButton.tooltip "Қосымшаларды басқару">
 
 <!-- Toolbar Button Popup -->
@@ -970,3 +969,5 @@
 <!ENTITY dockOptions.label              "Қолданба таңбашасының баптаулары…">
 <!ENTITY writeNewMessageDock.label      "Жаңа хабарламаны жазу">
 <!ENTITY openAddressBookDock.label      "Адрестік кітапшаны ашу">
+
+<!-- Content tab Navigation buttons -->
