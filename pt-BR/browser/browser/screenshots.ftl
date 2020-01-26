@@ -13,4 +13,8 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Link copiado
+screenshots-notification-link-copied-details = O link da sua captura foi copiado para a área de transferência. Pressione { screenshots-meta-key }-V para colar.
+screenshots-unshootable-page-error-title = Não conseguimos capturar a tela nesta página.
+screenshots-empty-selection-error-title = Sua seleção é muito pequena
+screenshots-private-window-error-details = Lamentamos o inconveniente. Estamos trabalhando neste recurso para lançamentos futuros.
 screenshots-generic-error-details = Não temos certeza do que acabou de acontecer. Tentar novamente ou fazer uma captura de uma página diferente?
