@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contenu protégé par des composants de gestion des droits numériques (DRM)
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Onglets contextuels
 containers-add-button =
     .label = Ajouter un nouveau contexte
     .accesskey = A
+containers-new-tab-check =
+    .label = Sélectionner un contexte pour chaque nouvel onglet
+    .accesskey = S
 containers-preferences-button =
     .label = Préférences
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personnalisé
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Équilibré entre protection et performances. Les pages se chargeront normalement.
 content-blocking-etp-strict-desc = Protection renforcée, mais certains sites ou contenus peuvent ne pas fonctionner correctement.

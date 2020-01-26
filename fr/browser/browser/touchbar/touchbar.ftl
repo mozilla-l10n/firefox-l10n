@@ -9,6 +9,7 @@ forward = Page suivante
 reload = Actualiser
 home = Accueil
 fullscreen = Plein écran
+touchbar-fullscreen-exit = Quitter le mode plein écran
 find = Rechercher
 new-tab = Nouvel onglet
 add-bookmark = Ajouter un marque-page
@@ -33,5 +34,5 @@ search-opentabs = Onglets ouverts
 search-tags = Étiquettes
 search-titles = Titres
 
-
+##
 
