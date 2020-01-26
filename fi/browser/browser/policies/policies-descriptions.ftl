@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta 
 policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta” -sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa päivityksen jälkeisen sivun käytöstä.
 policy-PasswordManagerEnabled = Ota käyttöön salasanojen tallennus salasanojen hallintaan.
 policy-Permissions = Aseta kameran, mikrofonin, sijainnin ja ilmoitusten käyttöoikeuksien asetukset.
+policy-Permissions2 = Aseta kameran, mikrofonin, sijainnin, ilmoitusten ja automaattisen toiston käyttöoikeuksien asetukset.
 policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
 policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
 policy-PromptForDownloadLocation = Kysy ladattaessa minne tiedostot tallennetaan.
