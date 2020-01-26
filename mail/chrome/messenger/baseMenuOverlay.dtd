@@ -9,24 +9,26 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Көмек">
 <!ENTITY helpMenuWin.accesskey "К">
+<!ENTITY aboutProduct2.label "&brandShorterName; туралы">
+<!ENTITY aboutProduct2.accesskey "а">
 <!ENTITY helpTroubleshootingInfo.label     "Техникалық ақпарат">
 <!ENTITY helpTroubleshootingInfo.accesskey "а">
 <!ENTITY helpSafeMode.label     "Сөндірілген қосымшалармен қайта қосу…">
 <!ENTITY helpSafeMode.accesskey "р">
-<!ENTITY releaseCmd2.label "Шығарылым ескертпесі">
-<!ENTITY releaseCmd2.accesskey "с">
-<!ENTITY whatsNewCmd.label "Не жаңалық">
-<!ENTITY whatsNewCmd.accesskey "а">
-<!ENTITY openHelp.label "Көмек құрамасы">
-<!ENTITY openHelp.accesskey "К">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; көмегі">
-<!ENTITY openHelpMac2.label "&brandFullName; көмегі">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
+<!ENTITY helpSafeMode.stop.label     "Сөндірілген қосымшалармен қайта қосу">
+<!ENTITY helpSafeMode.stop.accesskey "р">
+<!ENTITY productHelp.label "&brandShortName; көмегі">
+<!ENTITY productHelp.accesskey "м">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
 
-<!ENTITY aboutMenuCmd.label "&brandShortName; туралы">
-<!ENTITY aboutMenuCmd.accesskey "а">
+<!ENTITY helpKeyboardShortcuts.label "Пернетақта жарлықтары">
+<!ENTITY helpKeyboardShortcuts.accesskey "т">
 
-<!ENTITY aboutMenuCmd2.label "&brandFullName; туралы">
-<!ENTITY aboutMenuCmd2.accesskey "а">
+<!ENTITY helpFeedbackPage.label "Кері байланыс хабарламасын жіберу…">
+<!ENTITY helpFeedbackPage.accesskey "с">
+
+<!ENTITY helpShowTour2.label "&brandShorterName; ішіне cаяхат">
+<!ENTITY helpShowTour2.accesskey "т">
+
+

@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "м">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Барлығын таңдау">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "Б">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Табу…">
 <!ENTITY findBarCmd.accesskey "Т">
 <!ENTITY findBarCmd.key "F">
@@ -260,6 +259,9 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Кімнен:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY fromAddr2.label "Кімнен">
 <!ENTITY fromAddr.accesskey "м">
 <!ENTITY toAddr.label "Кімге:">
 <!ENTITY ccAddr.label "Көшірме:">
@@ -268,16 +270,25 @@
 <!ENTITY newsgroupsAddr.label "Жаңалықтар тобы:">
 <!ENTITY followupAddr.label "Мынаған жауап жазу:">
 <!ENTITY subject.label "Тақырыбы:">
+<!ENTITY toAddr2.label "Кімге">
+<!ENTITY ccAddr2.label "Көшірме">
+<!ENTITY bccAddr2.label "Жасырын көшірме">
+<!ENTITY replyAddr2.label "Кімге жауап беру">
+<!ENTITY newsgroupsAddr2.label "Жаңалықтар тобы">
+<!ENTITY followupAddr2.label "Жаңалықтар тобына жауап беру">
+<!ENTITY subject2.label "Тақырыбы">
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "м">
 <!ENTITY attachmentBucketHeader.tooltip "Салынымдар панелі">
 <!ENTITY attachmentBucketCloseButton.tooltip "Салыным панелін жасыру">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Смайликті кірістіру">
 <!ENTITY smiley1Cmd.label "Күлімдеу">
 <!ENTITY smiley2Cmd.label "Қабағын түю">

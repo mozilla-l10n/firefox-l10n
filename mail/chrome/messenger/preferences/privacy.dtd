@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Пошта құрамасы">
 
 <!ENTITY acceptRemoteContent.label "Хабарламалардағы қашықтағы құраманы рұқсат ету">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Ережелерден бөлек…">
 <!ENTITY remoteContentExceptions.accesskey "р">
 <!ENTITY acceptRemoteContentInfo.label "Қашықтағы құраманың жекелік мәселелері жөнінде көбірек білу">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Веб құрамасы">
 
 <!ENTITY keepHistory.label "Мен шолған вебсайттар және сілтемелерді есте сақтау">
@@ -36,3 +36,5 @@
 <!ENTITY dntTrackingNotOkay.label2 "Веб сайттарға мені бақыламауды қалайтынымды айту">
 <!ENTITY dntTrackingNotOkay.accesskey "м">
 <!ENTITY doNotTrackInfo.label "Do Not Track туралы көбірек білу">
+
+<!ENTITY doNotTrackLearnMore.label "Көбірек білу">

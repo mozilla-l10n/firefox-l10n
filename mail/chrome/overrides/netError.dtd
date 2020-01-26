@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options саясатымен бұғаттаған">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; бұл парақтың осы контекстте жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін X-Frame-Options саясаты бар.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Зақымдалған құрама қатесі">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Сіз қараймын деген құрама көрсетілмейді, өйткені деректер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
 
