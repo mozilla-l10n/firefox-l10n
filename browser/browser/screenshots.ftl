@@ -7,6 +7,7 @@ screenshots-my-shots-button = Minhas capturas
 screenshots-instructions = Arraste ou clique na página para selecionar uma região. Pressione ESC para cancelar.
 screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Guardar visível
+screenshots-download-button = Transferir
 screenshots-download-button-tooltip = Transferir captura de ecrã
 screenshots-copy-button = Copiar
 screenshots-copy-button-tooltip = Copiar captura de ecrã para a área de transferência
