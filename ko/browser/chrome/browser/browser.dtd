@@ -1081,7 +1081,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "페이지 작업">
 <!ENTITY pageAction.addToUrlbar.label "주소 표시줄에 추가">
 <!ENTITY pageAction.removeFromUrlbar.label "주소 표시줄에서 제거">
-<!ENTITY pageAction.manageExtension.label "확장 프로그램 관리…">
+<!ENTITY pageAction.manageExtension.label "확장 기능 관리…">
 
 <!ENTITY sendToDevice.syncNotReady.label "기기를 동기화하고 있습니다…">
 
