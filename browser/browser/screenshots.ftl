@@ -9,6 +9,7 @@ screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Guardar lo visible
 screenshots-save-page-button = Guardar la página completa
 screenshots-download-button = Descargar
+screenshots-download-button-tooltip = Descargar captura de pantalla
 screenshots-copy-button = Copiar
 screenshots-copy-button-tooltip = Copiar captura de pantalla al portapapeles
 screenshots-meta-key =
