@@ -9,7 +9,9 @@ screenshots-cancel-button = Cancelar
 screenshots-save-visible-button = Guardar visible
 screenshots-save-page-button = Guardar página completa
 screenshots-download-button = Descargar
+screenshots-download-button-tooltip = Descargar la captura de pantalla
 screenshots-copy-button = Copiar
+screenshots-copy-button-tooltip = Copiar la captura de pantalla al portapapeles
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
