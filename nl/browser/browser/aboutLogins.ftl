@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sorteren op:
 login-list-name-option = Naam (A-Z)
+login-list-name-reverse-option = Naam (Z-A)
 login-list-breached-option = Websites met datalekken
 login-list-last-changed-option = Laatst gewijzigd
 login-list-last-used-option = Laatst gebruikt
@@ -73,7 +74,6 @@ about-logins-intro-import = Als uw aanmeldingen in een andere browser worden opg
 
 login-item-new-login-title = Nieuwe aanmelding maken
 login-item-edit-button = Bewerken
-login-item-delete-button = Verwijderen
 about-logins-login-item-remove-button = Verwijderen
 login-item-origin-label = Websiteadres
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name }-voorkeuren bekijken
         }
     .accesskey = b
-confirm-delete-dialog-title = Deze aanmelding verwijderen?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Dit niet meer vragen
     .accesskey = D
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Annuleren
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
-confirm-delete-dialog-confirm-button = Verwijderen
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
 confirm-discard-changes-dialog-title = Deze wijzigingen verwerpen?
 confirm-discard-changes-dialog-message = Alle niet-opgeslagen wijzigingen gaan verloren.

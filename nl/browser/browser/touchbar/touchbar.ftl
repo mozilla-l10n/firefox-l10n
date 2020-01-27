@@ -9,6 +9,7 @@ forward = Vooruit
 reload = Vernieuwen
 home = Startpagina
 fullscreen = Volledig scherm
+touchbar-fullscreen-exit = Volledig scherm verlaten
 find = Zoeken
 new-tab = Nieuw tabblad
 add-bookmark = Bladwijzer toevoegen
@@ -33,5 +34,5 @@ search-opentabs = Open tabbladen
 search-tags = Labels
 search-titles = Titels
 
-
+##
 
