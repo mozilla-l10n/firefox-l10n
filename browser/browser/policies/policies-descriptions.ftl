@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = De pagina voor eerste keer uitvoeren vervangen. St
 policy-OverridePostUpdatePage = De pagina ‘Wat is er nieuw’ na een update vervangen. Stel deze beleidsregel in op leeg als u de betreffende pagina wilt uitschakelen.
 policy-PasswordManagerEnabled = Opslaan van wachtwoorden in de wachtwoordbeheerder inschakelen.
 policy-Permissions = Toestemmingen voor camera, microfoon, locatie en notificaties configureren.
+policy-Permissions2 = Toestemmingen voor camera, microfoon, locatie, notificaties en automatisch afspelen configureren.
 policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
 policy-Preferences = De waarde voor een subset van voorkeuren instellen en vergrendelen.
 policy-PromptForDownloadLocation = Vragen waar gedownloade bestanden moeten worden opgeslagen.
