@@ -4,8 +4,8 @@
 
 <!ENTITY playButton.playLabel "Reproducer">
 <!ENTITY playButton.pauseLabel "Pausar">
-<!ENTITY muteButton.muteLabel "Tacer">
-<!ENTITY muteButton.unmuteLabel "Non plus tacer">
+<!ENTITY muteButton.muteLabel "Silentiar">
+<!ENTITY muteButton.unmuteLabel "Non plus silentiar">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Plen schermo">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Exir del plen schermo">
 <!ENTITY castingButton.castingLabel "Transmitter per le schermo">

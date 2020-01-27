@@ -704,9 +704,9 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Tacer">
+<!ENTITY mediaMute.label             "Silentiar">
 <!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Non plus tacer">
+<!ENTITY mediaUnmute.label           "Non plus silentiar">
 <!ENTITY mediaUnmute.accesskey       "p">
 <!ENTITY mediaPlaybackRate2.label     "Velocitate de presentation">
 <!ENTITY mediaPlaybackRate2.accesskey "V">

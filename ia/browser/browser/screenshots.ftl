@@ -32,5 +32,5 @@ screenshots-self-screenshot-error-title = Tu non pote prender un instantaneo de 
 screenshots-empty-selection-error-title = Tu selection es troppo micre
 screenshots-private-window-error-title = { -screenshots-brand-name } es disactivate in modo de navigation private
 screenshots-private-window-error-details = Excusa nos pro le incommoditate. Nos labora sur iste functionalitate pro futur editiones.
-screenshots-generic-error-title = Problemas de { -screenshots-brand-name }!
-screenshots-generic-error-details = Nos non sape lo que occurreva. Reprobar o capturar un instantaneo de un altere pagina?
+screenshots-generic-error-title = Hola! { -screenshots-brand-name } se trova disregulate.
+screenshots-generic-error-details = Nos non sape que ha occurrite. Vole tu tentar de novo, o capturar un instantaneo de un altere pagina?
