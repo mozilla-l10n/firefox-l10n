@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Configurar uma conta de email existente">
+
+<!ENTITY emailWizard.title               "Configurar o seu endereço de e-mail existente">
+<!ENTITY emailWizard.caption             "Utilize o seu endereço de e-mail atual">
 <!ENTITY name.label                      "O seu nome:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Primeiro Último">
+<!ENTITY fullname.placeholder            "O seu nome completo">
 <!ENTITY name.text                       "O nome a mostrar a terceiros">
+<!ENTITY name.error                      "Por favor, insira o seu nome">
 <!ENTITY email.label                     "Endereço de e-mail:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "O seu endereço de e-mail">
 <!ENTITY email.text                      "O seu endereço de email existente">
+<!ENTITY email.error                     "Endereço de e-mail inválido">
 <!ENTITY password.label                  "Palavra-passe:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Palavra-passe">
 <!ENTITY password.text                   "Opcional, será utilizada para validar o nome de utilizador">
+<!ENTITY password.toggle                 "Mostrar/Esconder palavra-passe">
 <!ENTITY rememberPassword.label          "Memorizar palavra-passe">
 <!ENTITY rememberPassword.accesskey      "M">
-
 <!ENTITY usernameEx.label                "As suas credenciais:">
 <!ENTITY usernameEx.accesskey            "d">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Credenciais do domínio">
 
+<!ENTITY protocol.label                  "Protocolo:">
 <!ENTITY imapLong.label                  "IMAP (pastas remotas)">
 <!ENTITY pop3Long.label                  "POP3 (guardar correio no computador)">
 
 <!ENTITY incoming.label                  "Receção:">
+<!ENTITY incomingColumn.label            "A receber">
 <!ENTITY outgoing.label                  "Envio:">
+<!ENTITY outgoingColumn.label            "A enviar">
 <!ENTITY username.label                  "Nome de utilizador:">
 <!ENTITY hostname.label                  "Nome do servidor">
 <!ENTITY port.label                      "Porta">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Servidor:">
+<!ENTITY portRow.label                   "Porta:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autenticação">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Parar">
 <!ENTITY stop.accesskey                  "P">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Testar novamente">
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Configuração manual">
 <!ENTITY manual-edit.accesskey           "m">
+<!ENTITY manual-config.label             "Configurar manualmente…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Obter um novo endereço de email…">
 <!ENTITY open-provisioner.accesskey      "o">
+
+
+<!ENTITY get-help.label                  "Obter ajuda">
+<!ENTITY get-help.accesskey              "j">
 
 
 <!ENTITY warning.label                   "Aviso!">
