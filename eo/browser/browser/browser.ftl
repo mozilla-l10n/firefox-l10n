@@ -56,6 +56,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Malfermi panelon de mesaĝoj
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Malfermi panelon de peto de pozicio
+urlbar-xr-notification-anchor =
+    .tooltiptext = Malfermi panelon de permesoj por virtuala realo
 urlbar-storage-access-anchor =
     .tooltiptext = Malfermi panelon de permesoj de retumo
 urlbar-translate-notification-anchor =
@@ -80,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Malfermi panelon de mesaĝoj de instalo de aldonaĵo
 urlbar-tip-help-icon =
     .title = Helpo
+urlbar-search-tips-confirm = En ordo, mi komprenis
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -93,6 +96,8 @@ urlbar-search-tips-redirect = Komencu vian serĉon ĉi tie por vidi sugestojn el
 
 urlbar-geolocation-blocked =
     .tooltiptext = Vi blokis informon pri via pozicio por tiu ĉi retejo.
+urlbar-xr-blocked =
+    .tooltiptext = Vi blokis la aliron al aparatoj de virtuala realo por tiu ĉi retejo.
 urlbar-web-notifications-blocked =
     .tooltiptext = Vi blokis sciigojn por tiu ĉi retejo.
 urlbar-camera-blocked =

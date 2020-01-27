@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> spurilo blokita ekde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> spuriloj blokitaj ekde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } plu blokas spurilojn en privataj fenestroj, sed ĝi ne registras tion, kion ĝi blokas.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Spuriloj blokitaj de { -brand-short-name } ĉi semajne
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Ŝalti { -sync-brand-short-name }…
     .title = Iri al la preferoj de spegulado
-manage-devices = Administri aparatojn
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Spegulado al alia aparato
-       *[other] Spegulado al { $count } aliaj aparatoj
-    }
-lockwise-sync-not-syncing-devices = Neniu spegulado al aliaj aparatoj.
 manage-connected-devices = Administri aparatojn…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.

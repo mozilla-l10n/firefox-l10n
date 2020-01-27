@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Raportoj pri paneo
-clear-all-reports-label = Forigi ĉiujn raportojn
+submit-all-button-label = Sendi ĉiujn
 delete-button-label = Viŝi ĉion
 delete-confirm-title = Ĉu vi certas?
-delete-confirm-description = Tiu nemalfarebla ago forviŝos ĉiujn raportojn.
 delete-unsubmitted-description = Tiu ĉi nemalfarebla ago forigos ĉiujn nesenditajn raportojn pri paneo.
 delete-submitted-description = Tiu ĉi nemalfarebla ago forigos la liston de senditaj raportoj pri paneo, sed ne forigos la senditajn datumojn.
 crashes-unsubmitted-label = Nesenditaj raportoj pri paneo
