@@ -494,7 +494,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share_title "გაზიარება -">
 <!ENTITY share_image_failed "ამ გამოსახულების გაზიარება ვერ ხერხდება">
 <!ENTITY share_error_toast_message "ვერ ხერხდება მითითებულ პროგრამაში გაზიარება">
-<!ENTITY save_as_pdf "შენახვა PDF-ფორმატში">
+<!ENTITY save_as_pdf "შენახვა PDF-ში">
 <!ENTITY print "დაბეჭდვა">
 <!ENTITY view_page_source "გვერდის წყარო">
 <!ENTITY find_in_page "პოვნა გვერდზე">
@@ -571,7 +571,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "სრულ-ეკრანიანი დათვალიერება">
+<!ENTITY pref_scroll_title_bar2 "სრულეკრანიანი">
 <!ENTITY pref_scroll_title_bar_summary2 "&brandShortName;-ს ხელსაწყოთა ზოლის დამალვა გვერდზე მოძრაობისას">
 
 <!ENTITY pref_tab_queue_title3 "ჩანართების რიგი">
