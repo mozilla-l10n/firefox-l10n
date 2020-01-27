@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Serĉi en legitimiloj
 create-login-button = Krei novan legitimilon
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Emblemo por { $title }
 fxaccounts-sign-in-text = Spegulu viajn pasvortojn en viaj aliaj aparatoj
 fxaccounts-sign-in-button = Komenci seancon en { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -51,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordigi laŭ:
 login-list-name-option = Nomo (A-Z)
+login-list-name-reverse-option = Nomo (A-Z)
 login-list-breached-option = Retejoj kun datumfuĝoj
 login-list-last-changed-option = Laste modifita
 login-list-last-used-option = Last uzita
@@ -61,9 +57,6 @@ about-logins-login-list-empty-search-description = Neniu rezulto kongruas kun vi
 login-list-item-title-new-login = Nova legitimilo
 login-list-item-subtitle-new-login = Tajpu viajn legitimilojn
 login-list-item-subtitle-missing-username = (sen nomo de uzanto)
-about-logins-list-item-warning-icon =
-    .alt = Averta emblemo
-    .title = Retejo kun datumfuĝo
 about-logins-list-item-breach-icon =
     .title = Retejo kun datumfuĝo
 
@@ -81,7 +74,6 @@ about-logins-intro-import = Se viaj legitimiloj estas konservitaj en alia retumi
 
 login-item-new-login-title = Krei novan legitimilon
 login-item-edit-button = Redakti
-login-item-delete-button = Forigi
 about-logins-login-item-remove-button = Forigi
 login-item-origin-label = Adreso de retejo
 login-item-origin =
@@ -96,6 +88,8 @@ login-item-password-reveal-checkbox-show =
     .title = Montri pasvorton
 login-item-password-reveal-checkbox-hide =
     .title = Kaŝi pasvorton
+login-item-password-reveal-checkbox =
+    .aria-label = Montri pasvorton
 login-item-copy-password-button-text = Kopii
 login-item-copied-password-button-text = Kopiita!
 login-item-save-changes-button = Konservi ŝanĝojn
@@ -126,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Vizitu la preferojn de { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Ĉu forigi tiun ĉi legitimilon?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ne demandi denove
     .accesskey = N
@@ -138,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Nuligi
 about-logins-confirm-remove-dialog-title = Ĉu forigi tiun ĉi legitimilon?
 confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
-confirm-delete-dialog-confirm-button = Forigi
 about-logins-confirm-remove-dialog-confirm-button = Forigi
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
 confirm-discard-changes-dialog-message = Ĉiuj nekonservitaj ŝanĝoj estos perditaj.
@@ -153,11 +145,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Jam ekzistas elemento por { $loginTitle } kun tiu nomo de uzanto.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
