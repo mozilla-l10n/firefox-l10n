@@ -9,6 +9,7 @@ forward = İleri
 reload = Tazele
 home = Başlangıç
 fullscreen = Tam ekran
+touchbar-fullscreen-exit = Tam ekrandan çık
 find = Bul
 new-tab = Yeni sekme
 add-bookmark = Yer imlerime ekle
@@ -33,5 +34,5 @@ search-opentabs = Açık sekmeler
 search-tags = Etiketler
 search-titles = Başlıklar
 
-
+##
 
