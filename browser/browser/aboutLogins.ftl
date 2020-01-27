@@ -45,6 +45,7 @@ login-list-count =
     }
 login-list-sort-label-text = Urutkan berdasarkan:
 login-list-name-option = Nama (A-Z)
+login-list-name-reverse-option = Nama (Z-A)
 login-list-breached-option = Situs Web yang Dibobol
 login-list-last-changed-option = Terakhir Diubah
 login-list-last-used-option = Terakhir Digunakan

@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel pesan pemasangan pengaya
 urlbar-tip-help-icon =
     .title = Dapatkan bantuan
+urlbar-search-tips-confirm = Oke, Paham
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
