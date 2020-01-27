@@ -254,7 +254,7 @@
 <!ENTITY bodyAllParts.label "所有主体部分">
 <!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "用邮件正文作为">
+<!ENTITY bodyMenuFeed.label "收取点消息正文显示为">
 <!ENTITY bodyMenuFeed.accesskey "B">
 <!ENTITY viewFeedWebPage.label "网页">
 <!ENTITY viewFeedWebPage.accesskey "W">
@@ -444,7 +444,7 @@
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "附件">
 <!ENTITY openAttachmentListCmd.accesskey "h">
-<!ENTITY openFeedMessage1.label "当打开收取点信息时">
+<!ENTITY openFeedMessage1.label "当打开收取点消息时">
 <!ENTITY openFeedMessage1.accesskey "O">
 <!ENTITY openFeedWebPage.label "作为网页打开">
 <!ENTITY openFeedWebPage.accesskey "W">
