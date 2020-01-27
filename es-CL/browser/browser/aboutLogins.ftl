@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nombre (A-Z)
+login-list-name-reverse-option = Nombre (Z-A)
 login-list-breached-option = Sitios web vulnerados
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
@@ -73,7 +74,6 @@ about-logins-intro-import = Si tus conexiones están guardadas en otro navegador
 
 login-item-new-login-title = crear una nueva conexión
 login-item-edit-button = Editar
-login-item-delete-button = Eliminar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Dirección del sitio web
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Visita las preferencias de { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = ¿Eliminar esta conexión?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = No volver a preguntar
     .accesskey = D
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = ¿Eliminar esta conexión?
 confirm-delete-dialog-message = Esta acción no puede revertirse.
-confirm-delete-dialog-confirm-button = Eliminar
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 confirm-discard-changes-dialog-title = ¿Descartar cambios sin guardar?
 confirm-discard-changes-dialog-message = Todos los cambios sin guardar se perderán.
