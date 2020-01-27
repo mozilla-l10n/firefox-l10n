@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Stankañ ar goulennoù gouzout ho lec'hiadur nevez
 permissions-site-location-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h gouzout ho lec'hiadur. Kement-se a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Arventennoù - Aotreoù ar gwirvoud galloudel
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Al lec'hiennoù da heul o deus goulennet haeziñ ho trevnadoù gwirvoud galloudel. Gallout a rit dibab pe lec'hiennoù a zo aotreet da haeziñ ho trevnadoù gwirvoud galloudel. Gallout a rit ivez stankañ ar goulennoù haeziñ nevez.
+permissions-site-xr-disable-label =
+    .label = Stankañ ar goulennoù nevez evit haeziñ ho trevnadoù gwirvoud galloudel
+permissions-site-xr-disable-desc = Mirout a raio kement lec'hienn n'emañ ket er roll a-us da c'houlenn diganeoc'h haeziñ ho trevnadoù gwirvoud galloudel. Stankañ an haeziñ d'ar gwirvoud galloudel a c'hall lakaat lec'hiennoù 'zo da chom hep mont en-dro.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

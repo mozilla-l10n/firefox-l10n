@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Merañ ar bajenn loc'hadur kentañ. Laoskit ar reo
 policy-OverridePostUpdatePage = Merañ ar pajenn "Petra nevez?" goude un hizivadenn. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn goude un hizivadenn.
 policy-PasswordManagerEnabled = Gweredekaat enrollañ ar gerioù-tremen en ardoer gerioù-tremen.
 policy-Permissions = Kefluniañ an aotreoù evit ar c'hamera, ar mikro, al lec'hiadurezh hag ar rebuzadurioù.
+policy-Permissions2 = Kefluniañ an aotreoù evit ar c'hamera, ar mikro, al lec'hiadurezh, ar rebuzadurioù hag al lenn emgefreek.
 policy-PopupBlocking = Aotren lec'hiennoù 'zo da skrammañ ar prenestroù diflugell dre ziouer.
 policy-Preferences = Lakaat ha prennañ an talvoud evit un isteskad gwellvezioù.
 policy-PromptForDownloadLocation = Goulenn e pelec'h enrollañ ar restroù pa vez pellgarget.

@@ -139,6 +139,21 @@ cfr-whatsnew-permission-prompt-cta = Gouzout hiroc'h
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Dinoer roudoù niverel stanket
+        [two] Dinoerien roudoù niverel stanket
+        [few] Dinoerien roudoù niverel stanket
+        [many] Dinoerien roudoù niverel stanket
+       *[other] Dinoerien roudoù niverel stanket
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } a stank meur a zinoer roudoù niverel a zastum en un doare kuzh titouroù diwar-benn ho trevnad hag ho oberiantiz evit krouiñ un aelad bruderezh diwar ho penn.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Dinoerien roudoù niverel
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } a c'hall stankañ meur a zinoer roudoù niverel a zastum en un doare kuzh titouroù diwar-benn ho trevnad hag ho oberiantiz evit krouiñ un aelad bruderezh diwar ho penn.
 
 ## Bookmark Sync
 
