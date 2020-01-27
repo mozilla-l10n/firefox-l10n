@@ -237,7 +237,7 @@ about-debugging-tmp-extension-remove-button = 제거
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
-about-debugging-tmp-extension-install-message = manifest.json 파일 또는 .xpi/.zip 아카이브를 선택하세요
+about-debugging-tmp-extension-install-message = manifest.json 파일 또는 .xpi/.zip 보관 파일을 선택하세요
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = 이 WebExtension에는 임시 ID가 있습니다. <a>더 알아보기</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
