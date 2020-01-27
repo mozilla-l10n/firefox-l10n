@@ -2,6 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { $count } heulier a zo bet stanket gant { -brand-short-name } ar sizhun tremenet
+        [two] { $count } heulier a zo bet stanket gant { -brand-short-name } ar sizhun tremenet
+        [few] { $count } heulier a zo bet stanket gant { -brand-short-name } ar sizhun tremenet
+        [many] { $count } a heulierien a zo bet stanket gant { -brand-short-name } ar sizhun tremenet
+       *[other] { $count } heulier a zo bet stanket gant { -brand-short-name } ar sizhun tremenet
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -36,7 +46,6 @@ protection-report-view-logins-button = Gwelout an titouroù kennaskañ
 lockwise-no-logins-content = Tapit an arload <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> evit kas ho kerioù-tremen pep lec'h ganeoc'h.
 turn-on-sync = Gweredekaat { -sync-brand-short-name }…
     .title = Mont d'ar gwellvezioù goubredañ
-manage-devices = Merañ an trevnadoù
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
