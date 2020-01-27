@@ -9,6 +9,7 @@ forward = Ymlaen
 reload = Ail-lwytho
 home = Cartref
 fullscreen = Sgrin Lawn
+touchbar-fullscreen-exit = Gadael Sgrin Lawn
 find = Canfod
 new-tab = Tab newydd
 add-bookmark = Ychwanegu nod tudalen
@@ -33,5 +34,5 @@ search-opentabs = Tabiau Agored
 search-tags = Tagiau
 search-titles = Teitlau
 
-
+##
 
