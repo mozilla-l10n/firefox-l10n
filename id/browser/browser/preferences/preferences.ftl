@@ -564,6 +564,9 @@ containers-header = Tab Kontainer
 containers-add-button =
     .label = Tambahkan Kontainer Baru
     .accesskey = T
+containers-new-tab-check =
+    .label = Pilih kontainer untuk setiap tab baru
+    .accesskey = k
 containers-preferences-button =
     .label = Pengaturan
 containers-remove-button =
@@ -869,6 +872,7 @@ addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 content-blocking-header = Pemblokiran Konten
 content-blocking-section-description = Lindungi privasi Anda saat menjelajah. Blokir konten tak terlihat yang melacak situs yang Anda kunjungi dan profil Anda. Memblokir sebagian konten ini dapat membuat laman dimuat lebih cepat.
 content-blocking-enhanced-tracking-protection = Perlindungan Pelacakan yang Ditingkatkan
+content-blocking-section-top-level-description = Pelacak mengikuti Anda berkeliling daring untuk mengumpulkan informasi tentang kebiasaan dan minat penelusuran Anda. { -brand-short-name } memblokir banyak pelacak dan skrip jahat lainnya.
 content-blocking-learn-more = Pelajari Lebih Lanjut
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

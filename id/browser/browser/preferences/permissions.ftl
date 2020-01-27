@@ -139,6 +139,7 @@ permissions-site-location-disable-desc = Ini akan mencegah situs web apa pun yan
 permissions-site-xr-window =
     .title = Setelan - Izin Realitas Virtual
     .style = { permissions-window.style }
+permissions-site-xr-desc = Situs web berikut ini minta mengakses perangkat realitas virtual Anda. Anda dapat menentukan situs web apa saja yang diizinkan mengakses perangkat realitas virtual Anda. Anda juga dapat memblokir permintaan baru yang minta mengakses perangkat realitas virtual Anda.
 permissions-site-xr-disable-label =
     .label = Blokir permintaan baru untuk mengakses perangkat realitas virtual Anda
 permissions-site-xr-disable-desc = Ini akan mencegah situs web apa pun yang tidak tercantum di atas minta mengakses perangkat realitas virtual Anda. Memblokir akses ke perangkat realitas virtual Anda dapat menghentikan beberapa fitur situs web.
