@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Malŝalti bildojn, por uzi malpli da datumoj en ĉiu vizitata retejo.">
 <!ENTITY firstrun_sync_title "Speguli">
 <!ENTITY firstrun_sync_message3 "Spegulu viajn legosignojn, historion kaj pasvortojn en via telefono.">
-<!ENTITY updatednewfirstrun_sync_title "Konto">
-<!ENTITY firstrun_sync_message2 "Rekomencu kie vi haltis.">
 <!ENTITY firstrun_sync_subtext2 "Uzu Speguli por retrovi en ĉiuj viaj aparatoj la legosignojn, pasvortojn kaj aliajn aferojn kiun vi konservis en &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sekure kaj private spegulu en la komputila Firefox la aferojn, kiujn vi konservas en poŝaparatoj.">
 <!ENTITY firstrun_sendtab_title "Sendi langeton">
 <!ENTITY firstrun_sendtab_message "Dividi langetojn inter poŝaparatoj kaj komputiloj — tuj.">
-<!ENTITY updatednewfirstrun_sync_subtext "Komencu seancon en via konto por eltiri la maksimumon el &brandShortName;">
 <!ENTITY firstrun_signin_message "Komencu seancon kaj eku">
-<!ENTITY firstrun_signin_button "Komenci seancon en Speguli">
-<!ENTITY newfirstrun_signin_button "Malŝalti Speguladon">
-<!ENTITY updatednewfirstrun_signin_button "Komencu seancon en &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Komenci retumi">
+<!ENTITY onboard_start_button_browser "Komenci retumi">
 <!ENTITY firstrun_button_notnow "Nun ne">
 <!ENTITY firstrun_button_next "Antaŭen">
 <!ENTITY firstrun_signup_button "Registriĝi">
-
-<!ENTITY firstrun_signin_button2 "Komenci seancon">
 
 <!ENTITY firstrun_tabqueue_title "Ligiloj">
 
@@ -882,7 +874,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Aldoni al legosignoj elementojn de legila vido, por legi ilin malkonektite.">
 <!ENTITY helper_triple_readerview_open_button "Aldoni al legosignoj">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Bonvenon al &brandShortName;">
 <!ENTITY activity_stream_signin_description "Komenci speguli legosignojn, pasvortojn kaj aliajn aferojn per via konto de Firefox.">
@@ -891,7 +884,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Komenci seancon.">
 
-<!ENTITY activity_stream_signin_button "Komenci seancon">
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "Tute nova Firefox alvenos en 2020">
+<!ENTITY activity_stream_firefox_promo_description "Baldaŭ: plibonigita efikeco kaj protekto kontraŭ spurado. Kaj trajtoj kreitaj por helpi vin trovi, konservi kaj kundividi pli da viaj retumaj ŝataĵoj.">
+<!ENTITY activity_stream_firefox_promo_button "Ekrigardu">
 
 <!ENTITY activity_stream_topsites "Plej vizititaj retejoj">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
