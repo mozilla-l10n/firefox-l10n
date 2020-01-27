@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Emboyke kuatiarogue tembiapo ñepyrũguáva. Emboa
 policy-OverridePostUpdatePage = Emboyke kuatiarogue “Mba’epyahu” embohekopyahu rire. Emboaje ko purureko mba’eve’ỹre eipe’aséramo kuatiarogue embohekopyahu rire.
 policy-PasswordManagerEnabled = Embojuruja ñe’ẽñemi ñongatu ñe’ẽñemi ñangarekohápe.
 policy-Permissions = Emboheko ñemoneĩ ta’anganohẽha, ñe’ẽatãha, tendaite ha marandu’ípe g̃uarã.
+policy-Permissions2 = Emboheko ñemoneĩ ta’anganohẽha, ñe’ẽatãha, tendaite, marandu’í ha ñembohetápe g̃uarã.
 policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Preferences = Emboheko ha ejoko tepykue jeguerohoryvéva aty’ípe g̃uarã.
 policy-PromptForDownloadLocation = Eporandu moõpa eñongatúta marandurenda emboguejykuévo.

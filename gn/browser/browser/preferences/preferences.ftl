@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Tendayke guerekoha
 containers-add-button =
     .label = Embojuaju guerekoha pyahu
     .accesskey = E
+containers-new-tab-check =
+    .label = Eiporavo mbyatyha embojuruja hag̃ua peteĩteĩva tendayke
+    .accesskey = S
 containers-preferences-button =
     .label = Jerohoryvéva
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ñemomba’epyre
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda térã tetepy nahenyhẽi.
