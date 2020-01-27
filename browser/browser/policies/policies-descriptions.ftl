@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Saltarse la página de primera ejecución. Deja es
 policy-OverridePostUpdatePage = Saltarse la página "Qué hay de nuevo" post actualización. Deja esta política en blanco si deseas desactivar la página post actualización.
 policy-PasswordManagerEnabled = Habilitar el guardado de contraseñas en el administrador de contraseñas.
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
+policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera por defecto.
 policy-Preferences = Fija y bloquea el valor para un subconjunto de preferencias.
 policy-PromptForDownloadLocation = Preguntar dónde guardar archivos al descargar.

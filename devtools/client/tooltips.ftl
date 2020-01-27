@@ -32,15 +32,16 @@ inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> no tiene e
 inactive-css-property-because-of-display = <strong>{ $property }</strong> no tiene efecto en este elemento ya que tiene una visualización <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = El valor de <strong>display</strong> ha sido cambiado por el motor a <strong>block</strong> porque el elemento es <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Es imposible anular <strong>{ $property }</strong> debido a la restricción <strong>:visited</strong>.
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Prueba a añadir <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intenta añadir ya sea <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Prueba a añadir <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Prueba a añadir <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del elemento. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intenta añadir ya sea <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = Prueba a añadir <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Prueba a añadir <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del elemento. { learn-more }
 inactive-css-not-grid-container-fix = Prueba a añadir <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
@@ -51,3 +52,4 @@ inactive-css-not-inline-or-tablecell-fix = Prueba a añadir <strong>display:inli
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Prueba a añadir <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Prueba a añadir <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Prueba a eliminar <strong>float</strong> o añadir<strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Intenta establecer la propiedad <strong>position</strong> a algo diferente a <strong>static</strong>. { learn-more }
