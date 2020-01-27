@@ -150,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Vi devos konfirmi vian konton antaŭ ol vi povos speguli.">
 <!ENTITY fxa.unverified.button.label "Malfermi agordojn de &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Kaŝi butonon de bildo en bildo">
-<!ENTITY pictureInPictureHideToggle.accesskey "K">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Seanco komencita kiel">
 <!ENTITY fxa.menu.manageAccount.label "Administri konton…">
 <!ENTITY fxa.menu.syncSettings.label "Agordoj de &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Kaŝi butonon de bildo en bildo">
+<!ENTITY pictureInPictureHideToggle.accesskey "K">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +170,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Komenci seancon en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ŝalti &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servoj de &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.settings.label "Agordoj">
 <!ENTITY fxa.menu.accountSettings.label "Agordoj de konto">
+<!ENTITY fxa.menu.manageAccount2.label "Administri konton">
 <!ENTITY fxa.menu.signOut.label "Fini seancon…">
 <!ENTITY fxa.menu.deviceSettings.label "Agordoj de aparato">
 <!ENTITY fxa.menu.setupSync.label "Agordoj de &syncBrand.shortName.label;…">
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Halti">
 <!ENTITY stopCmd.accesskey            "H">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Iri al la adreso en la retadresa strio">
 <!ENTITY printButton.label            "Presi">
@@ -276,8 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administri uzon de DRM programaro">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Malfermi panelon MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Vi aldonis permesojn al tiu ĉi retejo.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vi blokis vian filmilon por tiu ĉi retejo.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vi blokis vian mikrofonon por tiu ĉi retejo.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Vi blokis dividon de la ekrano por tiu retejo.">
@@ -290,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Vi blokis la kromprogramon Adobe Flash en tiu ĉi retejo.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Vi blokis la aliron MIDI por tiu ĉi retejo.">
 <!ENTITY urlbar.installBlocked.tooltip           "Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Vi aldonis permesojn al tiu ĉi retejo.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
@@ -568,12 +569,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Serĉi per:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Ĉi foje serĉi per:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "n">
 
 <!ENTITY openLinkCmdInTab.label       "Malfermi ligilon en nova langeto">
+
 <!ENTITY openLinkCmdInTab.accesskey   "l">
 <!ENTITY openLinkCmd.label            "Malfermi ligilon en nova fenestro">
 <!ENTITY openLinkCmd.accesskey        "F">
@@ -601,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "e">
 <!ENTITY showOnlyThisFrameCmd.label     "Montri nur tiun ĉi kadron">
 <!ENTITY showOnlyThisFrameCmd.accesskey "T">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Reŝargi kadron">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -651,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Konservi kadron kiel…">
 <!ENTITY saveFrameCmd.accesskey       "K">
@@ -817,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Ŝanĝi tekstodirekton">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Serĉi en tiu ĉi paĝo…">
@@ -940,12 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Kial?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokado de tiuj ĉi elementoj povas misfunkciigi kelkajn retejojn. Sen spuriloj, kelkaj butonoj, formularoj, kaj legitimilaj kampoj, povus ne funkcii.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Malŝalto de protektoj permesos ĉiujn spurilojn en tiu ĉi retejo. Tio povus ankaŭ plibonigi la funkciado de la retejo.">
-<!ENTITY protections.socialMediaTrackers.label "Sociretaj spuriloj">
-<!ENTITY protections.crossSiteTrackingCookies.label "Interretejaj spurilaj kuketoj">
-<!ENTITY protections.trackingContent.label "Spurila enhavo">
-<!ENTITY protections.fingerprinters.label "Identigiloj de ciferecaj spuroj">
-<!ENTITY protections.cryptominers.label "Miniloj de ĉifromono">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Ĉiuj spuriloj en tiu ĉi retejo estis ŝargitaj ĉar protektoj estas malaktivaj.">
 <!ENTITY protections.noTrackersFound.description "Neniu spurilo, konata de &brandShortName;, estis trovita en tiu ĉi paĝo.">
 
@@ -968,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Komenci seancon en &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "K">
-
 <!ENTITY syncSyncNowItem.label        "Speguli nun">
 <!ENTITY syncSyncNowItemSyncing.label "Spegulado…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1006,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "R">
 
 <!ENTITY contentBlocking.socialblock.label "Sociretaj spuriloj">
-
-<!ENTITY contentBlocking.cookies2.label "Interretejaj spurilaj kuketoj">
 
 <!ENTITY contentBlocking.cryptominers.label "Miniloj de ĉifromono">
 <!ENTITY contentBlocking.cryptominersView.label "Miniloj de ĉifromono">
