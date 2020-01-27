@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Rekomendata etendaĵo
 cfr-doorhanger-feature-heading = Rekomendata trajto
 cfr-doorhanger-pintab-heading = Konsileto: alpingli tiun ĉi langeton
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
@@ -121,6 +121,33 @@ cfr-whatsnew-lockwise-take-body =
     La poŝaparata programo { -lockwise-brand-short-name } permesas al vi sekure aliri viajn
     konservitajn pasvortojn, el ie ajn.
 cfr-whatsnew-lockwise-take-link-text = Ricevi la programon
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Spektu filmetojn dum vi retumas
+cfr-whatsnew-pip-body = Bildo en bildo spruĉigas filmeton en flosantan fenestron, tiel ke vi povas plu spekti dum vi laboras en aliaj langetoj.
+cfr-whatsnew-pip-cta = Pli da informo
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Malpli da tedaj retejaj ŝprucfenestroj
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } nun blokas la aŭtomatan peton pri permeso sendi al vi ŝprucmesaĝojn.
+cfr-whatsnew-permission-prompt-cta = Pli da informo
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Blokita identigilo de ciferecaj spuroj
+       *[other] Blokitaj identigiloj de ciferecaj spuroj
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokas plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Identigiloj de ciferecaj spuroj
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } povas bloki plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
 
 ## Bookmark Sync
 
