@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = დალაგება:
 login-list-name-option = ანბანური
+login-list-name-reverse-option = ანბანური (Z-A)
 login-list-breached-option = მიტაცების მსხვერპლი საიტები
 login-list-last-changed-option = ბოლოს ჩასწორებული
 login-list-last-used-option = ბოლოს გამოყენებული
@@ -73,7 +74,6 @@ about-logins-intro-import = თუ თქვენი ანგარიშე�
 
 login-item-new-login-title = ანგარიშის ახალი მონაცემები
 login-item-edit-button = ჩასწორება
-login-item-delete-button = წაშლა
 about-logins-login-item-remove-button = მოცილება
 login-item-origin-label = საიტის მისამართი
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] იხილეთ { -sync-brand-short-name(case: "gen") } პარამეტრები
         }
     .accesskey = ი
-confirm-delete-dialog-title = წაიშალოს ეს ანგარიში?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = მომავალში შეკითხვის გარეშე
     .accesskey = გ
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = გაუქმება
 about-logins-confirm-remove-dialog-title = მოცილდეს ეს მონაცემები?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
-confirm-delete-dialog-confirm-button = წაშლა
 about-logins-confirm-remove-dialog-confirm-button = მოცილება
 confirm-discard-changes-dialog-title = გაუქმდეს შეუნახავი ცვლილებები?
 confirm-discard-changes-dialog-message = ყველა შეუნახავი ცვლილება დაიკარგება.

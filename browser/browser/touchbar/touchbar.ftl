@@ -9,6 +9,7 @@ forward = მომდევნო
 reload = განახლება
 home = საწყისი გვერდი
 fullscreen = სრული ეკრანი
+touchbar-fullscreen-exit = გამოსვლა სრული ეკრანიდან
 find = ძიება
 new-tab = ახალი ჩანართი
 add-bookmark = სანიშნის დამატება
@@ -33,5 +34,5 @@ search-opentabs = გახსნილი ჩანართები
 search-tags = ჭდეები
 search-titles = სათაურები
 
-
+##
 
