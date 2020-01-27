@@ -124,6 +124,9 @@ menu-view-full-zoom-reduce =
 menu-view-full-zoom-reset =
     .label = Rekomenci
     .accesskey = R
+menu-view-full-zoom-actual-size =
+    .label = Reala grando
+    .accesskey = R
 menu-view-full-zoom-toggle =
     .label = Pligrandigi nur tekston
     .accesskey = t
@@ -153,7 +156,7 @@ menu-view-full-screen =
     .label = Plenekrane
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Montri ĉiujn langetojn
@@ -209,9 +212,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Aldonaĵoj
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Komenci seancon en { -sync-brand-short-name }…
-    .accesskey = K
 menu-tools-fxa-sign-in =
     .label = Komenci seancon en { -brand-product-name }…
     .accesskey = K
@@ -221,9 +221,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Speguli nun
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Rekonekti al { -sync-brand-short-name }…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Rekonekti al { -brand-product-name }…
     .accesskey = R

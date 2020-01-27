@@ -136,7 +136,7 @@ media-capabilities-title = Aŭdvidaĵaj kapabloj
 # List all the entries of the database.
 media-capabilities-enumerate = Listigi datumbazon
 
-
+##
 
 intl-title = Lingvo kaj internacieco
 intl-app-title = Agordoj de programo
@@ -161,7 +161,7 @@ remote-debugging-title = Fora senerarigo (protokolo Chromium)
 remote-debugging-accepting-connections = Konektoj akceptataj
 remote-debugging-url = Retadreso
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -261,6 +261,7 @@ d3d11video-crash-guard = D3D11 Videa malkodilo
 d3d9video-crash-buard = D3D9 Videa malkodilo
 d3d9video-crash-guard = D3D9 Videa malkodilo
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Videa malkodilo
 reset-on-next-restart = Restarigi en la venonta restarto
 gpu-process-kill-button = Fini procezon de GPU
 gpu-device-reset = Restartigi aparaton
