@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Rulanalizo de efikeco
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = La agordo de via retumilo ne kongruas kun Service Workers. <a>Pli da informo</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = La konektita retumilo havas malnovan version ({ $runtimeVersion }). La minimuma subtenata versio estas ({ $minVersion }). Tiu ĉi estas nesubtenata situacio, kiu povus misfunkciigi la ilojn por programistoj. Bonvolu ĝisdatigi la konektitan retumilon. <a>Solvado de problemoj</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = La konektita retumilo havas malnovan v
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = La panelo de la erarserĉilo povus ne funkcii kun la konektita retumilo. Bonvolu uzi Firefox { $runtimeVersion } se vi bezonas uzi la erarserĉilon kun tiu ĉi retumilo.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -305,6 +305,11 @@ about-debugging-main-process-name = Ĉefa procezo
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Ĉefa procezo por la cela retumilo
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Ilaro de plurprocezo
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Ĉefa procezo kaj enhavaj procezoj por la celata retumilo
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Fermi mesaĝon

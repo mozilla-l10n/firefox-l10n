@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Koloroj…
     .accesskey = K
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Pligrandigilo
+preferences-default-zoom = Norma pligrandigo
+    .accesskey = N
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Pligrandigi nur tekston
+    .accesskey = t
 language-header = Lingvo
 choose-language-description = Elektu vian preferatan lingvon por retpaĝoj
 choose-button =
@@ -316,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Enhavo kun cifereca administrado de rajtoj (DRM)
 play-drm-content =
@@ -561,10 +570,19 @@ search-keyword-warning-bookmark = Vi elektis kategorian vorton kiu estas nuntemp
 ## Containers Section
 
 containers-back-link = « Iri reen
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Reen al elektebloj
+           *[other] Reen al preferoj
+        }
 containers-header = Ingaj langetoj
 containers-add-button =
     .label = Aldoni novan ingon
     .accesskey = A
+containers-new-tab-check =
+    .label = Elekti ingon por ĉiu nova langeto
+    .accesskey = i
 containers-preferences-button =
     .label = Preferoj
 containers-remove-button =
@@ -903,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personecigita
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Ekvilibrita por protekto kaj efikeco. Paĝoj ŝargiĝos normale.
 content-blocking-etp-strict-desc = Pli forta proteko, sed kelkaj retejoj aŭ enhavjo povus ne bone funkcii.
@@ -968,6 +986,10 @@ permissions-location = Loko
 permissions-location-settings =
     .label = Agordoj…
     .accesskey = A
+permissions-xr = Virtuala realo
+permissions-xr-settings =
+    .label = Agordoj…
+    .accesskey = A
 permissions-camera = Filmilo
 permissions-camera-settings =
     .label = Agordoj…
@@ -1016,6 +1038,8 @@ permissions-a11y-privacy-link = Pli da informo
 collection-header = Kolekto kaj uzo de datumojn de { -brand-short-name }
 collection-description = Ni penas doni al vi plurajn eblojn, kaj kolekti nur tion, kion ni bezonas por fari kaj plibonigi { -brand-short-name } por ĉiuj. Ni ĉiam petos permeson antaŭ ol ricevi personajn informojn.
 collection-privacy-notice = Rimarko pri privateco
+collection-health-report-telemetry-disabled = Vi ne plu permesas al { -vendor-short-name } kapti teĥnikajn kaj interagajn datumojn. Ĉiuj antaŭaj datumoj estos forigitaj dum la venontaj 30 tagoj.
+collection-health-report-telemetry-disabled-link = Pli da informo
 collection-health-report =
     .label = Permesi al { -brand-short-name } sendi teĥnikajn kaj interagajn datumojn al { -vendor-short-name }
     .accesskey = P
