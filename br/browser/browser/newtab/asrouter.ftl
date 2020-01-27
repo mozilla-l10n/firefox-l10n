@@ -127,10 +127,14 @@ cfr-whatsnew-lockwise-take-link-text = Kaout an arload
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Sellit ouzh videoioù en ur verdeiñ
+cfr-whatsnew-pip-body = Skeudenn-ouzh-skeudenn a lak ar video en ur prenestr war neuñv evit ma c'hallfec'h e sellet en ul labourat war ivinelloù all.
 cfr-whatsnew-pip-cta = Gouzout hiroc'h
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Nebeutoc'h a brenestroù diflugell torr-penn
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } a vir al lec'hiennoù da c'houlenn kas deoc'h kemennadennoù diflugell ent emgefreek
 cfr-whatsnew-permission-prompt-cta = Gouzout hiroc'h
 
 ## Fingerprinter Counter

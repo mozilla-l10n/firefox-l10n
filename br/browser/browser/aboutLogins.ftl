@@ -49,6 +49,7 @@ login-list-count =
     }
 login-list-sort-label-text = Rummañ dre:
 login-list-name-option = Anv (A-Z)
+login-list-name-reverse-option = Anv (Z-A)
 login-list-breached-option = Baradurioù lec'hiennoù
 login-list-last-changed-option = Kemmet da ziwezhañ
 login-list-last-used-option = Arveret da ziwezhañ

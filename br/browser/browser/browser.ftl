@@ -56,6 +56,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Digeriñ penel ar c'hemennadennoù
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Digeriñ penel ar goulenn lec'hiadur
+urlbar-xr-notification-anchor =
+    .tooltiptext = Digeriñ penel aotreoù ar gwirvoud galloudel
 urlbar-storage-access-anchor =
     .tooltiptext = Digeriñ penel aotreoù an oberiantiz merdeiñ
 urlbar-translate-notification-anchor =
@@ -94,6 +96,8 @@ urlbar-search-tips-redirect = Krogit gant ar c'hlask amañ evit gwelout alioù e
 
 urlbar-geolocation-blocked =
     .tooltiptext = Stanket ho peus an titouroù lec'hiadur evit al lec'hienn-mañ.
+urlbar-xr-blocked =
+    .tooltiptext = Stanket ho peus an haeziñ gwirvoud galloudel evit al lec'hienn-mañ.
 urlbar-web-notifications-blocked =
     .tooltiptext = Stanket ho peus ar rebuzadurioù evit al lec'hienn-mañ.
 urlbar-camera-blocked =
@@ -188,6 +192,7 @@ identity-clear-site-data =
     .label = Skarzhañ an toupinoù ha roadennoù lec'hienn…
 identity-connection-not-secure-security-view = N'oc'h ket kennasket d'al lec'hienn-mañ en un doare sur.
 identity-connection-verified = Kennasket oc'h d'al lec'hienn-mañ en un doare sur.
+identity-ev-owner-label = Testeni roet da:
 identity-description-custom-root = Ne adanavez ket Mozilla pourchaser an testeni-mañ. Marteze eo bet ouzhpennet gant ho reizhiad korvoiñ pe gant un ardoer. <label data-l10n-name="link">Gouzout hiroc'h</label>
 identity-remove-cert-exception =
     .label = Lemel an nemedenn kuit
