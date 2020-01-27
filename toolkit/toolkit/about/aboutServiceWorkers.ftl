@@ -5,10 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = 서비스 워커 정보
-about-service-workers-main-title = 등록된 서비스 워커
-about-service-workers-warning-not-enabled = 서비스 워커가 활성화되지 않았습니다.
-about-service-workers-warning-no-service-workers = 등록된 서비스 워커가 없습니다.
+about-service-workers-title = Service Workers 정보
+about-service-workers-main-title = 등록된 Service Workers
+about-service-workers-warning-not-enabled = Service Workers가 활성화되지 않았습니다.
+about-service-workers-warning-no-service-workers = 등록된 Service Workers가 없습니다.
 # The original title of service workers' information
 #
 # Variables:
@@ -23,7 +23,7 @@ origin-title = 출처: { $originTitle }
 
 scope = <strong>범위:</strong> { $name }
 script-spec = <strong>스크립트 스펙:</strong> <a data-l10n-name="link">{ $url }</a>
-current-worker-url = <strong>현재 워커 URL:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>현재 Worker URL:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>활성화 캐시 이름:</strong> { $name }
 waiting-cache-name = <strong>대기 캐시 이름:</strong> { $name }
 push-end-point-waiting = <strong>푸시 엔드포인트:</strong> { waiting }
@@ -31,5 +31,5 @@ push-end-point-result = <strong>푸시 엔드포인트:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = 업데이트
 unregister-button = 등록해제
-unregister-error = 이 서비스 워커를 등록 해제하지 못했습니다.
+unregister-error = 이 Service Worker를 등록 해제하지 못했습니다.
 waiting = 대기 중…
