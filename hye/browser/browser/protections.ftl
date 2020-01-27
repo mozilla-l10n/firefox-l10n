@@ -127,3 +127,33 @@ bar-tooltip-social =
             [one] { $count } սոց մեդիայի հետեւում ({ $percentage }%)
            *[other] { $count } սոց մեդիայի հետեւումներ ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = Միջակայքի հետեւման նշոցիկներ
+    .aria-label =
+        { $count ->
+            [one] { $count } միջակայքի հետեւման նշոցիկ ({ $percentage }%)
+           *[other] { $count } միջակայքի հետեւման նշոցիկներ ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Հետեւող բովանդակութիւն
+    .aria-label =
+        { $count ->
+            [one] { $count }հետեւող բովանդակութիւն ({ $percentage }%)
+           *[other] { $count }հետեւող բովանդակութիւն ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Մատնահետքեր
+    .aria-label =
+        { $count ->
+            [one] { $count }Մատնահետք ({ $percentage }%)
+           *[other]
+                	
+                { $count }Մատնահետքեր ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Գաղտնազերծիչներ
+    .aria-label =
+        { $count ->
+            [one] { $count } գաղտնազերծիչներ  ({ $percentage }%)
+           *[other] { $count } գաղտնազերծիչներ ({ $percentage }%)
+        }
