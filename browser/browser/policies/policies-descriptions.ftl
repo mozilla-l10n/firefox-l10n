@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = İlk açılış sayfasını değiştir. İlk açı
 policy-OverridePostUpdatePage = Güncelleme sonrası “Yenilikler” sayfasını değiştir. Güncelleme sonrası sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayabilirsiniz.
 policy-PasswordManagerEnabled = Parolaları parola yöneticisine kaydetmeyi aç.
 policy-Permissions = Kamera, mikrofon, konum ve bildirim izinlerini yapılandır.
+policy-Permissions2 = Kamera, mikrofon, konum, bildirim ve otomatik oynatma izinlerini yapılandır.
 policy-PopupBlocking = Belirli web sitelerin varsayılan olarak açılır pencere açmasına izin ver.
 policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
 policy-PromptForDownloadLocation = Dosya indirirken nereye kaydedileceklerini sor.

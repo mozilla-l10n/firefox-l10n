@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sıralama:
 login-list-name-option = Ad (A-Z)
+login-list-name-reverse-option = Ad (Z-A)
 login-list-breached-option = Veri ihlaline uğrayan siteler
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
