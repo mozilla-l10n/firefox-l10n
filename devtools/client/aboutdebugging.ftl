@@ -26,10 +26,10 @@ about-debugging-sidebar-this-firefox =
 about-debugging-sidebar-setup =
     .name = 설정
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
-about-debugging-sidebar-usb-enabled = USB 활성화됨
+about-debugging-sidebar-usb-enabled = USB 사용함
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
-about-debugging-sidebar-usb-disabled = USB 비활성화됨
+about-debugging-sidebar-usb-disabled = USB 사용 안 함
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = 연결됨
 # Connection status (disconnected) for runtime items in the sidebar
@@ -50,14 +50,14 @@ about-debugging-sidebar-item-connect-button-connection-not-responding = 연결�
 about-debugging-sidebar-item-connect-button-connection-timeout = 연결 시간 초과
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Connected
+about-debugging-sidebar-item-connected-label = 연결됨
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = 브라우저를 기다리는 중…
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
-about-debugging-sidebar-runtime-item-unplugged = 연결되지 않음
+about-debugging-sidebar-runtime-item-unplugged = 분리됨
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -85,7 +85,7 @@ about-debugging-setup-intro = 기기를 원격으로 디버깅할 연결 방법�
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = 이 버전의 { -brand-shorter-name }에서 탭, 확장기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하세요.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = 이 버전의 { -brand-shorter-name }에서 확장 기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>을 사용하세요.
+about-debugging-setup-this-firefox2 = 이 버전의 { -brand-shorter-name }에서 확장 기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하세요.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 기기 연결
 # USB section of the Setup page
@@ -94,9 +94,9 @@ about-debugging-setup-usb-title = USB
 about-debugging-setup-usb-disabled = 이것을 사용하면 필요한 Android USB 디버깅 구성 요소를 다운로드하여 { -brand-shorter-name }에 추가합니다.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
-about-debugging-setup-usb-enable-button = USB 기기 활성화
+about-debugging-setup-usb-enable-button = USB 기기 사용함
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
-about-debugging-setup-usb-disable-button = USB 기기 비활성화
+about-debugging-setup-usb-disable-button = USB 기기 사용 안 함
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = 업데이트 중…
