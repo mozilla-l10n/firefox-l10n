@@ -63,7 +63,7 @@ toolbar-button-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-page =
-    .aria-label = 이 페이지를 북마크에 추가
+    .aria-label = 이 페이지 북마크
     .accesskey = m
 main-context-menu-open-link =
     .label = 링크 열기
@@ -81,7 +81,7 @@ main-context-menu-open-link-new-private-window =
     .label = 새 사생활 보호 창에 링크 열기
     .accesskey = P
 main-context-menu-bookmark-this-link =
-    .label = 링크를 북마크에 추가
+    .label = 이 링크 북마크
     .accesskey = L
 main-context-menu-save-link =
     .label = 링크를 다른 이름으로 저장…
@@ -260,7 +260,7 @@ main-context-menu-frame-reload =
     .label = 프레임 새로 고침
     .accesskey = R
 main-context-menu-frame-bookmark =
-    .label = 프레임을 북마크에 추가
+    .label = 프레임 북마크
     .accesskey = m
 main-context-menu-frame-save-as =
     .label = 프레임을 다른 이름으로 저장…
