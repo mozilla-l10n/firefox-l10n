@@ -41,8 +41,38 @@ lockwise-header-content-logged-in = Simpan dan sinkronkan sandi dengan aman ke s
 protection-report-view-logins-button = Lihat Info masuk
     .title = Buka Info masuk
 lockwise-no-logins-content = Dapatkan aplikasi <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> untuk membawa kata sandi Anda ke mana-mana.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+       *[other] Sanditersimpan dengan aman <a data-l10n-name="lockwise-how-it-works">Cara kerja</a>
+    }
+turn-on-sync = Aktifkan { -sync-brand-short-name }
+    .title = Buka pengaturan sinkronisasi
 manage-connected-devices = Kelola perangkat…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+       *[other] Terhubung pada { $count } perangkat
+    }
 monitor-link = Cara kerja
+auto-scan = Secara otomatis dipindai hari ini
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+       *[other] Alamat surel sedang dipantau
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+       *[other] Pelanggaran data yang dikenal telah mengekspos informasi Anda
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

@@ -7,3 +7,4 @@ fxa-toolbar-sync-syncing =
 fxa-toolbar-sync-syncing-tabs =
     .label = Menyinkronkan Tab…
 sync-disconnect-dialog-title = Putuskan sambungan { -sync-brand-short-name }?
+fxa-disconnect-dialog-title = Putuskan { -brand-product-name }?
