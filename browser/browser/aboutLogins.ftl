@@ -50,6 +50,7 @@ login-list-count =
     }
 login-list-sort-label-text = Trefnu yn ôl
 login-list-name-option = Enw (A-Z)
+login-list-name-reverse-option = Enw (A-Z)
 login-list-breached-option = Gwefannau wedi Dioddef Tor-data
 login-list-last-changed-option = Newidiwyd Diwethaf
 login-list-last-used-option = Defnyddiwyd Diwethaf
@@ -77,7 +78,6 @@ about-logins-intro-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr 
 
 login-item-new-login-title = Creu Mewngofnod Newydd
 login-item-edit-button = Golygu
-login-item-delete-button = Dileu
 about-logins-login-item-remove-button = Tynnu
 login-item-origin-label = Cyfeiriad Gwefan
 login-item-origin =
@@ -124,7 +124,6 @@ enable-password-sync-preferences-button =
            *[other] Ewch i { -sync-brand-short-name } Dewisiadau
         }
     .accesskey = E
-confirm-delete-dialog-title = Dileu'r mewngofnod hwn?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Peidiwch gofyn i mi eto
     .accesskey = g
@@ -136,7 +135,6 @@ confirmation-dialog-dismiss-button =
     .title = Diddymu
 about-logins-confirm-remove-dialog-title = Tynnu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
-confirm-delete-dialog-confirm-button = Dileu
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
 confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
 confirm-discard-changes-dialog-message = Bydd yr holl newidiadau sydd heb eu cadw'n cael eu colli.
