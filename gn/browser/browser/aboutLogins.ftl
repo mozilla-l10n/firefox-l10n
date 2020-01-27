@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Omoĩporã:
 login-list-name-option = Téra  (A-Z)
+login-list-name-reverse-option = Téra (Z-A)
 login-list-breached-option = Ñanduti renda imarãmava
 login-list-last-changed-option = Ñemoambue ipyahuvéva
 login-list-last-used-option = Ojepurúva ipahaitépe
@@ -73,7 +74,6 @@ about-logins-intro-import = Ne rembiapo ñepyrũ oñeñongatúramo ambue kundah�
 
 login-item-new-login-title = Tembiapo ñepyrũ pyahu moheñói
 login-item-edit-button = Mbosako'i
-login-item-delete-button = Mboguete
 about-logins-login-item-remove-button = Mboguete
 login-item-origin-label = Ñanduti kundaharape
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Eike { -sync-brand-short-name } Oguerohoryvévape
         }
     .accesskey = V
-confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Anive eporandujey
     .accesskey = D
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Heja
 about-logins-confirm-remove-dialog-title = ¿Emboguete ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
-confirm-delete-dialog-confirm-button = Mboguete
 about-logins-confirm-remove-dialog-confirm-button = Mboguete
 confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
 confirm-discard-changes-dialog-message = Opaite ñemoambue oñeñongatu’ỹva oguepáta.

@@ -9,6 +9,7 @@ forward = Tenonde
 reload = Myanyhẽjey
 home = Óga
 fullscreen = Mba'erechaha tuichakue
+touchbar-fullscreen-exit = Esẽ mba'erechaha tuichavévagui
 find = Juhu
 new-tab = Tendayke pyahu
 add-bookmark = Embojuaju techaukaha
@@ -33,5 +34,5 @@ search-opentabs = Tendayke ijurujáva
 search-tags = Teramoĩ
 search-titles = Teratee
 
-
+##
 
