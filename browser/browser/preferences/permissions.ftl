@@ -134,6 +134,16 @@ permissions-site-location-disable-label =
     .label = Bloki novajn petojn pri permeso aliri vian pozicion
 permissions-site-location-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri vian pozicion. Blokado de aliro al via pozicio povas misfunkciigi kelkajn trajtojn de retejoj.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Agordoj - Permesoj por virtuala realo
+    .style = { permissions-window.style }
+permissions-site-xr-desc = La jenaj retejoj petis permeson aliri viajn aparatojn de virtuala realo. Vi povas decidi kiuj rajtas tion fari. Vi ankaŭ povas bloki novajn petojn pri permeso aliri viajn aparatojn de virtuala realo.
+permissions-site-xr-disable-label =
+    .label = Bloki novajn petojn pri permeso aliri viajn aparatojn de virtuala realo
+permissions-site-xr-disable-desc = Tio ĉi evitos ke retejoj, kiuj ne estas listigitaj supre, petu permeson aliri viajn aparatojn de virtuala realo. Blokado de aliro al viaj aparatoj de virtuala realo povas misfunkciigi kelkajn trajtojn de retejoj.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

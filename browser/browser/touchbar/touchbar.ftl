@@ -9,6 +9,7 @@ forward = Antaŭen
 reload = Reŝargi
 home = Hejmo
 fullscreen = Plenekrane
+touchbar-fullscreen-exit = Eliri el plenekrana reĝimo
 find = Serĉi
 new-tab = Nova langeto
 add-bookmark = Aldoni legosignon
@@ -33,5 +34,5 @@ search-opentabs = Malfermitaj langetoj
 search-tags = Etikedoj
 search-titles = Titoloj
 
-
+##
 

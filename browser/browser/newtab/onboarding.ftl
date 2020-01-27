@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Portu { -brand-product-name } kun vi
 onboarding-sync-welcome-content = Ricevu viajn legosignojn, historion, pasvortojn kaj aliajn agordojn en ĉiuj viaj aparatoj.
 onboarding-sync-welcome-learn-more-link = Pli da informo pri la kontoj de Firefox
-onboarding-sync-form-invalid-input = Valida retpoŝta adreso postulata
-onboarding-sync-legal-notice = Se vi daŭrigas vi akceptas la <a data-l10n-name="terms">kondiĉojn de uzo</a> kaj <a data-l10n-name="privacy">rimarkon pri privateco</a>.
 onboarding-sync-form-input =
     .placeholder = Retpoŝta adreso
 onboarding-sync-form-continue-button = Daŭrigi
@@ -130,6 +128,9 @@ onboarding-send-tabs-title = Sendu langetojn al via aliaj aparatoj
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Sendu paĝojn senpere inter viaj aparatoj, sed devi kopii, alglui aŭ foriri el la retumilo.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Facile kundividi paĝojn inter viaj aparatoj sed devi kopii ligilojn aŭ forlasi la retumilon.
 onboarding-send-tabs-button = Komencu uzi "Sendi langetojn"
 onboarding-pocket-anywhere-title = Legu kaj aŭskultu ie ajn
 onboarding-pocket-anywhere-text2 = Konservu vian plej ŝatatan enhavo por uzi malkonektite pero la programo { -pocket-brand-name }, kaj legu aŭskultu kaj rigardu kiam vi volas.
@@ -137,9 +138,15 @@ onboarding-pocket-anywhere-button = Provu { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Portu viajn pasvortojn ĉie
 onboarding-lockwise-passwords-text2 = Sekure gardu la pasvortojn kiujn vi konservis kaj facile komencu seancojn en viaj kontoj per { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Ricevu la programon
+onboarding-lockwise-strong-passwords-title = Krei kaj konservi fortajn pasvortojn
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } kreas fortajn pasvortojn en la momento kaj konservas ĉiujn en unu loko.
+onboarding-lockwise-strong-passwords-button = Administri legitimilojn
 onboarding-facebook-container-title = Metu limojn ĉirkaŭ Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } tenas vian profilon aparte de ĉiuj aliaj aferoj kaj do estas pli malfacile por Facebook sendi personecigitajn reklamojn.
 onboarding-facebook-container-button = Aldoni la etendaĵon
+onboarding-import-browser-settings-title = Enporti viajn legosignojn, pasvortojn kaj pli
+onboarding-import-browser-settings-text = Komencu tuj — facile portu viajn retejojn kaj agordojn de Chrome kun vi.
+onboarding-import-browser-settings-button = Enporti datumojn de Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

@@ -87,9 +87,10 @@ newtab-menu-show-privacy-info = Niaj patronoj kaj via privateco
 newtab-privacy-modal-button-done = Farita
 newtab-privacy-modal-header = Via privateco gravas.
 newtab-privacy-modal-paragraph = Krom allogajn artikolojn ni montras al vi ankaŭ gravajn, zorge reviziitan enhavon el elektitaj patronoj. Estu certa, viaj retumaj datumoj neniam foriras el via loka instalaĵo de { -brand-product-name } — ni ne vidas ilin, kaj ankaŭ ne niaj patronoj.
+newtab-privacy-modal-paragraph-2 = Krom allogajn artikolojn ni montras al vi ankaŭ gravajn, zorge reviziitan enhavon el elektitaj patronoj. Estu certa, viaj retumaj datumoj neniam foriras el via loka instalaĵo de { -brand-product-name } — ni ne vidas ilin, kaj ankaŭ ne niaj patronoj.
 newtab-privacy-modal-link = Pli da informo pri privateco en novaj folioj
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Forigi legosignon
@@ -124,6 +125,10 @@ newtab-label-removed-bookmark = Legosigno forigita
 newtab-label-recommended = Tendencoj
 newtab-label-saved = Konservita en { -pocket-brand-name }
 newtab-label-download = Elŝutita
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Patronita
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -176,7 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Fuŝ! Ni preskaŭ tute ŝa
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Ĉefaj temoj:
 newtab-pocket-more-recommendations = Pli da rekomendoj
-newtab-pocket-how-it-works = Kiel funkcias tio
+newtab-pocket-whats-pocket = Kio estas { -pocket-brand-name }?
 newtab-pocket-cta-button = Instali { -pocket-brand-name }
 newtab-pocket-cta-text = Konservu viajn ŝatatajn artikolojn en { -pocket-brand-name }, kaj stimulu vian menson per ravaj legaĵoj.
 
