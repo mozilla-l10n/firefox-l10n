@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "مرحبا">
 <!ENTITY firstrun_urlbar_message2 "شكرا على اختيارك &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "مرحبًا في &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "متصفّح هواتف حديث من موزيلا، المؤسسة غير الربحية الملتزمة تجاه وِب حر ومفتوح.">
+<!ENTITY firstrun_urlbar_subtext2 "متصفّح هواتف حديث من Mozilla، المؤسسة غير الربحية الملتزمة تجاه وِب حر ومفتوح.">
 <!ENTITY newfirstrun_urlbar_subtext "سريع وخاص ويقف صفًا صفًا معك.">
 <!ENTITY firstrun_panel_title_privacy "الخصوصية">
 <!ENTITY firstrun_privacy_message "تصفح و لا أحد يراقبك">
@@ -23,7 +23,7 @@
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY firstrun_sync_message3 "زامِن العلامات والتأريخ وكلمات السر إلى هاتفك.">
 <!ENTITY firstrun_sync_subtext2 "استعمل «تزامن» لتجد العلامات، وكلمات السر وغيرها من الأمور التي تحفظها في &brandShortName; على أجهزتك.">
-<!ENTITY newfirstrun_sync_subtext "زامِن ما حفظته على المحمول في فَيَرفُكس على سطح المكتب، بكل أمان وأقصى خصوصية.">
+<!ENTITY newfirstrun_sync_subtext "زامِن ما حفظته على المحمول في Firefox على سطح المكتب، بكل أمان وأقصى خصوصية.">
 <!ENTITY firstrun_sendtab_title "أرسِل الألسنة">
 <!ENTITY firstrun_sendtab_message "شارِك الألسنة بين المحمول وسطح المكتب، في لحظة.">
 <!ENTITY firstrun_signin_message "اتصل لتبدأ">
@@ -198,7 +198,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "لم يُعثر على أيّ جهاز مربوط بحساب فيرفكس">
+<!ENTITY overlay_no_synced_devices "لم يُعثر على أيّ جهاز مربوط بحساب Firefox">
 
 <!ENTITY pref_category_search3 "البحث">
 <!ENTITY pref_category_search_summary2 "أضف، و حدد المبدئي، و أظهر الاقتراحات">
@@ -398,7 +398,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_qrcode_enabled_summary2 "اسمح بماسح باركود في شريط المسار">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
-<!ENTITY pref_sync_default_title "حساب فَيَرفُكس">
+<!ENTITY pref_sync_default_title "حساب Firefox">
 <!ENTITY pref_sync2 "لِج">
 <!ENTITY pref_sync_summary2 "زامن الألسنة، و العلامات، و جلسات الولوج و التأريخ">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
@@ -829,7 +829,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "الإضافات">
-<!ENTITY restrictable_feature_addons_installation_description "أضف مزايا أو خصائص إلى فيرفكس. ملاحظة: يمكن للإضافات تعطيل قيود معينة.">
+<!ENTITY restrictable_feature_addons_installation_description "أضف مزايا أو خصائص إلى Firefox. ملاحظة: يمكن للإضافات تعطيل قيود معينة.">
 <!ENTITY restrictable_feature_private_browsing "التصفح الخاص">
 <!ENTITY restrictable_feature_private_browsing_description "يسمح لأفراد العائلة بالتصفح بدون حفظ معلومات المواقع و الصفحات التي يزورونها.">
 <!ENTITY restrictable_feature_clear_history "امسح التأريخ">
@@ -849,9 +849,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "فَيَرفُكس: الدعم">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "مساعدة و دعم فيَرفُكس لملفات الإعدادات المقيّدَة على ألواح أندرويد">
+<!ENTITY bookmarks_restricted_support2 "مساعدة و دعم Firefox لملفات الإعدادات المقيّدَة على ألواح أندرويد">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "تعلم الوب: صانع الوب من موزيلا">
+<!ENTITY bookmarks_restricted_webmaker "تعلم الوب: صانع الوب من Mozilla">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is

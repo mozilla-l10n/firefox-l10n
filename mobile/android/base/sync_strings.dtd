@@ -4,7 +4,10 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "تزامُن فَيَرفُكس">
+<!ENTITY syncBrand.fullName.label "تزامُن Firefox">
+
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
 <!ENTITY syncBrand.shortName.label "تزامُن">
 
 <!-- Main titles. -->
@@ -61,7 +64,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'عليك ترقية &brandShortName; لتتمكّن من الولوج.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في قائمة إعدادات أندرويد ← الحسابات.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'انقر للولوج إلى حساب فَيَرفُكس الجديد.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'انقر للولوج إلى حساب Firefox الجديد.'>
 <!ENTITY fxaccount_status_choose_what 'اختر ما الذي تريد مزامنته'>
 <!ENTITY fxaccount_status_bookmarks 'العلامات'>
 <!ENTITY fxaccount_status_history 'التأريخ'>
@@ -94,7 +97,7 @@
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
-<!ENTITY fxaccount_account_type_label 'فَيَرفُكس'>
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
