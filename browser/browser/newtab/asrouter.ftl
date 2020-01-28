@@ -160,8 +160,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [many] مسجّلات البصمات المحجوبة
        *[other] مسجّلات البصمات المحجوبة
     }
+cfr-whatsnew-fingerprinter-counter-body = يحجب { -brand-shorter-name } العديد من مسجّلات البصمات التي تجمع معلومات جهازك وأفعالك لتفتح عنك ملفًا شخصيًا تستعمله للإعلانات.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = مسجّلات البصمات
+cfr-whatsnew-fingerprinter-counter-body-alt = يمكن أن يحجب { -brand-shorter-name } العديد من مسجّلات البصمات التي تجمع معلومات جهازك وأفعالك لتفتح عنك ملفًا شخصيًا تستعمله للإعلانات.
 
 ## Bookmark Sync
 
@@ -194,6 +196,8 @@ cfr-doorhanger-firefox-send-ok-button = جرّب { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = طالِع الحمايات
+    .accesskey = ط
 cfr-doorhanger-socialtracking-close-button = أغلِق
     .accesskey = غ
 cfr-doorhanger-socialtracking-dont-show-again = لا تعرض هذه الرسائل ثانيةً
