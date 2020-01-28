@@ -131,6 +131,9 @@ legacy-warning-show-legacy = Afichar las extensions obsolètas
 legacy-extensions =
     .value = Extensions obsolètas
 legacy-extensions-description = Aquestas extensions respèctan pas los estandards actuals de { -brand-short-name } e son estadas desactivadas. <label data-l10n-name="legacy-learn-more">Ne saber mai suls cambiaments dels moduls</label>
+extensions-view-discopane =
+    .name = Recomandacions
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Mes a jorn
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -295,6 +298,9 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = Autorizat en navegacion privada
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Vos sentissètz creatiu ?<a data-l10n-name="link">Creatz vòstre pròpri tèma amb Firefox Color.</a>
 
 ## Page headings
 

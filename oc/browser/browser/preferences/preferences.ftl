@@ -395,6 +395,9 @@ browsing-search-on-start-typing =
     .label = Començar la recèrca en picar lo tèxte
     .accesskey = x
 browsing-picture-in-picture-learn-more = Ne saber mai
+browsing-cfr-recommendations =
+    .label = Recomandar d’extensions pendent la navegacion
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Ne saber mai
 
 ## General Section - Proxy
