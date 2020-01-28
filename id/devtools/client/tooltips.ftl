@@ -31,7 +31,7 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> tidak berdampak
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan elemen sebarus atau table-cell.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena memiliki nilai display <strong>{ $display }</strong>..
 inactive-css-not-display-block-on-floated = Nilai <strong>display</strong> telah diubah oleh mesin menjadi <strong>block</strong> karena elemennya <strong>mengambang<strong>.
-inactive-css-property-is-impossible-to-override-in-visited = Tidak mungkin menimpa <strong>{ $properti }</strong> karena pembatasan <strong>:visited</strong>.
+inactive-css-property-is-impossible-to-override-in-visited = Tidak mungkin menimpa <strong>{ $property }</strong> karena pembatasan <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan elemen dengan posisi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display

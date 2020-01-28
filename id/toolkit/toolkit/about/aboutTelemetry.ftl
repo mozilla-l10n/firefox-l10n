@@ -147,4 +147,4 @@ about-telemetry-origin-count = jumlah
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> mengenkode data sebelum dikirim agar { $telemetryServerOwner } bisa menghitung, tetapi tidak bisa mengetahui apakah { -brand-product-name } yang disediakan telah atau tidak berkontribusi atas perhitungan. (<a data-l10n-name="prio-blog-link">pelajari lebih lanjut</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
-about-telemetry-process = { $proses } proses
+about-telemetry-process = { $process } proses
