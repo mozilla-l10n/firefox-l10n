@@ -64,6 +64,8 @@ certificate-viewer-public-key-info = Informació sobre la clau pública
 certificate-viewer-miscellaneous = Altres
 certificate-viewer-fingerprints = Empremtes digitals
 certificate-viewer-basic-constraints = Restriccions bàsiques
+certificate-viewer-key-usages = Usos de la clau
+certificate-viewer-extended-key-usages = Usos de la clau ampliats
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixa
