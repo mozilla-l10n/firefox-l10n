@@ -640,7 +640,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveToPocketCmd.accesskey    "o">
 <!ENTITY saveLinkToPocketCmd.label    "Link in Pocket speichern">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label         "Pocket-Liste anzeigen">
+<!ENTITY pocketMenuitem.label         "Pocket-Liste">
 
 <!ENTITY emailPageCmd.label           "Link per E-Mail senden…">
 <!ENTITY emailPageCmd.accesskey       "s">
