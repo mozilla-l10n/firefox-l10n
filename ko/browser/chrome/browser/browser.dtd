@@ -312,7 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksSidebar.label         "북마크 탐색창 숨기기">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
 <!ENTITY hideBookmarksToolbar.label         "북마크 도구 모음 감춤">
-<!ENTITY searchBookmarks.label              "즐겨찾기 검색">
+<!ENTITY searchBookmarks.label              "북마크 검색">
 <!ENTITY bookmarkingTools.label             "북마크 도구">
 <!ENTITY addBookmarksMenu.label             "도구 모음에 북마크 메뉴 추가">
 <!ENTITY removeBookmarksMenu.label          "도구 모음에서 북마크 메뉴 제거">
@@ -957,7 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "동기화한 탭">
 
-<!ENTITY syncBrand.shortName.label    "동기화">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY syncSignIn.accesskey         "Y">
@@ -966,7 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;에 다시 연결…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "동기화">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "자동 숨기기">
 
