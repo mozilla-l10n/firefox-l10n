@@ -68,6 +68,7 @@ policy-NetworkPrediction = Aktifkan atau nonaktifkan prediksi jaringan (DNS pref
 policy-NewTabPage = Aktifkan atau nonaktifkan laman Tab Baru.
 policy-NoDefaultBookmarks = Nonaktifkan pembuatan markah default yang dibundel dengan { -brand-short-name } serta Markah Cerdas (Sering Mampir, Tag Terbaru). Catatan: kebijakan ini hanya efektif jika digunakan sebelum menjalankan profil pertama.
 policy-OfferToSaveLogins = Paksa setelan untuk mengizinkan { -brand-short-name } untuk menawarkan agar mengingat info masuk dan kata sandi yang disimpan. Nilai true dan false diterima.
+policy-OfferToSaveLoginsDefault = Setel nilai default untuk mengizinkan { -brand-short-name } untuk menawarkan agar mengingat info masuk dan kata sandi yang disimpan. Nilai true dan false diterima.
 policy-OverrideFirstRunPage = Ganti laman pertama yang dibuka. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman pertama yang dibuka.
 policy-OverridePostUpdatePage = Ganti laman "Yang Baru" yang tampil setelah pembaruan. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman setelah pembaruan.
 policy-PasswordManagerEnabled = Aktifkan penyimpanan sandi melalui manajer sandi.

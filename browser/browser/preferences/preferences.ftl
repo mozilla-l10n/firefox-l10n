@@ -907,7 +907,9 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Seimbang untuk perlindungan dan kinerja. Halaman akan dimuat secara normal.
 content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat menyebabkan beberapa situs atau konten rusak.
+content-blocking-etp-custom-desc = Pilih pelacak dan skrip yang akan diblokir.
 content-blocking-private-windows = Melacak konten di Jendela Pribadi
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
 content-blocking-social-media-trackers = Pelacak media sosial
@@ -921,6 +923,7 @@ content-blocking-fingerprinters = Pelacak Sidik
 content-blocking-warning-title = Perhatian!
 content-blocking-warning-description = Pemblokiran konten bisa menyebabkan beberapa situs web tidak berfungsi. Mudah sekali untuk menonaktifkan pemblokiran pada situs yang Anda percayai.
 content-blocking-learn-how = Pelajari caranya
+content-blocking-etp-warning-description = Pemblokiran pelacak dapat memengaruhi fungsionalitas beberapa situs tertentu. Muat ulang halaman beserta pelacak untuk memuat semua konten.
 content-blocking-warning-learn-how = Pelajari caranya
 content-blocking-reload-description = Anda harus memuat ulang tab Anda untuk menerapkan perubahan ini.
 content-blocking-reload-tabs-button =
@@ -1019,6 +1022,7 @@ permissions-a11y-privacy-link = Pelajari lebih lanjut
 collection-header = Pengumpulan dan Penggunaan Data { -brand-short-name }
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-privacy-notice = Pemberitahuan Privasi
+collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.
 collection-health-report-telemetry-disabled-link = Pelajari lebih lanjut
 collection-health-report =
     .label = Izinkan { -brand-short-name } mengirim data teknis dan interaksi ke { -vendor-short-name }

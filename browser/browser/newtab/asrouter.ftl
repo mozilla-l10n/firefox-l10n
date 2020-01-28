@@ -96,7 +96,7 @@ cfr-whatsnew-fx70-title = { -brand-short-name } kini berjuang lebih keras untuk 
 cfr-whatsnew-fx70-body =
     Pembaruan terbaru meningkatkan fitur Perlindungan Pelacakan dan membuatnya
     lebih mudah dari sebelumnya untuk membuat kata sandi aman untuk setiap situs.
-cfr-whatsnew-tracking-protect-title = Lindungi diri anda dari para pelacak
+cfr-whatsnew-tracking-protect-title = Lindungi diri Anda dari para pelacak
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } memblokir banyak pelacak sosial dan lintas situs umum yang
     mengikuti kegiatan daring Anda.
@@ -111,7 +111,8 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Sejak { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Lihat Laporan
 cfr-whatsnew-lockwise-backup-title = Cadangkan kata sandi Anda
-cfr-whatsnew-lockwise-backup-link-text = Nyalakan pencadangan
+cfr-whatsnew-lockwise-backup-body = Kini buat kata sandi aman yang dapat diakses di mana saja Anda masuk.
+cfr-whatsnew-lockwise-backup-link-text = Aktifkan pencadangan
 cfr-whatsnew-lockwise-take-title = Bawa sandi ke mana Anda pergi
 cfr-whatsnew-lockwise-take-body = Aplikasi seluler { -lockwise-brand-short-name } memungkinkan Anda mengakses cadangan kata sandi Anda dari mana saja.
 cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
@@ -119,11 +120,13 @@ cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Tonton video sambil menjelajah
+cfr-whatsnew-pip-body = Fitur gambar dalam gambar menampilkan video dalam jendela mengambang agar Anda bisa bekerja di tab lainnya.
 cfr-whatsnew-pip-cta = Pelajari lebih lanjut
 
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Lebih sedikit pop-up situs yang mengganggu
+cfr-whatsnew-permission-prompt-body = Kini { -brand-shorter-name } memblokir situs agar tidak secara otomatis meminta Anda mengirim pesan pop-up.
 cfr-whatsnew-permission-prompt-cta = Pelajari lebih lanjut
 
 ## Fingerprinter Counter
@@ -135,12 +138,14 @@ cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
        *[other] Pelacak Sidik diblokir
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } memblokir banyak pelacak sidik yang diam-diam mengumpulkan informasi tentang perangkat dan tindakan Anda untuk membuat profil iklan tentang Anda.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Pelacak Sidik
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } bisa memblokir pelacak sidik yang diam-diam mengumpulkan informasi tentang perangkat dan tindakan Anda untuk membuat profil iklan tentang Anda.
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-header = Dapatkan markah ini di telepon Anda
+cfr-doorhanger-sync-bookmarks-header = Dapatkan markah ini di ponsel Anda
 cfr-doorhanger-sync-bookmarks-body = Bawa markah, kata sandi, riwayat dan lainnya di mana pun Anda masuk ke { -brand-product-name }
 cfr-doorhanger-sync-bookmarks-ok-button = Aktifkan { -sync-brand-short-name }
     .accesskey = A
@@ -156,6 +161,7 @@ cfr-doorhanger-sync-logins-ok-button = Aktifkan { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Baca ini saat bepergian
 cfr-doorhanger-send-tab-recipe-header = Bawa resep ini ke dapur
+cfr-doorhanger-send-tab-body = Fitur Kirim Tab dapat Anda gunakan untuk membagikan tautan ini dengan mudah ke ponsel atau di mana saja Anda masuk ke { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Coba Kirim Tab
     .accesskey = K
 

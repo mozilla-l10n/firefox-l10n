@@ -86,6 +86,8 @@ newtab-menu-show-privacy-info = Sponsor kami & privasi Anda
 
 newtab-privacy-modal-button-done = Selesai
 newtab-privacy-modal-header = Privasi Anda penting.
+newtab-privacy-modal-paragraph = Selain menampilkan berbagai kisah menawan, kami juga menampilkan konten yang relevan, yang telah diperiksa dari sponsor tertentu, untuk Anda. Yakinlah, data penjelajahan Anda tidak pernah meninggalkan { -brand-product-name } Anda — kami dan sponsor kami tidak melihatnya.
+newtab-privacy-modal-paragraph-2 = Selain menampilkan berbagai kisah menawan, kami juga menampilkan konten yang relevan, yang telah diperiksa dari sponsor tertentu, untuk Anda. Yakinlah, <strong>data penjelajahan Anda tidak pernah meninggalkan { -brand-product-name } Anda</strong> — kami dan sponsor kami tidak melihatnya.
 newtab-privacy-modal-link = Pelajari cara privasi bekerja di tab baru
 
 ##
@@ -123,6 +125,10 @@ newtab-label-removed-bookmark = Markah dihapus
 newtab-label-recommended = Trending
 newtab-label-saved = Disimpan di { -pocket-brand-name }
 newtab-label-download = Terunduh
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Pesan Sponsor
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
