@@ -56,6 +56,13 @@ lockwise-no-logins-content = Tapit an arload <a data-l10n-name="lockwise-inline-
 turn-on-sync = Gweredekaat { -sync-brand-short-name }…
     .title = Mont d'ar gwellvezioù goubredañ
 manage-connected-devices = Merañ trevnadoù…
+monitor-title = Diwallit diouzh ar fuadurioù roadennoù
+monitor-link = Penaos ec'h a en-dro
+monitor-header-content-no-account = Gwiriekait { -monitor-brand-name } evit gwelout mard oc'h bet tizhet gant ur fuadur roadennoù, ha resevit galvoù-diwall a-zivout fuadurioù nevez.
+monitor-header-content-signed-in = { -monitor-brand-name } a c'halv ac'hanoc'h ma vez ho titouroù en ur fuadur roadennoù.
+monitor-sign-up = Emezelit d'ar galvoù-diwall war ar fuadur roadennoù
+auto-scan = Gwiriekaet hiziv ent emgefreek
+full-report-link = Gwelout an danevell a-bezh war <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
