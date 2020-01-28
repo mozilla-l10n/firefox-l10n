@@ -201,6 +201,7 @@
 <!ENTITY sortByRecipientCmd.label "ผู้รับ">
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByCorrespondentCmd.label "ผู้สื่อสาร">
+<!ENTITY sortByCorrespondentCmd.accesskey "ส">
 <!ENTITY sortByUnreadCmd.label "อ่านแล้ว">
 <!ENTITY sortByUnreadCmd.accesskey "อ">
 <!ENTITY sortByOrderReceivedCmd.label "ลำดับที่ได้รับ">
@@ -369,7 +370,9 @@
 <!ENTITY editAsNewMsgCmd.accesskey "ก">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "แก้ไขข้อความฉบับร่าง">
+<!ENTITY editDraftMsgCmd.accesskey "ร">
 <!ENTITY editTemplateMsgCmd.label "แก้ไขแม่แบบ">
+<!ENTITY editTemplateMsgCmd.accesskey "ม">
 <!ENTITY newMsgFromTemplateCmd.label "ข้อความใหม่จากแม่แบบ">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "สร้างตัวกรองจากข้อความ…">
@@ -440,6 +443,7 @@
 <!ENTITY openInConversationCmd.accesskey "ส">
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "ไฟล์แนบ">
+<!ENTITY openAttachmentListCmd.accesskey "ฟ">
 <!ENTITY openFeedMessage1.label "เมื่อเปิดข้อความฟีด">
 <!ENTITY openFeedMessage1.accesskey "ป">
 <!ENTITY openFeedWebPage.label "เปิดเป็นหน้าเว็บ">
@@ -479,6 +483,7 @@
 <!ENTITY savedFiles.accesskey "ฟ">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "ตัวกรองข้อความ">
+<!ENTITY filtersCmd2.accesskey "ต">
 <!ENTITY filtersApply.label "เรียกใช้ตัวกรองกับโฟลเดอร์">
 <!ENTITY filtersApply.accesskey "ร">
 <!ENTITY filtersApplyToSelection.label "เรียกใช้ตัวกรองกับข้อความที่เลือก">
@@ -503,6 +508,7 @@
 
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "เครื่องมือนักพัฒนา">
+<!ENTITY devtoolsMenu.accesskey "พ">
 <!ENTITY devToolboxCmd.label "กล่องเครื่องมือนักพัฒนา">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "ดีบั๊กส่วนเสริม">
@@ -600,13 +606,19 @@
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "แสดงเนื้อหาระยะไกลในข้อความนี้">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "ส">
 <!ENTITY editRemoteContentSettings.label "แก้ไขตัวเลือกเนื้อหาระยะไกล…">
+<!ENTITY editRemoteContentSettings.accesskey "ก">
 <!ENTITY editRemoteContentSettingsUnix.label "แก้ไขค่ากำหนดเนื้อหาระยะไกล…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "ก">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "เพิกเฉยคำเตือนสำหรับข้อความนี้">
+<!ENTITY phishingOptionIgnore.accesskey "พ">
 <!ENTITY phishingOptionSettings.label "แก้ไขตัวเลือกการตรวจหาการหลอกลวง…">
+<!ENTITY phishingOptionSettings.accesskey "แ">
 <!ENTITY phishingOptionSettingsUnix.label "แก้ไขค่ากำหนดการตรวจหาการหลอกลวง…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "แ">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "ข้อความใหม่">
@@ -635,6 +647,7 @@
 <!ENTITY folderContextPauseAllUpdates.label "หยุดการอัปเดตทั้งหมดชั่วคราว">
 <!ENTITY folderContextPauseUpdates.label "หยุดการอัปเดตชั่วคราว">
 <!ENTITY folderContextOpenInNewWindow.label "เปิดในหน้าต่างใหม่">
+<!ENTITY folderContextOpenInNewWindow.accesskey "ป">
 <!ENTITY folderContextOpenNewTab.label "เปิดในแท็บใหม่">
 <!ENTITY folderContextOpenNewTab.accesskey "ท">
 <!ENTITY folderContextNew.label "โฟลเดอร์ย่อยใหม่…">
@@ -666,6 +679,7 @@
 <!ENTITY folderContextFavoriteFolder.label "โฟลเดอร์โปรด">
 <!ENTITY folderContextFavoriteFolder.accesskey "ฟ">
 <!ENTITY folderContextSettings2.label "การตั้งค่า">
+<!ENTITY folderContextSettings2.accesskey "ก">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "ชื่อหรืออีเมลมี:">
@@ -742,7 +756,9 @@
 <!ENTITY contextOpenConversation.label "เปิดข้อความในการสนทนา">
 <!ENTITY contextOpenConversation.accesskey "ส">
 <!ENTITY contextOpenContainingFolder.label "เปิดข้อความในโฟลเดอร์ที่บรรจุ">
+<!ENTITY contextOpenContainingFolder.accesskey "บ">
 <!ENTITY contextEditMsgAsNew.label "แก้ไขเป็นข้อความใหม่">
+<!ENTITY contextEditMsgAsNew.accesskey "ก">
 <!ENTITY contextEditDraftMsg.label "แก้ไขข้อความฉบับร่าง">
 <!ENTITY contextEditTemplate.label "แก้ไขแม่แบบ">
 <!ENTITY contextArchive.label "เก็บถาวร">
