@@ -51,7 +51,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }와 함께 하세요
-onboarding-sync-welcome-content = 즐겨찾기와 방문기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.
+onboarding-sync-welcome-content = 북마크와 방문기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.
 onboarding-sync-welcome-learn-more-link = Firefox 계정 더 알아보기
 onboarding-sync-form-input =
     .placeholder = 이메일

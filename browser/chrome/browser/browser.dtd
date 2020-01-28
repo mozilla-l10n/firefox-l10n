@@ -141,7 +141,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Firefox와 함께 하세요">
-<!ENTITY fxa.signin.description.label "즐겨찾기와 방문기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.">
+<!ENTITY fxa.signin.description.label "북마크와 방문기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.">
 <!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; 켜기…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
@@ -311,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "북마크 탐색창 보기">
 <!ENTITY hideBookmarksSidebar.label         "북마크 탐색창 숨기기">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
-<!ENTITY hideBookmarksToolbar.label         "북마크 도구 모음 감춤">
+<!ENTITY hideBookmarksToolbar.label         "북마크 도구 모음 숨기기">
 <!ENTITY searchBookmarks.label              "북마크 검색">
 <!ENTITY bookmarkingTools.label             "북마크 도구">
 <!ENTITY addBookmarksMenu.label             "도구 모음에 북마크 메뉴 추가">
@@ -1088,7 +1088,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "공유">
 <!ENTITY pageAction.shareMore.label "더보기…">
 
-<!ENTITY libraryButton.tooltip "방문 목록, 즐겨찾기 등 보기">
+<!ENTITY libraryButton.tooltip "방문 기록, 저장된 북마크 등 보기">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
