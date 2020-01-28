@@ -87,6 +87,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Log Keputusan
 graphics-crash-guards-title = Fitur Penjaga Kerusakan yang Dinonaktifkan
 graphics-workarounds-title = Solusi sementara
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protokol Jendela
 place-database-title = Basis Data Places
 place-database-integrity = Integritas
 place-database-verify-integrity = Verifikasikan Integritas
@@ -130,8 +132,11 @@ media-device-format = Format
 media-device-channels = Kanal
 media-device-rate = Nilai
 media-device-latency = Latensi
+media-capabilities-title = Kemampuan Media
+# List all the entries of the database.
+media-capabilities-enumerate = Daftar basis data
 
-
+##
 
 intl-title = Pelokalan dan Internasional
 intl-app-title = Setelan Aplikasi
@@ -142,6 +147,22 @@ intl-locales-default = Bahasa Baku
 intl-os-title = Sistem Operasi
 intl-os-prefs-system-locales = Bahasa Sistem
 intl-regional-prefs = Pengaturan Regional
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Debugging Jarak Jauh (Protokol Chromium)
+remote-debugging-accepting-connections = Menerima Koneksi
+remote-debugging-url = URL
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Laporan Kerusakan dalam { $days } Hari Terakhir
@@ -194,6 +215,7 @@ gpu-device-id = ID Perangkat
 gpu-subsys-id = ID Subsistem
 gpu-drivers = Driver
 gpu-ram = RAM
+gpu-driver-vendor = Vendor Driver
 gpu-driver-version = Versi Penggerak
 gpu-driver-date = Tanggal Penggerak
 gpu-active = Aktif
@@ -219,6 +241,7 @@ d3d11video-crash-guard = Pendekode Video D3D11
 d3d9video-crash-buard = Pendekode Video D3D9
 d3d9video-crash-guard = Pendekode Video D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 reset-on-next-restart = Setel Ulang pada Mulai Ulang Berikutnya
 gpu-process-kill-button = Matikan Proses GPU
 gpu-device-reset = Reset Perangkat

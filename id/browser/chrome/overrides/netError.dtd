@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Coba Lagi">
 <!ENTITY returnToPreviousPage.label "Mundur">
 <!ENTITY returnToPreviousPage1.label "Kembali (Disarankan)">
-<!ENTITY advanced.label "Lebih lanjut">
-<!ENTITY continue2.label "Lainnya…">
 <!ENTITY advanced2.label "Tingkat Lanjut…">
-<!ENTITY moreInformation.label "Informasi Lebih Lanjut">
 <!ENTITY viewCertificate.label "Tampilkan Sertifikat">
 
 <!-- Specific error messages -->
@@ -95,13 +92,11 @@
 <!ENTITY nssFailure2.title "Sambungan Aman Gagal">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang diterima tidak bisa diverifikasi.</li> <li>Mohon hubungi pemilik situs web mengenai masalah ini.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Sambungan Anda tidak aman">
 <!ENTITY certerror.longpagetitle2 "Peringatan: Potensi Risiko Keamanan Menghadang">
 <!ENTITY certerror.sts.longpagetitle  "Tidak Tersambung: Dugaan Masalah Keamanan">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Pemilik <span class='hostname'/> telah mengonfigurasikan situs web secara tidak benar. Untuk melindungi informasi Anda dari pencurian, &brandShortName; tidak menyambungkan Anda ke situs ini.">
 <!ENTITY certerror.introPara2 "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak melanjutkan ke <span class='hostname'/>. Jika Anda mengunjungi situs ini, penyerang bisa saja mencuri informasi seperti sandi, surel, atau rincian kartu kredit Anda.">
 <!ENTITY certerror.sts.introPara "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak dapat melanjutkan ke <span class='hostname'/> karena situs ini memerlukan sambungan aman.">
 
@@ -130,11 +125,12 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
+<!ENTITY xfoBlocked.title "Diblokir oleh Kebijakan X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dalam konteks ini karena laman mengandung kebijakan X-Frame-Options yang tidak mengizinkan hal ini.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 <!ENTITY securityOverride.exceptionButton1Label "Terima Risikonya dan Lanjutkan">
 
 <!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Mozilla mengidentifikasi dan memblokir situs yang mencurigakan.">
@@ -148,16 +144,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Info lebih lanjut: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; tidak tersambung ke <span id='wrongSystemTime_URL'/> karena waktu pada komputer Anda sepertinya menampilkan waktu yang salah, dan hal ini mencegah sambungan yang aman.</p> <p>Komputer Anda diatur ke <span id='wrongSystemTime_systemDate'/>, ketika seharusnya <span id='wrongSystemTime_actualDate'/>. Untuk memperbaiki masalah ini, ubahlah pengaturan tanggal dan waktu Anda untuk mencocokkan dengan waktu yang tepat.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; tidak tersambung ke <span id='wrongSystemTimeWithoutReference_URL'/> karena waktu pada komputer Anda menunjukkan waktu yang salah dan hal ini mencegah sambungan yang aman.</p> <p>Komputer Anda diatur ke <span id='wrongSystemTimeWithoutReference_systemDate'/>. Untuk memperbaiki masalah ini, ubahlah pengaturan tanggal dan waktu Anda untuk mencocokkan dengan waktu yang tepat.</p>">
-
-<!ENTITY certerror.pagetitle1  "Sambungan Tidak Aman">
 <!ENTITY certerror.pagetitle2  "Peringatan: Potensi Risiko Keamanan Menghadang">
 <!ENTITY certerror.sts.pagetitle  "Tidak Tersambung: Dugaan Masalah Keamanan">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Situs ini menggunakan HTTP Strict Transport Security atau Keamanan Transportasi Ketat HTTP (HSTS) untuk menyatakan bahwa &brandShortName; hanya bisa tersambung secara aman. Sebagai hasilnya, tidaklah mungkin untuk menambahkan pengecualian bagi sertifikat ini.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> memiliki kebijakan keamanan yang disebut sebagai HTTP Strict Transport Security (HSTS), yang berarti &brandShortName; hanya bisa tersambung dengannya secara aman. Anda tidak bisa menambahkan pengecualian untuk mengunjungi situs.">
 <!ENTITY certerror.copyToClipboard.label "Salin teks ke papan klip">
 
@@ -180,6 +168,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Ingin setelan baku dipulihkan?">
 <!ENTITY prefReset.label "Pulihkan setelan baku">
+
+<!ENTITY enableTls10.longDesc "Situs web ini mungkin tidak mendukung protokol TLS 1.2, yang merupakan versi minimum yang didukung oleh &brandShortName;. Pengaktifkan TLS 1.0 dan TLS 1.1 mungkin bisa membuat koneksi bisa dilanjutkan.">
+<!ENTITY enableTls10.note "TLS 1.0 dan TLS 1.1 akan dinonaktifkan secara permanen dalam rilis yang akan datang.">
+<!ENTITY enableTls10.label "Aktifkan TLS 1.0 dan 1.1">
 
 <!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
 <!ENTITY networkProtocolError.longDesc "<p>Laman yang ingin Anda lihat tidak dapat ditampilkan karena ada yang salah dalam protokol jaringan.</p><ul><li>Harap hubungi pemilik situs web untuk memberi tahu mereka tentang masalah ini.</li></ul>">
