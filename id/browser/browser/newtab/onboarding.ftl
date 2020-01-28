@@ -145,6 +145,7 @@ onboarding-facebook-container-title = Tetapkan Batas dengan Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } menjaga profil Anda terpisah dari hal lainnya, menjadikan Facebook lebih sulit untuk menargetkan Anda dengan iklan.
 onboarding-facebook-container-button = Tambahkan Ekstensi
 onboarding-import-browser-settings-title = Impor Markah, Kata Sandi, dan Lainnya
+onboarding-import-browser-settings-text = Gunakan langsung — pindahkan situs dan pengaturan Anda dari Chrome dengan mudah.
 onboarding-import-browser-settings-button = Impor Data Chrome
 
 ## Message strings belonging to the Return to AMO flow
