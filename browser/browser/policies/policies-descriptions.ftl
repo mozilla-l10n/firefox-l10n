@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = De side dy't foar it earst iepene wurdt ferfange. 
 policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing ferfange. Stel dizze beliedsregel yn op leech as jo de oanbelangjende side útskeakelje wolle.
 policy-PasswordManagerEnabled = Bewarjen fan wachtwurden yn de wachtwurdbehearder ynskeakelje.
 policy-Permissions = Tastimmingen foar kamera, mikrofoan, lokaasje en notifikaasjes konfigurearje.
+policy-Permissions2 = Tastimmingen foar kamera, mikrofoan, lokaasje, notifikaasjes en automatysk ôfspyljen konfigurearje.
 policy-PopupBlocking = Tastean dat bepaalde websites standert pop-ups werjaan.
 policy-Preferences = De wearde foar in subset fan foarkarren ynstelle en beskoattelje.
 policy-PromptForDownloadLocation = Freegje wêr't downloade bestannen bewarre moatte wurde.
