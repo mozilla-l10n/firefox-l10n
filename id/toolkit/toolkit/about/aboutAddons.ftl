@@ -99,9 +99,11 @@ detail-private-browsing-description2 = Jika diizinkan, ekstensi akan memiliki ak
 # cannot be overridden by the user.
 detail-private-disallowed-label = Tidak Diizinkan di Jendela Pribadi
 detail-private-disallowed-description = Ekstensi ini tidak berjalan saat penjelajahan pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
+detail-private-disallowed-description2 = Ekstensi ini tidak berjalan saat penjelajahan pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Membutuhkan Akses ke Jendela Pribadi
 detail-private-required-description = Ekstensi ini memiliki akses ke aktivitas daring Anda saat menjelajah pribadi. <label data-l10n-name="detail-private-browsing-learn-more">Pelajari lebih lanjut</label>
+detail-private-required-description2 = Ekstensi ini memiliki akses ke aktivitas daring Anda saat penjelajahan pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 detail-private-browsing-on =
     .label = Izinkan
     .tooltiptext = Aktifkan di Penjelajahan Pribadi
@@ -284,6 +286,12 @@ shortcuts-modifier-other = Sertakan Ctrl atau Alt
 shortcuts-invalid = Kombinasi tidak valid
 shortcuts-letter = Ketikkan huruf
 shortcuts-system = Tidak bisa menimpa pintasan { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Pintasan ganda
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } digunakan sebagai pintasan di lebih dari satu tempat. Pintasan duplikat dapat menyebabkan perilaku yang tidak terduga.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -298,6 +306,15 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Ekstensi dan tema seperti layaknya aplikasi untuk browser Anda, dan mereka bisa digunakan untuk melindungi kata sandi, mengunduh video, menemukan penawaran, memblokir iklan yang mengganggu, mengubah tampilan peramban Anda, dan banyak lagi. Program perangkat lunak kecil ini banyak dikembangkan oleh pihak ketiga. Berikut adalah pilihan 
+    <a data-l10n-name="learn-more-trigger">yang disarankan</a> { -brand-product-name } berdasarkan keamanan, kinerja, dan fungsionalitas mereka.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Beberapa rekomendasi ini dipersonalisasi. Rekomendasi tersebut didasarkan pada ekstensi lain
+    yang Anda pasang, preferensi profil, dan statistik penggunaan.
 discopane-notice-learn-more = Pelajari lebih lanjut
 privacy-policy = Kebijakan Privasi
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -314,14 +331,24 @@ install-theme-button = Pasang Tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Kelola
 find-more-addons = Temukan lebih banyak pengaya
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Opsi Lainnya
 
 ## Add-on actions
 
 report-addon-button = Laporkan
 remove-addon-button = Hapus
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Tidak Dapat Dihapus <a data-l10n-name="link">Alasannya?</a>
 disable-addon-button = Nonaktifkan
 enable-addon-button = Aktifkan
 expand-addon-button = Opsi Lainnya
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Aktifkan
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Pengaturan
@@ -350,6 +377,11 @@ addon-detail-version-label = Versi
 addon-detail-last-updated-label = Terakhir Diperbarui
 addon-detail-homepage-label = Beranda
 addon-detail-rating-label = Peringkat
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Peringkat { NUMBER($rating, maximumFractionDigits: 1) } dari 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -370,6 +402,7 @@ pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</sp
 pending-uninstall-undo-button = Batal
 addon-detail-updates-label = Izinkan pembaruan otomatis
 addon-detail-updates-radio-default = Baku
+addon-detail-updates-radio-on = Aktif
 addon-detail-updates-radio-off = Nonaktif
 addon-detail-update-check-label = Periksa Versi Baru
 install-update-button = Perbarui
@@ -377,6 +410,12 @@ install-update-button = Perbarui
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Diizinkan di jendela pribadi
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Diizinkan di jendela pribadi
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Jika diizinkan, ekstensi akan memiliki akses ke aktivitas daring Anda saat menjelajah secara pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 addon-detail-private-browsing-allow = Izinkan
 addon-detail-private-browsing-disallow = Jangan Izinkan
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -384,6 +423,11 @@ addon-detail-private-browsing-disallow = Jangan Izinkan
 addon-badge-recommended =
     .title = Disarankan
     .alt = Disarankan
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Versi Baru yang Tersedia
 recent-updates-heading = Versi Terkini
 release-notes-loading = Memuat…
@@ -402,10 +446,12 @@ theme-heading = Kelola tema Anda
 plugin-heading = Kelola plugin Anda
 dictionary-heading = Kelola kamus Anda
 locale-heading = Kelola bahasa Anda
+updates-heading = Kelola Pembaruan Anda
 discover-heading = Personalisasikan { -brand-short-name } Anda
 shortcuts-heading = Kelola Pintasan Ekstensi
 theme-heading-search-label = Temukan lebih banyak tema
 extension-heading-search-label = Temukan lebih banyak ekstensi
+default-heading-search-label = Temukan lebih banyak pengaya
 addons-heading-search-input =
     .placeholder = Cari addons.mozilla.org
 addon-page-options-button =
