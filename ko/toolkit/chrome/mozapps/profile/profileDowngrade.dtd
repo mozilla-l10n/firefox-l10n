@@ -15,6 +15,6 @@
 <!ENTITY window.nosync "이전 버전의 Firefox를 사용하면 기존 Firefox 프로필에 이미 저장된 북마크와 방문 기록이 손상될 수 있습니다. 정보를 보호하려면 이 &brandShortName; 설치에 대한 새 프로필을 만드세요.">
 <!ENTITY window.sync "이전 버전의 Firefox를 사용하면 기존 Firefox 프로필에 이미 저장된 북마크와 방문 기록이 손상될 수 있습니다. 정보를 보호하려면 이 &brandShortName; 설치에 대한 새 프로필을 만드세요. 언제든지 &syncBrand.fxAccount.label;로 로그인하여 프로필간에 북마크와 방문 기록을 동기화 할 수 있습니다.">
 
-<!ENTITY window.create "새 프로필 생성">
+<!ENTITY window.create "새 프로필 만들기">
 <!ENTITY window.quit-win "종료">
 <!ENTITY window.quit-nonwin "종료">
