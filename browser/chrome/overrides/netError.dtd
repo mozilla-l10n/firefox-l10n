@@ -153,7 +153,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName;가 잠재적인 보안 위협을 감지하고 <span class='hostname'/>로 진행하지 않았습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.">
-<!ENTITY certerror.sts.introPara "이 웹사이트가 보안 접속을 필요로 하지만 &brandShortName;가 잠재적인 보안 위협을 감지하고 <span class='hostname'/>로 진행하지 않았습니다.">
+<!ENTITY certerror.sts.introPara "이 웹사이트는 보안 연결을 필요로 하므로 &brandShortName;가 잠재적인 보안 위협을 감지하고 <span class='hostname'/>로 진행하지 않았습니다.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName;가 문제를 감지하여 <span class='hostname'/>로 진행하지 않았습니다. 웹사이트가 잘 못 설정되어 있거나 컴퓨터의 시각이 잘 못 되어 있습니다.">
 <!ENTITY certerror.expiredCert.secondPara2 "웹사이트의 인증서가 만료되어서 &brandShortName;가 안전하게 연결할 수가 없습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.">
@@ -177,12 +177,12 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>서버가 일시적으로 사용할 수 없거나 또는 너무 많은 접속이 몰리는 상태일 수 있습니다.
+  <li>서버가 일시적으로 사용할 수 없거나 사용자가 너무 많은 상태일 수 있습니다.
     잠시 후에 재시도해 보시기 바랍니다.</li>
   <li>어떤 페이지도 열 수 없다면,
     컴퓨터의 네트워크 연결을 확인해 보시기 바랍니다.</li>
   <li>사용자의 컴퓨터나 네트워크가 방화벽 또는 프록시로 보호되고 있다면,
-    &brandShortName;가 웹에 접속할 수 있도록 허용되어 있는지 확인해 주시기 바랍니다.</li>
+    &brandShortName;가 웹에 접근할 수 있도록 허용되어 있는지 확인해 주시기 바랍니다.</li>
 </ul>
 ">
 
@@ -203,14 +203,14 @@ was trying to connect. -->
 <!ENTITY remoteXUL.title "원격 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "보안 접속을 할 수 없음">
+<!ENTITY sslv3Used.title "보안 연결을 할 수 없음">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "고급 정보: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "경고: 보안 위험 가능성">
 <!ENTITY certerror.sts.pagetitle  "연결하지 않음 : 잠재적인 보안 문제">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 사이트는 HTTP Strict Transport Security (HSTS)라는 보안 정책을 가지고 있어서 &brandShortName;가 보안 접속만 할 수 있습니다. 사이트 방문을 위해서 예외를 설정할 수 없습니다.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 사이트는 HTTP Strict Transport Security (HSTS)라는 보안 정책을 가지고 있어서 &brandShortName;가 보안 연결만 할 수 있습니다. 이 사이트를 방문하기 위해 예외를 추가 할 수 없습니다.">
 <!ENTITY certerror.copyToClipboard.label "클립보드에 텍스트 복사">
 
 <!ENTITY inadequateSecurityError.title "연결이 안전하지 않음">
