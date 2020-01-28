@@ -27,6 +27,14 @@ serviceworker-worker-debug = Debug
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Mulai
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Debug
+    .title = Hanya bisa men-debug service workers jika multi e10s dinonaktifkan
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Mulai
+    .title = Hanya bisa memulai service worker jika multi e10s dinonaktifkan
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Diperbarui <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -61,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Jalankan tiap langkah pendaftaran Ser
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Periksa Service Workers dari domain lainnya. <a>Buka about:debugging</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifes Aplikasi
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Anda perlu menambahkan app manifest untuk diperiksa di sini. <a>Pelajari lebih lanjut</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Galat dan Peringatan
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -75,3 +86,44 @@ manifest-item-icons = Ikon
 manifest-loading = Memuat manifes…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifes dimuat.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Terjadi kesalahan dalam memuat manifest.
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Kesalahan Firefox DevTools
+# Text displayed when the page has no manifest available
+manifest-non-existing = Tidak ditemukan manifest untuk diperiksa.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest tersemat dalam Data URL.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Tujuan: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Ikon
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Ikon dengan ukuran: { $size }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Ikon dengan ukuran tidak ditentukan
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Ikon manifest
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Worker
+    .alt = Ikon Service Worker
+    .title = Service Worker
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ikon peringatan
+    .title = Peringatan
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ikon kesalahan
+    .title = Kesalahan
