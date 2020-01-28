@@ -157,6 +157,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Merañ ar gont…">
 <!ENTITY fxa.menu.syncSettings.label "Arventennoù &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Kuzhat an afell skeudenn-ouzh-skeudenn">
+<!ENTITY pictureInPictureHideToggle.accesskey "K">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -165,9 +167,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Kennaskañ un trevnad all…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Kennaskañ ouzh &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Gweredekaat &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Gwazerezhioù &brandProductName;">
 <!ENTITY fxa.menu.account.label "Kont">
 <!ENTITY fxa.menu.settings.label "Arventennoù">
 <!ENTITY fxa.menu.accountSettings.label "Arventennoù ar gont">
+<!ENTITY fxa.menu.manageAccount2.label "Merañ ar gont">
+<!ENTITY fxa.menu.signOut.label "Digennaskañ…">
+<!ENTITY fxa.menu.deviceSettings.label "Arventennoù an trevnad">
+<!ENTITY fxa.menu.setupSync.label "Arventennañ &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -234,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "A">
 <!ENTITY stopCmd.label                "Paouez">
 <!ENTITY stopCmd.accesskey            "P">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Mont d'ar chomlec'h er varrenn lec'hiañ">
 <!ENTITY printButton.label            "Moullañ">
@@ -266,7 +276,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ardeiñ an arver meziantoù DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Digeriñ ar penel MIDI">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Stanket ho peus ho kamera evit al lec'hienn-mañ.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Stanket ho peus ho mikrofon evit al lec'hienn-mañ.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Difennet ho peus al lec'hienn-mañ da rannañ ho skramm.">
@@ -279,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Difennet ho peus al lec'hienn-mañ da arverañ an enlugellad Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.">
 <!ENTITY urlbar.installBlocked.tooltip           "Stanket ho peus ar staliadurioù askouezhioù war al lec'hienn-mañ.">
+
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
@@ -566,6 +576,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "k">
 
 <!ENTITY openLinkCmdInTab.label       "Digeriñ an ere e-barzh un ivinell nevez">
+
 <!ENTITY openLinkCmdInTab.accesskey   "i">
 <!ENTITY openLinkCmd.label            "Digeriñ an ere e-barzh ur prenestr nevez">
 <!ENTITY openLinkCmd.accesskey        "b">
@@ -581,6 +592,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Gwelout ar frammad-mañ hepken">
 <!ENTITY showOnlyThisFrameCmd.accesskey "f">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Adkargañ ar frammad">
 <!ENTITY reloadFrameCmd.accesskey     "k">
@@ -631,6 +643,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Enrollañ ar bajenn evel…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!ENTITY savePageCmd.accesskey2       "b">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Enrollañ ar frammad evel…">
 <!ENTITY saveFrameCmd.accesskey       "f">
@@ -797,6 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "b">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Kemmañ tuadur an destenn">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "d">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Klask war ar bajennad-mañ…">

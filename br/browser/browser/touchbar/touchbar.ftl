@@ -9,6 +9,7 @@ forward = War-lerc'h
 reload = Adkargañ
 home = Degemer
 fullscreen = Skramm a-bezh
+touchbar-fullscreen-exit = Kuitaat ar mod skramm a-bezh
 find = Klask
 new-tab = Ivinell nevez
 add-bookmark = Ouzhpennañ ur sined
@@ -33,5 +34,5 @@ search-opentabs = Ivinelloù digor
 search-tags = Merkoù
 search-titles = Titloù
 
-
+##
 

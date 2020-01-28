@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Ivinelloù goubredet
 synced-tabs-sidebar-noclients-subtitle = Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?
 synced-tabs-sidebar-notsignedin = Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all
+synced-tabs-sidebar-intro = Gwelout ur roll ivinelloù eus ho trevnadoù all.
 synced-tabs-sidebar-unverified = Ret eo gwiriekaat ho kont.
 synced-tabs-sidebar-notabs = Ivinell digor ebet
 synced-tabs-sidebar-openprefs = Digeriñ gwellvezioù { -sync-brand-short-name }
@@ -40,3 +41,4 @@ synced-tabs-context-sync-now =
     .label = Goubredañ bremañ
     .accesskey = G
 fxa-sign-in = En em gennaskañ ouzh { -sync-brand-short-name }
+turn-on-sync = Gweredekaat { -sync-brand-short-name }
