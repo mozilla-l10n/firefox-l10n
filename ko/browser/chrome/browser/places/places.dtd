@@ -6,7 +6,7 @@
 <!ENTITY places.library.title  "라이브러리">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "관리하기">
+<!ENTITY organize.label        "관리">
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "북마크 관리">
 
@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "보기">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "보기 형식 변경">
-<!ENTITY view.columns.label             "항목 보기">
+<!ENTITY view.columns.label             "열 표시">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "정렬하기">
 <!ENTITY view.sort.accesskey            "S">
@@ -78,7 +78,7 @@
 <!ENTITY col.dateadded.label     "저장일">
 <!ENTITY col.lastmodified.label  "마지막 수정일">
 
-<!ENTITY historySearch.placeholder  "검색 기록">
+<!ENTITY historySearch.placeholder  "방문 기록 검색">
 <!ENTITY bookmarksSearch.placeholder  "북마크 검색">
 
 <!ENTITY cmd.find.key  "f">
@@ -97,11 +97,11 @@
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "날짜 순서로">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "사이트 이름 순서로">
+<!ENTITY bySite.label             "사이트 순서로">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "최근 방문한 날짜 순서로">
+<!ENTITY byMostVisited.label      "자주 방문한 순서로">
 <!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "마지막 방문한 날짜 순서로">
+<!ENTITY byLastVisited.label      "마지막 방문한 순서로">
 <!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "날짜 및 사이트 이름 순서로">
+<!ENTITY byDayAndSite.label       "날짜 및 사이트 순서로">
 <!ENTITY byDayAndSite.accesskey   "t">
