@@ -5,7 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = { $hostname }에 접속하는 중에 오류가 발생했습니다. { $errorMessage }
+ssl-connection-error = { $hostname }에 연결하는 동안 오류가 발생했습니다. { $errorMessage }
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 오류 코드: { $error }

@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY goEndCap.tooltip             "주소 표시줄에 있는 주소로 접속하기">
+<!ENTITY goEndCap.tooltip             "주소 표시줄의 주소로 이동">
 <!ENTITY printButton.label            "인쇄">
 <!ENTITY printButton.tooltip          "이 페이지 인쇄">
 
