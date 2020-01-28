@@ -9,6 +9,7 @@ forward = Foarút
 reload = Opnij lade
 home = Startside
 fullscreen = Folslein skerm
+touchbar-fullscreen-exit = Folslein skerm ferlitte
 find = Sykje
 new-tab = Nij ljepblêd
 add-bookmark = Blêdwizer tafoegje
@@ -33,5 +34,5 @@ search-opentabs = Iepen ljeplêden
 search-tags = Labels
 search-titles = Titels
 
-
+##
 

@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortearje op:
 login-list-name-option = Namme (A-Z)
+login-list-name-reverse-option = Namme (Z-A)
 login-list-breached-option = Websites mei datalekken
 login-list-last-changed-option = Lêst wizige
 login-list-last-used-option = Lêst brûkt
@@ -73,7 +74,6 @@ about-logins-intro-import = As jo oanmeldingen yn in oare browser bewarre wurde,
 
 login-item-new-login-title = Nij oanmelding meitsje
 login-item-edit-button = Bewurkje
-login-item-delete-button = Fuortsmite
 about-logins-login-item-remove-button = Fuortsmite
 login-item-origin-label = Websiteadres
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name }-foarkarren besjen
         }
     .accesskey = b
-confirm-delete-dialog-title = Dizze oanmelding fuortsmite?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Dit net mear freegje
     .accesskey = D
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Annulearje
 about-logins-confirm-remove-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
-confirm-delete-dialog-confirm-button = Fuortsmite
 about-logins-confirm-remove-dialog-confirm-button = Fuortsmite
 confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
 confirm-discard-changes-dialog-message = Alle net-bewarre wizigingen gean ferlern.
