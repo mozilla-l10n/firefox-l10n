@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordena per:
 login-list-name-option = Nom (A-Z)
+login-list-name-reverse-option = Nom (Z-A)
 login-list-breached-option = Llocs web amb filtracions de dades
 login-list-last-changed-option = Darrera modificació
 login-list-last-used-option = Darrer ús
