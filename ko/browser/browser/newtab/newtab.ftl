@@ -101,9 +101,9 @@ newtab-privacy-modal-link = 새 탭에서 개인 정보 보호 작동 방식 알
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = 즐겨찾기 삭제
+newtab-menu-remove-bookmark = 북마크 삭제
 # Bookmark is a verb here.
-newtab-menu-bookmark = 즐겨찾기
+newtab-menu-bookmark = 북마크
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -128,7 +128,7 @@ newtab-menu-open-file = 파일 열기
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = 방문한 사이트
-newtab-label-bookmarked = 즐겨찾기
+newtab-label-bookmarked = 북마크됨
 newtab-label-removed-bookmark = 북마크 삭제됨
 newtab-label-recommended = 트랜드
 newtab-label-saved = { -pocket-brand-name }에 저장됨
