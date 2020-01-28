@@ -47,8 +47,8 @@ about-telemetry-hide-stack-symbols = 원본 스택 데이터 보기
 #   $channel (String): represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
-        [release] 출시 데이터
-       *[prerelease] 출시전 데이터
+        [release] 정식판 데이터
+       *[prerelease] 시험판 데이터
     }
 # Selects the correct upload string
 # Variables:
