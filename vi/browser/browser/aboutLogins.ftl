@@ -45,6 +45,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sắp xếp theo:
 login-list-name-option = Tên (A-Z)
+login-list-name-reverse-option = Tên (Z-A)
 login-list-breached-option = Trang web đã bị rò rỉ
 login-list-last-changed-option = Sửa đổi lần cuối
 login-list-last-used-option = Sử dụng lần cuối
@@ -72,7 +73,6 @@ about-logins-intro-import = Nếu thông tin đăng nhập của bạn được 
 
 login-item-new-login-title = Tạo đăng nhập mới
 login-item-edit-button = Chỉnh sửa
-login-item-delete-button = Xóa
 about-logins-login-item-remove-button = Xóa
 login-item-origin-label = Địa chỉ trang web
 login-item-origin =
@@ -119,7 +119,6 @@ enable-password-sync-preferences-button =
            *[other] Truy cập tùy chỉnh { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Xoá thông tin đăng nhập này?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Đừng hỏi lại tôi nữa.
     .accesskey = D
@@ -131,7 +130,6 @@ confirmation-dialog-dismiss-button =
     .title = Hủy bỏ
 about-logins-confirm-remove-dialog-title = Xoá thông tin đăng nhập này?
 confirm-delete-dialog-message = Thao tác này không thể hoàn tác được.
-confirm-delete-dialog-confirm-button = Xóa
 about-logins-confirm-remove-dialog-confirm-button = Xóa
 confirm-discard-changes-dialog-title = Hủy bỏ những thay đổi chưa lưu?
 confirm-discard-changes-dialog-message = Tất cả các thay đổi chưa được lưu sẽ bị mất.

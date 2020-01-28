@@ -133,6 +133,10 @@ newtab-label-removed-bookmark = Đã xóa dấu trang
 newtab-label-recommended = Xu hướng
 newtab-label-saved = Đã lưu vào { -pocket-brand-name }
 newtab-label-download = Đã tải xuống
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Được tài trợ
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

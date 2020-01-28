@@ -9,6 +9,7 @@ forward = Tiến
 reload = Tải lại
 home = Trang chủ
 fullscreen = Toàn màn hình
+touchbar-fullscreen-exit = Thoát chế độ toàn màn hình
 find = Tìm
 new-tab = Thẻ mới
 add-bookmark = Thêm dấu trang
@@ -33,5 +34,5 @@ search-opentabs = Thẻ đang mở
 search-tags = Thẻ
 search-titles = Tiêu đề
 
-
+##
 

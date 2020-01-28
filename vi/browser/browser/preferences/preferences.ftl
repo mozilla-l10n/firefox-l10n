@@ -313,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Nội dung quản lý bản quyền kỹ thuật số (DRM)
 play-drm-content =
@@ -564,6 +564,9 @@ containers-header = Thẻ ngăn chứa
 containers-add-button =
     .label = Thêm ngăn chứa mới
     .accesskey = T
+containers-new-tab-check =
+    .label = Chọn một ngăn chứa cho mỗi thẻ mới
+    .accesskey = S
 containers-preferences-button =
     .label = Tùy chỉnh
 containers-remove-button =
@@ -902,7 +905,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tùy chỉnh
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Cân bằng để bảo vệ và hiệu suất. Các trang sẽ tải bình thường.
 content-blocking-etp-strict-desc = Bảo vệ mạnh mẽ hơn, nhưng có thể khiến một số trang web và nội dung bị phá vỡ.
