@@ -45,6 +45,7 @@ login-list-count =
     }
 login-list-sort-label-text = Naka̱ji:
 login-list-name-option = Sivɨ (A-Z)
+login-list-name-reverse-option = Sivɨ (Z-A)
 login-list-breached-option = Nuu Web ntu vatu
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
