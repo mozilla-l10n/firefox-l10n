@@ -33,7 +33,7 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Nach einem schnellen Neustart des Browsers wird { -brand-shorter-name } alle offenen Tabs und Fenster wiederherstellen, die sich nicht im Privaten Modus befinden.
 appmenu-addon-private-browsing-installed =
-    .buttonlabel = Okay, verstanden
+    .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Die Add-ons lassen sich durch Klicken auf <image data-l10n-name='addon-install-icon'></image> im <image data-l10n-name='addon-menu-icon'></image>-Menü verwalten.
 appmenu-addon-post-install-incognito-checkbox =
