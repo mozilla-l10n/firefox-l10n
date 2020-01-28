@@ -11,12 +11,8 @@ findbar-previous =
     .tooltiptext = Leita að fyrra tilfelli þessara orða
 findbar-find-button-close =
     .tooltiptext = Loka leitarslá
-findbar-highlight-all =
-    .label = Lita allt
-    .accesskey = L
-    .tooltiptext = Lita öll tilvik orðsins
 findbar-highlight-all2 =
-    .label = Litla allt
+    .label = Lita allt
     .accesskey =
         { PLATFORM() ->
             [macos] l
