@@ -7,7 +7,7 @@
 
 newtab-page-title = 새 탭
 newtab-settings-button =
-    .title = 새 탭 페이지 꾸미기
+    .title = 새 탭 페이지 사용자 지정
 
 ## Search box component.
 
@@ -31,7 +31,7 @@ newtab-topsites-title-input =
     .placeholder = 제목 입력
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
-    .placeholder = URL 입력 또는 붙여 넣기
+    .placeholder = URL 입력 또는 붙여넣기
 newtab-topsites-url-validation = 유효한 URL이 필요합니다
 newtab-topsites-image-url-label = 사용자 지정 이미지 URL
 newtab-topsites-use-image-link = 사용자 지정 이미지 사용…
