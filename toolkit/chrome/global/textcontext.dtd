@@ -29,7 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "Isi Info Masuk">
 <!ENTITY fillLoginMenu.accesskey      "I">
-<!ENTITY fillSuggestedPassword.label  "Gunakan Sandi yang Disarankan">
+<!ENTITY useGeneratedPassword.label   "Gunakan Sandi yang Dihasilkan dengan Aman…">
+<!ENTITY useGeneratedPassword.accesskey "D">
 <!ENTITY fillPasswordMenu.label       "Isi Sandi">
 <!ENTITY fillPasswordMenu.accesskey   "I">
 <!ENTITY fillUsernameMenu.label       "Isi Nama Pengguna">

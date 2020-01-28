@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspBlocked.longDesc "<p>Peramban mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
+<!ENTITY xfoBlocked.title "Diblokir oleh Kebijakan X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Peramban mencegah pemuatan laman dalam konteks ini karena laman mengandung kebijakan X-Frame-Options yang tidak mengizinkan hal ini.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
