@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Pestanyes de contenidor
 containers-add-button =
     .label = Afegeix un contenidor nou
     .accesskey = A
+containers-new-tab-check =
+    .label = Selecciona un contenidor per a cada pestanya nova
+    .accesskey = S
 containers-preferences-button =
     .label = Preferències
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalitzada
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Equilibri entre protecció i rendiment. Les pàgines es carregaran amb normalitat.
 content-blocking-etp-strict-desc = Més protecció, però pot fer que alguns llocs o algun contingut no funcionin correctament.

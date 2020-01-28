@@ -15,6 +15,7 @@ certificate-viewer-algorithm = Algorisme
 certificate-viewer-certificate-authority = Entitat certificadora
 certificate-viewer-cipher-suite = Entorn de xifratge
 certificate-viewer-common-name = Nom comú
+certificate-viewer-email-address = Adreça electrònica
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = País (empresa)
 certificate-viewer-country = País
@@ -55,6 +56,14 @@ certificate-viewer-timestamp = Marca horària
 certificate-viewer-value = Valor
 certificate-viewer-version = Versió
 certificate-viewer-business-category = Categoria empresarial
+certificate-viewer-subject-name = Nom del subjecte
+certificate-viewer-issuer-name = Nom de l'emissor
+certificate-viewer-validity = Validesa
+certificate-viewer-subject-alt-names = Noms alternatius del subjecte
+certificate-viewer-public-key-info = Informació sobre la clau pública
+certificate-viewer-miscellaneous = Altres
+certificate-viewer-fingerprints = Empremtes digitals
+certificate-viewer-basic-constraints = Restriccions bàsiques
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixa
@@ -66,3 +75,7 @@ certificate-viewer-boolean =
         [true] Sí
        *[false] No
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
