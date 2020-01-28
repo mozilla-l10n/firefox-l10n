@@ -683,7 +683,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Einen Ton auswählen oder aufnehmen">
 <!ENTITY filepicker_image_title "Ein Bild auswählen oder aufnehmen">
 <!ENTITY filepicker_video_title "Ein Video auswählen oder aufnehmen">
-<!ENTITY filepicker_permission_denied "Erforderliche Berechtigungen wurden nicht erteilt, falle auf die System-Dateiauswahl zurück.">
+<!ENTITY filepicker_permission_denied "Benötigte Berechtigungen nicht gewährt, Dateiauswahl des Systems wird verwendet">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sie sind verbunden mit">
