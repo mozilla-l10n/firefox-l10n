@@ -76,6 +76,8 @@ lockwise-connected-device-status =
 monitor-title = Hati-hati terhadap kebocoran data
 monitor-link = Cara kerja
 monitor-header-content-no-account = Periksa { -monitor-brand-name } untuk melihat apakah Anda terkena dampak pembobolan data, dan dapatkan peringatan tentang pembobolan terbaru.
+monitor-header-content-signed-in = { -monitor-brand-name } memperingatkan Anda jika info tentang Anda muncul dalam pembobolan yang diketahui.
+monitor-sign-up = Daftar untuk Peringatan Pembobolan
 auto-scan = Secara otomatis dipindai hari ini
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -91,6 +93,21 @@ info-known-breaches-found =
     { $count ->
        *[other] Pelanggaran data yang dikenal telah mengekspos informasi Anda
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+       *[other] Kata sandi terungkap di semua pembobolan
+    }
+full-report-link = Lihat laporan lengkap tentang <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+       *[other] Info masuk tersimpan mungkin telah terekspos dalam pelanggaran data. Ubah kata sandi ini untuk keamanan daring yang lebih baik. <a data-l10n-name="lockwise-link">Lihat Info Masuk yang Disimpan</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -99,6 +116,18 @@ info-known-breaches-found =
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Pelacak Media Sosial
+    .aria-label =
+        { $count ->
+           *[other] { $count } pelacak media sosial ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Kuki Pelacakan Lintas Situs
+    .aria-label =
+        { $count ->
+           *[other] { $count } kuki pelacakan lintas situs ({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = Pelacakan Konten
     .aria-label =

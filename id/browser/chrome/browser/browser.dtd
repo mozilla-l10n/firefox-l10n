@@ -79,11 +79,13 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigasi">
 <!ENTITY personalbarCmd.label "Bilah Alat Markah">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Markah">
 <!ENTITY bookmarksToolbarItem.label "Nama Markah">
 
 <!ENTITY pageSourceCmd.label "Kode Sumber Laman">
@@ -125,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifikasikan Akun Anda">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minikan">
 <!ENTITY fullScreenRestore.tooltip "Kembalikan">
@@ -154,10 +157,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Kelola Akun…">
 <!ENTITY fxa.menu.syncSettings.label "Setelan &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Sembunyikan Sakelar Gambar-dalam-Gambar">
+<!ENTITY pictureInPictureHideToggle.accesskey "S">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Setelan &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Sambungkan Peranti Lain…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -165,11 +171,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.turnOnSync.label "Aktifkan &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Layanan &brandProductName;">
 <!ENTITY fxa.menu.account.label "Akun">
+<!ENTITY fxa.menu.settings.label "Setelan">
+<!ENTITY fxa.menu.accountSettings.label "Pengaturan Akun">
+<!ENTITY fxa.menu.manageAccount2.label "Kelola Akun">
 <!ENTITY fxa.menu.signOut.label "Keluar…">
 <!ENTITY fxa.menu.deviceSettings.label "Pengaturan Perangkat">
+<!ENTITY fxa.menu.setupSync.label "Siapkan &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Kirim tab secara instan ke perangkat apa pun tempat Anda masuk.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -233,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "U">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Pindah ke alamat di Bilah Lokasi">
 <!ENTITY printButton.label            "Cetak">
@@ -265,7 +277,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kelola penggunaan perangkat lunak DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buka panel MIDI">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah memblokir kamera Anda untuk situs web ini.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah memblokir mikrofon Anda untuk situs web ini.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Anda telah memblokir situs ini untuk berbagi layar Anda.">
@@ -278,6 +289,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Anda telah memblokir situs ini menggunakan pengaya Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah memblokir akses MIDI untuk situs web ini.">
 <!ENTITY urlbar.installBlocked.tooltip           "Anda telah memblokir pemasangan pengaya untuk situs Web ini.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Anda telah memberikan izin tambahan kepada situs web ini.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
@@ -436,8 +449,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Pengaturan Sinkronisasi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat Anda lainnya.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Lihat daftar tab dari perangkat Anda lainnya.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Akun Anda perlu diverifikasi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sinkronisasi">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Masuk ke &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Aktifkan &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kelola Perangkat…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tampilkan Bilah Samping Tab yang Disinkronkan ">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Sembunyikan Bilah Samping Tab yang Disinkronkan">
@@ -565,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "B">
 
 <!ENTITY openLinkCmdInTab.label       "Buka Tautan di Tab Baru">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Buka Tautan di Jendela Baru">
 <!ENTITY openLinkCmd.accesskey        "J">
@@ -580,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Hanya Tampilkan Bingkai yang Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "n">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Muatkan Bingkai Lagi">
 <!ENTITY reloadFrameCmd.accesskey     "t">
@@ -630,6 +648,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">
 <!ENTITY savePageCmd.accesskey        "S">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Simpan Bingkai dengan Nama…">
 <!ENTITY saveFrameCmd.accesskey       "g">
@@ -796,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "A">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Ubah Arah Teks">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cari di Laman Ini…">
@@ -880,8 +900,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Buka Preferensi Pemblokiran Konten">
 
 
+<!ENTITY protections.etpON.header "Perlindungan Pelacakan yang Ditingkatkan AKTIF untuk situs ini">
+<!ENTITY protections.etpOFF.header "Perlindungan Pelacakan yang Ditingkatkan NONAKTIF untuk situs ini">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Informasi lebih lanjut tentang Perlindungan Pelacakan yang Ditingkatkan">
 <!ENTITY protections.settings.label "Setelan Perlindungan">
 <!ENTITY protections.showreport.label "Tampilkan Laporan">
 <!-- LOCALIZATION NOTE:
@@ -916,7 +939,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Mengapa?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Memblokir yang berikut dapat merusak elemen pada beberapa situs web. Tanpa pelacak, beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Semua pelacak di situs ini telah dimuat karena perlindungan dinonaktifkan.">
+<!ENTITY protections.noTrackersFound.description "Tidak ada pelacak yang dikenali &brandShortName; terdeteksi di laman ini.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Kuki ini mengikuti Anda dari situs ke situs untuk mengumpulkan data tentang apa yang Anda lakukan daring. Mereka ditetapkan oleh pihak ketiga seperti pengiklan dan perusahaan analitik.">
+<!ENTITY protections.cryptominers.description "Penambang kripto menggunakan kekuatan komputasi sistem Anda untuk menambang uang digital. Skrip penambangan kripto menguras baterai Anda, memperlambat komputer Anda, dan dapat meningkatkan tagihan listrik Anda.">
+<!ENTITY protections.fingerprinters.description "Pelacak sidik mengumpulkan pengaturan dari browser dan komputer Anda untuk membuat profil tentang Anda. Dengan menggunakan pelacak sidik digital ini, mereka dapat melacak Anda di berbagai situs web.">
+<!ENTITY protections.trackingContent2.description "Situs web dapat memuat iklan eksternal, video, dan konten lainnya dengan kode pelacakan. Pemblokiran konten pelacak dapat membantu situs dimuat lebih cepat, tetapi beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.">
+<!ENTITY protections.socialMediaTrackers.description "Situs jejaring sosial menempatkan pelacak di situs web lain untuk mengikuti apa yang Anda lakukan, lihat, dan tonton secara daring. Ini memungkinkan perusahaan media sosial untuk belajar lebih banyak tentang Anda, di luar apa yang Anda bagikan di profil media sosial Anda.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -962,8 +992,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kuki">
 <!ENTITY contentBlocking.cookiesView.label "Kuki dan Data Situs">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Pelacakan Konten">
 
 <!ENTITY contentBlocking.manageSettings2.label "Kelola Setelan Perlindungan">
+<!ENTITY contentBlocking.manageSettings2.accesskey "K">
 
 <!ENTITY contentBlocking.socialblock.label "Pelacak Media Sosial">
 
@@ -979,6 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pelajari Lebih Lanjut">
 
 <!ENTITY contentBlocking.breakageReportView.title "Laporkan Situs yang Rusak">
+<!ENTITY contentBlocking.breakageReportView3.description "Pemblokiran pelacak tertentu bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar &brandShortName; menjadi lebih baik bagi semua orang. Pengiriman laporan ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Pelajari lebih lanjut">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Apa masalahnya? (Opsional)">
