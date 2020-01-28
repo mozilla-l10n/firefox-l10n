@@ -9,6 +9,7 @@ forward = Jun chik
 reload = Tisamajib'ëx chik
 home = Tikirib'äl
 fullscreen = Chijun ruwa
+touchbar-fullscreen-exit = Tel pa Chijun Ruwa
 find = Tikanöx
 new-tab = K'ak'a' ruwi'
 add-bookmark = Ketz'aqatisäx taq retal
@@ -33,5 +34,5 @@ search-opentabs = Kejaq taq ruwi'
 search-tags = Taq etal
 search-titles = Taq b'i'aj
 
-
+##
 

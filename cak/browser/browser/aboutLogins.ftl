@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Tichol chi:
 login-list-name-option = B'i'aj (A-Y)
+login-list-name-reverse-option = B'i'aj (Z-A)
 login-list-breached-option = Tz'ilan Ajk'amaya'l taq K'amaya'l
 login-list-last-changed-option = Ruk'isib'äl Jaloj
 login-list-last-used-option = Ruk'isib'äl Rokisaxik

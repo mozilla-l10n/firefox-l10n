@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Ajk'wayöl taq ruwi'
 containers-add-button =
     .label = Titz'aqatisäx k'ak'a' k'wayöl
     .accesskey = t
+containers-new-tab-check =
+    .label = Ticha jun ruk'wayöl ri k'ak'a' ruwi'
+    .accesskey = T
 containers-preferences-button =
     .label = Taq cha'oj
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ichinan
     .accesskey = I
 
-
+##
 
 content-blocking-etp-standard-desc = Silan richin chajinem chuqa' rub'eyal nisamäj. Achi'el jutaqil xkesamäj ri taq ruxaq.
 content-blocking-etp-strict-desc = Nïm chajinem, xa xe chi nub'än chi jujun taq ruxaq o rupam man yesamäj ta.
