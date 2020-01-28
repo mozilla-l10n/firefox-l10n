@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Obre la subfinestra del missatge d'instal·lació del complement
 urlbar-tip-help-icon =
     .title = Obteniu ajuda
+urlbar-search-tips-confirm = Entesos
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
