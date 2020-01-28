@@ -24,8 +24,8 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = 검색 엔진 추가
-newtab-topsites-add-topsites-header = 새 인기 사이트
-newtab-topsites-edit-topsites-header = 인기 사이트 편집
+newtab-topsites-add-topsites-header = 새 상위 사이트
+newtab-topsites-edit-topsites-header = 상위 사이트 편집
 newtab-topsites-title-label = 제목
 newtab-topsites-title-input =
     .placeholder = 제목 입력
@@ -47,9 +47,9 @@ newtab-topsites-add-button = 추가
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = 정말 이 페이지의 모든 인스턴스를 기록에서 지우겠습니까?
+newtab-confirm-delete-history-p1 = 방문 기록에서 이 페이지의 모든 인스턴스를 삭제하시겠습니까?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = 이 작업은 되돌릴 수 없습니다.
+newtab-confirm-delete-history-p2 = 이 작업은 취소할 수 없습니다.
 
 ## Context Menu - Action Tooltips.
 
@@ -65,12 +65,12 @@ newtab-menu-content-tooltip =
     .aria-label = { $title }에 대한 컨텍스트 메뉴 열기
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = 이 사이트 수정
-    .aria-label = 이 사이트 수정
+    .title = 이 사이트 편집
+    .aria-label = 이 사이트 편집
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = 수정
+newtab-menu-edit-topsites = 편집
 newtab-menu-open-new-window = 새 창에서 열기
 newtab-menu-open-new-private-window = 새 사생활 보호 창에서 열기
 newtab-menu-dismiss = 닫기
@@ -108,7 +108,7 @@ newtab-menu-bookmark = 즐겨찾기
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = 다운로드 주소 복사
+newtab-menu-copy-download-link = 다운로드 링크 복사
 newtab-menu-go-to-download-page = 다운로드 페이지로 이동
 newtab-menu-remove-download = 방문 기록에서 삭제
 
@@ -142,11 +142,11 @@ newtab-label-sponsored = { $sponsorOrSource } · 후원
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = 섹션 삭제
-newtab-section-menu-collapse-section = 섹션 닫기
-newtab-section-menu-expand-section = 섹션 열기
+newtab-section-menu-collapse-section = 섹션 접기
+newtab-section-menu-expand-section = 섹션 펼치기
 newtab-section-menu-manage-section = 섹션 관리
 newtab-section-menu-manage-webext = 부가 기능 관리
-newtab-section-menu-add-topsite = 인기 사이트 추가
+newtab-section-menu-add-topsite = 상위 사이트 추가
 newtab-section-menu-add-search-engine = 검색 엔진 추가
 newtab-section-menu-move-up = 위로 이동
 newtab-section-menu-move-down = 아래로 이동
