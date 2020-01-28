@@ -262,8 +262,9 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Diğer adres alanı türleri">
 <!ENTITY fromAddr2.label "Kimden">
-<!ENTITY fromAddr.accesskey "G">
+<!ENTITY fromAddr.accesskey "m">
 <!ENTITY toAddr.label "Kime:">
 <!ENTITY ccAddr.label "Bilgi:">
 <!ENTITY bccAddr.label "Bcc:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Ek bölmesi">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ek bölmesini gizle">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Bir yüz ifadesi ekle">
 <!ENTITY smiley1Cmd.label "Gülümseyen">
 <!ENTITY smiley2Cmd.label "Çatık kaşlı">
