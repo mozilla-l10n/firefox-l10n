@@ -125,13 +125,18 @@ cfr-doorhanger-send-tab-ok-button = Ni´í Send Tab
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Kua´a yu´u PDF ya´a
 cfr-doorhanger-firefox-send-ok-button = Ni´i { -send-brand-name }
     .accesskey = T
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Kune´ya protecciones
+    .accesskey = p
 cfr-doorhanger-socialtracking-close-button = Nakasɨ
     .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = Ntu xine´enuka mensajes kua ya´a
+    .accesskey = D
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } nnakasɨ  iin criptomonero nuu página ya´a
 
 ## Enhanced Tracking Protection Milestones
