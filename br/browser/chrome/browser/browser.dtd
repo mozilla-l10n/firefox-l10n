@@ -937,7 +937,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Perak?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Stankañ ar re-se a c'hallfe terriñ lodennoù eus al lec'hienn. Hep heulier, afelloù, furmskridoù ha maeziennoù kennaskañ e c'hallfe chom al lec'hienn hep mont en-dro.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Karget eo bet holl heulierien al lec'hienn-mañ peogwir eo diweredekaet ar gwarezioù.">
+<!ENTITY protections.noTrackersFound.description "N'eus bet dinoet heulier ebet anavezet gant &brandShortName; war ar bajenn-mañ.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "An toupinoù-se a heuilh ac'hanoc'h a lec'hienn da lec'hienn evit dastum roadennoù diwar-benn ar pezh a rit enlinenn. Lakaet int gant tredeoù evel embregerezhioù bruderezh pe stadegoù.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
