@@ -21,23 +21,16 @@
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
 <!ENTITY firstrun_data_subtext2 "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
-<!ENTITY updatednewfirstrun_sync_title "অ্যাকাউন্ট">
-<!ENTITY firstrun_sync_message2 "যেখানে আপনি ছেড়ে গিয়েছিলেন, সেখান থেকে শুরু করুন।">
 <!ENTITY firstrun_sync_message3 "আপনার ফোনে বুকমার্ক, ইতিহাস এবং পাসওয়ার্ড সিঙ্ক করুন।">
 <!ENTITY firstrun_sync_subtext2 "আপনার সব ডিভাইসে বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস খুঁজে পেতে সিঙ্ক ব্যবহার করুন যা আপনি &brandShortName; এ সংরক্ষণ করেছেন।">
 <!ENTITY newfirstrun_sync_subtext "সিঙ্ক হল যা Firefox মোবাইল থেকে ডেস্কটপে গোপনীয়ভাবে এবং নিরাপদে আপনার জিনিস সংরক্ষণ করে।">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; এর সর্বোচ্চ পেতে আপনার অ্যাকাউন্টে সাইন ইন করুন">
-<!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_sendtab_title "ট্যাব পাঠান">
 <!ENTITY firstrun_sendtab_message "মোবাইল থেকে ডেস্কটপে ট্যাব শেয়ার করুন - এখনই।">
-<!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
-<!ENTITY newfirstrun_signin_button "Sync চালু করুন">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; এ সাইন ইন করুন">
+<!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!ENTITY firstrun_button_notnow "এখনই নয়">
 <!ENTITY firstrun_button_next "পরবর্তী">
-
-<!ENTITY firstrun_signin_button2 "সাইন ইন">
+<!ENTITY firstrun_signup_button "সাইন আপ">
 
 <!ENTITY firstrun_tabqueue_title "লিঙ্ক">
 
@@ -49,8 +42,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "আপনি">
 <!ENTITY firstrun_account_message "&brandShortName; অন্য কোন ডিভাইসে রয়েছে?">
-
-<!ENTITY firstrun_signup_button "সাইন আপ">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন।">
 
@@ -696,7 +687,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "আপনি এই সাইটের সাথে সংযুক্ত">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -889,12 +879,17 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; এ স্বাগতম">
 <!ENTITY activity_stream_signin_description "আপনার Firefox অ্যাকাউন্টের সাথে বুকমার্ক, পাসওয়ার্ড এবং আরও অনেক কিছু সিঙ্ক করা শুরু করুন।">
-<!ENTITY activity_stream_signin_button "সাইন ইন">
-
 <!ENTITY activity_stream_signup_button "সাইন আউট">
 <!ENTITY activity_stream_signin_prompt "ইতিমধ্যে একটি অ্যাকাউন্ট রয়েছে?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "সাইন ইন।">
+
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "আপনার পুরো নতুন Firefox, 2020 এ আসছে">
+<!ENTITY activity_stream_firefox_promo_description "শীঘ্রই আসছে: উন্নত কর্মক্ষমতা। বর্ধিত ট্র্যাকিং সুরক্ষা। এবং বৈশিষ্ট্যগুলি অনলাইনে আপনি যা পছন্দ করেন তা খুঁজতে, সংরক্ষণ করতে এবং শেয়ার করতে আপনাকে সহায়তা করে এমনভাবে ডিজাইন করা হয়েছে।">
+<!ENTITY activity_stream_firefox_promo_button "এক ঝলক দেখুন">
 
 <!ENTITY activity_stream_topsites "শীর্ষ সাইট">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
