@@ -69,6 +69,7 @@ cfr-doorhanger-pintab-animation-resume = Reprene
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sincronizatz vòstres marcapaginas pertot.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar los marcapaginas ara…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Boton tampar
@@ -108,6 +109,7 @@ cfr-whatsnew-lockwise-take-link-text = Obténer l’aplicacion
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Agachatz de vidèos en navegant
 cfr-whatsnew-pip-cta = Ne saber mai
 
 ## Permission Prompt
@@ -158,6 +160,8 @@ cfr-doorhanger-socialtracking-close-button = Tampar
     .accesskey = T
 cfr-doorhanger-socialtracking-dont-show-again = Me mostrar pas mai de messatges coma aqueste
     .accesskey = d
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } a empachat un traçador de malhum social de vos pistar aquí
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a blocat un traçador d’emprunta numerica sus aquesta pagina
 
 ## Enhanced Tracking Protection Milestones
 

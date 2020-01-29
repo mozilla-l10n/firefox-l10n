@@ -83,6 +83,7 @@ newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Acabat
 newtab-privacy-modal-header = Vòstra vida privada es importanta.
 
 ##

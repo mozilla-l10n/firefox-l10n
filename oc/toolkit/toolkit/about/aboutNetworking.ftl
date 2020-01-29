@@ -57,3 +57,11 @@ rcwn-avg-long = Longa mejana
 rcwn-std-dev-long = Long escart tipe
 rcwn-cache-slow = Comptador d'escondedor lent
 rcwn-cache-not-slow = Comptador d'escondedor non lent
+networkid = ID de la ret
+networkid-id = ID de la ret
+
+## Link is intended as "network link"
+
+
+##
+
