@@ -289,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.">
 <!ENTITY urlbar.installBlocked.tooltip           "Stanket ho peus ar staliadurioù askouezhioù war al lec'hienn-mañ.">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Roet ho peus aotreoù ouzhpenn d'al lec'hienn-mañ.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
@@ -447,8 +448,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Digeriñ gwellvezioù Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
+<!ENTITY appMenuRemoteTabs.welcome.label "Gwelout ur roll ivinelloù eus ho trevnadoù all.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ret eo gwiriekaat ho kont.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ ouzh Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Kennaskañ ouzh &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Gweredekaat &syncBrand.shortName.label;...">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Ardeiñ an trevnadoù…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gwelout barrenn-gostez an ivinelloù goubredet ">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Kuzhat barrenn-gostez an ivinelloù goubredet ">
@@ -841,13 +845,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Secure Connection">
 <!ENTITY identity.connectionNotSecure "N'eo ket diarvar ar c'hennask">
 
+<!ENTITY identity.connectionSecure3 "Kennask suraet">
+<!ENTITY identity.connectionNotSecure2 "N'eo ket diarvar ar c'hennask">
+<!ENTITY identity.connectionNotSecureSecurityView "N'oc'h ket kennasket d'al lec'hienn-mañ en un doare sur.">
 <!ENTITY identity.connectionFile "War hoc'h urzhiataer eo kadavet ar bajenn-mañ.">
 <!ENTITY identity.connectionVerified2 "Kennasket oc'h en un doare diogel ouzh al lec'hienn, perc'hennet gant :">
+<!ENTITY identity.connectionVerified3 "Kennasket oc'h d'al lec'hienn-mañ en un doare sur.">
 <!ENTITY identity.connectionInternal "Ur bajenn &brandShortName; diarvar eo.">
 <!ENTITY identity.extensionPage "Diwar un askouezh eo karget ar bajenn-mañ.">
 <!ENTITY identity.insecureLoginForms2 "Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.">
 <!ENTITY identity.customRoot "Gwiriet eo bet ar c'hennask hag ur pourchaser testenioù n'eo ket adanavezet gant Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "Testeni roet da:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Stanket eo bet gant &brandShortName; lodennoù arvarus er bajennad.">
@@ -883,22 +892,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Aotreoù">
 
+<!ENTITY identity.permissions3 "Aotreoù">
 <!ENTITY identity.permissionsEmpty "N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.">
 <!ENTITY identity.permissionsReloadHint "Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.">
 <!ENTITY identity.permissionsPreferences.tooltip "Digeriñ gwellvezioù an aotreoù">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Digeriñ ar gwellvezioù stankadur endalc'had">
 
 
+<!ENTITY protections.etpON.header "Gweredekaet eo ar gwarez heuliañ araokaet war al lec'hienn-mañ.">
+<!ENTITY protections.etpOFF.header "Diweredekaet eo ar gwarez heuliañ araokaet war al lec'hienn-mañ.">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Titouroù ouzhpenn war ar gwarez heuliañ araokaet.">
+<!ENTITY protections.settings.label "Arventennoù gwarez">
+<!ENTITY protections.showreport.label "Diskouez an danevell">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "N'a ket en-dro al lec'hienn?">
+<!ENTITY protections.siteNotWorkingView.title "N'a ket en-dro al lec'hienn?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Diweredekait ar gwarezioù ma vez kudennoù gant: ">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Maeziennoù kennaskañ">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Furmskridoù">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Paeamantoù">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Evezhiadennoù">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videoioù">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Kas un danevell">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -906,9 +930,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Stanket">
+<!ENTITY protections.notBlocking2.label "Aotreet">
+<!ENTITY protections.notFound.label "Hini ebet dinoet">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Perak?">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
