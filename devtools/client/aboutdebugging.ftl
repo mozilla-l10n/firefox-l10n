@@ -110,16 +110,58 @@ about-debugging-runtime-temporary-extensions =
 # Title of the extensions category.
 about-debugging-runtime-extensions =
     .name = Extensions
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Onglets
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Processus
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Se desconectar
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Pas res pel moment
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = Examinar
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Tornar cargar
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Suprimir
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Emplaçament
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Aviar
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Arrestat
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Inscripcion
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Servici Push
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Processús principal
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Tampar lo messatge
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Detalhs de l’error
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Detalhs de l’avís
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detalhs
