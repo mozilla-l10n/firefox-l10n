@@ -8,9 +8,12 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Novetats importantas
+heading = Modificacions de vòstre perfil { -brand-short-name }
 changed-title = Qué a cambiat ?
 options-title = Quinas opcions ai ?
 resources = Ressorsas :
+support-link = Utilizar lo gestionari de perfils – Article de l’assisténcia
+sync-header = Connectatz-vos o creatz un { -fxaccount-brand-name }
 sync-label = Picatz vòstra adreça electronica
 sync-input =
     .placeholder = Adreça electronica
