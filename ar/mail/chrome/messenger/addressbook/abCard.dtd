@@ -74,8 +74,10 @@
 <!ENTITY HomeWebPage.accesskey          "ص">
 <!ENTITY Birthday.label                 "تاريخ الميلاد:">
 <!ENTITY Birthday.accesskey             "ت">
+<!ENTITY Month.placeholder              "الشهر">
+<!ENTITY Day.placeholder                "اليوم">
 <!ENTITY Year.placeholder               "السنة">
-<!ENTITY Or.value                       "أو">
+<!ENTITY Age.label                      "العمر:">
 <!ENTITY Age.placeholder                "العمر">
 
 <!ENTITY Work.tab                       "العمل">
@@ -135,7 +137,6 @@
 
 <!ENTITY Photo.tab                      "صورة">
 <!ENTITY Photo.accesskey                "ص">
-<!ENTITY PhotoDesc.label                "اختر واحدة من الآتي:">
 <!ENTITY GenericPhoto.label             "صورة عمومية">
 <!ENTITY GenericPhoto.accesskey         "ع">
 <!ENTITY DefaultPhoto.label             "المبدئية">
