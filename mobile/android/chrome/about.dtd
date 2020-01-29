@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "عن &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; تجريبي و قد لا يكون مستقرا.">
-<!ENTITY aboutPage.telemetryStart               " يُرسل تلقائيا معلومات عن الأداء والعتاد والاستخدام والتخصيصات إلى ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " للمساعدة على تحسين &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "التمس التحديثات »">
 <!ENTITY aboutPage.checkForUpdates.checking     "يبحث عن التحديثات…">
 <!ENTITY aboutPage.checkForUpdates.none         "لا تحديثات متوفرة">
@@ -19,6 +16,6 @@
 <!ENTITY aboutPage.relNotes.label               "ملاحظات الإصدار">
 <!ENTITY aboutPage.credits.label                "المساهمون">
 <!ENTITY aboutPage.license.label                "معلومات الترخيص">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
-<!ENTITY aboutPage.logoTrademark                "فَيَرفُكس وشعاراته علامات تجارية لمؤسسة موزيلا.">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "‏Firefox وشعاراته علامات تجارية لمؤسسة Mozilla.">
