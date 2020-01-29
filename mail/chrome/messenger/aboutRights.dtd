@@ -6,6 +6,7 @@
 <!ENTITY rights.title            "حقوقك">
 <!ENTITY rights.intro-header     "حقوقك">
 <!ENTITY rights.intro "&brandFullName; برنامج حرّ مفتوح المصدر، اشترك في بنائه الآلاف من أنحاء العالم. هناك بضعة أمور ينبغي أن تعلمها:">
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -14,53 +15,52 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-
 <!ENTITY rights.intro-point1a "يُتاح لك &brandShortName; وفق بنود ">
-<!ENTITY rights.intro-point1b "رخصة موزيلا العامة">
+<!ENTITY rights.intro-point1b "رخصة Mozilla العامة">
 <!ENTITY rights.intro-point1c ". يعني هذا أنك تستطيع استخدام &brandShortName; ونسخه وتوزيعه إلى الآخرين.  تستطيع أيضًا تعديل كود &brandShortName; المصدري كما تشاء لموافقة احتياجاتك. كما تعطيك رخصة موزيلا العامة الحق في توزيع نسخك المعدلة.">
 
 <!ENTITY rights.intro-point2a "موزيلا لا تعطيك أي حقوق للعلامات التجارية لمؤسسة موزيلا وثندِربِرد وشعاراتهما. يمكنك الاطلاع على مزيد من المعلومات عن العلامات التجارية ">
 <!ENTITY rights.intro-point2b "هنا">
 <!ENTITY rights.intro-point2c ".">
-<!-- point 3 text for official branded builds -->
 
+<!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "سياسات الخصوصية لمنتجات &vendorShortName; يمكن إيجادها ">
 <!ENTITY rights.intro-point3b "هنا">
 <!ENTITY rights.intro-point3c ".">
+
 <!-- point 3 text for unbranded builds -->
-
 <!ENTITY rights.intro-point3-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج مسرودة هنا.">
-<!-- point 4 text for official branded builds -->
 
+<!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "يقدّم &brandShortName; خدمات اختيارية عن معلومات مواقع الوب، كخدمة التصفح الآمن؛ رغم ذلك، لا يمكننا أن نكفل بأنها دقيقة مئة بالمئة أو خالية من الأخطاء. يمكن إيجاد مزيد من التفاصيل، شاملة معلومات عن كيفية تعطيل الخدمات، في ">
 <!ENTITY rights.intro-point4b "بنود الخدمة">
 <!ENTITY rights.intro-point4c ".">
-<!-- point 4 text for unbranded builds -->
 
+<!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "إن اتحد هذا المنتج مع خدمات الوب، ينبغي ربط كل بنود الخدمة التابعة للخدمة/للخدمات إلى قِسم ">
 <!ENTITY rights.intro-point4b-unbranded "خدمات موقع الوب">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights.webservices-header "خدمات مواقع الوب لـ &brandFullName;">
+
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-
 <!ENTITY rights.webservices-a "&brandFullName; يقدّم خدمات اختيارية (”الخدمات“)، كخدمة تحديث الإضافات، وهي خدمات متاحة لك في هذه النسخة الثنائية من &brandShortName; كما هو موضح أدناه. إن كنت لا تريد استخدام هذه الخدمات أو كنت لا توافق على الشروط أدناه، يمكنك تعطيل خدمة تحديث الإضافات عن طريق فتح نافذة التفضيلات في البرنامج، ثم اختيار ">
 <!ENTITY rights.webservices-b "متقدم">
 <!ENTITY rights.webservices-c " ثم اختيار لسان ">
 <!ENTITY rights.webservices-d "التحديث">
 <!ENTITY rights.webservices-e " و إزالة التأشير عن ”التمس التحديثات آليًا“.">
+
 <!-- intro paragraph for unbranded builds -->
-
 <!ENTITY rights.webservices-unbranded "ينبغي أن يُضمّن هنا -إن أمكن- نظرة عامة على خدمات مواقع الوب التي يتحد معها المنتج، متضمنة تعليمات عن كيفية تعطيلها.">
+
 <!-- point 1 text for unbranded builds -->
-
 <!ENTITY rights.webservices-term1-unbranded "كل سياسات الخصوصية المطبقة في هذا المنتج مسرودة هنا.">
-<!-- points 1-7 text for branded builds -->
 
+<!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; قد يلغي أو يغير الخدمات حسب مشيئته.">
 <!ENTITY rights.webservices-term2 "يحق لك استخدام هذه الخدمات مع نسختك من &brandShortName;، و لك كل الحقوق لفعل ذلك.  تحتفظ &vendorShortName; و مرخصوها بكامل الحقوق الأخرى على الخدمات.  هذه الشروط لا تهدف لتقييد أي حقوق ممنوحة في ترخيصات المصادر المفتوحة المطبقة على &brandShortName; و على الكود المصدري لنُسَخ &brandShortName;.">
 <!ENTITY rights.webservices-term3 "تُزوّد الخدمات &quot;كما هي&quot;.   يتنصّل &vendorShortName; و مساهموه و مرخّصوه و موزّعوه من جميع الضمانات، سواءً المصرّحة منها أو الضمنية، و يشمل ذلك بدون تحديد، الضمانات بأن الخدمات صالحة للمتاجرة أو تتلاءم مع أغراضك الخاصة.  أنت تتحمل كامل المسؤولية عن اختيارك الخدمات لأغراضك و عن قبولك بجودة وأداء الخدمات كما هي. بعض السلطات القضائية لا تسمح باستثناء أو تقييد الكفالات الضمنية، لذا فهذا التنصل قد لا ينطبق عليك.">

@@ -40,6 +40,7 @@ policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتو
 policy-Extensions = تثبيت أو إزالة أو قفل حالة الامتدادات. يأخذ خيار التثبيت مسارات محلية أو شبكية كمعطيات. يأخذ خياري الإزالة والقفل معرّفات الامتدادات.
 policy-ExtensionSettings = إدارة كل ما يتعلّق بتثبيت الامتدادات.
 policy-ExtensionUpdate = تفعيل/تعطيل تحديث الامتدادات تلقائيًا.
+policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسريع العتادي.
 policy-InstallAddonsPermission = السماح لبعض المواقع بتثبيت الإضافات.
 policy-LocalFileLinks = السماح لمواقع بعينها أن تصنع روابط إلى ملفات محلية.
 policy-NetworkPrediction = تفعيل/تعطيل التوقّع الشبكي (الجلب المسبق لِ‍ DNS).

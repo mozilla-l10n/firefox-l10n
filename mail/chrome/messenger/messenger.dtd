@@ -439,6 +439,7 @@
 <!ENTITY openMessageWindowCmd.label "افتح الرسالة">
 <!ENTITY openMessageWindowCmd.accesskey "ف">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "افتح في المحادثة">
 <!ENTITY openAttachmentListCmd.label "مرفقات">
 <!ENTITY openAttachmentListCmd.accesskey "ق">
 <!ENTITY openFeedMessage1.label "عند فتح رسائل التلقيم">
