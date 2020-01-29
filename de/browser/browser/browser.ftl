@@ -97,7 +97,7 @@ urlbar-search-tips-redirect = Starten Sie Ihre Suche hier, um Suchvorschläge vo
 urlbar-geolocation-blocked =
     .tooltiptext = Sie haben den Zugriff auf Ihren Standort durch diese Website blockiert.
 urlbar-xr-blocked =
-    .tooltiptext = Sie haben den Zugriff auf VR-Geräte für diese Website blockiert.
+    .tooltiptext = Sie haben den Zugriff auf VR-Geräte durch diese Website blockiert.
 urlbar-web-notifications-blocked =
     .tooltiptext = Sie haben das Anzeigen von Benachrichtungen durch diese Website blockiert.
 urlbar-camera-blocked =
@@ -115,7 +115,7 @@ urlbar-autoplay-media-blocked =
 urlbar-canvas-blocked =
     .tooltiptext = Sie haben das Abfragen von Canvas-Daten durch diese Website blockiert.
 urlbar-midi-blocked =
-    .tooltiptext = Sie haben den Zugriff auf MIDI für diese Website blockiert.
+    .tooltiptext = Sie haben den Zugriff auf MIDI durch diese Website blockiert.
 urlbar-install-blocked =
     .tooltiptext = Sie haben die Installation von Erweiterungen von dieser Website blockiert.
 
