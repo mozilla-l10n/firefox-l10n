@@ -8,9 +8,9 @@
 #
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
-abuse-report-dialog-title = { $addon-name }에 대한 신고
+abuse-report-dialog-title = { $addon-name } 신고
 abuse-report-title-extension = 이 확장기능을 { -vendor-short-name }에 신고하기
-abuse-report-title-theme = 이 테마를 { -vendor-short-name }에 신고
+abuse-report-title-theme = 이 테마를 { -vendor-short-name }에 신고하기
 abuse-report-subtitle = 무엇이 문제입니까?
 # Variables:
 #   $author-name (string) - Name of the add-on author
