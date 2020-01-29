@@ -33,6 +33,7 @@ menu-menuitem-preferences =
     }
 about-logins-menu-menuitem-help = Ajuda
 menu-menuitem-android-app = { -lockwise-brand-short-name } per Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone eiPad
 
 ## Login List
 
@@ -55,6 +56,7 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
+about-logins-intro-instruction-help = Consultatz <a data-l10n-name="help-link">l’assiténcia de { -lockwise-brand-short-name } per d’ajudar</a>
 
 ## Login
 
@@ -94,6 +96,13 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Consultar las opcions de { -sync-brand-short-name }
+           *[other] Consultar las preferéncias de { -sync-brand-short-name }
+        }
+    .accesskey = C
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Demandar pas mai
     .accesskey = D
