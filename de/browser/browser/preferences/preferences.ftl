@@ -34,7 +34,7 @@ search-input-box =
             [windows] In Einstellungen suchen
            *[other] In Einstellungen suchen
         }
-managed-notice = Ihr Browser wird durch Ihre Organisation verwaltet.
+managed-notice = Der Browser wird durch Ihre Organisation verwaltet.
 pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
