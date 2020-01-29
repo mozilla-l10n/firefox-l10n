@@ -4,7 +4,7 @@
 
 screenshots-context-menu = Tee ekraanipilt
 screenshots-my-shots-button = Minu pildid
-screenshots-instructions = Ala valimiseks klõpsavõi lohista lehel. Tühistamiseks vajuta ESC.
+screenshots-instructions = Ala valimiseks klõpsa või lohista lehel. Tühistamiseks vajuta ESC.
 screenshots-cancel-button = Tühista
 screenshots-save-visible-button = Salvesta nähtav
 screenshots-save-page-button = Salvesta terve leht
@@ -18,7 +18,7 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Link kopeeriti
-screenshots-notification-link-copied-details = Link sinu pildile kopeeriti lõikepuhvrisse. Asetamiseks vajuta { screenshots-meta-key }-V.
+screenshots-notification-link-copied-details = Sinu pildi link kopeeriti lõikepuhvrisse. Asetamiseks vajuta { screenshots-meta-key }-V.
 screenshots-notification-image-copied-title = Pilt kopeeriti
 screenshots-notification-image-copied-details = Sinu pilt kopeeriti vahemällu. Asetamiseks vajuta { screenshots-meta-key }-V.
 screenshots-request-error-title = Tekkis viga.
