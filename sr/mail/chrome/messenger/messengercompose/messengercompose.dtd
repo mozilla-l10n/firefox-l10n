@@ -261,6 +261,7 @@
 <!ENTITY fromAddr.label "Шаље:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY fromAddr2.label "Шаље">
 <!ENTITY fromAddr.accesskey "а">
 <!ENTITY toAddr.label "Прима:">
 <!ENTITY ccAddr.label "Коп:">
@@ -269,6 +270,7 @@
 <!ENTITY newsgroupsAddr.label "Новинска-група:">
 <!ENTITY followupAddr.label "Праћење-за:">
 <!ENTITY subject.label "Наслов:">
+<!ENTITY subject2.label "Тема">
 <!ENTITY subject.accesskey "Н">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
