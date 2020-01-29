@@ -8,7 +8,7 @@
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName;는 사용자 설정 및 기타 사용자 항목에 대한 정보를 사용자 프로필에 저장합니다.">
 <!ENTITY profileCreationExplanation_2.text  "이 &brandShortName;를 다른 사용자와 함께 사용하려는 경우, 여러 프로필을 사용하여 각 사용자의 정보를 별도로 유지할 수 있습니다. 이렇게 하려면 각 사용자가 자신의 프로필을 만들어야 합니다.">
-<!ENTITY profileCreationExplanation_3.text  "사용자가 &brandShortName;를 사용하는 유일한 사용자라도 최소한 하나의 프로필은 가지고 있어야 합니다. 또한 여러 개의 프로필을 만들어 다른 설정으로 사용할 수도 있습니다.">
+<!ENTITY profileCreationExplanation_3.text  "사용자가 &brandShortName;를 사용하는 유일한 사용자라도 최소한 하나의 프로필은 가지고 있어야 합니다. 또한 여러 개의 프로필을 만들어 다른 설정으로 사용할 수도 있습니다. 예를 들어 업무용과 개인용으로 별도의 프로필을 만들 수 있습니다.">
 <!ENTITY profileCreationExplanation_4.text  "프로필을 만들려면 다음을 선택하세요.">
 <!ENTITY profileCreationExplanation_4Mac.text  "프로필을 만들려면 계속을 선택하세요.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "프로필을 만들려면 다음을 선택하세요.">
