@@ -843,11 +843,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "فَيَرفُكس: عن متصفحك">
+<!ENTITY bookmarks_about_browser "‏Firefox: عن متصفحك">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "فَيَرفُكس: خصّص من خلال الإضافات">
+<!ENTITY bookmarks_addons "‏Firefox: خصّص من خلال الإضافات">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "فَيَرفُكس: الدعم">
+<!ENTITY bookmarks_support "‏Firefox: الدعم">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "مساعدة و دعم Firefox لملفات الإعدادات المقيّدَة على ألواح أندرويد">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
