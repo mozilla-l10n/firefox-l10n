@@ -305,6 +305,9 @@ about-debugging-main-process-name = Hauptprozess
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Hauptprozess des Zielbrowsers
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Werkzeuge für mehrere Prozesse
 # Description for the Multiprocess Toolbox target.
 about-debugging-multiprocess-toolbox-description = Hauptprozess und Inhaltsprozesse für den Zielbrowser
 # Alt text used for the close icon of message component (warnings, errors and notifications).
