@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Nastaví vlastnú stránku pri prvom spustení. Ak
 policy-OverridePostUpdatePage = Nastaví vlastnú stránku po aktualizácii aplikácie. Ak nechcete po aktualizácii zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
 policy-PasswordManagerEnabled = Povolí ukladanie hesiel do správcu hesiel.
 policy-Permissions = Nastaví povolenia pre kameru, mikrofón, polohu a upozornenia.
+policy-Permissions2 = Nastaví povolenia pre kameru, mikrofón, polohu, upozornenia a automatické prehrávanie.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Preferences = Nastaví a uzamkne hodnotu pre podmnožinu predvolieb.
 policy-PromptForDownloadLocation = Spýta sa na umiestnenie súboru pred jeho prevzatím.
