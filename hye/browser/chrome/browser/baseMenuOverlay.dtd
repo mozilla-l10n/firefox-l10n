@@ -1,0 +1,54 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Փոքրացնել">
+<!ENTITY bringAllToFront.label    "Բոլորն Առաջ Բերել">
+<!ENTITY zoomWindow.label         "Մասշտաբ">
+<!ENTITY windowMenu.label         "Պատուհան">
+
+<!ENTITY helpMenu.label           "Աւգնութիւն"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Աւգնութիւն"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+
+<!ENTITY aboutProduct2.label      "&brandShorterName;-ի մասին">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName;-ի աւգնութիւն">
+<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY helpMac.commandkey       "՞">
+
+<!ENTITY helpKeyboardShortcuts.label     "Ստեղնաշարի պիտակներ">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpSafeMode.label       "Վերամեկնարկել՝ անջատելով հաւելումները…">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Վերամեկնարկել՝ միացնելով հաւելումները">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
+
+<!ENTITY helpTroubleshootingInfo.label      "Անսարքութեան տեղեկատուութիւն">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "Ուղարկել արձագանք…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
+
+<!ENTITY helpShowTour2.label            "Շրջայց &brandShorterName;-ի հետ">
+<!ENTITY helpShowTour2.accesskey        "o">
+
+<!ENTITY preferencesCmdMac.label        "Կարգաւորումներ…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+<!ENTITY servicesMenuMac.label          "Ծառայութիւններ">
+
+<!ENTITY hideThisAppCmdMac2.label       "Թաքցել &brandShorterName;-ը">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Թաքցնել մնացածը">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+
+<!ENTITY showAllAppsCmdMac.label        "Ցուցադրել բոլորը">
+
+<!ENTITY touchBarCmdMac.label           "Յարմարեցնել հպման փեղկը…">
