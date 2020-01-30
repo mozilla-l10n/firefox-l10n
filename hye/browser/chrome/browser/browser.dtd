@@ -89,21 +89,48 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Էջանիշերի վահանակի տարրերը">
 
 <!ENTITY pageSourceCmd.label "Էջի աղբիւրը">
+<!ENTITY pageSourceCmd.accesskey "o">
 
+<!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
+<!ENTITY pageInfoCmd.label "Էջի մասին տուեալներ">
+<!ENTITY pageInfoCmd.accesskey "I">
 
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Դասաւորութեան վրիպազերծում">
+<!ENTITY ldbCmd.accesskey "L">
+<!ENTITY mirrorTabCmd.label "Ներդիրի հայելապատճէն">
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Մուտք գործել լիաէկրան">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Դուրս գալ լիաէկրան վիճակից">
+<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "Լիաէկրան">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Ցուցադրել բոլոր ներդիրները">
+<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "R">
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
+<!ENTITY fxaSignIn.label "Մուտք գործել &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Բացել &syncBrand.shortName.label;-ի կարգաւորումները">
+<!ENTITY fxaSignInError.label "Վերակապակցել &syncBrand.shortName.label;-ին">
+<!ENTITY fxaUnverified.label "Հաստատել Ձեր հաշիւը">
 
 
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
- <!-- } is above this key on many keyboards -->
-
+<!ENTITY fullScreenMinimize.tooltip "Փոքրացնել">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
