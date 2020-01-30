@@ -47,4 +47,4 @@ clear-site-data-cancel =
     .accesskey = B
 clear-site-data-clear =
     .label = Hapus
-    .accesskey = l
+    .accesskey = H
