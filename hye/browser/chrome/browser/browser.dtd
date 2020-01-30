@@ -142,32 +142,60 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Վերցրէք Firefox-ը Ձեզ հետ">
 <!ENTITY fxa.signin.description.label "Ստացէք Ձեր էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ կարգաւորումներ Ձեր բոլոր սարքերում։">
+<!ENTITY fxa.signin.button.label "Միացնել &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Ստուգէք Ձեր էլ֊փոստը">
+<!ENTITY fxa.unverified.description.label "Դուք պէտք է հաստատէք Ձեր հաշիւը նախքան համաժամեցնելը։">
+<!ENTITY fxa.unverified.button.label "Բացել &syncBrand.shortName.label; կարգաւորումներ…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Մուտք գործած որպէս">
+<!ENTITY fxa.menu.manageAccount.label "Հաշուի կառաւարում…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Կարգաւորումներ…">
 
+<!ENTITY pictureInPictureHideToggle.label "Թաքցնել նկարը նկարի փոխարկիչում">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;֊ի ընտրանքները">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Կապակցել այլ սարք…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Մուտք գործել &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Միացնել &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Ծառայութիւններ">
+<!ENTITY fxa.menu.account.label "Հաշիւ">
+<!ENTITY fxa.menu.settings.label "Կարգաւորումներ">
+<!ENTITY fxa.menu.accountSettings.label "Հաշուի կարգաւորումներ">
+<!ENTITY fxa.menu.manageAccount2.label "Հաշուի կառաւարում">
+<!ENTITY fxa.menu.signOut.label "Դուրս գալ…">
+<!ENTITY fxa.menu.deviceSettings.label "Սարքի կարգաւորումներ">
+<!ENTITY fxa.menu.setupSync.label "Տեղակայել &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Անմիջապէս ուղարկէք ներդիր ցանկացած մուտք գործած սարքին։">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "այժմ լիաէկրան է">
+<!ENTITY fullscreenWarning.generic.label "Փաստաթուղթը այժմ լիաէկրան է">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Դուրս գալ լիաէկրանից (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Դուրս գալ լիաէկրանից (esc)">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
