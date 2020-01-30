@@ -131,9 +131,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Փոքրացնել">
+<!ENTITY fullScreenRestore.tooltip "Վերականգնել">
+<!ENTITY fullScreenClose.tooltip "Փակել">
+<!ENTITY fullScreenAutohide.label "Թաքցնել Գործիքագաւտիները">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "Դուրս գալ լիաէկրան վիճակից">
+<!ENTITY fullScreenExit.accesskey "F">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Վերցրէք Firefox-ը Ձեզ հետ">
+<!ENTITY fxa.signin.description.label "Ստացէք Ձեր էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ կարգաւորումներ Ձեր բոլոր սարքերում։">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
