@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extensão recomendada
 cfr-doorhanger-feature-heading = Funcionalidade recomendada
 cfr-doorhanger-pintab-heading = Experimente isto: Fixar separador
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Porque é que estou a ver isto
@@ -124,7 +124,7 @@ cfr-whatsnew-lockwise-take-link-text = Obter a aplicação
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-header = Assista a vídeos enquanto navega
+cfr-whatsnew-pip-header = Veja vídeos enquanto navega
 cfr-whatsnew-pip-body = A funcionalidade de vídeo em janela flutuante apresenta o vídeo numa janela flutuante para que possa assistir enquanto trabalha em outros separadores.
 cfr-whatsnew-pip-cta = Saber mais
 
