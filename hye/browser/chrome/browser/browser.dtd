@@ -86,7 +86,9 @@ this container is a toolbar. This avoids double-speaking. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Էջանիշեր">
+<!ENTITY bookmarksToolbarItem.label "Էջանիշերի վահանակի տարրերը">
 
+<!ENTITY pageSourceCmd.label "Էջի աղբիւրը">
 
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
