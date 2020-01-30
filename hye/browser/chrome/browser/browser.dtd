@@ -15,6 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Գաղտնի զննարկում)">
 
+<!ENTITY appmenu.tooltip                     "Բացել ցանկը">
+<!ENTITY navbarOverflow.label                "Հաւելեալ գործիքներ…">
 
 <!-- Tab context menu -->
 
@@ -23,22 +25,55 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+<!ENTITY  pinTab.label                       "Ամրացնել ներդիրը">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Ապամրացնել ներդիրը">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY  unpinTab.accesskey                 "p">
+<!ENTITY  sendPageToDevice.label             "Ուղարկել էջը սարքին">
+<!ENTITY  sendPageToDevice.accesskey         "n">
+<!ENTITY  sendLinkToDevice.label             "Ուղարկել յղումը սարքին">
+<!ENTITY  sendLinkToDevice.accesskey         "n">
+<!ENTITY  undoCloseTab.label                 "Յետարկել փակուած ներդիրը">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  hiddenTabs.label                   "Թաքնուած ներդիրներ">
 
+<!ENTITY  listAllTabs.label      "Ցուցադրել բոլոր էջերը">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Որոնել ներդիրները">
 
+<!ENTITY tabCmd.label "Նոր ներդիր">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Բացել հասցէ…">
+<!ENTITY openFileCmd.label "Բացել նիշքը…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Էջի կարգաւորումներ…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Տպել նախադիտումը">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Տպել…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Ներմուծում մեկ այլ զննարկչից…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
+<!ENTITY taskManagerCmd.label "Առաջադրանքների ղեկաւար">
 
+<!ENTITY goOfflineCmd.label "Աշխատել անցանց">
+<!ENTITY goOfflineCmd.accesskey "k">
 
+<!ENTITY menubarCmd.label "Ցանկագաւտի">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
