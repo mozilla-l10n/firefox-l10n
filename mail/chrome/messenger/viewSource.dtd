@@ -15,7 +15,7 @@
 <!ENTITY mainWindow.preface "Sorgente di: ">
 
 <!ENTITY editMenu.label "Modifica">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "M">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Salva pagina con nome…">
