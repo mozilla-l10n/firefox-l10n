@@ -89,6 +89,7 @@ urlbar-search-tips-confirm = ٹھیک ہے ، سمجھ آگیا
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = کم ٹائپ کریں ، زیادہ ڈھونڈیں: اپنے ایڈریس بار  کے { $engineName } سے تلاش کریں۔
 
 ##
 

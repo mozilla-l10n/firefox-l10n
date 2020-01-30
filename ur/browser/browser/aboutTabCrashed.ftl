@@ -16,6 +16,7 @@ crashed-request-report-title = اس ٹیب کی رپورٹ کریں
 crashed-send-report = خودکار کریش کی رپورٹ بھیجیں تاکہ ہم اس طرح کے معاملات حل کرسکیں۔
 crashed-comment =
     .placeholder = اختیاری تبصرہ (تبصرے عوامی سطح پر نمودار ھیں)
+crashed-include-URL = { -brand-short-name } کریش ہونے کے وقت آپ جس سائٹ پر تھے اس کآ URLs شامل کریں۔
 crashed-email-placeholder = یہاں اپنا ای میل پتہ داخل کریں
 crashed-email-me = مجھے ای میل کریں جب مزید معلومات دستیاب ہوں
 crashed-report-sent = تباہ رپورٹ پہلے سے جمع ہو چکی ہے؛ { -brand-short-name } کو بہتر بنانے کے لیے مدد دینے کا شکریہ!
