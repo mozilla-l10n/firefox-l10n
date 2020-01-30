@@ -74,12 +74,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Ցանկագաւտի">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Ուղղորդման վահանակ">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Ուղղորդում">
+<!ENTITY personalbarCmd.label "Էջանիշերի վահանակ">
+<!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Էջանիշեր">
 
 
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
