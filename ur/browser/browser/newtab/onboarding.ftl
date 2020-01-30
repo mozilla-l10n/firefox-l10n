@@ -132,6 +132,7 @@ onboarding-lockwise-strong-passwords-button = اپنے  لاگ ان بندوبس
 onboarding-facebook-container-title = Facebook کے ساتھ حدود طے کریں
 onboarding-facebook-container-button = ایکسٹینشن شامل کریں
 onboarding-import-browser-settings-title = اپنے بُک مارکس ، پاس ورڈز اور بہت کچھ درآمد کریں
+onboarding-import-browser-settings-text = سیدھے ڈوبکی  لگائیں — آسانی سے اپنے ساتھ اپنی Chrome سائٹس اور سیٹنگیں اپنے ساتھ لائیں۔
 onboarding-import-browser-settings-button = chrome ڈیٹا درآمد کریں
 
 ## Message strings belonging to the Return to AMO flow
