@@ -94,6 +94,8 @@ urlbar-search-tips-confirm = ٹھیک ہے ، سمجھ آگیا
 
 urlbar-geolocation-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کے لیئے محل وقوع کی معلومات کو بلاک کیا ہوا ہے
+urlbar-xr-blocked =
+    .tooltiptext = رآپنے اس ویب سائٹ کے لئے ورچوئل رئیلٹی تک رسائی بلاک کر دی ہیں۔
 urlbar-web-notifications-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کے لیئے اطلاع کو بلاک کیا ہوا ہے
 urlbar-camera-blocked =
