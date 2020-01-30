@@ -937,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "왜?">
+<!ENTITY protections.notBlocking.why.label "이유?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "이들을 차단하면 일부 웹 사이트의 요소가 손상 될 수 있습니다. 추적기가 없으면 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "보호 기능이 꺼져 있어 이 사이트의 모든 추적기가 로드되었습니다.">
 <!ENTITY protections.noTrackersFound.description "이 페이지에서 &brandShortName;에 알려진 추적기가 탐지되지 않았습니다.">
