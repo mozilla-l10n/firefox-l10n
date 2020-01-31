@@ -124,4 +124,4 @@
 <!ENTITY deferStorage.label "Folosește căsuța poștală globală (stochează mesajele în dosarele locale)">
 <!ENTITY deferStorage.accesskey "F">
 <!ENTITY clickFinish.label "Clic pe „Încheiere” pentru a salva aceste setări și a părăsi asistentul de creat conturi.">
-<!ENTITY clickFinish.labelMac "Clic pe „Terminat” pentru a salva aceste setări și a părăsi asistentul de creat conturi.">
+<!ENTITY clickFinish.labelMac "Dă clic pe „Terminat” pentru a salva aceste setări și ieșirea din asistentul de creat conturi.">
