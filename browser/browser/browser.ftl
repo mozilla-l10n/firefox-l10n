@@ -83,6 +83,7 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Ottieni assistenza
 urlbar-search-tips-confirm = OK, tutto chiaro
+
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
@@ -117,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = È stato bloccato l’accesso alle funzioni MIDI per questo sito web.
 urlbar-install-blocked =
     .tooltiptext = È stata bloccata l’installazione di componenti aggiuntivi per questo sito.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Modifica questo segnalibro ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Aggiungi ai segnalibri ({ $shortcut })
 
 ## Page Action Context Menu
 
