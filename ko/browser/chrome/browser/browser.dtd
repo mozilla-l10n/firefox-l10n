@@ -849,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure3 "안전한 연결">
 <!ENTITY identity.connectionNotSecure2 "안전하지 않은 연결">
 <!ENTITY identity.connectionNotSecureSecurityView "이 사이트에 안전하게 연결되어 있지 않습니다.">
-<!ENTITY identity.connectionFile "이 페이지는 사용자의 컴퓨터에 저장됩니다.">
+<!ENTITY identity.connectionFile "이 페이지는 사용자의 컴퓨터에 저장되어 있습니다.">
 <!ENTITY identity.connectionVerified2 "안전하게 사이트에 연결되었습니다. 소유자:">
 <!ENTITY identity.connectionVerified3 "이 사이트에 안전하게 연결되어 있습니다.">
 <!ENTITY identity.connectionInternal "안전한 &brandShortName; 페이지입니다.">
