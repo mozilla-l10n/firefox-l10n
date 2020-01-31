@@ -112,12 +112,7 @@ options-source-maps-label = 소스맵 켜기
 options-source-maps-tooltip =
     .title = 이 설정을 켜면 소스가 도구에서 매핑됩니다.
 # The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * 현재 세션에서만 쓰이며, 페이지를 새로고침함
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = 디버거
+options-context-triggers-page-refresh = * 현재 세션만 해당되며, 페이지를 새로 고침
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Gecko 플랫폼 데이터
