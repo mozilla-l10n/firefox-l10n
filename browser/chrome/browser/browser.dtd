@@ -862,7 +862,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;가 안전하지 않은 페이지의 일부를 차단했습니다.">
 <!ENTITY identity.passiveLoaded "페이지의 일부(이미지 등)가 안전하지 않습니다.">
-<!ENTITY identity.activeLoaded "이 페이지의 보호를 비활성화 하였습니다.">
+<!ENTITY identity.activeLoaded "이 페이지에서 보호를 비활성화 하셨습니다.">
 <!ENTITY identity.weakEncryption "이 페이지는 약한 암호화를 사용합니다.">
 
 <!-- Strings for connection state warnings in the subview. -->
