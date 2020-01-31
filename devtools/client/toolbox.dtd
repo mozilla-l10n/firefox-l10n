@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh  "* 현재 세션에서만 쓰이며, 페이지를 새로고침함">
+<!ENTITY options.context.triggersPageRefresh  "* 현재 세션만 해당되며, 페이지를 새로 고침">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
