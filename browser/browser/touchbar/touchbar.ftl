@@ -9,6 +9,7 @@ forward = Naprijed
 reload = Osvježi
 home = Početna stranica
 fullscreen = Cijeli zaslon
+touchbar-fullscreen-exit = Napusti prikaz preko cijelog zaslona
 find = Traži
 new-tab = Nova kartica
 add-bookmark = Dodaj zabilješku
@@ -33,5 +34,5 @@ search-opentabs = Otvorene kartice
 search-tags = Oznake
 search-titles = Naslovi
 
-
+##
 
