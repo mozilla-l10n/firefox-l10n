@@ -446,7 +446,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Quer ver aqui suas abas de outros dispositivos?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Acesse sua conta para ver uma lista de abas de seus outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Veja uma lista de abas de seus outros dispositivos.">
