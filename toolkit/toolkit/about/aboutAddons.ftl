@@ -319,7 +319,7 @@ created-by-author = 제작: <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
-user-count = 사용자: { $dailyUsers }
+user-count = 사용자: { $dailyUsers }명
 install-extension-button = { -brand-product-name }에 추가
 install-theme-button = 테마 설치하기
 # The label of the button that appears after installing an add-on. Upon click,
