@@ -72,7 +72,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = 편집
 newtab-menu-open-new-window = 새 창에서 열기
-newtab-menu-open-new-private-window = 새 사생활 보호 창에서 열기
+newtab-menu-open-new-private-window = 새 사생활 보호 창에 열기
 newtab-menu-dismiss = 닫기
 newtab-menu-pin = 고정
 newtab-menu-unpin = 고정 해제
