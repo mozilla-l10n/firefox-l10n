@@ -37,6 +37,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone eiPad
 
 ## Login List
 
+login-list =
+    .aria-label = Identificants correspondents a la recèrca
 login-list-count =
     { $count ->
         [one] { $count } identificant
@@ -49,13 +51,16 @@ login-list-last-changed-option = Darrièra modificacion
 login-list-last-used-option = Darrièra utilizacion
 login-list-intro-title = Cap d’identificant pas trobat
 about-logins-login-list-empty-search-title = Cap d’identificant pas trobat
+about-logins-login-list-empty-search-description = Cap de resultat per vòstra recèrca.
 login-list-item-title-new-login = Identificant novèl
+login-list-item-subtitle-new-login = Picatz vòstras informacions de connexion
 login-list-item-subtitle-missing-username = (Pas cap de nom d’utilizaire)
 about-logins-list-item-breach-icon =
     .title = Site amb contengut expausat al public
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = Cap d’identificant sincronizat pas trobat.
 about-logins-intro-instruction-help = Consultatz <a data-l10n-name="help-link">l’assiténcia de { -lockwise-brand-short-name } per d’ajudar</a>
 
 ## Login
@@ -126,3 +131,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = Una error s’es producha en enregistrant aqueste senhal.

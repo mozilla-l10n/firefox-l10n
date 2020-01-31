@@ -168,6 +168,7 @@ identity-connection-internal = Aquò es una pagina segura de { -brand-short-name
 identity-connection-file = Aquela pagina es enregistrada dins vòstre ordinador.
 identity-extension-page = Aquela pagina es estada cargada d’una extension.
 identity-active-blocked = { -brand-short-name } a blocat d'elements pas segurs sus aquela pagina.
+identity-custom-root = Connexion verificada per un emissor de certificat pas reconegut per Mozilla.
 identity-passive-loaded = D'elements de la pagina son pas segurs (coma los imatges).
 identity-active-loaded = Avètz desactivat la proteccion sus aquela pagina.
 identity-weak-encryption = Aquela pagina utiliza un chiframent flac.

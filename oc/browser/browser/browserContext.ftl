@@ -164,6 +164,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Sortir del mòde ecran complet
     .accesskey = c
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Vidèo integrada
+    .accesskey = i
 main-context-menu-image-reload =
     .label = Actualizar l'imatge
     .accesskey = m
