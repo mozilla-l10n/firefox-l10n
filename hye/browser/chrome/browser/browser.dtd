@@ -214,14 +214,51 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "ղեկավարում է Ձեր ցուցիչը: Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։">
 <!ENTITY pointerlockWarning.generic.label "Այս փաստաթուղթը ղեկավարում է Ձեր ցուցիչը։ Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։">
 
+<!ENTITY closeWindow.label "Փակել պատուհանը">
+<!ENTITY closeWindow.accesskey "d">
 
+<!ENTITY bookmarksMenu.label "Էջանիշեր">
+<!ENTITY bookmarksMenu.accesskey "B">
 
+<!ENTITY bookmarkThisPageCmd.label "Էջանշել այս էջը">
+<!ENTITY editThisBookmarkCmd.label "Խմբագրել այս էջանիշը">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!ENTITY addCurPagesCmd.label "Էջանշել բոլոր ներդիրները…">
 
+<!ENTITY showAllBookmarks2.label "Ցուցադրել բոլոր էջանիշերը">
+<!ENTITY recentBookmarks.label "Վերջերս էջանշուած">
+<!ENTITY otherBookmarksCmd.label "Այլ էջանիշեր">
+<!ENTITY mobileBookmarksCmd.label "Բջջային էջանիշեր">
+<!ENTITY bookmarksToolbarChevron.tooltip "Ցուցադրել աւելի շատ էջանիշեր">
 
+<!ENTITY backCmd.label                "Նախորդը">
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "Գնալ նախորդ էջ">
+<!ENTITY forwardCmd.label             "Յաջորդը">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "Գնալ յաջորդ էջ">
+<!ENTITY backForwardButtonMenu.tooltip "Աջ սեղմում կամ պտտում ներքեւ՝ պատմութիւնը դիտելու համար">
+<!ENTITY backForwardButtonMenuMac.tooltip "Պտտեք ներքեւ՝ պատմութիւնը դիտելու համար">
+<!ENTITY reloadCmd.label              "Կրկին բեռնել">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY stopCmd.label                "Ընդհատել">
+<!ENTITY stopCmd.accesskey            "S">
 
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY goEndCap.tooltip             "Գնալ հասցէի տողում նշուած հասցէով">
+<!ENTITY printButton.label            "Տպել">
+<!ENTITY printButton.tooltip          "Տպել տուեալ էջը">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Դիտել կայքի տեղեկութիւնը">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Բացել հաղորդագրութեան վահանակը">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Բացել տեղադրութեան հարցման վահանակը">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Բացել ինքնաշխատ վահանակ">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Բացել հաւելման տեղադրման հաղորդագրութեան վահանակը">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Կառաւարել canvas-ի դուրս բերման թոյլտուութիւնները">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Բացել անցանց պահեստի հաղորդագրութեան վահանակը">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Բացել պահպանուած գաղտնաբառի հաղորդագրութեան վահանակը">
 
 
 
