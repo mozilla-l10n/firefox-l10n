@@ -269,10 +269,10 @@ addon-open-about-debugging = ניפוי שגיאות של תוספות
 
 manage-extensions-shortcuts =
     .label = ניהול קיצורי דרך להרחבות
-    .accesskey = נ
+    .accesskey = ק
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = ניהול קיצורי דרך להרחבות
-    .accesskey = נ
+    .accesskey = ק
 shortcuts-no-addons = אין לך הרחבות מופעלות.
 shortcuts-no-commands = להרחבות הבאות אין קיצורי דרך:
 shortcuts-input =
