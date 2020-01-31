@@ -47,6 +47,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortiraj po:
 login-list-name-option = Naziv (A-Z)
+login-list-name-reverse-option = Naziv (Z-A)
 login-list-breached-option = Hakirane web stranice
 login-list-last-changed-option = Zadnje izmijenjeno
 login-list-last-used-option = Posljednji put korišteno

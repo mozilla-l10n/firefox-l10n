@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Poništite postavke početne stranice. Postavite o
 policy-OverridePostUpdatePage = Poništite "Što je novo" stranicu nakon ažuriranja. Postavite ovo pravilo na prazno ukoliko želite onemogućiti stranicu nakon ažuriranja.
 policy-PasswordManagerEnabled = Omogući spremanje lozinki u upravljaču lozinki.
 policy-Permissions = Podesite dozvole za kameru, mikrofon, lokaciju i obavijesti.
+policy-Permissions2 = Podesite dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
 policy-PopupBlocking = Omogućite određenim web stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavite i zaključajte vrijednosti za podskup postavki.
 policy-PromptForDownloadLocation = Pitaj gdje spremati datoteke prilikom preuzimanja.
