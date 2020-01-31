@@ -9,6 +9,7 @@ forward = Înainte
 reload = Reîncarcă
 home = Pagina de start
 fullscreen = Ecran complet
+touchbar-fullscreen-exit = Ieși din modul ecran complet
 find = Caută
 new-tab = Filă nouă
 add-bookmark = Adaugă marcaj

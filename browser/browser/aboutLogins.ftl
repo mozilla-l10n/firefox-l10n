@@ -47,6 +47,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortează după:
 login-list-name-option = Nume (A-Z)
+login-list-name-reverse-option = Nume (Z-A)
 login-list-breached-option = Site-uri web a căror securitate a fost încălcată
 login-list-last-changed-option = Ultima modificare
 login-list-last-used-option = Ultima utilizare

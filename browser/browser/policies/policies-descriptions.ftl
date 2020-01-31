@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Anulează pagina de întâmpinare la prima utiliza
 policy-OverridePostUpdatePage = Anulează pagina „Noutăți” după actualizare. Lasă politica goală dacă vrei să dezactivezi pagina post-actualizare.
 policy-PasswordManagerEnabled = Activează salvarea parolelor în managerul de parole.
 policy-Permissions = Configurează permisiunile pentru cameră, microfon, locație și notificări.
+policy-Permissions2 = Configurează permisiunile pentru cameră, microfon, locație, notificări și redare automată.
 policy-PopupBlocking = Permite anumitor site-uri web să afișeze implicit ferestre pop-up.
 policy-Preferences = Setează și blochează valoarea pentru un subset de preferințe.
 policy-PromptForDownloadLocation = Întreabă unde să fie salvate fișierele la descărcare.
