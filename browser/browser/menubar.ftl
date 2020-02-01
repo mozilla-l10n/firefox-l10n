@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Толық экран режимі
     .accesskey = Т
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Барлық беттерді көрсету
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = Б
 menu-bookmarks-show-all =
     .label = Барлық бетбелгілерді көрсету
+menu-bookmark-this-page =
+    .label = Бұл бетті бетбелгілерге қосу
+menu-bookmark-edit =
+    .label = Бетбелгіні түзету
 menu-bookmarks-all-tabs =
     .label = Барлық беттерді бетбелгілерге қосу…
 menu-bookmarks-toolbar =
