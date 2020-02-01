@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Titz'aqatisäx re ruxaq re' pa taq yaketal
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Titz'aqatisäx re ruxaq re' pa taq yaketal
+    .accesskey = m
+    .tooltiptext = Titz'aqatisäx re ruxaq k'amaya'l re' pa taq yaketal
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Titz'aqatisäx re ruxaq re' pa taq yaketal
+    .accesskey = m
+    .tooltiptext = Titz'aqatisäx re ruxaq k'amaya'l re' pa taq yaketal ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Tinuk' re yaketal re'
+    .accesskey = m
+    .tooltiptext = Tinuk' re jun yaketal re'
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Tinuk' re yaketal re'
+    .accesskey = m
+    .tooltiptext = Tinuk' re jun yaketal ({ $shortcut }) re'
 main-context-menu-open-link =
     .label = Tijaq ximon tzij
     .accesskey = T
