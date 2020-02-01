@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = न्यूनतम
 window-zoom-command =
-    .label = छोट-पैघ करू{ " " }
+    .label = छोट-पैघ करू
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
