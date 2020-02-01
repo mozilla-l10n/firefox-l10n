@@ -14,6 +14,8 @@ tab-new-shortcut =
     .key = t
 location-open-shortcut =
     .key = l
+location-open-shortcut-alt =
+    .key = ח
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -122,5 +124,7 @@ help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
 hide-other-apps-shortcut =
     .key = H
