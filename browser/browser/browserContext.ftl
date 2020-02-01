@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Egin orri honen laster-marka
     .accesskey = E
+main-context-menu-bookmark-add =
+    .aria-label = Egin orri honen laster-marka
+    .accesskey = E
+    .tooltiptext = Egin orri honen laster-marka
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Egin orri honen laster-marka
+    .accesskey = E
+    .tooltiptext = Egin orri honen laster-marka ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Editatu laster-marka
+    .accesskey = E
+    .tooltiptext = Editatu laster-marka
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Editatu laster-marka
+    .accesskey = E
+    .tooltiptext = Editatu laster-marka ({ $shortcut })
 main-context-menu-open-link =
     .label = Ireki lotura
     .accesskey = I
