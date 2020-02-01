@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Boekmerk hierdie bladsy
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Boekmerk hierdie bladsy
+    .accesskey = m
+    .tooltiptext = Boekmerk hierdie bladsy
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Boekmerk hierdie bladsy
+    .accesskey = m
+    .tooltiptext = Boekmerk hierdie bladsy ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Redigeer hierdie boekmerk
+    .accesskey = m
+    .tooltiptext = Redigeer hierdie boekmerk
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Redigeer hierdie boekmerk
+    .accesskey = m
+    .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
 main-context-menu-open-link =
     .label = Open skakel
     .accesskey = O
