@@ -14,6 +14,8 @@ tab-new-shortcut =
     .key = t
 location-open-shortcut =
     .key = l
+location-open-shortcut-alt =
+    .key = d
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -25,6 +27,17 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] j
+           *[other] e
+        }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -34,6 +47,8 @@ downloads-shortcut =
             [linux] y
            *[other] j
         }
+addons-shortcut =
+    .key = A
 file-open-shortcut =
     .key = o
 save-page-shortcut =
@@ -44,6 +59,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -57,6 +74,8 @@ history-show-all-shortcut =
     .key = H
 history-sidebar-shortcut =
     .key = h
+full-screen-shortcut =
+    .key = f
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -105,6 +124,8 @@ full-zoom-reset-shortcut-alt =
 
 bidi-switch-direction-shortcut =
     .key = X
+private-browsing-shortcut =
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
@@ -113,5 +134,7 @@ help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = h
 hide-other-apps-shortcut =
     .key = H
