@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = నిండు తెర
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = ట్యాబులన్నింటినీ చూపించు
@@ -189,6 +189,10 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = ఇష్టాంశాలన్నింటినీ చూపించు
+menu-bookmark-this-page =
+    .label = ఈ పేజీని ఇష్టాంశంగా చేయి
+menu-bookmark-edit =
+    .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
 menu-bookmarks-all-tabs =
     .label = ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…
 menu-bookmarks-toolbar =
