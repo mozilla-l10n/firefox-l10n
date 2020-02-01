@@ -6,6 +6,8 @@ window-minimize-command =
     .label = Minimiziraj
 window-zoom-command =
     .label = Zumiraj
+window-new-shortcut =
+    .key = N
 window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
@@ -25,6 +27,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -33,6 +37,15 @@ search-focus-shortcut-alt =
         { PLATFORM() ->
             [linux] j
            *[other] e
+        }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
         }
 addons-shortcut =
     .key = A
@@ -44,15 +57,21 @@ page-source-shortcut =
     .key = u
 page-info-shortcut =
     .key = i
+print-shortcut =
+    .key = p
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
+nav-reload-shortcut =
+    .key = r
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-sidebar-shortcut =
+    .key = h
 full-screen-shortcut =
     .key = f
 # Pick the key that is commonly present
@@ -111,5 +130,7 @@ help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
 hide-other-apps-shortcut =
     .key = H
