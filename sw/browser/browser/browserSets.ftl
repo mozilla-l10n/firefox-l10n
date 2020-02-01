@@ -38,6 +38,15 @@ search-focus-shortcut-alt =
             [linux] i
            *[other] e
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
@@ -45,6 +54,13 @@ file-open-shortcut =
 save-page-shortcut =
     .key = s
 page-source-shortcut =
+    .key = u
+# This should match the Option+Command keyboard shortcut letter that Safari
+# and Chrome use for "View Source" on macOS. `page-source-shortcut` above
+# is Firefox's official keyboard shortcut shown in the GUI.
+# Safari variant is an alias provided for the convenience of Safari and Chrome
+# users on macOS. See bug 1398988.
+page-source-shortcut-safari =
     .key = u
 page-info-shortcut =
     .key = i
@@ -100,6 +116,8 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
