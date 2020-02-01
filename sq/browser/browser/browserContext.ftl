@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Faqeruaje Këtë Faqe
     .accesskey = F
+main-context-menu-bookmark-add =
+    .aria-label = Faqeruaje Këtë Faqe
+    .accesskey = F
+    .tooltiptext = Faqeruani këtë faqe
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Faqeruaje Këtë Faqe
+    .accesskey = F
+    .tooltiptext = Faqeruani këtë faqe ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Përpunojeni Këtë Faqerojtës
+    .accesskey = F
+    .tooltiptext = Përpunoni këtë faqerojtës
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Përpunojeni Këtë Faqerojtës
+    .accesskey = F
+    .tooltiptext = Përpunoni këtë faqerojtës ({ $shortcut })
 main-context-menu-open-link =
     .label = Hape Lidhjen
     .accesskey = H
