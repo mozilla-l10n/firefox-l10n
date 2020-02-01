@@ -8,6 +8,8 @@ window-zoom-command =
     .label = Yakınlaştır
 window-new-shortcut =
     .key = N
+window-minimize-shortcut =
+    .key = m
 close-shortcut =
     .key = W
 tab-new-shortcut =
@@ -27,6 +29,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -64,6 +68,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-reload-shortcut =
     .key = r
 # Shortcut available only on macOS.
@@ -75,6 +81,15 @@ history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
     .key = f
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+reader-mode-toggle-shortcut =
+    .key =
+        { PLATFORM() ->
+            [windows] VK_F9
+           *[other] R
+        }
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -131,3 +146,11 @@ private-browsing-shortcut =
 
 quit-app-shortcut =
     .key = Q
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
