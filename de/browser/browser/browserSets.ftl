@@ -10,6 +10,8 @@ window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
+close-shortcut =
+    .key = W
 tab-new-shortcut =
     .key = t
 location-open-shortcut =
@@ -92,6 +94,8 @@ reader-mode-toggle-shortcut =
             [windows] VK_F9
            *[other] R
         }
+picture-in-picture-toggle-shortcut =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
