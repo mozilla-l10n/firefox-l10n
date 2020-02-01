@@ -166,6 +166,10 @@ menu-bookmarks-menu =
     .accesskey = N
 menu-bookmarks-show-all =
     .label = Mb-lòɁ ré tá kó ndó~làz=ná
+menu-bookmark-this-page =
+    .label = Tób kùe loo ndó~làz=ná{ " " }
+menu-bookmark-edit =
+    .label = Tùs kùe Ndó~làz=ná
 menu-bookmarks-all-tabs =
     .label = Ndó~làz=ná ré tá...
 menu-bookmarks-toolbar =
@@ -184,15 +188,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Koo kub taak toob luu loo firefox
     .accesskey = K
-menu-tools-sync-sign-in =
-    .label = -taɁ lélù { -sync-brand-short-name }...
-    .accesskey = Y
 menu-tools-sync-now =
     .label = Sincronizar ahora
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Tòb kì { -sync-brand-short-name }…
-    .accesskey = k
 menu-tools-web-developer =
     .label = Xha koo dee thus kue kue Web
     .accesskey = W

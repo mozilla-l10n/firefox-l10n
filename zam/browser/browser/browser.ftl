@@ -41,6 +41,23 @@ urlbar-identity-button =
 urlbar-translate-notification-anchor =
     .tooltiptext = Zè díʔz
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Tùs kùe ndó~làz=ná ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Tób loo ré lèɁn ndó~làz=ná ({ $shortcut })
+
 ## Page Action Context Menu
 
 
