@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = מסך מלא
     .accesskey = ס
 
-
+##
 
 menu-view-show-all-tabs =
     .label = הצגת כל הלשוניות
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = ס
 menu-bookmarks-show-all =
     .label = הצגת כל הסימניות
+menu-bookmark-edit =
+    .label = עריכת סימנייה זו
 menu-bookmarks-all-tabs =
     .label = יצירת סימנייה לכל הלשוניות…
 menu-bookmarks-toolbar =
