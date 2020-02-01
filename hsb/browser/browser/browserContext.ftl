@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Tutu stronu jako zapołožku składować
     .accesskey = z
+main-context-menu-bookmark-add =
+    .aria-label = Tutu stronu jako zapołožku składować
+    .accesskey = z
+    .tooltiptext = Tutu stronu jako zapołožku składować
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Tutu stronu jako zapołožku składować
+    .accesskey = z
+    .tooltiptext = Tutu stronu ({ $shortcut }) jako zapołožku składować
+main-context-menu-bookmark-change =
+    .aria-label = Tutu zapołožku wobdźěłać
+    .accesskey = z
+    .tooltiptext = Tutu zapołožku wobdźěłać
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Tutu zapołožku wobdźěłać
+    .accesskey = z
+    .tooltiptext = Tutu zapołožku ({ $shortcut }) wobdźěłać
 main-context-menu-open-link =
     .label = Wotkaz wočinić
     .accesskey = o
