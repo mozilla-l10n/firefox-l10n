@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Tryb pełnoekranowy
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Wyświetl wszystkie karty
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = Z
 menu-bookmarks-show-all =
     .label = Wyświetl wszystkie zakładki
+menu-bookmark-edit =
+    .label = Edytuj zakładkę
 menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
 menu-bookmarks-toolbar =
