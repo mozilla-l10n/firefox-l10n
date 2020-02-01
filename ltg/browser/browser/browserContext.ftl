@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Saglobuot itū lopu gruomotzeimēs
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Saglobuot itū lopu gruomotzeimēs
+    .accesskey = m
+    .tooltiptext = Bookmark this page
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Saglobuot itū lopu gruomotzeimēs
+    .accesskey = m
+    .tooltiptext = Bookmark this page ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Redigeit itū gruomotzeimi
+    .accesskey = m
+    .tooltiptext = Edit this bookmark
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Redigeit itū gruomotzeimi
+    .accesskey = m
+    .tooltiptext = Edit this bookmark ({ $shortcut })
 main-context-menu-open-link =
     .label = Attaiseit saiti
     .accesskey = A
