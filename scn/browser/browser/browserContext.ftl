@@ -59,6 +59,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Agghiunci sta pàggina ê nzingalibbri
     .accesskey = n
+main-context-menu-bookmark-add =
+    .aria-label = Agghiunci sta pàggina ê nzingalibbri
+    .accesskey = n
+    .tooltiptext = Agghiunci sta pàggina ê nzingalibbri
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Agghiunci sta pàggina ê nzingalibbri
+    .accesskey = n
+    .tooltiptext = Agghiunci sta pàggina ê nzingalibbri ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Cancia stu nzingalibbru
+    .accesskey = n
+    .tooltiptext = Cancia stu nzingalibbru
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Cancia stu nzingalibbru
+    .accesskey = n
+    .tooltiptext = Cancia stu nzingalibbru ({ $shortcut })
 main-context-menu-open-link =
     .label = Rapi a lijami
     .accesskey = l

@@ -110,6 +110,14 @@ urlbar-midi-blocked =
     .tooltiptext = Bluccasti l'accessu MIDI pi stu situ.
 urlbar-install-blocked =
     .tooltiptext = Bluccasti u nzitamentu d'agghiuncitini pi stu situ.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Cancia stu nzingalibbru ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Agghiunci sta pàggina ê nzingalibbri ({ $shortcut })
 
 ## Page Action Context Menu
 

@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Tuttu schirmu
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mustra tutti i schedi
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = N
 menu-bookmarks-show-all =
     .label = Mustra tutti i nzingalibbri
+menu-bookmark-this-page =
+    .label = Agghiunci sta pàggina ê nzingalibbri
+menu-bookmark-edit =
+    .label = Cancia stu nzingalibbru
 menu-bookmarks-all-tabs =
     .label = Agghiunci tutti i schedi ê nzingalibbri…
 menu-bookmarks-toolbar =
