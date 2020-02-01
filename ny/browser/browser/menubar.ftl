@@ -42,9 +42,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Ophatikizira
     .accesskey = a
-menu-tools-sync-re-auth =
-    .label = Mwalandilidwa ku { -sync-brand-short-name }…
-    .accesskey = M
 menu-preferences =
     .label =
         { PLATFORM() ->
