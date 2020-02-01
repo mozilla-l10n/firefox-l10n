@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = 全螢幕
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = 顯示所有分頁
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = 顯示所有書籤
+menu-bookmark-this-page =
+    .label = 將本頁加入書籤
+menu-bookmark-edit =
+    .label = 編輯此書籤
 menu-bookmarks-all-tabs =
     .label = 將所有分頁加入書籤…
 menu-bookmarks-toolbar =
