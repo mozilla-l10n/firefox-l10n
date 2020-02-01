@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## File Menu
 
 menu-file =
@@ -191,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = Vis alle bogmærker
+menu-bookmark-this-page =
+    .label = Bogmærk denne side
 menu-bookmarks-all-tabs =
     .label = Bogmærk alle faneblade…
 menu-bookmarks-toolbar =
