@@ -69,9 +69,13 @@ full-zoom-reset-shortcut =
 
 bidi-switch-direction-shortcut =
     .key = X
+private-browsing-shortcut =
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
 preferences-shortcut =
     .key = ,
+hide-other-apps-shortcut =
+    .key = H
