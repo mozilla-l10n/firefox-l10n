@@ -6,8 +6,12 @@ window-minimize-command =
     .label = ಕುಗ್ಗಿಸು
 window-zoom-command =
     .label = ಹಿಗ್ಗಿಸು
+window-new-shortcut =
+    .key = N
 window-minimize-shortcut =
     .key = m
+close-shortcut =
+    .key = W
 tab-new-shortcut =
     .key = t
 location-open-shortcut =
@@ -16,8 +20,17 @@ location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
     .key = k
+# This shortcut is used in two contexts:
+#   - web search
+#   - find in page
+find-shortcut =
+    .key = f
+search-find-again-shortcut =
+    .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -27,20 +40,35 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
     .key = o
+save-page-shortcut =
+    .key = s
 page-source-shortcut =
     .key = u
 page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
+nav-reload-shortcut =
+    .key = r
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
@@ -67,11 +95,17 @@ bookmark-show-sidebar-shortcut =
 ## If shift key is needed with your locale popular keyboard for them,
 ## you can use these alternative items. Otherwise, their values should be empty.
 
+full-zoom-reduce-shortcut =
+    .key = -
+full-zoom-enlarge-shortcut =
+    .key = +
 full-zoom-reset-shortcut =
     .key = 0
 
 ##
 
+bidi-switch-direction-shortcut =
+    .key = X
 private-browsing-shortcut =
     .key = P
 
@@ -82,5 +116,7 @@ help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
 hide-other-apps-shortcut =
     .key = H
