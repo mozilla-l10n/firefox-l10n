@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Lisää sivu kirjanmerkkeihin
     .accesskey = k
+main-context-menu-bookmark-add =
+    .aria-label = Lisää sivu kirjanmerkkeihin
+    .accesskey = k
+    .tooltiptext = Lisää kirjanmerkki
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Lisää sivu kirjanmerkkeihin
+    .accesskey = k
+    .tooltiptext = Lisää kirjanmerkki ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Muokkaa kirjanmerkkiä
+    .accesskey = k
+    .tooltiptext = Muokkaa kirjanmerkkiä
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Muokkaa kirjanmerkkiä
+    .accesskey = k
+    .tooltiptext = Muokkaa kirjanmerkkiä ({ $shortcut })
 main-context-menu-open-link =
     .label = Avaa
     .accesskey = A
