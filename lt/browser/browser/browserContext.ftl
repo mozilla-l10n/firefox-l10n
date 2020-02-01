@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Įrašyti į adresyną
     .accesskey = y
+main-context-menu-bookmark-add =
+    .aria-label = Įrašyti į adresyną
+    .accesskey = y
+    .tooltiptext = Įtraukti šį tinklalapį į adresyną
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Įrašyti į adresyną
+    .accesskey = y
+    .tooltiptext = Įtraukti šį tinklalapį į adresyną ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Taisyti adresyno įrašą
+    .accesskey = y
+    .tooltiptext = Taisyti šį adresyno įrašą
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Taisyti adresyno įrašą
+    .accesskey = y
+    .tooltiptext = Taisyti šį adresyno įrašą ({ $shortcut })
 main-context-menu-open-link =
     .label = Atverti saitą
     .accesskey = A
