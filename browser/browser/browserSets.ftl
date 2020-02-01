@@ -90,6 +90,8 @@ full-screen-shortcut =
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+bookmark-this-page-shortcut =
+    .key = d
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
