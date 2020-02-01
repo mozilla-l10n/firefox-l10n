@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Sće přistup na MIDI za tute websydło zablokował.
 urlbar-install-blocked =
     .tooltiptext = Sće instalowanje přidatkow za tute websydło zablokował.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Tutu zapołožku ({ $shortcut }) wobdźěłać
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Tutu stronu ({ $shortcut }) jako zapołožku składować
 
 ## Page Action Context Menu
 
