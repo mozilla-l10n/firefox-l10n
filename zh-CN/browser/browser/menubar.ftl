@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = 全屏
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = 显示所有标签页
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = 管理所有书签
+menu-bookmark-edit =
+    .label = 编辑此书签
 menu-bookmarks-all-tabs =
     .label = 为所有标签页添加书签…
 menu-bookmarks-toolbar =
