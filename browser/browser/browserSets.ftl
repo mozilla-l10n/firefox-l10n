@@ -6,6 +6,8 @@ window-minimize-command =
     .label = បង្រួម​អប្បបរមា
 window-zoom-command =
     .label = ពង្រីក
+tab-new-shortcut =
+    .key = t
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
@@ -17,6 +19,15 @@ search-find-again-shortcut-alt =
     .keycode = VK_F3
 search-find-selection-shortcut =
     .key = e
+file-open-shortcut =
+    .key = o
+# This should match the Option+Command keyboard shortcut letter that Safari
+# and Chrome use for "View Source" on macOS. `page-source-shortcut` above
+# is Firefox's official keyboard shortcut shown in the GUI.
+# Safari variant is an alias provided for the convenience of Safari and Chrome
+# users on macOS. See bug 1398988.
+page-source-shortcut-safari =
+    .key = u
 mute-toggle-shortcut =
     .key = M
 nav-back-shortcut-alt =
@@ -45,6 +56,8 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
