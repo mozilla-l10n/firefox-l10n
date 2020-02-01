@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = ചെറുതാക്കുക
+window-zoom-command =
+    .label = വലുതാക്കുക
+search-find-again-shortcut-alt =
+    .keycode = VK_F3
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
