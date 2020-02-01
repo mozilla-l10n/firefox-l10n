@@ -77,7 +77,7 @@ history-show-all-shortcut =
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
-    .key = c
+    .key = F
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
