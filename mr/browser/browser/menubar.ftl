@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = पडदाभर
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = सर्व ट्रॅक दाखवा
@@ -189,6 +189,10 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = सर्व वाचणखूणा दाखवा
+menu-bookmark-this-page =
+    .label = या पृष्ठास वाचनखूण लावा
+menu-bookmark-edit =
+    .label = ही वाचनखूण संपादीत करा
 menu-bookmarks-all-tabs =
     .label = सर्व टॅब्सला वाचनखूण लावा...
 menu-bookmarks-toolbar =
