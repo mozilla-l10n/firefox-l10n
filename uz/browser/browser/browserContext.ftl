@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Sahifani xatcho‘plarga qo‘shish
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Sahifani xatcho‘plarga qo‘shish
+    .accesskey = m
+    .tooltiptext = Sahifani xatcho‘pga qo‘shish
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Sahifani xatcho‘plarga qo‘shish
+    .accesskey = m
+    .tooltiptext = Sahifani xatcho‘pga qo‘shish ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Ushbu xatcho‘pni o‘zgartirish
+    .accesskey = m
+    .tooltiptext = Ushbu xatcho‘pni tahrirlash
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Ushbu xatcho‘pni o‘zgartirish
+    .accesskey = m
+    .tooltiptext = Ushbu xatcho‘pni tahrirlash ({ $shortcut })
 main-context-menu-open-link =
     .label = Havolani ochish
     .accesskey = o
