@@ -10,6 +10,8 @@ window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
+close-shortcut =
+    .key = W
 tab-new-shortcut =
     .key = t
 location-open-shortcut =
@@ -111,6 +113,8 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
