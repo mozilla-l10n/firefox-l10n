@@ -6,8 +6,12 @@ window-minimize-command =
     .label = Biçûk Bike
 window-zoom-command =
     .label = Nêzîk Bike
+window-new-shortcut =
+    .key = N
 window-minimize-shortcut =
     .key = m
+tab-new-shortcut =
+    .key = t
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
@@ -19,12 +23,27 @@ search-focus-shortcut =
 #   - find in page
 find-shortcut =
     .key = F
+search-find-again-shortcut =
+    .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] J
+           *[other] e
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
     .key = o
+save-page-shortcut =
+    .key = s
+page-source-shortcut =
+    .key = u
 page-info-shortcut =
     .key = i
 print-shortcut =
@@ -35,6 +54,11 @@ nav-fwd-shortcut-alt =
     .key = ]
 nav-reload-shortcut =
     .key = R
+# Shortcut available only on macOS.
+nav-stop-shortcut =
+    .key = .
+history-show-all-shortcut =
+    .key = H
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
@@ -55,6 +79,11 @@ bookmark-show-all-shortcut =
             [linux] o
            *[other] i
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-sidebar-shortcut =
+    .key = b
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
