@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Tela inteira
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mostrar todas as abas
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = v
 menu-bookmarks-show-all =
     .label = Mostrar todos os favoritos
+menu-bookmark-edit =
+    .label = Editar este favorito
 menu-bookmarks-all-tabs =
     .label = Adicionar todas as abas…
 menu-bookmarks-toolbar =
