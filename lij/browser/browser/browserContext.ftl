@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Azonzi questa pagina a-i segnalibbri
     .accesskey = n
+main-context-menu-bookmark-add =
+    .aria-label = Azonzi questa pagina a-i segnalibbri
+    .accesskey = n
+    .tooltiptext = Azonzi ai segnalibri
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Azonzi questa pagina a-i segnalibbri
+    .accesskey = n
+    .tooltiptext = Azonzi ai segnalibri ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Cangia segnalibbro
+    .accesskey = n
+    .tooltiptext = Cangia sto segnalibbro
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Cangia segnalibbro
+    .accesskey = n
+    .tooltiptext = Cangia sto segnalibbro ({ $shortcut })
 main-context-menu-open-link =
     .label = Arvi colegamento
     .accesskey = v
