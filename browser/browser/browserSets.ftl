@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+close-shortcut =
+    .key = W
 tab-new-shortcut =
     .key = t
 # This shortcut is used in two contexts:
@@ -13,6 +15,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 file-open-shortcut =
     .key = o
 page-source-shortcut =
@@ -27,6 +31,17 @@ nav-fwd-shortcut-alt =
     .key = ]
 history-show-all-shortcut =
     .key = H
+full-screen-shortcut =
+    .key = f
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+reader-mode-toggle-shortcut =
+    .key =
+        { PLATFORM() ->
+            [windows] VK_F9
+           *[other] R
+        }
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -62,5 +77,7 @@ full-zoom-enlarge-shortcut-alt2 =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 hide-other-apps-shortcut =
     .key = H
