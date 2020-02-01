@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Oldal hozzáadása a könyvjelzőkhöz
     .accesskey = k
+main-context-menu-bookmark-add =
+    .aria-label = Oldal hozzáadása a könyvjelzőkhöz
+    .accesskey = k
+    .tooltiptext = Oldal a könyvjelzők közé
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Oldal hozzáadása a könyvjelzőkhöz
+    .accesskey = k
+    .tooltiptext = Oldal a könyvjelzők közé ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Könyvjelző szerkesztése
+    .accesskey = k
+    .tooltiptext = Könyvjelző szerkesztése
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Könyvjelző szerkesztése
+    .accesskey = k
+    .tooltiptext = Könyvjelző szerkesztése ({ $shortcut })
 main-context-menu-open-link =
     .label = Hivatkozás megnyitása
     .accesskey = H
