@@ -107,6 +107,14 @@ urlbar-canvas-blocked =
     .tooltiptext = A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.
 urlbar-midi-blocked =
     .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Maantoro ngoo hello ({ $shortcut })
 
 ## Page Action Context Menu
 
