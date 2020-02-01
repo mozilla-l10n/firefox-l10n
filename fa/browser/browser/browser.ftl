@@ -113,6 +113,10 @@ urlbar-midi-blocked =
     .tooltiptext = شما دسترسی این وب‌سایت به MIDI را مسدود کرده‌اید.
 urlbar-install-blocked =
     .tooltiptext = شما نصب افزونه‌ها از طریق این وب‌سایت را مسدود کرده‌اید.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = نشانک‌گذاری این صفحه({ $shortcut })
 
 ## Page Action Context Menu
 
