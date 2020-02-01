@@ -13,6 +13,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 file-open-shortcut =
     .key = o
 page-source-shortcut =
@@ -25,11 +27,18 @@ nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
+full-screen-shortcut =
+    .key = f
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-sidebar-shortcut =
+    .key = b
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
