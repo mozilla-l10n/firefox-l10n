@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Tejto stránke ste zakázali prístup k MIDI.
 urlbar-install-blocked =
     .tooltiptext = Tejto stránke ste zakázali inštaláciu doplnkov.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Umožní upraviť túto záložku ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Pridá stránku medzi záložky ({ $shortcut })
 
 ## Page Action Context Menu
 
