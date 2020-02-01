@@ -109,6 +109,14 @@ urlbar-canvas-blocked =
     .tooltiptext = Bhac thu às-tharraing dàta canabhais air an làrach-lìn seo.
 urlbar-midi-blocked =
     .tooltiptext = Bhac thu inntrigeadh MIDI air an làrach-lìn seo.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Deasaich an comharra-lìn seo ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Cruthaich comharra-lìn dhan duilleag seo ({ $shortcut })
 
 ## Page Action Context Menu
 
