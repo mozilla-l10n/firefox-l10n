@@ -48,6 +48,15 @@ urlbar-autoplay-notification-anchor =
     .tooltiptext = गावनो गोमगा् फेनेलखौ खुलि
 urlbar-tip-help-icon =
     .title = मदद नागिर
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = नों बे वबसाइथनि जायगा, फोरमायथिखौ बन्द खालामना दोनबाय
 urlbar-web-notifications-blocked =
@@ -70,6 +79,14 @@ urlbar-midi-blocked =
     .tooltiptext = नों बे वेबसाइथनि मिदि हाबगा् लामाखौ बन्द खालामना दोनबाय
 urlbar-install-blocked =
     .tooltiptext = नों बे वेबसाइथनि एद अन इन्सथल खालामगा्खौ बन्द खालामना दोनबाय
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = नोंथांनि बुकमार्क ({ $shortcut }) खौ सुजु
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = बे बिलाइ ({ $shortcut }) खौ बुकमार्क हो
 
 ## Page Action Context Menu
 
