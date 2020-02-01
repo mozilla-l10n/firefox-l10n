@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Dodaj stran med zaznamke
     .accesskey = r
+main-context-menu-bookmark-add =
+    .aria-label = Dodaj stran med zaznamke
+    .accesskey = r
+    .tooltiptext = Dodaj stran med zaznamke
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Dodaj stran med zaznamke
+    .accesskey = r
+    .tooltiptext = Dodaj stran med zaznamke ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Uredi ta zaznamek
+    .accesskey = r
+    .tooltiptext = Uredi zaznamek
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Uredi ta zaznamek
+    .accesskey = r
+    .tooltiptext = Uredi zaznamek ({ $shortcut })
 main-context-menu-open-link =
     .label = Odpri povezavo
     .accesskey = O
