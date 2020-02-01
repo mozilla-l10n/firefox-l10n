@@ -65,6 +65,16 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Bokmärk denna sida
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Bokmärk denna sida
+    .accesskey = m
+    .tooltiptext = Bokmärk denna sida
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Bokmärk denna sida
+    .accesskey = m
+    .tooltiptext = Bokmärk denna sida ({ $shortcut })
 main-context-menu-open-link =
     .label = Öppna länk
     .accesskey = n
