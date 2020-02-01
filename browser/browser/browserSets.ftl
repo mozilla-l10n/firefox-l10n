@@ -10,6 +10,8 @@ window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
+close-shortcut =
+    .key = W
 tab-new-shortcut =
     .key = t
 location-open-shortcut =
@@ -76,6 +78,15 @@ history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
     .key = f
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+reader-mode-toggle-shortcut =
+    .key =
+        { PLATFORM() ->
+            [windows] VK_F9
+           *[other] R
+        }
 picture-in-picture-toggle-shortcut =
     .key = ]
 # Pick the key that is commonly present
