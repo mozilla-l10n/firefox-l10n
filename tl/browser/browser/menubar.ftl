@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Buong Screen
     .accesskey = B
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Ipakita ang Lahat ng Mga Tab
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = Ipakita Lahat ng mga Bookmark
+menu-bookmark-this-page =
+    .label = i-Bookmark ang Pahinang Ito
+menu-bookmark-edit =
+    .label = i-Edit ang bookmark na ito
 menu-bookmarks-all-tabs =
     .label = i-Bookmark ang Lahat ng mga Tab…
 menu-bookmarks-toolbar =
