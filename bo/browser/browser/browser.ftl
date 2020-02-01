@@ -109,6 +109,14 @@ urlbar-canvas-blocked =
     .tooltiptext = You have blocked canvas data extraction for this website.
 urlbar-midi-blocked =
     .tooltiptext = You have blocked MIDI access for this website.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = འདི་ལ་ཡིག་རྟགས་འཇོག་པ ({ $shortcut })
 
 ## Page Action Context Menu
 
