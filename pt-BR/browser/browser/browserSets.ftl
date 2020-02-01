@@ -6,6 +6,8 @@ window-minimize-command =
     .label = Minimizar
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+print-shortcut =
+    .key = p
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -13,6 +15,8 @@ nav-fwd-shortcut-alt =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+history-sidebar-shortcut =
+    .key = h
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
