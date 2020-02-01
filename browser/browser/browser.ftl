@@ -114,6 +114,10 @@ urlbar-midi-blocked =
 urlbar-install-blocked =
     .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτή την ιστοσελίδα.
 # Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Επεξεργασία σελιδοδείκτη ({ $shortcut })
+# Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Προσθήκη στους σελιδοδείκτες ({ $shortcut })

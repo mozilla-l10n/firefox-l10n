@@ -75,6 +75,16 @@ main-context-menu-bookmark-add-with-shortcut =
     .aria-label = Προσθήκη στους σελιδοδείκτες
     .accesskey = θ
     .tooltiptext = Προσθήκη στους σελιδοδείκτες ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Επεξεργασία σελιδοδείκτη
+    .accesskey = θ
+    .tooltiptext = Επεξεργασία σελιδοδείκτη
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Επεξεργασία σελιδοδείκτη
+    .accesskey = θ
+    .tooltiptext = Επεξεργασία σελιδοδείκτη ({ $shortcut })
 main-context-menu-open-link =
     .label = Άνοιγμα συνδέσμου
     .accesskey = ο
