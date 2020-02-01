@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = i-Bookmark ang Pahinang Ito
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = i-Bookmark ang Pahinang Ito
+    .accesskey = m
+    .tooltiptext = i-Bookmark ang pahinang ito
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = i-Bookmark ang Pahinang Ito
+    .accesskey = m
+    .tooltiptext = i-Bookmark ang pahinang ito ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = i-Edit ang bookmark na ito
+    .accesskey = m
+    .tooltiptext = Baguhin itong bookmark
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = i-Edit ang bookmark na ito
+    .accesskey = m
+    .tooltiptext = Baguhin itong bookmark ({ $shortcut })
 main-context-menu-open-link =
     .label = Buksan ang Link
     .accesskey = O
