@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्
+    .accesskey = m
+    .tooltiptext = यस पृष्ठ मा पुस्तकचिनो लगाउनुहोस्
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्
+    .accesskey = m
+    .tooltiptext = यस पृष्ठ ({ $shortcut }) मा पुस्तकचिनो लगाउनुहोस्
+main-context-menu-bookmark-change =
+    .aria-label = यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्
+    .accesskey = m
+    .tooltiptext = यस पुस्तकचिनोलाई सम्पादन गर्नुहोस्
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्
+    .accesskey = m
+    .tooltiptext = यस ({ $shortcut }) पुस्तकचिनोलाई सम्पादन गर्नुहोस्
 main-context-menu-open-link =
     .label = लिङ्क खोल्नुहोस्
     .accesskey = O
