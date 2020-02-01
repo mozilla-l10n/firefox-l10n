@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = חסמת גישת MIDI עבור אתר זה.
 urlbar-install-blocked =
     .tooltiptext = חסמת התקנת תוספות עבור אתר זה.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = עריכת סימנייה זו ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = יצירת סימנייה לדף זה ({ $shortcut })
 
 ## Page Action Context Menu
 

@@ -27,6 +27,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -53,10 +55,19 @@ save-page-shortcut =
     .key = s
 page-source-shortcut =
     .key = u
+# This should match the Option+Command keyboard shortcut letter that Safari
+# and Chrome use for "View Source" on macOS. `page-source-shortcut` above
+# is Firefox's official keyboard shortcut shown in the GUI.
+# Safari variant is an alias provided for the convenience of Safari and Chrome
+# users on macOS. See bug 1398988.
+page-source-shortcut-safari =
+    .key = U
 page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -72,6 +83,15 @@ history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
     .key = f
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+reader-mode-toggle-shortcut =
+    .key =
+        { PLATFORM() ->
+            [windows] VK_F9
+           *[other] R
+        }
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -103,6 +123,8 @@ bookmark-show-sidebar-shortcut =
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
@@ -120,6 +142,8 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 help-shortcut =
     .key = ?
 preferences-shortcut =
