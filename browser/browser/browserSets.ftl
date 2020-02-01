@@ -2,8 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Minimizar
 window-zoom-command =
     .label = Acercar
+window-minimize-shortcut =
+    .key = m
 tab-new-shortcut =
     .key = t
 # This shortcut is used in two contexts:
@@ -68,6 +72,10 @@ full-zoom-enlarge-shortcut-alt2 =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
 hide-app-shortcut =
     .key = H
 hide-other-apps-shortcut =
