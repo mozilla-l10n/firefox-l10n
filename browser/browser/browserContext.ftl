@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Забележи ову страницу
     .accesskey = з
+main-context-menu-bookmark-add =
+    .aria-label = Забележи ову страницу
+    .accesskey = з
+    .tooltiptext = Забележи ову страницу
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Забележи ову страницу
+    .accesskey = з
+    .tooltiptext = Забележи ову страницу ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Уреди ову забелешку
+    .accesskey = з
+    .tooltiptext = Уреди ову забелешку
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Уреди ову забелешку
+    .accesskey = з
+    .tooltiptext = Уреди ову забелешку ({ $shortcut })
 main-context-menu-open-link =
     .label = Отвори везу
     .accesskey = в
