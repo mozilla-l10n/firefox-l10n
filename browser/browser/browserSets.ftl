@@ -28,7 +28,7 @@ find-shortcut =
 search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
-    .keycode = { " " }VK_F3
+    .keycode = VK_F3
 search-find-selection-shortcut =
     .key = e
 # Verify what shortcut for that operation
