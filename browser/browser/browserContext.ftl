@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = இப்பக்கத்தைப் புத்தகக்குறியிடு
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = இப்பக்கத்தைப் புத்தகக்குறியிடு
+    .accesskey = m
+    .tooltiptext = பக்கத்தைப் புத்தகக்குறியிடு
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = இப்பக்கத்தைப் புத்தகக்குறியிடு
+    .accesskey = m
+    .tooltiptext = பக்கத்தைப் புத்தகக்குறியிடு ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = புத்தகக்குறியைத் திருத்து
+    .accesskey = m
+    .tooltiptext = இப்புத்தகக்குறியைத் தொகு
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = புத்தகக்குறியைத் திருத்து
+    .accesskey = m
+    .tooltiptext = இப்புத்தகக்குறியைத் தொகு ({ $shortcut })
 main-context-menu-open-link =
     .label = இணைப்பைத் திற
     .accesskey = O
