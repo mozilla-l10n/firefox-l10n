@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Kuatiarogue mbojoapy
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Kuatiarogue mbojoapy
+    .accesskey = m
+    .tooltiptext = Kuatiarogue mbojoapy
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Kuatiarogue mbojoapy
+    .accesskey = m
+    .tooltiptext = Kuatiarogue ({ $shortcut }) mbojoapy
+main-context-menu-bookmark-change =
+    .aria-label = Ko techaukaha mbosako'i
+    .accesskey = m
+    .tooltiptext = Ko techaukaha mbosako'i
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Ko techaukaha mbosako'i
+    .accesskey = m
+    .tooltiptext = Ko techaukaha mbosako'i ({ $shortcut })
 main-context-menu-open-link =
     .label = Joajuhápe jeike
     .accesskey = O
