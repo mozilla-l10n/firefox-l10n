@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Vi blokis la aliron MIDI por tiu ĉi retejo.
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Redakti tiun ĉi legosignon ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Aldoni legosignon por tiu ĉi paĝo ({ $shortcut })
 
 ## Page Action Context Menu
 
