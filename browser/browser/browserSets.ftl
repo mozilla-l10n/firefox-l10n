@@ -16,6 +16,8 @@ tab-new-shortcut =
     .key = t
 location-open-shortcut =
     .key = l
+location-open-shortcut-alt =
+    .key = ს
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -92,6 +94,8 @@ reader-mode-toggle-shortcut =
             [windows] VK_F9
            *[other] R
         }
+picture-in-picture-toggle-shortcut =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
