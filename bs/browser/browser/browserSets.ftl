@@ -34,6 +34,8 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+addons-shortcut =
+    .key = A
 file-open-shortcut =
     .key = o
 save-page-shortcut =
