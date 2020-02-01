@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.
 urlbar-install-blocked =
     .tooltiptext = Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Golygu'r nod tudalen ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Gosod nod tudalen i'r dudalen ({ $shortcut })
 
 ## Page Action Context Menu
 

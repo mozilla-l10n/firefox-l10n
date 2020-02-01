@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Gosod Nod Tudalen i'r Dudalen
     .accesskey = N
+main-context-menu-bookmark-add =
+    .aria-label = Gosod Nod Tudalen i'r Dudalen
+    .accesskey = N
+    .tooltiptext = Gosod nod tudalen i'r dudalen
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Gosod Nod Tudalen i'r Dudalen
+    .accesskey = N
+    .tooltiptext = Gosod nod tudalen i'r dudalen ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Golygu'r Nod Tudalen
+    .accesskey = N
+    .tooltiptext = Golygu'r nod tudalen
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Golygu'r Nod Tudalen
+    .accesskey = N
+    .tooltiptext = Golygu'r nod tudalen ({ $shortcut })
 main-context-menu-open-link =
     .label = Agor Dolen
     .accesskey = D
