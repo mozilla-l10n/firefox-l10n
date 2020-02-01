@@ -66,6 +66,15 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Bestuur die deel van die kamera en/of mikrofoon met die werf
 urlbar-addons-notification-anchor =
     .tooltiptext = Open paneel met boodskappe oor byvoeginginstallasie
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = U het ligginginligting geblok vir dié webwerf.
 urlbar-web-notifications-blocked =
@@ -76,6 +85,14 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Boekmerk hierdie bladsy ({ $shortcut })
 
 ## Page Action Context Menu
 
