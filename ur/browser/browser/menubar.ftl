@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = پوری اسکرین
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = تمام ٹیب دکھائیں
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = تمام بک مارک دکھائیں
+menu-bookmark-this-page =
+    .label = یہ صفحہ نشان زد کریں
 menu-bookmarks-all-tabs =
     .label = تمام ٹیب نشان زد کریں…
 menu-bookmarks-toolbar =

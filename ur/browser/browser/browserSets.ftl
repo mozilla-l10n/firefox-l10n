@@ -4,12 +4,20 @@
 
 window-minimize-command =
     .label = چھوٹا کریں
+window-zoom-command =
+    .label = زوم کریں
 window-new-shortcut =
     .key = N
+window-minimize-shortcut =
+    .key = m
 tab-new-shortcut =
     .key = t
+location-open-shortcut =
+    .key = l
 location-open-shortcut-alt =
     .key = d
+search-focus-shortcut =
+    .key = k
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
@@ -41,12 +49,16 @@ addons-shortcut =
     .key = A
 file-open-shortcut =
     .key = o
+save-page-shortcut =
+    .key = s
 page-source-shortcut =
     .key = u
 page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-reload-shortcut =
@@ -95,6 +107,8 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt2 =
+    .key = { "" }
 full-zoom-reset-shortcut =
     .key = 0
 full-zoom-reset-shortcut-alt =
@@ -110,3 +124,9 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
