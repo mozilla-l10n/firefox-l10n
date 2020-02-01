@@ -4,6 +4,8 @@
 
 window-minimize-command =
     .label = Smanji
+window-zoom-command =
+    .label = Zumiraj
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
@@ -92,6 +94,8 @@ reader-mode-toggle-shortcut =
             [windows] VK_F9
            *[other] R
         }
+picture-in-picture-toggle-shortcut =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
