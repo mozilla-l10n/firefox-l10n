@@ -34,6 +34,8 @@ downloads-shortcut =
             [linux] y
            *[other] j
         }
+addons-shortcut =
+    .key = A
 file-open-shortcut =
     .key = o
 save-page-shortcut =
