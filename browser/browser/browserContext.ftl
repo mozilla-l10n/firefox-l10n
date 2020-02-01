@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Marcar ista pachina con un marcapachinas
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Marcar ista pachina con un marcapachinas
+    .accesskey = m
+    .tooltiptext = Marcar ista pachina con o marcapachinas
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Marcar ista pachina con un marcapachinas
+    .accesskey = m
+    .tooltiptext = Marcar ista pachina con o marcapachinas ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Editar iste marcapachinas
+    .accesskey = m
+    .tooltiptext = Editar iste marcapachinas
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Editar iste marcapachinas
+    .accesskey = m
+    .tooltiptext = Editar iste marcapachinas ({ $shortcut })
 main-context-menu-open-link =
     .label = Ubrir o vinclo
     .accesskey = l
