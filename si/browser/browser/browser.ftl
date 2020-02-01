@@ -98,6 +98,10 @@ urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
 
 ## Page Action Context Menu
 
