@@ -4,6 +4,8 @@
 
 window-minimize-command =
     .label = Փոքրացնել
+window-zoom-command =
+    .label = Մասշտաբը{ " " }
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 # Pick the key that is commonly present
@@ -16,6 +18,13 @@ picture-in-picture-toggle-shortcut-alt =
 ## If shift key is needed with your locale popular keyboard for them,
 ## you can use these alternative items. Otherwise, their values should be empty.
 
+# If in keyboard layouts popular for your locale you need to use the shift key
+# to access the original shortcuts, the following shortcuts can be used.
+# Otherwise their values should remain empty.
+full-zoom-reduce-shortcut-alt =
+    .key = { "" }
+full-zoom-enlarge-shortcut-alt2 =
+    .key = { "" }
 
 ##
 
