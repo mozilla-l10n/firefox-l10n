@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Бұл бетті бетбелгілерге қосу
     .accesskey = е
+main-context-menu-bookmark-add =
+    .aria-label = Бұл бетті бетбелгілерге қосу
+    .accesskey = е
+    .tooltiptext = Бұл бетті бетбелгілерге қосу
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Бұл бетті бетбелгілерге қосу
+    .accesskey = е
+    .tooltiptext = Бұл бетті бетбелгілерге қосу ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Бетбелгіні түзету
+    .accesskey = е
+    .tooltiptext = Бұл бетбелгіні түзету
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Бетбелгіні түзету
+    .accesskey = е
+    .tooltiptext = Бұл бетбелгіні түзету ({ $shortcut })
 main-context-menu-open-link =
     .label = Сілтемені ашу
     .accesskey = С
