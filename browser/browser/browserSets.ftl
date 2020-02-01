@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Txikitu
+window-zoom-command =
+    .label = Zooma
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 # Pick the key that is commonly present
