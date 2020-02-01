@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.
 urlbar-install-blocked =
     .tooltiptext = Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Бұл бетбелгіні түзету ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Бұл бетті бетбелгілерге қосу ({ $shortcut })
 
 ## Page Action Context Menu
 
