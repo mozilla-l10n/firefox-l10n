@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = ចំណាំ​ទំព័រ​នេះ
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = ចំណាំ​ទំព័រ​នេះ
+    .accesskey = m
+    .tooltiptext = ចំណាំ​ទំព័រ​នេះ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = ចំណាំ​ទំព័រ​នេះ
+    .accesskey = m
+    .tooltiptext = ចំណាំ​ទំព័រ​នេះ ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = កែ​សម្រួល​ចំណាំ​នេះ
+    .accesskey = m
+    .tooltiptext = កែសម្រួល​ចំណាំ​នេះ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = កែ​សម្រួល​ចំណាំ​នេះ
+    .accesskey = m
+    .tooltiptext = កែសម្រួល​ចំណាំ​នេះ ({ $shortcut })
 main-context-menu-open-link =
     .label = បើក​តំណ
     .accesskey = O
