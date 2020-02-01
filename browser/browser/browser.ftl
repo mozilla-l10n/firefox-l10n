@@ -111,6 +111,14 @@ urlbar-midi-blocked =
     .tooltiptext = Oled sellel lehel keelanud ligipääsu MIDIle.
 urlbar-install-blocked =
     .tooltiptext = Oled sellel lehel keelanud lisade paigaldamise.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Muuda seda järjehoidjat ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Lisa see leht järjehoidjatesse ({ $shortcut })
 
 ## Page Action Context Menu
 
