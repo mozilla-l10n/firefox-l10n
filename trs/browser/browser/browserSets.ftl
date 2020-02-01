@@ -8,11 +8,26 @@ window-zoom-command =
     .label = dàj nìko ma'an
 window-minimize-shortcut =
     .key = m
+tab-new-shortcut =
+    .key = t
+file-open-shortcut =
+    .key = o
+page-source-shortcut =
+    .key = u
+page-info-shortcut =
+    .key = i
+print-shortcut =
+    .key = p
+# Shortcut available only on macOS.
+nav-stop-shortcut =
+    .key = .
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+bookmark-this-page-shortcut =
+    .key = d
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
