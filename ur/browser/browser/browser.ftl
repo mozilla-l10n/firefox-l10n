@@ -116,6 +116,10 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔
 # Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = یہ بک مارک تدوین کریں ({ $shortcut })
+# Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = یہ صفحہ نشان زد کریں ({ $shortcut })
