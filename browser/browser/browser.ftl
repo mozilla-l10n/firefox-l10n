@@ -122,6 +122,10 @@ urlbar-install-blocked =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editează acest marcaj ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Marchează pagina ({ $shortcut })
 
 ## Page Action Context Menu
 
