@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Sa raj sun nichrà' doj pagina na
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Sa raj sun nichrà' doj pagina na
+    .accesskey = m
+    .tooltiptext = Sa raj sun nichrà' doj pagina na
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Sa raj sun nichrà' doj pagina na
+    .accesskey = m
+    .tooltiptext = Sa raj sun nichrà' doj pagina na ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Nagi'io' sa arajsun nichrò' doj
+    .accesskey = m
+    .tooltiptext = Nagi'io' sa arajsun nichrò' doj
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Nagi'io' sa arajsun nichrò' doj
+    .accesskey = m
+    .tooltiptext = Nagi'io' sa arajsun nichrò' doj ({ $shortcut })
 main-context-menu-open-link =
     .label = Na'nïn Link
     .accesskey = O

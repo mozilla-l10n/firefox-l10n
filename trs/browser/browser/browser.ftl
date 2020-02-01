@@ -113,6 +113,14 @@ urlbar-midi-blocked =
     .tooltiptext = Gi'iaj blokeandot MIDI guenda sitio web na.
 urlbar-install-blocked =
     .tooltiptext = Naránt da' nutà' man nej sa huāa guendâ sitiô nan.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Nagi'io' sa arajsun nichrò' doj ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Sa raj sun nichrà' doj pagina na ({ $shortcut })
 
 ## Page Action Context Menu
 
