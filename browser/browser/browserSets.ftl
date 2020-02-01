@@ -69,8 +69,12 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
+full-zoom-reset-shortcut =
+    .key = 0
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
