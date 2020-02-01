@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
     .accesskey = พ
+main-context-menu-bookmark-add =
+    .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
+    .accesskey = พ
+    .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้านี้
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
+    .accesskey = พ
+    .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้านี้ ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = แก้ไขที่คั่นหน้านี้
+    .accesskey = พ
+    .tooltiptext = แก้ไขที่คั่นหน้านี้
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = แก้ไขที่คั่นหน้านี้
+    .accesskey = พ
+    .tooltiptext = แก้ไขที่คั่นหน้านี้ ({ $shortcut })
 main-context-menu-open-link =
     .label = เปิดลิงก์
     .accesskey = ป
