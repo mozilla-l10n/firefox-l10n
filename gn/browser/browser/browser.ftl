@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.
 urlbar-install-blocked =
     .tooltiptext = Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Ko techaukaha mbosako'i ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Kuatiarogue ({ $shortcut }) mbojoapy
 
 ## Page Action Context Menu
 

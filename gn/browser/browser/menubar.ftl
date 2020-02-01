@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Mba'erechaha tuichavéva
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Opaite tendayke jehechauka
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = Opaite techaukaha jehechauka
+menu-bookmark-this-page =
+    .label = Kuatiarogue mbojoapy
+menu-bookmark-edit =
+    .label = Ko techaukaha mbosako'i
 menu-bookmarks-all-tabs =
     .label = Tendayke mbojoapy techaukaháre…
 menu-bookmarks-toolbar =
