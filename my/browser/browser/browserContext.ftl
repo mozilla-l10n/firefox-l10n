@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = ဒီစာမျက်နှာကို မှတ်သားပါ
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = ဒီစာမျက်နှာကို မှတ်သားပါ
+    .accesskey = m
+    .tooltiptext = စာအမှတ်အားမှတ်သားထားမည်
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = ဒီစာမျက်နှာကို မှတ်သားပါ
+    .accesskey = m
+    .tooltiptext = စာအမှတ်အားမှတ်သားထားမည် ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ဒီစာမှတ်ကို ပြင်ဆင်မည်
+    .accesskey = m
+    .tooltiptext = စာအမှတ်အားပြင်မည်
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ဒီစာမှတ်ကို ပြင်ဆင်မည်
+    .accesskey = m
+    .tooltiptext = စာအမှတ်အားပြင်မည် ({ $shortcut })
 main-context-menu-open-link =
     .label = လင့်ခ်ကို ဖွင့်ပါ
     .accesskey = O

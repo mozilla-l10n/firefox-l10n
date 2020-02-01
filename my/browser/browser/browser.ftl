@@ -72,6 +72,15 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = အမြဲသိမ်း သိုလှောင် နေရာတွင် သိမ်းမည်
 urlbar-addons-notification-anchor =
     .tooltiptext = အတ်အွန်တပ်ဆင်ခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့ပါ
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် တည်နေရာဆိုင်ရာ အချက်အလက်ကောက်ယူခြင်းကို တားဆီးထားသည်။
 urlbar-web-notifications-blocked =
@@ -90,6 +99,14 @@ urlbar-canvas-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် canvas data extraction ကို တားဆီးထားသည်။
 urlbar-midi-blocked =
     .tooltiptext = ယခုဝဘ်ဆိုက်အတွက် MIDI အသုံးပြုခြင်းကို တားဆီးထားသည်။
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = စာအမှတ်အားပြင်မည် ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = စာအမှတ်အားမှတ်သားထားမည် ({ $shortcut })
 
 ## Page Action Context Menu
 
