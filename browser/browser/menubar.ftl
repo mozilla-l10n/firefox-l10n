@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = სრული ეკრანი
     .accesskey = ს
 
-
+##
 
 menu-view-show-all-tabs =
     .label = ყველა ჩანართის ჩვენება
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = ს
 menu-bookmarks-show-all =
     .label = ყველა სანიშნის ჩვენება
+menu-bookmark-this-page =
+    .label = გვერდის ჩანიშვნა
+menu-bookmark-edit =
+    .label = სანიშნის ჩასწორება
 menu-bookmarks-all-tabs =
     .label = ყველა ჩანართის ჩანიშვნა...
 menu-bookmarks-toolbar =
