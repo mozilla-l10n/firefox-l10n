@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
+    .accesskey = m
+    .tooltiptext = বর্তমান পৃষ্ঠা বুকমার্ক করুন
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
+    .accesskey = m
+    .tooltiptext = বর্তমান পৃষ্ঠা বুকমার্ক করুন ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = চিহ্নিত বুকমার্ক পরিবর্তন করুন
+    .accesskey = m
+    .tooltiptext = চিহ্নিত বুকমার্ক পরিবর্তন করুন
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = চিহ্নিত বুকমার্ক পরিবর্তন করুন
+    .accesskey = m
+    .tooltiptext = চিহ্নিত বুকমার্ক পরিবর্তন করুন ({ $shortcut })
 main-context-menu-open-link =
     .label = লিংক খুলুন
     .accesskey = O
