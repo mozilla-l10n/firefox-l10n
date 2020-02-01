@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Дадаць закладку на гэту старонкі
     .accesskey = а
+main-context-menu-bookmark-add =
+    .aria-label = Дадаць закладку на гэту старонкі
+    .accesskey = а
+    .tooltiptext = Дадаць старонку ў закладкі
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Дадаць закладку на гэту старонкі
+    .accesskey = а
+    .tooltiptext = Дадаць старонку ў закладкі ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Правіць гэтую закладку
+    .accesskey = а
+    .tooltiptext = Правіць гэту закладку
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Правіць гэтую закладку
+    .accesskey = а
+    .tooltiptext = Правіць гэту закладку ({ $shortcut })
 main-context-menu-open-link =
     .label = Адкрыць спасылку
     .accesskey = А
