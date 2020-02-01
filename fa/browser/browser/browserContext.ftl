@@ -75,6 +75,16 @@ main-context-menu-bookmark-add-with-shortcut =
     .aria-label = نشانک‌گذاری این صفحه
     .accesskey = m
     .tooltiptext = نشانک‌گذاری این صفحه({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ویرایش این نشانک
+    .accesskey = m
+    .tooltiptext = ویرایش این نشانک
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ویرایش این نشانک
+    .accesskey = m
+    .tooltiptext = ویرایش این نشانک ({ $shortcut })
 main-context-menu-open-link =
     .label = باز کردن پیوند
     .accesskey = ب
