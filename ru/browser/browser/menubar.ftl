@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Полный экран
     .accesskey = э
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Показать все вкладки
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = З
 menu-bookmarks-show-all =
     .label = Показать все закладки
+menu-bookmark-this-page =
+    .label = Добавить страницу
+menu-bookmark-edit =
+    .label = Редактировать эту закладку
 menu-bookmarks-all-tabs =
     .label = Добавить все вкладки…
 menu-bookmarks-toolbar =
