@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Helskärm
     .accesskey = H
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Visa alla flikar
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = Visa alla bokmärken
+menu-bookmark-edit =
+    .label = Redigera bokmärket
 menu-bookmarks-all-tabs =
     .label = Bokmärke för alla flikar…
 menu-bookmarks-toolbar =
