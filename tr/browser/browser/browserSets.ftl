@@ -2,15 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-new-shortcut =
+    .key = t
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
     .key = f
+search-find-again-shortcut =
+    .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+file-open-shortcut =
+    .key = o
+page-source-shortcut =
+    .key = u
 page-info-shortcut =
     .key = i
+print-shortcut =
+    .key = p
 history-show-all-shortcut =
     .key = H
 full-screen-shortcut =
