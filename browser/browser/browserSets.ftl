@@ -6,6 +6,8 @@ window-minimize-command =
     .label = Minimalizovať okno
 window-zoom-command =
     .label = Zväčšiť okno
+window-new-shortcut =
+    .key = N
 window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
@@ -36,6 +38,15 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
@@ -50,8 +61,19 @@ print-shortcut =
     .key = p
 mute-toggle-shortcut =
     .key = M
+nav-back-shortcut-alt =
+    .key = [
+nav-fwd-shortcut-alt =
+    .key = ]
+nav-reload-shortcut =
+    .key = r
+# Shortcut available only on macOS.
+nav-stop-shortcut =
+    .key = .
 history-show-all-shortcut =
     .key = H
+history-sidebar-shortcut =
+    .key = h
 full-screen-shortcut =
     .key = f
 # Pick the key that is commonly present
@@ -100,6 +122,8 @@ full-zoom-reset-shortcut-alt =
 
 ##
 
+bidi-switch-direction-shortcut =
+    .key = X
 private-browsing-shortcut =
     .key = P
 
