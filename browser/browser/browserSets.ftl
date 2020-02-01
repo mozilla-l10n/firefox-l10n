@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Minimizar
+window-zoom-command =
+    .label = Tamaño
 window-new-shortcut =
     .key = N
+window-minimize-shortcut =
+    .key = m
 close-shortcut =
     .key = W
 tab-new-shortcut =
@@ -144,5 +150,11 @@ private-browsing-shortcut =
 
 quit-app-shortcut =
     .key = Q
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
+hide-app-shortcut =
+    .key = H
 hide-other-apps-shortcut =
     .key = H
