@@ -107,6 +107,14 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Edit tandabuku ini ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Tandabuku halaman Ini ({ $shortcut })
 
 ## Page Action Context Menu
 
