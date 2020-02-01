@@ -108,6 +108,8 @@ full-zoom-reduce-shortcut =
     .key = -
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-reset-shortcut =
     .key = 0
 
