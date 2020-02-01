@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Adicionar esta página aos favoritos
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Adicionar esta página aos favoritos
+    .accesskey = m
+    .tooltiptext = Adicionar aos favoritos
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Adicionar esta página aos favoritos
+    .accesskey = m
+    .tooltiptext = Adicionar aos favoritos ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Editar este favorito
+    .accesskey = m
+    .tooltiptext = Editar este favorito
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Editar este favorito
+    .accesskey = m
+    .tooltiptext = Editar este favorito ({ $shortcut })
 main-context-menu-open-link =
     .label = Abrir link
     .accesskey = A
