@@ -65,6 +65,16 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = نشانک‌گذاری این صفحه
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = نشانک‌گذاری این صفحه
+    .accesskey = m
+    .tooltiptext = نشانک‌گذاری این صفحه(%1$S)
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = نشانک‌گذاری این صفحه
+    .accesskey = m
+    .tooltiptext = نشانک‌گذاری این صفحه({ $shortcut })
 main-context-menu-open-link =
     .label = باز کردن پیوند
     .accesskey = ب
