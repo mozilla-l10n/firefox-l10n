@@ -68,6 +68,15 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gcina idatha kuGcino oluQhubekayo
 urlbar-addons-notification-anchor =
     .tooltiptext = Vula iphanele yokongezelela umyalezo wokufakela
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Uyibhlokile inkcazelo yendawo kule webhusayithi.
 urlbar-web-notifications-blocked =
@@ -80,6 +89,14 @@ urlbar-screen-blocked =
     .tooltiptext = Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Hlela le bhukhmakhi ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Faka ibhukhmakhi kweli khasi ({ $shortcut })
 
 ## Page Action Context Menu
 
