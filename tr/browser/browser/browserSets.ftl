@@ -70,6 +70,10 @@ print-shortcut =
     .key = p
 mute-toggle-shortcut =
     .key = M
+nav-back-shortcut-alt =
+    .key = [
+nav-fwd-shortcut-alt =
+    .key = ]
 nav-reload-shortcut =
     .key = r
 # Shortcut available only on macOS.
