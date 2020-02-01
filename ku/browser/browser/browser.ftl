@@ -37,6 +37,19 @@ browser-main-window-content-title =
 ## Tooltips for images appearing in the address bar
 
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Vê bijareyê serast bike ({ $shortcut })
+
 ## Page Action Context Menu
 
 
@@ -55,3 +68,9 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Eyarên lêgerînê biguherîne
+
+## Bookmark Panel
+
+
+## Identity Panel
+
