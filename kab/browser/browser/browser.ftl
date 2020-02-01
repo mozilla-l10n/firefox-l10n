@@ -119,6 +119,10 @@ urlbar-midi-blocked =
 urlbar-install-blocked =
     .tooltiptext = Tesweḥleḍ asbeddi n yizegrar i usmel-a.
 # Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Ẓreg tacreḍṭ-a n usebter ({ $shortcut })
+# Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Creḍ asebter-a ({ $shortcut })
