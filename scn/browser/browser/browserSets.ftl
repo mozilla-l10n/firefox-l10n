@@ -62,6 +62,8 @@ page-source-shortcut =
 # users on macOS. See bug 1398988.
 page-source-shortcut-safari =
     .key = u
+page-info-shortcut =
+    .key = i
 print-shortcut =
     .key = p
 mute-toggle-shortcut =
@@ -152,3 +154,7 @@ help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
