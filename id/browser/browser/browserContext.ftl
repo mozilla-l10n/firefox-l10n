@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Markahi Laman ini
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Markahi Laman ini
+    .accesskey = m
+    .tooltiptext = Markahi laman ini
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Markahi Laman ini
+    .accesskey = m
+    .tooltiptext = Markahi laman ini ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Edit Markah Ini
+    .accesskey = m
+    .tooltiptext = Edit markah ini
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Edit Markah Ini
+    .accesskey = m
+    .tooltiptext = Edit markah ini ({ $shortcut })
 main-context-menu-open-link =
     .label = Buka Tautan
     .accesskey = a
