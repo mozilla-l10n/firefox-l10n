@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = ছোট করুন
+window-zoom-command =
+    .label = বড় করে প্রদর্শন
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
     .key = t
+location-open-shortcut =
+    .key = l
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
@@ -21,6 +27,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -29,6 +37,15 @@ search-focus-shortcut-alt =
         { PLATFORM() ->
             [linux] j
            *[other] e
+        }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
         }
 addons-shortcut =
     .key = A
@@ -42,6 +59,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -113,5 +132,7 @@ help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
 hide-other-apps-shortcut =
     .key = H
