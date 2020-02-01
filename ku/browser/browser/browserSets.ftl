@@ -2,21 +2,59 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Biçûk Bike
+window-zoom-command =
+    .label = Nêzîk Bike
+window-minimize-shortcut =
+    .key = m
+location-open-shortcut =
+    .key = l
+location-open-shortcut-alt =
+    .key = D
+search-focus-shortcut =
+    .key = K
+# This shortcut is used in two contexts:
+#   - web search
+#   - find in page
+find-shortcut =
+    .key = F
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+addons-shortcut =
+    .key = A
 file-open-shortcut =
     .key = o
 page-info-shortcut =
     .key = i
+print-shortcut =
+    .key = p
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
+nav-reload-shortcut =
+    .key = R
+history-sidebar-shortcut =
+    .key = h
+full-screen-shortcut =
+    .key = F
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+bookmark-this-page-shortcut =
+    .key = D
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-all-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] o
+           *[other] i
+        }
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -33,10 +71,22 @@ full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
+full-zoom-reset-shortcut-alt =
+    .key = { "" }
 
 ##
 
+bidi-switch-direction-shortcut =
+    .key = X
+private-browsing-shortcut =
+    .key = H
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
+hide-other-apps-shortcut =
+    .key = H
