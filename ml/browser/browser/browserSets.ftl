@@ -63,7 +63,7 @@ page-source-shortcut =
 # Safari variant is an alias provided for the convenience of Safari and Chrome
 # users on macOS. See bug 1398988.
 page-source-shortcut-safari =
-    .key = യു
+    .key = U
 page-info-shortcut =
     .key = i
 print-shortcut =
