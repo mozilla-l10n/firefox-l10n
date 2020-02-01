@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Minimizar
+window-zoom-command =
+    .label = Zoom
 window-new-shortcut =
     .key = N
+window-minimize-shortcut =
+    .key = m
 close-shortcut =
     .key = W
 tab-new-shortcut =
@@ -88,6 +94,8 @@ reader-mode-toggle-shortcut =
             [windows] VK_F9
            *[other] R
         }
+picture-in-picture-toggle-shortcut =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -144,3 +152,11 @@ private-browsing-shortcut =
 
 quit-app-shortcut =
     .key = Q
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
