@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Kapsayıcı sekmeler
 containers-add-button =
     .label = Yeni kapsayıcı ekle
     .accesskey = e
+containers-new-tab-check =
+    .label = Her yeni sekme için kapsayıcı seç
+    .accesskey = H
 containers-preferences-button =
     .label = Tercihler
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Özel
     .accesskey = Ö
 
-
+##
 
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
