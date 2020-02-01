@@ -84,14 +84,14 @@ auto-scan = 今日已自动扫描
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-       *[other] 个电子邮件地址正在关注
+       *[other] 正在监控的电子邮件地址
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-       *[other] 有已知的数据外泄事件，泄露了您的信息
+       *[other] 爆出的涉及您的数据泄漏事件
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
