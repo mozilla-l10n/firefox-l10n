@@ -8,6 +8,8 @@ page-source-shortcut =
     .key = u
 page-info-shortcut =
     .key = i
+history-show-all-shortcut =
+    .key = H
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
