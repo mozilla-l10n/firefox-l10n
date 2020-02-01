@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Agiuntar in segnapagina per la pagina
     .accesskey = t
+main-context-menu-bookmark-add =
+    .aria-label = Agiuntar in segnapagina per la pagina
+    .accesskey = t
+    .tooltiptext = Agiuntar in segnapagina
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Agiuntar in segnapagina per la pagina
+    .accesskey = t
+    .tooltiptext = Agiuntar in segnapagina ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Modifitgar quest segnapagina
+    .accesskey = t
+    .tooltiptext = Modifitgar quest segnapagina
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Modifitgar quest segnapagina
+    .accesskey = t
+    .tooltiptext = Modifitgar quest segnapagina ({ $shortcut })
 main-context-menu-open-link =
     .label = Avrir la colliaziun
     .accesskey = A
