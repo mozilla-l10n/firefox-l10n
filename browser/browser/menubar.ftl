@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Teljes képernyő
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Az összes böngészőlap megjelenítése
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = K
 menu-bookmarks-show-all =
     .label = Minden könyvjelző megjelenítése
+menu-bookmark-this-page =
+    .label = Oldal hozzáadása a könyvjelzőkhöz
 menu-bookmarks-all-tabs =
     .label = Minden lap egy könyvjelzőbe…
 menu-bookmarks-toolbar =
