@@ -4,6 +4,8 @@
 
 window-minimize-command =
     .label = Minimer
+window-new-shortcut =
+    .key = N
 window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
@@ -25,6 +27,15 @@ search-find-again-shortcut-alt =
     .keycode = VK_F3
 search-find-selection-shortcut =
     .key = e
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] j
+           *[other] e
+        }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -109,6 +120,8 @@ full-zoom-reset-shortcut-alt =
 
 bidi-switch-direction-shortcut =
     .key = X
+private-browsing-shortcut =
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
