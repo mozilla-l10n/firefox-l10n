@@ -65,6 +65,16 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = یہ صفحہ نشان زد کریں
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = یہ صفحہ نشان زد کریں
+    .accesskey = m
+    .tooltiptext = یہ صفحہ نشان زد کریں
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = یہ صفحہ نشان زد کریں
+    .accesskey = m
+    .tooltiptext = یہ صفحہ نشان زد کریں ({ $shortcut })
 main-context-menu-open-link =
     .label = ربط کھولیں
     .accesskey = O
@@ -114,7 +124,7 @@ main-context-menu-media-pause =
     .label = توقف کریں
     .accesskey = P
 
-
+##
 
 main-context-menu-media-mute =
     .label = خاموش
@@ -156,7 +166,7 @@ main-context-menu-media-hide-controls =
     .label = کنٹرول چھبائیں
     .accesskey = C
 
-
+##
 
 main-context-menu-media-video-fullscreen =
     .label = پوری سکرین
