@@ -12,6 +12,8 @@ tab-new-shortcut =
     .key = t
 location-open-shortcut =
     .key = l
+location-open-shortcut-alt =
+    .key = d
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -42,6 +44,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
