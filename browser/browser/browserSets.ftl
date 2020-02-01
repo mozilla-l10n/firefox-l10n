@@ -64,6 +64,8 @@ page-source-shortcut =
 # users on macOS. See bug 1398988.
 page-source-shortcut-safari =
     .key = u
+page-info-shortcut =
+    .key = i
 print-shortcut =
     .key = P
 mute-toggle-shortcut =
@@ -77,6 +79,8 @@ nav-reload-shortcut =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+history-show-all-shortcut =
+    .key = H
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
