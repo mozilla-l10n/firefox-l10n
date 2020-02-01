@@ -71,7 +71,7 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = 편집
-newtab-menu-open-new-window = 새 창에서 열기
+newtab-menu-open-new-window = 새 창에 열기
 newtab-menu-open-new-private-window = 새 사생활 보호 창에 열기
 newtab-menu-dismiss = 닫기
 newtab-menu-pin = 고정
