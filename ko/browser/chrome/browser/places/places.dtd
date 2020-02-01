@@ -52,7 +52,7 @@
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "새 탭에 열기">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "탭으로 모두 열기">
+<!ENTITY cmd.open_all_in_tabs.label      "탭에 모두 열기">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "속성">
