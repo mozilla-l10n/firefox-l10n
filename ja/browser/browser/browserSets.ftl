@@ -23,6 +23,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+full-screen-shortcut =
+    .key = f
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
