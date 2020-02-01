@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = ਸਭ ਟੈਬ ਵੇਖੋ
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
+menu-bookmark-this-page =
+    .label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+menu-bookmark-edit =
+    .label = ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
 menu-bookmarks-all-tabs =
     .label = …ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ
 menu-bookmarks-toolbar =
