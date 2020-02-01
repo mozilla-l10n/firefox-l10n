@@ -53,6 +53,19 @@ urlbar-translated-notification-anchor =
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Thegna katxudenxi's kapnasahnxite y/o çxãçxa kapthusenxinxa'kh ayte
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Kãjãn naa ajte  ki'pwa'ja's ({ $shortcut })
+
 ## Page Action Context Menu
 
 
