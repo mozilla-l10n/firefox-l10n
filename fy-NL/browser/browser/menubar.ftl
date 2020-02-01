@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Folslein skerm
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Alle ljepblêden toane
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = D
 menu-bookmarks-show-all =
     .label = Alle blêdwizers toane
+menu-bookmark-edit =
+    .label = Dizze blêdwizer bewurkje
 menu-bookmarks-all-tabs =
     .label = Blêdwizer foar alle ljepblêden meitsje…
 menu-bookmarks-toolbar =
