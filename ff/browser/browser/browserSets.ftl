@@ -53,6 +53,8 @@ addons-shortcut =
     .key = A
 file-open-shortcut =
     .key = o
+save-page-shortcut =
+    .key = s
 page-source-shortcut =
     .key = u
 # This should match the Option+Command keyboard shortcut letter that Safari
