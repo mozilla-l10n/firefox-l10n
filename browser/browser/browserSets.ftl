@@ -89,3 +89,5 @@ bidi-switch-direction-shortcut =
 
 preferences-shortcut =
     .key = ,
+hide-other-apps-shortcut =
+    .key = H
