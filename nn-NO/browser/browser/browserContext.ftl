@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Bokmerk denne sida
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Bokmerk denne sida
+    .accesskey = m
+    .tooltiptext = Bokmerk denne sida
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Bokmerk denne sida
+    .accesskey = m
+    .tooltiptext = Bokmerk denne sida ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Rediger dette bokmerket
+    .accesskey = m
+    .tooltiptext = Rediger dette bokmerket
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Rediger dette bokmerket
+    .accesskey = m
+    .tooltiptext = Rediger dette bokmerket ({ $shortcut })
 main-context-menu-open-link =
     .label = Opne lenke
     .accesskey = O
