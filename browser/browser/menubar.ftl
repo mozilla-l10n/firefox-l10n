@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Ecrã completo
     .accesskey = E
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mostrar todos os separadores
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-show-all =
     .label = Mostrar todos os marcadores
+menu-bookmark-edit =
+    .label = Editar este marcador
 menu-bookmarks-all-tabs =
     .label = Adicionar todos os separadores aos marcadores…
 menu-bookmarks-toolbar =
