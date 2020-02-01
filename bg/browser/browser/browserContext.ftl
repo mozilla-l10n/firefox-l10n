@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Отмятане на страницата
     .accesskey = м
+main-context-menu-bookmark-add =
+    .aria-label = Отмятане на страницата
+    .accesskey = м
+    .tooltiptext = Отмятане на страницата
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Отмятане на страницата
+    .accesskey = м
+    .tooltiptext = Отмятане на страницата ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Промяна на отметка
+    .accesskey = м
+    .tooltiptext = Промяна на отметка
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Промяна на отметка
+    .accesskey = м
+    .tooltiptext = Промяна на отметка ({ $shortcut })
 main-context-menu-open-link =
     .label = Отваряне на препратката
     .accesskey = п
