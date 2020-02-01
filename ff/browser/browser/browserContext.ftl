@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Maantoro Ngoo Hello
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Maantoro Ngoo Hello
+    .accesskey = m
+    .tooltiptext = Maantoro ngoo hello
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Maantoro Ngoo Hello
+    .accesskey = m
+    .tooltiptext = Maantoro ngoo hello ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Taƴto Ngol Maantorol
+    .accesskey = m
+    .tooltiptext = Taƴto ngol maantorol
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Taƴto Ngol Maantorol
+    .accesskey = m
+    .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
 main-context-menu-open-link =
     .label = Uddit Jokkol
     .accesskey = U
