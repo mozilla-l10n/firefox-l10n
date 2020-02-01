@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = આ પાનું બુકમાર્ક કરો...
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = આ પાનું બુકમાર્ક કરો...
+    .accesskey = m
+    .tooltiptext = આ પાનાં ને બુકમાર્ક કરો
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = આ પાનું બુકમાર્ક કરો...
+    .accesskey = m
+    .tooltiptext = આ પાનાં ({ $shortcut }) ને બુકમાર્ક કરો
+main-context-menu-bookmark-change =
+    .aria-label = આ બુકમાર્કમાં ફેરફાર કરો
+    .accesskey = m
+    .tooltiptext = આ બુકમાર્ક માં ફેરફાર કરો
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = આ બુકમાર્કમાં ફેરફાર કરો
+    .accesskey = m
+    .tooltiptext = આ બુકમાર્ક ({ $shortcut }) માં ફેરફાર કરો
 main-context-menu-open-link =
     .label = કડીને ખોલો
     .accesskey = O
