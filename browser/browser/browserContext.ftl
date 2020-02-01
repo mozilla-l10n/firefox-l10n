@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Tandabuku Halaman Ini
     .accesskey = b
+main-context-menu-bookmark-add =
+    .aria-label = Tandabuku Halaman Ini
+    .accesskey = b
+    .tooltiptext = Tandabuku halaman Ini
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Tandabuku Halaman Ini
+    .accesskey = b
+    .tooltiptext = Tandabuku halaman Ini ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Edit Tandabuku Ini
+    .accesskey = b
+    .tooltiptext = Edit tandabuku ini
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Edit Tandabuku Ini
+    .accesskey = b
+    .tooltiptext = Edit tandabuku ini ({ $shortcut })
 main-context-menu-open-link =
     .label = Buka Pautan
     .accesskey = B
