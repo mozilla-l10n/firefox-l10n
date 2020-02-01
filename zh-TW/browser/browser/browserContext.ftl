@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = 將本頁加入書籤
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = 將本頁加入書籤
+    .accesskey = m
+    .tooltiptext = 將本頁加入書籤
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = 將本頁加入書籤
+    .accesskey = m
+    .tooltiptext = 將本頁加入書籤 ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = 編輯此書籤
+    .accesskey = m
+    .tooltiptext = 編輯此書籤
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = 編輯此書籤
+    .accesskey = m
+    .tooltiptext = 編輯此書籤 ({ $shortcut })
 main-context-menu-open-link =
     .label = 開啟鏈結
     .accesskey = O
