@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = יצירת סימנייה לדף זה
     .accesskey = ס
+main-context-menu-bookmark-add =
+    .aria-label = יצירת סימנייה לדף זה
+    .accesskey = ס
+    .tooltiptext = יצירת סימנייה לדף זה
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = יצירת סימנייה לדף זה
+    .accesskey = ס
+    .tooltiptext = יצירת סימנייה לדף זה ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = עריכת סימנייה זו
+    .accesskey = ס
+    .tooltiptext = עריכת סימנייה זו
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = עריכת סימנייה זו
+    .accesskey = ס
+    .tooltiptext = עריכת סימנייה זו ({ $shortcut })
 main-context-menu-open-link =
     .label = פתיחת קישור
     .accesskey = פ
