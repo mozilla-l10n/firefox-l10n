@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = გვერდის ჩანიშვნა
     .accesskey = გ
+main-context-menu-bookmark-add =
+    .aria-label = გვერდის ჩანიშვნა
+    .accesskey = გ
+    .tooltiptext = გვერდის ჩანიშვნა
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = გვერდის ჩანიშვნა
+    .accesskey = გ
+    .tooltiptext = გვერდის ჩანიშვნა ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = სანიშნის ჩასწორება
+    .accesskey = გ
+    .tooltiptext = სანიშნის ჩასწორება
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = სანიშნის ჩასწორება
+    .accesskey = გ
+    .tooltiptext = სანიშნის ჩასწორება ({ $shortcut })
 main-context-menu-open-link =
     .label = ბმულის გახსნა
     .accesskey = გ
