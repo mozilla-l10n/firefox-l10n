@@ -20,6 +20,11 @@ location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
     .key = k
+# This shortcut is used in two contexts:
+#   - web search
+#   - find in page
+find-shortcut =
+    .key = f
 search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
