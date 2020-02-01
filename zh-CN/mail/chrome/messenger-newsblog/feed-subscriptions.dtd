@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "收取点网址：">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "输入要添加的有效的收取点网址">
 <!ENTITY feedLocation2.placeholder   "请输入一个有效的收取点网址">
 <!ENTITY locationValidate.label      "确认有效">
 <!ENTITY validateText.label          "检查验证并获取一个有效的网址。">
@@ -28,7 +27,7 @@
 <!ENTITY biffDays.accesskey          "d">
 <!ENTITY recommendedUnits.label      "发布者推荐：">
 
-<!ENTITY quickMode.label             "显示文章概述而不载入全部网页。">
+<!ENTITY quickMode.label             "显示文章摘要，而不是加载网页">
 <!ENTITY quickMode.accesskey         "h">
 
 <!ENTITY autotagEnable.label         "根据收取点的分类名自动创建标签">
