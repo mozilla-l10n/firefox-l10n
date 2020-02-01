@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = या पृष्ठाला वाचणखूण लावा
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = या पृष्ठाला वाचणखूण लावा
+    .accesskey = m
+    .tooltiptext = या पृष्ठाला वाचनखूण लावा
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = या पृष्ठाला वाचणखूण लावा
+    .accesskey = m
+    .tooltiptext = या पृष्ठाला वाचनखूण लावा ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ही वाचनखूण संपादीत करा
+    .accesskey = m
+    .tooltiptext = ही वाचनखूण संपादीत करा
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ही वाचनखूण संपादीत करा
+    .accesskey = m
+    .tooltiptext = ही वाचनखूण ({ $shortcut }) संपादीत करा
 main-context-menu-open-link =
     .label = दुवा उघडा
     .accesskey = O
