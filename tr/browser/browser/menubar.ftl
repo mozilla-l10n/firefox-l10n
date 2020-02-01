@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Tam ekran
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Tüm sekmeleri göster
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = Y
 menu-bookmarks-show-all =
     .label = Tüm yer imlerini göster
+menu-bookmark-this-page =
+    .label = Bu sayfayı yer imlerine ekle
 menu-bookmarks-all-tabs =
     .label = Tüm sekmeleri yer imlerine ekle…
 menu-bookmarks-toolbar =
