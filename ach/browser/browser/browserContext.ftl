@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Ket alama buk i pot buk man
     .accesskey = k
+main-context-menu-bookmark-add =
+    .aria-label = Ket alama buk i pot buk man
+    .accesskey = k
+    .tooltiptext = Ket alama buk i pot buk man
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Ket alama buk i pot buk man
+    .accesskey = k
+    .tooltiptext = Ket alama buk i pot buk man ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Yub alama buk man
+    .accesskey = k
+    .tooltiptext = Yub alama buk man
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Yub alama buk man
+    .accesskey = k
+    .tooltiptext = Yub alama buk man ({ $shortcut })
 main-context-menu-open-link =
     .label = Yab Kakube
     .accesskey = Y
