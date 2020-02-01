@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Full Screen
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Show All Tabs
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = Show All Bookmarks
+menu-bookmark-this-page =
+    .label = Bookmark This Page
 menu-bookmarks-all-tabs =
     .label = Bookmark All Tabs…
 menu-bookmarks-toolbar =
