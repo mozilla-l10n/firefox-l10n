@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Marquer cette page
     .accesskey = c
+main-context-menu-bookmark-add =
+    .aria-label = Marquer cette page
+    .accesskey = c
+    .tooltiptext = Marquer cette page
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Marquer cette page
+    .accesskey = c
+    .tooltiptext = Marquer cette page ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Modifier ce marque-page
+    .accesskey = c
+    .tooltiptext = Modifier ce marque-page
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Modifier ce marque-page
+    .accesskey = c
+    .tooltiptext = Modifier ce marque-page ({ $shortcut })
 main-context-menu-open-link =
     .label = Ouvrir le lien
     .accesskey = O
