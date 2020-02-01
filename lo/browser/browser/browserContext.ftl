@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = ບຸກມາກຫນ້ານີ້
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = ບຸກມາກຫນ້ານີ້
+    .accesskey = m
+    .tooltiptext = ບຸກມາກຫນ້ານີ້
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = ບຸກມາກຫນ້ານີ້
+    .accesskey = m
+    .tooltiptext = ບຸກມາກຫນ້ານີ້ ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ແກ້ໄຂບຸກມາກນີ້
+    .accesskey = m
+    .tooltiptext = ແກ້ໄຂບຸກມາກນີ້
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ແກ້ໄຂບຸກມາກນີ້
+    .accesskey = m
+    .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
 main-context-menu-open-link =
     .label = ເປີດລີ້ງ
     .accesskey = O
