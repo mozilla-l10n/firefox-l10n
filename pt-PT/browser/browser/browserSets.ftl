@@ -17,6 +17,15 @@ picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
 bookmark-this-page-shortcut =
     .key = d
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-all-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] o
+           *[other] i
+        }
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -31,5 +40,7 @@ full-zoom-enlarge-shortcut-alt2 =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+help-shortcut =
+    .key = ?
 hide-other-apps-shortcut =
     .key = H
