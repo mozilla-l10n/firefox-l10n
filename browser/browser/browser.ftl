@@ -119,6 +119,10 @@ urlbar-midi-blocked =
 urlbar-install-blocked =
     .tooltiptext = Du har blockerat installation av tillägg från denna webbplats.
 # Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Redigera detta bokmärke ({ $shortcut })
+# Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bokmärk denna sida ({ $shortcut })
