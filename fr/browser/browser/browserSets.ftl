@@ -30,6 +30,15 @@ search-find-again-shortcut-alt =
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] j
+           *[other] e
+        }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
 downloads-shortcut =
     .key =
         { PLATFORM() ->
