@@ -104,6 +104,10 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = MIDI సౌలభ్యాన్ని పొందకుండా ఈ వెబ్‌సైటుని మీరు నిరోధించారు.
 # Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = ఈ ఇష్టాంశమును సవరించు ({ $shortcut })
+# Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ఈ పేజీను ఇష్టాంశముచేయుము ({ $shortcut })
