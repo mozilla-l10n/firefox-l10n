@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Bu sayfayı yer imlerine ekle
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Bu sayfayı yer imlerine ekle
+    .accesskey = m
+    .tooltiptext = Bu sayfayı yer imlerine ekle
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Bu sayfayı yer imlerine ekle
+    .accesskey = m
+    .tooltiptext = Bu sayfayı yer imlerine ekle ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Bu yer imini düzenle
+    .accesskey = m
+    .tooltiptext = Bu yer imini düzenle
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Bu yer imini düzenle
+    .accesskey = m
+    .tooltiptext = Bu yer imini düzenle ({ $shortcut })
 main-context-menu-open-link =
     .label = Bağlantıyı aç
     .accesskey = B
