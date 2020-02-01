@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Visas ekranas
     .accesskey = V
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Rodyti visas korteles
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = A
 menu-bookmarks-show-all =
     .label = Rodyti visą adresyną
+menu-bookmark-this-page =
+    .label = Įrašyti į adresyną
+menu-bookmark-edit =
+    .label = Taisyti adresyno įrašą
 menu-bookmarks-all-tabs =
     .label = Visas korteles įtraukti į adresyną…
 menu-bookmarks-toolbar =
