@@ -18,6 +18,8 @@ location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
     .key = d
+search-focus-shortcut =
+    .key = k
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
@@ -49,6 +51,8 @@ addons-shortcut =
     .key = A
 file-open-shortcut =
     .key = o
+save-page-shortcut =
+    .key = s
 page-source-shortcut =
     .key = u
 page-info-shortcut =
