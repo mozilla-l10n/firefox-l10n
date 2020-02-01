@@ -37,6 +37,23 @@ browser-main-window-content-title =
 ## Tooltips for images appearing in the address bar
 
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Modifiche chest segnelibri ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Zonte cheste pagjine ai segnelibris ({ $shortcut })
+
 ## Page Action Context Menu
 
 
