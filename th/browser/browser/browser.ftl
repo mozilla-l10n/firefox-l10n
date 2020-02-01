@@ -114,6 +114,10 @@ urlbar-midi-blocked =
     .tooltiptext = คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้
 urlbar-install-blocked =
     .tooltiptext = คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = แก้ไขที่คั่นหน้านี้ ({ $shortcut })
 
 ## Page Action Context Menu
 
