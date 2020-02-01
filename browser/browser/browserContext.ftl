@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Pridať stránku medzi záložky
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Pridať stránku medzi záložky
+    .accesskey = m
+    .tooltiptext = Pridá stránku medzi záložky
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Pridať stránku medzi záložky
+    .accesskey = m
+    .tooltiptext = Pridá stránku medzi záložky ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Upraviť túto záložku
+    .accesskey = m
+    .tooltiptext = Umožní upraviť túto záložku
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Upraviť túto záložku
+    .accesskey = m
+    .tooltiptext = Umožní upraviť túto záložku ({ $shortcut })
 main-context-menu-open-link =
     .label = Otvoriť odkaz
     .accesskey = d
