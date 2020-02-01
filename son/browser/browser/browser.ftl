@@ -68,6 +68,15 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Bayhayey jiši jišiyan duumante ra
 urlbar-addons-notification-anchor =
     .tooltiptext = Tontoni sinjiyan alhabar fasaldoo feeri
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = War na gorodoo alhabar gagay interneti nungoo woo se.
 urlbar-web-notifications-blocked =
@@ -80,6 +89,14 @@ urlbar-screen-blocked =
     .tooltiptext = War na interneti nungoo woo gagay nd'a ma war dijoo zemni.
 urlbar-persistent-storage-blocked =
     .tooltiptext = War na bayhaya jišiyan duumante gagay interneti nungoo woo se.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Doo-šilbaa woo fasal ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Moɲoo woo šilbay ({ $shortcut })
 
 ## Page Action Context Menu
 
