@@ -109,6 +109,14 @@ urlbar-canvas-blocked =
     .tooltiptext = Ti æ blocòu l'estaçion dæti canvas pe sto scito.
 urlbar-midi-blocked =
     .tooltiptext = Ti æ blocòu l'acesso MIDI pe sto scito.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Cangia sto segnalibbro ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Azonzi ai segnalibri ({ $shortcut })
 
 ## Page Action Context Menu
 

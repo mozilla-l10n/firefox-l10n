@@ -14,6 +14,8 @@ tab-new-shortcut =
     .key = t
 location-open-shortcut =
     .key = l
+location-open-shortcut-alt =
+    .key = S
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -25,6 +27,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -55,6 +59,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
