@@ -65,6 +65,16 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = 이 페이지 북마크
     .accesskey = m
+main-context-menu-bookmark-change =
+    .aria-label = 이 북마크 편집
+    .accesskey = m
+    .tooltiptext = 북마크 편집
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = 이 북마크 편집
+    .accesskey = m
+    .tooltiptext = 북마크 편집 ({ $shortcut })
 main-context-menu-open-link =
     .label = 링크 열기
     .accesskey = O
