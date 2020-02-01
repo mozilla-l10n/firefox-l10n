@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = เต็มหน้าจอ
     .accesskey = จ
 
-
+##
 
 menu-view-show-all-tabs =
     .label = แสดงแท็บทั้งหมด
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = ท
 menu-bookmarks-show-all =
     .label = แสดงที่คั่นหน้าทั้งหมด
+menu-bookmark-edit =
+    .label = แก้ไขที่คั่นหน้านี้
 menu-bookmarks-all-tabs =
     .label = เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…
 menu-bookmarks-toolbar =
