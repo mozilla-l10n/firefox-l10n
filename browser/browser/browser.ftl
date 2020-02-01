@@ -68,6 +68,15 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sábháil sonraí sa Stóras Seasmhach
 urlbar-addons-notification-anchor =
     .tooltiptext = Oscail an painéal um theachtaireachtaí suiteála breiseáin
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Chuir tú cosc ar an suíomh seo an áit ina bhfuil tú a fheiceáil.
 urlbar-web-notifications-blocked =
@@ -80,6 +89,14 @@ urlbar-screen-blocked =
     .tooltiptext = Chuir tú cosc ar an suíomh seo do scáileán a chomhroinnt.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Chuir tú cosc ar stóras seasmhach ar an suíomh seo.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Cuir an leabharmharc seo in eagar ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Cruthaigh leabharmharc don leathanach seo ({ $shortcut })
 
 ## Page Action Context Menu
 
