@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Ivatz Kaajayil
     .accesskey = K
 
-
+##
 
 menu-view-show-all-tabs =
     .label = K'uch Kaajayil chit unq'a Texhlale'
@@ -209,9 +209,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Tz'ajsab' tetz
     .accesskey = T
-menu-tools-sync-sign-in =
-    .label = Xe'tisa aq'on tu { -sync-brand-short-name }...
-    .accesskey = X
 menu-tools-fxa-sign-in =
     .label = Xe'tisa aq'on tu { -brand-product-name }…
     .accesskey = e
@@ -221,9 +218,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = Kol kaajayil cheel chitu'
     .accesskey = K
-menu-tools-sync-re-auth =
-    .label = Okso'k tu { -sync-brand-short-name }...
-    .accesskey = O
 menu-tools-fxa-re-auth =
     .label = Okso'k tu { -brand-product-name }…
     .accesskey = O
