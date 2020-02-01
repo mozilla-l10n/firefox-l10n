@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Sa Krejt Ekrani
     .accesskey = E
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Shfaqini Krejt Skedat
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = F
 menu-bookmarks-show-all =
     .label = Shfaqni Krejt Faqerojtësit
+menu-bookmark-this-page =
+    .label = Faqeruaje Këtë Faqe
+menu-bookmark-edit =
+    .label = Përpunojeni Këtë Faqerojtës
 menu-bookmarks-all-tabs =
     .label = Faqeruani Krejt Skedat…
 menu-bookmarks-toolbar =
