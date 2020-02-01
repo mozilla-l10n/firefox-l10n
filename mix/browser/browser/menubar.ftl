@@ -150,7 +150,7 @@ menu-view-full-screen =
     .label = Pantalla kanu
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Kuna ntii xikua
@@ -199,15 +199,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Komplementos
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = Kitsa tsi { -sync-brand-short-name }…
-    .accesskey = Y
 menu-tools-sync-now =
     .label = Chita'an vichi
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = Ntachita'an tsi { -sync-brand-short-name }…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Ndachita'a tsi { -brand-product-name }
     .accesskey = N
