@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Fullskjerm
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Vis alle faner
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = Vis alle bokmerka
+menu-bookmark-this-page =
+    .label = Bokmerk denne sida
 menu-bookmarks-all-tabs =
     .label = Bokmerk alle faner…
 menu-bookmarks-toolbar =
