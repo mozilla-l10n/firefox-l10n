@@ -10,6 +10,10 @@ window-new-shortcut =
     .key = n
 window-minimize-shortcut =
     .key = m
+close-shortcut =
+    .key = W
+tab-new-shortcut =
+    .key = t
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
@@ -45,12 +49,18 @@ downloads-shortcut =
             [linux] y
            *[other] j
         }
+addons-shortcut =
+    .key = A
+file-open-shortcut =
+    .key = o
 save-page-shortcut =
     .key = s
 page-source-shortcut =
     .key = u
 page-info-shortcut =
     .key = i
+print-shortcut =
+    .key = p
 mute-toggle-shortcut =
     .key = M
 nav-back-shortcut-alt =
@@ -68,11 +78,36 @@ history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
     .key = c
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+reader-mode-toggle-shortcut =
+    .key =
+        { PLATFORM() ->
+            [windows] VK_F9
+           *[other] R
+        }
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+bookmark-this-page-shortcut =
+    .key = d
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-all-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] o
+           *[other] i
+        }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-sidebar-shortcut =
+    .key = b
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -112,3 +147,7 @@ help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
