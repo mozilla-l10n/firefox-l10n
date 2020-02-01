@@ -4,6 +4,10 @@
 
 window-new-shortcut =
     .key = N
+close-shortcut =
+    .key = W
+location-open-shortcut =
+    .key = I
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
@@ -39,6 +43,8 @@ downloads-shortcut =
         }
 addons-shortcut =
     .key = A
+save-page-shortcut =
+    .key = ss
 mute-toggle-shortcut =
     .key = M
 nav-back-shortcut-alt =
@@ -52,6 +58,8 @@ nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-sidebar-shortcut =
+    .key = ch
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -80,10 +88,21 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+# If in keyboard layouts popular for your locale you need to use the shift key
+# to access the original shortcuts, the following shortcuts can be used.
+# Otherwise their values should remain empty.
+full-zoom-reduce-shortcut-alt =
+    .key = ?
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
+full-zoom-enlarge-shortcut-alt2 =
+    .key = ?
 full-zoom-reset-shortcut =
     .key = 0
+full-zoom-reset-shortcut-alt =
+    .key = ?
 
 ##
 
