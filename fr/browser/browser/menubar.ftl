@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Plein écran
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Afficher tous les onglets
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-show-all =
     .label = Afficher tous les marque-pages
+menu-bookmark-this-page =
+    .label = Marquer cette page
 menu-bookmarks-all-tabs =
     .label = Marquer tous les onglets…
 menu-bookmarks-toolbar =
