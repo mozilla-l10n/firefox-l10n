@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Celoten zaslon
     .accesskey = C
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Prikaži vse zavihke
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = Z
 menu-bookmarks-show-all =
     .label = Prikaži vse zaznamke
+menu-bookmark-this-page =
+    .label = Dodaj stran med zaznamke
+menu-bookmark-edit =
+    .label = Uredi ta zaznamek
 menu-bookmarks-all-tabs =
     .label = Dodaj vse zavihke med zaznamke …
 menu-bookmarks-toolbar =
