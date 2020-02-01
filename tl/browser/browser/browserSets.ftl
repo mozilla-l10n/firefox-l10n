@@ -30,6 +30,15 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
