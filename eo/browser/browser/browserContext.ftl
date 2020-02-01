@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Aldoni legosignon por tiu ĉi paĝo
     .accesskey = l
+main-context-menu-bookmark-add =
+    .aria-label = Aldoni legosignon por tiu ĉi paĝo
+    .accesskey = l
+    .tooltiptext = Aldoni legosignon por tiu ĉi paĝo
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Aldoni legosignon por tiu ĉi paĝo
+    .accesskey = l
+    .tooltiptext = Aldoni legosignon por tiu ĉi paĝo ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Redakti tiun ĉi legosignon
+    .accesskey = l
+    .tooltiptext = Redakti tiun ĉi legosignon
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Redakti tiun ĉi legosignon
+    .accesskey = l
+    .tooltiptext = Redakti tiun ĉi legosignon ({ $shortcut })
 main-context-menu-open-link =
     .label = Malfermi ligilon
     .accesskey = O
