@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Kan piny
 window-zoom-command =
     .label = Kwoti
 window-new-shortcut =
@@ -10,8 +12,12 @@ window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
     .key = t
+location-open-shortcut =
+    .key = l
 location-open-shortcut-alt =
     .key = d
+search-focus-shortcut =
+    .key = k
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
@@ -21,6 +27,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -43,12 +51,16 @@ addons-shortcut =
     .key = A
 file-open-shortcut =
     .key = o
+save-page-shortcut =
+    .key = s
 page-source-shortcut =
     .key = u
 page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -62,6 +74,8 @@ history-show-all-shortcut =
     .key = H
 history-sidebar-shortcut =
     .key = h
+full-screen-shortcut =
+    .key = f
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -114,9 +128,13 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
 hide-other-apps-shortcut =
     .key = H
