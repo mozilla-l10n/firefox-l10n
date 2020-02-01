@@ -25,6 +25,15 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] j
+           *[other] e
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
