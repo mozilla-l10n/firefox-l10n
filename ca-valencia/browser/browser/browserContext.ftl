@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Afig la pàgina a les adreces d'interés
     .accesskey = d
+main-context-menu-bookmark-add =
+    .aria-label = Afig la pàgina a les adreces d'interés
+    .accesskey = d
+    .tooltiptext = Afig la pàgina a les adreces d'interés
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Afig la pàgina a les adreces d'interés
+    .accesskey = d
+    .tooltiptext = Afig la pàgina a les adreces d'interés ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Edita esta adreça d'interés
+    .accesskey = d
+    .tooltiptext = Edita l'adreça d'interés
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Edita esta adreça d'interés
+    .accesskey = d
+    .tooltiptext = Edita l'adreça d'interés ({ $shortcut })
 main-context-menu-open-link =
     .label = Obri l'enllaç
     .accesskey = O
