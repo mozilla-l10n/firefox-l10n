@@ -82,7 +82,6 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Åbn panelet for beskeder om installering af tilføjelser
 urlbar-tip-help-icon =
     .title = Få hjælp
-
 urlbar-search-tips-confirm = Okay, forstået
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
@@ -119,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Du har blokeret MIDI-adgang for dette websted.
 urlbar-install-blocked =
     .tooltiptext = Du har blokeret installering af tilføjelser for dette websted.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Rediger dette bogmærke ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Bogmærk denne side ({ $shortcut })
 
 ## Page Action Context Menu
 

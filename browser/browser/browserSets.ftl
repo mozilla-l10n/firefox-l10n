@@ -10,6 +10,8 @@ window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
+close-shortcut =
+    .key = W
 tab-new-shortcut =
     .key = t
 location-open-shortcut =
@@ -66,6 +68,8 @@ nav-reload-shortcut =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+history-show-all-shortcut =
+    .key = H
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
