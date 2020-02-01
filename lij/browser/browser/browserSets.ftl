@@ -17,7 +17,7 @@ tab-new-shortcut =
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
-    .key = S
+    .key = D
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -37,8 +37,8 @@ search-find-selection-shortcut =
 search-focus-shortcut-alt =
     .key =
         { PLATFORM() ->
-            [linux] j
-           *[other] s
+            [linux] J
+           *[other] E
         }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
