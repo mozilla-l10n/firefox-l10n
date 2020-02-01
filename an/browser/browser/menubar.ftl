@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Amostrar todas as pestanyas
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = c
 menu-bookmarks-show-all =
     .label = Amostrar totz os marcapachinas
+menu-bookmark-this-page =
+    .label = Marcar ista pachina con marcapachinas
+menu-bookmark-edit =
+    .label = Editar iste marcapachinas
 menu-bookmarks-all-tabs =
     .label = Adhibir pestanyas ta marcapachinas…
 menu-bookmarks-toolbar =
