@@ -47,6 +47,7 @@ login-list-count =
     }
 login-list-sort-label-text = Zoradiť podľa:
 login-list-name-option = názvu (A-Z)
+login-list-name-reverse-option = názvu (Z-A)
 login-list-breached-option = Stránky, na ktorých došlo k úniku dát
 login-list-last-changed-option = poslednej úpravy
 login-list-last-used-option = posledného použitia
