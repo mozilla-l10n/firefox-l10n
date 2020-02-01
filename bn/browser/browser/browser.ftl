@@ -117,6 +117,10 @@ urlbar-install-blocked =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই বুকমার্কটি সম্পাদনা ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = পাতাটি বুকমার্ক করুন ({ $shortcut })
 
 ## Page Action Context Menu
 
