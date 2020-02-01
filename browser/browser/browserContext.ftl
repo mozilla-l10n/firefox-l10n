@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Էջանշել Այս Էջը
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Էջանշել Այս Էջը
+    .accesskey = m
+    .tooltiptext = Էջանշել այս էջը
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Էջանշել Այս Էջը
+    .accesskey = m
+    .tooltiptext = Էջանշել այս էջը ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Խմբագրել այս էջանիշը
+    .accesskey = m
+    .tooltiptext = Խմբագրել այս էջանիշը
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Խմբագրել այս էջանիշը
+    .accesskey = m
+    .tooltiptext = Խմբագրել այս էջանիշը ({ $shortcut })
 main-context-menu-open-link =
     .label = Բացել Հղումը
     .accesskey = Բ
