@@ -65,6 +65,16 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Προσθήκη στους σελιδοδείκτες
     .accesskey = θ
+main-context-menu-bookmark-add =
+    .aria-label = Προσθήκη στους σελιδοδείκτες
+    .accesskey = θ
+    .tooltiptext = Προσθήκη στους σελιδοδείκτες
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Προσθήκη στους σελιδοδείκτες
+    .accesskey = θ
+    .tooltiptext = Προσθήκη στους σελιδοδείκτες ({ $shortcut })
 main-context-menu-open-link =
     .label = Άνοιγμα συνδέσμου
     .accesskey = ο
