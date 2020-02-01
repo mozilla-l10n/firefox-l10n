@@ -111,6 +111,14 @@ urlbar-midi-blocked =
     .tooltiptext = Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.
 urlbar-install-blocked =
     .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Breyta bókamerki ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Setja síðu í bókamerki ({ $shortcut })
 
 ## Page Action Context Menu
 
