@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Adder un marcapaginas
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Adder un marcapaginas
+    .accesskey = m
+    .tooltiptext = Adder un marcapaginas sur iste pagina
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Adder un marcapaginas
+    .accesskey = m
+    .tooltiptext = Adder un marcapaginas sur iste pagina ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Modificar iste marcapaginas
+    .accesskey = m
+    .tooltiptext = Modificar iste marcapaginas
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Modificar iste marcapaginas
+    .accesskey = m
+    .tooltiptext = Modificar iste marcapaginas ({ $shortcut })
 main-context-menu-open-link =
     .label = Aperir le ligamine
     .accesskey = A
