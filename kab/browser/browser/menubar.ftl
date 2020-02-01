@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Agdil Ačaran
     .accesskey = A
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Sken akk accaren
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = r
 menu-bookmarks-show-all =
     .label = Sken akk ticraḍ n yisebtar
+menu-bookmark-this-page =
+    .label = Creḍ asebter-a
 menu-bookmarks-all-tabs =
     .label = Creḍ akk accaren…
 menu-bookmarks-toolbar =
