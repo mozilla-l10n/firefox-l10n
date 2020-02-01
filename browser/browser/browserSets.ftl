@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-zoom-command =
+    .label = Acercar
 tab-new-shortcut =
     .key = t
 # This shortcut is used in two contexts:
@@ -13,6 +15,8 @@ search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = e
 file-open-shortcut =
     .key = o
 page-source-shortcut =
@@ -45,6 +49,11 @@ bookmark-show-all-shortcut =
             [linux] o
            *[other] i
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-sidebar-shortcut =
+    .key = b
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -59,5 +68,7 @@ full-zoom-enlarge-shortcut-alt2 =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+hide-app-shortcut =
+    .key = H
 hide-other-apps-shortcut =
     .key = H
