@@ -106,6 +106,14 @@ urlbar-canvas-blocked =
     .tooltiptext = आपण ह्या वेबसाइटसाठी कॅनव्हास डेटा उतारा अवरोधित केला आहे.
 urlbar-midi-blocked =
     .tooltiptext = या संकेतस्थळासाठी MIDI वापर अवरोधित केला आहे.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = ही वाचनखूण ({ $shortcut }) संपादीत करा
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = या पृष्ठाला वाचनखूण लावा ({ $shortcut })
 
 ## Page Action Context Menu
 
