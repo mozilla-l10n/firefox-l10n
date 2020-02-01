@@ -109,6 +109,14 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt içün kanaviçe veriler istihracını bloklağan olasıñız.
 urlbar-midi-blocked =
     .tooltiptext = Bu sayt içün MİDİ irişimini bloklağan olasıñız.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Bu saifeimini tarir et ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Bu saifeni imle ({ $shortcut })
 
 ## Page Action Context Menu
 

@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Bu Saifeni İmle
     .accesskey = B
+main-context-menu-bookmark-add =
+    .aria-label = Bu Saifeni İmle
+    .accesskey = B
+    .tooltiptext = Bu saifeni imle
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Bu Saifeni İmle
+    .accesskey = B
+    .tooltiptext = Bu saifeni imle ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Bu Saifeimini Tarir Et
+    .accesskey = B
+    .tooltiptext = Bu saifeimini tarir et
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Bu Saifeimini Tarir Et
+    .accesskey = B
+    .tooltiptext = Bu saifeimini tarir et ({ $shortcut })
 main-context-menu-open-link =
     .label = İlişimni Aç
     .accesskey = A
