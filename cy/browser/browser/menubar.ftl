@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Sgrin Lawn
     .accesskey = S
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Dangos Pob Tab
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = T
 menu-bookmarks-show-all =
     .label = Dangos Pob Nod Tudalen
+menu-bookmark-this-page =
+    .label = Gosod Nod Tudalen i'r Dudalen
 menu-bookmarks-all-tabs =
     .label = Nod Tudalen i Bob Tab…
 menu-bookmarks-toolbar =
