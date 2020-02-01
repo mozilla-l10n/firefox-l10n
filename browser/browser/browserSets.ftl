@@ -6,6 +6,8 @@ window-minimize-command =
     .label = குறைத்தல்
 window-zoom-command =
     .label = அளவிடுதல்
+search-find-again-shortcut-alt =
+    .keycode = VK_F3
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
