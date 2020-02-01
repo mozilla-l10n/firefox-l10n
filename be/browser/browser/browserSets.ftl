@@ -14,6 +14,8 @@ location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
     .key = а
+search-focus-shortcut =
+    .key = k
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
@@ -25,6 +27,15 @@ search-find-again-shortcut-alt =
     .keycode = VK_F3
 search-find-selection-shortcut =
     .key = e
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] j
+           *[other] e
+        }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -79,6 +90,8 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
