@@ -10,6 +10,8 @@ window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
+tab-new-shortcut =
+    .key = t
 search-focus-shortcut =
     .key = k
 # Verify what shortcut for that operation
@@ -32,6 +34,8 @@ downloads-shortcut =
         }
 addons-shortcut =
     .key = A
+file-open-shortcut =
+    .key = o
 save-page-shortcut =
     .key = s
 page-source-shortcut =
@@ -45,6 +49,8 @@ page-source-shortcut-safari =
     .key = u
 page-info-shortcut =
     .key = i
+print-shortcut =
+    .key = p
 nav-reload-shortcut =
     .key = r
 # Shortcut available only on macOS.
@@ -102,3 +108,9 @@ private-browsing-shortcut =
 
 help-shortcut =
     .key = ?
+preferences-shortcut =
+    .key = ,
+hide-app-shortcut =
+    .key = V
+hide-other-apps-shortcut =
+    .key = H

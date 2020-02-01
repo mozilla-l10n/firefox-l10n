@@ -54,6 +54,15 @@ urlbar-translated-notification-anchor =
     .tooltiptext = Säitiwwersetzung geréieren
 urlbar-addons-notification-anchor =
     .tooltiptext = Add-on Installatioun Messagepanneau opmaachen
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Du hues den Zougrëff op d'Informatioun vun Denger Positioun fir dësen Internetsite gespaart.
 urlbar-camera-blocked =
@@ -62,6 +71,10 @@ urlbar-microphone-blocked =
     .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
 urlbar-screen-blocked =
     .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Dëst Lieszeechen änneren ({ $shortcut })
 
 ## Page Action Context Menu
 
