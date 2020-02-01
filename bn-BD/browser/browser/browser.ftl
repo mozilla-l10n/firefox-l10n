@@ -109,6 +109,14 @@ urlbar-canvas-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন অবরোধ করেছেন।
 urlbar-midi-blocked =
     .tooltiptext = আপনি সাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = এই বুকমার্কটি সম্পাদনা ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = { " " }({ $shortcut }) পাতাটি বুকমার্ক করুন
 
 ## Page Action Context Menu
 
