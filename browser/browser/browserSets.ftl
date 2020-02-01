@@ -81,6 +81,8 @@ nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-sidebar-shortcut =
+    .key = h
 full-screen-shortcut =
     .key = f
 # Verify what shortcut for that operation
