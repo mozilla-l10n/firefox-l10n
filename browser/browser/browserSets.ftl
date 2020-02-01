@@ -4,12 +4,23 @@
 
 window-new-shortcut =
     .key = N
+location-open-shortcut =
+    .key = l
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
     .key = k
 search-find-again-shortcut =
     .key = g
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] j
+           *[other] e
+        }
 page-source-shortcut =
     .key = u
 nav-back-shortcut-alt =
@@ -26,6 +37,11 @@ history-show-all-shortcut =
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-sidebar-shortcut =
+    .key = b
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -51,6 +67,8 @@ full-zoom-reset-shortcut-alt =
 
 bidi-switch-direction-shortcut =
     .key = X
+private-browsing-shortcut =
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
