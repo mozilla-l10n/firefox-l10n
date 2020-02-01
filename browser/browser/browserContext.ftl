@@ -68,7 +68,7 @@ main-context-menu-bookmark-page =
 main-context-menu-bookmark-add =
     .aria-label = نشانک‌گذاری این صفحه
     .accesskey = m
-    .tooltiptext = نشانک‌گذاری این صفحه(%1$S)
+    .tooltiptext = نشانک‌گذاری این صفحه({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
