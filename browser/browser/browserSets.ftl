@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Minikan
 window-zoom-command =
     .label = Perbesaran
 window-new-shortcut =
     .key = N
+window-minimize-shortcut =
+    .key = m
 tab-new-shortcut =
     .key = t
+location-open-shortcut =
+    .key = l
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
@@ -32,6 +38,15 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
@@ -44,6 +59,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -66,6 +83,15 @@ picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
 bookmark-this-page-shortcut =
     .key = d
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-all-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] o
+           *[other] i
+        }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -102,3 +128,11 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
