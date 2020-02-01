@@ -65,6 +65,16 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = මෙම පිටුව සලකුණු කරගන්න
     .accesskey = m
+main-context-menu-bookmark-change =
+    .aria-label = මෙම පිටු සලකුණ සකසන්න
+    .accesskey = m
+    .tooltiptext = මෙම පිටු සලකුණ සකසන්න
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = මෙම පිටු සලකුණ සකසන්න
+    .accesskey = m
+    .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
 main-context-menu-open-link =
     .label = ඈඳුම විවෘත කරන්න
     .accesskey = O
