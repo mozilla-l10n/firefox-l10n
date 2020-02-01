@@ -17,7 +17,7 @@ tab-new-shortcut =
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
-    .key = з
+    .key = D
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -63,7 +63,7 @@ page-source-shortcut =
 # Safari variant is an alias provided for the convenience of Safari and Chrome
 # users on macOS. See bug 1398988.
 page-source-shortcut-safari =
-    .key = ж
+    .key = U
 page-info-shortcut =
     .key = i
 print-shortcut =
