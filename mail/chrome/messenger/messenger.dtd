@@ -158,7 +158,7 @@
 
 <!ENTITY folderView.label "文件夹">
 <!ENTITY folderView.accesskey "F">
-<!ENTITY unifiedFolders.label "统一的">
+<!ENTITY unifiedFolders.label "统一">
 <!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "全部">
 <!ENTITY allFolders.accesskey "A">
@@ -176,7 +176,7 @@
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "排序">
 <!ENTITY sortMenu.accesskey "S">
-<!ENTITY sortByDateCmd.label "按日期">
+<!ENTITY sortByDateCmd.label "日期">
 <!ENTITY sortByDateCmd.accesskey "e">
 <!ENTITY sortByReceivedCmd.label "接收时间">
 <!ENTITY sortByReceivedCmd.accesskey "v">
@@ -202,9 +202,9 @@
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByCorrespondentCmd.label "通信者">
 <!ENTITY sortByCorrespondentCmd.accesskey "e">
-<!ENTITY sortByUnreadCmd.label "按已读">
+<!ENTITY sortByUnreadCmd.label "已读">
 <!ENTITY sortByUnreadCmd.accesskey "R">
-<!ENTITY sortByOrderReceivedCmd.label "按接收顺序">
+<!ENTITY sortByOrderReceivedCmd.label "接收顺序">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
 <!ENTITY sortAscending.label "升序">
 <!ENTITY sortAscending.accesskey "A">
@@ -258,7 +258,7 @@
 <!ENTITY bodyMenuFeed.accesskey "B">
 <!ENTITY viewFeedWebPage.label "网页">
 <!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY viewFeedSummary.label "概述">
+<!ENTITY viewFeedSummary.label "摘要">
 <!ENTITY viewFeedSummary.accesskey "m">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "默认格式">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
@@ -446,11 +446,11 @@
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "当打开收取点消息时">
 <!ENTITY openFeedMessage1.accesskey "O">
-<!ENTITY openFeedWebPage.label "作为网页打开">
+<!ENTITY openFeedWebPage.label "打开为网页">
 <!ENTITY openFeedWebPage.accesskey "W">
-<!ENTITY openFeedSummary.label "作为摘要打开">
+<!ENTITY openFeedSummary.label "打开为摘要">
 <!ENTITY openFeedSummary.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "切换是否显示消息面板中的网页和摘要">
+<!ENTITY openFeedWebPageInMP.label "在消息窗格中切换网页和摘要">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
@@ -725,7 +725,7 @@
 <!ENTITY receivedColumn.label "接收时间">
 <!ENTITY starredColumn.label "已加星标">
 <!ENTITY locationColumn.label "位置">
-<!ENTITY idColumn.label "按接收时间排序">
+<!ENTITY idColumn.label "接收顺序">
 <!ENTITY attachmentColumn.label "附件">
 
 <!-- Thread Pane Tooltips -->
