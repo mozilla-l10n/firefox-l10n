@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = पूर्ण स्क्रीन
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = सभी टैब दिखाएँ
@@ -189,6 +189,10 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = सभी बुकमार्कों को दिखाएँ
+menu-bookmark-this-page =
+    .label = यह पृष्ठ बुकमार्कित करें
+menu-bookmark-edit =
+    .label = यह बुकमार्क संपादित करें
 menu-bookmarks-all-tabs =
     .label = सभी टैब बुकमार्कित करें…
 menu-bookmarks-toolbar =

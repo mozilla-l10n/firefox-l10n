@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = यह पृष्ठ बुकमार्कित करें
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = यह पृष्ठ बुकमार्कित करें
+    .accesskey = m
+    .tooltiptext = यह पृष्ठ बुकमार्कित करें
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = यह पृष्ठ बुकमार्कित करें
+    .accesskey = m
+    .tooltiptext = यह पृष्ठ बुकमार्कित करें ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = यह बुकमार्क संपादित करें
+    .accesskey = m
+    .tooltiptext = यह बुकमार्क संपादित करें
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = यह बुकमार्क संपादित करें
+    .accesskey = m
+    .tooltiptext = यह बुकमार्क संपादित करें ({ $shortcut })
 main-context-menu-open-link =
     .label = कड़ी खोलें
     .accesskey = O
@@ -114,7 +134,7 @@ main-context-menu-media-pause =
     .label = ठहरें
     .accesskey = P
 
-
+##
 
 main-context-menu-media-mute =
     .label = मौन
@@ -156,7 +176,7 @@ main-context-menu-media-hide-controls =
     .label = नियंत्रण छिपाएँ
     .accesskey = C
 
-
+##
 
 main-context-menu-media-video-fullscreen =
     .label = पूर्ण स्क्रीन
