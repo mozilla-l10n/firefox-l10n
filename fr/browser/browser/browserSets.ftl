@@ -61,6 +61,8 @@ history-show-all-shortcut =
     .key = h
 history-sidebar-shortcut =
     .key = h
+full-screen-shortcut =
+    .key = f
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
