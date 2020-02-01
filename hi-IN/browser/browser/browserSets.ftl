@@ -8,14 +8,23 @@ window-zoom-command =
     .label = बड़ा-छोटा करें
 window-new-shortcut =
     .key = N
+window-minimize-shortcut =
+    .key = m
 close-shortcut =
     .key = W
+tab-new-shortcut =
+    .key = t
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
     .key = k
+# This shortcut is used in two contexts:
+#   - web search
+#   - find in page
+find-shortcut =
+    .key = f
 search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
@@ -40,6 +49,12 @@ downloads-shortcut =
             [linux] y
            *[other] j
         }
+addons-shortcut =
+    .key = A
+file-open-shortcut =
+    .key = o
+save-page-shortcut =
+    .key = s
 page-source-shortcut =
     .key = u
 # This should match the Option+Command keyboard shortcut letter that Safari
@@ -59,6 +74,8 @@ nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
+nav-reload-shortcut =
+    .key = r
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
@@ -84,6 +101,15 @@ picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
 bookmark-this-page-shortcut =
     .key = d
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-all-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] o
+           *[other] i
+        }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
