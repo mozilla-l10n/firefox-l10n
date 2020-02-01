@@ -4,6 +4,8 @@
 
 window-minimize-command =
     .label = Peuubit
+window-zoom-command =
+    .label = Peutoe
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
