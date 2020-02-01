@@ -27,6 +27,8 @@ nav-fwd-shortcut-alt =
     .key = ]
 history-show-all-shortcut =
     .key = H
+full-screen-shortcut =
+    .key = f
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
