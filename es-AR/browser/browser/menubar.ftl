@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = l
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mostrar todas las pestañas
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-show-all =
     .label = Mostrar todos los marcadores
+menu-bookmark-this-page =
+    .label = Marcar esta página
+menu-bookmark-edit =
+    .label = Editar este marcador
 menu-bookmarks-all-tabs =
     .label = Marcar todas las pestañas…
 menu-bookmarks-toolbar =
