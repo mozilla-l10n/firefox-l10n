@@ -10,6 +10,8 @@ window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
+close-shortcut =
+    .key = W
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
@@ -47,8 +49,12 @@ downloads-shortcut =
         }
 addons-shortcut =
     .key = A
+file-open-shortcut =
+    .key = o
 save-page-shortcut =
     .key = s
+page-source-shortcut =
+    .key = u
 # This should match the Option+Command keyboard shortcut letter that Safari
 # and Chrome use for "View Source" on macOS. `page-source-shortcut` above
 # is Firefox's official keyboard shortcut shown in the GUI.
@@ -58,6 +64,8 @@ page-source-shortcut-safari =
     .key = u
 page-info-shortcut =
     .key = i
+print-shortcut =
+    .key = p
 mute-toggle-shortcut =
     .key = M
 nav-back-shortcut-alt =
