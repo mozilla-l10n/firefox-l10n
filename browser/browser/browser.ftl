@@ -111,6 +111,14 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı əngəllədiniz.
 urlbar-midi-blocked =
     .tooltiptext = Bu saytın MIDI işlətməsini əngəlləmisiniz.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Bu əlfəcini redaktə et ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Bu səhifəni əlfəcinlə ({ $shortcut })
 
 ## Page Action Context Menu
 
