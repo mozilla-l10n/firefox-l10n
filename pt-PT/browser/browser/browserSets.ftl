@@ -18,6 +18,8 @@ history-show-all-shortcut =
     .key = H
 full-screen-shortcut =
     .key = f
+picture-in-picture-toggle-shortcut =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
