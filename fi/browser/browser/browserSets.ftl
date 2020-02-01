@@ -2,12 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-new-shortcut =
+    .key = N
+close-shortcut =
+    .key = W
+tab-new-shortcut =
+    .key = t
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
     .key = k
+# This shortcut is used in two contexts:
+#   - web search
+#   - find in page
+find-shortcut =
+    .key = f
+search-find-again-shortcut =
+    .key = g
+search-find-again-shortcut-alt =
+    .keycode = VK_F3
 search-find-selection-shortcut =
     .key = e
 # Verify what shortcut for that operation
@@ -19,14 +34,60 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
+        }
 addons-shortcut =
     .key = A
+file-open-shortcut =
+    .key = o
+save-page-shortcut =
+    .key = s
+page-source-shortcut =
+    .key = u
+# This should match the Option+Command keyboard shortcut letter that Safari
+# and Chrome use for "View Source" on macOS. `page-source-shortcut` above
+# is Firefox's official keyboard shortcut shown in the GUI.
+# Safari variant is an alias provided for the convenience of Safari and Chrome
+# users on macOS. See bug 1398988.
+page-source-shortcut-safari =
+    .key = u
+page-info-shortcut =
+    .key = i
+print-shortcut =
+    .key = p
 mute-toggle-shortcut =
     .key = M
+nav-back-shortcut-alt =
+    .key = Ö
+nav-fwd-shortcut-alt =
+    .key = Ä
+nav-reload-shortcut =
+    .key = r
+# Shortcut available only on macOS.
+nav-stop-shortcut =
+    .key = .
 history-show-all-shortcut =
     .key = H
+history-sidebar-shortcut =
+    .key = h
 full-screen-shortcut =
     .key = f
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+reader-mode-toggle-shortcut =
+    .key =
+        { PLATFORM() ->
+            [windows] VK_F9
+           *[other] R
+        }
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -73,12 +134,16 @@ full-zoom-reset-shortcut-alt =
 
 ##
 
+bidi-switch-direction-shortcut =
+    .key = X
 private-browsing-shortcut =
     .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 help-shortcut =
     .key = ?
 preferences-shortcut =
