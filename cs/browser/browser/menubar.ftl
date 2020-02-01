@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Celá obrazovka
     .accesskey = C
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Zobrazit všechny panely
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = o
 menu-bookmarks-show-all =
     .label = Zobrazit všechny záložky
+menu-bookmark-this-page =
+    .label = Přidat stránku do záložek
 menu-bookmarks-all-tabs =
     .label = Přidat všechny panely do záložek…
 menu-bookmarks-toolbar =
