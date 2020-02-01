@@ -139,5 +139,7 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 preferences-shortcut =
     .key = ,
