@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = न्यूनतम करें
+window-zoom-command =
+    .label = बड़ा-छोटा करें
 window-new-shortcut =
     .key = N
+close-shortcut =
+    .key = W
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
@@ -12,6 +18,10 @@ search-focus-shortcut =
     .key = k
 search-find-again-shortcut =
     .key = g
+search-find-again-shortcut-alt =
+    .keycode = { " " }VK_F3
+search-find-selection-shortcut =
+    .key = e
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -21,8 +31,23 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+downloads-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] y
+           *[other] j
+        }
 page-source-shortcut =
     .key = u
+page-info-shortcut =
+    .key = i
+print-shortcut =
+    .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -32,11 +57,17 @@ nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-sidebar-shortcut =
+    .key = H
+full-screen-shortcut =
+    .key = f
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+bookmark-this-page-shortcut =
+    .key = d
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -73,7 +104,13 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H
