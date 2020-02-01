@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = ઘટાડવા
+window-zoom-command =
+    .label = મોટું
 window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
@@ -47,10 +51,19 @@ save-page-shortcut =
     .key = s
 page-source-shortcut =
     .key = u
+# This should match the Option+Command keyboard shortcut letter that Safari
+# and Chrome use for "View Source" on macOS. `page-source-shortcut` above
+# is Firefox's official keyboard shortcut shown in the GUI.
+# Safari variant is an alias provided for the convenience of Safari and Chrome
+# users on macOS. See bug 1398988.
+page-source-shortcut-safari =
+    .key = u
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
+nav-reload-shortcut =
+    .key = r
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
