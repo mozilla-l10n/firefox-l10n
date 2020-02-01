@@ -14,6 +14,8 @@ close-shortcut =
     .key = W
 tab-new-shortcut =
     .key = t
+location-open-shortcut =
+    .key = l
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
@@ -62,6 +64,8 @@ page-source-shortcut =
 # users on macOS. See bug 1398988.
 page-source-shortcut-safari =
     .key = u
+page-info-shortcut =
+    .key = i
 print-shortcut =
     .key = p
 mute-toggle-shortcut =
