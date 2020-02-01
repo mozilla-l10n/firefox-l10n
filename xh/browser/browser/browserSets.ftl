@@ -4,6 +4,8 @@
 
 window-minimize-command =
     .label = Nciphisa
+window-zoom-command =
+    .label = Sondeza kufutshane
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 # Pick the key that is commonly present
