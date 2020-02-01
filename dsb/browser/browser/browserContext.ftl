@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Toś ten bok ako cytańske znamje składowaś
     .accesskey = c
+main-context-menu-bookmark-add =
+    .aria-label = Toś ten bok ako cytańske znamje składowaś
+    .accesskey = c
+    .tooltiptext = Toś ten bok ako cytańske znamje składowaś
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Toś ten bok ako cytańske znamje składowaś
+    .accesskey = c
+    .tooltiptext = Toś ten bok ({ $shortcut }) ako cytańske znamje składowaś
+main-context-menu-bookmark-change =
+    .aria-label = Toś to cytańske znamje wobźěłaś
+    .accesskey = c
+    .tooltiptext = Toś to cytańske znamje wobźěłaś
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Toś to cytańske znamje wobźěłaś
+    .accesskey = c
+    .tooltiptext = Toś to cytańske znamje ({ $shortcut }) wobźěłaś
 main-context-menu-open-link =
     .label = Wótkaz wócyniś
     .accesskey = c
