@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼କୁ ଦର୍ଶାନ୍ତୁ
@@ -209,9 +209,6 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = ଏଡ଼-ଅନଗୁଡ଼ିକୁ
     .accesskey = A
-menu-tools-sync-sign-in =
-    .label = { -sync-brand-short-name }ରେ ଲଗଇନ କରନ୍ତୁ...
-    .accesskey = y
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name }ରେ ସାଇନ ଇନ କରନ୍ତୁ
     .accesskey = ଜି
@@ -221,9 +218,6 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
     .accesskey = S
-menu-tools-sync-re-auth =
-    .label = { -sync-brand-short-name } ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ…
-    .accesskey = R
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ…
     .accesskey = ର
