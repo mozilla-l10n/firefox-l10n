@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Layar Penuh
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Tampilkan Semua Tab
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-show-all =
     .label = Tampilkan Semua Markah…
+menu-bookmark-this-page =
+    .label = Markahi Laman ini
 menu-bookmarks-all-tabs =
     .label = Markahi Semua Tab…
 menu-bookmarks-toolbar =
