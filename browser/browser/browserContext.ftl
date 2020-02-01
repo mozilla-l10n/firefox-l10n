@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = ఈ పేజీని ఇష్టాంశముచేయి
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = ఈ పేజీని ఇష్టాంశముచేయి
+    .accesskey = m
+    .tooltiptext = ఈ పేజీను ఇష్టాంశముచేయుము
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = ఈ పేజీని ఇష్టాంశముచేయి
+    .accesskey = m
+    .tooltiptext = ఈ పేజీను ఇష్టాంశముచేయుము ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
+    .accesskey = m
+    .tooltiptext = ఈ ఇష్టాంశమును సవరించు
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
+    .accesskey = m
+    .tooltiptext = ఈ ఇష్టాంశమును సవరించు ({ $shortcut })
 main-context-menu-open-link =
     .label = లింకును తెరువు
     .accesskey = O
