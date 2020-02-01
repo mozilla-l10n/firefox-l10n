@@ -25,6 +25,8 @@ search-focus-shortcut =
 #   - find in page
 find-shortcut =
     .key = f
+search-find-again-shortcut =
+    .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 search-find-selection-shortcut =
