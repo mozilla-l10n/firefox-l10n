@@ -62,6 +62,8 @@ nav-reload-shortcut =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+history-show-all-shortcut =
+    .key = H
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
