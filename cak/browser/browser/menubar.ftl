@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Chijun ruwa kematz'ib'
     .accesskey = C
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Kek'ut pe ronojel ri taq ruwi'
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = y
 menu-bookmarks-show-all =
     .label = Kek'ut konojel ri taq yaketal
+menu-bookmark-this-page =
+    .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
+menu-bookmark-edit =
+    .label = Tinuk' re yaketal re'
 menu-bookmarks-all-tabs =
     .label = Ketz'aqatisäx taq ruwi' pa taq yaketal…
 menu-bookmarks-toolbar =

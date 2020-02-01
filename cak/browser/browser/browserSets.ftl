@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Ch'utinarisaxïk
 window-zoom-command =
     .label = Sum
 window-new-shortcut =
@@ -57,6 +59,8 @@ page-info-shortcut =
     .key = i
 print-shortcut =
     .key = p
+mute-toggle-shortcut =
+    .key = M
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
@@ -68,6 +72,8 @@ nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-sidebar-shortcut =
+    .key = h
 full-screen-shortcut =
     .key = f
 # Pick the key that is commonly present
@@ -122,6 +128,8 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 help-shortcut =
     .key = ?
 preferences-shortcut =
