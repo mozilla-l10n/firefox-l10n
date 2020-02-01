@@ -21,6 +21,8 @@ nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
+history-show-all-shortcut =
+    .key = H
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
