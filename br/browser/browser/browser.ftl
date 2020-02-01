@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.
 urlbar-install-blocked =
     .tooltiptext = Stanket ho peus ar staliadurioù askouezhioù war al lec'hienn-mañ.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Embann ar sined-mañ ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Lakaat ur sined war ar bajenn-mañ ({ $shortcut })
 
 ## Page Action Context Menu
 
