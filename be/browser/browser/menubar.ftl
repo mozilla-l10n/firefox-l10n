@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Увесь экран
     .accesskey = У
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Паказаць усе карткі
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = З
 menu-bookmarks-show-all =
     .label = Паказаць усе закладкі
+menu-bookmark-edit =
+    .label = Правіць гэтую закладку
 menu-bookmarks-all-tabs =
     .label = Закладкі на ўсе карткі…
 menu-bookmarks-toolbar =
