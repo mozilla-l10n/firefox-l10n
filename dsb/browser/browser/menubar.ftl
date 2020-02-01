@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Połna wobrazowka
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Wšykne rejtarki pokazaś
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = C
 menu-bookmarks-show-all =
     .label = Wše cytańske znamjenja pokazaś
+menu-bookmark-this-page =
+    .label = Toś ten bok ako cytańske znamje składowaś
+menu-bookmark-edit =
+    .label = Toś to cytańske znamje wobźěłaś
 menu-bookmarks-all-tabs =
     .label = Wšykne rejtarki ako cytańske znamjenja…
 menu-bookmarks-toolbar =
