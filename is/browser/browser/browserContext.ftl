@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Setja síðu í bókamerki
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Setja síðu í bókamerki
+    .accesskey = m
+    .tooltiptext = Setja síðu í bókamerki
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Setja síðu í bókamerki
+    .accesskey = m
+    .tooltiptext = Setja síðu í bókamerki ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Breyta bókamerki
+    .accesskey = m
+    .tooltiptext = Breyta bókamerki
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Breyta bókamerki
+    .accesskey = m
+    .tooltiptext = Breyta bókamerki ({ $shortcut })
 main-context-menu-open-link =
     .label = Opna tengil
     .accesskey = O
