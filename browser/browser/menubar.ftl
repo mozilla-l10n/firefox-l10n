@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Toàn màn hình
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Hiện tất cả các thẻ
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-show-all =
     .label = Xem tất cả trang đánh dấu
+menu-bookmark-this-page =
+    .label = Đánh dấu trang này
 menu-bookmarks-all-tabs =
     .label = Đánh dấu tất cả các thẻ…
 menu-bookmarks-toolbar =
