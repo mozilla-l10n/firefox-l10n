@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = ملء الشاشة
     .accesskey = ش
 
-
+##
 
 menu-view-show-all-tabs =
     .label = أظهِر كل الألسنة
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = ع
 menu-bookmarks-show-all =
     .label = أظهِر كل العلامات
+menu-bookmark-this-page =
+    .label = علّم هذه الصفحة
 menu-bookmarks-all-tabs =
     .label = علّم كل الألسنة…
 menu-bookmarks-toolbar =
