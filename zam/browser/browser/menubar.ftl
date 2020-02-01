@@ -167,7 +167,7 @@ menu-bookmarks-menu =
 menu-bookmarks-show-all =
     .label = Mb-lòɁ ré tá kó ndó~làz=ná
 menu-bookmark-this-page =
-    .label = Tób kùe loo ndó~làz=ná{ " " }
+    .label = Tób kùe loo ndó~làz=ná
 menu-bookmark-edit =
     .label = Tùs kùe Ndó~làz=ná
 menu-bookmarks-all-tabs =
