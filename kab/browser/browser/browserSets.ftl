@@ -4,6 +4,8 @@
 
 window-minimize-command =
     .label = Semẓi
+window-zoom-command =
+    .label = Semɣer/Semẓi
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =

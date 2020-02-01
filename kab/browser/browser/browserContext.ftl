@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Creḍ asebter-a
     .accesskey = c
+main-context-menu-bookmark-add =
+    .aria-label = Creḍ asebter-a
+    .accesskey = c
+    .tooltiptext = Creḍ asebter-a
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Creḍ asebter-a
+    .accesskey = c
+    .tooltiptext = Creḍ asebter-a ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Ẓreg tacreḍṭ n usebter-a
+    .accesskey = c
+    .tooltiptext = Ẓreg tacreḍṭ-a n usebter
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Ẓreg tacreḍṭ n usebter-a
+    .accesskey = c
+    .tooltiptext = Ẓreg tacreḍṭ-a n usebter ({ $shortcut })
 main-context-menu-open-link =
     .label = Ldi aseɣwen
     .accesskey = L
@@ -114,7 +134,7 @@ main-context-menu-media-pause =
     .label = Asteɛfu
     .accesskey = A
 
-
+##
 
 main-context-menu-media-mute =
     .label = Tasusmi
@@ -156,7 +176,7 @@ main-context-menu-media-hide-controls =
     .label = Ffer isenqaden
     .accesskey = F
 
-
+##
 
 main-context-menu-media-video-fullscreen =
     .label = Agdil ačaran
