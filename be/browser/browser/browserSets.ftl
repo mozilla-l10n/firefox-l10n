@@ -6,6 +6,8 @@ window-minimize-command =
     .label = Мінімізаваць
 window-zoom-command =
     .label = Павялічыць
+window-new-shortcut =
+    .key = N
 window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
@@ -64,6 +66,8 @@ nav-fwd-shortcut-alt =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+history-sidebar-shortcut =
+    .key = h
 full-screen-shortcut =
     .key = f
 # Pick the key that is commonly present
