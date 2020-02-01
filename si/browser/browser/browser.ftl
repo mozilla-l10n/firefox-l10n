@@ -102,6 +102,10 @@ urlbar-midi-blocked =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = පිටු සලකුණු කරන්න ({ $shortcut })
 
 ## Page Action Context Menu
 
