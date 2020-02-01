@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = បង្រួម​អប្បបរមា
+window-zoom-command =
+    .label = ពង្រីក
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 nav-back-shortcut-alt =
@@ -18,7 +22,16 @@ picture-in-picture-toggle-shortcut-alt =
 ## If shift key is needed with your locale popular keyboard for them,
 ## you can use these alternative items. Otherwise, their values should be empty.
 
+# If in keyboard layouts popular for your locale you need to use the shift key
+# to access the original shortcuts, the following shortcuts can be used.
+# Otherwise their values should remain empty.
+full-zoom-reduce-shortcut-alt =
+    .key = { "" }
 full-zoom-enlarge-shortcut-alt2 =
+    .key = { "" }
+full-zoom-reset-shortcut =
+    .key = 0
+full-zoom-reset-shortcut-alt =
     .key = { "" }
 
 ##
@@ -27,3 +40,7 @@ full-zoom-enlarge-shortcut-alt2 =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+help-shortcut =
+    .key = ?
+preferences-shortcut =
+    .key = ,
