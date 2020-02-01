@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Pantaila osoa
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Erakutsi fitxa guztiak
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = m
 menu-bookmarks-show-all =
     .label = Erakutsi laster-marka guztiak
+menu-bookmark-this-page =
+    .label = Egin orriaren laster-marka
 menu-bookmarks-all-tabs =
     .label = Egin fitxa guztien laster-marka…
 menu-bookmarks-toolbar =
