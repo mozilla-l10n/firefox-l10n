@@ -4,6 +4,7 @@
 
 <!ENTITY  intro2.label                "열기 선택:">
 <!ENTITY  from.label                  "원본 위치:">
+<!ENTITY  actionQuestion.label        "작업 선택:">
 
 <!ENTITY  openWith.label              "열기:">
 <!ENTITY  openWith.accesskey          "o">
