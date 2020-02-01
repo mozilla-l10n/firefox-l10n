@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Plen schermo
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Monstrar tote le schedas
@@ -192,6 +192,10 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-show-all =
     .label = Monstrar tote le marcapaginas
+menu-bookmark-this-page =
+    .label = Adder un marcapaginas
+menu-bookmark-edit =
+    .label = Modificar iste marcapaginas
 menu-bookmarks-all-tabs =
     .label = Adder marcapaginas sur tote le schedas…
 menu-bookmarks-toolbar =
