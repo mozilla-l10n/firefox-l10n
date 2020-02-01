@@ -118,6 +118,14 @@ urlbar-midi-blocked =
     .tooltiptext = Blokirali ste MIDI pristup za ovu web stranicu.
 urlbar-install-blocked =
     .tooltiptext = Ovoj stranici ste zabranili instalaciju dodataka.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Uredi ovu zabilješku ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Zabilježi ovu stranicu ({ $shortcut })
 
 ## Page Action Context Menu
 
