@@ -6,6 +6,8 @@ window-minimize-command =
     .label = Minimalisearje
 window-zoom-command =
     .label = Zoom
+window-new-shortcut =
+    .key = N
 window-minimize-shortcut =
     .key = m
 tab-new-shortcut =
@@ -75,6 +77,8 @@ full-screen-shortcut =
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+bookmark-this-page-shortcut =
+    .key = d
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -116,6 +120,8 @@ full-zoom-reset-shortcut-alt =
 
 bidi-switch-direction-shortcut =
     .key = X
+private-browsing-shortcut =
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
