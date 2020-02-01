@@ -110,6 +110,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Avètz empachat aqueste site de traire d’informacions de canvas.
 urlbar-midi-blocked =
     .tooltiptext = Avètz blocat l’accès MIDI per aqueste site web.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Marcar aquesta pagina ({ $shortcut })
 
 ## Page Action Context Menu
 
