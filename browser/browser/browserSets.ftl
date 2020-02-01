@@ -17,7 +17,7 @@ tab-new-shortcut =
 location-open-shortcut =
     .key = l
 location-open-shortcut-alt =
-    .key = g
+    .key = D
 search-focus-shortcut =
     .key = k
 # This shortcut is used in two contexts:
@@ -84,7 +84,7 @@ history-show-all-shortcut =
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
-    .key = S
+    .key = F
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
