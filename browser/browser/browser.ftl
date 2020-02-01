@@ -116,7 +116,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = { " " }({ $shortcut }) পাতাটি বুকমার্ক করুন
+    .tooltiptext = ({ $shortcut }) পাতাটি বুকমার্ক করুন
 
 ## Page Action Context Menu
 
