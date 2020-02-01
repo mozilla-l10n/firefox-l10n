@@ -55,6 +55,23 @@ urlbar-translated-notification-anchor =
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = साइट संगे अपन कैमरा आ माइक्रोफोन साझा करबाक व्यवस्था प्रबंधि‍त करू
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = ई पुस्तकचिह्न संपादित करू ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = ई पृष्ठ पुस्तकचिह्नित करू ({ $shortcut })
+
 ## Page Action Context Menu
 
 
