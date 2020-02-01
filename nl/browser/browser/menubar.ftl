@@ -156,7 +156,7 @@ menu-view-full-screen =
     .label = Volledig scherm
     .accesskey = d
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Alle tabbladen tonen
@@ -192,6 +192,8 @@ menu-bookmarks-menu =
     .accesskey = a
 menu-bookmarks-show-all =
     .label = Alle bladwijzers tonen
+menu-bookmark-this-page =
+    .label = Bladwijzer voor deze pagina maken
 menu-bookmarks-all-tabs =
     .label = Bladwijzer voor alle tabbladen maken…
 menu-bookmarks-toolbar =
