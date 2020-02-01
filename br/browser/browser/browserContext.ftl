@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Lakaat ur sined war ar bajenn-mañ
     .accesskey = b
+main-context-menu-bookmark-add =
+    .aria-label = Lakaat ur sined war ar bajenn-mañ
+    .accesskey = b
+    .tooltiptext = Lakaat ur sined war ar bajenn-mañ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Lakaat ur sined war ar bajenn-mañ
+    .accesskey = b
+    .tooltiptext = Lakaat ur sined war ar bajenn-mañ ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Embann ar sined-mañ
+    .accesskey = b
+    .tooltiptext = Embann ar sined-mañ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Embann ar sined-mañ
+    .accesskey = b
+    .tooltiptext = Embann ar sined-mañ ({ $shortcut })
 main-context-menu-open-link =
     .label = Digeriñ an ere
     .accesskey = g
