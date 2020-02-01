@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Saglabāt šo lapu grāmatzīmēs
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Saglabāt šo lapu grāmatzīmēs
+    .accesskey = m
+    .tooltiptext = Saglabāt šo lapu grāmatzīmēs
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Saglabāt šo lapu grāmatzīmēs
+    .accesskey = m
+    .tooltiptext = Saglabāt šo lapu grāmatzīmēs ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Rediģēt šo grāmatzīmi
+    .accesskey = m
+    .tooltiptext = Rediģēt šo grāmatzīmi
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Rediģēt šo grāmatzīmi
+    .accesskey = m
+    .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
 main-context-menu-open-link =
     .label = Atvērt saiti
     .accesskey = A
