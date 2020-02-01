@@ -66,6 +66,15 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Remanar compartir cámara y/o micrófonu col sitiu
 urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensaxes d'instalación de complementos
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Bloquiesti la to información d'allugamientu pa esti sitiu web.
 urlbar-web-notifications-blocked =
@@ -78,6 +87,14 @@ urlbar-screen-blocked =
     .tooltiptext = Bloquiesti la compartición de pantalla pa esti sitiu web.
 urlbar-popup-blocked =
     .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Editar esti marcardor ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Amestar esta páxina a marcadores ({ $shortcut })
 
 ## Page Action Context Menu
 
