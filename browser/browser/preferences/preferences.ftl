@@ -34,7 +34,7 @@ search-input-box =
             [windows] 옵션에서 찾기
            *[other] 설정에서 찾기
         }
-managed-notice = 속한 회사나 단체에서 브라우저를 관리하고 있습니다.
+managed-notice = 사용자의 회사나 단체에서 브라우저를 관리하고 있습니다.
 pane-general-title = 일반
 category-general =
     .tooltiptext = { pane-general-title }
