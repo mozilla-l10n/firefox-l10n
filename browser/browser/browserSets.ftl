@@ -28,14 +28,29 @@ picture-in-picture-toggle-shortcut-alt =
 ## If shift key is needed with your locale popular keyboard for them,
 ## you can use these alternative items. Otherwise, their values should be empty.
 
+# If in keyboard layouts popular for your locale you need to use the shift key
+# to access the original shortcuts, the following shortcuts can be used.
+# Otherwise their values should remain empty.
+full-zoom-reduce-shortcut-alt =
+    .key = { "" }
+full-zoom-enlarge-shortcut-alt2 =
+    .key = { "" }
 full-zoom-reset-shortcut =
     .key = 0
+full-zoom-reset-shortcut-alt =
+    .key = { "" }
 
 ##
 
+bidi-switch-direction-shortcut =
+    .key = X
+private-browsing-shortcut =
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
 help-shortcut =
     .key = ?
+preferences-shortcut =
+    .key = ,
