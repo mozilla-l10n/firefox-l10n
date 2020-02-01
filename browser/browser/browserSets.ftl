@@ -4,6 +4,8 @@
 
 window-minimize-command =
     .label = সৰু কৰক
+window-zoom-command =
+    .label = জুম কৰক
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
@@ -96,6 +98,8 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
