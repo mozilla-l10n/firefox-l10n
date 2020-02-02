@@ -9,6 +9,7 @@ forward = Aurrera
 reload = Berritu
 home = Hasiera
 fullscreen = Pantaila osoa
+touchbar-fullscreen-exit = Irten pantaila osotik
 find = Bilatu
 new-tab = Fitxa berria
 add-bookmark = Gehitu laster-marka
@@ -33,5 +34,5 @@ search-opentabs = Irekitako fitxak
 search-tags = Etiketak
 search-titles = Izenburuak
 
-
+##
 
