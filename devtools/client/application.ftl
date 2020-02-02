@@ -62,7 +62,7 @@ serviceworker-empty-intro = 先注册一个 Service Worker 才可在此查看。
 serviceworker-empty-suggestions = 如果当前页面中应有 Service Worker，您可以尝试：
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = 在控制台中查找错误。<a>打开控制台</a>
+serviceworker-empty-suggestions-console = 在控制台中排查错误。<a>打开控制台</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
 serviceworker-empty-suggestions-debugger = 逐步注册您的 Service Worker，检查是否有异常发生。<a>打开调试器</a>
