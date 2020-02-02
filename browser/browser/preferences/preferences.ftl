@@ -328,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
@@ -584,6 +584,9 @@ containers-header = Sudėtinio rodinio kortelės
 containers-add-button =
     .label = Pridėti naują sudėtinį rodinį
     .accesskey = P
+containers-new-tab-check =
+    .label = Pasirinkti sudėtinį rodinį kiekvienai naujai kortelei
+    .accesskey = s
 containers-preferences-button =
     .label = Nuostatos
 containers-remove-button =
@@ -922,7 +925,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasirinktinė
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
