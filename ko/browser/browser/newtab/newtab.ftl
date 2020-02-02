@@ -182,7 +182,7 @@ newtab-discovery-empty-section-topstories-content = 더 많은 이야기는 나�
 newtab-discovery-empty-section-topstories-try-again-button = 다시 시도
 newtab-discovery-empty-section-topstories-loading = 읽는 중…
 # Displays when a layout in a section took too long to fetch articles.
-newtab-discovery-empty-section-topstories-timed-out = 이 섹션을 거의 다 로드했지만, 안 된 부분이 있습니다.
+newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거의 다 로드했지만, 안 된 부분이 있습니다.
 
 ## Pocket Content Section.
 
@@ -196,5 +196,5 @@ newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = 이 콘텐츠를 불러오는데 오류가 발생하였습니다.
+newtab-error-fallback-info = 이런! 이 콘텐츠를 불러오는데 오류가 발생하였습니다.
 newtab-error-fallback-refresh-link = 페이지를 새로고침해서 다시 시도해 주세요.
