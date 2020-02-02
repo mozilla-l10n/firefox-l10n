@@ -10,8 +10,6 @@ window-new-shortcut =
     .key = N
 window-minimize-shortcut =
     .key = m
-close-shortcut =
-    .key = W
 tab-new-shortcut =
     .key = t
 search-focus-shortcut =
@@ -73,7 +71,7 @@ full-zoom-reset-shortcut-alt =
 ##
 
 private-browsing-shortcut =
-    .key = P
+    .key = { " " }P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
