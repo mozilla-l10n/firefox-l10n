@@ -64,7 +64,7 @@ bookmark-show-all-shortcut =
     .key =
         { PLATFORM() ->
             [linux] o
-           *[other] i
+           *[other] b
         }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
