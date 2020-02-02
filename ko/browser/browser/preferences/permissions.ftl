@@ -121,7 +121,7 @@ permissions-site-notification-window =
     .style = { permissions-window.style }
 permissions-site-notification-desc = 다음 웹사이트가 알림 전송 권한을 요청하였습니다. 알림을 보낼 수 있는 사이트를 지정할 수 있습니다. 또한 알림 허용 요청을 차단할 수도 있습니다.
 permissions-site-notification-disable-label =
-    .label = 새 알림 허용 요청을 차단함
+    .label = 새 알림 허용 요청을 차단
 permissions-site-notification-disable-desc = 위 목록에 포함되지 않은 사이트는 알림 허용 요청을 차단합니다. 알림을 차단하면 어떤 웹사이트에서는 기능이 정상적으로 작동하지 않을 수 있습니다.
 
 ## Site Permissions - Location
@@ -131,7 +131,7 @@ permissions-site-location-window =
     .style = { permissions-window.style }
 permissions-site-location-desc = 다음 사이트가 위치 정보를 요청하였습니다. 위치 정보를 요청할 수 있는 사이트를 설정할 수 있습니다. 위치 정보 접근 요청을 차단할 수도 있습니다.
 permissions-site-location-disable-label =
-    .label = 새 위치 정보 접근 요청을 차단함
+    .label = 새 사용자 위치 접근 요청을 차단
 permissions-site-location-disable-desc = 위 목록에 없는 사이트는 위치 정보 요청을 할 수 없게 됩니다. 위치 정보 접근을 차단하면 웹사이트의 일부 기능이 작동하지 않을 수 있습니다.
 
 ## Site Permissions - Virtual Reality
@@ -151,7 +151,7 @@ permissions-site-camera-window =
     .style = { permissions-window.style }
 permissions-site-camera-desc = 다음 웹사이트가 카메라 접근 권한을 요청하였습니다. 카메라에 접근할 수 있는 사이트를 지정할 수 있습니다. 카메라 접근 요청을 차단할 수도 있습니다.
 permissions-site-camera-disable-label =
-    .label = 새 카메라 접근 요청을 차단함
+    .label = 새 카메라 접근 요청을 차단
 permissions-site-camera-disable-desc = 위 목록에 없는 사이트는 카메라 사용 요청을 할 수 없게 됩니다. 카메라 접근을 차단하면 웹사이트의 일부 기능이 작동하지 않을 수 있습니다.
 
 ## Site Permissions - Microphone
@@ -161,5 +161,5 @@ permissions-site-microphone-window =
     .style = { permissions-window.style }
 permissions-site-microphone-desc = 다음 웹사이트가 마이크 접근 권한을 요청하였습니다. 마이크에 접근할 수 있는 사이트를 지정할 수 있습니다. 마이크 접근 요청을 차단할 수도 있습니다.
 permissions-site-microphone-disable-label =
-    .label = 새 마이크 접근 요청을 차단함
+    .label = 새 마이크 접근 요청을 차단
 permissions-site-microphone-disable-desc = 위 목록에 없는 사이트는 마이크 사용 요청을 할 수 없게 됩니다. 마이크 접근을 차단하면 웹사이트의 일부 기능이 작동하지 않을 수 있습니다.
