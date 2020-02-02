@@ -6,38 +6,8 @@ window-minimize-command =
     .label = Gutubya
 window-zoom-command =
     .label = Ihindurangano
-window-new-shortcut =
-    .key = N
-window-minimize-shortcut =
-    .key = m
-location-open-shortcut =
-    .key = l
-location-open-shortcut-alt =
-    .key = d
-# This shortcut is used in two contexts:
-#   - web search
-#   - find in page
-find-shortcut =
-    .key = f
 search-find-again-shortcut-alt =
     .keycode = VK_F3
-file-open-shortcut =
-    .key = o
-page-info-shortcut =
-    .key = i
-print-shortcut =
-    .key = p
-nav-back-shortcut-alt =
-    .key = [
-nav-fwd-shortcut-alt =
-    .key = ]
-nav-reload-shortcut =
-    .key = r
-# Shortcut available only on macOS.
-nav-stop-shortcut =
-    .key = .
-history-sidebar-shortcut =
-    .key = h
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -48,27 +18,10 @@ picture-in-picture-toggle-shortcut-alt =
 ## If shift key is needed with your locale popular keyboard for them,
 ## you can use these alternative items. Otherwise, their values should be empty.
 
-# If in keyboard layouts popular for your locale you need to use the shift key
-# to access the original shortcuts, the following shortcuts can be used.
-# Otherwise their values should remain empty.
-full-zoom-reduce-shortcut-alt =
-    .key = { "" }
-full-zoom-enlarge-shortcut-alt2 =
-    .key = { "" }
-full-zoom-reset-shortcut-alt =
-    .key = { "" }
 
 ##
 
-bidi-switch-direction-shortcut =
-    .key = X
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
-preferences-shortcut =
-    .key = ,
-hide-app-shortcut =
-    .key = H
-hide-other-apps-shortcut =
-    .key = H
