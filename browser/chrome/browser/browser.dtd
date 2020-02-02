@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "c">
 <!ENTITY exitFullScreenCmd.label "Quitar lo mòde Ecran complet">
 <!ENTITY exitFullScreenCmd.accesskey "p">
+
 <!ENTITY fullScreenCmd.label "Ecran complet">
 <!ENTITY fullScreenCmd.accesskey "p">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -216,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "A">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Anar a la pagina indicada dins la barra d'adreça">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
@@ -461,6 +463,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mai">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Picar un tèrme de recercar o una adreça">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -594,6 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcapagina sus aqueste quadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+
 <!ENTITY pageAction.copyLink.label    "Copiar lo ligam">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -809,6 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Aquela pagina es estada cargada d’una extension.">
 <!ENTITY identity.insecureLoginForms2 "Los identificants marcats sus aquela pagina pòdon far perilh.">
 
+<!ENTITY identity.evOwnerLabel2 "Certificat emés per :">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat d'elements pas segurs sus aquela pagina.">
