@@ -129,10 +129,10 @@ permissions-site-notification-disable-desc = 위 목록에 포함되지 않은 �
 permissions-site-location-window =
     .title = 설정 - 위치 정보 권한
     .style = { permissions-window.style }
-permissions-site-location-desc = 다음 사이트가 위치 정보를 요청하였습니다. 위치 정보를 요청할 수 있는 사이트를 설정할 수 있습니다. 위치 정보 접근 요청을 차단할 수도 있습니다.
+permissions-site-location-desc = 다음 웹 사이트에서 사용자 위치에 대한 접근을 요청했습니다. 사용자 위치에 접근 할 수 있는 웹 사이트를 지정할 수 있습니다. 사용자 위치에 대한 접근을 요청하는 새 요청을 차단할 수도 있습니다.
 permissions-site-location-disable-label =
     .label = 새 사용자 위치 접근 요청을 차단
-permissions-site-location-disable-desc = 위 목록에 없는 사이트는 위치 정보 요청을 할 수 없게 됩니다. 위치 정보 접근을 차단하면 웹사이트의 일부 기능이 작동하지 않을 수 있습니다.
+permissions-site-location-disable-desc = 위 목록에 없는 사이트는 사용자 위치에 접근 할 수 없게 됩니다. 사용자 위치에 대한 접근을 차단하면 웹사이트의 일부 기능이 작동하지 않을 수 있습니다.
 
 ## Site Permissions - Virtual Reality
 
