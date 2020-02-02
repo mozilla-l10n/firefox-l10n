@@ -2,33 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-window-minimize-command =
-    .label = Хураах
-window-zoom-command =
-    .label = Тэлэлт
 window-new-shortcut =
     .key = N
-window-minimize-shortcut =
-    .key = m
-close-shortcut =
-    .key = W
 tab-new-shortcut =
     .key = t
-location-open-shortcut-alt =
-    .key = я
 search-find-again-shortcut =
     .key = g
 search-find-again-shortcut-alt =
     .keycode = VK_F3
-# Verify what shortcut for that operation
-# are recommended by the Human Interface Guidelines
-# of each platform for your locale.
-search-focus-shortcut-alt =
-    .key =
-        { PLATFORM() ->
-            [linux] j
-           *[other] e
-        }
 file-open-shortcut =
     .key = o
 page-source-shortcut =
@@ -71,8 +52,6 @@ full-zoom-reduce-shortcut-alt =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
-full-zoom-enlarge-shortcut-alt =
-    .key = =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
@@ -84,15 +63,9 @@ full-zoom-reset-shortcut-alt =
 
 bidi-switch-direction-shortcut =
     .key = X
-private-browsing-shortcut =
-    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
-preferences-shortcut =
-    .key = ,
-hide-app-shortcut =
-    .key = H
 hide-other-apps-shortcut =
     .key = H
