@@ -20,7 +20,7 @@
 <!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "代码:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label     "评估（Eval）">
+<!ENTITY evaluate.label     "求值（Eval）">
 <!ENTITY evaluate.accesskey "v">
 <!ENTITY filter2.label      "过滤器：">
 <!ENTITY filter2.accesskey  "F">
