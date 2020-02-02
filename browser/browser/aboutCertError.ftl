@@ -11,7 +11,7 @@ cert-error-mitm-connection = { -brand-short-name }는 사용자의 운영 체제
 cert-error-trust-unknown-issuer-intro = 누군가 사이트를 위장할 수 있기 때문에 더이상 진행하면 안됩니다.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = 웹사이트는 인증서로 신원을 증명합니다. { -brand-short-name }는 인증서 발행자를 알 수 없거나, 인증서가 자기 서명되어 있거나 서버가 올바른 중간 인증서를 보내지 않고 있기 때문에 { $hostname } 사이트를 신뢰할 수 없습니다.
+cert-error-trust-unknown-issuer = 웹사이트는 인증서를 통해 신원을 증명합니다. { -brand-short-name }는 인증서 발급자를 알 수 없거나, 인증서가 자체 서명되었거나 서버가 올바른 중간 인증서를 보내지 않고 있기 때문에 { $hostname } 사이트를 신뢰할 수 없습니다.
 cert-error-trust-cert-invalid = 유효하지 않은 인증 기관 (CA) 인증서로 발급된 인증서이므로 신뢰할 수 없습니다.
 cert-error-trust-untrusted-issuer = 발급자 인증서를 신뢰할 수 없기 때문에 인증서를 신뢰할 수 없습니다.
 cert-error-trust-signature-algorithm-disabled = 비활성화된 안전하지 않은 알고리즘을 사용하여 서명되었기 때문에 인증서를 신뢰할 수 없습니다.
