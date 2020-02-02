@@ -31,7 +31,7 @@ search-input-box =
     .style = width: 15.4em
     .placeholder =
         { PLATFORM() ->
-            [windows] 옵션에서 찾기
+            [windows] 설정에서 찾기
            *[other] 설정에서 찾기
         }
 managed-notice = 사용자의 회사나 단체에서 브라우저를 관리하고 있습니다.
