@@ -9,9 +9,7 @@
 <!ENTITY retry.label "Tornar ensajar">
 <!ENTITY returnToPreviousPage.label "Tornar en arrièr">
 <!ENTITY returnToPreviousPage1.label "Tornar (recomandat)">
-<!ENTITY advanced.label "Avançat">
-<!ENTITY continue2.label "Mai…">
-<!ENTITY moreInformation.label "Mai d'informacions">
+<!ENTITY advanced2.label "Avançat…">
 <!ENTITY viewCertificate.label "Mostrar lo certificat">
 
 <!-- Specific error messages -->
@@ -99,11 +97,10 @@
 <!ENTITY nssFailure2.title "La connexion segura a pas capitat">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> <li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "La connexion es pas segura">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Atencion : risc probable de seguretat">
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "L'autor de <span class='hostname'/> configurèt son site web incorrectament. Per protegir vòstras informacions del panatòri, &brandShortName; s'es pas connectat pas al site web.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "De qué podètz far ?">
@@ -116,11 +113,10 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar lo risc e contunhar">
 
 <!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
@@ -134,17 +130,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informacion avançada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; s'es pas connectat a <span id='wrongSystemTime_URL'/> pr'amor que lo relòtge de vòstre ordenador sembla donar un temps fals e aquò empacha una connexion segura.</p> <p>Vòstre ordenador es reglat sus <span id='wrongSystemTime_systemDate'/> alara que deuriá o èsser sus <span id='wrongSystemTime_actualDate'/>. Per reglar aqueste problèma, cambiatz los paramètres de data e d'ora per que correspondan al temps corrècte.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; s'es pas connectat a <span id='wrongSystemTimeWithoutReference_URL'/> que lo relòtge de vòstre ordenador sembla donar un temps fals e aquò empacha una connexion segura.</p> <p>Vòstre ordenador es reglat sus <span id='wrongSystemTimeWithoutReference_systemDate'/>. Per reglar aqueste problèma, cambiatz los paramètres de data e d'ora per los far correspondre al temps correcte.</p>">
-
-<!ENTITY certerror.pagetitle1  "Connexion pas segura">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aqueste site utiliza HTTP
-Strict Transport Security (HSTS) per especificar que &brandShortName; se connecte
-sonque de biais segur. Atal, es pas possible d'apondre una excepcion per aqueste
-certificat.">
+<!ENTITY certerror.pagetitle2  "Atencion : risc probable de seguretat">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 
 <!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
@@ -159,5 +145,6 @@ certificat.">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
+
 
 <!ENTITY networkProtocolError.title "Error de protocòl ret">
