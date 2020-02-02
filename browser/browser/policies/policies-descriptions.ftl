@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Gainidatzi lehen abioko orria. Utzi zurian politik
 policy-OverridePostUpdatePage = Gainidatzi eguneraketen ondoko "Nobedadeak" orria. Utzi politika hau zurian eguneraketen ondoko orria desgaitu nahi baduzu.
 policy-PasswordManagerEnabled = Gaitu pasahitzak pasahitz-kudeatzailean gordetzea.
 policy-Permissions = Konfiguratu baimenak kamera, mikrofono, kokapen eta jakinarazpenentzat.
+policy-Permissions2 = Konfiguratu kamera, mikrofonoa, kokapena, jakinarazpenak eta erreprodukzio automatikoa erabiltzeko baimenak.
 policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez popup leihoak bistaratzea.
 policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
 policy-PromptForDownloadLocation = Galdetu non gorde deskargatutako fitxategiak.

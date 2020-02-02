@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenatze-irizpidea:
 login-list-name-option = Izena (A-Z)
+login-list-name-reverse-option = Izena (Z-A)
 login-list-breached-option = Datu-urratzeak izandako webguneak
 login-list-last-changed-option = Azken aldaketa
 login-list-last-used-option = Azkenekoz erabilia
@@ -73,7 +74,6 @@ about-logins-intro-import = Zure saio-hasierak beste nabigatzaile batean gordeta
 
 login-item-new-login-title = Sortu saio-hasiera berria
 login-item-edit-button = Editatu
-login-item-delete-button = Ezabatu
 about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
 login-item-origin =
@@ -120,7 +120,6 @@ enable-password-sync-preferences-button =
            *[other] Bisitatu { -sync-brand-short-name } hobespenak
         }
     .accesskey = B
-confirm-delete-dialog-title = Ezabatu saio-hasiera hau?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ez galdetu berriz
     .accesskey = z
@@ -132,7 +131,6 @@ confirmation-dialog-dismiss-button =
     .title = Utzi
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
-confirm-delete-dialog-confirm-button = Ezabatu
 about-logins-confirm-remove-dialog-confirm-button = Kendu
 confirm-discard-changes-dialog-title = Baztertu gorde gabeko aldaketak?
 confirm-discard-changes-dialog-message = Gorde gabeko aldaketa guztiak galdu egingo dira.
