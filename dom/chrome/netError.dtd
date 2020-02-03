@@ -86,7 +86,7 @@
 <!ENTITY xfoBlocked.title "X-Frame-Options 정책에 의해 차단됨">
 <!ENTITY xfoBlocked.longDesc "<p>페이지에 허용하지 않는 X-Frame-Options 정책이 있으므로 브라우저가 이 컨텍스트에서 이 페이지를 로드하지 못했습니다.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "잘못된 콘텐츠 오류">
+<!ENTITY corruptedContentErrorv2.title "손상된 콘텐츠 오류">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
 
 <!ENTITY remoteXUL.title "원격 XUL">

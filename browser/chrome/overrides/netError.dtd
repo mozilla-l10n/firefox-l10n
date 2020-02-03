@@ -14,7 +14,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "연결 실패">
+<!ENTITY connectionFailure.title "연결할 수 없음">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "제한된 주소">
@@ -130,7 +130,7 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "서버로부터 기대하지 않은 응답을 받음">
+<!ENTITY unknownSocketType.title "서버에서 예기치 않은 응답">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>시스템에 개인 보안 관리자가 설치 되어 있는지 확인해 보시기 바랍니다.</li>
