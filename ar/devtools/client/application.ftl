@@ -58,3 +58,33 @@ serviceworker-empty-suggestions-console = طالع الأخطاء في المِ�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = افحص عمّال الخدمة من النطاقات الأخرى. <a>افتح about:debugging</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = الأخطاء والتحذيرات
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = الهويّة
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = الأيقونات
+# Text displayed while we are loading the manifest file
+manifest-loading = يُحمّل البيان…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = حُمّل البيان.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = حدث خطأ أثناء تحميل البيان:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = خطأ في أدوات فَيَرفُكس للمطوّرين
+# Text displayed when the page has no manifest available
+manifest-non-existing = لم نجد بيانًا نفحصه.
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = عمّال الخدمة
+    .alt = أيقونة عمّال الخدمة
+    .title = عمّال الخدمة
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = أيقونة تحذير
+    .title = تحذير
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = أيقونة خطأ
+    .title = خطأ

@@ -8,8 +8,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = بلاغات الانهيار
+submit-all-button-label = أرسِلها كلها
 delete-button-label = امسح الكل
 delete-confirm-title = أمتأكّد أنت؟
+delete-unsubmitted-description = بهذا تحذف كل البلاغات غير المُرسلة ولن يُمكن التراجع عن ذلك.
+delete-submitted-description = ستُزيل هكذا قائمة بلاغات الإرسال المُرسلة، ولكن لن تحذف البيانات المُرسلة. لا يمكنك التراجع عن هذا الفعل.
 crashes-unsubmitted-label = بلاغات الانهيار غير المُرسلة
 id-heading = معرّف الانهيار
 date-crashed-heading = تاريخ الانهيار

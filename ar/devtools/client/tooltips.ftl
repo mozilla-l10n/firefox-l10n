@@ -49,3 +49,6 @@ inactive-css-not-flex-item-fix-2 = جرّب إضافة <strong>display:flex</str
 inactive-css-not-flex-container-fix = جرّب إضافة <strong>display:flex</strong> أو <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = جرّب إضافة <strong>display:inline</strong> أو <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = جرّب إضافة <strong>display:inline-block</strong> أو <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = جرّب إضافة <strong>display:inline-block</strong>. { learn-more }
+inactive-css-not-display-block-on-floated-fix = جرّب إمّا إزالة <strong>float</strong> أو إضافة<strong>display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = جرّب ضبط خاصية <strong>position</strong> إلى شيء آخر عدا <strong>static</strong>. { learn-more }
