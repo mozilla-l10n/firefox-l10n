@@ -21,9 +21,9 @@ onboarding-button-label-get-started = 开始使用
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 onboarding-welcome-body = 浏览器安装完成。<br/>但 { -brand-product-name } 不只是浏览器。
 onboarding-welcome-learn-more = 还有更多好物。
-onboarding-welcome-modal-get-body = 浏览器安装完成。<br/>了解 { -brand-product-name } 的其他功能。
-onboarding-welcome-modal-supercharge-body = 增强您的隐私保护。
-onboarding-welcome-modal-privacy-body = 浏览器安装完成。现在让我们增添更多隐私保护。
+onboarding-welcome-modal-get-body = 浏览器安装完成。<br/>看看 { -brand-product-name } 的其他功能。
+onboarding-welcome-modal-supercharge-body = 强化隐私保护措施。
+onboarding-welcome-modal-privacy-body = 浏览器安装完成。来强化一下隐私保护措施把。
 onboarding-welcome-modal-family-learn-more = 了解 { -brand-product-name } 系列产品。
 onboarding-welcome-form-header = 从这里开始
 onboarding-join-form-header = 加入 { -brand-product-name } 的行列
@@ -44,7 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
-onboarding-fullpage-welcome-subheader = 让我们开始探索您能做的一切。
+onboarding-fullpage-welcome-subheader = 来探索有哪些能力。
 onboarding-fullpage-form-email =
     .placeholder = 您的电子邮件地址…
 
@@ -105,11 +105,11 @@ onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何�
 onboarding-tracking-protection-title2 = 保护您不受跟踪
 onboarding-tracking-protection-text2 = { -brand-short-name } 可帮助阻止网站的在线跟踪，让内容跟踪器更难盯上您。
 onboarding-tracking-protection-button2 = 工作原理
-onboarding-data-sync-title = 您的设置不离身
+onboarding-data-sync-title = 把设置随身带着走
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = 在任何使用 { -brand-product-name } 的地方同步书签、密码等数据。
 onboarding-data-sync-button2 = 登录{ -sync-brand-short-name }服务
-onboarding-firefox-monitor-title = 警惕数据外泄
+onboarding-firefox-monitor-title = 数据外泄有提醒
 onboarding-firefox-monitor-text = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在数据外泄事件中，并在有新外泄事件时通知您。
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在已知数据外泄事件中，并在有新外泄事件时通知您。
 onboarding-firefox-monitor-button = 订阅警报
@@ -134,7 +134,7 @@ onboarding-send-tabs-text2 = 轻松跨设备分享网页，无须复制链接或
 onboarding-send-tabs-button = 开始使用 Send Tabs
 onboarding-pocket-anywhere-title = 随处阅听
 onboarding-pocket-anywhere-text2 = 可使用 { -pocket-brand-name } 应用离线保存您喜爱的故事，以便您闲暇时阅读、聆听和观看。
-onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
+onboarding-pocket-anywhere-button = 试试 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 将您的密码随身带着走
 onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } 会安全地保存您的密码，让您可轻松在各个网站上登录账号。
 onboarding-lockwise-passwords-button2 = 获取应用
@@ -150,7 +150,7 @@ onboarding-import-browser-settings-button = 导入 Chrome 数据
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-sub-header = 太棒了，您已成功安装 { -brand-short-name }
+return-to-amo-sub-header = 恭喜，您已经安装好 { -brand-short-name }
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
