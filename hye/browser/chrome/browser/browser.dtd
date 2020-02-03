@@ -312,6 +312,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Դիտել էջանիշերի վահանակը">
 <!ENTITY hideBookmarksSidebar.label         "Թաքցնել էջանիշերի կողագաւտին">
 <!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
+<!ENTITY hideBookmarksToolbar.label         "Թաքցնել էջանիշերի գործիքագաւտին">
+<!ENTITY searchBookmarks.label              "Էջանիշերի որոնում">
+<!ENTITY bookmarkingTools.label             "Էջանշելու գործիքներ">
+<!ENTITY addBookmarksMenu.label             "Աւելացնել էջանիշերի ցանկ գործիքագաւտիում">
+<!ENTITY removeBookmarksMenu.label          "Հեռացնել էջանիշերի ցանկը գործիքագաւտուց">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
