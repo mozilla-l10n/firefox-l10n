@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Դուրս գալ լիաէկրան վիճակից">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Լիաէկրան">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -246,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Գնալ հասցէի տողում նշուած հասցէով">
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տուեալ էջը">
@@ -259,10 +261,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Կառաւարել canvas-ի դուրս բերման թոյլտուութիւնները">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Բացել անցանց պահեստի հաղորդագրութեան վահանակը">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Բացել պահպանուած գաղտնաբառի հաղորդագրութեան վահանակը">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Կառաւարել բաղադրիչների աւգտագործումը">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Փոխել, թե արդեաւք կարող եք կայքից ստանալ ծանուցումներ">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Պահել տուեալները մշտական պահեստում">
 
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Դիտարկել հեռակայ կառաւարմամբ">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Բացել վեբ իսկորոշման փեղկը">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Բացել զննարկման գործունեութեան թոյլտուութեան վահանակը">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Կառաւարել խցիկի եւ/կամ բարձրախաւսի համաւգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Կառաւարել Ձեր բարձրախաւսի համաւգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Կառաւարել պատուհանների կամ էկրանի համաւգտագործումը այս կայքի հետ">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Բացել տեղադրել հաղորդագրութեան վահանակը">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Թարգմանել այս էջը">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Կառաւարել էջի թարգմանութիւնը">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Կառաւարել DRM ծրագրաշարի աւգտագործումը">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Բացել MIDI փեղկը">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Դուք արգելափակել եք Ձեր տեսախցիկը այս կայքի համար։">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Դուք արգելափակել եք բարձրախաւսը այս կայքի համար։">
 
 
 
@@ -325,6 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
@@ -377,6 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
 
 
 
