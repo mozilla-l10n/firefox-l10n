@@ -91,7 +91,7 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-       *[other] 爆出的涉及您的数据泄漏事件
+       *[other] 爆出的涉及您的数据泄露事件
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
