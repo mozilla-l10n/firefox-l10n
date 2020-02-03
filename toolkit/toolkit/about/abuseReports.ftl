@@ -53,7 +53,7 @@ abuse-report-messagebar-action-remove-extension = 예, 제거합니다
 abuse-report-messagebar-action-keep-extension = 아니오, 유지합니다
 abuse-report-messagebar-action-remove-theme = 예, 제거합니다
 abuse-report-messagebar-action-keep-theme = 아니오, 유지합니다
-abuse-report-messagebar-action-retry = 재시도
+abuse-report-messagebar-action-retry = 다시 시도
 abuse-report-messagebar-action-cancel = 취소
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
