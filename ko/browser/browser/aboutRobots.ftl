@@ -25,5 +25,5 @@ error-long-desc4 = 로봇은 누구도 깨물 수 없는 반짝이는 금속 엉
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = 그리고 그들은 계획을 가지고 있습니다.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = 재시도
+error-try-again = 다시 시도
     .label2 = 이 버튼을 다시 누르지 마십시오.
