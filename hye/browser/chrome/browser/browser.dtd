@@ -300,8 +300,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Տուն">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Տնէջ">
 
+<!ENTITY bookmarksButton.label          "Էջանիշեր">
+<!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Էջանիշեր">
+<!ENTITY bookmarksMenuButton2.label         "Էջանիշերի ցանկ">
+<!ENTITY bookmarksMenuButton.other.label    "Այլ Էջանիշեր">
+<!ENTITY bookmarksMenuButton.mobile.label   "Բջջային էջանիշեր">
+<!ENTITY viewBookmarksSidebar2.label        "Դիտել էջանիշերի վահանակը">
+<!ENTITY hideBookmarksSidebar.label         "Թաքցնել էջանիշերի կողագաւտին">
+<!ENTITY viewBookmarksToolbar.label         "Դիտել էջանիշերի վահանակը">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
