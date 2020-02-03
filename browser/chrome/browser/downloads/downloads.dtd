@@ -77,7 +77,7 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
-<!ENTITY retryDownload.label              "다운로드 재시도">
+<!ENTITY retryDownload.label              "다운로드 다시 시도">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,

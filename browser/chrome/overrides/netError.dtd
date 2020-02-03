@@ -72,7 +72,7 @@
 <!ENTITY netOffline.title "오프라인 모드">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>&quot;오프라인으로 작업&quot;을 끄고 재시도하시기 바랍니다.</li>
+  <li>온라인 모드로 전환하고 페이지를 다시 로드하려면 &quot;다시 시도&quot;를 누르세요.</li>
 </ul>
 ">
 
@@ -148,7 +148,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle2 "경고: 보안 위험 가능성">
-<!ENTITY certerror.sts.longpagetitle  "연결하지 않음 : 잠재적인 보안 문제">
+<!ENTITY certerror.sts.longpagetitle  "연결되지 않음: 잠재적인 보안 문제">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -178,7 +178,7 @@ was trying to connect. -->
 <!ENTITY sharedLongDesc "
 <ul>
   <li>서버가 일시적으로 사용할 수 없거나 사용자가 너무 많은 상태일 수 있습니다.
-    잠시 후에 재시도해 보시기 바랍니다.</li>
+    잠시 후에 다시 시도해 보시기 바랍니다.</li>
   <li>어떤 페이지도 열 수 없다면,
     컴퓨터의 네트워크 연결을 확인해 보시기 바랍니다.</li>
   <li>사용자의 컴퓨터나 네트워크가 방화벽 또는 프록시로 보호되고 있다면,
@@ -209,7 +209,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.longDesc2 "고급 정보: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "경고: 보안 위험 가능성">
-<!ENTITY certerror.sts.pagetitle  "연결하지 않음 : 잠재적인 보안 문제">
+<!ENTITY certerror.sts.pagetitle  "연결되지 않음: 잠재적인 보안 문제">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 사이트는 HTTP Strict Transport Security (HSTS)라는 보안 정책을 가지고 있어서 &brandShortName;가 보안 연결만 할 수 있습니다. 이 사이트를 방문하기 위해 예외를 추가 할 수 없습니다.">
 <!ENTITY certerror.copyToClipboard.label "클립보드에 텍스트 복사">
 
