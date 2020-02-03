@@ -76,7 +76,7 @@ discover-footer = 인터넷에 연결할 때 최신 추천 부가 기능을 소�
 detail-version =
     .label = 버전
 detail-last-updated =
-    .label = 최종 수정일
+    .label = 마지막 업데이트
 detail-contributions-description = 이 부가 기능 개발자에게 작은 도움을 통해 개발이 지속될 수 있도록 지원할 수 있습니다.
 detail-contributions-button = 공헌하기
     .title = 이 부가기능의 개발에 기여합니다
@@ -369,7 +369,7 @@ always-activate-button = 항상 사용
 never-activate-button = 사용 안 함
 addon-detail-author-label = 제작
 addon-detail-version-label = 버전
-addon-detail-last-updated-label = 최종 수정일
+addon-detail-last-updated-label = 마지막 업데이트
 addon-detail-homepage-label = 홈페이지
 addon-detail-rating-label = 평가
 # The average rating that the add-on has received.
