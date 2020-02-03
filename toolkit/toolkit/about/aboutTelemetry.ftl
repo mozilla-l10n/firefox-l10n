@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping 数据源：
-about-telemetry-show-current-ping-data = 当前的 ping 数据
+about-telemetry-show-current-ping-data = 当前的 Ping 数据
 about-telemetry-show-current-data = 当前数据
-about-telemetry-show-archived-ping-data = 存档的 ping 数据
+about-telemetry-show-archived-ping-data = 已存档的 Ping 数据
 about-telemetry-show-subsession-data = 显示提交数据
 about-telemetry-choose-ping = 选择 ping：
 about-telemetry-archive-ping-type = Ping 类型
@@ -17,7 +17,7 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = 遥测数据
 about-telemetry-current-store = 当前存储：
-about-telemetry-more-information = 想了解更多吗？
+about-telemetry-more-information = 想详细了解吗？
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 数据文档</a> 介绍了使用我们的数据工具的方式。
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a> 直观显示了 Mozilla 通过遥测收到的数据。
@@ -76,7 +76,7 @@ about-telemetry-settings-explanation = 遥测正在收集{ about-telemetry-data-
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 每组信息都将集合在“<a data-l10n-name="ping-link">ping</a>”中送出。您正在查看 { $name }, { $timestamp } 的 ping。
 about-telemetry-ping-details-current = 每组信息都将集合在“<a data-l10n-name="ping-link">ping</a>”中送出。您正在查看 当前 的 ping。
-about-telemetry-data-details-current = 每组信息都将打包发送到“<a data-l10n-name="ping-link">pings</a>”，您正在看的是当前数据。
+about-telemetry-data-details-current = 每组信息都会打包成“<a data-l10n-name="ping-link">Ping</a>”传送。您正在看的是当前数据。
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
