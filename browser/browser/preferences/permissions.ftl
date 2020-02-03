@@ -77,14 +77,14 @@ permissions-exceptions-etp-desc = 이 웹 사이트에서 보호 기능을 껐�
 permissions-exceptions-cookie-window =
     .title = 예외 - 쿠키와 사이트 데이터
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = 웹사이트별로 쿠키나 사이트 데이터를 항상 사용하거나 사용하지 않도록 설정할 수 있습니다.  관리할 사이트의 정확한 주소를 입력하고 '차단'이나 '세션에서 허용', '허용'을 클릭하세요.
+permissions-exceptions-cookie-desc = 웹사이트별로 쿠키나 사이트 데이터를 항상 사용하거나 사용하지 않도록 설정할 수 있습니다.  관리할 사이트의 정확한 주소를 입력하고 '차단'이나 '세션 허용', '허용'을 누르세요.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = 웹사이트 허용 - 팝업
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = 특정 웹 사이트에 대한 팝업창 허용을 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하세요.
+permissions-exceptions-popup-desc = 특정 웹 사이트에 대한 팝업창 허용을 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 누르세요.
 
 ## Exceptions - Saved Logins
 
@@ -98,7 +98,7 @@ permissions-exceptions-saved-logins-desc = 다음 웹사이트의 로그인이 �
 permissions-exceptions-addons-window =
     .title = 웹사이트 허용 - 부가기능 설치
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 클릭하세요.
+permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 누르세요.
 
 ## Exceptions - Autoplay Media
 
