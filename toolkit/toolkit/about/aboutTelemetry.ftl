@@ -18,24 +18,24 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = 遥测数据
 about-telemetry-current-store = 当前存储：
 about-telemetry-more-information = 想详细了解吗？
-about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 数据文档</a> 介绍了使用我们的数据工具的方式。
-about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a> 直观显示了 Mozilla 通过遥测收到的数据。
-about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> 提供了遥测收集所使用探针的详细信息与说明。
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox 数据文档</a>介绍了使用我们的数据工具的方式。
+about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox 遥测客户端文档</a>涵盖了数据收集的概念、API 文档以及数据格式的定义。
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">遥测面板</a>用图形化展示了 Mozilla 通过遥测服务收集的数据。
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> 中提供遥测服务收集所探测资料的详细信息与说明。
 about-telemetry-show-in-Firefox-json-viewer = 在 JSON 查看器中打开
 about-telemetry-home-section = 主页
 about-telemetry-general-data-section = 常规数据
 about-telemetry-environment-data-section = 环境数据
 about-telemetry-session-info-section = 会话信息
-about-telemetry-scalar-section = 标量
-about-telemetry-keyed-scalar-section = 键索标量
+about-telemetry-scalar-section = 数值
+about-telemetry-keyed-scalar-section = 分组数值
 about-telemetry-histograms-section = 直方图
-about-telemetry-keyed-histogram-section = 键索直方图
+about-telemetry-keyed-histogram-section = 分组直方图
 about-telemetry-events-section = 事件
-about-telemetry-simple-measurements-section = 简单测量
+about-telemetry-simple-measurements-section = 简单指标
 about-telemetry-slow-sql-section = 慢 SQL 语句
 about-telemetry-addon-details-section = 附加组件详情
-about-telemetry-captured-stacks-section = 捕获的堆栈
+about-telemetry-captured-stacks-section = 捕获到的堆栈
 about-telemetry-late-writes-section = 延迟写入
 about-telemetry-raw-payload-section = 原始载荷
 about-telemetry-raw = 原始 JSON
