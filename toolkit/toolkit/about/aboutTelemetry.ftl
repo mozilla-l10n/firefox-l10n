@@ -33,13 +33,13 @@ about-telemetry-histograms-section = Histogrammen
 about-telemetry-keyed-histogram-section = Kaaihistogrammen
 about-telemetry-events-section = Eveneminten
 about-telemetry-simple-measurements-section = Ienfâldige mjittingen
-about-telemetry-slow-sql-section = Trage SQL Statements
+about-telemetry-slow-sql-section = Stadige SQL-ynstruksjes
 about-telemetry-addon-details-section = Add-on-details
 about-telemetry-captured-stacks-section = Opnommen stacks
 about-telemetry-late-writes-section = Lêste add-ons
 about-telemetry-raw-payload-section = Net bewurke nettolading
 about-telemetry-raw = Net bewurke JSON
-about-telemetry-full-sql-warning = NOTE: Trage SQL-debugging is ynskeakele. Folsleine SQL-strings kinne hjirûnder toand wurde, mar se sille net ferstjoerd wurde nei Telemetry.
+about-telemetry-full-sql-warning = NOTE: Stadige SQL-debugging is ynskeakele. Folsleine SQL-strings kinne hjirûnder toand wurde, mar se sille net ferstjoerd wurde nei Telemetry.
 about-telemetry-fetch-stack-symbols = Krij funksjenammen foar stacks
 about-telemetry-hide-stack-symbols = Toan rûge stackgegevens
 # Selects the correct release version
@@ -111,8 +111,8 @@ about-telemetry-telemetry-ping-type-all = alle
 # button label to copy the histogram
 about-telemetry-histogram-copy = Kopiearje
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = Trage SQL-statements op haadthread
-about-telemetry-slow-sql-other = Trage SQL-statements op helpthreads
+about-telemetry-slow-sql-main = Stadige SQL-ynstruksjes op haadthread
+about-telemetry-slow-sql-other = Stadige SQL-ynstruksjes op helpthreads
 about-telemetry-slow-sql-hits = Hits
 about-telemetry-slow-sql-average = Gem. tiid (ms)
 about-telemetry-slow-sql-statement = Statement
