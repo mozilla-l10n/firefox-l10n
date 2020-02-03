@@ -321,13 +321,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "Պատմութիւն">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
+<!ENTITY toolsMenu.label              "Գործիքներ">
+<!ENTITY toolsMenu.accesskey          "T">
 
+<!ENTITY keywordfield.label           "Աւելացնել բանալի այս որոնմանը…">
+<!ENTITY keywordfield.accesskey       "K">
 
+<!ENTITY downloads.label              "Ներբեռնումներ">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Ներբեռնումներ">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Յաւելումներ">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Վեբ մշակող">
 
 
 
