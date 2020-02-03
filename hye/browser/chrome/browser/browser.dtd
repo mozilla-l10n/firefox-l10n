@@ -287,9 +287,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Դուք արգելափակել եք մշտական պահեստը այս կայքի համար։">
 <!ENTITY urlbar.popupBlocked.tooltip             "Դուք ունեք արգելափակուած ելնող պատուհաններ այս կայքում։">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Դուք արգելափկել եք ինքնանուագարկուող ձայնային մեդիան այս կայքում։">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Դուք արգելափակել եք այս կայքը Adobe Flash բաղադրիչը աւգտագործելիս։">
+<!ENTITY urlbar.midiBlocked.tooltip              "Դուք արգելափակել եք MIDI մատչումը այս կայքին։">
+<!ENTITY urlbar.installBlocked.tooltip           "Դուք արգելափակել եք հաւելման տեղակայումը այս կայքի համար։">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Դուք տրամադրել եք այս կայքէջին լրացուցիչ թոյլտուութիւններ։">
 
 
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմութիւնը">
 
 
 <!-- Toolbar items -->
