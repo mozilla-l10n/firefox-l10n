@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "페이지 읽기 오류">
-<!ENTITY retry.label "재시도">
+<!ENTITY retry.label "다시 시도">
 
 <!-- Specific error messages -->
 
