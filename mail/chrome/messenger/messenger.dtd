@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vyberte sloupce pro zobrazení">
+<!ENTITY selectColumn.tooltip "Přepne výběr všech zpráv">
 <!ENTITY threadColumn2.tooltip "Zobrazíte vlákna zpráv">
 <!ENTITY fromColumn2.tooltip "Seřadíte podle odesílatele">
 <!ENTITY recipientColumn2.tooltip "Seřadíte podle příjemce">
@@ -970,3 +971,7 @@
 <!ENTITY dockOptions.label              "Nastavení ikony aplikace…">
 <!ENTITY writeNewMessageDock.label      "Napsat novou zprávu">
 <!ENTITY openAddressBookDock.label      "Otevřít kontakty">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Přejde na předchozí stránku">
+<!ENTITY browseForwardButton.tooltip "Přejde na následující stránku">

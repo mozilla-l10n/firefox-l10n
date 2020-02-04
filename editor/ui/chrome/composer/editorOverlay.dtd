@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Vybere barvu textu">
 <!ENTITY BackgroundColorButton.tooltip "Vybere barvu pozadí">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Přejde na domovskou stránku aplikace &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Vybere barvu pro barevné zvýrazňování">
 
 <!-- Editor toolbar -->

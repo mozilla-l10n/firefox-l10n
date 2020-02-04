@@ -259,6 +259,10 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 11em;">
 <!ENTITY fromAddr.label "Od:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY fromAddr2.label "Od">
 <!ENTITY fromAddr.accesskey "O">
 <!ENTITY toAddr.label "Komu:">
 <!ENTITY ccAddr.label "Kopie:">
@@ -267,6 +271,13 @@
 <!ENTITY newsgroupsAddr.label "Diskusní skupina:">
 <!ENTITY followupAddr.label "Sledování:">
 <!ENTITY subject.label "Předmět:">
+<!ENTITY toAddr2.label "Komu">
+<!ENTITY ccAddr2.label "Kopie">
+<!ENTITY bccAddr2.label "Skrytá kopie">
+<!ENTITY replyAddr2.label "Adresa pro odpověď">
+<!ENTITY newsgroupsAddr2.label "Diskusní skupina">
+<!ENTITY followupAddr2.label "Odpověď na">
+<!ENTITY subject2.label "Předmět">
 <!ENTITY subject.accesskey "d">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
@@ -278,7 +289,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Lišta příloh">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skryje lištu příloh">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Vloží smajlíka">
 <!ENTITY smiley1Cmd.label "Úsměv">
 <!ENTITY smiley2Cmd.label "Zamračený">
