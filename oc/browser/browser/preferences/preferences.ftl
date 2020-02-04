@@ -858,6 +858,7 @@ content-blocking-unvisited-cookies = Cookies dels sites pas visitats
 content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
 content-blocking-all-windows-tracking-content = Contengut utilizat per pistar totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
+content-blocking-cryptominers = Minaires de criptomonedas
 content-blocking-fingerprinters = Generadors d’emprentas numericas
 content-blocking-warning-title = Atencion !
 content-blocking-learn-how = Ne saber mai
@@ -883,6 +884,10 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Mai d’entresenhas
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Minaires de criptomonedas
+    .accesskey = i
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
