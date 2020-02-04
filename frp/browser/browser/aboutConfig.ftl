@@ -6,8 +6,16 @@
 about-config-warning-title = Iqui demôront los dragons
 about-config-warning-checkbox = Me rapèlar la prochèna vês, mèrci!
 about-config-warning-button = Accèpto lo risco
+about-config2-title = Règllâjos avanciês
 about-config-search-input =
     .placeholder = Chèrchér
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-button = Accèptar lo risco et continuar
+
+##
+
 about-config-show-all = Tot montrar
 about-config-pref-add = Apondre
 about-config-pref-toggle = Envèrsar

@@ -188,6 +188,7 @@ language-name-tlh = Clingon
 language-name-tn = Tsoana
 language-name-to = Tongâ
 language-name-tr = Turco
+language-name-trs = Triqui
 language-name-ts = Tsonga
 language-name-tt = Tataro
 language-name-tw = Tui
