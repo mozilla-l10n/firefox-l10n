@@ -39,7 +39,7 @@ config-value-column =
 config-pref-column-header =
     .tooltip = 정렬
 config-column-chooser =
-    .tooltip = 표시하고자 하는 항목을 클릭하세요
+    .tooltip = 표시할 열을 선택하려면 누르세요
 
 ## These strings are used for the context menu
 
