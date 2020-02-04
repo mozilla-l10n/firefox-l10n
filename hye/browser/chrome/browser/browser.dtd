@@ -451,6 +451,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Մուտք գործէք՝ տեսնելու Ձեր այլ սարքերի ներդիրների ցանկը։">
 <!ENTITY appMenuRemoteTabs.welcome.label "Դիտել Ձեր միւս սարքերի ներդիրների ցուցակը։">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ձեր հաշիւը պէտք է ստուգուի։">
+<!ENTITY appMenuRemoteTabs.signin.label "Մուտք գործել համաժամեցում">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Մուտք գործել &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Միացնել &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Կառաւարել սարքերը…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցուած ներդիրների կողագաւտին">
 
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
