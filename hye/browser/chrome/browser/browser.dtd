@@ -345,11 +345,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Վեբ մշակող">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY inspectContextMenu.label     "Զննել տարրը">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "Ստուգել մատչելիութեան յատկութիւնները">
 
+<!ENTITY fileMenu.label         "Նիշք">
+<!ENTITY fileMenu.accesskey       "F">
 
+<!ENTITY newUserContext.label             "Նոր պարունակ ներդիր">
+<!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "Կառաւարել պարունակները">
+<!ENTITY manageUserContext.accesskey      "O">
+<!ENTITY newNavigatorCmd.label        "Նոր պատուհան">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Սկսել գաղտնի դիտարկում">
+<!ENTITY newPrivateWindow.accesskey "W">
 
+<!ENTITY editMenu.label         "Խմբագրել">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Յետարկել">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
 
 
 
