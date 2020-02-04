@@ -57,6 +57,7 @@ onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
 
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }{ -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gerissètz vòstres senhals protegits e portables.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -78,7 +79,9 @@ onboarding-tracking-protection-button2 = Cossí fonciona
 onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
 onboarding-firefox-send-button = Ensajatz { -send-brand-name }
 onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Emportatz vòstres senhals pertot
 onboarding-lockwise-passwords-button2 = Obténer l’aplicacion
+onboarding-lockwise-strong-passwords-title = Creatz e gardatz de senhals fòrts.
 onboarding-lockwise-strong-passwords-button = Gerir vòstres identificants
 onboarding-facebook-container-button = Apondre l’extension
 onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senhals, e encara mai

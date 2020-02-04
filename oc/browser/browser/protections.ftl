@@ -28,8 +28,10 @@ graph-today = Uèi
 social-tab-title = Traçadors de malhums socials
 tracker-tab-title = Contengut utilizat pel seguiment
 fingerprinter-tab-title = Generadors d’emprentas numericas
+cryptominer-tab-title = Minaires de criptomonedas
 lockwise-title = Oblidatz pas jamai un senhal
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } gardatz d’un biais segur vòstres senhals dins lo navegador.
 protection-report-view-logins-button = Veire los identificants
     .title = Anar als identificants gardats
 manage-connected-devices = Gerir los periferics…
@@ -49,3 +51,10 @@ monitor-link = Cossí fonciona
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cryptominer =
+    .title = Minaires de criptomonedas
+    .aria-label =
+        { $count ->
+            [one] { $count } minaire de criptomonedas ( { $percentage } % )
+           *[other] { $count } minaires de criptomonedas ( { $percentage } % )
+        }
