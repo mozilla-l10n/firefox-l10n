@@ -28,5 +28,10 @@ content-blocking-title = Blocatge de contengut
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } es vòstre motor de recèrca per defaut en navegacion privada
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Per seleccionar un autre moto de recèrca anatz a las <a data-l10n-name="link-options">Opcions</a>
+       *[other] Per seleccionar un autre moto de recèrca anatz a las <a data-l10n-name="link-options">Preferéncias</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Tampar
