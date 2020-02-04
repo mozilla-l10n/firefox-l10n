@@ -295,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.permissionsGranted.tooltip       "이 웹 사이트에 추가 권한을 부여했습니다.">
 
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "방문 기록 보기">
 
 <!ENTITY searchItem.title             "검색">
 
