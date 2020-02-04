@@ -370,6 +370,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "Յետարկել">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "Կրկնել">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Կտրել">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Պատճէնել">
 
 
 
