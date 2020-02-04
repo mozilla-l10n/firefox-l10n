@@ -4,4 +4,5 @@
 
 restart-required-title = Reaviada necessària
 restart-required-header = O planhèm, manca pas gaire per poder contunhar.
+restart-required-intro-brand = { -brand-short-name } s’es mes a jorn en rèireplan. Clicatz Reaviar { -brand-short-name } per terminar la mesa a jorn.
 restart-button-label = Reavir { -brand-short-name }
