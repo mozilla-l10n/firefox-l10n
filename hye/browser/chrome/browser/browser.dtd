@@ -459,6 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Թաքցնել համաժամեցուած ներդիրների կողագաւտին">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Կապակցել այլ սարքի">
 
+<!ENTITY appMenuRecentHighlights.label "Վերջին ընդգծումները">
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
