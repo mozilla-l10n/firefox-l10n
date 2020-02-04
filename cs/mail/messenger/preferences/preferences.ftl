@@ -16,6 +16,7 @@ general-indexing-label = indexování
 composition-category-header = Vytváření zpráv
 composition-attachments-header = Přílohy
 composition-spelling-title = Pravopis
+compose-html-style-title = Styl HTML
 composition-addressing-header = Adresování
 privacy-main-header = Soukromí
 privacy-passwords-header = Hesla

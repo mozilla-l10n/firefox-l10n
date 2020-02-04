@@ -53,6 +53,7 @@ policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a p�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat URL adresy nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
+policy-ExtensionSettings = Správa všech aspektů instalace rozšíření.
 policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
 policy-InstallAddonsPermission = Povolení instalace doplňků z vybraných webových stránek.
