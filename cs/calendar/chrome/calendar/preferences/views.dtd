@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Obecné">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Denní a týdenní pohledy">
 <!ENTITY pref.calendar.view.multiweekview.caption "Více-týdenní pohled">
 <!ENTITY pref.calendar.view.workweek.caption "Pracovní dny">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Zobrazit číslo týdne v pohledech a v zobrazení miniměsíce">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "l">
 <!ENTITY pref.daysoff.label "Do pracovního týdne zahrnout tyto dny:">
+
+<!ENTITY pref.workweekDays.label "Pracovní dny:">
 
 <!ENTITY pref.calendar.view.daystart.label "Den začíná v:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
