@@ -21,7 +21,7 @@
 <!ENTITY saveMessageDlg.label "保存消息时显示确认对话框">
 <!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "“已发送”文件夹：">
+<!ENTITY sentFolderOn.label "“寄件备份”文件夹：">
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "Other:">
 <!ENTITY sentInOtherFolder.accesskey "O">

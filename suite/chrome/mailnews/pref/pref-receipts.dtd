@@ -10,7 +10,7 @@
 <!ENTITY receiptArrive.label          "当收到邮件回执时：">
 <!ENTITY leaveIt.label                "留在“收件箱”中">
 <!ENTITY leaveIt.accesskey            "L">
-<!ENTITY moveToSent.label             "移到“已发送邮件”文件夹中">
+<!ENTITY moveToSent.label             "移到“寄件备份”文件夹中">
 <!ENTITY moveToSent.accesskey         "M">
 <!ENTITY requestMDN.label             "当我收到索取邮件回执的请求时:">
 <!ENTITY returnSome.label             "允许对某些消息返回邮件回执">
