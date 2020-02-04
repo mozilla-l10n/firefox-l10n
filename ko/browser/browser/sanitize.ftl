@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = 방문 기록 삭제 설정
+    .title = 기록 삭제 설정
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = 최근 방문 기록 삭제
+    .title = 최근 기록 삭제
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
