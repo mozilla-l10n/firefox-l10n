@@ -106,7 +106,6 @@
 <!ENTITY fxa.menu.accountSettings.label "Impostazioni account">
 <!ENTITY fxa.menu.manageAccount2.label "Gestisci account">
 <!ENTITY fxa.menu.signOut.label "Disconnetti…">
-<!ENTITY fxa.menu.deviceSettings.label "Impostazioni dispositivo">
 <!ENTITY fxa.menu.setupSync.label "Configura &syncBrand.shortName.label;…">
 <!ENTITY fxa.service.sendTab.description "Invia immediatamente una scheda a qualsiasi dispositivo connesso al tuo account.">
 <!ENTITY fullscreenWarning.beforeDomain.label "">
