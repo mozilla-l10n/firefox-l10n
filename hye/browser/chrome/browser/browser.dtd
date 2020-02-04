@@ -381,6 +381,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label           "Տեղադրել">
 <!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Ջնջել">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "Նշել բոլորը">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY preferencesCmd2.label       "Կարգաւորումներ">
 
 
 
