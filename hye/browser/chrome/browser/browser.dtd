@@ -377,6 +377,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
 <!ENTITY copyCmd.label            "Պատճէնել">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "Տեղադրել">
+<!ENTITY pasteCmd.key           "V">
 
 
 
