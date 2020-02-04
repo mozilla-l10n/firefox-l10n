@@ -403,12 +403,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.label       "Գործիքագաւտիներ">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Կողային վահանակ">
+<!ENTITY viewSidebarMenu.accesskey "e">
 
+<!ENTITY viewCustomizeToolbar.label       "Հարմարեցնել…">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "Հարմարեցնել գործիքագաւտին…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
+<!ENTITY historyMenu.label "Պատմութիւն">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Վերջին փակուած ներդիրները">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Վերջին փակուած պատուհանները">
+<!ENTITY historyRestoreLastSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 
+<!ENTITY showAllHistoryCmd2.label "Ցուցադրել ամբողջ պատմութիւնը">
 
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuHistory.showAll.label "Ցուցադրել ամբողջ պատմութիւնը">
+<!ENTITY appMenuHistory.clearRecent.label "Մաքրել վերջին պատմութիւնը…">
+<!ENTITY appMenuHistory.restoreSession.label "Վերականգնել նախորդ աշխատաշրջանը">
+<!ENTITY appMenuHistory.viewSidebar.label "Պատմութեան կողային վահանակը">
+<!ENTITY appMenuHistory.hideSidebar.label "Թաքցնել պատմութեան կողմնասիւնը">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
