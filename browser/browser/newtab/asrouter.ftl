@@ -103,6 +103,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Dempuèi { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Veire lo rapòrt
 cfr-whatsnew-lockwise-backup-title = Salvagardatz vòstres senhals
+cfr-whatsnew-lockwise-backup-body = Ara podètz generar vòstres senhals securizats e i accedir de pertot ont vos connectatz.
 cfr-whatsnew-lockwise-backup-link-text = Activar las salvagardas
 cfr-whatsnew-lockwise-take-title = Emportatz vòstres senhals amb vos
 cfr-whatsnew-lockwise-take-link-text = Obténer l’aplicacion
