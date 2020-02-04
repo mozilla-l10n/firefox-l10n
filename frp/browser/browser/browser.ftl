@@ -39,6 +39,15 @@ browser-main-window-content-title =
 urlbar-plugins-notification-anchor =
     .tooltiptext = Manèlyér los agllètons en utilisacion
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
+
 ## Page Action Context Menu
 
 page-action-remove-from-urlbar =
@@ -55,6 +64,8 @@ full-screen-autohide =
 
 ## Bookmark Panel
 
+bookmark-panel-done-button =
+    .label = Fèt
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

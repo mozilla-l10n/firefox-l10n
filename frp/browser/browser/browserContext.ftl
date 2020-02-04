@@ -19,6 +19,9 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Rechargér
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -54,9 +57,15 @@ main-context-menu-copy-link =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Menar
+    .accesskey = M
 
 ##
 
+main-context-menu-media-play-speed-normal =
+    .label = Normâl
+    .accesskey = N
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
