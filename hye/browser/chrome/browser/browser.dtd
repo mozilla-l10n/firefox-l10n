@@ -456,6 +456,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Միացնել &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Կառաւարել սարքերը…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցուած ներդիրների կողագաւտին">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Թաքցնել համաժամեցուած ներդիրների կողագաւտին">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Կապակցել այլ սարքի">
 
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
