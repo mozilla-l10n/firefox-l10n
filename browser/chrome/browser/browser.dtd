@@ -423,7 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "방문 기록 보기">
-<!ENTITY appMenuHistory.clearRecent.label "최근 방문 기록 삭제…">
+<!ENTITY appMenuHistory.clearRecent.label "최근 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "방문 기록 탐색창 보기">
 <!ENTITY appMenuHistory.hideSidebar.label "방문 기록 탐색창 숨기기">
