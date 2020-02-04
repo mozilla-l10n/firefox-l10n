@@ -447,6 +447,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ցանկանու՞մ եք տեսնել Ձեր այլ սարքերի ներդիրները։">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Բացել համաժամեցման կարգաւորումները">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Մուտք գործէք՝ տեսնելու Ձեր այլ սարքերի ներդիրների ցանկը։">
+<!ENTITY appMenuRemoteTabs.welcome.label "Դիտել Ձեր միւս սարքերի ներդիրների ցուցակը։">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ձեր հաշիւը պէտք է ստուգուի։">
 
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
