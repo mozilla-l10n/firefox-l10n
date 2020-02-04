@@ -29,6 +29,7 @@ social-tab-title = Traçadors de malhums socials
 tracker-tab-title = Contengut utilizat pel seguiment
 fingerprinter-tab-title = Generadors d’emprentas numericas
 cryptominer-tab-title = Minaires de criptomonedas
+cryptominer-tab-content = Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la bateria, alentisson l’ordenador e aumentan vòstra factura d’electricitat. <a data-l10n-name="learn-more-link">Ne saber mai</a>
 lockwise-title = Oblidatz pas jamai un senhal
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gardatz d’un biais segur vòstres senhals dins lo navegador.
