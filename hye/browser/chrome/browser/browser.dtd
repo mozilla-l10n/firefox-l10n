@@ -391,8 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.label       "Կարգաւորումներ">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Մուտքեր եւ գաղտնաբառեր">
 
+<!ENTITY clearRecentHistory.label               "Մաքրել վերջին պատմութիւնը…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 
 
