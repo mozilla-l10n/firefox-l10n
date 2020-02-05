@@ -471,6 +471,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Ամրացնել գերլցուած ցանկում">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
