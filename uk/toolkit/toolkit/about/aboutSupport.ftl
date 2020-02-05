@@ -302,7 +302,7 @@ launcher-process-status-unknown = Невідомий стан
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Увімкнено користувачем
-multi-process-status-1 = Увімкнено типово
+multi-process-status-1 = Типово увімкнено
 multi-process-status-2 = Вимкнено
 multi-process-status-4 = Вимкнено інструментами доступності
 multi-process-status-6 = Вимкнено через непідтримуване введення тексту
