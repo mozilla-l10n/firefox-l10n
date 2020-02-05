@@ -13,7 +13,7 @@
 <!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "재설정">
 <!ENTITY resetPassword.title  "기본 비밀번호 재설정">
-<!ENTITY resetPassword.text  "기본 비밀번호를 재설정하면 저장된 웹과 전자 메일 비밀번호, 폼 데이터, 개인 인증서, 그리고 비밀키에 접근하지 못하게됩니다. 정말로 기본 비밀번호를 재설정하시겠습니까?">
+<!ENTITY resetPassword.text  "기본 비밀번호를 재설정하면 저장된 모든 웹, 이메일 비밀번호, 양식 데이터, 개인 인증서 및 개인 키에 접근하지 못하게 됩니다. 정말로 기본 비밀번호를 재설정하시겠습니까?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "인증서 다운로드 중">
