@@ -8,6 +8,8 @@
 
 # Page Title strings
 
+# Page title (ie tab title) for the Setup page
+about-debugging-page-title-setup-page = Desbugatge - Configuracion
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
 about-debugging-page-title-runtime-page = Desbugatge - Temps passat / { $selectedRuntimeId }
@@ -79,6 +81,8 @@ about-debugging-setup-usb-updating-button = Actualizacion…
 about-debugging-setup-usb-status-enabled = Activat
 about-debugging-setup-usb-status-disabled = Desactivat
 about-debugging-setup-usb-status-updating = Actualizacion…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Activar lo menú Desvolopaire sus vòstre periferic Android.
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Apondre
@@ -123,6 +127,10 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Se desconectar
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Reduire / espandir
 
 # Debug Targets strings
 
@@ -149,6 +157,9 @@ about-debugging-worker-action-start = Aviar
 about-debugging-worker-status-stopped = Arrestat
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Inscripcion
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Encastre
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
