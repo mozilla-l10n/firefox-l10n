@@ -538,6 +538,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Unahing ipakita ang mga mungkahi sa paghahanap bago ang kasaysayan ng pag-browse sa mga resulta sa address bar
+search-show-suggestions-private-windows =
+    .label = Magpakita ng mga mungkahi sa paghahanap sa mga Private Window
 suggestions-addressbar-settings = Piliin ang mga kagustuhan para sa kasaysayan ng pag-browse, mga bookmark, at mga tab suggestion
 search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi ipapakita sa location bar dahil na-configure mo ang { -brand-short-name } na hindi kailanman tatandaan ang kasaysayan.
 search-one-click-header = Mga One-Click Search Engine
@@ -564,10 +566,19 @@ search-keyword-warning-bookmark = Ginagamit na ng isang bookmark ang keyword na 
 ## Containers Section
 
 containers-back-link = « Bumalik
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Bumalik sa mga Pagpipilian
+           *[other] Bumalik sa mga Kagustuhan
+        }
 containers-header = Mga Container Tab
 containers-add-button =
     .label = Magdagdag ng Bagong Container
     .accesskey = A
+containers-new-tab-check =
+    .label = Pumili ng container para sa bawat bagong tab
+    .accesskey = S
 containers-preferences-button =
     .label = Mga Kagustuhan
 containers-remove-button =
@@ -587,6 +598,9 @@ sync-signedout-account-create = Wala kang account? Magsimula
 sync-signedout-account-signin =
     .label = Mag Sign In...
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Mag-sign in sa { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -968,6 +982,10 @@ permissions-location = Lokasyon
 permissions-location-settings =
     .label = Mga Setting…
     .accesskey = t
+permissions-xr = Virtual Reality
+permissions-xr-settings =
+    .label = Mga Setting…
+    .accesskey = t
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Mga Setting…
@@ -1016,6 +1034,7 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
 collection-description = Nagsusumikap kaming mabigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
 collection-privacy-notice = Abisong Pribasiya
+collection-health-report-telemetry-disabled = Hindi mo na pinahihintulutan ang { -vendor-short-name } na kumuha ng technical at interaction data. Lahat ng nakalipas na data ay buburahin sa loob ng 30 araw.
 collection-health-report-telemetry-disabled-link = Matuto ng higit pa
 collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }

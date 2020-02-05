@@ -29,10 +29,7 @@
 
 <!ENTITY fillLoginMenu.label          "Pakipunan ang Login">
 <!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillSuggestedPassword.label  "Gumamit ng Namungkahing Password">
-<!ENTITY fillSuggestedPassword.accesskey "S">
-<!ENTITY fillGeneratedPassword.label  "Gumamit ng isang Ligtas na Nabuo na Password">
-<!ENTITY fillGeneratedPassword.accesskey "S">
+<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Maglagay ng Password">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Maglagay ng Username">

@@ -135,7 +135,7 @@ media-capabilities-title = Mga Media Capability
 # List all the entries of the database.
 media-capabilities-enumerate = Ilista ang database
 
-
+##
 
 intl-title = Internationalization & Localization
 intl-app-title = Mga Application Setting
@@ -156,8 +156,9 @@ intl-regional-prefs = Mga Regional Preference
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log

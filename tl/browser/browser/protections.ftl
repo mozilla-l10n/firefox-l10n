@@ -66,6 +66,13 @@ lockwise-passwords-stored =
 turn-on-sync = Buksan ang { -sync-brand-short-name }...
     .title = Pumunta sa sync preferences
 manage-connected-devices = Pamahalaan ang mga device…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Nakakonekta sa { $count } device
+       *[other] Nakakonekta sa { $count } mga device
+    }
 monitor-title = Maging alisto sa mga data breach
 monitor-link = Paano ito gumagana
 monitor-header-content-no-account = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang naiulat na data breach, at maalerto sa mga bagong breach.
