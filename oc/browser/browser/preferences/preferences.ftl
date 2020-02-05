@@ -208,6 +208,9 @@ preferences-default-zoom = Zoom per defaut
     .accesskey = Z
 preferences-default-zoom-value =
     .label = { $percentage } %
+preferences-zoom-text-only =
+    .label = Zoom tèxte solament
+    .accesskey = t
 language-header = Lenga
 choose-language-description = Causissètz vòstra lenga preferida per l'afichatge de las paginas
 choose-button =
@@ -291,6 +294,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -610,6 +617,11 @@ sync-signedin-settings-desc = Causir çò que cal sincronizar per vòstres perif
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronizacion : ACTIVADA
+prefs-syncing-off = Sincronizacion : DESACTIVADA
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name }…
+    .accesskey = C
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ara
     .accesskeynotsyncing = n
@@ -617,6 +629,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Los elements seguents son actualament sincronizats :
 sync-currently-syncing-bookmarks = Marcapaginas
 sync-currently-syncing-history = Istoric
 sync-currently-syncing-tabs = Onglets dobèrts
@@ -709,6 +722,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
+forms-generate-passwords =
+    .label = Suggerir e generar de senhals fòrts
+    .accesskey = u
 forms-breach-alerts-learn-more-link = Ne saber mai
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -776,6 +792,9 @@ sitedata-total-size-calculating = Calcul del pès de las donadas dels sites e de
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Los cookies, lo cache e las donadas dels sites utilizan actualament { $value } { $unit } d’espaci disc.
 sitedata-learn-more = Ne saber mai
+sitedata-delete-on-close =
+    .label = Suprimir los cookies e donadas de sites en tampar { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Acceptar los cookies e dondas de site
     .accesskey = A
@@ -788,6 +807,10 @@ sitedata-block-desc = Tipe de contengut blocat
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Traçadors tèrces
+sitedata-option-block-cross-site-trackers =
+    .label = Traçadors intersites
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Traçadors intersites e de malhums socials
 sitedata-option-block-unvisited =
     .label = Cookies de sites pas visitats
 sitedata-option-block-all-third-party =

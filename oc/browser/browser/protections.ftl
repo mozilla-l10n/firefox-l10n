@@ -9,6 +9,8 @@ graph-week-summary =
         [one] { -brand-short-name } a blocat { $count } traçador dempuèi la setmana passada.
        *[other] { -brand-short-name } a blocat { $count } traçadors dempuèi la setmana passada.
     }
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Traçadors blocats per { -brand-short-name } aquesta setmana
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -26,6 +28,7 @@ protection-report-manage-protections = Gerir los paramètres
 # capitalization for this string should match the output for your locale.
 graph-today = Uèi
 social-tab-title = Traçadors de malhums socials
+cookie-tab-title = Cookies de seguiment entresites
 tracker-tab-title = Contengut utilizat pel seguiment
 fingerprinter-tab-title = Generadors d’emprentas numericas
 cryptominer-tab-title = Minaires de criptomonedas
@@ -35,6 +38,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gardatz d’un biais segur vòstres senhals dins lo navegador.
 protection-report-view-logins-button = Veire los identificants
     .title = Anar als identificants gardats
+turn-on-sync = Activar { -sync-brand-short-name }…
+    .title = Anar a las preferéncias
 manage-connected-devices = Gerir los periferics…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
