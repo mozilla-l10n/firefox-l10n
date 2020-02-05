@@ -594,6 +594,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Շրջանակը բացել նոր պատուհանում">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "Բացել յղումը նոր պարունակ ներդիրում">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 
 
 
