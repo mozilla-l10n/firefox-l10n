@@ -798,13 +798,13 @@ history-remember-search-option =
     .label = 검색 및 양식 기록 저장
     .accesskey = f
 history-clear-on-close-option =
-    .label = { -brand-short-name }를 닫을 때 방문 기록 삭제
+    .label = { -brand-short-name }를 닫을 때 기록 삭제
     .accesskey = r
 history-clear-on-close-settings =
     .label = 설정…
     .accesskey = t
 history-clear-button =
-    .label = 방문 기록 삭제…
+    .label = 기록 삭제…
     .accesskey = s
 
 ## Privacy Section - Site Data
