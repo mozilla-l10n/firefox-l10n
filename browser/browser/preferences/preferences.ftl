@@ -768,7 +768,7 @@ forms-master-pw-fips-desc = 비밀번호 변경 실패
 
 ## Privacy Section - History
 
-history-header = 방문 기록
+history-header = 기록
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -781,11 +781,11 @@ history-header = 방문 기록
 history-remember-label = { -brand-short-name }가
     .accesskey = w
 history-remember-option-all =
-    .label = 방문 기록을 기억함
+    .label = 기록을 기억함
 history-remember-option-never =
-    .label = 방문 기록을 기억 안 함
+    .label = 기록을 기억 안 함
 history-remember-option-custom =
-    .label = 방문 기록에 사용자 지정 설정 사용
+    .label = 기록에 사용자 지정 설정 사용
 history-remember-description = { -brand-short-name }가 방문, 다운로드, 양식 및 검색 기록을 저장합니다.
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며 웹 사이트 방문 중 어떤 기록도 저장하지 않습니다.
 history-private-browsing-permanent =
