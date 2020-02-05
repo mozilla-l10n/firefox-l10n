@@ -209,7 +209,7 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Nastroje
-    .accesskey = s
+    .accesskey = t
 menu-tools-downloads =
     .label = Sćehnjenja
     .accesskey = h
