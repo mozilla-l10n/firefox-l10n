@@ -14,6 +14,7 @@ about-private-browsing-info-searches = Las recèrcas
 about-private-browsing-info-downloads = Telecargaments
 private-browsing-title = Navegacion privada
 about-private-browsing-info-saved = { -brand-short-name } <strong>enregistrarà</strong>vòstres :
+about-private-browsing-info-myths = Mites màgers de la navegacion privada
 about-private-browsing-info-clipboard = tèxt copiat
 about-private-browsing-info-temporary-files = Los fichièrs temporaris
 about-private-browsing-info-cookies = Los cookies
