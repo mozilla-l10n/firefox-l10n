@@ -542,13 +542,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Որոնման հարցում">
 
+<!ENTITY contentSearchSubmit.tooltip  "Հաստատել որոնումը">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Որոնում">
+<!ENTITY searchIcon.tooltip           "Որոնում">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Որոնել՝ ">
+<!ENTITY searchWith.label             " հետ՝">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -556,6 +561,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Որոնում ">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
