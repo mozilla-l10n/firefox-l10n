@@ -508,6 +508,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Հուշում.">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Աւգնութիւն ստացէք ինչ-որ բան գտնելիս։ Նայէք &#x1F50E;-ին՝ յաջորդ առաջարկութեան համար։">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Փոխել ընտրանքները…">
 
 <!--
   Comment duplicated from browser-sets.inc:
