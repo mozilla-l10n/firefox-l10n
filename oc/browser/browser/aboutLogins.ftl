@@ -47,6 +47,7 @@ login-list-count =
 login-list-sort-label-text = Triar per :
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
+login-list-breached-option = Pèrda de donadas de sites
 login-list-last-changed-option = Darrièra modificacion
 login-list-last-used-option = Darrièra utilizacion
 login-list-intro-title = Cap d’identificant pas trobat
@@ -126,6 +127,7 @@ confirm-discard-changes-dialog-confirm-button = Ignorar
 
 ## Breach Alert notification
 
+breach-alert-link = Ne saber mai tocant aquesta pèrda de donadas.
 breach-alert-dismiss =
     .title = Tampar aquesta alèrta
 
