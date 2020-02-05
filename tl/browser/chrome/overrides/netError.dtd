@@ -94,10 +94,13 @@
   <li>Siguruhing naka-install sa iyong system ang Personal Security Manager.</li>
   <li>Ito ay maaaring dahil sa hindi standard na configuration sa server.</li></ul>">
 
-<!ENTITY nssFailure2.title "Nabigong Ligtas na Koneksyon">
-<!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>Ang page na gusto mong makita ay hindi naipapakita dahil hindi masigurong katiwa-tiwala ang nakuhang data.</li>
-  <li>Pakitawagan ang mga may-ari ng website para maipagbigay-alam ang problemang ito.</li></ul>">
+<!ENTITY nssFailure2.title "Bigo ang Secure Connection">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Ang pahinang gusto mong matingnan ay hindi maipakita dahil hindi masigurong katiwa-tiwala ang nakuhang data.</li>
+  <li>Pakitawagan ang mga may-ari ng website para maipagbigay-alam ang problemang ito.</li>
+</ul>
+">
 
 <!ENTITY certerror.longpagetitle2 "Babala: May Potential na Security Risk">
 <!ENTITY certerror.sts.longpagetitle  "Hindi Nag-connect: Potential Security Issue">
