@@ -923,7 +923,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.header "다음과 관련된 문제가 있는 경우 보호 기능을 끕니다:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "로그인 필드">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "서식">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "양식">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "결제">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "댓글">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "동영상">
