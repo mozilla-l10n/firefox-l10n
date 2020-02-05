@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Performance ng profile
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Ang iyong browser configuration ay hindi compatible sa mga Service Worker. <a>Alamin</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Ang naka-connect na browser ay may lumang version ({ $runtimeVersion }). Ang minimum na suportadong version ay ({ $minVersion }). Ito ay isang hindi suportadong setup at maaaring ikasira ng DevTools. Paki-update ang konektadong browser. <a>Pag-troubleshoot</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Ang naka-connect na browser ay may lum
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Maaaring hindi gumana ang Debugger panel sa nakakonektang browser. Pakigamit ang Firefox { $runtimeVersion } kung kailangan mong gamitin ang Debugger sa browser na ito.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -305,6 +305,11 @@ about-debugging-main-process-name = Main Process
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Ang Main Process para sa target na browser
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Multiprocess Toolbox
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Main Process at mga Content Process para sa target browser
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Isara ang mensahe

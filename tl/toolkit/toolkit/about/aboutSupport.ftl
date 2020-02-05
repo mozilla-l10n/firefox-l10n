@@ -156,6 +156,8 @@ intl-regional-prefs = Mga Regional Preference
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Remote Debugging (Chromium Protocol)
+remote-debugging-accepting-connections = Tumatanggap ng mga Koneksyon
 remote-debugging-url = URL
 
 ##
@@ -258,6 +260,7 @@ d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 reset-on-next-restart = I-reset sa Susunod na Restart
 gpu-process-kill-button = Patigilin ang mga Proseso ng GPU
 gpu-device-reset = Device Reset

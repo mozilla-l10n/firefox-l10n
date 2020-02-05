@@ -337,6 +337,10 @@ remove-addon-disabled-button = Hindi Matanggal <a data-l10n-name="link">Bakit?</
 disable-addon-button = I-disable
 enable-addon-button = I-enable
 expand-addon-button = Karagdagang Pagpipilian
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = I-enable
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Mga Pagpipilian
@@ -440,6 +444,7 @@ discover-heading = Ipasadya mo ang Iyong { -brand-short-name }
 shortcuts-heading = I-manage ang mga Extension Shortcut
 theme-heading-search-label = Maghanap pa ng ibang mga tema
 extension-heading-search-label = Maghanap pa ng ibang mga extension
+default-heading-search-label = Maghanap ng mga karagdagang add-on
 addons-heading-search-input =
     .placeholder = Hanapin sa addons.mozilla.org
 addon-page-options-button =
