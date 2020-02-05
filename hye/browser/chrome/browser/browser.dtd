@@ -578,8 +578,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchInNewTab.label         "Որոնել նոր ներդիրում">
 <!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "Հաստատել որպէս հիմնական որոնիչ">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
+<!ENTITY openLinkCmdInTab.label       "Յղումը բացել նոր ներդիրում">
 
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "Յղումը բացել նոր պատուհանում">
+<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "Բացել յղումը գաղտնի դիտարկմամբ">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkCmdInCurrent.label     "Բացել յղումը">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openFrameCmdInTab.label      "Շրջանակը բացել նոր ներդիրում">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "Շրջանակը բացել նոր պատուհանում">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "Բացել յղումը նոր պարունակ ներդիրում">
 
 
 
