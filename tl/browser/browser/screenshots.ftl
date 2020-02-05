@@ -31,5 +31,6 @@ screenshots-unshootable-page-error-details = Ito ay hindi isang standard na Web 
 screenshots-self-screenshot-error-title = Hindi ka maaaring kumuha ng isang shot ng isang pahina ng Firefox screenshot!
 screenshots-empty-selection-error-title = Masyadong maliit ang iyong pinili
 screenshots-private-window-error-title = Naka-disable ang { -screenshots-brand-name } sa Private Browsing Mode
+screenshots-private-window-error-details = Pasensya na sa abala. Inaayos namin ang feature na ito para sa mga susunod na release.
 screenshots-generic-error-title = Whoa! Nagiging magulo ang Firefox screenshot.
 screenshots-generic-error-details = Hindi kami sigurado kung ano ang nangyari. Pag-aalaga upang subukang muli o kumuha ng isang shot ng isang iba't ibang mga pahina?

@@ -9,6 +9,7 @@ forward = Magpatuloy
 reload = I-Reload
 home = Home
 fullscreen = Buong Screen
+touchbar-fullscreen-exit = Umalis sa Fullscreen
 find = Hanapin
 new-tab = Bagong tab
 add-bookmark = Magdagdag ng bookmark
@@ -33,5 +34,5 @@ search-opentabs = Buksan ang mga Tab
 search-tags = Mga Tag
 search-titles = Mga Pamagat
 
-
+##
 

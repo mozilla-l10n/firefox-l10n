@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Umalis sa Full Screen">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Buong Screen">
 <!ENTITY fullScreenCmd.accesskey "B">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -150,15 +151,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Kailangan mong i-verify ang iyong account bago ka makapag-sync.">
 <!ENTITY fxa.unverified.button.label "Buksan ang mga &syncBrand.shortName.label; Setting…">
 
-<!ENTITY pictureInPictureHideToggle.label "Itago ang Toggle para sa Picture-in-Picture">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Mag-sign in bilang si">
 <!ENTITY fxa.menu.manageAccount.label "I-manage ang Account…">
 <!ENTITY fxa.menu.syncSettings.label "Mga &syncBrand.shortName.label; Setting…">
+
+<!ENTITY pictureInPictureHideToggle.label "Itago ang Toggle para sa Picture-in-Picture">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,10 +171,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Mag-sign in sa &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Buksan ang &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Mga serbisyo ng &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Account">
 <!ENTITY fxa.menu.settings.label "Mga setting">
 <!ENTITY fxa.menu.accountSettings.label "Mga Account Setting">
+<!ENTITY fxa.menu.manageAccount2.label "Pamahalaan ang Account">
 <!ENTITY fxa.menu.signOut.label "Sign Out…">
 <!ENTITY fxa.menu.deviceSettings.label "Mga Device Setting">
 <!ENTITY fxa.menu.setupSync.label "Mag-Set Up ng &syncBrand.shortName.label;…">
@@ -244,7 +245,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Itigil">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
 <!ENTITY printButton.label            "I-print">
 <!ENTITY printButton.tooltip          "I-limbag ang pahina na ito">
@@ -276,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pamahalaan ang paggamit ng DRM software">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buksan ang MIDI panel">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Hinarangan mo ang iyong camera para sa website na ito.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Na-block mo ang iyong mikropono para sa website na ito.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Na-block mo ang website na ito mula sa pagbabahagi ng iyong screen.">
@@ -290,6 +291,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Na-block mo ang website na ito mula sa paggamit ng Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Na-block mo ang access sa MIDI para sa website na ito.">
 <!ENTITY urlbar.installBlocked.tooltip           "Hinarang mo ang pagkabit ng mga add-on sa website na ito.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
 
@@ -496,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Higit pa">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Hanapin o ilagay ang address">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -567,12 +572,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Hanapin gamit ang:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Ngayon naman, maghanap gamit ang:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +584,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Buksan ang Link sa Bagong Tab">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Buksan ang Link sa Bagong Window">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -600,6 +600,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "I-load ang Frame muli">
 <!ENTITY reloadFrameCmd.accesskey     "l">
@@ -633,6 +634,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "i-Bookmark ang Frame na Ito">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Kopyahin ang Link">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -650,6 +652,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "I-save ang Pahina Bilang…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "I-Save ang Frame Bilang…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -816,6 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Switch Text Direction">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Hanapin sa Pahinang Ito…">
@@ -939,12 +943,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Bakit?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Mapapayagan sa site na ito ang lahat ng tracker kapag isinara ang mga proteksyon. Maaari rin nitong mapaganda ang ilang functionality ng website.">
-<!ENTITY protections.socialMediaTrackers.label "Mga Social Media Tracker">
-<!ENTITY protections.crossSiteTrackingCookies.label "Mga Cross-Site Tracking Cookie">
-<!ENTITY protections.trackingContent.label "Mga Tracking Content">
-<!ENTITY protections.fingerprinters.label "Mga fingerprinter">
-<!ENTITY protections.cryptominers.label "Mga cryptominer">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga protection.">
 <!ENTITY protections.noTrackersFound.description "Walang mga tracker na kilala ng &brandShortName; na natuklasan sa pahinang ito.">
 
@@ -967,7 +965,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Mag sign-in sa &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Mag-sync Na">
 <!ENTITY syncSyncNowItemSyncing.label "Nagsi-Sync…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +1002,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
-
-<!ENTITY contentBlocking.cookies2.label "Mga Cross-Site Tracking Cookie">
 
 <!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
 <!ENTITY contentBlocking.cryptominersView.label "Mga cryptominer">
