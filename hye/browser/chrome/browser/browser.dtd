@@ -473,6 +473,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Ամրացնել գերլցուած ցանկում">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ապամրացնել գերլցուած ցանկից">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
+<!ENTITY customizeMenu.removeFromToolbar.label "Հեռացնել գործիքավահանակից">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Աւելացնել այլ տարրեր…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Ինքնուրոյն թաքցուող գործիքագաւտի">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Կառաւարել ընդլայնումը">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
