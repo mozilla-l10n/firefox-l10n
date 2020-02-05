@@ -595,7 +595,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "Բացել յղումը նոր պարունակ ներդիրում">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
+<!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
 
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Կրկին բեռնել շրջանակը">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Դիտել նշուած մասի կոդը">
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Դիտել էջի կոդը">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
 
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
