@@ -130,6 +130,15 @@ cfr-whatsnew-permission-prompt-cta = Alamin
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Naharang na Fingerprinter
+       *[other] Naharang na mga Fingerprinter
+    }
+cfr-whatsnew-fingerprinter-counter-body = Hinaharang ng { -brand-shorter-name } ang maraming mga fingerprinter na palihim na nangangalap ng impormasyon tungkol sa iyong device at mga pagkilos para gumawa ng isang advertising profile tungkol sa iyo.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Mga Fingerprinter
 cfr-whatsnew-fingerprinter-counter-body-alt = Maaaring harangan ng { -brand-shorter-name } ang mga fingerprinter na palihim na nangangalap ng impormasyon ukol sa iyong device at mga action para gumawa ng iyong advertising profile.

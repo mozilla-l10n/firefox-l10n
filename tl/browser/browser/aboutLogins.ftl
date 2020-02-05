@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Pagsunud-sunurin ayon sa:
 login-list-name-option = Pangalan (A-Z)
+login-list-name-reverse-option = Pangalan (Z-A)
 login-list-breached-option = Mga Nakompromisong Website
 login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit

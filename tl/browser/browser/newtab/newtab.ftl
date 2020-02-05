@@ -45,9 +45,6 @@ newtab-topsites-save-button = I-save
 newtab-topsites-preview-button = I-preview
 newtab-topsites-add-button = Idagdag
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Sigurado ka bang gusto mong tanggalin ang bawat pagkakataon ng pahinang ito mula sa iyong kasaysayan?
@@ -94,18 +91,19 @@ newtab-privacy-modal-paragraph =
     nilalamang inirerekomenda ng piling mga suki. Sinisiguro namin na ang iyong
     browsing data ay hindi lumalabas mula sa kopya mo ng { -brand-product-name } —
     hindi namin ito makikita, pati ang mga suki namin.
+newtab-privacy-modal-paragraph-2 =
+    Bukod sa paghahatid ng magagandang kwento, nagpapakita rin kami ng mga 
+    nilalamang inirerekomenda ng piling mga suki. Sinisiguro namin na <strong>ang iyong
+    browsing data ay hindi lumalabas mula sa kopya mo ng { -brand-product-name }</strong> — hindi namin ito nakikita,
+    kahit mga suki namin.
 newtab-privacy-modal-link = Alamin kung paano gumagana ang privacy sa bagong tab
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Alisin ang Bookmark
 # Bookmark is a verb here.
 newtab-menu-bookmark = Bookmark
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -135,10 +133,10 @@ newtab-label-removed-bookmark = Natanggal na ang bookmark
 newtab-label-recommended = Nagte-trend
 newtab-label-saved = Nai-save na sa { -pocket-brand-name }
 newtab-label-download = Nai-download na
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponsored
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -191,7 +189,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Halos na-load na yung
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tanyag na mga paksa:
 newtab-pocket-more-recommendations = Karagdagang Rekomendasyon
-newtab-pocket-how-it-works = Paano ito gumagana
+newtab-pocket-whats-pocket = Ano ang { -pocket-brand-name }?
 newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
 newtab-pocket-cta-text = I-save sa { -pocket-brand-name } ang mga kwentong iyong nagustuhan, at palawigin ang iyong pagiisip sa mga nakabibighaning babasahin.
 

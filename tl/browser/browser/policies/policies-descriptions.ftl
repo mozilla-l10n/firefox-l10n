@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = I-override ang first run page. Itakda ang polisiya
 policy-OverridePostUpdatePage = Patungan ang nilalaman ng pahinang "Ano ang Bago" matapos mag-update. Itakda ang polisiyang ito sa blangko kung gusto mong huwag paganahin ang post-update page.
 policy-PasswordManagerEnabled = I-enable ang pag-save ng mga password sa password manager.
 policy-Permissions = I-configure ang mga pahintulot para sa camera, mikropono, lokasyon at abiso.
+policy-Permissions2 = I-configure ang mga pahintulot para sa camera, mikropono, lokasyon, abiso, at autoplay.
 policy-PopupBlocking = Payagan ang mga piling website para magpakita ng popup by default.
 policy-Preferences = I-set at i-lock ang value para sa mga kagustuhan na napili
 policy-PromptForDownloadLocation = Magtanong kung saan maaaring mag save ng file kapag nag-download.

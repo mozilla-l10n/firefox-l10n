@@ -145,6 +145,7 @@ onboarding-facebook-container-title = Bigyang-hangganan ang Facebook
 onboarding-facebook-container-text2 = Ihinihiwalay ng { -facebook-container-brand-name } ang iyong profile mula sa iba pang mga bagay, at ginagawang mas mahirap para sa Facebook na i-target ka ng mga ad.
 onboarding-facebook-container-button = Idagdag ang Extension
 onboarding-import-browser-settings-title = I-import ang iyong mga Bookmark, Password, at iba pa
+onboarding-import-browser-settings-text = Sumabak agad — madali mong dalhin kasama mo ang iyong mga site at setting sa Chrome.
 onboarding-import-browser-settings-button = i-Import ang Chrome Data
 
 ## Message strings belonging to the Return to AMO flow

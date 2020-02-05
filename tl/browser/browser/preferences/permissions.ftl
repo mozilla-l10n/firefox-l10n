@@ -136,6 +136,9 @@ permissions-site-location-disable-desc = Ito ang pipigil sa mga website na wala 
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Mga Setting - Mga Pahintulot sa Virtual Reality
+    .style = { permissions-window.style }
 permissions-site-xr-desc = Ang mga sumusunod na website ay humingi ng access sa iyong mga virtual reality device. Maaari mong tukuyin kung aling website ang puwedeng makapag-acccess ng mga ito. Maaari mo ring i-block ang mga bagong request na humihingi ng access sa mga virtual reality device mo.
 permissions-site-xr-disable-label =
     .label = I-block ang mga bagong request na humihingi ng access sa mga virtual reality device mo
