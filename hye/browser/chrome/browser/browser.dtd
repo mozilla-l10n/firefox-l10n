@@ -499,10 +499,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 
 <!ENTITY urlbar.placeholder2          "Մուտքագրէք կայքի հասցէ կամ որոնում">
+<!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Ընդլայնում՝">
+<!ENTITY urlbar.switchToTab.label     "Անցնել ներդիրի՝">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Հուշում.">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Աւգնութիւն ստացէք ինչ-որ բան գտնելիս։ Նայէք &#x1F50E;-ին՝ յաջորդ առաջարկութեան համար։">
 
 <!--
   Comment duplicated from browser-sets.inc:
