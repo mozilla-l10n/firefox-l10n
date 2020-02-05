@@ -55,6 +55,8 @@ onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-privacy-title = Vertadièra vida privada
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }{ -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gerissètz vòstres senhals protegits e portables.
@@ -76,8 +78,11 @@ onboarding-ghostery-title = Ghostery
 onboarding-fxa-title = Sincronizar
 onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
 onboarding-tracking-protection-button2 = Cossí fonciona
+onboarding-data-sync-title = Emportatz vòstres paramètres pertot
+onboarding-data-sync-button2 = Se connectar a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Siatz al fial de las pèrdas de donadas
 onboarding-firefox-monitor-text = { -monitor-brand-name } verifica se vòstra adreça electronica fa part d’una pèrda de donadas e vos avisa se apareis dins de pèrdas posterioras.
+onboarding-firefox-monitor-button = S’abonar a las alèrtas
 onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
 onboarding-firefox-send-button = Ensajatz { -send-brand-name }
 onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
