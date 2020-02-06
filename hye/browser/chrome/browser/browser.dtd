@@ -824,7 +824,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Կրկին որոնել">
 <!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY spellAddDictionaries.label "Աւելացնել բառարաններ…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
