@@ -160,5 +160,6 @@ identity-connection-verified = Nkuvi sá´á iin conexión vatu jii sitio ya´a.
 identity-remove-cert-exception =
     .label = Xina excepción
     .accesskey = E
+identity-description-active-loaded-insecure = Información jia´anu jii nuu ya´a kuvi kune´ya inka ñivɨ (kua contraseñas, mensajes, tutu crédito, etc.).
 identity-learn-more =
     .value = Ka´vi kue´eka

@@ -11,6 +11,7 @@ title = Tu´un jíía íyo
 heading = Daa nsama perfil { -brand-short-name } noo´o
 changed-title = Naku nsama?
 options-title = ¿Naku kuvi kajini?
+options-use-sync = Dee kuvinu kuaíyo datos perfil noo´o koo inu ntaka nuu chu´unu Firefox, kuvi ni´inu iin { -fxaccount-brand-name } jee koo sincronizados.
 resources = Recursos:
 sync-header = Kajie´e sesión a xíín sá´á { -fxaccount-brand-name }
 sync-label = Chu´un email noo´o
