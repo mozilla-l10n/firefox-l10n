@@ -812,8 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
+<!ENTITY bidiSwitchPageDirectionItem.label        "Փոխել էջի ուղղութիւնը">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Փոխել գրոյթի ուղղութիւնը">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY findOnCmd.label     "Որոնում էջում…">
+<!ENTITY findOnCmd.accesskey "F">
 
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
