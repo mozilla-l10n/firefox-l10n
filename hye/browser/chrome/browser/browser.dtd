@@ -628,13 +628,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.label       "Էջանշել այս էջը">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "էջանշել այս յղումը">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "Էջանշել այս շրջանակը">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
+<!ENTITY pageAction.copyLink.label    "Պատճէնել յղումը">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Պահպանել Pocket-ում">
+<!ENTITY saveToPocketCmd.label        "Պահպանել էջը Pocket-ում">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Պահպանել յղումը Pocket-ում">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Դիտել Pocket ցուցակը">
 
+<!ENTITY emailPageCmd.label           "Յղումը ուղարկել էլ֊փոստով…">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.label            "Պահպանել էջը որպէս…">
+<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Պահպանել շրջանակը որպէս…">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.label          "Տպել շրջանակը…">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
