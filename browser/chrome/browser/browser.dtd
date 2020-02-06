@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "K">
 <!ENTITY exitFullScreenCmd.label "Napusti prikaz preko cijelog zaslona">
 <!ENTITY exitFullScreenCmd.accesskey "N">
+
 <!ENTITY fullScreenCmd.label "Potpuni zaslon">
 <!ENTITY fullScreenCmd.accesskey "o">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -246,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "s">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Idi na adresu iz lokacijske trake">
 <!ENTITY printButton.label            "Ispiši">
 <!ENTITY printButton.tooltip          "Ispiši ovu stranicu">
@@ -257,11 +259,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Otvori ploču za automatsku reprodukciju">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvori ploču s informacijama o instaliranim dodacima">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljanje dozvolama za izdvajanje platna">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori ploču s informacijama o lokalnom pohranjivanju">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori ploču s informacijama lokalnog spremišta">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvori ploču s informacijama o spremljenim lozinkama">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje korištenjem priključaka">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Promijeni postavke primanja obavijesti od ove stranice">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Trajno pohranjuj podatke">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Spremaj podatke u trajnom spremištu">
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Preglednik se kontrolira s udaljene lokacije">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otvori okno Web autentifikacije">
@@ -498,6 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Više">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Pretražite ili upišite adresu">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,6 +634,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
+
 <!ENTITY pageAction.copyLink.label    "Kopiraj poveznicu">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):

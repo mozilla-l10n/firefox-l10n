@@ -16,7 +16,7 @@ site-data-column-host =
 site-data-column-cookies =
     .label = Kolačići
 site-data-column-storage =
-    .label = Pohrana
+    .label = Spremište
 site-data-column-last-used =
     .label = Posljednji put korišteno
 # This label is used in the "Host" column for local files, which have no host.
