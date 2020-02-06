@@ -7,6 +7,7 @@ webpage-languages-window =
     .style = width: 40em
 languages-close-key =
     .key = w
+languages-description = Iyo páginas web vaji jii kue´e tu´un. Kaji daa tu´un kutuvi xinañu´u nuu páginas web
 languages-customize-moveup =
     .label = Kaka si̱kɨ̱
     .accesskey = K
