@@ -88,6 +88,7 @@ onboarding-fxa-title = Sync
 onboarding-tracking-protection-button2 = Naja satiñu
 onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
+onboarding-browse-privately-title = Nánuku yu´u
 onboarding-browse-privately-button = Síne iin ventana yu´u
 onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
 onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android jee saa sincronizar datos jii inka ka̱a̱.

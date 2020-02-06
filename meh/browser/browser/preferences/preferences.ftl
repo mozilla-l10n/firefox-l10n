@@ -325,9 +325,14 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Kua´an Web jii noo´o
+sync-signedout-account-create = ¿Ntu kuminu iin cuenta? Kajie´e
+    .accesskey = C
 sync-signedout-account-signin =
     .label = Kajie´e sesión…
     .accesskey = s
+sync-signedout-account-signin2 =
+    .label = Kajie´e sesión { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -343,6 +348,8 @@ sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Sama tutu natava perfil
 sync-disconnect =
     .label = Kene…
     .accesskey = K
@@ -482,6 +489,9 @@ sitedata-settings =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = Sɨ´ɨ nnánukunu
+    .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = A ta´a ini noo´o
     .accesskey = A
