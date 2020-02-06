@@ -821,6 +821,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Որոնում էջում…">
 <!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Կրկին որոնել">
 
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
