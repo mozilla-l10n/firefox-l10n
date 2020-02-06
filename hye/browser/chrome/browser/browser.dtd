@@ -770,7 +770,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY fullZoomToggleCmd.label        "Խոշորացնել միայն գրոյթը">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
 
+<!ENTITY fullZoom.label                 "Մասշտաբը">
 
 
 
