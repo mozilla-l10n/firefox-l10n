@@ -421,7 +421,7 @@ addon-badge-recommended =
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =
-    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장기능만 권장합니다
+    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장기능만 추천합니다
     .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = 업데이트 가능 항목
 recent-updates-heading = 최근 업데이트
