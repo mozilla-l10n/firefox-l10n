@@ -774,8 +774,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 
 <!ENTITY fullZoom.label                 "Մասշտաբը">
+<!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY sidebarCloseButton.tooltip     "Փակել կողավահանակը">
+<!ENTITY sidebarMenuClose.label         "Փակել կողավահանակը">
 
+<!ENTITY quitApplicationCmdWin2.label       "Փակել">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Փակել &brandShorterName;">
 
 
 
