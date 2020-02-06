@@ -21,7 +21,7 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Slažem se da Mozilla upravlja ovim informacijama, kao što je objašnjeno u <a data-l10n-name="privacy-policy">politici privatnosti</a>
 newsletter-subscribe-button = Pretplati se
 newsletter-thanks-title = Hvala!
-newsletter-thanks-message = Ako prethodno nisi potvrdio/la prijavu na neki Mozilla bilten, možda to moraš učiniti. Potraži našu e-poruku u svom ulaznom poštanskom pretincu ili u filteru za neželjenu poštu.
+newsletter-thanks-message = Ako prethodno nisi potvrdio/la prijavu na neki Mozilla bilten, možda to moraš učiniti. Potraži našu e-poruku u svom ulaznom poštanskom pretincu ili u filtru za neželjenu poštu.
 footer-title = Razvojno izdanje Firefoxa
 footer-message = Tražiš više od običnih programerskih alata? Provjeri Firefox preglednik koji je izgrađen izričito za programere i moderan radni proces.
 footer-learn-more-link = Saznaj više
