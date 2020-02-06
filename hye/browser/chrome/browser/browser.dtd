@@ -618,6 +618,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.label       "Տեղեկութիւն նկարի մասին">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Դիտել նկարագրութիւնը">
+<!ENTITY viewImageDescCmd.accesskey   "D">
+<!ENTITY viewVideoCmd.label           "Դիտել հոլովակը">
+<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "Նայել խորապատկերի նկարը">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.label      "Տեղադրել աշխատասեղանին…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.label       "Էջանշել այս էջը">
 
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
