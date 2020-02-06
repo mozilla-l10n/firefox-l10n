@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = ¿Kene { -sync-brand-short-name }?
+    .style = width: 36em; min-height: 35em;
 sync-disconnect-remove-sync-caption = Xita datos { -sync-brand-name }
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Kene...
