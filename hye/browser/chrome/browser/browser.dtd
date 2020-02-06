@@ -782,6 +782,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Փակել">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Փակել &brandShorterName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Փակել">
 
 
 
