@@ -141,6 +141,7 @@ cfr-doorhanger-socialtracking-close-button = Nakasɨ
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = Ntu xine´enuka mensajes kua ya´a
     .accesskey = D
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } nñasɨ iin red social kuntaja noo´o nee nuu ya´a
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } nnakasɨ  iin criptomonero nuu página ya´a
 
 ## Enhanced Tracking Protection Milestones

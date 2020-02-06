@@ -59,9 +59,15 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Tee DNS jii HTTPS
     .accesskey = T
+connection-dns-over-https-url-resolver = Ni´i Proveedor
+    .accesskey = P
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Predeterminado)
     .tooltiptext = Ni´i URL predeterminado jee nasa´a DNS jii HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personalizar
+    .accesskey = e
+    .tooltiptext = Chu´un iin URL vatu saa nuvi DNS yoso HTTPS
 connection-dns-over-https-custom-label = Personalizado
