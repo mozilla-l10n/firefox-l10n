@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "소스: ">
 
+<!ENTITY editMenu.label "편집">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "파일">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "다른 이름으로 저장…">
@@ -84,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "이메일 주소 복사">
 <!ENTITY copyEmailCmd.accesskey "E">
-
