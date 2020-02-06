@@ -787,10 +787,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Փակել">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Փակել &brandShorterName;-ը">
+<!ENTITY quitApplicationCmd.key         "Q">
 
+<!ENTITY closeCmd.label                 "Փակել">
 
+<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
+<!ENTITY pageStyleMenu.label "Էջի ոճը">
+<!ENTITY pageStyleMenu.accesskey "y">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
