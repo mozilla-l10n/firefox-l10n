@@ -665,26 +665,73 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "Նկարը ուղարկել էլ֊փոստով…">
 <!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "Տեսանիւթը ուղարկել էլ֊փոստով…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Ուղարկել էլ֊փոստով…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Ակտիւացնել բաղադրիչը">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Թաքցնել այս բաղադրիչը">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.label            "Պատճէնել յղման հասցէն">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageCmd.label           "Պատճէնել նկարի հասցէն">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Կրկնաւրինակել նկարը">
+<!ENTITY copyImageContentsCmd.accesskey  "y">
+<!ENTITY copyVideoURLCmd.label        "Պատճէնել հոլովակի հասցէն">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Պատճէնել ձայնագրութեան հասցէն">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Պատճէնել Էլ֊փոստի հասցէն">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
+<!ENTITY copyEmailCmd.accesskey       "A">
+<!ENTITY thisFrameMenu.label              "Այս շրջանակում">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Նուագարկել">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Ընդմիջել">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Անձայն">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "Ձայնով">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "Նուագարկելու արագութիւն">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "Դանդաղ (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Նորմալ">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Արագ (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Աւելի արագ (1,5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Անհաւանական (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "Աւղակում">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Ցուցադրել ղեկաւարիչներին">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "Թաքցնել ղեկաւարիչները">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
