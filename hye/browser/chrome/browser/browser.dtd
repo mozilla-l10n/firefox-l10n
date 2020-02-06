@@ -732,9 +732,18 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Ցուցադրել ղեկաւարիչներին">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկաւարիչները">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "Բացել լիաէկրան">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "Պահպանել էկրանի պատկերը որպէս…">
+<!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Ցուցադրել վիճակագութիւնը">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Թաքցնել վիճակագրութիւնը">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -742,12 +751,24 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY fullZoomEnlargeCmd.label       "Խոշորացնել">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 
- <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.label        "Փոքրացնել">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.label         "Վերակայել">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 
 
