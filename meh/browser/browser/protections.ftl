@@ -26,6 +26,9 @@ graph-legend-description = Iin tutu nuu vaji tunin kuaíyo daa ka̱a̱ nita noo�
 fingerprinter-tab-title = Huellas dactilares
 cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
+protection-report-view-logins-button = Kune'ya credenciales
+    .title = Kɨ'ɨo nuu kajie´e sesión nchuva´a
+lockwise-no-logins-content = Ni´i app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> saa kuminu contraseñas ntaka nuu.
 manage-connected-devices = …Tetiñu daa ka̱a̱…
 monitor-link = Naja satiñu
 
