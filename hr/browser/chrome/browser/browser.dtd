@@ -284,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Ovoj si stranici zabranio/la dijeljenje tvog ekrana.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ovoj si stranici zabranio/la pristup informacijama o tvojoj lokaciji.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ovoj ste stranici zabranili slanje obavijesti.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Za ovu stranicu si blokirao/la trajno spremanje podataka.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokirali ste pop-up prozore za ovu web stranicu.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ovoj ste stranici zabranili automatsko reproduciranje medija sa zvukom.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokirao/la si izdvajanje podataka platna za ovu web stranicu.">
