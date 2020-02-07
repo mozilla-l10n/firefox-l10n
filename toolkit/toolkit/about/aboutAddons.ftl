@@ -212,9 +212,9 @@ addon-updates-view-updates = 최근 업데이트 보기
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
-    .label = 자동 업데이트 하기
+    .label = 부가기능을 자동으로 업데이트
     .accesskey = A
-addon-updates-update-addons-automatically = 자동 업데이트 하기
+addon-updates-update-addons-automatically = 부가기능을 자동으로 업데이트
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
