@@ -82,6 +82,7 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Բացել հավելման տեղադրման հաղորդագրության վահանակը
 urlbar-tip-help-icon =
     .title = Ստանալ օգնություն
+urlbar-search-tips-confirm = Հասկանալի է։
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -180,20 +181,30 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Կապակցումը ապահով չէ
+identity-connection-secure = Կապակցումը ապահով է
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է:
-identity-connection-file = Այս էջը գտնվում է համակարգչում:
+identity-connection-file = Այս էջը գտնվում է համակարգչում
 identity-extension-page = Այս էջը բեռնվել է ընդլայնումից:
 identity-active-blocked = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:
+identity-custom-root = Կապակցումը հաստատվել է վկայագրի թողարկողի կողմից, որը ճանաչված չէ Mozilla֊ի կողմից։
 identity-passive-loaded = Այս էջի մասերը անվտանգ չեն (օր.՝ պատկերները):
 identity-active-loaded = Դուք անջատել եք պաշտպանությունը այս էջում:
 identity-weak-encryption = Այս էջը օգտագործում է աղքատ գաղտնագրում:
 identity-insecure-login-forms = Այս էջից մուտքագրումները վտանգված են:
+identity-permissions =
+    .value = Արտոնություններ
 identity-permissions-reload-hint = Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։
 identity-permissions-empty = Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:
+identity-clear-site-data =
+    .label = Ջնջել նշոցիկների և կայքի տվյալները…
+identity-connection-not-secure-security-view = Ձեր կապը այս կայքի հետ ապահով չէ։
+identity-connection-verified = Ձեր կապը այս կայքի հետ ապահով է։
+identity-ev-owner-label = Վկայագիրը թողարկվել է՝
+identity-description-custom-root = Mozilla֊ն չի ճանաչում այս վկայագրի թողարկողին։ Այն հնարավոր է ավելացվել է Ձեր գործավարական համակարգից կամ վարիչի կողմից։ <label data-l10n-name="link">Իմանալ ավելին</label>
 identity-remove-cert-exception =
     .label = Հեռացնել բացառությունը
     .accesskey = Հ
-identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղկլարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
 identity-description-insecure-login-forms = Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:
 identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:
 identity-description-weak-cipher-risk = Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:
