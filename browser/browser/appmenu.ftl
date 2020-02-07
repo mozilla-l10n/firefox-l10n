@@ -6,6 +6,13 @@
 ## App Menu
 
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Zúmáil isteach
+appmenuitem-zoom-reduce =
+    .label = Zúmáil amach
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

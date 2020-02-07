@@ -7,6 +7,7 @@ crashed-restore-tab-button = Athchóirigh an Cluaisín Seo
 crashed-restore-all-button = Athchóirigh Gach Cluaisín Tuairteáilte
 crashed-header = Monuar! Tá do chluaisín go díreach tar éis tuairteála.
 crashed-offer-help = Táimid in ann cuidiú leat!
+crashed-single-offer-help-message = Roghnaigh { crashed-restore-tab-button } chun an leathanach a athlódáil.
 crashed-request-help = An mbeifeá sásta cabhrú linn?
 crashed-request-help-message = Cuidíonn tuairiscí tuairteála linn fadhbanna a aithint agus { -brand-short-name } a fheabhsú.
 crashed-request-report-title = Déan tuairisc ar an gcluaisín seo
