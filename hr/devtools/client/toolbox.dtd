@@ -22,7 +22,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "Prikaz stilova preglednika">
-<!ENTITY options.showUserAgentStyles.tooltip "Uključivanje ove opcije će prikazati zadane stilove koje učitava preglednik.">
+<!ENTITY options.showUserAgentStyles.tooltip "Uključivanjem ove opcije prikazat će se standardni stilovi koje učitava preglednik.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
@@ -134,11 +134,6 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Uključi vremenske oznake">
 <!ENTITY options.timestampMessages.tooltip    "Ako omogućite ovu opciju, naredbe i rezultati u web konzoli će prikazivati vremensku oznaku">
-
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Grupiraj slične poruke">
-<!ENTITY options.warningGroups.tooltip    "Kad je omogućeno, slične poruke se svrstavaju u grupe">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
