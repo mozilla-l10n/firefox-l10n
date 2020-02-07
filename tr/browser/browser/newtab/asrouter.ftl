@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Eklenti Önerisi
 cfr-doorhanger-feature-heading = Özellik Önerisi
 cfr-doorhanger-pintab-heading = Bunu deneyin: Sekme sabitleme
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bunu neden görüyorum?
@@ -170,7 +170,7 @@ cfr-doorhanger-send-tab-ok-button = Sekme göndermeyi dene
 cfr-doorhanger-firefox-send-header = Bu PDF’i güvenle paylaşın
 cfr-doorhanger-firefox-send-body = Uçtan uca şifreleme ve işiniz bittiğinde kaybolan bir bağlantıyla hassas belgelerinizi meraklı gözlerden koruyun.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }’i deneyin
-    .accesskey = d
+    .accesskey = e
 
 ## Social Tracking Protection
 
