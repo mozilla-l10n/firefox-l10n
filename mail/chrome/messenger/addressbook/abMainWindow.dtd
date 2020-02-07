@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "r">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Válassza ki a megjelenítendő oszlopokat">
 <!ENTITY newContactButton.tooltip                       "Új névjegy létrehozása">
 <!ENTITY newlistButton.tooltip                          "Egy új lista létrehozása">
 <!ENTITY editPropertiesButton.tooltip                   "A kijelölt elem szerkesztése">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
 <!ENTITY deleteButton2.tooltip                          "A kijelölt elem törlése">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Címjegyzékek">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Név vagy e-mail">
