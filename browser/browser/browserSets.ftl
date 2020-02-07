@@ -85,6 +85,8 @@ history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
     .key = F
+reader-mode-toggle-shortcut-windows =
+    .keycode = VK_F9
 picture-in-picture-toggle-shortcut =
     .key = ]
 # Pick the key that is commonly present
