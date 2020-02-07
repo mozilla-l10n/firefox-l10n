@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "排序訊息時保留討論串結構">
 <!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY loadInBackground.label           "開啟分頁後，自動切換到新分頁">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "只在開啟郵件與新聞群組後檢查新郵件">
 <!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
@@ -34,4 +36,3 @@
 <!ENTITY useDefault.accesskey             "D">
 <!ENTITY rememberLastMsg.label            "記住最後一次所選的訊息">
 <!ENTITY rememberLastMsg.accesskey        "R">
-
