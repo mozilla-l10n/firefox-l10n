@@ -919,11 +919,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Logáil isteach i &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sioncronaigh Anois">
+<!ENTITY syncSyncNowItemSyncing.label "Á Shioncronú…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Athcheangail le &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "A">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Uathfholaigh">
 
 <!ENTITY getUserMedia.selectCamera.label "Ceamara le comhroinnt:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -933,16 +935,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Comhroinnfear gach fuinneog infheicthe ar do scáileáin.">
 
 
+<!ENTITY contentBlocking.trackingProtection3.label "Lorgairí">
 
 
+<!ENTITY contentBlocking.trackersView.label "Lorgairí">
 
+<!ENTITY contentBlocking.cookies.label "Fianáin">
+<!ENTITY contentBlocking.cookiesView.label "Fianáin agus Sonraí Suímh">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Ábhar Lorgaireachta">
 
+<!ENTITY contentBlocking.manageSettings2.label "Bainistigh na Socruithe Cosanta">
+<!ENTITY contentBlocking.manageSettings2.accesskey "B">
 
+<!ENTITY contentBlocking.socialblock.label "Lorgairí Meán Sóisialta">
 
+<!ENTITY contentBlocking.cryptominers.label "Criptimhianadóirí">
+<!ENTITY contentBlocking.cryptominersView.label "Criptimhianadóirí">
 
+<!ENTITY contentBlocking.fingerprinters.label "Méarlorgairí">
+<!ENTITY contentBlocking.fingerprintersView.label "Méarlorgairí">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Déan tuairisc ar fhadhb">
+<!ENTITY contentBlocking.breakageReportView.label "Déan tuairisc ar fhadhbanna">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Tuilleadh Eolais">
 
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Tuilleadh eolais">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Cad iad na fadhbanna a bhí agat? (Roghnach)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Roghnach: Déan cur síos ar an bhfadhb">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Seol an Tuairisc">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Cealaigh">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -950,6 +973,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.reload2.label "Athlódáil an Leathanach">
+<!ENTITY trackingProtection.reload2.accesskey "A">
 
 <!ENTITY pluginNotification.showAll.label "Taispeáin Uile">
 <!ENTITY pluginNotification.showAll.accesskey "T">
@@ -972,16 +997,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Íoslódáil an nuashonrú &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Íoslódáil cóip nua de &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Ní féidir leat nuashonruithe breise a dhéanamh">
 <!ENTITY updateRestart.panelUI.label2 "Atosaigh chun &brandShorterName; a nuashonrú">
 
+<!ENTITY newTabControlled.keepButton.label "Coinnigh na hAthruithe">
+<!ENTITY newTabControlled.keepButton.accesskey "C">
+<!ENTITY newTabControlled.disableButton.label "Díchumasaigh an Eisínteacht">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 
+<!ENTITY homepageControlled.header.message "Athraíodh do leathanach baile.">
+<!ENTITY homepageControlled.keepButton.label "Coinnigh na hAthruithe">
+<!ENTITY homepageControlled.keepButton.accesskey "C">
+<!ENTITY homepageControlled.disableButton.label "Díchumasaigh an Eisínteacht">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.keepButton.label "Coinnigh na Cluaisíní i bhFolach">
+<!ENTITY tabHideControlled.keepButton.accesskey "C">
+<!ENTITY tabHideControlled.disableButton.label "Díchumasaigh an Eisínteacht">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Gníomhartha leathanaigh">
+<!ENTITY pageAction.addToUrlbar.label "Cuir leis an mBarra Suímh é">
+<!ENTITY pageAction.removeFromUrlbar.label "Bain ón mBarra Suímh é">
+<!ENTITY pageAction.manageExtension.label "Bainistigh an Eisínteacht…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Gléasanna á Sioncronú…">
 
+<!ENTITY pageAction.shareUrl.label "Comhroinn">
+<!ENTITY pageAction.shareMore.label "Tuilleadh…">
 
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
