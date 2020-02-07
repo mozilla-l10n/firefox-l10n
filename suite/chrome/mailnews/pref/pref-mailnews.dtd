@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "J">
 <!ENTITY preserveThreading.label          "Témacsoportok megőrzése az üzenetek rendezésekor">
 <!ENTITY preserveThreading.accesskey      "T">
+<!ENTITY loadInBackground.label           "Átváltás az új lapokra megnyitáskor">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Új üzenetek letöltése csak a Levelező és hírolvasó megnyitása után">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
