@@ -107,6 +107,8 @@ permissions-site-notification-disable-label =
 
 ## Site Permissions - Location
 
+permissions-site-location-disable-label =
+    .label = Kasɨ solicitudes jíía jikatu´un nuu iñɨ noo´o
 
 ## Site Permissions - Virtual Reality
 
