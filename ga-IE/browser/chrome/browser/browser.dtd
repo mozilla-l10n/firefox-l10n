@@ -370,6 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "o">
 <!ENTITY preferencesCmdUnix.label       "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Focail Fhaire">
 
 <!ENTITY clearRecentHistory.label               "Glan an Stair Is Déanaí…">
 
