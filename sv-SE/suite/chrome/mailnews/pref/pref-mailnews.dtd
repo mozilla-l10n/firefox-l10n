@@ -3,11 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.mailnews.title              "E-post &amp; Grupper">
-<!ENTITY generalSettings.caption           "Allmänna inställningar">
+<!ENTITY generalSettings.caption          "Allmänna inställningar">
 <!ENTITY confirmMove.label                "Bekräfta när mappar flyttas till papperskorgen">
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Bevara trådningen vid sortering av meddelanden">
 <!ENTITY preserveThreading.accesskey      "t">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Leta efter nya meddelanden bara om fönstret E-post &amp; grupper har öppnats">
 <!ENTITY mailBiffOnNewWindow.accesskey    "y">
 
@@ -24,7 +25,6 @@
 <!ENTITY useInternalMail.accesskey        "p">
 <!ENTITY useInternalNews.label            "Grupper (news:, snews:, nntp:)">
 <!ENTITY useInternalNews.accesskey        "u">
-
 
 <!ENTITY messengerStartPage.caption       "Startsida för E-post">
 <!ENTITY enableStartPage.label            "När e-postklienten startas visas startsidan i meddelandeytan">
