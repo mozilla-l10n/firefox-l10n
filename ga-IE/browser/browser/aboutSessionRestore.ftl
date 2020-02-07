@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Athchóirigh an Seisiún
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Ár leithscéal. Níorbh fhéidir linn do sheisiún a athchóiriú.
+restore-page-problem-desc = Níorbh fhéidir linn do sheisiún is déanaí a athchóiriú. Roghnaigh Athchóirigh an Seisiún chun triail eile a bhaint as.
+restore-page-try-this = Fadhbanna ag athchóiriú an tseisiúin fós? Uaireanta is cluaisín is cúis leis an bhfadhb. Féach ar na cluaisíní a bhí ann, bain an tic ó aon cheann acu nach bhfuil de dhíth ort, ansin déan iarracht eile.
+restore-page-hide-tabs = Folaigh na Seanchluaisíní
+restore-page-show-tabs = Féach ar na Seanchluaisíní
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #

@@ -2,12 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-title = Tuairisceoir tuairteála cluaisín
 crashed-close-tab-button = Dún an Cluaisín
 crashed-restore-tab-button = Athchóirigh an Cluaisín Seo
 crashed-restore-all-button = Athchóirigh Gach Cluaisín Tuairteáilte
 crashed-header = Monuar! Tá do chluaisín go díreach tar éis tuairteála.
 crashed-offer-help = Táimid in ann cuidiú leat!
 crashed-single-offer-help-message = Roghnaigh { crashed-restore-tab-button } chun an leathanach a athlódáil.
+crashed-multiple-offer-help-message = Roghnaigh { crashed-restore-tab-button } nó { crashed-restore-all-button } chun an leathanach nó na leathanaigh a athlódáil.
 crashed-request-help = An mbeifeá sásta cabhrú linn?
 crashed-request-help-message = Cuidíonn tuairiscí tuairteála linn fadhbanna a aithint agus { -brand-short-name } a fheabhsú.
 crashed-request-report-title = Déan tuairisc ar an gcluaisín seo
