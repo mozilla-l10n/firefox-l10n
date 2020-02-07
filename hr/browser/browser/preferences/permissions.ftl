@@ -112,7 +112,7 @@ permissions-exceptions-autoplay-media-desc2 = Možete navesti koje web stranice 
 permissions-site-autoplay-window =
     .title = Postavke - automatska reprodukcija
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = Ovdje možete upravljati stranicama koje ne slijede zadane postavke automatske reprodukcije.
+permissions-site-autoplay-desc = Ovdje možeđ upravljati stranicama koje ne slijede standardne postavke za automatsku reprodukciju.
 
 ## Site Permissions - Notifications
 
