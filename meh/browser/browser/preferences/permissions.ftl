@@ -126,3 +126,6 @@ permissions-site-camera-disable-label =
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Ke´i - Permisos ka̱a̱ micrófono
+    .style = { permissions-window.style }
