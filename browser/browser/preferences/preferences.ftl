@@ -725,7 +725,7 @@ sync-engine-prefs =
             [windows] Mogućnosti
            *[other] Postavke
         }
-    .tooltiptext = Općenite, privatne i sigurnosne postavke koje ste promijenili
+    .tooltiptext = Opće, privatne i sigurnosne postavke koje si promijenio/la
     .accesskey = s
 
 ## The device name controls.

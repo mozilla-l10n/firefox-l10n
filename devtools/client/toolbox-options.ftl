@@ -29,7 +29,7 @@ options-context-inspector = Inspektor
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Prikaz stilova preglednika
 options-show-user-agent-styles-tooltip =
-    .title = Uključivanje ove opcije će prikazati zadane stilove koje učitava preglednik.
+    .title = Uključivanjem ove opcije prikazat će se standardni stilovi koje učitava preglednik.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Skrati DOM atribute
 options-collapse-attrs-tooltip =
@@ -107,11 +107,6 @@ options-enable-service-workers-http-tooltip =
     .title = Uključivanje ove opcije će omogućiti korištenje opcija testiranja service workera putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Samo trenutna sesija, ponovno učitava stranicu
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Ispravljač grešaka
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Prikaži podatke Gecko platforme
