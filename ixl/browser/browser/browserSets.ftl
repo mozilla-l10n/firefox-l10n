@@ -17,6 +17,8 @@ search-find-selection-shortcut =
     .key = e
 print-shortcut =
     .key = p
+reader-mode-toggle-shortcut-windows =
+    .keycode = VK_F9
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
