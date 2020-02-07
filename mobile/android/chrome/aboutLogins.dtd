@@ -6,5 +6,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Kredenciale hyrjesh">
 <!ENTITY aboutLogins.update                      "Përditësoje">
-<!ENTITY aboutLogins.emptyLoginText              "Mbajini të parrezikuara hyrjet tuaja">
+<!ENTITY aboutLogins.emptyLoginText              "Mbajini të parrezikuara kredencialet tuaja të hyrjes">
 <!ENTITY aboutLogins.emptyLoginHint              "Sajtet ku hyni dhe kredencialet përkatëse që ruani duke përdorur &brandShortName; do të shfaqen këtu.">
