@@ -129,3 +129,4 @@ permissions-site-camera-disable-label =
 permissions-site-microphone-window =
     .title = Ke´i - Permisos ka̱a̱ micrófono
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Daa nuu web ya´a kuvi kivɨ nuu ka̱a̱ micrófono. Kuvi kachinu ne´i daa web kuvi nuu ka̱a̱ micrófono. Suni kuvi kasɨnɨ solicitudes jíía kuvi kivɨ nuu micrófono.

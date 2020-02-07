@@ -101,6 +101,12 @@ browser-containers-learn-more = Ka´vi jiee ya´a
 browser-containers-settings =
     .label = Ke´i...
     .accesskey = i
+containers-disable-alert-title = ¿Nakasɨ kuaíyo contenedor pestañas?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+       *[other] Nakasɨ { $tabCount } pestaña contenedora
+    }
+containers-remove-alert-title = ¿Xina marcador?
 
 ## General Section - Language & Appearance
 
