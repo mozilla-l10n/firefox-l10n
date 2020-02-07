@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = Sáraigh na dathanna a shonraigh an leathanach le do chuid roghanna thuas
+    .accesskey = S
 colors-page-override-option-always =
     .label = I gCónaí
 colors-page-override-option-auto =
@@ -29,3 +31,7 @@ colors-underline-links =
     .label = Cuir líne faoi naisc
     .accesskey = f
 colors-links-header = Dathanna Nasc
+colors-unvisited-links = Naisc gan Chuairt
+    .accesskey = g
+colors-visited-links = Naisc Fheicthe
+    .accesskey = F
