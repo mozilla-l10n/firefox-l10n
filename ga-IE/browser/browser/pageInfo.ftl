@@ -14,6 +14,8 @@ select-all =
 menu-select-all =
     .label = Roghnaigh Uile
     .accesskey = U
+close-dialog =
+    .key = w
 general-tab =
     .label = Ginearálta
     .accesskey = G
@@ -92,6 +94,10 @@ security-view-identity-validity =
 security-view-privacy =
     .value = Príobháideachas agus Stair
 security-view-privacy-history-value = Ar thug mé cuairt ar an suíomh seo roimh inniu?
+security-view-privacy-sitedata-value = An bhfuil an suíomh seo ag stóráil faisnéise ar mo ríomhaire?
+security-view-privacy-clearsitedata =
+    .label = Glan na Fianáin agus Sonraí Suímh
+    .accesskey = G
 security-view-privacy-passwords-value = An bhfuil focail fhaire sábháilte agam le haghaidh an tsuímh seo?
 security-view-privacy-viewpasswords =
     .label = Taispeáin Focail Fhaire a Sábháladh
@@ -107,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Tá, fianáin agus { $value }{ $unit } de shonraí suímh
+security-site-data-only = Tá, { $value }{ $unit } de shonraí suímh
+security-site-data-cookies-only = Tá, fianáin
+security-site-data-no = Níl
 image-size-unknown = Anaithnid
 not-set-verified-by = Gan sonrú
 page-info-not-specified =
@@ -141,6 +151,59 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Úsáid Réamhshocrú
 security-no-visits = Níl
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (clib amháin)
+            [two] Meta ({ $tags } chlib)
+            [few] Meta ({ $tags } chlib)
+            [many] Meta ({ $tags } gclib)
+           *[other] Meta ({ $tags } clib)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Níl
+        [one] Tá, uair amháin
+        [two] Tá, { $visits } uair
+        [few] Tá, { $visits } uaire
+        [many] Tá, { $visits } n-uaire
+       *[other] Tá, { $visits } uair
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } beart)
+            [two] { $kb } KB ({ $bytes } beart)
+            [few] { $kb } KB ({ $bytes } beart)
+            [many] { $kb } KB ({ $bytes } beart)
+           *[other] { $kb } KB ({ $bytes } beart)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Íomhá { $type } (beoite, { $frames } fhráma)
+            [two] Íomhá { $type } (beoite, { $frames } fhráma)
+            [few] Íomhá { $type } (beoite, { $frames } fhráma)
+            [many] Íomhá { $type } (beoite, { $frames } bhfráma)
+           *[other] Íomhá { $type } (beoite, { $frames } fráma)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
