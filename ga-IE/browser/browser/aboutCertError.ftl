@@ -11,6 +11,7 @@ cert-error-trust-signature-algorithm-disabled = Ní chuirtear muinín sa teastas
 cert-error-trust-expired-issuer = Ní chuirtear muinín sa teastas mar tá teastas an eisitheora as feidhm.
 cert-error-trust-self-signed = Ní chuirtear muinín sa teastas mar tá sé féinsínithe.
 cert-error-untrusted-default = Ní thagann an teastas ó fhoinse ina gcuirtear muinín.
+cert-error-symantec-distrust-admin = Tig leat scéala a chur chuig riarthóir an tsuímh ghréasáin faoin bhfadhb sin.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Slándáil Dhian Aistrithe HTTP: { $hasHSTS }
