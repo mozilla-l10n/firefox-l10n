@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Behold trådstruktur ved sortering av meldinger">
 <!ENTITY preserveThreading.accesskey      "B">
+<!ENTITY loadInBackground.label           "Bytt til nye faner når du åpner den">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Bare se etter nye meldinger etter åpning av e-post og nyhetsgrupper">
 <!ENTITY mailBiffOnNewWindow.accesskey    "B">
 
