@@ -85,6 +85,7 @@ permissions-exceptions-popup-desc = Kuvi kachinu ne´iin daa nuu web kuvi sine v
 permissions-exceptions-saved-logins-window =
     .title = Excepciones - Nuu kajie´e sesión nchuva´a
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Daa nuu kajie´e sesión nuu daa web nchuva´a
 
 ## Exceptions - Add-ons
 
@@ -97,6 +98,12 @@ permissions-exceptions-saved-logins-window =
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Ke´i - Permisos notificación
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Daa nuu web ya´a kuvi chu´un íchi notificaciones. Kuvi kachinu ne´i daa web kuvi chu´un íchi notificaciones. Suni kuvi kasɨnɨ solicitudes jíía.
+permissions-site-notification-disable-label =
+    .label = Kasɨ solicitudes jíía katu´un kuvi kutuvi notificaciones
 
 ## Site Permissions - Location
 
