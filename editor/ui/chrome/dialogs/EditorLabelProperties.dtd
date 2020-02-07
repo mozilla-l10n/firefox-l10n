@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY windowTitle.label "Veti Etikete">
 
 <!ENTITY Settings.label "Rregullime">
@@ -12,7 +11,7 @@
 <!ENTITY EditLabelText.accesskey "P">
 <!ENTITY LabelFor.label "Për Kontroll:">
 <!ENTITY LabelFor.accesskey "K">
-<!ENTITY AccessKey.label "Tast Hyrjeje:">
+<!ENTITY AccessKey.label "Tast Përdorimi:">
 <!ENTITY AccessKey.accesskey "T">
 
 <!ENTITY RemoveLabel.label "Hiq Etiketë">

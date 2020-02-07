@@ -41,7 +41,7 @@
 <!ENTITY TextSize.accesskey "M">
 <!ENTITY TextLength.label "Gjatësi më e Madhe:">
 <!ENTITY TextLength.accesskey "G">
-<!ENTITY AccessKey.label "Tast Hyrjeje:">
+<!ENTITY AccessKey.label "Tast Përdorimi:">
 <!ENTITY AccessKey.accesskey "Y">
 <!ENTITY Accept.label "Lloje Pranimi:">
 <!ENTITY Accept.accesskey "P">
