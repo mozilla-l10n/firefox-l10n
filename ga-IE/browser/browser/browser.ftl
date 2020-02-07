@@ -68,6 +68,9 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sábháil sonraí sa Stóras Seasmhach
 urlbar-addons-notification-anchor =
     .tooltiptext = Oscail an painéal um theachtaireachtaí suiteála breiseáin
+urlbar-tip-help-icon =
+    .title = Faigh cabhair
+urlbar-search-tips-confirm = Maith go leor, tuigim
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -100,6 +103,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension =
+    .label = Bainistigh an Breiseán…
 
 ## Auto-hide Context Menu
 
@@ -112,6 +117,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = An uair seo, cuardaigh le:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -140,8 +148,12 @@ identity-passive-loaded = Tá codanna den leathanach seo neamhshlán (léithéid
 identity-active-loaded = Tá cosaint díchumasaithe agat ar an leathanach seo.
 identity-weak-encryption = Úsáideann an leathanach seo criptiú lag.
 identity-insecure-login-forms = D'fhéadfadh sonraí logáil isteach bheith i mbaol ar an leathanach seo.
+identity-permissions =
+    .value = Ceadanna
 identity-permissions-reload-hint = Ní mór duit an leathanach a athlódáil chun na hathruithe a chur i bhfeidhm.
 identity-permissions-empty = Níor thug tú aon chead speisialta don suíomh seo.
+identity-clear-site-data =
+    .label = Glan na Fianáin agus Sonraí Suímh...
 identity-remove-cert-exception =
     .label = Bain an Eisceacht
     .accesskey = B

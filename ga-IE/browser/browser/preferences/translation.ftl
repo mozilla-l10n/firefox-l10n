@@ -7,6 +7,7 @@ translation-window =
     .style = width: 36em
 translation-close-key =
     .key = w
+translation-languages-disabled-desc = Ní thairgfear aistriúchán do na teangacha seo a leanas
 translation-languages-column =
     .label = Teangacha
 translation-languages-button-remove =
