@@ -341,5 +341,5 @@ mozilla-pkix-error-validity-too-long = Shërbyesi paraqiti një dëshmi që ësh
 mozilla-pkix-error-required-tls-feature-missing = Mungon një veçori TLS e domosdoshme.
 mozilla-pkix-error-invalid-integer-encoding = Shërbyesi paraqiti një dëshmi që përmban kodim të pavlefshëm të një numri të plotë. Ndër shkaqet e rëndomtë përfshihen numra seriale negativë, module RSA negativë, dhe kodime që janë më të gjatë se sa është e nevojshme.
 mozilla-pkix-error-empty-issuer-name = Shërbyesi paraqiti një dëshmi me emër të dalluar lëshuesi të zbrazët.
-mozilla-pkix-error-additional-policy-constraint-failed = Dështoi një kufizim shtesë rregulli teksa vleftësohej kjo dëshmi.
+mozilla-pkix-error-additional-policy-constraint-failed = Dështoi një kufizim shtesë rregulli teksa vlerësohej kjo dëshmi.
 mozilla-pkix-error-self-signed-cert = Dëshmia nuk besohet, ngaqë është e vetënënshkruar.
