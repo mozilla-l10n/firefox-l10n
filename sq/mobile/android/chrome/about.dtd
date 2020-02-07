@@ -9,7 +9,7 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "Shkarko përditësimin">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Po shkarkohet përditësimi…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instaloni përditësimin">
-<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.faq.label                    "PBR">
 <!ENTITY aboutPage.support.label                "Asistencë">
 <!ENTITY aboutPage.privacyPolicy.label          "Rregulla Privatësie">
 <!ENTITY aboutPage.rights.label                 "Njihni Të Drejtat Tuaja">
