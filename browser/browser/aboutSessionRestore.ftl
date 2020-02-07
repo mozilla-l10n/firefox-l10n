@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = K
 welcome-back-restore-all-label = Vrati sve prozore i kartice
 welcome-back-restore-some-label = Vrati samo one koje želiš
-welcome-back-page-info-link = Tvoji dodaci i prilagodbe su uklonjeni i postavke tvog preglednika su vraćene na zadane. Ukoliko ovo nije popravilo tvoj problem, <a data-l10n-name="link-more">saznaj više o tome što možeš uraditi.</a>
+welcome-back-page-info-link = Tvoji dodaci i prilagodbe su uklonjeni i postavke tvog preglednika vraćene su na standardne vrijednosti. Ukoliko ovo nije popravilo tvoj problem, <a data-l10n-name="link-more">saznaj više o tome što možeš uraditi.</a>
