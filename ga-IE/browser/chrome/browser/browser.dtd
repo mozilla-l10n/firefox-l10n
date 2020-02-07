@@ -97,6 +97,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Eolas Leathanaigh">
 <!ENTITY pageInfoCmd.accesskey "s">
@@ -141,6 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Beir Firefox leat">
+<!ENTITY fxa.signin.button.label "Cuir &syncBrand.shortName.label; ar siúl…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -228,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 
 <!ENTITY backCmd.label                "Siar">
+<!ENTITY backCmd.accesskey            "S">
 <!ENTITY backButton.tooltip           "Leathanach amháin siar">
 <!ENTITY forwardCmd.label             "Ar Aghaidh">
 <!ENTITY forwardCmd.accesskey         "A">
@@ -297,6 +300,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Féach ar Bharra na Leabharmharcanna">
 <!ENTITY viewBookmarksToolbar.label         "Féach ar Bharra Leabharmharc">
 <!ENTITY searchBookmarks.label              "Cuardaigh Leabharmharcanna">
+<!ENTITY bookmarkingTools.label             "Uirlisí Leabharmharcála">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -330,6 +334,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Scrúdaigh Eilimint">
 <!ENTITY inspectContextMenu.accesskey "S">
 
+<!ENTITY inspectA11YContextMenu.label     "Scrúdaigh Airíonna Inrochtaineachta">
 
 <!ENTITY fileMenu.label         "Comhad">
 <!ENTITY fileMenu.accesskey       "C">
@@ -337,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "Cluaisín Coimeádáin Nua">
 <!ENTITY newUserContext.accesskey         "m">
 <!ENTITY manageUserContext.label          "Bainistigh Coimeádáin">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Fuinneog Nua">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -403,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Glan an Stair Is Déanaí…">
 <!ENTITY appMenuHistory.restoreSession.label "Athchóirigh an Seisiún Roimhe Seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Taispeáin Stair sa Bharra Taoibh">
+<!ENTITY appMenuHistory.hideSidebar.label "Ná Taispeáin Stair sa Bharra Taoibh">
 <!ENTITY appMenuHistory.recentHistory.label "Stair is Déanaí">
 <!ENTITY appMenuHelp.label "Cabhair">
 
@@ -601,6 +608,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Socraigh Mar Chúlra na Deisce…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Cruthaigh Leabharmharc don Leathanach Seo">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Cruthaigh Leabharmharc don Nasc Seo">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaigh Leabharmharc don Fhráma Seo">

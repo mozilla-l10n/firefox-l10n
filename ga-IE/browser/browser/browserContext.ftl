@@ -62,8 +62,31 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Cruthaigh Leabharmharc don Leathanach Seo
+    .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Cruthaigh Leabharmharc don Leathanach Seo
+    .accesskey = m
+    .tooltiptext = Cruthaigh Leabharmharc don Leathanach Seo
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Cruthaigh Leabharmharc don Leathanach Seo
+    .accesskey = m
+    .tooltiptext = Cruthaigh leabharmharc don leathanach seo ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Cuir an Leabharmharc Seo in Eagar
+    .accesskey = m
+    .tooltiptext = Cuir an leabharmharc seo in eagar
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Cuir an Leabharmharc Seo in Eagar
+    .accesskey = m
+    .tooltiptext = Cuir an leabharmharc seo in eagar ({ $shortcut })
 main-context-menu-open-link =
-    .label = Oscail Nasc
+    .label = Oscail an Nasc
     .accesskey = O
 main-context-menu-open-link-new-tab =
     .label = Oscail an Nasc i gCluaisín Nua
@@ -83,6 +106,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Sábháil an Nasc Mar…
     .accesskey = N
+main-context-menu-save-link-to-pocket =
+    .label = Sábháil an Nasc i { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -158,6 +184,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Scoir ón Lánscáileán
     .accesskey = n
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Pictiúr i bPictiúr
+    .accesskey = P
 main-context-menu-image-reload =
     .label = Athlódáil an Íomhá
     .accesskey = A
@@ -215,12 +246,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Folaigh an forlíontán seo
     .accesskey = h
+main-context-menu-save-to-pocket =
+    .label = Sábháil an Leathanach i { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Seol an Leathanach chuig Gléas
     .accesskey = G
 main-context-menu-view-background-image =
     .label = Taispeáin Íomhá sa Chúlra
     .accesskey = C
+main-context-menu-generate-new-password =
+    .label = Úsáid Focal Faire Ginte…
+    .accesskey = G
 main-context-menu-keyword =
     .label = Cuir lorgfhocal leis an gcuardach seo…
     .accesskey = l
@@ -275,6 +312,8 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Scrúdaigh Eilimint
     .accesskey = S
+main-context-menu-inspect-a11y-properties =
+    .label = Scrúdaigh Airíonna Inrochtaineachta
 main-context-menu-eme-learn-more =
     .label = Tuilleadh eolais faoi DRM...
     .accesskey = D

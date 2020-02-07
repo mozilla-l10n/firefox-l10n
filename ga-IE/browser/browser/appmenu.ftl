@@ -5,6 +5,9 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Cosaint Príobháideachais
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = Oscail do thuairisc phríobháideachais
 
 ## Zoom Controls
 
