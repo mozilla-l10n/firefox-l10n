@@ -83,6 +83,8 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Ottieni assistenza
 urlbar-search-tips-confirm = OK, tutto chiaro
+urlbar-tip-icon-description =
+    .alt = Suggerimento:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
