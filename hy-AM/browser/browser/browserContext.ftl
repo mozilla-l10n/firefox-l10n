@@ -106,6 +106,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Պահպանել Հղումը Որպես…
     .accesskey = ո
+main-context-menu-save-link-to-pocket =
+    .label = Պահպանել հղումը { -pocket-brand-name }-ում
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -181,6 +184,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Դուրս գալ Լիաէկրան վիճակից
     .accesskey = Լ
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Նկար նկարում
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Կրկին բեռնել Նկարը
     .accesskey = Կ
@@ -238,12 +246,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Թաքցնել այս բաղադրիչը
     .accesskey = Թ
+main-context-menu-save-to-pocket =
+    .label = Պահպանել էջը { -pocket-brand-name }-ում
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Ուղարկել էջը սարքին
     .accesskey = ս
 main-context-menu-view-background-image =
     .label = Նայել Խորապատկերի Նկարը
     .accesskey = յ
+main-context-menu-generate-new-password =
+    .label = Օգտագործել ստեղծված գաղտնաբառը…
+    .accesskey = G
 main-context-menu-keyword =
     .label = Ավելացնել Բանալի այս Որոնմանը…
     .accesskey = Բ
