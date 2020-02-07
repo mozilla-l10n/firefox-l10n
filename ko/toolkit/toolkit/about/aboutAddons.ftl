@@ -120,8 +120,8 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = 업데이트 확인
-    .accesskey = F
-    .tooltiptext = 현재 부가 기능 업데이트 확인
+    .accesskey = U
+    .tooltiptext = 이 부가기능 업데이트 확인
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -185,25 +185,25 @@ extensions-warning-update-security-label =
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
-    .label = 취소
+    .label = 사용
     .tooltiptext = 부가 기능 업데이트 보안 확인 기능 사용
 extensions-warning-safe-mode = 안전 모드에서 부가 기능 전체를 사용할 수 없습니다.
 extensions-warning-check-compatibility = 부가 기능 호환성 확인 기능을 중단 합니다. 호환성이 맞지 않을 수 있습니다.
 extensions-warning-check-compatibility-button = 활성화
     .title = 부가 기능 호환성 확인 기능 사용
 extensions-warning-update-security = 부가 기능 업데이트 보안 확인 기능을 중단 합니다. 업데이트가 보안 문제를 일으킬 수 있습니다.
-extensions-warning-update-security-button = 취소
+extensions-warning-update-security-button = 사용
     .title = 부가 기능 업데이트 보안 확인 기능 사용
 
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = 업데이트 확인하기
+    .label = 업데이트 확인
     .accesskey = C
 extensions-updates-view-updates =
     .label = 최근 업데이트 보기
     .accesskey = V
-addon-updates-check-for-updates = 업데이트 확인하기
+addon-updates-check-for-updates = 업데이트 확인
     .accesskey = C
 addon-updates-view-updates = 최근 업데이트 보기
     .accesskey = V
