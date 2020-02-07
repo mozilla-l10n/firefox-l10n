@@ -31,7 +31,7 @@ protection-report-header-details-custom = Je nastavená <b>vlastná</b> úroveň
     .title = Prejsť na nastavenia súkromia
 protection-report-page-title = Ochrana súkromia
 protection-report-content-title = Ochrana súkromia
-etp-card-title = Rozšírená ochrana súkromia
+etp-card-title = Rozšírená ochrana pred sledovaním
 etp-card-content = Sledovacie prvky zbierajú informácie o tom, čo na internete robíte. { -brand-short-name } blokuje množstvo takýchto prvkov a ďalších škodlivých skriptov.
 protection-report-etp-card-content-custom-not-blocking = Všetky prvky ochrany sú v tejto chvíli vypnuté. V nastaveniach aplikácie { -brand-short-name } vyberte, ktoré sledovacie prvky chcete blokovať.
 protection-report-manage-protections = Možnosti
@@ -67,16 +67,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Zapnúť { -sync-brand-short-name }…
     .title = Prejsť na nastavenie synchronizácie
-manage-devices = Spravovať zariadenia
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Synchronizácia s { $count } ďalším zariadením
-        [few] Synchronizácia s { $count } ďalšími zariadeniami
-       *[other] Synchronizácia s { $count } ďalšími zariadeniami
-    }
-lockwise-sync-not-syncing-devices = Synchronizácia s ďalšími zariadeniami nie je nastavená
 manage-connected-devices = Spravovať zariadenia…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
