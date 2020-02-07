@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Mantener el hilo de los mensajes cuando se ordenan">
 <!ENTITY preserveThreading.accesskey      "M">
+<!ENTITY loadInBackground.label           "Cambiar a pestañas nuevas al abrir">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Solamente buscar correo nuevo al abrir la ventana de Correo y Noticias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
@@ -19,7 +21,7 @@
 <!ENTITY setDefaultFeed.label             "Canales">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
- <!ENTITY useInternalSettings.description  "Use correo y noticias de &brandShortName; al abrir enlaces del navegador para:">
+<!ENTITY useInternalSettings.description  "Use correo y noticias de &brandShortName; al abrir enlaces del navegador para:">
 <!ENTITY useInternalMail.label            "Correo (mailto:)">
 <!ENTITY useInternalMail.accesskey        "a">
 <!ENTITY useInternalNews.label            "Noticias (news:, snews:, nntp:)">
