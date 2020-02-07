@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "選擇要顯示的欄位">
 <!ENTITY newContactButton.tooltip                       "建立新的通訊錄連絡人">
 <!ENTITY newlistButton.tooltip                          "新增群組寄信名單">
 <!ENTITY editPropertiesButton.tooltip                   "編輯選取的項目">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
 <!ENTITY deleteButton2.tooltip                          "刪除選取的項目">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "通訊錄">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "姓名 或 Email">
