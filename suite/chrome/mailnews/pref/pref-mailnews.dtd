@@ -8,6 +8,7 @@
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Bevara trådningen vid sortering av meddelanden">
 <!ENTITY preserveThreading.accesskey      "t">
+<!ENTITY loadInBackground.label           "Byt till nya flikar när du öppnar dem">
 <!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Leta efter nya meddelanden bara om fönstret E-post &amp; grupper har öppnats">
 <!ENTITY mailBiffOnNewWindow.accesskey    "y">
