@@ -141,7 +141,7 @@ menu-view-page-basic-style =
     .accesskey = O
 menu-view-charset =
     .label = Kodiranje teksta
-    .accesskey = c
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.

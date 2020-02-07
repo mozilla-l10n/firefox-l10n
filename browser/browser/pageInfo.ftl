@@ -30,7 +30,7 @@ general-mode =
 general-size =
     .value = Veličina:
 general-referrer =
-    .value = Odnosni URL:
+    .value = Referentni URL:
 general-modified =
     .value = Izmijenjeno:
 general-encoding =
@@ -158,9 +158,9 @@ security-no-visits = Ne
 general-meta-tags =
     .value =
         { $tags ->
-            [one] Meta ({ $tags } oznaka)
-            [few] Meta ({ $tags } oznake)
-           *[other] Meta ({ $tags } oznaka)
+            [one] Meta oznake ({ $tags } oznaka)
+            [few] Meta oznake ({ $tags } oznake)
+           *[other] Meta oznake ({ $tags } oznaka)
         }
 # This string is used to display the number of times
 # the user has visited the website prior
