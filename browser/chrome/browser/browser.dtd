@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "է">
 <!ENTITY exitFullScreenCmd.label "Դուրս գալ Լիաէկրան վիճակից">
 <!ENTITY exitFullScreenCmd.accesskey "Լ">
+
 <!ENTITY fullScreenCmd.label "Բացել Լիաէկրան ">
 <!ENTITY fullScreenCmd.accesskey "Բ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -173,8 +174,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Հաշիվ">
 <!ENTITY fxa.menu.settings.label "Կարգավորումներ">
 <!ENTITY fxa.menu.accountSettings.label "Հաշվի կարգավորումներ">
+<!ENTITY fxa.menu.manageAccount2.label "Հաշվի կառավարում">
 <!ENTITY fxa.menu.signOut.label "Դուրս գալ…">
-<!ENTITY fxa.menu.deviceSettings.label "Սարքի կարգավորումներ">
 <!ENTITY fxa.menu.setupSync.label "Միանալ&syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Գնալ Հասցեի Տողում նշված հասցեով">
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տվյալ էջը">
@@ -497,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Ավելին">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Մուտքագրեք կայքի հասցե կամ որոնում">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -630,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "Հ">
 <!ENTITY bookmarkThisFrameCmd.label      "Էջանշել Այս շրջանակը">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "շ">
+
 <!ENTITY pageAction.copyLink.label    "Պատճենել հղումը">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -643,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Պահպանել Էջը որպես…">
 <!ENTITY savePageCmd.accesskey        "ո">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
