@@ -29,13 +29,11 @@
 
 <!ENTITY fillLoginMenu.label          "Jepni Kredenciale Hyrjeje">
 <!ENTITY fillLoginMenu.accesskey      "J">
-<!ENTITY fillGeneratedPassword.label  "Përdor një Fjalëkalim të Prodhuar Në Mënyrë të Sigurt">
-<!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY useGeneratedPassword.label   "Përdorni një Fjalëkalim të Prodhuar Në Mënyrë të Sigurt…">
 <!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Jepni Fjalëkalimin">
 <!ENTITY fillPasswordMenu.accesskey   "J">
 <!ENTITY fillUsernameMenu.label       "Jepni Emër Përdoruesi">
 <!ENTITY fillUsernameMenu.accesskey   "J">
-<!ENTITY noLoginSuggestions.label     "(Pa Këshillime Hyrjeje)">
+<!ENTITY noLoginSuggestions.label     "(Pa Sugjerim Kredencialesh Hyrjeje)">
 <!ENTITY viewSavedLogins.label        "Shihni Kredenciale të Ruajtura">
