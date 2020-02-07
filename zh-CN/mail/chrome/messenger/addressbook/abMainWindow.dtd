@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "选择要显示的列">
 <!ENTITY newContactButton.tooltip                       "创建新的通讯录联系人">
 <!ENTITY newlistButton.tooltip                          "创建新列表">
 <!ENTITY editPropertiesButton.tooltip                   "编辑选中项">
