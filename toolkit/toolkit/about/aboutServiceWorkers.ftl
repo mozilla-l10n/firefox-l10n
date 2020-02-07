@@ -14,12 +14,6 @@ about-service-workers-warning-no-service-workers = Pa Service Workers të regjis
 # Variables:
 #   $originTitle: original title
 origin-title = Origjinë: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = ID Aplikacioni { -brand-short-name } { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -37,5 +31,5 @@ push-end-point-result = <strong>Push Endpoint:</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Përditësoje
 unregister-button = Çregjistroje
-unregister-error = Dështoi çregjistrimi i këtij Service Worker.
+unregister-error = S’u arrit të çregjistrohet ky Service Worker.
 waiting = Po pritet…
