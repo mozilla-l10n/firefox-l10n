@@ -63,33 +63,90 @@ cfr-doorhanger-bookmark-fxa-link-text = Sioncronaigh leabharmharcanna anois…
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Tuilleadh eolais
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Gné nua:
+cfr-whatsnew-button =
+    .label = Gnéithe Nua
+    .tooltiptext = Gnéithe Nua
+cfr-whatsnew-panel-header = Gnéithe Nua
+cfr-whatsnew-release-notes-link-text = Léigh na nótaí eisiúna
+cfr-whatsnew-tracking-blocked-subtitle = Ó { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-lockwise-backup-link-text = Cuir cúltacaí ar siúl
+cfr-whatsnew-lockwise-take-title = Beir do chuid focal faire leat
+cfr-whatsnew-lockwise-take-link-text = Faigh an aip
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Breathnaigh ar fhíseáin le linn brabhsála
+cfr-whatsnew-pip-cta = Tuilleadh eolais
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Tuilleadh eolais
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Cuireadh cosc ar mhéarlorgaire amháin
+        [two] Cuireadh cosc ar mhéarlorgairí
+        [few] Cuireadh cosc ar mhéarlorgairí
+        [many] Cuireadh cosc ar mhéarlorgairí
+       *[other] Cuireadh cosc ar mhéarlorgairí
+    }
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Méarlorgairí
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Faigh an leabharmharc ar d'fhón
+cfr-doorhanger-sync-bookmarks-ok-button = Cuir { -sync-brand-short-name } ar siúl
+    .accesskey = C
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Ná caill focal faire arís
+cfr-doorhanger-sync-logins-ok-button = Cuir { -sync-brand-short-name } ar siúl
+    .accesskey = C
 
 ## Send Tab
 
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = Bain triail as { -send-brand-name }
+    .accesskey = t
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = Dún
+    .accesskey = D
+cfr-doorhanger-socialtracking-dont-show-again = Ná taispeáin teachtaireachtaí cosúil leis seo dom arís
+    .accesskey = N
+cfr-doorhanger-socialtracking-heading = Chuir { -brand-short-name } cosc ar líonra sóisialta a bhí ag iarraidh thú a lorg
+cfr-doorhanger-fingerprinters-heading = Chuir { -brand-short-name } cosc ar mhéarlorgaire ar an leathanach seo
+cfr-doorhanger-cryptominers-heading = Chuir { -brand-short-name } cosc ar chriptimhianadóir ar an leathanach seo
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
+        [two] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
+        [few] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
+        [many] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
+       *[other] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Féach Uile
+    .accesskey = F
