@@ -73,7 +73,7 @@ full-zoom-reset-shortcut-alt =
 ##
 
 private-browsing-shortcut =
-    .key = { " " }P
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
