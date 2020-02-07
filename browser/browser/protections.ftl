@@ -67,3 +67,33 @@ bar-tooltip-cookie =
             [many] { $count } bhfianán lorgaireachta ({ $percentage }%)
            *[other] { $count } fianán lorgaireachta ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = Ábhar Lorgaireachta
+    .aria-label =
+        { $count ->
+            [one] { $count } ábhar lorgaireachta ({ $percentage }%)
+            [two] { $count } ábhar lorgaireachta ({ $percentage }%)
+            [few] { $count } ábhar lorgaireachta ({ $percentage }%)
+            [many] { $count } n-ábhar lorgaireachta ({ $percentage }%)
+           *[other] { $count } ábhar lorgaireachta ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Méarlorgairí
+    .aria-label =
+        { $count ->
+            [one] { $count } mhéarlorgaire ({ $percentage }%)
+            [two] { $count } mhéarlorgaire ({ $percentage }%)
+            [few] { $count } mhéarlorgaire ({ $percentage }%)
+            [many] { $count } méarlorgaire ({ $percentage }%)
+           *[other] { $count } méarlorgaire ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Criptimhianadóirí
+    .aria-label =
+        { $count ->
+            [one] { $count } chriptimhianadóir ({ $percentage }%)
+            [two] { $count } chriptimhianadóir ({ $percentage }%)
+            [few] { $count } chriptimhianadóir ({ $percentage }%)
+            [many] { $count } gcriptimhianadóir ({ $percentage }%)
+           *[other] { $count } criptimhianadóir ({ $percentage }%)
+        }
