@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Dewiswch golofnau i'w dangos">
 <!ENTITY newContactButton.tooltip                       "Creu cysylltiad llyfr cyfeiriadau newydd">
 <!ENTITY newlistButton.tooltip                          "Creu rhestr newydd">
 <!ENTITY editPropertiesButton.tooltip                   "Golygu'r eitem hon">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Anfon neges e-bost">
 <!ENTITY newIM.tooltip                                  "Anfon neges chwim neu sgwrs">
 <!ENTITY deleteButton2.tooltip                          "Dileu'r eitem hon">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Llyfrau Cyfeiriadau">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Enw neu E-bost">
