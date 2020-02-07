@@ -68,6 +68,9 @@ permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu daa si
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Excepciones: Cookies jii datos sitio
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
