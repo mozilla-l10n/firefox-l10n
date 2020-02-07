@@ -123,7 +123,7 @@ channel-layout = Skemë e Parapëlqyer Për Kanalin
 sample-rate = Shpejtësi e Parapëlqyer Kampionizimesh
 media-title = Media
 media-output-devices-title = Pajisje Dalje
-media-input-devices-title = Pajisje Hyrje
+media-input-devices-title = Pajisje Dhëniesh
 media-device-name = Emër
 media-device-group = Grup
 media-device-vendor = Tregtues
@@ -137,7 +137,7 @@ media-capabilities-title = Aftësi Media
 # List all the entries of the database.
 media-capabilities-enumerate = Numërtoni bazë të dhënash
 
-
+##
 
 intl-title = Ndërkombëtarizim & Përkthim
 intl-app-title = Rregullime Aplikacionesh
@@ -162,7 +162,7 @@ remote-debugging-title = Diagnostikim Së Largëti (Protokolli Chromium)
 remote-debugging-accepting-connections = Me Pranim Lidhjesh
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
