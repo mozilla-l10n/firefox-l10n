@@ -412,7 +412,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_history2 "Historik shfletimi">
 <!ENTITY pref_private_data_searchHistory "Historik kërkimesh">
 <!ENTITY pref_private_data_formdata2 "Historik formularësh">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; hyrje aktive">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; kredenciale hyrjeje aktive">
 <!ENTITY pref_private_data_cache "Fshehtinë">
 <!ENTITY pref_private_data_offlineApps "Të dhëna sajtesh për jo në linjë">
 <!ENTITY pref_private_data_siteSettings2 "Rregullime sajti">
