@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "T">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Välj kolumner som ska visas">
 <!ENTITY newContactButton.tooltip                       "Skapa en ny adressbokskontakt">
 <!ENTITY newlistButton.tooltip                          "Skapa en ny lista">
 <!ENTITY editPropertiesButton.tooltip                   "Redigera markerad post">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Skicka ett meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta">
 <!ENTITY deleteButton2.tooltip                          "Ta bort markerad post">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adressböcker">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namn eller e-post">
