@@ -78,6 +78,8 @@ history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
     .key = f
+reader-mode-toggle-shortcut-other =
+    .key = R
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
