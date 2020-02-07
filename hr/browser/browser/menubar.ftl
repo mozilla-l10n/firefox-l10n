@@ -140,7 +140,7 @@ menu-view-page-basic-style =
     .label = Osnovni stil stranice
     .accesskey = O
 menu-view-charset =
-    .label = Kôdna stranica teksta
+    .label = Kodiranje teksta
     .accesskey = c
 
 ## These should match what Safari and other Apple applications
