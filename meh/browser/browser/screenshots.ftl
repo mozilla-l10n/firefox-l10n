@@ -13,4 +13,3 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Ntɨɨ enlace
-screenshots-generic-error-title = ¡Kune´ya! Daa captura pantalla Firefox ntu nkene vii.
