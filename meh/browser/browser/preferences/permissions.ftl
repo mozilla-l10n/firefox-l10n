@@ -78,9 +78,13 @@ permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka 
 permissions-exceptions-popup-window =
     .title = Daa nuu web permitidos - Ventanas emergentes
     .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Kuvi kachinu ne´iin daa nuu web kuvi sine ventanas emergentes. Chu´u dirección noo´o jee kuaxin kuvi.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Excepciones - Nuu kajie´e sesión nchuva´a
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
