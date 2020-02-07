@@ -18,7 +18,7 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ende pa ndonjë llogari të formësuar">
 <!ENTITY accountManager.noAccount.description "Klikoni mbi butonin &accountManager.newAccount.label; që ta lini &brandShortName;-in t&apos;ju heqë udhën në procesin e formësimit të një të tille.">
-<!ENTITY account.autoSignOn.label     "Hyrje gjatë nisjes">
+<!ENTITY account.autoSignOn.label     "Regjistrim gjatë nisjes">
 <!ENTITY account.autoSignOn.accesskey "H">
 <!ENTITY account.connect.label        "Lidhu">
 <!ENTITY account.connect.accesskey    "L">

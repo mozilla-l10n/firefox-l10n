@@ -20,7 +20,7 @@
 <!ENTITY tabIndex.accesskey "T">
 <!ENTITY ButtonDisabled.label "I çaktivizuar">
 <!ENTITY ButtonDisabled.accesskey "ç">
-<!ENTITY AccessKey.label "Tast Hyrjeje:">
+<!ENTITY AccessKey.label "Tast Përdorimi:">
 <!ENTITY AccessKey.accesskey "H">
 
 <!ENTITY RemoveButton.label "Hiqe Butonin">

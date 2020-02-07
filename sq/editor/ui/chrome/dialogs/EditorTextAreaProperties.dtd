@@ -18,7 +18,7 @@
 <!ENTITY TextAreaDisabled.accessKey "Ç">
 <!ENTITY TextAreaTabIndex.label "Vlerë Tabulacioni:">
 <!ENTITY TextAreaTabIndex.accessKey "T">
-<!ENTITY TextAreaAccessKey.label "Tast Hyrjeje:">
+<!ENTITY TextAreaAccessKey.label "Tast Përdorimi:">
 <!ENTITY TextAreaAccessKey.accessKey "H">
 <!ENTITY InitialText.label "Tekst Fillestar:">
 <!ENTITY InitialText.accessKey "F">
