@@ -203,7 +203,7 @@
 <!ENTITY pref_category_search3 "Kërkim">
 <!ENTITY pref_category_search_summary2 "Shtoni, caktojeni si parazgjedhje, shfaq këshillime">
 <!ENTITY pref_category_accessibility "Përdorshmëri">
-<!ENTITY pref_category_accessibility_summary2 "Madhësi teksti, zoom, futje zanore">
+<!ENTITY pref_category_accessibility_summary2 "Madhësi teksti, zoom, dhënie zanore">
 <!ENTITY pref_category_privacy_short "Privatësi">
 <!ENTITY pref_category_privacy_summary4 "Gjurmim, kredenciale hyrjesh, zgjedhje mbi të dhënat">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -393,7 +393,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_media_autoplay_block "Bllokoje vetëluajtjen">
 <!ENTITY pref_zoom_force_enabled "Aktivizoje përherë zoom-in">
 <!ENTITY pref_zoom_force_enabled_summary "Detyroni anashkalim, që të mund të zmadhoni ose zvogëloni cilëndo faqe">
-<!ENTITY pref_voice_input "Futje zëri">
+<!ENTITY pref_voice_input "Dhënie zanore">
 <!ENTITY pref_voice_input_summary2 "Lejo te shtylla e URL-ven diktim me zë">
 <!ENTITY pref_qrcode_enabled "Lexues kodesh QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Lejo te shtylla e URL-ve skaner QR">
