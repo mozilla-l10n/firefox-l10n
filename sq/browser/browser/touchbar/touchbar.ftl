@@ -9,6 +9,7 @@ forward = Përpara
 reload = Ringarkoje
 home = Kreu
 fullscreen = Sa Krejt Ekrani
+touchbar-fullscreen-exit = Dil nga “Sa Krejt Ekrani”
 find = Gjej
 new-tab = Skedë e re
 add-bookmark = Shtoni faqerojtës
@@ -33,5 +34,5 @@ search-opentabs = Hapi Skedat
 search-tags = Etiketa
 search-titles = Tituj
 
-
+##
 

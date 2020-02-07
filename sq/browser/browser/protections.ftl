@@ -56,7 +56,7 @@ lockwise-title = Mos harroni kurrë më një fjalëkalim
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } depoziton në mënyrë të sigurt fjalëkalimet tuaj në shfletuesin tuaj.
 lockwise-header-content-logged-in = Depozitoni dhe njëkohësoni në mënyrë të sigurt fjalëkalimet tuaj në krejt pajisjet tuaja.
-protection-report-view-logins-button = Shihni Hyrjet
+protection-report-view-logins-button = Shihni Kredenciale Hyrjesh
     .title = Kaloni te Kredenciale të Ruajtura Hyrjesh
 lockwise-no-logins-content = Merrni aplikacionin <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> që t’i merrni kudo me vete fjalëkalimet tuaj.
 # This string is displayed after a large numeral that indicates the total number
@@ -113,8 +113,8 @@ full-report-link = Shihni raportin e plotë te <a data-l10n-name="monitor-inline
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-        [one] Palë kredenciale të ruajtur hyrjesh mund të jenë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
-       *[other] Palë kredenciale të ruajtur hyrjesh mund të jenë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
+        [one] Një palë kredenciale të ruajtura hyrjesh mund të jenë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
+       *[other] Palë kredencialesh të ruajtura hyrjesh mund të jenë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
     }
 
 ## The title attribute is used to display the type of protection.
