@@ -425,10 +425,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Oscail Sainroghanna Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logáil isteach le hamharc ar liosta chluaisíní do ghléasanna eile.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Amharc ar liosta cluaisíní ó do ghléasanna eile.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ní mór duit do chuntas a dheimhniú.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logáil isteach le sioncronú">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Logáil isteach i &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Cuir &syncBrand.shortName.label; ar siúl…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Bainistigh Gléasanna…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Féach ar Chluaisíní Sioncronaithe i mBarra Taoibh">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Ceangail Gléas Eile">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Cuir leis an mBarra Uirlisí">
@@ -450,9 +456,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "B">
 <!ENTITY customizeMenu.addMoreItems.label "Cuir Tuilleadh Leis…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "T">
+<!ENTITY customizeMenu.manageExtension.label "Bainistigh an Eisínteacht">
+<!ENTITY customizeMenu.manageExtension.accesskey "B">
+<!ENTITY customizeMenu.removeExtension.label "Bain an Eisínteacht">
+<!ENTITY customizeMenu.removeExtension.accesskey "n">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Tuairiscigh an Eisínteacht">
+<!ENTITY customizeMenu.reportExtension.accesskey "r">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -594,9 +606,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaigh Leabharmharc don Fhráma Seo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
+<!ENTITY pageAction.copyLink.label    "Cóipeáil an Nasc">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Sábháil i bPocket">
+<!ENTITY saveToPocketCmd.label        "Sábháil an Leathanach i bPocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Sábháil an Nasc i bPocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Féach ar an Liosta Pocket">
 
 <!ENTITY emailPageCmd.label           "Seol an Nasc trí Ríomhphost…">
 <!ENTITY emailPageCmd.accesskey       "S">
@@ -789,20 +808,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "30em">
 <!ENTITY editBookmark.done.label                     "Déanta">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Slándáil Suímh">
 
+<!ENTITY identity.connection "Ceangal">
 <!ENTITY identity.connectionSecure "Ceangal Slán">
 <!ENTITY identity.connectionNotSecure "Ní Ceangal Slán é seo">
 
+<!ENTITY identity.connectionSecure3 "Ceangal slán">
+<!ENTITY identity.connectionNotSecure2 "Ceangal neamhshlán">
+<!ENTITY identity.connectionNotSecureSecurityView "Tá ceangal slán agat leis an suíomh seo.">
 <!ENTITY identity.connectionFile "Stóráiltear an leathanach seo ar do ríomhaire.">
 <!ENTITY identity.connectionVerified2 "Tá ceangal slán agat leis an suíomh seo, suíomh faoi stiúir:">
+<!ENTITY identity.connectionVerified3 "Tá ceangal slán agat leis an suíomh seo.">
 <!ENTITY identity.connectionInternal "Is leathanach slán &brandShortName; é seo.">
 <!ENTITY identity.extensionPage "Lódáiltear an leathanach seo ó eisínteacht.">
 <!ENTITY identity.insecureLoginForms2 "D'fhéadfadh sonraí logáil isteach bheith i mbaol ar an leathanach seo.">
 
+<!ENTITY identity.evOwnerLabel2 "Teastas eisithe chuig:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Chuir &brandShortName; bac ar chodanna den leathanach seo nach bhfuil slán.">
@@ -833,15 +860,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Tuilleadh Eolais">
 
+<!ENTITY identity.clearSiteData "Glan na Fianáin agus Sonraí Suímh…">
 
 <!ENTITY identity.permissions "Ceadanna">
 
+<!ENTITY identity.permissions3 "Ceadanna">
 <!ENTITY identity.permissionsEmpty "Níor thug tú aon chead speisialta don suíomh seo.">
 <!ENTITY identity.permissionsReloadHint "Ní mór duit an leathanach a athlódáil chun na hathruithe a chur i bhfeidhm.">
 
 
+<!ENTITY protections.etpON.header "Tá Ardchosaint ar Lorgaireacht AR SIÚL don suíomh seo">
+<!ENTITY protections.etpOFF.header "Tá Ardchosaint ar Lorgaireacht MÚCHTA don suíomh seo">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Tuilleadh eolais faoi Ardchosaint ar Lorgaireacht">
+<!ENTITY protections.settings.label "Socruithe Cosanta">
+<!ENTITY protections.showreport.label "Taispeáin an Tuairisc">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -850,6 +884,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Réimsí logála isteach">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Foirmeacha">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Íocaíochtaí">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Nótaí tráchta">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Físeáin">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Seol tuairisc">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -857,9 +897,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Coiscthe">
+<!ENTITY protections.notBlocking2.label "Ceadaithe">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Cén fáth?">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
