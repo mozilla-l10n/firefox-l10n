@@ -112,9 +112,17 @@ permissions-site-location-disable-label =
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Ke´i - Permisos Realidad Aumentada
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Ke´i - Permisos ka̱a̱ natva
+    .style = { permissions-window.style }
+permissions-site-camera-disable-label =
+    .label = Kasɨ solicitudes jíía jikatu´un kivɨ nuu ka̱a̱ nátava
 
 ## Site Permissions - Microphone
 
