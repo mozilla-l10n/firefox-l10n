@@ -121,6 +121,16 @@ urlbar-canvas-blocked =
     .tooltiptext = Noo´o nakasɨ tava datos canvas nuu sitio ya´a.
 urlbar-midi-blocked =
     .tooltiptext = Nñasɨnɨ acceso nuu MIDI nuu web ya´a.
+urlbar-install-blocked =
+    .tooltiptext = Nñasɨnɨ nchu´un ka̱a̱ chunta´an nuu web ya´a.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Natee a ta´an ini noo´o ya´a ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Tee página ya´a nuu a ta´an ini noo´o ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -157,6 +167,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Tee tuku ka̱a̱ nánuku kua vaji
     .accesskey = k
+search-one-offs-context-set-as-default-private =
+    .label = Tee kua ka̱a̱ nánuku xinañu´u nuu  daa ventanas yu´u
+    .accesskey = P
 
 ## Bookmark Panel
 
