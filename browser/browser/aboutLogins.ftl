@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
+login-list-name-reverse-option = Անվան (Ա-Ֆ)
 login-list-breached-option = Խախտված կայքեր
 login-list-last-changed-option = Վերջին փոփոխության
 login-list-last-used-option = Վերջին օգտագործման
@@ -73,7 +74,6 @@ about-logins-intro-import = Եթե ձեր մուտքանունները այլ զ
 
 login-item-new-login-title = Ստեղծել նոր մուտքագրում
 login-item-edit-button = Խմբագրել
-login-item-delete-button = Ջնջել
 about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցեն
 login-item-origin =
@@ -84,10 +84,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Պատճենել
 login-item-copied-username-button-text = Պատճենված
 login-item-password-label = Գաղտնաբառ
-login-item-password-reveal-checkbox-show =
-    .title = Ցուցադրել գաղտնաբառը
-login-item-password-reveal-checkbox-hide =
-    .title = Թաքցնել գաղտնաբառը
+login-item-password-reveal-checkbox =
+    .aria-label = Ցուցադրել գաղտնաբառը
 login-item-copy-password-button-text = Պատճենել
 login-item-copied-password-button-text = Պատճենված
 login-item-save-changes-button = Պահպանել փոփոխությունները
@@ -118,7 +116,6 @@ enable-password-sync-preferences-button =
            *[other] Այցելեք { -sync-brand-short-name }-ի նախապատվությունները
         }
     .accesskey = V
-confirm-delete-dialog-title = Ջնջե՞լ այս մուտքագրումը
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Այլևս չհարցնել
     .accesskey = D
@@ -130,7 +127,6 @@ confirmation-dialog-dismiss-button =
     .title = Չեղարկել
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողությունը չի կարող ետարկվել:
-confirm-delete-dialog-confirm-button = Ջնջել
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
 confirm-discard-changes-dialog-title = Վերանայե՞լ չփրկված փոփոխությունները:
 confirm-discard-changes-dialog-message = Բոլոր չպահպանված փոփոխությունները կկորչեն:

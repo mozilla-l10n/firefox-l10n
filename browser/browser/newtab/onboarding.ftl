@@ -145,6 +145,7 @@ onboarding-facebook-container-title = Սահմանեք սահմաններ Facebo
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } ձեր հատկագիրը զերծ է պահում մնացած ամեն ինչից, ավելի դժվար է դարձնում Facebook-ի համար ձեզ գովազդով թիրախավորելը։
 onboarding-facebook-container-button = Ավելացնել ընդլայնում
 onboarding-import-browser-settings-title = Ներածեք Ձեր էջանիշերը, գաղտնաբառերը և ավելին
+onboarding-import-browser-settings-text = Սուզվեք աջ — հեշտությամբ բերեք ձեր Chrome կայքերն ու պարամետրերը ձեզ հետ:
 onboarding-import-browser-settings-button = Ներածել Chrome-ի տվյալները
 
 ## Message strings belonging to the Return to AMO flow
