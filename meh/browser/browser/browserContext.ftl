@@ -65,6 +65,26 @@ toolbar-button-page-save =
 main-context-menu-bookmark-page =
     .aria-label = Tee página ya´a nuu a ta´an ini noo´o
     .accesskey = m
+main-context-menu-bookmark-add =
+    .aria-label = Tee página ya´a nuu a ta´an ini noo´o
+    .accesskey = m
+    .tooltiptext = Tee página ya´a nuu a ta´an ini noo´o
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Tee página ya´a nuu a ta´an ini noo´o
+    .accesskey = m
+    .tooltiptext = Tee página ya´a nuu a ta´an ini noo´o ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Sama a ta´an ini noo´o
+    .accesskey = m
+    .tooltiptext = Natee a ta´an ini noo´o
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Sama a ta´an ini noo´o
+    .accesskey = m
+    .tooltiptext = Natee a ta´an ini noo´o ({ $shortcut })
 main-context-menu-open-link =
     .label = Síne enlace
     .accesskey = A
