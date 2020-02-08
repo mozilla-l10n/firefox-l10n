@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Manter tópicos ao ordenar as mensagens">
 <!ENTITY preserveThreading.accesskey      "M">
+<!ENTITY loadInBackground.label           "Mudar para os novos separadores quando abertos">
+<!ENTITY loadInBackground.accesskey       "f">
 <!ENTITY mailBiffOnNewWindow.label        "Verificar por novo correio apenas depois de abrir o correio e os grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "V">
 
