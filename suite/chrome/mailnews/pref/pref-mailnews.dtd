@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "а">
 <!ENTITY preserveThreading.label          "Сохранять группировку по обсуждениям при сортировке сообщений">
 <!ENTITY preserveThreading.accesskey      "г">
+<!ENTITY loadInBackground.label           "Переключаться на новые вкладки при их открытии">
+<!ENTITY loadInBackground.accesskey       "е">
 <!ENTITY mailBiffOnNewWindow.label        "Проверять наличие новой почты только после открытия окна «Почта и группы новостей»">
 <!ENTITY mailBiffOnNewWindow.accesskey    "р">
 
