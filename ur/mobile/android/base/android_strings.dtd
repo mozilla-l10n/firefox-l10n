@@ -888,6 +888,8 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "آپکا بلکل نیا Firefox، 2020 میں آ رہا ہے">
+<!ENTITY activity_stream_firefox_promo_description "جلد ہی: ‏‏اچھی کارکردگی۔ بهترین ٹریکنگ تحفظ۔ اور ایسی خصوصیات کے ساتھ جو آپ کے ذریعہ آن لائن پسند کی جانے والی چیزوں کو اور بھی زیادہ، تلاش کرنے، محفوظ کرنے، اور شیئر کرنے میں مددگار ہوں۔">
+<!ENTITY activity_stream_firefox_promo_button "ایک جھلک دیکھیں">
 
 <!ENTITY activity_stream_topsites "بہترین سائٹیں">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
