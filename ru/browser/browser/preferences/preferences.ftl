@@ -328,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
@@ -584,6 +584,9 @@ containers-header = Вкладки в контейнере
 containers-add-button =
     .label = Добавить новый контейнер
     .accesskey = а
+containers-new-tab-check =
+    .label = Выбирать контейнер для каждой новой вкладки
+    .accesskey = ы
 containers-preferences-button =
     .label = Настройки
 containers-remove-button =
@@ -922,7 +925,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Персональная
     .accesskey = а
 
-
+##
 
 content-blocking-etp-standard-desc = Обеспечивает наилучший баланс защиты и производительности. Страницы будут загружаться нормально.
 content-blocking-etp-strict-desc = Усиленная защита может вызывать проблемы с некоторыми веб-сайтами и их содержимым.
