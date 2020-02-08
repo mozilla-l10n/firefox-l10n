@@ -9,6 +9,7 @@ forward = Вперёд
 reload = Обновить
 home = Домой
 fullscreen = Полный экран
+touchbar-fullscreen-exit = Выйти из полноэкранного режима
 find = Найти
 new-tab = Новая вкладка
 add-bookmark = Добавить закладку
@@ -33,5 +34,5 @@ search-opentabs = Открытые вкладки
 search-tags = Метки
 search-titles = Заголовки
 
-
+##
 
