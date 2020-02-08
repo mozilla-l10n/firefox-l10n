@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Trình nhập dữ liệu">
 
-<!ENTITY importFrom.label               "Nhập các tùy chọn, trang đánh dấu, lịch sử, mật khẩu và các dữ liệu khác từ:">
-<!ENTITY importFromUnix.label           "Nhập các tùy chỉnh, trang đánh dấu, lịch sử, mật khẩu và các dữ liệu khác từ:">
-<!ENTITY importFromBookmarks.label      "Nhập các Trang đánh dấu từ:">
+<!ENTITY importFrom.label               "Nhập các tùy chọn, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:">
+<!ENTITY importFromUnix.label           "Nhập các tùy chỉnh, dấu trang, lịch sử, mật khẩu và các dữ liệu khác từ:">
+<!ENTITY importFromBookmarks.label      "Nhập các dấu trang từ:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "I">
@@ -36,7 +36,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Không tìm thấy chương trình nào chứa trang đánh dấu, lịch sử, hoặc dữ liệu mật khẩu.">
+<!ENTITY noMigrationSources.label       "Không tìm thấy chương trình nào chứa dấu trang, lịch sử, hoặc dữ liệu mật khẩu.">
 
 <!ENTITY importSource.title             "Nhập các Thiết lập và Dữ liệu từ">
 <!ENTITY importItems.title              "Các mục cần nhập">

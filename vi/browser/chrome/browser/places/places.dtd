@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Quản lí">
 <!ENTITY organize.accesskey    "Q">
-<!ENTITY organize.tooltip      "Tổ chức trang đánh dấu của bạn">
+<!ENTITY organize.tooltip      "Tổ chức dấu trang của bạn">
 
 <!ENTITY file.close.label               "Đóng">
 <!ENTITY file.close.accesskey           "C">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Sắp xếp từ Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Nhập trang đánh dấu từ HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Nhập dấu trang từ HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Xuất trang đánh dấu vào HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Xuất dấu trang sang HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Nhập dữ liệu từ trình duyệt khác…">
 <!ENTITY importOtherBrowser.accesskey      "A">
@@ -62,7 +62,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Đánh dấu mới…">
+<!ENTITY cmd.new_bookmark.label            "Dấu trang mới…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Thư mục mới…">
 <!ENTITY cmd.new_folder.accesskey          "o">
@@ -79,13 +79,13 @@
 <!ENTITY col.lastmodified.label  "Sửa đổi lần cuối">
 
 <!ENTITY historySearch.placeholder  "Tìm kiếm lịch sử">
-<!ENTITY bookmarksSearch.placeholder  "Tìm kiếm trang đánh dấu">
+<!ENTITY bookmarksSearch.placeholder  "Tìm kiếm dấu trang">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Nhập và sao lưu">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Nhập và sao lưu trang đánh dấu của bạn">
+<!ENTITY maintenance.tooltip    "Nhập và sao lưu dấu trang của bạn">
 
 <!ENTITY backButton.tooltip  "Quay lại">
 

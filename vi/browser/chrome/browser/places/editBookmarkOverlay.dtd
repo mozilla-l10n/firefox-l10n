@@ -7,7 +7,7 @@
 <!ENTITY editBookmarkOverlay.location.label                  "Địa chỉ:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "a">
 <!ENTITY editBookmarkOverlay.folder.label                    "Thư mục:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Hiện tất cả các thư mục chứa trang đánh dấu">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Hiện tất cả các thư mục chứa dấu trang">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ẩn">
 <!ENTITY editBookmarkOverlay.tags.label                      "Nhãn:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "h">
