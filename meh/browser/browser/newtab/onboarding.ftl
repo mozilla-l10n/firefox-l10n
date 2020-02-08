@@ -103,6 +103,7 @@ onboarding-lockwise-passwords-button2 = Ni'i App
 onboarding-lockwise-strong-passwords-button = Tetiñu nuu kajie´e sesión
 onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
 onboarding-facebook-container-button = Tee extensión
+onboarding-import-browser-settings-button = Sá´á importar datos Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

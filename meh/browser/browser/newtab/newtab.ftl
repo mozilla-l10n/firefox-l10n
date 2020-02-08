@@ -147,6 +147,7 @@ newtab-empty-section-highlights = Kajie´e nánuku, jee xine´e-ani daa tutu vii
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = ¡A íyonu ki̱vɨ̱ vitá!
+newtab-discovery-empty-section-topstories-content = Niko íchika saa kuninu kue´e artículos.
 newtab-discovery-empty-section-topstories-try-again-button = Nasá´á tuku
 newtab-discovery-empty-section-topstories-loading = Kunetu…
 # Displays when a layout in a section took too long to fetch articles.
