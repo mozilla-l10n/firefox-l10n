@@ -217,6 +217,8 @@ identity-description-weak-cipher-risk = Inka ñivɨ kuvi kune´ya tu´un noo´o 
 identity-description-active-blocked = { -brand-short-name } nñasɨ sava página ya´a a ntu íyo vatu. <label data-l10n-name="link"> Kuni jiee ya´a</label>
 identity-description-passive-loaded = Conexión noo´o ntu yu´u jee tu´un kua´anu jii nuu ya´a kuvi kutuvi nuu inka ñivɨ.
 identity-description-passive-loaded-insecure = Nuu web ya´a kumi tu´un ntu íyo va´a (kua tutu natava). <label data-l10n-name="link">Kuni jiee ya´a</label>
+identity-description-passive-loaded-mixed = { -brand-short-name } nñasɨ yaku tu´un, íyo tu´un nuu página ntu íyo va´a (kua tutu natava). <label data-l10n-name="link">Kuni jiee ya´a</label>
+identity-description-active-loaded = Nuu web ya´a kumi tu´un ntu va´a (kua scripts) jee conexión noo´o jii daa ya´a ntu yu´u.
 identity-description-active-loaded-insecure = Información jia´anu jii nuu ya´a kuvi kune´ya inka ñivɨ (kua contraseñas, mensajes, tutu crédito, etc.).
 identity-learn-more =
     .value = Ka´vi kue´eka
