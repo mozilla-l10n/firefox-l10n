@@ -9,12 +9,14 @@ ok = OK
 http = HTTP
 sockets = Sockety
 dns = DNS
+dnssuffix = Přípona DNS
 websockets = WebSockets
 refresh = Obnovit
 auto-refresh = Automatické obnovení každé 3 sekundy
 hostname = Adresa serveru
 port = Port
 http2 = HTTP/2
+about-networking-http-version = Verze HTTP
 ssl = SSL
 active = Aktivní
 idle = Nečinný
@@ -57,9 +59,13 @@ rcwn-avg-long = Dlouhodobý průměr
 rcwn-std-dev-long = Dlouhodobá směrodatná odchylka
 rcwn-cache-slow = Počet pomalých přístupů do mezipaměti
 rcwn-cache-not-slow = Počet rychlých přístupů do mezipaměti
+networkid = ID sítě
+networkid-id = ID sítě
 
 ## Link is intended as "network link"
 
+networkid-isUp = Spojení je aktivní
+networkid-statusKnown = Stav spojení je známý
 
-
+##
 
