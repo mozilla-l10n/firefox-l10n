@@ -14,6 +14,7 @@ changed-desc-profiles = A nchu´un ya´a { -brand-short-name } kumi iin perfil j
 changed-desc-dedicated = Saa kuvi nko viji jee vatu saa sama daa nchu´un Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition jee Firefox Nightly), a nchu´un ya´a ni´i iin perfil especifico. Nkua´a tu´un nchuva´a jii daa inka nchu´un Firefox.
 lost = <b>Ntu skuitanu ni´i dato noo´o.</b> Dee a nchuva´anu tu´un nuu Firefox nuu ka̱a̱ tee nɨnuu ya´a, íyo daa tu´un ya´a nuu daa inka a nchu´un Firefox.
 options-title = ¿Naku kuvi kajini?
+options-do-nothing = Dee nsá´ánu iin a kuvi, datos perfil noo´o { -brand-short-name } kuvi nko inu datos perfil jii daa inka nchu´un Firefox.
 options-use-sync = Dee kuvinu kuaíyo datos perfil noo´o koo inu ntaka nuu chu´unu Firefox, kuvi ni´inu iin { -fxaccount-brand-name } jee koo sincronizados.
 resources = Recursos:
 sync-header = Kajie´e sesión a xíín sá´á { -fxaccount-brand-name }
