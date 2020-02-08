@@ -30,7 +30,7 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY showBalloon.label                "Mostrar um balão de alerta">
 <!ENTITY showBalloon.accesskey            "o">
-<!ENTITY bounceSystemDockIcon.label       "Animar o ícone">
+<!ENTITY bounceSystemDockIcon.label       "Animar o ícone da doca">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 
 <!ENTITY playSound.label                  "Reproduzir um som">
