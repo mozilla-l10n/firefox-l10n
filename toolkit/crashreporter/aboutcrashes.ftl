@@ -8,6 +8,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Վթարի զեկույցներ
+submit-all-button-label = Ուղարկել բոլորը
 delete-button-label = Մաքրել բոլորը
 delete-confirm-title = Դուք համոզվա՞ծ էք
 delete-unsubmitted-description = Սա կոչնչացնի բոլոր հաղորդագրությունները և այլևս հնարավոր չի լինի վերականգնել։

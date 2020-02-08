@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> հետևումը արգելափակվել է սկսած { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }-ից
        *[other] <b>{ $count }</b> հետևումները արգելափակվել են սկսած { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }-ից
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name }-ը շարունակում է արգելափակել հետքերը անձնական Windows- ում, բայց չի պահում գրառումը, թե ինչն է արգելափակված:
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = { -brand-short-name }-ի հետագծումները այս շաբաթ արգելափակել են
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
