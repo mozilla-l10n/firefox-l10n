@@ -13,7 +13,7 @@ touchbar-fullscreen-exit = Thoát chế độ toàn màn hình
 find = Tìm
 new-tab = Thẻ mới
 add-bookmark = Thêm dấu trang
-open-bookmarks-sidebar = Mở thanh bên trang đánh dấu
+open-bookmarks-sidebar = Mở thanh bên dấu trang
 reader-view = Chế độ đọc sách
 # Meant to match the string displayed in an empty URL bar.
 open-location = Tìm kiếm hoặc nhập địa chỉ
@@ -28,7 +28,7 @@ search-search-in = Tìm kiếm trong:
 
 ## Various categories of shortcuts for search.
 
-search-bookmarks = Trang đánh dấu
+search-bookmarks = Dấu trang
 search-history = Lịch sử
 search-opentabs = Thẻ đang mở
 search-tags = Thẻ

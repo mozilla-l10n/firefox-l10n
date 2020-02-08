@@ -101,9 +101,9 @@ newtab-privacy-modal-link = Tìm hiểu cách hoạt động của quyền riên
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
-newtab-menu-remove-bookmark = Xóa đánh dấu
+newtab-menu-remove-bookmark = Xóa dấu trang
 # Bookmark is a verb here.
-newtab-menu-bookmark = Đánh dấu
+newtab-menu-bookmark = Dấu trang
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".

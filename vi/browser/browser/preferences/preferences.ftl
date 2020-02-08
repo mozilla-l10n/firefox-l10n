@@ -456,8 +456,8 @@ use-current-pages =
         }
     .accesskey = C
 choose-bookmark =
-    .label = Dùng trang đánh dấu…
-    .accesskey = d
+    .label = Sử dụng dấu trang…
+    .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
 
@@ -482,7 +482,7 @@ home-prefs-highlights-description = Một lựa chọn các trang web mà bạn 
 home-prefs-highlights-option-visited-pages =
     .label = Trang đã truy cập
 home-prefs-highlights-options-bookmarks =
-    .label = Trang đánh dấu
+    .label = Dấu trang
 home-prefs-highlights-option-most-recent-download =
     .label = Tải xuống gần đây nhất
 home-prefs-highlights-option-saved-to-pocket =
@@ -549,7 +549,7 @@ search-keyword-warning-title = Nhân bản Từ khóa
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = Bạn đã chọn một từ khóa hiện đang được dùng bởi "{ $name }". Vui lòng chọn từ khác.
-search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một trang đánh dấu. Vui lòng chọn từ khác.
+search-keyword-warning-bookmark = Bạn đã chọn một từ khóa hiện đang được dùng bởi một dấu trang. Vui lòng chọn từ khác.
 
 ## Containers Section
 
@@ -579,7 +579,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Mang trang web theo bạn
-sync-signedout-description = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
+sync-signedout-description = Đồng bộ dấu trang, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
 sync-signedout-account-title = Kết nối với một { -fxaccount-brand-name }
 sync-signedout-account-create = Bạn chưa có tài khoản? Bắt đầu
     .accesskey = C
@@ -635,7 +635,7 @@ prefs-syncing-off = Đồng bộ hóa: TẮT
 prefs-sync-setup =
     .label = Thiết lập { -sync-brand-short-name }…
     .accesskey = S
-prefs-sync-offer-setup-label = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
+prefs-sync-offer-setup-label = Đồng bộ dấu trang, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
 prefs-sync-now =
     .labelnotsyncing = Đồng bộ hóa ngay
     .accesskeynotsyncing = N
@@ -644,7 +644,7 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = Bạn hiện đang đồng bộ hóa các mục này:
-sync-currently-syncing-bookmarks = Trang đánh dấu
+sync-currently-syncing-bookmarks = Dấu trang
 sync-currently-syncing-history = Lịch sử
 sync-currently-syncing-tabs = Các thẻ đang mở
 sync-currently-syncing-logins-passwords = Đăng nhập và mật khẩu
@@ -670,8 +670,8 @@ sync-choose-what-to-sync-dialog =
     .buttonlabelextra2 = Ngắt kết nối…
     .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
-    .label = Trang đánh dấu
-    .accesskey = d
+    .label = Dấu trang
+    .accesskey = m
 sync-engine-history =
     .label = Lịch sử
     .accesskey = r
@@ -860,7 +860,7 @@ addressbar-locbar-history-option =
     .label = Lịch sử duyệt web
     .accesskey = h
 addressbar-locbar-bookmarks-option =
-    .label = Trang đánh dấu
+    .label = Dấu trang
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = Các thẻ đang mở
