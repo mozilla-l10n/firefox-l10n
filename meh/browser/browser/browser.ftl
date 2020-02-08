@@ -205,9 +205,12 @@ identity-clear-site-data =
     .label = Xina cookies jii datos sitio...
 identity-connection-not-secure-security-view = Ntu nkuvi sá´á iin conexión va´a jii sitio ya´a.
 identity-connection-verified = Nkuvi sá´á iin conexión vatu jii sitio ya´a.
+identity-ev-owner-label = Certificado ntava jii sivɨ:
+identity-description-custom-root = Mozilla ntu nakuni vetiñu certificados ya´a. Sana ka̱a̱ operativo a xiin ñivɨ tetiñu ntemaja.<label data-l10n-name="link">Kuni jiee ya´a</label>
 identity-remove-cert-exception =
     .label = Xina excepción
     .accesskey = E
+identity-description-insecure = Conexión noo´o ntu íyo yu´u. Tu´un chu´un íchinu sana kutuvi nuu inka ñivɨ (contraseñas, mensajes, daa tutu xu´un, etc.).
 identity-description-active-loaded-insecure = Información jia´anu jii nuu ya´a kuvi kune´ya inka ñivɨ (kua contraseñas, mensajes, tutu crédito, etc.).
 identity-learn-more =
     .value = Ka´vi kue´eka
