@@ -6,6 +6,7 @@ url-classifier-title = Informace o URL Classifier
 url-classifier-search-title = Hledat
 url-classifier-search-result-title = Výsledky
 url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = Seznam tabulek: { $list }
 url-classifier-search-input = URL adresa
 url-classifier-search-error-invalid-url = Neplatná URL adresa
 url-classifier-search-error-no-features = Nejsou vybrány žádné funkce

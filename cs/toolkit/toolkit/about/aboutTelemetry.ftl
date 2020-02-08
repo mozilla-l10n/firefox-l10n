@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Zdroj dat pro ping:
 about-telemetry-show-current-ping-data = Současná data pro ping
+about-telemetry-show-current-data = Aktuální data
 about-telemetry-show-archived-ping-data = Archivovaná data pro ping
 about-telemetry-show-subsession-data = Zobrazit data o pod-relacích
 about-telemetry-choose-ping = Vybrat ping:
@@ -15,6 +16,7 @@ about-telemetry-option-group-older = Starší
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrická data
+about-telemetry-current-store = Současné úložiště:
 about-telemetry-more-information = Hledáte více informací?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Dokumentace dat prohlížeče Firefox</a> obsahuje návody pro práci s našimi datovými nástroji.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Dokumentace klienta telemetrie pro prohlížeč Firefox</a> obsahuje definice pojmů, dokumentaci API a popisy dat.
@@ -55,6 +57,17 @@ about-telemetry-upload-type =
         [enabled] je povoleno
        *[disabled] není povolené
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } vzorek
+        [few] { $sampleCount } vzorky
+       *[other] { $sampleCount } vzorků
+    }, průměr = { $prettyAverage }, součet = { $sum }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Tato stránka zobrazuje data o výkonu, hardwaru, používání a přizpůsobení aplikace. Tyto informace jsou anonymně odesílány organizaci { $telemetryServerOwner } a slouží k vylepšování aplikace { -brand-full-name }.
@@ -64,6 +77,7 @@ about-telemetry-settings-explanation = Telemetrie sbírá { about-telemetry-data
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Všechny informace jsou odesílány jako součást „<a data-l10n-name="ping-link">pings</a>“. Nyní se díváte na ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Všechny informace jsou odesílány jako součást „<a data-l10n-name="ping-link">pings</a>“. Nyní se díváte na ping současný.
+about-telemetry-data-details-current = Všechny informace jsou odesílány jako součást „<a data-l10n-name="ping-link">pings</a>“. Nyní se díváte na současná data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -90,6 +104,8 @@ about-telemetry-no-search-results-all = Je nám líto, pro „{ $searchTerms }�
 about-telemetry-no-data-to-display = Je nám líto, v sekci „{ $sectionName }“ teď nejsou žádná data
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = současný ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = aktuální data
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = vše
 # button label to copy the histogram
@@ -124,3 +140,7 @@ about-telemetry-category-header = kategorie
 about-telemetry-method-header = metoda
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = extra
+about-telemetry-origin-count = počet
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = typ procesu: { $process }
