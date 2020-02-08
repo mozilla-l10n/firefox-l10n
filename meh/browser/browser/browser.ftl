@@ -173,6 +173,9 @@ search-one-offs-context-set-as-default-private =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Xituvi natee saa chuva´a
+    .accesskey = S
 bookmark-panel-done-button =
     .label = Xinɨ´ɨ
 # Width of the bookmark panel.
@@ -187,6 +190,10 @@ identity-connection-not-secure = Conexión ntu va´a.
 identity-connection-secure = Conexión va´a
 identity-connection-internal = Ya´a kuvi iin página { -brand-short-name } va´a.
 identity-connection-file = Página ya´a nchuva´a nuu ka̱a̱ tee nɨnuu noo´o.
+identity-extension-page = Nuu ya´a nakivɨ tuku jii iin extensión.
+identity-active-blocked = { -brand-short-name } nñasɨ yaku ka̱a̱ nuu ya´a jiee ntu tuvi vatu daa ya´a.
+identity-custom-root = Conexión verificada jii iin vetiñu taji certificados jee Mozilla ntu nakuni.
+identity-passive-loaded = Sava página ya´a ntu iyo vatu (kua daa tutu nátava).
 identity-clear-site-data =
     .label = Xina cookies jii datos sitio...
 identity-connection-not-secure-security-view = Ntu nkuvi sá´á iin conexión va´a jii sitio ya´a.
