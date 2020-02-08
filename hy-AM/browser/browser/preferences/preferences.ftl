@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Գույներ…
     .accesskey = Գ
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Դիտափոխել
+preferences-default-zoom = Լռելյայն դիտափոխում
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Դիտափոխել միայն գրվածքը
+    .accesskey = t
 language-header = Լեզուն
 choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
 choose-button =
@@ -351,6 +360,11 @@ update-pref-write-failure-title = Գրեք ձախողում
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Անհնար է պահպանել նախապատվությունները: Հնարավոր չէ գրել ֆայլում. { $path }
 update-setting-write-failure-title = Սխալ պահպանեում է թարմացման նախընտրությունները
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message = { -brand-short-name }-ը բախվել է սխալի և չի պահպանել այս փոփոխությունը։ Նկատի ունեցեք, որ այս թարմացման նախընտրանքի կարգավորումը պահանջում է թույլատվություն ստորին նիշքում գրելու համար։ Դուք կամ համակարգի վարիչը կարող եք լուծել սխալը օգտագործողների խմբին շնորհելով այս նիշքի ողջ կառավարումը։
 update-in-progress-title = Արդիացվում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարվել
@@ -563,6 +577,9 @@ containers-header = Պարունակ ներդիրներ
 containers-add-button =
     .label = Ավելացել նոր պարունակ
     .accesskey = Ա
+containers-new-tab-check =
+    .label = Ընտրեք պարունակ յուրաքանչյուր նոր ներդիրի համար
+    .accesskey = S
 containers-preferences-button =
     .label = Նախընտրություններ
 containers-remove-button =
