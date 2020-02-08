@@ -313,10 +313,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksSidebar.label         "Ẩn thanh bên dấu trang">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh công cụ dấu trang">
 <!ENTITY hideBookmarksToolbar.label         "Ẩn thanh công cụ dấu trang">
-<!ENTITY searchBookmarks.label              "Tìm kiếm trang đánh dấu">
+<!ENTITY searchBookmarks.label              "Tìm kiếm dấu trang">
 <!ENTITY bookmarkingTools.label             "Công cụ đánh dấu trang">
-<!ENTITY addBookmarksMenu.label             "Thêm bảng chọn trang đánh dấu vào thanh công cụ">
-<!ENTITY removeBookmarksMenu.label          "Xóa bảng chọn trang đánh dấu từ thanh công cụ">
+<!ENTITY addBookmarksMenu.label             "Thêm bảng chọn dấu trang vào thanh công cụ">
+<!ENTITY removeBookmarksMenu.label          "Xóa bảng chọn dấu trang từ thanh công cụ">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -1091,7 +1091,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "Chia sẻ">
 <!ENTITY pageAction.shareMore.label "Thêm…">
 
-<!ENTITY libraryButton.tooltip "Xem lịch sử, lưu trang đánh dấu và nhiều hơn nữa">
+<!ENTITY libraryButton.tooltip "Xem lịch sử, dấu trang đã lưu và nhiều hơn nữa">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
