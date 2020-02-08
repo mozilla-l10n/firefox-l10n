@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "д">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Выбрать колонки для отображения">
 <!ENTITY newContactButton.tooltip                       "Создание нового контакта адресной книги">
 <!ENTITY newlistButton.tooltip                          "Создание нового списка рассылки">
 <!ENTITY editPropertiesButton.tooltip                   "Изменение выбранного элемента">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Создание сообщения">
 <!ENTITY newIM.tooltip                                  "Отправить мгновенное сообщение или начать беседу">
 <!ENTITY deleteButton2.tooltip                          "Удаление выбранного элемента">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Адресные книги">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Имя или e-mail адрес">
