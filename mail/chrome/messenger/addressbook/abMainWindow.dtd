@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Velg kolonner å vise">
 <!ENTITY newContactButton.tooltip                       "Lag en ny kontakt">
 <!ENTITY newlistButton.tooltip                          "Lag en ny liste">
 <!ENTITY editPropertiesButton.tooltip                   "Rediger valgt element">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat">
 <!ENTITY deleteButton2.tooltip                          "Slett valgt element">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adressebøker">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Navn eller e-post">
