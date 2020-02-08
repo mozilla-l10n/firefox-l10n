@@ -124,6 +124,7 @@ cfr-whatsnew-pip-cta = เรียนรู้เพิ่มเติม
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = ป๊อปอัปของไซต์ที่น่ารำคาญน้อยลง
 cfr-whatsnew-permission-prompt-cta = เรียนรู้เพิ่มเติม
 
 ## Fingerprinter Counter
