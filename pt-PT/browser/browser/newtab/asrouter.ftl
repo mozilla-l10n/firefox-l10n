@@ -153,15 +153,15 @@ cfr-whatsnew-fingerprinter-counter-body-alt = O { -brand-shorter-name } pode blo
 
 cfr-doorhanger-sync-bookmarks-header = Obtenha este marcador no seu telemóvel
 cfr-doorhanger-sync-bookmarks-body = Leve os seus marcadores, palavras-passe, histórico e muito mais onde tiver a sessão iniciada no { -brand-product-name }.
-cfr-doorhanger-sync-bookmarks-ok-button = Ligue o { -sync-brand-short-name }
+cfr-doorhanger-sync-bookmarks-ok-button = Ligar { -sync-brand-short-name }
     .accesskey = L
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Nunca mais perca uma palavra-passe
 cfr-doorhanger-sync-logins-body = Armazene e sincronize com segurança as suas palavras-passe em todos os seus dispositivos.
-cfr-doorhanger-sync-logins-ok-button = Ativar o { -sync-brand-short-name }
-    .accesskey = t
+cfr-doorhanger-sync-logins-ok-button = Ligar { -sync-brand-short-name }
+    .accesskey = L
 
 ## Send Tab
 
