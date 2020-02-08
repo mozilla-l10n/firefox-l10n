@@ -211,6 +211,12 @@ identity-remove-cert-exception =
     .label = Xina excepción
     .accesskey = E
 identity-description-insecure = Conexión noo´o ntu íyo yu´u. Tu´un chu´un íchinu sana kutuvi nuu inka ñivɨ (contraseñas, mensajes, daa tutu xu´un, etc.).
+identity-description-insecure-login-forms = Tu´un nuu kajie´e sesión chu´unu nuu página ya´a ntu íyo va´a jee kuvi sakui´inadama.
+identity-description-weak-cipher-intro = Conexión noo´o jii nuu web ya´a ni´i encriptación ntu nakui jee ntu íyo yu´u.
+identity-description-weak-cipher-risk = Inka ñivɨ kuvi kune´ya tu´un noo´o a xiin sama naja satiñu nuu web ya´a.
+identity-description-active-blocked = { -brand-short-name } nñasɨ sava página ya´a a ntu íyo vatu. <label data-l10n-name="link"> Kuni jiee ya´a</label>
+identity-description-passive-loaded = Conexión noo´o ntu yu´u jee tu´un kua´anu jii nuu ya´a kuvi kutuvi nuu inka ñivɨ.
+identity-description-passive-loaded-insecure = Nuu web ya´a kumi tu´un ntu íyo va´a (kua tutu natava). <label data-l10n-name="link">Kuni jiee ya´a</label>
 identity-description-active-loaded-insecure = Información jia´anu jii nuu ya´a kuvi kune´ya inka ñivɨ (kua contraseñas, mensajes, tutu crédito, etc.).
 identity-learn-more =
     .value = Ka´vi kue´eka
