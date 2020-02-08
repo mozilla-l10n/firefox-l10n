@@ -119,6 +119,8 @@ urlbar-autoplay-media-blocked =
     .tooltiptext = Nñasɨnɨ nkajie´e kata nasun nuu web ya´a.
 urlbar-canvas-blocked =
     .tooltiptext = Noo´o nakasɨ tava datos canvas nuu sitio ya´a.
+urlbar-midi-blocked =
+    .tooltiptext = Nñasɨnɨ acceso nuu MIDI nuu web ya´a.
 
 ## Page Action Context Menu
 
