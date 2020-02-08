@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          "O programie &brandFullName;">
+<!ENTITY aboutDialog.title          "O programie &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
