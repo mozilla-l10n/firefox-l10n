@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Tiện ích được đề xuất
 cfr-doorhanger-feature-heading = Tính năng được đề xuất
 cfr-doorhanger-pintab-heading = Hãy thử cái này: Ghim thẻ
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
@@ -69,9 +69,9 @@ cfr-doorhanger-pintab-animation-resume = Tiếp tục
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Đồng bộ trang đánh dấu của bạn ở mọi nơi.
+cfr-doorhanger-bookmark-fxa-header = Đồng bộ dấu trang của bạn ở mọi nơi.
 cfr-doorhanger-bookmark-fxa-body = Đã tìm thấy tuyệt vời! Bây giờ hãy đồng bộ các dấu trang này với thiết bị di động của bạn. Bắt đầu với một { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Đồng bộ trang đánh dấu ngay bây giờ...
+cfr-doorhanger-bookmark-fxa-link-text = Đồng bộ hóa dấu trang ngay bây giờ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Nút đóng
     .title = Đóng
