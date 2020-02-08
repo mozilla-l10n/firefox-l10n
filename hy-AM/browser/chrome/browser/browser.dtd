@@ -686,9 +686,9 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Պատճենել տեսանյութի հասցեն">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Պատճենել Ձայնագրության Հասցեն">
-<!ENTITY copyAudioURLCmd.accesskey    "ա">
-<!ENTITY copyEmailCmd.label           "Պատճենել Էլ. փոստի հասցեն">
+<!ENTITY copyAudioURLCmd.label        "Պատճենել ձայնանյութի հասցեն">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Պատճենել Էլ֊փոստի հասցեն">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -851,7 +851,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure3 "Միացումը ապահով է">
 <!ENTITY identity.connectionNotSecure2 "Կապակցումը անվտանգ չէ">
-<!ENTITY identity.connectionNotSecureSecurityView "Այս կայքի հետ դուկ կապակցված եք անապահով կերպով։">
+<!ENTITY identity.connectionNotSecureSecurityView "Այս կայքի հետ դուք կապակցված եք անապահով կերպով։">
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
 <!ENTITY identity.connectionVerified2 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
 <!ENTITY identity.connectionVerified3 "Դուք անվտանգ կապակցվել եք այս կայքի հետ։">
@@ -860,7 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգված են:">
 <!ENTITY identity.customRoot "Կապը հաստատված է ըստ թողարկողի վավերագրի, որը ճանաչված չէ Mozilla-ի կողմից։">
 
-<!ENTITY identity.evOwnerLabel2 "Վկայագիր, որը տրվել է ՝">
+<!ENTITY identity.evOwnerLabel2 "Վկայագիր, որը տրվել է՝">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:">
@@ -869,10 +869,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Այս էջը օգտագործում է աղքատ գաղտնագրում:">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղկլարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):">
+<!ENTITY identity.description.insecure "Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):">
 <!ENTITY identity.description.insecureLoginForms "Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:">
 <!ENTITY identity.description.weakCipher "Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:">
-<!ENTITY identity.description.weakCipher2 "Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:">
+<!ENTITY identity.description.weakCipher2 "Այլ անձինք կարող են դիտել Ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին։">
 <!ENTITY identity.description.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, որոնք անվտանգ չեն:">
 <!ENTITY identity.description.passiveLoaded "Ձեր կապակցումը գատնի չէ և կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից:">
 <!ENTITY identity.description.passiveLoaded2 "Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ պատկերներ):">
@@ -882,13 +882,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.customRoot "Mozilla-ն չի ճանաչում այս վկայագրի թողարկողին: Այն կարող է ավելացվել ձեր գործավար համակարգից կամ համակարգավարի կողմից:">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Միացնել պաշտպանություն">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "Մ">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "Անջատել պաշտպանությունը">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "Ա">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Իմանալ ավելին">
 
 <!ENTITY identity.removeCertException.label "Հեռացնել բացառությունը">
-<!ENTITY identity.removeCertException.accesskey "Հ">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "Մանրամասն">
 
@@ -900,7 +900,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:">
 <!ENTITY identity.permissionsReloadHint "Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։">
 <!ENTITY identity.permissionsPreferences.tooltip "Բացել իրավունքների նախասիրությունները">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Բացել արգելքների նախընտրութիւնները">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Բացել արգելքների նախընտրությունները">
 
 
 <!ENTITY protections.etpON.header "Ընդլայնված պաշտպանությունը հետապնդումից ՄԻԱՑՎԱԾ է այս կայքում">
@@ -945,7 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Այս կայքի բոլոր հետքերը բեռնված են, քանի որ պաշտպանությունն անջատված է։">
 <!ENTITY protections.noTrackersFound.description "Ոչ մի հայտնի հետապնդումներ &brandShortName; չեն հայտնաբերվել այս էջում։">
 
-<!ENTITY protections.crossSiteTrackingCookies.description "Այս նշոցիները հետևում են ձեզ կայքից կայք տվյալներ հավաքելու այն մասին թե ինչ եք անում դուք առցանց։ Դրանք սահմանված են երրորդ կողմի մողմից ինչպիսիք են՝ գովազդատուները և վերլուծական ընկերությունները։">
+<!ENTITY protections.crossSiteTrackingCookies.description "Այս նշոցիները հետևում են ձեզ կայքից կայք տվյալներ հավաքելու այն մասին թե ինչ եք անում դուք առցանց։ Դրանք սահմանված են երրորդ կողմի կողմից ինչպիսիք են՝ գովազդատուները և վերլուծական ընկերությունները։">
 <!ENTITY protections.cryptominers.description "Գաղտնազերծիչները օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողը հանելու համար։ Գաղտնազերծիչի սցենարները չորացնում են ձեր մարտկոցը, դանդաղեցնում ձեր համակարգիչը և կարող են մեծացնել ձեր էներգիայի հաշիվը։">
 <!ENTITY protections.fingerprinters.description "Մատնահետքերը հավաքում են կարգավորումներ ձեր զննարկչից և համակարգչից ձեր հատկագիրը ստեղծելու համար։ Օգտագործելով այս թվային մատնահետքը, նրանք կարող են հետևել ձեզ տարբեր վեբ կայքերի միջով։">
 <!ENTITY protections.trackingContent2.description "Կայքերը կարող են բեռնել արտաքին գովազդներ, տեսանյութեր և այլ պարունակություն հետևման կոդով։ Պարունակության հետևումը արգելափակելը կարող է ավելի արագացնել կայքերի բեռնումը, բայց որոշ կոճակներ, ձևեր և մուտքագործման դաշտեր կարող են չաշխատել։">
@@ -960,21 +960,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Համաժամեցված ներդիրներ">
 
-<!ENTITY syncBrand.shortName.label    "Սինք">
+<!ENTITY syncBrand.shortName.label    "Համաժամեցում">
 
 <!ENTITY syncSignIn.label             "Մուտք գործել &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Սինք">
+<!ENTITY syncSyncNowItem.label        "Համաժամեցնել հիմա">
 <!ENTITY syncSyncNowItemSyncing.label "Համաժամեցում…">
-<!ENTITY syncSyncNowItem.accesskey    "Ս">
-<!ENTITY syncReAuthItem.label         "Վերակապակցվել &syncBrand.shortName.label;ին">
-<!ENTITY syncReAuthItem.accesskey     "Վ">
-<!ENTITY syncToolbarButton.label      "Սինք">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "Վերակապակցել &syncBrand.shortName.label;ին…">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncToolbarButton.label      "Համաժամեցնել">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ինքնաթաքցնել">
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտք տեսախցիկին.">
-<!ENTITY getUserMedia.selectCamera.accesskey "Մ">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Մուտք խոսափողին.">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "Մ">
 <!ENTITY getUserMedia.audioCapture.label "Ներդիրի ձայնանյութը կհամօգտագործվի:">
@@ -990,7 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Հետևումներ">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Բոլոր հետևումները արգելափակելու համար, սահմանե՛ք բովանդակության արգելափակումը “Խիստ”։">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Բոլոր հետևումները արգելափակելու համար, սահմանեք բովանդակության արգելափակումը “Խիստ”։">
 
 <!ENTITY contentBlocking.cookies.label "Նշոցիկներ">
 <!ENTITY contentBlocking.cookiesView.label "Նշոցիկներ և կայքի տվյալներ">
