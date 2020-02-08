@@ -7,11 +7,11 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title Trang đánh dấu
-#define bookmarks_heading Trang đánh dấu
+#define bookmarks_title Dấu trang
+#define bookmarks_heading Dấu trang
 
-#define bookmarks_toolbarfolder Thư mục Thanh Đánh Dấu
-#define bookmarks_toolbarfolder_description Thêm các trang đánh dấu vào thư mục này để hiển thị chúng trên Thanh Đánh Dấu
+#define bookmarks_toolbarfolder Thư mục thanh dấu trang
+#define bookmarks_toolbarfolder_description Thêm các dấu trang vào thư mục này để hiển thị chúng trên thanh dấu trang
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
