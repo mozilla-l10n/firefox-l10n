@@ -80,13 +80,13 @@ when there are no windows but Firefox is still running. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Điều hướng">
-<!ENTITY personalbarCmd.label "Thanh đánh dấu">
+<!ENTITY personalbarCmd.label "Thanh dấu trang">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Trang đánh dấu">
-<!ENTITY bookmarksToolbarItem.label "Các mục của thanh đánh dấu">
+<!ENTITY personalbar.accessibleLabel "Dấu trang">
+<!ENTITY bookmarksToolbarItem.label "Các mục của thanh dấu trang">
 
 <!ENTITY pageSourceCmd.label "Mở mã nguồn trang">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -217,7 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Đóng cửa sổ">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Trang đánh dấu">
+<!ENTITY bookmarksMenu.label "Dấu trang">
 <!ENTITY bookmarksMenu.accesskey "B">
 
 <!ENTITY bookmarkThisPageCmd.label "Đánh dấu trang này">
@@ -226,11 +226,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các thẻ…">
 
-<!ENTITY showAllBookmarks2.label "Xem tất cả trang đánh dấu">
-<!ENTITY recentBookmarks.label "Trang đánh dấu gần đây">
-<!ENTITY otherBookmarksCmd.label "Trang đánh dấu khác">
-<!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên di động">
-<!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
+<!ENTITY showAllBookmarks2.label "Xem tất cả dấu trang">
+<!ENTITY recentBookmarks.label "Dấu trang gần đây">
+<!ENTITY otherBookmarksCmd.label "Dấu trang khác">
+<!ENTITY mobileBookmarksCmd.label "Dấu trang trên di động">
+<!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các dấu trang">
 
 <!ENTITY backCmd.label                "Quay lại">
 <!ENTITY backCmd.accesskey            "B">
@@ -302,17 +302,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Trang chủ">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Trang Chủ">
 
-<!ENTITY bookmarksButton.label          "Trang đánh dấu">
+<!ENTITY bookmarksButton.label          "Dấu trang">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "Trang đánh dấu">
-<!ENTITY bookmarksMenuButton2.label         "Bảng chọn trang đánh dấu">
-<!ENTITY bookmarksMenuButton.other.label    "Trang đánh dấu khác">
-<!ENTITY bookmarksMenuButton.mobile.label   "Trang đánh dấu trên điện thoại di động">
-<!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh bên trang đánh dấu">
-<!ENTITY hideBookmarksSidebar.label         "Ẩn thanh lề trang đánh dấu">
-<!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh công cụ trang đánh dấu">
-<!ENTITY hideBookmarksToolbar.label         "Ẩn thanh công cụ trang đánh dấu">
+<!ENTITY bookmarksSubview.label             "Dấu trang">
+<!ENTITY bookmarksMenuButton2.label         "Trình đơn dấu trang">
+<!ENTITY bookmarksMenuButton.other.label    "Dấu trang khác">
+<!ENTITY bookmarksMenuButton.mobile.label   "Dấu trang trên di động">
+<!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh bên dấu trang">
+<!ENTITY hideBookmarksSidebar.label         "Ẩn thanh bên dấu trang">
+<!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh công cụ dấu trang">
+<!ENTITY hideBookmarksToolbar.label         "Ẩn thanh công cụ dấu trang">
 <!ENTITY searchBookmarks.label              "Tìm kiếm trang đánh dấu">
 <!ENTITY bookmarkingTools.label             "Công cụ đánh dấu trang">
 <!ENTITY addBookmarksMenu.label             "Thêm bảng chọn trang đánh dấu vào thanh công cụ">
