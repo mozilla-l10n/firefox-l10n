@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-history-title = Թարմացման Մատյան
+history-title = Թարմացումների մատյան
 history-intro = Հետևյալ թարմացումները տեղադրվել են
 close-button-label =
     .buttonlabelcancel = Փակել
@@ -12,13 +12,6 @@ name-header = Թարմացման Անվանումը
 date-header = Տեղադրման Ամսաթիվը
 type-header = Տեսակը
 state-header = Վիճակը
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
 # Used to display update history
 #
 # Variables:

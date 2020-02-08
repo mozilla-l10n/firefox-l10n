@@ -33,6 +33,7 @@ printpreview-of =
     .value = -ի
 printpreview-custom-prompt =
     .value = Անհատական Չափափոխում...
+printpreview-custom-scale-prompt-title = Հարմարեցված սանդղակ
 printpreview-page-setup =
     .label = Տպելու Նախընտրանքներ…
     .accesskey = ը
@@ -44,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Առաջին Էջը
@@ -52,7 +55,7 @@ printpreview-previousarrow =
     .tooltiptext = Նախորդ էջը
 printpreview-nextarrow =
     .label = { $arrow }
-    .tooltiptext = Հաջորդ Էջը
+    .tooltiptext = Հաջորդ էջը
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Վերջին Էջը
