@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = O programie { -brand-full-name }
+    .title = O programie { -brand-full-name }
 releaseNotes-link = Informacje o wydaniu
 update-checkForUpdatesButton =
     .label = Sprawdź dostępność aktualizacji
