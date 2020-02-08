@@ -126,7 +126,7 @@ urlbar-install-blocked =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = Chỉnh sửa trang đánh dấu này ({ $shortcut })
+    .tooltiptext = Chỉnh sửa dấu trang này ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
