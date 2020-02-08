@@ -89,9 +89,12 @@ newtab-privacy-modal-header = Ձեր գաղտնիությունը կարևոր �
 newtab-privacy-modal-paragraph =
     Բացի հետաքրքրաշարժ հոդվածներ պահպանելուց, մենք նաև ցույց ենք տալիս ձեզ ընտրված հովանավորների կողմից ապացուցված բովանդակություն։ Համոզվեք որ ձեր տվյալները
     վեբ֊սերվինգը երբեք չի թողնի { -brand-product-name } — ձեր անձնական օրինակը, մենք չունենք։ Նրանց հասանելիությունը, և մեր հովանավորները նույնպես չունեն։
+newtab-privacy-modal-paragraph-2 =
+    Բացի հետաքրքրաշարժ հոդվածներ պահպանելուց, մենք նաև ցույց ենք տալիս ձեզ ընտրված հովանավորների կողմից ապացուցված բովանդակություն։ Համոզվեք որ ձեր տվյալները
+    վեբ֊սերվինգը երբեք չի թողնի { -brand-product-name } — ձեր անձնական օրինակը, մենք չունենք։ Նրանց հասանելիությունը, և մեր հովանավորները նույնպես չունեն։
 newtab-privacy-modal-link = Իմացեք թե ինչպես է գաղտնիությունն աշխատում նոր ներդիրում
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Հեռացնել էջանիշը
@@ -126,6 +129,10 @@ newtab-label-removed-bookmark = Էջանիշը հեռացվել է
 newtab-label-recommended = Թրենդինգ
 newtab-label-saved = Պահպանված է { -pocket-brand-name }-ում
 newtab-label-download = Ներբեռնված է
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Հովանավորված
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -178,7 +185,6 @@ newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Հանրաճանաչ թեմաներ.
 newtab-pocket-more-recommendations = Լրացուցիչ առաջարկություններ
-newtab-pocket-how-it-works = Ինչպես է աշխատում
 newtab-pocket-whats-pocket = Ի՞նչ է { -pocket-brand-name }-ը։
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք ձեր սիրած պատմությունները { -pocket-brand-name }, և ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանությամբ:

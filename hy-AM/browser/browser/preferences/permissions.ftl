@@ -139,6 +139,9 @@ permissions-site-location-disable-desc = Սա կկանխի ցանկում չնշ
 permissions-site-xr-window =
     .title = Կարգավորումներ - թվացյալ իրականության թույլտվություններ
     .style = { permissions-window.style }
+permissions-site-xr-desc = Հետևյալ կայքերը հայցել են ձեր տեղադրությունը: Դուք կարող եք հատկորոշել, թե որ կայքերը կարող են մատչել ձեր տեղադրությանը: Նաև՝ կարող եք արգելափակել ձեր տեղադրությունը մատչելու նոր հարցումները:
+permissions-site-xr-disable-label =
+    .label = Արգելափակել նոր հարցումները, որոնք ցանկանում են մատչել ձեր վիրտուալ իրականության սարքերը
 
 ## Site Permissions - Camera
 

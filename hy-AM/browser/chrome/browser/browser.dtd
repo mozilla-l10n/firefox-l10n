@@ -692,27 +692,27 @@ context menu items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
-<!ENTITY copyEmailCmd.accesskey       "Է">
+<!ENTITY copyEmailCmd.accesskey       "A">
 <!ENTITY thisFrameMenu.label              "Այս շրջանակում">
-<!ENTITY thisFrameMenu.accesskey          "Ա">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Նվագարկել">
-<!ENTITY mediaPlay.accesskey         "Ն">
+<!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Ընդմիջել">
-<!ENTITY mediaPause.accesskey        "Ը">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Անձայն">
-<!ENTITY mediaMute.accesskey         "Ա">
+<!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Ձայնով">
-<!ENTITY mediaUnmute.accesskey       "ա">
+<!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "Նվագարկելու արագություն">
-<!ENTITY mediaPlaybackRate2.accesskey "ն">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Դանդաղ (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "Դ">
 <!ENTITY mediaPlaybackRate100x2.label "Նորմալ">
@@ -735,9 +735,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "Ց">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
 <!ENTITY mediaHideControls.accesskey "Թ">
-<!ENTITY videoFullScreen.label       "Բացել Լիաէկրան ">
+<!ENTITY videoFullScreen.label       "Lիաէկրան">
 <!ENTITY videoFullScreen.accesskey   "Բ">
-<!ENTITY videoSaveImage.label        "Պահպանել էկրանի պատկերը որպես...">
+<!ENTITY videoSaveImage.label        "Պահպանել էկրանի պատկերը որպես…">
 <!ENTITY videoSaveImage.accesskey    "Պ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu

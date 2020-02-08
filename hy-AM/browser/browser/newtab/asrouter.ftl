@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Երաշխավորված ընդլայնում
 cfr-doorhanger-feature-heading = Առաջարկվող հատկություն
 cfr-doorhanger-pintab-heading = Փորձեք սա. Ամրացնել ներդիրը
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչու եմ ես սա տեսնում
@@ -121,11 +121,13 @@ cfr-whatsnew-lockwise-take-link-text = Ստանալ հավելվածը
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Դիտել տեսահոլովակներ զննարկելիս
+cfr-whatsnew-pip-body = Նկարով նկարում տեսանյութը լողում է լողացող պատուհանի մեջ, որպեսզի կարողանաք դիտել այլ ներդիրներում աշխատելիս:
 cfr-whatsnew-pip-cta = Իմանալ ավելին
 
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Ավելի քիչ նյարդայնացնող կայքի թռուցիկներ
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } այժմ արգելափակում է կայքերը ինքնաբերաբար խնդրելով ձեզ ուղարկել թռուցիկ հաղորդագրություններ:
 cfr-whatsnew-permission-prompt-cta = Իմանալ ավելին
 
 ## Fingerprinter Counter
@@ -138,8 +140,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Մատնահետքը արգելափակվեց
        *[other] Մատնահետքերը արգելափակվեցին
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } արգելափակում է մատնահետքերից շատերը, որոնք գաղտնի հավաքում են տեղեկատվություն ձեր սարքի և գործողությունների մասին ՝ ձեր կողմից գովազդային պրոֆիլ ստեղծելու համար:
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Մատնահետքեր
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } արգելափակում է մատնահետքերից շատերը, որոնք գաղտնի հավաքում են տեղեկատվություն ձեր սարքի և գործողությունների մասին ՝ ձեր կողմից գովազդային պրոֆիլ ստեղծելու համար:
 
 ## Bookmark Sync
 
