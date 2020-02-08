@@ -9,6 +9,9 @@ screenshots-cancel-button = Չեղարկել
 screenshots-save-visible-button = Պահպանելի տեսանելի
 screenshots-save-page-button = Պահպանել ամբողջ էջը
 screenshots-download-button = Ներբեռնել
+screenshots-download-button-tooltip = Ներբեռնել էկրանի կորզումը
+screenshots-copy-button = Պատճենել
+screenshots-copy-button-tooltip = Պատճենել էկրանի կորզումը սեղմատախտակին
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -16,6 +19,8 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Հղումը պատճենվել է
 screenshots-notification-link-copied-details = Ձեր պատկերի հղումը պատճենվել է: Սեղմեք { screenshots-meta-key }-V՝ այն տեղադրելու համար:
+screenshots-notification-image-copied-title = Պատճենվել է
+screenshots-notification-image-copied-details = Ձեր պատկերը պատճենվել է սեղմատախտակին։ Սեղմեք { screenshots-meta-key }-V տեղադրելու համար։
 screenshots-request-error-title = Անսարք:
 screenshots-request-error-details = Ցավոք մենք չենք կարող պահպանել պատկեր: Կրկին փորձեք ավելի ուշ:
 screenshots-connection-error-title = Հնարավոր չէ ապակցել էկրանի ձեր հանույթներին:
