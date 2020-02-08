@@ -205,6 +205,7 @@ identity-description-custom-root = Mozilla֊ն չի ճանաչում այս վկ
 identity-remove-cert-exception =
     .label = Հեռացնել բացառությունը
     .accesskey = Հ
+identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղկարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
 identity-description-insecure-login-forms = Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:
 identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:
 identity-description-weak-cipher-risk = Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:
