@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Thoát chế độ toàn màn hình">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Toàn màn hình">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Cài đặt tài khoản">
 <!ENTITY fxa.menu.manageAccount2.label "Quản lý tài khoản">
 <!ENTITY fxa.menu.signOut.label "Đăng xuất…">
-<!ENTITY fxa.menu.deviceSettings.label "Cài đặt thiết bị">
 <!ENTITY fxa.menu.setupSync.label "Thiết lập &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Mở trang trong thanh địa chỉ">
 <!ENTITY printButton.label            "In">
 <!ENTITY printButton.tooltip          "In trang này">
@@ -277,8 +278,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Quản lý sử dụng phần mềm DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Mở bảng MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Bạn đã cấp cho trang web này các quyền bổ sung.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bạn đã chặn camera của mình ở trang này">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bạn đã chặn micro của mình ở trang này">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.">
@@ -291,6 +290,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bạn đã chặn trang web này sử dụng phần bổ trợ Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bạn đã chặn quyền truy cập MIDI của trang web này.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bạn đã chặn cài đặt tiện ích cho trang web này.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Bạn đã cấp cho trang web này các quyền bổ sung.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Xem lịch sử">
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Xem thêm">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Nhập địa chỉ hoặc từ khóa tìm kiếm">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Đánh dấu khung này">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Sao chép liên kết">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Gửi liên kết qua email…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Lưu trang dưới dạng…">
 <!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
@@ -656,7 +659,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Lưu liên kết tới…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "Lưu ảnh tới…">
+<!ENTITY saveImageCmd.label           "Lưu ảnh dưới dạng…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Lưu video tới…">
 <!ENTITY saveVideoCmd.accesskey       "v">
@@ -734,7 +737,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Toàn màn hình">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Lưu ảnh chụp màn hình tới…">
+<!ENTITY videoSaveImage.label        "Lưu ảnh chụp màn hình dưới dạng…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
