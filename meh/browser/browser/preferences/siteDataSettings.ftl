@@ -16,6 +16,8 @@ site-data-column-storage =
     .label = Chuva´a
 site-data-column-last-used =
     .label = Nni´i nuu nɨ´ɨ
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (archivo local)
 site-data-remove-selected =
     .label = Xita daa nkaji
     .accesskey = X
