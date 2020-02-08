@@ -46,7 +46,8 @@ login-list-count =
        *[many] { $count } логинов
     }
 login-list-sort-label-text = Сортировать:
-login-list-name-option = В алфавитном порядке
+login-list-name-option = По имени (А-Я)
+login-list-name-reverse-option = По имени (Я-А)
 login-list-breached-option = Взломанные сайты
 login-list-last-changed-option = По последнему изменению
 login-list-last-used-option = По последнему использованию
@@ -84,10 +85,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Копировать
 login-item-copied-username-button-text = Скопировано!
 login-item-password-label = Пароль
-login-item-password-reveal-checkbox-show =
-    .title = Показать пароль
-login-item-password-reveal-checkbox-hide =
-    .title = Скрыть пароль
 login-item-password-reveal-checkbox =
     .aria-label = Показать пароль
 login-item-copy-password-button-text = Копировать
