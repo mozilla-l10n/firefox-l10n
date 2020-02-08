@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Профилировать произ�
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Конфигурация вашего браузера не совместима с Service Workers. <a>Узнайте больше</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Подключённый браузер имеет старую версию ({ $runtimeVersion }). Минимальная поддерживаемая версия — ({ $minVersion }). Эта конфигурация не поддерживается и может привести к сбою в работе Инструментов разработчика. Пожалуйста, обновите подключённый браузер. <a>Решение проблем</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Подключённый браузе�
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Панель отладчика может не работать с подключённым браузером. Пожалуйста, используйте Firefox { $runtimeVersion }, если вам необходимо использовать отладчик с этим браузером.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -305,6 +305,11 @@ about-debugging-main-process-name = Главный процесс
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Главный процесс целевого браузера
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Инструменты мультипроцессов
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Главный процесс и процессы контента целевого браузера
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Закрыть сообщение
