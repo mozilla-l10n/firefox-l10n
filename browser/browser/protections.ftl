@@ -43,6 +43,7 @@ graph-today = ਅੱਜ
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = ਗਰਾਫ਼ ਵਿੱਚ ਇਸ ਹਫ਼ਤੇ ਪਾਬੰਦੀ ਲਾਈ ਟਰੈਕਰ ਦੀ ਹਰ ਕਿਸਮ ਦੀ ਕੁੱਲ ਗਿਣਤੀ ਦਿੱਤੀ ਗਈ ਹੈ।
 social-tab-title = ਸਮਾਜਿਕ ਮੀਡਿਆ ਟਰੈਕਰ
+social-tab-contant = ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਹੋਰ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਟਰੈਕਰ (ਸੂਹੀਏ) ਲਾ ਦਿੰਦੀਆਂ ਹਨ, ਜੋ ਕਿ ਆਨਲਾਈਨ ਤੁਸੀਂ ਕੀ ਕਰਦੇ ਹੋ, ਕੀ ਵੇਖਦੇ ਹੋ, ਦਾ ਪਿੱਛਾ ਕਰਦੇ ਹਨ। ਇਹ ਸਮਾਜਿਕ ਮੀਡੀਆ ਕੰਪਨੀਆਂ ਨੂੰ ਤੁਹਾਡੇ ਬਾਰੇ ਉਹ ਵੀ ਸਿੱਖਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹਨ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਮਾਜਿਕ ਮੀਡਿਆ ਪਰੋਫਾਈਲਾਂ ਉੱਤੇ ਸਾਂਝਾ ਨਹੀਂ ਕਰਦੇ ਹੋ। <a data-l10n-name="learn-more-link">ਹੋਰ ਸਿੱਖੋ</a>
 cookie-tab-title = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕਿੰਗ ਕੂਕੀਜ਼
 tracker-tab-title = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
 tracker-tab-description = ਵੈੱਬਸਾਈਟਾਂ ਟਰੈਕਿੰਗ ਕੋਡ ਨਾਲ ਬਾਹਰੀ ਇਸ਼ਤਿਹਾਰਾਂ, ਵੀਡਿਓ ਅਤੇ ਹੋਰ ਭਾਗਾਂ ਨੂੰ ਲੋਡ ਕਰ ਸਕਦੀਆਂ ਹਨ। ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣਾ ਸਾਈਟਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਕਰਨ ਮਦਦ ਸਕਦਾ ਹੈ, ਪਰ ਕੁਝ ਬਟਨ, ਫਾਰਮ ਅਤੇ ਲਾਗਇਨ ਖੇਤਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਸਕਦੇ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
@@ -77,6 +78,7 @@ lockwise-connected-device-status =
     }
 monitor-title = ਡਾਟੇ ‘ਚ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਖੋਜ ਕਰੋ
 monitor-link = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
+monitor-header-content-no-account = { -monitor-brand-name } ਨਾਲ ਪਤਾ ਕਰੋ ਕਿ ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਜਾਣੇ-ਪਛਾਣੇ ਡਾਟਾ ਸੰਨ੍ਹ ਦਾ ਹਿੱਸਾ ਹੋ ਅਤੇ ਨਵੇਂ ਲੱਗੇ ਸੰਨ੍ਹਾਂ ਬਾਰੇ ਖ਼ਬਰਦਾਰ ਵੀ ਰਹੋ।
 monitor-header-content-signed-in = { -monitor-brand-name } ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੇਗਾ, ਜੇ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਪਤਾ ਲੱਗੀ ਡਾਟਾ ਸੰਨ੍ਹ ‘ਚ ਲੱਭਿਆ ਗਿਆ।
 monitor-sign-up = ਸੰਨ੍ਹ ਲੱਗਣ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
 auto-scan = ਅੱਜ ਆਪਣੇ-ਆਪ ਸਕੈਨ ਕੀਤਾ
