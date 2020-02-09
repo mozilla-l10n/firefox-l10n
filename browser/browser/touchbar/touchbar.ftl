@@ -9,6 +9,7 @@ forward = ਅੱਗੇ
 reload = ਮੁੜ-ਲੋਡ ਕਰੋ
 home = ਮੁੱਖ-ਸਫ਼ਾ
 fullscreen = ਪੂਰੀ-ਸਕਰੀਨ
+touchbar-fullscreen-exit = ਪੂਰੀ ਸਕਰੀਨ ਨੂੰ ਛੱਡੋ
 find = ਲੱਭੋ
 new-tab = ਨਵੀਂ ਟੈਬ
 add-bookmark = ਬੁੱਕਮਾਰਕ ਜੋੜੋ
