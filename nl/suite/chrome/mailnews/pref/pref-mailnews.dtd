@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Berichtconversaties bij elkaar houden bij het sorteren van berichten">
 <!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY loadInBackground.label           "Naar nieuwe tabbladen schakelen wanneer deze worden geopend">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van E-mail &amp; nieuwsgroepen">
 <!ENTITY mailBiffOnNewWindow.accesskey    "c">
 
