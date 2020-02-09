@@ -30,3 +30,4 @@ screenshots-self-screenshot-error-title = ਤੁਸੀਂ { -screenshots-brand-n
 screenshots-empty-selection-error-title = ਤੁਹਾਡੀ ਚੋਣ ਬਹੁਤ ਛੋਟੀ ਹੈ
 screenshots-private-window-error-title = ਨਿੱਜੀ ਬਰਾਊਜਿੰਗ ਮੋਡ ਵਿੱਚ { -screenshots-brand-name } ਸਮਰੱਥ ਹੈ
 screenshots-generic-error-title = ਠਹਿਰੋ! { -screenshots-brand-name } ਲੈਣ 'ਚ ਸਮੱਸਿਆ ਆਈ
+screenshots-generic-error-details = ਸਾਨੂੰ ਨਹੀਂ ਪਤਾ ਹੈ ਕਿ ਹੁਣੇ ਕੀ ਵਾਪਰਿਆ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਹੈ ਜਾਂ ਵੱਖਰੇ ਸਫ਼ੇ ਉੱਤੇ ਫੋਟੋ ਖਿੱਚਣੀ ਹੈ?
