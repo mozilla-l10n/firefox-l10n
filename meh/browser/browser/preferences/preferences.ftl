@@ -135,6 +135,7 @@ choose-language-description = Kaji tu´un kuvinu kutuvi nuu páginas web
 choose-button =
     .label = Sama...
     .accesskey = S
+choose-browser-language-description = Kaji tu´un kutuvi nuu menús, mensajes jee notificaciones { -brand-short-name }.
 confirm-browser-language-change-button = Tee jee nakajie´e
 translate-exceptions =
     .label = Excepciones…
