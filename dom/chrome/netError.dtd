@@ -103,3 +103,4 @@
 <!ENTITY blockedByPolicy.title "ਪਾਬੰਦੀ ਲੱਗਾ ਸਫ਼ਾ">
 
 <!ENTITY networkProtocolError.title "ਨੈੱਟਵਰਕ ਪਰੋਟੋਕਾਲ ਗ਼ਲਤੀ">
+<!ENTITY networkProtocolError.longDesc "<p>ਸਫ਼ਾ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਨੂੰ ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਨੈਟਵਰਕ ਪਰੋਟੋਕਾਲ ਵਿੱਚ ਗਲਤੀ ਖੋਜੀ ਗਈ ਹੈ।</p><ul><li>ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦੇਣ ਵਾਸਤੇ ਸੰਪਰਕ ਕਰੋ।</li></ul>">

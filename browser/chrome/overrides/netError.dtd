@@ -148,7 +148,10 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.sts.introPara "&brandShortName; ਨੇ ਸੰਭਾਵਿਤ ਸੁਰੱਖਿਆ ਮਸਲਾ ਖੋਜਿਆ ਹੈ ਅਤੇ <span class='hostname'/> ਨਾਲ ਜਾਰੀ ਰੱਖ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਵੈੱਬਸਾਈਟ ਲਈ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਚਾਹੀਦਾ ਹੈ।">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ਨੇ ਮਸਲਾ ਖੋਜਿਆ ਹੈ ਅਤੇ <span class='hostname'/> ਨਾਲ ਜਾਰੀ ਨਹੀਂ ਰਹਿ ਸਕਦਾ। ਜਾਂ ਤਾਂ ਵੈੱਬਸਾਈਟ ਦੀ ਸੰਰਚਨਾ ਗਲਤ ਹੈ ਜਾਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਘੜੀ ਉੱਤੇ ਸਮਾਂ ਗਲਤ ਸੈੱਟ ਕੀਤਾ ਹੈ।">
+<!ENTITY certerror.expiredCert.sts.secondPara "ਲੱਗਦਾ ਹੈ ਕਿ ਵੈੱਬਸਾਈਟ ਦੇ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ, ਜੋ ਕਿ &brandShortName; ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਤੋਂ ਰੋਕਦਾ ਹੈ।">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?">
 
@@ -199,12 +202,15 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "ਸਾਫਟਵੇਅਰ &brandShortName; ਨੂੰ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਰੋਕਦਾ ਹੈ">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "ਜੇ ਤੁਸੀਂ ਕਾਰਪੋਰੇਟ ਨੈੱਟਵਰਕ ‘ਤੇ ਹੋ ਤਾਂ ਆਪਣੇ ਆਈ.ਟੀ. ਵਿਭਾਗ ਨਾਲ ਸੰਪਰਕ ਕਰ ਸਕਦੇ ਹੋ।">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "ਜੇ ਤੁਸੀਂ <span class='mitm-name'/> ਨੂੰ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਤਦ ਇਹ ਹਮਲਾ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਸਾਈਟ ਨਾਲ ਜਾਰੀ ਨਹੀਂ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ।">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "ਜੇ ਤੁਸੀਂ <span class='mitm-name'/> ਨੂੰ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਤਦ ਇਹ ਹਮਲਾ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਾਈਟ ਵਰਤਣ ਲਈ ਤੁਸੀਂ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।">
 
 <!ENTITY clockSkewError.title "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਘੜੀ ਗਲਤ ਹੈ">
 
 <!ENTITY prefReset.longDesc "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 
+<!ENTITY enableTls10.longDesc "ਇਹ ਵੈੱਬਸਾਈਟ TLS 1.2 ਪਰੋਟੋਕਾਲ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੋ ਸਕਦੀ ਹੈ, ਜੋ ਕਿ &brandShortName; ਵਲੋਂ ਸਹਾਇਕ ਘੱਟੋ-ਘੱਟ ਵਰਜ਼ਨ ਹੈ। ਇਹ ਕਨੈਕਸ਼ਨ ਲਈ TLS 1.0 ਅਤੇ TLS 1.1 ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਨਾਲ ਕਾਮਯਾਬੀ ਮਿਲ ਸਕਦੀ ਹੈ।">
 <!ENTITY enableTls10.note "ਭਵਿੱਖ ਦੇ ਰੀਲਿਜ਼ ‘ਚ TLS 1.0 ਅਤੇ TLS 1.1 ਪੱਕੇ ਤੌਰ ‘ਤੇ ਅਸਮਰੱਥ ਕੀਤੇ ਜਾਣਗੇ।">
 <!ENTITY enableTls10.label "TLS 1.0 ਅਤੇ 1.1 ਸਮਰੱਥ ਕਰੋ">
 
