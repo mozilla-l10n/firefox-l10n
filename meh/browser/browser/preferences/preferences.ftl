@@ -333,6 +333,10 @@ search-find-more-link = Nani´ikue´e ka̱a̱ nánuku
 ## Containers Section
 
 containers-back-link = « Niko yata
+containers-header = Pestañas contenedoras
+containers-add-button =
+    .label = Tee iin contenedor jíía
+    .accesskey = A
 containers-preferences-button =
     .label = Preferencias
 containers-remove-button =
@@ -388,6 +392,14 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-setup =
+    .label = Ke´i { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Naxi´ña a ta´a ini noo´o, historial, pestañas, contraseñas, ka̱a̱ chunta´an jii preferencias nuu kuaíyo ka̱a̱.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar ntañu´u
+    .accesskeynotsyncing = N
+    .labelsyncing = Sincronizando…
 
 ## The list of things currently syncing.
 
