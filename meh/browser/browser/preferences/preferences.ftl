@@ -619,6 +619,9 @@ permissions-microphone-settings =
     .label = Ke´i...
     .accesskey = K
 permissions-notification = Notificaciones
+permissions-notification-settings =
+    .label = Ke´i…
+    .accesskey = n
 permissions-notification-link = Ka´vi kue´eka
 permissions-block-autoplay-media-exceptions =
     .label = Excepciones…
@@ -659,6 +662,17 @@ certs-view =
 space-alert-learn-more-button =
     .label = Ka´vi kue´eka
     .accesskey = K
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Sine prefrencias
+           *[other] Sine prefrencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 space-alert-under-5gb-ok-button =
     .label = OK, vatu!
     .accesskey = K

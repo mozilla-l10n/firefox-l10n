@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Kajie´e
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo daa ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
+onboarding-welcome-modal-supercharge-body = Sá´á ka´nu a kumi noo´o yɨɨ yu´u.
 onboarding-welcome-modal-privacy-body = A kuminu ka̱a̱ nánuku. Vitan tee kue´e a kumi noo yu´u.
 onboarding-welcome-modal-family-learn-more = Kuni jie´e daa inka ka̱a̱ { -brand-product-name }.
 onboarding-welcome-form-header = Kajie´e ya´a

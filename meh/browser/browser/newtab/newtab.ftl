@@ -113,6 +113,7 @@ newtab-menu-open-file = Sine archivo
 newtab-label-visited = Nne´yanu
 newtab-label-bookmarked = Nte nuu ta´a ini noo´o
 newtab-label-removed-bookmark = Iin a ta´a ini noo´o nxita
+newtab-label-recommended = Tendencias
 newtab-label-saved = Chuva´a nuu { -pocket-brand-name }
 newtab-label-download = Nxinuu
 
@@ -120,6 +121,7 @@ newtab-label-download = Nxinuu
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Sna sección
+newtab-section-menu-collapse-section = Sección de colapso
 newtab-section-menu-expand-section = Sá´á ka´nu sección
 newtab-section-menu-manage-section = Tetiñu sección
 newtab-section-menu-manage-webext = Tetiñu daa extensión
