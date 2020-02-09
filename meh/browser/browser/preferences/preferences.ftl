@@ -289,16 +289,21 @@ home-prefs-topsites-header =
     .label = Daa sitio vii
 home-prefs-topsites-description = Daa nuu ni´inu kue´e
 home-prefs-recommended-by-learn-more = Naja satiñu
+home-prefs-highlights-option-visited-pages =
+    .label = Páginas nnkivɨnu
 home-prefs-highlights-options-bookmarks =
     .label = A ta´a ini noo´o
 home-prefs-highlights-option-most-recent-download =
     .label = Nxinuun Ntañu´u
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Páginas nchuva´a { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Fragmentos
+home-prefs-snippets-description = Naxi´ñá { -vendor-short-name } jii { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
