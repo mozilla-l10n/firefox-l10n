@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "V">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Weer te geven kolommen selecteren">
 <!ENTITY newContactButton.tooltip                       "Een nieuw adresboekcontact aanmaken">
 <!ENTITY newlistButton.tooltip                          "Een nieuwe lijst aanmaken">
 <!ENTITY editPropertiesButton.tooltip                   "Het geselecteerde item bewerken">
@@ -179,7 +180,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Uitgebreid adres zoeken">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title                               "Snel zoeken">
+<!ENTITY searchItem.title "Snel zoeken">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adresboek">
