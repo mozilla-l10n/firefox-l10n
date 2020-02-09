@@ -107,13 +107,20 @@ containers-disable-alert-ok-button =
        *[other] Nakasɨ { $tabCount } pestaña contenedora
     }
 containers-remove-alert-title = ¿Xina marcador?
+containers-remove-ok-button = Xina a ta´a ini noo´o ya´a
+containers-remove-cancel-button = Nxina a ta´a ini noo´o ya´a
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tu´un jii naja tuvi
 fonts-and-colors-header = Letra jii teku
+default-font = Kua vaji fuente
+    .accesskey = D
 default-font-size = Naja ka´nu
     .accesskey = N
+advanced-fonts =
+    .label = A biji…
+    .accesskey = A
 colors-settings =
     .label = Teku...
     .accesskey = C
@@ -124,6 +131,7 @@ preferences-default-zoom = Kua vaji zoom
 preferences-default-zoom-value =
     .label = { $percentage }%
 language-header = Tu'un
+choose-language-description = Kaji tu´un kuvinu kutuvi nuu páginas web
 choose-button =
     .label = Sama...
     .accesskey = S
