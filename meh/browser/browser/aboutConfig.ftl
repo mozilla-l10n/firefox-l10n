@@ -11,6 +11,7 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-text = Sama preferencias ke´i kuvi xitivɨ a xiin seguridad { -brand-short-name }.
 about-config-intro-warning-button = Kuka´nu inini jiee riesgo jee kaka
 
 ##

@@ -50,6 +50,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Kuiso { -brand-product-name } jii noo´o
+onboarding-sync-welcome-content = Kivɨ marcadores, historial, contraseñas jee kue´eka ke´i nuu kuaiyo ka̱a̱.
 onboarding-sync-welcome-learn-more-link = Ka´vi kue´eka jiie´e Firefox Accounts
 onboarding-sync-form-input =
     .placeholder = Email
