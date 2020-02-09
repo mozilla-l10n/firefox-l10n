@@ -21,3 +21,4 @@ sec-error-busy = NSS ntu nkuvi nakasɨ. Iyo nantiñu a ni´ima.
 sec-error-extra-input = Mensaje codificado jii DER kumi datos ntu ni´i.
 sec-error-crl-already-exists = A teku CRL.
 sec-error-not-initialized = NSS ntu íyo inicializado.
+sec-error-unknown-pkcs11-error = Error PKCS #11ntu nakuni.
