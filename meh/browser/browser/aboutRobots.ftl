@@ -12,6 +12,8 @@
 error-title-text = ¡iin tu´un, kuaíyo ñivɨ!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ¡Vajidani kune´yadani daa noo´o jee vaji va´adani!
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = Daa robots nkuvi sá´á xeen iin ñivɨ.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Daa robots jinida nantiñu a ntu jinio a kuvio ñivɨ
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
