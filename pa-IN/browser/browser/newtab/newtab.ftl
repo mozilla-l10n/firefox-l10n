@@ -88,7 +88,7 @@ newtab-privacy-modal-button-done = ਸਮਾਪਤ
 newtab-privacy-modal-header = ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਮਹੱਤਵ ਰੱਖਦੀ ਹੈ।
 newtab-privacy-modal-link = ਸਿੱਖੋ ਕਿ ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਪਰਦੇਦਾਰੀ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ।
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
@@ -123,6 +123,10 @@ newtab-label-removed-bookmark = ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ
 newtab-label-recommended = ਪ੍ਰਚਲਿਤ
 newtab-label-saved = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਿਆ ਗਿਆ
 newtab-label-download = ਡਾਊਨਲੋਡ ਕਰੋ
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · ਸਪਾਂਸਰ ਕੀਤਾ
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -171,7 +175,6 @@ newtab-discovery-empty-section-topstories-timed-out = ਓਹ ਹੋ! ਅਸੀ�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ਪ੍ਰਸਿੱਧ ਵਿਸ਼ੇ:
 newtab-pocket-more-recommendations = ਹੋਰ ਸਿਫਾਰਸ਼ਾਂ
-newtab-pocket-how-it-works = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ
 newtab-pocket-whats-pocket = { -pocket-brand-name } ਕੀ ਹੈ?
 newtab-pocket-cta-button = { -pocket-brand-name } ਲਵੋ
 newtab-pocket-cta-text = { -pocket-brand-name } ਵਿਚ ਆਪਣੀਆਂ ਕਹਾਣੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਅਤੇ ਆਪਣੇ ਮਨ ਨੂੰ ਦਿਲਚਸਪ ਪੜ੍ਹ ਕੇ ਮਜਬੂਰ ਕਰੋ।
