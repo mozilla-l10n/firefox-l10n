@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sec-error-bad-password = Contraseña seguridad nchu´un ntu vatu.
+sec-error-retry-password = Contraseña jíía nchu´un ntu vatu. Chu´uma íchika.
 sec-error-cert-not-valid = Certificado ntu válido.
 sec-error-key-nickname-collision = A íyo iin clave jii inu apodo.
 xp-java-delete-privilege-error = Ntu nkuvi xina privilegio.
