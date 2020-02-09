@@ -11,6 +11,7 @@ safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname
 safeb-palm-accept-label = ਵਾਪਸ ਜਾਓ
 safeb-palm-see-details-label = ਵੇਰਵੇ ਵੇਖੋ
 safeb-blocked-unwanted-page-error-desc-no-override = <a data-l10n-name='error_desc_link'>{ $sitename }</span> ਨੂੰ<a data-l10n-name='error_desc_link'>ਨੁਕਸਾਨਦੇਹ ਸਾਫਟਵੇਅਰ ਰੱਖਣ ਵਾਲੀ ਵਜੋਂ ਰਿਪੋਰਟ</a> ਕੀਤਾ ਗਿਆ ਹੈ।
+safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ਬਾਰੇ ਸੰਭਾਵਿਤ ਖ਼ਤਰਨਾਕ ਐਪਲੀਕੇਸ਼ਨ ਰੱਖਣ ਕਰਕੇ <a data-l10n-name='error_desc_link'> ਰਿਪੋਰਟ ਕੀਤੀ ਗਈ ਹੈ</a>।
 safeb-blocked-harmful-page-learn-more = { -brand-short-name } ਦੀ ਫ਼ਿੰਸ਼ਿੰਗ ਅਤੇ ਮਾਲਵੇਅਰ ਸੁਰ਼ਖਿਆ ਦੇ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲੈਣ ਲਈ <a data-l10n-name='firefox_support'>support.mozilla.org</a> ਵੇਖੋ।
 safeb-palm-notdeceptive =
     .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
