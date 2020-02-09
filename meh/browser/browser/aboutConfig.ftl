@@ -15,6 +15,8 @@ about-config-intro-warning-button = Kuka´nu inini jiee riesgo jee kaka
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Dee sama preferencias ya´a kuvi xitivɨ a xiin seguridad { -brand-short-name }.
 about-config-search-input1 =
     .placeholder = Sivɨ nánuku
 about-config-show-all = Kune´yá kuaiyo
