@@ -97,6 +97,8 @@ urlbar-search-tips-redirect = Començatz vòstra recèrca aquí per far veire la
 
 urlbar-geolocation-blocked =
     .tooltiptext = Avètz blocat la geolocalizacion per aqueste site.
+urlbar-xr-blocked =
+    .tooltiptext = Avètz blocat l’accès als periferics de realitat virtuala per aqueste site web.
 urlbar-web-notifications-blocked =
     .tooltiptext = Avètz blocat las notificacions per aquel site.
 urlbar-camera-blocked =
@@ -115,6 +117,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Avètz empachat aqueste site de traire d’informacions de canvas.
 urlbar-midi-blocked =
     .tooltiptext = Avètz blocat l’accès MIDI per aqueste site web.
+urlbar-install-blocked =
+    .tooltiptext = Avètz blocat l’installacion de moduls complementaris per aqueste site.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
