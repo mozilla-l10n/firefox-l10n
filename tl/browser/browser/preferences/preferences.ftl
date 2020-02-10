@@ -205,6 +205,8 @@ colors-settings =
     .accesskey = M
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
+preferences-default-zoom = Default zoom
+    .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
