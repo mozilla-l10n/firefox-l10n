@@ -103,10 +103,51 @@ security-site-data-no = Nkuvi
 image-size-unknown = Desconocido
 media-img = Tutu nátava
 media-bg-img = Fondo
+media-embed = Anidar
+media-link = Ícono
+media-input = Entrada
+media-video = tutu nátava káná
 media-audio = Nasun
 saved-passwords-yes = Kuvi
 saved-passwords-no = Nkuvi
+no-page-title =
+    .value = Página ntu título:
+general-quirks-mode =
+    .value = Modo de compatibilidad
+general-strict-mode =
+    .value = Modo compatible jii estándares
+media-select-folder = Kaji iin carpeta nuu chuva´a daa tutu nátava
+permissions-use-default =
+    .label = Ni´i predeterminado
 security-no-visits = Nkuvi
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] No
+       *[other] Kuvi, { $visits } kue´e
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+           *[other] { $kb } KB ({ $bytes } bytes)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+           *[other] { $type } tutu nátava  (animada, { $frames } marcos)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
