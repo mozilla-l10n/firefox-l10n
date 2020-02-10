@@ -869,6 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Ձեր կապակցումը այս կայքին գաղտնի չէ։ Ուղկարկուած տեղեկութիւնները կարող են դիտուել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրութիւնները, քարտային տուեալները եւ այլն)։">
 <!ENTITY identity.description.insecureLoginForms "Մուտքգործման տեղեկութիւնը, որ մուտքագրել եք այս էջում, անվտանգ չէ եւ կարող է վտանգուել։">
 <!ENTITY identity.description.weakCipher "Ձեր կապակցումը այս կայքին աւգտագործում է աղքատ գաղտնագրում եւ այն գաղտնի չէ։">
+<!ENTITY identity.description.weakCipher2 "Այլ անձինք կարող են դիտել Ձեր տեղեկատուութիւնը կամ փոփոխել կայքի վարքագիծը։">
 
 
 
