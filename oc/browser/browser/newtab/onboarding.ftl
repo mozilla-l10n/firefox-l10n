@@ -57,6 +57,7 @@ onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
 
 onboarding-benefit-privacy-title = Vertadièra vida privada
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Emportatz vòstres marcapaginas, senhals, istoric e mai pertot ont utilizatz { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }{ -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gerissètz vòstres senhals protegits e portables.

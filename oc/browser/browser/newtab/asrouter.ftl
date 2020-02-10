@@ -139,6 +139,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Perdatz pas jamai vòstre senhal
+cfr-doorhanger-sync-logins-body = Gardatz e sincronizatz d’un biais segur los senhals de totes vòstres periferics.
 cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
 
