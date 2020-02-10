@@ -41,29 +41,29 @@ cfr-doorhanger-extension-rating =
     .tooltiptext =
         { $total ->
             [one] { $total } tiun
-           *[other] { $total } daa tiun
+           *[other] { $total } da tiun
         }
 # Variables:
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
     { $total ->
         [one] { $total } ñivɨ
-       *[other] { $total } daa ñivɨ
+       *[other] { $total } da ñivɨ
     }
-cfr-doorhanger-pintab-description = Kivu ñama nuu daa sitios jikanuka. Kua´a daa sitios nune nuu nuu iin pestaña (dee nakajie´enu)
+cfr-doorhanger-pintab-description = Kivu ñama nuu da sitios jikanuka. Kua´a da sitios nune nuu nuu iin pestaña (de nakajie´enu)
 
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>Kuaxin jii bóton kuá´á</b> nuu pestaña kuvinu kino.
 cfr-doorhanger-pintab-step2 = Kaji <b> Kino pestaña</b> nuu menú.
-cfr-doorhanger-pintab-step3 = Dee íyo iin a jíía, kutuvi iin a kuvi teku lee nuu pestaña nee.
+cfr-doorhanger-pintab-step3 = De íyo iin a jíía, kutuvi iin a kuvi teku lee nuu pestaña nee.
 cfr-doorhanger-pintab-animation-pause = Siankuiñu
 cfr-doorhanger-pintab-animation-resume = Kaka
 
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Saa sincronizar a ta´a ini noo´o ntaka nuu.
-cfr-doorhanger-bookmark-fxa-body = ¡Nnani´inu! Vitan nkinonu jii a ta´a ini noo´o ya´a nuu daa ka̱a̱ móvil noo´o. Kajie´e jii { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = ¡Nnani´inu! Vitan nkinonu ji a ta´a ini noo´o ya´a nuu da ka̱a̱ móvil noo´o. Kajie´e ji { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Saa sincronizar a ta´a ini noo´o ntañu´u...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón kasɨ
@@ -72,7 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Nánuku nkuntadaja noo´o
-cfr-protections-panel-body = Información noo´o kino jii noo´o. { -brand-short-name } kumiji noo´o nuu kue´e daa ka̱a̱ nita jee ne´yada a sá´ánu nuu Web.
+cfr-protections-panel-body = Información noo´o kino jii noo´o. { -brand-short-name } kumiji noo´o nuu kue´e da ka̱a̱ nita je ne´yada a sá´ánu nuu Web.
 cfr-protections-panel-link-text = Ka´vi kue´eka
 
 ## What's New toolbar button and panel
@@ -98,7 +98,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Nee { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Kune´ya reporte
 cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
-cfr-whatsnew-lockwise-take-title = Kuiso daa contraseña jii noo´o
+cfr-whatsnew-lockwise-take-title = Kuiso da contraseña ji noo´o
 cfr-whatsnew-lockwise-take-link-text = Ni'i App
 
 ## Picture-in-Picture

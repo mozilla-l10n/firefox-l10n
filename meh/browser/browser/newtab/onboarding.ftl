@@ -19,18 +19,18 @@ onboarding-button-label-get-started = Kajie´e
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
-onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo daa ka̱a̱{ -brand-product-name }.
+onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo da ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
 onboarding-welcome-modal-supercharge-body = Sá´á ka´nu a kumi noo´o yɨɨ yu´u.
 onboarding-welcome-modal-privacy-body = A kuminu ka̱a̱ nánuku. Vitan tee kue´e a kumi noo yu´u.
-onboarding-welcome-modal-family-learn-more = Kuni jie´e daa inka ka̱a̱ { -brand-product-name }.
+onboarding-welcome-modal-family-learn-more = Kuni jie´e da inka ka̱a̱ { -brand-product-name }.
 onboarding-welcome-form-header = Kajie´e ya´a
 onboarding-join-form-header = Náyonika { -brand-product-name }
 onboarding-join-form-body = Chu´un correo noo´o saa kajie´e.
 onboarding-join-form-email =
     .placeholder = Chu´un correo
 onboarding-join-form-email-error = Nejika chu´unu iin correo vatu
-onboarding-join-form-legal = Dee kakanu, noo´o kanijia jii <a data-l10n-name="terms"> Tutu kachi a sá´á ka̱a̱ ya´a</a> jii <a data-l10n-name="privacy"> Tu´un xitu a nejika kumio</a>.
+onboarding-join-form-legal = De kakanu, noo´o kanijia jii <a data-l10n-name="terms"> Tutu kachi a sá´á ka̱a̱ ya´a</a> jii <a data-l10n-name="privacy"> Tu´un xitu a nejika kumio</a>.
 onboarding-join-form-continue = Kɨ´ɨ
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ¿Kuminu iin cuenta?
@@ -50,7 +50,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Kuiso { -brand-product-name } jii noo´o
-onboarding-sync-welcome-content = Kivɨ marcadores, historial, contraseñas jee kue´eka ke´i nuu kuaiyo ka̱a̱.
+onboarding-sync-welcome-content = Kivɨ marcadores, historial, contraseñas je kue´eka ke´i nuu kuaiyo ka̱a̱.
 onboarding-sync-welcome-learn-more-link = Ka´vi kue´eka jiie´e Firefox Accounts
 onboarding-sync-form-input =
     .placeholder = Email
@@ -67,7 +67,7 @@ onboarding-sync-form-sub-header = Saa kɨ´ɨ nuu { -sync-brand-name }.
 
 onboarding-benefit-products-title = Da ka̱a̱ íyo tiñu
 onboarding-benefit-knowledge-title = Tu´un tu´va íyo tiñu
-onboarding-benefit-knowledge-text = Kuní kuaíyo kumani kuninu jee koo va´anu saa nánuku.
+onboarding-benefit-knowledge-text = Kuní kuaíyo kumani kuninu je koo va´anu saa nánuku.
 onboarding-benefit-privacy-title = A kumi noo´o maná
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
@@ -93,12 +93,12 @@ onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
 onboarding-browse-privately-title = Nánuku yu´u
 onboarding-browse-privately-button = Síne iin ventana yu´u
 onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
-onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android jee saa sincronizar datos jii inka ka̱a̱.
+onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android je saa sincronizar datos jii inka ka̱a̱.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
 onboarding-send-tabs-button = Kajie´e ni´i Send Tabs
-onboarding-pocket-anywhere-title = Ka´vi jee teso´o ntaka nuu
+onboarding-pocket-anywhere-title = Ka´vi je teso´o ntaka nuu
 onboarding-pocket-anywhere-button = Nasá´á tuku { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Kua´a jii contraseña noo´o ntaka nuu
 onboarding-lockwise-passwords-button2 = Ni'i App

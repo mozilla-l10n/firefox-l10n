@@ -6,9 +6,9 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ni´inu iin tutu ntu íyo vatu.
 cert-error-mitm-intro = Da nuu web xine´e neva kuvi jii tutu certificado, vetiñu certificado tava da tutu ya´a.
-cert-error-mitm-mozilla = { -brand-short-name } vají jiee Mozilla, vetiñu ntu ni´i xu´un jee kumiji iin nuu chuva´a certificado(CA). Ve´i xiko CA chinei a da ñivɨ sá'á certificación kuntadaja a va´a jee kumí ñivɨ ni´i ka̱a̱ ya´a.
-cert-error-mitm-connection = { -brand-short-name } ni´i nuu chuva´a Mozilla CA kuvi kune´ya conexión íyo vatu, ntu ji da certificados taji ka̱a̱ operativo. Jee dee iin antivirus a xíín iin red nasɨ nuu iin conexiòn jii certificado taji CA jee ntu nchuva´a nuu CA Mozilla, conexión nko vatu.
-cert-error-trust-unknown-issuer-intro = Iyo ñivɨ kuvi sá´a sitio ya´a nko vatu jee noo´o nejika nkivunuma.
+cert-error-mitm-mozilla = { -brand-short-name } vají jiee Mozilla, vetiñu ntu ni´i xu´un je kumiji iin nuu chuva´a certificado(CA). Ve´i xiko CA chinei a da ñivɨ sá'á certificación kuntadaja a va´a je kumí ñivɨ ni´i ka̱a̱ ya´a.
+cert-error-mitm-connection = { -brand-short-name } ni´i nuu chuva´a Mozilla CA kuvi kune´ya conexión íyo vatu, ntu ji da certificados taji ka̱a̱ operativo. Je de iin antivirus a xíín iin red nasɨ nuu iin conexiòn ji certificado taji CA je ntu nchuva´a nuu CA Mozilla, conexión nko vatu.
+cert-error-trust-unknown-issuer-intro = Iyo ñivɨ kuvi sá´a sitio ya´a nko vatu je noo´o nejika nkivunuma.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Da nuu Web jinida noo´o jíí certificados. { -brand-short-name } ntu nakuni { $hostname } jiee kuviji iin certificado ntu vatu, certificado autofirmado, a xiin ka̱a̱ servidor ntu chu´un ichi certificados vatu.
@@ -46,7 +46,7 @@ cert-error-not-yet-valid-now = Da nuu web íyo vatu jiee da certificados, da ya�
 cert-error-code-prefix-link = Código a stivu <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Da nuu web íyo vatu jiee da certificados tava tee nee tiñu certificación. Ntaka da ka̱a̱ nánuku ntu nakuni da certificados tava GeoTrust, RapidSSL,  Symantec, Thawte y VeriSign. { $hostname } ni´i iin certificado vaji nuu da vetiñu ya´a jee, ntu kuvi nakuni dee vatu nuu web ya´a.
+cert-error-symantec-distrust-description = Da nuu web íyo vatu jiee da certificados tava tee nee tiñu certificación. Ntaka da ka̱a̱ nánuku ntu nakuni da certificados tava GeoTrust, RapidSSL,  Symantec, Thawte y VeriSign. { $hostname } ni´i iin certificado vaji nuu da vetiñu ya´a je, ntu kuvi nakuni de vatu nuu web ya´a.
 cert-error-symantec-distrust-admin = Kuvi kachinu nuu tee nɨnuu web jie´e tixí ya´a.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.

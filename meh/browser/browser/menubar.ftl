@@ -250,7 +250,7 @@ menu-help-keyboard-shortcuts =
     .label = Sa´a ñama Ka̱a̱ tee
     .accesskey = S
 menu-help-troubleshooting-info =
-    .label = Tu'un saa kuvi nasa'anu ya'a dee ntivu
+    .label = Tu'un saa kuvi nasa'anu ya'a de ntivu
     .accesskey = T
 menu-help-feedback-page =
     .label = Chu'un ichí a jíaníninu...
@@ -264,7 +264,7 @@ menu-help-safe-mode-with-addons =
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = Kachi dee sitio ya´a kuvi sakui´ina...
+    .label = Kachi de sitio ya´a kuvi sakui´ina...
     .accesskey = K
 menu-help-not-deceptive =
     .label = Ya´a ntu kuvi iin nuu kantu´un…

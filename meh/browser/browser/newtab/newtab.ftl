@@ -24,7 +24,7 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Chisó ka̱a̱ nánuku
-newtab-topsites-add-topsites-header = Daa sitio xinañu´u
+newtab-topsites-add-topsites-header = Da sitio xinañu'u
 newtab-topsites-edit-topsites-header = Natee sitio xinañu´u
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
@@ -124,7 +124,7 @@ newtab-section-menu-remove-section = Sna sección
 newtab-section-menu-collapse-section = Sección de colapso
 newtab-section-menu-expand-section = Sá´á ka´nu sección
 newtab-section-menu-manage-section = Tetiñu sección
-newtab-section-menu-manage-webext = Tetiñu daa extensión
+newtab-section-menu-manage-webext = Tetiñu da extensión
 newtab-section-menu-add-search-engine = Chisó ka̱a̱ nánuku
 newtab-section-menu-move-up = Scana si̱kɨ̱
 newtab-section-menu-move-down = Scana chuve
@@ -139,12 +139,12 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Daa sitio vii
+newtab-section-header-topsites = Da ta´a ini nuu
 newtab-section-header-highlights = Destacados
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Kajie´e nánuku, jee xine´e-ani daa tutu vii, tutu nátava káná jii daa inka nuu nnánukunu.
+newtab-empty-section-highlights = Kajie´e nánuku, je xine´e ani da tutu vii, tutu nátava káná ji da inka nuu nnánukunu.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -153,7 +153,7 @@ newtab-discovery-empty-section-topstories-content = Niko íchika saa kuninu kue�
 newtab-discovery-empty-section-topstories-try-again-button = Nasá´á tuku
 newtab-discovery-empty-section-topstories-loading = Kunetu…
 # Displays when a layout in a section took too long to fetch articles.
-newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi kivɨnu ya´a, jee ntu nkuvi.
+newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi kivɨnu ya´a, je ntu nkuvi.
 
 ## Pocket Content Section.
 
@@ -165,4 +165,4 @@ newtab-pocket-cta-button = Taji { -pocket-brand-name }
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Ups, iyo iin ntu nkene vii saa kuvi síne yaa´a.
-newtab-error-fallback-refresh-link = Nachu´un página jee nakajie´e tuku.
+newtab-error-fallback-refresh-link = Nachu´un página je nakajie´e tuku.

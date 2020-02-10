@@ -19,7 +19,7 @@ error-long-desc2 = Da robots jinida nantiñu a ntu jinio a kuvio ñivɨ
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Kuvi kunta´a va´ao jii da robots.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Da robots kumi daja iin su´ma ka̱a̱ xiñu jee nkuvi kayɨ´ɨ.
+error-long-desc4 = Da robots kumi daja iin su´ma ka̱a̱ xiñu je nkuvi kayɨ´ɨ.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = … je kuvidaja sá´áda iin a kuvi.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.

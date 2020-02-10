@@ -6,8 +6,8 @@ restore-page-tab-title = Natee sesión
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Nei koo ini-nu, Ntu nkuvi natee da páginas.
-restore-page-problem-desc = Kumidani tixi jee ntu nkuvi síne a nnánukunu. Kaji natee sesión jee nakivu tuku.
-restore-page-try-this = ¿Ntu kuvi natee sesión noo´o? Iyo sava pestaña saa´a tixi. Kune´ya da pestañas nune, xita da ntu nejika ni´inu jee natee.
+restore-page-problem-desc = Kumidani tixi je ntu nkuvi síne a nnánukunu. Kaji natee sesión je nakivu tuku.
+restore-page-try-this = ¿Ntu kuvi natee sesión noo´o? Iyo sava pestaña saa´a tixi. Kune´ya da pestañas nune, xita da ntu nejika ni´inu je natee.
 restore-page-hide-tabs = Chiyu´u pestaña nsine
 restore-page-show-tabs = Kune´ya pestañas nsine
 # When tabs are distributed across multiple windows, this message is used as a
@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Natee kuaiyo da ventanas & pestañas
 welcome-back-restore-some-label = Natee sani da a ni´inu
-welcome-back-page-info-link = Da ka̱a̱ chunta´an nxita jee nuu nake´i ka̱a̱ nánuku nkino kua vaji. Dee ya´a ntu nuvi tixi, <a data-l10n-name="link-more">kuni kue´eka a kuvi sa´anu.</a>
+welcome-back-page-info-link = Da ka̱a̱ chunta´an nxita je nuu nake´i ka̱a̱ nánuku nkino kua vaji. De ya´a ntu nuvi tixi, <a data-l10n-name="link-more">kuni kue´eka a kuvi sa´anu.</a>

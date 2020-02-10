@@ -23,7 +23,7 @@ update-manual = Naxi´ñao a jiia iyo nuu<label data-l10n-name="manual-link"/>
 update-unsupported = Nkuvika naxi´ñá ka̱a̱ ya´a. <label data-l10n-name="unsupported-link">Kutu´va-ka</label>
 update-restarting = Nakajie´e...
 channel-description = Ni´inu nasun da naxi´ña<label data-l10n-name="current-channel"></label>.
-warningDesc-version = { -brand-short-name } ya´a vii iin a jiia jee kuvi nkotiñu.
+warningDesc-version = { -brand-short-name } ya´a vii iin a jíía je kuvi nkotiñu.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> iin <label data-l10n-name="community-exp-creditsLink">ñuu ñu´un</label> ké´io saa koo ka̱a̱ nántu´un ne jika, nuu kuaiyo da noo´o.
 community-2 = { -brand-short-name } nsá´á <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, iin <label data-l10n-name="community-creditsLink">ñuu ñu´un</label> ké´io saa koo ka̱a̱ nántu´un ne jika, nuu kuaiyo da noo´o.
 helpus = Kuvi noo´o chinei? <label data-l10n-name="helpus-donateLink">Kunimani iin a kuvi</label> a xíín <label data-l10n-name="helpus-getInvolvedLink">náyonika</label>
