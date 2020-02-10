@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Kajie´e
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo da ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
+onboarding-welcome-modal-get-body = Kuminu ka̱a̱ nánuku.<br/>Tava kuaiyo a sá´á ka̱a̱{ -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Sá´á ka´nu a kumi noo´o yɨɨ yu´u.
 onboarding-welcome-modal-privacy-body = A kuminu ka̱a̱ nánuku. Vitan tee kue´e a kumi noo yu´u.
 onboarding-welcome-modal-family-learn-more = Kuni jie´e da inka ka̱a̱ { -brand-product-name }.
@@ -66,10 +67,12 @@ onboarding-sync-form-sub-header = Saa kɨ´ɨ nuu { -sync-brand-name }.
 ## description.
 
 onboarding-benefit-products-title = Da ka̱a̱ íyo tiñu
+onboarding-benefit-products-text = Xinɨ'ɨ a kumani ji iin familia ka̱a̱ kumi yu'u noo'o nuu ntaka da ka̱a̱ kuminu.
 onboarding-benefit-knowledge-title = Tu´un tu´va íyo tiñu
 onboarding-benefit-knowledge-text = Kuní kuaíyo kumani kuninu je koo va´anu saa nánuku.
 onboarding-benefit-privacy-title = A kumi noo´o maná
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Kuiso ji noo'o a ta´an ini noo'o, contraseñas, historial je kue´ka, ntaka nuu ni'inu { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Tetiñu da contraseña noo´o kumima va´a ji noo´o.

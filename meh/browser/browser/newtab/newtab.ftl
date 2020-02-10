@@ -154,6 +154,10 @@ newtab-section-header-pocket = A kachi { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Kajie´e nánuku, je xine´e ani da tutu vii, tutu nátava káná ji da inka nuu nnánukunu.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Niko íchika je nánuku kue'ka tu'un { $provider }. ¿Nkunetunu? Kaji iin tu'un vii je nani'inu kue'eka tu'un vii nuu kuaiyo web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -166,9 +170,12 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi 
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Tu'un vii:
 newtab-pocket-more-recommendations = Kue´eka a kuvi ni´inu
 newtab-pocket-whats-pocket = Nakuvi { -pocket-brand-name }?
 newtab-pocket-cta-button = Taji { -pocket-brand-name }
+newtab-pocket-cta-text = Chuva'a da tu'un jiniñu'unu { -pocket-brand-name } je chu'un mikinu ji tu'un ka'vi vii.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
