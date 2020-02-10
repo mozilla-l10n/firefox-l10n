@@ -24,7 +24,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Sá´á ñama ka̱a̱ tee">
 <!ENTITY helpKeyboardShortcuts.accesskey "S">
 
-<!ENTITY helpSafeMode.label       "Nakaji´e jii daa a nachisó-kúmani na´va…">
+<!ENTITY helpSafeMode.label       "Nakaji´e ji da a nachisó-kúmani na´va…">
 <!ENTITY helpSafeMode.accesskey   "N">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
@@ -37,15 +37,15 @@
 <!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Daa-a ta´aininu…">
+<!ENTITY preferencesCmdMac.label        "Preferencias...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Daa a iyo">
+<!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac2.label       "Chiyu´un &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Chiyu´un daa ya´a">
+<!ENTITY hideOtherAppsCmdMac.label      "Chiyu´u da inka">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Kune’yá kuaiyo">

@@ -22,9 +22,9 @@ clear-time-duration-prefix =
 clear-time-duration-value-last-hour =
     .label = Nɨ´ɨ hora
 clear-time-duration-value-last-2-hours =
-    .label = Daa nɨ´ɨ uvi hora
+    .label = Da nnɨ´ɨ uvi hora
 clear-time-duration-value-last-4-hours =
-    .label = Daa nɨ´ɨ kumi hora
+    .label = Da nnɨ´ɨ kumi hora
 clear-time-duration-value-today =
     .label = Ki̱vɨ̱ vitá
 clear-time-duration-value-everything =
@@ -59,4 +59,4 @@ sanitize-everything-warning = Náan kuaiyo a nnánukunu.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Náan kuaiyo daa nkajinu.
+sanitize-selected-warning = Náa kuaiyo da nkajinu.

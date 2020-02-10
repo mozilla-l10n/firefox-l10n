@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Tɨ ɨn captura pantalla
-screenshots-my-shots-button = Daa nnátava
+screenshots-my-shots-button = Da nnátava
 screenshots-download-button = Xinuu
 screenshots-download-button-tooltip = Xinuun captura pantalla
 screenshots-copy-button = Tɨɨn

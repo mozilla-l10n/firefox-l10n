@@ -22,14 +22,14 @@ protection-report-manage-protections = Tetiñu nuu kei´i
 # capitalization for this string should match the output for your locale.
 graph-today = Ki̱vɨ̱ vitá
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = Iin tutu nuu vaji tunin kuaíyo daa ka̱a̱ nita noo´o,  nstasava nakuvi daa ka̱a̱ ya´a, daa nnasɨ semana nña´a.
+graph-legend-description = Iin tutu nuu vaji tunin kuaíyo da ka̱a̱ nita noo´o,  nstasava nakuvi da ka̱a̱ ya´a, da nnasɨ semana nña´a.
 fingerprinter-tab-title = Huellas dactilares
 cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Kune'ya credenciales
     .title = Kɨ'ɨo nuu kajie´e sesión nchuva´a
 lockwise-no-logins-content = Ni´i app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> saa kuminu contraseñas ntaka nuu.
-manage-connected-devices = …Tetiñu daa ka̱a̱…
+manage-connected-devices = …Tetiñu da ka̱a̱…
 monitor-link = Naja satiñu
 
 ## The title attribute is used to display the type of protection.

@@ -22,7 +22,7 @@ search-search-in = Nánuku:
 
 ## Various categories of shortcuts for search.
 
-search-bookmarks = Daa a ta´a ini noo´o
+search-bookmarks = A ta´a ini noo´o
 
 ##
 

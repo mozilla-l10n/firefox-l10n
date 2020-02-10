@@ -19,7 +19,7 @@ site-data-column-last-used =
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (archivo local)
 site-data-remove-selected =
-    .label = Xita daa nkaji
+    .label = Xita da nkaji
     .accesskey = X
 site-data-button-cancel =
     .label = Nkuvi-ka
