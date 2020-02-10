@@ -65,6 +65,13 @@ bar-tooltip-social =
             [one] { $count } traçador de malhums socials ({ $percentage }%)
            *[other] { $count } traçadors de malhums socials ({ $percentage }%)
         }
+bar-tooltip-cookie =
+    .title = Cookies de seguiment entre sites
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie de seguiment entre sites({ $percentage }%)
+           *[other] { $count } cookies de seguiment entre sites({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = Contengut utilizat pel seguiment
     .aria-label =

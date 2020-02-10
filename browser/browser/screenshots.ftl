@@ -21,6 +21,7 @@ screenshots-notification-link-copied-details = Lo ligam es estat copiat al quich
 screenshots-notification-image-copied-title = Captura copiada
 screenshots-notification-image-copied-details = La captura es estada copiada al quichapapièrs. Quichatz { screenshots-meta-key }-V per la pegar.
 screenshots-request-error-title = Fonciona pas.
+screenshots-connection-error-title = Podèm pas nos connectar a vòstras capturas d’ecran.
 screenshots-unshootable-page-error-title = Captura impossibla de la pagina.
 screenshots-empty-selection-error-title = La seleccion est tròp pichona.
 screenshots-private-window-error-title = { -screenshots-brand-name } es desactivat en navegacion privada.
