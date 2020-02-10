@@ -834,11 +834,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
+<!ENTITY editBookmark.done.label                     "Պատրաստ է">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Ցուցադրել խմբագրիչը պահման ժամանակ">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Կայքի անվտանգութիւնը">
 
+<!ENTITY identity.connection "Կապակցում">
+<!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
+<!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
 
+<!ENTITY identity.connectionSecure3 "Միացումը ապահով է">
+<!ENTITY identity.connectionNotSecure2 "Կապակցումը անվտանգ չէ">
 
 
 <!-- Strings for connection state warnings. -->
