@@ -134,10 +134,12 @@ cfr-whatsnew-fingerprinter-counter-header-alt = Huellas dactilares
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Ni'i a ta'an ini noo'o nuu ka̱a̱ móvil
+cfr-doorhanger-sync-bookmarks-body = Kuiso ji noo'o a ta´an ini noo'o, contraseñas, historial je kue´ka, ntaka nuu kajie´enu sesión { -brand-product-name }.
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Nskuitanu íchika contraseña
+cfr-doorhanger-sync-logins-body = Chuva'a va'a contraseñas je koo nuu ntaka da ka̱a̱ kumi noo'o.
 
 ## Send Tab
 

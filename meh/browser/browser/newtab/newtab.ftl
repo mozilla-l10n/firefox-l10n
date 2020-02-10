@@ -33,6 +33,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tee iin URL
 newtab-topsites-url-validation = Nejika chu´unu iin URL vatu
+newtab-topsites-image-url-label = URL tutu nátava personalizada
 newtab-topsites-use-image-link = Ni´i iin tutu nátva personalizada…
 newtab-topsites-image-validation = Ntu nkuvi síne tutu natava. Nachu´un inka URL
 
@@ -45,6 +46,7 @@ newtab-topsites-add-button = Tee
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = ¿A mana kuvinu xino da nchu'un nuu página ya'a?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ya´a nkuvi tanɨ.
 
@@ -71,10 +73,13 @@ newtab-menu-edit-topsites = Natee
 newtab-menu-open-new-window = Síne nuu iin ventana jíia
 newtab-menu-open-new-private-window = Síne iin ventana yu´u
 newtab-menu-dismiss = Xita
+newtab-menu-pin = Anclar
+newtab-menu-unpin = Desanclar
 newtab-menu-delete-history = Xita nuu sɨ´ɨ nsá´ánu
 newtab-menu-save-to-pocket = Chuva´a nuu { -pocket-brand-name }
 newtab-menu-delete-pocket = Xita nuu { -pocket-brand-name }
 newtab-menu-archive-pocket = Chuva´a nuu { -pocket-brand-name }
+newtab-menu-show-privacy-info = Da patrocinadores da nuu'u ji privacidad
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -125,6 +130,7 @@ newtab-section-menu-collapse-section = Sección de colapso
 newtab-section-menu-expand-section = Sá´á ka´nu sección
 newtab-section-menu-manage-section = Tetiñu sección
 newtab-section-menu-manage-webext = Tetiñu da extensión
+newtab-section-menu-add-topsite = Tee sitio vii
 newtab-section-menu-add-search-engine = Chisó ka̱a̱ nánuku
 newtab-section-menu-move-up = Scana si̱kɨ̱
 newtab-section-menu-move-down = Scana chuve
@@ -141,6 +147,9 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Da ta´a ini nuu
 newtab-section-header-highlights = Destacados
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = A kachi { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
