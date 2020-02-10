@@ -170,7 +170,7 @@ extensions-view-available-updates =
 ## These are global warnings
 
 extensions-warning-safe-mode-label =
-    .value = 안전 모드에서 부가 기능 전체를 사용할 수 없습니다.
+    .value = 안전 모드에서는 모든 부가 기능을 사용할 수 없습니다.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
@@ -187,7 +187,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = 사용
     .tooltiptext = 부가 기능 업데이트 보안 확인 기능 사용
-extensions-warning-safe-mode = 안전 모드에서 부가 기능 전체를 사용할 수 없습니다.
+extensions-warning-safe-mode = 안전 모드에서는 모든 부가 기능을 사용할 수 없습니다.
 extensions-warning-check-compatibility = 부가 기능 호환성 확인 기능을 중단 합니다. 호환성이 맞지 않을 수 있습니다.
 extensions-warning-check-compatibility-button = 활성화
     .title = 부가 기능 호환성 확인 기능 사용
