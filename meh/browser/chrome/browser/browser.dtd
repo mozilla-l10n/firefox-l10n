@@ -410,7 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchWith.label             " jii:">
+<!ENTITY searchWith.label             " ji:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Ka̱a̱ nita">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
-<!ENTITY contentBlocking.cookiesView.label "Cookies jii datos nuu ya´a">
+<!ENTITY contentBlocking.cookiesView.label "Cookies ji datos nuu ya´a">
 
 
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">

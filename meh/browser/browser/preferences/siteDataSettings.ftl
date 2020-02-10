@@ -46,4 +46,4 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Xita
-site-data-removing-header = Xina cookies jii datos sitio
+site-data-removing-header = Xina cookies ji datos sitio

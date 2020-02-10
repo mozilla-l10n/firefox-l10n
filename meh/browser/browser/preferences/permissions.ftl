@@ -36,11 +36,11 @@ permissions-autoplay-menu = Kua vají nuu kuaiyo nuu web:
 permissions-searchbox =
     .placeholder = Nánuku nuu Web
 permissions-capabilities-autoplay-allow =
-    .label = Kuvi koo nasun jii tutu kana
+    .label = Kuvi koo nasun ji tutu kana
 permissions-capabilities-autoplay-block =
     .label = Kasɨ audio
 permissions-capabilities-autoplay-blockall =
-    .label = Kasɨ audio jii video
+    .label = Kasɨ audio ji video
 permissions-capabilities-allow =
     .label = Kuvi
 permissions-capabilities-block =
@@ -69,9 +69,9 @@ permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu da sit
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Excepciones: Cookies jii datos sitio
+    .title = Excepciones: Cookies ji datos sitio
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka íchi cookies jii datos sitio. Tee dirección vatu sitio kuvinu tetiñunu je kuaxin kasɨ, kuvi nuu ya'a a xíín kuvi.
+permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka íchi cookies ji datos sitio. Tee dirección vatu sitio kuvinu tetiñunu je kuaxin kasɨ, kuvi nuu ya'a a xíín kuvi.
 
 ## Exceptions - Pop-ups
 

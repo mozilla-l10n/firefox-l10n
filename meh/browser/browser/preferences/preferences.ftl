@@ -40,7 +40,7 @@ category-home =
 pane-search-title = Nánuku
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Privacidad jii seguridad
+pane-privacy-title = Privacidad ji seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -112,8 +112,8 @@ containers-remove-cancel-button = Nxina a ta´a ini noo´o ya´a
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = Tu´un jii naja tuvi
-fonts-and-colors-header = Letra jii teku
+language-and-appearance-header = Tu´un ji naja kutuvi
+fonts-and-colors-header = Letra ji teku
 default-font = Kua vaji fuente
     .accesskey = D
 default-font-size = Naja ka´nu
@@ -220,7 +220,7 @@ applications-use-other-label =
 play-drm-content-learn-more = Ka´vi kue´eka
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
 update-application-allow-description = Kuvini a { -brand-short-name }
-update-in-progress-message = ¿A kuvinu { -brand-short-name } kaka jii a naxi´ñá?
+update-in-progress-message = ¿A kuvinu { -brand-short-name } kaka ji a naxi´ñá?
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
@@ -249,11 +249,11 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Ventanas jíía jii pestañas
+home-new-windows-tabs-header = Ventanas jíía ji pestañas
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Página nuu kajie´e jii ventanas jíía
+home-homepage-mode-label = Página nuu kajie´e ji ventanas jíía
 home-newtabs-mode-label = Da pestaña jíía
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
@@ -303,7 +303,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Fragmentos
-home-prefs-snippets-description = Naxi´ñá { -vendor-short-name } jii { -brand-product-name }
+home-prefs-snippets-description = Naxi´ñá { -vendor-short-name } ji { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -314,7 +314,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Nuu nánuku
 search-bar-hidden =
-    .label = Ni´i barra da nuu nánuku jii kaka
+    .label = Ni´i barra da nuu nánuku ji kaka
 search-bar-shown =
     .label = Tee barra nánuku nuu barra da ka̱a̱
 search-engine-default-header = Ka̱a̱ nánuku kua vaji
@@ -348,7 +348,7 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Kua´an Web jii noo´o
+sync-signedout-caption = Kua´an Web ji noo´o
 sync-signedout-account-create = ¿Ntu kuminu iin cuenta? Kajie´e
     .accesskey = C
 sync-signedout-account-signin =
@@ -365,7 +365,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l10n-name="android-link"> Android</a> a xíín <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link"></a> saa sincronizar jii ka̱a̱ noo´o.
+sync-mobile-promo = Xinuun Firefox <img data-l10n-name="android-icon"/><a data-l10n-name="android-link"> Android</a> a xíín <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link"></a> saa sincronizar ji ka̱a̱ noo´o.
 
 ## Sync Section - Signed in
 
@@ -395,7 +395,7 @@ sync-sign-in =
 prefs-sync-setup =
     .label = Ke´i { -sync-brand-short-name }…
     .accesskey = S
-prefs-sync-offer-setup-label = Naxi´ña a ta´a ini noo´o, historial, pestañas, contraseñas, ka̱a̱ chunta´an jii preferencias nuu kuaíyo ka̱a̱.
+prefs-sync-offer-setup-label = Naxi´ña a ta´a ini noo´o, historial, pestañas, contraseñas, ka̱a̱ chunta´an ji preferencias nuu kuaíyo ka̱a̱.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ntañu´u
     .accesskeynotsyncing = N
@@ -405,7 +405,7 @@ prefs-sync-now =
 
 sync-currently-syncing-bookmarks = A ta´a ini noo´o
 sync-currently-syncing-tabs = Síne pestañas
-sync-currently-syncing-logins-passwords = Da nuu kajie´e sesión jii contraseñas
+sync-currently-syncing-logins-passwords = Da nuu kajie´e sesión ji contraseñas
 sync-currently-syncing-addresses = Da nuu
 sync-currently-syncing-addons = Ka̱a̱ chunta´an
 sync-change-options =
@@ -429,7 +429,7 @@ sync-engine-logins =
     .tooltiptext = Sivɨ jii contraseñas nchuva´anu
     .accesskey = L
 sync-engine-logins-passwords =
-    .label = Nuu kajie´e sesión jii contraseñas
+    .label = Nuu kajie´e sesión ji contraseñas
     .tooltiptext = Sivɨ jii contraseñas nchuva´anu
     .accesskey = L
 sync-engine-addresses =
@@ -468,7 +468,7 @@ privacy-header = Nánuku yu´u
 
 ## Privacy Section - Logins and Passwords
 
-logins-header = Nuu kajie´e sesión jii contraseñas
+logins-header = Nuu kajie´e sesión ji contraseñas
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Katu´un de chuva´a nuu kajie´e sesión ji contraseñas nuu da web
@@ -510,7 +510,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies jii datos nuu ya´a
+sitedata-header = Cookies ji datos nuu ya´a
 sitedata-learn-more = Ka´vi jiee ya´a
 sitedata-clear =
     .label = Sá´á noo datos
