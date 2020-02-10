@@ -333,6 +333,12 @@ search-find-more-link = Nani´ikue´e ka̱a̱ nánuku
 ## Containers Section
 
 containers-back-link = « Niko yata
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Niko nuu kaji
+           *[other] Niko nuu preferencias
+        }
 containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Tee iin contenedor jíía
@@ -349,6 +355,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Kua´an Web ji noo´o
+sync-signedout-account-title = Chunta´an ji iin { -fxaccount-brand-name }
 sync-signedout-account-create = ¿Ntu kuminu iin cuenta? Kajie´e
     .accesskey = C
 sync-signedout-account-signin =
@@ -389,6 +396,7 @@ sync-remove-account =
 sync-sign-in =
     .label = Kajie´e sesión
     .accesskey = g
+sync-signedin-settings-header = Ke'i Sync
 
 ## Sync section - enabling or disabling sync.
 
