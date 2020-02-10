@@ -11,4 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Tee tu´un xitu nuu WebExtensions kuvi kivɨ jii chrome.storage.managed.
+policy-DisableAppUpdate = Nsá´á naxi´ña ka̱a̱ nánuku.
+policy-DisableDeveloperTools = Kasɨ nkivɨ daa ka̱a̱ desarrolador.
+policy-DisableFirefoxAccounts = Kasɨ servicios { -fxaccount-brand-name }, jii Sync.
 policy-FirefoxHome = Ke´i Firefox Home.
