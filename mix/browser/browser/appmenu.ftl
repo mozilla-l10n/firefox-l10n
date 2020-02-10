@@ -6,6 +6,13 @@
 ## App Menu
 
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Saa kanu
+appmenuitem-zoom-reduce =
+    .label = Saa luu
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

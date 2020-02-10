@@ -14,11 +14,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Nduku nixi kitsana
 create-login-button = Saa nixi kitsau
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon para { $title }
 fxaccounts-sign-in-text = Nduku contraseñaku takua kuachu'un inka dispositivo
 fxaccounts-sign-in-button = Kitsa nu { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -48,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ntachi yuku
 login-list-name-option = Sivi (A-Z)
+login-list-name-reverse-option = Sivi (Z-A)
 login-list-breached-option = Sitio web vaá
 login-list-last-changed-option = Ña samu sa ntii
 login-list-last-used-option = Chachu'un sa nti'i
@@ -62,7 +58,6 @@ login-list-item-subtitle-missing-username = (Koo sivi kitsau)
 
 login-item-new-login-title = Saa nixi kitsau
 login-item-edit-button = Sama
-login-item-delete-button = Stoò
 login-item-origin-label = Dirección web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -72,10 +67,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Ndatava
 login-item-copied-username-button-text = ¡Ndataviña!
 login-item-password-label = Tu'un seè
-login-item-password-reveal-checkbox-show =
-    .title = Snaà tu'un seè
-login-item-password-reveal-checkbox-hide =
-    .title = Chika seé tu'un seé
 login-item-copy-password-button-text = Ndatava
 login-item-copied-password-button-text = ¡Va’a ndataviña!
 login-item-save-changes-button = Chica vaa ña samu
@@ -91,11 +82,8 @@ master-password-reload-button =
     .label = Kivii
     .accesskey = K
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Kunchatu
-confirmation-dialog-dismiss-button =
-    .title = Kunchatu
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -103,9 +91,13 @@ enable-password-sync-preferences-button =
            *[other] Kunchee ña inka vaá { -sync-brand-short-name }
         }
     .accesskey = K
-confirm-delete-dialog-title = ¿A Stuù sivi yo'o?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Kunchatu
+confirmation-dialog-dismiss-button =
+    .title = Kunchatu
 confirm-delete-dialog-message = Ma kuu sau chu'un yo
-confirm-delete-dialog-confirm-button = Stoò
 confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
