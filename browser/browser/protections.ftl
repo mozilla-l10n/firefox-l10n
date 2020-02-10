@@ -58,6 +58,27 @@ monitor-sign-up = S’inscriure a las alèrtas de pèrdas de donadas
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Traçadors de malhums socials
+    .aria-label =
+        { $count ->
+            [one] { $count } traçador de malhums socials ({ $percentage }%)
+           *[other] { $count } traçadors de malhums socials ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Contengut utilizat pel seguiment
+    .aria-label =
+        { $count ->
+            [one] { $count } contengut pistaire ({ $percentage }%)
+           *[other] { $count } contenguts pistaires ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Emprentas numericas
+    .aria-label =
+        { $count ->
+            [one] { $count } emprenta numerica ({ $percentage }%)
+           *[other] { $count } emprentas numericas ({ $percentage }%)
+        }
 bar-tooltip-cryptominer =
     .title = Minaires de criptomonedas
     .aria-label =
