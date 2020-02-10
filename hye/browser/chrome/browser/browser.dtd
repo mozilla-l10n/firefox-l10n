@@ -850,6 +850,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure2 "Կապակցումը անվտանգ չէ">
 <!ENTITY identity.connectionNotSecureSecurityView "Այս կայքի հետ Դուք կապակցուած եք անապահով կերպով։">
 <!ENTITY identity.connectionFile "Այս էջը գտնուում է համակարգչում։">
+<!ENTITY identity.connectionVerified2 "Դուք անվտանգ կապակցուած եք այս կայքին, որը աշխատեցնում է՝">
+<!ENTITY identity.connectionVerified3 "Դուք անվտանգ կապակցուել եք այս կայքի հետ։">
+<!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է։">
+<!ENTITY identity.extensionPage "Այս էջը բեռնուել է ընդլայնումից։">
+<!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգուած են։">
 
 
 <!-- Strings for connection state warnings. -->
