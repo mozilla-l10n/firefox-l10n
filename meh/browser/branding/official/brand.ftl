@@ -20,4 +20,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Kuaiyo daa tutu nátava kuviji iin a nkuvi ke´ío chií a yósó nuu vetiñu Mozilla Foundation.
+trademarkInfo = Kuaiyo da tutu nátava kuviji iin a nkuvi ke´ío chií a yósó nuu vetiñu Mozilla Foundation.
