@@ -21,32 +21,32 @@ cert-error-trust-symantec = Da certificados vaji jiee GeoTrust,RapidSSL, Symante
 cert-error-untrusted-default = Certificado ntu vaji nuu iin nuu va´a.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Daa nuu web íyo vatu jiee daa certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }.
+cert-error-domain-mismatch = Da nuu web íyo vatu jiee da certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Daa nuu web íyo vatu jiee daa certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }. Certificado íyo vatu ntu xini nuu <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>
+cert-error-domain-mismatch-single = Da nuu web íyo vatu jiee da certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }. Certificado íyo vatu ntu xini nuu <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Daa nuu web íyo vatu jiee daa certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }. Certificado íyo vatu ntu xini nuu { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Da nuu web íyo vatu jiee da certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }. Certificado íyo vatu ntu xini nuu { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Daa nuu web íyo vatu jiee daa certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }. Certificado íyo vatu nuu daa sivɨ : { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Da nuu web íyo vatu jiee da certificados. { -brand-short-name } ntu nakuni nuu ya´a jiee ni´i iin certificado ntu vatu nuu { $hostname }. Certificado íyo vatu nuu da sivɨ : { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Daa nuu web íyo vatu jiee daa certificados, daa ya´a íyo vatu ntu kue´e kivɨ . Certificado { $hostname } nnɨ ´ɨ  { $not-after-local-time }.
+cert-error-expired-now = Da nuu web íyo vatu jiee da certificados, da ya´a íyo vatu ntu kue´e kivɨ . Certificado { $hostname } nnɨ ´ɨ  { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Daa nuu web íyo vatu jiee daa certificados, daa ya´a íyo vatu ntu kue´e kivɨ . Certificado { $hostname } koo tiñu kivɨ { $not-before-local-time }.
+cert-error-not-yet-valid-now = Da nuu web íyo vatu jiee da certificados, da ya´a íyo vatu ntu kue´e kivɨ . Certificado { $hostname } koo tiñu kivɨ { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Código a stivu <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Daa nuu web íyo vatu jiee daa certificados tava tee nee tiñu certificación. Ntaka daa ka̱a̱ nánuku ntu nakuni daa certificados tava GeoTrust, RapidSSL,  Symantec, Thawte y VeriSign. { $hostname } ni´i iin certificado vaji nuu daa vetiñu ya´a jee, ntu kuvi nakuni dee vatu nuu web ya´a.
+cert-error-symantec-distrust-description = Da nuu web íyo vatu jiee da certificados tava tee nee tiñu certificación. Ntaka da ka̱a̱ nánuku ntu nakuni da certificados tava GeoTrust, RapidSSL,  Symantec, Thawte y VeriSign. { $hostname } ni´i iin certificado vaji nuu da vetiñu ya´a jee, ntu kuvi nakuni dee vatu nuu web ya´a.
 cert-error-symantec-distrust-admin = Kuvi kachinu nuu tee nɨnuu web jie´e tixí ya´a.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.

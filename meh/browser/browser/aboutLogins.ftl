@@ -15,7 +15,7 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Nánuku nuu kajie´e sesión
 create-login-button = Sá´á jíía iin kajie´e sesión
-fxaccounts-sign-in-text = Ni´i daa contraseñas nuu inka ka̱a̱
+fxaccounts-sign-in-text = Ni´i da contraseñas nuu inka ka̱a̱
 fxaccounts-sign-in-button = Kajie´e sesión { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Administrar cuenta
@@ -25,7 +25,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Síne menu
 # This menuitem is only visible on Windows
-menu-menuitem-import = Taji daa contraseñas...
+menu-menuitem-import = Taji da contraseñas...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Kaji
@@ -61,11 +61,11 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
-login-intro-heading = ¿Nánuku daa nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name }.
+login-intro-heading = ¿Nánuku da nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Ntu nani´i nuu kajie´e sesión sincronizados.
-login-intro-description = Dee nchuva´anu daa nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma jee suni:
+login-intro-description = De nchuva´anu da nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma jee suni:
 login-intro-instruction-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } jii ka̱a̱ nuu nkajie´enu sesión nchuva´a
-login-intro-instruction-fxa-settings = Kune´ya nkajinu nuu kajie´e sesión nuu daa ke´i { -sync-brand-short-name }
+login-intro-instruction-fxa-settings = Kune´ya nkajinu nuu kajie´e sesión nuu da ke´i { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lockwise-brand-short-name }  </a> nuu kuvi chineidani noo´o
 about-logins-intro-import = De nuu kajie´e sesión chuva´a nuu inka ka̱a̱ nánuku, noo´o <a data-l10n-name="import-link">  chu´unuma { -lockwise-brand-short-name }</a>
 
@@ -83,10 +83,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Tɨɨn
 login-item-copied-username-button-text = Ntɨɨn
 login-item-password-label = Contraseña
-login-item-password-reveal-checkbox-show =
-    .title = Kutúvi contraseña
-login-item-password-reveal-checkbox-hide =
-    .title = Chiyu´u contraseña
 login-item-password-reveal-checkbox =
     .aria-label = Xituvi contraseña
 login-item-copy-password-button-text = Tɨɨn
@@ -100,7 +96,7 @@ login-item-time-used = Nuu nɨ'ɨ a nsá´á: { DATETIME($timeUsed, day: "numeri
 
 ## Master Password notification
 
-master-password-notification-message = Kuamani ini noo´o jee, chu´un contraseña kuña´nu saa kutuvi daa nuu kajie´e sesión nchuva´a jii contraseñas
+master-password-notification-message = Kuamani ini noo´o jee, chu´un contraseña kuña´nu saa kutuvi da nuu kajie´e sesión nchuva´a jii contraseñas
 master-password-reload-button =
     .label = Kajie´e sesión
     .accesskey = K
@@ -116,7 +112,7 @@ enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
             [windows] Kune´ya nuu kaji { -sync-brand-short-name }
-           *[other] Kune´ya daa preferencias { -sync-brand-short-name }
+           *[other] Kune´ya da preferencias { -sync-brand-short-name }
         }
     .accesskey = K
 about-logins-enable-password-sync-dont-ask-again-button =
@@ -132,7 +128,7 @@ about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 about-logins-confirm-remove-dialog-confirm-button = Xita
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
-confirm-discard-changes-dialog-message = Kuaiyo daa nsama jee ntu nchuva´a náan.
+confirm-discard-changes-dialog-message = Kuaiyo da nsama jee ntu nchuva´a naa.
 confirm-discard-changes-dialog-confirm-button = Xita
 
 ## Breach Alert notification
