@@ -863,8 +863,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն։">
 <!ENTITY identity.passiveLoaded "Այս էջի մասերը անվտանգ չեն (աւր.՝ պատկերները)։">
 <!ENTITY identity.activeLoaded "Դուք անջատել եք պաշտպանութիւնը այս էջում։">
+<!ENTITY identity.weakEncryption "Այս էջը աւգտագործում է աղքատ գաղտնագրում։">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Ձեր կապակցումը այս կայքին գաղտնի չէ։ Ուղկարկուած տեղեկութիւնները կարող են դիտուել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրութիւնները, քարտային տուեալները եւ այլն)։">
+<!ENTITY identity.description.insecureLoginForms "Մուտքգործման տեղեկութիւնը, որ մուտքագրել եք այս էջում, անվտանգ չէ եւ կարող է վտանգուել։">
+<!ENTITY identity.description.weakCipher "Ձեր կապակցումը այս կայքին աւգտագործում է աղքատ գաղտնագրում եւ այն գաղտնի չէ։">
 
 
 
