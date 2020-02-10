@@ -95,16 +95,16 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tee mati´i, nani´i kue´e: Nánuku { $engineName } nee barra direccion.
-urlbar-search-tips-redirect = Kajie´e nánuku ya´a jee kuni nee { $engineName } jee daa nnánukunu.
+urlbar-search-tips-redirect = Kajie´e nánuku ya´a je kuni nee { $engineName } je da nnánukunu.
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = Nasɨ información nuu iñɨ noo´o nuu web ya´a.
 urlbar-xr-blocked =
-    .tooltiptext = Nñasɨnɨ kivɨ daa ka̱a̱ realidad virtual nuu sitio web ya´a.
+    .tooltiptext = Nñasɨnɨ kivɨ da ka̱a̱ realidad virtual nuu sitio web ya´a.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Nasɨ daa notificaciones nuu sitio web ya´a.
+    .tooltiptext = Nasɨ da notificaciones nuu sitio web ya´a.
 urlbar-camera-blocked =
     .tooltiptext = Ka̱a̱ natava nasɨ nuu sitio web ya´a.
 urlbar-microphone-blocked =
@@ -114,7 +114,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = Nñasɨnɨ nchuva´a nuu sitio web ya´a.
 urlbar-popup-blocked =
-    .tooltiptext = Nasɨ daa pop-ups nuu sitio web ya´a.
+    .tooltiptext = Nasɨ da pop-ups nuu sitio web ya´a.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Nñasɨnɨ nkajie´e kata nasun nuu web ya´a.
 urlbar-canvas-blocked =
@@ -135,11 +135,11 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-add-to-urlbar =
-    .label = Tee ya´a nuu barra daa nuu
+    .label = Tee ya´a nuu barra da nuu
 page-action-manage-extension =
-    .label = Tetiñu daa extensión...
+    .label = Tetiñu da extensión...
 page-action-remove-from-urlbar =
-    .label = Xinama barra daa nuu
+    .label = Xinama barra da nuu
 
 ## Auto-hide Context Menu
 
@@ -168,7 +168,7 @@ search-one-offs-context-set-as-default =
     .label = Tee tuku ka̱a̱ nánuku kua vaji
     .accesskey = k
 search-one-offs-context-set-as-default-private =
-    .label = Tee kua ka̱a̱ nánuku xinañu´u nuu  daa ventanas yu´u
+    .label = Tee kua ka̱a̱ nánuku xinañu´u nuu da ventanas yu´u
     .accesskey = P
 
 ## Bookmark Panel
@@ -191,12 +191,12 @@ identity-connection-secure = Conexión va´a
 identity-connection-internal = Ya´a kuvi iin página { -brand-short-name } va´a.
 identity-connection-file = Página ya´a nchuva´a nuu ka̱a̱ tee nɨnuu noo´o.
 identity-extension-page = Nuu ya´a nakivɨ tuku jii iin extensión.
-identity-active-blocked = { -brand-short-name } nñasɨ yaku ka̱a̱ nuu ya´a jiee ntu tuvi vatu daa ya´a.
+identity-active-blocked = { -brand-short-name } nñasɨ yaku ka̱a̱ nuu ya´a jiee ntu tuvi vatu da ya´a.
 identity-custom-root = Conexión verificada jii iin vetiñu taji certificados jee Mozilla ntu nakuni.
-identity-passive-loaded = Sava página ya´a ntu iyo vatu (kua daa tutu nátava).
+identity-passive-loaded = Sava página ya´a ntu iyo vatu (kua da tutu nátava).
 identity-active-loaded = Nnakasɨnɨ a kumi noo´o nuu página ya´a.
 identity-weak-encryption = Nuu ya´a ni´i encriptación ntu nakui.
-identity-insecure-login-forms = Daa nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
+identity-insecure-login-forms = Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
 identity-permissions =
     .value = Permisos
 identity-permissions-reload-hint = Sana nejika nakivɨ tuku página saa kuvi sama nke´inu
@@ -210,7 +210,7 @@ identity-description-custom-root = Mozilla ntu nakuni vetiñu certificados ya´a
 identity-remove-cert-exception =
     .label = Xina excepción
     .accesskey = E
-identity-description-insecure = Conexión noo´o ntu íyo yu´u. Tu´un chu´un íchinu sana kutuvi nuu inka ñivɨ (contraseñas, mensajes, daa tutu xu´un, etc.).
+identity-description-insecure = Conexión noo´o ntu íyo yu´u. Tu´un chu´un íchinu sana kutuvi nuu inka ñivɨ (contraseñas, mensajes, da tutu xu´un, etc.).
 identity-description-insecure-login-forms = Tu´un nuu kajie´e sesión chu´unu nuu página ya´a ntu íyo va´a jee kuvi sakui´inadama.
 identity-description-weak-cipher-intro = Conexión noo´o jii nuu web ya´a ni´i encriptación ntu nakui jee ntu íyo yu´u.
 identity-description-weak-cipher-risk = Inka ñivɨ kuvi kune´ya tu´un noo´o a xiin sama naja satiñu nuu web ya´a.
@@ -218,7 +218,7 @@ identity-description-active-blocked = { -brand-short-name } nñasɨ sava página
 identity-description-passive-loaded = Conexión noo´o ntu yu´u jee tu´un kua´anu jii nuu ya´a kuvi kutuvi nuu inka ñivɨ.
 identity-description-passive-loaded-insecure = Nuu web ya´a kumi tu´un ntu íyo va´a (kua tutu natava). <label data-l10n-name="link">Kuni jiee ya´a</label>
 identity-description-passive-loaded-mixed = { -brand-short-name } nñasɨ yaku tu´un, íyo tu´un nuu página ntu íyo va´a (kua tutu natava). <label data-l10n-name="link">Kuni jiee ya´a</label>
-identity-description-active-loaded = Nuu web ya´a kumi tu´un ntu va´a (kua scripts) jee conexión noo´o jii daa ya´a ntu yu´u.
+identity-description-active-loaded = Nuu web ya´a kumi tu´un ntu va´a (kua scripts) je conexión noo´o ji da ya´a ntu yu´u.
 identity-description-active-loaded-insecure = Información jia´anu jii nuu ya´a kuvi kune´ya inka ñivɨ (kua contraseñas, mensajes, tutu crédito, etc.).
 identity-learn-more =
     .value = Ka´vi kue´eka

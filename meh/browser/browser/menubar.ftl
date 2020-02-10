@@ -135,7 +135,7 @@ menu-view-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = Xituvi kuaiyo daa pestañas
+    .label = Xituvi kuaiyo da pestañas
     .accesskey = X
 menu-view-bidi-switch-page-direction =
     .label = Sama jikotiyu página ya´a
@@ -173,7 +173,7 @@ menu-bookmark-this-page =
 menu-bookmark-edit =
     .label = Sama a ta´an ini noo´o ya´a
 menu-bookmarks-all-tabs =
-    .label = Tee daa pestañas nune...
+    .label = Tee da pestañas nune...
 menu-bookmarks-toolbar =
     .label = A ta´a ini noo´o
 menu-bookmarks-other =
@@ -187,7 +187,7 @@ menu-tools =
     .label = Herramientas
     .accesskey = H
 menu-tools-downloads =
-    .label = Daa nxinú
+    .label = Da nxinú
     .accesskey = D
 menu-tools-addons =
     .label = Ka̱a̱ chunta´an
@@ -256,10 +256,10 @@ menu-help-feedback-page =
     .label = Chu'un ichí a jíaníninu...
     .accesskey = C
 menu-help-safe-mode-without-addons =
-    .label = Nakaji´e jii daa nachisó-kúmani na´va...
+    .label = Nakaji´e ji da nachisó-kúmani na´va...
     .accesskey = N
 menu-help-safe-mode-with-addons =
-    .label = Nakaji´e jii daa nachisó-kúmani na´va...
+    .label = Nakaji´e ji da nachisó-kúmani na´va...
     .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

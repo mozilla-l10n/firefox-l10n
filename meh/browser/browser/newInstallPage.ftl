@@ -8,13 +8,13 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Tu´un jíía íyo
-heading = Daa nsama perfil { -brand-short-name } noo´o
+heading = Da nsama perfil { -brand-short-name } noo´o
 changed-title = Naku nsama?
-changed-desc-profiles = A nchu´un ya´a { -brand-short-name } kumi iin perfil jiaa. Iin perfil kuvi kue´e archivos nuu Firefox chuva´a tu´un kua daa a ta´a ini noo´o, contraseñas jii preferencias usuario.
-changed-desc-dedicated = Saa kuvi nko viji jee vatu saa sama daa nchu´un Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition jee Firefox Nightly), a nchu´un ya´a ni´i iin perfil especifico. Nkua´a tu´un nchuva´a jii daa inka nchu´un Firefox.
-lost = <b>Ntu skuitanu ni´i dato noo´o.</b> Dee a nchuva´anu tu´un nuu Firefox nuu ka̱a̱ tee nɨnuu ya´a, íyo daa tu´un ya´a nuu daa inka a nchu´un Firefox.
+changed-desc-profiles = A nchu´un ya´a { -brand-short-name } kumi iin perfil jiaa. Iin perfil kuvi kue´e archivos nuu Firefox chuva´a tu´un kua da a ta´a ini noo´o, contraseñas jii preferencias usuario.
+changed-desc-dedicated = Saa kuvi nko viji je vatu saa sama da nchu´un Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition je Firefox Nightly), a nchu´un ya´a ni´i iin perfil especifico. Nkua´a tu´un nchuva´a ji da inka nchu´un Firefox.
+lost = <b>Ntu skuitanu ni´i dato noo´o.</b> De a nchuva´anu tu´un nuu Firefox nuu ka̱a̱ tee nɨnuu ya´a, íyo da tu´un ya´a nuu da inka a nchu´un Firefox.
 options-title = ¿Naku kuvi kajini?
-options-do-nothing = Dee nsá´ánu iin a kuvi, datos perfil noo´o { -brand-short-name } kuvi nko inu datos perfil jii daa inka nchu´un Firefox.
+options-do-nothing = De nsá´ánu iin a kuvi, datos perfil noo´o { -brand-short-name } kuvi nko inu datos perfil ji da inka nchu´un Firefox.
 options-use-sync = Dee kuvinu kuaíyo datos perfil noo´o koo inu ntaka nuu chu´unu Firefox, kuvi ni´inu iin { -fxaccount-brand-name } jee koo sincronizados.
 resources = Recursos:
 sync-header = Kajie´e sesión a xíín sá´á { -fxaccount-brand-name }
