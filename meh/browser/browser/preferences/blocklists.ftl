@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Lista daa yɨ´ɨ yu´u
+    .title = Lista da yɨ´ɨ yu´u
     .style = width: 55em
 blocklist-close-key =
     .key = w

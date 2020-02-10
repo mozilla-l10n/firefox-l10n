@@ -31,11 +31,11 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = Ntu vitan
     .secondarybuttonaccesskey = N
-appmenu-update-restart-message = Saa nakajie´e ñama { -brand-shorter-name } natee kuaiyo daa pestañas jii ventanas nune ntu íyo nánuku yu´u.
+appmenu-update-restart-message = Saa nakajie´e ñama { -brand-shorter-name } natee kuaiyo da pestañas ji ventanas nune ntu íyo nánuku yu´u.
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Kuvi
     .buttonaccesskey = O
-appmenu-addon-post-install-message = Kuña´nu nuu daa ka̱a̱ chunta´an kuaxin <image data-l10n-name='addon-install-icon'> nuu <image data-l10n-name='addon-menu-icon'> menú.
+appmenu-addon-post-install-message = Kuña´nu nuu da ka̱a̱ chunta´an kuaxin <image data-l10n-name='addon-install-icon'> nuu <image data-l10n-name='addon-menu-icon'> menú.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Kua´a kuvi satiñu extensión nuu pestaña yu´u
     .accesskey = A
@@ -46,4 +46,4 @@ appmenu-addon-private-browsing =
     .secondarybuttonlabel = Kuvi
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Ntaka extensión jíía teenu nuu { -brand-shorter-name } nsatiñu vii nuu ventana yu´u nejika ke´inuma saa kuvi satiñu.
-appmenu-addon-private-browsing-learn-more = Kuni naja tetiñunu daa extensiones.
+appmenu-addon-private-browsing-learn-more = Kuni naja tetiñunu da extensiones.

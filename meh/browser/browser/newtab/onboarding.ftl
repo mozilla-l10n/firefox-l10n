@@ -65,14 +65,14 @@ onboarding-sync-form-sub-header = Saa kɨ´ɨ nuu { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-title = Daa ka̱a̱ íyo tiñu
+onboarding-benefit-products-title = Da ka̱a̱ íyo tiñu
 onboarding-benefit-knowledge-title = Tu´un tu´va íyo tiñu
 onboarding-benefit-knowledge-text = Kuní kuaíyo kumani kuninu jee koo va´anu saa nánuku.
 onboarding-benefit-privacy-title = A kumi noo´o maná
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Tetiñu daa contraseña noo´o kumima va´a jii noo´o.
+onboarding-benefit-lockwise-text = Tetiñu da contraseña noo´o kumima va´a jii noo´o.
 
 ## These strings belong to the individual onboarding messages.
 

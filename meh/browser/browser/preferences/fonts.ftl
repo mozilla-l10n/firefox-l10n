@@ -92,7 +92,7 @@ fonts-minsize = Naja luli koo letra
 fonts-minsize-none =
     .label = None
 fonts-allow-own =
-    .label = Kua´a daa  página kaji letra, jee nkaji daa a nee íchi sikɨ
+    .label = Kua´a da  página kaji letra, jee nkaji da a nee íchi sikɨ
     .accesskey = K
 
 ## Text Encodings

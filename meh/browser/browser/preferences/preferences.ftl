@@ -84,7 +84,7 @@ startup-header = Nuu kajie´e
 separate-profile-mode =
     .label = Kua´a { -brand-short-name } jíí Firefox kunu ínu
 get-started-not-logged-in = Kajie´e sesión { -sync-brand-short-name }
-get-started-configured = Síne daa preferencias de { -sync-brand-short-name }
+get-started-configured = Síne da preferencias de { -sync-brand-short-name }
 set-as-my-default-browser =
     .label = Sá´á kua vají
     .accesskey = S
@@ -143,7 +143,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Archivos jii daa ka̱a̱
+files-and-applications-title = Archivos ji da ka̱a̱
 download-header = Da a xinuun
 download-save-to =
     .label = Chuva´a tutu nuu
@@ -160,9 +160,9 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = Ntaka ichi katu´un nuu´u nenu chuva´aní daa archivos
+    .label = Ntaka ichi katu´un nuu´u nenu chuva´aní da archivos
     .accesskey = N
-applications-header = Daa ka̱a̱
+applications-header = Da ka̱a̱
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archivo { $extension }
@@ -254,7 +254,7 @@ home-new-windows-tabs-header = Ventanas jíía jii pestañas
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Página nuu kajie´e jii ventanas jíía
-home-newtabs-mode-label = Daa pestaña jíía
+home-newtabs-mode-label = Da pestaña jíía
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
@@ -273,7 +273,7 @@ use-current-pages =
     .label =
         { $tabCount ->
             [1] Ni´i página ntañu´u
-           *[other] Ni´i daa página ntañu´u
+           *[other] Ni´i da página ntañu´u
         }
     .accesskey = c
 choose-bookmark =
@@ -286,8 +286,8 @@ home-prefs-content-header = Tu´un xinañu´u página Firefox
 home-prefs-search-header =
     .label = Nánuku web
 home-prefs-topsites-header =
-    .label = Daa sitio vii
-home-prefs-topsites-description = Daa nuu ni´inu kue´e
+    .label = Da sitio vii
+home-prefs-topsites-description = Da nuu ni´inu kue´e
 home-prefs-recommended-by-learn-more = Naja satiñu
 home-prefs-highlights-option-visited-pages =
     .label = Páginas nnkivɨnu
@@ -314,9 +314,9 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Nuu nánuku
 search-bar-hidden =
-    .label = Ni´i barra daa nuu nánuku jii kaka
+    .label = Ni´i barra da nuu nánuku jii kaka
 search-bar-shown =
-    .label = Tee barra nánuku nuu barra daa ka̱a̱
+    .label = Tee barra nánuku nuu barra da ka̱a̱
 search-engine-default-header = Ka̱a̱ nánuku kua vaji
 search-choose-engine-column =
     .label = Ka̱a̱ nánuku
@@ -405,8 +405,8 @@ prefs-sync-now =
 
 sync-currently-syncing-bookmarks = A ta´a ini noo´o
 sync-currently-syncing-tabs = Síne pestañas
-sync-currently-syncing-logins-passwords = Daa nuu kajie´e sesión jii contraseñas
-sync-currently-syncing-addresses = Daa nuu
+sync-currently-syncing-logins-passwords = Da nuu kajie´e sesión jii contraseñas
+sync-currently-syncing-addresses = Da nuu
 sync-currently-syncing-addons = Ka̱a̱ chunta´an
 sync-change-options =
     .label = Sama
@@ -433,8 +433,8 @@ sync-engine-logins-passwords =
     .tooltiptext = Sivɨ jii contraseñas nchuva´anu
     .accesskey = L
 sync-engine-addresses =
-    .label = Daa nuu
-    .tooltiptext = Daa nuu ve´i nchuva´anu (ntu xini escritorio)
+    .label = Da nuu
+    .tooltiptext = Da nuu ve´i nchuva´anu (ntu xini escritorio)
     .accesskey = e
 sync-engine-addons =
     .label = Ka̱a̱ chunta´an
@@ -454,9 +454,9 @@ sync-device-name-save =
     .label = Chuva´a
     .accesskey = v
 sync-connect-another-device = Chu´un inka ka̱a̱
-sync-manage-devices = Tetiñu daa ka̱a̱
+sync-manage-devices = Tetiñu da ka̱a̱
 sync-fxa-begin-pairing = Chisó iin ka̱a̱
-sync-tos-link = Tu´un daa servicio
+sync-tos-link = Tu´un da servicio
 sync-fxa-privacy-notice = Tutu xítu
 
 ## Privacy Section
@@ -471,7 +471,7 @@ privacy-header = Nánuku yu´u
 logins-header = Nuu kajie´e sesión jii contraseñas
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Katu´un dee chuva´a nuu kajie´e sesión jii contraseñas nuu daa web
+    .label = Katu´un de chuva´a nuu kajie´e sesión ji contraseñas nuu da web
     .accesskey = r
 forms-exceptions =
     .label = Excepciones…
@@ -564,21 +564,21 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-cookies = Kuaiyo daa cookies
-content-blocking-all-third-party-cookies = Kuaiyo Cookies daa inka
+content-blocking-all-cookies = Kuaiyo da cookies
+content-blocking-all-third-party-cookies = Kuaiyo Cookies da inka
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
 content-blocking-learn-how = Kuni naja?
 content-blocking-warning-learn-how = Kutu´va naja
-content-blocking-reload-description = Nejika nakajie´e tuku daa pestañas saa kino daa nsama.
+content-blocking-reload-description = Nejika nakajie´e tuku da pestañas saa kino da nsama.
 content-blocking-reload-tabs-button =
-    .label = Nakasɨ kuaiyo daa pestañas
+    .label = Nakasɨ kuaiyo da pestañas
     .accesskey = N
 content-blocking-trackers-label =
     .label = Ka̱a̱ nita
     .accesskey = K
 content-blocking-tracking-protection-option-all-windows =
-    .label = Kuaiyo daa ventana
+    .label = Kuaiyo da ventana
     .accesskey = K
 content-blocking-option-private =
     .label = Ntu xini ventana yu´u
@@ -608,7 +608,7 @@ permissions-location-settings =
     .accesskey = K
 permissions-xr = Realidad virtual
 permissions-xr-settings =
-    .label = Daa ke´i...
+    .label = Da ke´i...
     .accesskey = t
 permissions-camera = Ka̱a̱ natava
 permissions-camera-settings =
@@ -681,7 +681,7 @@ space-alert-under-5gb-ok-button =
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Nxinuu
-choose-download-folder-title = Kaji carpeta chuva´a daa nxinuun:
+choose-download-folder-title = Kaji carpeta chuva´a da nxinuun:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

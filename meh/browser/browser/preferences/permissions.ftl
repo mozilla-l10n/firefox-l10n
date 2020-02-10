@@ -7,7 +7,7 @@ permissions-window =
     .style = width: 45em
 permissions-close-key =
     .key = w
-permissions-address = Daa nuu Web
+permissions-address = Da nuu Web
     .accesskey = D
 permissions-block =
     .label = Kasɨ
@@ -64,7 +64,7 @@ permissions-invalid-uri-label = Nejika chu´unu iin nuu vatu
 permissions-exceptions-content-blocking-window =
     .title = Excepciones - Nnakasɨ contenido
     .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu daa sitios ya´a.
+permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu da sitios ya´a.
 
 ## Exceptions - Cookies
 
@@ -76,16 +76,16 @@ permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Daa nuu web permitidos - Ventanas emergentes
+    .title = Da nuu web permitidos - Ventanas emergentes
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Kuvi kachinu ne´iin daa nuu web kuvi sine ventanas emergentes. Chu´u dirección noo´o jee kuaxin kuvi.
+permissions-exceptions-popup-desc = Kuvi kachinu ne´iin da nuu web kuvi sine ventanas emergentes. Chu´u dirección noo´o jee kuaxin kuvi.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
     .title = Excepciones - Nuu kajie´e sesión nchuva´a
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Daa nuu kajie´e sesión nuu daa web nchuva´a
+permissions-exceptions-saved-logins-desc = Da nuu kajie´e sesión nuu da web nchuva´a
 
 ## Exceptions - Add-ons
 
@@ -101,7 +101,7 @@ permissions-exceptions-saved-logins-desc = Daa nuu kajie´e sesión nuu daa web 
 permissions-site-notification-window =
     .title = Ke´i - Permisos notificación
     .style = { permissions-window.style }
-permissions-site-notification-desc = Daa nuu web ya´a kuvi chu´un íchi notificaciones. Kuvi kachinu ne´i daa web kuvi chu´un íchi notificaciones. Suni kuvi kasɨnɨ solicitudes jíía.
+permissions-site-notification-desc = Da nuu web ya´a kuvi chu´un íchi notificaciones. Kuvi kachinu ne´i da web kuvi chu´un íchi notificaciones. Suni kuvi kasɨnɨ solicitudes jíía.
 permissions-site-notification-disable-label =
     .label = Kasɨ solicitudes jíía katu´un kuvi kutuvi notificaciones
 
@@ -129,6 +129,6 @@ permissions-site-camera-disable-label =
 permissions-site-microphone-window =
     .title = Ke´i - Permisos ka̱a̱ micrófono
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Daa nuu web ya´a kuvi kivɨ nuu ka̱a̱ micrófono. Kuvi kachinu ne´i daa web kuvi nuu ka̱a̱ micrófono. Suni kuvi kasɨnɨ solicitudes jíía kuvi kivɨ nuu micrófono.
+permissions-site-microphone-desc = Da nuu web ya´a kuvi kivɨ nuu ka̱a̱ micrófono. Kuvi kachinu ne´i da web kuvi nuu ka̱a̱ micrófono. Suni kuvi kasɨnɨ solicitudes jíía kuvi kivɨ nuu micrófono.
 permissions-site-microphone-disable-label =
     .label = Kasɨ solicitudes jíía kuvi kivɨ nuu ka̱a̱ micrófono
