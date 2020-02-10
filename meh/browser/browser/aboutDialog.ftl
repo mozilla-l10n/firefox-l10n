@@ -4,22 +4,22 @@
 
 aboutDialog-title =
     .title = Jiee ya’a { -brand-full-name }
-releaseNotes-link = Naku íyo a jiia
+releaseNotes-link = Naku íyo a jíía
 update-checkForUpdatesButton =
-    .label = Nánuku a jiia
+    .label = Nánuku a jíía
     .accesskey = N
 update-updateButton =
     .label = Nakajie´e kutuvi a jíía { -brand-shorter-name }
     .accesskey = R
-update-checkingForUpdates = Nánuku a jiia…
-update-downloading = <img data-l10n-name="icon"/>Xinuun a jiia —<label data-l10n-name="download-status"/>
+update-checkingForUpdates = Nánuku a jíía…
+update-downloading = <img data-l10n-name="icon"/>Xinuun a jíía —<label data-l10n-name="download-status"/>
 update-applying = Naxi´ñá...
 update-failed = Ntu kuvi naxi´ñá. <label data-l10n-name="failed-link">Xinuu iin a jíía da ya´a</label>
 update-failed-main = Ntu kuvi naxi´ñá. <a data-l10n-name="failed-link-main">Xinuu iin a jíía da ya´a</a>
 update-adminDisabled = Naxi´ñao ña´kuiñi nuu ka̱a̱ tee nɨnuu
-update-noUpdatesFound = { -brand-short-name } naxi´ñao a iyo jiia
-update-otherInstanceHandlingUpdates = { -brand-short-name } nánuku a jiia inka nuu
-update-manual = Naxi´ñao a jiia iyo nuu<label data-l10n-name="manual-link"/>
+update-noUpdatesFound = { -brand-short-name } naxi´ñao a iyo jíía
+update-otherInstanceHandlingUpdates = { -brand-short-name } nánuku a jíía inka nuu
+update-manual = Naxi´ñao a jíía iyo nuu<label data-l10n-name="manual-link"/>
 update-unsupported = Nkuvika naxi´ñá ka̱a̱ ya´a. <label data-l10n-name="unsupported-link">Kutu´va-ka</label>
 update-restarting = Nakajie´e...
 channel-description = Ni´inu nasun da naxi´ña<label data-l10n-name="current-channel"></label>.

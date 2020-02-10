@@ -30,7 +30,7 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 
-<!ENTITY addon.checkingForUpdates.label       "Nánukú a jiia…">
+<!ENTITY addon.checkingForUpdates.label       "Nánukú a jíía…">
 <!ENTITY addon.loadingReleaseNotes.label      "Kunetu…">
 
 
