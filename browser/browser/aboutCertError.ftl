@@ -6,6 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } o l'adeuvia 'n certificato de seguessa che o no l'é valido.
 cert-error-mitm-intro = I sciti dimonstran a seu identitæ pe mezo di certificati, che son distriboii da-e aotoritæ de certificaçion.
+cert-error-trust-unknown-issuer-intro = Quarchedun o porrieiva ese apreuvo a provâ a usurpâ l'identitæ do scito. No ti dovieiva anâ avanti.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = I sciti dimonstran a seu identitæ pe mezo di certificati. { -brand-short-name } o no se fia de { $hostname } perché o distribotô do seu certificato o l'é sconosciuo, o certificato o l'é aoto-firmou, ò o server o no l'à mandou i certificati intermezi previsti.
