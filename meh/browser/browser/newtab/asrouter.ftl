@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extensión kuvi ni´inu
+cfr-doorhanger-feature-heading = Característica recomendada
 cfr-doorhanger-pintab-heading = Sá´á ya´a: Tee pestaña
 
 ##
@@ -30,6 +31,14 @@ cfr-doorhanger-extension-author = por { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+cfr-doorhanger-extension-notification2 = Recomendación
+    .tooltiptext = Recomendación de extensión
+    .a11y-announcement = Recomendación de extensión
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomendación
+    .tooltiptext = Recomendación de la característica
+    .a11y-announcement = Recomendación de las características disponibles
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -112,11 +121,19 @@ cfr-whatsnew-permission-prompt-cta = Ka´vi kue´eka
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+       *[other] Nñasɨ ka̱a̱ huellas digitales
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Huellas dactilares
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Ni'i a ta'an ini noo'o nuu ka̱a̱ móvil
 
 ## Login Sync
 

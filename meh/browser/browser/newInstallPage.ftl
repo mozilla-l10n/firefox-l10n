@@ -17,10 +17,12 @@ options-title = ¿Naku kuvi kajini?
 options-do-nothing = De nsá´ánu iin a kuvi, datos perfil noo´o { -brand-short-name } kuvi nko inu datos perfil ji da inka nchu´un Firefox.
 options-use-sync = De kuvinu kuaíyo datos perfil noo´o koo inu ntaka nuu chu´unu Firefox, kuvi ni´inu iin { -fxaccount-brand-name } je koo sincronizados.
 resources = Recursos:
+support-link = Ni'i administrador perfiles - Articulo de soporte
 sync-header = Kajie´e sesión a xíín sá´á { -fxaccount-brand-name }
 sync-label = Chu´un email noo´o
 sync-input =
     .placeholder = Email
 sync-button = Kɨ´ɨ
+sync-terms = De kakanu, noo´o kanijia ji <a data-l10n-name="terms"> Tutu kachi a sá´á ka̱a̱ ya´a</a> ji <a data-l10n-name="privacy"> Tu'un xitu a nejika kumio</a>.
 sync-first = ¿Xinañu´u ni´inu { -sync-brand-name }? Nejika kajie´enu sesión ntaka íchi chu´unu Firefox je kuvi saa sincronizar información noo´o.
 sync-learn = Ka´vi kue´eka
