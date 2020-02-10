@@ -13,4 +13,4 @@ safe-mode-description = 안전 모드는 특정 문제를 해결할 때 사용�
 safe-mode-description-details = 이 때 모든 부가 기능과 사용자 설정은 중지 되고 { -brand-short-name } 기능이 현재와 다른 성능을 보여줄 수 있습니다.
 refresh-profile-instead = 문제 해결을 하는 대신 { -brand-short-name }를 새것처럼 만들 수도 있습니다.
 # Shown on the safe mode dialog after multiple startup crashes. 
-auto-safe-mode-description = { -brand-short-name }를 실행하다  문제가 생겨 종료하였습니다. 부가 기능이나 다른 원인으로 인해 일어났을 수 있습니다. 안전 모드에서 원인을 찾아봄으로서 문제를 해결할 수 있습니다.
+auto-safe-mode-description = { -brand-short-name }를 시작하는 동안 예기치 않게 종료되었습니다. 부가 기능 또는 다른 문제 때문일 수 있습니다. 안전 모드에서 원인을 찾아 문제를 해결할 수 있습니다.
