@@ -10,4 +10,5 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Tee tu´un xitu nuu WebExtensions kuvi kivɨ jii chrome.storage.managed.
 policy-FirefoxHome = Ke´i Firefox Home.
