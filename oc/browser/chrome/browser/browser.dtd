@@ -155,7 +155,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connectar un autre periferic…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
-<!ENTITY fxa.menu.signin.label "Se connectar a&brandShortName;">
+<!ENTITY fxa.menu.signin.label "Se connectar a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Compte">
 <!ENTITY fxa.menu.settings.label "Paramètres">
