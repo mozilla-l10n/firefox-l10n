@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = Nuu kajie´e sesión jii contraseñas
+about-logins-page-title = Nuu kajie´e sesión ji contraseñas
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Kua´a jii contraseña noo´o ntaka nuu
+login-app-promo-title = Kua´a ji contraseña noo´o ntaka nuu
 login-app-promo-subtitle = Ni´i aplicación { -lockwise-brand-name } ntu xu´un
 login-app-promo-android =
     .alt = Ni´ima nuu Google Play
@@ -38,7 +38,7 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone jíí iPad
 ## Login List
 
 login-list =
-    .aria-label = Nuu kajie´e sesión a íyo inu jii a nánukunu
+    .aria-label = Nuu kajie´e sesión a íyo inu ji a nánukunu
 login-list-count =
     { $count ->
        *[other] { $count }Nuu kajie´e sesión
@@ -52,7 +52,7 @@ login-list-last-used-option = Nni´i nuu nɨ´ɨ
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
 login-list-intro-description = Saa chuva´anu iin contraseña nuu { -brand-product-name }, ya´a kutuvi.
 about-logins-login-list-empty-search-title = Ntu nani´i credenciales
-about-logins-login-list-empty-search-description = Ntu íyo tu´un ínu jii a nánukunu.
+about-logins-login-list-empty-search-description = Ntu íyo tu´un ínu ji a nánukunu.
 login-list-item-title-new-login = A jíía inicio sesión
 login-list-item-subtitle-new-login = Chu´un credenciales noo´o a kajie´e sesión
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
@@ -64,7 +64,7 @@ about-logins-list-item-breach-icon =
 login-intro-heading = ¿Nánuku da nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Ntu nani´i nuu kajie´e sesión sincronizados.
 login-intro-description = De nchuva´anu da nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma je suni:
-login-intro-instruction-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } jii ka̱a̱ nuu nkajie´enu sesión nchuva´a
+login-intro-instruction-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } ji ka̱a̱ nuu nkajie´enu sesión nchuva´a
 login-intro-instruction-fxa-settings = Kune´ya nkajinu nuu kajie´e sesión nuu da ke´i { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lockwise-brand-short-name }  </a> nuu kuvi chineidani noo´o
 about-logins-intro-import = De nuu kajie´e sesión chuva´a nuu inka ka̱a̱ nánuku, noo´o <a data-l10n-name="import-link">  chu´unuma { -lockwise-brand-short-name }</a>
@@ -144,6 +144,6 @@ breach-alert-dismiss =
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = A íyo iin nkivɨ nuu { $loginTitle } jii sivɨ ñivɨ. <a data-l10n-name="duplicate-link"> ¿Kuvinu kɨ ´ɨnɨ yukuan?</a>
+about-logins-error-message-duplicate-login-with-link = A íyo iin nkivɨ nuu { $loginTitle } ji sivɨ ñivɨ. <a data-l10n-name="duplicate-link"> ¿Kuvinu kɨ ´ɨnɨ yukuan?</a>
 # This is a generic error message.
 about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contraseña ya´a.

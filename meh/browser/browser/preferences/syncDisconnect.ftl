@@ -18,7 +18,7 @@ sync-disconnect-cancel =
 ## on the state of the checkboxes.
 
 sync-disconnect-confirm-disconnect-delete =
-    .label = Sna´va jee xita
+    .label = Sna´va je xita
     .accesskey = D
 sync-disconnect-confirm-disconnect =
     .label = Sna´va

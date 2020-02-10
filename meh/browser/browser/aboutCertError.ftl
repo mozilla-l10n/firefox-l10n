@@ -5,7 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ni´inu iin tutu ntu íyo vatu.
-cert-error-mitm-intro = Da nuu web xine´e neva kuvi jii tutu certificado, vetiñu certificado tava da tutu ya´a.
+cert-error-mitm-intro = Da nuu web xine´e neva kuvi ji tutu certificado, vetiñu certificado tava da tutu ya´a.
 cert-error-mitm-mozilla = { -brand-short-name } vají jiee Mozilla, vetiñu ntu ni´i xu´un je kumiji iin nuu chuva´a certificado(CA). Ve´i xiko CA chinei a da ñivɨ sá'á certificación kuntadaja a va´a je kumí ñivɨ ni´i ka̱a̱ ya´a.
 cert-error-mitm-connection = { -brand-short-name } ni´i nuu chuva´a Mozilla CA kuvi kune´ya conexión íyo vatu, ntu ji da certificados taji ka̱a̱ operativo. Je de iin antivirus a xíín iin red nasɨ nuu iin conexiòn ji certificado taji CA je ntu nchuva´a nuu CA Mozilla, conexión nko vatu.
 cert-error-trust-unknown-issuer-intro = Iyo ñivɨ kuvi sá´a sitio ya´a nko vatu je noo´o nejika nkivunuma.

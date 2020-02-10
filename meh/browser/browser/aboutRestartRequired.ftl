@@ -5,5 +5,5 @@
 restart-required-title = Nejika nakajie´e tuku
 restart-required-header = Nejika sa´adani iin a kuvi saa kaka ya´a.
 restart-required-intro-brand = { -brand-short-name } nsa actualizar nuu a uvi plano. Kuaxin nakajie´e { -brand-short-name } saa kuvi nɨ´ɨ a jíía.
-restart-required-description = Nateani tuku da páginas, ventanas jii pestañas, saa kuvi kaka ñama ya´a.
+restart-required-description = Nateani tuku da páginas, ventanas ji pestañas, saa kuvi kaka ñama ya´a.
 restart-button-label = Nakajie´e { -brand-short-name }

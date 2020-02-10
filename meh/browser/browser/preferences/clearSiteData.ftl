@@ -21,7 +21,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Cookies jii datos nuu ya´a
+    .label = Cookies ji datos nuu ya´a
     .accesskey = C
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
@@ -31,7 +31,7 @@ clear-site-data-cookies-empty =
 clear-site-data-cache-empty =
     .label = Tu´un web nuu caché
     .accesskey = w
-clear-site-data-cache-info = Nejika da nuu web nachu´un tuku tutu natava jii datos
+clear-site-data-cache-info = Nejika da nuu web nachu´un tuku tutu natava ji datos
 clear-site-data-cancel =
     .label = Nkuvi-ka
     .accesskey = C

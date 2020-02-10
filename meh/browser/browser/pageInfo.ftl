@@ -75,11 +75,11 @@ security-view-identity-domain =
 security-view-identity-validity =
     .value = Nɨ´ɨ :
 security-view-privacy =
-    .value = Privacidad jee historial
+    .value = Privacidad je historial
 security-view-privacy-history-value = ¿Nneya´ni nuu web ya´a íchi yata?
 security-view-privacy-sitedata-value = ¿Nuu web ya´a chuva´a tu´un nuu ka̱a̱ tee nɨnuu?
 security-view-privacy-clearsitedata =
-    .label = Xina cookies jii datos sitio
+    .label = Xina cookies ji datos sitio
     .accesskey = C
 security-view-privacy-passwords-value = ¿Nchuva´ani contraseñas nuu web ya´a?
 security-view-privacy-viewpasswords =
@@ -96,7 +96,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Kuvi, cookies jii { $value } { $unit } datos nuu
+security-site-data-cookies = Kuvi, cookies ji { $value } { $unit } datos nuu
 security-site-data-only = Kuvi, { $value } { $unit } datos sitio
 security-site-data-cookies-only = Kuvi, cookies
 security-site-data-no = Nkuvi
@@ -115,7 +115,7 @@ no-page-title =
 general-quirks-mode =
     .value = Modo de compatibilidad
 general-strict-mode =
-    .value = Modo compatible jii estándares
+    .value = Modo compatible ji estándares
 media-select-folder = Kaji iin carpeta nuu chuva´a da tutu nátava
 permissions-use-default =
     .label = Ni´i predeterminado

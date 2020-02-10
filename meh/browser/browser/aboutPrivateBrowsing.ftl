@@ -19,13 +19,13 @@ about-private-browsing-info-clipboard = tu´un nuu tutu ntɨɨn
 about-private-browsing-info-temporary-files = Da archivos temporales
 about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Kune´ya naja satiñu
-about-private-browsing-note = A nánuku yu´u <strong>ntu chiyu´u noo´o</strong> nuu Internet. Ñivɨ tatu noo´o jii Internet kuvi kune´ya da tutu ne´yanu je nánukunu nuu Internet.
+about-private-browsing-note = A nánuku yu´u <strong>ntu chiyu´u noo´o</strong> nuu Internet. Ñivɨ tatu noo´o ji Internet kuvi kune´ya da tutu ne´yanu je nánukunu nuu Internet.
 about-private-browsing =
     .title = Nánuku nuu Web
 about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u
 content-blocking-title = Nakasɨ contenido
 content-blocking-description = Iyo da nuu Web ni´ida ka̱a̱ nita noo´o nuu Internet. Nuu da ventana yu´u { -brand-short-name } a chiyu´u tu´un { -brand-short-name } ka̱a̱ chiyu´u nakasɨ da ka̱a̱ nita a sá´á noo´o nuu Internet.
-about-private-browsing-info-description = { -brand-short-name } xita a nnánukunu a nsá´ánu saa kenenu nuu ka̱a̱ a xiin nakasɨnu kuaiyo da pestaña jíí ventana nánuku yu´u . Ya´a ntu taji a noo´o nánuku yu´u nuu Web jii nuu ñɨvu tatu Internet, ya´a sá´á kumi a nánukunu nuu inka ñɨvu ni´i ka̱a̱ tee nɨnuu ya´a.
+about-private-browsing-info-description = { -brand-short-name } xita a nnánukunu a nsá´ánu saa kenenu nuu ka̱a̱ a xiin nakasɨnu kuaiyo da pestaña jíí ventana nánuku yu´u . Ya´a ntu taji a noo´o nánuku yu´u nuu Web ji nuu ñɨvu tatu Internet, ya´a sá´á kumi a nánukunu nuu inka ñɨvu ni´i ka̱a̱ tee nɨnuu ya´a.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

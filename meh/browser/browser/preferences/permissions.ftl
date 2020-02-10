@@ -71,14 +71,14 @@ permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu da sit
 permissions-exceptions-cookie-window =
     .title = Excepciones: Cookies jii datos sitio
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka íchi cookies jii datos sitio. Tee dirección vatu sitio kuvinu tetiñunu jee kuaxin kasɨ, kuvi nuu ya'a a xíín kuvi.
+permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka íchi cookies jii datos sitio. Tee dirección vatu sitio kuvinu tetiñunu je kuaxin kasɨ, kuvi nuu ya'a a xíín kuvi.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Da nuu web permitidos - Ventanas emergentes
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Kuvi kachinu ne´iin da nuu web kuvi sine ventanas emergentes. Chu´u dirección noo´o jee kuaxin kuvi.
+permissions-exceptions-popup-desc = Kuvi kachinu ne´iin da nuu web kuvi sine ventanas emergentes. Chu´u dirección noo´o je kuaxin kuvi.
 
 ## Exceptions - Saved Logins
 

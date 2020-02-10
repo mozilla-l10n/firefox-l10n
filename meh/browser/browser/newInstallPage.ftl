@@ -10,7 +10,7 @@
 title = Tu´un jíía íyo
 heading = Da nsama perfil { -brand-short-name } noo´o
 changed-title = Naku nsama?
-changed-desc-profiles = A nchu´un ya´a { -brand-short-name } kumi iin perfil jiaa. Iin perfil kuvi kue´e archivos nuu Firefox chuva´a tu´un kua da a ta´a ini noo´o, contraseñas jii preferencias usuario.
+changed-desc-profiles = A nchu´un ya´a { -brand-short-name } kumi iin perfil jiaa. Iin perfil kuvi kue´e archivos nuu Firefox chuva´a tu´un kua da a ta´a ini noo´o, contraseñas ji preferencias usuario.
 changed-desc-dedicated = Saa kuvi nko viji je vatu saa sama da nchu´un Firefox (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition je Firefox Nightly), a nchu´un ya´a ni´i iin perfil especifico. Nkua´a tu´un nchuva´a ji da inka nchu´un Firefox.
 lost = <b>Ntu skuitanu ni´i dato noo´o.</b> De a nchuva´anu tu´un nuu Firefox nuu ka̱a̱ tee nɨnuu ya´a, íyo da tu´un ya´a nuu da inka a nchu´un Firefox.
 options-title = ¿Naku kuvi kajini?

@@ -28,4 +28,4 @@ panic-button-day =
 panic-button-action-desc = De kaka:
 panic-button-delete-cookies = Nxita <strong>Cookies</strong>
 panic-button-delete-history = Nxita <strong>Sɨ´ɨ</strong>
-panic-button-delete-tabs-and-windows = Nkasɨ<strong>Pestañas</strong> jii <strong>Ventanas</strong>
+panic-button-delete-tabs-and-windows = Nkasɨ<strong>Pestañas</strong> ji <strong>Ventanas</strong>

@@ -30,7 +30,7 @@ onboarding-join-form-body = Chu´un correo noo´o saa kajie´e.
 onboarding-join-form-email =
     .placeholder = Chu´un correo
 onboarding-join-form-email-error = Nejika chu´unu iin correo vatu
-onboarding-join-form-legal = De kakanu, noo´o kanijia jii <a data-l10n-name="terms"> Tutu kachi a sá´á ka̱a̱ ya´a</a> jii <a data-l10n-name="privacy"> Tu´un xitu a nejika kumio</a>.
+onboarding-join-form-legal = De kakanu, noo´o kanijia ji <a data-l10n-name="terms"> Tutu kachi a sá´á ka̱a̱ ya´a</a> ji <a data-l10n-name="privacy"> Tu´un xitu a nejika kumio</a>.
 onboarding-join-form-continue = Kɨ´ɨ
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ¿Kuminu iin cuenta?
@@ -49,9 +49,9 @@ onboarding-fullpage-form-email =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = Kuiso { -brand-product-name } jii noo´o
+onboarding-sync-welcome-header = Kuiso { -brand-product-name } ji noo´o
 onboarding-sync-welcome-content = Kivɨ marcadores, historial, contraseñas je kue´eka ke´i nuu kuaiyo ka̱a̱.
-onboarding-sync-welcome-learn-more-link = Ka´vi kue´eka jiie´e Firefox Accounts
+onboarding-sync-welcome-learn-more-link = Ka´vi kue´eka jie´e Firefox Accounts
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Kɨ´ɨ
@@ -72,7 +72,7 @@ onboarding-benefit-privacy-title = A kumi noo´o maná
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Tetiñu da contraseña noo´o kumima va´a jii noo´o.
+onboarding-benefit-lockwise-text = Tetiñu da contraseña noo´o kumima va´a ji noo´o.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -93,14 +93,14 @@ onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
 onboarding-browse-privately-title = Nánuku yu´u
 onboarding-browse-privately-button = Síne iin ventana yu´u
 onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
-onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android je saa sincronizar datos jii inka ka̱a̱.
+onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android je saa sincronizar datos ji inka ka̱a̱.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
 onboarding-send-tabs-button = Kajie´e ni´i Send Tabs
 onboarding-pocket-anywhere-title = Ka´vi je teso´o ntaka nuu
 onboarding-pocket-anywhere-button = Nasá´á tuku { -pocket-brand-name }
-onboarding-lockwise-passwords-title = Kua´a jii contraseña noo´o ntaka nuu
+onboarding-lockwise-passwords-title = Kua´a ji contraseña noo´o ntaka nuu
 onboarding-lockwise-passwords-button2 = Ni'i App
 onboarding-lockwise-strong-passwords-button = Tetiñu nuu kajie´e sesión
 onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
@@ -116,4 +116,4 @@ return-to-amo-sub-header = Va´a, kuminu { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Vitan tajiani <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Tee extensión
-return-to-amo-get-started-button = Nakajie´e  jii{ -brand-short-name }
+return-to-amo-get-started-button = Nakajie´e  ji{ -brand-short-name }

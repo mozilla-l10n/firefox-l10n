@@ -54,7 +54,7 @@ cfr-doorhanger-pintab-description = Kivu ñama nuu da sitios jikanuka. Kua´a da
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Kuaxin jii bóton kuá´á</b> nuu pestaña kuvinu kino.
+cfr-doorhanger-pintab-step1 = <b>Kuaxin ji bóton kuá´á</b> nuu pestaña kuvinu kino.
 cfr-doorhanger-pintab-step2 = Kaji <b> Kino pestaña</b> nuu menú.
 cfr-doorhanger-pintab-step3 = De íyo iin a jíía, kutuvi iin a kuvi teku lee nuu pestaña nee.
 cfr-doorhanger-pintab-animation-pause = Siankuiñu
@@ -72,7 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Nánuku nkuntadaja noo´o
-cfr-protections-panel-body = Información noo´o kino jii noo´o. { -brand-short-name } kumiji noo´o nuu kue´e da ka̱a̱ nita je ne´yada a sá´ánu nuu Web.
+cfr-protections-panel-body = Información noo´o kino ji noo´o. { -brand-short-name } kumiji noo´o nuu kue´e da ka̱a̱ nita je ne´yada a sá´ánu nuu Web.
 cfr-protections-panel-link-text = Ka´vi kue´eka
 
 ## What's New toolbar button and panel
