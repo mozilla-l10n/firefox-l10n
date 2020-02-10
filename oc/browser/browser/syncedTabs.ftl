@@ -40,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = Sincronizar ara
     .accesskey = S
 fxa-sign-in = Se connectar a { -sync-brand-short-name }
+turn-on-sync = Activar { -sync-brand-short-name }

@@ -77,6 +77,7 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegacion">
 <!ENTITY personalbarCmd.label "Barra de personala">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -137,6 +138,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Emportatz Firefox amb vos">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -150,7 +152,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Connectar un autre periferic…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Se connectar a&brandShortName;">
+<!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Compte">
+<!ENTITY fxa.menu.settings.label "Paramètres">
+<!ENTITY fxa.menu.accountSettings.label "Paramètres del compte">
+<!ENTITY fxa.menu.manageAccount2.label "Gestion del compte">
+<!ENTITY fxa.menu.signOut.label "Se desconnectar…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -605,9 +616,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Enregistrar jos…">
 <!ENTITY savePageCmd.accesskey        "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "E">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
@@ -807,6 +818,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
 
+<!ENTITY identity.connectionSecure3 "Connexion segura">
+<!ENTITY identity.connectionNotSecure2 "La connexion pas segura">
 <!ENTITY identity.connectionFile "Aquela pagina es enregistrada dins vòstre ordinador.">
 <!ENTITY identity.connectionVerified2 "Sètz connectat amb seguretat a aquel site, proprietat de :">
 <!ENTITY identity.connectionInternal "Aquò es una pagina segura de &brandShortName;.">
@@ -851,6 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Avètz donat pas cap de permission espaciala a aquel site.">
 <!ENTITY identity.permissionsReloadHint "Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.">
 <!ENTITY identity.permissionsPreferences.tooltip "Dobrir las preferéncias d’autorizacions">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Dobrir las preferéncias de blocatge de contengut">
 
 
 <!-- LOCALIZATION NOTE:
