@@ -51,6 +51,7 @@ login-list-breached-option = Pèrda de donadas de sites
 login-list-last-changed-option = Darrièra modificacion
 login-list-last-used-option = Darrièra utilizacion
 login-list-intro-title = Cap d’identificant pas trobat
+login-list-intro-description = Veiretz vòstre senhal aquí se lo gardatz dins { -brand-product-name }.
 about-logins-login-list-empty-search-title = Cap d’identificant pas trobat
 about-logins-login-list-empty-search-description = Cap de resultat per vòstra recèrca.
 login-list-item-title-new-login = Identificant novèl
@@ -61,6 +62,7 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
+login-intro-heading = Cercatz vòstres senhals gardats ? Configuratz { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Cap d’identificant sincronizat pas trobat.
 about-logins-intro-instruction-help = Consultatz <a data-l10n-name="help-link">l’assiténcia de { -lockwise-brand-short-name } per d’ajudar</a>
 
@@ -78,10 +80,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copiat !
 login-item-password-label = Senhal
-login-item-password-reveal-checkbox-show =
-    .title = Mostrar lo senhal
-login-item-password-reveal-checkbox-hide =
-    .title = Amagar lo senhal
 login-item-password-reveal-checkbox =
     .aria-label = Mostrar lo senhal
 login-item-copy-password-button-text = Copiar
