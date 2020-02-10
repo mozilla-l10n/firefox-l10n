@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Choisir les colonnes à afficher">
 <!ENTITY newContactButton.tooltip                       "Créer un nouveau contact">
 <!ENTITY newlistButton.tooltip                          "Créer une nouvelle liste de diffusion">
 <!ENTITY editPropertiesButton.tooltip                   "Modifier l’élément sélectionné">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Écrire un courrier à la sélection">
 <!ENTITY newIM.tooltip                                  "Envoyer un message instantané ou lancer une discussion">
 <!ENTITY deleteButton2.tooltip                          "Supprimer l’élément sélectionné">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Carnets d’adresses">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Le nom ou l’adresse">
