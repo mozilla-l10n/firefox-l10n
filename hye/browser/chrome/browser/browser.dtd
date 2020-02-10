@@ -871,11 +871,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "Ձեր կապակցումը այս կայքին աւգտագործում է աղքատ գաղտնագրում եւ այն գաղտնի չէ։">
 <!ENTITY identity.description.weakCipher2 "Այլ անձինք կարող են դիտել Ձեր տեղեկատուութիւնը կամ փոփոխել կայքի վարքագիծը։">
 
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Իմանալ աւելին">
+
+<!ENTITY identity.removeCertException.label "Հեռացնել բացառութիւնը">
+<!ENTITY identity.removeCertException.accesskey "R">
+
+<!ENTITY identity.moreInfoLinkText2 "Աւելի տեղեկութիւն">
 
 
+<!ENTITY identity.permissions "Թոյլտուութիւններ">
 
-
-
+<!ENTITY identity.permissions3 "Թոյլտուութիւններ">
 
 
 <!-- LOCALIZATION NOTE:
