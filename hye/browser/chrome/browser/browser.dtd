@@ -855,9 +855,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է։">
 <!ENTITY identity.extensionPage "Այս էջը բեռնուել է ընդլայնումից։">
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգուած են։">
+<!ENTITY identity.customRoot "Կապը հաստատուած է ըստ թողարկողի վաւերագրի, որը ճանաչուած չէ Mozilla-ի կողմից։">
 
+<!ENTITY identity.evOwnerLabel2 "Վկայագիր, որը տրուել է՝">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն։">
+<!ENTITY identity.passiveLoaded "Այս էջի մասերը անվտանգ չեն (աւր.՝ պատկերները)։">
+<!ENTITY identity.activeLoaded "Դուք անջատել եք պաշտպանութիւնը այս էջում։">
 
 <!-- Strings for connection state warnings in the subview. -->
 
