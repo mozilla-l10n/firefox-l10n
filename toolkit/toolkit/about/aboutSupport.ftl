@@ -161,6 +161,7 @@ intl-regional-prefs = Miestne nastavenia
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = Vzdialené ladenie (protokol Chromia)
+remote-debugging-accepting-connections = Prijíma spojenia
 remote-debugging-url = URL
 
 ##

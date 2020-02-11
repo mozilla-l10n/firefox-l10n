@@ -182,6 +182,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
+<!ENTITY xfoBlocked.title "Blokované prostredníctvom X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Aplikácia &brandShortName; nepovolila načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady X-Frame-Options, ktoré takéto načítanie neumožňujú.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanú stránku nemožno zobraziť, pretože pri prenose údajov došlo k chybe.</p><ul><li>Kontaktujte prosím vlastníkov webovej stránky a informujte ich o tomto probléme.</li></ul>">
