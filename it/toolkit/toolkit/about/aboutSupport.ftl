@@ -77,6 +77,7 @@ graphics-decision-log-title = Registro decisioni
 graphics-crash-guards-title = Funzioni disattivate da Crash Guard
 graphics-workarounds-title = Soluzioni alternative
 graphics-window-protocol = Protocollo finestra
+graphics-desktop-environment = Ambiente desktop
 place-database-title = Database Places
 place-database-integrity = Integrità
 place-database-verify-integrity = Verifica integrità
