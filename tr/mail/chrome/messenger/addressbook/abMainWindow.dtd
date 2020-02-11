@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Gösterilecek sütunları seç">
 <!ENTITY newContactButton.tooltip                       "Yeni adres defteri kişisi oluştur">
 <!ENTITY newlistButton.tooltip                          "Yeni bir liste oluştur">
 <!ENTITY editPropertiesButton.tooltip                   "Seçili ögeyi düzenle">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "E-posta iletisi gönder">
 <!ENTITY newIM.tooltip                                  "Anlık ileti gönder veya sohbet et">
 <!ENTITY deleteButton2.tooltip                          "Seçilmiş ögeyi sil">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adres Defterleri">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ad veya e-posta">
