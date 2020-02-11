@@ -154,7 +154,7 @@
 <!ENTITY wifi_auth_no_scanner "QR코드 스캐너가 뜨지 않습니까?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "QR코드 스캐너가 뜨나요?">
+<!ENTITY wifi_auth_yes_scanner "QR코드 스캐너가 뜹니까?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "해당 기기에서 QR코드 스캐너가 뜨지 않고 토큰을 묻는다면 아래 값을 넣어주세요:">
