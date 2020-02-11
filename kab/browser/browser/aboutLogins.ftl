@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
+login-list-name-reverse-option = Isem (Z-A)
 login-list-breached-option = Ismal web ittwakren
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
@@ -73,7 +74,6 @@ about-logins-intro-import = Ma yella tuqqna-inek tettwasekles deg yiminig-nniḍ
 
 login-item-new-login-title = Rnu anekcum amaynut
 login-item-edit-button = Ẓreg
-login-item-delete-button = Kkes
 about-logins-login-item-remove-button = Kkes
 login-item-origin-label = Tansa n usmel web
 login-item-origin =
@@ -84,10 +84,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Nɣel
 login-item-copied-username-button-text = Inɣel!
 login-item-password-label = Awal uffir
-login-item-password-reveal-checkbox-show =
-    .title = Sken awal uffir
-login-item-password-reveal-checkbox-hide =
-    .title = Ffer awal uffir
 login-item-password-reveal-checkbox =
     .aria-label = Sken awal uffir
 login-item-copy-password-button-text = Nɣel
@@ -120,7 +116,6 @@ enable-password-sync-preferences-button =
            *[other] Rzu ɣer yismenyifen n  { -sync-brand-short-name }
         }
     .accesskey = C
-confirm-delete-dialog-title = Kkes anekcam-agi?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ur yi-d-ssutur ara tikkelt-nniḍen
     .accesskey = U
@@ -132,7 +127,6 @@ confirmation-dialog-dismiss-button =
     .title = Sefsex
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
-confirm-delete-dialog-confirm-button = Kkes
 about-logins-confirm-remove-dialog-confirm-button = Kkes
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
 confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
