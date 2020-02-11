@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "நீங்கள் எல்லா தளங்களிலும் குறைந்த தரவை செலவிட படங்களை அணையுங்கள்.">
 <!ENTITY firstrun_sync_title "ஒத்திசை">
 <!ENTITY firstrun_sync_message3 "உங்கள் புத்தகக்குறிகள், வரலாறு மற்றும் கடவுச்சொற்களை உங்கள் தொலைபேசியில் ஒத்திசைக்கவும்.">
-<!ENTITY updatednewfirstrun_sync_title "கணக்கு">
-<!ENTITY firstrun_sync_message2 "நீங்கள் விட்டுவிட்ட இடத்தில் எடு.">
 <!ENTITY firstrun_sync_subtext2 "&brandShortName; உலாவியில் நீங்கள் சேமிக்கும் புத்தகக்குறிகள், கடவுச்சொற்கள், பிறவற்றை உங்கள் எல்லா கருவிகளிலும் எடுக்க ஒத்திசைவைப் பயன்படுத்தவும்.">
 <!ENTITY newfirstrun_sync_subtext "உங்கள் கைப்பேசியில் சேமித்தவற்றை மேசைக்கணினிக்கான பயர்பாக்சுடன் கமுக்கமாகவும் பாதுகாப்போடும் ஒத்திசையுங்கள்.">
 <!ENTITY firstrun_sendtab_title "கீற்றை அனுப்பு">
 <!ENTITY firstrun_sendtab_message "கைபேசியில் இருந்து கணினிக்கு கீற்றுகளை உடனடியாகப் பகிர.">
-<!ENTITY updatednewfirstrun_sync_subtext "உங்கள் கணக்கில் உள்நுழைவதின் மூலம் &brandShortName; உலாவியின் அதிக பயனைப் பெறுவீர்கள்">
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
-<!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
-<!ENTITY newfirstrun_signin_button "ஒத்திசைவை இயக்கு">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; உலாவியில் உள்நுழைக">
-<!ENTITY  onboard_start_button_browser "உலாவத் தொடங்குக">
+<!ENTITY onboard_start_button_browser "உலாவத் தொடங்குக">
 <!ENTITY firstrun_button_notnow "இப்போது இல்லை">
 <!ENTITY firstrun_button_next "அடுத்தது">
 <!ENTITY firstrun_signup_button "பதிவு பெறுக">
-
-<!ENTITY firstrun_signin_button2 "உள் நுழை">
 
 <!ENTITY firstrun_tabqueue_title "இணைப்புகள்">
 
@@ -501,6 +493,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "பகிர்">
 <!ENTITY share_title "இதன்வழியாக பகிரவும்">
 <!ENTITY share_image_failed "இந்த படத்தை பகிரமுடியவில்லை">
+<!ENTITY share_error_toast_message "குறிப்பிட்ட செயலிக்கு இந்தப் படத்தைப் பகிரமுடியவில்லை">
 <!ENTITY save_as_pdf "பிடிஎப் ஆக சேமி">
 <!ENTITY print "அச்சிடு">
 <!ENTITY view_page_source "பக்க மூலத்தைக் காட்டு">
@@ -881,10 +874,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "இணைப்பின்றி படிக்க வாசிப்பு பார்வை உருப்படிகளை புத்தகக்குறியிடு.">
 <!ENTITY helper_triple_readerview_open_button "புத்தக்குறிகளில் சேர்">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "&brandShortName; வருக">
+<!ENTITY activity_stream_signin_description "உங்கள் பயர்பாக்சு கணக்குடன் புத்தகக்குறிகள், கடவுச்சொற்கள், மற்றும் பலவற்றை ஒத்திசைக்கத் தொடங்குங்கள்.">
+<!ENTITY activity_stream_signup_button "பதிவு செய்க">
+<!ENTITY activity_stream_signin_prompt "ஏற்கனவே கணக்கு வைத்திருக்கிறீர்களா?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "உள்நுழைக.">
 
+<!-- LOCALIZATION NOTE (activity_stream_firefox_promo_title,
+     activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
+     These labels are shown in an Activity Stream banner. -->
+<!ENTITY activity_stream_firefox_promo_title "உங்கள் புத்தம் புதிய பயர்பாக்சு, 2020 இல் வரவிருக்கிறது">
+<!ENTITY activity_stream_firefox_promo_description "விரைவில்: மேம்பட்ட செயல்திறன். மேம்பட்ட பின்தொடரல் பாதுகாப்பு. மற்றும் இணையத்தில் நீங்கள் விரும்புவற்றைத் தேட, சேமிக்க, பகிர உதவும் வண்ணம் வடிவமைக்கப்பட்ட அம்சங்கள்.">
+<!ENTITY activity_stream_firefox_promo_button "கொஞ்சம் எட்டிப் பாருங்கள்">
 
 <!ENTITY activity_stream_topsites "பார்த்தவை">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
