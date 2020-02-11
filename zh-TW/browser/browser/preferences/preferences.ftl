@@ -1048,7 +1048,7 @@ collection-backlogged-crash-reports-link = 更多資訊
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = 安全性
-security-browsing-protection = 詐欺內容與危險網站保護
+security-browsing-protection = 詐騙內容與危險網站保護
 security-enable-safe-browsing =
     .label = 封鎖危險及詐騙內容
     .accesskey = B
