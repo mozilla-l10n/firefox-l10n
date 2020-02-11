@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Honen iturburua: ">
 
+<!ENTITY editMenu.label "Editatu">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Fitxategia">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Gorde orria honela…">
@@ -84,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "Kopiatu helbide elektronikoa">
 <!ENTITY copyEmailCmd.accesskey "E">
-

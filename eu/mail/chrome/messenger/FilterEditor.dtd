@@ -27,14 +27,15 @@
 <!ENTITY contextOutgoing.accesskey "o">
 <!ENTITY contextArchive.label "Artxibatzen">
 <!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Burutu ekintza hauek:">
 <!ENTITY filterActionDesc.accesskey "B">
 
 <!ENTITY filterActionOrderWarning.label "Oharra: iragazte-ekintzak beste ordena batean exekutatuko dira.">
 <!ENTITY filterActionOrder.label "Ikusi exekuzio-ordena">
-<!-- New Style Filter Rule Actions -->
 
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mugitu mezua hona:">
 <!ENTITY copyMessage.label "Kopiatu mezua hona:">
 <!ENTITY forwardTo.label "Birbidali mezua hona:">
@@ -55,12 +56,12 @@
 
 <!ENTITY addAction.tooltip "Gehitu ekintza berria">
 <!ENTITY removeAction.tooltip "Kendu ekintza hau">
+
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
      Change the values only when the localized strings in the popup menus
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
-
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
