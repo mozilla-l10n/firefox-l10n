@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Lleva a { -brand-product-name } contigo
 onboarding-sync-welcome-content = Accede a tus marcadores, historial, contraseñas y más ajustes en todos tus dispositivos.
 onboarding-sync-welcome-learn-more-link = Conoce más acerca de Firefox Accounts
-onboarding-sync-form-invalid-input = Se requiere un correo válido
-onboarding-sync-legal-notice = Al proceder, aceptas los <a data-l10n-name="terms">Términos del servicio</a> y la <a data-l10n-name="privacy">Política de privacidad</a>.
 onboarding-sync-form-input =
     .placeholder = Correo electrónico
 onboarding-sync-form-continue-button = Continuar
@@ -130,6 +128,9 @@ onboarding-send-tabs-title = Envíate pestañas al instante
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Enviar pestañas comparte instantáneamente páginas entre tus dispositivos sin tener que copiar, pegar o abandonar el navegador.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Comparte fácilmente páginas entre tus dispositivos sin tener que copiar, pegar o salir del navegador.
 onboarding-send-tabs-button = Empieza a usar Send Tabs
 onboarding-pocket-anywhere-title = Lee y escucha en cualquier lugar
 onboarding-pocket-anywhere-text2 = Guarda tu contenido favorito para disfrutarlo sin conexión con { -pocket-brand-name }. Lee, escucha y mira lo que quieras, cuando quieras.
