@@ -6,6 +6,7 @@
 <!ENTITY sendMail.title               "Formato de texto">
 <!ENTITY autoDowngrade.label          "Enviar mensajes como texto plano si es posible">
 <!ENTITY autoDowngrade.accesskey      "t">
+<!ENTITY sendMaildesc.label           "Al enviar mensajes con formato HTML y uno o más destinatarios no están listados para recibir correo HTML:">
 <!ENTITY askMe.label                  "Preguntarme qué hacer">
 <!ENTITY askMe.accesskey              "k">
 <!ENTITY convertPlain.label           "Convertir el mensaje a texto plano">
