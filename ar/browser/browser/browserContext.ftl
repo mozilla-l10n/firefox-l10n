@@ -188,7 +188,7 @@ main-context-menu-media-video-leave-fullscreen =
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
     .label = ڤديو معترِض
-    .accesskey = خ
+    .accesskey = ع
 main-context-menu-image-reload =
     .label = أعِد تحميل الصورة
     .accesskey = ع
