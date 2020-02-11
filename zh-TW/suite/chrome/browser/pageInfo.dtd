@@ -116,7 +116,7 @@
 
 <!ENTITY  securityView.identity.validity "到期於:">
 
-<!ENTITY  securityView.privacy.header                   "隱私及歷史記錄">
+<!ENTITY  securityView.privacy.header                   "隱私權及上網記錄">
 <!ENTITY  securityView.privacy.history                  "我以前瀏覽過這個網站嗎？">
 <!ENTITY  securityView.privacy.cookies                  "此網站有在我的電腦中儲存資訊 (Cookie) 嗎？">
 <!ENTITY  securityView.privacy.viewCookies              "檢視 Cookie">
