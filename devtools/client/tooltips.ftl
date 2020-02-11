@@ -30,6 +30,9 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> propietateak ez du e
 inactive-css-not-flex-container = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako flex edukiontzia.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako barne- edo taula-gelaxka motako elementua.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan <strong>{ $display }</strong> balioa duelako.
+inactive-css-not-display-block-on-floated = Motorrak <strong>display</strong> balioa <strong>block</strong>-era aldatu du elementua <strong>flotatzen<strong> dagoelako.
+inactive-css-property-is-impossible-to-override-in-visited = Ezin da <strong>{ $property }</strong> gainidatzi <strong>:visited</strong> mugatzea dela eta.
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako kokatutako elementua.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
