@@ -7,7 +7,7 @@
 <!ENTITY removeButton.accesskey       "R">
 <!ENTITY removeAccount.label          "Eliminar información de cuenta">
 <!ENTITY removeAccount.accesskey      "a">
-<!ENTITY removeAccount.desc           "Elimina solaemente el conocimiento de &brandShortName; de esta cuenta. No afecta la cuenta en sí misma en el servidor.">
+<!ENTITY removeAccount.desc           "Elimina solamente el conocimiento de &brandShortName; de esta cuenta. No afecta la cuenta en sí misma en el servidor.">
 <!ENTITY removeData.label             "Eliminar datos de mensajes">
 <!ENTITY removeData.accesskey         "d">
 <!ENTITY removeDataChat.label         "Eliminar datos de la conversación">
