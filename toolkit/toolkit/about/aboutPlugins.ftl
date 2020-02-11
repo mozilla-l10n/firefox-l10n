@@ -5,7 +5,7 @@
 title-label = 플러그인에 대하여
 installed-plugins-label = 설치한 플러그인
 no-plugins-are-installed-label = 설치한 플러그인 없음
-deprecation-description = 뭔가 빠졌나요? 어떤 플러그인은 더이상 지원되지 않습니다. <a data-l10n-name="deprecation-link">더 알아보기.</a>
+deprecation-description = 뭔가 빠졌습니까? 어떤 플러그인은 더이상 지원되지 않습니다. <a data-l10n-name="deprecation-link">더 알아보기.</a>
 
 ## The information of plugins
 ##
