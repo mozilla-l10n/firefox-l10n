@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "z">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Hautatu bistaratzeko zutabeak">
 <!ENTITY newContactButton.tooltip                       "Sortu kontaktu berria helbide-liburuan">
 <!ENTITY newlistButton.tooltip                          "Sortu zerrenda berria">
 <!ENTITY editPropertiesButton.tooltip                   "Editatu hautatutako elementua">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Bidali posta-mezua">
 <!ENTITY newIM.tooltip                                  "Bidali berehalako mezua edo hasi berriketa">
 <!ENTITY deleteButton2.tooltip                          "Ezabatu hautatutako elementua">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Helbide-liburuak">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Izena edo helbide elektronikoa">
