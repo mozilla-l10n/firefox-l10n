@@ -5,7 +5,7 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } 연결을 끊으시겠습니까?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = 이 컴퓨터의 브라우저 데이터도 같이 삭제 하시길 원하시나요? 계정의 { -sync-brand-name } 데이터는 이와 관계 없이 남아있을 것입니다.
+sync-disconnect-heading = 이 컴퓨터의 브라우저 데이터도 함께 삭제하시겠습니까? 이것과 관계 없이 계정의 { -sync-brand-name } 데이터는 유지됩니다.
 sync-disconnect-remove-sync-caption = { -sync-brand-name } 데이터 삭제
 sync-disconnect-remove-sync-data = 북마크, 방문기록, 비밀번호 등.
 sync-disconnect-remove-other-caption = 다른 개인 데이터 삭제

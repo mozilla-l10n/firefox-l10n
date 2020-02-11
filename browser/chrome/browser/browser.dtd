@@ -176,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "계정 설정">
 <!ENTITY fxa.menu.manageAccount2.label "계정 관리">
 <!ENTITY fxa.menu.signOut.label "로그 아웃…">
-<!ENTITY fxa.menu.deviceSettings.label "기기 설정">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; 설정…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -648,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "다른 이름으로 저장…">
 <!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
@@ -1018,7 +1017,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView3.description "특정 추적기를 차단하면 일부 웹 사이트에서 문제가 발생할 수 있습니다. 이러한 문제를 보고하면 모든 사람에게 더 나은 &brandShortName;를 제공하는데 도움이 됩니다. 이 보고서를 보내면 URL과 브라우저 설정에 대한 정보가 Mozilla로 전송됩니다.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "더 알아보기">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "어떤 문제가 있었나요? (선택)">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "어떤 문제가 있었습니까? (선택)">
 <!ENTITY contentBlocking.breakageReportView2.collection.comments.label "선택 사항: 문제 설명">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "보고서 전송">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "취소">
