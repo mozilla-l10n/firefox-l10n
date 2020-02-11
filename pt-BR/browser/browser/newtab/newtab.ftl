@@ -24,8 +24,8 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Adicionar mecanismo de pesquisa
-newtab-topsites-add-topsites-header = Novo site popular
-newtab-topsites-edit-topsites-header = Editar site popular
+newtab-topsites-add-topsites-header = Novo site preferido
+newtab-topsites-edit-topsites-header = Editar site preferido
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Digite um título
