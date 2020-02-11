@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey "C">
 <!ENTITY preserveThreading.label "Preservar las conversaciones al ordenar mensajes">
 <!ENTITY preserveThreading.accesskey "v">
+<!ENTITY loadInBackground.label "Cambiar a las pestañas nuevas al abrirlas">
+<!ENTITY loadInBackground.accesskey "m">
 <!ENTITY mailBiffOnNewWindow.label "Buscar correo nuevo sólo tras abrir Correo y noticias">
 <!ENTITY mailBiffOnNewWindow.accesskey "B">
 <!ENTITY defaultMailSettings.description "Hacer que &brandShortName; sea la aplicación predeterminada para:">
