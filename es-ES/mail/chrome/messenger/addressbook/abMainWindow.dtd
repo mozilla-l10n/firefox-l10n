@@ -147,6 +147,7 @@
 <!ENTITY printButton.accesskey "r">
 <!ENTITY deleteButton2.label "Eliminar">
 <!ENTITY deleteButton2.accesskey "l">
+<!ENTITY columnChooser.tooltip "Seleccione las columnas que desea mostrar">
 <!ENTITY newContactButton.tooltip "Crear un nuevo contacto de la libreta de direcciones">
 <!ENTITY newlistButton.tooltip "Crear nueva lista">
 <!ENTITY editPropertiesButton.tooltip "Editar el elemento seleccionado">
