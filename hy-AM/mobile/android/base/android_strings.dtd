@@ -916,9 +916,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Հեռացնել">
 <!ENTITY activity_stream_delete_history "Ջնջել Պատմությունից">
 
-<!ENTITY private_tab_panel_title "Գաղտնի Դիտարկում + ՀԵտագծման պաշտպանություն">
-<!ENTITY private_tab_panel_description "&brandShortName;-ը արգելափակում է էջերի մասերը, որոնք կարող են հետագծել դիտարկումների ձեր ակտիվությունը:">
-<!ENTITY private_tab_panel_description2 "Մենք չենք հիշի որևէ պատմություն, բայց ներբեռնված ֆայլերը և նոր էջանիշերը դեռ կպահպանվեն ձեր սարքում:">
+<!ENTITY private_tab_panel_title "Գաղտնի Դիտարկում + Հետագծման պաշտպանություն">
+<!ENTITY private_tab_panel_description "&brandShortName;-ը արգելափակում է էջերի այն մասերը, որոնք կարող են հետագծել դիտարկումների ձեր ակտիվությունը:">
+<!ENTITY private_tab_panel_description2 "Չի պահվի այցելությունների պատմությունը, բայց ներբեռնված ֆայլերը և նոր էջանիշերը կպահպանվեն ձեր սարքում:">
 <!ENTITY private_tab_learn_more "Ցանկանու՞մ եք իմանալ ավելին:">
 
 <!ENTITY fullscreen_warning "Մուտք լիաէկրան">
