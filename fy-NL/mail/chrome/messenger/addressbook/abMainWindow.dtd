@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "F">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Wer te jaan kolommen selektearje">
 <!ENTITY newContactButton.tooltip                       "Nij adresboekkontakt oanmeitsje">
 <!ENTITY newlistButton.tooltip                          "Nije list oanmeitsje">
 <!ENTITY editPropertiesButton.tooltip                   "Selektearre item bewurkje">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "E-mailberjocht stjoere">
 <!ENTITY newIM.tooltip                                  "In ynstant-berjocht stjoere of chatte">
 <!ENTITY deleteButton2.tooltip                          "Selektearre item fuortsmite">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adresboeken">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namme of e-mail">
