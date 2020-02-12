@@ -18,7 +18,7 @@
 <!ENTITY views.tooltip                  "보기 형식 변경">
 <!ENTITY view.columns.label             "열 표시">
 <!ENTITY view.columns.accesskey         "C">
-<!ENTITY view.sort.label                "정렬하기">
+<!ENTITY view.sort.label                "정렬">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "정렬 안 함">
 <!ENTITY view.unsorted.accesskey        "U">
