@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Colores…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom predeterminado
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Hacer zoom en el texto solamente
+    .accesskey = t
 language-header = Idioma
 choose-language-description = Elegir el idioma preferido para mostrar las páginas web
 choose-button =
@@ -561,10 +570,19 @@ search-keyword-warning-bookmark = Seleccionaste una palabra clave usada por un m
 ## Containers Section
 
 containers-back-link = « Ir atrás
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Volver a Opciones
+           *[other] Volver a Preferencias
+        }
 containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Agregar un nuevo contenedor
     .accesskey = A
+containers-new-tab-check =
+    .label = Seleccionar un contenedor para cada nueva pestaña
+    .accesskey = S
 containers-preferences-button =
     .label = Preferencias
 containers-remove-button =
@@ -584,6 +602,9 @@ sync-signedout-account-create = ¿No tienes una cuenta? Comienza
 sync-signedout-account-signin =
     .label = Iniciar sesión…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Iniciar sesión en { -sync-brand-short-name }
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +752,7 @@ privacy-header = Navegación privada
 ## Privacy Section - Logins and Passwords
 
 logins-header = Inicios de sesión y contraseñas
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Preguntar para guardar inicios de sesión y contraseñas para los sitios web
     .accesskey = r
@@ -744,6 +766,7 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre contraseñas para sitios web comprometidos
     .accesskey = b
 forms-breach-alerts-learn-more-link = Saber más
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Autollenar inicios de sesión y contraseñas
     .accesskey = i
@@ -963,6 +986,10 @@ permissions-location = Ubicación
 permissions-location-settings =
     .label = Ajustes…
     .accesskey = l
+permissions-xr = Realidad virtual
+permissions-xr-settings =
+    .label = Ajustes…
+    .accesskey = t
 permissions-camera = Cámara
 permissions-camera-settings =
     .label = Ajustes…
@@ -1011,6 +1038,8 @@ permissions-a11y-privacy-link = Saber más
 collection-header = Recolección de datos y uso de { -brand-short-name }
 collection-description = Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar { -brand-short-name } para todo el mundo. Siempre pedimos permiso antes de recibir información personal.
 collection-privacy-notice = Política de privacidad
+collection-health-report-telemetry-disabled = Ya no permites que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
+collection-health-report-telemetry-disabled-link = Saber más
 collection-health-report =
     .label = Permitir que { -brand-short-name } envíe información técnica y de interacción a { -vendor-short-name }
     .accesskey = r
