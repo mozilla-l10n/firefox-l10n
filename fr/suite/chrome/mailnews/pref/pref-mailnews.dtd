@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "D">
 <!ENTITY preserveThreading.label          "Préserver les discussions lors du tri des messages">
 <!ENTITY preserveThreading.accesskey      "P">
+<!ENTITY loadInBackground.label           "Basculer vers les nouveaux onglets à leur ouverture">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Ne vérifier que les nouveaux courriels lors de l’ouverture de Courrier et Groupes de discussion">
 <!ENTITY mailBiffOnNewWindow.accesskey    "N">
 
