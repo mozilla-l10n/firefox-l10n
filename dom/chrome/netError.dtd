@@ -26,7 +26,7 @@
 <!ENTITY generic.longDesc "<p>Trenutno ni na voljo dodatnih podatkov o tem problemu oziroma o tej napaki.</p>">
 
 <!ENTITY malformedURI.title "Neveljaven naslov">
-<!ENTITY malformedURI.longDesc "Naslov ni v pravem formatu. Prosim, preverite, da se niste zmotili.">
+<!ENTITY malformedURI.longDesc "<p>Vneseni naslov ni v prepoznani obliki. Preverite, da v vrstici z naslovom ni napak, in poskusite znova.</p>">
 
 <!ENTITY netInterrupt.title "Prenos podatkov prekinjen">
 <!ENTITY netInterrupt.longDesc "<p>Brskalnik se je uspešno povezal, vendar se je povezava prekinila med prenosom podatkov. Poskusite znova.</p><ul><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
@@ -60,7 +60,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<p>Povezava z internetom je nastavljena prek posrednika, ki pa odklanja povezavo.</p><ul><li>Je nastavitev posrednika ustrezna? Preverite nastavitve in poskusite ponovno.</li><li>Ali ta posrednik dovoli povezave s te mreže?</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
-<!ENTITY proxyResolveFailure.longDesc "<p>Povezava z internetom je nastavljena prek posrednika, ki ga ni mogoče najti.</p><ul><li>Je nastavitev posrednika ustrezna? Preverite nastavitve in poskusite ponovno.</li><li>Je računalnik povezan v aktivno mrežo?</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Povezava z internetom je nastavljena prek posrednika, ki ga ni mogoče najti.</p><ul><li>Je nastavitev posrednika ustrezna? Preverite nastavitve in poskusite ponovno.</li><li>Je računalnik povezan v delujoče omrežje?</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
 <!ENTITY redirectLoop.title "Krog preusmeritev">
 <!ENTITY redirectLoop.longDesc "<p>Brskalnik je prenehal s prenašanjem zahtevane strani. Stran preusmerja zahtevek tako, da se krog ne bi nikoli zaključil.</p><ul><li>Ste onemogočili ali prepovedali piškotke, ki bi jih ta stran potrebovala?</li><li><em>OPOMBA</em>: Če sprejetje piškotkov te strani ne odpravi težave, je to skoraj gotovo napaka nastavitev strežnika in nima zveze z vašim računalnikom.</li></ul>">
