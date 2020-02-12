@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Salir de pantalla completa">
 <!ENTITY exitFullScreenCmd.accesskey "p">
+
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -150,15 +151,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Deberás verificar tu cuenta antes de poder usar sync.">
 <!ENTITY fxa.unverified.button.label "Abrir las preferencias de &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Ocultar interruptor de imagen superpuesta">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Ingresado como">
 <!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
 <!ENTITY fxa.menu.syncSettings.label "Configuración de &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Ocultar interruptor de imagen superpuesta">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,12 +171,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Iniciar sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Habilitar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.settings.label "Ajustes">
 <!ENTITY fxa.menu.accountSettings.label "Ajustes de la cuenta">
+<!ENTITY fxa.menu.manageAccount2.label "Administrar cuenta">
 <!ENTITY fxa.menu.signOut.label "Cerrar sesión…">
-<!ENTITY fxa.menu.deviceSettings.label "Ajustes del dispositivo">
 <!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -244,7 +244,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Detener">
 <!ENTITY stopCmd.accesskey            "S">
+
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Ir a la dirección en la Barra de ubicaciones.">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
@@ -276,8 +278,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso del software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir panel MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Concediste permisos adicionales a este sitio web.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tu cámara está bloqueada para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu micrófono está bloqueado para este sitio web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Este sitio web está bloqueado para compartir tu pantalla.">
@@ -290,6 +290,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Haz bloqueado que este sitio web utilice el plugin de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Haz bloqueado el acceso al MIDI para este sitio web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Has bloqueado la instalación de complementos en este sitio web.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Concediste permisos adicionales a este sitio web.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
@@ -496,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Más">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Término de búsqueda o dirección">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -567,12 +571,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Buscar con:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Esta vez, buscar con:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +583,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "p">
 
 <!ENTITY openLinkCmdInTab.label       "Abrir enlace en una pestaña nueva">
+
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.label            "Abrir enlace en una ventana nueva">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -600,6 +599,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar sólo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recargar marco">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -633,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Agregar este marco a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Copiar enlace">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -646,10 +647,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Guardar como…">
 <!ENTITY savePageCmd.accesskey        "G">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Guardar marco como…">
 <!ENTITY saveFrameCmd.accesskey       "G">
@@ -816,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar la orientación del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "o">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Buscar en esta página…">
@@ -939,12 +942,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Por qué?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear esto puede interferir con elementos en algunos sitios. Sin rastreadores, algunos botones, formularios y campos de inicio de sesión no trabajen.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Desactivar las protecciones dará permiso a todos los rastreadores en este sitio. También puede mejorar algunas funcionalidades del sitio.">
-<!ENTITY protections.socialMediaTrackers.label "Rastreadores de red social">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo multisitio">
-<!ENTITY protections.trackingContent.label "Contenido de rastreo">
-<!ENTITY protections.fingerprinters.label "Huellas dactilares">
-<!ENTITY protections.cryptominers.label "Criptomineros">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Todos los rastreadores en este sitio web han sido cargados porque la protección está desactivada.">
 <!ENTITY protections.noTrackersFound.description "Ningún rastreador conocido por &brandShortName; fue detectado en esta página.">
 
@@ -967,7 +964,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Iniciar sesión a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sincronizar ahora">
 <!ENTITY syncSyncNowItemSyncing.label "Sincronizando…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1005,8 +1001,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
-
-<!ENTITY contentBlocking.cookies2.label "Cookies de rastreo de sitios cruzados">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineros">
 <!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
