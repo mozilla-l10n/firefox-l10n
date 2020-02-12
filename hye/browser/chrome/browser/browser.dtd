@@ -916,6 +916,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Ինչո՞ւ։">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Դրանց արգելափակումը կարող է կոտրել որոշ կայքերի տարրեր։ Առանց որոնիչների, որոշ կոճակներ, ձեւեր եւ մուտքային դաշտեր կարող են չգործել։">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Այս կայքի բոլոր հետքերը բեռնուած են, քանի որ պաշտպանութիւնն անջատուած է։">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
