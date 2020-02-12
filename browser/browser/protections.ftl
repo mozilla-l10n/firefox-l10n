@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> rastreador bloqueado desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> rastreadores bloqueados desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } sigue bloqueado rastreadores en ventanas privadas, pero no mantiene un registro de lo que se bloqueó.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Rastreadores que { -brand-short-name } bloqueó esta semana
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +69,14 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Ir a las preferencias de sincronización
-manage-devices = Administrar dispositivos
+manage-connected-devices = Administrar dispositivos…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
+lockwise-connected-device-status =
     { $count ->
-        [one] Sincronizando a { $count } dispositivo
-       *[other] Sincronizando a otros { $count } dispositivos
+        [one] Conectado a { $count } dispositivo
+       *[other] Conectado a { $count } dispositivos
     }
-lockwise-sync-not-syncing-devices = No se está sincronizando a otros dispositivos
 monitor-title = Mantente atento a las fugas de datos
 monitor-link = Cómo funciona
 monitor-header-content-no-account = Revisa { -monitor-brand-name } para ver si has sido parte de una violación de datos conocida y recibir alertas sobre nuevas violaciones.
