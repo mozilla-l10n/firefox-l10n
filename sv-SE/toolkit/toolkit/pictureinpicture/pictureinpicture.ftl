@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Ljud av
 pictureinpicture-unmute =
     .aria-label = Ljud på
+pictureinpicture-close =
+    .aria-label = Stäng
