@@ -16,3 +16,7 @@ set-background-center =
     .label = المركز
 set-background-stretch =
     .label = ممدّدة
+set-background-fill =
+    .label = ملء
+set-background-fit =
+    .label = ملائمة
