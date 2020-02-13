@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = Ta'anga Rechahápe g̃uarã ñemoĩ
 open-desktop-prefs =
     .label = Eike mba'erechaha erohoryvévape
+set-background-preview-unavailable = Jehecha ypy oiko’ỹva
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Span
 set-background-color = Sa'y:
 set-background-position = Tendaite:
 set-background-tile =
