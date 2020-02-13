@@ -16,3 +16,7 @@ set-background-center =
     .label = ಮಧ್ಯ
 set-background-stretch =
     .label = ಎಳೆಯಲ್ಪಟ್ಟ
+set-background-fill =
+    .label = ತುಂಬಿಸಿದ
+set-background-fit =
+    .label = ಸರಿಹೊಂದಿಸಿದ
