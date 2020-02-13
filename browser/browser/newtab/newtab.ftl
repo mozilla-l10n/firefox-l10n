@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거�
 newtab-pocket-read-more = 인기 주제:
 newtab-pocket-more-recommendations = 더 많은 추천
 newtab-pocket-whats-pocket = { -pocket-brand-name }은 무엇인가요?
+newtab-pocket-learn-more = 더 알아보기
 newtab-pocket-cta-button = { -pocket-brand-name } 받기
 newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
 
