@@ -15,3 +15,7 @@ set-background-center =
     .label = Cuir sa mheadhan
 set-background-stretch =
     .label = Sìn
+set-background-fill =
+    .label = Lìon
+set-background-fit =
+    .label = Co-fhreagair
