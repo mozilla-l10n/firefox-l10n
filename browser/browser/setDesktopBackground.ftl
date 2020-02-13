@@ -16,3 +16,7 @@ set-background-center =
     .label = Centráu
 set-background-stretch =
     .label = Axustar
+set-background-fill =
+    .label = Rellenar
+set-background-fit =
+    .label = Axustar
