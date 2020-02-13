@@ -16,5 +16,7 @@ set-background-center =
     .label = Sentreer
 set-background-stretch =
     .label = Rek
+set-background-fill =
+    .label = Opvul
 set-background-fit =
     .label = Pas
