@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = ตั้งพื้นหลังเดสก์ท็อป
 open-desktop-prefs =
     .label = เปิดค่ากำหนดเดสก์ท็อป
+set-background-preview-unavailable = การแสดงตัวอย่างไม่สามารถใช้ได้
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = ยืดขยาย
 set-background-color = สี:
 set-background-position = ตำแหน่ง:
 set-background-tile =
