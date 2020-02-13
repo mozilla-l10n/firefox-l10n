@@ -16,3 +16,7 @@ set-background-center =
     .label = Centre
 set-background-stretch =
     .label = Stretch
+set-background-fill =
+    .label = Fill
+set-background-fit =
+    .label = Fit
