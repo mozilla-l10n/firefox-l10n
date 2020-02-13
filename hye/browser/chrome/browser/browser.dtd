@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Այս նշոցիները հետեւում են Ձեզ կայքից կայք տուեալներ հաւաքելու այն մասին թէ ինչ եք անում Դուք առցանց։ Դրանք սահմանուած են երրորդ անձանց կողմից ինչպիսիք են՝ գովազդատուները եւ վերլուծական ընկերութիւնները։">
 <!ENTITY protections.cryptominers.description "Գաղտնազերծիչները աւգտագործում են Ձեր համակարգի հաշուարկային ուժը թուային փողը հանելու համար։ Գաղտնազերծիչի սցենարները չորացնում են Ձեր մարտկոցը, դանդաղեցնում Ձեր համակարգիչը եւ կարող են մեծացնել Ձեր էներգիայի հաշիւը։">
 <!ENTITY protections.fingerprinters.description "Մատնահետքերը հաւաքում են կարգաւորումներ Ձեր զննարկչից եւ համակարգչից Ձեր հատկագիրը ստեղծելու համար։ Աւգտագործելով այս թուային մատնահետքը, նրանք կարող են հետեւել Ձեզ տարբեր կայքերի միջով։">
+<!ENTITY protections.trackingContent2.description "Կայքերը կարող են բեռնել արտաքին գովազդները, տեսանիւթերը եւ այլ բովանդակութիւն հետեւող կոդով։ Պարունակութեան արգելափակման հետեւումը կարող է աւգնել կայքերին ավելի արագ բեռնելու, բայց որոշ կոճակներ, ձեւեր եւ մուտքի դաշտեր կարող են չաշխատել:">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
