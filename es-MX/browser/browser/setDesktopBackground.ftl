@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Establecer como fondo de escritorio
 open-desktop-prefs =
     .label = Abrir preferencias de escritorio
+set-background-preview-unavailable = Previsualización no disponible
 set-background-color = Color:
 set-background-position = Posición:
 set-background-tile =
