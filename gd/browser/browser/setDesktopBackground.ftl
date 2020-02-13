@@ -8,6 +8,12 @@ set-desktop-background-accept =
     .label = Suidhich cùlaibh an deasg
 open-desktop-prefs =
     .label = Fosgail roghainnean an deasg
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Ruigheachd
 set-background-color = Dath:
 set-background-position = Ionad:
 set-background-tile =
