@@ -8,3 +8,7 @@ set-background-center =
     .label = ცენტრში
 set-background-stretch =
     .label = გაჭიმვა
+set-background-fill =
+    .label = შევსება
+set-background-fit =
+    .label = მორგება
