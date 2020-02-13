@@ -872,6 +872,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "Մուտքգործման տեղեկութիւնը, որ մուտքագրել եք այս էջում, անվտանգ չէ եւ կարող է վտանգուել։">
 <!ENTITY identity.description.weakCipher "Ձեր կապակցումը այս կայքին աւգտագործում է աղքատ գաղտնագրում եւ այն գաղտնի չէ։">
 <!ENTITY identity.description.weakCipher2 "Այլ անձինք կարող են դիտել Ձեր տեղեկատուութիւնը կամ փոփոխել կայքի վարքագիծը։">
+<!ENTITY identity.description.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի այն հատվածները, որոնք ապահով չեն։">
+<!ENTITY identity.description.passiveLoaded "Ձեր կապը մասնաւոր չէ, եւ կայքի հետ կիսուող տեղեկութիւնները կարող են դիտուել ուրիշների կողմից:">
+<!ENTITY identity.description.passiveLoaded2 "Այս կայքը պարունակում է այնպիսի բովանդակութիւն որն ապահով չէ։ (աւր.՝ պատկերներ)։">
 
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
