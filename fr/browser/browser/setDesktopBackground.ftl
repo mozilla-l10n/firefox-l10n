@@ -12,3 +12,7 @@ set-background-center =
     .label = Centrer
 set-background-stretch =
     .label = Étirer
+set-background-fill =
+    .label = Remplir
+set-background-fit =
+    .label = Ajuster
