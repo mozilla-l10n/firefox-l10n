@@ -16,3 +16,7 @@ set-background-center =
     .label = 中央に表示
 set-background-stretch =
     .label = 拡大して表示
+set-background-fill =
+    .label = ページ幅に合わせる
+set-background-fit =
+    .label = 画面サイズに合わせる
