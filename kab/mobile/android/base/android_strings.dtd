@@ -888,6 +888,7 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
      activity_stream_firefox_promo_description, activity_stream_firefox_promo_button):
      These labels are shown in an Activity Stream banner. -->
 <!ENTITY activity_stream_firefox_promo_title "Firefox amaynut, ad d-yewed deg 2020">
+<!ENTITY activity_stream_firefox_promo_description "Ad yeffeɣ ticki: Tɣellist mgal aneḍfar. Timahilin ara k-yeffken  tallelt, asekles, d beṭṭu n yawen tḥemmleḍ.">
 <!ENTITY activity_stream_firefox_promo_button "Ɛreḍ-it uqbel ad d-yeffeɣ">
 
 <!ENTITY activity_stream_topsites "Ismal yettwarzan aṭas">
