@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+set-desktop-background-window =
+    .title = Choisir comme fond d’écran
+set-desktop-background-accept =
+    .label = Choisir comme fond d’écran
 open-desktop-prefs =
     .label = Ouvrir les préférences du Bureau
 set-background-color = Couleur :
