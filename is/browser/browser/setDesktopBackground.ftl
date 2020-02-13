@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Setja skjáborðsbakgrunn
 open-desktop-prefs =
     .label = Opna stillingar skjáborðs
+set-background-preview-unavailable = Forskoðun ekki tiltæk
 set-background-color = Litur:
 set-background-position = Staðsetning:
 set-background-tile =
