@@ -6,7 +6,17 @@ set-desktop-background-window =
     .title = Gawing Background ng Desktop
 set-desktop-background-accept =
     .label = Gawing Background ng Desktop
+open-desktop-prefs =
+    .label = Buksan ang mga Kagustuhan para sa Desktop
+set-background-preview-unavailable = Hindi available ang preview
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Span
 set-background-color = Kulay:
+set-background-position = Posisyon:
 set-background-tile =
     .label = Tile
 set-background-center =
