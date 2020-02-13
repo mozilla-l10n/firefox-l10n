@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = ਡੈਸਕਟਾਪ ਦੀ ਬੈਕਗਰਾਊਂਡ ਸੈੱਟ ਕਰੋ
 open-desktop-prefs =
     .label = ਡੈਸਕਟਾਪ ਪਸੰਦ ਖੋਲ੍ਹੋ
+set-background-preview-unavailable = ਝਲਕ ਉਪਲਬਧ ਨਹੀਂ
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = ਫੈਲਾਓ
 set-background-color = ਰੰਗ:
 set-background-position = ਸਥਿਤੀ:
 set-background-tile =
