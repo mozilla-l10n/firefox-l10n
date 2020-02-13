@@ -875,8 +875,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի այն հատվածները, որոնք ապահով չեն։">
 <!ENTITY identity.description.passiveLoaded "Ձեր կապը մասնաւոր չէ, եւ կայքի հետ կիսուող տեղեկութիւնները կարող են դիտուել ուրիշների կողմից:">
 <!ENTITY identity.description.passiveLoaded2 "Այս կայքը պարունակում է այնպիսի բովանդակութիւն որն ապահով չէ։ (աւր.՝ պատկերներ)։">
+<!ENTITY identity.description.activeLoaded "Այս կայքը պարունակում է այնպիսի բովանդակութիւն, որն ապահով չէ (աւրինակ ՝ գրութիւններ), եւ դրա հետ կապը մասնաւոր չէ:">
+<!ENTITY identity.description.activeLoaded2 "Տեղեկութիւններ, որոնք դուք կիսում եք այս կայքի հետ, կարող էին դիտուել ուրիշների կողմից (աւրինակ գաղտնաբառերը, հաղորդագրութիւնները, վարկային քարտերը եւ այլն):">
+<!ENTITY identity.description.customRoot "Mozilla- ն չի ճանաչում այս վկայագրի թողարկողը: Այն կարող է ավելացուել Ձեր գործաւար համակարգից կամ վարչարարի կողմից:">
 
+<!ENTITY identity.enableMixedContentBlocking.label "Միացնել պաշտպանութիւնը">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.label "Առայժմ անջատել պաշտպանութիւնը">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Իմանալ աւելին">
 
@@ -885,10 +890,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Աւելի տեղեկութիւն">
 
+<!ENTITY identity.clearSiteData "Մաքրել նշոցիկները եւ կայքի տուեալները…">
 
 <!ENTITY identity.permissions "Թոյլտուութիւններ">
 
 <!ENTITY identity.permissions3 "Թոյլտուութիւններ">
+<!ENTITY identity.permissionsEmpty "Դուք այս կայքէջին ոչ մի յատուկ թոյլտվութիւն չեք տվել:">
+<!ENTITY identity.permissionsReloadHint "Կարող է անհրաժեշտ լինել վերբեռնել էջը `փոփոխութիւնների համար:">
 
 
 <!-- LOCALIZATION NOTE:
