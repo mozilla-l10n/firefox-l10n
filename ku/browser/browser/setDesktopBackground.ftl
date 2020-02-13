@@ -16,3 +16,7 @@ set-background-center =
     .label = Navend
 set-background-stretch =
     .label = Fireh bike
+set-background-fill =
+    .label = Dagire
+set-background-fit =
+    .label = Lê bîne
