@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Nastavi ozadje namizja
 open-desktop-prefs =
     .label = Odpri nastavitve namizja
+set-background-preview-unavailable = Predogled ni na voljo
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
