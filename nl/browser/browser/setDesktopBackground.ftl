@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Bureaubladachtergrond instellen
 open-desktop-prefs =
     .label = Bureaubladvoorkeuren openen
+set-background-preview-unavailable = Voorbeeld niet beschikbaar
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
