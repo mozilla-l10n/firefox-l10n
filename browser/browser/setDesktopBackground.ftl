@@ -6,6 +6,15 @@ set-desktop-background-window =
     .title = Задаване като фон на работния плот
 set-desktop-background-accept =
     .label = Задаване като фон на работния плот
+open-desktop-prefs =
+    .label = Настройките на работния плот
+set-background-preview-unavailable = Прегледът е недостъпен
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Разпростиране
 set-background-color = Цвят:
 set-background-position = Местоположение:
 set-background-tile =
@@ -16,3 +25,5 @@ set-background-stretch =
     .label = Разтеглено
 set-background-fill =
     .label = Запълване
+set-background-fit =
+    .label = Побиране
