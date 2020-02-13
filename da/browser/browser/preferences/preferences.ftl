@@ -586,6 +586,11 @@ containers-header = Kontekst-faneblade
 containers-add-button =
     .label = Tilføj ny kontekst
     .accesskey = T
+
+containers-new-tab-check =
+    .label = Vælg en kontekst for hvert nyt faneblad
+    .accesskey = V
+
 containers-preferences-button =
     .label = Indstillinger
 containers-remove-button =

@@ -129,6 +129,8 @@ policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering
 
 policy-Permissions = Indstil tilladelser for kamera, mikrofon, position og beskeder.
 
+policy-Permissions2 = Indstil tilladelser for kamera, mikrofon, position, beskeder og automatisk afspilning.
+
 policy-PopupBlocking = Tillad bestemte websteder at vise pop op-vinduer som standard.
 
 policy-Preferences = Indstil og lås værdien for en undergruppe af indstillingerne.
@@ -155,6 +157,8 @@ policy-SSLVersionMax = Angiv den højeste SSL-version.
 policy-SSLVersionMin = Angiv den laveste SSL-version.
 
 policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
+
+policy-UserMessaging = Vis ikke bestemte beskeder til brugeren.
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloker websteder fra at blive besøgt. Se dokumentationen for detaljer om formatet.

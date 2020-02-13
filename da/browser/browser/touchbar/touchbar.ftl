@@ -9,6 +9,7 @@ forward = Frem
 reload = Genindlæs
 home = Hjem
 fullscreen = Fuld skærm
+touchbar-fullscreen-exit = Afslut fuld skærm
 find = Find
 new-tab = Nyt faneblad
 add-bookmark = Tilføj bogmærke
