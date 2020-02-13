@@ -7,3 +7,5 @@ set-background-tile =
     .label = శీర్షిక
 set-background-center =
     .label = మధ్య
+set-background-stretch =
+    .label = సాగదీయు
