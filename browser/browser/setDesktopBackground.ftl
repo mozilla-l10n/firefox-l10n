@@ -16,3 +16,7 @@ set-background-center =
     .label = Canol
 set-background-stretch =
     .label = Estyn
+set-background-fill =
+    .label = Llanw
+set-background-fit =
+    .label = Ffitio
