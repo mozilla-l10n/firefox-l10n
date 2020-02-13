@@ -16,3 +16,7 @@ set-background-center =
     .label = કેન્દ્ર
 set-background-stretch =
     .label = ખેંચો
+set-background-fill =
+    .label = ભરો
+set-background-fit =
+    .label = યોગ્ય
