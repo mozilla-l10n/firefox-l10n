@@ -6,3 +6,7 @@ set-desktop-background-window =
     .title = Uzlikt darbvirsmas fonu
 set-desktop-background-accept =
     .label = Uzlikt darbvirsmas fonu
+set-background-fill =
+    .label = Aizpildošs
+set-background-fit =
+    .label = Ietilpstošs
