@@ -897,6 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions3 "Թոյլտուութիւններ">
 <!ENTITY identity.permissionsEmpty "Դուք այս կայքէջին ոչ մի յատուկ թոյլտվութիւն չեք տվել:">
 <!ENTITY identity.permissionsReloadHint "Կարող է անհրաժեշտ լինել վերբեռնել էջը `փոփոխութիւնների համար:">
+<!ENTITY identity.permissionsPreferences.tooltip "Բացեք թոյլտվութիւնների նախասիրութիւնները">
 
 
 <!-- LOCALIZATION NOTE:
