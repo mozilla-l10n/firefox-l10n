@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = Kempenn drekleur ar burev
 open-desktop-prefs =
     .label = Digeriñ ma gwellvezioù evit ar burev{ " " }
+set-background-preview-unavailable = Alberz dihegerz
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Led
 set-background-color = Liv :
 set-background-position = Lec'hiadur :
 set-background-tile =
