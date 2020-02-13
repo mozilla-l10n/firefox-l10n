@@ -8,6 +8,12 @@ set-desktop-background-accept =
     .label = Сделать фоном рабочего стола
 open-desktop-prefs =
     .label = Открыть настройки рабочего стола
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Расширение
 set-background-color = Цвет:
 set-background-position = Расположение:
 set-background-tile =
