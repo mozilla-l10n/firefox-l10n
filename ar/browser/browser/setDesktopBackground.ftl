@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = اجعلها خلفيّة سطح المكتب
 open-desktop-prefs =
     .label = افتح تفضيلات سطح المكتب
+set-background-preview-unavailable = لا معاينة متاحة
 set-background-color = اللّون:
 set-background-position = الموضع:
 set-background-tile =
