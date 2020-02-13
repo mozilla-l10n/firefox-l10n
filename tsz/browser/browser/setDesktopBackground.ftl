@@ -15,4 +15,4 @@ set-background-stretch =
 set-background-fill =
     .label = Amanskani
 set-background-fit =
-    .label = Jatsirantani{ " " }
+    .label = Jatsirantani
