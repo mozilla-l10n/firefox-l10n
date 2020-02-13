@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Ange skrivbordsbakgrund
 open-desktop-prefs =
     .label = Öppna skrivbordsinställningarna
+set-background-preview-unavailable = Förhandsgranskning ej tillgänglig
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
