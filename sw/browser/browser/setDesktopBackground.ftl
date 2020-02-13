@@ -16,3 +16,7 @@ set-background-center =
     .label = Kati
 set-background-stretch =
     .label = Kunjua
+set-background-fill =
+    .label = Jaza
+set-background-fit =
+    .label = Toshea
