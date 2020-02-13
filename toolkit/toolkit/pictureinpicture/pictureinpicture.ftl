@@ -10,4 +10,6 @@ pictureinpicture-play =
 pictureinpicture-mute =
     .aria-label = 음소거
 pictureinpicture-unmute =
-    .aria-label = 소리 켜기
+    .aria-label = 음소거 해제
+pictureinpicture-close =
+    .aria-label = 닫기
