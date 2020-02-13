@@ -4,6 +4,8 @@
 
 open-desktop-prefs =
     .label = 打开桌面首选项
+set-background-color = 颜色：
+set-background-position = 位置：
 set-background-tile =
     .label = 平铺
 set-background-center =
