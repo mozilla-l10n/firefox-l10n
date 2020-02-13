@@ -188,6 +188,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyh
 newtab-pocket-read-more = Ñe'ẽmbyrã Ojehayhuvéva:
 newtab-pocket-more-recommendations = Hetave je’eporã
 newtab-pocket-whats-pocket = ¿Mba’e kóva { -pocket-brand-name }?
+newtab-pocket-learn-more = Kuaave
 newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
 newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
 
