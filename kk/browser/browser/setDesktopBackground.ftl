@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = Жұмыс үстелінің суреті ретінде орнату
 open-desktop-prefs =
     .label = Жұмыс үстелінің баптауларын ашу
+set-background-preview-unavailable = Алдын-ала қарау қолжетерсіз
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Созылуы
 set-background-color = Түсі:
 set-background-position = Орналасуы:
 set-background-tile =
