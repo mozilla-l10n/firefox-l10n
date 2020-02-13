@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = קביעה כרקע שולחן העבודה
 open-desktop-prefs =
     .label = פתיחת מאפייני שולחן עבודה
+set-background-preview-unavailable = התצוגה המקדימה אינה זמינה
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = פרישה
 set-background-color = צבע:
 set-background-position = מיקום:
 set-background-tile =
