@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Mokirirĩ
 pictureinpicture-unmute =
     .aria-label = Mba'epu mbojevy
+pictureinpicture-unpip =
+    .aria-label = Emondojey tendayképe
+pictureinpicture-close =
+    .aria-label = Mboty

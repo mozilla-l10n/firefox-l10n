@@ -89,6 +89,8 @@ graphics-crash-guards-title = Hesegua ojokóva Apopyvusu je'a Ñangarekoha
 graphics-workarounds-title = Ñemyatyrõ sapy'agua
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Ovetã raperekoite
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Mohendaha jeregua
 place-database-title = Mba'ekuaarã renda
 place-database-integrity = Tekoite
 place-database-verify-integrity = Tekoporã Jehechajey
