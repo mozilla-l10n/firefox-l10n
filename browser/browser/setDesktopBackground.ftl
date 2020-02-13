@@ -14,3 +14,7 @@ set-background-tile =
     .label = Neist inoar
 set-background-stretch =
     .label = Ferlingje
+set-background-fill =
+    .label = Utfolje
+set-background-fit =
+    .label = Passend meitsje
