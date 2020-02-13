@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = 設為桌布
 open-desktop-prefs =
     .label = 開啟桌面設定
+set-background-preview-unavailable = 無法提供預覽
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = 跨螢幕
 set-background-color = 色彩:
 set-background-position = 位置:
 set-background-tile =
