@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = డెస్క్‌టాపు  బ్యాక్‌గ్రౌండ్ అమర్చు
 open-desktop-prefs =
     .label = డెస్క్‌టాపు   అభీష్టాలను తెరువు
+set-background-preview-unavailable = మునుజూపు అందుబాటులో లేదు
 set-background-color = రంగు:
 set-background-position = స్థాయి:
 set-background-tile =
