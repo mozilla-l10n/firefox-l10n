@@ -49,7 +49,7 @@ newtab-topsites-add-button = Adicionar
 
 newtab-confirm-delete-history-p1 = Tem a certeza de que deseja apagar todas as instâncias desta página do seu histórico?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = Esta ação não pode ser desfeita.
+newtab-confirm-delete-history-p2 = Esta ação não pode ser anulada.
 
 ## Context Menu - Action Tooltips.
 
@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oops! Quase carregámos es
 newtab-pocket-read-more = Tópicos populares:
 newtab-pocket-more-recommendations = Mais recomendações
 newtab-pocket-whats-pocket = O que é o { -pocket-brand-name }?
+newtab-pocket-learn-more = Saber mais
 newtab-pocket-cta-button = Obter o { -pocket-brand-name }
 newtab-pocket-cta-text = Guarde as histórias que adora no { -pocket-brand-name }, e abasteça a sua mente com leituras fascinantes.
 

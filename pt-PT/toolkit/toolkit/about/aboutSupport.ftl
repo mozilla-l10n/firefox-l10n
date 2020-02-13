@@ -53,7 +53,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Plugins ativados
 app-basics-build-config = Configuração da compilação
-app-basics-user-agent = User Agent
+app-basics-user-agent = Agente do utilizador
 app-basics-os = SO
 app-basics-memory-use = Utilização da memória
 app-basics-performance = Desempenho
@@ -92,6 +92,8 @@ graphics-crash-guards-title = Funcionalidades desativadas do Crash Guard
 graphics-workarounds-title = Alternativas
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocolo de janela
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Ambiente gráfico
 place-database-title = Base de dados de locais
 place-database-integrity = Integridade
 place-database-verify-integrity = Verificar integridade
