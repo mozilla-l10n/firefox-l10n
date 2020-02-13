@@ -89,6 +89,8 @@ graphics-crash-guards-title = Nodweddion Crash Guard wedi ei Analluogi
 graphics-workarounds-title = Dulliau Datrys
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocol Ffenestr
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Amgylchedd Bwrdd Gwaith
 place-database-title = Cronfa Ddata Mannau
 place-database-integrity = Cyfanrwydd
 place-database-verify-integrity = Gwirio Cyfanrwydd

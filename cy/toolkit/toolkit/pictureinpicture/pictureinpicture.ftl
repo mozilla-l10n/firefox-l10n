@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Tewi
 pictureinpicture-unmute =
     .aria-label = Dad dewi
+pictureinpicture-unpip =
+    .aria-label = Anfon nôl i'r tab
+pictureinpicture-close =
+    .aria-label = Cau
