@@ -161,7 +161,7 @@
 <!ENTITY settings "Կարգավորումներ">
 <!ENTITY settings_title "Կարգավորումներ">
 <!ENTITY pref_category_general "Գլխավոր">
-<!ENTITY pref_category_general_summary3 "Տուն, լեզուն, ներդիրների հերթը">
+<!ENTITY pref_category_general_summary3 "Տուն, լեզու, ներդիրների հերթը">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
