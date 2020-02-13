@@ -14,3 +14,5 @@ set-background-tile =
     .label = Mosaic
 set-background-center =
     .label = Centre
+set-background-fit =
+    .label = Ajusta
