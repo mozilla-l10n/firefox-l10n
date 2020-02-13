@@ -7,3 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Elimine el campo { $type }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type =
+    { $count ->
+        [0] Campo de entrada { $type } vacío
+        [one] { $type } campo de entrada con una dirección
+       *[other] { $type } campo de entrada con { $count } direcciones
+    }
