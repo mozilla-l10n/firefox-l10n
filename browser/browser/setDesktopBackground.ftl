@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+set-desktop-background-window =
+    .title = Ορισμός ταπετσαρίας επιφάνειας εργασίας
+set-desktop-background-accept =
+    .label = Ορισμός ταπετσαρίας επιφάνειας εργασίας
 open-desktop-prefs =
     .label = Άνοιγμα προτιμήσεων επιφάνειας εργασίας
 set-background-color = Χρώμα:
