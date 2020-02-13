@@ -23,3 +23,7 @@ set-background-center =
     .label = Merkez
 set-background-stretch =
     .label = Genişlet
+set-background-fill =
+    .label = Doldur
+set-background-fit =
+    .label = Sığdır
