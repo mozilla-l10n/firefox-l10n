@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = Դարձնել Աշխատասեղանի պաստառ
 open-desktop-prefs =
     .label = Բացել Աշխատասեղանի կարգավորումները
+set-background-preview-unavailable = Նախադիտումը անհասանելի է
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Ընդգրկույթ
 set-background-color = Գույնը.
 set-background-position = Դիրքը.
 set-background-tile =
