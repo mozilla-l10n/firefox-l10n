@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Silenciar
 pictureinpicture-unmute =
     .aria-label = Ativar som
+pictureinpicture-unpip =
+    .aria-label = Enviar de volta à aba
+pictureinpicture-close =
+    .aria-label = Fechar
