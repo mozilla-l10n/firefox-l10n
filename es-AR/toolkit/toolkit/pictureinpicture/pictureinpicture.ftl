@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Mudo
 pictureinpicture-unmute =
     .aria-label = Unmute
+pictureinpicture-unpip =
+    .aria-label = Enviar de vuelta a la pestaña
+pictureinpicture-close =
+    .aria-label = Cerrar
