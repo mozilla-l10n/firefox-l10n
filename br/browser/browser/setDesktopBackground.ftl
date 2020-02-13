@@ -7,7 +7,7 @@ set-desktop-background-window =
 set-desktop-background-accept =
     .label = Kempenn drekleur ar burev
 open-desktop-prefs =
-    .label = Digeriñ ma gwellvezioù evit ar burev{ " " }
+    .label = Digeriñ ma gwellvezioù evit ar burev
 set-background-preview-unavailable = Alberz dihegerz
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
