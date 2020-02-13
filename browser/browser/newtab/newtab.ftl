@@ -191,6 +191,7 @@ newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a lwytho'r adran
 newtab-pocket-read-more = Pynciau Poblogaidd:
 newtab-pocket-more-recommendations = Rhagor o Argymhellion
 newtab-pocket-whats-pocket = Beth yw { -pocket-brand-name }?
+newtab-pocket-learn-more = Dysgu rhagor
 newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.
 

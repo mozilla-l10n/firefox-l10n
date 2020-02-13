@@ -88,5 +88,6 @@ policy-SecurityDevices = Gosod modiwlau PKCS #11.
 policy-SSLVersionMax = Gosodwch y fersiwn SSL uchaf.
 policy-SSLVersionMin = Gosodwch y fersiwn SSL lleiaf.
 policy-SupportMenu = Ychwanegu eitem ddewislen cymorth cyfaddas i'r ddewislen cymorth.
+policy-UserMessaging = Peidio â dangos rhai negeseuon i'r defnyddiwr.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Rhwystro gwefannau rhag derbyn ymweliadau. Gw. dogfennaeth am ragor o wybodaeth ar y fformat.
