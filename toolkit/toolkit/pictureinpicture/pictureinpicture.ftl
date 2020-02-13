@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = 静音
 pictureinpicture-unmute =
     .aria-label = 恢复声音
+pictureinpicture-unpip =
+    .aria-label = 返回标签页
+pictureinpicture-close =
+    .aria-label = 关闭
