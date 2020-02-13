@@ -12,3 +12,5 @@ set-background-color = Cor:
 set-background-position = Posição:
 set-background-center =
     .label = Centralizado
+set-background-stretch =
+    .label = Toda a tela
