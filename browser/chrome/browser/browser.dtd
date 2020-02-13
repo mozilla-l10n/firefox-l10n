@@ -176,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Konto-indstillinger">
 <!ENTITY fxa.menu.manageAccount2.label "Håndter konto">
 <!ENTITY fxa.menu.signOut.label "Log ud…">
-<!ENTITY fxa.menu.deviceSettings.label "Enheds-indstillinger">
 <!ENTITY fxa.menu.setupSync.label "Opsæt &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services

@@ -142,6 +142,11 @@ newtab-label-recommended = Populært
 newtab-label-saved = Gemt til { -pocket-brand-name }
 newtab-label-download = Hentet
 
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponsoreret
+
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
@@ -196,6 +201,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at 
 newtab-pocket-read-more = Populære emner:
 newtab-pocket-more-recommendations = Flere anbefalinger
 newtab-pocket-whats-pocket = Hvad er { -pocket-brand-name }?
+newtab-pocket-learn-more = Læs mere
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.
 
