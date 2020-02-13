@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Сделать фоном рабочего стола
 open-desktop-prefs =
     .label = Открыть настройки рабочего стола
+set-background-preview-unavailable = Предпросмотр недоступен
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
