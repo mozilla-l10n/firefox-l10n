@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Ներմուծման Օգնական">
 
-<!ENTITY importFrom.label               "Ներմուծել Ընտրանքները, Էջանիշերը, Պատմությունը, Գաղտնաբառերը և այլ տվյալներ այստեղից՝">
-<!ENTITY importFromUnix.label           "Ներմուծել Կարգավորումները, էջանիշները, Գաղտնաբառերը և այլ տվյալներ՝">
+<!ENTITY importFrom.label               "Ներմուծել ընտրանքները, էջանիշերը, պատմությունը, գաղտնաբառերը և այլ տվյալներ այստեղից՝">
+<!ENTITY importFromUnix.label           "Ներմուծել կարգավորումները, էջանիշները, գաղտնաբառերը և այլ տվյալներ՝">
 <!ENTITY importFromBookmarks.label      "Ներմուծել էջանիշները՝">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer-­ից">

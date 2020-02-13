@@ -14,9 +14,9 @@
 <!ENTITY downloads.width                  "70ch">
 
 <!ENTITY cmd.pause.label                  "Ընդմիջել">
-<!ENTITY cmd.pause.accesskey              "դ">
+<!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Շարունակել">
-<!ENTITY cmd.resume.accesskey             "Շ">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Չեղարկել">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
@@ -24,7 +24,7 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Բացել թղթապանակը">
-<!ENTITY cmd.show.accesskey               "Բ">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Ցուցադրել Finder-ում">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.showDownloads.label          "Ցուցադրել Ներբեռնումների թղթապանակը">
@@ -104,7 +104,7 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "Ցուցադրել բոլոր ներբեռնումները">
-<!ENTITY downloadsHistory.accesskey       "Ց">
+<!ENTITY downloadsHistory.accesskey       "S">
 
 <!-- LOCALIZATION NOTE (downloadDetails.label):
      This string is shown at the top of the Download Details Panel, to indicate
