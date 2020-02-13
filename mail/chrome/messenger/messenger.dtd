@@ -35,7 +35,9 @@
 <!ENTITY newMessageCmd.accesskey "m">
 <!ENTITY newContactCmd.label "Contacto de la libreta de direcciones…">
 <!ENTITY newContactCmd.accesskey "C">
-<!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
+<!ENTITY openMenuCmd.label "Abrir">
+<!ENTITY openMenuCmd.accesskey "A">
+<!ENTITY openMessageFileCmd.label "Mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Guardar como">
 <!ENTITY saveAsMenu.accesskey "G">
