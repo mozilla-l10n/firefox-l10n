@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = Ako desktopowu slězynu nastajiś
 open-desktop-prefs =
     .label = Nastajenja desktopa wócyniś
+set-background-preview-unavailable = Pśeglěd k dispoziciji njestoj
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Rozćěgnuś
 set-background-color = Barwa:
 set-background-position = Pozicija:
 set-background-tile =
