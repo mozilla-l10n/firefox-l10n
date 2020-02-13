@@ -8,6 +8,12 @@ set-desktop-background-accept =
     .label = Nastavi ozadje namizja
 open-desktop-prefs =
     .label = Odpri nastavitve namizja
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Razpon
 set-background-color = Barva:
 set-background-position = Položaj:
 set-background-tile =
