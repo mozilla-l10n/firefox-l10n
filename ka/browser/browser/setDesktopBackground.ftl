@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = სამუშაო ეკრანის ფონად გამოყენება
 open-desktop-prefs =
     .label = სამუშაო ეკრანის პარამეტრები
+set-background-preview-unavailable = შეთვალიერება შეუძლებელია
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = გაშლა
 set-background-color = ფერი:
 set-background-position = განთავსება:
 set-background-tile =
