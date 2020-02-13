@@ -1,0 +1,22 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+set-desktop-background-window =
+    .title = डेस्कटप सावगारिनि उनथिं थानायखौ फज
+set-desktop-background-accept =
+    .label = डेस्कटप सावगारिनि उनथिं थानायखौ फज
+open-desktop-prefs =
+    .label = डेस्कटप पसन्दफोरखौ खेव
+set-background-color = गाब:
+set-background-position = जायगा:
+set-background-tile =
+    .label = टाइल{ " " }
+set-background-center =
+    .label = मिरु
+set-background-stretch =
+    .label = फेहेरनाय
+set-background-fill =
+    .label = आबुं
+set-background-fit =
+    .label = फिट
