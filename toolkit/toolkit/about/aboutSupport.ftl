@@ -89,6 +89,8 @@ graphics-crash-guards-title = Funkcije, kotrež su so wot spadoweho stražnika z
 graphics-workarounds-title = Nuzowe rozrisanja
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Woknowy protokol
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Desktopowa wokolina
 place-database-title = Datowa banka historije a zapołožkow
 place-database-integrity = Integrita
 place-database-verify-integrity = Integritu přepruwować
