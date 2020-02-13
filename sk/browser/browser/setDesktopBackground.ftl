@@ -6,3 +6,7 @@ set-desktop-background-window =
     .title = Nastaviť pozadie plochy
 set-desktop-background-accept =
     .label = Nastaviť pozadie plochy
+set-background-fill =
+    .label = Vyplniť
+set-background-fit =
+    .label = Prispôsobiť
