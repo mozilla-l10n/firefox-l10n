@@ -942,6 +942,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Այս կայքի բոլոր հետքերը բեռնուած են, քանի որ պաշտպանութիւնն անջատուած է։">
 <!ENTITY protections.noTrackersFound.description "Ոչ մի յայտնի հետապնդումներ &brandShortName; չեն յայտնաբերուել այս էջում։">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Այս նշոցիները հետեւում են Ձեզ կայքից կայք տուեալներ հաւաքելու այն մասին թէ ինչ եք անում Դուք առցանց։ Դրանք սահմանուած են երրորդ անձանց կողմից ինչպիսիք են՝ գովազդատուները եւ վերլուծական ընկերութիւնները։">
+<!ENTITY protections.cryptominers.description "Գաղտնազերծիչները աւգտագործում են Ձեր համակարգի հաշուարկային ուժը թուային փողը հանելու համար։ Գաղտնազերծիչի սցենարները չորացնում են Ձեր մարտկոցը, դանդաղեցնում Ձեր համակարգիչը եւ կարող են մեծացնել Ձեր էներգիայի հաշիւը։">
+<!ENTITY protections.fingerprinters.description "Մատնահետքերը հաւաքում են կարգաւորումներ Ձեր զննարկչից եւ համակարգչից Ձեր հատկագիրը ստեղծելու համար։ Աւգտագործելով այս թուային մատնահետքը, նրանք կարող են հետեւել Ձեզ տարբեր կայքերի միջով։">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
