@@ -9,6 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Vula Izikhethwa Ezikulwazi Oluseskrinini
 set-background-color = Umbala:
+set-background-position = Indawo:
 set-background-tile =
     .label = Ithayili
 set-background-center =
