@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+set-desktop-background-window =
+    .title = ਡੈਸਕਟਾਪ ਦੀ ਬੈਕਗਰਾਊਂਡ ਸੈੱਟ ਕਰੋ
+set-desktop-background-accept =
+    .label = ਡੈਸਕਟਾਪ ਦੀ ਬੈਕਗਰਾਊਂਡ ਸੈੱਟ ਕਰੋ
 open-desktop-prefs =
     .label = ਡੈਸਕਟਾਪ ਪਸੰਦ ਖੋਲ੍ਹੋ
 set-background-color = ਰੰਗ:
