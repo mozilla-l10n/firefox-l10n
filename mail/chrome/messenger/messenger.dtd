@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "n">
 <!ENTITY  newContactCmd.label "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Agor">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Agor Neges Wedi'i Chadw…">
 <!ENTITY openMessageFileCmd.accesskey "s">
 <!ENTITY saveAsMenu.label "Cadw Fel">
