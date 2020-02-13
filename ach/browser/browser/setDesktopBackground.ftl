@@ -8,3 +8,5 @@ set-background-tile =
     .label = Matangula
 set-background-center =
     .label = Dyere
+set-background-fill =
+    .label = Pik
