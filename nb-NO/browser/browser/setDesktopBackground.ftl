@@ -16,3 +16,7 @@ set-background-center =
     .label = Midtstilt
 set-background-stretch =
     .label = Strukket
+set-background-fill =
+    .label = Fyll
+set-background-fit =
+    .label = Pass
