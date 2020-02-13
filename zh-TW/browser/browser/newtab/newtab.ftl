@@ -182,6 +182,7 @@ newtab-discovery-empty-section-topstories-timed-out = 唉呀，暫時無法載�
 newtab-pocket-read-more = 熱門主題:
 newtab-pocket-more-recommendations = 更多推薦項目
 newtab-pocket-whats-pocket = { -pocket-brand-name } 是什麼？
+newtab-pocket-learn-more = 了解更多
 newtab-pocket-cta-button = 取得 { -pocket-brand-name }
 newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }，閱讀一篇篇好文章。
 
