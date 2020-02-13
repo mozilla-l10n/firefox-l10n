@@ -906,14 +906,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Հետապնդումից ընդլայնուած պաշտպանութեան մասին լրացուցիչ տեղեկութիւններ">
 <!ENTITY protections.settings.label "Պաշտպանութեան կարգաւորումներ">
+<!ENTITY protections.showreport.label "Ցոյց տալ զեկոյց">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Կայքը չի՞ աշխատում։">
+<!ENTITY protections.siteNotWorkingView.title "Կայքը չի՞ աշխատում։">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Անջատէք պաշտպանութիւնները, եթե խնդիրներ ունէք.">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Մուտքի դաշտերը">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Ձեւեր">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Վճարումներ">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Մեկնաբանութիւններ">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Տեսանիւթեր">
@@ -934,6 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "Ինչո՞ւ։">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Դրանց արգելափակումը կարող է կոտրել որոշ կայքերի տարրեր։ Առանց որոնիչների, որոշ կոճակներ, ձեւեր եւ մուտքային դաշտեր կարող են չգործել։">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Այս կայքի բոլոր հետքերը բեռնուած են, քանի որ պաշտպանութիւնն անջատուած է։">
+<!ENTITY protections.noTrackersFound.description "Ոչ մի յայտնի հետապնդումներ &brandShortName; չեն յայտնաբերուել այս էջում։">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
