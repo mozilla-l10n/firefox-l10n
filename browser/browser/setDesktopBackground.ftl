@@ -9,6 +9,7 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Fosgail roghainnean an deasg
 set-background-color = Dath:
+set-background-position = Ionad:
 set-background-tile =
     .label = Leacaich
 set-background-center =
