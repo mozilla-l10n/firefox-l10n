@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Bjez zynka
 pictureinpicture-unmute =
     .aria-label = Ze zynkom
+pictureinpicture-unpip =
+    .aria-label = K rajtarkej wróćo pósłać
+pictureinpicture-close =
+    .aria-label = Začinić

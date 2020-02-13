@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy tutón wotrězk
 newtab-pocket-read-more = Woblubowane temy:
 newtab-pocket-more-recommendations = Dalše doporučenja
 newtab-pocket-whats-pocket = Što je { -pocket-brand-name }?
+newtab-pocket-learn-more = Dalše informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
 newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -pocket-brand-name } a žiwće swój duch z fascinowacymi čitančkami.
 

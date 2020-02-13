@@ -88,5 +88,6 @@ policy-SecurityDevices = Module PKCS #11 instalować.
 policy-SSLVersionMax = Nastajće maksimalnu SSL-wersiju.
 policy-SSLVersionMin = Nastajće minimalnu SSL-wersiju.
 policy-SupportMenu = Swójski menijowy zapisk pomocy menijej pomocy přidać.
+policy-UserMessaging = Wužiwarjej wěste powěsće njepokazać
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Wopytowanju websydłow zadźěwać. Hlejće dokumentaciju za dalše podrobnosće wo formaće.
