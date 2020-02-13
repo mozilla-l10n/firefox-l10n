@@ -9,3 +9,5 @@ set-background-center =
     .label = మధ్య
 set-background-stretch =
     .label = సాగదీయు
+set-background-fill =
+    .label = నింపు
