@@ -8,6 +8,14 @@ set-desktop-background-accept =
     .label = ডেস্কটপের পটভূমি নির্ধারণ
 open-desktop-prefs =
     .label = ডেস্কটপ সংক্রান্ত পছন্দসমূহ
+set-background-preview-unavailable = প্রাকদর্শন নেই
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = স্প্যান
+set-background-color = রঙ:
 set-background-position = অবস্থান:
 set-background-tile =
     .label = টালি
