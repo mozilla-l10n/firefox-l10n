@@ -12,3 +12,7 @@ set-background-center =
     .label = Κέντρο
 set-background-stretch =
     .label = Τέντωμα
+set-background-fill =
+    .label = Γέμισμα
+set-background-fit =
+    .label = Προσαρμογή
