@@ -88,5 +88,6 @@ policy-SecurityDevices = 安裝 PKCS #11 模組。
 policy-SSLVersionMax = 設定最大 SSL 版本。
 policy-SSLVersionMin = 設定最小 SSL 版本。
 policy-SupportMenu = 於說明選單內新增自訂的技術支援項目。
+policy-UserMessaging = 不要對使用者顯示某些訊息。
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 封鎖網站，不讓使用者開啟。請參考文件取得設定格式的詳細資料。

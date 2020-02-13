@@ -92,6 +92,8 @@ graphics-crash-guards-title = 因 Crash Guard 停用的功能
 graphics-workarounds-title = Workarounds
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = 視窗通訊協定
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = 桌面環境
 place-database-title = Places 資料庫
 place-database-integrity = 資料完整
 place-database-verify-integrity = 確認資料完整
@@ -139,7 +141,7 @@ media-capabilities-title = 媒體能力
 # List all the entries of the database.
 media-capabilities-enumerate = 列舉資料庫
 
-
+##
 
 intl-title = 國際化與在地化
 intl-app-title = 應用程式設定
@@ -164,7 +166,7 @@ remote-debugging-title = 遠端除錯（Chromium 通訊協定）
 remote-debugging-accepting-connections = 接受連線
 remote-debugging-url = 網址
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
