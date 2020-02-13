@@ -88,6 +88,8 @@ graphics-crash-guards-title = Kaatumisvahdin käytöstä poistamat ominaisuudet
 graphics-workarounds-title = Hätäratkaisut
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Ikkunointiprotokolla
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Työpöytäympäristö
 place-database-title = Places-tietokanta
 place-database-integrity = Virheettömyys
 place-database-verify-integrity = Tarkista virheettömyys
