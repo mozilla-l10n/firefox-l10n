@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "z">
 <!ENTITY  newContactCmd.label "Névjegy…">
 <!ENTITY  newContactCmd.accesskey "N">
+<!ENTITY openMenuCmd.label "Megnyitás">
+<!ENTITY openMenuCmd.accesskey "M">
 <!ENTITY openMessageFileCmd.label "Mentett üzenet megnyitása…">
 <!ENTITY openMessageFileCmd.accesskey "e">
 <!ENTITY saveAsMenu.label "Mentés másként">
