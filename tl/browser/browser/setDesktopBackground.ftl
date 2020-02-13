@@ -7,3 +7,5 @@ set-desktop-background-window =
 set-desktop-background-accept =
     .label = Gawing Background ng Desktop
 set-background-color = Kulay:
+set-background-tile =
+    .label = Tile
