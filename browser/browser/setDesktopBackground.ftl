@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Establecer fondo de escritorio
 open-desktop-prefs =
     .label = Abrir preferencias de escritorio
+set-background-preview-unavailable = Vista previa no disponible
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
