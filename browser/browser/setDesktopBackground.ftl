@@ -8,6 +8,12 @@ set-desktop-background-accept =
     .label = デスクトップの背景に設定
 open-desktop-prefs =
     .label = デスクトップの設定を開く
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = スパン
 set-background-color = 背景色:
 set-background-position = 位置:
 set-background-tile =
