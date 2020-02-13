@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "P">
 <!ENTITY  newContactCmd.label "Kontakt adresnika…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Wócyniś">
+<!ENTITY openMenuCmd.accesskey "c">
 <!ENTITY openMessageFileCmd.label "Skłaźonu powěsć wócyniś…">
 <!ENTITY openMessageFileCmd.accesskey "k">
 <!ENTITY saveAsMenu.label "Składowaś ako">
