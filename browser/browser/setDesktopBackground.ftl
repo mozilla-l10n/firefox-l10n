@@ -16,3 +16,7 @@ set-background-center =
     .label = مرکز
 set-background-stretch =
     .label = کشیده
+set-background-fill =
+    .label = پرکردن
+set-background-fit =
+    .label = اندازه کردن
