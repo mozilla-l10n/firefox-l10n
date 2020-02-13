@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "P">
 <!ENTITY  newContactCmd.label "Kontakt adresnika…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Wočinić">
+<!ENTITY openMenuCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Składowanu powěsć wočinić…">
 <!ENTITY openMessageFileCmd.accesskey "S">
 <!ENTITY saveAsMenu.label "Składować jako">
