@@ -174,6 +174,7 @@ newtab-discovery-empty-section-topstories-loading = בטעינה…
 newtab-pocket-read-more = נושאים פופולריים:
 newtab-pocket-more-recommendations = המלצות נוספות
 newtab-pocket-whats-pocket = מה זה { -pocket-brand-name }?
+newtab-pocket-learn-more = מידע נוסף
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
 
