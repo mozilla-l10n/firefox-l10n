@@ -42,6 +42,7 @@
 <!ENTITY  newMessageCmd.accesskey "S">
 <!ENTITY  newContactCmd.label "Stik iz imenika …">
 <!ENTITY  newContactCmd.accesskey "t">
+<!ENTITY openMenuCmd.label "Odpri">
 <!ENTITY openMessageFileCmd.label "Odpri shranjeno sporočilo …">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Shrani kot">
