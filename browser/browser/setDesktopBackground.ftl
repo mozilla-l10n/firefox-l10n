@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = ডেস্কটপের পটভূমি নির্ধারণ
 open-desktop-prefs =
     .label = ডেস্কটপ সংক্রান্ত পছন্দসমূহ
+set-background-color = রঙ:
 set-background-position = অবস্থান:
 set-background-tile =
     .label = টালি
