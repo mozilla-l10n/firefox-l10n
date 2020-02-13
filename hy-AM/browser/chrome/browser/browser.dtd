@@ -714,13 +714,13 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.label     "Նվագարկելու արագություն">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Դանդաղ (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "Դ">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Նորմալ">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Արագ (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "Ա">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "Ավելի արագ (1,5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "ա">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
@@ -787,23 +787,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Փակել">
-<!ENTITY quitApplicationCmd.accesskey   "Փ">
+<!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Փակել &brandShorterName;-ը">
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Փակել">
 
 <!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "Փ">
+<!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
-<!ENTITY pageStyleMenu.label "Էջի Ոճը">
-<!ENTITY pageStyleMenu.accesskey "ճ">
-<!ENTITY pageStyleNoStyle.label "Առանց Ոճի">
-<!ENTITY pageStyleNoStyle.accesskey "Ա">
-<!ENTITY pageStylePersistentOnly.label "Օգտագործել Էջի Հիմնական Ոճը">
-<!ENTITY pageStylePersistentOnly.accesskey "Օ">
+<!ENTITY pageStyleMenu.label "Էջի ոճը">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "Առանց ոճի">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "Էջի հիմնական ոճ">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -811,27 +811,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Խմբագրել Pop-up-ի արգելման կարգավորումները…">
 <!ENTITY editPopupSettings.label "Խմբագրել Pop-up-ի արգելման ընտրանքները…">
-<!ENTITY editPopupSettings.accesskey "Խ">
+<!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Փոխել Էջի Ուղղությունը">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "Ո">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Փոխել Տեքստի Ուղղությունը">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ո">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Փոխել էջի ուղղությունը">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Փոխել գրույթի ուղղությունը">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Որոնում էջում…">
-<!ENTITY findOnCmd.accesskey "Ո">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Կրկին Որոնել">
-<!ENTITY findAgainCmd.accesskey "Ո">
+<!ENTITY findAgainCmd.label  "Կրկին որոնել">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Ավելացնել Բառարաններ...">
-<!ENTITY spellAddDictionaries.accesskey "Ա">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
@@ -1038,7 +1038,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Ցուցադրել բոլորը">
-<!ENTITY pluginNotification.showAll.accesskey "Ց">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1049,7 +1049,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Փակել">
 
-<!ENTITY panicButton.thankyou.msg1                "Վերջին պատմությունը մա,քրվել է:">
+<!ENTITY panicButton.thankyou.msg1                "Վերջին պատմությունը մաքրվել է։">
 <!ENTITY panicButton.thankyou.msg2                "Անվտանգ դիտարկում:">
 <!ENTITY panicButton.thankyou.buttonlabel         "Շնորհակալություն:">
 
