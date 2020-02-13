@@ -16,3 +16,7 @@ set-background-center =
     .label = Centrirano
 set-background-stretch =
     .label = Razvučeno
+set-background-fill =
+    .label = Popuni
+set-background-fit =
+    .label = Prilagodi
