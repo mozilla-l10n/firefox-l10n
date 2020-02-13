@@ -16,3 +16,7 @@ set-background-center =
     .label = କେନ୍ଦ୍ର
 set-background-stretch =
     .label = ବିସ୍ତୃତି
+set-background-fill =
+    .label = ପୁରଣ କରନ୍ତୁ
+set-background-fit =
+    .label = ଖାପ ଖୁଆନ୍ତୁ
