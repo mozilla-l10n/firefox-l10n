@@ -8,6 +8,12 @@ set-desktop-background-accept =
     .label = ڈیسک ٹاپ کا وال پیپر سیٹ کیجیے
 open-desktop-prefs =
     .label = ڈیسک ٹاپ ترجیحات کھولیں
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = غیر متعلقہ
 set-background-color = رنگ:
 set-background-position = مقام:
 set-background-tile =
