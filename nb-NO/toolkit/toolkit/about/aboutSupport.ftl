@@ -89,6 +89,8 @@ graphics-crash-guards-title = Krasjvern avslåtte funksjoner
 graphics-workarounds-title = Midlertidige løsninger
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokoll for vindusbehandler
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Skrivebordsmiljø
 place-database-title = Plasser-database
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifiser integritet
@@ -136,7 +138,7 @@ media-capabilities-title = Mediefunksjoner
 # List all the entries of the database.
 media-capabilities-enumerate = Telle opp databasen
 
-
+##
 
 intl-title = Internasjonalisering og lokalisering
 intl-app-title = Programinnstillinger
@@ -161,7 +163,7 @@ remote-debugging-title = Ekstern feilsøking (Chromium-protokoll)
 remote-debugging-accepting-connections = Godta tilkoblinger
 remote-debugging-url = Nettadresse
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
