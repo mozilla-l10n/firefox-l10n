@@ -8,6 +8,12 @@ set-desktop-background-accept =
     .label = डेस्कटप सावगारिनि उनथिं थानायखौ फज
 open-desktop-prefs =
     .label = डेस्कटप पसन्दफोरखौ खेव
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = स्पेन
 set-background-color = गाब:
 set-background-position = जायगा:
 set-background-tile =
