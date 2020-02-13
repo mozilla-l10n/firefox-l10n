@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = Setează fundalul pentru desktop
 open-desktop-prefs =
     .label = Deschide preferințele desktop
+set-background-preview-unavailable = Previzualizare indisponibilă
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Extindere
 set-background-color = Culoare:
 set-background-position = Poziție:
 set-background-tile =
