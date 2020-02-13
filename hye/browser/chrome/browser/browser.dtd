@@ -387,7 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Նշել բոլորը">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
-<!ENTITY preferencesCmd2.label       "Կարգաւորումներ">
+<!ENTITY preferencesCmd2.label       "Ընտրանքներ">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Նախըտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
