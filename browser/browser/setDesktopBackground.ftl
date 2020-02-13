@@ -8,6 +8,12 @@ set-desktop-background-accept =
     .label = Ange skrivbordsbakgrund
 open-desktop-prefs =
     .label = Öppna skrivbordsinställningarna
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Sträck över
 set-background-color = Färg:
 set-background-position = Position:
 set-background-tile =
