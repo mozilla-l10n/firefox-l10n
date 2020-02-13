@@ -14,3 +14,7 @@ set-background-center =
     .label = Centralizado
 set-background-stretch =
     .label = Toda a tela
+set-background-fill =
+    .label = Preencher
+set-background-fit =
+    .label = Ajustar
