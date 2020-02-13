@@ -7,5 +7,7 @@ set-desktop-background-window =
 set-desktop-background-accept =
     .label = Vel som skrivebordsbakgrunn
 set-background-color = Farge:
+set-background-tile =
+    .label = Side ved side
 set-background-center =
     .label = Midtstill
