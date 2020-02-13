@@ -5,7 +5,7 @@
 <!ENTITY playButton.playLabel "재생">
 <!ENTITY playButton.pauseLabel "정지">
 <!ENTITY muteButton.muteLabel "음소거">
-<!ENTITY muteButton.unmuteLabel "소리 켜기">
+<!ENTITY muteButton.unmuteLabel "음소거 해제">
 <!ENTITY fullscreenButton.enterfullscreenlabel "전체 화면 표시">
 <!ENTITY fullscreenButton.exitfullscreenlabel "전체 화면 종료">
 <!ENTITY castingButton.castingLabel "화면으로 출력">

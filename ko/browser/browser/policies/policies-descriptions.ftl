@@ -88,5 +88,6 @@ policy-SecurityDevices = PKCS #11 모듈을 설치합니다.
 policy-SSLVersionMax = 최대 SSL 버전을 설정합니다.
 policy-SSLVersionMin = 최소 SSL 버전을 설정합니다.
 policy-SupportMenu = 도움말 메뉴에 사용자 지정 지원 메뉴 항목을 추가합니다.
+policy-UserMessaging = 사용자에게 특정 메시지를 표시하지 않습니다.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = 특정 웹사이트 방문을 차단합니다. 자세한 형식에 대해서는 문서를 참고하세요.

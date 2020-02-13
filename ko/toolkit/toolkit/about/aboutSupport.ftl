@@ -92,6 +92,8 @@ graphics-crash-guards-title = 크래시 보호 비활성화 기능
 graphics-workarounds-title = 임시방편
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = 윈도우 프로토콜
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = 데스크톱 환경
 place-database-title = 위치 데이터베이스
 place-database-integrity = 무결성
 place-database-verify-integrity = 무결성 확인
