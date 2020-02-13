@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy womało zacytal
 newtab-pocket-read-more = Woblubowane temy:
 newtab-pocket-more-recommendations = Dalšne pórucenja
 newtab-pocket-whats-pocket = Co jo { -pocket-brand-name }?
+newtab-pocket-learn-more = Dalšne informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstaraś
 newtab-pocket-cta-text = Składujśo tšojeńka, kótarež se wam spódobuju, w { -pocket-brand-name } a žywśo swój duch z fasciněrujucymi cytańkami.
 
