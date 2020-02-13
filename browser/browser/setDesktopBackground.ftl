@@ -16,3 +16,7 @@ set-background-center =
     .label = Középre
 set-background-stretch =
     .label = Nyújtás
+set-background-fill =
+    .label = Kitöltés
+set-background-fit =
+    .label = Illesztés
