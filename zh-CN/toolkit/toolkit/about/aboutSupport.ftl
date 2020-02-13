@@ -92,6 +92,8 @@ graphics-crash-guards-title = 被崩溃守卫禁用的功能
 graphics-workarounds-title = 变通方法
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = 窗口协议
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = 桌面环境
 place-database-title = Places 数据库
 place-database-integrity = 完整性
 place-database-verify-integrity = 验证完整性
