@@ -16,3 +16,7 @@ set-background-center =
     .label = Diggal
 set-background-stretch =
     .label = Tawwi
+set-background-fill =
+    .label = Feesal
+set-background-fit =
+    .label = Yamale
