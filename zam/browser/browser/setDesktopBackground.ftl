@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window =
-    .title = Toob baa loo ngluu giib{ " " }
+    .title = Toob baa loo ngluu giib
 set-desktop-background-accept =
-    .label = Toob baa loo ngluu giib{ " " }
+    .label = Toob baa loo ngluu giib
 open-desktop-prefs =
     .label = Xhal xha niey
 set-background-color = Xha niey:
