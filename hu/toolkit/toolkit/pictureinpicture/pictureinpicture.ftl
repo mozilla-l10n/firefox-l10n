@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Némítás
 pictureinpicture-unmute =
     .aria-label = Hang be
+pictureinpicture-unpip =
+    .aria-label = Visszaküldés a lapra
+pictureinpicture-close =
+    .aria-label = Bezárás

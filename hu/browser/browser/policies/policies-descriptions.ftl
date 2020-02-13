@@ -88,5 +88,6 @@ policy-SecurityDevices = PKCS #11 modulok telepítése.
 policy-SSLVersionMax = A legmagasabb SSL verzió beállítása.
 policy-SSLVersionMin = A legkisebb SSL verzió beállítása.
 policy-SupportMenu = Egyéni támogatási menüpont hozzáadása a súgó menühöz.
+policy-UserMessaging = Ne mutasson bizonyos üzeneteket a felhasználónak.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Weboldalak felkeresésének blokkolása. Lásd a dokumentációt a formátum részleteiért.
