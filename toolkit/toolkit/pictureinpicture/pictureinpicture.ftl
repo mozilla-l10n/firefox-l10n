@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = 음소거
 pictureinpicture-unmute =
     .aria-label = 음소거 해제
+pictureinpicture-unpip =
+    .aria-label = 탭으로 다시 보내기
 pictureinpicture-close =
     .aria-label = 닫기
