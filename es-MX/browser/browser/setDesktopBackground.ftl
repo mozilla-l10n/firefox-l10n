@@ -9,6 +9,12 @@ set-desktop-background-accept =
 open-desktop-prefs =
     .label = Abrir preferencias de escritorio
 set-background-preview-unavailable = Previsualización no disponible
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Expandir
 set-background-color = Color:
 set-background-position = Posición:
 set-background-tile =
