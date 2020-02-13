@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Mykistä ääni
 pictureinpicture-unmute =
     .aria-label = Palauta ääni
+pictureinpicture-close =
+    .aria-label = Sulje

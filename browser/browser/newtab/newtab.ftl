@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Tämä osio ladattii
 newtab-pocket-read-more = Suositut aiheet:
 newtab-pocket-more-recommendations = Lisää suosituksia
 newtab-pocket-whats-pocket = Mikä { -pocket-brand-name } on?
+newtab-pocket-learn-more = Lue lisää
 newtab-pocket-cta-button = Hanki { -pocket-brand-name }
 newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
 
