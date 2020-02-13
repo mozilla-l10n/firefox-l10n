@@ -10,3 +10,7 @@ set-background-color = Kolor:
 set-background-position = Pozycja:
 set-background-stretch =
     .label = Rozciągnij
+set-background-fill =
+    .label = Wypełnij
+set-background-fit =
+    .label = Dopasuj
