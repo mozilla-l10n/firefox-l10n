@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = השתקה
 pictureinpicture-unmute =
     .aria-label = ביטול השתקה
+pictureinpicture-unpip =
+    .aria-label = חזרה ללשונית
+pictureinpicture-close =
+    .aria-label = סגירה
