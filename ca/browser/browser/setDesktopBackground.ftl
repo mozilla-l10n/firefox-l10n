@@ -8,11 +8,22 @@ set-desktop-background-accept =
     .label = Defineix com a fons d'escriptori
 open-desktop-prefs =
     .label = Obre les preferències de l'escriptori
+set-background-preview-unavailable = La previsualització no està disponible
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Expandeix
 set-background-color = Color:
 set-background-position = Posició:
 set-background-tile =
     .label = Mosaic
 set-background-center =
     .label = Centre
+set-background-stretch =
+    .label = Estira
+set-background-fill =
+    .label = Emplena
 set-background-fit =
     .label = Ajusta
