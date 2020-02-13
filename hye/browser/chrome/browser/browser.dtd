@@ -898,10 +898,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Դուք այս կայքէջին ոչ մի յատուկ թոյլտվութիւն չեք տվել:">
 <!ENTITY identity.permissionsReloadHint "Կարող է անհրաժեշտ լինել վերբեռնել էջը `փոփոխութիւնների համար:">
 <!ENTITY identity.permissionsPreferences.tooltip "Բացել իրաւունքների նախասիրութիւնները">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Բացել արգելքների նախընտրութիւնները">
 
 
+<!ENTITY protections.etpON.header "Ընդլայնուած հետագծման պաշտպանութիւնը միացուած է այս կայքի համար">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Հետապնդումից ընդլայնուած պաշտպանութեան մասին լրացուցիչ տեղեկութիւններ">
+<!ENTITY protections.settings.label "Պաշտպանութեան կարգաւորումներ">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
