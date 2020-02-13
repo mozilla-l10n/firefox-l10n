@@ -16,3 +16,7 @@ set-background-center =
     .label = Phakathi
 set-background-stretch =
     .label = Nweba
+set-background-fill =
+    .label = Gcwalisa
+set-background-fit =
+    .label = Linganisa
