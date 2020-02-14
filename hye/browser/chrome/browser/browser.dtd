@@ -986,12 +986,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackersView.label "Հետեւումներ">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Բոլոր հետքերը արգելափակելու համար սահմանէք բովանդակութեան արգելափակում “Խիստ”։">
 
+<!ENTITY contentBlocking.cookies.label "Նշոցիկներ">
+<!ENTITY contentBlocking.cookiesView.label "Նշոցիկներ եւ կայքի տուեալներ">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Հետեւող բովանդակութիւն">
 
+<!ENTITY contentBlocking.manageSettings2.label "Կառաւարել պաշտպանութեան կարգաւորումները">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
+<!ENTITY contentBlocking.socialblock.label "Հասարակական մեդիայի հետեւումներ">
 
+<!ENTITY contentBlocking.cryptominers.label "Գաղտնազերծիչներ">
+<!ENTITY contentBlocking.cryptominersView.label "Գաղտնազերծիչներ">
 
+<!ENTITY contentBlocking.fingerprinters.label "Մատնահետքեր">
+<!ENTITY contentBlocking.fingerprintersView.label "Մատնահետքեր">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Զեկուցել խնդրի մասին">
+<!ENTITY contentBlocking.breakageReportView.label "Զեկուցել խնդրի մասին">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Իմանալ աւելին">
 
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Իմանալ աւելին">
