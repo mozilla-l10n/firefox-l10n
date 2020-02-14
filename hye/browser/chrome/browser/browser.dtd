@@ -1024,6 +1024,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.label "Ժամանակ առ ժամանակ անջատել արգելափակումը">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "Միացնել արգելափակումը այս կայքի համար։">
+<!ENTITY trackingProtection.block6.accesskey "T">
+<!ENTITY trackingProtection.reload2.label "Վերբեռնել էջը">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Ցուցադրել բոլորը">
@@ -1038,6 +1041,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Փակել">
 
+<!ENTITY panicButton.thankyou.msg1                "Վերջին պատմութիւնը մաքրուել է։">
+<!ENTITY panicButton.thankyou.msg2                "Անվտանգ զննարկում։">
 <!ENTITY panicButton.thankyou.buttonlabel         "Շնորհակալութիւն։">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Իմանալ աւելին DRM-ի մասին…">
@@ -1046,6 +1051,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Ներբեռնել &brandShorterName;-ի թարմացումը">
 <!ENTITY updateManual.panelUI.label "Ներբեռնել &brandShorterName;-ի նոր տարբերակը">
 <!ENTITY updateUnsupported.panelUI.label "Դուք չեք կարող կատարել յետագայ թարմացումները">
+<!ENTITY updateRestart.panelUI.label2 "Վերագործարկեք՝ &brandShorterName;-ը՝ թարմացնելու համար">
 
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
