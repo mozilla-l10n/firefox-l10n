@@ -88,5 +88,6 @@ policy-SecurityDevices = Installer PKCS #11-modular.
 policy-SSLVersionMax = Still inn den maksimale SSL-versjonen.
 policy-SSLVersionMin = Still inn den minimale SSL-versjonen.
 policy-SupportMenu = Legg til eit tilpassa menyelement med hjelp i hjelpemenyen.
+policy-UserMessaging = Ikkje vis visse meldingar til brukaren.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokker besøk på nettstadar. Les dokumentasjonen for detaljer om formatet.
