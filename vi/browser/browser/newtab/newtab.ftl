@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi 
 newtab-pocket-read-more = Các chủ đề phổ biến:
 newtab-pocket-more-recommendations = Nhiều khuyến nghị hơn
 newtab-pocket-whats-pocket = { -pocket-brand-name } là gì?
+newtab-pocket-learn-more = Tìm hiểu thêm
 newtab-pocket-cta-button = Nhận { -pocket-brand-name }
 newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
 
