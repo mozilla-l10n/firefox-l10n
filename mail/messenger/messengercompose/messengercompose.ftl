@@ -7,3 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Fjern { $type }-feltet
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type =
+    { $count ->
+        [0] Tomt { $type } inntastingsfelt
+        [one] { $type } inntastingsfelt med en adresse
+       *[other] { $type } inntastingsfelt med { $count } adresser
+    }
