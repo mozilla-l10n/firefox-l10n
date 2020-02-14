@@ -15,14 +15,14 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> sporingstjeneste blokeret siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> sporingstjenester blokeret siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> sporings-mekanismer blokeret siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> sporings-mekanismer blokeret siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } fortsætter med at blokere sporings-tjenester i private vinduer, men gemmer ikke en oversigt over, hvad der blev blokeret.
+graph-private-window = { -brand-short-name } fortsætter med at blokere sporings-teknologier i private vinduer, men gemmer ikke en oversigt over, hvad der blev blokeret.
 # Weekly summary of the graph when the graph is empty in Private Mode
-graph-week-summary-private-window = Sporings-tjenester, { -brand-short-name } blokerede denne uge
+graph-week-summary-private-window = Sporings-mekanismer, { -brand-short-name } blokerede denne uge
 
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -36,9 +36,9 @@ protection-report-header-details-custom = Beskyttelses-niveauet er sat til <b>Ti
 protection-report-page-title = Privatlivs-beskyttelse
 protection-report-content-title = Privatlivs-beskyttelse
 etp-card-title = Udvidet beskyttelse mod sporing
-etp-card-content = Sporings-tjenester følger dig rundt på nettet for at indsamle information om dine vaner og interesser. { -brand-short-name } blokerer mange af disse sporings-tjenester og andre ondsindede scripts.
+etp-card-content = Sporings-teknologier følger dig rundt på nettet for at indsamle information om dine vaner og interesser. { -brand-short-name } blokerer mange af disse sporings-teknologier og andre ondsindede scripts.
 
-protection-report-etp-card-content-custom-not-blocking = Beskyttelse er slået fra. Du kan vælge, hvilke sporings-tjenester der skal blokeres, i indstillingerne for beskyttelse i { -brand-short-name }.
+protection-report-etp-card-content-custom-not-blocking = Beskyttelse er slået fra. Du kan vælge, hvilke sporings-teknologier der skal blokeres, i indstillingerne for beskyttelse i { -brand-short-name }.
 protection-report-manage-protections = Håndter indstillinger
 
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
