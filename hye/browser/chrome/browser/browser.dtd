@@ -1006,8 +1006,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Զեկուցել խնդրի մասին">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Իմանալ աւելին">
 
+<!ENTITY contentBlocking.breakageReportView.title "Հաղորդել կոտրուած կայքի մասին">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Իմանալ աւելին">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ի՞նչ խնդիրներ ունեիք։ (Պարտադիր)">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
