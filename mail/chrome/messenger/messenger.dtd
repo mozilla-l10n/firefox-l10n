@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "B">
 <!ENTITY  newContactCmd.label "Adresboekcontact…">
 <!ENTITY  newContactCmd.accesskey "s">
+<!ENTITY openMenuCmd.label "Openen">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Opslaan als">
