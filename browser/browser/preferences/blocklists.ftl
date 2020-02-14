@@ -31,6 +31,6 @@ blocklist-button-ok =
 blocklist-item-list-template = { $listName } { $description }
 
 blocklist-item-moz-std-listName = Blokeringsliste niveau 1 (anbefalet).
-blocklist-item-moz-std-description = Tillader nogle sporings-elementer, så de fleste websteder fungerer som de skal.
+blocklist-item-moz-std-description = Tillader nogle sporings-teknologier, så de fleste websteder fungerer som de skal.
 blocklist-item-moz-full-listName = Blokeringsliste niveau 2.
-blocklist-item-moz-full-description = Blokerer alle kendte sporings-elementer. Dette kan i nogle tilfælde forhindre indlæsning af websteder eller indhold.
+blocklist-item-moz-full-description = Blokerer alle kendte sporings-teknologier. Dette kan i nogle tilfælde forhindre indlæsning af websteder eller indhold.

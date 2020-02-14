@@ -932,7 +932,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Ved at blokere disse virker elementer på visse websteder måske ikke. Uden sporings-elementer virker nogle knapper, formularer og login-felter måske ikke.">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Ved at blokere disse virker elementer på visse websteder måske ikke. Uden sporings-mekanismer virker nogle knapper, formularer og login-felter måske ikke.">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alle sporings-mekanismer på dette websted er blevet indlæst, fordi beskyttelse er slået fra.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; fandt ikke kendte sporings-mekanismer på denne side.">
 
@@ -976,7 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "Siden indeholder sporingselementer, der kan blokeres.">
 <!ENTITY contentBlocking.notDetected "Der blev ikke fundet sporingselementer på siden.">
 
-<!ENTITY contentBlocking.trackingProtection3.label "Sporings-tjenester">
+<!ENTITY contentBlocking.trackingProtection3.label "Sporings-teknologier">
 
 <!ENTITY contentBlocking.manageSettings.label "Håndter blokering af indhold">
 
@@ -985,8 +985,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.label "Håndter indstillinger for beskyttelse">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
-<!ENTITY contentBlocking.trackersView.label "Sporings-tjenester">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Sæt blokering af indhold til &quot;Striks &quot;for at blokere alle sporings-tjenester.">
+<!ENTITY contentBlocking.trackersView.label "Sporings-teknologier">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Sæt blokering af indhold til &quot;Striks &quot;for at blokere alle sporings-teknologier.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies og websteds-data">
