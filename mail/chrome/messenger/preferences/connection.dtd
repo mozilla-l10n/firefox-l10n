@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "Proxy SSL:">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "HTTPS Proxy:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "Máy chủ SOCKS:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -38,12 +40,14 @@
 <!ENTITY  noproxy.label                 "Không dùng proxy cho:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Ví dụ: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Sử dụng máy chủ proxy này cho tất cả các giao thức">
+<!ENTITY  shareproxy.accesskey          "x">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Các kết nối với localhost, 127.0.0.1 và :: 1 không bao giờ được ủy quyền.">
-<!ENTITY  shareproxy.label              "Sử dụng máy chủ proxy này cho tất cả các giao thức">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  noproxyLocalhostDesc.label    "Các kết nối với localhost, 127.0.0.1 và :: 1 không bao giờ được ủy quyền.">
+<!ENTITY  proxyHttpSharing.label        "Đồng thời sử dụng proxy này cho HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Không yêu cầu xác nhận nếu đã lưu mật khẩu">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Tùy chọn này âm thầm xác thực bạn với proxy khi bạn đã lưu thông tin đăng nhập cho họ. Bạn sẽ được nhắc nếu xác thực thất bại.">

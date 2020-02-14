@@ -259,6 +259,11 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Từ:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Các loại địa chỉ khác">
+<!ENTITY fromAddr2.label "Từ">
 <!ENTITY fromAddr.accesskey "i">
 <!ENTITY toAddr.label "Đến:">
 <!ENTITY ccAddr.label "Cc:">
@@ -267,6 +272,10 @@
 <!ENTITY newsgroupsAddr.label "Nhóm tin:">
 <!ENTITY followupAddr.label "Trả lời tin tại:">
 <!ENTITY subject.label "Tiêu đề:">
+<!ENTITY toAddr2.label "Đến">
+<!ENTITY ccAddr2.label "Cc">
+<!ENTITY bccAddr2.label "Bcc">
+<!ENTITY subject2.label "Tiêu đề">
 <!ENTITY subject.accesskey "u">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
@@ -278,7 +287,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Ngăn đính kèm">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ẩn ngăn đính kèm">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Chèn mặt cười">
 <!ENTITY smiley1Cmd.label "Cười">
 <!ENTITY smiley2Cmd.label "Cau có">

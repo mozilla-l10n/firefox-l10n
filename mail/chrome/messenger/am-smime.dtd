@@ -27,6 +27,7 @@
 
 <!ENTITY certificates.label "Chứng chỉ">
 <!ENTITY manageCerts2.label "Quản lý chứng chỉ">
+<!ENTITY manageCerts2.accesskey "M">
 <!ENTITY manageDevices.label "Thiết bị Bảo mật">
 <!ENTITY manageDevices.accesskey "B">
 

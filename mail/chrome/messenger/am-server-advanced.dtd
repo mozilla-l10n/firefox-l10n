@@ -22,6 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "N">
 <!ENTITY overrideNamespaces.label "Cho phép máy chủ ghi đè những không gian tên này">
 <!ENTITY overrideNamespaces.accesskey "o">
+<!ENTITY pop3DeferringDesc.label "Khi tải xuống thư từ máy chủ của tài khoản này, hãy sử dụng thư mục sau để lưu trữ thư mới:">
+<!ENTITY accountInbox.label "Hộp thư đến cho tài khoản này">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Hộp thư cho tài khoản khác">
 <!ENTITY deferToServer.accesskey "p">
 <!ENTITY deferGetNewMail.label "Bao gồm máy chủ này khi nhận thư mới">
