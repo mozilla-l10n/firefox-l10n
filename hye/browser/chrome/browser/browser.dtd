@@ -1012,13 +1012,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ի՞նչ խնդիրներ ունեիք։ (Պարտադիր)">
 <!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Լրացուցիչ։ Նկարագրէք խնդիրը">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Ուղարկել զեկոյց">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Չեղարկել">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Անջատել արգելափակումը այս կայքում">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Ժամանակ առ ժամանակ անջատել արգելափակումը">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Ցուցադրել բոլորը">
