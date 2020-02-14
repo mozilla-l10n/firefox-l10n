@@ -83,15 +83,11 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = 복사
 login-item-copied-username-button-text = 복사됨!
 login-item-password-label = 비밀번호
-login-item-password-reveal-checkbox-show =
-    .title = 비밀번호 표시
-login-item-password-reveal-checkbox-hide =
-    .title = 비밀번호 숨기기
 login-item-password-reveal-checkbox =
     .aria-label = 비밀번호 표시
 login-item-copy-password-button-text = 복사
 login-item-copied-password-button-text = 복사됨!
-login-item-save-changes-button = 변경사항 저장
+login-item-save-changes-button = 변경 내용 저장
 login-item-save-new-button = 저장
 login-item-cancel-button = 취소
 login-item-time-changed = 마지막 수정: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
@@ -131,8 +127,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
-confirm-discard-changes-dialog-title = 저장되지 않은 변경 사항을 버리시겠습니까?
-confirm-discard-changes-dialog-message = 저장되지 않은 모든 변경 사항을 잃게 됩니다.
+confirm-discard-changes-dialog-title = 저장되지 않은 변경 내용을 버리시겠습니까?
+confirm-discard-changes-dialog-message = 저장되지 않은 모든 변경 내용을 잃게 됩니다.
 confirm-discard-changes-dialog-confirm-button = 버리기
 
 ## Breach Alert notification
