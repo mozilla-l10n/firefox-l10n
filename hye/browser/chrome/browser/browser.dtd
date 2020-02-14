@@ -975,9 +975,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Ձեր էկրանին բոլոր տեսանելի պատուհանները համաւգտագործուելու են">
 
 <!ENTITY contentBlocking.title "Բովանդակութեան արգելափակում">
+<!ENTITY contentBlocking.detected "Այս կայքում հայտնաբերուել է արգելափակուած բովանդակութիւն։">
+<!ENTITY contentBlocking.notDetected "Այս էջում արգելափակուած պարունակութիւն չի յայտնաբերուել։">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Հետեւումներ">
 
+<!ENTITY contentBlocking.manageSettings.label "Կառաւարել բովանդակութեան արգելափակումը">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "Հետեւումներ">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Բոլոր հետքերը արգելափակելու համար սահմանէք բովանդակութեան արգելափակում “Խիստ”։">
 
 
 
