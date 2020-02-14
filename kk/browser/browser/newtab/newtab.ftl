@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Қап! Бұл санат�
 newtab-pocket-read-more = Әйгілі тақырыптар:
 newtab-pocket-more-recommendations = Көбірек ұсыныстар
 newtab-pocket-whats-pocket = { -pocket-brand-name } деген не?
+newtab-pocket-learn-more = Көбірек білу
 newtab-pocket-cta-button = { -pocket-brand-name }-ті алу
 newtab-pocket-cta-text = Өзіңіз ұнатқан хикаяларды { -pocket-brand-name } ішіне сақтап, миіңізді тамаша оқумен толықтырыңыз.
 
