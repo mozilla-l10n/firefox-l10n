@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Values for changepassword.xul -->
+<!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ">
-<!ENTITY setPassword.tokenName.label "ਸੁਰੱਖਿਆ ਜੰਤਰ">
+<!ENTITY setPassword.tokenName.label "ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ">
 <!ENTITY setPassword.oldPassword.label "ਮੌਜੂਦਾ ਪਾਸਵਰਡ:">
 <!ENTITY setPassword.newPassword.label "ਨਵਾਂ ਪਾਸਵਰਡ:">
 <!ENTITY setPassword.reenterPassword.label "ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):">
 <!ENTITY setPassword.meter.label "ਪਾਸਵਰਡ ਕੁਆਲਟੀ ਮੀਟਰ">
 
-<!-- Values for resetpassword.xul -->
+<!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY resetPassword.title  "ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 <!ENTITY resetPassword.text  "ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਗੁਪਤ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?">
