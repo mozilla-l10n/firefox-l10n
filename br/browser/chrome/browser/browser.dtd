@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "s">
 <!ENTITY exitFullScreenCmd.label "Kuitaat ar mod skramm a-bezh">
 <!ENTITY exitFullScreenCmd.accesskey "s">
+
 <!ENTITY fullScreenCmd.label "Skramm a-bezh">
 <!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Arventennoù ar gont">
 <!ENTITY fxa.menu.manageAccount2.label "Merañ ar gont">
 <!ENTITY fxa.menu.signOut.label "Digennaskañ…">
-<!ENTITY fxa.menu.deviceSettings.label "Arventennoù an trevnad">
 <!ENTITY fxa.menu.setupSync.label "Arventennañ &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -245,6 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "P">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Mont d'ar chomlec'h er varrenn lec'hiañ">
 <!ENTITY printButton.label            "Moullañ">
 <!ENTITY printButton.tooltip          "Moullañ ar bajennad-mañ">
@@ -497,6 +498,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Muioc'h">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Bizskrivit un termen da glask pe ur chomlec'h">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -630,6 +632,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Merkañ ar frammad war ur sined">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+
 <!ENTITY pageAction.copyLink.label    "Eilañ an ere">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -643,9 +646,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Kas an ere dre bostel…">
 <!ENTITY emailPageCmd.accesskey       "K">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Enrollañ ar bajenn evel…">
 <!ENTITY savePageCmd.accesskey        "a">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "b">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
@@ -942,6 +945,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "N'eus bet dinoet heulier ebet anavezet gant &brandShortName; war ar bajenn-mañ.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "An toupinoù-se a heuilh ac'hanoc'h a lec'hienn da lec'hienn evit dastum roadennoù diwar-benn ar pezh a rit enlinenn. Lakaet int gant tredeoù evel embregerezhioù bruderezh pe stadegoù.">
+<!ENTITY protections.cryptominers.description "Gant ar c'hriptogleuzerien e vez implijet gallout jediñ ho reizhiad evit kleuziañ arc'hant niverel. Skriptoù kriptogleuziañ a implij kalz ho patiri, a c'horreka hoc'h urzhiataer hag a lak ho fakturenn tredan da vezañ keroc'h.">
+<!ENTITY protections.fingerprinters.description "An dinoerien roudoù niverel a zastum arventennoù ho merdeer hag hoc'h urzhiataer evit sevel un aelad diwar ho penn. En ur implij ar roudoù-se e c'hall heuliañ ac'hanoc'h war veur a lec'hienn.">
+<!ENTITY protections.trackingContent2.description "Gallout a ra al lec'hiennoù kargañ bruderezh, videoioù pe traoù diavaez all gant ur boneg heuliañ. Stankañ an endalc'hadoù heuliañ a c'hall herrekaat al lec'hiennoù met gallout a ra lod eus an afelloù, furmskridoù pe maeziennoù kennaskañ chom hep mont en-dro.">
+<!ENTITY protections.socialMediaTrackers.description "Gant ar rouedadoù kevredadel e vez lakaet heulierien evit gallout gwelet war al lec'hiennoù all ar pezh a sellit hag a rit enlinenn. Evel-se e c'hall an embregerezhioù media kevredadel deskiñ hiroc'h diwar ar pezh a rannit war hoc'h aeladoù media kevredadel.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -987,8 +994,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Toupinoù">
 <!ENTITY contentBlocking.cookiesView.label "Toupinoù ha roadennoù lec'hienn">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Endalc'had heuliañ">
 
+<!ENTITY contentBlocking.manageSettings2.label "Merañ an arventennoù gwarez">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
+<!ENTITY contentBlocking.socialblock.label "Heulierien Media kevredadel">
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptogleuzerien">
 <!ENTITY contentBlocking.cryptominersView.label "Klriptogleuzerien">
@@ -1001,8 +1012,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Gallout a ra stankadur an endalc'hadoù sevel kudennoù gant lec'hiennoù 'zo. Pa zanevellit kudennoù e sikourit da lakaat &brandShortName; gwelloc'h evit an holl. (Kas a raio un URL ha titouroù a-zivout hoc'h arventennoù merdeer da vMozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Gouzout hiroc'h">
 
+<!ENTITY contentBlocking.breakageReportView.title "Danevelliñ ul lec'hienn torret">
+<!ENTITY contentBlocking.breakageReportView3.description "Stankañ heulierien 'zo a c'hall degas kudennoù gant lec'hiennoù 'zo. Danevelliñ ar c'hudennoù-se a sikour da lakaat &brandShortName; gwelloc'h evit an holl. Kas an danevell-mañ da vMozilla a kaso un URL ha titouroù diwar-benn arventennoù ho merdeer.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Gouzout hiroc'h">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Peseurt kudennoù ho peus bet? (Diret)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Diret: deskrivit ar gudenn">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Kas an danevell">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Nullañ">
 
