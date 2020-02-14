@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncBrand.shortName.label  "Սինք">
+<!ENTITY syncBrand.shortName.label  "Համաժամեցում">
 <!ENTITY syncBrand.fullName.label   "Firefox Սինք">
 <!ENTITY syncBrand.fxAccount.label  "Firefox-ի հաշիվ">
