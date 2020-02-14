@@ -738,14 +738,14 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.label       "Lիաէկրան">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "Պահպանել էկրանի պատկերը որպես…">
-<!ENTITY videoSaveImage.accesskey    "Պ">
+<!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Ցուցադրել վիճակագությունը">
-<!ENTITY videoShowStats.accesskey    "վ">
-<!ENTITY videoHideStats.label        "Թաքցնել ստատիստիկան">
-<!ENTITY videoHideStats.accesskey    "Թ">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Թաքցնել վիճակագրությունը">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -754,32 +754,32 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Խոշորացնել">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "ր">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Փոքրացնել">
-<!ENTITY fullZoomReduceCmd.accesskey    "ա">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Վերակայել">
-<!ENTITY fullZoomResetCmd.accesskey     "Վ">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Խոշորացնել Միայն Տեքստը">
-<!ENTITY fullZoomToggleCmd.accesskey    "Մ">
+<!ENTITY fullZoomToggleCmd.label        "Խոշորացնել միայն գրույթը">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
 
-<!ENTITY fullZoom.label                 "Մասշտաբը ">
-<!ENTITY fullZoom.accesskey             "Մ">
+<!ENTITY fullZoom.label                 "Մասշտաբը">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Փակել կողավահանակը">
-<!ENTITY sidebarMenuClose.label         "Փակել Կողավահանակը">
+<!ENTITY sidebarMenuClose.label         "Փակել կողավահանակը">
 
 <!ENTITY quitApplicationCmdWin2.label       "Փակել">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ա">
@@ -995,7 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Նշոցիկներ">
 <!ENTITY contentBlocking.cookiesView.label "Նշոցիկներ և կայքի տվյալներ">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Հետևվող բովանդակություն">
+<!ENTITY contentBlocking.trackingProtection4.label "Հետևող բովանդակություն">
 
 <!ENTITY contentBlocking.manageSettings2.label "Կառավարել պաշտպանություն կարգավորումները">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
