@@ -724,19 +724,19 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Անհավանական (2x)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "Ա">
+<!ENTITY mediaPlaybackRate200x2.label "Անհավանական (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "Օղակում">
-<!ENTITY mediaLoop.accesskey         "Օ">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Ցուցադրել ղեկավարիչներին">
-<!ENTITY mediaShowControls.accesskey "Ց">
+<!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
-<!ENTITY mediaHideControls.accesskey "Թ">
+<!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Lիաէկրան">
-<!ENTITY videoFullScreen.accesskey   "Բ">
+<!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "Պահպանել էկրանի պատկերը որպես…">
 <!ENTITY videoSaveImage.accesskey    "Պ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
