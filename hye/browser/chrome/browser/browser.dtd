@@ -969,6 +969,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ինքնաթաքցնել">
 
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 
 
