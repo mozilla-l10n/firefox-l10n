@@ -89,7 +89,7 @@ newtab-privacy-modal-header = Aqadeṛ n tudert-ik tabaḍnit yeɛna-aɣ.
 newtab-privacy-modal-paragraph = Ɣer tama n beṭṭu n teqsiḍin ijebbden, ad ak-d-nesken daɣen igburen usdiden akked wid yettbeddan fell-aq i d-nefren s telqay. Kkes aɣilif imi isefka-ik n tunigin ur teffɣen ara segunqal i tḥerzeḍ n { -brand-product-name }— ur ten-nettwali ara, ula d wid i yettbeddan fell-aɣ.
 newtab-privacy-modal-link = Lmed amek tettedu tbaḍnit deg yiccer amaynut
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Kkes tacreṭ-agi
@@ -124,6 +124,10 @@ newtab-label-removed-bookmark = Tacreṭ n usebter tettwakkes
 newtab-label-recommended = Tiddin
 newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
 newtab-label-download = Yuli-d
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Yettwarfed
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -177,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ihuh! Waqil tigezmi ur d-t
 newtab-pocket-read-more = Isental ittwasnen aṭas:
 newtab-pocket-more-recommendations = Ugar n iwellihen
 newtab-pocket-whats-pocket = D acu-t { -pocket-brand-name }?
+newtab-pocket-learn-more = Issin ugar
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.
 

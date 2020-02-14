@@ -73,6 +73,7 @@ policy-OverrideFirstRunPage = Beddel asebter amezwaru n uskar. Sbadu tasertit d 
 policy-OverridePostUpdatePage = Beddel asebter "Acu-t amaynut" seld aleqqem. sbadu tasertit d tilemt ma tebɣiḍ ad tsenseḍ  asebter n uleqqem.
 policy-PasswordManagerEnabled = Rmed asekles n wawalen uffiren deg umsefrak n wawalen uffiren.
 policy-Permissions = Swel tisirag i tkamirat, asawaḍ, adig akked ilɣa.
+policy-Permissions2 = Swel tisirag i tkamirat, asawaḍ, adig, ilɣa akked tɣuri tawurmant.
 policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Preferences = Ad yesbadu daɣen ad iṣekkeṛ azal n tegrumma tasnawant n yismenyifen.
 policy-PromptForDownloadLocation = Suter anida ara ttwaskelsen yifuyla deg usider.
@@ -87,5 +88,6 @@ policy-SecurityDevices = Sebded izegrar n PKCS #11.
 policy-SSLVersionMax = Sbadu lqem afellay n SSL.
 policy-SSLVersionMin = Sbadu lqem adday n SSL.
 policy-SupportMenu = Ad yernu anekcum udmawan ɣer wumuɣ n tallelt i uɛiwen.
+policy-UserMessaging = Ur d-skan ara kra n yiznan i useqdac.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Sewḥel anekcum Ɣer ismal web. Wali tasemlit i wugar n telqayt Ɣef umasal.

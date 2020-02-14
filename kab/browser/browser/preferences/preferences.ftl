@@ -325,7 +325,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
@@ -580,6 +580,9 @@ containers-header = Iccaren imagbaren
 containers-add-button =
     .label = Rnu amagbar-nniḍen
     .accesskey = R
+containers-new-tab-check =
+    .label = Fren amagbar i yal iccer amaynut
+    .accesskey = F
 containers-preferences-button =
     .label = Ismenyifen
 containers-remove-button =
@@ -918,7 +921,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Udmawan
     .accesskey = d
 
-
+##
 
 content-blocking-etp-standard-desc = Yerked gar ummesten akked tmellit. ISebtar ad d-alin s wudem amagnu.
 content-blocking-etp-strict-desc = Ammesten yettwaseǧhed, maca kra n yismal akked ugbur yemzer ur teddun ara akken iwata.
