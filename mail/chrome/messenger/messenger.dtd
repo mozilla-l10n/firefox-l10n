@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Sổ địa chỉ liên hệ…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Mở">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Mở các thư đã lưu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Lưu thành">

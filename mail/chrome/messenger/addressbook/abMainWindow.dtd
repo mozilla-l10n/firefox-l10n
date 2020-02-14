@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "X">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Chọn các cột để hiển thị">
 <!ENTITY newContactButton.tooltip                       "Tạo một tên liên hệ mới trên sổ địa chỉ">
 <!ENTITY newlistButton.tooltip                          "Tạo một danh sách mới">
 <!ENTITY editPropertiesButton.tooltip                   "Chỉnh sửa mục đã chọn">
