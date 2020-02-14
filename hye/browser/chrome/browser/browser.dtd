@@ -971,7 +971,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Ներդիրի ձայնանիւթը կհամաւգտագործուի։">
+<!ENTITY getUserMedia.allWindowsShared.message "Ձեր էկրանին բոլոր տեսանելի պատուհանները համաւգտագործուելու են">
 
+<!ENTITY contentBlocking.title "Բովանդակութեան արգելափակում">
 
 
 
