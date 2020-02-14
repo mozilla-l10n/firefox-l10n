@@ -88,5 +88,6 @@ policy-SecurityDevices = Emohenda PKCS # 11 ra'ãha.
 policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 policy-SSLVersionMin = Emboheko SSL rembiapokue oiko’ivéva.
 policy-SupportMenu = Embojuaju mba’epuru poravorãgua ñemomba’epyréva pytyvõha poravorãme.
+policy-UserMessaging = Ani ehechauka heta ñe’ẽmondo puruhárape.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
