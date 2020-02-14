@@ -188,6 +188,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Vi lasta nesten denne
 newtab-pocket-read-more = Populære emne:
 newtab-pocket-more-recommendations = Fleire tilrådingar
 newtab-pocket-whats-pocket = Kva er { -pocket-brand-name }?
+newtab-pocket-learn-more = Les meir
 newtab-pocket-cta-button = Last ned { -pocket-brand-name }
 newtab-pocket-cta-text = Lagre artiklane du synest er interessante i { -pocket-brand-name }, og stimuler tankane dine med fasinerande lesemateriell.
 
