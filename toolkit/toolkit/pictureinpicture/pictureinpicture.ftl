@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Mute
 pictureinpicture-unmute =
     .aria-label = Unmute
+pictureinpicture-unpip =
+    .aria-label = Send back to tab
+pictureinpicture-close =
+    .aria-label = Close
