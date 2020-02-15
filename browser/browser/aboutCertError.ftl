@@ -25,11 +25,11 @@ cert-error-domain-mismatch = 網站會透過憑證來證明自己的身分。因
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = 網站會透過憑證來證明自己的身分。因為伺服器送出不屬於 { $hostname } 的憑證的關係，{ -brand-short-name } 不信任這個網站。 憑證只對 <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> 有效。
+cert-error-domain-mismatch-single = 網站會透過憑證來證明自己的身分。因為伺服器送出不屬於 { $hostname } 的憑證的關係，{ -brand-short-name } 不信任這個網站。該憑證只對 <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> 有效。
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = 網站會透過憑證來證明自己的身分。因為伺服器送出不屬於 { $hostname } 的憑證的關係，{ -brand-short-name } 不信任這個網站。 憑證只對 { $alt-name } 有效。
+cert-error-domain-mismatch-single-nolink = 網站會透過憑證來證明自己的身分。因為伺服器送出不屬於 { $hostname } 的憑證的關係，{ -brand-short-name } 不信任這個網站。該憑證只對 { $alt-name } 有效。
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = 網站會透過憑證來證明自己的身分。因為伺服器送出不屬於 { $hostname } 的憑證的關係，{ -brand-short-name } 不信任這個網站。該憑證僅對下列網域名稱有效: { $subject-alt-names }

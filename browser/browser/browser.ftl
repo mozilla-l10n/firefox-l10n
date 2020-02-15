@@ -94,7 +94,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = 打得更少，找到更多: 直接從網址列搜尋 { $engineName }。
+urlbar-search-tips-onboard = 打得更少，找到更多: 直接從網址列進行 { $engineName } 搜尋。
 urlbar-search-tips-redirect = 從此處進行搜尋，就可看見由 { $engineName } 及瀏覽紀錄提供的搜尋建議。
 
 ##
