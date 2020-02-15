@@ -554,6 +554,12 @@ search-keyword-warning-bookmark = คุณได้เลือกคำสำ�
 ## Containers Section
 
 containers-back-link = « ย้อนกลับ
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] กลับไปที่ตัวเลือก
+           *[other] กลับไปที่การตั้งค่า
+        }
 containers-header = แท็บแยกข้อมูล
 containers-add-button =
     .label = เพิ่มการแยกข้อมูลใหม่
