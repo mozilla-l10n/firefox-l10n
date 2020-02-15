@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oops! We almost loaded thi
 newtab-pocket-read-more = Popular Topics:
 newtab-pocket-more-recommendations = More Recommendations
 newtab-pocket-whats-pocket = What’s { -pocket-brand-name }?
+newtab-pocket-learn-more = Learn more
 newtab-pocket-cta-button = Get { -pocket-brand-name }
 newtab-pocket-cta-text = Save the stories you love in { -pocket-brand-name }, and fuel your mind with fascinating reads.
 
