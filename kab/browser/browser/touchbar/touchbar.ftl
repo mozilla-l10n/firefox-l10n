@@ -9,6 +9,7 @@ forward = Ɣer zdat
 reload = Smiren
 home = Asebter agejdan
 fullscreen = Agdil ačuran
+touchbar-fullscreen-exit = Ffeɣ seg ugdil ačuran
 find = Nadi
 new-tab = Iccer amaynut
 add-bookmark = Rnu tacreṭ n usebter
@@ -33,5 +34,5 @@ search-opentabs = Lddi icarren
 search-tags = Tibzimin
 search-titles = Izwal
 
-
+##
 
