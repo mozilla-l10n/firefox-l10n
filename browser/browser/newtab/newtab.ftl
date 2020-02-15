@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Prawie udało się wczyta�
 newtab-pocket-read-more = Popularne treści:
 newtab-pocket-more-recommendations = Więcej polecanych
 newtab-pocket-whats-pocket = Czym jest { -pocket-brand-name }?
+newtab-pocket-learn-more = Więcej informacji
 newtab-pocket-cta-button = Pobierz { -pocket-brand-name }
 newtab-pocket-cta-text = Zachowuj artykuły w { -pocket-brand-name }, aby wrócić później do ich lektury.
 

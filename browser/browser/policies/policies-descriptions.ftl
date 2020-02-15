@@ -88,5 +88,6 @@ policy-SecurityDevices = Instalacja modułów PKCS #11.
 policy-SSLVersionMax = Ustawienie maksymalnej wersji SSL.
 policy-SSLVersionMin = Ustawienie minimalnej wersji SSL.
 policy-SupportMenu = Dodanie niestandardowego elementu menu pomocy.
+policy-UserMessaging = Wyłączenie wyświetlania użytkownikowi pewnych komunikatów.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokowanie odwiedzania witryn. Dokumentacja zawiera więcej informacji o formacie.
