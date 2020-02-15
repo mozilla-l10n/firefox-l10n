@@ -88,7 +88,7 @@ newtab-privacy-modal-button-done = संपन्न
 newtab-privacy-modal-header = आपकी गोपनीयता मायने रखती है।
 newtab-privacy-modal-link = जानिए नए टैब पर गोपनीयता कैसे काम करती है
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = बुकमार्क हटाएँ
@@ -173,8 +173,8 @@ newtab-discovery-empty-section-topstories-loading = लोड हो रहा �
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = लोकप्रिय विषय:
 newtab-pocket-more-recommendations = अधिक अनुशंसाएँ
-newtab-pocket-how-it-works = यह किस प्रकार काम करता है
 newtab-pocket-whats-pocket = { -pocket-brand-name } क्या है?
+newtab-pocket-learn-more = अधिक जानें
 newtab-pocket-cta-button = { -pocket-brand-name } प्राप्त करें
 newtab-pocket-cta-text = अपने पसंदीद कहानियाँ { -pocket-brand-name } में सहेजें, और आकर्षक पढ़ाई के साथ अपने दिमाग को शक्ति दें।
 

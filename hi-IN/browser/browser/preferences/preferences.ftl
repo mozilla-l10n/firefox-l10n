@@ -309,7 +309,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 play-drm-content =
@@ -559,6 +559,9 @@ sync-signedout-account-create = खाता नहीं है? शुरु�
 sync-signedout-account-signin =
     .label = साइन इन…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name } में साइन इन करें...
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -828,7 +831,7 @@ enhanced-tracking-protection-setting-custom =
     .label = मनपसंद
     .accesskey = त
 
-
+##
 
 content-blocking-private-windows = निजी विंडो में ट्रैकिंग सामग्री
 content-blocking-cross-site-tracking-cookies = क्रॉस-साइट ट्रैकिंग कुकी
