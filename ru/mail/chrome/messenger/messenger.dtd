@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "о">
 <!ENTITY  newContactCmd.label "Контакт адресной книги…">
 <!ENTITY  newContactCmd.accesskey "а">
+<!ENTITY openMenuCmd.label "Открыть">
+<!ENTITY openMenuCmd.accesskey "ы">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY saveAsMenu.label "Сохранить как">
