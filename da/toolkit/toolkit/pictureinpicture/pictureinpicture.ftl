@@ -11,3 +11,9 @@ pictureinpicture-mute =
     .aria-label = Slå lyd fra
 pictureinpicture-unmute =
     .aria-label = Slå lyd til
+
+pictureinpicture-unpip =
+  .aria-label = Send tilbage til faneblad
+
+pictureinpicture-close =
+  .aria-label = Luk
