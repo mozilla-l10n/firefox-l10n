@@ -255,7 +255,7 @@ colors-settings =
     .label = Barvy…
     .accesskey = y
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Velikost stránky
+preferences-zoom-header = Velikost stránek
 preferences-default-zoom = Výchozí velikost
     .accesskey = z
 preferences-default-zoom-value =
