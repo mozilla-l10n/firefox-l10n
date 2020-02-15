@@ -42,8 +42,10 @@
 <!ENTITY  newMessageCmd.accesskey "W">
 <!ENTITY  newContactCmd.label "Wizytówkę…">
 <!ENTITY  newContactCmd.accesskey "z">
-<!ENTITY openMessageFileCmd.label "Otwórz zapisaną wiadomość">
-<!ENTITY openMessageFileCmd.accesskey "O">
+<!ENTITY openMenuCmd.label "Otwórz">
+<!ENTITY openMenuCmd.accesskey "O">
+<!ENTITY openMessageFileCmd.label "Zapisana wiadomość…">
+<!ENTITY openMessageFileCmd.accesskey "w">
 <!ENTITY saveAsMenu.label "Zapisz jako">
 <!ENTITY saveAsMenu.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Plik">
