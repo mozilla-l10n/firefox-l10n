@@ -92,6 +92,8 @@ graphics-crash-guards-title = Funktioner deaktiveret af Crash guard
 graphics-workarounds-title = Løsninger
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokol for vinduer
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Desktop-miljø
 place-database-title = Databasen Places
 place-database-integrity = Integritet
 place-database-verify-integrity = Bekræft integritet
