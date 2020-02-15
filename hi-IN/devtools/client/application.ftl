@@ -40,6 +40,11 @@ serviceworker-worker-status-stopped = रुकी हुई
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = पंजीकृत किया जा रहा है
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = त्रुटियां तथा चेतावनीयां
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools त्रुटि
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = उद्देश्य: <code>{ $purpose }</code>
