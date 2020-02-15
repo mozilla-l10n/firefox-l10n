@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Wycisz
 pictureinpicture-unmute =
     .aria-label = Włącz dźwięk
+pictureinpicture-unpip =
+    .aria-label = Wyłącz „Obraz w obrazie”
+pictureinpicture-close =
+    .aria-label = Zamknij
