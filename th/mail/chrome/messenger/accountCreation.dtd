@@ -4,6 +4,7 @@
 
 <!ENTITY autoconfigWizard2.title         "ตั้งค่าบัญชีอีเมลที่มีอยู่">
 
+<!ENTITY emailWizard.title               "ตั้งค่าที่อยู่อีเมลที่มีอยู่">
 <!ENTITY emailWizard.caption             "ใช้ที่อยู่อีเมลปัจจุบันของคุณ">
 <!ENTITY name.label                      "ชื่อของคุณ:">
 <!ENTITY name.accesskey                  "ช">
