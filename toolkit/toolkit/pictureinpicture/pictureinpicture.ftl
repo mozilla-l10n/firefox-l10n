@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Убрать звук
 pictureinpicture-unmute =
     .aria-label = Восстановить звук
+pictureinpicture-unpip =
+    .aria-label = Отправить обратно во вкладку
+pictureinpicture-close =
+    .aria-label = Закрыть
