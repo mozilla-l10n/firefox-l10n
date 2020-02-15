@@ -90,6 +90,7 @@ cfr-whatsnew-button =
     .tooltiptext = Qué de nòu
 cfr-whatsnew-panel-header = Qué de nòu
 cfr-whatsnew-release-notes-link-text = Legir la nòta de version
+cfr-whatsnew-fx70-title = { -brand-short-name } luta encara mai per vòstra vida privada
 cfr-whatsnew-tracking-protect-title = Protegissètz-vos dels traçadors
 cfr-whatsnew-tracking-protect-link-text = Consultar vòstre rapòrt
 # This string is displayed before a large numeral that indicates the total
