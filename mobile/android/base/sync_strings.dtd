@@ -5,6 +5,9 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
+
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
@@ -34,7 +37,7 @@
 <!ENTITY bookmarks.folder.tags.label 'Etikettar'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bokmerkelinje'>
 <!ENTITY bookmarks.folder.other.label 'Andre bokmerke'>
-<!ENTITY bookmarks.folder.desktop.label 'Skrivebordsbokmerke'>
+<!ENTITY bookmarks.folder.desktop.label 'Bokmerke på PC-en'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobile bokmerke'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Festa'>
