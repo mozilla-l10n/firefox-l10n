@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ой! Мы почти за
 newtab-pocket-read-more = Популярные темы:
 newtab-pocket-more-recommendations = Ещё рекомендации
 newtab-pocket-whats-pocket = Что такое { -pocket-brand-name }?
+newtab-pocket-learn-more = Подробнее
 newtab-pocket-cta-button = Загрузить { -pocket-brand-name }
 newtab-pocket-cta-text = Сохраняйте интересные статьи в { -pocket-brand-name } и подпитывайте свой ум увлекательным чтением.
 
