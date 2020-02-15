@@ -296,6 +296,7 @@ addon-name-disabled = { $name } (desactivat)
 ## Pending uninstall message bar
 
 addon-detail-updates-label = Permetre las mesas a jorn automaticas
+addon-detail-update-check-label = Recercar de mesas a jorn
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
