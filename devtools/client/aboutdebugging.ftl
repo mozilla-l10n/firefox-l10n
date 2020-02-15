@@ -91,6 +91,12 @@ about-debugging-setup-usb-updating-button = अप्डेट हो रहा 
 about-debugging-setup-usb-status-enabled = सक्रिय किया गया
 about-debugging-setup-usb-status-disabled = निष्क्रिय किया गया
 about-debugging-setup-usb-status-updating = अप्डेट हो रहा है...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = अपने Android उपकरण पर डेवलपर मेन्यू सक्रिय करें।
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Android डेवलपर मेन्यू में USB डिबगिंग सक्रिय करें।
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Android उपकरण पर Firefox में USB डिबगिंग सक्रिय करें।
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = संजाल स्थान
@@ -162,6 +168,9 @@ about-debugging-extension-id =
     .label = एक्सटेंशन ID
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = प्रारंभ
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = मुख्य प्रक्रिया
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = त्रुटि विवरण
 # Label text used for the warning details of message component.
