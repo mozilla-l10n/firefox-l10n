@@ -120,6 +120,15 @@ cfr-whatsnew-lockwise-take-title = Porta le tue password sempre con te
 cfr-whatsnew-lockwise-take-body = L’app mobile { -lockwise-brand-short-name } ti permette di accedere in modo sicuro alle password salvate, ovunque ti trovi.
 cfr-whatsnew-lockwise-take-link-text = Ottieni l’app
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Scrivi di meno e trova più risultati con la barra degli indirizzi
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Accedi ai siti che utilizzi più spesso con un solo clic nella barra degli indirizzi. Trova ciò che ti serve più rapidamente con risultati di ricerca da { $searchEngineName } e dalla tua cronologia di navigazione.
+cfr-whatsnew-searchbar-body-generic = Accedi ai siti che utilizzi più spesso con un solo clic nella barra degli indirizzi. Trova ciò che ti serve più rapidamente con risultati di ricerca dalla tua cronologia di navigazione.
+cfr-whatsnew-searchbar-icon-alt-text = Icona lente d’ingrandimento
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Guarda i tuoi video mentre navighi
