@@ -370,7 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "실행 취소">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.label            "실행 반복">
+<!ENTITY redoCmd.label            "다시 실행">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY cutCmd.label           "잘라내기">
