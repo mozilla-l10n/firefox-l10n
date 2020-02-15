@@ -153,6 +153,7 @@ newtab-empty-section-highlights = Començatz de navegar e aquí vos mostrarem lo
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Sètz ja a jorn.
 newtab-discovery-empty-section-topstories-try-again-button = Tornar ensajar
 newtab-discovery-empty-section-topstories-loading = Cargament…
 
@@ -162,6 +163,7 @@ newtab-discovery-empty-section-topstories-loading = Cargament…
 newtab-pocket-read-more = Tèmas populars :
 newtab-pocket-more-recommendations = Mai de recomandacions
 newtab-pocket-whats-pocket = Qu’es aquò { -pocket-brand-name } ?
+newtab-pocket-learn-more = Ne saber mai
 newtab-pocket-cta-button = Installar { -pocket-brand-name }
 
 ## Error Fallback Content.
