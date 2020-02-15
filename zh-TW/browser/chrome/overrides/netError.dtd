@@ -144,13 +144,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什麼？">
 
-<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>這個問題最有可能是網站端的設定不正確，無法調整設定解決。</p>
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>這個問題最有可能是由於網站端的設定不正確，無法由您調整設定解決。</p>
 <p>若目前連線到企業內部網路，或有使用防毒軟體，請洽詢技術支援團隊。也可以通知網站管理員處理這個問題。</p>">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>您目前的電腦時間設定為 <span id='wrongSystemTime_systemDate2'/>。請到系統設定中確認此日期、時間、時區是否正確，然後重新載入 <span class='hostname'/>。</p>
 <p>若您的時間是正確的，可能是網站伺服器設定有誤，沒有辦法由您解決這個問題，請通知網站管理員這個問題。</p>">
 
-<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>這個問題最有可能是網站端的設定不正確，您無法調整設定解決。請通知網站管理員處理。</p>">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>這個問題最有可能是由於網站端的設定不正確，無法由您調整設定解決。請通知網站管理員處理。</p>">
 
 <!ENTITY sharedLongDesc "
 <ul>
