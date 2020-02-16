@@ -89,6 +89,8 @@ graphics-crash-guards-title = Strigčių apsaugos išjungtos funkcijos
 graphics-workarounds-title = Apėjimai
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Langų protokolas
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Darbalaukio aplinka
 place-database-title = Vietų duomenų bazė
 place-database-integrity = Nepažeistumas
 place-database-verify-integrity = Patikrinti nepažeistumą

@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Išjungti garsą
 pictureinpicture-unmute =
     .aria-label = Įjungti garsą
+pictureinpicture-unpip =
+    .aria-label = Siųsti atgal į kortelę
+pictureinpicture-close =
+    .aria-label = Užverti
