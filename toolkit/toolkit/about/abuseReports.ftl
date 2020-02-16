@@ -64,6 +64,7 @@ abuse-report-damage-example = ตัวอย่างเช่น: สอดแ
 abuse-report-spam-reason = สร้างสแปมหรือโฆษณา
 abuse-report-spam-example = ตัวอย่างเช่น: ใส่โฆษณาบนหน้าเว็บ
 abuse-report-settings-reason = เปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
+abuse-report-settings-reason-v2 = มันเปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
 abuse-report-settings-suggestions = ก่อนรายงานส่วนขยายนี้ คุณสามารถทดลองเปลี่ยนการตั้งค่าของคุณ:
 abuse-report-settings-suggestions-search = เปลี่ยนการตั้งค่าการค้นหาเริ่มต้นของคุณ
 abuse-report-settings-suggestions-homepage = เปลี่ยนหน้าแรกและแท็บใหม่ของคุณ
@@ -72,6 +73,8 @@ abuse-report-deceptive-reason-v2 = มันอ้างว่าเป็นอ
 abuse-report-deceptive-example = ตัวอย่างเช่น: คำอธิบายหรือรูปภาพชี้นำไปในทางที่ผิด
 abuse-report-broken-reason-extension = ไม่ทำงาน, ทำให้เว็บไซต์ล่ม, หรือทำให้ { -brand-product-name } ช้าลง
 abuse-report-broken-reason-theme = ไม่ทำงานหรือทำให้การแสดงผลของเบราว์เซอร์เสียหาย
+abuse-report-broken-reason-extension-v2 = มันไม่ทำงาน, ทำให้เว็บไซต์ล่ม, หรือทำให้ { -brand-product-name } ช้าลง
+abuse-report-broken-reason-theme-v2 = มันไม่ทำงานหรือทำให้การแสดงผลของเบราว์เซอร์เสียหาย
 abuse-report-broken-example = ตัวอย่างเช่น: คุณลักษณะใช้งานได้ช้า ใช้งานได้ยาก หรือใช้งานไม่ได้เลย บางส่วนของเว็บไซต์ไม่โหลดหรือดูผิดปกติ
 abuse-report-broken-suggestions-extension = ดูเหมือนคุณจะระบุบั๊กแล้ว นอกจากคุณจะส่งรายงานที่นี่แล้ว วิธีที่ดีที่สุดเพื่อให้ปัญหาเกี่ยวกับการทำงานได้รับการแก้ไขคือให้ติดต่อนักพัฒนาส่วนขยาย <a data-l10n-name="support-link">เยี่ยมชมเว็บไซต์ของส่วนขยาย</a>เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับนักพัฒนา
 abuse-report-broken-suggestions-theme = ดูเหมือนคุณจะระบุบั๊กแล้ว นอกจากคุณจะส่งรายงานที่นี่แล้ว วิธีที่ดีที่สุดเพื่อให้ปัญหาเกี่ยวกับการทำงานได้รับการแก้ไขคือให้ติดต่อนักพัฒนาชุดตกแต่ง <a data-l10n-name="support-link">เยี่ยมชมเว็บไซต์ของชุดตกแต่ง</a>เพื่อดูข้อมูลเพิ่มเติมเกี่ยวกับนักพัฒนา
