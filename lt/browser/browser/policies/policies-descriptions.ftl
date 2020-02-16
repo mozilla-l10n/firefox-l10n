@@ -88,5 +88,6 @@ policy-SecurityDevices = Diegti PKCS #11 modulius.
 policy-SSLVersionMax = Nustatyti didžiausią SSL versiją.
 policy-SSLVersionMin = Nustatyti mažiausią SSL versiją.
 policy-SupportMenu = Pridėti specialų pagalbos meniu elementą į žinyno meniu.
+policy-UserMessaging = Nerodyti naudotojui tam tikrų pranešimų.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokuoti svetainių lankymą. Paskaitykite dokumentaciją dėl informacijos apie formatą.
