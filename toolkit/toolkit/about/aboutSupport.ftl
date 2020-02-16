@@ -11,7 +11,7 @@ crashes-title = 충돌 보고서
 crashes-id = 보고 ID
 crashes-send-date = 전송됨
 crashes-all-reports = 모든 충돌 보고서
-crashes-no-config = 이 애플리케이션은 충돌 보고서를 표시하도록 설정되어 있지 않습니다.
+crashes-no-config = 이 프로그램은 충돌 보고서를 표시하도록 설정되어 있지 않습니다.
 extensions-title = 확장 기능
 extensions-name = 이름
 extensions-enabled = 사용
@@ -45,7 +45,7 @@ app-basics-update-dir =
 app-basics-update-history = 업데이트 기록
 app-basics-show-update-history = 업데이트 기록 표시
 # Represents the path to the binary used to start the application.
-app-basics-binary = 애플리케이션 바이너리
+app-basics-binary = 프로그램 바이너리
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] 프로필 저장 폴더
