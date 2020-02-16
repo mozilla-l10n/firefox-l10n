@@ -268,13 +268,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ਵੈੱਬ ਪਰਮਾਣਕਿਤਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "ਬਰਾਊਜ਼ਿੰਗ ਸਰਗਰਮੀ ਇਜਾਜ਼ਤ ਪੈਨਲ ਖੋਲ੍ਹੋ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ਸਾਈਟ ਨਾਲ ਆਪਣੀਆਂ ਵਿੰਡੋਆਂ ਜਾਂ ਸਕਰੀਨ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ਇੰਸਟਾਲ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ਇਹ ਸਫ਼ੇ ਦਾ ਉਲੱਥਾ ਕਰੋ">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ਸਫ਼ਾ ਉਲੱਥੇ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ਸਫ਼ਾ ਉਲੱਥੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM ਸਾਫਟਵੇਅਰ ਦੀ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 
@@ -657,19 +657,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "…ਫਰੇਮ ਨੂੰ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "…ਲਿੰਕ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveLinkCmd.label            "…ਵਜੋਂ ਲਿੰਕ ਸੰਭਾਲੋ">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "…ਚਿੱਤਰ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveImageCmd.label           "…ਵਜੋਂ ਚਿੱਤਰ ਸੰਭਾਲੋ">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "…ਵੀਡੀਓ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveVideoCmd.label           "…ਵਜੋਂ ਵੀਡੀਓ ਨੂੰ ਸੰਭਾਲੋ">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "…ਆਡੀਓ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ">
+<!ENTITY saveAudioCmd.label           "…ਵਜੋਂ ਆਡੀਓ ਨੂੰ ਸੰਭਾਲੋ">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "…ਚਿੱਤਰ ਨੂੰ ਈਮੇਲ ਕਰੋ">
+<!ENTITY emailImageCmd.label          "…ਚਿੱਤਰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "…ਵੀਡੀਓ ਨੂੰ ਈਮੇਲ ਕਰੋ">
+<!ENTITY emailVideoCmd.label          "…ਵੀਡੀਓ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "…ਆਡੀਓ ਨੂੰ ਈਮੇਲ ਕਰੋ">
+<!ENTITY emailAudioCmd.label          "…ਆਡੀਓ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ਇਹ ਪਲੱਗਇਨ ਨੂੰ ਸਰਗਰਮ ਕਰੋ">
 <!ENTITY playPluginCmd.accesskey      "c">
@@ -737,7 +737,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "ਪੂਰੀ ਸਕਰੀਨ">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "…ਸਨੈਪਸ਼ਾਟ ਨੂੰ ਇੰਝ ਨੂੰ ਸੰਭਾਲੋ">
+<!ENTITY videoSaveImage.label        "… ਵਜੋਂ ਸਨੈਪਸ਼ਾਟ ਨੂੰ ਸੰਭਾਲੋ">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "ਕੇਵਲ ਟੈਕਸਟ ਹੀ ਜ਼ੂਮ ਕਰੋ">
+<!ENTITY fullZoomToggleCmd.label        "ਕੇਵਲ ਲਿਖਤ ਹੀ ਜ਼ੂਮ ਕਰੋ">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 
 <!ENTITY fullZoom.label                 "ਜ਼ੂਮ">
@@ -1014,6 +1014,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "ਹੋਰ ਜਾਣੋ">
 
 <!ENTITY contentBlocking.breakageReportView.title "ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ">
+<!ENTITY contentBlocking.breakageReportView3.description "ਕੁਝ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਕਰਕੇ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਸਮੱਸਿਆਵਾਂ ਆ ਸਕਦੀਆਂ ਹਨ। ਇਹ ਸਮੱਸਿਆਵਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਨਾਲ ਹਰ ਕਿਸੇ ਲਈ &brandShortName; ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਹੁੰਦੀ ਹੈ। ਇਹ ਰਿਪੋਰਟ URL ਦੇ ਨਾਲ ਨਾਲ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗ ਬਾਰੇ ਕੁਝ ਜਾਣਕਾਰੀ ਮੋਜ਼ੀਲਾ ਨੂੰ ਭੇਜਦੀ ਹੈ।">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "ਹੋਰ ਜਾਣੋ">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "ਤੁਹਾਡੇ ਕੋਲ ਕਿਹੜੀਆਂ ਮੁਸ਼ਕਲਾਂ ਹਨ? (ਚੋਣਵਾਂ)">
