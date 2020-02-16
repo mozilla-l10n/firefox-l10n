@@ -181,6 +181,17 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } ਬਾਈਟ)
            *[other] { $kb } KB ({ $bytes } ਬਾਈਟ)
         }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } ਚਿੱਤਰ  (ਐਨੀਮੇਟ, { $frames } ਫਰੇਮ)
+           *[other] { $type } ਚਿੱਤਰ (ਐਨੀਮੇਟ, { $frames } ਫਰੇਮ)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
