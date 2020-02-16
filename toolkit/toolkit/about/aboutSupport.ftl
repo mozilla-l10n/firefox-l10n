@@ -92,6 +92,8 @@ graphics-crash-guards-title = Адключаныя магчымасці абар
 graphics-workarounds-title = Абыходныя шляхі
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Аконны пратакол
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Працоўнае асяроддзе
 place-database-title = База звестак месцаў
 place-database-integrity = Цэльнасць
 place-database-verify-integrity = Праверыць цэльнасць
