@@ -88,5 +88,6 @@ policy-SecurityDevices = Keyak PKCS #11 taq juperaj.
 policy-SSLVersionMax = Tijikib'äx ri nïm ruwäch SSL.
 policy-SSLVersionMin = Tijikib'äx ri ko'öl ruwäch SSL
 policy-SupportMenu = Titz'aqatisäx jun ruch'akulal ruk'utsamaj ichinan tob'äl pa ruk'utsamaj tob'äl.
+policy-UserMessaging = Man tik'ut jujun taq rutzijol chuwa ri winäq.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Tiq'at ri tz'etoj rik'in ajk'amaya'l ruxaq. Tatz'eta' ri ruwujil richin nawetamaj ch'aqa' chik rutzijoxik rub'anikil.

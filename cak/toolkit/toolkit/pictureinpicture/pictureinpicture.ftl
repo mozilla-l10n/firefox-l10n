@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Timemür
 pictureinpicture-unmute =
     .aria-label = Tak'axäx
+pictureinpicture-unpip =
+    .aria-label = Titaq chik pa ri ruwi'
+pictureinpicture-close =
+    .aria-label = Titz'apïx
