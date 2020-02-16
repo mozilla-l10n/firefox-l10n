@@ -6,7 +6,10 @@ safeb-blocked-phishing-page-title = ਅਗਲੀ ਸਾਈਟ ਭਰਮਪੂਰ
 safeb-blocked-malware-page-title = ਇਹ ਸਾਈਟ ਖੋਲ੍ਹਣ ਨਾਲ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ
 safeb-blocked-unwanted-page-title = ਅਗਲੀ ਸਾਈਟ ਕੁਝ ਨੁਕਸਾਨਦਾਇਕ ਪਰੋਗਰਾਮ ਰੱਖਦੀ ਹੋ ਸਕਦੀ ਹੈ
 safeb-blocked-harmful-page-title = ਅਗਲੀ ਸਾਈਟ ਮਾਲਵੇਅਰ ਰੱਖਦੀ ਹੋ ਸਕਦੀ ਹੈ
+safeb-blocked-phishing-page-short-desc = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਨੂੰ ਕੁਝ ਖ਼ਤਰਨਾਕ ਕਰਨ ਲਈ ਫ਼ਰੇਬ ਦੇ ਸਕਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਜਾਂ ਪਾਸਵਰਡ ਜਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਵਰਗੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ।
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਦੋਖੀ ਸਾਫ਼ਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੋਂ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਚੋਰੀ ਜਾਂ ਹਟਾ ਸਕਦਾ ਹੈ।
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਤੁਹਾਨੂੰ ਅਜਿਹੇ ਪਰੋਗਰਾਮ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਫ਼ਰੇਬ ਦੇ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਤਜਰਬੇ ਨੂੰ ਨੁਕਸਾਨ ਕਰ ਸਕਦੇ ਹਨ (ਜਿਵੇਂ ਕਿ ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਨੂੰ ਬਦਲ ਕੇ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਸਾਈਟਾਂ ਲਈ ਵਾਧੂ ਇਸ਼ਤਿਹਾਰ ਦਿਖਾ ਕੇ)।
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } ਨੇ ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਇਸ ਕਰਕੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ ਕਿ ਇਸ ਖ਼ਤਰਨਾਕ ਐਪਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ (ਮਿਸਾਲ ਵਜੋਂ ਫ਼ੋਟੋ, ਪਾਸਵਰਡ, ਸੁਨੇਹੇ ਅਤੇ ਕਰੈਡਿਟ ਕਾਰਡ) ਨੂੰ ਚੋਰੀ ਕਰ ਜਾਂ ਹਟਾ ਸਕਦੀਆਂ ਹਨ।
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> ਵਲੋਂ ਦਿੱਤੀ ਗਈ ਸਲਾਹ।
 safeb-palm-accept-label = ਵਾਪਸ ਜਾਓ
 safeb-palm-see-details-label = ਵੇਰਵੇ ਵੇਖੋ
