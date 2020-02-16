@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Halos na-load na yung
 newtab-pocket-read-more = Tanyag na mga paksa:
 newtab-pocket-more-recommendations = Karagdagang Rekomendasyon
 newtab-pocket-whats-pocket = Ano ang { -pocket-brand-name }?
+newtab-pocket-learn-more = Alamin
 newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
 newtab-pocket-cta-text = I-save sa { -pocket-brand-name } ang mga kwentong iyong nagustuhan, at palawigin ang iyong pagiisip sa mga nakabibighaning babasahin.
 
