@@ -182,6 +182,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Casi se carga la se
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-more-recommendations = Más recomendaciones
 newtab-pocket-whats-pocket = ¿Qué es { -pocket-brand-name }?
+newtab-pocket-learn-more = Saber más
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarde en { -pocket-brand-name } las historias que le gustan y alimente su mente con lecturas fascinantes.
 
