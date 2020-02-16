@@ -93,7 +93,7 @@ newtab-privacy-modal-paragraph =
     สปอนเซอร์ของเราจะไม่เห็น
 newtab-privacy-modal-link = เรียนรู้วิธีการปกป้องความเป็นส่วนตัวในแท็บใหม่
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = เอาที่คั่นหน้าออก
@@ -128,6 +128,10 @@ newtab-label-removed-bookmark = เอาที่คั่นหน้าออ
 newtab-label-recommended = กำลังนิยม
 newtab-label-saved = บันทึกไปยัง { -pocket-brand-name } แล้ว
 newtab-label-download = ดาวน์โหลดแล้ว
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · ผู้สนับสนุน
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -180,7 +184,7 @@ newtab-discovery-empty-section-topstories-timed-out = อุ๊ปส์! เร
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = หัวข้อยอดนิยม:
 newtab-pocket-more-recommendations = คำแนะนำเพิ่มเติม
-newtab-pocket-how-it-works = วิธีการทำงาน
+newtab-pocket-whats-pocket = { -pocket-brand-name } คืออะไร?
 newtab-pocket-cta-button = รับ { -pocket-brand-name }
 newtab-pocket-cta-text = บันทึกเรื่องราวที่คุณรักลงใน { -pocket-brand-name } และเติมเต็มสมองของคุณด้วยบทความที่น่าหลงใหล
 
