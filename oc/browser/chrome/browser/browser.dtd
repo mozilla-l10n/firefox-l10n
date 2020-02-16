@@ -329,7 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desvolopaire web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
-<!ENTITY inspectContextMenu.label     "Examinar l'element">
+<!ENTITY inspectContextMenu.label     "Examinar l’element">
 <!ENTITY inspectContextMenu.accesskey "x">
 
 <!ENTITY inspectA11YContextMenu.label     "Inspectar las proprietats d’accessibilitat">
