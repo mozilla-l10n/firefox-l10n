@@ -32,7 +32,10 @@ accessibility-text-label-issue-fieldset-legend2 = ใช้องค์ประ
 accessibility-text-label-issue-form = องค์ประกอบแบบฟอร์มต้องมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
 accessibility-text-label-issue-form-visible = องค์ประกอบแบบฟอร์มต้องมีป้ายกำกับข้อความที่สามารถมองเห็นได้ <a>เรียนรู้เพิ่มเติม</a>
 accessibility-text-label-issue-frame = องค์ประกอบ <code>frame</code> ต้องมีป้ายกำกับ <a>เรียนรู้เพิ่มเติม</a>
+accessibility-text-label-issue-glyph = ใช้แอตทริบิวต์ <code>alt</code> เพื่อกำหนดป้ายกำกับให้กับองค์ประกอบ <span>mglyph</span> <a>เรียนรู้เพิ่มเติม</a>
 accessibility-text-label-issue-heading = หัวเรื่องต้องมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
+accessibility-text-label-issue-heading-content = หัวเรื่องควรมีบริบทข้อความที่มองเห็นได้ <a>เรียนรู้เพิ่มเติม</a>
+accessibility-text-label-issue-iframe = ใช้แอตทริบิวต์ <code>title</code> เพื่ออธิบายเนื้อหา <span>iframe</span> <a>เรียนรู้เพิ่มเติม</a>
 accessibility-text-label-issue-image = เนื้อหาที่มีภาพต้องมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
 accessibility-text-label-issue-interactive = องค์ประกอบแบบโต้ตอบต้องมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
 accessibility-text-label-issue-toolbar = แถบเครื่องมือต้องมีป้ายชื่อเมื่อมีแถบเครื่องมือมากกว่าหนึ่งแถบ <a>เรียนรู้เพิ่มเติม</a>
@@ -41,3 +44,5 @@ accessibility-text-label-issue-toolbar = แถบเครื่องมือ
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-focusable = องค์ประกอบเชิงโต้ตอบต้องสามารถโฟกัสได้ <a>เรียนรู้เพิ่มเติม</a>
+accessibility-keyboard-issue-mouse-only = องค์ประกอบที่คลิกได้ต้องสามารถโฟกัสได้และควรมีการสื่อความหมายเชิงโต้ตอบ <a>เรียนรู้เพิ่มเติม</a>
