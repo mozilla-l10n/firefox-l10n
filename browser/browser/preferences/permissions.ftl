@@ -142,7 +142,7 @@ permissions-site-xr-window =
 permissions-site-xr-desc = 다음 웹 사이트에서 가상 현실 기기에 대한 접근을 요청했습니다. 가상 현실 기기에 접근 할 수 있는 웹 사이트를 지정할 수 있습니다. 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단할 수도 있습니다.
 permissions-site-xr-disable-label =
     .label = 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단
-permissions-site-xr-disable-desc = 이렇게 하면 위에 나열되지 않은 웹 사이트가 가상 현실 기기에 대한 접근 권한을 요청하지 못하게됩니다. 가상 현실 기기에 대한 접근을 차단하면 일부 웹 사이트 기능이 손상 될 수 있습니다.
+permissions-site-xr-disable-desc = 이렇게 하면 위에 나열되지 않은 웹 사이트가 가상 현실 기기에 대한 접근 권한을 요청하지 못하게됩니다. 가상 현실 기기에 대한 접근을 차단하면 일부 웹 사이트 기능이 손상될 수 있습니다.
 
 ## Site Permissions - Camera
 
