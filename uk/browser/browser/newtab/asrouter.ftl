@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Рекомендоване розширенн
 cfr-doorhanger-feature-heading = Рекомендована функція
 cfr-doorhanger-pintab-heading = Спробуйте це: Прикріпити вкладку
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чому я це бачу?
@@ -172,8 +172,8 @@ cfr-doorhanger-sync-logins-ok-button = Увімкнути { -sync-brand-short-na
 cfr-doorhanger-send-tab-header = Читайте це на ходу
 cfr-doorhanger-send-tab-recipe-header = Візьміть цей рецепт на кухню
 cfr-doorhanger-send-tab-body = Надсилання вкладки дозволяє вам легко ділитися цим посиланням зі своїм телефоном, або з іншими пристроями, на яких ви увійшли в { -brand-product-name }.
-cfr-doorhanger-send-tab-ok-button = Спробувати надсилання вкладки
-    .accesskey = п
+cfr-doorhanger-send-tab-ok-button = Надіслати вкладку
+    .accesskey = Н
 
 ## Firefox Send
 
