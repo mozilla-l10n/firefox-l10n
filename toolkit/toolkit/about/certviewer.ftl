@@ -64,7 +64,15 @@ certificate-viewer-public-key-info = ข้อมูลคีย์สาธา�
 certificate-viewer-miscellaneous = เบ็ดเตล็ด
 certificate-viewer-fingerprints = ลายนิ้วมือ
 certificate-viewer-basic-constraints = ข้อจำกัดพื้นฐาน
+certificate-viewer-key-usages = การใช้คีย์
+certificate-viewer-extended-key-usages = การใช้คีย์แบบขยาย
+certificate-viewer-ocsp-stapling = OCSP Stapling
+certificate-viewer-subject-key-id = ID คีย์หัวเรื่อง
+certificate-viewer-authority-key-id = ID คีย์ของผู้อนุมัติ
+certificate-viewer-authority-info-aia = ข้อมูลผู้อนุมัติ (AIA)
 certificate-viewer-certificate-policies = นโยบายใบรับรอง
+certificate-viewer-embedded-scts = SCT ที่ฝัง
+certificate-viewer-crl-endpoints = ปลายทาง CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ดาวน์โหลด
@@ -80,3 +88,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem
