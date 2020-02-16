@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Вимкнути звук
 pictureinpicture-unmute =
     .aria-label = Увімкнути звук
+pictureinpicture-unpip =
+    .aria-label = Відправити назад у вкладку
+pictureinpicture-close =
+    .aria-label = Закрити

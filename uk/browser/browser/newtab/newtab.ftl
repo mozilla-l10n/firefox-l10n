@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Отакої! Ми май�
 newtab-pocket-read-more = Популярні теми:
 newtab-pocket-more-recommendations = Інші рекомендації
 newtab-pocket-whats-pocket = Що таке { -pocket-brand-name }?
+newtab-pocket-learn-more = Докладніше
 newtab-pocket-cta-button = Отримати { -pocket-brand-name }
 newtab-pocket-cta-text = Зберігайте улюблені статті в { -pocket-brand-name } і задовольніть себе захопливим читанням.
 
