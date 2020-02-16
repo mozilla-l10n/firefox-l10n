@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Mandar als sites web lo senhal “Me pistar pas” per lor dire que volètz pas èsser pistat
+do-not-track-description = Mandar als sites web lo senhal « Me pistar pas » per lor dire que volètz pas èsser pistat
 do-not-track-learn-more = Ne saber mai
 do-not-track-option-default-content-blocking-known =
     .label = Solament quand { -brand-short-name } es configurat per blocar los traçadors coneguts
@@ -413,7 +413,7 @@ network-settings-title = Paramètres ret
 network-proxy-connection-description = Configurar la biais de { -brand-short-name } de se connectar a Internet.
 network-proxy-connection-learn-more = Ne saber mai
 network-proxy-connection-settings =
-    .label = Paramètres
+    .label = …Paramètres…
     .accesskey = e
 
 ## Home Section
@@ -685,7 +685,7 @@ sync-engine-prefs =
     .label =
         { PLATFORM() ->
             [windows] Opcions
-           *[other] las preferéncias
+           *[other] Preferéncias
         }
     .tooltiptext = Los paramètres qu’avètz cambiat dins General, Vida Privada e Seguretat
     .accesskey = s
@@ -937,7 +937,7 @@ permissions-header = Permissions
 permissions-location = Localizacion
 permissions-location-settings =
     .label = Paramètres…
-    .accesskey = A
+    .accesskey = a
 permissions-xr = Realitat virtuala
 permissions-xr-settings =
     .label = Paramètres…
@@ -945,7 +945,7 @@ permissions-xr-settings =
 permissions-camera = Camèra
 permissions-camera-settings =
     .label = Paramètres…
-    .accesskey = c
+    .accesskey = r
 permissions-microphone = Microfòn
 permissions-microphone-settings =
     .label = Paramètres…
@@ -953,7 +953,7 @@ permissions-microphone-settings =
 permissions-notification = Notificacions
 permissions-notification-settings =
     .label = Paramètres…
-    .accesskey = n
+    .accesskey = m
 permissions-notification-link = Ne saber mai
 permissions-notification-pause =
     .label = Pausar las notificacions fins que { -brand-short-name } reavie
@@ -1019,7 +1019,7 @@ security-enable-safe-browsing =
 security-enable-safe-browsing-link = Ne saber mai
 security-block-downloads =
     .label = Blocar los telecargaments perilhoses
-    .accesskey = D
+    .accesskey = B
 security-block-uncommon-software =
     .label = Vos avisar dels logicials pas desirats e pauc coneguts
     .accesskey = C
