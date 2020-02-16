@@ -535,7 +535,7 @@ search-restore-default =
 search-remove-engine =
     .label = Suprimir
     .accesskey = S
-search-find-more-link = Trapar mai motors de recèrcas
+search-find-more-link = Trobar mai de motors de recèrcas
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Doblon de mot clau
@@ -858,6 +858,8 @@ content-blocking-setting-standard =
 content-blocking-setting-custom =
     .label = Personalizat
     .accesskey = P
+content-blocking-standard-desc = Equilibri entre proteccion e performança. Permet certans traçadors per que los sites web foncionen corrèctament.
+content-blocking-strict-description = Proteccion refortida, pòt copar unes sites.
 content-blocking-custom-desc = Causissètz çò que volètz blocar.
 content-blocking-private-trackers = Los traçadors coneguts dins las fenèstras de navegacion privada solament
 content-blocking-third-party-cookies = Cookies de seguiment tèrces
@@ -878,6 +880,8 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. Las pagina cargaràn normalament.
+content-blocking-etp-strict-desc = Proteccion refortida, pòt copar unes sites o contengut.
 content-blocking-social-media-trackers = Traçadors de malhums socials
 content-blocking-all-cookies = Totes los cookies
 content-blocking-unvisited-cookies = Cookies dels sites pas visitats
@@ -887,7 +891,8 @@ content-blocking-all-third-party-cookies = Totes los cookies tèrces
 content-blocking-cryptominers = Minaires de criptomonedas
 content-blocking-fingerprinters = Generadors d’emprentas numericas
 content-blocking-warning-title = Atencion !
-content-blocking-learn-how = Ne saber mai
+content-blocking-learn-how = Descobrissètz cossí far
+content-blocking-etp-warning-description = Lo blocatge de traçadors pòt aver una incidéncia sus las foncionalitats de certans sites. Tornatz cargar una pagina amb los traçadors per cargar tot lo contengut.
 content-blocking-warning-learn-how = M’ensenhar cossí far
 content-blocking-reload-tabs-button =
     .label = Tornar cargar totes los onglets
