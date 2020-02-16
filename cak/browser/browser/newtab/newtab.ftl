@@ -188,6 +188,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re 
 newtab-pocket-read-more = Nima'q taq Na'oj:
 newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
 newtab-pocket-whats-pocket = ¿Achike ri { -pocket-brand-name }?
+newtab-pocket-learn-more = Tetamäx ch'aqa' chik
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.
 

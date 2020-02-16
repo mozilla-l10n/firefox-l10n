@@ -89,6 +89,8 @@ graphics-crash-guards-title = Tzaqoj Chajïy q'ajon taq b'anikil
 graphics-workarounds-title = Tz'aqat taq soloj
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Rub'eyal Tzuwäch
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Ruk'ojlib'al Ajkematz'ib'
 place-database-title = Taq kik'ojlem cholxe'el tzij
 place-database-integrity = Ch'ajch'ojri'ïl
 place-database-verify-integrity = Tinik'öx ch'ajch'ojri'ïl
