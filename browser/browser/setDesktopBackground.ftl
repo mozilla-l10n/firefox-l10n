@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window =
-    .title = 배경 화면으로 설정
+    .title = 바탕 화면 배경 설정
 set-desktop-background-accept =
-    .label = 배경 화면으로 설정
+    .label = 바탕 화면 배경 설정
 open-desktop-prefs =
     .label = 배경 화면 환경 설정 열기
 set-background-preview-unavailable = 미리보기를 사용할 수 없음

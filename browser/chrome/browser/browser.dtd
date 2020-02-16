@@ -625,7 +625,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "배경 이미지 보기">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "배경으로 지정…">
+<!ENTITY setDesktopBackgroundCmd.label      "바탕 화면 배경으로 설정…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "이 페이지 북마크">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
