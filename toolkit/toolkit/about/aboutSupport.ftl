@@ -92,6 +92,8 @@ graphics-crash-guards-title = Можливості, вимкнені захис�
 graphics-workarounds-title = Способи обходу
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Віконний протокол
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Середовище робочого столу
 place-database-title = База даних Places
 place-database-integrity = Цілісність
 place-database-verify-integrity = Перевірити цілісність
