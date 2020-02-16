@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oi! Mes beveik įkėlėme 
 newtab-pocket-read-more = Populiarios temos:
 newtab-pocket-more-recommendations = Daugiau rekomendacijų
 newtab-pocket-whats-pocket = Kas yra „{ -pocket-brand-name }“?
+newtab-pocket-learn-more = Sužinoti daugiau
 newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
 
