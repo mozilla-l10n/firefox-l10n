@@ -124,6 +124,8 @@ cfr-whatsnew-searchbar-title = Digite menos, encontre mais usando a barra de end
 # Variables:
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Acesse os sites que você mais usa com um simples clique na barra de endereços. Encontre coisas mais rápido com resultados do { $searchEngineName } e em seu histórico de navegação.
+cfr-whatsnew-searchbar-body-generic = Acesse os sites que você mais usa com um simples clique na barra de endereços. Encontre coisas mais rápido com resultados de pesquisa em seu histórico de navegação.
+cfr-whatsnew-searchbar-icon-alt-text = Ícone da lente de aumento
 
 ## Picture-in-Picture
 
