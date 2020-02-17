@@ -44,10 +44,12 @@ client-auth-choose-cert = Tagh teisteanas a nochdas tu mar dhearbh-aithne:
 
 set-password-window =
     .title = Tagh facal-faire lethbhreac-ghlèidhidh an teisteanais
+set-password-message = Bidh facal-faire lethbhreac-glèidhidh an teisteanais a shuidheas tu an-seo a' glèidheadh am faidhle a tha thu gu bhith cruthachadh.  Feumaidh tu am facal-faire seo a shuidheachadh mus lean thu ort leis a' lethbhreac-ghlèidhidh.
 set-password-backup-pw =
     .value = Facal-faire lethbhreac-glèidhidh an teisteanais:
 set-password-repeat-backup-pw =
     .value = Facal-faire lethbhreac-glèidhidh an teisteanais (a-rithist):
+set-password-reminder = Cudromach: ma dhìochuimhnicheas tu facal-faire lethbhreac-glèidhidh an teisteanais agad, chan urrainn dhut an lethbhreac-glèidhidh seo a chleachdadh as dèidh sin.  Cum cunntas dheth ann an àite sàbhailte.
 
 ## Protected Auth dialog
 
