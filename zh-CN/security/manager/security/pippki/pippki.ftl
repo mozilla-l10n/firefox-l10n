@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = 密码强度
 
 ## Change Password dialog
 
@@ -21,12 +22,19 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = 重置
+reset-password-text = 如果您重置您的主密码，您存储的所有网站和电子邮箱密码、表单数据、个人证书以及私钥，都将被丢弃。您确实要重置主密码吗？
 
 ## Downloading cert dialog
 
 download-cert-window =
     .title = 下载证书
     .style = width: 46em
+download-cert-message = 您被要求信任一个新的数字证书认证机构（CA）。
+download-cert-trust-ssl =
+    .label = 信任由此证书颁发机构来标识网站。
+download-cert-trust-email =
+    .label = 信任由此证书颁发机构来标识电子邮件用户。
+download-cert-message-desc = 在信任此证书颁发机构之前，您应该检查它的证书、策略和它的手续（如果有的话）。
 download-cert-view-cert =
     .label = 查看
 download-cert-view-text = 检查CA证书
