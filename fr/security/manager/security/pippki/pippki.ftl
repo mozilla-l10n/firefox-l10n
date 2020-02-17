@@ -12,6 +12,8 @@ change-password-window =
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Périphérique de sécurité: { $tokenName }
 change-password-old = Ancien mot de passe
+change-password-new = Saisissez le nouveau mot de passe
+change-password-reenter = Saisissez-le à nouveau
 
 ## Reset Password dialog
 
