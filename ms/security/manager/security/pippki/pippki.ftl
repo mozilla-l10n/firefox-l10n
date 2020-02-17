@@ -27,4 +27,7 @@ client-auth-choose-cert = Pilih sijil untuk dijadikan sebagai pengenalan:
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Token pengesahan dilindungi
+protected-auth-msg = Sila buat pengesahan kepada token. Kaedah pengesahan adalah bergantung kepada jenis token anda.
 protected-auth-token = Token:
