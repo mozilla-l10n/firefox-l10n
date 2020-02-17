@@ -45,6 +45,7 @@ client-auth-window =
     .title = Solicitut d'identificación d'usuario
 client-auth-site-description = Iste puesto ha solicitau que s'identifique con un certificau:
 client-auth-choose-cert = Trigue un certificau ta presentar-lo como identificación:
+client-auth-cert-details = Detalles d'o certificau trigau:
 
 ## Set password (p12) dialog
 
