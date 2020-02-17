@@ -45,6 +45,7 @@ client-auth-window =
     .title = Erabiltzaile identifikazioaren eskaera
 client-auth-site-description = Gune honek zeure burua ziurtagiri batez identifikatzeko eskatu dizu:
 client-auth-choose-cert = Aukeratu ziurtagiri bat identifikazio gisa aurkezteko:
+client-auth-cert-details = Hautatutako ziurtagiriaren xehetasunak:
 
 ## Set password (p12) dialog
 
