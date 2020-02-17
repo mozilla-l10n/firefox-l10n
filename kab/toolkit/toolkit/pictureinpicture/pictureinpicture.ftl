@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Asusam
 pictureinpicture-unmute =
     .aria-label = Amesli
+pictureinpicture-close =
+    .aria-label = Mdel
