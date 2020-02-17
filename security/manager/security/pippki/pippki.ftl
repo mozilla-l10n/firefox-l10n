@@ -2,17 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Parolun keyfiyyəti
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Ana Parolu Dəyiş
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Təhlükəsizlik cihazları: { $tokenName }
+change-password-old = Hazırkı parol:
+change-password-new = Yeni parol:
+change-password-reenter = Yeni parol (təkrar):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Ana Parolu Sıfırla
+    .style = width: 40em
 reset-password-button-label =
     .label = Reset
+reset-password-text = Əgər ana parolunuzu sıfırlasanız, web və e-poçt parolunuz, forma məlumatlarınız, şəxsi təsdiq sənədləriniz və xüsusi açarlarınız silinəcək. Ana parolunuzu sıfırlamaq istədiyinizə əminsiniz?
 
 ## Downloading cert dialog
 
@@ -35,9 +45,18 @@ client-auth-window =
     .title = İstifadəçi təyin etmə sorğusu
 client-auth-site-description = Bu zona sizin öz təsdiq sənədinizin təyin etməsini istəyir:
 client-auth-choose-cert = Təyin etməd' istifadə ediləcək təsdiq sənədini seçin:
+client-auth-cert-details = Seçilən sertifikatın detalları:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Təsdiq sənədi yedəyi parolunu seçin
+set-password-message = Qoyduğunuz təsdiq sənədi yedəyi parolu, yaratmaq istədiyiniz yedəkləmə fayllarınızı qoruyur.  Yedəkləməyə davam etmək üçün bu parolu qoymalısınız.
+set-password-backup-pw =
+    .value = Təsdiq sənədi yedəyi parolu:
+set-password-repeat-backup-pw =
+    .value = Təsdiq sənədi yedəyi parolu (təkrar):
+set-password-reminder = Vacib: Əgər təsdiq sənədi yedəyi parolunuzu unutsanız, bu yedəyi yenidən yarada bilməyəcəksiniz.  Lütfən bunu təhlükəsiz bir şəraitdə saxlayın.
 
 ## Protected Auth dialog
 
