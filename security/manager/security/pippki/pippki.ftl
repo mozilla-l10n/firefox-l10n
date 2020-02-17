@@ -5,12 +5,17 @@
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Newid Prif Gyfrinair
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dyfais Diogelwch: { $tokenName }
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Ailosod Prif Gyfrinair
+    .style = width: 40em
 reset-password-button-label =
     .label = Ailosod
 
@@ -36,6 +41,8 @@ client-auth-choose-cert = Dewiswch dystysgrif i'w chyflwyno fel adnabyddiaeth:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Dewiswch Gyfrinair Tystysgrif wrth Gefn
 set-password-backup-pw =
     .value = Cyfrinair y dystysgrif wrth gefn:
 
