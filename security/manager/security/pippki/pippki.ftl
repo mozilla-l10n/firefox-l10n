@@ -26,6 +26,9 @@ reset-password-text = Heke nasnavê xwe yê rêvebiriyê vala bihêlî, nasnavê
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Sertîfîka tê jêbarkirin
+    .style = width: 46em
 download-cert-message = Te Ewlekariya Rêvebira Sertîfîkayeke nû (CA) pirs kir.
 download-cert-trust-ssl =
     .label = Ev CA ji bo diyarkirina malperan ewle ye.
@@ -58,4 +61,5 @@ set-password-reminder = Girîngî: Heke nasnavê xwe yê hilanîna sertîfîkay�
 
 protected-auth-window =
     .title = HNW
+protected-auth-msg = Tika ye nasnameya xwe esehî bike. Rêbaza esehîkirina nasnameyê li gorî cureyê îşaretan diguhere.
 protected-auth-token = HNW
