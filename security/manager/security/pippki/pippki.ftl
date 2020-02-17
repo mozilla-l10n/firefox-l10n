@@ -13,6 +13,11 @@ change-password-token = Befeiligingsapparaat: { $tokenName }
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Haadwachtwurd opnij inisjalisearje
+    .style = width: 40em
+reset-password-button-label =
+    .label = Opnij inisjalisearje
 
 ## Downloading cert dialog
 
