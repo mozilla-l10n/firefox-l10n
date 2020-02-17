@@ -17,6 +17,12 @@ change-password-reenter = Confirmar a nova senha:
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Redefinir senha mestra
+    .style = width: 40em
+reset-password-button-label =
+    .label = Redefinir
+reset-password-text = Se redefinir a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privadas serão esquecidas. Tem certeza que quer redefinir sua senha mestra?
 
 ## Downloading cert dialog
 
@@ -50,9 +56,11 @@ set-password-backup-pw =
     .value = Senha de backup do certificado:
 set-password-repeat-backup-pw =
     .value = Senha de backup do certificado (confirmar):
+set-password-reminder = Importante: caso você esqueça a senha do backup do certificado, não poderá restaurar este backup mais tarde. Anote em um local seguro.
 
 ## Protected Auth dialog
 
 protected-auth-window =
     .title = Autenticação protegida por token
+protected-auth-msg = Autentique-se com o token. O modo de autenticação depende do tipo do seu token.
 protected-auth-token = Token:
