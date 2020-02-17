@@ -36,4 +36,7 @@ set-password-backup-pw =
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Beskerme tokenautentikaasje
+protected-auth-msg = Autentisearje by de token. Autentikaasje metoade hinget ôf fan it type fan jo token.
 protected-auth-token = Token:
