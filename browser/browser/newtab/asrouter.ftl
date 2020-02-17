@@ -134,6 +134,15 @@ cfr-whatsnew-lockwise-take-body =
     cyfrineiriau wrth gefn o unrhyw le.
 cfr-whatsnew-lockwise-take-link-text = Estyn yr ap
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Teipio llai, darganfod mwy gyda'r bar cyfeiriad
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Gallwch gyrraedd y gwefannau rydych chi'n eu defnyddio fwyaf gydag un clic i'r bar cyfeiriad. Dewch o hyd i bethau'n gynt gyda chanlyniadau gan { $searchEngineName } a'ch hanes pori.
+cfr-whatsnew-searchbar-body-generic = Gallwch gyrraedd y gwefannau rydych chi'n eu defnyddio fwyaf gydag un clic i'r bar cyfeiriad. Dewch o hyd i bethau'n gynt gyda chanlyniadau chwilio o'ch hanes pori.
+cfr-whatsnew-searchbar-icon-alt-text = Eicon chwyddwydr
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Gwyliwch fideos wrth i chi bori
