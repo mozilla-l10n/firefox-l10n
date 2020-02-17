@@ -113,6 +113,10 @@ cfr-whatsnew-lockwise-take-title = 비밀번호를 가지고 다니세요
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 모바일 앱을 사용하면 어디서든 백업된 비밀번호에 안전하게 접근 할 수 있습니다.
 cfr-whatsnew-lockwise-take-link-text = 앱 받기
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = 돋보기 아이콘
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = 탐색하는 동안 동영상 시청
