@@ -58,4 +58,5 @@ set-password-reminder = Importante: Se esquece o contrasinal da copia de seguran
 
 protected-auth-window =
     .title = Autenticación protexida da chave electrónica
+protected-auth-msg = Autentíquese coa chave electrónica. O método de autenticación depende do tipo da súa chave electrónica.
 protected-auth-token = Chave electrónica:
