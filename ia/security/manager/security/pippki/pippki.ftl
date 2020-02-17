@@ -17,6 +17,12 @@ change-password-reenter = Nove contrasigno (novemente):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Reinitialisar le contrasigno maestro
+    .style = width: 40em
+reset-password-button-label =
+    .label = Reinitialisar
+reset-password-text = Si tu reinitialisa tu contrasigno maestro, tote tu contrasignos de e-mail e de web, datos de formularios e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno maestro?
 
 ## Downloading cert dialog
 
@@ -50,6 +56,7 @@ set-password-backup-pw =
     .value = Contrasigno de salveguarda del certificato:
 set-password-repeat-backup-pw =
     .value = Contrasigno de salveguarda del certificato (novemente):
+set-password-reminder = Importante: Si tu oblida le contrasigno de tu copia de reserva del certificato, tu non potera restaurar iste copia de reserva plus tarde. Per favor guarda lo in un loco secur.
 
 ## Protected Auth dialog
 
