@@ -18,6 +18,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Herinitialiseren
+reset-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
 
 ## Downloading cert dialog
 
@@ -33,15 +34,18 @@ download-cert-view-text = CA-certificaat bestuderen
 
 client-auth-window =
     .title = Gebruikersidentificatieverzoek
+client-auth-site-description = Deze website vraagt u zich te identificeren met een beveiligingscertificaat:
 
 ## Set password (p12) dialog
 
 set-password-window =
     .title = Kies een wachtwoord voor de reservekopie van het certificaat
+set-password-message = Het wachtwoord dat u hier instelt voor de reservekopie van het certificaat beschermt het reservekopiebestand dat u wilt gaan maken. U moet dit wachtwoord instellen voordat u verdergaat met de reservekopie.
 set-password-backup-pw =
     .value = Wachtwoord voor de reservekopie van het certificaat:
 set-password-repeat-backup-pw =
     .value = Wachtwoord voor de reservekopie van het certificaat (nogmaals):
+set-password-reminder = Belangrijk: als u uw wachtwoord voor de reservekopie van het certificaat vergeet, kunt u deze reservekopie later niet herstellen. Berg het op een veilige plek op.
 
 ## Protected Auth dialog
 
