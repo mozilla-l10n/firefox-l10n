@@ -405,6 +405,9 @@ browsing-picture-in-picture-learn-more = Ne saber mai
 browsing-cfr-recommendations =
     .label = Recomandar d’extensions pendent la navegacion
     .accesskey = R
+browsing-cfr-features =
+    .label = Recomandar de foncionalitats pendent la navegacion
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Ne saber mai
 
 ## General Section - Proxy
@@ -505,6 +508,9 @@ search-bar-shown =
 search-engine-default-header = Motor de cerca per defaut
 search-engine-default-desc = Causir lo motor de recèrca per defaut per d'utilizar dins las barras d'adreça e de recèrca.
 search-engine-default-desc-2 = Aqueste es lo motor de recèrca per defaut de la barra d’adreça e de a barra de recèrca. Podètz lo cambiar quand volgatz.
+search-separate-default-engine =
+    .label = Utilizar aqueste motor de recèrca en navegacion privada
+    .accesskey = U
 search-suggestions-header = Suggestions de recèrca
 search-suggestions-desc = Causissètz cossí apareisseràn las suggestions dels motors de recèrca.
 search-suggestions-option =
@@ -855,6 +861,9 @@ content-blocking-learn-more = Ne saber mai
 content-blocking-setting-standard =
     .label = Standard
     .accesskey = d
+content-blocking-setting-strict =
+    .label = Estricte
+    .accesskey = r
 content-blocking-setting-custom =
     .label = Personalizat
     .accesskey = P
@@ -882,6 +891,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. Las pagina cargaràn normalament.
 content-blocking-etp-strict-desc = Proteccion refortida, pòt copar unes sites o contengut.
+content-blocking-cross-site-tracking-cookies = Cookies de seguiment entre sites
 content-blocking-social-media-trackers = Traçadors de malhums socials
 content-blocking-all-cookies = Totes los cookies
 content-blocking-unvisited-cookies = Cookies dels sites pas visitats
