@@ -21,6 +21,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-message = Iarrtar ort muinín a bheith agat as Údarás Deimhniúcháin nua.
+download-cert-trust-ssl =
+    .label = Tá muinín agat as an údarás deimhniúcháin seo chun suímh Ghréasáin a shainaithint.
 download-cert-trust-email =
     .label = Tá muinín agat as an údarás deimhniúcháin seo chun úsáideoirí ríomhphoist a shainaithint.
 download-cert-message-desc = Sula gcuireann tú muinín san údarás deimhniúcháin seo, ba cheart duit a theastas, a pholasaithe agus a mhodhanna oibre a scrúdú má tá fáil orthu.
