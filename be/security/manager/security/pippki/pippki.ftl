@@ -26,17 +26,41 @@ reset-password-text = Калі вы пазбавіцеся вашага гало
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Сцягванне сертыфіката
+    .style = width: 46em
+download-cert-message = Вас запыталі аб даверу да новага Цэнтра Сертыфікацыі (ЦС).
+download-cert-trust-ssl =
+    .label = Давяраць гэтаму ЦС ідэнтыфікаваць вэб-сайты.
+download-cert-trust-email =
+    .label = Давяраць гэтаму ЦС апазнаваць э-паштовых карыстальнікаў.
+download-cert-message-desc = Перад тым, як даверыцца гэтаму ЦС з нейкай мэтай, вы мусіце даследаваць яго сертыфікат, яго палітыку і працэдуры (калі даступны).
 download-cert-view-cert =
     .label = Прагляд
+download-cert-view-text = Даследаваць сертыфікат ЦС
 
 ## Client Authorization Ask dialog
 
 client-auth-window =
     .title = Запыт вызначэння карыстальніка
+client-auth-site-description = Гэты сайт патрабуе, каб вы ідэнтыфікавалі сябе сертыфікатам:
+client-auth-choose-cert = Вылучыце сертыфікат, каб падаць як вызначэнне:
+client-auth-cert-details = Падрабязнасці вылучанага сертыфіката:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Выбраць пароль для рэзерв.копіі сертыфікатаў
+set-password-message = Пароль рэзерв.копіі сертыфікатаў, які вы прызначылі, засцерагае файл, які вы ствараеце.  Вы павінны прызначыць гэты пароль, каб пачаць рэзервовае капіяванне.
+set-password-backup-pw =
+    .value = Пароль рэзервовай копіі:
+set-password-repeat-backup-pw =
+    .value = Пароль рэзервовай копіі (зноў):
+set-password-reminder = Увага: Калі вы забудзеце ваш пароль рэзервовай копіі сертыфікатаў, вы не зможаце ўзнавіць файлы з гэтай копіі пазней.  Занатуйце яго, калі ласка, у надзейным месцы.
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Аўтарызацыя з абароненай лексемай
+protected-auth-msg = Аўтарызуйцеся, калі ласка, да лексемы. Метад аўтарызацыі залежыць ад тыпу вашай сістэмы.
 protected-auth-token = Лексема:
