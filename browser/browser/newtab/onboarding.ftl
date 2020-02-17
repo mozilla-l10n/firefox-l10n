@@ -19,7 +19,7 @@ onboarding-button-label-get-started = Começar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
-onboarding-welcome-body = Você instalou o navegador.<br/>Conheça outros produtos e serviços do { -brand-product-name }.
+onboarding-welcome-body = Você instalou o navegador.<br/>Conheça outros produtos e serviços { -brand-product-name }.
 onboarding-welcome-learn-more = Saiba mais sobre os benefícios.
 onboarding-welcome-modal-get-body = Você instalou o navegador.<br/>Agora aproveite ao máximo o { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Potencialize sua proteção de privacidade.
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Leve o { -brand-product-name } com você
 onboarding-sync-welcome-content = Tenha seus favoritos, histórico, senhas e outras configurações em todos os seus dispositivos.
 onboarding-sync-welcome-learn-more-link = Saiba mais sobre a Conta Firefox
-onboarding-sync-form-invalid-input = Necessário um e-mail válido
-onboarding-sync-legal-notice = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos do serviço</a> e o <a data-l10n-name="privacy">Aviso de privacidade</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Continuar
