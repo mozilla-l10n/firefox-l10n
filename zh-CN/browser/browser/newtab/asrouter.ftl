@@ -116,6 +116,10 @@ cfr-whatsnew-lockwise-take-link-text = 获取应用
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = 使用地址栏，输入寥寥，搜遍万千
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = 单击地址栏，即可快速访问最常用的网站。来自 { $searchEngineName } 与浏览历史的搜索结果，助您更快找到所需信息。
+cfr-whatsnew-searchbar-body-generic = 单击地址栏，即可快速访问最常用的网站。来自浏览历史的搜索结果，助您更快找到所需信息。
 cfr-whatsnew-searchbar-icon-alt-text = 放大镜图标
 
 ## Picture-in-Picture
