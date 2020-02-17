@@ -56,4 +56,7 @@ set-password-reminder = Viktig: Dersom du gløymer passordet til tryggingskopien
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Godkjenning med verna symbol
+protected-auth-msg = Gjer vel og godkjenn symbolet. Godkjenningsmetoden er avhengig av type signeringseining
 protected-auth-token = Symbol:
