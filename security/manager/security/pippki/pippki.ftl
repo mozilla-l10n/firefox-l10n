@@ -45,6 +45,7 @@ client-auth-window =
     .title = प्रयोगकर्ता पहिचान अनुरोध
 client-auth-site-description = यो साइटले तपाईलाई आफूलाई एउटा प्रमाणपत्र सहित पहिचान गर्न आग्रह गरेको छ।
 client-auth-choose-cert = पहिचानका रूपमा प्रस्तुत गर्न एउटा प्रमाणपत्र छनोट गर्नुहोस्:
+client-auth-cert-details = चयन भएको प्रमाणपत्र को विवरण:
 
 ## Set password (p12) dialog
 
