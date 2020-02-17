@@ -39,6 +39,7 @@ client-auth-window =
     .title = Запрос идентификации пользователя
 client-auth-site-description = Сайту необходимо определить, с каким сертификатом вас ассоциировать:
 client-auth-choose-cert = Выберите сертификат для идентификации:
+client-auth-cert-details = Информация о выбранном сертификате:
 
 ## Set password (p12) dialog
 
