@@ -45,6 +45,7 @@ client-auth-window =
     .title = Goykaw boŋtammaasa wiri
 client-auth-site-description = Nungoo woo wiri kaŋ war ma war boŋ tammaasa nda tabatiyan-tiiraa:
 client-auth-choose-cert = Tabatiyan-tiira suuba k'a cebe sanda boŋ-tammaasa:
+client-auth-cert-details = Tabatiyan-tiira suubantaa šilbayhayey:
 
 ## Set password (p12) dialog
 
