@@ -25,7 +25,13 @@ download-cert-window =
     .title = Բեռնավորում եմ Վկայագիրը
     .style = width: 46em
 download-cert-message = Դուք հայց եք ստացել մի նոր Վկայագրի լիազորման (CA) համար:
+download-cert-trust-ssl =
+    .label = Վստահել այս CA-ին՝ վեբ հանգույցների նույնացման համար:
+download-cert-trust-email =
+    .label = Վստահել այս CA-ին՝ վէլ. փոստերի նույնացման համար:
 download-cert-message-desc = Նախքան ՎԱ (CA)-ին որևէ նպատակով վստահելը, պիտի ուսումնասիրեք նրա Վկայագիրը, դրույթներն ու գործառույթները (եթե առկա են):
+download-cert-view-cert =
+    .label = Տեսք
 download-cert-view-text = Ոսումնասիրել ԱՀ (CA) Վկայագիրը
 
 ## Client Authorization Ask dialog
@@ -34,6 +40,7 @@ client-auth-window =
     .title = Օգտվողի Նույնացման Հարցում
 client-auth-site-description = Այս հանգույց պահանջում է, որ դուք Ձեր Վկայագիրը ներկայացնեք.
 client-auth-choose-cert = Ընտրեք թվային ինքնությունը ներկայացնող Վկայագիրը.
+client-auth-cert-details = Ընտրված Վկայագրի մանրամասները.
 
 ## Set password (p12) dialog
 
