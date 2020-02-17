@@ -1018,7 +1018,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "더 알아보기">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "어떤 문제가 있었습니까? (선택)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "선택 사항: 문제 설명">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "선택 사항: 문제를 설명해 주세요">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "보고서 보내기">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "취소">
 
