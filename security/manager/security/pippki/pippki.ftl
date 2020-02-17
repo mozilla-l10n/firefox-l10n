@@ -33,12 +33,14 @@ download-cert-view-cert =
 
 client-auth-window =
     .title = 使用者識別需求
+client-auth-site-description = 此網站要求您提供可用來識別您自己的憑證:
 client-auth-choose-cert = 選擇一項憑證以做為識別:
 
 ## Set password (p12) dialog
 
 set-password-window =
     .title = 選擇憑證備份密碼
+set-password-message = 在此設定的憑證備份密碼可保護您要建立的備份。 您必須設定此密碼以繼續備份。
 set-password-backup-pw =
     .value = 憑證備份密碼:
 set-password-repeat-backup-pw =
