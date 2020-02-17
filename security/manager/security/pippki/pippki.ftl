@@ -45,6 +45,7 @@ client-auth-window =
     .title = Sol·licitud d'identificació de l'usuari
 client-auth-site-description = Aquest lloc ha sol·licitat que us identifiqueu amb un certificat:
 client-auth-choose-cert = Trieu un certificat per presentar-lo com a identificació:
+client-auth-cert-details = Detalls del certificat seleccionat:
 
 ## Set password (p12) dialog
 
