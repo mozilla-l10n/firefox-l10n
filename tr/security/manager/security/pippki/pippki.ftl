@@ -6,6 +6,8 @@ password-quality-meter = Parola kalite ölçümü
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Ana parolayı değiştir
 change-password-old = Şu anki parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
