@@ -122,6 +122,10 @@ cfr-whatsnew-lockwise-take-body =
     gespeicherten Passwörter zugreifen.
 cfr-whatsnew-lockwise-take-link-text = Hol dir die App
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Lupensymbol
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Schaue Videos während du surfst
