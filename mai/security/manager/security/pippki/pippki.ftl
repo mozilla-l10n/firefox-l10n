@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = फेर सेट  करू
+reset-password-text = जँ अहाँ मुख्य गुड़किल्ली फेर सेट कएने छी, अहाँक सभटा जमा वेब आओर इमेल गुड़किल्ली, आँकड़ा, निज प्रमाणपत्र, औऱ निज कुँजी विस्मृत हो जएताह. की अहाँ अपन मुख्य गुड़किल्ली सेट फेर कएनाइ केँ सुनिश्चित अछि?
 
 ## Downloading cert dialog
 
@@ -49,13 +50,16 @@ client-auth-choose-cert = एकटाटा पहचान क रूपेँ
 
 set-password-window =
     .title = प्रमाणपत्र बैकअप गुड़किल्ली चुनू
+set-password-message = प्रमाणपत्र बैकअप गुड़किल्ली जकरा अहाँ एतए सेट कएने छी बैकअफ फाइलक रक्षा करैत अछि  जकरा अहाँ बनाबैक करीब अछि .  अहाँकेँ जरूर एहि गुड़किल्ली केँ सेट कएनाइ चाही एहि बैकअपक सँग.
 set-password-backup-pw =
     .value = प्रमाणपत्र बैकअप गुड़किल्ली:
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र बैकअप गुड़किल्ली (फेर):
+set-password-reminder = Important: जँ अहाँ अपन प्रमाणपत्र बैकअप गुड़किल्ली भूलि गेलहुँ, अहाँ एहि बैकअप केँ बाद मे फेर नहि लाबि सकब. कृप्या एकरा सुरक्षित स्थान मे रिकार्ड करू.
 
 ## Protected Auth dialog
 
 protected-auth-window =
     .title = संरक्षित टोकन सत्यापन
+protected-auth-msg = कृपया टोकन मे सत्यापित करू. सत्यापन विधि अहाँक टोकन क प्रकार पर निर्भर करैत अछि .
 protected-auth-token = टोकन:
