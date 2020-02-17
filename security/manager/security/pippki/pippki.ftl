@@ -6,6 +6,11 @@ password-quality-meter = Độ an toàn mật khẩu
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Thay đổi mật khẩu chính
+# Variables:
+# $tokenName (String) - Security device of the change password dialog
+change-password-token = Thiết bị bảo mật: { $tokenName }
 change-password-old = Mật khẩu hiện tại:
 change-password-new = Mật khẩu mới:
 change-password-reenter = Mật khẩu mới (nhập lại):
