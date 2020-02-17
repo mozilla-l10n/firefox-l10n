@@ -31,11 +31,15 @@ download-cert-trust-email =
 download-cert-message-desc = Ante confider a iste CA pro qualcunque proposito, tu debe examinar su certificato e su politica e proceduras (si disponibile).
 download-cert-view-cert =
     .label = Vider
+download-cert-view-text = Examinar le certificato de CA
 
 ## Client Authorization Ask dialog
 
 client-auth-window =
     .title = Requesta de identification de usator
+client-auth-site-description = Iste sito ha requestate que tu identificar te per un certificato:
+client-auth-choose-cert = Elige un certificato a presentar como identification:
+client-auth-cert-details = Detalios de certificato seligite:
 
 ## Set password (p12) dialog
 
