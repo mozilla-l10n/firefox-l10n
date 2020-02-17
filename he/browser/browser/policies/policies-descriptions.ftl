@@ -88,5 +88,6 @@ policy-SecurityDevices = התקנת מודולי PKCS #11.
 policy-SSLVersionMax = הגדרת גרסת ה־SSL המקסימלית.
 policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
 policy-SupportMenu = הוספת תפריט תמיכה בהתאמה אישית לתפריט העזרה.
+policy-UserMessaging = לא להציג למשתמש הודעות מסוימות.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
