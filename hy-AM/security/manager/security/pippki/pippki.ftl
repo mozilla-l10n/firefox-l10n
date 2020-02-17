@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Գաղտնաբառի ապահովությունը
 
 ## Change Password dialog
 
@@ -20,14 +21,30 @@ reset-password-text = Եթե մաքրեք Ձեր հիմնական գաղտնաբ
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Բեռնավորում եմ Վկայագիրը
+    .style = width: 46em
+download-cert-message = Դուք հայց եք ստացել մի նոր Վկայագրի լիազորման (CA) համար:
+download-cert-message-desc = Նախքան ՎԱ (CA)-ին որևէ նպատակով վստահելը, պիտի ուսումնասիրեք նրա Վկայագիրը, դրույթներն ու գործառույթները (եթե առկա են):
+download-cert-view-text = Ոսումնասիրել ԱՀ (CA) Վկայագիրը
 
 ## Client Authorization Ask dialog
 
 client-auth-window =
     .title = Օգտվողի Նույնացման Հարցում
+client-auth-site-description = Այս հանգույց պահանջում է, որ դուք Ձեր Վկայագիրը ներկայացնեք.
+client-auth-choose-cert = Ընտրեք թվային ինքնությունը ներկայացնող Վկայագիրը.
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Նշեք Վկայագրի Կրկնօրինակի Գաղտնաբառը
+set-password-message = Վկայագրի կրկնօրինակի համար նշվող գաղտնաբառը պաշտպանում է ստեղծվող կրկնօրինակը: Կրկնօրինակումը շարունակելու համար պիտի գաղտնաբառ նշեք:
+set-password-backup-pw =
+    .value = Վկայագրի Կրկնօրինակի Գաղտնաբառը.
+set-password-repeat-backup-pw =
+    .value = Վկայագրի Կրկնօրինակի Գաղտնաբառը (նորից).
+set-password-reminder = Կարևոր է. Եթե մոռանաք ձեր Վկայագրի կրկնօրինակի գաղտնաբառը. ի վիճակի չեք լինի այս կրկնօրինակն օգտագործել: Խնդրեմ, այն գրի առեք և ապահով տեղ պահեք:
 
 ## Protected Auth dialog
 
