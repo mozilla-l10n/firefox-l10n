@@ -6,6 +6,8 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Cambiar contraseña maestra
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguridad: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Nueva contraseña (confirmar):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Restablecer la contraseña maestra
+    .style = width: 40em
 reset-password-button-label =
     .label = Restablecer
+reset-password-text = Si restableces tu contraseña maestra, se borrarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?
 
 ## Downloading cert dialog
 
@@ -42,6 +48,9 @@ client-auth-cert-details = Detalles del certificado seleccionado:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Elegir una contraseña de respaldo para el certificado
+set-password-message = La contraseña del certificado de respaldo que ponga aquí protegerá el archivo de respaldo que está a punto de crear. Debe poner esta contraseña para proceder con la copia de respaldo.
 set-password-backup-pw =
     .value = Contraseña de respaldo del certificado:
 set-password-repeat-backup-pw =
