@@ -8,6 +8,9 @@ password-quality-meter = Tomhas càileachd an fhacail-fhaire
 
 change-password-window =
     .title = Atharraich am prìomh fhacal-faire
+# Variables:
+# $tokenName (String) - Security device of the change password dialog
+change-password-token = Uidheam tèarainteachd: { $tokenName }
 change-password-old = Am facal-faire làithreach:
 change-password-new = Am facal-faire ùr:
 change-password-reenter = Am faca-faire ùr (a-rithist):
