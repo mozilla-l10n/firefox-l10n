@@ -43,6 +43,7 @@ download-cert-view-text = Susipažinti su LĮ liudijimu
 
 client-auth-window =
     .title = Naudotojo tapatybės nustatymas
+client-auth-site-description = Svetainė prašo pateikti jūsų tapatybę patvirtinantį liudijimą.
 client-auth-choose-cert = Pasirinkite liudijimą tapatybei patvirtinti:
 
 ## Set password (p12) dialog
