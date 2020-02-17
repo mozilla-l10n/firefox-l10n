@@ -12,6 +12,8 @@ change-password-window =
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Drūseibys īrīce: { $tokenName }
 change-password-old = Pošreizejuo parole:
+change-password-new = Jaunō parole:
+change-password-reenter = Jaunō parole (vēļreiz):
 
 ## Reset Password dialog
 
@@ -54,6 +56,7 @@ set-password-backup-pw =
     .value = Sertifikata rezerves puorspīdumi parole:
 set-password-repeat-backup-pw =
     .value = Sertifikata rezerves puorspīdumi parole (vēļreiz):
+set-password-reminder = Svareigi: Ka aizmierssi itū paroli, navareisi atjaunōt itū rezerves kopiju.  Lyudzu sagloboj tū drūšā vītā.
 
 ## Protected Auth dialog
 
