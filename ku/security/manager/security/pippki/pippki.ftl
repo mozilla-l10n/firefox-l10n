@@ -2,14 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Kalîteya nasnavê diguhere
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Nasnavê Rêvebiriyê Biguherîne
+# Variables:
+# $tokenName (String) - Security device of the change password dialog
+change-password-token = Amûrê Ewlekariyê: { $tokenName }
+change-password-old = Nasnavê Niha:
 change-password-new = Nasnavê nû:
 change-password-reenter = Nasnavê nû (dubare):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Şîfreya Bingehîn Vala Bike
+    .style = width: 40em
+reset-password-button-label =
+    .label = Reset Bike
+reset-password-text = Heke nasnavê xwe yê rêvebiriyê vala bihêlî, nasnavên te yên Web û E-Peyamê, agahiyên te yên Formê, sertîfîkayên te yên kesane û kilîta te ya taybet dê winda bibin. Dixwazî nasnavê xwe yê rêvebiriyê vala bikî?
 
 ## Downloading cert dialog
 
@@ -32,6 +45,9 @@ client-auth-choose-cert = Sertîfîkaya ku dê di nasînê de bê bikaranîn hil
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Nasnavê xwe yê hilanîna sertîfîkayê hilbijêre
+set-password-message = Nasnavê hilanîna sertîfîkayê yê ku tu têketiyê, pelên ku dixwazî hilînî diparêze. Ji bo ku dikaribî hilanînê pêk bînî, divê nasnavê diyar bikî.
 set-password-backup-pw =
     .value = Nasnavê Hilanîna Sertîfîkayê:
 set-password-repeat-backup-pw =
