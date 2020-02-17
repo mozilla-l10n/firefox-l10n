@@ -6,6 +6,8 @@ password-quality-meter = Paroles kvalitātes mērītājs
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Mainīt galveno paroli
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Drošības ierīce: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Jaunā parole (vēlreiz):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Atstatīt galveno paroli
+    .style = width: 40em
 reset-password-button-label =
     .label = Atstatīt
+reset-password-text = Ja atstatīsiet galveno paroli, tiks aizmirstas visas saglabātās tīmekļa un e-pasta paroles, formu dati, personīgie sertifikāti un privātās atslēgas.  Vai esat pārliecināts, ka vēlaties atstatīt galveno paroli?
 
 ## Downloading cert dialog
 
@@ -26,6 +32,8 @@ download-cert-window =
 download-cert-message = Jums tiek vaicāts uzticēties jaunai Sertifikātu Autoritātei (CA).
 download-cert-trust-ssl =
     .label = Uzticēties šai CA tīmekļa vietņu identificēšanai.
+download-cert-trust-email =
+    .label = Uzticēties šai CA epasta lietotāju identificēšanai.
 download-cert-message-desc = Pirms uzticaties šai CA jebkādam mērķim, jums vajadzētu izpētīt tās sertifikātu un (ja pieejams) tās sertifikātu izsniegšanas politiku un procedūras.
 download-cert-view-cert =
     .label = Apskatīt
@@ -41,6 +49,9 @@ client-auth-cert-details = Izvēlētā sertifikāta detaļas:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Izvēlieties sertifikāta rezerves kopijas paroli
+set-password-message = Sertifikāta rezerves kopijas parole aizsargās izveidoto rezerves kopijas failu. Lai turpinātu obligāti jāievada parole.
 set-password-backup-pw =
     .value = Sertifikāta rezerves kopijas parole:
 set-password-repeat-backup-pw =
