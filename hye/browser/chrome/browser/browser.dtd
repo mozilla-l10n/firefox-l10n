@@ -1057,7 +1057,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateUnsupported.panelUI.label "Դուք չեք կարող կատարել յետագայ թարմացումները">
 <!ENTITY updateRestart.panelUI.label2 "Վերագործարկեք՝ &brandShorterName;-ը՝ թարմացնելու համար">
 
+<!ENTITY newTabControlled.header.message "Ձեր նոր ներդիրը փոխուել է։">
+<!ENTITY newTabControlled.keepButton.label "Պահել փոփոխութիւնները">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "Անջատել ընդլայնումը">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Յաւելումը փոխուած է, ինչը տեսնում եք որպէս Ձեր գլխաւոր էջ։ Դուք կարող եք վերականգնել Ձեր կարգաւորումները, եթե Դուք չեք ցանկանում այս փոփոխութիւնները։">
