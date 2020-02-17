@@ -6,6 +6,8 @@ password-quality-meter = Parola kalite ölçümü
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Ana Parolayı Değiştir
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Güvenlik Aygıtları: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Yeni parola (tekrar):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Ana Parolayı Sıfırla
+    .style = width: 40em
 reset-password-button-label =
     .label = Sıfırla
+reset-password-text = Eğer ana parolanızı sıfırlarsanız, İnternet ve E-Posta parolanız, Form verileriniz, kişisel sertifiklarını ve özel Anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?
 
 ## Downloading cert dialog
 
@@ -28,6 +34,7 @@ download-cert-trust-ssl =
     .label = Ağ-saytlarını teşhis etmek içün bu Şeadet Salahiyetine (CA) itimat et.
 download-cert-trust-email =
     .label = Bu CA E-Posta qullanıcılarını belirlemek için güvenilir.
+download-cert-message-desc = Bu Şeadetnameleme Salâhiyetine (CA) er angi murat içün itimat etmezden evel, onıñ şeadetnamesini ve siyasetini ve (müsait ise) yol-yoruğını teşkermek kereksiñiz.
 download-cert-view-cert =
     .label = Köster
 download-cert-view-text = CA sertifikasını kontrol et
@@ -42,6 +49,9 @@ client-auth-cert-details = Seçilen sertifika detayları:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Sertifika yedekleme parolanızı secin
+set-password-message = Koyduğunuz Sertifika yedekleme parolası , oluşturmak istediğiniz yedekleme dosyalarını korur. Yedeklemeye devam etmek için bu parolayı koymak zorundasınız.
 set-password-backup-pw =
     .value = Sertifika yedekleme parolası:
 set-password-repeat-backup-pw =
