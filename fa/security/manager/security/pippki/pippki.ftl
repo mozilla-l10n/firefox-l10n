@@ -45,6 +45,7 @@ client-auth-window =
     .title = درخواست تشخیص هویت کاربر
 client-auth-site-description = این وب‌گاه درخواست کرده شما خود را با ارائهٔ یک گواهی معرفی کنید:
 client-auth-choose-cert = یک گواهی به عنوان مدرک شناسایی انتخاب کنید:
+client-auth-cert-details = جزئیات گواهی انتخاب شده:
 
 ## Set password (p12) dialog
 
