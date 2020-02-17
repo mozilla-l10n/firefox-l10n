@@ -35,6 +35,8 @@ download-cert-trust-ssl =
 download-cert-trust-email =
     .label = Fidar a questa CA per identifitgar utilisaders dad e-mail.
 download-cert-message-desc = Avant che fidar a questa CA per mintga intent, duessas ti controllar il certificat e sias directivas e proceduras (sche avant maun).
+download-cert-view-cert =
+    .label = Mussar
 download-cert-view-text = Controllar il certificat CA
 
 ## Client Authorization Ask dialog
