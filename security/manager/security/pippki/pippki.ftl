@@ -22,7 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Nulstil
-reset-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte web- og mail-adgangskoder, formulardata, personlige certifikater og private nøgler blive glemt. Er du sikker på, at du vil nulstille din hovedadgangskode?
+reset-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte web- og mail-adgangskoder, formulardata, personlige certifikater og private nøgler blive slettet. Er du sikker på, at du vil nulstille din hovedadgangskode?
 
 ## Downloading cert dialog
 
@@ -50,13 +50,13 @@ client-auth-cert-details = Detaljer for det valgte certifikat:
 ## Set password (p12) dialog
 
 set-password-window =
-    .title = Vælg en adgangskode for certifikatsikkerhedskopi
-set-password-message = Adgangskoden, du vælger til din certifikatsikkerhedskopi, beskytter den sikkerhedskopi du er ved at oprette.  Du skal angive denne adgangskode for at fortsætte sikkerhedskopieringen.
+    .title = Vælg en adgangskode for sikkerhedskopi af certifikatet
+set-password-message = Adgangskoden beskytter din sikkerhedskopi af certifikatet. Du skal angive en adgangskode for at fortsætte sikkerhedskopieringen.
 set-password-backup-pw =
-    .value = Adgangskode for certifikatsikkerhedskopi:
+    .value = Adgangskode for sikkerhedskopi af certifikat:
 set-password-repeat-backup-pw =
-    .value = Adgangskode for certifikatsikkerhedskopi (igen):
-set-password-reminder = Vigtigt: Hvis du glemmer din adgangskode vil du ikke kunne gendanne denne sikkerhedskopi senere.  Gem den et sikkert sted.
+    .value = Adgangskode for sikkerhedskopi af certifikat (igen):
+set-password-reminder = Vigtigt: Hvis du glemmer din adgangskode, vil du ikke kunne gendanne denne sikkerhedskopi senere.  Gem den et sikkert sted.
 
 ## Protected Auth dialog
 
