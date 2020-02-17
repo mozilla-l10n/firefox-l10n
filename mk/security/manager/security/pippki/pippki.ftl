@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Ресетирај
+reset-password-text = Ако ја ресетирате главната лозинка сите ваши снимени лозикни, податоци за обрасци, сертификати и приватни клучеви ќе бидат загубени. Сигурно сакате да ја ресетирате главната лозинка?
 
 ## Downloading cert dialog
 
