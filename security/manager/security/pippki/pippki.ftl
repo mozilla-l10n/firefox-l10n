@@ -60,3 +60,7 @@ set-password-reminder = Important: Dacă uiți parola de siguranță pentru cert
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Autentificare prin jeton protejat
+protected-auth-msg = Te rugăm te autentifici cu cod. Metoda de autentificare depinde de tipul codului tău.
+protected-auth-token = Cod:
