@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Ajánlott kiegészítő
 cfr-doorhanger-feature-heading = Ajánlott szolgáltatás
 cfr-doorhanger-pintab-heading = Próbálja ki ezt: Lap rögzítése
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miért látom ezt
@@ -119,6 +119,11 @@ cfr-whatsnew-lockwise-backup-link-text = Kapcsolja be a biztonsági mentéseket
 cfr-whatsnew-lockwise-take-title = Vigye magával a jelszavait
 cfr-whatsnew-lockwise-take-body = A { -lockwise-brand-short-name } mobilalkalmazással bárhol biztonságosan hozzáférhet a jelszavaihoz.
 cfr-whatsnew-lockwise-take-link-text = Alkalmazás beszerzése
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Gépeljen kevesebbet, találjon meg több mindent a címsorban
+cfr-whatsnew-searchbar-icon-alt-text = Nagyító ikon
 
 ## Picture-in-Picture
 
