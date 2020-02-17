@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Obnovit
+reset-password-text = Pokud obnovíte hlavní heslo, všechna vaše uložená hesla z webových stránek a e-mailů, vyplněná data z formulářů, osobní certifikáty a klíče budou ztraceny. Chcete přesto hlavní heslo obnovit?
 
 ## Downloading cert dialog
 
