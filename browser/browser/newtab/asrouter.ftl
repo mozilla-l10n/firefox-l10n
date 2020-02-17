@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Anbefalte utvidelser
 cfr-doorhanger-feature-heading = Anbefalt funksjon
 cfr-doorhanger-pintab-heading = Prøv dette: fest fanen
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor ser jeg dette
@@ -121,6 +121,15 @@ cfr-whatsnew-lockwise-take-body =
     Mobilappen { -lockwise-brand-short-name } lar deg få tilgang til dine
     sikkerhetskopierte passord hvor som helst.
 cfr-whatsnew-lockwise-take-link-text = Last ned appen
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Skriv mindre, finn mer med adressefeltet
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Gå til nettstedene du bruker mest med et enkelt klikk i adressefeltet. Finn ting raskere med søkeresultater fra { $searchEngineName } og nettleserhistorikken.
+cfr-whatsnew-searchbar-body-generic = Gå til nettstedene du bruker mest med et enkelt klikk i adressefeltet. Finn ting raskere med søkeresultater fra nettleserhistorikken.
+cfr-whatsnew-searchbar-icon-alt-text = Forstørrelsesglassikon
 
 ## Picture-in-Picture
 
