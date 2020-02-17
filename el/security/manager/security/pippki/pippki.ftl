@@ -17,6 +17,11 @@ change-password-reenter = Εισάγετε τον κωδικό ξανά
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Επαναφορά κύριου κωδικού
+    .style = width: 40em
+reset-password-button-label =
+    .label = Επαναφορά
 reset-password-text = Αν επαναφέρετε τον κύριο κωδικό σας, όλοι οι αποθηκευμένοι κωδικοί πρόσβασης από ιστοσελίδες και e-mail, τα δεδομένα φορμών, τα προσωπικά πιστοποιητικά και τα ιδιωτικά κλειδιά σας θα διαγραφούν. Θέλετε σίγουρα να επαναφέρετε τον κύριο κωδικό σας;
 
 ## Downloading cert dialog
