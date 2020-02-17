@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "t">
 <!ENTITY exitFullScreenCmd.label "Sair da tela inteira">
 <!ENTITY exitFullScreenCmd.accesskey "t">
+
 <!ENTITY fullScreenCmd.label "Tela inteira">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Configurações da conta">
 <!ENTITY fxa.menu.manageAccount2.label "Gerenciar conta">
 <!ENTITY fxa.menu.signOut.label "Sair…">
-<!ENTITY fxa.menu.deviceSettings.label "Configurações do dispositivo">
 <!ENTITY fxa.menu.setupSync.label "Configurar o &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "P">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Abrir a página">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
@@ -416,12 +417,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
-<!ENTITY showAllHistoryCmd2.label "Mostrar histórico">
+<!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
-<!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
+<!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
+<!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver painel do histórico">
 <!ENTITY appMenuHistory.hideSidebar.label "Ocultar painel de histórico">
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mais">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Pesquisar ou abrir endereço">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Adicionar este frame aos favoritos">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
+
 <!ENTITY pageAction.copyLink.label    "Copiar link">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Enviar link por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Salvar página como…">
 <!ENTITY savePageCmd.accesskey        "v">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
