@@ -5,10 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Service Workers 정보
-about-service-workers-main-title = 등록된 Service Workers
-about-service-workers-warning-not-enabled = Service Workers가 활성화되지 않았습니다.
-about-service-workers-warning-no-service-workers = 등록된 Service Workers가 없습니다.
+about-service-workers-title = Service Worker 정보
+about-service-workers-main-title = 등록된 Service Worker
+about-service-workers-warning-not-enabled = Service Worker가 활성화되지 않았습니다.
+about-service-workers-warning-no-service-workers = 등록된 Service Worker가 없습니다.
 # The original title of service workers' information
 #
 # Variables:
