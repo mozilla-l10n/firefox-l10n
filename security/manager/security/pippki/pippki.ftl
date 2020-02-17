@@ -45,6 +45,7 @@ client-auth-window =
     .title = பயனர் கண்டுபிடிக்கும் கோரிக்கை
 client-auth-site-description = இந்த தளம் நீங்களாகவே சான்றிதழுடன் சரிபார்க்க சொல்கிறது:
 client-auth-choose-cert = அடையாளமாக காட்ட வேண்டிய சான்றிதழ தேர்வு செய்யவும்:
+client-auth-cert-details = தேர்ந்தெடுக்கப்பட்ட சான்றிதழின் விவரங்கள்:
 
 ## Set password (p12) dialog
 
