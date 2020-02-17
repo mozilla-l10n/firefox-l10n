@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi laddade nästa
 newtab-pocket-read-more = Populära ämnen:
 newtab-pocket-more-recommendations = Fler rekommendationer
 newtab-pocket-whats-pocket = Vad är { -pocket-brand-name }?
+newtab-pocket-learn-more = Läs mer
 newtab-pocket-cta-button = Hämta { -pocket-brand-name }
 newtab-pocket-cta-text = Spara de nyheter som du tycker är intressant i { -pocket-brand-name } och stimulera dina tankar med fascinerande läsmaterial.
 

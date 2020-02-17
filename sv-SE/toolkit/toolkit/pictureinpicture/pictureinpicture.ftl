@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = Ljud av
 pictureinpicture-unmute =
     .aria-label = Ljud på
+pictureinpicture-unpip =
+    .aria-label = Skicka tillbaka till flik
 pictureinpicture-close =
     .aria-label = Stäng
