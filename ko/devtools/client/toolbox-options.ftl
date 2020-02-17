@@ -33,7 +33,7 @@ options-show-user-agent-styles-tooltip =
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM 속성 줄이기
 options-collapse-attrs-tooltip =
-    .title = 검사기에서 긴 속성을 줄이기
+    .title = 검사기에서 긴 속성을 줄입니다
 
 ## "Default Color Unit" options for the Inspector
 
@@ -90,17 +90,17 @@ options-context-advanced-settings = 고급 설정
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP 캐시 사용 안 함 (도구상자가 열려 있을 때)
 options-disable-http-cache-tooltip =
-    .title = 이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.
+    .title = 이 옵션을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript 끄기*
 options-disable-javascript-tooltip =
     .title = 이 옵션을 켜면 현재 탭의 JavaScript가 꺼집니다. 이 탭이나 도구상자가 닫히면 이 설정도 날라갑니다.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = 브라우저 크롬과 부가 기능 디버깅에도 도구상자 쓰기
+options-enable-chrome-label = 브라우저 크롬 및 부가 기능 디버깅 도구상자 사용
 options-enable-chrome-tooltip =
-    .title = 이 옵션을 켜면 브라우저 컨텍스트에서 ([도구] > [웹 개발 도구] > [브라우저 도구상자]로 불러낸)여러가지 개발자 도구를 쓰고 부가 기능 관리자에서 부가 기능을 디버깅할 수 있습니다.
+    .title = 이 옵션을 켜면 브라우저 컨텍스트에서 (도구 > 웹 개발 도구 > 브라우저 도구상자로 불러낸) 여러가지 개발자 도구를 사용하고 부가 기능 관리자에서 부가 기능을 디버깅 할 수 있습니다.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = 원격 디버깅 켜기
+options-enable-remote-label = 원격 디버깅 사용
 options-enable-remote-tooltip =
     .title = 이 옵션을 켜면 개발자 도구가 Firefox OS와 같은 원격 인스턴스를 디버깅 할 수 있습니다.
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
@@ -108,13 +108,13 @@ options-enable-service-workers-http-label = HTTP를 통한 Service Worker 사용
 options-enable-service-workers-http-tooltip =
     .title = 이 옵션을 켜면 도구 상자가 열려 있는 모든 탭에서 HTTP를 통한 Service Worker를 사용할 수 있습니다.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = 소스맵 켜기
+options-source-maps-label = 소스맵 사용
 options-source-maps-tooltip =
-    .title = 이 설정을 켜면 소스가 도구에서 매핑됩니다.
+    .title = 이 옵션을 사용하면 소스가 도구에서 매핑됩니다.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * 현재 세션만 해당되며, 페이지를 새로 고침
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Gecko 플랫폼 데이터
 options-show-platform-data-tooltip =
-    .title = 이 옵션을 켜면 JavaScript 프로파일러 보고서에 Gecko 플랫폼 정보가 들어갑니다
+    .title = 이 옵션을 사용하면 JavaScript 프로파일러 보고서에 Gecko 플랫폼 기호가 들어갑니다
