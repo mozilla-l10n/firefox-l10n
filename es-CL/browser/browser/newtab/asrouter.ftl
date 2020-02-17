@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extensión recomendada
 cfr-doorhanger-feature-heading = Funcionalidad recomendada
 cfr-doorhanger-pintab-heading = Prueba esto: Fijar pestaña
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué estoy viendo esto
@@ -117,6 +117,11 @@ cfr-whatsnew-lockwise-backup-link-text = Activar respaldos
 cfr-whatsnew-lockwise-take-title = Lleva tus contraseñas contigo
 cfr-whatsnew-lockwise-take-body = La app para móviles { -lockwise-brand-short-name } te permite acceder de forma segura a tus contraseñas respaldadas desde cualquier parte.
 cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Escribe menos, encuentra más con la barra de direcciones
+cfr-whatsnew-searchbar-icon-alt-text = Ícono de lupa
 
 ## Picture-in-Picture
 
