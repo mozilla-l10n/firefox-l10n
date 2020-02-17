@@ -14,6 +14,9 @@ change-password-old = Caabi baat bi teew:
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Far baatu jàll bi gëna am solo
+    .style = width: 40em
 
 ## Downloading cert dialog
 
