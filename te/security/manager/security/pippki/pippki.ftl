@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = సంకేతపద నాణ్యతా కొలబద్ద
 
 ## Change Password dialog
 
@@ -16,6 +17,11 @@ change-password-reenter = కొత్త సంకేతపదం (మరలా
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = ముఖ్య సంకేతపదాన్ని పునరుద్ధరించు
+    .style = width: 40em
+reset-password-button-label =
+    .label = పునరుద్ధరించు
 reset-password-text = మీరు మీ ముఖ్య సంకేతపదాన్ని తిరిగిఉంచేటట్లైతే , మీ నిల్వవున్న వెబ్ మరియు ఇ-మెయిల్ సంకేతపదాలు, ఫారము డాటా, వ్యక్తిగత ధృవీకరణపత్రాలు, మరియు వ్యక్తిగత కీలు మర్చిపోబడతాయి.మీరు ఖచ్చితంగా ముఖ్య సంకేతపదాన్ని తిరిగివుంచాలి అనుకుంటున్నారా?
 
 ## Downloading cert dialog
@@ -24,9 +30,13 @@ download-cert-window =
     .title = ధృవీకరణపత్రాన్ని దింపుకుంటోంది
     .style = width: 46em
 download-cert-message = కొత్త ధృవీకరణపత్ర అధారిటీ (CA)ని నమ్మమని మీరు అడగబడుతున్నారు.
+download-cert-trust-ssl =
+    .label = వెబ్ సైట్లను గుర్తించడానికి ఈ CAను విశ్వసించు.
 download-cert-trust-email =
     .label = ఇమెయిల్ వాడుకరులను గుర్తించుటకు CAను నమ్మండి.
 download-cert-message-desc = ఏదైనా ప్రయోజనం కొరకు CAను నమ్ముటకు మునుపు , (వీలైతే) మీరు ధృవీకరణపత్రం మరియు దాని విధానాన్ని మరియు పద్దతులను పరీక్షించుట మంచిది.
+download-cert-view-cert =
+    .label = చూడండి
 download-cert-view-text = CA ధృవీకరణపత్రాన్ని పరీక్షించు
 
 ## Client Authorization Ask dialog
