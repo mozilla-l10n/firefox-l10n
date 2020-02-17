@@ -6,12 +6,18 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 ## Change Password dialog
 
+# Variables:
+# $tokenName (String) - Security device of the change password dialog
+change-password-token = Dispositivo de seguridad: { $tokenName }
 change-password-old = Contraseña actual:
 change-password-new = Nueva contraseña:
 change-password-reenter = Nueva contraseña (otra vez):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Restablecer la contraseña maestra
+    .style = width: 40em
 reset-password-button-label =
     .label = Restablecer
 
@@ -22,6 +28,7 @@ download-cert-trust-ssl =
 download-cert-message-desc = Antes de confiar en esta CA para cualquier propósito, debería examinar su certificado, su política y procedimientos (si están disponibles).
 download-cert-view-cert =
     .label = Ver
+download-cert-view-text = Examinar certificado CA
 
 ## Client Authorization Ask dialog
 
@@ -40,3 +47,4 @@ set-password-reminder = Importante: Si olvida su contraseña de respaldo del cer
 protected-auth-window =
     .title = Identificación protegida por token
 protected-auth-msg = Por favor, identifíquese con el token. El método de identificación depende del tipo de su token.
+protected-auth-token = Token:
