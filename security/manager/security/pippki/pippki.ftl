@@ -45,6 +45,7 @@ client-auth-window =
     .title = Cais am Adnabod Defnyddiwr
 client-auth-site-description = Mae'r wefan yn gofyn i chi ddweud pwy ydych gyda thystysgrif diogelwch:
 client-auth-choose-cert = Dewiswch dystysgrif i'w chyflwyno fel adnabyddiaeth:
+client-auth-cert-details = Manylion y dystysgrif hon:
 
 ## Set password (p12) dialog
 
