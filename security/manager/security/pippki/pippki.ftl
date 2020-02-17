@@ -44,6 +44,7 @@ download-cert-view-text = Sprawdź certyfikat CA
 client-auth-window =
     .title = Zażądano identyfikacji użytkownika
 client-auth-site-description = Pobierana strona wysłała żądanie przedstawienia certyfikatu w celu dokonania identyfikacji:
+client-auth-choose-cert = Wybierz certyfikat, który zostanie przedstawiony jako identyfikator użytkownika:
 client-auth-cert-details = Szczegóły wybranego certyfikatu:
 
 ## Set password (p12) dialog
