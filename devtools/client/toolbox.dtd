@@ -28,7 +28,7 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 <!ENTITY options.collapseAttrs.label "DOM 속성 줄이기">
-<!ENTITY options.collapseAttrs.tooltip "검사기에서 긴 속성을 줄이기">
+<!ENTITY options.collapseAttrs.tooltip "검사기에서 긴 속성을 줄입니다">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -87,7 +87,7 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "HTTP 캐시 비활성화 (도구상자가 열려 있을 때)">
+<!ENTITY options.disableHTTPCache.label     "HTTP 캐시 사용 안 함 (도구상자가 열려 있을 때)">
 <!ENTITY options.disableHTTPCache.tooltip   "이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
@@ -115,7 +115,7 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
-<!ENTITY options.toolNotSupported.label  "* 현재 도구상자에서는 지원하지 않음">
+<!ENTITY options.toolNotSupported.label  "* 현재 도구상자 대상에서는 지원하지 않음">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -124,8 +124,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Developer Edition 브라우저 테마 쓰기">
-<!ENTITY options.usedeveditiontheme.tooltip "Developer Edition browser 테마를 쓰거나 쓰지 않습니다.">
+<!ENTITY options.usedeveditiontheme.label   "Developer Edition 브라우저 테마 사용">
+<!ENTITY options.usedeveditiontheme.tooltip "Developer Edition 브라우저 테마를 사용하거나 사용 안 합니다.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -153,7 +153,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "CSS 자동완성">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "스타일 편집기에서 CSS 속성, 값, 선택자를 입력하는 대로 자동완성">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "스타일 편집기에서 입력하는 대로 CSS 속성, 값 및 선택자를 자동으로 완성합니다">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
@@ -162,8 +162,8 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "클립보드로 스크린샷">
-<!ENTITY options.screenshot.clipboard.tooltip    "클립보드로 바로 스크린샷을 저장">
+<!ENTITY options.screenshot.clipboard.label      "스크린샷을 클립보드에 저장">
+<!ENTITY options.screenshot.clipboard.tooltip    "스크린샷을 클립보드에 바로 저장합니다">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
@@ -182,13 +182,13 @@
 
 <!ENTITY options.sourceeditor.label                     "편집기 설정">
 <!ENTITY options.sourceeditor.detectindentation.label   "들여 쓰기 감지">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "소스 내용에서 들여 쓰기를 감지">
-<!ENTITY options.sourceeditor.autoclosebrackets.label   "괄호 자동 입력">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "괄호를 자동 입력함">
-<!ENTITY options.sourceeditor.expandtab.label           "들여 쓰기로 스페이스 문자를 쓰기 ">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "탭 문자 대신 스페이스 문자를 사용">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "소스 내용을 기반으로 들여 쓰기를 예측합니다">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "닫는 괄호 자동 입력">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "닫는 괄호를 자동으로 입력합니다">
+<!ENTITY options.sourceeditor.expandtab.label           "들여 쓰기에 공백 문자 사용">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "탭 문자 대신 공백 문자를 사용합니다">
 <!ENTITY options.sourceeditor.tabsize.label             "탭 길이">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
-<!ENTITY options.sourceeditor.keybinding.label          "키 바인드">
+<!ENTITY options.sourceeditor.keybinding.label          "키 바인딩">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "기본 설정">
