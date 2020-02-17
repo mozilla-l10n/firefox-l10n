@@ -6,6 +6,8 @@ password-quality-meter = Wagwoord-gehaltemeter
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Wysig meesterwagwoord
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sekuriteitstoestel: { $tokenName }
@@ -15,10 +17,15 @@ change-password-reenter = Nuwe wagwoord (weer):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Stel meesterwagwoord terug
+    .style = width: 40em
 
 ## Downloading cert dialog
 
 download-cert-message = U is gevra om 'n nuwe sertifikaatowerheid (SO) te vertrou.
+download-cert-trust-ssl =
+    .label = Vertrou hierdie SO om webwerwe te identifiseer.
 download-cert-trust-email =
     .label = Vertrou hierdie SO om e-posgebruikers te identifiseer.
 download-cert-message-desc = Voordat u hierdie SO vir enige doeleinde vertrou, behoort u sy sertifikaat en sy beleid en prosedures (indien beskikbaar) te ondersoek.
@@ -35,6 +42,9 @@ client-auth-choose-cert = Kies 'n sertifikaat om as identifikasie aan te bied:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Kies 'n rugsteunsertifikaat-wagwoord
+set-password-message = Die sertifikaat-rugsteunwagwoord wat u hier opstel, beskerm die rugsteunlêer wat u op die punt is om te skep.  U moet hierdie wagwoord opstel voor u met die rugsteuning kan voortgaan.
 set-password-backup-pw =
     .value = Rugsteunsertifikaat-wagwoord:
 set-password-repeat-backup-pw =
@@ -43,4 +53,7 @@ set-password-reminder = Belangrik: Indien u u sertifikaat-rugsteunwagwoord verge
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Beskermde tekenmagtiging
+protected-auth-msg = Verkry magtiging met die teken. Magtigingmetode hang af van die soort teken.
 protected-auth-token = Teken:
