@@ -54,3 +54,4 @@ set-password-reminder = Okubalulekileyo: Ukuba ulibala igama lokugqithisa lekopi
 
 ## Protected Auth dialog
 
+protected-auth-msg = Nceda ugunyaze kwitokeni. Inkqubo yogunyazo ixhomekeka kuhlobo lwetokeni yakho.
