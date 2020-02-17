@@ -69,7 +69,7 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "브라우저 크롬과 부가 기능 디버깅에도 도구상자 쓰기">
+<!ENTITY options.enableChrome.label5    "브라우저 크롬 및 부가 기능 디버깅 도구상자 사용">
 <!ENTITY options.enableChrome.tooltip3  "이 옵션을 켜면 브라우저 컨텍스트에서 ([도구] > [웹 개발 도구] > [브라우저 도구상자]로 불러낸)여러가지 개발자 도구를 쓰고 부가 기능 관리자에서 부가 기능을 디버깅할 수 있습니다.">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
@@ -133,8 +133,8 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
-<!ENTITY options.timestampMessages.label      "시각 보기">
-<!ENTITY options.timestampMessages.tooltip    "이 옵션을 켜면 웹 콘솔의 명령어와 출력을 시각과 함께 보여줍니다.">
+<!ENTITY options.timestampMessages.label      "타임스탬프 표시">
+<!ENTITY options.timestampMessages.tooltip    "이 옵션을 사용하면 웹 콘솔의 명령과 출력에 타임스탬프가 표시됩니다">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
