@@ -20,9 +20,15 @@ change-password-reenter = Nuwe wagwoord (weer):
 reset-password-window =
     .title = Stel meesterwagwoord terug
     .style = width: 40em
+reset-password-button-label =
+    .label = Stel terug
+reset-password-text = Indien u u meesterwagwoord terugstel, sal al u gestoorde web- en e-poswagwoorde, vormdata, persoonlike sertifikate en private sleutels vergeet word. Wil u definitief die meesterwagwoord teruglaai?
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Laai tans sertifikaat af
+    .style = width: 46em
 download-cert-message = U is gevra om 'n nuwe sertifikaatowerheid (SO) te vertrou.
 download-cert-trust-ssl =
     .label = Vertrou hierdie SO om webwerwe te identifiseer.
@@ -39,6 +45,7 @@ client-auth-window =
     .title = Gebruikersidentifikasie-versoek
 client-auth-site-description = Die werf versoek dat u uself deur middel van 'n sertifikaat identifiseer:
 client-auth-choose-cert = Kies 'n sertifikaat om as identifikasie aan te bied:
+client-auth-cert-details = Besonderhede van gekose sertifikaat:
 
 ## Set password (p12) dialog
 
