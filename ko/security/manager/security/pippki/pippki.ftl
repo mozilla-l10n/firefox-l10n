@@ -33,6 +33,7 @@ download-cert-trust-ssl =
     .label = 신뢰된 인증 기관 (웹 사이트)
 download-cert-trust-email =
     .label = 신뢰된 인증 기관 (메일)
+download-cert-message-desc = 인증 기관을 신뢰하기 전에 인증 기관의 정책과 발급 절차를 확인하세요.
 download-cert-view-cert =
     .label = 보기
 download-cert-view-text = 인증 기관 인증서 조사
@@ -54,9 +55,11 @@ set-password-backup-pw =
     .value = 인증서 백업 비밀번호:
 set-password-repeat-backup-pw =
     .value = 인증서 백업 비밀번호 (재입력):
+set-password-reminder = 중요: 만약 인증서 백업 비밀번호를 분실하면 백업한 인증서를 다시 가져올 수 없습니다.  안전한 곳에 기록해 두세요.
 
 ## Protected Auth dialog
 
 protected-auth-window =
     .title = 잠금 방식 토큰 인증
+protected-auth-msg = 토큰을 인증해 주세요. 인증 방식은 토큰의 유형에 따라 다릅니다.
 protected-auth-token = 토큰:
