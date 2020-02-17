@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = 推荐扩展
 cfr-doorhanger-feature-heading = 推荐功能
 cfr-doorhanger-pintab-heading = 试试看：固定标签页
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 为什么我会看到这个？
@@ -112,6 +112,11 @@ cfr-whatsnew-lockwise-backup-link-text = 开启备份
 cfr-whatsnew-lockwise-take-title = 随身携带密码
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 移动端应用可让您安全地访问在所有设备中备份的密码。
 cfr-whatsnew-lockwise-take-link-text = 获取应用
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = 使用地址栏，输入寥寥，搜遍万千
+cfr-whatsnew-searchbar-icon-alt-text = 放大镜图标
 
 ## Picture-in-Picture
 
