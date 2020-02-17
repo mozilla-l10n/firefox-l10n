@@ -64,23 +64,23 @@ options-screenshot-clipboard-tooltip =
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = 카메라 셔터 소리 재생
 options-screenshot-audio-tooltip =
-    .title = 스크린샷을 찍을 때 카메라 소리를 활성화
+    .title = 스크린샷을 찍을 때 카메라 셔터 소리를 재생합니다
 
 ## Editor section
 
 # The heading
 options-sourceeditor-label = 편집기 설정
 options-sourceeditor-detectindentation-tooltip =
-    .title = 소스 내용에서 들여 쓰기를 감지
+    .title = 소스 내용을 기반으로 들여 쓰기를 예측합니다
 options-sourceeditor-detectindentation-label = 들여 쓰기 감지
 options-sourceeditor-autoclosebrackets-tooltip =
-    .title = 괄호를 자동 입력함
-options-sourceeditor-autoclosebrackets-label = 괄호 자동 입력
+    .title = 닫는 괄호를 자동으로 입력합니다
+options-sourceeditor-autoclosebrackets-label = 닫는 괄호 자동 입력
 options-sourceeditor-expandtab-tooltip =
-    .title = 탭 문자 대신 스페이스 문자를 사용
-options-sourceeditor-expandtab-label = 들여 쓰기로 스페이스 문자를 쓰기
+    .title = 탭 문자 대신 공백 문자를 사용합니다
+options-sourceeditor-expandtab-label = 들여 쓰기에 공백 문자 사용
 options-sourceeditor-tabsize-label = 탭 길이
-options-sourceeditor-keybinding-label = 키 바인드
+options-sourceeditor-keybinding-label = 키 바인딩
 options-sourceeditor-keybinding-default-label = 기본 설정
 
 ## Advanced section
@@ -88,7 +88,7 @@ options-sourceeditor-keybinding-default-label = 기본 설정
 # The heading
 options-context-advanced-settings = 고급 설정
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = HTTP 캐시 비활성화 (도구상자가 열려 있을 때)
+options-disable-http-cache-label = HTTP 캐시 사용 안 함 (도구상자가 열려 있을 때)
 options-disable-http-cache-tooltip =
     .title = 이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.
 # The label for checkbox that toggles JavaScript on or off

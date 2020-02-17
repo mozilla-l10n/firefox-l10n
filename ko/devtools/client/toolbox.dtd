@@ -168,7 +168,7 @@
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "카메라 셔터 소리 재생">
-<!ENTITY options.screenshot.audio.tooltip    "스크린샷을 찍을 때 카메라 소리를 활성화">
+<!ENTITY options.screenshot.audio.tooltip    "스크린샷을 찍을 때 카메라 셔터 소리를 재생합니다">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
