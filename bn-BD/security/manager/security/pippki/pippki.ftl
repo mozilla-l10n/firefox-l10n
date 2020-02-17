@@ -6,6 +6,8 @@ password-quality-meter = পাসওয়ার্ডের গুণমানে
 
 ## Change Password dialog
 
+change-password-window =
+    .title = মাস্টার পাসওয়ার্ড পরিবর্তন করুন
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = নিরাপত্তা ডিভাইস: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = নতুন পাসওয়ার্ড (পুনর
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করুন
+    .style = width: 40em
 reset-password-button-label =
     .label = পুনঃনির্ধারণ
+reset-password-text = মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করা হলে আপনার দ্বারা সংরক্ষিত সমস্ত ওয়েব ও ইমেইল পাসওয়ার্ড, ফর্মের তথ্য, ব্যক্তিগত সার্টিফিকেট ও কী মুছে যাবে। আপনি কি নিশ্চিতরূপে মাস্টার পাসওয়ার্ড পুনঃনির্ধারণ করতে ইচ্ছুক?
 
 ## Downloading cert dialog
 
@@ -42,6 +48,8 @@ client-auth-choose-cert = পরিচয় প্রমাণ হিসাবে 
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড নির্বাচন করুন
 set-password-backup-pw =
     .value = সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড:
 set-password-repeat-backup-pw =
