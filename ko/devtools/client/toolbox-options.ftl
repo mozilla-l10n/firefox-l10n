@@ -90,7 +90,7 @@ options-context-advanced-settings = 고급 설정
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP 캐시 비활성화 (도구상자가 열려 있을 때)
 options-disable-http-cache-tooltip =
-    .title = 이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. 서비스 워커는 이 설정의 영향을 받지 않습니다.
+    .title = 이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript 끄기*
 options-disable-javascript-tooltip =
@@ -104,9 +104,9 @@ options-enable-remote-label = 원격 디버깅 켜기
 options-enable-remote-tooltip =
     .title = 이 옵션을 켜면 개발자 도구가 Firefox OS와 같은 원격 인스턴스를 디버깅 할 수 있습니다.
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = HTTP로 가져온 서비스 워커 쓰기 (도구상자가 열려 있을 때에만)
+options-enable-service-workers-http-label = HTTP를 통한 Service Worker 사용 (도구상자가 열려 있을 때)
 options-enable-service-workers-http-tooltip =
-    .title = 이 옵션을 켜면 도구 상자가 열려 있는 모든 탭에서 HTTP로 가져온 서비스 워커를 쓸 수 있습니다.
+    .title = 이 옵션을 켜면 도구 상자가 열려 있는 모든 탭에서 HTTP를 통한 Service Worker를 사용할 수 있습니다.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = 소스맵 켜기
 options-source-maps-tooltip =
