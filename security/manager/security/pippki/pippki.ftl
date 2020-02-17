@@ -6,14 +6,20 @@ password-quality-meter = Вымяральнік якасці пароля
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Змяненне галоўнага пароля
 change-password-old = Цяперашні пароль:
 change-password-new = Новы пароль:
 change-password-reenter = Новы пароль (ізноў):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Скіданне галоўнага пароля
+    .style = width: 40em
 reset-password-button-label =
     .label = Скінуць
+reset-password-text = Калі вы пазбавіцеся вашага галоўнага пароля, усе вашы захаваныя паролі сеціва і э-пошты, даныя формаў, асабістыя пасведчанні і прыватныя ключы згубяцца. Вы сапраўды хочаце скінуць ваш галоўны пароль?
 
 ## Downloading cert dialog
 
