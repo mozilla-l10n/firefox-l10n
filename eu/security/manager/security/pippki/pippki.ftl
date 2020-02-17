@@ -6,14 +6,23 @@ password-quality-meter = Pasahitz kalitatearen neurgailua
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Aldatu pasahitz nagusia
+# Variables:
+# $tokenName (String) - Security device of the change password dialog
+change-password-token = Segurtasun-gailua: { $tokenName }
 change-password-old = Uneko pasahitza:
 change-password-new = Pasahitz berria:
 change-password-reenter = Pasahitz berria (berriro):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Berrezarri pasahitz nagusia
+    .style = width: 40em
 reset-password-button-label =
     .label = Berezarri
+reset-password-text = Pasahitz nagusia berrezartzen baduzu, gordeta dituzun webetako eta epostetako pasahitzak, inprimaki datuak, ziurtagiri pertsonalak eta gako pribatuak ahaztu egingo dira. Ziur zaude pasahitz nagusia berrezarri nahi duzula?
 
 ## Downloading cert dialog
 
@@ -39,6 +48,9 @@ client-auth-choose-cert = Aukeratu ziurtagiri bat identifikazio gisa aurkezteko:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Aukeratu ziurtagiri babeskopiaren pasahitza
+set-password-message = Hemen ezarritako ziurtagiriaren babeskopiak sortu behar duzun babeskopia babestuko du.  Pasahitz hori ezarri behar duzu babeskopiarekin jarraitzeko.
 set-password-backup-pw =
     .value = Ziurtagiri babeskopiaren pasahitza:
 set-password-repeat-backup-pw =
