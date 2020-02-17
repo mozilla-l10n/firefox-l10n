@@ -70,7 +70,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Ativar caixas de ferramentas de depuração do navegador e dos extras">
-<!ENTITY options.enableChrome.tooltip3  "Ativar esta opção irá permitir que utilize várias ferramentas de programador no contexto do navegador (via Ferramentas > Programador Web > Caixa de ferramentas do navegador) e depurar extras a partir do Gestor de extras">
+<!ENTITY options.enableChrome.tooltip3  "Ativar esta opção irá permitir que utilize várias ferramentas de programador no contexto do navegador (via Ferramentas > Ferramentas de programação > Caixa de ferramentas do navegador) e depurar extras a partir do Gestor de extras">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -135,11 +135,6 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Ativar marcas temporais">
 <!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e a saída da Consola Web irão mostrar uma marca temporal">
-
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Agrupar mensagens semelhantes">
-<!ENTITY options.warningGroups.tooltip    "Quando ativado, mensagens semelhantes irão ser colocadas em grupos">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
