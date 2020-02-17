@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = 推薦擴充套件
 cfr-doorhanger-feature-heading = 推薦功能
 cfr-doorhanger-pintab-heading = 試試看: 釘選分頁
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 為什麼我會看到這個？
@@ -112,6 +112,15 @@ cfr-whatsnew-lockwise-backup-link-text = 開啟備份
 cfr-whatsnew-lockwise-take-title = 密碼隨身帶著走
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 的行動 App 可讓您在任何地方安全地讀取備份下來的密碼。
 cfr-whatsnew-lockwise-take-link-text = 下載 App
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = 使用網址列，打得更少，找得更多
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = 在網址列上點擊，即可快速前往最常開啟的網站。使用來自 { $searchEngineName } 與瀏覽紀錄的搜尋結果，讓您更快找到東西。
+cfr-whatsnew-searchbar-body-generic = 在網址列上點擊，即可快速前往最常開啟的網站。使用來自瀏覽紀錄的搜尋結果，讓您更快找到東西。
+cfr-whatsnew-searchbar-icon-alt-text = 放大鏡圖示
 
 ## Picture-in-Picture
 
