@@ -14,6 +14,9 @@ change-password-reenter = 新密碼 (再輸入一次):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = 重設主控密碼
+    .style = width: 40em
 reset-password-button-label =
     .label = 重設
 
@@ -34,6 +37,8 @@ client-auth-choose-cert = 選擇一項憑證以做為識別:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = 選擇憑證備份密碼
 set-password-backup-pw =
     .value = 憑證備份密碼:
 set-password-repeat-backup-pw =
