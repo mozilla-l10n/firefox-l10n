@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Merilnik kakovosti gesla
 
 ## Change Password dialog
 
@@ -25,6 +26,9 @@ reset-password-text = Če ponastavite glavno geslo, bodo vsi vaši osebni podatk
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Prenašanje digitalnega potrdila
+    .style = width: 46em
 download-cert-message = Ali zaupate novemu overitelju?
 download-cert-trust-ssl =
     .label = Overitelju zaupaj identifikacijo spletnih strani.
