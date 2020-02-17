@@ -45,6 +45,7 @@ client-auth-window =
     .title = 使用者識別需求
 client-auth-site-description = 此網站要求您提供可用來識別您自己的憑證:
 client-auth-choose-cert = 選擇一項憑證以做為識別:
+client-auth-cert-details = 所選憑證的詳細資訊:
 
 ## Set password (p12) dialog
 
