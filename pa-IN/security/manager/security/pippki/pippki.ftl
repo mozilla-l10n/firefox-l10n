@@ -17,6 +17,8 @@ change-password-reenter = ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):
 reset-password-window =
     .title = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ
     .style = width: 40em
+reset-password-button-label =
+    .label = ਮੁੜ-ਲੋਡ ਕਰੋ
 reset-password-text = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਗੁਪਤ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?
 
 ## Downloading cert dialog
