@@ -12,7 +12,7 @@
 options-select-default-tools-label = 기본 개발자 도구
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
-options-tool-not-supported-label = * 현재 도구상자에서는 지원하지 않음
+options-tool-not-supported-label = * 현재 도구상자 대상에서는 지원하지 않음
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = 부가 기능으로 설치된 개발자 도구
