@@ -24,9 +24,15 @@ download-cert-view-text = CA-sertifikaat bestudearje
 
 ## Client Authorization Ask dialog
 
+client-auth-cert-details = Details fan it selektearre sertifikaat:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Kies in wachtwurd foar de reservekopy fan it sertifikaat
+set-password-message = It wachtwurd foar de reservekopy fan it sertifikaat dat jo hjir ynstelle beskermt it reserverkopybestân dat jo op it punt stean te meitsjen.  Jo moatte dit wachtwurd ynstelle foardat jo fierder gean mei de reservekopy.
+set-password-backup-pw =
+    .value = Wachtwurd foar de reservekopy fan it sertifikaat:
 
 ## Protected Auth dialog
 
