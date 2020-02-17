@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Tilrådde utvidingar
 cfr-doorhanger-feature-heading = Tilrådd funksjon
 cfr-doorhanger-pintab-heading = Prøv dette: Fest fana
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kvifor ser eg dette
@@ -121,6 +121,11 @@ cfr-whatsnew-lockwise-take-body =
     Mobilappen { -lockwise-brand-short-name } lèt deg få tilgang til dei
     sikkerheitskopierte passorda dine kvar som helst.
 cfr-whatsnew-lockwise-take-link-text = Last ned appen
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Skriv mindre, finn meir med adressefeltet
+cfr-whatsnew-searchbar-icon-alt-text = Forstørringsglas-ikon
 
 ## Picture-in-Picture
 
