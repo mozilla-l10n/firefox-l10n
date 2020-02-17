@@ -17,6 +17,12 @@ change-password-reenter = Contraseña nueva (de nuevo):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Eliminar contraseña maestra
+    .style = width: 40em
+reset-password-button-label =
+    .label = Eliminar
+reset-password-text = Si elimina su contraseña maestra, todas sus contraseñas de webs y correo electrónico, datos de formularios, certificados personales y claves privadas se olvidarán. ¿Está seguro de eliminar su contraseña maestra?
 
 ## Downloading cert dialog
 
