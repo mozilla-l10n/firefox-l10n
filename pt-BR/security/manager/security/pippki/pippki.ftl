@@ -19,6 +19,10 @@ change-password-reenter = Confirmar a nova senha:
 ## Downloading cert dialog
 
 download-cert-message = Você foi solicitado a marcar como confiável uma nova Autoridade Certificadora (CA).
+download-cert-trust-ssl =
+    .label = Confiar nesta CA para identificar sites.
+download-cert-trust-email =
+    .label = Confiar nesta CA para identificar usuários de e-mail.
 download-cert-message-desc = Antes de considerar confiável esta CA para algum fim, você deve examinar seu certificado, sua diretiva e procedimentos (se disponíveis).
 download-cert-view-text = Examinar certificado da CA
 
