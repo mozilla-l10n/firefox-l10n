@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Sfeḍ
+reset-password-text = Ma tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifecka n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan?
 
 ## Downloading cert dialog
 
@@ -53,8 +54,13 @@ set-password-window =
 set-password-message = Awal uffir n usekles n uselkin i tesbaduḍ yakan, iḥrez ayaylu n usekles i terniḍ. Issefk ad muddeḍ awal uffir i wesenker n usekles-agi.
 set-password-backup-pw =
     .value = Awal uffir n usekles n uselkin:
+set-password-repeat-backup-pw =
+    .value = Awal uffir n usekles n uselkin (tikelt-nniḍen):
+set-password-reminder = Ɣuṛ-k: Ma yella tettuḍ awal uffir n uḥraz n uselkin-inek, ur tettizmireḍ ara ad d-terreḍ aḥraz-agi sya ɣer zdat.  Ma ulac aɣilif sekles-it deg adig aɣelsan.
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Asesteb iţummesten s ujiṭnu
 protected-auth-msg = Ma ulac aɣilif, sesteb s ujitun. Tarrayt n usesteb tcudd ɣeṛ tewsit n ujiṭun-inek.
 protected-auth-token = Ajiṭun:
