@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Тастау
+reset-password-text = Мастер-пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Мастер-пароліңізді тастауды шынымен қалайсыз ба?
 
 ## Downloading cert dialog
 
@@ -44,6 +45,7 @@ client-auth-window =
     .title = Пайдаланушыны идентификациялаұ сұранымы
 client-auth-site-description = Сайт сізден өзіңізді сертификат арқылы анықтауды сұрап тұр:
 client-auth-choose-cert = Өзіңізді анықтайтын сертификатты таңдаңыз:
+client-auth-cert-details = Таңдалған сертификат ақпараты:
 
 ## Set password (p12) dialog
 
