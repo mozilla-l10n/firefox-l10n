@@ -6,6 +6,8 @@ password-quality-meter = Мерач на квалитетот на лозинк�
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Менување на главната лозинка
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Безбедносен уред: { $tokenName }
@@ -15,6 +17,9 @@ change-password-reenter = Нова лозинка (повторно):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Ресетирање на главната лозинка
+    .style = width: 40em
 reset-password-button-label =
     .label = Ресетирај
 
@@ -43,6 +48,9 @@ client-auth-cert-details = Детали за избраниот сертифик
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Избор на резервна лозинка за сертификатот
+set-password-message = Лозинка за резервниот сертификат која ќе ја поставите овде, ќе ја заштитува резервната датотека која сакате да ја креирата.  Мора да ја поставите оваа лозинка пред да продолжите.
 set-password-backup-pw =
     .value = Резервна лозинка за сертификатот:
 set-password-repeat-backup-pw =
