@@ -42,4 +42,6 @@ set-password-repeat-backup-pw =
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Autenticação protegida por token
 protected-auth-token = Token:
