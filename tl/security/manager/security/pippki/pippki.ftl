@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Pangsukat ng kalidad ng password
 
 ## Change Password dialog
 
@@ -28,19 +29,38 @@ reset-password-text = Pag nireset mo ang master password, makakalimutan lahat ng
 download-cert-window =
     .title = Kinukuha ang Sertipiko
     .style = width: 46em
+download-cert-message = Pinapakiusapan kang pagkatiwalaan ang isang bagong Certificate Authority (CA).
 download-cert-trust-ssl =
     .label = Pagkatiwalaan ang CA na ito para matukoy ang mga website.
+download-cert-trust-email =
+    .label = Pagkatiwalaan ang CA na ito para matukoy ang mga email user.
 download-cert-message-desc = Bago ng magtiwala dito sa  CA  para sa anumang layunin, dapat mong suriin ang sertipiko at ang patakaran at pamamaraan (kung kinakailangan).
+download-cert-view-cert =
+    .label = Tingnan
+download-cert-view-text = Suriin ang CA certificate
 
 ## Client Authorization Ask dialog
 
+client-auth-window =
+    .title = User Identification Request
 client-auth-site-description = Ang site na ito ay humiling sa iyo na makilala ang iyong sarili sa isang sertipiko:
+client-auth-choose-cert = Pumili ng certificate na maipapakita bilang pagkakakilanlan:
+client-auth-cert-details = Mga detalye ng piniling certificate:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Pumili ng Certificate Backup Password
 set-password-message = Poprotektahan ng certificate backup password ang backup file na gagawin mo. Kailangan mong magset ng password para magpatuloy sa pagbackup.
+set-password-backup-pw =
+    .value = Certificate backup password:
+set-password-repeat-backup-pw =
+    .value = Certificate backup password (pakiulit):
 set-password-reminder = Mahalaga: Kung nakalimutan mo ang iyong password sa backup certificate, hindi mo magagawang ibalik ang backup na ito mamaya. Paki-record ang mga ito sa isang ligtas na lokasyon.
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Protected Token Authentication
+protected-auth-msg = Paki-authenticate sa token. Nagdedepende ang authentication method sa uri ng iyong token.
 protected-auth-token = Token:
