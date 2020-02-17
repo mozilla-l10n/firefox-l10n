@@ -29,12 +29,15 @@ download-cert-trust-ssl =
 download-cert-trust-email =
     .label = Treysta CA til að auðkenna póst notendur.
 download-cert-message-desc = Áður en þú treystir þessum CA fyrir einhverju, ættirðu að athuga skilríki þess, stefnur þess og aðferðir (ef til eru).
+download-cert-view-cert =
+    .label = Skoða
 download-cert-view-text = Skoða CA skilríki
 
 ## Client Authorization Ask dialog
 
 client-auth-window =
     .title = Beiðni um auðkenni notanda
+client-auth-site-description = Þetta vefsvæði bað um að þú auðkennir þig með skilríki:
 client-auth-choose-cert = Veldu skilríki til að sýna sem auðkenni:
 
 ## Set password (p12) dialog
