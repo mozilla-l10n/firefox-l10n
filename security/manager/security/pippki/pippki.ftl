@@ -51,6 +51,7 @@ client-auth-cert-details = 所选证书细节：
 
 set-password-window =
     .title = 输入证书备份密码
+set-password-message = 证书备份密码是用来保护您即将创建的证书备份文件。您必须设置此密码才能备份。
 set-password-backup-pw =
     .value = 证书备份密码：
 set-password-repeat-backup-pw =
