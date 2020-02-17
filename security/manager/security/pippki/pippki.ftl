@@ -60,3 +60,7 @@ set-password-reminder = Tärkeää: Jos varmenteen varmuuskopion salasana unohtu
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Suojattu polettitodennus
+protected-auth-msg = Todenna poletille. Todennustapa riippuu poletin tyypistä.
+protected-auth-token = Poletti:
