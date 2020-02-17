@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Doporučene rozšěrjenje
 cfr-doorhanger-feature-heading = Doporučena funkcija
 cfr-doorhanger-pintab-heading = Spytajće to: Rajtark připjeć
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Čehodla so to pokazuje
@@ -123,6 +123,15 @@ cfr-whatsnew-lockwise-backup-link-text = Zawěsćenja zmóžnić
 cfr-whatsnew-lockwise-take-title = Wzmiće swoje hesła sobu
 cfr-whatsnew-lockwise-take-body = Mobilne nałoženje { -lockwise-brand-short-name } wam wěsty přistup na swoje zawěsćene hesła wot wšudźe zmóžnja,
 cfr-whatsnew-lockwise-take-link-text = Wobstarajće sej nałoženje
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Pisajće mjenje a namakajće wjace z adresowym polom
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Wobstarajće sej sydła, kotrež najhusćišo wužiwaće, z jednym kliknjenjom. Namakajće wěcy spěšnišo z wuslědkami z { $searchEngineName } a ze swojeje přehladowanskeje historije.
+cfr-whatsnew-searchbar-body-generic = Wobstarajće sej sydła, kotrež najhusćišo wužiwaće, z jednym kliknjenjom. Namakajće wěcy spěšnišo z pytanskimi wuslědkami z  swojeje přehladowanskeje historije.
+cfr-whatsnew-searchbar-icon-alt-text = Lupowy symbol
 
 ## Picture-in-Picture
 
