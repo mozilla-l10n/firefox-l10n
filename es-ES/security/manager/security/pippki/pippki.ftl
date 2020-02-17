@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Restablecer
+reset-password-text = Si restablece su contraseña maestra, todas las contraseñas web y de correo electrónico almacenados, los datos de los formularios, certificados personales y claves privadas serán olvidados. ¿Seguro que quiere restablecer su contraseña maestra?
 
 ## Downloading cert dialog
 
@@ -55,9 +56,11 @@ set-password-backup-pw =
     .value = Contraseña de respaldo del certificado:
 set-password-repeat-backup-pw =
     .value = Contraseña de respaldo del certificado (confirmar):
+set-password-reminder = Importante: si olvida la contraseña de respaldo de su certificado, no podrá restaurar esta copia de respaldo más tarde. Guárdela en un lugar seguro.
 
 ## Protected Auth dialog
 
 protected-auth-window =
     .title = Identificación protegida por token
+protected-auth-msg = Identifíquese con el token. El método de identificación depende del tipo de su token.
 protected-auth-token = Token:
