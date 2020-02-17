@@ -55,6 +55,7 @@ set-password-backup-pw =
     .value = Senhal de salvament del certificat :
 set-password-repeat-backup-pw =
     .value = Senhal de salvament del certificat (encara) :
+set-password-reminder = Important : s'avètz oblidat vòstre senhal de seguretat, poiretz pas mai importar aquesta salvagarda mai tard. Conservatz-lo en luòc segur.
 
 ## Protected Auth dialog
 
