@@ -45,6 +45,7 @@ client-auth-window =
     .title = طلب تعريف مستخدم
 client-auth-site-description = طلب هذا الموقع أن تعرّف نفسك بشهادة:
 client-auth-choose-cert = اختر شهادة لتقدّمها كتعريف:
+client-auth-cert-details = تفاصيل الشّهادة المختارة:
 
 ## Set password (p12) dialog
 
