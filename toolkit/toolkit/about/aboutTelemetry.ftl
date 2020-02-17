@@ -110,8 +110,8 @@ about-telemetry-telemetry-ping-type-all = 모두
 # button label to copy the histogram
 about-telemetry-histogram-copy = 복사
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = 주요 쓰레드에서 느린 SQL문
-about-telemetry-slow-sql-other = 헬퍼 쓰레드에서 느린 SQL문
+about-telemetry-slow-sql-main = 주 스레드에서 느린 SQL문
+about-telemetry-slow-sql-other = 헬퍼 스레드에서 느린 SQL문
 about-telemetry-slow-sql-hits = 횟수
 about-telemetry-slow-sql-average = 평균 시간(ms)
 about-telemetry-slow-sql-statement = 문장
