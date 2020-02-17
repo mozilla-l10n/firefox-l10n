@@ -505,7 +505,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = 도구 모음에 검색 표시줄 추가
 search-engine-default-header = 기본 검색 사이트
-search-engine-default-desc = 주소바와 검색바에서 사용할 기본 검색 엔진을 선택하세요.
+search-engine-default-desc = 주소 표시줄과 검색 표시줄에서 사용할 기본 검색 엔진을 선택하세요.
 search-engine-default-desc-2 = 주소 표시줄과 검색 표시줄의 기본 검색 엔진입니다. 언제든지 바꿀 수 있습니다.
 search-engine-default-private-desc-2 = 사생활 보호 창에서만 사용할 다른 기본 검색 엔진을 선택하세요
 search-separate-default-engine =
@@ -517,7 +517,7 @@ search-suggestions-option =
     .label = 검색 제안 사용
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = 주소창 결과에 검색 제안 표시
+    .label = 주소 표시줄 결과에 검색 제안 표시
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -525,7 +525,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = 주소창 결과의 방문 기록 앞에 검색 제안 표시
+    .label = 주소 표시줄 결과의 방문 기록 앞에 검색 제안 표시
 search-show-suggestions-private-windows =
     .label = 사생활 보호 창에 검색 제안 표시
 suggestions-addressbar-settings = 방문 기록, 북마크 및 탭 제안에 대한 설정 변경

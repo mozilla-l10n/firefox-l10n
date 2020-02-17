@@ -94,7 +94,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = 적게 입력, 많이 찾기: 주소창에서 바로 { $engineName } 검색어로 검색해 보세요.
+urlbar-search-tips-onboard = 적게 입력, 많이 찾기: 주소 표시줄에서 바로 { $engineName } 검색어로 검색해 보세요.
 urlbar-search-tips-redirect = { $engineName }의 제안과 방문 기록을 보려면 여기에서 검색을 시작하세요.
 
 ##

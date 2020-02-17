@@ -115,6 +115,7 @@ cfr-whatsnew-lockwise-take-link-text = 앱 받기
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = 주소 표시줄에 더 적게 입력하고 더 많이 찾기
 cfr-whatsnew-searchbar-icon-alt-text = 돋보기 아이콘
 
 ## Picture-in-Picture
