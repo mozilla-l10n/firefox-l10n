@@ -6,6 +6,8 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Cambiar la contraseña maestra
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguridad: { $tokenName }
@@ -20,11 +22,18 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Restablecer
+reset-password-text = Si restableces tu contraseña maestra, todas las contraseñas de webs y de correo electrónico, los datos de los formularios, certificados personales y llaves privadas almacenados serán olvidados. ¿Estás seguro de que quieres restablecer tu contraseña maestra?
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Bajando certificado
+    .style = width: 46em
+download-cert-message = Se te ha pedido que confíes en una nueva autoridad de certificación (CA).
 download-cert-trust-ssl =
     .label = Confiar en esta CA para identificar sitios web.
+download-cert-trust-email =
+    .label = Confiar en este CA para identificar usuarios de email.
 download-cert-message-desc = Antes de confiar en esta CA para cualquier propósito, debería examinar su certificado, su política y procedimientos (si están disponibles).
 download-cert-view-cert =
     .label = Ver
@@ -32,6 +41,10 @@ download-cert-view-text = Examinar certificado CA
 
 ## Client Authorization Ask dialog
 
+client-auth-window =
+    .title = Solicitud de identificación de usuario
+client-auth-site-description = Este sitio ha solicitado que te identifiques con un certificado:
+client-auth-choose-cert = Elije un certificado para presentar como identificación:
 client-auth-cert-details = Detalles del certificado seleccionado:
 
 ## Set password (p12) dialog
