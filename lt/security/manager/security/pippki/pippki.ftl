@@ -45,6 +45,7 @@ client-auth-window =
     .title = Naudotojo tapatybės nustatymas
 client-auth-site-description = Svetainė prašo pateikti jūsų tapatybę patvirtinantį liudijimą.
 client-auth-choose-cert = Pasirinkite liudijimą tapatybei patvirtinti:
+client-auth-cert-details = Išsamesnė informacija apie pasirinktą liudijimą:
 
 ## Set password (p12) dialog
 
