@@ -6,6 +6,8 @@ password-quality-meter = Качество пароля
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Смена мастер-пароля
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Устройство защиты: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Новый пароль (повторно):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Сброс мастер-пароля
+    .style = width: 40em
 reset-password-button-label =
     .label = Сбросить
+reset-password-text = При сбросе мастер-пароля, все сохранённые пароли для веб-сайтов, электронной почты, данные форм, личные сертификаты и закрытые ключи будут утеряны. Вы действительно хотите сбросить свой мастер-пароль?
 
 ## Downloading cert dialog
 
@@ -43,6 +49,9 @@ client-auth-cert-details = Информация о выбранном серти
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Выбор пароля резервной копии сертификата
+set-password-message = Введённый пароль служит для защиты резервной копии сертификата. Для продолжения резервного копирования требуется установка пароля.
 set-password-backup-pw =
     .value = Пароль резервной копии:
 set-password-repeat-backup-pw =
