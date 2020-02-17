@@ -54,3 +54,7 @@ set-password-reminder = Προειδοποίηση: Αν ξεχάσετε τον
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Προστατευμένη πιστοποίηση με διακριτικό
+protected-auth-msg = Παρακαλώ πιστοποιήστε το διακριτικό. Η μέθοδος πιστοποίησης εξαρτάται από το είδος του διακριτικού.
+protected-auth-token = Διακριτικό:
