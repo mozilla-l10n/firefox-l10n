@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "e">
 <!ENTITY exitFullScreenCmd.label "Sair de ecrã completo">
 <!ENTITY exitFullScreenCmd.accesskey "e">
+
 <!ENTITY fullScreenCmd.label "Ecrã completo">
 <!ENTITY fullScreenCmd.accesskey "E">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Definições da conta">
 <!ENTITY fxa.menu.manageAccount2.label "Gerir conta">
 <!ENTITY fxa.menu.signOut.label "Terminar sessão…">
-<!ENTITY fxa.menu.deviceSettings.label "Definições do dispositivo">
 <!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "P">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Ir para o endereço da barra de localização">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
@@ -343,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "E">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Programador Web">
+<!ENTITY webDeveloperMenu.label       "Ferramentas de programação">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "Inspecionar elemento">
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mais">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Pesquisar ou introduzir um endereço">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Adicionar este frame aos marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Copiar ligação">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Enviar ligação por email…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Guardar página como…">
 <!ENTITY savePageCmd.accesskey        "a">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">

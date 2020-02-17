@@ -98,7 +98,7 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Ativar caixas de ferramentas de depuração do navegador e dos extras
 options-enable-chrome-tooltip =
-    .title = Ativar esta opção irá permitir que utilize várias ferramentas de programador no contexto do navegador (via Ferramentas > Programador Web > Caixa de ferramentas do navegador) e depurar extras a partir do Gestor de extras
+    .title = Ativar esta opção irá permitir que utilize várias ferramentas de programador no contexto do navegador (via Ferramentas > Ferramentas de programação > Caixa de ferramentas do navegador) e depurar extras a partir do Gestor de extras
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ativar depuração remota
 options-enable-remote-tooltip =
@@ -113,11 +113,6 @@ options-source-maps-tooltip =
     .title = Se ativar esta opção as fontes serão mapeadas nas ferramentas.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Apenas sessão atual, recarrega a página
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Depurador
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Mostrar dados da plataforma Gecko

@@ -13,7 +13,7 @@ enable-common-message = As ferramentas de programador do Firefox estão desativa
 enable-learn-more-link = Saber mais acerca das ferramentas de programador
 enable-enable-button = Ativar ferramentas de programador
 enable-close-button = Fechar este separador
-welcome-title = Bem-vindo(a) às ferramentas de programador do Firefox!
+welcome-title = Bem-vindo(a) às ferramentas de programação do Firefox!
 newsletter-title = Newsletter Mozilla Developer
 newsletter-message = Obtenha noticias de programador, truques e recursos enviados diretamente para a sua caixa de entrada.
 newsletter-email-placeholder =
@@ -51,4 +51,4 @@ newsletter-error-unknown = Ocorreu um erro inesperado.
 newsletter-error-timeout = A solicitação de subscrição expirou.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
-welcome-message = Ativou as ferramentas de programador com sucesso! Para começar, explore o menu de Programador Web ou abra as ferramentas com { $shortcut }.
+welcome-message = Ativou as ferramentas de programador com sucesso! Para começar, explore o menu de Ferramentas de programação ou abra as ferramentas com { $shortcut }.
