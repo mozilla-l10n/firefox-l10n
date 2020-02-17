@@ -45,6 +45,7 @@ client-auth-window =
     .title = Iarrtas aithneachadh cleachdaiche
 client-auth-site-description = Dh'iarr an làrach ort aithne a thoirt ort fhèin le teisteanas:
 client-auth-choose-cert = Tagh teisteanas a nochdas tu mar dhearbh-aithne:
+client-auth-cert-details = Mion-fhiosrachadh an teisteanais a thagh thu:
 
 ## Set password (p12) dialog
 
