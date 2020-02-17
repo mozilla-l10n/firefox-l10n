@@ -122,6 +122,15 @@ cfr-whatsnew-lockwise-take-body =
     qualquer lugar às cópias de segurança das suas palavras-passe.
 cfr-whatsnew-lockwise-take-link-text = Obter a aplicação
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Escreva menos e encontre mais, com a barra de endereço
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Aceda aos sites que mais utiliza, com um único clique na barra de endereço. Encontre coisas mais rapidamente com os resultados do { $searchEngineName } e o seu histórico de navegação.
+cfr-whatsnew-searchbar-body-generic = Aceda aos sites que mais utiliza, com um único clique na barra de endereço. Encontre coisas mais rapidamente com os resultados de pesquisa do seu histórico de navegação.
+cfr-whatsnew-searchbar-icon-alt-text = Ícone de lupa
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Veja vídeos enquanto navega
