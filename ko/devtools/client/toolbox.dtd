@@ -88,7 +88,7 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "HTTP 캐시 비활성화 (도구상자가 열려 있을 때)">
-<!ENTITY options.disableHTTPCache.tooltip   "이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. 서비스 워커는 이 설정의 영향을 받지 않습니다.">
+<!ENTITY options.disableHTTPCache.tooltip   "이 설정을 켜면 도구상자가 열려있는 모든 탭에서 HTTP 캐시를 비활성화 합니다. Service Worker는 이 설정의 영향을 받지 않습니다.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
