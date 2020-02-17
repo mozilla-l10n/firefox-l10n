@@ -163,7 +163,7 @@ about-debugging-runtime-shared-workers =
     .name = 공유된 Worker
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = 다른 워커
+    .name = 다른 Worker
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = 프로세스
@@ -173,7 +173,7 @@ about-debugging-runtime-profile-button2 = 성능 프로파일
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
-about-debugging-runtime-service-workers-not-compatible = 브라우저 구성이 서비스 워커와 호환되지 않습니다. <a>더 알아보기</a>
+about-debugging-runtime-service-workers-not-compatible = 브라우저 구성이 Service Worker와 호환되지 않습니다. <a>더 알아보기</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -268,10 +268,10 @@ about-debugging-worker-action-start = 시작
 # Note this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 about-debugging-worker-action-push2 = Push
-    .disabledTitle = 서비스 워커 푸시가 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다.
+    .disabledTitle = Service Worker 푸시가 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다.
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = 시작
-    .disabledTitle = 서비스 워커 시작이 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다
+    .disabledTitle = Service Worker 시작이 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = 등록해제
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -298,7 +298,7 @@ about-debugging-worker-push-service =
     .label = Push 서비스
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = 서비스 워커 검사가 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다.
+    .title = Service Worker 검사가 현재 다중 프로세스 { -brand-shorter-name }에 대해 비활성화되어 있습니다.
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = 메인 프로세스
