@@ -20,12 +20,16 @@ change-password-reenter = Novo contrasinal (outra vez):
 reset-password-window =
     .title = Restabelecer o contrasinal principal
     .style = width: 40em
+reset-password-button-label =
+    .label = Restabelecer
+reset-password-text = Se restabelece o contrasinal principal esqueceranse os contrasinais de web e correo electrónico, os datos dos formularios, os certificados persoais e as chaves privadas que estean almacenados. Confirma que quere restabelecelo?
 
 ## Downloading cert dialog
 
 download-cert-window =
     .title = Descargando certificado
     .style = width: 46em
+download-cert-message = Solicitouse que confíe nunha nova entidade de acreditación (AC).
 download-cert-trust-ssl =
     .label = Confiar nesta AC para identificar sitios web.
 download-cert-trust-email =
