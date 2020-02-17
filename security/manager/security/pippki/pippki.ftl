@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Wachtwoordkwaliteitsmeter
 
 ## Change Password dialog
 
@@ -10,6 +11,9 @@ change-password-window =
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Beveiligingsapparaat: { $tokenName }
+change-password-old = Huidige wachtwoord:
+change-password-new = Nieuw wachtwoord:
+change-password-reenter = Nieuw wachtwoord (nogmaals):
 
 ## Reset Password dialog
 
@@ -22,10 +26,15 @@ reset-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opg
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Certificaat downloaden
+    .style = width: 46em
+download-cert-message = U wordt gevraagd een nieuwe certificaatautoriteit (CA) te vertrouwen.
 download-cert-trust-ssl =
     .label = Deze CA vertrouwen voor het identificeren van websites.
 download-cert-trust-email =
     .label = Deze CA vertrouwen voor het identificeren van e-mailgebruikers.
+download-cert-message-desc = Voordat u deze CA voor enig gebruik vertrouwt, dient u het certificaat ervan te bestuderen, evenals het beleid en de procedures (wanneer beschikbaar).
 download-cert-view-cert =
     .label = Weergeven
 download-cert-view-text = CA-certificaat bestuderen
@@ -35,6 +44,8 @@ download-cert-view-text = CA-certificaat bestuderen
 client-auth-window =
     .title = Gebruikersidentificatieverzoek
 client-auth-site-description = Deze website vraagt u zich te identificeren met een beveiligingscertificaat:
+client-auth-choose-cert = Kies een certificaat om als identificatie aan te bieden:
+client-auth-cert-details = Details van geselecteerde certificaat:
 
 ## Set password (p12) dialog
 
@@ -51,4 +62,5 @@ set-password-reminder = Belangrijk: als u uw wachtwoord voor de reservekopie van
 
 protected-auth-window =
     .title = Beschermde tokenauthenticatie
+protected-auth-msg = Authenticeer bij het token. Authenticatiemethode hangt af van het type van uw token.
 protected-auth-token = Token:
