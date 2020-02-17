@@ -116,6 +116,9 @@ cfr-whatsnew-lockwise-take-link-text = 앱 받기
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = 주소 표시줄에 더 적게 입력하고 더 많이 찾기
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = 주소 표시줄에서 한 번 클릭하여 많이 사용하는 사이트로 이동하십시오. { $searchEngineName }의 결과와 방문 기록을 통해 더 빨리 찾을 수 있습니다.
 cfr-whatsnew-searchbar-icon-alt-text = 돋보기 아이콘
 
 ## Picture-in-Picture
