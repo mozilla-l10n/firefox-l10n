@@ -1056,14 +1056,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Յաւելումը փոխուած է, ինչը տեսնում եք որպէս Ձեր գլխաւոր էջ։ Դուք կարող եք վերականգնել Ձեր կարգաւորումները, եթե Դուք չեք ցանկանում այս փոփոխութիւնները։">
 
+<!ENTITY homepageControlled.header.message "Ձեր գլխաւոր էջը փոխուել է։">
+<!ENTITY homepageControlled.keepButton.label "Պահել փոփոխութիւնները">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Անջատել ընդլայնումը">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Մուտք գործել Ձեր թաքնուած ներդիրները">
+<!ENTITY tabHideControlled.keepButton.label "Թաքնուած պահել ներդիրները">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Անջատել ընդլայնումը">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
+<!ENTITY pageActionButton.tooltip "Էջի գործոյթները">
+<!ENTITY pageAction.addToUrlbar.label "Աւելացնել հասցէագաւտում">
 
 
 <!ENTITY pageAction.shareUrl.label "Կիսուել">
