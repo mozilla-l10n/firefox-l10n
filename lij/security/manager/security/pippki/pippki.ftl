@@ -29,6 +29,7 @@ reset-password-text = Se ti ti inposti torna a teu paròlla segreta prinçipâ t
 download-cert-window =
     .title = Descarego o certificato
     .style = width: 46em
+download-cert-message = Te vegne domandou de dâ a fiduccia a sta neuva aotoritæ de certificaçion (CA).
 download-cert-trust-ssl =
     .label = Fiate de sta CA pe identificâ i sciti web.
 download-cert-trust-email =
