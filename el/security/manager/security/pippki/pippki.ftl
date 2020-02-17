@@ -6,6 +6,8 @@ password-quality-meter = Μέτρηση ποιότητας πιστοποιητ�
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Αλλαγή κύριου κωδικού
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Συσκευή ασφάλειας: { $tokenName }
@@ -41,6 +43,9 @@ client-auth-cert-details = Λεπτομέρειες επιλεγμένου πι�
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Επιλογή κωδικού αντιγράφου ασφαλείας πιστοποιητικού
+set-password-message = Ο κωδικός αντιγράφου ασφάλειας πιστοποιητικού προστατεύει το αντίγραφο που πρόκειται να δημιουργήσετε. Θα πρέπει να καθορίσετε αυτόν τον κωδικό ώστε να προχωρήσει η διαδικασία
 set-password-backup-pw =
     .value = Κωδικός αντιγράφου ασφάλειας πιστοποιητικού:
 set-password-repeat-backup-pw =
