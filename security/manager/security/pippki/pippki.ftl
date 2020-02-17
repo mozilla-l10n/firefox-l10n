@@ -6,6 +6,8 @@ password-quality-meter = Gæðamæling lykilorðs
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Breyta aðallykilorði
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Öryggistæki: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Nýtt lykilorð (aftur):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Endurstilla aðallykilorð
+    .style = width: 40em
 reset-password-button-label =
     .label = Endursetja
+reset-password-text = Ef þú endurstillir aðallykilorðið, þá muntu missa öll geymd vef- og póstlykilorð, öll form gögn, öll skilríki, og alla einkalykla. Ertu viss um að þú viljir endurstilla aðallykilorðið?
 
 ## Downloading cert dialog
 
@@ -39,13 +45,18 @@ client-auth-window =
     .title = Beiðni um auðkenni notanda
 client-auth-site-description = Þetta vefsvæði bað um að þú auðkennir þig með skilríki:
 client-auth-choose-cert = Veldu skilríki til að sýna sem auðkenni:
+client-auth-cert-details = Upplýsingar um valið skilríki:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Veldu lykilorð öryggisafrits fyrir skilríki
+set-password-message = Lykilorðið sem þú slærð hér inn verndar öryggisafritskrána sem verið er að fara að búa til.  Þú verður að slá inn lykilorð til að halda áfram með öryggisafritið.
 set-password-backup-pw =
     .value = Lykilorð öryggisafrits:
 set-password-repeat-backup-pw =
     .value = Lykilorð öryggisafrits (aftur):
+set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits geturðu ekki endurheimt öryggisafritið seinna.  Vinsamlega geymið það öruggum stað.
 
 ## Protected Auth dialog
 
