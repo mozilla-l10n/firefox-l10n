@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = リセット
+reset-password-text = マスターパスワードをリセットすると、保存されているすべてのウェブやメールのパスワード、フォームデータ、個人証明書、秘密鍵が失われます。本当にマスターパスワードをリセットしてもよろしいですか？
 
 ## Downloading cert dialog
 
@@ -29,6 +30,8 @@ download-cert-window =
     .title = 証明書のインポート
     .style = width: 46em
 download-cert-message = 新しい認証局 (CA) を信頼するよう求められています。本当にこの認証局を信頼しますか？
+download-cert-trust-ssl =
+    .label = この認証局によるウェブサイトの識別を信頼する
 download-cert-message-desc = 認証局を信頼する場合はその目的に関わらず、認証局の証明書が間違いないこと、認証ポリシーや認証実施規定に問題がないことを確認してください。
 download-cert-view-cert =
     .label = 証明書を表示
