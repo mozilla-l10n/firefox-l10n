@@ -26,6 +26,9 @@ reset-password-text = Má bhánaíonn tú do Phríomhfhocal Faire, caillfear na 
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Teastas á íoslódáil
+    .style = width: 46em
 download-cert-message = Iarrtar ort muinín a bheith agat as Údarás Deimhniúcháin nua.
 download-cert-trust-ssl =
     .label = Tá muinín agat as an údarás deimhniúcháin seo chun suímh Ghréasáin a shainaithint.
@@ -42,6 +45,7 @@ client-auth-window =
     .title = Iarratas Aitheantais Úsáideora
 client-auth-site-description = Iarann an suíomh seo ort tú féin a shainaithint le teastas:
 client-auth-choose-cert = Roghnaigh teastas le taispeáint mar aitheantas:
+client-auth-cert-details = Mionsonraí an teastais roghnaithe:
 
 ## Set password (p12) dialog
 
