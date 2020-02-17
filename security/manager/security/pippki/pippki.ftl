@@ -46,5 +46,7 @@ set-password-repeat-backup-pw =
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Varin tóka sannvottun
 protected-auth-msg = Vinsamlega auðkenndu þig með tóka. Hvernig auðkennt er fer eftir tegund tóka.
 protected-auth-token = Lykill:
