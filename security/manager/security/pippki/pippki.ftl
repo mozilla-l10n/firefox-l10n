@@ -6,6 +6,8 @@ password-quality-meter = Metara wa khwalithi wa lentšuphetišo
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Fetola Lentšuphetišo la Motheo
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Setlabelo sa Tšhireletšo: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Lentšuphetišo le leswa (gape):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Beakanyaleswa Lentšuphetišo la Motheo
+    .style = width: 40em
 reset-password-button-label =
     .label = Go beakanyaleswa
+reset-password-text = Ge o beakanyaleswa lentšuphetišo la gago la motheo, mantšuphetišo a gago a web le e-poso ka moka ao o a bolokilego, sebopego sa tshedimošo, disetifikheiti tša gago, le dinotlelo tša sephiri di tla lebalwa. Naa o na le bonnete bja gore o nyaka go beakanyaleswa lentšuphetišo la motheo?
 
 ## Downloading cert dialog
 
@@ -40,6 +46,9 @@ client-auth-choose-cert = Kgetha setifikheiti go se hlagiša bjalo ka sehlathi:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Kgetha Lentšuphetišo la Thekgo ya Setifikheiti
+set-password-message = Lentšuphetišo la thekgo ya setifikheiti leo o le beilego mo e šireletša thekgo ya faele yeo o lego kgauswi le go e hlama.  O swanetše go beakanya lentšuphetišo le go tšwela pele ka thekgo.
 set-password-backup-pw =
     .value = Lentšuphetišo la thekgo ya setifikheiti:
 set-password-repeat-backup-pw =
