@@ -45,6 +45,7 @@ client-auth-window =
     .title = Felhasználóazonosítási kérelem
 client-auth-site-description = A webhely azt kívánja, hogy Ön igazolja magát egy tanúsítvánnyal:
 client-auth-choose-cert = Válassza ki az azonosításhoz használandó tanúsítványt:
+client-auth-cert-details = A kijelölt tanúsítvány részletei:
 
 ## Set password (p12) dialog
 
