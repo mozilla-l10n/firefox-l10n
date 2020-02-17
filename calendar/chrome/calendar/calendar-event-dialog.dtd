@@ -33,7 +33,7 @@
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label                "Teavita osalejaid">
+<!ENTITY event.attendees.notify.label                "Osalejaid teavitatakse">
 <!ENTITY event.attendees.notify.accesskey            "e">
 <!ENTITY event.attendees.notifyundisclosed.label     "Igale osalejale saadetakse eraldi kutse">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "d">
@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Asukoht:">
 <!ENTITY read.only.category.label        "Kategooria:">
 <!ENTITY read.only.organizer.label       "Korraldaja:">
-<!ENTITY read.only.reply.label           "Vasta:">
-<!ENTITY read.only.accept.label          "Osalen">
-<!ENTITY read.only.decline.label         "Ei osale">
-<!ENTITY read.only.tentative.label       "Pole otsustanud">
-<!ENTITY read.only.needs.action.label    "Kinnitan hiljem">
 <!ENTITY read.only.reminder.label        "Meeldetuletus:">
 <!ENTITY read.only.attachments.label     "Manused:">
 <!ENTITY read.only.attendees.label       "Osalejad">
