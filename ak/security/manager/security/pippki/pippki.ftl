@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Ehintasɛmfua anoɔden esusufo
 
 ## Change Password dialog
 
@@ -12,6 +13,8 @@ change-password-reenter = Akasumulizo akapya (nddamu):
 
 ## Reset Password dialog
 
+reset-password-button-label =
+    .label = Hyehyɛ-bio
 reset-password-text = Bwona kyusa akasumulizoko ka masita, byona byoteresee ku muko ne akasumulizo ka i-mayilu, fomu ya wiino, santifikati mubuntu, ne akasumulizo kenenyini kaza kwerabirwa. Okakasa oyagala ku kyusa akasmulizo ka masita ko?
 
 ## Downloading cert dialog
