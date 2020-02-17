@@ -51,16 +51,16 @@ options-styleeditor-label = 스타일 편집기
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS 자동완성
 options-stylesheet-autocompletion-tooltip =
-    .title = 스타일 편집기에서 CSS 속성, 값, 선택자를 입력하는 대로 자동완성
+    .title = 스타일 편집기에서 입력하는 대로 CSS 속성, 값 및 선택자를 자동으로 완성합니다
 
 ## Screenshot section
 
 # The heading
 options-screenshot-label = 스크린샷 동작
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = 클립보드로 스크린샷
+options-screenshot-clipboard-label = 스크린샷을 클립보드에 저장
 options-screenshot-clipboard-tooltip =
-    .title = 클립보드로 바로 스크린샷을 저장
+    .title = 스크린샷을 클립보드에 바로 저장합니다
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = 카메라 셔터 소리 재생
 options-screenshot-audio-tooltip =
