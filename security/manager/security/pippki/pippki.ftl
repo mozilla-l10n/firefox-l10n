@@ -45,6 +45,7 @@ client-auth-window =
     .title = Napšašowanje wó identifikaciji wužywarja
 client-auth-site-description = Toś to sedło jo pominał, až wy sam identificěrujośo se pśez certifikat:
 client-auth-choose-cert = Wubjeŕśo certifikat za identifikaciju:
+client-auth-cert-details = Drobnostki wubranego certifikata:
 
 ## Set password (p12) dialog
 
