@@ -286,6 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Դուք արգելափակել եք մշտական պահեստը այս կայքի համար։">
 <!ENTITY urlbar.popupBlocked.tooltip             "Դուք ունեք արգելափակուած ելնող պատուհաններ այս կայքում։">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Դուք արգելափկել եք ինքնանուագարկուող ձայնային մեդիան այս կայքում։">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Դուք արգելափակել եք կտաւներ-ի տուեալների դուրս բերումը այս կայքի համար։">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Դուք արգելափակել եք այս կայքը Adobe Flash բաղադրիչը աւգտագործելիս։">
 <!ENTITY urlbar.midiBlocked.tooltip              "Դուք արգելափակել եք MIDI մատչումը այս կայքին։">
 <!ENTITY urlbar.installBlocked.tooltip           "Դուք արգելափակել եք հաւելման տեղակայումը այս կայքի համար։">
@@ -1072,13 +1073,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Էջի գործոյթները">
 <!ENTITY pageAction.addToUrlbar.label "Աւելացնել հասցէագաւտում">
+<!ENTITY pageAction.removeFromUrlbar.label "ՀԵռացնել հասցէագաւտուց">
+<!ENTITY pageAction.manageExtension.label "Կառաւարել ընդլայնումը…">
 
+<!ENTITY sendToDevice.syncNotReady.label "Սարքերի համաժամեցում…">
 
 <!ENTITY pageAction.shareUrl.label "Կիսուել">
 <!ENTITY pageAction.shareMore.label "Աւելին…">
 
+<!ENTITY libraryButton.tooltip "Դիտել պատմութիւնը, պահպանուած էջանիշերը եւ աւելին">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Մատչելիութեան յուրահատկութիւնները միացուած են">
