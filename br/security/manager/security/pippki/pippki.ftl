@@ -45,6 +45,7 @@ client-auth-window =
     .title = Azgoulenn anaoudadur an arveriad
 client-auth-site-description = Azgoulennet eo bet gant al lec'hienn-mañ e vefec'h hennadet gant un testeni :
 client-auth-choose-cert = Dibabit un testeni evit kinnig evel anaoudadur :
+client-auth-cert-details = Munudoù an testeni bet diuzet:
 
 ## Set password (p12) dialog
 
