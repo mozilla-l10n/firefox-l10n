@@ -25,6 +25,9 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Завантаження сертифіката
+    .style = width: 46em
 download-cert-message = Вас просять довіряти новому центру сертифікації (CA).
 download-cert-trust-email =
     .label = Довіряти при ідентифікації користувачів електронної пошти.
@@ -43,10 +46,14 @@ client-auth-cert-details = Подробиці про вибраний серти
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Вибір пароля резервної копії сертифіката
+set-password-message = Пароль резервної копії сертифіката, який ви вкажете тут, захистить файл нової резервної копії. Для продовження резервного копіювання ви повинні встановити пароль.
 set-password-backup-pw =
     .value = Пароль резервної копії:
 set-password-repeat-backup-pw =
     .value = Пароль резервної копії (ще раз):
+set-password-reminder = Увага: якщо ви забудете ваш пароль резервної копії сертифіката, ви не зможете відновити цю резервну копію пізніше. Цю інформацію треба зберігати в безпечному місці.
 
 ## Protected Auth dialog
 
