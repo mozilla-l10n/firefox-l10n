@@ -45,6 +45,7 @@ client-auth-window =
     .title = Ɗaɓɓitannde Innitol Kuutoro
 client-auth-site-description = Ndee lowre ɗaɓɓitii yo a innito huutoraade seedamfaagu:
 client-auth-choose-cert = Suɓo seedamfaagu ngam wonande ma innitol:
+client-auth-cert-details = Cariiɗe sertifika cuɓaaɗo:
 
 ## Set password (p12) dialog
 
