@@ -47,6 +47,7 @@ client-auth-window =
     .title = વપરાશકર્તા ઓળખ વિનંતી
 client-auth-site-description = આ સાઇટે તમને પ્રમાણપત્ર સાથે તમારી ઓળખાણ આપવા માટે વિનંતી કરી છે:
 client-auth-choose-cert = ઓળખ તરીકે આપવા પ્રમાણપત્ર પસંદ કરો:
+client-auth-cert-details = પસંદ કરેલા પ્રમાણપત્રની વિગતો:
 
 ## Set password (p12) dialog
 
