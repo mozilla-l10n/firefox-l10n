@@ -83,9 +83,9 @@ about-debugging-setup-title = 설정
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = 기기를 원격으로 디버깅할 연결 방법을 구성합니다.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox = 이 버전의 { -brand-shorter-name }에서 탭, 확장기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하세요.
+about-debugging-setup-this-firefox = 이 버전의 { -brand-shorter-name }에서 탭, 확장기능 및 Service Worker를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하세요.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = 이 버전의 { -brand-shorter-name }에서 확장 기능 및 서비스 워커를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하세요.
+about-debugging-setup-this-firefox2 = 이 버전의 { -brand-shorter-name }에서 확장 기능 및 Service Worker를 디버그하려면 <a>{ about-debugging-this-firefox-runtime-name }</a>를 사용하세요.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = 기기 연결
 # USB section of the Setup page
@@ -157,10 +157,10 @@ about-debugging-runtime-tabs =
     .name = 탭
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = 서비스 워커
+    .name = Service Worker
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = 공유된 워커
+    .name = 공유된 Worker
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = 다른 워커
