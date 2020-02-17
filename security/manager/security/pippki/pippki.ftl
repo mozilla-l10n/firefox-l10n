@@ -11,6 +11,11 @@ change-password-reenter = Nytt passord (igjen):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Still tilbake hovudpassord
+    .style = width: 40em
+reset-password-button-label =
+    .label = Still tilbake
 
 ## Downloading cert dialog
 
