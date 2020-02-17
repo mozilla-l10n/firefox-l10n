@@ -11,6 +11,8 @@ change-password-reenter = Yeni parola (tekrar):
 
 ## Reset Password dialog
 
+reset-password-button-label =
+    .label = Sıfırla
 
 ## Downloading cert dialog
 
