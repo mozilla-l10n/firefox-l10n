@@ -6,9 +6,14 @@ password-quality-meter = มาตรวัดคุณภาพรหัสผ�
 
 ## Change Password dialog
 
+change-password-window =
+    .title = เปลี่ยนรหัสผ่านหลัก
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = ล้างรหัสผ่านหลัก
+    .style = width: 40em
 
 ## Downloading cert dialog
 
@@ -22,6 +27,8 @@ download-cert-view-text = ตรวจสอบใบรับรอง CA
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = เลือกรหัสผ่านสำรองใบรับรอง :
 set-password-backup-pw =
     .value = รหัสผ่านสำรองใบรับรอง :
 set-password-repeat-backup-pw =
