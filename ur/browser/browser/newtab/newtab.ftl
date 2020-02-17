@@ -165,6 +165,7 @@ newtab-discovery-empty-section-topstories-timed-out = افوہ! ہم نے اس �
 newtab-pocket-read-more = مشہور مضامین:
 newtab-pocket-more-recommendations = اور زیادہ سفارشات
 newtab-pocket-whats-pocket = { -pocket-brand-name } کیا ہے؟
+newtab-pocket-learn-more = مزید سیکھیں
 newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 
 ## Error Fallback Content.

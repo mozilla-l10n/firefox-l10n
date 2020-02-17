@@ -18,6 +18,7 @@ policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں�
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
 policy-Bookmarks = بکمارک ٹولبار، بکمارک مینو، یا انکے اندر کسی اختصاصی فولڈر  مے بکمارک بنائیں۔
+policy-CaptivePortal = اسیر پورٹل سپورٹ کو فعال یا غیر فعال کریں۔
 policy-CertificatesDescription = سرٹیفکیٹ شامل کریں یا پہلے سے بنے سرٹیفکیٹ استعمال کریں۔
 policy-Cookies = کوکیز سیٹ کرنے کیلئے ویب سائٹس کو اجازت دیں یا انکار کریں۔
 policy-DefaultDownloadDirectory = پہلے سے طے شدہ ڈاؤن لوڈ ڈائریکٹری مرتب کریں۔
@@ -72,5 +73,6 @@ policy-SecurityDevices = PKCS #11 ماڈیول انسٹال کریں۔
 policy-SSLVersionMax = زیادہ سے زیادہ SSL ورژن مرتب کریں۔
 policy-SSLVersionMin = کم از کم SSL ورژن مرتب کریں۔
 policy-SupportMenu = مدد والے مینو میں کسٹم سپورٹ مینو آئٹم شامل کریں۔
+policy-UserMessaging = صارف کو کچھ پیغامات نہ دکھائیں۔
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ویب سائٹوں کا دورہ کرنے سے روکیں۔ فارمیٹ پر مزید تفصیلات کے لئے دستاویزات دیکھیں۔
