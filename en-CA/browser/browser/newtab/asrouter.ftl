@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Recommended Extension
 cfr-doorhanger-feature-heading = Recommended Feature
 cfr-doorhanger-pintab-heading = Try This: Pin Tab
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Why am I seeing this
@@ -121,6 +121,15 @@ cfr-whatsnew-lockwise-take-body =
     The { -lockwise-brand-short-name } mobile app lets you securely access your
     backed up passwords from anywhere.
 cfr-whatsnew-lockwise-take-link-text = Get the app
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Type less, find more with the address bar
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Get to the sites you use most with a single click into the address bar. Find things faster with results from { $searchEngineName } and your browsing history.
+cfr-whatsnew-searchbar-body-generic = Get to the sites you use most with a single click into the address bar. Find things faster with search results from your browsing history.
+cfr-whatsnew-searchbar-icon-alt-text = Magnifying glass icon
 
 ## Picture-in-Picture
 
