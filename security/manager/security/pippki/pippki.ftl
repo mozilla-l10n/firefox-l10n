@@ -6,6 +6,8 @@ password-quality-meter = Գաղտնաբառի ապահովությունը
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Փոխել Հիմնական գաղտնաբառը
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Անվտանգության Սարք: { $tokenName }
@@ -15,6 +17,9 @@ change-password-reenter = Նոր Գաղտնաբառը (նորից).
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Մաքրել Հիմնական գաղտնաբառը
+    .style = width: 40em
 reset-password-button-label =
     .label = Վերադարձնել
 reset-password-text = Եթե մաքրեք Ձեր հիմնական գաղտնաբառը, ապա բոլոր պահպանված Վեբ և Էլ-Փոստ գաղտնաբառերը, ձեվերի տվյալները, անհատական արտոնաթղթերը, անձնական բանալիները կմոռացվեն: Համո՞զված եք, որ ցանկանում եք հիմնական գաղտնաբառը մաքրել:
