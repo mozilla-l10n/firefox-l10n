@@ -903,6 +903,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY protections.etpON.header "Ընդլայնուած հետագծման պաշտպանութիւնը միացուած է այս կայքի համար">
+<!ENTITY protections.etpOFF.header "Ընդլայնուած Հետագծման պաշտպանութիւնն Անջատուած է այս կայքի համար">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Հետապնդումից ընդլայնուած պաշտպանութեան մասին լրացուցիչ տեղեկութիւններ">
@@ -947,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Գաղտնազերծիչները աւգտագործում են Ձեր համակարգի հաշուարկային ուժը թուային փողը հանելու համար։ Գաղտնազերծիչի սցենարները չորացնում են Ձեր մարտկոցը, դանդաղեցնում Ձեր համակարգիչը եւ կարող են մեծացնել Ձեր էներգիայի հաշիւը։">
 <!ENTITY protections.fingerprinters.description "Մատնահետքերը հաւաքում են կարգաւորումներ Ձեր զննարկչից եւ համակարգչից Ձեր հատկագիրը ստեղծելու համար։ Աւգտագործելով այս թուային մատնահետքը, նրանք կարող են հետեւել Ձեզ տարբեր կայքերի միջով։">
 <!ENTITY protections.trackingContent2.description "Կայքերը կարող են բեռնել արտաքին գովազդները, տեսանիւթերը եւ այլ բովանդակութիւն հետեւող կոդով։ Պարունակութեան արգելափակման հետեւումը կարող է աւգնել կայքերին ավելի արագ բեռնելու, բայց որոշ կոճակներ, ձեւեր եւ մուտքի դաշտեր կարող են չաշխատել:">
+<!ENTITY protections.socialMediaTrackers.description "Սոցցանցերը հետքեր են տեղադրում այլ կայքերում ՝ հետեւելու Ձեր արածին, դիտմանը եւ դիտելու առցանց: Սա թոյլ է տալիս սոցիալական մեդիայ ընկերութիւններին ավելին իմանալ Ձեր մասին, ավելին, քան կիսում եք Ձեր սոցիալական լրատվամիջոցների յատկագրերում։">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -970,6 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ինքնաթաքցնել">
 
+<!ENTITY getUserMedia.selectCamera.label "Փոխանակման տեսախցիկ։">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Ներդիրի ձայնանիւթը կհամաւգտագործուի։">
