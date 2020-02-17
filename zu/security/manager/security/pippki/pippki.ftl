@@ -6,6 +6,8 @@ password-quality-meter = Indlela yokukala izinga ngegama lokungena
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Shintsha Igama Lokungena Eliphethe
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Ithuluzi Lokulondeka: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Igama lokungena elisha (futhi):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Qalisa phansi igama lokungena eliphethe
+    .style = width: 40em
 reset-password-button-label =
     .label = Qalisa phansi
+reset-password-text = Uma uqalisa phansi igama lokungena eliphethe, wonke amagama okungena kuwebhu naku-imeyili agciniwe, ukwaziswa, izitifiketi zakho nezinkinobho zangasese kuzokhohlakala. Uyaqiniseka yini ukuthi ufuna ukuqalisa phansi igama lakho lokungena eliphethe?
 
 ## Downloading cert dialog
 
@@ -40,6 +46,9 @@ client-auth-choose-cert = Khetha isitifiketi ozosiveza lapho uzihlonza:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Khetha Igama Lokungena Lesitifiketi Ozosigcina
+set-password-message = Igama lokungena lesitifiketi ozosigcina olibhale lapha livikela ifayela eligciniwe osuzolakha.  Kufanele wakhe leli gama lokungena ukuze uqhubeka nokugcina.
 set-password-backup-pw =
     .value = Igama lokungena lesitifiketi ozosigcina:
 set-password-repeat-backup-pw =
