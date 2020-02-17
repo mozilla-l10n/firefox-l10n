@@ -70,6 +70,7 @@ permissions-exceptions-content-blocking-desc = Avètz desactivat lo blocatge de 
 permissions-exceptions-etp-window =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Avètz desactivat las proteccions per aquestes sites web.
 
 ## Exceptions - Cookies
 

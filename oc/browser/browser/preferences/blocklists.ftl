@@ -5,7 +5,6 @@
 blocklist-window =
     .title = Lista del blocatge
     .style = width: 55em
-blocklist-desc = Podètz causir quina lista de { -brand-short-name } serà utlizada per bolcar los elements web que poiriá pistar vòstra activitat de navegacion.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +23,4 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Proteccion basica de Disconnect.m (Recomandada).
-blocklist-item-moz-std-desc = Autorizar unes traçadors per que los sites foncionen coma cal.
-blocklist-item-moz-full-name = Proteccion estricta de Disconnect.me.
-blocklist-item-moz-full-desc = Bloca los elements de seguiment coneguts. De sites web pòdon pas foncionar coma cal.
+blocklist-item-moz-std-description = Autoriza certans traçadors per que mens de sites quiten de foncionar.
