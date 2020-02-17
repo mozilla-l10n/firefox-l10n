@@ -114,6 +114,10 @@ cfr-whatsnew-lockwise-take-title = לקחת את הססמאות שלך לכל מ
 cfr-whatsnew-lockwise-take-body = היישומון לנייד { -lockwise-brand-short-name } מאפשר לך לגשת באופן מאובטח לססמאות המגובות שלך מכל מקום.
 cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = סמל זכוכית מגדלת
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = צפייה בסרטונים תוך כדי גלישה
