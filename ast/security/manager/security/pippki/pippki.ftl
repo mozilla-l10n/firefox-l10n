@@ -6,18 +6,26 @@ password-quality-meter = Mididor de calidá de la contraseña
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Camudar contraseña maestra
+change-password-old = Contraseña actual:
 
 ## Reset Password dialog
 
 
 ## Downloading cert dialog
 
+download-cert-trust-ssl =
+    .label = Enfotase nesta CA pa identificar sitios web.
+download-cert-trust-email =
+    .label = Enfotase nesta CA pa identificar usuarios de corréu.
 download-cert-view-cert =
     .label = Ver
 download-cert-view-text = Desaminar certificáu de CA
 
 ## Client Authorization Ask dialog
 
+client-auth-choose-cert = Escueyi un certificáu pa presentalu como identificación:
 
 ## Set password (p12) dialog
 
