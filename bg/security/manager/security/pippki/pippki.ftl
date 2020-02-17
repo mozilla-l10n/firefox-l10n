@@ -6,6 +6,8 @@ password-quality-meter = Качество на паролата
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Промяна на главната парола
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Устройство по безопасността: { $tokenName }
@@ -28,6 +30,8 @@ download-cert-window =
     .title = Изтегляне на сертификат
     .style = width: 46em
 download-cert-message = Поискано е да се доверите на нов удостоверител на сертификати (CA).
+download-cert-trust-ssl =
+    .label = Доверяване на този CA за идентифициране на страници.
 download-cert-trust-email =
     .label = Доверяване на този CA за идентифициране на потребители на е-поща.
 download-cert-message-desc = Преди да се доверите на този CA за каквато и да е цел, трябва да изследвате сертификата му, както и политиката и процедурите на издателя, ако са налични.
@@ -52,6 +56,7 @@ set-password-backup-pw =
     .value = Парола на резервното копие на сертификат:
 set-password-repeat-backup-pw =
     .value = Парола на резервното копие на сертификат (отново):
+set-password-reminder = Важно: Ако забравите паролата на резервното копие на сертификата, по-късно няма да може да възстановите от това резервно копие. Моля, запишете я на сигурно място.
 
 ## Protected Auth dialog
 
