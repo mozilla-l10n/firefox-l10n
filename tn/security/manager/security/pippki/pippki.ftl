@@ -6,14 +6,20 @@ password-quality-meter = Tekanyetso ya boleng jwa khunololamoraba
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Fetola Khunololamoraba e Kgolo
 change-password-old = Khunololamoraba ya ga jaana:
 change-password-new = Khunololamoraba e ntšhwa:
 change-password-reenter = Khunololamoraba e ntšhwa (gape):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Tlhoma Khunololamoraba e Kgolo sešwa
+    .style = width: 40em
 reset-password-button-label =
     .label = Tlhoma sešwa
+reset-password-text = Fa o tlhoma khunololamoraba ya gago e kgolo sešwa, dikhunololamoraba tsa gago tsotlhe tse di bolokilweng tsa inthanete le poso ya eleketoroniki, tshedimosetso ya diforomo, ditifikeiti tsa sebele, le dinotlolo tsa poraefete di tla lebalwa. A o totobetse gore o batla go tlhoma khunololamoraba ya gago e kgolo sešwa?
 
 ## Downloading cert dialog
 
@@ -37,6 +43,9 @@ client-auth-choose-cert = Tlhopha setifikeiti se o tla se tlhagisang jaaka boits
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Tlhopha khunololamoraba ya Poloko ya Setifikeiti
+set-password-message = Khunololamoraba ya poloko ya setifikeiti e o e tlhomileng fano e sireletsa faele ya poloko e o tlogang o e tlhama.  O tshwanetse go tlhoma khunololamoraba eno go tswelela ka poloko.
 set-password-backup-pw =
     .value = Khunololamoraba ya poloko ya setifikeiti:
 set-password-repeat-backup-pw =
