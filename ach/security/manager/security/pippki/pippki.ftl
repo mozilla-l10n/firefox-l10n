@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-quality-meter = Mita me kit mung me donyo
 
 ## Change Password dialog
 
@@ -21,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Ter nitit
+reset-password-text = Ka i tero mung me donyo mamegi madit nitit, web megi weng ma kigwoko ki mung me e-mail, ket waraga me tic pari, ki wic bi wil ki lagony pa dano. I moko ada ni imito tero mung me donyo madit nitit?
 
 ## Downloading cert dialog
 
@@ -43,12 +45,17 @@ client-auth-window =
     .title = Kwac me Nyutu Latic kwede
 client-auth-site-description = Di bar man openyo ni myero i nyute keni kwede waraga:
 client-auth-choose-cert = Yer waraga me mic calo nyutu:
+client-auth-cert-details = Matut ikom catibiket ma kiyero ni:
 
 ## Set password (p12) dialog
 
 set-password-window =
     .title = Yer i cwil pi Gwok me Waraga
 set-password-message = Mung me gwok me waraga ma itero kany kano Pwail ma onongo icok ki cweno.  Myero i ter i mung me donyo man pi mede kwede kano mukene.
+set-password-backup-pw =
+    .value = Mung me donyo pi kano waraga:
+set-password-repeat-backup-pw =
+    .value = Mung me donyo me waraga (doki):
 set-password-reminder = Pire tek: Ka wiyi owil ki mung me kano waraga, pe iromo dong gwoko man lacen.  Tim ber i ket rekod ne i kabedo ma ogwoke maber.
 
 ## Protected Auth dialog
