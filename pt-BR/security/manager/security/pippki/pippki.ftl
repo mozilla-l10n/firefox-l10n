@@ -6,6 +6,8 @@ password-quality-meter = Medidor de qualidade da senha
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Alterar senha mestra
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de segurança: { $tokenName }
@@ -18,12 +20,17 @@ change-password-reenter = Confirmar a nova senha:
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = Baixando o certificado
+    .style = width: 46em
 download-cert-message = Você foi solicitado a marcar como confiável uma nova Autoridade Certificadora (CA).
 download-cert-trust-ssl =
     .label = Confiar nesta CA para identificar sites.
 download-cert-trust-email =
     .label = Confiar nesta CA para identificar usuários de e-mail.
 download-cert-message-desc = Antes de considerar confiável esta CA para algum fim, você deve examinar seu certificado, sua diretiva e procedimentos (se disponíveis).
+download-cert-view-cert =
+    .label = Ver
 download-cert-view-text = Examinar certificado da CA
 
 ## Client Authorization Ask dialog
