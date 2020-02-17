@@ -36,6 +36,9 @@ client-auth-cert-details = Detalles del certificado seleccionado:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Seleccione una Contraseña de Respaldo del Certificado
+set-password-message = La contraseña de respaldo del certificado que establezca aquí protege el archivo de respaldo que está por crear.  Debe ingresar una contraseña para proceder con el respaldo.
 set-password-backup-pw =
     .value = Contraseña de respaldo de certificado:
 set-password-repeat-backup-pw =
