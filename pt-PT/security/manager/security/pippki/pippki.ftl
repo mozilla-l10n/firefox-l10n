@@ -26,6 +26,9 @@ reset-password-text = Se remover a palavra-passe mestra, todas as suas palavras-
 
 ## Downloading cert dialog
 
+download-cert-window =
+    .title = A transferir certificado
+    .style = width: 46em
 download-cert-message = Foi-lhe pedido para confiar numa nova autoridade certificadora (CA).
 download-cert-trust-ssl =
     .label = Confiar nesta entidade de certificação para identificar sites.
