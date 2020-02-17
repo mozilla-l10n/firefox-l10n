@@ -93,8 +93,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "HTTP로 가져온 서비스 워커 쓰기 (도구상자가 열려 있을 때에만)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "이 옵션을 켜면 도구 상자가 열려 있는 모든 탭에서 HTTP로 가져온 서비스 워커를 쓸 수 있습니다.">
+<!ENTITY options.enableServiceWorkersHTTP.label     "HTTP를 통한 Service Worker 사용 (도구상자가 열려 있을 때)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "이 옵션을 켜면 도구 상자가 열려 있는 모든 탭에서 HTTP를 통한 Service Worker를 사용할 수 있습니다.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -142,8 +142,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
-<!ENTITY options.sourceMaps.label      "소스맵 켜기">
-<!ENTITY options.sourceMaps.tooltip1   "이 설정을 켜면 소스가 도구에서 매핑됩니다.">
+<!ENTITY options.sourceMaps.label      "소스맵 사용">
+<!ENTITY options.sourceMaps.tooltip1   "이 옵션을 사용하면 소스가 도구에서 매핑됩니다.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -175,7 +175,7 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Gecko 플랫폼 데이터">
-<!ENTITY options.showPlatformData.tooltip  "이 옵션을 켜면 JavaScript 프로파일러 보고서에 Gecko 플랫폼 정보가 들어갑니다">
+<!ENTITY options.showPlatformData.tooltip  "이 옵션을 사용하면 JavaScript 프로파일러 보고서에 Gecko 플랫폼 기호가 들어갑니다">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
