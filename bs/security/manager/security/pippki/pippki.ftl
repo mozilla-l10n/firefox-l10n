@@ -45,9 +45,17 @@ client-auth-window =
     .title = Zahtjev za identifikaciju korisnika
 client-auth-site-description = Ova stranica zahtijeva od vas da se identifikujete pomoću certifikata:
 client-auth-choose-cert = Izaberite certifikat koji ćete predstaviti kao identifikaciju:
+client-auth-cert-details = Detalji izabranog certifikata:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Izaberite lozinku backupa certifikata
+set-password-message = Lozinka backupa certifikata koju podesite ovdje štiti fajl backupa koju ćete napraviti. Morate postaviti lozinku da biste nastavili sa izradom backupa.
+set-password-backup-pw =
+    .value = Lozinka backupa certifikata:
+set-password-repeat-backup-pw =
+    .value = Lozinka backupa certifikata (opet):
 
 ## Protected Auth dialog
 
