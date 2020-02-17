@@ -44,6 +44,7 @@ client-auth-window =
     .title = Zahtjev identifikacije korisnika
 client-auth-site-description = Ova stranica je zatražila da se identificirate s certifikatom:
 client-auth-choose-cert = Odaberite certifikat za identifikaciju:
+client-auth-cert-details = Detalji odabranog certifikata:
 
 ## Set password (p12) dialog
 
