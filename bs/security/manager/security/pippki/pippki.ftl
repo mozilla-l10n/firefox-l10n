@@ -56,6 +56,7 @@ set-password-backup-pw =
     .value = Lozinka backupa certifikata:
 set-password-repeat-backup-pw =
     .value = Lozinka backupa certifikata (opet):
+set-password-reminder = Važno: Ukoliko zaboravite lozinku backupa certifikata, kasnije istu nećete moći povratiti.  Molimo da lozinku spremite na sigurno mjesto.
 
 ## Protected Auth dialog
 
