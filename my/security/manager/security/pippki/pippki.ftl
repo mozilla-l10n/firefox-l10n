@@ -49,10 +49,12 @@ client-auth-cert-details = ရွေးချယ်ထားတဲ့ လက်�
 
 set-password-window =
     .title = လက်မှတ် သိမ်းဆည်းထားတဲ့ စကားဝှက်တခုကို ရွေးချယ်ပါ
+set-password-message = The certificate backup password you set here protects the backup file that you are about to create. You must set this password to proceed with the backup.
 set-password-backup-pw =
     .value = လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက် -
 set-password-repeat-backup-pw =
     .value = လက်မှတ် သိမ်းဆည်းတဲ့ စကားဝှက် (ပြန်ရေးပါ) -
+set-password-reminder = Important: If you forget your certificate backup password, you will not be able to restore this backup later.  Please record it in a safe location.
 
 ## Protected Auth dialog
 
