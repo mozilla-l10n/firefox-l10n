@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Effacer
+reset-password-text = Si vous effacez votre mot de passe principal, tous vos mots de passe web et courrier, vos données de formulaires, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?
 
 ## Downloading cert dialog
 
@@ -29,13 +30,19 @@ download-cert-window =
     .title = Téléchargement du certificat
     .style = width: 46em
 download-cert-message = On vous a demandé de confirmer une nouvelle autorité de certification (AC).
+download-cert-trust-ssl =
+    .label = Confirmer cette AC pour identifier des sites web.
 download-cert-trust-email =
     .label = Confirmer cette AC pour identifier les utilisateurs de courrier.
+download-cert-message-desc = Avant de confirmer cette AC pour quelque raison que ce soit, vous devriez l’examiner elle, ses méthodes et ses procédures (si possible).
 download-cert-view-cert =
     .label = Voir
+download-cert-view-text = Examiner le certificat d’AC
 
 ## Client Authorization Ask dialog
 
+client-auth-window =
+    .title = Requête d’identification d’utilisateur
 client-auth-site-description = Ce site vous demande de vous identifier avec un certificat de sécurité :
 client-auth-choose-cert = Choisir un certificat à présenter comme identification :
 client-auth-cert-details = Détails du certificat sélectionné :
@@ -55,4 +62,5 @@ set-password-reminder = Important : si vous avez oublié votre mot de passe de 
 
 protected-auth-window =
     .title = Authentification protégée par jeton
+protected-auth-msg = Veuillez vous authentifier au jeton. La méthode d’authentification dépend du type de votre jeton.
 protected-auth-token = Jeton :
