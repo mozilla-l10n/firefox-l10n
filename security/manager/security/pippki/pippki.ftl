@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Poništi
+reset-password-text = Ako poništiš glavnu lozinku, zaboravit će se sve spremljene lozinke web stranica i e-pošte, te spremljeni formulari, osobni certifikati i privatni ključevi. Zaista želiš poništiti svoju glavnu lozinku?
 
 ## Downloading cert dialog
 
