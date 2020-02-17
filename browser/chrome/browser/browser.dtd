@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Połnu wobrazowku wopušćić">
 <!ENTITY exitFullScreenCmd.accesskey "P">
+
 <!ENTITY fullScreenCmd.label "Połna wobrazowka">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Kontowe nastajenja">
 <!ENTITY fxa.menu.manageAccount2.label "Konto rjadować">
 <!ENTITY fxa.menu.signOut.label "Wotzjewić…">
-<!ENTITY fxa.menu.deviceSettings.label "Gratowe nastajenja">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; konfigurować…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "K adresy w adresowym polu">
 <!ENTITY printButton.label            "Ćišćeć">
 <!ENTITY printButton.tooltip          "Tutu stronu ćišćeć">
@@ -277,8 +278,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužiwanje softwary DRM rjadować">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobłuk wočinić">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Sće tutomu websydłu přidatne prawa dał.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sće swoju kameru za tute websydło zablokował.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sće swój mikrofon za tute websydło zablokował.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Sće tutomu websydłu dźělenje swojeje wobrazowki zakazał.">
@@ -291,6 +290,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Sće tute websydło při wužiwanju tykača Adobe Flash haćił.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Sće přistup na MIDI za tute websydło zablokował.">
 <!ENTITY urlbar.installBlocked.tooltip           "Sće instalowanje přidatkow za tute websydło zablokował.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Sće tutomu websydłu přidatne prawa dał.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazać">
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Wjace">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Pytać abo adresu zapodać">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Tutón wobłuk jako zapołožku skladować">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "b">
+
 <!ENTITY pageAction.copyLink.label    "Wotkaz kopěrować">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Wotkaz e-mejlować…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Stronu składować jako…">
 <!ENTITY savePageCmd.accesskey        "r">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "k">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
@@ -880,7 +883,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Škit zmóžnić">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "z">
-<!ENTITY identity.disableMixedContentBlocking.label "Škit nachwilnje znjemóžnić">
+<!ENTITY identity.disableMixedContentBlocking.label "Škit nachwilu znjemóžnić">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "z">
 <!ENTITY identity.learnMore "Dalše informacije">
 
