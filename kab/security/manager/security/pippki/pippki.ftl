@@ -43,6 +43,7 @@ download-cert-view-text = Sekyed aselkin n udabu n selken
 client-auth-window =
     .title = Asuter n usulu n useqdac
 client-auth-site-description = Asmel-agi ad yessutur asulu s uselkin n tɣellist:
+client-auth-choose-cert = Fren aselkin i usulay
 client-auth-cert-details = Talqayt n uselkin yettwafernen:
 
 ## Set password (p12) dialog
