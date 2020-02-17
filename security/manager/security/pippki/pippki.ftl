@@ -6,6 +6,8 @@ password-quality-meter = Ukazovateľ kvality hesla:
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Zmena hlavného hesla
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Bezpečnostné zariadenie: { $tokenName }
@@ -15,8 +17,12 @@ change-password-reenter = Nové heslo (znova):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Vymazať hlavné heslo
+    .style = width: 40em
 reset-password-button-label =
     .label = Vymazať
+reset-password-text = Ak vymažete svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete vymazať svoje hlavné heslo?
 
 ## Downloading cert dialog
 
@@ -43,6 +49,9 @@ client-auth-cert-details = Podrobnosti vybraného certifikátu:
 
 ## Set password (p12) dialog
 
+set-password-window =
+    .title = Vyberte heslo pre zálohu certifikátov
+set-password-message = Heslo, ktoré tu nastavíte, bude chrániť záložný súbor, ktorý sa chystáte vytvoriť. Toto heslo je povinné.
 set-password-backup-pw =
     .value = Heslo pre zálohu certifikátov
 set-password-repeat-backup-pw =
