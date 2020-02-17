@@ -17,6 +17,8 @@ reset-password-button-label =
 ## Downloading cert dialog
 
 download-cert-message = Foi-lhe pedido para confiar numa nova autoridade certificadora (CA).
+download-cert-trust-ssl =
+    .label = Confiar nesta entidade de certificação para identificar sites.
 download-cert-message-desc = Antes de confiar nesta CA para qualquer fim, deve examinar o seu certificado, a sua política e os seus procedimentos (se disponíveis).
 download-cert-view-cert =
     .label = Ver
@@ -25,11 +27,14 @@ download-cert-view-cert =
 
 client-auth-window =
     .title = Pedido de identificação do utilizador
+client-auth-choose-cert = Escolher um certificado para utilizar como identificação:
 
 ## Set password (p12) dialog
 
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Autenticação por token protegido
 protected-auth-msg = Por favor autentique o token. O método de autenticação depende do tipo do seu token.
 protected-auth-token = Token:
