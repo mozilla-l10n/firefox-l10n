@@ -45,6 +45,7 @@ client-auth-window =
     .title = Forespørsel om brukeridentifikasjon
 client-auth-site-description = Dette nettstedet ønsker at du identifiserer deg selv med et sertifikat:
 client-auth-choose-cert = Velg sertifikat som du vil bruke som identifikasjon:
+client-auth-cert-details = Detaljer om valgt sertifikat:
 
 ## Set password (p12) dialog
 
