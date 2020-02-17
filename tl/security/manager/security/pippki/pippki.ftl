@@ -7,6 +7,9 @@
 
 change-password-window =
     .title = Palitan ang Master Password
+# Variables:
+# $tokenName (String) - Security device of the change password dialog
+change-password-token = Security Device: { $tokenName }
 change-password-old = Kasalukuyang na password:
 change-password-new = Bagong password:
 change-password-reenter = Bagong password (ulit):
@@ -25,6 +28,8 @@ reset-password-text = Pag nireset mo ang master password, makakalimutan lahat ng
 download-cert-window =
     .title = Kinukuha ang Sertipiko
     .style = width: 46em
+download-cert-trust-ssl =
+    .label = Pagkatiwalaan ang CA na ito para matukoy ang mga website.
 download-cert-message-desc = Bago ng magtiwala dito sa  CA  para sa anumang layunin, dapat mong suriin ang sertipiko at ang patakaran at pamamaraan (kung kinakailangan).
 
 ## Client Authorization Ask dialog
@@ -38,3 +43,4 @@ set-password-reminder = Mahalaga: Kung nakalimutan mo ang iyong password sa back
 
 ## Protected Auth dialog
 
+protected-auth-token = Token:
