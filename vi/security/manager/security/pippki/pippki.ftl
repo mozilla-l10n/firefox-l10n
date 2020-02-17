@@ -40,6 +40,7 @@ client-auth-window =
     .title = Yêu cầu Nhận diện Người dùng
 client-auth-site-description = Trang này yêu cầu bạn tự nhận diện chính mình với một chứng chỉ:
 client-auth-choose-cert = Chọn một chứng chỉ để thực hiện việc nhận diện này:
+client-auth-cert-details = Thông tin chi tiết của chứng chỉ được chọn:
 
 ## Set password (p12) dialog
 
