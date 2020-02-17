@@ -25,4 +25,6 @@ change-password-reenter = కొత్త సంకేతపదం (మరలా
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = రక్షించబడిన టోకెన్ ధృవీకరణ
 protected-auth-token = టోకెన్:
