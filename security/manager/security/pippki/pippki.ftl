@@ -6,6 +6,8 @@ password-quality-meter = Kvalitetsmåling av passord
 
 ## Change Password dialog
 
+change-password-window =
+    .title = Endre hovudpassord
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Tryggingseining: { $tokenName }
@@ -20,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Still tilbake
+reset-password-text = Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stille tilbake hovudpassordet?
 
 ## Downloading cert dialog
 
