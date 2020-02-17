@@ -6,13 +6,18 @@ password-quality-meter = Parola kalite ölçümü
 
 ## Change Password dialog
 
+change-password-old = Şu anki parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
 
 ## Reset Password dialog
 
+reset-password-window =
+    .title = Ana Parolayı Sıfırla
+    .style = width: 40em
 reset-password-button-label =
     .label = Sıfırla
+reset-password-text = Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?
 
 ## Downloading cert dialog
 
@@ -27,3 +32,6 @@ download-cert-view-cert =
 
 ## Protected Auth dialog
 
+protected-auth-window =
+    .title = Korumalı Jeton Kimlik Doğrulaması
+protected-auth-msg = Lütfen jetonda kimliğinizi doğrulayın. Kimlik doğrulama yöntemi jeton türüne göre değişir.
