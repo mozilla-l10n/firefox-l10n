@@ -143,6 +143,15 @@ cfr-whatsnew-lockwise-take-body =
    uanset hvor du er.
 cfr-whatsnew-lockwise-take-link-text = Hent appen
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Skriv mindre, find mere med adressefeltet
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Besøg de websteder, du bruger mest - med et enkelt klik i adressefeltet. Find tingene hurtigere med søgeresultater fra { $searchEngineName } og din browserhistorik.
+cfr-whatsnew-searchbar-body-generic = Besøg de websteder, du bruger mest - med et enkelt klik i adressefeltet. Find tingene hurtigere med søgeresultater fra din browserhistorik.
+cfr-whatsnew-searchbar-icon-alt-text = Forstørrelsesglas-ikon
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Se videoer, mens du browser
