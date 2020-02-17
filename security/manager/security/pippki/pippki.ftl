@@ -22,6 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Nulstil
+reset-password-text = Hvis du nulstiller din hovedadgangskode, vil alle dine gemte web- og mail-adgangskoder, formulardata, personlige certifikater og private nøgler blive glemt. Er du sikker på, at du vil nulstille din hovedadgangskode?
 
 ## Downloading cert dialog
 
@@ -43,6 +44,7 @@ download-cert-view-text = Undersøg CA-certifikat
 client-auth-window =
     .title = Vælg brugeridentifikation
 client-auth-site-description = Dette websted har bedt om, at du identificerer dig selv med et certifikat:
+client-auth-choose-cert = Vælg et certifikat, der skal vises som identifikation:
 client-auth-cert-details = Detaljer for det valgte certifikat:
 
 ## Set password (p12) dialog
