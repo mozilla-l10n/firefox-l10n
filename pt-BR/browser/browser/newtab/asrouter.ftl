@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extensão Recomendada
 cfr-doorhanger-feature-heading = Recurso recomendado
 cfr-doorhanger-pintab-heading = Experimente isso: Fixar aba
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por que estou vendo isso
@@ -117,6 +117,13 @@ cfr-whatsnew-lockwise-backup-link-text = Ativar cópias de segurança
 cfr-whatsnew-lockwise-take-title = Leve suas senhas com você
 cfr-whatsnew-lockwise-take-body = O aplicativo de celular { -lockwise-brand-short-name } permite acessar com segurança em qualquer lugar suas senhas guardadas.
 cfr-whatsnew-lockwise-take-link-text = Instalar o aplicativo
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Digite menos, encontre mais usando a barra de endereços
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Acesse os sites que você mais usa com um simples clique na barra de endereços. Encontre coisas mais rápido com resultados do { $searchEngineName } e em seu histórico de navegação.
 
 ## Picture-in-Picture
 
