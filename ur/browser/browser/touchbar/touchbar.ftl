@@ -9,6 +9,7 @@ forward = آگے
 reload = پھر لوڈ کریں
 home = ابتدائی صفحہ
 fullscreen = پوری اسکرین
+touchbar-fullscreen-exit = پوری سکرین سے باہر نکلیں
 find = ڈھونڈیں
 new-tab = نیا ٹیب
 add-bookmark = بک مارک شامل کریں
@@ -30,5 +31,5 @@ search-opentabs = ٹیبس کھولیں
 search-tags = ٹیگز
 search-titles = عنوانات
 
-
+##
 
