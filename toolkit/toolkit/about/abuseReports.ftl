@@ -18,7 +18,7 @@ abuse-report-addon-authored-by = 제작: <a data-l10n-name="author-name">{ $auth
 abuse-report-learnmore =
     어떤 걸 선택해야 할지 잘 모르시겠습니까?
     <a data-l10n-name="learnmore-link">확장기능 및 테마의 신고에 대해 더 알아보기</a>
-abuse-report-submit-description = 문제 설명 (선택 사항)
+abuse-report-submit-description = 문제를 설명해 주세요 (선택 사항)
 abuse-report-textarea =
     .placeholder = 구체적인 사항이 있으면 문제를 해결하는 것이 더 쉬워집니다. 지금 어떤 상황인지 설명해 주세요. 웹을 건강하게 유지하도록 도와 주셔서 감사합니다.
 abuse-report-submit-note =
