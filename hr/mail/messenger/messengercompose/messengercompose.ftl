@@ -7,3 +7,12 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Ukloni { $type } polje
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type =
+    { $count ->
+        [0] Prazno { $type } polje za unos
+        [one] { $type } polje za unos s jednom adresom
+        [few] { $type } polje za unos s { $count } adrese
+       *[other] { $type } polje za unos s { $count } adresa
+    }
