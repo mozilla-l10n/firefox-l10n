@@ -25,7 +25,7 @@ cert-error-domain-mismatch = ویب سائٹس تصدیق نامے کے ذریع
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں۔ { -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ { $hostname } کے لئے جو سرٹیفکیٹ استعمال ہو رہا ہے وہ درست نہیں ہے۔ یہ سرٹیفکیٹ صرف { $alt-name } کے لئے درست ہے۔
+cert-error-domain-mismatch-single = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں۔ { -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ { $hostname } کے لئے جو سرٹیفکیٹ استعمال ہو رہا ہے وہ درست نہیں ہے۔ یہ سرٹیفکیٹ صرف <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> کے لئے درست ہے۔
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = ویب سائٹس اپنی شناخت سرٹیفکیٹ کے ذریعے ثابت کرتی ہیں۔ { -brand-short-name } کو اس سائٹ پر اعتماد نہیں ہے کیونکہ { $hostname } کے لئے جو سرٹیفکیٹ استعمال ہو رہا ہے وہ درست نہیں ہے۔ یہ سرٹیفکیٹ صرف { $subject-alt-names } کے لئے درست ہے۔
