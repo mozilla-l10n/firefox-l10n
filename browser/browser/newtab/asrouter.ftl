@@ -109,6 +109,9 @@ cfr-whatsnew-lockwise-backup-link-text = Activar las salvagardas
 cfr-whatsnew-lockwise-take-title = Emportatz vòstres senhals amb vos
 cfr-whatsnew-lockwise-take-link-text = Obténer l’aplicacion
 
+## Search Bar
+
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Agachatz de vidèos en navegant
@@ -170,5 +173,13 @@ cfr-doorhanger-cryptominers-description = Vòstra vida privada es importanta. Ar
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } a blocat <b>{ $blockedCount }</b> traçador dempuèi { $date } !
+       *[other] { -brand-short-name } a blocat <b>{ $blockedCount }</b> traçadors dempuèi { $date } !
+    }
 cfr-doorhanger-milestone-ok-button = O mostrar tot
     .accesskey = m

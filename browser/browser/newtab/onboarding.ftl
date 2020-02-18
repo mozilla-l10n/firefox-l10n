@@ -58,6 +58,7 @@ onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-knowledge-title = Coneissenças practicas
 onboarding-benefit-privacy-title = Vertadièra vida privada
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Emportatz vòstres marcapaginas, senhals, istoric e mai pertot ont utilizatz { -brand-product-name }.
@@ -87,6 +88,7 @@ onboarding-data-sync-button2 = Se connectar a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Siatz al fial de las pèrdas de donadas
 onboarding-firefox-monitor-text = { -monitor-brand-name } verifica se vòstra adreça electronica fa part d’una pèrda de donadas e vos avisa se apareis dins de pèrdas posterioras.
 onboarding-firefox-monitor-button = S’abonar a las alèrtas
+onboarding-browse-privately-title = Navegatz d’un biais privat
 onboarding-browse-privately-text = La navegacion privada escafa vòstre istoric de recèrcas e de navegacion per los gardar secrets de monde qu’utilizan vòstre ordenador.
 onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
 onboarding-firefox-send-title = Gardatz privats los fichièrs que partejatz
