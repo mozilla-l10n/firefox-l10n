@@ -241,10 +241,18 @@ addon-open-about-debugging = Desbugar los moduls
 
 ## Extension shortcut management
 
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Ja utilizat per { $addon }
 
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Ne saber mai
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = per <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -326,6 +334,7 @@ dictionary-heading = Gestion dels diccionaris
 locale-heading = Gestion de las lengas
 theme-heading-search-label = Trobar mai de tèmas
 extension-heading-search-label = Trobar mai d’extensions
+default-heading-search-label = Trobar mai de moduls
 addons-heading-search-input =
     .placeholder = Cercar sus addons.mozilla.org
 addon-page-options-button =
