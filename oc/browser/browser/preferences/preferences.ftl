@@ -585,6 +585,9 @@ sync-signedout-account-create = Avètz pas cap de compte ? Marcatz-vos
 sync-signedout-account-signin =
     .label = Connexion…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Se connectar a { -sync-brand-short-name }…
+    .accesskey = c
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
