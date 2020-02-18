@@ -9,6 +9,9 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapòrt per { $addon-name }
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = per <a data-l10n-name="author-name">{ $author-name }</a>
 
 ## Panel buttons.
 
