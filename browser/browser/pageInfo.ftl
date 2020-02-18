@@ -113,7 +113,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = 네, 쿠키와 { $value } { $unit } 사이트 데이터
+security-site-data-cookies = 네, 쿠키와 { $value } { $unit }의 사이트 데이터
 security-site-data-only = 네, { $value } { $unit } 사이트 데이터
 security-site-data-cookies-only = 네, 쿠키
 security-site-data-no = 아니오
