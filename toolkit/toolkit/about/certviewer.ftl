@@ -13,6 +13,7 @@ certificate-viewer-country = País
 certificate-viewer-distribution-point = Ponch de distribucion
 certificate-viewer-dns-name = Nom DNS
 certificate-viewer-id = ID
+certificate-viewer-key-size = Talha de clau
 certificate-viewer-method = Metòde
 certificate-viewer-modulus = Modul
 certificate-viewer-name = Nom
@@ -35,6 +36,9 @@ certificate-viewer-subject-name = Nom del subjècte
 certificate-viewer-issuer-name = Nom de l’emissor
 certificate-viewer-validity = Validitat
 certificate-viewer-fingerprints = Emprentas numericas
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Telecargar
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field
