@@ -88,5 +88,6 @@ policy-SecurityDevices = Instalirajte PKCS #11 module.
 policy-SSLVersionMax = Postavite maksimalnu SSL inačicu.
 policy-SSLVersionMin = Postavite minimalnu SSL inačicu.
 policy-SupportMenu = Dodajteprilagođenu stavku korisničke podrške u izbornik pomoći.
+policy-UserMessaging = Ne prikazuj određene poruke korisniku.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokirajte posjećivanje web stranica. Proučite dokumentaciju za više detalja oko oblika.

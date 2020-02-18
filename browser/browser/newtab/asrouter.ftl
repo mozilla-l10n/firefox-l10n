@@ -123,6 +123,10 @@ cfr-whatsnew-lockwise-take-body =
     tvojim lozinkama sigurnosnih kopija s bilo kojeg mjesta.
 cfr-whatsnew-lockwise-take-link-text = Preuzmi aplikaciju
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Tipkaj manje, pronađi više s adresnom trakom
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Gledaj videozapise dok pregledavaš
