@@ -119,6 +119,15 @@ cfr-whatsnew-lockwise-take-body =
     mật khẩu được sao lưu từ bất cứ đâu.
 cfr-whatsnew-lockwise-take-link-text = Tải ứng dụng
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Nhập ít hơn, tìm nhiều hơn với thanh địa chỉ
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Truy cập các trang web bạn sử dụng nhiều nhất với một cú nhấp chuột vào thanh địa chỉ. Tìm mọi thứ nhanh hơn với kết quả từ { $searchEngineName } và lịch sử duyệt web của bạn.
+cfr-whatsnew-searchbar-body-generic = Truy cập các trang web bạn sử dụng nhiều nhất với một cú nhấp chuột vào thanh địa chỉ. Tìm mọi thứ nhanh hơn với kết quả tìm kiếm từ lịch sử duyệt web của bạn.
+cfr-whatsnew-searchbar-icon-alt-text = Biểu tượng kính lúp
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Xem video trong khi bạn duyệt

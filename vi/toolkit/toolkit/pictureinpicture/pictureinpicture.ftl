@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Tắt tiếng
 pictureinpicture-unmute =
     .aria-label = Bật tiếng
+pictureinpicture-unpip =
+    .aria-label = Quay lại thẻ
+pictureinpicture-close =
+    .aria-label = Đóng
