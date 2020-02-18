@@ -95,6 +95,7 @@ onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emportatz vòstres senhals pertot
 onboarding-lockwise-passwords-button2 = Obténer l’aplicacion
 onboarding-lockwise-strong-passwords-title = Creatz e gardatz de senhals fòrts.
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crèa de senhals fòrts sul pic e los garda en un sòl lòc.
 onboarding-lockwise-strong-passwords-button = Gerir vòstres identificants
 onboarding-facebook-container-title = Botatz de limitas amb Facebook
 onboarding-facebook-container-button = Apondre l’extension
