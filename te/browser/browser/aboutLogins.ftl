@@ -9,6 +9,8 @@ about-logins-page-title = ప్రవేశాలు & సంకేతపదా
 login-filter =
     .placeholder = ప్రవేశాలలో వెతకండి
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
+fxaccounts-avatar-button =
+    .title = ఖాతా నిర్వహించు
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -41,7 +43,6 @@ login-list-item-subtitle-missing-username = (వాడుకరి పేరు 
 
 ## Login
 
-login-item-delete-button = తొలగించు
 about-logins-login-item-remove-button = తొలగించు
 login-item-origin-label = వెబ్‌సైటు చిరునామా
 login-item-origin =
@@ -52,10 +53,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = కాపీచేయి
 login-item-copied-username-button-text = కాపీ అయ్యింది!
 login-item-password-label = సంకేతపదం
-login-item-password-reveal-checkbox-show =
-    .title = సంకేతపదం చూపించు
-login-item-password-reveal-checkbox-hide =
-    .title = సంకేతపదం దాచు
 login-item-copy-password-button-text = కాపీచేయి
 login-item-copied-password-button-text = కాపీ అయ్యింది!
 login-item-save-changes-button = మార్పులను భద్రపరుచు
@@ -67,7 +64,6 @@ login-item-cancel-button = రద్దుచేయి
 
 ## Password Sync notification
 
-confirm-delete-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = నన్ను మళ్లీ అడగవద్దు
     .accesskey = D
@@ -78,7 +74,6 @@ confirmation-dialog-cancel-button = రద్దుచేయి
 confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
-confirm-delete-dialog-confirm-button = తొలగించు
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 
