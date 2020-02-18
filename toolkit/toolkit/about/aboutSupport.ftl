@@ -92,6 +92,8 @@ graphics-crash-guards-title = Fonctionnalités désactivées par la protection c
 graphics-workarounds-title = Solutions de contournement
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocole de fenêtrage
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Environnement de bureau
 place-database-title = Base de données « Places »
 place-database-integrity = Intégrité
 place-database-verify-integrity = Vérifier l’intégrité
