@@ -21,7 +21,7 @@ about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">do
 about-telemetry-telemetry-dashboard = Los <a data-l10n-name="dashboard-link">panèls de Telemetria</a> permeton de visualizar las donadas que Mozilla recep via la Telemetria.
 about-telemetry-show-in-Firefox-json-viewer = Dobrir dins la visualizaira JSON
 about-telemetry-home-section = Acuèlh
-about-telemetry-general-data-section =   Donadas generalas
+about-telemetry-general-data-section = Donadas generalas
 about-telemetry-environment-data-section = Donadas de l'environament
 about-telemetry-session-info-section = Informacions del sistèma
 about-telemetry-scalar-section = Escalars
