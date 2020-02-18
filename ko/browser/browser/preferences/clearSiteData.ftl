@@ -14,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = 쿠키와 사이트 데이터({ $amount } { $unit })
+    .label = 쿠키 및 사이트 데이터 ({ $amount } { $unit })
     .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = 쿠키와 사이트 데이터
+    .label = 쿠키 및 사이트 데이터
     .accesskey = S
 clear-site-data-cookies-info = 삭제하면 웹사이트에서 로그아웃 됨
 # The parameters in parentheses in this string describe disk usage
@@ -31,7 +31,7 @@ clear-site-data-cookies-info = 삭제하면 웹사이트에서 로그아웃 됨
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = 캐시된 웹 콘텐츠({ $amount } { $unit })
+    .label = 캐시된 웹 콘텐츠 ({ $amount } { $unit })
     .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
