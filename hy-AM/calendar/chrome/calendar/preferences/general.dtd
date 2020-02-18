@@ -51,5 +51,5 @@
 <!ENTITY pref.systemcolors.accesskey "c">
 
 <!ENTITY pref.eventsandtasks.label "Իրադարձություններ և առաջադրանքներ" >
-<!ENTITY pref.editInTab.label "Խմբագրել իրադարձությունները և առաջադրանքները աղյուսում՝ երկխոսության պատուհանի փոխարեն։" >
+<!ENTITY pref.editInTab.label "Խմբագրել իրադարձությունները և առաջադրանքները ներդիրում՝ երկխոսության պատուհանի փոխարեն։" >
 <!ENTITY pref.editInTab.accesskey "t">

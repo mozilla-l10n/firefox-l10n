@@ -20,10 +20,10 @@
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Օրացույց">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Փոխել օրացույցի աղյուսին">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Բացել օրացույցի ներդիրը">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "Առաջադրանքներ">
-<!ENTITY lightning.toolbar.task.tooltip       "Փոխել առաջադրանքների աղյուսի">
+<!ENTITY lightning.toolbar.task.tooltip       "Բացել առաջադրանքների ներդիրը">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
