@@ -603,11 +603,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "프레임 새로고침">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "선택한 소스 보기">
+<!ENTITY viewPartialSourceForSelectionCmd.label "선택 영역 소스 보기">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "페이지 소스 보기">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "프레임 소스">
+<!ENTITY viewFrameSourceCmd.label     "프레임 소스 보기">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "페이지 정보 보기">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
