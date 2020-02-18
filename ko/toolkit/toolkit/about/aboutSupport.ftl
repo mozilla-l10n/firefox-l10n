@@ -279,11 +279,11 @@ launcher-process-status-unknown = 알 수 없는 상태
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = 사용자에 의해 활성화됨
-multi-process-status-1 = 기본값에 의해 활성화
-multi-process-status-2 = 비활성화
-multi-process-status-4 = 접근성 도구에 의해 비활성화
-multi-process-status-6 = 지원되지 않는 텍스트 입력으로 인한 비활성화
-multi-process-status-7 = 부가기능에 의해서 비활성화
+multi-process-status-1 = 기본값에 의해 활성화됨
+multi-process-status-2 = 비활성화됨
+multi-process-status-4 = 접근성 도구에 의해 비활성화됨
+multi-process-status-6 = 지원되지 않는 텍스트 입력으로 인한 비활성화됨
+multi-process-status-7 = 부가기능에 의해서 비활성화됨
 multi-process-status-8 = 강제로 비활성화됨
 multi-process-status-unknown = 알 수 없는 상태
 async-pan-zoom = 비동기 팬 및 확대/축소
