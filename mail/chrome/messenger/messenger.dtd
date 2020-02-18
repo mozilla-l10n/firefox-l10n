@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "p">
 <!ENTITY  newContactCmd.label "Kontakt adresara…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Otvori">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Otvori spremljenu poruku…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Spremi kao">
