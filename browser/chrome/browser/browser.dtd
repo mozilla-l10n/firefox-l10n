@@ -824,7 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Pronađi na ovoj stranici …">
 <!ENTITY findOnCmd.accesskey "s">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Ponovno pronađi">
+<!ENTITY findAgainCmd.label  "Ponovo pronađi">
 <!ENTITY findAgainCmd.accesskey "P">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -898,7 +898,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions3 "Dozvole">
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dali nikakva posebna dopuštenja.">
-<!ENTITY identity.permissionsReloadHint "Trebali biste ponovno osvježiti stranicu radi primjene izmjena.">
+<!ENTITY identity.permissionsReloadHint "Trebali biste ponovo osvježiti stranicu radi primjene izmjena.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otvori postavke dopuštenja">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otvori postavke blokiranja sadržaja">
 
@@ -1034,7 +1034,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "U">
 <!ENTITY trackingProtection.block6.label "Uključi blokiranje za ovu stranicu">
 <!ENTITY trackingProtection.block6.accesskey "U">
-<!ENTITY trackingProtection.reload2.label "Ponovno učitaj stranicu">
+<!ENTITY trackingProtection.reload2.label "Ponovo učitaj stranicu">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži sve">

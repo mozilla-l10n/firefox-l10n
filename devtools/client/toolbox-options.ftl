@@ -106,7 +106,7 @@ options-enable-service-workers-http-label = Uključi mogućnosti testiranja Serv
 options-enable-service-workers-http-tooltip =
     .title = Uključivanje ove opcije će omogućiti korištenje opcija testiranja service workera putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
 # The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * Samo trenutna sesija, ponovno učitava stranicu
+options-context-triggers-page-refresh = * Samo trenutna sesija, ponovo učitava stranicu
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Prikaži podatke Gecko platforme
