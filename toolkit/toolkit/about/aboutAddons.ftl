@@ -141,7 +141,7 @@ detail-show-preferences =
 detail-rating =
     .value = Ocjena
 addon-restart-now =
-    .label = Ponovno pokreni sada
+    .label = Ponovo pokreni sada
 disabled-unsigned-heading =
     .value = Neki dodaci su onemogućeni
 disabled-unsigned-description = Navedeni dodaci nisu mogli biti verificirani za korištenje u { -brand-short-name }u. Možete <label data-l10n-name="find-addons">pronaći zamjenske dodatke</label> ili kontaktirati autora dodataka da zatraži njihovu verifikaciju.
@@ -239,7 +239,7 @@ extensions-updates-installed =
 extensions-updates-downloaded =
     .value = Dopune za vaše dodatke su preuzete.
 extensions-updates-restart =
-    .label = Ponovno pokreni odmah za dovršetak instalacije
+    .label = Ponovo pokreni odmah za dovršetak instalacije
 extensions-updates-none-found =
     .value = Nisu pronađene dopune
 extensions-updates-manual-updates-found =

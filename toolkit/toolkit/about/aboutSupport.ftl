@@ -112,7 +112,7 @@ sandbox-sys-call-proc-type = Tip procesa
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Pokušaj siguran način rada
-restart-in-safe-mode-label = Ponovno pokreni s isključenim dodacima…
+restart-in-safe-mode-label = Ponovo pokreni s isključenim dodacima …
 
 ## Media titles
 

@@ -5,14 +5,14 @@
 profiles-title = O profilima
 profiles-subtitle = Ova stranica vam pomaže kod upravljanja profilima. Svaki profil je zasebna cjelina koja sadrži zasebnu povijest, zabilješke, postavke i dodatke.
 profiles-create = Stvori novi profil
-profiles-restart-title = Ponovno pokreni
-profiles-restart-in-safe-mode = Ponovno pokreni s isključenim dodacima…
-profiles-restart-normal = Ponovno pokreni u normalan način rada…
-profiles-conflict = Druga { -brand-product-name } kopija je napravila izmjene u profilu. Trebate ponovno pokrenuti { -brand-short-name } prije nego li napravite nove izmjene.
+profiles-restart-title = Ponovo pokreni
+profiles-restart-in-safe-mode = Ponovo pokreni s isključenim dodacima …
+profiles-restart-normal = Ponovo pokreni normalno …
+profiles-conflict = Druga { -brand-product-name } kopija je napravila izmjene u profilu. Trebate ponovo pokrenuti { -brand-short-name } prije nego li napravite nove izmjene.
 profiles-flush-fail-title = Izmjene nisu spremljene
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Neočekivana greška je spriječila spremanje vaših izmjena.
-profiles-flush-restart-button = Ponovno pokreni { -brand-short-name }
+profiles-flush-restart-button = Ponovo pokreni { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }

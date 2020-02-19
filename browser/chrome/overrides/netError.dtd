@@ -52,10 +52,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument je istekao">
-<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName;ovoj priručnoj memoriji.</p><ul><li>. Radi mjere sigurnosti, &brandShortName; neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovno da biste zatražili dokument od web stranice.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName;ovoj priručnoj memoriji.</p><ul><li>. Radi mjere sigurnosti, &brandShortName; neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Klikni na Pokušaj ponovo za ponovno traženje dokumenta od web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Izvanmrežni rad">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Kliknite na &quot;Pokušaj ponovno&quot; da biste uključili mrežni način rada i ponovno učitali stranicu.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Kliknite na &quot;Pokušaj ponovo&quot; da biste uključili mrežni način rada i ponovno učitali stranicu.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Molim kontaktirajte vlasnike stranice i informirajte ih o ovom problemu.</li> </ul>">

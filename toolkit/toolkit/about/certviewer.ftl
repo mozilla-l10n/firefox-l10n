@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = Certifikat
 
 ## Error messages
 
-certificate-viewer-error-message = Nismo mogli pronaći informacije o certifikatu ili je certifikat oštećen. Pokušajte ponovno.
+certificate-viewer-error-message = Nismo mogli pronaći informacije o certifikatu ili je certifikat oštećen. Pokušaj ponovo.
 certificate-viewer-error-title = Nešto je pošlo naopako.
 
 ## Certificate information labels
