@@ -49,6 +49,8 @@ serviceworker-worker-status-registering = Inscripcion
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = Vos cal inscriure un Service Worker per inspectar aquò aquí. <a>Ne saber mai</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Errors e avises
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Identitat
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
@@ -72,6 +74,10 @@ manifest-icon-img =
 sidebar-item-manifest = Manifèst
     .alt = Icòna del manifèst
     .title = Manifèst
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Icòna d’avís
+    .title = Avís
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
     .alt = Icòna d’error
