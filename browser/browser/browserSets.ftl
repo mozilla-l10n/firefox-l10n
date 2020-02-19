@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = Smanji
 window-zoom-command =
-    .label = Zumiraj
+    .label = Povećaj
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
