@@ -123,7 +123,8 @@ cfr-whatsnew-lockwise-take-link-text = Eguereko tembipuru'i
 cfr-whatsnew-searchbar-title = Ehai sa’ive, ejuhuve kundaharape renda ndive
 # Variables:
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Eike umi tenda oipuruvévape eikutúvo kundahára renda. Ejuhu pya’eve eipotáva { $searchEngineName } ndive ha nde kundahára rembiasakue.
+cfr-whatsnew-searchbar-body-enginename = Eike umi tenda eipuruvévape eikutúvo kundahára renda. Ejuhu pya’eve eipotáva { $searchEngineName } ndive ha nde kundahára rembiasakue.
+cfr-whatsnew-searchbar-body-generic = Eike umi tenda eipuruvévape eikutúvo kundahára renda. Ejuhu pya’eve kuaapyre ndive ha nde kundahára rembiasakue.
 cfr-whatsnew-searchbar-icon-alt-text = Mbotuichaha ra’ãnga’i
 
 ## Picture-in-Picture
