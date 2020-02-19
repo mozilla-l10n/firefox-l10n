@@ -89,6 +89,8 @@ graphics-crash-guards-title = Babestu desgaitutako eginbideen hutsegiteak
 graphics-workarounds-title = Behin-behineko konponbideak
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Leiho-sistemaren protokoloa
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Mahaigain ingurunea
 place-database-title = Lekuen datu-basea
 place-database-integrity = Osotasuna
 place-database-verify-integrity = Egiaztatu osotasuna

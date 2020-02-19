@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Mututu
 pictureinpicture-unmute =
     .aria-label = Ez mututu
+pictureinpicture-unpip =
+    .aria-label = Bidali atzera fitxara
+pictureinpicture-close =
+    .aria-label = Itxi
