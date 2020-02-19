@@ -126,6 +126,7 @@ cfr-whatsnew-lockwise-take-link-text = Preuzmi aplikaciju
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tipkaj manje, pronađi više s adresnom trakom
+cfr-whatsnew-searchbar-icon-alt-text = Ikona za povećalo
 
 ## Picture-in-Picture
 
