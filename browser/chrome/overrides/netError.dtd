@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problem pri učitavanju stranice">
-<!ENTITY retry.label "Pokušaj ponovno">
+<!ENTITY retry.label "Pokušaj ponovo">
 <!ENTITY returnToPreviousPage.label "Idi natrag">
 <!ENTITY returnToPreviousPage1.label "Natrag (preporučeno)">
 <!ENTITY advanced2.label "Napredno…">
@@ -23,14 +23,12 @@
 <!ENTITY dnsNotFound.pageTitle "Poslužitelj nije pronađen">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Imamo poteškoća u pronalaženju te stranice.">
-<!ENTITY dnsNotFound.longDesc1 "
-<strong>Ako je ta adresa ispravna, evo još tri stvari koje možete pokušati:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Ako je ta adresa ispravna, evo još tri stvari koje možeš pokušati:</strong>
 <ul>
-  <li>Pokušajte ponovno kasnije.</li>
-  <li>Provjerite mrežne postavke.</li>
-  <li>Ako ste spojeni ali ste iza vatrozida, provjerite da &brandShortName; ima dopuštenje pristupa na Web.</li>
-</ul>
-">
+  <li>Pokušaj ponovo kasnije.</li>
+  <li>Provjeri mrežne postavke.</li>
+  <li>Ako si spojen/a, ali si iza vatrozida, provjeri da &brandShortName; ima dozvolu za pristup webu.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">

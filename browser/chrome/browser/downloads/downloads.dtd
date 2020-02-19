@@ -28,7 +28,7 @@
 <!ENTITY cmd.showMac.label                "Prikaži u Finderu">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.showDownloads.label          "Prikaži mapu preuzimanja">
-<!ENTITY cmd.retry.label                  "Pokušaj ponovno">
+<!ENTITY cmd.retry.label                  "Pokušaj ponovo">
 <!ENTITY cmd.goToDownloadPage.label       "Idi na stranicu preuzimanja">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
 <!ENTITY cmd.copyDownloadLink.label       "Kopiraj poveznicu preuzimanja">

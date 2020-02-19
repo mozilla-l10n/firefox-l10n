@@ -11,6 +11,6 @@ refresh-profile =
     .label = Resetiraj { -brand-short-name }
 safe-mode-description = Siguran način rada je poseban način rada u kojem se mogu otklanjati greške nastale u { -brand-short-name }u.
 safe-mode-description-details = Tvoji dodaci i prilagođene postavke će privremeno biti onemogućene i neke { -brand-short-name } mogućnosti možda neće raditi kako trenutačno rade.
-refresh-profile-instead = Otklanjanje grešaka možete preskočiti i pokušati ponovno učitati { -brand-short-name }.
+refresh-profile-instead = Otklanjanje grešaka možeš preskočiti i pokušati ponovo učitati { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 
 auto-safe-mode-description = { -brand-short-name } se prilikom pokretanja neočekivano zatvorio. Uzrok može biti jedan od dodataka ili neki drugi problem. Problem možete pokušati otkloniti pomoću sigurnog načina rada.
