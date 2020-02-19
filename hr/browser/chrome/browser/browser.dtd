@@ -176,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Postavke računa">
 <!ENTITY fxa.menu.manageAccount2.label "Upravljaj računom">
 <!ENTITY fxa.menu.signOut.label "Odjavite se…">
-<!ENTITY fxa.menu.deviceSettings.label "Postavke uređaja">
 <!ENTITY fxa.menu.setupSync.label "Postavi &syncBrand.shortName.label; …">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -189,8 +188,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "je sada prikazan preko cijelog zaslona">
-<!ENTITY fullscreenWarning.generic.label "Ovaj dokument je sada prikazan preko cijelog zaslona">
+<!ENTITY fullscreenWarning.afterDomain.label "se sada prikazuje preko cijelog ekrana">
+<!ENTITY fullscreenWarning.generic.label "Ovaj dokument se sada prikazuje preko cijelog ekrana">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -648,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Pošalji poveznicu e-poštom…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Spremi stranicu kao …">
 <!ENTITY savePageCmd.accesskey        "a">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
