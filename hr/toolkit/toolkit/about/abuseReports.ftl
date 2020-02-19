@@ -53,7 +53,7 @@ abuse-report-messagebar-action-remove-extension = Da, ukloni
 abuse-report-messagebar-action-keep-extension = Ne, zadržat ću
 abuse-report-messagebar-action-remove-theme = Da, ukloni
 abuse-report-messagebar-action-keep-theme = Ne, zadržat ću
-abuse-report-messagebar-action-retry = Pokušaj ponovno
+abuse-report-messagebar-action-retry = Pokušaj ponovo
 abuse-report-messagebar-action-cancel = Odustani
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
