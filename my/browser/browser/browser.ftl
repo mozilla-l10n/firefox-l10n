@@ -54,6 +54,11 @@ browser-main-window-content-title-default =
         [macos] { $title }
        *[other] { $title } - { -brand-full-name }
     }
+browser-main-window-content-title-private =
+    { PLATFORM() ->
+        [macos] { $title } - (လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)
+       *[other] { $title } - { -brand-full-name } (လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်း)
+    }
 
 ##
 
