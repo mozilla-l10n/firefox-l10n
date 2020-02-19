@@ -33,6 +33,35 @@ browser-main-window-content-title =
         [private] { $title } - { -brand-full-name } (സ്വകാര്യ ബ്രൌസിങ്)
        *[default] { $title } - { -brand-full-name }
     }
+
+## This is the default window title in case there is content
+## title to be displayed.
+##
+## On macOS the title doesn't include the brand name, on all other
+## platforms it does.
+##
+## For example, in private mode on Windows, the title will be:
+## "Example Title - Mozilla Firefox (Private Browsing)"
+##
+## while on macOS in default mode it will be:
+## "Example Title"
+##
+## Variables
+##   $title (String) - Content title string.
+
+browser-main-window-content-title-default =
+    { PLATFORM() ->
+        [macos] { $title }
+       *[other] { $title } - { -brand-full-name }
+    }
+browser-main-window-content-title-private =
+    { PLATFORM() ->
+        [macos] { $title } - (സ്വകാര്യ ബ്രൌസിങ്)
+       *[other] { $title } - { -brand-full-name } (സ്വകാര്യ ബ്രൌസിങ്)
+    }
+
+##
+
 urlbar-identity-button =
     .aria-label = സൈറ്റ് വിവരങ്ങള്‍ കാണുക
 
