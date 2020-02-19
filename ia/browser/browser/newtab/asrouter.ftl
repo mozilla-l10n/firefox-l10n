@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extension recommendate
 cfr-doorhanger-feature-heading = Functionalitate recommendate
 cfr-doorhanger-pintab-heading = Prova isto: Fixar scheda
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Proque vide io isto?
@@ -115,6 +115,10 @@ cfr-whatsnew-lockwise-backup-link-text = Activar le copias de reserva
 cfr-whatsnew-lockwise-take-title = Porta tu contrasignos con te
 cfr-whatsnew-lockwise-take-body = Le application mobile { -lockwise-brand-short-name } te permitte acceder con securitate al copia de reserva de tu contrasignos, non importa ubi tu te trova.
 cfr-whatsnew-lockwise-take-link-text = Obtener le application
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Scribe minus, trova plus con le barra de adresse
 
 ## Picture-in-Picture
 
