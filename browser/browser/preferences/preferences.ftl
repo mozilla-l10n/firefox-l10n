@@ -207,7 +207,7 @@ colors-settings =
     .label = Boje …
     .accesskey = B
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zumiraj
+preferences-zoom-header = Zumiranje
 preferences-default-zoom = Standardni postotak zumiranja
     .accesskey = z
 preferences-default-zoom-value =
