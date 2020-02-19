@@ -49,11 +49,11 @@
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "전체 시간">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "이 함수와 호출한 함수가 수행된 시간입니다.">
-<!ENTITY performanceUI.table.selfDuration             "자기 시간">
+<!ENTITY performanceUI.table.selfDuration             "자체 시간">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "이 함수 안에서만 수행된 시간입니다.">
 <!ENTITY performanceUI.table.totalPercentage          "전체 비용">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "이 함수와 호출한 함수가 수행한 시간의 백분율입니다.">
-<!ENTITY performanceUI.table.selfPercentage           "자기 비용">
+<!ENTITY performanceUI.table.selfPercentage           "자체 비용">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "이 함수 안에서만 수행된 시간의 백분율입니다.">
 <!ENTITY performanceUI.table.samples                  "샘플수">
 <!ENTITY performanceUI.table.samples.tooltip          "프로파일러가 샘플을 채취했을 때 이 함수가 스택에 올라온 횟수입니다.">
@@ -61,12 +61,12 @@
 <!ENTITY performanceUI.table.function.tooltip         "샘플된 함수의 이름과 소스 위치입니다.">
 <!ENTITY performanceUI.table.totalAlloc               "전체 샘플 할당">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "이 위치와 피호출자 된 객체 할당 샘플의 수 입니다.">
-<!ENTITY performanceUI.table.selfAlloc                "자기 샘플 할당">
+<!ENTITY performanceUI.table.selfAlloc                "자체 샘플 할당">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "이 위치에서의 객체 할당 샘플의 수입니다.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-<!ENTITY performanceUI.options.filter.tooltiptext "타임라인에서 보여질 데이터 선택">
+<!ENTITY performanceUI.options.filter.tooltiptext "타임라인에 표시할 데이터 선택">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
