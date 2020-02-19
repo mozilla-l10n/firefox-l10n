@@ -17,3 +17,6 @@ address-input-type =
         [few] Zapódawańske pólo typa { $type } z { $count } adresami
        *[other] Zapódawańske pólo typa { $type } z { $count } adresami
     }
+pill-action-edit =
+    .label = Adresu wobźěłaś
+    .accesskey = A
