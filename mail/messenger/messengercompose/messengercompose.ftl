@@ -17,3 +17,15 @@ address-input-type =
         [few] Zapodawanske polo typa { $type } z { $count } adresami
        *[other] Zapodawanske polo typa { $type } z { $count } adresami
     }
+pill-action-edit =
+    .label = Adresu wobdźěłać
+    .accesskey = A
+pill-action-move-to =
+    .label = Do Komu přesunyć
+    .accesskey = K
+pill-action-move-cc =
+    .label = Do kopije přesunyć
+    .accesskey = p
+pill-action-move-bcc =
+    .label = Do schowaneje kopije přesunyć
+    .accesskey = s
