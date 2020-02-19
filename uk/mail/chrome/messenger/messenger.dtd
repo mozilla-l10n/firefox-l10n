@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "П">
 <!ENTITY  newContactCmd.label "Контакт адресної книги…">
 <!ENTITY  newContactCmd.accesskey "К">
+<!ENTITY openMenuCmd.label "Відкрити">
+<!ENTITY openMenuCmd.accesskey "к">
 <!ENTITY openMessageFileCmd.label "Відкрити збережене повідомлення…">
 <!ENTITY openMessageFileCmd.accesskey "к">
 <!ENTITY saveAsMenu.label "Зберегти як">
