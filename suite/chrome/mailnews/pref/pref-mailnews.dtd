@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "Z">
 <!ENTITY preserveThreading.label          "Pri usporiadaní správ zachovať vlákna">
 <!ENTITY preserveThreading.accesskey      "u">
+<!ENTITY loadInBackground.label           "Pri otvorení prepnúť na novú kartu">
+<!ENTITY loadInBackground.accesskey       "t">
 <!ENTITY mailBiffOnNewWindow.label        "Novú poštu kontrolovať až po otvorení okna Pošta a diskusné skupiny">
 <!ENTITY mailBiffOnNewWindow.accesskey    "N">
 
