@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "s">
 <!ENTITY  newContactCmd.label "Kontakt adresára…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Otvoriť">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Uložiť ako">

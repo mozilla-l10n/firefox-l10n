@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "d">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Vyberte stĺpce, ktoré chcete zobraziť">
 <!ENTITY newContactButton.tooltip                       "Vytvoriť nový kontakt adresára">
 <!ENTITY newlistButton.tooltip                          "Vytvoriť nový zoznam">
 <!ENTITY editPropertiesButton.tooltip                   "Upraviť označenú položku">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Odoslať správu">
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteButton2.tooltip                          "Odstrániť označenú položku">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adresáre">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Meno alebo E-mail obsahuje:">
