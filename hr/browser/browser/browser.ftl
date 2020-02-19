@@ -176,8 +176,8 @@ full-screen-autohide =
     .label = Sakrij alatne trake
     .accesskey = k
 full-screen-exit =
-    .label = Izađi iz prikaza potpunog ekrana
-    .accesskey = p
+    .label = Izađi iz cjeloekranskog prikaza
+    .accesskey = c
 
 ## Search Engine selection buttons (one-offs)
 

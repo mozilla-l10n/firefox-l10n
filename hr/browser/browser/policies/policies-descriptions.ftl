@@ -28,7 +28,7 @@ policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableFirefoxAccounts = Onemogućite usluge koje se temelje na { -fxaccount-brand-name }, uključujući Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Onemogućite Firefox snimanje zaslona.
+policy-DisableFirefoxScreenshots = Onemogući funkciju Firefox Screenshots.
 policy-DisableFirefoxStudies = Spriječite { -brand-short-name } da pokreće studije.
 policy-DisableForgetButton = Spriječite pristup tipki za brisanje povijesti pretraživanja.
 policy-DisableFormHistory = Nemoj pamtiti povijest pretraživanja i obrazaca.

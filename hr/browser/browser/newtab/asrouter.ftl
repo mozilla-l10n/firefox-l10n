@@ -90,7 +90,7 @@ cfr-protections-panel-link-text = Saznaj više
 
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
-cfr-badge-reader-label-newfeature = Nova mogućnost:
+cfr-badge-reader-label-newfeature = Nova funkcija:
 cfr-whatsnew-button =
     .label = Što je novo
     .tooltiptext = Što je novo
