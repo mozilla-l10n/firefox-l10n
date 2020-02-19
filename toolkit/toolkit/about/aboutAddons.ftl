@@ -266,6 +266,10 @@ privacy-policy = गोपनीयता नीति
 #   $author (string) - The name of the add-on developer.
 created-by-author = <a data-l10n-name="author"> { $author } </a> द्वारा
 install-extension-button = { -brand-product-name } में जोड़ें
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = अधिक विकल्पें
 
 ## Add-on actions
 
@@ -288,14 +292,26 @@ locale-enabled-heading = सक्रिय किया गया
 locale-disabled-heading = निष्क्रिय किया गया
 addon-detail-author-label = लेखक
 addon-detail-version-label = संस्करण
+addon-detail-homepage-label = मुख्य पृष्ठ
 addon-detail-rating-label = रेटिंग
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (निष्क्रिय किया गया)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } समीक्षा
+       *[other] { $numberOfReviews } समीक्षाएं
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> हटाया जा चुका है।
 addon-detail-updates-radio-on = चालू
 addon-detail-updates-radio-off = बंद
 release-notes-loading = लोड हो रहा है…

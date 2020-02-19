@@ -15,6 +15,7 @@ auto-refresh = हर 3 सेकेंड में स्वतःफ्रे
 hostname = मेजबाननाम
 port = पोर्ट
 http2 = HTTP/2
+about-networking-http-version = HTTP संस्करण
 ssl = SSL
 active = सक्रिय
 idle = निष्क्रिय
@@ -63,5 +64,5 @@ networkid-id = नेटवर्क आईडी
 ## Link is intended as "network link"
 
 
-
+##
 
