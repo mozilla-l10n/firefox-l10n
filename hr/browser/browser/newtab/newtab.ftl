@@ -179,7 +179,7 @@ newtab-empty-section-topstories = Provjeri kasnije daljnje najpopularnije priče
 
 newtab-discovery-empty-section-topstories-header = U toku ste sa svime!
 newtab-discovery-empty-section-topstories-content = Provjerite kasnije za više priča.
-newtab-discovery-empty-section-topstories-try-again-button = Pokušaj ponovno
+newtab-discovery-empty-section-topstories-try-again-button = Pokušaj ponovo
 newtab-discovery-empty-section-topstories-loading = Učitavanje…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Uh! Skoro smo učitali ovaj odjeljak, ali nismo uspjeli do kraja.
@@ -198,4 +198,4 @@ newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-nam
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Došlo je do greške prilikom učitavanja ovog sadržaja.
-newtab-error-fallback-refresh-link = Osvježite stranicu da biste pokušali ponovno.
+newtab-error-fallback-refresh-link = Osvježi stranicu za ponovni pokušaj.

@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Provjeri dostupnost dopuna
     .accesskey = j
 update-updateButton =
-    .label = Ponovno pokrenite za ažuriranje { -brand-shorter-name }a
+    .label = Ponovo pokreni za ažuriranje { -brand-shorter-name }a
     .accesskey = R
 update-checkingForUpdates = Provjera dopuna…
 update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label data-l10n-name="download-status"/>
