@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Snimi zaslon
+screenshots-context-menu = Snimi ekran
 screenshots-my-shots-button = Moje snimke
 screenshots-instructions = Povucite ili kliknite na stranicu kako biste izabrali područje. Pritisnite ESC za otkazivanje radnje.
 screenshots-cancel-button = Otkaži

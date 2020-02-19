@@ -16,7 +16,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Najnoviju inačicu &brandShortName; uvijek možete naći na:">
 
 <!ENTITY  unsupported.title               "Nepodržan sustav">
-<!ENTITY  unsupported.label               "Vaš &brandShortName; je zastario, ali najnovija inačica nije podržana na ovom sustavu. Molim nadogradite svoj sustav i pokušajte ponovno. Ovu obavijest više nećete vidjeti, ali možete">
+<!ENTITY  unsupported.label               "Vaš &brandShortName; je zastario, ali najnovija inačica nije podržana na ovom sustavu. Molim nadogradite svoj sustav i pokušajte ponovo. Ovu obavijest više nećete vidjeti, ali možete">
 <!ENTITY  unsupportedLink.label           "saznati više.">
 
 <!ENTITY  clickHere.label                 "Pogledajte više informacija o ovoj dopuni">
@@ -38,10 +38,11 @@
                                            
 <!ENTITY  errorManual.label               "&brandShortName; možete ažurirati ručno tako da posjetite ovu poveznicu ili preuzmete posljednju inačicu:">
                                            
-<!ENTITY  errorpatching.intro             "Djelomično ažuriranje nije moglo biti primijenjeno. &brandShortName; će pokušati ponovno preuzimanjem potpuih dopuna.">
+<!ENTITY  errorpatching.intro             "Nije se moglo primijeniti djelomično ažuriranje. 
+                                           &brandShortName; će pokušati ponovo, preuzimanjem potpune dopune.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nije u mogućnosti odrediti je li dostupna dopuna. Molim provjerite da imate najnoviju inačicu &brandShortName;a sa:">
-
+                                           
 <!ENTITY  finishedPage.title              "Dopuna sprema za instalaciju">
 <!ENTITY  finishedPage.text               "Dopuna će biti instalirana sljedeći put kada se &brandShortName; pokrene. Možete ponovo pokrenuti &brandShortName; sad ili ga nastaviti koristiti i ponovo pokrenuti kasnije.">
 
@@ -49,8 +50,6 @@
 <!ENTITY  finishedBackground.name         "Dopuna:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Dopuna će biti instalirana sljedeći put kada se &brandShortName; pokrene. Možete ponovo pokrenuti &brandShortName; sad ili ga nastaviti koristiti i ponovo pokrenuti kasnije.">
-<!ENTITY  finishedBackground.moreElevated "Ova nadogradnja zahtjeva administratorske ovlasti. Nadogradnja će biti instalirana prilikom sljedećeg &brandShortName; pokretanja. Možete ponovno pokrenuti &brandShortName; sada, nastaviti raditi i ponovno pokrenuti kasnije ili odustati od nadogradnje.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.moreElevated "Ova nadogradnja zahtjeva administratorske ovlasti. Nadogradnja će biti instalirana prilikom sljedećeg &brandShortName; pokretanja. Možete ponovo pokrenuti &brandShortName; sada, nastaviti raditi i ponovo pokrenuti kasnije ili odustati od nadogradnje.">
 
-<!ENTITY  update.details.label            "Detalji">
-<!ENTITY  update.installedOn.label        "Instalirano:">
-<!ENTITY  update.status.label             "Stanje:">

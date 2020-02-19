@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Values for changepassword.xul -->
+<!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "Promijeni glavnu lozinku">
 <!ENTITY setPassword.tokenName.label "Sigurnosni uređaj">
 <!ENTITY setPassword.oldPassword.label "Trenutna lozinka:">
 <!ENTITY setPassword.newPassword.label "Nova lozinka:">
-<!ENTITY setPassword.reenterPassword.label "Ponovno upišite novu lozinku:">
+<!ENTITY setPassword.reenterPassword.label "Ponovo upiši novu lozinku:">
 <!ENTITY setPassword.meter.label "Mjerač kvalitete lozinke">
 
-<!-- Values for resetpassword.xul -->
+<!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "Poništi">
 <!ENTITY resetPassword.title  "Poništi glavnu lozinku">
 <!ENTITY resetPassword.text  "Ako poništiš glavnu lozinku, zaboravit će se sve spremljene lozinke web stranica i e-pošte, te spremljeni formulari, osobni certifikati i privatni ključevi. Zaista želiš poništiti svoju glavnu lozinku?">

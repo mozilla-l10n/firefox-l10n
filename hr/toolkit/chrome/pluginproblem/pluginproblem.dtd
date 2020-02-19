@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Ponovno učitaj stranicu">
+<!ENTITY reloadPlugin.middle                                 "Ponovo učitaj stranicu">
 <!ENTITY reloadPlugin.post                                   "za ponovni pokušaj.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Pošalji izvješće o rušenju">
