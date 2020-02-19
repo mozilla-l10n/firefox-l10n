@@ -33,6 +33,35 @@ browser-main-window-content-title =
         [private] { $title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
        *[default] { $title } - { -brand-full-name }
     }
+
+## This is the default window title in case there is content
+## title to be displayed.
+##
+## On macOS the title doesn't include the brand name, on all other
+## platforms it does.
+##
+## For example, in private mode on Windows, the title will be:
+## "Example Title - Mozilla Firefox (Private Browsing)"
+##
+## while on macOS in default mode it will be:
+## "Example Title"
+##
+## Variables
+##   $title (String) - Content title string.
+
+browser-main-window-content-title-default =
+    { PLATFORM() ->
+        [macos] { $title }
+       *[other] { $title } - { -brand-full-name }
+    }
+browser-main-window-content-title-private =
+    { PLATFORM() ->
+        [macos] { $title } - (Axh kuxh la xaan axh stuul)
+       *[other] { $title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
+    }
+
+##
+
 urlbar-identity-button =
     .aria-label = La saji kam yol at sti' tu tatinb'ale'
 
@@ -80,6 +109,15 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Jaj u tatinb'al unq'a yole' uve' at ve't ok ti' itz'ajsab' tetz
 urlbar-tip-help-icon =
     .title = La lej lochb'al
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Kat amajlu ivatz u atinb'ale' uve' at kat axh tu web vaa'.
 urlbar-web-notifications-blocked =
