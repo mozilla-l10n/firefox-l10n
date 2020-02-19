@@ -15,3 +15,15 @@ address-input-type =
         [one] { $type } beviteli mező egy címmel
        *[other] { $type } beviteli mező { $count } címmel
     }
+pill-action-edit =
+    .label = Cím szerkesztése
+    .accesskey = e
+pill-action-move-to =
+    .label = Áthelyezés a címzettbe
+    .accesskey = t
+pill-action-move-cc =
+    .label = Áthelyezés a másolatba
+    .accesskey = m
+pill-action-move-bcc =
+    .label = Áthelyezés a vakmásolatba
+    .accesskey = v
