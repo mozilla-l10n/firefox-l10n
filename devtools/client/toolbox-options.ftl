@@ -56,15 +56,15 @@ options-stylesheet-autocompletion-tooltip =
 ## Screenshot section
 
 # The heading
-options-screenshot-label = Način rada snimke zaslona
+options-screenshot-label = Način rada snimke ekrana
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Snimka zaslona u međuspremnik
+options-screenshot-clipboard-label = Snimka ekrana u međuspremnik
 options-screenshot-clipboard-tooltip =
-    .title = Sprema snimku zaslona izravno u međuspremnik
+    .title = Sprema snimku ekrana izravno u međuspremnik
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Pokreni zvuk okidača kamere
 options-screenshot-audio-tooltip =
-    .title = Omogućava zvuk okidača kamere pri snimanju zaslona
+    .title = Omogućava zvuk okidača kamere pri snimanju ekrana
 
 ## Editor section
 

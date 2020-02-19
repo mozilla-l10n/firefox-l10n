@@ -155,17 +155,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
-<!ENTITY options.screenshot.label            "Način rada snimke zaslona">
+<!ENTITY options.screenshot.label            "Način rada snimke ekrana">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "Snimka zaslona u međuspremnik">
-<!ENTITY options.screenshot.clipboard.tooltip    "Sprema snimku zaslona izravno u međuspremnik">
+<!ENTITY options.screenshot.clipboard.label      "Snimka ekrana u međuspremnik">
+<!ENTITY options.screenshot.clipboard.tooltip    "Sprema snimku ekrana izravno u međuspremnik">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Pokreni zvuk okidača kamere">
-<!ENTITY options.screenshot.audio.tooltip    "Omogućava zvuk okidača kamere pri snimanju zaslona">
+<!ENTITY options.screenshot.audio.tooltip    "Omogućava zvuk okidača kamere pri snimanju ekrana">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
