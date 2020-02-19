@@ -26,3 +26,4 @@
 
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
      The tooltip to display when hovering over the openEmailAsList label. -->
+<!ENTITY glodaFacetView.openEmailAsList.tooltip "Prikaži vsa sporočila v dejavni zbirki v novem zavihku">
