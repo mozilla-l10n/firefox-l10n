@@ -33,6 +33,30 @@ browser-main-window-content-title =
         [private] { $title } - { -brand-full-name } (Приватно прелистување)
        *[default] { $title } - { -brand-full-name }
     }
+
+## This is the default window title in case there is content
+## title to be displayed.
+##
+## On macOS the title doesn't include the brand name, on all other
+## platforms it does.
+##
+## For example, in private mode on Windows, the title will be:
+## "Example Title - Mozilla Firefox (Private Browsing)"
+##
+## while on macOS in default mode it will be:
+## "Example Title"
+##
+## Variables
+##   $title (String) - Content title string.
+
+browser-main-window-content-title-default =
+    { PLATFORM() ->
+        [macos] { $title }
+       *[other] { $title } - { -brand-full-name }
+    }
+
+##
+
 urlbar-identity-button =
     .aria-label = Видете ги информациите за веб-сајтот
 
@@ -56,6 +80,15 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашата камера и/или микрофон со ова место
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складирани податоци во Трајно складиште
+
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Го блокиравте пристапот до локациските информации за ова мрежно место.
 urlbar-web-notifications-blocked =
