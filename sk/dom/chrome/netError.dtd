@@ -86,6 +86,9 @@
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
+<!ENTITY xfoBlocked.title "Blokované prostredníctvom X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Prehliadač nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady X-Frame-Options, ktoré takéto načítanie neumožňujú.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Stránka, ktorú sa pokúšate zobraziť sa nedá zobraziť, pretože nastala chyba pri prenose údajov.</p><ul><li>Kontaktujte prosím majiteľov webových stránok a informujte ich o tomto probléme.</li></ul>">
 

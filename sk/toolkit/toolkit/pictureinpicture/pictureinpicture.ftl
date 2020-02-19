@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Stlmiť
 pictureinpicture-unmute =
     .aria-label = Zapnúť zvuk
+pictureinpicture-unpip =
+    .aria-label = Odoslať späť na kartu
+pictureinpicture-close =
+    .aria-label = Zavrieť

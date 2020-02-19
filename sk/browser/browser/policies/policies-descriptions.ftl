@@ -88,5 +88,6 @@ policy-SecurityDevices = Nainštaluje moduly PKCS #11.
 policy-SSLVersionMax = Nastaví maximálnu verziu SSL.
 policy-SSLVersionMin = Nastaví minimálnu verziu SSL.
 policy-SupportMenu = Pridá vlastnú položku do ponuky pomocníka.
+policy-UserMessaging = Používateľovi sa nebudú zobrazovať určité oznámenia.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.

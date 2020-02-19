@@ -20,6 +20,10 @@ graph-total-tracker-summary =
         [few] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } boli zablokované <b>{ $count }</b> sledovacie prvky
        *[other] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } bolo zablokovaných <b>{ $count }</b> sledovacích prvkov
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = Aplikácia { -brand-short-name } naďalej blokuje sledovacie prvky v súkromných oknách, ale neukladá si informácie o tom, čo bolo zablokované.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Sledovacie prvky zablokované tento týždeň
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -47,6 +51,7 @@ cookie-tab-content = Tieto cookies slúžia na vaše sledovanie naprieč webový
 tracker-tab-title = Sledovací obsah
 tracker-tab-description = Webové stránky môžu načítať externé reklamy a ďalší obsah, ktorý obsahuje sledovací kód. Po zablokovaní sledovacieho obsahu sa stránky načítajú rýchlejšie, ale niektoré tlačidlá alebo formuláre nemusia správne fungovať. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 fingerprinter-tab-title = Odtlačok prehliadača
+fingerprinter-tab-content = Zberom informácií o vašom prehliadači a počítači je možné vytvoriť unikátny odtlačok, ktorý je potom možné použiť na vaše sledovanie naprieč rôznymi webovými stránkami. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 cryptominer-tab-title = Ťažba kryptomien
 cryptominer-tab-content = Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu a spomaľujú váš počítač. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 lockwise-title = Už žiadne zabudnuté heslá
@@ -110,6 +115,15 @@ info-exposed-passwords-found =
        *[other] Počet vašich uniknutých hesiel
     }
 full-report-link = Pozrite si úplnú správu v službe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Uložené prihlasovacie údaje mohli byť súčasťou úniku dát. Z bezpečnostných dôvodov odporúčame zmenu hesla. <a data-l10n-name="lockwise-link">Zobraziť uložené prihlasovacie údaje</a>
+        [few] Uložené prihlasovacie údaje mohli byť súčasťou úniku dát. Z bezpečnostných dôvodov odporúčame zmenu hesla. <a data-l10n-name="lockwise-link">Zobraziť uložené prihlasovacie údaje</a>
+       *[other] Uložené prihlasovacie údaje mohli byť súčasťou úniku dát. Z bezpečnostných dôvodov odporúčame zmenu hesla. <a data-l10n-name="lockwise-link">Zobraziť uložené prihlasovacie údaje</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -118,6 +132,38 @@ full-report-link = Pozrite si úplnú správu v službe <a data-l10n-name="monit
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sledovacie prvky sociálnych sietí
+    .aria-label =
+        { $count ->
+            [one] { $count } sledovací prvok sociálnych sietí ({ $percentage } %)
+            [few] { $count } sledovacie prvky sociálnych sietí ({ $percentage } %)
+           *[other] { $count } sledovacích prvkov sociálnych sietí ({ $percentage } %)
+        }
+bar-tooltip-cookie =
+    .title = Sledovacie cookies
+    .aria-label =
+        { $count ->
+            [one] { $count } sledovacia cookie ({ $percentage } %)
+            [few] { $count } sledovacie cookies ({ $percentage } %)
+           *[other] { $count } sledovacích cookies ({ $percentage } %)
+        }
+bar-tooltip-tracker =
+    .title = Sledovací obsah
+    .aria-label =
+        { $count ->
+            [one] { $count } prvok sledujúceho obsahu ({ $percentage } %)
+            [few] { $count } prvky sledujúceho obsahu ({ $percentage } %)
+           *[other] { $count } prvkov sledujúceho obsahu ({ $percentage } %)
+        }
+bar-tooltip-fingerprinter =
+    .title = Vytváranie odtlačku prehliadača
+    .aria-label =
+        { $count ->
+            [one] { $count } pokus o vytvorenie odtlačku prehliadača ({ $percentage } %)
+            [few] { $count } pokusy o vytvorenie odtlačku prehliadača ({ $percentage } %)
+           *[other] { $count } pokusov o vytvorenie odtlačku prehliadača ({ $percentage } %)
+        }
 bar-tooltip-cryptominer =
     .title = Ťažba kryptomien
     .aria-label =
