@@ -59,12 +59,12 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } se mora ponovno pokrenuti da bi se omogućila ova mogućnost.
-feature-disable-requires-restart = { -brand-short-name } se mora ponovno pokrenuti da bi se onemogućila ova mogućnost
-should-restart-title = Ponovno pokreni { -brand-short-name }
-should-restart-ok = Ponovno pokreni { -brand-short-name } sada
+feature-enable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se omogućila ova funkcija.
+feature-disable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se onemogućila ova funkcija.
+should-restart-title = Ponovo pokreni { -brand-short-name }
+should-restart-ok = Ponovo pokreni { -brand-short-name } sada
 cancel-no-restart-button = Otkaži
-restart-later = Ponovno pokreni poslije
+restart-later = Ponovo pokreni kasnije
 
 ## Extension Control Notifications
 ##
@@ -224,8 +224,8 @@ choose-browser-language-description = Odaberite jezik koji će se koristiti za p
 manage-browser-languages-button =
     .label = Postavi alternative…
     .accesskey = l
-confirm-browser-language-change-description = Ponovno pokrenite { -brand-short-name } da biste primijenili ove izmjene
-confirm-browser-language-change-button = Primjeni i ponovno pokreni
+confirm-browser-language-change-description = Ponovo pokreni { -brand-short-name } za spremanje ove promjene
+confirm-browser-language-change-button = Primjeni i ponovo pokreni
 translate-web-pages =
     .label = Prevedi web sadržaj
     .accesskey = P
@@ -635,7 +635,7 @@ sync-sign-out =
 sync-manage-account = Upravljanje računom
     .accesskey = u
 sync-signedin-unverified = { $email } nije potvrđen.
-sync-signedin-login-failure = Za ponovno povezivanje, pokušajte se ponovno prijaviti { $email }
+sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
 sync-resend-verification =
     .label = Ponovno pošalji potvrdu
     .accesskey = d
@@ -1008,7 +1008,7 @@ permissions-notification-settings =
     .accesskey = o
 permissions-notification-link = Saznaj više
 permissions-notification-pause =
-    .label = Pauziraj obavijesti dok se { -brand-short-name } ponovno ne pokrene
+    .label = Pauziraj obavijesti dok se { -brand-short-name } ponovo ne pokrene
     .accesskey = n
 permissions-block-autoplay-media2 =
     .label = Blokiraj automatsku reprodukciju zvuka na web stranicama

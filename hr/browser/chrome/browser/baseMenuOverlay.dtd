@@ -24,9 +24,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Tipkovnički prečaci">
 <!ENTITY helpKeyboardShortcuts.accesskey "k">
 
-<!ENTITY helpSafeMode.label       "Ponovno pokreni s isključenim dodacima…">
+<!ENTITY helpSafeMode.label       "Ponovo pokreni s isključenim dodacima…">
 <!ENTITY helpSafeMode.accesskey   "v">
-<!ENTITY helpSafeMode.stop.label       "Ponovno pokreni s uključenim dodacima">
+<!ENTITY helpSafeMode.stop.label       "Ponovo pokreni s uključenim dodacima">
 <!ENTITY helpSafeMode.stop.accesskey   "v">
 
 <!ENTITY helpTroubleshootingInfo.label      "Rješavanje problema">
