@@ -25,5 +25,5 @@ error-long-desc4 = Roboti imaju sjajnu metalnu stražnjicu koju se ne smije gris
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = I oni imaju plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = Pokušaj ponovno
-    .label2 = Molim, ne pritišćite ovu tipku opet.
+error-try-again = Pokušaj ponovo
+    .label2 = Ne pritišći ovu tipku ponovo.
