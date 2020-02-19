@@ -895,14 +895,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Lo site fonciona pas ?">
+<!ENTITY protections.siteNotWorkingView.title "Lo site foncion pas ?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desactivatz las proteccions s’avètz de problèmas amb :">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Los camps de connexion">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formularis">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Los pagaments">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Comentaris">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Vidèos">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar un rapòrt">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -911,9 +917,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blocats">
+<!ENTITY protections.notBlocking2.label "Autorizats">
+<!ENTITY protections.notFound.label "Cap pas detectat">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Perqué ?">
 <!ENTITY protections.noTrackersFound.description "Cap de traçadors coneguts per &brandShortName; pas detectat sus aquesta pagina.">
 
 <!ENTITY protections.cryptominers.description "Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la bateria, alentisson l’ordenador e aumentan vòstra factura d’electricitat.">
@@ -979,9 +988,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Senhalar de problèmas">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ne saber mai">
 
+<!ENTITY contentBlocking.breakageReportView.title "Senhalar un site copat">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Ne saber mai">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Qué problèma avètz agut ? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcional : descrivètz lo problèma">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Enviar lo rapòrt">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Anullar">
 
