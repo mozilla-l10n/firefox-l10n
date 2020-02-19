@@ -61,6 +61,7 @@ policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 policy-Homepage = Stilla og loka mögulega heimsíðu.
 policy-InstallAddonsPermission = Leyfa ákveðnum vefsíðum að setja upp viðbætur.
 policy-LocalFileLinks = Leyfa tilteknum vefsíðum að tengjast staðbundnum skrám.
+policy-NetworkPrediction = Virkja eða slökkva forsögn nets (DNS prefetching).
 policy-NewTabPage = Virkja eða slökkva á nýju flipasíðunni.
 policy-NoDefaultBookmarks = Slökkva á stöðluðum bókamerkjum meðfylgjandi { -brand-short-name } og frá greindum bókamerkjum (flestar heimsóknir, nýleg meki) Ath. að þessi stefna hefur aðeins áhrif ef það er notað áður en sniðið er notað fyrst.
 policy-OfferToSaveLogins = Skoðaðu spurningu um að geyma aðgangsupplýsingar með { -brand-short-name }. Gildin true og false eru bæði gild.
