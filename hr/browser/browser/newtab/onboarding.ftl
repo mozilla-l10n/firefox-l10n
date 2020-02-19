@@ -120,7 +120,7 @@ onboarding-firefox-send-title = Držite svoje dijeljene datoteke privatnima
 onboarding-firefox-send-text2 = Prenesite svoje datoteke na { -send-brand-name } kako biste ih dijelili s potpunom enkripcijom i poveznicom koja se automatski briše.
 onboarding-firefox-send-button = Isprobaj { -send-brand-name }
 onboarding-mobile-phone-title = Preuzmi { -brand-product-name } za svoj mobitel
-onboarding-mobile-phone-text = Preuzmite { -brand-product-name } za iOS ili Android i sinkronizirajte svoje podatke na svim uređajima.
+onboarding-mobile-phone-text = Preuzmi { -brand-product-name } za iOS ili Android i sinkroniziraj podatke na svim uređajima.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Preuzmi preglednika za mobitele
@@ -137,7 +137,7 @@ onboarding-pocket-anywhere-text2 = Spremi svoj omiljeni sadržaj lokalno s { -po
 onboarding-pocket-anywhere-button = Probaj { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ponesite svoje lozinke posvuda
 onboarding-lockwise-passwords-text2 = Zaštitite lozinke koje spremite i jednostavno se prijavite u svoje račune s { -lockwise-brand-name }.
-onboarding-lockwise-passwords-button2 = Preuzmite aplikaciju
+onboarding-lockwise-passwords-button2 = Preuzmi program
 onboarding-lockwise-strong-passwords-title = Stvori i spremi jake lozinke
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } stvara snažne lozinke na licu mjesta i sprema ih sve na jedno mjesto.
 onboarding-lockwise-strong-passwords-button = Upravljanje prijavama
