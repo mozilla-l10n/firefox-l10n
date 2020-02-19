@@ -15,3 +15,15 @@ address-input-type =
         [one] { $type } inntastingsfelt med en adresse
        *[other] { $type } inntastingsfelt med { $count } adresser
     }
+pill-action-edit =
+    .label = Rediger adresse
+    .accesskey = e
+pill-action-move-to =
+    .label = Flytt til Til
+    .accesskey = t
+pill-action-move-cc =
+    .label = Flytt til Kopi
+    .accesskey = K
+pill-action-move-bcc =
+    .label = Flytt til Blindkopi
+    .accesskey = B
