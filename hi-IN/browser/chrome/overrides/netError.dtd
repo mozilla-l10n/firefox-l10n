@@ -103,6 +103,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title " खराब अंतर्वस्तु त्रुटि">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>पृष्ठ जिसे आप देखने की कोशिश कर रहे हैं नहीं दिखाया जा सकता है क्योंकि आंकड़ा संचारण में त्रुटि पाया गया.</p><ul><li>कृपया वेबसाइट मालिक को इस समस्या के बारे में सूचित करने के लिए संपर्क करें.</li></ul>">
 
@@ -134,5 +135,7 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "लगता है आपकी नेटवर्क सिक्योरिटी के कारण यह हो रहा है. क्या आप चाहते हैं कि आपकी सेटिंग पुरानी स्थिति में आ जाए?">
 <!ENTITY prefReset.label "तयशुदा सेटिंग्स पुरानी स्थिति में लाएं">
+
+<!ENTITY enableTls10.label "TLS 1.0 और 1.1 सक्रिय करें">
 
 <!ENTITY networkProtocolError.title "नेटवर्क प्रोटोकॉल त्रुटि">
