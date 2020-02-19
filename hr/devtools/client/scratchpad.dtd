@@ -134,7 +134,7 @@
 <!ENTITY resetContext2.label          "Poništi varijable">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "Ponovno učitaj i pokreni">
+<!ENTITY reloadAndRun.label           "Ponovo učitaj i pokreni">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
