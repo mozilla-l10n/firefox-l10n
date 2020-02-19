@@ -16,3 +16,15 @@ address-input-type =
         [few] Поле вводу { $type } з { $count } адресами
        *[many] Поле вводу { $type } з { $count } адресами
     }
+pill-action-edit =
+    .label = Змінити адресу
+    .accesskey = м
+pill-action-move-to =
+    .label = Перемістити в поле Кому
+    .accesskey = П
+pill-action-move-cc =
+    .label = Перемістити в поле Копія
+    .accesskey = е
+pill-action-move-bcc =
+    .label = Перемістити в поле Прихована копія
+    .accesskey = х
