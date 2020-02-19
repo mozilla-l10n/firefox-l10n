@@ -14,6 +14,8 @@ accessibility-warning =
     .alt = Avertiment
 accessibility-fail =
     .alt = Error
+accessibility-best-practices =
+    .alt = Bons biaisses
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
