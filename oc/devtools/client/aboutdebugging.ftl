@@ -93,6 +93,9 @@ about-debugging-setup-usb-status-disabled = Desactivat
 about-debugging-setup-usb-status-updating = Actualizacion…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activar lo menú Desvolopaire sus vòstre periferic Android.
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Emplaçament ret
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Apondre
