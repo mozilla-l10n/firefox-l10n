@@ -665,12 +665,16 @@ privacy-header = Friðhelgi vafra
 ## Privacy Section - Logins and Passwords
 
 logins-header = Innskráning og lykilorð
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Biðja um að vista innskráningar og lykilorð fyrir vefsíður
     .accesskey = r
 forms-exceptions =
     .label = Undanþágur…
     .accesskey = n
+forms-generate-passwords =
+    .label = Leggja til og mynda sterk lykilorð
+    .accesskey = u
 forms-saved-logins =
     .label = Vistaðar innskráningar…
     .accesskey = V

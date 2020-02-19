@@ -127,6 +127,10 @@ about-debugging-runtime-processes =
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Aftengja
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Fella saman/afþjappa
 
 # Debug Targets strings
 
@@ -159,6 +163,8 @@ about-debugging-worker-action-unregister = Afskrá
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Í gangi
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Stöðvað
 # Label text used for the warning details of message component.
 about-debugging-message-details-label-warning = Viðvörunarupplýsingar
 # Label text used for default state of details of message component.
