@@ -117,6 +117,10 @@ cfr-whatsnew-lockwise-take-title = Bawa sandi ke mana Anda pergi
 cfr-whatsnew-lockwise-take-body = Aplikasi seluler { -lockwise-brand-short-name } memungkinkan Anda mengakses cadangan kata sandi Anda dari mana saja.
 cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Ikon kaca pembesar
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Tonton video sambil menjelajah
