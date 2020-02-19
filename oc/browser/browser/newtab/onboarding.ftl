@@ -93,6 +93,9 @@ onboarding-browse-privately-text = La navegacion privada escafa vòstre istoric 
 onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
 onboarding-firefox-send-title = Gardatz privats los fichièrs que partejatz
 onboarding-firefox-send-button = Ensajatz { -send-brand-name }
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Telecargar lo navegador mobil
 onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emportatz vòstres senhals pertot
 onboarding-lockwise-passwords-button2 = Obténer l’aplicacion

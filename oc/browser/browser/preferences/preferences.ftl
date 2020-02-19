@@ -660,6 +660,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Causir qué sincronizar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Enregistrar
+    .buttonaccesskeyaccept = E
+    .buttonlabelextra2 = Desconnectar…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Marcapaginas
     .accesskey = M
