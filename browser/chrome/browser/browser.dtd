@@ -65,6 +65,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Importar d’un autre navegador…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 <!ENTITY taskManagerCmd.label "Gestionari de tascas">
 
@@ -144,12 +146,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Verificatz vòstra adreça electronica">
+<!ENTITY fxa.unverified.button.label "Dobrir los paramètres de &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Identificat en tant que">
 <!ENTITY fxa.menu.manageAccount.label "Gestion del compte…">
+<!ENTITY fxa.menu.syncSettings.label "Paramètres de &syncBrand.shortName.label;…">
 
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -161,11 +165,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Se connectar a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Servicis &brandProductName;">
 <!ENTITY fxa.menu.account.label "Compte">
 <!ENTITY fxa.menu.settings.label "Paramètres">
 <!ENTITY fxa.menu.accountSettings.label "Paramètres del compte">
 <!ENTITY fxa.menu.manageAccount2.label "Gestion del compte">
 <!ENTITY fxa.menu.signOut.label "Se desconnectar…">
+<!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -435,6 +441,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectatz-vos per veire una lista d'onglets dels vòstres autres periferics.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal verificar vòstre compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Se connectar a Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Se connectar a &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir los periferics…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Veire los onglets sincronizats dins la barra laterala">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar un autre periferic">
@@ -618,6 +626,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Enregistrar dins Pocket">
+<!ENTITY saveToPocketCmd.label        "Salvar pagina dins Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "l">
+<!ENTITY saveLinkToPocketCmd.label    "Salvar ligam dins Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "d">
+<!ENTITY pocketMenuitem.label         "Mostrar la lista de Pocket">
 
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
@@ -877,6 +890,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.settings.label "Paramètres de proteccion">
+<!ENTITY protections.showreport.label "Veire lo rapòrt">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
