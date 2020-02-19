@@ -30,8 +30,8 @@ browser-main-window-title =
 #   $title (String) - Content title string.
 browser-main-window-content-title =
     { $mode ->
-        [private] { $title } - { -brand-full-name } (tryb prywatny)
-       *[default] { $title } - { -brand-full-name }
+        [private] { $title } — { -brand-full-name } (tryb prywatny)
+       *[default] { $title } — { -brand-full-name }
     }
 
 ## This is the default window title in case there is content
@@ -52,12 +52,12 @@ browser-main-window-content-title =
 browser-main-window-content-title-default =
     { PLATFORM() ->
         [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
+       *[other] { $title } — { -brand-full-name }
     }
 browser-main-window-content-title-private =
     { PLATFORM() ->
-        [macos] { $title } - (tryb prywatny)
-       *[other] { $title } - { -brand-full-name } (tryb prywatny)
+        [macos] { $title } — (tryb prywatny)
+       *[other] { $title } — { -brand-full-name } (tryb prywatny)
     }
 
 ##
