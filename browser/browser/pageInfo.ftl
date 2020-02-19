@@ -176,8 +176,8 @@ security-visits-number =
 properties-general-size =
     .value =
         { $bytes ->
-            [one] { $kb } Ko ({ $bytes } octet)
-           *[other] { $kb } Ko ({ $bytes } octets)
+            [one] { $kb } Ko ({ $bytes } octet)
+           *[other] { $kb } Ko ({ $bytes } octets)
         }
 # This string is used to display the type of
 # an image
@@ -204,7 +204,7 @@ media-dimensions =
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
-media-file-size = { $size } Ko
+media-file-size = { $size } Ko
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
