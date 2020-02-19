@@ -13,7 +13,7 @@ change-password-window =
 change-password-token = Sigurnosni uređaj: { $tokenName }
 change-password-old = Trenutna lozinka:
 change-password-new = Nova lozinka:
-change-password-reenter = Ponovno upišite novu lozinku:
+change-password-reenter = Ponovo upiši novu lozinku:
 
 ## Reset Password dialog
 
