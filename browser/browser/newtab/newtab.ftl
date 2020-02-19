@@ -86,6 +86,8 @@ newtab-menu-show-privacy-info = Naši sponzori a vaše súkromie
 
 newtab-privacy-modal-button-done = Hotovo
 newtab-privacy-modal-header = Na vašom súkromí záleží.
+newtab-privacy-modal-paragraph = Okrem zaujímavých článkov vám taktiež zobrazujeme relevantný a preverený obsah od vybraných sponzorov. Nemusíte sa báť, vaše údaje nikdy neopustia { -brand-product-name } - neodosielajú sa nám ani našim sponzorom.
+newtab-privacy-modal-paragraph-2 = Okrem zaujímavých článkov vám taktiež zobrazujeme relevantný a preverený obsah od vybraných sponzorov. Nemusíte sa báť, <strong>vaše údaje nikdy neopustia { -brand-product-name }</strong> - neodosielajú sa nám ani našim sponzorom.
 newtab-privacy-modal-link = Ďalšie informácie o tom, ako funguje súkromie na stránke novej karty
 
 ##
@@ -180,6 +182,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Túto sekciu sa nepo
 newtab-pocket-read-more = Populárne témy:
 newtab-pocket-more-recommendations = Ďalšie odporúčania
 newtab-pocket-whats-pocket = Čo je { -pocket-brand-name }?
+newtab-pocket-learn-more = Ďalšie informácie
 newtab-pocket-cta-button = Získajte { -pocket-brand-name }
 newtab-pocket-cta-text = Ukladajte si články do služby { -pocket-brand-name } a užívajte si skvelé čítanie.
 

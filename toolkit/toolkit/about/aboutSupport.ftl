@@ -92,6 +92,8 @@ graphics-crash-guards-title = Zakázať funkcie Crash Guard
 graphics-workarounds-title = Možné riešenia
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokol zobrazovania okien
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Desktopové prostredie
 place-database-title = Databáza umiestnení
 place-database-integrity = Integrita
 place-database-verify-integrity = Skontrolovať integritu
