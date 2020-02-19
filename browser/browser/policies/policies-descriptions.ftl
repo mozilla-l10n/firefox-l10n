@@ -49,6 +49,7 @@ policy-Homepage = सेट और वैकल्पिक रूप से म
 policy-InstallAddonsPermission = कुछ वेबसाइटों को ऐड-ऑन संस्थापित करने की अनुमति दें।
 policy-LocalFileLinks = विशिष्ट वेबसाइटों को स्थानीय फ़ाइलों से लिंक करने की अनुमति दें।
 policy-NewTabPage = नया टैब पृष्ठ सक्षम या अक्षम करें।
+policy-PasswordManagerEnabled = पासवर्ड प्रबंधक में पासवर्ड सहेजना सक्रिय करें।
 policy-PopupBlocking = कुछ वेबसाइटों को डिफ़ॉल्ट रूप से पॉपअप प्रदर्शित करने की अनुमति दें।
 policy-PromptForDownloadLocation = पूछें कि डाउनलोड करते समय फ़ाइलों को कहाँ सहेजना है।
 policy-Proxy = प्रॉक्सी सेटिंग्स कॉन्फ़िगर करें।
