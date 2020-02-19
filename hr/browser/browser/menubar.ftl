@@ -129,7 +129,7 @@ menu-view-exit-full-screen =
     .label = Izađi iz cjeloekranskog prikaza
     .accesskey = c
 menu-view-full-screen =
-    .label = Cjeloekranski prikazPotpuni zaslon
+    .label = Cjeloekranski prikaz
     .accesskey = C
 
 ##

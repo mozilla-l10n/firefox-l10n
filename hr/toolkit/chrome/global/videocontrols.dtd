@@ -6,9 +6,9 @@
 <!ENTITY playButton.pauseLabel "Pauziraj">
 <!ENTITY muteButton.muteLabel "Utišaj">
 <!ENTITY muteButton.unmuteLabel "Odtišaj">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Prikaz preko cijelog zaslona">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Napusti prikaz preko cijelog zaslona">
-<!ENTITY castingButton.castingLabel "Prebaci na zaslon">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Cjeloekranski prikaz">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Izađi iz cjeloekranskog prikaza">
+<!ENTITY castingButton.castingLabel "Prebaci na ekran">
 <!ENTITY closedCaption.off "Isključeno">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
