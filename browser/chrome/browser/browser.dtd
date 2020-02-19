@@ -878,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions " अनुमति">
 
+<!ENTITY identity.permissions3 "अनुमतियां">
 <!ENTITY identity.permissionsEmpty "आपने इस साइट को कोई विशेष अनुमति नहीं दी है.‌‌‌">
 <!ENTITY identity.permissionsReloadHint "बदलाव को लागु करने के लिए आपको पृष्ठ को फिर से लोड करने की आवश्यकता हैं.">
 <!ENTITY identity.permissionsPreferences.tooltip "अनुमति प्राथमिकताएँ खोलें">
