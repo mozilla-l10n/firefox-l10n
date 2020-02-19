@@ -88,5 +88,6 @@ policy-SecurityDevices = Installar modulos PKCS #11.
 policy-SSLVersionMax = Stabilir le version SSL maxime.
 policy-SSLVersionMin = Stabilir le version SSL minime.
 policy-SupportMenu = Adder un selection de supporto personalisate al menu de adjuta.
+policy-UserMessaging = Non monstrar al usator certe messages.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocar le accesso a sitos web. Vider documentation pro plus detalios sur le formato.

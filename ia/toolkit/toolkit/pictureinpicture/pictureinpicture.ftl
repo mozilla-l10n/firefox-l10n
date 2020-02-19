@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Silentiar
 pictureinpicture-unmute =
     .aria-label = Non plus silentiar
+pictureinpicture-unpip =
+    .aria-label = Inviar retro al scheda
+pictureinpicture-close =
+    .aria-label = Clauder
