@@ -894,6 +894,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. Las pagina cargaràn normalament.
 content-blocking-etp-strict-desc = Proteccion refortida, pòt copar unes sites o contengut.
+content-blocking-private-windows = Contengut utilizat per pistar dins las fenèstras de navegacion privada
 content-blocking-cross-site-tracking-cookies = Cookies de seguiment entre sites
 content-blocking-social-media-trackers = Traçadors de malhums socials
 content-blocking-all-cookies = Totes los cookies
@@ -971,6 +972,9 @@ permissions-notification-link = Ne saber mai
 permissions-notification-pause =
     .label = Pausar las notificacions fins que { -brand-short-name } reavie
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Empachar los site de lançar automaticament de sons
+    .accesskey = s
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
