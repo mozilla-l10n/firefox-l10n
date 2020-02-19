@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Gomendatutako gehigarria
 cfr-doorhanger-feature-heading = Gomendatutako eginbidea
 cfr-doorhanger-pintab-heading = Probatu hau: ainguratu fitxa
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zergatik ari naizen hau ikusten
@@ -115,6 +115,15 @@ cfr-whatsnew-lockwise-backup-link-text = Aktibatu babeskopiak
 cfr-whatsnew-lockwise-take-title = Eraman pasahitzak zurekin
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mugikorrerako aplikazioarekin babeskopian dituzun pasahitzak edonondik atzitu ahal izango dituzu.
 cfr-whatsnew-lockwise-take-link-text = Eskuratu aplikazioa
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Idatzi gutxiago eta aurkitu gehiago helbide-barra erabiliz
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Sartu gehien bisitatzen dituzun webguneetara helbide-barran klik bakarra eginez. Bilatu gauzak azkarrago { $searchEngineName } bilatzaileko eta zure nabigatze-historiako emaitzekin.
+cfr-whatsnew-searchbar-body-generic = Sartu gehien bisitatzen dituzun webguneetara helbide-barran klik bakarra eginez. Bilatu gauzak azkarrago bilatzaileko eta zure nabigatze-historiako emaitzekin.
+cfr-whatsnew-searchbar-icon-alt-text = Luparen ikonoa
 
 ## Picture-in-Picture
 

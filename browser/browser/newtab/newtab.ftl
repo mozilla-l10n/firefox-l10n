@@ -188,6 +188,7 @@ newtab-discovery-empty-section-topstories-timed-out = Kontxo! Atal hau ia-ia kar
 newtab-pocket-read-more = Gai ezagunak:
 newtab-pocket-more-recommendations = Gomendio gehiago
 newtab-pocket-whats-pocket = Zer da { -pocket-brand-name }?
+newtab-pocket-learn-more = Argibide gehiago
 newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
 newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.
 
