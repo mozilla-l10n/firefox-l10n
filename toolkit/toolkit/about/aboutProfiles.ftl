@@ -8,6 +8,7 @@ profiles-create = नया प्रोफ़ाइल बनाएँ
 profiles-restart-title = पुनः आरंभ करें
 profiles-restart-in-safe-mode = निष्क्रिय सहयुक्तियों के साथ पुनः आरंभ करें…
 profiles-restart-normal = सामान्य रूप से पुनः आरंभ करें...
+profiles-flush-fail-title = परिवर्तन सहेजे नहीं गए
 profiles-flush-conflict = { profiles-conflict }
 # Variables:
 #   $name (String) - Name of the profile

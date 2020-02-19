@@ -115,7 +115,7 @@ media-device-channels = चैनल्स
 media-device-rate = दर
 media-device-latency = विलंबता
 
-
+##
 
 intl-title = अंतरराष्ट्रीयकरण & स्थानीयकरण
 intl-app-title = अनुप्रयोग सेटिंग्स
@@ -136,8 +136,9 @@ intl-regional-prefs = क्षेत्रीय वरीयताएँ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
