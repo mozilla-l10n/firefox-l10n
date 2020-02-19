@@ -56,8 +56,8 @@ browser-main-window-content-title-default =
     }
 browser-main-window-content-title-private =
     { PLATFORM() ->
-        [macos] { $title } - (privat surfning)
-       *[other] { $title } - { -brand-full-name } (privat surfning)
+        [macos] { $title } - (Privat surfning)
+       *[other] { $title } - { -brand-full-name } (Privat surfning)
     }
 
 ##
