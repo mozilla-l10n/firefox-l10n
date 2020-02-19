@@ -14,3 +14,15 @@ address-input-type =
         [0] 空白的 { $type } 输入字段
        *[other] 有 { $count } 个地址的 { $type } 输入字段
     }
+pill-action-edit =
+    .label = 编辑地址
+    .accesskey = e
+pill-action-move-to =
+    .label = 移动到“收件人”
+    .accesskey = t
+pill-action-move-cc =
+    .label = 移动到“抄送”
+    .accesskey = c
+pill-action-move-bcc =
+    .label = 移动到“密送”
+    .accesskey = b
