@@ -9,9 +9,9 @@ screenshots-cancel-button = Otkaži
 screenshots-save-visible-button = Spremi vidljivo
 screenshots-save-page-button = Spremi cijelu stranicu
 screenshots-download-button = Preuzmi
-screenshots-download-button-tooltip = Preuzmite snimku zaslona
+screenshots-download-button-tooltip = Preuzmi snimku ekrana
 screenshots-copy-button = Kopiraj
-screenshots-copy-button-tooltip = Kopiraj snimku zaslona u međuspremnik
+screenshots-copy-button-tooltip = Kopiraj snimku ekrana u međuspremnik
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘

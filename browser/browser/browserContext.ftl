@@ -179,11 +179,11 @@ main-context-menu-media-hide-controls =
 ##
 
 main-context-menu-media-video-fullscreen =
-    .label = Potpuni zaslon
+    .label = Cjeloekranski prikaz
     .accesskey = o
 main-context-menu-media-video-leave-fullscreen =
-    .label = Napusti prikaz preko cijelog zaslona
-    .accesskey = u
+    .label = Izađi iz cjeloekranskog prikaza
+    .accesskey = c
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =

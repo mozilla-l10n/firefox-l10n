@@ -123,14 +123,14 @@ menu-view-charset =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Koristi cijeli zaslon
-    .accesskey = K
+    .label = Koristi cjeloekranski prikaz
+    .accesskey = c
 menu-view-exit-full-screen =
-    .label = Napusti prikaz preko cijelog zaslona
-    .accesskey = N
+    .label = Izađi iz cjeloekranskog prikaza
+    .accesskey = c
 menu-view-full-screen =
-    .label = Potpuni zaslon
-    .accesskey = o
+    .label = Cjeloekranski prikazPotpuni zaslon
+    .accesskey = C
 
 ##
 
