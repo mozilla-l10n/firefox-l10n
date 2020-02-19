@@ -54,6 +54,11 @@ browser-main-window-content-title-default =
         [macos] { $title }
        *[other] { $title } - { -brand-full-name }
     }
+browser-main-window-content-title-private =
+    { PLATFORM() ->
+        [macos] { $title } - (隱私瀏覽)
+       *[other] { $title } - { -brand-full-name } (隱私瀏覽)
+    }
 
 ##
 
