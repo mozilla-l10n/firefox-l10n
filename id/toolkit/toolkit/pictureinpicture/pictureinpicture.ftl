@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Senyap
 pictureinpicture-unmute =
     .aria-label = Keraskan
+pictureinpicture-close =
+    .aria-label = Tutup

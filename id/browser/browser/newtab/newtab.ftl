@@ -182,6 +182,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Kami belum selesai me
 newtab-pocket-read-more = Topik Populer:
 newtab-pocket-more-recommendations = Rekomendasi Lainnya
 newtab-pocket-whats-pocket = Apa itu { -pocket-brand-name }?
+newtab-pocket-learn-more = Pelajari lebih lanjut
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
 
