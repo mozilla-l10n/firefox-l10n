@@ -32,7 +32,7 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Prekini vezu">
 <!ENTITY runtimeMenu_disconnect_accesskey "k">
-<!ENTITY runtimeMenu_takeScreenshot_label "Slika zaslona">
+<!ENTITY runtimeMenu_takeScreenshot_label "Snimka ekrana">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Informacije o vremenu izvršavanja">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
