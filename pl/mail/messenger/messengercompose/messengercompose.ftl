@@ -16,3 +16,15 @@ address-input-type =
         [few] Pole „{ $type }” z { $count } adresami
        *[many] Pole „{ $type }” z { $count } adresami
     }
+pill-action-edit =
+    .label = Edytuj adres
+    .accesskey = E
+pill-action-move-to =
+    .label = Przenieś do pola „Do”
+    .accesskey = D
+pill-action-move-cc =
+    .label = Przenieś do pola „Kopia”
+    .accesskey = K
+pill-action-move-bcc =
+    .label = Przenieś do pola „Ukryta kopia”
+    .accesskey = U
