@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Extension recommandée
 cfr-doorhanger-feature-heading = Fonctionnalité recommandée
 cfr-doorhanger-pintab-heading = Essayez ceci : épingler un onglet
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pourquoi ceci s’affiche-t-il ?
@@ -117,6 +117,10 @@ cfr-whatsnew-lockwise-backup-link-text = Activer les sauvegardes
 cfr-whatsnew-lockwise-take-title = Emportez vos mots de passe avec vous
 cfr-whatsnew-lockwise-take-body = L’application mobile { -lockwise-brand-short-name } vous permet d’accéder en toute sécurité à vos mots de passe sauvegardés depuis n’importe où.
 cfr-whatsnew-lockwise-take-link-text = Obtenir l’application
+
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Icône de loupe
 
 ## Picture-in-Picture
 
