@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Neuspjelo povezivanje">
-<!ENTITY connectionFailure.longDesc "<p>Iako je ime stranice ispravno, pretraživač nije u mogućnosti uspostaviti vezu.</p><ul><li>Možda je stranica privremeno nedostupna? Pokušajte ponovo kasnije.</li><li>Možete li pretraživati druge stranice? Provjerite mrežne postavke računala.</li><li>Je li vaše računalo ili mreža zaštićena vatrozidom ili proxyem? Neispravne postavke mogu onemogućiti pretraživanje.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Iako je ime stranice ispravno, preglednik nije u stanju uspostaviti vezu.</p><ul><li>Možda je stranica privremeno nedostupna? Pokušaj ponovo kasnije.</li><li>Možeš li pregledati druge stranice? Provjeri mrežne postavke računala.</li><li>Je li tvoje računalo ili mreža zaštićena vatrozidom ili proxyem? Neispravne postavke mogu onemogućiti pregledavanje interneta.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Ulaz zabranjen zbog sigurnosih razloga">
 <!ENTITY deniedPortAccess.longDesc "<p>Zatražena adresa ima definiran ulaz (npr. <q>mozilla.org:80</q> za ulaz 80 na mozilla.org) koji se inače koristi za <em>druge</em> radnje, a ne pretraživanje. Pretraživač je prekinuo zahtjev za vaše zaštite i sigurnosti.</p>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Dana adresa nije u prepoznatljivom obliku. Molim, provjerite postoji li greška u unosu u lokacijskoj traci.</p>">
 
 <!ENTITY netInterrupt.title "Prijenos podataka prekinut">
-<!ENTITY netInterrupt.longDesc "<p>Preglednik se uspješno povezao, ali je veza prekinuta prilikom prijenosa podataka. Molim, pokušajte ponovo.</p><ul><li>Ne možete pregledati niti druge stranice? Provjerite mrežnu povezanost računala.</li><li>Ako još uvijek imate problema, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Preglednik se uspješno povezao, ali je veza prekinuta prilikom prijenosa podataka. Pokušaj ponovo.</p><ul><li>Ne možeš pregledati ni druge stranice? Provjeri mrežnu povezanost računala.</li><li>Ako još uvijek imaš problema, za pomoć se obrati svojem administratoru ili pružatelju internet usluga.</li></ul>">
 
 <!ENTITY notCached.title "Dokument je istekao">
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji preglednika.</p><ul><li>Radi mjere sigurnosti, preglednik neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovo da biste zatražili dokument od web stranice.</li></ul>">

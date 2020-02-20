@@ -35,7 +35,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
 newtab-topsites-image-url-label = Prilagođeni URL slike
 newtab-topsites-use-image-link = Koristi prilagođenu sliku…
-newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušajte drugi URL.
+newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušaj jedan drugi URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
