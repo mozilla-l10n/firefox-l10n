@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> fastizader bloccà dapi { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> fastizaders bloccads dapi { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> fastizader bloccà dapi ils { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> fastizaders bloccads dapi ils { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } cuntinuescha a bloccar fastizaders en fanestras privatas ma na registrescha betg tge ch'è vegnì bloccà.
@@ -65,7 +65,7 @@ lockwise-no-logins-content = Va per l'app <a data-l10n-name="lockwise-inline-lin
 lockwise-passwords-stored =
     { $count ->
         [one] Pled-clav memorisà a moda segira <a data-l10n-name="lockwise-how-it-works">Co quai funcziunescha</a>
-       *[other] Pleds-clav memorisà a moda segira <a data-l10n-name="lockwise-how-it-works">Co quai funcziunescha</a>
+       *[other] Pleds-clav memorisads a moda segira <a data-l10n-name="lockwise-how-it-works">Co quai funcziunescha</a>
     }
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Acceder a las preferenzas da sync
