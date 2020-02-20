@@ -261,6 +261,7 @@
 <!ENTITY fromAddr.label "Nork:">
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Helbideratzeko beste eremu mota batzuk">
 <!ENTITY fromAddr2.label "Nork">
 <!ENTITY fromAddr.accesskey "r">
