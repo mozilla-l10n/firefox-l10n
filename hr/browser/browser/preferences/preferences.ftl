@@ -90,7 +90,7 @@ extension-controlled-web-notifications = Dodatak, <img data-l10n-name="icon"/> {
 extension-controlled-default-search = Dodatak <img data-l10n-name="icon"/> { $name } je postavio tvoju standardnu tražilicu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Dodatak, <img data-l10n-name="icon"/> { $name }, zahtijeva sadržajne kartice.
+extension-controlled-privacy-containers = Dodatak, <img data-l10n-name="icon"/> { $name }, zahtijeva kontejnerske kartice.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira ovu postavku.
@@ -166,18 +166,18 @@ browser-containers-learn-more = Saznaj više
 browser-containers-settings =
     .label = Postavke…
     .accesskey = t
-containers-disable-alert-title = Zatvori sve sadržajne kartice?
+containers-disable-alert-title = Zatvoriti sve kontejnerske kartice?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Ukoliko sada onemogućite sadržajne kartice, { $tabCount } sadržajna kartica biti će zatvorena. Jeste li sigurni da želite onemogućiti sadržajne kartice?
-        [few] Ukoliko sada onemogućite sadržajne kartice, { $tabCount } sadržajne kartice biti će zatvorene. Jeste li sigurni da želite onemogućiti sadržajne kartice?
-       *[other] Ukoliko sada onemogućite sadržajne kartice, { $tabCount } sadržajnih kartica biti će zatvoreno. Jeste li sigurni da želite onemogućiti sadržajne kartice?
+        [one] Ako sad deaktiviraš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerska kartica. Zaista želiš deaktivirati kontejnerske kartice?
+        [few] Ako sad deaktiviraš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerske kartice. Zaista želiš deaktivirati kontejnerske kartice?
+       *[other] Ako sad deaktiviraš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerskih kartica. Zaista želiš deaktivirati kontejnerske kartice?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Zatvori { $tabCount } sadržajnu karticu
-        [few] Zatvori { $tabCount } sadržajne kartice
-       *[other] Zatvori { $tabCount } sadržajnih kartica
+        [one] Zatvori { $tabCount } kontejnersku karticu
+        [few] Zatvori { $tabCount } kontejnerske kartice
+       *[other] Zatvori { $tabCount } kontejnerskih kartica
     }
 containers-disable-alert-cancel-button = Drži omogućeno
 containers-remove-alert-title = Ukloni ovaj spremnik?
