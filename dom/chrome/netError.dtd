@@ -32,10 +32,10 @@
 <!ENTITY netInterrupt.longDesc "<p>Preglednik se uspješno povezao, ali je veza prekinuta prilikom prijenosa podataka. Pokušaj ponovo.</p><ul><li>Ne možeš pregledati ni druge stranice? Provjeri mrežnu povezanost računala.</li><li>Ako još uvijek imaš problema, za pomoć se obrati svojem administratoru ili pružatelju internet usluga.</li></ul>">
 
 <!ENTITY notCached.title "Dokument je istekao">
-<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji preglednika.</p><ul><li>Radi mjere sigurnosti, preglednik neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovo da biste zatražili dokument od web stranice.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji preglednika.</p><ul><li>Radi mjere sigurnosti, preglednik neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Klikni na „Pokušaj ponovo” za ponovno traženje dokumenta s web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Izvanmreženi način rada">
-<!ENTITY netOffline.longDesc2 "<p>Web preglednik je u izvanmrežnom načinu rada i ne može se spojiti na traženu stavku.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Kliknite na &quot;Pokušaj ponovo&quot; da biste uključili mrežni način rada i ponovo učitali stranicu.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Web preglednik je u izvanmrežnom načinu rada i ne može se spojiti na traženu stavku.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Klikni na „Pokušaj ponovo” za uključivanje mrežnog načina rada i ponovno učitavanje stranice.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Greška dekodiranja sadržaja">
 <!ENTITY contentEncodingError.longDesc "<p>Stranica koju pokušavate vidjeti ne može biti prikazana jer koristi neispravni ili nepodržani oblik sažimanja.</p><ul><li>Molim, kontaktiraje vlasnika stranice i obavijestite ga o ovom problemu.</li></ul>">
@@ -44,7 +44,7 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Molim, kontaktiraje vlasnika web stranice i obavijestite ga o ovom problemu.</li> </ul>">
 
 <!ENTITY netReset.title "Veza prekinuta">
-<!ENTITY netReset.longDesc "<p>Mrežna linija je prekinuta prilikom uspostavljanja veze. Molim, pokušajte ponovo.</p>">
+<!ENTITY netReset.longDesc "<p>Mrežna veza je prekinuta prilikom uspostavljanja veze. Pokušaj ponovo.</p>">
 
 <!ENTITY netTimeout.title "Isteklo vrijeme veze">
 <!ENTITY netTimeout.longDesc "<p>Zatražena stranica nije odgovorila na zahtjev te je pretraživač prestao čekati odgovor.</p><ul><li>Možda je poslužitelj opterećen velikom količinom zahtjeva ili je privremeno ostao bez napajanja? Pokušajte ponovo kasnije.</li><li>Možete li pretraživati ostale stranice? Provjerite mrežnu vezu svog računala.</li><li>Je li vaše računalo ili mreža zaštićena vatrozidom ili proxyem? Neispravne postavke mogu prouzročiti probleme prilikom pretraživanja Weba.</li><li>Ukoliko još uvijek imate probleme, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
