@@ -114,6 +114,15 @@ cfr-whatsnew-lockwise-take-title = Vezměte si svá hesla všude s sebou
 cfr-whatsnew-lockwise-take-body = S mobilní aplikací { -lockwise-brand-short-name } získáte bezpečný přístup k vašim zálohovaným přihlašovacím údajům kdekoliv budete potřebovat.
 cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Použijte adresní řádek - pište méně, najdete více
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Jediným klepnutím do adresního řádku se dostanete na nejčastěji navštěvované stránky z vaší historie prohlížení, stejně jako rychlé vyhledávání pomocí vyhledávače { $searchEngineName }.
+cfr-whatsnew-searchbar-body-generic = Jediným klepnutím do adresního řádku se dostanete na nejčastěji navštěvované stránky z vaší historie prohlížení.
+cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Sledujte videa během brouzdání

@@ -194,6 +194,7 @@ newtab-discovery-empty-section-topstories-timed-out = Jejda, při načítání o
 newtab-pocket-read-more = Populární témata:
 newtab-pocket-more-recommendations = Další doporučení
 newtab-pocket-whats-pocket = Co je { -pocket-brand-name }?
+newtab-pocket-learn-more = Zjistit více
 newtab-pocket-cta-button = Získejte { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Ukládejte si články do { -pocket-brand-name(case: "gen") } a užívejte si skvělé čtení.
 
