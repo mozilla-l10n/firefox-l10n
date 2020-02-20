@@ -70,7 +70,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Omogući chrome preglednika i alatne trake za otklanjanje grešaka u dodacima">
-<!ENTITY options.enableChrome.tooltip3  "Uključivanje ove opcije će omogućiti korištenje raznih razvojnih alata u kontekstu preglednika (putem Alati > Web razvijatelj > Alatna traka preglednika) i otklanjanje grešaka u dodacima putem upravljača dodataka.">
+<!ENTITY options.enableChrome.tooltip3  "Uključivanje ove opcije će omogućiti korištenje raznih razvojnih alata u kontekstu preglednika (putem Alati > Web programer > Alatna traka preglednika) i otklanjanje grešaka u dodacima putem upravljača dodataka.">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
