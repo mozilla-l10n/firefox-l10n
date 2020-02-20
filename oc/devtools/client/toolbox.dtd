@@ -10,11 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "Estatut de la connexion de las aisinas :">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Paramètres avançats">
@@ -172,7 +167,7 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
-<!ENTITY options.screenshot.audio.label      "Far lo son d'un obturador optic">
+<!ENTITY options.screenshot.audio.label      "Emetre lo son d'un obturador optic">
 <!ENTITY options.screenshot.audio.tooltip    "Activar lo son d’un obturador optic pendent la captura d’ecran">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the

@@ -62,7 +62,7 @@ options-screenshot-clipboard-label = Captura d'ecran cap al pòrtapapièr
 options-screenshot-clipboard-tooltip =
     .title = Servar la captura d'ecran dirèctament al pòrtapapièr
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
-options-screenshot-audio-label = Far lo son d'un obturador optic
+options-screenshot-audio-label = Emetre lo son d'un obturador optic
 options-screenshot-audio-tooltip =
     .title = Activar lo son d’un obturador optic pendent la captura d’ecran
 
@@ -113,11 +113,6 @@ options-source-maps-tooltip =
     .title = En activar aquesta opcion, las fonts seràn ligadas dins las aisinas.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Per aquesta session, recarga la pagina
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Desbugador
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Afichar las donadas de la plataforma Gecko
