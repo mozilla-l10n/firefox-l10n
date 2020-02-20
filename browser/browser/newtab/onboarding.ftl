@@ -118,7 +118,7 @@ onboarding-browse-privately-text = 隐私浏览会自动清除您的搜索与上
 onboarding-browse-privately-button = 打开隐私窗口
 onboarding-firefox-send-title = 以私密的方式分享文件
 onboarding-firefox-send-text2 = 上传您的文件到 { -send-brand-name }，即可通过端到端加密与链接到期即焚来进行分享。
-onboarding-firefox-send-button = 试用 { -send-brand-name }
+onboarding-firefox-send-button = 试试 { -send-brand-name }
 onboarding-mobile-phone-title = 获取手机版 { -brand-product-name }
 onboarding-mobile-phone-text = 下载适用于 iOS 或 Android 的 { -brand-product-name }，即可跨设备同步数据。
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
