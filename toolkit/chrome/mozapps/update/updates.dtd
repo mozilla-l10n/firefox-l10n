@@ -8,15 +8,15 @@
 
 <!ENTITY  noupdatesfound.title            "Nijedna dopuna nije pronađena">
 <!ENTITY  noupdatesautoenabled.intro      "Nema dostupnih dopuna. &brandShortName; će periodički provjeravati dostupnost dopuna.">
-<!ENTITY  noupdatesautodisabled.intro     "Nema dostupnih dopuna. Pokušajte ponovo kasnije ili omogućite &brandShortName;ovu automatsku provjeru dopuna.">
+<!ENTITY  noupdatesautodisabled.intro     "Nema dostupnih dopuna. Pokušaj ponovo kasnije ili omogući &brandShortName;ovu automatsku provjeru dopuna.">
 
 <!ENTITY  manualUpdate.title              "Ažuriranje nije moguće">
-<!ENTITY  manualUpdate.desc               "Predložene dopune radi sigurnosti i stabilnosti su dostupne, ali vi nemate dovoljna prava na stustavu za instalaciju istih. Molim, kontaktirajte svog administratora sustava ili pokušajte s korisničkim računom koji ima dozvolu instaliranja softvera na ovo računalo.">
+<!ENTITY  manualUpdate.desc               "Predložene dopune radi sigurnosti i stabilnosti su dostupne, ali ti nemaš dovoljna prava na sustavu za instaliranje. Kontaktiraj administratora sustava ili pokušaj s korisničkim računom koji ima dozvolu za instaliranje softvera na ovo računalo.">
 <!ENTITY  manualUpdate.space.desc         "Dostupna je prepoučena sigurnosna dopuna, ali nemate dovoljno prostora za instalaciju.">
 <!ENTITY  manualUpdateGetMsg.label        "Najnoviju inačicu &brandShortName; uvijek možete naći na:">
 
 <!ENTITY  unsupported.title               "Nepodržan sustav">
-<!ENTITY  unsupported.label               "Vaš &brandShortName; je zastario, ali najnovija inačica nije podržana na ovom sustavu. Molim nadogradite svoj sustav i pokušajte ponovo. Ovu obavijest više nećete vidjeti, ali možete">
+<!ENTITY  unsupported.label               "Tvoj &brandShortName; je zastario, ali najnovija verzija nije podržana na ovom sustavu. Nadogradi sustav i pokušaj ponovo. Ovu obavijest više nećeš vidjeti, ali možeš">
 <!ENTITY  unsupportedLink.label           "saznati više.">
 
 <!ENTITY  clickHere.label                 "Pogledajte više informacija o ovoj dopuni">
