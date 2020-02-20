@@ -42,6 +42,7 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Nouveau contact…">
 <!ENTITY  newContactCmd.accesskey "c">
+<!ENTITY openMenuCmd.label "Ouvrir">
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Enregistrer comme">
