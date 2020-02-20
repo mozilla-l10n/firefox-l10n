@@ -151,22 +151,22 @@ report-crash-for-days =
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] I a { $minutes } minuta
-       *[other] I a { $minutes } minutas
+        [one] Fa { $minutes } minuta
+       *[other] Fa { $minutes } minutas
     }
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] I a { $hours } ora
-       *[other] I a { $hours } oras
+        [one] Fa { $hours } ora
+       *[other] Fa { $hours } oras
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] I a { $days } jorn
-       *[other] I a { $days } jorns
+        [one] Fa { $days } jorn
+       *[other] Fa { $days } jorns
     }
 # Variables
 # $reports (integer) - Number of pending reports
