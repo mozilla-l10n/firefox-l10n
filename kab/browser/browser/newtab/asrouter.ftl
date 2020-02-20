@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Asiɣzef yelhan
 cfr-doorhanger-feature-heading = Timahilin ihulen
 cfr-doorhanger-pintab-heading = Ɛreḍ aya: senṭeḍ iccer
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Acuɣer i d-yettban waya
@@ -115,6 +115,11 @@ cfr-whatsnew-lockwise-backup-link-text = Rmed asekles
 cfr-whatsnew-lockwise-take-title = Awi yid-k awalen-ik uffiren
 cfr-whatsnew-lockwise-take-body = Asna aziraz { -lockwise-brand-short-name } ad k-yeǧǧ ad tkecmeḍ s wudem aɣelsan ɣer wawalen-ik uffiren yettwaskelsen seg yal amkan.
 cfr-whatsnew-lockwise-take-link-text = Awi asnas
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Aru cwiṭ, aff aṭas s ufeggag n tansiwin
+cfr-whatsnew-searchbar-icon-alt-text = Tignit n lemri isimɣuren
 
 ## Picture-in-Picture
 
