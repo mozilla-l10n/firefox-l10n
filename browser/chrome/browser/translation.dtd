@@ -44,7 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "Došlo je do greške prilikom prevođenja ove stranice.">
 <!ENTITY translation.tryAgain.button            "Pokušaj ponovo">
 
-<!ENTITY translation.serviceUnavailable.label   "Prijevod trenutno nije dostupan. Molim pokušajte kasnije.">
+<!ENTITY translation.serviceUnavailable.label   "Prijevod trenutačno nije dostupan. Pokušaj kasnije ponovo.">
 
 <!ENTITY translation.options.menu               "Mogućnosti">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,

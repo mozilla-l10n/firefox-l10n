@@ -7,7 +7,7 @@
 
 cfr-doorhanger-extension-heading = Preporučeni dodatak
 cfr-doorhanger-feature-heading = Preporučena funkcija
-cfr-doorhanger-pintab-heading = Pokušajte ovo: Zakačite karticu
+cfr-doorhanger-pintab-heading = Pokušaj ovo: Zakači karticu
 
 ##
 
