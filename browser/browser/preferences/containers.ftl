@@ -8,7 +8,7 @@ containers-window-new =
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name } postavke spremnika
+    .title = Postavke kontejnera { $name }
     .style = width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = Naziv
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Unesite naziv spremnika
+    .placeholder = Upiši ime kontejnera
 containers-icon-label = Ikona
     .accesskey = I
     .style = { -containers-labels-style }
