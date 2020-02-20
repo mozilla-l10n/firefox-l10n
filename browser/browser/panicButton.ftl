@@ -13,11 +13,11 @@ panic-button-forget-button =
 
 panic-main-timeframe-desc = Escafar :
 panic-button-5min =
-    .label = Las cinc darrièras minutas
+    .label = Las darrièras cinc minutas
 panic-button-2hr =
-    .label = La doas darrièras oras
+    .label = La darrièras doas oras
 panic-button-day =
-    .label = Las 24 darrièras oras
+    .label = Las darrièras 24 oras
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-button-action-desc. For example: "Proceeding will: Delete Recent Cookies".
