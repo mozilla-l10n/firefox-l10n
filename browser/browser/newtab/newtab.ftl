@@ -189,6 +189,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ojoj! Nekaj se je zalomilo
 newtab-pocket-read-more = Priljubljene teme:
 newtab-pocket-more-recommendations = Več priporočil
 newtab-pocket-whats-pocket = Kaj je { -pocket-brand-name }?
+newtab-pocket-learn-more = Več o tem
 newtab-pocket-cta-button = Prenesi { -pocket-brand-name }
 newtab-pocket-cta-text = Shranite zgodbe, ki jih imate radi, v { -pocket-brand-name }, in napolnite svoje misli z navdušujočim branjem.
 
