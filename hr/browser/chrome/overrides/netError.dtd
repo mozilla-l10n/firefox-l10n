@@ -31,7 +31,7 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Provjeri naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjeri, je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Pristup datoteci je odbijen">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.</li> </ul>">

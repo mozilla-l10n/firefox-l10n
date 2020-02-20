@@ -178,7 +178,7 @@ newtab-empty-section-topstories = Provjeri kasnije daljnje najpopularnije priče
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = U toku ste sa svime!
-newtab-discovery-empty-section-topstories-content = Provjerite kasnije za više priča.
+newtab-discovery-empty-section-topstories-content = Kasnije potraži daljnje priče.
 newtab-discovery-empty-section-topstories-try-again-button = Pokušaj ponovo
 newtab-discovery-empty-section-topstories-loading = Učitavanje…
 # Displays when a layout in a section took too long to fetch articles.
