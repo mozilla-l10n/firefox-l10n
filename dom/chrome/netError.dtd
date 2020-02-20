@@ -13,7 +13,7 @@
 <!ENTITY deniedPortAccess.title "Port Restricted for Security Reasons">
 <!ENTITY deniedPortAccess.longDesc "<p>L'adreça demandada indica un pòrt (per ex.<q>mozilla.org:80</q> pel pòrt 80 sus mozilla.org) qu'es normalament utilizat per d'<em>autres</em> usatges que la navegacion sul Web. Lo navegador a anullat la requèsta per vòstra proteccion e vòstra seguretat.</p>">
 
-<!ENTITY dnsNotFound.title "Address Not Found">
+<!ENTITY dnsNotFound.title "Adreça introbabla">
 <!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fichièr introbable">
@@ -25,7 +25,7 @@
 <!ENTITY generic.title "Cannot Complete Request">
 <!ENTITY generic.longDesc "<p>Additional information about this problem or error is currently unavailable.</p>">
 
-<!ENTITY malformedURI.title "Invalid Address">
+<!ENTITY malformedURI.title "Adreça invalida">
 <!ENTITY malformedURI.longDesc "<p>The provided address is not in a recognized format. Please check the location bar for mistakes and try again.</p>">
 
 <!ENTITY netInterrupt.title "Data Transfer Interrupted">
@@ -49,13 +49,13 @@
 <!ENTITY netTimeout.title "Network Timeout">
 <!ENTITY netTimeout.longDesc "<p>Lo navegador a esperat tròp longtemps al moment de la connexion al site e a arrestat d'esperar una responsa.</p> <ul> <li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? Ensajatz pus tard.</li><li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la ret de vòstre ordenador.</li> <li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy?  De paramètres incorrèctes pòdon interferir amb la navegacion sus lo Web.</li> <li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li> </ul>">
 
-<!ENTITY unknownProtocolFound.title "Unknown Protocol">
+<!ENTITY unknownProtocolFound.title "Protocòl desconegut">
 <!ENTITY unknownProtocolFound.longDesc "<p>L'adreça indica un protocòl (per ex. <q>wxyz://</q>) desconegut del navegador que doncas se pòt pas connectar corrèctament al site.</p><ul><li>Ensajatz d'accedir a de contengut multimèdia o d'autres servicis que son pas de tèxte ? Verificatz los prerequesits logicials del site.</li><li>D'unes protocòls pòdon necessitar un logiciel tèrç o de plugins per que lo navegador los pòsca reconéisser.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
+<!ENTITY proxyConnectFailure.title "Lo servidor mandatari a refusat la connexion">
 <!ENTITY proxyConnectFailure.longDesc "<p>Lo navegador es configurat per utilizar un servidor proxy mas lo proxy a refusat la connexion.</p><ul><li>La configuracion proxy del navegador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>Lo servici proxy autoriza las connexions a partir d'aquesta ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy Server Not Found">
+<!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatari">
 <!ENTITY proxyResolveFailure.longDesc "<p>Lo navegador es configurat per utilizar un servidor proxy mas lo servidor proxy es introbable.</p><ul><li>La configuracion proxy del navegador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>L'ordenador es connectat a la ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o  vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redirect Loop">
@@ -75,6 +75,7 @@
 
 <!ENTITY cspBlocked.title "Blocat per Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>Lo navegador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.</p>">
+
 
 <!ENTITY corruptedContentErrorv2.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
