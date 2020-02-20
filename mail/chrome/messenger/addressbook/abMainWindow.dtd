@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "표시할 항목 선택">
 <!ENTITY newContactButton.tooltip                       "새 연락처 만들기">
 <!ENTITY newlistButton.tooltip                          "새 목록 만들기">
 <!ENTITY editPropertiesButton.tooltip                   "선택한 항목 편집">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "새 메시지 만들기">
 <!ENTITY newIM.tooltip                                  "인스턴트 메시지 또는 채팅 보내기">
 <!ENTITY deleteButton2.tooltip                          "선택한 항목 삭제">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "주소록">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "이름 및 메일 포함:">
