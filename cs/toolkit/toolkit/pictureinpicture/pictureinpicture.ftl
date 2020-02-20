@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Vypnout zvuk
 pictureinpicture-unmute =
     .aria-label = Zapnout zvuk
+pictureinpicture-unpip =
+    .aria-label = Odeslat zpět do panelu
+pictureinpicture-close =
+    .aria-label = Zavřít
