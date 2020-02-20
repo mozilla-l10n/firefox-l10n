@@ -7,3 +7,15 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Xóa trường { $type }
+pill-action-edit =
+    .label = Chỉnh sửa địa chỉ
+    .accesskey = e
+pill-action-move-to =
+    .label = Chuyển sang Đến
+    .accesskey = t
+pill-action-move-cc =
+    .label = Chuyển sang Cc
+    .accesskey = c
+pill-action-move-bcc =
+    .label = Chuyển sang Bcc
+    .accesskey = b
