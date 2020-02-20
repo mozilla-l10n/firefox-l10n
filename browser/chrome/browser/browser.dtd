@@ -355,9 +355,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Datoteka">
 <!ENTITY fileMenu.accesskey       "D">
 
-<!ENTITY newUserContext.label             "Nova sadržajna kartica">
+<!ENTITY newUserContext.label             "Nova kontejnerska kartica">
 <!ENTITY newUserContext.accesskey         "d">
-<!ENTITY manageUserContext.label          "Upravljanje spremnicima">
+<!ENTITY manageUserContext.label          "Upravljaj kontejnerima">
 <!ENTITY manageUserContext.accesskey      "s">
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -595,7 +595,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
 <!ENTITY openFrameCmd.accesskey       "p">
-<!ENTITY openLinkCmdInContainerTab.label "Otvaranje poveznice u novoj kontejnerskoj kartici">
+<!ENTITY openLinkCmdInContainerTab.label "Otvori poveznicu u novoj kontejnerskoj kartici">
 <!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Prikaži samo ovaj okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
