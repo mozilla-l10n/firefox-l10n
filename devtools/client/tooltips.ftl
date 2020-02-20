@@ -21,13 +21,13 @@ learn-more = <span data-l10n-name="link">Saznaj više</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije niti fleks-kontejner niti grid-kontejner.
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije fleks-kontejner, grid-kontejner ili višestupčani kontejner.
-inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije mrežni ili fleks element.
-inactive-css-not-grid-item = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije mrežni element.
-inactive-css-not-grid-container = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije grid-kontejner.
-inactive-css-not-flex-item = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije fleks element.
-inactive-css-not-flex-container = <strong>{ $property }</strong> nema utjecaja na ovaj element, budući da nije fleks-kontejner.
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije niti fleks-kontejner niti grid-kontejner.
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner, grid-kontejner ili višestupčani kontejner.
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni ili fleks element.
+inactive-css-not-grid-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni element.
+inactive-css-not-grid-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije grid-kontejner.
+inactive-css-not-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks element.
+inactive-css-not-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
