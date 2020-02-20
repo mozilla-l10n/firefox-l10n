@@ -51,6 +51,7 @@ certificate-viewer-timestamp = Azemzakud
 certificate-viewer-value = Azal
 certificate-viewer-version = Lqem
 certificate-viewer-validity = Taneɣbalt
+certificate-viewer-public-key-info = Talɣult n tsarrut tazayezt
 certificate-viewer-miscellaneous = Ayen nniḍen
 certificate-viewer-fingerprints = Idsilen umḍinen
 certificate-viewer-certificate-policies = Tisertiyin n uselkin

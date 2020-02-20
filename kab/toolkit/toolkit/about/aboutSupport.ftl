@@ -136,7 +136,7 @@ media-capabilities-title = Tazmert n umidya
 # List all the entries of the database.
 media-capabilities-enumerate = Snirem taffa n yisefka
 
-
+##
 
 intl-title = Asegreɣlen & Asideg
 intl-app-title = Iɣewwaṛen n usnas
@@ -160,7 +160,7 @@ intl-regional-prefs = Ismenyifen n temnaḍt
 remote-debugging-accepting-connections = Aqbal n tuqqniwin
 remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -260,6 +260,7 @@ d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 reset-on-next-restart = Ales awennez deg usenker d-itteddun
 gpu-process-kill-button = Seḥbes akala GPU
 gpu-device-reset = Awennez n ibenk
