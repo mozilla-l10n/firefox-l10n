@@ -89,6 +89,8 @@ graphics-crash-guards-title = Çökme koruyucusu tarafından kapatılan özellik
 graphics-workarounds-title = Çözümler
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Pencere protokolü
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Masaüstü ortamı
 place-database-title = Places veritabanı
 place-database-integrity = Bütünlük
 place-database-verify-integrity = Bütünlüğü doğrula

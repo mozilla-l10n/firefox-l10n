@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Sesi kapat
 pictureinpicture-unmute =
     .aria-label = Sesi aç
+pictureinpicture-unpip =
+    .aria-label = Sekmeye geri gönder
+pictureinpicture-close =
+    .aria-label = Kapat
