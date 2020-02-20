@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Nije se moglo primijeniti djelomično ažuriranje. 
                                            &brandShortName; će pokušati ponovo, preuzimanjem potpune dopune.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; nije u mogućnosti odrediti je li dostupna dopuna. Molim provjerite da imate najnoviju inačicu &brandShortName;a sa:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nije u mogućnosti odrediti je li dostupna nadogradnja. Provjeri, je li imaš najnoviju verziju &brandShortName;a sa:">
                                            
 <!ENTITY  finishedPage.title              "Dopuna sprema za instalaciju">
 <!ENTITY  finishedPage.text               "Dopuna će biti instalirana sljedeći put kada se &brandShortName; pokrene. Možete ponovo pokrenuti &brandShortName; sad ili ga nastaviti koristiti i ponovo pokrenuti kasnije.">
