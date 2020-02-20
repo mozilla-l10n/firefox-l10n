@@ -116,6 +116,10 @@ cfr-whatsnew-lockwise-take-title = Parolalarınızı yanınızda taşıyın
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil uygulaması, yedeklediğiniz parolalara her yerden güvenle ulaşmanızı sağlar.
 cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Büyüteç simgesi
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = İnternette gezinirken video izleyin
