@@ -19,3 +19,15 @@ address-input-type =
         [many] Maes mewnbwn { $type } gyda { $count } cyfeiriad
        *[other] Maes mewnbwn { $type } gyda { $count } cyfeiriad
     }
+pill-action-edit =
+    .label = Golygu Cyfeiriad
+    .accesskey = G
+pill-action-move-to =
+    .label = Symud i
+    .accesskey = S
+pill-action-move-cc =
+    .label = Symud i CC
+    .accesskey = C
+pill-action-move-bcc =
+    .label = Symud i Bcc
+    .accesskey = B
