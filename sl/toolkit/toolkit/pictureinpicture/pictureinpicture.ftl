@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Nemo
 pictureinpicture-unmute =
     .aria-label = Glasno
+pictureinpicture-unpip =
+    .aria-label = Pošlji nazaj na zavihek
+pictureinpicture-close =
+    .aria-label = Zapri
