@@ -9,8 +9,8 @@ ssl-connection-error = Došlo je do pogreške prilikom povezivanja na { $hostnam
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kȏd greške: { $error }
-psmerr-ssl-disabled = Nije moguće sigurno se povezati jer je SSL protokol onemogućen.
-psmerr-ssl2-disabled = Nije moguće sigurno se povezati jer stranica koristi staru, nesigurnu inačicu SSL protokola.
+psmerr-ssl-disabled = Sigurno povezivanje nije moguće, jer je SSL protokol deaktiviran.
+psmerr-ssl2-disabled = Sigurno povezivanje nije moguće, jer stranica koristi stariju, nesigurnu verziju protokola.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Primio/la si neispravni certifikat. Kontaktiraj administratora poslužitelja ili pošalji e-poruku sa sljedećim informacijama:

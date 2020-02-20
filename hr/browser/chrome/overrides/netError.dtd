@@ -22,7 +22,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "Poslužitelj nije pronađen">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Imamo poteškoća u pronalaženju te stranice.">
+<!ENTITY dnsNotFound.title1 "Ne možemo pronaći tu stranicu.">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Ako je ta adresa ispravna, evo još tri stvari koje možeš pokušati:</strong>
 <ul>
   <li>Pokušaj ponovo kasnije.</li>

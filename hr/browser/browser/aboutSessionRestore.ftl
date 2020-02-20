@@ -5,8 +5,8 @@
 restore-page-tab-title = Obnovi sesiju
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = Žao nam je. Imamo poteškoća s vraćanjem tvojih stranica.
-restore-page-problem-desc = Imamo poteškoća s vraćanjem tvoje posljednje sesije pregledavanja. Odaberi „Obnovi sesiju” za ponovni pokušaj.
+restore-page-error-title = Žao nam je. Ne možemo vratiti tvoje stranice.
+restore-page-problem-desc = Ne možemo obnoviti tvoju zadnju sesiju pregledavanja. Odaberi „Obnovi sesiju” za ponovni pokušaj.
 restore-page-try-this = Još uvijek ne možeš vratiti sesiju? Ponekad je kartica uzrok tome. Pregledaj prethodne kartice, ukloni kvačicu s kartica koje ne želiš vratiti i zatim vrati sesiju.
 restore-page-hide-tabs = Sakrij prethodne kartice
 restore-page-show-tabs = Prikaži prethodne kartice
