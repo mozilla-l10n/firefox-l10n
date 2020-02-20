@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "e">
 <!ENTITY  newContactCmd.label "Adres defteri kişisi…">
 <!ENTITY  newContactCmd.accesskey "k">
+<!ENTITY openMenuCmd.label "Aç">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Kaydedilmiş iletiyi aç…">
 <!ENTITY openMessageFileCmd.accesskey "d">
 <!ENTITY saveAsMenu.label "Farklı kaydet">
