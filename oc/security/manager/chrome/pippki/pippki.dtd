@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Values for changepassword.xul -->
+<!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "Modificar lo senhal principal">
 <!ENTITY setPassword.tokenName.label "Periferic de seguretat">
 <!ENTITY setPassword.oldPassword.label "Senhal actual :">
@@ -10,7 +10,7 @@
 <!ENTITY setPassword.reenterPassword.label "Tornatz picatz lo senhal :">
 <!ENTITY setPassword.meter.label "Mesura de la qualitat del senhal">
 
-<!-- Values for resetpassword.xul -->
+<!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "Escafar">
 <!ENTITY resetPassword.title  "Tornar inicializar lo senhal principal">
 <!ENTITY resetPassword.text  "S'escafatz vòstre senhal principal, totes vòstres senhals Web e corrièr, vòstras donadas de formularis, vòstres certificats personals e vòstras claus privadas seràn doblidats. Volètz vertadièrament suprimir lo senhal principal ?">
@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Se vos a demandat de confirmar una autoritat de certificacion novèla (AC).">
 <!ENTITY downloadCert.trustSSL "Confirmar aquesta AC per identificar de sites Web.">
 <!ENTITY downloadCert.trustEmail "Confirmar aquesta AC per identificar los utilizaires de corrièr.">
-<!ENTITY downloadCert.trustObjSign "Confirmar aquesta AC per identificar los desvolopaires de logicials.">
 <!ENTITY downloadCert.message3 "Abans de confirmar aquesta AC per quina rason que siá, la deuriatz examinar, ela, sos metòdes e sas proceduras (se possible).">
 <!ENTITY downloadCert.viewCert.label "Veire">
 <!ENTITY downloadCert.viewCert.text "Examinar lo certificat d'AC">
@@ -42,7 +41,7 @@
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generar una clau privada">
-<!ENTITY createCertInfo.msg1 "Generacion de la clau en cors… Aquesta operacion pòt prendre mantuna minuta…">
+<!ENTITY createCertInfo.msg1 "Generacion de la clau en cors… Aquesta operacion pòt prendre mantunas minutas…">
 <!ENTITY createCertInfo.msg2 "Esperatz…">
 
 <!-- Strings for protectedAuth dialog -->
