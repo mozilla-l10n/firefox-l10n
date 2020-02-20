@@ -180,17 +180,17 @@ containers-disable-alert-ok-button =
        *[other] Zatvori { $tabCount } kontejnerskih kartica
     }
 containers-disable-alert-cancel-button = Drži omogućeno
-containers-remove-alert-title = Ukloni ovaj spremnik?
+containers-remove-alert-title = Ukloniti ovaj kontejner?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajna kartica biti će zatvorena. Jeste li sigurni da želite ukloniti ovaj spremnik?
-        [few] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajne kartice biti će zatvorene. Jeste li sigurni da želite ukloniti ovaj spremnik?
-       *[other] Ukoliko sada uklonite ovaj spremnik, { $count } sadržajnih kartica biti će zatvoreno. Jeste li sigurni da želite ukloniti ovaj spremnik?
+        [one] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerska kartica. Zaista želiš ukloniti kontejnerske kartice?
+        [few] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerske kartice. Zaista želiš ukloniti kontejnerske kartice?
+       *[other] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerskih kartica. Zaista želiš ukloniti kontejnerske kartice?
     }
-containers-remove-ok-button = Ukloni ovaj spremnik
-containers-remove-cancel-button = Nemoj ukloniti ovaj spremnik
+containers-remove-ok-button = Ukloni ovaj kontejner
+containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
 
 ## General Section - Language & Appearance
 
@@ -580,12 +580,12 @@ containers-back-button =
             [windows] Nazad na Mogućnosti
            *[other] Nazad na Mogućnosti
         }
-containers-header = Sadržajne kartice
+containers-header = Kontejnerske kartice
 containers-add-button =
-    .label = Dodaj novi spremnik
+    .label = Dodaj novi kontejner
     .accesskey = a
 containers-new-tab-check =
-    .label = Odaberite spremnik za svaku novu karticu
+    .label = Odaberite kontejner za svaku novu karticu
     .accesskey = s
 containers-preferences-button =
     .label = Postavke
