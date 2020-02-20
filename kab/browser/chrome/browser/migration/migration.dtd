@@ -14,7 +14,9 @@
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromEdgeLegacy.label     "Microsoft Edge (Ileqman iqbuṛen)">
+<!ENTITY importFromEdgeLegacy.accesskey "L">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
+<!ENTITY importFromEdgeBeta.accesskey   "d">
 <!ENTITY importFromNothing.label        "Ur keter ara kan">
 <!ENTITY importFromNothing.accesskey    "U">
 <!ENTITY importFromSafari.label         "Safari">
