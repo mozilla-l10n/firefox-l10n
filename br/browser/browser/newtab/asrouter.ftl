@@ -125,6 +125,10 @@ cfr-whatsnew-lockwise-take-title = Kemerit ho kerioù-tremen ganeoc'h
 cfr-whatsnew-lockwise-take-body = Gant arload hezoug { -lockwise-brand-short-name } e c'hallit gwelout ho kerioù-tremen gwaredet adalek forzh pe lec'h.
 cfr-whatsnew-lockwise-take-link-text = Kaout an arload
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Skrivit nebeutoc'h ha kavit muioc'h gant ar varrenn chomlec'hioù
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Sellit ouzh videoioù en ur verdeiñ
