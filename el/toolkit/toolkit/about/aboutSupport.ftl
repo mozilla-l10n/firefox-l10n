@@ -92,6 +92,8 @@ graphics-crash-guards-title = Απενεργοποιημένες λειτουρ�
 graphics-workarounds-title = Λύσεις
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Πρωτόκολλο παραθύρου
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Περιβάλλον επιφάνειας εργασίας
 place-database-title = Βάση δεδομένων τοποθεσιών
 place-database-integrity = Ακεραιότητα
 place-database-verify-integrity = Επαλήθευση ακεραιότητας
@@ -136,6 +138,8 @@ media-device-channels = Κανάλια
 media-device-rate = Ρυθμός
 media-device-latency = Καθυστέρηση
 media-capabilities-title = Δυνατότητες μέσων
+# List all the entries of the database.
+media-capabilities-enumerate = Απαρίθμηση βάσης δεδομένων
 
 ##
 
@@ -148,6 +152,22 @@ intl-locales-default = Προεπιλεγμένη γλώσσα
 intl-os-title = Λειτουργικό σύστημα
 intl-os-prefs-system-locales = Γλώσσες συστήματος
 intl-regional-prefs = Προτιμήσεις περιοχής
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Απομακρυσμένο debugging (Πρωτόκολλο Chromium)
+remote-debugging-accepting-connections = Αποδεκτές συνδέσεις
+remote-debugging-url = URL
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -246,6 +266,7 @@ d3d11video-crash-guard = Αποκωδικοποιητής βίντεο D3D11
 d3d9video-crash-buard = Αποκωδικοποιητής βίντεο D3D9
 d3d9video-crash-guard = Αποκωδικοποιητής βίντεο D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Αποκωδικοποιητής βίντεο WMF VPX
 reset-on-next-restart = Επαναφορά στην επόμενη επανεκκίνηση
 gpu-process-kill-button = Τερματισμός διεργασίας GPU
 gpu-device-reset = Επαναφορά συσκευής

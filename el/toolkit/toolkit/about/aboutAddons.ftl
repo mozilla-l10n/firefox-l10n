@@ -104,6 +104,7 @@ detail-private-browsing-description2 = Αν της επιτραπεί, αυτή 
 # cannot be overridden by the user.
 detail-private-disallowed-label = Δεν επιτρέπεται στα ιδιωτικά παράθυρα
 detail-private-disallowed-description = Αυτή η επέκταση δεν εκτελείται κατά την ιδιωτική περιήγηση. <label data-l10n-name="detail-private-browsing-learn-more">Μάθετε περισσότερα</label>
+detail-private-disallowed-description2 = Αυτή η επέκταση δεν εκτελείται κατά την ιδιωτική περιήγηση. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Απαιτεί πρόσβαση στα ιδιωτικά παράθυρα
 detail-private-required-description = Αυτή η επέκταση έχει πρόσβαση στις διαδικτυακές σας δραστηριότητες κατά την ιδιωτική περιήγηση. <label data-l10n-name="detail-private-browsing-learn-more">Μάθετε περισσότερα</label>
@@ -347,9 +348,15 @@ addon-options-button =
 
 report-addon-button = Αναφορά
 remove-addon-button = Αφαίρεση
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Δεν μπορεί να αφαιρεθεί <a data-l10n-name="link">Γιατί;</a>
 disable-addon-button = Απενεργοποίηση
 enable-addon-button = Ενεργοποίηση
 expand-addon-button = Περισσότερες επιλογές
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Ενεργοποίηση
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Επιλογές
@@ -425,6 +432,11 @@ addon-detail-private-browsing-disallow = Απόρριψη
 addon-badge-recommended =
     .title = Προτείνεται
     .alt = Προτείνεται
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = Το { -brand-product-name } προτείνει μόνο επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεών μας
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Διαθέσιμες ενημερώσεις
 recent-updates-heading = Πρόσφατες ενημερώσεις
 release-notes-loading = Φόρτωση...
@@ -443,10 +455,12 @@ theme-heading = Διαχείριση των θεμάτων σας
 plugin-heading = Διαχείριση των αρθρωμάτων σας
 dictionary-heading = Διαχείριση των λεξικών σας
 locale-heading = Διαχείριση των γλωσσών σας
+updates-heading = Διαχείριση των ενημερώσεών σας
 discover-heading = Εξατομικεύστε το { -brand-short-name } σας
 shortcuts-heading = Διαχείριση συντομεύσεων επέκτασης
 theme-heading-search-label = Βρείτε περισσότερα θέματα
 extension-heading-search-label = Βρείτε περισσότερες επεκτάσεις
+default-heading-search-label = Βρείτε περισσότερα πρόσθετα
 addons-heading-search-input =
     .placeholder = Αναζήτηση στο addons.mozilla.org
 addon-page-options-button =

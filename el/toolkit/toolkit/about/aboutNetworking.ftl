@@ -16,6 +16,7 @@ auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπ
 hostname = Όνομα κεντρικού υπολογιστή
 port = Θύρα
 http2 = HTTP/2
+about-networking-http-version = Έκδοση HTTP
 ssl = SSL
 active = Ενεργό
 idle = Αδρανές
@@ -66,5 +67,5 @@ networkid-id = ID δικτύου
 networkid-isUp = Η σύνδεση είναι ενεργή
 networkid-statusKnown = Η κατάσταση σύνδεσης είναι γνωστή
 
-
+##
 
