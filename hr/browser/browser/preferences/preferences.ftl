@@ -185,9 +185,9 @@ containers-remove-alert-title = Ukloniti ovaj kontejner?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerska kartica. Zaista želiš ukloniti kontejnerske kartice?
-        [few] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerske kartice. Zaista želiš ukloniti kontejnerske kartice?
-       *[other] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $tabCount } kontejnerskih kartica. Zaista želiš ukloniti kontejnerske kartice?
+        [one] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $count } kontejnerska kartica. Zaista želiš ukloniti kontejnerske kartice?
+        [few] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $count } kontejnerske kartice. Zaista želiš ukloniti kontejnerske kartice?
+       *[other] Ako sad ukloniš kontejnerske kartice, zatvorit će se { $count } kontejnerskih kartica. Zaista želiš ukloniti kontejnerske kartice?
     }
 containers-remove-ok-button = Ukloni ovaj kontejner
 containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
