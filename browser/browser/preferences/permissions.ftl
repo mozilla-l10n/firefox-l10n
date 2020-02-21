@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = Αποκλεισμός νέων αιτημάτων για πρόσβαση στην τοποθεσία σας
 permissions-site-location-disable-desc = Αυτό θα εμποδίσει όλες τις ιστοσελίδες που δεν αναγράφονται παραπάνω να αιτηθούν άδεια για πρόσβαση στην τοποθεσία σας. Η φραγή πρόσβασης στην τοποθεσία σας πιθανόν να διακόψει ορισμένες λειτουργίες των ιστοσελίδων.
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Ρυθμίσεις - Άδειες εικονικής πραγματικότητας
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
