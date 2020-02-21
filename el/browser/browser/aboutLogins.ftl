@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Αναζήτηση συνδέσεων
 create-login-button = Δημιουργία νέας σύνδεσης
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Εικονίδιο για { $title }
 fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
 fxaccounts-sign-in-button = Σύνδεση στο { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -49,6 +44,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ταξινόμηση κατά:
 login-list-name-option = Όνομα (Α-Ω)
+login-list-name-reverse-option = Όνομα (Ω-Α)
 login-list-breached-option = Παραβιασμένες ιστοσελίδες
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
@@ -57,9 +53,6 @@ about-logins-login-list-empty-search-title = Δεν βρέθηκαν συνδέ�
 login-list-item-title-new-login = Νέα σύνδεση
 login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
-about-logins-list-item-warning-icon =
-    .alt = Εικονίδιο προειδοποίησης
-    .title = Παραβιασμένη ιστοσελίδα
 about-logins-list-item-breach-icon =
     .title = Παραβιασμένη ιστοσελίδα
 
@@ -71,7 +64,7 @@ about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρ�
 
 login-item-new-login-title = Δημιουργία νέας σύνδεσης
 login-item-edit-button = Επεξεργασία
-login-item-delete-button = Διαγραφή
+about-logins-login-item-remove-button = Αφαίρεση
 login-item-origin-label = Διεύθυνση ιστοσελίδας
 login-item-origin =
     .placeholder = https://www.example.com
@@ -81,10 +74,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Αντιγραφή
 login-item-copied-username-button-text = Αντιγράφηκε!
 login-item-password-label = Κωδικός πρόσβασης
-login-item-password-reveal-checkbox-show =
-    .title = Εμφάνιση κωδικού πρόσβασης
-login-item-password-reveal-checkbox-hide =
-    .title = Απόκρυψη συνθηματικού
+login-item-password-reveal-checkbox =
+    .aria-label = Εμφάνιση κωδικού πρόσβασης
 login-item-copy-password-button-text = Αντιγραφή
 login-item-copied-password-button-text = Αντιγράφηκε!
 login-item-save-changes-button = Αποθήκευση αλλαγών
@@ -100,11 +91,8 @@ master-password-reload-button =
     .label = Σύνδεση
     .accesskey = Σ
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Ακύρωση
-confirmation-dialog-dismiss-button =
-    .title = Ακύρωση
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -112,9 +100,18 @@ enable-password-sync-preferences-button =
            *[other] Άνοιγμα προτιμήσεων { -sync-brand-short-name }
         }
     .accesskey = Ά
-confirm-delete-dialog-title = Διαγραφή σύνδεσης;
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Να μην γίνει ξανά ερώτηση
+    .accesskey = Ν
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Ακύρωση
+confirmation-dialog-dismiss-button =
+    .title = Ακύρωση
+about-logins-confirm-remove-dialog-title = Αφαίρεση αυτής της σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
-confirm-delete-dialog-confirm-button = Διαγραφή
+about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
 confirm-discard-changes-dialog-message = Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.
 confirm-discard-changes-dialog-confirm-button = Απόρριψη

@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Προτεινόμενη επέκταση
 cfr-doorhanger-feature-heading = Προτεινόμενη λειτουργία
 cfr-doorhanger-pintab-heading = Δοκιμάστε αυτό: Καρφίτσωμα καρτέλας
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Γιατί το βλέπω αυτό
@@ -98,6 +98,9 @@ cfr-whatsnew-tracking-blocked-link-text = Προβολή αναφοράς
 cfr-whatsnew-lockwise-backup-link-text = Ενεργοποίηση των αντιγράφων ασφαλείας
 cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
+## Search Bar
+
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-cta = Μάθε περισσότερα
@@ -122,6 +125,8 @@ cfr-doorhanger-sync-logins-ok-button = Ενεργοποίηση { -sync-brand-sh
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
+cfr-doorhanger-send-tab-ok-button = Δοκιμάστε την καρτέλα "Αποστολή"
+    .accesskey = Δ
 
 ## Firefox Send
 
@@ -138,3 +143,5 @@ cfr-doorhanger-socialtracking-close-button = Κλείσιμο
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Προβολή όλων
+    .accesskey = Π
