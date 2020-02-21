@@ -549,6 +549,12 @@ search-keyword-warning-bookmark = Έχετε επιλέξει μια λέξη-κ
 ## Containers Section
 
 containers-back-link = « Επιστροφή
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Πίσω στις επιλογές
+           *[other] Πίσω στις προτιμήσεις
+        }
 containers-header = Θεματικές καρτέλες
 containers-add-button =
     .label = Προσθήκη νέας θεματικής ενότητας
@@ -572,6 +578,9 @@ sync-signedout-account-create = Δεν έχετε λογαριασμό; Ξεκι
 sync-signedout-account-signin =
     .label = Σύνδεση…
     .accesskey = Σ
+sync-signedout-account-signin2 =
+    .label = Σύνδεση στο { -sync-brand-short-name }…
+    .accesskey = ν
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -615,9 +624,17 @@ sync-signedin-settings-desc = Επιλέξτε τι θα συγχρονίζετ�
 
 prefs-syncing-on = Συγχρονισμός: ΕΝΕΡΓΟΣ
 prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
+prefs-sync-setup =
+    .label = Ρύθμιση { -sync-brand-short-name }…
+    .accesskey = Ρ
+prefs-sync-now =
+    .labelnotsyncing = Συγχρονισμός τώρα
+    .accesskeynotsyncing = Τ
+    .labelsyncing = Συγχρονισμός…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Αυτή τη στιγμή, συγχρονίζονται τα εξής στοιχεία:
 sync-currently-syncing-bookmarks = Σελιδοδείκτες
 sync-currently-syncing-history = Ιστορικό
 sync-currently-syncing-tabs = Ανοικτές καρτέλες
@@ -636,6 +653,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Επιλέξτε στοιχεία για συγχρονισμό
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Αποθήκευση αλλαγών
+    .buttonaccesskeyaccept = Π
+    .buttonlabelextra2 = Αποσύνδεση…
+    .buttonaccesskeyextra2 = Α
 sync-engine-bookmarks =
     .label = Σελιδοδείκτες
     .accesskey = δ
@@ -714,6 +738,10 @@ forms-generate-passwords =
     .label = Πρόταση και δημιουργία ισχυρών κωδικών πρόσβασης
     .accesskey = ρ
 forms-breach-alerts-learn-more-link = Μάθετε περισσότερα
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Αυτόματη συμπλήρωση συνδέσεων και κωδικών πρόσβασης
+    .accesskey = ρ
 forms-saved-logins =
     .label = Αποθηκευμένοι λογαριασμοί…
     .accesskey = π
@@ -919,6 +947,10 @@ permissions-location = Τοποθεσία
 permissions-location-settings =
     .label = Ρυθμίσεις…
     .accesskey = θ
+permissions-xr = Εικονική πραγματικότητα
+permissions-xr-settings =
+    .label = Ρυθμίσεις…
+    .accesskey = μ
 permissions-camera = Κάμερα
 permissions-camera-settings =
     .label = Ρυθμίσεις…
@@ -967,6 +999,7 @@ permissions-a11y-privacy-link = Μάθετε περισσότερα
 collection-header = Συλλογή και χρήση δεδομένων { -brand-short-name }
 collection-description = Αγωνιζόμαστε για να σάς παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το { -brand-short-name } για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.
 collection-privacy-notice = Σημείωση απορρήτου
+collection-health-report-telemetry-disabled-link = Μάθετε περισσότερα
 collection-health-report =
     .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή τεχνικών και διαδραστικών δεδομένων στη { -vendor-short-name }
     .accesskey = δ
