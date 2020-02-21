@@ -88,5 +88,6 @@ policy-SecurityDevices = PKCS #11 მოდულების დაყენე
 policy-SSLVersionMax = SSL-ის უმაღლესი ვერსიის განსაზღვრა.
 policy-SSLVersionMin = SSL-ის უმცირესი ვერსიის განსაზღვრა.
 policy-SupportMenu = საკუთარი მხარდაჭერის მენიუს დამატება დახმარების მენიუში.
+policy-UserMessaging = მომხმარებლისთვის, გარკვეული შეტყობინებების ჩვენების შეწყვეტა.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ვებსაიტების მონახულების შეზღუდვა. იხილეთ შესაბამისი მასალა დამატებითი ინფორმაციისთვის ფორმატის თაობაზე.
