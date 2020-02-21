@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = დადუმება
 pictureinpicture-unmute =
     .aria-label = ხმის ჩართვა
+pictureinpicture-unpip =
+    .aria-label = დაბრუნება ჩანართში
+pictureinpicture-close =
+    .aria-label = დახურვა
