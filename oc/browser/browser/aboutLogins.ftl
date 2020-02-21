@@ -64,7 +64,11 @@ about-logins-list-item-breach-icon =
 
 login-intro-heading = Cercatz vòstres senhals gardats ? Configuratz { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Cap d’identificant sincronizat pas trobat.
+login-intro-description = Se gardatz vòstres identificants dins { -brand-product-name } sus un autre periferics, vaquí cossí i accedir aquí :
+login-intro-instruction-fxa = Connectatz-vos o creatz un { -fxaccount-brand-name } ont son gardats los identificants.
+login-intro-instruction-fxa-settings = Asseguratz-vos qu’avètz seleccionat la casa dels identificants dins los paramètres de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consultatz <a data-l10n-name="help-link">l’assiténcia de { -lockwise-brand-short-name } per d’ajudar</a>
+about-logins-intro-import = Se vòstres identificants son gardats dins un autre navegador, podètz <a data-l10n-name="import-link">los importar dins{ -lockwise-brand-short-name }</a>
 
 ## Login
 
