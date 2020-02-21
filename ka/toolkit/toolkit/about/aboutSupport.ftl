@@ -89,6 +89,8 @@ graphics-crash-guards-title = უეცარი გათიშვების�
 graphics-workarounds-title = შემოვლითი გზები
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = ფანჯრის ოქმი
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = სამუშაო მაგიდის გარსი
 place-database-title = Places მონაცემთა ბაზა
 place-database-integrity = მთლიანობა
 place-database-verify-integrity = მთლიანობის გადამოწმება
