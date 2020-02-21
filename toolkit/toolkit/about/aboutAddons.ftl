@@ -108,6 +108,7 @@ detail-private-disallowed-description2 = Αυτή η επέκταση δεν ε�
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Απαιτεί πρόσβαση στα ιδιωτικά παράθυρα
 detail-private-required-description = Αυτή η επέκταση έχει πρόσβαση στις διαδικτυακές σας δραστηριότητες κατά την ιδιωτική περιήγηση. <label data-l10n-name="detail-private-browsing-learn-more">Μάθετε περισσότερα</label>
+detail-private-required-description2 = Αυτή η επέκταση έχει πρόσβαση στις διαδικτυακές σας δραστηριότητες κατά την ιδιωτική περιήγηση. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 detail-private-browsing-on =
     .label = Αποδοχή
     .tooltiptext = Ενεργοποίηση στην ιδιωτική περιήγηση
