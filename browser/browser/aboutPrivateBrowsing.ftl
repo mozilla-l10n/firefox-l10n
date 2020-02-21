@@ -26,5 +26,15 @@ about-private-browsing-not-private = Αυτή τη στιγμή, δεν βρίσ
 content-blocking-title = Φραγή περιεχομένου
 content-blocking-description = Μερικές ιστοσελίδες χρησιμοποιούν ιχνηλάτες που μπορούν να παρακολουθούν την δραστηριότητά σας στο διαδίκτυο. Στα ιδιωτικά παράθυρα, η Φραγή περιεχομένου του { -brand-short-name } αποκλείει αυτόματα πολλούς ιχνηλάτες που μπορούν να συλλέγουν πληροφορίες για την περιήγησή σας.
 about-private-browsing-info-description = Το { -brand-short-name } διαγράφει το ιστορικό αναζήτησης και περιήγησής σας όταν κλείνετε την εφαρμογή ή όλα τα παράθυρα και τις καρτέλες ιδιωτικής περιήγησης. Αν και δεν έχετε πλήρη ανωνυμία στις ιστοσελίδες ή τον πάροχο υπηρεσίας διαδικτύου, μπορείτε να διατηρείτε τις δραστηριότητές σας ιδιωτικές από τους άλλους χρήστες αυτού του υπολογιστή πιο εύκολα.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = Το { $engineName } είναι η προεπιλεγμένη μηχανή αναζήτησης για ιδιωτικά παράθυρα
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Για να επιλέξετε διαφορετική μηχανή αναζήτησης, μεταβείτε στις <a data-l10n-name="link-options">Επιλογές</a>
+       *[other] Για να επιλέξετε διαφορετική μηχανή αναζήτησης, μεταβείτε στις <a data-l10n-name="link-options">Προτιμήσεις</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Κλείσιμο

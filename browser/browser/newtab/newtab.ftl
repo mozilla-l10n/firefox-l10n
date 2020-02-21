@@ -80,12 +80,14 @@ newtab-menu-delete-history = Διαγραφή από ιστορικό
 newtab-menu-save-to-pocket = Αποθήκευση στο { -pocket-brand-name }
 newtab-menu-delete-pocket = Διαγραφή από το { -pocket-brand-name }
 newtab-menu-archive-pocket = Αρχειοθέτηση στο { -pocket-brand-name }
+newtab-menu-show-privacy-info = Οι χορηγοί μας & το απόρρητό σας
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Τέλος
+newtab-privacy-modal-header = Το απόρρητό σας έχει σημασία.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Αφαίρεση σελιδοδείκτη
@@ -120,6 +122,10 @@ newtab-label-removed-bookmark = Ο σελιδοδείκτης αφαιρέθηκ
 newtab-label-recommended = Τάσεις
 newtab-label-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
 newtab-label-download = Λήψεις
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Χορηγία
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -172,7 +178,8 @@ newtab-discovery-empty-section-topstories-timed-out = Ωχ! Αυτή η ενότ
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Δημοφιλή θέματα:
 newtab-pocket-more-recommendations = Περισσότερες προτάσεις
-newtab-pocket-how-it-works = Πώς λειτουργεί
+newtab-pocket-whats-pocket = Τι είναι το { -pocket-brand-name };
+newtab-pocket-learn-more = Μάθετε περισσότερα
 newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
 newtab-pocket-cta-text = Αποθηκεύστε τις ιστορίες που αγαπάτε στο { -pocket-brand-name } και τροφοδοτήστε το μυαλό σας με εκπληκτικά κείμενα.
 
