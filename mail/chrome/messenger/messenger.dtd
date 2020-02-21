@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "შ">
 <!ENTITY  newContactCmd.label "წიგნაკის ჩანაწერი…">
 <!ENTITY  newContactCmd.accesskey "ჩ">
+<!ENTITY openMenuCmd.label "გახსნა">
+<!ENTITY openMenuCmd.accesskey "ხ">
 <!ENTITY openMessageFileCmd.label "შენახული წერილის გახსნა…">
 <!ENTITY openMessageFileCmd.accesskey "წ">
 <!ENTITY saveAsMenu.label "ჩაწერა როგორც">
