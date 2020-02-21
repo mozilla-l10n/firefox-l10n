@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = Muet
 pictureinpicture-unmute =
     .aria-label = Audible
+pictureinpicture-unpip =
+    .aria-label = Renvoyer dans l’onglet
 pictureinpicture-close =
     .aria-label = Fermer
