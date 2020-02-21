@@ -192,6 +192,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Causir coma motor de cerca per defaut
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Definir coma motor de recèrca per defaut en navegacion privada
+    .accesskey = p
 
 ## Bookmark Panel
 

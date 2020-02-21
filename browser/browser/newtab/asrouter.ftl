@@ -111,6 +111,8 @@ cfr-whatsnew-lockwise-take-link-text = Obténer l’aplicacion
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Escrigatz mens, trobatz mai amb la barra d’adreça
+cfr-whatsnew-searchbar-icon-alt-text = Icòna de la lópia
 
 ## Picture-in-Picture
 
