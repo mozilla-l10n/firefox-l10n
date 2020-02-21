@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = ჰმ! თითქმი
 newtab-pocket-read-more = მეტად გავრცელებული საკითხები:
 newtab-pocket-more-recommendations = მეტი შემოთავაზებები
 newtab-pocket-whats-pocket = რა არის { -pocket-brand-name }?
+newtab-pocket-learn-more = იხილეთ ვრცლად
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
 newtab-pocket-cta-text = გადაინახეთ სასურველი შიგთავსი { -pocket-brand-name }-ში და მიეცით გონებას საკვები, შთამბეჭდავი საკითხავი მასალის სახით.
 

@@ -112,13 +112,18 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = დახმარების მიღება
 urlbar-search-tips-confirm = კარგი, გასაგებია
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = რჩევა:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = აკრიფეთ ნაკლები, მონახეთ მეტი: { $engineName }-ით ძიება პირდაპირ მისამართების ველიდან.
+urlbar-search-tips-onboard = აკრიფეთ ნაკლები, მონახეთ მეტი: გამოიყენეთ { $engineName } საძიებოდ პირდაპირ მისამართების ველიდან.
 urlbar-search-tips-redirect = დაიწყეთ ძიება და იხილეთ შემოთავაზებები { $engineName }-იდან და მონახულებული გვერდების ისტორიიდან.
 
 ##
