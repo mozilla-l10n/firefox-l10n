@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "მიმოწერის შენარჩუნება წერილების დახარისხებისას">
 <!ENTITY preserveThreading.accesskey      "ნ">
+<!ENTITY loadInBackground.label           "ახალ ჩანართებზე გადასვლა გახსნისთანავე">
+<!ENTITY loadInBackground.accesskey       "დ">
 <!ENTITY mailBiffOnNewWindow.label        "ახალი ფოსტის შემოწმება მხოლოდ ფოსტისა და სიახლეთა ჯგუფების გახსნის შემდეგ">
 <!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
