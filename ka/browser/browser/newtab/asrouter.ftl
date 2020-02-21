@@ -189,7 +189,7 @@ cfr-doorhanger-firefox-send-ok-button = გამოცადეთ { -send-bran
 
 ## Social Tracking Protection
 
-cfr-doorhanger-socialtracking-ok-button = იხილეთ დაცვა
+cfr-doorhanger-socialtracking-ok-button = დაცვის შესახებ
     .accesskey = ც
 cfr-doorhanger-socialtracking-close-button = დახურვა
     .accesskey = ხ
