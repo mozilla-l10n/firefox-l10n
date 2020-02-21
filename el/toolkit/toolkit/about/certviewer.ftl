@@ -46,6 +46,10 @@ certificate-viewer-version = Έκδοση
 certificate-viewer-business-category = Κατηγορία επιχείρησης
 certificate-viewer-validity = Εγκυρότητα
 certificate-viewer-miscellaneous = Διάφορα
+certificate-viewer-basic-constraints = Βασικοί περιορισμοί
+certificate-viewer-key-usages = Χρήσεις κλειδιού
+certificate-viewer-certificate-policies = Πολιτικές πιστοποιητικού
+certificate-viewer-embedded-scts = Ενσωματωμένα SCT
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Λήψη

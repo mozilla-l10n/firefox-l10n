@@ -21,6 +21,10 @@ onboarding-button-label-get-started = Έναρξη
 onboarding-welcome-header = Καλώς ήλθατε στο { -brand-short-name }
 onboarding-welcome-body = Έχετε το πρόγραμμα περιήγησης.<br/>Γνωρίστε τα υπόλοιπα προϊόντα του { -brand-product-name }.
 onboarding-welcome-learn-more = Μάθετε περισσότερα σχετικά με τα οφέλη.
+onboarding-welcome-modal-get-body = Έχετε το πρόγραμμα περιήγησης.<br/>Αξιοποιήστε στο έπακρο το { -brand-product-name }.
+onboarding-welcome-modal-privacy-body = Έχετε το πρόγραμμα περιήγησης. Ας προστατεύσουμε περισσότερο το απόρρητό σας.
+onboarding-welcome-modal-family-learn-more = Μάθετε περισσότερα για την οικογένεια προϊόντων { -brand-product-name }.
+onboarding-welcome-form-header = Έναρξη εδώ
 onboarding-join-form-header = Γίνετε μέλος του { -brand-product-name }
 onboarding-join-form-body = Εισάγετε τη διεύθυνση email σας για να ξεκινήσετε.
 onboarding-join-form-email =
@@ -39,14 +43,14 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = Η διεύθυνση email σας…
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Πάρτε το { -brand-product-name } μαζί σας
 onboarding-sync-welcome-content = Κρατήστε τα αγαπημένα, το ιστορικό, τους κωδικούς πρόσβασης και άλλες ρυθμίσεις σας σε όλες σας τις συσκευές.
 onboarding-sync-welcome-learn-more-link = Μάθετε περισσότερα για τους Λογαριασμούς Firefox
-onboarding-sync-form-invalid-input = Απαιτείται έγκυρο email
-onboarding-sync-legal-notice = Συνεχίζοντας, συμφωνείτε με τους <a data-l10n-name="terms">Όρους Υπηρεσίας</a> και τη <a data-l10n-name="privacy">Σημείωση Απορρήτου</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Συνέχεια
@@ -125,9 +129,11 @@ onboarding-pocket-anywhere-button = Δοκιμή του { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Πάρτε τους κωδικούς πρόσβασής σας παντού
 onboarding-lockwise-passwords-text2 = Προστατέψτε τους αποθηκευμένους κωδικούς πρόσβασής σας και συνδεθείτε εύκολα στους λογαριασμούς σας με το { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Λήψη εφαρμογής
+onboarding-lockwise-strong-passwords-button = Διαχείριση συνδέσεων
 onboarding-facebook-container-title = Θέστε όρια με το Facebook
 onboarding-facebook-container-text2 = Το { -facebook-container-brand-name } διατηρεί ξεχωριστά το προφίλ σας από όλα τα άλλα, εμποδίζοντας τις στοχευμένες διαφημίσεις του Facebook.
 onboarding-facebook-container-button = Προσθήκη επέκτασης
+onboarding-import-browser-settings-button = Εισαγωγή δεδομένων Chrome
 
 ## Message strings belonging to the Return to AMO flow
 

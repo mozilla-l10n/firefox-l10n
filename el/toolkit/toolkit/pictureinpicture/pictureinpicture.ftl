@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Σίγαση
 pictureinpicture-unmute =
     .aria-label = Άρση σίγασης
+pictureinpicture-unpip =
+    .aria-label = Αποστολή πίσω στην καρτέλα
+pictureinpicture-close =
+    .aria-label = Κλείσιμο
