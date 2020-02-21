@@ -51,4 +51,4 @@
 <!ENTITY done.title                     "გადმოტანა დასრულდა">
 <!ENTITY done.label                     "გადმოტანილია შემდეგი მონაცემები:">
 
-<!ENTITY closeSourceBrowser.label       "გაგრძელებამდე დარწმუნდით, რომ არჩეული ბრაუზერი დახურულია.">
+<!ENTITY closeSourceBrowser.label       "სანამ განაგრძობთ დარწმუნდით, რომ არჩეული ბრაუზერი დახურულია.">

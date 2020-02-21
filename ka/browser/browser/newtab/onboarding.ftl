@@ -31,7 +31,7 @@ onboarding-join-form-body = შეიყვანეთ თქვენი ე�
 onboarding-join-form-email =
     .placeholder = ელფოსტის მითითება
 onboarding-join-form-email-error = აუცილებელია მართებული ელფოსტა
-onboarding-join-form-legal = გაგრძელების შემთხვევაში, თქვენ ეთანხმებით <a data-l10n-name="terms">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
+onboarding-join-form-legal = თუ განაგრძობთ, თქვენ ეთანხმებით <a data-l10n-name="terms">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
 onboarding-join-form-continue = გაგრძელება
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = უკვე გაქვთ ანგარიში?
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = თან წაიყოლეთ { -brand-product-name }
 onboarding-sync-welcome-content = მიიღეთ წვდომა თქვენს სანიშნებთან, ისტორიასთან, პაროლებსა და სხვა პარამეტრებთან, ყველა თქვენს მოწყობილობაზე.
 onboarding-sync-welcome-learn-more-link = იხილეთ ვრცლად, Firefox-ანგარიშების შესახებ
-onboarding-sync-form-invalid-input = მართებული ელფოსტის მითითება აუცილებელია
-onboarding-sync-legal-notice = გაგრძელების შემთხვევაში, თქვენ ეთანხმებით <a data-l10n-name="terms">გამოყენების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
 onboarding-sync-form-input =
     .placeholder = ელფოსტა
 onboarding-sync-form-continue-button = გაგრძელება

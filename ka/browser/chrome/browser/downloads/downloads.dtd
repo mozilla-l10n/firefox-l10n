@@ -15,7 +15,7 @@
 
 <!ENTITY cmd.pause.label                  "შეჩერება">
 <!ENTITY cmd.pause.accesskey              "შ">
-<!ENTITY cmd.resume.label                 "გაგრძელება">
+<!ENTITY cmd.resume.label                 "განაგრძეთ">
 <!ENTITY cmd.resume.accesskey             "რ">
 <!ENTITY cmd.cancel.label                 "გაუქმება">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,

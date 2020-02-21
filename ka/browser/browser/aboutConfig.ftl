@@ -13,12 +13,12 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
-about-config-intro-warning-title = გაგრძელება სიფრთხილით
+about-config-intro-warning-title = განაგრძეთ სიფრთხილით
 about-config-intro-warning-text = გაფართოებული პარამეტრების შეცვლამ, შესაძლოა დააზიანოს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
 about-config-intro-warning-checkbox = გაფრთხილება, ამგვარ პარამეტრებთან წვდომისას
 about-config-intro-warning-button = საფრთხის გაცნობიერება და გაგრძელება
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = ამ პარამეტრების შეცვლამ, შესაძლოა დააზიანოს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
