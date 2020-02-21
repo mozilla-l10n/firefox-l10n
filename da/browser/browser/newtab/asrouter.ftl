@@ -92,7 +92,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Brug nettet uden at blive overvåget
-cfr-protections-panel-body = Dine data tilhører dig. { -brand-short-name } beskytter dig mod mange af de mest almindelige sporings-tjenester, der følger med i, hvad du laver på nettet.
+cfr-protections-panel-body = Dine data tilhører dig. { -brand-short-name } beskytter dig mod mange af de mest almindelige sporings-teknologier, der følger med i, hvad du laver på nettet.
 cfr-protections-panel-link-text = Læs mere
 
 ## What's New toolbar button and panel

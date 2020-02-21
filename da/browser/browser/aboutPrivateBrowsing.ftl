@@ -25,7 +25,7 @@ about-private-browsing =
     .title = Søg på nettet
 about-private-browsing-not-private = Du befinder dig ikke i et privat vindue.
 content-blocking-title = Blokering af indhold
-content-blocking-description = Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. I private vinduer blokerer { -brand-short-name } automatisk mange af de sporings-tjenester, der kan indsamle information om din aktivitet på nettet.
+content-blocking-description = Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. I private vinduer blokerer { -brand-short-name } automatisk mange af de sporings-teknologier, der kan indsamle information om din aktivitet på nettet.
 about-private-browsing-info-description = { -brand-short-name } rydder din søge- og browsing-historik, når du afslutter programmet eller når du lukker alle private faneblade og vinduer. Dette gør det nemmere at holde din gøren og laden på nettet for dig selv, hvis andre bruger den samme computer. Websteder og din internetudbyder kan dog stadig finde ud af, hvad du foretager dig.
 
 # This string is the title for the banner for search engine selection
