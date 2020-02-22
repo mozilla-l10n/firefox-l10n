@@ -114,7 +114,7 @@ sandbox-sys-call-proc-type = 프로세스 타입
 sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
 safe-mode-title = 안전 모드 시도
-restart-in-safe-mode-label = 부가기능을 끄고 다시 시작…
+restart-in-safe-mode-label = 부가 기능을 끄고 다시 시작…
 
 ## Media titles
 
@@ -280,7 +280,7 @@ multi-process-status-1 = 기본값에 의해 활성화됨
 multi-process-status-2 = 비활성화됨
 multi-process-status-4 = 접근성 도구에 의해 비활성화됨
 multi-process-status-6 = 지원되지 않는 텍스트 입력으로 인한 비활성화됨
-multi-process-status-7 = 부가기능에 의해서 비활성화됨
+multi-process-status-7 = 부가 기능에 의해서 비활성화됨
 multi-process-status-8 = 강제로 비활성화됨
 multi-process-status-unknown = 알 수 없는 상태
 async-pan-zoom = 비동기 팬 및 확대/축소

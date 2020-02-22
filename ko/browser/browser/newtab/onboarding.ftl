@@ -95,10 +95,10 @@ onboarding-private-browsing-title = 사생활 보호 모드
 onboarding-private-browsing-text = 개인적으로 탐색하세요. 콘텐츠 차단과 사생활 보호 모드는 웹에서 사용자를 추적하는 온라인 추적기들을 막아줍니다.
 onboarding-screenshots-title = 스크린샷
 onboarding-screenshots-text = 스크린샷을 찍고 저장하고 공유하세요 - { -brand-short-name }를 떠날 필요조차 없습니다. 탐색하면서 일부분 또는 전체 페이지를 캡처하세요. 그리고 웹에 저장해서 쉽게 접근하고 공유하세요.
-onboarding-addons-title = 부가기능
+onboarding-addons-title = 부가 기능
 onboarding-addons-text = { -brand-short-name }가 여러분을 위해 더 열심히 일하도록 더욱 많은 기능들을 추가하세요. 가격을 비교하거나 날씨를 확인하거나 사용자 지정 테마로 여러분의 개성을 표현해 보세요.
 onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = 귀찮은 광고들로부터 여러분을 막아주는 Ghostery 같은 확장기능으로 더욱 빠르고 똑똑하고 안전하게 탐색하세요.
+onboarding-ghostery-text = 귀찮은 광고들로부터 여러분을 막아주는 Ghostery 같은 확장 기능으로 더욱 빠르고 똑똑하고 안전하게 탐색하세요.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = { -fxaccount-brand-name }에 가입해 { -brand-short-name }를 사용하는 모든 곳에서 북마크, 비밀번호, 열린 탭들을 동기화하세요.
@@ -155,6 +155,6 @@ return-to-amo-sub-header = 좋습니다. { -brand-short-name }를 설치 했네�
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = 이제 <icon></icon><b>{ $addon-name } 부가기능</b>을 설치하겠습니다.
+return-to-amo-addon-header = 이제 <icon></icon><b>{ $addon-name } 부가 기능</b>을 설치하겠습니다.
 return-to-amo-extension-button = 확장 기능 추가
 return-to-amo-get-started-button = { -brand-short-name } 시작하기
