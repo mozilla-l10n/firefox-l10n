@@ -24,6 +24,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> non ha
 inactive-css-not-display-block-on-floated = Il valore di <strong>display</strong> è stato modificato in <strong>block</strong> in quanto l’elemento è <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Non è possibile ignorare <strong>{ $property }</strong> per la restrizione causata da <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento posizionato.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto <strong>overflow:hidden</strong> non è impostato.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -44,3 +45,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Provare ad aggi
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provare ad aggiungere <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Provare a rimuovere <strong>float</strong> o aggiungere <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Provare a impostare per la proprietà <strong>position</strong> un valore diverso da <strong>static</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Provare ad aggiungere <strong>overflow:hidden</strong>. { learn-more }
