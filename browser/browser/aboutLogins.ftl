@@ -136,7 +136,17 @@ confirm-discard-changes-dialog-confirm-button = Tilg air falbh
 
 ## Breach Alert notification
 
+breach-alert-text = Chaidh faclan-faire a ghoid air an làrach-lìn seo on a dh’ùraich thu an clàradh a-steach agad turas mu dheireadh. Atharraich am facal-faire agad a dhìon a’ chunntais agad.
 breach-alert-link = Barrachd fiosrachaidh mun bhriseadh a-steach seo.
+breach-alert-dismiss =
+    .title = Dùin an rabhadh seo
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Tha innteart airson { $loginTitle } leis an ainm-chleachdaiche seo mu thràth. <a data-l10n-name="duplicate-link">A bheil thu airson tadhal air an innteart làithreach?</a>
+# This is a generic error message.
+about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn ris am facal-faire seo a shàbhaladh.
