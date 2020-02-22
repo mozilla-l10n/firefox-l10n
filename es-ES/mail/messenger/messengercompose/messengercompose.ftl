@@ -14,3 +14,20 @@ address-input-type = { $count ->
     [one]   Campo de entrada { $type } con una dirección
     *[other] Campo de entrada { $type } con { $count } direcciones
 }
+
+
+pill-action-edit =
+    .label = Editar dirección
+    .accesskey = e
+
+pill-action-move-to =
+    .label = Ir al campo Para
+    .accesskey = P
+
+pill-action-move-cc =
+    .label = Ir al campo Cc
+    .accesskey = c
+
+pill-action-move-bcc =
+    .label = Ir al campo Bcc
+    .accesskey = b
