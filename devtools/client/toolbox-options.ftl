@@ -12,13 +12,13 @@
 options-select-default-tools-label = Standardne wuwijaŕske rědy
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
-options-tool-not-supported-label = * Za aktualny zaměr rědowego kašćika njepódprěty
+options-tool-not-supported-label = * Za aktualny zaměr rědow njepódprěty
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Wuwijaŕske rědy zainstalěrowane pśez dodanki
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
-options-select-enabled-toolbox-buttons-label = K dispoziciji stojece tłocaški rědowego kašćika
+options-select-enabled-toolbox-buttons-label = K dispoziciji stojece tłocaški rědow
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Drastwy
 
@@ -88,36 +88,31 @@ options-sourceeditor-keybinding-default-label = Standard
 # The heading
 options-context-advanced-settings = Rozšyrjone nastajenja
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = HTTP-Cache znjemóžniś (gaž rědowy kašćik jo wócynjony)
+options-disable-http-cache-label = HTTP-Cache znjemóžniś (gaž rědy su wócynjone)
 options-disable-http-cache-tooltip =
-    .title = Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtarki znjemóžnijo, kótarež maju rědowy kašćik wócynjone. Service workerls njejsu pśez toś te nastajenje pótrjefjone.
+    .title = Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtarki znjemóžnijo, kótarež maju rědy wócynjone. Service workers njejsu pśez toś te nastajenje pótrjefjone.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript znjemóžniś *
 options-disable-javascript-tooltip =
-    .title = Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtark. Jolic rejtark abo rědowy kašćik se zacynijo, ga toś to nastajenje se zabydnjo.
+    .title = Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtark. Jolic rejtark abo rědy se zacyniju, ga toś to nastajenje se zabydnjo.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Rědowe kašćiki pytanja zmólkow pówjercha wobglědowaka a dodankow zmóžniś
 options-enable-chrome-tooltip =
-    .title = Gaž zmóžnijośo toś to nastajenje, móžośo wšake wuwijaŕske rědy w konteksće wobglědowaka (pśez Rědy > Webwuwijaŕ > Rědowy kašćik) wužywaś a dodanki ze zastojnika dodankow za zmólkami pśepytowaś
+    .title = Gaž zmóžnijośo toś to nastajenje, móžośo wšake wuwijaŕske rědy w konteksće wobglědowaka (pśez Rědy > Webwuwijaŕ > Rědy) wužywaś a dodanki ze zastojnika dodankow za zmólkami pśepytowaś
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Daloke pytanje za zmólkami
 options-enable-remote-tooltip =
     .title = Zmóžnjenje toś togo nastajenja dowólijo wuwijaŕskim rědam, daloku instancu Firefox ako Firefox OS za zmólkami pśepytowaś
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Service worker pśez HTTP zmóžniś (gaž rědowy kašćik jo wócynjony)
+options-enable-service-workers-http-label = Service worker pśez HTTP zmóžniś (gaž rědy su wócynjone)
 options-enable-service-workers-http-tooltip =
-    .title = Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtarki wužywaś, za kótarež rědowy kašćik jo wócynjony.
+    .title = Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtarki wužywaś, za kótarež rědy su wócynjone.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Žrědłowe kórty zmóžniś
 options-source-maps-tooltip =
     .title = Joliv toś to nastajenje zmóžnjaśo, se žrědła w rědach kartěruju.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Jano aktualne pósejźenje, bok zacytujo se znowego
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Pytanje za zmólkami
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Platformowe daty Gecko pokazaś
