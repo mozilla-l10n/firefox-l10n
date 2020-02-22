@@ -5,6 +5,16 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Dìon prìobhaideachd
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = Tadhail air an aithisg phrìobhaideachd agad
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Sùm a-steach
+appmenuitem-zoom-reduce =
+    .label = Sùm a-mach
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 

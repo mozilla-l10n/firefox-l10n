@@ -85,6 +85,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Fosgail panail nan teachdaireachdan
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Fosgail panail iarrtasan an ionaid
+urlbar-xr-notification-anchor =
+    .tooltiptext = Cleachd panail ceadan na fìorachd bhiortail
 urlbar-storage-access-anchor =
     .tooltiptext = Fosgail panail ceadan na gnìomhachd brabhsaidh
 urlbar-translate-notification-anchor =
@@ -107,6 +109,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stòr dàta san stòras bhuan
 urlbar-addons-notification-anchor =
     .tooltiptext = Fosgail panail teachdaireachdan stàladh thuilleadan
+urlbar-tip-help-icon =
+    .title = Faigh cobhair
+urlbar-search-tips-confirm = Ceart, tha mi agaibh
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Gliocas:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -120,6 +130,8 @@ urlbar-search-tips-redirect = Tòisich air lorg an-seo ’s chì thu molaidhean 
 
 urlbar-geolocation-blocked =
     .tooltiptext = Bhac thu fiosrachadh mun ionad agad air an làrach-lìn seo.
+urlbar-xr-blocked =
+    .tooltiptext = Bhac thu inntrigeadh do dh’uidheaman na fìorachd bhiortail air an làrach-lìn seo.
 urlbar-web-notifications-blocked =
     .tooltiptext = Bhac thu brathan air an làrach-lìn seo.
 urlbar-camera-blocked =
@@ -138,6 +150,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Bhac thu às-tharraing dàta canabhais air an làrach-lìn seo.
 urlbar-midi-blocked =
     .tooltiptext = Bhac thu inntrigeadh MIDI air an làrach-lìn seo.
+urlbar-install-blocked =
+    .tooltiptext = Bhac thu stàladh de thuilleadain air an làrach-lìn seo.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -167,6 +181,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Dèan lorg leis na leanas an turas seo:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -179,6 +196,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Cleachd seo mar an t-einnsean-luirg bunaiteach
     .accesskey = d
+search-one-offs-context-set-as-default-private =
+    .label = Suidhich mar an t-einnsean-luirg bunaiteachd ann an uinneagan prìobhaideach
+    .accesskey = S
 
 ## Bookmark Panel
 
@@ -195,18 +215,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Chan eil an ceangal tèarainte
+identity-connection-secure = Tha an ceangal tèarainte
 identity-connection-internal = Seo duilleag { -brand-short-name } tèarainte.
 identity-connection-file = Tha an duilleag seo ’ga stòradh air a’ choimpiutair agad.
 identity-extension-page = Chaidh an duilleag seo ’ga luchdadh o leudachan.
 identity-active-blocked = Bhac { -brand-short-name } na pìosan dhen duilleag seo nach eil tèarainte.
+identity-custom-root = Chaidh an ceangal a dhearbhadh le teisteanas nach aithnich Mozilla.
 identity-passive-loaded = Chan eil pìosan dhen duilleag seo tèarainte (mar dhealbhan).
 identity-active-loaded = Chuir thu an dìon à comas air an duilleag seo.
 identity-weak-encryption = Tha an duilleag seo a’ cleachdadh crioptachadh lag.
 identity-insecure-login-forms = Dh’fhaoidte gu bheil cothrom air daoine air fiosrachadh clàraidh air an duilleag seo.
+identity-permissions =
+    .value = Ceadan
 identity-permissions-reload-hint = Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.
 identity-permissions-empty = Cha dug thu cead sònraichte sam bith dhan làrach seo.
 identity-clear-site-data =
     .label = Falamhaich na briosgaidean is dàta nan làrach...
+identity-connection-not-secure-security-view = Chan eil ceangal tèarainte agad ris an làrach seo.
+identity-connection-verified = Tha ceangal tèarainte agad ris an làrach seo.
+identity-ev-owner-label = Chaidh an teisteanas fhoillseachadh dha:
+identity-description-custom-root = Chan aithnich Mozilla foillsichear an teisteanais seo. Dh’fhaoidte gun do chuir an siostam-obrachaidh agad ris e no ’s dòcha rianaire. <label data-l10n-name="link">Barrachd fiosrachaidh</label>
 identity-remove-cert-exception =
     .label = Thoir an eisgeachd  air falbh
     .accesskey = r

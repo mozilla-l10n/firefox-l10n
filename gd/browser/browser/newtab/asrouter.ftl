@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Leudachan a mholamaid
+cfr-doorhanger-feature-heading = Gleus a mholamaid
 cfr-doorhanger-pintab-heading = Feuch seo: Prìnich an taba
+
+##
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Carson a tha mi a’ faicinn seo?
 cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
@@ -24,6 +31,14 @@ cfr-doorhanger-extension-author = le { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
+cfr-doorhanger-extension-notification2 = Moladh
+    .tooltiptext = Leudachan a mholamaid
+    .a11y-announcement = Tha moladh leudachain ann
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Moladh
+    .tooltiptext = Gleus a mholamaid
+    .a11y-announcement = Tha moladh gleus ann
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -61,10 +76,14 @@ cfr-doorhanger-pintab-animation-resume = Lean air
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sioncronaich na comharran-lìn agad àite sam bith.
+cfr-doorhanger-bookmark-fxa-body = Abair faodalach! Nise, na bi as aonais a’ chomharra-lìn seo air na h-uidheaman mobile agad. Faigh { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sioncronaich na comharran-lìn an-dràsta…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Am putan airson dùnadh
     .title = Dùin
+
+## Protections panel
+
 
 ## What's New toolbar button and panel
 
@@ -72,3 +91,33 @@ cfr-whatsnew-button =
     .label = Na tha ùr
     .tooltiptext = Na tha ùr
 cfr-whatsnew-panel-header = Na tha ùr
+
+## Search Bar
+
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+
+
+## Enhanced Tracking Protection Milestones
+
