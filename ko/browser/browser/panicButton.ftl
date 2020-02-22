@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = 진행할 작업:
 panic-button-delete-cookies = 최근 <strong>쿠키</strong> 삭제
-panic-button-delete-history = 최근 <strong>방문기록</strong> 삭제
+panic-button-delete-history = 최근 <strong>방문 기록</strong> 삭제
 panic-button-delete-tabs-and-windows = 모든 <strong>탭</strong>과 <strong>창</strong> 닫기
