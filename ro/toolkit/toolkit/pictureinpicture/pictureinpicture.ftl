@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Dezactivează sunetul
 pictureinpicture-unmute =
     .aria-label = Activează sunetul
+pictureinpicture-close =
+    .aria-label = Închide
