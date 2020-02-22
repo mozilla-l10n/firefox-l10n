@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = 문제 해결 정보
-page-subtitle = 이 페이지에는 문제 해결에 유용한 기술 정보가 포함되어 있습니다. { -brand-short-name }의 일반적인 질문에 대한 답변은 <a data-l10n-name="support-link">지원 웹사이트</a>를 확인하세요.
+page-subtitle = 이 페이지에는 문제 해결에 유용한 기술 정보가 포함되어 있습니다. { -brand-short-name }의 일반적인 질문에 대한 답변은 <a data-l10n-name="support-link">지원 웹 사이트</a>를 확인하세요.
 crashes-title = 충돌 보고서
 crashes-id = 보고 ID
 crashes-send-date = 전송됨

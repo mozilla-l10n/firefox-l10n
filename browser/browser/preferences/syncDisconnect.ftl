@@ -9,7 +9,7 @@ sync-disconnect-heading = 이 컴퓨터의 브라우저 데이터도 함께 삭�
 sync-disconnect-remove-sync-caption = { -sync-brand-name } 데이터 삭제
 sync-disconnect-remove-sync-data = 북마크, 방문 기록, 비밀번호 등.
 sync-disconnect-remove-other-caption = 다른 개인 데이터 삭제
-sync-disconnect-remove-other-data = 쿠키, 캐시, 오프라인 웹사이트 데이터 등
+sync-disconnect-remove-other-data = 쿠키, 캐시, 오프라인 웹 사이트 데이터 등
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = 연결 끊는 중…
 sync-disconnect-cancel =

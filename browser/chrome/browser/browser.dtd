@@ -872,12 +872,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "이 사이트의 연결이 보호되지 않습니다. 전송하는 정보(비밀번호, 메시지, 신용 카드 번호 등)를 다른사람이 볼 수 있습니다.">
 <!ENTITY identity.description.insecureLoginForms "이 페이지에 입력한 로그인 정보는 안전하지 않고 손상될 수 있습니다.">
 <!ENTITY identity.description.weakCipher "이 사이트의 연결이 약한 암호화를 사용하고 있어서 보호되지 않습니다.">
-<!ENTITY identity.description.weakCipher2 "다른 사람이 정보를 보거나 웹사이트의 동작을 바꿀 수 있습니다.">
+<!ENTITY identity.description.weakCipher2 "다른 사람이 정보를 보거나 웹 사이트의 동작을 바꿀 수 있습니다.">
 <!ENTITY identity.description.activeBlocked "&brandShortName;가 안전하지 않은 페이지의 일부분을 차단했습니다.">
 <!ENTITY identity.description.passiveLoaded "연결이 안전하지 않아서 사용자가 공유하는 정보를 다른 사람이 볼 수 있습니다.">
-<!ENTITY identity.description.passiveLoaded2 "이 웹사이트는 안전하지 않은 콘텐츠(이미지 등)을 포함하고 있습니다.">
+<!ENTITY identity.description.passiveLoaded2 "이 웹 사이트는 안전하지 않은 콘텐츠(이미지 등)을 포함하고 있습니다.">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName;가 일부 콘텐츠를 차단했지만 아직 안전하지 않은 콘텐츠(이미지 등)가 있습니다.">
-<!ENTITY identity.description.activeLoaded "이 웹사이트는 안전하지 않은 콘텐츠(스크립트 등)를 포함하고 있고 사용자의 연결이 보호되지 않습니다.">
+<!ENTITY identity.description.activeLoaded "이 웹 사이트는 안전하지 않은 콘텐츠(스크립트 등)를 포함하고 있고 사용자의 연결이 보호되지 않습니다.">
 <!ENTITY identity.description.activeLoaded2 "이 사이트에 공유하는 정보(비밀번호, 메시지, 신용 카드 번호 등)를 다른사람이 볼 수 있습니다.">
 <!ENTITY identity.description.customRoot "Mozilla는 이 인증서 발급자를 인식하지 못합니다. 운영 체제 또는 관리자가 추가한 것일 수 있습니다.">
 
