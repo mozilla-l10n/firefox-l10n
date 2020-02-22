@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "t">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Selectează ce coloane să fie afișate">
 <!ENTITY newContactButton.tooltip                       "Creează un contact nou în agendă">
 <!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
 <!ENTITY editPropertiesButton.tooltip                   "Editează elementul selectat">
