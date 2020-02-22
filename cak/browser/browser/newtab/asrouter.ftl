@@ -125,6 +125,10 @@ cfr-whatsnew-lockwise-take-link-text = Tak'ulu' ri chokoy
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Katz'ib'an jub'a', tawila' k'ïy rik'in ri rukajtz'ik ochochib'äl
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Katok pa ri taq ruxaq junelïk ye'atz'ët rik'in xa jun pitz'oj pa ri rukajtz'ik ochochib'äl. Aninäq ke'awila' ri taq wachib'äl rik'in ri rilon ri { $searchEngineName } chuqa' ri runatab'al awokem pa k'amaya'l.
+cfr-whatsnew-searchbar-body-generic = Katok pa ri taq ruxaq junelïk ye'atz'ët rik'in xa jun pitz'oj pa ri rukajtz'ik ochochib'äl. Aninäq ke'awila' ri taq wachib'äl rik'in ri rilon ri runatab'al awokem pa k'amaya'l.
 
 ## Picture-in-Picture
 
