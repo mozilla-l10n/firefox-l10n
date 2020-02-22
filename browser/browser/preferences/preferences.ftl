@@ -718,6 +718,10 @@ containers-add-button =
     .label = 新規コンテナーを追加
     .accesskey = A
 
+containers-new-tab-check =
+    .label = 新規タブを開くコンテナーを毎回選択する
+    .accesskey = S
+
 containers-preferences-button =
     .label = 設定
 containers-remove-button =
