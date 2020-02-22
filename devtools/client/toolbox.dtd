@@ -70,7 +70,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Gratowe kašćiki pytanja zmylkow powjercha wobhladowaka a přidatkow zmóžnić">
-<!ENTITY options.enableChrome.tooltip3  "Hdyž tute nastajenje zmóžniće, móžeće wšelake wuwiwarske nastroje w konteksće wobhladowaka (přez Nastroje > Webwuwiwar > Gratowy kašćik) wužiwać a přidatki ze zrjadowaka přidatkow za zmylkami přepytować">
+<!ENTITY options.enableChrome.tooltip3  "Hdyž tute nastajenje zmóžniće, móžeće wšelake wuwiwarske nastroje w konteksće wobhladowaka (přez Nastroje > Webwuwiwar > Graty) wužiwać a přidatki ze zrjadowaka přidatkow za zmylkami přepytować">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -82,19 +82,19 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "JavaScript znjemóžnić *">
-<!ENTITY options.disableJavaScript.tooltip   "Zmóžnjenje tutoho nastajenja JavaScript za aktualny rajtark znjemóžni. Jeli rajtark abo gratowy kašćik so začini, da tute nastajenje so zabudźe.">
+<!ENTITY options.disableJavaScript.tooltip   "Zmóžnjenje tutoho nastajenja JavaScript za aktualny rajtark znjemóžni. Jeli rajtark abo graty so začinjeja, da tute nastajenje so zabudźe.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "HTTP-pufrowak znjemóžnić (hdyž gratowy kašćik je wočinjeny)">
-<!ENTITY options.disableHTTPCache.tooltip   "Hdyž so tute nastajenje zmóžnja, so HTTP-pufrowak za wšě rajtarki znjemóžni, kotrež maja gratowy kašćik wočinjene. Service workerls njejsu přez tute nastajenje potrjechene.">
+<!ENTITY options.disableHTTPCache.label     "HTTP-pufrowak znjemóžnić (hdyž graty su wočinjene)">
+<!ENTITY options.disableHTTPCache.tooltip   "Hdyž so tute nastajenje zmóžnja, so HTTP-pufrowak za wšě rajtarki znjemóžni, kotrež maja graty wočinjene. Service workers njejsu přez tute nastajenje potrjechene.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "Service worker přez HTTP zmóžnić (hdyž gratowy kašćik je wočinjeny)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Tute nastajenje zmóžni service workers přez HTTP za wšě rajtarki wužiwać, za kotrež gratowy kašćik je wočinjeny.">
+<!ENTITY options.enableServiceWorkersHTTP.label     "Service worker přez HTTP zmóžnić (hdyž graty su wočinjene)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Tute nastajenje zmóžni service workers přez HTTP za wšě rajtarki wužiwać, za kotrež graty su wočinjene.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -110,12 +110,12 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
-<!ENTITY options.selectEnabledToolboxButtons.label     "K dispoziciji stejace tłóčatka gratoweho kašćika">
+<!ENTITY options.selectEnabledToolboxButtons.label     "K dispoziciji stejace tłóčatka gratow">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
-<!ENTITY options.toolNotSupported.label  "* Za aktualny zaměr gratoweho kašćika njepodpěrany">
+<!ENTITY options.toolNotSupported.label  "* Za aktualny zaměr gratow njepodpěrany">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -135,11 +135,6 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Časowe kołki zmóžnić">
 <!ENTITY options.timestampMessages.tooltip    "Jeli tute nastajenje zmóžniš, přikazy a wudaće we webkonsoli časowy kołk pokazuja">
-
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Podobne powěsće zeskupić">
-<!ENTITY options.warningGroups.tooltip    "Hdyž to je zmóžnjene, so podobne powěsće do skupinow zaměstnjeja">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
