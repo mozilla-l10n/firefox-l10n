@@ -88,7 +88,7 @@ abuse-report-policy-reason-v2 = 증오, 폭력 또는 불법 콘텐츠가 포함
 abuse-report-policy-suggestions =
     참고: 저작권 및 상표권 문제는 별도의 절차로 보고해야합니다.
     문제를 보고하려면 <a data-l10n-name="report-infringement-link">이 지침을 사용하세요</a>.
-abuse-report-unwanted-reason = 이런 확장 기능을 원하지 않았고 제거 할 수 없습니다
+abuse-report-unwanted-reason = 이 확장 기능을 원하지 않았고 제거 할 수도 없습니다
 abuse-report-unwanted-reason-v2 = 내가 원한것도 아니고 제거하는 방법도 모르겠습니다
 abuse-report-unwanted-example = 예: 내 허가 없이 응용 프로그램이 설치됐습니다
 abuse-report-other-reason = 그 밖의 다른 것
