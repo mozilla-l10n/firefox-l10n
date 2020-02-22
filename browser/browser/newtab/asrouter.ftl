@@ -119,6 +119,10 @@ cfr-whatsnew-lockwise-take-title = Ia-ți parolele cu tine
 cfr-whatsnew-lockwise-take-body = Aplicația pentru dispozitive mobile { -lockwise-brand-short-name } îți permite să îți accesezi în siguranță parolele cărora le-ai făcut backup, oriunde te-ai afla.
 cfr-whatsnew-lockwise-take-link-text = Obține aplicația
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Pictogramă lupă
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Urmărești videoclipuri în timp ce navighezi

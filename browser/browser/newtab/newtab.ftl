@@ -182,6 +182,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Aproape că am încă
 newtab-pocket-read-more = Subiecte populare:
 newtab-pocket-more-recommendations = Mai multe recomandări
 newtab-pocket-whats-pocket = Ce este { -pocket-brand-name }?
+newtab-pocket-learn-more = Află mai multe
 newtab-pocket-cta-button = Obține { -pocket-brand-name }
 newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
 
