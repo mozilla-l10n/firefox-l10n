@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Contact în agendă…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Deschide">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "Salvează ca">
