@@ -307,7 +307,7 @@ about-debugging-main-process-name = Hłowny proces
 about-debugging-main-process-description2 = Hłowny proces za cilowy wobhladowak
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
-about-debugging-multiprocess-toolbox-name = Multiprocesowy gratowy kašćik
+about-debugging-multiprocess-toolbox-name = Multiprocesowe graty
 # Description for the Multiprocess Toolbox target.
 about-debugging-multiprocess-toolbox-description = Hłowny proces a wobsahowe procesy za cilowy wobhladowak
 # Alt text used for the close icon of message component (warnings, errors and notifications).
