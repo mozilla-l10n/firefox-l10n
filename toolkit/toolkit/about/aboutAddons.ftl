@@ -34,9 +34,9 @@ preferences =
 tools-menu =
     .tooltiptext = 부가 기능 도구
 show-unsigned-extensions-button =
-    .label = 몇몇 확장기능은 확인을 할 수 없음
+    .label = 몇몇 확장 기능은 확인을 할 수 없음
 show-all-extensions-button =
-    .label = 모든 확장기능 보기
+    .label = 모든 확장 기능 보기
 debug-addons =
     .label = 부가 기능 디버그
     .accesskey = B
@@ -98,12 +98,12 @@ detail-private-browsing-description2 = 허용되면, 확장 기능은 사생활 
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = 사생활 보호 창에서 허용 안 됨
-detail-private-disallowed-description = 이 확장기능은 사생활 보호 모드에서는 실행되지 않습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
-detail-private-disallowed-description2 = 이 확장기능은 사생활 보호 모드에서는 실행되지 않습니다. <a data-l10n-name="learn-more">더 알아보기</a>
+detail-private-disallowed-description = 이 확장 기능은 사생활 보호 모드에서는 실행되지 않습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
+detail-private-disallowed-description2 = 이 확장 기능은 사생활 보호 모드에서는 실행되지 않습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = 사생활 보호 창에 대한 접근 필요
-detail-private-required-description = 이 확장기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
-detail-private-required-description2 = 이 확장기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
+detail-private-required-description = 이 확장 기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
+detail-private-required-description2 = 이 확장 기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 detail-private-browsing-on =
     .label = 허용
     .tooltiptext = 사생활 보호 모드에서 사용
@@ -268,16 +268,16 @@ addon-open-about-debugging = 부가 기능 디버그
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
-    .label = 확장기능 단축키 관리
+    .label = 확장 기능 단축키 관리
     .accesskey = S
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = 확장기능 단축키 관리
+addon-manage-extensions-shortcuts = 확장 기능 단축키 관리
     .accesskey = S
-shortcuts-no-addons = 활성화된 확장기능이 없습니다.
-shortcuts-no-commands = 다음 확장기능에는 단축키가 없습니다:
+shortcuts-no-addons = 활성화된 확장 기능이 없습니다.
+shortcuts-no-commands = 다음 확장 기능에는 단축키가 없습니다:
 shortcuts-input =
     .placeholder = 단축키 입력
-shortcuts-browserAction = 확장기능 활성화
+shortcuts-browserAction = 확장 기능 활성화
 shortcuts-pageAction = 페이지 작업 활성화
 shortcuts-sidebarAction = 탐색창 표시/숨기기
 shortcuts-modifier-mac = Ctrl, Alt 또는 ⌘ 포함
@@ -307,9 +307,9 @@ go-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = 확장기능 및 테마는 브라우저 앱과 비슷하며, 비밀번호 보호, 동영상 다운로드, 거래 찾기, 성가신 광고 차단, 브라우저가 어떻게 보이는지 변경 등을 할 수 있도록 합니다. 이 작은 소프트웨어 프로그램은 보통 제3자에 의해 개발됩니다. 다음은 탁월한 보안, 성능 및 기능을 위해 { -brand-product-name }가 <a data-l10n-name="learn-more-trigger">추천하는</a> 목록입니다.
+discopane-intro = 확장 기능 및 테마는 브라우저 앱과 비슷하며, 비밀번호 보호, 동영상 다운로드, 거래 찾기, 성가신 광고 차단, 브라우저가 어떻게 보이는지 변경 등을 할 수 있도록 합니다. 이 작은 소프트웨어 프로그램은 보통 제3자에 의해 개발됩니다. 다음은 탁월한 보안, 성능 및 기능을 위해 { -brand-product-name }가 <a data-l10n-name="learn-more-trigger">추천하는</a> 목록입니다.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = 이러한 추천 중 일부는 개인화된 것입니다. 설치한 다른 확장기능, 프로필 설정 및 사용 통계를 기반으로 합니다.
+discopane-notice-recommendations = 이러한 추천 중 일부는 개인화된 것입니다. 설치한 다른 확장 기능, 프로필 설정 및 사용 통계를 기반으로 합니다.
 discopane-notice-learn-more = 더 알아보기
 privacy-policy = 개인 정보 보호 정책
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -410,7 +410,7 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = 사생활 보호 창에서 허용됨
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = 허용된 경우, 확장기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
+addon-detail-private-browsing-help = 허용된 경우, 확장 기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용 안 함
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -421,14 +421,14 @@ addon-badge-recommended =
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =
-    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장기능만 추천합니다
+    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천합니다
     .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = 업데이트 가능 항목
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 읽는 중…
 release-notes-error = 죄송합니다. 출시 정보를 읽어오는 중에 오류가 발생했습니다.
 addon-permissions-empty = 이 확장 기능에는 권한이 필요하지 않습니다.
-recommended-extensions-heading = 추천 확장기능
+recommended-extensions-heading = 추천 확장 기능
 recommended-themes-heading = 추천 테마
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -436,16 +436,16 @@ recommended-theme-1 = 창의적인 느낌이 떠오르십니까? <a data-l10n-na
 
 ## Page headings
 
-extension-heading = 확장기능 관리
+extension-heading = 확장 기능 관리
 theme-heading = 테마 관리
 plugin-heading = 플러그인 관리
 dictionary-heading = 사전 관리
 locale-heading = 언어 관리
 updates-heading = 업데이트 관리
 discover-heading = { -brand-short-name } 개인화
-shortcuts-heading = 확장기능 단축키 관리
+shortcuts-heading = 확장 기능 단축키 관리
 theme-heading-search-label = 더 많은 테마 찾기
-extension-heading-search-label = 더 많은 확장기능 찾기
+extension-heading-search-label = 더 많은 확장 기능 찾기
 default-heading-search-label = 더 많은 부가 기능 찾기
 addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색
