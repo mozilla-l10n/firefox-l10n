@@ -117,15 +117,37 @@ cfr-whatsnew-tracking-blocked-title =
         [few] tracaichean air am bacadh
        *[other] tracaiche air am bacadh
     }
+cfr-whatsnew-tracking-blocked-subtitle = A-mach o { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Seall an aithisg
+cfr-whatsnew-lockwise-backup-title = Dèan lethbhreac-glèidhidh dhe na faclan-faire agad
+cfr-whatsnew-lockwise-backup-body = Gin faclan-faire tèarainte a-nis as urrainn dhut cleachdadh àite sam bith far an clàraich thu a-steach.
+cfr-whatsnew-lockwise-backup-link-text = Cuir na lethbhreacan-glèidhidh air
+cfr-whatsnew-lockwise-take-title = Thoir leat na faclan-faire agad
+cfr-whatsnew-lockwise-take-body =
+    Bheir an aplacaid mobile { -lockwise-brand-short-name } cothrom tèarainte dhut
+    air na faclan-faire a rinn thu lethbhreac-glèidhidh dhiubh ge be càit am bi thu.
+cfr-whatsnew-lockwise-take-link-text = Faigh an aplacaid
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Faigh lorg air rudan nas luaithe le nas lugha de sgrìobhadh le bàr an t-seolaidh
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Ruig na làraichean a chleachdas tu gu tric le aon bhriogadh ann am bàr an t-seòlaidh. Faigh lorg air rudan nas luaithe le toraidhean o { $searchEngineName } agus on eachdraidh bhrabhsaidh agad.
+cfr-whatsnew-searchbar-body-generic = Ruig na làraichean a chleachdas tu gu tric le aon bhriogadh ann am bàr an t-seòlaidh. Faigh lorg air rudan nas luaithe le toraidhean luirg on eachdraidh bhrabhsaidh agad.
+cfr-whatsnew-searchbar-icon-alt-text = Ìomhaigheag na glainne-mheudachaidh
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Coimhead air videothan fhad ’s a nì thu brabhsadh
+cfr-whatsnew-pip-body = Cuiridh an gleus “Dealbh am broinn deilbh” videothan ann an uinneag air fleod ach an urrainn dhut coimhead air fhad ’s a nì thu obair sna tabaichean eile.
+cfr-whatsnew-pip-cta = Barrachd fiosrachaidh
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Nas lugha de phriob-uinneagan a bhriseas a-steach ort air làraichean
+cfr-whatsnew-permission-prompt-body = Cumaidh { -brand-shorter-name } làraichean o bhith a’ cur teachdaireachdan fèin-obrachail ann am priob-uinneagan thugad a-nis.
+cfr-whatsnew-permission-prompt-cta = Barrachd fiosrachaidh
 
 ## Fingerprinter Counter
 
