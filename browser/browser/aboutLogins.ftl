@@ -6,11 +6,19 @@ about-logins-page-title = Clàraidhean a-steach ⁊ faclan-faire
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Thoir leat na faclan-faire agad ge be càit an dèid thu
+login-app-promo-subtitle = Faigh aplacaid { -lockwise-brand-name } an-asgaidh
+login-app-promo-android =
+    .alt = Faigh e air Google Play
+login-app-promo-apple =
+    .alt = Luchdaich a-nuas e on App Store
 login-filter =
     .placeholder = Lorg sna clàraidhean a-steach
 create-login-button = Cruthaich clàradh a-steach ùr
 fxaccounts-sign-in-text = Faigh cothrom air na faclan-faire agad air uidheaman eile
 fxaccounts-sign-in-button = Clàraich a-steach gu { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Stiùirich an cunntas
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -23,6 +31,7 @@ menu-menuitem-preferences =
         [windows] Roghainnean
        *[other] Roghainnean
     }
+about-logins-menu-menuitem-help = Cobhair
 menu-menuitem-android-app = { -lockwise-brand-short-name } airson Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } airson iPhone agus iPad
 
@@ -39,37 +48,46 @@ login-list-count =
     }
 login-list-sort-label-text = Seòrsaich a-rèir:
 login-list-name-option = Ainm (A-Z)
+login-list-name-reverse-option = Ainm (Z-A)
+login-list-breached-option = Làraichean-lìn air an deach briseadh a-steach
 login-list-last-changed-option = Atharrachadh mu dheireadh
 login-list-last-used-option = Cleachdadh mu dheireadh
 login-list-intro-title = Cha deach clàradh a-steach a lorg
 login-list-intro-description = Nuair a shàbhaileas tu facal-faire ann an { -brand-product-name }, nochdaidh e an-seo.
+about-logins-login-list-empty-search-title = Cha deach clàradh a-steach a lorg
+about-logins-login-list-empty-search-description = Chan eil toradh ann a tha a’ freagairt ris na lorg thu.
 login-list-item-title-new-login = Clàradh a-steach ùr
 login-list-item-subtitle-new-login = Cuir a-steach an t-ainm is facal-faire agad
 login-list-item-subtitle-missing-username = (gun ainm-cleachdaiche)
+about-logins-list-item-breach-icon =
+    .title = Làrach-lìn air an deach briseadh a-steach
 
 ## Introduction screen
 
 login-intro-heading = A’ lorg nan clàraidhean a-steach a shàbhail thu? Suidhich { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Cha deach clàradh a-steach sioncronaichte a lorg.
 login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
 login-intro-instruction-fxa = Cruthaich { -fxaccount-brand-name } no clàraich a-steach dha air an uidheam far an deach na clàraidhean a-steach agad a shàbhaladh
 login-intro-instruction-fxa-settings = Dèan cinnteach gu bheil cromag ann am bogsa nan clàraidhean a-steach ann an roghainnean { -sync-brand-short-name }
+about-logins-intro-instruction-help = Tadhail air <a data-l10n-name="help-link">Taic { -lockwise-brand-short-name }</a> airson cobhair
+about-logins-intro-import = Ma shàbhail thu na clàraidhean a-steach agad ann am brabhsair eile, ’s urrainn dhut <a data-l10n-name="import-link">an ion-phortadh gu { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Cruthaich clàradh a-steach ùr
 login-item-edit-button = Deasaich
-login-item-delete-button = Sguab às
+about-logins-login-item-remove-button = Thoir air falbh
 login-item-origin-label = Seòladh na làraich-lìn
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ainm-cleachdaiche
+about-logins-login-item-username =
+    .placeholder = (gun ainm-cleachdaiche)
 login-item-copy-username-button-text = Lethbhreac
 login-item-copied-username-button-text = Lethbhreac air a dhèanamh!
 login-item-password-label = Facal-faire
-login-item-password-reveal-checkbox-show =
-    .title = Seall am facal-faire
-login-item-password-reveal-checkbox-hide =
-    .title = Falaich am facal-faire
+login-item-password-reveal-checkbox =
+    .aria-label = Seall am facal-faire
 login-item-copy-password-button-text = Lethbhreac
 login-item-copied-password-button-text = Lethbhreac air a dhèanamh!
 login-item-save-changes-button = Sàbhail na h-atharraichean
@@ -86,11 +104,8 @@ master-password-reload-button =
     .label = Clàraich a-steach
     .accesskey = l
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Sguir dheth
-confirmation-dialog-dismiss-button =
-    .title = Sguir dheth
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] A bheil thu ag iarraidh nan clàraidhean a-steach àite sam bith a chleachdas tu { -brand-product-name }? Tadhail air roghainnean { -sync-brand-short-name } is cuir cromag sa bhogsa “Clàraidhean a-steach”.
@@ -103,9 +118,18 @@ enable-password-sync-preferences-button =
            *[other] Tadhail air roghainnean { -sync-brand-short-name }
         }
     .accesskey = T
-confirm-delete-dialog-title = A bheil thu airson an clàradh a-steach seo a sguabadh às?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Na faighnich dhìom a-rithist
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Sguir dheth
+confirmation-dialog-dismiss-button =
+    .title = Sguir dheth
+about-logins-confirm-remove-dialog-title = A bheil thu airson an clàradh a-steach seo a thoirt air falbh?
 confirm-delete-dialog-message = Cha ghabh seo a neo-dhèanamh.
-confirm-delete-dialog-confirm-button = Sguab às
+about-logins-confirm-remove-dialog-confirm-button = Thoir air falbh
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
 confirm-discard-changes-dialog-message = Thèid gach atharrachadh gun sàbhaladh air chall.
 confirm-discard-changes-dialog-confirm-button = Tilg air falbh
