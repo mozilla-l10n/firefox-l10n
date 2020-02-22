@@ -229,7 +229,7 @@ main-context-menu-video-save-as =
     .label = 名前を付けて動画を保存...
     .accesskey = v
 main-context-menu-audio-save-as =
-    .label = 名前を付けてオーディオを保存...
+    .label = 名前を付けて音声を保存...
     .accesskey = v
 main-context-menu-video-image-save-as =
     .label = スナップショットを保存...
@@ -255,6 +255,11 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = 背景画像だけを表示
     .accesskey = w
+
+main-context-menu-generate-new-password =
+    .label = 生成パスワードを使う...
+    .accesskey = G
+
 main-context-menu-keyword =
     .label = この検索にキーワードを設定...
     .accesskey = K
