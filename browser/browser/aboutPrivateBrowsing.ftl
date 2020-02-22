@@ -26,3 +26,15 @@ about-private-browsing-not-private = Chan eil thu ann an uinneag phrìobhaideach
 content-blocking-title = Bacadh susbaint
 content-blocking-description = Cleachdaidh cuid a làraichean-lìn tracaichean a chumas sùil air do ghnìomhachd air feadh an eadar-lìn. Ann an uinneagan prìobhaideach, bacaidh an gleus bacadh susbaint aig { -brand-short-name } tracaichean gu fèin-obrachail a chruinnicheas fiosrachadh mun bhrabhsadh a nì thu.
 about-private-browsing-info-description = Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dh’fhàgas tu an aplacaid no nuair a dhùineas tu gach taba agus uinneag ann am brabhsadh prìobhaideach. Fhad ’s nach cuir seo am falach cò thusa mu choinneamh làraichean-lìn no solaraiche nan seirbheisean-lìn agad, cumaidh e na nì thu air loidhne am falach o dhaoine eile a chleachdas an coimpiutair seo.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = ’S e { $engineName } an t-einnsean-luirg làithreach agad ann an uinneagan prìobhaideach
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Airson einnsean-luirg eile a thaghadh, tadhail air na <a data-l10n-name="link-options">Roghainnean</a>
+       *[other] Airson einnsean-luirg eile a thaghadh, tadhail air na <a data-l10n-name="link-options">Roghainnean</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Dùin
