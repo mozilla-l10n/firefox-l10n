@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Рекомендуемое расширени
 cfr-doorhanger-feature-heading = Рекомендуемая функция
 cfr-doorhanger-pintab-heading = Попробуйте: Закрепление вкладок
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Почему я это вижу
@@ -120,6 +120,10 @@ cfr-whatsnew-lockwise-backup-link-text = Включить резервные к�
 cfr-whatsnew-lockwise-take-title = Возьмите свои пароли с собой
 cfr-whatsnew-lockwise-take-body = Приложение { -lockwise-brand-short-name } предоставляет вам безопасный доступ к резервным копиям паролей из любой точки мира.
 cfr-whatsnew-lockwise-take-link-text = Загрузить приложение
+
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Значок увеличительного стекла
 
 ## Picture-in-Picture
 
