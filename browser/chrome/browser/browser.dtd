@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "о">
 <!ENTITY exitFullScreenCmd.label "Выйти из полноэкранного режима">
 <!ENTITY exitFullScreenCmd.accesskey "о">
+
 <!ENTITY fullScreenCmd.label "Полный экран">
 <!ENTITY fullScreenCmd.accesskey "э">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Настройки Аккаунта">
 <!ENTITY fxa.menu.manageAccount2.label "Управление Аккаунтом">
 <!ENTITY fxa.menu.signOut.label "Выйти…">
-<!ENTITY fxa.menu.deviceSettings.label "Настройки устройства">
 <!ENTITY fxa.menu.setupSync.label "Настроить синхронизацию…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "н">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Перейти по введённому адресу">
 <!ENTITY printButton.label            "Печать">
 <!ENTITY printButton.tooltip          "Распечатать эту страницу">
@@ -476,7 +477,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "к">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Открепить от расширенного меню">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "п">
-<!ENTITY customizeMenu.removeFromToolbar.label "Удалить с панели инструментов">
+<!ENTITY customizeMenu.removeFromToolbar.label "Убрать с панели инструментов">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "и">
 <!ENTITY customizeMenu.addMoreItems.label "Добавить элементы…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "о">
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Ещё">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Введите поисковый запрос или адрес">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Добавить фрейм в закладки">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "б">
+
 <!ENTITY pageAction.copyLink.label    "Копировать ссылку">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Отправить ссылку по почте…">
 <!ENTITY emailPageCmd.accesskey       "п">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Сохранить как…">
 <!ENTITY savePageCmd.accesskey        "х">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "р">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
