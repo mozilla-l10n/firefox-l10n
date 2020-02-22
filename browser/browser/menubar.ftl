@@ -256,10 +256,10 @@ menu-help-feedback-page =
     .label = 의견 보내기…
     .accesskey = S
 menu-help-safe-mode-without-addons =
-    .label = 부가기능을 끄고 다시 시작…
+    .label = 부가 기능을 끄고 다시 시작…
     .accesskey = R
 menu-help-safe-mode-with-addons =
-    .label = 부가기능을 켜고 다시 시작
+    .label = 부가 기능을 켜고 다시 시작
     .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

@@ -24,9 +24,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "키보드 단축키">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "부가기능을 끄고 다시 시작…">
+<!ENTITY helpSafeMode.label       "부가 기능을 끄고 다시 시작…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "부가기능을 켜고 다시 시작">
+<!ENTITY helpSafeMode.stop.label       "부가 기능을 켜고 다시 시작">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "문제 해결 정보…">

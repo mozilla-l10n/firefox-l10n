@@ -79,7 +79,7 @@ detail-last-updated =
     .label = 마지막 업데이트
 detail-contributions-description = 이 부가 기능 개발자에게 작은 도움을 통해 개발이 지속될 수 있도록 지원할 수 있습니다.
 detail-contributions-button = 공헌하기
-    .title = 이 부가기능의 개발에 기여합니다
+    .title = 이 부가 기능의 개발에 기여합니다
     .accesskey = C
 detail-update-type =
     .value = 자동 업데이트
@@ -121,7 +121,7 @@ detail-repository-value =
 detail-check-for-updates =
     .label = 업데이트 확인
     .accesskey = U
-    .tooltiptext = 이 부가기능 업데이트 확인
+    .tooltiptext = 이 부가 기능 업데이트 확인
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -144,9 +144,9 @@ addon-restart-now =
     .label = 다시 시작
 disabled-unsigned-heading =
     .value = 몇몇 부가 기능이 비활성화 됨
-disabled-unsigned-description = 다음 부가기능은 { -brand-short-name }에서의 사용이 확인되지 않았습니다. <label data-l10n-name="find-addons">대체제를 검색</label>하거나 개발자가 확인을 받도록 요청할 수 있습니다.
+disabled-unsigned-description = 다음 부가 기능은 { -brand-short-name }에서의 사용이 확인되지 않았습니다. <label data-l10n-name="find-addons">대체제를 검색</label>하거나 개발자가 확인을 받도록 요청할 수 있습니다.
 disabled-unsigned-learn-more = 사용자가 온라인에서 안전할 수 있게 노력하는 내용에 대해서 더 알아보세요.
-disabled-unsigned-devinfo = 부가기능을 확인하는데 관심이 있는 개발자는 <label data-l10n-name="learn-more">메뉴얼</label>을 읽어보세요.
+disabled-unsigned-devinfo = 부가 기능을 확인하는데 관심이 있는 개발자는 <label data-l10n-name="learn-more">메뉴얼</label>을 읽어보세요.
 plugin-deprecation-description = 빠진게 있습니까? 어떤 플러그인은 { -brand-short-name }에서 더이상 지원하지 않습니다. <label data-l10n-name="learn-more">더 알아보기.</label>
 legacy-warning-show-legacy = 레거시 확장 기능 보기
 legacy-extensions =
@@ -212,9 +212,9 @@ addon-updates-view-updates = 최근 업데이트 보기
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
-    .label = 부가기능을 자동으로 업데이트
+    .label = 부가 기능을 자동으로 업데이트
     .accesskey = A
-addon-updates-update-addons-automatically = 부가기능을 자동으로 업데이트
+addon-updates-update-addons-automatically = 부가 기능을 자동으로 업데이트
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -224,14 +224,14 @@ addon-updates-update-addons-automatically = 부가기능을 자동으로 업데�
 ## extensions-updates-update-addons-automatically.label menu item).
 
 extensions-updates-reset-updates-to-automatic =
-    .label = 모든 부가기능을 자동 업데이트로 재설정
+    .label = 모든 부가 기능을 자동 업데이트로 재설정
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
-    .label = 모든 부가기능을 수동 업데이트로 재설정
+    .label = 모든 부가 기능을 수동 업데이트로 재설정
     .accesskey = R
-addon-updates-reset-updates-to-automatic = 모든 부가기능을 자동 업데이트로 재설정
+addon-updates-reset-updates-to-automatic = 모든 부가 기능을 자동 업데이트로 재설정
     .accesskey = R
-addon-updates-reset-updates-to-manual = 모든 부가기능을 수동 업데이트로 재설정
+addon-updates-reset-updates-to-manual = 모든 부가 기능을 수동 업데이트로 재설정
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -325,7 +325,7 @@ install-theme-button = 테마 설치하기
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = 관리
-find-more-addons = 더 많은 부가기능 찾기
+find-more-addons = 더 많은 부가 기능 찾기
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -446,7 +446,7 @@ discover-heading = { -brand-short-name } 개인화
 shortcuts-heading = 확장기능 단축키 관리
 theme-heading-search-label = 더 많은 테마 찾기
 extension-heading-search-label = 더 많은 확장기능 찾기
-default-heading-search-label = 더 많은 부가기능 찾기
+default-heading-search-label = 더 많은 부가 기능 찾기
 addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색
 addon-page-options-button =

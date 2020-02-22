@@ -78,25 +78,25 @@ restart-later = 나중에 다시 시작
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 확장기능이 홈페이지를 제어하고 있습니다.
+extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 확장 기능이 홈페이지를 제어하고 있습니다.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } 확장기능이 새 탭 페이지를 제어하고 있습니다.
+extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } 확장 기능이 새 탭 페이지를 제어하고 있습니다.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } 확장기능이 이 설정을 제어하고 있습니다.
+extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } 확장 기능이 이 설정을 제어하고 있습니다.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } 확장기능이 기본 검색 엔진을 설정했습니다.
+extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } 확장 기능이 기본 검색 엔진을 설정했습니다.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } 확장기능에는 컨테이너 탭이 필요합니다.
+extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } 확장 기능에는 컨테이너 탭이 필요합니다.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name } 확장기능이 이 설정을 제어하고 있습니다.
+extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name } 확장 기능이 이 설정을 제어하고 있습니다.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } 확장기능이 { -brand-short-name }가 인터넷에 접근하는 방법을 제어하고 있습니다.
+extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } 확장 기능이 { -brand-short-name }가 인터넷에 접근하는 방법을 제어하고 있습니다.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -139,7 +139,7 @@ startup-restore-previous-session =
 startup-restore-warn-on-quit =
     .label = 브라우저 종료시 경고
 disable-extension =
-    .label = 확장기능 비활성화
+    .label = 확장 기능 비활성화
 tabs-group-header = 탭
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab으로 최근 사용한 순서대로 탭 순환
@@ -579,7 +579,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = 웹과 함께 하세요.
-sync-signedout-description = 북마크, 방문 기록, 탭, 비밀번호, 부가기능, 설정을 모든 기기에 걸쳐 동기화 하세요.
+sync-signedout-description = 북마크, 방문 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화 하세요.
 sync-signedout-account-title = { -fxaccount-brand-name }과 연결
 sync-signedout-account-create = 계정이 없으신가요? 시작하세요
     .accesskey = C
@@ -635,7 +635,7 @@ prefs-syncing-off = 동기화 : 꺼짐
 prefs-sync-setup =
     .label = { -sync-brand-short-name } 설정…
     .accesskey = S
-prefs-sync-offer-setup-label = 북마크, 방문 기록, 탭, 비밀번호, 부가기능 및 설정을 모든 기기에 걸쳐 동기화하세요.
+prefs-sync-offer-setup-label = 북마크, 방문 기록, 탭, 비밀번호, 부가 기능 및 설정을 모든 기기에 걸쳐 동기화하세요.
 prefs-sync-now =
     .labelnotsyncing = 지금 동기화
     .accesskeynotsyncing = N

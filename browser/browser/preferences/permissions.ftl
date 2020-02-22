@@ -96,7 +96,7 @@ permissions-exceptions-saved-logins-desc = 다음 웹사이트의 로그인이 �
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = 웹사이트 허용 - 부가기능 설치
+    .title = 웹사이트 허용 - 부가 기능 설치
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹 사이트를 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 누르세요.
 

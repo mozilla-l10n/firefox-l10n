@@ -224,7 +224,7 @@ about-debugging-debug-target-list-empty = 아직 없습니다.
 about-debugging-debug-target-inspect-button = 검사
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
-about-debugging-tmp-extension-install-button = 임시 부가기능 로드…
+about-debugging-tmp-extension-install-button = 임시 부가 기능 로드…
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
 about-debugging-tmp-extension-install-error = 임시 부가 기능을 설치하는 동안 오류가 발생했습니다.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.

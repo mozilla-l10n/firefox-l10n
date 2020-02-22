@@ -5,7 +5,7 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = 추천 확장기능
+cfr-doorhanger-extension-heading = 추천 확장 기능
 cfr-doorhanger-feature-heading = 추천 기능
 cfr-doorhanger-pintab-heading = 사용해보기: 탭 고정
 
@@ -32,8 +32,8 @@ cfr-doorhanger-extension-author = { $name } 제작
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 추천
 cfr-doorhanger-extension-notification2 = 추천
-    .tooltiptext = 확장기능 추천
-    .a11y-announcement = 확장기능 추천 사용 가능
+    .tooltiptext = 확장 기능 추천
+    .a11y-announcement = 확장 기능 추천 사용 가능
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 추천
