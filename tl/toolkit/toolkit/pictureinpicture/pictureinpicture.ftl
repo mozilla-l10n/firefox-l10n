@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = I-mute
 pictureinpicture-unmute =
     .aria-label = I-unmute
+pictureinpicture-close =
+    .aria-label = Isara

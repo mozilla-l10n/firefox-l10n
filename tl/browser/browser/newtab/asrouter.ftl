@@ -116,6 +116,10 @@ cfr-whatsnew-lockwise-take-title = Dalhin kahit saan ang iyong mga password
 cfr-whatsnew-lockwise-take-body = Hinahayaan ka ng { -lockwise-brand-short-name } mobile app na ligtas na ma-access kahit saan ang iyong mga naka-backup na mga password.
 cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Magnifying glass icon
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Manood ng mga video habang ikaw ay nagba-browse
