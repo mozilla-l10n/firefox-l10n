@@ -84,7 +84,7 @@ permissions-exceptions-cookie-desc = 웹사이트별로 쿠키나 사이트 데�
 permissions-exceptions-popup-window =
     .title = 웹사이트 허용 - 팝업
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = 특정 웹 사이트에 대한 팝업창 허용을 설정할 수 있습니다. 정확한 주소를 입력한 후 허용을 누르세요.
+permissions-exceptions-popup-desc = 팝업 창을 열 수 있는 웹 사이트를 지정할 수 있습니다. 허용하려는 사이트의 정확한 주소를 입력한 후 허용을 누르세요.
 
 ## Exceptions - Saved Logins
 
