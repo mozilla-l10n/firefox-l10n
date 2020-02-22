@@ -17,6 +17,7 @@ policy-BlockAboutConfig = Blòca l’accès a la pagina about:config.
 policy-BlockAboutProfiles = Blòca l’accès a la pagina about:profiles.
 policy-BlockAboutSupport = Blòca l’accès a la pagina about:support.
 policy-Bookmarks = Permet de crear de marcapaginas dins la barra personala, lo menú dels marcapaginas o un dels jos-dorsièrs.
+policy-CaptivePortal = Activar o desactivar lo portanèl de connexion.
 policy-CertificatesDescription = Apondre de certificats o utilizar de certificats predefinits.
 policy-Cookies = Permet o defend als sites de definir de cookies.
 policy-DefaultDownloadDirectory = Definir lo dorsièr de telecargament per defaut
