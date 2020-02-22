@@ -9,6 +9,7 @@ forward = 進む
 reload = 再読み込み
 home = ホーム
 fullscreen = 全画面表示
+touchbar-fullscreen-exit = 全画面表示を終了
 find = 検索
 new-tab = 新しいタブ
 add-bookmark = ブックマークに追加
