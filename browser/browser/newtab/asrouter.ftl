@@ -84,13 +84,39 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Dèan brabhsadh gun daoine a’ cumail sùil ort
+cfr-protections-panel-body = Cùm an dàta agad agad fhèin. Dìonaidh { -brand-short-name } thu o mhòran dhe na tracaichean as cumanta a leanas mun cuairt thu air an lìon.
+cfr-protections-panel-link-text = Barrachd fiosrachaidh
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Gleus ùr:
 cfr-whatsnew-button =
     .label = Na tha ùr
     .tooltiptext = Na tha ùr
 cfr-whatsnew-panel-header = Na tha ùr
+cfr-whatsnew-release-notes-link-text = Leugh na nòtaichean sgaoilidh
+cfr-whatsnew-fx70-title = Tha { -brand-short-name } a’ strì nas cruaidhe airson do phrìobhaideachd a-nis
+cfr-whatsnew-fx70-body =
+    Tha an t-ùrachadh seo a’ cur spionnadh sa ghleus a dhìonas o thracadh thu agus
+    nì e fiù nas fhasa e faclan-faire tèarainte a chruthachadh airson gach làrach.
+cfr-whatsnew-tracking-protect-title = Dìon thu fhèin o thracaichean
+cfr-whatsnew-tracking-protect-body =
+    Bacaidh { -brand-short-name } mòran dhe na tracaichean cumanta a leanas riut
+    air feadh làraichean agus nam meadhanan sòisealta.
+cfr-whatsnew-tracking-protect-link-text = Seall an aithisg agad
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] tracaiche air a bhacadh
+        [two] thracaiche air a bhacadh
+        [few] tracaichean air am bacadh
+       *[other] tracaiche air am bacadh
+    }
 
 ## Search Bar
 
