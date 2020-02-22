@@ -95,7 +95,7 @@
 <!ENTITY inadequateSecurityError.title "연결이 안전하지 않음">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>가 사용하는 보안 기술은 오래되어서 공격에 노출될 수 있습니다. 안전하다고 생각된 정보가 공격자에 의해 쉽게 노출될 수 있습니다. 사이트를 방문하기 전에 웹사이트의 관리자가 서버를 고쳐야 합니다.</p><p>오류 코드: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>가 사용하는 보안 기술은 오래되어서 공격에 노출될 수 있습니다. 안전하다고 생각된 정보가 공격자에 의해 쉽게 노출될 수 있습니다. 사이트를 방문하기 전에 웹 사이트의 관리자가 서버를 고쳐야 합니다.</p><p>오류 코드: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "차단된 페이지">
 

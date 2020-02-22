@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = 의심스러운 사이트
-safeb-blocked-malware-page-title = 웹사이트 방문이 컴퓨터를 손상시킬 수 있음
+safeb-blocked-malware-page-title = 웹 사이트 방문이 컴퓨터를 손상시킬 수 있음
 safeb-blocked-unwanted-page-title = 방문하려는 사이트가 위험한 프로그램을 포함할 수 있음
 safeb-blocked-harmful-page-title = 방문하려는 사이트가 악성 코드를 포함할 수 있음
 safeb-blocked-phishing-page-short-desc = 소프트웨어를 설치하거나 비밀번호나 신용카드 정보와 같은 개인 정보가 들어날 수 있는 행동을 하도록 속일 수 있기 때문에 { -brand-short-name }가 이 페이지를 차단하였습니다.

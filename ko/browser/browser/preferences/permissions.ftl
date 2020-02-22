@@ -105,7 +105,7 @@ permissions-exceptions-addons-desc = 부가 기능을 설치 가능하도록 웹
 permissions-exceptions-autoplay-media-window2 =
     .title = 예외 - 자동 재생
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = 어떤 웹 사이트가 자동으로 소리가 있는 미디어를 항상 재생할지 안 할지를 설정할 수 있습니다. 관리할 웹사이트의 주소를 정확히 입력하고 차단이나 허용을 누르세요.
+permissions-exceptions-autoplay-media-desc2 = 어떤 웹 사이트가 자동으로 소리가 있는 미디어를 항상 재생할지 안 할지를 설정할 수 있습니다. 관리할 웹 사이트의 주소를 정확히 입력하고 차단이나 허용을 누르세요.
 
 ## Site Permissions - Autoplay
 

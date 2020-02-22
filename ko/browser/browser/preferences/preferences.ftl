@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = 웹사이트에 “방문자 추적 금지” 신호를 보내서 추적을 원하지 않는다고 알림
+do-not-track-description = 웹 사이트에 “방문자 추적 금지” 신호를 보내서 추적을 원하지 않는다고 알림
 do-not-track-learn-more = 더 알아보기
 do-not-track-option-default-content-blocking-known =
     .label = { -brand-short-name }가 알려진 추적기를 차단하도록 설정 됐을 때만
@@ -738,7 +738,7 @@ privacy-header = 브라우저 개인정보
 logins-header = 로그인과 비밀번호
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = 웹사이트의 로그인과 비밀번호를 기억할지 묻기
+    .label = 웹 사이트의 로그인과 비밀번호를 기억할지 묻기
     .accesskey = r
 forms-exceptions =
     .label = 예외 목록…
@@ -839,9 +839,9 @@ sitedata-option-block-cross-site-and-social-media-trackers =
 sitedata-option-block-unvisited =
     .label = 방문하지 않은 웹 사이트의 쿠키
 sitedata-option-block-all-third-party =
-    .label = 모든 제3자 쿠키 (웹사이트가 깨질 수 있음)
+    .label = 모든 제3자 쿠키 (웹 사이트가 깨질 수 있음)
 sitedata-option-block-all =
-    .label = 모든 쿠키(웹사이트가 깨질 수 있음)
+    .label = 모든 쿠키(웹 사이트가 깨질 수 있음)
 sitedata-clear =
     .label = 데이터 삭제…
     .accesskey = l
@@ -921,7 +921,7 @@ content-blocking-all-third-party-cookies = 모든 제3자 쿠키
 content-blocking-cryptominers = 크립토마이너
 content-blocking-fingerprinters = 핑거프린터
 content-blocking-warning-title = 조심하세요!
-content-blocking-warning-description = 콘텐츠를 차단하면 일부 웹사이트가 깨질 수 있습니다. 신뢰할 수 있는 사이트에 대한 차단은 쉽게 해제 할 수 있습니다.
+content-blocking-warning-description = 콘텐츠를 차단하면 일부 웹 사이트가 깨질 수 있습니다. 신뢰할 수 있는 사이트에 대한 차단은 쉽게 해제 할 수 있습니다.
 content-blocking-learn-how = 방법 알아보기
 content-blocking-etp-warning-description = 추적기 차단은 일부 사이트의 기능에 영향을 줄 수 있습니다. 모든 콘텐츠를 로드하려면 추적기가 있는 페이지를 다시 로드하세요.
 content-blocking-warning-learn-how = 방법 알아보기
@@ -991,7 +991,7 @@ permissions-notification-pause =
     .label = { -brand-short-name }가 다시 시작될 때까지 알림을 일시 중지
     .accesskey = n
 permissions-block-autoplay-media2 =
-    .label = 웹사이트가 자동으로 소리를 재생하는 것 차단
+    .label = 웹 사이트가 자동으로 소리를 재생하는 것 차단
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = 예외 목록…
@@ -1007,7 +1007,7 @@ permissions-block-popups-exceptions =
     .label = 예외 목록…
     .accesskey = E
 permissions-addon-install-warning =
-    .label = 웹사이트가 부가 기능을 설치하려 할 때 경고
+    .label = 웹 사이트가 부가 기능을 설치하려 할 때 경고
     .accesskey = W
 permissions-addon-exceptions =
     .label = 예외 목록…
@@ -1095,13 +1095,13 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 옵션 > 개인정보와 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
-       *[other] { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인정보와 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
+        [windows] { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 옵션 > 개인정보와 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
+       *[other] { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인정보와 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
     }
 space-alert-under-5gb-ok-button =
     .label = 확인
     .accesskey = K
-space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
+space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족합니다. 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
 
 ## The following strings are used in the Download section of settings
 
