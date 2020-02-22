@@ -25,6 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = 레벨 1 차단 목록 (권장).
-blocklist-item-moz-std-description = 일부 추적기를 허용하여 웹사이트 깨짐을 줄입니다.
+blocklist-item-moz-std-description = 일부 추적기를 허용하여 웹 사이트 깨짐을 줄입니다.
 blocklist-item-moz-full-listName = 레벨 2 차단 목록
 blocklist-item-moz-full-description = 탐지된 모든 추적기를 차단합니다. 일부 웹 사이트 또는 콘텐츠가 제대로 로드되지 않을 수 있습니다.
