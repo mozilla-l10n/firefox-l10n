@@ -16,6 +16,7 @@ auto-refresh = เรียกใหม่อัตโนมัติทุก 3
 hostname = ชื่อโฮสต์
 port = พอร์ต
 http2 = HTTP/2
+about-networking-http-version = รุ่น HTTP
 ssl = SSL
 active = ใช้งานอยู่
 idle = ว่าง
@@ -66,5 +67,5 @@ networkid-id = ID เครือข่าย
 networkid-isUp = ลิงก์ถูกเชื่อมต่อแล้ว
 networkid-statusKnown = ทราบสถานะลิงก์แล้ว
 
-
+##
 

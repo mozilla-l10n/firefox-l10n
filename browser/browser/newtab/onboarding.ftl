@@ -139,11 +139,13 @@ onboarding-lockwise-passwords-title = นำรหัสผ่านของค
 onboarding-lockwise-passwords-text2 = เก็บรหัสผ่านที่คุณบันทึกไว้อย่างปลอดภัยและเข้าสู่ระบบบัญชีของคุณได้อย่างง่ายดายด้วย { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = รับแอป
 onboarding-lockwise-strong-passwords-title = สร้างและจัดเก็บรหัสผ่านที่คาดเดายาก
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ช่วยสร้างรหัสผ่านที่คาดเดาได้ยากในทันทีและบันทึกรหัสผ่านทั้งหมดในที่เดียว
 onboarding-lockwise-strong-passwords-button = จัดการการเข้าสู่ระบบของคุณ
 onboarding-facebook-container-title = ตั้งค่าขอบเขตให้กับ Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } แยกโปรไฟล์ของคุณออกจากสิ่งอื่น ทำให้ Facebook ติดตามคุณทั่วทั้งเว็บได้ยาก
 onboarding-facebook-container-button = เพิ่มส่วนขยาย
 onboarding-import-browser-settings-title = นำเข้าที่คั่นหน้า, รหัสผ่าน, และอื่น ๆ
+onboarding-import-browser-settings-text = ลองใช้กันเลย นำไซต์และการตั้งค่า Chrome ของคุณไปกับคุณได้อย่างง่ายดาย
 onboarding-import-browser-settings-button = นำเข้าข้อมูล Chrome
 
 ## Message strings belonging to the Return to AMO flow
