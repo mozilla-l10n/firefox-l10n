@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "ข">
 <!ENTITY  newContactCmd.label "ผู้ติดต่อของสมุดรายชื่อ…">
 <!ENTITY  newContactCmd.accesskey "ผ">
+<!ENTITY openMenuCmd.label "เปิด">
+<!ENTITY openMenuCmd.accesskey "ป">
 <!ENTITY openMessageFileCmd.label "เปิดข้อความที่บันทึกไว้…">
 <!ENTITY openMessageFileCmd.accesskey "ป">
 <!ENTITY saveAsMenu.label "บันทึกเป็น">
@@ -580,6 +582,7 @@
 <!ENTITY fileButton.tooltip "นำข้อความที่เลือกไปยังจุดอื่น">
 <!ENTITY archiveButton.tooltip "เก็บถาวรข้อความที่เลือก">
 <!ENTITY openConversationButton.tooltip "แสดงการสนทนาของข้อความที่เลือก">
+<!ENTITY openMsgConversationButton.tooltip "แสดงการสนทนาของข้อความที่เลือก">
 <!ENTITY nextButton.tooltip "ย้ายไปยังข้อความที่ยังไม่ได้อ่านถัดไป">
 <!ENTITY nextMsgButton.tooltip "ย้ายไปยังข้อความถัดไป">
 <!ENTITY previousButton.tooltip "ย้ายไปยังข้อความที่ยังไม่ได้อ่านก่อนหน้า">
@@ -956,3 +959,5 @@
 <!ENTITY openAddressBookDock.label      "เปิดสมุดรายชื่อ">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "ย้อนกลับไปหนึ่งหน้า">
+<!ENTITY browseForwardButton.tooltip "เดินหน้าไปหนึ่งหน้า">
