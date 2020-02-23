@@ -16,7 +16,7 @@
 <!ENTITY copyCmd.label             "Kopyahin">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "c">
-<!ENTITY pasteCmd.label            "I-Paste">
+<!ENTITY pasteCmd.label            "i-Paste">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Burahin">
@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Piliin Lahat">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Hanapin">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "H">

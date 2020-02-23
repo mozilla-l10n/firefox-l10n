@@ -19,26 +19,26 @@ location-open-shortcut =
 location-open-shortcut-alt =
     .key = d
 search-focus-shortcut =
-    .key = k
+    .key = K
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
-    .key = f
+    .key = F
 search-find-again-shortcut =
-    .key = g
+    .key = G
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 search-find-selection-shortcut =
-    .key = e
+    .key = E
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 search-focus-shortcut-alt =
     .key =
         { PLATFORM() ->
-            [linux] j
-           *[other] e
+            [linux] J
+           *[other] E
         }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines

@@ -176,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Mga Account Setting">
 <!ENTITY fxa.menu.manageAccount2.label "Pamahalaan ang Account">
 <!ENTITY fxa.menu.signOut.label "Sign Out…">
-<!ENTITY fxa.menu.deviceSettings.label "Mga Device Setting">
 <!ENTITY fxa.menu.setupSync.label "Mag-Set Up ng &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -380,7 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.label            "Kopyahin">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "I-paste">
+<!ENTITY pasteCmd.label           "i-Paste">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "P">
 <!ENTITY deleteCmd.label          "Burahin">
@@ -648,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "i-Email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "I-save ang Pahina Bilang…">
 <!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">

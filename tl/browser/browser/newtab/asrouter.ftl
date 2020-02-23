@@ -118,6 +118,7 @@ cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Mag-type nang mas kaunti at maghanap nang mas marami sa address bar
 cfr-whatsnew-searchbar-icon-alt-text = Magnifying glass icon
 
 ## Picture-in-Picture

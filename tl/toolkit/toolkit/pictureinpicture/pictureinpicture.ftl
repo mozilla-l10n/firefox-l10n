@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = I-mute
 pictureinpicture-unmute =
     .aria-label = I-unmute
+pictureinpicture-unpip =
+    .aria-label = Ipadalang muli sa tab
 pictureinpicture-close =
     .aria-label = Isara
