@@ -21,7 +21,7 @@ about-config-intro-warning-button = 위험을 감수하고 계속
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = 이러한 설정을 변경하면 { -brand-short-name } 성능 또는 보안에 영향을 줄 수 있습니다.
+about-config-caution-text = 설정을 변경하면 { -brand-short-name } 성능 또는 보안에 영향을 줄 수 있습니다.
 about-config-page-title = 고급 설정
 about-config-search-input1 =
     .placeholder = 설정 이름 검색
