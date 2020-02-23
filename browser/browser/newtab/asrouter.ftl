@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Рэкамендаванае пашырэнн
 cfr-doorhanger-feature-heading = Рэкамендаваная функцыя
 cfr-doorhanger-pintab-heading = Паспрабуйце: Прышпіліць картку
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаму я гэта бачу
@@ -124,6 +124,15 @@ cfr-whatsnew-lockwise-take-body =
     Праграма { -lockwise-brand-short-name } на тэлефоне дазваляе бяспечна
     атрымліваць доступ до захаваных пароляў з любога месца.
 cfr-whatsnew-lockwise-take-link-text = Атрымаць праграму
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Уводзьце менш, знаходзьце больш з адрасным радком
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Адкрывайце найбольш папулярныя сайты адной пстрычкай мышы ў адрасным радку. Знаходзьце рэчы хутчэй з вынікамі з { $searchEngineName } і гісторыяй аглядання.
+cfr-whatsnew-searchbar-body-generic = Адкрывайце найбольш папулярныя сайты адной пстрычкай мышы ў адрасным радку. Знаходзьце рэчы хутчэй з вынікамі пошуку ў гісторыі аглядання.
+cfr-whatsnew-searchbar-icon-alt-text = Значок павелічальнага шкла
 
 ## Picture-in-Picture
 
