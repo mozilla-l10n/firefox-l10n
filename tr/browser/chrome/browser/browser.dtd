@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "T">
 <!ENTITY exitFullScreenCmd.label "Tam ekrandan çık">
 <!ENTITY exitFullScreenCmd.accesskey "T">
+
 <!ENTITY fullScreenCmd.label "Tam ekran">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,7 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Hesabınızı doğrulayın">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "*">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Küçült">
 <!ENTITY fullScreenRestore.tooltip "Geri getir">
@@ -174,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Hesap ayarları">
 <!ENTITY fxa.menu.manageAccount2.label "Hesabı yönet">
 <!ENTITY fxa.menu.signOut.label "Çıkış yap…">
-<!ENTITY fxa.menu.deviceSettings.label "Cihaz ayarları">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label;’i kur…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "D">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Konum çubuğundaki adrese git">
 <!ENTITY printButton.label            "Yazdır">
 <!ENTITY printButton.tooltip          "Bu sayfayı yazdır">
@@ -497,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Daha fazla">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Arama yapın veya adres yazın">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -630,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu çerçeveyi yer imlerine ekle">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Bağlantıyı kopyala">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -643,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-postayla gönder…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "f">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "f">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
