@@ -574,7 +574,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Dobrir lo ligam dins una fenèstra novèla">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Dobrir lo ligam dins una fenèstra de navegacion privada">
+<!ENTITY openLinkInPrivateWindowCmd.label "Dobrir lo ligam dins una fenèstra privada">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "n">
 <!ENTITY openLinkCmdInCurrent.label     "Dobrir lo ligam">
 <!ENTITY openLinkCmdInCurrent.accesskey "o">

@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "o">
 <!ENTITY cmd.open_window.label           "Dobrir dins una fenèstra novèla">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Dobrir lo ligam dins una novèla fenèstra de navegacion privada">
+<!ENTITY cmd.open_private_window.label     "Dobrir lo ligam dins una novèla fenèstra privada">
 <!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Dobrir dins un onglet novèl">
 <!ENTITY cmd.open_tab.accesskey          "v">
