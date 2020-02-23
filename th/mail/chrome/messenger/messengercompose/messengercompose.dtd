@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "ช่องกำหนดที่อยู่ชนิดอื่น">
 <!ENTITY fromAddr2.label "จาก">
 <!ENTITY fromAddr.accesskey "จ">
 <!ENTITY toAddr.label "ถึง:">
@@ -275,6 +276,9 @@
 <!ENTITY ccAddr2.label "สำเนาถึง">
 <!ENTITY bccAddr2.label "สำเนาลับถึง">
 <!ENTITY replyAddr2.label "ตอบกลับถึง">
+<!ENTITY newsgroupsAddr2.label "กลุ่มข่าว">
+<!ENTITY followupAddr2.label "ติดตามถึง">
+<!ENTITY subject2.label "หัวเรื่อง">
 <!ENTITY subject.accesskey "ห">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
