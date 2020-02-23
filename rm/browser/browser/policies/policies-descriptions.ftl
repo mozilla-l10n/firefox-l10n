@@ -88,5 +88,6 @@ policy-SecurityDevices = Installar moduls PKCS #11.
 policy-SSLVersionMax = Definir la versiun maximala da SSL.
 policy-SSLVersionMin = Definir la versiun minimala da SSL.
 policy-SupportMenu = Agiuntar in element da menu persunalisà en il menu d'agid.
+policy-UserMessaging = Betg mussar tscherts messadis a l'utilisader.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.

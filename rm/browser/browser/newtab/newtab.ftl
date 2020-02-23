@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oha! Nus avain quasi charg
 newtab-pocket-read-more = Temas populars:
 newtab-pocket-more-recommendations = Dapli propostas
 newtab-pocket-whats-pocket = Tge è { -pocket-brand-name }?
+newtab-pocket-learn-more = Ulteriuras infurmaziuns
 newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
 newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.
 

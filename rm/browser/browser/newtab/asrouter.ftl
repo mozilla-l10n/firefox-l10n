@@ -119,6 +119,11 @@ cfr-whatsnew-lockwise-take-link-text = Ir per l'app
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tippar main e chattar dapli cun la trav d'adressas
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Visita las paginas che ti dovras il pli savens cun be in clic en la trav d'adressas. Chatta pli spert quai che ti tschertgas cun resultats da { $searchEngineName } e da tia cronologia da navigaziun.
+cfr-whatsnew-searchbar-body-generic = Visita las paginas che ti dovras il pli savens cun be in clic en la trav d'adressas. Chatta pli spert quai che ti tschertgas cun resultats or da tia cronologia da navigaziun.
+cfr-whatsnew-searchbar-icon-alt-text = Icona da marella
 
 ## Picture-in-Picture
 
