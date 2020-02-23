@@ -116,6 +116,10 @@ cfr-whatsnew-lockwise-take-title = Prenda tes pleds-clav cun tai
 cfr-whatsnew-lockwise-take-body = L'app mobila { -lockwise-brand-short-name } ta permetta dad acceder a moda segira als pleds-clav memorisads, nua ch'i saja.
 cfr-whatsnew-lockwise-take-link-text = Ir per l'app
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Tippar main e chattar dapli cun la trav d'adressas
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Guarda tes videos durant che ti navigheschas
