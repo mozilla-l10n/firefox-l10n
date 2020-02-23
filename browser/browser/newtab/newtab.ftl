@@ -86,6 +86,17 @@ newtab-menu-show-privacy-info = Na sponsairean againn ⁊ do phrìobhaideachd
 
 newtab-privacy-modal-button-done = Deiseil
 newtab-privacy-modal-header = Tha do phrìobhaideachd cudromach.
+newtab-privacy-modal-paragraph =
+    A bharrachd air naidheachdan inntinneach, seallaidh sinn susbaint làn-
+    sgrùdaichte o sponsairean àraidh dhut. Na gabh dragh, chan fhalbh an dàta
+    brabhsaidh agad am { -brand-product-name } agad fhèin uair sam bith – chan fhaic sinn e
+    agus chan fhaic na sponsairean againn e nas mò.
+newtab-privacy-modal-paragraph-2 =
+    A bharrachd air naidheachdan inntinneach, seallaidh sinn susbaint làn-
+    sgrùdaichte o sponsairean àraidh dhut. Na gabh dragh, <strong>chan fhalbh an dàta
+    brabhsaidh agad am { -brand-product-name } agad fhèin uair sam bith</strong> – chan fhaic sinn e
+    agus chan fhaic na sponsairean againn e nas mò.
+newtab-privacy-modal-link = Fiosraich mar a dh’obraicheas a’ phrìobhaideachd san taba ùr
 
 ##
 
@@ -118,9 +129,14 @@ newtab-menu-open-file = Fosgail faidhle
 
 newtab-label-visited = Na thadhail thu air
 newtab-label-bookmarked = ’Nan comharran-lìn
+newtab-label-removed-bookmark = Chaidh an comharra-lìn a thoirt air falbh
 newtab-label-recommended = A’ treandadh
 newtab-label-saved = Air a shàbhaladh ann am { -pocket-brand-name }
 newtab-label-download = Air a luchdadh a-nuas
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponsairichte
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -161,6 +177,8 @@ newtab-empty-section-topstories = Sin na naidheachdan uile o { $provider } an-dr
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Chan eil naidheachd eile ann!
+newtab-discovery-empty-section-topstories-content = Till an-seo an ceann greis airson barrachd naidheachdan.
 newtab-discovery-empty-section-topstories-try-again-button = Feuch ris a-rithist
 newtab-discovery-empty-section-topstories-loading = ’Ga luchdadh…
 # Displays when a layout in a section took too long to fetch articles.
@@ -171,6 +189,8 @@ newtab-discovery-empty-section-topstories-timed-out = Ìoc, tha sinn cha mhòr a
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Cuspairean fèillmhor:
 newtab-pocket-more-recommendations = Barrachd mholaidhean
+newtab-pocket-whats-pocket = Dè tha ann am { -pocket-brand-name }?
+newtab-pocket-learn-more = Barrachd fiosrachaidh
 newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-cta-text = Sàbhail na sgeulachdan as fhearr leat ann am { -pocket-brand-name } is faigh toileachas inntinn san leughadh.
 
