@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Заглушыць
 pictureinpicture-unmute =
     .aria-label = Уключыць гук
+pictureinpicture-unpip =
+    .aria-label = Адправіць назад на картку
+pictureinpicture-close =
+    .aria-label = Закрыць
