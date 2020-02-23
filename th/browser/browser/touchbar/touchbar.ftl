@@ -9,6 +9,7 @@ forward = เดินหน้า
 reload = โหลดใหม่
 home = หน้าแรก
 fullscreen = เต็มหน้าจอ
+touchbar-fullscreen-exit = ออกจากภาพเต็มหน้าจอ
 find = ค้นหา
 new-tab = แท็บใหม่
 add-bookmark = เพิ่มที่คั่นหน้า
@@ -33,5 +34,5 @@ search-opentabs = แท็บที่เปิด
 search-tags = ป้ายกำกับ
 search-titles = ชื่อเรื่อง
 
-
+##
 
