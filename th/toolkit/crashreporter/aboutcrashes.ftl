@@ -2,7 +2,13 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = รายงานข้อขัดข้อง
+submit-all-button-label = ส่งทั้งหมด
 delete-button-label = ล้างทั้งหมด
 delete-confirm-title = คุณแน่ใจหรือไม่?
 delete-unsubmitted-description = สิ่งนี้จะลบรายงานข้อขัดข้องที่ยังไม่ได้ส่งทั้งหมดและไม่สามารถเลิกทำได้

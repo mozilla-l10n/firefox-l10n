@@ -29,10 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "กรอกการเข้าสู่ระบบ">
 <!ENTITY fillLoginMenu.accesskey      "ก">
-<!ENTITY fillSuggestedPassword.label  "ใช้รหัสผ่านที่แนะนำ">
-<!ENTITY fillSuggestedPassword.accesskey "ช">
-<!ENTITY fillGeneratedPassword.label  "ใช้รหัสผ่านที่สร้างขึ้นอย่างปลอดภัย">
-<!ENTITY fillGeneratedPassword.accesskey "ช">
+<!ENTITY useGeneratedPassword.label   "ใช้รหัสผ่านที่สร้างขึ้นอย่างปลอดภัย…">
+<!ENTITY useGeneratedPassword.accesskey "ป">
 <!ENTITY fillPasswordMenu.label       "กรอกรหัสผ่าน">
 <!ENTITY fillPasswordMenu.accesskey   "ก">
 <!ENTITY fillUsernameMenu.label       "กรอกชื่อผู้ใช้">

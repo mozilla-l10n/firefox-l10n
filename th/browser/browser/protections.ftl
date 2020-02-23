@@ -16,6 +16,10 @@ graph-total-tracker-summary =
     { $count ->
        *[other] ตัวติดตาม <b>{ $count }</b> ตัวถูกปิดกั้นตั้งแต่ { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } จะปิดกั้นตัวติดตามในหน้าต่างส่วนตัวต่อไป แต่จะไม่เก็บบันทึกสิ่งที่ถูกปิดกั้นไว้
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = ตัวติดตามที่ { -brand-short-name } ปิดกั้นในสัปดาห์นี้
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -29,6 +33,7 @@ protection-report-page-title = การปกป้องความเป็�
 protection-report-content-title = การปกป้องความเป็นส่วนตัว
 etp-card-title = การป้องกันการติดตามที่มากขึ้น
 etp-card-content = ตัวติดตามจะติดตามคุณทางออนไลน์เพื่อรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการค้นหาและความสนใจของคุณ { -brand-short-name } ปิดกั้นตัวติดตามและสคริปต์ที่เป็นอันตรายอื่น ๆ จำนวนมาก
+protection-report-etp-card-content-custom-not-blocking = การป้องกันทั้งหมดถูกปิดในขณนี้ เลือกตัวติดตามที่จะปิดกั้นโดยจัดการการตั้งค่าการป้องกัน { -brand-short-name } ของคุณ
 protection-report-manage-protections = จัดการการตั้งค่า
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -61,14 +66,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = เปิด { -sync-brand-short-name }…
     .title = ไปที่ค่ากำหนดการซิงค์
-manage-devices = จัดการอุปกรณ์
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-       *[other] กำลังซิงค์กับอุปกรณ์อื่น ๆ { $count } เครื่อง
-    }
-lockwise-sync-not-syncing-devices = ไม่ซิงค์กับอุปกรณ์อื่น
 manage-connected-devices = จัดการอุปกรณ์…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
