@@ -136,7 +136,7 @@ media-capabilities-title = ความสามารถของสื่อ
 # List all the entries of the database.
 media-capabilities-enumerate = แจงนับฐานข้อมูล
 
-
+##
 
 intl-title = การทำให้เป็นสากลและการแปลเป็นภาษาท้องถิ่น
 intl-app-title = การตั้งค่าแอปพลิเคชัน
@@ -157,8 +157,11 @@ intl-regional-prefs = ค่ากำหนดภูมิภาค
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = การดีบั๊กระยะไกล (โปรโตคอล Chromium)
+remote-debugging-accepting-connections = การยอมรับการเชื่อมต่อ
+remote-debugging-url = URL
 
-
+##
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -238,6 +241,7 @@ d3d11video-crash-guard = ตัวถอดรหัสวิดีโอ D3D11
 d3d9video-crash-buard = ตัวถอดรหัสวิดีโอ D3D9
 d3d9video-crash-guard = ตัวถอดรหัสวิดีโอ D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = ตัวถอดรหัสวิดีโอ WMF VPX
 reset-on-next-restart = กลับค่าเดิมเมื่อเริ่มการทำงานใหม่ในครั้งถัดไป
 gpu-process-kill-button = สิ้นสุดโปรเซส GPU
 gpu-device-reset = การกลับค่าเดิมของอุปกรณ์
