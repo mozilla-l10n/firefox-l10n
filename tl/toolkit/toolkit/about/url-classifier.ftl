@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL na Tagauri ng Impormasyon
-url-classifier-search-title = Paghanap
+url-classifier-search-title = Hanapin
 url-classifier-search-result-title = Mga Resulta
 url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-result-list = Listahan ng mga table: { $list }

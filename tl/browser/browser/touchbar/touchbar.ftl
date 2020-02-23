@@ -24,7 +24,7 @@ open-sidebar = Mga sidebar
 search-popover = Mga shortcut sa paghahanap
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
-search-search-in = Hanapin Sa:
+search-search-in = Hanapin sa:
 
 ## Various categories of shortcuts for search.
 
