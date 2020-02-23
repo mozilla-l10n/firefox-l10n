@@ -45,9 +45,6 @@ newtab-topsites-save-button = Sàbhail
 newtab-topsites-preview-button = Ro-shealladh
 newtab-topsites-add-button = Cuir ris
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = A bheil thu cinnteach gu bheil thu airson gach ionstans na duilleige seo a sguabadh às an eachdraidh agad?
@@ -83,14 +80,19 @@ newtab-menu-delete-history = Sguab às an eachdraidh
 newtab-menu-save-to-pocket = Sàbhail ann am { -pocket-brand-name }
 newtab-menu-delete-pocket = Air a sguabadh à { -pocket-brand-name }
 newtab-menu-archive-pocket = Tasglannaich ann am { -pocket-brand-name }
+newtab-menu-show-privacy-info = Na sponsairean againn ⁊ do phrìobhaideachd
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Deiseil
+newtab-privacy-modal-header = Tha do phrìobhaideachd cudromach.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Thoir an comharra-lìn air falbh
 # Bookmark is a verb here.
 newtab-menu-bookmark = Comharra-lìn
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -119,10 +121,6 @@ newtab-label-bookmarked = ’Nan comharran-lìn
 newtab-label-recommended = A’ treandadh
 newtab-label-saved = Air a shàbhaladh ann am { -pocket-brand-name }
 newtab-label-download = Air a luchdadh a-nuas
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -173,7 +171,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ìoc, tha sinn cha mhòr a
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Cuspairean fèillmhor:
 newtab-pocket-more-recommendations = Barrachd mholaidhean
-newtab-pocket-how-it-works = Mar a dh’obraicheas e
 newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-cta-text = Sàbhail na sgeulachdan as fhearr leat ann am { -pocket-brand-name } is faigh toileachas inntinn san leughadh.
 

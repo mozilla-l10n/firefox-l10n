@@ -201,6 +201,26 @@ cfr-doorhanger-socialtracking-ok-button = Seall an dìon
     .accesskey = S
 cfr-doorhanger-socialtracking-close-button = Dùin
     .accesskey = D
+cfr-doorhanger-socialtracking-dont-show-again = Na seall dhomh teachdaireachdan mar seo a-rithist
+    .accesskey = N
+cfr-doorhanger-socialtracking-heading = Chùm { -brand-short-name } lìonra sòisealta o bhith ’gad thracadh an-seo
+cfr-doorhanger-socialtracking-description = Tha do phrìobhaideachd cudromach. Bacaidh { -brand-short-name } tracaichean cumanta nam meadhanan sòisealta a-nis, a’ cuingeachadh an dàta as urrainn dhaibh cruinneachadh mu na nì thu air loidhne.
+cfr-doorhanger-fingerprinters-heading = Bhac { -brand-short-name } lorgaiche-meur air an duilleag seo
+cfr-doorhanger-fingerprinters-description = Tha do phrìobhaideachd cudromach. Bacaidh { -brand-short-name } lorgaichean-meur a-nis, gleusan a chruinneachas pìosan de dhàta àraidh air an aithnichear an t-uidheam agad gus do thracadh.
+cfr-doorhanger-cryptominers-heading = Bhac { -brand-short-name } criopto-mhèinneadair air an duilleag seo
+cfr-doorhanger-cryptominers-description = Tha do phrìobhaideachd cudromach. Bacaidh { -brand-short-name } criopto-mhèinneadairean a-nis, gleusan a chleachdas cumhachd a’ choimpiutair agad airson airgead digiteach a mhèinnearachd.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] Bhac { -brand-short-name } barrachd air  <b>{ $blockedCount }</b> tracaiche o { $date }!
+        [two] Bhac { -brand-short-name } barrachd air  <b>{ $blockedCount }</b> thracaiche o { $date }!
+        [few] Bhac { -brand-short-name } barrachd air  <b>{ $blockedCount }</b> tracaichean o { $date }!
+       *[other] Bhac { -brand-short-name } barrachd air  <b>{ $blockedCount }</b> tracaiche o { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Seall na h-uile
+    .accesskey = S
