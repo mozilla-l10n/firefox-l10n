@@ -184,12 +184,23 @@ cfr-doorhanger-sync-logins-ok-button = Cuir { -sync-brand-short-name } air
 
 cfr-doorhanger-send-tab-header = Leugh seo air an rathad
 cfr-doorhanger-send-tab-recipe-header = Thoir leat an reasabaidh seo dhan chidsin
+cfr-doorhanger-send-tab-body = Bheir gleus cur nan tabaichean comas dhut an ceangal seo a chur gun fhòn agad no àite sam bith far an do chlàraich thu a-steach gu { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Feuch gleus cur nan taba
+    .accesskey = F
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Co-roinn am PDF seo gu tèarainte
+cfr-doorhanger-firefox-send-body = Cùm na sgrìobhainnean dìomhair agad sàbhailte o shùilean sireach le crioptachadh finn-fuainneach agus ceangal a thèid air falbh nuair a bhios tu deiseil leis.
+cfr-doorhanger-firefox-send-ok-button = Feuch { -send-brand-name }
+    .accesskey = F
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Seall an dìon
+    .accesskey = S
+cfr-doorhanger-socialtracking-close-button = Dùin
+    .accesskey = D
 
 ## Enhanced Tracking Protection Milestones
 
