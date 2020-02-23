@@ -62,6 +62,7 @@ abuse-report-damage-reason = ทำลายคอมพิวเตอร์แ
 abuse-report-damage-reason-v2 = มันทำให้คอมพิวเตอร์หรือข้อมูลของฉันเสียหาย
 abuse-report-damage-example = ตัวอย่างเช่น: สอดแทรกมัลแวร์หรือขโมยข้อมูล
 abuse-report-spam-reason = สร้างสแปมหรือโฆษณา
+abuse-report-spam-reason-v2 = มันมีสแปมหรือแทรกโฆษณาที่ไม่พึงประสงค์
 abuse-report-spam-example = ตัวอย่างเช่น: ใส่โฆษณาบนหน้าเว็บ
 abuse-report-settings-reason = เปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
 abuse-report-settings-reason-v2 = มันเปลี่ยนเครื่องมือค้นหา, หน้าแรก, หรือแท็บใหม่ของฉันโดยไม่แจ้งหรือถามฉัน
@@ -82,5 +83,6 @@ abuse-report-policy-reason = เนื้อหาด้านความเก
 abuse-report-policy-reason-v2 = มันมีเนื้อหาที่แสดงความเกลียดชัง ความรุนแรง หรือผิดกฎหมาย
 abuse-report-policy-suggestions = หมายเหตุ: ประเด็นด้านลิขสิทธิ์และเครื่องหมายการค้าจะต้องถูกรายงานในกระบวนการแยกจากนี้ <a data-l10n-name="report-infringement-link">ใช้คำแนะนำเหล่านี้</a>ในการรายงานปัญหา
 abuse-report-unwanted-reason = ไม่ต้องการส่วนขยายนี้อีกแล้วและไม่สามารถกำจัดมันได้
+abuse-report-unwanted-reason-v2 = ฉันไม่เคยต้องการมันและไม่รู้จะกำจัดมันได้อย่างไร
 abuse-report-unwanted-example = ตัวอย่าง: แอปพลิเคชันติดตั้งส่วนขยายนี้โดยที่ฉันไม่อนุญาต
 abuse-report-other-reason = อื่น ๆ
