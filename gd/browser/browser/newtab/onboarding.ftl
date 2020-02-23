@@ -20,18 +20,39 @@ onboarding-button-label-get-started = Dèan toiseach tòiseachaidh
 
 onboarding-welcome-header = Fàilte gu { -brand-short-name }
 onboarding-welcome-body = Tha am brabhsair agad.<br/>Thoir eòlas air a’ chòrr de { -brand-product-name }.
+onboarding-welcome-learn-more = Barrachd fiosrachaidh mu na buannachdan.
+onboarding-welcome-modal-get-body = Tha am brabhsair agad.<br/>Cuir { -brand-product-name } gu làn-fheum a-nis.
+onboarding-welcome-modal-supercharge-body = Cuir spionnadh sna gleusan a dhìonas do phrìobhaideachd.
+onboarding-welcome-modal-privacy-body = Tha am brabhsair agad. Cuireamaid fiù barrachd dìon prìobhaideachd ris.
+onboarding-welcome-modal-family-learn-more = Fàs eòlach air a’ bhathar air fad aig { -brand-product-name }.
+onboarding-welcome-form-header = Tòisich an-seo
+onboarding-join-form-header = gabh pàirt ann am { -brand-product-name }
+onboarding-join-form-body = Cuir a-steach am post-d agad an-seo airson toiseach-tòiseachaidh.
+onboarding-join-form-email =
+    .placeholder = Cuir post-d a-steach
+onboarding-join-form-email-error = Tha feum air post-d dligheach
+onboarding-join-form-legal = Ma leanas tu air adhart, bidh thu ag aontachadh ri <a data-l10n-name="terms">teirmichean na seirbheise</a> agus <a data-l10n-name="privacy">aithris na prìobhaideachd</a>.
+onboarding-join-form-continue = Air adhart
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = A bheil cunntas agad mu thràth?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Clàraich a-steach
 onboarding-start-browsing-button-label = Tòisich air brabhsadh
 onboarding-cards-dismiss =
     .title = Leig seachad
     .aria-label = Leig seachad
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Thoireamaid sùil air a h-uile rud as urrainn dhut dèanamh.
+onboarding-fullpage-form-email =
+    .placeholder = An seòladh puist-d agad…
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Thoir { -brand-product-name } leat
 onboarding-sync-welcome-content = Faigh na comharran-lìn, an eachdraidh, na faclan-faire ’s roghainnean eile air na h-uidheaman air fad agad.
 onboarding-sync-welcome-learn-more-link = Barrachd fiosrachaidh air cunntasan Firefox
-onboarding-sync-form-invalid-input = Tha feum air post-d dligheach
-onboarding-sync-legal-notice = Ma leanas tu air adhart, bidh tu ag aontachadh ri <a data-l10n-name="terms">teirmichean na seirbheise</a> agus <a data-l10n-name="privacy">aithris na prìobhaideachd</a>.
 onboarding-sync-form-input =
     .placeholder = Post-d
 onboarding-sync-form-continue-button = Lean air adhart
@@ -45,6 +66,7 @@ onboarding-sync-form-sub-header = a leantainn air adhart gu { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Bathar feumail
 
 ## These strings belong to the individual onboarding messages.
 
