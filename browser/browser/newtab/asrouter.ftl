@@ -141,8 +141,10 @@ cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
        *[other] ลายนิ้วมือดิจิทัลถูกปิดกั้น
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ปิดกั้นลายนิ้วมือดิจิทัลจำนวนมากที่แอบรวบรวมข้อมูลเกี่ยวกับอุปกรณ์และการใช้งานของคุณอย่างลับ ๆ เพื่อสร้างโปรไฟล์โฆษณาของคุณ
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = ลายนิ้วมือดิจิทัล
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } สามารถปิดกั้นลายนิ้วมือดิจิทัลจำนวนมากที่แอบรวบรวมข้อมูลเกี่ยวกับอุปกรณ์และการใช้งานของคุณอย่างลับ ๆ เพื่อสร้างโปรไฟล์โฆษณาของคุณได้
 
 ## Bookmark Sync
 
