@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "최근 북마크됨">
 <!ENTITY otherBookmarksCmd.label "다른 북마크">
 <!ENTITY mobileBookmarksCmd.label "모바일 북마크">
-<!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
+<!ENTITY bookmarksToolbarChevron.tooltip "북마크 더보기">
 
 <!ENTITY backCmd.label                "뒤로">
 <!ENTITY backCmd.accesskey            "B">
