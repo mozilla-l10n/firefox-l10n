@@ -43,6 +43,7 @@
 <!ENTITY  newContactCmd.label "Contatto rubrica…">
 <!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMenuCmd.label "Apri">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Apri messaggio salvato…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Salva come">
