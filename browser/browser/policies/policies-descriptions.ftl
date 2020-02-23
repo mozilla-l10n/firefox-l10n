@@ -88,5 +88,6 @@ policy-SecurityDevices = PKCS #11 modüllerini yükle.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
 policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.
+policy-UserMessaging = Kullanıcıya belirli mesajları gösterme.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.

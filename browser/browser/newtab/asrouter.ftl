@@ -118,6 +118,11 @@ cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Adres çubuğuna daha az yazın, daha çok bulun
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Adres çubuğuna tek bir tıklamayla en çok kullandığınız sitelere ulaşın. { $searchEngineName } sonuçları ve gezinti geçmişinizden gelen sonuçlar bir arada.
+cfr-whatsnew-searchbar-body-generic = Adres çubuğuna tek bir tıklamayla en çok kullandığınız sitelere ulaşın. Gezinti geçmişinizden gelen sonuçlarla aradığınız daha hızlı bulun.
 cfr-whatsnew-searchbar-icon-alt-text = Büyüteç simgesi
 
 ## Picture-in-Picture

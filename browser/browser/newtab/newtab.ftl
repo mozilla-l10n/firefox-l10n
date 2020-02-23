@@ -182,6 +182,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hata! Bu bölüm tam olara
 newtab-pocket-read-more = Popüler konular:
 newtab-pocket-more-recommendations = Daha fazla öneri
 newtab-pocket-whats-pocket = { -pocket-brand-name } nedir?
+newtab-pocket-learn-more = Daha fazla bilgi al
 newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
 newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınız okumaya değer şeylerle doldurun.
 
