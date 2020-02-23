@@ -117,14 +117,19 @@ cfr-whatsnew-lockwise-take-title = นำรหัสผ่านของคุ
 cfr-whatsnew-lockwise-take-body = แอปมือถือ { -lockwise-brand-short-name } ช่วยให้คุณเข้าถึงรหัสผ่านที่สำรองไว้ของคุณจากทุกที่ได้อย่างปลอดภัย
 cfr-whatsnew-lockwise-take-link-text = รับแอป
 
+## Search Bar
+
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = ดูวิดีโอขณะที่คุณเรียกดู
+cfr-whatsnew-pip-body = ภาพที่เล่นควบคู่แสดงวิดีโอเป็นหน้าต่างลอยเพื่อให้คุณรับชมขณะทำงานในแท็บอื่น ๆ ได้
 cfr-whatsnew-pip-cta = เรียนรู้เพิ่มเติม
 
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = ป๊อปอัปของไซต์ที่น่ารำคาญน้อยลง
+cfr-whatsnew-permission-prompt-body = ขณะนี้ { -brand-shorter-name } ปิดกั้นไม่ให้ไซต์ถามเพื่อส่งข้อความป๊อปอัปถึงคุณโดยอัตโนมัติ
 cfr-whatsnew-permission-prompt-cta = เรียนรู้เพิ่มเติม
 
 ## Fingerprinter Counter
