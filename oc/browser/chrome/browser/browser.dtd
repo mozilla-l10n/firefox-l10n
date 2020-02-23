@@ -632,7 +632,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkToPocketCmd.accesskey "d">
 <!ENTITY pocketMenuitem.label         "Mostrar la lista de Pocket">
 
-<!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
+<!ENTITY emailPageCmd.label           "Enviar per corrièl un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Enregistrar jos…">
 <!ENTITY savePageCmd.accesskey        "E">
@@ -652,11 +652,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Enregistrar lo fichièr àudio jos…">
 <!ENTITY saveAudioCmd.accesskey       "g">
-<!ENTITY emailImageCmd.label          "Mandar l'imatge per corrièr electronic…">
+<!ENTITY emailImageCmd.label          "Enviar l’imatge per corrièl…">
 <!ENTITY emailImageCmd.accesskey      "t">
-<!ENTITY emailVideoCmd.label          "Mandar la vidèo per corrièr electronic…">
+<!ENTITY emailVideoCmd.label          "Enviar la vidèo per corrièl">
 <!ENTITY emailVideoCmd.accesskey      "d">
-<!ENTITY emailAudioCmd.label          "Mandar lo fichièr àudio per corrièr electronic…">
+<!ENTITY emailAudioCmd.label          "Enviar lo fichièr àudio per corrièl…">
 <!ENTITY emailAudioCmd.accesskey      "d">
 <!ENTITY playPluginCmd.label          "Activar aqueste plugin">
 <!ENTITY playPluginCmd.accesskey      "t">
