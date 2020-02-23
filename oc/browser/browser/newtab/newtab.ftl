@@ -72,7 +72,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = Modificar
 newtab-menu-open-new-window = Dobrir lo ligam dins una fenèstra novèla
-newtab-menu-open-new-private-window = Dobrir lo ligam dins una fenèstra de navegacion privada
+newtab-menu-open-new-private-window = Dobrir lo ligam dins una fenèstra privada
 newtab-menu-dismiss = Tirar
 newtab-menu-pin = Penjar
 newtab-menu-unpin = Despenjar
