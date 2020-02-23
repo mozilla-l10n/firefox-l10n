@@ -161,17 +161,29 @@ cfr-whatsnew-fingerprinter-counter-header =
         [few] lorgaichean-meur air am bacadh
        *[other] lorgaiche-meur air am bacadh
     }
+cfr-whatsnew-fingerprinter-counter-body = Bacaidh { -brand-shorter-name } iomadh lorgaiche-meur a chruinnicheas fiosrachadh os ìseal mun uidheam agad is mu na nì thu airson pròifil sanasachd a chruthachadh dhìot.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Lorgaichean-meur
+cfr-whatsnew-fingerprinter-counter-body-alt = ’S urrainn dha { -brand-shorter-name } iomadh lorgaiche-meur a bhacadh a chruinnicheas fiosrachadh os ìseal mun uidheam agad is mu na nì thu airson pròifil sanasachd a chruthachadh dhìot.
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Faigh an comharra-lìn seo air an fhòn agad
+cfr-doorhanger-sync-bookmarks-body = Thoir leat na comharran-lìn, faclan-faire, an eachdraidh ’s mòran a bharrachd àite sam bith far an do chlàraich thu a-steach gu { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Cuir { -sync-brand-short-name } air
+    .accesskey = C
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Na caill facal-faire a-rithist gu bràth
+cfr-doorhanger-sync-logins-body = Cùm is sioncronaich na faclan-faire agad gu tèarainte eadar na h-uidheaman agad.
+cfr-doorhanger-sync-logins-ok-button = Cuir { -sync-brand-short-name } air
+    .accesskey = C
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Leugh seo air an rathad
+cfr-doorhanger-send-tab-recipe-header = Thoir leat an reasabaidh seo dhan chidsin
 
 ## Firefox Send
 
