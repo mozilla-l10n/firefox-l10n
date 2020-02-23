@@ -151,6 +151,16 @@ cfr-whatsnew-permission-prompt-cta = Barrachd fiosrachaidh
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] lorgaiche-meur air a bhacadh
+        [two] lorgaiche-meur air a bhacadh
+        [few] lorgaichean-meur air am bacadh
+       *[other] lorgaiche-meur air am bacadh
+    }
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Lorgaichean-meur
 
