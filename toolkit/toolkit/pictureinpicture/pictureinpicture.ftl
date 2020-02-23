@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Senza tun
 pictureinpicture-unmute =
     .aria-label = Cun tun
+pictureinpicture-unpip =
+    .aria-label = Trametter enavos al tab
+pictureinpicture-close =
+    .aria-label = Serrar
