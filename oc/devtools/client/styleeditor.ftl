@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Enregistrar
     .tooltiptext = Enregistrar aqueste fuèlh d'estils dins un fichièr
     .accesskey = s
+styleeditor-options-button =
+    .tooltiptext = Opcions de l'editor d'estils
+styleeditor-media-rules = Règlas @media
 styleeditor-editor-textbox =
     .data-placeholder = Picatz de CSS aicí.
 styleeditor-no-stylesheet-tip = Benlèu que volètz <a data-l10n-name="append-new-stylesheet">apondre un novèl fuèlh d'estils</a>?
