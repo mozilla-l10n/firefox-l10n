@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL įgaliotasis serveris:">
 <!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  https.label                   "HTTP įgaliotasis serveris:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS kompiuteris:">
 <!ENTITY  socks.accesskey               "O">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -38,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Tiesiogiai jungtis prie šių sričių:">
 <!ENTITY  noproxy.accesskey             "š">
 <!ENTITY  noproxyExplain.label          "Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Šį įgaliotąjį serverį naudoti visiems protokolams">
+<!ENTITY  shareproxy.accesskey          "v">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
-<!ENTITY  noproxyLocalhostDesc.label   "Prisijungimai prie „localhost“, 127.0.0.1, ir ::1 niekada neina per įgaliotąjį serverį.">
-<!ENTITY  shareproxy.label              "Šį įgaliotąjį serverį naudoti visiems protokolams">
-<!ENTITY  shareproxy.accesskey          "v">
+<!ENTITY  noproxyLocalhostDesc.label    "Prisijungimai prie „localhost“, 127.0.0.1, ir ::1 niekada neina per įgaliotąjį serverį.">
 <!ENTITY  autologinproxy.label          "Neprašyti tapatybės patvirtinimo, jeigu slaptažodis įrašytas">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Pažymėjus šią parinktį, bus bandoma automatiškai patvirtinti tapatybę tuose įgaliotuosiuose serveriuose, kurių slaptažodžius naršyklė turi įsiminusi. Jei šis procesas nepavyktų, jūsų bus prašoma įvesti patikslintus duomenis.">
