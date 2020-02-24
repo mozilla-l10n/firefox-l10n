@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "š">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Rinktis rodomus stulpelius">
 <!ENTITY newContactButton.tooltip                       "Sukurti naują adresatą">
 <!ENTITY newlistButton.tooltip                          "Sukurti naują adresatų sąrašą">
 <!ENTITY editPropertiesButton.tooltip                   "Taisyti pažymėtą elementą">

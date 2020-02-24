@@ -4,12 +4,16 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Pirminis tekstas: ">
 
+<!ENTITY editMenu.label "Taisa">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Failas">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Įrašyti tinklalapį kaip…">
