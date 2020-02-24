@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media szabályok
 styleeditor-editor-textbox =
     .data-placeholder = Írja ide a CSS-t.
+styleeditor-no-stylesheet = Ez az oldal nem rendelkezik stíluslappal.
 styleeditor-no-stylesheet-tip = Szeretne <a data-l10n-name="append-new-stylesheet">hozzáfűzni egy új stíluslapot</a>?
+styleeditor-open-link-new-tab =
+    .label = Hivatkozás megnyitása új lapon
+styleeditor-copy-url =
+    .label = URL másolása
