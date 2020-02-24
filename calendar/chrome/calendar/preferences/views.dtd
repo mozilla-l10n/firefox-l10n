@@ -1,13 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-
 <!ENTITY pref.calendar.view.allview.caption "Pagrindinės nuostatos">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dienos ir savaitės kalendoriai">
 <!ENTITY pref.calendar.view.multiweekview.caption "Kelių savaičių kalendorius">
 <!ENTITY pref.calendar.view.workweek.caption "Darbo savaitė">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Rodyti savaičių numerius">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "v">
 <!ENTITY pref.daysoff.label "Šios dienos priklauso darbo savaitei:">
+
+<!ENTITY pref.workweekDays.label "Darbo dienos savaitėje:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dienos pradžia:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
@@ -37,3 +40,5 @@
 <!ENTITY pref.numberofweeks.4 "keturias">
 <!ENTITY pref.numberofweeks.5 "penkias">
 <!ENTITY pref.numberofweeks.6 "šešias">
+<!ENTITY pref.showlocation.label "Rodyti vietą">
+<!ENTITY pref.showlocation.accesskey "v">

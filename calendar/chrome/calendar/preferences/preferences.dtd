@@ -6,3 +6,7 @@
 <!ENTITY  paneAlarms.title        "Priminimai">
 <!ENTITY  paneCategories.title    "Kategorijos">
 <!ENTITY  paneViews.title         "Rodiniai">
+<!ENTITY  panelHeader.title       "Kalendorius">
+<!ENTITY  panelReminder.title     "Priminimai">
+<!ENTITY  panelCatecory.title     "Kategorijos">
+<!ENTITY  panelCategory.title     "Kategorijos">
