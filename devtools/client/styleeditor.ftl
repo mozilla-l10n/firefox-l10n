@@ -14,7 +14,12 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Uložiť
     .tooltiptext = Uložiť tieto štýly do súboru
     .accesskey = U
+styleeditor-options-button =
+    .tooltiptext = Nastavenia Editora štýlov
+styleeditor-media-rules = Pravidlá @media
 styleeditor-editor-textbox =
     .data-placeholder = Sem zadajte CSS
 styleeditor-no-stylesheet = Táto stránka nemá priradený súbor štýlov.
 styleeditor-no-stylesheet-tip = Možno by ste chceli <a data-l10n-name="append-new-stylesheet">pripojiť nový súbor štýlov</a>?
+styleeditor-open-link-new-tab =
+    .label = Otvoriť odkaz na novej karte
