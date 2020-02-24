@@ -21,3 +21,7 @@ styleeditor-editor-textbox =
     .data-placeholder = Skriv CSS her.
 styleeditor-no-stylesheet = Denne side har intet style sheet.
 styleeditor-no-stylesheet-tip = Måske vil du <a data-l10n-name="append-new-stylesheet">tilføje et nyt style sheet</a>?
+styleeditor-open-link-new-tab =
+    .label = Åbn link i et nyt faneblad
+styleeditor-copy-url =
+    .label = Kopier URL
