@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editBookmarkOverlay.name.label                      "Անուանումը.">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "Հասցէն.">
+<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.folder.label                    "Թղթապանակը`">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ցուցադրել էջանիշերի բոլոր թղթապանակները">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Թաքցնել">
+<!ENTITY editBookmarkOverlay.tags.label                      "Պիտակներ`">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Առանձնացնել կցապիտակները ստորակետներով">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Հիմնաբառ՝">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ցուցադրել բոլոր Պիտակները">
+<!ENTITY editBookmarkOverlay.choose.label                    "Ընտրել…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Նոր թղթապանակ">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
