@@ -73,10 +73,35 @@
 <!ENTITY col.name.label          "Անուանումը">
 <!ENTITY col.tags.label          "Պիտակներ">
 <!ENTITY col.url.label           "Տեղադրութիւն">
+<!ENTITY col.mostrecentvisit.label "Ամենայ վերջին այցելութիւնները">
+<!ENTITY col.visitcount.label    "Այցելումների յաշուարկ">
+<!ENTITY col.dateadded.label     "Աւելացուել է">
+<!ENTITY col.lastmodified.label  "Վերջին փոփոխութիւնը">
 
+<!ENTITY historySearch.placeholder  "Որոնել պատմութիւն">
+<!ENTITY bookmarksSearch.placeholder  "Որոնել էջանիշեր">
 
+<!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.label      "Ներմուծել եւ Պահուստացնել">
+<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Ներմուծէք եւ պահպանէք ձեր էջանշերը">
 
+<!ENTITY backButton.tooltip  "Գնալ ետ">
 
+<!ENTITY forwardButton.tooltip  "Անցնել առաջ">
 
+<!ENTITY detailsPane.selectAnItemText.description "Ընտրէք բաղադրիչը դիտելու եւ խմբագրելու նրա կարգաւորումները">
 
+<!ENTITY view.label               "Տեսք">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "Ըստ ամսաթուի">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Ըստ կայքի">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Ըստ առաւել այցերի">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "Ըստ վերջին այցի">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "Ըստ ամսաթուի և կայքի">
+<!ENTITY byDayAndSite.accesskey   "t">
