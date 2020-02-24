@@ -11,6 +11,9 @@ styleeditor-import-button =
 styleeditor-visibility-toggle =
     .tooltiptext = স্টাইল শীটের দৃশ্যমানতা টগল করুন
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = স্টাইল সম্পাদনের অপশন
+styleeditor-media-rules = @মিডিয়া নিয়মাবলী
 styleeditor-editor-textbox =
     .data-placeholder = এখানে CSS টাইপ করুন।
 styleeditor-no-stylesheet-tip = সম্ভবত আপনি করতে চাইছেন <a data-l10n-name="append-new-stylesheet">একটি নতুন স্টাইল শীট সংযুক্ত করুন</a>?
