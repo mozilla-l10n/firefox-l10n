@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Składowaś
     .tooltiptext = Toś tu stilowu pśedłogu do dataje składowaś
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = Nastajenja stilowego editora
+styleeditor-media-rules = pšawidła @media
 styleeditor-editor-textbox =
     .data-placeholder = Zapišćo how CSS.
 styleeditor-no-stylesheet-tip = Snaź wy by rady <a data-l10n-name="append-new-stylesheet">nowu stilowu pśedłogu pśipowjesył</a>?
