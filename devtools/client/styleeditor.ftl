@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media erregelak
 styleeditor-editor-textbox =
     .data-placeholder = Idatzi CSSa hemen.
+styleeditor-no-stylesheet = Orri honek ez dauka estilo-orririk.
 styleeditor-no-stylesheet-tip = Beharbada <a data-l10n-name="append-new-stylesheet">estilo-orri berria erantsi</a> nahi duzu?
+styleeditor-open-link-new-tab =
+    .label = Ireki lotura fitxa berrian
+styleeditor-copy-url =
+    .label = Kopiatu URLa
