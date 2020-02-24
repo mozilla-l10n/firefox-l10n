@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Spara
     .tooltiptext = Spara den här stilmallen till en fil
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = StilEditor alternativ
+styleeditor-media-rules = @media regler
 styleeditor-editor-textbox =
     .data-placeholder = Skriv in CSS här.
 styleeditor-no-stylesheet-tip = Kanske vill du <a data-l10n-name="append-new-stylesheet">lägga till en ny stilmall</a>?
