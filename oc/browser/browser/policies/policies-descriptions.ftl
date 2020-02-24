@@ -45,6 +45,7 @@ policy-DontCheckDefaultBrowser = Desactiva la verificacion del navegador per def
 policy-DownloadDirectory = Definir e varrolhar lo dorsièr de telecargament.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activa o desactiva lo blocatge del contengut e permet de clavar aqueste causida.
+policy-ExtensionUpdate = Activar o desactivar la mesa a jorn automatica de las extensions.
 policy-FirefoxHome = Configurar l’acuèlh de Firefox.
 policy-FlashPlugin = Autoriza o pas l’utilizacion del plugin Flash.
 policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
@@ -56,6 +57,7 @@ policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
 policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari de senhals.
 policy-Permissions = Configurar las autorizacions per la camèra, lo microfòn, lo localizacion e las notificacions.
 policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
+policy-PromptForDownloadLocation = Demandar ont enregistrar los fichièrs pendent lo telecargament.
 policy-Proxy = Configura los paramètres del servidor mandatari.
 policy-RequestedLocales = Definís la lista de las lengas demandadas per l’aplicacion dins l‘òrdre de preferéncia.
 policy-SanitizeOnShutdown2 = Suprimís las donadas de navigacion a la tampadura.
