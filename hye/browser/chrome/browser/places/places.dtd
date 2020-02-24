@@ -16,6 +16,13 @@
 <!ENTITY views.label                    "Տեսք">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Փոխել դիտելու ձեւը">
+<!ENTITY view.columns.label             "Ցուցադրել սիւները">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "Տեսակաւորել">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Առանց խմբաւորման">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Տեսակաւորել կարգը">
 
 
 
