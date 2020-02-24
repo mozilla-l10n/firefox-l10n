@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from EdReplace.xul -->
+<!-- extracted from EdReplace.xhtml -->
 
 <!ENTITY replaceDialog.title "Paieška ir keitimas">
-<!ENTITY findField.label "Ko ieškoti:">
+<!ENTITY findField.label "Rasti tekstą:">
 <!ENTITY findField.accesskey "o">
 <!ENTITY replaceField.label "Kuo keisti:">
 <!ENTITY replaceField.accesskey "u">

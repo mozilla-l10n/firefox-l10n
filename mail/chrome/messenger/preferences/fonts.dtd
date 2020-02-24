@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "B">
 <!ENTITY  monospace.label                         "Lygiaplotis:">
 <!ENTITY  monospace.accesskey                     "L">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Lotynų">
 <!ENTITY  font.langGroup.japanese                 "Japonų">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicinė kinų (Taivanis)">
@@ -56,22 +56,22 @@
 <!ENTITY minSize.label                            "Minimalus šrifto dydis:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Nenurodytas">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Su užraitais">
 <!ENTITY  useDefaultFontSansSerif.label           "Be užraitų">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Šriftų valdymas">
 <!ENTITY  useFixedWidthForPlainText.label         "Grynojo teksto laiškus rodyti lygiapločiu šriftu">
 <!ENTITY  fixedWidth.accesskey                    "G">
 <!ENTITY  useDocumentFonts.label                  "Leisti laiškuose naudoti kitus šriftus">
 <!ENTITY  useDocumentFonts.accesskey              "k">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Laiškų rašymo:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
-<!ENTITY languagesTitle2.label            "Teksto koduotė">
+<!ENTITY languagesTitle2.label            "Simbolių koduotė">
 <!ENTITY composingDescription2.label      "Laiškų rašymo ir skaitymo numatytosios koduotės">
 
 <!ENTITY viewDefaultCharsetList.label     "Laiškų skaitymo:">

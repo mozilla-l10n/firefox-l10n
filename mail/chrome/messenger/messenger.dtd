@@ -467,7 +467,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Programos priedai">
 <!ENTITY addons.accesskey "d">
-<!ENTITY addonPrefs.label "Priedo parinktys">
+<!ENTITY addonPrefs.label "Priedų parinktys">
 <!ENTITY addonPrefs.accesskey "O">
 <!ENTITY addonPrefsUnix.label "Priedo nuostatos">
 <!ENTITY addonPrefsUnix.accesskey "P">
