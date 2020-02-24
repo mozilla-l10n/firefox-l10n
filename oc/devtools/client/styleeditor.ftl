@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = Règlas @media
 styleeditor-editor-textbox =
     .data-placeholder = Picatz de CSS aicí.
+styleeditor-no-stylesheet = Aquesta pagina a pas cap de fuèlh d'estils.
 styleeditor-no-stylesheet-tip = Benlèu que volètz <a data-l10n-name="append-new-stylesheet">apondre un novèl fuèlh d'estils</a>?
+styleeditor-open-link-new-tab =
+    .label = Dobrir lo ligam dins un onglet novèl
+styleeditor-copy-url =
+    .label = Copiar l’URL
