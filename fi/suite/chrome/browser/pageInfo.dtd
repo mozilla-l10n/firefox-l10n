@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "Yleiset">
 <!ENTITY  generalTab.accesskey  "Y">
+<!ENTITY  generalTitle          "Otsikko:">
 <!ENTITY  generalURL            "Osoite:">
 <!ENTITY  generalType           "Tyyppi:">
 <!ENTITY  generalMode           "Mallinnustila:">
@@ -31,7 +32,7 @@
 <!ENTITY  generalReferrer       "Viittaava URL:">
 <!ENTITY  generalSource         "Välimuistilähde:">
 <!ENTITY  generalModified       "Muokattu:">
-<!ENTITY  generalEncoding       "Koodaus:">
+<!ENTITY  generalEncoding2      "Merkistökoodaus:">
 <!ENTITY  generalMetaName       "Nimi">
 <!ENTITY  generalMetaContent    "Sisältö">
 <!ENTITY  generalSecurityDetails           "Lisätiedot">
@@ -62,6 +63,8 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "Osoite:">
 <!ENTITY  mediaAlt              "Vaihtoehtoinen teksti:">
+<!ENTITY  mediaLocation         "Sijainti:">
+<!ENTITY  mediaText             "Liittyvä teksti:">
 <!ENTITY  mediaAltHeader        "Vaihtoehtoinen teksti">
 <!ENTITY  mediaAddress          "Osoite">
 <!ENTITY  mediaType             "Tyyppi">
@@ -70,6 +73,7 @@
 <!ENTITY  mediaDimensions       "Määrätyt mitat:">
 <!ENTITY  mediaPhysDimensions   "Todelliset mitat:">
 <!ENTITY  mediaTitle            "Otsikko:">
+<!ENTITY  mediaDimension        "Mitat:">
 <!ENTITY  mediaLongdesc         "Pitkä kuvaus:">
 <!ENTITY  mediaBlockImage.accesskey "E">
 <!ENTITY  mediaSaveAs           "Tallenna nimellä…">
@@ -109,6 +113,8 @@
 <!ENTITY  securityView.identity.owner    "Omistaja:">
 <!ENTITY  securityView.identity.domain   "Sivusto:">
 <!ENTITY  securityView.identity.verifier "Varmentaja:">
+
+<!ENTITY  securityView.identity.validity "Vanhenee:">
 
 <!ENTITY  securityView.privacy.header                   "Tietosuoja ja sivuhistoria">
 <!ENTITY  securityView.privacy.history                  "Onko sivustolla vierailtu ennen tätä päivää?">
