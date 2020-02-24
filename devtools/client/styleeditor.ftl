@@ -5,6 +5,9 @@
 styleeditor-new-button =
     .tooltiptext = Vytvoří nový stylopis a připojí ho k dokumentu
     .accesskey = N
+styleeditor-import-button =
+    .tooltiptext = Naimportuje stávající stylopis a připojí ho k dokumentu
+    .accesskey = I
 styleeditor-visibility-toggle =
     .tooltiptext = Přepne viditelnost stylopisu
     .accesskey = U
