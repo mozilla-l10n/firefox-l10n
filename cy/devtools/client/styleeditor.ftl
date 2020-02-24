@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Cadw
     .tooltiptext = Cadw'r ddalen arddull i ffeil
     .accesskey = C
+styleeditor-options-button =
+    .tooltiptext = Dewisiadau'r Golygydd Arddull
+styleeditor-media-rules = Rheolau @media
 styleeditor-editor-textbox =
     .data-placeholder = Teipio'r CSS yma.
 styleeditor-no-stylesheet-tip = Efallai'r hoffech chi <a data-l10n-name="append-new-stylesheet">atodi dalen arddull newydd</a>?
