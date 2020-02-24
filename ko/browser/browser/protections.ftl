@@ -39,7 +39,7 @@ protection-report-manage-protections = 설정 관리
 # capitalization for this string should match the output for your locale.
 graph-today = 오늘
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = 이번 주에 차단된 각 유형의 추적기의 총 수를 포함하는 그래프입니다.
+graph-legend-description = 이번 주에 차단된 각 유형의 추적기의 전체 수를 포함하는 그래프입니다.
 social-tab-title = 소셜 미디어 추적기
 social-tab-contant = 소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 cookie-tab-title = 교차 사이트 추적 쿠키

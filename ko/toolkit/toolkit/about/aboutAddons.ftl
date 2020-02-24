@@ -386,7 +386,7 @@ addon-name-disabled = { $name } (사용 안 함)
 #   $numberOfReviews (number) - The number of reviews received
 addon-detail-reviews-link =
     { $numberOfReviews ->
-       *[other] { $numberOfReviews }개의 리뷰
+       *[other] 리뷰 { $numberOfReviews }개
     }
 
 ## Pending uninstall message bar
