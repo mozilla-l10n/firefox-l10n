@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = Rheolau @media
 styleeditor-editor-textbox =
     .data-placeholder = Teipio'r CSS yma.
+styleeditor-no-stylesheet = Nid oes gan y dudalen ddalen arddull.
 styleeditor-no-stylesheet-tip = Efallai'r hoffech chi <a data-l10n-name="append-new-stylesheet">atodi dalen arddull newydd</a>?
+styleeditor-open-link-new-tab =
+    .label = Agor Dolen mewn Tab Newydd
+styleeditor-copy-url =
+    .label = Copïo'r URL
