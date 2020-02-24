@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = Αυτή η σελίδα δεν έχει φύλλο 
 styleeditor-no-stylesheet-tip = Μήπως θέλετε να <a data-l10n-name="append-new-stylesheet">προσθέσετε ένα νέο φύλλο στυλ</a>;
 styleeditor-open-link-new-tab =
     .label = Άνοιγμα συνδέσμου σε νέα καρτέλα
+styleeditor-copy-url =
+    .label = Αντιγραφή URL
