@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Priporočena razširitev
 cfr-doorhanger-feature-heading = Priporočena možnost
 cfr-doorhanger-pintab-heading = Poskusite možnost: Pripni zavihek
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zakaj vidim to
@@ -127,6 +127,12 @@ cfr-whatsnew-lockwise-take-body =
     Mobilna aplikacija { -lockwise-brand-short-name } vam omogoča varen dostop do 
     varnostno kopiranih gesel kjerkoli.
 cfr-whatsnew-lockwise-take-link-text = Prenesite aplikacijo
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Pišite manj, najdite več z naslovno vrstico
+cfr-whatsnew-searchbar-body-generic = Dostopajte do strani, ki jih največkrat uporabljajte, z enim klikom v naslovni vrstici. Hitreje poiščite stvari z rezultati iskanja iz zgodovine brskanja.
+cfr-whatsnew-searchbar-icon-alt-text = Ikona povečevalnega stekla
 
 ## Picture-in-Picture
 
