@@ -11,6 +11,12 @@ styleeditor-import-button =
 styleeditor-visibility-toggle =
     .tooltiptext = { "                  " }Փոխարկել ոճային աղյուսակի տեսանելիությունը{ "                " }
     .accesskey = Պ
+styleeditor-save-button = Պահպանել
+    .tooltiptext = Պահպանել ոճի այս ցանկը ֆայլում
+    .accesskey = Պ
+styleeditor-options-button =
+    .tooltiptext = Ոճի խմբագրիչի ընտրանքներ
+styleeditor-media-rules = @media կանոններ
 styleeditor-editor-textbox =
     .data-placeholder = Հավաքեք CSS-ը այստեղ:
 styleeditor-no-stylesheet-tip = Հավանաբար դուք կցանկանայիք <a data-l10n-name="append-new-stylesheet">Կցել նոր ոճային աղյուսակ</a>?
