@@ -2,7 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from AccountManager.xul -->
+
+<!-- extracted from AccountManager.xhtml -->
+
 <!ENTITY accountManagerTitle.label "Kontoinställningar för e-post och diskussionsgrupper">
+
+<!ENTITY  accountManagerCloseButton.label "Stäng">
 
 <!ENTITY accountActionsButton.label "Kontoåtgärder">
 <!ENTITY accountActionsButton.accesskey "t">
@@ -20,6 +26,8 @@
 <!ENTITY removeButton.accesskey "b">
 
 <!-- AccountManager.xul -->
+
+<!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
