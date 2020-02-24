@@ -5,6 +5,9 @@
 styleeditor-import-button =
     .tooltiptext = Mengimport dan melampirkan lembaran gaya yang sedia ada kepada dokumen itu
     .accesskey = I
+styleeditor-save-button = Simpan
+    .tooltiptext = Simpan lembaran gaya ini ke dalam fail
+    .accesskey = S
 styleeditor-editor-textbox =
     .data-placeholder = Taip CSS di sini.
 styleeditor-no-stylesheet-tip = Mungkin anda ingin untuk <a data-l10n-name="append-new-stylesheet">lampirkan satu gaya lembaran yang baru</a>?
