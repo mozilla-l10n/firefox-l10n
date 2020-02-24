@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = Laman ini tidak memiliki lembar gaya.
 styleeditor-no-stylesheet-tip = Mungkin Anda ingin <a data-l10n-name="append-new-stylesheet">menambahkan lembar gaya baru</a>?
 styleeditor-open-link-new-tab =
     .label = Buka Tautan di Tab Baru
+styleeditor-copy-url =
+    .label = Salin URL
