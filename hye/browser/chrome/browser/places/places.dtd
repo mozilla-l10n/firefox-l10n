@@ -23,8 +23,19 @@
 <!ENTITY view.unsorted.label            "Առանց խմբաւորման">
 <!ENTITY view.unsorted.accesskey        "U">
 <!ENTITY view.sortAscending.label       "Տեսակաւորել կարգը">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Տեսակաւորել կարգը">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
+<!ENTITY importBookmarksFromHTML.label     "Ներմուծել էջանիշեր HTML-ից…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Էջանիշերը արտահանել HTML նիշքով…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Ներմուծել տուեալներ այլ դիտարկիչից…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
+<!ENTITY cmd.backup.label               "Պահեստային…">
+<!ENTITY cmd.backup.accesskey           "B">
 
 
 
