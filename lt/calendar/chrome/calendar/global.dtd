@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Vidurnaktis" >
 <!ENTITY time.noon "Vidurdienis" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "Sk" >
 <!ENTITY day.1.Ddd.accesskey "S">
 <!ENTITY day.2.Ddd "Pr" >
@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Ankstesnis mėnuo" >
 <!ENTITY onemonthforward.tooltip "Kitas mėnuo" >
+<!ENTITY oneyearbackward.tooltip "Vienerius metai atgal" >
+<!ENTITY oneyearforward.tooltip "Vienerius metus pirmyn" >
 <!ENTITY showToday.tooltip "Ši diena">
 <!ENTITY onedayforward.tooltip "Kita diena">
 <!ENTITY onedaybackward.tooltip "Ankstesnė diena">
