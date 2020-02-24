@@ -43,6 +43,7 @@
 <!ENTITY  newContactCmd.label "Adresatas…">
 <!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMenuCmd.label "Atverti">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Įrašyti kaip">

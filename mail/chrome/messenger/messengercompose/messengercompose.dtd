@@ -262,6 +262,7 @@
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Kiti adresų laukų tipai">
 <!ENTITY fromAddr2.label "Siuntėjas">
 <!ENTITY fromAddr.accesskey "K">
 <!ENTITY toAddr.label "Kam:">
@@ -289,7 +290,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Priedų polangis">
 <!ENTITY attachmentBucketCloseButton.tooltip "Slėpti priedų polangį">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Įterpti jaustuką">
 <!ENTITY smiley1Cmd.label "Šypsena">
 <!ENTITY smiley2Cmd.label "Pyktis">
