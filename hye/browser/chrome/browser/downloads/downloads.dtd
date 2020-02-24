@@ -1,0 +1,139 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!-- LOCALIZATION NOTE (downloads.title):
+     Used by screen readers to describe the Downloads Panel.
+     -->
+<!ENTITY downloads.title                  "Ներբեռնումներ">
+
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel expressed using a CSS unit. The longest labels
+     that should fit are usually those of in-progress and blocked downloads.
+     -->
+<!ENTITY downloads.width                  "70ch">
+
+<!ENTITY cmd.pause.label                  "Դադար">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Վերադառնալ">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "Չեղարկել">
+<!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
+     cmd.showMac.accesskey):
+     The show and showMac commands are never shown together, thus they can share
+     the same access key (though the two access keys can also be different).
+     -->
+<!ENTITY cmd.show.label                   "Բացեք պարունակող թղթապանակը">
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.label                "Ցուցադրել Որոնիչ֊ում">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Ցուցադրել ներբեռնումների թղթապանակը">
+<!ENTITY cmd.retry.label                  "Կրկին փորձել">
+<!ENTITY cmd.goToDownloadPage.label       "Գնալ դէպի ներբեռնման էջ">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "Պատճէնել ներբեռնելու յղումը">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromHistory.label      "Ջնջել պատմութիւնից">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "Մաքրել նախադիտման վահանակը">
+<!ENTITY cmd.clearList2.accesskey         "a">
+<!ENTITY cmd.clearDownloads.label         "Մաքրել ներբեռնումները">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!-- LOCALIZATION NOTE (cmd.unblock2.label):
+     This command is shown in the context menu when downloads are blocked.
+     -->
+<!ENTITY cmd.unblock2.label               "Թոյլատրել ներբեռնումը">
+<!ENTITY cmd.unblock2.accesskey           "o">
+<!-- LOCALIZATION NOTE (cmd.removeFile.label):
+     This is the tooltip of the action button shown when malware is blocked.
+     -->
+<!ENTITY cmd.removeFile.label             "Հեռացնել նիշքը">
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
+     This is the tooltip of the action button shown when potentially unwanted
+     downloads are blocked. This opens a dialog where the user can choose
+     whether to unblock or remove the download. Removing is the default option.
+     -->
+<!ENTITY cmd.chooseUnblock.label          "Հեռացնել նիշքը կամ թոյլատրել ներբեռնումը">
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.label):
+     This is the tooltip of the action button shown when uncommon downloads are
+     blocked.This opens a dialog where the user can choose whether to open the
+     file or remove the download. Opening is the default option.
+     -->
+<!ENTITY cmd.chooseOpen.label             "Բացել կամ հեռացնել նիշքը">
+
+<!-- LOCALIZATION NOTE (showMoreInformation.label):
+     Displayed when hovering a blocked download, indicates that it's possible to
+     show more information for user to take the next action.
+     -->
+<!ENTITY showMoreInformation.label        "Ցուցադրել լրացուցիչ տեղեկութիւն">
+
+<!-- LOCALIZATION NOTE (openFile.label):
+     Displayed when hovering a complete download, indicates that it's possible to
+     open the file using an app available in the system.
+     -->
+<!ENTITY openFile.label                   "Բացել նիշքը">
+
+<!-- LOCALIZATION NOTE (retryDownload.label):
+     Displayed when hovering a download which is able to be retried by users,
+     indicates that it's possible to download this file again.
+     -->
+<!ENTITY retryDownload.label              "Կրկնել ներբեռնումը">
+
+<!-- LOCALIZATION NOTE (cancelDownload.label):
+     Displayed when hovering a download which is able to be cancelled by users,
+     indicates that it's possible to cancel and stop the download.
+     -->
+<!ENTITY cancelDownload.label             "Չեղարկել ներբեռնումը">
+
+<!-- LOCALIZATION NOTE (blocked.label):
+     Shown as a tag before the file name for some types of blocked downloads.
+     Note: This string doesn't exist in the UI yet.  See bug 1053890.
+     -->
+<!ENTITY blocked.label                    "ԱՐԳԵԼԱՓԱԿՈՒԱԾ">
+
+<!-- LOCALIZATION NOTE (learnMore.label):
+     Shown as a text link for some types of blocked downloads, for example
+     malware, when there is an associated explanation page on the Mozilla site.
+     Note: This string doesn't exist in the UI yet.  See bug 1053890.
+     -->
+<!ENTITY learnMore.label                  "Իմանալ աւելին">
+
+<!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
+     This string is shown at the bottom of the Downloads Panel when all the
+     downloads fit in the available space, or when there are no downloads in
+     the panel at all.
+     -->
+<!ENTITY downloadsHistory.label           "Ցուցադրել բոլոր ներբեռնումները">
+<!ENTITY downloadsHistory.accesskey       "S">
+
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Ներբեռնել մանրամասները">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Բացել ներբեռնումների թղթապանակը">
+
+<!ENTITY clearDownloadsButton.label       "Մաքրել ներբեռնումները">
+<!ENTITY clearDownloadsButton.tooltip     "Հեռացնում է աւարտուած, չեղարկուած եւ ձախողուած ներբեռնումները">
+
+<!-- LOCALIZATION NOTE (downloadsListEmpty.label):
+     This string is shown when there are no items in the Downloads view, when it
+     is displayed inside a browser tab.
+     -->
+<!ENTITY downloadsListEmpty.label         "Ներբեռնումներ չկան։">
+
+<!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
+     This string is shown when there are no items in the Downloads Panel.
+     -->
+<!ENTITY downloadsPanelEmpty.label        "Չկան ներբեռնումներ այս աշխատաշրջանում։">
+
+<!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
+     This string is shown when some search terms are specified, but there are no
+     results in the Downloads view.
+     -->
+<!ENTITY downloadsListNoMatch.label       "Չկա ոչ մի համընկնում">
