@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Desa
     .tooltiptext = Desa aquest full d'estil en un fitxer
     .accesskey = D
+styleeditor-options-button =
+    .tooltiptext = Opcions de l'editor d'estils
+styleeditor-media-rules = Regles @media
 styleeditor-editor-textbox =
     .data-placeholder = Escriviu el CSS aquí.
 styleeditor-no-stylesheet-tip = Potser voleu <a data-l10n-name="append-new-stylesheet">afegir un full d'estil nou</a>?
