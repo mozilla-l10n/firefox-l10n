@@ -5,6 +5,14 @@
 
 # Addressing widget
 
+#   $type (String) - the type of the addressing row
+remove-address-row-type = Pašalinti lauką { $type }
+pill-action-edit =
+    .label = Keisti adresą
+    .accesskey = e
+pill-action-move-to =
+    .label = Perkelti į Kam
+    .accesskey = k
 pill-action-move-cc =
     .label = Perkelti į CC
     .accesskey = c
