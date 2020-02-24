@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media regler
 styleeditor-editor-textbox =
     .data-placeholder = Skriv in CSS här.
+styleeditor-no-stylesheet = Den här sidan har ingen stilmall.
 styleeditor-no-stylesheet-tip = Kanske vill du <a data-l10n-name="append-new-stylesheet">lägga till en ny stilmall</a>?
+styleeditor-open-link-new-tab =
+    .label = Öppna länk i ny flik
+styleeditor-copy-url =
+    .label = Kopiera URL
