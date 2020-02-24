@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> njama 
 inactive-css-not-display-block-on-floated = Gódnota <strong>display</strong> jo se změnił pśez engine do <strong>block</strong>, dokulaž element jo <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Wobgranicowanja <strong>:visited</strong> dla jo njemóžno, <strong>{ $property }</strong> pśepisaś.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo pozicioněrowany element.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž gódnota <strong>overflow:hidden</strong> njejo nastajona.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Wopytajśo <str
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Wopytajśo <strong>display:inline-block</strong> pśidaś. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Wopytajśo <strong>float</strong> wotstronić abo <strong>display:block</strong> pśidaś. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Wopytajśo jogo kakosć <strong>position</strong> na něco druge ako <strong>static</strong> nastajiś. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Wopytajśo <strong>overflow:hidden</strong> pśidaś. { learn-more }
