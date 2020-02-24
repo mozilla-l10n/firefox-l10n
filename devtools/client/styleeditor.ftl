@@ -17,3 +17,4 @@ styleeditor-save-button = احفظ
 styleeditor-editor-textbox =
     .data-placeholder = اكتب CSS هنا.
 styleeditor-no-stylesheet = ليس لهذه الصفحة أي طُرز.
+styleeditor-no-stylesheet-tip = أترغب في <a data-l10n-name="append-new-stylesheet">إلحاق صفحة طُرز</a>بها؟
