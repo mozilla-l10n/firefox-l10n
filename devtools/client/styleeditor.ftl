@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media կանոններ
 styleeditor-editor-textbox =
     .data-placeholder = Հավաքեք CSS-ը այստեղ:
+styleeditor-no-stylesheet = Այս էջը ոճային աղյուսակ չունի:
 styleeditor-no-stylesheet-tip = Հավանաբար դուք կցանկանայիք <a data-l10n-name="append-new-stylesheet">Կցել նոր ոճային աղյուսակ</a>?
+styleeditor-open-link-new-tab =
+    .label = Հղումը Բացել Նոր Ներդիրում
+styleeditor-copy-url =
+    .label = Պատճենել URL
