@@ -182,6 +182,7 @@ newtab-discovery-empty-section-topstories-timed-out = Fuŝ! Ni preskaŭ tute ŝa
 newtab-pocket-read-more = Ĉefaj temoj:
 newtab-pocket-more-recommendations = Pli da rekomendoj
 newtab-pocket-whats-pocket = Kio estas { -pocket-brand-name }?
+newtab-pocket-learn-more = Pli da informo
 newtab-pocket-cta-button = Instali { -pocket-brand-name }
 newtab-pocket-cta-text = Konservu viajn ŝatatajn artikolojn en { -pocket-brand-name }, kaj stimulu vian menson per ravaj legaĵoj.
 
