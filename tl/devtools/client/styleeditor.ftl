@@ -13,3 +13,4 @@ styleeditor-save-button = I-save
     .accesskey = s
 styleeditor-editor-textbox =
     .data-placeholder = I-type ang CSS dito.
+styleeditor-no-stylesheet = Ang pahinang ito ay walang style sheet.
