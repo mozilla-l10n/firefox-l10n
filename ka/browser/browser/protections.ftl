@@ -59,6 +59,9 @@ lockwise-header-content-logged-in = პაროლების უსაფრ�
 protection-report-view-logins-button = ანგარიშების ნახვა
     .title = ანგარიშის შენახულ მონაცემებზე გადასვლა
 lockwise-no-logins-content = გადმოწერეთ აპლიკაცია <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> პაროლების თან წასაღებად.
+lockwise-mobile-app-title = თან წაიყოლეთ პაროლები ყველგან
+lockwise-no-logins-card-content = თქვენს პაროლებს შეინახავს { -brand-short-name } ნებისმიერ მოწყობილობაზე.
+lockwise-app-links = { -lockwise-brand-name }<a data-l10n-name="lockwise-android-inline-link">Android-სა</a> და <a data-l10n-name="lockwise-ios-inline-link">iOS-ზე</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
