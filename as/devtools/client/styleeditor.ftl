@@ -11,5 +11,10 @@ styleeditor-import-button =
 styleeditor-visibility-toggle =
     .tooltiptext = শৈলী পৰ্দাৰ দৃশ্যমানতা অদল বদল কৰক
     .accesskey = S
+styleeditor-save-button = সংৰক্ষণ কৰক
+    .tooltiptext = এই শৈলী পৰ্দাক এটা ফাইললে সংৰক্ষণ কৰক
+    .accesskey = S
+styleeditor-editor-textbox =
+    .data-placeholder = ইয়াত CSS টাইপ কৰক।
 styleeditor-no-stylesheet = এই পৃষ্ঠাৰ কোনো শৈলী পৰ্দা নাই।
 styleeditor-no-stylesheet-tip = হয়তো আপুনি <a data-l10n-name="append-new-stylesheet">এটা নতুন শৈলী পৰ্দা সংযোজন কৰিব বিচাৰিব পাৰে</a>?
