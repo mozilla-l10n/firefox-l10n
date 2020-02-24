@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Kontakt Nga Libër Adresash…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Hape">
+<!ENTITY openMenuCmd.accesskey "H">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY saveAsMenu.label "Ruaje Si">
