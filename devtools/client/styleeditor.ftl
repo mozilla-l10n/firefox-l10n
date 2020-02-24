@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Spremi
     .tooltiptext = Spremite ovaj stil u datoteku
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = Mogućnosti uređivača stilova
+styleeditor-media-rules = @media pravila
 styleeditor-editor-textbox =
     .data-placeholder = Upišite CSS ovdje.
 styleeditor-no-stylesheet-tip = Želite li možda <a data-l10n-name="append-new-stylesheet">dodati novi stil</a>?
