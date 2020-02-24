@@ -14,6 +14,11 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Guardar
     .tooltiptext = Guardar esta hoja de estilos a un fichero
     .accesskey = G
+styleeditor-options-button =
+    .tooltiptext = Opciones del editor de estilos
+styleeditor-media-rules = @media reglas
 styleeditor-editor-textbox =
     .data-placeholder = Escribe CSS aquí.
 styleeditor-no-stylesheet-tip = ¿Quizás te gustaría <a data-l10n-name="append-new-stylesheet">adjuntar una nueva hoja de estilos</a>?
+styleeditor-open-link-new-tab =
+    .label = Abrir enlace en una nueva pestaña
