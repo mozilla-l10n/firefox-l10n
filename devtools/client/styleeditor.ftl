@@ -2,8 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+styleeditor-new-button =
+    .tooltiptext = 새 스타일 시트를 만들어서 문서에 추가
+    .accesskey = N
+styleeditor-import-button =
+    .tooltiptext = 기존의 스타일 시트를 가져와서 문서에 추가
+    .accesskey = I
 styleeditor-visibility-toggle =
     .tooltiptext = 스타일 시트 적용 내용 보기
+    .accesskey = S
+styleeditor-save-button = 저장
+    .tooltiptext = 스타일 시트를 파일로 저장
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = 스타일 편집기 설정
