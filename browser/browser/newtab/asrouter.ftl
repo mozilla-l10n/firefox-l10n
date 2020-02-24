@@ -124,6 +124,7 @@ cfr-whatsnew-lockwise-take-link-text = Hol dir die App
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Weniger Tippen und mehr Finden mit der Adressleiste
 cfr-whatsnew-searchbar-icon-alt-text = Lupensymbol
 
 ## Picture-in-Picture
