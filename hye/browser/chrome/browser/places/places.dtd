@@ -36,8 +36,18 @@
 
 <!ENTITY cmd.backup.label               "Պահեստային…">
 <!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "Վերականգնել">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "Ընտրել նիշքը…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
+<!ENTITY cmd.deleteDomainData.label     "Մոռանալ այս կայքի մասին">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 
+<!ENTITY cmd.open.label                  "Բացել">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "Բացել նոր պատուհանում">
+<!ENTITY cmd.open_window.accesskey       "N">
 
 
 
