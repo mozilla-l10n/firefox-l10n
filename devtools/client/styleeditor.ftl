@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = સંગ્રહો
     .tooltiptext = આ સ્ટાઇલ શીટને ફાઇલમાં સંગ્રહો
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = શૈલી સંપાદક વિકલ્પો
+styleeditor-media-rules = @media નિયમો
 styleeditor-editor-textbox =
     .data-placeholder = CSS અહીં લખો.
 styleeditor-no-stylesheet-tip = કદાચ તમે <a data-l10n-name="append-new-stylesheet">નવી સ્ટાઇલ શીટ ઉમેરવા ઇચ્છો છો</a>?
