@@ -14,7 +14,12 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = சேமி
     .tooltiptext = இந்த ஸ்டைல் ஷீட்டை ஒரு கோப்பில் சேமி
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = பாணி தொகு தேர்வுகள்
+styleeditor-media-rules = @ஊடக விதிகள்
 styleeditor-editor-textbox =
     .data-placeholder = இங்கு CSS ஐத் தட்டச்சு செய்யவும்.
 styleeditor-no-stylesheet = பக்கத்தில் ஸ்டைல் ஷீட் இல்லை.
 styleeditor-no-stylesheet-tip = நீங்கள் இதை விரும்புகிறீர்களா <a data-l10n-name="append-new-stylesheet">புதிய ஸ்டைல் ஷீட்டை இணைத்தல்</a>?
+styleeditor-open-link-new-tab =
+    .label = இணைப்பைப் புதிய கீற்றில் திற
