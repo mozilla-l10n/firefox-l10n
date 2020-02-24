@@ -11,6 +11,14 @@ styleeditor-import-button =
 styleeditor-save-button = I-save
     .tooltiptext = I-save ang style sheet na ito sa isang file
     .accesskey = s
+styleeditor-options-button =
+    .tooltiptext = Mga pagpipilian sa Style Editor
+styleeditor-media-rules = @media rules
 styleeditor-editor-textbox =
     .data-placeholder = I-type ang CSS dito.
 styleeditor-no-stylesheet = Ang pahinang ito ay walang style sheet.
+styleeditor-no-stylesheet-tip = Baka gusto mo <a data-l10n-name="append-new-stylesheet">mag-append ng bagong style sheet</a>?
+styleeditor-open-link-new-tab =
+    .label = Buksan ang Link sa Bagong Tab
+styleeditor-copy-url =
+    .label = Kopyahin ang URL
