@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = 由于其有 <strong>{ $display }</st
 inactive-css-not-display-block-on-floated = 由于是 <strong>floated<strong> 元素，引擎已将 <strong>display</strong> 值更改为 <strong>block</strong>。
 inactive-css-property-is-impossible-to-override-in-visited = 由于 <strong>:visited</strong> 的限制，无法覆盖 <strong>{ $property }</strong>。
 inactive-css-position-property-on-unpositioned-box = 由于不是定位元素，<strong>{ $property }</strong> 对此元素无效。
+inactive-text-overflow-when-no-overflow = 由于未设置 <strong>overflow:hidden</strong>，<strong>{ $property }</strong> 对此元素无效。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = 请尝试添加
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = 请尝试添加 <strong>display:inline-block</strong>。{ learn-more }
 inactive-css-not-display-block-on-floated-fix = 请尝试移除 <strong>float</ strong> 或添加 <strong>display:block</strong>。{ learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = 请尝试将其 <strong>position</strong> 属性设为非 <strong>static</strong>。{ learn-more }
+inactive-text-overflow-when-no-overflow-fix = 请尝试添加 <strong>overflow:hidden</strong>。{ learn-more }
