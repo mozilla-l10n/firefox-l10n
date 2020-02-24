@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "추가할 수 있는 항목 관리">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-<!ENTITY projectMenu_refreshTabs_label "탭 새로고침">
+<!ENTITY projectMenu_refreshTabs_label "탭 새로 고침">
 
 <!ENTITY runtimeMenu_label "런타임">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -78,7 +78,7 @@
 <!ENTITY runtimePanel_wifi "Wi-Fi 기기">
 <!ENTITY runtimePanel_other "기타">
 <!ENTITY runtimePanel_nousbdevice "기기가 안뜹니까?">
-<!ENTITY runtimePanel_refreshDevices_label "기기 새로고침">
+<!ENTITY runtimePanel_refreshDevices_label "기기 새로 고침">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "유효">

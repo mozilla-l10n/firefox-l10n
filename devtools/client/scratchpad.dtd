@@ -134,7 +134,7 @@
 <!ENTITY resetContext2.label          "변수 재설정">
 <!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "새로고침하고 실행">
+<!ENTITY reloadAndRun.label           "새로 고침하고 실행">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 

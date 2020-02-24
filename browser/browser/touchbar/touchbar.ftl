@@ -6,7 +6,7 @@
 # MacBook Touch Bar.
 back = 뒤로
 forward = 앞으로
-reload = 새로고침
+reload = 새로 고침
 home = 홈
 fullscreen = 전체화면
 touchbar-fullscreen-exit = 전체 화면 종료

@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-reload-selected-tab =
-    .label = 선택한 탭 새로고침
+    .label = 선택한 탭 새로 고침
     .accesskey = R
 toolbar-context-menu-reload-selected-tabs =
-    .label = 선택한 탭 새로고침
+    .label = 선택한 탭 새로 고침
     .accesskey = R
 toolbar-context-menu-bookmark-selected-tab =
     .label = 선택한 탭 북마크…

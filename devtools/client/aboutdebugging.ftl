@@ -74,7 +74,7 @@ about-debugging-sidebar-support-icon =
     .alt = 도움말 아이콘
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
-about-debugging-refresh-usb-devices-button = 기기 새로고침
+about-debugging-refresh-usb-devices-button = 기기 새로 고침
 
 # Setup Page strings
 
