@@ -57,6 +57,9 @@ lockwise-header-content-logged-in = 비밀번호를 모든 기기에 안전하�
 protection-report-view-logins-button = 로그인 보기
     .title = 저장된 로그인으로 이동
 lockwise-no-logins-content = <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 앱을 통해 어디서나 비밀번호를 사용하세요.
+lockwise-mobile-app-title = 어디에서나 비밀번호를 사용하세요
+lockwise-no-logins-card-content = 모든 기기에서 { -brand-short-name }에 저장된 비밀번호를 사용하세요.
+lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 및 <a data-l10n-name="lockwise-ios-inline-link">iOS</a> 용 { -lockwise-brand-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
