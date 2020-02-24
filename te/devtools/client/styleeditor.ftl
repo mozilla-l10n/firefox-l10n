@@ -8,3 +8,4 @@ styleeditor-new-button =
 styleeditor-visibility-toggle =
     .tooltiptext = శైలి షీట్ దృశ్యనీయతను మార్చు
     .accesskey = S
+styleeditor-media-rules = @media నియమాలు
