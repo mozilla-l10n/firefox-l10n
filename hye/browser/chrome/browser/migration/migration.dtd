@@ -46,5 +46,9 @@
 <!ENTITY migrating.label                "Ներկա պահին ներմուծուում են հետեւեալ բաղադրիչները…">
 
 <!ENTITY selectProfile.title            "Ընտրէք հաշիւը">
+<!ENTITY selectProfile.label            "Կարող եք ներմուծել հետեւեալ հաշիւներից՝">
 
+<!ENTITY done.title                     "Ներմուծումն աւարտուեց">
+<!ENTITY done.label                     "Հետեւեալ բաղադրիչները յաջողութեամբ ներմուծուեցին՝">
 
+<!ENTITY closeSourceBrowser.label       "Շարունակելուց առաջ խնդրում ենք համոզուել, որ ընտրուած դիտարկիչը փակ է։">
