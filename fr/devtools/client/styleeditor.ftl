@@ -20,3 +20,5 @@ styleeditor-no-stylesheet = Cette page n’a aucune feuille de style.
 styleeditor-no-stylesheet-tip = Peut-être désirez-vous <a data-l10n-name="append-new-stylesheet">ajouter une nouvelle feuille de style</a> ?
 styleeditor-open-link-new-tab =
     .label = Ouvrir le lien dans un nouvel onglet
+styleeditor-copy-url =
+    .label = Copier l’URL
