@@ -14,7 +14,12 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = រក្សា​ទុក
     .tooltiptext = រក្សាទុក​សន្លឹក​រចនាប័ទ្ម​នេះ​ទៅកាន់​ឯកសារ
     .accesskey = រ
+styleeditor-options-button =
+    .tooltiptext = ជម្រើស​កម្មវិធី​កែ​រចនាប័ទ្ម
+styleeditor-media-rules = ក្បូន @media
 styleeditor-editor-textbox =
     .data-placeholder = វាយ CSS នៅ​ទីនេះ ។
 styleeditor-no-stylesheet = ទំព័រ​នេះ មិន​មាន​សន្លឹក​រចនាប័ទ្ម​ទេ ។
 styleeditor-no-stylesheet-tip = ប្រហែល​ជា​អ្នក​ចង់<a data-l10n-name="append-new-stylesheet">បន្ថែម​សន្លឹក​រចនាប័ទ្ម​ថ្មី</a>?
+styleeditor-open-link-new-tab =
+    .label = បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី
