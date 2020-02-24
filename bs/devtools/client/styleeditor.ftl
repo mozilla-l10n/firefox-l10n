@@ -14,7 +14,12 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Spasi
     .tooltiptext = Spasi ovaj style sheet u fajl
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = Opcije editora stilova
+styleeditor-media-rules = @media pravila
 styleeditor-editor-textbox =
     .data-placeholder = Pišite CSS ovdje.
 styleeditor-no-stylesheet = Ova stranica nema style sheet.
 styleeditor-no-stylesheet-tip = Možda biste željeli <a data-l10n-name="append-new-stylesheet">dodati novi style sheet</a>?
+styleeditor-open-link-new-tab =
+    .label = Otvori link u novom tabu
