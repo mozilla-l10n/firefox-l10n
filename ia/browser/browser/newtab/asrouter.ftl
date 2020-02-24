@@ -123,6 +123,7 @@ cfr-whatsnew-searchbar-title = Scribe minus, trova plus con le barra de adresse
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Accede al sitos que tu usa le plus con un sol clic in le barra de adresse. Trova cosas plus rapidemente con le resultatos de { $searchEngineName } e de tu chronologia de navigation.
 cfr-whatsnew-searchbar-body-generic = Accede al sitos que tu usa le plus con un sol clic in le barra de adresse. Trova cosas plus rapidemente con resultatos de recerca ab tu chronologia de navigation.
+cfr-whatsnew-searchbar-icon-alt-text = Icone de lupa
 
 ## Picture-in-Picture
 
