@@ -14,4 +14,7 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Kaydet
     .tooltiptext = Bu stil sayfasını bir dosyaya kaydet
     .accesskey = K
+styleeditor-media-rules = @media kuralları
 styleeditor-no-stylesheet-tip = Belki de <a data-l10n-name="append-new-stylesheet">yeni bir stil sayfası eklemek</a>istersiniz?
+styleeditor-open-link-new-tab =
+    .label = Bağlantıyı yeni sekmede aç
