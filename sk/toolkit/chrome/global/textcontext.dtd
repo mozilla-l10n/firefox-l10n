@@ -27,15 +27,13 @@
 
 <!ENTITY searchTextBox.clear.label "Vymazať">
 
-<!ENTITY fillLoginMenu.label          "Vyplniť prihlasovacie údaje">
+<!ENTITY fillLoginMenu.label          "Doplniť prihlasovacie údaje">
 <!ENTITY fillLoginMenu.accesskey      "V">
-<!ENTITY fillGeneratedPassword.label  "Použiť bezpečne vygenerované heslo">
-<!ENTITY fillGeneratedPassword.accesskey "g">
 <!ENTITY useGeneratedPassword.label   "Použiť bezpečne vygenerované heslo…">
 <!ENTITY useGeneratedPassword.accesskey "g">
-<!ENTITY fillPasswordMenu.label       "Vyplniť heslo">
+<!ENTITY fillPasswordMenu.label       "Doplniť heslo">
 <!ENTITY fillPasswordMenu.accesskey   "V">
-<!ENTITY fillUsernameMenu.label       "Vyplniť používateľské meno">
+<!ENTITY fillUsernameMenu.label       "Doplniť používateľské meno">
 <!ENTITY fillUsernameMenu.accesskey   "V">
 <!ENTITY noLoginSuggestions.label     "(žiadne návrhy prihlasovacích údajov)">
 <!ENTITY viewSavedLogins.label        "Zobraziť uložené prihlásenia">

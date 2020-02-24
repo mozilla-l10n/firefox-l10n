@@ -772,7 +772,7 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Ďalšie informácie
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Automaticky vypĺňať prihlasovacie údaje a heslá
+    .label = Automaticky dopĺňať prihlasovacie údaje a heslá
     .accesskey = u
 forms-saved-logins =
     .label = Uložené prihlasovacie údaje…

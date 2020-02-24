@@ -865,7 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokoval nezabezpečené časti tejto stránky.">
 <!ENTITY identity.passiveLoaded "Časti tejto stránky nie sú zabezpečené (napr. obrázky).">
-<!ENTITY identity.activeLoaded "Na tejto stránke ste vypli Ochranu pred sledovaním.">
+<!ENTITY identity.activeLoaded "Na tejto stránke ste vypli ochranu pred sledovaním.">
 <!ENTITY identity.weakEncryption "Táto stránka používa slabé šifrovanie.">
 
 <!-- Strings for connection state warnings in the subview. -->
