@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Odporúčané rozšírenie
 cfr-doorhanger-feature-heading = Odporúčaná funkcia
 cfr-doorhanger-pintab-heading = Vyskúšajte pripnúť kartu
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
@@ -103,6 +103,10 @@ cfr-whatsnew-lockwise-backup-link-text = Zapnúť zálohovanie
 cfr-whatsnew-lockwise-take-title = Vezmite si svoje heslá so sebou
 cfr-whatsnew-lockwise-take-body = S mobilnou aplikáciou { -lockwise-brand-short-name } získate bezpečný prístup k vašim zálohovaným prihlasovacím údajom - a to kdekoľvek.
 cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
+
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
 ## Picture-in-Picture
 
