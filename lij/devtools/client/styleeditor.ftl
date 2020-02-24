@@ -11,7 +11,14 @@ styleeditor-import-button =
 styleeditor-visibility-toggle =
     .tooltiptext = Inverti a vizibilitæ do feuggio de stile
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = Editô do stile
+styleeditor-media-rules = Regole @media
 styleeditor-editor-textbox =
     .data-placeholder = Scrivi o CSS chi.
 styleeditor-no-stylesheet = Sta pagina a no l'à feuggio de stile.
 styleeditor-no-stylesheet-tip = Fòscia ti ti veu <a data-l10n-name="append-new-stylesheet">azonzi 'n neuvo feuggio de stile</a>?
+styleeditor-open-link-new-tab =
+    .label = Arvi colegamento in neuvo feuggio
+styleeditor-copy-url =
+    .label = Còpia URL
