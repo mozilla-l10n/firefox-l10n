@@ -11,6 +11,11 @@ styleeditor-import-button =
 styleeditor-visibility-toggle =
     .tooltiptext = Bật tắt tính năng có thể xem style sheet
     .accesskey = S
+styleeditor-save-button = Lưu
+    .tooltiptext = Lưu style sheet thành một tập tin
+    .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = Tùy chọn trình chỉnh sửa kiểu mẫu
 styleeditor-media-rules = Quy tắc @media
 styleeditor-editor-textbox =
     .data-placeholder = Gõ CSS tại đây.
@@ -18,3 +23,5 @@ styleeditor-no-stylesheet = Trang này không có style sheet.
 styleeditor-no-stylesheet-tip = Có thể bạn sẽ thích<a data-l10n-name="append-new-stylesheet">gắn thêm một style sheet mới</a>?
 styleeditor-open-link-new-tab =
     .label = Mở liên kết trong thẻ mới
+styleeditor-copy-url =
+    .label = Sao chép URL
