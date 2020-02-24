@@ -73,6 +73,9 @@ lockwise-header-content-logged-in = Bezpečně uchovává a synchronizuje vaše 
 protection-report-view-logins-button = Zobrazit přihlašovací údaje
     .title = Zobrazit uložené přihlašovací údaje
 lockwise-no-logins-content = Stáhněte si aplikaci <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> a mějte svá hesla všude s sebou.
+lockwise-mobile-app-title = Vezměte si svá hesla všude s sebou
+lockwise-no-logins-card-content = Používejte hesla uložená ve { -brand-short-name(case: "loc") } na jakémkoliv zařízení.
+lockwise-app-links = { -lockwise-brand-name } pro <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
