@@ -14,3 +14,5 @@ styleeditor-no-stylesheet = 이 페이지에는 스타일 시트가 없습니다
 styleeditor-no-stylesheet-tip = 그렇지 않으면,<a data-l10n-name="append-new-stylesheet">새로운 스타일 시트를 추가</a>하시겠습니까?
 styleeditor-open-link-new-tab =
     .label = 링크를 새 탭으로 열기
+styleeditor-copy-url =
+    .label = URL 복사
