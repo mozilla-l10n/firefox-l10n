@@ -19,4 +19,7 @@ styleeditor-options-button =
 styleeditor-media-rules = @මාධ්‍ය රීති
 styleeditor-editor-textbox =
     .data-placeholder = CSS මෙහි ටයිප් කරන්න.
+styleeditor-no-stylesheet = මෙහි මොස්තර පිටුවක් ඇතුළත්ව නැත.
 styleeditor-no-stylesheet-tip = සමහර විට ඔබ <a data-l10n-name="append-new-stylesheet">නව මෝසතර පිටුවක් ඇමුණුමට කැමති වනු ඇත</a>?
+styleeditor-open-link-new-tab =
+    .label = සබැඳිය නව ටැබයක විවෘත කරන්න
