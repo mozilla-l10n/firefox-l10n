@@ -1,13 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-
 <!ENTITY pref.mainbox.label "Pagrindinės nuostatos" >
+
 <!ENTITY pref.dateformat.label "Datos formatas:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "ilgasis" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Numatytoji trukmė:" >
 <!ENTITY pref.default_event_length.accesskey "t">
 
+<!ENTITY pref.default_event_task_length.label "Numatytoji įvykio ir užduoties trukmė">
+<!ENTITY pref.default_event_task_length.accesskey "N">
+
 <!ENTITY pref.default_task_none.label "Nenurodyta">
 <!ENTITY pref.default_task_start_of_day.label "Dienos pradžia">
 <!ENTITY pref.default_task_end_of_day.label "Dienos pabaiga">
@@ -34,8 +38,11 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Skaičiuojant nuo kitos valandos">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Šiandienos polangis">
-<!ENTITY pref.soondays.label "Skyriuje „netrukus“ rodyti:">
-<!ENTITY pref.soondays.accesskey "n">
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
 
 <!ENTITY pref.accessibility.label "Pritaikymas neįgaliesiems" >
 <!ENTITY pref.systemcolors.label "Optimizuoti spalvas turintiems regėjimo negalią" >
