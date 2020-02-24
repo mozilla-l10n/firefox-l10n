@@ -296,6 +296,7 @@ locale-enabled-heading = Activadas
 ask-to-activate-button = Demandar per activar
 always-activate-button = Totjorn activar
 never-activate-button = Activar pas jamai
+addon-detail-last-updated-label = Darrièra mesa a jorn
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
