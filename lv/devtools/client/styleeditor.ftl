@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media likumi
 styleeditor-editor-textbox =
     .data-placeholder = Rakstiet CSS šeit.
+styleeditor-no-stylesheet = Šajā lapā nav stila dokumentu.
 styleeditor-no-stylesheet-tip = Iespējams jūs vēlaties <a data-l10n-name="append-new-stylesheet">pievienot jaunu stila dokumentu</a>?
+styleeditor-open-link-new-tab =
+    .label = Atvērt saiti jaunā cilnē
+styleeditor-copy-url =
+    .label = Kopēt adresi
