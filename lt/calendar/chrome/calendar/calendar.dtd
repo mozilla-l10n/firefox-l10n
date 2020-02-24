@@ -179,24 +179,39 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Dalyvavimas">
 <!ENTITY calendar.context.attendance.menu.accesskey             "D">
 <!ENTITY calendar.context.attendance.occurrence.label           "Tik šiame įvykyje">
+<!ENTITY calendar.context.attendance.send.label                 "Siųsti pranešimą">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
 <!ENTITY calendar.context.attendance.dontsend.label             "Priminimo nesiųsti">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "n">
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "P">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Priimta">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "l">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Preliminariai priimta">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "A">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Atmesta">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "e">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Perduota">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "V">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Vis dar reikia atsakymo">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "V">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "Vykdoma">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "B">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Baigta">
 
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "P">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Priimta">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Preliminariai priimta">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "A">
 <!ENTITY calendar.context.attendance.all.declined.label         "Atmesta">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "e">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Perduota">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "v">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Vis dar reikia atsakymo">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "V">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Vykdoma">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "B">
 <!ENTITY calendar.context.attendance.all.completed.label        "Baigta">
 
 <!-- Task Context Menu -->
