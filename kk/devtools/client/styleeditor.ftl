@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media ережелері
 styleeditor-editor-textbox =
     .data-placeholder = CSS осында теріңіз.
+styleeditor-no-stylesheet = Бұл парақта стильдер тізімі жоқ.
 styleeditor-no-stylesheet-tip = Мүмкін, келесіні қыласыз: <a data-l10n-name="append-new-stylesheet">жаңа стильдер тізімін іске асыру</a>?
+styleeditor-open-link-new-tab =
+    .label = Сілтемені жаңа бетте ашу
+styleeditor-copy-url =
+    .label = Сілтемесін көшіріп алу
