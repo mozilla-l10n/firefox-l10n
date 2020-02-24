@@ -88,5 +88,6 @@ policy-SecurityDevices = Asenna PKCS #11 -moduulit.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
 policy-SupportMenu = Lisää Ohje-valikkoon oma valikkokohta tukea varten.
+policy-UserMessaging = Älä näytä tiettyjä viestejä käyttäjälle.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja käyttötavasta.

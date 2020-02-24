@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Suositeltu laajennus
 cfr-doorhanger-feature-heading = Suositeltu ominaisuus
 cfr-doorhanger-pintab-heading = Kokeile tätä: Kiinnitä välilehti
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
@@ -121,6 +121,15 @@ cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name }-mobiilisovellus mahdollistaa salasanojesi
     käytön turvallisesti mistä tahansa.
 cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Kirjoita vähemmän, löydä enemmän osoitepalkilla
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Siirry eniten käyttämillesi sivustoille yhdellä osoiterivin napsautuksella. Löydä asioita nopeammin { $searchEngineName }-hakutuloksilla ja selaushistorialla.
+cfr-whatsnew-searchbar-body-generic = Siirry eniten käyttämillesi sivustoille yhdellä osoiterivin napsautuksella. Löydä asioita nopeammin selaushistorian hakutuloksilla.
+cfr-whatsnew-searchbar-icon-alt-text = Suurennuslasin kuvake
 
 ## Picture-in-Picture
 
