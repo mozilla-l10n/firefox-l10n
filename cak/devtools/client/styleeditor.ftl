@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @q'ojom taq etab'äl
 styleeditor-editor-textbox =
     .data-placeholder = Tatz'ib'aj CSS wawe'.
+styleeditor-no-stylesheet = Re ruxaq re' man k'o ta rub'anikil ruxaq.
 styleeditor-no-stylesheet-tip = ¿Rik'in jub'a' narayib'ej<a data-l10n-name="append-new-stylesheet">titz'aqatisäx jun k'ak'a' taq rub'anikil ruxaq</a>?
+styleeditor-open-link-new-tab =
+    .label = Tijaq ri ximonel pa jun k'ak'a' ruwi'
+styleeditor-copy-url =
+    .label = Tiwachib'ëx URL
