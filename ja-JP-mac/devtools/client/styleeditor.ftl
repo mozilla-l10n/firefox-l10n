@@ -16,9 +16,12 @@ styleeditor-save-button = 保存
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = スタイルエディターのオプション
+styleeditor-media-rules = メディアクエリー
 styleeditor-editor-textbox =
     .data-placeholder = ここに CSS を入力します。
 styleeditor-no-stylesheet = このページにはスタイルシートがありません。
 styleeditor-no-stylesheet-tip = それとも、<a data-l10n-name="append-new-stylesheet">新規スタイルシートを追加</a>しますか？
 styleeditor-open-link-new-tab =
     .label = リンクを新規タブで開く
+styleeditor-copy-url =
+    .label = URL をコピー
