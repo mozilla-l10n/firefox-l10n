@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media नियम
 styleeditor-editor-textbox =
     .data-placeholder = CSS खौ बेयाव टाइप खालाम।
+styleeditor-no-stylesheet = बे बिलाइहा आदब सिट गैया।
 styleeditor-no-stylesheet-tip = जानो हागौ, नोंथाङा लुबैनो हागौ<a data-l10n-name="append-new-stylesheet">मोनसे गोदान आदब सिट बांहोनो</a>?
+styleeditor-open-link-new-tab =
+    .label = गोदान टेबआव लिंकखौ खेव
+styleeditor-copy-url =
+    .label = कपि URL
