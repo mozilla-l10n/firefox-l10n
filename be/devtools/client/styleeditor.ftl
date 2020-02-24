@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = Гэтая старонка не мае табліц
 styleeditor-no-stylesheet-tip = Магчыма, вы хочаце <a data-l10n-name="append-new-stylesheet">дадаць новую табліцу стыляў</a>?
 styleeditor-open-link-new-tab =
     .label = Адкрыць спасылку ў новай картцы
+styleeditor-copy-url =
+    .label = Капіяваць URL
