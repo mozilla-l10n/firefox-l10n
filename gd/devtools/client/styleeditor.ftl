@@ -14,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Sàbhail
     .tooltiptext = Sàbhail an siota-stoidhle seo mar fhaidhle
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = Style Editor options
+styleeditor-media-rules = @media rules
 styleeditor-editor-textbox =
     .data-placeholder = Cuir CSS an-seo.
 styleeditor-no-stylesheet-tip = Saoil am bu toigh leat <a data-l10n-name="append-new-stylesheet">siota-stoidhle ùr a chur ris</a>?
