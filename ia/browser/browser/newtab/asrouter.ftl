@@ -119,6 +119,10 @@ cfr-whatsnew-lockwise-take-link-text = Obtener le application
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Scribe minus, trova plus con le barra de adresse
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Accede al sitos que tu usa le plus con un sol clic in le barra de adresse. Trova cosas plus rapidemente con le resultatos de { $searchEngineName } e de tu chronologia de navigation.
+cfr-whatsnew-searchbar-body-generic = Accede al sitos que tu usa le plus con un sol clic in le barra de adresse. Trova cosas plus rapidemente con resultatos de recerca ab tu chronologia de navigation.
 
 ## Picture-in-Picture
 
