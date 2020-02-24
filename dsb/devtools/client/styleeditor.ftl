@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = pšawidła @media
 styleeditor-editor-textbox =
     .data-placeholder = Zapišćo how CSS.
+styleeditor-no-stylesheet = Toś ten bok njama stilowu pśedłogu.
 styleeditor-no-stylesheet-tip = Snaź wy by rady <a data-l10n-name="append-new-stylesheet">nowu stilowu pśedłogu pśipowjesył</a>?
+styleeditor-open-link-new-tab =
+    .label = Wótkaz w nowem rejtarku wócyniś
+styleeditor-copy-url =
+    .label = URL kopěrowaś
