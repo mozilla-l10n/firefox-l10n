@@ -19,4 +19,4 @@ appmenuitem-zoom-reduce =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = Sinxronlash
+    .label = Hozir sinxronlash
