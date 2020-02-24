@@ -8,6 +8,9 @@ styleeditor-import-button =
 styleeditor-save-button = Simpan
     .tooltiptext = Simpan lembaran gaya ini ke dalam fail
     .accesskey = S
+styleeditor-media-rules = Aturan @media
 styleeditor-editor-textbox =
     .data-placeholder = Taip CSS di sini.
 styleeditor-no-stylesheet-tip = Mungkin anda ingin untuk <a data-l10n-name="append-new-stylesheet">lampirkan satu gaya lembaran yang baru</a>?
+styleeditor-open-link-new-tab =
+    .label = Buka Pautan dalam Tab Baru
