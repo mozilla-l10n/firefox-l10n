@@ -120,6 +120,11 @@ cfr-whatsnew-lockwise-take-link-text = Obtenir l’application
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Tapez moins, trouvez plus avec la barre d’adresse
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Accédez à vos sites les plus visités en un seul clic dans la barre d’adresse. Trouvez les choses plus rapidement avec les résultats de { $searchEngineName } et votre historique de navigation.
+cfr-whatsnew-searchbar-body-generic = Accédez à vos sites les plus visités en un seul clic dans la barre d’adresse. Trouvez les choses plus rapidement avec les résultats de recherche de votre historique de navigation.
 cfr-whatsnew-searchbar-icon-alt-text = Icône de loupe
 
 ## Picture-in-Picture
