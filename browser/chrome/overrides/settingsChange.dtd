@@ -3,5 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Innstillingane kan endrast under Program-fana i &brandShortName; sine innstillingar.">
-<!ENTITY  settingsChangeOptions.label      "Innstillingane kan endrast under Program-fana i &brandShortName; sine innstillingar.">
+<!ENTITY  settingsChangePreferences.label  "Dette kan endrast i Generelt -> Program i &brandShortName;-innstillingar.">
+<!ENTITY  settingsChangeOptions.label      "Dette kan endrast i Generelt -> Program i &brandShortName;-Innstillingar.">
