@@ -7,6 +7,14 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Hiqe fushën { $type }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type =
+    { $count ->
+        [0] Empty Fushë dhëniesh { $type } e zbrazët
+        [one] Fushë dhëniesh { $type } me një adresë
+       *[other] Fushë dhëniesh { $type } me { $count } adresa
+    }
 pill-action-edit =
     .label = Përpunoni Adresë
     .accesskey = P
