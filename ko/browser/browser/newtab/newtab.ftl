@@ -198,4 +198,4 @@ newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = 이런! 이 콘텐츠를 불러오는데 오류가 발생하였습니다.
-newtab-error-fallback-refresh-link = 페이지를 새로고침해서 다시 시도해 주세요.
+newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시도해 주세요.

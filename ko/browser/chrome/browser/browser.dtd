@@ -601,7 +601,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "프레임 새로고침">
+<!ENTITY reloadFrameCmd.label         "프레임 새로 고침">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "선택 영역 소스 보기">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -1034,7 +1034,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.block6.label "이 사이트에 대한 차단 켜기">
 <!ENTITY trackingProtection.block6.accesskey "T">
-<!ENTITY trackingProtection.reload2.label "페이지 새로고침">
+<!ENTITY trackingProtection.reload2.label "페이지 새로 고침">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "모두 보기">
