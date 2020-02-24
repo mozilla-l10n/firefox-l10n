@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = Táto stránka nemá priradený súbor štýlov.
 styleeditor-no-stylesheet-tip = Možno by ste chceli <a data-l10n-name="append-new-stylesheet">pripojiť nový súbor štýlov</a>?
 styleeditor-open-link-new-tab =
     .label = Otvoriť odkaz na novej karte
+styleeditor-copy-url =
+    .label = Kopírovať adresu URL
