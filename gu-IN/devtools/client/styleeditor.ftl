@@ -19,4 +19,7 @@ styleeditor-options-button =
 styleeditor-media-rules = @media નિયમો
 styleeditor-editor-textbox =
     .data-placeholder = CSS અહીં લખો.
+styleeditor-no-stylesheet = આ પાનાંને કોઇ સ્ટાઇલ શીટ નથી.
 styleeditor-no-stylesheet-tip = કદાચ તમે <a data-l10n-name="append-new-stylesheet">નવી સ્ટાઇલ શીટ ઉમેરવા ઇચ્છો છો</a>?
+styleeditor-open-link-new-tab =
+    .label = નવી ટૅબમાં લિંક ખોલો
