@@ -1,10 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
+<!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Gosodiadau'r Cyfrif">
+
+<!ENTITY  accountManagerCloseButton.label "Cau">
 
 <!ENTITY accountActionsButton.label "Gweithredoedd Cyfrif">
 <!ENTITY accountActionsButton.accesskey "G">
@@ -20,7 +24,10 @@
 <!ENTITY setDefaultButton.accesskey "R">
 <!ENTITY removeButton.label "Tynnu Cyfrif">
 <!ENTITY removeButton.accesskey "T">
+
 <!-- AccountManager.xul -->
+
+<!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -29,6 +36,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
 <!ENTITY accountTree.width "width: 32ch;">
