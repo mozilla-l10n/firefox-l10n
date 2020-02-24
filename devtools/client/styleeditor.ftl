@@ -4,19 +4,19 @@
 
 styleeditor-new-button =
     .tooltiptext = Skapa och lägg till en ny stilmall till dokumentet
-    .accesskey = N
+    .accesskey = S
 styleeditor-import-button =
     .tooltiptext = Importera och lägg till en befintlig stilmall till dokumentet
-    .accesskey = I
+    .accesskey = m
 styleeditor-visibility-toggle =
     .tooltiptext = Växla visning av stilmall
-    .accesskey = S
+    .accesskey = V
 styleeditor-save-button = Spara
     .tooltiptext = Spara den här stilmallen till en fil
     .accesskey = S
 styleeditor-options-button =
-    .tooltiptext = StilEditor alternativ
-styleeditor-media-rules = @media regler
+    .tooltiptext = Alternativ för stilredigerare
+styleeditor-media-rules = Media-förfrågningar
 styleeditor-editor-textbox =
     .data-placeholder = Skriv in CSS här.
 styleeditor-no-stylesheet = Den här sidan har ingen stilmall.
