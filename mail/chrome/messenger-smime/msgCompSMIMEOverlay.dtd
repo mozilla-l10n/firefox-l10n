@@ -5,10 +5,31 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "Šifriraj to sporočilo">
-<!ENTITY menu_securityEncryptRequire.accesskey "Š">
+
+<!ENTITY menu_securityDoNotEncrypt.label "Ne šifriraj">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "e">
+
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
+<!ENTITY menu_securityEncryptRequire2.label "Zahtevaj šifriranje">
+<!ENTITY menu_securityEncryptRequire.accesskey "š">
 
 <!ENTITY menu_securitySign.label "Digitalno podpiši to sporočilo">
 <!ENTITY menu_securitySign.accesskey "D">
+
+<!ENTITY menu_securityAttachMyKey.label "Priloži moj javni ključ">
+<!ENTITY menu_securityAttachMyKey.accesskey "P">
+
+<!ENTITY menu_securityTech.label "Tehnologija šifriranja">
+<!ENTITY menu_securityTech.accesskey "T">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Pokaži podatke o varnosti">
 <!ENTITY menu_securityStatus.accesskey "P">
