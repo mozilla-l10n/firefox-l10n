@@ -57,6 +57,9 @@ lockwise-header-content-logged-in = 安全地儲存密碼，並同步到您的�
 protection-report-view-logins-button = 檢視登入資訊
     .title = 前往已存登入資訊
 lockwise-no-logins-content = 下載 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App，把密碼隨身帶著走。
+lockwise-mobile-app-title = 密碼隨身帶著走
+lockwise-no-logins-card-content = 在任何裝置上使用儲存到 { -brand-short-name } 的密碼。
+lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 與 <a data-l10n-name="lockwise-ios-inline-link">iOS</a> 版的 { -lockwise-brand-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
