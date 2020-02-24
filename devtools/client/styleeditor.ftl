@@ -5,6 +5,9 @@
 styleeditor-new-button =
     .tooltiptext = Crea i afegeix un full d'estil nou al document
     .accesskey = N
+styleeditor-import-button =
+    .tooltiptext = Importa i afegeix un full d'estil existent al document
+    .accesskey = I
 styleeditor-visibility-toggle =
     .tooltiptext = Commuta la visibilitat del full d'estil
     .accesskey = D
