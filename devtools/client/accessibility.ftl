@@ -44,5 +44,6 @@ accessibility-text-label-issue-toolbar = birden fazla araç çubuğu varsa araç
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-action = Etkileşimli elemanlar klavye ile etkinleştirilebilmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-keyboard-issue-focusable = Etkileşimli elemanlar odaklanılabilir olmalı. <a>Daha fazla bilgi alın</a>
 accessibility-keyboard-issue-mouse-only = Tıklanabilir elemanlar odaklanılabilir olmalı ve etkileşimli semantiğe sahip olmalı. <a>Daha fazla bilgi alın</a>
