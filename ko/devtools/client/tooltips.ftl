@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $display }</strong>의 표�
 inactive-css-not-display-block-on-floated = 요소가 <strong>floated<strong>이므로 <strong>display</strong> 값이 엔진에 의해 <strong>block</strong>으로 변경되었습니다.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> 제한으로 인해 <strong>{ $property }</strong>를 재정의 할 수 없습니다.
 inactive-css-position-property-on-unpositioned-box = 위치가 지정된 요소가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
+inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong>이 설정되어 있지 않으므로 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong>을 추가하세요. { learn-more }
 inactive-css-not-display-block-on-floated-fix = <strong>float</strong>를 제거하거나 <strong>display:block</strong>을 추가해보세요. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> 속성을 <strong>static</strong> 이외의 것으로 설정해 보세요. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong>을 추가하세요. { learn-more }
