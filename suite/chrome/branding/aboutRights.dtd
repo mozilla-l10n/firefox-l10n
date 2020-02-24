@@ -20,9 +20,14 @@
 <!ENTITY rights.intro-point1b "Mozillan julkisen lisenssin (Mozilla Public License)">
 <!ENTITY rights.intro-point1c " ehdoilla. Lisenssissä annetaan sinulle oikeus käyttää, kopioida ja levittää &brandShortName;tä. Sinulla on myös halutessasi oikeus muokata ja muuttaa &brandShortName;n lähdekoodia omien tarpeidesi mukaan. Mozillan julkinen lisenssi antaa sinulle myös oikeuden levittää näitä muokkaamiasi versioita.">
 
-<!ENTITY rights.intro-point2a "Mozilla ei anna sinulle mitään oikeuksia Mozilla-  tai SeaMonkey-tavaramerkkeihin tai -logoihin. Voit lukea tarkempia lisätietoja tavaramerkeistä ">
+<!ENTITY rights.intro-point2a "SeaMonkey e.V ei anna sinulle mitään oikeuksia SeaMonkey-tavaramerkkeihin tai -logoihin. Voit lukea tarkempia lisätietoja tavaramerkeistä">
+
 <!ENTITY rights.intro-point2b "täältä">
 <!ENTITY rights.intro-point2c ".">
+
+<!-- point 2d is technically point 3. in the list -->
+
+<!-- point 2da is technically point 3. in the list -->
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName;n tietosuojakäytäntö on luettavissa ">
@@ -41,9 +46,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; tarjoaa valinnaisia palveluita (&quot;Palvelut&quot;), kuten lisäosien ehdotus- ja päivityspalvelut tai Safe Browsing -ominaisuus, jotka ovat käytettävissäsi tässä &brandShortName;n binääriversiossa alla kuvatulla tavalla.  Nämä palvelut ovat oletuksena käytössä.  Jos et halua käyttää Palveluita tai et hyväksy alla kuvattuja ehtoja, ohjeet jonkin tietyn ominaisuuden tai palvelun käytöstä poistamiseksi löytyvät ">
-<!ENTITY rights2.webservices-b "täältä">
-<!ENTITY rights2.webservices-c ". Muut ominaisuudet ja Palvelut voi poistaa käytöstä sovelluksen asetuksista.">
+<!-- intro paragraph for branded builds -->
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Lisäosapalvelut: ">
@@ -53,7 +56,6 @@
 <!ENTITY rights.addons-term3 "Poista valinnat kohdista &quot;&autoAddOnsUpdates.label;&quot; ja &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Lisäosapalvelut on nyt poistettu käytöstä">
 
-
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Safe Browsing: ">
 <!ENTITY rights.safebrowsing-b "Safe Browsing -toiminnon ottaminen pois päältä ei ole suositeltua, koska se voi johtaa ei-turvallisilla sivuilla käyntiin. Jos haluat ottaa tämän ominaisuuden pois päältä kokonaan, tee seuraavasti:">
@@ -62,8 +64,11 @@
 <!ENTITY rights.safebrowsing-term3 "Poista valinnat kohdista &quot;&blockAttackSites.label;&quot; ja &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing -toiminto on nyt otettu pois päältä">
 
+<!-- location aware browsing points for branded builds -->
 
-<!-- points 1-6 text for branded builds -->
+<!-- points 0-6 text for branded builds -->
+
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; voi lakkauttaa tai muuttaa palveluita oman harkintansa mukaan.">
 <!ENTITY rights.webservices-term2 "Voit käyttää näitä palveluita tämän &brandShortName;n version kanssa ja sinulla on ohjelman myötä kaikki tarvittavat oikeudet niiden käyttämiseen. &vendorShortName; ja sen lisensoijat säilyttävät kaikki muut oikeudet palveluun. Näitä ehtoja ei ole suunniteltu rajoittamaan mitään &brandShortName;n avoimen lähdekoodin lisenssien myöntämiä oikeuksia saati lähdekoodiversiolle myönnettyjä oikeuksia.">
 <!ENTITY rights.webservices-term3 "Palvelut toimitetaan siinä tilassa &quot;kuin ne ovat&quot;. &vendorShortName;, siihen liittyvät vapaaehtoiset, lisensoijat ja levittäjät kieltävät kaikki takuut, mukaan lukien lupaukset palvelun kaupallisesta laadusta ja sopivuudesta tarkoituksiisi. Kannat kokonaan vastuun palvelun valinnasta koskien sen laatua ja suorituskykyä. Jotkut lainsäädännöt eivät salli tällaista vastuun rajoitusta, joten edellä mainittu ei välttämättä pidä paikkaansa.">

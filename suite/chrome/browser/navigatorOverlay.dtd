@@ -122,17 +122,17 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "E">
 <!ENTITY cookieBlockImagesMsg.label "Tälle sivustolle kuuluvia kuvia ei ladata milloinkaan.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Salli tämän sivuston ponnahdusikkunat">
-<!ENTITY cookieAllowPopupsCmd.accesskey "S">
-<!ENTITY cookieManagePopups.label "Muokkaa ponnahdusikkunoiden avausoikeuksia">
-<!ENTITY cookieManagePopups.accesskey "M">
+<!ENTITY popupBlockCmd.label "Estä tämän sivuston ponnahdusikkunat">
+<!ENTITY popupBlockCmd.accesskey "E">
+<!ENTITY popupsManage.label "Hallitse ponnahdusikkunoita">
+<!ENTITY popupsManage.accesskey "H">
 
 <!ENTITY cookieCookieManager.label "Evästeiden hallinta">
 <!ENTITY cookieCookieManager.accesskey "E">
 <!ENTITY cookieImageManager.label "Kuvien hallinta">
 <!ENTITY cookieImageManager.accesskey "u">
-<!ENTITY cookiePopupManager.label "Ponnahdusikkunoiden hallinta">
-<!ENTITY cookiePopupManager.accesskey "P">
+<!ENTITY popupsManager.label "Ponnahdusikkunoiden hallinta">
+<!ENTITY popupsManager.accesskey "i">
 
 <!ENTITY clearPrivateDataCmd.label "Poista yksityistietoja…">
 <!ENTITY clearPrivateDataCmd.accesskey "o">
