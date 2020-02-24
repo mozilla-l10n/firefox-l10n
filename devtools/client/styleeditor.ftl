@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = 這個頁面沒有樣式表。
 styleeditor-no-stylesheet-tip = 也許您想要 <a data-l10n-name="append-new-stylesheet">附加全新的樣式表</a>?
 styleeditor-open-link-new-tab =
     .label = 用新分頁開啟鏈結
+styleeditor-copy-url =
+    .label = 複製網址
