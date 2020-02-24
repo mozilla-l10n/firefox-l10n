@@ -122,7 +122,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Os seguintes sites solicitaram enviar notificações. Você pode especificar quais sites podem enviar notificações. Também pode bloquear novas solicitações de permissão para exibir notificações.
 permissions-site-notification-disable-label =
     .label = Bloquear novas solicitações de permissão para exibir notificações
-permissions-site-notification-disable-desc = Isto impedirá que qualquer site solicite nova permissão para enviar notificações. Bloquear notificações pode atrapalhar funcionalidades de alguns sites.
+permissions-site-notification-disable-desc = Isso impede que qualquer site solicite nova permissão para enviar notificações. Bloquear notificações pode atrapalhar funcionalidades de alguns sites.
 
 ## Site Permissions - Location
 
@@ -132,7 +132,7 @@ permissions-site-location-window =
 permissions-site-location-desc = Os seguintes sites solicitaram acessar sua localização. Você pode especificar quais sites podem acessar sua localização. Também pode bloquear novas solicitações de permissão de acesso à sua localização.
 permissions-site-location-disable-label =
     .label = Bloquear novas solicitações de permissão para acessar sua localização
-permissions-site-location-disable-desc = Isto impedirá que qualquer site solicite nova permissão para acessar sua localização. Bloquear o acesso à sua localização pode atrapalhar funcionalidades de alguns sites.
+permissions-site-location-disable-desc = Isso impede que qualquer site solicite nova permissão para acessar sua localização. Bloquear o acesso à sua localização pode atrapalhar funcionalidades de alguns sites.
 
 ## Site Permissions - Virtual Reality
 
@@ -142,7 +142,7 @@ permissions-site-xr-window =
 permissions-site-xr-desc = Os seguintes sites solicitaram acesso a seus dispositivos de realidade virtual. Você pode especificar quais sites podem acessar seus dispositivos de realidade virtual. Também pode bloquear novas solicitações de permissão de acesso a seus dispositivos de realidade virtual.
 permissions-site-xr-disable-label =
     .label = Bloquear novas solicitações de permissão para acessar seus dispositivos de realidade virtual
-permissions-site-xr-disable-desc = Isto impedirá que qualquer site solicite nova permissão para acessar seus dispositivos de realidade virtual. Bloquear o acesso a seus dispositivos de realidade virtual pode atrapalhar funcionalidades de alguns sites.
+permissions-site-xr-disable-desc = Isso impede que qualquer site solicite nova permissão para acessar seus dispositivos de realidade virtual. Bloquear o acesso a seus dispositivos de realidade virtual pode atrapalhar funcionalidades de alguns sites.
 
 ## Site Permissions - Camera
 
@@ -152,7 +152,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Os seguintes sites solicitaram acesso à sua câmera. Você pode especificar quais sites podem acessar sua câmera. Também pode bloquear novas solicitações de permissão de acesso à sua câmera.
 permissions-site-camera-disable-label =
     .label = Bloquear novas solicitações de permissão para acessar sua câmera
-permissions-site-camera-disable-desc = Isto impedirá que qualquer site solicite nova permissão para acessar sua câmera. Bloquear o acesso à sua câmera pode atrapalhar funcionalidades de alguns sites.
+permissions-site-camera-disable-desc = Isso impede que qualquer site solicite nova permissão para acessar sua câmera. Bloquear o acesso à sua câmera pode atrapalhar funcionalidades de alguns sites.
 
 ## Site Permissions - Microphone
 
@@ -162,4 +162,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = Os seguintes sites solicitaram acesso ao seu microfone. Você pode especificar quais sites podem acessar seu microfone. Também pode bloquear novas solicitações de permissão de acesso ao seu microfone.
 permissions-site-microphone-disable-label =
     .label = Bloquear novas solicitações de permissão para acessar seu microfone
-permissions-site-microphone-disable-desc = Isto impedirá que qualquer site solicite nova permissão para acessar seu microfone. Bloquear o acesso ao seu microfone pode atrapalhar funcionalidades de alguns sites.
+permissions-site-microphone-disable-desc = Isso impede que qualquer site solicite nova permissão para acessar seu microfone. Bloquear o acesso ao seu microfone pode atrapalhar funcionalidades de alguns sites.
