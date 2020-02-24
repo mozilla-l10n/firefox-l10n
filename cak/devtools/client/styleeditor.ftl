@@ -5,6 +5,9 @@
 styleeditor-new-button =
     .tooltiptext = Tinuk' chuqa' titz'aqatisäx jun k'ak'a' rub'anikil ruxaq ri wuj
     .accesskey = K
+styleeditor-import-button =
+    .tooltiptext = Tijik' pe chuqa' titz'aqatisäx jun rub'anikil ruxaq ri wuj
+    .accesskey = T
 styleeditor-visibility-toggle =
     .tooltiptext = Tijalwachïx rutz'etik ri rub'anikil ruxaq
     .accesskey = T
