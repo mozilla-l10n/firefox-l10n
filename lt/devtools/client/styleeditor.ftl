@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @media taisyklės
 styleeditor-editor-textbox =
     .data-placeholder = Čia rašykite CSS taisykles.
+styleeditor-no-stylesheet = Šis tinklalapis nenaudoja stilių aprašų.
 styleeditor-no-stylesheet-tip = Galbūt norite <a data-l10n-name="append-new-stylesheet">pridėti naują stilių aprašą</a>?
+styleeditor-open-link-new-tab =
+    .label = Atverti saitą naujoje kortelėje
+styleeditor-copy-url =
+    .label = Kopijuoti URL
