@@ -33,7 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> har in
 inactive-css-not-display-block-on-floated = Värdet <strong>display</strong> har ändrats av motorn till <strong>block</strong> eftersom elementet är <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Det är omöjligt att skriva över <strong>{ $property }</strong> på grund av begränsningen <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är ett positionerat element.
-inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong>Har ingen effekt på detta element eftersom <strong>overflow:hidden</strong> inte är satt.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> har ingen effekt på detta element eftersom <strong>overflow:hidden</strong> inte är satt.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
