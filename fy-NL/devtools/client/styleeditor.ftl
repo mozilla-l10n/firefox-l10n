@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = Dizze side hat gjin stylblêd.
 styleeditor-no-stylesheet-tip = Miskien wolle jo <a data-l10n-name="append-new-stylesheet">in nij stylblêd tapasse</a>?
 styleeditor-open-link-new-tab =
     .label = Keppeling iepenje yn nij ljepblêd
+styleeditor-copy-url =
+    .label = URL kopiearje
