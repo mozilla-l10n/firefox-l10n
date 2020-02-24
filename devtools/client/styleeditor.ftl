@@ -16,3 +16,4 @@ styleeditor-save-button = සුරකින්න
     .accesskey = S
 styleeditor-editor-textbox =
     .data-placeholder = CSS මෙහි ටයිප් කරන්න.
+styleeditor-no-stylesheet-tip = සමහර විට ඔබ <a data-l10n-name="append-new-stylesheet">නව මෝසතර පිටුවක් ඇමුණුමට කැමති වනු ඇත</a>?
