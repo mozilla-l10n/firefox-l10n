@@ -12,5 +12,9 @@ styleeditor-visibility-toggle =
     .tooltiptext = శైలి షీట్ దృశ్యనీయతను మార్చు
     .accesskey = S
 styleeditor-media-rules = @media నియమాలు
+styleeditor-editor-textbox =
+    .data-placeholder = ఇక్కడ CSS టైపుచెయ్యండి.
+styleeditor-no-stylesheet = ఈ పేజీకి శైలి షీట్ ఏమీ లేదు.
+styleeditor-no-stylesheet-tip = బహశా మీరు కొత్త శైలిషీట్‌ను <a data-l10n-name="append-new-stylesheet">ఒక కొత్త శైలి షీటును జోడించు</a>?
 styleeditor-open-link-new-tab =
     .label = లింకును కొత్త ట్యాబులో తెరువు
