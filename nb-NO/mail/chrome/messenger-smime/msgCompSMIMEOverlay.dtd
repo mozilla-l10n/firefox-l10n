@@ -14,7 +14,7 @@
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
-<!ENTITY menu_securityEncryptRequire2.label "Krever kryptering">
+<!ENTITY menu_securityEncryptRequire2.label "Krev kryptering">
 <!ENTITY menu_securityEncryptRequire.accesskey "K">
 
 <!ENTITY menu_securitySign.label "Signer denne meldingen digitalt">
