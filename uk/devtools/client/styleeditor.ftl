@@ -14,7 +14,12 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Зберегти
     .tooltiptext = Зберегти цю таблицю стилів у файл
     .accesskey = З
+styleeditor-options-button =
+    .tooltiptext = Налаштування редактора стилів
+styleeditor-media-rules = Правила @media
 styleeditor-editor-textbox =
     .data-placeholder = Введіть код CSS тут.
 styleeditor-no-stylesheet = Ця сторінка не має таблиці стилів.
 styleeditor-no-stylesheet-tip = Можливо, бажаєте <a data-l10n-name="append-new-stylesheet">додати нову таблицю стилів</a>?
+styleeditor-open-link-new-tab =
+    .label = Відкрити посилання в новій вкладці
