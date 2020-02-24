@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = Ilugan @media
 styleeditor-editor-textbox =
     .data-placeholder = Sekcem tawsit CSS da.
+styleeditor-no-stylesheet = Asebter-agi ur ɣuṛ-s ara tiferkit n uɣanib.
 styleeditor-no-stylesheet-tip = Ahat tebɣiḍ <a data-l10n-name="append-new-stylesheet">Rnu tiferkit n uɣanib tamaynut</a>?
+styleeditor-open-link-new-tab =
+    .label = Ldi aseɣwen deg iccer amaynut
+styleeditor-copy-url =
+    .label = Nɣel URL
