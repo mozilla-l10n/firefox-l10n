@@ -19,4 +19,9 @@ styleeditor-options-button =
 styleeditor-media-rules = @adyere cik
 styleeditor-editor-textbox =
     .data-placeholder = Co CSS kany.
+styleeditor-no-stylesheet = Pot buk man pe ki style sheet.
 styleeditor-no-stylesheet-tip = Onyo i mito <a data-l10n-name="append-new-stylesheet">medo style sheet manyen</a>?
+styleeditor-open-link-new-tab =
+    .label = Yab kakube i tab manyen
+styleeditor-copy-url =
+    .label = Lok URL
