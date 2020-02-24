@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+styleeditor-new-button =
+    .tooltiptext = Izveidot un pievienot dokumentam jaunu stila failu
+    .accesskey = n
 styleeditor-import-button =
     .tooltiptext = Import un pievienot dokumentam jaunu stila failu
     .accesskey = I
@@ -11,6 +14,9 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Saglabāt
     .tooltiptext = Saglabāt stila failu
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = Stila redaktora iestatījumi
+styleeditor-media-rules = @media likumi
 styleeditor-editor-textbox =
     .data-placeholder = Rakstiet CSS šeit.
 styleeditor-no-stylesheet-tip = Iespējams jūs vēlaties <a data-l10n-name="append-new-stylesheet">pievienot jaunu stila dokumentu</a>?
