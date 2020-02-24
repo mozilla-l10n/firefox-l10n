@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = Ta stran ne vsebuje slogovnih predlog.
 styleeditor-no-stylesheet-tip = Ali želite <a data-l10n-name="append-new-stylesheet">dodati novo slogovno predlogo</a>?
 styleeditor-open-link-new-tab =
     .label = Odpri povezavo v novem zavihku
+styleeditor-copy-url =
+    .label = Kopiraj URL
