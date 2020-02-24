@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = Esta página no tiene hoja de estilo.
 styleeditor-no-stylesheet-tip = Quizás desee <a data-l10n-name="append-new-stylesheet">agregar una nueva hoja de estilo</a>?
 styleeditor-open-link-new-tab =
     .label = Abrir enlace en nueva pestaña
+styleeditor-copy-url =
+    .label = Copiar URL
