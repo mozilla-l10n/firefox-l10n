@@ -77,7 +77,7 @@ permissions-exceptions-etp-desc = Na ovim web-stanicama je zaštita isključena.
 permissions-exceptions-cookie-window =
     .title = Iznimke - kolačići i podaci web stranice
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Možete navesti koje web stranice smiju uvijek ili nikad koristiti kolačiće i podatke web stranice. Unesite točnu adresu stranice koju želite podesiti, te kliknite Blokiraj, Dopusti za sesiju ili Dopusti.
+permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni Blokiraj, Dopusti za sesiju ili Dopusti.
 
 ## Exceptions - Pop-ups
 
@@ -105,7 +105,7 @@ permissions-exceptions-addons-desc = Možete odabrati koje web stranice smiju in
 permissions-exceptions-autoplay-media-window2 =
     .title = Iznimke - automatska reprodukcija
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Možete navesti koje web stranice smiju uvijek ili nikad automatski reproducirati medij sa zvukom. Unesite točnu adresu stranice koju želite podesiti, te kliknite Blokiraj ili Dopusti.
+permissions-exceptions-autoplay-media-desc2 = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada automatski svirati audio snimke. Upiši točnu adresu stranice koju želiš podesiti i klikni Blokiraj, Dopusti za sesiju ili Dopusti.
 
 ## Site Permissions - Autoplay
 

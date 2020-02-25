@@ -61,7 +61,7 @@ policy-FlashPlugin = Dopusti ili zabrani upotrebu dodatka Flash.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Postavite i opcionalno zaključajte početnu stranicu.
-policy-InstallAddonsPermission = Dopustite određenim web stranicama da instaliraju dodatke.
+policy-InstallAddonsPermission = Dopusti određenim web stranicama da instaliraju dodatke.
 policy-LegacyProfiles = Onemogućuje značajku koja nameće zaseban profil za svaku instalaciju
 policy-LocalFileLinks = Omogućite određenim web stranicama poveznice na lokalne datoteke.
 policy-NetworkPrediction = Omogućite ili onemogućite predviđanje mreže (DNS prefetching).
