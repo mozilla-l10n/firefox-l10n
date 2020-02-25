@@ -126,6 +126,10 @@ cfr-whatsnew-lockwise-take-link-text = Preuzmi aplikaciju
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tipkaj manje, pronađi više s adresnom trakom
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Otvori web stranice koja najčešće koristiš jednim klikom u adresnu traku. Pronađi stvari brže pomoću { $searchEngineName } rezultata i tvoje povijesti pregledavanja.
+cfr-whatsnew-searchbar-body-generic = Otvori web stranice koja najčešće koristiš jednim klikom u adresnu traku. Pronađi stvari brže pomoću rezultata pretrage tvoje povijesti pregledavanja.
 cfr-whatsnew-searchbar-icon-alt-text = Ikona za povećalo
 
 ## Picture-in-Picture
