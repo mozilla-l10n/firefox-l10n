@@ -136,7 +136,7 @@ media-device-rate = Stopa
 media-device-latency = Latencija
 media-capabilities-title = Mogućnosti medija
 # List all the entries of the database.
-media-capabilities-enumerate = Označite bazu podataka
+media-capabilities-enumerate = Popis unosa baze podataka
 
 ##
 
@@ -284,8 +284,8 @@ has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
 has-seccomp-tsync = Seccomp Thread sinkronizacija
 has-user-namespaces = Korisnički imenski prostori
 has-privileged-user-namespaces = Korisnički imenski prostori za privilegirane procese
-can-sandbox-content = Sandboxing sadržajnog procesa
-can-sandbox-media = Sandboxing media priključka
+can-sandbox-content = Odvojeno pokretanje procesa sadržaja
+can-sandbox-media = Odvojeno pokretanje priključka za medije
 content-sandbox-level = Sandbox razina sadržajnog procesa
 effective-content-sandbox-level = Sandbox razina učinkovitog sadržajnog procesa
 sandbox-proc-type-content = sadržaj
