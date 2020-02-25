@@ -78,7 +78,7 @@ onboarding-benefit-privacy-title = Prava privatnost
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o osobnim podacima: Uzmi manje podataka. Drži ih na sigurnom. Bez tajni.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Uzmi svoje oznake, lozinke, povijest i još mnogo toga gdje god koristiš { -brand-product-name }.
+onboarding-benefit-sync-text = Ponesi svoje zabilješke, lozinke, povijest i ostalo, gdjegod koristiš { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Dobij obavijest kad se tvoji podaci nalaze u poznatom curenju podataka.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
@@ -101,7 +101,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Pretražujte brže, pametnije i sigurnije s dodacima kao Ghostery, što vam omogućuje blokiranje dosadnih oglasa.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronizacija
-onboarding-fxa-text = Otvorite { -fxaccount-brand-name } i sinkronizirajte svoje zabilješke, lozinke i otvorene kartice gdje god koristite { -brand-short-name }.
+onboarding-fxa-text = Otvori { -fxaccount-brand-name } i sinkroniziraj svoje zabilješke, lozinke i otvorene kartice gdjegod koristiš { -brand-short-name }.
 onboarding-tracking-protection-title2 = Zaštita od praćenja
 onboarding-tracking-protection-text2 = { -brand-short-name } sprečava web stranice da te prate po internetu, što reklamama otežava praćenje.
 onboarding-tracking-protection-button2 = Kako ovo funkcionira
@@ -135,7 +135,7 @@ onboarding-send-tabs-button = Počni korisitit „Pošalji kartice”
 onboarding-pocket-anywhere-title = Čitaj i slušaj bilo gdje
 onboarding-pocket-anywhere-text2 = Spremi svoj omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitaj, slušaj i gledaj kad god želiš.
 onboarding-pocket-anywhere-button = Probaj { -pocket-brand-name }
-onboarding-lockwise-passwords-title = Ponesite svoje lozinke posvuda
+onboarding-lockwise-passwords-title = Ponesi svoje lozinke sa sobom
 onboarding-lockwise-passwords-text2 = Zaštitite lozinke koje spremite i jednostavno se prijavite u svoje račune s { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Preuzmi program
 onboarding-lockwise-strong-passwords-title = Stvori i spremi jake lozinke
