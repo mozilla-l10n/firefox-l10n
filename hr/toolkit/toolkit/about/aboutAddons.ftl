@@ -357,7 +357,7 @@ preferences-addon-button =
     }
 details-addon-button = Detalji
 release-notes-addon-button = Napomene o izdanju
-permissions-addon-button = Dopuštenja
+permissions-addon-button = Dozvole
 addons-enabled-heading = Omogućeno
 addons-disabled-heading = Onemogućeno
 extension-enabled-heading = Omogućeno
