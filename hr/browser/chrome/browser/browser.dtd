@@ -1053,7 +1053,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Sigurno pregledavanje!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Hvala!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Saznaj više o DRM-u …">
+<!ENTITY emeLearnMoreContextMenu.label            "Saznaj više o upravljanju digitalnim pravima …">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.panelUI.label "Preuzmi &brandShorterName; ažuriranje">
