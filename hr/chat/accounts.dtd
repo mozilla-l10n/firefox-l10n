@@ -30,7 +30,7 @@
 <!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Pomakni gore">
 <!ENTITY account.movedown.label       "Pomakni dolje">
-<!ENTITY account.cancelReconnection.label         "Otkaži ponovno povezivanje">
+<!ENTITY account.cancelReconnection.label         "Prekini ponovno povezivanje">
 <!ENTITY account.cancelReconnection.accesskey     "a">
 <!ENTITY account.copyDebugLog.label     "Kopiraj zapisnik za otklanjanje greški">
 <!ENTITY account.copyDebugLog.accesskey "K">
