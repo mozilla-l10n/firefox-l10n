@@ -94,7 +94,7 @@ fonts-minsize = Minimalna veličina fonta
 fonts-minsize-none =
     .label = Ništa
 fonts-allow-own =
-    .label = Dopusti stranicama odabrati vlastiti font, umjesto mojeg gornjeg odabira
+    .label = Dozvoli stranicama odabrati vlastiti font, umjesto mojeg gornjeg odabira
     .accesskey = a
 
 ## Text Encodings

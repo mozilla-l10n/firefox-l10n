@@ -13,10 +13,10 @@ permissions-block =
     .label = Blokiraj
     .accesskey = B
 permissions-session =
-    .label = Dopusti za sesiju
+    .label = Dozvoli za sesiju
     .accesskey = s
 permissions-allow =
-    .label = Dopusti
+    .label = Dozvoli
     .accesskey = D
 permissions-site-name =
     .label = Web stranica
@@ -38,23 +38,23 @@ permissions-autoplay-menu = Zadano za sve web stranice:
 permissions-searchbox =
     .placeholder = Pretraži web stranicu
 permissions-capabilities-autoplay-allow =
-    .label = Dopusti zvuk i video
+    .label = Dozvoli zvuk i video
 permissions-capabilities-autoplay-block =
     .label = Blokiraj zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokiraj zvuk i video
 permissions-capabilities-allow =
-    .label = Dopusti
+    .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
 permissions-capabilities-listitem-allow =
-    .value = Dopusti
+    .value = Dozvoli
 permissions-capabilities-listitem-block =
     .value = Blokiraj
 permissions-capabilities-listitem-allow-session =
-    .value = Dopusti za sesiju
+    .value = Dozvoli za sesiju
 
 ## Invalid Hostname Dialog
 
@@ -77,14 +77,14 @@ permissions-exceptions-etp-desc = Na ovim web-stanicama je zaštita isključena.
 permissions-exceptions-cookie-window =
     .title = Iznimke - kolačići i podaci web stranice
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni Blokiraj, Dopusti za sesiju ili Dopusti.
+permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni Blokiraj, Dozvoli za sesiju ili Dozvoli.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Dopuštene stranice - skočni prozori
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Može odrediti koje web-stranice smiju prikazivati skočne prozore. Upiši točnu adresu web-stranice kojoj to želiš dopustiti, te klikni na „Dopusti”.
+permissions-exceptions-popup-desc = Može odrediti koje web-stranice smiju prikazivati skočne prozore. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Exceptions - Saved Logins
 
@@ -98,7 +98,7 @@ permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće b
 permissions-exceptions-addons-window =
     .title = Dopuštene stranice - Instalacija dodataka
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Možete odabrati koje web stranice smiju instalirati dodatke. Upišite točnu adresu web stranice kojoj to želite dopustiti, te kliknite na Dopusti.
+permissions-exceptions-addons-desc = Možeš odabrati, koje web stranice smiju instalirati dodatke. Upiši točnu adresu web stranice kojoj to želite dozvoliti, te kliknite na Dozvoli.
 
 ## Exceptions - Autoplay Media
 
