@@ -182,7 +182,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "Odaberite oblik paragrafa">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Tekst tijela">
+<!ENTITY bodyTextCmd.label "Glavni tekst">
 <!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Napredne postavke">
@@ -205,9 +205,9 @@
 <!ENTITY alignJustify.tooltip "Poravnaj obostrano">
 
 <!-- Layer toolbar items -->
-<!ENTITY layer.tooltip "Layer">
-<!ENTITY layerSendToBack.tooltip "Send to Back">
-<!ENTITY layerBringToFront.tooltip "Bring to Front">
+<!ENTITY layer.tooltip "Sloj">
+<!ENTITY layerSendToBack.tooltip "Sloj prema natrag">
+<!ENTITY layerBringToFront.tooltip "Sloj prema naprijed">
 
 <!ENTITY increaseIndent.label "Povećaj uvlaku">
 <!ENTITY increaseIndent.accesskey "e">
@@ -242,7 +242,7 @@
 <!ENTITY tableRow.label "Red">
 <!ENTITY tableRows.label "Redove">
 <!ENTITY tableRow.accesskey "R">
-<!ENTITY tableRowAbove.label "Rad iznad">
+<!ENTITY tableRowAbove.label "Red iznad">
 <!ENTITY tableRowAbove.accesskey "R">
 <!ENTITY tableRowBelow.label "Red ispod">
 <!ENTITY tableRowBelow.accesskey "s">
