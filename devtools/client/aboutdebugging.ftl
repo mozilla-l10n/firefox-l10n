@@ -223,7 +223,7 @@ about-debugging-debug-target-list-empty = 没有任何东西。
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
-about-debugging-debug-target-inspect-button = 查看
+about-debugging-debug-target-inspect-button = 检查
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = 临时载入附加组件…
@@ -300,7 +300,7 @@ about-debugging-worker-push-service =
     .label = 推送服务
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = Service Worker “查看”目前在多进程 { -brand-shorter-name } 下禁用
+    .title = Service Worker 检查功能目前在多进程 { -brand-shorter-name } 下暂时无法使用
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = 主进程

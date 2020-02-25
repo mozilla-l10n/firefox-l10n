@@ -56,7 +56,7 @@ serviceworker-worker-status-stopped = 已停止
 serviceworker-worker-status-registering = 正在注册...
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = 先注册一个 Service Worker 才可在此查看。<a>详细了解</a>
+serviceworker-empty-intro = 检查先注册一个 Service Worker 才可在此检查。<a>详细了解</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = 如果当前页面中应有 Service Worker，您可以尝试：
@@ -68,7 +68,7 @@ serviceworker-empty-suggestions-console = 在控制台中排查错误。<a>打�
 serviceworker-empty-suggestions-debugger = 逐步注册您的 Service Worker，检查是否有异常发生。<a>打开调试器</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = 查看其他域名的 Service Worker。<a>打开 about:debugging</a>
+serviceworker-empty-suggestions-aboutdebugging = 检查其他域名的 Service Worker。<a>打开 about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = 应用清单文件
 # Header for the Manifest page when there's no manifest to inspect
