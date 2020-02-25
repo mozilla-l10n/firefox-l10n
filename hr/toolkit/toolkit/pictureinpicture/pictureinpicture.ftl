@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Utišaj
 pictureinpicture-unmute =
     .aria-label = Odtišaj
+pictureinpicture-close =
+    .aria-label = Zatvori
