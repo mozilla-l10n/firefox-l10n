@@ -84,11 +84,11 @@ lockwise-connected-device-status =
         [few] Povezano s { $count } uređaja
        *[other] Povezano s { $count } uređaja
     }
-monitor-title = Pazi na hakirane podatke
+monitor-title = Pazi na curenje podataka
 monitor-link = Kako funkcionira
-monitor-header-content-no-account = Provjerite { -monitor-brand-name } kako biste vidjeli da li ste bili sudionik poznatog curenja podataka i dobivajte obavijesti ukoliko dođe do novog curenja podataka.
+monitor-header-content-no-account = Koristi { -monitor-brand-name } i provjeri, je li se tvoji podaci nalaze u poznatom curenja podataka te dobivaj obavijesti o novim curenjima podataka.
 monitor-header-content-signed-in = { -monitor-brand-name } te upozorava ukoliko su se tvoji podaci pojavili u curenju podataka.
-monitor-sign-up = Prijavi se za upozorenja o hakiranju
+monitor-sign-up = Prijavi se za upozorenja o curenju podataka
 auto-scan = Danas automatski pretraženo
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -113,9 +113,9 @@ info-known-breaches-found =
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] Lozinka je izložena u curenja podataka
-        [few] Lozinke su izložene u curenju podataka
-       *[other] Lozinki je izloženo u curenju podataka
+        [one] lozinka je izložena u curenja podataka
+        [few] lozinke su izložene u curenju podataka
+       *[other] lozinki je izloženo u curenju podataka
     }
 full-report-link = Pogledaj cjeloviti izvještaj na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number

@@ -767,7 +767,7 @@ forms-generate-passwords =
     .label = Predloži i generiraj jake lozinke
     .accesskey = g
 forms-breach-alerts =
-    .label = Prikaži upozorenja o lozinkama za zlonamjerne web stranice
+    .label = Prikaži upozorenja o lozinkama za hakirane web stranice
     .accesskey = u
 forms-breach-alerts-learn-more-link = Saznaj više
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
