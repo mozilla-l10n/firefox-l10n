@@ -879,7 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Iako je &brandShortName; blokirao dio sadržaja, još uvijek postoje nesigurni sadržaji na ovoj stranici (poput slika).">
 <!ENTITY identity.description.activeLoaded "Ova stranica ima nesiguran sadržaj (poput skripti) i tvoja veza nije privatna.">
 <!ENTITY identity.description.activeLoaded2 "Informacije koje dijelite s ovom stranicom (npr. lozinke, poruke, broj kreditne kartice itd.) može vidjeti treća strana.">
-<!ENTITY identity.description.customRoot "Mozilla ne prepoznaje ovog izdavatelja certifikata. Možda je dodan iz tvog operacijskog sustava ili od strane administratora.">
+<!ENTITY identity.description.customRoot "Mozilla ne prepoznaje ovog izdavatelja certifikata. Možda ga je dodao tvoj operacijski sustav ili administrator.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Omogući zaštitu">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "O">
