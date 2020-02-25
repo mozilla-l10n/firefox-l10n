@@ -104,9 +104,9 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Curenje podataka je izložilo tvoje informacije
-        [few] Curenja podataka je izložilo tvoje informacije
-       *[other] Curenja podataka je izložilo tvoje informacije
+        [one] poznato curenje podataka je izložilo tvoje informacije
+        [few] poznata curenja podataka su izložila tvoje informacije
+       *[other] poznatih curenja podataka je izložilo tvoje informacije
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
