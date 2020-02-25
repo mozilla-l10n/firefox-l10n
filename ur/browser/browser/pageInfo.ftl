@@ -96,7 +96,7 @@ security-view-privacy =
 security-view-privacy-history-value = میں نے آج سے پہلے یہ ویب سائٹ دیکھی ہے؟
 security-view-privacy-sitedata-value = کیا یہ ویب سائٹ میرے کمپیوٹر پر معلومات کو محفوظ کررہی ہے؟
 security-view-privacy-clearsitedata =
-    .label = کوکیاں اور سائٹ کے کواِئف صاف کریں
+    .label = کوکیس اور سائٹ کے کواِئف صاف کریں
     .accesskey = C
 security-view-privacy-passwords-value = کیا میں نے اس ویب سائٹ کے لیے کوئی پاس ورڈ محفوظ کیے ہیں؟
 security-view-privacy-viewpasswords =
@@ -114,7 +114,7 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-only = ہاں ، سائٹ کے ڈیٹا کی { $value }{ $unit }
-security-site-data-cookies-only = ہاں، کوکیاں
+security-site-data-cookies-only = ہاں، کوکیس
 security-site-data-no = نہیں
 image-size-unknown = نامعلوم
 not-set-verified-by = اختصاص شدہ نہیں

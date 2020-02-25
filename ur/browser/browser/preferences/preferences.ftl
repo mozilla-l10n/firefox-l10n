@@ -720,7 +720,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = کوکیاں اور سائٹ کے کواِئف
+sitedata-header = کوکیس اور سائٹ کے کواِئف
 sitedata-total-size-calculating = سائٹ کے ڈیٹا اور کیشے کے ماپ کا حساب لگا رہے ہیں…
 sitedata-learn-more = مزید سیکھیں
 sitedata-allow-cookies-option =
@@ -798,7 +798,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
 content-blocking-social-media-trackers = سماجی میڈیا ٹریکرز
-content-blocking-all-cookies = تمام کوکیاں
+content-blocking-all-cookies = تمام کوکیس
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز

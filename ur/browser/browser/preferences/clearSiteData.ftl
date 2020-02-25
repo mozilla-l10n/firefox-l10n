@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = کوکیاں اور سائٹ کوائف
+    .label = کوکیس اور سائٹ کوائف
     .accesskey = S
 clear-site-data-cookies-info = اگر صاف کیا تو شاید آپ ویبسائٹسٹ سے سائن آئوٹ کر دیائے حائیں
 # The parameters in parentheses in this string describe disk usage
