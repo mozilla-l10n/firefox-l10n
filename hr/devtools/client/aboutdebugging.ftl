@@ -257,7 +257,7 @@ about-debugging-extension-location =
 about-debugging-extension-id =
     .label = ID proširenja
 # This string is displayed as a label of the button that starts a service worker.
-about-debugging-worker-action-start = Započni
+about-debugging-worker-action-start = Pokreni
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Odjavi
 # Displayed for service workers in runtime pages that are currently running (service
@@ -279,8 +279,11 @@ about-debugging-main-process-name = Glavni proces
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Glavni proces za ciljani preglednik
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Višeprocesni alati
 # Description for the Multiprocess Toolbox target.
-about-debugging-multiprocess-toolbox-description = Glavni procesi i procesi sadržaja za ciljni preglednik
+about-debugging-multiprocess-toolbox-description = Glavni procesi i procesi sadržaja za ciljani preglednik
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zatvori poruku
