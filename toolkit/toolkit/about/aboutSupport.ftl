@@ -234,8 +234,8 @@ virtual-monitor-disp = Prikaz virtualnog monitora
 
 found = Pronađeno
 missing = Nedostaje
-gpu-process-pid = GPUProcessPid
-gpu-process = GPUProcess
+gpu-process-pid = Pid procesa grafičke procesorske jedinice
+gpu-process = Proces grafičke procesorske jedinice
 gpu-description = Opis
 gpu-vendor-id = ID proizvođača
 gpu-device-id = ID uređaja
@@ -246,20 +246,20 @@ gpu-driver-vendor = Izdavatelj upravljačkog programa
 gpu-driver-version = Inačica upravljačkog programa
 gpu-driver-date = Datum upravljačkog programa
 gpu-active = Aktivan
-webgl1-wsiinfo = WebGL 1 WSI informacije upravljačkog programa
-webgl1-renderer = WebGL 1 iscrtavač upravljačkog programa
-webgl1-version = WebGL 1 verzija upravljačkog programa
-webgl1-driver-extensions = WebGL 1 dodaci upravljačkog programa
+webgl1-wsiinfo = WSI informacije upravljačkog programa WebGL 1
+webgl1-renderer = Iscrtavač upravljačkog programa WebGL 1
+webgl1-version = Verzija upravljačkog programa WebGL 1
+webgl1-driver-extensions = Dodaci upravljačkog programa WebGL 1
 webgl1-extensions = WebGL 1 dodaci
-webgl2-wsiinfo = WebGL 2 WSI informacije upravljačkog programa
-webgl2-renderer = WebGL 2 iscrtavač upravljačkog programa
-webgl2-version = WebGL 2 verzija upravljačkog programa
-webgl2-driver-extensions = WebGL 2 dodaci upravljačkog programa
+webgl2-wsiinfo = WSI informacije upravljačkog programa WebGL 2
+webgl2-renderer = Iscrtavač upravljačkog programa WebGL 2
+webgl2-version = Verzija upravljačkog programa WebGL 2
+webgl2-driver-extensions = Dodaci upravljačkog programa WebGL 2
 webgl2-extensions = WebGL 2 dodaci
 blocklisted-bug = Blokiran zbog poznatih problema
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
+bug-link = greška { $bugNumber }
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokiran; kȏd neuspjeha { $failureCode }
