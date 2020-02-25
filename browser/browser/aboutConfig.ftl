@@ -5,7 +5,7 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Here be dragons!
 about-config-warning-text = Het wijzigen van deze uitgebreide voorkeuren kan schadelijk zijn voor de stabiliteit, veiligheid en prestaties van deze toepassing. Ga alleen door als u weet wat u doet.
-about-config-warning-checkbox = Blijf me tot last zijn!
+about-config-warning-checkbox = Blijf me lastigvallen!
 about-config-warning-button = Ik aanvaard het risico
 about-config2-title = Geavanceerde configuraties
 about-config-search-input =
@@ -18,7 +18,7 @@ about-config-intro-warning-text = Het wijzigen van geavanceerde configuratievoor
 about-config-intro-warning-checkbox = Mij waarschuwen als ik deze voorkeuren probeer te benaderen
 about-config-intro-warning-button = Het risico aanvaarden en doorgaan
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Het wijzigen van deze voorkeuren kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
