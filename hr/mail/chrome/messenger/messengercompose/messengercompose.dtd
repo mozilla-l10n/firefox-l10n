@@ -347,7 +347,7 @@
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Pretvori u…">
 <!ENTITY convertCloud.accesskey "e">
-<!ENTITY cancelUpload.label "Otkaži prijenos">
+<!ENTITY cancelUpload.label "Prekini prijenos">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Normalni privitak">
 <!ENTITY convertRegularAttachment.accesskey "m">
