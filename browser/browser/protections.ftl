@@ -61,6 +61,8 @@ lockwise-header-content-logged-in = Spremaj i sinkroniziraj lozinke na svim svoj
 protection-report-view-logins-button = Prikaži prijave
     .title = Idi na spremljene prijave
 lockwise-no-logins-content = Instalirajte <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> aplikaciju kako biste sve svoje lozinke uvijek imali uz sebe.
+lockwise-mobile-app-title = Ponesi svoje lozinke sa sobom
+lockwise-no-logins-card-content = Koristi lozinke koje su spremljene u { -brand-short-name }u na bilo kojem uređaju.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> i <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
