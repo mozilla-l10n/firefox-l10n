@@ -5,10 +5,21 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "Dit bericht versleutelen">
+
+<!ENTITY menu_securityDoNotEncrypt.label "Niet versleutelen">
+
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
 <!ENTITY menu_securityEncryptRequire.accesskey "v">
 
 <!ENTITY menu_securitySign.label "Dit bericht digitaal ondertekenen">
 <!ENTITY menu_securitySign.accesskey "o">
+
+
+
 
 <!ENTITY menu_securityStatus.label "Beveiligingsinfo bekijken">
 <!ENTITY menu_securityStatus.accesskey "b">

@@ -15,3 +15,15 @@ address-input-type =
         [one] Invoerveld { $type } met een adres
        *[other] Invoerveld { $type } met { $count } adressen
     }
+pill-action-edit =
+    .label = Adres bewerken
+    .accesskey = d
+pill-action-move-to =
+    .label = Verplaatsen naar Aan
+    .accesskey = A
+pill-action-move-cc =
+    .label = Verplaatsen naar Cc
+    .accesskey = c
+pill-action-move-bcc =
+    .label = Verplaatsen naar Bcc
+    .accesskey = B
