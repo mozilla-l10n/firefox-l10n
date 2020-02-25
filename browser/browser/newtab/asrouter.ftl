@@ -73,7 +73,7 @@ cfr-doorhanger-pintab-animation-resume = Nastavi
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Sinkronizirajte svoje zabilješke svugdje.
+cfr-doorhanger-bookmark-fxa-header = Sinkroniziraj svoje zabilješke svagdje.
 cfr-doorhanger-bookmark-fxa-body = Izvrsno! Nemoj ostati bez ove zabilješke na tvom mobilnom uređaju. Započni s { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sinkronizirajte zabilješke sada…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -163,7 +163,7 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } može blok
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Preuzmi ovu oznaku na svoj mobitel
-cfr-doorhanger-sync-bookmarks-body = Ponesi svoje zabilješke, lozinke, povijest i ostalo, gdje god si prijavljen/a na { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-body = Ponesi svoje zabilješke, lozinke, povijest i ostalo, gdjegod si prijavljen/a na { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Uključi { -sync-brand-short-name }
     .accesskey = U
 
