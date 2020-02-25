@@ -12,7 +12,7 @@ cfr-doorhanger-pintab-heading = Probeer dit: Tabblad vastmaken
 ##
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = Waarom zie ik dit
+    .tooltiptext = Waarom zie ik dit?
 cfr-doorhanger-extension-cancel-button = Niet nu
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Nu toevoegen
