@@ -77,14 +77,14 @@ permissions-exceptions-etp-desc = Na ovim web-stanicama je zaštita isključena.
 permissions-exceptions-cookie-window =
     .title = Iznimke - kolačići i podaci web stranice
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni Blokiraj, Dozvoli za sesiju ili Dozvoli.
+permissions-exceptions-cookie-desc = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada koristiti kolačiće i podatke web stranice. Upiši točnu adresu stranice koju želiš podesiti i klikni „Blokiraj”, „Dozvoli za sesiju” ili „Dozvoli”.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Dopuštene stranice - skočni prozori
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Može odrediti koje web-stranice smiju prikazivati skočne prozore. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
+permissions-exceptions-popup-desc = Možeš odrediti web-stranice, koje smiju prikazivati skočne prozore. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Exceptions - Saved Logins
 
@@ -98,14 +98,14 @@ permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće b
 permissions-exceptions-addons-window =
     .title = Dopuštene stranice - Instalacija dodataka
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Možeš odabrati, koje web stranice smiju instalirati dodatke. Upiši točnu adresu web stranice kojoj to želite dozvoliti, te kliknite na Dozvoli.
+permissions-exceptions-addons-desc = Možeš odrediti web-stranice, koje smiju instalirati dodatke. Upiši točnu adresu web-stranice kojoj to želiš dozvoliti, te klikni na „Dozvoli”.
 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window2 =
     .title = Iznimke - automatska reprodukcija
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Možeš odrediti web stranice, koje smiju uvijek ili ne smiju nikada automatski svirati audio snimke. Upiši točnu adresu stranice koju želiš podesiti i klikni Blokiraj, Dopusti za sesiju ili Dopusti.
+permissions-exceptions-autoplay-media-desc2 = Možeš odrediti web-stranice, koje smiju uvijek ili ne smiju nikada automatski svirati audio snimke. Upiši točnu adresu stranice koju želiš podesiti i klikni „Blokiraj”, „Dozvoli za sesiju” ili „Dozvoli”.
 
 ## Site Permissions - Autoplay
 
@@ -139,7 +139,7 @@ permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa 
 permissions-site-xr-window =
     .title = Postavke - dopuštenja virtualne stvarnosti
     .style = { permissions-window.style }
-permissions-site-xr-desc = Sljedeće web stranice zatražile su pristup tvojim uređajima za virtualnu stvarnost. Možeš odabrati kojim web stranicama ćeš dopustiti pristup tvojim uređajima za virtualnu stvarnost. Možeš i blokirati nove zahtjeve za pristup tvojim uređajima za virtualnu stvarnost.
+permissions-site-xr-desc = Sljedeće web stranice zatražile su pristup tvojim uređajima za virtualnu stvarnost. Možeš odabrati kojim web stranicama ćeš dozvoliti pristup tvojim uređajima za virtualnu stvarnost. Možeš i blokirati nove zahtjeve za pristup tvojim uređajima za virtualnu stvarnost.
 permissions-site-xr-disable-label =
     .label = Blokiraj nove zahtjeve za pristup tvojim uređajima za virtualnu stvarnost
 permissions-site-xr-disable-desc = Ovo će spriječiti bilo koju web stranicu koja nije gore navedena da zatraži pristup tvojim uređajima za virtualnu stvarnost. Blokiranje pristupa tvojim uređajima za virtualnu stvarnost može pokvariti neke funkcije web stranice.
