@@ -16,4 +16,6 @@
 <!ENTITY span.label                 "Ընդգրկոյթ">
 <!ENTITY color.label                "Գոյնը.">
 <!ENTITY setDesktopBackground.title "Դարձնել աշխատասեղանի պաստառ">
-<!ENTITY openDesktopPrefs.label     "Բացել աշխատասեղանի կարգաւորումները">
+<!ENTITY openDesktopPrefs.label     "Բացել աշխատասեղանի նախընտրանքները">
+<!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Նախադիտումը անհասանելի է">
