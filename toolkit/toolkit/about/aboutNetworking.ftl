@@ -9,12 +9,14 @@ ok = U redu
 http = HTTP
 sockets = Sockets
 dns = DNS
+dnssuffix = DNS sufiks
 websockets = WebSockets
 refresh = Osvježi
 auto-refresh = Automatski osviježi svake 3 sekunde
 hostname = Adresa poslužitelja
 port = Ulaz
 http2 = HTTP/2
+about-networking-http-version = HTTP verzija
 ssl = SSL
 active = Aktivno
 idle = U pripravi
@@ -65,5 +67,5 @@ networkid-id = ID mreže
 networkid-isUp = Poveznica aktivna
 networkid-statusKnown = Stanje poveznice je poznato
 
-
+##
 
