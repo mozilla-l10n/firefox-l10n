@@ -5,10 +5,31 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "Criptar quest messadi">
+
+<!ENTITY menu_securityDoNotEncrypt.label "Betg criptar">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "g">
+
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
+<!ENTITY menu_securityEncryptRequire2.label "Pretender criptadi">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 <!ENTITY menu_securitySign.label "Suttascriver digitalmain quest messadi">
 <!ENTITY menu_securitySign.accesskey "M">
+
+<!ENTITY menu_securityAttachMyKey.label "Agiuntar mia clav publica">
+<!ENTITY menu_securityAttachMyKey.accesskey "A">
+
+<!ENTITY menu_securityTech.label "Tecnologia da criptadi">
+<!ENTITY menu_securityTech.accesskey "T">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Mussar infurmaziuns da segirezza">
 <!ENTITY menu_securityStatus.accesskey "I">
