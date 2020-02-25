@@ -59,6 +59,9 @@ lockwise-header-content-logged-in = Memorisescha e sincronisescha a moda segira 
 protection-report-view-logins-button = Mussar las infurmaziuns d'annunzia
     .title = Avrir las datas d'annunzia memorisadas
 lockwise-no-logins-content = Va per l'app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per prender cun tai ils pleds-clav dapertut.
+lockwise-mobile-app-title = Prenda tes pleds-clav adina cun tai
+lockwise-no-logins-card-content = Dovra ils pleds-clav memorisads en { -brand-short-name } sin mintga apparat.
+lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-android-inline-link">Android</a> ed <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
