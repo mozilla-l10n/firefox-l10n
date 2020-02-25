@@ -30,6 +30,7 @@ screenshots-unshootable-page-error-title = Nid oes modd tynnu llun sgrin o'r dud
 screenshots-unshootable-page-error-details = Nid yw hwn yn dudalen Gwe safonol, felly does dim modd tynnu llun sgrin ohono.
 screenshots-self-screenshot-error-title = Nid oes modd cymryd llun o dudalen lluniau sgrin { -screenshots-brand-name }!
 screenshots-empty-selection-error-title = Mae eich dewis yn rhy fach
+screenshots-private-window-error-title = Mae { -screenshots-brand-name } wedi ei analluogi yn y Modd Pori Preifat
 screenshots-private-window-error-details = Ymddiheuriadau am yr anhwylustod. Rydym yn gweithio ar y nodwedd hwn ar gyfer fersiynau'r dyfodol.
 screenshots-generic-error-title = Www! Mae { -screenshots-brand-name } wedi mynd yn hurt.
 screenshots-generic-error-details = Nid ydym yn gwybod beth sydd wedi ddigwydd. Ceisiwch eto neu dynnu llun o dudalen wahanol?
