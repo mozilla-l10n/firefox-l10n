@@ -258,6 +258,9 @@ about-debugging-extension-id =
     .label = ID proširenja
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Pokreni
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Pokreni
+    .disabledTitle = Pokretanje radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Odjavi
 # Displayed for service workers in runtime pages that are currently running (service

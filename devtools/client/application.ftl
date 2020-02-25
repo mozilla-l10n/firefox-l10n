@@ -63,6 +63,12 @@ serviceworker-empty-suggestions = Ako bi trenutačna stranica trebala imati radn
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Nađi greške pomoću konzole. <a>Otvori konzolu</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Pregledaj registraciju radnog procesa i nađi iznimke. <a>Otvori uklanjanje grešaka</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Pregledaj radne procese drugih domena. <a>Otvori about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikacije
 # Header for the Manifest page when there's no manifest to inspect
@@ -109,6 +115,10 @@ manifest-icon-img-title-no-sizes = Ikona neodređene veličine
 sidebar-item-manifest = Manifest
     .alt = Ikona za manifest
     .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Radni procesi usluge
+    .alt = Ikona za radne procese usluge
+    .title = Radni procesi usluge
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona za upozorenje
