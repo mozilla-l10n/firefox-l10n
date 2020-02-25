@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Silentigi
 pictureinpicture-unmute =
     .aria-label = Malsilentigi
+pictureinpicture-unpip =
+    .aria-label = Sendi reen al langeto
+pictureinpicture-close =
+    .aria-label = Fermi
