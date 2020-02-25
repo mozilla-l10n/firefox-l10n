@@ -12,6 +12,6 @@ pictureinpicture-mute =
 pictureinpicture-unmute =
     .aria-label = Ez mututu
 pictureinpicture-unpip =
-    .aria-label = Bidali atzera fitxara
+    .aria-label = Bidali berriro fitxara
 pictureinpicture-close =
     .aria-label = Itxi

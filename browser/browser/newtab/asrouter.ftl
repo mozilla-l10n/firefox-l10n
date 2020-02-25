@@ -191,9 +191,9 @@ cfr-doorhanger-socialtracking-dont-show-again = Ez erakutsi honelako mezu gehiag
     .accesskey = z
 cfr-doorhanger-socialtracking-heading = Sare sozial batek zure jarraipena egitea eragotzi du { -brand-short-name }(e)k
 cfr-doorhanger-socialtracking-description = Garrantzitsua da zure pribatutasuna. Sare sozialetako ohiko jarraipen-elementuak blokeatzen ditu orain { -brand-short-name }(e)k, zure lineako jarduerari buruz bil ditzaketen datuak mugatuz.
-cfr-doorhanger-fingerprinters-heading = Hatz-marka bidezko jarraipena blokeatu du orri honetan { -brand-short-name }(e)k
+cfr-doorhanger-fingerprinters-heading = Hatz-marka bidezko jarraipena blokeatu da orri honetan
 cfr-doorhanger-fingerprinters-description = Garrantzitsua da zure pribatutasuna. Hatz-marka bidezko jarraipena blokeatzen du orain { -brand-short-name }(e)k, zeinak zure gailuari buruzko identifikazio bakarreko datuak biltzen dituen zure jarraipena egiteko.
-cfr-doorhanger-cryptominers-heading = Kriptomeatzari bat blokeatu du orri honetan { -brand-short-name }(e)k
+cfr-doorhanger-cryptominers-heading = Kriptomeatzari bat blokeatu da orri honetan
 cfr-doorhanger-cryptominers-description = Garrantzitsua da zure pribatutasuna. Kriptomeatzariak blokeatzen ditu orain { -brand-short-name }(e)k, zeinak zure sistemaren konputazio-ahalmena erabiltzen duten diru digitala ustiatzeko.
 
 ## Enhanced Tracking Protection Milestones

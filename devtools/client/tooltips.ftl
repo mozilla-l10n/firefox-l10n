@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> propie
 inactive-css-not-display-block-on-floated = Motorrak <strong>display</strong> balioa <strong>block</strong>-era aldatu du elementua <strong>flotatzen<strong> dagoelako.
 inactive-css-property-is-impossible-to-override-in-visited = Ezin da <strong>{ $property }</strong> gainidatzi <strong>:visited</strong> mugatzea dela eta.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan ez delako kokatutako elementua.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan <strong>overflow:hidden</strong> ez dagoelako ezarrita.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Saiatu <strong>
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Saiatu <strong>display: inline-block</strong> gehitzen. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Saiatu <strong>float</strong> kentzen edo <strong>display: block</strong> gehitzen. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Saiatu bere <strong>position</strong> propietateari <strong>static</strong> ez den beste balio bat ezartzen. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Saiatu <strong>overflow:hidden</strong> gehitzen. { learn-more }

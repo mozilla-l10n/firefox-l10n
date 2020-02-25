@@ -59,6 +59,9 @@ lockwise-header-content-logged-in = Gorde eta sinkronizatu zure pasahitzak modu 
 protection-report-view-logins-button = Ikusi saio-hasierak
     .title = Joan gordetako saio-hasieretara
 lockwise-no-logins-content = Eskuratu <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> aplikazioa zure pasahitzak edonora eramateko.
+lockwise-mobile-app-title = Eraman pasahitzak alboan
+lockwise-no-logins-card-content = Erabili { -brand-short-name }(e)n gordetako pasahitzak edozein gailutan.
+lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>erako { -lockwise-brand-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
