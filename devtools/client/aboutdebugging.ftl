@@ -82,6 +82,10 @@ about-debugging-refresh-usb-devices-button = Osvježi uređaje
 about-debugging-setup-title = Konfiguracija
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Konfiguriraj način povezivanja za uklanjanje grešaka na tvom uređaju.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za uklanjanje grešaka kartica, proširenja i radnih procesa ove verzije { -brand-shorter-name }a.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Koristi <a>{ about-debugging-this-firefox-runtime-name }</a> za uklanjanje grešaka proširenja i radnih procesa ove verzije { -brand-shorter-name }a.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Spoji uređaj
 # USB section of the Setup page
@@ -151,12 +155,25 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Kartice
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Radni procesi usluge
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Dijeljeni radni procesi
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Ostali radni procesi
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesi
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Profiliraj perfomansu
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = Konfiguracija tvog preglednika nije kompatibilna s radnim procesima. <a>Saznaj vše</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -253,12 +270,17 @@ about-debugging-worker-status-registering = Registriranje
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Djelokrug
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Provjera radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Glavni proces
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Glavni proces za ciljani preglednik
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Glavni procesi i procesi sadržaja za ciljni preglednik
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zatvori poruku
