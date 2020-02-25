@@ -26,7 +26,7 @@ policy-DisableAppUpdate = Spriječite preglednik da se ažurira.
 policy-DisableBuiltinPDFViewer = Onemogući PDF.js, ugrađeni preglednik PDF datoteka u { -brand-short-name }u.
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
-policy-DisableFirefoxAccounts = Onemogućite usluge koje se temelje na { -fxaccount-brand-name }, uključujući Sync.
+policy-DisableFirefoxAccounts = Onemogući usluge koje se temelje na { -fxaccount-brand-name }u, uključujući sinkronizaciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Onemogući funkciju Firefox Screenshots.
 policy-DisableFirefoxStudies = Spriječite { -brand-short-name } da pokreće studije.
