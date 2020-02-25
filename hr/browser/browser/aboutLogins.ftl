@@ -91,7 +91,7 @@ login-item-copy-password-button-text = Kopiraj
 login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Spremi promjene
 login-item-save-new-button = Spremi
-login-item-cancel-button = Otkaži
+login-item-cancel-button = Odustani
 login-item-time-changed = Zadnja izmjena: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Stvoreno: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Zadnji put korišteno: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
@@ -123,9 +123,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 
 ## Dialogs
 
-confirmation-dialog-cancel-button = Otkaži
+confirmation-dialog-cancel-button = Odustani
 confirmation-dialog-dismiss-button =
-    .title = Otkaži
+    .title = Odustani
 about-logins-confirm-remove-dialog-title = Ukloni ovu prijavu?
 confirm-delete-dialog-message = Ova radnja se neće moći poništiti.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
