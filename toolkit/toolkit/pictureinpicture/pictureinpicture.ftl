@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = Dempen
 pictureinpicture-unmute =
     .aria-label = Dempen opheffen
+pictureinpicture-unpip =
+    .aria-label = Terugsturen naar tabblad
 pictureinpicture-close =
     .aria-label = Sluiten
