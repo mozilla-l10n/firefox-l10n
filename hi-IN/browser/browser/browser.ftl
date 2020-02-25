@@ -211,6 +211,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = संपर्क सुरक्षित नहीं है
+identity-connection-secure = संपर्क सुरक्षित है
 identity-connection-internal = यह एक सुरक्षित { -brand-short-name } पेज हैं.
 identity-connection-file = यह पेज आपके कंप्यूटर में सहेजा जाता हैं.
 identity-extension-page = यह पृष्ठ एक्सटेंशन से लोड किया गया है.
@@ -225,6 +227,8 @@ identity-permissions-reload-hint = बदलाव को लागु करन
 identity-permissions-empty = आपने इस साइट को कोई विशेष अनुमति नहीं दी है.‌‌‌
 identity-clear-site-data =
     .label = कूकीज़ तथा साइट डेटा हटायें…
+identity-connection-not-secure-security-view = आप इस साइट से सुरक्षित रूप से नहीं जुड़े हैं।
+identity-connection-verified = आप इस साइट से सुरक्षित रूप से जुड़े हैं।
 identity-remove-cert-exception =
     .label = अपवाद मिटाएँ
     .accesskey = R
