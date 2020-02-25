@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "z">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Tscherner las colonnas per mussar">
 <!ENTITY newContactButton.tooltip                       "Crear in nov contact">
 <!ENTITY newlistButton.tooltip                          "Crear ina nova glista da distribuziun">
 <!ENTITY editPropertiesButton.tooltip                   "Modifitgar l'element tschernì">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Scriver in nov e-mail">
 <!ENTITY newIM.tooltip                                  "Scriver in nov messadi immediat (instant message) u in nov chat">
 <!ENTITY deleteButton2.tooltip                          "Stizzar l'element tschernì">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Cudeschets d'adressas">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Num u e-mail">
