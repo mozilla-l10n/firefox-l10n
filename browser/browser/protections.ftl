@@ -60,7 +60,7 @@ lockwise-header-content = { -lockwise-brand-name } sigurno sprema tvoje lozinke 
 lockwise-header-content-logged-in = Spremaj i sinkroniziraj lozinke na svim svojim uređajima na siguran način.
 protection-report-view-logins-button = Prikaži prijave
     .title = Idi na spremljene prijave
-lockwise-no-logins-content = Instalirajte <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> aplikaciju kako biste sve svoje lozinke uvijek imali uz sebe.
+lockwise-no-logins-content = Instaliraj program <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> i ponesi svoje lozinke sa sobom.
 lockwise-mobile-app-title = Ponesi svoje lozinke sa sobom
 lockwise-no-logins-card-content = Koristi lozinke koje su spremljene u { -brand-short-name }u na bilo kojem uređaju.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> i <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
