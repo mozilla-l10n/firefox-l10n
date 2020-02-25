@@ -85,7 +85,7 @@
 
 <!ENTITY maintenance.label      "Unos i sigurnosne kopije">
 <!ENTITY maintenance.accesskey  "U">
-<!ENTITY maintenance.tooltip    "Unesite ili izvezite svoje zabilješke">
+<!ENTITY maintenance.tooltip    "Upiši ili izvezi svoje zabilješke">
 
 <!ENTITY backButton.tooltip  "Idi natrag">
 

@@ -29,7 +29,7 @@ onboarding-welcome-form-header = Započni ovdje
 onboarding-join-form-header = Pridruži se { -brand-product-name }
 onboarding-join-form-body = Upiši svoju adresu e-pošte kako bi započeo/la.
 onboarding-join-form-email =
-    .placeholder = Unesite adresu e-pošte
+    .placeholder = Upiši e-adresu
 onboarding-join-form-email-error = Potrebna je ispravna adresa e-pošte
 onboarding-join-form-legal = Ukoliko nastavite, slažete se s <a data-l10n-name="terms">Uvjetima pružanja usluge</a> i <a data-l10n-name="privacy">Politikom privatnosti</a>.
 onboarding-join-form-continue = Nastavi
