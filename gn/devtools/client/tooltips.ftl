@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> ndogue
 inactive-css-not-display-block-on-floated = Pe mongu'eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mab’epuru oĩgui <strong>vevuihápe<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’aite <strong>{ $property }</strong> jejoko <strong>:jehopyre</strong> rupive.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’epuru osẽtava renda.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’epurúpe <strong>overflow:hidden</strong> ndahekói rupi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Eñaha'ã emboj
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha'ã embojuaju <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Eñeha’ã emboheko <strong>rendatee</strong> mba’éva tuichavéva <strong>opytáva</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Eñeha'ã embojuaju <strong>overflow:hidden</strong>. { learn-more }
