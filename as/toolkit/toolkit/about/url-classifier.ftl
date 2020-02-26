@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = নিৰাপদ ব্ৰাউজিং �
 url-classifier-debug-modules = বৰ্তমানৰ লগ মডিউল
 url-classifier-debug-sbjs-modules = নিৰাপদ ব্ৰাউজিং JS লগ
 url-classifier-debug-file = বৰ্তমানৰ লগ ফাইল
+url-classifier-trigger-update = আপডেট ট্ৰিগাৰ কৰক
 url-classifier-not-available = প্ৰ/ন
 url-classifier-disable-sbjs-log = নিৰাপদ ব্ৰাউজিং JS লগ অক্ষম কৰক
 url-classifier-enable-sbjs-log = নিৰাপদ ব্ৰাউজিং JS লগ সক্ষম কৰক
