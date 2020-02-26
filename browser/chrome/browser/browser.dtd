@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "n">
 <!ENTITY exitFullScreenCmd.label "Eliri el ekranplena reĝimo">
 <!ENTITY exitFullScreenCmd.accesskey "l">
+
 <!ENTITY fullScreenCmd.label "Plenekrane">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Agordoj de konto">
 <!ENTITY fxa.menu.manageAccount2.label "Administri konton">
 <!ENTITY fxa.menu.signOut.label "Fini seancon…">
-<!ENTITY fxa.menu.deviceSettings.label "Agordoj de aparato">
 <!ENTITY fxa.menu.setupSync.label "Agordoj de &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "H">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Iri al la adreso en la retadresa strio">
 <!ENTITY printButton.label            "Presi">
 <!ENTITY printButton.tooltip          "Presi ĉi tiun paĝon">
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Pli">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Serĉu ion aŭ tajpu adreson">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -623,7 +625,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "v">
 <!ENTITY viewBGImageCmd.label         "Vidi fonan bildon">
 <!ENTITY viewBGImageCmd.accesskey     "b">
-<!ENTITY setDesktopBackgroundCmd.label      "Difini kiel skribotablan fonan bildon…">
+<!ENTITY setDesktopBackgroundCmd.label      "Difini kiel labortablan fonan bildon…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "D">
 <!ENTITY bookmarkPageCmd2.label       "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY bookmarkPageCmd2.accesskey   "l">
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "l">
+
 <!ENTITY pageAction.copyLink.label    "Kopii ligilon">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Sendi ligilon retpoŝte…">
 <!ENTITY emailPageCmd.accesskey       "S">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey        "K">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
