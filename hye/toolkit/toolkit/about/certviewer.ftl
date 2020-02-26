@@ -49,6 +49,23 @@ certificate-viewer-inc-state-province = Նահանգի/գավառի գրանցո
 certificate-viewer-state-province = Նահանգ/գավառ
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Յաջորդական Համարը
+certificate-viewer-signature-algorithm = Ստորագրութեան հաշուեկարգ
+certificate-viewer-signature-scheme = Ստորագրութեան համակարգ
+certificate-viewer-timestamp = Ժամակնիք
+certificate-viewer-value = Արժեք
+certificate-viewer-version = Տարբերակ
+certificate-viewer-business-category = Ձեռնարկութեան անուանակարգ
+certificate-viewer-subject-name = Առարկայի անուն
+certificate-viewer-issuer-name = Թողարկողի անուն
+certificate-viewer-validity = Վաւերականութիւն
+certificate-viewer-subject-alt-names = Այլ առարկայի անուններ
+certificate-viewer-public-key-info = Տեղեկատուութիւն հանրային բանալու մասին
+certificate-viewer-miscellaneous = Խառնաբնոյթ
+certificate-viewer-fingerprints = Մատնահետքեր
+certificate-viewer-basic-constraints = Հիմնական սահմանափակումներ
+certificate-viewer-key-usages = Բանալու կիրառումներ
+certificate-viewer-extended-key-usages = Ընդլայնուած բանալու կիրառումներ
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
