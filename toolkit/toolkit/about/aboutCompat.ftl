@@ -6,4 +6,6 @@ label-disable = Onemogući
 label-enable = Omogući
 label-interventions = Intervencije
 label-more-information = Daljnje informacije: Greška { $bug }
+label-overrides = Poništavanja korisničkog agenta
+text-disabled-in-about-config = Ova funkcija je deaktivirana u about:config
 text-title = about:compat
