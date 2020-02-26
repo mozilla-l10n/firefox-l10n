@@ -12,6 +12,43 @@ certificate-viewer-error-title = Ինչ-որ բան այն չէ։
 ## Certificate information labels
 
 certificate-viewer-algorithm = Հաշուեկարգ
+certificate-viewer-certificate-authority = Հաւաստագրման մարմինը
+certificate-viewer-cipher-suite = Ծածկագրի հաւաքակազմ
+certificate-viewer-common-name = Սովորական անուն
+certificate-viewer-email-address = էլ․փոստի հասցեն
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Երկրի գրանցում
+certificate-viewer-country = Երկիր
+certificate-viewer-curve = Կոր
+certificate-viewer-distribution-point = Բաշխման կէտ
+certificate-viewer-dns-name = DNS Անուն
+certificate-viewer-exponent = Ցուցիչ
+certificate-viewer-id = ID
+certificate-viewer-key-exchange-group = Ստեղնի փոխանակման խումբ
+certificate-viewer-key-id = Ստեղնի ID
+certificate-viewer-key-size = Ստեղնի չափը
+certificate-viewer-locality = Տեղադրութիւն
+certificate-viewer-location = Տեղադրութիւն
+certificate-viewer-logid = Գրանցման ID
+certificate-viewer-method = Եղանակ
+certificate-viewer-modulus = Մոդուլ
+certificate-viewer-name = Անուն
+certificate-viewer-not-after = Ոչ Հետոյ
+certificate-viewer-not-before = Նախկինում չէ
+certificate-viewer-organization = Կազմակերպութիւն
+certificate-viewer-organizational-unit = Կազմակերպչական միավոր
+certificate-viewer-policy = Քաղաքականութիւն
+certificate-viewer-protocol = Հաղորդակարգ
+certificate-viewer-public-value = Հանրային արժէք
+certificate-viewer-purposes = Նպատակներ
+certificate-viewer-qualifier = Որակաւորիչ
+certificate-viewer-qualifiers = Որակաւորիչներ
+certificate-viewer-required = Պարտադիր
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Նահանգի/գավառի գրանցում
+certificate-viewer-state-province = Նահանգ/գավառ
+certificate-viewer-sha-1 = SHA-1
+certificate-viewer-sha-256 = SHA-256
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
