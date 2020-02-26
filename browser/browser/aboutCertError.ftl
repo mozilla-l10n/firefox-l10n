@@ -29,6 +29,14 @@ cert-error-domain-mismatch-single-nolink = ৱেবছাইটবোৰে প
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = ৱেবছাইটবোৰে প্ৰমাণপত্ৰৰ মাধ্যমেৰে নিজৰ পৰিচয় প্ৰমাণ কৰে। { -brand-short-name }-এ এই ছাইটক বিশ্বাস নকৰে কাৰণ ই এনে এখন প্ৰমাণপত্ৰ ব্যৱহাৰ কৰে যি { $hostname }-ৰ বাবে বৈধ নহয়। প্ৰমাণপত্ৰখন কেৱল তলত দিয়া নামবোৰৰ বাবে বৈধ: { $subject-alt-names }
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = ৱেবছাইটসমূহে প্ৰমাণ পত্ৰৰ জৰিয়তে নিজৰ পৰিচয়ৰ প্ৰমাণ দিয়ে, যি এক নিৰ্দিষ্ট সময়ৰ বাবে বৈধ হৈ থাকে। { $hostname }-ৰ প্ৰমাণ পত্ৰৰ ম্যাদ { $not-after-local-time }ত উকলি গৈছিল।
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = ৱেবছাইটসমূহে প্ৰমাণ পত্ৰৰ জৰিয়তে নিজৰ পৰিচয়ৰ প্ৰমাণ দিয়ে, যি এক নিৰ্দিষ্ট সময়ৰ বাবে বৈধ হৈ থাকে। { $hostname }-ৰ প্ৰমাণ পত্ৰ { $not-before-local-time }ৰ আগলৈকে বৈধ নহয়।
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ত্ৰুটি ক'ড: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = আপুনি ৱেবছাইটৰ প্ৰশাসকক এই সমস্যাৰ বিষয়ে জাননী দিব পাৰে।
