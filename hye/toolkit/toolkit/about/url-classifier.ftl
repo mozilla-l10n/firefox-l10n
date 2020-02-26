@@ -33,3 +33,5 @@ url-classifier-cache-ncache-expiry = Բացասական շտեմարանի ժա�
 url-classifier-cache-fullhash = Լրիւ պատահական
 url-classifier-cache-pcache-expiry = Դրական շտեմարանի ժամկետի աւարտը
 url-classifier-debug-title = Վրիպազերծել
+url-classifier-debug-module-btn = Սահմանել մուտքի մոդուլներ
+url-classifier-debug-file-btn = Սահմանել տեղեկամատեան նիշքը
