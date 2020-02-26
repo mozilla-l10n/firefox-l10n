@@ -23,8 +23,10 @@ preloaded-tab = Unaprijed učitano: { $title }
 
 type-tab = Kartica
 type-subframe = Pod-okvir
+type-tracker = Program za praćenje
 type-addon = Dodatak
 type-browser = Preglednik
+type-worker = Radni proces
 type-other = Drugo
 
 ## Values for the Energy Impact column
