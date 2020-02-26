@@ -66,7 +66,29 @@ certificate-viewer-fingerprints = Մատնահետքեր
 certificate-viewer-basic-constraints = Հիմնական սահմանափակումներ
 certificate-viewer-key-usages = Բանալու կիրառումներ
 certificate-viewer-extended-key-usages = Ընդլայնուած բանալու կիրառումներ
+certificate-viewer-ocsp-stapling = OCSP Ամրակրում
+certificate-viewer-subject-key-id = Առարկայի բանալու ID
+certificate-viewer-authority-key-id = Հեղինակային իրաւունքի բանալին ID
+certificate-viewer-authority-info-aia = Հեղինակային տեղեկատւութեան (AIA)
+certificate-viewer-certificate-policies = Հաւաստագրի դրոյթները
+certificate-viewer-embedded-scts = Ներկառուցուած SCTs
+certificate-viewer-crl-endpoints = CRL֊ի վերջնակէտերը
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Ներբեռնել
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] No
+       *[false] Ոչ
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem
