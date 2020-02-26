@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Լռեցնել
 pictureinpicture-unmute =
     .aria-label = Միացնել
+pictureinpicture-unpip =
+    .aria-label = Ուղարկել էջանշանը
+pictureinpicture-close =
+    .aria-label = Փակել
