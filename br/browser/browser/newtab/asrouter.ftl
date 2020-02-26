@@ -128,6 +128,11 @@ cfr-whatsnew-lockwise-take-link-text = Kaout an arload
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Skrivit nebeutoc'h ha kavit muioc'h gant ar varrenn chomlec'hioù
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Kit betek al lec'hiennoù a weladennit an aliesañ gant ur c'hlik hepken er varrenn-chomlec'h. Kavit traoù buanoc'h gant disoc'hoù { $searchEngineName } hag ho roll istor merdeiñ.
+cfr-whatsnew-searchbar-body-generic = Kit betek al lec'hiennoù a weladennit an aliesañ gant ur c'hlik hepken er varrenn-chomlec'h. Kavit traoù buanoc'h gant disoc'hoù enklask hag ho roll istor merdeiñ.
+cfr-whatsnew-searchbar-icon-alt-text = Arlun gwerenn-greskiñ
 
 ## Picture-in-Picture
 
