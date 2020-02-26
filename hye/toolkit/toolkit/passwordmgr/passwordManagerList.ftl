@@ -6,3 +6,5 @@ saved-logins =
     .title = Պահուած մուտքագրում
 window-close =
     .key = W
+focus-search-shortcut =
+    .key = f
