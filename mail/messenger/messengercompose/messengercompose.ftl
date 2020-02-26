@@ -16,3 +16,6 @@ address-input-type =
         [few] { $type } polje za unos s { $count } adrese
        *[other] { $type } polje za unos s { $count } adresa
     }
+pill-action-edit =
+    .label = Uredi adresu
+    .accesskey = e
