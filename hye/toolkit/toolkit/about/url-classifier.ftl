@@ -31,3 +31,5 @@ url-classifier-cache-entries = Շտեմարանի գրառումներ
 url-classifier-cache-prefix = Նախածրագրեր
 url-classifier-cache-ncache-expiry = Բացասական շտեմարանի ժամկետի աւարտը
 url-classifier-cache-fullhash = Լրիւ պատահական
+url-classifier-cache-pcache-expiry = Դրական շտեմարանի ժամկետի աւարտը
+url-classifier-debug-title = Վրիպազերծել
