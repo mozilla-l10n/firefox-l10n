@@ -744,7 +744,7 @@ sync-connect-another-device = Poveži drugi uređaj
 sync-manage-devices = Upravljaj uređajima
 sync-fxa-begin-pairing = Upari uređaj
 sync-tos-link = Uvjeti korištenja
-sync-fxa-privacy-notice = Pravila o privatnosti
+sync-fxa-privacy-notice = Napomena o privatnosti
 
 ## Privacy Section
 
