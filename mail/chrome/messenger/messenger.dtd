@@ -410,23 +410,23 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marki">
-<!ENTITY markMenu.accesskey "k">
+<!ENTITY markMenu.accesskey "M">
 <!ENTITY toggleReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "As Read">
-<!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsUnreadCmd.label "As Unread">
-<!ENTITY markAsUnreadCmd.accesskey "U">
-<!ENTITY markThreadAsReadCmd.label "Thread As Read">
-<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markAsReadCmd.label "kiel legitan">
+<!ENTITY markAsReadCmd.accesskey "l">
+<!ENTITY markAsUnreadCmd.label "kiel nelegitan">
+<!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markThreadAsReadCmd.label "fadenon kiel legitan">
+<!ENTITY markThreadAsReadCmd.accesskey "f">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "As Read by Date…">
-<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.label "kiel legitajn laŭ dato">
+<!ENTITY markReadByDateCmd.accesskey "d">
 <!ENTITY markReadByDateCmd.key "c">
-<!ENTITY markAllReadCmd.label "All Read">
-<!ENTITY markAllReadCmd.accesskey "A">
+<!ENTITY markAllReadCmd.label "ĉiujn kiel legitajn">
+<!ENTITY markAllReadCmd.accesskey "j">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Add Star">
-<!ENTITY markStarredCmd.accesskey "S">
+<!ENTITY markStarredCmd.label "per steleto">
+<!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "As Junk">
 <!ENTITY markAsJunkCmd.accesskey "J">
