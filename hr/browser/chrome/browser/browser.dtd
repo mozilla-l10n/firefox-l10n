@@ -274,8 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Otvori ploču s informacijama o instalaciji">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Prevedi ovu stranicu">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevođenjem stranice">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte korištenjem DRM softvera">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljaj prijevodom stranica">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljaj korištenjem DRM softvera">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvori MIDI okno">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ovoj ste stranici zabranili korištenje kamere.">
@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Programi za praćenje">
 
-<!ENTITY contentBlocking.manageSettings.label "Upravljajte blokiranjem sadržaja">
+<!ENTITY contentBlocking.manageSettings.label "Upravljaj blokiranjem sadržaja">
 <!ENTITY contentBlocking.manageSettings.accesskey "U">
 
 <!ENTITY contentBlocking.trackersView.label "Programi za praćenje">
