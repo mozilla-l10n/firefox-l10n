@@ -10,7 +10,7 @@
 <!ENTITY connectionFailure.title "Failed to Connect">
 <!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Port Restricted for Security Reasons">
+<!ENTITY deniedPortAccess.title "Pòrt restrench per de rasons de seguretat.">
 <!ENTITY deniedPortAccess.longDesc "<p>L'adreça demandada indica un pòrt (per ex.<q>mozilla.org:80</q> pel pòrt 80 sus mozilla.org) qu'es normalament utilizat per d'<em>autres</em> usatges que la navegacion sul Web. Lo navegador a anullat la requèsta per vòstra proteccion e vòstra seguretat.</p>">
 
 <!ENTITY dnsNotFound.title "Adreça introbabla">
