@@ -75,7 +75,7 @@ cfr-doorhanger-pintab-animation-resume = Nastavi
 
 cfr-doorhanger-bookmark-fxa-header = Sinkroniziraj svoje zabilješke svagdje.
 cfr-doorhanger-bookmark-fxa-body = Koristi ovu zabilješku i na mobilnom uređaju. Pokreni { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Sinkronizirajte zabilješke sada…
+cfr-doorhanger-bookmark-fxa-link-text = Sinkroniziraj zabilješke sada …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tipka za zatvaranje
     .title = Zatvori

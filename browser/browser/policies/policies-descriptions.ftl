@@ -13,10 +13,10 @@
 policy-3rdparty = Postavite pravila kojima će WebExtensions moći pristupiti putem chrome.storage.managed.
 policy-AppUpdateURL = Postavite prilagođeni URL za ažuriranja aplikacije.
 policy-Authentication = Postavite integriranu provjeru autentičnosti za web stranice koje ju podržavaju.
-policy-BlockAboutAddons = Blokirajte pristup Upravitelju dodataka (about:addons).
-policy-BlockAboutConfig = Blokirajte pristup stranici about:config.
-policy-BlockAboutProfiles = Blokirajte pristup stranici about:profiles.
-policy-BlockAboutSupport = Blokirajte pristup stranici about:support.
+policy-BlockAboutAddons = Blokiraj pristup upravljaču dodataka (about:addons).
+policy-BlockAboutConfig = Blokiraj pristup stranici about:config.
+policy-BlockAboutProfiles = Blokiraj pristup stranici about:profiles.
+policy-BlockAboutSupport = Blokiraj pristup stranici about:support.
 policy-Bookmarks = Stvorite zabilješke u alatnoj traci zabilješki, izborniku zabilješki ili određenoj mapi unutar njih.
 policy-CaptivePortal = Omogućite ili onemogućite podršku za prilagođenu početnu stranicu na mreži (captive portal).
 policy-CertificatesDescription = Dodaj certifikate ili koristite ugrađene certifikate.
@@ -47,20 +47,20 @@ policy-DisplayBookmarksToolbar = Standardno prikaži alatnu traku zabilješki.
 policy-DisplayMenuBar = Standardno prikaži traku izbornika.
 policy-DNSOverHTTPS = Podesi DNS preko HTTPS-a.
 policy-DontCheckDefaultBrowser = Onemogući provjeru za zadani preglednik prilikom pokretanja.
-policy-DownloadDirectory = Postavite i zaključajte direktorij za preuzimanje.
+policy-DownloadDirectory = Postavi i zaključaj direktorij za preuzimanje.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Omogućite ili onemogućite blokiranje sadržaja i opcionalno ga zaključajte.
+policy-EnableTrackingProtection = Omogući ili onemogući blokiranje sadržaja i opcionalno ga zaključaj.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Instaliraj, ukloni ili zaključaj dodatke. Mogućnost instalacije uzima URL-ove ili putanje kao parametre. Mogućnosti ukloni ili zaključaj uzima ID dodatka kao parametar.
-policy-ExtensionSettings = Upravljajte svim aspektima instalacije dodataka.
+policy-ExtensionSettings = Upravljaj svim aspektima instalacije dodataka.
 policy-ExtensionUpdate = Omogućite ili onemogućite automatska ažuriranja dodataka.
 policy-FirefoxHome = Postavite Firefox početnnu stranicu.
 policy-FlashPlugin = Dozvoli ili zabrani upotrebu dodatka Flash.
 policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzanje.
 # “lock” means that the user won’t be able to change this setting
-policy-Homepage = Postavite i opcionalno zaključajte početnu stranicu.
+policy-Homepage = Postavi i opcionalno zaključaj početnu stranicu.
 policy-InstallAddonsPermission = Dozvoli određenim web stranicama instalirati dodatke.
 policy-LegacyProfiles = Onemogućuje značajku koja nameće zaseban profil za svaku instalaciju
 policy-LocalFileLinks = Omogućite određenim web stranicama poveznice na lokalne datoteke.

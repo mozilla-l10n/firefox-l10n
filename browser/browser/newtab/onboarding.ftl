@@ -13,7 +13,7 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Saznaj više
-onboarding-button-label-try-now = Isprobajte odmah
+onboarding-button-label-try-now = Isprobaj sada
 onboarding-button-label-get-started = Započnite
 
 ## Welcome modal dialog strings
