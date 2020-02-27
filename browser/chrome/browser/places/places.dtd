@@ -91,7 +91,7 @@
 
 <!ENTITY forwardButton.tooltip  "Idi naprijed">
 
-<!ENTITY detailsPane.selectAnItemText.description "Odaberite stavku za pregled i ureživanje njenih svojstava">
+<!ENTITY detailsPane.selectAnItemText.description "Odaberi stavku za pregled i uređivanje njenih svojstava">
 
 <!ENTITY view.label               "Prikaz">
 <!ENTITY view.accesskey           "i">
