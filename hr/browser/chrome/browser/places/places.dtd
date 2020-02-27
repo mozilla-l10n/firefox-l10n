@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizacija">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organizirajte svoje zabilješke">
+<!ENTITY organize.tooltip      "Organiziraj svoje zabilješke">
 
 <!ENTITY file.close.label               "Zatvori">
 <!ENTITY file.close.accesskey           "Z">
