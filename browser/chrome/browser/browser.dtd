@@ -888,8 +888,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Dobrir las preferéncias de blocatge de contengut">
 
 
+<!ENTITY protections.etpON.header "La proteccion renfortida contra lo seguiment es ACTIVADA per aqueste site.">
+<!ENTITY protections.etpOFF.header "La proteccion renfortida contra lo seguiment es DESACTIVADA per aqueste site">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Mai d’informacions tocant la proteccion renfortida contra lo seguiment">
 <!ENTITY protections.settings.label "Paramètres de proteccion">
 <!ENTITY protections.showreport.label "Veire lo rapòrt">
 <!-- LOCALIZATION NOTE:

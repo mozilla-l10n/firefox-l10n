@@ -78,6 +78,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Navegatz sens èsser seguit
+cfr-protections-panel-body = Gardatz vòstras donadas per vos. { -brand-short-name } vos protegís de la màger part dels traçadors mai comuns que vos seguisson en linha.
 cfr-protections-panel-link-text = Ne saber mai
 
 ## What's New toolbar button and panel

@@ -394,7 +394,7 @@ browsing-use-smooth-scrolling =
     .accesskey = d
 browsing-use-onscreen-keyboard =
     .label = Mostrar un clavièr tactil quand es necessari
-    .accesskey = k
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Utilizar totjorn las tòcas de navegacion per se desplaçar a l'interior d'una pagina
     .accesskey = t
@@ -900,7 +900,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. Las pagina cargaràn normalament.
-content-blocking-etp-strict-desc = Proteccion refortida, pòt copar unes sites o contengut.
+content-blocking-etp-strict-desc = Proteccion refortida, pòt copar unes sites o contenguts.
 content-blocking-private-windows = Contengut utilizat per pistar dins las fenèstras de navegacion privada
 content-blocking-cross-site-tracking-cookies = Cookies de seguiment entre sites
 content-blocking-social-media-trackers = Traçadors de malhums socials
