@@ -27,8 +27,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "რა უნდა მოვიმოქმედო?">
 <!ENTITY certerror.whatShouldIDo.content "თუ ამ საიტს ჩვეულებრივ
-უპრობლემოდ უკავშირდებოდით, ეს შეცდომა შესაძლოა ნიშნავდეს, რომ ვიღაც
-ცდილობს საიტის თავად გასაღება, ასეთ შემთხვევაში აღარ გააგრძელოთ.">
+უხარვეზოდ უკავშირდებოდით, ეს შეცდომა შესაძლოა ნიშნავდეს, რომ ვიღაც
+სხვა საიტად გასაღებას ცდილობდეს და სჯობს აღარ განაგრძოთ.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი იყენებს HTTP
 Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
 დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
