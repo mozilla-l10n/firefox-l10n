@@ -386,19 +386,19 @@
 <!ENTITY copyMsgToMenu.label "Kopii al">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Movi denove">
-<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgain.accesskey "v">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignori fadenon">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignore Subthread">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.label "Ignori subfadenon">
+<!ENTITY killSubthreadMenu.accesskey "s">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Watch Thread">
-<!ENTITY watchThreadMenu.accesskey "W">
+<!ENTITY watchThreadMenu.label "Observi fadenon">
+<!ENTITY watchThreadMenu.accesskey "O">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY tagMenu.label "Tag">
-<!ENTITY tagMenu.accesskey "g">
+<!ENTITY tagMenu.label "Etikedo">
+<!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
