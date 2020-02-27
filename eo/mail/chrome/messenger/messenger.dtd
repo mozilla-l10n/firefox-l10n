@@ -375,16 +375,16 @@
 <!ENTITY editTemplateMsgCmd.accesskey "b">
 <!ENTITY newMsgFromTemplateCmd.label "Nova mesaĝo el ŝablono">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
-<!ENTITY createFilter.label "Create Filter From Message…">
-<!ENTITY createFilter.accesskey "a">
-<!ENTITY moveMsgToMenu.label "Move To">
+<!ENTITY createFilter.label "Krei filtrilon surbaze de mesaĝo…">
+<!ENTITY createFilter.accesskey "f">
+<!ENTITY moveMsgToMenu.label "Movi al">
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copy Message Location">
 <!ENTITY copyMessageLocation.accesskey "M">
-<!ENTITY copyMsgToMenu.label "Copy To">
-<!ENTITY copyMsgToMenu.accesskey "C">
+<!ENTITY copyMsgToMenu.label "Kopii al">
+<!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Move Again">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
