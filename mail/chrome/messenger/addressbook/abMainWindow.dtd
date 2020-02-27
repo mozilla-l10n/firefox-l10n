@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "P">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Valitse näytettävät sarakkeet">
 <!ENTITY newContactButton.tooltip                       "Luo uusi yhteystieto osoitekirjaan">
 <!ENTITY newlistButton.tooltip                          "Luo uusi lista">
 <!ENTITY editPropertiesButton.tooltip                   "Muokkaa valittua kohdetta">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Lähetä sähköpostia">
 <!ENTITY newIM.tooltip                                  "Lähetä pikaviesti tai keskustele">
 <!ENTITY deleteButton2.tooltip                          "Poista valittu tieto">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Osoitekirjat">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nimi tai osoite">
