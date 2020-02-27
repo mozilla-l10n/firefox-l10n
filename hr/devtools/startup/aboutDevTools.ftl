@@ -39,7 +39,7 @@ features-storage-desc = Dodaj, mijenjaj i ukloni predmemoriju, kolačiće, baze 
 features-responsive-title = Prilagođen izgled
 features-responsive-desc = Testiraj stranice na emuliranim uređajima u tvom pregledniku. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Vizualno uređivanje
-features-visual-editing-desc = Justiraj animacije, poravnanje i odmake. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-visual-editing-desc = Podesi animacije, poravnanje i odmake. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Performansa
 features-performance-desc = Deblokiraj problematična mjesta, pojednostavi procese, optimiraj sredstva. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memorija
