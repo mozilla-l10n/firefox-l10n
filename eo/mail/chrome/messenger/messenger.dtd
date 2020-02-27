@@ -410,7 +410,7 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marki">
-<!ENTITY markMenu.accesskey "M">
+<!ENTITY markMenu.accesskey "k">
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "kiel legitan">
 <!ENTITY markAsReadCmd.accesskey "l">
@@ -434,10 +434,10 @@
 <!ENTITY markAsNotJunkCmd.label "kiel deziratan">
 <!ENTITY markAsNotJunkCmd.accesskey "z">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Run Junk Mail Controls">
-<!ENTITY recalculateJunkScoreCmd.accesskey "C">
-<!ENTITY openMessageWindowCmd.label "Open Message">
-<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY recalculateJunkScoreCmd.label "Ekigi filtrilon de trudmesaĝoj">
+<!ENTITY recalculateJunkScoreCmd.accesskey "E">
+<!ENTITY openMessageWindowCmd.label "Malfermi mesaĝon">
+<!ENTITY openMessageWindowCmd.accesskey "M">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Attachments">
 <!ENTITY openAttachmentListCmd.accesskey "h">
