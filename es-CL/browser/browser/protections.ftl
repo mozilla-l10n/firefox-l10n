@@ -59,6 +59,7 @@ lockwise-header-content-logged-in = Almacena de forma segura tus contraseñas y 
 protection-report-view-logins-button = Ver conexiones
     .title = Ir a las conexiones guardadas
 lockwise-no-logins-content = Obtén la aplicación de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para llevar tus contraseñas a todas partes.
+lockwise-mobile-app-title = Lleva tus contraseñas a todas partes
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
