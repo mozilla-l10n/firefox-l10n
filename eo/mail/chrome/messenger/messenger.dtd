@@ -381,7 +381,7 @@
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Ĵusaj">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "j">
-<!ENTITY copyMessageLocation.label "Copy Message Location">
+<!ENTITY copyMessageLocation.label "Kopii adreson de mesaĝo">
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "Kopii al">
 <!ENTITY copyMsgToMenu.accesskey "K">
