@@ -22,8 +22,8 @@
 <!ENTITY fileAccessDenied.title "L’accès al fichièr es estat refusat">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Benlèu es estat suprimit, desplaçat o las permissions associadas al fichièr permeton pas d'i accedir.</li></ul>">
 
-<!ENTITY generic.title "Cannot Complete Request">
-<!ENTITY generic.longDesc "<p>Additional information about this problem or error is currently unavailable.</p>">
+<!ENTITY generic.title "Impossible de completar la requèsta">
+<!ENTITY generic.longDesc "<p>I a pas cap d‘informacion disponibla actualament tocant aqueste problèma o error.</p>">
 
 <!ENTITY malformedURI.title "Adreça invalida">
 <!ENTITY malformedURI.longDesc "<p>The provided address is not in a recognized format. Please check the location bar for mistakes and try again.</p>">
