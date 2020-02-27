@@ -59,6 +59,7 @@ lockwise-header-content-logged-in = Tallenna salasanasi turvallisesti ja synkron
 protection-report-view-logins-button = Näytä kirjautumistiedot
     .title = Siirry tallennettuihin kirjautumistietoihin
 lockwise-no-logins-content = Hanki <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-sovellus ja ota salasanat mukaasi minne menetkin.
+lockwise-mobile-app-title = Ota salasanasi mukaan kaikkialle
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
