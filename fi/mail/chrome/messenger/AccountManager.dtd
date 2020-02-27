@@ -4,7 +4,11 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label  "Tilien asetukset">
+<!-- extracted from AccountManager.xhtml -->
+
+<!ENTITY accountManagerTitle.label "Tilien asetukset">
+
+<!ENTITY  accountManagerCloseButton.label "Sulje">
 
 <!ENTITY accountActionsButton.label "Tilitoiminnot">
 <!ENTITY accountActionsButton.accesskey "T">
@@ -16,12 +20,14 @@
 <!ENTITY addFeedAccountButton.accesskey "s">
 <!ENTITY addOtherAccountButton.label "Lisää muu tili…">
 <!ENTITY addOtherAccountButton.accesskey "m">
-<!ENTITY setDefaultButton.label  "Aseta oletukseksi">
-<!ENTITY setDefaultButton.accesskey  "A">
-<!ENTITY removeButton.label  "Poista tili">
-<!ENTITY removeButton.accesskey  "o">
+<!ENTITY setDefaultButton.label "Aseta oletukseksi">
+<!ENTITY setDefaultButton.accesskey "A">
+<!ENTITY removeButton.label "Poista tili">
+<!ENTITY removeButton.accesskey "o">
 
 <!-- AccountManager.xul -->
+
+<!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting

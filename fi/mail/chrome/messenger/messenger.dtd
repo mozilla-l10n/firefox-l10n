@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "V">
 <!ENTITY  newContactCmd.label "Osoitekirjan yhteyshenkilö…">
 <!ENTITY  newContactCmd.accesskey "y">
+<!ENTITY openMenuCmd.label "Avaa">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Tallenna nimellä">
