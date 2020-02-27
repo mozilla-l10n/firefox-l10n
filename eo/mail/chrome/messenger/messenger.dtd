@@ -382,13 +382,13 @@
 <!ENTITY moveCopyMsgRecentMenu.label "Ĵusaj">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "j">
 <!ENTITY copyMessageLocation.label "Kopii adreson de mesaĝo">
-<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMessageLocation.accesskey "K">
 <!ENTITY copyMsgToMenu.label "Kopii al">
 <!ENTITY copyMsgToMenu.accesskey "K">
-<!ENTITY moveToFolderAgain.label "Move Again">
+<!ENTITY moveToFolderAgain.label "Movi denove">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
-<!ENTITY killThreadMenu.label "Ignore Thread">
+<!ENTITY killThreadMenu.label "Ignori fadenon">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignore Subthread">
