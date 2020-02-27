@@ -6,7 +6,7 @@ title = Llikachasqa ukupi lliw haykuqkunamanta.
 warning = Kayqa yachapakuypi qispisqallan. mana kuraqpa qawariyninwanqa manan haykukunanchu.
 show-next-time-checkbox = Qawachiypuni kay qatiqtuymipi yanqataq nispa  .
 ok = Allinmi
-http = HTTP nisqa
+http = HTTP
 sockets = Ratachina
 dns = DNS nisqa
 websockets = Llikachasqakuna
@@ -18,10 +18,10 @@ ssl = SSL nisqa
 active = Utqaq.
 idle = Mana imaruwaq., Qasikaq, Mana kuyuriq.
 host = Haywaq
-tcp = TCP nisqa
+tcp = TCP
 sent = Apachiy
 received = Chaskisqa
-family = Ayllu.
+family = Ayllu
 addresses = Tiyanan
 expires = Tuymichakuypi tukukuynin.
 messages-sent = Taripaywillaykuna apachisqa.
@@ -32,3 +32,9 @@ dns-lookup = DNS nisqa machkasqa
 dns-lookup-button = Allipachiy.
 dns-domain = Lliwtukipasqapuni:
 dns-lookup-table-column = IPs nisqa
+
+## Link is intended as "network link"
+
+
+##
+

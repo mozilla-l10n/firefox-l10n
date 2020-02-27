@@ -13,9 +13,9 @@ extensions-title = Taripachinakuna
 extensions-name = Suti
 extensions-enabled = Kichasqa.
 extensions-version = Imaninan
-extensions-id = ID nisqa
+extensions-id = ID
 app-basics-title = Ruwaypaq lIikachakusqan churana
-app-basics-name = Suti.
+app-basics-name = Suti
 app-basics-version = Imaninan
 app-basics-build-id = Id. nisqapa qispichiynin
 app-basics-update-channel = Qawanapatapa kunanchanankuna
@@ -69,6 +69,19 @@ safe-mode-title = Qaqakaqta tantiyaspa
 restart-in-safe-mode-label = Kaqmantaqallariy sikisqa huntaypakunawan.
 
 ## Media titles
+
+
+##
+
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
 
 
 ##
