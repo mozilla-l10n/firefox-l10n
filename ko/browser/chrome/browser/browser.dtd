@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(사생활 보호 모드)">
 
 <!ENTITY appmenu.tooltip                     "메뉴 열기">
-<!ENTITY navbarOverflow.label                "더 많은 도구…">
+<!ENTITY navbarOverflow.label                "도구 더보기…">
 
 <!-- Tab context menu -->
 
