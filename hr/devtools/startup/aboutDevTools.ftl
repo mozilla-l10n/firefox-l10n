@@ -36,7 +36,7 @@ features-network-title = Mreža
 features-network-desc = Pregledaj mrežne zahtjeve koji mogu usporiti ili blokirati tvoju stranicu. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Spremište
 features-storage-desc = Dodaj, mijenjaj i ukloni predmemoriju, kolačiće, baze podataka i podatke sesija. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-responsive-title = Responzivni dizajn
+features-responsive-title = Prilagođen izgled
 features-responsive-desc = Testiraj stranice na emuliranim uređajima u tvom pregledniku. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Vizualno uređivanje
 features-visual-editing-desc = Justiraj animacije, poravnanje i odmake. <a data-l10n-name="learn-more">{ features-learn-more }</a>
