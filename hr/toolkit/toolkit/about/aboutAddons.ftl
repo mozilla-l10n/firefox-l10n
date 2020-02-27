@@ -306,10 +306,9 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Dodaci i motivi su kao aplikacije za vaš preglednik i oni vam omogućavaju
-    da zaštitite lozinke, preuzimate video na disk, pronađete akcije, blokirate
-    naporne reklame, izmjenite kako vaš preglednik izgleda i puno više. Ovi mali
-    programi su često razvijeni od treće strane. Ovdje možete pronaći
+    Dodaci i motivi su kao programi za preglednik i omogućavajuzaštitite lozinke, preuzimate videozapise, pronađete akcije, blokirate
+    naporne reklame, izmijenite kako Vaš preglednik izgleda i puno više. Ove male
+    programe često razvijaju treće strane. Ovdje možete pronaći
     { -brand-product-name } izbor <a data-l10n-name="learn-more-trigger">preporučenih dodataka</a>
     za dodatnu sigurnost, perfomanse i funkcionalnost.
 # Notice to make user aware that the recommendations are personalized.
