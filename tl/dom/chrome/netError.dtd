@@ -77,6 +77,8 @@
 <!ENTITY cspBlocked.title "Hinarang ng Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>Hindi pinayagan ng browser na mag-load ang pahinang ito sa ganitong paraan dahil sa content security policy nito.</p>">
 
+<!ENTITY xfoBlocked.title "Hinarang ng X-Frame-Options Policy">
+
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ang pahinang sinusubukan mong tignan ay hindi pwedeng ipakita sapagkat mayroong problemang napuna sa pagpapadala nang data.</p><ul><li>Ipagbigay alam sa may-ari nang website ang tungkol sa problemang ito.</li></ul>">
 
