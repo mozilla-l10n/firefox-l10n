@@ -379,8 +379,8 @@
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Movi al">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "Recent">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY moveCopyMsgRecentMenu.label "Ĵusaj">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "j">
 <!ENTITY copyMessageLocation.label "Copy Message Location">
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "Kopii al">
