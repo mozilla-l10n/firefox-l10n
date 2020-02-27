@@ -15,7 +15,7 @@ panic-main-timeframe-desc = Escafar :
 panic-button-5min =
     .label = Las darrièras cinc minutas
 panic-button-2hr =
-    .label = La darrièras doas oras
+    .label = Las darrièras doas oras
 panic-button-day =
     .label = Las darrièras 24 oras
 
