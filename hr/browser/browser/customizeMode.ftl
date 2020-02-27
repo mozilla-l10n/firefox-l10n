@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Vrati zadano
-customize-mode-menu-and-toolbars-header = Povucite svoje omiljene stavke u alatnu traku ili dodatni izbornik.
+customize-mode-menu-and-toolbars-header = Povuci omiljene stavke u alatnu traku ili dodatni izbornik.
 customize-mode-overflow-list-title = Dodatni meni
 customize-mode-uidensity =
     .label = Gustoća

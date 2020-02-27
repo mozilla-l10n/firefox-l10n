@@ -40,7 +40,7 @@
 
 <!ENTITY importSource.title             "Uvezi postavke i podatke">
 <!ENTITY importItems.title              "Stavke za uvoz">
-<!ENTITY importItems.label              "Odaberite stavke za uvoz:">
+<!ENTITY importItems.label              "Odaberi stavke za uvoz:">
 
 <!ENTITY migrating.title                "Uvozi se …">
 <!ENTITY migrating.label                "Sljedeće stavke se trenutačno uvoze …">
