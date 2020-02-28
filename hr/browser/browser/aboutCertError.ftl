@@ -5,8 +5,8 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } koristi neispravni sigurnosni certifikat.
-cert-error-mitm-intro = Web stranice dokazuju svoj identitet putem certifikata koje izdaju tijela za izdavanje certifikata.
-cert-error-mitm-mozilla = { -brand-short-name } podupire neprofitna organizacija Mozilla, koja upravlja potpuno otvorenim spremištem za izdavanje certifikata (CA). CA spremište osigurava, da se certifikacijska tijela pridržavaju sigurnosnih smjernica.
+cert-error-mitm-intro = Web stranice dokazuju svoj identitet putem certifikata, koje izdaju certifikacijska tijela.
+cert-error-mitm-mozilla = { -brand-short-name } podupire neprofitna organizacija Mozilla, koja upravlja potpuno otvorenim spremištem za certifikacijska tijela (CA). CA spremište osigurava, da se certifikacijska tijela pridržavaju najboljih sigurnosnih praksa.
 cert-error-mitm-connection = { -brand-short-name } koristi Mozilla CA spremište kako bi se provjerila sigurnost veze, a ne koristi certifikate koje je isporučio operacijski sustav korisnika. Dakle, ako antivirusni program ili mreža presreću vezu sa sigurnosnim certifikatom kojeg je izdao CA, a koji nije u Mozilla CA spremištu, veza se smatra nesigurnom.
 cert-error-trust-unknown-issuer-intro = Netko možda pokušava oponašati stranicu i ne biste trebali nastaviti.
 # Variables:
@@ -17,7 +17,7 @@ cert-error-trust-untrusted-issuer = Certifikat nije pouzdan jer je izdavač cert
 cert-error-trust-signature-algorithm-disabled = Certifikat nije pouzdan jer je potpisan koristeći algoritam potpisa koji je onemogućen iz sigurnosnih razloga.
 cert-error-trust-expired-issuer = Certifikat nije pouzdan jer je certifikat izdavača istekao.
 cert-error-trust-self-signed = Certifikat nije pouzdan jer je samo-potpisan.
-cert-error-trust-symantec = Certifikati koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign više se ne smatraju sigurnima jer te certifikacijske agencije nisu slijedile sigurnosne prakse u prošlosti.
+cert-error-trust-symantec = Certifikati koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign više se ne smatraju sigurnima, jer ta certifikacijska tijela u prošlosti nisu slijedile sigurnosne prakse.
 cert-error-untrusted-default = Certifikat ne dolazi s povjerljivog izvora.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
@@ -46,7 +46,7 @@ cert-error-not-yet-valid-now = Web stranice dokazuju svoj identitet putem certif
 cert-error-code-prefix-link = Kȏd pogreške: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Web stranice dokazuju svoj identitet putem certifikata koje izdaju tijela za izdavanje certifikata. Većina preglednika više ne vjeruje certifikatima koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign. { $hostname } koristi certifikat jednog od ovih izdavatelja, pa se identitet web stranice ne može dokazati.
+cert-error-symantec-distrust-description = Web stranice dokazuju svoj identitet putem certifikata koje izdaju certifikacijska tijela. Većina preglednika više ne vjeruje certifikatima koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign. { $hostname } koristi certifikat jednog od ovih izdavatelja, pa se identitet web stranice ne može dokazati.
 cert-error-symantec-distrust-admin = O ovom problemu možete obavijestiti administratora web stranice.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
