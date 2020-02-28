@@ -17,7 +17,7 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Preuzimanje certifikata">
-<!ENTITY downloadCert.message1 "Upitani ste za vjerovanje novoj agenciji certifikata (CA).">
+<!ENTITY downloadCert.message1 "Novo certifikacijsko tijelo (CA) traži da mu se vjeruje.">
 <!ENTITY downloadCert.trustSSL "Vjeruj ovom CA-u za identifikaciju web stranica.">
 <!ENTITY downloadCert.trustEmail "Vjeruj ovom CA-u za identifikaciju korisnika e-pošte.">
 <!ENTITY downloadCert.message3 "Prije vjerovanju ovom CA-u za bilo koju svrhu, trebali biste ispitati njegov certifikat, politiku i procedure (ako je dostupno).">

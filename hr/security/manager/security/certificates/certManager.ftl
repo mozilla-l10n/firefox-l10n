@@ -11,11 +11,11 @@ certmgr-tab-people =
 certmgr-tab-servers =
     .label = Poslužitelji
 certmgr-tab-ca =
-    .label = Agencije
+    .label = Certifikacijska tijela
 certmgr-mine = Imaš certifikate sljedećih organizacija koje te identificiraju
 certmgr-people = Imaš spremljene certifikate koji identificiraju sljedeće osobe
 certmgr-servers = Imaš spremljene certifikate koji identificiraju sljedeće poslužitelje
-certmgr-ca = Imaš spremljene certifikate koji identificiraju sljedeće nadležne agencije
+certmgr-ca = Imaš spremljene certifikate koji identificiraju ova certifikacijska tijela
 certmgr-detail-general-tab-title =
     .label = Opće
     .accesskey = O
@@ -144,7 +144,7 @@ import-email-cert-prompt = Za uvoz odaberite datoteku koja sadrži nečiji certi
 
 # Variables:
 #   $certName: the name of certificate
-edit-trust-ca = Certifikat "{ $certName }" predstavlja agenciju certifikata.
+edit-trust-ca = Certifikat „{ $certName }” predstavlja certifikacijsko tijelo.
 
 ## For Deleting Certificates
 
@@ -159,7 +159,7 @@ delete-ssl-cert-impact = Ako obrišete iznimku poslužitelja, obnavljate uobiča
 delete-ca-cert-title =
     .title = Brisanje ili poništavanje povjerenja CA certifikata
 delete-ca-cert-confirm = Zatražili ste brisanje ovih CA certifikata. Za ugrađene certifikate će sva povjerenja biti uklonjena, što ima isti efekt. Jeste li sigurni da želite obrisati ili poništiti povjerenje?
-delete-ca-cert-impact = Ako obrišete ili poništite povjerenje CA certifikat, ova aplikacija više neće vjerovati certifikatima koje je objavio taj CA.
+delete-ca-cert-impact = Ako izbrišeš ili poništiš povjerenje za certifikat certifikacijskog tijela, ovaj program više neće vjerovati certifikatima koje izdaje to certifikacijsko tijelo.
 delete-email-cert-title =
     .title = Obriši certifikate e-pošte
 delete-email-cert-confirm = Jeste li sigurni da želite obrisati certifikate e-pošte ovih ljudi?
@@ -189,7 +189,7 @@ verify-ssl-client =
 verify-ssl-server =
     .value = Certifikat SSL poslužitelja
 verify-ssl-ca =
-    .value = Izdavač SSL certifikata
+    .value = Certifikacijsko tijelo za SSL
 verify-email-signer =
     .value = Certifikat potpisnika e-pošte
 verify-email-recip =
