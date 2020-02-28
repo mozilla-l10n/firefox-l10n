@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = Senyap
 pictureinpicture-unmute =
     .aria-label = Keraskan
+pictureinpicture-unpip =
+    .aria-label = Kirim kembali ke tab
 pictureinpicture-close =
     .aria-label = Tutup
