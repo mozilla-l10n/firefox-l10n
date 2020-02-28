@@ -444,21 +444,21 @@
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Kunsendaĵoj">
 <!ENTITY openAttachmentListCmd.accesskey "s">
-<!ENTITY openFeedMessage1.label "Vidigi artikolojn kiel">
+<!ENTITY openFeedMessage1.label "Vidigi artikolojn">
 <!ENTITY openFeedMessage1.accesskey "V">
-<!ENTITY openFeedWebPage.label "retpaĝojn">
+<!ENTITY openFeedWebPage.label "kiel retpaĝojn">
 <!ENTITY openFeedWebPage.accesskey "r">
-<!ENTITY openFeedSummary.label "sumigojn">
+<!ENTITY openFeedSummary.label "kiel sumigojn">
 <!ENTITY openFeedSummary.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
-<!ENTITY openFeedWebPageInMP.accesskey "T">
+<!ENTITY openFeedWebPageInMP.label "nur en la panelo de mesaĝoj">
+<!ENTITY openFeedWebPageInMP.accesskey "n">
 
 <!-- Windows Menu -->
-<!ENTITY windowMenu.label "Window">
+<!ENTITY windowMenu.label "Fenestro">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Tools">
-<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY tasksMenu.label "Iloj">
+<!ENTITY tasksMenu.accesskey "l">
 <!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Address Book">
