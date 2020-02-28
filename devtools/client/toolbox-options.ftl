@@ -15,7 +15,7 @@ options-select-default-tools-label = Zadani programerski alati
 options-tool-not-supported-label = * Nije podržano za trenutni cilj alatne trake
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
-options-select-additional-tools-label = Programerski alati instalirani od strane dodataka
+options-select-additional-tools-label = Programerski alati koje su instalirali dodaci
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Dostupne tipke alatne trake
