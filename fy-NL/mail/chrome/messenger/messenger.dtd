@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "b">
 <!ENTITY  newContactCmd.label "Adresboekkontakt…">
 <!ENTITY  newContactCmd.accesskey "k">
+<!ENTITY openMenuCmd.label "Iepenje">
+<!ENTITY openMenuCmd.accesskey "I">
 <!ENTITY openMessageFileCmd.label "Bewarre berjocht iepenje…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Bewarje as">
