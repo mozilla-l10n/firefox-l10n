@@ -60,3 +60,7 @@ abuse-report-messagebar-action-cancel = Չեղարկել
 
 abuse-report-damage-reason = Վնասում է իմ համակարգչին եւ տուեալներին
 abuse-report-damage-reason-v2 = Դա կը վնասի իմ համակարգչը կամ իմ տուեալները
+abuse-report-damage-example = Աւրինակ՝ ներածուած վնասագիր կամ գողացուած տուեալներ
+abuse-report-spam-reason = Ստեղծում է աղբ կամ գովազդ
+abuse-report-spam-reason-v2 = Այն պարունակում է աղբ կամ ներածում է անցանկալի գովազդ
+abuse-report-spam-example = Աւրինակ՝ կայքերում ներածել գովազդներ
