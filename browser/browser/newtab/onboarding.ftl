@@ -32,10 +32,12 @@ onboarding-cards-dismiss =
     .title = പുറത്താക്കുക
     .aria-label = പുറത്താക്കുക
 
+## Welcome full page string
+
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-learn-more-link = ഫയർഫോക്സ് അക്കൗണ്ടിനെ കുറിച്ച് കൂടൂതൽ അറിയുക
-onboarding-sync-form-invalid-input = സാധുവായ ഇമെയിൽ ആവശ്യമാണ്
 onboarding-sync-form-input =
     .placeholder = ഇമെയില്‍
 onboarding-sync-form-continue-button = തുടരുക
@@ -69,7 +71,10 @@ onboarding-ghostery-title = ഗോസ്റ്ററി
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = സമന്വയം
 onboarding-fxa-text = { -fxaccount-brand-name } എന്നതിനായി സൈൻ അപ്പ് ചെയ്യുക, ഒപ്പം നിങ്ങളുടെ ബുക്ക്മാർക്കുകൾ, രഹസ്യവാക്കുകള്‍, തുറന്ന ടാബുകൾ എന്നിവ { -brand-short-name } ഉപയോഗിച്ച് നിങ്ങൾ എല്ലായിടത്തും സമന്വയിപ്പിക്കുക.
+onboarding-tracking-protection-title2 = ട്രാക്കിംഗിൽ നിന്നുള്ള സംരക്ഷണം
+onboarding-tracking-protection-button2 = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
 onboarding-data-sync-title = നിങ്ങളുടെ ക്രമീകരണം കൂടെ കൊണ്ട് പോകൂ
+onboarding-data-sync-button2 = { -sync-brand-short-name } ലേക്ക് പ്രവേശിക്കുക
 onboarding-firefox-monitor-title = വിവരചോരണങ്ങളെക്കുറിച്ചു് അറിയിപ്പുകള്‍ നേടുക
 onboarding-firefox-monitor-button = അലേർട്ടുകൾക്കായി സൈൻ അപ്പ് ചെയ്യുക
 onboarding-browse-privately-title = സ്വകാര്യമായി ബ്രൌസ് ചെയ്യുക
@@ -81,7 +86,11 @@ onboarding-mobile-phone-title = നിങ്ങളുടെ ഫോണിൽ { -b
 # browser.
 onboarding-mobile-phone-button = മൊബൈൽ ബ്രൗസർ ഡൗൺലോഡുചെയ്യുക
 onboarding-send-tabs-title = ടാബുകൾ തൽക്ഷണം അയയ്ക്കുക
+onboarding-pocket-anywhere-title = എവിടെയും വായിക്കുക, എവിടെയും കേൾക്കുക
 onboarding-pocket-anywhere-button = { -pocket-brand-name } പരീക്ഷിക്കുക
+onboarding-lockwise-passwords-button2 = അപ്ലിക്കേഷൻ നേടുക
+onboarding-facebook-container-title = ഫേസ്ബുക്കുമായി അതിർത്തികൾ സജ്ജമാക്കുക
+onboarding-facebook-container-button = വിപുലീകരണം ചേർക്കുക
 
 ## Message strings belonging to the Return to AMO flow
 

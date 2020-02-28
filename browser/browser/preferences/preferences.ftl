@@ -103,6 +103,8 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ബ്രൌസർ ഉപേക്ഷിക്കുമ്പോൾ നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക
 disable-extension =
     .label = എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക
 tabs-group-header = റ്റാബുകള്‍
@@ -299,6 +301,7 @@ update-enable-search-update =
     .label = സെര്‍ച്ച് എഞ്ചിനുകള്‍ സ്വമേധയാ പുതക്കുക
     .accesskey = e
 update-pref-write-failure-title = എഴുത്ത് പരാജയം
+update-in-progress-title = അപ്‌ഡേറ്റ് പുരോഗതിയിലാണ്
 
 ## General Section - Performance
 
