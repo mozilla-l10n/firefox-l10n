@@ -13,9 +13,9 @@ psmerr-ssl-disabled = Sigurno povezivanje nije moguće, jer je SSL protokol deak
 psmerr-ssl2-disabled = Sigurno povezivanje nije moguće, jer stranica koristi stariju, nesigurnu verziju protokola.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Primljen je si neispravni certifikat. Kontaktiraj administratora poslužitelja ili pošalji e-poruku sa sljedećim informacijama:
+    Primljen je neispravni certifikat. Kontaktiraj administratora poslužitelja ili pošalji e-poruku sa sljedećim informacijama:
     
-    Tvoj certifikat sadrži isti serijski broj kao i još barem jedan certifikat, kojeg je izdala ista agencija (CA). Nabavi novi certifikat s jednistvenim serijskim brojem.
+    Tvoj certifikat sadrži isti serijski broj kao i još barem jedan certifikat, kojeg je izdalo isto certifikacijsko tijelo. Nabavi novi certifikat s jednistvenim serijskim brojem.
 ssl-error-export-only-server = Sigurna komunikacija nije moguća. Čvor ne podržava kriptiranje visoke razine.
 ssl-error-us-only-server = Sigurna komunikacija nije moguća. Čvor zahtijeva kriptiranje visoke razine, koje nije podržano.
 ssl-error-no-cypher-overlap = Sigurna komunikacija s čvorom nije moguća: nema zajedničkih algoritama šifriranja.
@@ -103,7 +103,7 @@ ssl-error-no-compression-overlap = Sigurna komunikacija s čvorom nije moguća: 
 ssl-error-handshake-not-completed = Pokretanje drugog SSL rukovanja nije moguće dok se trenutno rukovanje ne dovrši.
 ssl-error-bad-handshake-hash-value = Od čvora su primljeni netočni iznosi raspršenog rukovanja.
 ssl-error-cert-kea-mismatch = Dani certifikat ne može biti upotrjebljen s odabranim algoritmom razmjene ključa.
-ssl-error-no-trusted-ssl-client-ca = Ne vjeruje se nijednom ovlašteniku certifikata za SSL ovjeru klijenta.
+ssl-error-no-trusted-ssl-client-ca = Ne vjeruje se nijednom certifikacijskom tijelu za SSL ovjeru klijenta.
 ssl-error-session-not-found = Klijentov ID SSL prijave nije pronađen u privremenoj memoriji prijava poslužitelja.
 ssl-error-decryption-failed-alert = Čvor nije mogao dešifrirati primljeni SSL zapis.
 ssl-error-record-overflow-alert = Čvor je primio SSL zapis koji je veći od dopuštenog.
@@ -264,7 +264,7 @@ sec-error-js-add-mod-failure = Dodavanje modula nije moguće
 sec-error-js-del-mod-failure = Uklanjanje modula nije moguće
 sec-error-old-krl = Novi KRL nije kasniji od trenutnog.
 sec-error-ckl-conflict = Novi CKL ima drugačijeg izdavača od trenutnog CKL-a. Obrišite trenutni CKL.
-sec-error-cert-not-in-name-space = Certificirajućem tijelu ovog certifikata nije dopušteno izdavanje certifikata s ovim nazivom.
+sec-error-cert-not-in-name-space = Certifikacijskom tijelu ovog certifikata nije dopušteno izdati certifikat s ovim nazivom.
 sec-error-krl-not-yet-valid = Popis opozvanih ključeva za ovaj certifikat još nije valjan.
 sec-error-crl-not-yet-valid = Popis opozvanih certifikata za ovaj certifikat još nije valjan.
 sec-error-unknown-cert = Traženi certifikat nije pronađen.
@@ -330,7 +330,7 @@ sec-error-unknown-pkcs11-error = Nepoznata PKCS #11 greška.
 sec-error-bad-crl-dp-url = Neispravan ili nepodržan URL u imenu CRL distribucije.
 sec-error-cert-signature-algorithm-disabled = Certifikat je potpisan koristeći algoritam potpisivanja koji je onemogućen jer se smatra nesigurnim.
 mozilla-pkix-error-key-pinning-failure = Poslužitelj koristi "key pinning" (HPKP), ali nije moguće sastaviti nijedan lanac certifikata koji odgovara pinsetu. "Key pinning" prekršaji se ne mogu zaobići.
-mozilla-pkix-error-ca-cert-used-as-end-entity = Poslužitelj koristi certifikat s proširenjem osnovnih uvjeta koji ga identificiraju kao certifikacijsku kuću. Za ispravno izdan certifikat, ovo ne bi smio biti slučaj.
+mozilla-pkix-error-ca-cert-used-as-end-entity = Poslužitelj koristi certifikat s proširenjem osnovnih uvjeta koji ga identificiraju kao certifikacijsko tijelo. Za ispravno izdan certifikat, ovo ne bi smio biti slučaj.
 mozilla-pkix-error-inadequate-key-size = Poslužitelj je prezentirao certifikat s ključem premale dužine za uspostavljanje sigurne veze.
 mozilla-pkix-error-v1-cert-used-as-ca = X.509 certifikat inačice 1 koji nema potvrđenu vjerodostojnost je korišten za izdavanje certifikata poslužitelja. X.509 certifikati inačice 1 su zastarjeli i ne bi se smjeli koristiti za potpisivanje drugih certifikata.
 mozilla-pkix-error-not-yet-valid-certificate = Poslužitelj je ponudio certifikat koji još nije važeći.
