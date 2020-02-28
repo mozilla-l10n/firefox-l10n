@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokirali ste MIDI pristup za ovu web stranicu.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ovoj stranici ste zabranili instalaciju dodataka.">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste odobrili dodatne dozvole.">
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj si stranici odobrio/la dodatne dozvole.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
