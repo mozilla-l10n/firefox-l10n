@@ -89,6 +89,8 @@ graphics-crash-guards-title = Fitur Penjaga Kerusakan yang Dinonaktifkan
 graphics-workarounds-title = Solusi sementara
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokol Jendela
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Lingkungan Desktop
 place-database-title = Basis Data Places
 place-database-integrity = Integritas
 place-database-verify-integrity = Verifikasikan Integritas

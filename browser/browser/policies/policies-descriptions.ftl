@@ -88,5 +88,6 @@ policy-SecurityDevices = Pasang modul PKCS #11.
 policy-SSLVersionMax = Tetapkan versi SSL maksimum.
 policy-SSLVersionMin = Tetapkan versi SSL minimum.
 policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.
+policy-UserMessaging = Jangan tampilkan pesan tertentu kepada pengguna.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokir situs web agar tidak dikunjungi. Lihat dokumentasi lebih lanjut untuk formatnya.

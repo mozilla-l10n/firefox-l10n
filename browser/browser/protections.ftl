@@ -57,6 +57,9 @@ lockwise-header-content-logged-in = Simpan dan sinkronkan sandi dengan aman ke s
 protection-report-view-logins-button = Lihat Info masuk
     .title = Buka Info masuk
 lockwise-no-logins-content = Dapatkan aplikasi <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> untuk membawa kata sandi Anda ke mana-mana.
+lockwise-mobile-app-title = Bawa kata sandi Anda ke mana saja
+lockwise-no-logins-card-content = Gunakan kata sandi yang disimpan dalam { -brand-short-name } di semua perangkat.
+lockwise-app-links = { -lockwise-brand-name } untuk <a data-l10n-name="lockwise-android-inline-link">Android</a> dan <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

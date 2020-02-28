@@ -119,6 +119,11 @@ cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Ketik lebih sedikit, temukan lebih banyak, dengan bilah alamat
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Buka situs yang sering dibuka dengan sekali klik di bilah alamat. Temukan lebih cepat bersama hasil dari { $searchEngineName } dan riwayat penjelajahan Anda.
+cfr-whatsnew-searchbar-body-generic = Buka situs yang sering dibuka dengan sekali klik di bilah alamat. Temukan lebih cepat bersama hasil dari riwayat penjelajahan Anda.
 cfr-whatsnew-searchbar-icon-alt-text = Ikon kaca pembesar
 
 ## Picture-in-Picture
