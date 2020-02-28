@@ -27,7 +27,7 @@ onboarding-welcome-modal-privacy-body = Imaš preglednik. Dodajmo još više za�
 onboarding-welcome-modal-family-learn-more = Saznaj više o { -brand-product-name } obitelji proizvoda.
 onboarding-welcome-form-header = Započni ovdje
 onboarding-join-form-header = Pridruži se { -brand-product-name }
-onboarding-join-form-body = Upiši svoju adresu e-pošte kako bi započeo/la.
+onboarding-join-form-body = Upiši svoju e-adresu kako bi započeo/la.
 onboarding-join-form-email =
     .placeholder = Upiši e-adresu
 onboarding-join-form-email-error = Potrebna je ispravna adresa e-pošte
@@ -46,7 +46,7 @@ onboarding-cards-dismiss =
 
 onboarding-fullpage-welcome-subheader = Počnimo s istraživanjem svega što možete učiniti.
 onboarding-fullpage-form-email =
-    .placeholder = Adresa tvoje e-pošte …
+    .placeholder = Tvoja e-adresa …
 
 ## Firefox Sync modal dialog strings.
 
