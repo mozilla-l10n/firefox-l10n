@@ -4,14 +4,18 @@
 
 <!-- extracted from AccountManager.xul -->
 
+<!-- extracted from AccountManager.xhtml -->
+
 <!ENTITY accountManagerTitle.label "계정 설정">
+
+<!ENTITY  accountManagerCloseButton.label "닫기">
 
 <!ENTITY accountActionsButton.label "계정 작업">
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "메일 계정 추가…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label	"채팅 계정 추가…">
-<!ENTITY addIMAccountButton.accesskey	"C">
+<!ENTITY addIMAccountButton.label "채팅 계정 추가…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "피드 계정 추가…">
 <!ENTITY addFeedAccountButton.accesskey "F">
 <!ENTITY addOtherAccountButton.label "기타 계정 추가…">
@@ -22,6 +26,8 @@
 <!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
+
+<!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
