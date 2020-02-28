@@ -110,10 +110,10 @@
 <!ENTITY prefs_general_title "Opće">
 <!ENTITY prefs_restore "Vrati zadano">
 <!ENTITY prefs_manage_components "Upravljanje dodatnim komponentama">
-<!ENTITY prefs_options_autoconnectruntime "Povezivanje na prijašnji runtime">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Povezuje se na prijašnji runtime kad se WebIDE pokreće">
+<!ENTITY prefs_options_autoconnectruntime "Ponovo se poveži s prethodnim vremenom izvršavanja">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Povezuje se s prethodnim vremenom izvršavanja kad se pokrene WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Zapamti zadnji projekt">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Vrati prijašnji projekt kad se WebIDE pokrene">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Vrati prethodni projekt kad se pokrene WebIDE">
 <!ENTITY prefs_options_templatesurl "URL predložaka">
 <!ENTITY prefs_options_templatesurl_tooltip "Indeks dostupnih predložaka">
 

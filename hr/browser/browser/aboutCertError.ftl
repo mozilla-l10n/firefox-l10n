@@ -11,7 +11,7 @@ cert-error-mitm-connection = { -brand-short-name } koristi Mozilla CA spremište
 cert-error-trust-unknown-issuer-intro = Netko možda pokušava oponašati stranicu i ne biste trebali nastaviti.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje { $hostname } iz razloga što je izdavatelj certifikata nepoznat, certifikat je samostalno potpisan ili poslužitelj ne šalje ispravne intermedijarne certifikate.
+cert-error-trust-unknown-issuer = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje { $hostname } jer je izdavač certifikata nepoznat, certifikat je samostalno potpisan ili poslužitelj ne šalje ispravne intermedijarne certifikate.
 cert-error-trust-cert-invalid = Certifikat nije pouzdan jer ga je izdala neispravna agencija certifikata (CA).
 cert-error-trust-untrusted-issuer = Certifikat nije pouzdan jer je izdavač certifikata nepouzdan.
 cert-error-trust-signature-algorithm-disabled = Certifikat nije pouzdan jer je potpisan koristeći algoritam potpisa koji je onemogućen iz sigurnosnih razloga.
