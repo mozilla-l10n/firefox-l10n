@@ -212,7 +212,7 @@ text-copied = Tekst kopiran u međuspremnik
 
 blocked-driver = Blokirano zbog inačice upravljačkog programa grafičke kartice.
 blocked-gfx-card = Blokirano za vašu grafičku karticu zbog neriješenih problema s upravljačkim programom.
-blocked-os-version = Blokirano za inačicu vašeg operativnog sustava.
+blocked-os-version = Blokirano za verziju tvog operacijskog sustava.
 blocked-mismatched-version = Blokiran jer se inačice upravljačkog programa vaše grafičke kartice ne podudaraju u registru i DLL-u.
 # Variables
 # $driverVersion - The graphics driver version string
