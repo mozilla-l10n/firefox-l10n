@@ -4,6 +4,7 @@
 
 <!ENTITY autoconfigWizard2.title         "اضبط حساب بريد إلكتروني موجود">
 
+<!ENTITY emailWizard.caption             "استخدم عنوان بريدك الإلكتروني الحالي">
 <!ENTITY name.label                      "اسمك:">
 <!ENTITY name.accesskey                  "س">
 <!ENTITY name.placeholder                "الاسم الكامل">
