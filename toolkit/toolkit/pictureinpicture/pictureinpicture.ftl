@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = ਚੁੱਪ
 pictureinpicture-unmute =
     .aria-label = ਸੁਣਾਓ
+pictureinpicture-unpip =
+    .aria-label = ਟੈਬ ਤੇ ਵਾਪਸ ਭੇਜੋ
+pictureinpicture-close =
+    .aria-label = ਬੰਦ ਕਰੋ

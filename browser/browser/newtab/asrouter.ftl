@@ -125,6 +125,9 @@ cfr-whatsnew-lockwise-take-link-text = ਐਪ ਲਵੋ
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = ਘੱਟ ਟਾਈਪ ਕਰੋ, ਐਡਰੈਸ ਬਾਰ ਨਾਲ ਹੋਰ ਲੱਭੋ
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = ਉਨ੍ਹਾਂ ਸਾਈਟਾਂ ਤੇ ਜਾਓ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਐਡਰੈਸ ਬਾਰ ਤੇ ਇਕ ਕਲਿੱਕ ਨਾਲ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤੋਂ ਕਰਦੇ ਹੋ। { $searchEngineName } ਅਤੇ ਆਪਣੇ ਬਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਤੋਂ ਖੋਜ ਨਤੀਜਿਆਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ।
 cfr-whatsnew-searchbar-body-generic = ਉਨ੍ਹਾਂ ਸਾਈਟਾਂ ਤੇ ਜਾਓ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਐਡਰੈਸ ਬਾਰ ਤੇ ਇਕ ਕਲਿੱਕ ਨਾਲ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤੋਂ ਕਰਦੇ ਹੋ। ਆਪਣੇ ਬਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਤੋਂ ਖੋਜ ਨਤੀਜਿਆਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ।
 cfr-whatsnew-searchbar-icon-alt-text = ਵੱਡਦਰਸ਼ੀ ਸ਼ੀਸ਼ਾ ਆਈਕਾਨ
 
