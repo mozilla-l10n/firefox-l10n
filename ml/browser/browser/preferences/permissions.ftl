@@ -36,6 +36,12 @@ permissions-button-ok =
     .accesskey = S
 permissions-searchbox =
     .placeholder = വെബ്സൈറ്റ് തിരയുക
+permissions-capabilities-autoplay-allow =
+    .label = ഓഡിയോയും വീഡിയോയും അനുവദിക്കുക
+permissions-capabilities-autoplay-block =
+    .label = ഓഡിയോ തടയുക
+permissions-capabilities-autoplay-blockall =
+    .label = ഓഡിയോയും വീഡിയോയും തടയുക
 permissions-capabilities-allow =
     .label = അനുവദിക്കുക
 permissions-capabilities-block =
@@ -105,6 +111,9 @@ permissions-site-location-window =
     .style = { permissions-window.style }
 permissions-site-location-disable-label =
     .label = നിങ്ങളുടെ സ്ഥലം പരിശോധിക്കുന്നതിനായി ആവശ്യപ്പെടുന്ന പുതിയ അഭ്യർത്ഥനകള്‍ തടയുക
+
+## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 

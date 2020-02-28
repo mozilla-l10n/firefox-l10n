@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = ശുപാർശ ചെയ്യുന്ന വിപുലീകരണം
 cfr-doorhanger-pintab-heading = ടാബ് പിൻ ചെയ്യുന്നതു പരീക്ഷിക്കുക
+
+##
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = എന്തുകൊണ്ട് ഞാനിത് കാണുന്നു
 cfr-doorhanger-extension-cancel-button = ഇപ്പോൾ വേണ്ട
@@ -55,3 +61,40 @@ cfr-doorhanger-pintab-animation-resume = തുടരുക
 
 cfr-doorhanger-bookmark-fxa-header = എല്ലായിടത്തും നിങ്ങളുടെ അടയാളകുറിപ്പുകള്‍ സമന്വയിപ്പിക്കുക
 cfr-doorhanger-bookmark-fxa-link-text = അടയാളകുറിപ്പുകള്‍ ഇപ്പോൾ സമന്വയിപ്പിക്കുക…
+
+## Protections panel
+
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-panel-header = പുതിയതെന്താണ്
+
+## Search Bar
+
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+
+
+## Enhanced Tracking Protection Milestones
+

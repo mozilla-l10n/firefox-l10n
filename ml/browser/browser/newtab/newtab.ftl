@@ -29,9 +29,12 @@ newtab-topsites-edit-topsites-header = മികച്ച സൈറ്റ് ല
 newtab-topsites-title-label = തലക്കെട്ട്
 newtab-topsites-title-input =
     .placeholder = തലക്കെട്ട് നൽകൂ
+newtab-topsites-url-label = യുആര്‍എല്‍
 newtab-topsites-url-input =
     .placeholder = വെബ്URLനൽകൂ
 newtab-topsites-url-validation = പ്രവർത്തിയ്ക്കുന്ന URL ആവശ്യമാണ്
+newtab-topsites-image-url-label = ഇഷ്‌ടാനുസൃത ചിത്രത്തിന്റെ യുആര്‍എല്‍
+newtab-topsites-use-image-link = ഒരു ഇഷ്‌ടാനുസൃത ചിത്രം ഉപയോഗിക്കുക…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -144,6 +147,8 @@ newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ �
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = വീണ്ടും ശ്രമിക്കുക
+newtab-discovery-empty-section-topstories-loading = ലോഡിംഗ്...
 
 ## Pocket Content Section.
 
@@ -155,3 +160,5 @@ newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കു
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = ക്ഷമിക്കണം, ഈ ഉള്ളടക്കം ലോഡുചെയ്ത്പ്പൊള്‍ എന്തോ കുഴപ്പം സംഭവിച്ചു.
+newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്കുന്നതിന് പേജ് പുതുക്കുക.
