@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = A(z) <strong>{ $property }</strong> n
 inactive-css-not-display-block-on-floated = A <strong>display</strong> értéket <strong>blokkolásra</strong> változtatta a motor, mert az elem <strong>lebegő<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $property }</strong> felülbírálása a <strong>:visited</strong> korlátozás miatt lehetetlen.
 inactive-css-position-property-on-unpositioned-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem pozicionált elem.
+inactive-text-overflow-when-no-overflow = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem megadva az <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Próbálja meg 
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Próbálja meg ezt hozzáadni: <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Próbálja meg eltávolítani a <strong>float</strong> tulajdonságot, vagy hozzáadni a <strong>display:block</strong> tulajdonságot. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Próbálja meg a <strong>position</strong> tulajdonságot <strong>static</strong> helyett valami másra beállítani. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Próbálja meg ezt hozzáadni: <strong>overflow:hidden</strong>. { learn-more }

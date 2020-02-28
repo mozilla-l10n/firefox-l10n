@@ -123,6 +123,10 @@ cfr-whatsnew-lockwise-take-link-text = Alkalmazás beszerzése
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Gépeljen kevesebbet, találjon meg több mindent a címsorban
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Keresse fel a legtöbbet használt webhelyeit egyetlen kattintással a címsorban. Találjon dolgokat gyorsabban a(z) { $searchEngineName } és az előzményei találataival.
+cfr-whatsnew-searchbar-body-generic = Keresse fel a legtöbbet használt webhelyeit egyetlen kattintással a címsorban. Találjon dolgokat gyorsabban a böngészési előzményei találataival.
 cfr-whatsnew-searchbar-icon-alt-text = Nagyító ikon
 
 ## Picture-in-Picture
