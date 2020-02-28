@@ -62,5 +62,5 @@ set-password-reminder = Važno: ako zaboravite svoju sigurnosnu kopiju lozinke c
 
 protected-auth-window =
     .title = Zaštićena token autentifikacija
-protected-auth-msg = Molim, autentificirajte se tokenu. Metoda autentifikacije ovisi o tipu vašeg tokena.
+protected-auth-msg = Autentificiraj se tokenu. Metoda autentifikacije ovisi o vrsti tvog tokena.
 protected-auth-token = Token:
