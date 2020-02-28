@@ -60,10 +60,14 @@
 </ul>">
 
 <!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Molim kontaktirajte vlasnike stranice i informirajte ih o ovom problemu.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>Kontaktiraj vlasnike stranice i obavijesti ih o ovom problemu.</li>
+</ul>">
 
 <!ENTITY unsafeContentType.title "Nesiguran tip datoteke">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Molim kontaktirajte vlasnike stranice i informirajte ih o ovom problemu.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Kontaktiraj vlasnike stranice i obavijesti ih o ovom problemu.</li>
+</ul>">
 
 <!ENTITY netReset.title "Veza je prekinuta">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">

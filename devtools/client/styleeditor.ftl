@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 styleeditor-new-button =
-    .tooltiptext = Stvorite i dodajte nove stilove dokumentu and append a new style sheet to the document
+    .tooltiptext = Stvori i dodaj novi stilski predložak dokumentu
     .accesskey = N
 styleeditor-import-button =
-    .tooltiptext = Uvezite i dodajte postojeće stilove dokumentu
+    .tooltiptext = Uvezi i dodaj postojeće stilske predloške dokumentu
     .accesskey = U
 styleeditor-visibility-toggle =
     .tooltiptext = Uključi/isključi vidljivost stilova
