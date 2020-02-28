@@ -7,19 +7,29 @@
 <!ENTITY menu_securityEncryptRequire.label "Dit bericht versleutelen">
 
 <!ENTITY menu_securityDoNotEncrypt.label "Niet versleutelen">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "u">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Versleuteling vereist">
 <!ENTITY menu_securityEncryptRequire.accesskey "v">
 
 <!ENTITY menu_securitySign.label "Dit bericht digitaal ondertekenen">
 <!ENTITY menu_securitySign.accesskey "o">
 
+<!ENTITY menu_securityAttachMyKey.label "Voeg mijn openbare sleutel toe">
+<!ENTITY menu_securityAttachMyKey.accesskey "V">
 
+<!ENTITY menu_securityTech.label "Encryptietechnologie">
+<!ENTITY menu_securityTech.accesskey "E">
 
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Beveiligingsinfo bekijken">
 <!ENTITY menu_securityStatus.accesskey "b">
