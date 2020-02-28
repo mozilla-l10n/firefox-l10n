@@ -67,7 +67,7 @@ login-intro-heading = Tražite svoje spremljene prijave? Postavite { -sync-brand
 about-logins-login-intro-heading-logged-in = Nisu pronađene sinkronizirane prijave.
 login-intro-description = Ukoliko ste spremili svoje prijave na { -brand-product-name } na drugom uređaju, ovako ih možete imati i ovdje:
 login-intro-instruction-fxa = Otvori račun ili se prijavi na svoj { -fxaccount-brand-name } na uređaju, gdje gdje su tvoje prijave spremljene.
-login-intro-instruction-fxa-settings = Provjeri, jesi li odabrao/la potvrdni okvir prijave u { -sync-brand-short-name } postavkama
+login-intro-instruction-fxa-settings = Provjeri, je li odabran potvrdni okvir prijave u { -sync-brand-short-name } postavkama
 about-logins-intro-instruction-help = Posjeti <a data-l10n-name="help-link">{ -lockwise-brand-short-name } podršku</a> za dodatnu pomoć
 about-logins-intro-import = Ako su tvoje prijave spremljene u jednom drugom pregledniku, možeš ih <a data-l10n-name="import-link"> uvesti u { -lockwise-brand-short-name } </a>
 
