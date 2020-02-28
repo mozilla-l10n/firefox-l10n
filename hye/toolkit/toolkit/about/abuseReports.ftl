@@ -9,6 +9,16 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Զեկոյցել { $addon-name }֊ի համար
+abuse-report-title-extension = Զեկուցէք այս ընդլայնման մասին { -vendor-short-name }-ին
+abuse-report-title-theme = Զեկուցէք այս հիմնապատկերի մասին { -vendor-short-name }-ին
+abuse-report-subtitle = Ի՞նչումն է խնդիրը։
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a>-ի կողմից
+abuse-report-learnmore =
+    Վստահ չե՞ք որ խնդիրը ընտրէք։
+    <a data-l10n-name="learnmore-link">Իմանալ աւելին ընդլայնումների եւ հիմնապատկերների մասին զեկուցելիս</a>
+abuse-report-submit-description = Նկարագրեք խնդիրը (ըստ ցանկութեան)
 
 ## Panel buttons.
 
