@@ -5,6 +5,3 @@
 
 # Addressing widget
 
-pill-action-edit =
-    .label = Muokkaa osoitetta
-    .accesskey = M
