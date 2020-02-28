@@ -34,7 +34,7 @@
 <!ENTITY notCached.title "Dokument je istekao">
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji preglednika.</p><ul><li>Radi mjere sigurnosti, preglednik neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Klikni na „Pokušaj ponovo” za ponovno traženje dokumenta s web stranice.</li></ul>">
 
-<!ENTITY netOffline.title "Izvanmreženi način rada">
+<!ENTITY netOffline.title "Izvanmrežni način rada">
 <!ENTITY netOffline.longDesc2 "<p>Web preglednik je u izvanmrežnom načinu rada i ne može se spojiti na traženu stavku.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Klikni na „Pokušaj ponovo” za uključivanje mrežnog načina rada i ponovno učitavanje stranice.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Greška dekodiranja sadržaja">
