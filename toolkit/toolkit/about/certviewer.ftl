@@ -12,7 +12,7 @@ certificate-viewer-error-title = Nešto je pošlo naopako.
 ## Certificate information labels
 
 certificate-viewer-algorithm = Algoritam
-certificate-viewer-certificate-authority = Izdavač certifikata
+certificate-viewer-certificate-authority = Certifikacijsko tijelo
 certificate-viewer-cipher-suite = Skup šifratora
 certificate-viewer-common-name = Uobičajeni naziv
 certificate-viewer-email-address = Adresa e-pošte
@@ -68,8 +68,8 @@ certificate-viewer-key-usages = Upotrebe ključa
 certificate-viewer-extended-key-usages = Proširena upotrebe ključa
 certificate-viewer-ocsp-stapling = OCSP potvrđivanje
 certificate-viewer-subject-key-id = ID ključa predmeta
-certificate-viewer-authority-key-id = ID ključa autoriteta
-certificate-viewer-authority-info-aia = Podaci autoriteta (AIA)
+certificate-viewer-authority-key-id = ID ključa certifikacijskog tijela
+certificate-viewer-authority-info-aia = Podaci certifikacijskog tijela (AIA)
 certificate-viewer-certificate-policies = Pravila certifikata
 certificate-viewer-embedded-scts = Ugrađeni SCT-ovi
 certificate-viewer-crl-endpoints = Krajnje točke CRL-a

@@ -18,7 +18,7 @@ cert-error-trust-signature-algorithm-disabled = Certifikat nije pouzdan jer je p
 cert-error-trust-expired-issuer = Certifikat nije pouzdan jer je certifikat izdavača istekao.
 cert-error-trust-self-signed = Certifikat nije pouzdan jer je samo-potpisan.
 cert-error-trust-symantec = Certifikati koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign više se ne smatraju sigurnima, jer ta certifikacijska tijela u prošlosti nisu slijedile sigurnosne prakse.
-cert-error-untrusted-default = Certifikat ne dolazi s povjerljivog izvora.
+cert-error-untrusted-default = Certifikat ne dolazi iz pouzdanog izvora.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje ovoj stranici iz razloga što koristi certifikat koji nije valjan za { $hostname }.
