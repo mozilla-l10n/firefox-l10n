@@ -12,10 +12,10 @@ cert-error-trust-unknown-issuer-intro = Netko možda pokušava oponašati strani
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Web stranice dokazuju svoj identitet putem certifikata. { -brand-short-name } ne vjeruje { $hostname } jer je izdavač certifikata nepoznat, certifikat je samostalno potpisan ili poslužitelj ne šalje ispravne intermedijarne certifikate.
-cert-error-trust-cert-invalid = Certifikat nije pouzdan, jer ga je izdalo nevažeće certifikacijsko tijelo (CA).
-cert-error-trust-untrusted-issuer = Certifikat nije pouzdan jer je izdavač certifikata nepouzdan.
-cert-error-trust-signature-algorithm-disabled = Certifikat nije pouzdan jer je potpisan koristeći algoritam potpisa koji je onemogućen iz sigurnosnih razloga.
-cert-error-trust-expired-issuer = Certifikat nije pouzdan jer je certifikat izdavača istekao.
+cert-error-trust-cert-invalid = Certifikat nije pouzdan jer ga je izdalo nevažeće certifikacijsko tijelo (CA).
+cert-error-trust-untrusted-issuer = Certifikat nije pouzdan jer izdavač certifikata nije pouzdan.
+cert-error-trust-signature-algorithm-disabled = Certifikat nije pouzdan jer je potpisan s algoritmom potpisa koji je onemogućen iz sigurnosnih razloga.
+cert-error-trust-expired-issuer = Certifikat nije pouzdan, jer je certifikat izdavača istekao.
 cert-error-trust-self-signed = Certifikat nije pouzdan jer je samo-potpisan.
 cert-error-trust-symantec = Certifikati koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign više se ne smatraju sigurnima, jer ta certifikacijska tijela u prošlosti nisu slijedile sigurnosne prakse.
 cert-error-untrusted-default = Certifikat ne dolazi iz pouzdanog izvora.
