@@ -19,9 +19,17 @@ abuse-report-learnmore =
     Վստահ չե՞ք որ խնդիրը ընտրէք։
     <a data-l10n-name="learnmore-link">Իմանալ աւելին ընդլայնումների եւ հիմնապատկերների մասին զեկուցելիս</a>
 abuse-report-submit-description = Նկարագրեք խնդիրը (ըստ ցանկութեան)
+abuse-report-textarea =
+    .placeholder = Եթե մենք ունենք առանձնահատկութիւններ մեզ համար աւելի հեշտ է խնդիրը լուծել։ Նկարագրէք ինչ եք փորձում։ Շնորհակալութիւն վեբը աշխատունակ պահելուն օգնելու համար։
+abuse-report-submit-note =
+    Նշում․ Մի ներառէք անձնական տուեալներ (օրինակ՝ անուն, էլ֊փոստի հասցե, հեռախոսահամար, ֆիզիկական հասցեն)։
+    { -vendor-short-name }֊ը պահում է այս զեկոյցների մշտական գրառումը։
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Չեղարկել
+abuse-report-next-button = յաջորդը
+abuse-report-goback-button = Գնալ հետ
 
 ## Message bars descriptions.
 
