@@ -20,7 +20,7 @@ options-select-additional-tools-label = Programerski alati koje su instalirali d
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Dostupne tipke alatne trake
 # The label for the heading of the radiobox corresponding to the theme
-options-select-dev-tools-theme-label = Motivi
+options-select-dev-tools-theme-label = Teme
 
 ## Inspector section
 
