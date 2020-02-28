@@ -1039,7 +1039,7 @@ permissions-a11y-privacy-link = Saznaj više
 
 ## Privacy Section - Data Collection
 
-collection-header = Prikupljanje i upotreba podataka od strane { -brand-short-name }a
+collection-header = { -brand-short-name } – prikupljanje i upotreba podataka
 collection-description = Želimo ti omogučiti izbor i prikupljati samo onoliko koliko nam treba da omogučimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego što počnemo primati osobne informacije.
 collection-privacy-notice = Politika privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci biti će izbrisani u roku od 30 dana.

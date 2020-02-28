@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Popisi blokiranja
     .style = width: 55em
-blocklist-description = Odaberite popis koji će { -brand-short-name } koristiti kako bi blokirao pratitelje. Popisi su osigurani od strane <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
+blocklist-description = Odaberi popis koji će { -brand-short-name } koristiti za blokiranje programa za praćenje. Popise pruža <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
