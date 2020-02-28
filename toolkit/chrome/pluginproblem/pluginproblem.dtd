@@ -23,7 +23,7 @@
 <!ENTITY report.disabled                                     "Prijavljivanje rušenja je onemogućeno.">
 <!ENTITY report.failed                                       "Slanje nije uspjelo.">
 <!ENTITY report.unavailable                                  "Nema dostupnog izvješća.">
-<!ENTITY report.comment                                      "Dodajte komentar (komentari su javno vidljivi)">
+<!ENTITY report.comment                                      "Dodaj komentar (komentari su javno vidljivi)">
 <!ENTITY report.pageURL                                      "Uključi URL stranice">
 
 <!ENTITY plugin.file                                         "Datoteka">

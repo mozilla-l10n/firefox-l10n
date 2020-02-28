@@ -42,9 +42,9 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generiranje privatnog ključa">
 <!ENTITY createCertInfo.msg1 "Generiranje ključa je u tijeku... Ovo može potrajati nekoliko minuta...">
-<!ENTITY createCertInfo.msg2 "Molim pričekajte...">
+<!ENTITY createCertInfo.msg2 "Pričekaj …">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Zaštićena token autentifikacija">
-<!ENTITY protectedAuth.msg "Molim, autentificirajte se tokenu. Metoda autentifikacije ovisi o tipu vašeg tokena.">
+<!ENTITY protectedAuth.msg "Autentificiraj se tokenu. Metoda autentifikacije ovisi o vrsti tvog tokena.">
 <!ENTITY protectedAuth.tokenName.label "Token:">

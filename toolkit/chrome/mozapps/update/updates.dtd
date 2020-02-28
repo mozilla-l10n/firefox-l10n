@@ -19,7 +19,7 @@
 <!ENTITY  unsupported.label               "Tvoj &brandShortName; je zastario, ali najnovija verzija nije podržana na ovom sustavu. Nadogradi sustav i pokušaj ponovo. Ovu obavijest više nećeš vidjeti, ali možeš">
 <!ENTITY  unsupportedLink.label           "saznati više.">
 
-<!ENTITY  clickHere.label                 "Pogledajte više informacija o ovoj dopuni">
+<!ENTITY  clickHere.label                 "Pogledaj daljnje informacije o ovoj dopuni">
 
 <!ENTITY  evangelism.desc                 "Izričito vam preporučamo da primjenite ovu &brandShortName; dopunu što je prije moguće.">
 
