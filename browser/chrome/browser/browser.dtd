@@ -415,7 +415,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Nedavno zatvorene kartice">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zatvoreni prozori">
-<!ENTITY historyRestoreLastSession.label "Vrati prijašnju sesiju">
+<!ENTITY historyRestoreLastSession.label "Vrati prethodnu sesiju">
 
 <!ENTITY showAllHistoryCmd2.label "Prikaži svu povijest">
 
@@ -423,7 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu povijest">
 <!ENTITY appMenuHistory.clearRecent.label "Obriši nedavnu povijest…">
-<!ENTITY appMenuHistory.restoreSession.label "Vrati prijašnju sesiju">
+<!ENTITY appMenuHistory.restoreSession.label "Vrati prethodnu sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži okvir povijesti">
 <!ENTITY appMenuHistory.hideSidebar.label "Sakrij okvir povijesti">
 <!ENTITY appMenuHistory.recentHistory.label "Nedavna povijest">
