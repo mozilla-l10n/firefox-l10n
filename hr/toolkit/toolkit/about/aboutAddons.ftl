@@ -71,7 +71,10 @@ cmd-contribute =
     .accesskey = D
     .tooltiptext = Doprinesite razvoju ovog dodatka
 discover-title = Što su dodaci?
-discover-description = Dodaci su aplikacije koje omogućuju prilagođavanje { -brand-short-name }a s dodatnimfunkcijama ili stilom. Isprobajte bočnu traku koja vam ušteđuje vrijeme, dodajte vremensku prognozu ili postavite drugi motiv za { -brand-short-name }.
+discover-description =
+    Dodaci su programi, koji omogućuju prilagođavanje { -brand-short-name }a s dodatnim
+    funkcijama ili stilovima. Za individualiziranje { -brand-short-name }a Isprobaj bočnu traku,
+    obavještavanje o vremenskoj prognozi ili motiv.
 discover-footer = Kada ste spojeni na Internet, u ovom će prozoru biti istaknute neke od najboljih i najpopularnijih dodataka koje možete isprobati.
 detail-version =
     .label = Inačica
@@ -449,7 +452,7 @@ theme-heading = Upravljaj motivima
 plugin-heading = Upravljanje priključcima
 dictionary-heading = Upravljanje rječnicima
 locale-heading = Upravljanje jezicima
-updates-heading = Upravljajte svojim ažuriranjima
+updates-heading = Upravljaj svojim ažuriranjima
 discover-heading = Prilagodite svoj { -brand-short-name }
 shortcuts-heading = Upravljanje prečacima dodataka
 theme-heading-search-label = Pronađi daljnje motive
