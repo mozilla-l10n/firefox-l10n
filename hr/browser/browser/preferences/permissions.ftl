@@ -70,7 +70,7 @@ permissions-exceptions-content-blocking-desc = Onemogućili ste blokiranje sadr�
 permissions-exceptions-etp-window =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Na ovim web-stanicama je zaštita isključena.
+permissions-exceptions-etp-desc = Isključio/la si zaštitu na ovim web stranicama.
 
 ## Exceptions - Cookies
 
