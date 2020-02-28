@@ -59,6 +59,9 @@ lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja
 protection-report-view-logins-button = Bejelentkezések megtekintése
     .title = Ugrás a mentett bejelentkezésekhez
 lockwise-no-logins-content = Szerezze be a <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> alkalmazást, hogy bárhová elvigye a jelszavait.
+lockwise-mobile-app-title = Vigye magával a jelszavait bárhová
+lockwise-no-logins-card-content = Használja a { -brand-short-name }ban mentett jelszavait bármely eszközön.
+lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Androidra</a> és <a data-l10n-name="lockwise-ios-inline-link">iOS-re</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
