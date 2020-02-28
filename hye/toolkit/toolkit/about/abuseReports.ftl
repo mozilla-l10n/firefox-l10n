@@ -30,6 +30,7 @@ abuse-report-submit-note =
 abuse-report-cancel-button = Չեղարկել
 abuse-report-next-button = յաջորդը
 abuse-report-goback-button = Գնալ հետ
+abuse-report-submit-button = Հաստատել
 
 ## Message bars descriptions.
 
@@ -37,9 +38,25 @@ abuse-report-goback-button = Գնալ հետ
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի մասին զեկոյցը չեղարկուել է։
+abuse-report-messagebar-submitting = Ուղարկուում է զեկոյց <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար։
+abuse-report-messagebar-submitted = Շնորհակալութիւն զեկոյցը ուղակելու համար։ Ցանկանու՞մ եք հեռացնել <span data-l10n-name="addon-name">{ $addon-name }</span>-ը։
+abuse-report-messagebar-submitted-noremove = Շնորհակալութիւն զեկոյցը ներկայացնելու համար։
+abuse-report-messagebar-removed-extension = Շնորհակալութիւն զեկոյցը ներկայիացնելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name">{ $addon-name }</span>-ի ընդլայնումը։
+abuse-report-messagebar-removed-theme = Շնորհակալութիւն զեկոյցը ներկայիացնելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name">{ $addon-name }</span>-ի հիմնապատկերը։
+abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկոյց ուղարկելիս սխալ տեղի ունեցավ։
+abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկոյցը չի ուղարկուել, որովհետեւ վերջերս այլ զեկոյց է հաստատուել։
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Այո, հեռացրեք այն
+abuse-report-messagebar-action-keep-extension = Ոչ, ես կպահեմ դա
+abuse-report-messagebar-action-remove-theme = Այո, հեռացրեք այն
+abuse-report-messagebar-action-keep-theme = Ոչ, ես կպահեմ դա
+abuse-report-messagebar-action-retry = Կրկնել
+abuse-report-messagebar-action-cancel = Չեղարկել
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Վնասում է իմ համակարգչին եւ տուեալներին
+abuse-report-damage-reason-v2 = Դա կը վնասի իմ համակարգչը կամ իմ տուեալները
