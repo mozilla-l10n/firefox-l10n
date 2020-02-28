@@ -5,16 +5,14 @@
 
 <!ENTITY migrationWizard.title          "Assistente de importação">
 
-<!ENTITY importFromWin.label            "Importar opções, configurações da conta, catálogos de endereços, filtros e outras informações do:">
-<!ENTITY importFromNonWin.label         "Importar preferências, configurações da conta, catálogos de endereços, filtros e outras informações do:">
+<!ENTITY importFromWin.label            "Importar opções, configurações de contas, catálogos de endereços, filtros e outros dados do:">
+<!ENTITY importFromNonWin.label         "Importar preferências, configurações de contas, catálogos de endereços, filtros e outros dados do:">
 <!ENTITY importSourceNotFound.label     "Nenhum aplicativo para importar dados foi encontrado.">
 
 <!ENTITY importFromNothing.label        "Não importar nada">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ou posterior">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
