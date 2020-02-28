@@ -73,11 +73,9 @@
 ">
 
 <!ENTITY contentEncodingError.title "შიგთავსის დაშიფვრის შეცდომა">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>გთხოვთ, დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li>
+</ul>">
 
 <!ENTITY unsafeContentType.title "სახიფათო სახის ფაილი">
 <!ENTITY unsafeContentType.longDesc "
