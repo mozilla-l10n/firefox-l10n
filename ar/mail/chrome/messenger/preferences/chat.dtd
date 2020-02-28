@@ -50,7 +50,7 @@ sentence. -->
 <!ENTITY messageStylePreview.label         "المعاينة:">
 <!ENTITY messageStyleTheme.label           "السمة:">
 <!ENTITY messageStyleTheme.accesskey       "س">
-<!ENTITY messageStyleThunderbirdTheme.label "ثنْدَربِرد">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "فقاعات">
 <!ENTITY messageStyleDarkTheme.label       "داكن">
 <!ENTITY messageStylePaperSheetsTheme.label "صفحات ورقية">
