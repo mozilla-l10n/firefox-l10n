@@ -293,7 +293,7 @@ shortcuts-duplicate-warning-message = { $shortcut } se koristi kao prečica u vi
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
-shortcuts-exists = Već se koristi od strane { $addon }
+shortcuts-exists = Već se koristi za { $addon }
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Prikaži još { $numberToShow }
