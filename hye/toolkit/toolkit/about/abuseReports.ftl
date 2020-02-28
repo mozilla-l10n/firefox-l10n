@@ -70,3 +70,4 @@ abuse-report-settings-suggestions = Նախքան ընդլայնման մասին
 abuse-report-settings-suggestions-search = Փոխել Ձեր լռելեայն որոնման կարգաւորումները
 abuse-report-settings-suggestions-homepage = Փոխել Ձեր տնէջը եւ նոր ներդիրը
 abuse-report-deceptive-reason = Ձեւացրէք, թե դա ինչ որ բան չէ
+abuse-report-deceptive-reason-v2 = Այն պնդում է, որ դա ինչ-որ բան չէ
