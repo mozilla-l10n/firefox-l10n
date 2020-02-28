@@ -41,7 +41,7 @@ newtab-topsites-save-button = സംരക്ഷിയ്ക്കൂ
 newtab-topsites-preview-button = തിരനോട്ടം
 newtab-topsites-add-button = ചേർക്കൂ
 
-## Top Sites - Delete history confirmation dialog. 
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = നിങ്ങളുടെ നാള്‍വഴിയിൽ നിന്ന് ഈ പേജിന്റെ എല്ലാ ഉദാഹരണങ്ങളും ഇല്ലാതാക്കാൻ നിങ്ങൾ താൽപ്പര്യപ്പെടുന്നുവെന്ന് തീർച്ചയാണോ?
 # "This action" refers to deleting a page from history.
@@ -67,15 +67,21 @@ newtab-menu-dismiss = പുറത്താക്കുക
 newtab-menu-pin = പിൻ ചെയ്യുക
 newtab-menu-unpin = അൺപിൻ ചെയ്യുക
 newtab-menu-delete-history = നാള്‍വഴിയിൽ നിന്ന് ഒഴിവാക്കുക
-newtab-menu-save-to-pocket = പോക്കറ്റിലേയ്ക്ക് സംരക്ഷിയ്ക്കുക
-newtab-menu-delete-pocket = പോക്കറ്റിൽ നിന്ന് ഇല്ലാതാക്കുക
-newtab-menu-archive-pocket = പോക്കറ്റിലേക്ക് ആർക്കൈവ് ചെയ്യുക
+newtab-menu-save-to-pocket = { -pocket-brand-name } സംരക്ഷിയ്ക്കുക
+newtab-menu-delete-pocket = { -pocket-brand-name } നിന്ന് ഇല്ലാതാക്കുക
+newtab-menu-archive-pocket = { -pocket-brand-name } ആർക്കൈവ് ചെയ്യുക
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = അടയാളം മാറ്റുക
 # Bookmark is a verb here.
 newtab-menu-bookmark = അടയാളം
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ഡൗൺലോഡ് കണ്ണി പകർത്തുക
@@ -100,10 +106,10 @@ newtab-menu-open-file = ഫയൽ തുറക്കുക
 newtab-label-visited = സന്ദർശിച്ചത്‌
 newtab-label-bookmarked = അടയാളപ്പെടുത്തിയത്
 newtab-label-recommended = ട്രെൻഡിംഗ്
-newtab-label-saved = പോക്കറ്റിലേക്ക് സംരക്ഷിച്ചു
+newtab-label-saved = { -pocket-brand-name } സംരക്ഷിച്ചു
 newtab-label-download = ഡൗൺലോഡ് ചെയ്തവ
 
-## Section Menu: These strings are displayed in the section context menu and are 
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = വിഭാഗം നീക്കം ചെയ്യുക
@@ -116,6 +122,9 @@ newtab-section-menu-add-search-engine = തിരയൽ യന്ത്രം �
 newtab-section-menu-move-up = മുകളിലേക്ക്‌ മാറ്റുക
 newtab-section-menu-move-down = താഴേക്ക്‌ മാറ്റുക
 newtab-section-menu-privacy-notice = സ്വകാര്യതാ അറിയിപ്പ്
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -133,13 +142,15 @@ newtab-empty-section-highlights = ബ്രൗസിംഗ് ആരംഭിക
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = നിങ്ങൾ ഇവിടെ വരെ എത്തി. { $provider }ൽ നിന്നുള്ള കൂടുതൽ പ്രധാന വാർത്തകൾക്കായി പിന്നീട് വീണ്ടും പരിശോധിക്കുക. കാത്തിരിക്കാൻ പറ്റില്ലേ? വെബിൽ നിന്ന് കൂടുതൽ മികച്ച കഥകൾ കണ്ടെത്തുന്നതിന് ഒരു ജനപ്രിയ വിഷയം തിരഞ്ഞെടുക്കുക.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ജനപ്രിയ വിഷയങ്ങൾ:
 newtab-pocket-more-recommendations = കൂടുതൽ ശുപാർശകൾ
-newtab-pocket-how-it-works = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
-newtab-pocket-cta-button = പോക്കറ്റ് ലഭ്യമാക്കുക
+newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കുക
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
