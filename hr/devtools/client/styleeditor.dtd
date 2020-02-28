@@ -11,12 +11,12 @@
      on web development on the web. -->
 
 <!ENTITY newButton.label            "Novi">
-<!ENTITY newButton.tooltip          "Stvorite i dodajte nove stilove dokumentu and append a new style sheet to the document">
+<!ENTITY newButton.tooltip          "Stvori i dodaj novi stilski predložak dokumentu">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "Uvoz…">
 
-<!ENTITY importButton.tooltip       "Uvezite i dodajte postojeće stilove dokumentu">
+<!ENTITY importButton.tooltip       "Uvezi i dodaj postojeće stilske predloške dokumentu">
 <!ENTITY importButton.accesskey     "U">
 
 <!ENTITY visibilityToggle.tooltip   "Uključi/isključi vidljivost stilova">
