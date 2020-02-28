@@ -146,7 +146,7 @@ detail-rating =
 addon-restart-now =
     .label = Ponovo pokreni sada
 disabled-unsigned-heading =
-    .value = Neki dodaci su onemogućeni
+    .value = Neki dodaci su isključeni
 disabled-unsigned-description = Navedeni dodaci nisu mogli biti verificirani za korištenje u { -brand-short-name }u. Možete <label data-l10n-name="find-addons">pronaći zamjenske dodatke</label> ili kontaktirati autora dodataka da zatraži njihovu verifikaciju.
 disabled-unsigned-learn-more = Saznaj više o našim naporima da te zaštitimo na Internetu.
 disabled-unsigned-devinfo = Razvijatelji koji su zainteresirani za verifikaciju svojih dodataka mogu nastaviti čitati naš <label data-l10n-name="learn-more">vodič</label>.
@@ -169,28 +169,28 @@ extensions-view-available-updates =
 ## These are global warnings
 
 extensions-warning-safe-mode-label =
-    .value = Sve je dodatke onemogućio sigurnosni način rada.
+    .value = Sigurni način rada je isključio sve dodatke.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
-    .value = Provjera kompatibilnosti dodataka je isključena. Možda imate nekompatibilne dodatke.
+    .value = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
     .label = Omogući
     .tooltiptext = Omogući provjeru kompatibilnosti dodataka
 extensions-warning-update-security-label =
-    .value = Provjera dostupnosti sigurnosnih dopuna za dodatke je onemogućena. Dodacima možda nedostaju sigurnosne dopune.
+    .value = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
     .label = Omogući
     .tooltiptext = Omogući provjeru dostupnosti sigurnosnih dopuna za dodatke
-extensions-warning-safe-mode = Sve je dodatke onemogućio sigurnosni način rada.
-extensions-warning-check-compatibility = Provjera kompatibilnosti dodataka je isključena. Možda imate nekompatibilne dodatke.
+extensions-warning-safe-mode = Sigurni način rada je isključio sve dodatke.
+extensions-warning-check-compatibility = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
 extensions-warning-check-compatibility-button = Omogući
     .title = Omogući provjeru kompatibilnosti dodataka
-extensions-warning-update-security = Provjera dostupnosti sigurnosnih dopuna za dodatke je onemogućena. Dodacima možda nedostaju sigurnosne dopune.
+extensions-warning-update-security = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
 extensions-warning-update-security-button = Omogući
     .title = Omogući provjeru dostupnosti sigurnosnih dopuna za dodatke
 
@@ -272,7 +272,7 @@ manage-extensions-shortcuts =
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Upravljanje tipkovničkim kraticama dodatka
     .accesskey = U
-shortcuts-no-addons = Nemate omogućenih dodataka
+shortcuts-no-addons = Nemaš uključenih proširenja.
 shortcuts-no-commands = Sljedeći dodaci nemaju prečice:
 shortcuts-input =
     .placeholder = Upišite prečac
