@@ -104,7 +104,7 @@
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Programerski alati instalirani od strane dodataka">
+<!ENTITY options.selectAdditionalTools.label  "Programerski alati koje su instalirali dodaci">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
