@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "ს">
 <!ENTITY exitFullScreenCmd.label "სრულეკრანიანი რეჟიმიდან გასვლა">
 <!ENTITY exitFullScreenCmd.accesskey "ს">
+
 <!ENTITY fullScreenCmd.label "სრული ეკრანი">
 <!ENTITY fullScreenCmd.accesskey "ს">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "ანგარიშის პარამეტრები">
 <!ENTITY fxa.menu.manageAccount2.label "ანგარიშის მართვა">
 <!ENTITY fxa.menu.signOut.label "გამოსვლა…">
-<!ENTITY fxa.menu.deviceSettings.label "მოწყობილობის პარამეტრები">
 <!ENTITY fxa.menu.setupSync.label "გამართეთ &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "ჩ">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "მისამართზე გადასვლა">
 <!ENTITY printButton.label            "ამობეჭდვა">
 <!ENTITY printButton.tooltip          "გვერდის ამობეჭდვა">
@@ -263,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "მონაცემების შენახვა მუდმივ მეხსიერებაზე">
 
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ბრაუზერი იმყოფება დისტანციური მართვის ქვეშ">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ბრაუზერი იმყოფება დაშორებული მართვის ქვეშ">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ვებსაიტებზე შესვლის არე">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "დათვალიერების მოქმედებების ნებართვების არის გახსნა">
 
@@ -277,8 +278,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI დაფის გახსნა">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "ამ საიტისთვის დამატებითი უფლებები გაქვთ მინიჭებული.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტისთვის თქვენი კამერის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტისთვის თქვენი მიკროფონის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტისთვის თქვენი ეკრანის გაზიარების უფლება შეზღუდული გაქვთ.">
@@ -291,6 +290,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ამ საიტისთვის Adobe Flash მოდულის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.installBlocked.tooltip           "ამ საიტისთვის დამატების ჩადგმის უფლება შეზღუდული გაქვთ.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "ამ საიტისთვის დამატებითი უფლებები გაქვთ მინიჭებული.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
@@ -498,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "დამატებით">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "მოძებნეთ ან შეიყვანეთ მისამართი">
 <!ENTITY urlbar.accesskey             "ს">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "შ">
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
+
 <!ENTITY pageAction.copyLink.label    "ბმულის ასლი">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,9 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.accesskey        "შ">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "რ">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">

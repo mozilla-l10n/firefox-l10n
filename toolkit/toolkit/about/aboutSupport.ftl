@@ -159,7 +159,7 @@ intl-regional-prefs = რეგიონალური პარამეტრ
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = დისტანციური გამართვა (Chromium-ოქმი)
+remote-debugging-title = დაშორებული გამართვა (Chromium-ოქმი)
 remote-debugging-accepting-connections = კავშირების მიღება
 remote-debugging-url = URL-ბმული
 
