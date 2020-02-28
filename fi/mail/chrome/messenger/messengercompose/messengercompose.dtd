@@ -289,7 +289,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Liite-paneeli">
 <!ENTITY attachmentBucketCloseButton.tooltip "Piilota Liite-paneeli">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Lisää hymiö">
 <!ENTITY smiley1Cmd.label "Hymy">
 <!ENTITY smiley2Cmd.label "Suru">
