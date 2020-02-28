@@ -125,13 +125,26 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = റദ്ദാക്കുക
 confirmation-dialog-dismiss-button =
     .title = റദ്ദാക്കുക
+about-logins-confirm-remove-dialog-title = ഈ പ്രവേശനം നീക്കം ചെയ്യണോ?
+confirm-delete-dialog-message = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
+about-logins-confirm-remove-dialog-confirm-button = നീക്കം ചെയ്യുക
 confirm-discard-changes-dialog-title = സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ നിരസിക്കണോ?
 confirm-discard-changes-dialog-message = സംരക്ഷിക്കാത്ത എല്ലാ മാറ്റങ്ങളും നഷ്‌ടപ്പെടും.
+confirm-discard-changes-dialog-confirm-button = ഉപേക്ഷിക്കുക
 
 ## Breach Alert notification
 
+breach-alert-text = നിങ്ങളുടെ ലോഗിൻ വിശദാംശങ്ങൾ‌ അവസാനമായി അപ്‌ഡേറ്റുചെയ്‌തതുമുതൽ‌ ഈ വെബ്‌സൈറ്റിൽ‌ നിന്നും പാസ്‌വേഡുകൾ‌ ചോർത്തപ്പെടുകയോ മോഷ്‌ടിക്കപ്പെടുകയോ ചെയ്‌തു. നിങ്ങളുടെ അക്കൗണ്ട് പരിരക്ഷിക്കുന്നതിന് പാസ്‌വേഡ് മാറ്റുക.
+breach-alert-link = ഈ ലംഘനത്തെക്കുറിച്ച് കൂടുതലറിയുക.
+breach-alert-dismiss =
+    .title = ഈ മുന്നറിയിപ്പ് അടയ്‌ക്കുക
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = { $loginTitle } ആ ഉപയോക്തൃനാമമുള്ള ഒരു എൻ‌ട്രി ഇതിനകം നിലവിലുണ്ട്. <a data-l10n-name="duplicate-link"> നിലവിലുള്ള എൻ‌ട്രിയിലേക്ക് പോകുണോ? </a>
 # This is a generic error message.
 about-logins-error-message-default = ഈ പാസ്‌വേഡ് സംരക്ഷിക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.
