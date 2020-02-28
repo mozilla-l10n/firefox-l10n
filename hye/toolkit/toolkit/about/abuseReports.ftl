@@ -69,3 +69,4 @@ abuse-report-settings-reason-v2 = Այն փոխեց իմ որոնման միջո
 abuse-report-settings-suggestions = Նախքան ընդլայնման մասին զեկոյց ուղարկելը, կարող եք փորձել փոխել Ձեր կարգաւորումները․
 abuse-report-settings-suggestions-search = Փոխել Ձեր լռելեայն որոնման կարգաւորումները
 abuse-report-settings-suggestions-homepage = Փոխել Ձեր տնէջը եւ նոր ներդիրը
+abuse-report-deceptive-reason = Ձեւացրէք, թե դա ինչ որ բան չէ
