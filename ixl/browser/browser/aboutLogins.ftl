@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Ichukpu ixe't aq'on
 create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon ti' { $title }
 fxaccounts-sign-in-text = La lej unq'a texhlal kach'ub' tetze' tu ka'taj unq'a aq'onb'ale' uve' nab'anb'e
 fxaccounts-sign-in-button = Xe'tisa tzitza' { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -61,15 +56,13 @@ about-logins-login-list-empty-search-description = Ye'laj kam ni leje' uva' ni l
 login-list-item-title-new-login = Ixe't aq'on unpajte
 login-list-item-subtitle-new-login = A'qku' unq'a texhlale' ti' axe't aq'onvoj
 login-list-item-subtitle-missing-username = (Ye'l ib'ii u b'anb'en tetze')
-about-logins-list-item-warning-icon =
-    .alt = Nachb'al aama ta'n u icono
-    .title = Atinb'al uva' kat kuxh okeb'eli
 about-logins-list-item-breach-icon =
     .title = Atinb'al uva' kat kuxh okeb'eli
 
 ## Introduction screen
 
 login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuche' { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Ye'l tu'aal lejpo aq'al uva' la ilej tib'
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
 login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
@@ -79,7 +72,6 @@ about-logins-intro-instruction-help = La saji<a data-l10n-name="help-link">{ -lo
 
 login-item-new-login-title = Xe't'sa uma't ak' ixe't aq'on
 login-item-edit-button = B'an tuche'
-login-item-delete-button = Eesa el
 login-item-origin-label = Tatinb'al web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -89,10 +81,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Eesa ivatz
 login-item-copied-username-button-text = Eesamal ve't ivatz
 login-item-password-label = Texhlal kach'ub' tetz uva' axh kuxh ootzin tetz
-login-item-password-reveal-checkbox-show =
-    .title = La ik'uch u texhla kach'ub' tetze' uva' axh kuxh ootzin tetz
-login-item-password-reveal-checkbox-hide =
-    .title = La muj u texhlal kach'ub' tetze' uva' axh kuxh ootzin tetz
 login-item-copy-password-button-text = Eesa ivatz
 login-item-copied-password-button-text = Eesamal ve't ivatz
 login-item-save-changes-button = K'ol unq'a vee' b'anel tu ve't a'n
@@ -109,11 +97,8 @@ master-password-reload-button =
     .label = Oken
     .accesskey = O
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Ya'sakan
-confirmation-dialog-dismiss-button =
-    .title = Ya'sakan
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Nasa' la eele' kat xe'tisamal kat aq'on s-a'n kat kuxh at kat axh { -brand-product-name }? jaj unq'a vee' uve' ni chit ab'anb'e { -sync-brand-short-name } As la txaae' ab'iste unq'a vee' xe'tisamal kat aq'on s-a'n.
@@ -126,9 +111,13 @@ enable-password-sync-preferences-button =
            *[other] Ila' ab'iste chit nasa' { -sync-brand-short-name }
         }
     .accesskey = I
-confirm-delete-dialog-title = La sojsa ixe'teb'al u aq'one'?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Ya'sakan
+confirmation-dialog-dismiss-button =
+    .title = Ya'sakan
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
-confirm-delete-dialog-confirm-button = Eesa el
 confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
 confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
 confirm-discard-changes-dialog-confirm-button = Eesa kan
@@ -142,11 +131,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = At ve't uma't okeb'al ti { $loginTitle } tuk' ib'ii u etzin tetz aq'one'.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
