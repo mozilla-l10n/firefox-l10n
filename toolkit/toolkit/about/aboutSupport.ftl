@@ -310,17 +310,17 @@ multi-process-status-8 = Prisilno onemogućeno
 multi-process-status-unknown = Nepoznato stanje
 async-pan-zoom = Asinkrono pomicanje/zumiranje
 apz-none = ništa
-wheel-enabled = wheel unos omogućen
-touch-enabled = touch unos omogućen
+wheel-enabled = unos kotačićem uključen
+touch-enabled = unos dodirom uključen
 drag-enabled = povlačenje klizne trake uključeno
-keyboard-enabled = tipkovnica omogućena
-autoscroll-enabled = automatsko klizanje omogućeno
+keyboard-enabled = tipkovnica uključena
+autoscroll-enabled = automatsko klizanje uključeno
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = async wheel input je onemogućen zbog nepodržane postavke: { $preferenceKey }
-touch-warning = async touch input je onemoguće zbog nepodržane postavke: { $preferenceKey }
+wheel-warning = asinkroni unos kotačićem isključen, zbog nepodržane postavke: { $preferenceKey }
+touch-warning = asinkroni unos dodirom isključen, zbog nepodržane postavke: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 

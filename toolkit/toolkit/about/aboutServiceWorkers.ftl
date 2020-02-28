@@ -7,19 +7,13 @@
 
 about-service-workers-title = O service workerima
 about-service-workers-main-title = Registrirani service workeri
-about-service-workers-warning-not-enabled = Service workeri nisu omogućeni.
+about-service-workers-warning-not-enabled = Usluge radnih procesa nisu uključeni.
 about-service-workers-warning-no-service-workers = Nema registriranih service workera.
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Izvor: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } ID aplikacije { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
