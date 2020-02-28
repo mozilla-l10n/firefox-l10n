@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Lûd út
 pictureinpicture-unmute =
     .aria-label = Lûd oan
+pictureinpicture-unpip =
+    .aria-label = Weromstjoere nei ljepblêd
+pictureinpicture-close =
+    .aria-label = Slute

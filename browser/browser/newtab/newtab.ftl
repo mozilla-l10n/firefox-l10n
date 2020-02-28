@@ -190,6 +190,7 @@ newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksj
 newtab-pocket-read-more = Populêre ûnderwerpen:
 newtab-pocket-more-recommendations = Mear oanrekommandaasjes
 newtab-pocket-whats-pocket = Wat is { -pocket-brand-name }?
+newtab-pocket-learn-more = Mear ynfo
 newtab-pocket-cta-button = { -pocket-brand-name } brûke
 newtab-pocket-cta-text = Bewarje de ferhalen dy't jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
 
