@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Oanrekommandearre útwreiding
 cfr-doorhanger-feature-heading = Oanrekommandearre funksje
 cfr-doorhanger-pintab-heading = Probearje dit: Ljepblêd fêstsette
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Wêrom sjoch ik dit
@@ -121,6 +121,15 @@ cfr-whatsnew-lockwise-take-body =
     Mei de mobile app { -lockwise-brand-short-name } hawwe jo oeral feilich
     tagong ta jo wachtwurden.
 cfr-whatsnew-lockwise-take-link-text = App downloade
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Typ minder, fyn mear mei de adresbalke
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Besykje jo meas tbesochte websites mei ien klik yn de adresbalke. Fyn dingen flugger mei resultaten fan { $searchEngineName } en jo navigaasjeskiednis.
+cfr-whatsnew-searchbar-body-generic = Besykje jo meast besochte websites mei ien klik yn de adresbalke. Fyn dingen flugger mei sykresultaten út jo navigaasjeskiednis.
+cfr-whatsnew-searchbar-icon-alt-text = Fergrutglêspiktogram
 
 ## Picture-in-Picture
 

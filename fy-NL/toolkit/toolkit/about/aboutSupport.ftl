@@ -92,6 +92,8 @@ graphics-crash-guards-title = Utskeakele funksjes fan ûngelokbeskerming
 graphics-workarounds-title = Workarounds
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Finsterprotokol
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Desktopomjouwing
 place-database-title = Places-database
 place-database-integrity = Yntegriteit
 place-database-verify-integrity = Yntegriteit ferifearje
