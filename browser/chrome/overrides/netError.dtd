@@ -177,7 +177,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokirana stranica">
 
 <!ENTITY certerror.mitm.title "Program spriječava &brandShortName; da se sigurno poveže s ovom stranicom">
-<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je vjerojatno sigurna stranica, ali se ne može uspostaviti sigurna veza s njom. Ovaj problem je uzrokovan od strane <span class='mitm-name'/>, koji je ili program na tvom računalu ili tvojoj mreži.">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je vjerojatno sigurna stranica, ali se s njom ne može uspostaviti sigurna veza. Uzrok problemu je program <span class='mitm-name'/>, koji se nalazi na tvom računalu ili tvojoj mreži.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ukoliko tvoj antivirusni program uključuje mogućnost skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možeš isključiti ovu mogućnost. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ukoliko se nalazite u korporativnoj mreži, možete kontaktirati svoj IT odjel.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne biste trebali nastaviti na tu stranicu.">
