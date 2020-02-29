@@ -12,4 +12,4 @@
 <!ENTITY sync "Kako biste sinkronizirali podatke koje već imate spremljene u Firefoxu s ovom &brandShortName; instalacijom, prijavite se sa svojim &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Nastavi">
 
-<!ENTITY mainText "Ova &brandShortName; instalacija ima novi profil. Ne dijeli zabilješke, lozinke i korisničke postavke s drugim Firefox instalacijama (uključujući Firefox, Firefox ESR, Firefox beta izdanje, Firefox razvojno izdanje i Firefox noćno izdanje) na ovom računalu.">
+<!ENTITY mainText "Ova &brandShortName; instalacija ima novi profil. Ne dijeli zabilješke, lozinke i korisničke postavke s drugim Firefox instalacijama (uključujući Firefox, Firefox ESR, Firefox Beta, razvojno izdanje Firefoxa i Firefox Nightly) na ovom računalu.">

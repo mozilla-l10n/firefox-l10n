@@ -121,7 +121,7 @@ startup-header = Pokretanje
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Dozvoli da se { -brand-short-name } i Firefox pokreću u isto vrijeme
+    .label = Dozvoli da se { -brand-short-name } i Firefox pokrenu istovremeno
 use-firefox-sync = Savjet: Ovo koristi odvojene profile. Koristi { -sync-brand-short-name } za dijeljenje podataka između njih.
 get-started-not-logged-in = Prijavite se u { -sync-brand-short-name }…
 get-started-configured = Otvori { -sync-brand-short-name } postavke
