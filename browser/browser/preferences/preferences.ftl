@@ -390,7 +390,7 @@ performance-allow-hw-accel =
     .accesskey = х
 performance-limit-content-process-option = Процеси за обработка на съдържание
     .accesskey = с
-performance-limit-content-process-enabled-desc = Допълнителни процеси за обработка съдържание може да подобрят производителността при използване на повече раздели за сметка на повече използвана памет.
+performance-limit-content-process-enabled-desc = Допълнителни процеси за обработка на съдържание може да подобрят производителността при използване на повече раздели за сметка на повече използвана памет.
 performance-limit-content-process-blocked-desc = Променянето на броя на процесите за съдържание е възможно само при многопроцесен { -brand-short-name }. <a data-l10n-name="learn-more">Научете как да проверите дали многопроцесността е включена</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
