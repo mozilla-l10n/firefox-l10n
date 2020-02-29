@@ -92,8 +92,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "Uključi mogućnosti testiranja Service workersa putem HTTP-a (kada je alatna traka otvorena)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Uključivanje ove opcije će omogućiti korištenje opcija testiranja service workera putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.">
+<!ENTITY options.enableServiceWorkersHTTP.label     "Uključi radne procese putem HTTP-a (kad je alatna traka otvorena)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Uključivanje ove opcije, omogućit će korištenje radne procese usluge putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
