@@ -46,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = Подреждане по:
 login-list-name-option = Име (A-Z)
+login-list-name-reverse-option = Име (Z-A)
 login-list-breached-option = Взломени страници
 login-list-last-changed-option = Последна промяна
 login-list-last-used-option = Последно използване
@@ -83,10 +84,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Копиране
 login-item-copied-username-button-text = Копирано!
 login-item-password-label = Парола
-login-item-password-reveal-checkbox-show =
-    .title = Показва паролата
-login-item-password-reveal-checkbox-hide =
-    .title = Скрива паролата
 login-item-password-reveal-checkbox =
     .aria-label = Показване на паролата
 login-item-copy-password-button-text = Копиране
@@ -107,6 +104,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Искате вашите данни за вход навсякъде, където използвате { -brand-product-name }? Отворете настройките на { -sync-brand-short-name } и изберете отметката пред „данни за вход“.
+       *[other] Искате вашите данни за вход навсякъде, където използвате { -brand-product-name }? Отворете настройките на { -sync-brand-short-name } и изберете отметката пред „данни за вход“.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -139,5 +141,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Запис за { $loginTitle } с това потребителско име вече съществува. <a data-l10n-name="duplicate-link">Преглед на записа.</a>
 # This is a generic error message.
 about-logins-error-message-default = Възникна грешка при опита за запазване на тази парола.
