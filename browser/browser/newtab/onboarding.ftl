@@ -51,7 +51,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }와 함께 하세요
-onboarding-sync-welcome-content = 북마크와 방문 기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.
+onboarding-sync-welcome-content = 북마크, 기록, 비밀번호 및 다른 설정을 모든 기기에서 사용해 보세요.
 onboarding-sync-welcome-learn-more-link = Firefox 계정 더 알아보기
 onboarding-sync-form-input =
     .placeholder = 이메일
@@ -78,7 +78,7 @@ onboarding-benefit-privacy-title = 진정한 개인 정보 보호 정책
 # transparent about how we use it."
 onboarding-benefit-privacy-text = 우리가 하는 모든 활동은 개인 정보 약속을 존중합니다: 적게 가집니다. 안전하게 보관합니다. 비밀은 없습니다.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크나 방문 기록, 비밀번호 등을 사용하세요.
+onboarding-benefit-sync-text = { -brand-product-name }를 사용하는 모든 곳에서 북마크, 기록, 비밀번호 등을 사용하세요.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = 개인 정보가 알려진 데이터 유출에서 발견되면 알림을 받습니다.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }

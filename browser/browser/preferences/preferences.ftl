@@ -579,7 +579,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = 웹과 함께 하세요.
-sync-signedout-description = 북마크, 방문 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화 하세요.
+sync-signedout-description = 북마크, 기록, 탭, 비밀번호, 부가 기능, 설정을 모든 기기에 걸쳐 동기화 하세요.
 sync-signedout-account-title = { -fxaccount-brand-name }과 연결
 sync-signedout-account-create = 계정이 없으신가요? 시작하세요
     .accesskey = C
@@ -635,7 +635,7 @@ prefs-syncing-off = 동기화 : 꺼짐
 prefs-sync-setup =
     .label = { -sync-brand-short-name } 설정…
     .accesskey = S
-prefs-sync-offer-setup-label = 북마크, 방문 기록, 탭, 비밀번호, 부가 기능 및 설정을 모든 기기에 걸쳐 동기화하세요.
+prefs-sync-offer-setup-label = 북마크, 기록, 탭, 비밀번호, 부가 기능 및 설정을 모든 기기에 걸쳐 동기화하세요.
 prefs-sync-now =
     .labelnotsyncing = 지금 동기화
     .accesskeynotsyncing = N
@@ -645,7 +645,7 @@ prefs-sync-now =
 
 sync-currently-syncing-heading = 현재 다음 항목을 동기화 중입니다:
 sync-currently-syncing-bookmarks = 북마크
-sync-currently-syncing-history = 방문 기록
+sync-currently-syncing-history = 기록
 sync-currently-syncing-tabs = 열린 탭
 sync-currently-syncing-logins-passwords = 로그인과 비밀번호
 sync-currently-syncing-addresses = 주소
@@ -673,7 +673,7 @@ sync-engine-bookmarks =
     .label = 북마크
     .accesskey = m
 sync-engine-history =
-    .label = 방문 기록
+    .label = 기록
     .accesskey = r
 sync-engine-tabs =
     .label = 열린 탭

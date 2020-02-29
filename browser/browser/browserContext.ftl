@@ -6,7 +6,7 @@ navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
             [macos] 방문 기록 내려 보기
-           *[other] 오른쪽 클릭 또는 아래로 잡아당겨 방문 기록 보기
+           *[other] 오른쪽 클릭 또는 아래로 잡아당겨 기록 보기
         }
 
 ## Back
