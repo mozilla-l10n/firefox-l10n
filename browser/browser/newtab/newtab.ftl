@@ -40,14 +40,14 @@ newtab-topsites-image-validation = 이미지를 읽어오지 못했습니다. �
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = 취소
-newtab-topsites-delete-history-button = 방문 기록에서 삭제
+newtab-topsites-delete-history-button = 기록에서 삭제
 newtab-topsites-save-button = 저장
 newtab-topsites-preview-button = 미리보기
 newtab-topsites-add-button = 추가
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = 방문 기록에서 이 페이지의 모든 인스턴스를 삭제하시겠습니까?
+newtab-confirm-delete-history-p1 = 정말 기록에서 이 페이지의 모든 인스턴스를 삭제하시겠습니까?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = 이 작업은 취소할 수 없습니다.
 
@@ -76,7 +76,7 @@ newtab-menu-open-new-private-window = 새 사생활 보호 창에 열기
 newtab-menu-dismiss = 닫기
 newtab-menu-pin = 고정
 newtab-menu-unpin = 고정 해제
-newtab-menu-delete-history = 방문 기록에서 삭제
+newtab-menu-delete-history = 기록에서 삭제
 newtab-menu-save-to-pocket = { -pocket-brand-name }에 저장
 newtab-menu-delete-pocket = { -pocket-brand-name }에서 삭제
 newtab-menu-archive-pocket = { -pocket-brand-name }에 보관
@@ -110,7 +110,7 @@ newtab-menu-bookmark = 북마크
 
 newtab-menu-copy-download-link = 다운로드 링크 복사
 newtab-menu-go-to-download-page = 다운로드 페이지로 이동
-newtab-menu-remove-download = 방문 기록에서 삭제
+newtab-menu-remove-download = 기록에서 삭제
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
