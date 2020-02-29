@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = ปิดเสียง
 pictureinpicture-unmute =
     .aria-label = เลิกปิดเสียง
+pictureinpicture-unpip =
+    .aria-label = ส่งกลับไปที่แท็บ
 pictureinpicture-close =
     .aria-label = ปิด

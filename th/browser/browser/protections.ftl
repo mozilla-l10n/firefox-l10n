@@ -57,6 +57,7 @@ lockwise-header-content-logged-in = เก็บและซิงค์รห�
 protection-report-view-logins-button = ดูการเข้าสู่ระบบ
     .title = ไปยังการเข้าสู่ระบบที่บันทึกไว้
 lockwise-no-logins-content = รับแอป <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> เพื่อนำรหัสผ่านของคุณไปทุกที่
+lockwise-mobile-app-title = นำรหัสผ่านของคุณไปทุกที่
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
