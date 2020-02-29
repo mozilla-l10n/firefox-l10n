@@ -20,7 +20,7 @@ policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکی�
 policy-Bookmarks = بکمارک ٹولبار، بکمارک مینو، یا انکے اندر کسی اختصاصی فولڈر  مے بکمارک بنائیں۔
 policy-CaptivePortal = اسیر پورٹل سپورٹ کو فعال یا غیر فعال کریں۔
 policy-CertificatesDescription = سرٹیفکیٹ شامل کریں یا پہلے سے بنے سرٹیفکیٹ استعمال کریں۔
-policy-Cookies = کوکیز سیٹ کرنے کیلئے ویب سائٹس کو اجازت دیں یا انکار کریں۔
+policy-Cookies = کوکیزز سیٹ کرنے کیلئے ویب سائٹس کو اجازت دیں یا انکار کریں۔
 policy-DefaultDownloadDirectory = پہلے سے طے شدہ ڈاؤن لوڈ ڈائریکٹری مرتب کریں۔
 policy-DisableAppUpdate = براؤزر کو اپڈیٹ ہونے سے روکیں۔
 policy-DisableBuiltinPDFViewer = PDF.js کو غیر فعال کریں، جو { -brand-short-name } مے پہلے سے بنا PDF ویور ہے۔
@@ -30,7 +30,7 @@ policy-DisableFirefoxAccounts = سنک سمیت { -fxaccount-brand-name } پر �
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox کے اسکرین شاٹ خصوصیت کو غیر فعال کریں۔
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
-policy-DisableFormHistory = تلاش اور فارم کی تاریخ یاد نا رکھیں۔
+policy-DisableFormHistory = تلاش اور فارم کی سابقات یاد نا رکھیں۔
 policy-DisableMasterPasswordCreation = اگر سچ ہے تو، ایک ماسٹر پاس ورڈ بنائی نہی جا سکتی۔
 policy-DisablePasswordReveal = پاس ورڈز کو محفوظ لاگ ان میں ظاہر ہونے کی اجازت نہ دیں۔
 policy-DisablePocket = ویب صفحات کو Pocket مے محفوظ کرنے کی خصوصیات سے روکیں۔

@@ -49,7 +49,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }کو  اپنے ساتھ جائے
-onboarding-sync-welcome-content = اپنے تمام آلات پر اپنی نشانیاں ، تاریخ ، پاس ورڈ اور دیگر ترتیبات حاصل کریں۔
+onboarding-sync-welcome-content = اپنے تمام آلات پر اپنی نشانیاں ، سابقات ، پاس ورڈ اور دیگر ترتیبات حاصل کریں۔
 onboarding-sync-welcome-learn-more-link = Firefox Accounts کے بارے میں مزید سیکھیں
 onboarding-sync-form-input =
     .placeholder = ای میل
@@ -104,7 +104,7 @@ onboarding-data-sync-button2 = { -sync-brand-short-name } میں  سائن ان 
 onboarding-firefox-monitor-title = ڈیٹا کی خلاف ورزیوں پر الرٹ رہیں
 onboarding-firefox-monitor-button = الرٹس کے لئے سائن اپ کریں
 onboarding-browse-privately-title = رازداری سے براؤز کریں
-onboarding-browse-privately-text = نجی براؤزنگ آپ کے کمپیوٹر کو استعمال کرنے والے ہر شخص سے خفیہ رکھنے کے لیے آپ کی تلاش اور براؤزنگ کی تاریخ کو صاف کردیتی ہے۔
+onboarding-browse-privately-text = نجی براؤزنگ آپ کے کمپیوٹر کو استعمال کرنے والے ہر شخص سے خفیہ رکھنے کے لیے آپ کی تلاش اور براؤزنگ کی سابقات کو صاف کردیتی ہے۔
 onboarding-browse-privately-button = نجی ونڈو میں کھولیں؟
 onboarding-firefox-send-title = اپنی مشترکہ امسال نجی رکھیں
 onboarding-firefox-send-button = { -send-brand-name }آزمائیں

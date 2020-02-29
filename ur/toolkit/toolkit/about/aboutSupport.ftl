@@ -30,7 +30,7 @@ app-basics-version = ورژن
 app-basics-build-id = بلڈ-آی ڈی
 app-basics-update-channel = چینل کی تازہ کاری کریں
 app-basics-update-history = سابقات تازہ کریں
-app-basics-show-update-history = تبدیلیوں کی تاریخ دکھائیں
+app-basics-show-update-history = تبدیلیوں کی سابقات دکھائیں
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] پروفائل ڈائریکٹری

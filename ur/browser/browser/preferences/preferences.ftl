@@ -305,7 +305,7 @@ play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
 update-history =
-    .label = تازہ ترین تاریخ دکھائیں
+    .label = تازہ ترین سابقات دکھائیں
     .accesskey = p
 update-application-allow-description = { -brand-short-name } کو اجازت دیں
 update-application-auto =
@@ -482,7 +482,7 @@ search-show-suggestions-url-bar-option =
     .accesskey = I
 search-show-suggestions-private-windows =
     .label = نجی ونڈوز میں تلاش کی تجاویز دکھائیں
-search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
+search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } سابقات کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
 search-one-click-header = ایک کلک تلاش انجن
 search-choose-engine-column =
     .label = تلاش انجن
@@ -528,7 +528,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = اپنی ویب اپنے ساتھ رکھیں
-sync-signedout-description = اپنے تمام ڈیوائس اپنے بک مارکس، تاریخ، ٹیب، پاس ورڈ، ایڈ اون، اور ترجیحات کو ہم وقت ساز کریں۔
+sync-signedout-description = اپنے تمام ڈیوائس اپنے بک مارکس، سابقات، ٹیب، پاس ورڈ، ایڈ اون، اور ترجیحات کو ہم وقت ساز کریں۔
 sync-signedout-account-title = کسی { -fxaccount-brand-name } کے ساتھ جڑیں
 sync-signedout-account-create = اکائونٹ نہیں ہے؟ شروع کریں
     .accesskey = c
@@ -720,14 +720,14 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = کوکیس اور سائٹ کے کواِئف
+sitedata-header = کوکیزس اور سائٹ کے کواِئف
 sitedata-total-size-calculating = سائٹ کے ڈیٹا اور کیشے کے ماپ کا حساب لگا رہے ہیں…
 sitedata-learn-more = مزید سیکھیں
 sitedata-allow-cookies-option =
-    .label = کوکیز اور سائٹ کا ڈیٹا قبول کریں
+    .label = کوکیزز اور سائٹ کا ڈیٹا قبول کریں
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = کوکیز اور سائٹ کا ڈیٹا روکیں
+    .label = کوکیزز اور سائٹ کا ڈیٹا روکیں
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -740,7 +740,7 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = کراس سائٹ اور سماجی میڈیا ٹریکرز
 sitedata-option-block-all =
-    .label = تمام کوکیز (ویب سائٹس کے ٹوٹنے کا سبب بنے گی)
+    .label = تمام کوکیزز (ویب سائٹس کے ٹوٹنے کا سبب بنے گی)
 sitedata-clear =
     .label = کوائف… خالی کریں
     .accesskey = l
@@ -798,8 +798,8 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
 content-blocking-social-media-trackers = سماجی میڈیا ٹریکرز
-content-blocking-all-cookies = تمام کوکیس
-content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
+content-blocking-all-cookies = تمام کوکیزس
+content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیزز
 content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
 content-blocking-warning-title = دھیان دیں!
@@ -820,7 +820,7 @@ content-blocking-option-private =
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = بلاک فہرست تبدیل کریں
 content-blocking-cookies-label =
-    .label = کوکیز
+    .label = کوکیزز
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = مزید معلومات

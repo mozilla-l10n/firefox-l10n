@@ -880,7 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "مزید معلومات">
 
-<!ENTITY identity.clearSiteData "کوکیس اور سائٹ کے کواِئف… صاف کریں">
+<!ENTITY identity.clearSiteData "کوکیزس اور سائٹ کے کواِئف… صاف کریں">
 
 <!ENTITY identity.permissions "اجازتیں">
 
@@ -962,8 +962,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackersView.label "ٹریکرس">
 
-<!ENTITY contentBlocking.cookies.label "کوکیس">
-<!ENTITY contentBlocking.cookiesView.label "کوکیز اور سائٹ کے کواِئف">
+<!ENTITY contentBlocking.cookies.label "کوکیزس">
+<!ENTITY contentBlocking.cookiesView.label "کوکیزز اور سائٹ کے کواِئف">
 
 
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
@@ -1053,7 +1053,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "شیئر کریں">
 <!ENTITY pageAction.shareMore.label "مزید…">
 
-<!ENTITY libraryButton.tooltip "تاریخیں، محفوظ شدہ بک مارک، اور بھی مزید دکھائے">
+<!ENTITY libraryButton.tooltip "سابقاتیں، محفوظ شدہ بک مارک، اور بھی مزید دکھائے">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

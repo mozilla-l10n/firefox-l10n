@@ -49,7 +49,7 @@ item-history-and-downloads =
     .label = براؤزنگ اور ڈاؤن لوڈ سابقات
     .accesskey = ب
 item-cookies =
-    .label = کوکیس
+    .label = کوکیزس
     .accesskey = ک
 item-active-logins =
     .label = متحرک لاگ ان
@@ -79,7 +79,7 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = تمام تاریخ خالی کر دی جائے گی
+sanitize-everything-warning = تمام سابقات خالی کر دی جائے گی
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

@@ -39,7 +39,7 @@ newtab-topsites-image-validation = نقش لوڈ ہونے میں ناکام رہ
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = منسوخ کریں
-newtab-topsites-delete-history-button = تاریخ سے حذف کریں
+newtab-topsites-delete-history-button = سابقات سے حذف کریں
 newtab-topsites-save-button = محفوظ کریں
 newtab-topsites-preview-button = پیش منظر
 newtab-topsites-add-button = اظافہ کریں
@@ -69,7 +69,7 @@ newtab-menu-open-new-private-window = نئی نجی دریچے میں کھولی
 newtab-menu-dismiss = برخاست کریں
 newtab-menu-pin = پن
 newtab-menu-unpin = ان پن
-newtab-menu-delete-history = تاریخ سے حذف کریں
+newtab-menu-delete-history = سابقات سے حذف کریں
 newtab-menu-save-to-pocket = { -pocket-brand-name } میں محفوظ کریں
 newtab-menu-delete-pocket = { -pocket-brand-name } سے جزف کریں
 newtab-menu-archive-pocket = { -pocket-brand-name } مے محفوظ
