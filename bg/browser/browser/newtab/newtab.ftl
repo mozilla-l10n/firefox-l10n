@@ -80,11 +80,17 @@ newtab-menu-delete-history = Премахване
 newtab-menu-save-to-pocket = Запазване в { -pocket-brand-name }
 newtab-menu-delete-pocket = Изтриване от { -pocket-brand-name }
 newtab-menu-archive-pocket = Архивиране в { -pocket-brand-name }
+newtab-menu-show-privacy-info = Спонсори и поверителност
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Готово
-newtab-privacy-modal-header = Вашата поверителност има значение.
+newtab-privacy-modal-header = Вашата поверителност е от значение.
+newtab-privacy-modal-paragraph =
+    Като допълнение на това, че намираме завладяващи истории, ние ви показваме и подходящо,
+    проверено съдържание от избрани спонсори. Бъдете спокойни, данните ви от разглежданиятаникога не оставят вашето лично копие на { -brand-product-name } - ние не го виждаме и нашето
+    спонсорите също не са.
+newtab-privacy-modal-link = Научете как работи поверителността на новия раздел
 
 ##
 
@@ -177,6 +183,8 @@ newtab-discovery-empty-section-topstories-timed-out = Ами сега! Почт�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярни теми:
 newtab-pocket-more-recommendations = Повече препоръчани
+newtab-pocket-whats-pocket = Какво е { -pocket-brand-name }?
+newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
 
