@@ -89,6 +89,11 @@ detail-update-automatic =
 detail-update-manual =
     .label = Desactivadas
     .tooltiptext = Installa pas automaticament las mesas a jorn
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Executar en fenèstras privadas
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Pas autorizat en fenèstras privadas
 detail-home =
     .label = Pagina d'acuèlh
 detail-home-value =

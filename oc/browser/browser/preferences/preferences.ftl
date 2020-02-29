@@ -508,6 +508,7 @@ search-bar-shown =
 search-engine-default-header = Motor de cerca per defaut
 search-engine-default-desc = Causir lo motor de recèrca per defaut per d'utilizar dins las barras d'adreça e de recèrca.
 search-engine-default-desc-2 = Aqueste es lo motor de recèrca per defaut de la barra d’adreça e de a barra de recèrca. Podètz lo cambiar quand volgatz.
+search-engine-default-private-desc-2 = Causissètz un motor de recèrca diferent solament per las fenèstras privadas
 search-separate-default-engine =
     .label = Utilizar aqueste motor de recèrca en navegacion privada
     .accesskey = U
