@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "로그인과 비밀번호">
 
-<!ENTITY clearRecentHistory.label               "사용 기록 삭제">
+<!ENTITY clearRecentHistory.label               "최근 기록 삭제…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -1049,7 +1049,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "닫기">
 
-<!ENTITY panicButton.thankyou.msg1                "최근 방문 기록이 삭제되었습니다.">
+<!ENTITY panicButton.thankyou.msg1                "최근 기록이 삭제되었습니다.">
 <!ENTITY panicButton.thankyou.msg2                "안전한 브라우징!">
 <!ENTITY panicButton.thankyou.buttonlabel         "감사합니다!">
 
