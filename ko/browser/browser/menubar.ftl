@@ -88,7 +88,7 @@ menu-view-sidebar =
 menu-view-bookmarks =
     .label = 북마크
 menu-view-history-button =
-    .label = 방문 기록
+    .label = 기록
 menu-view-synced-tabs-sidebar =
     .label = 동기화한 탭
 menu-view-full-zoom =
@@ -144,7 +144,7 @@ menu-view-bidi-switch-page-direction =
 ## History Menu
 
 menu-history =
-    .label = 방문 기록
+    .label = 기록
     .accesskey = s
 menu-history-show-all-history =
     .label = 모든 기록 보기

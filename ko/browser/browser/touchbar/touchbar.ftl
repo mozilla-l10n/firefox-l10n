@@ -29,7 +29,7 @@ search-search-in = 검색 범위:
 ## Various categories of shortcuts for search.
 
 search-bookmarks = 북마크
-search-history = 방문 기록
+search-history = 기록
 search-opentabs = 열린 탭
 search-tags = 태그
 search-titles = 제목
