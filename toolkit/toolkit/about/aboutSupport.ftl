@@ -89,6 +89,8 @@ graphics-crash-guards-title = คุณสมบัติที่ถูกป�
 graphics-workarounds-title = วิธีการแก้ไข
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = โปรโตคอลหน้าต่าง
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = สภาพแวดล้อมเดสก์ท็อป
 place-database-title = ฐานข้อมูลสถานที่
 place-database-integrity = ความสมบูรณ์
 place-database-verify-integrity = ยืนยันความสมบูรณ์
