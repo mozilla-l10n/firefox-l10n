@@ -76,6 +76,13 @@ lockwise-passwords-stored =
 turn-on-sync = Включване на { -sync-brand-short-name }…
     .title = Отваря настройките на синхронизиране
 manage-connected-devices = Управление на устройства…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Свързано { $count } устройство
+       *[other] Свързани { $count } устройства
+    }
 monitor-title = Внимавайте за кражба на данни
 monitor-link = Как работи
 monitor-sign-up = Регистрирайте се за сигнали при пробив
