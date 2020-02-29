@@ -119,6 +119,7 @@ cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-icon-alt-text = ไอคอนรูปแว่นขยาย
 
 ## Picture-in-Picture
 
