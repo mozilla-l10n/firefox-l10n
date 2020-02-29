@@ -139,6 +139,22 @@ intl-locales-default = Локал по подразбиране
 intl-os-title = Настройки на операционната система
 intl-os-prefs-system-locales = Системен локал
 intl-regional-prefs = Местни настройки
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Отдалечено отстраняване на грешки (Chromium Protocol)
+remote-debugging-accepting-connections = Приемане на връзки
+remote-debugging-url = Адрес
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -194,6 +210,7 @@ hardware-h264 = Хардуерно декодиране на H264
 main-thread-no-omtc = главна нишка, без OMTC
 yes = Да
 no = Не
+virtual-monitor-disp = Виртуален монитор
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

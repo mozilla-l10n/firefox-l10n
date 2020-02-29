@@ -19,3 +19,4 @@
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-settings-suggestions = Преди да подадете сигнал за разширението опитайте да промените настройките му:
+abuse-report-broken-example = Пример: Функциите са бавни, трудни за използване или не работят; части от уебсайтове не се зареждат или изглеждат необичайно

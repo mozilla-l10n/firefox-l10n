@@ -51,17 +51,16 @@ lockwise-title = Никога не забравяйте отново парол�
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Преглед на регистрациите
     .title = Отваря запазените регистрации
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Паролата е съхранена сигурно <a data-l10n-name="lockwise-how-it-works">Как работи</a>
+       *[other] Паролите се съхраняват сигурно <a data-l10n-name="lockwise-how-it-works">Как работи</a>
+    }
 turn-on-sync = Включване на { -sync-brand-short-name }…
     .title = Отваря настройките на синхронизиране
-manage-devices = Управление на устройства
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Синхронизиране с { $count } друго устройство
-       *[other] Синхронизиране с { $count } други устройства
-    }
-lockwise-sync-not-syncing-devices = Не се синхронизира с други устройства
 monitor-title = Внимавайте за кражба на данни
 monitor-link = Как работи
 monitor-sign-up = Регистрирайте се за сигнали при пробив
