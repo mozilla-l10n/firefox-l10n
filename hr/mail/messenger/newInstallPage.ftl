@@ -5,6 +5,7 @@
 title = Važne vijesti
 heading = Promjene u tvom { -brand-short-name } profilu
 changed-title = Što se promijenilo?
+lost = <b>Osobni podaci ili prilagodbe nisu izgubljeni.</b> Ako su neke informacije već spremljene u { -brand-product-name }u na ovom računalu, još uvijek su dostupne u drugoj { -brand-product-name } instalaciji.
 options-title = Koje su moje mogućnosti?
 resources = Resursi
 support-link = Korištenje upravljača profila – članak podrške
