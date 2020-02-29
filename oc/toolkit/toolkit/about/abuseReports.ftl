@@ -9,12 +9,16 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapòrt per { $addon-name }
+abuse-report-title-theme = Senhalar aqueste tèma a { -vendor-short-name }
+abuse-report-subtitle = Qual es lo problèma ?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = per <a data-l10n-name="author-name">{ $author-name }</a>
 
 ## Panel buttons.
 
+abuse-report-cancel-button = Anullar
+abuse-report-next-button = Seguent
 
 ## Message bars descriptions.
 
@@ -22,11 +26,17 @@ abuse-report-addon-authored-by = per <a data-l10n-name="author-name">{ $author-n
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = Senhalament de <span data-l10n-name="addon-name">{ $addon-name }</span> anullat.
 
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = Òc, la suprimir
 abuse-report-messagebar-action-remove-theme = Òc, la suprimir
+abuse-report-messagebar-action-cancel = Anullar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-spam-example = Exemple : inserís publicitats sus las paginas web
+abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
+abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
+abuse-report-other-reason = Quicòm mai
