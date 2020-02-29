@@ -891,6 +891,7 @@ permissions-location = स्थान
 permissions-location-settings =
     .label = सेटिंग…
     .accesskey = t
+permissions-xr = Virtual Reality
 permissions-xr-settings =
     .label = सेटिंग…
     .accesskey = t
