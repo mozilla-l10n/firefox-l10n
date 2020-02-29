@@ -20,6 +20,8 @@ open-location = Търсене или въвеждане на адрес
 share = Споделяне
 close-window = Затваряне на прозореца
 open-sidebar = Странични ленти
+# This string describes shortcuts for search.
+search-popover = Преки  пътища за търсене
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Търсене в:
