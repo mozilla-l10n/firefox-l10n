@@ -58,8 +58,13 @@ mobile-app-links = { -brand-product-name } четец за <a data-l10n-name="an
 lockwise-title = Никога не забравяйте отново парола
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } сигурно съхранява вашите пароли в четеца.
+lockwise-header-content-logged-in = Сигурно съхранявайте и синхронизирайте паролите си между всичките си устройства.
 protection-report-view-logins-button = Преглед на регистрациите
     .title = Отваря запазените регистрации
+lockwise-no-logins-content = Вземете приложението <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, за да имате паролите си навсякъде.
+lockwise-mobile-app-title = Вземете паролите си навсякъде
+lockwise-no-logins-card-content = Използвайте паролите, запазени в { -brand-short-name } от всяко устройство.
+lockwise-app-links = { -lockwise-brand-name } за <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -70,6 +75,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Включване на { -sync-brand-short-name }…
     .title = Отваря настройките на синхронизиране
+manage-connected-devices = Управление на устройства…
 monitor-title = Внимавайте за кражба на данни
 monitor-link = Как работи
 monitor-sign-up = Регистрирайте се за сигнали при пробив
