@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> nedaro
 inactive-css-not-display-block-on-floated = Varikliukas pakeitė <strong>display</strong> reikšmę į <strong>block</strong>, nes elementas yra su <strong>float<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Neįmanoma pakeisti <strong>{ $property }</strong> dėl <strong>:visited</strong> apribojimo.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jis nėra pozicionuotas elementas.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi nėra nustatyta <strong>overflow:hidden</strong> savybė.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Pabandykite pri
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pabandykite pridėti <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Pabandykite nuimti <strong>float</strong> arba pridėti <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Pabandykite nustatyti jo <strong>position</strong> savybės reikšmę į kitą negu <strong>static</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Pabandykite pridėti <strong>overflow:hidden</strong>. { learn-more }

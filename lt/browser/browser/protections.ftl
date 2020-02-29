@@ -54,6 +54,9 @@ fingerprinter-tab-title = Skaitmeninių atspaudų stebėjimas
 fingerprinter-tab-content = Skaitmeninių atspaudų stebėjimo metu surenkama informacija apie jūsų naršyklės ir kompiuterio parametrus, kad būtų sudarytas jūsų profilis. Jį turint, jus galima sekti tarp skirtingų svetainių. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
 cryptominer-tab-title = Kriptovaliutų kasėjai
 cryptominer-tab-content = Kriptovaliutų kasėjai naudoja jūsų kompiuterio resursus, kad iškastų skaitmeninių pinigų. Šis procesas eikvoja jūsų bateriją, lėtina kompiuterio veikimą, ir gali padidinti sąskaitą už elektrą. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+mobile-app-title = Blokuokite reklaminius elementus ir kituose įrenginiuose
+mobile-app-card-content = Naudokite mobiliąją naršyklę su integruota apsauga nuo reklaminių stebėjimo elementų.
+mobile-app-links = „{ -brand-product-name }“ naršyklė, skirta <a data-l10n-name="android-mobile-inline-link">„Android“</a> ir <a data-l10n-name="ios-mobile-inline-link">„iOS“</a>
 lockwise-title = Daugiau nepamirškite nė vieno slaptažodžio
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slaptažodžius į jūsų naršyklę.
@@ -61,6 +64,9 @@ lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slapta
 protection-report-view-logins-button = Peržiūrėti prisijungimus
     .title = Eiti į įrašytus prisijungimus
 lockwise-no-logins-content = Naudokite programą <a data-l10n-name="lockwise-inline-link">„{ -lockwise-brand-name }“</a>, norėdami savo slaptažodžius turėti visur.
+lockwise-mobile-app-title = Turėkite savo slaptažodžius visur
+lockwise-no-logins-card-content = Slaptažodžius, esančius „{ -brand-short-name }“, galite naudoti bet kuriame įrenginyje.
+lockwise-app-links = „{ -lockwise-brand-name }“, skirta „<a data-l10n-name="lockwise-android-inline-link">„Android“</a> ir <a data-l10n-name="lockwise-ios-inline-link">„iOS“</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
