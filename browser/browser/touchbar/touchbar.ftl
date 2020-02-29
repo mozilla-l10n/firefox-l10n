@@ -9,6 +9,7 @@ forward = পরবর্তী
 reload = রিলোড
 home = নীড়
 fullscreen = পূর্ণ পর্দাজুড়ে
+touchbar-fullscreen-exit = পূর্ণ পর্দা থেকে বেরিয়ে আসুন
 find = খুঁজুন
 new-tab = নতুন ট্যাব
 add-bookmark = বুকমার্ক যোগ করুন
@@ -33,5 +34,5 @@ search-opentabs = খোলা ট্যাবগুলি
 search-tags = ট্যাগসমূহ
 search-titles = শিরোনাম
 
-
+##
 

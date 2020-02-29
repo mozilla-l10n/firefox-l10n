@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = লগইন অনুসন্ধান
 create-login-button = নতুন লগইন তৈরি করুন
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } এর জন্য ফ্যাভিকন
 fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
 fxaccounts-sign-in-button = { -sync-brand-short-name } এ সাইন ইন করুন
 fxaccounts-avatar-button =
@@ -51,6 +46,7 @@ login-list-count =
     }
 login-list-sort-label-text = ক্রমানুসার:
 login-list-name-option = নাম (A-Z)
+login-list-name-reverse-option = নাম (A-Z)
 login-list-breached-option = ভাঙা ওয়েবসাইট
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
@@ -61,9 +57,6 @@ about-logins-login-list-empty-search-description = আপনার অনুস�
 login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-new-login = আপনার লগইন পরিচয়পত্র লিখুন
 login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
-about-logins-list-item-warning-icon =
-    .alt = সতর্কতা আইকন
-    .title = ভাঙা ওয়েবসাইট
 about-logins-list-item-breach-icon =
     .title = ভাঙা ওয়েবসাইট
 
@@ -81,7 +74,6 @@ about-logins-intro-import = আপনার লগিন সমূহ যদি 
 
 login-item-new-login-title = নতুন লগইন তৈরি করুন
 login-item-edit-button = সম্পাদনা
-login-item-delete-button = মুছে ফেলুন
 about-logins-login-item-remove-button = অপসারণ
 login-item-origin-label = ওয়েবসাইটের ঠিকানা
 login-item-origin =
@@ -92,10 +84,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = অনুলিপি
 login-item-copied-username-button-text = অনুলিপি করা হয়েছে!
 login-item-password-label = পাসওয়ার্ড
-login-item-password-reveal-checkbox-show =
-    .title = পাসওয়ার্ড প্রদর্শন
-login-item-password-reveal-checkbox-hide =
-    .title = পাসওয়ার্ড আড়াল
 login-item-copy-password-button-text = অনুলিপি
 login-item-copied-password-button-text = অনুলিপি করা হয়েছে!
 login-item-save-changes-button = পরিবর্তন সংরক্ষণ
@@ -126,7 +114,6 @@ enable-password-sync-preferences-button =
            *[other] পছন্দসমূহের জন্য { -sync-brand-short-name } দেখুন
         }
     .accesskey = v
-confirm-delete-dialog-title = লগইন মুছে দেওয়া হবে?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = আমাকে আবার জিজ্ঞেস করবেন না
     .accesskey = D
@@ -138,7 +125,6 @@ confirmation-dialog-dismiss-button =
     .title = বাতিল
 about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
-confirm-delete-dialog-confirm-button = মুছে ফেলুন
 about-logins-confirm-remove-dialog-confirm-button = অপসারণ
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
 confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
@@ -153,11 +139,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = { $loginTitle } নামের ইউজার পূর্বের থেকেই আছে।
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
