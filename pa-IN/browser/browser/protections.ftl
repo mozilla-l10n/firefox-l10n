@@ -54,6 +54,7 @@ cryptominer-tab-title = ਕ੍ਰਿਪਟੋਮਾਈਨਰ
 cryptominer-tab-content = ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਡਿਜ਼ਿਟਲ ਧਨ ਦੀ ਟਕਸਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਊਰਜਾ ਨੂੰ ਗੁਪਤ ਰੂਪ ਵਿੱਚ ਵਰਤਦੇ ਹਨ। ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਸਕ੍ਰਿਪਟ ਤੁਹਾਡੀ ਬੈਟਰੀ ਖਪਾਉਂਦੀਆਂ ਹਨ, ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹੌਲੀ ਕਰਦੀਆਂ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਬਿਜਲੀ ਦੇ ਬਿੱਲ ‘ਚ ਵੀ ਵਾਧਾ ਕਰ ਸਕਦੀਆਂ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
 mobile-app-title = ਹੋਰ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 mobile-app-card-content = ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ਦੇ ਵਿਰੁਧ ਸੁਰੱਖਿਆ ਦੇ ਸਮੇਤ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਵਰਤੋਂ।
+mobile-app-links = <a data-l10n-name="android-mobile-inline-link">ਐਂਡਰਾਈਡ</a> ਅਤੇ <a data-l10n-name="ios-mobile-inline-link">iOS</a> ਲਈ { -brand-product-name } ਬਰਾਊਜ਼ਰ
 lockwise-title = ਮੁੜ ਕੇ ਪਾਸਵਰਡ ਕਦੇ ਵੀ ਨਾ ਭੁੱਲੋ
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ‘ਚ ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲਦਾ ਹੈ।
@@ -61,6 +62,9 @@ lockwise-header-content-logged-in = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸ
 protection-report-view-logins-button = ਲਾਗਇਨ ਵੇਖੋ
     .title = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਉੱਤੇ ਜਾਓ
 lockwise-no-logins-content = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਰ ਲਾਂ ਲੈ ਕੇ ਜਾਣ ਲਈ <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ਐਪ ਲਵੋ।
+lockwise-mobile-app-title = ਆਪਣੇ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਲੈ ਜਾਓ
+lockwise-no-logins-card-content = { -brand-short-name } ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਵਰਤੋਂ।
+lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">ਐਂਡਰਾਈਂਡ</a> ਅਤੇ <a data-l10n-name="lockwise-ios-inline-link">iOS</a> ਲਈ { -lockwise-brand-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
