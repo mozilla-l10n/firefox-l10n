@@ -50,6 +50,9 @@ fingerprinter-tab-title = 數位指紋追蹤程式
 fingerprinter-tab-content = 數位指紋追蹤程式會針對您的瀏覽器、電腦設定來建立您的獨特輪廓，並在不同網站間追蹤您。<a data-l10n-name="learn-more-link">了解更多</a>
 cryptominer-tab-title = 加密貨幣採礦程式
 cryptominer-tab-content = 加密貨幣採礦程式會使用您電腦的運算能力來對數位貨幣「採礦」，消耗您的電腦電力、拖慢系統效能、增加電費支出。<a data-l10n-name="learn-more-link">了解更多</a>
+mobile-app-title = 在更多裝置上也能封鎖廣告追蹤器
+mobile-app-card-content = 使用內建廣告追蹤保護的行動瀏覽器
+mobile-app-links = { -brand-product-name } 瀏覽器 <a data-l10n-name="android-mobile-inline-link">Android</a> 版與 <a data-l10n-name="ios-mobile-inline-link">iOS</a> 版
 lockwise-title = 不再忘記密碼
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 會安全地在您的瀏覽器中儲存密碼。

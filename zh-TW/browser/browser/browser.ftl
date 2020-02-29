@@ -125,6 +125,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = 打得更少，找到更多: 直接從網址列進行 { $engineName } 搜尋。
 urlbar-search-tips-redirect = 從此處進行搜尋，就可看見由 { $engineName } 及瀏覽紀錄提供的搜尋建議。
+urlbar-search-tips-redirect-2 = 在網址列進行搜尋，就可看見由 { $engineName } 及瀏覽紀錄提供的搜尋建議。
 
 ##
 
