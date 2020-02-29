@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "가져오기 마법사">
 
-<!ENTITY importFrom.label               "다음으로부터 설정, 북마크, 방문 기록, 비밀번호 및 기타 데이터를 가져옴:">
-<!ENTITY importFromUnix.label           "다음으로부터 설정, 북마크, 방문 기록, 비밀번호 및 기타 데이터를 가져옴:">
+<!ENTITY importFrom.label               "다음으로부터 설정, 북마크, 기록, 비밀번호 및 기타 데이터를 가져옴:">
+<!ENTITY importFromUnix.label           "다음으로부터 설정, 북마크, 기록, 비밀번호 및 기타 데이터를 가져옴:">
 <!ENTITY importFromBookmarks.label      "다음으로부터 북마크를 가지고 옵니다:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -36,7 +36,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "북마크, 방문 기록 또는 비밀번호 데이터를 포함하고 있는 프로그램을 찾을 수 없습니다.">
+<!ENTITY noMigrationSources.label       "북마크, 기록 또는 비밀번호 데이터를 포함하고 있는 프로그램을 찾을 수 없습니다.">
 
 <!ENTITY importSource.title             "설정과 데이터 가져오기">
 <!ENTITY importItems.title              "가져올 항목">

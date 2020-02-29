@@ -424,8 +424,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "모든 기록 보기">
 <!ENTITY appMenuHistory.clearRecent.label "최근 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
-<!ENTITY appMenuHistory.viewSidebar.label "방문 기록 탐색창 보기">
-<!ENTITY appMenuHistory.hideSidebar.label "방문 기록 탐색창 숨기기">
+<!ENTITY appMenuHistory.viewSidebar.label "기록 탐색창 보기">
+<!ENTITY appMenuHistory.hideSidebar.label "기록 탐색창 숨기기">
 <!ENTITY appMenuHistory.recentHistory.label "최근 기록">
 <!ENTITY appMenuHelp.label "도움말">
 
@@ -1091,7 +1091,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "공유">
 <!ENTITY pageAction.shareMore.label "더보기…">
 
-<!ENTITY libraryButton.tooltip "방문 기록, 저장된 북마크 등 보기">
+<!ENTITY libraryButton.tooltip "기록, 저장된 북마크 등 보기">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
