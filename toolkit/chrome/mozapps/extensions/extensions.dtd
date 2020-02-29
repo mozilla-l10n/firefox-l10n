@@ -1,101 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Gestionari de moduls complementaris">
-
-<!ENTITY search.placeholder2                  "Cercar dins addons.mozilla.org">
-
-<!ENTITY search.placeholder3                  "Cercar dins addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "Recercar">
-<!-- LOCALIZATION NOTE (search.commandkey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Cargament…">
-<!ENTITY listEmpty.installed.label            "Avètz pas cap de modul d'aqueste tipe d'installat">
-<!ENTITY listEmpty.availableUpdates.label     "Cap de mesa a jorn pas trobada">
-<!ENTITY listEmpty.recentUpdates.label        "Avètz pas mes a jorn vòstres moduls complementaris dempuèi un certan temps">
-<!ENTITY listEmpty.findUpdates.label          "Recèrca las mesas a jorn">
-<!ENTITY listEmpty.button.label               "N'aprene mai suls moduls complementaris">
-<!ENTITY installAddonFromFile.label           "Installar un modul dins d’un fichièr…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Aisinas per totes los moduls">
-
-<!ENTITY getThemes.description                "Volètz personalizar vòstre navegador ?">
-<!ENTITY getThemes.learnMore                  "Fasètz vòstra causida demest de milierats de tèmas.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "Unas extensions an pas pogut èsser verificadas">
-<!ENTITY showAllExtensions.button.label       "Afichar totas las transicions">
-<!ENTITY debugAddons.label                    "Desbugar los moduls">
-<!ENTITY debugAddons.accesskey                "B">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.">
-<!ENTITY warning.checkcompatibility.label          "La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unes moduls sián incompatibles.">
-<!ENTITY warning.checkcompatibility.enable.label   "Activar">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Activar la verificacion de compatibilitat">
-<!ENTITY warning.updatesecurity.label              "La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unas mesas a jorn sián problematicas.">
-<!ENTITY warning.updatesecurity.enable.label       "Activar">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Activar la verificacion de mesas a jorn de seguretat pels moduls complementaris">
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "Obténer de moduls complementaris">
-<!ENTITY view.recentUpdates.label             "Mes a jorn">
-<!ENTITY view.availableUpdates.label          "De metre a jorn">
-
-<!ENTITY helpButton.label                      "Assisténcia dels moduls">
-<!ENTITY preferencesWin.label                  "Opcions &brandShortName;">
-<!ENTITY preferencesUnix.label                 "Preferéncias &brandShortName;">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Recercar de mesas a jorn">
-<!ENTITY updates.checkForUpdates.accesskey    "R">
-<!ENTITY updates.viewUpdates.label            "Afichar las mesas a jorn recentas">
-<!ENTITY updates.viewUpdates.accesskey        "A">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Metre a jorn los moduls automaticament">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "M">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Activar la mesa a jorn automatica per totes los moduls">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "c">
-<!ENTITY updates.resetUpdatesToManual.label          "Desactivar la mesa a jorn automatica per totes los moduls">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "D">
-<!ENTITY updates.updating.label               "Mesa a jorn dels moduls">
-<!ENTITY updates.installed.label              "Vòstres moduls son estats meses a jorn.">
-<!ENTITY updates.downloaded.label             "Las mesas a jorn de vòstres moduls son estats telecargadas.">
-<!ENTITY updates.restart.label                "Reaviatz per acabar l'installacion.">
-<!ENTITY updates.noneFound.label              "Cap de mesa a jorn pas trobada">
-<!ENTITY updates.manualUpdatesFound.label     "Afichar las mesas a jorn disponiblas">
-<!ENTITY updates.updateSelected.label         "Installar las mesas a jorn">
-<!ENTITY updates.updateSelected.tooltip       "Installar las mesas a jorn disponiblas dins aquesta lista">
-
-<!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Afichar mai d'entresenhas">
-<!ENTITY cmd.showDetails.accesskey            "f">
-<!ENTITY cmd.findUpdates.label                "Recercar de mesas a jorn">
-<!ENTITY cmd.findUpdates.accesskey            "R">
-<!ENTITY cmd.preferencesWin.label             "Opcions">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "Preferéncias">
-<!ENTITY cmd.preferencesUnix.accesskey        "r">
 
 <!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Desactivar">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Aplicar lo tèma">
-<!ENTITY cmd.enableTheme.accesskey            "A">
-<!ENTITY cmd.disableTheme.label               "Levar lo tèma">
-<!ENTITY cmd.disableTheme.accesskey           "e">
 
 <!ENTITY cmd.askToActivate.label              "Demandar per activar">
 <!ENTITY cmd.askToActivate.tooltip            "Demandar a cada còp la permission d'utilizar aqueste modul complementari">
@@ -104,8 +15,6 @@
 <!ENTITY cmd.neverActivate.label              "Activar pas jamai">
 <!ENTITY cmd.neverActivate.tooltip            "Utilizar pas jamai aqueste modul complementari">
 <!ENTITY cmd.stateMenu.tooltip                "Causir quora utilizar aqueste modul complementari">
-<!ENTITY cmd.installAddon.label               "Installar">
-<!ENTITY cmd.installAddon.accesskey           "I">
 
 <!ENTITY cmd.uninstallAddon.label             "Suprimir">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
@@ -113,9 +22,6 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "Modificar las opcions d'aqueste modul complementari">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferéncias">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Modificar las preferéncias d'aqueste modul complementari">
-<!ENTITY cmd.contribute.label                 "Contribuir">
-<!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Contribuir al desvolopament d'aqueste modul complementari">
 
 <!ENTITY cmd.showReleaseNotes.label           "Afichar las nòtas de version">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Afichar las nòtas de version per aquesta mesa a jorn">
@@ -123,53 +29,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amagar las nòtas de version per aquesta mesa a jorn">
 <!ENTITY cmd.findReplacement.label            "Cercar un remplaçament">
 
-<!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "De qué son los moduls complementaris ?">
-<!ENTITY discover.description2                "Los moduls complementaris son d'aplicacions que permeton de personalizar &brandShortName; amb de foncionalitats o d'estils suplementaris. Ganhatz de temps amb un panèl lateral, susvelhatz la metèo o cambiatz l'aparéncia de &brandShortName; coma vos agrada.">
-<!ENTITY discover.footer                      "Quand vòstra connexion Internet serà activa, aqueste panèl vos permetrà de descobrir certans dels melhors moduls complementaris e tanben los mai populars.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.lastupdated.label             "Darrièra mesa a jorn">
-<!ENTITY detail.creator.label                 "Desvolopaire">
-<!ENTITY detail.homepage.label                "Pagina d'acuèlh">
-
-<!ENTITY detail.contributions.description     "Lo desvolopaire d'aqueste modul demanda que l'ajudetz a assegurar lo contunhament de son desvolopament en li pagant una pichona contribucion.">
-
-<!ENTITY detail.updateType                    "Mesas a jorn automaticas">
-<!ENTITY detail.updateDefault.label           "Per defaut">
-<!ENTITY detail.updateDefault.tooltip         "Installar pas las mesas a jorn automaticament que se s'agís del reglatge per defaut">
-<!ENTITY detail.updateAutomatic.label         "Activadas">
-<!ENTITY detail.updateAutomatic.tooltip       "Installar automaticament las mesas a jorn">
-<!ENTITY detail.updateManual.label            "Desactivadas">
-<!ENTITY detail.updateManual.tooltip          "Installa pas automaticament las mesas a jorn">
-<!ENTITY detail.home                          "Pagina d'acuèlh">
-<!ENTITY detail.repository                    "Perfil del modul">
-<!ENTITY detail.size                          "Talha">
-
-<!ENTITY detail.checkForUpdates.label         "Recèrca de mesas a jorn">
-<!ENTITY detail.checkForUpdates.accesskey     "R">
-<!ENTITY detail.checkForUpdates.tooltip       "Verificar se de mesas a jorn son disponiblas per aqueste modul">
-<!ENTITY detail.showPreferencesWin.label      "Opcions">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Modificar las opcions d'aqueste modul complementari">
-<!ENTITY detail.showPreferencesUnix.label     "Preferéncias">
-<!ENTITY detail.showPreferencesUnix.accesskey "r">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Modificar las preferéncias d'aqueste modul complementari">
-
-
-<!-- ratings -->
-<!ENTITY rating2.label                        "Apreciacion">
-
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Pausa">
-
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Anullar">
-
-<!ENTITY addon.homepage                       "Pagina d'acuèlh">
 
 <!ENTITY addon.details.label                  "Mai">
 <!ENTITY addon.details.tooltip                "Afichar mai de detalhs a prepaus d'aqueste modul complementari">
@@ -178,6 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "OBSOLÈT">
+<!ENTITY addon.privateBrowsing.label          "AUTORIZAT EN FENÈSTRAS PRIVADAS">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -191,7 +53,6 @@
 <!ENTITY addon.undoAction.tooltip             "Anullar aquesta accion">
 <!ENTITY addon.undoRemove.label               "Anullar">
 <!ENTITY addon.undoRemove.tooltip             "Conservar aqueste modul complementari">
-<!ENTITY addon.restartNow.label               "Reaviar ara">
 
 <!ENTITY addon.install.label                  "Installar">
 <!ENTITY addon.install.tooltip                "Installar aqueste modul complementari">
@@ -206,34 +67,7 @@
 
 <!ENTITY addon.createdBy.label                "Per ">
 
-<!ENTITY eula.title                           "Acòrdi de licéncia d'utilizaire">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Acceptar e installar…">
-
 <!ENTITY settings.path.button.label           "Percórrer…">
 
+<!-- addon actions -->
 <!ENTITY setting.learnmore "Ne saber mai…">
-
-<!ENTITY disabledUnsigned.heading "De moduls son estats desactivats">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Los moduls seguents podèron pas èsser verificats per lor utilizacion dins &brandShortName;. Podètz ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "cercar de moduls equivalents">
-<!ENTITY disabledUnsigned.description.end " o demandar a l'autor que los verifique.">
-<!ENTITY disabledUnsigned.learnMore "Ne saber mai sus nòstres esfòrces per garantir vòstra seguretat en linha.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Los desvelopaires interesats per far verificar los moduls complementaris pòdon tenir de legir nòstre ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.description "Quicòm manca ? De moduls extèrnes son pas mai preses en caraga per &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Ne saber mai.">
-
-<!ENTITY legacyWarning.showLegacy "Afichar las extensions obsolètas">
-<!ENTITY legacyExtensions.title "Extensions obsolètas">
-<!ENTITY legacyExtensions.description "Aquestas extensions respèctan pas los estandards actuals de &brandShortName; e son estadas desactivadas.">
-<!ENTITY legacyExtensions.learnMore "Ne saber mai suls cambiaments dels moduls">
