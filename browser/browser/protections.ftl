@@ -54,6 +54,9 @@ fingerprinter-tab-title = Сборщики цифровых отпечатков
 fingerprinter-tab-content = Сборщики цифровых отпечатков используют параметры вашего браузера и компьютера, чтобы создать ваш профиль. Используя этот цифровой отпечаток, они могут отслеживать вас на различных веб-сайтах. <a data-l10n-name="learn-more-link">Подробнее</a>
 cryptominer-tab-title = Криптомайнеры
 cryptominer-tab-content = Криптомайнеры используют вычислительные мощности вашей системы для добычи цифровых валют. Такие скрипты разряжают вашу батарею, замедляют работу компьютера и могут увеличить ваш счёт за электроэнергию. <a data-l10n-name="learn-more-link">Подробнее</a>
+mobile-app-title = Блокируйте рекламные трекеры сразу на нескольких устройствах
+mobile-app-card-content = Используйте мобильный браузер со встроенной защитой от рекламных трекеров.
+mobile-app-links = { -brand-product-name } Браузер для <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Никогда больше не забывайте свои пароли
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } надёжно хранит пароли в вашем браузере.
@@ -61,6 +64,9 @@ lockwise-header-content-logged-in = Надёжно храните и синхр�
 protection-report-view-logins-button = Просмотр логинов
     .title = Перейти к сохранённым логинам
 lockwise-no-logins-content = Загрузите приложение <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, чтобы держать свои пароли всегда с собой.
+lockwise-mobile-app-title = Возьмите свои пароли с собой
+lockwise-no-logins-card-content = Используйте пароли, сохранённые в { -brand-short-name }, на любом устройстве.
+lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

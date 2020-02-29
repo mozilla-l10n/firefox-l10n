@@ -123,6 +123,11 @@ cfr-whatsnew-lockwise-take-link-text = Загрузить приложение
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = С новой строкой адреса можно набирать меньше и находить больше
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Переходите на сайты, которые вы посещаете чаще всего, одним щелчком в адресной строке. Находите нужные вещи быстрее с результатами из { $searchEngineName } и вашей истории посещения страниц.
+cfr-whatsnew-searchbar-body-generic = Переходите на сайты, которые вы посещаете чаще всего, одним щелчком в адресной строке. Находите нужные вещи быстрее с помощью поиска в вашей истории посещения страниц.
 cfr-whatsnew-searchbar-icon-alt-text = Значок увеличительного стекла
 
 ## Picture-in-Picture
