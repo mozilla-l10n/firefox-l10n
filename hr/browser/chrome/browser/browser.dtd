@@ -881,8 +881,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "Informacije koje dijelite s ovom stranicom (npr. lozinke, poruke, broj kreditne kartice itd.) može vidjeti treća strana.">
 <!ENTITY identity.description.customRoot "Mozilla ne prepoznaje ovog izdavatelja certifikata. Možda ga je dodao tvoj operacijski sustav ili administrator.">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Omogući zaštitu">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "O">
+<!ENTITY identity.enableMixedContentBlocking.label "Aktiviraj zaštitu">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Onemogući zaštitu za sada">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
 <!ENTITY identity.learnMore "Saznaj više">
@@ -1097,4 +1097,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
-<!ENTITY accessibilityIndicator.tooltip "Funkcije pristupačnosti omogućene">
+<!ENTITY accessibilityIndicator.tooltip "Funkcije pristupačnosti su aktivirane">

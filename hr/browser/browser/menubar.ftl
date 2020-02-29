@@ -259,7 +259,7 @@ menu-help-safe-mode-without-addons =
     .label = Ponovo pokreni s isključenim dodacima …
     .accesskey = v
 menu-help-safe-mode-with-addons =
-    .label = Ponovo pokreni s uključenim dodacima
+    .label = Ponovo pokreni s aktiviranim dodacima
     .accesskey = v
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

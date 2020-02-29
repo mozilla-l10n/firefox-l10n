@@ -26,7 +26,7 @@
 
 <!ENTITY helpSafeMode.label       "Ponovo pokreni s isključenim dodacima…">
 <!ENTITY helpSafeMode.accesskey   "v">
-<!ENTITY helpSafeMode.stop.label       "Ponovo pokreni s uključenim dodacima">
+<!ENTITY helpSafeMode.stop.label       "Ponovo pokreni s aktiviranim dodacima">
 <!ENTITY helpSafeMode.stop.accesskey   "v">
 
 <!ENTITY helpTroubleshootingInfo.label      "Rješavanje problema">
