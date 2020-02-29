@@ -85,6 +85,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Отваряне на панел със съобщението
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Отваряне на панел със заявката за местоположение
+urlbar-xr-notification-anchor =
+    .tooltiptext = Отваряне на панела за разрешения за виртуална реалност
 urlbar-storage-access-anchor =
     .tooltiptext = Отваря панела за правата при разглеждане
 urlbar-translate-notification-anchor =
@@ -109,6 +111,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Отваряне на панел със съобщението за инсталиране на добавка
 urlbar-tip-help-icon =
     .title = Получете помощ
+urlbar-search-tips-confirm = Да, разбрах
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Съвет:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -122,6 +130,8 @@ urlbar-search-tips-redirect = Започнете търсене оттук, за
 
 urlbar-geolocation-blocked =
     .tooltiptext = Забранили сте на страницата достъп до вашето местоположение.
+urlbar-xr-blocked =
+    .tooltiptext = Блокирахте достъпа до устройства за виртуална реалност за този уебсайт.
 urlbar-web-notifications-blocked =
     .tooltiptext = Забранили сте на страницата да ви изпраща известия.
 urlbar-camera-blocked =

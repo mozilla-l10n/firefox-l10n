@@ -110,9 +110,14 @@ cfr-whatsnew-tracking-blocked-link-text = Преглед на отчета
 cfr-whatsnew-lockwise-backup-title = Архивирайте паролите си
 cfr-whatsnew-lockwise-take-link-text = Вземете приложението
 
+## Search Bar
+
+cfr-whatsnew-searchbar-icon-alt-text = Увеличаваща лупа
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Гледайте видеоклипове, докато разглеждате
+cfr-whatsnew-pip-body = „Картина в картината“ изкарва видео в плаващ прозорец, докато работите в други раздели.
 cfr-whatsnew-pip-cta = Научете повече
 
 ## Permission Prompt
@@ -154,9 +159,13 @@ cfr-doorhanger-firefox-send-ok-button = Изпробвайте { -send-brand-nam
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Вижте защитите
+    .accesskey = В
 cfr-doorhanger-socialtracking-close-button = Затваряне
     .accesskey = з
 cfr-doorhanger-socialtracking-description = Поверителността ви е от значение. { -brand-short-name } вече спира проследяванията от разпространените социални мрежи, ограничавайки събираните данни за действията ви в мрежата.
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Показване на всички
+    .accesskey = С
