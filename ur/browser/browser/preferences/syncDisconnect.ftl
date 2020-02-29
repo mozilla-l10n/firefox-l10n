@@ -8,7 +8,7 @@ sync-disconnect-dialog =
 sync-disconnect-remove-sync-caption = { -sync-brand-name } کوائف ہٹائیں
 sync-disconnect-remove-sync-data = بُک مارکس ، سابقات، پاس ورڈز ، وغیرہ۔
 sync-disconnect-remove-other-caption = دیگر بجی کوائف ہٹائیں
-sync-disconnect-remove-other-data = کوکیس کیسہ آفلائن ویبساَۃٹ کوائف وغیرہ
+sync-disconnect-remove-other-data = کوکیز کیسہ آفلائن ویبساَۃٹ کوائف وغیرہ
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = منقطع کر رہا ہے۔۔۔
 sync-disconnect-cancel =

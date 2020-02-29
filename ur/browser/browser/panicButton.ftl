@@ -26,6 +26,6 @@ panic-button-day =
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
 panic-button-action-desc = آگے چلنے سے:
-panic-button-delete-cookies = حالیہ <strong>کوکیزس</strong> حذف کریں
+panic-button-delete-cookies = حالیہ <strong>کوکیز</strong> حذف کریں
 panic-button-delete-history = حالیہ <strong>سابقات</strong> حذف کریں
 panic-button-delete-tabs-and-windows = تمام <strong>ٹیب</strong> اور <strong>دریچے</strong> بند کر دیں

@@ -6,14 +6,14 @@
 ## Settings
 
 site-data-settings-window =
-    .title = کوکیوں اور سائٹ کے کواِئف کو منظم کریں
+    .title = کوکیزوں اور سائٹ کے کواِئف کو منظم کریں
 site-data-search-textbox =
     .placeholder = ویبسائٹ تلاش کریں
     .accesskey = S
 site-data-column-host =
     .label = سائٹ
 site-data-column-cookies =
-    .label = کوکیس
+    .label = کوکیز
 site-data-column-storage =
     .label = ذخیرہ
 site-data-column-last-used =
@@ -46,4 +46,4 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ہٹائیں
-site-data-removing-header = کوکیس اور سائٹ کوائف ہٹا رہے ہیں
+site-data-removing-header = کوکیز اور سائٹ کوائف ہٹا رہے ہیں

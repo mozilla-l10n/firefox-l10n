@@ -720,14 +720,14 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = کوکیزس اور سائٹ کے کواِئف
+sitedata-header = کوکیز اور سائٹ کے کواِئف
 sitedata-total-size-calculating = سائٹ کے ڈیٹا اور کیشے کے ماپ کا حساب لگا رہے ہیں…
 sitedata-learn-more = مزید سیکھیں
 sitedata-allow-cookies-option =
-    .label = کوکیزز اور سائٹ کا ڈیٹا قبول کریں
+    .label = کوکیز اور سائٹ کا ڈیٹا قبول کریں
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = کوکیزز اور سائٹ کا ڈیٹا روکیں
+    .label = کوکیز اور سائٹ کا ڈیٹا روکیں
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -740,7 +740,7 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = کراس سائٹ اور سماجی میڈیا ٹریکرز
 sitedata-option-block-all =
-    .label = تمام کوکیزز (ویب سائٹس کے ٹوٹنے کا سبب بنے گی)
+    .label = تمام کوکیز (ویب سائٹس کے ٹوٹنے کا سبب بنے گی)
 sitedata-clear =
     .label = کوائف… خالی کریں
     .accesskey = l
@@ -798,8 +798,8 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
 content-blocking-social-media-trackers = سماجی میڈیا ٹریکرز
-content-blocking-all-cookies = تمام کوکیزس
-content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیزز
+content-blocking-all-cookies = تمام کوکیز
+content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
 content-blocking-warning-title = دھیان دیں!
@@ -820,7 +820,7 @@ content-blocking-option-private =
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = بلاک فہرست تبدیل کریں
 content-blocking-cookies-label =
-    .label = کوکیزز
+    .label = کوکیز
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = مزید معلومات
