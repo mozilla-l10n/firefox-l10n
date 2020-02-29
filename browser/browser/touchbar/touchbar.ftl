@@ -9,6 +9,7 @@ forward = Напред
 reload = Презареждане
 home = Начало
 fullscreen = Цял екран
+touchbar-fullscreen-exit = Излизане от цял екран
 find = Търсене
 new-tab = Нов раздел
 add-bookmark = Добавяне на отметка
@@ -19,3 +20,17 @@ open-location = Търсене или въвеждане на адрес
 share = Споделяне
 close-window = Затваряне на прозореца
 open-sidebar = Странични ленти
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Търсене в:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Отметки
+search-history = История
+search-opentabs = Отворени раздели
+search-tags = Етикети
+search-titles = Заглавия
+
+##
+
