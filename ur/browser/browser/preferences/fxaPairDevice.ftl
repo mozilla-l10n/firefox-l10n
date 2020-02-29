@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-pair-device-dialog =
-    .title = اہک اور آلہ جوڑیں
+    .title = ایک اور آلہ جوڑیں
     .style = width: 26em; min-height: 35em;
 fxa-qrcode-error-title = جوٰڑنے میں ناکام رہا
 fxa-qrcode-error-body = دوبارہ کوشش کریں۔

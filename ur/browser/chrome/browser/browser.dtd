@@ -162,7 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; ترتیبات">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "کسی اور آلہ… سے جوڑیں">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "ایک اور آلہ جوڑیں…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName; میں سائن ان کریں">
@@ -449,7 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label;… چالو کریں">
 <!ENTITY appMenuRemoteTabs.managedevices.label "آلات کو بندرست کریں…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ہمہ وقت ساز ٹیبس کے بغلی بار کا نظارہ کریں">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "اہک اور آلہ جوڑیں">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "ایک اور آلہ جوڑیں">
 
 <!ENTITY appMenuRecentHighlights.label "حالیہ خاص بات">
 
