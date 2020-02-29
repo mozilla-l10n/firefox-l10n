@@ -63,9 +63,9 @@
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Marcapagina novèl…">
-<!ENTITY cmd.new_bookmark.accesskey        "s">
+<!ENTITY cmd.new_bookmark.accesskey        "M">
 <!ENTITY cmd.new_folder.label              "Repertòri novèl…">
-<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.new_folder.accesskey          "e">
 <!ENTITY cmd.context_new_folder.accesskey  "d">
 <!ENTITY cmd.new_separator.label           "Separador novèl">
 <!ENTITY cmd.new_separator.accesskey       "S">
