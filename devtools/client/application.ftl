@@ -27,6 +27,10 @@ serviceworker-worker-debug = ডিবাগ
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = শুরু
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = ডিবাগ করুন
+    .title = যদি মাল্টি e10s নিষ্ক্রিয় থাকে তাহলে শুধুমাত্র সার্ভিস ওয়ার্কার্স ডিবাগ করতে পারেন
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = শুরু
@@ -85,6 +89,13 @@ manifest-icon-purpose = উদ্দেশ্য: <code>{ $purpose }</code>
 # manifest.
 manifest-icon-img =
     .alt = আইকন
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = মাপ সহ আইকন: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = আইকনের মাপ ঠিক নেই
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = ম্যানিফেস্ট
     .alt = ম্যানিফেস্ট আইকন
