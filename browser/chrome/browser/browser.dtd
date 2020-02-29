@@ -1058,7 +1058,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Preuzmi &brandShorterName; ažuriranje">
 <!ENTITY updateManual.panelUI.label "Preuzmi novu &brandShorterName; instalaciju">
-<!ENTITY updateUnsupported.panelUI.label "Ne možete instalirati daljnja ažuriranja">
+<!ENTITY updateUnsupported.panelUI.label "Ne možeš izvršiti daljnja ažuriranja">
 <!ENTITY updateRestart.panelUI.label2 "Ponovo pokreni za ažuriranje &brandShorterName;a">
 
 <!ENTITY newTabControlled.header.message "Tvoja nova kartica je promijenjena.">
