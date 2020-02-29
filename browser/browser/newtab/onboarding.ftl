@@ -59,7 +59,7 @@ onboarding-sync-form-skip-login-button = דילוג על שלב זה
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = נא להקליד את כתובת הדוא״ל שלך
-onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }.
+onboarding-sync-form-sub-header = כדי להמשיך אל { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
