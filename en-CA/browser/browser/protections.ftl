@@ -52,6 +52,9 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites. <a data-l10n-name="learn-more-link">Learn more</a>
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill. <a data-l10n-name="learn-more-link">Learn more</a>
+mobile-app-title = Block ad trackers across more devices
+mobile-app-card-content = Use the mobile browser with built-in protection against ad tracking.
+mobile-app-links = { -brand-product-name } Browser for <a data-l10n-name="android-mobile-inline-link">Android</a> and <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Never forget a password again
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } securely stores your passwords in your browser.
