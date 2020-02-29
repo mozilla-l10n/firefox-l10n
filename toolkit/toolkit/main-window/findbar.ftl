@@ -20,13 +20,13 @@ findbar-highlight-all2 =
         }
     .tooltiptext = Istakni sva ponavljanja fraze
 findbar-case-sensitive =
-    .label = Osjetljivo na veličinu slova
+    .label = Razlikovanje velikih/malih slova
     .accesskey = j
-    .tooltiptext = Pretraživanje osjetljivo na velika i mala slova
+    .tooltiptext = Pretraživanje s razlikovanjem velikih i malih slova
 findbar-match-diacritics =
-    .label = Odgovarajući dijakritici
+    .label = Poklapanje dijakritičkih znakova
     .accesskey = d
-    .tooltiptext = Razlikuj slova s dijakritičkim znakovima i osnovna slova (npr. kod traženja riječi “resume”, riječ “résumé” neće se prikazati u rezultatima)
+    .tooltiptext = Razlikuj slova s dijakritičkim znakovima i osnovna slova (npr. kad tražiš riječi „kuca”, riječ „kuća” se neće prikazati u rezultatima)
 findbar-entire-word =
     .label = Cijele riječi
     .accesskey = C
