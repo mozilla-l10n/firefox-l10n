@@ -59,7 +59,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se omogućila ova funkcija.
+feature-enable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti, kako bi se aktivirala ova funkcija.
 feature-disable-requires-restart = { -brand-short-name } se mora ponovo pokrenuti da bi se onemogućila ova funkcija.
 should-restart-title = Ponovo pokreni { -brand-short-name }
 should-restart-ok = Ponovo pokreni { -brand-short-name } sada
@@ -102,7 +102,7 @@ extension-controlled-proxy-config = Dodatak, <img data-l10n-name="icon"/> { $nam
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Da biste omogućili dodatak idite na <img data-l10n-name="addons-icon"/> Dodaci u <img data-l10n-name="menu-icon"/> izborniku.
+extension-controlled-enable = Za aktiviranje dodatak idi na <img data-l10n-name="addons-icon"/> Dodaci u <img data-l10n-name="menu-icon"/> izborniku.
 
 ## Preferences UI Search Results
 
@@ -160,7 +160,7 @@ show-tabs-in-taskbar =
     .label = Prikaži pretpregled kartica u Windows traci zadataka
     .accesskey = k
 browser-containers-enabled =
-    .label = Omogući sadržajne kartice
+    .label = Aktiviraj kontejner kartice
     .accesskey = m
 browser-containers-learn-more = Saznaj više
 browser-containers-settings =
@@ -179,7 +179,7 @@ containers-disable-alert-ok-button =
         [few] Zatvori { $tabCount } kontejnerske kartice
        *[other] Zatvori { $tabCount } kontejnerskih kartica
     }
-containers-disable-alert-cancel-button = Drži omogućeno
+containers-disable-alert-cancel-button = Ostavi aktivirano
 containers-remove-alert-title = Ukloniti ovaj kontejner?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
@@ -392,7 +392,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Granica procesiranja sadržaja
     .accesskey = G
 performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu poboljšati performansu kad koristiš više kartica, ali će koristiti i više memorije.
-performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznaj kako provjeriti je li omogućen višeprocesni rad.</a>
+performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznaj kako provjeriti je li višeprocesni rad aktiviran.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -417,7 +417,7 @@ browsing-search-on-start-typing =
     .label = Traženje teksta već prilikom upisivanja
     .accesskey = k
 browsing-picture-in-picture-toggle-enabled =
-    .label = Omogući video kontrole za slika-u-slici
+    .label = Aktiviraj video kontrole za slika-u-slici
     .accesskey = O
 browsing-picture-in-picture-learn-more = Saznaj više
 browsing-cfr-recommendations =
