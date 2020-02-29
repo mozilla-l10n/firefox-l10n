@@ -102,9 +102,9 @@ options-enable-remote-label = Omogući udaljeno ispravljanje grešaka
 options-enable-remote-tooltip =
     .title = Uključivanje ove opcije omogućit će programerskim alatima uklanjaje grešaka udaljene instance poput Firefox OS-a
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Uključi mogućnosti testiranja Service workersa putem HTTP-a (kada je alatna traka otvorena)
+options-enable-service-workers-http-label = Uključi radne procese usluge putem HTTP-a (kad je alatna traka otvorena)
 options-enable-service-workers-http-tooltip =
-    .title = Uključivanje ove opcije će omogućiti korištenje opcija testiranja service workera putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
+    .title = Uključivanje ove opcije omogućit će korištenje radne procese usluge putem HTTP-a za sve kartice koje imaju otvorenu alatnu traku.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Samo trenutna sesija, ponovo učitava stranicu
 # The label for the checkbox that toggles the display of the platform data in the
