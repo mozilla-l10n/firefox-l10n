@@ -10,3 +10,6 @@ changed-desc-dedicated = Aby móc łatwiej i bezpieczniej przełączać się mi
 lost = <b>Żadne dane osobiste ani konfiguracja nie zostały utracone.</b> Jeśli już zachowano jakieś informacje w programie { -brand-product-name } na tym komputerze, to są one nadal dostępne w innej instalacji programu { -brand-product-name }.
 options-title = Co mogę zrobić?
 options-do-nothing = Jeśli nic nie zrobisz, to dane profilu w programie { -brand-short-name } będą inne niż dane profilu w pozostałych instalacjach programu { -brand-product-name }.
+resources = Więcej informacji
+about-pofiles-link = Wyświetl i zarządzaj profilami
+support-link = Zarządzanie profilami — artykuł pomocy

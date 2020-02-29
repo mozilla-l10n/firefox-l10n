@@ -15,7 +15,7 @@
 -->
 
 <!ENTITY menu_securityEncryptRequire2.label "Wymagaj szyfrowania">
-<!ENTITY menu_securityEncryptRequire.accesskey "Z">
+<!ENTITY menu_securityEncryptRequire.accesskey "W">
 
 <!ENTITY menu_securitySign.label "Podpisz cyfrowo tę wiadomość">
 <!ENTITY menu_securitySign.accesskey "P">
