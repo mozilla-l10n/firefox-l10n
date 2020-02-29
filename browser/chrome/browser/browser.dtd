@@ -142,7 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Firefox와 함께 하세요">
-<!ENTITY fxa.signin.description.label "북마크와 방문 기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.">
+<!ENTITY fxa.signin.description.label "북마크, 기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.">
 <!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; 켜기…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
@@ -238,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "앞으로">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "한 페이지 앞으로 가기">
-<!ENTITY backForwardButtonMenu.tooltip "오른쪽 클릭 또는 아래로 잡아당겨 방문 기록 보기">
-<!ENTITY backForwardButtonMenuMac.tooltip "방문 기록 내려 보기">
+<!ENTITY backForwardButtonMenu.tooltip "오른쪽 클릭 또는 아래로 잡아당겨 기록 보기">
+<!ENTITY backForwardButtonMenuMac.tooltip "아래로 잡아당겨 기록 보기">
 <!ENTITY reloadCmd.label              "새로 고침">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "중지">
@@ -294,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.permissionsGranted.tooltip       "이 웹 사이트에 추가 권한을 부여했습니다.">
 
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "방문 기록 보기">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "기록 보기">
 
 <!ENTITY searchItem.title             "검색">
 
@@ -324,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "방문 기록">
+<!ENTITY historyButton.label            "기록">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "도구">
@@ -410,18 +410,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY overflowCustomizeToolbar.label       "도구 모음 사용자 지정…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
-<!ENTITY historyMenu.label "방문 기록">
+<!ENTITY historyMenu.label "기록">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "최근에 닫은 탭">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "최근에 닫은 창">
 <!ENTITY historyRestoreLastSession.label "이전 세션 복원">
 
-<!ENTITY showAllHistoryCmd2.label "방문 기록 보기">
+<!ENTITY showAllHistoryCmd2.label "모든 기록 보기">
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuHistory.showAll.label "방문 기록 보기">
+<!ENTITY appMenuHistory.showAll.label "모든 기록 보기">
 <!ENTITY appMenuHistory.clearRecent.label "최근 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "방문 기록 탐색창 보기">
