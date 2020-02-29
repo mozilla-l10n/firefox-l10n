@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Messaggi marcati">
 <!ENTITY selectFlaggedCmd.accesskey "M">
+<!ENTITY menuFavoriteFolder.label "Cartella preferita">
+<!ENTITY menuFavoriteFolder.accesskey "r">
 <!ENTITY folderPropsCmd.label "Proprietà…">
 <!ENTITY folderPropsFolderCmd.label "Proprietà della cartella…">
 <!ENTITY folderPropsNewsgroupCmd.label "Proprietà del gruppo di discussione…">
@@ -272,6 +274,8 @@
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "Messaggio spuntato">
 <!ENTITY prevFlaggedMsgCmd.accesskey "s">
+<!ENTITY folderMenu.label "Cartella">
+<!ENTITY folderMenu.accesskey "C">
 <!ENTITY startPageCmd.label "Pagina di avvio Posta">
 <!ENTITY startPageCmd.accesskey "d">
 
@@ -526,6 +530,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "C">
 <!ENTITY folderContextProperties.label "Proprietà…">
 <!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Cartella preferita">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings.label "Impostazioni…">
 <!ENTITY folderContextSettings.accesskey "z">
 
