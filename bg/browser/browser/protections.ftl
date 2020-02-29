@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] От { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } е спряно <b>{ $count }</b> проследяване
        *[other] От { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } са спрени <b>{ $count }</b> проследявания
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } продължава да спира проследяванията и в поверителни прозорци, но не ги отчита в статистиката.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Проследявания, спрени от { -brand-short-name } тази седмица
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -31,6 +35,7 @@ protection-report-page-title = Защита на лични данни
 protection-report-content-title = Защита на лични данни
 etp-card-title = Разширена защита от проследяване
 etp-card-content = Проследяванията ви следват онлайн, за да събират информация за навиците и интересите ви при разглеждане. { -brand-short-name } спира много от тях, както и други злонамерени скриптове.
+protection-report-etp-card-content-custom-not-blocking = В момента всички защити са изключени. Изберете кои проследявания да бъдат спирани от настройките на защита на { -brand-short-name }.
 protection-report-manage-protections = Настройки
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -47,8 +52,12 @@ fingerprinter-tab-title = Снемане на цифров отпечатък
 fingerprinter-tab-content = Компаниите, които снемат цифров отпечатък събират настройки от вашия мрежов четец и компютър, за да създадат потребителски профил. Използвайки този цифров отпечатък, те могат да ви проследят в различни уебсайтове. <a data-l10n-name="learn-more-link">Научете повече</a>
 cryptominer-tab-title = Добиване на криптовалути
 cryptominer-tab-content = Добиването на криптовалути използва изчислителната мощ на вашата система, за да извличане на цифрови пари. Скриптовете за добиване на криптовалута изтощават батерията, забавят компютъра и могат да увеличат сметката ви за електроенергия. <a data-l10n-name="learn-more-link">Научете повече</a>
+mobile-app-title = Спиране на проследяващи реклами на повече устройства
+mobile-app-card-content = Използвайте мобилния четец с вградена защита срещу проследяващи реклами.
+mobile-app-links = { -brand-product-name } четец за <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Никога не забравяйте отново парола
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } сигурно съхранява вашите пароли в четеца.
 protection-report-view-logins-button = Преглед на регистрациите
     .title = Отваря запазените регистрации
 # This string is displayed after a large numeral that indicates the total number
