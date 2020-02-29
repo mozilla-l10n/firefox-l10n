@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = 프로필 소개
-profiles-subtitle = 이 페이지에서는 프로필을 관리할 수 있습니다. 각각의 프로필은 분리된 방문 기록과 북마크, 설정, 부가 기능을 포함합니다.
+profiles-subtitle = 이 페이지에서는 프로필을 관리할 수 있습니다. 각각의 프로필은 분리된 기록과 북마크, 설정, 부가 기능을 포함합니다.
 profiles-create = 새 프로필 만들기
 profiles-restart-title = 다시 시작
 profiles-restart-in-safe-mode = 부가 기능을 끄고 다시 시작…
