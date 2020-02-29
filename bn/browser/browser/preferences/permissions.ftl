@@ -134,6 +134,12 @@ permissions-site-location-disable-label =
     .label = আপনার অবস্থানের তথ্য জানার নতুন অনুরোধ ব্লক করুন
 permissions-site-location-disable-desc = এতে করে, উপরের তালিকায় না থাকা ওয়েবসাইট, আপনার অবস্থান জানতে চেয়ে অনুরোধ করতে পারবে না। যদিও অবস্থান জানতে না দিলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
 
+## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = সেটিংস - ভার্চুয়াল রিয়েলিটির অনুমতি
+    .style = { permissions-window.style }
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window =

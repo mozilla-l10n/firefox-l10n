@@ -305,6 +305,9 @@ about-debugging-main-process-name = প্রধান প্রক্রিয়�
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = কাঙ্খিত ব্রাউজারের জন্য মূল প্রসেস
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = মাল্টিপ্রসেস টুলবক্স
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = বার্তা বন্ধ করুন

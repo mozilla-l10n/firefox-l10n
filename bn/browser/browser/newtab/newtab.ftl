@@ -93,7 +93,7 @@ newtab-privacy-modal-paragraph =
     স্পনসরও তা পায় না।
 newtab-privacy-modal-link = কীভাবে গোপনীয়তা নতুন ট্যাবে কাজ করে তা শিখুন
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = বুকমার্ক মুছে দিন
@@ -128,6 +128,10 @@ newtab-label-removed-bookmark = বুকমার্ক মুছে ফেল�
 newtab-label-recommended = ঝোঁক
 newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ হয়েছে
 newtab-label-download = ডাউনলোড হয়েছে
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } । প্রযোজিত
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -180,7 +184,8 @@ newtab-discovery-empty-section-topstories-timed-out = ওহো! আমরা �
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = জনপ্রিয় বিষয়:
 newtab-pocket-more-recommendations = আরও সুপারিশ
-newtab-pocket-how-it-works = কিভাবে এটা কাজ করে
+newtab-pocket-whats-pocket = { -pocket-brand-name } কি?
+newtab-pocket-learn-more = আরও জানুন
 newtab-pocket-cta-button = { -pocket-brand-name } ব্যবহার করুন
 newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্দের গল্পগুলো সংরক্ষণ করুন, এবং চমৎকার সব লেখা পড়ে আপনার মনের ইন্ধন যোগান।
 

@@ -85,6 +85,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = বার্তা প্যানেল খুলুন
 urlbar-geolocation-notification-anchor =
     .tooltiptext = অবস্থান অনুরোধ প্যানেল খুলুন
+urlbar-xr-notification-anchor =
+    .tooltiptext = ভার্চুয়াল রিয়েলিটি অনুমোদন প্যানেল এ যান
 urlbar-storage-access-anchor =
     .tooltiptext = ব্রাউজিং কার্যকলাপ অনুমতি প্যানেল খুলুন
 urlbar-translate-notification-anchor =
@@ -109,6 +111,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = অ্যাড-অন ইনস্টলেশন বার্তা প্যানেল খুলুন
 urlbar-tip-help-icon =
     .title = সাহায্য নিন
+urlbar-search-tips-confirm = ঠিক আছে, বুঝতে পেরেছি
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = পরামর্শ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
