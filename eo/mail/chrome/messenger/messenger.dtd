@@ -513,9 +513,11 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Iloj por programistoj">
 <!ENTITY devtoolsMenu.accesskey "l">
-<!ENTITY devToolboxCmd.label "Developer Toolbox">
-<!ENTITY devToolboxCmd.accesskey "T">
+<!ENTITY devToolboxCmd.label "Ilaro por programistoj">
+<!ENTITY devToolboxCmd.accesskey "I">
 <!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Senerarigi aldonaĵojn">
+<!ENTITY debugAddonsCmd.accesskey "S">
 <!ENTITY tabsDebugCmd.label "Content Frame Debugger">
 <!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Error Console">
