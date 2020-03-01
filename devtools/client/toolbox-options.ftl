@@ -100,9 +100,9 @@ options-enable-chrome-label = Aktivera webbläsare chrome och felsökningsverkty
 options-enable-chrome-tooltip =
     .title = Med det här alternativet kan du använda olika utvecklingsverktyg i webbläsaren (via Verktyg> Webbutvecklare> Webbläsarverktyg) och felsöka tillägg från tilläggshanteraren.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = Aktivera fjärravlusning
+options-enable-remote-label = Aktivera fjärrfelsökning
 options-enable-remote-tooltip =
-    .title = Väljer du det här alternativet kan utvecklarverktygen avlusa fjärrinstanser av Firefox, såsom Firefox OS
+    .title = Väljer du det här alternativet kan utvecklarverktygen felsöka fjärrinstanser av Firefox, såsom Firefox OS
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Aktivera Service Workers över HTTP (när verktygslådan är öppen)
 options-enable-service-workers-http-tooltip =
@@ -113,11 +113,6 @@ options-source-maps-tooltip =
     .title = Om du aktiverar det här alternativet kommer källor att mappas i verktygen.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Endast aktuell session, laddar om sidan
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Avlusare
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Visa Geckos plattformsdata
