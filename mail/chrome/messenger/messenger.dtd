@@ -501,12 +501,12 @@
 <!ENTITY clearRecentHistory.label "Forviŝi ĵusan historion…">
 <!ENTITY clearRecentHistory.accesskey "v">
 <!ENTITY accountManagerCmd2.label "Agordoj pri kontoj">
-<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmd2.accesskey "k">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
-<!ENTITY accountManagerCmdUnix2.accesskey "A">
+<!ENTITY accountManagerCmdUnix2.accesskey "k">
 
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Developer Tools">
