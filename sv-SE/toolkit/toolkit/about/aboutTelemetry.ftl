@@ -39,7 +39,7 @@ about-telemetry-captured-stacks-section = Fångade stackar
 about-telemetry-late-writes-section = Sena skrivningar
 about-telemetry-raw-payload-section = Rå nyttolast
 about-telemetry-raw = Rå JSON
-about-telemetry-full-sql-warning = OBS: Långsam SQL-avlusning är aktiverad. Fullständiga SQL-strängar kan visas nedan men de kommer inte att skickas in av Telemetri.
+about-telemetry-full-sql-warning = OBS: Långsam SQL-felsökning är aktiverad. Fullständiga SQL-strängar kan visas nedan men de kommer inte att skickas in av Telemetri.
 about-telemetry-fetch-stack-symbols = Hämta funktionsnamn för stackar
 about-telemetry-hide-stack-symbols = Visa rå stackdata
 # Selects the correct release version

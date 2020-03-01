@@ -75,8 +75,8 @@
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label3    "Aktivera fjärravlusning">
-<!ENTITY options.enableRemote.tooltip2  "Väljer du det här alternativet kan utvecklarverktygen avlusa fjärrinstanser av Firefox, såsom Firefox OS">
+<!ENTITY options.enableRemote.label3    "Aktivera fjärrfelsökning">
+<!ENTITY options.enableRemote.tooltip2  "Väljer du det här alternativet kan utvecklarverktygen felsöka fjärrinstanser av Firefox, såsom Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -136,14 +136,9 @@
 <!ENTITY options.timestampMessages.label      "Aktivera tidsstämplar">
 <!ENTITY options.timestampMessages.tooltip    "Om du aktiverar detta alternativ kommer kommandon och utdata i webbkonsolen att visas med en tidsstämpel">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Grupp liknande meddelanden">
-<!ENTITY options.warningGroups.tooltip    "När alternativet är aktiverat placeras liknande meddelanden i grupper">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
-<!ENTITY options.debugger.label            "Avlusare">
+<!ENTITY options.debugger.label            "Felsökare">
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->

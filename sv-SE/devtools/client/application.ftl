@@ -65,7 +65,7 @@ serviceworker-empty-suggestions = Om den nuvarande sidan ska ha en service worke
 serviceworker-empty-suggestions-console = Kolla efter fel i konsolen. <a>Öppna konsolen</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Stega igenom dina registrerade Service Worker och titta efter undantag. <a>Öppna avlusaren</a>
+serviceworker-empty-suggestions-debugger = Stega igenom dina registrerade Service Worker och titta efter undantag. <a>Öppna felsökaren</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspektera Service Workers från andra domäner. <a>Öppna about:debugging</a>

@@ -8,7 +8,7 @@ enable-inspect-element-title = Aktivera Firefox utvecklingsverktyg för att anv�
 enable-inspect-element-message = Utforska och redigera HTML och CSS med utvecklarverktygets inspektör.
 enable-about-debugging-message = Utveckla och felsök WebExtensions, webb-workers, service-workers och mer med Firefox utvecklingsverktyg.
 enable-key-shortcut-message = Du aktiverade en genväg till utvecklingsverktygen. Om det var ett misstag kan du stänga den här fliken.
-enable-menu-message = Förbättra din webbplats HTML, CSS och JavaScript med verktyg som inspektören och avlusaren.
+enable-menu-message = Förbättra din webbplats HTML, CSS och JavaScript med verktyg som inspektören och felsökaren.
 enable-common-message = Firefox utvecklingsverktyg är vanligtvis avstängda för att ge dig större kontroll över din webbläsare.
 enable-learn-more-link = Lär dig mer om utvecklingsverktyg
 enable-enable-button = Aktivera utvecklingsverktyg
@@ -30,8 +30,8 @@ features-inspector-title = Inspektör
 features-inspector-desc = Inspektera och förbättra koden för att skapa pixel-perfekta layouter. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Konsol
 features-console-desc = Spåra CSS, JavaScript, säkerhet och nätverksproblem. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-debugger-title = Avlusare
-features-debugger-desc = Kraftfull JavaScript-avlusare med stöd för din framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-debugger-title = Felsökare
+features-debugger-desc = Kraftfull JavaScript-felsökare med stöd för din framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Nätverk
 features-network-desc = Övervaka nätverksförfrågningar som kan sakta ner eller blockera din webbplats. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Lagring
