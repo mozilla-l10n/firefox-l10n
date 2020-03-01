@@ -6,17 +6,22 @@
 
 <!ENTITY menu_securityEncryptRequire.label "Kρυπτογράφηση μηνύματος">
 
+<!ENTITY menu_securityDoNotEncrypt.label "Χωρίς κρυπτογράφηση">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "ω">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Απαίτηση κρυπτογράφησης">
 <!ENTITY menu_securityEncryptRequire.accesskey "γ">
 
 <!ENTITY menu_securitySign.label "Ψηφιακή υπογραφή μηνύματος">
 <!ENTITY menu_securitySign.accesskey "Ψ">
 
+<!ENTITY menu_securityAttachMyKey.label "Επισύναψη δημόσιου κλειδιού">
+<!ENTITY menu_securityAttachMyKey.accesskey "Ε">
 
 <!ENTITY menu_securityTech.label "Τεχνολογία κρυπτογράφησης">
 <!ENTITY menu_securityTech.accesskey "Τ">
