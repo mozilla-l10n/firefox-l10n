@@ -14,12 +14,12 @@ rights-intro-point-5-unbranded = 이 제품이 웹 서비스를 지원하지 않
 rights-intro-point-6 = 특정 형식의 동영상 재생을 위해 { -brand-short-name }는 특정 제 삼자 콘텐츠 해석 모듈을 다운받습니다.
 rights-webservices-header = { -brand-full-name } 웹 기반 정보 서비스
 rights-webservices = { -brand-full-name }는 이용자 조건에 따라 { -brand-short-name } 프로그램에서 웹 기반 서비스(이하 "서비"스)를 제공합니다. 제공 서비스를 이용하기 원하지 않으시면 기능을 중단할 수 있습니다. 다음 특정 서비스 중단 방법을 참고하세요.:<a data-l10n-name="mozilla-disable-service-link">자세히 보기</a> (기타 기능이나 서비스는 응용 프로그램 설정에서 해제할 수 있습니다.)
-rights-safebrowsing = <strong>사생활 보호 기능: </strong>사생활 보호 기능을 사용하지 않는 것은 안전한 웹 브라우징을 위해 권장하지 않습니다. 하지만 이 기능 중단을 원하시면 아래의 절차를 이용하세요:
+rights-safebrowsing = <strong>SafeBrowsing: </strong>안전한 탐색 기능을 사용하지 않는 것은 안전하지 않은 사이트로 이동할 수 있기 때문에 권장되지 않습니다. 기능을 완전히 비활성화하려면 다음 단계를 수행하세요:
 rights-safebrowsing-term-1 = 프로그램 설정 열기
 rights-safebrowsing-term-2 = 보안 설정 선택
 rights-safebrowsing-term-3 = "{ enableSafeBrowsing-label }" 위해 체크 해제
 enableSafeBrowsing-label = 위험하고 믿을 수 없는 내용 차단
-rights-safebrowsing-term-4 = 사생활 보호 기능 중단
+rights-safebrowsing-term-4 = 안전한 탐색 기능이 비활성화 되었습니다.
 rights-locationawarebrowsing = <strong>위치 정보 서비스: </strong>이 기능은 항상 여러분에게 확인을 합니다. 허가 없이 어떠한 위치 정보도 웹 서비스로 전송되지 않습니다. 하지만 이 기능 중단을 원하시면 아래의 절차를 이용하세요:
 rights-locationawarebrowsing-term-1 = 주소창에 about:config 입력 <code>검색항목에 geo.enabled 입력</code>
 rights-locationawarebrowsing-term-2 = geo.enabled 항목을 더블 클릭
