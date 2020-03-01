@@ -110,6 +110,11 @@ about-debugging-extension-location =
     .label = موجودہ مقام
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = شروع کریں
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = رجسٹریشن کر رہا ہے
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = دائرہ کار
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = مرکزی عمل
