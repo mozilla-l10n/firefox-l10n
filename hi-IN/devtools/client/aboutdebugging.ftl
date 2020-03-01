@@ -99,6 +99,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = अपने Android उपक
 about-debugging-setup-usb-step-enable-debug2 = Android डेवलपर मेन्यू में USB डिबगिंग सक्रिय करें।
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Android उपकरण पर Firefox में USB डिबगिंग सक्रिय करें।
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Android उपकरण को अपने कंप्यूटर से कनेक्ट करें।
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = संजाल स्थान
