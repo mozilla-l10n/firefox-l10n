@@ -30,6 +30,10 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ไม่มีผ�
 inactive-css-not-flex-container = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่ส่วนแยกข้อมูลแบบยืดหยุ่น
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่องค์ประกอบแบบอินไลน์หรือแบบเซลล์ตาราง
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากมีการแสดงผลแบบ <strong>{ $display }</strong>
+inactive-css-not-display-block-on-floated = ค่า <strong>display</strong> ได้ถูกเปลี่ยนโดยเอนจินเป็น <strong>block</strong> เนื่องจากมีองค์ประกอบแบบ <strong>floated<strong>
+inactive-css-property-is-impossible-to-override-in-visited = ไม่สามารถเขียนทับ <strong>{ $property }</strong> เนื่องจากข้อจำกัดของ <strong>:visited</strong>
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจากไม่ใช่องค์ประกอบที่ถูกจัดตำแหน่ง
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจากไม่ได้ตั้งค่า <strong>overflow:hidden</strong>
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -39,9 +43,15 @@ inactive-css-not-grid-or-flex-container-fix = ลองเพิ่ม <strong>d
 inactive-css-not-grid-or-flex-item-fix = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> หรือ <strong>display:inline-flex</strong> { learn-more }
 inactive-css-not-grid-item-fix = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:inline-grid</strong> ไปยังข้อมูลหลักของรายการ { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, หรือ <strong>columns:2</strong> { learn-more }
+inactive-css-not-grid-or-flex-item-fix-2 = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> หรือ <strong>display:inline-flex</strong> { learn-more }
+inactive-css-not-grid-item-fix-2 = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:inline-grid</strong> ไปยังข้อมูลหลักขององค์ประกอบ { learn-more }
 inactive-css-not-grid-container-fix = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:inline-grid</strong> { learn-more }
 inactive-css-not-flex-item-fix = ลองเพิ่ม <strong>display:flex</strong> หรือ <strong>display:inline-flex</strong> ไปยังข้อมูลหลักของรายการ { learn-more }
+inactive-css-not-flex-item-fix-2 = ลองเพิ่ม <strong>display:flex</strong> หรือ <strong>display:inline-flex</strong> ไปยังข้อมูลหลักขององค์ประกอบ { learn-more }
 inactive-css-not-flex-container-fix = ลองเพิ่ม <strong>display:flex</strong> หรือ <strong>display:inline-flex</strong> { learn-more }
 inactive-css-not-inline-or-tablecell-fix = ลองเพิ่ม <strong>display:inline</strong> หรือ <strong>display:table-cell</strong> { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = ลองเพิ่ม <strong>display:inline-block</strong> หรือ <strong>display:block</strong> { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = ลองเพิ่ม <strong>display:inline-block</strong> { learn-more }
+inactive-css-not-display-block-on-floated-fix = ลองเอา <strong>float</strong> ออกหรือเพิ่ม <strong>display:block</strong> { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = ลองตั้งค่าคุณสมบัติ <strong>position</strong> เป็นอย่างอื่นนอกจาก <strong>static</strong> { learn-more }
+inactive-text-overflow-when-no-overflow-fix = ลองเพิ่ม <strong>overflow:hidden</strong> { learn-more }
