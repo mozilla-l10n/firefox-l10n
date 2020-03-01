@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "ش">
 <!ENTITY exitFullScreenCmd.label "غادر ملء الشاشة">
 <!ENTITY exitFullScreenCmd.accesskey "ش">
+
 <!ENTITY fullScreenCmd.label "ملء الشاشة">
 <!ENTITY fullScreenCmd.accesskey "ش">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -157,6 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.syncSettings.label "إعدادات &syncBrand.shortName.label;…">
 
 <!ENTITY pictureInPictureHideToggle.label "أخفِ زر تفعيل/تعطيل الڤديوهات المعترِضة">
+<!ENTITY pictureInPictureHideToggle.accesskey "خ">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -173,7 +175,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "إعدادات الحساب">
 <!ENTITY fxa.menu.manageAccount2.label "أدِر الحساب">
 <!ENTITY fxa.menu.signOut.label "اخرج…">
-<!ENTITY fxa.menu.deviceSettings.label "إعدادات الجهاز">
 <!ENTITY fxa.menu.setupSync.label "اضبط &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -243,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "ق">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "اذهب للعنوان في شريط الموقع">
 <!ENTITY printButton.label            "اطبع">
 <!ENTITY printButton.tooltip          "اطبع هذه الصفحة">
@@ -495,6 +497,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "المزيد">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "ابحث أو أدخل عنوانا">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -628,6 +631,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "علِّم هذا الإطار">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ط">
+
 <!ENTITY pageAction.copyLink.label    "انسخ الرابط">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -641,9 +645,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "أرسل الرابط بالبريد…">
 <!ENTITY emailPageCmd.accesskey       "س">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "احفظ الصفحة باسم…">
 <!ENTITY savePageCmd.accesskey        "س">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "س">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
