@@ -125,6 +125,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = აკრიფეთ ნაკლები, მონახეთ მეტი: გამოიყენეთ { $engineName } საძიებოდ პირდაპირ მისამართების ველიდან.
 urlbar-search-tips-redirect = დაიწყეთ ძიება და იხილეთ შემოთავაზებები { $engineName }-იდან და მონახულებული გვერდების ისტორიიდან.
+urlbar-search-tips-redirect-2 = დაიწყეთ ძიება და შემოთავაზებებს მოგაწვდით { $engineName } ან იხილავთ დათვალიერების ისტორიიდან.
 
 ##
 
