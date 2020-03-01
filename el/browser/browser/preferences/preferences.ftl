@@ -203,6 +203,12 @@ advanced-fonts =
 colors-settings =
     .label = Χρώματα...
     .accesskey = Χ
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Ζουμ
+preferences-default-zoom = Προεπιλεγμένο ζουμ
+    .accesskey = ζ
+preferences-default-zoom-value =
+    .label = { $percentage }%
 language-header = Γλώσσα
 choose-language-description = Επιλέξτε την προτιμώμενη γλώσσα για την εμφάνιση των ιστοσελίδων
 choose-button =
