@@ -487,13 +487,13 @@
 <!ENTITY filtersCmd2.label "Filtriloj de mesaĝoj">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Apliki filtrilojn al mesaĝujo">
-<!ENTITY filtersApply.accesskey "R">
-<!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
-<!ENTITY filtersApplyToSelection.accesskey "u">
-<!ENTITY filtersApplyToMessage.label "Run Filters on Message">
-<!ENTITY filtersApplyToMessage.accesskey "u">
-<!ENTITY runJunkControls.label "Run Junk Mail Controls on Folder">
-<!ENTITY runJunkControls.accesskey "C">
+<!ENTITY filtersApply.accesskey "u">
+<!ENTITY filtersApplyToSelection.label "Apliki filtrilojn al elektitaj mesaĝoj">
+<!ENTITY filtersApplyToSelection.accesskey "m">
+<!ENTITY filtersApplyToMessage.label "Apliki filtrilojn al mesaĝo">
+<!ENTITY filtersApplyToMessage.accesskey "m">
+<!ENTITY runJunkControls.label "Rekoni trudmesaĝojn en mesaĝujo">
+<!ENTITY runJunkControls.accesskey "t">
 <!ENTITY deleteJunk.label "Delete Mail Marked as Junk in Folder">
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Import…">
