@@ -20,6 +20,8 @@ lockwise-header-content = { -lockwise-brand-name } आपके पासवर�
 lockwise-header-content-logged-in = अपने पासवर्ड को अपने सभी उपकरणों पर सुरक्षापूर्ण तरीके से संग्रहित और सिंक करें।
 protection-report-view-logins-button = लॉगिन देखें
     .title = सहेजे गए लॉगिन पर जाएँ
+lockwise-no-logins-card-content = किसी भी उपकरण पर { -brand-short-name } में सहेजे गए पासवर्ड का उपयोग करें।
+lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> और <a data-l10n-name="lockwise-ios-inline-link">iOS</a> के लिए { -lockwise-brand-name }
 turn-on-sync = { -sync-brand-short-name } चालू करें…
     .title = सिंक वरीयताओं पर जाएँ
 manage-connected-devices = उपकरणों को प्रबंधित करें…
@@ -50,6 +52,7 @@ info-known-breaches-found =
         [one] ज्ञात डेटा विच्छेद ने आपकी जानकारी को उजागर कर दिया है
        *[other] ज्ञात डेटा विच्छेदों ने आपकी जानकारी को उजागर कर दिया है
     }
+full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> पर पूरी रिपोर्ट दिखाएं
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -71,4 +74,11 @@ bar-tooltip-fingerprinter =
         { $count ->
             [one] { $count } फिंगरप्रिंटर ({ $percentage }%)
            *[other] { $count } फिंगरप्रिंटर ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = क्रिप्टोमाइनर
+    .aria-label =
+        { $count ->
+            [one] { $count } क्रिप्टोमाइनर ({ $percentage }%)
+           *[other] { $count } क्रिप्टोमाइनर ({ $percentage }%)
         }
