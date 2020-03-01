@@ -8,7 +8,7 @@ safeb-blocked-unwanted-page-title = 방문하려는 사이트가 위험한 프�
 safeb-blocked-harmful-page-title = 방문하려는 사이트가 악성 코드를 포함할 수 있음
 safeb-blocked-phishing-page-short-desc = 소프트웨어를 설치하거나 비밀번호나 신용카드 정보와 같은 개인 정보가 들어날 수 있는 행동을 하도록 속일 수 있기 때문에 { -brand-short-name }가 이 페이지를 차단하였습니다.
 safeb-blocked-malware-page-short-desc = 컴퓨터의 개인 정보를 훔치거나 지울 수 있는 악성 코드를 설치할 수 있기 때문에 { -brand-short-name }가 페이지를 차단하였습니다.
-safeb-blocked-unwanted-page-short-desc = 브라우징 경험을 해칠 수 있는 프로그램을 설치하도록 속일 수 있기 때문(예를 들어 첫페이지를 바꾸거나 방문한 사이트에 광고를 추가)에 { -brand-short-name }가 이 페이지를 차단하였습니다.
+safeb-blocked-unwanted-page-short-desc = 탐색 경험을 해칠 수 있는 프로그램을 설치하도록 속일 수 있기 때문(예를 들어 첫페이지를 바꾸거나 방문한 사이트에 광고를 추가)에 { -brand-short-name }가 이 페이지를 차단하였습니다.
 safeb-blocked-harmful-page-short-desc = 사용자 정보(예를 들어 사진, 비밀번호, 메시지, 신용카드)를 훔치거나 지울 수 있는 위험한 앱을 설치할 수 있기 때문에 { -brand-short-name }가 이 페이지를 차단하였습니다.
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>의 자문을 받음
 safeb-palm-accept-label = 뒤로 가기

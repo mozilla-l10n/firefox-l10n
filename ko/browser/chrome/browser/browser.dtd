@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "브라우저가 원격 제어중">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "웹 인증 패널 열기">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "브라우징 활동 권한 패널 열기">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "탐색 활동 권한 패널 열기">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "사이트에서 카메라와 마이크를 사용할지 관리">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "사이트에서 마이크를 사용할지 관리">
@@ -1050,7 +1050,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY uiTour.infoPanel.close "닫기">
 
 <!ENTITY panicButton.thankyou.msg1                "최근 기록이 삭제되었습니다.">
-<!ENTITY panicButton.thankyou.msg2                "안전한 브라우징!">
+<!ENTITY panicButton.thankyou.msg2                "안전한 탐색!">
 <!ENTITY panicButton.thankyou.buttonlabel         "감사합니다!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM에 대해 더 알아보기…">

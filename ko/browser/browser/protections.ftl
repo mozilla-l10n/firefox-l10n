@@ -32,7 +32,7 @@ protection-report-header-details-custom = 보호 수준이 <b>사용자 지정</
 protection-report-page-title = 개인 정보 보호
 protection-report-content-title = 개인 정보 보호
 etp-card-title = 향상된 추적 방지 기능
-etp-card-content = 추적기는 온라인에서 사용자를 따라다니며 브라우징 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
+etp-card-content = 추적기는 온라인에서 사용자를 따라다니며 탐색 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
 protection-report-etp-card-content-custom-not-blocking = 현재 모든 보호 기능이 꺼져 있습니다. { -brand-short-name } 보호 설정에서 차단할 추적기를 선택하세요.
 protection-report-manage-protections = 설정 관리
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
