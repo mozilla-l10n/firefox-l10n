@@ -106,9 +106,13 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } से
 cfr-whatsnew-tracking-blocked-link-text = रिपोर्ट देखें
 cfr-whatsnew-lockwise-backup-title = अपने पासवर्ड का बैकअप लें
+cfr-whatsnew-lockwise-backup-body = अब एक सुरक्षित पासवर्ड बनाएं जिसका उपयोग आप कहीं भी साइन इन करने के लिए कर सकते हैं।
 cfr-whatsnew-lockwise-backup-link-text = बैकअप चालू करें
 cfr-whatsnew-lockwise-take-title = अपना पासवर्ड अपने साथ रखें
 cfr-whatsnew-lockwise-take-link-text = एप्प प्राप्त करें
+
+## Search Bar
+
 
 ## Picture-in-Picture
 
@@ -167,6 +171,8 @@ cfr-doorhanger-socialtracking-close-button = बंद करें
     .accesskey = C
 cfr-doorhanger-socialtracking-dont-show-again = इस तरह के संदेश मुझे दोबारा ना दिखाएं
     .accesskey = D
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ने इस पृष्ठ पर एक फिंगरप्रिंटर को अवरुद्ध किया
+cfr-doorhanger-fingerprinters-description = आपकी गोपनीयता मायने रखती है। { -brand-short-name } अब फिंगरप्रिंटर को अवरुद्ध करता है, जो आपको ट्रैक करने के लिए आपके उपकरण के बारे में विशिष्ट पहचान योग्य कुछ जानकारी एकत्र करता है।
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } ने इस पृष्ठ पर एक क्रिप्टोमाइनर को अवरुद्ध किया
 
 ## Enhanced Tracking Protection Milestones
