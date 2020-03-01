@@ -52,6 +52,9 @@ fingerprinter-tab-title = Detectores de huellas digitales
 fingerprinter-tab-content = Los detectores de huellas digitales (fingerprinters) recopilan la configuración de su navegador y su ordenador para crear un perfil de usted. Usando esta huella digital pueden seguirle a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Saber más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para obtener dinero digital. Los scripts de criptominería agotan la batería de su ordenador, lo ralentizan y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">Saber más</a>
+mobile-app-title = Bloquee los rastreadores de anuncios en más dispositivos
+mobile-app-card-content = Use el navegador móvil con protección integrada contra el rastreo de anuncios.
+mobile-app-links = El navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> y <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = No volverá a olvidar su contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } almacena de forma segura sus contraseñas en el navegador.
@@ -59,6 +62,9 @@ lockwise-header-content-logged-in = Guarde y sincronice sus contraseñas en todo
 protection-report-view-logins-button = Ver inicios de sesión
     .title = Ir a Inicios de sesión guardados
 lockwise-no-logins-content = Descargue la aplicación <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para llevarse sus contraseñas donde quiera que vaya.
+lockwise-mobile-app-title = Lleve sus contraseñas a todas partes
+lockwise-no-logins-card-content = Use contraseñas guardadas en { -brand-short-name } en cualquier dispositivo.
+lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> y <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
