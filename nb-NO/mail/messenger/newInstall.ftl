@@ -6,3 +6,4 @@ connection-window =
     .title = Viktige nyheter
 continue-button =
     .label = Fortsett
+main-text = Denne installasjonen av { -brand-short-name } har en ny profil. Den deler ikke e-postdata, passord, brukerinnstillinger og adressebøker med andre installasjoner av { -brand-product-name } (inkludert { -brand-product-name }, { -brand-product-name } Beta og { -brand-product-name } Daily) på denne datamaskinen.
