@@ -54,6 +54,9 @@ fingerprinter-tab-title = Generatoare de amprente digitale
 fingerprinter-tab-content = Generatoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Cu această amprentă digitală, te pot urmări pe diferite site-uri web. <a data-l10n-name="learn-more-link">Află mai multe</a>
 cryptominer-tab-title = Criptomineri
 cryptominer-tab-content = Criptomomerii folosesc puterea de calcul a sistemului tău pentru a mina bani digitali. Scripturile de criptominare îți golesc bateria, îți încetinesc calculatorul și îți pot crește factura la energie. <a data-l10n-name="learn-more-link">Află mai multe</a>
+mobile-app-title = Blochează elementele de urmărire din reclame pe mai multe dispozitive
+mobile-app-card-content = Folosește browserul pentru dispozitive mobile cu protecție integrată împotriva elementelor de urmărire din reclame.
+mobile-app-links = { -brand-product-name } Browser pentru <a data-l10n-name="android-mobile-inline-link">Android</a> și <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nu mai pierzi niciodată o parolă
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } îți stochează în siguranță parolele în browser.
@@ -61,6 +64,9 @@ lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parole
 protection-report-view-logins-button = Vezi datele de autentificare
     .title = Mergi la Date de autentificare salvate
 lockwise-no-logins-content = Instalează aplicația <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pentru a-ți lua parolele cu tine peste tot.
+lockwise-mobile-app-title = Ia-ți cu tine parolele oriunde
+lockwise-no-logins-card-content = Folosește parolele salvate în { -brand-short-name } pe orice dispozitiv.
+lockwise-app-links = { -lockwise-brand-name } pentru <a data-l10n-name="lockwise-android-inline-link"> Androi</a> și <a data-l10n-name = "lockwise-ios-inline-link" >iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

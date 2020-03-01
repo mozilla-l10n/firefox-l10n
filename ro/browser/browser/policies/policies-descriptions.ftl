@@ -88,5 +88,6 @@ policy-SecurityDevices = Instalează module PKCS #11.
 policy-SSLVersionMax = Setează versiunea maximă SSL.
 policy-SSLVersionMin = Setează versiunea minimă SSL.
 policy-SupportMenu = Adaugă un element personalizat din meniul de asistență în meniul Ajutor.
+policy-UserMessaging = Nu afișa anumite mesaje utilizatorului.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
