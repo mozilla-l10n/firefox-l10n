@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Ekki nota milliþjóna fyrir
     .accesskey = n
 connection-proxy-noproxy-desc = Til dæmis: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Tengingar við localhost, 127.0.0.1, og :: 1 nota aldrei milliþjón.
 connection-proxy-autotype =
     .label = Sjálfvirkt URL fyrir stillingar á milliþjónum
     .accesskey = a
