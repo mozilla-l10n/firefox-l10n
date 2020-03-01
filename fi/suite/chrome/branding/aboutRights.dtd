@@ -22,6 +22,7 @@
 
 <!ENTITY rights.intro-point2a "SeaMonkey e.V ei anna sinulle mitään oikeuksia SeaMonkey-tavaramerkkeihin tai -logoihin. Voit lukea tarkempia lisätietoja tavaramerkeistä">
 
+<!ENTITY rights.intro-point2aa "&vendorShortName; ei anna sinulle mitään oikeuksia &quot;&brandFullName;&quot;-tavaramerkkeihin tai -logoihin. Voit lukea tarkempia lisätietoja tavaramerkeistä">
 <!ENTITY rights.intro-point2b "täältä">
 <!ENTITY rights.intro-point2c ".">
 
@@ -48,7 +49,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a '&brandFullName; tarjoaa valinnaisia verkkopohjaisia palveluita ("Palvelut"), jotka ovat käytettävissäsi tämän &brandShortName;:n binaariversion kanssa, kuten alla on kuvattu. Jotkut näistä palveluista (kuten lisäosien ehdotus ja päivitys, Safe Browsing tai sijaintitietoisen selaamisen ilmoitusominaisuus) ovat oletuksena käytössä.  Jos et halua käyttää mitään näistä palveluista tai alla olevia ehtoja ei voi hyväksyä, ohjeet tietyn ominaisuuden tai palvelun poistamiseksi käytöstä löytyy'>
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-aa '&vendorShortName;  tarjoaa valinnaisia verkkopohjaisia palveluita ("Palvelut"), jotka ovat käytettävissäsi tämän &brandShortName;:n binaariversion kanssa, kuten alla on kuvattu. Jotkut näistä palveluista (kuten lisäosien ehdotus ja päivitys, Safe Browsing tai sijaintitietoisen selaamisen ilmoitusominaisuus) ovat oletuksena käytössä.  Jos et halua käyttää mitään näistä palveluista tai alla olevia ehtoja ei voi hyväksyä, ohjeet tietyn ominaisuuden tai palvelun poistamiseksi käytöstä löytyy'>
 <!ENTITY rights3.webservices-b "täältä">
 <!ENTITY rights3.webservices-c ". Muut ominaisuudet ja palvelut voi ottaa käyttöön tai poistaa käytöstä sovellusasetuksissa.">
 
@@ -69,6 +72,7 @@
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing -toiminto on nyt otettu pois päältä">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Sijaintitietoinen selaus:">
 <!ENTITY rights.locationawarebrowsing-b "on aina valinnainen. Sijaintitietoja ei ikinä lähetetä ilman hyväksyntääsi. Jos haluat poistaa toiminnon kokonaan, tee seuraavasti:">
 <!ENTITY rights.locationawarebrowsing-term1 "Avaa sovelluksen asetukset">
 <!ENTITY rights.locationawarebrowsing-term2 "Valitse &security.label;-paneeli päätasolta">
