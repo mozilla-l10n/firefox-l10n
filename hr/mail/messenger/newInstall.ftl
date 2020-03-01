@@ -6,3 +6,4 @@ connection-window =
     .title = Važne vijesti
 continue-button =
     .label = Nastavi
+main-text = Ova { -brand-short-name } instalacija ima novi profil. Ona ne dijeli podatke e-pošte, lozinke, korisničke postavke i adresare s drugim { -brand-product-name } instalacijama na ovom računalu (uključujući { -brand-product-name }, { -brand-product-name } Beta i { -brand-product-name } Daily).
