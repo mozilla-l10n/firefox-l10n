@@ -26,8 +26,10 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Jotkin &brandShortName;-ominaisuudet, kuten kaatumisten ilmoitustyökalu, antavat mahdollisuuden lähettää palautetta &vendorShortName;lle. Lähettämällä palautetta annat &vendorShortName;lle luvan käyttää lähetettyjä tietoja parantamaan tuotetta, julkaisemaan lähetetyn palautteen verkkosivuilla ja jakelemaan lähetettyjä palautetietoja.">
 
 <!-- point 2da is technically point 3. in the list -->
+<!ENTITY rights.intro-point2da "Jotkin &brandShortName;-ominaisuudet, kuten kaatumisten ilmoitustyökalu, antavat mahdollisuuden lähettää palautetta &vendorShortName;lle. Lähettämällä palautetta annat &vendorShortName;lle luvan käyttää lähetettyjä tietoja parantamaan tuotetta, julkaisemaan lähetetyn palautteen verkkosivuilla ja jakelemaan lähetettyjä palautetietoja.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName;n tietosuojakäytäntö on luettavissa ">
@@ -47,6 +49,8 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-b "täältä">
+<!ENTITY rights3.webservices-c ". Muut ominaisuudet ja palvelut voi ottaa käyttöön tai poistaa käytöstä sovellusasetuksissa.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Lisäosapalvelut: ">
@@ -65,6 +69,8 @@
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing -toiminto on nyt otettu pois päältä">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-term1 "Avaa sovelluksen asetukset">
+<!ENTITY rights.locationawarebrowsing-term4 "Sijaintitietoinen selaus on nyt poistettu käytöstä">
 
 <!-- points 0-6 text for branded builds -->
 
