@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "μ">
 <!ENTITY  newContactCmd.label "Επαφή Βιβλίου Διευθύνσεων…">
 <!ENTITY  newContactCmd.accesskey "Ε">
+<!ENTITY openMenuCmd.label "Άνοιγμα">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
 <!ENTITY openMessageFileCmd.accesskey "ν">
 <!ENTITY saveAsMenu.label "Αποθήκευση ως">
