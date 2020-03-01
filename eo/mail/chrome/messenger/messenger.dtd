@@ -492,15 +492,15 @@
 <!ENTITY filtersApplyToSelection.accesskey "m">
 <!ENTITY filtersApplyToMessage.label "Apliki filtrilojn al mesaĝo">
 <!ENTITY filtersApplyToMessage.accesskey "m">
-<!ENTITY runJunkControls.label "Rekoni trudmesaĝojn en mesaĝujo">
+<!ENTITY runJunkControls.label "Rekoni trudmesaĝojn en tiu ĉi mesaĝujo">
 <!ENTITY runJunkControls.accesskey "t">
-<!ENTITY deleteJunk.label "Delete Mail Marked as Junk in Folder">
-<!ENTITY deleteJunk.accesskey "D">
-<!ENTITY importCmd.label "Import…">
-<!ENTITY importCmd.accesskey "m">
-<!ENTITY clearRecentHistory.label "Clear Recent History…">
-<!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd2.label "Account Settings">
+<!ENTITY deleteJunk.label "Forigi trudmesaĝojn el tiu ĉi mesaĝujo">
+<!ENTITY deleteJunk.accesskey "t">
+<!ENTITY importCmd.label "Enporti…">
+<!ENTITY importCmd.accesskey "n">
+<!ENTITY clearRecentHistory.label "Forviŝi ĵusan historion…">
+<!ENTITY clearRecentHistory.accesskey "v">
+<!ENTITY accountManagerCmd2.label "Agordoj pri kontoj">
 <!ENTITY accountManagerCmd2.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
