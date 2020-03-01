@@ -5,6 +5,7 @@
 title = Pomembne novice
 heading = Spremembe v vašem profilu { -brand-short-name }
 changed-title = Kaj se je spremenilo?
+changed-desc-profiles = Ta namestitev { -brand-short-name }a ima nov profil. Profil je zbirka datotek, v katerih { -brand-product-name } shranjuje podatke, kot so e-pošta, gesla, uporabniške nastavitve in imeniki.
 lost = <b>Nobenih osebnih podatkov ali prilagoditev niste izgubili.</b> Če ste na tem računalniku že shranili podatke v { -brand-product-name }, so ti še vedno na voljo v drugi namestitvi { -brand-product-name }.
 options-title = Kakšne so moje možnosti?
 options-do-nothing = Če ne boste storili ničesar, bodo podatki vašega profila za { -brand-short-name } drugačni od podatkov profilov za druge različice { -brand-product-name }a.
