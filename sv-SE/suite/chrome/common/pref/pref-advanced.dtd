@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Avancerat">
+<!ENTITY pref.advanced.title              "Avancerat">
 
-<!ENTITY systemPref.caption         "Systeminställningar">
-<!ENTITY systemPrefCheck.label      "Använd inställningar från systemet">
-<!ENTITY systemPrefCheck.accesskey  "ä">
-<!ENTITY systemPref.desc            "Med detta valalternativ tar &brandShortName; över inställningar från systemet. Dessa systeminställningar kommer att åsidosätta &brandShortName;s inställningar.">
+<!ENTITY systemPref.caption               "Systeminställningar">
+<!ENTITY systemPrefCheck.label            "Använd inställningar från systemet">
+<!ENTITY systemPrefCheck.accesskey        "ä">
+<!ENTITY systemPref.desc                  "Med detta valalternativ tar &brandShortName; över inställningar från systemet. Dessa systeminställningar kommer att åsidosätta &brandShortName;s inställningar.">
 
-<!ENTITY prefCheckDefault.caption   "Systemintegrering">
-<!ENTITY prefCheckDefaultClient.label "Kontrollera inställningar för förvalda program vid uppstart">
+<!ENTITY prefCheckDefault.caption         "Systemintegrering">
+<!ENTITY prefCheckDefaultClient.label     "Kontrollera inställningar för förvalda program vid uppstart">
 <!ENTITY prefCheckDefaultClient.accesskey "K">
 
-<!ENTITY crashReports.caption       "Rapportera krascher">
-<!ENTITY submitCrashes.label        "Skicka kraschrapporter">
-<!ENTITY submitCrashes.accesskey    "S">
+<!ENTITY crashReports.caption             "Rapportera krascher">
+<!ENTITY submitCrashes.label              "Skicka kraschrapporter">
+<!ENTITY submitCrashes.accesskey          "S">
 
 <!ENTITY devTools.caption                 "Utvecklarverktyg">
-<!ENTITY allowDebugger.label              "Tillåt en avlusare att koppla sig till &brandShortName;">
+<!ENTITY allowDebugger.label              "Tillåt en felsökare att koppla sig till &brandShortName;">
 <!ENTITY allowDebugger.accesskey          "a">
 <!ENTITY allowRemoteConnections.label     "Tillåt anslutningar från andra datorer">
 <!ENTITY allowRemoteConnections.accesskey "d">
