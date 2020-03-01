@@ -80,9 +80,24 @@ about-debugging-runtime-tabs =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = عوامل
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = پروفائل کی کارکردگی
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = منقطع کریں
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = پروفائلر
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = ابھی تک کچھ نہیں
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = معائنہ کریں
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = دوبارہ لوڈ کریں
@@ -93,3 +108,10 @@ about-debugging-tmp-extension-remove-button = ہٹائیں
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = موجودہ مقام
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = شروع کریں
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = مرکزی عمل
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = تفصیلات

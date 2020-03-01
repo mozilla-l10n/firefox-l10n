@@ -12,6 +12,8 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text for the button to unregister a Service Worker. Displayed for active Service Workers.
+serviceworker-worker-unregister = ریجسٹریشن ختم کریں
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = آغاز
@@ -35,6 +37,8 @@ serviceworker-worker-status-registering = رجسٹر کر رہا ہے
 manifest-item-warnings = نقائص اور انتباہات
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = شناخت
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = پيشکاری
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = آئیکن
 # Text displayed at manifest icons to label their purpose, as declared
