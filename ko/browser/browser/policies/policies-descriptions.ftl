@@ -18,7 +18,7 @@ policy-BlockAboutConfig = about:config 페이지 접근을 차단합니다.
 policy-BlockAboutProfiles = about:profiles 페이지 접근을 차단합니다.
 policy-BlockAboutSupport = about:support 페이지 접근을 차단합니다.
 policy-Bookmarks = 북마크 도구 모음, 북마크 메뉴 또는 그 안의 특정 폴더에 북마크를 만듭니다.
-policy-CaptivePortal = 종속 포털 지원을 사용 또는 사용하지 않게 합니다.
+policy-CaptivePortal = 종속 포털 지원을 사용하거나 사용하지 않게 합니다.
 policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인증서를 사용합니다.
 policy-Cookies = 웹 사이트의 쿠키 설정을 허용하거나 거부합니다.
 policy-DefaultDownloadDirectory = 기본 다운로드 디렉터리를 설정합니다.
@@ -49,13 +49,13 @@ policy-DNSOverHTTPS = DNS over HTTPS (HTTPS를 통한 DNS)를 구성합니다.
 policy-DontCheckDefaultBrowser = 시작할 때 기본 브라우저 확인을 하지 않습니다.
 policy-DownloadDirectory = 다운로드 디렉터리를 설정하고 잠급니다.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = 콘텐츠 차단을 활성화 하거나 비활성화 하고 선택적으로 고정합니다.
+policy-EnableTrackingProtection = 콘텐츠 차단을 사용하거나 사용하지 않게 하고 선택적으로 잠급니다.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = 확장 기능을 설치하거나 제거, 잠급니다. 설치 옵션은 URL이나 경로를 파라메터로 받습니다. 설치 제거와 잠금 옵션은 확장기능의 ID를 받습니다.
 policy-ExtensionSettings = 확장 기능 설치의 모든 측면을 관리합니다.
-policy-ExtensionUpdate = 확장 기능 자동 업데이트를 사용 또는 사용하지 않게 합니다.
+policy-ExtensionUpdate = 확장 기능 자동 업데이트를 사용하거나 사용하지 않게 합니다.
 policy-FirefoxHome = Firefox 홈을 구성합니다.
 policy-FlashPlugin = 플래시 플러그인의 사용을 허용하거나 거부합니다.
 policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕니다.
@@ -64,8 +64,8 @@ policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
 policy-InstallAddonsPermission = 특정 웹 사이트가 부가 기능을 설치할 수 있게 허용합니다.
 policy-LegacyProfiles = 각 설치별로 다른 프로필 사용을 강제하는 기능을 비활성화 합니다.
 policy-LocalFileLinks = 특정 웹 사이트가 로컬 파일을 링크하도록 허용합니다.
-policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용 또는 사용하지 않게 합니다.
-policy-NewTabPage = 새 탭 페이지를 활성화하거나 비활성화합니다.
+policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용하거나 사용하지 않게 합니다.
+policy-NewTabPage = 새 탭 페이지를 사용하거나 사용하지 않게 합니다.
 policy-NoDefaultBookmarks = { -brand-short-name } 기본 북마크 번들과 스마트 북마크(자주 방문, 최근 태그)가 생성되지 않게 합니다. 참고: 이 정책은 프로필을 처음으로 실행하기 전에만 효과적입니다.
 policy-OfferToSaveLogins = { -brand-short-name }가 로그인과 비밀번호 기억을 제공하도록 허용하는 설정을 강제합니다. True와 false 값을 사용할 수 있습니다.
 policy-OfferToSaveLoginsDefault = 저장된 로그인과 비밀번호를 기억하도록 { -brand-short-name }가 제공하는 기본값을 설정하세요. true 및 false 값이 모두 허용됩니다.
@@ -82,7 +82,7 @@ policy-RequestedLocales = 프로그램의 요청된 로케일의 목록을 설�
 policy-SanitizeOnShutdown2 = 종료시 탐색 데이터를 삭제합니다.
 policy-SearchBar = 검색 바의 기본 위치를 설정합니다. 사용자가 다시 재설정 할 수 있습니다.
 policy-SearchEngines = 검색 엔진 설정을 구성합니다. 이 정책은 확장 지원 버전(ESR)에서만 가능합니다.
-policy-SearchSuggestEnabled = 검색 제안을 활성화하거나 비활성화합니다.
+policy-SearchSuggestEnabled = 검색 제안을 사용하거나 사용하지 않게 합니다.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 모듈을 설치합니다.
 policy-SSLVersionMax = 최대 SSL 버전을 설정합니다.
