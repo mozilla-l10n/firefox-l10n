@@ -118,6 +118,9 @@ onboarding-mobile-phone-text = IOS या Android के लिए { -brand-prod
 # browser.
 onboarding-mobile-phone-button = मोबाइल ब्राउज़र डाउनलोड करें
 onboarding-send-tabs-title = तुरंत अपने आप को टैब्स भेजें
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = लिंक कॉपी किए या ब्राउज़र छोड़े बिना आसानी से अपने उपकरणों के बीच पृष्ठ साझा करें।
 onboarding-send-tabs-button = Send Tabs का उपयोग करना शुरू करें
 onboarding-pocket-anywhere-title = कहीं भी पढ़ें और सुनें
 onboarding-pocket-anywhere-text2 = अपने पसंदीदा सामग्री को { -pocket-brand-name } ऐप के साथ ऑफ़लाइन सहेजें और जब भी यह आपके लिए सुविधाजनक हो, तो पढ़ें और देखें।
@@ -126,6 +129,7 @@ onboarding-lockwise-passwords-title = हर जगह अपना पासव
 onboarding-lockwise-passwords-text2 = जिन पासवर्ड को आप सहेजते हैं उन्हें सुरक्षित रखें और आसानी से { -lockwise-brand-name } के साथ अपने खाते में लॉग इन करें।
 onboarding-lockwise-passwords-button2 = ऐप प्राप्त करें
 onboarding-lockwise-strong-passwords-title = मजबूत पासवर्ड बनाएं और संग्रहित करें
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } उसी वक्त मजबूत पासवर्ड बनाता है और उन सभी को एक जगह सहेजता है।
 onboarding-lockwise-strong-passwords-button = अपने लॉगिन का प्रबंधन करें
 onboarding-facebook-container-title = Facebook के साथ सीमाएँ निर्धारित करें
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } आपकी प्रोफ़ाइल को हर चीज से अलग रखता है, जिससे Facebook के लिए आपको विज्ञापनों के साथ लक्षित करना कठिन हो जाता है।
