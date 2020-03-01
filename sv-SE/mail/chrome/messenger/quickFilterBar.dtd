@@ -148,7 +148,7 @@
      "no results" is longer than the "#### messages" case, then size for that.
      -->
 <!ENTITY quickFilterBar.resultsLabel.minWidth
-         "120">
+         "100">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
      This is the base of the empty text for the text search box.  We replace
