@@ -142,6 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "अपने साथ Firefox चुने">
+<!ENTITY fxa.signin.description.label "अपने सभी उपकरणों पर अपना बुकमार्क, इतिहास, पासवर्ड और अन्य सेटिंग प्राप्त करें।">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
