@@ -465,21 +465,26 @@
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Aldonaĵoj">
-<!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "Activity Manager">
-<!ENTITY activitymanager.accesskey "v">
-<!ENTITY imAccountsStatus.label "Stato de tujmesaĝiloj">
-<!ENTITY imAccountsStatus.accesskey "C">
-<!ENTITY imStatus.available          "Available">
-<!ENTITY imStatus.unavailable        "Unavailable">
-<!ENTITY imStatus.offline            "Offline">
-<!ENTITY imStatus.showAccounts       "Show Accounts…">
-<!ENTITY joinChatCmd.label "Join Chat…">
-<!ENTITY joinChatCmd.accesskey "t">
-<!ENTITY savedFiles.label "Saved Files">
-<!ENTITY savedFiles.accesskey "l">
+<!ENTITY addons.accesskey "j">
+<!ENTITY addonPrefs.label "Preferoj de aldonaĵo">
+<!ENTITY addonPrefs.accesskey "P">
+<!ENTITY addonPrefsUnix.label "Preferoj de aldonaĵo">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Neniu aldonaĵo por agordi.">
+<!ENTITY activitymanager.label "Aktiveca kontrolilo">
+<!ENTITY activitymanager.accesskey "k">
+<!ENTITY imAccountsStatus.label "Stato de tujmesaĝilo">
+<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imStatus.available          "disponebla">
+<!ENTITY imStatus.unavailable        "nedisponebla">
+<!ENTITY imStatus.offline            "eksterreta">
+<!ENTITY imStatus.showAccounts       "Montri kontojn">
+<!ENTITY joinChatCmd.label "Aliĝi al interparolado…">
+<!ENTITY joinChatCmd.accesskey "i">
+<!ENTITY savedFiles.label "Konservitaj dosieroj">
+<!ENTITY savedFiles.accesskey "d">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Message Filters">
+<!ENTITY filtersCmd2.label "Filtriloj de mesaĝoj">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Run Filters on Folder">
 <!ENTITY filtersApply.accesskey "R">
