@@ -98,7 +98,7 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Kích hoạt trình duyệt chrome và các hộp công cụ gỡ lỗi tiện ích
 options-enable-chrome-tooltip =
-    .title = Bật tùy chọn này sẽ cho phép bạn sử dụng các công cụ dành cho nhà phát triển khác nhau trong ngữ cảnh trình duyệt (thông qua Công cụ > Nhà phát triển web > Hộp công cụ trình duyệt) và gỡ lỗi các tiện ích bổ sung từ trình quản lý tiện ích
+    .title = Bật tùy chọn này sẽ cho phép bạn sử dụng các công cụ dành cho nhà phát triển khác nhau trong ngữ cảnh trình duyệt (thông qua Công cụ > Nhà phát triển web > Hộp công cụ trình duyệt) và gỡ lỗi các tiện ích từ trình quản lý tiện ích
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Cho phép gỡ lỗi từ xa
 options-enable-remote-tooltip =
@@ -113,11 +113,6 @@ options-source-maps-tooltip =
     .title = Nếu bạn bật tùy chọn này, các nguồn sẽ được ánh xạ trong các công cụ.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Chỉ phiên hiện tại, tải lại trang
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Trình gỡ lỗi
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Hiện dữ liệu nền tảng Gecko
