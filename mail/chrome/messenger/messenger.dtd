@@ -486,7 +486,7 @@
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Filtriloj de mesaĝoj">
 <!ENTITY filtersCmd2.accesskey "F">
-<!ENTITY filtersApply.label "Run Filters on Folder">
+<!ENTITY filtersApply.label "Apliki filtrilojn al mesaĝujo">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "Run Filters on Selected Messages">
 <!ENTITY filtersApplyToSelection.accesskey "u">
