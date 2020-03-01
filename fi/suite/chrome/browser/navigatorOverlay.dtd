@@ -122,8 +122,16 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "E">
 <!ENTITY cookieBlockImagesMsg.label "Tälle sivustolle kuuluvia kuvia ei ladata milloinkaan.">
 
+<!ENTITY popupsMessageChangeTitle.label "Ponnahdusikkunoiden oikeudet muuttuneet">
+<!ENTITY popupAllowCmd.label "Salli tämän sivuston ponnahdusikkunat">
+<!ENTITY popupAllowCmd.accesskey "S">
+<!ENTITY popupAllowMsg.label "Tämän sivuston ponnahdusikkunat näytetään aina.">
+<!ENTITY popupDefaultCmd.label "Käytä oletusasetuksia">
+<!ENTITY popupDefaultCmd.accesskey "K">
+<!ENTITY popupDefaultMsg.label "Tämän verkkosivuston ponnahdusikkunat näytetään oletusasetusten perusteella.">
 <!ENTITY popupBlockCmd.label "Estä tämän sivuston ponnahdusikkunat">
 <!ENTITY popupBlockCmd.accesskey "E">
+<!ENTITY popupBlockMsg.label "Tämän sivuston ponnahdusikkunoita ei näytetä.">
 <!ENTITY popupsManage.label "Hallitse ponnahdusikkunoita">
 <!ENTITY popupsManage.accesskey "H">
 

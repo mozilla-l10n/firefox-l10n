@@ -39,6 +39,8 @@
 <!ENTITY navigationToolbar.tooltip        "Navigointipalkki">
 
 <!ENTITY editBookmark.done.label "Valmis">
+<!ENTITY editBookmark.cancel.label "Peruuta">
+<!ENTITY editBookmark.removeBookmark.accessKey "P">
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Edellinen">
@@ -56,8 +58,9 @@
 <!ENTITY printButton.label            "Tulosta">
 <!ENTITY printButton.tooltip          "Tulosta sivu">
 
-<!ENTITY throbber.tooltip             "Siirry &vendorShortName;n kotisivulle">
+<!ENTITY throbber.tooltip             "Siirry &vendorShortName;:n kotisivulle">
 
+<!ENTITY throbber.tooltip2            "Siirry &brandShortName;n kotisivulle">
 
 <!ENTITY locationBar.tooltip          "Kirjoita osoite, hakusana tai pikakomento">
 <!ENTITY locationBar.accesskey        "O">
@@ -84,3 +87,5 @@
 <!ENTITY viewCertManager.label       "Avaa varmenteiden hallinta">
 <!ENTITY viewCertManager.accesskey   "h">
 
+<!ENTITY zoomIn.tooltiptext          "Suurenna">
+<!ENTITY zoomOut.tooltiptext         "Pienennä">
