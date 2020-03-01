@@ -491,6 +491,7 @@ search-bar-shown =
     .label = औज़ार पट्टी में खोज पट्टी जोड़े
 search-engine-default-header = तयशुदा खोज इंजिन
 search-engine-default-desc = पता पट्टी और खोज पट्टी में उपयोग करने के लिए डिफ़ॉल्ट खोज इंजन का चयन करें.
+search-engine-default-private-desc-2 = केवल निजी विंडोज़ के लिए एक अलग तयशुदा खोज एंजिन चुनें
 search-separate-default-engine =
     .label = इस खोज इंजन का उपयोग निजी विंडोज में करें
     .accesskey = U
@@ -540,6 +541,9 @@ containers-header = पात्र टैब
 containers-add-button =
     .label = नया पात्र जोड़े
     .accesskey = A
+containers-new-tab-check =
+    .label = प्रत्येक नए टैब के लिए एक कंटेनर का चयन करें
+    .accesskey = S
 containers-preferences-button =
     .label = प्राथमिकताएँ
 containers-remove-button =
@@ -603,6 +607,10 @@ sync-signedin-settings-desc = चुने, { -brand-short-name } का उप�
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-now =
+    .labelnotsyncing = अभी सिंक करें
+    .accesskeynotsyncing = N
+    .labelsyncing = सिंक हो रहा है…
 
 ## The list of things currently syncing.
 
