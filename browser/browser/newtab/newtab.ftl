@@ -88,12 +88,12 @@ newtab-privacy-modal-button-done = 완료
 newtab-privacy-modal-header = 개인정보는 중요합니다.
 newtab-privacy-modal-paragraph =
     매력적인 이야기를 정리해서 보여주는 것에 추가 적으로 엄선된 스폰서로 부터
-    관련성높고 철저하게 검토된 콘텐츠를 보여줍니다. 안심하세요. 사용자의 브라우징
+    관련성높고 철저하게 검토된 콘텐츠를 보여줍니다. 안심하세요. 사용자의 탐색
     데이터는 { -brand-product-name }의 사본을 남겨두지 않습니다. — 우리와 스폰서 모두
     들여다 보지 않습니다.
 newtab-privacy-modal-paragraph-2 =
     매력적인 이야기를 정리해서 보여주는 것 뿐만 아니라, 엄선된 스폰서로 부터
-    관련성 높은 콘텐츠를 보여줍니다. 안심하세요. <strong>사용자의 브라우징 데이터는 
+    관련성 높은 콘텐츠를 보여줍니다. 안심하세요. <strong>사용자의 탐색 데이터는 
     { -brand-product-name }의 개인 사본을 남기지 않습니다</strong> — 저희와 스폰서 모두
     들여다보지 않습니다.
 newtab-privacy-modal-link = 새 탭에서 개인 정보 보호 작동 방식 알아보기
@@ -169,7 +169,7 @@ newtab-section-header-pocket = { $provider } 추천
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = 브라우징을 시작하면 최근 방문하거나 북마크한 좋은 글이나 영상, 페이지를 여기에 보여줍니다.
+newtab-empty-section-highlights = 탐색을 시작하면 최근 방문하거나 북마크한 좋은 글이나 영상, 페이지를 여기에 보여줍니다.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
