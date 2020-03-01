@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> không
 inactive-css-not-display-block-on-floated = Giá trị <strong>display</strong> đã được thay đổi bởi máy thành <strong>block</strong> vì phần tử là <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Nó không thể ghi đè <strong>{ $property }</strong> do hạn chế <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là phần tử được định vị.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì <strong>overflow:hidden</strong> không được đặt.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Hãy thử thê
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Hãy thử thêm <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Hãy thử xóa <strong>float</strong> hoặc thêm <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Hãy thử đặt thuộc tính <strong>position</strong> của nó thành một thứ khác ngoài <strong>static</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Hãy thử thêm <strong>overflow:hidden</strong>. { learn-more }
