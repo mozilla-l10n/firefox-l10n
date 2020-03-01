@@ -22,8 +22,6 @@ protection-report-view-logins-button = लॉगिन देखें
     .title = सहेजे गए लॉगिन पर जाएँ
 turn-on-sync = { -sync-brand-short-name } चालू करें…
     .title = सिंक वरीयताओं पर जाएँ
-manage-devices = उपकरणों को प्रबंधित करें
-lockwise-sync-not-syncing-devices = अन्य उपकरणों के लिए सिंक नही हो रहा है
 manage-connected-devices = उपकरणों को प्रबंधित करें…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
@@ -60,3 +58,17 @@ info-known-breaches-found =
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = सोशल मीडिया ट्रैकर
+    .aria-label =
+        { $count ->
+            [one] { $count } सोशल मीडिया ट्रैकर ({ $percentage }%)
+           *[other] { $count } सोशल मीडिया ट्रैकर ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = फिंगरप्रिंटर
+    .aria-label =
+        { $count ->
+            [one] { $count } फिंगरप्रिंटर ({ $percentage }%)
+           *[other] { $count } फिंगरप्रिंटर ({ $percentage }%)
+        }
