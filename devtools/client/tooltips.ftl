@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> nu are
 inactive-css-not-display-block-on-floated = Valoarea <strong>display</strong> a fost modificată de motor în <strong>block</strong> deoarece elementul este <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Imposibil de redefinit <strong>{ $property }</strong> din cauza restricției <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong>nu are niciun efect asupra acestui element pentru că nu este element poziționat.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nu are niciun efect asupra acestui element pentru că <strong>overflow:hidden</strong> nu este setat.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Încearcă să 
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Încearcă să adaugi <strong>display:block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Încearcă să elimini <strong>float</strong> sau să adaugi <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Încearcă să îi setezi proprietatea <strong>poziție</strong> pe altceva decât <strong>static</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Încearcă să adaugi <strong>overflow:hidden</strong>. { learn-more }
