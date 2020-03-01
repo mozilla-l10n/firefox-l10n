@@ -5,4 +5,5 @@
 title = Tärkeitä uutisia
 heading = Muutoksia { -brand-short-name }-profiiliisi
 changed-title = Mikä on muuttunut?
+resources = Resurssit
 about-pofiles-link = Tarkastele ja hallinnoi profiileitasi
