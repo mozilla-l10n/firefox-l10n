@@ -9,6 +9,7 @@ changed-desc-profiles = Esta instalação do { -brand-short-name } tem um novo p
 changed-desc-dedicated = Para tornar mais fácil e mais seguro mudar de uma instalação para outra do { -brand-product-name } (incluindo { -brand-product-name }, { -brand-product-name } Beta e { -brand-product-name } Daily), esta instalação agora tem um perfil dedicado. Ela não compartilha automaticamente suas informações salvas com outras instalações do { -brand-product-name }.
 lost = <b>Você não perdeu nenhum dado pessoal nem personalização.</b> Se você já tiver salvo informações no { -brand-product-name } neste computador, elas ainda estão disponíveis em outra instalação do { -brand-product-name }.
 options-title = Quais são minhas opções?
+options-do-nothing = Se não fizer nada, seus dados de perfil no { -brand-short-name } serão diferentes dos dados de perfil de outras instalações do { -brand-product-name }.
 resources = Recursos
 about-pofiles-link = Veja e gerencie seus perfis
 support-link = Como usar o gerenciador de perfis - Artigo de suporte
