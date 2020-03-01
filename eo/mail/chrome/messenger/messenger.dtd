@@ -459,13 +459,13 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Iloj">
 <!ENTITY tasksMenu.accesskey "l">
-<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
-<!ENTITY messengerCmd.accesskey "N">
-<!ENTITY addressBookCmd.label "Address Book">
-<!ENTITY addressBookCmd.accesskey "B">
+<!ENTITY messengerCmd.label "Retpoŝto kaj novaĵgrupoj">
+<!ENTITY messengerCmd.accesskey "R">
+<!ENTITY addressBookCmd.label "Adresaro">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "A">
+<!ENTITY addons.label "Aldonaĵoj">
+<!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Activity Manager">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Stato de tujmesaĝiloj">
