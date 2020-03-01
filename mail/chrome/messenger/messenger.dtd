@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "M">
 <!ENTITY  newContactCmd.label "Kontakto…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Malfermi">
+<!ENTITY openMenuCmd.accesskey "M">
 <!ENTITY openMessageFileCmd.label "Malfermi konservitan mesaĝon…">
 <!ENTITY openMessageFileCmd.accesskey "M">
 <!ENTITY saveAsMenu.label "Konservi kiel">
@@ -509,8 +511,8 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "k">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Developer Tools">
-<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devtoolsMenu.label "Iloj por programistoj">
+<!ENTITY devtoolsMenu.accesskey "l">
 <!ENTITY devToolboxCmd.label "Developer Toolbox">
 <!ENTITY devToolboxCmd.accesskey "T">
 <!ENTITY devToolboxCmd.commandkey "i">
