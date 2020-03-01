@@ -110,6 +110,11 @@ about-debugging-extension-location =
     .label = موجودہ مقام
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = شروع کریں
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = چل رہا ہے
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = روک دیا گیا ہے
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = رجسٹریشن کر رہا ہے
 # Displayed for service workers in runtime pages, to label the scope of a worker
