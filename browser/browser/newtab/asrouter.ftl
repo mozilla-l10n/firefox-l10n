@@ -94,12 +94,22 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Τι νέο υπάρχει
 cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
 cfr-whatsnew-tracking-protect-link-text = Προβολή της αναφοράς σας
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Αποκλεισμένος ιχνηλάτης
+       *[other] Αποκλεισμένοι ιχνηλάτες
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Από τις { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Προβολή αναφοράς
 cfr-whatsnew-lockwise-backup-link-text = Ενεργοποίηση των αντιγράφων ασφαλείας
 cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-icon-alt-text = Εικονίδιο μεγεθυντικού φακού
 
 ## Picture-in-Picture
 
@@ -125,6 +135,7 @@ cfr-doorhanger-sync-logins-ok-button = Ενεργοποίηση { -sync-brand-sh
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
+cfr-doorhanger-send-tab-recipe-header = Πάρτε αυτή τη συνταγή στην κουζίνα
 cfr-doorhanger-send-tab-ok-button = Δοκιμάστε την καρτέλα "Αποστολή"
     .accesskey = Δ
 
@@ -140,6 +151,8 @@ cfr-doorhanger-socialtracking-ok-button = Προβολή προστασίας
     .accesskey = Π
 cfr-doorhanger-socialtracking-close-button = Κλείσιμο
     .accesskey = Κ
+cfr-doorhanger-socialtracking-dont-show-again = Να μην εμφανιστούν ξανά τέτοια μηνύματα
+    .accesskey = Ν
 
 ## Enhanced Tracking Protection Milestones
 
