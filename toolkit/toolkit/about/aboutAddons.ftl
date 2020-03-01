@@ -273,7 +273,7 @@ manage-extensions-shortcuts =
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = 확장 기능 단축키 관리
     .accesskey = S
-shortcuts-no-addons = 활성화된 확장 기능이 없습니다.
+shortcuts-no-addons = 사용하는 확장 기능이 없습니다.
 shortcuts-no-commands = 다음 확장 기능에는 단축키가 없습니다:
 shortcuts-input =
     .placeholder = 단축키 입력
