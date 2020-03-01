@@ -70,7 +70,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Kích hoạt trình duyệt chrome và các hộp công cụ gỡ lỗi tiện ích">
-<!ENTITY options.enableChrome.tooltip3  "Bật tùy chọn này sẽ cho phép bạn sử dụng các công cụ dành cho nhà phát triển khác nhau trong ngữ cảnh trình duyệt (thông qua Công cụ > Nhà phát triển web > Hộp công cụ trình duyệt) và gỡ lỗi các tiện ích bổ sung từ trình quản lý tiện ích">
+<!ENTITY options.enableChrome.tooltip3  "Bật tùy chọn này sẽ cho phép bạn sử dụng các công cụ dành cho nhà phát triển khác nhau trong ngữ cảnh trình duyệt (thông qua Công cụ > Nhà phát triển web > Hộp công cụ trình duyệt) và gỡ lỗi các tiện ích từ trình quản lý tiện ích">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -135,11 +135,6 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Kích hoạt dấu thời gian">
 <!ENTITY options.timestampMessages.tooltip    "Nếu bạn bật lệnh tùy chọn này và đầu ra trong bảng điều khiển Web sẽ hiển thị dấu thời gian">
-
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Nhóm thông báo tương tự">
-<!ENTITY options.warningGroups.tooltip    "Khi được bật, các thông báo tương tự được đặt thành các nhóm">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
