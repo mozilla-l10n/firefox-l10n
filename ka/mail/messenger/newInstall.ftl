@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = მნიშვნელოვანი სიახლეები
+    .title = მნიშვნელოვანი ამბები
 continue-button =
     .label = განაგრძეთ
+main-text = ეს { -brand-short-name } ახალი პროფილითაა. მის ელფოსტის მონაცემებს, პაროლებს, მომხმარებლის პარამეტრებსა და მისამართების წიგნაკს არ იზიარებს სხვა დაყენებული ვერსიის { -brand-product-name } (მათ შორის { -brand-product-name }, { -brand-product-name } Beta და { -brand-product-name } Daily) ამ კომპიუტერზე.
