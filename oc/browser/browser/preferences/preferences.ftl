@@ -357,7 +357,9 @@ update-pref-write-failure-title = Fracàs d’escritura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Enregistrament impossible de las preferéncias. Impossible d’escriure dins lo fichièr : { $path }
+update-setting-write-failure-title = Error en enregistrar las preferéncias de mesas a jorn
 update-in-progress-title = Actualizacion en cors
+update-in-progress-message = Volètz que { -brand-short-name } contunhe amb aquesta mesa a jorn ?
 update-in-progress-ok-button = &Ignorar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -902,6 +904,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. Las pagina cargaràn normalament.
 content-blocking-etp-strict-desc = Proteccion refortida, pòt copar unes sites o contenguts.
+content-blocking-etp-custom-desc = Causissètz quins traçadors e scripts cal blocar.
 content-blocking-private-windows = Contengut utilizat per pistar dins las fenèstras de navegacion privada
 content-blocking-cross-site-tracking-cookies = Cookies de seguiment entre sites
 content-blocking-social-media-trackers = Traçadors de malhums socials
@@ -916,6 +919,7 @@ content-blocking-warning-title = Atencion !
 content-blocking-learn-how = Descobrissètz cossí far
 content-blocking-etp-warning-description = Lo blocatge de traçadors pòt aver una incidéncia sus las foncionalitats de certans sites. Tornatz cargar una pagina amb los traçadors per cargar tot lo contengut.
 content-blocking-warning-learn-how = M’ensenhar cossí far
+content-blocking-reload-description = Car tornar cargar los onglets per aplicar aquestas modificacions.
 content-blocking-reload-tabs-button =
     .label = Tornar cargar totes los onglets
     .accesskey = r
