@@ -9,6 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } a blocat { $count } traçador dempuèi la setmana passada.
        *[other] { -brand-short-name } a blocat { $count } traçadors dempuèi la setmana passada.
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> traçador blocat dempuèi lo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> traçadors blocats dempuèi lo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Traçadors blocats per { -brand-short-name } aquesta setmana
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
