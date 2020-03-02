@@ -50,7 +50,7 @@ update-setting-write-failure-message =
     
     Nije moguće pisati u datoteku: { $path }
 update-in-progress-title = Ažuriranje u tijeku
-update-in-progress-message = Želite li da { -brand-short-name } nastavi s ovim ažuriranjem?
+update-in-progress-message = Želiš li da { -brand-short-name } nastavi s ovim ažuriranjem?
 update-in-progress-ok-button = O&dbaci
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
