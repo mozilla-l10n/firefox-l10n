@@ -12,3 +12,4 @@ options-title = Quelles sont mes possibilités ?
 options-do-nothing = Si vous ne faites rien, les données de votre profil { -brand-short-name } seront différentes des données de profil des autres installations de { -brand-product-name }.
 resources = Ressources
 about-pofiles-link = Voir et gérer vos profils
+support-link = Utilisation du gestionnaire de profils – Article de l’assistance
