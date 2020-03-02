@@ -52,7 +52,7 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Εκκαθάριση (&quot;Διαγραφή&quot;) εισερχομένων κατά την έξοδο">
 <!ENTITY expungeOnExit.accesskey "θ">
-<!ENTITY emptyTrashOnExit.label "Διαγραφή απορριμμάτων κατά την έξοδο">
+<!ENTITY emptyTrashOnExit.label "Άδειασμα του κάδου απορριμμάτων κατά την έξοδο">
 <!ENTITY emptyTrashOnExit.accesskey "δ">
 <!ENTITY loginAtStartup.label "Έλεγχος για νέα μηνύματα κατά την εκκίνηση">
 <!ENTITY loginAtStartup.accesskey "λ">
