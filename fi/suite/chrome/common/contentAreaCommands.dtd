@@ -53,6 +53,8 @@
 <!ENTITY reloadImageCmd.accesskey     "u">
 <!ENTITY viewImageCmd.label           "Näytä kuva">
 <!ENTITY viewImageCmd.accesskey       "N">
+<!ENTITY viewImageInfoCmd.label       "Näytä kuvan tiedot">
+<!ENTITY viewImageInfoCmd.accesskey   "N">
 <!ENTITY viewVideoCmd.label           "Näytä video">
 <!ENTITY viewVideoCmd.accesskey       "N">
 <!ENTITY viewBGImageCmd.label         "Näytä taustakuva">
@@ -72,6 +74,8 @@
 <!ENTITY saveFrameAsCmd.label         "Tallenna kehyssivu nimellä…">
 <!ENTITY saveFrameCmd.label           "Tallenna kehyssivu">
 <!ENTITY saveFrameCmd.accesskey       "T">
+<!ENTITY printFrameCmd.label          "Tulosta kehys…">
+<!ENTITY printFrameCmd.accesskey      "o">
 <!ENTITY saveLinkAsCmd.label          "Tallenna kohde levylle…">
 <!ENTITY saveLinkCmd.label            "Tallenna kohde">
 <!ENTITY saveLinkCmd.accesskey        "T">
@@ -114,6 +118,11 @@
 <!ENTITY mediaPlaybackRate150.accesskey "o">
 <!ENTITY mediaPlaybackRate200.label     "Kaksinkertainen">
 <!ENTITY mediaPlaybackRate200.accesskey "K">
+<!ENTITY mediaLoop.label              "Jatkuva toisto">
+<!ENTITY mediaLoop.accesskey          "J">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label      "Näytä mediaohjaimet">
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Piilota mediaohjaimet">
@@ -144,3 +153,12 @@
 <!ENTITY spellDictionaries.accesskey    "e">
 <!ENTITY spellAddDictionaries.label     "Hae lisää sanakirjoja…">
 <!ENTITY spellAddDictionaries.accesskey "H">
+
+<!ENTITY fillLoginMenu.label          "Täytä kirjautumiskenttä">
+<!ENTITY fillLoginMenu.accesskey      "T">
+<!ENTITY fillPasswordMenu.label       "Täytä salasana">
+<!ENTITY fillPasswordMenu.accesskey   "T">
+<!ENTITY fillUsernameMenu.label       "Täytä käyttäjätunnus">
+<!ENTITY fillUsernameMenu.accesskey   "T">
+
+<!-- Developer Tools -->
