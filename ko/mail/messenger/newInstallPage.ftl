@@ -10,3 +10,6 @@ changed-desc-dedicated = 편하고 안전하게 { -brand-product-name } ({ -bran
 lost = <b>개인 데이터나 맞춤 설정이 없어지지는 않을 것입니다.</b> 이 컴퓨터의 { -brand-product-name }에 이미 저장한 정보가 있다면 다른 { -brand-product-name } 설치본에서 사용할 수 있습니다.
 options-title = 내 선택 사항은 무엇인가요?
 options-do-nothing = 아무것도 하지 않으면 { -brand-short-name }의 프로필 데이터가 다른 { -brand-product-name } 설치의 프로필 데이터와 달라집니다.
+resources = 자료
+about-pofiles-link = 프로필 확인 및 관리
+support-link = 프로필 관리자 사용 - 지원 문서
