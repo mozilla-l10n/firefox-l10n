@@ -52,6 +52,9 @@ fingerprinter-tab-title = Hatz-marka bidezko jarraipena
 fingerprinter-tab-content = Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 cryptominer-tab-title = Kriptomeatzariak
 cryptominer-tab-content = Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
+mobile-app-title = Blokeatu publizitatearen jarraipen-elementuak gailu gehiagotan
+mobile-app-card-content = Erabili mugikorreko nabigatzailea publizitatearen jarraipen-elementuen babesarekin
+mobile-app-links = { -brand-product-name } nabigatzailea <a data-l10n-name="android-mobile-inline-link">Android</a> eta <a data-l10n-name="ios-mobile-inline-link">iOS</a> plataformetarako
 lockwise-title = Ez ahaztu sekula pasahitzik berriro
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
