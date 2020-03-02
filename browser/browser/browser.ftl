@@ -125,6 +125,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Kirjoita vähemmän, löydä enemmän: Hae hakukoneella { $engineName } suoraan osoitepalkista.
 urlbar-search-tips-redirect = Aloita hakeminen täältä, niin näet ehdotukset palvelusta { $engineName } ja selaushistoriastasi.
+urlbar-search-tips-redirect-2 = Aloita hakeminen osoitepalkista, niin näet ehdotukset palvelusta { $engineName } ja selaushistoriastasi.
 
 ##
 
