@@ -31,7 +31,8 @@
 <!ENTITY printSetupCmd.label            "Sivun asetukset…">
 <!ENTITY printSetupCmd.accesskey        "e">
 
-<!ENTITY redoCmd.key                    "Z">  
+<!ENTITY findReplaceCmd.key             "F">
+<!ENTITY redoCmd.key                    "Z">
 
 <!-- Keys for toggling Sidebar, Folder Pane in mailNews and Directory Pane in
   Address Book -->
