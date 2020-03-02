@@ -1010,7 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Հաղորդել խնդրի մասին">
 <!ENTITY contentBlocking.breakageReportView.label "Հաղորդել խնդիրների մասին">
-<!ENTITY contentBlocking.breakageReportView2.description "Բովանդակության արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Երբ դուք զեկուցեք խնդիրների մասին, դուք կօգնեք, որ &brandShortName;-ը բոլորի համար ավելի լավը դառնա։ (Սա կուղարկի URL ինչպես նաև տեղեկություն Mozilla-ին ձեր զննարկչի կարգավորումներ մասին։)">
+<!ENTITY contentBlocking.breakageReportView2.description "Բովանդակության արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Երբ Դուք զեկուցեք խնդիրների մասին, Դուք կօգնեք, որ &brandShortName;-ը բոլորի համար ավելի լավը դառնա։ (Սա կուղարկի URL ինչպես նաև տեղեկություն Mozilla-ին Ձեր զննարկչի կարգավորումների մասին։)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Իմանալ ավելին">
 
 <!ENTITY contentBlocking.breakageReportView.title "Հաղորդել կոտրված կայքի մասին">
