@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom só do texto">
+<!ENTITY fullZoomToggleCmd.label        "Zoom só no texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
 
 <!ENTITY fullZoom.label                 "Zoom">
