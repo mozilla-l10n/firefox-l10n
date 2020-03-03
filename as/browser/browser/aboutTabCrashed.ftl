@@ -9,6 +9,7 @@ crashed-restore-all-button = ক্রেশ্ব হোৱা সকলো ট
 crashed-header = অহ। আপোনাৰ টেব এইমাত্ৰ ক্রেশ্ব হ'ল।
 crashed-offer-help = আমি সহায় কৰিব পাৰোঁ!
 crashed-single-offer-help-message = পৃষ্ঠা পুনঃল'ড কৰিবলৈ { crashed-restore-tab-button } বাচি লওক।
+crashed-multiple-offer-help-message = পৃষ্ঠা/পৃষ্ঠাকেইখন ৰিল'ড কৰিবলৈ { crashed-restore-tab-button } বা { crashed-restore-all-button } বাছনি কৰক।
 crashed-request-help = আপুনি আমাক সহায় কৰিবনে?
 crashed-request-report-title = এই টেবৰ অভিযোগ দিয়ক
 crashed-email-placeholder = আপোনাৰ ইমেইল ঠিকনা ইয়াত প্ৰবিষ্ট কৰক
