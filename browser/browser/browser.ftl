@@ -67,12 +67,18 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = ইনষ্টল বাৰ্তা পেনেল খোলক
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI পেনেল খোলক
+urlbar-eme-notification-anchor =
+    .tooltiptext = DRM ছফ্টৱেৰ ব্যৱহাৰ পৰিচালনা কৰক
 urlbar-default-notification-anchor =
     .tooltiptext = বাৰ্তা পেনেল খোলক
 urlbar-geolocation-notification-anchor =
     .tooltiptext = অৱস্থানৰ অনুৰোধৰ পেনেল খোলক
+urlbar-xr-notification-anchor =
+    .tooltiptext = ভাৰ্চুৱেল ৰিয়েলিটী অনুমতি পেনেল খোলক
 urlbar-storage-access-anchor =
     .tooltiptext = ব্ৰাউজিং কাৰ্য্যকলাপৰ অনুমতিৰ পেনেল খোলক
 urlbar-translate-notification-anchor =
@@ -90,6 +96,8 @@ urlbar-plugins-notification-anchor =
 
 ##
 
+urlbar-xr-blocked =
+    .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি ভাৰ্চুৱেল ৰিয়েলিটী ডিভাইচত প্ৰৱেশ অৱৰোধ কৰিছে।
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -125,6 +133,13 @@ search-one-offs-change-settings-button =
 
 ## Identity Panel
 
+identity-learn-more =
+    .value = অধিক জানক
 identity-disable-mixed-content-blocking =
     .label = এতিয়াৰ বাবে সুৰক্ষা অসামৰ্থবান কৰক
     .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = সুৰক্ষা সক্ৰিয় কৰক
+    .accesskey = E
+identity-more-info-link-text =
+    .label = অধিক তথ্য
