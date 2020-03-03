@@ -54,6 +54,9 @@ fingerprinter-tab-title = Зчитування відбитку браузера
 fingerprinter-tab-content = Засоби зчитування відбитку браузера збирають дані про налаштування вашого браузера і комп'ютера, з метою створення вашого профілю. Використовуючи такий цифровий відбиток, вони можуть стежити за вами на багатьох різних вебсайтах. <a data-l10n-name="learn-more-link">Докладніше</a>
 cryptominer-tab-title = Криптомайнери
 cryptominer-tab-content = Криптомайнери використовують ресурси вашої системи для створення цифрових грошей. Криптомайнингові скрипти споживають заряд вашого акумулятора, сповільнюють роботу комп'ютера, а також можуть збільшити ваші витрати на електроенергію. <a data-l10n-name="learn-more-link">Докладніше</a>
+mobile-app-title = Блокуйте рекламне стеження на всіх пристроях
+mobile-app-card-content = Використовуйте мобільний браузер із вбудованим захистом від стеження.
+mobile-app-links = Браузер { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> та <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ніколи більше не забувайте пароль
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } безпечно зберігає ваші паролі в браузері.

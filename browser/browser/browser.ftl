@@ -125,6 +125,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Вводьте менше, знаходьте більше: Шукайте з { $engineName } прямо з панелі адреси.
 urlbar-search-tips-redirect = Розпочніть свій пошук звідси, щоб побачити пропозиції від { $engineName } та вашої історії перегляду.
+urlbar-search-tips-redirect-2 = Розпочніть пошук з адресного рядка, щоб побачити пропозиції від { $engineName } та історії перегляду.
 
 ##
 
