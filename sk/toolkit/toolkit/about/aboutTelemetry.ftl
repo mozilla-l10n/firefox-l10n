@@ -92,6 +92,8 @@ about-telemetry-no-search-results-all = Mrzí nás to, no pre hľadaný výraz �
 about-telemetry-no-data-to-display = Mrzí nás to, no v sekcii „{ $sectionName }“ nie sú dostupné žiadne údaje
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = súčasný ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = súčasné údaje
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = všetko
 # button label to copy the histogram
