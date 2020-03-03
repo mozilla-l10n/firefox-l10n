@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = { $addon-name }-ৰ বাবে প্ৰতিবেদন
 abuse-report-subtitle = কি সমস্য হৈছে?
 # Variables:
 #   $author-name (string) - Name of the add-on author
@@ -40,3 +47,5 @@ abuse-report-damage-example = উদাহৰণ: মেলৱেৰ সুম�
 abuse-report-spam-reason = স্পাম বা বিজ্ঞাপন সৃষ্টি কৰে
 abuse-report-spam-example = উদাহৰণ: ৱেবপৃষ্ঠাবোৰত বিজ্ঞাপন ভৰাই
 abuse-report-settings-reason = মোক নজনোৱাকৈ বা নুসুধাকৈ মোৰ সন্ধান ইঞ্জিন, গৃহপৃষ্ঠা বা নতুন টেব সলনি কৰিছে।
+abuse-report-broken-example = উদাহৰণ: সুবিধাসমূহ ধীৰ, ব্যৱহাৰ কৰা টান বা কাম নকৰে; ৱেবছাইটৰ কিছুমান অংশ ল'ড নহয় বা দেখাত অসাধাৰণ
+abuse-report-other-reason = আন কিবা
