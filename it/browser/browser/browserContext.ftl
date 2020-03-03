@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Aggiungi pagina ai segnalibri
-    .accesskey = u
 main-context-menu-bookmark-add =
     .aria-label = Aggiungi pagina ai segnalibri
     .accesskey = u
