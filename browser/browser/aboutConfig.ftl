@@ -14,8 +14,11 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = সাৱধান হৈ আগবাঢ়িব
+about-config-intro-warning-text = অগ্ৰণী কনফিগাৰেশ্যন পছন্দসমূহ সালসলনি কৰিলে { -brand-short-name }-ৰ কাৰ্যক্ষমতা বা নিৰাপত্তাত প্ৰভাৱ পৰিব পাৰে।
+about-config-intro-warning-checkbox = মই এই পছন্দসমূহ চাবলৈ চেষ্টা কৰিলে মোক সকীয়নি দিব
+about-config-intro-warning-button = বিপদ গ্ৰহণ কৰি অব্যাহত ৰাখক
 
-
+##
 
 about-config-show-all = সকলো দেখুৱাওক
 about-config-pref-add = যোগ কৰক
