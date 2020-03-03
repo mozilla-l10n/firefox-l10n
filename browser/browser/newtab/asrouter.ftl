@@ -119,6 +119,11 @@ cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = ค้นหาได้มากขึ้นโดยพิมพ์น้อยลงในแถบที่อยู่
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = ไปยังไซต์ที่คุณใช้มากที่สุดด้วยคลิกเดียวในแถบที่อยู่ ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้นด้วยผลลัพธ์จาก { $searchEngineName } และประวัติการเรียกดูของคุณ
+cfr-whatsnew-searchbar-body-generic = ไปยังไซต์ที่คุณใช้มากที่สุดด้วยคลิกเดียวในแถบที่อยู่ ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้นด้วยผลลัพธ์การค้นหาจากประวัติการเรียกดูของคุณ
 cfr-whatsnew-searchbar-icon-alt-text = ไอคอนรูปแว่นขยาย
 
 ## Picture-in-Picture
