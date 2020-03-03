@@ -52,6 +52,9 @@ fingerprinter-tab-title = Parmak izi toplayıcılar
 fingerprinter-tab-content = Parmak izi toplayıcılar profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 cryptominer-tab-title = Kripto madencileri
 cryptominer-tab-content = Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
+mobile-app-title = Reklam takipçilerini tüm cihazlarda engelleyin
+mobile-app-card-content = Reklam takipçilerine karşı dahili korumaya sahip mobil tarayıcıyı kullanın.
+mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> ve <a data-l10n-name="ios-mobile-inline-link">iOS</a> için { -brand-product-name } Browser
 lockwise-title = Bir daha hiçbir parolayı unutmayın
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } parolalarınızı tarayınızda güvenle saklar.
@@ -60,6 +63,7 @@ protection-report-view-logins-button = Hesapları göster
     .title = Kayıtlı hesaplara git
 lockwise-no-logins-content = Parolalarınızı yanınızda taşımak için <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> uygulamasını yükleyin.
 lockwise-mobile-app-title = Parolalarınızı yanınızda taşıyın
+lockwise-no-logins-card-content = { -brand-short-name } tarayıcınızda kaydettiğiniz parolaları tüm cihazlarınızda kullanın.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> ve <a data-l10n-name="lockwise-ios-inline-link">iOS</a> için { -lockwise-brand-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
