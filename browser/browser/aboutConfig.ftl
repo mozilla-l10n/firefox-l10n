@@ -20,6 +20,11 @@ about-config-intro-warning-button = বিপদ গ্ৰহণ কৰি অ�
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = এই পছন্দসমূহ সালসলনি কৰিলে { -brand-short-name }-ৰ কাৰ্যক্ষমতা বা নিৰাপত্তাত প্ৰভাৱ পৰিব পাৰে।
+about-config-page-title = অগ্ৰণী পছন্দসমূহ
+about-config-search-input1 =
+    .placeholder = পছন্দৰ নামৰ সন্ধান কৰক
 about-config-show-all = সকলো দেখুৱাওক
 about-config-pref-add = যোগ কৰক
 about-config-pref-toggle = ট'গল কৰক
