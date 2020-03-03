@@ -40,7 +40,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.label             "Enviar lo ligam al periferic">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  undoCloseTab.label                 "Anullar la tampadura de l'onglet">
-<!ENTITY  undoCloseTab.accesskey             "u">
+<!ENTITY  undoCloseTab.accesskey             "A">
 <!ENTITY  hiddenTabs.label                   "Onglets amagats">
 
 <!ENTITY  listAllTabs.label      "Far la lista de totes los onglets">
@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.label                 "Tampar">
 
 <!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "a">
+<!ENTITY closeCmd.accesskey             "T">
 
 <!ENTITY toggleMuteCmd.key              "M">
 

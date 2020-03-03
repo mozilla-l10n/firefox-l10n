@@ -10,3 +10,5 @@ pictureinpicture-mute =
     .aria-label = Silenciós
 pictureinpicture-unmute =
     .aria-label = Sonòr
+pictureinpicture-close =
+    .aria-label = Tampar
