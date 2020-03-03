@@ -27,7 +27,7 @@ about-config-search-input1 =
     .placeholder = वरीयता नाम खोजें
 about-config-show-all = सभी दिखाएँ
 about-config-pref-add = जोड़ें
-about-config-pref-toggle = टागल करें
+about-config-pref-toggle = टॉगल
 about-config-pref-edit = संपादन
 about-config-pref-save = सहेजें
 about-config-pref-reset = रीसेट
@@ -35,7 +35,7 @@ about-config-pref-delete = मिटाएँ
 about-config-pref-add-button =
     .title = जोड़ें
 about-config-pref-toggle-button =
-    .title = टागल करें
+    .title = टॉगल
 about-config-pref-edit-button =
     .title = संपादन
 about-config-pref-save-button =
@@ -59,6 +59,6 @@ about-config-pref-add-type-string = स्ट्रिंग
 ##   $value (String): The full value of the preference.
 
 about-config-pref-accessible-value-default =
-    .aria-label = { $value } (default)
+    .aria-label = { $value } (तयशुदा)
 about-config-pref-accessible-value-custom =
     .aria-label = { $value } (custom)
