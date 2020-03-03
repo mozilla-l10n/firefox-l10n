@@ -71,8 +71,6 @@
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 <!-- Original keys: ] and }, using the characters on the same key for the Italian keyboard layout -->
-<!ENTITY togglePictureInPicture.key2 "*">
-<!ENTITY togglePictureInPicture.key "+">
 <!ENTITY fxaSignIn.label "Accedi a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Apri le impostazioni di &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Riconnetti a &syncBrand.shortName.label;">
@@ -556,17 +554,12 @@
 <!ENTITY identity.connection "Connessione">
 <!ENTITY identity.connectionSecure "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
-<!ENTITY identity.connectionSecure3 "Connessione sicura">
-<!ENTITY identity.connectionNotSecure2 "Connessione non sicura">
-<!ENTITY identity.connectionNotSecureSecurityView "La connessione con questo sito non è sicura.">
 <!ENTITY identity.connectionFile "Questa pagina è salvata sul dispositivo in uso.">
 <!ENTITY identity.connectionVerified2 "La connessione con questo sito è sicura. Il proprietario del sito è:">
-<!ENTITY identity.connectionVerified3 "La connessione con questo sito è sicura.">
 <!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
 <!ENTITY identity.extensionPage "Questa pagina è caricata da un’estensione.">
 <!ENTITY identity.insecureLoginForms2 "Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.">
 <!ENTITY identity.customRoot "Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Mozilla.">
-<!ENTITY identity.evOwnerLabel2 "Certificato rilasciato a:">
 <!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).">
 <!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
@@ -592,7 +585,6 @@
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.clearSiteData "Elimina cookie e dati dei siti web…">
 <!ENTITY identity.permissions "Permessi">
-<!ENTITY identity.permissions3 "Permessi">
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
 <!ENTITY identity.permissionsReloadHint "Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.">
 <!ENTITY identity.permissionsPreferences.tooltip "Apri preferenze per i permessi">

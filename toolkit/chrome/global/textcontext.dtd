@@ -26,8 +26,6 @@
 <!ENTITY searchTextBox.clear.label "Cancella">
 <!ENTITY fillLoginMenu.label "Compila le credenziali di accesso">
 <!ENTITY fillLoginMenu.accesskey "m">
-<!ENTITY useGeneratedPassword.label "Usa password generata in modo sicuro…">
-<!ENTITY useGeneratedPassword.accesskey "w">
 <!ENTITY fillPasswordMenu.label "Compila password">
 <!ENTITY fillPasswordMenu.accesskey "m">
 <!ENTITY fillUsernameMenu.label "Compila nome utente">
