@@ -47,6 +47,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gardatz d’un biais segur vòstres senhals dins lo navegador.
 protection-report-view-logins-button = Veire los identificants
     .title = Anar als identificants gardats
+lockwise-mobile-app-title = Emportatz vòstres senhals pertot
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Anar a las preferéncias
 manage-connected-devices = Gerir los periferics…
@@ -59,6 +60,15 @@ lockwise-connected-device-status =
     }
 monitor-link = Cossí fonciona
 monitor-sign-up = S’inscriure a las alèrtas de pèrdas de donadas
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] adreça electronica supervisada
+       *[other] adreças electronicas supervisadas
+    }
+full-report-link = Constulatz lo rapòrt complet sus <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

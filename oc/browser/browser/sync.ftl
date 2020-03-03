@@ -7,4 +7,5 @@ fxa-toolbar-sync-syncing =
 fxa-toolbar-sync-syncing-tabs =
     .label = Sincronizacion dels onglets…
 sync-disconnect-dialog-title = Se desconnectar de { -sync-brand-short-name } ?
+fxa-disconnect-dialog-title = Se desconnectar de { -brand-product-name } ?
 sync-disconnect-dialog-button = Se desconectar

@@ -152,6 +152,7 @@ cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-recipe-header = Emportatz aquesta recepta a la cosina
 cfr-doorhanger-send-tab-ok-button = Ensajatz d’enviar un onglet
     .accesskey = t
 
