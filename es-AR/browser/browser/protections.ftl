@@ -53,6 +53,8 @@ fingerprinter-tab-content = Los detectores de huellas digitales recolectan los a
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para extraer dinero digital. Las secuencias de comandos de cifrado de los mismos agotan su batería, ralentizan su computadora y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">. Conocer más </a>
 mobile-app-title = Bloquear los rastreadores de anuncios en más dispositivos
+mobile-app-card-content = Usar el navegador móvil con protección integrada contra el rastro de publicidad.
+mobile-app-links = Navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android </a> y <a data-l10n-name = "ios-mobile-inline-link ">iOS</a>
 lockwise-title = Nunca más olvide una contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } almacena sus contraseñas en su navegador de manera segura.
