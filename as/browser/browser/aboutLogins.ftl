@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = লগইনৰ সন্ধান কৰক
 create-login-button = নতুন লগইন সৃষ্টি কৰক
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title }-ৰ বাবে ফেভিক'ন
 fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওঁক
 fxaccounts-sign-in-button = { -sync-brand-short-name }-ত ছাইন ইন কৰক
 fxaccounts-avatar-button =
@@ -51,6 +46,8 @@ login-list-count =
     }
 login-list-sort-label-text = সজোৱা ক্ৰম:
 login-list-name-option = নাম (A-Z)
+login-list-name-reverse-option = নাম (Z-A)
+login-list-breached-option = ভগা ৱেবছাইটসমূহ
 login-list-last-changed-option = শেষবাৰ সলনি হৈছিল
 login-list-last-used-option = শেষবাৰ ব্যৱহৃত
 login-list-intro-title = কোনো লগইন পোৱা নগ'ল
@@ -60,6 +57,8 @@ about-logins-login-list-empty-search-description = আপোনাৰ সন্�
 login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-new-login = আপোনাৰ লগইন প্ৰত্যয়পত্ৰ প্ৰবিষ্ট কৰক
 login-list-item-subtitle-missing-username = (কোনো ব্যৱহাৰকাৰীনাম নাই)
+about-logins-list-item-breach-icon =
+    .title = ভগা ৱেবছাইট
 
 ## Introduction screen
 
@@ -69,12 +68,13 @@ login-intro-description = যদি আপুনি আপোনাৰ লগই
 login-intro-instruction-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সঞ্চিত কৰি থোৱা আছে।
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } ছেটিংছত লগইনবোৰৰ চ্চেকব'ক্স চয়ন কৰাটো সুনিশ্চিত কৰক
 about-logins-intro-instruction-help = অধিক সহায়ৰ বাবে <a data-l10n-name="help-link">{ -lockwise-brand-short-name } সাহায্য</a>লৈ যাওঁক
+about-logins-intro-import = আপোনাৰ লগিনসমূহ আন কোনো ব্ৰাউজাৰত সঞ্চয় কৰা থাকিলে আপুনি <a data-l10n-name="import-link">সেয়া { -lockwise-brand-short-name }-ত আমদানি</a> কৰিব পাৰে
 
 ## Login
 
 login-item-new-login-title = নতুন লগইন সৃষ্টি কৰক
 login-item-edit-button = সম্পাদনা
-login-item-delete-button = বিলোপ
+about-logins-login-item-remove-button = আঁতৰাওক
 login-item-origin-label = ৱেবছাইট ঠিকনা
 login-item-origin =
     .placeholder = https://www.example.com
@@ -84,10 +84,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = কপি কৰক
 login-item-copied-username-button-text = কপি কৰা হ'ল!
 login-item-password-label = পাছৱৰ্ড
-login-item-password-reveal-checkbox-show =
-    .title = পাছৱৰ্ড দেখুৱাওক
-login-item-password-reveal-checkbox-hide =
-    .title = পাছৱৰ্ড লুকুৱাওক
+login-item-password-reveal-checkbox =
+    .aria-label = পাছৱৰ্ড দেখুৱাওঁক
 login-item-copy-password-button-text = কপি কৰক
 login-item-copied-password-button-text = কপি কৰা হল!
 login-item-save-changes-button = সাল-সলনি সঞ্চয়
@@ -104,14 +102,15 @@ master-password-reload-button =
     .label = লগ ইন
     .accesskey = ল
 
+## Password Sync notification
+
+
 ## Dialogs
 
 confirmation-dialog-cancel-button = বাতিল কৰক
 confirmation-dialog-dismiss-button =
     .title = বাতিল কৰক
-confirm-delete-dialog-title = এই লগইন বিলোপ কৰিবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
-confirm-delete-dialog-confirm-button = বিলোপ
 confirm-discard-changes-dialog-message = সঞ্চয় নকৰা সকলো সালসলনি হেৰাই যাব।
 
 ## Breach Alert notification
