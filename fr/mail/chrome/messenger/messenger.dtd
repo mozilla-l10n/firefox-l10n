@@ -374,7 +374,7 @@
 <!ENTITY editDraftMsgCmd.label "Modifier le brouillon">
 <!ENTITY editDraftMsgCmd.accesskey "b">
 <!ENTITY editTemplateMsgCmd.label "Modifier le modèle">
-<!ENTITY editTemplateMsgCmd.accesskey "t">
+<!ENTITY editTemplateMsgCmd.accesskey "M">
 <!ENTITY newMsgFromTemplateCmd.label "Nouveau message depuis un modèle">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Créer un filtre à partir du message…">
@@ -772,7 +772,7 @@
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Modifier le brouillon">
 <!ENTITY contextEditTemplate.label "Modifier le modèle">
-<!ENTITY contextEditTemplate.accesskey "t">
+<!ENTITY contextEditTemplate.accesskey "M">
 <!ENTITY contextArchive.label "Archiver">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Répondre à l’expéditeur">
