@@ -38,12 +38,16 @@ accessibility-text-label-issue-heading-content = Başlıklar görünür metin i�
 accessibility-text-label-issue-iframe = <span>iframe</span> içeriğini tanımlamak için <code>title</code> özniteliğini kullanın. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-image = Resimli içerikler etiketlenmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-interactive = Etkileşimli elemanlar etiketlenmelidir. <a>Daha fazla bilgi alın</a>
+accessibility-text-label-issue-optgroup-label2 = <span>optgroup</span> elemanlarını etiketlemek için <code>label</code> özniteliğini kullanın. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-toolbar = birden fazla araç çubuğu varsa araç çubukları etiketlenmeli. <a>Daha fazla bilgi alın</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Odaklanabilir elemanlar etkileşimli semantiğe sahip olmalıdır. <a>Daha fazla bilgi alın</a>
+accessibility-keyboard-issue-tabindex = Sıfırdan büyük <code>tabindex</code> özniteliğini kullanmaktan kaçının. <a>Daha fazla bilgi alın</a>
 accessibility-keyboard-issue-action = Etkileşimli elemanlar klavye ile etkinleştirilebilmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-keyboard-issue-focusable = Etkileşimli elemanlar odaklanılabilir olmalı. <a>Daha fazla bilgi alın</a>
+accessibility-keyboard-issue-focus-visible = Odaklanabilir elemanın focus stili eksik olabilir. <a>Daha fazla bilgi alın</a>
 accessibility-keyboard-issue-mouse-only = Tıklanabilir elemanlar odaklanılabilir olmalı ve etkileşimli semantiğe sahip olmalı. <a>Daha fazla bilgi alın</a>
