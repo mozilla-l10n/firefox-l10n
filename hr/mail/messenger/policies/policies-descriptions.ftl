@@ -11,7 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Postavite pravila kojima će WebExtensions moći pristupiti putem chrome.storage.managed.
-policy-AppUpdateURL = Postavite prilagođeni URL za ažuriranje aplikacije.
+policy-AppUpdateURL = Postavi prilagođeni URL za ažuriranje aplikacije.
 policy-Authentication = Konfigurirajte integriranu prijavu za web stranice koje ju podržavaju.
 policy-BlockAboutAddons = Blokiraj pristup upravljaču dodataka (about:addons).
 policy-BlockAboutConfig = Blokirajte pristup about:config stranici.
@@ -21,7 +21,7 @@ policy-CaptivePortal = Omogućite ili onemogućite podršku za portal stranicu.
 policy-CertificatesDescription = Dodajte certifikate ili koristite ugrađene certifikate.
 policy-Cookies = Dopustite ili zabranite web stranicama da postavljaju kolačiće.
 policy-DefaultDownloadDirectory = Postavite zadanu mapu za preuzimanje datoteka.
-policy-DisableAppUpdate = Spriječite { -brand-short-name } da se ažurira.
+policy-DisableAppUpdate = Spriječi { -brand-short-name } da se ažurira.
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija iz izbornika pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableForgetButton = Spriječite pristup tipki Zaboravi.
@@ -29,7 +29,7 @@ policy-DisableMasterPasswordCreation = Ukoliko je točno, neće biti moguće pos
 policy-DisableProfileImport = Onemogućite naredbu izbornika za uvoz podataka iz drugih aplikacija.
 policy-DisableSafeMode = Onemogućite značajku za ponovno pokretanje u sigurnom načinu rada. Napomena: Shift tipka za ulazak u sigurni način se može onemogućiti samo na Windowsima koristeći Grupne politike.
 policy-DisableSecurityBypass = Spriječite korisnika da zaobilazi određena sigurnosna upozorenja.
-policy-DisableSystemAddonUpdate = Spriječite { -brand-short-name } da instalira i ažurira dodatke sustava.
+policy-DisableSystemAddonUpdate = Spriječi { -brand-short-name } da instalira i ažurira sustavske dodatke.
 policy-DisableTelemetry = Isključite telemetriju.
 policy-DisplayMenuBar = Postavi kao početne postavke prikaz trake izbornika.
 policy-DNSOverHTTPS = Postavi DNS preko HTTPS.
