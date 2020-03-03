@@ -3,19 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = { -brand-full-name } का परिचय|
+    .title = { -brand-full-name } परिचय
 releaseNotes-link = क्या नया है?
 update-checkForUpdatesButton =
-    .label = अद्यतन के लिए जाँच करे
+    .label = अपडेट के लिए जांच करें
     .accesskey = C
 update-updateButton =
-    .label = { -brand-shorter-name } का अद्यतन करने के लिए पुन: प्रारंभ करें
+    .label = { -brand-shorter-name } अपडेट करने के लिए पुन: चालू करें
     .accesskey = R
 update-checkingForUpdates = अपडेट के लिए जाँचा जा रहा है…
-update-downloading = <img data-l10n-name="icon"/>अद्यतन डाउनलोड कर रहा है — <label data-l10n-name="download-status"/>
-update-applying = अद्यतन लागू कर रहा है…
-update-failed = अद्यतन विफल. <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड करें</label>
-update-failed-main = अद्यतन विफल. <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड करें</a>
+update-downloading = <img data-l10n-name="icon"/>अपडेट डाउनलोड हो रहा है — <label data-l10n-name="download-status"/>
+update-applying = अपडेट लागू हो रहा है…
+update-failed = अपडेट विफल. <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड करें</label>
+update-failed-main = अपडेट विफल. <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड करें</a>
 update-adminDisabled = अद्यतनों को आपके सिस्टम प्रशासक के द्वारा निष्क्रिय किया गया है
 update-noUpdatesFound = { -brand-short-name } अद्यतन है
 update-otherInstanceHandlingUpdates = { -brand-short-name } को दूसरे उदाहरण के द्वारा अद्यतन किया जा रहा है
