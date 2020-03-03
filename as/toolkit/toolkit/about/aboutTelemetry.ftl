@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source = পিংগ ডাটাৰ উৎস:
-about-telemetry-show-current-ping-data = বৰ্তমান পিংগ ডাটা
+about-telemetry-ping-data-source = পিং ডাটাৰ উৎস:
+about-telemetry-show-current-ping-data = বৰ্তমানৰ পিং ডাটা
 about-telemetry-show-current-data = বৰ্তমান ডাটা
 about-telemetry-choose-ping = পিংগ বাচি লওক:
 about-telemetry-archive-ping-type = পিংগৰ প্ৰকাৰ
