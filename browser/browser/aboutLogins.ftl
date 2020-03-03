@@ -104,14 +104,33 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] আপুনি { -brand-product-name } ব্যৱহাৰ কৰা সকলো ঠাইতে আপোনাৰ লগিনসমূহ বিচাৰেনে? আপোনাৰ { -sync-brand-short-name }-ৰ বিকল্পসমূহলৈ গৈ লগিনসমূহৰ চেকবক্সটো বাছনি কৰক।
+       *[other] আপুনি { -brand-product-name } ব্যৱহাৰ কৰা সকলো ঠাইতে আপোনাৰ লগিনসমূহ বিচাৰেনে? আপোনাৰ { -sync-brand-short-name }-ৰ পছন্দসমূহলৈ গৈ লগিনসমূহৰ চেকবক্সটো বাছনি কৰক।
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name }-ৰ বিকল্পসমূহলৈ যাওঁক
+           *[other] { -sync-brand-short-name }-ৰ পছন্দসমূহলৈ যাওঁক
+        }
+    .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = মোক আকৌ নোসোধিব
+    .accesskey = D
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = বাতিল কৰক
 confirmation-dialog-dismiss-button =
     .title = বাতিল কৰক
+about-logins-confirm-remove-dialog-title = এই লগিন আঁতৰাবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
+about-logins-confirm-remove-dialog-confirm-button = আঁতৰাওক
+confirm-discard-changes-dialog-title = সঞ্চয় নকৰা সালসলনি নাকচ কৰিবনে?
 confirm-discard-changes-dialog-message = সঞ্চয় নকৰা সকলো সালসলনি হেৰাই যাব।
+confirm-discard-changes-dialog-confirm-button = নাকচ কৰক
 
 ## Breach Alert notification
 
