@@ -465,6 +465,8 @@ home-prefs-sections-rows-option =
 ## Search Section
 
 search-bar-header = تلاش بار
+search-bar-hidden =
+    .label = تلاش اور نیویگیشن کے لئے ایڈریس بار کا استعمال کریں
 search-bar-shown =
     .label = سرچ بار کا ٹولبار مے ا ضافہ کریں۔
 search-engine-default-header = طےشدہ تلاش انجن
@@ -799,6 +801,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
 content-blocking-social-media-trackers = سماجی میڈیا ٹریکرز
 content-blocking-all-cookies = تمام کوکیز
+content-blocking-all-windows-trackers = تمام ونڈوز میں معلوم شدہ ٹریکرز
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
