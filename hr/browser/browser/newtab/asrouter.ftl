@@ -198,11 +198,11 @@ cfr-doorhanger-socialtracking-close-button = Zatvori
 cfr-doorhanger-socialtracking-dont-show-again = Ne prikazuj mi više takve poruke
     .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } je zaustavio društvenu mrežu da te ovdje prati
-cfr-doorhanger-socialtracking-description = Tvoja privatnost je važna. { -brand-short-name } sad blokira uobičajene programe za praćenje društvenih medija, ograničavajući količinu podataka koje mogu prikupiti o onome što radiš na internetu.
+cfr-doorhanger-socialtracking-description = Tvoja privatnost je važna. { -brand-short-name } sad blokira uobičajene programe za praćenje od društvenih mreža, ograničavajući količinu podataka koje mogu prikupiti o onome što radiš na internetu.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je blokirao jedinstvene otiske na ovoj stranici
-cfr-doorhanger-fingerprinters-description = Tvoja privatnost je bitna. { -brand-short-name } sada blokira jedinstvene otiske, koji skupljaju dijelove informacija koji su jedinstveni za tebe i tvoje uređaje, kako bi te mogli pratiti.
+cfr-doorhanger-fingerprinters-description = Tvoja privatnost je važna. { -brand-short-name } sada blokira čitače jedinstvenih otisaka, koji prikupljaju dijelove informacija koji su jedinstveni za tebe i tvoje uređaje, kako bi te mogli pratiti.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } je blokirao kripto rudare na ovoj stranici
-cfr-doorhanger-cryptominers-description = Tvoja privatnost je bitna. { -brand-short-name } sada blokira kripto rudare, koji koriste resurse tvog sustava kako bi rudarili digitalni novac.
+cfr-doorhanger-cryptominers-description = Tvoja privatnost je važna. { -brand-short-name } sada blokira kripto rudare, koji koriste resurse tvog sustava, kako bi rudarili digitalni novac.
 
 ## Enhanced Tracking Protection Milestones
 
