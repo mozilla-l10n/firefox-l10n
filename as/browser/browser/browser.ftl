@@ -69,10 +69,16 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = ইনষ্টল বাৰ্তা পেনেল খোলক
+urlbar-web-notification-anchor =
+    .tooltiptext = ছাইটটোৰ পৰা অধিসূচনা পাব পাৰিব নে নাই সলনি কৰক
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI পেনেল খোলক
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM ছফ্টৱেৰ ব্যৱহাৰ পৰিচালনা কৰক
+urlbar-web-authn-anchor =
+    .tooltiptext = ৱেব প্ৰমানীকৰণ পেনেল খোলক
+urlbar-canvas-notification-anchor =
+    .tooltiptext = কেনভাছ নিষ্কাশন অনুমতি পৰিচালনা কৰক
 urlbar-default-notification-anchor =
     .tooltiptext = বাৰ্তা পেনেল খোলক
 urlbar-geolocation-notification-anchor =
