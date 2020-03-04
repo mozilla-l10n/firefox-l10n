@@ -6,3 +6,4 @@ connection-window =
     .title = Belangrijk nieuws
 continue-button =
     .label = Doorgaan
+main-text = Deze installatie van { -brand-short-name } heeft een nieuw profiel. Hij deelt geen e-mailgegevens, wachtwoorden, gebruikersvoorkeuren of adresboeken met andere installaties van { -brand-product-name } (waaronder { -brand-product-name }, { -brand-product-name } Beta en { -brand-product-name } Daily) op deze computer.
