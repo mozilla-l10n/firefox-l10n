@@ -134,12 +134,12 @@ cfr-whatsnew-searchbar-icon-alt-text = Ícone de lupa
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Veja vídeos enquanto navega
-cfr-whatsnew-pip-body = A funcionalidade de vídeo em janela flutuante apresenta o vídeo numa janela flutuante para que possa assistir enquanto trabalha em outros separadores.
+cfr-whatsnew-pip-body = A funcionalidade de vídeo em janela flutuante apresenta o vídeo numa janela independente para que possa assistir ao vídeo enquanto navega nos outros separadores.
 cfr-whatsnew-pip-cta = Saber mais
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = Menos pop-ups irritantes do site
+cfr-whatsnew-permission-prompt-header = Menos popups irritantes
 cfr-whatsnew-permission-prompt-body = O { -brand-shorter-name } agora impede que os sites solicitem de forma automática o envio de mensagens pop-up.
 cfr-whatsnew-permission-prompt-cta = Saber mais
 
