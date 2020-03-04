@@ -6,3 +6,4 @@ connection-window =
     .title = Tärkeitä uutisia
 continue-button =
     .label = Jatka
+main-text = Tällä { -brand-short-name }-asennuksella on uusi profiili. Se ei jaa sähköpostitietoja, salasanoja, käyttäjän asetuksia tai osoitekirjoja muiden tämän tietokoneen { -brand-product-name }-asennusten kanssa (mukaanlukien { -brand-product-name }, { -brand-product-name } Beta, ja { -brand-product-name } Daily).
