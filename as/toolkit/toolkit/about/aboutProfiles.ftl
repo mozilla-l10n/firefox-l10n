@@ -8,16 +8,29 @@ profiles-create = নতুন প্ৰ'ফাইল সৃষ্টি কৰ�
 profiles-restart-title = পুনৰাৰম্ভ কৰক
 profiles-restart-in-safe-mode = এড-অ'নবোৰ নিষ্ক্ৰিয় কৰি পুনৰাৰম্ভ কৰক…
 profiles-restart-normal = স্বাভাৱিকভাৱে পুনৰাৰম্ভ কৰক…
+profiles-conflict = { -brand-product-name }-ৰ আন এটা প্ৰতিলিপিয়ে প্ৰ'ফাইলসমূহত সালসলনি কৰিছে। আৰু সালসলনি কৰাৰ আগত আপুনি { -brand-short-name } পুনৰাৰম্ভ কৰিবই লাগিব।
 profiles-flush-fail-title = সালসলনি সঞ্চয় কৰা নাই
+profiles-flush-conflict = { profiles-conflict }
 profiles-flush-restart-button = { -brand-short-name } পুনাৰম্ভ কৰক
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = প্ৰ'ফাইল: { $name }
 profiles-is-default = ডিফ'ল্ট প্ৰ'ফাইল
+profiles-rootdir = মূল ডিৰেক্টৰী
+# localDir is used to show the directory corresponding to
+# the main profile directory that exists for the purpose of storing data on the
+# local filesystem, including cache files or other data files that may not
+# represent critical user data. (e.g., this directory may not be included as
+# part of a backup scheme.)
+# In case localDir and rootDir are equal, localDir is not shown.
+profiles-localdir = স্থানীয় ডিৰেক্টৰী
 profiles-current-profile = এইটো ব্যৱহৃত প্ৰ'ফাইল আৰু বিলোপ কৰিব নোৱাৰি।
+profiles-in-use-profile = এই প্ৰ'ফাইল আন এটা এপ্লিকেশ্যনত ব্যৱহৃত হৈ আছে আৰু এইটো মচিব নোৱাৰি।
 profiles-rename = পুনঃনামকৰণ
 profiles-remove = আঁতৰাওক
 profiles-set-as-default = ডিফ'ল্ট প্ৰ'ফাইল হিচাপে ছেট কৰক
+profiles-launch-profile = নতুন ব্ৰাউজাৰত প্ৰ'ফাইল চালু কৰক
+profiles-cannot-set-as-default-title = ডিফ'ল্ট নিৰ্ধাৰণ কৰিব পৰা নগ'ল
 profiles-yes = হয়
 profiles-no = নহয়
 profiles-rename-profile-title = প্ৰ'ফাইলৰ পুনঃনামকৰণ
