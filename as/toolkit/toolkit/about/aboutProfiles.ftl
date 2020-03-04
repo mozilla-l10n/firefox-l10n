@@ -43,6 +43,19 @@ profiles-invalid-profile-name-title = অবৈধ প্ৰ'ফাইলৰ ন
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = প্ৰ'ফাইলৰ নাম “{ $name }” ৰখাৰ অনুমতি নাই।
 profiles-delete-profile-title = প্ৰ'ফাইল বিলোপ কৰক
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    কোনো প্ৰ'ফাইল মচি পেলালে সেই প্ৰ'ফাইলটো উপলব্ধ প্ৰ'ফাইলসমূহৰ তালিকাৰ পৰা আঁতৰি যাব আৰু সেইটো ঘূৰাই পাব নোৱাৰি।
+    আপুনি আপোনাৰ ছেটিংছ, প্ৰমাণ পত্ৰ আৰু অন্য ব্যৱহাৰকাৰী সম্বন্ধীয় তথ্যকে ধৰি প্ৰ'ফাইল ডাটা ফাইলসমূহ মচি পেলোৱাটোও বাছি ল'ব পাৰে। এই বিকল্পই “{ $dir }” ফ'ল্ডাৰটো মচি পেলাব আৰু ইয়াক ঘূৰাই পাব নোৱাৰি।
+    আপুনি প্ৰ'ফাইল ডাটা ফাইলসমূহ মচিবলৈ বিচাৰে নেকি?
 profiles-delete-files = ফাইলবোৰ বিলোপ কৰক
 profiles-dont-delete-files = ফাইলবোৰ বিলোপ নকৰিব
 profiles-delete-profile-failed-title = ত্ৰুটি
+profiles-delete-profile-failed-message = এই প্ৰ'ফাইলটো মচিবলৈ চেষ্টা কৰোঁতে ত্ৰুটি ঘটিছে।
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] সন্ধানকাৰীত দেখুৱাওঁক
+        [windows] ফ'ল্ডাৰ খোলক
+       *[other] ডিৰেক্টৰী খোলক
+    }
