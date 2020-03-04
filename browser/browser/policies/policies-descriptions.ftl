@@ -10,6 +10,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Imposta criteri a cui le estensioni basate su tecnologia WebExtension possono accedere via chrome.storage.managed.
+policy-AppAutoUpdate = Attiva o disattiva aggiornamenti automatici dell’applicazione.
 policy-AppUpdateURL = Imposta URL personalizzato per aggiornamento applicazione.
 policy-Authentication = Configura autenticazione integrata per i siti in cui è supportata.
 policy-BlockAboutAddons = Blocca accesso al gestore componenti aggiuntivi (about:addons).
