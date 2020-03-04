@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-title = প্ৰ'ফাইলসমূহৰ বিষয়ে
+profiles-subtitle = এই পৃষ্ঠাখনে আপোনাক আপোনাৰ প্ৰ'ফাইলসমূহ পৰিচালনা কৰাত সহায় কৰে। প্ৰত্যেকটো প্ৰ'ফাইল একো একোটা সুকীয়া জগত য'ত সুকীয়া ইতিহাস, বুকমাৰ্ক, ছেটিংছ আৰু এড-অন থাকে।
 profiles-create = নতুন প্ৰ'ফাইল সৃষ্টি কৰক
 profiles-restart-title = পুনৰাৰম্ভ কৰক
 profiles-restart-in-safe-mode = এড-অ'নবোৰ নিষ্ক্ৰিয় কৰি পুনৰাৰম্ভ কৰক…
