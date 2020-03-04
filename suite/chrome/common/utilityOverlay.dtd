@@ -6,7 +6,7 @@
 <!ENTITY  offlineGoOfflineCmd.label                 "Pracovat offline">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "f">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                   "Soubor">
 <!ENTITY fileMenu.accesskey               "s">
@@ -23,7 +23,7 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "O">
 <!ENTITY newPrivateWindowCmd.label "Anonymní okno">
-<!ENTITY newPrivateWindowCmd.key "B">
+<!ENTITY newPrivateWindowCmd.key "P">
 <!ENTITY newPrivateWindowCmd.accesskey "A">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
@@ -62,13 +62,13 @@
 <!ENTITY selectAllCmd.label               "Vybrat vše">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "a">
-<!ENTITY clearHistoryCmd.label				"Vymazat historii vyhledávání">  
-<!ENTITY clearHistoryCmd.accesskey			"V"> 
-<!ENTITY showSuggestionsCmd.label			"Povolit našeptávání">  
-<!ENTITY showSuggestionsCmd.accesskey		"n"> 
-<!ENTITY preferencesCmd.label				"Předvolby…">
-<!ENTITY preferencesCmd.key					"E">  
-<!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY clearHistoryCmd.label            "Vymazat historii vyhledávání">
+<!ENTITY clearHistoryCmd.accesskey        "V">
+<!ENTITY showSuggestionsCmd.label         "Povolit našeptávání">
+<!ENTITY showSuggestionsCmd.accesskey     "n">
+<!ENTITY preferencesCmd.label             "Předvolby…">
+<!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "e">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,15 +88,15 @@
 <!ENTITY findTypeLinksCmd.label "Hledat během psaní odkazy">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
-<!ENTITY viewMenu.label					"Zobrazení"> 
+<!ENTITY viewMenu.label                   "Zobrazení">
 <!ENTITY viewMenu.accesskey               "Z">
-<!ENTITY viewToolbarsMenu.label				"Nástrojové lišty"> 
-<!ENTITY viewToolbarsMenu.accesskey			"N"> 
-<!ENTITY showTaskbarCmd.label					"Stavový řádek">  
-<!ENTITY showTaskbarCmd.accesskey				"a"> 
+<!ENTITY viewToolbarsMenu.label           "Nástrojové lišty">
+<!ENTITY viewToolbarsMenu.accesskey       "N">
+<!ENTITY showTaskbarCmd.label             "Stavový řádek">
+<!ENTITY showTaskbarCmd.accesskey         "a">
 
-<!ENTITY helpMenu.label					"Nápověda"> 
-<!ENTITY helpMenu.accesskey				"v"> 
+<!ENTITY helpMenu.label                   "Nápověda">
+<!ENTITY helpMenu.accesskey               "v">
 
 <!ENTITY helpTroubleshootingInfo.label      "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -106,24 +106,24 @@
 <!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                    "Zkontrolovat aktualizace…">
 <!ENTITY updateCmd.accesskey                "a">
-<!ENTITY aboutCmd.label					"O aplikaci &brandShortName;">
-<!ENTITY aboutCmd.accesskey				"O">
-<!ENTITY aboutCommPluginsCmd.label			"O zásuvných modulech">
-<!ENTITY aboutCommPluginsCmd.accesskey			"m">
+<!ENTITY aboutCmd.label                     "O aplikaci &brandShortName;">
+<!ENTITY aboutCmd.accesskey                 "O">
+<!ENTITY aboutCommPluginsCmd.label          "O zásuvných modulech">
+<!ENTITY aboutCommPluginsCmd.accesskey      "m">
 
-<!ENTITY direct.label                                   "Online (proxy: žádná)">
-<!ENTITY direct.accesskey                               "d">
-<!ENTITY manual.label                                   "Online (proxy: manuální)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Online (proxy: automatická)">
-<!ENTITY pac.accesskey                                  "a">
-<!ENTITY wpad.label                                     "Online (proxy: automaticky nalezená)">
-<!ENTITY wpad.accesskey                                 "n">
-<!ENTITY system.label                                   "Online (proxy: systémová)">
-<!ENTITY system.accesskey                               "s">
+<!ENTITY direct.label                             "Online (proxy: žádná)">
+<!ENTITY direct.accesskey                         "d">
+<!ENTITY manual.label                             "Online (proxy: manuální)">
+<!ENTITY manual.accesskey                         "m">
+<!ENTITY pac.label                                "Online (proxy: automatická)">
+<!ENTITY pac.accesskey                            "a">
+<!ENTITY wpad.label                               "Online (proxy: automaticky nalezená)">
+<!ENTITY wpad.accesskey                           "n">
+<!ENTITY system.label                             "Online (proxy: systémová)">
+<!ENTITY system.accesskey                         "s">
 
-<!ENTITY proxy.label                                    "Konfigurace proxy serveru…">
-<!ENTITY proxy.accesskey                                "C">
+<!ENTITY proxy.label                              "Konfigurace proxy serveru…">
+<!ENTITY proxy.accesskey                          "C">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Změnit směr textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
