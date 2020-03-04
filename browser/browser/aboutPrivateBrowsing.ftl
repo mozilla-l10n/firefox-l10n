@@ -25,6 +25,7 @@ about-private-browsing =
 about-private-browsing-not-private = আপুনি বৰ্তমান ব্যক্তিগত উইণ্ড'ত নাই।
 content-blocking-title = সমল অৱৰোধকৰণ
 content-blocking-description = আপোনাৰ ইণ্টাৰনেট কাৰ্যকলাপৰ ওপৰত চকু ৰাখিবলৈ কিছুমান ৱেবছাইটে ট্রেকাৰ ব্যৱহাৰ কৰে। ব্যক্তিগত উইণ্ড'বোৰত, আপোনাৰ ব্ৰাউজিং আচৰণৰ বিষয়ে তথ্য সংগ্ৰহ কৰিব পৰা বহুতো ট্রেকাৰ { -brand-short-name }-ৰ সমল অৱৰোধকৰণে স্বয়ংক্ৰিয়ভাৱে অৱৰোধ কৰে।
+about-private-browsing-info-description = আপুনি এপ বা সকলো ব্যক্তিগত ব্ৰাউজিং টেব আৰু উইণ্ড' বন্ধ কৰিলে { -brand-short-name }-এ আপোনাৰ সন্ধানৰ লগতে ব্ৰাউজিং ইতিহাস পৰিষ্কাৰ কৰে। ই আপোনাক ৱেবছাইটসমূহ বা আপোনাৰ ইণ্টাৰনেট সেৱা প্ৰদানকাৰীৰ চকুত নামবিহীন নকৰে যদিও আপুনি অনলাইন কি কৰে সেয়া এই কম্পিউটাৰ ব্যৱহাৰ কৰা অন্য লোকৰ পৰা গোপনে ৰখাটো সহজ কৰে।
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
