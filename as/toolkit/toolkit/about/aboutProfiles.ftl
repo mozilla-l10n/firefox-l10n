@@ -31,6 +31,7 @@ profiles-remove = আঁতৰাওক
 profiles-set-as-default = ডিফ'ল্ট প্ৰ'ফাইল হিচাপে ছেট কৰক
 profiles-launch-profile = নতুন ব্ৰাউজাৰত প্ৰ'ফাইল চালু কৰক
 profiles-cannot-set-as-default-title = ডিফ'ল্ট নিৰ্ধাৰণ কৰিব পৰা নগ'ল
+profiles-cannot-set-as-default-message = { -brand-short-name }-ৰ বাবে ডিফ'ল্ট প্ৰ'ফাইল সলনি কৰিব নোৱাৰি।
 profiles-yes = হয়
 profiles-no = নহয়
 profiles-rename-profile-title = প্ৰ'ফাইলৰ পুনঃনামকৰণ
