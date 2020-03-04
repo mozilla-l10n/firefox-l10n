@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = পূৰ্বৰ দৰে
 customize-mode-lwthemes-my-themes =
     .value = মোৰ থীমবোৰ
+customize-mode-touchbar-cmd =
+    .label = স্পৰ্শ দণ্ডিকা অনুকূলিত কৰক…
