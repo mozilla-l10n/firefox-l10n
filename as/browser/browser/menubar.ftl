@@ -264,5 +264,8 @@ menu-help-safe-mode-with-addons =
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = প্ৰবঞ্চনামূলক ছাইটৰ অভিযোগ কৰকreport…
+    .label = প্ৰবঞ্চক ছাইটৰ কথা সদৰি কৰক…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = এইটো প্ৰবঞ্চক ছাইট নহয়…
+    .accesskey = d
