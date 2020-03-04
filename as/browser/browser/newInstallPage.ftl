@@ -10,7 +10,9 @@
 title = গুৰুত্বপূৰ্ণ বাতৰি
 heading = আপোনাৰ { -brand-short-name } প্ৰ'ফাইললৈ সালসলনি
 changed-title = কি সালসলনি?
+changed-desc-profiles = { -brand-short-name }-ৰ এই ইনষ্টলেশ্যনত এটা নতুন প্ৰ'ফাইল আছে। প্ৰ'ফাইল হৈছে ফাইলৰ সংহতি য'ত Firefox-এ বুকমাৰ্ক, পাছৱৰ্ড আৰু ব্যৱহাৰকাৰীৰ পছন্দসমূহৰ দৰে তথ্য সঞ্চয় কৰে।
 options-title = মোক কি কি বিকল্প আছে?
+resources = সম্পদসমূহ:
 sync-header = ছাইন ইন বা { -fxaccount-brand-name } সৃষ্টি কৰক
 sync-label = আপোনাৰ ইমেইল প্ৰবিষ্ট কৰক
 sync-input =
