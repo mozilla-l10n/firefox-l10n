@@ -139,8 +139,8 @@ cfr-whatsnew-pip-cta = Saber mais
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = Menos popups irritantes
-cfr-whatsnew-permission-prompt-body = O { -brand-shorter-name } agora impede que os sites solicitem de forma automática o envio de mensagens pop-up.
+cfr-whatsnew-permission-prompt-header = Menos pop-ups irritantes
+cfr-whatsnew-permission-prompt-body = Agora o { -brand-shorter-name } impede que os sites solicitem, de forma automática, o envio de mensagens em pop-ups.
 cfr-whatsnew-permission-prompt-cta = Saber mais
 
 ## Fingerprinter Counter
@@ -153,10 +153,10 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Identificador bloqueado
        *[other] Identificadores bloqueados
     }
-cfr-whatsnew-fingerprinter-counter-body = O { -brand-shorter-name } bloqueia muitos identificadores que recolhem informações em segredo sobre o seu dispositivo e ações para criar um perfil de publicidade sobre si.
+cfr-whatsnew-fingerprinter-counter-body = O { -brand-shorter-name } bloqueia muitos identificadores que recolhem, em segredo, informações sobre o seu dispositivo e ações para criar um perfil publicitário de si.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Identificadores
-cfr-whatsnew-fingerprinter-counter-body-alt = O { -brand-shorter-name } pode bloquear muitos identificadores que recolhem informações em segredo sobre o seu dispositivo e ações para criar um perfil de publicidade sobre si.
+cfr-whatsnew-fingerprinter-counter-body-alt = O { -brand-shorter-name } pode bloquear muitos identificadores que recolhem, em segredo, informações sobre o seu dispositivo e ações para criar um perfil publicitário de si.
 
 ## Bookmark Sync
 
