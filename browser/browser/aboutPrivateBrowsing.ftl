@@ -25,5 +25,15 @@ about-private-browsing =
 about-private-browsing-not-private = আপুনি বৰ্তমান ব্যক্তিগত উইণ্ড'ত নাই।
 content-blocking-title = সমল অৱৰোধকৰণ
 content-blocking-description = আপোনাৰ ইণ্টাৰনেট কাৰ্যকলাপৰ ওপৰত চকু ৰাখিবলৈ কিছুমান ৱেবছাইটে ট্রেকাৰ ব্যৱহাৰ কৰে। ব্যক্তিগত উইণ্ড'বোৰত, আপোনাৰ ব্ৰাউজিং আচৰণৰ বিষয়ে তথ্য সংগ্ৰহ কৰিব পৰা বহুতো ট্রেকাৰ { -brand-short-name }-ৰ সমল অৱৰোধকৰণে স্বয়ংক্ৰিয়ভাৱে অৱৰোধ কৰে।
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = ব্যক্তিগত উইণ্ড'সমূহত { $engineName } হৈছে আপোনাৰ ডিফ'ল্ট ছাৰ্চ ইঞ্জিন
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] আন কোনো ছাৰ্চ ইঞ্জিন বাছনি কৰিবলৈ <a data-l10n-name="link-options">বিকল্পসমূহ</a>লৈ যাওঁক
+       *[other] আন কোনো ছাৰ্চ ইঞ্জিন বাছনি কৰিবলৈ <a data-l10n-name="link-options">পছন্দসমূহ</a>লৈ যাওঁক
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = বন্ধ কৰক
