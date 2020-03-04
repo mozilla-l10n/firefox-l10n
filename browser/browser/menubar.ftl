@@ -201,6 +201,9 @@ menu-tools-turn-on-sync =
 menu-tools-sync-now =
     .label = এতিয়া সংমিহলি কৰক
     .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name }-লৈ আকৌ সংযোগ কৰক…
+    .accesskey = R
 menu-tools-web-developer =
     .label = ৱেব উন্নয়নকাৰী
     .accesskey = W
@@ -221,6 +224,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = লে'আউট ত্ৰুটি সংশোধনকাৰী
+    .accesskey = L
 
 ## Window Menu
 
@@ -234,6 +240,12 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = সহায়
     .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name }-ৰ সহায়
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } ভ্ৰমণ
+    .accesskey = o
 menu-help-keyboard-shortcuts =
     .label = কিবৰ্ড চৰ্টকাটসমূহ
     .accesskey = K
@@ -246,3 +258,11 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…
     .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = এড-অনসমূহ সক্ৰিয় কৰি পুনৰাৰম্ভ কৰক
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = প্ৰবঞ্চনামূলক ছাইটৰ অভিযোগ কৰকreport…
+    .accesskey = D
