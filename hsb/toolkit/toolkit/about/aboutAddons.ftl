@@ -328,7 +328,7 @@ install-theme-button = Drastu instalować
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Rjadować
-find-more-addons = Wobhladajće sej dalše přidatki
+find-more-addons = Dalše přidatki pytać
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -452,7 +452,7 @@ discover-heading = Personalizujće swój { -brand-short-name }
 shortcuts-heading = Tastowe skrótšenki rozšěrjenjow rjadować
 theme-heading-search-label = Dalše drasty pytać
 extension-heading-search-label = Dalše rozšěrjenja pytać
-default-heading-search-label = Wobhladajće sej dalše přidatki
+default-heading-search-label = Dalše přidatki pytać
 addons-heading-search-input =
     .placeholder = Na addons.mozilla.org pytać
 addon-page-options-button =
