@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Hei ">
 <!ENTITY success.title.after ", seuraavat sähköpostiosoitteet ovat saatavilla:">
 <!ENTITY success.tip "(Voit myös kokeilla lempinimiä tai muita termejä löytääksesi muita sähköpostiosoitteita)">
-<!ENTITY partnership.description "&brandShortName;illä yhteistyökuvio useiden palveluntarjoajien ja tämä mahdollistaa sähköpostitilien luomisen ohjelmassa. Aloita täyttämällä lomakkeeseen vain etu- ja sukunimesi, tai mitä tahansa haluat.">
+<!ENTITY partnership.description "Yhteistyössä palveluntarjoajien kanssa &brandShortName; pystyy tarjoamaan sinulle uuden sähköpostiosoitteen. Aloita täyttämällä etu- ja sukunimesi tai muu haluamasi tunniste yllä olevaan kenttään.">
 <!ENTITY existing.header "Onko sinulla jo sähköpostiosoite, jota haluat käyttää?">
 <!ENTITY tinyheader.title "Onko sinulla jo osoite?">
 <!ENTITY tinyheader.existing "Ohita tämä kohta ja käytä olemassa olevaa osoitetta">
