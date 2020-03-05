@@ -34,6 +34,8 @@ about-debugging-sidebar-usb-disabled = USB desactivat
 aboutdebugging-sidebar-runtime-connection-status-connected = Connectat
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Desconectat
+# Text displayed in the about:debugging sidebar when no device was found.
+about-debugging-sidebar-no-devices = Cap de periferic pas detectat
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = Connectar
@@ -174,6 +176,15 @@ about-debugging-extension-manifest-url =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Emplaçament
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ID d’extension
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Aviar
 # Displayed for service workers in runtime pages that are currently running (service
