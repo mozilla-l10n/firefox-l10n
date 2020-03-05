@@ -2,16 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.character.encoding.title   "Merkistökoodaus">
+<!ENTITY pref.character.encoding2.title  "Merkistökoodaus">
 <!ENTITY messageDisplay.caption          "Viestien luku">
-<!ENTITY viewFallbackCharset.label       "Oletusmerkistökoodaus:">
-<!ENTITY viewFallbackCharset.accesskey   "O">
 <!ENTITY viewFallbackCharset.desc        "(Käytetään perinteiselle sisällölle, joka ei itse määritä käytettävää merkistökoodausta.)">
 
 <!ENTITY composingMessages.caption       "Viestien kirjoitus">
 <!ENTITY useMIME.label                   "Käytä 'quoted printable' -MIME-koodausta viesteissä, jotka sisältävät 8-bittisiä merkkejä. Viestit lähetetään sellaisenaan, jos tätä ei ole valittu.">
 <!ENTITY useMIME.accesskey               "K">
-<!ENTITY sendDefaultCharset.label        "Oletusmerkistökoodaus:">
-<!ENTITY sendDefaultCharset.accesskey    "e">
-<!ENTITY replyInDefaultCharset2.label    "Käytä tätä merkistökoodausta vastattaessa, jos mahdollista. (Jos tätä ei ole valittu, niin tätä koodausta käytetään vain uusissa viesteissä.)">
-<!ENTITY replyInDefaultCharset2.accesskey "ä">
