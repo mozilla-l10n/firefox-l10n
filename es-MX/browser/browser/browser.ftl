@@ -125,6 +125,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escribe menos, encuentra más: busca { $engineName } desde tu barra de direcciones.
 urlbar-search-tips-redirect = Empieza tu búsqueda aquí para ver sugerencias desde { $engineName } y tu historial de navegación.
+urlbar-search-tips-redirect-2 = Inicia tu búsqueda en la barra de direcciones para ver sugerencias de { $engineName } y tu historial de navegación.
 
 ##
 
