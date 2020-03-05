@@ -146,6 +146,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Включване на { -sync-brand-
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Никога не забравяйте отново парола
+cfr-doorhanger-sync-logins-body = Съхранявайте сигурно и синхронизирайте паролите си на всичките си устройства.
 cfr-doorhanger-sync-logins-ok-button = Включване на { -sync-brand-short-name }
     .accesskey = В
 
