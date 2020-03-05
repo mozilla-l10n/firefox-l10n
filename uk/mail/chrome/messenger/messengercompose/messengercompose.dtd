@@ -175,9 +175,9 @@
 <!ENTITY attachVCard.label "Вкласти візитну картку (vCard)">
 <!ENTITY attachVCard.accesskey "в">
 
-<!ENTITY returnReceiptMenu.label "Сповіщення про доставку">
+<!ENTITY returnReceiptMenu.label "Сповіщення про прочитання">
 <!ENTITY returnReceiptMenu.accesskey "С">
-<!ENTITY dsnMenu.label "Стан сповіщення про доставку">
+<!ENTITY dsnMenu.label "Cповіщення про доставку">
 <!ENTITY dsnMenu.accesskey "д">
 <!ENTITY deliveryFormatMenu.label "Формат доставки">
 <!ENTITY deliveryFormatMenu.accesskey "Ф">
