@@ -140,11 +140,13 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pagina blocada">
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "S’utilizatz un ret d’entrepresa, podètz contactar lo servici informatic.">
 
 <!ENTITY clockSkewError.title "L’ora de l’ordenador es pas corrècta">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
 
+<!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.title "Error de protocòl ret">

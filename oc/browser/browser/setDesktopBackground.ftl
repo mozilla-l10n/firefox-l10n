@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = Definir lo fons del burèu
 open-desktop-prefs =
     .label = Dobrir las preferéncias del burèu
+set-background-preview-unavailable = Apercebut indisponible
 set-background-color = Color :
 set-background-position = Posicion :
 set-background-tile =
