@@ -6,13 +6,6 @@
 <!ENTITY sendMaildesc.label           "Lähetettäessä muotoiltua (HTML) viestiä yhdelle tai useammalle vastaanottajalle, joiden yhteystiedoissa lukee, että he eivät pysty vastaanottamaan viestejä HTML-muodossa:">
 <!ENTITY askMe.label                  "Kysy, mitä tehdään">
 <!ENTITY askMe.accesskey              "K">
-<!ENTITY convertPlain.label           "Muunna viesti pelkäksi tekstiksi">
-<!ENTITY convertPlain.accesskey       "M">
-<!ENTITY sendHTML.label               "Lähetä viesti HTML:nä joka tapauksessa">
-<!ENTITY sendHTML.accesskey           "L">
-<!ENTITY sendBoth.label               "Lähetä viesti sekä pelkkä teksti- että HTML-muodossa">
-<!ENTITY sendBoth.accesskey           "ä">
-<!ENTITY override.label               "Voit korvata tämän asetuksen yksittäisten viestien kohdalla Valinnat-valikosta, kun kirjoitat viestiä.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "HTML- ja pelkkä teksti -verkkoalueet">
@@ -37,3 +30,5 @@
 <!ENTITY domainnameError.title        "Virheellinen verkkoalueen nimi">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "Verkkoalueen nimi @string@ on virheellinen. Oikeanmuotoisissa verkkoalueiden nimissä on vähintään yksi piste ja sen molemmilla puolilla on alfanumeerisia merkkejä.">
+
+<!-- Global auto-detect switch -->
