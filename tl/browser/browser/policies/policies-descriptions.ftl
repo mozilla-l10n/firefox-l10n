@@ -88,5 +88,6 @@ policy-SecurityDevices = Ikabit ang mga PKCS #11 module.
 policy-SSLVersionMax = I-set ang maximum SSL version.
 policy-SSLVersionMin = I-set ang minimum SSL version.
 policy-SupportMenu = Magdagdag ng custom support menu item sa help menu.
+policy-UserMessaging = Huwag ipakita ang ilang mga mensahe sa gumagamit.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Pigilang mabisita ang mga website. Tingnan ang documentation para sa karagdagang impormasyon sa format.
