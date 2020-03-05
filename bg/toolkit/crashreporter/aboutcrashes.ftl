@@ -2,11 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Доклади за сривове
-clear-all-reports-label = Премахване на всички
+submit-all-button-label = Изпращане на всички
 delete-button-label = Изтриване на всички
 delete-confirm-title = Сигурни ли сте?
-delete-confirm-description = Така всички доклади ще бъдат изтрити, а това е необратимо.
 delete-unsubmitted-description = Така всички неизпратени доклади ще бъдат изтрити, а това е необратимо.
 delete-submitted-description = Така списъкът на изпратени доклади за срив ще бъде изчистен, но не и изпратените данни. Това действие е необратимо.
 crashes-unsubmitted-label = Неизпратени доклади за срив
