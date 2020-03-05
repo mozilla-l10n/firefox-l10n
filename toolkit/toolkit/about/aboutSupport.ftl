@@ -89,6 +89,8 @@ graphics-crash-guards-title = Características de protección contra fallos desh
 graphics-workarounds-title = Soluciones
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocolo de ventanas
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Entorno de escritorio
 place-database-title = Base de datos de lugares
 place-database-integrity = Integridad
 place-database-verify-integrity = Verificar integridad
@@ -147,6 +149,22 @@ intl-locales-default = Localización predeterminada
 intl-os-title = Sistema operativo
 intl-os-prefs-system-locales = Localizaciones del sistema
 intl-regional-prefs = Preferencias regionales
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Depuración remota (protocolo de Chromium )
+remote-debugging-accepting-connections = Aceptando conexiones
+remote-debugging-url = URL
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -245,6 +263,7 @@ d3d11video-crash-guard = Decodificador de video D3D11
 d3d9video-crash-buard = Decodificador de video D3D9
 d3d9video-crash-guard = Decodificador de video D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Decodificador de vídeo WMF VPX
 reset-on-next-restart = Restablecer en el próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset = Restablecer dispositivo

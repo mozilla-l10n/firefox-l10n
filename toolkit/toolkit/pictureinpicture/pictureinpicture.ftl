@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Silenciar
 pictureinpicture-unmute =
     .aria-label = Escuchar
+pictureinpicture-unpip =
+    .aria-label = Enviar de vuelta a la pestaña
+pictureinpicture-close =
+    .aria-label = Cerrar
