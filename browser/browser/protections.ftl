@@ -52,6 +52,9 @@ fingerprinter-tab-title = Huellas dactilares
 fingerprinter-tab-content = Las huellas dactilares recopilan la configuración de tu navegador y tu equipo para crear un perfil de ti. Con esta huella numérica pueden rastrearte por varios sitios web. <a data-l10n-name="learn-more-link">Más información</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan los recursos de tu sistema para minar dinero digital. Los scripts de criptominería te agotan la batería, ralentizan la computadora y pueden provocar que el recibo de la luz llegue más caro. <a data-l10n-name="learn-more-link">Más información</a>
+mobile-app-title = Bloquear los rastreadores de anuncios en más dispositivos
+mobile-app-card-content = Usa el navegador móvil con protección integrada contra el rastreo de anuncios.
+mobile-app-links = El navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> y <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Que ya no se te olvide ninguna otra contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } guarda de manera segura tus contraseñas en el navegador.
@@ -59,6 +62,9 @@ lockwise-header-content-logged-in = Almacena y sincroniza tus contraseñas en to
 protection-report-view-logins-button = Ver credenciales
     .title = Ir a los inicios de sesión guardados
 lockwise-no-logins-content = Obtén la app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para tener tus contraseñas en cualquier lugar.
+lockwise-mobile-app-title = Lleva tus contraseñas a todos lados
+lockwise-no-logins-card-content = Usa contraseñas guardadas en { -brand-short-name } en cualquier dispositivo.
+lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> y <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
