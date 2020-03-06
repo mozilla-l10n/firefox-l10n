@@ -26,6 +26,8 @@ menu =
     .title = Menü megnyitása
 # This menuitem is only visible on Windows
 menu-menuitem-import = Jelszavak importálása…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importálás egy másik böngészőből…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Beállítások
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Másolás
 login-item-copied-username-button-text = Másolva!
 login-item-password-label = Jelszó
-login-item-password-reveal-checkbox-show =
-    .title = Jelszó megjelenítése
-login-item-password-reveal-checkbox-hide =
-    .title = Jelszó elrejtése
 login-item-password-reveal-checkbox =
     .aria-label = Jelszó megjelenítése
 login-item-copy-password-button-text = Másolás
