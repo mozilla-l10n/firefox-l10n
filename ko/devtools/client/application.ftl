@@ -62,7 +62,7 @@ serviceworker-empty-intro = 여기서 검사하려면 Service Worker를 등록�
 serviceworker-empty-suggestions = 현재 페이지에 Service Worker가 있어야 한다면 몇가지 시도해 볼 수 있습니다
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = 콘솔의 오류를 확인해 보세요. <a>콘솔 열기</a>
+serviceworker-empty-suggestions-console = 콘솔에서 오류를 확인해 보세요. <a>콘솔 열기</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
 serviceworker-empty-suggestions-debugger = Service Worker 등록과정을 살펴보고 예외를 확인해 보세요. <a>디버거 열기</a>
