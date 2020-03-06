@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
-<!ENTITY pref.applications.title        "Hjälpprogram">
+<!ENTITY pref.applications.title "Hjälpprogram">
 
 <!ENTITY typeColumn.label        "Typ av innehåll">
 <!ENTITY typeColumn.accesskey    "T">
@@ -12,3 +12,5 @@
 <!ENTITY actionColumn2.accesskey "Å">
 
 <!ENTITY search.placeholder      "Sök innehåll och åtgärder">
+
+<!ENTITY useAppChooser.accesskey "U">
