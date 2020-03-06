@@ -26,6 +26,8 @@ menu =
     .title = მენიუს გახსნა
 # This menuitem is only visible on Windows
 menu-menuitem-import = პაროლების გადმოტანა...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = გადმოტანა სხვა ბრაუზერიდან…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] პარამეტრები
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = ასლი
 login-item-copied-username-button-text = ასლი აღებულია!
 login-item-password-label = პაროლი
-login-item-password-reveal-checkbox-show =
-    .title = პაროლის ჩვენება
-login-item-password-reveal-checkbox-hide =
-    .title = პაროლის დამალვა
 login-item-password-reveal-checkbox =
     .aria-label = პაროლის ჩვენება
 login-item-copy-password-button-text = ასლი

@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = მიუთითეთ დებულებები, რომ WebExtension-ებს შეეძლოს chrome.storage.managed-ით წვდომა.
+policy-AppAutoUpdate = ჩართვა ან გამორთვა, აპლიკაციის თვითგანახლების.
 policy-AppUpdateURL = პროგრამის გასაახლებელი URL-მისამართის დაყენება.
 policy-Authentication = ინტეგრირებული ავთენტურობის გამართვა ვებსაიტებისთვის, რომლებზეც მხარდაჭერილია.
 policy-BlockAboutAddons = დამატებების მმართველთან წვდომის შეზღუდვა (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = ნაგულისხმევი მნი
 policy-OverrideFirstRunPage = პირველი გაშვების გვერდის ჩანაცვლება. მიუთითეთ დებულებას ცარიელი, თუ გსურთ პირველი გაშვების გვერდის გათიშვა.
 policy-OverridePostUpdatePage = განახლების შემდგომი „რა სიახლეებია“ გვერდის ჩანაცვლება. მიუთითეთ დებულებას ცარიელი, თუ გსურთ განახლების შემდგომი გვერდის გათიშვა.
 policy-PasswordManagerEnabled = ჩართეთ პაროლების შენახვა პაროლების მმართველში.
-policy-Permissions = ნებართვების გამართვა კამერაზე, მიკროფონზე, მდებარეობასა და შეტყობინებებზე.
 policy-Permissions2 = ნებართვების გამართვა კამერაზე, მიკროფონზე, მდებარეობაზე, შეტყობინებებსა და თვითგაშვებაზე.
 policy-PopupBlocking = ცალკეული ვებსაიტებისთვის ამომხტომი ფანჯრების დაშვება ნაგულისხმევად.
 policy-Preferences = მნიშვნელობების შერჩევა და ჩაკეტვა, პარამეტრების ნაწილისთვის.
