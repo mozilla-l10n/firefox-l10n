@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "프로필 기록을 현재 이용할 수 없습니다. 모든 사생활 보호 창을 닫고 다시 시도해 주세요.">
+<!ENTITY performanceUI.unavailableNoticePB "프로필 기록을 현재 이용할 수 없습니다. 모든 사생활 보호 창을 닫고 다시 시도하세요.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
