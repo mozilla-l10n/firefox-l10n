@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = გადმოტანა სხვა ბრაუზერიდან…
 appmenuitem-protection-report-title = პირადულობის დაცვა
 appmenuitem-protection-report-tooltip =
     .tooltiptext = პირადულობის ანგარიშზე გადასვლა
