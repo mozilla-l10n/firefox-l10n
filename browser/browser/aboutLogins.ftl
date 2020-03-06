@@ -26,6 +26,8 @@ menu =
     .title = Mở menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Nhập mật khẩu…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Nhập dữ liệu từ trình duyệt khác…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Tùy chọn
@@ -83,10 +85,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Sao chép
 login-item-copied-username-button-text = Đã sao chép!
 login-item-password-label = Mật khẩu
-login-item-password-reveal-checkbox-show =
-    .title = Hiện mật khẩu
-login-item-password-reveal-checkbox-hide =
-    .title = Ẩn mật khẩu
 login-item-password-reveal-checkbox =
     .aria-label = Hiện mật khẩu
 login-item-copy-password-button-text = Sao chép
