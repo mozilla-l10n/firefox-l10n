@@ -26,6 +26,8 @@ menu =
     .title = Meni wočinić
 # This menuitem is only visible on Windows
 menu-menuitem-import = Hesła importować…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Z druheho wobhladowaka importować…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nastajenja
@@ -86,10 +88,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopěrować
 login-item-copied-username-button-text = Kopěrowane!
 login-item-password-label = Hesło
-login-item-password-reveal-checkbox-show =
-    .title = Hesło pokazać
-login-item-password-reveal-checkbox-hide =
-    .title = Hesło schować
 login-item-password-reveal-checkbox =
     .aria-label = Hesło pokazać
 login-item-copy-password-button-text = Kopěrować
