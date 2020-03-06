@@ -26,6 +26,8 @@ menu =
     .title = Öppna meny
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importera lösenord…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importera från en annan webbläsare…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Inställningar
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopiera
 login-item-copied-username-button-text = Kopierad!
 login-item-password-label = Lösenord
-login-item-password-reveal-checkbox-show =
-    .title = Visa lösenord
-login-item-password-reveal-checkbox-hide =
-    .title = Dölj lösenord
 login-item-password-reveal-checkbox =
     .aria-label = Visa lösenord
 login-item-copy-password-button-text = Kopiera
