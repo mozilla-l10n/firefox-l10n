@@ -15,7 +15,7 @@ abuse-report-subtitle = Qual es le problema?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = per <a data-l10n-name="author-name">{ $author-name }</a>
-abuse-report-learnmore = Es tu incerte re qual problema seliger? <a data-l10n-name="learnmore-link">Sape plus re le reporto del extensiones e del themas</a>
+abuse-report-learnmore = Non secur de qual problema seliger? <a data-l10n-name="learnmore-link">Lege plus sur como signalar extensiones e themas</a>
 abuse-report-submit-description = Describe le problema (optional)
 abuse-report-textarea =
     .placeholder = Il es plus facile pro nos abbordar un problema si nos ha detalios. Per favor describe tu experientia. Gratias pro adjutar nos a mantener le Web salubre.
@@ -27,7 +27,7 @@ abuse-report-submit-note =
 
 abuse-report-cancel-button = Cancellar
 abuse-report-next-button = Sequente
-abuse-report-goback-button = Regreder
+abuse-report-goback-button = Retornar
 abuse-report-submit-button = Inviar
 
 ## Message bars descriptions.
@@ -38,19 +38,19 @@ abuse-report-submit-button = Inviar
 
 abuse-report-messagebar-aborted = Reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> cancellate.
 abuse-report-messagebar-submitting = Invio de signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-submitted = Gratias pro invio del signalation. Desira tu eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?
-abuse-report-messagebar-submitted-noremove = Gratias pro le invio del signalation.
-abuse-report-messagebar-removed-extension = Gratias pro invio del signalation. Tu ha eliminate le extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-removed-theme = Gratias pro invio del signalation. Tu ha eliminate le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-error = Un error occurreva durante le invio de signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Gratias pro haber inviate un signalation. Vole tu remover <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted-noremove = Gratias pro haber inviate un signalation.
+abuse-report-messagebar-removed-extension = Gratias pro haber inviate un signalation. Tu ha removite le extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Gratias pro haber inviate un signalation. Tu ha removite le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = Un error occurreva durante le invio del signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Le reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> non esseva inviate perque un altere reporto ha essite inviate recentemente.
 
 ## Message bars actions.
 
-abuse-report-messagebar-action-remove-extension = Si, remover illo
-abuse-report-messagebar-action-keep-extension = No, io vole mantener illo
-abuse-report-messagebar-action-remove-theme = Si, remover illo
-abuse-report-messagebar-action-keep-theme = No, io vole mantener illo
+abuse-report-messagebar-action-remove-extension = Si, remove lo
+abuse-report-messagebar-action-keep-extension = No, io vole mantener lo
+abuse-report-messagebar-action-remove-theme = Si, remove lo
+abuse-report-messagebar-action-keep-theme = No, io vole mantener lo
 abuse-report-messagebar-action-retry = Retentar
 abuse-report-messagebar-action-cancel = Cancellar
 
@@ -80,7 +80,7 @@ abuse-report-broken-suggestions-theme = Il pare que tu ha identificate un defect
 abuse-report-policy-reason = Contento odiose, violente o illegal
 abuse-report-policy-reason-v2 = Contento odiose, violente o illegal
 abuse-report-policy-suggestions = Nota: problemas de derectos de autor e marca de fabrica debe ser signalate in un procedura differente. <a data-l10n-name="report-infringement-link">Usa iste instructiones</a> pro signalar le problema.
-abuse-report-unwanted-reason = Io jammais voleva iste extension e non pote remover illo
+abuse-report-unwanted-reason = Io non ha jammais volite iste extension e non succede a remover lo
 abuse-report-unwanted-reason-v2 = Io non lo ha jammais volite e non sape como liberar me de illo
 abuse-report-unwanted-example = Exemplo: un application lo ha installate sin mi permission
 abuse-report-other-reason = Altere cosa
