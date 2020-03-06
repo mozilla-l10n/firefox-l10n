@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = WebExtensions이 chrome.storage.managed를 통해 액세스할 수 있는 정책을 설정합니다.
+policy-AppAutoUpdate = 응용 프로그램 자동 업데이트를 사용하거나 사용하지 않게 합니다.
 policy-AppUpdateURL = 커스텀 앱 업데이트 URL을 설정합니다.
 policy-Authentication = 통합 인증을 지원하는 웹 사이트를 위한 설정을 합니다.
 policy-BlockAboutAddons = 부가 기능 관리자(about:addons) 접근을 차단합니다.
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = 저장된 로그인과 비밀번호를 기억�
 policy-OverrideFirstRunPage = 첫 실행 페이지를 재정의 합니다. 첫 실행 페이지를 사용 안 하려면 이 정책을 빈칸으로 설정하세요.
 policy-OverridePostUpdatePage = 업데이트 후 "새 기능" 페이지를 재정의 합니다. 업데이트 후 페이지를 사용 안 하려면 이 정책을 빈칸으로 설정하세요.
 policy-PasswordManagerEnabled = 비밀번호 관리자에 비밀번호 저장을 사용합니다.
-policy-Permissions = 카메라, 마이크, 위치 및 알림에 대한 권한을 구성합니다.
 policy-Permissions2 = 카메라, 마이크, 위치, 알림 및 자동 재생에 대한 권한을 구성합니다.
 policy-PopupBlocking = 기본으로 특정 웹 사이트가 팝업을 보여주도록 허용합니다.
 policy-Preferences = 설정의 하위 집합에 대한 값을 설정하고 잠급니다.
