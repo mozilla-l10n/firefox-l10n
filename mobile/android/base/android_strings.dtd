@@ -285,10 +285,6 @@
 <!ENTITY datareporting_wifi_title2 "Georilevazione di &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Aiuta &vendorShortName; a creare una mappa del mondo. Condividi la posizione approssimativa del tuo dispositivo all’interno delle reti Wi-Fi e cellulare per migliorare i nostri servizi di georilevazione.">
 <!ENTITY datareporting_stumbler_notification_title "Georilevazione di &vendorShortName; in esecuzione">
-<!ENTITY pref_update_autodownload3 "Aggiornamenti automatici">
-<!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Mai">
-<!ENTITY pref_update_autodownload_always "Sempre">
 <!ENTITY help_menu "Guida">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
@@ -444,16 +440,6 @@
 <!ENTITY suggestions_prompt3 "Attivare i suggerimenti di ricerca?">
 <!ENTITY suggestion_for_engine "Cerca &formatS2; in &formatS1;">
 <!ENTITY searchable_description "Segnalibri e cronologia">
-<!ENTITY updater_start_title2 "Aggiornamento disponibile per &brandShortName;">
-<!ENTITY updater_start_select2 "Tocca per scaricare">
-<!ENTITY updater_permission_text "Per scaricare file e aggiornamenti &brandShortName; ha bisogno dei permessi per accedere allo spazio di archiviazione.">
-<!ENTITY updater_permission_allow "Consenti">
-<!ENTITY updater_downloading_title2 "Download di &brandShortName; in corso">
-<!ENTITY updater_downloading_title_failed2 "Download non riuscito">
-<!ENTITY updater_downloading_select2 "Tocca per installare a download completato.">
-<!ENTITY updater_downloading_retry2 "Tocca per riprovare">
-<!ENTITY updater_apply_title3 "Aggiornamento scaricato per &brandShortName;">
-<!ENTITY updater_apply_select3 "Tocca per installare">
 <!ENTITY new_guest_session "Nuova sessione ospite">
 <!ENTITY exit_guest_session "Termina sessione ospite">
 <!ENTITY guest_session_dialog_continue "Continua">
@@ -538,7 +524,6 @@
 <!ENTITY download_notification_channel "Download">
 <!ENTITY media_notification_channel2 "Audio e video">
 <!ENTITY leanplum_default_notifications_channel2 "Consigli e suggerimenti da &vendorShortName;">
-<!ENTITY updater_notification_channel "Aggiornamenti app">
 <!ENTITY synced_tabs_notification_channel "Schede sincronizzate">
 <!ENTITY site_notifications_channel "Notifiche siti">
 <!ENTITY crash_handler_notifications_channel "Crash Reporter &brandShortName;">
