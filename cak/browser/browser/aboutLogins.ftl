@@ -26,6 +26,8 @@ menu =
     .title = Tijaq k'utsamaj
 # This menuitem is only visible on Windows
 menu-menuitem-import = Kejik' Ewan taq Tzij...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Tijik' pa Jun Chik Okik'amaya'l…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Taq cha'oj
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Tiwachib'ëx
 login-item-copied-username-button-text = ¡Xwachib'ëx!
 login-item-password-label = Ewan tzij
-login-item-password-reveal-checkbox-show =
-    .title = Tik'ut ewan tzij
-login-item-password-reveal-checkbox-hide =
-    .title = Tewäx ewan tzij
 login-item-password-reveal-checkbox =
     .aria-label = Tik'ut ri ewan tzij
 login-item-copy-password-button-text = Tiwachib'ëx
