@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Importálás egy másik böngészőből…
 appmenuitem-protection-report-title = Adatvédelem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ugrás az adatvédelmi jelentéséhez
