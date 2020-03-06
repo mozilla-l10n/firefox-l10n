@@ -48,6 +48,7 @@ lockwise-header-content = { -lockwise-brand-name } gardatz d’un biais segur v�
 protection-report-view-logins-button = Veire los identificants
     .title = Anar als identificants gardats
 lockwise-mobile-app-title = Emportatz vòstres senhals pertot
+lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
