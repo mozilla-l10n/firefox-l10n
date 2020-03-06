@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = 다른 브라우저에서 가져오기…
 appmenuitem-protection-report-title = 개인 정보 보호
 appmenuitem-protection-report-tooltip =
     .tooltiptext = 개인 정보 보호 보고서로 이동
