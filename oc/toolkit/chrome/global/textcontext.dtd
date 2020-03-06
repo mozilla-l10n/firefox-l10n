@@ -29,11 +29,9 @@
 
 <!ENTITY fillLoginMenu.label          "Garnir l’identificant">
 <!ENTITY fillLoginMenu.accesskey      "G">
-<!ENTITY useGeneratedPassword.label   "Utilizar un senhal generat secretament…">
-<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Emplenar lo senhal">
 <!ENTITY fillPasswordMenu.accesskey   "m">
 <!ENTITY fillUsernameMenu.label       "Emplenar lo nom d'utilizaire">
 <!ENTITY fillUsernameMenu.accesskey   "m">
-<!ENTITY noLoginSuggestions.label     "(pas de connexion suggerida)">
+<!ENTITY noLoginSuggestions.label     "(pas d’identificant suggerit)">
 <!ENTITY viewSavedLogins.label        "Afichar los identificants enregistrats">
