@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = 设置 WebExtension 可通过 chrome.storage.managed 存取的策略。
+policy-AppAutoUpdate = 启用或禁用应用程序自动更新。
 policy-AppUpdateURL = 设置自定义的应用程序更新网址。
 policy-Authentication = 为支持的网站配置集成身份验证。
 policy-BlockAboutAddons = 阻止访问附加组件管理器（about:addons）。
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = 允许 { -brand-short-name } 提供登录账�
 policy-OverrideFirstRunPage = 覆盖首次运行页面。如果您想禁用首次运行页面，将此策略设为空白。
 policy-OverridePostUpdatePage = 覆盖更新后的“新版变化”页面。如果您想禁用更新后页面，将此策略设为空白。
 policy-PasswordManagerEnabled = 启用密码管理器的密码保存功能。
-policy-Permissions = 配置摄像头、麦克风、位置和通知的权限。
 policy-Permissions2 = 配置摄像头、麦克风、位置、通知和自动播放的权限。
 policy-PopupBlocking = 默认允许特定网站显示弹出式窗口。
 policy-Preferences = 设置并锁定若干首选项的值。
