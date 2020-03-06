@@ -26,6 +26,8 @@ menu =
     .title = 打开菜单
 # This menuitem is only visible on Windows
 menu-menuitem-import = 导入密码…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = 从其他浏览器导入…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 选项
@@ -83,10 +85,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = 复制
 login-item-copied-username-button-text = 已复制！
 login-item-password-label = 密码
-login-item-password-reveal-checkbox-show =
-    .title = 显示密码
-login-item-password-reveal-checkbox-hide =
-    .title = 隐藏密码
 login-item-password-reveal-checkbox =
     .aria-label = 显示密码
 login-item-copy-password-button-text = 复制
