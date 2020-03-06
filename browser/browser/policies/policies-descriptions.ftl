@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Gosodwch bolisïau y gall WebExtensions gael mynediad atyn nhw trwy chrome.storage.managed.
+policy-AppAutoUpdate = Galluogi neu analluogi diweddaru rhaglen yn awtomatig.
 policy-AppUpdateURL = Gosod URL diweddaru ap cyfaddas.
 policy-Authentication = Ffurfweddu dilysu integredig ar gyfer gwefannau sy'n ei gefnogi.
 policy-BlockAboutAddons = Rhwystro mynediad i'r Rheolwr Ychwanegion (about:addons)
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Gosodwch y gwerth ragosodedig ar gyfer caniat�
 policy-OverrideFirstRunPage = Diystyru y dudalen rhediad gyntaf. Gosod y polisi hwn i gwag os ydych am analluogi'r dudalen rhediad cyntaf.
 policy-OverridePostUpdatePage = Diystyru'r dudalen ôl ddiweddaru "Beth sy'n Newydd". Gosodwch y polisi hwn i gwag os hoffech chi analluogi'r dudalen ôl ddiweddaru.
 policy-PasswordManagerEnabled = Galluogi cadw cyfrineiriau i'r rheolwr cyfrinair.
-policy-Permissions = Ffurfweddu caniatâd ar gyfer camera, meicroffon, lleoliad a hysbysiadau.
 policy-Permissions2 = Ffurfweddwch y caniatâd ar gyfer camera, meicroffon, lleoliadau, hysbysiadau ac awtochwarae.
 policy-PopupBlocking = Caniatáu rhai gwefannau i ddangos llamlenni drwy ragosodiad.
 policy-Preferences = Gosod a chloi gwerth is-set o ddewisiadau.
