@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Prawidła nastajić, na kotrež WebExtensions přez chrome.storage.managed přistup maja.
+policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžnić abo znjemóžnić.
 policy-AppUpdateURL = Swójski aktualizowanski URL za nałoženje nastajić.
 policy-Authentication = Integrowanu awtentifikaciju za websydła konfigurować, kotrež ju podpěruja.
 policy-BlockAboutAddons = Přistup na zrjadowak přidatkow (about:addons) blokować.
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Stajće standardnu hódnotu, kotraž { -brand-
 policy-OverrideFirstRunPage = Stronu přepisać, kotraž so při prěnim starće jewi. Stajće tute prawidło na prózdne, jeli chceće tutu stronu znjemóžnić.
 policy-OverridePostUpdatePage = Stronu Nowe funkcije a změny po aktualizaciji přepisać. Stajće tute prawidło na prózdne, jeli chceće tutu stronu znjemóžnić.
 policy-PasswordManagerEnabled = Składowanje hesłow do zrjadowaka hesłow zmóžnić.
-policy-Permissions = Prawa za kameru, mikrofon, stejnišćo a zdźělenki konfigurować.
 policy-Permissions2 = Prawa za kameru, mikrofon, adresu, zdźělenki a awtomatiske wothraće konfigurować.
 policy-PopupBlocking = Wěstym websydłam dowolić, wuskakowace wokna po standardźe pokazać.
 policy-Preferences = Hódnotu za podsadźbu nastajenjow stajić a zawrěć
