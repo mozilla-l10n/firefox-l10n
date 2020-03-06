@@ -27,6 +27,10 @@ abuse-report-next-button = Seguent
 ##   $addon-name (string) - Name of the add-on
 
 abuse-report-messagebar-aborted = Senhalament de <span data-l10n-name="addon-name">{ $addon-name }</span> anullat.
+abuse-report-messagebar-submitted = Mercés d’aver enviat un rapòrt. Volètz suprimir <span data-l10n-name="addon-name">{ $addon-name }</span> ?
+abuse-report-messagebar-submitted-noremove = Mercés d’aver enviat un rapòrt.
+abuse-report-messagebar-removed-extension = Mercés d’aver enviat un rapòrt. Avètz suprimit l’extension <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Mercés d’aver enviat un rapòrt. Avètz suprimit lo tèma <span data-l10n-name="addon-name">{ $addon-name }</span>.
 
 ## Message bars actions.
 

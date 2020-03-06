@@ -51,3 +51,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem
