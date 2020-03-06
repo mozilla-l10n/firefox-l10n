@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Definir políticas que WebExtensions podem acessar via chrome.storage.managed.
+policy-AppAutoUpdate = Ativar ou desativar atualizações automáticas da aplicação.
 policy-AppUpdateURL = Definir URL personalizada de atualização de aplicativo.
 policy-Authentication = Configurar autenticação integrada para sites que a suportam.
 policy-BlockAboutAddons = Bloquear acesso ao gerenciador de extensões (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Definir o valor padrão para permitir que o { 
 policy-OverrideFirstRunPage = Substituir a página de primeira execução. Defina esta política como vazio se quiser desativar a página de primeira execução.
 policy-OverridePostUpdatePage = Substituir a página “Novidades” exibida após uma atualização. Defina esta política como vazio se quiser desativar a exibição de uma página após atualizações.
 policy-PasswordManagerEnabled = Ativar salvamento de senhas no gerenciador de senhas.
-policy-Permissions = Configurar permissões para câmera, microfone, localização e notificações.
 policy-Permissions2 = Configurar permissões de câmera, microfone, localização, notificações e reprodução automática.
 policy-PopupBlocking = Permitir que determinados sites exibam popups como padrão.
 policy-Preferences = Definir e bloquear o valor de um subconjunto de preferências.
