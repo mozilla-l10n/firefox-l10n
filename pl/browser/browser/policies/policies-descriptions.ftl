@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ustawienie zasad, do których rozszerzenia WebExtension mają dostęp przez „chrome.storage.managed”.
+policy-AppAutoUpdate = Włączenie lub wyłączenie automatycznego aktualizowania aplikacji.
 policy-AppUpdateURL = Ustawienie niestandardowego adresu URL aktualizacji programu.
 policy-Authentication = Konfiguracja zintegrowanego uwierzytelniania dla witryn, które je obsługują.
 policy-BlockAboutAddons = Blokowanie dostępu do menedżera dodatków (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Ustawienie domyślnej wartości ustawienia zez
 policy-OverrideFirstRunPage = Zastąpienie strony pierwszego uruchomienia. Ustawienie tej zasady na pustą wyłączy stronę pierwszego uruchomienia.
 policy-OverridePostUpdatePage = Zastąpienie strony „Co nowego” wyświetlanej po aktualizacji. Ustawienie tej zasady na pustą wyłączy stronę wyświetlaną po aktualizacji.
 policy-PasswordManagerEnabled = Włączenie zachowywania haseł w menedżerze haseł.
-policy-Permissions = Konfiguracja uprawnień kamery, mikrofonu, położenia i powiadomień.
 policy-Permissions2 = Konfiguracja uprawnień kamery, mikrofonu, położenia, powiadomień i automatycznego odtwarzania.
 policy-PopupBlocking = Domyślne zezwalanie pewnym witrynom na otwieranie wyskakujących okien.
 policy-Preferences = Ustawienie i zablokowanie wartości dla podzbioru preferencji.
