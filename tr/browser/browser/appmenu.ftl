@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Başka bir tarayıcıdan içe aktar…
 appmenuitem-protection-report-title = Gizlilik korumaları
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gizlilik raporuna git

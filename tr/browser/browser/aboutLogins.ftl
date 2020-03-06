@@ -26,6 +26,8 @@ menu =
     .title = Menüyü aç
 # This menuitem is only visible on Windows
 menu-menuitem-import = Parolaları içe aktar…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıdan içe aktar…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Seçenekler
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopyala
 login-item-copied-username-button-text = Kopyalandı!
 login-item-password-label = Parola
-login-item-password-reveal-checkbox-show =
-    .title = Parolayı göster
-login-item-password-reveal-checkbox-hide =
-    .title = Parolayı gizle
 login-item-password-reveal-checkbox =
     .aria-label = Parolayı göster
 login-item-copy-password-button-text = Kopyala
