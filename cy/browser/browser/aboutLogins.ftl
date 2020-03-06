@@ -26,6 +26,8 @@ menu =
     .title = Agor dewislen
 # This menuitem is only visible on Windows
 menu-menuitem-import = Mewnforio Cyfrineiriau…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Mewnforio o Borwr Arall…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Dewisiadau
@@ -88,10 +90,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copïo
 login-item-copied-username-button-text = Copïwyd
 login-item-password-label = Cyfrinair
-login-item-password-reveal-checkbox-show =
-    .title = Dangos cyfrinair
-login-item-password-reveal-checkbox-hide =
-    .title = Cuddio cyfrinair
 login-item-password-reveal-checkbox =
     .aria-label = Dangos cyfrinair
 login-item-copy-password-button-text = Copïo
