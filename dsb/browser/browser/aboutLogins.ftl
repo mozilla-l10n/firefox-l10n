@@ -26,6 +26,8 @@ menu =
     .title = Meni wócyniś
 # This menuitem is only visible on Windows
 menu-menuitem-import = Gronidła importěrowaś…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Z drugego wobglědowaka importěrowaś…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nastajenja
@@ -86,10 +88,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopěrowaś
 login-item-copied-username-button-text = Kopěrowany!
 login-item-password-label = Gronidło
-login-item-password-reveal-checkbox-show =
-    .title = Gronidło pokazaś
-login-item-password-reveal-checkbox-hide =
-    .title = Gronidła schowaś
 login-item-password-reveal-checkbox =
     .aria-label = Gronidło pokazaś
 login-item-copy-password-button-text = Kopěrowaś
