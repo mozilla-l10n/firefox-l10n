@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Nhập dữ liệu từ trình duyệt khác…
 appmenuitem-protection-report-title = Bảo vệ quyền riêng tư
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Đi đến báo cáo bảo mật của bạn
