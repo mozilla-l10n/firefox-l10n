@@ -169,16 +169,14 @@ was trying to connect. -->
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>이러한 문제는 대부분 웹 사이트와 관련이 있고 사용자가 할 수 있는 일은 없습니다. 웹 사이트의 관리자에게 문제에 대해 알려주실 수 있습니다.</p>">
 
-<!ENTITY sharedLongDesc "
-<ul>
+<!ENTITY sharedLongDesc "<ul>
   <li>서버가 일시적으로 사용할 수 없거나 사용자가 너무 많은 상태일 수 있습니다.
-    잠시 후에 다시 시도해 보시기 바랍니다.</li>
+    잠시 후에 다시 시도해 보세요.</li>
   <li>어떤 페이지도 열 수 없다면,
-    컴퓨터의 네트워크 연결을 확인해 보시기 바랍니다.</li>
+    컴퓨터의 네트워크 연결을 확인해 보세요.</li>
   <li>사용자의 컴퓨터나 네트워크가 방화벽 또는 프록시로 보호되고 있다면,
-    &brandShortName;가 웹에 접근할 수 있도록 허용되어 있는지 확인해 주시기 바랍니다.</li>
-</ul>
-">
+    &brandShortName;가 웹에 접근할 수 있도록 허용되어 있는지 확인해 보세요.</li>
+</ul>">
 
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의한 차단">
 <!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 &brandShortName;가 차단했습니다.</p>">
