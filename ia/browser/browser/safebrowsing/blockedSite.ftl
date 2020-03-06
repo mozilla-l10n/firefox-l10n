@@ -11,7 +11,7 @@ safeb-blocked-malware-page-short-desc = { -brand-short-name } ha blocate iste pa
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo pote tentar de inducer te a installar programmas que noce a tu experientia de navigation (per exemplo, modificante tu pagina principal o monstrante annuncios extra sur le sitos que tu visita).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ha blocate iste pagina perque illo poterea tentar installar applicationes periculose que roba o dele tu informationes (per exemplo, photos, contrasignos, messages e cartas de credito).
 safeb-palm-advisory-desc = Aviso providite per <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
-safeb-palm-accept-label = Regressar
+safeb-palm-accept-label = Retornar
 safeb-palm-see-details-label = Vider le detalios
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como un sito periculose</a>. Tu pote <a data-l10n-name='report_detection'>reportar un problema de revelation</a> o <a data-l10n-name='ignore_warning_link'>ignorar le risco</a> e ir a iste sito insecur.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como un sito periculose</a>. Tu pote <a data-l10n-name='report_detection'>reportar un problema de revelation</a>.

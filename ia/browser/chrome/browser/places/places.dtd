@@ -87,7 +87,7 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importar e salveguardar tu marcapaginas">
 
-<!ENTITY backButton.tooltip  "Regressar">
+<!ENTITY backButton.tooltip  "Retornar">
 
 <!ENTITY forwardButton.tooltip  "Avantiar">
 
