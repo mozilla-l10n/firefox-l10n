@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = 인증서
 
 ## Error messages
 
-certificate-viewer-error-message = 인증서 정보를 찾을 수 없거나 인증서가 손상되었습니다. 다시 시도해보세요.
+certificate-viewer-error-message = 인증서 정보를 찾을 수 없거나 인증서가 손상되었습니다. 다시 시도하세요.
 certificate-viewer-error-title = 뭔가 잘못되었습니다.
 
 ## Certificate information labels

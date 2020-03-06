@@ -16,7 +16,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; 최신 버전은 아래 URL에서 다운로드 가능합니다: ">
 
 <!ENTITY  unsupported.title               "지원 대상 외 시스템입니다">
-<!ENTITY  unsupported.label               "&brandShortName; 업데이트가 있으나 최신 버전은 현재 운영 체제를 지원하지 않습니다. 시스템을 업그레이드 하신 후 다시 시도해 두세요. 앞으로 이 메시지 다시 표시 안합니다.">
+<!ENTITY  unsupported.label               "&brandShortName; 업데이트가 있으나 최신 버전은 현재 운영 체제를 지원하지 않습니다. 시스템을 업그레이드 하신 후 다시 시도하세요. 앞으로 이 메시지 다시 표시 안합니다.">
 <!ENTITY  unsupportedLink.label           "정보 확인">
 
 <!ENTITY  clickHere.label                 "이 업데이트에 대한 상세 정보 보기">
@@ -38,7 +38,7 @@
                                            
 <!ENTITY  errorManual.label               "사용자가 직접 다음 사이트를 방문하여 &brandShortName; 업데이트의 최신 버전을 다운로드 할 수 있습니다.">
                                            
-<!ENTITY  errorpatching.intro             "부분적인 업데이트를 할 수 없습니다. &brandShortName;가 업데이트 다운로드를 다시 시도합니다.">
+<!ENTITY  errorpatching.intro             "부분적인 업데이트를 적용할 수 없습니다. &brandShortName;가 전체 업데이트를 다운로드하여 다시 시도합니다.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName;는 업데이트가 있는 지 확인할 수 없습니다. &brandShortName; 최신 버전에서 확인해 보세요:">
                                            
