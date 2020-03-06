@@ -8,6 +8,7 @@ profiles-create = Crear un perfil novèl
 profiles-restart-title = Reaviar
 profiles-restart-in-safe-mode = Reaviar amb los moduls desactivats…
 profiles-restart-normal = Reaviar normalament…
+profiles-flush-fail-title = Modificacions pas enregistradas
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Perfil : { $name }
