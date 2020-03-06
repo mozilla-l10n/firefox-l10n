@@ -125,6 +125,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Insere minus, trova plus: cerca { $engineName } justo per tu barra de adresse.
 urlbar-search-tips-redirect = Comencia tu recerca hic pro vider le suggestiones de { $engineName } e tu chronologia de navigation.
+urlbar-search-tips-redirect-2 = Comencia tu recerca in le barra de adresse pro vider suggestiones de { $engineName } e de tu chronologia de navigation.
 
 ##
 

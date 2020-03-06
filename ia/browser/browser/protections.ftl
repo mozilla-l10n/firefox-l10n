@@ -52,6 +52,9 @@ fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web. <a data-l10n-name="learn-more-link">Lege plus</a>
 cryptominer-tab-title = Cryptominatores
 cryptominer-tab-content = Cryptominatores usa le potentia de calculo de tu systema pro excavar moneta digital. Scripts de cryptominage exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>
+mobile-app-title = Blocar traciatores publicitari sur plure apparatos
+mobile-app-card-content = Usa le navigator mobile con protection integrate contra traciamento publicitari.
+mobile-app-links = Navigator { -brand-product-name } pro <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Non oblida plus tu contrasignos
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
