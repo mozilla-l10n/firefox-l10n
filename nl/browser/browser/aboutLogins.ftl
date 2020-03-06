@@ -26,6 +26,8 @@ menu =
     .title = Menu openen
 # This menuitem is only visible on Windows
 menu-menuitem-import = Wachtwoorden importeren…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importeren vanuit een andere browser…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opties
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopiëren
 login-item-copied-username-button-text = Gekopieerd!
 login-item-password-label = Wachtwoord
-login-item-password-reveal-checkbox-show =
-    .title = Wachtwoord tonen
-login-item-password-reveal-checkbox-hide =
-    .title = Wachtwoorden verbergen
 login-item-password-reveal-checkbox =
     .aria-label = Wachtwoord tonen
 login-item-copy-password-button-text = Kopiëren
