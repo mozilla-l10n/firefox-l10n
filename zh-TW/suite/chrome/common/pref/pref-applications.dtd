@@ -13,3 +13,5 @@
 
 <!ENTITY search.placeholder      "搜尋類型與行為">
 
+<!ENTITY useAppChooser.label     "可用時，使用原生應用程式選擇工具">
+<!ENTITY useAppChooser.accesskey "U">
