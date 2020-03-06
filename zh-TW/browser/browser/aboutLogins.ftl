@@ -26,6 +26,8 @@ menu =
     .title = 開啟選單
 # This menuitem is only visible on Windows
 menu-menuitem-import = 匯入密碼…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = 從另一個瀏覽器匯入…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 選項
@@ -83,10 +85,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = 複製
 login-item-copied-username-button-text = 已複製！
 login-item-password-label = 密碼
-login-item-password-reveal-checkbox-show =
-    .title = 顯示密碼
-login-item-password-reveal-checkbox-hide =
-    .title = 隱藏密碼
 login-item-password-reveal-checkbox =
     .aria-label = 顯示密碼
 login-item-copy-password-button-text = 複製
