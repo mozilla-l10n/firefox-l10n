@@ -26,6 +26,8 @@ menu =
     .title = 메뉴 열기
 # This menuitem is only visible on Windows
 menu-menuitem-import = 비밀번호 가져오기…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = 다른 브라우저에서 가져오기…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 설정
