@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Імпартаваць з іншага браўзера…
 appmenuitem-protection-report-title = Меры аховы прыватнасці
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Перайсці да справаздачы аб прыватнасці
