@@ -44,7 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "번역을 돌리다 오류가 발생했습니다.">
 <!ENTITY translation.tryAgain.button            "다시 시도">
 
-<!ENTITY translation.serviceUnavailable.label   "지금은 번역을 사용할 수 없습니다. 나중에 다시 시도해 주세요.">
+<!ENTITY translation.serviceUnavailable.label   "지금은 번역을 사용할 수 없습니다. 나중에 다시 시도하세요.">
 
 <!ENTITY translation.options.menu               "설정">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
