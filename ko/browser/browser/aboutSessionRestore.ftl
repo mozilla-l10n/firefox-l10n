@@ -6,7 +6,7 @@ restore-page-tab-title = 세션 복원
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = 죄송합니다. 페이지를 다시 불러오는데 문제가 발생하였습니다.
-restore-page-problem-desc = 마지막 탐색 세션을 복원하는데 문제가 발생하였습니다. 다시 시도하기 위해서 세션 복원을 선택해 주세요.
+restore-page-problem-desc = 마지막 탐색 세션을 복원하는데 문제가 발생하였습니다. 다시 시도하기 위해서 세션 복원을 선택하세요.
 restore-page-try-this = 아직도 세션을 복구할 수 없습니까? 어떤 탭이 문제를 일으킬 떄가 있습니다. 이전 탭을 보고 다시 되돌릴 필요가 없는 탭의 체크 표시를 없애고 다시 복원해 보세요.
 restore-page-hide-tabs = 이전 탭 숨기기
 restore-page-show-tabs = 이전 탭 보기

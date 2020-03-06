@@ -86,11 +86,6 @@ newtab-menu-show-privacy-info = 우리의 스폰서와 개인정보 보호
 
 newtab-privacy-modal-button-done = 완료
 newtab-privacy-modal-header = 개인정보는 중요합니다.
-newtab-privacy-modal-paragraph =
-    매력적인 이야기를 정리해서 보여주는 것에 추가 적으로 엄선된 스폰서로 부터
-    관련성높고 철저하게 검토된 콘텐츠를 보여줍니다. 안심하세요. 사용자의 탐색
-    데이터는 { -brand-product-name }의 사본을 남겨두지 않습니다. — 우리와 스폰서 모두
-    들여다 보지 않습니다.
 newtab-privacy-modal-paragraph-2 =
     매력적인 이야기를 정리해서 보여주는 것 뿐만 아니라, 엄선된 스폰서로 부터
     관련성 높은 콘텐츠를 보여줍니다. 안심하세요. <strong>사용자의 탐색 데이터는 
@@ -198,4 +193,4 @@ newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = 이런! 이 콘텐츠를 불러오는데 오류가 발생하였습니다.
-newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시도해 주세요.
+newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시도하세요.
