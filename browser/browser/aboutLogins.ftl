@@ -26,6 +26,8 @@ menu =
     .title = Ireki menua
 # This menuitem is only visible on Windows
 menu-menuitem-import = Inportatu pasahitzak…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Inportatu beste nabigatzaile batetik…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Aukerak
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopiatu
 login-item-copied-username-button-text = Kopiatuta!
 login-item-password-label = Pasahitza
-login-item-password-reveal-checkbox-show =
-    .title = Erakutsi pasahitza
-login-item-password-reveal-checkbox-hide =
-    .title = Ezkutatu pasahitza
 login-item-password-reveal-checkbox =
     .aria-label = Erakutsi pasahitza
 login-item-copy-password-button-text = Kopiatu

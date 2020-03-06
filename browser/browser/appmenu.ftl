@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Inportatu beste nabigatzaile batetik…
 appmenuitem-protection-report-title = Pribatutasun-babesak
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Joan zure pribatutasun-txostenera
