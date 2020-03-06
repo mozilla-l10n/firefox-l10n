@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ke'ajikib'a' taq na'ojil richin chi ri WebExtensions yetikïr ye'ok rik'in chrome.managed.
+policy-AppAutoUpdate = Ketzij o kechup ri ruyonil kik'exoj taq chokoy.
 policy-AppUpdateURL = Tiya' jun ichinan URL richin nik'ex ri chokoy.
 policy-Authentication = Tib'an runuk'ulem ri chijun jikib'an pa taq ajk'amaya'l ruxaq nikiya' q'ij.
 policy-BlockAboutAddons = Tiq'at rokem ri Runuk'samajel Chokoy (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Tijikib'äx ri retal k'o wi richin niya' q'ij 
 policy-OverrideFirstRunPage = Tiyuj ri nab'ey ruxaq rub'anikil. Tiya' pa säq re na'ojil re' we nawajo' nachüp ri nab'ey ruxaq rub'anik.
 policy-OverridePostUpdatePage = Nayüj ri ruxaq "K'ak'a' taq tzijol" chi rij ri k'exoj. Tiya' pa säq re na'ojil re' we nawajo' nachüp re ruxaq chi rij ri k'exoj.
 policy-PasswordManagerEnabled = Titzij keyak ewan taq tzij pa ri kinuk'samajixik ewan taq tzij.
-policy-Permissions = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl chuqa' taq rutzijol.
 policy-Permissions2 = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl, taq rutzijol chuqa' ruyonil nitzij.
 policy-PopupBlocking = Tiya' q'ij chi jujun taq ajk'amaya'l ruxaq kekik'utu' elenel taq tzuwäch achi'el e k'o wi.
 policy-Preferences = Tajikib'a' chuqa' taq'ata' ri rejqalem jun rachmolaj ajowanïk.

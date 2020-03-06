@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Tijik' pa Jun Chik Okik'amaya'l…
 appmenuitem-protection-report-title = Richinanem Chajinem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tatz'eta' ri ichinan rutzijol
