@@ -61,4 +61,4 @@ sentence. -->
 <!ENTITY messageStyleShowHeader.label      "Prikaži zaglavlje">
 <!ENTITY messageStyleShowHeader.accesskey  "z">
 <!ENTITY messageStyleNoPreview.title       "Nema dostupnog pregleda">
-<!ENTITY messageStyleNoPreview.description "Ovaj motiv je neispravan ili trenutno nedostupan (isključen dodatak, siguran način rada, …).">
+<!ENTITY messageStyleNoPreview.description "Ovaj motiv je neispravan ili trenutačno nedostupan (isključen dodatak, siguran način rada, …).">
