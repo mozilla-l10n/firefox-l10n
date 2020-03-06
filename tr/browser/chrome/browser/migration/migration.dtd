@@ -14,7 +14,7 @@
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromEdgeLegacy.label     "Microsoft Edge (Eski Sürüm)">
-<!ENTITY importFromEdgeLegacy.accesskey "L">
+<!ENTITY importFromEdgeLegacy.accesskey "d">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
 <!ENTITY importFromNothing.label        "İçe bir şey aktarma">
