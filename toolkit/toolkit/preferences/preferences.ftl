@@ -5,7 +5,7 @@
 password-not-set =
     .value = (설정되지 않음)
 failed-pw-change = 기본 비밀번호를 변경할 수 없습니다.
-incorrect-pw = 입력한 현재 기본 비밀번호가 정확하지 않습니다. 다시 시도해 주세요.
+incorrect-pw = 입력한 현재 기본 비밀번호가 정확하지 않습니다. 다시 시도하세요.
 pw-change-ok = 기본 비밀번호가 변경되었습니다.
 pw-empty-warning = 저장된 웹과 이메일 비밀번호, 양식 데이터 및 개인 키는 보호되지 않습니다.
 pw-erased-ok = 기본 비밀번호가 제거되었습니다. { pw-empty-warning }
