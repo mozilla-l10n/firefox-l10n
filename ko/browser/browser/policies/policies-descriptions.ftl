@@ -54,7 +54,7 @@ policy-EnableTrackingProtection = 콘텐츠 차단을 사용하거나 사용하�
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = 확장 기능을 설치하거나 제거, 잠급니다. 설치 옵션은 URL이나 경로를 파라메터로 받습니다. 설치 제거와 잠금 옵션은 확장기능의 ID를 받습니다.
+policy-Extensions = 확장 기능을 설치하거나 제거, 잠급니다. 설치 옵션은 URL이나 경로를 파라미터로 받습니다. 설치 제거와 잠금 옵션은 확장 기능의 ID를 받습니다.
 policy-ExtensionSettings = 확장 기능 설치의 모든 측면을 관리합니다.
 policy-ExtensionUpdate = 확장 기능 자동 업데이트를 사용하거나 사용하지 않게 합니다.
 policy-FirefoxHome = Firefox 홈을 구성합니다.
