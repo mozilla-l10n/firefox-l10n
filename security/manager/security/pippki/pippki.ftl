@@ -62,5 +62,5 @@ set-password-reminder = 중요: 만약 인증서 백업 비밀번호를 분실�
 
 protected-auth-window =
     .title = 잠금 방식 토큰 인증
-protected-auth-msg = 토큰을 인증해 주세요. 인증 방식은 토큰의 유형에 따라 다릅니다.
+protected-auth-msg = 토큰을 인증하세요. 인증 방식은 토큰의 유형에 따라 다릅니다.
 protected-auth-token = 토큰:

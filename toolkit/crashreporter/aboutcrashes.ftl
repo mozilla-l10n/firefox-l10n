@@ -24,4 +24,4 @@ crashes-submitted-label = 보낸 충돌 보고서
 date-submitted-heading = 보낸 날짜
 view-crash-button-label = 보기
 no-reports-label = 전송한 충돌 보고서가 없습니다.
-no-config-label = 이 프로그램은 충돌 보고서 표시 기능이 설정되어 있지 않습니다. <code>breakpad.reportURL</code> 값을 설정해 주세요.
+no-config-label = 이 프로그램은 충돌 보고서 표시 기능이 설정되어 있지 않습니다. <code>breakpad.reportURL</code> 값을 설정하세요.

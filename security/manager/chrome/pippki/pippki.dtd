@@ -46,5 +46,5 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "잠금 방식 토큰 인증">
-<!ENTITY protectedAuth.msg "토큰을 인증해 주세요. 인증 방식은 토큰의 유형에 따라 다릅니다.">
+<!ENTITY protectedAuth.msg "토큰을 인증하세요. 인증 방식은 토큰의 유형에 따라 다릅니다.">
 <!ENTITY protectedAuth.tokenName.label "토큰:">
