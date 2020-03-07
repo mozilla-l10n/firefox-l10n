@@ -26,6 +26,8 @@ menu =
     .title = Мәзірді ашу
 # This menuitem is only visible on Windows
 menu-menuitem-import = Парольдерді импорттау…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Басқа браузерден импорттау…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Баптаулар
@@ -83,10 +85,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Көшіріп алу
 login-item-copied-username-button-text = Көшірілді!
 login-item-password-label = Пароль
-login-item-password-reveal-checkbox-show =
-    .title = Парольді көрсету
-login-item-password-reveal-checkbox-hide =
-    .title = Парольді жасыру
 login-item-password-reveal-checkbox =
     .aria-label = Парольді көрсету
 login-item-copy-password-button-text = Көшіріп алу
