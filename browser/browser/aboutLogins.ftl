@@ -26,6 +26,8 @@ menu =
     .title = Avaa valikko
 # This menuitem is only visible on Windows
 menu-menuitem-import = Tuo salasanoja…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Tuo toisesta selaimesta…
 menu-menuitem-preferences = Asetukset
 about-logins-menu-menuitem-help = Ohje
 menu-menuitem-android-app = { -lockwise-brand-short-name } Androidille
@@ -80,10 +82,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopioi
 login-item-copied-username-button-text = Kopioitu!
 login-item-password-label = Salasana
-login-item-password-reveal-checkbox-show =
-    .title = Näytä salasana
-login-item-password-reveal-checkbox-hide =
-    .title = Piilota salasana
 login-item-password-reveal-checkbox =
     .aria-label = Näytä salasana
 login-item-copy-password-button-text = Kopioi

@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Tuo toisesta selaimesta…
 appmenuitem-protection-report-title = Yksityisyyden suojaukset
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Siirry yksityisyysraporttiin

@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Aseta käytäntöjä, joita WebExtensionit voivat käyttää chrome.storage.managed-objektin kautta.
+policy-AppAutoUpdate = Käytä tai poista käytöstä sovelluksen automaattiset päivitykset.
 policy-AppUpdateURL = Aseta oma sovelluksen päivittämisen URL-osoite.
 policy-Authentication = Määritä sisäänrakennettu tunnistautuminen sivustoille, jotka tukevat sitä.
 policy-BlockAboutAddons = Estä pääsy lisäosien hallintaan (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Aseta oletusarvo sille, saako { -brand-short-n
 policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa ensimmäisen käyttökerran sivun käytöstä.
 policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta” -sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa päivityksen jälkeisen sivun käytöstä.
 policy-PasswordManagerEnabled = Ota käyttöön salasanojen tallennus salasanojen hallintaan.
-policy-Permissions = Aseta kameran, mikrofonin, sijainnin ja ilmoitusten käyttöoikeuksien asetukset.
 policy-Permissions2 = Aseta kameran, mikrofonin, sijainnin, ilmoitusten ja automaattisen toiston käyttöoikeuksien asetukset.
 policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
 policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
