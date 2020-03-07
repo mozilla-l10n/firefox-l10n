@@ -86,11 +86,6 @@ newtab-menu-show-privacy-info = Nossos patrocinadores e sua privacidade
 
 newtab-privacy-modal-button-done = Concluído
 newtab-privacy-modal-header = Sua privacidade é importante.
-newtab-privacy-modal-paragraph =
-    Além de mostrar histórias cativantes, exibimos também conteúdo relevante e
-    altamente avaliado de patrocinadores selecionados. Tenha certeza, seus dados
-    de navegação nunca saem da sua cópia pessoal do { -brand-product-name } —
-    nós não vemos esses dados, nem nossos patrocinadores.
 newtab-privacy-modal-paragraph-2 = Além de mostrar histórias cativantes, exibimos também conteúdos relevantes e altamente avaliados de patrocinadores selecionados. Fique tranquilo, strong>seus dados de navegação nunca saem da sua cópia pessoal do { -brand-product-name }</strong> — nós não vemos esses dados, nem nossos patrocinadores.
 newtab-privacy-modal-link = Saiba como a privacidade funciona na página de nova aba
 
@@ -142,7 +137,7 @@ newtab-section-menu-collapse-section = Recolher seção
 newtab-section-menu-expand-section = Expandir seção
 newtab-section-menu-manage-section = Gerenciar seção
 newtab-section-menu-manage-webext = Gerenciar extensão
-newtab-section-menu-add-topsite = Adicionar ao sites preferidos
+newtab-section-menu-add-topsite = Adicionar site preferido
 newtab-section-menu-add-search-engine = Adicionar mecanismo de pesquisa
 newtab-section-menu-move-up = Mover para cima
 newtab-section-menu-move-down = Mover para baixo
