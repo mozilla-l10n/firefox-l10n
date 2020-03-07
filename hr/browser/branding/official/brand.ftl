@@ -20,4 +20,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox i Firefox logo su zaštićeni znaci Mozilla fundacije.
+trademarkInfo = Firefox i Firefoxovi logotipi zaštitni su znakovi zaklade Mozilla.
