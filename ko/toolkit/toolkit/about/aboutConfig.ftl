@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = 고급 환경 설정 기능
-config-about-warning-text = 본 환경 설정 페이지는 프로그램의 각종 옵션을 모두 변경할 수 있는 고급 기능입니다. 설정값을 바꿈으로서 문제가 발생할 수도 있습니다. 사용 방법과 이로 인한 영향을 확실히 알고 있는 경우에만 기능을 이용해 주시기 바랍니다.
+config-about-warning-text = 고급 설정을 변경하면 이 프로그램의 안정성, 보안 및 성능에 문제가 발생할 수 있습니다. 자신이 무엇을 하고 있는지 확실히 알고 있는 경우에만 계속해야 합니다.
 config-about-warning-button =
     .label = 위험을 감수하겠습니다!
 config-about-warning-checkbox =
