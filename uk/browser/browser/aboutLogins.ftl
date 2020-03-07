@@ -26,6 +26,8 @@ menu =
     .title = Відкрити меню
 # This menuitem is only visible on Windows
 menu-menuitem-import = Імпортувати паролі…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Імпорт даних з іншого браузера…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Налаштування
@@ -85,10 +87,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Копіювати
 login-item-copied-username-button-text = Скопійовано!
 login-item-password-label = Пароль
-login-item-password-reveal-checkbox-show =
-    .title = Показати пароль
-login-item-password-reveal-checkbox-hide =
-    .title = Приховати пароль
 login-item-password-reveal-checkbox =
     .aria-label = Показати пароль
 login-item-copy-password-button-text = Копіювати

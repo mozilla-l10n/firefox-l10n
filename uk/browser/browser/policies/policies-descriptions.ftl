@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Встановити політики, за якими WebExtensions можуть отримувати доступ через chrome.storage.managed.
+policy-AppAutoUpdate = Увімкнути або вимкнути автоматичне оновлення програми.
 policy-AppUpdateURL = Встановити власну URL-адресу для оновлення додатка.
 policy-Authentication = Налаштувати інтегровану авторизацію для підтримуваних вебсайтів.
 policy-BlockAboutAddons = Заблокувати доступ до керування додатками (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Встановити типове значен
 policy-OverrideFirstRunPage = Замінити сторінку першого запуску. Для вимкнення цієї сторінки залиште значення для цього правила порожнім.
 policy-OverridePostUpdatePage = Замінити сторінку "Що нового" після оновлення. Для вимкнення цієї сторінки залиште значення для цього правила порожнім.
 policy-PasswordManagerEnabled = Увімкнути збереження паролів у менеджері паролів.
-policy-Permissions = Налаштувати дозволи для камери, мікрофона, розташування та сповіщень.
 policy-Permissions2 = Налаштувати дозволи для камери, мікрофона, розташування, сповіщень та автовідтворення.
 policy-PopupBlocking = Дозволити певним вебсайтам типово відображати виринаючі вікна.
 policy-Preferences = Встановити і зафіксувати значення для набору налаштувань.
