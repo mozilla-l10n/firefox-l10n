@@ -16,3 +16,17 @@ cert-error-trust-cert-invalid = Certyfikat niyma zaufany, bo bōł wystawiōny b
 cert-error-trust-untrusted-issuer = Certyfikat niyma zaufany, bo certyfikat wystowcy niyma zaufany.
 cert-error-trust-signature-algorithm-disabled = Certyfikat niyma zaufany, bo bōł podpisany algorytmym, co bōł zaszperowany, bo niyma bezpieczny.
 cert-error-trust-expired-issuer = Certyfikat niyma zaufany, bo certyfikat ôd wystowcy je już niyważny.
+cert-error-trust-self-signed = Certyfikat niyma zaufany, bo je samopodpisany.
+cert-error-trust-symantec = Certyfikaty wystawiane ôd GeoTrust, RapidSSL, Symantec, Thawte i Verisign niy sōm już uznowane za bezpieczne, bo te ôrganizacyje niy przestrzegały prawideł bezpieczyństwa.
+cert-error-untrusted-default = Certyfikat niy je ze zaufanego zdrzōdła.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Place potwiyrdzajōm swoja tożsamość bez certyfikaty. { -brand-short-name } niy ufo certyfikatowi ôd „{ $hostname }”, bo ôn niyma dlo niego noleżny.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Place potwiyrdzajōm swoja tożsamość bez certyfikaty. { -brand-short-name } niy ufo certyfikatowi ôd „{ $hostname }”, bo ôn niyma dlo niego noleżny. Tyn certyfikat je noleżny ino dlo dōmyny <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Place potwiyrdzajōm swoja tożsamość bez certyfikaty. { -brand-short-name } niy ufo certyfikatowi ôd „{ $hostname }”, bo ôn niyma dlo niego noleżny. Tyn certyfikat je noleżny ino dlo dōmyny { $alt-name }.
