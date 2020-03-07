@@ -9,8 +9,9 @@
 <!ENTITY typeColumn.accesskey    "T">
 
 <!ENTITY actionColumn2.label     "Åtgärd">
-<!ENTITY actionColumn2.accesskey "Å">
+<!ENTITY actionColumn2.accesskey "g">
 
 <!ENTITY search.placeholder      "Sök innehåll och åtgärder">
 
-<!ENTITY useAppChooser.accesskey "U">
+<!ENTITY useAppChooser.label     "Använd inbyggd applikationsväljare när den är tillgänglig">
+<!ENTITY useAppChooser.accesskey "A">
