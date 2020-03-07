@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "페이지 소스">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "페이지 정보">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "레이아웃 디버거">
 <!ENTITY ldbCmd.accesskey "L">
@@ -127,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;에 다시 연결">
 <!ENTITY fxaUnverified.label "계정 확인">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "최소화">
 <!ENTITY fullScreenRestore.tooltip "복구">
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "북마크">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "이 페이지 북마크">
 <!ENTITY editThisBookmarkCmd.label "이 북마크 편집">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "중지">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "주소 표시줄의 주소로 이동">
@@ -418,7 +411,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "이전 세션 복원">
 
 <!ENTITY showAllHistoryCmd2.label "모든 기록 보기">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "모든 기록 보기">
@@ -599,7 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "이 프레임만 표시">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "프레임 새로 고침">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -651,7 +642,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "프레임을 다른 이름으로 저장…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -755,20 +745,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "확대">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "축소">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "원래 크기">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -792,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "닫기">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -818,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "글자 방향 변경">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "이 페이지에서 찾기…">
@@ -848,19 +833,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "연결">
 <!ENTITY identity.connectionSecure "안전한 연결">
 <!ENTITY identity.connectionNotSecure "안전하지 않은 연결">
-
-<!ENTITY identity.connectionSecure3 "안전한 연결">
-<!ENTITY identity.connectionNotSecure2 "안전하지 않은 연결">
-<!ENTITY identity.connectionNotSecureSecurityView "이 사이트에 안전하게 연결되어 있지 않습니다.">
 <!ENTITY identity.connectionFile "이 페이지는 컴퓨터에 저장되어 있습니다.">
 <!ENTITY identity.connectionVerified2 "안전하게 사이트에 연결되었습니다. 소유자:">
-<!ENTITY identity.connectionVerified3 "이 사이트에 안전하게 연결되어 있습니다.">
 <!ENTITY identity.connectionInternal "안전한 &brandShortName; 페이지입니다.">
 <!ENTITY identity.extensionPage "이 페이지는 확장 기능으로부터 로드되었습니다.">
 <!ENTITY identity.insecureLoginForms2 "이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.">
 <!ENTITY identity.customRoot "Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.">
-
-<!ENTITY identity.evOwnerLabel2 "인증서 발급 대상:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;가 안전하지 않은 페이지의 일부를 차단했습니다.">
@@ -895,8 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "쿠키 및 사이트 데이터 삭제…">
 
 <!ENTITY identity.permissions "권한">
-
-<!ENTITY identity.permissions3 "권한">
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
 <!ENTITY identity.permissionsReloadHint "변경 사항을 적용하려면 페이지를 다시 로드해야 할 수도 있습니다.">
 <!ENTITY identity.permissionsPreferences.tooltip "권한 설정 열기">
@@ -1018,7 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "더 알아보기">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "어떤 문제가 있었습니까? (선택)">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "선택 사항: 문제를 설명해 주세요">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "선택 사항: 문제를 설명하세요">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "보고서 보내기">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "취소">
 
