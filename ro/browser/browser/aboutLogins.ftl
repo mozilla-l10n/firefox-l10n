@@ -26,6 +26,8 @@ menu =
     .title = Deschide meniul
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importă parole…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importă din alt browser…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opțiuni
@@ -85,10 +87,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copiază
 login-item-copied-username-button-text = Copiat!
 login-item-password-label = Parolă
-login-item-password-reveal-checkbox-show =
-    .title = Afișează parola
-login-item-password-reveal-checkbox-hide =
-    .title = Ascunde parola
 login-item-password-reveal-checkbox =
     .aria-label = Afișează parola
 login-item-copy-password-button-text = Copiază

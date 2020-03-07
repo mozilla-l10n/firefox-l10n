@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Setează politicile pe care WebExtensions le pot accesa prin chrome.storage.managed.
+policy-AppAutoUpdate = Activează sau dezactivează actualizarea automată a aplicației.
 policy-AppUpdateURL = Setează un URL personalizat de actualizare a aplicației.
 policy-Authentication = Configurează autentificarea integrată pentru site-urile web care o acceptă.
 policy-BlockAboutAddons = Blochează accesul la managerul de suplimente (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Setează valoarea implicită ca să permiți {
 policy-OverrideFirstRunPage = Anulează pagina de întâmpinare la prima utilizare. Lasă politica goală dacă vrei să dezactivezi pagina de întâmpinare la prima utilizare.
 policy-OverridePostUpdatePage = Anulează pagina „Noutăți” după actualizare. Lasă politica goală dacă vrei să dezactivezi pagina post-actualizare.
 policy-PasswordManagerEnabled = Activează salvarea parolelor în managerul de parole.
-policy-Permissions = Configurează permisiunile pentru cameră, microfon, locație și notificări.
 policy-Permissions2 = Configurează permisiunile pentru cameră, microfon, locație, notificări și redare automată.
 policy-PopupBlocking = Permite anumitor site-uri web să afișeze implicit ferestre pop-up.
 policy-Preferences = Setează și blochează valoarea pentru un subset de preferințe.
