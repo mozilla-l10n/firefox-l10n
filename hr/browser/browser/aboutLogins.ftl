@@ -26,6 +26,8 @@ menu =
     .title = Otvori izbornik
 # This menuitem is only visible on Windows
 menu-menuitem-import = Uvezi lozinke…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Uvoz iz drugog preglednika…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mogućnosti
