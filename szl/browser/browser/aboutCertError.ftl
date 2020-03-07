@@ -30,3 +30,27 @@ cert-error-domain-mismatch-single = Place potwiyrdzajōm swoja tożsamość bez 
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Place potwiyrdzajōm swoja tożsamość bez certyfikaty. { -brand-short-name } niy ufo certyfikatowi ôd „{ $hostname }”, bo ôn niyma dlo niego noleżny. Tyn certyfikat je noleżny ino dlo dōmyny { $alt-name }.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Place potwiyrdzajōm swoja tożsamość bez certyfikaty. { -brand-short-name } niy ufo certyfikatowi ôd „{ $hostname }”, bo ôn niyma dlo niego noleżny. Certyfikat bōł wystawiōny ino dlo tych dōmyn: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Place potwiyrdzajōm swoja tożsamość bez certyfikaty, kere sōm ważne we ôkryślōnym czasie. Certyfikat ôd placu „{ $hostname }” przestoł być ważny { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Place potwiyrdzajōm swoja tożsamość bez certyfikaty, kere sōm ważne we ôkryślōnym czasie. Certyfikat ôd placu „{ $hostname }” niy bydzie ważny do { $not-before-local-time }.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Kod feleru: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Place potwiyrdzajōm swoja tożsamość bez certyfikaty wystawiane ôd ôrganizacyji certyfikowanio. Przeglōndarki z wiynksza niy ufajōm już certyfikatōm wystawianym ôd GeoTrust, RapidSSL, Symantec, Thawte i Verisign. Tożsamość tyj zajty niy może być potwiyrdzōno, bo dōmyna „{ $hostname }” używo certyfikatu ôd jednego z tych wystowcōw.
+cert-error-symantec-distrust-admin = Idzie powiadōmić administratora zajty ô tym problymie.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
