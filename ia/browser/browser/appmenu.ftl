@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Importar ab un altere navigator…
 appmenuitem-protection-report-title = Protectiones del vita private
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Visitar tu reporto de vita private
