@@ -12,3 +12,6 @@
 <!ENTITY actionColumn2.accesskey "е">
 
 <!ENTITY search.placeholder      "Поиск типов и действий">
+
+<!ENTITY useAppChooser.label     "По возможности использовать системное диалоговое окно выбора приложения">
+<!ENTITY useAppChooser.accesskey "м">
