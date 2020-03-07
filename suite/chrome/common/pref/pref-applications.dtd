@@ -13,5 +13,5 @@
 
 <!ENTITY search.placeholder      "Sök innehåll och åtgärder">
 
-<!ENTITY useAppChooser.label     "Använd inbyggd applikationsväljare när den är tillgänglig">
+<!ENTITY useAppChooser.label     "Använd inbyggd applikationsväljare när den finns tillgänglig">
 <!ENTITY useAppChooser.accesskey "A">
