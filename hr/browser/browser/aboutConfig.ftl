@@ -18,7 +18,7 @@ about-config-intro-warning-text = Mijenjanje naprednih postavki konfiguracije mo
 about-config-intro-warning-checkbox = Upozori me pri pokušaju pristupanja ovim postavkama
 about-config-intro-warning-button = Prihvati rizik i nastavi
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Mijenjanje ovih postavki može utjecati na perfomanse ili sigurnost programa { -brand-short-name }.
@@ -27,7 +27,7 @@ about-config-search-input1 =
     .placeholder = Traži naziv postavke
 about-config-show-all = Prikaži sve
 about-config-pref-add = Dodaj
-about-config-pref-toggle = Promjeni
+about-config-pref-toggle = Promijeni
 about-config-pref-edit = Uredi
 about-config-pref-save = Spremi
 about-config-pref-reset = Poništi

@@ -172,7 +172,7 @@ search-one-offs-with-title = Ovaj put traži s:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Promjeni postavke pretraživača
+    .label = Promijeni postavke pretraživača
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Promijeni postavke pretraživača
 search-one-offs-context-open-new-tab =
