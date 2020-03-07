@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Importă din alt browser…
 appmenuitem-protection-report-title = Protecții privind intimitatea
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mergi la raportul de intimitate
