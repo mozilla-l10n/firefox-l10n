@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Басқа браузерден импорттау…
 appmenuitem-protection-report-title = Жекелікті қорғау
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Жекелік есептемесіне өту

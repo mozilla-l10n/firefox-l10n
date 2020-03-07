@@ -119,6 +119,15 @@ cfr-whatsnew-lockwise-take-body =
     көшірмедегі парольдерге қауіпсіз қатынауды мүмкін етеді.
 cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Адрестік жолақ көмегімен азырақ теріп, көбірек табыңыз.
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Көбірек қолданатын сайттарға адрестік жолағында бір шертумен өтіңіз. Нәрселерді { $searchEngineName } және шолу тарихы нәтижелерімен тезірек табыңыз.
+cfr-whatsnew-searchbar-body-generic = Көбірек қолданатын сайттарға адрестік жолағында бір шертумен өтіңіз. Нәрселерді шолу тарихы іздеу нәтижелерімен тезірек табыңыз.
+cfr-whatsnew-searchbar-icon-alt-text = Үлкейту әйнегі таңбашасы
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Шолу кезінде видеоларды қараңыз
