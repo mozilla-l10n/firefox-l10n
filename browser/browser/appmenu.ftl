@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Імпорт даних з іншого браузера…
 appmenuitem-protection-report-title = Захист приватності
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Перейти до свого звіту про приватність
