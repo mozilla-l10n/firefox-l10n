@@ -88,6 +88,7 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "Onemogući HTTP predmemoriju (kad je otvorena alatna kutija)">
+<!ENTITY options.disableHTTPCache.tooltip   "Uključivanjem ove opcije, onemogućit će se HTTP predmemorija za sve kartice na kojima je otvoren alatni okvir. Ova opcije nema utjecaja ne radne procese.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and

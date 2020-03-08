@@ -39,10 +39,10 @@ profiles-rename-profile-title = Preimenuj profil
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Preimenuj profil { $name }
-profiles-invalid-profile-name-title = Neispravan naziv profila
+profiles-invalid-profile-name-title = Neispravno ime profila
 # Variables:
 #   $name (String) - Name of the profile
-profiles-invalid-profile-name = Naziv profila "{ $name }" nije dopušten.
+profiles-invalid-profile-name = Ime profila „{ $name }” nije dopušteno.
 profiles-delete-profile-title = Obriši profil
 # Variables:
 #   $dir (String) - Path to be displayed
