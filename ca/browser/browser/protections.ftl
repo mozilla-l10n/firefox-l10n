@@ -59,6 +59,8 @@ lockwise-header-content-logged-in = Deseu i sincronitzeu les contrasenyes de for
 protection-report-view-logins-button = Mostra els inicis de sessió
     .title = Vés als inicis de sessió desats
 lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
+lockwise-mobile-app-title = Accediu a les vostres contrasenyes des de qualsevol lloc
+lockwise-no-logins-card-content = Utilitzeu en qualsevol dispositiu les contrasenyes desades en el { -brand-short-name }.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
