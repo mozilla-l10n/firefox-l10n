@@ -53,6 +53,8 @@ fingerprinter-tab-content = Els generadors d'empremtes digitals recopilen els pa
 cryptominer-tab-title = Miners de criptomonedes
 cryptominer-tab-content = Els miners de criptomonedes utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals. Els scripts de mineria de criptomonedes consumeixen la bateria, alenteixen l'ordinador i poden augmentar la vostra factura d'electricitat. <a data-l10n-name="learn-more-link">Més informació</a>
 mobile-app-title = Bloqueu els elements de seguiment de publicitat en més dispositius
+mobile-app-card-content = Utilitzeu el navegador mòbil amb protecció integrada contra els anuncis que us fan seguiment.
+mobile-app-links = Navegador { -brand-product-name } per a l'<a data-l10n-name="android-mobile-inline-link">Android</a> i l'<a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = No oblideu mai més cap contrasenya
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.
@@ -62,6 +64,7 @@ protection-report-view-logins-button = Mostra els inicis de sessió
 lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
 lockwise-mobile-app-title = Accediu a les vostres contrasenyes des de qualsevol lloc
 lockwise-no-logins-card-content = Utilitzeu en qualsevol dispositiu les contrasenyes desades en el { -brand-short-name }.
+lockwise-app-links = { -lockwise-brand-name } per a l'<a data-l10n-name="lockwise-android-inline-link">Android</a> i l'<a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
