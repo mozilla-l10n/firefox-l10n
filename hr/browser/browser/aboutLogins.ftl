@@ -47,7 +47,7 @@ login-list-count =
         [few] { $count } prijave
        *[other] { $count } prijava
     }
-login-list-sort-label-text = Sortiraj po:
+login-list-sort-label-text = Poredaj po:
 login-list-name-option = Naziv (A-Z)
 login-list-name-reverse-option = Naziv (Z-A)
 login-list-breached-option = Hakirane web stranice
