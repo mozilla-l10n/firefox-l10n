@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = Sense so
 pictureinpicture-unmute =
     .aria-label = Amb so
+pictureinpicture-unpip =
+    .aria-label = Envia-ho de nou a la pestanya
 pictureinpicture-close =
     .aria-label = Tanca
