@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Sense so
 pictureinpicture-unmute =
     .aria-label = Amb so
+pictureinpicture-close =
+    .aria-label = Tanca
