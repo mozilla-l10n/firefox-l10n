@@ -558,9 +558,9 @@
 <!ENTITY undeleteButton.label "Malforigi">
 <!ENTITY markButton.label "Marki">
 <!ENTITY printButton.label "Presi">
-<!ENTITY stopButton.label "Stop">
-<!ENTITY throbberItem.title "Activity Indicator">
-<!ENTITY junkItem.title "Junk">
+<!ENTITY stopButton.label "Haltigi">
+<!ENTITY throbberItem.title "Aktiveca indikilo">
+<!ENTITY junkItem.title "Trudmesaĝo">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Not Junk">
 <!ENTITY addressBookButton.label "Address Book">
