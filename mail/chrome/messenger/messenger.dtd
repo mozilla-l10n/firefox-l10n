@@ -508,7 +508,7 @@
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
-<!ENTITY accountManagerCmdUnix2.accesskey "k">
+<!ENTITY accountManagerCmdUnix2.accesskey "g">
 
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Iloj por programistoj">
