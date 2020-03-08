@@ -20,7 +20,7 @@
 <!ENTITY view.columns.accesskey         "s">
 <!ENTITY view.sort.label                "Poredaj">
 <!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "Bez poretka">
+<!ENTITY view.unsorted.label            "Bez određenog poretka">
 <!ENTITY view.unsorted.accesskey        "N">
 <!ENTITY view.sortAscending.label       "A > Z poredak">
 <!ENTITY view.sortAscending.accesskey   "A">
@@ -59,7 +59,7 @@
 <!ENTITY cmd.properties.accesskey  "S">
 
 <!ENTITY cmd.sortby_name.label              "Poredaj po imenu">
-<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.sortby_name.accesskey          "P">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nova zabilješka…">
