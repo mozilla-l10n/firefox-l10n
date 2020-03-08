@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Ymportearje fan in oare browser út…
 appmenuitem-protection-report-title = Privacybeskermingen
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gean nei jo privacyrapport
