@@ -18,6 +18,8 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> n uneḍfaṛ yewḥel seg { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> n yineḍfaṛen weḥlen seg { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Ineḍfaṛen { -brand-short-name } ttwaḥebsen ddurt-agi
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -65,15 +67,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Rmed { -sync-brand-short-name }...
     .title = Ldi ismenyifen n umtawi
-manage-devices = Sefrek ibenkan
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Amtawi akked { $count } n yibenk-nniḍen
-       *[other] Amtawi akked { $count } n yibenkan-nniḍen
-    }
-lockwise-sync-not-syncing-devices = Ulac amtawi d yibenkan nniḍen
 manage-connected-devices = Sefrek ibenkan…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.

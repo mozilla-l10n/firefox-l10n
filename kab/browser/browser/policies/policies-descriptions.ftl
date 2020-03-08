@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ad yeǧǧ ad srekdeḍ tistṛatijiyin anida zemren ad kecmen WebExtensions s chrome.storage.managed.
+policy-AppAutoUpdate = Rmed neɣ gdel alqem awurman n yisnasen.
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
 policy-Authentication = Swel asesteb usliɣ i yesmal web i ten-yessefraken.
 policy-BlockAboutAddons = Sewḥel anekcum ɣer umsefrek n izegrar  (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Sbadu ma yella, swudem amezwer, { -brand-short
 policy-OverrideFirstRunPage = Beddel asebter amezwaru n uskar. Sbadu tasertit d tilemt ma tebɣiḍ ad tsenseḍ asebter amezwaru n uskar.
 policy-OverridePostUpdatePage = Beddel asebter "Acu-t amaynut" seld aleqqem. sbadu tasertit d tilemt ma tebɣiḍ ad tsenseḍ  asebter n uleqqem.
 policy-PasswordManagerEnabled = Rmed asekles n wawalen uffiren deg umsefrak n wawalen uffiren.
-policy-Permissions = Swel tisirag i tkamirat, asawaḍ, adig akked ilɣa.
 policy-Permissions2 = Swel tisirag i tkamirat, asawaḍ, adig, ilɣa akked tɣuri tawurmant.
 policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Preferences = Ad yesbadu daɣen ad iṣekkeṛ azal n tegrumma tasnawant n yismenyifen.
