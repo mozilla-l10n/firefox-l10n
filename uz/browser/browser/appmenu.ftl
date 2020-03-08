@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Boshqa brauzerdan import qilish
 appmenuitem-protection-report-title = Maxfiylik himoyalari
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Maxfiylik haqidagi hisobotga kirish

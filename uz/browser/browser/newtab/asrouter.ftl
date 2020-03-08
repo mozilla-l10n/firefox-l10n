@@ -65,6 +65,7 @@ cfr-doorhanger-pintab-description = Koʻp kirilgan saytlarga osongina kiring. Sa
 
 cfr-doorhanger-pintab-step1 = Qistirilishi lozim boʻlgan ichki oyna ustida <b>sichqonchaning oʻng tugmasini bosing</b>.
 cfr-doorhanger-pintab-step2 = Menyudan <b>Ichki oynani qistirish</b>ni tanlang.
+cfr-doorhanger-pintab-step3 = Bu saytda yangiliklar boʻlsa, qadalgan ichki oynada koʻk nuqta paydo boʻladi.
 cfr-doorhanger-pintab-animation-pause = Pauza
 cfr-doorhanger-pintab-animation-resume = Davom etish
 
@@ -108,6 +109,9 @@ cfr-whatsnew-lockwise-backup-link-text = Zaxiralashni yoqish
 cfr-whatsnew-lockwise-take-title = Parolni oʻzingiz bilan olib yuring
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil ilovasi istalgan joydan zaxiralangan parol yordamida xavfsiz foydalanish imkonini beradi.
 cfr-whatsnew-lockwise-take-link-text = Ilovani yuklab olish
+
+## Search Bar
+
 
 ## Picture-in-Picture
 
