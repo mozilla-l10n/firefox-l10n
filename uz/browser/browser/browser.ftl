@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Maxfiy koʻrish)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Maxfiy koʻrish)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -112,6 +96,11 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Yordam olish
 urlbar-search-tips-confirm = Tushundim
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Maslahat:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -120,6 +109,7 @@ urlbar-search-tips-confirm = Tushundim
 
 urlbar-search-tips-onboard = Kamroq yozib, koʻproq toping: manzillar panelidan { $engineName } orqali qidiring.
 urlbar-search-tips-redirect = { $engineName } tavsiyalari va brauzer tarixini koʻrish uchun qidiruvni shu yerdan boshlang.
+urlbar-search-tips-redirect-2 = { $engineName } tavsiyalari va brauzer tarixini koʻrish uchun qidiruvni manzillar panelidan boshlang.
 
 ##
 
