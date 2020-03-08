@@ -144,7 +144,7 @@ onboarding-lockwise-strong-passwords-button = Upravljanje prijavama
 onboarding-facebook-container-title = Postavi granice s Facebookom
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } drži tvoj profil odvojeno od svega drugoga, otežavajući Facebooku da ti ciljano prikazuje reklame.
 onboarding-facebook-container-button = Instaliraj dodatak
-onboarding-import-browser-settings-title = Uvezite svoje zabilješke, lozinke i još mnogo toga
+onboarding-import-browser-settings-title = Uvezi svoje zabilješke, lozinke i još mnogo toga
 onboarding-import-browser-settings-text = Uronite — jednostavno prenesite svoje Chrome stranice i postavke.
 onboarding-import-browser-settings-button = Uvoz podataka iz Chromea
 
