@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Ne saber mai…">
 
+<!ENTITY learnMoreNoEllipsis "Ne saber mai">
+
 <!ENTITY defaultButton.label "Òc !">
 <!ENTITY defaultButton.accesskey "O">
 
