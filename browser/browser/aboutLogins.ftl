@@ -26,6 +26,8 @@ menu =
     .title = Atverti meniu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importuoti slaptažodžius…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importuoti iš kitos naršyklės…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nuostatos
@@ -85,10 +87,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopijuoti
 login-item-copied-username-button-text = Nukopijuota!
 login-item-password-label = Slaptažodis
-login-item-password-reveal-checkbox-show =
-    .title = Rodyti slaptažodį
-login-item-password-reveal-checkbox-hide =
-    .title = Slėpti slaptažodį
 login-item-password-reveal-checkbox =
     .aria-label = Rodyti slaptažodį
 login-item-copy-password-button-text = Kopijuoti
