@@ -12,3 +12,6 @@
 <!ENTITY actionColumn2.accesskey "H">
 
 <!ENTITY search.placeholder      "Søk i typer og handlinger">
+
+<!ENTITY useAppChooser.label     "Bruk innebygd applikasjonsvelger når tilgjengelig">
+<!ENTITY useAppChooser.accesskey "B">
