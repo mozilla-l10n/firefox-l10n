@@ -93,6 +93,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Yangi xususiyatlar
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
+cfr-whatsnew-tracking-protect-title = Oʻzingini kuzatuvchilardan himoyalang
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
