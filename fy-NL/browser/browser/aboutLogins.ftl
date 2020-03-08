@@ -26,6 +26,8 @@ menu =
     .title = Iepenje menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Wachtwurden ymportearje…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Ymportearje fan in oare browser út…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opsjes
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopiearje
 login-item-copied-username-button-text = Kopiearre!
 login-item-password-label = Wachtwurd
-login-item-password-reveal-checkbox-show =
-    .title = Wachtwurd toane
-login-item-password-reveal-checkbox-hide =
-    .title = Wachtwurd ferstopje
 login-item-password-reveal-checkbox =
     .aria-label = Wachtwurd toane
 login-item-copy-password-button-text = Kopiearje
