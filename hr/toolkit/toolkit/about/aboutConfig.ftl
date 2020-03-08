@@ -37,7 +37,7 @@ config-value-column =
 ## These strings are used for tooltips
 
 config-pref-column-header =
-    .tooltip = Kliknite za razvrstavanje
+    .tooltip = Pritisni za poredak
 config-column-chooser =
     .tooltip = Kliknite za odabir stupaca koji će biti prikazani
 
