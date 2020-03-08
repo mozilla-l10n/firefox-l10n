@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY errorConsole.title   "Virhekonsoli">
+
+<!ENTITY errFile.label        "Lähdetiedosto:">
+<!ENTITY errLine.label        "Rivi:">
+<!ENTITY errColumn.label      "Sarake:">
+
+<!ENTITY all.label            "Kaikki">
+<!ENTITY all.accesskey        "a">
+<!ENTITY errors.label         "Virheet">
+<!ENTITY errors.accesskey     "r">
+<!ENTITY warnings.label       "Varoitukset">
+<!ENTITY warnings.accesskey   "o">
+<!ENTITY messages.label       "Viestit">
+<!ENTITY messages.accesskey   "V">
+<!ENTITY clear.label          "Tyhjennä">
+<!ENTITY clear.accesskey      "T">
+<!ENTITY codeEval.label       "Koodi:">
+<!ENTITY codeEval.accesskey   "d">
+<!ENTITY filter2.label        "Suodata:">
+
+<!ENTITY copyCmd.label         "Kopioi">
+
+<!ENTITY menuBar.tooltip       "Valikkopalkki">
+<!ENTITY toolbarsCmd.label     "Näytä/piilota">
