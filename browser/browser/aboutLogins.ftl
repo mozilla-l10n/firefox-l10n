@@ -26,6 +26,8 @@ menu =
     .title = Opne meny
 # This menuitem is only visible on Windows
 menu-menuitem-import = importer passord…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importer frå ein annan nettlesar…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Innstillingar
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopier
 login-item-copied-username-button-text = Kopiert!
 login-item-password-label = Passord
-login-item-password-reveal-checkbox-show =
-    .title = Vis passord
-login-item-password-reveal-checkbox-hide =
-    .title = Gøym passord
 login-item-password-reveal-checkbox =
     .aria-label = Vis passord
 login-item-copy-password-button-text = Kopier
