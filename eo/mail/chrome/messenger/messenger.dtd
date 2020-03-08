@@ -551,13 +551,13 @@
 <!ENTITY previousButton.label "Antaŭa">
 <!ENTITY previousButtonToolbarItem.label "Antaŭa nelegita">
 <!ENTITY previousMsgButton.label "Antaŭa">
-<!ENTITY backButton1.label "Back">
-<!ENTITY goForwardButton1.label "Forward">
-<!ENTITY deleteItem.title "Delete">
-<!ENTITY deleteButton.label "Delete">
-<!ENTITY undeleteButton.label "Undelete">
-<!ENTITY markButton.label "Mark">
-<!ENTITY printButton.label "Print">
+<!ENTITY backButton1.label "Antaŭen">
+<!ENTITY goForwardButton1.label "Sekven">
+<!ENTITY deleteItem.title "Forigi">
+<!ENTITY deleteButton.label "Forigi">
+<!ENTITY undeleteButton.label "Malforigi">
+<!ENTITY markButton.label "Marki">
+<!ENTITY printButton.label "Presi">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY throbberItem.title "Activity Indicator">
 <!ENTITY junkItem.title "Junk">
