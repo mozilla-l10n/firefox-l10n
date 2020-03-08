@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Importer fra en annen nettleser…
 appmenuitem-protection-report-title = Personvernbeskyttelser
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gå til personvernrapporten

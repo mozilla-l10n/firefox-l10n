@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Angi policyer som WebExtensions kan få tilgang til via chrome.storage.managed.
+policy-AppAutoUpdate = Slå på eller slå av automatisk programoppdateringer.
 policy-AppUpdateURL = Angi egendefinert programoppdateringsadresse.
 policy-Authentication = Konfigurer integrert godkjenning for nettsteder som støtter det.
 policy-BlockAboutAddons = Blokker tilgang til Utvidelsesbehandleren (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Angi standardverdien for å tillate { -brand-s
 policy-OverrideFirstRunPage = Erstatt siden som vises ved første oppstart. La policyen være tom, hvis siden ved første oppstart skal deaktiveres.
 policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist etter en oppdatering. La policyen stå tom hvis sida etter oppdatering skal deaktiveres.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordbehandleren.
-policy-Permissions = Konfigurer tillatelser for kamera, mikrofon, plassering og varsler.
 policy-Permissions2 = Konfigurer tillatelser for kamera, mikrofon, plassering og auto-avspilling.
 policy-PopupBlocking = Tillat at visse nettsteder skal kunne vise sprettoppvinduer som standard.
 policy-Preferences = Still inn og lås verdien for en undergruppe av innstillingene.
