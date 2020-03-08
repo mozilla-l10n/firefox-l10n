@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-media.xul -->
+
+<!-- LOCALIZATION NOTE : FILE Media management prefs -->
+<!ENTITY pref.media.title               "Media">
+<!ENTITY mediaHTML5Preferences.label    "Ääni/video">
+<!ENTITY allowMediaAutoplay.label       "Ota HTML5-mediasisällön automaattinen toisto käyttöön">
+
+
+<!ENTITY animLoopingTitle.label         "Animoituja kuvia toistetaan">
+<!ENTITY animLoopAsSpecified.label      "kuvan määrittelemän verran">
+<!ENTITY animLoopOnce.label             "kerran">
+<!ENTITY animLoopNever.label            "ei ollenkaan">

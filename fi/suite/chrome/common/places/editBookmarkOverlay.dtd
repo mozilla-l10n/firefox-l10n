@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editBookmarkOverlay.name.label                      "Nimi:">
+<!ENTITY editBookmarkOverlay.location.label                  "Osoite:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Syötteen osoite:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Sivuston osoite:">
+<!ENTITY editBookmarkOverlay.folder.label                    "Kansio:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Näytä kaikki kirjanmerkkikansiot">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Piilota">
+<!ENTITY editBookmarkOverlay.tags.label                      "Tunnisteet:">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Erota tunnisteet pilkuilla">
+<!ENTITY editBookmarkOverlay.description.label               "Kuvaus:">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Avainsana:">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Näytä kaikki tunnisteet">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Avaa kirjanmerkki sivupalkkiin">
+<!ENTITY editBookmarkOverlay.choose.label                    "Valitse…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Uusi kansio">
