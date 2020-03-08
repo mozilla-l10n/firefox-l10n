@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = ייבוא מדפדפן אחר…
 appmenuitem-protection-report-title = הגנות פרטיות
 appmenuitem-protection-report-tooltip =
     .tooltiptext = מעבר לדוח הפרטיות שלך
