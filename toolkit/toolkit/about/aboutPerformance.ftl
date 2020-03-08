@@ -7,7 +7,7 @@ about-performance-title = Upravljač zadataka
 
 ## Column headers
 
-column-name = Naziv
+column-name = Ime
 column-type = Vrsta
 column-energy-impact = Potrošnja energije
 column-memory = Memorija
@@ -35,9 +35,9 @@ type-other = Drugo
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
-energy-impact-high = Visoko ({ $value })
-energy-impact-medium = Srednje ({ $value })
-energy-impact-low = Nisko ({ $value })
+energy-impact-high = Visoka ({ $value })
+energy-impact-medium = Srednja ({ $value })
+energy-impact-low = Niska ({ $value })
 
 ## Values for the Memory column
 ##
