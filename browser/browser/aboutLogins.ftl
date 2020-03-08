@@ -26,6 +26,8 @@ menu =
     .title = Menü öffnen
 # This menuitem is only visible on Windows
 menu-menuitem-import = Passwörter importieren…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Aus einem anderen Browser importieren…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Einstellungen
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopieren
 login-item-copied-username-button-text = Kopiert
 login-item-password-label = Passwort
-login-item-password-reveal-checkbox-show =
-    .title = Passwort anzeigen
-login-item-password-reveal-checkbox-hide =
-    .title = Passwort verbergen
 login-item-password-reveal-checkbox =
     .aria-label = Passwort anzeigen
 login-item-copy-password-button-text = Kopieren
