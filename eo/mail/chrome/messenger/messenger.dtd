@@ -517,14 +517,14 @@
 <!ENTITY devToolboxCmd.accesskey "I">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Senerarigi aldonaĵojn">
-<!ENTITY debugAddonsCmd.accesskey "S">
+<!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Senerarigi langetojn">
-<!ENTITY tabsDebugCmd.accesskey "k">
+<!ENTITY tabsDebugCmd.accesskey "l">
 <!ENTITY errorConsoleCmd.label "Konzolo de eraroj">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Scratchpad">
-<!ENTITY scratchpadCmd.accesskey "S">
+<!ENTITY scratchpadCmd.label "Malneta redaktilo">
+<!ENTITY scratchpadCmd.accesskey "M">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
@@ -536,14 +536,13 @@
 <!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Get Messages">
-<!ENTITY newMsgButton.label "Write">
-<!ENTITY replyButton.label "Reply">
-<!ENTITY replyAllButton.label "Reply All">
-<!ENTITY replyListButton.label "Reply to List">
-<!ENTITY forwardButton.label "Forward">
-<!ENTITY fileButton.label "File">
-<!ENTITY archiveButton.label "Archive">
+<!ENTITY getMsgButton1.label "Ricevi">
+<!ENTITY newMsgButton.label "Skribi">
+<!ENTITY replyButton.label "Respondi">
+<!ENTITY replyAllButton.label "Resp. al ĉiuj">
+<!ENTITY replyListButton.label "Resp. al listo">
+<!ENTITY forwardButton.label "Plusendi">
+<!ENTITY archiveButton.label "Arĥivigi">
 <!ENTITY openConversationButton.label "Conversation">
 <!ENTITY nextButton.label "Next">
 <!ENTITY nextButtonToolbarItem.label "Next Unread">
