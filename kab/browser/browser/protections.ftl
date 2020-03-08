@@ -57,6 +57,7 @@ lockwise-header-content-logged-in = Sekles daɣen mtawi awalen-ik uffiren ɣef y
 protection-report-view-logins-button = Sken-d tuqniwin
     .title = Ddu ɣer inekcumen yettwakelse
 lockwise-no-logins-content = Zdem asnas <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> akken ad tawiḍ awalen uffrien-ik anda teddiḍ.
+lockwise-mobile-app-title = Awi awalen uffiren anda teddiḍ
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
