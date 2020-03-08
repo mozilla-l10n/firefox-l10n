@@ -26,6 +26,8 @@ menu =
     .title = Dobrir lo menú
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importar los senhals…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importar d’un autre navegador…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
