@@ -26,6 +26,8 @@ menu =
     .title = Abrir menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importar palavras-passe…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importar de outro navegador…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opções
