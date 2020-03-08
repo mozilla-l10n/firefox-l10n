@@ -26,6 +26,8 @@ menu =
     .title = Obre el menú
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importa contrasenyes…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importa des d'un altre navegador…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copia
 login-item-copied-username-button-text = S'ha copiat
 login-item-password-label = Contrasenya
-login-item-password-reveal-checkbox-show =
-    .title = Mostra la contrasenya
-login-item-password-reveal-checkbox-hide =
-    .title = Amaga la contrasenya
 login-item-password-reveal-checkbox =
     .aria-label = Mostra la contrasenya
 login-item-copy-password-button-text = Copia

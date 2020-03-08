@@ -52,6 +52,7 @@ fingerprinter-tab-title = Generadors d'empremtes digitals
 fingerprinter-tab-content = Els generadors d'empremtes digitals recopilen els paràmetres del vostre navegador per a crear un perfil vostre. A partir d'aquesta empremta digital, us poden fer el seguiment entre els diferents llocs web. <a data-l10n-name="learn-more-link">Més informació</a>
 cryptominer-tab-title = Miners de criptomonedes
 cryptominer-tab-content = Els miners de criptomonedes utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals. Els scripts de mineria de criptomonedes consumeixen la bateria, alenteixen l'ordinador i poden augmentar la vostra factura d'electricitat. <a data-l10n-name="learn-more-link">Més informació</a>
+mobile-app-title = Bloqueu els elements de seguiment de publicitat en més dispositius
 lockwise-title = No oblideu mai més cap contrasenya
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.

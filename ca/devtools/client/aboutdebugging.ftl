@@ -51,6 +51,9 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Assistència per a la depuració
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
@@ -89,12 +92,20 @@ about-debugging-setup-usb-step-enable-debug2 = Activeu la «Depuració USB» en 
 about-debugging-setup-usb-step-enable-debug-firefox2 = Activeu la depuració USB en el Firefox en el dispositiu Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Connecteu el dispositiu Android a l'ordinador.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Teniu problemes per connectar-vos al dispositiu USB? <a>Resolució de problemes</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ubicació de xarxa
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Teniu problemes per connectar-vos mitjançant la ubicació de xarxa? <a>Resolució de problemes</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Afegeix
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Encara no s'ha afegit cap ubicació de xarxa.
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Elimina
