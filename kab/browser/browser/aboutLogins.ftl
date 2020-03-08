@@ -26,6 +26,8 @@ menu =
     .title = Ldi umuɣ
 # This menuitem is only visible on Windows
 menu-menuitem-import = Kter awalen uffiren...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Kter seg iminig nniḍen…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] iɣewwaṛen
