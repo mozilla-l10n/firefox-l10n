@@ -561,10 +561,10 @@
 <!ENTITY stopButton.label "Haltigi">
 <!ENTITY throbberItem.title "Aktiveca indikilo">
 <!ENTITY junkItem.title "Trudmesaĝo">
-<!ENTITY junkButton.label "Junk">
-<!ENTITY notJunkButton.label "Not Junk">
-<!ENTITY addressBookButton.label "Address Book">
-<!ENTITY chatButton.label "Chat">
+<!ENTITY junkButton.label "Trudmesaĝo">
+<!ENTITY notJunkButton.label "Dezirata">
+<!ENTITY addressBookButton.label "Adresaro">
+<!ENTITY chatButton.label "Tujmesaĝilo">
 <!ENTITY glodaSearch.title "Global Search">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
