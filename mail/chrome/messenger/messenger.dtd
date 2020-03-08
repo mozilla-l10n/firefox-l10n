@@ -518,10 +518,10 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Senerarigi aldonaĵojn">
 <!ENTITY debugAddonsCmd.accesskey "S">
-<!ENTITY tabsDebugCmd.label "Content Frame Debugger">
-<!ENTITY tabsDebugCmd.accesskey "C">
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY tabsDebugCmd.label "Senerarigi langetojn">
+<!ENTITY tabsDebugCmd.accesskey "k">
+<!ENTITY errorConsoleCmd.label "Konzolo de eraroj">
+<!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Scratchpad">
 <!ENTITY scratchpadCmd.accesskey "S">
