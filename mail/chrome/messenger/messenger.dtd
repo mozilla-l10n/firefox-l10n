@@ -548,9 +548,9 @@
 <!ENTITY nextButton.label "Sekva">
 <!ENTITY nextButtonToolbarItem.label "Sekva nelegita">
 <!ENTITY nextMsgButton.label "Sekva">
-<!ENTITY previousButton.label "Previous">
-<!ENTITY previousButtonToolbarItem.label "Previous Unread">
-<!ENTITY previousMsgButton.label "Previous">
+<!ENTITY previousButton.label "Antaŭa">
+<!ENTITY previousButtonToolbarItem.label "Antaŭa nelegita">
+<!ENTITY previousMsgButton.label "Antaŭa">
 <!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forward">
 <!ENTITY deleteItem.title "Delete">
