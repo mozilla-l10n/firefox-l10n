@@ -542,11 +542,12 @@
 <!ENTITY replyAllButton.label "Resp. al ĉiuj">
 <!ENTITY replyListButton.label "Resp. al listo">
 <!ENTITY forwardButton.label "Plusendi">
+<!ENTITY fileButton.label "Klasifiki">
 <!ENTITY archiveButton.label "Arĥivigi">
-<!ENTITY openConversationButton.label "Conversation">
-<!ENTITY nextButton.label "Next">
-<!ENTITY nextButtonToolbarItem.label "Next Unread">
-<!ENTITY nextMsgButton.label "Next">
+<!ENTITY openConversationButton.label "Interparolado">
+<!ENTITY nextButton.label "Sekva">
+<!ENTITY nextButtonToolbarItem.label "Sekva nelegita">
+<!ENTITY nextMsgButton.label "Sekva">
 <!ENTITY previousButton.label "Previous">
 <!ENTITY previousButtonToolbarItem.label "Previous Unread">
 <!ENTITY previousMsgButton.label "Previous">
