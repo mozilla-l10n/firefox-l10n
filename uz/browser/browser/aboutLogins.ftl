@@ -26,6 +26,8 @@ menu =
     .title = Menyuni ochish
 # This menuitem is only visible on Windows
 menu-menuitem-import = Parollarni import qilish…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Boshqa brauzerdan import qilish
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Parametrlar
@@ -46,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = Saralash:
 login-list-name-option = Nomi boʻyicha (A-Z)
+login-list-name-reverse-option = Nomi boʻyicha (Z-A)
 login-list-breached-option = Buzilgan saytlar
 login-list-last-changed-option = Oxirgi oʻzgartirish boʻyicha
 login-list-last-used-option = Oxirgi foydalanish boʻyicha
@@ -83,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Nusxa olish
 login-item-copied-username-button-text = Nusxa olindi!
 login-item-password-label = Parol
-login-item-password-reveal-checkbox-show =
-    .title = Parolni koʻrsatish
-login-item-password-reveal-checkbox-hide =
-    .title = Parolni yashirish
 login-item-password-reveal-checkbox =
     .aria-label = Parolni koʻrsatish
 login-item-copy-password-button-text = Nusxa olish
