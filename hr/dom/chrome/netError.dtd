@@ -68,7 +68,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Stranica koju pokušavate vidjeti ne može se prikazati jer autentičnost primljenih podataka ne može biti provjerena.</p><ul><li>Molim, obavijestite vlasnika stranica o ovom problemu.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sigurna veza nije uspjela">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ovo bi mogao biti problem u postavkama poslužitelja ili netko pokušava imitirati poslužitelj.</li> <li>Ako ste se prije povezivali uspješno na ovaj poslužitelj, greška je vjerojatno privremena i trebali biste kasnije pokušati ponovo.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Možda se radi o problemu s postavkama na poslužitelju ili možda netko pokušava oponašati ovaj poslužitelj.</li>
+<li>Ako si se na ovaj poslužitelj u prošlosti bez problema spajao/la, moguće je da se radi o privremenoj grešci, stoga pokušaj ponovo kasnije.</li>
+</ul>">
 
 <!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
 <!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodavati iznimke ako koristite vezu prema Internetu kojoj ne vjerujete u potpunosti ili ako niste ranije viđali upozorenje za ovaj poslužitelj.</p> <p>Ako ipak želite dodati iznimku za ovu stranicu, to možete učiniti u naprednim postavkama enkripcije.</p>">
