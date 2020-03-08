@@ -28,3 +28,16 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = Program { -brand-short-name } bōł stworzōny ôd <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">globalno społeczność</label>, co spōłpracuje, żeby nec bōł durch ôtwarty, publiczny i dostympny do wszyjskich.
 helpus = Chcesz pōmōc? <label data-l10n-name="helpus-donateLink">Podaruj dowka</label> abo <label data-l10n-name="helpus-getInvolvedLink">przistōmp dō nos!</label>
 bottomLinks-license = Informacyjo ô licyncyji
+bottomLinks-rights = Wasze prawa
+bottomLinks-privacy = Polityka prywatności
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version } ({ $bits } bity)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits } bity)
