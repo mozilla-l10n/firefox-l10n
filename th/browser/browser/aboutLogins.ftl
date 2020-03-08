@@ -26,6 +26,8 @@ menu =
     .title = เปิดเมนู
 # This menuitem is only visible on Windows
 menu-menuitem-import = นำเข้ารหัสผ่าน…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = นำเข้าจากเบราว์เซอร์อื่น…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ตัวเลือก

@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = นำเข้าจากเบราว์เซอร์อื่น…
 appmenuitem-protection-report-title = การปกป้องความเป็นส่วนตัว
 appmenuitem-protection-report-tooltip =
     .tooltiptext = ไปยังรายงานความเป็นส่วนตัวของคุณ
