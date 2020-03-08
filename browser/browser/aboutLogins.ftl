@@ -26,6 +26,8 @@ menu =
     .title = פתיחת תפריט
 # This menuitem is only visible on Windows
 menu-menuitem-import = ייבוא ססמאות…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = ייבוא מדפדפן אחר…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] אפשרויות
@@ -81,10 +83,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = העתקה
 login-item-copied-username-button-text = הועתק!
 login-item-password-label = ססמה
-login-item-password-reveal-checkbox-show =
-    .title = הצגת ססמה
-login-item-password-reveal-checkbox-hide =
-    .title = הסתרת ססמה
 login-item-password-reveal-checkbox =
     .aria-label = הצגת ססמה
 login-item-copy-password-button-text = העתקה

@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = הגדרת מדיניות שהרחבות WebExtensions יכולות לגשת אליהן באמצעות chrome.storage.managed.
+policy-AppAutoUpdate = הפעלה או השבתה של עדכון אוטומטי ליישום.
 policy-AppUpdateURL = הגדרת כתובת מותאמת אישית לעדכון היישום.
 policy-Authentication = הגדרת אימות משולב לאתרים שתומכים בזה.
 policy-BlockAboutAddons = חסימת הגישה למנהל התוספות (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = הגדרת הערך ברירת המחדל המ
 policy-OverrideFirstRunPage = עקיפת דף ההפעלה הראשון. ניתן לנקות מדיניות זו אם ברצונך להשבית את דף ההפעלה הראשון.
 policy-OverridePostUpdatePage = שינוי כתובת הדף ״מה חדש״ המוצג לאחר עדכון. ניתן לקבוע מדיניות זו לריקה כדי להשבית את הצגת הדף לאחר עדכון.
 policy-PasswordManagerEnabled = הפעלה של שמירת ססמאות במנהל הססמאות.
-policy-Permissions = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום והתרעות.
 policy-Permissions2 = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום, התרעות וניגון אוטומטי.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
 policy-Preferences = הגדרה ונעילת הערכים עבור חלק מההעדפות.
