@@ -26,7 +26,7 @@ config-focus-search-2 =
 ## These strings are used for column headers
 
 config-pref-column =
-    .label = Naziv postavke
+    .label = Ime postavke
 config-lock-column =
     .label = Stanje
 config-type-column =
