@@ -94,6 +94,8 @@ cfr-whatsnew-panel-header = Yangi xususiyatlar
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
 cfr-whatsnew-tracking-protect-title = Oʻzingini kuzatuvchilardan himoyalang
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } onlayn faoliyatingizni kuzatadigan ijtimoiy va saytlararo kuzatuvchilarni bloklaydi.
+cfr-whatsnew-tracking-protect-link-text = Hisobotni koʻrish
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,6 +115,7 @@ cfr-whatsnew-lockwise-take-link-text = Ilovani yuklab olish
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Manzillar panelida kamroq yozib, koʻproq toping
 
 ## Picture-in-Picture
 
