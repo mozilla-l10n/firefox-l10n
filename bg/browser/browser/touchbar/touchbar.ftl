@@ -16,7 +16,7 @@ add-bookmark = Добавяне на отметка
 open-bookmarks-sidebar = Показване на страничната лента с отметки
 reader-view = Изглед за четене
 # Meant to match the string displayed in an empty URL bar.
-open-location = Търсене или въвеждане на адрес
+open-location = Търсете или въведете адрес
 share = Споделяне
 close-window = Затваряне на прозореца
 open-sidebar = Странични ленти
