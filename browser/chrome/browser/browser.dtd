@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Còdi font de la pagina">
 <!ENTITY pageSourceCmd.accesskey "C">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informacion sus la pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Desbugador de disposicion">
 <!ENTITY ldbCmd.accesskey "d">
@@ -127,8 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Se reconnectar a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificatz vòstre compte">
 
-
- <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Reduire">
 <!ENTITY fullScreenRestore.tooltip "Restablir">
@@ -211,7 +207,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "M">
-
 <!ENTITY bookmarkThisPageCmd.label "Marcar aquesta pagina">
 <!ENTITY editThisBookmarkCmd.label "Modificar aqueste marcapagina">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,7 +231,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Arrestar">
 <!ENTITY stopCmd.accesskey            "A">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Anar a la pagina indicada dins la barra d'adreça">
@@ -408,7 +402,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restablir la session precedenta">
 
 <!ENTITY showAllHistoryCmd2.label "Afichar tot l'istoric">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Afichar tot l'istoric">
@@ -586,7 +579,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Dobrir lo quadre dins un onglet novèl">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Actualizar lo quadre">
 <!ENTITY reloadFrameCmd.accesskey     "c">
@@ -638,7 +630,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "E">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Enregistrar lo quadre jos…">
 <!ENTITY saveFrameCmd.accesskey       "E">
@@ -742,20 +733,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zoom avant">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "v">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zoom arrièr">
 <!ENTITY fullZoomReduceCmd.accesskey    "r">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Normal">
 <!ENTITY fullZoomResetCmd.accesskey     "N">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -779,7 +767,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Tampar">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "T">
 
@@ -805,7 +792,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar lo sens del tèxte">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Recercar dins la pagina…">
@@ -835,18 +821,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Connexion">
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
-
-<!ENTITY identity.connectionSecure3 "Connexion segura">
-<!ENTITY identity.connectionNotSecure2 "La connexion pas segura">
-<!ENTITY identity.connectionNotSecureSecurityView "Sètz pas connectat amb seguretat a aquel site.">
 <!ENTITY identity.connectionFile "Aquela pagina es enregistrada dins vòstre ordinador.">
 <!ENTITY identity.connectionVerified2 "Sètz connectat amb seguretat a aquel site, proprietat de :">
-<!ENTITY identity.connectionVerified3 "Sètz connectat amb seguretat a aquel site.">
 <!ENTITY identity.connectionInternal "Aquò es una pagina segura de &brandShortName;.">
 <!ENTITY identity.extensionPage "Aquela pagina es estada cargada d’una extension.">
 <!ENTITY identity.insecureLoginForms2 "Los identificants marcats sus aquela pagina pòdon far perilh.">
-
-<!ENTITY identity.evOwnerLabel2 "Certificat emés per :">
+<!ENTITY identity.customRoot "Connexion verificada per un emissor de certificats qu’es pas reconegut per Mozilla.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat d'elements pas segurs sus aquela pagina.">
@@ -880,8 +860,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Escafar los cookies e las donadas de site…">
 
 <!ENTITY identity.permissions "Permissions">
-
-<!ENTITY identity.permissions3 "Permissions">
 <!ENTITY identity.permissionsEmpty "Avètz donat pas cap de permission espaciala a aquel site.">
 <!ENTITY identity.permissionsReloadHint "Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.">
 <!ENTITY identity.permissionsPreferences.tooltip "Dobrir las preferéncias d’autorizacions">
