@@ -34,3 +34,5 @@ about-telemetry-keyed-histogram-section = Բանալիացուած գծապատ�
 about-telemetry-events-section = Իրադարձութիւններ
 about-telemetry-simple-measurements-section = Պարզ չափումներ
 about-telemetry-slow-sql-section = Ցուցադրել SQL-ի ձեւթղթերը
+about-telemetry-addon-details-section = Հաւելման մանրամասները
+about-telemetry-captured-stacks-section = Կորզուած շեղջեր
