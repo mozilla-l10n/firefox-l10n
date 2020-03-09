@@ -2,7 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from AccountManager.xul -->
+
+<!-- extracted from AccountManager.xhtml -->
+
 <!ENTITY accountManagerTitle.label "Impostazioni account">
+
+<!ENTITY  accountManagerCloseButton.label "Chiudi">
+
 <!ENTITY accountActionsButton.label "Azioni account">
 <!ENTITY accountActionsButton.accesskey "z">
 <!ENTITY addMailAccountButton.label "Aggiungi account di posta…">
@@ -17,5 +24,17 @@
 <!ENTITY setDefaultButton.accesskey "f">
 <!ENTITY removeButton.label "Elimina account">
 <!ENTITY removeButton.accesskey "E">
+
+<!-- AccountManager.xul -->
+
+<!-- AccountManager.xhtml -->
+<!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
+     setting dialog, which specifies the width and height in em units of the dialog.
+     Localizers ONLY can increase these widths if they are having difficulty getting
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
+     XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
+     this window for en-US. -->
 <!ENTITY accountManager.size "width: 125ch; height: 55em;">
 <!ENTITY accountTree.width "width: 40ch;">
