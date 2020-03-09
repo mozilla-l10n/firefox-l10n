@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
 <!ENTITY pageSourceCmd.accesskey "к">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Отстраняване на грешки в оформлението">
 <!ENTITY ldbCmd.accesskey "о">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "ц">
 <!ENTITY exitFullScreenCmd.label "Излизане от цял екран">
 <!ENTITY exitFullScreenCmd.accesskey "ц">
+
 <!ENTITY fullScreenCmd.label "Цял екран">
 <!ENTITY fullScreenCmd.accesskey "Ц">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Повторно свързване със &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Проверка на сметка">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Минимизиране">
 <!ENTITY fullScreenRestore.tooltip "Възстановяване">
@@ -150,15 +146,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Трябва да потвърдите сметката си преди да може да използвате синхронизиране.">
 <!ENTITY fxa.unverified.button.label "Настройки на &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "Скриване на бутона за превключване на картина в картината">
-<!ENTITY pictureInPictureHideToggle.accesskey "с">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Вписани сте като">
 <!ENTITY fxa.menu.manageAccount.label "Управление на сметката…">
 <!ENTITY fxa.menu.syncSettings.label "Настройки на &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Скриване на бутона за превключване на картина в картината">
+<!ENTITY pictureInPictureHideToggle.accesskey "с">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,12 +166,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Вписване в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Включване на &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Услуги от &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Сметка">
 <!ENTITY fxa.menu.settings.label "Настройки">
 <!ENTITY fxa.menu.accountSettings.label "Настройки на регистрация">
 <!ENTITY fxa.menu.signOut.label "Излизане…">
-<!ENTITY fxa.menu.deviceSettings.label "Настройки на устройства">
 <!ENTITY fxa.menu.setupSync.label "Настройка на &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +213,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Отметки">
 <!ENTITY bookmarksMenu.accesskey "О">
-
 <!ENTITY bookmarkThisPageCmd.label "Отмятане на страницата">
 <!ENTITY editThisBookmarkCmd.label "Промяна на отметка">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -245,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Спиране">
 <!ENTITY stopCmd.accesskey            "с">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Зареждане на адреса в полето">
 <!ENTITY printButton.label            "Отпечатване">
 <!ENTITY printButton.tooltip          "Отпечатване на страницата">
@@ -276,8 +270,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление използването на софтуер с DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Отваря панела за MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Дали сте допълнителни права на страницата.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Забранили сте на страницата достъп до вашата камера.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Забранили сте на страницата достъп до вашия микрофон.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Забранили сте на страницата споделянето на вашия екран.">
@@ -290,6 +282,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Забранили сте приставката Adobe Flash на тази страница.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Забранили сте на страницата достъп до MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "Забранили сте на страницата да инсталира добавки.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Дали сте допълнителни права на страницата.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
@@ -415,7 +410,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Възстановяване на предишна сесия">
 
 <!ENTITY showAllHistoryCmd2.label "Цялата история">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Цялата история">
@@ -496,7 +490,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Повече">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Търсене или въвеждане на адрес">
+
+<!ENTITY urlbar.placeholder2          "Търсете или въведете адрес">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Разширение:">
@@ -567,12 +562,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Търсене с:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Този път търсете с:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -585,6 +574,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "с">
 
 <!ENTITY openLinkCmdInTab.label       "Отваряне в раздел">
+
 <!ENTITY openLinkCmdInTab.accesskey   "д">
 <!ENTITY openLinkCmd.label            "Отваряне в прозорец">
 <!ENTITY openLinkCmd.accesskey        "п">
@@ -633,6 +623,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
+
 <!ENTITY pageAction.copyLink.label    "Копиране на препратката">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -646,9 +637,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Запазване като…">
 <!ENTITY savePageCmd.accesskey        "З">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "З">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Запазване на рамката като…">
@@ -753,20 +744,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Увеличаване">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "У">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Намаляване">
 <!ENTITY fullZoomReduceCmd.accesskey    "м">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Нулиране">
 <!ENTITY fullZoomResetCmd.accesskey     "Н">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -790,7 +778,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Затваряне">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "З">
 
@@ -845,19 +832,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Връзка">
 <!ENTITY identity.connectionSecure "Защитена връзка">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
-
-<!ENTITY identity.connectionSecure3 "Връзката е защитена">
-<!ENTITY identity.connectionNotSecure2 "Връзката не е защитена">
-<!ENTITY identity.connectionNotSecureSecurityView "Връзката със сайта не е сигурна.">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
-<!ENTITY identity.connectionVerified3 "Връзката със сайта е сигурна.">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 <!ENTITY identity.extensionPage "Страницата е отворена от разширение.">
 <!ENTITY identity.insecureLoginForms2 "Въведените на страницата данни за вход може да бъдат компрометирани.">
 <!ENTITY identity.customRoot "Връзката е потвърдена от издател на сертификат, който не е разпознат от Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Сертификатът е издаден на:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
@@ -892,8 +872,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Изчистване на бисквитки и данни…">
 
 <!ENTITY identity.permissions "Права">
-
-<!ENTITY identity.permissions3 "Права">
 <!ENTITY identity.permissionsEmpty "Не сте дали допълнителни права на страницата.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
@@ -939,12 +917,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Защо?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ограничаването им може да наруши елементи на някои страници. Без проследяване някои бутони, формуляри и полета за вход може да не работят.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Изключването на защитите ще позволи на всички проследявания на тази страница. Също може да подобри някои възможности на страницата.">
-<!ENTITY protections.socialMediaTrackers.label "Проследяване от социални мрежи">
-<!ENTITY protections.crossSiteTrackingCookies.label "Бисквитки за следене в различни сайтове">
-<!ENTITY protections.trackingContent.label "Проследяващо съдържание">
-<!ENTITY protections.fingerprinters.label "Снемане на цифров отпечатък">
-<!ENTITY protections.cryptominers.label "Добиване на криптовалути">
 <!ENTITY protections.noTrackersFound.description "На страницата не са открити известни на &brandShortName; проследяващи елементи.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Тези бисквитки ви следват от сайт на сайт и събират данни за това, което правите онлайн. Те се разполагат от трети страни като рекламодатели и компании за събиране и анализ на статистически данни.">
@@ -966,7 +938,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Вписване в &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "В">
-
 <!ENTITY syncSyncNowItem.label        "Синхронизиране">
 <!ENTITY syncSyncNowItemSyncing.label "Синхронизиране…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
@@ -1004,8 +975,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "н">
 
 <!ENTITY contentBlocking.socialblock.label "Проследяване от социални мрежи">
-
-<!ENTITY contentBlocking.cookies2.label "Бисквитки за следене в различни сайтове">
 
 <!ENTITY contentBlocking.cryptominers.label "Добиване на криптовалути">
 <!ENTITY contentBlocking.cryptominersView.label "Добиване на криптовалути">
