@@ -85,7 +85,7 @@ about-debugging-setup-intro = Konfigurasikan metode koneksi yang ingin Anda guna
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk debugging tab, ekstensi, dan service worker di versi { -brand-shorter-name } ini.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk mengawakutu ekstensi dan service woeker pada { -brand-shorter-name } versi ini.
+about-debugging-setup-this-firefox2 = Gunakan <a>{ about-debugging-this-firefox-runtime-name }</a> untuk debugging ekstensi dan service worker di versi { -brand-shorter-name } ini.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Sambungkan Peranti
 # USB section of the Setup page
@@ -107,9 +107,9 @@ about-debugging-setup-usb-status-updating = Memutakhirkan…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Aktifkan menu Pengembang di perangkat Android Anda.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Aktifkan Pengawakutuan USB di Menu Pengembang Android.
+about-debugging-setup-usb-step-enable-debug2 = Aktifkan Debugging USB di Menu Pengembang Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Aktifkan Pengawakutuan USB di Firefox pada perangkat Android.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Aktifkan Debugging USB di Firefox pada perangkat Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Sambungkan peranti Android ke komputer Anda.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
