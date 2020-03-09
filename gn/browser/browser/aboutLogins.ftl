@@ -26,6 +26,8 @@ menu =
     .title = Poravorãme jeike
 # This menuitem is only visible on Windows
 menu-menuitem-import = Ñe'ẽñemi jegueru...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Egueru ambue kundahára guive…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Jeporavorã
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Monguatia
 login-item-copied-username-button-text = Monguatiapyre!
 login-item-password-label = Ñe'ẽñemi
-login-item-password-reveal-checkbox-show =
-    .title = Ñe'ẽñemi jehechauka
-login-item-password-reveal-checkbox-hide =
-    .title = Ñe'ẽñemi kañymby
 login-item-password-reveal-checkbox =
     .aria-label = Ehechauka ñe’ẽñemi
 login-item-copy-password-button-text = Monguatia
