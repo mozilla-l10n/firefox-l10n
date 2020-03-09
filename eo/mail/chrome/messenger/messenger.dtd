@@ -565,12 +565,12 @@
 <!ENTITY notJunkButton.label "Dezirata">
 <!ENTITY addressBookButton.label "Adresaro">
 <!ENTITY chatButton.label "Tujmesaĝilo">
-<!ENTITY glodaSearch.title "Global Search">
-<!ENTITY searchItem.title "Quick Search">
-<!ENTITY mailViewsToolbarItem.title "Mail Views">
-<!ENTITY folderLocationToolbarItem.title "Folder Location">
-<!ENTITY tagButton.label "Tag">
-<!ENTITY compactButton.label "Compact">
+<!ENTITY glodaSearch.title "Serĉi">
+<!ENTITY searchItem.title "Rapide serĉi">
+<!ENTITY mailViewsToolbarItem.title "Vidoj de retpoŝto">
+<!ENTITY folderLocationToolbarItem.title "Loko de mesaĝujo">
+<!ENTITY tagButton.label "Etikedo">
+<!ENTITY compactButton.label "Reorganizi">
 <!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
