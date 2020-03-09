@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } huutortoo ko seedamfaagu kisal ngu moƴƴaani..
+cert-error-mitm-intro = Lowe geese ndallinirta keɓtinirɗe mum en ko seedanteeje ɗe hoolaaɓe seedamafaagu ndokkata ɗum en.
 cert-error-trust-cert-invalid = Seedamfaagu nguu hoolaaka sabu bayyino ngu ko kohowo seedamfaaje mo moƴƴaani.
 cert-error-trust-untrusted-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu bayyinɗo oo hoolaaka.
 cert-error-trust-signature-algorithm-disabled = Seedamfaagu nguu hoolaaka sabu ngu siiforaa ko huutoraade algoritmol daaƴangol sabu nol hisaani.
