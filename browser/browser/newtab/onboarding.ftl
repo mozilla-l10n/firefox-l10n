@@ -76,6 +76,7 @@ onboarding-benefit-privacy-title = Истинска поверителност
 onboarding-benefit-privacy-text = Всичко, което правим зачита нашето обещание за личните данни: Взимаме по-малко, Пазим го зорко. Без тайни.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Бъдете информирани, когато личните ви данни са изтекли неправомерно в интернет.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
@@ -120,11 +121,13 @@ onboarding-pocket-anywhere-title = Четете и слушайте навсяк
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Вземете паролите си навсякъде
 onboarding-lockwise-passwords-button2 = Вземете приложението
+onboarding-lockwise-strong-passwords-title = Създавайте и съхранявайте силни пароли
 onboarding-lockwise-strong-passwords-button = Управление на регистрации
 onboarding-facebook-container-title = Сложете ограда на Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } държи профила ви отделен от всичко останало, което затруднява Facebook да ви показва целеви реклами.
 onboarding-facebook-container-button = Добавяне на разширението
 onboarding-import-browser-settings-title = Внесете вашите отметки, пароли и др.
+onboarding-import-browser-settings-button = Внасяне на данни от Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
