@@ -26,6 +26,8 @@ menu =
     .title = Отваря менюто
 # This menuitem is only visible on Windows
 menu-menuitem-import = Внасяне на пароли…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Внасяне от друг мрежов четец…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Настройки

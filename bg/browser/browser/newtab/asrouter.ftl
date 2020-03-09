@@ -108,10 +108,14 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = От { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Преглед на отчета
 cfr-whatsnew-lockwise-backup-title = Архивирайте паролите си
+cfr-whatsnew-lockwise-backup-link-text = Включете записването на резервни копия
+cfr-whatsnew-lockwise-take-title = Вземете паролите си със себе си
+cfr-whatsnew-lockwise-take-body = Мобилното приложение { -lockwise-brand-short-name } ви позволява сигурен достъп до вашите архивирани пароли навсякъде.
 cfr-whatsnew-lockwise-take-link-text = Вземете приложението
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Въвеждайте по-малко, улеснете се с адресната лента
 cfr-whatsnew-searchbar-icon-alt-text = Увеличаваща лупа
 
 ## Picture-in-Picture
@@ -123,6 +127,7 @@ cfr-whatsnew-pip-cta = Научете повече
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = По-малко досадни изскачащи прозорци
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } вече блокира сайтовете да ви питат за изскачащи съобщения.
 cfr-whatsnew-permission-prompt-cta = Научете повече
 
 ## Fingerprinter Counter
@@ -140,6 +145,7 @@ cfr-whatsnew-fingerprinter-counter-header-alt = Снемане на цифров
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Вземете тази отметка на телефона си
 cfr-doorhanger-sync-bookmarks-ok-button = Включване на { -sync-brand-short-name }
     .accesskey = В
 
@@ -152,9 +158,12 @@ cfr-doorhanger-sync-logins-ok-button = Включване на { -sync-brand-sho
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Прочетете това в движение
+cfr-doorhanger-send-tab-recipe-header = Вземете тази рецепта в кухнята
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Споделете този PDF безопасно
 cfr-doorhanger-firefox-send-ok-button = Изпробвайте { -send-brand-name }
     .accesskey = И
 
@@ -164,7 +173,10 @@ cfr-doorhanger-socialtracking-ok-button = Вижте защитите
     .accesskey = В
 cfr-doorhanger-socialtracking-close-button = Затваряне
     .accesskey = з
+cfr-doorhanger-socialtracking-dont-show-again = Да не се показват подобни съобщения отново
+    .accesskey = д
 cfr-doorhanger-socialtracking-description = Поверителността ви е от значение. { -brand-short-name } вече спира проследяванията от разпространените социални мрежи, ограничавайки събираните данни за действията ви в мрежата.
+cfr-doorhanger-cryptominers-description = Вашата поверителност е от значение. { -brand-short-name } вече блокира скриптове, които използват изчислителната мощност на системата ви за извличане на криптовалути.
 
 ## Enhanced Tracking Protection Milestones
 

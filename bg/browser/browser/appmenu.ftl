@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Внасяне от друг мрежов четец…
 appmenuitem-protection-report-title = Защита на лични данни
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Прегледайте доклада за личните данни

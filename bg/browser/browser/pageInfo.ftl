@@ -14,6 +14,8 @@ select-all =
 menu-select-all =
     .label = Избиране на всичко
     .accesskey = в
+close-dialog =
+    .key = в
 general-tab =
     .label = Основни
     .accesskey = О
@@ -91,7 +93,7 @@ security-view-identity-validity =
     .value = Изтича на:
 security-view-privacy =
     .value = Поверителност и история
-security-view-privacy-history-value = Посещавал ли съм този сайт и преди, изключвайки днес?
+security-view-privacy-history-value = Посещавал(-а) ли съм този сайт и преди, изключвайки днес?
 security-view-privacy-sitedata-value = Пази ли тази страница информация на компютъра?
 security-view-privacy-clearsitedata =
     .label = Изчистване на бисквитки и данни на страници
@@ -111,14 +113,14 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Да, бисквитките и { $value } { $unit } данни на страници
+security-site-data-cookies = Да, бисквитки и { $value } { $unit } данни от страницата
 security-site-data-only = Да, { $value } { $unit } данни на страници
 security-site-data-cookies-only = Да, бисквитките
 security-site-data-no = Не
 image-size-unknown = Неизвестно
 not-set-verified-by = Неизвестно
 page-info-not-specified =
-    .value = Неизвестно
+    .value = Не е посочено
 not-set-alternative-text = Неизвестно
 not-set-date = Неизвестно
 media-img = Изображение
@@ -168,6 +170,17 @@ properties-general-size =
         { $bytes ->
             [one] { $kb } KB ({ $bytes } байта)
            *[other] { $kb } KB ({ $bytes } байта)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } Изображение (анимирано, { $frames } кадър)
+           *[other] { $type } Изображение (анимирано, { $frames } кадъра)
         }
 # This string is used to display the type of
 # an image
