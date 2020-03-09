@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Izvorna koda strani">
 <!ENTITY pageSourceCmd.accesskey "v">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Razhroščevalnik postavitve">
 <!ENTITY ldbCmd.accesskey "P">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "C">
 <!ENTITY exitFullScreenCmd.label "Izhod iz celozaslonskega načina">
 <!ENTITY exitFullScreenCmd.accesskey "C">
+
 <!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Znova poveži s &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Potrdite svoj račun">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Skrči">
 <!ENTITY fullScreenRestore.tooltip "V običajen način">
@@ -175,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Nastavitve računa">
 <!ENTITY fxa.menu.manageAccount2.label "Upravljanje računa">
 <!ENTITY fxa.menu.signOut.label "Odjava …">
-<!ENTITY fxa.menu.deviceSettings.label "Nastavitve naprave">
 <!ENTITY fxa.menu.setupSync.label "Nastavi &syncBrand.shortName.label; …">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Zaznamki">
 <!ENTITY bookmarksMenu.accesskey "Z">
-
 <!ENTITY bookmarkThisPageCmd.label "Dodaj stran med zaznamke">
 <!ENTITY editThisBookmarkCmd.label "Uredi ta zaznamek">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "P">
 <!ENTITY stopCmd.label                "Ustavi">
 <!ENTITY stopCmd.accesskey            "U">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Odpri mesto v vrstici z naslovom">
 <!ENTITY printButton.label            "Natisni">
 <!ENTITY printButton.tooltip          "Natisni to stran">
@@ -417,7 +411,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Obnovi prejšnjo sejo">
 
 <!ENTITY showAllHistoryCmd2.label "Prikaži vso zgodovino">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Prikaži vso zgodovino">
@@ -498,6 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Več">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Iskanje ali naslov strani">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -597,7 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "O">
 <!ENTITY showOnlyThisFrameCmd.label     "Pokaži le ta okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "L">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ponovno naloži okvir">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -631,6 +624,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Dodaj okvir med zaznamke">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Kopiraj povezavo">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,11 +638,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Pošlji povezavo po e-pošti …">
 <!ENTITY emailPageCmd.accesskey       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Shrani stran kot …">
 <!ENTITY savePageCmd.accesskey        "S">
-<!ENTITY savePageCmd.accesskey2       "s">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "s">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Shrani okvir kot …">
 <!ENTITY saveFrameCmd.accesskey       "T">
@@ -752,20 +745,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Povečaj">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "V">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pomanjšaj">
 <!ENTITY fullZoomReduceCmd.accesskey    "M">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Ponastavi">
 <!ENTITY fullZoomResetCmd.accesskey     "N">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -789,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zapri">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
@@ -815,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Spremeni smer besedila">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "b">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Najdi na tej strani …">
@@ -845,19 +833,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Povezava">
 <!ENTITY identity.connectionSecure "Varna povezava">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
-
-<!ENTITY identity.connectionSecure3 "Povezava varna">
-<!ENTITY identity.connectionNotSecure2 "Povezava ni varna">
-<!ENTITY identity.connectionNotSecureSecurityView "Niste varno povezani na to stran.">
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
 <!ENTITY identity.connectionVerified2 "Varno ste povezani na to stran, ki jo upravlja:">
-<!ENTITY identity.connectionVerified3 "Varno ste povezani na to stran.">
 <!ENTITY identity.connectionInternal "To je varna stran &brandShortName;a.">
 <!ENTITY identity.extensionPage "To stran je naložila razširitev.">
 <!ENTITY identity.insecureLoginForms2 "Prijave, ki jih vnesete na tej strani, so lahko ogrožene.">
 <!ENTITY identity.customRoot "Povezavo je preveril izdajatelj digitalnega potrdila, ki ga Mozilla ne prepozna.">
-
-<!ENTITY identity.evOwnerLabel2 "Potrdilo izdano:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je zavrnil dele strani, ki niso varni.">
@@ -892,8 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Počisti piškotke in podatke te strani …">
 
 <!ENTITY identity.permissions "Dovoljenja">
-
-<!ENTITY identity.permissions3 "Dovoljenja">
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
 <!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
 <!ENTITY identity.permissionsPreferences.tooltip "Odpri nastavitve dovoljenj">
