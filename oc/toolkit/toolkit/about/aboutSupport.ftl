@@ -136,6 +136,7 @@ intl-regional-prefs = Preferéncias regionalas
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-accepting-connections = Acceptar las connexions
 remote-debugging-url = URL
 
 ##
