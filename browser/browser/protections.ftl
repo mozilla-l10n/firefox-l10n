@@ -62,6 +62,8 @@ lockwise-header-content-logged-in = Speichern Sie Passwörter sicher und synchro
 protection-report-view-logins-button = Zugangsdaten anzeigen
     .title = Gespeicherte Zugangsdaten öffnen
 lockwise-no-logins-content = Holen Sie sich die <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App und nehmen Sie damit Ihre Passwörter überall mit hin.
+lockwise-mobile-app-title = Nehmen Sie Ihre Passwörter überall mit
+lockwise-no-logins-card-content = Verwenden Sie in { -brand-short-name } gespeicherte Passwörter auf jedem Gerät.
 lockwise-app-links = { -lockwise-brand-name } für <a data-l10n-name="lockwise-android-inline-link">Android</a> und <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
