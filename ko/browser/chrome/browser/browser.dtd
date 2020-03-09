@@ -80,13 +80,13 @@ when there are no windows but Firefox is still running. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "탐색">
-<!ENTITY personalbarCmd.label "북마크 모음">
+<!ENTITY personalbarCmd.label "북마크 도구 모음">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "북마크">
-<!ENTITY bookmarksToolbarItem.label "북마크 모음 항목">
+<!ENTITY bookmarksToolbarItem.label "북마크 도구 모음 항목">
 
 <!ENTITY pageSourceCmd.label "페이지 소스">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "모바일 북마크">
 <!ENTITY viewBookmarksSidebar2.label        "북마크 탐색창 보기">
 <!ENTITY hideBookmarksSidebar.label         "북마크 탐색창 숨기기">
-<!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
+<!ENTITY viewBookmarksToolbar.label         "북마크 도구 모음 표시">
 <!ENTITY hideBookmarksToolbar.label         "북마크 도구 모음 숨기기">
 <!ENTITY searchBookmarks.label              "북마크 검색">
 <!ENTITY bookmarkingTools.label             "북마크 도구">

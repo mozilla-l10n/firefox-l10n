@@ -10,7 +10,7 @@
 #define bookmarks_title 북마크
 #define bookmarks_heading 북마크
 
-#define bookmarks_toolbarfolder 북마크 도구 모음
+#define bookmarks_toolbarfolder 북마크 도구 모음 폴더
 #define bookmarks_toolbarfolder_description 북마크 도구 모음에 표시할 북마크를 이 폴더에 추가하세요
 
 # LOCALIZATION NOTE (getting_started):
