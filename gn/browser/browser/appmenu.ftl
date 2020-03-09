@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Egueru ambue kundahára guive…
 appmenuitem-protection-report-title = Ñemiguáva ñemo’ã
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tereho ne marandu’i ñemiguápe
