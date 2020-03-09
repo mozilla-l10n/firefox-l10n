@@ -571,16 +571,16 @@
 <!ENTITY folderLocationToolbarItem.title "Loko de mesaĝujo">
 <!ENTITY tagButton.label "Etikedo">
 <!ENTITY compactButton.label "Reorganizi">
-<!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.label "Menuo">
 
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "Advanced message search">
-<!ENTITY getMsgButton.tooltip "Get new messages">
-<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
-<!ENTITY getAllNewMsgCmd.accesskey "G">
-<!ENTITY newMsgButton.tooltip "Create a new message">
-<!ENTITY replyButton.tooltip "Reply to the message">
-<!ENTITY replyAllButton.tooltip "Reply to sender and all recipients">
+<!ENTITY advancedButton.tooltip "Sperta serĉo de mesaĝoj">
+<!ENTITY getMsgButton.tooltip "Ricevi novajn mesaĝojn">
+<!ENTITY getAllNewMsgCmd.label "Ricevi ĉiujn novajn mesaĝojn">
+<!ENTITY getAllNewMsgCmd.accesskey "R">
+<!ENTITY newMsgButton.tooltip "Skribi novan mesaĝon">
+<!ENTITY replyButton.tooltip "Respondi al la mesaĝo">
+<!ENTITY replyAllButton.tooltip "Respondi al la sendinto kaj al ĉiuj ricevontojn">
 <!ENTITY replyListButton.tooltip "Reply to mailing list">
 <!ENTITY forwardButton.tooltip "Forward selected message">
 <!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
