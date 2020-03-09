@@ -24,3 +24,5 @@ about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Հեռ�
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Զննութեան բառարանը</a> մատակարարում է մանրամասնութիւններ եւ նկարագրութիւններ զննութիւնների համար, որոնք հավաքուել են հեռուսաչափութեան կողմից։
 about-telemetry-show-in-Firefox-json-viewer = Բացել JSON դիտումում
 about-telemetry-home-section = Տուն
+about-telemetry-general-data-section = Գլխաւոր տուեալներ
+about-telemetry-environment-data-section = Միջավայրի տուեալ
