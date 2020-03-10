@@ -25,6 +25,9 @@
 <!ENTITY newPrivateWindowCmd.label "Janela privativa">
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "J">
+<!ENTITY closeCmd.label "Fechar">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "F">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Visualizar impressão">
@@ -33,6 +36,33 @@
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
 
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "Preferências…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "Serviços">
+<!ENTITY hideThisAppCmd.label             "Ocultar &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "H">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Ocultar outros">
+<!ENTITY hideOtherAppsCmd.key             "H">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Mostrar tudo">
+<!ENTITY openHelpCmdMac.label             "Ajuda do &brandShortName;">
+<!ENTITY openHelpCmdMac.accesskey         "A">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
+
+<!ENTITY quitApplicationCmd.label         "Sair">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "S">
+<!ENTITY quitApplicationCmdMac.label      "Sair do &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "S">
+<!ENTITY quitApplicationCmdUnix.label     "Sair">
+<!ENTITY quitApplicationCmdUnix.accesskey "S">
+
 <!ENTITY editMenu.label                   "Editar">
 <!ENTITY editMenu.accesskey               "E">
 <!ENTITY undoCmd.label                    "Desfazer">
@@ -40,6 +70,7 @@
 <!ENTITY undoCmd.accesskey                "D">
 <!ENTITY redoCmd.label                    "Refazer">
 <!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmdMac.key                   "Z">
 <!ENTITY redoCmd.accesskey                "R">
 <!ENTITY cutCmd.label                     "Recortar">
 <!ENTITY cutCmd.key                       "X">
@@ -74,6 +105,7 @@
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findReplaceCmd.accesskey "I">
 <!ENTITY findAgainCmd.label "Encontrar novamente">
 <!ENTITY findAgainCmd.key "G">
@@ -97,6 +129,9 @@
 
 <!ENTITY helpMenu.label                   "Ajuda">
 <!ENTITY helpMenu.accesskey               "u">
+
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
 
 <!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
@@ -128,6 +163,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Alternar a direção do texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY customizeToolbarContext.label            "Personalizar…">
 <!ENTITY customizeToolbarContext.accesskey        "P">
