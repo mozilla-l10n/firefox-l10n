@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Nana'uì' nej riña gayi'ì sesiûn
 create-login-button = Giri 'ngo riña gayi'ì sesiûn nakàa
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon guendâ { $title }
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
 fxaccounts-sign-in-button = Gatu riña { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -31,6 +26,8 @@ menu =
     .title = Na'nïn' menû
 # This menuitem is only visible on Windows
 menu-menuitem-import = Duguachîn nej Da'nga huìi...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Asìj riña a'ngô nabegadôr duguachînt ga'naj…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nej sa huaa
@@ -51,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = Nagi'aj chre' da':
 login-list-name-option = Si yugui (A-Z)
+login-list-name-reverse-option = Si yugui (Z-A)
 login-list-breached-option = Nej sitiô riña gatûj yuhue nej si
 login-list-last-changed-option = Sa nagi'iât ne' rukù ni'inj
 login-list-last-used-option = Sa garajsun rukù nï't
@@ -61,9 +59,6 @@ about-logins-login-list-empty-search-description = Nitaj nuguan' nikaj dugui' ng
 login-list-item-title-new-login = Gayi'ì sesiûn nakàa
 login-list-item-subtitle-new-login = Gacrun dánt riña gayi'ìt sesiûn
 login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
-about-logins-list-item-warning-icon =
-    .alt = Ikonô narikî nuguan' ahii
-    .title = Gi'iaj yi'ì si riña sitiô nan
 about-logins-list-item-breach-icon =
     .title = Gi'iaj yi'ì si riña sitiô nan
 
@@ -81,7 +76,6 @@ about-logins-intro-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a
 
 login-item-new-login-title = Giri 'ngo sa gayi'ì sesiûn nakàa
 login-item-edit-button = Nagi'iô'
-login-item-delete-button = Dure'
 about-logins-login-item-remove-button = Guxūn
 login-item-origin-label = Si Direlsiûn Sîtio
 login-item-origin =
@@ -92,10 +86,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Guxun' ni nachrun' a'ngô hiuj u
 login-item-copied-username-button-text = 'Ngà guxun'
 login-item-password-label = Da'nga' huìi
-login-item-password-reveal-checkbox-show =
-    .title = Diguin' da'nga' huìi
-login-item-password-reveal-checkbox-hide =
-    .title = Da'nga huì nu huìi
+login-item-password-reveal-checkbox =
+    .aria-label = Digûn' da'nga huìi
 login-item-copy-password-button-text = Guxun' ni nachrun' a'ngô hiuj u
 login-item-copied-password-button-text = 'Ngà guxun'!
 login-item-save-changes-button = Na'nïnj sà' sa nadunât
@@ -126,7 +118,6 @@ enable-password-sync-preferences-button =
            *[other] Ni'iaj daj hua { -sync-brand-short-name }
         }
     .accesskey = N
-confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Sī gachín na’ānj ñût ñùnj
     .accesskey = D
@@ -138,7 +129,6 @@ confirmation-dialog-dismiss-button =
     .title = Duyichin'
 about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
-confirm-delete-dialog-confirm-button = Dure'
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
@@ -153,11 +143,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Riña { $loginTitle } ngà hua 'ngo sa gu'nàj dàdanj.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
