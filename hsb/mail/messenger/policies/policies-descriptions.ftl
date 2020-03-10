@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Prawidła nastajić, na kotrež WebExtensions přez chrome.storage.managed přistup maja.
+policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžnić abo znjemóžnić.
 policy-AppUpdateURL = Nastajće swójski URL za aktualizowanje nałoženjow.
 policy-Authentication = Konfigurujće integrowanu awtentifikaciju za websydła, kotrež ju podpěruja.
 policy-BlockAboutAddons = Přistup na zrjadowak přidatkow (about:addons) blokować.
