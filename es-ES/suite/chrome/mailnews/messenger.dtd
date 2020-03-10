@@ -124,6 +124,7 @@
 <!ENTITY showThreadPaneCmd.accesskey "d">
 <!ENTITY showFolderPaneCmd.label "Panel de carpetas">
 <!ENTITY showFolderPaneCmd.accesskey "e">
+<!ENTITY toggleFolderPaneCmd.key "S">
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "O">
 <!ENTITY sortByDateCmd.label "Fecha">

@@ -8,6 +8,9 @@
 <!ENTITY preferencesCloseButton.label "Cerrar">
 <!ENTITY preferencesCloseButton.accesskey "C">
 <!ENTITY prefWindow.title "Preferencias">
+<!ENTITY prefWindow.size "width: 116ch; height: 44em;">
+<!ENTITY prefWindowMac.size "width: 65em; height: 41em;">
+<!ENTITY prefWindowWin.size "width: 137ch; height: 43em;">
 <!ENTITY categoryHeader "Categoría">
 <!ENTITY appear.label "Apariencia">
 <!ENTITY content.label "Contenido">

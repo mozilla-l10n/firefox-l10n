@@ -8,3 +8,5 @@
 <!ENTITY actionColumn2.label "Acción">
 <!ENTITY actionColumn2.accesskey "c">
 <!ENTITY search.placeholder "Buscar en los tipos y acciones">
+<!ENTITY useAppChooser.label "Usar selector de aplicaciones nativo cuando esté disponible">
+<!ENTITY useAppChooser.accesskey "U">
