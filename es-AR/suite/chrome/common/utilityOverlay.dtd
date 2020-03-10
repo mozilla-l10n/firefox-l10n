@@ -46,7 +46,22 @@
 <!ENTITY hideThisAppCmd.label             "Ocultar &brandShortName;">
 <!ENTITY hideThisAppCmd.key               "H">
 <!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Ocultar otros">
+<!ENTITY hideOtherAppsCmd.key             "H">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Mostrar todo">
+<!ENTITY openHelpCmdMac.label             "Ayuda de &brandShortName;">
+<!ENTITY openHelpCmdMac.accesskey         "H">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
 
+<!ENTITY quitApplicationCmd.label         "Salir">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "x">
+<!ENTITY quitApplicationCmdMac.label      "Salir de &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdUnix.label     "Salir">
+<!ENTITY quitApplicationCmdUnix.accesskey "Q">
 
 <!ENTITY editMenu.label                   "Editar">
 <!ENTITY editMenu.accesskey               "E">
@@ -55,6 +70,7 @@
 <!ENTITY undoCmd.accesskey                "D">
 <!ENTITY redoCmd.label                    "Rehacer">
 <!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmdMac.key                   "Z">
 <!ENTITY redoCmd.accesskey                "R">
 <!ENTITY cutCmd.label                     "Cortar">
 <!ENTITY cutCmd.key                       "X">
@@ -89,6 +105,9 @@
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "B">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
 <!ENTITY findAgainCmd.key "G">
@@ -99,8 +118,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "e">
 <!ENTITY findTypeTextCmd.label "Buscar texto mientras se escribe">
+<!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeTextCmd.accesskey "x">
 <!ENTITY findTypeLinksCmd.label "Buscar enlaces mientras se escribe">
+<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "e">
 
 <!ENTITY viewMenu.label                   "Ver">
@@ -115,7 +136,14 @@
 
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
+<!ENTITY helpMenuWin.label                "Ayuda">
+<!ENTITY helpMenuWin.accesskey            "H">
+<!ENTITY openHelpCmd.label                "Contenido de la ayuda">
+<!ENTITY openHelpCmd.accesskey            "H">
+<!ENTITY openHelpCmd.key                  "VK_F1">
 
+<!ENTITY helpForIEUsers.label               "Para usuarios de Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey           "I">
 <!ENTITY helpTroubleshootingInfo.label      "Solución de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "S">
 <!ENTITY releaseCmd.label                   "Notas de la versión">
@@ -147,6 +175,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Barra de menú">
+<!ENTITY menubarCmd.accesskey                     "e">
 
 <!ENTITY customizeToolbarContext.label            "Personalizar…">
 <!ENTITY customizeToolbarContext.accesskey        "P">
