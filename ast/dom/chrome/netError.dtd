@@ -14,22 +14,19 @@
 <!ENTITY deniedPortAccess.longDesc "<p>La direición solicitada especificaba un puertu (por exemplu, <q>softastur.org:80</q> pal puertu 80 en softastur.org) que davezu tien otru propósitu <em>distintu</em> al de restolar la web. El restolador encaboxó la solicitú pa la to proteición y seguranza.</p>">
 
 <!ENTITY dnsNotFound.title "Nun s'alcontró la direición">
+<!ENTITY dnsNotFound.longDesc "<p>El restolador nun pudo alcontrar la direición apurrida.</p><ul><li>¿Tuviesti dalgún fallu mentanto teclexabes el dominiu? (por exemplu, <q><strong>ww</strong>.softastur.org</q> en cuentes de <q><strong>www</strong>.softastur.org</q>)</li><li>¿De xuru qu'esti dominiu esiste? El so rexistru pudo caducar.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón a la rede y los axustes a los sirividores DNS.</li><li>¿L'ordenador ta protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
-<!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se renomase, desaniciase o camudase'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu pal elementu solicitáu?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>¿Pue ser que l'elementu se renomare, desaniciare o moviere?</li><li>¿La direición tien dalguna falta u otru fallu tipográficu?</li><li>¿Tienes abondos permisos p'acceder al elementu solicitáu?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Ñegóse l'accesu al ficheru">
-<!ENTITY fileAccessDenied.longDesc "
-<ul>
-  <li>Quiciabes tea desaniciáu, movíu o que los permisos del ficheru tean evitando l'accesu.</li>
-</ul>
-">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Seique se desaniciare, moviere o los permisos del ficheru eviten l'accesu a elli.</li></ul>">
 
-<!ENTITY generic.title "Nun pudo completase la solicitú">
-<!ENTITY generic.longDesc "<p>Anguaño nun hai información adicional disponible pa esti problema o fallu.</p>">
+<!ENTITY generic.title "Nun pue completase la solicitú">
+<!ENTITY generic.longDesc "<p>Anguaño nun hai más información disponible tocante a esti problema o fallu.</p>">
 
 <!ENTITY malformedURI.title "La direición nun ye válida">
-<!ENTITY malformedURI.longDesc "<p>La direición indicada nun ta nún formatu reconocíu. Por favor, comprueba fallos na barra de direiciones y vuelvi a intentalo.</p>">
+<!ENTITY malformedURI.longDesc "<p>La direición apurrida nun ta nun formatu reconocíu. Comprueba los fallos na barra de direiciones y volvi a tentalo, por favor.</p>">
 
 <!ENTITY netInterrupt.title "Tresferencia de datos encaboxada">
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse con ésitu pero interrumpióse la conexón entrín se tresfería información.  Volvi tentalo, por favor.</p><ul><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón de rede del ordenador.</li><li>¿Entá tienes problemes? Consulta col to alministrador o fornidor de rede pa más asistencia.</li></ul>">
