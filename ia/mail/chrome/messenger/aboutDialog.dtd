@@ -37,7 +37,7 @@
 <!ENTITY community.creditsLink      "communitate mundial">
 <!ENTITY community.end3             " qui travalia unite pro mantener le Web aperite, public e accessibile a totes.">
 
-<!ENTITY helpus.start               "Vole vos adjutar? ">
+<!ENTITY helpus.start               "Vole adjutar?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Face un donation">
 <!ENTITY helpus.middle              " o ">
