@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY customizeCmd.label "自訂">
+<!ENTITY customizeCmd.accesskey "t">
+
 <!ENTITY viewMenu.label          "檢視">
 <!ENTITY viewMenu.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "工具列">
@@ -56,4 +59,3 @@
 
 <!ENTITY quitApplicationCmdMac.label  "離開 &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "Q">
-
