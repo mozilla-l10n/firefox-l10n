@@ -22,6 +22,8 @@ certificate-viewer-country = Lân
 certificate-viewer-curve = Kromme
 certificate-viewer-distribution-point = Distribúsjepunt
 certificate-viewer-dns-name = DNS-namme
+certificate-viewer-ip-address = IP-adres
+certificate-viewer-other-name = Oare namme
 certificate-viewer-exponent = Eksponint
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Kaaiútwikselingsgroep
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Doelen
 certificate-viewer-qualifier = Kwalifikaasje
 certificate-viewer-qualifiers = Kwalifikaasjes
 certificate-viewer-required = Fereaske
+certificate-viewer-unsupported = &lt;net stipe&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Steat/provinsje fan fêstiging
 certificate-viewer-state-province = Steat/provinsje
