@@ -8,6 +8,10 @@
 <!ENTITY usingWheelAndAlt.label "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label "&shiftKey.label;">
+<!ENTITY usingWheelAndAlt.label2 "Alt">
+<!ENTITY usingWheelAndOption.label "Opción">
+<!ENTITY usingWheelAndCtrl.label2 "Ctrl">
+<!ENTITY usingWheelAndShft.label2 "Mayús">
 <!ENTITY mouseWheelGroup.label "Desplazamiento vertical">
 <!ENTITY mouseWheelHorizGroup.label "Desplazamiento horizontal">
 <!ENTITY sameAsVertical.label "La misma que la del desplazamiento vertical">

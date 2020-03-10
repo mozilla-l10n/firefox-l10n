@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY minimizeWindowCmd.label "Minimizar">
+<!ENTITY minimizeWindowCmd.key "M">
+<!ENTITY zoomWindowCmd.label "Tamaño">
 <!ENTITY navigatorCmd.label "Navegador">
 <!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
 <!ENTITY editorCmd.label "Composer">
-<!ENTITY editorCmd.accesskey "c">
+<!ENTITY editorCmd.accesskey "C">
 <!ENTITY editorCmd.commandkey "4">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">

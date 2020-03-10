@@ -48,6 +48,7 @@
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "Nombre mostrado">
 <!ENTITY displayNameCmd.accesskey "d">
+<!ENTITY toggleDirectoryPaneCmd.key "S">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportar…">
