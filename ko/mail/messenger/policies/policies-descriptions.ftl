@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = WebExtensions이 chrome.storage.managed를 통해 액세스할 수 있는 정책을 설정합니다.
+policy-AppAutoUpdate = 응용 프로그램 자동 업데이트를 사용하거나 사용하지 않게 합니다.
 policy-AppUpdateURL = 앱 업데이트를 위한 맞춤 URL을 설정합니다.
 policy-Authentication = 지원하는 웹 사이트를 위하여 통합 인증을 설정합니다.
 policy-BlockAboutAddons = 애드온 관리자 (about:addons) 접속을 차단합니다.
