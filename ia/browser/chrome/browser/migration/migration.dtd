@@ -40,7 +40,7 @@
 
 <!ENTITY importSource.title             "Importar parametros e datos">
 <!ENTITY importItems.title              "Elementos a importar">
-<!ENTITY importItems.label              "Eliger qual files importar:">
+<!ENTITY importItems.label              "Selige le datos a importar:">
 
 <!ENTITY migrating.title                "Importante…">
 <!ENTITY migrating.label                "Le importation del elementos sequente es in curso…">
