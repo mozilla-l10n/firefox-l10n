@@ -131,6 +131,7 @@ cfr-whatsnew-searchbar-title = Pisajće mjenje a namakajće wjace z adresowym po
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Wobstarajće sej sydła, kotrež najhusćišo wužiwaće, z jednym kliknjenjom. Namakajće wěcy spěšnišo z wuslědkami z { $searchEngineName } a ze swojeje přehladowanskeje historije.
 cfr-whatsnew-searchbar-body-generic = Wobstarajće sej sydła, kotrež najhusćišo wužiwaće, z jednym kliknjenjom. Namakajće wěcy spěšnišo z pytanskimi wuslědkami z  swojeje přehladowanskeje historije.
+cfr-whatsnew-searchbar-body-topsites = Wubjerće nětko prosće adresowe polo a  kašćik z wotkazami na waše najlubše sydła so wočini.
 cfr-whatsnew-searchbar-icon-alt-text = Lupowy symbol
 
 ## Picture-in-Picture
