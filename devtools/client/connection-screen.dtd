@@ -17,9 +17,9 @@
 <!ENTITY availableTabs "사용 가능한 원격 탭:">
 <!ENTITY availableProcesses "사용 가능한 원격 프로세스:">
 <!ENTITY connectionError "오류:">
-<!ENTITY errorTimeout "오류: 연결 시간이 지났습니다.">
-<!ENTITY errorRefused "오류: 연결이 거절되었습니다.">
-<!ENTITY errorUnexpected "알 수 없는 오류입니다.">
+<!ENTITY errorTimeout "오류: 연결 시간이 초과되었습니다.">
+<!ENTITY errorRefused "오류: 연결이 거부되었습니다.">
+<!ENTITY errorUnexpected "알 수 없는 오류.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
