@@ -106,6 +106,8 @@
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "I">
 <!ENTITY findAgainCmd.label "Encontrar novamente">
 <!ENTITY findAgainCmd.key "G">
@@ -116,8 +118,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findTypeTextCmd.label "Localizar texto ao digitar">
+<!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeTextCmd.accesskey "g">
 <!ENTITY findTypeLinksCmd.label "Localizar links ao digitar">
+<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label                   "Exibir">
@@ -132,7 +136,14 @@
 
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
+<!ENTITY helpMenuWin.label                "Ajuda">
+<!ENTITY helpMenuWin.accesskey            "A">
+<!ENTITY openHelpCmd.label                "Tópicos de ajuda">
+<!ENTITY openHelpCmd.accesskey            "T">
+<!ENTITY openHelpCmd.key                  "VK_F1">
 
+<!ENTITY helpForIEUsers.label               "Para usuários do Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey           "I">
 <!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
 <!ENTITY releaseCmd.label                   "Notas de lançamento">
@@ -164,6 +175,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Barra de menu">
+<!ENTITY menubarCmd.accesskey                     "e">
 
 <!ENTITY customizeToolbarContext.label            "Personalizar…">
 <!ENTITY customizeToolbarContext.accesskey        "P">
