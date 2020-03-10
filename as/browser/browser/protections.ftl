@@ -22,6 +22,17 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name }-এ ব্যক্তিগত উইণ্ড'সমূহতো ট্রেকাৰ অৱৰোধ কৰাটো অব্যাহত ৰাখে কিন্তু কি অৱৰোধ কৰা হৈছিল তাৰে ৰেকৰ্ড নাৰাখে।
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = এই সপ্তাহত { -brand-short-name }-এ অৱৰোধ কৰা ট্রেকাৰৰ সংখ্যা
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = সুৰক্ষাৰ স্তৰ <b>মানক</b>লৈ ছেট কৰা আছে
+    .title = গোপনীয়তা ছেটিংছলৈ যাওঁক
+protection-report-header-details-strict = সুৰক্ষাৰ স্তৰ <b>কঠোৰ</b>লৈ ছেট কৰা আছে
+    .title = গোপনীয়তা ছেটিংছলৈ যাওঁক
+protection-report-page-title = গোপনীয়তা সুৰক্ষা
+protection-report-content-title = গোপনীয়তা সুৰক্ষা
+etp-card-title = বৰ্ধিত ট্ৰেকিং সুৰক্ষা
+full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>-ৰ বিষয়ে সম্পূৰ্ণ প্ৰতিবেদন চাওক
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -30,6 +41,13 @@ graph-week-summary-private-window = এই সপ্তাহত { -brand-short-
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = ছচিয়েল মিডিয়া ট্রেকাৰ
+    .aria-label =
+        { $count ->
+            [one] { $count }টা ছচিয়েল মিডিয়া ট্রেকাৰ ({ $percentage }%)
+           *[other] { $count }টা ছচিয়েল মিডিয়া ট্রেকাৰ ({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = ট্ৰেকিং সমল
     .aria-label =
