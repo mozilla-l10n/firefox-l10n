@@ -28,25 +28,25 @@
 <!ENTITY malformedURI.title "La direición nun ye válida">
 <!ENTITY malformedURI.longDesc "<p>La direición apurrida nun ta nun formatu reconocíu. Comprueba los fallos na barra de direiciones y volvi a tentalo, por favor.</p>">
 
-<!ENTITY netInterrupt.title "Tresferencia de datos encaboxada">
-<!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse con ésitu pero interrumpióse la conexón entrín se tresfería información.  Volvi tentalo, por favor.</p><ul><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón de rede del ordenador.</li><li>¿Entá tienes problemes? Consulta col to alministrador o fornidor de rede pa más asistencia.</li></ul>">
+<!ENTITY netInterrupt.title "Torgóse la tresferencia de datos">
+<!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse con ésitu pero interrumpióse la conexón mentanto se tresfería la información.  Volvi tentalo, por favor.</p><ul><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿Entá tienes problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
 
-<!ENTITY notCached.title "Documentu caducáu">
-<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta na caché del restolador.</p><ul><li>Como midida de seguranza, el restolador nun va volver a solicitar documentos sensibles.</li><li>Primi de nueves pa volver a solicitar el documentu dende'l sitiu web.</li></ul>">
+<!ENTITY notCached.title "Caducó'l documentu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del restolador.</p><ul><li>Como midida de seguranza, el restolador nun va volver solicitar automáticamente documentos sensibles.</li><li>Calca Retentar pa solicitar de nueves el documentu del sitiu web.</li></ul>">
 
-<!ENTITY netOffline.title "Mou ensin conexón">
-<!ENTITY netOffline.longDesc2 "<p>El restolador web ta en mou ensin conexón y nun puede coneutase al elementu solicitáu.</p><ul><li>¿Ta l'equipu coneutáu a una rede activa?</li><li>Calca &quot;Intentar otra vegada&quot; pa pasar a mou en llinia y recargar la páxina.</li></ul>">
+<!ENTITY netOffline.title "Mou desconeutáu">
+<!ENTITY netOffline.longDesc2 "<p>El restolador ta operando nel mou desconeutáu y nun pue coneutase col elementu solicitáu.</p><ul><li>¿L'ordenador ta coneutáu a una rede activa?</li><li>Primi «Retentar» pa cambiar al mou coneutáu y recargar la páxina.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Fallu de codificación de conteníu">
-<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque usa una forma non válida o non almitía de compresión.</p><ul><li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li></ul>">
+<!ENTITY contentEncodingError.title "Fallu de la codificación del conteníu">
+<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque usa una forma de compresión que nun ye válida o nun se sofita.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Tipu de ficheru non seguru">
+<!ENTITY unsafeContentType.title "La triba del ficheru ye insegura">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Por favor, contauta colos propietarios del sitiu web pa informa-yos d'esti problema.</li>
+  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li>
 </ul>">
 
-<!ENTITY netReset.title "Conexón interrumpida">
-<!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse entrín se negociaba una conexón. Volvi tentalo, por favor.</p>">
+<!ENTITY netReset.title "Interrumpióse la conexón">
+<!ENTITY netReset.longDesc "<p>Interrumpióse l'enllaz a la rede mentanto se negociaba una conexón. Volvi tentalo, por favor.</p>">
 
 <!ENTITY netTimeout.title "Escosó'l tiempu d'espera">
 <!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando'l sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un firewall? Una configuración incorreuta pue interferir col restolar.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet p'asistencia téunica.</li></ul>">
