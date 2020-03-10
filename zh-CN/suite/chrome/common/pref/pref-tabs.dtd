@@ -22,6 +22,15 @@
 
 <!ENTITY openTabs.label "打开一个标签页而非窗口，当：">
 
+<!ENTITY middleClick.label "在网页链接上中键单击，Ctrl+单击或Ctrl+Enter">
+<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClickMac.label "在链接上单击鼠标中键，或 &#8984;+单击 或 &#8984;+Return">
+<!ENTITY middleClickMac.accesskey "M">
+<!ENTITY urlbar.label "在地址栏中按下Ctrl+回车">
+<!ENTITY urlbar.accesskey "L">
+<!ENTITY urlbarMac.label "在地址栏中按 &#8984;+Return">
+<!ENTITY urlbarMac.accesskey "L">
+
 <!ENTITY openManagers.label "打开在新标签页而非独立窗口">
 <!ENTITY openDataManager.label "数据管理">
 <!ENTITY openDataManager.accesskey "D">
