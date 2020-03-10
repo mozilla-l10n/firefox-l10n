@@ -22,6 +22,8 @@ certificate-viewer-country = Pais
 certificate-viewer-curve = Curva
 certificate-viewer-distribution-point = Puncto de distribution
 certificate-viewer-dns-name = Nomine de DNS
+certificate-viewer-ip-address = Adresse IP
+certificate-viewer-other-name = Altere nomine
 certificate-viewer-exponent = Exponente
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Gruppo de excambio de clave
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Propositos
 certificate-viewer-qualifier = Qualificator
 certificate-viewer-qualifiers = Qualificatores
 certificate-viewer-required = Necessari
+certificate-viewer-unsupported = &lt;non supportate&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Stato/provincia constitutional
 certificate-viewer-state-province = Stato/provincia
