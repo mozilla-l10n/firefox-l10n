@@ -8,13 +8,12 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Fallu al coneutar">
-<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paeza válidu, el restolador nun foi a afitar una conExón.</p><ul><li>¿Pue ser que'l sitiu nun tea disponible temporalmente? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador o la rede tán protexíos por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paeza válidu, el restolador nun foi a afitar una conexón.</p><ul><li>¿Pue ser que'l sitiu nun tea disponible temporalmente? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador o la rede tán protexíos por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Torgóse un puertu por seguranza">
 <!ENTITY deniedPortAccess.longDesc "<p>La direición solicitada especificaba un puertu (por exemplu, <q>softastur.org:80</q> pal puertu 80 en softastur.org) que davezu tien otru propósitu <em>distintu</em> al de restolar la web. El restolador encaboxó la solicitú pa la to proteición y seguranza.</p>">
 
 <!ENTITY dnsNotFound.title "Nun s'alcontró la direición">
-<!ENTITY dnsNotFound.longDesc "<p>El restolador nun pudo alcontrar el sirvidor agospiador pa la direción apurrida.</p><ul><li>¿Tuviesti un fallu al teclexar el dominiu? (exem: <q><strong>ww</strong>.mozilla.org</q> en cuentes de <q><strong>www</strong>.mozilla.org</q>)</li><li>¿Tas seguru qu'esiste esti dominiu?  Quiciabes caducare'l so rexistru.</li><li>¿Nun yes a restolar per otros sitios?  Comprueba la to conexón de rede y axustes DNS.</li><li>¿Ta la to rede protexida por un tornafuéu o proxy?  Los axustes incorreutos puen interferir nel restolar web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Ye dable que l'elementu se renomase, desaniciase o camudase'l so camín?</li><li>¿Hai dalgún fallu d'ortografía, mayúscules o cualesquier otru fallu al escribir la direición?</li><li>¿Tienes privilexos d'accesu pal elementu solicitáu?</li></ul>">
