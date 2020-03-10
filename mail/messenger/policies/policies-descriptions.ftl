@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Beliedsrigels ynstelle dy't troch WebExtensions tagong hawwe fia chrome.storage.managed.
+policy-AppAutoUpdate = Automatyske applikaasjefernijing yn- of útskeakelje.
 policy-AppUpdateURL = Oanpaste app-fernijings-URL ynstelle.
 policy-Authentication = Yntegrearre ferifikaasje konfigurearje foar websiden dy't it stypje.
 policy-BlockAboutAddons = Tagong ta de add-ons-behearder (about:addons) blokkearje.

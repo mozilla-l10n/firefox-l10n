@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Foarkarren">
 <!ENTITY preferencesCmdUnix.accesskey     "k">
 
+<!ENTITY customizeCmd.label "Oanpasse">
+<!ENTITY customizeCmd.accesskey "p">
+
 <!ENTITY viewMenu.label          "Byld">
 <!ENTITY viewMenu.accesskey        "L">
 <!ENTITY viewToolbarsMenu.label        "Arkbalken">
