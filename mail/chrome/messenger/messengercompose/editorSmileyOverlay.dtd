@@ -8,7 +8,7 @@
 <!ENTITY smiley1Cmd.accesskey "S">
 <!ENTITY smiley1Cmd.tooltip "Insertar un emoticono">
 <!ENTITY smiley2Cmd.label "Frunciendo el ceño">
-<!ENTITY smiley2Cmd.accesskey "T">
+<!ENTITY smiley2Cmd.accesskey "ñ">
 <!ENTITY smiley2Cmd.tooltip "Insertar una cara con ceño fruncido">
 <!ENTITY smiley3Cmd.label "Guiño">
 <!ENTITY smiley3Cmd.accesskey "u">
