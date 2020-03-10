@@ -22,6 +22,12 @@
 
 <!ENTITY openTabs.label "在下列情形開啟至分頁而非新視窗:">
 
+<!ENTITY middleClick.label "在網頁的鏈結上按中鍵、壓住 Ctrl 按左鍵，或是 Ctrl+Enter">
+<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClickMac.accesskey "M">
+<!ENTITY urlbar.accesskey "L">
+<!ENTITY urlbarMac.accesskey "L">
+
 <!ENTITY openManagers.label "在新分頁，而不是獨立視窗中開啟">
 <!ENTITY openDataManager.label "資料管理員">
 <!ENTITY openDataManager.accesskey "D">
