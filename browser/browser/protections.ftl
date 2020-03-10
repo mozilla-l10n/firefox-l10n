@@ -9,6 +9,19 @@ graph-week-summary =
         [one] যোৱাসপ্তাহত { -brand-short-name }-এ { $count }টা ট্রেকাৰ অৱৰোধ কৰিছে
        *[other] যোৱাসপ্তাহত { -brand-short-name }-এ { $count }টা ট্রেকাৰ অৱৰোধ কৰিছে
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }ৰ পৰা এতিয়ালৈ <b>{ $count }টা</b> ট্রেকাৰ অৱৰোধ কৰা হৈছে
+       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }ৰ পৰা এতিয়ালৈ <b>{ $count }টা</b> ট্রেকাৰ অৱৰোধ কৰা হৈছে
+    }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name }-এ ব্যক্তিগত উইণ্ড'সমূহতো ট্রেকাৰ অৱৰোধ কৰাটো অব্যাহত ৰাখে কিন্তু কি অৱৰোধ কৰা হৈছিল তাৰে ৰেকৰ্ড নাৰাখে।
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = এই সপ্তাহত { -brand-short-name }-এ অৱৰোধ কৰা ট্রেকাৰৰ সংখ্যা
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
