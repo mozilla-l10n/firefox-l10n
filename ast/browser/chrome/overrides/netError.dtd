@@ -5,10 +5,12 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problema cargando la páxina">
-<!ENTITY retry.label "Tentar de nueves">
-<!ENTITY returnToPreviousPage.label "Atrás">
-<!ENTITY advanced.label "Avanzao">
+<!ENTITY loadError.label "Hebo un problema al cargar la páxina">
+<!ENTITY retry.label "Retentar">
+<!ENTITY returnToPreviousPage.label "Dir p'atrás">
+<!ENTITY returnToPreviousPage1.label "Dir p'atrás (aconséyase)">
+<!ENTITY advanced2.label "Avanzao…">
+<!ENTITY viewCertificate.label "Ver el certificáu">
 
 <!-- Specific error messages -->
 
@@ -20,7 +22,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "Nun s'alcontró'l sirvidor">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Umm... Tenemos problemes p'alcontrar el sitiu.">
+<!ENTITY dnsNotFound.title1 "Eh… Tenemos problemes p'alcontrar el sitiu.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Si la direición ye correuta, equí tienes tres coses que pues probar:</strong>
 <ul>
@@ -146,11 +148,14 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "La to conexón nun ye segura">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "El dueñu de <span class='hostname'/> nun configuró afayadizamente'l sitiu web.  Pa protexer la to información de robu, &brandShortName; nun se coneutó a esti sitiu web.">
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -165,11 +170,10 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloquiáu pola política de seguranza de conteníu">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó qu'esta páxina cargue d'esti mou porque tien una política de seguranza de conteníu que nun lo permite.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nun pue amosase la páxina que tas tentando de ver porque deteutóse un fallu na tresmisión de datos.</p><ul><li>Contauta colos dueños del sitiu pa informa-yos d'esti problema, por favor.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Amestar esceición…">
 
 <!ENTITY errorReporting.automatic2 "Informa de fallos como esti p'ayudar a Mozilla a identificar y bloquiar sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Deprendi más…">
@@ -182,15 +186,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-
-<!ENTITY certerror.pagetitle1  "Conexón insegura">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Esti sitiu usa HTTP
-Strict Transport Security (HSTS) pa especificar que &brandShortName; namái se
-coneuta a elli de mou seguru. Como resultáu, nun ye posible amestar una esceición pa
-esti certificáu.">
 <!ENTITY certerror.copyToClipboard.label "Copiar testu al cartafueyu">
 
 <!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
@@ -198,5 +193,10 @@ esti certificáu.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría, de mou cenciellu, revelar información personal que pensabes que taba segura. L'alministrador del sitiu web precisará iguar el sirvidor enantes que pueas visitalu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+
+
+
 <!ENTITY prefReset.longDesc "Paez que los tos axustes de seguranza de rede puen tar causando esto. ¿Quies reafitalos?">
 <!ENTITY prefReset.label "Reafitar axustes">
+
+
