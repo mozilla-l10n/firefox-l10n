@@ -22,6 +22,8 @@ certificate-viewer-country = Gwlad
 certificate-viewer-curve = Cromlin
 certificate-viewer-distribution-point = Pwynt Dosbarthu
 certificate-viewer-dns-name = Enw DNS
+certificate-viewer-ip-address = Cyfeiriad IP
+certificate-viewer-other-name = Enw Arall
 certificate-viewer-exponent = Esbonydd
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grŵp Cyfnewid Allwedd
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Pwrpasau
 certificate-viewer-qualifier = Cymhwyster
 certificate-viewer-qualifiers = Cymhwysterau
 certificate-viewer-required = Gofynnol
+certificate-viewer-unsupported = &lt;heb ei gynnal&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Corfforedig Talaith/Ardal
 certificate-viewer-state-province = Talaith/Ardal
