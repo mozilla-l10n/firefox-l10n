@@ -56,6 +56,11 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters indsamler indstillinger fra din browser og din computer for at skabe en profil af dig. Ved at bruge dette digitale fingeraftryk kan de spore dig på tværs af forskellige websteder. <a data-l10n-name="learn-more-link">Læs mere</a>
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri. <a data-l10n-name="learn-more-link">Læs mere</a>
+
+mobile-app-title = Bloker sporing fra reklamer på alle enheder
+mobile-app-card-content = Brug mobil-browseren med indbygget beskyttelse mod reklame-sporing.
+mobile-app-links = { -brand-product-name }-browser til <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = Glem aldrig en adgangskode igen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gemmer dine adgangskoder i din browser på en sikker måde.
@@ -63,6 +68,11 @@ lockwise-header-content-logged-in = Gem og synkroniser dine adgangskoder på all
 protection-report-view-logins-button = Vis logins
     .title = Gå til gemte logins
 lockwise-no-logins-content = Hent <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app'en for at tage dine adgangskoder med overalt.
+
+lockwise-mobile-app-title = Tag dine adgangskoder med overalt
+lockwise-no-logins-card-content = Brug adgangskoder gemt i { -brand-short-name } på enhver enhed.
+lockwise-app-links = { -lockwise-brand-name } til <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

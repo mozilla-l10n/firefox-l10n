@@ -29,6 +29,8 @@ menu =
   .title = Åbn menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importer adgangskoder…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importer fra en anden browser…
 menu-menuitem-preferences =
   { PLATFORM() ->
       [windows] Indstillinger

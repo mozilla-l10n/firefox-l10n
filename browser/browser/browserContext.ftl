@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Bogmærk denne side
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = Bogmærk denne side
     .accesskey = m

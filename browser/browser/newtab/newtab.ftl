@@ -89,12 +89,6 @@ newtab-menu-show-privacy-info = Vores sponsorer og dit privatliv
 
 newtab-privacy-modal-button-done = Færdig
 newtab-privacy-modal-header = Du har ret til et privatliv
-newtab-privacy-modal-paragraph =
-    Udover at servere fængslende historier viser vi dig også relevant
-    og grundigt undersøgt indhold fra udvalgte sponsorer. Du kan være 
-    sikker på, at dine data aldrig kommer videre end den version af 
-    { -brand-product-name }, du har på din computer — Vi ser ikke dine data, 
-    og det gør vores sponsorer heller ikke.
 newtab-privacy-modal-paragraph-2 =
     Udover at servere fængslende historier viser vi dig også relevant
     og grundigt undersøgt indhold fra udvalgte sponsorer. Du kan være 
