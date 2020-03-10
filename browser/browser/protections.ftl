@@ -32,6 +32,7 @@ protection-report-header-details-strict = সুৰক্ষাৰ স্তৰ 
 protection-report-page-title = গোপনীয়তা সুৰক্ষা
 protection-report-content-title = গোপনীয়তা সুৰক্ষা
 etp-card-title = বৰ্ধিত ট্ৰেকিং সুৰক্ষা
+etp-card-content = আপোনাৰ ব্ৰাউজিং অভ্যাস আৰু আগ্ৰহৰ বিষয়ে তথ্য সংগ্ৰহ কৰিবলৈ ট্রেকাৰবোৰে অনলাইন আপোনাক অনুসৰণ কৰে। { -brand-short-name }-এ ইয়াৰে বহুতো ট্রেকাৰ আৰু অন্য দূষিত স্ক্ৰিপ্ট অৱৰোধ কৰে।
 full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>-ৰ বিষয়ে সম্পূৰ্ণ প্ৰতিবেদন চাওক
 
 ## The title attribute is used to display the type of protection.
