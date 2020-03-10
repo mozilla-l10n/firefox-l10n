@@ -56,10 +56,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Gå">
 <!ENTITY goMenu.accesskey "G">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Hjem">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY historyCmd.label "Historikk">
 <!ENTITY historyCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Nylig lukkede faner">
 <!ENTITY recentTabs.accesskey "N">
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Slett private data …">
 <!ENTITY clearPrivateDataCmd.accesskey "S">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">

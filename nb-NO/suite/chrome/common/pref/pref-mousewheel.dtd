@@ -10,6 +10,8 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY usingWheelAndAlt.label2         "Alt">
 <!ENTITY mouseWheelGroup.label           "Vertikal rulling">
 <!ENTITY mouseWheelHorizGroup.label      "Horisontal rulling">
 <!ENTITY sameAsVertical.label            "Samme som vertikal rulling">
