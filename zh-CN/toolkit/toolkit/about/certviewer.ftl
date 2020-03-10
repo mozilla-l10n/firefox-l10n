@@ -22,6 +22,8 @@ certificate-viewer-country = 国家/地区
 certificate-viewer-curve = 曲线
 certificate-viewer-distribution-point = 分发点
 certificate-viewer-dns-name = DNS 名称
+certificate-viewer-ip-address = IP 地址
+certificate-viewer-other-name = 其他名称
 certificate-viewer-exponent = 指数
 certificate-viewer-id = 标识符
 certificate-viewer-key-exchange-group = 密钥交换组
@@ -44,6 +46,7 @@ certificate-viewer-purposes = 用途
 certificate-viewer-qualifier = 限定符
 certificate-viewer-qualifiers = 限定符
 certificate-viewer-required = 必要
+certificate-viewer-unsupported = &lt;不支持&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = 注册州/省
 certificate-viewer-state-province = 州/省
