@@ -33,7 +33,7 @@ menu-menuitem-preferences =
         [windows] Optiones
        *[other] Preferentias
     }
-about-logins-menu-menuitem-help = Adjutar
+about-logins-menu-menuitem-help = Adjuta
 menu-menuitem-android-app = { -lockwise-brand-short-name } pro Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pro iPhone e iPad
 
