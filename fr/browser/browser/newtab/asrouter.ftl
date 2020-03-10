@@ -125,6 +125,7 @@ cfr-whatsnew-searchbar-title = Tapez moins, trouvez plus avec la barre d’adres
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Accédez à vos sites les plus visités en un seul clic dans la barre d’adresse. Trouvez les choses plus rapidement avec les résultats de { $searchEngineName } et votre historique de navigation.
 cfr-whatsnew-searchbar-body-generic = Accédez à vos sites les plus visités en un seul clic dans la barre d’adresse. Trouvez les choses plus rapidement avec les résultats de recherche de votre historique de navigation.
+cfr-whatsnew-searchbar-body-topsites = Désormais, sélectionnez simplement la barre d’adresse et un cadre s’agrandira pour vous présenter des liens vers vos sites les plus visités.
 cfr-whatsnew-searchbar-icon-alt-text = Icône de loupe
 
 ## Picture-in-Picture
