@@ -49,7 +49,7 @@
 <!ENTITY netReset.longDesc "<p>Interrumpióse l'enllaz a la rede mentanto se negociaba una conexón. Volvi tentalo, por favor.</p>">
 
 <!ENTITY netTimeout.title "Escosó'l tiempu d'espera de la rede">
-<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una solicitú de conexón y el restolador dexó d'esperar por una rempuesta.</p><ul><li>¿Pue ser que\'l sirvidor tea sufriendo una demanda alta o una cayida temporal? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador ta protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li><li>¿Entá tienes problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una solicitú de conexón y el restolador dexó d'esperar por una rempuesta.</p><ul><li>¿Pue ser que'l sirvidor tea sufriendo una demanda alta o una cayida temporal? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador ta protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li><li>¿Entá tienes problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Desconozse'l protocolu">
 <!ENTITY unknownProtocolFound.longDesc "<p>La direición especifica un protocolu (por exemplu, <q>wxyz://</q>) que'l restolador nun reconoz, polo que nun se pue coneutar afayadizamente col sitiu.</p><ul><li>¿Tas tentando d'acceder a servicios multimedia o que nun son de testu? Comprueba'l sitiu pa ver más requirimientos.</li><li>Dalgunos protocolos riquen software o plugins de terceros enantes de que'l restolador puea reconocelos.</li></ul>">
@@ -89,11 +89,14 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas tentando ver nun pue amosase porque deteutóse un fallu na tresmisión de los datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti fallu, por favor.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "La to conexón nun ye segura">
+<!ENTITY inadequateSecurityError.title "La conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar cenciellamente información que cuidabes que taba segura. L'alministrador del sitiu web precisará iguar primero'l sirvidor enantes que pueas visitalu.</p><p>Códigu de fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar cenciellamente información que cuidabes que taba segura. L'alministrador del sitiu web va precisar iguar primero'l sirvidor enantes de que pueas visitalu.</p><p>Códigu del fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Bloquióse la páxina">
 
+<!ENTITY networkProtocolError.title "Fallu del protocolu de rede">
+<!ENTITY networkProtocolError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque deteutóse un fallu nel protocolu de rede.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
