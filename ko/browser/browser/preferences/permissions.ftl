@@ -70,7 +70,7 @@ permissions-exceptions-content-blocking-desc = 이 웹 사이트에서 콘텐츠
 permissions-exceptions-etp-window =
     .title = 향상된 추적 방지 기능에 대한 예외
     .style = { permissions-window.style }
-permissions-exceptions-etp-desc = 이 웹 사이트에서 보호 기능을 껐습니다.
+permissions-exceptions-etp-desc = 다음 웹 사이트에서 보호 기능을 껐습니다.
 
 ## Exceptions - Cookies
 
