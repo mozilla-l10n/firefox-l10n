@@ -63,6 +63,7 @@
 <!ENTITY historyCmd.label "Histórico">
 <!ENTITY historyCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
 <!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
      than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
@@ -150,3 +151,5 @@
 <!ENTITY clearPrivateDataCmd.label "Limpar dados privativos…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
 
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
