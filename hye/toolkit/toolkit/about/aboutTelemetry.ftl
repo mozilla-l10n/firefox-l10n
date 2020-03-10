@@ -37,3 +37,33 @@ about-telemetry-slow-sql-section = Ցուցադրել SQL-ի ձեւթղթերը
 about-telemetry-addon-details-section = Հաւելման մանրամասները
 about-telemetry-captured-stacks-section = Կորզուած շեղջեր
 about-telemetry-late-writes-section = Յետագայ գրառումներ
+about-telemetry-raw = JSON տող
+about-telemetry-full-sql-warning = ՀԻՇԷՔ. Միացուած է SQL-ի վրիպազերծման դանդաղ եղանակը։ Ստորեւ կարող են ցուցադրուել SQL ամբողջական տողեր, բայց դրանք չեն հաստատուի հեռուստաչափութիւնում։
+about-telemetry-fetch-stack-symbols = Ընտրել գործառոյթի անունները՝ շեղջերի համար
+about-telemetry-hide-stack-symbols = Ցուցադրել անմշակ շեղջի տուեալները
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] թողարկման տուեալ
+       *[prerelease] նախաթողարկման տուեալ
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] միացուած
+       *[disabled] անջատուած
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } չափումներ, միջին = { $prettyAverage }, ընդհանուր = { $sum }
+       *[other] { $sampleCount } չափումներ, միջին = { $prettyAverage }, ընդհանուր = { $sum }
+    }
