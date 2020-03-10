@@ -597,7 +597,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = 모바일 기기와 동기화하기 위해서 Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> 또는 <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>를 다운로드 합니다.
+sync-mobile-promo = 모바일 기기와 동기화하기 위해서 <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> 또는 <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> 용 Firefox를 다운로드 하세요.
 
 ## Sync Section - Signed in
 
