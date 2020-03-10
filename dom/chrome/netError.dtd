@@ -67,27 +67,26 @@
 <!ENTITY unknownSocketType.longDesc "<p>El sitiu respondió a la solicitú de rede d'un mou inesperáu y el restolador nun pue siguir.</p>">
 
 <!ENTITY nssFailure2.title "Falló la conexón segura">
-<!ENTITY nssFailure2.longDesc2 "<p>La páxina que tas intentando ver nun pue amosase porque nun pue verificase l'autenticidá de los datos recibíos.</p><ul><li>Contauta colos propietarios del sitiu web pa informa-yos esti problema.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>La páxina que tas tentando de ver nun pue amosase porque nun se pudo verificar l'autenticidá de los datos recibíos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
 
 <!ENTITY nssBadCert.title "Falló la conexón segura">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Esto podría debese a un problema cola configuración del sirvidor, o podría ser daquién intentando facese pasar pol sirvidor.</li>
-<li>Si coneutasti a esti sirvidor con éxitu nel pasáu, el fallu podría ser temporal, y podríes volver facelo más sero.</li>
-</ul>
-">
+        <li>Esto podría ser un problema cola configuración del sirvidor o que daquién tea tentando de suplantate nel sirvidor.</li>
+        <li>Si nel pasáu te coneutesti con ésitu al sirvidor, el fallu quiciabes seya temporal polo que refresca la páxina dempués.</li>
+      </ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
-<!ENTITY securityOverride.warningContent "
-<p>Nun deberíes amestar una esceición si tas usando una conexón a internet na que nun confíes dafechu o si nun tas avezáu a ver una alvertencia pa esti sirvidor.</p>
-<p>Si entá deseyes amestar una esceición pa esti sitiu, pues facelo nos tos axustes de cifráu avanzáu.</p>
-">
+<!ENTITY securityOverride.warningContent "<p>Nun deberíes amestar una esceición si tas usando una conexón a internet na que nun t'enfotes dafechu o si nun tas avezáu a ver una alvertencia pa esti sirvidor.</p>
+<p>Si entá desees amestar una, pues facelo nos axustes de cifráu avanzáu.</p>">
 
-<!ENTITY cspBlocked.title "Bloquiáu por polítiques de seguridá de conteníu">
-<!ENTITY cspBlocked.longDesc "<p>El restolador torgó qu'esta páxina se cargue d'esti mou porque la páxina tien una política de seguridá de conteníu que lo impide.</p>">
+<!ENTITY cspBlocked.title "Bloquióse pola política de seguranza de conteníu">
+<!ENTITY cspBlocked.longDesc "<p>El restolador evitó qu'esta páxina cargare d'esti mou porque esta tien una política de seguranza de conteníu que nun lo permite.</p>">
 
+<!ENTITY xfoBlocked.title "Bloquióse pola política X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>El restolador evitó qu'esta páxina cargare d'esti mou porque esta tien una política X-Frame-Options que nun lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas intentando ver nun pue amosase porque deteutóse un fallu na tresmisión de los datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti fallu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas tentando ver nun pue amosase porque deteutóse un fallu na tresmisión de los datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti fallu, por favor.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
