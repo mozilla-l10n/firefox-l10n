@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Průvodce importem">
+<!ENTITY migrationWizard.title          "Průvodce importem dat z jiného prohlížeče">
 
 <!ENTITY importFrom.label               "Importovat nastavení, záložky, historii, hesla a ostatní údaje z aplikace:">
 <!ENTITY importFromUnix.label           "Importovat předvolby, záložky, historii, hesla a ostatní údaje z aplikace:">
@@ -38,7 +38,7 @@
 
 <!ENTITY noMigrationSources.label       "Nebyl nalezen žádný program, který by obsahoval záložky, historii nebo uložená hesla.">
 
-<!ENTITY importSource.title             "Importování nastavení a údajů">
+<!ENTITY importSource.title             "Import nastavení a údajů">
 <!ENTITY importItems.title              "Importované položky">
 <!ENTITY importItems.label              "Zvolte položky, které chcete importovat:">
 
@@ -51,4 +51,4 @@
 <!ENTITY done.title                     "Import byl dokončen">
 <!ENTITY done.label                     "Následující položky byly úspěšně importovány:">
 
-<!ENTITY closeSourceBrowser.label       "Před pokračováním se prosím ujistěte, že vybraný prohlížeč je zavřený.">
+<!ENTITY closeSourceBrowser.label       "Před pokračováním se prosím ujistěte, že je vybraný prohlížeč zavřený.">
