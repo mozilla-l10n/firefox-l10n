@@ -119,6 +119,10 @@ cfr-whatsnew-lockwise-take-link-text = Awi asnas
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Aru cwiṭ, aff aṭas s ufeggag n tansiwin
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Ddu ɣer ismal i tseqdaceḍ s waṭas s yiwen n usiti deg ufeggag n tansiwin. Aff-d tiɣawsiwin s uɣiwel s igmaḍ seg  { $searchEngineName } akked umazray n tunigin.
+cfr-whatsnew-searchbar-body-generic = Ddu ɣer ismal i tseqdaceḍ s waṭas s yiwen n usiti deg ufeggag n tansiwin. Aff-d tiɣawsiwin s uɣiwel s igmaḍ n unadi seg umazray-ik n tunigin.
 cfr-whatsnew-searchbar-icon-alt-text = Tignit n lemri isimɣuren
 
 ## Picture-in-Picture
