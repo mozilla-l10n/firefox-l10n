@@ -33,6 +33,15 @@ protection-report-page-title = গোপনীয়তা সুৰক্ষা
 protection-report-content-title = গোপনীয়তা সুৰক্ষা
 etp-card-title = বৰ্ধিত ট্ৰেকিং সুৰক্ষা
 etp-card-content = আপোনাৰ ব্ৰাউজিং অভ্যাস আৰু আগ্ৰহৰ বিষয়ে তথ্য সংগ্ৰহ কৰিবলৈ ট্রেকাৰবোৰে অনলাইন আপোনাক অনুসৰণ কৰে। { -brand-short-name }-এ ইয়াৰে বহুতো ট্রেকাৰ আৰু অন্য দূষিত স্ক্ৰিপ্ট অৱৰোধ কৰে।
+protection-report-etp-card-content-custom-not-blocking = বৰ্তমান সকলো সুৰক্ষা বন্ধ হৈ আছে। আপোনাৰ { -brand-short-name } সুৰক্ষা ছেটিংছ পৰিচালনা কৰি কোনোটো কোনোটো ট্রেকাৰ অৱৰোধ কৰিব লাগে বাছি লওঁক।
+protection-report-manage-protections = ছেটিংছ পৰিচালনা কৰক
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = আজি
+social-tab-title = ছচিয়েল মিডিয়া ট্রেকাৰ
+tracker-tab-title = ট্ৰেকিং সমল
+fingerprinter-tab-title = ফিংগাৰপ্ৰিণ্টাৰ
+cryptominer-tab-title = ক্ৰীপ্ট'মাইনাৰ
 full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>-ৰ বিষয়ে সম্পূৰ্ণ প্ৰতিবেদন চাওক
 
 ## The title attribute is used to display the type of protection.
