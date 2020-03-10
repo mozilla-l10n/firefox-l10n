@@ -10,6 +10,11 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY usingWheelAndAlt.label2         "Alt">
+<!ENTITY usingWheelAndOption.label       "Option">
+<!ENTITY usingWheelAndCtrl.label2        "Ctrl">
+<!ENTITY usingWheelAndShft.label2        "Shift">
 <!ENTITY mouseWheelGroup.label           "垂直捲動">
 <!ENTITY mouseWheelHorizGroup.label      "橫向捲動">
 <!ENTITY sameAsVertical.label            "與垂直捲動相同">
@@ -32,4 +37,3 @@
 <!ENTITY reverseDirection.label          "方向反轉">
 <!ENTITY reverseDirection.accesskey      "R">
 <!ENTITY reverseDirectionHoriz.accesskey "e">
-
