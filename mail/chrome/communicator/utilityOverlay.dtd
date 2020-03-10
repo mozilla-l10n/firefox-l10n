@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Préférences">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY customizeCmd.label "Personnaliser">
+<!ENTITY customizeCmd.accesskey "P">
+
 <!ENTITY viewMenu.label          "Affichage">
 <!ENTITY viewMenu.accesskey        "A">
 <!ENTITY viewToolbarsMenu.label        "Barres d’outils">
