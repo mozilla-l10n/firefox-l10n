@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Aseta käytännöt, joita WebExtensionit voivat käyttää chrome.storage.managed-objektin kautta.
+policy-AppAutoUpdate = Ota käyttöön tai poista käytöstä sovelluksen automaattiset päivitykset.
 policy-AppUpdateURL = Aseta omavalintainen sovelluksen päivitysosoite.
 policy-Authentication = Määritä integroitu tunnistautumisen sitä tukeville sivustoille.
 policy-BlockAboutAddons = Estä pääsy lisäosien hallintaan (about:addons).
