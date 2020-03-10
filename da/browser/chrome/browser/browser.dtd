@@ -127,9 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Bekræft din konto">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
-
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gendan">
 <!ENTITY fullScreenClose.tooltip "Luk">
@@ -840,18 +837,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sikker forbindelse">
 <!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
 
-<!ENTITY identity.connectionSecure3 "Forbindelsen er sikker">
-<!ENTITY identity.connectionNotSecure2 "Forbindelsen er usikker">
-<!ENTITY identity.connectionNotSecureSecurityView "Din forbindelse til webstedet er ikke sikker.">
 <!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
 <!ENTITY identity.connectionVerified2 "Du er forbundet på en sikker måde til dette websted, der er ejet af:">
-<!ENTITY identity.connectionVerified3 "Din forbindelse til dette websted er sikker.">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 <!ENTITY identity.extensionPage "Denne side er indlæst fra en udvidelse.">
 <!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 <!ENTITY identity.customRoot "Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.">
-
-<!ENTITY identity.evOwnerLabel2 "Certifikatet er udstedt til:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
@@ -887,7 +878,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tilladelser">
 
-<!ENTITY identity.permissions3 "Tilladelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
 <!ENTITY identity.permissionsPreferences.tooltip "Åbn indstillinger for tilladelser">

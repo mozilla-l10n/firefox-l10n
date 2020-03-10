@@ -11,6 +11,8 @@
 
 policy-3rdparty = Indstil politikker, som WebExtensions kan tilgå via chrome.storage.managed.
 
+policy-AppAutoUpdate = Slå automatisk opdatering af programmet til eller fra.
+
 policy-AppUpdateURL = Indstil tilpasset URL for app-opdateringer
 
 policy-Authentication = Indstil integreret godkendelse for websteder, der understøtter det
@@ -126,8 +128,6 @@ policy-OverrideFirstRunPage = Erstat siden, der vises ved første opstart. Lad p
 policy-PasswordManagerEnabled = Tillad at brugeren kan gemme adgangskoder i Adgangskode-håndteringen.
 
 policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering. Lad politikken være tom, hvis siden efter opdatering skal deaktiveres. 
-
-policy-Permissions = Indstil tilladelser for kamera, mikrofon, position og beskeder.
 
 policy-Permissions2 = Indstil tilladelser for kamera, mikrofon, position, beskeder og automatisk afspilning.
 
