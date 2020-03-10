@@ -56,10 +56,15 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "I">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Página inicial">
 <!ENTITY goHomeCmd.accesskey "i">
 <!ENTITY historyCmd.label "Histórico">
 <!ENTITY historyCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Abas fechadas recentemente">
 <!ENTITY recentTabs.accesskey "C">
@@ -144,3 +149,4 @@
 
 <!ENTITY clearPrivateDataCmd.label "Limpar dados privativos…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
+
