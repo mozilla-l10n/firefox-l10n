@@ -56,10 +56,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "转到">
 <!ENTITY goMenu.accesskey "G">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "主页">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY historyCmd.label "历史">
 <!ENTITY historyCmd.accesskey "s">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "最近关闭的标签页">
 <!ENTITY recentTabs.accesskey "C">
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "清除隐私数据…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
