@@ -121,6 +121,7 @@ cfr-whatsnew-searchbar-title = Použijte adresní řádek - pište méně, najde
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Jediným klepnutím do adresního řádku se dostanete na nejčastěji navštěvované stránky z vaší historie prohlížení, stejně jako rychlé vyhledávání pomocí vyhledávače { $searchEngineName }.
 cfr-whatsnew-searchbar-body-generic = Jediným klepnutím do adresního řádku se dostanete na nejčastěji navštěvované stránky z vaší historie prohlížení.
+cfr-whatsnew-searchbar-body-topsites = Po klepnutí do adresního řádku uvidíte odkazy na své top stránky.
 cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
 ## Picture-in-Picture
