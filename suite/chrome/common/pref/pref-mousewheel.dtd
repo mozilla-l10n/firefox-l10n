@@ -10,6 +10,11 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY usingWheelAndAlt.label2         "Alt">
+<!ENTITY usingWheelAndOption.label       "Opción">
+<!ENTITY usingWheelAndCtrl.label2        "Ctrl">
+<!ENTITY usingWheelAndShft.label2        "May">
 <!ENTITY mouseWheelGroup.label           "Desplazamiento vertical">
 <!ENTITY mouseWheelHorizGroup.label      "Desplazamiento horizontal">
 <!ENTITY sameAsVertical.label            "Igual que el desplazamiento vertical">
@@ -32,4 +37,3 @@
 <!ENTITY reverseDirection.label          "Dirección inversa">
 <!ENTITY reverseDirection.accesskey      "r">
 <!ENTITY reverseDirectionHoriz.accesskey "e">
-

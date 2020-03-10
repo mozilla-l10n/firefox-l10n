@@ -25,6 +25,9 @@
 <!ENTITY newPrivateWindowCmd.label "Ventana privada">
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "e">
+<!ENTITY closeCmd.label "Cerrar">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Vista previa">
@@ -32,6 +35,18 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "Preferencias…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "Servicios">
+<!ENTITY hideThisAppCmd.label             "Ocultar &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "H">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+
 
 <!ENTITY editMenu.label                   "Editar">
 <!ENTITY editMenu.accesskey               "E">
@@ -98,6 +113,9 @@
 <!ENTITY helpMenu.label                   "Ayuda">
 <!ENTITY helpMenu.accesskey               "y">
 
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
+
 <!ENTITY helpTroubleshootingInfo.label      "Solución de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "S">
 <!ENTITY releaseCmd.label                   "Notas de la versión">
@@ -128,6 +146,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar dirección del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY customizeToolbarContext.label            "Personalizar…">
 <!ENTITY customizeToolbarContext.accesskey        "P">
