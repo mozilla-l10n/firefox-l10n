@@ -30,3 +30,24 @@ graph-week-summary-private-window = এই সপ্তাহত { -brand-short-
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-tracker =
+    .title = ট্ৰেকিং সমল
+    .aria-label =
+        { $count ->
+            [one] { $count }টা ট্ৰেকিং সমল ({ $percentage }%)
+           *[other] { $count }টা ট্ৰেকিং সমল ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = ফিংগাৰপ্ৰিণ্টাৰ
+    .aria-label =
+        { $count ->
+            [one] { $count }টা ফিংগাৰপ্ৰিণ্টাৰ ({ $percentage }%)
+           *[other] { $count }টা ফিংগাৰপ্ৰিণ্টাৰ ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = ক্ৰীপ্ট'মাইনাৰ
+    .aria-label =
+        { $count ->
+            [one] { $count }টা ক্ৰীপ্ট'মাইনাৰ ({ $percentage }%)
+           *[other] { $count }টা ক্ৰীপ্ট'মাইনাৰ ({ $percentage }%)
+        }
