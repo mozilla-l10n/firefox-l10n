@@ -56,10 +56,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Aller à">
 <!ENTITY goMenu.accesskey "l">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Accueil">
 <!ENTITY goHomeCmd.accesskey "A">
 <!ENTITY historyCmd.label "Historique">
 <!ENTITY historyCmd.accesskey "i">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Onglets récemment fermés">
 <!ENTITY recentTabs.accesskey "g">
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Effacer mes traces…">
 <!ENTITY clearPrivateDataCmd.accesskey "f">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">

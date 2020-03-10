@@ -10,6 +10,11 @@
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!-- Key labels, for mousewheel prefs -->
+<!ENTITY usingWheelAndAlt.label2         "Alt">
+<!ENTITY usingWheelAndOption.label       "Option">
+<!ENTITY usingWheelAndCtrl.label2        "Ctrl">
+<!ENTITY usingWheelAndShft.label2        "Maj">
 <!ENTITY mouseWheelGroup.label           "Défilement vertical">
 <!ENTITY mouseWheelHorizGroup.label      "Défilement horizontal">
 <!ENTITY sameAsVertical.label            "Identique au défilement vertical">
