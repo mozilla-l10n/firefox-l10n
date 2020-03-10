@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from tasksOverlay.xul -->
+<!ENTITY minimizeWindowCmd.label "縮到最小">
 <!ENTITY minimizeWindowCmd.key "M">
 <!ENTITY zoomWindowCmd.label "縮放">
 <!ENTITY navigatorCmd.label "網頁瀏覽器">
