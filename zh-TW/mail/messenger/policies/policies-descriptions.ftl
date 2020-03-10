@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = 設定 WebExtension 可透過 chrome.storage.managed 存取的政策。
+policy-AppAutoUpdate = 開啟或關閉應用程式自動更新。
 policy-AppUpdateURL = 自訂應用程式更新網址。
 policy-Authentication = 為支援的網站設定整合身分驗證方式。
 policy-BlockAboutAddons = 防止開啟附加元件管理員（about:addons）。
