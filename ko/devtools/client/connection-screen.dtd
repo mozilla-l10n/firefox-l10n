@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Firefox 개발자 도구로 Firefox 안드로이드 버전이나 Firefox OS와 같은 다른 기기를 원격으로 디버깅할 수 있습니다. 단, 기기의 '원격 디버깅'이 켜져 있어야 합니다. 더 자세한 사항은">
+<!ENTITY remoteHelp "Firefox 개발자 도구로 원격 기기(예: Android 용 Firefox 및 Firefox OS)를 디버깅 할 수 있습니다. 원격 기기에서 '원격 디버깅' 옵션이 켜져 있는지 확인하세요. 자세한 내용은">
 <!ENTITY remoteDocumentation "이 문서">
-<!ENTITY remoteHelpSuffix "를 보시기 바랍니다.">
+<!ENTITY remoteHelpSuffix "를 보세요.">
 
