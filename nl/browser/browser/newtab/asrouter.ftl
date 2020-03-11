@@ -129,6 +129,7 @@ cfr-whatsnew-searchbar-title = Typ minder, vind meer met de adresbalk
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Bezoek uw meestbezochte websites met één klik in de adresbalk. Vind dingen sneller met resultaten van { $searchEngineName } en uw navigatiegeschiedenis.
 cfr-whatsnew-searchbar-body-generic = Bezoek uw meest bezochte websites met één klik in de adresbalk. Vind dingen sneller met zoekresultaten uit uw navigatiegeschiedenis.
+cfr-whatsnew-searchbar-body-topsites = Selecteer nu eenvoudigweg de adresbalk en een vak zal uitbreiden met snelkoppelingen naar uw topwebsites.
 cfr-whatsnew-searchbar-icon-alt-text = Vergrootglaspictogram
 
 ## Picture-in-Picture
