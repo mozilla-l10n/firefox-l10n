@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Importovať z iného prehliadača…
 appmenuitem-protection-report-title = Ochrana súkromia
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Prejsť na prehľad ochrany súkromia
