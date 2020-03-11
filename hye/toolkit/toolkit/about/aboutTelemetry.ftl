@@ -37,6 +37,7 @@ about-telemetry-slow-sql-section = Ցուցադրել SQL-ի ձեւթղթերը
 about-telemetry-addon-details-section = Հաւելման մանրամասները
 about-telemetry-captured-stacks-section = Կորզուած շեղջեր
 about-telemetry-late-writes-section = Յետագայ գրառումներ
+about-telemetry-raw-payload-section = Աւգտակար գծագիր
 about-telemetry-raw = JSON տող
 about-telemetry-full-sql-warning = ՀԻՇԷՔ. Միացուած է SQL-ի վրիպազերծման դանդաղ եղանակը։ Ստորեւ կարող են ցուցադրուել SQL ամբողջական տողեր, բայց դրանք չեն հաստատուի հեռուստաչափութիւնում։
 about-telemetry-fetch-stack-symbols = Ընտրել գործառոյթի անունները՝ շեղջերի համար
@@ -141,3 +142,10 @@ about-telemetry-object-header = առարկայ
 about-telemetry-extra-header = հաւելեալ
 about-telemetry-origin-section = Հեռուստաչափութեան սկզաղբիւր
 about-telemetry-origin-origin = սկզնաղբիւր
+about-telemetry-origin-count = հաշուարկ
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link"> Firefox-ի աղբիւրի հեռաչափութիւնը </a> կոդաւորում է տուեալները ուղարկելուց առաջ, այնպես որ { $telemetryServerOwner }֊ը կարող է հաշուել իրերը, առանց իմանալու որեւէ { -brand-product-name } մուտքագրման համար: Ավելին իմանալու համար <a data-l10n-name="prio-blog-link"> </a>)։
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } գործնթաց
