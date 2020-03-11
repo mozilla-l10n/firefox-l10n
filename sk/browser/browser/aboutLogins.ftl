@@ -26,6 +26,8 @@ menu =
     .title = Otvoriť ponuku
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importovať heslá…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importovať z iného prehliadača…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -85,10 +87,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopírovať
 login-item-copied-username-button-text = Skopírované!
 login-item-password-label = Heslo
-login-item-password-reveal-checkbox-show =
-    .title = Zobraziť heslo
-login-item-password-reveal-checkbox-hide =
-    .title = Skryť heslo
 login-item-password-reveal-checkbox =
     .aria-label = Zobraziť heslo
 login-item-copy-password-button-text = Kopírovať
