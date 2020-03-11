@@ -169,8 +169,8 @@ browser-containers-settings =
 containers-disable-alert-title = Fechar todos os separadores contentores?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Se desativar os separadores contentores agora, { $tabCount } contentor separador será fechado. Tem a certeza de que pretende desativar os separadores contentores?
-       *[other] Se desativar os separadores contentores agora, { $tabCount } separadores contentores serão fechados. Tem a certeza de que pretende desativar os separadores contentores?
+        [one] Se desativar os Separadores contentor agora, { $tabCount } separador contentor será fechado. Tem a certeza que pretende desativar os separadores contentor?
+       *[other] Se desativar os Separadores contentor agora, { $tabCount } separadores contentor serão fechados. Tem a certeza que pretende desativar os separadores contentor?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -183,8 +183,8 @@ containers-remove-alert-title = Remover este contentor?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Se remover este contentor agora, { $count } separador contentor será fechado. Tem a certeza de que pretende remover este contentor?
-       *[other] Se remover este contentor agora, { $count } separadores contentores serão fechados. Tem a certeza de que pretende remover este contentor?
+        [one] Se remover este contentor agora, { $count } separador contentor será fechado. Tem a certeza que pretende remover este contentor?
+       *[other] Se remover este contentor agora, { $count } separadores contentor serão fechados. Tem a certeza que pretende remover este contentor?
     }
 containers-remove-ok-button = Remover este contentor
 containers-remove-cancel-button = Não remover este contentor
