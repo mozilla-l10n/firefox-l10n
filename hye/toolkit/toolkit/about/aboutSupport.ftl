@@ -74,6 +74,14 @@ modified-key-prefs-title = Փոփոխուած կարեւոր նախընտրու�
 modified-prefs-name = Անուն
 modified-prefs-value = Արժեքը
 user-js-title = user.js-ի նախընտրութիւններ
+user-js-description = Ձեր յատկագրի թղթապանակը պարունակում է<a data-l10n-name="user-js-link">user.js ֆայլ</a>, որը ներառում է նախընտրութիւններ, որոնք չեն ստեղծուել { -brand-short-name }-ի կողմից։
+locked-key-prefs-title = Կողպուած կարեւոր նախընտրութիւններ
+locked-prefs-name = Անուն
+locked-prefs-value = Արժեքը
+graphics-title = Գծապատկերներ
+graphics-features-title = Յուրահատկութիւններ
+graphics-diagnostics-title = Ախտորոշում
+graphics-failure-log-title = Վնասուած մատեան
 
 ## Media titles
 
