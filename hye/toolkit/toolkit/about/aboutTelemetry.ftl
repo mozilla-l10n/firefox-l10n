@@ -109,3 +109,22 @@ about-telemetry-current-data-sidebar = ընթացիկ տուեալներ
 about-telemetry-telemetry-ping-type-all = բոլորը
 # button label to copy the histogram
 about-telemetry-histogram-copy = Պատճէնել
+# these strings are used in the “Slow SQL Statements” section
+about-telemetry-slow-sql-main = Ցուցադրել SQL առաջարկութիւնները հիմնական հանգոյցում
+about-telemetry-slow-sql-other = Ցուցադրել SQL առաջարկութիւնները աւգնութեան հանգոյցում
+about-telemetry-slow-sql-hits = Այցեր
+about-telemetry-slow-sql-average = Միջին ժամը (մվ)
+about-telemetry-slow-sql-statement = Դրոյթ
+# these strings are used in the “Add-on Details” section
+about-telemetry-addon-table-id = Աւելացնել ID-ին
+about-telemetry-addon-table-details = Մանրամասնութիւն
+# Variables:
+#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+about-telemetry-addon-provider = { $addonProvider } մատակարարը
+about-telemetry-keys-header = Յատկութիւնը
+about-telemetry-names-header = Անուն
+about-telemetry-values-header = Արժեք
+# Variables:
+#   $stackKey (String): the string key for this stack
+#   $capturedStacksCount (Integer):  the number of times this stack was captured
+about-telemetry-captured-stacks-title = { $stackKey } (քանակը. { $capturedStacksCount })
