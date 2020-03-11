@@ -50,5 +50,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Remover
 site-data-removing-header = Remover cookies e dados de sites
-site-data-removing-desc = Remover cookies e dados de sites pode terminar a sessão nos sites. Tem a certeza de que pretende fazer as alterações?
+site-data-removing-desc = Remover cookies e dados de sites pode terminar a sessão nos sites. Tem a certeza que pretende fazer as alterações?
 site-data-removing-table = Serão removidas as cookies e os dados dos seguintes sites
