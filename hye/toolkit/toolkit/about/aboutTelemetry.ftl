@@ -75,3 +75,37 @@ about-telemetry-settings-explanation = Հեռուստաչափութիւններ�
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Տեղեկատուութեան իւրաքանչիւր կտոր ուղարկուում է <a data-l10n-name="ping-link">pings</a>"-ի միջոցով: Դուք նայում եք անկման { $name },{ $timestamp }֊ին։
+about-telemetry-ping-details-current = Տեղեկատուութեան իւրաքանչիւր կտոր ուղարկուում է “<a data-l10n-name="ping-link"> pings </a>"֊ի միջոցով: Դուք նայում եք ընթացիկ անկմանը։
+about-telemetry-data-details-current = Տեղեկատուութեան իւրաքանչյուր կտոր ուղարկուում է “<a data-l10n-name="ping-link"> pings </a>"֊ի միջոցով: Դուք նայում եք ընթացիկ տուեալներին։
+# string used as a placeholder for the search field
+# More info about it can be found here:
+# https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $selectedTitle (String): the section name from the structure of the ping.
+about-telemetry-filter-placeholder =
+    .placeholder = Որոնել { $selectedTitle }֊ում
+about-telemetry-filter-all-placeholder =
+    .placeholder = Գտնել բոլոր ընտրանքներում
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = “{ $searchTerms }”-ի արդիւնքներ։
+# More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
+# Variables:
+#   $sectionName (String): the section name from the structure of the ping.
+#   $currentSearchText (String): the current text in the search input
+about-telemetry-no-search-results = Կներէք, “{ $searchTerms }”–ի համար ոչ մի հատուածում արդիւնք չկա:
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-no-search-results-all = Կներէք, ներկայումս “{ $sectionName }”–ում հասանելի տուեալներ չկան:
+# This message is displayed when a section is empty.
+# Variables:
+#   $sectionName (String): is replaced by the section name.
+about-telemetry-no-data-to-display = Կներէք, ներկայումս “{ $sectionName }”–ում հասանելի տուեալներ չկան:
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-ping-sidebar = ընթացիկ տողը
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = ընթացիկ տուեալներ
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = բոլորը
+# button label to copy the histogram
+about-telemetry-histogram-copy = Պատճէնել
