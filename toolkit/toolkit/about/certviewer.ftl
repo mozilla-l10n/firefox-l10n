@@ -22,6 +22,8 @@ certificate-viewer-country = Herrialdea
 certificate-viewer-curve = Kurba
 certificate-viewer-distribution-point = Banaketa-puntua
 certificate-viewer-dns-name = DNS izena
+certificate-viewer-ip-address = IP Helbidea
+certificate-viewer-other-name = Bestelako izena
 certificate-viewer-exponent = Berretzailea
 certificate-viewer-id = IDa
 certificate-viewer-key-exchange-group = Gako-trukaketa taldea
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Helburuak
 certificate-viewer-qualifier = Sailkatzailea
 certificate-viewer-qualifiers = Sailkatzaileak
 certificate-viewer-required = Beharrezkoa
+certificate-viewer-unsupported = &lt;euskarririk ez&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Sozietate anonimoaren estatua/probintzia
 certificate-viewer-state-province = Estatua/probintzia
