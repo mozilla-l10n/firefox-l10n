@@ -14,6 +14,9 @@ cert-error-trust-signature-algorithm-disabled = Seedamfaagu nguu hoolaaka sabu n
 cert-error-trust-expired-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu bayyinɗo oo yawtii happo.
 cert-error-trust-self-signed = Seedamfaagu nguu hoolaaka sabu ko siifnde hoore mayre.
 cert-error-untrusted-default = Seedamfaagu nguu ummaaki e iwdi koolaandi.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Lowe geese ndallinirta keɓtinirɗe mum en ko seedanteeje ɗe hoolaaɓe seedamafaagu ndokkata ɗum en. Ko ɓuri heewde e banngorɗe nattii hoolaade seedamfeeji ɗi GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign ndokkirta. { $hostname } ina huutoroo seedamfaagu ummiingu e ɓee hoolaaɓe ndeen noon innitol lowre ndee waawataa dallineede.
 cert-error-symantec-distrust-admin = Aɗa waawi humpit-de jiiloowo lowre ndee saɗeende ndee.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
