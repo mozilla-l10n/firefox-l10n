@@ -128,3 +128,16 @@ about-telemetry-values-header = Արժեք
 #   $stackKey (String): the string key for this stack
 #   $capturedStacksCount (Integer):  the number of times this stack was captured
 about-telemetry-captured-stacks-title = { $stackKey } (քանակը. { $capturedStacksCount })
+# Variables:
+#   $lateWriteCount (Integer): the number of the late writes
+about-telemetry-late-writes-title = Ուշացած Գրառում #{ $lateWriteCount }
+about-telemetry-stack-title = Շեղջ.
+about-telemetry-memory-map-title = Յիշողութեան քարտեզ․
+about-telemetry-error-fetching-symbols = Նշանները բեռնելիս սխալ է գրանցուել։ Ստուգէք կապակցումը համացանցին եւ կրկին փորձէք։
+about-telemetry-time-stamp-header = ժամակնիք
+about-telemetry-category-header = անուանակարգ
+about-telemetry-method-header = եղանակ
+about-telemetry-object-header = առարկայ
+about-telemetry-extra-header = հաւելեալ
+about-telemetry-origin-section = Հեռուստաչափութեան սկզաղբիւր
+about-telemetry-origin-origin = սկզնաղբիւր
