@@ -82,6 +82,10 @@ graphics-title = Գծապատկերներ
 graphics-features-title = Յուրահատկութիւններ
 graphics-diagnostics-title = Ախտորոշում
 graphics-failure-log-title = Վնասուած մատեան
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = Որոշման մատեան
+graphics-crash-guards-title = Վթարի պաշտպանի անջատած իւրահատկութիւններ
 
 ## Media titles
 
