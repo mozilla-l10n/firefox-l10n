@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = افزونه‌های توصیه شده
 cfr-doorhanger-feature-heading = ویژگی پیشنهادی
 cfr-doorhanger-pintab-heading = امتحان کنید: سنجاق کردن زبانه
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = چرا این را می‌بینم
@@ -117,6 +117,19 @@ cfr-whatsnew-lockwise-backup-link-text = فعال‌سازی پشتیبان گی
 cfr-whatsnew-lockwise-take-title = گذرواژه‌های خود را با خود داشته باشید
 cfr-whatsnew-lockwise-take-body = برنامهٔ تلفن همراه { -lockwise-brand-short-name } به شما اجازه دسترسی امن را از هرجایی به گذرواژه‌های پشتیبانی گرفته شده می‌دهد.
 cfr-whatsnew-lockwise-take-link-text = دریافت اپ
+
+## Search Bar
+
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = بیشتر بدانید
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
