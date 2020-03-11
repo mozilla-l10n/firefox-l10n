@@ -60,6 +60,20 @@ app-basics-launcher-process-status = Թողարկման գործընթաց
 app-basics-multi-process-support = Բազմամշակիչ պատուհաններ
 app-basics-remote-processes-count = Հեռաւոր գործընթացներ
 app-basics-enterprise-policies = Ընկերութեան կանոններ
+app-basics-location-service-key-google = Google Տեղադրութեան ծառաիւթեան բանալին
+app-basics-safebrowsing-key-google = Google անվտանգ զննարկման բանալի
+app-basics-key-mozilla = Mozilla-ի տեղադրութեան ծառայութեան բանալի
+app-basics-safe-mode = Յուսալի կերպ
+show-dir-label =
+    { PLATFORM() ->
+        [macos] Ցոյց տալ որոնիչում
+        [windows] Բացել թղթապանակը
+       *[other] Բացել թղթապանակը
+    }
+modified-key-prefs-title = Փոփոխուած կարեւոր նախընտրութիւններ
+modified-prefs-name = Անուն
+modified-prefs-value = Արժեքը
+user-js-title = user.js-ի նախընտրութիւններ
 
 ## Media titles
 
