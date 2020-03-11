@@ -57,6 +57,9 @@ app-basics-performance = Արդիւնաւէտութիւն
 app-basics-service-workers = Գրանցուած ծառայութեան աշխատողներ
 app-basics-profiles = Յատկագիր
 app-basics-launcher-process-status = Թողարկման գործընթաց
+app-basics-multi-process-support = Բազմամշակիչ պատուհաններ
+app-basics-remote-processes-count = Հեռաւոր գործընթացներ
+app-basics-enterprise-policies = Ընկերութեան կանոններ
 
 ## Media titles
 
