@@ -11,13 +11,13 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = { -brand-shorter-name } 업데이트를 위해 다시 시작
     .accesskey = R
-update-checkingForUpdates = 업데이트를 확인하고 있습니다…
+update-checkingForUpdates = 업데이트 확인 중…
 update-downloading = <img data-l10n-name="icon"/>업데이트 다운로드 중 — <label data-l10n-name="download-status"/>
 update-applying = 업데이트 적용 중…
 update-failed = 업데이트를 실패했습니다. <label data-l10n-name="failed-link">최신 버전 다운로드</label>
 update-failed-main = 업데이트를 실패했습니다. <a data-l10n-name="failed-link-main">최신 버전 다운로드</a>
 update-adminDisabled = 시스템 관리자가 업데이트를 비활성화하였음
-update-noUpdatesFound = { -brand-short-name }가 최신 버전입니다.
+update-noUpdatesFound = { -brand-short-name }가 최신 버전입니다
 update-otherInstanceHandlingUpdates = 다른 { -brand-short-name }에서 이미 업데이트를 하고 있음
 update-manual = 업데이트 위치 <label data-l10n-name="manual-link"/>
 update-unsupported = 이 시스템에서는 더 이상 업데이트를 할 수 없습니다.<label data-l10n-name="unsupported-link">더 알아보기</label>
