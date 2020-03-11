@@ -22,6 +22,8 @@ certificate-viewer-country = Amaq'
 certificate-viewer-curve = Nik'set
 certificate-viewer-distribution-point = Ruk'ojlemal Jachoj
 certificate-viewer-dns-name = DNS B'i'aj
+certificate-viewer-ip-address = IP Ochochib'äl
+certificate-viewer-other-name = Jun Chik B'i'aj
 certificate-viewer-exponent = Eponen
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Rujalwachinik Ruxe'el Tzij Molaj:
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Taq ojqanem
 certificate-viewer-qualifier = Ya'öl Rejqalem
 certificate-viewer-qualifiers = Taq Ya'öl Rejqalem
 certificate-viewer-required = Ajowan
+certificate-viewer-unsupported = &lt;man k'amonel ta&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Inc. Amaq'/Province:
 certificate-viewer-state-province = Amaq'/Province:
