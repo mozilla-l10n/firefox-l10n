@@ -32,6 +32,23 @@ app-basics-name = Անուն
 app-basics-version = Տարբերակ
 app-basics-build-id = Կառուցման ID
 app-basics-update-channel = Թարմացումների աղբիւր
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Թարմացումների նշարան
+       *[other] Թարմացրէք պանակը
+    }
+app-basics-update-history = Թարմացումների պատմութիւն
+app-basics-show-update-history = Ցուցադրել Թարմացումների Պատմութիւնը
+# Represents the path to the binary used to start the application.
+app-basics-binary = Երկուական հաւելուած
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] յատկագրի պահոց
+       *[other] յատկագրի թղթապանակը
+    }
+app-basics-enabled-plugins = Միացուած ներդիրներ
 
 ## Media titles
 
