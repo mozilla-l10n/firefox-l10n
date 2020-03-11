@@ -14,6 +14,7 @@ cert-error-trust-signature-algorithm-disabled = Seedamfaagu nguu hoolaaka sabu n
 cert-error-trust-expired-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu bayyinɗo oo yawtii happo.
 cert-error-trust-self-signed = Seedamfaagu nguu hoolaaka sabu ko siifnde hoore mayre.
 cert-error-untrusted-default = Seedamfaagu nguu ummaaki e iwdi koolaandi.
+cert-error-symantec-distrust-admin = Aɗa waawi humpit-de jiiloowo lowre ndee saɗeende ndee.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
