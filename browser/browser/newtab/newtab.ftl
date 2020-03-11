@@ -47,7 +47,7 @@ newtab-topsites-add-button = Adicionar
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Tem a certeza de que deseja apagar todas as instâncias desta página do seu histórico?
+newtab-confirm-delete-history-p1 = Tem a certeza que pretende eliminar todas as instâncias desta página do seu histórico?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Esta ação não pode ser anulada.
 
@@ -86,11 +86,6 @@ newtab-menu-show-privacy-info = Os nossos patrocinadores e a sua privacidade
 
 newtab-privacy-modal-button-done = Concluído
 newtab-privacy-modal-header = As sua privacidade é importante.
-newtab-privacy-modal-paragraph =
-    Para além de encontrar históricas cativantes, também lhe mostramos conteúdo relevante
-    e altamente escrutinado a partir de patrocinadores selecionados. Fique descansado que os seus 
-    dados de navegação nunca deixam a sua cópia pessoal do { -brand-product-name } — nem nós, 
-    nem os nossos patrocinadores têm acesso a esses dados.
 newtab-privacy-modal-paragraph-2 =
     Para além de encontrar históricas cativantes, também lhe mostramos conteúdo relevante
     e altamente escrutinado a partir de patrocinadores selecionados. Fique descansado que <strong>os seus 
