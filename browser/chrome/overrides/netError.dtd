@@ -46,7 +46,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; pòt pas cargar aquesta pagina.</p>">
 
 <!ENTITY captivePortal.title "Se connectar al ret">
-<!ENTITY captivePortal.longDesc2 "<p>Cal se connectar a aqueste ret per accedir a Internet.</p>">
+<!ENTITY captivePortal.longDesc2 "<p>Cal dobrir la pagina de connexion a aqueste ret per accedir a Internet.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Dobrir la pagina de connexion al ret">
 
