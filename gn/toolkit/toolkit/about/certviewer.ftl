@@ -22,6 +22,7 @@ certificate-viewer-country = Tetã
 certificate-viewer-curve = Mbojere
 certificate-viewer-distribution-point = Ñemyasãiha
 certificate-viewer-dns-name = DNS réra
+certificate-viewer-ip-address = IP kundaharape
 certificate-viewer-exponent = Ñe’ẽhára
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Ñe’ẽñemi moambueha aty
