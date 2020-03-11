@@ -49,6 +49,11 @@ app-basics-profile-dir =
        *[other] յատկագրի թղթապանակը
     }
 app-basics-enabled-plugins = Միացուած ներդիրներ
+app-basics-build-config = Կառուցման կազմաձեւում
+app-basics-user-agent = Գործակալ աւգտատեր
+app-basics-os = OS
+app-basics-memory-use = յիշողութեան ծաւալ
+app-basics-performance = Արդիւնաւէտութիւն
 
 ## Media titles
 
