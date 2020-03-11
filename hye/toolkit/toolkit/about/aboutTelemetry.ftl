@@ -67,3 +67,11 @@ about-telemetry-histogram-stats =
         [one] { $sampleCount } չափումներ, միջին = { $prettyAverage }, ընդհանուր = { $sum }
        *[other] { $sampleCount } չափումներ, միջին = { $prettyAverage }, ընդհանուր = { $sum }
     }
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-page-subtitle = Այս էջում ցուցադրուում են տեղեկութիւններ արտադրողականութեան, սարկազմի ծրագրի աւգտագործման եւ կարգաւորումների մասին, որոնք հաւաքուում են հեռուստաչափութեան միջոցով։ Այս տեղեկութիւնները կուղարկուեն { $telemetryServerOwner }-ին՝ լաւարկելու համար { -brand-full-name }-ը։
+about-telemetry-settings-explanation = Հեռուստաչափութիւններին հաւաքում է { about-telemetry-data-type }֊ը վերբեռնումը <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> է:
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = Տեղեկատուութեան իւրաքանչիւր կտոր ուղարկուում է <a data-l10n-name="ping-link">pings</a>"-ի միջոցով: Դուք նայում եք անկման { $name },{ $timestamp }֊ին։
