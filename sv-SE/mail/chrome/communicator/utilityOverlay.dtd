@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY customizeCmd.label "Anpassa">
+<!ENTITY customizeCmd.accesskey "n">
+
 <!ENTITY viewMenu.label          "Visa">
 <!ENTITY viewMenu.accesskey        "s">
 <!ENTITY viewToolbarsMenu.label        "Verktygsfält">
