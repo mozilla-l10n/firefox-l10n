@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
 <!ENTITY preferencesCmdUnix.accesskey     "ρ">
 
+<!ENTITY customizeCmd.label "Προσαρμογή">
+<!ENTITY customizeCmd.accesskey "σ">
+
 <!ENTITY viewMenu.label          "Προβολή">
 <!ENTITY viewMenu.accesskey        "ρ">
 <!ENTITY viewToolbarsMenu.label        "Γραμμές εργαλείων">

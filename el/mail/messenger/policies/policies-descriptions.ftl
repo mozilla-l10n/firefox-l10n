@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ορισμός πολιτικών που μπορούν να προσπελάσουν τα WebExtensions μέσω του chrome.storage.managed.
+policy-AppAutoUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων εφαρμογής.
 policy-AppUpdateURL = Ορισμός προσαρμοσμένου URL ενημέρωσης εφαρμογής.
 policy-Authentication = Ρύθμιση ενσωματωμένης πιστοποίησης για ιστοσελίδες που την υποστηρίζουν.
 policy-BlockAboutAddons = Αποκλεισμός πρόσβασης στη Διαχείριση προσθέτων (about:addons).
