@@ -132,6 +132,7 @@ cfr-whatsnew-searchbar-title = Rašykite mažiau, raskite daugiau su adreso juos
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Į savo lankomiausias svetaines patekite vienu adreso juostos spustelėjimu. Raskite dalykus greičiau su rezultatais iš „{ $searchEngineName }“ ir jūsų naršymo žurnalo.
 cfr-whatsnew-searchbar-body-generic = Į savo lankomiausias svetaines patekite vienu adreso juostos spustelėjimu. Raskite dalykus greičiau su rezultatais iš jūsų naršymo žurnalo.
+cfr-whatsnew-searchbar-body-topsites = Dabar jums spustelėjus ant adreso juostos, pasirodys jūsų lankomiausių svetainių sąrašas.
 cfr-whatsnew-searchbar-icon-alt-text = Didinamojo stiklo piktograma
 
 ## Picture-in-Picture
