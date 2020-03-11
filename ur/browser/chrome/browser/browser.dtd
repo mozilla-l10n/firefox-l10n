@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "صفحہ ماخذ">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "صفحہ معلومات">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "لےآوٹ ڈیبگر">
 <!ENTITY ldbCmd.accesskey "L">
@@ -127,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; سے پھر جڑیں">
 <!ENTITY fxaUnverified.label "اپنا اکاؤنٹ توثیق کریں">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "چھوٹا کریں">
 <!ENTITY fullScreenRestore.tooltip "بحال کریں">
@@ -214,7 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "بک مارک">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "یہ صفحہ نشان زد کریں">
 <!ENTITY editThisBookmarkCmd.label "اس بک مارک کی تدوین کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -239,7 +233,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "رکیں">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        "۔">
 
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
@@ -412,7 +405,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "پچھلا سیشن بحال کریں">
 
 <!ENTITY showAllHistoryCmd2.label "تمام سابقات دکھائیں">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "تمام سابقات دکھائیں">
@@ -590,7 +582,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "صرف یہ فریم دکھائیں">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "فریم پھر لوڈ کریں">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -642,7 +633,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "فریم محفوظ کریں بطو ر...">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -746,20 +736,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "اندر زوم کریں">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "باہر زوم کریں">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "پھر سیٹ کریں">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -783,7 +770,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "بند کریں">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -809,7 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "متن کی سمت بدلیں کریں">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں…">
@@ -839,17 +824,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "کنکشن">
 <!ENTITY identity.connectionSecure "بعید کنکشن">
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
-
-<!ENTITY identity.connectionSecure3 "قابل بھروسا کنکشن">
-<!ENTITY identity.connectionNotSecure2 "ناقابل بھروسا کنکشن">
-<!ENTITY identity.connectionNotSecureSecurityView "آپ اس سائٹ کے ساتھ غیر محفوظ طریقے سے جڑے ہوئے ہیں۔">
 <!ENTITY identity.connectionFile "یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔">
 <!ENTITY identity.connectionVerified2 "آپ محفوظ طریقے سے اس سائٹ سے جڑے ہوے ہے، کی ملکیت ہے:">
-<!ENTITY identity.connectionVerified3 "آپ اس سائٹ کے ساتھ محفوظ طریقے سے جڑے ہوئے ہیں۔">
 <!ENTITY identity.connectionInternal "یہ ایک قابل بھروسا &brandShortName; صفحہ ہے۔">
 <!ENTITY identity.extensionPage "یہ صفہ ایکسٹینشن سے لوڈ کیا گیا ہے۔">
 <!ENTITY identity.insecureLoginForms2 "اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔">
-
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔">
@@ -883,8 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "کوکیز اور سائٹ کے کواِئف… صاف کریں">
 
 <!ENTITY identity.permissions "اجازتیں">
-
-<!ENTITY identity.permissions3 "اجازتیں">
 <!ENTITY identity.permissionsEmpty "آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔">
 <!ENTITY identity.permissionsReloadHint "تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔">
 <!ENTITY identity.permissionsPreferences.tooltip "اجازت ترجیحات کھولیں">
@@ -968,7 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
-<!ENTITY contentBlocking.socialblock.label "سماجی میڈیا ٹریکرز">
+<!ENTITY contentBlocking.socialblock.label "سوشل میڈیا ٹریکرز">
 
 <!ENTITY contentBlocking.cryptominers.label "کریپٹومینر">
 <!ENTITY contentBlocking.cryptominersView.label "کریپٹومینر">
