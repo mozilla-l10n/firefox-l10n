@@ -86,6 +86,20 @@ graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Որոշման մատեան
 graphics-crash-guards-title = Վթարի պաշտպանի անջատած իւրահատկութիւններ
+graphics-workarounds-title = Շրջանցիկներ
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Պատուհանի հաղորդակարգ
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Աշխատասեղանի միջաւայր
+place-database-title = Շտեմարանի տուեալներ
+place-database-integrity = Ամբողջականութիւն
+place-database-verify-integrity = Ստուգել ամբողջականութիւնը
+js-title = JavaScript
+js-incremental-gc = Գործադիր GC
+a11y-title = Մատչելիութիւն
+a11y-activated = Ակտիւացուած է
+a11y-force-disabled = Կանխել հասանելիութիւնը
+a11y-handler-used = Աւգտագործուող մատչելի բեռնաթափիչ
 
 ## Media titles
 
