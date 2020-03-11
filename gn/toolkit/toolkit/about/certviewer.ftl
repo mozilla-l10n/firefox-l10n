@@ -23,6 +23,7 @@ certificate-viewer-curve = Mbojere
 certificate-viewer-distribution-point = Ñemyasãiha
 certificate-viewer-dns-name = DNS réra
 certificate-viewer-ip-address = IP kundaharape
+certificate-viewer-other-name = Ambue Téra
 certificate-viewer-exponent = Ñe’ẽhára
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Ñe’ẽñemi moambueha aty
@@ -45,6 +46,7 @@ certificate-viewer-purposes = Japose
 certificate-viewer-qualifier = Tekome’ẽha
 certificate-viewer-qualifiers = Tekome’ẽha
 certificate-viewer-required = Tekotevẽva
+certificate-viewer-unsupported = &lt;ndojokupytýi&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Tetã/tetãvore
 certificate-viewer-state-province = Tetã/tetãvore
