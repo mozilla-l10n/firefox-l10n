@@ -22,6 +22,8 @@ certificate-viewer-country = Šalis
 certificate-viewer-curve = Kreivė
 certificate-viewer-distribution-point = Platinimo vieta
 certificate-viewer-dns-name = DNS vardas
+certificate-viewer-ip-address = IP adresas
+certificate-viewer-other-name = Kitas pavadinimas
 certificate-viewer-exponent = Eksponentė
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Apsikeitimo raktais grupė
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Paskirtys
 certificate-viewer-qualifier = Kvalifikatorius
 certificate-viewer-qualifiers = Kvalifikatoriai
 certificate-viewer-required = Privaloma
+certificate-viewer-unsupported = &lt;nepalaikomas&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Registracijos valstija / sritis / provincija
 certificate-viewer-state-province = Valstija / sritis / provincija
