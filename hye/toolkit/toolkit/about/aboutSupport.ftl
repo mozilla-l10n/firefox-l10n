@@ -100,6 +100,8 @@ a11y-title = Մատչելիութիւն
 a11y-activated = Ակտիւացուած է
 a11y-force-disabled = Կանխել հասանելիութիւնը
 a11y-handler-used = Աւգտագործուող մատչելի բեռնաթափիչ
+a11y-instantiator = Մատչելիութեան հրահանգիչ
+library-version-title = Շտեմարանի տարբերակները
 
 ## Media titles
 
