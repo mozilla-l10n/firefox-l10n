@@ -46,7 +46,7 @@ certificate-viewer-purposes = Propósitos
 certificate-viewer-qualifier = Calificador
 certificate-viewer-qualifiers = Calificadores
 certificate-viewer-required = Necesario
-certificate-viewer-unsupported = & lt; no compatible& gt;
+certificate-viewer-unsupported = &lt;no compatible&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Estado/provincia
 certificate-viewer-state-province = Estado/provincia
