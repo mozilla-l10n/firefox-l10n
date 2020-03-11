@@ -120,6 +120,7 @@ cfr-whatsnew-searchbar-title = 使用網址列，打得更少，找得更多
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = 在網址列上點擊，即可快速前往最常開啟的網站。使用來自 { $searchEngineName } 與瀏覽紀錄的搜尋結果，讓您更快找到東西。
 cfr-whatsnew-searchbar-body-generic = 在網址列上點擊，即可快速前往最常開啟的網站。使用來自瀏覽紀錄的搜尋結果，讓您更快找到東西。
+cfr-whatsnew-searchbar-body-topsites = 現在只要選擇網址列，就會顯示包含熱門網站連結的方框。
 cfr-whatsnew-searchbar-icon-alt-text = 放大鏡圖示
 
 ## Picture-in-Picture
