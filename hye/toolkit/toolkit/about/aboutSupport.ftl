@@ -54,7 +54,9 @@ app-basics-user-agent = Գործակալ աւգտատեր
 app-basics-os = OS
 app-basics-memory-use = յիշողութեան ծաւալ
 app-basics-performance = Արդիւնաւէտութիւն
-app-basics-service-workers = Գրանցուած Service Workers
+app-basics-service-workers = Գրանցուած ծառայութեան աշխատողներ
+app-basics-profiles = Յատկագիր
+app-basics-launcher-process-status = Թողարկման գործընթաց
 
 ## Media titles
 
