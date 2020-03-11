@@ -4,4 +4,4 @@
 
 protections-panel-sendreportview-error = При изпращането на отчета възникна грешка. Моля, опитайте отново по-късно.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Сайтът е поправен? Изпратете доклад.
+protections-panel-sitefixedsendreport-label = Страницата е поправена? Изпратете доклад.
