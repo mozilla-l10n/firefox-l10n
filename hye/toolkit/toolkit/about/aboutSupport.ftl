@@ -251,6 +251,20 @@ webgl2-renderer = WebGL 2 սարքաւարի նյութաւորիչ
 webgl2-version = WebGL 2 սարքաւարի տարբերակ
 webgl2-driver-extensions = WebGL 2 սարքաւարի ընդլայնումներ
 webgl2-extensions = WebGL 2 ընդլայնումներ
+blocklisted-bug = Սեւ ցուցակում՝ յայտնի խնդիրների պատճառով
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = խնդիր { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = Արգելափակուած, ձախողուած կոդ՝ { $failureCode }
+d3d11layers-crash-guard = D3D11 կազմակերպիչ
+d3d11video-crash-guard = D3D11 տեսանիւթի ապակոդաւորիչ
+d3d9video-crash-buard = D3D9 տեսանիւթի ապակոդաւորիչ
+d3d9video-crash-guard = D3D9 տեսանիւթի ապակոդաւորիչ
+glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX  տեսանիւթի ապակոդաւորիչ
+reset-on-next-restart = Վերակայել յաջորդ վերամեկնարկումից յետոյ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
