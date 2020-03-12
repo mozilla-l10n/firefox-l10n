@@ -208,6 +208,13 @@ text-copied = Գրոյթը պատճենուած է սեղմատախտակի վր
 blocked-driver = Արգելուած է տեսասարքի սարքաւարի տարբերակի կողմից։
 blocked-gfx-card = Արգելուած է տեսաքարտի կողմից՝ անյայտ պատճառով։
 blocked-os-version = Կասեցուած է Ձեր գործաւար համակարգի տարբերակի համար:
+blocked-mismatched-version = Արգելափակուած է ձեր գրաֆիկայի սարքաւարի տարբերակի՝ գրանցատեղիի եւ DLL-ի միջեւ բաց պատճառով:
+# Variables
+# $driverVersion - The graphics driver version string
+try-newer-driver = Արգելուած է տեսասարքի սարքաւարի տարբերակի կողմից։ Փորձէք թարմացնել տեսաքարտի տարբերակը { $driverVersion }-ի կամ ավելի նորի։
+# "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
+# there are no good translations, these are only used in about:support
+clear-type-parameters = ClearType-ի հարաչափեր
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
