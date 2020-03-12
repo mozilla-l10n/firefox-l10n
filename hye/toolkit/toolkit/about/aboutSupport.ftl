@@ -217,6 +217,11 @@ try-newer-driver = Արգելուած է տեսասարքի սարքաւարի �
 clear-type-parameters = ClearType-ի հարաչափեր
 compositing = Կազմում
 hardware-h264 = Սարքաշարի H264 ապակոդաւորում
+main-thread-no-omtc = հիմնական շղթա, ոչ OMTC
+yes = Այո
+no = Ոչ
+unknown = Անյայտ
+virtual-monitor-disp = Իրական ցուցասարքի ցուցադրում
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
