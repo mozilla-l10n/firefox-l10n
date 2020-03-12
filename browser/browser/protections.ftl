@@ -50,12 +50,16 @@ tracker-tab-description = אתרים עשויים לטעון פרסומות חי
 fingerprinter-tab-title = רכיבי זהות דיגיטלית
 cryptominer-tab-title = כורי מטבעות דיגיטליים
 cryptominer-tab-content = כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך. <a data-l10n-name="learn-more-link">מידע נוסף</a>
+mobile-app-links = דפדפן { -brand-product-name } עבור <a data-l10n-name="android-mobile-inline-link">Android</a> ו־<a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = אף ססמה לא תלך עוד לאיבוד
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } מאחסן באופן מאובטח את הססמאות שלך בדפדפן.
 lockwise-header-content-logged-in = אחסון וסנכרון הססמאות שלך באופן מאובטח לכל המכשירים שלך.
 protection-report-view-logins-button = הצגת כניסות
     .title = מעבר לכניסות השמורות
+lockwise-mobile-app-title = לקחת את הססמאות שלך לכל מקום
+lockwise-no-logins-card-content = ניתן להשתמש בססמאות השמורות ב־{ -brand-short-name } בכל מכשיר.
+lockwise-app-links = { -lockwise-brand-name } עבור <a data-l10n-name="lockwise-android-inline-link">Android</a> ו־<a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
