@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from tasksOverlay.xul -->
+<!ENTITY minimizeWindowCmd.label "ჩაკეცვა">
+<!ENTITY minimizeWindowCmd.key "ჩ">
+<!ENTITY zoomWindowCmd.label "ზომის შეცვლა">
 <!ENTITY navigatorCmd.label "ბრაუზერი">
 <!ENTITY navigatorCmd.accesskey "ბ">
 <!ENTITY navigatorCmd.commandkey "1">

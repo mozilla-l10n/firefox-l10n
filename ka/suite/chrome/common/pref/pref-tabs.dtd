@@ -22,6 +22,15 @@
 
 <!ENTITY openTabs.label "გახსნა ჩანართებზე ნაცვლად სარკმლებისა">
 
+<!ENTITY middleClick.label "შუა წკაპი, Ctrl+წკაპი,ან Ctrl+Enter ვებგვერდზე არსებულ ბმულებზე">
+<!ENTITY middleClick.accesskey "შ">
+<!ENTITY middleClickMac.label "შუა წკაპი, &#8984;+წკაპი, ან &#8984;+Enter ვებგვერდზე არსებულ ბმულებზე">
+<!ENTITY middleClickMac.accesskey "შ">
+<!ENTITY urlbar.label "Ctrl+Enter მისამართების ველში">
+<!ENTITY urlbar.accesskey "ლ">
+<!ENTITY urlbarMac.label "&#8984;+Return მისამართების ველში">
+<!ENTITY urlbarMac.accesskey "ლ">
+
 <!ENTITY openManagers.label "ახალ ჩანართზე გახსნა, ფანჯრის ნაცვლად">
 <!ENTITY openDataManager.label "მონაცემთა მმართველი">
 <!ENTITY openDataManager.accesskey "მ">
