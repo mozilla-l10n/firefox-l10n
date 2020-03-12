@@ -22,6 +22,8 @@ certificate-viewer-country = ქვეყანა
 certificate-viewer-curve = მრუდი
 certificate-viewer-distribution-point = განაწილების წერტილი
 certificate-viewer-dns-name = DNS-სახელი
+certificate-viewer-ip-address = IP-მისამართი
+certificate-viewer-other-name = Სხვა სახელი
 certificate-viewer-exponent = ხარისხის მაჩვენებელი
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = გასაღებთა მიმოცვლის ჯგუფი
@@ -44,6 +46,7 @@ certificate-viewer-purposes = მიზნობრიობა
 certificate-viewer-qualifier = განმსაზღვრელი
 certificate-viewer-qualifiers = განმსაზღვრელები
 certificate-viewer-required = აუცილებელი
+certificate-viewer-unsupported = &lt;მხარდაუჭერელი&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = წარმ. მხარე/რეგიონი
 certificate-viewer-state-province = მხარე/რეგიონი
