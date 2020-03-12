@@ -235,6 +235,22 @@ gpu-description = Նկարագրութիւն
 gpu-vendor-id = Մատակարարի ID-ին
 gpu-device-id = Սարքի ID-ին
 gpu-subsys-id = Հանել ID֊ին
+gpu-drivers = Սարքաւարներ
+gpu-ram = RAM
+gpu-driver-vendor = Սարքի մատակարարը
+gpu-driver-version = Սարքի տարբերակը
+gpu-driver-date = Սարքավարի ամսաթիւը
+gpu-active = Գործուն
+webgl1-wsiinfo = WebGL 1 սարքաւարի տեղեկութիւն
+webgl1-renderer = WebGL 1 սարքաւարի նյութաւորիչ
+webgl1-version = WebGL 1 սարքաւարի տարբերակ
+webgl1-driver-extensions = WebGL 1 սարքաւարի ընդլայնում
+webgl1-extensions = WebGL 1 ընդլայնումներ
+webgl2-wsiinfo = WebGL 2 սարքաւարի WSI տեղեկութիւն
+webgl2-renderer = WebGL 2 սարքաւարի նյութաւորիչ
+webgl2-version = WebGL 2 սարքաւարի տարբերակ
+webgl2-driver-extensions = WebGL 2 սարքաւարի ընդլայնումներ
+webgl2-extensions = WebGL 2 ընդլայնումներ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
