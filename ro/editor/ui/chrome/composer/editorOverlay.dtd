@@ -311,7 +311,7 @@
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează mărimea fontului">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează dimensiunea fontului">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimensiunea fontului mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">

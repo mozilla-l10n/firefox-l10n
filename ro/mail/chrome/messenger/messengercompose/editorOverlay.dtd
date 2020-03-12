@@ -70,7 +70,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Alege mărimea fontului">
+<!ENTITY FontSizeSelect.tooltip "Alege o dimensiune a fontului">
 <!ENTITY decreaseFontSize.label "Mai mică">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -310,7 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează mărimea fontului">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează dimensiunea fontului">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimensiunea fontului mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
