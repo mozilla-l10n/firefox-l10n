@@ -148,6 +148,7 @@ intl-locales-supported = Հաւելուածի տեղամասեր
 intl-locales-default = Տեղանքների սկզբնադիր
 intl-os-title = Բանաւարիչ համակարգ
 intl-os-prefs-system-locales = Համակարգային տեղամասեր
+intl-regional-prefs = Տարածաշրջանային նախապատուութիւններ
 
 ## Remote Debugging
 ##
@@ -158,9 +159,19 @@ intl-os-prefs-system-locales = Համակարգային տեղամասեր
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Հեռակայ վրիպազերծում (Chromium հաղորդակարգ)
+remote-debugging-accepting-connections = Ընդունման կապակցումներ
+remote-debugging-url = URL
 
 ##
 
+# Variables
+# $days (Integer) - Number of days of crashes to log
+report-crash-for-days =
+    { $days ->
+        [one] Վթարի մասին հաշուետուութիիւններ վերջին { $days } աւրում
+       *[other] Վթարի զեկոյցները վերջին { $days } աւրում
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
