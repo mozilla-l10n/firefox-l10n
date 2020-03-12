@@ -123,6 +123,7 @@ cfr-whatsnew-searchbar-title = Adres çubuğuna daha az yazın, daha çok bulun
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Adres çubuğuna tek bir tıklamayla en çok kullandığınız sitelere ulaşın. { $searchEngineName } sonuçları ve gezinti geçmişinizden gelen sonuçlar bir arada.
 cfr-whatsnew-searchbar-body-generic = Adres çubuğuna tek bir tıklamayla en çok kullandığınız sitelere ulaşın. Gezinti geçmişinizden gelen sonuçlarla aradığınız daha hızlı bulun.
+cfr-whatsnew-searchbar-body-topsites = Şimdi adres çubuğunu seçin. Sık kullandığınız bağlantıları gösteren bir kutu açılacak.
 cfr-whatsnew-searchbar-icon-alt-text = Büyüteç simgesi
 
 ## Picture-in-Picture
