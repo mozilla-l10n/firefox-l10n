@@ -4,6 +4,7 @@
 
 screenshots-context-menu = Prendre una captura d’ecran
 screenshots-my-shots-button = Mas capturas
+screenshots-instructions = Lisatz o clicatz sus la pagina per seleccionar una region. Quichatz ESC per anullar.
 screenshots-cancel-button = Anullar
 screenshots-save-visible-button = Capturar la part visibla
 screenshots-save-page-button = Captura tota la pagina
