@@ -22,6 +22,8 @@ certificate-viewer-country = Kraj
 certificate-viewer-curve = Kśiwanka
 certificate-viewer-distribution-point = Rozdźěleński dypk
 certificate-viewer-dns-name = DNS-mě
+certificate-viewer-ip-address = IP-adresa
+certificate-viewer-other-name = Druge mě
 certificate-viewer-exponent = Eksponent
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Kupka za wuměnu klucow
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Zaměry
 certificate-viewer-qualifier = Kwalifikator
 certificate-viewer-qualifiers = Kwalifikatory
 certificate-viewer-required = Trěbny
+certificate-viewer-unsupported = &lt;njepódprěty&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Zwězkowy kraj zapisanja
 certificate-viewer-state-province = Zwězkowy kraj
