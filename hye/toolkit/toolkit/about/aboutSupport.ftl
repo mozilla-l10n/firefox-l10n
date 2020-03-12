@@ -227,6 +227,14 @@ virtual-monitor-disp = Իրական ցուցասարքի ցուցադրում
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Գտնուել է
+missing = Բացակայում է
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
+gpu-description = Նկարագրութիւն
+gpu-vendor-id = Մատակարարի ID-ին
+gpu-device-id = Սարքի ID-ին
+gpu-subsys-id = Հանել ID֊ին
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
