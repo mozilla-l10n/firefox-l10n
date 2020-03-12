@@ -150,19 +150,19 @@ edit-trust-ca = O certificado “{ $certName }” representa uma autoridade cert
 
 delete-user-cert-title =
     .title = Apagar os meus certificados
-delete-user-cert-confirm = Tem a certeza de que pretende apagar estes certificados?
+delete-user-cert-confirm = Tem a certeza que pretende eliminar estes certificados?
 delete-user-cert-impact = Se apagar um dos seus certificados, não o poderá mais utilizar para se identificar.
 delete-ssl-cert-title =
     .title = Apagar exceções de certificados de servidores
-delete-ssl-cert-confirm = Tem a certeza de que pretende apagar estas exceções de segurança?
+delete-ssl-cert-confirm = Tem a certeza que pretende eliminar estas exceções de segurança do servidor?
 delete-ssl-cert-impact = Se apagar uma exceção de segurança, irá restaurar as verificações de segurança para os servidores, requerendo um certificado válido.
 delete-ca-cert-title =
     .title = Apagar ou desconfiar de certificados CA
-delete-ca-cert-confirm = Pediu para apagar estes certificados CA. Para certificados integrados, será removida toda a confiança que tem o mesmo efeito. Tem a certeza de que pretende apagar ou desconfiar?
+delete-ca-cert-confirm = Pediu para eliminar estes certificados CA. Para certificados integrados, será removida toda a confiança, que tem o mesmo efeito. Tem a certeza que pretende eliminar ou deixar de confiar?
 delete-ca-cert-impact = Se apagar ou desconfiar um certificado de uma autoridade certificada (CA), esta aplicação deixará de confiar de qualquer certificado dessa CA.
 delete-email-cert-title =
     .title = Apagar certificados de e-mail
-delete-email-cert-confirm = Tem a certeza de que pretende apagar os certificados de e-mail destas pessoas?
+delete-email-cert-confirm = Tem a certeza que pretende eliminar os certificados de e-mail destas pessoas?
 delete-email-cert-impact = Se apagar o certificado de e-mail de uma pessoa, já não será capaz de enviar e-mails encriptados para essa pessoa.
 # Used for semi-uniquely representing a cert.
 #

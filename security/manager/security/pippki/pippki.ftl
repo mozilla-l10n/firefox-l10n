@@ -22,7 +22,7 @@ reset-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Repor
-reset-password-text = Se remover a palavra-passe mestra, todas as suas palavras-passe da web/e-mail, dados de formulários, certificados pessoais e chaves privadas guardadas serão perdidas. Tem a certeza de que quer repor a palavra-passe mestra?
+reset-password-text = Se remover a palavra-passe mestra, todas as suas palavras-passe da Internet e e-mail, dados de formulários, certificados pessoais e chaves privadas guardadas serão esquecidas. Tem a certeza que pretende repor a palavra-passe mestra?
 
 ## Downloading cert dialog
 

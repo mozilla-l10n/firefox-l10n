@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Values for changepassword.xul -->
+<!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "Alterar palavra-passe mestra">
 <!ENTITY setPassword.tokenName.label "Dispositivo de segurança">
 <!ENTITY setPassword.oldPassword.label "Palavra-passe atual:">
@@ -10,10 +10,10 @@
 <!ENTITY setPassword.reenterPassword.label "Nova palavra-passe (novamente):">
 <!ENTITY setPassword.meter.label "Indicador de qualidade da palavra-passe">
 
-<!-- Values for resetpassword.xul -->
+<!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "Repor">
 <!ENTITY resetPassword.title  "Repor palavra-passe mestra">
-<!ENTITY resetPassword.text  "Se remover a palavra-passe mestra, todas as suas palavras-passe da web/e-mail, dados de formulários, certificados pessoais e chaves privadas guardadas serão perdidas. Tem a certeza de que quer repor a palavra-passe mestra?">
+<!ENTITY resetPassword.text  "Se remover a palavra-passe mestra, todas as suas palavras-passe da Internet e e-mail, dados de formulários, certificados pessoais e chaves privadas guardadas serão esquecidas. Tem a certeza que pretende redefinir a palavra-passe mestra?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "A transferir certificado">
