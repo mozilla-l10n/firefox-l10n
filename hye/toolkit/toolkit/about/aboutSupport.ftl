@@ -172,6 +172,34 @@ report-crash-for-days =
         [one] Վթարի մասին հաշուետուութիիւններ վերջին { $days } աւրում
        *[other] Վթարի զեկոյցները վերջին { $days } աւրում
     }
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } րոպե առաջ
+       *[other] { $minutes } րոպե առաջ
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } ժամ առաջ
+       *[other] { $hours } ժամ առաջ
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } աւր առաջ
+       *[other] { $days } աւր առաջ
+    }
+# Variables
+# $reports (integer) - Number of pending reports
+pending-reports =
+    { $reports ->
+        [one] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթար)
+       *[other] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթարներ)
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
