@@ -135,6 +135,8 @@ media-device-channels = Ալիքներ
 media-device-rate = Գնահատել
 media-device-latency = Աներեւ
 media-capabilities-title = Մեդիայ հնարաւորութիւններ
+# List all the entries of the database.
+media-capabilities-enumerate = Թուանշուած տուեալների բազայ
 
 ##
 
