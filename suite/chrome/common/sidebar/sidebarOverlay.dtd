@@ -17,7 +17,11 @@
 <!ENTITY sidebar.loading.label          "ჩატვირთვა…">
 <!ENTITY sidebar.loadstopped.label      "ჩატვირთვა შეჩერებულია">
 <!ENTITY sidebar.loading.stop.label     "შეჩერება">
-<!ENTITY sidebar.loading.stop.accesskey "S">
+<!ENTITY sidebar.loading.stop.accesskey "ჩ">
+
+<!-- LOCALIZATION NOTE (showHideSidebarCmd.key): This is only used on the
+     mac platform, other platforms use VK_F9. -->
+<!ENTITY showHideSidebarCmd.key         "S">
 
 <!ENTITY sidebar.no-panels.state     "გვერდითი ზოლი ამჟამად ცარიელია.">
 <!ENTITY sidebar.no-panels.add       'ჩანართების დამატება შეგიძლიათ „ჩანართების“ ღილაკზე დაწკაპებით.'>

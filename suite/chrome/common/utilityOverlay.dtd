@@ -6,7 +6,7 @@
 <!ENTITY  offlineGoOfflineCmd.label                 "კავშირგარეშე რეჟიმი">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "კ">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                   "ფაილი">
 <!ENTITY fileMenu.accesskey               "ფ">
@@ -32,6 +32,28 @@
 <!ENTITY printCmd.label "ამობეჭდვა…">
 <!ENTITY printCmd.accesskey "ჭ">
 <!ENTITY printCmd.key "P">
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "პარამეტრები…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "მომსახურებები">
+<!ENTITY hideThisAppCmd.label             "დამალვა – &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "დ">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "სხვების დამალვა">
+<!ENTITY hideOtherAppsCmd.key             "დ">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "ყველას გამოჩენა">
+<!ENTITY openHelpCmdMac.label             "&brandShortName; – დახმარება">
+<!ENTITY openHelpCmdMac.accesskey         "დ">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
+
+<!ENTITY quitApplicationCmd.label         "გამოსვლა">
+<!ENTITY quitApplicationCmdMac.label      "დაიხუროს &brandShortName;">
 
 <!ENTITY editMenu.label                   "ჩასწორება">
 <!ENTITY editMenu.accesskey               "ჩ">
@@ -62,13 +84,13 @@
 <!ENTITY selectAllCmd.label               "ყველას მონიშვნა">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "ყ">
-<!ENTITY clearHistoryCmd.label				"ძიების ისტორიის გასუფთავება">  
-<!ENTITY clearHistoryCmd.accesskey			"ტ"> 
-<!ENTITY showSuggestionsCmd.label			"შემოთავაზებათა ჩვენება">  
-<!ENTITY showSuggestionsCmd.accesskey		"ჩ"> 
-<!ENTITY preferencesCmd.label				"პარამეტრები…">
-<!ENTITY preferencesCmd.key					"E">  
-<!ENTITY preferencesCmd.accesskey			"პ"> 
+<!ENTITY clearHistoryCmd.label            "ძიების ისტორიის გასუფთავება">
+<!ENTITY clearHistoryCmd.accesskey        "ტ">
+<!ENTITY showSuggestionsCmd.label         "შემოთავაზებათა ჩვენება">
+<!ENTITY showSuggestionsCmd.accesskey     "ჩ">
+<!ENTITY preferencesCmd.label             "პარამეტრები…">
+<!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "პ">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,15 +110,18 @@
 <!ENTITY findTypeLinksCmd.label "ბმების ძებნა ტექსტის აკრეფისას">
 <!ENTITY findTypeLinksCmd.accesskey "კ">
 
-<!ENTITY viewMenu.label					"ჩვენება"> 
+<!ENTITY viewMenu.label                   "ჩვენება">
 <!ENTITY viewMenu.accesskey               "ვ">
-<!ENTITY viewToolbarsMenu.label				"ჩვენება/დამალვა"> 
-<!ENTITY viewToolbarsMenu.accesskey			"ე"> 
-<!ENTITY showTaskbarCmd.label					"მდგომარეობის ზოლი">  
-<!ENTITY showTaskbarCmd.accesskey				"მ"> 
+<!ENTITY viewToolbarsMenu.label           "ჩვენება/დამალვა">
+<!ENTITY viewToolbarsMenu.accesskey       "ე">
+<!ENTITY showTaskbarCmd.label             "მდგომარეობის ზოლი">
+<!ENTITY showTaskbarCmd.accesskey         "მ">
 
-<!ENTITY helpMenu.label					"დახმარება"> 
-<!ENTITY helpMenu.accesskey				"დ"> 
+<!ENTITY helpMenu.label                   "დახმარება">
+<!ENTITY helpMenu.accesskey               "დ">
+
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
 
 <!ENTITY helpTroubleshootingInfo.label      "გაუმართაობის აღმოფხვრა">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ღ">
@@ -106,28 +131,29 @@
 <!ENTITY helpSafeMode.accesskey             "ხ">
 <!ENTITY updateCmd.label                    "შემოწმება განახლებებზე…">
 <!ENTITY updateCmd.accesskey                "შ">
-<!ENTITY aboutCmd.label					"&brandShortName; პროგრამის შესახებ">
-<!ENTITY aboutCmd.accesskey				"ბ">
-<!ENTITY aboutCommPluginsCmd.label			"მოდულების შესახებ">
-<!ENTITY aboutCommPluginsCmd.accesskey			"ო">
+<!ENTITY aboutCmd.label                     "&brandShortName; პროგრამის შესახებ">
+<!ENTITY aboutCmd.accesskey                 "ბ">
+<!ENTITY aboutCommPluginsCmd.label          "მოდულების შესახებ">
+<!ENTITY aboutCommPluginsCmd.accesskey      "ო">
 
-<!ENTITY direct.label                                   "ხაზზე (პროქსი: არა)">
-<!ENTITY direct.accesskey                               "ხ">
-<!ENTITY manual.label                                   "ხაზზე (პროქსი: მითითება)">
-<!ENTITY manual.accesskey                               "მ">
-<!ENTITY pac.label                                      "ხაზზე (პროქსი: ავტო URL)">
-<!ENTITY pac.accesskey                                  "ვ">
-<!ENTITY wpad.label                                     "ხაზზე (პროქსი: თვითდადგენა)">
-<!ENTITY wpad.accesskey                                 "თ">
-<!ENTITY system.label                                   "ხაზზე (პროქსი: სისტემური პროქსი)">
-<!ENTITY system.accesskey                               "ტ">
+<!ENTITY direct.label                             "ხაზზე (პროქსი: არა)">
+<!ENTITY direct.accesskey                         "ხ">
+<!ENTITY manual.label                             "ხაზზე (პროქსი: მითითება)">
+<!ENTITY manual.accesskey                         "მ">
+<!ENTITY pac.label                                "ხაზზე (პროქსი: ავტო URL)">
+<!ENTITY pac.accesskey                            "ვ">
+<!ENTITY wpad.label                               "ხაზზე (პროქსი: თვითდადგენა)">
+<!ENTITY wpad.accesskey                           "თ">
+<!ENTITY system.label                             "ხაზზე (პროქსი: სისტემური პროქსი)">
+<!ENTITY system.accesskey                         "ტ">
 
-<!ENTITY proxy.label                                    "პროქსის გამართვა…">
-<!ENTITY proxy.accesskey                                "მ">
+<!ENTITY proxy.label                              "პროქსის გამართვა…">
+<!ENTITY proxy.accesskey                          "მ">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "ტექსტის მიმართულების გადართვა">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "მ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY customizeToolbarContext.label            "მორგება…">
 <!ENTITY customizeToolbarContext.accesskey        "ო">
