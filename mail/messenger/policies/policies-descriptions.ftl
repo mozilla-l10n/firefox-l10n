@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Setează politicile pe care WebExtensions le poate accesa prin chrome.storage.managed.
+policy-AppAutoUpdate = Activează sau dezactivează actualizarea automată a aplicației.
 policy-AppUpdateURL = Setează URL personalizat de actualizare a aplicațiilor.
 policy-Authentication = Configurează autentificarea integrată pentru site-urile care o acceptă.
 policy-BlockAboutAddons = Blochează accesul la Managerul de suplimente (about:addons).
