@@ -22,6 +22,8 @@ certificate-viewer-country = Țară
 certificate-viewer-curve = Curbă
 certificate-viewer-distribution-point = Punct de distribuție
 certificate-viewer-dns-name = Denumire DNS
+certificate-viewer-ip-address = Adresă IP
+certificate-viewer-other-name = Alt nume
 certificate-viewer-exponent = Exponent
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grup de schimb de chei
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Scopuri
 certificate-viewer-qualifier = Calificativ
 certificate-viewer-qualifiers = Calificative
 certificate-viewer-required = Obligatoriu
+certificate-viewer-unsupported = &lt;fără suport&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Stat/Provincie firmă
 certificate-viewer-state-province = Stat/Provincie
