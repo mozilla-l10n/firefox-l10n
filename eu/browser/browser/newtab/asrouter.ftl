@@ -123,6 +123,7 @@ cfr-whatsnew-searchbar-title = Idatzi gutxiago eta aurkitu gehiago helbide-barra
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Sartu gehien bisitatzen dituzun webguneetara helbide-barran klik bakarra eginez. Bilatu gauzak azkarrago { $searchEngineName } bilatzaileko eta zure nabigatze-historiako emaitzekin.
 cfr-whatsnew-searchbar-body-generic = Sartu gehien bisitatzen dituzun webguneetara helbide-barran klik bakarra eginez. Bilatu gauzak azkarrago bilatzaileko eta zure nabigatze-historiako emaitzekin.
+cfr-whatsnew-searchbar-body-topsites = Orain, hautatu helbide-barra eta kutxa bat hedatuko da zure zure gune erabilienetarako loturekin.
 cfr-whatsnew-searchbar-icon-alt-text = Luparen ikonoa
 
 ## Picture-in-Picture
