@@ -42,7 +42,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrie">
-<!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, utilizarea, hardware-ul și personalizările clientului tău de e-mail cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY telemetryDesc.label             "Partajează cu &vendorShortName; date privind performanța, utilizarea, hardware-ul și personalizările clientului tău de e-mail pentru a ne ajuta să îmbunătățim &brandShortName;">
 <!ENTITY enableTelemetry.label           "Activează telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
