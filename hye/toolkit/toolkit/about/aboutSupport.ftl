@@ -102,7 +102,17 @@ a11y-force-disabled = Կանխել հասանելիութիւնը
 a11y-handler-used = Աւգտագործուող մատչելի բեռնաթափիչ
 a11y-instantiator = Մատչելիութեան հրահանգիչ
 library-version-title = Շտեմարանի տարբերակները
+copy-text-to-clipboard-label = Պատճենել գրոյթը սեղմատախտակի վրայ
+copy-raw-data-to-clipboard-label = Պատճենել գծագրական տուեալները սեղմատախտակի վրայ
+sandbox-title = Աւազատուփ
+sandbox-sys-call-log-title = Մերժուած համակարգային զանգեր
 sandbox-sys-call-index = #
+sandbox-sys-call-age = Վայրկեան առաջ
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = Ընթացքի տեսակը
+sandbox-sys-call-number = Համզանգ
+sandbox-sys-call-args = Փաստարկներ
 
 ## Media titles
 
