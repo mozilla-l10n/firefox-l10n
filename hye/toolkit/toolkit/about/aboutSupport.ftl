@@ -200,9 +200,14 @@ pending-reports =
         [one] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթար)
        *[other] Վթարի բոլոր զեկոյցները (ներառեալ նշուած ժամանակում { $reports } սպասող վթարներ)
     }
+raw-data-copied = Չմշակուած տուեալները պատճենուել են սեղմատախտակի վրայ
+text-copied = Գրոյթը պատճենուած է սեղմատախտակի վրայ
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+blocked-driver = Արգելուած է տեսասարքի սարքաւարի տարբերակի կողմից։
+blocked-gfx-card = Արգելուած է տեսաքարտի կողմից՝ անյայտ պատճառով։
+blocked-os-version = Կասեցուած է Ձեր գործաւար համակարգի տարբերակի համար:
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
