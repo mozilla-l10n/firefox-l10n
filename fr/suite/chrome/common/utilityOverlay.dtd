@@ -27,7 +27,7 @@
 <!ENTITY newPrivateWindowCmd.accesskey "p">
 <!ENTITY closeCmd.label "Fermer">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.accesskey "F">
 <!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Aperçu avant impression">
