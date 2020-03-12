@@ -113,9 +113,12 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Ընթացքի տեսակը
 sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
+safe-mode-title = Աւգտ. Յուսալի կերպը
+restart-in-safe-mode-label = Վերամեկնարկել՝ անջատելով յաւելումները...
 
 ## Media titles
 
+audio-backend = Ձայնային հետընթաց
 
 ##
 
