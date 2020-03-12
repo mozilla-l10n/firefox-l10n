@@ -144,6 +144,10 @@ intl-title = Միջազգայնացում եւ տեղայնացում
 intl-app-title = Հաւելուածի կարգաւորումներ
 intl-locales-requested = Հարցուած տեղանքներ
 intl-locales-available = Հասանելի տեղանքներ
+intl-locales-supported = Հաւելուածի տեղամասեր
+intl-locales-default = Տեղանքների սկզբնադիր
+intl-os-title = Բանաւարիչ համակարգ
+intl-os-prefs-system-locales = Համակարգային տեղամասեր
 
 ## Remote Debugging
 ##
