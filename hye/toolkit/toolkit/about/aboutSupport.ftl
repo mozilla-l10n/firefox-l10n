@@ -102,6 +102,7 @@ a11y-force-disabled = Կանխել հասանելիութիւնը
 a11y-handler-used = Աւգտագործուող մատչելի բեռնաթափիչ
 a11y-instantiator = Մատչելիութեան հրահանգիչ
 library-version-title = Շտեմարանի տարբերակները
+sandbox-sys-call-index = #
 
 ## Media titles
 
