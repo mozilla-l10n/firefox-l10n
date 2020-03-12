@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">
 <!ENTITY preferencesCmdUnix.accesskey     "რ">
 
+<!ENTITY customizeCmd.label "მორგება">
+<!ENTITY customizeCmd.accesskey "რ">
+
 <!ENTITY viewMenu.label          "ჩვენება">
 <!ENTITY viewMenu.accesskey        "ვ">
 <!ENTITY viewToolbarsMenu.label        "ხელსაწყოთა ზოლები">
