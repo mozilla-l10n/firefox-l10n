@@ -878,6 +878,7 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 ## Privacy Section - Content Blocking
 
 content-blocking-header = חסימת תוכן
+content-blocking-enhanced-tracking-protection = הגנת מעקב מתקדמת
 content-blocking-section-top-level-description = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
 content-blocking-learn-more = מידע נוסף
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

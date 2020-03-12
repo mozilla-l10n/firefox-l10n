@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "ניפוי שגיאות פריסה">
 <!ENTITY ldbCmd.accesskey "פ">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "מ">
 <!ENTITY exitFullScreenCmd.label "יציאה ממסך מלא">
 <!ENTITY exitFullScreenCmd.accesskey "י">
+
 <!ENTITY fullScreenCmd.label "מסך מלא">
 <!ENTITY fullScreenCmd.accesskey "ס">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,8 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "התחברות מחדש אל &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "אימות החשבון שלך">
 
-
- <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "מזעור">
 <!ENTITY fullScreenRestore.tooltip "שחזור">
@@ -174,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "הגדרות חשבון">
 <!ENTITY fxa.menu.manageAccount2.label "ניהול חשבון">
 <!ENTITY fxa.menu.signOut.label "התנתקות…">
-<!ENTITY fxa.menu.deviceSettings.label "הגדרות מכשיר">
 <!ENTITY fxa.menu.setupSync.label "הגדרת &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -217,7 +213,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "סימניות">
 <!ENTITY bookmarksMenu.accesskey "ס">
-
 <!ENTITY bookmarkThisPageCmd.label "יצירת סימנייה לדף זה">
 <!ENTITY editThisBookmarkCmd.label "עריכת סימנייה זו">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -242,8 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "מ">
 <!ENTITY stopCmd.label                "עצירה">
 <!ENTITY stopCmd.accesskey            "ע">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "מעבר לכתובת שבסרגל המיקום">
 <!ENTITY printButton.label            "הדפסה">
 <!ENTITY printButton.tooltip          "הדפסת דף זה">
@@ -275,8 +270,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ניהול השימוש בתכניות DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "פתיחת חלונית MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "הענקת לאתר זה הרשאות נוספות.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "חסמת את המצלמה שלך עבור אתר זה.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "חסמת את המיקרופון שלך עבור אתר זה.">
 <!ENTITY urlbar.screenBlocked.tooltip            "חסמת מפני האתר הזה את האפשרות לשתף את המסך שלך.">
@@ -289,6 +282,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "חסמת מפני האתר הזה את האפשרות להשתמש בתוסף החיצוני Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
 <!ENTITY urlbar.installBlocked.tooltip           "חסמת התקנת תוספות עבור אתר זה.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "הענקת לאתר זה הרשאות נוספות.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
@@ -415,7 +410,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "שחזור הפעלה קודמת">
 
 <!ENTITY showAllHistoryCmd2.label "הצגת כל ההיסטוריה">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
@@ -496,6 +490,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "עוד">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "חיפוש או הקלדת כתובת">
 <!ENTITY urlbar.accesskey             "ח">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -595,7 +590,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "מ">
 <!ENTITY showOnlyThisFrameCmd.label     "הצגת מסגרת זו בלבד">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ה">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "טעינת מסגרת מחדש">
 <!ENTITY reloadFrameCmd.accesskey     "ט">
@@ -629,6 +623,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
 <!ENTITY bookmarkThisFrameCmd.label      "יצירת סימנייה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
+
 <!ENTITY pageAction.copyLink.label    "העתקת קישור">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -642,11 +637,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
 <!ENTITY emailPageCmd.accesskey       "ד">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "שמירת דף בשם…">
 <!ENTITY savePageCmd.accesskey        "ר">
-<!ENTITY savePageCmd.accesskey2       "ב">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "ב">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "שמירת מסגרת בשם…">
 <!ENTITY saveFrameCmd.accesskey       "מ">
@@ -750,20 +744,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ק">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "התרחקות">
 <!ENTITY fullZoomReduceCmd.accesskey    "ר">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "איפוס">
 <!ENTITY fullZoomResetCmd.accesskey     "א">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -787,7 +778,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "סגירה">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "ג">
 
@@ -813,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "פ">
 <!ENTITY bidiSwitchTextDirectionItem.label        "הפוך כיוון כתיבה">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "כ">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "חיפוש בדף זה…">
@@ -843,18 +832,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "חיבור">
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
-
-<!ENTITY identity.connectionSecure3 "החיבור מאובטח">
-<!ENTITY identity.connectionNotSecure2 "החיבור אינו מאובטח">
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
-<!ENTITY identity.connectionVerified3 "התחברת לאתר זה באופן מאובטח.">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
 <!ENTITY identity.extensionPage "עמוד זה נטען מתוך הרחבה.">
 <!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
 <!ENTITY identity.customRoot "חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "האישור הונפק עבור:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים מהדף שאינם בטוחים.">
@@ -889,16 +872,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "ניקוי עוגיות ונתוני אתרים…">
 
 <!ENTITY identity.permissions "הרשאות">
-
-<!ENTITY identity.permissions3 "הרשאות">
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
 <!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
 <!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות חסימת תוכן">
 
 
+<!ENTITY protections.etpON.header "הגנת מעקב מתקדמת פעילה עבור אתר זה">
+<!ENTITY protections.etpOFF.header "הגנת מעקב מתקדמת כבויה עבור אתר זה">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "מידע נוסף על הגנת מעקב מתקדמת">
 <!ENTITY protections.settings.label "הגדרות הגנה">
 <!ENTITY protections.showreport.label "הצגת דוח">
 <!-- LOCALIZATION NOTE:
