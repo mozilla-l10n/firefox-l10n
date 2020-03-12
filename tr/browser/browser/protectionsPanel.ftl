@@ -4,4 +4,4 @@
 
 protections-panel-sendreportview-error = Rapor gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Site düzeltildi mi? Bize bildirin
+protections-panel-sitefixedsendreport-label = Site düzeldi mi? Bize bildirin
