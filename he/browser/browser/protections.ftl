@@ -33,6 +33,7 @@ protection-report-header-details-custom = רמת ההגנה <b>מותאמת אי
     .title = מעבר להגדרות פרטיות
 protection-report-page-title = הגנות פרטיות
 protection-report-content-title = הגנות פרטיות
+etp-card-title = הגנת מעקב מתקדמת
 etp-card-content = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
 protection-report-etp-card-content-custom-not-blocking = כל ההגנות כבויות כרגע. ניתן לבחור באילו רכיבי מעקב יש לחסום על־ידי ניהול הגדרות ההגנות של { -brand-short-name }.
 protection-report-manage-protections = ניהול הגדרות
