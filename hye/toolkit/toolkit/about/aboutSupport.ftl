@@ -123,6 +123,18 @@ max-audio-channels = Առաւելագոյն կապուղիներ
 channel-layout = Նախընտրելի ալիքի դասաւորութիւնը
 sample-rate = Նախընտրելի նմուշի փոխարժեքը
 media-title = Մեդիայ
+media-output-devices-title = Արտածելու սարքեր
+media-input-devices-title = Ներածելու սարքեր
+media-device-name = Անուն
+media-device-group = Խումբ
+media-device-vendor = Մատակարար
+media-device-state = Վիճակ
+media-device-preferred = Նախընտրելի
+media-device-format = Ձեւաչափ
+media-device-channels = Ալիքներ
+media-device-rate = Գնահատել
+media-device-latency = Աներեւ
+media-capabilities-title = Մեդիայ հնարաւորութիւններ
 
 ##
 
