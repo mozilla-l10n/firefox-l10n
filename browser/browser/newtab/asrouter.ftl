@@ -129,6 +129,7 @@ cfr-whatsnew-searchbar-title = Typ minder, fyn mear mei de adresbalke
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Besykje jo meas tbesochte websites mei ien klik yn de adresbalke. Fyn dingen flugger mei resultaten fan { $searchEngineName } en jo navigaasjeskiednis.
 cfr-whatsnew-searchbar-body-generic = Besykje jo meast besochte websites mei ien klik yn de adresbalke. Fyn dingen flugger mei sykresultaten út jo navigaasjeskiednis.
+cfr-whatsnew-searchbar-body-topsites = Selektearje no ienfâldichwei de adresbalke en in fek sil útwreidzje mei fluchkeppelingen nei jo topwebsites.
 cfr-whatsnew-searchbar-icon-alt-text = Fergrutglêspiktogram
 
 ## Picture-in-Picture
