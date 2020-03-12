@@ -115,6 +115,7 @@
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Hjälp">
+<!ENTITY openHelpCmd.label                "Hjälpinnehåll">
 
 <!ENTITY helpForIEUsers.label               "För Internet Explorer-användare">
 <!ENTITY helpTroubleshootingInfo.label      "Felsökningsinformation">
