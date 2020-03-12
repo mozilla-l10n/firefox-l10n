@@ -265,6 +265,11 @@ d3d9video-crash-guard = D3D9 տեսանիւթի ապակոդաւորիչ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX  տեսանիւթի ապակոդաւորիչ
 reset-on-next-restart = Վերակայել յաջորդ վերամեկնարկումից յետոյ
+gpu-process-kill-button = Աւարտել GPU գործընթացը
+gpu-device-reset = Սարքի վերականգնում
+gpu-device-reset-button = Ձգանող սարքի վերականգնում
+uses-tiling = Կցաշարման աւգտագործում
+content-uses-tiling = Կցաշարման աւգտագործման (Բովանդակութիւն)
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
