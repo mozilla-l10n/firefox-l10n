@@ -22,6 +22,8 @@ certificate-viewer-country = Negara
 certificate-viewer-curve = Kurva
 certificate-viewer-distribution-point = Titik Distribusi
 certificate-viewer-dns-name = Nama DNS
+certificate-viewer-ip-address = Alamat IP
+certificate-viewer-other-name = Nama Lain
 certificate-viewer-exponent = Eksponen
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grup Pertukaran Kunci
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Penggunaan
 certificate-viewer-qualifier = Kualifikasi
 certificate-viewer-qualifiers = Kualifikasi
 certificate-viewer-required = Diwajibkan
+certificate-viewer-unsupported = &lt;tidak didukung&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Perusahaan Negara Bagian/Provinsi
 certificate-viewer-state-province = Negara Bagian/Provinsi
