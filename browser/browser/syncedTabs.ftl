@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Onglets sincronizats
 synced-tabs-sidebar-noclients-subtitle = Volètz afichar los onglets dels vòstres autres periferics aquí ?
 synced-tabs-sidebar-notsignedin = Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.
+synced-tabs-sidebar-intro = Mostrar la lista dels onglets de vòstres autres periferics.
 synced-tabs-sidebar-unverified = Vos cal verificar vòstre compte.
 synced-tabs-sidebar-notabs = Pas cap d’onglet dobèrt
 synced-tabs-sidebar-openprefs = Dobrir las preferénciias del { -sync-brand-short-name }

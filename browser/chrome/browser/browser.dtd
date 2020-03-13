@@ -142,6 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Verificatz vòstra adreça electronica">
+<!ENTITY fxa.unverified.description.label "Vos cal verificar vòstre compte abans de poder sincronizar.">
 <!ENTITY fxa.unverified.button.label "Dobrir los paramètres de &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -151,6 +152,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.manageAccount.label "Gestion del compte…">
 <!ENTITY fxa.menu.syncSettings.label "Paramètres de &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Amagar lo boton Imatge incrustada">
+<!ENTITY pictureInPictureHideToggle.accesskey "A">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -192,6 +195,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "Imatge incrustada">
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
