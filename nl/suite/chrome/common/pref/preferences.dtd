@@ -2,14 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  windowClose.key                  "w">
+<!ENTITY  windowClose.key "w">
 <!ENTITY  preferencesDefaultTitleMac.title "Voorkeuren">
 <!ENTITY  preferencesDefaultTitleWin.title "Opties">
-<!ENTITY  preferencesCloseButton.label     "Sluiten">
+<!ENTITY  preferencesCloseButton.label "Sluiten">
 <!ENTITY  preferencesCloseButton.accesskey "S">
 
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Voorkeuren">
+<!ENTITY prefWindow.size "width: 102ch; height: 44em;">
+<!ENTITY prefWindowMac.size "width: 62em; height: 41em;">
+<!ENTITY prefWindowWin.size "width: 115ch; height: 43em;">
 <!ENTITY categoryHeader "Categorie">
 
 <!ENTITY appear.label "Vormgeving">
@@ -17,7 +20,7 @@
 <!ENTITY fonts.label "Lettertypen">
 <!ENTITY colors.label "Kleuren">
 <!ENTITY media.label "Media">
-<!ENTITY spellingPane.label  "Spelling">
+<!ENTITY spellingPane.label "Spelling">
 
 <!ENTITY navigator.label "Browser">
 <!ENTITY history.label "Geschiedenis">

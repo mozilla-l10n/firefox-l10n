@@ -22,6 +22,10 @@
 
 <!ENTITY openTabs.label "Tabbladen in plaats van vensters openen voor">
 
+<!ENTITY middleClick.label "Klikken met de middelste muisknop, Ctrl+klikken of Ctrl+Enter op koppelingen in een webpagina">
+<!ENTITY middleClick.accesskey "K">
+<!ENTITY middleClickMac.label "Klikken met de middelste muisknop, &#8984;+klikken of &#8984;+Return op koppelingen in een webpagina">
+
 <!ENTITY openManagers.label "In een nieuw tabblad openen in plaats van in een onafhankelijk venster">
 <!ENTITY openDataManager.label "Gegevensbeheerder">
 <!ENTITY openDataManager.accesskey "G">
