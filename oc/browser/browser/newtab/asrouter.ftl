@@ -93,6 +93,9 @@ cfr-whatsnew-panel-header = Qué de nòu
 cfr-whatsnew-release-notes-link-text = Legir la nòta de version
 cfr-whatsnew-fx70-title = { -brand-short-name } luta encara mai per vòstra vida privada
 cfr-whatsnew-tracking-protect-title = Protegissètz-vos dels traçadors
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } bloca los elements de seguiment dels malhums socials e intersites
+    mai populars  que vos pistan en linha.
 cfr-whatsnew-tracking-protect-link-text = Consultar vòstre rapòrt
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your

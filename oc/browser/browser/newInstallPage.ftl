@@ -18,4 +18,5 @@ sync-label = Picatz vòstra adreça electronica
 sync-input =
     .placeholder = Adreça electronica
 sync-button = Contunhar
+sync-terms = Se contunhatz, acceptatz las <a data-l10n-name="terms">Condicions d’utilizacion</a> e l’<a data-l10n-name="privacy">Avís de privacitat</a>.
 sync-learn = Ne saber mai

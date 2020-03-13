@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Navegacion privada)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Navegacion privada)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -85,6 +69,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Mostrar la notificacion
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Mostrar la demanda de geolocalizacion
+urlbar-xr-notification-anchor =
+    .tooltiptext = Dobrir lo panèl d’autorizasions per la realitat virtuala
+urlbar-storage-access-anchor =
+    .tooltiptext = Dobrir lo panèl de permissions tocant la navegacion
 urlbar-translate-notification-anchor =
     .tooltiptext = Traduire aquesta pagina
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -121,6 +109,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escrivètz mens, trobatz mai : cercatz amb { $engineName } dirèctament de la barra d’adreça.
 urlbar-search-tips-redirect = Començatz vòstra recèrca aquí per far veire las suggestions de { $engineName } e de vòstre istoric.
+urlbar-search-tips-redirect-2 = Començatz vòstra recèrca dins la barra d’adreça per mostrar las suggestions de { $engineName } e de vòstre istoric de navegacion.
 
 ##
 
@@ -231,6 +220,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Sètz pas connectat amb seguretat a aquel site.
 identity-connection-verified = Sètz connectat amb seguretat a aquel site.
 identity-ev-owner-label = Certificat emés per :
+identity-description-custom-root = Mozilla reconeis pas aqueste emissor de certificats. Benlèu que foguèt apondut per vòstre sistèma operatiu o per un administrator. <label data-l10n-name="link">Ne saber mai</label>
 identity-remove-cert-exception =
     .label = Suprimir l'excepcion
     .accesskey = L
