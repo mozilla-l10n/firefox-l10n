@@ -61,27 +61,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Уређивање
     .accesskey = У
-menu-edit-undo =
-    .label = Поништи
-    .accesskey = ш
-menu-edit-redo =
-    .label = Понови
-    .accesskey = П
-menu-edit-cut =
-    .label = Исеци
-    .accesskey = ц
-menu-edit-copy =
-    .label = Копирај
-    .accesskey = К
-menu-edit-paste =
-    .label = Налепи
-    .accesskey = Н
-menu-edit-delete =
-    .label = Избриши
-    .accesskey = ш
-menu-edit-select-all =
-    .label = Изабери све
-    .accesskey = а
 menu-edit-find-on =
     .label = Нађи на овој страници…
     .accesskey = Н
@@ -121,9 +100,6 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Умањи
     .accesskey = м
-menu-view-full-zoom-reset =
-    .label = Ресетуј
-    .accesskey = Р
 menu-view-full-zoom-toggle =
     .label = Увећај само текст
     .accesskey = т
@@ -274,8 +250,7 @@ menu-help-safe-mode-with-addons =
     .label = Рестартуј са омогућеним додацима
     .accesskey = д
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Пријави обманљив сајт…
     .accesskey = о

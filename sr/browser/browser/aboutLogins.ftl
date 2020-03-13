@@ -9,11 +9,6 @@ about-logins-page-title = Пријаве и лозинке
 login-filter =
     .placeholder = Претражи пријаве
 create-login-button = Направи нову пријаву
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Фавикон за { $title }
 fxaccounts-sign-in-text = Пронађите своје лозинке на свим својим уређајима
 fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -25,6 +20,8 @@ menu =
     .title = Отвори мени
 # This menuitem is only visible on Windows
 menu-menuitem-import = Увези лозинке...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Увези из другог прегледача…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Опције
@@ -66,7 +63,6 @@ about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-l
 
 login-item-new-login-title = Направи нову пријаву
 login-item-edit-button = Уреди
-login-item-delete-button = Избриши
 login-item-origin-label = Адреса веб странице
 login-item-origin =
     .placeholder = https://www.example.com
@@ -76,10 +72,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Копирај
 login-item-copied-username-button-text = Копирано!
 login-item-password-label = Лозинка
-login-item-password-reveal-checkbox-show =
-    .title = Прикажи лозинку
-login-item-password-reveal-checkbox-hide =
-    .title = Сакриј лозинку
 login-item-copy-password-button-text = Копирај
 login-item-copied-password-button-text = Копирано!
 login-item-save-changes-button = Сачувај промене
@@ -107,9 +99,7 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
-confirm-delete-dialog-title = Избрисати ову пријаву?
 confirm-delete-dialog-message = Ова радња је неопозива.
-confirm-delete-dialog-confirm-button = Избриши
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
