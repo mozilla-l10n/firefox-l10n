@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Sursa paginii">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informații privind pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depanator de așezare în pagină">
 <!ENTITY ldbCmd.accesskey "L">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Ieși din modul de ecran complet">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Ecran complet">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Reconectează-te în &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifică-ți contul">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
 <!ENTITY fullScreenRestore.tooltip "Restaurează">
@@ -163,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Setări">
+<!ENTITY fxa.menu.syncSettings2.label "Setări &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -175,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Setările contului">
 <!ENTITY fxa.menu.manageAccount2.label "Gestionează contul">
 <!ENTITY fxa.menu.signOut.label "Deconectează-te…">
-<!ENTITY fxa.menu.deviceSettings.label "Setările dispozitivului">
 <!ENTITY fxa.menu.setupSync.label "Configurare &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcaje">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "Marchează pagina">
 <!ENTITY editThisBookmarkCmd.label "Editează acest marcaj">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Oprește">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Mergi la adresa din bara de adrese">
 <!ENTITY printButton.label            "Tipărește">
 <!ENTITY printButton.tooltip          "Tipărește pagina">
@@ -417,7 +411,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaurează sesiunea anterioară">
 
 <!ENTITY showAllHistoryCmd2.label "Afișează tot istoricul">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
@@ -498,6 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mai multe">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Caută sau introdu adresa">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -597,7 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Reîncarcă cadrul">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -631,6 +624,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Marchează cadrul">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+
 <!ENTITY pageAction.copyLink.label    "Copiază linkul">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,11 +638,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Trimite linkul prin e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvează cadrul ca…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -752,20 +745,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Mărește">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Micșorează">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Resetează">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -789,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Închide">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -815,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Schimbă direcția textului">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Găsește în această pagină…">
@@ -845,19 +833,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Conexiune">
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
-
-<!ENTITY identity.connectionSecure3 "Conexiune securizată">
-<!ENTITY identity.connectionNotSecure2 "Conexiune nesecurizată">
-<!ENTITY identity.connectionNotSecureSecurityView "Nu ești conectat în mod securizat la acest site.">
 <!ENTITY identity.connectionFile "Pagina este stocată pe calculator.">
 <!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
-<!ENTITY identity.connectionVerified3 "Ești conectat în mod securizat la acest site.">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
 <!ENTITY identity.extensionPage "Această pagină a fost încărcată de la o extensie.">
 <!ENTITY identity.insecureLoginForms2 "Datele de autentificare introduse pe această pagină ar putea fi compromise.">
 <!ENTITY identity.customRoot "Conexiune verificată de un emițător de certificate nerecunoscut de Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Certificat emis către:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat părți de pe această pagină care nu sunt sigure.">
@@ -892,8 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Șterge cookie-urile și datele site-urilor…">
 
 <!ENTITY identity.permissions "Permisiuni">
-
-<!ENTITY identity.permissions3 "Permisiuni">
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
 <!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.">
 <!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele pentru permisiuni">
