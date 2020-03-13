@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "з">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Користи подразумевани звук">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "д">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Користите следећу звучну датотеку">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "У">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Прегледај…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "р">
 <!ENTITY pref.calendar.alarms.sound.play.label "Пусти">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "П">
 <!ENTITY pref.showalarmbox "Прикажи прозорче са подсетником">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "с">
-<!ENTITY pref.missedalarms "Прикажи пропуштене подсетнике">
 <!ENTITY pref.missedalarms2 "Прикажи пропуштене подсетнике за уписиве календаре">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "н">
 <!ENTITY pref.calendar.alarms.defaults.label "Подразумевано подсетника">

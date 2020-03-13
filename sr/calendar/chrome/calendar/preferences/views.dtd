@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Опште">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Прегледи по дану и недељи">
 <!ENTITY pref.calendar.view.multiweekview.caption "Више недељни преглед">
 <!ENTITY pref.calendar.view.workweek.caption "Радна недеља">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Прикажи број недеље у прегледима и мини-месецу">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "к">
 <!ENTITY pref.daysoff.label "Укључи ове дане у радну недељу:">
+
+<!ENTITY pref.workweekDays.label "Радни дани у недељи:">
 
 <!ENTITY pref.calendar.view.daystart.label "Дан почиње у:">
 <!ENTITY pref.calendar.view.daystart.accesskey "Д">

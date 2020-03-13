@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Подсетници">
 <!ENTITY  paneCategories.title    "Категорије">
 <!ENTITY  paneViews.title         "Прегледи">
+<!ENTITY  panelHeader.title       "Календар">
+<!ENTITY  panelReminder.title     "Подсетници">
+<!ENTITY  panelCategory.title     "Категорије">
