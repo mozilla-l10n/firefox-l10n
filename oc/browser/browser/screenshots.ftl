@@ -25,5 +25,7 @@ screenshots-request-error-title = Fonciona pas.
 screenshots-connection-error-title = Podèm pas nos connectar a vòstras capturas d’ecran.
 screenshots-connection-error-details = Mercés de verificar vòstre connexion Internet. Se podètz vos connectar a Internet, poiriá èsser un problèma temporari amb lo servici { -screenshots-brand-name }.
 screenshots-unshootable-page-error-title = Captura impossibla de la pagina.
+screenshots-unshootable-page-error-details = Aquò es pas una pagina web estandarda, doncas podètz pas prendre una captura d’ecran.
+screenshots-self-screenshot-error-title = Podètz pas prendre una captura d’ecran d’una pagina { -screenshots-brand-name } !
 screenshots-empty-selection-error-title = La seleccion est tròp pichona.
 screenshots-private-window-error-title = { -screenshots-brand-name } es desactivat en navegacion privada.
