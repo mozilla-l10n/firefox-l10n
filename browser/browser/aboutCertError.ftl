@@ -16,6 +16,28 @@ cert-error-trust-self-signed = Lo certificat es pas segur perque es autosignat.
 cert-error-trust-symantec = Los certificats emeses per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign son pas mai considerats coma segurs perque aquestas autoritats de certificacion fracassèron a respectar las bonas practicas dins lo passat.
 cert-error-untrusted-default = Lo certificat proven pas d'una font segura.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Los sites web pròvan lor identitat via de certificats. { -brand-short-name } se fisa pas d’aqueste site perque utiliza un certificat qu’es pas valid per { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Los sites web pròvan lor identitat via de certificats. { -brand-short-name } se fisa pas d’aqueste site perque utiliza un certificat qu’es pas valid per { $hostname }. Lo certificat es sonque valid per <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Los sites web pròvan lor identitat via de certificats. { -brand-short-name } se fisa pas d’aqueste site perque utiliza un certificat qu’es pas valid per { $hostname }. Lo certificat es sonque valid per { $alt-name }.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Los sites web pròvan lor identitat via de certificats. { -brand-short-name } se fisa pas d’aqueste site perque utiliza un certificat qu’es pas valid per { $hostname }. Lo certificat es sonque valid per los noms seguents { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now =  Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } expira lo { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now =  Los sites pròvan lor identitat via de certificats, que son pas que valids per un periòde de temps. Lo certificat per { $hostname } serà pas valid fins al { $not-after-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Còdi d’error : <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = Podètz avisar l’administrator d’aqueste site web d’aquel problèma.
