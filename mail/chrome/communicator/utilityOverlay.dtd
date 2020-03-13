@@ -37,6 +37,7 @@
 <!ENTITY preferencesCmdUnix.accesskey     "p">
 
 <!ENTITY customizeCmd.label "Personalizza">
+<!ENTITY customizeCmd.accesskey "z">
 
 <!ENTITY viewMenu.label          "Visualizza">
 <!ENTITY viewMenu.accesskey        "V">
