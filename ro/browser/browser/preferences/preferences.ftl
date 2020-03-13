@@ -646,7 +646,7 @@ sync-sign-in =
     .label = Autentifică-te
     .accesskey = g
 sync-signedin-settings-header = Setări de sincronizare
-sync-signedin-settings-desc = Alege ce să sincronizezi pe dispozitive folosind { -brand-short-name }.
+sync-signedin-settings-desc = Alege ce să se sincronizeze pe dispozitive folosind { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -683,7 +683,7 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog =
-    .title = Alege ce să sincronizezi
+    .title = Alege ce să se sincronizeze
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Salvează modificările
     .buttonaccesskeyaccept = S
