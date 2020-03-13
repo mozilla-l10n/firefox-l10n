@@ -98,6 +98,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> <li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle2 "Atencion : risc probable de seguretat">
+<!ENTITY certerror.sts.longpagetitle  "Connexion blocada : problèma potencial de seguretat">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -113,6 +114,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
+<!ENTITY xfoBlocked.title "Blocat per la politica X-Frame-Options">
 
 <!ENTITY corruptedContentErrorv2.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
@@ -131,6 +133,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.longDesc2 "Informacion avançada: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Atencion : risc probable de seguretat">
+<!ENTITY certerror.sts.pagetitle  "Connexion blocada : problèma potencial de seguretat">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 
 <!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
