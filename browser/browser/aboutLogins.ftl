@@ -26,6 +26,8 @@ menu =
     .title = Buka menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Impor Sandi…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Impor dari Peramban Lain…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Pengaturan
@@ -83,10 +85,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Salin
 login-item-copied-username-button-text = Tersalin!
 login-item-password-label = Sandi
-login-item-password-reveal-checkbox-show =
-    .title = Tampilkan sandi
-login-item-password-reveal-checkbox-hide =
-    .title = Sembunyikan sandi
 login-item-password-reveal-checkbox =
     .aria-label = Tampilkan sandi
 login-item-copy-password-button-text = Salin

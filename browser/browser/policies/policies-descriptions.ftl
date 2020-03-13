@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Tetapkan kebijakan yang dapat diakses WebExtensions melalui chrome.storage.managed.
+policy-AppAutoUpdate = Aktifkan atau nonaktifkan pembaruan aplikasi otomatis.
 policy-AppUpdateURL = Atur URL pemutakhiran aplikasi khusus
 policy-Authentication = Atur autentikasi terintegrasi untuk situs lain yang mendukung.
 policy-BlockAboutAddons = Blokir akses ke Pengelola Pengaya (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Setel nilai default untuk mengizinkan { -brand
 policy-OverrideFirstRunPage = Ganti laman pertama yang dibuka. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman pertama yang dibuka.
 policy-OverridePostUpdatePage = Ganti laman "Yang Baru" yang tampil setelah pembaruan. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman setelah pembaruan.
 policy-PasswordManagerEnabled = Aktifkan penyimpanan sandi melalui manajer sandi.
-policy-Permissions = Atur izin untuk kamera, mikrofon, lokasi, dan notifikasi.
 policy-Permissions2 = Atur izin untuk kamera, mikrofon, lokasi, notifikasi, dan putar-otomatis.
 policy-PopupBlocking = Izinkan situs tertentu untuk menampilkan pop-up secara otomatis.
 policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.
