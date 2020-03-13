@@ -5,10 +5,10 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "페이지 읽기 오류">
+<!ENTITY loadError.label "페이지 로딩 문제">
 <!ENTITY retry.label "다시 시도">
 <!ENTITY returnToPreviousPage.label "뒤로">
-<!ENTITY returnToPreviousPage1.label "뒤로(권장)">
+<!ENTITY returnToPreviousPage1.label "뒤로 (권장)">
 <!ENTITY advanced2.label "고급…">
 <!ENTITY viewCertificate.label "인증서 보기">
 
@@ -17,7 +17,7 @@
 <!ENTITY connectionFailure.title "연결할 수 없음">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "제한된 주소">
+<!ENTITY deniedPortAccess.title "이 주소는 제한되어 있음">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "서버를 찾을 수 없음">
