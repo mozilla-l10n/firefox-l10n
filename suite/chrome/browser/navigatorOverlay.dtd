@@ -56,11 +56,17 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Ga">
 <!ENTITY goMenu.accesskey "G">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Startpagina">
 <!ENTITY goHomeCmd.accesskey "S">
-<!ENTITY historyCmd.label           "Geschiedenis">
-<!ENTITY historyCmd.accesskey       "G">
-<!ENTITY history.commandKey         "h">
+<!ENTITY historyCmd.label "Geschiedenis">
+<!ENTITY historyCmd.accesskey "G">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
+<!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Onlangs gesloten tabbladen">
 <!ENTITY recentTabs.accesskey "t">
 <!ENTITY recentTabs.commandkey "t">
@@ -69,7 +75,7 @@
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Vorige sessie herstellen">
 <!ENTITY historyRestoreLastSession.accesskey "s">
-<!ENTITY syncTabsMenu.label         "Tabbladen van andere computers">
+<!ENTITY syncTabsMenu.label "Tabbladen van andere computers">
 <!ENTITY syncTabsMenu.accesskey "c">
 
 <!-- Bookmarks Menu -->
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Privégegevens wissen">
 <!ENTITY clearPrivateDataCmd.accesskey "P">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "v">
