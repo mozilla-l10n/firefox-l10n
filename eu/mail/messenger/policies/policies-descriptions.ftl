@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ezarri politikak WebExtension gehigarriek chrome.storage.managed bidez sarbidea izan dezaten.
+policy-AppAutoUpdate = Gaitu edo desgaitu aplikazioaren eguneraketa automatikoa.
 policy-AppUpdateURL = Ezarri aplikazioa-eguneraketen URL pertsonalizatua
 policy-Authentication = Konfiguratu onartzen duten webguneentzat integratutako autentifikazioa.
 policy-BlockAboutAddons = Blokeatu gehigarrien kudeatzailerako sarbidea (about:addons).
