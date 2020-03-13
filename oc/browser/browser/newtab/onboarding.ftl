@@ -19,12 +19,17 @@ onboarding-button-label-get-started = Per començar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
+onboarding-welcome-body = Avètz ja lo navegador.<br/>Descobrissètz la rèsta de { -brand-product-name }.
+onboarding-welcome-learn-more = Mai d’informacion suls avantatges.
+onboarding-welcome-modal-get-body = Avètz ja lo navegador.<br/>Ara aprofechatz de tot { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Maximalizatz vòstra proteccion privada.
 onboarding-welcome-form-header = Començatz aquí
 onboarding-join-form-header = Rejonhètz { -brand-product-name }
+onboarding-join-form-body = Picatz vòstra adreça electronica per començar.
 onboarding-join-form-email =
     .placeholder = Picatz una adreça electronica
 onboarding-join-form-email-error = Cal una adreça electronica valida
+onboarding-join-form-legal = Se contunhatz, acceptatz las <a data-l10n-name="terms">Condicions d’utilizacion</a> e l’<a data-l10n-name="privacy">Avís de privacitat</a>.
 onboarding-join-form-continue = Contunhar
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Avètz ja un compte ?
@@ -96,6 +101,7 @@ onboarding-firefox-send-button = Ensajatz { -send-brand-name }
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Telecargar lo navegador mobil
+onboarding-send-tabs-button = Començar d’utilizar « Enviar l’onglet »
 onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emportatz vòstres senhals pertot
 onboarding-lockwise-passwords-button2 = Obténer l’aplicacion

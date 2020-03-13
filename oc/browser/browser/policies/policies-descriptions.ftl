@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppAutoUpdate = Activar o desactivar la mesa a jorn automatica de las aplicacions.
 policy-AppUpdateURL = Permet de definir una URL de mesa a jorn personalizada per l’aplicacion.
 policy-Authentication = Configura l’autentificacion integrada pels sites web que la prepausan.
 policy-BlockAboutAddons = Bloca l’accès al gestionari de moduls (about:addons).
@@ -32,6 +33,7 @@ policy-DisableFirefoxStudies = Empacha { -brand-short-name } d’executar d’es
 policy-DisableForgetButton = Empacha l’accès al boton d’escafament de las donadas.
 policy-DisableFormHistory = Conservar pas d’istoric de las recèrcas e dels formularis.
 policy-DisableMasterPasswordCreation = Se activat, serà impossible de crear un senhal principal.
+policy-DisablePasswordReveal = Permetre pas de revelar los senhals dels identificants gardats.
 policy-DisablePocket = Desactiva la foncionalitat d’enregistrament de paginas web dins Pocket.
 policy-DisablePrivateBrowsing = Desactivar la navegacion privada.
 policy-DisableProfileImport = Desactiva la comanda de menú que permet d’importar de donadas a partir d’un autre navegador.
@@ -55,7 +57,6 @@ policy-InstallAddonsPermission = Autoriza certans sites web d'installar d'extens
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
 policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari de senhals.
-policy-Permissions = Configurar las autorizacions per la camèra, lo microfòn, lo localizacion e las notificacions.
 policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
 policy-PromptForDownloadLocation = Demandar ont enregistrar los fichièrs pendent lo telecargament.
 policy-Proxy = Configura los paramètres del servidor mandatari.
