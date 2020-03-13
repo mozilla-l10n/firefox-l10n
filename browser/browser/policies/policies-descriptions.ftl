@@ -38,7 +38,9 @@ policy-DisablePocket = Desactiva la foncionalitat d’enregistrament de paginas 
 policy-DisablePrivateBrowsing = Desactivar la navegacion privada.
 policy-DisableProfileImport = Desactiva la comanda de menú que permet d’importar de donadas a partir d’un autre navegador.
 policy-DisableProfileRefresh = Desactiva lo boton Actualizar de { -brand-short-name } dins la pagina about:support.
+policy-DisableSecurityBypass = Empachar l’utilizaire de contornejar d’avises de seguretat.
 policy-DisableSetAsDesktopBackground = Desactiva la comanda contèxtuala Causir l’image coma fons d’ecran pels imatges.
+policy-DisableSystemAddonUpdate = Empachar lo navegador d’installar o metre a jorn los moduls complementaris.
 policy-DisableTelemetry = Desactiva la telemetria.
 policy-DisplayBookmarksToolbar = Aficha la barra personala per defaut.
 policy-DisplayMenuBar = Aficha la barra de menús per defaut.
@@ -47,6 +49,7 @@ policy-DontCheckDefaultBrowser = Desactiva la verificacion del navegador per def
 policy-DownloadDirectory = Definir e varrolhar lo dorsièr de telecargament.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activa o desactiva lo blocatge del contengut e permet de clavar aqueste causida.
+policy-ExtensionSettings = Gerir totes los aspècte de l’installacion d’extensions.
 policy-ExtensionUpdate = Activar o desactivar la mesa a jorn automatica de las extensions.
 policy-FirefoxHome = Configurar l’acuèlh de Firefox.
 policy-FlashPlugin = Autoriza o pas l’utilizacion del plugin Flash.
@@ -54,6 +57,7 @@ policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definís la pagina d’acuèlh e prepausa de la verrolhar.
 policy-InstallAddonsPermission = Autoriza certans sites web d'installar d'extensions.
+policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
 policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari de senhals.
