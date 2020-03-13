@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "Novetats importantas">
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "Contunhar">
 
