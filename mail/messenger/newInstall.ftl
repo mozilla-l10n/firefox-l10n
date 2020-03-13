@@ -6,3 +6,4 @@ connection-window =
     .title = Berri garrantzitsuak
 continue-button =
     .label = Jarraitu
+main-text = { -brand-short-name } Instalazioak profil berria du. Honek ez ditu elkar-banatuko posta datu, pasahitz, erabiltzaile-hobespenak eta helbide liburuak ordenagailu honetako { -brand-product-name } beste instalazioekin ({ -brand-product-name }, { -brand-product-name } beta eta eguneko { -brand-product-name }.
