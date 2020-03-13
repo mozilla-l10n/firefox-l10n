@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "Fájl">
 <!ENTITY fileMenu.accesskey        "F">
@@ -35,6 +35,9 @@
 <!ENTITY preferencesCmd2.accesskey "B">
 <!ENTITY preferencesCmdUnix.label       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey     "B">
+
+<!ENTITY customizeCmd.label "Testreszabás">
+<!ENTITY customizeCmd.accesskey "T">
 
 <!ENTITY viewMenu.label          "Nézet">
 <!ENTITY viewMenu.accesskey        "N">
