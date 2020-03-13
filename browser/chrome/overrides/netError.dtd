@@ -22,7 +22,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "서버를 찾을 수 없음">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "사이트를 찾는데 문제가 발생하였습니다.">
+<!ENTITY dnsNotFound.title1 "해당 사이트를 찾는데 문제가 발생하였습니다.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>주소가 정확하다면 다음 세 가지를 시도해 보세요:</strong>
 <ul>
@@ -38,7 +38,7 @@
   <li>이동되었거나, 이름이 변경되었거나, 삭제된 파일을 보려고 하는 것은 아닌지 확인해 보세요.</li>
 </ul>">
 
-<!ENTITY fileAccessDenied.title "파일 접근 거부됨">
+<!ENTITY fileAccessDenied.title "파일 접근이 거부됨">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>삭제, 이동 또는 권한이 없어서 접근할 수 없습니다.</li>
@@ -115,7 +115,7 @@
     &brandShortName;가 웹에 접근할 수 있도록 허용되어 있는지 확인해 보세요.</li>
 </ul>">
 
-<!ENTITY redirectLoop.title "페이지 자동 바꾸기가 제대로 안 됨">
+<!ENTITY redirectLoop.title "페이지가 제대로 리디렉션되지 않음">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>이 문제는 드물게 해당 사이트에서 요구하는 쿠키를 차단하여 발생할 수
