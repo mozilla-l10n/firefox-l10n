@@ -80,11 +80,13 @@ newtab-menu-delete-history = Suprimir de l’istoric
 newtab-menu-save-to-pocket = Enregistrar dins { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimir de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
+newtab-menu-show-privacy-info = Nòstres esponsòrs e vòstra vida privada
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Acabat
 newtab-privacy-modal-header = Vòstra vida privada es importanta.
+newtab-privacy-modal-link = Ne saber mai sul respècte de la vida privada dins un onglet novèl
 
 ##
 
@@ -154,8 +156,11 @@ newtab-empty-section-highlights = Començatz de navegar e aquí vos mostrarem lo
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Sètz ja a jorn.
+newtab-discovery-empty-section-topstories-content = Tornatz mai tard per descobrir mai d’articles.
 newtab-discovery-empty-section-topstories-try-again-button = Tornar ensajar
 newtab-discovery-empty-section-topstories-loading = Cargament…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ops ! Sembla qu’aquesta seccion es pas complètament cargada.
 
 ## Pocket Content Section.
 
