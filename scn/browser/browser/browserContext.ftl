@@ -56,9 +56,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Agghiunci sta pàggina ê nzingalibbri
-    .accesskey = n
 main-context-menu-bookmark-add =
     .aria-label = Agghiunci sta pàggina ê nzingalibbri
     .accesskey = n
@@ -136,6 +133,26 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Sona
     .accesskey = S
+main-context-menu-media-play-speed-slow =
+    .label = Adaciu (0.5×)
+    .accesskey = A
+main-context-menu-media-play-speed-normal =
+    .label = Nurmali
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Lesta (1.25×)
+    .accesskey = L
+main-context-menu-media-play-speed-faster =
+    .label = Cchiù lesta (1.5×)
+    .accesskey = C
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Senza lìmiti (2×)
+    .accesskey = S
+main-context-menu-media-loop =
+    .label = Ripeti
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.

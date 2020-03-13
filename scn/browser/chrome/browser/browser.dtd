@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Còdici dâ pàggina">
 <!ENTITY pageSourceCmd.accesskey "d">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Nfurmazziuna dâ pàggina">
 <!ENTITY pageInfoCmd.accesskey "N">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Dùpprica a scheda">
 <!ENTITY mirrorTabCmd.accesskey "D">
@@ -111,6 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "t">
 <!ENTITY exitFullScreenCmd.label "Nesci di tuttu schirmu">
 <!ENTITY exitFullScreenCmd.accesskey "t">
+
 <!ENTITY fullScreenCmd.label "Tuttu schirmu">
 <!ENTITY fullScreenCmd.accesskey "t">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -124,9 +123,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Cullègati arrè cu &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Virìfica u to cuntu">
 
-
-<!ENTITY togglePictureInPicture.key2 "*">
-<!ENTITY togglePictureInPicture.key "+"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Arriduci">
 <!ENTITY fullScreenRestore.tooltip "Ricùpira">
@@ -172,7 +168,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Mpustazziuna dû cuntu">
 <!ENTITY fxa.menu.manageAccount2.label "Gistisci cuntu">
 <!ENTITY fxa.menu.signOut.label "Nesci…">
-<!ENTITY fxa.menu.deviceSettings.label "Mpustazziuna dû dispusitivu">
 <!ENTITY fxa.menu.setupSync.label "Mposta &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -213,7 +208,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "f">
 
 <!ENTITY bookmarksMenu.label "Nzingalibbri">
-
 <!ENTITY bookmarkThisPageCmd.label "Agghiunci sta pàggina ê nzingalibbri">
 <!ENTITY editThisBookmarkCmd.label "Cancia stu nzingalibbru">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -237,8 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "C">
 <!ENTITY stopCmd.label                "Ferma">
 <!ENTITY stopCmd.accesskey            "F">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Vai ô nnirizzu nnâ sbarra dî nnirizzi">
 <!ENTITY printButton.label            "Stampa">
 <!ENTITY printButton.tooltip          "Stampa sta pàggina">
@@ -402,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Ricùpira a sissiuni pricidenti">
 
 <!ENTITY showAllHistoryCmd2.label "Mustra tutta a cronuluggìa">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Mustra tutta a cronuluggìa">
@@ -479,6 +472,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Cchiù assai">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Cerca o metti nu nnirizzu">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Stinziuni:">
@@ -576,7 +570,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Mustra sulu stu quatru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Càrrica arrè u quatru">
 <!ENTITY reloadFrameCmd.accesskey     "C">
@@ -605,6 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.label      "Agghiunci sta lijami ê nzingalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
 <!ENTITY bookmarkThisFrameCmd.label      "Agghiunci stu quatru ê nzingalibbri">
+
 <!ENTITY pageAction.copyLink.label    "Copia a lijami">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -616,7 +610,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Manna lijami…">
 <!ENTITY emailPageCmd.accesskey       "M">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sarba a pàggina comu…">
 <!ENTITY savePageCmd.accesskey        "c">
 <!-- alternate for content area context menu -->
@@ -691,7 +684,8 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Mustra i cummani">
+<!ENTITY mediaShowControls.label     "Mustra i cumanni">
+<!ENTITY mediaHideControls.label     "Ammuccia i cumanni">
 <!ENTITY videoFullScreen.label       "Tuttu schirmu">
 <!ENTITY videoFullScreen.accesskey   "T">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -707,18 +701,15 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Cchiù granni">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Cchiù nicu">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Risetta">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -740,7 +731,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Chiuji">
-
 <!ENTITY closeCmd.key                   "W">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -753,7 +743,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-
 
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
@@ -773,11 +762,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 
 <!ENTITY identity.connectionNotSecure "A cunnissiuni nun è sicura">
-
 <!ENTITY identity.connectionFile "Sta pàggina è sarbata nnô to computer.">
 <!ENTITY identity.connectionInternal "Chista è na pàggina sicura di &brandShortName;.">
 <!ENTITY identity.insecureLoginForms2 "I firmati scritti nta sta pàggina cùrrinu rìsicu.">
-
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.passiveLoaded "Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).">
@@ -802,7 +789,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.label "Lèvacci a ccizziuni">
 
 <!ENTITY identity.moreInfoLinkText2 "Cchiù nfurmazziuna">
-
 
 
 <!ENTITY identity.permissionsReloadHint "Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.">
