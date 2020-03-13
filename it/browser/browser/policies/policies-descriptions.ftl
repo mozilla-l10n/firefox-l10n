@@ -21,6 +21,7 @@ policy-Bookmarks = Crea segnalibri nella barra dei segnalibri, nel menu segnalib
 policy-CaptivePortal = Attiva o disattiva supporto per captive portal.
 policy-CertificatesDescription = Aggiungi certificati o utilizza i certificati predefiniti (built-in).
 policy-Cookies = Consenti o nega ai siti web di impostare cookie.
+policy-DisabledCiphers = Disattiva cifrature.
 policy-DefaultDownloadDirectory = Imposta la cartella predefinita per i download.
 policy-DisableAppUpdate = Blocca l’aggiornamento del browser.
 policy-DisableBuiltinPDFViewer = Disattiva PDF.js, il lettore PDF integrato in { -brand-short-name }.
