@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from tasksOverlay.xul -->
+<!ENTITY minimizeWindowCmd.label "Minimaliseren">
+<!ENTITY minimizeWindowCmd.key "M">
+<!ENTITY zoomWindowCmd.label "Zoomen">
 <!ENTITY navigatorCmd.label "Browser">
 <!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
@@ -55,7 +58,7 @@
 <!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
-<!ENTITY syncSetup.label           "Sync instellen…">
-<!ENTITY syncSetup.accesskey       "c">
-<!ENTITY syncSyncNowItem.label     "Nu synchroniseren">
+<!ENTITY syncSetup.label "Sync instellen…">
+<!ENTITY syncSetup.accesskey "c">
+<!ENTITY syncSyncNowItem.label "Nu synchroniseren">
 <!ENTITY syncSyncNowItem.accesskey "c">
