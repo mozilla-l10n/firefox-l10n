@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Állítson be házirendeket, amelyeket a WebExtensionök a chrome.storage.managed segítségével érhetnek el.
+policy-AppAutoUpdate = Az automatikus alkalmazásfrissítés engedélyezése vagy letiltása.
 policy-AppUpdateURL = Egyéni alkalmazásfrissítési URL beállítása.
 policy-Authentication = Az integrált hitelesítés beállítása az azt támogató webhelyek számára.
 policy-BlockAboutAddons = Hozzáférés blokkolása a kiegészítőkezelőhöz (about:addons).
