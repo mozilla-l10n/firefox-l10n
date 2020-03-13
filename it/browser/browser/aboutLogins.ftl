@@ -93,6 +93,30 @@ login-item-time-changed = Ultima modifica: { DATETIME($timeChanged, day: "numeri
 login-item-time-created = Data creazione: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ultimo utilizzo: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Verificare la proprià identità per modificare le credenziali salvate.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = modificare le credenziali salvate
+
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Verificare la proprià identità per mostrare la password salvata.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = mostrare la password salvata
+
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Verificare la proprià identità per copiare la password salvata.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copiare la password salvata
+
 ## Master Password notification
 
 master-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
