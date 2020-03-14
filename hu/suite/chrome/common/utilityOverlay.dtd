@@ -46,7 +46,22 @@
 <!ENTITY hideThisAppCmd.label             "A &brandShortName; elrejtése">
 <!ENTITY hideThisAppCmd.key               "H">
 <!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "A többi elrejtése">
+<!ENTITY hideOtherAppsCmd.key             "H">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Összes megjelenítése">
+<!ENTITY openHelpCmdMac.label             "&brandShortName; Súgó">
+<!ENTITY openHelpCmdMac.accesskey         "S">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
 
+<!ENTITY quitApplicationCmd.label         "Kilépés">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "K">
+<!ENTITY quitApplicationCmdMac.label      "Kilépés a &brandShortName;ból">
+<!ENTITY quitApplicationCmdMac.accesskey  "K">
+<!ENTITY quitApplicationCmdUnix.label     "Kilépés">
+<!ENTITY quitApplicationCmdUnix.accesskey "K">
 
 <!ENTITY editMenu.label                   "Szerkesztés">
 <!ENTITY editMenu.accesskey               "z">
@@ -55,6 +70,7 @@
 <!ENTITY undoCmd.accesskey                "V">
 <!ENTITY redoCmd.label                    "Újra">
 <!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmdMac.key                   "Z">
 <!ENTITY redoCmd.accesskey                "r">
 <!ENTITY cutCmd.label                     "Kivágás">
 <!ENTITY cutCmd.key                       "X">
@@ -89,6 +105,8 @@
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findAgainCmd.label "Következő keresése">
 <!ENTITY findAgainCmd.key "g">
