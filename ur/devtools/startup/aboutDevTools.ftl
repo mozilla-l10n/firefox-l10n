@@ -23,4 +23,8 @@ features-responsive-title = رسپانسو ڈیزائن موڈ
 features-visual-editing-title = بصری تدوین
 features-performance-title = کارکردگی
 features-memory-title = یاداشت
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = رکنیت کی درخواست ناکام ہوگئی { $errorDescription }
+newsletter-error-unknown = ایک غیرمتوقع نقص پیش آگیا ہے۔
 newsletter-error-timeout = رکنیت درخواست کا وقت ختم ہوگیا۔
