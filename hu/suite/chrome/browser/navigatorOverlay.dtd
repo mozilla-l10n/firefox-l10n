@@ -56,10 +56,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Ugrás">
 <!ENTITY goMenu.accesskey "U">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Kezdőlap">
 <!ENTITY goHomeCmd.accesskey "K">
 <!ENTITY historyCmd.label "Előzmények">
 <!ENTITY historyCmd.accesskey "l">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Nemrég bezárt lapok">
 <!ENTITY recentTabs.accesskey "N">
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése…">
 <!ENTITY clearPrivateDataCmd.accesskey "S">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
