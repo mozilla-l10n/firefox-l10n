@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-import-from-another-browser =
-    .label = 從另一個瀏覽器匯入…
+    .label = 從另一套瀏覽器匯入…
 appmenuitem-protection-report-title = 隱私保護
 appmenuitem-protection-report-tooltip =
     .tooltiptext = 前往您的隱私報告
