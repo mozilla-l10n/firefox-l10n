@@ -936,7 +936,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Amagar automaticament">
 
 <!ENTITY getUserMedia.selectCamera.label "Camèra de partejar :">
-<!ENTITY getUserMedia.selectCamera.accesskey "W">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "L’àudio de l’onglet serà partejat.">
