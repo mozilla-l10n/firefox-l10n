@@ -127,6 +127,7 @@ cfr-whatsnew-searchbar-title = Gépeljen kevesebbet, találjon meg több mindent
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Keresse fel a legtöbbet használt webhelyeit egyetlen kattintással a címsorban. Találjon dolgokat gyorsabban a(z) { $searchEngineName } és az előzményei találataival.
 cfr-whatsnew-searchbar-body-generic = Keresse fel a legtöbbet használt webhelyeit egyetlen kattintással a címsorban. Találjon dolgokat gyorsabban a böngészési előzményei találataival.
+cfr-whatsnew-searchbar-body-topsites = Most válassza ki a címsort, és a doboz kibővül a legnépszerűbb webhelyeire mutató hivatkozásokkal.
 cfr-whatsnew-searchbar-icon-alt-text = Nagyító ikon
 
 ## Picture-in-Picture
