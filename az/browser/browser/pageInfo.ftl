@@ -14,6 +14,8 @@ select-all =
 menu-select-all =
     .label = Hamısını Seç
     .accesskey = S
+close-dialog =
+    .key = w
 general-tab =
     .label = Ümumi
     .accesskey = m
@@ -118,7 +120,7 @@ security-site-data-no = Xeyr
 image-size-unknown = Bilinmir
 not-set-verified-by = Göstərilməyib
 page-info-not-specified =
-    .value = Göstərilməyib
+    .value = Dəqiqləşdirilməyib
 not-set-alternative-text = Göstərilməyib
 not-set-date = Göstərilməyib
 media-img = Şəkil
@@ -142,13 +144,54 @@ general-strict-mode =
     .value = Standartlarla uyğunluluq rejimi
 security-no-owner = Bu sayt, sahibi ilə bağlı məlumat vermir.
 page-info-security-no-owner =
-    .value = Bu sayt, sahibi ilə bağlı məlumat vermir.
+    .value = Bu sayt, sahibi ilə əlaqədar məlumat vermir.
 media-select-folder = Şəkilləri saxlamaq üçün bir qovluq seçin
 media-unknown-not-cached =
     .value = Naməlum (yaddaşda saxlanmadı)
 permissions-use-default =
     .label = Standartdan istifadə et
 security-no-visits = Xeyr
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 etiket)
+           *[other] Meta ({ $tags } etiket)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Xeyr
+        [one] Hə, bir dəfə
+       *[other] Hə, { $visits } dəfə
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } bayt)
+           *[other] { $kb } KB ({ $bytes } bayt)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } şəkli (animasiyalı, { $frames } çərçivə)
+           *[other] { $type } şəkli (animasiyalı, { $frames } çərçivə)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
