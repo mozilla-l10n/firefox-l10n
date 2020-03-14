@@ -26,6 +26,8 @@ menu =
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
 # This menuitem is only visible on Windows
 menu-menuitem-import = …ਪਾਸਵਰਡ ਦਰਾਮਦ ਕਰੋ
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = …ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਰਾਮਦ ਕਰੋ
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ਚੋਣਾਂ
