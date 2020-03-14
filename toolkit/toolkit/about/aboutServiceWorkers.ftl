@@ -14,12 +14,6 @@ about-service-workers-warning-no-service-workers = Cap de servici Workers pas en
 # Variables:
 #   $originTitle: original title
 origin-title = Origina : { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } — Identificant de l'aplicacion { $appId } — InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -32,8 +26,8 @@ script-spec = <strong>Caracteristicas de l'escript :</strong> <a data-l10n-name
 current-worker-url = <strong>URL del Worker corrent :</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Nom de cache actiu :</strong> { $name }
 waiting-cache-name = <strong>Nom de cache en espèra :</strong> { $name }
-push-end-point-waiting = <strong>Ponch de terminason pel mandadís :</strong> { waiting }
-push-end-point-result = <strong>Ponch de terminason pel mandadís :</strong> { $name }
+push-end-point-waiting = <strong>Punt de terminason pel mandadís :</strong> { waiting }
+push-end-point-result = <strong>Punt de terminason pel mandadís :</strong> { $name }
 # This term is used as a button label (verb, not noun).
 update-button = Metre a jorn
 unregister-button = Desinscriure
