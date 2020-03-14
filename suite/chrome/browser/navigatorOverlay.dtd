@@ -44,8 +44,8 @@
 <!ENTITY useStyleSheetNone.accesskey "I">
 <!ENTITY useStyleSheetPersistentOnly.label "(Basformatering)">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "B">
-<!ENTITY bidiSwitchPageDirectionItem.label        "Byt sidriktning">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "y">
+<!ENTITY bidiSwitchPageDirectionItem.label "Byt sidriktning">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "y">
 <!ENTITY pageSourceCmd.label "Källkod">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -56,11 +56,17 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Gå till">
 <!ENTITY goMenu.accesskey "G">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Startsidan">
 <!ENTITY goHomeCmd.accesskey "S">
-<!ENTITY historyCmd.label           "Historik">  
-<!ENTITY historyCmd.accesskey       "i">
-<!ENTITY history.commandKey       "h">
+<!ENTITY historyCmd.label "Historik">
+<!ENTITY historyCmd.accesskey "i">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
+<!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Nyligen stängda flikar">
 <!ENTITY recentTabs.accesskey "y">
 <!ENTITY recentTabs.commandkey "t">
@@ -69,7 +75,7 @@
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Återställ föregående session">
 <!ENTITY historyRestoreLastSession.accesskey "Å">
-<!ENTITY syncTabsMenu.label         "Flikar från andra datorer">
+<!ENTITY syncTabsMenu.label "Flikar från andra datorer">
 <!ENTITY syncTabsMenu.accesskey "F">
 
 <!-- Bookmarks Menu -->
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Rensa ut personliga uppgifter…">
 <!ENTITY clearPrivateDataCmd.accesskey "a">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
