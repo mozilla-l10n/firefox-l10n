@@ -134,6 +134,16 @@ cfr-whatsnew-lockwise-take-body =
     كلمات السر التي نسختها احتياطيًا أينما كنت.
 cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = مع شريط العنوان، قلّل الكتابة وخُذ نتائج أكثر
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = ادخل أكثر المواقع التي تستعمل بنقرة واحدة في شريط العنوان. جِد ما تريد بأخذ النتائج من { $searchEngineName } ومن تأريخ التصفح.
+cfr-whatsnew-searchbar-body-generic = ادخل أكثر المواقع التي تستعمل بنقرة واحدة في شريط العنوان. جِد ما تريد من نتائج بحث من تأريخ التصفح.
+cfr-whatsnew-searchbar-body-topsites = ما عليك الآن إلا نقر شريط العنوان وسترى مربّعا فيه روابط تنقلك إلى أكثر المواقع زيارة.
+cfr-whatsnew-searchbar-icon-alt-text = أيقونة المكبّرة
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = شاهِد الڤِديوهات بينما تتصفّح

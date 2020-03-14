@@ -145,6 +145,7 @@ onboarding-facebook-container-title = اضبط حدود فيسبوك
 onboarding-facebook-container-text2 = يفصل { -facebook-container-brand-name } ملفك الشخصي عن المعلومات الأخرى، وهكذا تكون مهمة فيسبوك في إيصال الإعلانات إليك أصعب وأصعب.
 onboarding-facebook-container-button = أضِف الامتداد
 onboarding-import-browser-settings-title = استورِد العلامات وكلمات السر وغيرها
+onboarding-import-browser-settings-text = ادخُل صلب الموضوع بأخذ مواقعك وإعداداتك على كروم معك.
 onboarding-import-browser-settings-button = استورِد بيانات كروم
 
 ## Message strings belonging to the Return to AMO flow
