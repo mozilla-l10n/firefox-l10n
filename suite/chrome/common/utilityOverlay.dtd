@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- these things need to move into utilityOverlay.xul -->
 
+<!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY  offlineGoOfflineCmd.label                 "Kapcsolat nélküli munka">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "p">
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                   "Fájl">
 <!ENTITY fileMenu.accesskey               "F">
@@ -25,6 +25,9 @@
 <!ENTITY newPrivateWindowCmd.label "Privát ablak">
 <!ENTITY newPrivateWindowCmd.key "P">
 <!ENTITY newPrivateWindowCmd.accesskey "P">
+<!ENTITY closeCmd.label "Bezárás">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "O">
 <!ENTITY printPreviewCmd.label "Nyomtatási kép">
@@ -32,6 +35,18 @@
 <!ENTITY printCmd.label "Nyomtatás…">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "p">
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "Beállítások…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "Szolgáltatások">
+<!ENTITY hideThisAppCmd.label             "A &brandShortName; elrejtése">
+<!ENTITY hideThisAppCmd.key               "H">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+
 
 <!ENTITY editMenu.label                   "Szerkesztés">
 <!ENTITY editMenu.accesskey               "z">
@@ -52,9 +67,9 @@
 <!ENTITY pasteCmd.accesskey               "B">
 <!ENTITY pasteGoCmd.label                 "Beillesztés és indulás">
 <!ENTITY pasteGoCmd.accesskey             "i">
+
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
      search bar equivalent to the url bar's "Paste & Go"  -->
-
 <!ENTITY pasteSearchCmd.label             "Beillesztés és keresés">
 <!ENTITY pasteSearchCmd.accesskey         "B">
 <!ENTITY deleteCmd.label                  "Törlés">
@@ -62,13 +77,13 @@
 <!ENTITY selectAllCmd.label               "Mindet kijelöli">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "d">
-<!ENTITY clearHistoryCmd.label    "Keresési előzmények törlése">  
-<!ENTITY clearHistoryCmd.accesskey   "e"> 
-<!ENTITY showSuggestionsCmd.label   "Javaslatok megjelenítése">  
-<!ENTITY showSuggestionsCmd.accesskey  "J"> 
-<!ENTITY preferencesCmd.label    "Beállítások…">
-<!ENTITY preferencesCmd.key     "E">  
-<!ENTITY preferencesCmd.accesskey   "B"> 
+<!ENTITY clearHistoryCmd.label            "Keresési előzmények törlése">
+<!ENTITY clearHistoryCmd.accesskey        "e">
+<!ENTITY showSuggestionsCmd.label         "Javaslatok megjelenítése">
+<!ENTITY showSuggestionsCmd.accesskey     "J">
+<!ENTITY preferencesCmd.label             "Beállítások…">
+<!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "B">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,15 +103,18 @@
 <!ENTITY findTypeLinksCmd.label "Hivatkozások keresése gépeléssel">
 <!ENTITY findTypeLinksCmd.accesskey "H">
 
-<!ENTITY viewMenu.label     "Nézet"> 
+<!ENTITY viewMenu.label                   "Nézet">
 <!ENTITY viewMenu.accesskey               "N">
-<!ENTITY viewToolbarsMenu.label    "Eszköztárak"> 
-<!ENTITY viewToolbarsMenu.accesskey   "E"> 
-<!ENTITY showTaskbarCmd.label     "Állapotsor">  
-<!ENTITY showTaskbarCmd.accesskey    "s"> 
+<!ENTITY viewToolbarsMenu.label           "Eszköztárak">
+<!ENTITY viewToolbarsMenu.accesskey       "E">
+<!ENTITY showTaskbarCmd.label             "Állapotsor">
+<!ENTITY showTaskbarCmd.accesskey         "s">
 
-<!ENTITY helpMenu.label     "Súgó"> 
-<!ENTITY helpMenu.accesskey    "S"> 
+<!ENTITY helpMenu.label                   "Súgó">
+<!ENTITY helpMenu.accesskey               "S">
+
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
 
 <!ENTITY helpTroubleshootingInfo.label      "Hibakeresési információ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "i">
@@ -106,28 +124,29 @@
 <!ENTITY helpSafeMode.accesskey             "j">
 <!ENTITY updateCmd.label                    "Frissítések keresése…">
 <!ENTITY updateCmd.accesskey                "F">
-<!ENTITY aboutCmd.label     "A &brandShortName; névjegye">
-<!ENTITY aboutCmd.accesskey    "A">
-<!ENTITY aboutCommPluginsCmd.label   "Telepített bővítmények">
-<!ENTITY aboutCommPluginsCmd.accesskey   "b">
+<!ENTITY aboutCmd.label                     "A &brandShortName; névjegye">
+<!ENTITY aboutCmd.accesskey                 "A">
+<!ENTITY aboutCommPluginsCmd.label          "Telepített bővítmények">
+<!ENTITY aboutCommPluginsCmd.accesskey      "b">
 
-<!ENTITY direct.label                                   "Online (Proxy: nincs)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Online (Proxy: kézi)">
-<!ENTITY manual.accesskey                               "k">
-<!ENTITY pac.label                                      "Online (Proxy: auto URL)">
-<!ENTITY pac.accesskey                                  "a">
-<!ENTITY wpad.label                                     "Online (Proxy: automatikus felfedezés)">
-<!ENTITY wpad.accesskey                                 "f">
-<!ENTITY system.label                                   "Online (Proxy: rendszerbeállítások használata)">
-<!ENTITY system.accesskey                               "r">
+<!ENTITY direct.label                             "Online (Proxy: nincs)">
+<!ENTITY direct.accesskey                         "n">
+<!ENTITY manual.label                             "Online (Proxy: kézi)">
+<!ENTITY manual.accesskey                         "k">
+<!ENTITY pac.label                                "Online (Proxy: auto URL)">
+<!ENTITY pac.accesskey                            "a">
+<!ENTITY wpad.label                               "Online (Proxy: automatikus felfedezés)">
+<!ENTITY wpad.accesskey                           "f">
+<!ENTITY system.label                             "Online (Proxy: rendszerbeállítások használata)">
+<!ENTITY system.accesskey                         "r">
 
-<!ENTITY proxy.label                                    "Proxybeállítás…">
-<!ENTITY proxy.accesskey                                "P">
+<!ENTITY proxy.label                              "Proxybeállítás…">
+<!ENTITY proxy.accesskey                          "P">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Szöveg irányának átváltása">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "z">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY customizeToolbarContext.label            "Testreszabás…">
 <!ENTITY customizeToolbarContext.accesskey        "T">
@@ -146,8 +165,8 @@
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "m">
 <!ENTITY customizeToolbar.useDefault.label        "Alapértelmezés">
 <!ENTITY customizeToolbar.useDefault.accesskey    "A">
-<!-- Popup Blocked notification menu -->
 
+<!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "F">
 <!ENTITY showPopupManager.label       "Felugró ablakok kezelése">
 <!ENTITY showPopupManager.accesskey   "k">

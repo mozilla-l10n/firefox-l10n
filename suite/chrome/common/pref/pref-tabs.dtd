@@ -22,6 +22,15 @@
 
 <!ENTITY openTabs.label "Megnyitás új ablak helyett új lapon, ha a felhasználó">
 
+<!ENTITY middleClick.label "Középső kattintás, Ctrl+kattintás vagy Ctrl+Enter a linkeken a weboldalon">
+<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClickMac.label "Középső kattintás, &#8984;+kattintás vagy &#8984;+Return a linkeken a weboldalon">
+<!ENTITY middleClickMac.accesskey "M">
+<!ENTITY urlbar.label "Ctrl+Enter a Címmezőben">
+<!ENTITY urlbar.accesskey "L">
+<!ENTITY urlbarMac.label "&#8984;+Return a Címmezőben">
+<!ENTITY urlbarMac.accesskey "L">
+
 <!ENTITY openManagers.label "Megnyitás új lapon, különálló ablak helyett">
 <!ENTITY openDataManager.label "Adatkezelő">
 <!ENTITY openDataManager.accesskey "A">
