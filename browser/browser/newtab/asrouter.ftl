@@ -134,6 +134,7 @@ cfr-whatsnew-searchbar-title = Pisz mniej, znajdź więcej za pomocą paska adre
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Otwieraj najczęściej odwiedzane strony jednym kliknięciem na pasku adresu. Wyszukuj szybciej dzięki wynikom z { $searchEngineName } i historii przeglądania.
 cfr-whatsnew-searchbar-body-generic = Otwieraj najczęściej odwiedzane strony jednym kliknięciem na pasku adresu. Wyszukuj szybciej dzięki wynikom z historii przeglądania.
+cfr-whatsnew-searchbar-body-topsites = Teraz kliknij pasek adresu, a pojawi się pole z odnośnikami do popularnych stron.
 cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
 ## Picture-in-Picture
