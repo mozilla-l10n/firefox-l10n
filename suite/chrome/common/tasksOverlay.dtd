@@ -4,6 +4,7 @@
 
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY minimizeWindowCmd.label "Minimera">
+<!ENTITY minimizeWindowCmd.key "M">
 <!ENTITY zoomWindowCmd.label "Zooma">
 <!ENTITY navigatorCmd.label "Webbläsare">
 <!ENTITY navigatorCmd.accesskey "W">
