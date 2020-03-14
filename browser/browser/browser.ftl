@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (التصفح الخاص)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (التصفح الخاص)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -110,6 +94,11 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = افتح لوحة رسائل تنصيب الإضافات
 urlbar-search-tips-confirm = حسنًا، فهمت
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = فائدة:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -118,6 +107,7 @@ urlbar-search-tips-confirm = حسنًا، فهمت
 
 urlbar-search-tips-onboard = اكتب بحروف أقل، و جِد نتائج أكثر: ابحث مستخدمًا { $engineName } مباشرة من شريط العنوان.
 urlbar-search-tips-redirect = ابدأ البحث هنا لترى الاقتراحات من { $engineName } و من تأريخ التصفح.
+urlbar-search-tips-redirect-2 = ابدأ البحث من شريط العنوان لترى الاقتراحات من { $engineName } و من تأريخ التصفح.
 
 ##
 
