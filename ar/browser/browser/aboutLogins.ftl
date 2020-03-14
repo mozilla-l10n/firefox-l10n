@@ -26,6 +26,8 @@ menu =
     .title = افتح القائمة
 # This menuitem is only visible on Windows
 menu-menuitem-import = استورِد كلمات السر…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = استورِد من متصفح آخر…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] الخيارات
@@ -88,10 +90,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = انسخ
 login-item-copied-username-button-text = نُسخ.
 login-item-password-label = كلمة السر
-login-item-password-reveal-checkbox-show =
-    .title = أظهِر كلمة السر
-login-item-password-reveal-checkbox-hide =
-    .title = أخفِ كلمة السر
 login-item-password-reveal-checkbox =
     .aria-label = أظهِر كلمة السر
 login-item-copy-password-button-text = انسخ
