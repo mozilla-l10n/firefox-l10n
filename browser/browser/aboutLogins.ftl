@@ -49,7 +49,9 @@ login-list-breached-option = Παραβιασμένες ιστοσελίδες
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
 login-list-intro-title = Δεν βρέθηκαν συνδέσεις
+login-list-intro-description = Όταν αποθηκεύετε έναν κωδικό στο { -brand-product-name }, θα εμφανίζεται εδώ.
 about-logins-login-list-empty-search-title = Δεν βρέθηκαν συνδέσεις
+about-logins-login-list-empty-search-description = Δεν βρέθηκαν αποτελέσματα για την αναζήτησή σας.
 login-list-item-title-new-login = Νέα σύνδεση
 login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
@@ -61,6 +63,9 @@ about-logins-list-item-breach-icon =
 login-intro-heading = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ρυθμίστε το { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
 login-intro-description = Αν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } σε άλλη συσκευή, ορίστε πώς μπορείτε να τις μεταφέρετε εδώ:
+login-intro-instruction-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε λογαριασμό ή συνδεθείτε στο { -fxaccount-brand-name }
+login-intro-instruction-fxa-settings = Στις Ρυθμίσεις του { -sync-brand-short-name }, φροντίστε να επιλέξετε το κουτάκι Συνδέσεις.
+about-logins-intro-instruction-help = Αν χρειάζεστε περισσότερη βοήθεια, επισκεφτείτε την ενότητα <a data-l10n-name="help-link">Υποστήριξη { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισάγετε στο { -lockwise-brand-short-name }</a>
 
 ## Login
@@ -97,6 +102,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Θέλετε να βρίσκετε τις συνδέσεις σας όπου κι αν χρησιμοποιείτε το { -brand-product-name }; Αν ναι, πηγαίνετε στις Επιλογές του { -sync-brand-short-name } και επιλέξτε το κουτάκι "Συνδέσεις".
+       *[other] Θέλετε να βρίσκετε τις συνδέσεις σας όπου κι αν χρησιμοποιείτε το { -brand-product-name }; Αν ναι, πηγαίνετε στις Προτιμήσεις του { -sync-brand-short-name } και επιλέξτε το κουτάκι "Συνδέσεις".
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -122,6 +132,7 @@ confirm-discard-changes-dialog-confirm-button = Απόρριψη
 
 ## Breach Alert notification
 
+breach-alert-text = Από την τελευταία φορά που αλλάξατε τα στοιχεία σύνδεσής σας σε αυτόν τον ιστότοπο, έχουν υπάρξει περιπτώσεις διαρροής ή κλοπής κωδικών. Για να προστατεύσετε το λογαριασμό σας, αλλάξτε τον κωδικό σας.
 breach-alert-link = Μάθετε περισσότερα σχετικά με αυτή την παραβίαση
 breach-alert-dismiss =
     .title = Κλείσιμο αυτής της ειδοποίησης
