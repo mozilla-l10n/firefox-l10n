@@ -23,6 +23,8 @@ onboarding-welcome-body = Avètz ja lo navegador.<br/>Descobrissètz la rèsta d
 onboarding-welcome-learn-more = Mai d’informacion suls avantatges.
 onboarding-welcome-modal-get-body = Avètz ja lo navegador.<br/>Ara aprofechatz de tot { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Maximalizatz vòstra proteccion privada.
+onboarding-welcome-modal-privacy-body = Avètz ja lo navegador. Ara ajustem mai de proteccion de la vida privada.
+onboarding-welcome-modal-family-learn-more = Ne saber mai sus la familha de produches { -brand-product-name }.
 onboarding-welcome-form-header = Començatz aquí
 onboarding-join-form-header = Rejonhètz { -brand-product-name }
 onboarding-join-form-body = Picatz vòstra adreça electronica per començar.
@@ -42,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Descobrissèm tot çò que podètz far.
 onboarding-fullpage-form-email =
     .placeholder = Vòstra adreça electronica…
 
@@ -63,6 +66,7 @@ onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Produches utils
 onboarding-benefit-knowledge-title = Coneissenças practicas
 onboarding-benefit-privacy-title = Vertadièra vida privada
 onboarding-benefit-sync-title = { -sync-brand-short-name }
