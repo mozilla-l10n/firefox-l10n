@@ -8,6 +8,9 @@ profiles-create = ایک نئی پروفائل بنائیں
 profiles-restart-title = دوبارہ شروع کریں
 profiles-restart-in-safe-mode = ایڈز آن نا اہل کر کے دوبارہ شروع کریں ...
 profiles-restart-normal = معمول کے مطابق دوبارہ چالو کریں…
+profiles-flush-fail-title = تبدیلیاں محفوظ ہویی
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = { -brand-short-name } دوبارہ شروع کریں
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = پروفائل: { $name }
@@ -26,6 +29,7 @@ profiles-rename = نیا نام دیں
 profiles-remove = ہٹائیں
 profiles-set-as-default = طےشدہ پروفائل کے طور پر سیٹ کریں
 profiles-launch-profile = پروفائل کو نئے براؤزر میں چالو کریں
+profiles-cannot-set-as-default-title = پہلے سے طے شدہ سیٹ کرنے میں ناکام رہا
 profiles-yes = ہاں
 profiles-no = نہیں
 profiles-rename-profile-title = پروفائل کو نیا نام دیں

@@ -39,6 +39,9 @@ devmgr-button-disable-fips =
 ## Strings used for load device
 
 load-device-info = ماڈیول کے لئے جو معلومات آپ شامل کرنا چاہتے ہیں، داخل کریں۔
+load-device-modname =
+    .value = ماڈیول کا نام
+    .accesskey = 	M
 load-device-modname-default =
     .value = نیا PKCS#11 ماڈیول
 load-device-browse =
