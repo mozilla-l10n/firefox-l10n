@@ -11,13 +11,16 @@ certificate-viewer-error-title = کچھ غلط ہو گیا
 ## Certificate information labels
 
 certificate-viewer-algorithm = الگورتھم
+certificate-viewer-cipher-suite = سائفر سویٹ
 certificate-viewer-common-name = عام نام
 certificate-viewer-email-address = ای میل پتہ
 certificate-viewer-country = ‏‏ملک
 certificate-viewer-curve = خم
 certificate-viewer-distribution-point = تقسیمی  نقتہ
+certificate-viewer-other-name = دوسرا نام
 certificate-viewer-exponent = قوت
 certificate-viewer-location = موجودہ مقام
+certificate-viewer-logid = لاگ ID
 certificate-viewer-method = طریقہ
 certificate-viewer-modulus = ماڈیولس
 certificate-viewer-name = نام

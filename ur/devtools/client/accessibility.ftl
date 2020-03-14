@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = مزید سیکھیں
+accessibility-text-label-header = متن لیبل اور نام
 accessibility-keyboard-header = کلیدی تختی
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
