@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sidebar.panels.label           "Sidofält">
-<!ENTITY sidebar.reload.label        "Uppdatera">
+<!ENTITY sidebar.reload.label           "Uppdatera">
 <!ENTITY sidebar.reload.accesskey       "U">
 <!ENTITY sidebar.picker.label           "Flikar">
 <!ENTITY sidebar.customize.label        "Anpassa sidofält…">
@@ -19,6 +19,10 @@
 <!ENTITY sidebar.loading.stop.label     "Avbryt">
 <!ENTITY sidebar.loading.stop.accesskey "b">
 
+<!-- LOCALIZATION NOTE (showHideSidebarCmd.key): This is only used on the
+     mac platform, other platforms use VK_F9. -->
+<!ENTITY showHideSidebarCmd.key         "S">
+
 <!ENTITY sidebar.no-panels.state     "Sidofältet är för närvarande tomt.">
 <!ENTITY sidebar.no-panels.add       'Du kan lägga till flikar genom att trycka på "Flikar"-knappen ovan.'>
 <!ENTITY sidebar.no-panels.hide      'Om du vill dölja sidofältet helt, klicka på Visa-menyn ovan och välj "Sidofält".'>
@@ -32,4 +36,3 @@
 <!ENTITY sidebar.client-bookmarks.label     "Bokmärken">
 <!ENTITY sidebar.client-history.label       "Historik">
 <!ENTITY sidebar.client-addressbook.label   "Adressbok">
-
