@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sortida del mòde ecran complet">
 <!ENTITY castingButton.castingLabel "Difusar sus l'ecran">
 <!ENTITY closedCaption.off "Desactivat">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Contraròtle del volum">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Vidèo incrustada">
 
 <!ENTITY stats.media "Mèdia">
 <!ENTITY stats.size "Talha">
@@ -34,6 +37,8 @@
 <!ENTITY error.srcNotSupported "Lo format vidèo o lo tipe MIME es pas gerit.">
 <!ENTITY error.noSource2 "Cap de vidèo que lo format o lo tipe MIME es pas gerit es pas estada trobada.">
 <!ENTITY error.generic "La lectura de la vidèo es estada arrestada a causa d'una error desconeguda.">
+
+<!ENTITY status.pictureInPicture "Aqueste vidèo es en lectura en mòde Vidèo incrustada">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
