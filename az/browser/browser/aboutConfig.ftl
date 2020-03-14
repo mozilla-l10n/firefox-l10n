@@ -10,6 +10,14 @@ about-config-warning-button = Riski qəbul edirəm
 about-config2-title = Təkmilləşmiş Konfiqurasiyalar
 about-config-search-input =
     .placeholder = Axtar
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-button = Riski qəbul et və davam et
+
+##
+
+about-config-page-title = Təkmilləşmiş Nizamlamalar
 about-config-show-all = Hamısını göstər
 about-config-pref-add = Əlavə et
 about-config-pref-toggle = Aç/Qapa

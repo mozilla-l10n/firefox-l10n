@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Səsi bağla
 pictureinpicture-unmute =
     .aria-label = Sesi aç
+pictureinpicture-unpip =
+    .aria-label = Vərəqə geri göndər
+pictureinpicture-close =
+    .aria-label = Qapat
