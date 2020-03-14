@@ -44,6 +44,9 @@ cert-error-not-yet-valid-now =  Los sites pròvan lor identitat via de certifi
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Còdi d’error : <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Los sites web pròvan lor identitat via de certificats, que son emeses per d’autoritats de certificacion. La màger part des navegadors se fisan pas mai dels certificats emeses per GeoTrust, RapidSSL, Symantec, Thawte e VeriSign. { $hostname } utiliza un certificat d’una d’aquestas autoritats e doncas l’identitat de son site web pòt pas èsser provada.
 cert-error-symantec-distrust-admin = Podètz avisar l’administrator d’aqueste site web d’aquel problèma.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
