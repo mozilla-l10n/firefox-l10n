@@ -7,7 +7,11 @@
 cert-error-intro = { $hostname } utiliza un certificat de seguretat invalid.
 cert-error-mitm-intro = Los sites web verifican lor identitats amb de certificats, son emeses per d’autoritats.
 cert-error-mitm-mozilla = { -brand-short-name } es sostengut per Mozilla, una organizacion sens but lucratiu que gerís un magasin d’autoritats de certificacion (CA) complètament dubèrt. Lo magasin ajuda a assegurar que las autoritats de certificacion respècten las melhoras practicas de seguretat per protegir los utilizaires.
+cert-error-mitm-connection = { -brand-short-name } utiliza lo magasin d’autoritats de certificacion de Mozilla per verificar qu’una connexion es segura, allòc d’utilizar los certificats del sistèma operatiu de l’utilizaire., Atal, s’un programa anti-virus o un ret intercèptan una connexion amb un certificat de seguretat emés per una CA que se tròba pas al magasin de Mozilla, la connexion es considera coma pas segura.
 cert-error-trust-unknown-issuer-intro = Qualqu’un poriá usurpar l’identitat del site, deuriatz pas contunhar.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = Los sites web pròvan lor identitat via de certificats. { -brand-short-name } se fisa pas de { $hostname } perque lo seu emissor de certificats es desconegut, lo certificat es auto-signat, o lo servidor envia pas los certificats intermediari corrèctes.
 cert-error-trust-cert-invalid = Lo certificat es pas segur perque es estat desliurat per una autoritat de certificacion invalida.
 cert-error-trust-untrusted-issuer = Lo certificat es pas segur perque l'autoritat que desliura lo certificat es pas esprovada.
 cert-error-trust-signature-algorithm-disabled = Lo certificat es pas segur perque es estat signat amb l'ajuda d'un algoritme de signatura qu'es estat desactivat perque aqueste algoritme es pas securizat.
