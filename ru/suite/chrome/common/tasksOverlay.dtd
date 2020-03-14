@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from tasksOverlay.xul -->
+<!ENTITY minimizeWindowCmd.label "Свернуть">
+<!ENTITY minimizeWindowCmd.key "в">
+<!ENTITY zoomWindowCmd.label "Масштаб">
 <!ENTITY navigatorCmd.label "Браузер">
 <!ENTITY navigatorCmd.accesskey "р">
 <!ENTITY navigatorCmd.commandkey "1">
