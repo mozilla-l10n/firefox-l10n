@@ -107,6 +107,7 @@
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findAgainCmd.label "Következő keresése">
 <!ENTITY findAgainCmd.key "g">
@@ -117,8 +118,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "l">
 <!ENTITY findTypeTextCmd.label "Szöveg keresése gépeléssel">
+<!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeTextCmd.accesskey "S">
 <!ENTITY findTypeLinksCmd.label "Hivatkozások keresése gépeléssel">
+<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "H">
 
 <!ENTITY viewMenu.label                   "Nézet">
@@ -133,7 +136,14 @@
 
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
+<!ENTITY helpMenuWin.label                "Súgó">
+<!ENTITY helpMenuWin.accesskey            "S">
+<!ENTITY openHelpCmd.label                "Súgótartalom">
+<!ENTITY openHelpCmd.accesskey            "S">
+<!ENTITY openHelpCmd.key                  "VK_F1">
 
+<!ENTITY helpForIEUsers.label               "Internet Explorer-felhasználóknak">
+<!ENTITY helpForIEUsers.accesskey           "I">
 <!ENTITY helpTroubleshootingInfo.label      "Hibakeresési információ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "i">
 <!ENTITY releaseCmd.label                   "Verzióinformáció">
@@ -165,6 +175,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "z">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Menüsor">
+<!ENTITY menubarCmd.accesskey                     "e">
 
 <!ENTITY customizeToolbarContext.label            "Testreszabás…">
 <!ENTITY customizeToolbarContext.accesskey        "T">
