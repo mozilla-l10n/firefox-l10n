@@ -22,7 +22,14 @@
 
 <!ENTITY openTabs.label "Öppna flikar istället för fönster vid">
 
+<!ENTITY middleClick.label "Mellanklick, Ctrl+klick eller Ctrl+Enter på länkar i webbsidor">
+<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClickMac.label "Mittenklick, &#8984;+klick eller &#8984;+Retur på länkar i webbsidor">
+<!ENTITY middleClickMac.accesskey "M">
 <!ENTITY urlbar.label "Ctrl+Enter i adressfältet">
+<!ENTITY urlbar.accesskey "a">
+<!ENTITY urlbarMac.label "&#8984;+Retur i adressfältet">
+<!ENTITY urlbarMac.accesskey "a">
 
 <!ENTITY openManagers.label "Öppna i en ny flik istället för i eget fönster">
 <!ENTITY openDataManager.label "Data Manager">

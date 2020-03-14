@@ -26,6 +26,8 @@
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "r">
 <!ENTITY closeCmd.label "Stäng">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "S">
 <!ENTITY printSetupCmd.label "Utskriftsformat…">
 <!ENTITY printSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Förhandsgranska">
@@ -38,6 +40,7 @@
      application menu. Never change the modifiers unless you are 100% sure that
      they are different on your locale (should be very rare). -->
 <!ENTITY preferencesCmdMac.label          "Inställningar…">
+<!ENTITY preferencesCmdMac.key            ",">
 <!ENTITY servicesMenu.label               "Tjänster">
 <!ENTITY hideThisAppCmd.label             "Dölj &brandShortName;">
 <!ENTITY showAllAppsCmd.label             "Visa alla">
