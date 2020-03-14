@@ -43,6 +43,7 @@ protection-report-page-title = تقرير حماية الخصوصية
 protection-report-content-title = تقرير حماية الخصوصية
 etp-card-title = الحماية الموسّعة من التعقب
 etp-card-content = تحاول المتعقّبات معرفة ما تفعل على الشبكة دومًا وجمع المعلومات التي تخصّ عاداتك في التصفّح كما واهتماماتك. يحجب { -brand-short-name } أكثر هذه المتعقّبات وغيرها من سكربتات ضارة.
+protection-report-etp-card-content-custom-not-blocking = كلّ مزايا الحماية معطّلة. اختر أيّ متعقّبات تريد حجبها بإدارة إعدادات الحماية في { -brand-short-name }.
 protection-report-manage-protections = أدِر الإعدادات
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -61,6 +62,8 @@ lockwise-header-content-logged-in = خزّن كلمات السر وزامنها 
 protection-report-view-logins-button = اعرض جلسات الولوج
     .title = انتقل إلى جلسات الولوج
 lockwise-no-logins-content = نزّل تطبيق <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> لتأخذ معك كلمات السر أينما ذهبت.
+lockwise-mobile-app-title = خُذ معك كلمات السر أينما ذهبت
+lockwise-no-logins-card-content = استعمل كلمات السر المحفوظة في { -brand-short-name } على أي جهاز.
 turn-on-sync = فعّل { -sync-brand-short-name }…
     .title = انتقل إلى تفضيلات المزامنة
 manage-connected-devices = أدِر الأجهزة…

@@ -87,7 +87,7 @@ newtab-privacy-modal-button-done = تمّ
 newtab-privacy-modal-header = خصوصيتك فوق كل شيء.
 newtab-privacy-modal-link = تعرّف على طريقة عمل الخصوصية في الألسنة الجديدة
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = أزل العلامة
@@ -174,8 +174,8 @@ newtab-discovery-empty-section-topstories-timed-out = آخ. أوشكنا على 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = المواضيع الشائعة:
 newtab-pocket-more-recommendations = مقترحات أخرى
-newtab-pocket-how-it-works = آلية العمل
 newtab-pocket-whats-pocket = ما يكون { -pocket-brand-name }؟
+newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
 
