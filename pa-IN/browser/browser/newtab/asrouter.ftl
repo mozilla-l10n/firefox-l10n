@@ -129,6 +129,7 @@ cfr-whatsnew-searchbar-title = ਘੱਟ ਟਾਈਪ ਕਰੋ, ਐਡਰੈਸ
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = ਉਨ੍ਹਾਂ ਸਾਈਟਾਂ ਤੇ ਜਾਓ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਐਡਰੈਸ ਬਾਰ ਤੇ ਇਕ ਕਲਿੱਕ ਨਾਲ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤੋਂ ਕਰਦੇ ਹੋ। { $searchEngineName } ਅਤੇ ਆਪਣੇ ਬਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਤੋਂ ਖੋਜ ਨਤੀਜਿਆਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ।
 cfr-whatsnew-searchbar-body-generic = ਉਨ੍ਹਾਂ ਸਾਈਟਾਂ ਤੇ ਜਾਓ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਐਡਰੈਸ ਬਾਰ ਤੇ ਇਕ ਕਲਿੱਕ ਨਾਲ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤੋਂ ਕਰਦੇ ਹੋ। ਆਪਣੇ ਬਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਤੋਂ ਖੋਜ ਨਤੀਜਿਆਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ।
+cfr-whatsnew-searchbar-body-topsites = ਹੁਣ ਸਿਰਫ਼ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਚੁਣੋ ਅਤੇ ਡੱਬਾ ਤੁਹਾਡੀਆਂ ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ ਦੇ ਲਿੰਕਾਂ ਨਾਲ ਭਰ ਜਾਵੇਗਾ।
 cfr-whatsnew-searchbar-icon-alt-text = ਵੱਡਦਰਸ਼ੀ ਸ਼ੀਸ਼ਾ ਆਈਕਾਨ
 
 ## Picture-in-Picture
