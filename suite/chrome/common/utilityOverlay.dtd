@@ -143,6 +143,7 @@
 <!ENTITY openHelpCmd.key                  "VK_F1">
 
 <!ENTITY helpForIEUsers.label               "Для пользователей Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey           "я">
 <!ENTITY helpTroubleshootingInfo.label      "Информация для решения проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ф">
 <!ENTITY releaseCmd.label                   "Примечания к выпуску">
@@ -174,6 +175,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ю">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Панель меню">
+<!ENTITY menubarCmd.accesskey                     "л">
 
 <!ENTITY customizeToolbarContext.label            "Настроить…">
 <!ENTITY customizeToolbarContext.accesskey        "р">

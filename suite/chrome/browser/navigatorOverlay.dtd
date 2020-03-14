@@ -56,10 +56,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Перейти">
 <!ENTITY goMenu.accesskey "е">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Домой">
 <!ENTITY goHomeCmd.accesskey "м">
 <!ENTITY historyCmd.label "Журнал">
 <!ENTITY historyCmd.accesskey "у">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Недавно закрытые вкладки">
 <!ENTITY recentTabs.accesskey "а">
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Удалить личные данные…">
 <!ENTITY clearPrivateDataCmd.accesskey "е">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
