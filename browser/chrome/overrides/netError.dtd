@@ -27,7 +27,7 @@
 <ul>
   <li>Pokušaj ponovo kasnije.</li>
   <li>Provjeri mrežne postavke.</li>
-  <li>Ako si spojen/a, ali si iza vatrozida, provjeri, je li &brandShortName; smije pristupiti internetu.</li>
+  <li>Ako je tvoj uređaj povezan, ali iza vatrozida, provjeri smije li &brandShortName; pristupiti internetu.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
