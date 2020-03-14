@@ -10,6 +10,7 @@
 title = Novetats importantas
 heading = Modificacions de vòstre perfil { -brand-short-name }
 changed-title = Qué a cambiat ?
+changed-desc-profiles = Aquesta installacion de { -brand-short-name } a un perfil novèl. Un perfil es un ensemble de fichièrs ont Firefox enregistra las informacions coma los marcapaginas, los senhals e las preferéncias de l’utilizaire.
 options-title = Quinas opcions ai ?
 resources = Ressorsas :
 support-link = Utilizar lo gestionari de perfils – Article de l’assisténcia

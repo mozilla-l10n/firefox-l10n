@@ -22,6 +22,10 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-document-title = Los documents devon aver un element <code>title</code>. <a>Ne saber mai</a>
+accessibility-text-label-issue-heading-content = Los títols devon aver un tèxte visible. <a>Ne saber mai</a>
+accessibility-text-label-issue-iframe = Utilizatz l’atribut <code>title</code> per descriure lo contengut d’una <span>iframe</span>. <a>Ne saber mai</a>
+accessibility-text-label-issue-image = Lo contengut amb un imatge deu aver una etiqueta. <a>Ne saber mai</a>
+accessibility-text-label-issue-interactive = Los elements interactius devon aver una etiqueta. <a>Ne saber mai</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
