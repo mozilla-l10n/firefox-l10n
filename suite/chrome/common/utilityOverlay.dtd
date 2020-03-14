@@ -6,7 +6,7 @@
 <!ENTITY  offlineGoOfflineCmd.label                 "Работать автономно">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "б">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                   "Файл">
 <!ENTITY fileMenu.accesskey               "а">
@@ -25,6 +25,9 @@
 <!ENTITY newPrivateWindowCmd.label "Приватное окно">
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "е">
+<!ENTITY closeCmd.label "Закрыть">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "ы">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "м">
 <!ENTITY printPreviewCmd.label "Предварительный просмотр">
@@ -33,6 +36,33 @@
 <!ENTITY printCmd.accesskey "е">
 <!ENTITY printCmd.key "P">
 
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "Настройки…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "Службы">
+<!ENTITY hideThisAppCmd.label             "Скрыть &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "H">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Скрыть остальные">
+<!ENTITY hideOtherAppsCmd.key             "H">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Показать все">
+<!ENTITY openHelpCmdMac.label             "Справка &brandShortName;">
+<!ENTITY openHelpCmdMac.accesskey         "п">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
+
+<!ENTITY quitApplicationCmd.label         "Выход">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "ы">
+<!ENTITY quitApplicationCmdMac.label      "Завершить &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "в">
+<!ENTITY quitApplicationCmdUnix.label     "Выход">
+<!ENTITY quitApplicationCmdUnix.accesskey "ы">
+
 <!ENTITY editMenu.label                   "Правка">
 <!ENTITY editMenu.accesskey               "П">
 <!ENTITY undoCmd.label                    "Отменить">
@@ -40,6 +70,7 @@
 <!ENTITY undoCmd.accesskey                "т">
 <!ENTITY redoCmd.label                    "Повторить">
 <!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmdMac.key                   "Z">
 <!ENTITY redoCmd.accesskey                "в">
 <!ENTITY cutCmd.label                     "Вырезать">
 <!ENTITY cutCmd.key                       "X">
@@ -62,18 +93,21 @@
 <!ENTITY selectAllCmd.label               "Выделить всё">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "ы">
-<!ENTITY clearHistoryCmd.label				"Очистить историю поиска">  
-<!ENTITY clearHistoryCmd.accesskey			"ч"> 
-<!ENTITY showSuggestionsCmd.label			"Показывать предложения">  
-<!ENTITY showSuggestionsCmd.accesskey		"з"> 
-<!ENTITY preferencesCmd.label				"Настройки…">
-<!ENTITY preferencesCmd.key					"E">  
-<!ENTITY preferencesCmd.accesskey			"о"> 
+<!ENTITY clearHistoryCmd.label            "Очистить историю поиска">
+<!ENTITY clearHistoryCmd.accesskey        "ч">
+<!ENTITY showSuggestionsCmd.label         "Показывать предложения">
+<!ENTITY showSuggestionsCmd.accesskey     "з">
+<!ENTITY preferencesCmd.label             "Настройки…">
+<!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "о">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "а">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "и">
 <!ENTITY findAgainCmd.label "Найти ещё раз">
 <!ENTITY findAgainCmd.key "G">
@@ -84,20 +118,31 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "п">
 <!ENTITY findTypeTextCmd.label "Поиск текста по мере набора">
+<!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeTextCmd.accesskey "и">
 <!ENTITY findTypeLinksCmd.label "Поиск ссылок по мере набора">
+<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "л">
 
-<!ENTITY viewMenu.label					"Вид"> 
+<!ENTITY viewMenu.label                   "Вид">
 <!ENTITY viewMenu.accesskey               "д">
-<!ENTITY viewToolbarsMenu.label				"Показать/скрыть"> 
-<!ENTITY viewToolbarsMenu.accesskey			"к"> 
-<!ENTITY showTaskbarCmd.label					"Строка состояния">  
-<!ENTITY showTaskbarCmd.accesskey				"т"> 
+<!ENTITY viewToolbarsMenu.label           "Показать/скрыть">
+<!ENTITY viewToolbarsMenu.accesskey       "к">
+<!ENTITY showTaskbarCmd.label             "Строка состояния">
+<!ENTITY showTaskbarCmd.accesskey         "т">
 
-<!ENTITY helpMenu.label					"Справка"> 
-<!ENTITY helpMenu.accesskey				"р"> 
+<!ENTITY helpMenu.label                   "Справка">
+<!ENTITY helpMenu.accesskey               "р">
 
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
+<!ENTITY helpMenuWin.label                "Справка">
+<!ENTITY helpMenuWin.accesskey            "п">
+<!ENTITY openHelpCmd.label                "Содержание">
+<!ENTITY openHelpCmd.accesskey            "ж">
+<!ENTITY openHelpCmd.key                  "VK_F1">
+
+<!ENTITY helpForIEUsers.label               "Для пользователей Internet Explorer">
 <!ENTITY helpTroubleshootingInfo.label      "Информация для решения проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ф">
 <!ENTITY releaseCmd.label                   "Примечания к выпуску">
@@ -106,28 +151,29 @@
 <!ENTITY helpSafeMode.accesskey             "з">
 <!ENTITY updateCmd.label                    "Проверить наличие обновлений…">
 <!ENTITY updateCmd.accesskey                "в">
-<!ENTITY aboutCmd.label					"О &brandShortName;">
-<!ENTITY aboutCmd.accesskey				"О">
-<!ENTITY aboutCommPluginsCmd.label			"Плагины">
-<!ENTITY aboutCommPluginsCmd.accesskey			"л">
+<!ENTITY aboutCmd.label                     "О &brandShortName;">
+<!ENTITY aboutCmd.accesskey                 "О">
+<!ENTITY aboutCommPluginsCmd.label          "Плагины">
+<!ENTITY aboutCommPluginsCmd.accesskey      "л">
 
-<!ENTITY direct.label                                   "В сети (без прокси)">
-<!ENTITY direct.accesskey                               "б">
-<!ENTITY manual.label                                   "В сети (прокси настроено вручную)">
-<!ENTITY manual.accesskey                               "в">
-<!ENTITY pac.label                                      "В сети (адрес прокси получен из URL автонастройки)">
-<!ENTITY pac.accesskey                                  "п">
-<!ENTITY wpad.label                                     "В сети (прокси найдено автоматически)">
-<!ENTITY wpad.accesskey                                 "а">
-<!ENTITY system.label                                   "В сети (системные настройки прокси)">
-<!ENTITY system.accesskey                               "т">
+<!ENTITY direct.label                             "В сети (без прокси)">
+<!ENTITY direct.accesskey                         "б">
+<!ENTITY manual.label                             "В сети (прокси настроено вручную)">
+<!ENTITY manual.accesskey                         "в">
+<!ENTITY pac.label                                "В сети (адрес прокси получен из URL автонастройки)">
+<!ENTITY pac.accesskey                            "п">
+<!ENTITY wpad.label                               "В сети (прокси найдено автоматически)">
+<!ENTITY wpad.accesskey                           "а">
+<!ENTITY system.label                             "В сети (системные настройки прокси)">
+<!ENTITY system.accesskey                         "т">
 
-<!ENTITY proxy.label                                    "Конфигурация прокси-соединения…">
-<!ENTITY proxy.accesskey                                "н">
+<!ENTITY proxy.label                              "Конфигурация прокси-соединения…">
+<!ENTITY proxy.accesskey                          "н">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Переключить направление текста на странице">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ю">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY customizeToolbarContext.label            "Настроить…">
 <!ENTITY customizeToolbarContext.accesskey        "р">
