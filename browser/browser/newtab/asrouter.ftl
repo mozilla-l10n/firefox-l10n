@@ -129,6 +129,7 @@ cfr-whatsnew-searchbar-title = Skriv mindre, finn mer med adressefeltet
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Gå til nettstedene du bruker mest med et enkelt klikk i adressefeltet. Finn ting raskere med søkeresultater fra { $searchEngineName } og nettleserhistorikken.
 cfr-whatsnew-searchbar-body-generic = Gå til nettstedene du bruker mest med et enkelt klikk i adressefeltet. Finn ting raskere med søkeresultater fra nettleserhistorikken.
+cfr-whatsnew-searchbar-body-topsites = Velg adresselinjen, og en boks med lenker til dine mest besøkte nettsteder vil bli vist.
 cfr-whatsnew-searchbar-icon-alt-text = Forstørrelsesglassikon
 
 ## Picture-in-Picture
