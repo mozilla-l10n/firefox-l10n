@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Bu Səhifəni Əlfəcinlə
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = Bu Səhifəni Əlfəcinlə
     .accesskey = m
@@ -184,6 +181,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Tam ekrandan çıx
     .accesskey = e
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Şəkildə-Şəkil
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Şəkli Yenilə
     .accesskey = Y
@@ -250,6 +252,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Arxa fon şəklini göstər
     .accesskey = r
+main-context-menu-generate-new-password =
+    .label = Törədilən parolu işlət…
+    .accesskey = G
 main-context-menu-keyword =
     .label = Bu axtarış üçün Açar söz əlavə et…
     .accesskey = A
