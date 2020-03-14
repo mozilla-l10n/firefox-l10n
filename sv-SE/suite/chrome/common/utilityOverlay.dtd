@@ -41,14 +41,27 @@
      they are different on your locale (should be very rare). -->
 <!ENTITY preferencesCmdMac.label          "Inställningar…">
 <!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
 <!ENTITY servicesMenu.label               "Tjänster">
 <!ENTITY hideThisAppCmd.label             "Dölj &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "D">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Göm övriga">
+<!ENTITY hideOtherAppsCmd.key             "G">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
 <!ENTITY showAllAppsCmd.label             "Visa alla">
 <!ENTITY openHelpCmdMac.label             "&brandShortName; Hjälp">
+<!ENTITY openHelpCmdMac.accesskey         "H">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
 
 <!ENTITY quitApplicationCmd.label         "Avsluta">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "A">
 <!ENTITY quitApplicationCmdMac.label      "Avsluta &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">
 <!ENTITY quitApplicationCmdUnix.label     "Avsluta">
+<!ENTITY quitApplicationCmdUnix.accesskey "A">
 
 <!ENTITY editMenu.label                   "Redigera">
 <!ENTITY editMenu.accesskey               "e">
@@ -57,6 +70,7 @@
 <!ENTITY undoCmd.accesskey                "Å">
 <!ENTITY redoCmd.label                    "Gör om">
 <!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmdMac.key                   "Z">
 <!ENTITY redoCmd.accesskey                "r">
 <!ENTITY cutCmd.label                     "Klipp ut">
 <!ENTITY cutCmd.key                       "X">
@@ -91,6 +105,9 @@
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "S">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "r">
 <!ENTITY findAgainCmd.label "Sök nästa">
 <!ENTITY findAgainCmd.key "G">
@@ -101,8 +118,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "f">
 <!ENTITY findTypeTextCmd.label "Hitta text medan du skriver">
+<!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeTextCmd.accesskey "e">
 <!ENTITY findTypeLinksCmd.label "Hitta länkar medan du skriver">
+<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "H">
 
 <!ENTITY viewMenu.label                   "Visa">
@@ -118,9 +137,13 @@
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Hjälp">
+<!ENTITY helpMenuWin.accesskey            "H">
 <!ENTITY openHelpCmd.label                "Hjälpinnehåll">
+<!ENTITY openHelpCmd.accesskey            "H">
+<!ENTITY openHelpCmd.key                  "VK_F1">
 
 <!ENTITY helpForIEUsers.label               "För Internet Explorer-användare">
+<!ENTITY helpForIEUsers.accesskey           "I">
 <!ENTITY helpTroubleshootingInfo.label      "Felsökningsinformation">
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
 <!ENTITY releaseCmd.label                   "Versionsfakta">
@@ -152,6 +175,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Menyrad">
+<!ENTITY menubarCmd.accesskey                     "e">
 
 <!ENTITY customizeToolbarContext.label            "Inställningar…">
 <!ENTITY customizeToolbarContext.accesskey        "n">
