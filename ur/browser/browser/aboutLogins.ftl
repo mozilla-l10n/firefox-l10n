@@ -26,6 +26,8 @@ menu =
     .title = مینیو کھولیں
 # This menuitem is only visible on Windows
 menu-menuitem-import = پاس ورڈ درآمد کریں…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = دوسرے براؤزر سے درآمد کریں…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] اختیارات
@@ -77,10 +79,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = نقل کریں
 login-item-copied-username-button-text = نقل شدہ!
 login-item-password-label = پاس ورڈ
-login-item-password-reveal-checkbox-show =
-    .title = پاس ورڈدکھائیں
-login-item-password-reveal-checkbox-hide =
-    .title = پاس ورڈ چھپائیں
 login-item-password-reveal-checkbox =
     .aria-label = پاس ورڈ  دکھائیں
 login-item-copy-password-button-text = نقل کریں
