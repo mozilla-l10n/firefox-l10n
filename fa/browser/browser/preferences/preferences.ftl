@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = رنگها‌...
     .accesskey = ر
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = بزرگنمایی
+preferences-default-zoom = بزرگنمایی پیش‌فرض
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }٪
+preferences-zoom-text-only =
+    .label = فقط بزرگنمایی متن
+    .accesskey = t
 language-header = زبان‌ها
 choose-language-description = زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید
 choose-button =
@@ -286,6 +295,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -714,6 +727,7 @@ privacy-header = حریم خصوصی مرورگر
 ## Privacy Section - Logins and Passwords
 
 logins-header = ورودها و گذرواژه‌ها
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = در مورد ذخیره کردن نام‌کاربری و گذرواژه‌ها برای پایگاه‌ها سوال کن
     .accesskey = r
