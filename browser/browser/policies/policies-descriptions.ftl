@@ -88,5 +88,6 @@ policy-SecurityDevices = ติดตั้งโมดูล PKCS #11
 policy-SSLVersionMax = ตั้งรุ่น SSL สูงสุด
 policy-SSLVersionMin = ตั้งรุ่น SSL ต่ำสุด
 policy-SupportMenu = เพิ่มรายการเมนูการสนับสนุนที่กำหนดเองไปยังเมนูช่วยเหลือ
+policy-UserMessaging = ไม่ต้องแสดงข้อความบางส่วนถึงผู้ใช้
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ปิดกั้นไม่ให้เยี่ยมชมเว็บไซต์ ดูคู่มือสำหรับรายละเอียดเพิ่มเติมเกี่ยวกับรูปแบบ
