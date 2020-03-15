@@ -17,7 +17,7 @@
 <!ENTITY helpSafeMode.accesskey "S">
 <!ENTITY helpSafeMode.stop.label     "Start på nytt med utvidelser påslått">
 <!ENTITY helpSafeMode.stop.accesskey "r">
-<!ENTITY productHelp.label "&brandShortName; Hjelp">
+<!ENTITY productHelp.label "Hjelp for &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
