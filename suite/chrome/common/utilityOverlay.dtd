@@ -6,7 +6,7 @@
 <!ENTITY  offlineGoOfflineCmd.label                 "Arbeid frakoblet">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "f">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                   "Fil">
 <!ENTITY fileMenu.accesskey               "f">
@@ -25,6 +25,9 @@
 <!ENTITY newPrivateWindowCmd.label "Privat vindu">
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "v">
+<!ENTITY closeCmd.label "Lukk">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "Utskriftsformat …">
 <!ENTITY printSetupCmd.accesskey "k">
 <!ENTITY printPreviewCmd.label "Forhåndsvisning">
@@ -32,6 +35,24 @@
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "P">
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "Innstillinger…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+<!ENTITY servicesMenu.label               "Tjenester">
+<!ENTITY hideThisAppCmd.label             "Skjul &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "H">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Skjul andre">
+<!ENTITY hideOtherAppsCmd.key             "H">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Vis alle">
+<!ENTITY openHelpCmdMac.label             "Hjelp for &brandShortName;">
+<!ENTITY openHelpCmdMac.accesskey         "H">
+
 
 <!ENTITY editMenu.label                   "Rediger">
 <!ENTITY editMenu.accesskey               "R">
@@ -62,13 +83,13 @@
 <!ENTITY selectAllCmd.label               "Merk alt">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "M">
-<!ENTITY clearHistoryCmd.label				"Tøm søkehistorikk">  
-<!ENTITY clearHistoryCmd.accesskey			"T"> 
-<!ENTITY showSuggestionsCmd.label			"Vis forslag">  
-<!ENTITY showSuggestionsCmd.accesskey		"f"> 
-<!ENTITY preferencesCmd.label				"Innstillinger …">
-<!ENTITY preferencesCmd.key					"E">  
-<!ENTITY preferencesCmd.accesskey			"I"> 
+<!ENTITY clearHistoryCmd.label            "Tøm søkehistorikk">
+<!ENTITY clearHistoryCmd.accesskey        "T">
+<!ENTITY showSuggestionsCmd.label         "Vis forslag">
+<!ENTITY showSuggestionsCmd.accesskey     "f">
+<!ENTITY preferencesCmd.label             "Innstillinger …">
+<!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "I">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,15 +109,18 @@
 <!ENTITY findTypeLinksCmd.label "Finn lenker mens du skriver">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
-<!ENTITY viewMenu.label					"Vis"> 
+<!ENTITY viewMenu.label                   "Vis">
 <!ENTITY viewMenu.accesskey               "V">
-<!ENTITY viewToolbarsMenu.label				"Vis/skjul"> 
-<!ENTITY viewToolbarsMenu.accesskey			"v"> 
-<!ENTITY showTaskbarCmd.label					"Statuslinje">  
-<!ENTITY showTaskbarCmd.accesskey				"s"> 
+<!ENTITY viewToolbarsMenu.label           "Vis/skjul">
+<!ENTITY viewToolbarsMenu.accesskey       "v">
+<!ENTITY showTaskbarCmd.label             "Statuslinje">
+<!ENTITY showTaskbarCmd.accesskey         "s">
 
-<!ENTITY helpMenu.label					"Hjelp"> 
-<!ENTITY helpMenu.accesskey				"h"> 
+<!ENTITY helpMenu.label                   "Hjelp">
+<!ENTITY helpMenu.accesskey               "h">
+
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
 
 <!ENTITY helpTroubleshootingInfo.label      "Feilsøkingsinfo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "e">
@@ -106,28 +130,29 @@
 <!ENTITY helpSafeMode.accesskey             "t">
 <!ENTITY updateCmd.label                    "Søk etter oppdateringer …">
 <!ENTITY updateCmd.accesskey                "S">
-<!ENTITY aboutCmd.label					"Om &brandShortName;">
-<!ENTITY aboutCmd.accesskey				"O">
-<!ENTITY aboutCommPluginsCmd.label			"Om programtillegg">
-<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+<!ENTITY aboutCmd.label                     "Om &brandShortName;">
+<!ENTITY aboutCmd.accesskey                 "O">
+<!ENTITY aboutCommPluginsCmd.label          "Om programtillegg">
+<!ENTITY aboutCommPluginsCmd.accesskey      "p">
 
-<!ENTITY direct.label                                   "Tilkoblet (ingen proxy)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Tilkoblet (manuell proxy)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Tilkoblet (automatisk proxy)">
-<!ENTITY pac.accesskey                                  "a">
-<!ENTITY wpad.label                                     "Tilkoblet (automatisk oppdaging av proxy)">
-<!ENTITY wpad.accesskey                                 "u">
-<!ENTITY system.label                                   "Tilkoblet (systemets proxy)">
-<!ENTITY system.accesskey                               "s">
+<!ENTITY direct.label                             "Tilkoblet (ingen proxy)">
+<!ENTITY direct.accesskey                         "n">
+<!ENTITY manual.label                             "Tilkoblet (manuell proxy)">
+<!ENTITY manual.accesskey                         "m">
+<!ENTITY pac.label                                "Tilkoblet (automatisk proxy)">
+<!ENTITY pac.accesskey                            "a">
+<!ENTITY wpad.label                               "Tilkoblet (automatisk oppdaging av proxy)">
+<!ENTITY wpad.accesskey                           "u">
+<!ENTITY system.label                             "Tilkoblet (systemets proxy)">
+<!ENTITY system.accesskey                         "s">
 
-<!ENTITY proxy.label                                    "Innstillinger for proxy …">
-<!ENTITY proxy.accesskey                                "o">
+<!ENTITY proxy.label                              "Innstillinger for proxy …">
+<!ENTITY proxy.accesskey                          "o">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Bytt tekstretning">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "e">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY customizeToolbarContext.label            "Tilpass…">
 <!ENTITY customizeToolbarContext.accesskey        "T">

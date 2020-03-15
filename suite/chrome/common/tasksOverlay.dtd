@@ -5,6 +5,7 @@
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY minimizeWindowCmd.label "Minimer">
 <!ENTITY minimizeWindowCmd.key "M">
+<!ENTITY zoomWindowCmd.label "Zoom">
 <!ENTITY navigatorCmd.label "Nettleser">
 <!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
