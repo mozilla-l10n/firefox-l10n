@@ -20,4 +20,5 @@ sync-input =
     .placeholder = Adreça electronica
 sync-button = Contunhar
 sync-terms = Se contunhatz, acceptatz las <a data-l10n-name="terms">Condicions d’utilizacion</a> e l’<a data-l10n-name="privacy">Avís de privacitat</a>.
+sync-first = Es lo primièr còp qu’utilizatz { -sync-brand-name } ? Vos cal d’iniciar una session sus cada installacion de Firefox per sincronizar vòstras informacions.
 sync-learn = Ne saber mai

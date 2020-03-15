@@ -59,11 +59,13 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilizaire
        *[other] { $total } utilizaires
     }
+cfr-doorhanger-pintab-description = Accedissètz facilament als sites mai utilizats. Gardatz los sites dubèrts dins un onglets (amai quand reaviatz)
 
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>Clic drech</b> sus l’onglet que volètz penjar.
 cfr-doorhanger-pintab-step2 = Seleccionatz <b>Penjar aqueste onglet</b> al menú.
+cfr-doorhanger-pintab-step3 = Se lo site a una mesa a jorn, veiretz un punt blau sus vòstre onglet penjat.
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Reprene
 
@@ -92,6 +94,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Qué de nòu
 cfr-whatsnew-release-notes-link-text = Legir la nòta de version
 cfr-whatsnew-fx70-title = { -brand-short-name } luta encara mai per vòstra vida privada
+cfr-whatsnew-fx70-body =
+    La darrièra mesa a jorn melhora la foncion de proteccion
+    contra lo seguiment e permet de crear de senhals segurs per cada site.
 cfr-whatsnew-tracking-protect-title = Protegissètz-vos dels traçadors
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } bloca los elements de seguiment dels malhums socials e intersites
