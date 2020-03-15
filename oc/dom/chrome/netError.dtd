@@ -76,6 +76,7 @@
 <!ENTITY cspBlocked.title "Blocat per Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>Lo navegador a empachat lo cargament d'aquesta pagina d'aqueste biais perque la pagina a una estrategia de seguretat de contengut que lo permet pas.</p>">
 
+<!ENTITY xfoBlocked.title "Blocat per la politica X-Frame-Options">
 
 <!ENTITY corruptedContentErrorv2.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
