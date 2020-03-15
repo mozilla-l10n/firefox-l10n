@@ -130,6 +130,7 @@ cfr-whatsnew-pip-cta = Ne saber mai
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-body = Ara { -brand-shorter-name } bloca los sites que demandan automaticament de vos enviar de messatges sorgissents.
 cfr-whatsnew-permission-prompt-cta = Ne saber mai
 
 ## Fingerprinter Counter
