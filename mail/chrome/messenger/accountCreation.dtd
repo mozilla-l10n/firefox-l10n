@@ -4,19 +4,26 @@
 
 <!ENTITY autoconfigWizard2.title         "Configuració d'un compte de correu electrònic existent">
 
+<!ENTITY emailWizard.title               "Configuració de la vostra adreça electrònica existent">
+<!ENTITY emailWizard.caption             "Utilitzeu la vostra adreça electrònica actual">
 <!ENTITY name.label                      "El vostre nom:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Nom i cognoms">
+<!ENTITY fullname.placeholder            "El vostre nom complet">
 <!ENTITY name.text                       "El vostre nom, com voleu que es vegi">
+<!ENTITY name.error                      "Introduïu el vostre nom">
 <!ENTITY email.label                     "Adreça electrònica:">
 <!ENTITY email.accesskey                 "A">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "usuari@example.com">
+<!ENTITY email3.placeholder              "La vostra adreça electrònica">
 <!ENTITY email.text                      "La vostra adreça electrònica existent">
+<!ENTITY email.error                     "L'adreça electrònica no és vàlida">
 <!ENTITY password.label                  "Contrasenya:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasenya">
 <!ENTITY password.text                   "Opcional, només es farà servir per validar el vostre usuari">
+<!ENTITY password.toggle                 "Mostra/amaga la contrasenya">
 <!ENTITY rememberPassword.label          "Recorda la contrasenya">
 <!ENTITY rememberPassword.accesskey      "R">
 <!ENTITY usernameEx.label                "Nom d'inici de sessió:">
@@ -26,11 +33,14 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Inici de sessió al domini">
 
+<!ENTITY protocol.label                  "Protocol:">
 <!ENTITY imapLong.label                  "IMAP (carpetes remotes)">
 <!ENTITY pop3Long.label                  "POP3 (conserva el correu al vostre ordinador)">
 
 <!ENTITY incoming.label                  "Entrada:">
+<!ENTITY incomingColumn.label            "Entrada">
 <!ENTITY outgoing.label                  "Sortida:">
+<!ENTITY outgoingColumn.label            "Sortida">
 <!ENTITY username.label                  "Nom d'usuari:">
 <!ENTITY hostname.label                  "Nom del servidor">
 <!ENTITY port.label                      "Port">
@@ -70,10 +80,14 @@
 <!ENTITY half-manual-test.accesskey      "P">
 <!ENTITY manual-edit.label               "Configuració manual">
 <!ENTITY manual-edit.accesskey           "m">
+<!ENTITY manual-config.label             "Configura manualment…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Obtén una adreça electrònica nova…">
 <!ENTITY open-provisioner.accesskey      "O">
 
 
+<!ENTITY get-help.label                  "Obteniu ajuda">
+<!ENTITY get-help.accesskey              "b">
 
 
 <!ENTITY warning.label                   "Atenció!">
