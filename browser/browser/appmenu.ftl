@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = وارد کردن از یک مرورگر دیگر…
 appmenuitem-protection-report-title = محافظ‌های حریم‌خصوصی
 appmenuitem-protection-report-tooltip =
     .tooltiptext = به گزارش حریم‌خصوصی خود بروید

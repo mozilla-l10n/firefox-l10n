@@ -88,7 +88,7 @@ newtab-privacy-modal-button-done = انجام شد
 newtab-privacy-modal-header = حریم خصوصی شما اهمیت دارد.
 newtab-privacy-modal-link = در مورد حریم خصوصی در برگهٔ جدید بیاموزید
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = حذف نشانک
@@ -123,6 +123,10 @@ newtab-label-removed-bookmark = نشانک حذف شد
 newtab-label-recommended = موضوعات داغ
 newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · حمایت مالی شده
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -175,7 +179,8 @@ newtab-discovery-empty-section-topstories-timed-out = آخ! ما تقریباً 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = موضوع‌های محبوب:
 newtab-pocket-more-recommendations = توصیه‌های بیشتر
-newtab-pocket-how-it-works = این چطور کار می‌کند
+newtab-pocket-whats-pocket = { -pocket-brand-name } چیست؟
+newtab-pocket-learn-more = اطلاعات بیشتر
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
 newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود با مطالب فوق‌العاده انرژی بدهید.
 
