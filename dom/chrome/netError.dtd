@@ -92,3 +92,4 @@
 <!ENTITY blockedByPolicy.title "Pagina blocada">
 
 <!ENTITY networkProtocolError.title "Error de protocòl ret">
+<!ENTITY networkProtocolError.longDesc "<p>La pagina que volètz veire pòt pas èsser afichada a causa d’una error de protocòl ret detectada.</p><ul><li>Mercés de contactar los proprietaris del site web per los informar d’aqueste problèma.</li></ul>">
