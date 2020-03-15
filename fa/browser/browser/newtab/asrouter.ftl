@@ -120,9 +120,13 @@ cfr-whatsnew-lockwise-take-link-text = دریافت اپ
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = با نوار آدرس، کمتر تایپ کنید، اطلاعات بیشتری پیدا کنید
+cfr-whatsnew-searchbar-icon-alt-text = نشانکِ ذره‌بین
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = هنگام مرور اینترنت ویدئو ببینید
+cfr-whatsnew-pip-cta = بیشتر بدانید
 
 ## Permission Prompt
 
@@ -163,6 +167,8 @@ cfr-doorhanger-socialtracking-ok-button = دیدن محافطت‌ها
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = بستن
     .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = پیام‌هایی مانند این را دوباره به من نشان نده
+    .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } یک شبکه اجتماعی را در هنگام ردیابی شما متوقف کرد
 cfr-doorhanger-socialtracking-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } ردیاب‌های متداولِ رسانه‌های اجتماعی را مسدود، و میزان داده‌هایی که می‌توانند در مورد آنچه که برخط انجام می‌دهید جمع‌آوری کنند را محدود می‌کند.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name }  یک برداشت کننده‌ی اثر انگشت را در این صفحه مسدود کرد.
@@ -172,3 +178,5 @@ cfr-doorhanger-cryptominers-description = حریم‌خصوصی شما اهمی�
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = نمایش همه
+    .accesskey = ن

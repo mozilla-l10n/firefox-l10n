@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (مرور ناشناس)‏
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (مرور ناشناس)‏
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -85,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = باز کردن تابلو پیام‌ها
 urlbar-geolocation-notification-anchor =
     .tooltiptext = باز کردن تابلوی درخواستِ مکان
+urlbar-xr-notification-anchor =
+    .tooltiptext = باز کردن تابلوی مجوز واقعیت مجازی
 urlbar-storage-access-anchor =
     .tooltiptext = باز کردن تابلوی مجوز فعالیت مرور
 urlbar-translate-notification-anchor =
@@ -109,6 +95,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = باز کردن تابلو پیام‌های نصب افزودنی‌ها
 urlbar-tip-help-icon =
     .title = کمک بگیرید
+urlbar-search-tips-confirm = باشه، فهمیدم
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = نکات:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -117,11 +109,14 @@ urlbar-tip-help-icon =
 
 urlbar-search-tips-onboard = کمتر تایپ کنید، بیشتر پیدا کنید: تنها از طریق نوار آدرس با { $engineName } جست‌وجو کنید.
 urlbar-search-tips-redirect = جست‌وجوی خود را از اینجا آغاز کنید تا پیشنهادهایی از { $engineName } و تاریخچهٔ مرور خود را هم ببینید.
+urlbar-search-tips-redirect-2 = جست‌وجوی خود را در نوار آدرس تایپ کنید تا پیشنهادهایی از { $engineName } و تاریخچهٔ مرور خود ببینید.
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = شما این پایگاه‌وب را برای دسترسی به اطلاعات مکانی مسدود کرده‌اید.
+urlbar-xr-blocked =
+    .tooltiptext = شما دسترسی این وب‌سایت را به دستگاه واقعیت مجازی مسدود کرده‌اید.
 urlbar-web-notifications-blocked =
     .tooltiptext = شما این پایگاه‌وب را برای امکان ارسال اعلان مسدود کرده‌اید.
 urlbar-camera-blocked =

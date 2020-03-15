@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = نشانک‌گذاری این صفحه
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = نشانک‌گذاری این صفحه
     .accesskey = m
@@ -255,6 +252,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = نمایش تصویر پس‌زمینه
     .accesskey = ص
+main-context-menu-generate-new-password =
+    .label = استفاده از گذرواژه تولید شده…
+    .accesskey = G
 main-context-menu-keyword =
     .label = اضافه کردن یک کلیدواژه به این جست‌وجو…
     .accesskey = ک
