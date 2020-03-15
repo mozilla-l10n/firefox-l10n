@@ -52,7 +52,7 @@
 <!ENTITY zoomWindowCmd.label            "Forstørrelse">
 
 <!-- Help menu -->
-<!ENTITY openHelpCmd.label              "&brandShortName; Hjelp">
+<!ENTITY openHelpCmd.label              "Hjelp for &brandShortName;">
 <!ENTITY openHelpCmd.accesskey          "H">
 <!ENTITY openHelpCmd.key                "?">
 <!ENTITY openHelpCmd.modifiers          "accel">
