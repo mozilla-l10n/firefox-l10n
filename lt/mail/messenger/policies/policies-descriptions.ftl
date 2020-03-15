@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nustatykite strategijas, kurias „WebExtensions“ galės pasiekti per „chrome.storage.managed“.
+policy-AppAutoUpdate = Įjungti arba išjungti automatinius programos naujinimus.
 policy-AppUpdateURL = Nustatyti kitą programos naujinimų URL.
 policy-Authentication = Konfigūruoti integruotą autentifikaciją ją palaikančioms svetainėms.
 policy-BlockAboutAddons = Blokuoti prieigą prie priedų valdymo („about:addons“).
