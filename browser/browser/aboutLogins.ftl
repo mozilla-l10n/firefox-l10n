@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = جست‌وجو در اطلاعات ورودها
 create-login-button = ایجاد کردن ورود جدید
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = نمایه برای { $title }
 fxaccounts-sign-in-text = گذرواژه‌هایتان را دستگاه‌های دیگر خود همراه داشته باشید
 fxaccounts-sign-in-button = ورود به { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -31,6 +26,8 @@ menu =
     .title = باز کردن منو
 # This menuitem is only visible on Windows
 menu-menuitem-import = وارد کردن گذرواژه‌ها...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = وارد کردن از یک مرورگر دیگر…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] گزینه‌ها
@@ -51,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = مرتب کردن بر اساس:
 login-list-name-option = نام (A-Z)
+login-list-name-reverse-option = نام (A-Z)
 login-list-breached-option = پایگاه اینترنتی رخنه شده
 login-list-last-changed-option = آخرین تغییر
 login-list-last-used-option = آخرین استفاده
@@ -61,9 +59,6 @@ about-logins-login-list-empty-search-description = هیچ نتیجه‌ای مط
 login-list-item-title-new-login = ورود جدید
 login-list-item-subtitle-new-login = اطلاعات ورود خود را وارد کنید
 login-list-item-subtitle-missing-username = (بدون نام‌کاربری)
-about-logins-list-item-warning-icon =
-    .alt = آیکون هشدار
-    .title = وبسایت مورد رخنه قرار گرفته است
 about-logins-list-item-breach-icon =
     .title = وب‌سایت هک شده
 
@@ -81,7 +76,6 @@ about-logins-intro-import = اگر اطلاعات ورود شما، در مرو�
 
 login-item-new-login-title = ایجاد اطلاعات ورود جدید
 login-item-edit-button = ویرایش
-login-item-delete-button = حذف
 about-logins-login-item-remove-button = حذف
 login-item-origin-label = آدرس پایگاه
 login-item-origin =
@@ -92,10 +86,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = رونوشت
 login-item-copied-username-button-text = رونوشت شد!
 login-item-password-label = گذرواژه
-login-item-password-reveal-checkbox-show =
-    .title = نمایش گذرواژه
-login-item-password-reveal-checkbox-hide =
-    .title = مخفی کردن گذرواژه
+login-item-password-reveal-checkbox =
+    .aria-label = نمایش گذرواژه
 login-item-copy-password-button-text = رونوشت
 login-item-copied-password-button-text = رونوشت شد!
 login-item-save-changes-button = ذخیره تغییرات
@@ -126,7 +118,6 @@ enable-password-sync-preferences-button =
            *[other] ترجیحات { -sync-brand-short-name } را ببینید
         }
     .accesskey = گ
-confirm-delete-dialog-title = حذف این ورود؟
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = دوباره از من نپرس
     .accesskey = د
@@ -138,7 +129,6 @@ confirmation-dialog-dismiss-button =
     .title = انصراف
 about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
-confirm-delete-dialog-confirm-button = حذف
 about-logins-confirm-remove-dialog-confirm-button = حذف
 confirm-discard-changes-dialog-title = تغییرات ذخیره نشده نادیده گرفته شود؟
 confirm-discard-changes-dialog-message = تمام تغییرات ذخیره نشده از بین می‌روند.
@@ -153,11 +143,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = یک ورودی برای { $loginTitle } با این نام‌کاربری از قبل وجود دارد.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
