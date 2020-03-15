@@ -102,17 +102,22 @@ onboarding-browse-privately-text = La navegacion privada escafa vòstre istoric 
 onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
 onboarding-firefox-send-title = Gardatz privats los fichièrs que partejatz
 onboarding-firefox-send-button = Ensajatz { -send-brand-name }
+onboarding-mobile-phone-title = Installatz { -brand-product-name } sus vòstre mobil
+onboarding-mobile-phone-text = Telecargatz { -brand-product-name } per iOS o Android e sincronizatz vòstras donadas entre periferics.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Telecargar lo navegador mobil
+onboarding-send-tabs-title = Enivatz-vos d’onglets
 onboarding-send-tabs-button = Començar d’utilizar « Enviar l’onglet »
 onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emportatz vòstres senhals pertot
+onboarding-lockwise-passwords-text2 = Gardatz segurs los senhals qu’enregistratz e connectatz-vos facilament a vòstres comptes amb { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Obténer l’aplicacion
 onboarding-lockwise-strong-passwords-title = Creatz e gardatz de senhals fòrts.
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crèa de senhals fòrts sul pic e los garda en un sòl lòc.
 onboarding-lockwise-strong-passwords-button = Gerir vòstres identificants
 onboarding-facebook-container-title = Botatz de limitas amb Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } garda vòstre perfil separat de la rèsta, fa venir mai dificil per Facebook de vos ciblar amb de publicitats personalizadas.
 onboarding-facebook-container-button = Apondre l’extension
 onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senhals, e encara mai
 onboarding-import-browser-settings-button = Importar las donadas de Chrome
