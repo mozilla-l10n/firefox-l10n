@@ -22,6 +22,8 @@ certificate-viewer-country = Ország
 certificate-viewer-curve = Görbe
 certificate-viewer-distribution-point = Terjesztési pont
 certificate-viewer-dns-name = Tartománynév
+certificate-viewer-ip-address = IP-cím
+certificate-viewer-other-name = Egyéb név
 certificate-viewer-exponent = Kitevő
 certificate-viewer-id = Azonosító
 certificate-viewer-key-exchange-group = Kulcscsere csoport
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Célok
 certificate-viewer-qualifier = Minősítő
 certificate-viewer-qualifiers = Minősítők
 certificate-viewer-required = Kötelező
+certificate-viewer-unsupported = &lt;nem támogatott&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Szervezet állama/tartománya
 certificate-viewer-state-province = Állam/tartomány
