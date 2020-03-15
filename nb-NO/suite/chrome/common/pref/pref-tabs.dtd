@@ -22,6 +22,15 @@
 
 <!ENTITY openTabs.label "Åpne faner i stedet for vinduer for">
 
+<!ENTITY middleClick.label "Midt-trykk, Ctrl+trykk eller Ctrl+Enter på lenker i en nettside">
+<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClickMac.label "Midt-trykk, &#8984;+trykk eller &#8984;+Return på lenker i en nettside">
+<!ENTITY middleClickMac.accesskey "M">
+<!ENTITY urlbar.label "Ctrl+Enter i adresselinjen">
+<!ENTITY urlbar.accesskey "a">
+<!ENTITY urlbarMac.label "&#8984;+Return i adresselinjen">
+<!ENTITY urlbarMac.accesskey "a">
+
 <!ENTITY openManagers.label "Åpne i en ny fane i stedet for et frittstående vindu">
 <!ENTITY openDataManager.label "Databehandler">
 <!ENTITY openDataManager.accesskey "D">
