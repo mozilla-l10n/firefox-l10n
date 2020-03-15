@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey     "c">
 
+<!ENTITY customizeCmd.label "Özelleştir">
+<!ENTITY customizeCmd.accesskey "t">
+
 <!ENTITY viewMenu.label          "Görünüm">
 <!ENTITY viewMenu.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label        "Araç çubukları">
