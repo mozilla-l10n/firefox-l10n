@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Navegação privativa)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Navegação privativa)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -123,7 +107,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Digite menos, encontre mais: Pesquise por { $engineName } diretamente da sua barra de endereços.
+urlbar-search-tips-onboard = Digite menos, encontre mais: Pesquise no { $engineName } direto na barra de endereços.
 urlbar-search-tips-redirect = Inicie aqui a sua pesquisa para ver as sugestões do { $engineName } e seu histórico de navegação.
 urlbar-search-tips-redirect-2 = Inicie sua pesquisa na barra de endereços para ver sugestões do { $engineName } e do histórico de navegação.
 
