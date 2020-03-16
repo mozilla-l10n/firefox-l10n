@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "儲存的訊息…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "行事曆檔案…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "自行事曆刪除">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "詳細資訊…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "顯示活動詳情">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "不要顯示此訊息">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "行事曆">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "前往行事曆分頁">
 <!ENTITY lightning.imipbar.btnMore.label                                    "更多">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "點擊此處顯示更多選項">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "重新確認">
