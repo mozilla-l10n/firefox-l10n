@@ -44,6 +44,7 @@ about-networking-addresses = íyano
 about-networking-messages-sent = Óreka úai
 about-networking-messages-received = Já yɨnoga úia
 about-networking-bytes-sent = Óreka Bytes
+about-networking-bytes-received = Já yɨnoga Bytes
 about-networking-dns-lookup = Jénoka DNS
 about-networking-dns-lookup-button = Mamérite
 about-networking-dns-domain = Náamakɨ:
