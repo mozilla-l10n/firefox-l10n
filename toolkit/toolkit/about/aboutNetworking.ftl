@@ -20,6 +20,7 @@ about-networking-title = Ցանցի մասին
 about-networking-http = HTTP
 about-networking-sockets = Բնիկներ
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS վերջածանց
 about-networking-websockets = ՎեբԲնիկներ
 about-networking-refresh = Թարմացնել
 about-networking-auto-refresh = Ինքնաթարմացնել 3 վայրկյանը մեկ
@@ -78,6 +79,7 @@ about-networking-tcp = TCP
 about-networking-sent = Ուղարկված
 about-networking-received = Ստացված
 about-networking-family = Ընտանիք
+about-networking-trr = TRR
 about-networking-addresses = Հասցեներ
 about-networking-expires = Կավարտվի (վայրկյանից)
 about-networking-messages-sent = Հաղորդագրությունները ուղարկվել են
@@ -96,11 +98,30 @@ about-networking-dns-lookup = DNS փնտրում
 about-networking-dns-lookup-button = Ուղղել
 about-networking-dns-domain = Տիրույթ:
 about-networking-dns-lookup-table-column = IP-ներ
+about-networking-rcwn = RCWN վիճակներ
+about-networking-rcwn-status = RCWN  կարգավիճակ
+about-networking-rcwn-cache-won-count = Շտեմի քանակը հաղթում է
+about-networking-rcwn-net-won-count = Ցանցի քանակը հաղթում է
+about-networking-total-network-requests = Ենթագումարների հարցումների ընդհանուր հաշվարկ
+about-networking-rcwn-operation = Շտեմարանների գործողություն
+about-networking-rcwn-perf-open = Բացել
+about-networking-rcwn-perf-read = Ընթերցել
+about-networking-rcwn-perf-write = Գրել
+about-networking-rcwn-perf-entry-open = Մատչումը բաց է
+about-networking-rcwn-avg-short = Կարճ միջին
+about-networking-rcwn-avg-long = Երկար միջին
+about-networking-rcwn-std-dev-long = Երկար չափօրինակի շեղում
+about-networking-rcwn-cache-slow = Հիշապահեստը դանդաղ է աշխատում
+about-networking-rcwn-cache-not-slow = Հիշապահեստը դանդաղ չի հաշվում
+about-networking-networkid = Ցանցի ID
+about-networking-networkid-id = Ցանցի ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Հղումը վեր է
 networkid-statusKnown = Հայտնի է հղման կարգավիճակը
+about-networking-networkid-is-up = Հղումը վեր է
+about-networking-networkid-status-known = Հայտնի է հղման կարգավիճակը
 
 ##
 
