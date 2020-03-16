@@ -15,6 +15,14 @@ auto-refresh = दर ३ सेकंदाला स्वतः ताजे 
 hostname = यजमाननाव
 port = पोर्ट
 http2 = HTTP/2
+about-networking-title = नेटवर्किंग विषयी
+about-networking-sockets = सॉकेट्स
+about-networking-dns = DNS
+about-networking-websockets = वेबसॉकेट्स
+about-networking-refresh = ताजे करा
+about-networking-auto-refresh = दर ३ सेकंदाला स्वतः ताजे करा.
+about-networking-hostname = यजमाननाव
+about-networking-port = पोर्ट
 ssl = SSL
 active = सक्रीय करा
 idle = निष्क्रिय
@@ -57,3 +65,11 @@ rcwn-avg-long = लांब सरासरी
 rcwn-std-dev-long = लॉंग स्टेंडर्ड डेव्हिएशन
 rcwn-cache-slow = कॅशे हळु मोजणी
 rcwn-cache-not-slow = कॅशे हळु मोजणी नाही
+about-networking-ssl = SSL
+about-networking-idle = निष्क्रिय
+
+## Link is intended as "network link"
+
+
+##
+
