@@ -79,6 +79,7 @@ about-networking-tcp = TCP
 about-networking-sent = Enviado
 about-networking-received = Recebido
 about-networking-family = Família
+about-networking-trr = TRR
 about-networking-addresses = Endereços
 about-networking-expires = Expira (segundos)
 about-networking-messages-sent = Mensagens enviadas
