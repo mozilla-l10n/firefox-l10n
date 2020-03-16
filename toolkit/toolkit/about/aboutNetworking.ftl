@@ -79,6 +79,7 @@ about-networking-tcp = TCP
 about-networking-sent = 送信データ量
 about-networking-received = 受信データ量
 about-networking-family = 系統
+about-networking-trr = TRR
 about-networking-addresses = アドレス
 about-networking-expires = 期限 (秒)
 about-networking-messages-sent = 送信メッセージ
