@@ -20,6 +20,7 @@ about-networking-title = Over Netwerken
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS-achtervoegsel
 about-networking-websockets = WebSockets
 about-networking-refresh = Vernieuwen
 about-networking-auto-refresh = Om de 3 seconden automatisch vernieuwen
@@ -116,6 +117,8 @@ about-networking-rcwn-avg-long = Lang gemiddelde
 about-networking-rcwn-std-dev-long = Lange standaarddeviatie
 about-networking-rcwn-cache-slow = Aantal trage buffers
 about-networking-rcwn-cache-not-slow = Aantal niet-trage buffers
+about-networking-networkid = Netwerk-ID
+about-networking-networkid-id = Netwerk-ID
 
 ## Link is intended as "network link"
 
