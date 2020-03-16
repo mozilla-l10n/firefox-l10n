@@ -25,6 +25,9 @@
 <!ENTITY newPrivateWindowCmd.label "Anonymní okno">
 <!ENTITY newPrivateWindowCmd.key "P">
 <!ENTITY newPrivateWindowCmd.accesskey "A">
+<!ENTITY closeCmd.label "Zavřít">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "Z">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
 <!ENTITY printPreviewCmd.label "Náhled tisku">
@@ -32,6 +35,14 @@
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.key "p">
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+     application menu. Never change the modifiers unless you are 100% sure that
+     they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmdMac.label          "Předvolby…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
+
 
 <!ENTITY editMenu.label                   "Úpravy">
 <!ENTITY editMenu.accesskey               "a">
@@ -98,6 +109,9 @@
 <!ENTITY helpMenu.label                   "Nápověda">
 <!ENTITY helpMenu.accesskey               "v">
 
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+     for the help button in the menubar. -->
+
 <!ENTITY helpTroubleshootingInfo.label      "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label                   "Poznámky k vydání">
@@ -128,6 +142,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.label        "Změnit směr textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 
 <!ENTITY customizeToolbarContext.label            "Přizpůsobit…">
 <!ENTITY customizeToolbarContext.accesskey        "z">
