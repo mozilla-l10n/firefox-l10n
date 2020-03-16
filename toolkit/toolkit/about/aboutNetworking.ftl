@@ -72,8 +72,15 @@ about-networking-idle = 대기
 about-networking-host = 호스트
 about-networking-tcp = TCP
 about-networking-family = 계통
+about-networking-trr = TRR
 about-networking-addresses = 주소
 about-networking-expires = 만료(초)
+about-networking-logging = 로깅
+about-networking-current-log-file = 현재 로그 파일:
+about-networking-current-log-modules = 현재 로그 모듈:
+about-networking-set-log-file = 로그 파일 설정
+about-networking-set-log-modules = 로그 모듈 설정
+about-networking-start-logging = 로깅 시작
 about-networking-dns-lookup = DNS 조회
 about-networking-dns-lookup-button = 조회
 about-networking-dns-domain = 도메인:
@@ -82,6 +89,16 @@ about-networking-rcwn = RCWN 상태
 about-networking-rcwn-status = RCWN 상태
 about-networking-rcwn-cache-won-count = 캐시 성공 수
 about-networking-rcwn-net-won-count = 네트워크 성공 수
+about-networking-rcwn-operation = 캐시 작업
+about-networking-rcwn-perf-open = 열기
+about-networking-rcwn-perf-read = 읽기
+about-networking-rcwn-perf-write = 쓰기
+about-networking-rcwn-perf-entry-open = 엔트리 열기
+about-networking-rcwn-avg-short = 짧은 평균
+about-networking-rcwn-avg-long = 긴 평균
+about-networking-rcwn-std-dev-long = 긴 표준 편차
+about-networking-rcwn-cache-slow = 느린 캐시 횟수
+about-networking-rcwn-cache-not-slow = 느리지 않은 캐시 횟수
 
 ## Link is intended as "network link"
 
