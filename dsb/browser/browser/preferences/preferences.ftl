@@ -790,6 +790,12 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Sćo tuchylu we FIPS-modusu. FIPS pomina se głowne gronidło.
 forms-master-pw-fips-desc = Změnjanje gronidła njejo se raźiło
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby głowne gronidło napórał.
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Historija
