@@ -15,6 +15,14 @@ auto-refresh = أعِد التحميل تلقائيا كل ٣ ثوان
 hostname = اسم المستضيف
 port = المنفذ
 http2 = HTTP/2
+about-networking-title = عن الشبكات
+about-networking-sockets = المقابس
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = أعِد التحميل
+about-networking-auto-refresh = أعِد التحميل تلقائيا كل ٣ ثوان
+about-networking-hostname = اسم المستضيف
+about-networking-port = المنفذ
 ssl = SSL
 active = نشط
 idle = خامل
@@ -56,3 +64,23 @@ rcwn-avg-long = متوسط الطويل
 rcwn-std-dev-long = الانحراف المعياري الطويل
 rcwn-cache-slow = مرات بطء الخبيئة
 rcwn-cache-not-slow = مرات عدم بطء الخبيئة
+about-networking-ssl = SSL
+about-networking-active = نشط
+about-networking-idle = خامل
+about-networking-host = المستضيف
+about-networking-tcp = TCP
+about-networking-sent = مُرسَل
+about-networking-received = مُستلَم
+about-networking-family = العائلة
+about-networking-addresses = العناوين
+about-networking-expires = مدة انتهاء الصلاحية (بالثواني)
+about-networking-messages-sent = أُرسلت الرسالة
+about-networking-messages-received = الرسائل المُستلمة
+about-networking-bytes-sent = البايتات المرسلة
+about-networking-bytes-received = البايتات المستلمة
+
+## Link is intended as "network link"
+
+
+##
+
