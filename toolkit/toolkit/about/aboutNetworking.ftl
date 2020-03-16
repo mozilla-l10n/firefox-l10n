@@ -17,6 +17,7 @@ hostname = Nombre del servidor
 port = Puerto
 http2 = HTTP/2
 about-networking-title = Acerca del tráfico de red
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -81,6 +82,10 @@ about-networking-messages-sent = Mensajes enviados
 about-networking-messages-received = Mensajes recibidos
 about-networking-bytes-sent = Bytes enviados
 about-networking-bytes-received = Bytes recibidos
+about-networking-dns-lookup = Búsqueda de DNS
+about-networking-dns-lookup-button = Resolver
+about-networking-dns-domain = Dominio:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
