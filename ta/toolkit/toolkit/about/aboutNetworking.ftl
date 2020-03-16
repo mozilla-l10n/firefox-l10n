@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = அனுப்பப்பட்டது
 about-networking-received = பெறப்பட்டது
 about-networking-family = குடும்பம்
+about-networking-trr = TRR
 about-networking-addresses = முகவரிகள்
 about-networking-expires = காலாவதியாவது (வினாடிகள்)
 about-networking-messages-sent = செய்தி அனுப்பப்பட்டது
