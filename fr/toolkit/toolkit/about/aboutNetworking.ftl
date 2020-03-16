@@ -120,6 +120,7 @@ about-networking-networkid-id = Identifiant réseau
 
 networkid-isUp = Liaison établie
 networkid-statusKnown = L’état de la liaison est connu
+about-networking-networkid-is-up = Liaison établie
 about-networking-networkid-status-known = L’état de la liaison est connu
 
 ##
