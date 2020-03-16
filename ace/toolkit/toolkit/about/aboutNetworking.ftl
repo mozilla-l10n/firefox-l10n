@@ -3,3 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rcwn-perf-open = Peuhah
+about-networking-rcwn-perf-open = Peuhah
+
+## Link is intended as "network link"
+
+
+##
+
