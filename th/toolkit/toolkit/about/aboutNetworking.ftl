@@ -18,6 +18,7 @@ port = พอร์ต
 http2 = HTTP/2
 about-networking-title = เกี่ยวกับเครือข่าย
 about-networking-http = HTTP
+about-networking-sockets = ซ็อกเก็ต
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = เรียกใหม่
@@ -69,12 +70,14 @@ rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน�
 networkid = ID เครือข่าย
 networkid-id = ID เครือข่าย
 about-networking-ssl = SSL
+about-networking-active = ใช้งานอยู่
 about-networking-idle = ว่าง
 about-networking-host = โฮสต์
 about-networking-tcp = TCP
 about-networking-sent = ส่ง
 about-networking-received = รับ
 about-networking-family = กลุ่ม
+about-networking-trr = TRR
 about-networking-addresses = ที่อยู่
 about-networking-expires = หมดอายุ (วินาที)
 about-networking-messages-sent = ข้อความที่ส่ง
@@ -82,7 +85,21 @@ about-networking-messages-received = ข้อความที่รับ
 about-networking-bytes-sent = จำนวนไบต์ที่ส่ง
 about-networking-bytes-received = จำนวนไบต์ที่รับ
 about-networking-log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
+about-networking-current-log-file = ไฟล์รายการบันทึกปัจจุบัน:
+about-networking-current-log-modules = โมดูลรายการบันทึกปัจจุบัน:
+about-networking-set-log-file = ตั้งไฟล์รายการบันทึก
+about-networking-set-log-modules = ตั้งโมดูลรายการบันทึก
+about-networking-stop-logging = หยุดการบันทึก
+about-networking-dns-lookup = การค้นหา DNS
+about-networking-dns-lookup-button = แปลงที่อยู่
 about-networking-dns-domain = โดเมน:
+about-networking-dns-lookup-table-column = IP
+about-networking-rcwn = สถิติ RCWN
+about-networking-rcwn-status = สถานะ RCWN
+about-networking-total-network-requests = จำนวนคำขอเครือข่ายรวม
+about-networking-rcwn-perf-open = เปิด
+about-networking-rcwn-perf-read = อ่าน
+about-networking-rcwn-perf-write = เขียน
 
 ## Link is intended as "network link"
 
