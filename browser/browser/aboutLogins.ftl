@@ -101,6 +101,20 @@ login-item-time-changed = Newidiwyd ddiwethaf: { DATETIME($timeChanged, day: "nu
 login-item-time-created = Crëwyd: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Defnyddiwyd ddiwethaf: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Gwiriwch eich hunaniaeth i olygu'r mewngofnod  sydd wedi'i gadw.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = golygu'r mewngofnod sydd wedi'i gadw
+
 ## Master Password notification
 
 master-password-notification-message = Rhowch eich prif gyfrinair i weld mewngofnodi a chyfrineiriau wedi'u cadw
