@@ -15,6 +15,11 @@ auto-refresh = ಪ್ರತಿ 3 ಸೆಕೆಂಡುಗಳಿಗೆ ಸ್ವ�
 hostname = ಅತಿಥೇಯ ಗಣಕದ ಹೆಸರು
 port = ಪೋರ್ಟ್
 http2 = HTTP/2
+about-networking-title = ಜಾಲಬಂಧದ ಕುರಿತು
+about-networking-sockets = ಸಾಕೆಟ್‌ಗಳು
+about-networking-dns = DNS
+about-networking-websockets = ವೆಬ್‌ಸಾಕೆಟ್‌ಗಳು
+about-networking-refresh = ತಾಜಾಗೊಳಿಸು
 ssl = SSL
 active = ಸಕ್ರಿಯ
 idle = ನಿಷ್ಕ್ರಿಯ
@@ -42,3 +47,9 @@ rcwn-status = RCWN ಅಂಕಿಅಂಶಗಳು
 rcwn-perf-open = ತೆರೆ
 rcwn-perf-read = ಓದು
 rcwn-perf-write = ಬರೆ
+
+## Link is intended as "network link"
+
+
+##
+
