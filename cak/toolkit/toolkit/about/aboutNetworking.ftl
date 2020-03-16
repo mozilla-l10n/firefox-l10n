@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Titaq
 about-networking-received = K'ulun
 about-networking-family = Ach'alalri'ïl
+about-networking-trr = TRR
 about-networking-addresses = Ochochib'äl
 about-networking-expires = Nik'is (Taq xil ch'utiramaj)
 about-networking-messages-sent = Taq rutzijol etaqon
