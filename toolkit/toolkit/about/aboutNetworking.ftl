@@ -16,6 +16,14 @@ auto-refresh = Ինքնաթարմացնել 3 վայրկյանը մեկ
 hostname = Հոսթի անունը
 port = Դարպասը
 http2 = HTTP/2
+about-networking-title = Ցանցի մասին
+about-networking-sockets = Բնիկներ
+about-networking-dns = DNS
+about-networking-websockets = ՎեբԲնիկներ
+about-networking-refresh = Թարմացնել
+about-networking-auto-refresh = Ինքնաթարմացնել 3 վայրկյանը մեկ
+about-networking-hostname = Հոսթի անունը
+about-networking-port = Դարպասը
 about-networking-http-version = HTTP տարբերակ
 ssl = SSL
 active = Ակտիվ
@@ -61,6 +69,20 @@ rcwn-cache-slow = Հիշապահեստը դանդաղ է աշխատում
 rcwn-cache-not-slow = Հիշապահեստը դանդաղ չի հաշվում
 networkid = Ցանցի ID
 networkid-id = Ցանցի ID
+about-networking-ssl = SSL
+about-networking-active = Ակտիվ
+about-networking-idle = Անգործ
+about-networking-host = Հոսթ
+about-networking-tcp = TCP
+about-networking-sent = Ուղարկված
+about-networking-received = Ստացված
+about-networking-family = Ընտանիք
+about-networking-addresses = Հասցեներ
+about-networking-expires = Կավարտվի (վայրկյանից)
+about-networking-messages-sent = Հաղորդագրությունները ուղարկվել են
+about-networking-messages-received = Հաղորդագրությունները ուղարկվել են
+about-networking-bytes-sent = Բայթ է ուղարկվել
+about-networking-bytes-received = Բայթ է ստացվել
 
 ## Link is intended as "network link"
 
