@@ -16,6 +16,14 @@ auto-refresh = 3 saniyede bir otomatik yenile
 hostname = Makine adı
 port = Port
 http2 = HTTP/2
+about-networking-title = Ağ hakkında
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Yenile
+about-networking-auto-refresh = 3 saniyede bir otomatik yenile
+about-networking-hostname = Makine adı
+about-networking-port = Port
 about-networking-http-version = HTTP sürümü
 ssl = SSL
 active = Etkin
@@ -61,11 +69,25 @@ rcwn-cache-slow = Yavaş önbellek sayısı
 rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
 networkid = Ağ kimliği
 networkid-id = Ağ kimliği
+about-networking-ssl = SSL
+about-networking-active = Etkin
+about-networking-idle = Beklemede
+about-networking-host = Makine
+about-networking-tcp = TCP
+about-networking-sent = Gönderilen
+about-networking-received = Alınan
+about-networking-family = Aile
+about-networking-addresses = Adresler
+about-networking-expires = Zaman aşımı (saniye)
+about-networking-messages-sent = Gönderilen mesajlar
+about-networking-messages-received = Alınan mesajlar
+about-networking-bytes-sent = Gönderilen bayt
+about-networking-bytes-received = Alınan bayt
 
 ## Link is intended as "network link"
 
 networkid-isUp = Bağlantı çalışıyor
 networkid-statusKnown = Bağlantı durumu bilinmiyor
 
-
+##
 
