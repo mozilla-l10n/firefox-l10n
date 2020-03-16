@@ -116,6 +116,8 @@ cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = להקליד פחות ולמצוא יותר עם שורת הכתובת
+cfr-whatsnew-searchbar-body-topsites = מעכשיו, אפשר ללחוץ על שורת הכתובת והיא תתרחב עם קישורים לאתרים המובילים שלך.
 cfr-whatsnew-searchbar-icon-alt-text = סמל זכוכית מגדלת
 
 ## Picture-in-Picture
