@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Poslano
 about-networking-received = Prejeto
 about-networking-family = Družina
+about-networking-trr = TRR
 about-networking-addresses = Naslovi
 about-networking-expires = Poteče (sekunde)
 about-networking-messages-sent = Poslano sporočil
@@ -94,6 +95,20 @@ about-networking-dns-lookup = Iskanje DNS
 about-networking-dns-lookup-button = Razreši
 about-networking-dns-domain = Domena:
 about-networking-dns-lookup-table-column = IP-ji
+about-networking-rcwn = Statistika RCWN
+about-networking-rcwn-status = Stanje RCWN
+about-networking-rcwn-cache-won-count = Število zmag predpomnilnika
+about-networking-rcwn-net-won-count = Število zmag omrežja
+about-networking-total-network-requests = Skupno število zahtevkov omrežja
+about-networking-rcwn-operation = Opravilo predpomnilnika
+about-networking-rcwn-perf-open = Odpiranje
+about-networking-rcwn-perf-read = Branje
+about-networking-rcwn-perf-write = Pisanje
+about-networking-rcwn-avg-short = Kratko povprečje
+about-networking-rcwn-avg-long = Dolgo povprečje
+about-networking-rcwn-std-dev-long = Dolg standardni odklon
+about-networking-rcwn-cache-slow = Število počasnih delovanj diska
+about-networking-rcwn-cache-not-slow = Število hitrih delovanj diska
 
 ## Link is intended as "network link"
 
