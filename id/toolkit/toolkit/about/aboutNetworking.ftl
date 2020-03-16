@@ -86,7 +86,14 @@ about-networking-messages-sent = Pesan Terkirim
 about-networking-messages-received = Pesan Diterima
 about-networking-bytes-sent = Byte Dikirim
 about-networking-bytes-received = Byte Diterima
+about-networking-logging = Pencatatan
 about-networking-log-tutorial = Lihat <a data-l10n-name="logging">Pencatatan HTTP</a> untuk instruksi menggunakan alat ini.
+about-networking-current-log-file = Berkas Log Terkini:
+about-networking-current-log-modules = Modul Log Terkini:
+about-networking-set-log-file = Atur Berkas Log
+about-networking-set-log-modules = Atur Modul Log
+about-networking-start-logging = Mulai Pencatatan
+about-networking-stop-logging = Hentikan Pencatatan
 about-networking-dns-lookup = Pencarian DNS
 about-networking-dns-lookup-button = Selesaikan
 about-networking-dns-domain = Domain:
