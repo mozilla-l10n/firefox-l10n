@@ -20,6 +20,7 @@ about-networking-title = Sobre rede
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = Sufixo DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Atualizar
 about-networking-auto-refresh = Atualizar a cada 3 segundos
@@ -96,14 +97,19 @@ about-networking-dns-lookup-table-column = IPs
 about-networking-rcwn = Estatísticas RCWN
 about-networking-rcwn-status = Status RCWN
 about-networking-rcwn-cache-won-count = Contagem de cache ganha
+about-networking-rcwn-net-won-count = Contagem de rede ganha
 about-networking-total-network-requests = Contagem total de solicitação de rede
 about-networking-rcwn-cache-slow = Contagem lenta de cache
 about-networking-rcwn-cache-not-slow = Contagem não lenta de cache
+about-networking-networkid = ID da rede
+about-networking-networkid-id = ID da rede
 
 ## Link is intended as "network link"
 
 networkid-isUp = Link de rede está ativo
 networkid-statusKnown = Status do link de rede é desconhecido
+about-networking-networkid-is-up = Link de rede está ativo
+about-networking-networkid-status-known = Status do link de rede é desconhecido
 
 ##
 
