@@ -20,6 +20,7 @@ about-networking-title = Acerca del tráfico de red
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = Sufijo DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Referescar automáticamente cada 3 segundos
