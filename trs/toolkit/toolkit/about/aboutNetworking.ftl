@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = Ga'nìnj gan'an
 about-networking-received = Nahuin ra'á
 about-networking-family = Dugui'
+about-networking-trr = TRR
 about-networking-addresses = Hiuj gun'
 about-networking-expires = Gire'ej (Segundos)
 about-networking-messages-sent = Nga ga'anj nuguan'an
@@ -97,6 +98,16 @@ about-networking-rcwn-status = RCWN giriñu
 about-networking-rcwn-cache-won-count = Cache gi'iaj gana guenda na
 about-networking-rcwn-net-won-count = Gi'iaj ganaj guênda
 about-networking-total-network-requests = Daran' sa achín red na
+about-networking-rcwn-operation = Sa 'iaj Kachê
+about-networking-rcwn-perf-open = Na'nïn
+about-networking-rcwn-perf-read = Gahia
+about-networking-rcwn-perf-write = Gachrun
+about-networking-rcwn-perf-entry-open = Hua ni'nïn rahue'e
+about-networking-rcwn-avg-short = Mediâ ru'u
+about-networking-rcwn-avg-long = Mediâ ye'èe
+about-networking-rcwn-std-dev-long = Desbiasiûn hua niña ye'èe
+about-networking-rcwn-cache-slow = Sa nahia naj kachê
+about-networking-rcwn-cache-not-slow = Sa nitaj si nahia naj kachê
 
 ## Link is intended as "network link"
 
