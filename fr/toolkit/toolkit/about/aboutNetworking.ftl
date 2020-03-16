@@ -20,6 +20,7 @@ about-networking-title = Informations réseau
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = Suffixe DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Actualiser
 about-networking-auto-refresh = Actualiser toutes les 3 secondes
@@ -78,6 +79,7 @@ about-networking-tcp = TCP
 about-networking-sent = Envoyés
 about-networking-received = Reçus
 about-networking-family = Famille
+about-networking-trr = TRR
 about-networking-addresses = Adresses
 about-networking-expires = Expiration (secondes)
 about-networking-messages-sent = Messages envoyés
@@ -96,11 +98,24 @@ about-networking-dns-lookup = Recherche DNS
 about-networking-dns-lookup-button = Résolution
 about-networking-dns-domain = Domaine:
 about-networking-dns-lookup-table-column = Adresses IP
+about-networking-rcwn-cache-won-count = Nombre de victoires du cache
+about-networking-rcwn-net-won-count = Nombre de victoires du réseau
+about-networking-total-network-requests = Nombre total de requêtes réseau
+about-networking-rcwn-operation = Opérations du cache
+about-networking-rcwn-perf-open = Ouvertures
+about-networking-rcwn-perf-read = Lectures
+about-networking-rcwn-perf-write = Écritures
+about-networking-rcwn-perf-entry-open = Ouvertures d’entrées
+about-networking-rcwn-cache-slow = Nombre de fois où le cache est lent
+about-networking-rcwn-cache-not-slow = Nombre de fois où le cache est rapide
+about-networking-networkid = Identifiant réseau
+about-networking-networkid-id = Identifiant réseau
 
 ## Link is intended as "network link"
 
 networkid-isUp = Liaison établie
 networkid-statusKnown = L’état de la liaison est connu
+about-networking-networkid-status-known = L’état de la liaison est connu
 
 ##
 
