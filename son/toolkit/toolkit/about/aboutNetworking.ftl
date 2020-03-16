@@ -15,6 +15,14 @@ auto-refresh = Boŋ-taagandi segondu 3 kul
 hostname = Zunbudoo maa
 port = Kotay-mee
 http2 = HTTP/2
+about-networking-title = Margayyan ga
+about-networking-sockets = Funey
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Taagandi
+about-networking-auto-refresh = Boŋ-taagandi segondu 3 kul
+about-networking-hostname = Zunbudoo maa
+about-networking-port = Kotay-mee
 ssl = SSL
 active = Dirante
 idle = Ši dira
@@ -41,3 +49,22 @@ dns-lookup = DNS gunari
 dns-lookup-button = Anniya
 dns-domain = Laama:
 dns-lookup-table-column = IPs
+about-networking-ssl = SSL
+about-networking-active = Dirante
+about-networking-idle = Ši dira
+about-networking-host = Zunbudoo
+about-networking-tcp = TCP
+about-networking-sent = Sanbante
+about-networking-family = Alaayan
+about-networking-addresses = Aderesey
+about-networking-expires = Waati ga ben (segonduyaŋ)
+about-networking-messages-sent = Bataga sanbantey
+about-networking-messages-received = Bataga duwantey
+about-networking-bytes-sent = Cebsu-ize sanbantey
+about-networking-bytes-received = Cebsu-ize duwantey
+
+## Link is intended as "network link"
+
+
+##
+
