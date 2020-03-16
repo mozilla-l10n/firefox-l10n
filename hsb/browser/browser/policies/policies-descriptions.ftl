@@ -22,6 +22,7 @@ policy-Bookmarks = Zapołožki w symbolowej lajsće zapołožkow, w meniju zapo�
 policy-CaptivePortal = Kaptiwny portal zmóžnić abo znjemóžnić
 policy-CertificatesDescription = Certifikaty přidać abo zatwarjene certifikaty wužiwać.
 policy-Cookies = Websydłam dowolić abo zakazać, placki składować.
+policy-DisabledCiphers = Šifry znjemóžnić.
 policy-DefaultDownloadDirectory = Nastajće standardny sćehnjenski zapis.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžnić, zatwarjeny PDF-wobhladowak w { -brand-short-name }.

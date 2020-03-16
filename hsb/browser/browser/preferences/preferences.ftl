@@ -790,6 +790,12 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Sće tuchwilu we FIPS-modusu. FIPS sej hłowne hesło žada.
 forms-master-pw-fips-desc = Změnjenje hesła njeje so poradźiło
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Přepruwujće swoju identitu, zo byšće hłowne hesło wutworił.
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Historija
