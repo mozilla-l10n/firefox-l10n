@@ -63,6 +63,14 @@ about-networking-messages-sent = ສົ່ງຂໍ້ຄວາມ
 about-networking-messages-received = ໄດ້ຮັບຂໍ້ຄວາມ
 about-networking-bytes-sent = ສົ່ງ Bytes
 about-networking-bytes-received = ໄດ້ຮັບ Bytes
+about-networking-logging = ກຳລັງບັນທຶກລັອກ
+about-networking-log-tutorial = ເບິງ <a data-l10n-name="logging">ການລັອກ HTTP</a> ສຳລັບວິທີການນຳໃຊ້ເຄື່ອງມືນີ້.
+about-networking-current-log-file = ລັອກໄຟລ໌ຕອນນີ້:
+about-networking-current-log-modules = ໂມດູລລັອກຕອນນີ້:
+about-networking-set-log-file = ຕັ້ງລັອກໄຟລ໌
+about-networking-set-log-modules = ຕັ້ງໂມດູລລັອກ
+about-networking-start-logging = ເລີ່ມການບັນທຶກລັອກ
+about-networking-stop-logging = ຢຸດການບັນທຶກລັອກ
 about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Resolve
 about-networking-dns-domain = ໂດເມນ:
