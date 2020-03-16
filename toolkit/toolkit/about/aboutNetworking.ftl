@@ -64,6 +64,14 @@ about-networking-messages-received = ലഭിച്ച സന്ദേശങ്
 about-networking-bytes-sent = അയച്ച ബൈറ്റുകള്‍
 about-networking-bytes-received = ലഭിച്ച ബൈറ്റുകള്‍
 about-networking-log-tutorial = ഈ ടൂള്‍ ഉപയോഗിക്കുന്നത് എങ്ങനെ എന്നറിയാന്‍ <a data-l10n-name="logging">HTTP ലോഗിങ്ങ്</a> കാണുക.
+about-networking-current-log-file = നിലവിലെ ലോഗ് ഫയൽ:
+about-networking-current-log-modules = നിലവിലുള്ള ലോഗ് മൊഡ്യൂളുകൾ:
+about-networking-set-log-file = ലോഗ് ഫയൽ സജ്ജമാക്കുക
+about-networking-set-log-modules = ലോഗ് മൊഡ്യൂളുകൾ സജ്ജമാക്കുക
+about-networking-start-logging = ലോഗ് ചെയ്ത് തുടങ്ങുക
+about-networking-stop-logging = ലോഗ് ചെയ്യുന്നത് അവസാനിപ്പിക്കുക
+about-networking-dns-domain = ഡൊമെയിൻ:
+about-networking-total-network-requests = മൊത്തം നെറ്റ്‍വർക്ക് അഭ്യർത്ഥനയുടെ എണ്ണം
 about-networking-rcwn-perf-open = തുറന്നത്
 about-networking-rcwn-perf-read = വായിച്ചത്
 about-networking-rcwn-perf-write = എഴുതിയത്
