@@ -110,6 +110,7 @@ about-networking-rcwn-perf-write = Escribir
 about-networking-rcwn-perf-entry-open = Entrada abierta
 about-networking-rcwn-avg-short = Promedio corto
 about-networking-rcwn-avg-long = Promedio largo
+about-networking-rcwn-std-dev-long = Desviación estándar larga
 about-networking-rcwn-cache-slow = Cuenta lenta de caché
 about-networking-rcwn-cache-not-slow = Cuenta de caché no lenta
 
