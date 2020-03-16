@@ -124,6 +124,8 @@ about-networking-networkid-id = Netwerk-ID
 
 networkid-isUp = Koppeling is beschikbaar
 networkid-statusKnown = Koppelingsstatus is bekend
+about-networking-networkid-is-up = Koppeling is beschikbaar
+about-networking-networkid-status-known = Koppelingsstatus is bekend
 
 ##
 
