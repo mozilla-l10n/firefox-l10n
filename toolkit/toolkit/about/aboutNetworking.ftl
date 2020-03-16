@@ -14,6 +14,14 @@ refresh = Yenza ntsha
 auto-refresh = Yenza ntsha ngokuzenzekelayo qho kwimizuzwana emi-3
 hostname = Igama lomamkeli
 port = Isiqhagamshelisi
+about-networking-title = Malunga nokunethwekha
+about-networking-sockets = Iisokethi
+about-networking-dns = I-DNS
+about-networking-websockets = IiSokethi ZeWebhu
+about-networking-refresh = Yenza ntsha
+about-networking-auto-refresh = Yenza ntsha ngokuzenzekelayo qho kwimizuzwana emi-3
+about-networking-hostname = Igama lomamkeli
+about-networking-port = Isiqhagamshelisi
 ssl = I-SSL
 active = Iyasebenza
 idle = Ihleli nje
@@ -40,3 +48,23 @@ dns-lookup = Ukhangelo LweDNS
 dns-lookup-button = Combulula
 dns-domain = Idomeyini:
 dns-lookup-table-column = IPs
+about-networking-ssl = I-SSL
+about-networking-active = Iyasebenza
+about-networking-idle = Ihleli nje
+about-networking-host = Umamkeli
+about-networking-tcp = I-TCP
+about-networking-sent = Ithunyelwe
+about-networking-received = Ifunyenwe
+about-networking-family = Usapho
+about-networking-addresses = Iidilesi
+about-networking-expires = Iyaphelelwa (Imizuzwana)
+about-networking-messages-sent = Umyalezo Uthunyelwe
+about-networking-messages-received = Umyalezo Ufunyenwe
+about-networking-bytes-sent = IiByte Zithunyelwe
+about-networking-bytes-received = IiByte Zifunyenwe
+
+## Link is intended as "network link"
+
+
+##
+
