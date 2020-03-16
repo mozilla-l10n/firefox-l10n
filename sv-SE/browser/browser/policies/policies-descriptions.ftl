@@ -22,6 +22,7 @@ policy-Bookmarks = Skapa bokmärken i bokmärkesfältet, bokmärkesmenyn eller e
 policy-CaptivePortal = Aktivera eller inaktivera captive portal support.
 policy-CertificatesDescription = Lägg till certifikat eller använd inbyggda certifikat.
 policy-Cookies = Tillåt eller neka webbplatser att lagra kakor
+policy-DisabledCiphers = Inaktivera chiffer.
 policy-DefaultDownloadDirectory = Ange standard för nedladdningskatalog.
 policy-DisableAppUpdate = Förhindra att webbläsaren uppdateras.
 policy-DisableBuiltinPDFViewer = Inaktivera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }.
