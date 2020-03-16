@@ -75,6 +75,7 @@ about-networking-tcp = ٹی سی پی
 about-networking-sent = بھیجا گیا
 about-networking-received = وصولا گیا
 about-networking-family = خاندان
+about-networking-trr = TRR
 about-networking-addresses = پتے
 about-networking-expires = مدت ختم ہوتی ہے (سیکنڈ)
 about-networking-messages-sent = پیغامات بھیج دئیے گیے
@@ -93,6 +94,9 @@ about-networking-dns-lookup = DNS تلاش کریں
 about-networking-dns-lookup-button = حل کریں
 about-networking-dns-domain = عمل داری:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn-perf-open = کھولیں
+about-networking-rcwn-perf-read = پڑھيں
+about-networking-rcwn-perf-write = لکھیں
 
 ## Link is intended as "network link"
 
