@@ -16,6 +16,7 @@ hostname = Nom de l'ordinador central
 port = Port
 http2 = HTTP/2
 about-networking-title = Quant al trànsit de xarxa
+about-networking-http = HTTP
 about-networking-sockets = Sòcols
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -68,6 +69,18 @@ about-networking-messages-sent = Missatges enviats
 about-networking-messages-received = Missatges rebuts
 about-networking-bytes-sent = Bytes enviats
 about-networking-bytes-received = Bytes rebuts
+about-networking-logging = Registre
+about-networking-log-tutorial = Vegeu <a data-l10n-name="logging">HTTP Logging</a> per obtenir instruccions sobre com utilitzar aquesta eina.
+about-networking-current-log-file = Fitxer de registre actual:
+about-networking-current-log-modules = Mòduls de registre actuals:
+about-networking-set-log-file = Defineix el fitxer de registre
+about-networking-set-log-modules = Defineix els mòduls de registre
+about-networking-start-logging = Inicia el registre
+about-networking-stop-logging = Atura el registre
+about-networking-dns-lookup = Consulta DNS
+about-networking-dns-lookup-button = Resol
+about-networking-dns-domain = Domini:
+about-networking-dns-lookup-table-column = IP
 
 ## Link is intended as "network link"
 
