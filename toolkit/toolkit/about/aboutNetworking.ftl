@@ -15,6 +15,14 @@ auto-refresh = Automātiski atjaunināt katras 3 sekundes
 hostname = Adrese
 port = Ports
 http2 = HTTP/2
+about-networking-title = Par tīklu
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Atjaunināt
+about-networking-auto-refresh = Automātiski atjaunināt katras 3 sekundes
+about-networking-hostname = Adrese
+about-networking-port = Ports
 ssl = SSL
 active = Aktīvs
 idle = Dīkstāvē
@@ -57,3 +65,23 @@ rcwn-avg-long = Garš vidējais
 rcwn-std-dev-long = Gara standarta nobīde
 rcwn-cache-slow = Kešatmiņas lēnumu skaits
 rcwn-cache-not-slow = Kešatmiņas ne lēnumu skaits
+about-networking-ssl = SSL
+about-networking-active = Aktīvs
+about-networking-idle = Dīkstāvē
+about-networking-host = Adrese
+about-networking-tcp = TCP
+about-networking-sent = Nosūtīts
+about-networking-received = Saņemts
+about-networking-family = Saime
+about-networking-addresses = Adreses
+about-networking-expires = Noilgums (sekundes)
+about-networking-messages-sent = Nosūtītie ziņojumi
+about-networking-messages-received = Saņemtie ziņojumi
+about-networking-bytes-sent = Nosūtītie baiti
+about-networking-bytes-received = Saņemtie baiti
+
+## Link is intended as "network link"
+
+
+##
+
