@@ -15,6 +15,14 @@ auto-refresh = ప్రతి 3 క్షణాలకు స్వయంచా�
 hostname = అతిధేయపేరు
 port = పోర్టు
 http2 = HTTP/2
+about-networking-title = నెట్వర్కింగ్ గురించి
+about-networking-sockets = సాకెట్లు
+about-networking-dns = DNS
+about-networking-websockets = వెబ్‌సాకెట్లు
+about-networking-refresh = రీఫ్రెష్
+about-networking-auto-refresh = ప్రతి 3 క్షణాలకు స్వయంచాలకరీఫ్రెష్
+about-networking-hostname = అతిధేయపేరు
+about-networking-port = పోర్టు
 ssl = SSL
 active = క్రియాశీలం
 idle = ఊరకవున్న
@@ -51,3 +59,23 @@ rcwn-perf-read = చదువు
 rcwn-perf-write = రాయి
 rcwn-avg-short = చిన్న సగటు
 rcwn-avg-long = దీర్ఘ సగటు
+about-networking-ssl = SSL
+about-networking-active = క్రియాశీలం
+about-networking-idle = ఊరకవున్న
+about-networking-host = అతిధేయ
+about-networking-tcp = TCP
+about-networking-sent = పంపిన
+about-networking-received = స్వీకరించిన
+about-networking-family = కుటుంబం
+about-networking-addresses = చిరునామా
+about-networking-expires = గడువుతీరును (క్షణాలు)
+about-networking-messages-sent = పంపిన సందేశాలు
+about-networking-messages-received = స్వీకరించిన సందేశాలు
+about-networking-bytes-sent = పంపిన బైట్లు
+about-networking-bytes-received = స్వీకరించిన బైట్లు
+
+## Link is intended as "network link"
+
+
+##
+
