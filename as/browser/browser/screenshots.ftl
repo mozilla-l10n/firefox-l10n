@@ -33,3 +33,4 @@ screenshots-empty-selection-error-title = আপোনাৰ বাছনি খ
 screenshots-private-window-error-title = ব্যক্তিগত ব্ৰাউজিং ম'ডত { -screenshots-brand-name } নিষ্ক্ৰিয় কৰা হয়
 screenshots-private-window-error-details = অসুবিধাৰ বাবে ক্ষমা কৰিব। আমি ভৱিষ্যতৰ সংস্কৰণসমূহৰ বাবে এই সুবিধাৰ ওপৰত কাম কৰি আছোঁ।
 screenshots-generic-error-title = উস্‌! { -screenshots-brand-name }-এ খেলিমেলি কৰিছে।
+screenshots-generic-error-details = আমি ভালকৈ গম নাপাওঁ এইমাত্ৰ কি হ'ল। আকৌ চেষ্টা কৰিবলৈ বা বেলেগ এখন পৃষ্ঠাৰ শ্বট ল'বলৈ যত্ন কৰিবনে?
