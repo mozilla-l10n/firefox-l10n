@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Bidalitakoak
 about-networking-received = Jasotakoak
 about-networking-family = Familia
+about-networking-trr = TRR
 about-networking-addresses = Helbideak
 about-networking-expires = Iraungitzea (segundoak)
 about-networking-messages-sent = Bidalitako mezuak
