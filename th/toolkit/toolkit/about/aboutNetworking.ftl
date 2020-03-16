@@ -74,12 +74,14 @@ about-networking-host = โฮสต์
 about-networking-tcp = TCP
 about-networking-sent = ส่ง
 about-networking-received = รับ
+about-networking-family = กลุ่ม
 about-networking-addresses = ที่อยู่
 about-networking-expires = หมดอายุ (วินาที)
 about-networking-messages-sent = ข้อความที่ส่ง
 about-networking-messages-received = ข้อความที่รับ
 about-networking-bytes-sent = จำนวนไบต์ที่ส่ง
 about-networking-bytes-received = จำนวนไบต์ที่รับ
+about-networking-log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
 about-networking-dns-domain = โดเมน:
 
 ## Link is intended as "network link"
