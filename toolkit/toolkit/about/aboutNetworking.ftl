@@ -75,6 +75,8 @@ about-networking-dns-domain = ಡೊಮೈನ್:
 about-networking-dns-lookup-table-column = IPಗಳು
 about-networking-rcwn = RCWN ಅಂಕಿಅಂಶಗಳು
 about-networking-rcwn-status = RCWN ಅಂಕಿಅಂಶಗಳು
+about-networking-rcwn-perf-open = ತೆರೆ
+about-networking-rcwn-perf-read = ಓದು
 about-networking-rcwn-perf-write = ಬರೆ
 
 ## Link is intended as "network link"
