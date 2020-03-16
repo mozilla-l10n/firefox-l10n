@@ -112,11 +112,14 @@ about-networking-rcwn-avg-long = Media de largas
 about-networking-rcwn-std-dev-long = Desviación estándar de largas
 about-networking-rcwn-cache-slow = Cuenta de caché lenta
 about-networking-rcwn-cache-not-slow = Cuenta de caché no lenta
+about-networking-networkid = ID de red
+about-networking-networkid-id = ID de red
 
 ## Link is intended as "network link"
 
 networkid-isUp = La conexión está activa
 networkid-statusKnown = Se conoce el estado del enlace
+about-networking-networkid-is-up = La conexión está activa
 about-networking-networkid-status-known = Se conoce el estado del enlace
 
 ##
