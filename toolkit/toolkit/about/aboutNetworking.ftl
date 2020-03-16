@@ -97,6 +97,7 @@ about-networking-stop-logging = Остановить ведение журнал
 about-networking-dns-lookup = Запрос DNS
 about-networking-dns-lookup-button = Запросить
 about-networking-dns-domain = Домен:
+about-networking-dns-lookup-table-column = IP-адреса
 about-networking-rcwn = Статистика RCWN
 about-networking-rcwn-status = Статус RCWN
 about-networking-rcwn-cache-won-count = Число выигрышей кэша
