@@ -16,6 +16,11 @@ auto-refresh = 3초마다 자동 새로 고침
 hostname = 호스트명
 port = 포트
 http2 = HTTP/2
+about-networking-title = 네트워크 정보
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-hostname = 호스트명
 about-networking-http-version = HTTP 버전
 ssl = SSL
 active = 활성
@@ -61,6 +66,13 @@ rcwn-cache-slow = 느린 캐시 횟수
 rcwn-cache-not-slow = 느리지 않은 캐시 횟수
 networkid = 네트워크 ID
 networkid-id = 네트워크 ID
+about-networking-ssl = SSL
+about-networking-idle = 대기
+about-networking-host = 호스트
+about-networking-tcp = TCP
+about-networking-family = 계통
+about-networking-addresses = 주소
+about-networking-expires = 만료(초)
 
 ## Link is intended as "network link"
 
