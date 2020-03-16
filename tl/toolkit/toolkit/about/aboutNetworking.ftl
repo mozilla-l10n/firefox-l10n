@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Naipadala
 about-networking-received = Natanggap
 about-networking-family = Pamilya
+about-networking-trr = TRR
 about-networking-expires = Mag E-expire (Segundo)
 about-networking-messages-sent = Mga naipadalang mensahe
 about-networking-messages-received = Mga mensahe na natanggap
@@ -110,6 +111,8 @@ about-networking-rcwn-avg-long = Mahabang Katampatan
 about-networking-rcwn-std-dev-long = Mahabang Standard Deviation
 about-networking-rcwn-cache-slow = Mabagal ang bilang ng cache
 about-networking-rcwn-cache-not-slow = Hindi mabagal ang bilang ng cache
+about-networking-networkid = Network ID
+about-networking-networkid-id = Network ID
 
 ## Link is intended as "network link"
 
