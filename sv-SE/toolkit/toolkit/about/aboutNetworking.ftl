@@ -16,6 +16,13 @@ auto-refresh = Autouppdatera var 3:e sekund
 hostname = Värdnamn
 port = Port
 http2 = HTTP/2
+about-networking-title = Om nätverk
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Uppdatera
+about-networking-hostname = Värdnamn
+about-networking-port = Port
 about-networking-http-version = HTTP-version
 ssl = SSL
 active = Aktiv
@@ -61,11 +68,25 @@ rcwn-cache-slow = Antal långsam cache
 rcwn-cache-not-slow = Antal inte långsam cache
 networkid = Nätverks-ID
 networkid-id = Nätverks-ID
+about-networking-ssl = SSL
+about-networking-active = Aktiv
+about-networking-idle = Vilande
+about-networking-host = Värd
+about-networking-tcp = TCP
+about-networking-sent = Skickat
+about-networking-received = Mottaget
+about-networking-family = Familj
+about-networking-addresses = Adresser
+about-networking-expires = Förfaller (sekunder)
+about-networking-messages-sent = Skickade meddelanden
+about-networking-messages-received = Mottagna meddelanden
+about-networking-bytes-sent = Skickade byte
+about-networking-bytes-received = Mottagna byte
 
 ## Link is intended as "network link"
 
 networkid-isUp = Länken är uppe
 networkid-statusKnown = Länkstatus är känd
 
-
+##
 
