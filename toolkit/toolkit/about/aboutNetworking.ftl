@@ -91,9 +91,21 @@ about-networking-dns-lookup = Yiylo DNS
 about-networking-dns-lookup-button = Jiɓtu
 about-networking-dns-domain = Domen:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = Limooje RCWN
+about-networking-rcwn-status = Ngonka RCWN
+about-networking-rcwn-cache-won-count = Moggol limooje kawguuji
+about-networking-rcwn-net-won-count = Limoore keɓ kawguuji
+about-networking-total-network-requests = Kuuɓal limoore ɗaɓɓaaɗe laylaytol
+about-networking-rcwn-operation = Gollal moggol
 about-networking-rcwn-perf-open = Uddit
 about-networking-rcwn-perf-read = Tar
 about-networking-rcwn-perf-write = Winndu
+about-networking-rcwn-perf-entry-open = Damal udditiingal
+about-networking-rcwn-avg-short = Hakindo raɓɓo
+about-networking-rcwn-avg-long = Hakindo juutngo
+about-networking-rcwn-std-dev-long = Ɓur-celol juutngol
+about-networking-rcwn-cache-slow = Limoore leelnde moggere
+about-networking-rcwn-cache-not-slow = Limoore moggere leelaani
 
 ## Link is intended as "network link"
 
