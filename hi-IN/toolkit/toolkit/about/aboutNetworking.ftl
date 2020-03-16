@@ -77,6 +77,7 @@ about-networking-tcp = TCP
 about-networking-sent = भेजें
 about-networking-received = हस्तगत
 about-networking-family = परिवार
+about-networking-trr = TRR
 about-networking-addresses = पता
 about-networking-expires = समय समाप्त (सेकेंड)
 about-networking-messages-sent = संदेश प्रेषित
