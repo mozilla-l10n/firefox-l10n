@@ -85,6 +85,12 @@ about-networking-bytes-sent = Odoslané bajty
 about-networking-bytes-received = Prijaté bajty
 about-networking-logging = Záznam
 about-networking-log-tutorial = Ak sa chcete dozvedieť informácie o používaní tohto nástroja, prosím, navštívte stránku <a data-l10n-name="logging">HTTP Logging</a>.
+about-networking-current-log-file = Aktuálny súbor protokolu:
+about-networking-current-log-modules = Aktuálne moduly protokolu:
+about-networking-set-log-file = Nastaviť súbor protokolu
+about-networking-set-log-modules = Nastaviť moduly protokolu
+about-networking-start-logging = Spustiť záznam protokolu
+about-networking-stop-logging = Zastaviť záznam protokolu
 about-networking-dns-lookup = Vyhľadávanie DNS
 about-networking-dns-lookup-button = Vyriešiť
 about-networking-dns-domain = Doména:
