@@ -22,6 +22,7 @@ policy-Bookmarks = Bladwijzers maken in de Bladwijzerwerkbalk, het menu Bladwijz
 policy-CaptivePortal = Ondersteuning voor hotspot-aanmeldingspagina inschakelen of uitschakelen.
 policy-CertificatesDescription = Certificaten toevoegen of ingebouwde certificaten gebruiken.
 policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
+policy-DisabledCiphers = Coderingssuites uitschakelen.
 policy-DefaultDownloadDirectory = Standaard downloadmap instellen.
 policy-DisableAppUpdate = Voorkomen dat de browser wordt bijgewerkt.
 policy-DisableBuiltinPDFViewer = PDF.js uitschakelen, de ingebouwde PDF-viewer in { -brand-short-name }.
