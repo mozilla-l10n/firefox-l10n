@@ -22,6 +22,7 @@ policy-Bookmarks = 북마크 도구 모음, 북마크 메뉴 또는 그 안의 �
 policy-CaptivePortal = 종속 포털 지원을 사용하거나 사용하지 않게 합니다.
 policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인증서를 사용합니다.
 policy-Cookies = 웹 사이트의 쿠키 설정을 허용하거나 거부합니다.
+policy-DisabledCiphers = 암호화를 사용 안 합니다.
 policy-DefaultDownloadDirectory = 기본 다운로드 디렉터리를 설정합니다.
 policy-DisableAppUpdate = 브라우저가 업데이트 되지 않게 합니다.
 policy-DisableBuiltinPDFViewer = { -brand-short-name }에 내장된 PDF 뷰어인 PDF.js를 사용 안 합니다.
