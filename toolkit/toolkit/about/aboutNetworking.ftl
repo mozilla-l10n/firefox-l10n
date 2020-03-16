@@ -15,6 +15,14 @@ auto-refresh = Actualitza automàticament cada 3 segons
 hostname = Nom de l'ordinador central
 port = Port
 http2 = HTTP/2
+about-networking-title = Quant al trànsit de xarxa
+about-networking-sockets = Sòcols
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Actualitza
+about-networking-auto-refresh = Actualitza automàticament cada 3 segons
+about-networking-hostname = Nom de l'ordinador central
+about-networking-port = Port
 ssl = SSL
 active = Actiu
 idle = Inactiu
@@ -46,9 +54,23 @@ rcwn-operation = Operació de memòria cau
 rcwn-perf-open = Obre
 networkid = ID de xarxa
 networkid-id = ID de xarxa
+about-networking-ssl = SSL
+about-networking-active = Actiu
+about-networking-idle = Inactiu
+about-networking-host = Ordinador central
+about-networking-tcp = TCP
+about-networking-sent = Enviats
+about-networking-received = Rebuts
+about-networking-family = Família
+about-networking-addresses = Adreces
+about-networking-expires = Venciment (segons)
+about-networking-messages-sent = Missatges enviats
+about-networking-messages-received = Missatges rebuts
+about-networking-bytes-sent = Bytes enviats
+about-networking-bytes-received = Bytes rebuts
 
 ## Link is intended as "network link"
 
 
-
+##
 
