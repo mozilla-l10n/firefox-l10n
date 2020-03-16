@@ -365,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Dangos Atgoffwyr">
 <!ENTITY calendarproperties.cache3.label                   "Cefnogaeth All-lein">
 <!ENTITY calendarproperties.enabled.label                  "Newid y calendr yma ar">
+<!ENTITY calendarproperties.enabled2.label                 "Galluogi'r Calendr hwn">
 <!ENTITY calendarproperties.forceDisabled.label            "Nid oes modd canfod darparwr y calendr hwn. Mae hyn yn digwydd yn aml os ydych wedi anablu neu ddadosod rhai ychwanegion.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dad-danysgrifio">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "a">
