@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Створити нове завдання" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Завдання" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показати завершені завдання">
 
 <!ENTITY calendar.today.button.label          "Сьогодні">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Присутність">
 <!ENTITY calendar.context.attendance.menu.accesskey             "и">
 <!ENTITY calendar.context.attendance.occurrence.label           "Це повторення">
-<!ENTITY calendar.context.attendance.all.label        "Всі повторення" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Всі серії подій">
 <!ENTITY calendar.context.attendance.send.label                 "Надіслати сповіщення зараз">
 <!ENTITY calendar.context.attendance.send.accesskey             "Н">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Показати сповіщення">
 <!ENTITY calendarproperties.cache3.label                   "Робота поза мережею">
 <!ENTITY calendarproperties.enabled.label                  "Перемкнути цей календар на">
+<!ENTITY calendarproperties.enabled2.label                 "Увімкнути цей календар">
 <!ENTITY calendarproperties.forceDisabled.label            "Не знайдено постачальника для цього календаря. Іноді це може настати після вимикання або вилучення спеціальних додатків.">
 <!ENTITY calendarproperties.unsubscribe.label              "Відписатись">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "В">
