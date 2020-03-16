@@ -91,6 +91,9 @@ about-networking-dns-lookup = Yiylo DNS
 about-networking-dns-lookup-button = Jiɓtu
 about-networking-dns-domain = Domen:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn-perf-open = Uddit
+about-networking-rcwn-perf-read = Tar
+about-networking-rcwn-perf-write = Winndu
 
 ## Link is intended as "network link"
 
