@@ -16,6 +16,14 @@ auto-refresh = רענון אוטומטי בכל 3 שניות
 hostname = שם מארח
 port = פתחה
 http2 = HTTP/2
+about-networking-title = מידע על רכיב התקשורת
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = רענון
+about-networking-auto-refresh = רענון אוטומטי בכל 3 שניות
+about-networking-hostname = שם מארח
+about-networking-port = פתחה
 about-networking-http-version = גרסת HTTP
 ssl = SSL
 active = פעיל
@@ -60,9 +68,23 @@ rcwn-cache-slow = ספירת אטיות במטמון
 rcwn-cache-not-slow = ספירת חוסר אטיות במטמון
 networkid = מזהה רשת
 networkid-id = מזהה רשת
+about-networking-ssl = SSL
+about-networking-active = פעיל
+about-networking-idle = בהמתנה
+about-networking-host = מארח
+about-networking-tcp = TCP
+about-networking-sent = נשלחו
+about-networking-received = התקבלו
+about-networking-family = משפחה
+about-networking-addresses = כתובות
+about-networking-expires = תפוגה (בשניות)
+about-networking-messages-sent = הודעות שנשלחו
+about-networking-messages-received = הודעות שהתקבלו
+about-networking-bytes-sent = בתים שנשלחו
+about-networking-bytes-received = בתים שהתקבלו
 
 ## Link is intended as "network link"
 
 
-
+##
 
