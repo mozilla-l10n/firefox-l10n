@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Nowy nadawk wutworić" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Nadawki" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Dokónčene nadawki pokazać">
 
 <!ENTITY calendar.today.button.label          "Dźensa">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Wobdźělenje">
 <!ENTITY calendar.context.attendance.menu.accesskey             "l">
 <!ENTITY calendar.context.attendance.occurrence.label           "Tutón podawk">
-<!ENTITY calendar.context.attendance.all.label        "Wšě podawki" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Dospołny rjad">
 <!ENTITY calendar.context.attendance.send.label                 "Nětko zdźělenku pósłać">
 <!ENTITY calendar.context.attendance.send.accesskey             "N">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Dopomnjeća pokazać">
 <!ENTITY calendarproperties.cache3.label                   "Podpěra offline">
 <!ENTITY calendarproperties.enabled.label                  "Tutu protyku zapinać">
+<!ENTITY calendarproperties.enabled2.label                 "Tutu protyku zmóžnić">
 <!ENTITY calendarproperties.forceDisabled.label            "Poskićowar za tutu protyku njeda so namakać. To so husto stawa, jeli sće wěste přidatki znjemóžnił abo wotinstalował.">
 <!ENTITY calendarproperties.unsubscribe.label              "Wotskazać">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "t">
