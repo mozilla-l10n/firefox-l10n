@@ -10,6 +10,7 @@
 <!ENTITY devToolsCmd.keycode             "VK_F12">
 <!ENTITY devToolsCmd.keytext             "F12">
 
+<!ENTITY devtoolsConnect.label           "Yhdistä…">
 
 <!ENTITY browserConsoleCmd.label         "Selainkonsoli">
 
