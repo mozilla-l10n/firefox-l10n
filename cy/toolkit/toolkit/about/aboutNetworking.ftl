@@ -20,6 +20,7 @@ about-networking-title = Ynghylch Rhwydweithio
 about-networking-http = HTTP
 about-networking-sockets = Socedi
 about-networking-dns = DNS
+about-networking-dns-suffix = Ôl-ddodiad DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Adnewyddu
 about-networking-auto-refresh = Adnewyddu pob 3 eiliad
@@ -99,8 +100,10 @@ about-networking-dns-domain = Parth:
 about-networking-dns-lookup-table-column = IPau
 about-networking-rcwn = Statws RCWN
 about-networking-rcwn-status = Statws RCWN
+about-networking-rcwn-cache-won-count = Cyfrif storfa dros dro wedi ei ennill
 about-networking-rcwn-net-won-count = Cyfrif rhwyd wedi ei ennill
 about-networking-total-network-requests = Cyfanswm cyfrif ceisiadau rhwydwaith
+about-networking-rcwn-operation = Gweithred Storfa Dros Dro
 about-networking-rcwn-perf-open = Ar Agor
 about-networking-rcwn-perf-read = Darllen
 about-networking-rcwn-perf-write = Ysgrifennu
@@ -108,11 +111,17 @@ about-networking-rcwn-perf-entry-open = Cofnod Ar Agor
 about-networking-rcwn-avg-short = Cyfartaledd Hir
 about-networking-rcwn-avg-long = Cyfartaledd Hir
 about-networking-rcwn-std-dev-long = Gwyriad Safonol Hir
+about-networking-rcwn-cache-slow = Cyfrif araf storfa dros dro
+about-networking-rcwn-cache-not-slow = Cyfrif nid araf storfa dros dro
+about-networking-networkid = ID Rhwydwaith
+about-networking-networkid-id = ID Rhwydwaith
 
 ## Link is intended as "network link"
 
 networkid-isUp = Mae'r cyswllt ar i fyny
 networkid-statusKnown = Mae statws y cyswllt yn hysbys
+about-networking-networkid-is-up = Mae'r cyswllt ar i fyny
+about-networking-networkid-status-known = Mae statws y cyswllt yn hysbys
 
 ##
 
