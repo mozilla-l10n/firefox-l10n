@@ -16,6 +16,15 @@ auto-refresh = Automatski osvježi svake 3 sekunde
 hostname = Naziv hosta
 port = Port
 http2 = HTTP/2
+about-networking-title = O umrežavanju
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Osvježi
+about-networking-auto-refresh = Automatski osvježi svake 3 sekunde
+about-networking-hostname = Naziv hosta
+about-networking-port = Port
 about-networking-http-version = HTTP verzija
 ssl = SSL
 active = Aktivno
@@ -61,11 +70,37 @@ rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
 networkid = ID Mreže
 networkid-id = ID Mreže
+about-networking-ssl = SSL
+about-networking-active = Aktivno
+about-networking-idle = Neaktivan
+about-networking-host = Host
+about-networking-tcp = TCP
+about-networking-sent = Poslano
+about-networking-received = Primljeno
+about-networking-family = Familija
+about-networking-addresses = Adrese
+about-networking-expires = Ističe (sekunde)
+about-networking-messages-sent = Poruka poslano
+about-networking-messages-received = Poruka primljeno
+about-networking-bytes-sent = Bajta poslano
+about-networking-bytes-received = Bajta primljeno
+about-networking-logging = Zapisujem
+about-networking-log-tutorial = Pogledajte <a data-l10n-name="logging">HTTP Logging</a> za instrukcije kako koristiti ovaj alat.
+about-networking-current-log-file = Trenutni fajl zapisnika:
+about-networking-current-log-modules = Trenutni moduli zapisnika:
+about-networking-set-log-file = Postavi fajl zapisnika
+about-networking-set-log-modules = Postavi module zapisnika
+about-networking-start-logging = Počni zapisivanje
+about-networking-stop-logging = Zaustavi zapisivanje
+about-networking-dns-lookup = DNS Lookup
+about-networking-dns-lookup-button = Riješi
+about-networking-dns-domain = Domena:
+about-networking-dns-lookup-table-column = IP adrese
 
 ## Link is intended as "network link"
 
 networkid-isUp = Veza radi
 networkid-statusKnown = Status veze je poznat
 
-
+##
 
