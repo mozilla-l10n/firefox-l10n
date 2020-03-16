@@ -83,7 +83,9 @@ about-networking-bytes-sent = Byte mandæ
 about-networking-bytes-received = Byte reçevui
 about-networking-logging = Registro
 about-networking-log-tutorial = Amia o <a data-l10n-name="logging"> diaio HTTP</a> pe instruçioin in sce comme dueviâ sto strumento.
+about-networking-current-log-file = Schedaio de diaio corente:
 about-networking-current-log-modules = Mòdoli do diaio corente:
+about-networking-set-log-file = Seleçionn-a schedaio de diaio
 about-networking-set-log-modules = Inpòsta mòdoli do diaio
 about-networking-start-logging = Iniçia a registrâ
 about-networking-stop-logging = Ferma a registraçion
