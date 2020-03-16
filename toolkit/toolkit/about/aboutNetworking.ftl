@@ -17,6 +17,7 @@ hostname = Makine adı
 port = Port
 http2 = HTTP/2
 about-networking-title = Ağ hakkında
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -83,6 +84,16 @@ about-networking-messages-sent = Gönderilen mesajlar
 about-networking-messages-received = Alınan mesajlar
 about-networking-bytes-sent = Gönderilen bayt
 about-networking-bytes-received = Alınan bayt
+about-networking-log-tutorial = Bu aracı nasıl kullanabileceğinizi öğrenmek için <a data-l10n-name="logging">HTTP Logging</a> sayfasına bakın.
+about-networking-current-log-file = Geçerli log dosyası:
+about-networking-current-log-modules = Geçerli log modülleri:
+about-networking-set-log-modules = Log modüllerini ayarla
+about-networking-start-logging = Log tutmayı başlat
+about-networking-stop-logging = Log tutmayı durdur
+about-networking-dns-lookup = DNS Çözümleme
+about-networking-dns-lookup-button = Çözümle
+about-networking-dns-domain = Alan adı:
+about-networking-dns-lookup-table-column = IP'ler
 
 ## Link is intended as "network link"
 
