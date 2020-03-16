@@ -22,6 +22,15 @@
 
 <!ENTITY openTabs.label "Otevírat panely místo oken při">
 
+<!ENTITY middleClick.label "Prostřední tlačítko, Ctrl+klepnutí nebo Ctrl+Enter na odkazu na webové stránce">
+<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClickMac.label "Prostřední tlačítko, &#8984;+klepnutí nebo &#8984;+Return na odkazu na webové stránce">
+<!ENTITY middleClickMac.accesskey "M">
+<!ENTITY urlbar.label "Ctrl+Enter v adresním řádku">
+<!ENTITY urlbar.accesskey "L">
+<!ENTITY urlbarMac.label "&#8984;+Return v adresním řádku">
+<!ENTITY urlbarMac.accesskey "L">
+
 <!ENTITY openManagers.label "Otevřít v novém panelu místo samostatného okna">
 <!ENTITY openDataManager.label "Správce dat">
 <!ENTITY openDataManager.accesskey "a">
