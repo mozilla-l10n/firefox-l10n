@@ -15,6 +15,14 @@ auto-refresh = Oпресняване на всеки 3 секунди
 hostname = Име на хост
 port = Порт
 http2 = HTTP/2
+about-networking-title = Относно Мрежарството
+about-networking-http = HTTP
+about-networking-sockets = Сокети
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Опресняване
+about-networking-hostname = Име на хост
+about-networking-port = Порт
 ssl = SSL
 active = Включен
 idle = Бездействащ
@@ -57,3 +65,20 @@ rcwn-avg-long = Дълго усреднение
 rcwn-std-dev-long = Дълго стандартно отклонение
 rcwn-cache-slow = Брой бавен буфер
 rcwn-cache-not-slow = Брой не бавен буфер
+about-networking-ssl = SSL
+about-networking-idle = Бездействащ
+about-networking-host = Хост
+about-networking-tcp = TCP
+about-networking-sent = Изпратени
+about-networking-received = Получени
+about-networking-addresses = Адреси
+about-networking-expires = Изтича (секунди)
+about-networking-dns-lookup = Търсене в DNS
+about-networking-dns-domain = Домейн:
+about-networking-dns-lookup-table-column = IP-та
+
+## Link is intended as "network link"
+
+
+##
+
