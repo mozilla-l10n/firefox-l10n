@@ -17,6 +17,7 @@ hostname = ชื่อโฮสต์
 port = พอร์ต
 http2 = HTTP/2
 about-networking-title = เกี่ยวกับเครือข่าย
+about-networking-http = HTTP
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = เรียกใหม่
@@ -68,9 +69,17 @@ rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน�
 networkid = ID เครือข่าย
 networkid-id = ID เครือข่าย
 about-networking-ssl = SSL
+about-networking-idle = ว่าง
 about-networking-tcp = TCP
 about-networking-sent = ส่ง
 about-networking-received = รับ
+about-networking-addresses = ที่อยู่
+about-networking-expires = หมดอายุ (วินาที)
+about-networking-messages-sent = ข้อความที่ส่ง
+about-networking-messages-received = ข้อความที่รับ
+about-networking-bytes-sent = จำนวนไบต์ที่ส่ง
+about-networking-bytes-received = จำนวนไบต์ที่รับ
+about-networking-dns-domain = โดเมน:
 
 ## Link is intended as "network link"
 
