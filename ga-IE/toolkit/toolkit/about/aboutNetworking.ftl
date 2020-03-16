@@ -15,6 +15,14 @@ auto-refresh = Athnuaigh gach 3 shoicind
 hostname = Óstainm
 port = Port
 http2 = HTTP/2
+about-networking-title = Maidir le Líonrú
+about-networking-sockets = Soicéid
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Athnuaigh
+about-networking-auto-refresh = Athnuaigh gach 3 shoicind
+about-networking-hostname = Óstainm
+about-networking-port = Port
 ssl = SSL
 active = Gníomhach
 idle = Díomhaoin
@@ -52,3 +60,23 @@ rcwn-perf-read = Leámh
 rcwn-perf-write = Scríobh
 rcwn-cache-slow = Líon amas mall ón taisce
 rcwn-cache-not-slow = Líon amas nach mall ón taisce
+about-networking-ssl = SSL
+about-networking-active = Gníomhach
+about-networking-idle = Díomhaoin
+about-networking-host = Óstach
+about-networking-tcp = TCP
+about-networking-sent = Seolta
+about-networking-received = Faighte
+about-networking-family = Clann
+about-networking-addresses = Seoltaí
+about-networking-expires = As Feidhm (Soicindí)
+about-networking-messages-sent = Teachtaireachtaí Seolta
+about-networking-messages-received = Teachtaireachtaí Faighte
+about-networking-bytes-sent = Bearta Seolta
+about-networking-bytes-received = Bearta Faighte
+
+## Link is intended as "network link"
+
+
+##
+
