@@ -20,6 +20,7 @@ about-networking-title = Пра сетку
 about-networking-http = HTTP
 about-networking-sockets = Сокеты
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS-суфікс
 about-networking-websockets = Сеціўныя сокеты
 about-networking-refresh = Паднавіць
 about-networking-auto-refresh = Паднаўляць кожныя 3 секунды
@@ -96,11 +97,24 @@ about-networking-dns-lookup = Пошук DNS
 about-networking-dns-lookup-button = Вырашыць
 about-networking-dns-domain = Дамен:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn-operation = Аперацыі кэшу
+about-networking-rcwn-perf-read = Прачытана
+about-networking-rcwn-perf-write = Запісана
+about-networking-rcwn-perf-entry-open = Адкрыта запісаў
+about-networking-rcwn-avg-short = Кароткае сярэдняе
+about-networking-rcwn-avg-long = Доўгае сярэдняе
+about-networking-rcwn-std-dev-long = Доўгае сярэднеквадратычнае адхіленне
+about-networking-rcwn-cache-slow = Лік маруднага кэша
+about-networking-rcwn-cache-not-slow = Лік не-маруднага кэша
+about-networking-networkid = Сеткавы ID
+about-networking-networkid-id = Сеткавы ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Злучэнне актыўнае
 networkid-statusKnown = Стан злучэння вядомы
+about-networking-networkid-is-up = Злучэнне актыўнае
+about-networking-networkid-status-known = Стан злучэння вядомы
 
 ##
 
