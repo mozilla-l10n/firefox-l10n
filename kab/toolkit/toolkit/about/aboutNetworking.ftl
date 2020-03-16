@@ -94,6 +94,9 @@ about-networking-dns-lookup = Anadi DNS
 about-networking-dns-lookup-button = Fru
 about-networking-dns-domain = Taɣult:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn-perf-read = Γɣaṛ
+about-networking-rcwn-avg-long = Talemmast ɣezzifet
+about-networking-rcwn-std-dev-long = Amgared tizeɣt muqren
 
 ## Link is intended as "network link"
 
