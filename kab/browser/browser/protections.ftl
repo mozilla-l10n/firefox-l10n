@@ -18,6 +18,8 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> n uneḍfaṛ yewḥel seg { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> n yineḍfaṛen weḥlen seg { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = { -brand-short-name } ad ikemmel ad isewḥel ineḍfaṛen deg yisfuyla n tunigin tusligt, maca ur iḥerrez ara lǧeṛṛa n wayen iweḥlen.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Ineḍfaṛen { -brand-short-name } ttwaḥebsen ddurt-agi
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -51,6 +53,8 @@ fingerprinter-tab-content = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yimin
 cryptominer-tab-title = Ikripṭuminaren
 cryptominer-tab-content = Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd. <a data-l10n-name="learn-more-link">Issin ugar</a>
 mobile-app-title = Sewḥel ineḍfaren deg ugar n yibenkan
+mobile-app-card-content = Seqdec iminig aziraz s ummesten usliɣ mgal aḍfaṛ n udellel.
+mobile-app-links = Iminig { -brand-product-name }  i <a data-l10n-name="android-mobile-inline-link">Android</a> akked <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ur sṛuḥuy ara awalen-ik uffiren
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } iseklas awalen uffiren-ik deg iminig-ik s wudem aɣelsan.
@@ -59,6 +63,8 @@ protection-report-view-logins-button = Sken-d tuqniwin
     .title = Ddu ɣer inekcumen yettwakelse
 lockwise-no-logins-content = Zdem asnas <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> akken ad tawiḍ awalen uffrien-ik anda teddiḍ.
 lockwise-mobile-app-title = Awi awalen uffiren anda teddiḍ
+lockwise-no-logins-card-content = Seqdec awalen uffiren yettwaskelsen deg  { -brand-short-name } deg yal ibenk.
+lockwise-app-links = { -lockwise-brand-name } i <a data-l10n-name="lockwise-android-inline-link">Android</a> akked <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
