@@ -42,6 +42,7 @@ about-networking-host = येजमान
 about-networking-tcp = TCP
 about-networking-sent = धाडला
 about-networking-received = मेळिले
+about-networking-family = कुटुंब
 about-networking-addresses = नामे
 about-networking-expires = सोपला (सेकंद)
 about-networking-messages-sent = संदेश धाडले
