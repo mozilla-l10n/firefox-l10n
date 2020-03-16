@@ -90,6 +90,17 @@ login-item-time-changed = { DATETIME($timeChanged, day: "numeric", month: "long"
 login-item-time-created = { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") } :تشکیل دیا گیا
 login-item-time-used = آخری استعمال شدہ:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = محفوظ کردہ لاگ ان میں ترمیم کرنے کے لئے اپنی شناخت کی تصدیق کریں۔
+
 ## Master Password notification
 
 master-password-notification-message = براہ کرم محفوظ لاگ ان اور پاس ورڈز کو دیکھنے کے لئے اپنا ماسٹر پاس ورڈ درج کریں
