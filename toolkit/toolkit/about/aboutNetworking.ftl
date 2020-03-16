@@ -17,6 +17,7 @@ hostname = Ім’я хоста
 port = Порт
 http2 = HTTP/2
 about-networking-title = Про мережу
+about-networking-http = HTTP
 about-networking-sockets = Сокети
 about-networking-dns = DNS
 about-networking-websockets = Вебсокети
@@ -79,6 +80,10 @@ about-networking-addresses = Адреси
 about-networking-expires = Дійсний до (секунди)
 about-networking-messages-received = Повідомлень отримано
 about-networking-bytes-received = Байтів отримано
+about-networking-dns-lookup = DNS пошук
+about-networking-dns-lookup-button = Вирішити
+about-networking-dns-domain = Домен:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
