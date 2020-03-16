@@ -16,6 +16,7 @@ hostname = मेजबाननाम
 port = पोर्ट
 http2 = HTTP/2
 about-networking-title = संजालन का परिचय
+about-networking-http = HTTP
 about-networking-sockets = सॉकेट
 about-networking-dns = DNS
 about-networking-websockets = वेबसॉकेट
@@ -81,6 +82,18 @@ about-networking-messages-sent = संदेश प्रेषित
 about-networking-messages-received = संदेश प्राप्त
 about-networking-bytes-sent = बाइट्स भेजा
 about-networking-bytes-received = बाइट्स हस्तगत
+about-networking-logging = लॉगिंग हो रहा है
+about-networking-log-tutorial = इस उपकरण को उपयोग करने के बारे में निर्देश के लिए <a data-l10n-name="logging">HTTP लॉगिंग</a> देखें.
+about-networking-current-log-file = वर्तमान लॉग फ़ाइल:
+about-networking-current-log-modules = वर्तमान लॉग मॉड्यूल:
+about-networking-set-log-file = लॉग फ़ाइल सेट करें
+about-networking-set-log-modules = लॉग मॉड्यूल सेट करें
+about-networking-start-logging = लॉगिंग आरम्भ करें
+about-networking-stop-logging = लॉगिंग बंद करें
+about-networking-dns-lookup = डीएनएस अवलोकन
+about-networking-dns-lookup-button = समाधान करें
+about-networking-dns-domain = डोमेन:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
