@@ -76,6 +76,7 @@ about-networking-tcp = TCP
 about-networking-sent = ਭੇਜੇ
 about-networking-received = ਪ੍ਰਾਪਤ ਕੀਤੇ
 about-networking-family = ਪਰਿਵਾਰ
+about-networking-trr = TRR
 about-networking-addresses = ਸਿਰਨਾਵੇਂ
 about-networking-expires = ਮਿਆਦ (ਸਕਿੰਟ)
 about-networking-messages-sent = ਭੇਜੇ ਸੁਨੇਹੇ
@@ -109,11 +110,15 @@ about-networking-rcwn-avg-long = ਵੱਡੀ ਔਸਤ
 about-networking-rcwn-std-dev-long = ਲੰਮੀ ਸਟੈਂਡਰਡ ਡੇਵੀਏਸ਼ਨ
 about-networking-rcwn-cache-slow = ਕੈਸ਼ ਹੌਲੀ ਗਿਣਤੀ
 about-networking-rcwn-cache-not-slow = ਕੈਸ਼ਨ ਹੌਲੀ ਨਹੀਂ ਗਿਣਤੀ
+about-networking-networkid = ਨੈੱਟਵਰਕ ਪਛਾਣ
+about-networking-networkid-id = ਨੈੱਟਵਰਕ ਪਛਾਣ
 
 ## Link is intended as "network link"
 
 networkid-isUp = ਲਿੰਕ ਚਾਲੂ ਹੈ
 networkid-statusKnown = ਲਿੰਕ ਸਥਿਤੀ ਜਾਣੀ ਹੈ
+about-networking-networkid-is-up = ਲਿੰਕ ਚਾਲੂ ਹੈ
+about-networking-networkid-status-known = ਲਿੰਕ ਸਥਿਤੀ ਜਾਣੀ ਹੈ
 
 ##
 
