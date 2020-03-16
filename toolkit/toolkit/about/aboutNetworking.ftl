@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Sendt
 about-networking-received = Mottatt
 about-networking-family = Family
+about-networking-trr = TRR
 about-networking-addresses = Adresser
 about-networking-expires = Går ut (Sekund)
 about-networking-messages-sent = Meldingar sendt
@@ -88,6 +89,21 @@ about-networking-dns-lookup = DNS-oppslag
 about-networking-dns-lookup-button = Slå opp
 about-networking-dns-domain = Domene:
 about-networking-dns-lookup-table-column = IP-ar
+about-networking-rcwn = RCWN-statistikk
+about-networking-rcwn-status = RCWN-status
+about-networking-rcwn-cache-won-count = Tal på cache won
+about-networking-rcwn-net-won-count = Tal på net won
+about-networking-total-network-requests = Totalt tal på nettverkførespurnadar
+about-networking-rcwn-operation = Cache-operasjon
+about-networking-rcwn-perf-open = Open
+about-networking-rcwn-perf-read = Les
+about-networking-rcwn-perf-write = Skriv
+about-networking-rcwn-perf-entry-open = Open oppføring
+about-networking-rcwn-avg-short = Kort gjennomsnitt
+about-networking-rcwn-avg-long = Langt gjennomsnitt
+about-networking-rcwn-std-dev-long = Langt standardavvik
+about-networking-rcwn-cache-slow = Tal på langsam cache
+about-networking-rcwn-cache-not-slow = Tal på ikkje-langsam cache
 
 ## Link is intended as "network link"
 
