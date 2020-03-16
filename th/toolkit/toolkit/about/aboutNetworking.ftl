@@ -70,6 +70,7 @@ networkid = ID เครือข่าย
 networkid-id = ID เครือข่าย
 about-networking-ssl = SSL
 about-networking-idle = ว่าง
+about-networking-host = โฮสต์
 about-networking-tcp = TCP
 about-networking-sent = ส่ง
 about-networking-received = รับ
