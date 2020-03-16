@@ -16,6 +16,10 @@ hostname = Adress
 port = Ports
 http2 = HTTP/2
 about-networking-title = Par teiklu
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
 about-networking-refresh = Atjaunynuot
 about-networking-auto-refresh = Automatiski atjaunynuot kotrys 3 sekundes
 about-networking-hostname = Adress
@@ -62,9 +66,11 @@ rcwn-avg-long = Garš videjais
 rcwn-std-dev-long = Long Standard Deviation
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
+about-networking-ssl = SSL
 about-networking-active = Aktivs
 about-networking-idle = Deikstavē
 about-networking-host = Adress
+about-networking-tcp = TCP
 about-networking-sent = Nūsyuteits
 about-networking-received = Sajimts
 about-networking-family = Saime
@@ -74,8 +80,10 @@ about-networking-messages-sent = Nūsyuteitī ziņuojumi
 about-networking-messages-received = Sajimtī ziņuojumi
 about-networking-bytes-sent = Nūsyuteitī baiti
 about-networking-bytes-received = Sajimtī baiti
+about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Atrast
 about-networking-dns-domain = Domens:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
