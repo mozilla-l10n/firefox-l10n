@@ -15,6 +15,7 @@ auto-refresh = Autorefresh every 3 seconds
 hostname = Hostname
 port = Port
 about-networking-title = About Networking
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -54,6 +55,10 @@ about-networking-messages-sent = Messages Sent
 about-networking-messages-received = Messages Received
 about-networking-bytes-sent = Bytes Sent
 about-networking-bytes-received = Bytes Received
+about-networking-dns-lookup = DNS Lookup
+about-networking-dns-lookup-button = Resolve
+about-networking-dns-domain = Domain:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
