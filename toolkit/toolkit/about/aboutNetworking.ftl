@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = Air a chur
 about-networking-received = Air fhaighinn
 about-networking-family = Teaghlach
+about-networking-trr = TRR
 about-networking-addresses = Seòlaidhean
 about-networking-expires = Falbhaidh an ùine air (ann an diogan)
 about-networking-messages-sent = Teachdaireachdan a chaidh a chur
