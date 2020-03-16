@@ -22,6 +22,15 @@
 
 <!ENTITY openTabs.label "Otvoriť karty namiesto okien po">
 
+<!ENTITY middleClick.label "Prostredné tlačidlo, Ctrl+kliknutie alebo Ctrl+Enter na odkaze webovej stránke">
+<!ENTITY middleClick.accesskey "P">
+<!ENTITY middleClickMac.label "Prostredné tlačidlo, &#8984;+kliknutie alebo &#8984;+Return na odkaze webovej stránke">
+<!ENTITY middleClickMac.accesskey "P">
+<!ENTITY urlbar.label "Ctrl+Enter v paneli s adresou">
+<!ENTITY urlbar.accesskey "l">
+<!ENTITY urlbarMac.label "&#8984;+Return v paneli s adresou">
+<!ENTITY urlbarMac.accesskey "l">
+
 <!ENTITY openManagers.label "Otvoriť na novej karte namiesto nového okna">
 <!ENTITY openDataManager.label "Správca údajov">
 <!ENTITY openDataManager.accesskey "S">
