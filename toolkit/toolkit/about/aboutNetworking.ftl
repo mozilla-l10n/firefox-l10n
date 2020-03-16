@@ -16,6 +16,13 @@ auto-refresh = Autofrissítés 3 másodpercenként
 hostname = Gépnév
 port = Port
 http2 = HTTP/2
+about-networking-title = Hálózatkezelés névjegye
+about-networking-dns = DNS
+about-networking-websockets = WebSocketek
+about-networking-refresh = Frissítés
+about-networking-auto-refresh = Autofrissítés 3 másodpercenként
+about-networking-hostname = Gépnév
+about-networking-port = Port
 about-networking-http-version = HTTP verzió
 ssl = SSL
 active = Aktív
@@ -63,11 +70,20 @@ rcwn-cache-slow = A gyorsítótár hányszor volt lassú
 rcwn-cache-not-slow = A gyorsítótár hányszor nem volt lassú
 networkid = Hálózati azonosító
 networkid-id = Hálózati azonosító
+about-networking-ssl = SSL
+about-networking-active = Aktív
+about-networking-idle = Tétlen
+about-networking-host = Gép
+about-networking-tcp = TCP
+about-networking-family = Család
+about-networking-addresses = Címek
+about-networking-messages-sent = Küldött üzenetek
+about-networking-bytes-sent = Küldött bájtok
 
 ## Link is intended as "network link"
 
 networkid-isUp = A kapcsolat él
 networkid-statusKnown = A kapcsolat állapota ismert
 
-
+##
 
