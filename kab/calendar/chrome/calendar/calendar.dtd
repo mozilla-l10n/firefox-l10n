@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Rnu tawuri tamaynut" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tiwuriwin" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Sken tiwuriwin yemden">
 
 <!ENTITY calendar.today.button.label          "Ass-a">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Sken ismektiyen">
 <!ENTITY calendarproperties.cache3.label                   "Tallelt war tuqqna">
 <!ENTITY calendarproperties.enabled.label                  "Rmed awitay-agi">
+<!ENTITY calendarproperties.enabled2.label                 "Rmed awitay-a">
 <!ENTITY calendarproperties.forceDisabled.label            "Asaǧǧaw n uwitay-agi ur yettwaf ara. Ay-agi iḍerru-d ticki tessensen neɣ tekksed kra n izegrar.">
 <!ENTITY calendarproperties.unsubscribe.label              "Ffeɣ seg ujerred">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "F">

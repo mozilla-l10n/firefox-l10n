@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "L">
 <!ENTITY lightning.menupopup.open.message.label       "Izen yettwakelsen…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "z">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Afaylu n uwitay…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "y">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Kkes seg uwitay">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Talqayt…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Sken talqayt n tedyant">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ur yi-d-skan ara aya iznan-a">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Awitay">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Ddu ɣer yiccer n uwitay">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Ugar">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Sit akken ad twaliḍ ugar n iɣewwaṛen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Sentem tikelt nniḍen">
