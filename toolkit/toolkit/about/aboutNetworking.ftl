@@ -15,6 +15,15 @@ auto-refresh = ਹਰ 3 ਸਕਿੰਟ ਬਾਅਦ ਆਪਣੇ-ਆਪ ਤਾ�
 hostname = ਹੋਸਟ-ਨਾਂ
 port = ਪੋਰਟ
 http2 = HTTP/2
+about-networking-title = ਨੈੱਟਵਰਕਿੰਗ ਬਾਰੇ
+about-networking-http = HTTP
+about-networking-sockets = ਸਾਕਟ
+about-networking-dns = DNS
+about-networking-websockets = ਵੈੱਬਸਾਕਟ
+about-networking-refresh = ਤਾਜ਼ਾ
+about-networking-auto-refresh = ਹਰ 3 ਸਕਿੰਟ ਬਾਅਦ ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ
+about-networking-hostname = ਹੋਸਟ-ਨਾਂ
+about-networking-port = ਪੋਰਟ
 ssl = SSL
 active = ਸਰਗਰਮ
 idle = ਵੇਹਲਾ
@@ -59,11 +68,37 @@ rcwn-cache-slow = ਕੈਸ਼ ਹੌਲੀ ਗਿਣਤੀ
 rcwn-cache-not-slow = ਕੈਸ਼ਨ ਹੌਲੀ ਨਹੀਂ ਗਿਣਤੀ
 networkid = ਨੈੱਟਵਰਕ ਪਛਾਣ
 networkid-id = ਨੈੱਟਵਰਕ ਪਛਾਣ
+about-networking-ssl = SSL
+about-networking-active = ਸਰਗਰਮ
+about-networking-idle = ਵੇਹਲਾ
+about-networking-host = ਹੋਸਟ
+about-networking-tcp = TCP
+about-networking-sent = ਭੇਜੇ
+about-networking-received = ਪ੍ਰਾਪਤ ਕੀਤੇ
+about-networking-family = ਪਰਿਵਾਰ
+about-networking-addresses = ਸਿਰਨਾਵੇਂ
+about-networking-expires = ਮਿਆਦ (ਸਕਿੰਟ)
+about-networking-messages-sent = ਭੇਜੇ ਸੁਨੇਹੇ
+about-networking-messages-received = ਪ੍ਰਾਪਤ ਕੀਤੇ ਸੁਨੇਹੇ
+about-networking-bytes-sent = ਭੇਜੇ ਬਾਈਟ
+about-networking-bytes-received = ਪ੍ਰਾਪਤ ਕੀਤੇ ਬਾਈਟ
+about-networking-logging = ਲਾਗ ਰੱਖਣਾ
+about-networking-log-tutorial = ਇਹ ਟੂਲ ਦੀ ਵਰਤੋਂ ਸਿ਼ਖਣ ਲਈ ਹਦਾਇਤਾਂ ਵਾਸਤੇ <a data-l10n-name="logging">HTTP Logging</a> ਨੂੰ ਵੇਖੋ
+about-networking-current-log-file = ਮੌਜੂਦਾ ਲਾਗ ਫਾਈਲ:
+about-networking-current-log-modules = Current Log Modules:
+about-networking-set-log-file = Set Log File
+about-networking-set-log-modules = Set Log Modules
+about-networking-start-logging = Start Logging
+about-networking-stop-logging = Stop Logging
+about-networking-dns-lookup = DNS ਖੋਜ
+about-networking-dns-lookup-button = ਹੱਲ਼
+about-networking-dns-domain = ਡੋਮੇਨ:
+about-networking-dns-lookup-table-column = IP
 
 ## Link is intended as "network link"
 
 networkid-isUp = ਲਿੰਕ ਚਾਲੂ ਹੈ
 networkid-statusKnown = ਲਿੰਕ ਸਥਿਤੀ ਜਾਣੀ ਹੈ
 
-
+##
 
