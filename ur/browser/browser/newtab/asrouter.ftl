@@ -121,6 +121,7 @@ cfr-whatsnew-lockwise-take-link-text = اپلیکیشن حاصل کریں
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = ایڈریس بار کے ساتھ کم ٹائپ کریں ،  مزید ڈھونڈیں
+cfr-whatsnew-searchbar-icon-alt-text = میگنفائنگ گلاس آئکن
 
 ## Picture-in-Picture
 

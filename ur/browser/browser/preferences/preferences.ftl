@@ -388,6 +388,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = نئے دریچے اور ٹیبس
+home-new-windows-tabs-description2 = جب آپ اپنا ابتدیی صفحہ ، نئی ونڈوز اور نئی ٹیبز کھولتے ہیں تو  کا انتخاب کریں اپ کیا دیکھنا چاہتے ہیں۔
 
 ## Home Section - Home Page Customization
 
@@ -671,6 +672,10 @@ privacy-header = براؤزر رازداری
 ## Privacy Section - Logins and Passwords
 
 logins-header = لاگ ان & پاس ورڈ
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = ویب سائٹس کے لئے لاگ ان اور پاس ورڈ کو محفوظ کرنے کے لئے پوچھیں
+    .accesskey = r
 forms-exceptions =
     .label = استثنیات…
     .accesskey = x
@@ -689,6 +694,15 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = فی الحال آپ FIPS موڈ میں ہیں۔ FIPS کو ایک ناخالی ماسٹر پاس ورڈ درکار ہے۔
 forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
+
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = ماسٹر پاس ورڈ بنائیں
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
