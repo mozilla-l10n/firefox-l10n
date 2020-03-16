@@ -16,6 +16,12 @@ auto-refresh = เรียกใหม่อัตโนมัติทุก 3
 hostname = ชื่อโฮสต์
 port = พอร์ต
 http2 = HTTP/2
+about-networking-title = เกี่ยวกับเครือข่าย
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = เรียกใหม่
+about-networking-hostname = ชื่อโฮสต์
+about-networking-port = พอร์ต
 about-networking-http-version = รุ่น HTTP
 ssl = SSL
 active = ใช้งานอยู่
@@ -61,6 +67,10 @@ rcwn-cache-slow = จำนวนแคชที่หน่วงเวลา
 rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน่วงเวลา
 networkid = ID เครือข่าย
 networkid-id = ID เครือข่าย
+about-networking-ssl = SSL
+about-networking-tcp = TCP
+about-networking-sent = ส่ง
+about-networking-received = รับ
 
 ## Link is intended as "network link"
 
