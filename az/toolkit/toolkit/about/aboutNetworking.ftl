@@ -15,6 +15,15 @@ auto-refresh = Hər 3 saniyədən bir avtoyenilə
 hostname = Host adı
 port = Port
 http2 = HTTP/2
+about-networking-title = Şəbəkə haqqında
+about-networking-http = HTTP
+about-networking-sockets = Soketlər
+about-networking-dns = DNS
+about-networking-websockets = Web-Soketlər
+about-networking-refresh = Yenilə
+about-networking-auto-refresh = Hər 3 saniyədən bir avtoyenilə
+about-networking-hostname = Host adı
+about-networking-port = Port
 ssl = SSL
 active = Aktiv
 idle = Fəaliyyətsiz
@@ -57,3 +66,27 @@ rcwn-avg-long = Uzun ortalama
 rcwn-std-dev-long = Uzun standart yayınma
 rcwn-cache-slow = Yavaş keş sayısı
 rcwn-cache-not-slow = Yavaş olmayan keş sayısı
+about-networking-ssl = SSL
+about-networking-active = Aktiv
+about-networking-idle = Fəaliyyətsiz
+about-networking-host = Host
+about-networking-tcp = TCP
+about-networking-sent = Göndərildi
+about-networking-received = Alındı
+about-networking-family = Ailə
+about-networking-addresses = Ünvanlar
+about-networking-expires = Vaxtı keçir (saniyələr)
+about-networking-messages-sent = Göndərilən mesajlar
+about-networking-messages-received = Alınan mesajlar
+about-networking-bytes-sent = Bayt gondərildi
+about-networking-bytes-received = Bayt qəbul edildi
+about-networking-dns-lookup = DNS Baxış
+about-networking-dns-lookup-button = Qərarlaşdır
+about-networking-dns-domain = Domen:
+about-networking-dns-lookup-table-column = IP-lər
+
+## Link is intended as "network link"
+
+
+##
+
