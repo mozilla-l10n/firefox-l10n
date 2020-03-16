@@ -94,6 +94,16 @@ about-networking-dns-lookup = डीएनएस अवलोकन
 about-networking-dns-lookup-button = समाधान करें
 about-networking-dns-domain = डोमेन:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = RCWN आँकड़े
+about-networking-rcwn-status = RCWN स्थिति
+about-networking-total-network-requests = कुल नेटवर्क अनुरोध गणना
+about-networking-rcwn-operation = कैश कार्रवाई
+about-networking-rcwn-perf-open = खोलें
+about-networking-rcwn-perf-read = पढ़ें
+about-networking-rcwn-perf-write = लिखें
+about-networking-rcwn-perf-entry-open = प्रविष्टि खोलें
+about-networking-rcwn-avg-short = कम औसत
+about-networking-rcwn-avg-long = लंबे औसत
 
 ## Link is intended as "network link"
 
