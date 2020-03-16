@@ -17,6 +17,8 @@ hostname = Servidor
 port = Porta
 http2 = HTTP/2
 about-networking-title = Sobre rede
+about-networking-auto-refresh = Atualizar a cada 3 segundos
+about-networking-hostname = Servidor
 about-networking-http-version = Versão do HTTP
 ssl = SSL
 active = Ativo
@@ -62,6 +64,18 @@ rcwn-cache-slow = Contagem lenta de cache
 rcwn-cache-not-slow = Contagem não lenta de cache
 networkid = ID da rede
 networkid-id = ID da rede
+about-networking-expires = Expira (segundos)
+about-networking-log-tutorial = Ver o <a data-l10n-name="logging">Registro HTTP </a> para instruções sobre como usar essa ferramenta.
+about-networking-current-log-file = Arquivo de registro atual:
+about-networking-current-log-modules = Módulos de registro atuais:
+about-networking-set-log-file = Configurar arquivo de registro
+about-networking-set-log-modules = Configurar módulo de registro
+about-networking-rcwn = Estatísticas RCWN
+about-networking-rcwn-status = Status RCWN
+about-networking-rcwn-cache-won-count = Contagem de cache ganha
+about-networking-total-network-requests = Contagem total de solicitação de rede
+about-networking-rcwn-cache-slow = Contagem lenta de cache
+about-networking-rcwn-cache-not-slow = Contagem não lenta de cache
 
 ## Link is intended as "network link"
 
