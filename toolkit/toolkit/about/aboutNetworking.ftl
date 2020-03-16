@@ -20,6 +20,7 @@ about-networking-title = Σχετικά με τη δικτύωση
 about-networking-http = HTTP
 about-networking-sockets = Υποδοχές
 about-networking-dns = DNS
+about-networking-dns-suffix = Κατάληξη DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Ανανέωση
 about-networking-auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Μεγάλος μέσος όρος
 about-networking-rcwn-std-dev-long = Μακρά τυπική απόκλιση
 about-networking-rcwn-cache-slow = Αργή μέτρηση cache
 about-networking-rcwn-cache-not-slow = Η cache δεν μετρά αργά
+about-networking-networkid = ID δικτύου
+about-networking-networkid-id = ID δικτύου
 
 ## Link is intended as "network link"
 
 networkid-isUp = Η σύνδεση είναι ενεργή
 networkid-statusKnown = Η κατάσταση σύνδεσης είναι γνωστή
+about-networking-networkid-is-up = Η σύνδεση είναι ενεργή
+about-networking-networkid-status-known = Η κατάσταση σύνδεσης είναι γνωστή
 
 ##
 
