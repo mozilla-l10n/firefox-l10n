@@ -16,6 +16,13 @@ auto-refresh = Automatiškai naujinti kas 3 sekundes
 hostname = Serverio vardas
 port = Prievadas
 http2 = HTTP/2
+about-networking-title = Tinklo ryšiai
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Atnaujinti
+about-networking-auto-refresh = Automatiškai naujinti kas 3 sekundes
+about-networking-hostname = Serverio vardas
+about-networking-port = Prievadas
 about-networking-http-version = HTTP laida
 ssl = SSL
 active = Aktyvus
@@ -61,11 +68,25 @@ rcwn-cache-slow = Podėlio lėto kiekis
 rcwn-cache-not-slow = Podėlio ne lėto kiekis
 networkid = Tinklo ID
 networkid-id = Tinklo ID
+about-networking-ssl = SSL
+about-networking-active = Aktyvus
+about-networking-idle = Neveiksnus
+about-networking-host = Serveris
+about-networking-tcp = TCP
+about-networking-sent = Išsiųsta
+about-networking-received = Gauta
+about-networking-family = Tipas
+about-networking-addresses = Addresai
+about-networking-expires = Galiojimo trukmė (sek.)
+about-networking-messages-sent = Išsiųsta pranešimų
+about-networking-messages-received = Gauta pranešimų
+about-networking-bytes-sent = Išsiųsta baitų
+about-networking-bytes-received = Gauta baitų
 
 ## Link is intended as "network link"
 
 networkid-isUp = Ryšys veikia
 networkid-statusKnown = Ryšio būsena žinoma
 
-
+##
 
