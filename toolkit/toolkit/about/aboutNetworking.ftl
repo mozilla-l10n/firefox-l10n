@@ -20,6 +20,7 @@ about-networking-title = Tinklo ryšiai
 about-networking-http = HTTP
 about-networking-sockets = Sujungimai
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS prievardis
 about-networking-websockets = WebSockets
 about-networking-refresh = Atnaujinti
 about-networking-auto-refresh = Automatiškai naujinti kas 3 sekundes
@@ -78,6 +79,7 @@ about-networking-tcp = TCP
 about-networking-sent = Išsiųsta
 about-networking-received = Gauta
 about-networking-family = Tipas
+about-networking-trr = TRR
 about-networking-addresses = Addresai
 about-networking-expires = Galiojimo trukmė (sek.)
 about-networking-messages-sent = Išsiųsta pranešimų
@@ -111,11 +113,15 @@ about-networking-rcwn-avg-long = Ilgas vidurkis
 about-networking-rcwn-std-dev-long = Ilgas standartinis nuokrypis
 about-networking-rcwn-cache-slow = Podėlio lėto kiekis
 about-networking-rcwn-cache-not-slow = Podėlio ne lėto kiekis
+about-networking-networkid = Tinklo ID
+about-networking-networkid-id = Tinklo ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Ryšys veikia
 networkid-statusKnown = Ryšio būsena žinoma
+about-networking-networkid-is-up = Ryšys veikia
+about-networking-networkid-status-known = Ryšio būsena žinoma
 
 ##
 
