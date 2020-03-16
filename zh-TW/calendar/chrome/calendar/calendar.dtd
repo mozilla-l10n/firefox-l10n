@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "建立新工作" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "工作" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "顯示已完成的工作">
 
 <!ENTITY calendar.today.button.label          "今天">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "顯示提醒">
 <!ENTITY calendarproperties.cache3.label                   "離線支援">
 <!ENTITY calendarproperties.enabled.label                  "顯示此行事曆">
+<!ENTITY calendarproperties.enabled2.label                 "啟用此行事曆">
 <!ENTITY calendarproperties.forceDisabled.label            "無法找到此行事曆的提供者，此狀況通常發生於您停用或移除某些套件。">
 <!ENTITY calendarproperties.unsubscribe.label              "取消訂閱">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
