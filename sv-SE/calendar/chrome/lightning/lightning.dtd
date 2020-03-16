@@ -69,7 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Ta bort från kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Visa detaljer för händelsen">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Visa mig inte dessa meddelanden">
 <!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalender">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Gå till kalenderfliken">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mer">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klicka för att se fler val">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Förnya bekräftelse">
