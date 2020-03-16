@@ -16,6 +16,7 @@ hostname = Anv ostiz
 port = Porzh
 http2 = HTTP/2
 about-networking-title = A-zivout ar rouedad
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -79,6 +80,22 @@ about-networking-messages-sent = Kemennadennoù kaset
 about-networking-messages-received = Kemennadennoù degemeret
 about-networking-bytes-sent = Eizhbitoù kaset
 about-networking-bytes-received = Eizhbitoù degemeret
+about-networking-logging = Kerzhlevr
+about-networking-log-tutorial = Lennit <a data-l10n-name="logging">Kerzhlevriñ HTTP</a> evit ditouroú war an doare da arverañ an ostilh-mañ.
+about-networking-current-log-file = Restr kerzhlevr bremanel:
+about-networking-current-log-modules = Molladoù kerzhlevr bremanel:
+about-networking-set-log-file = Lakaat ar restr kerzhlevr
+about-networking-set-log-modules = Arventennañ molladoù ar c'herzhlevr
+about-networking-start-logging = Kregiñ da skrivañ er c'herzhlevr
+about-networking-stop-logging = Paouez da skrivañ er c'herzhlevr
+about-networking-dns-lookup = Selladenn DNS
+about-networking-dns-lookup-button = Diskoulmañ
+about-networking-dns-domain = Domani:
+about-networking-dns-lookup-table-column = IPoù
+about-networking-rcwn = Stadegoù RCWN
+about-networking-rcwn-status = Satud RCWN
+about-networking-rcwn-cache-won-count = Konter berzhioù ar c'hrubuilh
+about-networking-rcwn-net-won-count = Konter berzhioù web
 
 ## Link is intended as "network link"
 
