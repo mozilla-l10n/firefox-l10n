@@ -22,6 +22,7 @@ about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Uppdatera
+about-networking-auto-refresh = Autouppdatera var 3:e sekund
 about-networking-hostname = Värdnamn
 about-networking-port = Port
 about-networking-http-version = HTTP-version
@@ -77,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Skickat
 about-networking-received = Mottaget
 about-networking-family = Familj
+about-networking-trr = TRR
 about-networking-addresses = Adresser
 about-networking-expires = Förfaller (sekunder)
 about-networking-messages-sent = Skickade meddelanden
@@ -95,11 +97,28 @@ about-networking-dns-lookup = DNS-uppslagning
 about-networking-dns-lookup-button = Lös fel
 about-networking-dns-domain = Domän:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = RCWN statistik
+about-networking-rcwn-status = RCWN status
+about-networking-rcwn-cache-won-count = Antal cache won
+about-networking-rcwn-net-won-count = Antal net won
+about-networking-total-network-requests = Totalt antal nätverksförfrågningar
+about-networking-rcwn-operation = Cacheoperation
+about-networking-rcwn-perf-open = Öppen
+about-networking-rcwn-perf-entry-open = Öppen post
+about-networking-rcwn-avg-short = Kort medelvärde
+about-networking-rcwn-avg-long = Långt medelvärde
+about-networking-rcwn-std-dev-long = Lång standardavvikelse
+about-networking-rcwn-cache-slow = Antal långsam cache
+about-networking-rcwn-cache-not-slow = Antal inte långsam cache
+about-networking-networkid = Nätverks-ID
+about-networking-networkid-id = Nätverks-ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Länken är uppe
 networkid-statusKnown = Länkstatus är känd
+about-networking-networkid-is-up = Länken är uppe
+about-networking-networkid-status-known = Länkstatus är känd
 
 ##
 
