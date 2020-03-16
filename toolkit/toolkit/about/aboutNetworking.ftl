@@ -99,6 +99,8 @@ about-networking-dns-domain = Alan adı:
 about-networking-dns-lookup-table-column = IP'ler
 about-networking-rcwn = RCWN İstatistikleri
 about-networking-rcwn-status = RCWN durumu
+about-networking-rcwn-cache-won-count = Önbellek kazanım sayısı
+about-networking-rcwn-net-won-count = Net kazanım sayısı
 about-networking-total-network-requests = Toplam ağ isteği sayısı
 about-networking-rcwn-operation = Önbellek operasyonu
 about-networking-rcwn-perf-open = Açma
@@ -109,6 +111,7 @@ about-networking-rcwn-avg-short = Kısa ortalama
 about-networking-rcwn-avg-long = Uzun ortalama
 about-networking-rcwn-std-dev-long = Uzun standart sapma
 about-networking-rcwn-cache-slow = Yavaş önbellek sayısı
+about-networking-rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
 about-networking-networkid = Ağ kimliği
 about-networking-networkid-id = Ağ kimliği
 
