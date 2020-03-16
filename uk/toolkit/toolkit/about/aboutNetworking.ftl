@@ -16,6 +16,14 @@ auto-refresh = Автооновлювати кожні 3 секунди
 hostname = Ім’я хоста
 port = Порт
 http2 = HTTP/2
+about-networking-title = Про мережу
+about-networking-sockets = Сокети
+about-networking-dns = DNS
+about-networking-websockets = Вебсокети
+about-networking-refresh = Оновити
+about-networking-auto-refresh = Автооновлювати кожні 3 секунди
+about-networking-hostname = Ім’я хоста
+about-networking-port = Порт
 about-networking-http-version = Версія HTTP
 ssl = SSL
 active = Активний
@@ -61,11 +69,21 @@ rcwn-cache-slow = Лічильник повільного кешу
 rcwn-cache-not-slow = Лічильник не повільного кешу
 networkid = ID мережі
 networkid-id = ID мережі
+about-networking-ssl = SSL
+about-networking-active = Активний
+about-networking-idle = Очікування
+about-networking-host = Хост
+about-networking-tcp = TCP
+about-networking-received = Отримано
+about-networking-addresses = Адреси
+about-networking-expires = Дійсний до (секунди)
+about-networking-messages-received = Повідомлень отримано
+about-networking-bytes-received = Байтів отримано
 
 ## Link is intended as "network link"
 
 networkid-isUp = Посилання працює
 networkid-statusKnown = Стан посилання відомий
 
-
+##
 
