@@ -16,6 +16,13 @@ auto-refresh = Elke 3 sekonden opnij lade
 hostname = Hostnamme
 port = Poarte
 http2 = HTTP/2
+about-networking-title = Oer netwurken
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Opnij lade
+about-networking-hostname = Hostnamme
+about-networking-port = Poarte
 about-networking-http-version = HTTP-ferzje
 ssl = SSL
 active = Aktyf
@@ -61,11 +68,25 @@ rcwn-cache-slow = Oantal trage buffers
 rcwn-cache-not-slow = Oantal net-trage buffers
 networkid = Netwurk-ID
 networkid-id = Netwurk-ID
+about-networking-ssl = SSL
+about-networking-active = Aktyf
+about-networking-idle = Wachtet
+about-networking-host = Host
+about-networking-tcp = TCP
+about-networking-sent = Ferstjoerd
+about-networking-received = Untfongen
+about-networking-family = Famylje
+about-networking-addresses = Adressen
+about-networking-expires = Ferrint (sekonden)
+about-networking-messages-sent = Berjochten ferstjoerd
+about-networking-messages-received = Berjochten ûntfongen
+about-networking-bytes-sent = Bytes ferstjoerd
+about-networking-bytes-received = Bytes ûntfongen
 
 ## Link is intended as "network link"
 
 networkid-isUp = Keppeling is beskikber
 networkid-statusKnown = Keppelingssteat is bekend
 
-
+##
 
