@@ -16,6 +16,7 @@ hostname = ධාරක නම
 port = පේනුව
 http2 = HTTP/2
 about-networking-title = ජාලකරණය පිළිබඳ
+about-networking-http = HTTP
 about-networking-sockets = පේනු
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -52,12 +53,17 @@ about-networking-tcp = TCP
 about-networking-sent = යැවු
 about-networking-received = ලැබුනු
 about-networking-family = පවුල
+about-networking-trr = TRR
 about-networking-addresses = ලිපින
 about-networking-expires = කල් ඉකුත්වේ (තත්පර)
 about-networking-messages-sent = යැවූ පණිවිඩ
 about-networking-messages-received = පණිවිඩ ලැබුණි
 about-networking-bytes-sent = යැවූ බයිට
 about-networking-bytes-received = ලැබුනු බයිට
+about-networking-dns-lookup = DNS සෙවීම
+about-networking-dns-lookup-button = විසඳන්න
+about-networking-dns-domain = වසම:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
