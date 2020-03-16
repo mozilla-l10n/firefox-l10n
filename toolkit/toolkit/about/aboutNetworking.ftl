@@ -16,6 +16,7 @@ hostname = Nom d'òste
 port = Pòrt
 http2 = HTTP/2
 about-networking-title = Informacions ret
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -80,6 +81,13 @@ about-networking-messages-sent = Messatges mandats
 about-networking-messages-received = Messatges recebuts
 about-networking-bytes-sent = Octets mandats
 about-networking-bytes-received = Octets recebuts
+about-networking-logging = Jornal
+about-networking-set-log-file = Definir un fichièr pel jornal
+about-networking-set-log-modules = Definir de modul d'enregistrament pel jornal
+about-networking-dns-lookup = Recèrca DNS
+about-networking-dns-lookup-button = Resolucion
+about-networking-dns-domain = Domeni:
+about-networking-dns-lookup-table-column = Adreças IP
 
 ## Link is intended as "network link"
 
