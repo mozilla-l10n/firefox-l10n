@@ -22,6 +22,7 @@ policy-Bookmarks = יצירת סימניות בסרגל הסימניות, תפר
 policy-CaptivePortal = הפעלה או השבתה של תמיכה ב־Captive Portal.
 policy-CertificatesDescription = הוספת אישורים או שימוש באישורים מובנים.
 policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
+policy-DisabledCiphers = השבתת צפנים.
 policy-DefaultDownloadDirectory = הגדרת תיקיית ההורדות ברירת המחדל.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.
 policy-DisableBuiltinPDFViewer = השבתת PDF.js, מציג ה־PDF המובנה ב־{ -brand-short-name }.
