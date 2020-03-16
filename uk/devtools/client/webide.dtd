@@ -4,7 +4,7 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
-<!ENTITY projectMenu_label "Проект">
+<!ENTITY projectMenu_label "Проєкт">
 <!ENTITY projectMenu_accesskey "П">
 <!ENTITY projectMenu_newApp_label "Новий застосунок…">
 <!ENTITY projectMenu_newApp_accesskey "Н">
@@ -20,7 +20,7 @@
 <!ENTITY projectMenu_stop_accesskey "т">
 <!ENTITY projectMenu_debug_label "Зневадження застосунку">
 <!ENTITY projectMenu_debug_accesskey "е">
-<!ENTITY projectMenu_remove_label "Вилучити проект">
+<!ENTITY projectMenu_remove_label "Вилучити проєкт">
 <!ENTITY projectMenu_remove_accesskey "л">
 <!ENTITY projectMenu_showPrefs_label "Налаштування">
 <!ENTITY projectMenu_showPrefs_accesskey "Н">
@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "В">
 
 <!ENTITY projectButton_label "Відкрити застосунок">
+
 <!ENTITY runtimeButton_label "Вибрати Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -70,7 +71,7 @@
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
-<!ENTITY projectPanel_myProjects "Мої проекти">
+<!ENTITY projectPanel_myProjects "Мої проєкти">
 <!ENTITY projectPanel_runtimeApps "Runtime застосунки">
 <!ENTITY projectPanel_tabs "Вкладки">
 <!ENTITY runtimePanel_usb "Пристрої USB">
@@ -86,13 +87,13 @@
 <!ENTITY details_description "Опис">
 <!ENTITY details_location "Розташування">
 <!ENTITY details_manifestURL "ID застосунку">
-<!ENTITY details_removeProject_button "Вилучити проект">
+<!ENTITY details_removeProject_button "Вилучити проєкт">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Новий застосунок">
 <!ENTITY newAppHeader "Вибрати шаблон">
 <!ENTITY newAppLoadingTemplate "Завантаження шаблонів…">
-<!ENTITY newAppProjectName "Назва проекту:">
+<!ENTITY newAppProjectName "Назва проєкту:">
 
 
 <!-- Decks -->
@@ -111,8 +112,8 @@
 <!ENTITY prefs_manage_components "Керувати додатковими компонентами">
 <!ENTITY prefs_options_autoconnectruntime "Повторно підключитися до попереднього runtime">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Повторне підключення до попереднього runtime при запуску WebIDE">
-<!ENTITY prefs_options_rememberlastproject "Пам’ятати останній проект">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Відновити попередній проект при запуску WebIDE">
+<!ENTITY prefs_options_rememberlastproject "Пам’ятати останній проєкт">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Відновити попередній проєкт при запуску WebIDE">
 <!ENTITY prefs_options_templatesurl "URL шаблонів">
 <!ENTITY prefs_options_templatesurl_tooltip "Індексувати доступні шаблони">
 
