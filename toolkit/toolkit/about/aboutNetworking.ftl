@@ -14,6 +14,13 @@ refresh = নতুন করে প্রদর্শন
 auto-refresh = প্রতি ৩ সেকেন্ডে অটো রিফ্রেশ হবে
 hostname = হোস্ট-নেম
 port = পোর্ট
+about-networking-title = নেটওয়ার্কিং সম্পর্কে
+about-networking-http = HTTP
+about-networking-sockets = সকেটগুলি
+about-networking-websockets = ওয়েব সকেটগুলি
+about-networking-refresh = নতুন করে প্রদর্শন
+about-networking-auto-refresh = প্রতি ৩ সেকেন্ডে অটো রিফ্রেশ হবে
+about-networking-hostname = হোস্ট-নেম
 ssl = SSL
 active = সক্রিয়
 idle = নিষ্ক্রিয়
@@ -40,3 +47,22 @@ dns-lookup = DNS Lookup
 dns-lookup-button = সমাধান
 dns-domain = ডোমেইন:
 dns-lookup-table-column = IPs
+about-networking-active = সক্রিয়
+about-networking-sent = প্রেরিত হয়েছে
+about-networking-received = প্রাপ্ত হয়েছে
+about-networking-addresses = ঠিকানা
+about-networking-expires = মেয়াদ শেষ (সেকেন্ডে)
+about-networking-messages-sent = বার্তা পাঠানো হয়েছে
+about-networking-messages-received = বার্তা প্রাপ্ত হয়েছে
+about-networking-bytes-sent = বাইট পাঠানো হয়েছে
+about-networking-bytes-received = বাইট প্রাপ্ত হয়েছে
+about-networking-dns-lookup = DNS Lookup
+about-networking-dns-lookup-button = সমাধান
+about-networking-dns-domain = ডোমেইন:
+about-networking-dns-lookup-table-column = IPs
+
+## Link is intended as "network link"
+
+
+##
+
