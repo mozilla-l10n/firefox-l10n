@@ -15,6 +15,14 @@ auto-refresh = Ath-nuadhaich a h-uile 3 diogan
 hostname = Ainm an òstair
 port = Port
 http2 = HTTP/2
+about-networking-title = Mu dhèidhinn lìonraidhean
+about-networking-sockets = Socaidean
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Ath-nuadhaich
+about-networking-auto-refresh = Ath-nuadhaich a h-uile 3 diogan
+about-networking-hostname = Ainm an òstair
+about-networking-port = Port
 ssl = SSL
 active = Gnìomhach
 idle = Idle
@@ -57,3 +65,23 @@ rcwn-avg-long = Long Average
 rcwn-std-dev-long = Long Standard Deviation
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
+about-networking-ssl = SSL
+about-networking-active = Gnìomhach
+about-networking-idle = Idle
+about-networking-host = Òstair
+about-networking-tcp = TCP
+about-networking-sent = Air a chur
+about-networking-received = Air fhaighinn
+about-networking-family = Teaghlach
+about-networking-addresses = Seòlaidhean
+about-networking-expires = Falbhaidh an ùine air (ann an diogan)
+about-networking-messages-sent = Teachdaireachdan a chaidh a chur
+about-networking-messages-received = Teachdaireachdan a fhuaradh
+about-networking-bytes-sent = Bytes a chaidh a chur
+about-networking-bytes-received = Bytes a fhuaradh
+
+## Link is intended as "network link"
+
+
+##
+
