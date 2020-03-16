@@ -16,6 +16,12 @@ auto-refresh = თვითგაახლება ყოველ 3 წამ�
 hostname = ჰოსტის სახელი
 port = პორტი
 http2 = HTTP/2
+about-networking-title = ქსელის შესახებ
+about-networking-http = HTTP
+about-networking-sockets = სოკეტები:
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-port = პორტი
 about-networking-http-version = HTTP-ვერსია
 ssl = SSL
 active = მოქმედი
@@ -61,11 +67,26 @@ rcwn-cache-slow = კეშის დაყოვნების რაოდე
 rcwn-cache-not-slow = კეშის დაუყოვნებლობის რაოდენობა
 networkid = ქსელის ID
 networkid-id = ქსელის ID
+about-networking-ssl = SSL
+about-networking-active = მოქმედი
+about-networking-idle = უქმი
+about-networking-host = ჰოსტი
+about-networking-tcp = TCP
+about-networking-sent = გაგზავნილია
+about-networking-received = მიღებულია
+about-networking-family = ოჯახი
+about-networking-addresses = მისამართები
+about-networking-expires = მოქმედების ვადა (წამებში)
+about-networking-messages-sent = გაგზავნილი შეტყობინებები
+about-networking-messages-received = მიღებული შეტყობინებები
+about-networking-bytes-sent = გაგზავნილი ბაიტი
+about-networking-bytes-received = მიღებული ბაიტი
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
 networkid-isUp = ქსელის მაკავშირებელი გამართულია
 networkid-statusKnown = ქსელის მაკავშირებლის მდგომარეობა უცნობია
 
-
+##
 
