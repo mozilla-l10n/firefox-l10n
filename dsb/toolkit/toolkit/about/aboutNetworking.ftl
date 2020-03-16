@@ -16,6 +16,14 @@ auto-refresh = Kužde 3 sekundy aktualizěrowaś
 hostname = Hostmě
 port = Port
 http2 = HTTP/2
+about-networking-title = Wo seśowych zwiskach
+about-networking-sockets = Sokety
+about-networking-dns = DNS
+about-networking-websockets = Websokety
+about-networking-refresh = Aktualizěrowaś
+about-networking-auto-refresh = Kužde 3 sekundy aktualizěrowaś
+about-networking-hostname = Hostmě
+about-networking-port = Port
 about-networking-http-version = HTTP-wersija
 ssl = SSL
 active = Aktiwny
@@ -61,11 +69,25 @@ rcwn-cache-slow = Pomałe licenje pufrowaś
 rcwn-cache-not-slow = Pomałe licenje njepufrowaś
 networkid = Seśowy ID
 networkid-id = Seśowy ID
+about-networking-ssl = SSL
+about-networking-active = Aktiwny
+about-networking-idle = Prozny chód
+about-networking-host = Host
+about-networking-tcp = TCP
+about-networking-sent = Pósłany
+about-networking-received = Dostany
+about-networking-family = Familija
+about-networking-addresses = Adrese
+about-networking-expires = Pśepadnjo (sekundy)
+about-networking-messages-sent = Pósłane powěsći
+about-networking-messages-received = Dostane powěsći
+about-networking-bytes-sent = Pósłane bajty
+about-networking-bytes-received = Dostane bajty
 
 ## Link is intended as "network link"
 
 networkid-isUp = Wótkaz jo pśepadnjony
 networkid-statusKnown = Wótkazowy status jo znaty
 
-
+##
 
