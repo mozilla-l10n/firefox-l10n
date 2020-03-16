@@ -15,6 +15,12 @@ auto-refresh = Actualizar automaticament cada 3 segondas
 hostname = Nom d'òste
 port = Pòrt
 http2 = HTTP/2
+about-networking-title = Informacions ret
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Refrescar
+about-networking-hostname = Nom d'òste
 ssl = SSL
 active = Actiu
 idle = Inactiu
@@ -59,6 +65,17 @@ rcwn-cache-slow = Comptador d'escondedor lent
 rcwn-cache-not-slow = Comptador d'escondedor non lent
 networkid = ID de la ret
 networkid-id = ID de la ret
+about-networking-ssl = SSL
+about-networking-idle = Inactiu
+about-networking-tcp = TCP
+about-networking-sent = Mandat
+about-networking-received = Recebut
+about-networking-family = Familha
+about-networking-expires = Expiracion (segondas)
+about-networking-messages-sent = Messatges mandats
+about-networking-messages-received = Messatges recebuts
+about-networking-bytes-sent = Octets mandats
+about-networking-bytes-received = Octets recebuts
 
 ## Link is intended as "network link"
 
