@@ -97,6 +97,15 @@ login-item-time-changed = Ultime modification : { DATETIME($timeChanged, day: "
 login-item-time-created = Create: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ultime uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+
 ## Master Password notification
 
 master-password-notification-message = Insere tu contrasigno maestro pro vider le credentiales e contrasignos salvate
