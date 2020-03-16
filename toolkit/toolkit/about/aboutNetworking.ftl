@@ -20,6 +20,7 @@ about-networking-title = About Networking
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS-jälkiliite
 about-networking-websockets = WebSockets
 about-networking-refresh = Refresh
 about-networking-auto-refresh = Autorefresh every 3 seconds
