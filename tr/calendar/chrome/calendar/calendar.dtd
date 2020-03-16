@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Yeni görev oluştur" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Görevler" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Bitmiş görevleri göster">
 
 <!ENTITY calendar.today.button.label          "Bugün">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Anımsatıcıları göster">
 <!ENTITY calendarproperties.cache3.label                   "Çevrimdışı desteği">
 <!ENTITY calendarproperties.enabled.label                  "Takvim devre içi">
+<!ENTITY calendarproperties.enabled2.label                 "Bu takvimi etkinleştir">
 <!ENTITY calendarproperties.forceDisabled.label            "Takvim sağlayıcısı bulunamıyor. Bu tür sorunlar sağlayıcı için gerekli eklentilerin devre dışı bırakılması veya kaldırması ile genelde oluşuyor.">
 <!ENTITY calendarproperties.unsubscribe.label              "Aboneliği iptal et">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "b">
