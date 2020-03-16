@@ -766,6 +766,17 @@ forms-master-pw-change =
 forms-master-pw-fips-title = 您目前使用 FIPS 模式。FIPS 模式需要有主控密碼。
 forms-master-pw-fips-desc = 密碼變更失敗
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = 確認您的身分以建立主控密碼。
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = 建立主控密碼
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = 瀏覽紀錄
