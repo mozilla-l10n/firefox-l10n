@@ -13,6 +13,14 @@ refresh = ताजा करू
 auto-refresh = हर 3 सेकेंडमे फेर ताजा करू
 hostname = मेजबाननाम
 port = पोर्ट
+about-networking-title = संजालनक परिचय
+about-networking-sockets = साकेट
+about-networking-dns = DNS
+about-networking-websockets = वेबसाकेट
+about-networking-refresh = ताजा करू
+about-networking-auto-refresh = हर 3 सेकेंडमे फेर ताजा करू
+about-networking-hostname = मेजबाननाम
+about-networking-port = पोर्ट
 ssl = SSL
 active = सक्रिय करू
 idle = निष्क्रिय
@@ -27,3 +35,22 @@ messages-sent = भेजल गेल सन्देश
 messages-received = संदेश प्राप्त
 bytes-sent = बाइट भेजल
 bytes-received = पाओल बाइट
+about-networking-ssl = SSL
+about-networking-idle = निष्क्रिय
+about-networking-host = मेजबान
+about-networking-tcp = TCP
+about-networking-sent = भेजल-डाक
+about-networking-received = भेटल
+about-networking-family = परिवार
+about-networking-addresses = पता
+about-networking-expires = खतम होइछ (सेकंड)
+about-networking-messages-sent = भेजल गेल सन्देश
+about-networking-messages-received = संदेश प्राप्त
+about-networking-bytes-sent = बाइट भेजल
+about-networking-bytes-received = पाओल बाइट
+
+## Link is intended as "network link"
+
+
+##
+
