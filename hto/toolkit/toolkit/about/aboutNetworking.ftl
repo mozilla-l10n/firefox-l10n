@@ -10,6 +10,8 @@ refresh = Meidote
 hostname = Taɨjɨe ráa mamekɨ
 port = Ígobe
 about-networking-title = Afemakɨ  red íyano
+about-networking-http = HTTP
+about-networking-dns = DNS
 about-networking-refresh = Meidote
 about-networking-hostname = Taɨjɨe ráa mamekɨ
 about-networking-port = Ígobe
@@ -30,9 +32,11 @@ dns-lookup = Jénoka DNS
 dns-lookup-button = Mamérite
 dns-domain = Náamakɨ:
 dns-lookup-table-column = IPs
+about-networking-ssl = SSL
 about-networking-active = Bónoka
 about-networking-idle = Dúitaga
 about-networking-host = Taɨjɨe ráa
+about-networking-tcp = TCP
 about-networking-sent = Óreka
 about-networking-received = Já yɨnoga
 about-networking-family = Kómɨnɨrede
@@ -43,6 +47,7 @@ about-networking-bytes-sent = Óreka Bytes
 about-networking-dns-lookup = Jénoka DNS
 about-networking-dns-lookup-button = Mamérite
 about-networking-dns-domain = Náamakɨ:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
