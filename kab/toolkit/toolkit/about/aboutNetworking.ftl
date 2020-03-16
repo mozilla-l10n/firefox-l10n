@@ -20,6 +20,7 @@ about-networking-title = Talɣut ɣef uẓeṭṭa
 about-networking-http = HTTP
 about-networking-sockets = Igrudmawen
 about-networking-dns = DNS
+about-networking-dns-suffix = Uḍfiṛ DNS
 about-networking-websockets = Igrudam n tuqqna
 about-networking-refresh = Smiren
 about-networking-auto-refresh = Smiren yal 3 n tasinin
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Talemmast ɣezzifet
 about-networking-rcwn-std-dev-long = Amgared tizeɣt muqren
 about-networking-rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 about-networking-rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
+about-networking-networkid = Asulay n uẓeṭṭa
+about-networking-networkid-id = Asulay n uẓeṭṭa
 
 ## Link is intended as "network link"
 
 networkid-isUp = Assaɣ yettwag
 networkid-statusKnown = Addad n wassaɣ yettwasssen
+about-networking-networkid-is-up = Assaɣ yettwag
+about-networking-networkid-status-known = Addad n wassaɣ yettwasssen
 
 ##
 
