@@ -21,6 +21,7 @@ about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Aktualisieren
+about-networking-auto-refresh = Automatisch alle 3 Sekunden aktualisieren
 about-networking-hostname = Hostname
 about-networking-port = Port
 about-networking-http-version = HTTP-Version
