@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = Kaset
 about-networking-received = Degemeret
 about-networking-family = Familh
+about-networking-trr = TRR
 about-networking-addresses = Chomlec'hioù
 about-networking-expires = Deiziad termen (eilennoù)
 about-networking-messages-sent = Kemennadennoù kaset
@@ -96,6 +97,17 @@ about-networking-rcwn = Stadegoù RCWN
 about-networking-rcwn-status = Satud RCWN
 about-networking-rcwn-cache-won-count = Konter berzhioù ar c'hrubuilh
 about-networking-rcwn-net-won-count = Konter berzhioù web
+about-networking-total-network-requests = Niver hollek a azgoulennoù rouedad
+about-networking-rcwn-operation = Obererezhioù ar c'hrubuilh
+about-networking-rcwn-perf-open = Digoradurioù
+about-networking-rcwn-perf-read = Lenn
+about-networking-rcwn-perf-write = Skrivañ
+about-networking-rcwn-perf-entry-open = Digoradur enankad
+about-networking-rcwn-avg-short = Keidenn vihan
+about-networking-rcwn-avg-long = Keidenn vras
+about-networking-rcwn-std-dev-long = Forc'had rizh bras
+about-networking-rcwn-cache-slow = Niver a grubuilh gorrek
+about-networking-rcwn-cache-not-slow = Niver a grubuilh prim
 
 ## Link is intended as "network link"
 
