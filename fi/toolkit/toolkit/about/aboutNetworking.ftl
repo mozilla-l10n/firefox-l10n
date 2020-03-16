@@ -16,6 +16,14 @@ auto-refresh = Autorefresh every 3 seconds
 hostname = Hostname
 port = Port
 http2 = HTTP/2
+about-networking-title = About Networking
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Refresh
+about-networking-auto-refresh = Autorefresh every 3 seconds
+about-networking-hostname = Hostname
+about-networking-port = Port
 about-networking-http-version = HTTP Version
 ssl = SSL
 active = Active
@@ -61,11 +69,25 @@ rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
 networkid = Network ID
 networkid-id = Network ID
+about-networking-ssl = SSL
+about-networking-active = Active
+about-networking-idle = Idle
+about-networking-host = Host
+about-networking-tcp = TCP
+about-networking-sent = Sent
+about-networking-received = Received
+about-networking-family = Family
+about-networking-addresses = Addresses
+about-networking-expires = Expires (Seconds)
+about-networking-messages-sent = Messages Sent
+about-networking-messages-received = Messages Received
+about-networking-bytes-sent = Bytes Sent
+about-networking-bytes-received = Bytes Received
 
 ## Link is intended as "network link"
 
 networkid-isUp = Link is up
 networkid-statusKnown = Link status is known
 
-
+##
 
