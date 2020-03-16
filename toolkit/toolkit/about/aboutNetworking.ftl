@@ -16,6 +16,15 @@ auto-refresh = Actualisar automaticamain mintga 3 secundas
 hostname = Num dal host
 port = Port
 http2 = HTTP/2
+about-networking-title = Connexiuns a la rait
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Actualisar
+about-networking-auto-refresh = Actualisar automaticamain mintga 3 secundas
+about-networking-hostname = Num dal host
+about-networking-port = Port
 about-networking-http-version = Versiun HTTP
 ssl = SSL
 active = Activ
@@ -61,11 +70,46 @@ rcwn-cache-slow = Dumber da giadas ch'il cache è plaun
 rcwn-cache-not-slow = Dumber da giadas ch'il cache è svelt
 networkid = ID da la rait
 networkid-id = ID da la rait
+about-networking-ssl = SSL
+about-networking-active = Activ
+about-networking-idle = inactiv
+about-networking-host = Host
+about-networking-tcp = TCP
+about-networking-sent = Tramess
+about-networking-received = Reschavì
+about-networking-family = Famiglia
+about-networking-addresses = Addressas
+about-networking-expires = Scroda en (secundas)
+about-networking-messages-sent = Messadis tramess
+about-networking-messages-received = Messadis retschavids
+about-networking-bytes-sent = Bytes tramess
+about-networking-bytes-received = Bytes retschavids
+about-networking-logging = Protocollar
+about-networking-log-tutorial = Legia l'artitgel <a data-l10n-name="logging">HTTP Logging</a> per instrucziuns davart l'utilisaziun da quest utensil.
+about-networking-current-log-file = Datoteca da protocol actuala:
+about-networking-current-log-modules = Moduls da protocol actuals:
+about-networking-set-log-file = Definir la datoteca da protocol
+about-networking-set-log-modules = Definir ils moduls da protocol
+about-networking-start-logging = Cumenzar a protocollar
+about-networking-stop-logging = Chalar da protocollar
+about-networking-dns-lookup = Retschertga DNS
+about-networking-dns-lookup-button = Resolver
+about-networking-dns-domain = Domena:
+about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = Statistica RCWN
+about-networking-rcwn-status = Status RCWN
+about-networking-rcwn-cache-won-count = Dumber da victorias dal cache
+about-networking-rcwn-net-won-count = Dumber da victorias da la rait
+about-networking-total-network-requests = Dumber total da dumondas a la rait
+about-networking-rcwn-operation = Operaziun dal cache
+about-networking-rcwn-perf-open = Avrir
+about-networking-rcwn-perf-read = Leger
+about-networking-rcwn-perf-write = Scriver
 
 ## Link is intended as "network link"
 
 networkid-isUp = La colliaziun è activa
 networkid-statusKnown = Il status da la colliaziun è enconuschent
 
-
+##
 
