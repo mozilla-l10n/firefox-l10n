@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "已保存消息…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "日历文件…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "从日历中删除">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "详细信息…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "显示事件详情">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "不再显示此信息">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "日历">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "前往日历选项卡">
 <!ENTITY lightning.imipbar.btnMore.label                                    "更多">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "点击显示更多选项">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "重新确认">
