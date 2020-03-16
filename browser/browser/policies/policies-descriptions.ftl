@@ -22,6 +22,7 @@ policy-Bookmarks = Kurti įrašus adresyno juostoje, adresyno meniu, arba nurody
 policy-CaptivePortal = Įjungti arba išjungti pradinio tinklalapio palaikymą.
 policy-CertificatesDescription = Pridėti liudijimus, arba naudoti integruotus.
 policy-Cookies = Leisti ar drausti svetainėms įrašyti slapukus.
+policy-DisabledCiphers = Išjungti šifrus.
 policy-DefaultDownloadDirectory = Nustatyti numatytąjį atsiuntimų aplanką.
 policy-DisableAppUpdate = Neleisti naršyklei diegti naujinimų.
 policy-DisableBuiltinPDFViewer = Išjungti „PDF.js“, į „{ -brand-short-name }“ integruotą PDF failų žiūryklę.
