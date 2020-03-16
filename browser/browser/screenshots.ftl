@@ -32,3 +32,4 @@ screenshots-self-screenshot-error-title = আপুনি { -screenshots-brand-n
 screenshots-empty-selection-error-title = আপোনাৰ বাছনি খুবেই সৰু
 screenshots-private-window-error-title = ব্যক্তিগত ব্ৰাউজিং ম'ডত { -screenshots-brand-name } নিষ্ক্ৰিয় কৰা হয়
 screenshots-private-window-error-details = অসুবিধাৰ বাবে ক্ষমা কৰিব। আমি ভৱিষ্যতৰ সংস্কৰণসমূহৰ বাবে এই সুবিধাৰ ওপৰত কাম কৰি আছোঁ।
+screenshots-generic-error-title = উস্‌! { -screenshots-brand-name }-এ খেলিমেলি কৰিছে।
