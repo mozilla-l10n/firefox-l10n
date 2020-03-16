@@ -84,6 +84,8 @@ about-networking-addresses = Adresy
 about-networking-expires = Vyprší (sekundy)
 about-networking-messages-sent = Odesláno zpráv
 about-networking-messages-received = Přijato zpráv
+about-networking-bytes-sent = Odesláno bajtů
+about-networking-bytes-received = Obdrženo bajtů
 about-networking-logging = Protokol
 about-networking-log-tutorial = Pro informace o používání tohoto nástroje prosím navštivte stránku <a data-l10n-name="logging">HTTP Logging</a>.
 about-networking-current-log-file = Současný soubor protokolu:
