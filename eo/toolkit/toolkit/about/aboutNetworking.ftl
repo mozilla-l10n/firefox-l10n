@@ -16,6 +16,16 @@ auto-refresh = Aŭtomata refreŝigado ĉiun trian sekundon
 hostname = Nomo de servilo
 port = Pordo
 http2 = HTTP/2
+about-networking-title = Pri retkonektado
+about-networking-http = HTTP
+about-networking-sockets = Konektingo
+about-networking-dns = DNS
+about-networking-dns-suffix = Sufikso DNS
+about-networking-websockets = Teksaĵaj konektingoj
+about-networking-refresh = Refreŝigi
+about-networking-auto-refresh = Aŭtomata refreŝigado ĉiun trian sekundon
+about-networking-hostname = Nomo de servilo
+about-networking-port = Pordo
 about-networking-http-version = Versio de HTTP
 ssl = SSL
 active = Aktiva
@@ -61,11 +71,41 @@ rcwn-cache-slow = Nombro de malrapida staplaj aliroj
 rcwn-cache-not-slow = Nombro de ne malrapidaj staplaj aliroj
 networkid = Identigilo reta
 networkid-id = Identigilo reta
+about-networking-ssl = SSL
+about-networking-active = Aktiva
+about-networking-idle = Senokupa
+about-networking-host = Servilo
+about-networking-tcp = TCP
+about-networking-sent = Sendita
+about-networking-received = Ricevita
+about-networking-family = Familio
+about-networking-addresses = Adresoj
+about-networking-expires = Senvalidiĝo (sekundoj)
+about-networking-messages-sent = Senditaj mesaĝoj
+about-networking-messages-received = Ricevitaj mesaĝoj
+about-networking-bytes-sent = Oktetoj senditaj
+about-networking-bytes-received = Oktetoj ricevitaj
+about-networking-logging = Registrado
+about-networking-log-tutorial = Instrukcioj pri la uzo de tiu ĉi ilo troveblas en <a data-l10n-name="logging">Registrado de HTTP</a>.
+about-networking-current-log-file = Nuna registra dosiero:
+about-networking-current-log-modules = Nunaj registraj moduloj:
+about-networking-set-log-file = Elekti registran dosieron
+about-networking-set-log-modules = Elekti registrajn modulojn
+about-networking-start-logging = Komenci registri
+about-networking-stop-logging = Fini registri
+about-networking-dns-lookup = Serĉo en DNS
+about-networking-dns-lookup-button = Trovi adreson
+about-networking-dns-domain = Nomregno:
+about-networking-dns-lookup-table-column = IP adresoj
+about-networking-networkid = Identigilo reta
+about-networking-networkid-id = Identigilo reta
 
 ## Link is intended as "network link"
 
 networkid-isUp = Ligo aktiva
 networkid-statusKnown = Konata stato de ligo
+about-networking-networkid-is-up = Ligo aktiva
+about-networking-networkid-status-known = Konata stato de ligo
 
-
+##
 
