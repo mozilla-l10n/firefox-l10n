@@ -85,11 +85,13 @@ about-networking-messages-sent = ข้อความที่ส่ง
 about-networking-messages-received = ข้อความที่รับ
 about-networking-bytes-sent = จำนวนไบต์ที่ส่ง
 about-networking-bytes-received = จำนวนไบต์ที่รับ
+about-networking-logging = การบันทึก
 about-networking-log-tutorial = ดู<a data-l10n-name="logging">การบันทึกล็อก HTTP</a>สำหรับคำแนะนำเกี่ยวกับวิธีการใช้เครื่องมือนี้
 about-networking-current-log-file = ไฟล์รายการบันทึกปัจจุบัน:
 about-networking-current-log-modules = โมดูลรายการบันทึกปัจจุบัน:
 about-networking-set-log-file = ตั้งไฟล์รายการบันทึก
 about-networking-set-log-modules = ตั้งโมดูลรายการบันทึก
+about-networking-start-logging = เริ่มการบันทึก
 about-networking-stop-logging = หยุดการบันทึก
 about-networking-dns-lookup = การค้นหา DNS
 about-networking-dns-lookup-button = แปลงที่อยู่
