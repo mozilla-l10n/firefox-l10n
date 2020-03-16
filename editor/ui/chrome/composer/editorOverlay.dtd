@@ -284,7 +284,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
-<!ENTITY formatToolbar.tooltip "S'està formatant la barra d'eines">
+<!ENTITY formatToolbar.tooltip "Barra d'eines de format">
 <!ENTITY cutToolbarCmd.tooltip "Retalla">
 <!ENTITY copyToolbarCmd.tooltip "Copia">
 <!ENTITY pasteToolbarCmd.tooltip "Enganxa">

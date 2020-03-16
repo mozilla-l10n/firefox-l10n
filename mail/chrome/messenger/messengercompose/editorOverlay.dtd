@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.key "S">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Enganxa sense formatar">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,8 +23,8 @@
 <!ENTITY checkSpellingCmd2.label "Verifica l'ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Insereix">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Enllaç…">
@@ -46,14 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "Salt sota les imatges">
 <!ENTITY insertBreakAllCmd.accesskey "g">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Crea un enllaç…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Edita l'enllaç en una pàgina del redactor">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Trieu un tipus de lletra">
 <!ENTITY fontfaceMenu.label "Tipus de lletra">
 <!ENTITY fontfaceMenu.accesskey "T">
@@ -68,19 +68,17 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Trieu una mida de lletra">
 <!ENTITY decreaseFontSize.label "Més petita">
 <!ENTITY decreaseFontSize.accesskey "p">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Més gran">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Mida">
 <!ENTITY fontSizeMenu.accesskey "M">
@@ -96,8 +94,8 @@
 <!ENTITY size-extraLargeCmd.accesskey "l">
 <!ENTITY size-hugeCmd.label "Enorme">
 <!ENTITY size-hugeCmd.accesskey "E">
-<!-- Font Style SubMenu -->
 
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Estil del text">
 <!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Negreta">
@@ -165,8 +163,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Preformat">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Llista">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Cap">
@@ -189,8 +187,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Propietats avançades">
 <!ENTITY advancedPropertiesCmd.accesskey "r">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Alinea">
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Esquerra">
@@ -205,8 +203,8 @@
 <!ENTITY alignJustify.label "Justifica">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Alineació justificada">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Capa">
 <!ENTITY layerSendToBack.tooltip "Torna enrere">
 <!ENTITY layerBringToFront.tooltip "Porta endavant">
@@ -220,12 +218,12 @@
 
 <!ENTITY colorsAndBackground.label "Colors i fons de la pàgina…">
 <!ENTITY colorsAndBackground.accesskey "o">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Taula">
 <!ENTITY tableMenu.accesskey "u">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Selecciona">
 <!ENTITY tableSelectMenu.accesskey "S">
 
@@ -235,8 +233,8 @@
 <!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Supressió de la taula">
 <!ENTITY tableDeleteMenu2.accesskey "u">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Insereix">
 <!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Taula">
@@ -269,12 +267,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Suprimeix">
 <!ENTITY tableDeleteMenu.accesskey "u">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Divideix la cel·la">
@@ -283,10 +281,10 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Propietats de la taula…">
 <!ENTITY tableProperties.accesskey "o">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
-<!ENTITY formatToolbar.tooltip "S'està formatant la barra d'eines">
+<!ENTITY formatToolbar.tooltip "Barra d'eines de format">
 <!ENTITY cutToolbarCmd.tooltip "Retalla">
 <!ENTITY copyToolbarCmd.tooltip "Copia">
 <!ENTITY pasteToolbarCmd.tooltip "Enganxa">
@@ -308,10 +306,9 @@
 <!ENTITY anchorToolbarCmd.tooltip "Insereix una àncora amb nom nova o edita les propietats de l'àncora seleccionada">
 <!ENTITY TextColorButton.tooltip "Trieu un color per al text">
 <!ENTITY BackgroundColorButton.tooltip "Trieu un color per al fons">
-<!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Trieu el color del ressaltat del text">
-<!-- Editor toolbar -->
 
+<!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defineix la mida del tipus de lletra">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mida de lletra més petita">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Mida de lletra més gran">
@@ -328,16 +325,16 @@
 <!ENTITY alignCenterButton.tooltip "Centra el text">
 <!ENTITY alignRightButton.tooltip "Alinea el text al marge dret">
 <!ENTITY alignJustifyButton.tooltip "Alinea el text als marges dret i esquerra">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selecciona">
 <!ENTITY structSelect.accesskey     "S">
 <!ENTITY structRemoveTag.label      "Elimina l'etiqueta">
 <!ENTITY structRemoveTag.accesskey  "E">
 <!ENTITY structChangeTag.label      "Canvia l'etiqueta">
 <!ENTITY structChangeTag.accesskey  "C">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Insereix">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Actualitza">
