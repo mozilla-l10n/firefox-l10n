@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Kayıtlı iletiler…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "i">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Takvim dosyası…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "T">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Takvimden sil">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Ayrıntılar…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Etkinlik ayrıntılarını göster">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Bana bu iletileri gösterme">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Takvim">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Takvim sekmesine git">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Devamı">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Diğer seçenekleri görmek için tıklayın">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Yeniden onayla">
