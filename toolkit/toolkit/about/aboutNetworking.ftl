@@ -16,6 +16,15 @@ auto-refresh = Autorefrescar cada 3 segundos
 hostname = Servidor
 port = Puerto
 http2 = HTTP/2
+about-networking-title = Acerca de redes
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Refrescar
+about-networking-auto-refresh = Autorefrescar cada 3 segundos
+about-networking-hostname = Servidor
+about-networking-port = Puerto
 about-networking-http-version = Versión HTTP
 ssl = SSL
 active = Activo
@@ -61,11 +70,29 @@ rcwn-cache-slow = Cuenta lenta de caché
 rcwn-cache-not-slow = Cuenta de caché no lenta
 networkid = Identificación de red
 networkid-id = Identificación de red
+about-networking-ssl = SSL
+about-networking-active = Activo
+about-networking-idle = Idle
+about-networking-host = Servidor
+about-networking-tcp = TCP
+about-networking-sent = Enviado
+about-networking-received = Recibido
+about-networking-family = Familia
+about-networking-addresses = Direcciones
+about-networking-expires = Expira (Segundos)
+about-networking-messages-sent = Mensajes enviados
+about-networking-messages-received = Mensajes recibidos
+about-networking-bytes-sent = Bytes enviados
+about-networking-bytes-received = Bytes recibidos
+about-networking-dns-lookup = Búsqueda DNS
+about-networking-dns-lookup-button = Resolución
+about-networking-dns-domain = Dominio:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
 networkid-isUp = Enlace activo
 networkid-statusKnown = El estado del enlace es conocido
 
-
+##
 
