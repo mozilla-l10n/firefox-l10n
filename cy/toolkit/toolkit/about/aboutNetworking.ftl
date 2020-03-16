@@ -96,6 +96,17 @@ about-networking-dns-lookup = Chwilio DNS
 about-networking-dns-lookup-button = Datrys
 about-networking-dns-domain = Parth:
 about-networking-dns-lookup-table-column = IPau
+about-networking-rcwn = Statws RCWN
+about-networking-rcwn-status = Statws RCWN
+about-networking-rcwn-net-won-count = Cyfrif rhwyd wedi ei ennill
+about-networking-total-network-requests = Cyfanswm cyfrif ceisiadau rhwydwaith
+about-networking-rcwn-perf-open = Ar Agor
+about-networking-rcwn-perf-read = Darllen
+about-networking-rcwn-perf-write = Ysgrifennu
+about-networking-rcwn-perf-entry-open = Cofnod Ar Agor
+about-networking-rcwn-avg-short = Cyfartaledd Hir
+about-networking-rcwn-avg-long = Cyfartaledd Hir
+about-networking-rcwn-std-dev-long = Gwyriad Safonol Hir
 
 ## Link is intended as "network link"
 
