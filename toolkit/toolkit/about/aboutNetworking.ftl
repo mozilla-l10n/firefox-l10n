@@ -16,6 +16,14 @@ auto-refresh = Samodejno osveži vsake 3 sekunde
 hostname = Ime gostitelja
 port = Vrata
 http2 = HTTP/2
+about-networking-title = O omrežjih
+about-networking-sockets = Vtičnice
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Osveži
+about-networking-auto-refresh = Samodejno osveži vsake 3 sekunde
+about-networking-hostname = Ime gostitelja
+about-networking-port = Vrata
 about-networking-http-version = Različica HTTP
 ssl = SSL
 active = Aktivno
@@ -61,11 +69,24 @@ rcwn-cache-slow = Število počasnih delovanj diska
 rcwn-cache-not-slow = Število hitrih delovanj diska
 networkid = ID omrežja
 networkid-id = ID omrežja
+about-networking-ssl = SSL
+about-networking-active = Aktivno
+about-networking-idle = Mirovanje
+about-networking-host = Gostitelj
+about-networking-tcp = TCP
+about-networking-sent = Poslano
+about-networking-received = Prejeto
+about-networking-family = Družina
+about-networking-addresses = Naslovi
+about-networking-expires = Poteče (sekunde)
+about-networking-messages-sent = Poslano sporočil
+about-networking-messages-received = Prejeto sporočil
+about-networking-bytes-received = Prejeto bajtov
 
 ## Link is intended as "network link"
 
 networkid-isUp = Povezava je vzpostavljena
 networkid-statusKnown = Stanje povezave je znano
 
-
+##
 
