@@ -79,6 +79,7 @@ about-networking-sent = Naipadala
 about-networking-received = Natanggap
 about-networking-family = Pamilya
 about-networking-trr = TRR
+about-networking-addresses = Mga tirahan
 about-networking-expires = Mag E-expire (Segundo)
 about-networking-messages-sent = Mga naipadalang mensahe
 about-networking-messages-received = Mga mensahe na natanggap
@@ -118,6 +119,8 @@ about-networking-networkid-id = Network ID
 
 networkid-isUp = Ang link ay naka-up
 networkid-statusKnown = Ang katayuan ng link ay kilala
+about-networking-networkid-is-up = Ang link ay naka-up
+about-networking-networkid-status-known = Ang katayuan ng link ay kilala
 
 ##
 
