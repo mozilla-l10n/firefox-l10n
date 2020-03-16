@@ -87,8 +87,14 @@ about-networking-dns-lookup = DNS శోధన
 about-networking-dns-lookup-button = పరిష్కరించు
 about-networking-dns-domain = డొమైన్:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = RCWN గణాంకాలు
+about-networking-rcwn-status = RCWN స్థితి
 about-networking-total-network-requests = మొత్తం నెట్‌వర్క్ అభ్యర్థనల లెక్క
 about-networking-rcwn-operation = క్యాషేఆపరేషన్
+about-networking-rcwn-perf-open = తెరువు
+about-networking-rcwn-perf-read = చదువు
+about-networking-rcwn-perf-write = రాయి
+about-networking-rcwn-avg-short = చిన్న సగటు
 about-networking-rcwn-avg-long = దీర్ఘ సగటు
 
 ## Link is intended as "network link"
