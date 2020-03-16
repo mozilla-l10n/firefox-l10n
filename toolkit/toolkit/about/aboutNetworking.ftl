@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Enviado
 about-networking-received = Recebido
 about-networking-family = Família
+about-networking-trr = TRR
 about-networking-addresses = Endereços
 about-networking-expires = Expira (segundos)
 about-networking-messages-sent = Mensagens enviadas
@@ -86,6 +87,7 @@ about-networking-bytes-sent = Bytes enviados
 about-networking-bytes-received = Bytes recebidos
 about-networking-logging = Registos
 about-networking-current-log-file = Ficheiro de registo atual:
+about-networking-current-log-modules = Módulos de registo atual:
 about-networking-set-log-file = Definir ficheiro de registo
 about-networking-set-log-modules = Definir módulos de registo
 about-networking-start-logging = Começar a registar
@@ -96,6 +98,7 @@ about-networking-dns-lookup-table-column = IPs
 about-networking-rcwn = Estatísticas RCWN
 about-networking-rcwn-status = Estado RCWN
 about-networking-rcwn-cache-won-count = Contagem de cache ganha
+about-networking-rcwn-net-won-count = Contagem de rede ganha
 about-networking-total-network-requests = Contagem total de pedidos de rede
 about-networking-rcwn-operation = Operação de cache
 about-networking-rcwn-perf-open = Abrir
@@ -107,11 +110,15 @@ about-networking-rcwn-avg-long = Média longa
 about-networking-rcwn-std-dev-long = Desvio padrão longo
 about-networking-rcwn-cache-slow = Contagem lenta de cache
 about-networking-rcwn-cache-not-slow = Contagem não lenta de cache
+about-networking-networkid = ID de rede
+about-networking-networkid-id = ID de rede
 
 ## Link is intended as "network link"
 
 networkid-isUp = Ligação ativa
 networkid-statusKnown = Estado da ligação é desconhecido
+about-networking-networkid-is-up = Ligação ativa
+about-networking-networkid-status-known = Estado da ligação é desconhecido
 
 ##
 
