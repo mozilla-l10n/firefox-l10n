@@ -76,6 +76,7 @@ about-networking-host = Asenneftaɣ
 about-networking-tcp = TCP
 about-networking-sent = Ţwaznen
 about-networking-family = Tawacult
+about-networking-trr = TRR
 about-networking-addresses = Tansiwin
 about-networking-expires = Ad immet (tasinin)
 about-networking-messages-sent = Iznan iţwacegɛen
@@ -94,9 +95,21 @@ about-networking-dns-lookup = Anadi DNS
 about-networking-dns-lookup-button = Fru
 about-networking-dns-domain = Taɣult:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = Addad RCWN
+about-networking-rcwn-status = Tiddadanin RCWN
+about-networking-rcwn-cache-won-count = Aseklas n tzerkatut ad ittwarebḥen
+about-networking-rcwn-net-won-count = Tazerkatut n uẓeṭṭa ad ittwarebḥen
+about-networking-total-network-requests = Aseklas uγrid n isuturen n uẓeṭṭa
+about-networking-rcwn-operation = Tamhelt n tuffirt
+about-networking-rcwn-perf-open = Ldi
 about-networking-rcwn-perf-read = Γɣaṛ
+about-networking-rcwn-perf-write = Aru
+about-networking-rcwn-perf-entry-open = Ldi anekcum
+about-networking-rcwn-avg-short = Talemmast meẓẓiyet
 about-networking-rcwn-avg-long = Talemmast ɣezzifet
 about-networking-rcwn-std-dev-long = Amgared tizeɣt muqren
+about-networking-rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
+about-networking-rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
 
 ## Link is intended as "network link"
 
