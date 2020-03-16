@@ -113,11 +113,15 @@ about-networking-rcwn-avg-long = Долгое среднее
 about-networking-rcwn-std-dev-long = Долгое стандартное отклонение
 about-networking-rcwn-cache-slow = Счётчик медленного кэша
 about-networking-rcwn-cache-not-slow = Счётчик не медленного кэша
+about-networking-networkid = Сетевой ID
+about-networking-networkid-id = Сетевой ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Соединение установлено
 networkid-statusKnown = Состояние соединения известно
+about-networking-networkid-is-up = Соединение установлено
+about-networking-networkid-status-known = Состояние соединения известно
 
 ##
 
