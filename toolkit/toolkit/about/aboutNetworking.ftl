@@ -20,6 +20,7 @@ about-networking-title = Про мережу
 about-networking-http = HTTP
 about-networking-sockets = Сокети
 about-networking-dns = DNS
+about-networking-dns-suffix = Суфікс DNS
 about-networking-websockets = Вебсокети
 about-networking-refresh = Оновити
 about-networking-auto-refresh = Автооновлювати кожні 3 секунди
@@ -76,6 +77,7 @@ about-networking-idle = Очікування
 about-networking-host = Хост
 about-networking-tcp = TCP
 about-networking-received = Отримано
+about-networking-trr = TRR
 about-networking-addresses = Адреси
 about-networking-expires = Дійсний до (секунди)
 about-networking-messages-received = Повідомлень отримано
@@ -84,11 +86,15 @@ about-networking-dns-lookup = DNS пошук
 about-networking-dns-lookup-button = Вирішити
 about-networking-dns-domain = Домен:
 about-networking-dns-lookup-table-column = IPs
+about-networking-networkid = ID мережі
+about-networking-networkid-id = ID мережі
 
 ## Link is intended as "network link"
 
 networkid-isUp = Посилання працює
 networkid-statusKnown = Стан посилання відомий
+about-networking-networkid-is-up = Посилання працює
+about-networking-networkid-status-known = Стан посилання відомий
 
 ##
 
