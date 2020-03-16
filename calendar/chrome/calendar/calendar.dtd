@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Skapa ny uppgift" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Uppgifter" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Visa slutförda Uppgifter">
 
 <!ENTITY calendar.today.button.label          "Idag">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Visa påminnelse">
 <!ENTITY calendarproperties.cache3.label                   "Offline support">
 <!ENTITY calendarproperties.enabled.label                  "Slå på denna kalender">
+<!ENTITY calendarproperties.enabled2.label                 "Aktivera den här kalendern">
 <!ENTITY calendarproperties.forceDisabled.label            "Leverantören för den här kalendern kunde inte hittas. Detta händer ofta om du har inaktiverat eller avinstallerat vissa addons.">
 <!ENTITY calendarproperties.unsubscribe.label              "Avsluta prenumeration">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
