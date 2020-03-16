@@ -17,6 +17,7 @@ hostname = Adresa poslužitelja
 port = Ulaz
 http2 = HTTP/2
 about-networking-title = O umrežavanju
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -83,6 +84,20 @@ about-networking-messages-sent = Poruka poslana
 about-networking-messages-received = Poruka primljena
 about-networking-bytes-sent = Poslano bajtova
 about-networking-bytes-received = Primljeno bajtova
+about-networking-logging = Zapisnik
+about-networking-log-tutorial = Posjetite <a data-l10n-name="logging">HTTP zapisnik</a> za uputstva kako koristiti ovaj alat.
+about-networking-current-log-file = Trenutna log datoteka:
+about-networking-current-log-modules = Trenutni log moduli:
+about-networking-set-log-file = Postavi log datoteku
+about-networking-set-log-modules = Postavi log module
+about-networking-start-logging = Pokreni vođenje zapisnika
+about-networking-stop-logging = Zaustavi vođenje zapisnika
+about-networking-dns-lookup = DNS upit
+about-networking-dns-lookup-button = Razrješi
+about-networking-dns-domain = Domena:
+about-networking-dns-lookup-table-column = IP adrese
+about-networking-rcwn = RCWN statistika
+about-networking-rcwn-status = RCWN status
 
 ## Link is intended as "network link"
 
