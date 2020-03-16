@@ -80,10 +80,33 @@ about-networking-messages-sent = Nūsyuteitī ziņuojumi
 about-networking-messages-received = Sajimtī ziņuojumi
 about-networking-bytes-sent = Nūsyuteitī baiti
 about-networking-bytes-received = Sajimtī baiti
+about-networking-logging = Logging
+about-networking-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
+about-networking-current-log-file = Pošreizejais registracejis fails:
+about-networking-current-log-modules = Pošreizejais registracejis moduls:
+about-networking-set-log-file = Set Log File
+about-networking-set-log-modules = Set Log Modules
+about-networking-start-logging = Start Logging
+about-networking-stop-logging = Stop Logging
 about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Atrast
 about-networking-dns-domain = Domens:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = RCWN statistika
+about-networking-rcwn-status = RCWN statuss
+about-networking-rcwn-cache-won-count = Cache won count
+about-networking-rcwn-net-won-count = Net won count
+about-networking-total-network-requests = Total network request count
+about-networking-rcwn-operation = Kešatminis darbeiba
+about-networking-rcwn-perf-open = Attaiseit
+about-networking-rcwn-perf-read = Skaiteit
+about-networking-rcwn-perf-write = Raksteit
+about-networking-rcwn-perf-entry-open = Attaiseits īroksts
+about-networking-rcwn-avg-short = Eiss videjais
+about-networking-rcwn-avg-long = Garš videjais
+about-networking-rcwn-std-dev-long = Long Standard Deviation
+about-networking-rcwn-cache-slow = Cache slow count
+about-networking-rcwn-cache-not-slow = Cache not slow count
 
 ## Link is intended as "network link"
 
