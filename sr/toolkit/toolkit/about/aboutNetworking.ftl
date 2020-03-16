@@ -110,11 +110,15 @@ about-networking-rcwn-avg-long = Дужа просечна
 about-networking-rcwn-std-dev-long = Дугачко подразумевано одступање
 about-networking-rcwn-cache-slow = Број успореног кеша
 about-networking-rcwn-cache-not-slow = Брз неуспореног кеша
+about-networking-networkid = ИБ мреже
+about-networking-networkid-id = ИБ мреже
 
 ## Link is intended as "network link"
 
 networkid-isUp = Веза је успостављена
 networkid-statusKnown = Стање везе непознато
+about-networking-networkid-is-up = Веза је успостављена
+about-networking-networkid-status-known = Стање везе непознато
 
 ##
 
