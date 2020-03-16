@@ -68,6 +68,7 @@ about-networking-tcp = TCP
 about-networking-sent = పంపిన
 about-networking-received = స్వీకరించిన
 about-networking-family = కుటుంబం
+about-networking-trr = TRR
 about-networking-addresses = చిరునామా
 about-networking-expires = గడువుతీరును (క్షణాలు)
 about-networking-messages-sent = పంపిన సందేశాలు
@@ -75,6 +76,7 @@ about-networking-messages-received = స్వీకరించిన సంద
 about-networking-bytes-sent = పంపిన బైట్లు
 about-networking-bytes-received = స్వీకరించిన బైట్లు
 about-networking-logging = నమోదుపరుచు
+about-networking-log-tutorial = ఈ పనిముట్టును ఎలా వాడుకోవాలో సూచనల కోసం <a data-l10n-name="logging">HTTP లాగింగ్</a>‌ను చూడండి.
 about-networking-current-log-file = ప్రస్తుత లాగ్ ఫైలు:
 about-networking-current-log-modules = ప్రస్తుత నమోదు మాడ్యూలు:
 about-networking-set-log-file = లాగ్ ఫైల్ సెట్ చేయి
@@ -85,7 +87,9 @@ about-networking-dns-lookup = DNS శోధన
 about-networking-dns-lookup-button = పరిష్కరించు
 about-networking-dns-domain = డొమైన్:
 about-networking-dns-lookup-table-column = IPs
+about-networking-total-network-requests = మొత్తం నెట్‌వర్క్ అభ్యర్థనల లెక్క
 about-networking-rcwn-operation = క్యాషేఆపరేషన్
+about-networking-rcwn-avg-long = దీర్ఘ సగటు
 
 ## Link is intended as "network link"
 
