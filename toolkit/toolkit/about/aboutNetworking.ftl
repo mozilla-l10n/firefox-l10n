@@ -20,6 +20,7 @@ about-networking-title = Wo seśowych zwiskach
 about-networking-http = HTTP
 about-networking-sockets = Sokety
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS-sufiks
 about-networking-websockets = Websokety
 about-networking-refresh = Aktualizěrowaś
 about-networking-auto-refresh = Kužde 3 sekundy aktualizěrowaś
@@ -78,6 +79,7 @@ about-networking-tcp = TCP
 about-networking-sent = Pósłany
 about-networking-received = Dostany
 about-networking-family = Familija
+about-networking-trr = TRR
 about-networking-addresses = Adrese
 about-networking-expires = Pśepadnjo (sekundy)
 about-networking-messages-sent = Pósłane powěsći
@@ -111,11 +113,15 @@ about-networking-rcwn-avg-long = Dłujki pśerězk
 about-networking-rcwn-std-dev-long = Dłujke standardne wótchylenje
 about-networking-rcwn-cache-slow = Pomałe licenje pufrowaś
 about-networking-rcwn-cache-not-slow = Pomałe licenje njepufrowaś
+about-networking-networkid = Seśowy ID
+about-networking-networkid-id = Seśowy ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Wótkaz jo pśepadnjony
 networkid-statusKnown = Wótkazowy status jo znaty
+about-networking-networkid-is-up = Wótkaz jo pśepadnjony
+about-networking-networkid-status-known = Wótkazowy status jo znaty
 
 ##
 
