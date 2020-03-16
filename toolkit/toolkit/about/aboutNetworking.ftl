@@ -81,6 +81,14 @@ about-networking-messages-sent = Mesazhe të Dërguar
 about-networking-messages-received = Mesazhe të Marrë
 about-networking-bytes-sent = Bajte të Dërguar
 about-networking-bytes-received = Bajte të Marrë
+about-networking-logging = Regjistrim
+about-networking-log-tutorial = Për udhëzime se si të përdoret ky mjet, shihni <a data-l10n-name="logging">HTTP Logging</a>.
+about-networking-current-log-file = Kartela Regjistër e Tanishme:
+about-networking-current-log-modules = Module të Tanishëm Regjistrimi:
+about-networking-set-log-file = Caktoni Kartelë Regjistër
+about-networking-set-log-modules = Caktoni Module Regjistrimi
+about-networking-start-logging = Filloje Regjistrimin
+about-networking-stop-logging = Ndal Regjistrimin
 about-networking-dns-lookup = Kërkim DNS
 about-networking-dns-lookup-button = Kryeje
 about-networking-dns-domain = Përkatësi:
