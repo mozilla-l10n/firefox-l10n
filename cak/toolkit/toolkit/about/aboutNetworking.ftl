@@ -20,6 +20,7 @@ about-networking-title = Chi rij ri rokisaxik ri b'ey
 about-networking-http = HTTP
 about-networking-sockets = Chuq'b'äl
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS rij tzij
 about-networking-websockets = WebSockets
 about-networking-refresh = Titzolïx
 about-networking-auto-refresh = Tutzolij rupaläj pa ruyonil pa jujun 3 xil ch'utiramaj
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Nïm Junamilal
 about-networking-rcwn-std-dev-long = Nïm Rutzalenik pa Rub'eyal
 about-networking-rcwn-cache-slow = Eqal rutaqoya'l jumejyak
 about-networking-rcwn-cache-not-slow = Man Eqal ta rutaqoya'l jumejyak
+about-networking-networkid = K'amab'ey ID
+about-networking-networkid-id = K'amab'ey ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Tzijïl Ximonel
 networkid-statusKnown = Ri rub'anikil ruximonel etaman ruwäch
+about-networking-networkid-is-up = Tzijïl Ximonel
+about-networking-networkid-status-known = Ri rub'anikil ruximonel etaman ruwäch
 
 ##
 
