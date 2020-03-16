@@ -17,6 +17,7 @@ hostname = Hostname
 port = Port
 http2 = HTTP/2
 about-networking-title = Tungkol sa Networking
+about-networking-http = HTTP
 about-networking-sockets = Mga socket
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
