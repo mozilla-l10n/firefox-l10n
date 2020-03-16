@@ -59,6 +59,7 @@ about-networking-tcp = TCP
 about-networking-sent = Kicwalo
 about-networking-received = Kigamo
 about-networking-family = Gang
+about-networking-trr = TRR
 about-networking-addresses = Kanonge
 about-networking-expires = Kare ne obitum (seconda)
 about-networking-messages-sent = Kicwalo kwena
@@ -71,6 +72,12 @@ about-networking-current-log-file = Pwail me rikod ma kombedi:
 about-networking-set-log-file = Ter pwil me rikod
 about-networking-start-logging = Cak gwoko rikod
 about-networking-stop-logging = Juk gwoko rikod
+about-networking-dns-lookup-button = Yubi
+about-networking-dns-domain = Ker:
+about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn-perf-open = Yabi
+about-networking-rcwn-perf-read = Kwan
+about-networking-rcwn-perf-write = Coo
 
 ## Link is intended as "network link"
 
