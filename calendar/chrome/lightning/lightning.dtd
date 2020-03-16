@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "o">
 <!ENTITY lightning.menupopup.open.message.label       "Składowana powěsć…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "p">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Protykowa dataja…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "P">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Z protyki zhašeć">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosće…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Podrobnosće podawka pokazać">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Tute zdźělenki njepokazać">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Protyka">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "K protykowemu rajtarkej">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Wjace">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klikńće, zo byšće dalše nastajenja pokazał">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znowa wobkrućić">
