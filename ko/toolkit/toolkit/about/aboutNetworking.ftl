@@ -78,6 +78,10 @@ about-networking-dns-lookup = DNS 조회
 about-networking-dns-lookup-button = 조회
 about-networking-dns-domain = 도메인:
 about-networking-dns-lookup-table-column = IP
+about-networking-rcwn = RCWN 상태
+about-networking-rcwn-status = RCWN 상태
+about-networking-rcwn-cache-won-count = 캐시 성공 수
+about-networking-rcwn-net-won-count = 네트워크 성공 수
 
 ## Link is intended as "network link"
 
