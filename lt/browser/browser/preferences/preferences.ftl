@@ -786,6 +786,10 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Šiuo metu pasirinkta FIPS veiksena. Jai reikia pagrindinio slaptažodžio.
 forms-master-pw-fips-desc = Slaptažodžio pakeisti nepavyko
 
+## OS Authentication dialog
+
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Žurnalas
