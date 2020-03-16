@@ -20,6 +20,7 @@ about-networking-title = Sareari buruz
 about-networking-http = HTTP
 about-networking-sockets = Socketak
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS aurrizkia
 about-networking-websockets = WebSocketak
 about-networking-refresh = Berritu
 about-networking-auto-refresh = Berritu automatikoki 3 segundoro
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Batez besteko luzea
 about-networking-rcwn-std-dev-long = Desbideratze estandar luzea
 about-networking-rcwn-cache-slow = Cache motel kopurua
 about-networking-rcwn-cache-not-slow = Cache ez motel kopurua
+about-networking-networkid = Sarearen IDa
+about-networking-networkid-id = Sarearen IDa
 
 ## Link is intended as "network link"
 
 networkid-isUp = Konexioa aktibatuta dago
 networkid-statusKnown = Konexioaren egoera ezaguna da
+about-networking-networkid-is-up = Konexioa aktibatuta dago
+about-networking-networkid-status-known = Konexioaren egoera ezaguna da
 
 ##
 
