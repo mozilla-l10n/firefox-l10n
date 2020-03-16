@@ -20,6 +20,7 @@ about-networking-title = เกี่ยวกับเครือข่าย
 about-networking-http = HTTP
 about-networking-sockets = ซ็อกเก็ต
 about-networking-dns = DNS
+about-networking-dns-suffix = คำลงท้าย DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = เรียกใหม่
 about-networking-auto-refresh = เรียกใหม่อัตโนมัติทุก 3 วินาที
@@ -99,15 +100,28 @@ about-networking-dns-domain = โดเมน:
 about-networking-dns-lookup-table-column = IP
 about-networking-rcwn = สถิติ RCWN
 about-networking-rcwn-status = สถานะ RCWN
+about-networking-rcwn-cache-won-count = จำนวนการใช้แคช
+about-networking-rcwn-net-won-count = จำนวนการใช้เครือข่าย
 about-networking-total-network-requests = จำนวนคำขอเครือข่ายรวม
+about-networking-rcwn-operation = การดำเนินการแคช
 about-networking-rcwn-perf-open = เปิด
 about-networking-rcwn-perf-read = อ่าน
 about-networking-rcwn-perf-write = เขียน
+about-networking-rcwn-perf-entry-open = เปิดรายการ
+about-networking-rcwn-avg-short = ค่าเฉลี่ยแบบสั้น
+about-networking-rcwn-avg-long = ค่าเฉลี่ยแบบยาว
+about-networking-rcwn-std-dev-long = ค่าเบี่ยงเบนมาตรฐานแบบยาว
+about-networking-rcwn-cache-slow = จำนวนแคชที่หน่วงเวลา
+about-networking-rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน่วงเวลา
+about-networking-networkid = ID เครือข่าย
+about-networking-networkid-id = ID เครือข่าย
 
 ## Link is intended as "network link"
 
 networkid-isUp = ลิงก์ถูกเชื่อมต่อแล้ว
 networkid-statusKnown = ทราบสถานะลิงก์แล้ว
+about-networking-networkid-is-up = ลิงก์ถูกเชื่อมต่อแล้ว
+about-networking-networkid-status-known = ทราบสถานะลิงก์แล้ว
 
 ##
 
