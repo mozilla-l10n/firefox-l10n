@@ -22,6 +22,7 @@ about-networking-sockets = ซ็อกเก็ต
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = เรียกใหม่
+about-networking-auto-refresh = เรียกใหม่อัตโนมัติทุก 3 วินาที
 about-networking-hostname = ชื่อโฮสต์
 about-networking-port = พอร์ต
 about-networking-http-version = รุ่น HTTP
