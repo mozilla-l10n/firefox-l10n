@@ -20,6 +20,7 @@ about-networking-title = Acerca del tráfico de red
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = Sufijo DNS
 about-networking-websockets = WebSockets
 about-networking-hostname = Nombre del servidor
 about-networking-port = Puerto
@@ -76,6 +77,7 @@ about-networking-tcp = TCP
 about-networking-sent = Enviar
 about-networking-received = Recibido
 about-networking-family = Familia
+about-networking-trr = TRR
 about-networking-addresses = Dirección
 about-networking-expires = Expira (Segundos)
 about-networking-messages-sent = Mensajes enviados
@@ -91,6 +93,8 @@ about-networking-dns-lookup-table-column = IPs
 
 networkid-isUp = La conexión está activa
 networkid-statusKnown = Se conoce el estado del enlace
+about-networking-networkid-is-up = La conexión está activa
+about-networking-networkid-status-known = Se conoce el estado del enlace
 
 ##
 
