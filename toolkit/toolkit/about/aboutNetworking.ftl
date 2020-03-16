@@ -16,6 +16,12 @@ auto-refresh = Automatické obnovení každé 3 sekundy
 hostname = Adresa serveru
 port = Port
 http2 = HTTP/2
+about-networking-title = O spojeních
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Obnovit
+about-networking-auto-refresh = Automatické obnovení každé 3 sekundy
+about-networking-port = Port
 about-networking-http-version = Verze HTTP
 ssl = SSL
 active = Aktivní
@@ -61,6 +67,17 @@ rcwn-cache-slow = Počet pomalých přístupů do mezipaměti
 rcwn-cache-not-slow = Počet rychlých přístupů do mezipaměti
 networkid = ID sítě
 networkid-id = ID sítě
+about-networking-ssl = SSL
+about-networking-active = Aktivní
+about-networking-host = Server
+about-networking-tcp = TCP
+about-networking-sent = Odesláno
+about-networking-received = Přijato
+about-networking-family = Rodina
+about-networking-addresses = Adresy
+about-networking-expires = Vyprší (sekundy)
+about-networking-messages-sent = Odesláno zpráv
+about-networking-messages-received = Přijato zpráv
 
 ## Link is intended as "network link"
 
