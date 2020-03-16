@@ -64,6 +64,8 @@ about-networking-dns-lookup = DNS සෙවීම
 about-networking-dns-lookup-button = විසඳන්න
 about-networking-dns-domain = වසම:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn-perf-open = විවෘත කරන්න
+about-networking-rcwn-perf-write = ලියන්න
 
 ## Link is intended as "network link"
 
