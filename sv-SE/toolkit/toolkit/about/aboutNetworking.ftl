@@ -20,6 +20,7 @@ about-networking-title = Om nätverk
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS-suffix
 about-networking-websockets = WebSockets
 about-networking-refresh = Uppdatera
 about-networking-auto-refresh = Autouppdatera var 3:e sekund
