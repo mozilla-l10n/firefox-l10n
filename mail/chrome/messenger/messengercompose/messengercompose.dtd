@@ -275,6 +275,7 @@
 <!ENTITY bccAddr2.label "Cco">
 <!ENTITY replyAddr2.label "Respon a">
 <!ENTITY newsgroupsAddr2.label "Grup de discussió">
+<!ENTITY followupAddr2.label "Seguiment a">
 <!ENTITY subject2.label "Assumpte">
 <!ENTITY subject.accesskey "s">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
