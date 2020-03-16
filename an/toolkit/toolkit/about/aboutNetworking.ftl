@@ -16,6 +16,7 @@ hostname = Nombre d'o servidor
 port = Puerto
 http2 = HTTP/2
 about-networking-title = Información sobre o ret
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -79,6 +80,18 @@ about-networking-messages-sent = Mensaches ninviaus
 about-networking-messages-received = Mensaches recibius
 about-networking-bytes-sent = Bytes ninviaus
 about-networking-bytes-received = Bytes recibius
+about-networking-logging = Rechistro
+about-networking-log-tutorial = Mirar <a data-l10n-name="logging">Rechistro HTTP</a> pa saber cómo usar ista ferramienta.
+about-networking-current-log-file = Fichero de rechistro actual:
+about-networking-current-log-modules = Modulos de rechistro actuals:
+about-networking-set-log-file = Determinar fichero de rechistro
+about-networking-set-log-modules = Determinar modulos de rechistro
+about-networking-start-logging = Empecipiar a rechistrar
+about-networking-stop-logging = Deixar de rechistrar
+about-networking-dns-lookup = DNS Lookup
+about-networking-dns-lookup-button = Resolver
+about-networking-dns-domain = Dominio:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
