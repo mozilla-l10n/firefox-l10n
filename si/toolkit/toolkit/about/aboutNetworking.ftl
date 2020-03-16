@@ -15,6 +15,14 @@ auto-refresh = තත්පර 3 කට වරක් ස්වයං ප්‍�
 hostname = ධාරක නම
 port = පේනුව
 http2 = HTTP/2
+about-networking-title = ජාලකරණය පිළිබඳ
+about-networking-sockets = පේනු
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = ප්‍රතිපූර්ණය
+about-networking-auto-refresh = තත්පර 3 කට වරක් ස්වයං ප්‍රතිපූර්ණය
+about-networking-hostname = ධාරක නම
+about-networking-port = පේනුව
 ssl = SSL
 active = සක්‍රීය
 idle = නිශ්චල
@@ -36,3 +44,23 @@ dns-domain = වසම:
 dns-lookup-table-column = IPs
 rcwn-perf-open = විවෘත කරන්න
 rcwn-perf-write = ලියන්න
+about-networking-ssl = SSL
+about-networking-active = සක්‍රීය
+about-networking-idle = නිශ්චල
+about-networking-host = ධාරකය
+about-networking-tcp = TCP
+about-networking-sent = යැවු
+about-networking-received = ලැබුනු
+about-networking-family = පවුල
+about-networking-addresses = ලිපින
+about-networking-expires = කල් ඉකුත්වේ (තත්පර)
+about-networking-messages-sent = යැවූ පණිවිඩ
+about-networking-messages-received = පණිවිඩ ලැබුණි
+about-networking-bytes-sent = යැවූ බයිට
+about-networking-bytes-received = ලැබුනු බයිට
+
+## Link is intended as "network link"
+
+
+##
+
