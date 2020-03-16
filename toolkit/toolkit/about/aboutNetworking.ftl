@@ -20,6 +20,7 @@ about-networking-title = Acerca de redes
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = Sufijo DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Autorefrescar cada 3 segundos
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Promedio largo
 about-networking-rcwn-std-dev-long = Desviación estándar larga
 about-networking-rcwn-cache-slow = Cuenta lenta de caché
 about-networking-rcwn-cache-not-slow = Cuenta de caché no lenta
+about-networking-networkid = Identificación de red
+about-networking-networkid-id = Identificación de red
 
 ## Link is intended as "network link"
 
 networkid-isUp = Enlace activo
 networkid-statusKnown = El estado del enlace es conocido
+about-networking-networkid-is-up = Enlace activo
+about-networking-networkid-status-known = El estado del enlace es conocido
 
 ##
 
