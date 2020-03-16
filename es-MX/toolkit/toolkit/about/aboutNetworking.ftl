@@ -98,6 +98,20 @@ about-networking-dns-lookup = Búsqueda de DNS
 about-networking-dns-lookup-button = Resolver
 about-networking-dns-domain = Dominio:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = Estadísticas RCWN
+about-networking-rcwn-status = Estatus RCWN
+about-networking-rcwn-cache-won-count = Cuenta de caché ganado
+about-networking-rcwn-net-won-count = Cuenta de red ganada
+about-networking-total-network-requests = Cuenta total de peticiones de red
+about-networking-rcwn-operation = Operación caché
+about-networking-rcwn-perf-open = Abrir
+about-networking-rcwn-perf-read = Leer
+about-networking-rcwn-perf-write = Escribir
+about-networking-rcwn-perf-entry-open = Entrada abierta
+about-networking-rcwn-avg-short = Promedio corto
+about-networking-rcwn-avg-long = Promedio largo
+about-networking-rcwn-cache-slow = Cuenta lenta de caché
+about-networking-rcwn-cache-not-slow = Cuenta de caché no lenta
 
 ## Link is intended as "network link"
 
