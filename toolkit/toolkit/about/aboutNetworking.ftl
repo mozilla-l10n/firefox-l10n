@@ -81,6 +81,7 @@ about-networking-dns-lookup = Consulta DNS
 about-networking-dns-lookup-button = Resol
 about-networking-dns-domain = Domini:
 about-networking-dns-lookup-table-column = IP
+about-networking-rcwn-perf-open = Obre
 
 ## Link is intended as "network link"
 
