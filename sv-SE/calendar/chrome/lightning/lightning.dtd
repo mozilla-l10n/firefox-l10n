@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "Ö">
 <!ENTITY lightning.menupopup.open.message.label       "Sparade meddelanden…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "m">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderfil…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -67,6 +69,7 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Ta bort från kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Visa detaljer för händelsen">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalender">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mer">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klicka för att se fler val">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Förnya bekräftelse">
