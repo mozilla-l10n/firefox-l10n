@@ -13,6 +13,14 @@ refresh = थाजा खालाम
 auto-refresh = मोनफ्रोम 3 सेकेन्दआव हार्सिं-थाजा खालाम
 hostname = हस्टमुं
 port = पर्ट
+about-networking-title = नेटवार्किंनि सोमोन्दै
+about-networking-sockets = सकेट्स
+about-networking-dns = DNS
+about-networking-websockets = वेबसकेट्स
+about-networking-refresh = थाजा खालाम
+about-networking-auto-refresh = मोनफ्रोम 3 सेकेन्दआव हार्सिं-थाजा खालाम
+about-networking-hostname = हस्टमुं
+about-networking-port = पर्ट
 ssl = SSL
 active = मावथि
 idle = अलसिया
@@ -28,9 +36,23 @@ messages-received = खौरां मोनबाय
 bytes-sent = बाइट्स दैथाय हरबाय
 bytes-received = बाइट्स मोनबाय
 rcwn-perf-open = खेव
+about-networking-ssl = SSL
+about-networking-active = मावथि
+about-networking-idle = अलसिया
+about-networking-host = हस्ट
+about-networking-tcp = TCP
+about-networking-sent = दैथाय हरबाय
+about-networking-received = मोनबाय
+about-networking-family = नखर
+about-networking-addresses = थं
+about-networking-expires = मेयाद बारो (सेकेन्द)
+about-networking-messages-sent = खौरां दैथाय हरबाय
+about-networking-messages-received = खौरां मोनबाय
+about-networking-bytes-sent = बाइट्स दैथाय हरबाय
+about-networking-bytes-received = बाइट्स मोनबाय
 
 ## Link is intended as "network link"
 
 
-
+##
 
