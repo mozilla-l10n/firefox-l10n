@@ -22,6 +22,7 @@ policy-Bookmarks = Vytvoření záložek na liště, v nabídce nebo vybrané sl
 policy-CaptivePortal = Povolení nebo zakázání podpory captive portálů.
 policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
+policy-DisabledCiphers = Zakázané šifry.
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
 policy-DisableBuiltinPDFViewer =
