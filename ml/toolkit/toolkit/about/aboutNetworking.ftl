@@ -63,6 +63,12 @@ about-networking-messages-sent = അയച്ച സന്ദേശങ്ങള�
 about-networking-messages-received = ലഭിച്ച സന്ദേശങ്ങള്‍
 about-networking-bytes-sent = അയച്ച ബൈറ്റുകള്‍
 about-networking-bytes-received = ലഭിച്ച ബൈറ്റുകള്‍
+about-networking-log-tutorial = ഈ ടൂള്‍ ഉപയോഗിക്കുന്നത് എങ്ങനെ എന്നറിയാന്‍ <a data-l10n-name="logging">HTTP ലോഗിങ്ങ്</a> കാണുക.
+about-networking-rcwn-perf-open = തുറന്നത്
+about-networking-rcwn-perf-read = വായിച്ചത്
+about-networking-rcwn-perf-write = എഴുതിയത്
+about-networking-rcwn-avg-short = ചെറിയ ശരാശരി
+about-networking-rcwn-avg-long = വലിയ ശരാശരി
 
 ## Link is intended as "network link"
 
