@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = Send
 about-networking-received = Móttekið
 about-networking-family = Fjölskylda
+about-networking-trr = TRR
 about-networking-addresses = Netföng
 about-networking-expires = Rennur út (Sekúndur)
 about-networking-messages-sent = Skilaboð send
