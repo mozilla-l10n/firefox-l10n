@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Tramess
 about-networking-received = Reschavì
 about-networking-family = Famiglia
+about-networking-trr = TRR
 about-networking-addresses = Addressas
 about-networking-expires = Scroda en (secundas)
 about-networking-messages-sent = Messadis tramess
@@ -105,6 +106,12 @@ about-networking-rcwn-operation = Operaziun dal cache
 about-networking-rcwn-perf-open = Avrir
 about-networking-rcwn-perf-read = Leger
 about-networking-rcwn-perf-write = Scriver
+about-networking-rcwn-perf-entry-open = Entrada averta
+about-networking-rcwn-avg-short = Media curta
+about-networking-rcwn-avg-long = Media lunga
+about-networking-rcwn-std-dev-long = Deviaziun da standard lunga
+about-networking-rcwn-cache-slow = Dumber da giadas ch'il cache è plaun
+about-networking-rcwn-cache-not-slow = Dumber da giadas ch'il cache è svelt
 
 ## Link is intended as "network link"
 
