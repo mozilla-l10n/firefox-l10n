@@ -70,6 +70,7 @@ rcwn-cache-not-slow = कैश असुस्ती गणना
 networkid = नेटवर्क आईडी
 networkid-id = नेटवर्क आईडी
 about-networking-ssl = SSL
+about-networking-active = सक्रिय
 about-networking-idle = निष्क्रिय
 about-networking-host = मेजबान
 about-networking-tcp = TCP
