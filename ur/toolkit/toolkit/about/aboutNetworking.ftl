@@ -21,6 +21,7 @@ about-networking-sockets = ساکٹس
 about-networking-dns = ڈی این ایس
 about-networking-websockets = ویب ساکٹس
 about-networking-refresh = تازہ کریں
+about-networking-auto-refresh = خودبخود, ہر ٣ سیکنڈ کے بعد تازہ کریں
 about-networking-hostname = ہوسٹ نیم
 about-networking-port = پورٹ
 ssl = ایس ایس ایل
