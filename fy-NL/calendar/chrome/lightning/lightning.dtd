@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "I">
 <!ENTITY lightning.menupopup.open.message.label       "Bewarre berjocht…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "b">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Agindabestân…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Fuortsmite út aginda">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Details…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Barrendetails toane">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Dit berjocht net mear toane">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Aginda">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Gean nei it agindaljepblêd">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mear">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik om mear opsjes te toanen">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Befêstigje opnij">
