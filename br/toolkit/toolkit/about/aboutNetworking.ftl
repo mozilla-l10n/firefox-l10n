@@ -15,6 +15,14 @@ auto-refresh = Azbevaat ent emgefreek pep 3 eilenn
 hostname = Anv ostiz
 port = Porzh
 http2 = HTTP/2
+about-networking-title = A-zivout ar rouedad
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Azbevaat
+about-networking-auto-refresh = Azbevaat ent emgefreek pep 3 eilenn
+about-networking-hostname = Anv ostiz
+about-networking-port = Porzh
 ssl = SSL
 active = Oberiant
 idle = Dioberiant
@@ -57,3 +65,23 @@ rcwn-avg-long = Keidenn vras
 rcwn-std-dev-long = Forc'had rizh bras
 rcwn-cache-slow = Niver a grubuilh gorrek
 rcwn-cache-not-slow = Niver a grubuilh prim
+about-networking-ssl = SSL
+about-networking-active = Oberiant
+about-networking-idle = Dioberiant
+about-networking-host = Ostiz
+about-networking-tcp = TCP
+about-networking-sent = Kaset
+about-networking-received = Degemeret
+about-networking-family = Familh
+about-networking-addresses = Chomlec'hioù
+about-networking-expires = Deiziad termen (eilennoù)
+about-networking-messages-sent = Kemennadennoù kaset
+about-networking-messages-received = Kemennadennoù degemeret
+about-networking-bytes-sent = Eizhbitoù kaset
+about-networking-bytes-received = Eizhbitoù degemeret
+
+## Link is intended as "network link"
+
+
+##
+
