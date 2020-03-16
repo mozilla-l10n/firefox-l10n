@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Направи нови задатак" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Задаци" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Прикажи завршене задатке">
 
 <!ENTITY calendar.today.button.label          "Данас">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Присуство">
 <!ENTITY calendar.context.attendance.menu.accesskey             "и">
 <!ENTITY calendar.context.attendance.occurrence.label           "Ово понављање">
-<!ENTITY calendar.context.attendance.all.label        "Сва понављања" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Заврши серију">
 <!ENTITY calendar.context.attendance.send.label                 "Пошаљи обавештење одмах">
 <!ENTITY calendar.context.attendance.send.accesskey             "П">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Прикажи подсетнике">
 <!ENTITY calendarproperties.cache3.label                   "Подршка ван мреже">
 <!ENTITY calendarproperties.enabled.label                  "Укључи овај календар">
+<!ENTITY calendarproperties.enabled2.label                 "Омогући овај календар">
 <!ENTITY calendarproperties.forceDisabled.label            "Достављач овог календара се не може наћи. Ово се често ако сте онемогућавали или уклањали одређене додатке.">
 <!ENTITY calendarproperties.unsubscribe.label              "Прекини претплату">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "у">
