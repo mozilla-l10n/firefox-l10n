@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Créer une nouvelle tâche" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tâches" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Afficher les tâches accomplies">
 
 <!ENTITY calendar.today.button.label          "Aujourd’hui">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Participation">
 <!ENTITY calendar.context.attendance.menu.accesskey             "a">
 <!ENTITY calendar.context.attendance.occurrence.label           "Cette occurrence">
-<!ENTITY calendar.context.attendance.all.label        "Toutes les occurrences" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Séries complètes">
 <!ENTITY calendar.context.attendance.send.label                 "Envoyer une notification maintenant">
 <!ENTITY calendar.context.attendance.send.accesskey             "E">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Afficher les alarmes">
 <!ENTITY calendarproperties.cache3.label                   "Prise en charge du mode hors connexion">
 <!ENTITY calendarproperties.enabled.label                  "Activer cet agenda">
+<!ENTITY calendarproperties.enabled2.label                 "Activer cet agenda">
 <!ENTITY calendarproperties.forceDisabled.label            "Le fournisseur de cet agenda n’a pas été trouvé. Ceci arrive souvent lors de la désactivation ou de la désinstallation de certains modules complémentaires.">
 <!ENTITY calendarproperties.unsubscribe.label              "Se désabonner">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "S">
