@@ -17,10 +17,14 @@ hostname = Adresa serveru
 port = Port
 http2 = HTTP/2
 about-networking-title = O spojeních
+about-networking-http = HTTP
+about-networking-sockets = Sockety
 about-networking-dns = DNS
+about-networking-dns-suffix = Přípona DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Obnovit
 about-networking-auto-refresh = Automatické obnovení každé 3 sekundy
+about-networking-hostname = Adresa serveru
 about-networking-port = Port
 about-networking-http-version = Verze HTTP
 ssl = SSL
@@ -69,20 +73,51 @@ networkid = ID sítě
 networkid-id = ID sítě
 about-networking-ssl = SSL
 about-networking-active = Aktivní
+about-networking-idle = Nečinný
 about-networking-host = Server
 about-networking-tcp = TCP
 about-networking-sent = Odesláno
 about-networking-received = Přijato
 about-networking-family = Rodina
+about-networking-trr = TRR
 about-networking-addresses = Adresy
 about-networking-expires = Vyprší (sekundy)
 about-networking-messages-sent = Odesláno zpráv
 about-networking-messages-received = Přijato zpráv
+about-networking-logging = Protokol
+about-networking-log-tutorial = Pro informace o používání tohoto nástroje prosím navštivte stránku <a data-l10n-name="logging">HTTP Logging</a>.
+about-networking-current-log-file = Současný soubor protokolu:
+about-networking-current-log-modules = Současné moduly protokolu:
+about-networking-set-log-file = Nastavit soubor protokolu
+about-networking-set-log-modules = Nastavit moduly protokolu
+about-networking-start-logging = Spustit ukládání protokolu
+about-networking-stop-logging = Ukončit ukládání protokolu
+about-networking-dns-domain = Doména:
+about-networking-dns-lookup-table-column = IP adresy
+about-networking-rcwn = Statistiky RCWN
+about-networking-rcwn-status = Stav RCWN
+about-networking-rcwn-cache-won-count = Počet vítězství mezipaměti
+about-networking-rcwn-net-won-count = Počet vítězství sítě
+about-networking-total-network-requests = Celkový počet síťových požadavků
+about-networking-rcwn-operation = Operace s mezipamětí
+about-networking-rcwn-perf-open = Otevření
+about-networking-rcwn-perf-read = Čtení
+about-networking-rcwn-perf-write = Zápis
+about-networking-rcwn-perf-entry-open = Otevření položky
+about-networking-rcwn-avg-short = Krátkodobý průměr
+about-networking-rcwn-avg-long = Dlouhodobý průměr
+about-networking-rcwn-std-dev-long = Dlouhodobá směrodatná odchylka
+about-networking-rcwn-cache-slow = Počet pomalých přístupů do mezipaměti
+about-networking-rcwn-cache-not-slow = Počet rychlých přístupů do mezipaměti
+about-networking-networkid = ID sítě
+about-networking-networkid-id = ID sítě
 
 ## Link is intended as "network link"
 
 networkid-isUp = Spojení je aktivní
 networkid-statusKnown = Stav spojení je známý
+about-networking-networkid-is-up = Spojení je aktivní
+about-networking-networkid-status-known = Stav spojení je známý
 
 ##
 
