@@ -22,6 +22,7 @@ policy-Bookmarks = Creu nodau tudalen yn y bar offer Nodau Tudalen, dewislen Nod
 policy-CaptivePortal = Galluogi neu analluogi'r cymorth porth caeth.
 policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau mewnol.
 policy-Cookies = Caniatáu neu wrthod i wefannau osod cwcis.
+policy-DisabledCiphers = Analluogi seifferau.
 policy-DefaultDownloadDirectory = Gosod y cyfeiriadur llwytho i lawr rhagosodedig.
 policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.
 policy-DisableBuiltinPDFViewer = Analluogi PDF.js, y dangosydd PDF mewnol yn { -brand-short-name }.
