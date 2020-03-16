@@ -15,6 +15,15 @@ auto-refresh = 3 saniyede bir avtotazert
 hostname = Qonaqbayadı
 port = Liman
 http2 = HTTP/2
+about-networking-title = Şebekeleme Aqqında
+about-networking-http = HTTP
+about-networking-sockets = Oyuqlar
+about-networking-dns = DNS
+about-networking-websockets = AğOyuqları
+about-networking-refresh = Tazert
+about-networking-auto-refresh = 3 saniyede bir avtotazert
+about-networking-hostname = Qonaqbayadı
+about-networking-port = Liman
 ssl = SSL
 active = Faal
 idle = Atıl
@@ -57,3 +66,51 @@ rcwn-avg-long = Uzun Ortalama
 rcwn-std-dev-long = Uzun Standart Sapma
 rcwn-cache-slow = Zula yavaş adedi
 rcwn-cache-not-slow = Zula yavaş degil adedi
+about-networking-ssl = SSL
+about-networking-active = Faal
+about-networking-idle = Atıl
+about-networking-host = Qonaqbay
+about-networking-tcp = TCP
+about-networking-sent = Yiberilgen
+about-networking-received = Alınğan
+about-networking-family = Aile
+about-networking-trr = TRR
+about-networking-addresses = Adresler
+about-networking-expires = Eskire (Saniye)
+about-networking-messages-sent = Yiberilgen Mesajlar
+about-networking-messages-received = Alınğan Mesajlar
+about-networking-bytes-sent = Yiberilgen Bayt
+about-networking-bytes-received = Alınğan Bayt
+about-networking-logging = Kütükleme
+about-networking-log-tutorial = Bu aletniñ nasıl qullanılğanı aqqındaki talimatlar içün <a data-l10n-name="logging">HTTP Kütüklemesi</a>'ni körüñiz.
+about-networking-current-log-file = Cari Kütük Dosyesi:
+about-networking-current-log-modules = Cari Kütük Modülleri:
+about-networking-set-log-file = Kütük Dosyesini Tesbit Et
+about-networking-set-log-modules = Kütük Modüllerini Tesbit Et
+about-networking-start-logging = Kütüklemeni Başlat
+about-networking-stop-logging = Kütüklemeni Toqtat
+about-networking-dns-lookup = DNS Baqıberişi
+about-networking-dns-lookup-button = Çez
+about-networking-dns-domain = Saa:
+about-networking-dns-lookup-table-column = IP'ler
+about-networking-rcwn = RCWN İhsaiyatı
+about-networking-rcwn-status = RCWN Statusı
+about-networking-rcwn-cache-won-count = Zula ğalip adedi
+about-networking-rcwn-net-won-count = Safiy ğalip adedi
+about-networking-total-network-requests = Topyekün şebeke istemi adedi
+about-networking-rcwn-operation = Zula Ameliyesi
+about-networking-rcwn-perf-open = Aç
+about-networking-rcwn-perf-read = Oqu
+about-networking-rcwn-perf-write = Yaz
+about-networking-rcwn-perf-entry-open = Kirildi Açıq
+about-networking-rcwn-avg-short = Qısqa Ortalama
+about-networking-rcwn-avg-long = Uzun Ortalama
+about-networking-rcwn-std-dev-long = Uzun Standart Sapma
+about-networking-rcwn-cache-slow = Zula yavaş adedi
+about-networking-rcwn-cache-not-slow = Zula yavaş degil adedi
+
+## Link is intended as "network link"
+
+
+##
+
