@@ -136,6 +136,7 @@
 
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
+<!ENTITY helpMenuWin.label                "Nápověda">
 
 <!ENTITY helpTroubleshootingInfo.label      "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -168,6 +169,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Hlavní nabídka">
+<!ENTITY menubarCmd.accesskey                     "l">
 
 <!ENTITY customizeToolbarContext.label            "Přizpůsobit…">
 <!ENTITY customizeToolbarContext.accesskey        "z">
