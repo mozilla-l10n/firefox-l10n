@@ -95,9 +95,21 @@ about-networking-dns-lookup = DNS تلاش کریں
 about-networking-dns-lookup-button = حل کریں
 about-networking-dns-domain = عمل داری:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = RCWN حالات
+about-networking-rcwn-status = RCWN حالات
+about-networking-rcwn-cache-won-count = کامیاب کیشیں شمارات
+about-networking-rcwn-net-won-count = موجودہ کامیاب شمارات
+about-networking-total-network-requests = تمام نیٹورک درخواست شمارات
+about-networking-rcwn-operation = کیش آپریشن
 about-networking-rcwn-perf-open = کھولیں
 about-networking-rcwn-perf-read = پڑھيں
 about-networking-rcwn-perf-write = لکھیں
+about-networking-rcwn-perf-entry-open = داخلہ کھلا
+about-networking-rcwn-avg-short = مختصر اوسط
+about-networking-rcwn-avg-long = لمبی اوسط
+about-networking-rcwn-std-dev-long = طویل معیاری انحراف
+about-networking-rcwn-cache-slow = کیشیں کی دھیمی شمارات
+about-networking-rcwn-cache-not-slow = کیشیں کی غیر دھیمی شمارات
 
 ## Link is intended as "network link"
 
