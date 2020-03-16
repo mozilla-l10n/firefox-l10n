@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Nowy nadawk napóraś" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Nadawki" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Dokóńcone nadawki pokazaś">
 
 <!ENTITY calendar.today.button.label          "Źinsa">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Wobźělenje">
 <!ENTITY calendar.context.attendance.menu.accesskey             "l">
 <!ENTITY calendar.context.attendance.occurrence.label           "Toś to wustupowanje">
-<!ENTITY calendar.context.attendance.all.label        "Wšykne wustupowanja" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Dopołny rěd">
 <!ENTITY calendar.context.attendance.send.label                 "Něnto powěźeńku pósłaś">
 <!ENTITY calendar.context.attendance.send.accesskey             "N">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Dopomnjeśa pokazaś">
 <!ENTITY calendarproperties.cache3.label                   "Pódpěra offline">
 <!ENTITY calendarproperties.enabled.label                  "Toś ten kalender zašaltowaś">
+<!ENTITY calendarproperties.enabled2.label                 "Toś ten kalendaŕ zmóžniś">
 <!ENTITY calendarproperties.forceDisabled.label            "Póbitowaŕ za toś ten kalender njedajo se namakaś. To se cesto stawa, jolic sćo wěste dodanki znjemóžnił abo wótinstalował.">
 <!ENTITY calendarproperties.unsubscribe.label              "Wótskazaś">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "s">
