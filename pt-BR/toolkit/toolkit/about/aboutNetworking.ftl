@@ -16,6 +16,7 @@ auto-refresh = Atualizar a cada 3 segundos
 hostname = Servidor
 port = Porta
 http2 = HTTP/2
+about-networking-title = Sobre rede
 about-networking-http-version = Versão do HTTP
 ssl = SSL
 active = Ativo
@@ -67,5 +68,5 @@ networkid-id = ID da rede
 networkid-isUp = Link de rede está ativo
 networkid-statusKnown = Status do link de rede é desconhecido
 
-
+##
 
