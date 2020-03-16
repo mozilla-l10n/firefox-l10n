@@ -95,6 +95,7 @@ about-networking-start-logging = 开始记录日志
 about-networking-stop-logging = 停止记录日志
 about-networking-dns-lookup = DNS 查询
 about-networking-dns-lookup-button = 解析
+about-networking-dns-domain = 域名：
 about-networking-dns-lookup-table-column = IP
 about-networking-rcwn = RCWN 统计
 about-networking-rcwn-status = RCWN 状态
