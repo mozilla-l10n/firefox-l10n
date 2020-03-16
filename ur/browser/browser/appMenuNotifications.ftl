@@ -24,6 +24,7 @@ appmenu-update-unsupported =
     .buttonaccesskey = L
     .secondarybuttonlabel = بند کریں
     .secondarybuttonaccesskey = C
+appmenu-update-unsupported-message = آپ کے سسٹم پر { -brand-shorter-name } کا تازہ ترین ورژن تعاون یافتہ نہیں ہے۔
 appmenu-update-restart =
     .label = { -brand-shorter-name } کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں۔
     .buttonlabel = دوبارہ شروع کریں اور بحال کریں

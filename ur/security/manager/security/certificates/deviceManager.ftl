@@ -38,12 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = پی کے سی ایس # 11 ڈیوائس ڈرائیور لوڈ کریں
 load-device-info = ماڈیول کے لئے جو معلومات آپ شامل کرنا چاہتے ہیں، داخل کریں۔
 load-device-modname =
     .value = ماڈیول کا نام
     .accesskey = 	M
 load-device-modname-default =
     .value = نیا PKCS#11 ماڈیول
+load-device-filename =
+    .value = ماڈیول فائل نام
+    .accesskey = 	f
 load-device-browse =
     .label = براؤز کریں…
     .accesskey = B
@@ -83,6 +88,9 @@ devinfo-serialnum =
     .label = سیریل نمبر
 fips-nonempty-password-required = ایف آئی پی ایس موڈ کو مطلوب ہے کہ آپ کے پاس ہر سلامتی آلے کے لیے ایک ماسٹر پاس ورڈ سیٹ ہو۔ ایف آئی پی ایس کو اہل بنانے کی کوشش کرنے سے پہلے پاس ورڈ سیٹ کریں۔
 unable-to-toggle-fips = سلامتی آلات کے لیئے FIPS موڈ کو تبدیل کرنے میں ناکام رہے۔ یہ تجویز کیا جاتا ہے کہ آپ ایبلیکیشن سے خروج کریں اور ایبلیکیشن دوباره شروع کریں۔
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = آلہ کا نام خالی نہیں ہوسکتا ہے۔
 add-module-failure = ماڈیول کا اضافہ میں ناکام
 del-module-warning = کیا آپ واقعی اس سلامتی ماڈیول کو حذف کرنا چاہتے ہیں؟
 del-module-error = ماڈیول حذف کرنے میں ناکام

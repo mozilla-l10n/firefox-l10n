@@ -4,7 +4,7 @@
 
 blocklist-window =
     .title = بلاک فہرستیں
-    .style = width: 55em
+    .style = 	width: 55em
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
