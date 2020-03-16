@@ -9,6 +9,10 @@ dns = DNS
 refresh = Meidote
 hostname = Taɨjɨe ráa mamekɨ
 port = Ígobe
+about-networking-title = Afemakɨ  red íyano
+about-networking-refresh = Meidote
+about-networking-hostname = Taɨjɨe ráa mamekɨ
+about-networking-port = Ígobe
 ssl = SSL
 active = Bónoka
 idle = Dúitaga
@@ -26,3 +30,22 @@ dns-lookup = Jénoka DNS
 dns-lookup-button = Mamérite
 dns-domain = Náamakɨ:
 dns-lookup-table-column = IPs
+about-networking-active = Bónoka
+about-networking-idle = Dúitaga
+about-networking-host = Taɨjɨe ráa
+about-networking-sent = Óreka
+about-networking-received = Já yɨnoga
+about-networking-family = Kómɨnɨrede
+about-networking-addresses = íyano
+about-networking-messages-sent = Óreka úai
+about-networking-messages-received = Já yɨnoga úia
+about-networking-bytes-sent = Óreka Bytes
+about-networking-dns-lookup = Jénoka DNS
+about-networking-dns-lookup-button = Mamérite
+about-networking-dns-domain = Náamakɨ:
+
+## Link is intended as "network link"
+
+
+##
+
