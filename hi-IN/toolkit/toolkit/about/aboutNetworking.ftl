@@ -15,6 +15,14 @@ auto-refresh = हर 3 सेकेंड में स्वतःफ्रे
 hostname = मेजबाननाम
 port = पोर्ट
 http2 = HTTP/2
+about-networking-title = संजालन का परिचय
+about-networking-sockets = सॉकेट
+about-networking-dns = DNS
+about-networking-websockets = वेबसॉकेट
+about-networking-refresh = ताज़ा करें
+about-networking-auto-refresh = हर 3 सेकेंड में स्वतःफ्रेश
+about-networking-hostname = मेजबाननाम
+about-networking-port = पोर्ट
 about-networking-http-version = HTTP संस्करण
 ssl = SSL
 active = सक्रिय
@@ -60,6 +68,19 @@ rcwn-cache-slow = कैश सुस्ती गणना
 rcwn-cache-not-slow = कैश असुस्ती गणना
 networkid = नेटवर्क आईडी
 networkid-id = नेटवर्क आईडी
+about-networking-ssl = SSL
+about-networking-idle = निष्क्रिय
+about-networking-host = मेजबान
+about-networking-tcp = TCP
+about-networking-sent = भेजें
+about-networking-received = हस्तगत
+about-networking-family = परिवार
+about-networking-addresses = पता
+about-networking-expires = समय समाप्त (सेकेंड)
+about-networking-messages-sent = संदेश प्रेषित
+about-networking-messages-received = संदेश प्राप्त
+about-networking-bytes-sent = बाइट्स भेजा
+about-networking-bytes-received = बाइट्स हस्तगत
 
 ## Link is intended as "network link"
 
