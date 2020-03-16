@@ -15,6 +15,7 @@ auto-refresh = Har 3 soniyada avtoyangilash
 hostname = Host nomi
 port = Port:
 about-networking-title = Tarmoq haqida
+about-networking-http = HTTP
 about-networking-sockets = Soketlar
 about-networking-dns = DNS
 about-networking-websockets = Vebsoketlar
@@ -54,6 +55,10 @@ about-networking-messages-sent = Xabar joʻnatildi
 about-networking-messages-received = Xabarlar qabul qilindi
 about-networking-bytes-sent = Joʻnatilgan baytlar
 about-networking-bytes-received = Qabul qilingan baytlar
+about-networking-dns-lookup = DNS topish
+about-networking-dns-lookup-button = Hal qilish
+about-networking-dns-domain = Domen:
+about-networking-dns-lookup-table-column = IP manzillar
 
 ## Link is intended as "network link"
 
