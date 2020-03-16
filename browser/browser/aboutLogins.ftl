@@ -91,6 +91,15 @@ login-item-save-changes-button = שמירת שינויים
 login-item-save-new-button = שמירה
 login-item-cancel-button = ביטול
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+
 ## Master Password notification
 
 master-password-notification-message = נא להכניס את הססמה הראשית שלך כדי לצפות בכניסות וססמאות.
