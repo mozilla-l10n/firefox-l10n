@@ -16,6 +16,15 @@ auto-refresh = Auto-oppdater hvert 3. sekund
 hostname = Vertsnavn
 port = Port
 http2 = HTTP/2
+about-networking-title = Om nettverk
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Oppdater
+about-networking-auto-refresh = Auto-oppdater hvert 3. sekund
+about-networking-hostname = Vertsnavn
+about-networking-port = Port
 about-networking-http-version = HTTP-versjon
 ssl = SSL
 active = Aktiv
@@ -61,11 +70,29 @@ rcwn-cache-slow = Antall langsom cache
 rcwn-cache-not-slow = Antall ikke-langsom cache
 networkid = Nettverks-ID
 networkid-id = Nettverks-ID
+about-networking-ssl = SSL
+about-networking-active = Aktiv
+about-networking-idle = Uvirksom
+about-networking-host = Vert
+about-networking-tcp = TCP
+about-networking-sent = Sendt
+about-networking-received = Mottatt
+about-networking-family = Family
+about-networking-addresses = Adresser
+about-networking-expires = Utgår (sekunder)
+about-networking-messages-sent = Meldinger sendt
+about-networking-messages-received = Meldinger mottatt
+about-networking-bytes-sent = Bytes sendt
+about-networking-bytes-received = Bytes mottatt
+about-networking-dns-lookup = DNS-oppslag
+about-networking-dns-lookup-button = Slå opp
+about-networking-dns-domain = Domene:
+about-networking-dns-lookup-table-column = IP-er
 
 ## Link is intended as "network link"
 
 networkid-isUp = Nettverkstilkoblingen er oppe
 networkid-statusKnown = Nettverkstilkoblingstatus er kjent
 
-
+##
 
