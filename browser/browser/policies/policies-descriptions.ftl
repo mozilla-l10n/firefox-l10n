@@ -22,6 +22,7 @@ policy-Bookmarks = Blêdwizers meitsje yn de Blêdwizerakbalke, it menu Blêdwiz
 policy-CaptivePortal = Stipe foar hotspot-oanmeldingsside ynskeakelje of útskeakelje.
 policy-CertificatesDescription = Sertifikaten tafoegje of ynboude sertifikaten brûke.
 policy-Cookies = Tastean of wegerje dat websites cookies ynstelle.
+policy-DisabledCiphers = Kodearringssuites útskeakelje.
 policy-DefaultDownloadDirectory = Standert downloadmap ynstellen
 policy-DisableAppUpdate = Foarkomme dat de browser fernijd wurdt.
 policy-DisableBuiltinPDFViewer = PDF.js útskeakelje, de ynboude PDF-viewer yn { -brand-short-name }.
