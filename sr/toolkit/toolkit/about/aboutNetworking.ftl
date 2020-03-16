@@ -15,6 +15,14 @@ auto-refresh = Аутоматски освежи сваке 3 секунде
 hostname = Име сервера
 port = Порт
 http2 = HTTP/2
+about-networking-title = О умрежавању
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Освежи
+about-networking-auto-refresh = Аутоматски освежи сваке 3 секунде
+about-networking-hostname = Име сервера
+about-networking-port = Порт
 ssl = SSL
 active = Активно
 idle = Чекање
@@ -59,11 +67,25 @@ rcwn-cache-slow = Број успореног кеша
 rcwn-cache-not-slow = Брз неуспореног кеша
 networkid = ИБ мреже
 networkid-id = ИБ мреже
+about-networking-ssl = SSL
+about-networking-active = Активно
+about-networking-idle = Чекање
+about-networking-host = Хост
+about-networking-tcp = TCP
+about-networking-sent = Послато
+about-networking-received = Примљено
+about-networking-family = Породица
+about-networking-addresses = Адресе
+about-networking-expires = Истиче (секунде)
+about-networking-messages-sent = Поруке послате
+about-networking-messages-received = Поруке примљене
+about-networking-bytes-sent = Бајтова послато
+about-networking-bytes-received = Бајтова примљено
 
 ## Link is intended as "network link"
 
 networkid-isUp = Веза је успостављена
 networkid-statusKnown = Стање везе непознато
 
-
+##
 
