@@ -82,6 +82,7 @@ about-networking-messages-received = सन्देश प्राप्त �
 about-networking-bytes-sent = Bytes पठाइयो
 about-networking-bytes-received = Bytes प्राप्त भयो
 about-networking-logging = लगिङ
+about-networking-log-tutorial = साधनहरू कसरी प्रयोग गर्ने भन्ने निर्देशन <a data-l10n-name="logging">HTTP Logging</a> मा हेर्नुहोस्।
 about-networking-current-log-file = हालको लगको भागहरू:
 about-networking-current-log-modules = वर्तमान लग मोड्युलहरू:
 about-networking-set-log-file = लग फाइल मिलाउनुहोस्
