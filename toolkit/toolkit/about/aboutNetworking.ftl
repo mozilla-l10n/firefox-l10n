@@ -20,6 +20,7 @@ about-networking-title = Tentang Jaringan
 about-networking-http = HTTP
 about-networking-sockets = Soket
 about-networking-dns = DNS
+about-networking-dns-suffix = Akhiran DNS
 about-networking-websockets = WebSocket
 about-networking-refresh = Segarkan
 about-networking-auto-refresh = Segarkan otomatis tiap 3 detik
@@ -84,15 +85,20 @@ about-networking-messages-sent = Pesan Terkirim
 about-networking-messages-received = Pesan Diterima
 about-networking-bytes-sent = Byte Dikirim
 about-networking-bytes-received = Byte Diterima
+about-networking-log-tutorial = Lihat <a data-l10n-name="logging">Pencatatan HTTP</a> untuk instruksi menggunakan alat ini.
 about-networking-dns-lookup = Pencarian DNS
 about-networking-dns-lookup-button = Selesaikan
 about-networking-dns-domain = Domain:
 about-networking-dns-lookup-table-column = IP
+about-networking-networkid = ID jaringan
+about-networking-networkid-id = ID jaringan
 
 ## Link is intended as "network link"
 
 networkid-isUp = Sambungan nyala
 networkid-statusKnown = Status sambungan diketahui
+about-networking-networkid-is-up = Sambungan nyala
+about-networking-networkid-status-known = Status sambungan diketahui
 
 ##
 
