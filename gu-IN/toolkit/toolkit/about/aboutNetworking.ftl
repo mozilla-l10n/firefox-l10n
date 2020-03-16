@@ -15,6 +15,14 @@ auto-refresh = દર ૩ સેકન્ડો સ્વયં પુનઃત�
 hostname = યજમાનનામ
 port = પોર્ટ
 http2 = HTTP/2
+about-networking-title = નેટવર્કીંગ વિશે
+about-networking-sockets = સૉકેટ
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = પુનઃતાજું કરો
+about-networking-auto-refresh = દર ૩ સેકન્ડો સ્વયં પુનઃતાજું કરો
+about-networking-hostname = યજમાનનામ
+about-networking-port = પોર્ટ
 ssl = SSL
 active = સક્રિય
 idle = ફાજલ
@@ -57,3 +65,23 @@ rcwn-avg-long = લાંબુ સરેરાશ
 rcwn-std-dev-long = લાંબા ધોરણ વિચલન
 rcwn-cache-slow = કેશ ધીમી ગણતરી
 rcwn-cache-not-slow = કેશની ધીમી ગણતરી નથી
+about-networking-ssl = SSL
+about-networking-active = સક્રિય
+about-networking-idle = ફાજલ
+about-networking-host = યજમાન
+about-networking-tcp = TCP
+about-networking-sent = મોકલાયો
+about-networking-received = મેળવાયો
+about-networking-family = પરિવાર
+about-networking-addresses = સરનામાઓ
+about-networking-expires = નિવૃત્ત થાય છે (સેકન્ડો)
+about-networking-messages-sent = સંદેશાઓ મોકલાયા
+about-networking-messages-received = સંદેશાઓ મેળવાયા
+about-networking-bytes-sent = બાઇટ્સ મોકલાયા
+about-networking-bytes-received = બાઇટ્સ મેળવાયા
+
+## Link is intended as "network link"
+
+
+##
+
