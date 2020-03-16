@@ -16,6 +16,11 @@ auto-refresh = Tutzolij rupaläj pa ruyonil pa jujun 3 xil ch'utiramaj
 hostname = Rub'i' ruk'u'x samaj
 port = B'ey
 http2 = HTTP/2
+about-networking-title = Chi rij ri rokisaxik ri b'ey
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-hostname = Rub'i' ruk'u'x samaj
+about-networking-port = B'ey
 about-networking-http-version = HTTP Ruwäch
 ssl = SSL
 active = Tzijïl
@@ -61,11 +66,25 @@ rcwn-cache-slow = Eqal rutaqoya'l jumejyak
 rcwn-cache-not-slow = Man Eqal ta rutaqoya'l jumejyak
 networkid = K'amab'ey ID
 networkid-id = K'amab'ey ID
+about-networking-ssl = SSL
+about-networking-active = Tzijïl
+about-networking-idle = Man tzijïl ta
+about-networking-host = Ruk'u'x Samaj
+about-networking-tcp = TCP
+about-networking-sent = Titaq
+about-networking-received = K'ulun
+about-networking-family = Ach'alalri'ïl
+about-networking-addresses = Ochochib'äl
+about-networking-expires = Nik'is (Taq xil ch'utiramaj)
+about-networking-messages-sent = Taq rutzijol etaqon
+about-networking-messages-received = Taq rutzijol ek'ulun
+about-networking-bytes-sent = Taq wayt etaqon
+about-networking-bytes-received = Taq wayt ek'ulun
 
 ## Link is intended as "network link"
 
 networkid-isUp = Tzijïl Ximonel
 networkid-statusKnown = Ri rub'anikil ruximonel etaman ruwäch
 
-
+##
 
