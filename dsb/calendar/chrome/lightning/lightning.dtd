@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "c">
 <!ENTITY lightning.menupopup.open.message.label       "Skłaźona powěsć…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "w">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderowa dataja…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Z kalendera wulašowaś">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Drobnostki…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Drobnostki tšojenja pokazaś">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Toś te powěźeńki njepokazaś">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalendaŕ">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Ku kalenderowemu rejtarkoju">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Wěcej">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klikniśo, aby dalšne nastajenja pokazał">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Znowego wobkšuśiś">
