@@ -15,6 +15,7 @@ auto-refresh = Yenza ntsha ngokuzenzekelayo qho kwimizuzwana emi-3
 hostname = Igama lomamkeli
 port = Isiqhagamshelisi
 about-networking-title = Malunga nokunethwekha
+about-networking-http = HTTP
 about-networking-sockets = Iisokethi
 about-networking-dns = I-DNS
 about-networking-websockets = IiSokethi ZeWebhu
@@ -62,6 +63,18 @@ about-networking-messages-sent = Umyalezo Uthunyelwe
 about-networking-messages-received = Umyalezo Ufunyenwe
 about-networking-bytes-sent = IiByte Zithunyelwe
 about-networking-bytes-received = IiByte Zifunyenwe
+about-networking-logging = Iyaloga
+about-networking-log-tutorial = Jonga i-<a data-l10n-name="logging">HTTP Logging</a> ukuze ufumane imiyalelo ngendlela yokusebenzisa esi sixhobo.
+about-networking-current-log-file = Ifayile yaNgoku yokuLoga:
+about-networking-current-log-modules = Iimodyuli zaNgoku zokuLoga:
+about-networking-set-log-file = Seta iFayile yokuLoga
+about-networking-set-log-modules = Seta iiModyuli zokuLoga
+about-networking-start-logging = Qalisa ukuLoga
+about-networking-stop-logging = Yeka ukuLoga
+about-networking-dns-lookup = Ukhangelo LweDNS
+about-networking-dns-lookup-button = Combulula
+about-networking-dns-domain = Idomeyini:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
