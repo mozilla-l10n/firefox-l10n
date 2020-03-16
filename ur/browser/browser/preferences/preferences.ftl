@@ -472,6 +472,7 @@ search-bar-shown =
     .label = سرچ بار کا ٹولبار مے ا ضافہ کریں۔
 search-engine-default-header = طےشدہ تلاش انجن
 search-engine-default-desc = پتے کی بار اور تلاش بار میں استعمال کرنے کیلئے طے شدہ تلاش انجن منتخب کریں۔
+search-engine-default-private-desc-2 = نجی ونڈوں کے لیئے مختلف'طے شدہ تلاش انجن منتخب کریں
 search-separate-default-engine =
     .label = اس تلاش انجن کو نجی ونڈوز میں استعمال کریں
     .accesskey = U

@@ -113,6 +113,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = ہاں ، سائٹ کے ڈیٹا اور کوکاں  { $value }{ $unit }
 security-site-data-only = ہاں ، سائٹ کے ڈیٹا کی { $value }{ $unit }
 security-site-data-cookies-only = ہاں، کوکیز
 security-site-data-no = نہیں
