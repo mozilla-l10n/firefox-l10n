@@ -16,6 +16,9 @@ auto-refresh = Reîmprospătează automat la fiecare 3 secunde
 hostname = Numele gazdei
 port = Port
 http2 = HTTP/2
+about-networking-title = Despre rețea
+about-networking-auto-refresh = Reîmprospătează automat la fiecare 3 secunde
+about-networking-hostname = Numele gazdei
 about-networking-http-version = Versiune HTTP
 ssl = SSL
 active = Activ(ă)
@@ -61,6 +64,32 @@ rcwn-cache-slow = De câte ori memoria cache este lentă
 rcwn-cache-not-slow = De câte ori memoria cache nu este lentă
 networkid = ID rețea
 networkid-id = ID rețea
+about-networking-active = Activ(ă)
+about-networking-idle = Inactiv(ă)
+about-networking-host = Gazdă
+about-networking-family = Familie
+about-networking-trr = TRR
+about-networking-expires = Expiră (secunde)
+about-networking-logging = Înregistrare în jurnal
+about-networking-log-tutorial = Vezi <a data-l10n-name="logging">înregistrarea în jurnal pentru HTTP</a> în ceea ce privește instrucțiunile de folosire a acestui instrument.
+about-networking-current-log-file = Fișierul actual pentru jurnal:
+about-networking-current-log-modules = Modulele actuale de înregistrare în jurnal:
+about-networking-set-log-file = Setează fișierul pentru jurnalizare
+about-networking-set-log-modules = Setează modulele de înregistrare în jurnal
+about-networking-start-logging = Pornește înregistrarea în jurnal
+about-networking-stop-logging = Oprește înregistrarea în jurnal
+about-networking-dns-lookup = Analizare DNS
+about-networking-rcwn = Statistici RCWN
+about-networking-rcwn-status = Stare RCWN
+about-networking-rcwn-cache-won-count = Număr de victorii ale memoriei cache
+about-networking-rcwn-net-won-count = Număr de victorii ale rețelei
+about-networking-total-network-requests = Număr total de solicitări de rețea
+about-networking-rcwn-operation = Operațiunea memoriei cache
+about-networking-rcwn-avg-short = Medie mică
+about-networking-rcwn-avg-long = Medie lungă
+about-networking-rcwn-std-dev-long = Deviație standard lungă
+about-networking-rcwn-cache-slow = De câte ori memoria cache este lentă
+about-networking-rcwn-cache-not-slow = De câte ori memoria cache nu este lentă
 
 ## Link is intended as "network link"
 
