@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = Nūsyuteits
 about-networking-received = Sajimts
 about-networking-family = Saime
+about-networking-trr = TRR
 about-networking-addresses = Adresi
 about-networking-expires = Nūilgums (sekundes)
 about-networking-messages-sent = Nūsyuteitī ziņuojumi
