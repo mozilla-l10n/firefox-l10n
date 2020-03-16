@@ -78,16 +78,38 @@ about-networking-tcp = TCP
 about-networking-sent = Enviado
 about-networking-received = Recibido
 about-networking-family = Familia
+about-networking-trr = TRR
 about-networking-addresses = Direcciones
 about-networking-expires = Expira (Segundos)
 about-networking-messages-sent = Mensajes enviados
 about-networking-messages-received = Mensajes recibidos
 about-networking-bytes-sent = Bytes enviados
 about-networking-bytes-received = Bytes recibidos
+about-networking-logging = Registro
+about-networking-log-tutorial = Vea <a data-l10n-name="logging">HTTP Logging</a> para más instrucciones sobre como usar esta herramienta.
+about-networking-current-log-file = Archivo de registro actual:
+about-networking-current-log-modules = Módulos de registro actuales:
+about-networking-set-log-file = Establecer archivo de registro
+about-networking-set-log-modules = Establecer módulos de registro
+about-networking-start-logging = Iniciar registro
+about-networking-stop-logging = Detener registro
 about-networking-dns-lookup = Búsqueda DNS
 about-networking-dns-lookup-button = Resolución
 about-networking-dns-domain = Dominio:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = Estadísticas RCWN
+about-networking-rcwn-status = Estado RCWN
+about-networking-total-network-requests = Cantidad de pedidos de red
+about-networking-rcwn-operation = Operación de cache
+about-networking-rcwn-perf-open = Abierto
+about-networking-rcwn-perf-read = Leído
+about-networking-rcwn-perf-write = Escrito
+about-networking-rcwn-perf-entry-open = Entrada abierta
+about-networking-rcwn-avg-short = Promedio corto
+about-networking-rcwn-avg-long = Promedio largo
+about-networking-rcwn-std-dev-long = Desviación estándar larga
+about-networking-rcwn-cache-slow = Cuenta lenta de caché
+about-networking-rcwn-cache-not-slow = Cuenta de caché no lenta
 
 ## Link is intended as "network link"
 
