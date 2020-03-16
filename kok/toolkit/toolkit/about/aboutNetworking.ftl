@@ -13,6 +13,14 @@ refresh = रिफ्रेश
 auto-refresh = दरेक 3 सेकंदानी आसशीच रिफ्रेश करात
 hostname = येजमाननाव
 port = पोर्ट
+about-networking-title = नेटवर्किंगाविशीं
+about-networking-sockets = सॉकेट्स
+about-networking-dns = DNS
+about-networking-websockets = वेबसॉकेट्स
+about-networking-refresh = रिफ्रेश
+about-networking-auto-refresh = दरेक 3 सेकंदानी आसशीच रिफ्रेश करात
+about-networking-hostname = येजमाननाव
+about-networking-port = पोर्ट
 ssl = SSL
 active = सक्रिय
 idle = रिकमो
@@ -27,3 +35,22 @@ messages-sent = संदेश धाडले
 messages-received = संदेश मेळले
 bytes-sent = बायट्स धाडल्या
 bytes-received = बायट्स मेळिले
+about-networking-ssl = SSL
+about-networking-active = सक्रिय
+about-networking-idle = रिकमो
+about-networking-host = येजमान
+about-networking-tcp = TCP
+about-networking-sent = धाडला
+about-networking-received = मेळिले
+about-networking-addresses = नामे
+about-networking-expires = सोपला (सेकंद)
+about-networking-messages-sent = संदेश धाडले
+about-networking-messages-received = संदेश मेळले
+about-networking-bytes-sent = बायट्स धाडल्या
+about-networking-bytes-received = बायट्स मेळिले
+
+## Link is intended as "network link"
+
+
+##
+
