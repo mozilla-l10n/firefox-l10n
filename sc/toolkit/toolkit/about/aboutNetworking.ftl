@@ -5,5 +5,15 @@
 ok = Andat Bene
 hostname = Nùmene òspite
 port = Ghenna
+about-networking-hostname = Nùmene òspite
+about-networking-port = Ghenna
 sent = Imbiadu
 received = Retzidu
+about-networking-sent = Imbiadu
+about-networking-received = Retzidu
+
+## Link is intended as "network link"
+
+
+##
+
