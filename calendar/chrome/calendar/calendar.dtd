@@ -10,9 +10,10 @@
 <!ENTITY calendar.newtask.button.tooltip          "Een nieuwe taak maken" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Taken" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Voltooide taken tonen">
 
-<!ENTITY calendar.today.button.label       "Vandaag">
+<!ENTITY calendar.today.button.label          "Vandaag">
 <!ENTITY calendar.tomorrow.button.label       "Morgen">
 <!ENTITY calendar.upcoming.button.label       "Aanstaand">
 
@@ -301,15 +302,15 @@
 <!ENTITY calendar.context.showall.label                "Alle agenda’s tonen">
 <!ENTITY calendar.context.showall.accesskey            "A">
 
-<!ENTITY calendar.context.convertmenu.label               "Converteren naar">
-<!ENTITY calendar.context.convertmenu.accesskey.mail      "n">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar  "C">
-<!ENTITY calendar.context.convertmenu.event.label         "Gebeurtenis…">
-<!ENTITY calendar.context.convertmenu.event.accesskey     "G">
-<!ENTITY calendar.context.convertmenu.message.label       "Bericht…">
-<!ENTITY calendar.context.convertmenu.message.accesskey   "B">
-<!ENTITY calendar.context.convertmenu.task.label          "Taak…">
-<!ENTITY calendar.context.convertmenu.task.accesskey      "T">
+<!ENTITY calendar.context.convertmenu.label              "Converteren naar">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "C">
+<!ENTITY calendar.context.convertmenu.event.label        "Gebeurtenis…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "G">
+<!ENTITY calendar.context.convertmenu.message.label      "Bericht…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "B">
+<!ENTITY calendar.context.convertmenu.task.label         "Taak…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Minimaand">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "m">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Herinneringen tonen">
 <!ENTITY calendarproperties.cache3.label                   "Offlineondersteuning">
 <!ENTITY calendarproperties.enabled.label                  "Deze agenda inschakelen">
+<!ENTITY calendarproperties.enabled2.label                 "Deze agenda inschakelen">
 <!ENTITY calendarproperties.forceDisabled.label            "De provider voor deze agenda kon niet worden gevonden. Dit gebeurt vaak als u bepaalde add-ons hebt uitgeschakeld of gede-installeerd.">
 <!ENTITY calendarproperties.unsubscribe.label              "Afmelden">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "A">
