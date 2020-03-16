@@ -16,6 +16,14 @@ auto-refresh = Berritu automatikoki 3 segundoro
 hostname = Ostalari-izena
 port = Ataka
 http2 = HTTP/2
+about-networking-title = Sareari buruz
+about-networking-sockets = Socketak
+about-networking-dns = DNS
+about-networking-websockets = WebSocketak
+about-networking-refresh = Berritu
+about-networking-auto-refresh = Berritu automatikoki 3 segundoro
+about-networking-hostname = Ostalari-izena
+about-networking-port = Ataka
 about-networking-http-version = HTTP bertsioa
 ssl = SSL
 active = Aktibo
@@ -61,11 +69,25 @@ rcwn-cache-slow = Cache motel kopurua
 rcwn-cache-not-slow = Cache ez motel kopurua
 networkid = Sarearen IDa
 networkid-id = Sarearen IDa
+about-networking-ssl = SSL
+about-networking-active = Aktibo
+about-networking-idle = Inaktibo
+about-networking-host = Ostalaria
+about-networking-tcp = TCP
+about-networking-sent = Bidalitakoak
+about-networking-received = Jasotakoak
+about-networking-family = Familia
+about-networking-addresses = Helbideak
+about-networking-expires = Iraungitzea (segundoak)
+about-networking-messages-sent = Bidalitako mezuak
+about-networking-messages-received = Jasotako mezuak
+about-networking-bytes-sent = Bidalitako byteak
+about-networking-bytes-received = Jasotako byteak
 
 ## Link is intended as "network link"
 
 networkid-isUp = Konexioa aktibatuta dago
 networkid-statusKnown = Konexioaren egoera ezaguna da
 
-
+##
 
