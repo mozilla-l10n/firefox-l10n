@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = ইয়াৰ বাবে আপোনাৰ ৱাৰেন্টি নোহোৱা হব পাৰে!
 config-about-warning-text = এই উন্নত সংহতিসমূহ সলনি কৰাটো স্থিৰতা,সুৰক্ষা আৰু এই এপ্লিকেচনৰ কাৰ্য্যক্ষমতাৰ কাৰণে ক্ষতিকৰ হ'ব পাৰে। আপুনি যি কৰি আছে তাৰ বিষয়ে সুনিশ্চিত হৈ আগবাঢ়িব।
+config-about-warning-button =
+    .label = মই বিপদ গ্ৰহণ কৰিছোঁ
 config-about-warning-checkbox =
     .label = পিছৰ বাৰ এই সকিয়নি দেখুৱাব
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = বুলিয়েন
     .accesskey = B
 config-default = অবিকল্পিত
+config-modified = সংশোধিত
 config-locked = বন্ধ কৰা আছে
 config-property-string = স্ট্ৰিং
 config-property-int = পূৰ্ণ সংখ্যা
