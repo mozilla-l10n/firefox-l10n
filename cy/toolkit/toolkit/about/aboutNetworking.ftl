@@ -16,6 +16,14 @@ auto-refresh = Adnewyddu pob 3 eiliad
 hostname = Enw Gwesteiwr
 port = Porth
 http2 = HTTP/2
+about-networking-title = Ynghylch Rhwydweithio
+about-networking-sockets = Socedi
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Adnewyddu
+about-networking-auto-refresh = Adnewyddu pob 3 eiliad
+about-networking-hostname = Enw Gwesteiwr
+about-networking-port = Porth
 about-networking-http-version = Fersiwn HTTP
 ssl = SSL
 active = Gweithredol
@@ -61,11 +69,25 @@ rcwn-cache-slow = Cyfrif araf storfa dros dro
 rcwn-cache-not-slow = Cyfrif nid araf storfa dros dro
 networkid = ID Rhwydwaith
 networkid-id = ID Rhwydwaith
+about-networking-ssl = SSL
+about-networking-active = Gweithredol
+about-networking-idle = Segur
+about-networking-host = Gwesteiwr
+about-networking-tcp = TCP
+about-networking-sent = Anfonwyd
+about-networking-received = Derbyniwyd
+about-networking-family = Teulu
+about-networking-addresses = Cyfeiriad
+about-networking-expires = Daw i ben (Eiliadau)
+about-networking-messages-sent = Negeseuon Anfonwyd
+about-networking-messages-received = Negeseuon Derbyniwyd
+about-networking-bytes-sent = Didau Wedi'u Hanfon
+about-networking-bytes-received = Didau Wedi'u Derbyn
 
 ## Link is intended as "network link"
 
 networkid-isUp = Mae'r cyswllt ar i fyny
 networkid-statusKnown = Mae statws y cyswllt yn hysbys
 
-
+##
 
