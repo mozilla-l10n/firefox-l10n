@@ -94,6 +94,21 @@ about-networking-dns-lookup = DNS ਖੋਜ
 about-networking-dns-lookup-button = ਹੱਲ਼
 about-networking-dns-domain = ਡੋਮੇਨ:
 about-networking-dns-lookup-table-column = IP
+about-networking-rcwn = RCWN ਅੰਕੜੇ
+about-networking-rcwn-status = RCWN ਹਾਲਤ
+about-networking-rcwn-cache-won-count = ਕੈਸ਼ ਨੇ ਗਿਣਤੀ ਜਿੱਤੀ
+about-networking-rcwn-net-won-count = ਨੈੱਟ ਨੇ ਗਿਣਤੀ ਜਿੱਤੀ
+about-networking-total-network-requests = ਕੁੱਲ ਨੈੱਟਵਰਕ ਬੇਨਤੀ ਦੀ ਗਿਣਤੀ
+about-networking-rcwn-operation = ਕੈਸ਼ ਕਾਰਵਾਈਆਂ
+about-networking-rcwn-perf-open = ਖੋਲ੍ਹੋ
+about-networking-rcwn-perf-read = ਪੜ੍ਹਨ
+about-networking-rcwn-perf-write = ਲਿਖੋ
+about-networking-rcwn-perf-entry-open = ਐਂਟਰੀ ਖੋਲ੍ਹੋ
+about-networking-rcwn-avg-short = ਛੋਟੀ ਔਸਤ
+about-networking-rcwn-avg-long = ਵੱਡੀ ਔਸਤ
+about-networking-rcwn-std-dev-long = ਲੰਮੀ ਸਟੈਂਡਰਡ ਡੇਵੀਏਸ਼ਨ
+about-networking-rcwn-cache-slow = ਕੈਸ਼ ਹੌਲੀ ਗਿਣਤੀ
+about-networking-rcwn-cache-not-slow = ਕੈਸ਼ਨ ਹੌਲੀ ਨਹੀਂ ਗਿਣਤੀ
 
 ## Link is intended as "network link"
 
