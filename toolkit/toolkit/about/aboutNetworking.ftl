@@ -20,6 +20,7 @@ about-networking-title = 关于网络连接
 about-networking-http = HTTP
 about-networking-sockets = 套接字
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS 后缀
 about-networking-websockets = WebSocket
 about-networking-refresh = 刷新
 about-networking-auto-refresh = 每3秒自动刷新一次
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = 长操作平均
 about-networking-rcwn-std-dev-long = 长操作标准差
 about-networking-rcwn-cache-slow = 缓存较慢次数
 about-networking-rcwn-cache-not-slow = 缓存非慢次数
+about-networking-networkid = 网络 ID
+about-networking-networkid-id = 网络 ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = 网络已连接
 networkid-statusKnown = 已知网络连接状态
+about-networking-networkid-is-up = 网络已连接
+about-networking-networkid-status-known = 已知网络连接状态
 
 ##
 
