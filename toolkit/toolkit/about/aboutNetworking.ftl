@@ -15,6 +15,14 @@ auto-refresh = প্রতি ৩ সেকেন্ড এ স্বয়ংক�
 hostname = হোস্টনেম
 port = পোর্ট
 http2 = HTTP/2
+about-networking-title = নেটওয়ার্কিং সম্পর্কিত
+about-networking-sockets = সকেট
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = রিফ্রেশ
+about-networking-auto-refresh = প্রতি ৩ সেকেন্ড এ স্বয়ংক্রিয়ভাবে রিফ্রেশ করুন
+about-networking-hostname = হোস্টনেম
+about-networking-port = পোর্ট
 ssl = SSL
 active = সক্রিয়
 idle = নিষ্ক্রিয়
@@ -57,3 +65,23 @@ rcwn-avg-long = দীর্ঘ গড়
 rcwn-std-dev-long = লং স্ট্যান্ডার্ড ডেভিয়েশন
 rcwn-cache-slow = ক্যাশ স্লো গণনা
 rcwn-cache-not-slow = ক্যাশ স্লো করছে না গণনা
+about-networking-ssl = SSL
+about-networking-active = সক্রিয়
+about-networking-idle = নিষ্ক্রিয়
+about-networking-host = হোস্ট
+about-networking-tcp = TCP
+about-networking-sent = প্রেরিত
+about-networking-received = গৃহীত
+about-networking-family = সংকলন
+about-networking-addresses = ঠিকানাগুলি
+about-networking-expires = মেয়াদপূর্তী (সেকেন্ড)
+about-networking-messages-sent = বার্তা প্রেরিত হয়েছে
+about-networking-messages-received = বার্তা গৃহীত হয়েছে
+about-networking-bytes-sent = প্রেরিত বাইট
+about-networking-bytes-received = প্রাপ্ত বাইট
+
+## Link is intended as "network link"
+
+
+##
+
