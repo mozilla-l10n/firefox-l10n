@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Mondopyre
 about-networking-received = Japyhypyre
 about-networking-family = Pehẽngue
+about-networking-trr = TRR
 about-networking-addresses = Kundaharape
 about-networking-expires = Paha (aravo'ive)
 about-networking-messages-sent = Marandu mondopyre
