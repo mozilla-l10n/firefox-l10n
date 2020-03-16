@@ -97,6 +97,15 @@ login-item-time-changed = Ruk'isib'äl jaloj: { DATETIME($timeChanged, day: "num
 login-item-time-created = Xtz'uk: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ruk'isib'äl rokisaxik: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+
 ## Master Password notification
 
 master-password-notification-message = Tatz'ib'aj ri ajtij ewan atzij richin ye'atz'ët ri rutikirib'al taq amolojri'ïl & ri ewan taq tzij

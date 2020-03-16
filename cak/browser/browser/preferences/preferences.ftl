@@ -782,6 +782,15 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun nimaläj ewan tzij, ri man kowöl ta.
 forms-master-pw-fips-desc = Sachoj toq nijal ri ewan tzij
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Titz'uk jun Nimaläj Ewan Tzij
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Natab'äl
