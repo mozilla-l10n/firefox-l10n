@@ -17,6 +17,7 @@ hostname = Enw Gwesteiwr
 port = Porth
 http2 = HTTP/2
 about-networking-title = Ynghylch Rhwydweithio
+about-networking-http = HTTP
 about-networking-sockets = Socedi
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -83,6 +84,18 @@ about-networking-messages-sent = Negeseuon Anfonwyd
 about-networking-messages-received = Negeseuon Derbyniwyd
 about-networking-bytes-sent = Didau Wedi'u Hanfon
 about-networking-bytes-received = Didau Wedi'u Derbyn
+about-networking-logging = Cofnodi
+about-networking-log-tutorial = Gw <a data-l10n-name="logging">HTTP Logging</a> am wybodaeth ar sut i ddefnyddio'r teclyn hwn.
+about-networking-current-log-file = Ffeil Cofnodi Cyfredol:
+about-networking-current-log-modules = Modiwlau Cofnodi Cyfredol:
+about-networking-set-log-file = Gosod Ffeil Cofnodi
+about-networking-set-log-modules = Gosod Modiwlau Cofnodi
+about-networking-start-logging = Cychwyn Cofnodi
+about-networking-stop-logging = Peidio Cofnodi
+about-networking-dns-lookup = Chwilio DNS
+about-networking-dns-lookup-button = Datrys
+about-networking-dns-domain = Parth:
+about-networking-dns-lookup-table-column = IPau
 
 ## Link is intended as "network link"
 
