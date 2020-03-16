@@ -17,6 +17,7 @@ hostname = 호스트명
 port = 포트
 http2 = HTTP/2
 about-networking-title = 네트워크 정보
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -73,6 +74,10 @@ about-networking-tcp = TCP
 about-networking-family = 계통
 about-networking-addresses = 주소
 about-networking-expires = 만료(초)
+about-networking-dns-lookup = DNS 조회
+about-networking-dns-lookup-button = 조회
+about-networking-dns-domain = 도메인:
+about-networking-dns-lookup-table-column = IP
 
 ## Link is intended as "network link"
 
