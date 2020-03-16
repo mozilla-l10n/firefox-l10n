@@ -17,6 +17,7 @@ hostname = Ime gostitelja
 port = Vrata
 http2 = HTTP/2
 about-networking-title = O omrežjih
+about-networking-http = HTTP
 about-networking-sockets = Vtičnice
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -81,7 +82,18 @@ about-networking-addresses = Naslovi
 about-networking-expires = Poteče (sekunde)
 about-networking-messages-sent = Poslano sporočil
 about-networking-messages-received = Prejeto sporočil
+about-networking-bytes-sent = Poslano bajtov
 about-networking-bytes-received = Prejeto bajtov
+about-networking-logging = Beleženje
+about-networking-log-tutorial = Za navodila o uporabi tega orodja si oglejte <a data-l10n-name="logging">Beleženje HTTP</a>.
+about-networking-current-log-file = Trenutna dnevniška datoteka:
+about-networking-current-log-modules = Trenutni dnevniški moduli:
+about-networking-set-log-file = Nastavi dnevniško datoteko
+about-networking-set-log-modules = Nastavi dnevniške module
+about-networking-dns-lookup = Iskanje DNS
+about-networking-dns-lookup-button = Razreši
+about-networking-dns-domain = Domena:
+about-networking-dns-lookup-table-column = IP-ji
 
 ## Link is intended as "network link"
 
