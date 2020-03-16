@@ -16,6 +16,8 @@ auto-refresh = Refrescamento automatic cata 3 secundas
 hostname = Nomine del hoste
 port = Porta
 http2 = HTTP/2
+about-networking-title = A proposito del traffico de rete
+about-networking-hostname = Nomine del hoste
 about-networking-http-version = Version de HTTP
 ssl = SSL
 active = Active
@@ -61,11 +63,16 @@ rcwn-cache-slow = Contage lente de cache
 rcwn-cache-not-slow = Contage non lente de cache
 networkid = ID de rete
 networkid-id = ID de rete
+about-networking-host = Hoste
+about-networking-log-tutorial = Vide <a data-l10n-name="logging">HTTP Logging</a> pro instructiones re como usar iste instrumento.
+about-networking-rcwn-avg-long = Media longe
+about-networking-rcwn-cache-slow = Contage lente de cache
+about-networking-rcwn-cache-not-slow = Contage non lente de cache
 
 ## Link is intended as "network link"
 
 networkid-isUp = Ligamine active
 networkid-statusKnown = Stato del ligamine note
 
-
+##
 
