@@ -21,6 +21,7 @@ about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Refrescar
+about-networking-auto-refresh = Actualizar automaticament cada 3 segondas
 about-networking-hostname = Nom d'òste
 about-networking-port = Pòrt
 ssl = SSL
@@ -75,6 +76,7 @@ about-networking-tcp = TCP
 about-networking-sent = Mandat
 about-networking-received = Recebut
 about-networking-family = Familha
+about-networking-trr = TRR
 about-networking-addresses = Adreças
 about-networking-expires = Expiracion (segondas)
 about-networking-messages-sent = Messatges mandats
@@ -82,12 +84,15 @@ about-networking-messages-received = Messatges recebuts
 about-networking-bytes-sent = Octets mandats
 about-networking-bytes-received = Octets recebuts
 about-networking-logging = Jornal
+about-networking-log-tutorial = Veire <a data-l10n-name="logging">HTTP Logging</a> per saber cossí utilizar aquesta aisina.
 about-networking-set-log-file = Definir un fichièr pel jornal
 about-networking-set-log-modules = Definir de modul d'enregistrament pel jornal
 about-networking-dns-lookup = Recèrca DNS
 about-networking-dns-lookup-button = Resolucion
 about-networking-dns-domain = Domeni:
 about-networking-dns-lookup-table-column = Adreças IP
+about-networking-networkid = ID de la ret
+about-networking-networkid-id = ID de la ret
 
 ## Link is intended as "network link"
 
