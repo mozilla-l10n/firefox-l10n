@@ -16,6 +16,7 @@ auto-refresh = 每3秒自动刷新一次
 hostname = 主机名
 port = 端口
 http2 = HTTP/2
+about-networking-title = 关于网络连接
 about-networking-http-version = HTTP 版本
 ssl = SSL
 active = 活动
@@ -61,11 +62,32 @@ rcwn-cache-slow = 缓存较慢次数
 rcwn-cache-not-slow = 缓存非慢次数
 networkid = 网络 ID
 networkid-id = 网络 ID
+about-networking-trr = TRR
+about-networking-logging = 日志
+about-networking-log-tutorial = 参见 <a data-l10n-name="logging">HTTP 日志</a> 了解如何使用此工具。
+about-networking-current-log-file = 当前日志文件：
+about-networking-current-log-modules = 当前日志模块：
+about-networking-set-log-file = 设置日志文件
+about-networking-set-log-modules = 设置日志模块
+about-networking-start-logging = 开始记录日志
+about-networking-stop-logging = 停止记录日志
+about-networking-rcwn-cache-won-count = 缓存领先次数
+about-networking-rcwn-net-won-count = 网络领先次数
+about-networking-rcwn-operation = 缓存操作
+about-networking-rcwn-perf-open = 打开
+about-networking-rcwn-perf-read = 读取
+about-networking-rcwn-perf-write = 写入
+about-networking-rcwn-perf-entry-open = 打开项
+about-networking-rcwn-avg-short = 短操作平均
+about-networking-rcwn-avg-long = 长操作平均
+about-networking-rcwn-std-dev-long = 长操作标准差
+about-networking-rcwn-cache-slow = 缓存较慢次数
+about-networking-rcwn-cache-not-slow = 缓存非慢次数
 
 ## Link is intended as "network link"
 
 networkid-isUp = 网络已连接
 networkid-statusKnown = 已知网络连接状态
 
-
+##
 
