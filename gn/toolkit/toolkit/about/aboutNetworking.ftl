@@ -20,6 +20,7 @@ about-networking-title = Ñanduti raperã rehegua
 about-networking-http = HTTP
 about-networking-sockets = Moingeha
 about-networking-dns = DNS
+about-networking-dns-suffix = Ñe'ẽpehẽ upeigua DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Mbopiro'y
 about-networking-auto-refresh = Embopiro'y ijehegui 3 aravo'ive og̃uahẽvo
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Mombytegua ipukúva
 about-networking-rcwn-std-dev-long = Ñemboyke ha'etéva ipukúva
 about-networking-rcwn-cache-slow = Kache nemba'etéva imbeguéva
 about-networking-rcwn-cache-not-slow = Kache nemba'etéva imbegue'ỹva
+about-networking-networkid = Ñanduti ID
+about-networking-networkid-id = Ñanduti ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Juajuha oĩ yvate
 networkid-statusKnown = Pe juajuha reko ojekuaa
+about-networking-networkid-is-up = Juajuha oĩ yvate
+about-networking-networkid-status-known = Pe juajuha reko ojekuaa
 
 ##
 
