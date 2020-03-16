@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = ارسال شده
 about-networking-received = دریافت شده
 about-networking-family = خانواده
+about-networking-trr = TRR
 about-networking-addresses = نشانی‌ها
 about-networking-expires = انقضا (ثانیه)
 about-networking-messages-sent = پیام‌های ارسال شده
@@ -97,6 +98,12 @@ about-networking-rcwn-status = وضعیت RCWN
 about-networking-rcwn-cache-won-count = تعداد برتری حافظه‌نهان
 about-networking-rcwn-net-won-count = تعداد برتری شبکه
 about-networking-total-network-requests = مجموع تعداد درخواست‌های شبکه
+about-networking-rcwn-operation = عملیات ذخیره‌ سازی موقت
+about-networking-rcwn-avg-short = میانگین کوتاه
+about-networking-rcwn-avg-long = میانگین بلند
+about-networking-rcwn-std-dev-long = انحراف استاندارد بلند
+about-networking-rcwn-cache-slow = شمارش آرام ذخیره سازی موقت
+about-networking-rcwn-cache-not-slow = شماره سریع ذخیره سازی موقت
 
 ## Link is intended as "network link"
 
