@@ -66,10 +66,16 @@ about-networking-messages-received = ಸಂದೇಶವನ್ನು ಸ್ವೀ
 about-networking-bytes-sent = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ
 about-networking-bytes-received = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ
 about-networking-logging = ದಾಖಲಾತಿ‍
+about-networking-current-log-file = ಪ್ರಸ್ತುತ ಲಾಗ್ ಕಡತ:
+about-networking-start-logging = ದಿನಚರಿತುಂಬುವುದನ್ನು ಪ್ರಾರಂಭಿಸು
+about-networking-stop-logging = ದಿನಚರಿ ಪೇರಿಸುವುದನ್ನು ನಿಲ್ಲಿಸು
 about-networking-dns-lookup = DNS ಲುಕ್ಅಪ್
 about-networking-dns-lookup-button = ಬಗೆಹರಿಸಿ
 about-networking-dns-domain = ಡೊಮೈನ್:
 about-networking-dns-lookup-table-column = IPಗಳು
+about-networking-rcwn = RCWN ಅಂಕಿಅಂಶಗಳು
+about-networking-rcwn-status = RCWN ಅಂಕಿಅಂಶಗಳು
+about-networking-rcwn-perf-write = ಬರೆ
 
 ## Link is intended as "network link"
 
