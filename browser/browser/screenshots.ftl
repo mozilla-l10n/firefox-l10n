@@ -4,3 +4,17 @@
 
 screenshots-context-menu = এটা স্ক্ৰীণশ্বট লওঁক
 screenshots-my-shots-button = মোৰ শ্বটবোৰ
+screenshots-instructions = অঞ্চল এটা বাছনি কৰিবলৈ পৃষ্ঠাখনত ধৰি টানক বা ক্লিক কৰক। বাতিল কৰিবলৈ ESC হেঁচক।
+screenshots-cancel-button = বাতিল কৰক
+screenshots-save-visible-button = দৃশ্যমান সঞ্চয় কৰক
+screenshots-save-page-button = সম্পূৰ্ণ পৃষ্ঠা সঞ্চয় কৰক
+screenshots-download-button = ডাউনল'ড কৰক
+screenshots-download-button-tooltip = স্ক্ৰীণশ্বট ডাউনল'ড কৰক
+screenshots-copy-button = কপি কৰক
+screenshots-copy-button-tooltip = স্ক্ৰীণশ্বট ক্লিপবৰ্ডলৈ কপি কৰক
+screenshots-meta-key =
+    { PLATFORM() ->
+        [macos] ⌘
+       *[other] Ctrl
+    }
+screenshots-notification-link-copied-title = লিংক কপি কৰা হ'ল
