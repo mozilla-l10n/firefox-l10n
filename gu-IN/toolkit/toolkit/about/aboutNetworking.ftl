@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = મોકલાયો
 about-networking-received = મેળવાયો
 about-networking-family = પરિવાર
+about-networking-trr = TRR
 about-networking-addresses = સરનામાઓ
 about-networking-expires = નિવૃત્ત થાય છે (સેકન્ડો)
 about-networking-messages-sent = સંદેશાઓ મોકલાયા
@@ -81,6 +82,13 @@ about-networking-messages-received = સંદેશાઓ મેળવાયા
 about-networking-bytes-sent = બાઇટ્સ મોકલાયા
 about-networking-bytes-received = બાઇટ્સ મેળવાયા
 about-networking-logging = લૉગિંગ
+about-networking-rcwn-cache-won-count = કેશ ગણતરી જીતી
+about-networking-rcwn-net-won-count = નેટ ગણતરી જીતી
+about-networking-rcwn-operation = કેશ ઓપરેશન
+about-networking-rcwn-perf-entry-open = પ્રવેશ ખોલો
+about-networking-rcwn-std-dev-long = લાંબા ધોરણ વિચલન
+about-networking-rcwn-cache-slow = કેશ ધીમી ગણતરી
+about-networking-rcwn-cache-not-slow = કેશની ધીમી ગણતરી નથી
 
 ## Link is intended as "network link"
 
