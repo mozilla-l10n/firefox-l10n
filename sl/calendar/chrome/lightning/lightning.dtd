@@ -69,7 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Izbriši iz koledarja">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti …">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Prikaži podrobnosti dogodka">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ne prikazuj mi teh sporočil">
 <!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Koledar">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Pojdi na zavihek koledarja">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Več">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za več možnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potrdi">
