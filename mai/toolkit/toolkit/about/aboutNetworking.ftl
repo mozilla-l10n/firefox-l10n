@@ -36,6 +36,7 @@ messages-received = संदेश प्राप्त
 bytes-sent = बाइट भेजल
 bytes-received = पाओल बाइट
 about-networking-ssl = SSL
+about-networking-active = सक्रिय करू
 about-networking-idle = निष्क्रिय
 about-networking-host = मेजबान
 about-networking-tcp = TCP
