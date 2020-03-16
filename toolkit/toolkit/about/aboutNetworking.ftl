@@ -16,6 +16,7 @@ hostname = అతిధేయపేరు
 port = పోర్టు
 http2 = HTTP/2
 about-networking-title = నెట్వర్కింగ్ గురించి
+about-networking-http = HTTP
 about-networking-sockets = సాకెట్లు
 about-networking-dns = DNS
 about-networking-websockets = వెబ్‌సాకెట్లు
@@ -73,6 +74,18 @@ about-networking-messages-sent = పంపిన సందేశాలు
 about-networking-messages-received = స్వీకరించిన సందేశాలు
 about-networking-bytes-sent = పంపిన బైట్లు
 about-networking-bytes-received = స్వీకరించిన బైట్లు
+about-networking-logging = నమోదుపరుచు
+about-networking-current-log-file = ప్రస్తుత లాగ్ ఫైలు:
+about-networking-current-log-modules = ప్రస్తుత నమోదు మాడ్యూలు:
+about-networking-set-log-file = లాగ్ ఫైల్ సెట్ చేయి
+about-networking-set-log-modules = లాగ్ మాడ్యూల్ సెట్ చేయి
+about-networking-start-logging = లాగింగ్ ప్రారంభించు
+about-networking-stop-logging = లాగింగ్ ఆపివేయి
+about-networking-dns-lookup = DNS శోధన
+about-networking-dns-lookup-button = పరిష్కరించు
+about-networking-dns-domain = డొమైన్:
+about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn-operation = క్యాషేఆపరేషన్
 
 ## Link is intended as "network link"
 
