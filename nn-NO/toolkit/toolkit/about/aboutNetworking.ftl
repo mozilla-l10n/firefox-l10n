@@ -20,6 +20,7 @@ about-networking-title = Om nettverk
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS-suffiks
 about-networking-websockets = WebSockets
 about-networking-refresh = Oppdater
 about-networking-auto-refresh = Auto-oppdater kvart 3. sekund
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Langt gjennomsnitt
 about-networking-rcwn-std-dev-long = Langt standardavvik
 about-networking-rcwn-cache-slow = Tal på langsam cache
 about-networking-rcwn-cache-not-slow = Tal på ikkje-langsam cache
+about-networking-networkid = Nettverks-ID
+about-networking-networkid-id = Nettverks-ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Lenka er oppe
 networkid-statusKnown = Lenkestatus er kjend
+about-networking-networkid-is-up = Lenka er oppe
+about-networking-networkid-status-known = Lenkestatus er kjend
 
 ##
 
