@@ -20,6 +20,7 @@ about-networking-title = Connexiuns a la rait
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = Suffix DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Actualisar
 about-networking-auto-refresh = Actualisar automaticamain mintga 3 secundas
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Media lunga
 about-networking-rcwn-std-dev-long = Deviaziun da standard lunga
 about-networking-rcwn-cache-slow = Dumber da giadas ch'il cache è plaun
 about-networking-rcwn-cache-not-slow = Dumber da giadas ch'il cache è svelt
+about-networking-networkid = ID da la rait
+about-networking-networkid-id = ID da la rait
 
 ## Link is intended as "network link"
 
 networkid-isUp = La colliaziun è activa
 networkid-statusKnown = Il status da la colliaziun è enconuschent
+about-networking-networkid-is-up = La colliaziun è activa
+about-networking-networkid-status-known = Il status da la colliaziun è enconuschent
 
 ##
 
