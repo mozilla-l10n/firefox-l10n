@@ -82,6 +82,12 @@ about-networking-messages-sent = הודעות שנשלחו
 about-networking-messages-received = הודעות שהתקבלו
 about-networking-bytes-sent = בתים שנשלחו
 about-networking-bytes-received = בתים שהתקבלו
+about-networking-set-log-file = הגדרת קובץ רישום
+about-networking-set-log-modules = הגדרת מודולי רישום
+about-networking-rcwn-avg-short = ממוצע קצר
+about-networking-rcwn-avg-long = ממוצע ארוך
+about-networking-networkid = מזהה רשת
+about-networking-networkid-id = מזהה רשת
 
 ## Link is intended as "network link"
 
