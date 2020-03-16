@@ -766,6 +766,15 @@ forms-master-pw-change =
 forms-master-pw-fips-title = 현재 FIPS 모드입니다. FIPS는 기본 비밀번호가 설정되어야 합니다.
 forms-master-pw-fips-desc = 비밀번호 변경 실패
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = 기본 비밀번호 만들기
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = 기록
