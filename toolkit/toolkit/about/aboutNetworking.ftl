@@ -98,6 +98,7 @@ about-networking-dns-domain = Domena:
 about-networking-dns-lookup-table-column = IP adrese
 about-networking-rcwn = RCWN statistika
 about-networking-rcwn-status = RCWN status
+about-networking-rcwn-perf-open = Otvori
 
 ## Link is intended as "network link"
 
