@@ -16,6 +16,7 @@ hostname = ہوسٹ نیم
 port = پورٹ
 http2 = HTTP/2
 about-networking-title = نیٹ ورکنگ کے بارے میں
+about-networking-http = HTTP
 about-networking-sockets = ساکٹس
 about-networking-dns = ڈی این ایس
 about-networking-websockets = ویب ساکٹس
@@ -80,6 +81,18 @@ about-networking-messages-sent = پیغامات بھیج دئیے گیے
 about-networking-messages-received = پیغامات وصولے گیے
 about-networking-bytes-sent = بائیٹس بھیج دئیے گیے
 about-networking-bytes-received = بائیٹس وصولے گیے
+about-networking-logging = لاگینگ
+about-networking-log-tutorial = اس ٹول کو کس طرح استعمال کرنا ہے اسکے لئے دیکھیں <a data-l10n-name="logging">HTTP Logging</a>۔
+about-networking-current-log-file = موجودہ لاگ مسل
+about-networking-current-log-modules = موجودہ لاگ ماڈیول
+about-networking-set-log-file = لاگ مسل سیٹ کریں
+about-networking-set-log-modules = لاگ ماڈیول سیٹ کریں
+about-networking-start-logging = لاگنگ شروع کریں
+about-networking-stop-logging = لاگنگ رکیں
+about-networking-dns-lookup = DNS تلاش کریں
+about-networking-dns-lookup-button = حل کریں
+about-networking-dns-domain = عمل داری:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
