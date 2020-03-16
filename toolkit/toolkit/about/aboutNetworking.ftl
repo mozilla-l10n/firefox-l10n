@@ -15,6 +15,15 @@ auto-refresh = Agiorna outomaticamente ògni 3 segondi
 hostname = Nomme server
 port = Pòrta
 http2 = HTTP/2
+about-networking-title = Informaçioin in sciâ ræ
+about-networking-http = HTTP
+about-networking-sockets = Socket
+about-networking-dns = DNS
+about-networking-websockets = WebSocket
+about-networking-refresh = Agiorna
+about-networking-auto-refresh = Agiorna outomaticamente ògni 3 segondi
+about-networking-hostname = Nomme server
+about-networking-port = Pòrta
 ssl = SSL
 active = Ativo
 idle = Inativo
@@ -57,3 +66,27 @@ rcwn-avg-long = Media longa
 rcwn-std-dev-long = Deviaçion standard longa
 rcwn-cache-slow = Conto da cache lenta
 rcwn-cache-not-slow = Conto da cache no lenta
+about-networking-ssl = SSL
+about-networking-active = Ativo
+about-networking-idle = Inativo
+about-networking-host = Server
+about-networking-tcp = TCP
+about-networking-sent = Mandæ
+about-networking-received = Riçevui
+about-networking-family = Famiggia
+about-networking-addresses = Indirissi
+about-networking-expires = Scadensa (segondi)
+about-networking-messages-sent = Mesaggi mandæ
+about-networking-messages-received = Mesaggi reçevui
+about-networking-bytes-sent = Byte mandæ
+about-networking-bytes-received = Byte reçevui
+about-networking-logging = Registro
+about-networking-dns-lookup-button = Risolvi
+about-networking-dns-domain = Dominio:
+about-networking-dns-lookup-table-column = IP
+
+## Link is intended as "network link"
+
+
+##
+
