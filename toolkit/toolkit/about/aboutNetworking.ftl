@@ -16,6 +16,7 @@ hostname = યજમાનનામ
 port = પોર્ટ
 http2 = HTTP/2
 about-networking-title = નેટવર્કીંગ વિશે
+about-networking-http = HTTP
 about-networking-sockets = સૉકેટ
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -79,6 +80,7 @@ about-networking-messages-sent = સંદેશાઓ મોકલાયા
 about-networking-messages-received = સંદેશાઓ મેળવાયા
 about-networking-bytes-sent = બાઇટ્સ મોકલાયા
 about-networking-bytes-received = બાઇટ્સ મેળવાયા
+about-networking-logging = લૉગિંગ
 
 ## Link is intended as "network link"
 
