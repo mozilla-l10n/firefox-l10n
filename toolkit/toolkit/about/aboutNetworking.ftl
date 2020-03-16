@@ -16,6 +16,14 @@ auto-refresh = Әр 3 секунд сайын жаңарту
 hostname = Хост аты
 port = Порт
 http2 = HTTP/2
+about-networking-title = Желі туралы
+about-networking-sockets = Сокеттер
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Жаңарту
+about-networking-auto-refresh = Әр 3 секунд сайын жаңарту
+about-networking-hostname = Хост аты
+about-networking-port = Порт
 about-networking-http-version = HTTP нұсқасы
 ssl = SSL
 active = Белсенді
@@ -61,6 +69,20 @@ rcwn-cache-slow = Кэшке баяу қатынаудың саны
 rcwn-cache-not-slow = Кэшке баяу емес қатынаудың саны
 networkid = Желі идентификаторы
 networkid-id = Желі идентификаторы
+about-networking-ssl = SSL
+about-networking-active = Белсенді
+about-networking-idle = Іссіз
+about-networking-host = Хост
+about-networking-tcp = TCP
+about-networking-sent = Жіберілген
+about-networking-received = Алынған
+about-networking-family = Отбасы
+about-networking-addresses = Адрестер
+about-networking-expires = Мерзімі бітеді (секунд)
+about-networking-messages-sent = Жіберілген хабарламалар
+about-networking-messages-received = Алынған хабарламалар
+about-networking-bytes-sent = Жіберілген байттар
+about-networking-bytes-received = Алынған байттар
 
 ## Link is intended as "network link"
 
