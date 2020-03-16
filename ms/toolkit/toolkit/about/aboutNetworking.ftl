@@ -15,6 +15,13 @@ auto-refresh = Segarkan secara automatik setiap 3 saat
 hostname = Nama hos
 port = Port
 http2 = HTTP/2
+about-networking-title = Tentang Jaringan
+about-networking-sockets = Soket
+about-networking-dns = DNS
+about-networking-websockets = WebSocket
+about-networking-auto-refresh = Segarkan secara automatik setiap 3 saat
+about-networking-hostname = Nama hos
+about-networking-port = Port
 ssl = SSL
 active = Aktif
 idle = Melahu
@@ -57,3 +64,23 @@ rcwn-avg-long = Purata Panjang
 rcwn-std-dev-long = Sisihan Piawai Panjang
 rcwn-cache-slow = Kiraan perlahan cache
 rcwn-cache-not-slow = Kiraan tidak perlahan cache
+about-networking-ssl = SSL
+about-networking-active = Aktif
+about-networking-idle = Melahu
+about-networking-host = Hos
+about-networking-tcp = TCP
+about-networking-sent = Dihantar
+about-networking-received = Diterima
+about-networking-family = Keluarga
+about-networking-addresses = Alamat
+about-networking-expires = Luput (Saat)
+about-networking-messages-sent = Mesej Dihantar
+about-networking-messages-received = Mesej Diterima
+about-networking-bytes-sent = Bait Dihantar
+about-networking-bytes-received = Bait Diterima
+
+## Link is intended as "network link"
+
+
+##
+
