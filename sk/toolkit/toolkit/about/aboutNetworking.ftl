@@ -15,6 +15,7 @@ auto-refresh = Automaticky obnoviť každé 3 sekundy
 hostname = Názov servera
 port = Port
 http2 = HTTP/2
+about-networking-title = O spojeniach
 ssl = SSL
 active = Aktívny
 idle = Nečinný
@@ -59,9 +60,29 @@ rcwn-cache-slow = Počet pomalých prístupov do vyrovnávacej pamäte
 rcwn-cache-not-slow = Počet rýchlych prístupov do vyrovnávacej pamäte
 networkid = ID siete
 networkid-id = ID siete
+about-networking-trr = TRR
+about-networking-logging = Záznam
+about-networking-log-tutorial = Ak sa chcete dozvedieť informácie o používaní tohto nástroja, prosím, navštívte stránku <a data-l10n-name="logging">HTTP Logging</a>.
+about-networking-rcwn = Štatistiky RCWN
+about-networking-rcwn-status = Stav RCWN
+about-networking-rcwn-cache-won-count = Počet víťazstiev vyrovnávacej pamäte
+about-networking-rcwn-net-won-count = Počet víťazstiev siete
+about-networking-total-network-requests = Celkový počet sieťových požiadavkov
+about-networking-rcwn-operation = Operácia s vyrovnávacou pamäťou
+about-networking-rcwn-perf-open = Otvorenie
+about-networking-rcwn-perf-read = Čítanie
+about-networking-rcwn-perf-write = Zápis
+about-networking-rcwn-perf-entry-open = Otvorenie položky
+about-networking-rcwn-avg-short = Krátkodobý priemer
+about-networking-rcwn-avg-long = Dlhodobý priemer
+about-networking-rcwn-std-dev-long = Dlhodobá smerodajná odchýlka
+about-networking-rcwn-cache-slow = Počet pomalých prístupov do vyrovnávacej pamäte
+about-networking-rcwn-cache-not-slow = Počet rýchlych prístupov do vyrovnávacej pamäte
+about-networking-networkid = ID siete
+about-networking-networkid-id = ID siete
 
 ## Link is intended as "network link"
 
 
-
+##
 
