@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = Ninviau
 about-networking-received = Recibiu
 about-networking-family = Familia
+about-networking-trr = TRR
 about-networking-addresses = Adrezas
 about-networking-expires = Expira (segundos)
 about-networking-messages-sent = Mensaches ninviaus
@@ -92,6 +93,21 @@ about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Resolver
 about-networking-dns-domain = Dominio:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = Estatisticas de RCWN
+about-networking-rcwn-status = Estatus de RCWN
+about-networking-rcwn-cache-won-count = Numero de victorias d'o caché
+about-networking-rcwn-net-won-count = Numero de victorias neto
+about-networking-total-network-requests = Numero de demandas totals de ret
+about-networking-rcwn-operation = Operación d'a caché
+about-networking-rcwn-perf-open = Ubrir
+about-networking-rcwn-perf-read = Leyer
+about-networking-rcwn-perf-write = Escribir
+about-networking-rcwn-perf-entry-open = Abrir dentrada
+about-networking-rcwn-avg-short = Meya curta
+about-networking-rcwn-avg-long = Meya larga
+about-networking-rcwn-std-dev-long = Desviación estandard larga
+about-networking-rcwn-cache-slow = Numero d'ocasions que la caché ye lenta
+about-networking-rcwn-cache-not-slow = Numero d'ocasions que la caché no ye lenta
 
 ## Link is intended as "network link"
 
