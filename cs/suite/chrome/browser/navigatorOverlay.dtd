@@ -56,10 +56,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Přejít">
 <!ENTITY goMenu.accesskey "p">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Domů">
 <!ENTITY goHomeCmd.accesskey "d">
 <!ENTITY historyCmd.label "Historie">
 <!ENTITY historyCmd.accesskey "h">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Naposledy zavřené panely">
 <!ENTITY recentTabs.accesskey "p">
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Vymazat důvěrná data">
 <!ENTITY clearPrivateDataCmd.accesskey "m">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
