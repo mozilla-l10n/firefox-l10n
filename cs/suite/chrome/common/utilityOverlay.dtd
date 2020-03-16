@@ -57,11 +57,11 @@
 
 <!ENTITY quitApplicationCmd.label         "Ukončit">
 <!ENTITY quitApplicationCmd.key           "Q">
-<!ENTITY quitApplicationCmd.accesskey     "U">
+<!ENTITY quitApplicationCmd.accesskey     "k">
 <!ENTITY quitApplicationCmdMac.label      "Ukončit &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "U">
 <!ENTITY quitApplicationCmdUnix.label     "Ukončit">
-<!ENTITY quitApplicationCmdUnix.accesskey "U">
+<!ENTITY quitApplicationCmdUnix.accesskey "k">
 
 <!ENTITY editMenu.label                   "Úpravy">
 <!ENTITY editMenu.accesskey               "a">
@@ -137,7 +137,13 @@
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Nápověda">
+<!ENTITY helpMenuWin.accesskey            "v">
+<!ENTITY openHelpCmd.label                "Obsah nápovědy">
+<!ENTITY openHelpCmd.accesskey            "h">
+<!ENTITY openHelpCmd.key                  "VK_F1">
 
+<!ENTITY helpForIEUsers.label               "Pro uživatele Internet Exploreru">
+<!ENTITY helpForIEUsers.accesskey           "I">
 <!ENTITY helpTroubleshootingInfo.label      "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label                   "Poznámky k vydání">
