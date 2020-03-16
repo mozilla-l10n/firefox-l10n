@@ -18,3 +18,6 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = লিংক কপি কৰা হ'ল
+screenshots-notification-link-copied-details = আপোনাৰ শ্বটলৈ যোৱা লিংকটো ক্লিপবৰ্ডলৈ কপি কৰা হৈছে। পে'ষ্ট কৰিবলৈ { screenshots-meta-key }-V হেঁচক।
+screenshots-notification-image-copied-title = শ্বট কপি কৰা হ'ল
+screenshots-notification-image-copied-details = আপোনাৰ শ্বটটো ক্লিপবৰ্ডলৈ কপি কৰা হৈছে। পে'ষ্ট কৰিবলৈ { screenshots-meta-key }-V হেঁচক।
