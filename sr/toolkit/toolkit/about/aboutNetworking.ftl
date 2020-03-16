@@ -16,6 +16,7 @@ hostname = Име сервера
 port = Порт
 http2 = HTTP/2
 about-networking-title = О умрежавању
+about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
@@ -81,6 +82,10 @@ about-networking-messages-sent = Поруке послате
 about-networking-messages-received = Поруке примљене
 about-networking-bytes-sent = Бајтова послато
 about-networking-bytes-received = Бајтова примљено
+about-networking-dns-lookup = DNS Lookup
+about-networking-dns-lookup-button = Решити
+about-networking-dns-domain = Домен:
+about-networking-dns-lookup-table-column = IP адресе
 
 ## Link is intended as "network link"
 
