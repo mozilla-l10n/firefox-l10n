@@ -22,6 +22,7 @@ policy-Bookmarks = 在書籤工具列、選單或當中的資料夾建立書籤�
 policy-CaptivePortal = 開啟或關閉支援 Captive portal。
 policy-CertificatesDescription = 新增憑證，或使用內建憑證。
 policy-Cookies = 允許或拒絕網站設定 Cookie。
+policy-DisabledCiphers = 停用加密演算法。
 policy-DefaultDownloadDirectory = 設定預設下載資料夾。
 policy-DisableAppUpdate = 防止瀏覽器更新。
 policy-DisableBuiltinPDFViewer = 停用 { -brand-short-name } 內建的 PDF 閱讀器 PDF.js。
