@@ -47,6 +47,8 @@ rcwn-status = RCWN ಅಂಕಿಅಂಶಗಳು
 rcwn-perf-open = ತೆರೆ
 rcwn-perf-read = ಓದು
 rcwn-perf-write = ಬರೆ
+about-networking-bytes-sent = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ
+about-networking-bytes-received = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ
 
 ## Link is intended as "network link"
 
