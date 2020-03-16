@@ -74,6 +74,7 @@ about-networking-tcp = TCP
 about-networking-sent = প্রেরিত
 about-networking-received = গৃহীত
 about-networking-family = সংকলন
+about-networking-trr = TRR
 about-networking-addresses = ঠিকানাগুলি
 about-networking-expires = মেয়াদপূর্তী (সেকেন্ড)
 about-networking-messages-sent = বার্তা প্রেরিত হয়েছে
@@ -94,9 +95,19 @@ about-networking-dns-domain = ডোমেইন:
 about-networking-dns-lookup-table-column = আইপি সমূহ
 about-networking-rcwn = RCWN পরিসংখ্যান
 about-networking-rcwn-status = RCWN অবস্থা
+about-networking-rcwn-cache-won-count = ক্যাশ ওন গণনা
+about-networking-rcwn-net-won-count = নিট ওন গণনা
+about-networking-total-network-requests = সর্বমোট নেটওয়ার্ক অনুরোধ গণনা
+about-networking-rcwn-operation = ক্যাশ অপারেশন
 about-networking-rcwn-perf-open = খুলুন
 about-networking-rcwn-perf-read = পড়ুন
 about-networking-rcwn-perf-write = লিখুন
+about-networking-rcwn-perf-entry-open = প্রবেশ শুরু
+about-networking-rcwn-avg-short = সংক্ষিপ্ত গড়
+about-networking-rcwn-avg-long = দীর্ঘ গড়
+about-networking-rcwn-std-dev-long = লং স্ট্যান্ডার্ড ডেভিয়েশন
+about-networking-rcwn-cache-slow = ক্যাশ স্লো গণনা
+about-networking-rcwn-cache-not-slow = ক্যাশ স্লো করছে না গণনা
 
 ## Link is intended as "network link"
 
