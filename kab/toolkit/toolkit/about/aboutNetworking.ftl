@@ -16,6 +16,15 @@ auto-refresh = Smiren yal 3 n tasinin
 hostname = Asenneftaɣ
 port = Tabburt
 http2 = HTTP/2
+about-networking-title = Talɣut ɣef uẓeṭṭa
+about-networking-http = HTTP
+about-networking-sockets = Igrudmawen
+about-networking-dns = DNS
+about-networking-websockets = Igrudam n tuqqna
+about-networking-refresh = Smiren
+about-networking-auto-refresh = Smiren yal 3 n tasinin
+about-networking-hostname = Asenneftaɣ
+about-networking-port = Tabburt
 about-networking-http-version = Lqem HTTP
 ssl = SSL
 active = Urmid
@@ -61,11 +70,35 @@ rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
 networkid = Asulay n uẓeṭṭa
 networkid-id = Asulay n uẓeṭṭa
+about-networking-ssl = SSL
+about-networking-active = Urmid
+about-networking-host = Asenneftaɣ
+about-networking-tcp = TCP
+about-networking-sent = Ţwaznen
+about-networking-family = Tawacult
+about-networking-addresses = Tansiwin
+about-networking-expires = Ad immet (tasinin)
+about-networking-messages-sent = Iznan iţwacegɛen
+about-networking-messages-received = Iznan ţwarmsen-d
+about-networking-bytes-sent = Iṭamḍanen iţwaceggɛen
+about-networking-bytes-received = Itamḍanen iţwaremsen
+about-networking-logging = Aɣmis
+about-networking-log-tutorial = Wali <a data-l10n-name="logging">Asniɣmes HTTP </a> ɣe wamek ad tesqedceḍ afecku-agi.
+about-networking-current-log-file = Afaylu aɣmis amiran:
+about-networking-current-log-modules = Izegrar iɣmisen imiranen:
+about-networking-set-log-file = Sbadu afaylu aɣmis
+about-networking-set-log-modules = Sbadu izegrar iɣmisen
+about-networking-start-logging = Senker asniɣmes
+about-networking-stop-logging = Seḥbes asniɣmes
+about-networking-dns-lookup = Anadi DNS
+about-networking-dns-lookup-button = Fru
+about-networking-dns-domain = Taɣult:
+about-networking-dns-lookup-table-column = IPs
 
 ## Link is intended as "network link"
 
 networkid-isUp = Assaɣ yettwag
 networkid-statusKnown = Addad n wassaɣ yettwasssen
 
-
+##
 
