@@ -45,6 +45,7 @@ client-auth-window =
     .title = ব্যৱহাৰকাৰীৰ পৰিচয়ৰ অনুৰোধ
 client-auth-site-description = আপুনি নিজকে এটা প্ৰমাণপত্ৰৰে পৰিচয় দিবলৈ এই ছাইটে অনুৰোধ কৰিছে:
 client-auth-choose-cert = চিনাকি দিবলৈ এটা প্ৰমাণপত্ৰ বাছক:
+client-auth-cert-details = বাছনি কৰা প্ৰমাণপত্ৰৰ বিশদ-বিৱৰণ:
 
 ## Set password (p12) dialog
 

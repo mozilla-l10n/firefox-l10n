@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "আংশিক আপডেইট প্ৰয়োগ কৰিব পৰা ন'গ'ল। &brandShortName; এ এটা সম্পূৰ্ণ আপডেইট ডাউনল'ড কৰাৰ চেষ্টা কৰিব।">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; এটা আপডেইট উপলব্ধ হয় নে নহয় নিৰ্ধাৰন কৰিবলে অক্ষম। অনুগ্ৰহ নিশ্চিত কৰক যে আপোনাৰ &brandShortName; ৰ শেহতীয়া সংস্কৰণ আছে:">
-
+                                           
 <!ENTITY  finishedPage.title              "আপডেইট ইনস্টলৰ কাৰণে প্ৰস্তুত">
 <!ENTITY  finishedPage.text               "এই আপডেইট পিছৰ বাৰ &brandShortName; আৰম্ভ হওঁতে ইনস্টল্ড হ'ব। আপুনি &brandShortName; এতিয়া পুনাৰম্ভ কৰিব পাৰে, বা এতিয়া কামত আগবাঢ়ি পিছত পুনাৰম্ভ কৰক।">
 
@@ -49,8 +49,6 @@
 <!ENTITY  finishedBackground.name         "আপডেইট:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "ইয়াৰ পিছৰ বা &brandShortName; আৰম্ভ হ'লে এই আপডেইট ইনস্টল কৰা হ'ব। আপুনি &brandShortName; এতিয়া পুনাৰম্ভ কৰিব পাৰে, বা এতিয়া কামত আগবাঢ়ি পিছত পুনাৰম্ভ কৰিব পাৰে।">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.moreElevated "এই আপডেটক কৰ্তৃপক্ষৰ অধিকাৰসমূহৰ প্ৰয়োজন। অহাবাৰ &brandShortName; আৰম্ভ হ'লে আপডেট ইনষ্টল কৰা হ'ব। আপুনি এতিয়াই &brandShortName; পুনৰাৰম্ভ কৰিব পাৰে, কাম কৰা অব্যাহত ৰাখি পাছত পুনৰাৰম্ভ কৰিব পাৰে নাইবা এই আপডেট নাকচ কৰিব পাৰে।">
 
-
-<!ENTITY  update.details.label            "বিৱৰণ">
-<!ENTITY  update.installedOn.label        "চিহ্নিত স্থানত ইনস্টল্ড:">
-<!ENTITY  update.status.label             "অৱস্থা:">
