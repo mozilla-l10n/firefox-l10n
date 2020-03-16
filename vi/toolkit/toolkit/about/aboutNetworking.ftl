@@ -16,6 +16,10 @@ auto-refresh = Tự tải lại sau 3 giây
 hostname = Tên máy chủ
 port = Cổng
 http2 = HTTP/2
+about-networking-dns = DNS
+about-networking-refresh = Cập nhật
+about-networking-auto-refresh = Tự tải lại sau 3 giây
+about-networking-port = Cổng
 about-networking-http-version = Phiên bản HTTP
 ssl = SSL
 active = Đang hoạt động
@@ -61,11 +65,24 @@ rcwn-cache-slow = Bộ đếm bộ nhớ đệm chậm
 rcwn-cache-not-slow = Bộ đếm bộ nhớ đệm không chậm
 networkid = ID mạng
 networkid-id = ID mạng
+about-networking-ssl = SSL
+about-networking-active = Đang hoạt động
+about-networking-idle = Đang nghỉ
+about-networking-host = Máy chủ
+about-networking-tcp = TCP
+about-networking-sent = Đã gửi
+about-networking-received = Đã nhận
+about-networking-family = Nhóm
+about-networking-addresses = Địa chỉ
+about-networking-messages-sent = Tin nhắn đã gửi
+about-networking-messages-received = Tin nhắn đã nhận
+about-networking-bytes-sent = Byte đã gửi
+about-networking-bytes-received = Byte đã nhận
 
 ## Link is intended as "network link"
 
 networkid-isUp = Liên kết hoạt động
 networkid-statusKnown = Tình trạng liên kết đã biết
 
-
+##
 
