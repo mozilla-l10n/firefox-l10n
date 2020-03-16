@@ -20,6 +20,7 @@ about-networking-title = ქსელის შესახებ
 about-networking-http = HTTP
 about-networking-sockets = სოკეტები:
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS-ბოლოსართი
 about-networking-websockets = WebSockets
 about-networking-refresh = გაახლება
 about-networking-auto-refresh = თვითგაახლება ყოველ 3 წამში
@@ -93,9 +94,12 @@ about-networking-set-log-file = აღრიცხვის ფაილის �
 about-networking-set-log-modules = აღრიცხვის მოდულების მითითება
 about-networking-start-logging = აღრიცხვის დაწყება
 about-networking-stop-logging = აღრიცხვის შეჩერება
+about-networking-dns-lookup = DNS-მოძიება
 about-networking-dns-lookup-button = მოთხოვნა
 about-networking-dns-domain = დომენი:
 about-networking-dns-lookup-table-column = IPs
+about-networking-rcwn = RCWN-სტატისტიკა
+about-networking-rcwn-status = RCWN-მდგომარეობა
 about-networking-rcwn-cache-won-count = კეშის გამოყენება
 about-networking-rcwn-net-won-count = ქსელით კეშის ჩანაცვლება
 about-networking-total-network-requests = ქსელის მოთხოვნები სულ
@@ -109,11 +113,15 @@ about-networking-rcwn-avg-long = გრძელი საშუალო
 about-networking-rcwn-std-dev-long = გრძელი სტანდარტული გადახრა
 about-networking-rcwn-cache-slow = კეშის დაყოვნების რაოდენობა
 about-networking-rcwn-cache-not-slow = კეშის დაუყოვნებლობის რაოდენობა
+about-networking-networkid = ქსელის ID
+about-networking-networkid-id = ქსელის ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = ქსელის მაკავშირებელი გამართულია
 networkid-statusKnown = ქსელის მაკავშირებლის მდგომარეობა უცნობია
+about-networking-networkid-is-up = ქსელის მაკავშირებელი გამართულია
+about-networking-networkid-status-known = ქსელის მაკავშირებლის მდგომარეობა უცნობია
 
 ##
 
