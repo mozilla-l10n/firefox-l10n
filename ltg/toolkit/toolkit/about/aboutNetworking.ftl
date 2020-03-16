@@ -15,6 +15,11 @@ auto-refresh = Automatiski atjaunynuot kotrys 3 sekundes
 hostname = Adress
 port = Ports
 http2 = HTTP/2
+about-networking-title = Par teiklu
+about-networking-refresh = Atjaunynuot
+about-networking-auto-refresh = Automatiski atjaunynuot kotrys 3 sekundes
+about-networking-hostname = Adress
+about-networking-port = Ports
 ssl = SSL
 active = Aktivs
 idle = Deikstavē
@@ -57,3 +62,23 @@ rcwn-avg-long = Garš videjais
 rcwn-std-dev-long = Long Standard Deviation
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
+about-networking-active = Aktivs
+about-networking-idle = Deikstavē
+about-networking-host = Adress
+about-networking-sent = Nūsyuteits
+about-networking-received = Sajimts
+about-networking-family = Saime
+about-networking-addresses = Adresi
+about-networking-expires = Nūilgums (sekundes)
+about-networking-messages-sent = Nūsyuteitī ziņuojumi
+about-networking-messages-received = Sajimtī ziņuojumi
+about-networking-bytes-sent = Nūsyuteitī baiti
+about-networking-bytes-received = Sajimtī baiti
+about-networking-dns-lookup-button = Atrast
+about-networking-dns-domain = Domens:
+
+## Link is intended as "network link"
+
+
+##
+
