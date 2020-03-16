@@ -20,6 +20,7 @@ about-networking-title = Tungkol sa Networking
 about-networking-http = HTTP
 about-networking-sockets = Mga socket
 about-networking-dns = DNS
+about-networking-dns-suffix = DNS suffix
 about-networking-websockets = WebSockets
 about-networking-refresh = I-refresh
 about-networking-auto-refresh = Mag-rerefresh ng atomatiko kada 3 segundo
