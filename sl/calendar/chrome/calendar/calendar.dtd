@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Ustvari novo opravilo" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Opravila" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Prikaži dokončana opravila">
 
 <!ENTITY calendar.today.button.label          "Danes">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Prikaži opomnike">
 <!ENTITY calendarproperties.cache3.label                   "Podpora v nepovezanem načinu">
 <!ENTITY calendarproperties.enabled.label                  "Vključi ta koledar">
+<!ENTITY calendarproperties.enabled2.label                 "Omogoči ta koledar">
 <!ENTITY calendarproperties.forceDisabled.label            "Ponudnika tega koledarja ni mogoče najti. To se pogosto zgodi, če ste onemogočili ali odstranili določene dodatke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Odjavi naročnino">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "O">
