@@ -20,6 +20,7 @@ about-networking-title = O omrežjih
 about-networking-http = HTTP
 about-networking-sockets = Vtičnice
 about-networking-dns = DNS
+about-networking-dns-suffix = Pripona DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Osveži
 about-networking-auto-refresh = Samodejno osveži vsake 3 sekunde
@@ -112,11 +113,15 @@ about-networking-rcwn-avg-long = Dolgo povprečje
 about-networking-rcwn-std-dev-long = Dolg standardni odklon
 about-networking-rcwn-cache-slow = Število počasnih delovanj diska
 about-networking-rcwn-cache-not-slow = Število hitrih delovanj diska
+about-networking-networkid = ID omrežja
+about-networking-networkid-id = ID omrežja
 
 ## Link is intended as "network link"
 
 networkid-isUp = Povezava je vzpostavljena
 networkid-statusKnown = Stanje povezave je znano
+about-networking-networkid-is-up = Povezava je vzpostavljena
+about-networking-networkid-status-known = Stanje povezave je znano
 
 ##
 
