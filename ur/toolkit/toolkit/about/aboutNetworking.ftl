@@ -15,6 +15,13 @@ auto-refresh = خودبخود, ہر ٣ سیکنڈ کے بعد تازہ کریں
 hostname = ہوسٹ نیم
 port = پورٹ
 http2 = HTTP/2
+about-networking-title = نیٹ ورکنگ کے بارے میں
+about-networking-sockets = ساکٹس
+about-networking-dns = ڈی این ایس
+about-networking-websockets = ویب ساکٹس
+about-networking-refresh = تازہ کریں
+about-networking-hostname = ہوسٹ نیم
+about-networking-port = پورٹ
 ssl = ایس ایس ایل
 active = فعال
 idle = بیکار
@@ -59,6 +66,20 @@ rcwn-cache-slow = کیشیں کی دھیمی شمارات
 rcwn-cache-not-slow = کیشیں کی غیر دھیمی شمارات
 networkid = نیٹ ورک کی شناخت
 networkid-id = نیٹ ورک کی شناخت
+about-networking-ssl = ایس ایس ایل
+about-networking-active = فعال
+about-networking-idle = بیکار
+about-networking-host = ہوسٹ
+about-networking-tcp = ٹی سی پی
+about-networking-sent = بھیجا گیا
+about-networking-received = وصولا گیا
+about-networking-family = خاندان
+about-networking-addresses = پتے
+about-networking-expires = مدت ختم ہوتی ہے (سیکنڈ)
+about-networking-messages-sent = پیغامات بھیج دئیے گیے
+about-networking-messages-received = پیغامات وصولے گیے
+about-networking-bytes-sent = بائیٹس بھیج دئیے گیے
+about-networking-bytes-received = بائیٹس وصولے گیے
 
 ## Link is intended as "network link"
 
