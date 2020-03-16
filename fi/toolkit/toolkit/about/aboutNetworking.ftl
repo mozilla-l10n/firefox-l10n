@@ -112,11 +112,15 @@ about-networking-rcwn-avg-long = Long Average
 about-networking-rcwn-std-dev-long = Long Standard Deviation
 about-networking-rcwn-cache-slow = Cache slow count
 about-networking-rcwn-cache-not-slow = Cache not slow count
+about-networking-networkid = Network ID
+about-networking-networkid-id = Network ID
 
 ## Link is intended as "network link"
 
 networkid-isUp = Link is up
 networkid-statusKnown = Link status is known
+about-networking-networkid-is-up = Link is up
+about-networking-networkid-status-known = Link status is known
 
 ##
 
