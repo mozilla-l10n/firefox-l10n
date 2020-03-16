@@ -365,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Exibir lembretes">
 <!ENTITY calendarproperties.cache3.label                   "Suporte offline">
 <!ENTITY calendarproperties.enabled.label                  "Ativar esta agenda">
+<!ENTITY calendarproperties.enabled2.label                 "Ativar esta agenda">
 <!ENTITY calendarproperties.forceDisabled.label            "O provedor desta agenda não foi encontrado. Isto normalmente ocorre quando você desativa ou desinstala certas extensões.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar inscrição">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "C">
