@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Shranjeno sporočilo …">
 <!ENTITY lightning.menupopup.open.message.accesskey   "S">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteko koledarja …">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "D">
 
@@ -67,6 +69,7 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Izbriši iz koledarja">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti …">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Prikaži podrobnosti dogodka">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Koledar">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Več">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za več možnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potrdi">
