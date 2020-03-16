@@ -86,6 +86,14 @@ about-networking-messages-sent = Meldinger sendt
 about-networking-messages-received = Meldinger mottatt
 about-networking-bytes-sent = Bytes sendt
 about-networking-bytes-received = Bytes mottatt
+about-networking-logging = Logging
+about-networking-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
+about-networking-current-log-file = Current Log File:
+about-networking-current-log-modules = Gjeldende loggmoduler:
+about-networking-set-log-file = Velg loggfil
+about-networking-set-log-modules = Velg loggmoduler
+about-networking-start-logging = Start loggføring
+about-networking-stop-logging = Stopp loggføring
 about-networking-dns-lookup = DNS-oppslag
 about-networking-dns-lookup-button = Slå opp
 about-networking-dns-domain = Domene:
