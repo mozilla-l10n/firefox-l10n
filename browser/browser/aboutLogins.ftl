@@ -97,6 +97,17 @@ login-item-time-changed = Última modificação: { DATETIME($timeChanged, day: "
 login-item-time-created = Criado em: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Último uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Verifique sua identidade para editar a conta salva.
+
 ## Master Password notification
 
 master-password-notification-message = Digite sua senha mestra para ver contas e senhas salvas
