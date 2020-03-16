@@ -16,6 +16,15 @@ auto-refresh = Automatyczne odświeżanie co 3 sekundy
 hostname = Nazwa hosta
 port = Port
 http2 = HTTP/2
+about-networking-title = about:networking
+about-networking-http = HTTP
+about-networking-sockets = Socket
+about-networking-dns = DNS
+about-networking-websockets = WebSocket
+about-networking-refresh = Odśwież
+about-networking-auto-refresh = Automatyczne odświeżanie co 3 sekundy
+about-networking-hostname = Nazwa hosta
+about-networking-port = Port
 about-networking-http-version = Wersja HTTP
 ssl = SSL
 active = Aktywnych
@@ -61,11 +70,48 @@ rcwn-cache-slow = Powolne trafienia
 rcwn-cache-not-slow = Zwykłe trafienia
 networkid = Identyfikator sieci
 networkid-id = Identyfikator sieci
+about-networking-ssl = SSL
+about-networking-active = Aktywnych
+about-networking-idle = Bezczynnych
+about-networking-host = Host
+about-networking-tcp = TCP
+about-networking-sent = Wysłano
+about-networking-received = Odebrano
+about-networking-family = Protokół
+about-networking-trr = TRR
+about-networking-addresses = Adresy
+about-networking-expires = Wygasa (w sekundach)
+about-networking-messages-sent = Wysłano wiadomości
+about-networking-messages-received = Odebrano wiadomości
+about-networking-bytes-sent = Wysłano bajtów
+about-networking-bytes-received = Odebrano bajtów
+about-networking-logging = Logging
+about-networking-current-log-file = Plik dziennika:
+about-networking-current-log-modules = Moduły:
+about-networking-set-log-file = Ustaw jako plik dziennika
+about-networking-set-log-modules = Wybierz moduły
+about-networking-start-logging = Rozpocznij zapisywanie
+about-networking-stop-logging = Zatrzymaj zapisywanie
+about-networking-dns-lookup = Przeszukiwanie DNS
+about-networking-dns-lookup-button = Wyszukaj
+about-networking-dns-domain = Domena:
+about-networking-dns-lookup-table-column = Adresy IP
+about-networking-rcwn = Statystyki RCWN
+about-networking-rcwn-cache-won-count = Trafienia pamięci podręcznej
+about-networking-rcwn-net-won-count = Trafienia sieciowe
+about-networking-rcwn-operation = Operacje pamięci podręcznej
+about-networking-rcwn-perf-open = Otwieranie
+about-networking-rcwn-perf-read = Odczytywanie
+about-networking-rcwn-perf-write = Zapisywanie
+about-networking-rcwn-perf-entry-open = Pozycja otwarta
+about-networking-rcwn-avg-long = Długa średnia
+about-networking-rcwn-std-dev-long = Odchylenie standardowe długiej
+about-networking-rcwn-cache-slow = Powolne trafienia
 
 ## Link is intended as "network link"
 
 networkid-isUp = Łącze jest aktywne
 networkid-statusKnown = Stan łącza jest nieznany
 
-
+##
 
