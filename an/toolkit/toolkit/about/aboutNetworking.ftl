@@ -15,6 +15,14 @@ auto-refresh = Esviellar automaticament cada 3 segundos
 hostname = Nombre d'o servidor
 port = Puerto
 http2 = HTTP/2
+about-networking-title = Información sobre o ret
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Esviellar
+about-networking-auto-refresh = Esviellar automaticament cada 3 segundos
+about-networking-hostname = Nombre d'o servidor
+about-networking-port = Puerto
 ssl = SSL
 active = Activo
 idle = Inactivo
@@ -57,3 +65,23 @@ rcwn-avg-long = Meya larga
 rcwn-std-dev-long = Desviación estandard larga
 rcwn-cache-slow = Numero d'ocasions que la caché ye lenta
 rcwn-cache-not-slow = Numero d'ocasions que la caché no ye lenta
+about-networking-ssl = SSL
+about-networking-active = Activo
+about-networking-idle = Inactivo
+about-networking-host = Servidor
+about-networking-tcp = TCP
+about-networking-sent = Ninviau
+about-networking-received = Recibiu
+about-networking-family = Familia
+about-networking-addresses = Adrezas
+about-networking-expires = Expira (segundos)
+about-networking-messages-sent = Mensaches ninviaus
+about-networking-messages-received = Mensaches recibius
+about-networking-bytes-sent = Bytes ninviaus
+about-networking-bytes-received = Bytes recibius
+
+## Link is intended as "network link"
+
+
+##
+
