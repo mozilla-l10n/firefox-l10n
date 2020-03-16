@@ -78,6 +78,7 @@ about-networking-tcp = TCP
 about-networking-sent = Anfonwyd
 about-networking-received = Derbyniwyd
 about-networking-family = Teulu
+about-networking-trr = TRR
 about-networking-addresses = Cyfeiriad
 about-networking-expires = Daw i ben (Eiliadau)
 about-networking-messages-sent = Negeseuon Anfonwyd
