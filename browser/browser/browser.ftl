@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (ব্যক্তিগত ব্ৰাউছিং)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (ব্যক্তিগত ব্ৰাউছিং)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -79,6 +63,8 @@ urlbar-web-authn-anchor =
     .tooltiptext = ৱেব প্ৰমানীকৰণ পেনেল খোলক
 urlbar-canvas-notification-anchor =
     .tooltiptext = কেনভাছ নিষ্কাশন অনুমতি পৰিচালনা কৰক
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = ছাইটৰ সৈতে আপোনাৰ মাইক্ৰ'ফোন ভগোৱাটো পৰিচালনা কৰক
 urlbar-default-notification-anchor =
     .tooltiptext = বাৰ্তা পেনেল খোলক
 urlbar-geolocation-notification-anchor =
@@ -89,6 +75,8 @@ urlbar-storage-access-anchor =
     .tooltiptext = ব্ৰাউজিং কাৰ্য্যকলাপৰ অনুমতিৰ পেনেল খোলক
 urlbar-translate-notification-anchor =
     .tooltiptext = এই পৃষ্ঠাখন অনুবাদ কৰক
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = ছাইটৰ সৈতে আপোনাৰ উইণ্ড'সমূহ বা স্ক্ৰীণ ভগোৱাটো পৰিচালনা কৰক
 urlbar-translated-notification-anchor =
     .tooltiptext = পৃষ্ঠা অনুবাদ পৰিচালনা কৰক
 urlbar-plugins-notification-anchor =
