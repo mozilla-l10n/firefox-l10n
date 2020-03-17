@@ -782,6 +782,15 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Olet FIPS-tilassa ja se vaatii pääsalasanan.
 forms-master-pw-fips-desc = Salasanan vaihto epäonnistui
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = asettaa pääsalasanan
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Historiatiedot
