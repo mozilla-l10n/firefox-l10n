@@ -54,3 +54,13 @@ close-tab =
     .title = টেব বন্ধ কৰক
 show-addon =
     .title = এড-অ'ন পৰিচালকত দেখুৱাওক
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        ল'ড হোৱাৰে পৰা ডিছপেট্‌চ: { $totalDispatches }টা ({ $totalDuration }ms)
+        অন্তিম ছেকেণ্ডত ডিছপেট্‌চ: { $dispatchesSincePrevious }টা ({ $durationSincePrevious }ms)
