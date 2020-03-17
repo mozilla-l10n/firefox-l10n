@@ -46,6 +46,7 @@ certificate-viewer-purposes = Käyttötarkoitukset
 certificate-viewer-qualifier = Tarkenne
 certificate-viewer-qualifiers = Tarkenteet
 certificate-viewer-required = Vaaditaan
+certificate-viewer-unsupported = &lt;ei tuettu&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Perustuspaikkakunta
 certificate-viewer-state-province = Paikkakunta
