@@ -43,6 +43,9 @@
 <!ENTITY preferencesCmdMac.key            ",">
 <!ENTITY preferencesCmdMac.modifiers      "accel">
 <!ENTITY servicesMenu.label               "Services">
+<!ENTITY hideThisAppCmd.label             "&brandShortName; verbergen">
+<!ENTITY hideThisAppCmd.key               "V">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
 
 
 <!ENTITY editMenu.label                   "Bewerken">
