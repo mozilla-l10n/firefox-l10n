@@ -34,6 +34,7 @@ search-input-box =
             [windows] Recercar dins Opcions
            *[other] Recercar dins Preferéncias
         }
+managed-notice = Vòstra organizacion gerís vòstre navegador.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -403,6 +404,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Començar la recèrca en picar lo tèxte
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activar lo contraròtle per l’incrustacion vidèo
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Ne saber mai
 browsing-cfr-recommendations =
     .label = Recomandar d’extensions pendent la navegacion
@@ -763,6 +767,17 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = Actualament, sètz en mòde FIPS. Lo mòde FIPS necessita un senhal principal pas void.
 forms-master-pw-fips-desc = La modificacion de senhal a pas capitat
+
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Verificatz vòstra identitat per crear un senhal principal.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = crear un senhal principal
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 

@@ -91,6 +91,7 @@ onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
+onboarding-tracking-protection-text2 = { -brand-short-name } empacha que los sites web vos pisten en linha, fa venir complicat que la publicitat vos pòsca seguir per Internet.
 onboarding-tracking-protection-button2 = Cossí fonciona
 onboarding-data-sync-title = Emportatz vòstres paramètres pertot
 # "Sync" is short for synchronize.
