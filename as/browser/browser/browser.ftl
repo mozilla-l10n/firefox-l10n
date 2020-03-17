@@ -85,12 +85,29 @@ urlbar-translated-notification-anchor =
     .tooltiptext = পৃষ্ঠা অনুবাদ পৰিচালনা কৰক
 urlbar-plugins-notification-anchor =
     .tooltiptext = প্লাগ-ইন ব্যৱহাৰ পৰিচালনা কৰক
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = ছাইটৰ সৈতে আপোনাৰ কেমেৰা আৰু/বা মাইক্ৰ'ফোন সহভাগ কৰাটো পৰিচালনা কৰক
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = স্বয়ং-চলন পেনেল খোলক
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = অপৰিৱৰ্তনীয় ষ্ট'ৰেজত ডাটা সঞ্চয় কৰক
+urlbar-addons-notification-anchor =
+    .tooltiptext = এড-অন ইনষ্টলেশ্যন বাৰ্তা পেনেল খোলক
+urlbar-tip-help-icon =
+    .title = সহায় লাভ কৰক
+urlbar-search-tips-confirm = বাৰু, বুজিলোঁ
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = কিটিপ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = কমকৈ টাইপ কৰক, বেছিকৈ বিচাৰক: আপোনাৰ ঠিকনা দণ্ডিকাৰে পৰা { $engineName } সন্ধান কৰক।
 
 ##
 
