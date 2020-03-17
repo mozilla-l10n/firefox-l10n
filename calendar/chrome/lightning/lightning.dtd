@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Spremljena poruka…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "m">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteka kalendara…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Obriši iz kalendara">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalji…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Prikaži detalje događaja">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ne prikazuj mi ove poruke">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalendar">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Idi na karticu kalendara">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Više">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za prikaz više mogućnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ponovno potvrdi">
