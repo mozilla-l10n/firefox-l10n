@@ -60,7 +60,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento scaduto">
-<!ENTITY notCached.longDesc "<p>Il documento richiesto non è disponibile nella cache.</p><ul><li>Come precauzione di sicurezza &brandShortName; non richiede nuovamente documenti sensibili.</li><li>Click su Riprova per richiedere nuovamente il documento dal sito web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Il documento richiesto non è disponibile nella cache.</p><ul><li>Come precauzione di sicurezza &brandShortName; non richiede nuovamente documenti sensibili.</li><li>Clic su Riprova per richiedere nuovamente il documento dal sito web.</li></ul>">
 
 <!ENTITY netOffline.title "Non in linea">
 <!ENTITY netOffline.longDesc2 "
