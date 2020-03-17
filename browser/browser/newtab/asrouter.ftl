@@ -143,12 +143,15 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Generador d’emprentas numericas
        *[other] Generadors d’emprentas numericas
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloca fòrça generadors d’empruntas numericas qu’amassan d‘informacions tocant vòstre periferic e vòstras accions per crear un perfil publicitari vòstre.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Generadors d’emprentas numericas
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } pòt blocar los generadors d’empruntas numericas qu’amassan d‘informacions tocant vòstre periferic e vòstras accions per crear un perfil publicitari vòstre.
 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Accedissètz a aqueste onglet de vòstre mobil estant
+cfr-doorhanger-sync-bookmarks-body = Emportatz vòstres marcapaginas, senhals, istoric e mai pertot ont vos connectat a { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
 
@@ -180,6 +183,7 @@ cfr-doorhanger-socialtracking-close-button = Tampar
 cfr-doorhanger-socialtracking-dont-show-again = Me mostrar pas mai de messatges coma aqueste
     .accesskey = d
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } a empachat un traçador de malhum social de vos pistar aquí
+cfr-doorhanger-socialtracking-description = Vòstra vida privada es importanta. Ara { -brand-short-name } bloca los elements de seguiment dels malhums socials mai populars, per limitar atal la quantitat de donadas que pòdon reculhir sus vòstra activitat en linha.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a blocat un traçador d’emprunta numerica sus aquesta pagina
 cfr-doorhanger-fingerprinters-description = Lo respècte de vòstra vida privada es important. Ara { -brand-short-name } bloca los generadors d’emprentas numericas, que reculhisson d’informacions unicas e identificablas de vòstre periferic per vos pistar.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } a blocat un minaire de criptomonedas sus aquesta pagina
