@@ -176,7 +176,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY menubarCmd.label                         "Menubalk">
-<!ENTITY menubarCmd.accesskey                     "e">
+<!ENTITY menubarCmd.accesskey                     "M">
 
 <!ENTITY customizeToolbarContext.label            "Aanpassen…">
 <!ENTITY customizeToolbarContext.accesskey        "A">
