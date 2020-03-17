@@ -22,6 +22,7 @@ policy-Bookmarks = Stvorite zabilješke u alatnoj traci zabilješki, izborniku z
 policy-CaptivePortal = Aktiviraj ili deaktiviraj podršku za prilagođenu početnu stranicu na mreži (captive portal).
 policy-CertificatesDescription = Dodaj certifikate ili koristite ugrađene certifikate.
 policy-Cookies = Dozvoli ili zabrani internetskim stranicama postavljanje kolačića.
+policy-DisabledCiphers = Omogući šifriranje.
 policy-DefaultDownloadDirectory = Postavite zadanu mapu za preuzimanje.
 policy-DisableAppUpdate = Spriječite preglednik da se ažurira.
 policy-DisableBuiltinPDFViewer = Onemogući PDF.js, ugrađeni preglednik PDF datoteka u { -brand-short-name }u.
