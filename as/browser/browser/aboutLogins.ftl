@@ -112,6 +112,14 @@ about-logins-edit-login-os-auth-dialog-message = সঞ্চিত লগিন
 about-logins-edit-login-os-auth-dialog-message-macosx = সঞ্চিত লগিন সম্পাদনা কৰক
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = সঞ্চিত পাছৱৰ্ড উন্মোচন কৰিবলৈ আপোনাৰ পৰিচয় প্ৰমাণিত কৰক।
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = সঞ্চিত পাছৱৰ্ড উন্মোচন কৰক
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = সঞ্চিত পাছৱৰ্ড কপি কৰিবলৈ আপোনাৰ পৰিচয় প্ৰমাণিত কৰক।
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = সঞ্চিত পাছৱৰ্ড কপি কৰক
 
 ## Master Password notification
 
