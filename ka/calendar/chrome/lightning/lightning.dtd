@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "გ">
 <!ENTITY lightning.menupopup.open.message.label       "შენახული გზავნილი…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "გ">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "კალენდრის ფაილი…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "ლ">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "კალენდრიდან წაშლა">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "ვრცლად…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "ღონისძიების მონაცემების ნახვა">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "მომავალში ჩვენების გარეშე">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "კალენდარი">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "გადასვლა კალენდრის ჩანართზე">
 <!ENTITY lightning.imipbar.btnMore.label                                    "სხვა">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "დააწკაპეთ, დამატებითი პარამეტრების სანახავად">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "ხელახლა დადასტურება">
