@@ -123,6 +123,10 @@ newtab-label-removed-bookmark = Marcapaginas suprimit
 newtab-label-recommended = Tendéncia
 newtab-label-saved = Pagina enregistrada dins { -pocket-brand-name }
 newtab-label-download = Telecargat
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Pairinejat
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -140,6 +144,10 @@ newtab-section-menu-privacy-notice = Politica de confidencialitat
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Reduire la seccion
+newtab-section-expand-section-label =
+    .aria-label = Desplegar la seccion
 
 ## Section Headers.
 
