@@ -75,6 +75,9 @@ abuse-report-broken-reason-theme = کار نمی‌کند یا چهرهٔ مرو
 abuse-report-broken-reason-extension-v2 = کار نمی کند، وب سایت‌ها را خراب می‌کند، یا سرعت { -brand-product-name } را کاهش می دهد
 abuse-report-broken-reason-theme-v2 = کار نمی‌کند یا چهرهٔ مرورگر را خراب می‌کند
 abuse-report-broken-example = مثال: امکانات کند، غیر قابل استفاده و یا کار نمی‌کنند. قسمت‌هایی از وب‌سایت‌ها بارگیری نمی‌شوند یا غیرعادی به نظر می‌رسند
+abuse-report-broken-suggestions-extension =
+    به نظر می رسد شما یک اشکال را شناسایی کرده‌اید. علاوه بر ثبت گزارش در اینجا، بهترین راه برای حل مسئله عملکرد، تماس با توسعه دهنده افزونه است.
+    برای دریافت اطلاعات توسعه‌دهنده به<a data-l10n-name="support-link"> وب سایت افزونه</a> مراجعه کنید.
 abuse-report-policy-reason = محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
 abuse-report-policy-reason-v2 = حاوی محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
 abuse-report-policy-suggestions =
