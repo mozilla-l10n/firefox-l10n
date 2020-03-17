@@ -7,5 +7,7 @@ fxa-toolbar-sync-syncing =
 fxa-toolbar-sync-syncing-tabs =
     .label = همگام‌سازی زبانه‌ها…
 sync-disconnect-dialog-title = قطع ارتباط با { -sync-brand-short-name }؟
+sync-disconnect-dialog-body = { -brand-product-name } همگام‌سازی با حساب شما را متوقف می‌کند اما هیچ یک از داده‌های مرور شما بر روی این دستگاه را پاک نخواهد کرد.
 fxa-disconnect-dialog-title = قطع ارتباط با { -brand-product-name }؟
+fxa-disconnect-dialog-body = { -brand-product-name } اتصال با حساب شما را قطع می‌کند اما هیچ یک از داده‌های مرور شما بر روی این دستگاه را پاک نخواهد کرد.
 sync-disconnect-dialog-button = قطع ارتباط

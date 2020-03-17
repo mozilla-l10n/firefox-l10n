@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = گزارش برای { $addon-name }
 abuse-report-title-extension = گزارش این افزونه به { -vendor-short-name }
 abuse-report-title-theme = گزارش این تم به { -vendor-short-name }
 abuse-report-subtitle = موضوع چیست؟
@@ -10,6 +17,8 @@ abuse-report-subtitle = موضوع چیست؟
 abuse-report-addon-authored-by = توسط <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore = مطمئن نیستید چه مسئله ای را انتخاب کنید؟<a data-l10n-name="learnmore-link"> درباره گزارش افزونه‌ها و مضامین بیشتر بیاموزید</a>
 abuse-report-submit-description = توضیح مسئله (اختیاری)
+abuse-report-textarea =
+    .placeholder = اگر مشخصات دقیق را داشته باشیم حل مشکل برای ما ساده‌تر می‌گردد. لطفا چیزی که تجربه می‌کنید را با ما در میان بگذارید. از کمک شما برای سالم نگه‌داشتن وب تشکر می‌کنیم.
 
 ## Panel buttons.
 
@@ -51,6 +60,7 @@ abuse-report-broken-reason-extension = کار نمی کند، وب سایت‌ه
 abuse-report-broken-reason-theme = کار نمی‌کند یا چهرهٔ مرورگر را خراب می‌کند
 abuse-report-broken-example = مثال: امکانات کند، غیر قابل استفاده و یا کار نمی‌کنند. قسمت‌هایی از وب‌سایت‌ها بارگیری نمی‌شوند یا غیرعادی به نظر می‌رسند
 abuse-report-policy-reason = محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
+abuse-report-policy-reason-v2 = حاوی محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
 abuse-report-policy-suggestions =
     توجه: مسائل مربوط به کپی رایت و مارک تجاری باید در یک فرآیند جداگانه گزارش شود.
     برای گزارش مشکل از این<a data-l10n-name="report-infringement-link"> دستورالعمل‌ها </a>استفاده کنید
