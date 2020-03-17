@@ -46,7 +46,22 @@
 <!ENTITY hideThisAppCmd.label             "&brandShortName; verbergen">
 <!ENTITY hideThisAppCmd.key               "H">
 <!ENTITY hideThisAppCmd.modifiers         "accel">
+<!ENTITY hideOtherAppsCmd.label           "Andere verbergen">
+<!ENTITY hideOtherAppsCmd.key             "H">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
+<!ENTITY showAllAppsCmd.label             "Alles tonen">
+<!ENTITY openHelpCmdMac.label             "&brandShortName; Help">
+<!ENTITY openHelpCmdMac.accesskey         "H">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
 
+<!ENTITY quitApplicationCmd.label         "Afsluiten">
+<!ENTITY quitApplicationCmd.key           "Q">
+<!ENTITY quitApplicationCmd.accesskey     "s">
+<!ENTITY quitApplicationCmdMac.label      "&brandShortName; afsluiten">
+<!ENTITY quitApplicationCmdMac.accesskey  "a">
+<!ENTITY quitApplicationCmdUnix.label     "Afsluiten">
+<!ENTITY quitApplicationCmdUnix.accesskey "A">
 
 <!ENTITY editMenu.label                   "Bewerken">
 <!ENTITY editMenu.accesskey               "w">
@@ -55,6 +70,7 @@
 <!ENTITY undoCmd.accesskey                "O">
 <!ENTITY redoCmd.label                    "Opnieuw uitvoeren">
 <!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmdMac.key                   "Z">
 <!ENTITY redoCmd.accesskey                "u">
 <!ENTITY cutCmd.label                     "Knippen">
 <!ENTITY cutCmd.key                       "X">
@@ -89,6 +105,9 @@
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "Z">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "e">
 <!ENTITY findAgainCmd.label "Opnieuw zoeken">
 <!ENTITY findAgainCmd.key "G">
@@ -99,8 +118,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findTypeTextCmd.label "Tekst zoeken terwijl u typt">
+<!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeTextCmd.accesskey "T">
 <!ENTITY findTypeLinksCmd.label "Koppelingen zoeken terwijl u typt">
+<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "l">
 
 <!ENTITY viewMenu.label                   "Beeld">
@@ -115,7 +136,14 @@
 
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
+<!ENTITY helpMenuWin.label                "Help">
+<!ENTITY helpMenuWin.accesskey            "H">
+<!ENTITY openHelpCmd.label                "Helpinhoud">
+<!ENTITY openHelpCmd.accesskey            "H">
+<!ENTITY openHelpCmd.key                  "VK_F1">
 
+<!ENTITY helpForIEUsers.label               "Voor Internet Explorer-gebruikers">
+<!ENTITY helpForIEUsers.accesskey           "I">
 <!ENTITY helpTroubleshootingInfo.label      "Probleemoplossingsinformatie">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 <!ENTITY releaseCmd.label                   "Uitgaveopmerkingen">
@@ -147,6 +175,8 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "s">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY menubarCmd.label                         "Menubalk">
+<!ENTITY menubarCmd.accesskey                     "e">
 
 <!ENTITY customizeToolbarContext.label            "Aanpassen…">
 <!ENTITY customizeToolbarContext.accesskey        "A">
