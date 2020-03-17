@@ -22,6 +22,7 @@ policy-Bookmarks = Emoheñói techaukaha tembipuru renda rechaukahápe, pe techa
 policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eipuru mboajepyre moingepyre.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
+policy-DisabledCiphers = Embogue papapy.
 policy-DefaultDownloadDirectory = Emoha’eño marandurenda mboguejerã ijypykuéva.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
 policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -brand-short-name } ndive.

@@ -782,6 +782,17 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Ko'ag̃aite oĩhína FIPS rekópe. FIPS oikotevẽ ñe'ẽñemiete inandi'ỹva.
 forms-master-pw-fips-desc = Ñe'ẽñemi moambue jejavy
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Ehechajey nde reraite emoheñói hag̃ua ñe’ẽñemi ha’etéva.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = emoheñói ñe’ẽñemi ha’etéva
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Tembiasakue
