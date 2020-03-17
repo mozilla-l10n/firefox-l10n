@@ -78,11 +78,15 @@ abuse-report-broken-example = مثال: امکانات کند، غیر قابل 
 abuse-report-broken-suggestions-extension =
     به نظر می رسد شما یک اشکال را شناسایی کرده‌اید. علاوه بر ثبت گزارش در اینجا، بهترین راه برای حل مسئله عملکرد، تماس با توسعه دهنده افزونه است.
     برای دریافت اطلاعات توسعه‌دهنده به<a data-l10n-name="support-link"> وب سایت افزونه</a> مراجعه کنید.
+abuse-report-broken-suggestions-theme =
+    به نظر می رسد شما یک اشکال را شناسایی کرده‌اید. علاوه بر ثبت گزارش در اینجا، بهترین راهبرای حل مسئله عملکرد، تماس با توسعه دهنده تم است.
+    برای دریافت اطلاعات توسعه‌دهنده به <a data-l10n-name="support-link">وب سایت تم</a> مراجعه کنید.
 abuse-report-policy-reason = محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
 abuse-report-policy-reason-v2 = حاوی محتوای نفرت انگیز، خشونت آمیز یا غیرقانونی
 abuse-report-policy-suggestions =
     توجه: مسائل مربوط به کپی رایت و مارک تجاری باید در یک فرآیند جداگانه گزارش شود.
     برای گزارش مشکل از این<a data-l10n-name="report-infringement-link"> دستورالعمل‌ها </a>استفاده کنید
 abuse-report-unwanted-reason = هرگز این افزونه را نمی‌خواستید و نمی‌توانید از شر آن خلاص شوید
+abuse-report-unwanted-reason-v2 = هرگز این افزونه را نمی‌خواستم و نمی‌دانم چگونه از شر آن خلاص بشوم
 abuse-report-unwanted-example = مثال: برنامه‌ای بدون اجازه من آن را نصب کرده است
 abuse-report-other-reason = موارد دیگر

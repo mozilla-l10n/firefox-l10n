@@ -32,5 +32,5 @@ screenshots-self-screenshot-error-title = نمی‌توانید از صفحهٔ 
 screenshots-empty-selection-error-title = انتخاب شما خیلی کوچک است
 screenshots-private-window-error-title = در حالت مرور خصوصی تصاویرصفحه غیرفعال است
 screenshots-private-window-error-details = به خاطر مزاحمت متاسفیم. ما در حال کار روی این ویژگی برای انتشار‌های آینده هستیم.
-screenshots-generic-error-title = اوه! سرویس تصاویر صفحه فایرفاکس قاطی کرده.
+screenshots-generic-error-title = اوه! { -screenshots-brand-name } درست کار نمی‌کند.
 screenshots-generic-error-details = مطمئن نیستیم چه اتفاقی افتاده است. می‌خواهید دوباره امتحان کنید یا از یک صفحهٔ دیگر عکس بگیرید؟
