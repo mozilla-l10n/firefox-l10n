@@ -29,7 +29,7 @@
 <!ENTITY urlbar.label "Ctrl+Enter in de locatiebalk">
 <!ENTITY urlbar.accesskey "L">
 <!ENTITY urlbarMac.label "&#8984;+Return in de locatiebalk">
-<!ENTITY urlbarMac.accesskey "L">
+<!ENTITY urlbarMac.accesskey "l">
 
 <!ENTITY openManagers.label "In een nieuw tabblad openen in plaats van in een onafhankelijk venster">
 <!ENTITY openDataManager.label "Gegevensbeheerder">
