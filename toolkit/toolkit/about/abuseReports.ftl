@@ -46,12 +46,25 @@ abuse-report-messagebar-error-recent-submit = Lo senhalament de <span data-l10n-
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = Òc, la suprimir
+abuse-report-messagebar-action-keep-extension = Non, la gardarai
 abuse-report-messagebar-action-remove-theme = Òc, la suprimir
+abuse-report-messagebar-action-keep-theme = Non, lo gardarai
+abuse-report-messagebar-action-retry = Tornar ensajar
 abuse-report-messagebar-action-cancel = Anullar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-example = Exemple : logicial malvolent introduch o donada panada
+abuse-report-spam-reason = Crèa d'spma o de pubicitat
+abuse-report-spam-reason-v2 = Conten d'spam e de publicitat non desirada
 abuse-report-spam-example = Exemple : inserís publicitats sus las paginas web
+abuse-report-settings-reason = A cambiat mon motor de recèrca, pagina d’acuèlh, o d'onglets nòus sens m'avertir o me demandar
+abuse-report-settings-reason-v2 = A cambiat mon motor de recèrca, pagina d’acuèlh, o d’onglets nòus sens m'avertir o me demandar
+abuse-report-settings-suggestions = Abans de senhalar l’extension, podètz enssajar de modificar vòstres paramètres :
+abuse-report-settings-suggestions-search = Càmbia vòstres paramètres de recèrca per defaut
+abuse-report-settings-suggestions-homepage = Càmbia vòstra pagina d’acuèlh e d’onglet nòu
+abuse-report-deceptive-reason = Pretend èsser quicòm qu’es pas
+abuse-report-deceptive-reason-v2 = Pretend èsser quicòm qu’es pas
 abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
 abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
 abuse-report-other-reason = Quicòm mai
