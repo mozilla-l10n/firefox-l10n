@@ -26,6 +26,8 @@ menu =
     .title = Odpri meni
 # This menuitem is only visible on Windows
 menu-menuitem-import = Uvozi gesla ...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Uvozi iz drugega brskalnika …
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -86,10 +88,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopiraj
 login-item-copied-username-button-text = Kopirano!
 login-item-password-label = Geslo
-login-item-password-reveal-checkbox-show =
-    .title = Prikaži geslo
-login-item-password-reveal-checkbox-hide =
-    .title = Skrij geslo
 login-item-password-reveal-checkbox =
     .aria-label = Prikaži geslo
 login-item-copy-password-button-text = Kopiraj
@@ -100,6 +98,15 @@ login-item-cancel-button = Prekliči
 login-item-time-changed = Zadnja sprememba: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Ustvarjeno: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Nazadnje uporabljeno: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 

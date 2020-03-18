@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nastavi, do katerih pravilnikov lahko dostopajo razširitve WebExtensions preko chrome.storage.managed.
+policy-AppAutoUpdate = Omogoči ali onemogoči samodejne posodobitve programa.
 policy-AppUpdateURL = Nastavi poljuben URL za posodobitve programa.
 policy-Authentication = Nastavi integrirano overjanje za spletne strani, ki ga podpirajo.
 policy-BlockAboutAddons = Zavrni dostop do upravitelja dodatkov (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Nastavi privzeto vrednost, ki dovoljuje shranj
 policy-OverrideFirstRunPage = Preglasi stran prvega zagona. Če želite onemogočiti prikaz strani prvega zagona, nastavite pravilnik na prazno vrednost.
 policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po posodobitvi. Če želite onemogočiti prikaz strani po posodobitvi, nastavite pravilnik na prazno vrednost.
 policy-PasswordManagerEnabled = Omogoči shranjevanje gesel v upravitelja gesel.
-policy-Permissions = Nastavi dovoljenja za kamero, mikrofon, lokacijo in obvestila.
 policy-Permissions2 = Nastavi dovoljenja za kamero, mikrofon, lokacijo, obvestila in samodejno predvajanje.
 policy-PopupBlocking = Določenim spletnim stranem dovoli privzeto prikazovanje pojavnih oken.
 policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
