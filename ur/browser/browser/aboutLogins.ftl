@@ -59,6 +59,8 @@ about-logins-login-list-empty-search-description = آپ کی تلاش سے مم�
 login-list-item-title-new-login = نیا لاگ ان
 login-list-item-subtitle-new-login = لاگ ان کی سندیں درج کریں۔
 login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
+about-logins-list-item-breach-icon =
+    .title = خلاف ورزی کرنے والی ویب سائٹیں
 
 ## Introduction screen
 
