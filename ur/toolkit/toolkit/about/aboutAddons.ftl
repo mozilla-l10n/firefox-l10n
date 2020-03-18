@@ -270,18 +270,66 @@ go-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = مزید سیکھیں
+install-theme-button = تھیم انسٹال کریں
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = بندوبست کریں
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = مزید اختیارات
 
 ## Add-on actions
 
+report-addon-button = ‎رپورٹ کریں
+remove-addon-button = ہٹائیں
 disable-addon-button = غیر فعال
 enable-addon-button = فعال
+expand-addon-button = مزید اختیارات
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = فعال کریں
+details-addon-button = تفصیلات
+release-notes-addon-button = اجرائی نوٹ
+permissions-addon-button = اجازتیں
 addons-enabled-heading = فعال
 addons-disabled-heading = غیر فعال
+extension-enabled-heading = اہل بنایا گیا
+extension-disabled-heading = نااہل
+theme-enabled-heading = اہل
+theme-disabled-heading = نااہل
+plugin-enabled-heading = اہل
+plugin-disabled-heading = نااہل
+dictionary-enabled-heading = اہل
+dictionary-disabled-heading = نااہل
+locale-enabled-heading = اہل
+locale-disabled-heading = نااہل
+ask-to-activate-button = عمل میں لانے کے لیے پوچھیں
+always-activate-button = ہمیشہ متحرک کریں
+never-activate-button = کبھی متحرک نہ کریں
+addon-detail-author-label = مصنف
+addon-detail-version-label = ورژن
+addon-detail-last-updated-label = آخری تازہ کاری
+addon-detail-homepage-label = ابتدائی صفحہ
+addon-detail-rating-label = شرح کاری
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = کالعدم کریں
+addon-detail-updates-radio-default = طے شدہ
 addon-detail-updates-radio-on = آن کریں
 addon-detail-updates-radio-off = بند کریں
+addon-detail-update-check-label = تازہ کاریوں کے لیے پڑتال کریں
+install-update-button = تازہ کاری کریں
+addon-detail-private-browsing-allow = اجازت دیں
+addon-detail-private-browsing-disallow = اجازت مت دیں
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = تجویز کردہ
+    .alt = تجویز کردہ
+recent-updates-heading = حالیہ تازہ کاریاں
 
 ## Page headings
 
