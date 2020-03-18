@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Приватний перегляд)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Приватний перегляд)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -242,13 +226,13 @@ identity-remove-cert-exception =
     .accesskey = В
 identity-description-insecure = Ваше з'єднання з цим сайтом не є приватним. Інформація, яку ви відправляєте може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
 identity-description-insecure-login-forms = Введені на цій сторінці дані входу не захищені і можуть бути перехоплені.
-identity-description-weak-cipher-intro = Ваше з'єднання з цим веб-сайтом використовує слабке шифрування і не є приватним.
-identity-description-weak-cipher-risk = Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.
+identity-description-weak-cipher-intro = Ваше з'єднання з цим вебсайтом використовує слабке шифрування і не є приватним.
+identity-description-weak-cipher-risk = Інші люди можуть переглядати вашу інформацію чи змінювати поведінку вебсайту.
 identity-description-active-blocked = { -brand-short-name } заблокував незахищені частини цієї сторінки. <label data-l10n-name="link">Докладніше</label>
 identity-description-passive-loaded = Ваше з'єднання не є приватним й інформація, якою ви ділитесь з сайтом може бути переглянута іншими.
 identity-description-passive-loaded-insecure = Цей вебсайт містить незахищений вміст (наприклад, зображення). <label data-l10n-name="link">Докладніше</label>
 identity-description-passive-loaded-mixed = Хоча { -brand-short-name } заблокував деякий вміст, на сторінці все ще є незахищений вміст (наприклад, зображення). <label data-l10n-name="link">Докладніше</label>
-identity-description-active-loaded = Цей веб-сайт має вміст, що не є безпечним (наприклад, сценарії) і ваше з'єднання з ним не є приватним.
+identity-description-active-loaded = Цей вебсайт має вміст, що не є безпечним (наприклад, сценарії) і ваше з'єднання з ним не є приватним.
 identity-description-active-loaded-insecure = Інформація, якою ви ділитесь з цим сайтом, може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).
 identity-learn-more =
     .value = Докладніше
