@@ -52,6 +52,7 @@ fingerprinter-tab-title = Yksilöijät
 fingerprinter-tab-content = Yksilöijät keräävät asetustietoja selaimestasi sekä tietokoneestasi ja luovat näiden tietojen avulla profiilin sinusta. Tätä digitaalista sormenjälkeä hyödyntämällä sinua voidaan seurata eri verkkosivustojen välillä. <a data-l10n-name="learn-more-link">Lue lisää</a>
 cryptominer-tab-title = Kryptolouhijat
 cryptominer-tab-content = Kryptolouhijat käyttävät tietokoneesi laskentatehoa digitaalisen rahan louhintaan. Kryptolouhintaan tarkoitetut komentosarjat kuluttavat tietokoneen akkua, hidastavat tietokonetta ja voivat vaikuttaa sähkölaskun loppusummaan. <a data-l10n-name="learn-more-link">Lue lisää</a>
+mobile-app-links = { -brand-product-name }-selain <a data-l10n-name="android-mobile-inline-link">Androidille</a> ja <a data-l10n-name="ios-mobile-inline-link">iOS:lle</a>
 lockwise-title = Lopeta salasanojen unohtaminen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } tallentaa salasanasi turvallisesti selaimeesi.
@@ -61,6 +62,7 @@ protection-report-view-logins-button = Näytä kirjautumistiedot
 lockwise-no-logins-content = Hanki <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-sovellus ja ota salasanat mukaasi minne menetkin.
 lockwise-mobile-app-title = Ota salasanasi mukaan kaikkialle
 lockwise-no-logins-card-content = Käytä { -brand-short-name }-selaimeen tallennettuja salasanoja missä tahansa laitteessa.
+lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Androidille</a> ja <a data-l10n-name="lockwise-ios-inline-link">iOS:lle</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
