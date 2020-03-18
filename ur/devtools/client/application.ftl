@@ -58,6 +58,9 @@ manifest-icon-purpose = مقصد:  <code>{ $purpose }</code>
 # manifest.
 manifest-icon-img =
     .alt = آئکن
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = غیر متعینہ سائز کا آئیکن
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
     .alt = خرابی کا آئیکن
