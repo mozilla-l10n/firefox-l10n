@@ -14,6 +14,7 @@ cookie-tab-title = क्रॉस-साइट ट्रैकिंग कु�
 tracker-tab-title = ट्रैकिंग सामग्री
 fingerprinter-tab-title = फिंगरप्रिंटर
 cryptominer-tab-title = क्रिप्टोमाइनर
+mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> और <a data-l10n-name="ios-mobile-inline-link">iOS</a> के लिए { -brand-product-name } ब्राउज़र
 lockwise-title = पासवर्ड फिर कभी न भूलें
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } आपके पासवर्ड को आपके ब्राउज़र में सुरक्षित रूप से संग्रहीत करता है।

@@ -722,6 +722,17 @@ forms-master-pw-change =
 forms-master-pw-fips-title = आप अभी FIPS मोड में हैं. FIPS के लिये गैर रिक्त मुख्य कूटशब्द चाहिए.
 forms-master-pw-fips-desc = कूटशब्द बदलाव विफल
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = मास्टर पासवर्ड बनाने के लिए अपनी पहचान सत्यापित करें।
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = एक मास्टर पासवर्ड बनाएं
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = इतिहास
