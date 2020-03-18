@@ -86,6 +86,7 @@ newtab-menu-show-privacy-info = Nòstres esponsòrs e vòstra vida privada
 
 newtab-privacy-modal-button-done = Acabat
 newtab-privacy-modal-header = Vòstra vida privada es importanta.
+newtab-privacy-modal-paragraph-2 = En mai de contar d'istòrias pivelantas, vos mostram tanben de contengut pertinent e nautamant verificat d'esponsòrs seleccionats. Tranquilisatz-vos, <strong>vòstras donadas de navegacion sortisson pas jamai de vòstra còpia personala de { -brand-product-name } </strong> - la vejam pas, e tanpauc nòstres esponsòrs.
 newtab-privacy-modal-link = Ne saber mai sul respècte de la vida privada dins un onglet novèl
 
 ##
@@ -160,6 +161,10 @@ newtab-section-header-pocket = Recomandat per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Començatz de navegar e aquí vos mostrarem los melhors articles, vidèos e autras paginas qu’avètz visitadas o apondudas als marcapaginas.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Sètz a jorn. Tornatz mai tard per descobrir mai d’articles de tria de { $provider }. Podètz pas esperar ? Causissètz un subjècte popular per trapar mai d’aarticles d'interès sul Web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -178,6 +183,7 @@ newtab-pocket-more-recommendations = Mai de recomandacions
 newtab-pocket-whats-pocket = Qu’es aquò { -pocket-brand-name } ?
 newtab-pocket-learn-more = Ne saber mai
 newtab-pocket-cta-button = Installar { -pocket-brand-name }
+newtab-pocket-cta-text = Enregistratz vòstres articles preferits dins { -pocket-brand-name } e garissètz vòstre esperit amb de lecturas fascinantas.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
