@@ -175,12 +175,14 @@ cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
 ## Send Tab
 
 cfr-doorhanger-send-tab-recipe-header = Emportatz aquesta recepta a la cosina
+cfr-doorhanger-send-tab-body = « Enviar l’onglet » vos permet de partejar aisidament aqueste ligam sus vòstre mobil o pertot ont siatz connectat a { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Ensajatz d’enviar un onglet
     .accesskey = t
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Partejatz aqueste PDF de forma segura
+cfr-doorhanger-firefox-send-body = Gardatz vòstres documents sensibles a l'abric dels agaches indiscrèts amb un chiframent del cap a la fin e un ligam que dispareis quand avètz acabat.
 cfr-doorhanger-firefox-send-ok-button = Ensajatz { -send-brand-name }
     .accesskey = t
 

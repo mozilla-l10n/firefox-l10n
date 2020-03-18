@@ -67,11 +67,14 @@ onboarding-sync-form-sub-header = per contunhar amb { -sync-brand-name }.
 ## description.
 
 onboarding-benefit-products-title = Produches utils
+onboarding-benefit-products-text = Melhoratz la productiviatat amb una familha d'aisinas que respèctan vòstra vida privada sus totes vòstres periferics.
 onboarding-benefit-knowledge-title = Coneissenças practicas
+onboarding-benefit-knowledge-text = Aprenètz tot çò que devètz saber per navegar de biais mai intelligent e segur
 onboarding-benefit-privacy-title = Vertadièra vida privada
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Emportatz vòstres marcapaginas, senhals, istoric e mai pertot ont utilizatz { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Recebètz una notification quand vòstras informacions personalas se trapan dins una violacion de donadas coneguda.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }{ -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gerissètz vòstres senhals protegits e portables.
 
@@ -87,6 +90,7 @@ onboarding-private-browsing-text = Navegatz sol. La navegacion privada amb lo bl
 onboarding-screenshots-title = Capturas d'ecran
 onboarding-screenshots-text = Prene, enregistrar e partejar de capturas d'ecran — sens quitar { -brand-short-name }. Capturatz una zòna o una pagina entièra quand navigatz. Puèi enregistratz-la en linha per un accès e partatge aisits.
 onboarding-addons-title = Moduls complementaris
+onboarding-addons-text = Apondètz encara mai de foncionalitats a { -brand-short-name } per que faga mai causas. Comparatz los prèses, veire la meteo o exprimir vòstra personalitat amb un tèma personalizat.
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
