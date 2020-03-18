@@ -38,6 +38,9 @@ serviceworker-worker-status-stopped = رکا ہوا
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = رجسٹر کر رہا ہے
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = یہاں معائنہ کرنے کیلئے آپ کو سروس ورکر کو رجسٹر کرنے کی ضرورت ہے۔ <a> مزید جانیں </a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = نقائص اور انتباہات
 # Header for the Identity section of Manifest inspection displayed in the application panel.

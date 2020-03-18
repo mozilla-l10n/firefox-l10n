@@ -4,6 +4,8 @@
 
 head-title = تخلیق کار ٹول کے بارے میں
 enable-title = Firefox تخلیق کار ٹول کو فعال بناۓ
+enable-inspect-element-title = عنصر کو معائنہ کرنے کیلئے Firefox ڈویلپر ٹولز کو فاعال بنائیں
+enable-inspect-element-message = ڈیولپر ٹولز ’انسپکٹر کے ساتھ ایچ ٹی ایم ایل اور سی ایس ایس کی جانچ اور تدوین کریں۔
 enable-close-button = یہ ٹیب بند کریں
 newsletter-title = Mozilla ڈویلپر نیوز لیٹر
 newsletter-email-placeholder =
