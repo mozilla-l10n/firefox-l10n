@@ -270,6 +270,7 @@ go-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = مزید سیکھیں
+privacy-policy = رازداری پالیسی
 install-theme-button = تھیم انسٹال کریں
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
@@ -329,7 +330,9 @@ addon-detail-private-browsing-disallow = اجازت مت دیں
 addon-badge-recommended =
     .title = تجویز کردہ
     .alt = تجویز کردہ
+available-updates-heading = دستیاب تازہ کاریاں
 recent-updates-heading = حالیہ تازہ کاریاں
+release-notes-loading = لوڈ ہو رہا ہے…
 
 ## Page headings
 
