@@ -14,7 +14,7 @@ find = ढ़ूँढ़ें
 new-tab = नया टैब
 add-bookmark = बुकमार्क जोड़ें
 open-bookmarks-sidebar = बुकमार्क साइडबार खोलें
-reader-view = पाठक परिदृश्य
+reader-view = पाठक विचार
 # Meant to match the string displayed in an empty URL bar.
 open-location = खोजें या पता दर्ज करें
 share = साझा करें
