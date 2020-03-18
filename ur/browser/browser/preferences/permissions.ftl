@@ -16,7 +16,7 @@ permissions-session =
     .label = سیشن کے لیے اجازت دیں
     .accesskey = S
 permissions-allow =
-    .label = ہونے دیں
+    .label = اجازت دیں
     .accesskey = A
 permissions-site-name =
     .label = ويب سائٹ
@@ -44,13 +44,13 @@ permissions-capabilities-autoplay-block =
 permissions-capabilities-autoplay-blockall =
     .label = آڈیو اور ویڈیو کو مسدود کریں
 permissions-capabilities-allow =
-    .label = ہونے دیں
+    .label = اجازت دیں
 permissions-capabilities-block =
     .label = بلاک کریں
 permissions-capabilities-prompt =
     .label = ہمیشہ پوچھیں
 permissions-capabilities-listitem-allow =
-    .value = ہونے دیں
+    .value = اجازت دیں
 permissions-capabilities-listitem-block =
     .value = بلاک کریں
 permissions-capabilities-listitem-allow-session =
@@ -95,7 +95,7 @@ permissions-exceptions-saved-logins-desc = درج ذیل ویب سائٹس کے 
 permissions-exceptions-addons-window =
     .title = اجازت دار ویب سائٹیں - ایڈ اون انسٹالیشن
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں وابستہ دریچے کھولنے کےلیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر 'ہونے دیں' پر کلک کریں۔
+permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں وابستہ دریچے کھولنے کےلیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر 'اجازت دیں' پر کلک کریں۔
 
 ## Exceptions - Autoplay Media
 
