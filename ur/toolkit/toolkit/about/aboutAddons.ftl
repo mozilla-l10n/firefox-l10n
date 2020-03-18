@@ -291,6 +291,11 @@ expand-addon-button = مزید اختیارات
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = فعال کریں
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] اختیارات
+       *[other] ترجیحات
+    }
 details-addon-button = تفصیلات
 release-notes-addon-button = اجرائی نوٹ
 permissions-addon-button = اجازتیں
