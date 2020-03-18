@@ -22,6 +22,7 @@ policy-Bookmarks = Yer imleri araç çubuğunda, yer imleri menüsünde veya bun
 policy-CaptivePortal = Kısıtlama portali desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
+policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
 policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF göstericisi olan PDF.js'i devre dışı bırak.
