@@ -16,9 +16,13 @@ certificate-viewer-certificate-authority = Cơ quan cấp chứng chỉ
 certificate-viewer-cipher-suite = Bộ mật mã
 certificate-viewer-common-name = Tên gọi chung
 certificate-viewer-email-address = Địa chỉ email
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Quốc gia hợp nhất
 certificate-viewer-country = Quốc gia
 certificate-viewer-curve = Đường cong
 certificate-viewer-dns-name = Tên DNS
+certificate-viewer-ip-address = Địa chỉ IP
+certificate-viewer-other-name = Tên khác
 certificate-viewer-exponent = Chỉ số
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Nhóm trao đổi khóa
@@ -41,6 +45,9 @@ certificate-viewer-purposes = Mục đích
 certificate-viewer-qualifier = Hạn định
 certificate-viewer-qualifiers = Hạn định
 certificate-viewer-required = Bắt buộc
+certificate-viewer-unsupported = &lt;không được hỗ trợ&gt;
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Nhà nước/tỉnh hợp nhất
 certificate-viewer-state-province = Tỉnh
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
