@@ -32,12 +32,14 @@ protection-report-header-details-custom = Lo nivèl de proteccion es reglat sus 
 protection-report-page-title = Proteccion de la vida privada
 protection-report-content-title = Proteccions de la vida privada
 etp-card-title = Proteccion contra lo seguiment renfortida
+etp-card-content = Los traçadors vos pistan en linha per reculhir d’informacions sus vòstras abituds de navegacion e vòstres interèsses. { -brand-short-name } bloca fòrça d’aqueles elements de seguiment e scripts malvolents.
 protection-report-etp-card-content-custom-not-blocking = Actualament totas las proteccions son desactivadas. Causissètz quins traçadors blocar en gerir vòstres paramètres de proteccion de { -brand-short-name }.
 protection-report-manage-protections = Gerir los paramètres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Uèi
 social-tab-title = Traçadors de malhums socials
+social-tab-contant = Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiá de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social. <a data-l10n-name="learn-more-link">Ne saber mai</a>
 cookie-tab-title = Cookies de seguiment entresites
 tracker-tab-title = Contengut utilizat pel seguiment
 fingerprinter-tab-title = Generadors d’emprentas numericas
