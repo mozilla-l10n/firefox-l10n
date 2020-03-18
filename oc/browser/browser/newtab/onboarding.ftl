@@ -92,6 +92,7 @@ onboarding-screenshots-text = Prene, enregistrar e partejar de capturas d'ecran 
 onboarding-addons-title = Moduls complementaris
 onboarding-addons-text = Apondètz encara mai de foncionalitats a { -brand-short-name } per que faga mai causas. Comparatz los prèses, veire la meteo o exprimir vòstra personalitat amb un tèma personalizat.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Navegatz de biais mai rapid, intelligent o segur amb d'extensions coma Ghostery, que vos permet de blocar las publicitats anujosas.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
 onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
@@ -116,7 +117,12 @@ onboarding-mobile-phone-text = Telecargatz { -brand-product-name } per iOS o And
 # browser.
 onboarding-mobile-phone-button = Telecargar lo navegador mobil
 onboarding-send-tabs-title = Enivatz-vos d’onglets
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Partejatz aisidament de paginas entre vòstres periferics sens aver a copiar los ligams o quitar lo navegador.
 onboarding-send-tabs-button = Començar d’utilizar « Enviar l’onglet »
+onboarding-pocket-anywhere-title = Legissètz e escotatz pertot
+onboarding-pocket-anywhere-text2 = Enregistratz vòstre contengut preferit fòra linha amb l’aplicacion { -pocket-brand-name } per lo legir, escotar e gaitar quand vos agrada.
 onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Emportatz vòstres senhals pertot
 onboarding-lockwise-passwords-text2 = Gardatz segurs los senhals qu’enregistratz e connectatz-vos facilament a vòstres comptes amb { -lockwise-brand-name }.
@@ -128,6 +134,7 @@ onboarding-facebook-container-title = Botatz de limitas amb Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } garda vòstre perfil separat de la rèsta, fa venir mai dificil per Facebook de vos ciblar amb de publicitats personalizadas.
 onboarding-facebook-container-button = Apondre l’extension
 onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senhals, e encara mai
+onboarding-import-browser-settings-text = Emportatz aisidament vòstres sites e paramètres Chrome.
 onboarding-import-browser-settings-button = Importar las donadas de Chrome
 
 ## Message strings belonging to the Return to AMO flow

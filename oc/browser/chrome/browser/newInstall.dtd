@@ -9,5 +9,6 @@
 
 <!ENTITY window.title "Novetats importantas">
 <!ENTITY window.style "width: 490px">
+<!ENTITY sync "Per sincronizar las informacions qu'avètz ja registradas dins Firefox amb aquesta installacion de &brandShortName;, connectatz-vos amb vòstre &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Contunhar">
 
