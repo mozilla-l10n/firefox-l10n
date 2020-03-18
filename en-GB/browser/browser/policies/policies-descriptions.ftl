@@ -22,6 +22,7 @@ policy-Bookmarks = Create bookmarks in the Bookmarks toolbar, Bookmarks menu, or
 policy-CaptivePortal = Enable or disable captive portal support.
 policy-CertificatesDescription = Add certificates or use built-in certificates.
 policy-Cookies = Allow or deny web sites to set cookies.
+policy-DisabledCiphers = Disable ciphers.
 policy-DefaultDownloadDirectory = Set the default download directory.
 policy-DisableAppUpdate = Prevent the browser from updating.
 policy-DisableBuiltinPDFViewer = Disable PDF.js, the built-in PDF viewer in { -brand-short-name }.
