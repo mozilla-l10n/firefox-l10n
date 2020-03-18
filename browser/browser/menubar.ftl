@@ -38,8 +38,8 @@ menu-file-save-page =
     .label = Enregistrar jos…
     .accesskey = E
 menu-file-email-link =
-    .label = Enviar per corrièl un ligam cap a la pagina…
-    .accesskey = c
+    .label = Enviar per corrièl lo ligam d’aquesta pagina…
+    .accesskey = E
 menu-file-print-setup =
     .label = Mesa en pagina…
     .accesskey = M
@@ -116,7 +116,7 @@ menu-view-page-basic-style =
     .label = Estil de pagina basic
     .accesskey = b
 menu-view-charset =
-    .label = Encodatge del tèxte :
+    .label = Encodatge del tèxte
     .accesskey = E
 
 ## These should match what Safari and other Apple applications
