@@ -116,20 +116,30 @@ cfr-whatsnew-lockwise-backup-title = Salvagardatz vòstres senhals
 cfr-whatsnew-lockwise-backup-body = Ara podètz generar vòstres senhals securizats e i accedir de pertot ont vos connectatz.
 cfr-whatsnew-lockwise-backup-link-text = Activar las salvagardas
 cfr-whatsnew-lockwise-take-title = Emportatz vòstres senhals amb vos
+cfr-whatsnew-lockwise-take-body =
+    L'aplicacion mobila { -lockwise-brand-short-name } vos permet d'accedir en tota seguretat vòstres
+    senhals salvats d'ont que siá.
 cfr-whatsnew-lockwise-take-link-text = Obténer l’aplicacion
 
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Escrigatz mens, trobatz mai amb la barra d’adreça
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Accedissètz als sites qu'utilisatz mai en un sol clic dins la barra d'adreça. Trobatz las causas mai rapidament amb los resultats de { $searchEngineName } e vòstre istoric de navigacion.
+cfr-whatsnew-searchbar-body-generic = Accedissètz als sites qu'utilisatz mai en un sol clic dins la barra d'adreça. Trobatz las causas mai rapidament amb los resultats de recerca de vòstre istoric de navigacion.
+cfr-whatsnew-searchbar-body-topsites = Ara, seleccionatz simplament la barra d'adreça, e una bóstia s'agrandirà amb de ligams cap a vòstres melhors sites.
 cfr-whatsnew-searchbar-icon-alt-text = Icòna de la lópia
 
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Agachatz de vidèos en navegant
+cfr-whatsnew-pip-body = L'imatge dins l'imatge fa aparéisser la vidèo dins una fenèstra flotanta que poscatz la gaitar tot en trabalhant dins d'autres onglets.
 cfr-whatsnew-pip-cta = Ne saber mai
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Mens de fenèstras surgissentas tediosas
 cfr-whatsnew-permission-prompt-body = Ara { -brand-shorter-name } bloca los sites que demandan automaticament de vos enviar de messatges sorgissents.
 cfr-whatsnew-permission-prompt-cta = Ne saber mai
 
