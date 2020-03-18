@@ -890,10 +890,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.header "Desactivatz las proteccions s’avètz de problèmas amb :">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Los camps de connexion">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularis">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Los formularis">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Los pagaments">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "Comentaris">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "Vidèos">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Los comentaris">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Las vidèos">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar un rapòrt">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
