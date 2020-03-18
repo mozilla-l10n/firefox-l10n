@@ -782,6 +782,10 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres mesterjelszót megadni.
 forms-master-pw-fips-desc = Sikertelen jelszóváltoztatás
 
+## OS Authentication dialog
+
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Előzmények
