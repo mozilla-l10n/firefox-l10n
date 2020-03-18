@@ -97,6 +97,17 @@ login-item-time-changed = Legutóbb módosítva: { DATETIME($timeChanged, day: "
 login-item-time-created = Létrehozva: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Legutóbb használva: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Igazolja személyazonosságát a mentett bejelentkezés szerkesztéséhez.
+
 ## Master Password notification
 
 master-password-notification-message = Adja meg a mesterjelszavát a mentett bejelentkezések és jelszavak megtekintéséhez
