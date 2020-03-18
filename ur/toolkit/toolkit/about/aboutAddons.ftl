@@ -92,6 +92,16 @@ detail-update-automatic =
 detail-update-manual =
     .label = آف کریں
     .tooltiptext = تازہ کاریاں خود بخود تنصیب مت کریں
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = نجی ونڈوز میں چلائیں
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = نجی ونڈوز میں اجازت نہیں ہے
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = نجی ونڈوز تک رسائی کی ضرورت ہے
+detail-private-browsing-on =
+    .label = اجازت دیں
+    .tooltiptext = نجی براؤزنگ میں فاعال بنایں
 detail-home =
     .label = ابتدائی صفحہ
 detail-home-value =
@@ -133,6 +143,9 @@ plugin-deprecation-description = کسی شہ کی کمی ہے؟ { -brand-short-n
 legacy-warning-show-legacy = میراث توسیعات دکھائیں
 legacy-extensions =
     .value = میراث ایکسٹینشن
+extensions-view-discopane =
+    .name = سفارشات
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = حالیہ تازہ کاریاں
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -240,6 +253,19 @@ addon-open-about-debugging = ایڈز آن ازالہ کرے
 
 ## Extension shortcut management
 
+shortcuts-no-addons = آپ کے پاس کوئی ایکسٹینشن فعال نہیں ہے۔
+shortcuts-no-commands = مندرجہ ذیل ایکسٹینشنز میں شارٹ کٹس نہیں ہیں۔
+shortcuts-browserAction = ایکسٹینشن فاعال کریں
+shortcuts-modifier-other = Ctrl یا Alt شامل کریں
+shortcuts-invalid = ناجائز مجموعہ
+shortcuts-letter = ایک خط ٹائپ کریں
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = پہلے ہی { $addon } کے استعمال میں ہے
+shortcuts-card-collapse-button = کم دکھائیں
+go-back-button =
+    .tooltiptext = واپس جائیں
 
 ## Recommended add-ons page
 
