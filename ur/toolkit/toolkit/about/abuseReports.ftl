@@ -18,6 +18,9 @@ abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name 
 abuse-report-submit-description = مسئلہ کی وضاحت (اختیاری)
 abuse-report-textarea =
     .placeholder = اگر ہمارے پاس کوئی مخصوص وضاحت ہو تو ہمارے لئے کسی مسئلے کو حل کرنا آسان ہے۔ براہ کرم اپنا تجربہ بیان کریں کہ آپ کس چیز کا سامنا کر رہے ہیں۔ ویب کو صحت مند رکھنے میں ہماری مدد کرنے کے لئے آپ کا شکریہ۔
+abuse-report-submit-note =
+    نوٹ: ذاتی معلومات (جیسے نام ، ای میل ایڈریس ، فون نمبر ، جسمانی پتہ) شامل نہ کریں۔
+    { -vendor-short-name } ان رپورٹس کا مستقل ریکارڈ رکھتا ہے۔
 
 ## Panel buttons.
 
@@ -32,11 +35,14 @@ abuse-report-submit-button = ‏‏جمع کریں
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-aborted = <span data-l10n-name = "addon-name"> { $addon-name } </span> کی رپورٹ منسوخ کردی گئی۔
+abuse-report-messagebar-submitting = <span data-l10n-name = "addon-name"> { $addon-name } </span> کیلئے رپورٹ بھیجنا۔
 abuse-report-messagebar-submitted = رپورٹ چمع کرانے کا  شکریہ۔ کیا آپ  <span data-l10n-name="addon-name">{ $addon-name } کو ہٹانا  چاہتے ہیں؟
 abuse-report-messagebar-submitted-noremove = رپورٹ جمع کرنے کا شکریہ۔
 abuse-report-messagebar-removed-extension = رپورٹ چمع کرانے کا  شکریہ۔ کیا آپ <span data-l10n-name="addon-name"> کو ہٹانا  چاہتے ہیں؟
 abuse-report-messagebar-removed-theme = رپورٹ پیش کرنے کا شکریہ۔ آپ نے تھیم <span data-l10n-name="addon-name"> کو ہٹا دیا ہے۔
 abuse-report-messagebar-error = <span data-l10n-name="addon-name"> کے لئے رپورٹ بھیجنے میں ایک خامی تھی۔
+abuse-report-messagebar-error-recent-submit = <span data-l10n-name ="addon-name"> { $addon-name }</span> کے لئے رپورٹ نہیں بھیجی گئی تھی کیونکہ حال ہی میں ایک اور رپورٹ پیش کی گئی تھی۔
 
 ## Message bars actions.
 
@@ -63,8 +69,16 @@ abuse-report-settings-suggestions-homepage = اپنا ہوم پیج اور نی�
 abuse-report-deceptive-reason = ایسی چیز کا بہانہ لگائیں جو ایسا نہیں ہے
 abuse-report-deceptive-reason-v2 = یہ دعوی کرتا ہے کہ ایسی چیز ہے جو نہیں ہے
 abuse-report-deceptive-example = مثال: گمراہ کن تفصیل یا منظر کشی
+abuse-report-broken-reason-theme = یہ کام نہیں کرتا ہے یا براؤزر کے ڈسپلے کو توڑتا ہے
+abuse-report-broken-reason-extension-v2 = یہ کام نہیں کرتا ، ویب سائٹوں کو توڑتا ہے ، یا { -brand-product-name } سست کرتا ہے۔
+abuse-report-broken-reason-theme-v2 = یہ کام نہیں کرتا ہے یا براؤزر کے ڈسپلے کو توڑتا ہے
+abuse-report-broken-example = مثال: خصوصیات آہستہ ہیں ، استعمال میں سخت ہیں ، یا کام نہیں کرتی ہیں۔ ویب سائٹ کے کچھ حصے لوڈ یا غیر معمولی نظر نہیں آئیں گے
 abuse-report-policy-reason = نفرت انگیز ، پرتشدد ، یا غیر قانونی مواد
 abuse-report-policy-reason-v2 = اس میں نفرت انگیز ، پرتشدد ، یا غیر قانونی مواد شامل ہے
+abuse-report-policy-suggestions =
+    نوٹ: کاپی رائٹ اور ٹریڈ مارک کے معاملات کی اطلاع علیحدہ عمل میں دینی چاہئے۔
+    <a data-l10n-name="report-infringement-link"> ان ہدایات کا استعمال کریں </a>
+    مسئلہ کی اطلاع دیں۔
 abuse-report-unwanted-reason = کبھی بھی یہ ایکسٹینشن کو نہیں چاہتا تھا اور نہ ہی اس سے چھٹکارا پا سک رہا ہوں
 abuse-report-unwanted-reason-v2 = میں یہ کبھی نہیں چاہتا تھا اور نہ جانتا ہوں کہ اس سے کیسے چھٹکارا حاصل کروں
 abuse-report-unwanted-example = مثال: کسی ایپلیکیشن نے اسے میری اجازت کے بغیر انسٹال کیا  ہے
