@@ -52,6 +52,9 @@ fingerprinter-tab-title = Creadores de huellas (Fingerprinters)
 fingerprinter-tab-content = Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Aprender más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia de cómputo de tu sistema para la minería de dinero digital. Los scripts utilizados para ello consumen tu batería, relentecen tu computador e incrementan el valor de tu boleta de electricidad. <a data-l10n-name="learn-more-link">Aprender más</a>
+mobile-app-title = Bloquear los rastreadores de anuncios en más dispositivos
+mobile-app-card-content = Usa el navegador móvil con protección integrada contra el rastreo de la publicidad.
+mobile-app-links = { -brand-product-name } Browser para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = No vuelvas a olvidar una contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } almacena de forma segura tus contraseñas en tu navegador.
@@ -60,6 +63,8 @@ protection-report-view-logins-button = Ver conexiones
     .title = Ir a las conexiones guardadas
 lockwise-no-logins-content = Obtén la aplicación de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para llevar tus contraseñas a todas partes.
 lockwise-mobile-app-title = Lleva tus contraseñas a todas partes
+lockwise-no-logins-card-content = Usa las contraseñas guardadas en { -brand-short-name } en cualquier dispositivo.
+lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
