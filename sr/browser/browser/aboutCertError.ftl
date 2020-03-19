@@ -31,8 +31,23 @@ cert-error-domain-mismatch-single = Веб странице доказују с�
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Веб странице доказују свој идентитет путем сертификата. { -brand-short-name } не верује овој страници зато што користи сертификат који није важећи за { $hostname }. Сертификат важи само за { $alt-name }.
 # Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Веб странице доказују свој идентитет путем сертификата. { -brand-short-name } не верује овој страници зато што користи сертификат који није важећи за { $hostname }. Сертификат важи само за следећа имена: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Веб странице доказују свој идентитет путем сертификата, који важе само за одређени временски период. Сертификат за { $hostname } је истекао { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Веб странице доказују свој идентитет путем сертификата, који важи само за одређени временски период. Сертификат за { $hostname } ће постати важећи од { $not-before-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Код грешке: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Веб странице доказују свој идентитет путем сертификата које издају сертификациона тела. Већина прегледача више не верује у сертификате које издају GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } користи сертификат једног од ових тела и зато се не може доказати идентитет веб странице.
+cert-error-symantec-distrust-admin = Можете да обавестите администратора веб странице о овом проблему.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
