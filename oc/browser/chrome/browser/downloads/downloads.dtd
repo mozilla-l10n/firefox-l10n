@@ -34,6 +34,7 @@
 <!ENTITY cmd.copyDownloadLink.label       "Copiar l'adreça d'origina del telecargament">
 <!ENTITY cmd.copyDownloadLink.accesskey   "d">
 <!ENTITY cmd.removeFromHistory.label      "Levar de la lista">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Escafar lo panèl d'apercebut">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Escafar los telecargaments">
