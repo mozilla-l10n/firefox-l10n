@@ -24,8 +24,8 @@ update-unsupported = La darrièra version es pas disponibla per vòstre sistèma
 update-restarting = Reaviada…
 channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel"></label> per metre a jorn.
 warningDesc-version = { -brand-short-name } es experimental e pòt èsser instable.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunautat mondiala</label> de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
-community-2 = { -brand-short-name } es concebut per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunautat mondiala</label> de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunitat mondiala</label> de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
+community-2 = { -brand-short-name } es concebut per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunitat mondiala</label> de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
 helpus = Volètz ajudar ? <label data-l10n-name="helpus-donateLink">Fasètz un don</label>, o <label data-l10n-name="helpus-getInvolvedLink">participatz</label>
 bottomLinks-license = Entresenhas sus la licéncia
 bottomLinks-rights = Dreches de l'utilizaire
