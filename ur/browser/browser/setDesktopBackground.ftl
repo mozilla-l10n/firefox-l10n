@@ -8,6 +8,7 @@ set-desktop-background-accept =
     .label = ڈیسک ٹاپ کا وال پیپر سیٹ کیجیے
 open-desktop-prefs =
     .label = ڈیسک ٹاپ ترجیحات کھولیں
+set-background-preview-unavailable = پیش نظارہ دستیاب نہیں ہے
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own

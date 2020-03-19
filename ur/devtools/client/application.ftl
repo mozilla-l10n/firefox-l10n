@@ -41,6 +41,14 @@ serviceworker-worker-status-registering = رجسٹر کر رہا ہے
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = یہاں معائنہ کرنے کیلئے آپ کو سروس ورکر کو رجسٹر کرنے کی ضرورت ہے۔ <a> مزید جانیں </a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = اگر موجودہ صفحے میں خدمت کا کارکن ہنے تو ، یہاں کچھ چیزیں ہیں جن کی آپ کوشش کرسکتے ہیں
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = کنسول میں غلطیاں تلاش کریں۔ <a> کنسول کھولیں </a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = ایپ منشور
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = نقائص اور انتباہات
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -49,6 +57,9 @@ manifest-item-identity = شناخت
 manifest-item-presentation = پيشکاری
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = آئیکن
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools نقص
 # Text displayed when the page has no manifest available
 manifest-non-existing = معائنہ کرنے کیلئے کوئی منشور نہیں ملا۔
 # Text displayed at manifest icons to label their purpose, as declared
@@ -61,6 +72,14 @@ manifest-icon-img =
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = غیر متعینہ سائز کا آئیکن
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = منشور
+    .alt = منشور آئیکن
+    .title = منشور
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = خدمت کارکنان
+    .alt = خدمت کارکنان آئیکن
+    .title = خدمت کارکنان
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
     .alt = خرابی کا آئیکن

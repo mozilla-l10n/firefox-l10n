@@ -27,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = کھالی جگہ ڈریگ کرے
 customize-mode-lwthemes =
     .label = تھیم
+customize-mode-overflow-list-description = اشیاء کو اپنی پہنچ تک رکھنے کے لئے یہا ڈریگ اور ڈروپ کرے لیکن ٹول بار سے باہر…
 customize-mode-uidensity-menu-normal =
     .label = عام
     .accesskey = N
