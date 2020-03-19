@@ -77,7 +77,7 @@ discover-description =
     obavještavanje o vremenskoj prognozi ili motiv.
 discover-footer = Kada ste spojeni na Internet, u ovom će prozoru biti istaknute neke od najboljih i najpopularnijih dodataka koje možete isprobati.
 detail-version =
-    .label = Inačica
+    .label = Verzija
 detail-last-updated =
     .label = Posljednja dopuna
 detail-contributions-description = Razvijatelja ovog dodatka zanima jeste li voljni pomoći razvoju malom donacijom.
@@ -377,7 +377,7 @@ ask-to-activate-button = Pitaj prilikom aktivacije
 always-activate-button = Uvijek aktiviraj
 never-activate-button = Nikada nemoj aktivirati
 addon-detail-author-label = Autor
-addon-detail-version-label = Inačica
+addon-detail-version-label = Verzija
 addon-detail-last-updated-label = Posljednje ažuriranje
 addon-detail-homepage-label = Početna stranica
 addon-detail-rating-label = Ocjena

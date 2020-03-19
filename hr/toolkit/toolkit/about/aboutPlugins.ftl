@@ -16,7 +16,7 @@ deprecation-description = Nešto ti nedostaje? Neki dodaci više nisu podržani.
 
 file-dd = <span data-l10n-name="file">Datoteka:</span> { $pluginLibraries }
 path-dd = <span data-l10n-name="path">Putanja:</span> { $pluginFullPath }
-version-dd = <span data-l10n-name="version">Inačica:</span> { $version }
+version-dd = <span data-l10n-name="version">Verzija:</span> { $version }
 
 ## These strings describe the state of plugins
 ##
