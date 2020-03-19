@@ -101,7 +101,29 @@ cfr-whatsnew-fx70-body =
     Заштита од праћења је побољшана у најновијој верзији и олакшава вам
     стварање сигурних лозинки за појединачне веб странице.
 cfr-whatsnew-tracking-protect-title = Заштитите се од софтвера за праћење
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } блокира многе уобичајене софтвере за праћење с друштвених мрежа и других веб страница
+    који завирују у вашу активност прегледавања.
+cfr-whatsnew-tracking-protect-link-text = Погледајте извештај о праћењу
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Блокиран софтвер за праћење
+        [few] Блокирана софтвера за праћење
+       *[other] Блокираних софтвера за праћење
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Од { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Погледајте извештај
+cfr-whatsnew-lockwise-backup-title = Направите резервну копију лозинки
+cfr-whatsnew-lockwise-backup-body = Гениришите сигурне лозинке којима можете приступити било где да се пријављујете.
 cfr-whatsnew-lockwise-backup-link-text = Укључите резерве
+cfr-whatsnew-lockwise-take-title = Понесите ваше лозинке са собом
+cfr-whatsnew-lockwise-take-body =
+    { -lockwise-brand-short-name } апликација омогућава сигуран приступ вашој
+    резервној копији лозинки на свим уређајима.
+cfr-whatsnew-lockwise-take-link-text = Преузмите апликацију
 
 ## Search Bar
 
@@ -140,11 +162,17 @@ cfr-doorhanger-send-tab-ok-button = Испробајте слање језича
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Делите овај PDF безбедно
+cfr-doorhanger-firefox-send-body = Користите шифровање с-краја-на-крај и везе које ће аутоматски нестати након употребе како бисте обезбедили сигурност осетљивих датотека.
 cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name }
     .accesskey = И
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Погледај заштите
+    .accesskey = П
+cfr-doorhanger-socialtracking-close-button = Затвори
+    .accesskey = З
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } је спречио друштвену мрежу да вас прати овде
 
 ## Enhanced Tracking Protection Milestones
 
