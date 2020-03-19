@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Tallennettu viesti…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "T">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenteritiedosto…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -67,6 +69,8 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Poista kalenterista">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Lisätiedot…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Näytä lisää tietoa tapahtumasta">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Älä näytä näitä viestejä">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalenteri">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Lisää">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Napsauta, niin näet lisää valintoja">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Vahvista uudelleen">
