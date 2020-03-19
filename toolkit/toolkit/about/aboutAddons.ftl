@@ -416,7 +416,7 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = W priwatnych woknach dowoleny
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <a data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</a>
+addon-detail-private-browsing-help = Jeli maće prawo, ma rozšěrjenje přistup na waše aktiwity online w priwatnym modusu. <a data-l10n-name="learn-more">Dalše informacije</a>
 addon-detail-private-browsing-allow = Dowolić
 addon-detail-private-browsing-disallow = Njedowolić
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
