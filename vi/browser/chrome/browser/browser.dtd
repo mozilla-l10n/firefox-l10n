@@ -302,8 +302,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Trình đơn dấu trang">
 <!ENTITY bookmarksMenuButton.other.label    "Dấu trang khác">
 <!ENTITY bookmarksMenuButton.mobile.label   "Dấu trang trên di động">
-<!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh bên dấu trang">
-<!ENTITY hideBookmarksSidebar.label         "Ẩn thanh bên dấu trang">
+<!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh lề dấu trang">
+<!ENTITY hideBookmarksSidebar.label         "Ẩn thanh lề dấu trang">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh công cụ dấu trang">
 <!ENTITY hideBookmarksToolbar.label         "Ẩn thanh công cụ dấu trang">
 <!ENTITY searchBookmarks.label              "Tìm kiếm dấu trang">
@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Thanh công cụ">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "Thanh bên">
+<!ENTITY viewSidebarMenu.label "Thanh lề">
 <!ENTITY viewSidebarMenu.accesskey "e">
 
 <!ENTITY viewCustomizeToolbar.label       "Tùy biến…">
@@ -416,8 +416,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Xem toàn bộ lịch sử">
 <!ENTITY appMenuHistory.clearRecent.label "Xóa lịch sử gần đây…">
 <!ENTITY appMenuHistory.restoreSession.label "Khôi phục phiên làm việc trước">
-<!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh bên lịch sử">
-<!ENTITY appMenuHistory.hideSidebar.label "Ẩn thanh bên lịch sử">
+<!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh lề lịch sử">
+<!ENTITY appMenuHistory.hideSidebar.label "Ẩn thanh lề lịch sử">
 <!ENTITY appMenuHistory.recentHistory.label "Lịch sử gần đây">
 <!ENTITY appMenuHelp.label "Trợ giúp">
 
@@ -449,7 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Bật &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý các thiết bị…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Xem các thẻ đã đồng bộ trên thanh lề">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Ẩn thanh bên đồng bộ hóa">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Ẩn thanh lề đồng bộ hóa">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kết nối thiết bị khác">
 
 <!ENTITY appMenuRecentHighlights.label "Nổi bật gần đây">
@@ -765,8 +765,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Thu phóng">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip     "Đóng thanh bên">
-<!ENTITY sidebarMenuClose.label         "Đóng thanh bên">
+<!ENTITY sidebarCloseButton.tooltip     "Đóng thanh lề">
+<!ENTITY sidebarMenuClose.label         "Đóng thanh lề">
 
 <!ENTITY quitApplicationCmdWin2.label       "Thoát">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">

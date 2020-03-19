@@ -23,12 +23,11 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-area = Sử dụng thuộc tính <code>alt</code> để gắn nhãn các phần tử <div>area</div> có thuộc tính <span>href</span>. <a>Tìm hiểu thêm</a>
-accessibility-text-label-issue-dialog = Hộp thoại nên được dán nhãn. <a>Tìm hiểu thêm</a>
+accessibility-text-label-issue-dialog = Hộp thoại phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-document-title = Tài liệu phải có <code>title</code>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-embed = Nội dung nhúng phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-figure = Số liệu với chú thích tùy chọn nên được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-fieldset = Các phần tử </code>fieldset</code> phải được dán nhãn. <a>Tìm hiểu thêm</a>
-accessibility-text-label-issue-fieldset-legend = Sử dụng phần tử <code>legend</code> để gắn nhãn các phần tử <span>fieldset</span>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-fieldset-legend2 = Sử dụng một phần tử <code>legend</code> để gắn nhãn <span>fieldset</span>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-form = Các yếu tố hình thức phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-form-visible = Các yếu tố hình thức nên có một nhãn văn bản có thể nhìn thấy. <a>Tìm hiểu thêm</a>
@@ -39,7 +38,6 @@ accessibility-text-label-issue-heading-content = Headings nên có nội dung v�
 accessibility-text-label-issue-iframe = Sử dụng thuộc tính <code>title</code> để mô tả nội dung <span>iframe</span>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-image = Nội dung với hình ảnh phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-interactive = Các yếu tố tương tác phải được dán nhãn. <a>Tìm hiểu thêm</a>
-accessibility-text-label-issue-optgroup-label = Sử dụng thuộc tính <code>label</code> để gắn nhãn các phần tử <span>optgroup</span>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-optgroup-label2 = Sử dụng một thuộc tính <code>label</code> để gắn nhãn <span>optgroup</span>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-toolbar = Thanh công cụ phải được dán nhãn khi có nhiều hơn một thanh công cụ. <a>Tìm hiểu thêm</a>
 
