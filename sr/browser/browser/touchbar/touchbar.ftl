@@ -19,3 +19,19 @@ open-location = Претражите или унесите адресу
 share = Подели
 close-window = Затвори прозор
 open-sidebar = Бочне траке
+# This string describes shortcuts for search.
+search-popover = Пречице за претраживање
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Претражите у:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Ознаке
+search-history = Историја
+search-opentabs = Отворени језичци
+search-tags = Етикете
+search-titles = Наслови
+
+##
+

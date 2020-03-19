@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Складиште
 site-data-column-last-used =
     .label = Последњи пут коришћено
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (локална датотека)
 site-data-remove-selected =
     .label = Уклони изабрани
     .accesskey = У
