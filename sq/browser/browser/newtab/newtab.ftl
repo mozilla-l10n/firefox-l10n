@@ -86,7 +86,6 @@ newtab-menu-show-privacy-info = Sponsorët tanë & privatësia jonë
 
 newtab-privacy-modal-button-done = Kaq qe
 newtab-privacy-modal-header = Privatësia juaj ka rëndësi.
-newtab-privacy-modal-paragraph = Jo vetëm ju shërbejmë histori tërheqëse, por ju shfaqim edhe lëndë me vlerë, të kontrolluar mirë, prej sponsorësh të përzgjedhur. Flijeni mendjen, të dhënat e shfletimit tuaj nuk ikin kurrë nga kopja juaj personale e { -brand-product-name }-it — as ne nuk i shohim dot, as sponsorët tanë.
 newtab-privacy-modal-paragraph-2 = Jo vetëm ju shërbejmë histori tërheqëse, por ju shfaqim edhe lëndë me vlerë, të kontrolluar mirë, prej sponsorësh të përzgjedhur. Flijeni mendjen, <strong>të dhënat e shfletimit tuaj nuk ikin kurrë nga kopja juaj personale e { -brand-product-name }-it</strong> — as ne nuk i shohim dot, as sponsorët tanë.
 newtab-privacy-modal-link = Mësoni se si funksionon privatësia në skedën e re
 
@@ -125,6 +124,10 @@ newtab-label-removed-bookmark = Faqerojtësi u hoq
 newtab-label-recommended = Në modë
 newtab-label-saved = Ruajtur te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · E sponsorizuar
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -178,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hëm! Thuajse e ngarkuam k
 newtab-pocket-read-more = Tema Popullore:
 newtab-pocket-more-recommendations = Më Tepër Rekomandime
 newtab-pocket-whats-pocket = Ç’është { -pocket-brand-name }?
+newtab-pocket-learn-more = Mësoni më tepër
 newtab-pocket-cta-button = Merreni { -pocket-brand-name }-in
 newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni, dhe ushqejeni mendjen me lexime të mahnitshme.
 
