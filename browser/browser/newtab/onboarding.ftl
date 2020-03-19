@@ -114,14 +114,29 @@ onboarding-firefox-monitor-text = { -monitor-brand-name } надгледа да 
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } надгледа вашу имејл адресу ако се појави у познатом цурењу података и обавестиће вас уколико је открије.
 onboarding-firefox-monitor-button = Пријавите се за упозорења
 onboarding-browse-privately-title = Прегледајте приватно
+onboarding-browse-privately-text = Приватно прегледање брише историју претраге и прегледања како би остала скривена од било кога ко користи ваш рачунар.
 onboarding-browse-privately-button = Отвори приватни прозор
 onboarding-firefox-send-title = Држите своје дељене датотеке приватним
+onboarding-firefox-send-text2 = Пренесите датотеке на { -send-brand-name } да их поделите с енкрипцијом с-краја-на-крај и везом која аутоматски истиче.
 onboarding-firefox-send-button = Испробајте { -send-brand-name }
 onboarding-mobile-phone-title = Преузмите { -brand-product-name } на Ваш телефон
 onboarding-mobile-phone-text = Преузмите { -brand-product-name } за iOS или Андроид и синхронизујте податке између уређаја.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Преузмите мобилни прегледач
+onboarding-send-tabs-title = Пошаљите себи отворене језичке
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Шаљите картице са једног уређаја на други - без копирања и лепљења или напуштања прегледача.
+onboarding-send-tabs-button = Почните да користите слање језичака
+onboarding-pocket-anywhere-title = Читајте и слушајте било где
+onboarding-pocket-anywhere-text2 = Сачувајте ваш омиљени садржај офлајн уз помоћ { -pocket-brand-name } апликације и читајте, слушајте и гледајте кад год вам то одговара.
+onboarding-pocket-anywhere-button = Испробајте { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Понесите ваше лозинке свугде
+onboarding-lockwise-passwords-text2 = Држите лозинке заштићеним и једноставно се пријавите у налоге преко { -lockwise-brand-name }.
+onboarding-lockwise-passwords-button2 = Преузмите апликацију
+onboarding-facebook-container-title = Поставите границе с Facebook-ом
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } држи ваш профил одвојеним од свега осталог и на тај начин отежава Facebook-у да вас бомбардује рекламама.
 onboarding-facebook-container-button = Додајте проширење
 
 ## Message strings belonging to the Return to AMO flow
