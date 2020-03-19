@@ -52,6 +52,9 @@ fingerprinter-tab-title = Krijues shenja gishtash
 fingerprinter-tab-content = Krijuesit e shenjave të gishtave (<em>Fingerprinters</em>) grumbullojnë rregullime nga shfletuesi dhe kompjuteri juaj për të krijuar një profil rreth jush. Duke përdorur këto shenja dixhitale gishtash, ata mund t’ju ndjekin nëpër sajte të ndryshme. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 cryptominer-tab-title = Nxjerrës kriptomonedhash
 cryptominer-tab-content = Nxjerrësit e kriptomonedhave e përdorin fuqinë përllogaritëse të sistemit tuaj për të nxjerrë para dixhitale. Programthet për nxjerrje kriptomonedhash konsumojnë energjinë e baterisë tuaj, ngadalësojnë kompjuterin tuaj dhe mund të sjellin shtim të faturës tuaj për energjinë. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
+mobile-app-title = Bllokoni gjurmues reklamash nëpër më shumë pajisje
+mobile-app-card-content = Përdorni shfletuesin për celular me mbrojtje të brendshme kundër gjurmuesve të reklamave
+mobile-app-links = Shfletuesi { -brand-product-name } për <a data-l10n-name="android-mobile-inline-link">Android</a> dhe <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Mos harroni kurrë më një fjalëkalim
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } depoziton në mënyrë të sigurt fjalëkalimet tuaj në shfletuesin tuaj.
@@ -59,6 +62,9 @@ lockwise-header-content-logged-in = Depozitoni dhe njëkohësoni në mënyrë t�
 protection-report-view-logins-button = Shihni Kredenciale Hyrjesh
     .title = Kaloni te Kredenciale të Ruajtura Hyrjesh
 lockwise-no-logins-content = Merrni aplikacionin <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> që t’i merrni kudo me vete fjalëkalimet tuaj.
+lockwise-mobile-app-title = Merrini fjalëkalimet tuaja kudo
+lockwise-no-logins-card-content = Përdorni në çfarëdo pajisje fjalëkalime të ruajtur në { -brand-short-name }.
+lockwise-app-links = { -lockwise-brand-name } për <a data-l10n-name="lockwise-android-inline-link">Android</a> dhe <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
