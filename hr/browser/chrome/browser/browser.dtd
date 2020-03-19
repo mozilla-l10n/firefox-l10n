@@ -874,7 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ovlasti">
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dali nikakva posebna dopuštenja.">
-<!ENTITY identity.permissionsReloadHint "Trebali biste ponovo osvježiti stranicu radi primjene izmjena.">
+<!ENTITY identity.permissionsReloadHint "Stranica se možda mora ponovo učitati, kako bi se primijenile promjene.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otvori postavke dopuštenja">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otvori postavke blokiranja sadržaja">
 
