@@ -63,7 +63,7 @@ app-basics-enterprise-policies = Politike poduzeća
 app-basics-location-service-key-google = Google ključ za usluge lokacije
 app-basics-safebrowsing-key-google = Google ključ za sigurno pregledavanje
 app-basics-key-mozilla = Mozilla ključ za usluge lokacije
-app-basics-safe-mode = Sigurni način rada
+app-basics-safe-mode = Siguran način rada
 show-dir-label =
     { PLATFORM() ->
         [macos] Prikaži u Finderu
@@ -79,13 +79,13 @@ locked-key-prefs-title = Važne zaključane postavke
 locked-prefs-name = Naziv
 locked-prefs-value = Vrijednost
 graphics-title = Grafika
-graphics-features-title = Značajke
+graphics-features-title = Funkcije
 graphics-diagnostics-title = Dijagnostika
 graphics-failure-log-title = Zapis grešaka
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Zapis odluka
-graphics-crash-guards-title = Onemogućene značajke čuvara rušenja
+graphics-crash-guards-title = Deaktivirane funkcije čuvara rušenja
 graphics-workarounds-title = Zaobilazna rješenja
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokol prozora

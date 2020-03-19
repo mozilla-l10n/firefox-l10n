@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safe-mode-window =
-    .title = { -brand-short-name } Sigurni način rada
+    .title = { -brand-short-name }ov siguran način rada
     .style = max-width: 400px
 start-safe-mode =
     .label = Pokreni u sigurnom načinu rada

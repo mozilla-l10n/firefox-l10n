@@ -169,7 +169,7 @@ extensions-view-available-updates =
 ## These are global warnings
 
 extensions-warning-safe-mode-label =
-    .value = Sigurni način rada je isključio sve dodatke.
+    .value = Siguran način rada isključio je sve dodatke.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
@@ -186,7 +186,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Omogući
     .tooltiptext = Omogući provjeru dostupnosti sigurnosnih dopuna za dodatke
-extensions-warning-safe-mode = Sigurni način rada je isključio sve dodatke.
+extensions-warning-safe-mode = Siguran način rada isključio je sve dodatke.
 extensions-warning-check-compatibility = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
 extensions-warning-check-compatibility-button = Omogući
     .title = Omogući provjeru kompatibilnosti dodataka
