@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Vytvoriť novú úlohu" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Úlohy" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobraziť dokončené úlohy">
 
 <!ENTITY calendar.today.button.label          "Dnes">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Zobraziť upozornenia">
 <!ENTITY calendarproperties.cache3.label                   "Podpora pre režim offline">
 <!ENTITY calendarproperties.enabled.label                  "Zapnúť tento kalendár">
+<!ENTITY calendarproperties.enabled2.label                 "Povoliť tento kalendár">
 <!ENTITY calendarproperties.forceDisabled.label            "Poskytovateľ tohto kalendára nebol nájdený. Toto sa často stáva, ak zakážete alebo odinštalujte určité rozšírenia.">
 <!ENTITY calendarproperties.unsubscribe.label              "Odhlásiť sa">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "O">

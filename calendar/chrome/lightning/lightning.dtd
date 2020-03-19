@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Uloženú správu…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "U">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Súbor kalendára…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Odstrániť z kalendára">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Zobraziť podrobnosti o udalosti">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Nabudúce nezobrazovať">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalendár">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Prejsť na kartu Kalendár">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Ďalšie">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Ďalšie možnosti">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Opäť potvrdiť">
