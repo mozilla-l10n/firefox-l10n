@@ -778,6 +778,8 @@ forms-master-pw-fips-desc = שינוי הססמה נכשל
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = יש לאמת את הזהות שלך כדי ליצור ססמה ראשית.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
