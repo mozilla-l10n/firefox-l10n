@@ -43,6 +43,7 @@ certificate-viewer-protocol = Protokoll
 certificate-viewer-public-value = Vlerë Publike
 certificate-viewer-purposes = Qëllime
 certificate-viewer-required = E domosdoshme
+certificate-viewer-unsupported = &lt;e pambuluar&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Shtet/Provincë Regjistrimi
 certificate-viewer-state-province = Shtet/Provincë
