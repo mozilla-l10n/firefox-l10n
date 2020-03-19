@@ -92,6 +92,8 @@ graphics-crash-guards-title = Veçori të Çaktivizuara nga Roja i Vithisjeve
 graphics-workarounds-title = Zgjidhje të përkohshme
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protokoll Window
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Mjedis Desktop
 place-database-title = Bazë të Dhënash Vendesh
 place-database-integrity = Integritet
 place-database-verify-integrity = Verifikoni Integritetin
@@ -262,6 +264,7 @@ d3d11video-crash-guard = Shkodues Videosh D3D11
 d3d9video-crash-buard = Shkodues Videosh D3D9
 d3d9video-crash-guard = Shkodues Videosh D3D9
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = Shkodues Videosh WMF VPX
 reset-on-next-restart = Gjatë Rinisjes Tjetër Ktheje te Parazgjedhjet
 gpu-process-kill-button = Përfundoje Procesin GPU
 gpu-device-reset = Rikthim i Pajisjes Në Fillimet
