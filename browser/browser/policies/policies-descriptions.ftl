@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Caktoni rregulla të cilat WebExtensions mund t’i shohin përmes chrome.storage.managed.
+policy-AppAutoUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme aplikacionesh.
 policy-AppUpdateURL = Caktoni URL vetjake përditësimi aplikacioni.
 policy-Authentication = Formësoni mirëfilltësim të integruar për sajte që e mbulojnë atë.
 policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
@@ -21,6 +22,7 @@ policy-Bookmarks = Krijoni faqerojtës te paneli Faqerojtës, menuja Faqerojtës
 policy-CaptivePortal = Aktivizoni ose çaktivizoni mbulim për captive portal.
 policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
 policy-Cookies = Lejoni ose jo që sajte të depozitojnë cookies.
+policy-DisabledCiphers = Çaktivizo shifra.
 policy-DefaultDownloadDirectory = Caktoni drejtori parazgjedhje shkarkimesh.
 policy-DisableAppUpdate = Pengoje shfletuesin të përditësohet.
 policy-DisableBuiltinPDFViewer = Çaktivizoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
@@ -72,7 +74,7 @@ policy-OfferToSaveLoginsDefault = Caktoni vlerën parazgjedhje për lejim të { 
 policy-OverrideFirstRunPage = Anashkaloni faqen e xhirimit për herë të parë. Lëreni të zbrazët, nëse doni të çaktivizohet faqja e xhirimit për herë të parë.
 policy-OverridePostUpdatePage = Anashkaloni faqen “Ç’ka të Re” që shfaqet pas përditësimesh. Lëreni të zbrazët, nëse doni të çaktivizohet faqja pas-përditësim.
 policy-PasswordManagerEnabled = Aktivizoni ruajtjen e fjalëkalimeve te përgjegjësi i fjalëkalimeve.
-policy-Permissions = Formësoni lejet për kamerën, mikrofonin, vendndodhjen dhe njoftimet.
+policy-Permissions2 = Formësoni lejet për kamerën, mikrofonin, vendndodhjen, njoftimet dhe vetëluajtjen.
 policy-PopupBlocking = Lejojuni, si parazgjedhje, disa sajteve të shfaqin flluska.
 policy-Preferences = Caktoni dhe kyçni vlerën për një nëngrup parapëlqimesh.
 policy-PromptForDownloadLocation = Pyet ku të ruhen kartelat kur shkarkohen.
@@ -87,5 +89,6 @@ policy-SecurityDevices = Instaloni module PKCS #11.
 policy-SSLVersionMax = Caktoni version maksimum SSL-je.
 policy-SSLVersionMin = Caktoni version minimum SSL-je.
 policy-SupportMenu = Shtoni te menuja e ndihmës një element vetjak menuje asistence.
+policy-UserMessaging = Mos i shfaq përdoruesit disa mesazhe të caktuara
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bllokoni vizita në sajte. Për më tepër hollësi mbi këtë format, shihni dokumentimin.
