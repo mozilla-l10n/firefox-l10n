@@ -34,8 +34,8 @@ toolbar-button-forward =
 ## Reload
 
 main-context-menu-reload =
-    .aria-label = Osvježi
-    .accesskey = O
+    .aria-label = Učitaj ponovo
+    .accesskey = U
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Zabilježi ovu stranicu
-    .accesskey = Z
 main-context-menu-bookmark-add =
     .aria-label = Zabilježi ovu stranicu
     .accesskey = Z
@@ -277,7 +274,7 @@ main-context-menu-frame-open-window =
     .label = Otvori okvir u novom prozoru
     .accesskey = p
 main-context-menu-frame-reload =
-    .label = Osvježi okvir
+    .label = Ponovo učitaj okvir
     .accesskey = r
 main-context-menu-frame-bookmark =
     .label = Zabilježi ovaj okvir
