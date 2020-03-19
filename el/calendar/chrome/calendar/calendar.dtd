@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Δημιουργία νέας εργασίας" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Εργασίες" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Εμφάνιση ολοκληρωμένων εργασιών">
 
 <!ENTITY calendar.today.button.label          "Σήμερα">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Συμμετοχή">
 <!ENTITY calendar.context.attendance.menu.accesskey             "χ">
 <!ENTITY calendar.context.attendance.occurrence.label           "Αυτό το στιγμιότυπο">
-<!ENTITY calendar.context.attendance.all.label        "Όλα τα στιγμιότυπα" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Πλήρης Σειρά">
 <!ENTITY calendar.context.attendance.send.label                 "Να αποσταλεί ειδοποίηση τώρα">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Εμφάνιση υπενθυμίσεων">
 <!ENTITY calendarproperties.cache3.label                   "Υποστήριξη εκτός σύνδεσης">
 <!ENTITY calendarproperties.enabled.label                  "Ενεργοποίηση αυτού του ημερολογίου">
+<!ENTITY calendarproperties.enabled2.label                 "Ενεργοποίηση ημερολογίου">
 <!ENTITY calendarproperties.forceDisabled.label            "Η υπηρεσία παροχής για αυτό το ημερολόγιο δεν ήταν δυνατόν να βρεθεί. Αυτό συχνά συμβαίνει αν έχετε απενεργοποιήσει ή απεγκαταστήσει κάποια πρόσθετα.">
 <!ENTITY calendarproperties.unsubscribe.label              "Απεγγραφή">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "φ">

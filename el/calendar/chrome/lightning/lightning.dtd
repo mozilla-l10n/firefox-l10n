@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "α">
 <!ENTITY lightning.menupopup.open.message.label       "Αποθηκευμένο μήνυμα…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "μ">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Αρχείο ημερολογίου…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "η">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Διαγραφή από το ημερολόγιο">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Λεπτομέρειες…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Εμφάνιση λεπτομερειών συμβάντος">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Να μην εμφανίζονται αυτά τα μηνύματα">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Ημερολόγιο">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Μετάβαση στην καρτέλα ημερολογίου">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Περισσότερα">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Κλικ για εμφάνιση περισσότερων επιλογών">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Επιβεβαίωση εκ νέου">
