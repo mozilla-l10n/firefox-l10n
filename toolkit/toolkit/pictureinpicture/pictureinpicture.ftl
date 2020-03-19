@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Pa Zë
 pictureinpicture-unmute =
     .aria-label = Me Zë
+pictureinpicture-unpip =
+    .aria-label = Dërgoje mbrapsht te skedë
+pictureinpicture-close =
+    .aria-label = Mbylle
