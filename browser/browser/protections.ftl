@@ -2,6 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } је блокирао { $count } софтвер за праћење током протекле недеље
+        [few] { -brand-short-name } је блокирао { $count } софтвера за праћење током протекле недеље
+       *[other] { -brand-short-name } је блокирао { $count } софтвера за праћење током протекле недеље
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> софтвер за праћење блокиран од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [few] <b>{ $count }</b> софтвера за праћење блокирано од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> софтвера за праћење блокирано од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 protection-report-page-title = Заштите приватности
 protection-report-content-title = Заштите приватности
 etp-card-title = Побољшана заштита од праћења
