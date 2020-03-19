@@ -69,6 +69,7 @@ onboarding-sync-form-sub-header = да бисте наставили на { -syn
 onboarding-benefit-products-title = Корисни производи
 onboarding-benefit-products-text = Радите ефикасније са породицом алатки које поштују вашу приватност на свим вашим уређајима.
 onboarding-benefit-knowledge-title = Примењена знања
+onboarding-benefit-knowledge-text = Сазнајте све што требате да бисте били паметнији и сигурнији на мрежи.
 onboarding-benefit-privacy-title = Права приватност
 
 ## These strings belong to the individual onboarding messages.
