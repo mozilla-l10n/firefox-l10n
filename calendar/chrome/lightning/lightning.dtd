@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Thư đã lưu…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Tập tin lịch…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Xóa khỏi lịch">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Chi tiết…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Hiển thị chi tiết sự kiện">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Đừng hỏi lại tôi những thông báo này">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Lịch">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Chuyển đến thẻ lịch">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Thêm">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Nhấn vào đây để hiển thị nhiều tùy chọn hơn">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Xác nhận lại">
