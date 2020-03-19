@@ -6,7 +6,7 @@
 # MacBook Touch Bar.
 back = Natrag
 forward = Naprijed
-reload = Osvježi
+reload = Učitaj ponovo
 home = Početna stranica
 fullscreen = Cjeloekranski prikaz
 touchbar-fullscreen-exit = Izađi iz cjeloekranskog prikaza

@@ -96,5 +96,5 @@ load-module-help-empty-module-name =
 load-module-help-root-certs-module-name =
     .value = ‘Root Certs‘ je rezerviran i ne može biti korišten kao naziv modula.
 add-module-failure = Modul nije moguće dodati
-del-module-warning = Jeste li sigurni da želite ukloniti ovaj sigurnosni modul?
+del-module-warning = Stvarno želiš ukloniti ovaj sigurnosni modul?
 del-module-error = Modul nije moguće ukloniti
