@@ -537,6 +537,12 @@ search-keyword-warning-bookmark = आपने एक बीजशब्द च�
 ## Containers Section
 
 containers-back-link = « वापस जाओ
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] वापस विकल्प पर जाएं
+           *[other] वापस वरीयताएं पर जाएं
+        }
 containers-header = पात्र टैब
 containers-add-button =
     .label = नया पात्र जोड़े
@@ -614,6 +620,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = आप वर्तमान में इन चीज़ों को सिंक कर रहे हैं:
 sync-currently-syncing-bookmarks = बुकमार्क्स
 sync-currently-syncing-history = इतिहास
 sync-currently-syncing-tabs = टैबों को खोलें
