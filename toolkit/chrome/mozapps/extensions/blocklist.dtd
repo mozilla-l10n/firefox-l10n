@@ -5,9 +5,9 @@
 <!ENTITY blocklist.title             "Dodaci mogu prouzročiti probleme">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; je otkrio da sljedeći dodaci znaju prouzročiti probleme sa stabilnošću i sigurnošću:">
-<!ENTITY blocklist.softblocked       "Zbog vaše zaštite, izričito se preporuča da ponovo pokrenete program nakon što onemogućite ove dodatke.">
+<!ENTITY blocklist.softblocked       "U smislu zaštite, izričito se preporučuje ponovo pokrenuti program bez aktiviranja ovih dodataka.">
 <!ENTITY blocklist.hardblocked       "Ovi dodaci predstavljaju visoki rizik za stabilnost i sigurnost, te su zbog toga blokirani. Međutim, ponovno pokretanje je nužno kako bi u potpunosti bili onemogućeni.">
-<!ENTITY blocklist.softandhard       "Ovi dodaci predstavljaju visoki rizik za stabilnost i sigurnost, te su zbog toga blokirani. Drugi predstavljaju niži rizik, ali se izričito preporuča da ponovo pokrenete program nakon što onemogućite i te dodatke.">
+<!ENTITY blocklist.softandhard       "Ovi dodaci predstavljaju visoki rizik za stabilnost i sigurnost, te su zbog toga blokirani. Drugi predstavljaju niži rizik, ali se izričito preporučuje ponovno pokretanje programa bez ovih dodataka.">
 <!ENTITY blocklist.moreinfo          "Više informacija">
 
 <!ENTITY blocklist.accept.label      "Ponovo pokreni &brandShortName;">
