@@ -266,6 +266,10 @@ privacy-policy = गोपनीयता नीति
 #   $author (string) - The name of the add-on developer.
 created-by-author = <a data-l10n-name="author"> { $author } </a> द्वारा
 install-extension-button = { -brand-product-name } में जोड़ें
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = प्रबंधित करें
+find-more-addons = अधिक ऐड-ऑन खोजें
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -273,11 +277,20 @@ addon-options-button =
 
 ## Add-on actions
 
+report-addon-button = रिपोर्ट
 remove-addon-button = हटाएं
+# The link will always be shown after the other text.
+remove-addon-disabled-button = हटाया नहीं जा सकता <a data-l10n-name="link">क्यों?</a>
 disable-addon-button = निष्क्रिय करें
 enable-addon-button = सक्रिय करें
 expand-addon-button = अधिक विकल्प
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] विकल्प
+       *[other] वरीयताएं
+    }
 details-addon-button = विवरण
+permissions-addon-button = अनुमतियां
 addons-enabled-heading = सक्रिय किया गया
 addons-disabled-heading = निष्क्रिय किया गया
 extension-enabled-heading = सक्रिय किया गया
