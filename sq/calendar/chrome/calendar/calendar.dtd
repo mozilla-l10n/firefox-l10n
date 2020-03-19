@@ -365,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Shfaq Alarme">
 <!ENTITY calendarproperties.cache3.label                   "Mbulim Jashtë Linje">
 <!ENTITY calendarproperties.enabled.label                  "Vëre këtë kalendar në punë">
+<!ENTITY calendarproperties.enabled2.label                 "Aktivizo Këtë Kalendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Ofruesi i këtij kalendari s&apos; u gjet dot. Shpesh kjo ndodh nëse keni çaktivizuar apo çinstaluar disa shtesa.">
 <!ENTITY calendarproperties.unsubscribe.label              "Shpajtomë">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "S">
