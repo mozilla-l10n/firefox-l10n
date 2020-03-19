@@ -70,7 +70,7 @@ show-dir-label =
         [windows] Otvori mapu
        *[other] Otvori direktorij
     }
-modified-key-prefs-title = Važne izmijenjene osobitosti
+modified-key-prefs-title = Važne izmijenjene postavke
 modified-prefs-name = Naziv
 modified-prefs-value = Vrijednost
 user-js-title = user.js osobitosti
@@ -119,7 +119,7 @@ restart-in-safe-mode-label = Ponovo pokreni s isključenim dodacima …
 ## Media titles
 
 audio-backend = Audio pozadina
-max-audio-channels = Maksimalno kanala
+max-audio-channels = Maksimalan broj kanala
 channel-layout = Preferirani raspored kanala
 sample-rate = Željena učestalost uzorka
 media-title = Medij
@@ -129,11 +129,11 @@ media-device-name = Naziv
 media-device-group = Grupa
 media-device-vendor = Prodavač
 media-device-state = Država
-media-device-preferred = Željeno
+media-device-preferred = Preferirano
 media-device-format = Oblik
 media-device-channels = Kanali
 media-device-rate = Stopa
-media-device-latency = Latencija
+media-device-latency = Kašnjenje
 media-capabilities-title = Mogućnosti medija
 # List all the entries of the database.
 media-capabilities-enumerate = Popis unosa baze podataka
@@ -275,7 +275,7 @@ gpu-device-reset = Ponovno pokretanje uređaja
 gpu-device-reset-button = Aktiviraj ponovno pokretanje uređaja
 uses-tiling = Koristi sličice
 content-uses-tiling = Koristi sličice (sadržaj)
-off-main-thread-paint-enabled = Omogućeno iscrtavanje izvan glavnog procesa
+off-main-thread-paint-enabled = Aktivirano iscrtavanje izvan glavnog procesa
 off-main-thread-paint-worker-count = Broj radnih procesa za iscrtavanje izvan glavne niti
 target-frame-rate = Ciljani broj sličica
 min-lib-versions = Očekivana najmanja verzija
