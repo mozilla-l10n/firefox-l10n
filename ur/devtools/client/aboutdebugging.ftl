@@ -14,6 +14,9 @@
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = یہ  { -brand-shorter-name }
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = سیٹ اپ
@@ -33,6 +36,9 @@ about-debugging-sidebar-no-devices = کوئی آلہ دریافت نہیں ہو�
 about-debugging-sidebar-item-connect-button = جڑیں
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = جوڑ رہا ہے…
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = کنکشن ابھی باقی ہے ، ہدف شدہ براؤزر پر موجود پیغامات کی پڑتال کریں
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = جڈے ہوئے ہے
@@ -43,6 +49,9 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
+# will attempt to update the list of devices displayed in the sidebar.
+about-debugging-refresh-usb-devices-button = الات تازہ کریں
 
 # Setup Page strings
 
@@ -56,6 +65,8 @@ about-debugging-setup-usb-status-disabled = غیر فعال
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = شامل کریں
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = ابھی تک نیٹ ورک کی کوئی  محل وقوع شامل نہیں کی گئیں۔
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -77,6 +88,15 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = ٹیبس
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = خدمت کارکنان
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = مشترکہ کارکنان
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = دیگر کارکنان
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = عوامل
@@ -120,6 +140,10 @@ about-debugging-worker-status-registering = رجسٹریشن کر رہا ہے
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = دائرہ کار
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = پش سروس
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = مرکزی عمل
