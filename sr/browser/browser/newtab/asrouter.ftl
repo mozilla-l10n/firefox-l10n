@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Препоручене екстензије
 cfr-doorhanger-feature-heading = Препоручена могућност
 cfr-doorhanger-pintab-heading = Пробајте ово: закачи језичак
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово
@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = по { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоруке
+cfr-doorhanger-extension-notification2 = Препорука
+    .tooltiptext = Препорука за проширење
+    .a11y-announcement = Препорука за проширење је доступна
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Препорука
+    .tooltiptext = Препорука за својство
+    .a11y-announcement = Препорука за својство је доступна
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -74,14 +82,38 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Прегледајте без праћења
+cfr-protections-panel-body = Задржите своје податке. { -brand-short-name } пружа заштиту од уобичајених трагача који прате ваше радње на мрежи.
+cfr-protections-panel-link-text = Сазнајте више
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Нова функција:
 cfr-whatsnew-button =
     .label = Шта је ново
     .tooltiptext = Шта је ново
 cfr-whatsnew-panel-header = Шта је ново
+cfr-whatsnew-release-notes-link-text = Прочитајте напомене о издању
+cfr-whatsnew-fx70-title = { -brand-short-name } се сада бори још више за вашу приватност
+cfr-whatsnew-fx70-body =
+    Заштита од праћења је побољшана у најновијој верзији и олакшава вам
+    стварање сигурних лозинки за појединачне веб странице.
+cfr-whatsnew-tracking-protect-title = Заштитите се од софтвера за праћење
 cfr-whatsnew-lockwise-backup-link-text = Укључите резерве
+
+## Search Bar
+
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
 
 ## Bookmark Sync
 
@@ -112,4 +144,7 @@ cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name 
     .accesskey = И
 
 ## Social Tracking Protection
+
+
+## Enhanced Tracking Protection Milestones
 
