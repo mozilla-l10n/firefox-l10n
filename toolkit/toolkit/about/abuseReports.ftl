@@ -76,7 +76,7 @@ abuse-report-broken-reason-extension = Ne radi, kvari web stranice ili usporava 
 abuse-report-broken-reason-theme = Ne radi ili kvari prikaz preglednika
 abuse-report-broken-reason-extension-v2 = Ne radi, slama web-stranice ili usporava { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ne radi ili slama prikaz preglednika
-abuse-report-broken-example = Primjer: Značajke su spore, teško ih je koristiti ili ne rade, dijelovi web stranica se ne žele učitati ili izgledaju kako ne bi trebali
+abuse-report-broken-example = Primjer: Funkcije su spore, teško ih je koristiti ili ne rade, dijelovi web stranica se ne mogu učitati ili čudno izgledaju
 abuse-report-broken-suggestions-extension =
     Čini se da si našao/la grešku. Pored slanja prijave ovdje, najbolji način
     za rješavanje funkcionalnih problema je, da kontaktiraš programera proširenja.
