@@ -337,7 +337,7 @@ play-drm-content =
 play-drm-content-learn-more = Saznaj više
 update-application-title = { -brand-short-name } dopune
 update-application-description = Ažuriraj { -brand-short-name } za najbolju preformansu, stabilnost i sigurnost.
-update-application-version = Inačica { $version } <a data-l10n-name="learn-more">Što je novo</a>
+update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
     .label = Prikaži povijest ažuriranja…
     .accesskey = P
