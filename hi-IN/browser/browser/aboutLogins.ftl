@@ -26,6 +26,8 @@ menu =
     .title = मेन्यू खोलें
 # This menuitem is only visible on Windows
 menu-menuitem-import = पासवर्ड आयात करें...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = दूसरे ब्राउज़र से आयात करें…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] विकल्प
