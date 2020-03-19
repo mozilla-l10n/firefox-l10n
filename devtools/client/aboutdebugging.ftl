@@ -96,6 +96,8 @@ about-debugging-setup-this-firefox =
         [neuter] { -brand-shorter-name(case: "gen") }
        *[other] aplikace { -brand-shorter-name }
     }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Použijte <a>{ about-debugging-this-firefox-runtime-name }</a> pro ladění rozšíření a service workerů v této verzi { -brand-shorter-name(case: "loc") }
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Připojit zařízení
 # USB section of the Setup page
