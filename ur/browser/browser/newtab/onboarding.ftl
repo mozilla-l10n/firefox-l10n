@@ -50,7 +50,7 @@ onboarding-fullpage-form-email =
 
 onboarding-sync-welcome-header = { -brand-product-name }کو  اپنے ساتھ جائے
 onboarding-sync-welcome-content = اپنے تمام آلات پر اپنی نشانیاں ، سابقات ، پاس ورڈ اور دیگر ترتیبات حاصل کریں۔
-onboarding-sync-welcome-learn-more-link = Firefox Accounts کے بارے میں مزید سیکھیں
+onboarding-sync-welcome-learn-more-link = Firefox اکاؤنٹس کے بارے میں مزید سیکھیں
 onboarding-sync-form-input =
     .placeholder = ای میل
 onboarding-sync-form-continue-button = جاری رکھیں

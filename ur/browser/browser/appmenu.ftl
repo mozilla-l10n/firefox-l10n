@@ -21,4 +21,4 @@ appmenuitem-zoom-reduce =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = ابھی ہمہ وقت سازی کریں
+    .label = ابھی Sync کریں
