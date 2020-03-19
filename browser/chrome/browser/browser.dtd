@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "j">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informace o stránce">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Debugger rozložení">
 <!ENTITY ldbCmd.accesskey "l">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "r">
 <!ENTITY exitFullScreenCmd.label "Ukončit režim celé obrazovky">
 <!ENTITY exitFullScreenCmd.accesskey "r">
+
 <!ENTITY fullScreenCmd.label "Celá obrazovka">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Ověřte svůj účet">
 
-
-<!ENTITY togglePictureInPicture.key2 "(">
-<!ENTITY togglePictureInPicture.key ")"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovat">
 <!ENTITY fullScreenRestore.tooltip "Obnovit">
@@ -175,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Nastavení účtu">
 <!ENTITY fxa.menu.manageAccount2.label "Správa účtu">
 <!ENTITY fxa.menu.signOut.label "Odhlásit se…">
-<!ENTITY fxa.menu.deviceSettings.label "Nastavení zařízení">
 <!ENTITY fxa.menu.setupSync.label "Nastavit &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
-
 <!ENTITY bookmarkThisPageCmd.label "Přidat stránku do záložek">
 <!ENTITY editThisBookmarkCmd.label "Upravit záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "o">
 <!ENTITY stopCmd.label                "Zastavit">
 <!ENTITY stopCmd.accesskey            "s">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Přejde na adresu v adresním řádku">
 <!ENTITY printButton.label            "Vytisknout">
 <!ENTITY printButton.tooltip          "Vytiskne tuto stránku">
@@ -417,7 +411,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Obnovit předchozí relaci">
 
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Zobrazit celou historii">
@@ -498,6 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Více">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Zadejte webovou adresu nebo dotaz pro vyhledávač">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -597,7 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Zobrazit pouze tento rám">
 <!ENTITY showOnlyThisFrameCmd.accesskey "p">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Znovu načíst rám">
 <!ENTITY reloadFrameCmd.accesskey     "m">
@@ -631,6 +624,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Přidat rám do záložek">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
+
 <!ENTITY pageAction.copyLink.label    "Kopírovat odkaz">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,11 +638,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Poslat odkaz e-mailem…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Uložit stránku jako…">
 <!ENTITY savePageCmd.accesskey        "U">
-<!ENTITY savePageCmd.accesskey2       "j">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "j">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Uložit rám jako…">
 <!ENTITY saveFrameCmd.accesskey       "r">
@@ -752,20 +745,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zvětšit">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "v">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zmenšit">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Výchozí">
 <!ENTITY fullZoomResetCmd.accesskey     "c">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -789,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zavřít">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
@@ -815,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "o">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Změnit směr textu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Najít na této stránce…">
@@ -845,19 +833,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Spojení">
 <!ENTITY identity.connectionSecure "Zabezpečené spojení">
 <!ENTITY identity.connectionNotSecure "Spojení není zabezpečeno">
-
-<!ENTITY identity.connectionSecure3 "Zabezpečené spojení">
-<!ENTITY identity.connectionNotSecure2 "Spojení není zabezpečené">
-<!ENTITY identity.connectionNotSecureSecurityView "Spojení s tímto serverem není zabezpečené.">
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
 <!ENTITY identity.connectionVerified2 "Spojení s tímto serverem je zabezpečené. Jeho provozovatelem je:">
-<!ENTITY identity.connectionVerified3 "Spojení s tímto serverem je zabezpečené.">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
 <!ENTITY identity.extensionPage "Tato stránka je načtena z doplňku.">
 <!ENTITY identity.insecureLoginForms2 "Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.">
 <!ENTITY identity.customRoot "Připojení je ověřeno vydavatelem certifikátů, kterého Mozilla nezná.">
-
-<!ENTITY identity.evOwnerLabel2 "Certifikát vydán pro:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
@@ -892,8 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Vymazat cookies a data stránky…">
 
 <!ENTITY identity.permissions "Oprávnění">
-
-<!ENTITY identity.permissions3 "Oprávnění">
 <!ENTITY identity.permissionsEmpty "Tento server nemá žádná zvláštní oprávnění.">
 <!ENTITY identity.permissionsReloadHint "Pro provedení změn může být potřeba stránku znovu načíst.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otevřít nastavení oprávnění">
@@ -946,7 +925,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Těžba kryptoměn využívá výpočetní výkon vašeho počítače k získávání digitálních měn. Běžící skripty vybíjí vaši baterii a zpomalují váš počítač.">
 <!ENTITY protections.fingerprinters.description "Sběrem informací o vašem prohlížeči a počítači lze vytvořit unikátní otisk a ten pak použít k vašemu sledování napříč různými a nijak nesouvisejícími servery a webovými stránkami.">
 <!ENTITY protections.trackingContent2.description "Webové stránky mohou načítat externí reklamy, videa a další obsah, který obsahuje sledovací kód. Po zablokování sledujícího obsahu se stránky načítají rychleji, ale některá tlačítka nebo formuláře nemusí správně fungovat.">
-<!ENTITY protections.socialMediaTrackers.description "Sociální sítě umisťují na ostatní stránky sledovací prvky, pomocí kterých mohou sledovat, co na internetu sledujete. Tím získávají informace o vašich zájmech i bez toho, abyste na dané sítí něco sdíleli s ostatními.">
+<!ENTITY protections.socialMediaTrackers.description "Sociální sítě umisťují na ostatní stránky sledovací prvky, pomocí kterých mohou sledovat, co na internetu děláte, vidíte a co si pouštíte. To umožňuje společnostem, které tato sociální média vlastní, dozvědět se o vás víc než jen to, co sdílíte na svých profilech.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

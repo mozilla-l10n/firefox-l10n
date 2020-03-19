@@ -23,14 +23,12 @@
 <!ENTITY dnsNotFound.pageTitle "Server nenalezen">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm, tuto stránku se nám nedaří najít.">
-<!ENTITY dnsNotFound.longDesc1 "
-<strong>Pokud je tato adresa správná, můžete:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Pokud je tato adresa správná:</strong>
 <ul>
-  <li>To zkusit znovu později.</li>
-  <li>Zkontrolovat připojení k síti.</li>
+  <li>Zkuste to znovu později.</li>
+  <li>Zkontrolujte připojení k síti.</li>
   <li>Pokud jste připojeni přes firewall, zkontrolujte, že má &brandShortName; povolený přístup na web.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "
