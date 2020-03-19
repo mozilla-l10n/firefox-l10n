@@ -365,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Hiện các Chuông báo">
 <!ENTITY calendarproperties.cache3.label                   "Hỗ trợ ngoại tuyến">
 <!ENTITY calendarproperties.enabled.label                  "Kích hoạt bộ lịch này">
+<!ENTITY calendarproperties.enabled2.label                 "Kích hoạt lịch này">
 <!ENTITY calendarproperties.forceDisabled.label            "Không thể tìm thấy nhà cung cấp bộ lịch này. Điều này thường xảy ra khi bạn vô hiệu hóa hoặc gỡ bỏ tiện ích nào đó.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dừng theo dõi">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "D">
