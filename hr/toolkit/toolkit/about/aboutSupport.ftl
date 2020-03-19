@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Informacije rješavanja problema
-page-subtitle = Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada pokušavate riješiti problem. Ako tražite odgovore na česta pitanja o { -brand-short-name }u, posjetite našu <a data-l10n-name="support-link">web stranicu podrške</a>.
+page-title = Podaci za rješavanja problema
+page-subtitle = Ova stranica sadrži tehničke podatke koji mogu biti korisni pri rješavanju problema. Ako tražiš odgovore na česta pitanja o { -brand-short-name }u, posjeti našu <a data-l10n-name="support-link">web stranicu podrške</a>.
 crashes-title = Izvještaji o rušenju
 crashes-id = ID izvještaja
 crashes-send-date = Poslano

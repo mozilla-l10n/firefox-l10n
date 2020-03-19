@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = O profilima
-profiles-subtitle = Ova stranica vam pomaže kod upravljanja profilima. Svaki profil je zasebna cjelina koja sadrži zasebnu povijest, zabilješke, postavke i dodatke.
+profiles-subtitle = Ova stranica pomaže pri upravljanju profilima. Svaki profil je zasebna cjelina koja sadrži zasebnu povijest, zabilješke, postavke i dodatke.
 profiles-create = Stvori novi profil
 profiles-restart-title = Ponovo pokreni
 profiles-restart-in-safe-mode = Ponovo pokreni s isključenim dodacima …
