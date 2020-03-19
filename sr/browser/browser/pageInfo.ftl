@@ -14,6 +14,8 @@ select-all =
 menu-select-all =
     .label = Изабери све
     .accesskey = И
+close-dialog =
+    .key = w
 general-tab =
     .label = Опште
     .accesskey = О
@@ -181,6 +183,18 @@ properties-general-size =
             [one] { $kb } КВ ({ $bytes } бајт)
             [few] { $kb } КВ ({ $bytes } бајта)
            *[other] { $kb } КВ ({ $bytes } бајтова)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } Слика (анимирана, { $frames } фрејм)
+            [few] { $type } Слика (анимирана, { $frames } фрејма)
+           *[other] { $type } Слика (анимирана, { $frames } фрејмова)
         }
 # This string is used to display the type of
 # an image

@@ -290,6 +290,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Користи { $plugin-name } (за { -brand-short-name })
@@ -403,6 +407,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Тражи текст када почнем да куцам
     .accesskey = т
+browsing-picture-in-picture-toggle-enabled =
+    .label = Омогућите слика-у-слици видео контролу
+    .accesskey = О
+browsing-picture-in-picture-learn-more = Сазнајте више
 browsing-cfr-recommendations =
     .label = Препоручи проширења приликом прегледања
     .accesskey = р
@@ -677,6 +685,7 @@ privacy-header = Приватност прегледача
 ## Privacy Section - Logins and Passwords
 
 logins-header = Пријаве и лозинке
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Питај да сачуваш пријаве и лозинке веб сајтова
     .accesskey = П
@@ -686,6 +695,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Предлажи и стварај јаке лозинке
     .accesskey = а
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Самостално попуњавај пријаве и лозинке
     .accesskey = и
@@ -700,6 +710,9 @@ forms-master-pw-change =
     .accesskey = П
 forms-master-pw-fips-title = У овом тренутку налазите се у FIPS режиму. У режиму FIPS није дозвољено користити празну главну лозинку.
 forms-master-pw-fips-desc = Грешка приликом промене лозинке
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
