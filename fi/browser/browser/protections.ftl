@@ -52,6 +52,8 @@ fingerprinter-tab-title = Yksilöijät
 fingerprinter-tab-content = Yksilöijät keräävät asetustietoja selaimestasi sekä tietokoneestasi ja luovat näiden tietojen avulla profiilin sinusta. Tätä digitaalista sormenjälkeä hyödyntämällä sinua voidaan seurata eri verkkosivustojen välillä. <a data-l10n-name="learn-more-link">Lue lisää</a>
 cryptominer-tab-title = Kryptolouhijat
 cryptominer-tab-content = Kryptolouhijat käyttävät tietokoneesi laskentatehoa digitaalisen rahan louhintaan. Kryptolouhintaan tarkoitetut komentosarjat kuluttavat tietokoneen akkua, hidastavat tietokonetta ja voivat vaikuttaa sähkölaskun loppusummaan. <a data-l10n-name="learn-more-link">Lue lisää</a>
+mobile-app-title = Estä mainosseuraimia useammilla laitteilla
+mobile-app-card-content = Käytä mobiiliselainta, jossa on sisäänrakennettu suojaus mainosseurantaa vastaan.
 mobile-app-links = { -brand-product-name }-selain <a data-l10n-name="android-mobile-inline-link">Androidille</a> ja <a data-l10n-name="ios-mobile-inline-link">iOS:lle</a>
 lockwise-title = Lopeta salasanojen unohtaminen
 lockwise-title-logged-in = { -lockwise-brand-name }
