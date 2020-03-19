@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Shfletim Privat)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Shfletim Privat)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -112,6 +96,11 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Merrni ndihmë
 urlbar-search-tips-confirm = OK, E mora vesh
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Ndihmëz:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -120,6 +109,7 @@ urlbar-search-tips-confirm = OK, E mora vesh
 
 urlbar-search-tips-onboard = Shtypni më pak, gjeni më shumë: Kërkoni me { $engineName } drejt e nga shtylla juaj e adresave.
 urlbar-search-tips-redirect = Fillojeni kërkimin tuaj këtu që të shihni sugjerime nga { $engineName } dhe nga historiku juaj i shfletimit.
+urlbar-search-tips-redirect-2 = Filloni kërkimin tuaj te shtylla e adresave që të shihni sugjerime nga { $engineName } dhe nga historiku juaj i shfletimit.
 
 ##
 
