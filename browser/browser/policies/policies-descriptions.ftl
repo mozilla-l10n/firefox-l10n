@@ -22,6 +22,7 @@ policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vy
 policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
+policy-DisabledCiphers = Zakáže šifry.
 policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre preberanie súborov.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
 policy-DisableBuiltinPDFViewer = Zablokuje PDF prehliadač PDF.js zabudovaný v aplikácii { -brand-short-name }.
