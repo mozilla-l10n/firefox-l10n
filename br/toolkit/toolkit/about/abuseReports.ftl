@@ -19,6 +19,8 @@ abuse-report-learnmore =
     Ne ouezit ket peseurt kudenn dibab ?
     <a data-l10n-name="learnmore-link">Gouzout hiroc'h diwar-benn an disklêriañ askouezhadennoù ha temoù</a>
 abuse-report-submit-description = Deskrivañ ar gudenn (diret)
+abuse-report-textarea =
+    .placeholder = Aesoc'h eo evidomp diskoulmañ ur gudenn ma anavezomp ar munudoù. Deskrivit ho kudenn mar plij. Trugarez deoc'h da sikour ac'hanomp a-benn mirout ar Web yac'h.
 abuse-report-submit-note =
     Evezhiadenn : Ne lakit ket titouroù personel (evel an anv, chomlec'h postel, niverenn pellgomz, chomlec'h).
     { -vendor-short-name } a vir an danevelloù-se en un enrolladenn badus.
@@ -38,6 +40,8 @@ abuse-report-submit-button = Kas
 
 abuse-report-messagebar-aborted = Disklêriañ <span data-l10n-name="addon-name">{ $addon-name }</span> nullet.
 abuse-report-messagebar-submitting = O kas an disklêriadenn diwar-benn <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-submitted = Trugarez deoc'h da vezañ kaset un danevell. Dilemel <span data-l10n-name="addon-name">{ $addon-name }</span> a fell deoc'h?
+abuse-report-messagebar-submitted-noremove = Trugarez deoc'h da vezañ kaset un danevell.
 
 ## Message bars actions.
 
