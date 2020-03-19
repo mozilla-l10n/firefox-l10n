@@ -63,3 +63,6 @@ abuse-report-spam-example = Skouer: a lak bruderezh war pajennoù web
 abuse-report-settings-reason = En deus cheñchet ma lusker enklask, ma fajenn degemer pe ivinell nevez hep kelaouiñ ac'hanon pe goulenn ouzhin
 abuse-report-settings-reason-v2 = En deus cheñchet ma lusker enklask, ma fajenn degemer pe ivinell nevez hep kelaouiñ ac'hanon pe goulenn ouzhin
 abuse-report-settings-suggestions = A-raok danevelliñ an astenn e c'hellit klask cheñch ho arventennoù:
+abuse-report-settings-suggestions-search = A cheñch ho arventennoù enklask dre ziouer
+abuse-report-settings-suggestions-homepage = A cheñch ho pajenn degemer hag ivinell nevez
+abuse-report-deceptive-reason = A lavar eo un dra bennak n'eo ket anezhañ/anezhi
