@@ -39,6 +39,7 @@ abuse-report-messagebar-aborted = <span data-l10n-name = "addon-name"> { $addon-
 abuse-report-messagebar-submitting = <span data-l10n-name = "addon-name"> { $addon-name } </span> کیلئے رپورٹ بھیجنا۔
 abuse-report-messagebar-submitted = رپورٹ چمع کرانے کا  شکریہ۔ کیا آپ  <span data-l10n-name="addon-name">{ $addon-name } کو ہٹانا  چاہتے ہیں؟
 abuse-report-messagebar-submitted-noremove = رپورٹ جمع کرنے کا شکریہ۔
+abuse-report-messagebar-removed-extension = رپورٹ جمع کرنے کا شکریہ۔ آپنے ایکسٹینشن <"span> { $addon-name }<span data-l10n-name="addon-name/> کو ہٹا دیا ہے۔
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name ="addon-name"> { $addon-name }</span> کے لئے رپورٹ نہیں بھیجی گئی تھی کیونکہ حال ہی میں ایک اور رپورٹ پیش کی گئی تھی۔
 
 ## Message bars actions.
