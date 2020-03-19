@@ -12,7 +12,7 @@ crashes-no-config = Ovaj program nije podešen da prikazuje izvještaje o rušen
 extensions-title = Proširenja
 extensions-name = Naziv
 extensions-enabled = Omogućeno
-extensions-version = Inačica
+extensions-version = Verzija
 extensions-id = ID
 security-software-title = Sigurnosni softver
 security-software-type = Vrsta
@@ -22,16 +22,16 @@ security-software-antispyware = Antispyware
 security-software-firewall = Vatrozid
 features-title = { -brand-short-name } mogućnosti
 features-name = Naziv
-features-version = Inačica
+features-version = Verzija
 features-id = ID
 processes-title = Udaljeni procesi
 processes-type = Vrsta
 processes-count = Broj
 app-basics-title = Osnove aplikacije
 app-basics-name = Naziv
-app-basics-version = Inačica
+app-basics-version = Verzija
 app-basics-build-id = Build ID
-app-basics-update-channel = Kanal ažuriranja
+app-basics-update-channel = Kanal nadogradnje
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
@@ -50,7 +50,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Omogućeni priključci
 app-basics-build-config = Build konfiguracija
-app-basics-user-agent = User Agent
+app-basics-user-agent = Korisnički agent
 app-basics-os = OS
 app-basics-memory-use = Zauzeće memorije
 app-basics-performance = Performansa
@@ -101,7 +101,7 @@ a11y-activated = Aktivirano
 a11y-force-disabled = Onemogući pristupačnost
 a11y-handler-used = Korišteni upravljač pristupačnosti
 a11y-instantiator = Pokretač pristupačnosti
-library-version-title = Inačice biblioteke
+library-version-title = Verzija biblioteke
 copy-text-to-clipboard-label = Kopiraj tekst u međuspremnik
 copy-raw-data-to-clipboard-label = Kopiraj neobrađene podatke u međuspremnik
 sandbox-title = Odvojeno pokretanje
@@ -210,10 +210,10 @@ text-copied = Tekst kopiran u međuspremnik
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Blokirano zbog inačice upravljačkog programa grafičke kartice.
+blocked-driver = Blokirano zbog verzije upravljačkog programa grafičke kartice.
 blocked-gfx-card = Blokirano za vašu grafičku karticu zbog neriješenih problema s upravljačkim programom.
 blocked-os-version = Blokirano za verziju tvog operacijskog sustava.
-blocked-mismatched-version = Blokiran jer se inačice upravljačkog programa vaše grafičke kartice ne podudaraju u registru i DLL-u.
+blocked-mismatched-version = Blokiran zbog nepodudaranja verzije upravljačkog programa tvoje grafičke kartice između registra i DLL-a.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokirano za verziju upravljačkog programa grafičke kartice. Pokušaj nadograditi upravljački program grafičke kartice na verziju { $driverVersion } ili noviju.
@@ -243,7 +243,7 @@ gpu-subsys-id = Subsys ID
 gpu-drivers = Upravljački programi
 gpu-ram = RAM
 gpu-driver-vendor = Izdavatelj upravljačkog programa
-gpu-driver-version = Inačica upravljačkog programa
+gpu-driver-version = Verzija upravljačkog programa
 gpu-driver-date = Datum upravljačkog programa
 gpu-active = Aktivan
 webgl1-wsiinfo = WSI informacije upravljačkog programa WebGL 1
@@ -278,8 +278,8 @@ content-uses-tiling = Koristi sličice (sadržaj)
 off-main-thread-paint-enabled = Omogućeno iscrtavanje izvan glavnog procesa
 off-main-thread-paint-worker-count = Broj radnih procesa za iscrtavanje izvan glavne niti
 target-frame-rate = Ciljani broj sličica
-min-lib-versions = Očekivana najmanja inačica
-loaded-lib-versions = Korištena inačica
+min-lib-versions = Očekivana najmanja verzija
+loaded-lib-versions = Korištena verzija
 has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
 has-seccomp-tsync = Seccomp Thread sinkronizacija
 has-user-namespaces = Korisnički imenski prostori
