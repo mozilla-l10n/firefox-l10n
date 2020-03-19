@@ -36,12 +36,18 @@ about-debugging-sidebar-no-devices = کوئی آلہ دریافت نہیں ہو�
 about-debugging-sidebar-item-connect-button = جڑیں
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = جوڑ رہا ہے…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = رابطہ ناکام رہا
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = کنکشن ابھی باقی ہے ، ہدف شدہ براؤزر پر موجود پیغامات کی پڑتال کریں
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = جڈے ہوئے ہے
+# Text displayed in sidebar items for remote devices where a compatible browser (eg
+# Firefox) has not been detected yet. Typically, Android phones connected via USB with
+# USB debugging enabled, but where Firefox is not started.
+about-debugging-sidebar-runtime-item-waiting-for-browser = براؤزر کا انتظار کر رہا ہے…
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }{ $deviceName }
@@ -57,11 +63,26 @@ about-debugging-refresh-usb-devices-button = الات تازہ کریں
 
 # Title of the Setup page.
 about-debugging-setup-title = سیٹ اپ
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = ایک آلہ جوڑیں
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = USB آلات کو فعال بنائیں
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = USB آلات کو غیر فعال بنائیں
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = تازہ کاری کر رہا ہے…
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = فعال
 about-debugging-setup-usb-status-disabled = غیر فعال
+about-debugging-setup-usb-status-updating = تازہ کاری کر رہا ہے…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = اپنے Android آلہ پر ڈیولپر مینو کو فعال بنائیں۔
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Android آلہ کو اپنے کمپیوٹر سے مربوط کریں۔
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = شامل کریں
@@ -103,6 +124,10 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = پروفائل کی کارکردگی
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } { $version }
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = منقطع کریں
@@ -128,6 +153,11 @@ about-debugging-tmp-extension-remove-button = ہٹائیں
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = موجودہ مقام
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = دھکیلیں
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = شروع کریں
 # Displayed for service workers in runtime pages that are currently running (service
@@ -147,5 +177,11 @@ about-debugging-worker-push-service =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = مرکزی عمل
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = ہدف بشدہ راؤزر کے لئے اہم عمل
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باکس
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = تفصیلات
