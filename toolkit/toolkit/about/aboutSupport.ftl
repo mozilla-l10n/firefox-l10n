@@ -37,29 +37,29 @@ app-basics-update-channel = Kanal nadogradnje
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Mapa za ažuriranja
-       *[other] Mapa za ažuriranja
+       *[other] Mapa za nadogradnje
     }
-app-basics-update-history = Povijest ažuriranja
-app-basics-show-update-history = Prikaži povijest ažuriranja
+app-basics-update-history = Povijest nadogradnji
+app-basics-show-update-history = Prikaži povijest nadogradnji
 # Represents the path to the binary used to start the application.
 app-basics-binary = Binarna aplikacija
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Direktorij profila
-       *[other] Direktorij profila
+       *[other] Mapa profila
     }
-app-basics-enabled-plugins = Omogućeni priključci
-app-basics-build-config = Build konfiguracija
+app-basics-enabled-plugins = Aktivirani priključci
+app-basics-build-config = Konfiguracija gradnje
 app-basics-user-agent = Korisnički agent
 app-basics-os = OS
-app-basics-memory-use = Zauzeće memorije
+app-basics-memory-use = Upotreba memorije
 app-basics-performance = Performansa
 app-basics-service-workers = Registrirani radni procesi usluge
 app-basics-profiles = Profili
 app-basics-launcher-process-status = Pokretački proces
-app-basics-multi-process-support = Više procesni prozori
+app-basics-multi-process-support = Višeprocesni prozori
 app-basics-remote-processes-count = Udaljeni procesi
-app-basics-enterprise-policies = Pravila poduzeća
+app-basics-enterprise-policies = Politike poduzeća
 app-basics-location-service-key-google = Google ključ za usluge lokacije
 app-basics-safebrowsing-key-google = Google ključ za sigurno pregledavanje
 app-basics-key-mozilla = Mozilla ključ za usluge lokacije
