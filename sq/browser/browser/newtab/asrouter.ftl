@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Zgjerim i Këshilluar
 cfr-doorhanger-feature-heading = Veçori e Këshilluar
 cfr-doorhanger-pintab-heading = Provoni Këtë: Fiksoni Skedë
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pse më del kjo?
@@ -115,6 +115,16 @@ cfr-whatsnew-lockwise-backup-link-text = Aktivizoni kopjeruajtjet
 cfr-whatsnew-lockwise-take-title = Merrini fjalëkalimet tuaj me vete
 cfr-whatsnew-lockwise-take-body = Aplikacioni { -lockwise-brand-short-name } për celular ju lejon të përdorni në mënyrë të parrezik prej ngado fjalëkalimet që keni kopjeruajtur.
 cfr-whatsnew-lockwise-take-link-text = Merrni aplikacionin
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Shtypni më pak, gjeni më shumë me shtyllën e adresave
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Shkoni te sajtet që vizitoni më tepër me një klikim të vetëm te shtylla e adresave. Gjeni gjëra më shpejt, me përfundime prej { $searchEngineName } dhe historikut tuaj të shfletimit.
+cfr-whatsnew-searchbar-body-generic = Shkoni te sajtet që vizitoni më tepër me një klikim të vetëm te shtylla e adresave. Gjejini gjëra më shpejt, me përfundime kërkimi prej historikut tuaj të shfletimit.
+cfr-whatsnew-searchbar-body-topsites = Tani, thjesht përzgjidhni shtyllën e adresave, dhe do të zgjerohet një kuadrat me lidhje për te sajtet tuaj kryesues.
+cfr-whatsnew-searchbar-icon-alt-text = Ikonë thjerrëze zmadhimi
 
 ## Picture-in-Picture
 

@@ -33,6 +33,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> s’ka
 inactive-css-not-display-block-on-floated = Vlera <strong>display</strong> është ndryshuar nga motori në <strong>block</strong>, ngaqë elementi është <strong>floated<strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Është e pamundur të anashkalohet <strong>{ $property }</strong>, për shkak të kufizimit <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është element i pozicionuar.
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë <strong>overflow:hidden</strong> s’është caktuar.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +54,4 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Provoni të sht
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provoni të shtoni <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Provoni të hiqni <strong>float</strong> ose të shtoni <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Provoni të ujdisni vetinë e tij <strong>position</strong> si diçka tjetër nga <strong>static</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Provoni të shtoni <strong>overflow:hidden</strong>. { learn-more }
