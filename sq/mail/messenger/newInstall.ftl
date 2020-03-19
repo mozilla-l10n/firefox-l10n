@@ -6,3 +6,4 @@ connection-window =
     .title = Lajme të Rëndësishme
 continue-button =
     .label = Vazhdo
+main-text = Ky instalim i { -brand-short-name } ka një profil të ri. Nuk ndan me instalime të tjera në këtë kompjuter të { -brand-product-name } (përfshi { -brand-product-name }, { -brand-product-name } Beta, dhe { -brand-product-name } Daily)  të dhëna email-esh, fjalëkalime, parapëlqime përdoruesish dhe libra adresash.
