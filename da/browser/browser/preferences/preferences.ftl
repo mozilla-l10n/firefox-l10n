@@ -791,6 +791,18 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Du er pt. i FIPS tilstand. FIPS kræver en ikke-tom hovedadgangskode.
 forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Bekræft din identitet for at oprette en hovedadgangskode.
+
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = oprette en hovedadgangsnøgle
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Historik
