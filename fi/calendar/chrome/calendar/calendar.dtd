@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Luo uusi tehtävä" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tehtävät" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Näytä suoritetut tehtävät">
 
 <!ENTITY calendar.today.button.label          "Tänään">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Näytä muistutukset">
 <!ENTITY calendarproperties.cache3.label                   "Yhteydettömän tilan tuki">
 <!ENTITY calendarproperties.enabled.label                  "Tämä kalenteri on aktiivinen">
+<!ENTITY calendarproperties.enabled2.label                 "Ota tämä kalenteri käyttöön">
 <!ENTITY calendarproperties.forceDisabled.label            "Tämän kalenterin tuottajaa ei löytynyt. Tämä tapahtuu usein tiettyjen lisäosien poistamisen tai käytöstä poistamisen jälkeen.">
 <!ENTITY calendarproperties.unsubscribe.label              "Peruuta tilaus">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "P">
