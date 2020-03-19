@@ -302,9 +302,9 @@
 <!ENTITY calendar.context.showall.label                "Dangos Pob Calendr">
 <!ENTITY calendar.context.showall.accesskey            "P">
 
-<!ENTITY calendar.context.convertmenu.label              "Trosi i">
+<!ENTITY calendar.context.convertmenu.label              "Trosi I">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "T">
 <!ENTITY calendar.context.convertmenu.event.label        "Digwyddiad…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "D">
 <!ENTITY calendar.context.convertmenu.message.label      "Neges…">
