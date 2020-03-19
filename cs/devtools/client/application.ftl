@@ -27,6 +27,14 @@ serviceworker-worker-debug = Ladit
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Spustit
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Ladit
+    .title = Ladění service workerů je možné pouze při zakázaném multi e10s
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Spustit
+    .title = Spouštět service workery je možné pouze při zakázaném multi e10s
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Aktualizace <time>{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -81,11 +89,17 @@ manifest-loaded-ok = Manifest načten.
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = Při načítání manifestu došlo k chybě:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Chyba ve Firefox DevTools
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nebyl nalezen žádný manifest k prozkoumání.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Manifest je součástí Data URL.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Účel: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
@@ -101,6 +115,10 @@ manifest-icon-img-title-no-sizes = Ikona nespecifikované velikosti
 sidebar-item-manifest = Manifest
     .alt = Ikona manifestu
     .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service workery
+    .alt = Ikona service workerů
+    .title = Service workery
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona varování
