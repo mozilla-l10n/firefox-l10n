@@ -408,7 +408,7 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = Es permet en finestres privades
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
+addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetes
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
