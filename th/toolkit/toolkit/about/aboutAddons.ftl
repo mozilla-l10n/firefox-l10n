@@ -98,7 +98,7 @@ detail-private-browsing-description2 = เมื่ออนุญาตแล�
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ไม่อนุญาตในหน้าต่างส่วนตัว
-detail-private-disallowed-description = ส่วนขยายนี้จะไม่ทำงานในขณะที่เรียกดูแบบส่วนตัว <label data-l10n-name="detail-private-Browsing-Learn-more">เรียนรู้เพิ่มเติม</label>
+detail-private-disallowed-description = ส่วนขยายนี้จะไม่ทำงานในขณะที่เรียกดูแบบส่วนตัว <label data-l10n-name="detail-private-browsing-learn-more">เรียนรู้เพิ่มเติม</label>
 detail-private-disallowed-description2 = ส่วนขยายนี้จะไม่ทำงานในขณะที่เรียกดูแบบส่วนตัว<a data-l10n-name="learn-more">เรียนรู้เพิ่มเติม</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = จำเป็นต้องเข้าถึงหน้าต่างแบบส่วนตัว
