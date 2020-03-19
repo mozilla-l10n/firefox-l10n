@@ -782,6 +782,15 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Du er i FIPS-modus. FIPS krev at du brukar eit hovudpassord.
 forms-master-pw-fips-desc = Mislykka passordendring
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = opprette eit hovudpassord
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Historikk
