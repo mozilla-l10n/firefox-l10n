@@ -90,6 +90,8 @@ about-telemetry-no-search-results-all = O planhèm, i a pas cap de resultat per 
 about-telemetry-no-data-to-display = O planhèm, pel moment i a pas cap de donada disponibla dins “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = donadas actualas
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = tot
 # button label to copy the histogram
@@ -124,3 +126,4 @@ about-telemetry-category-header = categoria
 about-telemetry-method-header = metòde
 about-telemetry-object-header = objècte
 about-telemetry-extra-header = de sòbra
+about-telemetry-origin-origin = origina
