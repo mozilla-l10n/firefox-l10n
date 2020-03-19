@@ -98,11 +98,11 @@ detail-private-browsing-description2 = Pan fydd yna ganiatâd, bydd yr estyniad 
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Heb ei ganiatáu mewn Ffenestri Preifat
-detail-private-disallowed-description = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <label data-l10n-name="details-private-browsing-learning-more">Rhagor o wybodaeth</label>
+detail-private-disallowed-description = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <label data-l10n-name="detail-private-browsing-learn-more">Rhagor o wybodaeth</label>
 detail-private-disallowed-description2 = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <a data-l10n-name="learn-more">Dysgu rhagor</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Angen Mynediad i Ffenestri Preifat
-detail-private-required-description = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein tra'n pori'n breifat. <label data-l10n-name = "details-private-browsing-learning-more">Rhagor o wybodaeth</label>
+detail-private-required-description = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein tra'n pori'n breifat. <label data-l10n-name="detail-private-browsing-learn-more">Rhagor o wybodaeth</label>
 detail-private-required-description2 = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein wrth bori'n breifat. <a data-l10n-name="learn-more">Dysgu mwy</a>
 detail-private-browsing-on =
     .label = Caniatáu
