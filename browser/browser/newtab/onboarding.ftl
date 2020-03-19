@@ -19,24 +19,40 @@ onboarding-button-label-get-started = Први кораци
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Добродошли у { -brand-short-name }
+onboarding-welcome-body = Имате прегледач. <br/>Упознајте и остатак { -brand-product-name } екипе.
+onboarding-welcome-learn-more = Сазнајте више о предностима.
+onboarding-welcome-modal-get-body = Имате прегледач.<br/>А сада искористите максимум из { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Појачајте заштиту приватности.
+onboarding-welcome-modal-privacy-body = Инсталација прегледача је завршена. Додајмо сада још више заштите приватности.
+onboarding-welcome-modal-family-learn-more = Сазнајте више о { -brand-product-name } породици производа.
+onboarding-welcome-form-header = Почните овде
 onboarding-join-form-header = Придружи се пројекту { -brand-product-name }
 onboarding-join-form-body = Унесите своју е-адресу да бисте започели.
 onboarding-join-form-email =
     .placeholder = Унесите е-адресу
 onboarding-join-form-email-error = Потребна је важећа е-адреса
+onboarding-join-form-legal = Настављањем даље, слажете се са <a data-l10n-name="terms">условима коришћења</a> и <a data-l10n-name="privacy">изјавом о политици приватности</a>.
 onboarding-join-form-continue = Настави
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Већ имате налог?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Пријавите се
 onboarding-start-browsing-button-label = Почните са прегледањем
 onboarding-cards-dismiss =
     .title = Уклони
     .aria-label = Уклони
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Хајде да истражимо шта све можете да урадите.
+onboarding-fullpage-form-email =
+    .placeholder = Ваша адреса е-поште…
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Понесите { -brand-product-name } са собом
 onboarding-sync-welcome-content = Имајте све забелешке, историјат, лозинке и друге поставке на свим вашим уређајима.
 onboarding-sync-welcome-learn-more-link = Сазнајте више о Firefox Accounts
-onboarding-sync-form-invalid-input = Исправна е-пошта се захтева
-onboarding-sync-legal-notice = Наставком, прихватате <a data-l10n-name="terms">услове коришћења</a> и <a data-l10n-name="privacy">обавештење о приватности</a>.
 onboarding-sync-form-input =
     .placeholder = Адреса е-поште
 onboarding-sync-form-continue-button = Настави
@@ -51,6 +67,7 @@ onboarding-sync-form-sub-header = да бисте наставили на { -syn
 ## description.
 
 onboarding-benefit-products-title = Корисни производи
+onboarding-benefit-products-text = Радите ефикасније са породицом алатки које поштују вашу приватност на свим вашим уређајима.
 onboarding-benefit-knowledge-title = Примењена знања
 onboarding-benefit-privacy-title = Права приватност
 

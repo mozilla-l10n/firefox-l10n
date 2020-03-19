@@ -45,9 +45,6 @@ newtab-topsites-save-button = Сачувај
 newtab-topsites-preview-button = Преглед
 newtab-topsites-add-button = Додај
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Да ли сте сигурни да желите да обришете све посете ове странице из ваше историје?
@@ -83,14 +80,20 @@ newtab-menu-delete-history = Уклони из историјата
 newtab-menu-save-to-pocket = Сачувај на { -pocket-brand-name }
 newtab-menu-delete-pocket = Обриши из { -pocket-brand-name }-а
 newtab-menu-archive-pocket = Архивирај у { -pocket-brand-name }
+newtab-menu-show-privacy-info = Наши спонзори и ваша приватност
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Готово
+newtab-privacy-modal-header = Ваша приватност је битна.
+newtab-privacy-modal-link = Сазнајте како ради приватност на новом језичку
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Уклони забелешку
 # Bookmark is a verb here.
 newtab-menu-bookmark = Забележи
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +123,6 @@ newtab-label-removed-bookmark = Забелешка је уклоњена
 newtab-label-recommended = У тренду
 newtab-label-saved = Сачувано у { -pocket-brand-name }
 newtab-label-download = Преузето
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -176,7 +175,6 @@ newtab-discovery-empty-section-topstories-timed-out = Упс! Нисмо мог�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популарне теме:
 newtab-pocket-more-recommendations = Још препорука
-newtab-pocket-how-it-works = Како ово ради
 newtab-pocket-cta-button = Преузмите { -pocket-brand-name }
 newtab-pocket-cta-text = Сачувајте приче које волите у { -pocket-brand-name } и напуните свој ум фасцинантним причама.
 

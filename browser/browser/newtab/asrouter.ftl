@@ -172,7 +172,23 @@ cfr-doorhanger-socialtracking-ok-button = Погледај заштите
     .accesskey = П
 cfr-doorhanger-socialtracking-close-button = Затвори
     .accesskey = З
-cfr-doorhanger-socialtracking-heading = { -brand-short-name } је спречио друштвену мрежу да вас прати овде
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } је блокирао друштвену мрежу да вас прати овде
+cfr-doorhanger-socialtracking-description = Ваша приватност је битна. Од сада надаље, { -brand-short-name } блокира уобичајене софтвере за праћење с друштвених мрежа и ограничава ове веб странице да прикупљају вашу мрежну активност.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } је блокирао програм за праћење дигиталних отисака на овој страници
+cfr-doorhanger-fingerprinters-description = Ваша приватност је битна. Од сада надаље, { -brand-short-name } блокира програме за праћење дигиталних отисака, који прикупљају делове јединствено препознатљивих података о вашем уређају да би вас пратили.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } је блокирао програм за ископавање криптовалута на овој страници
+cfr-doorhanger-cryptominers-description = Ваша приватност је битна. Од сада надаље, { -brand-short-name } блокира програме за ископавање криптовалута, који користе рачунарску моћ вашег система да рударе дигитални новац.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
+        [few] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
+       *[other] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
+    }
+cfr-doorhanger-milestone-ok-button = Погледај све
+    .accesskey = П
