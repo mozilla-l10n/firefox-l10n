@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Importoni nga Tjetër Shfletues…
 appmenuitem-protection-report-title = Mbrojtje Privatësie
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Shkoni te raporti juaj mbi privatësinë
