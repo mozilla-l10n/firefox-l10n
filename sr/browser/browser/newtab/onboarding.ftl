@@ -78,6 +78,11 @@ onboarding-benefit-privacy-title = Права приватност
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Све што радимо поштује наше обећање о личним подацима: узми мање података, добро их чувај и без икаквих тајни.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Синхронизујте ознаке, лозинке, историју и остало свуда где користите { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Примите обавештење када се ваши лични подаци појаве у познатом цурењу података.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Управљајте лозинкама које су заштићене и преносиве.
 
 ## These strings belong to the individual onboarding messages.
 
