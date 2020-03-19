@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-reload-selected-tab =
-    .label = Osvježi odabranu karticu
+    .label = Ponovo učitaj odabranu karticu
     .accesskey = r
 toolbar-context-menu-reload-selected-tabs =
-    .label = Osvježi odabrane kartice
+    .label = Ponovo učitaj odabrane kartice
     .accesskey = r
 toolbar-context-menu-bookmark-selected-tab =
     .label = Zabilježi odabranu karticu…

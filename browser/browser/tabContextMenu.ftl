@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = Osvježi karticu
+    .label = Ponovo učitaj karticu
     .accesskey = v
 select-all-tabs =
     .label = Odaberi sve kartice
@@ -21,7 +21,7 @@ close-other-tabs =
     .label = Zatvori ostale kartice
     .accesskey = o
 reload-tabs =
-    .label = Osvježi kartice
+    .label = Ponovo učitaj kartice
     .accesskey = r
 pin-tab =
     .label = Zakači karticu
