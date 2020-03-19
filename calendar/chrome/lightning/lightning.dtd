@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "H">
 <!ENTITY lightning.menupopup.open.message.label       "Mesazh i Ruajtur…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kartelë Kalendari…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Fshijeni nga kalendari">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Hollësi…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Shfaqni hollësi veprimtarie">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Mos m’i shfaq më këto mesazhe">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalendar">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Kaloni te skeda e kalendarit">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Më tepër">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klikoni që të shfaqen më tepër mundësi">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Ripohojeni">
