@@ -42,9 +42,15 @@ abuse-report-messagebar-aborted = Disklêriañ <span data-l10n-name="addon-name"
 abuse-report-messagebar-submitting = O kas an disklêriadenn diwar-benn <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Trugarez deoc'h da vezañ kaset un danevell. Dilemel <span data-l10n-name="addon-name">{ $addon-name }</span> a fell deoc'h?
 abuse-report-messagebar-submitted-noremove = Trugarez deoc'h da vezañ kaset un danevell.
+abuse-report-messagebar-removed-extension = Trugarez deoc'h evit bezañ kaset un danevell. Dilemet ho peus an astenn <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Trugarez deoc'h da vezañ kaset un danevell. Dilemet ho peus an neuz <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error = C'hoarvezet eo ur fazi evit kas an danevell da <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = An danevell <span data-l10n-name="addon-name">{ $addon-name }</span> n'eo ket bet treuzkaset peogwir eo bet kaset unan all n'eus ket pell.
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = Klask en-dro
+abuse-report-messagebar-action-cancel = Nullañ
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
