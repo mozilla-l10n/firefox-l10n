@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Приватно прегледање)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Приватно прегледање)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -107,6 +91,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складишти податке у трајном складишту
 urlbar-addons-notification-anchor =
     .tooltiptext = Отвори панел са инсталацијом додатака
+urlbar-tip-help-icon =
+    .title = Потражите помоћ
 urlbar-search-tips-confirm = Важи, разумем
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
@@ -185,6 +171,9 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Постави као подразумевани претраживач
     .accesskey = т
+search-one-offs-context-set-as-default-private =
+    .label = Поставите као задани претраживач за приватно претраживање
+    .accesskey = П
 
 ## Bookmark Panel
 
