@@ -54,3 +54,6 @@ abuse-report-messagebar-action-cancel = Nullañ
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Mekaat ma urzhiataer ha ma roadennoù.
+abuse-report-damage-reason-v2 = Mekaet eo bet ma urzhiataer ha ma roadennoù.
+abuse-report-damage-example = Skouer: en deus ensinklet ur wallveziant pe laeret roadennoù
