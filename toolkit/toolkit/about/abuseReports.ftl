@@ -69,4 +69,6 @@ abuse-report-deceptive-example = Exemple : descripcion e imatges enganaires
 abuse-report-broken-reason-extension = Fonciona pas, còpa los sites web, o alentís { -brand-product-name }
 abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
 abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
+abuse-report-unwanted-reason = Ai pas jamai volgut aquesta extension e pòdi pas me‘n desfar
+abuse-report-unwanted-reason-v2 = Ai pas jamai volgut aquò e sabi pas cossí me’n desfar
 abuse-report-other-reason = Quicòm mai
