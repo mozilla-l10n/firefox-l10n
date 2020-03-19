@@ -1043,7 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Onemogući dodatak">
 <!ENTITY newTabControlled.disableButton.accesskey "d">
 
-<!ENTITY homepageControlled.message "Dodatak je promijenio što vidite kao svoju početnu stranicu. Ako ne želite ovu promjenu, možete vratiti svoje postavke.">
+<!ENTITY homepageControlled.message "Jedno proširenje je promijenilo početnu stranicu. Ako ne želiš ovu promjenu, možeš vratiti svoje postavke.">
 
 <!ENTITY homepageControlled.header.message "Tvoja početna stranica je promijenjena.">
 <!ENTITY homepageControlled.keepButton.label "Zadrži promjene">
