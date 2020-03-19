@@ -6,6 +6,12 @@ about-logins-page-title = Пријаве и лозинке
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Понесите ваше лозинке са собом
+login-app-promo-subtitle = Преузмите бесплатну { -lockwise-brand-name } апликацију
+login-app-promo-android =
+    .alt = Преузмите на Google Play
+login-app-promo-apple =
+    .alt = Преузмите на App Store
 login-filter =
     .placeholder = Претражи пријаве
 create-login-button = Направи нову пријаву
@@ -80,6 +86,14 @@ login-item-cancel-button = Откажи
 login-item-time-changed = Последња измена: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Направљено: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Последњи пут коришћено: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
