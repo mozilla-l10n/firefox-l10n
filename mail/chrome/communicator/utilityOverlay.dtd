@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
 <!ENTITY preferencesCmdUnix.accesskey     "a">
 
+<!ENTITY customizeCmd.label "Përshtateni">
+<!ENTITY customizeCmd.accesskey "t">
+
 <!ENTITY viewMenu.label          "Shfaqje">
 <!ENTITY viewMenu.accesskey        "S">
 <!ENTITY viewToolbarsMenu.label        "Panele">

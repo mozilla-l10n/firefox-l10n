@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Caktoni rregulla të cilat WebExtensions mund t’i shohin përmes chrome.storage.managed.
+policy-AppAutoUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme aplikacionesh.
 policy-AppUpdateURL = Caktoni URL vetjake përditësimi aplikacioni.
 policy-Authentication = Formësoni mirëfilltësim të integruar për sajte që e mbulojnë atë.
 policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
