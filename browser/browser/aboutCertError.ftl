@@ -47,7 +47,7 @@ cert-error-code-prefix-link = Kȏd pogreške: <a data-l10n-name="error-code-link
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Web stranice dokazuju svoj identitet putem certifikata koje izdaju certifikacijska tijela. Većina preglednika više ne vjeruje certifikatima koje izdaju GeoTrust, RapidSSL, Symantec, Thawte i VeriSign. { $hostname } koristi certifikat jednog od ovih izdavatelja, pa se identitet web stranice ne može dokazati.
-cert-error-symantec-distrust-admin = O ovom problemu možete obavijestiti administratora web stranice.
+cert-error-symantec-distrust-admin = O ovom problemu možeš obavijestiti administratora web stranice.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
