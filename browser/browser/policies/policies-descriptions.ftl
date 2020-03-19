@@ -33,6 +33,8 @@ policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede cert
 
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
 
+policy-DisabledCiphers = Deaktiver ciphers.
+
 policy-DefaultDownloadDirectory = Indstil standard-mappe for hentede filer.
 
 policy-DisableAppUpdate = Deaktiver opdatering af browseren.

@@ -58,7 +58,8 @@ cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri. <a data-l10n-name="learn-more-link">Læs mere</a>
 
 mobile-app-title = Bloker sporing fra reklamer på alle enheder
-mobile-app-card-content = Brug mobil-browseren med indbygget beskyttelse mod sporing fra reklamer.mobile-app-links = { -brand-product-name }-browser til <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+mobile-app-card-content = Brug mobil-browseren med indbygget beskyttelse mod sporing fra reklamer.
+mobile-app-links = { -brand-product-name }-browser til <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 
 lockwise-title = Glem aldrig en adgangskode igen
 lockwise-title-logged-in = { -lockwise-brand-name }
