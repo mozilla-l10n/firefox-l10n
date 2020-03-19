@@ -15,7 +15,7 @@ rights-intro-point-6 = Da bi mogao reproducirati neke vrste video zapisa, { -bra
 rights-webservices-header = { -brand-full-name }ove informacijske usluge na webu
 rights-webservices = { -brand-full-name } koristi web-bazirane usluge („Usluge”) kako bi se omogućile neke funkcije koje možeš koristiti s ovom binarnom verzijom { -brand-short-name }a pod uvjetima koji su dolje navedeni. Ako ne želiš koristiti jednu ili više usluga ili, ako su ti uslovi korištenja neprihvatljivi, možeš onemogućiti funkciju ili usluge. Instrukcije o tome, kako onemogućiti određenu funkciju ili uslugu, možeš pronaći <a data-l10n-name="mozilla-disable-service-link">ovdje</a>. Druge funkcije i usluge mogu biti onemogućene u postavkama aplikacije.
 rights-safebrowsing = <strong>Sigurno pregledavanje: </strong>Nije preporučljivo onemogućavati značajku Sigurno pregledavanje jer u tom slučaju niste zaštićeni od pristupanja nesigurnim stranicama.  Ako želite u potpunosti onemogućiti ovu mogućnost, slijedite ove korake:
-rights-safebrowsing-term-1 = Otvorite postavke aplikacije
+rights-safebrowsing-term-1 = Otvori postavke programa
 rights-safebrowsing-term-2 = Odaberite kategoriju Sigurnost
 rights-safebrowsing-term-3 = Isključite mogućnost kako biste "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Blokiraj opasni i zavaravajući sadržaj
