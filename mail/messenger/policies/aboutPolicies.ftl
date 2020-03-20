@@ -11,3 +11,4 @@ no-specified-policies-message = Предузетничка политика је
 inactive-message = Предузетничка политика није активна.
 policy-name = Назив правила
 policy-value = Вредност правила
+policy-errors = Грешке правила
