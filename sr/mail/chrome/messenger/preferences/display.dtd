@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Читање">
 <!ENTITY display.caption                  "Приказ">
+<!ENTITY displayName.label                "Име за приказ:">
 <!ENTITY showCondensedAddresses.label     "Прикажи само име за приказ за људе у мом именику">
 <!ENTITY showCondensedAddresses.accesskey "П">
 

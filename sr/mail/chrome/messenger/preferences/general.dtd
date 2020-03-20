@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "л">
 
 <!ENTITY defaultSearchEngine.label        "Подразумевани претраживач">
+<!ENTITY addSearchEngine.label            "Додајте из датотеке">
+<!ENTITY addSearchEngine.accesskey        "Д">
+<!ENTITY removeSearchEngine.label         "Уклоните">
+<!ENTITY removeSearchEngine.accesskey     "У">
