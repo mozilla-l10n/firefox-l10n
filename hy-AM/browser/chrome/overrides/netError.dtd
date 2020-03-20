@@ -51,7 +51,7 @@
 <!ENTITY netInterrupt.title "Կապը խզվեց">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Ավարտվել է">
+<!ENTITY notCached.title "Փաստաթուղթը սպառվել է">
 <!ENTITY notCached.longDesc "<p>Պահանջվող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգության նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմեք Կրկին փորձել՝ վերապահանջելու փաստաթուղթը վեբ կայքից։</li></ul>">
 
 <!ENTITY netOffline.title "Անցանց եղանակ">
