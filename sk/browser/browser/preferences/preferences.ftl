@@ -786,6 +786,17 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Momentálne používate režim FIPS. Tento režim vyžaduje nastavenie hlavného hesla.
 forms-master-pw-fips-desc = Heslo sa nepodarilo zmeniť
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Pre vytvorenie hlavného hesla najprv overte svoju totožnosť.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = vytvoriť hlavné heslo
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = História
