@@ -196,3 +196,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Блокирана страница">
 
 <!ENTITY networkProtocolError.title "Грешка мрежног протокола">
+<!ENTITY networkProtocolError.longDesc "<p>Страница којој покушавате да приступите не може да се прикаже јер је откривена грешка мрежног протокола.</p><ul><li>Контактирајте власнике ове странице како би их обавестили о проблему.</li></ul>">
