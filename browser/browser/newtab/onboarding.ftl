@@ -119,6 +119,9 @@ onboarding-mobile-phone-button = Telecargar lo navegador mobil
 onboarding-send-tabs-title = Enivatz-vos d’onglets
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
+onboarding-send-tabs-text = Enviatz d‘onglets parteja sul pic las paginas entre vòstres periferics sens aver de copiar, pegar o quitar lo navegador.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
 onboarding-send-tabs-text2 = Partejatz aisidament de paginas entre vòstres periferics sens aver a copiar los ligams o quitar lo navegador.
 onboarding-send-tabs-button = Començar d’utilizar « Enviar l’onglet »
 onboarding-pocket-anywhere-title = Legissètz e escotatz pertot
