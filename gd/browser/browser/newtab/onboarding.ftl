@@ -117,6 +117,7 @@ onboarding-browse-privately-title = Dèan brabhsadh prìobhaideach
 onboarding-browse-privately-text = Falamhaichidh gleus a’ bhrabhsaidh phrìobhaidich na lorgas tu agus eachdraidh a’ bhrabhsaidh gus a chumail falaichte o dhaoine eile a chleachdas an coimpiutair agad.
 onboarding-browse-privately-button = Fosgail uinneag phrìobhaideach
 onboarding-firefox-send-title = Cùm na faidhlichean co-roinnte agad prìobhaideach
+onboarding-firefox-send-text2 = Luchdaich suas na faidhlichean agad gu { -send-brand-name } is co-roinn iad le gleus crioptachaidh o cheann gu ceann agus ceangal air am falbh an ùine gu fèin-obrachail.
 
 ## Message strings belonging to the Return to AMO flow
 
