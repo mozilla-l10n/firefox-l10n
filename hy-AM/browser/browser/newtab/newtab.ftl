@@ -86,9 +86,6 @@ newtab-menu-show-privacy-info = Մեր հովանավորները և ձեր գա
 
 newtab-privacy-modal-button-done = Ավարտ
 newtab-privacy-modal-header = Ձեր գաղտնիությունը կարևոր է։
-newtab-privacy-modal-paragraph =
-    Բացի հետաքրքրաշարժ հոդվածներ պահպանելուց, մենք նաև ցույց ենք տալիս ձեզ ընտրված հովանավորների կողմից ապացուցված բովանդակություն։ Համոզվեք որ ձեր տվյալները
-    վեբ֊սերվինգը երբեք չի թողնի { -brand-product-name } — ձեր անձնական օրինակը, մենք չունենք։ Նրանց հասանելիությունը, և մեր հովանավորները նույնպես չունեն։
 newtab-privacy-modal-paragraph-2 =
     Բացի հետաքրքրաշարժ հոդվածներ պահպանելուց, մենք նաև ցույց ենք տալիս ձեզ ընտրված հովանավորների կողմից ապացուցված բովանդակություն։ Համոզվեք որ ձեր տվյալները
     վեբ֊սերվինգը երբեք չի թողնի { -brand-product-name } — ձեր անձնական օրինակը, մենք չունենք։ Նրանց հասանելիությունը, և մեր հովանավորները նույնպես չունեն։
@@ -186,6 +183,7 @@ newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե
 newtab-pocket-read-more = Հանրաճանաչ թեմաներ.
 newtab-pocket-more-recommendations = Լրացուցիչ առաջարկություններ
 newtab-pocket-whats-pocket = Ի՞նչ է { -pocket-brand-name }-ը։
+newtab-pocket-learn-more = Իմանալ ավելին
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք ձեր սիրած պատմությունները { -pocket-brand-name }, և ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանությամբ:
 

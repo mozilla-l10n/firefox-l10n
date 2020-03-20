@@ -32,7 +32,7 @@
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Զրոյացնել">
 
-<!ENTITY addon.details.label                  "Ավելին">
+<!ENTITY addon.details.label                  "Աւելին">
 <!ENTITY addon.details.tooltip                "Ցուցադրել ավելի շատ տեղեկություն այս հավելման մասին">
 <!ENTITY addon.unknownDate                    "Անհայտ">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
