@@ -241,7 +241,7 @@ check-user-spelling =
 files-and-applications-title = Fichièrs e aplicacions
 download-header = Telecargaments
 download-save-to =
-    .label = Enregistrar los fichièrs dins lo dorsièr
+    .label = Enregistrar los fichièrs dins lo dossièr
     .accesskey = n
 download-choose-folder =
     .label =
@@ -1112,7 +1112,7 @@ space-alert-under-5gb-message = { -brand-short-name } a pas mai d'espaci disc. L
 
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
-choose-download-folder-title = Causissètz lo dorsièr de telecargament :
+choose-download-folder-title = Causissètz lo dossièr de telecargament :
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
