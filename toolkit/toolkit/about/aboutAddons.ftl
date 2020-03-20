@@ -311,7 +311,10 @@ addon-name-disabled = { $name } (desactivat)
 
 addon-detail-updates-label = Permetre las mesas a jorn automaticas
 addon-detail-updates-radio-default = Defaut
+addon-detail-updates-radio-on = Activadas
+addon-detail-updates-radio-off = Desactivadas
 addon-detail-update-check-label = Recercar de mesas a jorn
+install-update-button = Metre a jorn
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
@@ -326,6 +329,10 @@ addon-badge-private-browsing-allowed2 =
 addon-badge-recommended =
     .title = Recomandada
     .alt = Recomandada
+available-updates-heading = Mesas a jorn disponiblas
+recent-updates-heading = Mesas a jorn recentas
+release-notes-loading = Cargament…
+release-notes-error = Una error s'es producha en cargar las nòtas de version.
 recommended-extensions-heading = Extensions recomandadas
 recommended-themes-heading = Tèmas recomandats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
@@ -339,6 +346,7 @@ theme-heading = Gestion dels tèmas
 plugin-heading = Gestion dels plugins
 dictionary-heading = Gestion dels diccionaris
 locale-heading = Gestion de las lengas
+updates-heading = Gestion de las mesas a jorn
 theme-heading-search-label = Trobar mai de tèmas
 extension-heading-search-label = Trobar mai d’extensions
 default-heading-search-label = Trobar mai de moduls
