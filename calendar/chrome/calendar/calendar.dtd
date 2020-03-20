@@ -365,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Mostrar lembretes">
 <!ENTITY calendarproperties.cache3.label                   "Suporte offline">
 <!ENTITY calendarproperties.enabled.label                  "Ativar este calendário">
+<!ENTITY calendarproperties.enabled2.label                 "Ativar este calendário">
 <!ENTITY calendarproperties.forceDisabled.label            "O fornecedor deste calendário não foi encontrado. Isto pode acontecer caso tenha desativado ou desinstalado alguns extras.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar subscrição">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "u">
