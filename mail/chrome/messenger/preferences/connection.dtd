@@ -40,6 +40,10 @@
 <!ENTITY  noproxyExplain.label          "На пример: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Користи овај прокси сервер за све протоколе">
 <!ENTITY  shareproxy.accesskey          "з">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label    "Везе са localhost, 127.0.0.1, и ::1 никада нису преко прокси сервера.">
 <!ENTITY  autologinproxy.label          "Не питај за идентификацију уколико је лозинка сачувана">
 <!ENTITY  autologinproxy.accesskey      "и">
 <!ENTITY  autologinproxy.tooltip        "Ова опција вас у позадини идентификује на посреднике када имате сачуване акредитиве за њих. Затражиће се идентификација од вас уколико акредитив нису исправни.">
@@ -47,6 +51,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "д">
 <!ENTITY  dnsOverHttps.label            "Омогући DNS преко HTTPS-а">
 <!ENTITY  dnsOverHttps.accesskey        "г">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL за разрешавање DNS-а преко HTTPS-а">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Користите подразумевани URL за решавање DNS-а преко HTTPS">

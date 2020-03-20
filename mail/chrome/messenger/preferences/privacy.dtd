@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Реци веб страницама да не желим да ме прате">
 <!ENTITY dntTrackingNotOkay.accesskey "ц">
 <!ENTITY doNotTrackInfo.label "Сазнајте више о Не желим да ме прате">
+
+<!ENTITY doNotTrackCheck.label "Пошаљите веб страници сигнал “Не прати” који показује да не желите да вас прате">
+<!ENTITY doNotTrackCheck.accesskey "н">
+<!ENTITY doNotTrackLearnMore.label "Сазнајте више">

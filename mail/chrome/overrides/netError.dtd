@@ -165,6 +165,7 @@
 <!ENTITY cspBlocked.title "Блокирано политиком безбедности садржаја">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин зато што страница има подешену политику безбедности садржаја која брани учитавање.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Грешка поквареног садржаја">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страница коју покушавате да отворите се не може приказати јер је примећена грешка приликом преноса података.</p><ul><li>Контактирајте власнике странице и обавестите их о овом проблему.</li></ul>">
 
@@ -193,3 +194,5 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи застарелу безбедносну технологију подложну нападима. Нападач лако може открити ваше поверљиве податке. Администратор странице мора поправити сервер пре него што посетите страницу.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Блокирана страница">
+
+<!ENTITY networkProtocolError.title "Грешка мрежног протокола">

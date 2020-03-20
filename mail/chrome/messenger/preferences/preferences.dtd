@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Опције">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; поставке">
 <!ENTITY  prefWindow.titleMAC     "Поставке">
-<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 52em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Опште">
 <!ENTITY paneDisplay.title        "Приказ">
@@ -22,8 +19,12 @@
 <!ENTITY paneAttachments.title    "Прилози">
 <!ENTITY panePrivacy.title        "Приватност">
 <!ENTITY paneSecurity.title       "Безбедност">
+<!ENTITY panePrivacySecurity.title "Приватност и сигурност">
+<!ENTITY paneLightning.title      "Календар">
 <!ENTITY paneAdvanced.title       "Напредно">
 <!ENTITY paneAccount.title        "Налози">
+
+<!ENTITY addonsButton.label       "Проширења и теме">
 
 <!ENTITY okButton.title           "У реду">
 <!ENTITY okButton.accesskey       "У">

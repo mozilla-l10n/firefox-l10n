@@ -18,8 +18,10 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Фонт:">
 <!ENTITY font.accesskey                       "н">
-<!ENTITY size.label                           "Величина:">
-<!ENTITY size.accesskey                       "и">
+<!ENTITY fontSize.label                       "Величина:">
+<!ENTITY fontSize.accesskey                   "В">
+<!ENTITY useReaderDefaults.label              "Користите унапред подешену боју читача">
+<!ENTITY useReaderDefaults.accesskey          "д">
 <!ENTITY fontColor.label                      "Боја текста:">
 <!ENTITY fontColor.accesskey                  "Т">
 <!ENTITY bgColor.label                        "Боја позадине:">
