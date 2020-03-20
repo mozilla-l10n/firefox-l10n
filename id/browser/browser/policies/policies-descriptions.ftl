@@ -22,6 +22,7 @@ policy-Bookmarks = Buat markah pada bilah alat Markah, menu Markah, atau folder 
 policy-CaptivePortal = Aktifkan atau nonaktifkan dukungan captive portal.
 policy-CertificatesDescription = Tambahkan sertifikat atau gunakan sertifikat bawaan.
 policy-Cookies = Izinkan atau tolak situs untuk menyetel kuki.
+policy-DisabledCiphers = Nonaktifkan ciphers.
 policy-DefaultDownloadDirectory = Atur direktori unduhan baku.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
 policy-DisableBuiltinPDFViewer = Nonaktifkan PDF.js, penampil PDF bawaan di { -brand-short-name }.
