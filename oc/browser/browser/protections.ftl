@@ -39,7 +39,7 @@ protection-report-manage-protections = Gerir los paramètres
 # capitalization for this string should match the output for your locale.
 graph-today = Uèi
 social-tab-title = Traçadors de malhums socials
-social-tab-contant = Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiá de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social. <a data-l10n-name="learn-more-link">Ne saber mai</a>
+social-tab-contant = Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiás de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social. <a data-l10n-name="learn-more-link">Ne saber mai</a>
 cookie-tab-title = Cookies de seguiment entresites
 tracker-tab-title = Contengut utilizat pel seguiment
 fingerprinter-tab-title = Generadors d’emprentas numericas
