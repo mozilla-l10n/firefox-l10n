@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Importowy zrjadowak">
+<!ENTITY migrationWizard.title          "Importowanski asistent">
 
 <!ENTITY importFrom.label               "Nastajenja, zapołožki, historiju, hesła a hinaše daty importować z:">
 <!ENTITY importFromUnix.label           "Nastajenja, zapołožki, historiju, hesła a hinaše daty importować z:">
