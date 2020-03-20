@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = od vývojára { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Odporúčanie
+cfr-doorhanger-extension-notification2 = Odporúčanie
+    .tooltiptext = Odporúčanie rozšírenia
+    .a11y-announcement = K dispozícii je odporúčané rozšírenie
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Odporúčanie
+    .tooltiptext = Odporúčaná funkcia
+    .a11y-announcement = Je k dispozícii odporúčaná funkcia
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -95,6 +103,15 @@ cfr-whatsnew-fx70-body =
 cfr-whatsnew-tracking-protect-title = Chráňte sa pred sledovacími prvkami
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokuje mnohé sledovacie prvky, ktoré monitorujú vašu aktivitu na internete.
 cfr-whatsnew-tracking-protect-link-text = Podrobnosti
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Počet zablokovaných sledovacích prvkov
+        [few] Počet zablokovaných sledovacích prvkov
+       *[other] Počet zablokovaných sledovacích prvkov
+    }
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Podrobnosti
 cfr-whatsnew-lockwise-backup-title = Zálohujte svoje heslá
@@ -106,6 +123,7 @@ cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Používajte panel s adresou - píšte menej, nájdite viac
 cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
 ## Picture-in-Picture
