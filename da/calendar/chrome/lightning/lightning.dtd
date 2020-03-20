@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "Å">
 <!ENTITY lightning.menupopup.open.message.label       "Gemt meddelelse…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "G">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderfil…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slet fra kalenderen">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Vis detaljer for begivenheden">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Vis mig ikke disse beskeder">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalender">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Gå til fanebladet Kalender">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mere">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik for at få vist flere muligheder">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekræft igen">

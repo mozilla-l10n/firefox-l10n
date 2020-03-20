@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Opret en ny opgave" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Opgaver" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fuldførte opgaver">
 
 <!ENTITY calendar.today.button.label          "I dag">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Deltagelse">
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "Denne forekomst">
-<!ENTITY calendar.context.attendance.all.label        "Alle forekomster" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Hele rækken">
 <!ENTITY calendar.context.attendance.send.label                 "Send en mail nu">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Vis alarmer">
 <!ENTITY calendarproperties.cache3.label                   "Offline-understøttelse">
 <!ENTITY calendarproperties.enabled.label                  "Slå denne kalender til">
+<!ENTITY calendarproperties.enabled2.label                 "Aktiver denne kalender">
 <!ENTITY calendarproperties.forceDisabled.label            "Kunne ikke finde kalenderens udgiver. Dette kan ofte ske, hvis du afinstallerer eller slår en bestemt udvidelse fra.">
 <!ENTITY calendarproperties.unsubscribe.label              "Stop abonnement">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "A">
