@@ -76,11 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "е">
 <!ENTITY Birthday.label                 "Рођендан:">
 <!ENTITY Birthday.accesskey             "Р">
-<!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Месец">
+<!ENTITY Day.placeholder                "Дан">
 <!ENTITY Year.placeholder               "Година">
-<!ENTITY Or.value                       "или">
+<!ENTITY Age.label                      "Старост:">
 <!ENTITY Age.placeholder                "Старост">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Посао">
 <!ENTITY Work.accesskey                 "П">
