@@ -5,7 +5,7 @@
 do-not-track-description = 웹 사이트에 “방문자 추적 금지” 신호를 보내서 추적을 원하지 않는다고 알림
 do-not-track-learn-more = 더 알아보기
 do-not-track-option-default-content-blocking-known =
-    .label = { -brand-short-name }가 알려진 추적기를 차단하도록 설정 됐을 때만
+    .label = { -brand-short-name }가 알려진 추적기를 차단하도록 설정된 경우에만
 do-not-track-option-always =
     .label = 항상
 pref-page =
