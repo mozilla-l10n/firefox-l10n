@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Új feladat létrehozása" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Feladatok" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Befejezett feladatok megjelenítése">
 
 <!ENTITY calendar.today.button.label          "Ma">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Részvétel">
 <!ENTITY calendar.context.attendance.menu.accesskey             "R">
 <!ENTITY calendar.context.attendance.occurrence.label           "Ez alkalommal">
-<!ENTITY calendar.context.attendance.all.label        "Minden alkalommal" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Teljes sorozat">
 <!ENTITY calendar.context.attendance.send.label                 "Értesítés küldése most">
 <!ENTITY calendar.context.attendance.send.accesskey             "k">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Emlékeztetők megjelenítése">
 <!ENTITY calendarproperties.cache3.label                   "Kapcsolat nélküli munka">
 <!ENTITY calendarproperties.enabled.label                  "Naptár bekapcsolása">
+<!ENTITY calendarproperties.enabled2.label                 "E naptár engedélyezése">
 <!ENTITY calendarproperties.forceDisabled.label            "A naptár szolgáltatója nem található. Ez gyakran előfordul, ha letilt vagy eltávolít egyes kiegészítőket.">
 <!ENTITY calendarproperties.unsubscribe.label              "Leiratkozás">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "L">
