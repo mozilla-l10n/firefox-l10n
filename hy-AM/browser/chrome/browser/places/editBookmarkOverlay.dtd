@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Թաքցնել">
 <!ENTITY editBookmarkOverlay.tags.label                      "Նշիչներ`">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Առանձնացնել կցապիտակները ստորակետերով">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Առանձնացնել կցապիտակները ստորակետներով">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Կարճ անուն`">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ցուցադրել բոլոր կցապիտակները">
