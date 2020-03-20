@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "Vòstres paramètres d'utilizaire, preferéncias e totas vòstras donadas personalas seràn enregistrats dins :">
 <!ENTITY profileDefaultName             "Utilizaire per defaut">
-<!ENTITY button.choosefolder.label      "Causir un dorsièr…">
+<!ENTITY button.choosefolder.label      "Causir un dossièr…">
 <!ENTITY button.choosefolder.accesskey  "C">
-<!ENTITY button.usedefault.label        "Utilizar lo dorsièr per defaut">
+<!ENTITY button.usedefault.label        "Utilizar lo dossièr per defaut">
 <!ENTITY button.usedefault.accesskey    "U">

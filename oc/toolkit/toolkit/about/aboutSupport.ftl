@@ -34,8 +34,8 @@ app-basics-update-history = Istoric de las mesas a jorn
 app-basics-show-update-history = Afichar l'istoric de las mesas a jorn
 app-basics-profile-dir =
     { PLATFORM() ->
-        [linux] Profile Directory
-       *[other] Dorsièr de perfil
+        [linux] Dossièr de perfil
+       *[other] Dossièr de perfil
     }
 app-basics-enabled-plugins = Plugins activats
 app-basics-build-config = Build Configuration
@@ -52,15 +52,15 @@ app-basics-key-mozilla = Clau del servici de localizacion de Mozilla
 app-basics-safe-mode = Mòde segur
 show-dir-label =
     { PLATFORM() ->
-        [macos] Show in Finder
+        [macos] Mostrar dins lo Finder
         [windows] Dobrir lo dossièr
-       *[other] Dobrir lo dorsièr correspondent
+       *[other] Dobrir lo dossièr correspondent
     }
 modified-key-prefs-title = Preferéncias modificadas importantas
 modified-prefs-name = Nom
 modified-prefs-value = Valor
 user-js-title = preféréncias de user.js
-user-js-description = Vòtre dorsièr de perfil possedís un <a data-l10n-name="user-js-link">fichièr user.js</a> que conten las preferéncias que son pas estadas creadas per { -brand-short-name }.
+user-js-description = Vòstre dossièr de perfil possedís un <a data-l10n-name="user-js-link">fichièr user.js</a> que conten las preferéncias que son pas estadas creadas per { -brand-short-name }.
 locked-key-prefs-title = Preferéncias importantas modificadas
 locked-prefs-name = Nom
 locked-prefs-value = Valor
