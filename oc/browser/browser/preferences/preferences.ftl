@@ -883,6 +883,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 
 content-blocking-header = Blocatge de contengut
 content-blocking-enhanced-tracking-protection = Proteccion contra lo seguiment renfortida
+content-blocking-section-top-level-description = Los traçadors vos pistan en linha per reculhir d’informacions sus vòstras abituds de navegacion e vòstres interèsses. { -brand-short-name } bloca fòrça d’aqueles elements de seguiment e scripts malvolents.
 content-blocking-learn-more = Ne saber mai
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

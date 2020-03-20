@@ -42,6 +42,7 @@ social-tab-title = Traçadors de malhums socials
 social-tab-contant = Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiás de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social. <a data-l10n-name="learn-more-link">Ne saber mai</a>
 cookie-tab-title = Cookies de seguiment entresites
 tracker-tab-title = Contengut utilizat pel seguiment
+tracker-tab-description = Los sites web pòdon cargar de reclamas, de vidèos e d’autres contenguts extèrns amb un d’elements de seguiment. Lo blocatge del contengut utilizat contra lo seguiment pòt accelerar lo cargament, mas es possible que unes botons, formularis o camps de connexion foncionen pas.<a data-l10n-name="learn-more-link">Ne saber mai</a>
 fingerprinter-tab-title = Generadors d’emprentas numericas
 cryptominer-tab-title = Minaires de criptomonedas
 cryptominer-tab-content = Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la bateria, alentisson l’ordenador e aumentan vòstra factura d’electricitat. <a data-l10n-name="learn-more-link">Ne saber mai</a>
