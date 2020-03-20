@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "M">
 <!ENTITY lightning.menupopup.open.message.label       "Mentett üzenet…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "z">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Naptárfájl…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "N">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Törlés a naptárból">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Részletek…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Esemény részleteinek megjelenítése">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ne mutassa ezeket az üzeneteket">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Naptár">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Ugrás a naptár lapra">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Több">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kattintson további lehetőségekért">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Újra megerősítés">
