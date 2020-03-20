@@ -29,18 +29,25 @@
 <!ENTITY usernameEx.label                "Ваша пријава:">
 <!ENTITY usernameEx.accesskey            "л">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "ВАШДОМЕН\вашекорисничкоиме">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Доменска пријава">
 
 <!ENTITY protocol.label                  "Протокол:">
 <!ENTITY imapLong.label                  "IMAP (удаљене фасцикле)">
 <!ENTITY pop3Long.label                  "POP3 (чува пошту на вашем рачунару)">
 
 <!ENTITY incoming.label                  "Долазни:">
+<!ENTITY incomingColumn.label            "Долазећи">
 <!ENTITY outgoing.label                  "Одлазни:">
+<!ENTITY outgoingColumn.label            "Одлазећи">
 <!ENTITY username.label                  "Корисничко име:">
 <!ENTITY hostname.label                  "Име сервера">
 <!ENTITY port.label                      "Порт">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Сервер:">
+<!ENTITY portRow.label                   "Порт:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Идентификовање">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -73,10 +80,14 @@
 <!ENTITY half-manual-test.accesskey      "п">
 <!ENTITY manual-edit.label               "Ручно подешавање">
 <!ENTITY manual-edit.accesskey           "Р">
+<!ENTITY manual-config.label             "Подесите ручно…">
+<!ENTITY manual-config.accesskey         "Р">
 <!ENTITY open-provisioner.label          "Направите нову мејл адресу…">
 <!ENTITY open-provisioner.accesskey      "Н">
 
 
+<!ENTITY get-help.label                  "Потражите помоћ">
+<!ENTITY get-help.accesskey              "П">
 
 
 <!ENTITY warning.label                   "Упозорење!">
