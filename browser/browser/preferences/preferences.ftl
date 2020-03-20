@@ -771,7 +771,7 @@ forms-generate-passwords =
     .label = Mócne hesła wutworić a namjetować
     .accesskey = h
 forms-breach-alerts =
-    .label = Warnowanja za hesła zranjenych websydłow
+    .label = Warnowanja za hesła přez datowu dźěru potrjechenych websydłow
     .accesskey = z
 forms-breach-alerts-learn-more-link = Dalše informacije
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
