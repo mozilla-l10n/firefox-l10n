@@ -96,6 +96,30 @@ login-item-time-changed = Terakhir diubah: { DATETIME($timeChanged, day: "numeri
 login-item-time-created = Dibuat: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Terakhir digunakan: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Verifikasikan identitas Anda untuk mengedit info masuk tersimpan.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = mengedit info masuk tersimpan
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk mengungkapkan kata sandi tersimpan.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = mengungkapkan kata sandi tersimpan
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk menyalin kata sandi tersimpan.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = menyalin kata sandi tersimpan.
+
 ## Master Password notification
 
 master-password-notification-message = Masukkan kata sandi utama Anda untuk melihat info masuk dan kata sandi yang disimpan
