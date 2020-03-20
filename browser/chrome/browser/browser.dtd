@@ -631,7 +631,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pocketMenuitem.label         "Mostrar la lista de Pocket">
 
 <!ENTITY emailPageCmd.label           "Enviar per corrièl un ligam cap a la pagina…">
-<!ENTITY emailPageCmd.accesskey       "c">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Enregistrar jos…">
 <!ENTITY savePageCmd.accesskey        "E">
 <!-- alternate for content area context menu -->

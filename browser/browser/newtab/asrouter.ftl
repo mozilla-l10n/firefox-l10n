@@ -123,7 +123,7 @@ cfr-whatsnew-lockwise-take-link-text = Obténer l’aplicacion
 
 ## Search Bar
 
-cfr-whatsnew-searchbar-title = Escrigatz mens, trobatz mai amb la barra d’adreça
+cfr-whatsnew-searchbar-title = Escrivètz mens, trobatz mai amb la barra d’adreça
 # Variables:
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Accedissètz als sites qu'utilisatz mai en un sol clic dins la barra d'adreça. Trobatz las causas mai rapidament amb los resultats de { $searchEngineName } e vòstre istoric de navigacion.

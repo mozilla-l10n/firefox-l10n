@@ -45,7 +45,7 @@ menu-file-print-setup =
     .accesskey = M
 menu-file-print-preview =
     .label = Apercebut abans impression
-    .accesskey = b
+    .accesskey = A
 menu-file-print =
     .label = Imprimir…
     .accesskey = p
@@ -60,7 +60,7 @@ menu-file-go-offline =
 
 menu-edit =
     .label = Edicion
-    .accesskey = n
+    .accesskey = E
 menu-edit-find-on =
     .label = Recercar dins la pagina…
     .accesskey = R
