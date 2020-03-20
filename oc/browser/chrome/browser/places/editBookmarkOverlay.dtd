@@ -6,23 +6,15 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Emplaçament :">
 <!ENTITY editBookmarkOverlay.location.accesskey              "E">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Adreça del flux :">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "f">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Adreça del site :">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Repertòri :">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Visualizar totes los repertòris de marcapaginas">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Amagar">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetas :">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Etiquetas desseparadas per de virgulas">
-<!ENTITY editBookmarkOverlay.description.label               "Descripcion :">
-<!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Mot clau :">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "c">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Visualizar totas las etiquetas">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar aqueste marcapagina dins lo panèl lateral">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "q">
 <!ENTITY editBookmarkOverlay.choose.label                    "Causir…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Repertòri novèl">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

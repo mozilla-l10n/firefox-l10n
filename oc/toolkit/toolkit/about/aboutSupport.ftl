@@ -30,6 +30,13 @@ app-basics-name = Nome
 app-basics-version = Version
 app-basics-build-id = Identificant de compilacion
 app-basics-update-channel = Canal de mesa a jorn
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Repertòri de telecargament
+       *[other] Dossièr de telecargament
+    }
 app-basics-update-history = Istoric de las mesas a jorn
 app-basics-show-update-history = Afichar l'istoric de las mesas a jorn
 app-basics-profile-dir =
@@ -39,7 +46,7 @@ app-basics-profile-dir =
     }
 app-basics-enabled-plugins = Plugins activats
 app-basics-build-config = Build Configuration
-app-basics-user-agent = Agent utilizaire
+app-basics-user-agent = User Agent
 app-basics-os = SO
 app-basics-memory-use = Utilizacion memòria
 app-basics-performance = Performança

@@ -32,13 +32,13 @@
 <!ENTITY cmd.goToDownloadPage.label       "Anar a la pagina de telecargament">
 <!ENTITY cmd.goToDownloadPage.accesskey   "A">
 <!ENTITY cmd.copyDownloadLink.label       "Copiar l'adreça d'origina del telecargament">
-<!ENTITY cmd.copyDownloadLink.accesskey   "d">
+<!ENTITY cmd.copyDownloadLink.accesskey   "C">
 <!ENTITY cmd.removeFromHistory.label      "Levar de la lista">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Escafar lo panèl d'apercebut">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Escafar los telecargaments">
-<!ENTITY cmd.clearDownloads.accesskey     "t">
+<!ENTITY cmd.clearDownloads.accesskey     "E">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->

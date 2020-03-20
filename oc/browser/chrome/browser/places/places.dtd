@@ -19,7 +19,7 @@
 <!ENTITY view.columns.label             "Visualizar las colomnas">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Triar">
-<!ENTITY view.sort.accesskey            "r">
+<!ENTITY view.sort.accesskey            "T">
 <!ENTITY view.unsorted.label            "Pas triat">
 <!ENTITY view.unsorted.accesskey        "P">
 <!ENTITY view.sortAscending.label       "Òrdre de classificacion A > Z">
