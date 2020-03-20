@@ -163,7 +163,7 @@ confirm-discard-changes-dialog-confirm-button = Zaćisnyć
 ## Breach Alert notification
 
 breach-alert-text = Hesła su so z tutoho websydła roznjesli abo kradnyli, wot toho, zo sće swoje přizjewjenske daty posledni raz zaktualizował. Změńće swoje hesło, zo byšće swoje konto škitał.
-breach-alert-link = Zhońće wjace wo tutej dźěrje.
+breach-alert-link = Zhońće wjace wo tutej datowej dźěrje.
 breach-alert-dismiss =
     .title = Tute warnowanje začinić
 
