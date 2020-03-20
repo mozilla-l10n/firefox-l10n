@@ -586,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Сачувај изабрану поруку">
 <!ENTITY archiveButton.tooltip "Архивирај изабране поруке">
 <!ENTITY openConversationButton.tooltip "Прикажи разговор у изабраној поруци">
+<!ENTITY openMsgConversationButton.tooltip "Прикажи разговор изабране поруке">
 <!ENTITY nextButton.tooltip "Иди на следећу непрочитану поруку">
 <!ENTITY nextMsgButton.tooltip "Иди на следећу поруку">
 <!ENTITY previousButton.tooltip "Иди на претходну непрочитану поруку">
@@ -604,6 +605,7 @@
 <!ENTITY tagButton.tooltip "Означи поруке">
 <!ENTITY compactButton.tooltip "Уклони обрисане поруке из изабране фасцикле">
 <!ENTITY appmenuButton1.tooltip "Прикажи мени &brandShortName;-а">
+<!ENTITY addonsButton.tooltip "Управљајте вашим додацима">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Проследи као текст унутар друге поруке">

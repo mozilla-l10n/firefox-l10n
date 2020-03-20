@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Додај нову Filelink услугу складиштења">
 <!ENTITY removeCloudFileAccount.label     "Уклони">
 <!ENTITY removeCloudFileAccount.accesskey "У">
-<!ENTITY authRequired.description         "Потребно је да дате овлашћење за преглед подешавања ове услуге складиштења.">
-<!ENTITY authRequired.button.label        "Овласти">
-<!ENTITY authRequired.button.accesskey    "л">
+<!ENTITY findCloudFileProviders.label     "Пронађите више провајдера…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Понуди дељење за датотеке веће од">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
