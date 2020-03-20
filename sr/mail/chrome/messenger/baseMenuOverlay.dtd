@@ -10,30 +10,30 @@
 <!ENTITY helpMenuWin.label "Помоћ">
 <!ENTITY helpMenuWin.accesskey "П">
 <!ENTITY aboutProduct2.label "О програму &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "О">
 <!ENTITY helpTroubleshootingInfo.label     "Подаци о решавању проблема">
 <!ENTITY helpTroubleshootingInfo.accesskey "р">
 <!ENTITY helpSafeMode.label     "Поново покрени са искљученим додацима…">
 <!ENTITY helpSafeMode.accesskey "к">
-<!ENTITY releaseCmd2.label "Белешке о издању">
-<!ENTITY releaseCmd2.accesskey "Б">
-<!ENTITY whatsNewCmd.label "Шта је ново">
-<!ENTITY whatsNewCmd.accesskey "т">
-<!ENTITY openHelp.label "Садржај помоћи">
-<!ENTITY openHelp.accesskey "С">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Помоћ за &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "О &brandFullName;-у">
-<!ENTITY aboutMenuCmd2.accesskey "О">
+<!ENTITY helpSafeMode.stop.label     "Поново покрените с омогућеним додацима">
+<!ENTITY helpSafeMode.stop.accesskey "Р">
 <!ENTITY productHelp.label "&brandShortName; помоћ">
+<!ENTITY productHelp.accesskey "П">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
 <!ENTITY helpKeyboardShortcuts.label "Пречице на тастатури">
+<!ENTITY helpKeyboardShortcuts.accesskey "К">
 
+<!ENTITY helpFeedbackPage.label "Поднесите извештај…">
+<!ENTITY helpFeedbackPage.accesskey "П">
 
+<!ENTITY helpShowTour2.label "&brandShorterName; тура">
+<!ENTITY helpShowTour2.accesskey "о">
 
 <!ENTITY helpGetInvolvedPage.label "Придруживање пројекту">
 <!ENTITY helpGetInvolvedPage.accesskey "у">
 
 <!ENTITY helpDonationsPage.label "Направите донацију">
+<!ENTITY helpDonationsPage.accesskey "Д">
