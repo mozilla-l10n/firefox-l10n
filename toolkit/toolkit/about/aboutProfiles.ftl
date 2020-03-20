@@ -13,14 +13,14 @@ profiles-flush-fail-title = Modificacions pas enregistradas
 #   $name (String) - Name of the profile
 profiles-name = Perfil : { $name }
 profiles-is-default = Perfil per defaut
-profiles-rootdir = Dorsièr raiç
+profiles-rootdir = Dossièr raiç
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
 # represent critical user data. (e.g., this directory may not be included as
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
-profiles-localdir = Dorsièr local
+profiles-localdir = Dossièr local
 profiles-current-profile = Aqueste es lo perfil que siatz a utilizar e se pòt pas suprimir.
 profiles-in-use-profile = Una autra aplicacion utiliza aqueste perfil e fa que sa supression es impossibla.
 profiles-rename = Renommar
@@ -42,7 +42,7 @@ profiles-delete-profile-title = Suprimir lo perfil
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Suprimir un perfil lo levarà de la lista dels perfils disponibles e pòt pas èsser anullat.
-    Tanben es possible de causir de suprimir los fichièrs de donadas del perfil, que comprenon vòstres paramètres, certificats e totas vòstras donadas personalas. Aquesta opcion suprimirà lo dorsièr « { $dir } » e poirà pas èsser anullada.
+    Tanben es possible de causir de suprimir los fichièrs de donadas del perfil, que comprenon vòstres paramètres, certificats e totas vòstras donadas personalas. Aquesta opcion suprimirà lo dossièr « { $dir } » e poirà pas èsser anullada.
     Desiratz suprimir los fichièrs de donadas del perfil ?
 profiles-delete-files = Suprimir los fichièrs
 profiles-dont-delete-files = Suprimir pas los fichièrs
@@ -52,5 +52,5 @@ profiles-opendir =
     { PLATFORM() ->
         [macos] Afichar dins lo Finder
         [windows] Dobrir lo dossièr
-       *[other] Dobrir lo dorsièr
+       *[other] Dobrir lo dossièr
     }
