@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Врати подразумевани комплет">
 <!ENTITY addNewToolbar.label      "Додај нову алатну траку">
 <!ENTITY showTitlebar.label       "Прикажи насловну траку">
+<!ENTITY extraDragSpace.label     "Додај зону превлачења">
 <!ENTITY saveChanges.label        "Готово">
 <!ENTITY undoChanges.label        "Опозови измене">
