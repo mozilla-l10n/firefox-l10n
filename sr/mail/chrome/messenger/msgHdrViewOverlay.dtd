@@ -95,6 +95,11 @@
 
 <!ENTITY openAttachment.tooltip "Отвори закачену датотеку">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Отворите садржајну фасциклу">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "Ф">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Прикажи у Finder-у">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "Ф">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Сачувај">
 <!ENTITY saveAttachmentButton1.tooltip     "Сачувај закачену датотеку">

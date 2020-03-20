@@ -67,17 +67,18 @@
  -->
 <!ENTITY updateApp.version.pre           "Верзија ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Дозволите &brandShortName; да">
 <!ENTITY updateAuto.label                "Аутоматски инсталирај ажурирања (препоручено: побољшава безбедност)">
 <!ENTITY updateAuto.accesskey            "А">
 <!ENTITY updateCheck.label               "Провери да ли има ажурирања али мени допусти да изаберем када да се инсталирају">
 <!ENTITY updateCheck.accesskey           "П">
-<!ENTITY updateManual.label              "Никада не проверавај да ли има ажурирања (није препоручено: безбедносни ризик)">
-<!ENTITY updateManual.accesskey          "Н">
 <!ENTITY updateHistory.label             "Прикажи историјат ажурирања">
 <!ENTITY updateHistory.accesskey         "П">
 
 <!ENTITY useService.label                "Користи услугу у позадини за инсталирање ажурирања">
 <!ENTITY useService.accesskey            "л">
+
+<!ENTITY updateCrossUserSettingWarning.description "Ово подешавање ће утицати на све Windows налоге и &brandShortName; профиле који користе ову &brandShortName; инсталацију.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Подешавања…">
@@ -121,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "У">
 <!ENTITY viewSecurityDevices.label "Безбедносни уређаји">
 <!ENTITY viewSecurityDevices.accesskey "ј">
+
+<!ENTITY manageCertificates2.label "Управљајте сертификатима…">
+<!ENTITY manageCertificates2.accesskey "У">
+<!ENTITY viewSecurityDevices2.label "Сигурносни уређаји…">
+<!ENTITY viewSecurityDevices2.accesskey "С">
