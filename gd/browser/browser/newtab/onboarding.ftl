@@ -106,6 +106,17 @@ onboarding-tracking-protection-title2 = Dìon o thracadh
 onboarding-tracking-protection-text2 = Tha { -brand-short-name } gad dhìon o làraichean-lìn a tha airson do thracadh air loidhne agus nì sin nas dorra e do shanasachd a bhith gad leantainn mun cuairt air an lìon.
 onboarding-tracking-protection-button2 = Mar a dh’obraicheas e
 onboarding-data-sync-title = Thoir na roghainnean agad leat
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sioncronaich na comharran-lìn, faclan-faire ’s mòran a bharrachd àite sam bith far an cleachd thu { -brand-product-name }.
+onboarding-data-sync-button2 = Clàraich a-steach gu { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Bidh furachail a thaobh briseadh dàta
+onboarding-firefox-monitor-text = Cumaidh { -monitor-brand-name } sùil airson a’ phuist-d agad ma nochd e ann am briseadh dàta roimhe agus cuiridh e brath thugad ma nochdas e ann am briseadh dàta ùr.
+onboarding-firefox-monitor-text2 = Cumaidh { -monitor-brand-name } sùil airson a’ phuist-d agad ma nochd e ann am briseadh dàta roimhe agus cuiridh e brath thugad ma nochdas e ann am briseadh dàta ùr.
+onboarding-firefox-monitor-button = Clàraich airson rabhaidhean
+onboarding-browse-privately-title = Dèan brabhsadh prìobhaideach
+onboarding-browse-privately-text = Falamhaichidh gleus a’ bhrabhsaidh phrìobhaidich na lorgas tu agus eachdraidh a’ bhrabhsaidh gus a chumail falaichte o dhaoine eile a chleachdas an coimpiutair agad.
+onboarding-browse-privately-button = Fosgail uinneag phrìobhaideach
+onboarding-firefox-send-title = Cùm na faidhlichean co-roinnte agad prìobhaideach
 
 ## Message strings belonging to the Return to AMO flow
 
