@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = Սսկել
 pictureinpicture-unmute =
     .aria-label = Միացնել ձայնը
+pictureinpicture-close =
+    .aria-label = Փակել

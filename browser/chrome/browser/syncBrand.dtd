@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncBrand.shortName.label  "Համաժամեցում">
-<!ENTITY syncBrand.fullName.label   "Firefox Սինք">
+<!ENTITY syncBrand.fullName.label   "Firefox-ի համաժամեցում">
 <!ENTITY syncBrand.fxAccount.label  "Firefox-ի հաշիվ">

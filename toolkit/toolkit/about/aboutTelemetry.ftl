@@ -133,7 +133,7 @@ about-telemetry-captured-stacks-title = { $stackKey } (քանակը. { $captured
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Ուշ գրառում #{ $lateWriteCount }
 about-telemetry-stack-title = Շեղջ.
-about-telemetry-memory-map-title = Հիշողության քարտեզը.
+about-telemetry-memory-map-title = Յիշողութեան քարտեզը.
 about-telemetry-error-fetching-symbols = Նշանները բեռնելիս սխալ է գրանցվել։ Ստուգեք կապակցումը համացանցին և կրկին փորձեք։
 about-telemetry-time-stamp-header = ժամադրոշմ
 about-telemetry-category-header = անվանակարգ

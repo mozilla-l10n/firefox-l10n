@@ -774,6 +774,10 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Դուք այժմ օգտագործում էք FIPS եղանակը: FIPS-ը պահանջում է Հիմնական Գաղտնաբառի օգտագործում:
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխությունը Չհաջողվեց
 
+## OS Authentication dialog
+
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Պատմություն

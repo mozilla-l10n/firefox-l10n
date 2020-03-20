@@ -13,11 +13,11 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 <!ENTITY translation.thisPageIsIn.label         "Այս էջի լեզուն է՝">
-<!ENTITY translation.translateThisPage.label    "Թարգմանե՞լ այն:">
+<!ENTITY translation.translateThisPage.label    "Թարգմանե՞լ այս էջը։">
 <!ENTITY translation.translate.button           "Թարգմանել">
 <!ENTITY translation.notNow.button              "Ոչ հիմա">
 
-<!ENTITY translation.translatingContent.label   "Էջը թարգմանվում է...">
+<!ENTITY translation.translatingContent.label   "Թարգմանում է էջի բովանդակությունը…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -38,7 +38,7 @@
 <!ENTITY translation.translatedTo.label         "դեպի">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-<!ENTITY translation.showOriginal.button        "Բնօրինակը">
+<!ENTITY translation.showOriginal.button        "Ցուցադրել բնօրինակը">
 <!ENTITY translation.showTranslation.button     "Ցուցադրել թարգմանությունը">
 
 <!ENTITY translation.errorTranslating.label     "Սխալ՝ էջը թարգմանելիս:">
