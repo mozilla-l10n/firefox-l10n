@@ -406,5 +406,4 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Ավելացնել որպես իրադարձություն">
 <!ENTITY calendar.extract.task.button          "Ավելացնել որպես առաջադրանք">
-<!ENTITY calendar.extract.event.button.tooltip "Հանե՛ք օրացույցի տեղեկությունը հաղորդագրությունից և ավելացրե՛ք ձեր օրացույցի մեջ որպես արդյունք">
 <!ENTITY calendar.extract.task.button.tooltip  "Հանե՛ք օրացույցի տեղեկությունը հաղորդագրությունից և ավելացրե՛ք այն ձեր օրացույցում որպես առաջադրանք">
