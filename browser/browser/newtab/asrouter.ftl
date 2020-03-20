@@ -135,6 +135,7 @@ cfr-whatsnew-searchbar-title = Faigh lorg air rudan nas luaithe le nas lugha de 
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Ruig na làraichean a chleachdas tu gu tric le aon bhriogadh ann am bàr an t-seòlaidh. Faigh lorg air rudan nas luaithe le toraidhean o { $searchEngineName } agus on eachdraidh bhrabhsaidh agad.
 cfr-whatsnew-searchbar-body-generic = Ruig na làraichean a chleachdas tu gu tric le aon bhriogadh ann am bàr an t-seòlaidh. Faigh lorg air rudan nas luaithe le toraidhean luirg on eachdraidh bhrabhsaidh agad.
+cfr-whatsnew-searchbar-body-topsites = Nise, cha leig thu leas ach bàr an t-seòlaidh a thaghadh agus nochdaidh bogsa le ceanglaichean ri brod nan làrach agad.
 cfr-whatsnew-searchbar-icon-alt-text = Ìomhaigheag na glainne-mheudachaidh
 
 ## Picture-in-Picture
