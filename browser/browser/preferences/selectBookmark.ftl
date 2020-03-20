@@ -5,4 +5,4 @@
 select-bookmark-window =
     .title = Definir la pagina d'acuèlh
     .style = width: 32em;
-select-bookmark-desc = Causir un marcapagina coma pagina d'acuèlh. Se causissètz un dorsièr, los marcapaginas d'aqueste dorsièr se dobriràn dins d'onglets.
+select-bookmark-desc = Causir un marcapagina coma pagina d'acuèlh. Se causissètz un dossièr, los marcapaginas d'aqueste dossièr se dobriràn dins d'onglets.

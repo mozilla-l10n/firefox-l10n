@@ -24,6 +24,7 @@ features-title = Foncionalitats de { -brand-short-name }
 features-name = Nom
 features-version = Version
 features-id = ID
+processes-title = Processús distants
 app-basics-title = Application Basics
 app-basics-name = Nome
 app-basics-version = Version
@@ -45,6 +46,7 @@ app-basics-performance = Performança
 app-basics-service-workers = Servici Workers enregistrats
 app-basics-profiles = Perfils
 app-basics-multi-process-support = Fenèstras multiprocessus
+app-basics-remote-processes-count = Processús distants
 app-basics-enterprise-policies = Estrategias d’entrepresa
 app-basics-key-mozilla = Clau del servici de localizacion de Mozilla
 app-basics-safe-mode = Mòde segur
@@ -114,6 +116,8 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Taus
 media-device-latency = Laténcia
+# List all the entries of the database.
+media-capabilities-enumerate = Percórrer la basa de donadas
 
 ##
 
