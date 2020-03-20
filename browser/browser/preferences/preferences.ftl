@@ -782,6 +782,17 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Atualmente, está no modo FIPS. Este modo requer uma palavra-passe mestra não vazia.
 forms-master-pw-fips-desc = Erro ao alterar palavra-passe
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Confirme a sua identidade para criar uma palavra-passe mestra.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Criar uma palavra-passe mestra
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Histórico
