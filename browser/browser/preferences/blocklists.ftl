@@ -24,3 +24,4 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-description = Autoriza certans traçadors per que mens de sites quiten de foncionar.
+blocklist-item-moz-full-description = Bloca los traçadors detectats. Es possible qu’unes sites web o contenguts se carguen pas corrèctament.
