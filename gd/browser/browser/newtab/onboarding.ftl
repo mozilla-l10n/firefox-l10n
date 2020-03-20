@@ -67,6 +67,22 @@ onboarding-sync-form-sub-header = a leantainn air adhart gu { -sync-brand-name }
 ## description.
 
 onboarding-benefit-products-title = Bathar feumail
+onboarding-benefit-products-text = Falbh an ceann do ghnothaich le sreath de dh’innealan a dhìonas do phrìobhaideachd air feadh nan uidheaman agad.
+onboarding-benefit-knowledge-title = Fiosrachadh feumail
+onboarding-benefit-knowledge-text = Fàs eòlach air rudan a chumas sàbhailte thu air loidhne air dòighean nas tapaidhe.
+onboarding-benefit-privacy-title = Fìor-phrìobhaideachd
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tha gach rud a nì sinn a’ gèilleadh ri ar gealladh a thaobh dàta pearsanta: Greim air nas lugha dheth. Cùm sàbhailte e. Làn-fhollaiseacheachd.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Thoir leat na comharran-lìn, faclan-faire, an eachdraidh ’s mòran a bharrachd àite sam bith far an cleachd thu { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Faigh brath nuair a chaidh am fiosrachadh pearsanta agad a leigeil air èalaidh an cois briseadh dàta.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Stiùirich faclan-faire a tha fo dhìon agus as urrainn dhut a thoirt leat.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -86,6 +102,10 @@ onboarding-ghostery-text = Dèan brabhsadh nas luaithe, nas tapaidhe no nas sàb
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sioncronaich
 onboarding-fxa-text = Clàraich airson { -fxaccount-brand-name } agus sioncronaich na comharran-lìn, faclan-faire is tabaichean fosgailte o àite sam bith far an cleachd thu { -brand-short-name }.
+onboarding-tracking-protection-title2 = Dìon o thracadh
+onboarding-tracking-protection-text2 = Tha { -brand-short-name } gad dhìon o làraichean-lìn a tha airson do thracadh air loidhne agus nì sin nas dorra e do shanasachd a bhith gad leantainn mun cuairt air an lìon.
+onboarding-tracking-protection-button2 = Mar a dh’obraicheas e
+onboarding-data-sync-title = Thoir na roghainnean agad leat
 
 ## Message strings belonging to the Return to AMO flow
 

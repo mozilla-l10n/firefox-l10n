@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Ion-phortaich o bhrabhsair eile…
 appmenuitem-protection-report-title = Dìon prìobhaideachd
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tadhail air an aithisg phrìobhaideachd agad
