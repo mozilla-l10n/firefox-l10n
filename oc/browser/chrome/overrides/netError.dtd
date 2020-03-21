@@ -151,7 +151,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se coneissètz pas <span class='mitm-name'/>, alara poiriá èsser una ataca, e i a pas res de far per accedir al site.">
 
 <!ENTITY clockSkewError.title "L’ora de l’ordenador es pas corrècta">
-<!ENTITY clockSkewError.longDesc "Segon vòstre ordenador es <span id='badSystemTime_systemDate1' /> qu'empacha &brandShortName; de se connectar en tota seguretat. Per visitar <span class='hostname'> </span>, reglatz lo relòtge de l’ordenador dins los paramètres sistèma de data d’ora e de fus orari, puèi actualizatz <span class='hostname'> </span>.">
+<!ENTITY clockSkewError.longDesc "Segon vòstre ordenador es <span id='wrongSystemTime_systemDate1'/> qu'empacha &brandShortName; de se connectar en tota seguretat. Per visitar <span class='hostname'></span>, reglatz lo relòtge de l’ordenador dins los paramètres sistèma de data d’ora e de fus orari, puèi actualizatz <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
