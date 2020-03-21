@@ -1038,6 +1038,7 @@ permissions-a11y-privacy-link = ਹੋਰ ਜਾਣੋ
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ ਅਤੇ ਵਰਤੋ
+collection-description = ਅਸੀਂ ਤੁਹਾਨੂੰ ਚੋਣ ਕਰਨ ਦਾ ਮੌਕਾ ਲਈ ਤਰਸਦੇ ਹਾਂ ਅਤੇ ਸਿਰਫ਼ ਉਹੀ ਇਕੱਤਰ ਕਰਦੇ ਹਾਂ, ਜੋ ਕਿ ਹਰੇਕ ਲਈ { -brand-short-name } ਦੇਣ ਅਤੇ ਸੁਧਾਰਨ ਲਈ ਚਾਹੀਦਾ ਹੈ। ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਅਸੀਂ ਹਮੇਸ਼ਾਂ ਇਜਾਜ਼ਤ ਲੈਂਦੇ ਹਾਂ
 collection-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
 collection-health-report-telemetry-disabled = ਤੁਸੀਂ ਹੁਣ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਫੜਨ ਲਈ ਸਹਿਮਤੀ ਹਟਾ ਦਿੱਤੀ ਹੈ। ਸਾਰੇ ਪਿਛਲੇ ਡਾਟੇ ਨੂੰ 30 ਦਿਨਾਂ ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।
 collection-health-report-telemetry-disabled-link = ਹੋਰ ਜਾਣੋ
