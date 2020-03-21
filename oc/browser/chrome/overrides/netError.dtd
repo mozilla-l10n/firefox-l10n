@@ -102,13 +102,20 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; a detectat una menaça de seguretat potenciala e a pas contunhat cap a <span class='hostname'/>. Se consultatz aqueste site, los atacaires poirián ensajar de panar d’informacions coma los senhals, las adreças electronicas o las donadas de cartas bancàrias.">
+<!ENTITY certerror.sts.introPara "&brandShortName; a detectat una menaça de seguretat potenciala e a pas contunhat <span class = 'hostname' /> perque aqueste site Web demanda una connexion securizada.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; a detectat un problèma e a arrestat lo cargament de <span class='hostname'/>. Siá lo site es mal configurat, siá l’ora de l’ordenador es pas corrècta.">
+<!ENTITY certerror.expiredCert.secondPara2 "Es probable que lo certificat del site Web s'acabèt, çò qu'empacha &brandShortName; de se connectar en tota seguretat. En visitar aqueste site, los atacaires poirián ensajar de panar d'informacions coma los senhals, las adreças electronicas o las donadas de cartas bancàrias.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Lo certificat del site acabèt benlèu, çò qu'empacha &brandShortName; d’establir una connexion securizada.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "De qué podètz far ?">
 
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Lo relòtge de l’ordenador es reglat sus <span id='wrongSystemTime_systemDate2'/>. Verificatz que la data, l’ora e lo fus orari son corrèctes dins los paramètres sistèma de l’ordenador, puèi actualizatz <span class='hostname'/>.</p>
+<p>Se lo relòtge e ja plan reglat, lo site web es benlèu mal configurat e i a pas res de far per resòlvre lo problèma. Ensajatz benlèu de lo senhalar a l’administrator del site.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Lo problèma ven benlèu del site web, podètz doncas pas i remediar. Podètz lo senhalar als administrators del site.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navegar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
@@ -116,6 +123,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacha lo cargament d'aquesta pagina d 'aqueste biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
 <!ENTITY xfoBlocked.title "Blocat per la politica X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; a empachat lo cargament d’aquesta pagina dins aqueste contèxt pr’amor que la politica X-Frame-Options de la pagina l’autoriza pas.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error deguda a un contengut corromput">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada.</p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
