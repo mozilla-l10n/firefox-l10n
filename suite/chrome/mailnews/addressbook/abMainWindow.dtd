@@ -12,10 +12,10 @@
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "Y">
 <!ENTITY newListCmd.label                               "Postituslista…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newListCmd.accesskey                           "P">  
-<!ENTITY newAddressBookCmd.label                        "Osoitekirja…"> 
-<!ENTITY newAddressBookCmd.accesskey                    "O">  
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newListCmd.accesskey                           "P">
+<!ENTITY newAddressBookCmd.label                        "Osoitekirja…">
+<!ENTITY newAddressBookCmd.accesskey                    "O">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-hakemisto…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
@@ -25,42 +25,45 @@
 <!ENTITY printPreviewContactViewCmd.label               "Esikatsele yhteystietoja">
 <!ENTITY printPreviewContactViewCmd.accesskey           "k">
 <!ENTITY printContactViewCmd.key                        "P">
-<!ENTITY printAddressBook.label                         "Tulosta osoitekirja…"> 
-<!ENTITY printAddressBook.accesskey                     "t"> 
-<!ENTITY printPreviewAddressBook.label                  "Esikatsele osoitekirjaa"> 
+<!ENTITY printAddressBook.label                         "Tulosta osoitekirja…">
+<!ENTITY printAddressBook.accesskey                     "t">
+<!ENTITY printPreviewAddressBook.label                  "Esikatsele osoitekirjaa">
 <!ENTITY printPreviewAddressBook.accesskey              "a">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label                              "Poista osoitekirja">  
+<!ENTITY deleteAbCmd.label                              "Poista osoitekirja">
 <!ENTITY deleteContactCmd.label                         "Poista yhteyshenkilö">
 <!ENTITY deleteContactsCmd.label                        "Poista valitut yhteyshenkilöt">
 <!ENTITY deleteListCmd.label                            "Poista lista">
 <!ENTITY deleteListsCmd.label                           "Poista valitut listat">
 <!ENTITY deleteItemsCmd.label                           "Poista valitut merkinnät">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Vaihda etu- ja sukunimien paikkaa">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "V">  
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "V">
 <!ENTITY propertiesCmd.label                            "Ominaisuudet…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY propertiesCmd.accesskey                        "O">  
-<!ENTITY propertiesCmd.key                              "i">  
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY propertiesCmd.accesskey                        "O">
+<!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label                         "Osoitekirjapalkki"> 
-<!ENTITY showAbToolbarCmd.accesskey                     "O">  
+<!ENTITY showAbToolbarCmd.label                         "Osoitekirjapalkki">
+<!ENTITY showAbToolbarCmd.accesskey                     "O">
 <!ENTITY layoutMenu.label                               "Asettelu">
 <!ENTITY layoutMenu.accesskey                           "A">
 <!ENTITY showDirectoryPane.label                        "Hakemistoruutu">
 <!ENTITY showDirectoryPane.accesskey                    "H">
 <!ENTITY showContactPane2.label                         "Yhteystietoruutu">
 <!ENTITY showContactPane2.accesskey                     "Y">
-<!ENTITY menu_ShowNameAs.label                          "Näytä nimet muodossa"> 
-<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
-<!ENTITY firstLastCmd.label                             "Etunimi ensin">  
-<!ENTITY firstLastCmd.accesskey                         "E"> 
-<!ENTITY lastFirstCmd.label                             "Sukunimi ensin">  
-<!ENTITY lastFirstCmd.accesskey                         "S"> 
-<!ENTITY displayNameCmd.label                           "Kokonimi">  
-<!ENTITY displayNameCmd.accesskey                       "K"> 
+<!ENTITY menu_ShowNameAs.label                          "Näytä nimet muodossa">
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
+<!ENTITY firstLastCmd.label                             "Etunimi ensin">
+<!ENTITY firstLastCmd.accesskey                         "E">
+<!ENTITY lastFirstCmd.label                             "Sukunimi ensin">
+<!ENTITY lastFirstCmd.accesskey                         "S">
+<!ENTITY displayNameCmd.label                           "Kokonimi">
+<!ENTITY displayNameCmd.accesskey                       "K">
+
+<!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
+     mac platform, other platforms use VK_F9. -->
 
 <!-- Tasks Menu -->
 <!ENTITY importCmd.label                                "Tuo…">
@@ -68,31 +71,32 @@
 <!ENTITY exportCmd.label                                "Vie…">
 <!ENTITY exportCmd.accesskey                            "V">
 
-<!-- Toolbar and Popup items -->  
+<!-- Toolbar and Popup items -->
 <!ENTITY newContactButton.label                         "Uusi yhteyshenkilö">
 <!ENTITY newContactButton.accesskey                     "y">
-<!ENTITY newlistButton.label                            "Uusi lista">  
-<!ENTITY newlistButton.accesskey                        "l">  
+<!ENTITY newlistButton.label                            "Uusi lista">
+<!ENTITY newlistButton.accesskey                        "l">
 <!ENTITY editItemButton.label                           "Ominaisuudet">
 <!ENTITY editItemButton.accesskey                       "m">
-<!ENTITY newmsgButton.label                             "Kirjoita">  
-<!ENTITY newmsgButton.accesskey                         "K">  
+<!ENTITY newmsgButton.label                             "Kirjoita">
+<!ENTITY newmsgButton.accesskey                         "K">
 <!ENTITY deleteItemButton.label                         "Poista">
 <!ENTITY deleteItemButton.accesskey                     "P">
-<!ENTITY newimButton.label                              "Pikaviesti">  
-<!ENTITY newimButton.accesskey                          "P">  
+<!ENTITY newimButton.label                              "Pikaviesti">
+<!ENTITY newimButton.accesskey                          "P">
 <!ENTITY searchNameAndEmail.placeholder                 "Etsi nimestä ja sähköpostiosoitteesta">
 <!ENTITY searchBox.title                                "Etsi">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Osoitekirjapalkki">
 <!ENTITY newContactButton.tooltip                       "Luo osoitekirjaan uusi yhteyshenkilö">
-<!ENTITY newlistButton.tooltip                          "Luo uusi lista"> 
+<!ENTITY newlistButton.tooltip                          "Luo uusi lista">
 <!ENTITY editItemButton.tooltip                         "Muokkaa valittua merkintää">
-<!ENTITY newmsgButton.tooltip                           "Lähetä sähköpostiviesti"> 
-<!ENTITY newIM.tooltip                                  "Lähetä pikaviesti"> 
+<!ENTITY newmsgButton.tooltip                           "Lähetä sähköpostiviesti">
+<!ENTITY newIM.tooltip                                  "Lähetä pikaviesti">
 <!ENTITY deleteItemButton.tooltip                       "Poista valittu merkintä">
 <!ENTITY throbber.tooltip                               "Siirry &vendorShortName;n kotisivulle">
+<!ENTITY throbber.tooltip2                              "Siirry &brandShortName;:n kotisivulle">
 <!ENTITY advancedButton.tooltip                         "Osoitehaun lisäasetukset">
 
 <!-- Dir Tree header -->
@@ -112,7 +116,7 @@
 <!ENTITY mapItButton.label                              "Hae kartta">
 <!ENTITY mapIt.tooltip                                  "Hae verkosta kartta tähän osoitteeseen">
 
-<!-- Status Bar -->  
+<!-- Status Bar -->
 <!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
