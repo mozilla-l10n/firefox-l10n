@@ -31,5 +31,10 @@ about-private-browsing-info-description = जब आप ऐप छोड़त�
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = निजी विंडोज में { $engineName } आपका डिफ़ॉल्ट खोज इंजन है
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] एक अलग खोज इंजन का चयन करने के लिए <a data-l10n-name="link-options"> विकल्प </a> पर जाएं
+       *[other] एक अलग खोज इंजन का चयन करने के लिए <a data-l10n-name="link-options"> वरीयताएं </a> पर जाएं
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = बंद करें
