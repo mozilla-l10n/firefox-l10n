@@ -17,6 +17,9 @@ was trying to connect. -->
 <!-- Localization note (certerror.introPara1a) - The text content of the span
 tag will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara1a "Olet pyytänyt &brandShortName;:a muodostamaan
+suojatun yhteyden kohteeseen <span class='hostname'/>, 
+mutta yhteyden turvallisuutta ei pystytä varmistamaan.">
 <!ENTITY certerror.introPara2 "Yleensä, kun suojattua yhteyttä muodostetaan, sivustot lähettävät varmennetut identiteettitietonsa, joiden perusteella voi olla varma, että tietoja siirretään oikean paikan kanssa. Tämän sivuston identiteettiä ei kuitenkaan voitu varmentaa.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Mitä minun pitäisi tehdä?">

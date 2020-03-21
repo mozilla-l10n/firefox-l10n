@@ -20,9 +20,14 @@
 <!ENTITY clear.accesskey      "T">
 <!ENTITY codeEval.label       "Koodi:">
 <!ENTITY codeEval.accesskey   "d">
+<!ENTITY evaluate.label       "Suorita">
 <!ENTITY filter2.label        "Suodata:">
 
 <!ENTITY copyCmd.label         "Kopioi">
+<!ENTITY sortFirst.label       "Järjestetty ensimmäisestä viimeiseen">
+<!ENTITY sortFirst.accesskey   "e">
+<!ENTITY sortLast.label        "Järjestetty viimeisestä ensimmäiseen">
+<!ENTITY sortLast.accesskey    "m">
 
 <!ENTITY menuBar.tooltip       "Valikkopalkki">
 <!ENTITY toolbarsCmd.label     "Näytä/piilota">

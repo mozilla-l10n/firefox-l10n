@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Arkisto">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Järjestä">
+<!ENTITY organize.accesskey    "J">
+<!ENTITY organize.tooltip      "Järjestele kirjanmerkkejäsi">
+
+<!ENTITY file.close.label               "Sulje">
+<!ENTITY file.close.accesskey           "S">
+<!ENTITY views.tooltip                  "Muokkaa näkymää">
+<!ENTITY view.columns.label             "Näytä sarakkeet">
+<!ENTITY view.columns.accesskey         "s">
+<!ENTITY view.sortAscending.label       "A > Z lajittelu">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Z > A lajittelu">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "Tuo kirjanmerkit HTML-tiedostosta…">
+<!ENTITY importBookmarksFromHTML.accesskey "T">
+<!ENTITY exportBookmarksToHTML.label       "Vie kirjanmerkit HTML-tiedostoon…">
+<!ENTITY exportBookmarksToHTML.accesskey   "V">
+<!ENTITY importOtherBrowser.label          "Tuo tietoja toisesta selaimesta…">
+<!ENTITY importOtherBrowser.accesskey      "u">
+
+<!ENTITY cmd.backup.label               "Varmuuskopioi…">
+<!ENTITY cmd.backup.accesskey           "m">
+<!ENTITY cmd.restore2.label             "Palauta">
+<!ENTITY cmd.restore2.accesskey         "l">
+<!ENTITY cmd.restoreFromFile.label      "Valitse tiedosto…">
+
+
+
+
+
+
+
+
+
+
+

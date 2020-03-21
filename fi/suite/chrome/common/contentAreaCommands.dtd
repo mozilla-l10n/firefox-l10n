@@ -160,5 +160,6 @@ items are mutually exclusive. -->
 <!ENTITY fillPasswordMenu.accesskey   "T">
 <!ENTITY fillUsernameMenu.label       "Täytä käyttäjätunnus">
 <!ENTITY fillUsernameMenu.accesskey   "T">
+<!ENTITY viewSavedLogins.label        "Näytä tallennetut kirjautumistiedot">
 
 <!-- Developer Tools -->
