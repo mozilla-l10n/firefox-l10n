@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Font de donadas de ping :
 about-telemetry-show-current-ping-data = Donadas actualas ping
+about-telemetry-show-current-data = Donadas actualas
 about-telemetry-show-archived-ping-data = Donadas ping archivadas
 about-telemetry-show-subsession-data = Afichar las donadas de substitucion
 about-telemetry-choose-ping = Causir lo ping :
@@ -127,3 +128,9 @@ about-telemetry-method-header = metòde
 about-telemetry-object-header = objècte
 about-telemetry-extra-header = de sòbra
 about-telemetry-origin-origin = origina
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encòda las donadas abans de las mandar que { $telemetryServerOwner } pòsca comptar las mantunas causas, mas que pòscan pas saber se una { -brand-product-name } contribuiguèt a aqueste comptatge. (<a data-l10n-name="prio-blog-link">Ne saber mai</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Processús « { $process } »

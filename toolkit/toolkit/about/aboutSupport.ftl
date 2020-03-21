@@ -25,6 +25,8 @@ features-name = Nom
 features-version = Version
 features-id = ID
 processes-title = Processús distants
+processes-type = Tipe
+processes-count = Nombre
 app-basics-title = Application Basics
 app-basics-name = Nome
 app-basics-version = Version
@@ -39,6 +41,8 @@ app-basics-update-dir =
     }
 app-basics-update-history = Istoric de las mesas a jorn
 app-basics-show-update-history = Afichar l'istoric de las mesas a jorn
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binari de l’aplicacion
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Dossièr de perfil
@@ -80,6 +84,10 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Jornal de las decisions
 graphics-crash-guards-title = Foncionalitats desactivadas per la proteccion contra los plantatges
 graphics-workarounds-title = Solucions de retirada
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocòl de fenèstra
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Environament de burèu
 place-database-title = Basa de donada de lòcs
 place-database-integrity = Integritat
 place-database-verify-integrity = Verificar l'integritat
@@ -123,6 +131,7 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Taus
 media-device-latency = Laténcia
+media-capabilities-title = Capacitats multimèdia
 # List all the entries of the database.
 media-capabilities-enumerate = Percórrer la basa de donadas
 
@@ -147,6 +156,7 @@ intl-regional-prefs = Preferéncias regionalas
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Debugatge distant (protocòl Chromium)
 remote-debugging-accepting-connections = Acceptar las connexions
 remote-debugging-url = URL
 
@@ -208,6 +218,7 @@ main-thread-no-omtc = fil màger, sens OMTC
 yes = Òc
 no = Non
 unknown = Desconegut
+virtual-monitor-disp = Afichatge d'ecran virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -215,12 +226,15 @@ unknown = Desconegut
 
 found = Trobada
 missing = Mancant
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = Descripcion
 gpu-vendor-id = ID del vendeire
 gpu-device-id = ID del periferic
 gpu-subsys-id = ID del sosistèma
 gpu-drivers = Pilòts
 gpu-ram = RAM
+gpu-driver-vendor = Editor del pilòt
 gpu-driver-version = Version del pilòt
 gpu-driver-date = Data del pilòt
 gpu-active = Actiu
@@ -248,6 +262,7 @@ d3d9video-crash-guard = Desencodador vidèo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reïnicializar en reaviar
 gpu-process-kill-button = Acabar lo procediment GPU
+gpu-device-reset = Reïnicializacion del periferic
 gpu-device-reset-button = Desenclavar la reïnitializacion del periferic
 uses-tiling = Utiliza lo caladat
 content-uses-tiling = Utiliza lo caladat (contengut)
