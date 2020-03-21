@@ -187,6 +187,8 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Aviar
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Desmarcar
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Execucion
