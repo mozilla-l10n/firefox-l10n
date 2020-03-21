@@ -9,6 +9,7 @@ ok = D'acòrdi
 http = HTTP
 sockets = Sockets
 dns = DNS
+dnssuffix = Sufix DNS
 websockets = WebSockets
 refresh = Refrescar
 auto-refresh = Actualizar automaticament cada 3 segondas
@@ -19,11 +20,13 @@ about-networking-title = Informacions ret
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-suffix = Sufix DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Actualizar automaticament cada 3 segondas
 about-networking-hostname = Nom d'òste
 about-networking-port = Pòrt
+about-networking-http-version = Version HTTP
 ssl = SSL
 active = Actiu
 idle = Inactiu
@@ -115,6 +118,8 @@ about-networking-networkid-id = ID de la ret
 
 ## Link is intended as "network link"
 
+networkid-isUp = Ligason establida
+networkid-statusKnown = L’estat de la ligason es conegut
 
 ##
 
