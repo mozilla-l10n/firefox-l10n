@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (निजी ब्राउज़िंग)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (निजी ब्राउज़िंग)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -123,6 +107,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = कम टाइप करें, अधिक खोजें: सीधे अपने पता पट्टी { $engineName } खोजें.
 urlbar-search-tips-redirect = { $engineName } और अपने ब्राउज़िंग इतिहास से सुझाव देखने के लिए अपनी खोज यहां प्रारंभ करें.
+urlbar-search-tips-redirect-2 = { $engineName } और अपने ब्राउज़िंग इतिहास से सुझाव देखने के लिए अपनी खोज पता पट्टी में प्रारंभ करें।
 
 ##
 
