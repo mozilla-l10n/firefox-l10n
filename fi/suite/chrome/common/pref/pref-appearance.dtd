@@ -23,8 +23,12 @@
 
 <!ENTITY pref.locales.title                     "Ohjelman kieli">
 <!ENTITY selectLocale.label                     "Valitse ohjelman kieli:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+
+<!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
+     radiobuttons are set dynamically from prefutilities.properties
+-->
+<!ENTITY dateTimeFormatting.label               "Päiväyksen ja ajan muoto">
+
+<!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "Kieli vaihtuu, kun käynnistät &brandShortName;n uudelleen.">
-

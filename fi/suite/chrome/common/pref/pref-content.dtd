@@ -6,20 +6,32 @@
 
 <!ENTITY pref.content.title                     "Sisältö">
 <!ENTITY pref.content.description               "Nämä asetukset vaikuttavat siihen, miltä verkkosivut ja sähköpostiviestit näyttävät &brandShortName;ssä.">
+
 <!ENTITY siteIcons.label                        "Verkkosivujen kuvakkeet">
 <!ENTITY useSiteIcons.label                     "Näytä verkkosivujen kuvakkeet">
 <!ENTITY useSiteIcons.accesskey                 "N">
-<!ENTITY useFavIcons.label                      "Etsi verkkosivun kuvake omatoimisesti, jos sivu ei ole määrittänyt sellaista">
-<!ENTITY useFavIcons.accesskey                  "E">
-<!ENTITY enableAutomaticImageResizing.label     "Skaalaa suuret kuvat mahtumaan selainikkunaan">
-<!ENTITY enableAutomaticImageResizing.accesskey "S">
+
+<!ENTITY scrolling.label                        "Vieritys">
+<!ENTITY useAutoScroll.label                    "Vieritä sivua automaattisesti">
+<!ENTITY useAutoScroll.accesskey                "a">
 <!ENTITY useSmoothScroll.label                  "Vieritä sivua portaattomasti">
 <!ENTITY useSmoothScroll.accesskey              "V">
-<!ENTITY allowHWAccel.label                     "Käytä laitteistokiihdytystä, jos mahdollista">
-<!ENTITY allowHWAccel.accesskey                 "K">
-<!ENTITY textZoomOnly.label                     "Muuta vain tekstin kokoa">
-<!ENTITY textZoomOnly.accesskey                 "M">
-<!ENTITY blockAutoRefresh.label                 "Varoita, jos sivusto yrittää päivittää sivua tai uudelleenohjata toiselle sivulle">
-<!ENTITY blockAutoRefresh.accesskey             "a">
+
+<!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
+     single hbox with minZoom.label preceding the minZoom control and
+     maxZoom.label preceding the maxZoom control; percent.label shows
+     the ASCII '%' character at the end of that string -->
+<!ENTITY percent.label                          "&#37;">
+
 <!ENTITY siteSpecific.label                     "Muista sivunsuurennustasot sivustokohtaisesti">
 <!ENTITY siteSpecific.accesskey                 "u">
+<!ENTITY textZoomOnly.label                     "Muuta vain tekstin kokoa">
+<!ENTITY textZoomOnly.accesskey                 "M">
+<!ENTITY enableAutomaticImageResizing.label     "Skaalaa suuret kuvat mahtumaan selainikkunaan">
+<!ENTITY enableAutomaticImageResizing.accesskey "S">
+
+<!ENTITY allowHWAccel.label                     "Käytä laitteistokiihdytystä, jos mahdollista">
+<!ENTITY allowHWAccel.accesskey                 "K">
+<!ENTITY blockAutoRefresh.label                 "Varoita, jos sivusto yrittää päivittää sivua tai uudelleenohjata toiselle sivulle">
+<!ENTITY blockAutoRefresh.accesskey             "a">
+
