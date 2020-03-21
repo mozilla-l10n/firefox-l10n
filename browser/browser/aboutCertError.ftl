@@ -6,7 +6,7 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } utiliza un certificat de seguretat invalid.
 cert-error-mitm-intro = Los sites web verifican lor identitats amb de certificats, son emeses per d’autoritats.
-cert-error-mitm-mozilla = { -brand-short-name } es sostengut per Mozilla, una organizacion sens but lucratiu que gerís un magasin d’autoritats de certificacion (CA) complètament dubèrt. Lo magasin ajuda a assegurar que las autoritats de certificacion respècten las melhoras practicas de seguretat per protegir los utilizaires.
+cert-error-mitm-mozilla = { -brand-short-name } es sostengut per Mozilla, una organizacion sens but lucratiu que gerís un magasin d’autoritats de certificacion (CA) complètament dobèrt. Lo magasin ajuda a assegurar que las autoritats de certificacion respècten las melhoras practicas de seguretat per protegir los utilizaires.
 cert-error-mitm-connection = { -brand-short-name } utiliza lo magasin d’autoritats de certificacion de Mozilla per verificar qu’una connexion es segura, allòc d’utilizar los certificats del sistèma operatiu de l’utilizaire., Atal, s’un programa anti-virus o un ret intercèptan una connexion amb un certificat de seguretat emés per una CA que se tròba pas al magasin de Mozilla, la connexion es considera coma pas segura.
 cert-error-trust-unknown-issuer-intro = Qualqu’un poiriá usurpar l’identitat del site, deuriatz pas contunhar.
 # Variables:

@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilizaire
        *[other] { $total } utilizaires
     }
-cfr-doorhanger-pintab-description = Accedissètz facilament als sites mai utilizats. Gardatz los sites dubèrts dins un onglets (amai quand reaviatz)
+cfr-doorhanger-pintab-description = Accedissètz facilament als sites mai utilizats. Gardatz los sites dobèrts dins un onglets (amai quand reaviatz)
 
 ## These messages are steps on how to use the feature and are shown together.
 
