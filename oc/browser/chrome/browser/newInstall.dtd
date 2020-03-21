@@ -12,3 +12,4 @@
 <!ENTITY sync "Per sincronizar las informacions qu'avètz ja registradas dins Firefox amb aquesta installacion de &brandShortName;, connectatz-vos amb vòstre &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Contunhar">
 
+<!ENTITY mainText "Aquesta installacion de &brandShortName; a un perfil novèl. Parteja cap de marcapaginas, de senhals e de preferéncias utilizaire amb d'autras installacions de Firefox (coma Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition e Firefox Nightly) sus aqueste ordenador.">
