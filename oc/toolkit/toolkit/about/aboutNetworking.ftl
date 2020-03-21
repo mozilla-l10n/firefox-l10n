@@ -120,6 +120,8 @@ about-networking-networkid-id = ID de la ret
 
 networkid-isUp = Ligason establida
 networkid-statusKnown = L’estat de la ligason es conegut
+about-networking-networkid-is-up = Ligason establida
+about-networking-networkid-status-known = L’estat de la ligason es conegut
 
 ##
 

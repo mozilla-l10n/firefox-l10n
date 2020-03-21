@@ -8,7 +8,11 @@ profiles-create = Crear un perfil novèl
 profiles-restart-title = Reaviar
 profiles-restart-in-safe-mode = Reaviar amb los moduls desactivats…
 profiles-restart-normal = Reaviar normalament…
+profiles-conflict = Una autra còpia de { -brand-product-name } a modificat los perfils. Vos cal reaviar { -brand-short-name } abans de far mai de modificacions.
 profiles-flush-fail-title = Modificacions pas enregistradas
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Una error inesperada a empachat l’enregistrament de vòstras modificacions.
+profiles-flush-restart-button = Reaviar { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Perfil : { $name }
@@ -27,6 +31,7 @@ profiles-rename = Renommar
 profiles-remove = Suprimir
 profiles-set-as-default = Definir coma perfil per defaut
 profiles-launch-profile = Lançar lo perfil dins un navegador novèl
+profiles-cannot-set-as-default-title = Impossible de definir la valor per defaut
 profiles-yes = òc
 profiles-no = non
 profiles-rename-profile-title = Renommar lo perfil
