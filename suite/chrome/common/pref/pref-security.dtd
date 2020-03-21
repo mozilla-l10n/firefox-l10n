@@ -8,12 +8,8 @@
 <!ENTITY tracking.label                   "Käyttäjän seuranta">
 <!ENTITY trackingIntro.label              "Verkkosivut voivat seurata, miten käytät niitä. Tämä voi vaikuttaa tietosuojaasi.">
 
-<!ENTITY dntTellSites.label               "Välitä alla oleva valinta verkkosivuille">
-<!ENTITY dntTellSites.accesskey           "V">
-<!ENTITY dntTrackingNotOkay.label         "En suostu seurattavaksi">
-<!ENTITY dntTrackingNotOkay.accesskey     "E">
-<!ENTITY dntTrackingOkay.label            "Suostun seurattavaksi">
-<!ENTITY dntTrackingOkay.accesskey        "S">
+<!ENTITY doNotTrack.label                 "Ilmoita sivustoille, etten halua niiden seuraavan minua">
+<!ENTITY doNotTrack.accesskey             "I">
 
 <!ENTITY geoLocation.label                "Sijaintitietoinen selaus">
 <!ENTITY geoIntro.label                   "Jotkin verkkosivut saattavat pyytää tarkempaa tietoa nykyisestä sijainnistasi.">

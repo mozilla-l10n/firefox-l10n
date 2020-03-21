@@ -18,10 +18,10 @@
 <!ENTITY languages.customize.active.accesskey           "K">
 <!ENTITY languages.customize.others.label               "Muu:">
 <!ENTITY languages.customize.others.accesskey           "M">
-<!ENTITY languages.customize.Fallback.grouplabel        "Merkistökoodaus perinteiselle sisällölle">
-<!ENTITY languages.customize.Fallback.label             "Oletusmerkistökoodaus:">
-<!ENTITY languages.customize.Fallback.accesskey         "v">
-<!ENTITY languages.customize.Fallback.desc              "Tätä koodausta käytetään perinteiselle sisällölle, joka ei itse määritä käytettävää merkistökoodausta.">
+<!ENTITY languages.customize.Fallback2.grouplabel       "Merkistökoodaus perinteiselle sisällölle">
+<!ENTITY languages.customize.Fallback2.label            "Merkistökoodaus virhetilanteessa:">
+<!ENTITY languages.customize.Fallback2.accesskey        "v">
+<!ENTITY languages.customize.Fallback2.desc             "Käytetään perinteiselle sisällölle, joka ei pysty määrittämään käytettävää merkistökoodausta.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "esim. en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Siirrä ylös">

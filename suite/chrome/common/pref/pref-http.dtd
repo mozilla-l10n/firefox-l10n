@@ -13,11 +13,9 @@
 <!ENTITY prefEnableHTTP11.label              "Käytä HTTP 1.1:a">
 <!ENTITY prefEnableHTTP11.accesskey          "ä">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "P">
-<!ENTITY prefEnablePipelining.label          "Ota käyttöön liukuhihnoitus">
-<!ENTITY prefEnablePipelining.accesskey      "a">
-<!ENTITY prefEnablePipeliningProxy.accesskey "N">
 <!ENTITY prefPara                            "HTTP-yhteyksien suorituskykyä tai yhteensopivuutta voi hienosäätää käyttämällä näitä asetuksia. Esim. joidenkin välityspalvelimien tiedetään vaativan HTTP 1.0:a (katso lisätiedot julkaisuhuomautuksista.)">
-<!ENTITY prefPipeWarning                     "VAROITUS: liukuhihnoitus on sivujen latautumista nopeuttamaan suunniteltu kokeellinen ominaisuus, jota jotkut verkko- ja välityspalvelimet eivät ikävä kyllä tue.">
 <!ENTITY prefUseragent.label                 "Käyttäjäagenttimerkkijono">
 <!ENTITY prefFirefoxCompat.label             "Mainosta Firefox-yhteensopivuutta">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
+<!ENTITY prefLightningShow.label             "Mainosta Lightning-asennusta">
+<!ENTITY prefLightningShow.accesskey         "L">

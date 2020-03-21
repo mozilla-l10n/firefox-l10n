@@ -2,21 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  preferencesDefaultTitleMac.title "Asetukset">
+<!ENTITY  preferencesDefaultTitleWin.title "Valinnat">
+<!ENTITY  preferencesCloseButton.label "Sulje">
+<!ENTITY  preferencesCloseButton.accesskey "S">
+
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Asetukset">
 <!ENTITY categoryHeader "Luokka">
+
 <!ENTITY appear.label "Ulkoasu">
 <!ENTITY content.label "Sisältö">
 <!ENTITY fonts.label "Kirjasinlajit">
 <!ENTITY colors.label "Värit">
+<!ENTITY media.label "Media">
+<!ENTITY spellingPane.label "Oikoluku">
+
 <!ENTITY navigator.label "Selain">
 <!ENTITY history.label "Sivuhistoria">
 <!ENTITY languages.label "Kielet">
 <!ENTITY applications.label "Apuohjelmat">
 <!ENTITY locationBar.label "Osoitepalkki">
+<!ENTITY search.label "Verkkohaut">
 <!ENTITY tabWindows.label "Välilehdet">
 <!ENTITY links.label "Linkkien avautuminen">
-<!ENTITY offline.label "Yhteydetön tila">
+<!ENTITY download.label "Lataukset">
+
 <!ENTITY security.label "Tietoturva">
 <!ENTITY privatedata.label "Yksityistiedot">
 <!ENTITY cookies.label "Evästeet">
@@ -24,23 +35,20 @@
 <!ENTITY popups.label "Ponnahdusikkunat">
 <!ENTITY passwords.label "Salasanat">
 <!ENTITY masterpass.label "Pääsalasana">
-<!ENTITY ssl.label "Salaus">
+<!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Varmenteet">
+
 <!ENTITY sync.label "Synkronointi">
+
 <!ENTITY advance.label "Lisäasetukset">
-<!ENTITY down.label "Nouda">
+<!ENTITY scriptsAndWindows.label "Komentosarjat ja liitännäiset">
+<!ENTITY keynav.label "Näppäimistönavigointi">
+<!ENTITY findAsYouType.label "Pikahaut">
 <!ENTITY cache.label "Väliaikaistiedostot">
 <!ENTITY offlineApps.label "Yhteydettömän tilan sovellukset">
 <!ENTITY proxies.label "Välityspalvelimet">
 <!ENTITY httpnetworking.label "HTTP-asetukset">
 <!ENTITY smart.label "Ohjelmistoasennukset">
-<!ENTITY download.label "Lataukset">
-<!ENTITY keynav.label "Näppäimistönavigointi">
-<!ENTITY findAsYouType.label "Pikahaut">
-<!ENTITY search.label "Verkkohaut">
-<!ENTITY policies.label "Turvallisuuskäytännöt">
 <!ENTITY mousewheel.label "Hiiren rulla">
-<!ENTITY scriptsAndWindows.label "Komentosarjat ja liitännäiset">
-<!ENTITY spellingPane.label  "Oikoluku">
 
 <!ENTITY focusSearch.key "f">
