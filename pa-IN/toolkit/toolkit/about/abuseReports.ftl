@@ -44,6 +44,7 @@ abuse-report-messagebar-action-cancel = ਰੱਦ ਕਰੋ
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = ਮੇਰੇ ਕੰਪਿਊਟਰ ਅਤੇ ਡਾਤੇ ਨੂੰ ਨੁਕਸਾਨ ਕਰਦੀ ਹੈ
+abuse-report-damage-reason-v2 = ਇਸ ਨੇ ਮੇਰੇ ਕੰਪਿਊਟਰ ਨੂੰ ਨੁਕਸਾਨ ਕੀਤਾ ਜਾਂ ਮੇਰੇ ਡਾਟੇ ਨਾਲ ਛੇੜਛਾੜ ਕੀਤੀ
 abuse-report-spam-reason = ਸਪੈਮ ਜਾਂ ਇਸ਼ਤਿਹਾਰ ਬਣਾਉਂਦੀ ਹੈ
 abuse-report-settings-suggestions-search = ਮੇਰੀਆਂ ਡਿਫਾਲਟ ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਦੀ ਹੈ
 abuse-report-settings-suggestions-homepage = ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਅਤੇ ਨਵੀ ਟੈਬ ਨੂੰ ਬਦਲਦੀ ਹੈ

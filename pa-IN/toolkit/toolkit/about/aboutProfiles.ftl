@@ -8,6 +8,9 @@ profiles-create = ਨਵਾਂ ਪਰੋਫਾਈਲ ਬਣਾਓ
 profiles-restart-title = ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
 profiles-restart-in-safe-mode = …ਐਡ-ਆਨ ਅਸਮਰੱਥ ਕਰਕੇ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
 profiles-restart-normal = …ਆਮ ਵਾਂਗ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ
+profiles-flush-fail-title = ਤਬਦੀਲੀਆਂ ਨਹੀਂ ਸੰਭਾਲੀਆਂ
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-restart-button = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = ਪਰੋਫਾਈਲ: { $name }
@@ -25,6 +28,8 @@ profiles-rename = ਨਾਂ-ਬਦਲੋ
 profiles-remove = ਹਟਾਓ
 profiles-set-as-default = ਮੂਲ ਪਰੋਫਾਈਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
 profiles-launch-profile = ਨਵੇਂ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਪਰੋਫਾਈਲ ਨੂੰ ਚਲਾਓ
+profiles-cannot-set-as-default-title = ਡਿਫਾਲਟ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ
+profiles-cannot-set-as-default-message = { -brand-short-name } ਲਈ ਡਿਫਾਲਟ ਪਰੋਫਾਈਲ ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
 profiles-yes = ਹਾਂ
 profiles-no = ਨਾਂਹ
 profiles-rename-profile-title = ਪਰੋਫਾਈਲ ਦਾ ਨਾਂ ਬਦਲੋ
@@ -44,6 +49,8 @@ profiles-delete-profile-confirm =
     ਕੀ ਤੁਸੀਂ ਪਰੋਫਾਈਲ ਡਾਟਾ ਫਾਇਲਾਂ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 profiles-delete-files = ਫਾਇਲਾਂ ਨੂੰ ਹਟਾਓ
 profiles-dont-delete-files = ਫਾਇਲਾਂ ਨੂੰ ਨਾ ਹਟਾਓ
+profiles-delete-profile-failed-title = ਗਲਤੀ
+profiles-delete-profile-failed-message = ਇਹ ਪਰੋਫਾਈਲ ਹਟਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਸੀ।
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder ਵਿੱਚ ਵੇਖੋ

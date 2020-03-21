@@ -92,6 +92,8 @@ graphics-crash-guards-title = ਕਰੈਸ਼ ਗਾਰਡ ਆਯੋਗ ਫੀਚ�
 graphics-workarounds-title = ਜੁਗਾੜ
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = ਵਿੰਡੋ ਪਰੋਟੋਕਾਲ
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ
 place-database-title = ਥਾਵਾਂ ਦਾ ਡਾਟਾਬੇਸ
 place-database-integrity = ਇਕਸਾਰਤਾ
 place-database-verify-integrity = ਇਕਸਾਰਤਾ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
@@ -134,6 +136,7 @@ media-device-format = ਫਾਰਮੈਟ
 media-device-channels = ਚੈਨਲ
 media-device-rate = ਰੇਟ
 media-device-latency = ਦੇਰੀ
+media-capabilities-title = ਮੀਡਿਆ ਸਮਰੱਥਾਵਾਂ
 
 ##
 
@@ -259,6 +262,7 @@ d3d11video-crash-guard = D3D11 ਵੀਡੀਓ ਡੀਕੋਡਰ
 d3d9video-crash-buard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
 d3d9video-crash-guard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
 glcontext-crash-guard = OpenGL
+wmfvpxvideo-crash-guard = WMF VPX ਵੀਡਿਓ ਡੀਕੋਡਰ
 reset-on-next-restart = ਅਗਲੀ ਵਾਰ ਮੁੜ-ਚਲਾਉਣ ਉੱਤੇ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 gpu-process-kill-button = Terminate GPU Process
 gpu-device-reset = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਕਰੋ
@@ -266,6 +270,7 @@ gpu-device-reset-button = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਲਈ ਪ�
 uses-tiling = ਟਿਲਿੰਗ ਵਰਤਦਾ ਹੈ
 off-main-thread-paint-enabled = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਸਮਰੱਥ ਨੂੰ ਬੰਦ ਕਰੋ
 off-main-thread-paint-worker-count = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਵਰਕਰ ਗਿਣਤੀ ਬੰਦ ਕਰੋ
+target-frame-rate = ਟੀਚਾ ਫਰੇਮ ਦਰ
 min-lib-versions = ਮੰਗਿਆ ਗਿਆ ਘੱਟੋ-ਘੱਟ ਵਰਜਨ
 loaded-lib-versions = ਵਰਤੋਂ ਵਿੱਚ ਵਰਜਨ
 has-seccomp-bpf = Seccomp-BPF (ਸਿਸਟਮ ਕਾਲ ਫਿਲਟਰ ਕਰਨਾ)
@@ -279,6 +284,7 @@ effective-content-sandbox-level = ਪ੍ਰਭਾਵੀ ਸਮੱਗਰੀ ਕ�
 sandbox-proc-type-content = ਸਮੱਗਰੀ
 sandbox-proc-type-file = ਫ਼ਾਇਲ ਸਮੱਗਰੀ
 sandbox-proc-type-media-plugin = ਮੀਡੀਆ ਪਲੱਗਇਨ
+sandbox-proc-type-data-decoder = ਡਾਟਾ ਡੀਕੋਡਰ
 launcher-process-status-0 = ਸਮਰੱਥ ਹੈ
 launcher-process-status-1 = ਅਸਫ਼ਲਤਾ ਕਰਕੇ ਅਸਮਰੱਥ ਹੈ
 launcher-process-status-2 = ਧੱਕੇ ਨਾਲ ਅਸਮਰੱਥ ਕੀਤਾ
