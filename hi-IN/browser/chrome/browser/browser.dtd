@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "पृष्ठ स्रोत">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "पृष्ठ सूचना">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "लेआउट डीबगर">
 <!ENTITY ldbCmd.accesskey "L">
@@ -127,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; फिर से कनेक्ट करें|">
 <!ENTITY fxaUnverified.label "अपना ख़ाता सत्यापित करें">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "न्यूनतम करें">
 <!ENTITY fullScreenRestore.tooltip "फिर संग्रहित करें">
@@ -214,7 +209,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "बुकमार्क">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ बुकमार्कित करें">
 <!ENTITY editThisBookmarkCmd.label "यह बुकमार्क संपादित करें">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -239,7 +233,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "रूकें">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "स्थान पट्टी पर पता में जाएँ">
@@ -411,7 +404,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "पिछला सत्र पुनर्बहाल करें">
 
 <!ENTITY showAllHistoryCmd2.label "सभी इतिहास दिखाएँ">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "सभी इतिहास दिखाएँ">
@@ -590,7 +582,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "सिर्फ यह फ्रेम दिखाएँ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ढाँचा फिर लोड करें">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -642,7 +633,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "पी">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "फ्रेम ऐसे सहेजें…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -746,20 +736,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "बड़ा करें">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "छोटा करें">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "फिर सेट करें">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -783,7 +770,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 " बंद करें">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -809,7 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        " पाठ दिशा बदलें">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     " इस पृष्ठ में ढूँढ़ें…">
@@ -839,15 +824,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "संपर्क">
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
 <!ENTITY identity.connectionNotSecure "आपका कनेक्शन असुरक्षित है">
-
-<!ENTITY identity.connectionSecure3 "संपर्क सुरक्षित है">
-<!ENTITY identity.connectionNotSecure2 "संपर्क सुरक्षित नहीं है">
 <!ENTITY identity.connectionFile "यह पेज आपके कंप्यूटर में सहेजा जाता हैं.">
 <!ENTITY identity.connectionVerified2 "आप इस साईट से सुरक्षित रूप से जुड़े है, चलाएँ जैसे:">
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
 <!ENTITY identity.extensionPage "यह पृष्ठ एक्सटेंशन से लोड किया गया है.">
 <!ENTITY identity.insecureLoginForms2 "इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.">
-
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं.">
@@ -881,8 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "कूकीज़ तथा साइट डेटा हटायें…">
 
 <!ENTITY identity.permissions " अनुमति">
-
-<!ENTITY identity.permissions3 "अनुमतियां">
 <!ENTITY identity.permissionsEmpty "आपने इस साइट को कोई विशेष अनुमति नहीं दी है.‌‌‌">
 <!ENTITY identity.permissionsReloadHint "बदलाव को लागु करने के लिए आपको पृष्ठ को फिर से लोड करने की आवश्यकता हैं.">
 <!ENTITY identity.permissionsPreferences.tooltip "अनुमति प्राथमिकताएँ खोलें">
@@ -914,6 +893,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "अवरोधित">
+<!ENTITY protections.notBlocking2.label "अनुमति प्राप्त">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->

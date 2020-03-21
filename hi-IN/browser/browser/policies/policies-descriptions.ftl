@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = ऐसी नीतियां बनाएं, जिससे WebExtensions chrome.storage.managed के द्वारा पहुँच सके।
+policy-AppAutoUpdate = स्वतः ऐप्लिकेशन अपडेट को सक्षम या अक्षम करें।
 policy-AppUpdateURL = मनपसंद ऐप अपडेट URL सेट करें।
 policy-Authentication = जो वेबसाइटें इसका समर्थन करती हैं उनके लिए एकीकृत प्रमाणीकरण विन्यस्त करें।
 policy-BlockAboutAddons = ऐड-ऑन प्रबंधक तक पहुँच को ब्लॉक करें (परिचय: ऐड-ऑन)।
