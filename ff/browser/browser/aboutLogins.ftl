@@ -40,6 +40,15 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } mo iPhone kam e iPad
 
 login-list =
     .aria-label = Ceŋorɗe jahdooje e ɗaɓɓitannde njiilaw
+login-list-count =
+    { $count ->
+        [one] { $count } Seŋorde
+       *[other] { $count } Ceŋorɗe
+    }
+login-list-sort-label-text = Laworo:
+login-list-name-option = Innde (A-Z)
+login-list-name-reverse-option = Innde (A-Z)
+login-list-breached-option = Ciygol keɓe lowe
 
 ## Introduction screen
 
