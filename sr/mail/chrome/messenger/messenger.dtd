@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "р">
 <!ENTITY  newContactCmd.label "Контакт у именику…">
 <!ENTITY  newContactCmd.accesskey "К">
+<!ENTITY openMenuCmd.label "Отвори">
+<!ENTITY openMenuCmd.accesskey "О">
 <!ENTITY openMessageFileCmd.label "Отвори сачувану поруку…">
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY saveAsMenu.label "Сачувај као">
@@ -706,6 +708,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Сачувај претрагу као фасциклу…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Одаберите поруке">
 <!ENTITY threadColumn.label "Нит">
 <!ENTITY fromColumn.label "Шаље">
 <!ENTITY recipientColumn.label "Прималац">
@@ -729,6 +732,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Изаберите које колоне треба приказати">
+<!ENTITY selectColumn.tooltip "Изаберите/поништите све поруке">
 <!ENTITY threadColumn2.tooltip "Прикажи нити поруке">
 <!ENTITY fromColumn2.tooltip "Поређај по пошиљаоцу">
 <!ENTITY recipientColumn2.tooltip "Поређај по примаоцу">
