@@ -49,6 +49,9 @@ login-list-sort-label-text = Laworo:
 login-list-name-option = Innde (A-Z)
 login-list-name-reverse-option = Innde (A-Z)
 login-list-breached-option = Ciygol keɓe lowe
+login-list-last-changed-option = Waylo sakkitto
+login-list-last-used-option = Kuutarogol cakkitiingol.
+login-list-intro-title = Alaa ceŋorɗe njiytaa
 
 ## Introduction screen
 
