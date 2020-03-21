@@ -21,3 +21,15 @@
 <!ENTITY            autoSelect.label         "Tämä profiili on oletusprofiili">
 <!ENTITY            autoSelect.accesskey     "T">
 
+<!ENTITY            start.label              "Käynnistä &brandShortName;">
+<!ENTITY            exit.label               "Lopeta">
+
+<!ENTITY            newButton.label          "Luo profiili…">
+<!ENTITY            newButton.accesskey      "L">
+<!ENTITY            renameButton.label       "Muuta profiilin nimeä…">
+<!ENTITY            renameButton.accesskey   "M">
+<!ENTITY            deleteButton.label       "Poista profiili…">
+<!ENTITY            deleteButton.accesskey   "P">
+
+<!ENTITY            offlineState.label       "Yhteydetön tila">
+<!ENTITY            offlineState.accesskey   "Y">
