@@ -56,10 +56,16 @@
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Siirry">
 <!ENTITY goMenu.accesskey "S">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goHomeCmd.label "Aloitussivu">
 <!ENTITY goHomeCmd.accesskey "A">
 <!ENTITY historyCmd.label "Näytä sivuhistoria">
 <!ENTITY historyCmd.accesskey "N">
+<!-- LOCALIZATION NOTE (historyCmd.key): This is used only on the mac. -->
+<!ENTITY historyCmd.key "H">
+<!-- LOCALIZATION NOTE (history.commandKey): This is used on platforms other
+     than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Viimeksi suljetut välilehdet">
 <!ENTITY recentTabs.accesskey "V">
@@ -144,3 +150,6 @@
 
 <!ENTITY clearPrivateDataCmd.label "Poista yksityistietoja…">
 <!ENTITY clearPrivateDataCmd.accesskey "o">
+
+<!ENTITY stopCmd.macCommandKey ".">
+<!ENTITY fullScreenCmd.commandKey "f">
