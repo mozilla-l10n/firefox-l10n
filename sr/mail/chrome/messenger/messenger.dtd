@@ -975,3 +975,5 @@
 <!ENTITY openAddressBookDock.label      "Отвори именик">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Претходна страница">
+<!ENTITY browseForwardButton.tooltip "Следећа страница">
