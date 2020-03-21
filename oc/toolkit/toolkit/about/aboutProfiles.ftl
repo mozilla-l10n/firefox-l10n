@@ -32,6 +32,7 @@ profiles-remove = Suprimir
 profiles-set-as-default = Definir coma perfil per defaut
 profiles-launch-profile = Lançar lo perfil dins un navegador novèl
 profiles-cannot-set-as-default-title = Impossible de definir la valor per defaut
+profiles-cannot-set-as-default-message = Lo perfil per defaut se pòt pas cambiar per { -brand-short-name }.
 profiles-yes = òc
 profiles-no = non
 profiles-rename-profile-title = Renommar lo perfil
