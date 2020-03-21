@@ -280,7 +280,11 @@ shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਸਰਗਰਮ ਕਰੋ
 shortcuts-sidebarAction = ਬਾਹੀ ਬਦਲੋ
 shortcuts-modifier-mac = Ctrl, Alt, ਜਾਂ ⌘ ਸਮੇਤ
 shortcuts-modifier-other = Ctrl ਜਾਂ Alt ਸਮੇਤ
+shortcuts-invalid = ਗ਼ੈਰ-ਵਾਜਬ ਮਿਸ਼ਰਨ
 shortcuts-letter = ਅੱਖਰ ਲਿਖੋ
+shortcuts-system = { -brand-short-name } ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਅਣਡਿੱਠਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -415,6 +419,11 @@ addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
 addon-badge-recommended =
     .title = ਸਿਫਾਰਸ਼ੀ
     .alt = ਸਿਫਾਰਸ਼ੀ
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰ ਪੂਰੇ ਕਰਦੇ ਹਨ।
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = ਉਪਲੱਬਧ ਅੱਪਡੇਟ
 recent-updates-heading = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
 release-notes-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
@@ -422,6 +431,9 @@ release-notes-error = ਅਫਸੋਸ, ਪਰ ਰੀਲਿਜ਼ ਨੋਟਿਸ
 addon-permissions-empty = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਕਿਸੇ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ
 recommended-extensions-heading = ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
 recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = ਕਲਾ ਜਾਗਦੀ ਹੈ?<a data-l10n-name="link">ਫਾਇਰਫਾਕਸ ਰੰਗ ਨਾਲ ਆਪਣਾ ਖੁਦ ਦਾ ਥੀਮ ਬਣਾਓ।</a>
 
 ## Page headings
 
