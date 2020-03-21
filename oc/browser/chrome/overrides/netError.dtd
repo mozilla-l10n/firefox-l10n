@@ -103,6 +103,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.expiredCert.sts.secondPara "Lo certificat del site acabèt benlèu, çò qu'empacha &brandShortName; d’establir una connexion securizada.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "De qué podètz far ?">
 
@@ -143,6 +144,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pagina blocada">
 
+<!ENTITY certerror.mitm.title "Un logicial empacha &brandShortName; de se connectar de biais securizat a aqueste site">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "deSe vòstre logicial antivirus inclutz una foncionalitat d’analisi de las connexions chifradas (a vegada nomenada « analisi web » o « analisi HTTPS »), podètz desactivar aquesta foncionalitat. S'aquò fonciona pas, enssajatz de suprimir puèi tornar installar vòstre logicial antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "S’utilizatz un ret d’entrepresa, podètz contactar lo servici informatic.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se coneissètz pas <span class='mitm-name'/>, alara poiriá èsser una ataca e deuriatz pas anar sul site.">
