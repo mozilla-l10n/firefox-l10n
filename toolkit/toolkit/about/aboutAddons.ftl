@@ -246,10 +246,22 @@ addon-open-about-debugging = Desbugar los moduls
 
 ## Extension shortcut management
 
+shortcuts-no-addons = Avètz pas cap d'extension activada.
+shortcuts-no-commands = Las extensions seguentas an pas d’acorchi :
+shortcuts-input =
+    .placeholder = Picatz un acorchi
+shortcuts-browserAction = Activar l’extension
+shortcuts-pageAction = Activar l'accion de la pagina
+shortcuts-sidebarAction = Mostrar/Amagar la barra laterala
+shortcuts-modifier-mac = Inclure Ctrl, Alt o ⌘
+shortcuts-modifier-other = Inclure Ctrl o Alt
+shortcuts-invalid = Combinason invalida
+shortcuts-letter = Picatz una letra
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ja utilizat per { $addon }
+shortcuts-card-collapse-button = Ne veire mens
 go-back-button =
     .tooltiptext = Tornar
 
