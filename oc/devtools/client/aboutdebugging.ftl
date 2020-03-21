@@ -132,6 +132,15 @@ about-debugging-runtime-extensions =
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Onglets
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Service Workers
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Workers partejats
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Autres Workers
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Processus

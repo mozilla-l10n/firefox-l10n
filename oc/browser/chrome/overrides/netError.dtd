@@ -111,6 +111,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "De qué podètz far ?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Lo problèma ven benlèu del site web, doncas podètz pas res far per resòlver aquò.</p><p>Se navegatz sus un ret d’entrepresa o utilizatz un antivirus, podètz contactar las equipas d’assisténcias per obténer ajuda. Tanben podètz senhalar lo problèma als administrators del site web.</p>">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Lo relòtge de l’ordenador es reglat sus <span id='wrongSystemTime_systemDate2'/>. Verificatz que la data, l’ora e lo fus orari son corrèctes dins los paramètres sistèma de l’ordenador, puèi actualizatz <span class='hostname'/>.</p>
 <p>Se lo relòtge e ja plan reglat, lo site web es benlèu mal configurat e i a pas res de far per resòlvre lo problèma. Ensajatz benlèu de lo senhalar a l’administrator del site.</p>">
