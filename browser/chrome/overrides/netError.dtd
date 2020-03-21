@@ -143,14 +143,20 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pagina blocada">
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "deSe vòstre logicial antivirus inclutz una foncionalitat d’analisi de las connexions chifradas (a vegada nomenada « analisi web » o « analisi HTTPS »), podètz desactivar aquesta foncionalitat. S'aquò fonciona pas, enssajatz de suprimir puèi tornar installar vòstre logicial antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "S’utilizatz un ret d’entrepresa, podètz contactar lo servici informatic.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se coneissètz pas <span class='mitm-name'/>, alara poiriá èsser una ataca e deuriatz pas anar sul site.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se coneissètz pas <span class='mitm-name'/>, alara poiriá èsser una ataca, e i a pas res de far per accedir al site.">
 
 <!ENTITY clockSkewError.title "L’ora de l’ordenador es pas corrècta">
+<!ENTITY clockSkewError.longDesc "Segon vòstre ordenador es <span id='badSystemTime_systemDate1' /> qu'empacha &brandShortName; de se connectar en tota seguretat. Per visitar <span class='hostname'> </span>, reglatz lo relòtge de l’ordenador dins los paramètres sistèma de data d’ora e de fus orari, puèi actualizatz <span class='hostname'> </span>.">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
 
+<!ENTITY enableTls10.longDesc "Aqueste site web poiriá pas prendre en carga lo protocòl TLS 1.2, qu'es la version minimala presa en carga per &brandShortName;. L’activacion de TLS 1.0 e TLS 1.1 poiriá permetre a la connexion de foncionar.">
 <!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 seràn desactivats per totjorn per las versions venentas.">
 <!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.title "Error de protocòl ret">
+<!ENTITY networkProtocolError.longDesc "<p>La pagina que volètz veire pòt pas èsser afichada a causa d’una error de protocòl ret detectada.</p><ul><li>Mercés de contactar los proprietaris del site web per los informar d’aqueste problèma.</li></ul>">
