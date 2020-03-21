@@ -21,9 +21,25 @@ fxaccounts-avatar-button =
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Uddit cuɓirgol
+# This menuitem is only visible on Windows
+menu-menuitem-import = Jiggo Pinle…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Jiggo Keɓe iwde e Wanngorde Woɗnde…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Cuɓe
+       *[other] Cuɓoraaɗe
+    }
+about-logins-menu-menuitem-help = Ballal
+menu-menuitem-android-app = { -lockwise-brand-short-name } mo Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } mo iPhone kam e iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Ceŋorɗe jahdooje e ɗaɓɓitannde njiilaw
 
 ## Introduction screen
 
