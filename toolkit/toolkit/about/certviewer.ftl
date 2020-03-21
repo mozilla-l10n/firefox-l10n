@@ -13,6 +13,7 @@ certificate-viewer-error-title = I a quicòm que truca.
 
 certificate-viewer-algorithm = Algoritme
 certificate-viewer-certificate-authority = Autoritat de certificacion
+certificate-viewer-cipher-suite = Seria de chiframent
 certificate-viewer-common-name = Nom comun
 certificate-viewer-email-address = Adreça electronica
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
