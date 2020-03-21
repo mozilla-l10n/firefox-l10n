@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "SSL прокси:">
 <!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  https.label                   "HTTPS прокси:">
+<!ENTITY  https.accesskey               "С">
 <!ENTITY  socks.label                   "SOCKS домаћин:">
 <!ENTITY  socks.accesskey               "c">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -44,6 +46,8 @@
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Везе са localhost, 127.0.0.1, и ::1 никада нису преко прокси сервера.">
+<!ENTITY  proxyHttpSharing.label        "Користите овај прокси и за HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "к">
 <!ENTITY  autologinproxy.label          "Не питај за идентификацију уколико је лозинка сачувана">
 <!ENTITY  autologinproxy.accesskey      "и">
 <!ENTITY  autologinproxy.tooltip        "Ова опција вас у позадини идентификује на посреднике када имате сачуване акредитиве за њих. Затражиће се идентификација од вас уколико акредитив нису исправни.">
