@@ -46,6 +46,7 @@ certificate-viewer-purposes = จุดประสงค์
 certificate-viewer-qualifier = ตัวบ่งคุณลักษณะ
 certificate-viewer-qualifiers = ตัวบ่งคุณลักษณะ
 certificate-viewer-required = จำเป็น
+certificate-viewer-unsupported = &lt;ไม่รองรับ&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = รัฐ/จังหวัดที่จดทะเบียน
 certificate-viewer-state-province = รัฐ/จังหวัด
