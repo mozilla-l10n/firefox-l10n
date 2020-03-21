@@ -22,6 +22,7 @@ policy-Bookmarks = Tworzenie zakładek na pasku zakładek, w menu zakładek lub
 policy-CaptivePortal = Włączenie lub wyłączenie obsługi portalu przechwytującego.
 policy-CertificatesDescription = Dodawanie certyfikatów lub używanie wbudowanych.
 policy-Cookies = Zezwalanie lub zabranianie witrynom ustawiania ciasteczek.
+policy-DisabledCiphers = Wyłączenie szyfrów.
 policy-DefaultDownloadDirectory = Ustawienie domyślnego katalogu pobierania.
 policy-DisableAppUpdate = Uniemożliwienie aktualizowania przeglądarki.
 policy-DisableBuiltinPDFViewer = Wyłączenie PDF.js, wbudowanej przeglądarki plików PDF w programie { -brand-short-name }.
