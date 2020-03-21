@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,8 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Извор од: ">
 
+<!ENTITY editMenu.label "Уреди">
+<!ENTITY editMenu.accesskey "е">
 <!ENTITY fileMenu.label "Датотека">
 <!ENTITY fileMenu.accesskey "Д">
 <!ENTITY savePageCmd.label "Сачувај страницу као…">
@@ -84,4 +88,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "ј">
 <!ENTITY copyEmailCmd.label "Копирај мејл адресу">
 <!ENTITY copyEmailCmd.accesskey "л">
-

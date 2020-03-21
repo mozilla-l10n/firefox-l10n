@@ -5,10 +5,31 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityEncryptRequire.label "Шифруј ову поруку">
+
+<!ENTITY menu_securityDoNotEncrypt.label "Не шифрирајте">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "о">
+
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
+<!ENTITY menu_securityEncryptRequire2.label "Захтевај шифрирање">
 <!ENTITY menu_securityEncryptRequire.accesskey "ф">
 
 <!ENTITY menu_securitySign.label "Дигитално потпиши ову поруку">
 <!ENTITY menu_securitySign.accesskey "Д">
+
+<!ENTITY menu_securityAttachMyKey.label "Приложи мој јавни кључ">
+<!ENTITY menu_securityAttachMyKey.accesskey "П">
+
+<!ENTITY menu_securityTech.label "Технологија шифрирања">
+<!ENTITY menu_securityTech.accesskey "Т">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "О">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "С">
 
 <!ENTITY menu_securityStatus.label "Погледај податке о безбедности">
 <!ENTITY menu_securityStatus.accesskey "г">
