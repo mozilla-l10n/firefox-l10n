@@ -25,6 +25,7 @@ screenshots-request-error-title = ਖ਼ਰਾਬ ਹੈ।
 screenshots-request-error-details = ਅਫ਼ਸੋਸ! ਅਸੀਂ ਤੁਹਾਡੀ ਤਸਵੀਰ ਨੂੰ ਸੰਭਾਲ ਨਹੀਂ ਸਕੇ। ਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 screenshots-connection-error-title = ਅਸੀਂ ਤੁਹਾਡੇ ਸਕਰੀਨਸ਼ਾਟ ਨਾਲ ਕੁਨੈੱਕਟ ਨਹੀਂ ਕਰ ਸਕਦੇ।
 screenshots-connection-error-details = ਆਪਣੇ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ। ਜੇ ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ { -screenshots-brand-name } ਸੇਵਾ ਨਾਲ ਆਰਜ਼ੀ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ।
+screenshots-login-error-details = { -screenshots-brand-name } ਸੇਵਾ ਨਾਲ ਸਮੱਸਿਆ ਹੋਣ ਕਰਕੇ ਅਸੀਂ ਤੁਹਾਡੀ ਲਈ ਤਸਵੀਰ ਨੂੰ ਸੰਭਾਲ ਨਹੀਂ ਸਕੇ ਹਾਂ। ਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 screenshots-unshootable-page-error-title = ਅਸੀਂ ਇਸ ਸਫੇ ਦਾ ਸਕਰੀਨਸ਼ਾਟ ਨਹੀਂ ਲੈ ਸਕਦੇ।
 screenshots-unshootable-page-error-details = ਇਹ ਸਟੈਂਡਰਡ ਵੈੱਬ ਸਫ਼ਾ ਨਹੀਂ ਹੈ, ਇਸਕਰਕੇ ਤੁਸੀਂ ਇਸ ਦਾ ਸਕਰੀਨਸ਼ਾਟ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
 screenshots-self-screenshot-error-title = ਤੁਸੀਂ { -screenshots-brand-name } ਸਫ਼ੇ ਦੀ ਤਸਵੀਰ ਨਹੀਂ ਖਿੱਚ ਸਕਦੇ ਹੋ!
