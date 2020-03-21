@@ -56,9 +56,12 @@ app-basics-memory-use = Utilizacion memòria
 app-basics-performance = Performança
 app-basics-service-workers = Servici Workers enregistrats
 app-basics-profiles = Perfils
+app-basics-launcher-process-status = Processús d’aviada
 app-basics-multi-process-support = Fenèstras multiprocessus
 app-basics-remote-processes-count = Processús distants
 app-basics-enterprise-policies = Estrategias d’entrepresa
+app-basics-location-service-key-google = Clau del servici de localizacion de Google
+app-basics-safebrowsing-key-google = Clau del servici de navegacion segura Google Safebrowsing
 app-basics-key-mozilla = Clau del servici de localizacion de Mozilla
 app-basics-safe-mode = Mòde segur
 show-dir-label =
@@ -282,6 +285,9 @@ sandbox-proc-type-content = contengut
 sandbox-proc-type-file = contengut del fichièr
 sandbox-proc-type-media-plugin = plugin mèdia
 launcher-process-status-0 = Activat
+launcher-process-status-1 = Desactivada a causa d’una error
+launcher-process-status-2 = Desactivada de fòrça
+launcher-process-status-unknown = Estatut desconegut
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

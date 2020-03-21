@@ -250,10 +250,13 @@ addon-open-about-debugging = Desbugar los moduls
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ja utilizat per { $addon }
+go-back-button =
+    .tooltiptext = Tornar
 
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Ne saber mai
+privacy-policy = Politica de confidencialitat
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -277,6 +280,8 @@ addon-options-button =
 
 report-addon-button = Rapòrt
 remove-addon-button = Levar
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Impossible de suprimir <a data-l10n-name="link"> Perqué ?</a>
 disable-addon-button = Desactivar
 enable-addon-button = Activar
 expand-addon-button = Mai d’opcions
@@ -293,15 +298,30 @@ details-addon-button = Detalhs
 release-notes-addon-button = Nòtas de version
 permissions-addon-button = Permissions
 addons-enabled-heading = Activats
+addons-disabled-heading = Desactivat
 extension-enabled-heading = Activadas
+extension-disabled-heading = Desactivadas
 theme-enabled-heading = Activat
+theme-disabled-heading = Desactivats
 plugin-enabled-heading = Activats
+plugin-disabled-heading = Desactivats
 dictionary-enabled-heading = Activats
+dictionary-disabled-heading = Desactivats
 locale-enabled-heading = Activadas
+locale-disabled-heading = Desactivadas
 ask-to-activate-button = Demandar per activar
 always-activate-button = Totjorn activar
 never-activate-button = Activar pas jamai
+addon-detail-author-label = Autor
+addon-detail-version-label = Version
 addon-detail-last-updated-label = Darrièra mesa a jorn
+addon-detail-homepage-label = Pagina d’acuèlh
+addon-detail-rating-label = Apreciacion
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Notat { NUMBER($rating, maximumFractionDigits: 1) } sus 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -309,6 +329,10 @@ addon-name-disabled = { $name } (desactivat)
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> es estat suprimit.
+pending-uninstall-undo-button = Anullar
 addon-detail-updates-label = Permetre las mesas a jorn automaticas
 addon-detail-updates-radio-default = Defaut
 addon-detail-updates-radio-on = Activadas
@@ -324,6 +348,9 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = Autorizat en navegacion privada
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Quand es autorizada, l'extension a accès a vòstras activitats en linha pendent la navegacion privada. <a data-l10n-name="learn-more">Ne saber mai</a>
+addon-detail-private-browsing-allow = Autorizar
+addon-detail-private-browsing-disallow = Autorizar pas
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
@@ -333,6 +360,7 @@ available-updates-heading = Mesas a jorn disponiblas
 recent-updates-heading = Mesas a jorn recentas
 release-notes-loading = Cargament…
 release-notes-error = Una error s'es producha en cargar las nòtas de version.
+addon-permissions-empty = Aquesta extension demanda pas cap d'autorizacion
 recommended-extensions-heading = Extensions recomandadas
 recommended-themes-heading = Tèmas recomandats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

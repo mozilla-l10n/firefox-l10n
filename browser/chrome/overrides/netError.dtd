@@ -143,6 +143,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Atencion : risc probable de seguretat">
 <!ENTITY certerror.sts.pagetitle  "Connexion blocada : problèma potencial de seguretat">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> utiliza una estrategia de seguretat HTTP Strict Transport Security (HSTS), una connexion securizada es obligatòria per i accedir. Podètz pas apondre d’excepcion per consultar aqueste site.">
 <!ENTITY certerror.copyToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 
 <!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
@@ -153,6 +154,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Pagina blocada">
 
 <!ENTITY certerror.mitm.title "Un logicial empacha &brandShortName; de se connectar de biais securizat a aqueste site">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> es benlèu un site fisable, mas èra pas possible d’establir una connexion securizada. Aqueste problèma es causat per <span class='mitm-name'/>, qu’es un logicial installat siá sus vòstre ordenador, siá sus vòstre ret.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "deSe vòstre logicial antivirus inclutz una foncionalitat d’analisi de las connexions chifradas (a vegada nomenada « analisi web » o « analisi HTTPS »), podètz desactivar aquesta foncionalitat. S'aquò fonciona pas, enssajatz de suprimir puèi tornar installar vòstre logicial antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "S’utilizatz un ret d’entrepresa, podètz contactar lo servici informatic.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se coneissètz pas <span class='mitm-name'/>, alara poiriá èsser una ataca e deuriatz pas anar sul site.">
