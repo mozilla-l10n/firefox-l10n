@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (การเรียกดูแบบส่วนตัว)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (การเรียกดูแบบส่วนตัว)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -125,6 +109,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = พิมพ์น้อยลง ค้นหามากขึ้น: ค้นหา { $engineName } โดยตรงจากแถบที่อยู่ของคุณ
 urlbar-search-tips-redirect = เริ่มการค้นหาของคุณที่นี่เพื่อดูข้อเสนอแนะจาก { $engineName } และประวัติการเรียกดูของคุณ
+urlbar-search-tips-redirect-2 = เริ่มการค้นหาของคุณในแถบที่อยู่เพื่อดูข้อเสนอแนะจาก { $engineName } และประวัติการเรียกดูของคุณ
 
 ##
 
