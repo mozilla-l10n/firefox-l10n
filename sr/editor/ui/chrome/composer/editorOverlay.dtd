@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Изаберите боју текста">
 <!ENTITY BackgroundColorButton.tooltip "Изаберите боју позадине">
 <!ENTITY throbber.tooltip "Идите на матичну страницу од &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Идите на &brandShortName; почетну страницу">
 <!ENTITY HighlightColorButton.tooltip "Изаберите боју означавања текста">
 
 <!-- Editor toolbar -->

@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "с">
 
+<!ENTITY customizeCmd.label "Прилагоди">
+<!ENTITY customizeCmd.accesskey "д">
+
 <!ENTITY viewMenu.label          "Преглед">
 <!ENTITY viewMenu.accesskey        "р">
 <!ENTITY viewToolbarsMenu.label        "Траке са алаткама">
