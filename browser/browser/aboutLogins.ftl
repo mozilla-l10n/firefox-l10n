@@ -52,6 +52,9 @@ login-list-breached-option = Ciygol keɓe lowe
 login-list-last-changed-option = Waylo sakkitto
 login-list-last-used-option = Kuutarogol cakkitiingol.
 login-list-intro-title = Alaa ceŋorɗe njiytaa
+login-list-intro-description = So a danndi finnde e nder { -brand-product-name }, ma nde feeñ ɗoo.
+about-logins-login-list-empty-search-title = Alaa ceŋorɗe njiytaa
+about-logins-login-list-empty-search-description = Hay njeñtudi wootiri tolnondiraani e niilaw maa.
 
 ## Introduction screen
 
