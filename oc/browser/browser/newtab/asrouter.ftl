@@ -72,6 +72,7 @@ cfr-doorhanger-pintab-animation-resume = Reprene
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizatz vòstres marcapaginas pertot.
+cfr-doorhanger-bookmark-fxa-body = Genial ! Ara, contunhetz pas sens aqueste marcapagina suls vòstres periferics mobils. Començatz amb { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar los marcapaginas ara…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Boton tampar
@@ -174,6 +175,7 @@ cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Legissètz aquò en desplaçament
 cfr-doorhanger-send-tab-recipe-header = Emportatz aquesta recepta a la cosina
 cfr-doorhanger-send-tab-body = « Enviar l’onglet » vos permet de partejar aisidament aqueste ligam sus vòstre mobil o pertot ont siatz connectat a { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Ensajatz d’enviar un onglet
