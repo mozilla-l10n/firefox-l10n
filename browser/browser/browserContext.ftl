@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Přidat stránku do záložek
-    .accesskey = P
 main-context-menu-bookmark-add =
     .aria-label = Přidat stránku do záložek
     .accesskey = P
@@ -256,7 +253,7 @@ main-context-menu-view-background-image =
     .label = Zobrazit obrázek na pozadí
     .accesskey = b
 main-context-menu-generate-new-password =
-    .label = Použít vygenerované heslo…
+    .label = Vygenerovat bezpečné heslo…
     .accesskey = G
 main-context-menu-keyword =
     .label = Přiřadit k tomuto vyhledávání klíčové slovo…
