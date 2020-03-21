@@ -54,6 +54,8 @@ abuse-report-messagebar-action-cancel = Anullar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Damatja mon ordenador e mas donadas
+abuse-report-damage-reason-v2 = Damatgèt mon ordenador o mas donadas
 abuse-report-damage-example = Exemple : logicial malvolent introduch o donada panada
 abuse-report-spam-reason = Crèa d'spma o de pubicitat
 abuse-report-spam-reason-v2 = Conten d'spam e de publicitat non desirada
@@ -69,6 +71,8 @@ abuse-report-deceptive-example = Exemple : descripcion e imatges enganaires
 abuse-report-broken-reason-extension = Fonciona pas, còpa los sites web, o alentís { -brand-product-name }
 abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
 abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
+abuse-report-broken-example = Exemple : las foncionalitats son lentas, malaisidas d’utilizar o foncionan pas ; unas partidas dels sites Web se cargan pas o an una aparéncia inabituala.
 abuse-report-unwanted-reason = Ai pas jamai volgut aquesta extension e pòdi pas me‘n desfar
 abuse-report-unwanted-reason-v2 = Ai pas jamai volgut aquò e sabi pas cossí me’n desfar
+abuse-report-unwanted-example = Exemple : una aplicacion l’installèt sens ma permission
 abuse-report-other-reason = Quicòm mai

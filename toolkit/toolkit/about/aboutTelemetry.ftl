@@ -16,6 +16,7 @@ about-telemetry-option-group-older = Mai ancian
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Donadas telemetricas
+about-telemetry-current-store = Botiga actuala :
 about-telemetry-more-information = A la recèrca de mai d'informacions ?
 about-telemetry-firefox-data-doc = Las <a data-l10n-name="data-doc-link">Donadas de Documentacion de Firefox</a> contenon de guidas sus cossí trabalhar amb nòstras aisinas de donadas.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentacion de client de Firefox Telemetry</a> inclutz de definicions per de concèptes, documentacion API e referéncias de donadas.
@@ -127,6 +128,7 @@ about-telemetry-category-header = categoria
 about-telemetry-method-header = metòde
 about-telemetry-object-header = objècte
 about-telemetry-extra-header = de sòbra
+about-telemetry-origin-section = Telemetria d’origina
 about-telemetry-origin-origin = origina
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
