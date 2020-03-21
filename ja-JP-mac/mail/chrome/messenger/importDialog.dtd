@@ -27,7 +27,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width			"51em"><!-- en-US: 40em -->
 <!ENTITY  window.macWidth		"45em"><!-- en-US: 45em -->
 
-<!ENTITY importTitle.label		"読み込みアシスタント">
+<!ENTITY importTitle.label		"&brandShortName; 読み込みアシスタント">
 <!ENTITY importShortDesc.label		"他のソフトからメール、アドレス帳、設定やフィルターを読み込みます">
 
 <!ENTITY importDescription1.label	"このアシスタントは、他のメールソフトや一般的な形式のアドレス帳からメッセージ、アドレス帳、購読フィード、設定、フィルターなどを &brandShortName; に読み込みます。">
