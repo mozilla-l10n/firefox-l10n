@@ -15,11 +15,11 @@
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label            "Viestien luku">
 <!ENTITY notifications.label              "Ilmoitukset">
-<!ENTITY address.label                    "Osoitteet">
 <!ENTITY composingMessages.label          "Viestien kirjoitus">
 <!ENTITY format.label                     "Lähetysmuoto">
-<!ENTITY return.label                     "Vastaanottokuittaukset">
+<!ENTITY address.label                    "Osoitteet">
 <!ENTITY junk.label                       "Roska- ja huijausposti">
 <!ENTITY tags.label                       "Tunnukset">
-<!ENTITY characterEncoding.label          "Merkistökoodaus">
+<!ENTITY return.label                     "Vastaanottokuittaukset">
+<!ENTITY characterEncoding2.label         "Merkistökoodaus">
 <!ENTITY networkStorage.label             "Verkko ja tallennus">

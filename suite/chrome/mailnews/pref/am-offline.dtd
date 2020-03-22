@@ -5,8 +5,9 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Levytilan säästämiseksi älä lataa:">
 <!ENTITY doNotDownloadNntp.label "Levytilan säästämiseksi älä lataa yhteydettömässä tilassa käytettäväksi:">
 <!ENTITY doNotDownloadImap.label "Viestien noutoa palvelimelta ja paikallisten kopioiden pitämistä yhteydettömässä tilassa käyttämistä varten voi rajoittaa niiden iän tai koon mukaan levytilan säästämiseksi.">
-<!ENTITY allFoldersOffline.label "Säilytä tämän tilin viestit tällä tietokoneella">
-<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Säilytä tämän tilin kaikkien kansioiden viestejä tällä tietokoneella">
+<!ENTITY allFoldersOffline2.accesskey "S">
+<!ENTITY allFoldersOfflineNote.label "Huomaa: Tämän asetuksen muuttaminen vaikuttaa kaikkiin tämän tilin kansioihin. Jos haluat muuttaa yksittäisen kansion asetuksia, valitse Lisäasetukset… -painike.">
 <!ENTITY offlineNotDownload.label "Viestejä, joiden koko on yli">
 <!ENTITY offlineNotDownload.accesskey "V">
 <!ENTITY autosyncNotDownload.label "Älä lataa viestejä, joiden koko on yli">
@@ -27,8 +28,6 @@
 <!ENTITY retentionKeepAll.accesskey "Ä">
 <!ENTITY retentionKeepRecent.label "Poista kaikki paitsi tuoreimmat">
 <!ENTITY retentionKeepRecent.accesskey "P">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Poista luetut viestit aina (korvaa ikäasetukset)">
 <!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Poista viestirungot viesteistä, jotka ovat yli">

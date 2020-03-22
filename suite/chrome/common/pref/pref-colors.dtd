@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Käytä itse valitsemiani värejä, jolloin väri- ja taustakuvamääritykset ohitetaan">
 <!ENTITY useMyColors.accesskey             "y">
+<!ENTITY automaticColors.label             "Ohita sivun värit vain käytettäessä High Contrast -teemaa">
+<!ENTITY automaticColors.accesskey         "O">
