@@ -101,6 +101,12 @@ detail-private-disallowed-description2 = Aquesta extension fonciona pas pendent 
 detail-private-required-label = Requerís l'accès a las fenèstras privadas
 detail-private-required-description = Aquesta extension a accès a vòstras activitats en linha pendent la navegacion privada. <label data-l10n-name="detail-private-navigation-learn-more">Ne saber mai</label>
 detail-private-required-description2 = Aquesta extension a accès a vòstras activitats en linha pendent la navegacion privada. <a data-l10n-name="learn-more">Ne saber mai</a>
+detail-private-browsing-on =
+    .label = Autorizar
+    .tooltiptext = Activar en navegacion privada
+detail-private-browsing-off =
+    .label = Autorizar pas
+    .tooltiptext = Desactivar en navegacion privada
 detail-home =
     .label = Pagina d'acuèlh
 detail-home-value =
