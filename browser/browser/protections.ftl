@@ -56,7 +56,7 @@ cryptominer-tab-title = Криптомайнеры
 cryptominer-tab-content = Криптомайнеры используют вычислительные мощности вашей системы для добычи цифровых валют. Такие скрипты разряжают вашу батарею, замедляют работу компьютера и могут увеличить ваш счёт за электроэнергию. <a data-l10n-name="learn-more-link">Подробнее</a>
 mobile-app-title = Блокируйте рекламные трекеры сразу на нескольких устройствах
 mobile-app-card-content = Используйте мобильный браузер со встроенной защитой от рекламных трекеров.
-mobile-app-links = { -brand-product-name } Браузер для <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+mobile-app-links = Браузер { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Никогда больше не забывайте свои пароли
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } надёжно хранит пароли в вашем браузере.

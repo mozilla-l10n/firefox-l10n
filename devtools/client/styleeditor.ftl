@@ -20,7 +20,7 @@ styleeditor-media-rules = правила @media
 styleeditor-editor-textbox =
     .data-placeholder = Набирайте CSS здесь.
 styleeditor-no-stylesheet = У этой страницы нет таблицы стилей.
-styleeditor-no-stylesheet-tip = Возможно вы захотите <a data-l10n-name="append-new-stylesheet">добавить новую таблицу стилей</a>?
+styleeditor-no-stylesheet-tip = Возможно вы хотите <a data-l10n-name="append-new-stylesheet">добавить новую таблицу стилей</a>?
 styleeditor-open-link-new-tab =
     .label = Открыть ссылку в новой вкладке
 styleeditor-copy-url =

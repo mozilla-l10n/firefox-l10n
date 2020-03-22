@@ -29,7 +29,7 @@ options-context-inspector = Инспектор
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Отображать стили браузера
 options-show-user-agent-styles-tooltip =
-    .title = Включение этого приведёт к отображению стилей по умолчанию, загруженных браузером.
+    .title = Включение приведёт к отображению стилей по умолчанию, применяемых браузером.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Обрезать атрибуты DOM
 options-collapse-attrs-tooltip =
@@ -93,7 +93,7 @@ options-disable-http-cache-tooltip =
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Отключить JavaScript *
 options-disable-javascript-tooltip =
-    .title = Включение этой опции приведёт к отключению JavaScript для текущей вкладки. Если вкладка или панель инструментов будут закрыты, то этот параметр будет забыт.
+    .title = Включение этой опции приведёт к отключению JavaScript для текущей вкладки. Если вкладка или панель инструментов будут закрыты, то этот параметр будет сброшен.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Включить инструменты отладки browser chrome и дополнений
 options-enable-chrome-tooltip =
@@ -112,11 +112,6 @@ options-source-maps-tooltip =
     .title = Если вы включите эту настройку, исходники будут картированы в инструментах.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Только текущая сессия, перезагружает страницу
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Отладчик
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Отображать данные платформы Gecko
