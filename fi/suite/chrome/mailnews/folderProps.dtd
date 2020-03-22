@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Ominaisuudet">
 
 <!ENTITY generalInfo.label                       "Yleiset tiedot">
-<!ENTITY folderCharsetFallback.label             "Oletusmerkistökoodaus:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Käytä oletusarvoa kansion kaikkiin viesteihin (viestikohtaiset merkistökoodausasetukset ja automaattinen tunnistus ohitetaan)">
-<!ENTITY folderCharsetEnforce.accesskey          "a">
+<!ENTITY folderCharsetFallback2.label            "Merkistökoodaus virhetilanteessa:">
+<!ENTITY folderCharsetFallback2.accesskey        "v">
+<!ENTITY folderCharsetEnforce2.label             "Käytä merkistökoodausta kansion kaikkiin viesteihin (viestikohtaiset merkistökoodausasetukset ja automaattinen tunnistus ohitetaan)">
+<!ENTITY folderCharsetEnforce2.accesskey         "y">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Kokoa yhteenvetotiedoston indeksi uudelleen">
 <!ENTITY folderRebuildSummaryFile2.label         "Korjaa kansio">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "K">
@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Poista kaikki paitsi uusimmat">
 <!ENTITY retentionKeepRecent.accesskey "P">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Poista luetut viestit aina (korvaa ikäasetukset)">
 <!ENTITY retentionApplyToFlagged.label "Älä koskaan poista lipulla merkittyjä viestejä">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 

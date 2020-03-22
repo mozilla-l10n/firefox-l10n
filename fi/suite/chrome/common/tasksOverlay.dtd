@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from tasksOverlay.xul -->
+<!ENTITY minimizeWindowCmd.label "Pienennä">
+<!ENTITY minimizeWindowCmd.key "P">
+<!ENTITY zoomWindowCmd.label "Suurennus">
 <!ENTITY navigatorCmd.label "Selain">
 <!ENTITY navigatorCmd.accesskey "S">
 <!ENTITY navigatorCmd.commandkey "1">

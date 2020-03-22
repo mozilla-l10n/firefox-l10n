@@ -8,6 +8,8 @@
 <!ENTITY confirmMove.accesskey            "K">
 <!ENTITY preserveThreading.label          "Säilytä viestiketjujen rakenne viestejä lajiteltaessa">
 <!ENTITY preserveThreading.accesskey      "S">
+<!ENTITY loadInBackground.label           "Siirry uusiin välilehtiin, kun ne avataan">
+<!ENTITY loadInBackground.accesskey       "v">
 <!ENTITY mailBiffOnNewWindow.label        "Nouda uudet viestit vasta sähköpostiohjelman avaamisen jälkeen">
 <!ENTITY mailBiffOnNewWindow.accesskey    "N">
 
