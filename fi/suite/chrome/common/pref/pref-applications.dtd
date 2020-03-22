@@ -12,3 +12,6 @@
 <!ENTITY actionColumn2.accesskey "T">
 
 <!ENTITY search.placeholder      "Etsi">
+
+<!ENTITY useAppChooser.label     "Käytä sisäänrakennettua sovelluksenvalitsinta, jos mahdollista">
+<!ENTITY useAppChooser.accesskey "K">
