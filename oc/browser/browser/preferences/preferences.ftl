@@ -535,6 +535,7 @@ search-show-suggestions-above-history-option =
     .label = Mostrar las suggestions avant l’istoric dins la barra d’adreça
 search-show-suggestions-private-windows =
     .label = Mostrar las suggestions de recèrca en navegacion privada
+suggestions-addressbar-settings = Modificar las preferéncias per las suggestions d’istoric de navegacion, dels marcapaginas e dels onglets
 search-suggestions-cant-show = Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat { -brand-short-name } per pas jamai servar l'istoric.
 search-one-click-header = Motor de recèrca en un clic
 search-one-click-desc = Causissètz de motors de recerca altenatius qu'apareisson jos las barras d'adreça e de recèrca quand començatz d’escriure un mot-clau.
@@ -751,6 +752,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suggerir e generar de senhals fòrts
     .accesskey = u
+forms-breach-alerts =
+    .label = Afichar las alèrtas pels senhals dels sites concernits per de pèrdas de donadas
+    .accesskey = A
 forms-breach-alerts-learn-more-link = Ne saber mai
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
