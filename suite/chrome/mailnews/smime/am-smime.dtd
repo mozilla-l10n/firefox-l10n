@@ -26,7 +26,12 @@
 <!ENTITY signingCert.message "Lähettämäsi viestit allekirjoitetaan digitaalisesti tällä avaimella:">
 
 <!ENTITY certificates.label "Varmenteet">
-<!ENTITY manageCerts.label "Varmenteiden hallinta">
-<!ENTITY manageCerts.accesskey "a">
+<!ENTITY manageCerts2.label "Varmenteiden hallinta...">
+<!ENTITY manageCerts2.accesskey "h">
 <!ENTITY manageDevices.label "Turvalaitteiden hallinta">
 <!ENTITY manageDevices.accesskey "T">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Valitse varmenne">
+<!ENTITY certPicker.info  "Varmenne:">
+<!ENTITY certPicker.detailsLabel "Valitun varmenteen tiedot:">

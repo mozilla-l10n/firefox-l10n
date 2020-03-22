@@ -10,6 +10,8 @@
 <!ENTITY siteIcons.label                        "Verkkosivujen kuvakkeet">
 <!ENTITY useSiteIcons.label                     "Näytä verkkosivujen kuvakkeet">
 <!ENTITY useSiteIcons.accesskey                 "N">
+<!ENTITY useFavIcons2.label                     "Yritä käyttää palvelimen kuvaketta, kun sivu ei määritä omaa">
+<!ENTITY useFavIcons2.accesskey                 "p">
 
 <!ENTITY scrolling.label                        "Vieritys">
 <!ENTITY useAutoScroll.label                    "Vieritä sivua automaattisesti">
@@ -17,10 +19,15 @@
 <!ENTITY useSmoothScroll.label                  "Vieritä sivua portaattomasti">
 <!ENTITY useSmoothScroll.accesskey              "V">
 
+<!ENTITY zoomPrefs.label                        "Skaalausasetuset">
 <!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
+<!ENTITY minZoom.label                          "Välillä">
+<!ENTITY minZoom.accesskey                      "l">
+<!ENTITY maxZoom.label                          "ja">
+<!ENTITY maxZoom.accesskey                      "j">
 <!ENTITY percent.label                          "&#37;">
 
 <!ENTITY siteSpecific.label                     "Muista sivunsuurennustasot sivustokohtaisesti">
@@ -35,3 +42,4 @@
 <!ENTITY blockAutoRefresh.label                 "Varoita, jos sivusto yrittää päivittää sivua tai uudelleenohjata toiselle sivulle">
 <!ENTITY blockAutoRefresh.accesskey             "a">
 
+<!ENTITY showZoomStatusPanel.label              "Näytä skaalaussäätimet tilarivillä">
