@@ -6,6 +6,7 @@
 
 <!ENTITY menu_securityEncryptRequire.label "Krypter meddelelsen">
 
+<!ENTITY menu_securityDoNotEncrypt.label "Krypter ikke">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
