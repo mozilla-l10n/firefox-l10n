@@ -40,3 +40,5 @@
 <!ENTITY smtpName.accesskey "L">
 <!ENTITY smtpDefaultServer.label "Käytä oletuspalvelinta">
 
+<!ENTITY smtpServerEdit.label "Muokkaa SMTP-palvelinta…">
+<!ENTITY smtpServerEdit.accesskey "u">
