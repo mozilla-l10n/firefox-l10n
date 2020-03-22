@@ -97,6 +97,11 @@ about-debugging-setup-usb-status-disabled = Desactivat
 about-debugging-setup-usb-status-updating = Actualizacion…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activar lo menú Desvolopaire sus vòstre periferic Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Connectatz lo periferic Android a l’ordenador.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Avètz de problèma per vos connectar al periferic USB ? <a>Resolucion de problèmas</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Emplaçament ret
