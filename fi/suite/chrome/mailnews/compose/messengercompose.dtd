@@ -7,7 +7,13 @@
 
 <!ENTITY fromAddr.label "Lähettäjä:">
 <!ENTITY fromAddr.accesskey "ä">
-<!ENTITY subject.label  "Aihe:">
+<!ENTITY toAddr.label "Vastaanottaja:">
+<!ENTITY ccAddr.label "Kopio:">
+<!ENTITY bccAddr.label "Piilokopio:">
+<!ENTITY replyAddr.label "Vastausosoite:">
+<!ENTITY newsgroupsAddr.label "Keskusteluryhmä:">
+<!ENTITY followupAddr.label "Vastausryhmä:">
+<!ENTITY subject.label "Aihe:">
 <!ENTITY subject.accesskey "A">
 <!ENTITY attachments.label "Liitteet:">
 <!ENTITY attachments.accesskey "e">
@@ -114,12 +120,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Osoitepalkki">
 <!ENTITY formatToolbar.tooltip "Muotoilupalkki">
-<!ENTITY sendButton.tooltip "Lähetä tämä viesti nyt"> 
-<!ENTITY sendlaterButton.tooltip "Lähetä tämä viesti myöhemmin"> 
-<!ENTITY addressButton.tooltip "Valitse vastaanottaja osoitekirjasta"> 
-<!ENTITY attachButton.tooltip "Lisää liitetiedosto tähän viestiin"> 
-<!ENTITY saveButton.tooltip "Tallenna tämä viesti"> 
-<!ENTITY stopButton.tooltip "Keskeytä lataus"> 
+<!ENTITY sendButton.tooltip "Lähetä tämä viesti nyt">
+<!ENTITY sendlaterButton.tooltip "Lähetä tämä viesti myöhemmin">
+<!ENTITY addressButton.tooltip "Valitse vastaanottaja osoitekirjasta">
+<!ENTITY attachButton.tooltip "Lisää liitetiedosto tähän viestiin">
+<!ENTITY saveButton.tooltip "Tallenna tämä viesti">
+<!ENTITY stopButton.tooltip "Keskeytä lataus">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Avaa">
