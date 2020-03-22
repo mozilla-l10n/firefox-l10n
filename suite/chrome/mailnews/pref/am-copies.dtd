@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Muu kansio:">
 <!ENTITY archiveInOtherFolder.accesskey "u">
 <!ENTITY specialFolders.label "Luonnokset ja viestipohjat">
-<!ENTITY keepDrafts.label "Tallenna viestiluonnokset kansioon:">
+<!ENTITY keepDrafts2.label "Säilytä viestien luonnokset kansiossa:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Luonnokset&quot;, tilillä:">
 <!ENTITY draftsFolderOn.accesskey "e">
