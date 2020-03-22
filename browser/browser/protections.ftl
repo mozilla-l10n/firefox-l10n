@@ -52,6 +52,9 @@ fingerprinter-tab-title = Identigiloj de ciferecaj spuroj
 fingerprinter-tab-content = La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.<a data-l10n-name="learn-more-link">Pli da informo</a>
 cryptominer-tab-title = Miniloj de ĉifromono
 cryptominer-tab-content = La miniloj de ĉifromono uzas la kalkulpovon de via komputilo por mini ciferecan monon. Minado de ĉifromono eluzas vian baterion, malrapidigas vian komputilon kaj povas konsumi pli da elekto, kiun vi devos pagi. <a data-l10n-name="learn-more-link">Pli da informo</a>
+mobile-app-title = Bloki reklamajn spurilojn en pli da aparatoj
+mobile-app-card-content = Uzi la poŝaparatan retumilon kun integrita protekto kontraŭ reklamaj spuriloj.
+mobile-app-links = { -brand-product-name } Retumilo por <a data-l10n-name="android-mobile-inline-link">Android</a> kaj <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Neniam denove forgesu pasvorton
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } sekure konservas viajn pasvortojn en via retumilo.

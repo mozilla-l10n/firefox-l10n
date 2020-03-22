@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Difini politikojn, kiujn Webextensions povas aliri per chrome.storage.managed.
+policy-AppAutoUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de programoj.
 policy-AppUpdateURL = Difini personecigitan ĝisdatigan ligilon por programo.
 policy-Authentication = Agordi internan aŭtentikigon por retejoj, kiuj subtenas ĝin.
 policy-BlockAboutAddons = Bloki aliron al administrilo de aldonaĵoj (about:addons).
@@ -21,6 +22,7 @@ policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de le
 policy-CaptivePortal = Aktivigi aŭ malaktivigi subtenon por kapta portalo.
 policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
+policy-DisabledCiphers = Malaktivigi ĉifradon.
 policy-DefaultDownloadDirectory = Difini la norman dosierujon por elŝutoj.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
 policy-DisableBuiltinPDFViewer = Malaktivigi PDF.js (PDF-legilo inkluzivita en { -brand-short-name }).
@@ -72,7 +74,6 @@ policy-OfferToSaveLoginsDefault = Elekti ĉu { -brand-short-name } norme propona
 policy-OverrideFirstRunPage = Ŝanĝi la paĝon de unua starto. Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon de unua starto.
 policy-OverridePostUpdatePage = Ŝanĝi la postĝisdatigan paĝon "Kio estas nova". Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon post ĝisdatigo.
 policy-PasswordManagerEnabled = Aktivigi konservadon de pasvortoj en la pasvorta administranto.
-policy-Permissions = Agordi permesojn por filmilo, mikrofono, pozicio kaj sciigoj.
 policy-Permissions2 = Agordi permesojn por filmilo, mikrofono, pozicio,sciigoj kaj aŭtomata ludado.
 policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
 policy-Preferences = Difini kaj bloki la valoron por aro de preferoj.
