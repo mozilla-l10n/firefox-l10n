@@ -23,13 +23,13 @@ site-data-column-last-used =
 site-data-local-file-host = (fichièr local)
 site-data-remove-selected =
     .label = Suprimir çò seleccionat
-    .accesskey = s
+    .accesskey = S
 site-data-button-cancel =
     .label = Anullar
     .accesskey = A
 site-data-button-save =
     .label = Enregistrar las modificacions
-    .accesskey = a
+    .accesskey = E
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

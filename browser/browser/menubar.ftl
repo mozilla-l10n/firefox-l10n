@@ -239,7 +239,7 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Ajuda
-    .accesskey = j
+    .accesskey = u
 menu-help-product =
     .label = Ajuda de { -brand-shorter-name }
     .accesskey = j
