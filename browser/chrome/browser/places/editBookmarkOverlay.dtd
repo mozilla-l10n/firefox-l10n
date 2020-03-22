@@ -5,7 +5,7 @@
 <!ENTITY editBookmarkOverlay.name.label                      "Nom :">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Emplaçament :">
-<!ENTITY editBookmarkOverlay.location.accesskey              "E">
+<!ENTITY editBookmarkOverlay.location.accesskey              "m">
 <!ENTITY editBookmarkOverlay.folder.label                    "Repertòri :">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Visualizar totes los repertòris de marcapaginas">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Amagar">
