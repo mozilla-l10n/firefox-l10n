@@ -81,11 +81,13 @@
 <!ENTITY manual-edit.label               "การกำหนดค่าด้วยตนเอง">
 <!ENTITY manual-edit.accesskey           "ก">
 <!ENTITY manual-config.label             "ตั้งค่าด้วยตนเอง…">
+<!ENTITY manual-config.accesskey         "ต">
 <!ENTITY open-provisioner.label          "รับที่อยู่อีเมลใหม่…">
 <!ENTITY open-provisioner.accesskey      "ร">
 
 
 <!ENTITY get-help.label                  "รับความช่วยเหลือ">
+<!ENTITY get-help.accesskey              "ช">
 
 
 <!ENTITY warning.label                   "คำเตือน!">

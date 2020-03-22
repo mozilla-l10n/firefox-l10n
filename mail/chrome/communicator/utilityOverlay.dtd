@@ -36,6 +36,9 @@
 <!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
 <!ENTITY preferencesCmdUnix.accesskey     "ก">
 
+<!ENTITY customizeCmd.label "ปรับแต่ง">
+<!ENTITY customizeCmd.accesskey "ป">
+
 <!ENTITY viewMenu.label          "มุมมอง">
 <!ENTITY viewMenu.accesskey        "ม">
 <!ENTITY viewToolbarsMenu.label        "แถบเครื่องมือ">
