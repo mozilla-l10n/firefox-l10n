@@ -725,6 +725,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "เลือกคอลัมน์ที่จะแสดง">
+<!ENTITY selectColumn.tooltip "สลับการเลือกข้อความทั้งหมด">
 <!ENTITY threadColumn2.tooltip "แสดงหัวข้อช้อความ">
 <!ENTITY fromColumn2.tooltip "เรียงตามผู้ส่ง">
 <!ENTITY recipientColumn2.tooltip "เรียงตามผู้รับ">
