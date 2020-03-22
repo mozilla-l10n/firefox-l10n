@@ -44,6 +44,7 @@ cookie-tab-title = Cookies de seguiment entresites
 tracker-tab-title = Contengut utilizat pel seguiment
 tracker-tab-description = Los sites web pòdon cargar de reclamas, de vidèos e d’autres contenguts extèrns amb un d’elements de seguiment. Lo blocatge del contengut utilizat contra lo seguiment pòt accelerar lo cargament, mas es possible que unes botons, formularis o camps de connexion foncionen pas.<a data-l10n-name="learn-more-link">Ne saber mai</a>
 fingerprinter-tab-title = Generadors d’emprentas numericas
+fingerprinter-tab-content = Los generadors d’emprentas numericas reculhisson los paramètres del navegador e de l’ordenador per crear un perfil vòstre. En utilizant aquesta emprenta numerica vos pòdon seguir de site en site. <a data-l10n-name="learn-more-link">Ne saber mai</a>
 cryptominer-tab-title = Minaires de criptomonedas
 cryptominer-tab-content = Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la bateria, alentisson l’ordenador e aumentan vòstra factura d’electricitat. <a data-l10n-name="learn-more-link">Ne saber mai</a>
 mobile-app-title = Blocatz los traçadors de publicitat sus mai d’un periferic
