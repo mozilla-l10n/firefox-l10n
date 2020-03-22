@@ -22,7 +22,16 @@
 
 <!ENTITY openTabs.label "Avaa välilehti ikkunan sijaan">
 
+<!ENTITY middleClick.label "Keskinapsautus, Ctrl+napsautus tai Ctrl+Enter verkkosivujen linkeissä">
+<!ENTITY middleClick.accesskey "K">
+<!ENTITY middleClickMac.label "Keskinapsautus, &#8984;+napsautus tai &#8984;+Return verkkosivujen linkeissä">
+<!ENTITY middleClickMac.accesskey "K">
+<!ENTITY urlbar.label "Ctrl+Enter osoitepalkissa">
+<!ENTITY urlbar.accesskey "o">
+<!ENTITY urlbarMac.label "&#8984;+Return osoitepalkissa">
+<!ENTITY urlbarMac.accesskey "o">
 
+<!ENTITY openManagers.label "Avaa uudessa välilehdessä erillisen ikkunan sijaan">
 <!ENTITY openDataManager.label "Tietojen hallinta">
 <!ENTITY openDataManager.accesskey "T">
 <!ENTITY openAddOnsManager.label "Lisäosien hallinta">

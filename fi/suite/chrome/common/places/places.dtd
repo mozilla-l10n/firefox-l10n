@@ -12,9 +12,16 @@
 
 <!ENTITY file.close.label               "Sulje">
 <!ENTITY file.close.accesskey           "S">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Katselukertoja">
+<!ENTITY views.accesskey                "K">
 <!ENTITY views.tooltip                  "Muokkaa näkymää">
 <!ENTITY view.columns.label             "Näytä sarakkeet">
 <!ENTITY view.columns.accesskey         "s">
+<!ENTITY view.sort.label                "Lajittele">
+<!ENTITY view.sort.accesskey            "L">
+<!ENTITY view.unsorted.label            "Ei lajiteltu">
+<!ENTITY view.unsorted.accesskey        "E">
 <!ENTITY view.sortAscending.label       "A > Z lajittelu">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A lajittelu">
@@ -67,6 +74,7 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "P">
 
 <!ENTITY col.name.label          "Nimi">
+<!ENTITY col.tags.label          "Tunnisteet">
 <!ENTITY col.url.label           "Sijainti">
 <!ENTITY col.mostrecentvisit.label "Viimeisin vierailu">
 <!ENTITY col.visitcount.label    "Vierailukerrat">
@@ -76,6 +84,7 @@
 
 <!ENTITY search.placeholder  "Etsi">
 
+<!ENTITY cmd.find.key  "F">
 
 <!ENTITY detailsPane.more.label "Enemmän">
 <!ENTITY detailsPane.more.accesskey "E">
