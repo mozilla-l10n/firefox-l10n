@@ -7,3 +7,16 @@
 <!ENTITY removeButton.accesskey       "P">
 <!ENTITY removeAccount.label          "Poista tilin tiedot">
 <!ENTITY removeAccount.accesskey      "t">
+<!ENTITY removeAccount.desc           "Poistaa vain &brandShortName;:n tiedot tästä tilistä. Tämä ei vaikuta itse tiliin palvelimella.">
+<!ENTITY removeData.label             "Poista viestit">
+<!ENTITY removeData.accesskey         "v">
+<!ENTITY removeDataChat.label         "Poista keskustelut">
+<!ENTITY removeDataChat.accesskey     "k">
+<!ENTITY removeDataLocalAccount.desc  "Poistaa kaikki viestit, kansiot ja tähän tiliin liitetyt suodattimet paikallisella levyllä. Tämä ei vaikuta viesteihin, jotka säilytetään edelleen palvelimella. Älä valitse tätä vaihtoehtoa, jos olet ajatellut arkistoida paikallisen datan tai käyttää sitä &brandShortName;:ssa myöhemmin.">
+<!ENTITY removeDataServerAccount.desc "Poistaa paikalliselta levyltä kaikki tämän tilin viestit, kansiot ja suodattimet. Palvelimella olevat viestit ja kansiot säilytetään.">
+<!ENTITY removeDataChatAccount.desc   "Poistaa kaikki paikalliselle levylle tallennetut tämän tilin keskustelulokit.">
+<!ENTITY showData.label               "Näytä tietojen sijainti">
+<!ENTITY showData.accesskey           "N">
+<!ENTITY progressPending              "Poistetaan valitut tiedot…">
+<!ENTITY progressSuccess              "Poistaminen onnistui.">
+<!ENTITY progressFailure              "Poistaminen epäonnistui.">
