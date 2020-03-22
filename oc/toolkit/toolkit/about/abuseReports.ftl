@@ -70,6 +70,7 @@ abuse-report-deceptive-reason-v2 = Pretend èsser quicòm qu’es pas
 abuse-report-deceptive-example = Exemple : descripcion e imatges enganaires
 abuse-report-broken-reason-extension = Fonciona pas, còpa los sites web, o alentís { -brand-product-name }
 abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
+abuse-report-broken-reason-extension-v2 = Fonciona pas, còpa los sites web, o alentís { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
 abuse-report-broken-example = Exemple : las foncionalitats son lentas, malaisidas d’utilizar o foncionan pas ; unas partidas dels sites Web se cargan pas o an una aparéncia inabituala.
 abuse-report-broken-suggestions-extension =

@@ -10,6 +10,7 @@
  given Firefox channel". These terms are not synonymous.
 -->
 <!ENTITY window.title "Avètz lançat una anciana version de Firefox">
+<!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync "L'utilizacion d'una anciana version de Firefox pòt corrompre los marcapaginas e l'istoric de navegacion ja enregistrats dins un perfil Firefox existent. Per protegir vòstras informacions, creatz un perfil nòu per aquesta installacion de &brandShortName;.">
 <!ENTITY window.sync "L'utilizacion d'una anciana version de Firefox pòt corrompre los marcapaginas e l'istoric de navegacion ja enregistrats dins un perfil Firefox existent. Per protegir vòstras informacions, creatz un perfil nòu per aquesta installacion de &brandShortName;. Podètz sempre vos connectar amb un &syncBrand.fxAccount.label; per sincronizar vòstres favorits e vòstre istoric de navegacion entre los perfils.">
