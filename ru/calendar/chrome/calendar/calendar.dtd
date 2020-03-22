@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Создать новую задачу" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Задачи" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показать выполненные задачи">
 
 <!ENTITY calendar.today.button.label          "Сегодня">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Участники">
 <!ENTITY calendar.context.attendance.menu.accesskey             "ч">
 <!ENTITY calendar.context.attendance.occurrence.label           "Этот повтор">
-<!ENTITY calendar.context.attendance.all.label        "Все повторы" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Все серии событий">
 <!ENTITY calendar.context.attendance.send.label                 "Отправить уведомление сейчас">
 <!ENTITY calendar.context.attendance.send.accesskey             "п">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Показывать оповещения">
 <!ENTITY calendarproperties.cache3.label                   "Работать автономно">
 <!ENTITY calendarproperties.enabled.label                  "Включите этот календарь">
+<!ENTITY calendarproperties.enabled2.label                 "Включить этот календарь">
 <!ENTITY calendarproperties.forceDisabled.label            "Провайдер для этого календаря не найден. Зачастую это происходит после отключения или удаления специальных дополнений.">
 <!ENTITY calendarproperties.unsubscribe.label              "Отменить подписку">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "О">
