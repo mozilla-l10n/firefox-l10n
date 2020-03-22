@@ -114,6 +114,7 @@
 <!ENTITY mediaPlaybackRate050.accesskey "H">
 <!ENTITY mediaPlaybackRate100.label     "Normaali">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate125.label     "Nopeutus (1¼ ×)">
 <!ENTITY mediaPlaybackRate125.accesskey "N">
 <!ENTITY mediaPlaybackRate150.label     "Nopeutettu (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "o">
