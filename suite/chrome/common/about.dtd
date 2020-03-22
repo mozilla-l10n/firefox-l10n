@@ -49,11 +49,14 @@
      phrase, so if your locale needs a space between words, add it at the end
      of this entity. -->
 <!ENTITY about.buildconfig.beforeTheLink "Katso tämän version">
+<!ENTITY about.buildconfig.linkTitle     "koostamisasetukset">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no
      space between the linked about.buildconfig.linkTitle phrase and this
      phrase, so if your locale needs a space between words, add it at the
      start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  ".">
 
+<!ENTITY about.buildIdentifier        "Koosteen tunniste:">
 
 <!-- LOCALIZATION NOTE end of declarations that were copied from
      mozilla/toolkit/locales/en-US/chrome/global/about.dtd -->
