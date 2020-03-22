@@ -4,17 +4,28 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Syötetilaukset">
-<!ENTITY subscriptionDesc.label      "Huom. Syötteen kansion muuttaminen tai poistaminen ei vaikuta ennen sitä ladattuihin artikkeleihin.">
+<!ENTITY learnMore.label             "Lue lisää syötteistä">
 
 <!ENTITY feedTitle.label             "Otsikko:">
 <!ENTITY feedTitle.accesskey         "O">
 
 <!ENTITY feedLocation.label          "Syötteen osoite:">
 <!ENTITY feedLocation.accesskey      "S">
-<!ENTITY feedLocation.placeholder    "Anna syötteen osoite lisätäksesi sen">
+<!ENTITY feedLocation2.placeholder   "Anna kelvollinen syötteen osoite">
+<!ENTITY locationValidate.label      "Tarkista">
+<!ENTITY validateText.label          "Tarkista voimassaolo ja hae voimassaoleva osoite.">
 
 <!ENTITY feedFolder.label            "Tallenna artikkelit kansioon:">
 <!ENTITY feedFolder.accesskey        "T">
+
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Hae uusia artikkeleita">
+<!ENTITY biffStart.accesskey         "H">
+<!ENTITY biffMinutes.label           "minuutin välein">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "päivän välein">
+<!ENTITY biffDays.accesskey          "p">
+<!ENTITY recommendedUnits.label      "Julkaisijan suositukset:">
 
 <!ENTITY quickMode.label             "Näytä artikkelin yhteenveto verkkosivun lataamisen asemesta">
 <!ENTITY quickMode.accesskey         "n">
@@ -25,13 +36,10 @@
 <!ENTITY autotagUsePrefix.accesskey  "e">
 <!ENTITY autoTagPrefix.placeholder   "Kirjoita tunnisteen etuliite">
 
-<!ENTITY locationValidate.label      "Tarkista">
-<!ENTITY validateText.label          "Tarkista voimassaolo ja hae voimassaoleva osoite.">
-
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Lisää">
 <!ENTITY button.addFeed.accesskey    "L">
-<!ENTITY button.editFeed.label       "Päivitä">
-<!ENTITY button.editFeed.accesskey   "P">
+<!ENTITY button.verifyFeed.label     "Tarkista">
 <!ENTITY button.removeFeed.label     "Poista">
 <!ENTITY button.removeFeed.accesskey "i">
 <!ENTITY button.importOPML.label     "Tuo">

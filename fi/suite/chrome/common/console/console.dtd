@@ -42,5 +42,6 @@
 <!ENTITY toolbarsCmd.label     "Näytä/piilota">
 <!ENTITY toolbarsCmd.accesskey "N">
 <!ENTITY toolbarMode.label     "Tila">
+<!ENTITY toolbarMode.accesskey "T">
 <!ENTITY toolbarEval.label     "JavaScript-syöte">
 <!ENTITY toolbarEval.accesskey "J">

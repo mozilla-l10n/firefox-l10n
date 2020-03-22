@@ -20,6 +20,8 @@
 <!ENTITY responsiveDesignTool.label      "Mukautuvan suunnittelun näkymä">
 <!ENTITY responsiveDesignTool.accesskey  "M">
 
+<!ENTITY eyedropper.label                "Pipetti">
+<!ENTITY eyedropper.accesskey            "P">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -31,17 +33,26 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label                "Luonnoseditori">
+<!ENTITY scratchpad.accesskey            "n">
 <!ENTITY scratchpad.keycode              "VK_F4">
 <!ENTITY scratchpad.keytext              "F4">
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label        "Selain työkalupakki">
+<!ENTITY browserToolboxMenu.accesskey    "e">
 <!ENTITY browserToolboxCmd.commandkey    "I">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "Selainsisällön työkalupakki">
+<!ENTITY browserContentToolboxMenu.accesskey "l">
 
+<!ENTITY devToolbarCloseButton.tooltiptext   "Sulje kehittäjän työkalupalkki">
+<!ENTITY devToolbarMenu.label                "Kehittäjän työkalupalkki">
+<!ENTITY devToolbarMenu.accesskey            "K">
 
 <!ENTITY webide.label                        "WebIDE">
 <!ENTITY webide.accesskey                    "W">
@@ -51,9 +62,11 @@
 <!ENTITY devToolbar.keycode                  "VK_F2">
 <!ENTITY devToolbar.keytext                  "F2">
 
+<!ENTITY devToolboxMenuItem.label            "Työkalut päälle/pois">
 <!ENTITY devToolboxMenuItem.accesskey        "T">
 <!ENTITY devToolboxMenuItem.keytext          "I">
 
+<!ENTITY devToolbarToolsButton.tooltip       "Kehitystyökalut päälle/pois">
 
 <!ENTITY getMoreDevtoolsCmd.label            "Hae lisää työkaluja">
 <!ENTITY getMoreDevtoolsCmd.accesskey        "H">
