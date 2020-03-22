@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = ตั้งนโยบายที่ WebExtensions สามารถเข้าถึงผ่าน chrome.storage.managed
+policy-AppAutoUpdate = เปิดใช้งานหรือปิดใช้งานการอัปเดตแอปพลิเคชันอัตโนมัติ
 policy-AppUpdateURL = ตั้ง URL อัปเดตแอปที่กำหนดเอง
 policy-Authentication = กำหนดค่าการรับรองความถูกต้องแบบรวมสำหรับเว็บไซต์ที่สนับสนุน
 policy-BlockAboutAddons = ปิดกั้นการเข้าถึงตัวจัดการส่วนเสริม (about:addons)
