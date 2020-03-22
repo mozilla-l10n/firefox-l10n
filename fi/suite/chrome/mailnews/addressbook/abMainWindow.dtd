@@ -64,6 +64,7 @@
 
 <!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
+<!ENTITY toggleDirectoryPaneCmd.key                     "S">
 
 <!-- Tasks Menu -->
 <!ENTITY importCmd.label                                "Tuo…">
