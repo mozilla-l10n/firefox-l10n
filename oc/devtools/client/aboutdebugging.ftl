@@ -79,10 +79,16 @@ about-debugging-refresh-usb-devices-button = Actualizar los periferics
 about-debugging-setup-title = Configuracion
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Configuratz lo metòde de connexion que volètz emplegar per desbugar a distància vòstre periferic.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Utilizatz <a>{ about-debugging-this-firefox-runtime-name }</a> per desbugar los onglets, las extensions e los service workers sus aquesta version de { -brand-shorter-name }.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Utilizatz <a>{ about-debugging-this-firefox-runtime-name }</a> per desbugar las extensions e los service workers sus aquesta version de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Connectar un periferic
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = L’activacion lançar lo telecargament e l’apondon dels compausants pel besbugatge USB Android per { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Activar los periferics USB
@@ -97,6 +103,10 @@ about-debugging-setup-usb-status-disabled = Desactivat
 about-debugging-setup-usb-status-updating = Actualizacion…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Activar lo menú Desvolopaire sus vòstre periferic Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Activatz lo desbugatge USB dins lo menú Desvolopaire Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activatz lo desbugatge USB dins Firefox sul periferic Android.
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Connectatz lo periferic Android a l’ordenador.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
