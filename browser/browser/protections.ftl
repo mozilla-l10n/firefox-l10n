@@ -83,6 +83,7 @@ lockwise-connected-device-status =
         [one] Connectat a { $count } periferic
        *[other] Connectat a { $count } periferics
     }
+monitor-title = Gardatz un uèlh sus las pèrdas de donadas
 monitor-link = Cossí fonciona
 monitor-sign-up = S’inscriure a las alèrtas de pèrdas de donadas
 # This string is displayed after a large numeral that indicates the total number
