@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Vælg hvilke politikker WebExtensions skal have adgang til via chrome.storage.managed.
+policy-AppAutoUpdate = Slå automatisk opdatering af programmet til eller fra.
 policy-AppUpdateURL = Indtast brugerdefineret opdaterings-URL.
 policy-Authentication = Konfigurer integreret godkendelse for websteder, der understøtter dette.
 policy-BlockAboutAddons = Bloker adgang til fanebladet Tilføjelser (about:addons).
