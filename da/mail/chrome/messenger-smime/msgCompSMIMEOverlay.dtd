@@ -21,9 +21,15 @@
 <!ENTITY menu_securitySign.accesskey "U">
 
 <!ENTITY menu_securityAttachMyKey.label "Vedhæft min offentlige nøgle">
+<!ENTITY menu_securityAttachMyKey.accesskey "V">
 
+<!ENTITY menu_securityTech.label "Krypteringsteknologi">
+<!ENTITY menu_securityTech.accesskey "T">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Meddelelsens sikkerhedsoplysninger">
 <!ENTITY menu_securityStatus.accesskey "S">
