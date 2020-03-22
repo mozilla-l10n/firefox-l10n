@@ -12,10 +12,13 @@
      between this phrase and the linked about.credits.linkTitle phrase, so if
      your locale needs a space between words, add it at the end of this
      entity. -->
+<!ENTITY about.credits.beforeLink     "Katso luetteloa Mozilla-projektin">
+<!ENTITY about.credits.linkTitle      "avustajista">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space
      between the linked about.credits.linkTitle phrase and this phrase, so if
      your locale needs a space between words, add it at the start of this
      entity. -->
+<!ENTITY about.credits.afterLink      ".">
 
 <!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no
      space between this phrase and the linked about.license.linkTitle phrase,
@@ -45,6 +48,7 @@
      no space between this phrase and the linked about.buildconfig.linkTitle
      phrase, so if your locale needs a space between words, add it at the end
      of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "Katso tämän version">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no
      space between the linked about.buildconfig.linkTitle phrase and this
      phrase, so if your locale needs a space between words, add it at the

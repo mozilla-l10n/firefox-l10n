@@ -11,9 +11,14 @@
 <!ENTITY devToolsCmd.keytext             "F12">
 
 <!ENTITY devtoolsConnect.label           "Yhdistä…">
+<!ENTITY devtoolsConnect.accesskey       "Y">
 
 <!ENTITY browserConsoleCmd.label         "Selainkonsoli">
+<!ENTITY browserConsoleCmd.commandkey    "Ζ">
+<!ENTITY browserConsoleCmd.accesskey     "k">
 
+<!ENTITY responsiveDesignTool.label      "Mukautuvan suunnittelun näkymä">
+<!ENTITY responsiveDesignTool.accesskey  "M">
 
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -31,6 +36,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxCmd.commandkey    "I">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
@@ -38,11 +44,16 @@
 
 
 <!ENTITY webide.label                        "WebIDE">
+<!ENTITY webide.accesskey                    "W">
 <!ENTITY webide.keycode                      "VK_F8">
 <!ENTITY webide.keytext                      "F8">
 
 <!ENTITY devToolbar.keycode                  "VK_F2">
 <!ENTITY devToolbar.keytext                  "F2">
 
+<!ENTITY devToolboxMenuItem.accesskey        "T">
+<!ENTITY devToolboxMenuItem.keytext          "I">
 
 
+<!ENTITY getMoreDevtoolsCmd.label            "Hae lisää työkaluja">
+<!ENTITY getMoreDevtoolsCmd.accesskey        "H">
