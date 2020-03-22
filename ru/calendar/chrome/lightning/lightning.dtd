@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "О">
 <!ENTITY lightning.menupopup.open.message.label       "Сохраненные сообщения…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "С">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Файлы календаря…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "Ф">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Удалить из календаря">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Подробнее…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Показать детали события">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Не показывать мне подобные сообщения">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Календарь">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Перейти на вкладку календаря">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Больше">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Щёлкните чтобы увидеть больше параметров">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Вновь подтвердить">
