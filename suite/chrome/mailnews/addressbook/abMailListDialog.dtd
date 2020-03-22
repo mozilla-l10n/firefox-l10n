@@ -4,18 +4,16 @@
 
 <!-- Title -->
 <!ENTITY mailListWindow.title           "Postituslista">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Lisää osoitekirjaan: ">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Lisää osoitekirjaan: ">
+<!ENTITY addToAddressBook.accesskey     "s">
 <!ENTITY ListName.label                 "Listan nimi: ">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "Listan lempinimi: ">
+<!ENTITY ListNickName.accesskey         "i">
 <!ENTITY ListDescription.label          "Kuvaus: ">
+<!ENTITY ListDescription.accesskey      "K">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Kirjoita postituslistaan lisättävät sähköpostiosoitteet:">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "s">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "i">
-<!ENTITY ListDescription.accesskey      "K">
-
+<!ENTITY AddressTitle.accesskey         "p">

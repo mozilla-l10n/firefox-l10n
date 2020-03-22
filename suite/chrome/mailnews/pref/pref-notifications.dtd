@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "a">
 <!ENTITY showAlertSender.label            "Näytä lähettäjä">
 <!ENTITY showAlertSender.accesskey        "l">
+<!ENTITY useSystemAlert.label             "Käytä käyttöjärjestelmän työpöytäilmoituksia">
+<!ENTITY useSystemAlert.accesskey         "t">
+<!ENTITY useBuiltInAlert.label            "Käytä &brandShortName;:n omia ilmoitusikkunoita">
+<!ENTITY useBuiltInAlert.accesskey        "i">
 
 <!ENTITY showTrayIcon.label               "Näytä kuvake ilmoitusalueella">
 <!ENTITY showTrayIcon.accesskey           "k">

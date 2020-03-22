@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Osoitepalkki">
 
 <!ENTITY autoComplete.label                    "Automaattinen täydennys">
-<!ENTITY enableAutoComplete.label              "Ehdota osoitteita sivuhistoriasta kirjoitettaessa">
-<!ENTITY enableAutoComplete.accesskey          "E">
+<!ENTITY autoCompleteMatchHistory.label        "Ehdota verkkosivustoja automaattisesti historiasta">
+<!ENTITY autoCompleteMatchHistory.accesskey    "h">
+<!ENTITY autoCompleteMatchBookmarks.label      "Ehdota verkkosivustoja automaattisesti kirjanmerkeistä">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "k">
 <!ENTITY autoCompleteAutoFill.label            "Kirjoita paras osuma valmiiksi">
 <!ENTITY autoCompleteAutoFill.accesskey        "K">
 <!ENTITY autoCompleteShowPopup.label           "Näytä lista vastaavista osoitteista">
 <!ENTITY autoCompleteShowPopup.accesskey       "N">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Etsi vain osoitteista, jotka olen itse kirjoittanut">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "v">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Etsi osoitteista, mutta ei verkkosivujen otsikoista">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "o">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
