@@ -30,6 +30,7 @@
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Nimi:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Ei löytynyt yhtään ohjelmaa tai tiedostoa, josta olisi voitu tuoda tietoja.">
 
 <!ENTITY back.label               "&lt; Edellinen">
 <!ENTITY forward.label            "Seuraava &gt;">

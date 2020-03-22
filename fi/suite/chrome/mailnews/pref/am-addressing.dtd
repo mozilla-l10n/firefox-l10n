@@ -21,15 +21,15 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Viestien kirjoitus">
+<!ENTITY compositionGroupTitle.label          "Viestien kirjoitus">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Kirjoita viestit HTML-muodossa">
 <!ENTITY useHtml.accesskey                    "K">
 <!ENTITY autoQuote.label                      "Vastattaessa liitä alkuperäinen viesti lainauksena">
 <!ENTITY autoQuote.accesskey                  "V">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "ja">
-<!ENTITY then.accesskey                       "j">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Lainattaessa">
+<!ENTITY quoting.accesskey                    "L">
 <!ENTITY aboveQuote.label                     "aloita vastaukseni ennen lainausta">
 <!ENTITY belowQuote.label                     "aloita vastaukseni lainauksen jälkeen">
 <!ENTITY selectAndQuote.label                 "valitse lainattu teksti">

@@ -23,7 +23,7 @@
 
 <!ENTITY safeb.blocked.harmfulPage.title "Edessä olevalla sivustolla voi olla haittaohjelmia">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "si&brandShortName; esti sivun <span id='harmful_sitename'/> , koska se saattaa yrittää asentaa vaarallisia ohjelmia, jotka varastavat tai poistavat tietojasi (esimerkiksi kuvia, salasanoja, viestejä ja luottokorttitietoja).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; esti sivun <span id='harmful_sitename'/> , koska se saattaa yrittää asentaa vaarallisia ohjelmia, jotka varastavat tai poistavat tietojasi (esimerkiksi kuvia, salasanoja, viestejä ja luottokorttitietoja).">
 
 <!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
 <!ENTITY reportDeceptiveSite.label "Ilmoita petollinen sivusto…">

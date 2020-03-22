@@ -32,3 +32,4 @@
 <!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
+<!ENTITY restartOnLocaleChange.label            "Kieli- ja muotoiluasetukset tulevat voimaan, kun &brandShortName; käynnistetään uudelleen.">
