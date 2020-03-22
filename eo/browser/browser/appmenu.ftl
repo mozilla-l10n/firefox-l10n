@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-import-from-another-browser =
+    .label = Enporti el alia retumilo…
 appmenuitem-protection-report-title = Protekto de privateco
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vidu vian raporton pri privateco
