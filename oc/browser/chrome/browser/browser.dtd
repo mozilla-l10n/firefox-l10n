@@ -444,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir los periferics…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Veire los onglets sincronizats dins la barra laterala">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Amagar los onglets sincronizats dins la barra laterala">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar un autre periferic">
 
 <!ENTITY appMenuRecentHighlights.label "Notables recents">
@@ -910,10 +911,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Perqué ?">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Totes los traçadors sus aqueste site son estats cargats perque las proteccions son desactivadas.">
 <!ENTITY protections.noTrackersFound.description "Cap de traçadors coneguts per &brandShortName; pas detectat sus aquesta pagina.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Aquestes cookies vos seguisson de site en site per amassar de donadas sus vòstre compòrtament en linha. Son depausats per de companhiás de publicitat o d’analisi.">
 <!ENTITY protections.cryptominers.description "Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la bateria, alentisson l’ordenador e aumentan vòstra factura d’electricitat.">
 <!ENTITY protections.fingerprinters.description "Los generadors d’emprentas numericas reculhisson los paramètres del navegador e de l’ordenador per crear un perfil vòstre. En utilizant aquesta emprenta numerica vos pòdon seguir de site en site.">
+<!ENTITY protections.socialMediaTrackers.description "Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiás de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
