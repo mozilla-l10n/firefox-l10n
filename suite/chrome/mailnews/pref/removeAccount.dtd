@@ -4,3 +4,6 @@
 
 <!ENTITY dialogTitle                  "Poista tili ja tiedot">
 <!ENTITY removeButton.label           "Poista">
+<!ENTITY removeButton.accesskey       "P">
+<!ENTITY removeAccount.label          "Poista tilin tiedot">
+<!ENTITY removeAccount.accesskey      "t">
