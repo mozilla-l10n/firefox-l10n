@@ -194,6 +194,7 @@ hardware-h264 = ہارڈویئر 264 H کی ضابطہ کشائی
 main-thread-no-omtc = مرکزی دھاگے، OMTC کے بخیر
 yes = ہاں
 no = نہیں
+unknown = نامعلوم
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
