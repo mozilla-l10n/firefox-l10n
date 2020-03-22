@@ -25,6 +25,11 @@
 <!ENTITY contextManual.accesskey "K">
 <!ENTITY contextBeforeCls.label "Suodata ennen roskapostiluokittelua">
 <!ENTITY contextAfterCls.label "Suodata roskapostiluokittelun jälkeen">
+<!ENTITY contextOutgoing.label "Lähettämisen jälkeen">
+<!ENTITY contextOutgoing.accesskey "L">
+<!ENTITY contextArchive.label "Arkistoitaessa">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextPeriodic.accesskey "e">
 
 <!ENTITY filterActionDesc.label "Suorita nämä toiminnot:">
 <!ENTITY filterActionDesc.accesskey "u">
@@ -54,9 +59,10 @@
 <!ENTITY addAction.tooltip "Lisää uusi toiminne">
 <!ENTITY removeAction.tooltip "Poista tämä toiminne">
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
