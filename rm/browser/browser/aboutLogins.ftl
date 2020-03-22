@@ -26,6 +26,8 @@ menu =
     .title = Avrir il menu
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importar pleds-clav…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importar dad in auter navigatur…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Preferenzas
@@ -84,10 +86,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copià!
 login-item-password-label = Pled-clav
-login-item-password-reveal-checkbox-show =
-    .title = Mussar il pled-clav
-login-item-password-reveal-checkbox-hide =
-    .title = Zuppentar il pled-clav
 login-item-password-reveal-checkbox =
     .aria-label = Mussar il pled-clav
 login-item-copy-password-button-text = Copiar
@@ -98,6 +96,15 @@ login-item-cancel-button = Interrumper
 login-item-time-changed = Ultima midada: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Creà: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ultima utilisaziun: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
