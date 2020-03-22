@@ -67,7 +67,7 @@ cfr-doorhanger-pintab-step1 = <b>Clic drech</b> sus l’onglet que volètz penja
 cfr-doorhanger-pintab-step2 = Seleccionatz <b>Penjar aqueste onglet</b> al menú.
 cfr-doorhanger-pintab-step3 = Se lo site a una mesa a jorn, veiretz un punt blau sus vòstre onglet penjat.
 cfr-doorhanger-pintab-animation-pause = Pausa
-cfr-doorhanger-pintab-animation-resume = Reprene
+cfr-doorhanger-pintab-animation-resume = Reprendre
 
 ## Firefox Accounts Message
 

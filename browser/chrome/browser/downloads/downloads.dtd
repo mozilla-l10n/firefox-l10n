@@ -15,7 +15,7 @@
 
 <!ENTITY cmd.pause.label                  "Pausa">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Reprene">
+<!ENTITY cmd.resume.label                 "Reprendre">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Anullar">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,

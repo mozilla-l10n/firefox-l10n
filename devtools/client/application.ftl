@@ -72,10 +72,21 @@ manifest-non-existing = Cap de manifèst pas trobat a inspectar.
 # manifest.
 manifest-icon-img =
     .alt = Icòna
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Icòna amb talhas : { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Icòna sens talha especificada
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifèst
     .alt = Icòna del manifèst
     .title = Manifèst
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Icòna dels Service Workers
+    .title = Service Workers
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Icòna d’avís
