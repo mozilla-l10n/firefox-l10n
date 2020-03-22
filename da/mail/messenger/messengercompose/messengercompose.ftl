@@ -7,3 +7,15 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Fjern feltet { $type }
+pill-action-edit =
+    .label = Rediger adresse
+    .accesskey = R
+pill-action-move-to =
+    .label = Flyt til Til
+    .accesskey = T
+pill-action-move-cc =
+    .label = Flyt til Kopi til (Cc)
+    .accesskey = C
+pill-action-move-bcc =
+    .label = Flyt til Skjult kopi til (Bcc)
+    .accesskey = B
