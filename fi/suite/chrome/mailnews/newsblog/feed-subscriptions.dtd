@@ -40,6 +40,9 @@
 <!ENTITY button.addFeed.label        "Lisää">
 <!ENTITY button.addFeed.accesskey    "L">
 <!ENTITY button.verifyFeed.label     "Tarkista">
+<!ENTITY button.verifyFeed.accesskey "a">
+<!ENTITY button.updateFeed.label     "Päivitä">
+<!ENTITY button.updateFeed.accesskey "P">
 <!ENTITY button.removeFeed.label     "Poista">
 <!ENTITY button.removeFeed.accesskey "i">
 <!ENTITY button.importOPML.label     "Tuo">
