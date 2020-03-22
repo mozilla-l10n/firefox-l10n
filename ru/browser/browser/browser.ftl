@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Приватный просмотр)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Приватный просмотр)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -123,7 +107,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Набирайте меньше, находите больше: Ищите в { $engineName } прямо из адресной строки.
+urlbar-search-tips-onboard = Печатайте меньше, находите больше: Ищите в { $engineName } прямо из адресной строки.
 urlbar-search-tips-redirect = Начните поиск отсюда, чтобы увидеть предложения из { $engineName } и истории посещений.
 urlbar-search-tips-redirect-2 = Начните поиск в адресной строке, чтобы увидеть предложения из { $engineName } и истории посещений.
 
@@ -146,7 +130,7 @@ urlbar-persistent-storage-blocked =
 urlbar-popup-blocked =
     .tooltiptext = Вы заблокировали всплывающие окна с этого веб-сайта.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Вы заблокировали автоматическое воспроизводение медиа со звуком с этого веб-сайта.
+    .tooltiptext = Вы заблокировали автовоспроизведение медиа со звуком с этого веб-сайта.
 urlbar-canvas-blocked =
     .tooltiptext = Вы заблокировали извлечение данных canvas с этого веб-сайта.
 urlbar-midi-blocked =

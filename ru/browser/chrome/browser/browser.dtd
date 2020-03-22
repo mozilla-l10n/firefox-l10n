@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Отладчик макета">
 <!ENTITY ldbCmd.accesskey "л">
@@ -127,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
 <!ENTITY fxaUnverified.label "Подтвердите свой аккаунт">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
 <!ENTITY fullScreenRestore.tooltip "Восстановить">
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "З">
-
 <!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
 <!ENTITY editThisBookmarkCmd.label "Редактировать эту закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "в">
 <!ENTITY stopCmd.label                "Остановить">
 <!ENTITY stopCmd.accesskey            "н">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Перейти по введённому адресу">
@@ -285,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблокировали уведомления с этого веб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к постоянному хранилищу.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблокировали всплывающие окна с этого веб-сайта.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Вы заблокировали автоматическое воспроизводение медиа со звуком с этого веб-сайта.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Вы заблокировали автовоспроизведение медиа со звуком с этого веб-сайта.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблокировали извлечение данных canvas с этого веб-сайта.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Вы запретили этому веб-сайту использовать плагин Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Вы заблокировали доступ этого веб-сайта к MIDI.">
@@ -418,7 +411,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Восстановить предыдущую сессию">
 
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
@@ -599,7 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "е">
 <!ENTITY showOnlyThisFrameCmd.label     "Показать только этот фрейм">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Обновить фрейм">
 <!ENTITY reloadFrameCmd.accesskey     "и">
@@ -651,7 +642,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "х">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "р">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Сохранить фрейм как…">
 <!ENTITY saveFrameCmd.accesskey       "н">
@@ -755,20 +745,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Увеличить">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "в">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Уменьшить">
 <!ENTITY fullZoomReduceCmd.accesskey    "м">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Сбросить">
 <!ENTITY fullZoomResetCmd.accesskey     "б">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -792,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Закрыть">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "З">
 
@@ -818,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "н">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Переключить направление текста на странице">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "т">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Найти на этой странице…">
@@ -848,19 +833,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Соединение">
 <!ENTITY identity.connectionSecure "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
-
-<!ENTITY identity.connectionSecure3 "Защищённое соединение">
-<!ENTITY identity.connectionNotSecure2 "Незащищённое соединение">
-<!ENTITY identity.connectionNotSecureSecurityView "Вы подключились к этому сайту по незащищённому соединению.">
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
 <!ENTITY identity.connectionVerified2 "Вы подключились по защищённому соединению к сайту, которым владеет:">
-<!ENTITY identity.connectionVerified3 "Вы подключились к этому сайту по защищённому соединению.">
 <!ENTITY identity.connectionInternal "Это встроенная страница &brandShortName;.">
 <!ENTITY identity.extensionPage "Эта страница загружена из расширения.">
 <!ENTITY identity.insecureLoginForms2 "Учётные данные, вводимые на этой странице, могут быть скомпрометированы.">
 <!ENTITY identity.customRoot "Соединение удостоверено сертификатом, издатель которого не распознан Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Сертификат выдан:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
@@ -895,8 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Удалить куки и данные сайта…">
 
 <!ENTITY identity.permissions "Разрешения">
-
-<!ENTITY identity.permissions3 "Разрешения">
 <!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
 <!ENTITY identity.permissionsReloadHint "Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.">
 <!ENTITY identity.permissionsPreferences.tooltip "Открыть настройки разрешений">
