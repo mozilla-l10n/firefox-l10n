@@ -112,6 +112,7 @@ permissions-exceptions-autoplay-media-desc2 = Podètz indicar quines sites web a
 permissions-site-autoplay-window =
     .title = Paramètres - Lectura automatica
     .style = { permissions-window.style }
+permissions-site-autoplay-desc = Podètz gerir aquí los sites que seguisson pas vòstres paramètres de lectura automatica per defaut.
 
 ## Site Permissions - Notifications
 
