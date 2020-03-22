@@ -136,6 +136,10 @@ permissions-site-location-disable-desc = Aquò empacha quin que siá site pas li
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Paramètres - Permission de realitat virtuala
+    .style = { permissions-window.style }
+permissions-site-xr-desc = Los sites seguents an demandat l’accès a vòstre periferic de realitat virtuala. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstre periferic de realitat virtuala.
 permissions-site-xr-disable-label =
     .label = Blocar las novèlas demandas d’accès a vòstre periferic de realitat virtuala
 permissions-site-xr-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar l’accès a vòstres periferics de realitat virtuala. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.

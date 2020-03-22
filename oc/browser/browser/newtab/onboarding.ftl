@@ -101,6 +101,7 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navegatz de biais mai rapid, intelligent o segur amb d'extensions coma Ghostery, que vos permet de blocar las publicitats anujosas.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
+onboarding-fxa-text = Creatz vòstre { -fxaccount-brand-name } e sincronizatz vòstres marcapaginas, senhals e onglet dubèrts ont que utilizetz { -brand-short-name }.
 onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
 onboarding-tracking-protection-text2 = { -brand-short-name } empacha que los sites web vos pisten en linha, fa venir complicat que la publicitat vos pòsca seguir per Internet.
 onboarding-tracking-protection-button2 = Cossí fonciona

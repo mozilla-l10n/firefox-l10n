@@ -21,6 +21,7 @@ policy-Bookmarks = Permet de crear de marcapaginas dins la barra personala, lo m
 policy-CaptivePortal = Activar o desactivar lo portanèl de connexion.
 policy-CertificatesDescription = Apondre de certificats o utilizar de certificats predefinits.
 policy-Cookies = Permet o defend als sites de definir de cookies.
+policy-DisabledCiphers = Desactivar los chiframents.
 policy-DefaultDownloadDirectory = Definir lo dossièr de telecargament per defaut
 policy-DisableAppUpdate = Empacha lo navigador de se metre a jorn.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.

@@ -642,6 +642,7 @@ prefs-syncing-off = Sincronizacion : DESACTIVADA
 prefs-sync-setup =
     .label = Configurar { -sync-brand-short-name }…
     .accesskey = C
+prefs-sync-offer-setup-label = Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ara
     .accesskeynotsyncing = n
