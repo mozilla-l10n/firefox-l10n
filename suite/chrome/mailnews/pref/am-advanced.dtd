@@ -16,6 +16,7 @@
 <!ENTITY smtpListSetDefault.label "Aseta oletukseksi">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "Valitun palvelimen tiedot:">
 <!ENTITY serverDescription.label "Kuvaus: ">
 <!ENTITY serverName.label "Palvelimen osoite: ">
 <!ENTITY serverPort.label "Portti: ">

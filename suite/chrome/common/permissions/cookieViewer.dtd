@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Etsi">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Nimi:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "Vanhenee:">
 
 <!ENTITY     treehead.sitename.label        "Sivusto">
+<!ENTITY     treehead.scheme.label          "Rakenne">
 <!ENTITY     treehead.status.label          "Tila">
 <!ENTITY     windowtitle.label              "Evästeiden hallinta">
-<!ENTITY     buttonaccept.label             "Sulje">
-<!ENTITY     buttonaccept.accesskey         "u">
 
 <!ENTITY     blockSite.label                "Estä">
 <!ENTITY     blockSite.accesskey            "E">
