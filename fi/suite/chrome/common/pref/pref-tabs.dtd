@@ -12,11 +12,11 @@
 <!ENTITY warnOnClose.label "Varoita, kun yritän sulkea ikkunan, jossa on useita välilehtiä">
 <!ENTITY warnOnClose.accesskey "a">
 <!ENTITY relatedAfterCurrent.label "Avaa linkistä avatut välilehdet nykyisen välilehden viereen">
-<!ENTITY relatedAfterCurrent.accesskey "l">
+<!ENTITY relatedAfterCurrent.accesskey "n">
 
 <!ENTITY loadGroup.label "Kirjanmerkkiryhmää avattaessa">
 <!ENTITY loadGroupAppend.label "Käytä uusia välilehtiä">
-<!ENTITY loadGroupAppend.accesskey "ä">
+<!ENTITY loadGroupAppend.accesskey "u">
 <!ENTITY loadGroupReplace.label "Käytä vanhoja välilehtiä">
 <!ENTITY loadGroupReplace.accesskey "y">
 
