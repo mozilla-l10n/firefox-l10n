@@ -246,6 +246,12 @@ addon-open-about-debugging = Desbugar los moduls
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Gerir los acorchis d’extensions
+    .accesskey = G
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gerir los acorchis d’extensions
+    .accesskey = G
 shortcuts-no-addons = Avètz pas cap d'extension activada.
 shortcuts-no-commands = Las extensions seguentas an pas d’acorchi :
 shortcuts-input =
@@ -261,12 +267,21 @@ shortcuts-letter = Picatz una letra
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Ja utilizat per { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Ne veire { $numberToShow } mai
+       *[other] Ne veire { $numberToShow } mai
+    }
 shortcuts-card-collapse-button = Ne veire mens
 go-back-button =
     .tooltiptext = Tornar
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Unas d'aquestas recomandacions son personalizadas. Son basadas sus d'autras¶
+    extensions qu'avètz installadas, las preferéncias del perfil e las estatisticas d'utilizacion.
 discopane-notice-learn-more = Ne saber mai
 privacy-policy = Politica de confidencialitat
 # Refers to the author of an add-on, shown below the name of the add-on.

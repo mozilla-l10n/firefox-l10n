@@ -77,6 +77,8 @@ about-debugging-refresh-usb-devices-button = Actualizar los periferics
 
 # Title of the Setup page.
 about-debugging-setup-title = Configuracion
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Configuratz lo metòde de connexion que volètz emplegar per desbugar a distància vòstre periferic.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Connectar un periferic
 # USB section of the Setup page
@@ -98,6 +100,9 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Activar lo menú Desvolopaire 
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Emplaçament ret
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Avètz de problèma per vos connectar via l’emplaçament ret ? <a>Resolucion de problèmas</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Apondre
@@ -143,10 +148,14 @@ about-debugging-runtime-other-workers =
     .name = Autres Workers
 # Title of the processes category.
 about-debugging-runtime-processes =
-    .name = Processus
+    .name = Processús
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Crear un perfil de las performanças
+# This string is displayed in the runtime page if the current configuration of the
+# target runtime is incompatible with service workers. "Learn more" points to MDN.
+# https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
+about-debugging-runtime-service-workers-not-compatible = La configuracion del navegador es pas compatibla amb los Service Workers. <a>Ne saber mai</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -154,6 +163,14 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Se desconectar
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Activar la demanda de connexion
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Desactivar la demanda de connexion
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Perfilaire
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
