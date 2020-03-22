@@ -6,5 +6,6 @@ fxa-pair-device-dialog =
     .title = Connectar un autre periferic
     .style = width: 26em; min-height: 35em;
 fxa-qrcode-heading-phase1 = 1. S’es pas encara fach, installatz <a data-l10n-name="connect-another-device">Firefox sus vòstre periferic mobil</a>.
+fxa-qrcode-heading-phase2 = 2. Puèi connectatz-vos a { -sync-brand-short-name } o sos Android escanerizatz lo còdi d’associacion dels paramètres de { -sync-brand-short-name } estant.
 fxa-qrcode-error-title = Fracàs de l’associacion.
 fxa-qrcode-error-body = Tornar ensajar
