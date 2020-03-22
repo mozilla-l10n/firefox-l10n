@@ -419,10 +419,10 @@ browsing-cfr-recommendations-learn-more = Ne saber mai
 ## General Section - Proxy
 
 network-settings-title = Paramètres ret
-network-proxy-connection-description = Configurar la biais de { -brand-short-name } de se connectar a Internet.
+network-proxy-connection-description = Configurar lo biais de { -brand-short-name } de se connectar a Internet.
 network-proxy-connection-learn-more = Ne saber mai
 network-proxy-connection-settings =
-    .label = …Paramètres…
+    .label = Paramètres…
     .accesskey = e
 
 ## Home Section
