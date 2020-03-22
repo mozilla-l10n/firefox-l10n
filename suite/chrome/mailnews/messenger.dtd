@@ -13,7 +13,7 @@
 <!ENTITY tabmailCloseButton.tooltip "Sulje avoin välilehti">
 <!ENTITY tabmailAllTabs.tooltip "Luetteloi kaikki välilehdet">
 
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
 <!ENTITY newMessage.label "Uusi viesti">
@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "Nimeä kansio uudelleen…">
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY compactFolders.label "Tiivistä kansiot">
-<!ENTITY compactFolders.accesskey		"v">
+<!ENTITY compactFolders.accesskey "v">
 <!ENTITY emptyTrashCmd.label "Tyhjennä roskakori">
-<!ENTITY emptyTrashCmd.accesskey		"y">
+<!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Yhteydetön tila">
 <!ENTITY offlineMenu.accesskey "h">
 <!ENTITY synchronizeOfflineCmd.label "Nouda tai synkronoi nyt…">
@@ -94,6 +94,8 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Lipulla merkityt viestit">
 <!ENTITY selectFlaggedCmd.accesskey "L">
+<!ENTITY menuFavoriteFolder.label "Suosikkikansio">
+<!ENTITY menuFavoriteFolder.accesskey "u">
 <!ENTITY folderPropsCmd.label "Ominaisuudet…">
 <!ENTITY folderPropsFolderCmd.label "Kansion ominaisuudet…">
 <!ENTITY folderPropsNewsgroupCmd.label "Keskusteluryhmän ominaisuudet…">
@@ -133,6 +135,10 @@
 <!ENTITY showThreadPaneCmd.accesskey "i">
 <!ENTITY showFolderPaneCmd.label "Kansioruutu">
 <!ENTITY showFolderPaneCmd.accesskey "K">
+
+<!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
+     mac platform, other platforms use VK_F9. -->
+<!ENTITY toggleFolderPaneCmd.key "S">
 
 <!-- sortMenu is also used by addressbook -->
 <!ENTITY sortMenu.label "Lajitteluperuste">
@@ -272,6 +278,8 @@
 <!ENTITY goForwardCmd.commandKey "Ä">
 <!ENTITY prevFlaggedMsgCmd.label "Lipulla merkitty viesti">
 <!ENTITY prevFlaggedMsgCmd.accesskey "L">
+<!ENTITY folderMenu.label "Kansio">
+<!ENTITY folderMenu.accesskey "o">
 <!ENTITY startPageCmd.label "Aloitussivu">
 <!ENTITY startPageCmd.accesskey "A">
 
@@ -284,23 +292,23 @@
 <!ENTITY newNewMsgCmd.accesskey "V">
 <!ENTITY replyMsgCmd.label "Vastaa">
 <!ENTITY replyMsgCmd.accesskey "V">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Vastaa listalle">
 <!ENTITY replyListCmd.accesskey "i">
+<!ENTITY replyNewsgroupCmd.label "Vastaa keskusteluryhmään">
+<!ENTITY replyNewsgroupCmd.accesskey "y">
 <!ENTITY replySenderCmd.label "Vastaa lähettäjälle">
 <!ENTITY replySenderCmd.accesskey "V">
-<!ENTITY replyNewsgroupCmd.label "Vastaa keskusteluryhmään">
-<!ENTITY replyNewsgroupCmd.accesskey	"y">
 <!ENTITY replyToAllMsgCmd.label "Vastaa kaikille">
-<!ENTITY replyToAllMsgCmd.accesskey	"e">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "e">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Vastaa molempiin">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Vastaa kaikille vastaanottajille">
 <!ENTITY replyToAllRecipientsCmd.accesskey "n">
 <!ENTITY forwardMsgCmd.label "Välitä">
 <!ENTITY forwardMsgCmd.accesskey "ä">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Välitä muodossa">
 <!ENTITY forwardAsMenu.accesskey "i">
 <!ENTITY forwardAsInline.label "Viestiin sisällytettynä">
@@ -442,11 +450,18 @@
 <!ENTITY markButton.tooltip "Merkitse viestit">
 <!ENTITY stopButton.tooltip "Keskeytä lataus">
 <!ENTITY throbber.tooltip "Siirry &vendorShortName;n kotisivulle">
+<!ENTITY throbber.tooltip2 "Siirry &brandShortName;:n kotisivulle">
 <!ENTITY junkButton.tooltip "Merkitse valitut viestit roskapostiksi">
 <!ENTITY notJunkButton.tooltip "Merkitse valitut viestit ei roskapostiksi">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Näytä etäsisältö tässä viestissä">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "e">
+<!ENTITY editRemoteContentSettings.label "Muokkaa etäsisällön käyttöoikeuksia…">
+<!ENTITY editRemoteContentSettings.accesskey "M">
+
 <!-- Statusbar -->
-<!ENTITY  statusText.label "Valmis">
+<!ENTITY statusText.label "Valmis">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Avaa uuteen ikkunaan">
@@ -477,6 +492,8 @@
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Tuoreet">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "T">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Suosikit">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "S">
 <!ENTITY contextSaveAs.label "Tallenna nimellä…">
 <!ENTITY contextSaveAs.accesskey "T">
 <!ENTITY contextPrint.label "Tulosta…">
@@ -517,6 +534,8 @@
 <!ENTITY folderContextSearchMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Ominaisuudet…">
 <!ENTITY folderContextProperties.accesskey "O">
+<!ENTITY folderContextFavoriteFolder.label "Suosikkikansio">
+<!ENTITY folderContextFavoriteFolder.accesskey "u">
 <!ENTITY folderContextSettings.label "Asetukset…">
 <!ENTITY folderContextSettings.accesskey "e">
 

@@ -114,6 +114,7 @@
 <!ENTITY mediaPlaybackRate050.accesskey "H">
 <!ENTITY mediaPlaybackRate100.label     "Normaali">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate125.accesskey "N">
 <!ENTITY mediaPlaybackRate150.label     "Nopeutettu (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "o">
 <!ENTITY mediaPlaybackRate200.label     "Kaksinkertainen">
@@ -163,3 +164,4 @@ items are mutually exclusive. -->
 <!ENTITY viewSavedLogins.label        "Näytä tallennetut kirjautumistiedot">
 
 <!-- Developer Tools -->
+<!ENTITY devtoolsInspect.accesskey      "n">
