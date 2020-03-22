@@ -45,13 +45,13 @@
 <!ENTITY cmd.deleteDomainData.accesskey "D">
 
 <!ENTITY cmd.open.label                  "Dobrir">
-<!ENTITY cmd.open.accesskey              "o">
+<!ENTITY cmd.open.accesskey              "D">
 <!ENTITY cmd.open_window.label           "Dobrir dins una fenèstra novèla">
-<!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_window.accesskey       "f">
 <!ENTITY cmd.open_private_window.label     "Dobrir lo ligam dins una novèla fenèstra privada">
 <!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Dobrir dins un onglet novèl">
-<!ENTITY cmd.open_tab.accesskey          "v">
+<!ENTITY cmd.open_tab.accesskey          "o">
 <!ENTITY cmd.open_all_in_tabs.label      "Tot dobrir dins d'onglets">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
