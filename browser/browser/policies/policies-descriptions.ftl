@@ -22,6 +22,7 @@ policy-Bookmarks = Lesezeichen erstellen in der Lesezeichen-Symbolleiste, im Les
 policy-CaptivePortal = Erkennung von Anmelde- oder Bestätigungspflicht für Internetzugriff aktivieren oder deaktivieren
 policy-CertificatesDescription = Zertifikate hinzufügen oder eingebaute Zertifikate verwenden
 policy-Cookies = Cookies setzen durch Websites erlauben oder verbieten
+policy-DisabledCiphers = Chiffren deaktivieren
 policy-DefaultDownloadDirectory = Standardordner für Downloads festlegen
 policy-DisableAppUpdate = Browser-Updates deaktivieren
 policy-DisableBuiltinPDFViewer = Eingebauten PDF-Betrachter von { -brand-short-name } (PDF.js) deaktivieren
