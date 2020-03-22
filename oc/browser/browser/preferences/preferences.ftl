@@ -348,6 +348,7 @@ update-application-check-choose =
 update-application-manual =
     .label = Verificar pas jamai las mesas a jorns (pas recomandat)
     .accesskey = N
+update-application-warning-cross-user-setting = Aqueste paramètres s’aplicarà a totes los comptes Windows e perfils { -brand-short-name } qu’utilizant aquesta installacion de { -brand-short-name }.
 update-application-use-service =
     .label = Utilizar un servici en rèireplan per installar las mesas a jorn
     .accesskey = z
@@ -837,6 +838,7 @@ sitedata-learn-more = Ne saber mai
 sitedata-delete-on-close =
     .label = Suprimir los cookies e donadas de sites en tampar { -brand-short-name }
     .accesskey = c
+sitedata-delete-on-close-private-browsing = En mòde de navegacion privada permanent, los cookies e las donadas de sites son totjorn escafats a la tampadura de { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Acceptar los cookies e dondas de site
     .accesskey = A
@@ -887,6 +889,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocatge de contengut
+content-blocking-section-description = Protegissètz vòstra vida privada pendent vòstra navegacion. Blocatz los contenguts invisibles que vos pistan de site en site e dessenhan vòstre perfil. Lo blocatge d’aqueste contengut pòt far venir mai rapid lo cargament de las paginas.
 content-blocking-enhanced-tracking-protection = Proteccion contra lo seguiment renfortida
 content-blocking-section-top-level-description = Los traçadors vos pistan en linha per reculhir d’informacions sus vòstras abituds de navegacion e vòstres interèsses. { -brand-short-name } bloca fòrça d’aqueles elements de seguiment e scripts malvolents.
 content-blocking-learn-more = Ne saber mai

@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Lista del blocatge
     .style = width: 55em
+blocklist-description = Causissètz quina lista { -brand-short-name } utiliza per blocar los traçadors en linha. Las listas venon de <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
