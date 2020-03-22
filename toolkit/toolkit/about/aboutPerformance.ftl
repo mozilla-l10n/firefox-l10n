@@ -62,5 +62,5 @@ show-addon =
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
     .title =
-        Execucions dempuèi lo cargament : { $totalDispatches } ({ $totalDuration }ms) ¶
+        Execucions dempuèi lo cargament : { $totalDispatches } ({ $totalDuration }ms) 
         Execucions dins las darrièras segondas : { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
