@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "M">
 <!ENTITY  newContactCmd.label "Adressebogskontakt…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Åbn">
+<!ENTITY openMenuCmd.accesskey "Å">
 <!ENTITY openMessageFileCmd.label "Åbn gemt meddelelse…">
 <!ENTITY openMessageFileCmd.accesskey "g">
 <!ENTITY saveAsMenu.label "Gem som">
