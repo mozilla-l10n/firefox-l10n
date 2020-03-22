@@ -85,7 +85,10 @@ lockwise-connected-device-status =
     }
 monitor-title = Gardatz un uèlh sus las pèrdas de donadas
 monitor-link = Cossí fonciona
+monitor-header-content-no-account = Consultatz { -monitor-brand-name } per verificar s’una pèrda de donadas vos concernís e per recebre d’alèrtas en cas de nòvas pèrdas.
+monitor-header-content-signed-in = { -monitor-brand-name } vos avisa se vòstras informacions apareisson dins una pèrda de donadas coneguda.
 monitor-sign-up = S’inscriure a las alèrtas de pèrdas de donadas
+auto-scan = Automaticament verificat uèi
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -93,6 +96,22 @@ info-monitored-emails =
     { $count ->
         [one] adreça electronica supervisada
        *[other] adreças electronicas supervisadas
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] pèrda de donadas a divulgat vòstras informacions
+       *[other] pèrdas de donadas an divulgat vòstras informacions
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] senhal divulgat demest totas las pèrdas de donadas
+       *[other] senhals divulgats demest totas las pèrdas de donadas
     }
 full-report-link = Constulatz lo rapòrt complet sus <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
