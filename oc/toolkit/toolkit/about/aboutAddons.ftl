@@ -91,9 +91,16 @@ detail-update-manual =
     .tooltiptext = Installa pas automaticament las mesas a jorn
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executar en fenèstras privadas
+detail-private-browsing-description2 = Quand es autorizada, l'extension aurà accès a vòstras activitats en linha pendent la navegacion privada. <label data-l10n-name="detail-private-navigation-learn-more">Ne saber mai</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Pas autorizat en fenèstras privadas
+detail-private-disallowed-description = Aquesta extension fonciona pas pendent la navegacion privada. <label data-l10n-name="detail-private-navigation-learn-more">Ne saber mai</label>
+detail-private-disallowed-description2 = Aquesta extension fonciona pas pendent la navegacion privada. <a data-l10n-name="learn-more">Ne saber mai</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Requerís l'accès a las fenèstras privadas
+detail-private-required-description = Aquesta extension a accès a vòstras activitats en linha pendent la navegacion privada. <label data-l10n-name="detail-private-navigation-learn-more">Ne saber mai</label>
+detail-private-required-description2 = Aquesta extension a accès a vòstras activitats en linha pendent la navegacion privada. <a data-l10n-name="learn-more">Ne saber mai</a>
 detail-home =
     .label = Pagina d'acuèlh
 detail-home-value =
@@ -136,6 +143,12 @@ legacy-warning-show-legacy = Afichar las extensions obsolètas
 legacy-extensions =
     .value = Extensions obsolètas
 legacy-extensions-description = Aquestas extensions respèctan pas los estandards actuals de { -brand-short-name } e son estadas desactivadas. <label data-l10n-name="legacy-learn-more">Ne saber mai suls cambiaments dels moduls</label>
+private-browsing-description2 =
+    { -brand-short-name } modifica lo foncionament de las extensions dins la navegation privada. Cap de las novèlas extensions qu'apondètz a¶
+    { -brand-short-name } serà pas executada per defaut dins una fenèstra privada. Levat se l'autorisatz dins los paramètres,¶
+    l'extension foncionarà pas pendent la navegation privada e aurà pas accès a vòstras activitats en linha¶
+    Avèm aportat aquesta modificacion per gardar vòstra navigacion privada privada.¶
+    <label data-l10n-name="private-navigation-learn-more">Aprenètz a gerir los paramètres d'extension</label>
 extensions-view-discopane =
     .name = Recomandacions
     .tooltiptext = { extensions-view-discopane.name }
@@ -263,6 +276,7 @@ shortcuts-modifier-mac = Inclure Ctrl, Alt o ⌘
 shortcuts-modifier-other = Inclure Ctrl o Alt
 shortcuts-invalid = Combinason invalida
 shortcuts-letter = Picatz una letra
+shortcuts-system = Impossible de remplaçar un acorchi clavièr de { -brand-short-name }
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
