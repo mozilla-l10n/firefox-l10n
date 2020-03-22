@@ -7,17 +7,20 @@
 <!ENTITY menu_securityEncryptRequire.label "Krypter meddelelsen">
 
 <!ENTITY menu_securityDoNotEncrypt.label "Krypter ikke">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "r">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Kræv kryptering">
 <!ENTITY menu_securityEncryptRequire.accesskey "y">
 
 <!ENTITY menu_securitySign.label "Underskriv meddelelsen digitalt">
 <!ENTITY menu_securitySign.accesskey "U">
 
+<!ENTITY menu_securityAttachMyKey.label "Vedhæft min offentlige nøgle">
 
 
 <!ENTITY menu_techPGP.label "OpenPGP">
