@@ -72,6 +72,20 @@ abuse-report-broken-reason-extension = Fonciona pas, còpa los sites web, o alen
 abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
 abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
 abuse-report-broken-example = Exemple : las foncionalitats son lentas, malaisidas d’utilizar o foncionan pas ; unas partidas dels sites Web se cargan pas o an una aparéncia inabituala.
+abuse-report-broken-suggestions-extension =
+    Sembla qu'avètz identificar un bug. En mai de sometre un rapòrt aquí, lo melhor biais
+    per resòlvre un problèma de foncionalitat es de contactar lo desvolopaire de l'extension.
+    <a data-l10n-name="support-link">Consultatz lo site Web de l'extension</a> per obténer las informacions sul desvolopaire.
+abuse-report-broken-suggestions-theme =
+    Sembla qu'avètz identificar un bug. En mai de sometre un rapòrt aquí, lo melhor biais
+    per resòlvre un problèma de foncionalitat es de contactar lo desvolopaire del tèma.
+    <a data-l10n-name="support-link">Consultatz lo site Web del tèma</a> per obténer las informacions suls desvolopaires.
+abuse-report-policy-reason = Contengut asirós, violent o illegal
+abuse-report-policy-reason-v2 = Conten de contengut asirós, violent o illegal
+abuse-report-policy-suggestions =
+    Remarca : los problèmas de drech d'autor e de marca devon èsser senhalats dins un processús diferent.
+    <a data-l10n-name="report-infringement-link">Utilisatz aquestas instruccions</a> per
+    senhalar lo problèma.
 abuse-report-unwanted-reason = Ai pas jamai volgut aquesta extension e pòdi pas me‘n desfar
 abuse-report-unwanted-reason-v2 = Ai pas jamai volgut aquò e sabi pas cossí me’n desfar
 abuse-report-unwanted-example = Exemple : una aplicacion l’installèt sens ma permission

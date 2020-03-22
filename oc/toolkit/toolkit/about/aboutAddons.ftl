@@ -144,10 +144,10 @@ legacy-extensions =
     .value = Extensions obsolètas
 legacy-extensions-description = Aquestas extensions respèctan pas los estandards actuals de { -brand-short-name } e son estadas desactivadas. <label data-l10n-name="legacy-learn-more">Ne saber mai suls cambiaments dels moduls</label>
 private-browsing-description2 =
-    { -brand-short-name } modifica lo foncionament de las extensions dins la navegation privada. Cap de las novèlas extensions qu'apondètz a¶
-    { -brand-short-name } serà pas executada per defaut dins una fenèstra privada. Levat se l'autorisatz dins los paramètres,¶
-    l'extension foncionarà pas pendent la navegation privada e aurà pas accès a vòstras activitats en linha¶
-    Avèm aportat aquesta modificacion per gardar vòstra navigacion privada privada.¶
+    { -brand-short-name } modifica lo foncionament de las extensions dins la navegacion privada. Cap de las novèlas extensions qu'apondètz a
+    { -brand-short-name } serà pas executada per defaut dins una fenèstra privada. Levat se l'autorisatz dins los paramètres,
+    l'extension foncionarà pas pendent la navegacion privada e aurà pas accès a vòstras activitats en linha
+    Avèm aportat aquesta modificacion per gardar vòstra navigacion privada privada.
     <label data-l10n-name="private-navigation-learn-more">Aprenètz a gerir los paramètres d'extension</label>
 extensions-view-discopane =
     .name = Recomandacions
@@ -277,6 +277,12 @@ shortcuts-modifier-other = Inclure Ctrl o Alt
 shortcuts-invalid = Combinason invalida
 shortcuts-letter = Picatz una letra
 shortcuts-system = Impossible de remplaçar un acorchi clavièr de { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Acorchi en doble
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } es utilizat coma acorchi dins mai d'un cas. De acorchis en doble pòdon provocar un compòrtament inesperat.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -292,9 +298,19 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Las extensions e los tèmas son coma d'aplicacions per vòstre navegador, e vos permeton de
+    protegir los senhals, telecargar de vidèos, trobar d'ofèrtas, blocar las publicitats tediosas,
+    cambiar l'aparéncia de vòstre navegador, e plan mai encara. Aquestes pichons logicials
+    son sovent desvolopats per un tèrç. Vaquí una seleccion { -brand-product-name } 
+    
+    <a data-l10n-name="learn-more-trigger">, se recomanda </a> per de  foncionalitats
+    de securitat e performanças excepcionalas.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
-    Unas d'aquestas recomandacions son personalizadas. Son basadas sus d'autras¶
+    Unas d'aquestas recomandacions son personalizadas. Son basadas sus d'autras
     extensions qu'avètz installadas, las preferéncias del perfil e las estatisticas d'utilizacion.
 discopane-notice-learn-more = Ne saber mai
 privacy-policy = Politica de confidencialitat
