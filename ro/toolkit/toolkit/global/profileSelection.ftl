@@ -10,3 +10,6 @@ profile-selection-button-accept =
 profile-manager-work-offline =
     .label = Lucrează offline
     .accesskey = o
+profile-manager-use-selected =
+    .label = Utilizează profilul selectat fără a mai întreba la pornire
+    .accesskey = s
