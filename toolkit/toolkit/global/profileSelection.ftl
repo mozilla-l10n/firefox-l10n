@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-selection-window =
+    .title = { -brand-short-name } - பயனர் சுயவிவரத்தைத் தேர்வு செய்க
 profile-selection-button-accept =
     .label = { -brand-short-name } ஐ துவக்கு
 profile-selection-button-cancel =
