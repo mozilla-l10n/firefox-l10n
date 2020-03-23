@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name }-ല്‍ നിങ്ങള
 profile-manager-work-offline =
     .label = ഓഫ്‌ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുക
     .accesskey = o
+profile-manager-use-selected =
+    .label = ആരംഭത്തില്‍ ചോദിയ്ക്കാതെ തെരഞ്ഞെടുത്ത പ്രൊഫൈല്‍ ഉപയോഗിയ്ക്കുക
+    .accesskey = ഉ
