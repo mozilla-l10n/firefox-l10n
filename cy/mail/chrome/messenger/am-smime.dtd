@@ -74,3 +74,4 @@
 
 <!ENTITY openpgpKey.message "Allwedd bersonol ar gyfer amgryptio a llofnodi digidol:">
 <!ENTITY openpgpKey.button "Gosod Allwedd Bersonol…">
+<!ENTITY openpgpKey.accesskey "G">
