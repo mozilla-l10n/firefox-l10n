@@ -917,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Perqué ?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Bocar aquestes elements pòt far foncionar incorrèctament qualques sites. Sens traçadors, qualques botons, formularis o camps de connexion poirián foncionar pas.">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Totes los traçadors sus aqueste site son estats cargats perque las proteccions son desactivadas.">
 <!ENTITY protections.noTrackersFound.description "Cap de traçadors coneguts per &brandShortName; pas detectat sus aquesta pagina.">
 
@@ -985,6 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Senhalar un problèma">
 <!ENTITY contentBlocking.breakageReportView.label "Senhalar de problèmas">
+<!ENTITY contentBlocking.breakageReportView2.description "Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar &brandShortName; per totes. Amb lo rapòrt serà tanben junta l’URL e d’informacions sus las preferéncias del navegador.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ne saber mai">
 
 <!ENTITY contentBlocking.breakageReportView.title "Senhalar un site copat">
@@ -1032,6 +1034,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "Telecargar la mesa a jorn de &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Podètz pas installar mai de mesas a jorn">
 <!ENTITY updateRestart.panelUI.label2 "Reaviar per metre a jorn &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "La pagina Onglet novèls es estada cambiada.">
