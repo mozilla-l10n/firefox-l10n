@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Dobrir las preferéncias de sincronizacion">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectatz-vos per veire una lista d'onglets dels vòstres autres periferics.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Mostrar la lista dels onglets de vòstres autres periferics.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal verificar vòstre compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Se connectar a Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Se connectar a &syncBrand.shortName.label;…">
@@ -917,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Aquestes cookies vos seguisson de site en site per amassar de donadas sus vòstre compòrtament en linha. Son depausats per de companhiás de publicitat o d’analisi.">
 <!ENTITY protections.cryptominers.description "Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la bateria, alentisson l’ordenador e aumentan vòstra factura d’electricitat.">
 <!ENTITY protections.fingerprinters.description "Los generadors d’emprentas numericas reculhisson los paramètres del navegador e de l’ordenador per crear un perfil vòstre. En utilizant aquesta emprenta numerica vos pòdon seguir de site en site.">
+<!ENTITY protections.trackingContent2.description "Los sites web pòdon cargar de reclamas, de vidèos e d’autres contenguts extèrns amb un d’elements de seguiment. Lo blocatge del contengut utilizat contra lo seguiment pòt accelerar lo cargament, mas es possible que unes botons, formularis o camps de connexion foncionen pas">
 <!ENTITY protections.socialMediaTrackers.description "Los malhums socials plaçan de traçadors suls sites web per seguir çò que fasètz, vesètz e agachatz en linha. Aquò permet a las companhiás de malhums socials de ne saber mai sus vos al delà de çò que partejatz sus vòstre perfil de malhum social.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -981,6 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ne saber mai">
 
 <!ENTITY contentBlocking.breakageReportView.title "Senhalar un site copat">
+<!ENTITY contentBlocking.breakageReportView3.description "Lo blocatge d’unes traçadors pòt causar de problèmas amb qualques sites web. En senhalant aquestes problèmas ajudatz a melhorar &brandShortName; per totes. Amb lo rapòrt serà tanben junta l’URL e d’informacions sus las preferéncias del navegador.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Ne saber mai">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Qué problèma avètz agut ? (Opcional)">
