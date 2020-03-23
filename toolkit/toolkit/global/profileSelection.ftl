@@ -2,10 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-selection-window =
+    .title = { -brand-short-name } - Chọn hồ sơ người dùng
 profile-selection-button-accept =
     .label = Khởi động { -brand-short-name }
 profile-selection-button-cancel =
     .label = Thoát
+profile-selection-new-button =
+    .label = Tạo hồ sơ…
+    .accesskey = T
+profile-selection-rename-button =
+    .label = Đổi tên hồ sơ…
+    .accesskey = n
+profile-selection-delete-button =
+    .label = Xóa hồ sơ…
+    .accesskey = X
 
 ## Messages used in the profile manager
 
