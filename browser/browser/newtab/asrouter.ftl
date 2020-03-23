@@ -7,12 +7,12 @@
 
 cfr-doorhanger-extension-heading = ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਇਕਸਟੈਨਸ਼ਨ
 cfr-doorhanger-feature-heading = ਸਿਫਾਰਸ਼ ਕੀਤੇ ਫੀਚਰ
-cfr-doorhanger-pintab-heading = ਇਹ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ: ਪਿੰਨ ਟੈਬ
+cfr-doorhanger-pintab-heading = ਵਰਤ ਕੇ ਵੇਖੋ: ਟੈਬ ਪਿੰਨ ਕਰੋ
 
 ##
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = ਮੈਂ ਇਹ ਕਿਓ ਵੇਖ ਰਿਹਾ/ਰਹੀ ਹਾਂ
+    .tooltiptext = ਮੈਨੂੰ ਇਹ ਕਿਉਂ ਦਿਖਾਈ ਦੇ ਰਿਹਾ ਹੈ
 cfr-doorhanger-extension-cancel-button = ਹੁਣ ਨਹੀਂ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = ਹੁਣੇ ਜੋੜੋ
