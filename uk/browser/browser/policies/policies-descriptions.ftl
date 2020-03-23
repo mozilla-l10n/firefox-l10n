@@ -26,6 +26,7 @@ policy-DisabledCiphers = Вимкнути шифрування.
 policy-DefaultDownloadDirectory = Встановити типову теку для завантажень.
 policy-DisableAppUpdate = Заборонити оновлення браузера
 policy-DisableBuiltinPDFViewer = Вимкнути вбудований PDF.js для перегляду файлів PDF у { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Не допускайте будь-яких дій типового браузерного агента. Стосується лише Windows; інші платформи не мають агента.
 policy-DisableDeveloperTools = Заблокувати доступ до інструментів розробника.
 policy-DisableFeedbackCommands = Вимкнути команди меню Довідка для елементів "Надіслати відгук..." та "Повідомити про шахрайський сайт...".
 policy-DisableFirefoxAccounts = Вимкнути сервіси, пов'язані з { -fxaccount-brand-name(case: "abl") }, включаючи Синхронізацію.
