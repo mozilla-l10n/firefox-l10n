@@ -9,6 +9,7 @@ profile-selection-button-cancel =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } lưu thông tin về các thiết lập, tùy chọn, và các danh mục khác trong hồ sơ người dùng của bạn.
 profile-manager-work-offline =
     .label = Làm việc ngoại tuyến
     .accesskey = v
