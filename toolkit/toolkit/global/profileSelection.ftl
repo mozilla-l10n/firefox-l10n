@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-selection-window =
+    .title = { -brand-short-name } - Wužywaŕski profil wubraś
 profile-selection-button-accept =
     .label = { -brand-short-name } startowaś
 profile-selection-button-cancel =
@@ -18,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } składujo informacije wó wašych nastajenjach, preferencach a drugich wužywaŕskich zapiskach we wašom wužywaŕskem profilu.
+profile-manager-work-offline =
+    .label = Offline źěłaś
+    .accesskey = O
 profile-manager-use-selected =
     .label = Wubrany profil wužywaś, mimo aby se pśi startowanju pšašało
     .accesskey = u
