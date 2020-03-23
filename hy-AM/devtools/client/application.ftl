@@ -85,7 +85,7 @@ manifest-item-icons = Պատկերներ
 # Text displayed while we are loading the manifest file
 manifest-loading = Manifest-ի բեռնում․․․
 # Text displayed when the manifest has been successfully loaded
-manifest-loaded-ok = Manifest-ը բեռված է։
+manifest-loaded-ok = Manifest-ը բեռնված է։
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = Սխալ՝ manifest-ը բեռնելիս․
