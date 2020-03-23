@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } ನಿಮ್ಮ ವೈಯಕ
 profile-manager-work-offline =
     .label = ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು
     .accesskey = o
+profile-manager-use-selected =
+    .label = ಆರಂಭದಲ್ಲಿ ಕೇಳದೆ ಆಯ್ಕೆ ಮಾಡಿದ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಬಳಸು
+    .accesskey = s
