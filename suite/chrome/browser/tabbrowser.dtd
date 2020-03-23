@@ -9,6 +9,11 @@
 <!ENTITY  closeTab.accesskey         "C">
 <!ENTITY  closeOtherTabs.label   "关闭其他标签页">
 <!ENTITY  closeOtherTabs.accesskey         "O">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "关闭右侧标签页">
+<!ENTITY  closeTabsToTheEnd.accesskey "i">
 <!ENTITY  reloadAllTabs.label    "重新载入全部标签页">
 <!ENTITY  reloadAllTabs.accesskey         "A">
 <!ENTITY  reloadTab.label        "重载标签页">
