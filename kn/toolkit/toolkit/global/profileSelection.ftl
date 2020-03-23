@@ -20,6 +20,7 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಸಿದ್ಧತೆಗಳು, ಆದ್ಯತೆಗಳು ಹಾಗು ನಿಮ್ಮ ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿನ ಇನ್ನಿತರೆ  ಅಂಶಗಳನ್ನು ಇರಿಸಿಕೊಳ್ಳುತ್ತದೆ.
 profile-manager-work-offline =
     .label = ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು
     .accesskey = o
