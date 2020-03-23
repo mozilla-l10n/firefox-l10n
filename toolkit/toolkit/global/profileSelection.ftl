@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } speichert Ihre persönlichen
 profile-manager-work-offline =
     .label = Jetzt offline arbeiten
     .accesskey = o
+profile-manager-use-selected =
+    .label = Gewähltes Profil beim Start ohne Nachfrage verwenden
+    .accesskey = S
