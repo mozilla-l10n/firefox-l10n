@@ -62,6 +62,7 @@ policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
 policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari de senhals.
+policy-Permissions2 = Configurar las autorizacions per la camèra, lo microfòn, la localizacion, las notificacions e la lectura automatica.
 policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
 policy-PromptForDownloadLocation = Demandar ont enregistrar los fichièrs pendent lo telecargament.
 policy-Proxy = Configura los paramètres del servidor mandatari.
