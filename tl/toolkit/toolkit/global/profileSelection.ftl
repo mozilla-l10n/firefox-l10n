@@ -20,6 +20,7 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = Ang { -brand-short-name } ay nag-iimbak ng impormasyon tungkol sa iyong mga setting, kagustuhan, at iba pang user item sa iyong personal profile.
 profile-manager-work-offline =
     .label = Matrabaho nang offline
     .accesskey = o
