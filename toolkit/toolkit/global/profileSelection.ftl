@@ -9,3 +9,6 @@ profile-selection-button-cancel =
 
 ## Messages used in the profile manager
 
+profile-manager-use-selected =
+    .label = మొదలయ్యేప్పుడు అడగకుండా ఎంచుకున్న ప్రొఫైలుని వాడు
+    .accesskey = s
