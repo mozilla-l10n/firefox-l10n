@@ -21,3 +21,9 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } आपकी सेटिंग सूचना, वरीयतायें एवं अन्य उपयोक्ता वस्तुओं को आपके उपयोक्ता प्रोफाइल में सहेजता है.
+profile-manager-work-offline =
+    .label = ऑफ़लाइन कार्य
+    .accesskey = o
+profile-manager-use-selected =
+    .label = स्टार्टअप पर बिना पूछे चुनें प्रोफ़ाइल का उपयोग करें
+    .accesskey = s
