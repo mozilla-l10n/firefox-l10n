@@ -360,6 +360,14 @@ update-pref-write-failure-title = Fracàs d’escritura
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Enregistrament impossible de las preferéncias. Impossible d’escriure dins lo fichièr : { $path }
 update-setting-write-failure-title = Error en enregistrar las preferéncias de mesas a jorn
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } a rescontrat una error e pas enregistrat aquesta modificacion. Notatz que modificar aqueste preferéncia de mesa a jorn requerís la permission d’escriure sul fichièr çai-jos. Vosautres o un administrator sistèma podètz benlèu corregir aquò en donant al grop Users l’accès complèt a aqueste fichièr.
+    
+    Escritura impossibla sul fichièr : { $path }
 update-in-progress-title = Actualizacion en cors
 update-in-progress-message = Volètz que { -brand-short-name } contunhe amb aquesta mesa a jorn ?
 update-in-progress-ok-button = &Ignorar
@@ -1112,6 +1120,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] D
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } manca d’espaci disc. Lo contengut dels sites web poiriá s’afichar mal. Podètz escafar las donadas de site enregistradas dins Opcions > Vida privada e seguretat > Cookies e donadas de sites.
+       *[other] { -brand-short-name } manca d’espaci disc. Lo contengut dels sites web poiriá s’afichar mal. Podètz escafar las donadas de site enregistradas dins Preferéncias > Vida privada e seguretat > Cookies e donadas de sites.
+    }
 space-alert-under-5gb-ok-button =
     .label = Òc, plan comprés
     .accesskey = O
