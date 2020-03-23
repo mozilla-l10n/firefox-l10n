@@ -20,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = El { -brand-short-name } emmagatzema informació sobre els vostres paràmetres, preferències i altres elements de l'usuari al vostre perfil d'usuari.
 profile-manager-work-offline =
     .label = Treballa fora de línia
     .accesskey = f
+profile-manager-use-selected =
+    .label = Utilitza el perfil seleccionat sense demanar-ho a l'inici
+    .accesskey = U
