@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profile-selection-window =
+    .title = { -brand-short-name } – პროფილის არჩევა
+profile-selection-button-accept =
+    .label = გაეშვას { -brand-short-name }
 profile-selection-button-cancel =
     .label = გასვლა
 profile-selection-new-button =
