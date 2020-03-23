@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = 欢迎使用 { -brand-full-name }
+setup-title = 选择要设置的账户
 about-title = 关于 { -brand-full-name }
 resources-title = 资源
 release-notes =
@@ -16,6 +17,9 @@ calendar-description = { -brand-short-name } 可让您轻松管理日历。若�
 chat-label = 聊天
     .aria-label = 连接到您的聊天账户
 chat-description = { -brand-short-name } 可让您连接不同平台的多个即时通信账户。
+filelink-label = 文件快传
+    .aria-label = 设置文件快传
+filelink-description = { -brand-short-name } 可让您设置方便易用的文件快传云账户，轻松发送大型附件。
 addressbook-label = 通讯录
     .aria-label = 创建新通讯录
 addressbook-description = { -brand-short-name } 可让您在通讯录中管理所有联系人信息。您也可以连接到远程通讯录同步所有联系人数据。
@@ -30,6 +34,7 @@ import-paragraph = { -brand-short-name } 可让您从其他程序导入邮件消
 import-label = 导入
     .aria-label = 从其他程序导入数据
 about-paragraph = Thunderbird 是领先的开源、跨平台电子邮件和日历客户端，免费供企业和个人使用。我们希望它保持安全和变得更好。通过捐款，您可帮助我们聘请更多工程师、支付基础设施费用，并不断改进。
+about-paragraph-2 = <b>Thunderbird 的发展离不开您的资助！若您也喜欢 Thunderbird，请捐款支持我们。</b>能够确保 Thunderbird 持续发展的最好方式就是
 about-donation = 向我们捐款
 explore-link = 探索功能
 support-link = 用户支持
