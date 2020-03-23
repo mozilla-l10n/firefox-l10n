@@ -20,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } ги чува информациите за вашите поставки и параметри во вашиот кориснички профил.
 profile-manager-work-offline =
     .label = Работи локално
     .accesskey = о
+profile-manager-use-selected =
+    .label = Користи го избраниот профил при стартувањето без прашување
+    .accesskey = с
