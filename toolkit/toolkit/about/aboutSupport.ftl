@@ -199,7 +199,7 @@ pending-reports =
        *[other] Վթարի բոլոր զեկույցները (ներառյալ նշված ժամանակում { $reports } սպասող վթարներ)
     }
 raw-data-copied = Չմշակված տվյալները պատճենվել են մեկուսաշրջույթ
-text-copied = Տեքստը պատճենված է
+text-copied = Տեքստը պատճենուած է
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 

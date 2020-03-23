@@ -247,7 +247,7 @@ about-debugging-extension-manifest-url =
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
-    .label = Նիրքին UUID
+    .label = Ներքին UUID
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
