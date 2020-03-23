@@ -21,3 +21,9 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } stoor inligting oor u opstelling, voorkeure, en ander gebruikeritems in u gebruikerprofiel.
+profile-manager-work-offline =
+    .label = Werk vanlyn
+    .accesskey = e
+profile-manager-use-selected =
+    .label = Gebruik die gekose profiel sonder om te vra by aanvang
+    .accesskey = s
