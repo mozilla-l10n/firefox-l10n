@@ -35,6 +35,10 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "Truy cập tập tin bị từ chối">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Nó có thể đã bị xóa, chuyển đi, hay quyền truy cập tập tin đã bị chặn.</li>
+</ul>">
 
 <!ENTITY generic.title "Oái.">
 <!ENTITY generic.longDesc "
@@ -83,6 +87,10 @@
 <!ENTITY netTimeout.title "Đã hết thời gian kết nối">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Không nhận dạng được địa chỉ này">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+  <li>Bạn có thể cần cài đặt phần mềm khác để mở địa chỉ này.</li>
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Máy chủ proxy từ chối kết nối">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -117,6 +125,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Kết nối An toàn bị Thất bại">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>Không thể hiển thị trang bạn đang cố xem vì tính xác thực của dữ liệu nhận được không thể được xác minh.</li>
+  <li>Vui lòng liên hệ với chủ sở hữu trang web để thông báo cho họ về vấn đề này.</li>
+</ul>">
 
 <!ENTITY nssBadCert.title "Kết nối an toàn bị thất bại">
 <!ENTITY nssBadCert.longDesc2 "
@@ -133,6 +145,7 @@
   <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc chắn rằng &brandShortName; được phép truy cập Web.</li>
 </ul>
 ">
+
 
 
 
