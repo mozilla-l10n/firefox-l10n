@@ -8,6 +8,9 @@ profile-selection-button-accept =
     .label = Start { -brand-short-name }
 profile-selection-button-cancel =
     .label = Avslutt
+profile-selection-delete-button =
+    .label = Slett profil…
+    .accesskey = S
 
 ## Messages used in the profile manager
 
