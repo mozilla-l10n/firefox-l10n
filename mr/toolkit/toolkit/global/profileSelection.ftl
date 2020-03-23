@@ -11,12 +11,16 @@ profile-selection-button-cancel =
 profile-selection-new-button =
     .label = प्रोफाइल निर्माण करा...
     .accesskey = C
+profile-selection-rename-button =
+    .label = प्रोफाइलला नवीन नाव द्या...
+    .accesskey = R
 profile-selection-delete-button =
     .label = प्रोफाइल नष्ट करा...
     .accesskey = D
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } निवडचसंचामध्ये आपल्या मांडणींची, प्राधान्यक्रम, आणि इतर उपयोगी घटकांची माहिती साठवितो.
 profile-manager-work-offline =
     .label = ऑफलाइन कार्य करा
     .accesskey = o
