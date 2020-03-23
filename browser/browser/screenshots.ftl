@@ -31,4 +31,5 @@ screenshots-unshootable-page-error-details = Aquò es pas una pagina web estanda
 screenshots-self-screenshot-error-title = Podètz pas prendre una captura d’ecran d’una pagina { -screenshots-brand-name } !
 screenshots-empty-selection-error-title = La seleccion est tròp pichona.
 screenshots-private-window-error-title = { -screenshots-brand-name } es desactivat en navegacion privada.
+screenshots-generic-error-title = Sembla que { -screenshots-brand-name } a agut un problèma.
 screenshots-generic-error-details = Una error inesperada s’es producha. Podètz tornar ensajar o prendre una captura d’ecran d’una autra pagina.
