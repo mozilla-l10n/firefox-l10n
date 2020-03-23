@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "j">
 
 <!ENTITY aboutProduct2.label      "A prepaus de &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "p">
+<!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "Ajuda de &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "j">
 <!ENTITY helpMac.commandkey       "?">

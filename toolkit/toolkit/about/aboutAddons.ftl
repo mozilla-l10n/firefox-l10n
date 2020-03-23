@@ -264,7 +264,7 @@ addon-install-from-file = Installar un modul dins d’un fichièr…
 addon-install-from-file-dialog-title = Causissètz un modul d'installar
 addon-install-from-file-filter-name = Moduls complementaris
 addon-open-about-debugging = Desbugar los moduls
-    .accesskey = B
+    .accesskey = D
 
 ## Extension shortcut management
 
@@ -313,9 +313,9 @@ discopane-intro =
     Las extensions e los tèmas son coma d'aplicacions per vòstre navegador, e vos permeton de
     protegir los senhals, telecargar de vidèos, trobar d'ofèrtas, blocar las publicitats tediosas,
     cambiar l'aparéncia de vòstre navegador, e plan mai encara. Aquestes pichons logicials
-    son sovent desvolopats per un tèrç. Vaquí una seleccion { -brand-product-name } 
+    son sovent desvolopats per un tèrç. Vaquí una seleccion que { -brand-product-name } 
     
-    <a data-l10n-name="learn-more-trigger">, se recomanda </a> per de  foncionalitats
+    <a data-l10n-name="learn-more-trigger"> vos recomanda</a> per de  foncionalitats
     de securitat e performanças excepcionalas.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
