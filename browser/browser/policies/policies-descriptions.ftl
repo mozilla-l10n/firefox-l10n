@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Spesifiser policyar som WebExtensions kan få tilgang til via chrome.storage.managed.
+policy-AppAutoUpdate = Slå på eller slå av automatiske programoppdateringar.
 policy-AppUpdateURL = Spesifiser eigendefinert programoppdateringsadresse.
 policy-Authentication = Konfigurer integrert godkjenning for nettsider som støttar det.
 policy-BlockAboutAddons = Blokker tilgang til Tilleggshandteraren (about:addons)
@@ -21,6 +22,7 @@ policy-Bookmarks = Opprett bokmerke i bokmerkeverktøylinja, i bokmerkermenyen e
 policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikat eller bruk innebygde sertifikat.
 policy-Cookies = Tillat eller nekt nettstadar å lagre infokapslar.
+policy-DisabledCiphers = Deaktiver krypteringsmetodar.
 policy-DefaultDownloadDirectory = Vel standardmappe for nedlastingar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }
@@ -72,7 +74,6 @@ policy-OfferToSaveLoginsDefault = Spesifiser standardverdien for å tillate { -b
 policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. La policyen vere tom, viss sida ved første oppstart skal deaktiverast.
 policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter ei oppdatering. La policyen stå tom viss sida etter ei oppdatering skal deaktiverast.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordhandteraren.
-policy-Permissions = Konfigurer løyve for kamera, mikrofon, plassering og varsel.
 policy-Permissions2 = Konfigurer løyve for kamera, mikrofon, plassering, varsel og auto-avspeling.
 policy-PopupBlocking = Tillat at visse nettstadar skal kunne vise sprettoppvindauge som standard.
 policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar.
