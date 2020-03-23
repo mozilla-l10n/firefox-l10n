@@ -20,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = O { -brand-short-name } armazena informação acerca das suas definições, preferências e outros dados no seu perfil de utilizador.
 profile-manager-work-offline =
     .label = Trabalhar offline
     .accesskey = o
+profile-manager-use-selected =
+    .label = Utilizar o perfil selecionado sem perguntar no arranque
+    .accesskey = s
