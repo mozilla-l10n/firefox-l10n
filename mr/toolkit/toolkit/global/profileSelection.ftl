@@ -20,3 +20,6 @@ profile-selection-delete-button =
 profile-manager-work-offline =
     .label = ऑफलाइन कार्य करा
     .accesskey = o
+profile-manager-use-selected =
+    .label = स्टार्टअपवेळी न विचारता नीवडलेल्या प्रोफाइलचा वापर करा
+    .accesskey = s
