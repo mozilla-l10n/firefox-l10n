@@ -21,3 +21,6 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } nizamlarınız, seçimləriniz və istifadəçi profilinizdəki digər elementlərlə bağlı məlumatları yadda saxlayır.
+profile-manager-use-selected =
+    .label = Seçilmiş hesabı başlanğıcda soruşmadan istifadə et
+    .accesskey = s
