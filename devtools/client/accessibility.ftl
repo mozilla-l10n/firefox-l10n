@@ -22,8 +22,12 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-dialog = Los dialògs devon aver una etiqueta. <a>Ne saber mai</a>
 accessibility-text-label-issue-document-title = Los documents devon aver un element <code>title</code>. <a>Ne saber mai</a>
 accessibility-text-label-issue-embed = Lo contengut integrat deu aver una etiqueta. <a>Ne saber mai</a>
+accessibility-text-label-issue-figure = Las illustracions amb una legenda facultativa devon aver una etiqueta. <a>Ne saber mai</a>
+accessibility-text-label-issue-fieldset = Los elements <code>fieldset</code> devon aver una etiqueta. <a>Ne saber mai</a>
+accessibility-text-label-issue-fieldset-legend2 = Utilizatz un element <code>legend</code> per etiquetar un element <span>fieldset</span>. <a>Ne saber mai</a>
 accessibility-text-label-issue-form = Los elements de formularis devon aver una etiqueta. <a>Ne saber mai</a>
 accessibility-text-label-issue-form-visible = Los elements de formularis devon aver una etiqueta de tèxt visibla. <a>Ne saber mai</a>
 accessibility-text-label-issue-heading-content = Los títols devon aver un tèxte visible. <a>Ne saber mai</a>
