@@ -12,6 +12,6 @@ pictureinpicture-mute =
 pictureinpicture-unmute =
     .aria-label = Ton an
 pictureinpicture-unpip =
-    .aria-label = Zurück zum Tab senden
+    .aria-label = Einfügen in ursprünglichen Tab
 pictureinpicture-close =
     .aria-label = Schließen
