@@ -8,6 +8,15 @@ profile-selection-button-accept =
     .label = Cychwyn { -brand-short-name }
 profile-selection-button-cancel =
     .label = Gadael
+profile-selection-new-button =
+    .label = Creu Proffil…
+    .accesskey = C
+profile-selection-rename-button =
+    .label = Ailenwi Profil…
+    .accesskey = r
+profile-selection-delete-button =
+    .label = Dileu Proffil…
+    .accesskey = D
 
 ## Messages used in the profile manager
 
