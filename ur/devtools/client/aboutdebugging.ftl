@@ -183,5 +183,8 @@ about-debugging-main-process-description2 = ہدف بشدہ راؤزر کے لئ
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باکس
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = پیغام بند کریں
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = تفصیلات
