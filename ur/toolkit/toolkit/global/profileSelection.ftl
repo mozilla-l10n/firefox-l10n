@@ -22,3 +22,6 @@ profile-manager-description = { -brand-short-name } آپ کی سیٹنگوں، �
 profile-manager-work-offline =
     .label = آف لائن کام کریں
     .accesskey = ک
+profile-manager-use-selected =
+    .label = استعمال کریں منتخب شد پروفائل بعیر پوچھے آغاز میں
+    .accesskey = s
