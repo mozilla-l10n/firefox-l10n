@@ -8,6 +8,22 @@ profile-selection-button-accept =
     .label = Démarrer { -brand-short-name }
 profile-selection-button-cancel =
     .label = Quitter
+profile-selection-new-button =
+    .label = Créer un profil…
+    .accesskey = C
+profile-selection-rename-button =
+    .label = Renommer un profil…
+    .accesskey = R
+profile-selection-delete-button =
+    .label = Supprimer un profil…
+    .accesskey = S
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } conserve vos paramètres personnels, vos préférences et d’autres informations dans votre profil utilisateur.
+profile-manager-work-offline =
+    .label = Travailler hors connexion
+    .accesskey = T
+profile-manager-use-selected =
+    .label = Utiliser le profil sélectionné sans demander au démarrage
+    .accesskey = U
