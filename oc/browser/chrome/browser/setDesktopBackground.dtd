@@ -13,6 +13,7 @@
                        some of the entire image will be on each monitor.
                        This should ideally match the wording in Windows' own
                        Desktop Background settings page. -->
+<!ENTITY span.label                 "Espandir">
 <!ENTITY color.label                "Color :">
 <!ENTITY setDesktopBackground.title "Definir lo fons del burèu">
 <!ENTITY openDesktopPrefs.label     "Dobrir las preferéncias del burèu">

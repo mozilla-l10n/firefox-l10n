@@ -76,3 +76,5 @@ policy-SSLVersionMax = Definir la version maximala de SSL a utilizar
 policy-SSLVersionMin = Definir la version minimala de SSL a utilizar
 policy-SupportMenu = Apondre una entrada personalizada al menú d’ajuda per l’assisténcia.
 policy-UserMessaging = Mostrar pas unes messatges als utilizaires.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Blocar l’accès a de sites web. Vejatz la documentacion per mai de detalhs sul format.
