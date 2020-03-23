@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dockOptionsDialog.title               "Opções do ícone">
+<!ENTITY dockOptionsDialog.title               "Opções do ícone da aplicação">
 <!ENTITY window.macWidth                       "35em">
 
 <!ENTITY bounceSystemDockIcon.label            "Animar ícone ao receber novas mensagens">
