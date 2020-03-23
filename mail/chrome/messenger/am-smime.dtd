@@ -23,7 +23,7 @@
 <!ENTITY e2eSigning.description "Mae llofnod digidol yn caniatáu i dderbynwyr wirio bod y neges wedi'i hanfon gennych chi, ac nad yw'r cynnwys wedi'i newid.">
 <!ENTITY e2eTechPref.description "Y dewis o dechnoleg amgryptio:">
 
-<!ENTITY doNotEncrypt.label "Peidiwch â galluogi amgryptio yn rhagosodedig">
+<!ENTITY doNotEncrypt.label "Peidio â galluogi amgryptio yn rhagosodedig">
 <!ENTITY doNotEncrypt.accesskey "P">
 <!ENTITY requireEncryptMessage.label "Defnyddio amgryptio yn rhagosodedig">
 <!ENTITY requireEncryptMessage.accesskey "D">
@@ -38,7 +38,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "l">
 <!ENTITY signingGroupTitle.label "Llofnodi Digidol">
 <!ENTITY signMessage.label "Llofnodi negeseuon yn ddigidol (trwy ragosodiad)">
-<!ENTITY signMessage2.label "Ychwanegwch fy llofnod digidol yn rhagosodedig">
+<!ENTITY signMessage2.label "Ychwanegu fy llofnod ddigidol yn rhagosodedig">
 <!ENTITY signMessage.accesskey "r">
 <!ENTITY signingCert.message "Defnyddiwch y dystysgrif hon i lofnodi'r negeseuon rydych yn eu hanfon yn ddigidol:">
 

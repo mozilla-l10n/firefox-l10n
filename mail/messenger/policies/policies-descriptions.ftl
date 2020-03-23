@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Rhwystro mynediad i dudalen about:support.
 policy-CaptivePortal = Galluogi neu analluogi cefnogaeth porth caeth.
 policy-CertificatesDescription = Ychwanegu dystysgrifau neu ddefnyddio dystysgrifau mewnol.
 policy-Cookies = Caniatáu neu rwystro gwefannau rhag gosod cwcis.
+policy-DisabledCiphers = Analluogi seifferau.
 policy-DefaultDownloadDirectory = Gosod y cyfeiriadur llwytho i lawr rhagosodedig.
 policy-DisableAppUpdate = Rhwystro { -brand-short-name } rhag diweddaru.
 policy-DisableDeveloperTools = Rhwystro mynediad i offer datblygwr.
