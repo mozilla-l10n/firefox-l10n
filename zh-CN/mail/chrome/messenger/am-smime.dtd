@@ -18,6 +18,7 @@
 <!ENTITY e2eLearnMore.label "详细了解">
 
 <!ENTITY e2eEnc.description "若不进行端到端加密，邮件服务提供商可以轻易获知您的邮件内容，并进行大规模监控。">
+<!ENTITY e2eeReqWarning.description "若您要求加密，须先获取每个收件人的公钥或证书才能发送消息。">
 
 <!ENTITY e2eSigning.description "数字签名可让收件人确认消息是您本人发送的，且内容未经篡改。">
 <!ENTITY e2eTechPref.description "首选加密技术：">
