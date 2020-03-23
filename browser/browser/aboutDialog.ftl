@@ -15,23 +15,21 @@ update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ 
 update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
 update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 update-failed = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ। <label data-l10n-name="failed-link">ਤਾਜ਼ਾ ਵਰਜਨ ਡਾਊਨਲੋਡ ਕਰੋ</label>
-update-failed-main = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ। <a data-l10n-name="failed-link-main">ਤਾਜ਼ਾ ਵਰਜਨ ਡਾਊਨਲੋਡ ਕਰੋ</a>
+update-failed-main = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੈ। <a data-l10n-name="failed-link-main">ਤਾਜ਼ਾ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ</a>
 update-adminDisabled = ਅੱਪਡੇਟ ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਬੰਦ ਕੀਤੇ ਗਏ ਹਨ
 update-noUpdatesFound = { -brand-short-name } ਅੱਪ-ਟੂ-ਡੇਟ ਹੈ
 update-otherInstanceHandlingUpdates = { -brand-short-name } ਨੂੰ ਕਿਸੇ ਹੋਰ ਮੌਕੇ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-update-manual = ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ <label data-l10n-name="manual-link"/>
-update-unsupported = ਤੁਸੀਂ ਇਹ ਸਿਸਟਮ ਲਈ ਹੋਰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।<label data-l10n-name="unsupported-link">ਹੋਰ ਜਾਣੋ</label>
-update-restarting = ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+update-manual = <label data-l10n-name="manual-link"/> ‘ਤੇ ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ
+update-unsupported = ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਲਈ ਹੋਰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ। <label data-l10n-name="unsupported-link">ਹੋਰ ਜਾਣੋ</label>
+update-restarting = …ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 channel-description = ਇਸ ਸਮੇਂ ਤੁਸੀਂ <label data-l10n-name="current-channel"></label> ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ।
 warningDesc-version = { -brand-short-name } ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ਇੱਕ <label data-l10n-name="community-exp-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ</label> ਹੈ ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-exp-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ</label> ਹੈ, ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਪਬਲਿਕ ਅਤੇ ਪਹੁੰਚ ਵਿੱਚ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
 community-2 = { -brand-short-name } ਨੂੰ ਤਿਆਰ ਕੀਤਾ ਹੈ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ਨੇ, ਜੋ ਇੱਕ <label data-l10n-name="community-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ ਹੈ,</label> ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
 helpus = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਦਿਉ</label> ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਭਾਗ ਲਵੋ!</label>
 bottomLinks-license = ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ
 bottomLinks-rights = ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
 bottomLinks-privacy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
-aboutDialog-architecture-sixtyFourBit = 64-ਬਿੱਟ
-aboutDialog-architecture-thirtyTwoBit = 32-ਬਿੱਟ
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
