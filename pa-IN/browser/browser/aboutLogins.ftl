@@ -6,10 +6,10 @@ about-logins-page-title = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = ਆਪਣੇ ਪਾਸਵਰਡ ਥਾਂ ਲੈ ਜਾਓ
+login-app-promo-title = ਆਪਣੇ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਲੈ ਜਾਓ
 login-app-promo-subtitle = ਮੁਫ਼ਤ { -lockwise-brand-name } ਲਵੋ
 login-app-promo-android =
-    .alt = ਇਹ ਗੂਗਲ ਪਲੇਅ ਤੋਂ ਲਵੋ
+    .alt = ਇਸ ਨੂੰ Google Play ਤੋਂ ਲਵੋ
 login-app-promo-apple =
     .alt = ਐਪ ਸਟੋਰ ਤੋਂ ਡਾਊਨਲੋਡ ਕਰੋ
 login-filter =
