@@ -12,3 +12,6 @@ profile-selection-button-cancel =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } garda las entresenhas que concernisson vòstres paramètres personals e preferéncias dins vòstre perfil.
+profile-manager-use-selected =
+    .label = Utilizar per defaut lo perfil seleccionat
+    .accesskey = U
