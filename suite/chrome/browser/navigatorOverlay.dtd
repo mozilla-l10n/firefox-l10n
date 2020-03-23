@@ -13,6 +13,8 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabs.accesskey "T">
+<!ENTITY closeTabsToTheEnd.label "Cerrar pestañas a la derecha">
+<!ENTITY closeTabsToTheEnd.accesskey "d">
 <!ENTITY uploadFile.label "Subir archivo…">
 <!ENTITY uploadFile.accesskey "b">
 <!ENTITY printSetupCmd.label "Configurar página…">
