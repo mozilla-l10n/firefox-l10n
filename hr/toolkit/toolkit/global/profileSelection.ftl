@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } sprema informacije o vašim 
 profile-manager-work-offline =
     .label = Izvanmrežni rad
     .accesskey = I
+profile-manager-use-selected =
+    .label = Koristi odabrani profil bez pitanja pri pokretanju
+    .accesskey = s
