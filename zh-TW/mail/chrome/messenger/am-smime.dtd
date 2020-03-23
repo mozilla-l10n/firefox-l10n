@@ -18,7 +18,9 @@
 <!ENTITY e2eLearnMore.label "了解更多">
 
 <!ENTITY e2eEnc.description "若不進行端到端加密，電子郵件服務供應商很容易就能取得您的訊息內容，並進行大規模監控。">
+<!ENTITY e2eeReqWarning.description "若您要求必須開啟加密，要先取得所有收件者的公鑰或憑證才能傳送訊息。">
 
+<!ENTITY e2eSigning.description "數位簽章讓收件者可以確認訊息是由您寄出的，並且內容未遭竄改。">
 <!ENTITY e2eTechPref.description "偏好的加密技術:">
 
 <!ENTITY doNotEncrypt.label "不要預設開啟加密">
