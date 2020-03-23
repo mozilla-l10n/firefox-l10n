@@ -31,6 +31,8 @@ policy-CertificatesDescription = Añadir certificados o usar certificados inclui
 
 policy-Cookies = Permitir o denegar a los sitios web enviar cookies.
 
+policy-DisabledCiphers = Desactivar cifrados.
+
 policy-DefaultDownloadDirectory = Establecer el directorio de descargas predeterminado.
 
 policy-DisableAppUpdate = Impedir que { -brand-short-name } se actualice.

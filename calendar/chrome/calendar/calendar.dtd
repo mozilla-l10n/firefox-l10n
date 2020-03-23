@@ -285,6 +285,7 @@
 <!ENTITY calendarproperties.firealarms.label "Mostrar avisos">
 <!ENTITY calendarproperties.cache3.label "Compatible con el modo sin conexión">
 <!ENTITY calendarproperties.enabled.label "Activar este calendario">
+<!ENTITY calendarproperties.enabled2.label "Activar este calendario">
 <!ENTITY calendarproperties.forceDisabled.label "No se ha encontrado el proveedor de este calendario. Esto sucede a menudo si ha desactivado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label "Cancelar suscripción">
 <!ENTITY calendarproperties.unsubscribe.accesskey "U">
