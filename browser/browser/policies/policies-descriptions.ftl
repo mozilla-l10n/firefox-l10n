@@ -26,6 +26,7 @@ policy-DisabledCiphers = 암호화를 사용 안 합니다.
 policy-DefaultDownloadDirectory = 기본 다운로드 디렉터리를 설정합니다.
 policy-DisableAppUpdate = 브라우저가 업데이트 되지 않게 합니다.
 policy-DisableBuiltinPDFViewer = { -brand-short-name }에 내장된 PDF 뷰어인 PDF.js를 사용 안 합니다.
+policy-DisableDefaultBrowserAgent = 기본 브라우저 에이전트가 작업을 수행하지 못하도록 합니다. Windows에만 적용되며 다른 플랫폼에는 에이전트가 없습니다.
 policy-DisableDeveloperTools = 개발자 도구 접근을 차단합니다.
 policy-DisableFeedbackCommands = 도움말 메뉴의 의견 보내기 명령(의견 보내기 및 가짜 사이트 신고)을 사용 안 합니다.
 policy-DisableFirefoxAccounts = 동기화를 포함한 { -fxaccount-brand-name } 기반의 서비스를 사용 안 합니다.
