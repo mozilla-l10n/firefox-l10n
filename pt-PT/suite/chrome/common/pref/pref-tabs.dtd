@@ -22,6 +22,15 @@
 
 <!ENTITY openTabs.label "Abrir separadores em vez de janelas">
 
+<!ENTITY middleClick.label "Clique no botão do meio, Ctrl+clique ou Ctrl+Enter nas ligações de uma página de Internet">
+<!ENTITY middleClick.accesskey "M">
+<!ENTITY middleClickMac.label "Clique no botão do meio, &#8984;+clique ou &#8984;+Enter nas ligações numa página de Internet">
+<!ENTITY middleClickMac.accesskey "M">
+<!ENTITY urlbar.label "Ctrl+Enter na barra de endereço">
+<!ENTITY urlbar.accesskey "E">
+<!ENTITY urlbarMac.label "&#8984;+Enter na barra de endereço">
+<!ENTITY urlbarMac.accesskey "E">
+
 <!ENTITY openManagers.label "Abrir num novo separador em vez de nova janela">
 <!ENTITY openDataManager.label "Gestor de dados">
 <!ENTITY openDataManager.accesskey "d">

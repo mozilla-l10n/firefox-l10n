@@ -26,6 +26,8 @@
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "p">
 <!ENTITY closeCmd.label "Fechar">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
@@ -38,12 +40,28 @@
      application menu. Never change the modifiers unless you are 100% sure that
      they are different on your locale (should be very rare). -->
 <!ENTITY preferencesCmdMac.label          "Preferências…">
+<!ENTITY preferencesCmdMac.key            ",">
+<!ENTITY preferencesCmdMac.modifiers      "accel">
 <!ENTITY servicesMenu.label               "Serviços">
+<!ENTITY hideThisAppCmd.label             "Ocultar o &brandShortName;">
+<!ENTITY hideThisAppCmd.key               "O">
+<!ENTITY hideThisAppCmd.modifiers         "accel">
 <!ENTITY hideOtherAppsCmd.label           "Ocultar outros">
+<!ENTITY hideOtherAppsCmd.key             "O">
+<!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
 <!ENTITY showAllAppsCmd.label             "Mostrar tudo">
+<!ENTITY openHelpCmdMac.label             "Ajuda do &brandShortName;">
+<!ENTITY openHelpCmdMac.accesskey         "j">
+<!ENTITY openHelpCmdMac.key               "?">
+<!ENTITY openHelpCmdMac.modifiers         "accel">
 
 <!ENTITY quitApplicationCmd.label         "Sair">
+<!ENTITY quitApplicationCmd.key           "r">
+<!ENTITY quitApplicationCmd.accesskey     "r">
+<!ENTITY quitApplicationCmdMac.label      "Sair do &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "r">
 <!ENTITY quitApplicationCmdUnix.label     "Sair">
+<!ENTITY quitApplicationCmdUnix.accesskey "r">
 
 <!ENTITY editMenu.label                   "Editar">
 <!ENTITY editMenu.accesskey               "E">
@@ -52,6 +70,7 @@
 <!ENTITY undoCmd.accesskey                "u">
 <!ENTITY redoCmd.label                    "Refazer">
 <!ENTITY redoCmd.key                      "y">
+<!ENTITY redoCmdMac.key                   "Z">
 <!ENTITY redoCmd.accesskey                "r">
 <!ENTITY cutCmd.label                     "Cortar">
 <!ENTITY cutCmd.key                       "x">
@@ -86,6 +105,9 @@
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findCmd.key2 "VK_F19">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findReplaceCmdMac.key "F">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findAgainCmd.label "Localizar novamente">
 <!ENTITY findAgainCmd.key "G">
@@ -96,8 +118,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findTypeTextCmd.label "Localizar texto ao escrever">
+<!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeTextCmd.accesskey "e">
 <!ENTITY findTypeLinksCmd.label "Localizar ligações ao escrever">
+<!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "g">
 
 <!ENTITY viewMenu.label                   "Ver">
@@ -113,9 +137,13 @@
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Ajuda">
+<!ENTITY helpMenuWin.accesskey            "j">
 <!ENTITY openHelpCmd.label                "Tópicos de ajuda">
+<!ENTITY openHelpCmd.accesskey            "j">
+<!ENTITY openHelpCmd.key                  "VK_F1">
 
 <!ENTITY helpForIEUsers.label               "Para utilizadores do Internet Explorer">
+<!ENTITY helpForIEUsers.accesskey           "l">
 <!ENTITY helpTroubleshootingInfo.label      "Informação para suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 <!ENTITY releaseCmd.label                   "Notas de lançamento">
@@ -148,6 +176,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY menubarCmd.label                         "Barra de menu">
+<!ENTITY menubarCmd.accesskey                     "e">
 
 <!ENTITY customizeToolbarContext.label            "Personalizar…">
 <!ENTITY customizeToolbarContext.accesskey        "z">
