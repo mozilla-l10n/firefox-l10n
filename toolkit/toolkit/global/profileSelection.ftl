@@ -20,3 +20,6 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-work-offline =
+    .label = Arbejd offline
+    .accesskey = A
