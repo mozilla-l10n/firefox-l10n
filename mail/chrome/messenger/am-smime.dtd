@@ -12,6 +12,11 @@
 <!ENTITY alwaysEncryptMessage.label "Zahtevano (sporočila ni mogoče poslati, če nimajo potrdil vsi prejemniki)">
 <!ENTITY alwaysEncryptMessage.accesskey "Z">
 <!ENTITY encryptionCert.message "Uporabi to potrdilo za šifriranje in odšifriranje vam poslanih sporočil:">
+
+<!ENTITY e2eLearnMore.label "Več o tem">
+
+
+
 <!ENTITY digitalSign.certificate.button "Izberi …">
 <!ENTITY digitalSign.certificate.accesskey "z">
 <!ENTITY digitalSign.certificate_clear.button "Počisti">
@@ -31,7 +36,17 @@
 <!ENTITY manageDevices.label "Varnostne naprave">
 <!ENTITY manageDevices.accesskey "V">
 
+
+
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Upravljanje potrdil S/MIME">
+
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Izberite potrdilo">
 <!ENTITY certPicker.info  "Potrdilo:">
 <!ENTITY certPicker.detailsLabel "Podrobnosti izbranega potrdila:">
+
