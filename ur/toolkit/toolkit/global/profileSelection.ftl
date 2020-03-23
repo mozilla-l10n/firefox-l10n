@@ -12,6 +12,9 @@ profile-selection-new-button =
 profile-selection-rename-button =
     .label = پروفائل کو نیا نام دیں...
     .accesskey = ن
+profile-selection-delete-button =
+    .label = پروفائل حذف کریں…
+    .accesskey = ح
 
 ## Messages used in the profile manager
 
