@@ -24,3 +24,6 @@ profile-manager-description = আপনার ব্যবহৃত সেটি
 profile-manager-work-offline =
     .label = অফলাইনে কাজ (o)
     .accesskey = o
+profile-manager-use-selected =
+    .label = শুরুর সময় জিজ্ঞেস না করে নির্বাচিত প্রোফাইল ব্যবহার করুন s
+    .accesskey = s
