@@ -8,6 +8,15 @@ profile-selection-button-accept =
     .label = { -brand-short-name } ची सुरूवात करा
 profile-selection-button-cancel =
     .label = बाहेर पडा
+profile-selection-new-button =
+    .label = प्रोफाइल निर्माण करा...
+    .accesskey = C
+profile-selection-delete-button =
+    .label = प्रोफाइल नष्ट करा...
+    .accesskey = D
 
 ## Messages used in the profile manager
 
+profile-manager-work-offline =
+    .label = ऑफलाइन कार्य करा
+    .accesskey = o
