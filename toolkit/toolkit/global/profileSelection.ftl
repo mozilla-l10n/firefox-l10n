@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } menyimpan informasi tentang 
 profile-manager-work-offline =
     .label = Bekerja luring
     .accesskey = l
+profile-manager-use-selected =
+    .label = Gunakan profil terpilih tanpa ditanya saat memulai
+    .accesskey = s
