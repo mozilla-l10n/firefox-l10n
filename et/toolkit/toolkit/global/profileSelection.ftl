@@ -20,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } säilitab sinu kasutajasätteid, eelistusi ja muid andmeid sinu kasutajaprofiilina.
 profile-manager-work-offline =
     .label = Tööta võrguta
     .accesskey = t
+profile-manager-use-selected =
+    .label = Valitud profiili kasutatakse käivitamisel küsimata
+    .accesskey = r
