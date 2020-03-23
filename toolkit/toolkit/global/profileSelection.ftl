@@ -21,3 +21,9 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = „{ -brand-short-name }“ nuostatos, tinklaviečių adresynas, laiškai ir kt. informacija laikoma naudotojo profilyje.
+profile-manager-work-offline =
+    .label = Dirbti neprisijungus prie tinklo
+    .accesskey = D
+profile-manager-use-selected =
+    .label = Ateityje neklausiant naudoti nurodytą profilį
+    .accesskey = A
