@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } ukládá informace o vašem 
 profile-manager-work-offline =
     .label = Pracovat offline
     .accesskey = l
+profile-manager-use-selected =
+    .label = Použít zvolený profil bez ptaní při startu
+    .accesskey = P
