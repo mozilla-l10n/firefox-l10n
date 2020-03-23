@@ -24,3 +24,6 @@ profile-manager-description = Mae { -brand-short-name } yn storio gwybodaeth am 
 profile-manager-work-offline =
     .label = Gweithio All-lein
     .accesskey = o
+profile-manager-use-selected =
+    .label = Defnyddio'r proffil penodol heb ofyn wrth gychwyn
+    .accesskey = p
