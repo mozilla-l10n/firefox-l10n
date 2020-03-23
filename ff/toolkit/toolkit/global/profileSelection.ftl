@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } mooftat humpito baɗte teelt
 profile-manager-work-offline =
     .label = Gollo e ceŋtol
     .accesskey = G
+profile-manager-use-selected =
+    .label = Huutoro heftinirde labaande ndee tawa naamnetaake e kurmal
+    .accesskey = u
