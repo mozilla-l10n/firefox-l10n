@@ -6,6 +6,8 @@ profile-selection-window =
     .title = { -brand-short-name } - Causissètz un perfil d'utilizaire
 profile-selection-button-accept =
     .label = Aviar { -brand-short-name }
+profile-selection-button-cancel =
+    .label = Quitar
 
 ## Messages used in the profile manager
 
