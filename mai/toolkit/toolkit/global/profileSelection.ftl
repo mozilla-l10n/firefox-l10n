@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } अहाँक सेटि
 profile-manager-work-offline =
     .label = आफ़लाइन कार्य (o)
     .accesskey = o
+profile-manager-use-selected =
+    .label = बिनु आरंभमे पूछने चुनल प्रोफ़ाइलक उपयोग करू (s)
+    .accesskey = s
