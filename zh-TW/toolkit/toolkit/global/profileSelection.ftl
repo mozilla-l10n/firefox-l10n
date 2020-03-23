@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } 把您的設定、偏好等�
 profile-manager-work-offline =
     .label = 離線模式
     .accesskey = o
+profile-manager-use-selected =
+    .label = 啟動時直接使用選擇的設定檔，不要再詢問
+    .accesskey = s
