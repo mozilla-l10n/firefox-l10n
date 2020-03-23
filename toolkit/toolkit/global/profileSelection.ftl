@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } menyimpan maklumat perihal t
 profile-manager-work-offline =
     .label = Kerja luar talian
     .accesskey = l
+profile-manager-use-selected =
+    .label = Mengunakan profil yang dipilih tanpa meminta pada permulaan
+    .accesskey = u
