@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Emportatz Firefox amb vos">
+<!ENTITY fxa.signin.description.label "Accedissètz als marcapaginas, istoric, senhals d’autres paramètres de totes vòstres periferics.">
 <!ENTITY fxa.signin.button.label "Activar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
@@ -258,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navegador es contrarotlat a distància">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Dobrir lo panèl d’identificacion">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Dobrir lo panèl de permissions tocant la navegacion">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra camèra o vòstre microfòn amb aqueste site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
@@ -282,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Avètz blocat l’accès MIDI per aqueste site web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Avètz blocat l’installacion de moduls complementaris per aqueste site.">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Avètz donat de permissions suplementàrias a aquel site.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
@@ -414,6 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
+<!ENTITY appMenuHistory.hideSidebar.label "Amagar lo panèl de l'istoric">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
 <!ENTITY appMenuHelp.label "Ajuda">
 
@@ -853,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Pasmens se &brandShortName; a blocat de contengut, demòra d'elements pas segurs sus la pagina (coma d'imatges).">
 <!ENTITY identity.description.activeLoaded "Aquel site web ten de contengut non segurs (coma d'scripts) e la connexion establida es pas privada.">
 <!ENTITY identity.description.activeLoaded2 "Las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres (coma par exemple los senhals, los messatges, las cartas de crèdit, etc.).">
+<!ENTITY identity.description.customRoot "Mozilla reconeis pas aqueste emissor de certificats. Vòstre sistèma operatiu o un administrator l’apondèt benlèu a la man.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar la proteccion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
