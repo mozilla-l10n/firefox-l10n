@@ -12,3 +12,6 @@ profile-selection-button-cancel =
 ## Messages used in the profile manager
 
 profile-manager-description = Mae { -brand-short-name } yn storio gwybodaeth am eich gosodiadau, dewisiadau ac eitemau defnyddiwr arall yn eich proffil defnyddiwr.
+profile-manager-work-offline =
+    .label = Gweithio All-lein
+    .accesskey = o
