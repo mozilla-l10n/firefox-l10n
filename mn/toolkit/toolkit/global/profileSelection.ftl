@@ -8,6 +8,15 @@ profile-selection-button-accept =
     .label = { -brand-short-name }-г эхэл
 profile-selection-button-cancel =
     .label = Гарах
+profile-selection-new-button =
+    .label = Хувийн орчин үүсгэ…
+    .accesskey = Х
+profile-selection-rename-button =
+    .label = Хувийн орчны нэр өөрчил…
+    .accesskey = ө
+profile-selection-delete-button =
+    .label = Хувийн орчинг устга…
+    .accesskey = у
 
 ## Messages used in the profile manager
 
