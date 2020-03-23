@@ -905,7 +905,7 @@ content-blocking-setting-custom =
     .label = Personalizat
     .accesskey = P
 content-blocking-standard-desc = Equilibri entre proteccion e performança. Permet certans traçadors per que los sites web foncionen corrèctament.
-content-blocking-strict-description = Proteccion refortida, pòt copar unes sites.
+content-blocking-strict-description = Proteccion renfortida, pòt copar unes sites.
 content-blocking-custom-desc = Causissètz çò que volètz blocar.
 content-blocking-private-trackers = Los traçadors coneguts dins las fenèstras de navegacion privada solament
 content-blocking-third-party-cookies = Cookies de seguiment tèrces
@@ -927,7 +927,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Equilibri entre proteccion e performança. Las pagina cargaràn normalament.
-content-blocking-etp-strict-desc = Proteccion refortida, pòt copar unes sites o contenguts.
+content-blocking-etp-strict-desc = Proteccion renfortida, pòt copar unes sites o contenguts.
 content-blocking-etp-custom-desc = Causissètz quins traçadors e scripts cal blocar.
 content-blocking-private-windows = Contengut utilizat per pistar dins las fenèstras de navegacion privada
 content-blocking-cross-site-tracking-cookies = Cookies de seguiment entre sites

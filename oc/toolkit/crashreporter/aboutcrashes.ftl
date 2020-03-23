@@ -8,8 +8,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Rapòrts de plantatge
-submit-all-button-label = Los enviar totes
-delete-button-label = Los suprimir totes
+submit-all-button-label = Tot enviar
+delete-button-label = Tot suprimir
 delete-confirm-title = O confirmatz ?
 delete-unsubmitted-description = Aquò suprimirà totes los rapòrts d'error non someses e poirà pas èsser anullat.
 delete-submitted-description = Aquò suprimirà la lista dels rapòrts de plantatge someses mas suprimirà pas las donadas somesas. Aquò se pòt pas anullat.
