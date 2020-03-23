@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } உங்கள் அமை
 profile-manager-work-offline =
     .label = இணையத்தில் இல்லாமல் வேலை செய்
     .accesskey = o
+profile-manager-use-selected =
+    .label = துவங்கும்போது கேட்காமலே தேர்ந்தெடுத்த விவரக்குறிப்பை பயன்படுத்தவும்(s)
+    .accesskey = s
