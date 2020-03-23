@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } ga alhabar jiši war kayandi
 profile-manager-work-offline =
     .label = Goy bila nda ciyari
     .accesskey = G
+profile-manager-use-selected =
+    .label = War tilasu alhaalo ka goy bila nda haãyan tunandiyan ga
+    .accesskey = s
