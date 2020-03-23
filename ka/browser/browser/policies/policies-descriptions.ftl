@@ -26,6 +26,7 @@ policy-DisabledCiphers = დაშიფვრის გამორთვა.
 policy-DefaultDownloadDirectory = ჩამოტვირთვის ნაგულისხმევი საქაღალდის მითითება.
 policy-DisableAppUpdate = ბრაუზერის განახლების შეზღუდვა.
 policy-DisableBuiltinPDFViewer = PDF.js-ის გათიშვა, ჩაშენებული PDF-გამხსნელის, რომელსაც იყენებს { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = ნაგულისხმევ ბრაუზერზე მეთვალყურე აგენტისთვის მოქმედებების შეზღუდვა. განკუთვნილია მხოლოდ Windows-ისთვის; სხვა სისტემებს არ აქვთ ამგვარი აგენტი.
 policy-DisableDeveloperTools = შემმუშავებლის ხელსაწყოებთან წვდომის შეზღუდვა.
 policy-DisableFeedbackCommands = უკუკავშირის ბრძანებების გათიშვა დახმარების მენიუდან (გამოხმაურებისა და თაღლითურ საიტზე მოხსენების გაგზავნა)
 policy-DisableFirefoxAccounts = მომსახურებების გათიშვა, რომელთა მუშაობასაც { -fxaccount-brand-name } უზრუნველყოფს, სინქრონიზაციის ჩათვლით.
