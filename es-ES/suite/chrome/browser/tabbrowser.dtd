@@ -9,6 +9,8 @@
 <!ENTITY closeTab.accesskey "C">
 <!ENTITY closeOtherTabs.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabs.accesskey "o">
+<!ENTITY closeTabsToTheEnd.label "Cerrar pestañas a la derecha">
+<!ENTITY closeTabsToTheEnd.accesskey "d">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
 <!ENTITY reloadAllTabs.accesskey "a">
 <!ENTITY reloadTab.label "Recargar pestaña">
