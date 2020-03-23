@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
     .accesskey = m
@@ -89,16 +86,16 @@ main-context-menu-open-link =
     .label = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = O
 main-context-menu-open-link-new-tab =
-    .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
+    .label = ਨਵੀਂ ਟੈਬ ‘ਚ ਖੋਲ੍ਹੋ
     .accesskey = T
 main-context-menu-open-link-container-tab =
-    .label = ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਕਨਟੇਨਰ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
+    .label = ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਕਨਟੇਨਰ ਟੈਬ ‘ਚ ਖੋਲ੍ਹੋ
     .accesskey = C
 main-context-menu-open-link-new-window =
-    .label = ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
+    .label = ਨਵੀਂ ਵਿੰਡੋ ‘ਚ ਖੋਲ੍ਹੋ
     .accesskey = W
 main-context-menu-open-link-new-private-window =
-    .label = ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
+    .label = ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ‘ਚ ਖੋਲ੍ਹੋ
     .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = ਇਹ ਲਿੰਕ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
@@ -118,7 +115,7 @@ main-context-menu-copy-email =
     .label = ਈਮੇਲ ਐਡਰੈੱਸ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = E
 main-context-menu-copy-link =
-    .label = ਲਿੰਕ ਟਿਕਾਣਾ ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .label = ਲਿੰਕ ਟਿਕਾਣੇ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = a
 
 ## Media (video/audio) controls
@@ -187,7 +184,7 @@ main-context-menu-media-video-leave-fullscreen =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-pip =
-    .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ
+    .label = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ
     .accesskey = u
 main-context-menu-image-reload =
     .label = ਚਿੱਤਰ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ
@@ -247,10 +244,10 @@ main-context-menu-plugin-hide =
     .label = ਇਹ ਪਲੱਗਇਨ ਨੂੰ ਓਹਲੇ
     .accesskey = H
 main-context-menu-save-to-pocket =
-    .label = ਸਫ਼ੇ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
+    .label = ਸਫ਼ੇ ਨੂੰ { -pocket-brand-name } ‘ਚ ਸੰਭਾਲੋ
     .accesskey = k
 main-context-menu-send-to-device =
-    .label = ਸਫ਼ੇ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
+    .label = ਸਫ਼ੇ ਨੂੰ ਡਿਵਾਈਸ ‘ਤੇ ਭੇਜੋ
     .accesskey = D
 main-context-menu-view-background-image =
     .label = ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਨੂੰ ਵੇਖੋ
@@ -271,10 +268,10 @@ main-context-menu-frame-show-this =
     .label = ਇਹ ਫਰੇਮ ਹੀ ਵੇਖੋ
     .accesskey = w
 main-context-menu-frame-open-tab =
-    .label = ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
+    .label = ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਟੈਬ ‘ਚ ਖੋਲ੍ਹੋ
     .accesskey = T
 main-context-menu-frame-open-window =
-    .label = ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
+    .label = ਫਰੇਮ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ‘ਚ ਖੋਲ੍ਹੋ
     .accesskey = W
 main-context-menu-frame-reload =
     .label = ਫਰੇਮ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰੋ
