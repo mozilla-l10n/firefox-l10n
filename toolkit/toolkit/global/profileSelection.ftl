@@ -24,3 +24,6 @@ profile-manager-description = يخزّن { -brand-short-name } معلومات ع
 profile-manager-work-offline =
     .label = اعمل دون اتّصال
     .accesskey = ع
+profile-manager-use-selected =
+    .label = استخدم الملف الشخصي المحدد دون سؤال عند بدء التشغيل
+    .accesskey = س
