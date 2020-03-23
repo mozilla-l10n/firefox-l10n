@@ -4,6 +4,8 @@
 
 profile-selection-button-accept =
     .label = { -brand-short-name } ప్రారంభించు
+profile-selection-button-cancel =
+    .label = నిష్క్రమించు
 
 ## Messages used in the profile manager
 
