@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } ඔබේ සැකසුම
 profile-manager-work-offline =
     .label = නොබැඳිව ක්‍රියා කරන්න
     .accesskey = o
+profile-manager-use-selected =
+    .label = ආරම්භයේදී විමසීමකින් තොරව තෝරාගත් පැතිකඩ භාවිත කරන්න
+    .accesskey = s
