@@ -26,6 +26,7 @@ policy-DisabledCiphers = Адключыць шыфраванне.
 policy-DefaultDownloadDirectory = Устанавіць прадвызначаны каталог сцягванняў.
 policy-DisableAppUpdate = Забараніць абнаўленне браўзера.
 policy-DisableBuiltinPDFViewer = Адключыць PDF.js, убудаваны ў { -brand-short-name } праглядальнік PDF.
+policy-DisableDefaultBrowserAgent = Прадухіліць любыя дзеянні агента тыповага браўзера. Тычыцца толькі Windows; на іншых платформах няма агента.
 policy-DisableDeveloperTools = Забараніць доступ да прылад распрацоўшчыка.
 policy-DisableFeedbackCommands = Адключыць каманды для адпраўкі зваротнай сувязі праз меню Даведкі («Падаць водгук» і «Паведаміць аб падробленым сайце»).
 policy-DisableFirefoxAccounts = Адключыць сэрвісы, заснаваныя на { -fxaccount-brand-name }, у тым ліку Сінхранізацыю.
