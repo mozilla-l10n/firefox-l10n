@@ -20,6 +20,7 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } 把您的設定、偏好等各種資料存於您的個人設定檔 (Profile) 中。
 profile-manager-work-offline =
     .label = 離線模式
     .accesskey = o
