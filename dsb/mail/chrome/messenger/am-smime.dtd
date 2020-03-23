@@ -12,6 +12,11 @@
 <!ENTITY alwaysEncryptMessage.label "Trěbny (njejo móžno powěsć słaś, snaźkuli wšykne dostawarje maju certifikaty)">
 <!ENTITY alwaysEncryptMessage.accesskey "T">
 <!ENTITY encryptionCert.message "Toś ten certifikata wužywaś, aby se powěsći, kótarež su se pśipósłali, šifrěrowali a dešifrěrowali:">
+
+<!ENTITY e2eLearnMore.label "Dalšne informacije">
+
+
+
 <!ENTITY digitalSign.certificate.button "Wubraś…">
 <!ENTITY digitalSign.certificate.accesskey "u">
 <!ENTITY digitalSign.certificate_clear.button "Wuprozniś">
@@ -30,8 +35,28 @@
 <!ENTITY manageCerts2.accesskey "C">
 <!ENTITY manageDevices.label "Wěstotne rědy">
 <!ENTITY manageDevices.accesskey "s">
-<!-- Strings for the cert picker dialog -->
 
+
+<!ENTITY sendingDefaults.label "Standardne nastajenja za słanje powěsćow">
+
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Certifikaty S/MIME zastojaś">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Wěstotne rědy S/MIME">
+<!ENTITY manageDevices2.accesskey "y">
+
+<!ENTITY technologySMIME.label "S/MIME preferěrowaś">
+<!ENTITY technologyOpenPGP.label "OpenPGP preferěrowaś">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "OpenPGP-kluce zastojaś">
+<!ENTITY manageKeys.accesskey "O">
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Certifikat wubraś">
 <!ENTITY certPicker.info  "Certifikat:">
 <!ENTITY certPicker.detailsLabel "Drobnostki wubranego certifikata:">
+
+<!ENTITY openpgpKey.button "Wósobinski kluc nastajiś…">
+<!ENTITY openpgpKey.accesskey "s">
