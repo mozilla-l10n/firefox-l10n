@@ -13,3 +13,6 @@ profile-manager-description = { -brand-short-name } lưu thông tin về các th
 profile-manager-work-offline =
     .label = Làm việc ngoại tuyến
     .accesskey = v
+profile-manager-use-selected =
+    .label = Sử dụng cấu hình đã chọn mà không hỏi lại khi khởi động
+    .accesskey = s
