@@ -24,9 +24,9 @@ update-unsupported = ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਲਈ ਹੋਰ ਅ
 update-restarting = …ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 channel-description = ਇਸ ਸਮੇਂ ਤੁਸੀਂ <label data-l10n-name="current-channel"></label> ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ।
 warningDesc-version = { -brand-short-name } ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-exp-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ</label> ਹੈ, ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਪਬਲਿਕ ਅਤੇ ਪਹੁੰਚ ਵਿੱਚ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
-community-2 = { -brand-short-name } ਨੂੰ ਤਿਆਰ ਕੀਤਾ ਹੈ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ਨੇ, ਜੋ ਇੱਕ <label data-l10n-name="community-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ ਹੈ,</label> ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
-helpus = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਦਿਉ</label> ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਭਾਗ ਲਵੋ!</label>
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ਮਿਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਪਬਲਿਕ ਅਤੇ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲੀ <label data-l10n-name="community-exp-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ</label> ਹੈ।
+community-2 = { -brand-short-name } ਨੂੰ  <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ਨੇ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਹੈ, ਜੋ ਮਿਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਆਜ਼ਾਦ, ਪਬਲਿਕ ਅਤੇ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖਣ ਲਈ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਵਾਲੀ <label data-l10n-name="community-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ ਹੈ</label>।
+helpus = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਦਿਓ</label> ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਭਾਗ ਲਵੋ!</label>
 bottomLinks-license = ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ
 bottomLinks-rights = ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
 bottomLinks-privacy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
