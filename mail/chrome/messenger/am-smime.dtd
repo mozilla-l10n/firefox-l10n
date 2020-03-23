@@ -12,6 +12,12 @@
 <!ENTITY alwaysEncryptMessage.label "Påkrevd (alle mottakere må ha sertifikater)">
 <!ENTITY alwaysEncryptMessage.accesskey "P">
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet for å kryptere og dekryptere meldinger:">
+
+<!ENTITY e2eTitle.label "Ende-til-ende-kryptering">
+<!ENTITY e2eLearnMore.label "Les mer">
+
+
+
 <!ENTITY digitalSign.certificate.button "Velg …">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Tøm">
@@ -31,7 +37,14 @@
 <!ENTITY manageDevices.label "Sikkerhetsenheter">
 <!ENTITY manageDevices.accesskey "S">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Velg sertifikat">
 <!ENTITY certPicker.info  "Sertifikat:">
 <!ENTITY certPicker.detailsLabel "Detaljer om valgt sertifikat:">
+
