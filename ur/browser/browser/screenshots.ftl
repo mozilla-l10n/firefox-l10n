@@ -9,7 +9,9 @@ screenshots-cancel-button = منسوخ کریں
 screenshots-save-visible-button = مرئی محفوظ کریں
 screenshots-save-page-button = پورا صفحہ محفوظ کریں
 screenshots-download-button = ڈاؤن لوڈ
+screenshots-download-button-tooltip = اسکرین شاٹ ڈاؤن لوڈ کریں
 screenshots-copy-button = نقل کریں
+screenshots-copy-button-tooltip = اسکرین شاٹ کو تختہ تراشہ پر نقل کریں
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
