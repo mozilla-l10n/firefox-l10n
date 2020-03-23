@@ -12,6 +12,13 @@
 <!ENTITY alwaysEncryptMessage.label "Gofynnol (methu anfon negeseuon oni bai fod gan yr holl dderbynwyr dystysgrifau)">
 <!ENTITY alwaysEncryptMessage.accesskey "G">
 <!ENTITY encryptionCert.message "Defnyddio'r dystysgrif i amgryptio a dadgriptio negeseuon gafodd eu hanfon atoch:">
+
+<!ENTITY e2eTitle.label "Amgryptio Oll Gynhwysol">
+<!ENTITY e2eIntro.description "I anfon negeseuon wedi'u hamgryptio neu wedi'u llofnodi'n ddigidol, mae angen i chi ffurfweddu technoleg amgryptio, naill ai OpenPGP neu S/MIME.">
+<!ENTITY e2eLearnMore.label "Dysgu rhagor">
+
+
+
 <!ENTITY digitalSign.certificate.button "Dewis…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Clirio">
@@ -31,7 +38,14 @@
 <!ENTITY manageDevices.label "Dyfeisiau Diogelwch">
 <!ENTITY manageDevices.accesskey "y">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Dewis Tystysgrif">
 <!ENTITY certPicker.info  "Tystysgrif:">
 <!ENTITY certPicker.detailsLabel "Manylion y dystysgrif hon:">
+
