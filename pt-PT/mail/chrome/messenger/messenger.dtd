@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Barra do painel de pastas">
 <!ENTITY folderPaneBar.accesskey "d">
-<!ENTITY folderModeSelector.label "Vistas de pastas">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Selecione a mensagem">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
 <!ENTITY openConversationButton.tooltip "Mostrar conversa da mensagem selecionada">
+<!ENTITY openMsgConversationButton.tooltip "Mostrar a conversação da mensagem selecionada">
 <!ENTITY nextButton.tooltip "Ir para a mensagem seguinte não lida">
 <!ENTITY nextMsgButton.tooltip "Ir para a mensagem seguinte">
 <!ENTITY previousButton.tooltip "Ir para a mensagem anterior não lida">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Classificar mensagens">
 <!ENTITY compactButton.tooltip "Remover mensagens apagadas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Mostrar menu do &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Gerir os seus extras">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Guardar pesquisa como pasta…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Selecionar mensagens">
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatário">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selecione as colunas a mostrar">
+<!ENTITY selectColumn.tooltip "Alternar selecionar todas as mensagens">
 <!ENTITY threadColumn2.tooltip "Mostrar tópicos da mensagem">
 <!ENTITY fromColumn2.tooltip "Ordenar por remetente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
@@ -967,6 +968,8 @@
 <!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Opções do ícone…">
+<!ENTITY dockOptions.label              "Opções do ícone da aplicação…">
 <!ENTITY writeNewMessageDock.label      "Escrever nova mensagem">
 <!ENTITY openAddressBookDock.label      "Abrir livro de endereços">
+
+<!-- Content tab Navigation buttons -->
