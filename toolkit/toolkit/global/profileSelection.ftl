@@ -20,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name }는 사용자 설정 및 기타 사용자 항목에 대한 정보를 사용자 프로필에 저장합니다.
 profile-manager-work-offline =
     .label = 오프라인으로 작업
     .accesskey = o
+profile-manager-use-selected =
+    .label = 시작할 때 묻지 않고 선택한 프로필을 사용
+    .accesskey = s
