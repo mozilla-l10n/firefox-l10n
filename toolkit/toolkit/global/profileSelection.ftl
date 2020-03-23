@@ -21,3 +21,9 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } lagrar information om dina inställningar, bokmärken, e-post och annan användarinformation i din användarprofil.
+profile-manager-work-offline =
+    .label = Arbeta nedkopplad
+    .accesskey = A
+profile-manager-use-selected =
+    .label = Använd den valda profilen utan att fråga vid start
+    .accesskey = d
