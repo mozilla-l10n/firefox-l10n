@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "G">
 <!ENTITY viewSecurityDevices.label "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey "D">
+
+<!ENTITY manageCertificates2.label "Gerir certificados…">
+<!ENTITY manageCertificates2.accesskey "G">
+<!ENTITY viewSecurityDevices2.label "Dispositivos de segurança…">
+<!ENTITY viewSecurityDevices2.accesskey "D">

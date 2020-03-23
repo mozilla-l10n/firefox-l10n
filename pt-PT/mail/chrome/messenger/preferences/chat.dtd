@@ -33,7 +33,7 @@ sentence. -->
 <!ENTITY  dummyNotification.label             "sem informação nenhuma">
 <!ENTITY  getAttention.label                  "Piscar o item da barra de tarefas">
 <!ENTITY  getAttention.accesskey              "f">
-<!ENTITY  getAttentionMac.label               "Animar o ícone da dock">
+<!ENTITY  getAttentionMac.label               "Animar o ícone da doca">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reproduzir um som">

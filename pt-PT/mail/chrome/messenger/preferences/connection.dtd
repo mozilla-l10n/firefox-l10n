@@ -40,6 +40,10 @@
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilizar este proxy para todos os protocolos">
 <!ENTITY  shareproxy.accesskey          "x">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label    "O proxy nunca é utilizado em ligações para localhost, 127.0.0.1 e :: 1.">
 <!ENTITY  autologinproxy.label          "Não solicitar autenticação se a palavra-passe estiver guardada">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Esta opção autentica-lhe silenciosamente em proxies quando tem credenciais guardadas para os mesmos. Será solicitado(a) se a autenticação falhar.">
@@ -47,12 +51,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Ativar DNS por HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "t">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL para resolver DNS por HTTPS">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Utilizar predefinição">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Utilize o URL predefinido para resolver DNS por HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Personalizar">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "z">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Introduza o seu URL preferido para resolver DNS por HTTPS">
