@@ -4,6 +4,10 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - избор профила корисника
+profile-selection-button-accept =
+    .label = Покрени { -brand-short-name }
+profile-selection-button-cancel =
+    .label = Изађи
 profile-selection-new-button =
     .label = Направи профил…
     .accesskey = Н
@@ -16,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } чува податке о вашим подешавањима, поставкама и другим стварима у вашем профилу.
 profile-manager-work-offline =
     .label = Ради ван мреже
     .accesskey = Р
+profile-manager-use-selected =
+    .label = Не питај при следећем покретању
+    .accesskey = с
