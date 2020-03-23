@@ -114,6 +114,14 @@ info-exposed-passwords-found =
        *[other] senhals divulgats demest totas las pèrdas de donadas
     }
 full-report-link = Constulatz lo rapòrt complet sus <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] senhal salvat pòt aver estat divulgat via una pèrda de donadas. Cambiatz aqueste senhal per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
+       *[other] senhals salvats pòdon aver estats divulgats via una pèrda de donadas. Cambiatz aquestes senhals per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
