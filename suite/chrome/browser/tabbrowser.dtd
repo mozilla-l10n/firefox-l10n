@@ -9,6 +9,11 @@
 <!ENTITY  closeTab.accesskey         "S">
 <!ENTITY  closeOtherTabs.label   "Sulje muut välilehdet">
 <!ENTITY  closeOtherTabs.accesskey         "m">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Sulje välilehdet oikealla">
+<!ENTITY  closeTabsToTheEnd.accesskey "o">
 <!ENTITY  reloadAllTabs.label    "Päivitä kaikki välilehdet">
 <!ENTITY  reloadAllTabs.accesskey         "ä">
 <!ENTITY  reloadTab.label        "Päivitä välilehti">
