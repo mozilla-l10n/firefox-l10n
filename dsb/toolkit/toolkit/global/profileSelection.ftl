@@ -18,3 +18,6 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-use-selected =
+    .label = Wubrany profil wužywaś, mimo aby se pśi startowanju pšašało
+    .accesskey = u
