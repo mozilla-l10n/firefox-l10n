@@ -8,10 +8,22 @@ profile-selection-button-accept =
     .label = { -brand-short-name } जागाय
 profile-selection-button-cancel =
     .label = ओंखार लां
+profile-selection-new-button =
+    .label = प्रफाइल सोरजि...
+    .accesskey = C
+profile-selection-rename-button =
+    .label = प्रफाइलखौ फिन मुं हो...
+    .accesskey = R
+profile-selection-delete-button =
+    .label = प्रफाइल खोमोर...
+    .accesskey = D
 
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } आ नोंथांनि बाहायग्रायाव नोंथांनि सेटिं, पसन्द, आरो गुबुन बाहायग्रा आइटेमनि सोमोन्दै फोरमायथिहोग्राखौ दोनथुमो।
+profile-manager-work-offline =
+    .label = खामानि अफलाइन
+    .accesskey = o
 profile-manager-use-selected =
     .label = सेटआपखौ सोङागौमानि सायखखानाय प्रफाइलखौ बाहाय
     .accesskey = s
