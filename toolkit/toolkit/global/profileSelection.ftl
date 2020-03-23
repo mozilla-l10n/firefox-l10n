@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } säilyttää asetuksesi ja m
 profile-manager-work-offline =
     .label = Yhteydetön tila
     .accesskey = Y
+profile-manager-use-selected =
+    .label = Käytä valittua profiilia aina käynnistettäessä
+    .accesskey = K
