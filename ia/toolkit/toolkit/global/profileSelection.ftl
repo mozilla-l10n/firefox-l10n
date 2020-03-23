@@ -20,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } immagazina informationes sur tu configurationes, preferentias e altere datos personal in tu profilo de usator.
 profile-manager-work-offline =
     .label = Travaliar disconnectite
     .accesskey = o
+profile-manager-use-selected =
+    .label = Usar le profilo seligite sin demandar a cata initio
+    .accesskey = s
