@@ -24,3 +24,6 @@ profile-manager-description = Sàbhalaidh { -brand-short-name } fiosrachadh mu n
 profile-manager-work-offline =
     .label = Dèan obair far loidhne
     .accesskey = o
+profile-manager-use-selected =
+    .label = Cleachd a' phròifil a thagh mi 's na faighnich dhìom nuair a thòisicheas e
+    .accesskey = s
