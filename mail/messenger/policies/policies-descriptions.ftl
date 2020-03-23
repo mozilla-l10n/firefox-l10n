@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Pśistup k bokoju about:support blokěrowaś.
 policy-CaptivePortal = Pódpěru za pśedboki zmóžniś abo znjemóžniś.
 policy-CertificatesDescription = Certifikaty pśidaś abo zatwarjone certifikaty wužywaś.
 policy-Cookies = Websedłam dowóliś abo zakazaś, cookieje nastajiś.
+policy-DisabledCiphers = Šyfry znjemóžniś.
 policy-DefaultDownloadDirectory = Standardny ześěgnjeński zarědnik nastajiś.
 policy-DisableAppUpdate = { -brand-short-name } aktualizěrowanje zawoboraś.
 policy-DisableDeveloperTools = Pśistup k wuwijarskim rědam blokěrowaś.
