@@ -26,6 +26,7 @@ policy-DisabledCiphers = Désactiver les chiffrements.
 policy-DefaultDownloadDirectory = Définir le répertoire de téléchargement par défaut.
 policy-DisableAppUpdate = Empêcher le navigateur de se mettre à jour.
 policy-DisableBuiltinPDFViewer = Désactiver PDF.js, la visionneuse PDF intégrée dans { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Empêcher l’agent de navigateur par défaut de prendre des mesures. Uniquement applicable à Windows ; les autres plateformes n’ont pas cet agent.
 policy-DisableDeveloperTools = Bloquer l’accès aux outils de développement.
 policy-DisableFeedbackCommands = Désactiver les commandes permettant d’envoyer des commentaires dans le menu d’aide (Donner votre avis et Signaler un site trompeur).
 policy-DisableFirefoxAccounts = Désactiver les services basés sur un { -fxaccount-brand-name }, y compris la synchronisation.
