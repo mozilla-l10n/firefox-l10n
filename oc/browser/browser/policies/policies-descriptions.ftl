@@ -39,6 +39,7 @@ policy-DisablePocket = Desactiva la foncionalitat d’enregistrament de paginas 
 policy-DisablePrivateBrowsing = Desactivar la navegacion privada.
 policy-DisableProfileImport = Desactiva la comanda de menú que permet d’importar de donadas a partir d’un autre navegador.
 policy-DisableProfileRefresh = Desactiva lo boton Actualizar de { -brand-short-name } dins la pagina about:support.
+policy-DisableSafeMode = Desactivar la reaviada en mòde segur. Nòta : amb Windows desactivar lo passatge en mòde segur es pas que possible via una estrategia de grop.
 policy-DisableSecurityBypass = Empachar l’utilizaire de contornejar d’avises de seguretat.
 policy-DisableSetAsDesktopBackground = Desactiva la comanda contèxtuala Causir l’image coma fons d’ecran pels imatges.
 policy-DisableSystemAddonUpdate = Empachar lo navegador d’installar o metre a jorn los moduls complementaris.
