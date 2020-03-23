@@ -16,6 +16,12 @@
 <!ENTITY closeOtherTabs.label "Fermer les autres onglets">
 <!ENTITY closeOtherTabs.accesskey "a">
 
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Fermer les onglets situés à droite">
+<!ENTITY  closeTabsToTheEnd.accesskey "i">
+
 <!ENTITY uploadFile.label "Télécharger le fichier vers…">
 <!ENTITY uploadFile.accesskey "h">
 
