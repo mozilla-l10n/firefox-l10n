@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Blockera åtkomst till sidan about:support.
 policy-CaptivePortal = Aktivera eller inaktivera stöd för infångstportal.
 policy-CertificatesDescription = Lägg till certifikat eller använd inbyggda certifikat.
 policy-Cookies = Tillåt eller neka webbplatser att ställa in kakor.
+policy-DisabledCiphers = Inaktivera chiffer.
 policy-DefaultDownloadDirectory = Ange standardkatalog för nedladdning.
 policy-DisableAppUpdate = Förhindra { -brand-short-name } från att uppdateras.
 policy-DisableDeveloperTools = Blockera åtkomst till utvecklarverktygen.
