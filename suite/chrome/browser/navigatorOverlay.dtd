@@ -16,6 +16,11 @@
 <!ENTITY closeOtherTabs.label "Stäng alla andra flikar">
 <!ENTITY closeOtherTabs.accesskey "a">
 
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Stäng flikar till höger">
+
 <!ENTITY uploadFile.label "Lägg upp fil…">
 <!ENTITY uploadFile.accesskey "g">
 
