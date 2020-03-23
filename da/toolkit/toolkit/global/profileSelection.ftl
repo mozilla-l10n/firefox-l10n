@@ -20,6 +20,10 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } opbevarer information om dine indstillinger og andre brugerobjekter i din brugerprofil.
 profile-manager-work-offline =
     .label = Arbejd offline
     .accesskey = A
+profile-manager-use-selected =
+    .label = Brug den valgte profil uden at spørge ved opstart
+    .accesskey = B
