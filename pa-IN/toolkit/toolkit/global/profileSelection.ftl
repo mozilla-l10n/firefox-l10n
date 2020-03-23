@@ -9,3 +9,6 @@ profile-selection-button-cancel =
 
 ## Messages used in the profile manager
 
+profile-manager-work-offline =
+    .label = ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ
+    .accesskey = o
