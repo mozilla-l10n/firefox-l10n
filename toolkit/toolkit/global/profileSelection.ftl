@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } تنظیمات، ترجیح�
 profile-manager-work-offline =
     .label = کار برون‌خط
     .accesskey = ن
+profile-manager-use-selected =
+    .label = از پروفایل انتخاب شده بدون پرسش درهنگام‌ راه‌ اندازی استفاده شود
+    .accesskey = ف
