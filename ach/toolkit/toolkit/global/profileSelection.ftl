@@ -4,6 +4,8 @@
 
 profile-selection-button-accept =
     .label = Cak { -brand-short-name }
+profile-selection-button-cancel =
+    .label = Kat woko
 
 ## Messages used in the profile manager
 
