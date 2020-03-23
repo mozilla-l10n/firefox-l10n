@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } ଆପଣଙ୍କର ବି
 profile-manager-work-offline =
     .label = ଅଫ ଲାଇନରେ କାମ କରନ୍ତୁ
     .accesskey = o
+profile-manager-use-selected =
+    .label = ଆରମ୍ଭ ସମୟରେ ନପଚାରି ବଚ୍ଛିତ ରୂପରେଖାକୁ ବ୍ୟବହାର କରନ୍ତୁ
+    .accesskey = s
