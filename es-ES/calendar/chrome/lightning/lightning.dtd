@@ -41,6 +41,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext "Eliminar del calendario">
 <!ENTITY lightning.imipbar.btnDetails.label "Detalles…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext "Mostrar detalles del evento">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label "No mostrarse estos mensajes">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label "Calendario">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext "Ir a la pestaña de calendario">
 <!ENTITY lightning.imipbar.btnMore.label "Más">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext "Pulse para mostrar más opciones">
 <!ENTITY lightning.imipbar.btnReconfirm2.label "Reconfirmar">
