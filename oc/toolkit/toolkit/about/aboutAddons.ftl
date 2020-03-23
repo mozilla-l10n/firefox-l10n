@@ -78,6 +78,9 @@ detail-version =
 detail-last-updated =
     .label = Darrièra mesa a jorn
 detail-contributions-description = Lo desvolopaire d'aqueste modul demanda que l'ajudetz a assegurar lo contunhament de son desvolopament en li pagant una pichona contribucion.
+detail-contributions-button = Contribuir
+    .title = Contribuir al desvolopament d’aqueste modul
+    .accesskey = C
 detail-update-type =
     .value = Mesas a jorn automaticas
 detail-update-default =
@@ -91,15 +94,15 @@ detail-update-manual =
     .tooltiptext = Installa pas automaticament las mesas a jorn
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executar en fenèstras privadas
-detail-private-browsing-description2 = Quand es autorizada, l'extension aurà accès a vòstras activitats en linha pendent la navegacion privada. <label data-l10n-name="detail-private-navigation-learn-more">Ne saber mai</label>
+detail-private-browsing-description2 = Quand es autorizada, l'extension aurà accès a vòstras activitats en linha pendent la navegacion privada. <label data-l10n-name="detail-private-browsing-learn-more">Ne saber mai</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Pas autorizat en fenèstras privadas
-detail-private-disallowed-description = Aquesta extension fonciona pas pendent la navegacion privada. <label data-l10n-name="detail-private-navigation-learn-more">Ne saber mai</label>
+detail-private-disallowed-description = Aquesta extension fonciona pas pendent la navegacion privada. <label data-l10n-name="detail-private-browsing-learn-more">Ne saber mai</label>
 detail-private-disallowed-description2 = Aquesta extension fonciona pas pendent la navegacion privada. <a data-l10n-name="learn-more">Ne saber mai</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Requerís l'accès a las fenèstras privadas
-detail-private-required-description = Aquesta extension a accès a vòstras activitats en linha pendent la navegacion privada. <label data-l10n-name="detail-private-navigation-learn-more">Ne saber mai</label>
+detail-private-required-description = Aquesta extension a accès a vòstras activitats en linha pendent la navegacion privada. <label data-l10n-name="detail-private-browsing-learn-more">Ne saber mai</label>
 detail-private-required-description2 = Aquesta extension a accès a vòstras activitats en linha pendent la navegacion privada. <a data-l10n-name="learn-more">Ne saber mai</a>
 detail-private-browsing-on =
     .label = Autorizar
@@ -154,7 +157,7 @@ private-browsing-description2 =
     { -brand-short-name } serà pas executada per defaut dins una fenèstra privada. Levat se l'autorisatz dins los paramètres,
     l'extension foncionarà pas pendent la navegacion privada e aurà pas accès a vòstras activitats en linha
     Avèm aportat aquesta modificacion per gardar vòstra navigacion privada privada.
-    <label data-l10n-name="private-navigation-learn-more">Aprenètz a gerir los paramètres d'extension</label>
+    <label data-l10n-name="private-browsing-learn-more">Aprenètz a gerir los paramètres d'extension</label>
 extensions-view-discopane =
     .name = Recomandacions
     .tooltiptext = { extensions-view-discopane.name }
@@ -389,6 +392,14 @@ five-star-rating =
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (desactivat)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } revista
+       *[other] { $numberOfReviews } revistas
+    }
 
 ## Pending uninstall message bar
 
@@ -419,6 +430,11 @@ addon-detail-private-browsing-disallow = Autorizar pas
 addon-badge-recommended =
     .title = Recomandada
     .alt = Recomandada
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } recomanda pas que las extensions que respèctan nòstres estandards de seguretat e performança
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Mesas a jorn disponiblas
 recent-updates-heading = Mesas a jorn recentas
 release-notes-loading = Cargament…
