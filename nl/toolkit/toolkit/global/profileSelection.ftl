@@ -24,3 +24,6 @@ profile-manager-description = { -brand-short-name } slaat informatie over uw ins
 profile-manager-work-offline =
     .label = Offline werken
     .accesskey = O
+profile-manager-use-selected =
+    .label = Geselecteerde profiel gebruiken zonder te vragen bij het opstarten
+    .accesskey = r
