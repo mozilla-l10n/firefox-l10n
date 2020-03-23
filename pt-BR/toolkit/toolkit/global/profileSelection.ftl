@@ -15,3 +15,6 @@ profile-selection-new-button =
 ## Messages used in the profile manager
 
 profile-manager-description = O { -brand-short-name } armazena em um perfil os seus dados pessoais e preferências.
+profile-manager-use-selected =
+    .label = Usar o perfil selecionado sem perguntar ao iniciar
+    .accesskey = U
