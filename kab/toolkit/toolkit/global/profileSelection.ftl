@@ -20,6 +20,7 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
+profile-manager-description = { -brand-short-name } ad iḥrez talɣut n iɣewwaṛen-ik usligen d ismeyifen-ik ɣef umaɣnu-ik.
 profile-manager-work-offline =
     .label = Mahel war tuqqna
     .accesskey = M
