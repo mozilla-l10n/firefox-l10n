@@ -12,6 +12,10 @@
 <!ENTITY alwaysEncryptMessage.label "Kryptera alltid (Alla mottagare måste då ha varsitt certifikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "K">
 <!ENTITY encryptionCert.message "Använd följande personliga certifikat:">
+
+
+
+
 <!ENTITY digitalSign.certificate.button "Välj…">
 <!ENTITY digitalSign.certificate.accesskey "ä">
 <!ENTITY digitalSign.certificate_clear.button "Rensa">
@@ -31,7 +35,16 @@
 <!ENTITY manageDevices.label "Säkerhetsenheter">
 <!ENTITY manageDevices.accesskey "S">
 
+
+
+
+
+
+<!ENTITY manageKeys.label "Hantera OpenPGP-nycklar">
+<!ENTITY manageKeys.accesskey "H">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Välj certifikat">
 <!ENTITY certPicker.info  "Certifikat:">
 <!ENTITY certPicker.detailsLabel "Detaljer för valt certifikat:">
+
