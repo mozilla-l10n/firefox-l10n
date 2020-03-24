@@ -36,12 +36,12 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Informacions d'execucion">
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferéncias del periferic">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Paramètres del periferic">
 <!ENTITY runtimeMenu_showSettings_accesskey "p">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Performanças">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "P">
 
 <!ENTITY viewMenu_label "Veire">
 <!ENTITY viewMenu_accesskey "V">
@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Dobrir una aplicacion">
+
 <!ENTITY runtimeButton_label "Causir un entorn d'execucion">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -76,7 +77,6 @@
 <!ENTITY runtimePanel_usb "Periferics USB">
 <!ENTITY runtimePanel_wifi "Periferics Wi-Fi">
 <!ENTITY runtimePanel_other "Autres">
-<!ENTITY runtimePanel_noadbhelper "Installar l'ajuda ADB">
 <!ENTITY runtimePanel_nousbdevice "Vesètz pas vòstre periferic ?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualizar los periferics">
 
@@ -119,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informacions sus l'entorn d'execucion">
-<!ENTITY runtimedetails_adbIsRoot "ADB a los privilègis administrator :">
-<!ENTITY runtimedetails_summonADBRoot "periferics amb privliègis administrator">
-<!ENTITY runtimedetails_ADBRootWarning "(demanda un bootloader desvarolhat)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilègis DevTools pas restrents : ">
-<!ENTITY runtimedetails_requestPrivileges "demandar de privilègis superiors">
-<!ENTITY runtimedetails_privilegesWarning "(Tornarà aviar lo periferic. Cal los privilègis administrator.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Valor booleana">
@@ -146,10 +140,6 @@
 <!ENTITY devicesetting_newname "Nom del paràmetre novèl">
 <!ENTITY devicesetting_newtext "Valor del paramètre">
 <!ENTITY devicesetting_addnew "Apondre un paramètre novèl">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Ajuda">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

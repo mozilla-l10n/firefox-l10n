@@ -174,6 +174,11 @@ about-debugging-runtime-profile-button2 = Crear un perfil de las performanças
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = La configuracion del navegador es pas compatibla amb los Service Workers. <a>Ne saber mai</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = La version de l’environament connectat es vièlha ({ $runtimeVersion }). La version minimala presa en carga es ({ $minVersion }). Aquesta configuracion es pas presa en carga e pòt menar a un arrèst de DevTools. Mercés de metre a jorn l’environament connectat.<a>Diagnostic de connexion</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
