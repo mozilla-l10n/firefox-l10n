@@ -22,6 +22,8 @@
 <!ENTITY e2eTechPref.description "Бажана технологія шифрування:">
 
 <!ENTITY doNotEncrypt.label "Не вмикайте шифрування для усієї пошти">
+<!ENTITY requireEncryptMessage.label "Необхідне шифрування (типово)">
+<!ENTITY encryptionCert2.message "Особистий сертифікат для шифрування:">
 <!ENTITY digitalSign.certificate.button "Вибрати…">
 <!ENTITY digitalSign.certificate.accesskey "В">
 <!ENTITY digitalSign.certificate_clear.button "Очистити">
@@ -32,6 +34,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "и">
 <!ENTITY signingGroupTitle.label "Цифровий підпис">
 <!ENTITY signMessage.label "Підписувати листи цифровим підписом (типово)">
+<!ENTITY signMessage2.label "Додати мій цифровий підпис типово">
 <!ENTITY signMessage.accesskey "і">
 <!ENTITY signingCert.message "Особистий сертифікат для підпису:">
 
@@ -41,14 +44,25 @@
 <!ENTITY manageDevices.label "Керувати пристроями">
 <!ENTITY manageDevices.accesskey "К">
 
+<!ENTITY signingCert2.message "Особистий сертифікат для цифрового підпису:">
 
+<!ENTITY sendingDefaults.label "Типові параметри надсилання повідомлень">
 
+<!ENTITY technologyAutomatic.label "Вибирати автоматично на основі доступних ключів або сертифікатів">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Керувати сертифікатами S/MIME">
+<!ENTITY manageDevices2.label "Пристрої захисту S/MIME">
 
+<!ENTITY technologySMIME.label "Надавати перевагу S/MIME">
+<!ENTITY technologyOpenPGP.label "Надавати перевагу OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Керувати ключами OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Обрати сертифікат">
 <!ENTITY certPicker.info  "Сертифікат:">
 <!ENTITY certPicker.detailsLabel "Подробиці про вибраний сертифікат:">
 
+<!ENTITY openpgpKey.message "Особистий ключ для шифрування та цифрового підпису:">
