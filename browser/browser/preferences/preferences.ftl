@@ -80,12 +80,18 @@ extension-controlled-homepage-override = एक्सटेंशन, <img data-
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके नये टैब के पृष्ठ को नियंत्रित कर रहा है.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = एक एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, इस सेटिंग को नियंत्रित कर रहा है।
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके डिफ़ॉल्ट खोज इंजन को नियंत्रित कर रहा है.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, को कंटेनर टैब की आवश्यकता है.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = एक एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, इस सेटिंग को नियंत्रित कर रहा है।
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, यह नियंत्रित कर रहा है { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
@@ -114,6 +120,7 @@ startup-header = आरंभन
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } और Firefox को एक ही समय में चलने के लिए स्वीकारें
+use-firefox-sync = सलाह: यह अलग प्रोफाइल का उपयोग करता है। उनके बीच डेटा साझा करने के लिए { -sync-brand-short-name } का उपयोग करें।
 get-started-not-logged-in = { -sync-brand-short-name } में साइन इन करें…
 get-started-configured = { -sync-brand-short-name } वरीयताएँ खोलें
 always-check-default =

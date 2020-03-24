@@ -59,6 +59,8 @@ policy-PromptForDownloadLocation = पूछें कि डाउनलोड 
 policy-Proxy = प्रॉक्सी सेटिंग्स कॉन्फ़िगर करें।
 policy-SanitizeOnShutdown2 = शटडाउन पर स्पष्ट नेविगेशन डेटा।
 policy-SearchSuggestEnabled = खोज सुझावों को सक्षम या अक्षम करें।
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11 मॉड्यूल इंस्टॉल करें।
 policy-SSLVersionMax = सबसे अधिक SSL संस्करण देखे।
 policy-SSLVersionMin = सबसे कम SSL संस्करण देखे।
 policy-SupportMenu = मदद मेनू में एक कस्टम समर्थन मेनू आइटम जोड़ें।
