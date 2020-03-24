@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "صفحہ لوڈ کرنے میں مسلہ">
 <!ENTITY retry.label "دوبارہ کوشش کریں">
 <!ENTITY returnToPreviousPage.label "واپس جائیں">
+<!ENTITY returnToPreviousPage1.label "واپس جائیں (تجویز شدہ)">
 
 <!-- Specific error messages -->
 
@@ -117,6 +118,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "بلاک شدہ صفحہ">
 
 
+<!ENTITY clockSkewError.title "آپ کے کمپیوٹر کی گھڑی غلط ہے">
 
 <!ENTITY prefReset.longDesc "ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی ترتیبات ہو سکتی ہے۔ کیا آپ طےشدہ ترتیبات بحال کرناچاہتے ہیں؟">
 <!ENTITY prefReset.label "طے شدہ ترتیبات بحال کریں">
