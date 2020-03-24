@@ -13,8 +13,12 @@
 <!ENTITY alwaysEncryptMessage.accesskey "T">
 <!ENTITY encryptionCert.message "Toś ten certifikata wužywaś, aby se powěsći, kótarež su se pśipósłali, šifrěrowali a dešifrěrowali:">
 
+<!ENTITY e2eTitle.label "Koděrowanje wót kóńca do kóńca">
+<!ENTITY e2eIntro.description "Aby skoděrowane abo digitalnje signěrowane powěsći pósłał, musyśo koděrowańsku technologiju konfigurěrowaś, pak OpenPGP pak S/MIME.">
 <!ENTITY e2eLearnMore.label "Dalšne informacije">
 
+<!ENTITY e2eEnc.description "Bźez koděrowanja wót kóńca do kóńca se wopśimjeśe powěsćow lažko wašomu e-mailowemu póbitowarjeju pokazujo a masowemu doglědowanjeju wustaja.">
+<!ENTITY e2eeReqWarning.description "Jolic skoděrowanju trjebaśo, aby powěsć pósłał, musyśo zjawny kluc abo certifikat kuždego dostawarja měś.">
 
 
 <!ENTITY digitalSign.certificate.button "Wubraś…">
