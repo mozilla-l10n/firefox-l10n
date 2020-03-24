@@ -22,6 +22,7 @@ policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v d
 policy-CaptivePortal = Omogoči ali onemogoči podporo za prestrezni portal.
 policy-CertificatesDescription = Dodaj digitalna potrdila ali uporabi vgrajena potrdila.
 policy-Cookies = Spletnim stranem dovoli ali zavrni nastavljanje piškotkov.
+policy-DisabledCiphers = Onemogoči šifre.
 policy-DefaultDownloadDirectory = Nastavi privzeto mapo za prenose.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
 policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.

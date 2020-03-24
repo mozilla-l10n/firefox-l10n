@@ -107,6 +107,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Potrdite svojo identiteto za urejanje shranjene prijave.
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Potrdite svojo identiteto za prikaz shranjenega gesla.
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Potrdite svojo identiteto za kopiranje shranjenega gesla.
 
 ## Master Password notification
 

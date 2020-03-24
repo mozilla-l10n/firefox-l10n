@@ -56,6 +56,8 @@ fingerprinter-tab-title = Sledilci prstnih odtisov
 fingerprinter-tab-content = Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo na različnih spletnih straneh. <a data-l10n-name="learn-more-link">Več o tem</a>
 cryptominer-tab-title = Kriptorudarji
 cryptominer-tab-content = Kriptorudarji izrabljajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja. Rudarski skripti vam praznijo baterijo, upočasnjujejo računalnik in zasolijo račun za elektriko. <a data-l10n-name="learn-more-link">Več o tem</a>
+mobile-app-title = Zavrnite sledilce oglasov na več napravah
+mobile-app-card-content = Uporabljajte mobilni brskalnik z vgrajeno zaščito pred sledilci oglasov.
 mobile-app-links = Brskalnik { -brand-product-name } za <a data-l10n-name="android-mobile-inline-link">Android</a> in <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nikoli več ne pozabite gesla
 lockwise-title-logged-in = { -lockwise-brand-name }
