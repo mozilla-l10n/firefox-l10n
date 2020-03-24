@@ -12,6 +12,16 @@
 <!ENTITY alwaysEncryptMessage.label "Завжди (листа не буде відіслано, якщо не у всіх адресатів є сертифікати)">
 <!ENTITY alwaysEncryptMessage.accesskey "З">
 <!ENTITY encryptionCert.message "Особистий сертифікат для шифрування: ">
+
+<!ENTITY e2eTitle.label "Наскрізне шифрування">
+<!ENTITY e2eIntro.description "Щоб надсилати зашифровані або підписані цифровим підписом повідомлення, вам необхідно налаштувати технологію шифрування OpenPGP або S/MIME.">
+<!ENTITY e2eLearnMore.label "Докладніше">
+
+<!ENTITY e2eEnc.description "Якщо не захистити вміст повідомлень наскрізним шифруванням, він може бути легко переглянутий постачальником електронної пошти та засобами масового спостереження.">
+
+<!ENTITY e2eTechPref.description "Бажана технологія шифрування:">
+
+<!ENTITY doNotEncrypt.label "Не вмикайте шифрування для усієї пошти">
 <!ENTITY digitalSign.certificate.button "Вибрати…">
 <!ENTITY digitalSign.certificate.accesskey "В">
 <!ENTITY digitalSign.certificate_clear.button "Очистити">
@@ -31,7 +41,14 @@
 <!ENTITY manageDevices.label "Керувати пристроями">
 <!ENTITY manageDevices.accesskey "К">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Обрати сертифікат">
 <!ENTITY certPicker.info  "Сертифікат:">
 <!ENTITY certPicker.detailsLabel "Подробиці про вибраний сертифікат:">
+
