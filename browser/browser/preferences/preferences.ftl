@@ -502,6 +502,7 @@ search-bar-shown =
     .label = औज़ार पट्टी में खोज पट्टी जोड़े
 search-engine-default-header = तयशुदा खोज इंजिन
 search-engine-default-desc = पता पट्टी और खोज पट्टी में उपयोग करने के लिए डिफ़ॉल्ट खोज इंजन का चयन करें.
+search-engine-default-desc-2 = यह पता पट्टी और खोज पट्टी में आपका तयशुदा खोज इंजन है। आप इसे किसी भी समय बदल सकते हैं।
 search-engine-default-private-desc-2 = केवल निजी विंडोज़ के लिए एक अलग तयशुदा खोज एंजिन चुनें
 search-separate-default-engine =
     .label = इस खोज इंजन का उपयोग निजी विंडोज में करें
