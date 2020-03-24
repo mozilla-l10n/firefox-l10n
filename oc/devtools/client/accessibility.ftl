@@ -31,6 +31,7 @@ accessibility-text-label-issue-fieldset = Los elements <code>fieldset</code> dev
 accessibility-text-label-issue-fieldset-legend2 = Utilizatz un element <code>legend</code> per etiquetar un element <span>fieldset</span>. <a>Ne saber mai</a>
 accessibility-text-label-issue-form = Los elements de formularis devon aver una etiqueta. <a>Ne saber mai</a>
 accessibility-text-label-issue-form-visible = Los elements de formularis devon aver una etiqueta de tèxt visibla. <a>Ne saber mai</a>
+accessibility-text-label-issue-frame = Los elements <code>frame</code> devon aver una etiqueta. <a>Ne saber mai</a>
 accessibility-text-label-issue-glyph = Utilizatz l’atribut <code>alt</code> per etiquetar los elements <span>mglyph</span>. <a>Ne saber mai</a>
 accessibility-text-label-issue-heading = Los títols devon èsser etiquetats. <a>Ne saber mai</a>
 accessibility-text-label-issue-heading-content = Los títols devon aver un tèxte visible. <a>Ne saber mai</a>
