@@ -46,6 +46,7 @@ certificate-viewer-purposes = Intents
 certificate-viewer-qualifier = Qualifitgader
 certificate-viewer-qualifiers = Qualifitgaders
 certificate-viewer-required = Obligatoric
+certificate-viewer-unsupported = &lt;betg sustegnì&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Stadi/provinza da registraziun
 certificate-viewer-state-province = Stadi/provinza
