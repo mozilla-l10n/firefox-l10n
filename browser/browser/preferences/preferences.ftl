@@ -792,6 +792,8 @@ forms-master-pw-fips-desc = Sprememba gesla neuspešna
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Potrdite svojo identiteto za ustvarjanje glavnega gesla.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History

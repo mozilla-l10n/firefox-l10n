@@ -131,6 +131,9 @@ cfr-whatsnew-lockwise-take-link-text = Prenesite aplikacijo
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Pišite manj, najdite več z naslovno vrstico
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Z enim klikom v naslovno vrstico prikličite najpogosteje uporabljane strani. Hitreje poiščite stvari z rezultati iskalnika { $searchEngineName } in iz zgodovine brskanja.
 cfr-whatsnew-searchbar-body-generic = Dostopajte do strani, ki jih največkrat uporabljajte, z enim klikom v naslovni vrstici. Hitreje poiščite stvari z rezultati iskanja iz zgodovine brskanja.
 cfr-whatsnew-searchbar-icon-alt-text = Ikona povečevalnega stekla
 
