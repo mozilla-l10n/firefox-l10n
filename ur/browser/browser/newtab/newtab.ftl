@@ -34,6 +34,7 @@ newtab-topsites-url-input =
     .placeholder = ٹائپ کریں یا ایک URL چسباں کریں
 newtab-topsites-url-validation = جائز URL درکار ہے
 newtab-topsites-image-url-label = مخصوص نقش کا URL
+newtab-topsites-use-image-link = ایک مخصوص تصویر استعمال کریں…
 newtab-topsites-image-validation = نقش لوڈ ہونے میں ناکام رہا۔ براہ مہربانی ایک مختلف URL کو آزمائیں۔
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.

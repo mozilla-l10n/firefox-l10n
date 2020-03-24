@@ -24,4 +24,5 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = سطح 1 بلاک کی فہرست (تجویز کردہ)
+blocklist-item-moz-std-description = کچھ ٹریکروز کو اجازت دیں تاکہ کام ویبسایٹس ٹوٹیں.
 blocklist-item-moz-full-listName = سطح 2 بلاک کی فہرست.
