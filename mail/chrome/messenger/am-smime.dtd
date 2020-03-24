@@ -14,8 +14,11 @@
 <!ENTITY encryptionCert.message "Tutón certifikat wužić, zo byšće připósłane powěsće zaklučował a dešifrował:">
 
 <!ENTITY e2eTitle.label "Zaklučowanje wot kónca do kónca">
+<!ENTITY e2eIntro.description "Zo byšće zaklučowane abo digitalnje signowane powěsće pósłał, dyrbiće zaklučowansku technologiju konfigurować, pak OpenPGP pak S/MIME.">
 <!ENTITY e2eLearnMore.label "Dalše informacije">
 
+<!ENTITY e2eEnc.description "Bjez zaklačowanja wot kónca do kónca so wobsah powěsćow lochko wašemu e-mejlowemu poskićowarjej pokazuje a masowemu dohladowanju wustaja.">
+<!ENTITY e2eeReqWarning.description "Jeli zaklučowanje trjebaće, zo byšće powěsć pósłał, dyrbiće zjawny kluč abo certifikat kóždeho přijimarja měć.">
 
 <!ENTITY e2eTechPref.description "Preferowana zaklučowanska technologija:">
 
