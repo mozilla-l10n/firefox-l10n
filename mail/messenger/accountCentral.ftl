@@ -28,7 +28,6 @@ import-paragraph = Con { -brand-short-name } puoi importare messaggi di posta, v
 import-label = Importa
     .aria-label = Importa dati da altri programmi
 about-paragraph = Thunderbird è il principale software open source e multipiattaforma per la gestione di posta elettronica e appuntamenti, gratuito sia per uso personale che commerciale. Il nostro obiettivo è garantire agli utenti la massima sicurezza e offrire un prodotto sempre migliore. Le donazioni ci consentono di assumere sviluppatori, pagare le infrastrutture necessarie e implementare miglioramenti continui.
-about-donation = fare una donazione
 explore-link = Scopri le funzionalità
 support-link = Supporto
 involved-link = Collabora con noi
