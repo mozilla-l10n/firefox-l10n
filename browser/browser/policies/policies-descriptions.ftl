@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Definir directivas a las qualas WebExtensions pon acceder via chrome.storage.managed.
+policy-AppAutoUpdate = Activar u deactivar l'actualisaziun automatica da l'applicaziun.
 policy-AppUpdateURL = Definir ina URL dad actualisaziun persunalisada per l'applicaziun.
 policy-Authentication = Configurar l'autentificaziun integrada per websites che la sustegnan.
 policy-BlockAboutAddons = Bloccar l'access a l'administraziun da supplements (about:addons).
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Definir la valur da standard per permetter a {
 policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avair avià l'emprima giada. Definir questa directiva cun ina valur vida per deactivar la pagina.
 policy-OverridePostUpdatePage = Surscriver la pagina «What's New» che vegn mussada suenter actualisaziuns. Definir questa directiva cun ina valur vida per impedir che la pagina vegnia mussada.
 policy-PasswordManagerEnabled = Activar la memorisaziun da pleds-clav en l'administraziun da pleds-clav.
-policy-Permissions = Configurar permissiuns per camera, microfon, posiziun e notificaziuns.
 policy-Permissions2 = Configurar permissiuns per camera, microfon, posiziun, notificaziuns e la reproducziun automatica.
 policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
 policy-Preferences = Definescha e fixescha la valur per ina subgruppa da preferenzas.
