@@ -11,3 +11,5 @@ pictureinpicture-mute =
     .aria-label = میوٹ
 pictureinpicture-unmute =
     .aria-label = انمیوٹ
+pictureinpicture-unpip =
+    .aria-label = ٹیب پر واپس بھیجیں
