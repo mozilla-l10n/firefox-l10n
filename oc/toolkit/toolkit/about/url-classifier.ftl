@@ -6,6 +6,7 @@ url-classifier-title = Informacion tocant la classificacion de las URL
 url-classifier-search-title = Recèrca
 url-classifier-search-result-title = Resultats
 url-classifier-search-result-uri = URI : { $uri }
+url-classifier-search-result-list = Lista dels tablèus : { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL invalida
 url-classifier-search-error-no-features = Pas cap de caracteristica seleccionada
