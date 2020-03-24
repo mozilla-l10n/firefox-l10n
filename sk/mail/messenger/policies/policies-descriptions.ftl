@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
+policy-DisabledCiphers = Zakáže šifry.
 policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre preberanie súborov.
 policy-DisableAppUpdate = Zabráni aktualizáciám aplikácie { -brand-short-name }.
 policy-DisableDeveloperTools = Zablokuje prístup k vývojárskym nástrojom.

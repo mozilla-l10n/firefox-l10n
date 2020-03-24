@@ -12,6 +12,14 @@
 <!ENTITY alwaysEncryptMessage.label "Vždy (neumožní odoslanie, ak všetci adresáti nemajú certifikát)">
 <!ENTITY alwaysEncryptMessage.accesskey "d">
 <!ENTITY encryptionCert.message "Na šifrovanie a dešifrovanie správ posielaných vám používať tento osobný certifikát:">
+
+<!ENTITY e2eTitle.label "End-To-End šifrovanie">
+<!ENTITY e2eLearnMore.label "Ďalšie informácie">
+
+
+
+<!ENTITY requireEncryptMessage.label "V predvolenom nastavení vyžadovať šifrovanie">
+<!ENTITY requireEncryptMessage.accesskey "r">
 <!ENTITY digitalSign.certificate.button "Vybrať…">
 <!ENTITY digitalSign.certificate.accesskey "b">
 <!ENTITY digitalSign.certificate_clear.button "Vymazať">
@@ -31,7 +39,19 @@
 <!ENTITY manageDevices.label "Bezpečnostné zariadenia">
 <!ENTITY manageDevices.accesskey "e">
 
+
+
+
+<!ENTITY certificates2.label "S/MIME">
+
+<!ENTITY technologySMIME.label "Preferovať S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferovať OpenPGP">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.accesskey "k">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Vyberte certifikát">
 <!ENTITY certPicker.info  "Certifikát:">
 <!ENTITY certPicker.detailsLabel "Podrobnosti vybraného certifikátu:">
+
