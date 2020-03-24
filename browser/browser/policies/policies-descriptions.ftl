@@ -25,6 +25,7 @@ policy-Cookies = Permetter u scumandar a websites da definir cookies.
 policy-DefaultDownloadDirectory = Definir l'ordinatur da standard per memorisar telechargiadas.
 policy-DisableAppUpdate = Impedir l'actualisaziun dal navigatur.
 policy-DisableBuiltinPDFViewer = Deactivar PDF.js, il lectur per PDFs integrà en { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Impedir ch'il navigatur «default browser agent» exequeschia x ina acziun. Funcziuna mo sin Windows; autras plattafurmas n'han betg l'agent.
 policy-DisableDeveloperTools = Bloccar l'access als utensils per sviluppaders.
 policy-DisableFeedbackCommands = Deactivar ils cumonds per trametter resuns en il menu d'agid (Trametter in resun e Rapportar ina pagina che engiona).
 policy-DisableFirefoxAccounts = Deactivar ils servetschs che sa basan sin { -fxaccount-brand-name }, inclus Sync.
