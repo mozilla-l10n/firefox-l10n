@@ -16,6 +16,7 @@ calendar-label = Calendario
 calendar-description = Con { -brand-short-name } puoi gestire eventi e organizzare le tue attività. Connettiti a un calendario remoto per mantenere sincronizzati gli eventi su tutti i tuoi dispositivi.
 chat-label = Chat
     .aria-label = Connettiti al tuo account per le chat
+chat-description = { -brand-short-name } permette la connessione a più account di messaggistica istantanea, garantendo il supporto per diverse piattaforme.
 filelink-label = Filelink
     .aria-label = Configura Filelink
 filelink-description = Con { -brand-short-name } puoi configurare un comodo account cloud Filelink per inviare facilmente allegati di grandi dimensioni.
