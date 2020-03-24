@@ -22,6 +22,7 @@ policy-Bookmarks = Crear segnapaginas en la trav da segnapaginas, en il menu da 
 policy-CaptivePortal = Activar u deactivar il sustegn per captive portal.
 policy-CertificatesDescription = Agiuntar certificats u utilisar certificats predefinids.
 policy-Cookies = Permetter u scumandar a websites da definir cookies.
+policy-DisabledCiphers = Deactivar la cifraziun.
 policy-DefaultDownloadDirectory = Definir l'ordinatur da standard per memorisar telechargiadas.
 policy-DisableAppUpdate = Impedir l'actualisaziun dal navigatur.
 policy-DisableBuiltinPDFViewer = Deactivar PDF.js, il lectur per PDFs integrà en { -brand-short-name }.
