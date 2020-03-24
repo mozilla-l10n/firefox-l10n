@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Permetre de definir las estrategias que WebExtensions pòdon accedir via chrome.storage.managed.
 policy-AppAutoUpdate = Activar o desactivar la mesa a jorn automatica de las aplicacions.
 policy-AppUpdateURL = Permet de definir una URL de mesa a jorn personalizada per l’aplicacion.
 policy-Authentication = Configura l’autentificacion integrada pels sites web que la prepausan.
@@ -51,6 +52,10 @@ policy-DontCheckDefaultBrowser = Desactiva la verificacion del navegador per def
 policy-DownloadDirectory = Definir e verrolhar lo dossièr de telecargament.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activa o desactiva lo blocatge del contengut e permet de clavar aqueste causida.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Installar, desinstallar o verrolhar las extensions. L’opcion d’installacion accepta URL o camins coma arguments. Las opcions Desinstallar o Verrolhar utilizan los identificants de las extensions.
 policy-ExtensionSettings = Gerir totes los aspècte de l’installacion d’extensions.
 policy-ExtensionUpdate = Activar o desactivar la mesa a jorn automatica de las extensions.
 policy-FirefoxHome = Configurar l’acuèlh de Firefox.
@@ -59,6 +64,7 @@ policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definís la pagina d’acuèlh e prepausa de la verrolhar.
 policy-InstallAddonsPermission = Autoriza certans sites web d'installar d'extensions.
+policy-LegacyProfiles = Desactivar la foncionalitat que fòrça l’utilizacion d’un perfil distint per cada installacion.
 policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
