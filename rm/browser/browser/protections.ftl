@@ -53,6 +53,8 @@ fingerprinter-tab-content = Improntaders rimnan parameters da tes navigatur e co
 cryptominer-tab-title = Criptominiers
 cryptominer-tab-content = Criptominiers maldovran las resursas da tes sistem per generar daners digitals. Scripts da criptominiers consuman la battaria, ralenteschan tes computer e pon augmentar il quint da l'electricitad. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 mobile-app-title = Bloccar fastizaders da reclama sin plirs apparats
+mobile-app-card-content = Utilisar il navigatur mobil cun protecziun cunter fastizaders da reclama integrada.
+mobile-app-links = { -brand-product-name } Navigatur per <a data-l10n-name="android-mobile-inline-link">Android</a> ed <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Mai pli perder in pled-clav
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } memorisescha tes pleds-clav a moda segira en tes navigatur.
