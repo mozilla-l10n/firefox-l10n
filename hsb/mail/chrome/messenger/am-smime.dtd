@@ -20,6 +20,7 @@
 <!ENTITY e2eEnc.description "Bjez zaklačowanja wot kónca do kónca so wobsah powěsćow lochko wašemu e-mejlowemu poskićowarjej pokazuje a masowemu dohladowanju wustaja.">
 <!ENTITY e2eeReqWarning.description "Jeli zaklučowanje trjebaće, zo byšće powěsć pósłał, dyrbiće zjawny kluč abo certifikat kóždeho přijimarja měć.">
 
+<!ENTITY e2eSigning.description "Digitalna signatura přijimarjam zmóžnja, powěsć přepruwować, kotruž sće pósłał, a hač jeje wobsah njeje so změnił.">
 <!ENTITY e2eTechPref.description "Preferowana zaklučowanska technologija:">
 
 <!ENTITY doNotEncrypt.label "Zaklučowanje po standardźe njezmóžnić">
