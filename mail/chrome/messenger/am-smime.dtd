@@ -12,6 +12,16 @@
 <!ENTITY alwaysEncryptMessage.label "Trěbne (njeje móžno powěsć słać, chibazo bychu wšitcy přijimarjo certifikaty měli)">
 <!ENTITY alwaysEncryptMessage.accesskey "T">
 <!ENTITY encryptionCert.message "Tutón certifikat wužić, zo byšće připósłane powěsće zaklučował a dešifrował:">
+
+<!ENTITY e2eTitle.label "Zaklučowanje wot kónca do kónca">
+<!ENTITY e2eLearnMore.label "Dalše informacije">
+
+
+<!ENTITY e2eTechPref.description "Preferowana zaklučowanska technologija:">
+
+<!ENTITY doNotEncrypt.label "Zaklučowanje po standardźe njezmóžnić">
+<!ENTITY doNotEncrypt.accesskey "Z">
+<!ENTITY requireEncryptMessage.label "Zaklučowanje po standardźe požadać">
 <!ENTITY digitalSign.certificate.button "Wubrać…">
 <!ENTITY digitalSign.certificate.accesskey "b">
 <!ENTITY digitalSign.certificate_clear.button "Zhašeć">
@@ -30,8 +40,15 @@
 <!ENTITY manageCerts2.accesskey "C">
 <!ENTITY manageDevices.label "Wěstotne graty">
 <!ENTITY manageDevices.accesskey "W">
-<!-- Strings for the cert picker dialog -->
 
+
+
+
+
+
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Certifikat wubrać">
 <!ENTITY certPicker.info  "Certifikat:">
 <!ENTITY certPicker.detailsLabel "Podrobnosće wubraneho certifikata:">
+
