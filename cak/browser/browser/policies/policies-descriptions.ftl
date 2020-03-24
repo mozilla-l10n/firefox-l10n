@@ -26,6 +26,7 @@ policy-DisabledCiphers = Kechup ewan rusik'ixik.
 policy-DefaultDownloadDirectory = Tijikib'äx ri kimolwuj qasanïk kan k'o wi.
 policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
 policy-DisableBuiltinPDFViewer = Tichup PDF.js, ri tz'etöy PDF pa { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Nutz'ët chi ri b'anel okem pa k'amaya'l k'o tisamäj. Xa xe okel pa Windows; juley chi taq nuk'uche'el manjun kib'anel.
 policy-DisableDeveloperTools = Tiq'at okem pa ri kisamajib'al b'anonela'.
 policy-DisableFeedbackCommands = Kechup taq nuk'uj richin yetaq taq tzijol pa ri ruk'utsamaj Tob'äl (Titaq Tzijol chuqa' Kesujüx Q'olonel taq Ruxaq).
 policy-DisableFirefoxAccounts = Tichup { -fxaccount-brand-name } samaj ruxe'el, chuqa' Sync.
