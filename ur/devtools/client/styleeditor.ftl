@@ -23,3 +23,5 @@ styleeditor-no-stylesheet = اس صفحے کا کوئی طرز ورق نہیں �
 styleeditor-no-stylesheet-tip = شاید آپ کو کرنا چاہوں گا<a data-l10n-name="append-new-stylesheet">نیا طرز ورق ملائیں</a>؟
 styleeditor-open-link-new-tab =
     .label = ربط نئی ٹیب میں کھولیں
+styleeditor-copy-url =
+    .label = URL نقل کریں
