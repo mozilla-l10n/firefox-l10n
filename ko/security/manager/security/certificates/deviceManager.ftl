@@ -86,7 +86,7 @@ devinfo-label =
     .label = 레이블
 devinfo-serialnum =
     .label = 일련 번호
-fips-nonempty-password-required = FIPS 모드는 각 보안 장치에 적용할 하나로 통합된 기본 비밀번호 설정이 필요합니다. FIPS 모드를 사용하기 전에 먼저 기본 비밀번호를 설정하세요.
+fips-nonempty-password-required = FIPS 모드는 각 보안 장치에 적용할 하나로 통합된 마스터 비밀번호 설정이 필요합니다. FIPS 모드를 사용하기 전에 먼저 마스터 비밀번호를 설정하세요.
 unable-to-toggle-fips = 보안 장치에 대해 FIPS 모드를 변경할 수 없습니다. 이 애플리케이션을 종료 후 다시 시작하는 것을 권장합니다.
 load-pk11-module-file-picker-title = 로드 할 PKCS#11 장치 드라이버 선택
 # Load Module Dialog
