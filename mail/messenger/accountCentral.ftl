@@ -13,6 +13,7 @@ email-label = Courrier électronique
 email-description = { -brand-short-name } vous permet de vous connecter à votre compte de messagerie existant, pour lire vos messages de manière pratique et efficace depuis l’application.
 calendar-label = Agenda
     .aria-label = Créer un nouvel agenda
+calendar-description = { -brand-short-name } vous permet de gérer vos évènements et de vous organiser. La connexion à un agenda distant gardera tous vos évènements synchronisés sur tous vos appareils.
 chat-label = Discussion
     .aria-label = Se connecter à votre compte de messagerie instantanée
 chat-description = { -brand-short-name } vous permet de vous connecter à plusieurs comptes de messagerie instantanée, prenant en charge diverses plateformes.
