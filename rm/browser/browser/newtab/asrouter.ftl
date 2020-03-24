@@ -123,6 +123,7 @@ cfr-whatsnew-searchbar-title = Tippar main e chattar dapli cun la trav d'adressa
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Visita las paginas che ti dovras il pli savens cun be in clic en la trav d'adressas. Chatta pli spert quai che ti tschertgas cun resultats da { $searchEngineName } e da tia cronologia da navigaziun.
 cfr-whatsnew-searchbar-body-generic = Visita las paginas che ti dovras il pli savens cun be in clic en la trav d'adressas. Chatta pli spert quai che ti tschertgas cun resultats or da tia cronologia da navigaziun.
+cfr-whatsnew-searchbar-body-topsites = Ussa tanschi da tscherner la trav d'adressas ed ina chascha cun colliaziuns a tias paginas principalas s'avra.
 cfr-whatsnew-searchbar-icon-alt-text = Icona da marella
 
 ## Picture-in-Picture
