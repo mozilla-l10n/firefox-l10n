@@ -26,6 +26,7 @@ policy-DisabledCiphers = Sens allalen n uwgelhen.
 policy-DefaultDownloadDirectory = Ad yesbadu akaram n usider s wudem amezwer.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Ad isewḥel imeggi n yiminig s wudem amezwer akken ur iteg ara kra. Ad yeddu kan deg Windows; inagrawen-nniḍen ur sɛin ara imeggi-a.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
 policy-DisableFeedbackCommands = Sens tiludna akken ad aɣ-d-tazneḍ tikti-inek/inem seg wumuɣ n tallelt ( Azen-d tikti u mmel-aɣ-d ismal ur nemɛin ara).
 policy-DisableFirefoxAccounts = Sens tanfiwin yebnan ɣef { -fxaccount-brand-name }, ula d Sync.
