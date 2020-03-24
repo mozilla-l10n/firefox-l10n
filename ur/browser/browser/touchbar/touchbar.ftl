@@ -13,6 +13,7 @@ touchbar-fullscreen-exit = پوری سکرین سے باہر نکلیں
 find = ڈھونڈیں
 new-tab = نیا ٹیب
 add-bookmark = بک مارک شامل کریں
+open-bookmarks-sidebar = بک مارکس سائڈبار کھولیں
 reader-view = پڑھنے کا نظارہ
 # Meant to match the string displayed in an empty URL bar.
 open-location = تلاش کریں یا پتہ درج کریں
