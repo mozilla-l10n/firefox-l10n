@@ -88,8 +88,8 @@
 
 <!ENTITY nssFailure2.title "Tuqqna taɣelsant ur teddi ara">
 <!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>Asebter-a i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n isefka i d-itturemsen</li> 
-  <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef ugur-a.</li>
+  <li>Asebter-a i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n yisefka i d-itturemsen</li> 
+  <li>Ma uulac aɣilif, nermes imawlan n usmel web ɣef ugur-a.</li>
 </ul>">
 
 <!ENTITY certerror.longpagetitle2 "Ɣur-k: izmer ad yili ugur n teɣlist">
@@ -123,7 +123,7 @@ was trying to connect. -->
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-a deg usatal-a acku asebter ɣur-s tasertit X-Frame-Options ur t-yeǧǧan ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d-yekkan seg ugbur yerẓen">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa deg tuzna n yisefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Qbel ugur u kemmel">
 
