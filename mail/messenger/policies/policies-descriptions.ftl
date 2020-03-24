@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Přistup na stronu about:support blokować.
 policy-CaptivePortal = Podpěru za předstrony zmóžnić abo znjemóžnić.
 policy-CertificatesDescription = Certifikaty přidać abo zatwarjene certifikaty wužiwać.
 policy-Cookies = Websydłam dowolić abo zakazać, placki nastajić.
+policy-DisabledCiphers = Šifry znjemóžnić.
 policy-DefaultDownloadDirectory = Standardny sćehnjenski zapis nastajić.
 policy-DisableAppUpdate = { -brand-short-name } při aktualizowanju haćić.
 policy-DisableDeveloperTools = Přistup na wuwiwarske nastroje blokować.
