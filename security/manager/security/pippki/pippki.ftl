@@ -7,7 +7,7 @@ password-quality-meter = 비밀번호 수준 측정
 ## Change Password dialog
 
 change-password-window =
-    .title = 기본 비밀번호 변경
+    .title = 마스터 비밀번호 변경
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = 보안 장치: { $tokenName }
@@ -18,11 +18,11 @@ change-password-reenter = 새 비밀번호(재입력):
 ## Reset Password dialog
 
 reset-password-window =
-    .title = 기본 비밀번호 재설정
+    .title = 마스터 비밀번호 재설정
     .style = width: 40em
 reset-password-button-label =
     .label = 재설정
-reset-password-text = 기본 비밀번호를 재설정하면 저장된 모든 웹, 이메일 비밀번호, 양식 데이터, 개인 인증서 및 개인 키에 접근하지 못하게 됩니다. 정말로 기본 비밀번호를 재설정하시겠습니까?
+reset-password-text = 마스터 비밀번호를 재설정하면 저장된 모든 웹, 이메일 비밀번호, 양식 데이터, 개인 인증서 및 개인 키에 접근하지 못하게 됩니다. 정말로 마스터 비밀번호를 재설정하시겠습니까?
 
 ## Downloading cert dialog
 
