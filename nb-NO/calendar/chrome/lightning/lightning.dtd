@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "p">
 <!ENTITY lightning.menupopup.open.message.label       "Lagrede meldinger …">
 <!ENTITY lightning.menupopup.open.message.accesskey   "L">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderfiler …">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slett fra kalenderen">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer …">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Vis detaljer">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ikke vis meg disse meldingene">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalender">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Gå til kalenderfanen">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mer">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Trykk for å vise flere valg">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekreft på nytt">
