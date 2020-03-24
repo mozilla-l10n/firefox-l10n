@@ -43,6 +43,9 @@ about-debugging-sidebar-item-connect-button = Connectar
 about-debugging-sidebar-item-connect-button-connecting = Connexion…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Fracàs de la connexion
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = La connexion es encara en espèra, verificatz los messatges sul navegador cibla
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = La connexion a expirat
 # Temporary text displayed in sidebar items representing remote runtimes after
