@@ -55,6 +55,10 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show as the ALT attribute of a help icon that accompanies the help about
+# debugging link in the footer of the sidebar
+about-debugging-sidebar-support-icon =
+    .alt = مدد کا آئکن
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = الات تازہ کریں
@@ -149,6 +153,10 @@ about-debugging-tmp-extension-reload-button = دوبارہ لوڈ کریں
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = ہٹائیں
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = اندرونی UUID
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
@@ -186,5 +194,7 @@ about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باک�
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = پیغام بند کریں
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = نقص کی تفصیلات
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = تفصیلات
