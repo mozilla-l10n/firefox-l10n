@@ -69,6 +69,9 @@ manifest-loaded-ok = Manifèst cargat.
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = S’es producha una error en cargar lo manifèst :
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Error de las aisinas de desvolopament de Firefox
 # Text displayed when the page has no manifest available
 manifest-non-existing = Cap de manifèst pas trobat a inspectar.
 # Text displayed as the alt attribute for <img> tags showing the icons in the
