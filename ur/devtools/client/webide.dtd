@@ -75,7 +75,7 @@
 <!ENTITY projectPanel_runtimeApps "چلنے کی ایپلیکیشن">
 <!ENTITY projectPanel_tabs "ٹیبیں">
 <!ENTITY runtimePanel_usb "USB کے الات">
-<!ENTITY runtimePanel_wifi "وائی فائی آلات">
+<!ENTITY runtimePanel_wifi "Wi-Fi آلات">
 <!ENTITY runtimePanel_other "دیگر">
 <!ENTITY runtimePanel_nousbdevice "آپ کے آلے کو نہیں دیکھ سکتے؟">
 <!ENTITY runtimePanel_refreshDevices_label " الات تازہ کریں">
