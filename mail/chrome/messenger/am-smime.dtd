@@ -73,3 +73,5 @@
 <!ENTITY certPicker.detailsLabel "Подробиці про вибраний сертифікат:">
 
 <!ENTITY openpgpKey.message "Особистий ключ для шифрування та цифрового підпису:">
+<!ENTITY openpgpKey.button "Призначити персональний ключ…">
+<!ENTITY openpgpKey.accesskey "п">
