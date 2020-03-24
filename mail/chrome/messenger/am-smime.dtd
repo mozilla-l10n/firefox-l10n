@@ -18,11 +18,15 @@
 <!ENTITY e2eLearnMore.label "Докладніше">
 
 <!ENTITY e2eEnc.description "Якщо не захистити вміст повідомлень наскрізним шифруванням, він може бути легко переглянутий постачальником електронної пошти та засобами масового спостереження.">
+<!ENTITY e2eeReqWarning.description "Якщо вам необхідно надіслати зашифроване повідомлення, ви повинні мати відкритий ключ або сертифікат кожного одержувача.">
 
+<!ENTITY e2eSigning.description "Цифровий підпис дозволяє одержувачам перевірити, чи було повідомлення надіслане саме вами, та чи не змінено його вміст.">
 <!ENTITY e2eTechPref.description "Бажана технологія шифрування:">
 
 <!ENTITY doNotEncrypt.label "Не вмикайте шифрування для усієї пошти">
+<!ENTITY doNotEncrypt.accesskey "Н">
 <!ENTITY requireEncryptMessage.label "Необхідне шифрування (типово)">
+<!ENTITY requireEncryptMessage.accesskey "ш">
 <!ENTITY encryptionCert2.message "Особистий сертифікат для шифрування:">
 <!ENTITY digitalSign.certificate.button "Вибрати…">
 <!ENTITY digitalSign.certificate.accesskey "В">
@@ -52,13 +56,16 @@
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Керувати сертифікатами S/MIME">
+<!ENTITY manageCerts3.accesskey "с">
 <!ENTITY manageDevices2.label "Пристрої захисту S/MIME">
+<!ENTITY manageDevices2.accesskey "з">
 
 <!ENTITY technologySMIME.label "Надавати перевагу S/MIME">
 <!ENTITY technologyOpenPGP.label "Надавати перевагу OpenPGP">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
 <!ENTITY manageKeys.label "Керувати ключами OpenPGP">
+<!ENTITY manageKeys.accesskey "к">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Обрати сертифікат">
