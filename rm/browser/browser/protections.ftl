@@ -52,6 +52,7 @@ fingerprinter-tab-title = Improntaders
 fingerprinter-tab-content = Improntaders rimnan parameters da tes navigatur e computer per crear in profil da tai. Cun utilisar questa impronta dal det digitala pon els suandar tes fastiz tranter ina website e la proxima. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 cryptominer-tab-title = Criptominiers
 cryptominer-tab-content = Criptominiers maldovran las resursas da tes sistem per generar daners digitals. Scripts da criptominiers consuman la battaria, ralenteschan tes computer e pon augmentar il quint da l'electricitad. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
+mobile-app-title = Bloccar fastizaders da reclama sin plirs apparats
 lockwise-title = Mai pli perder in pled-clav
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } memorisescha tes pleds-clav a moda segira en tes navigatur.

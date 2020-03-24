@@ -782,6 +782,12 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav universal.
 forms-master-pw-fips-desc = I n'è betg reussì da midar il pled-clav
 
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Verifitgescha tia identitad per crear in pled clav universal.
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Cronologia
