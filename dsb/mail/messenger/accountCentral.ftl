@@ -27,6 +27,7 @@ import-paragraph = { -brand-short-name } wam zmóžnja, e-mailowe powěsći, zap
 import-label = Importěrowaś
     .aria-label = Daty z drugich programow importěrowaś
 about-paragraph = Thunderbird jo wjeducy program wótwórjonego žrědła za e-mail a źěło z kalendrami na někotarych platformach a jo dermotny za komercielne a priwatne wužyśe. Comy, až wóstanjo wěsty a se samo pólěpša. Pósćiwanka nam zmóžnja, wuwijarje pśistajiś, infrastruktura płaśiś a jen dalej pólěpšyś.
+about-paragraph-2 = <b>Thudnerbird se wót wužywarjow kaž wy financěrujo! Jolic Thunderbird lubujośo, pósććo pšosym!</b> Nejlěpša móžnosć za was, aby Thunderbird k dispoziciji wóstał, jo
 about-donation = pósćiś
 explore-link = Funkcije wuslěźiś
 support-link = Pomoc

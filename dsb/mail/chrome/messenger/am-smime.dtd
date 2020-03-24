@@ -20,7 +20,14 @@
 <!ENTITY e2eEnc.description "Bźez koděrowanja wót kóńca do kóńca se wopśimjeśe powěsćow lažko wašomu e-mailowemu póbitowarjeju pokazujo a masowemu doglědowanjeju wustaja.">
 <!ENTITY e2eeReqWarning.description "Jolic skoděrowanju trjebaśo, aby powěsć pósłał, musyśo zjawny kluc abo certifikat kuždego dostawarja měś.">
 
+<!ENTITY e2eSigning.description "Digitalna signatura dostawarjam zmóžnja, powěsć pśeglědowaś, kótaruž sćo pósłał, a lěc jeje wopśimjeśe njejo se změniło.">
+<!ENTITY e2eTechPref.description "Preferěrowana koděrowańska technologija:">
 
+<!ENTITY doNotEncrypt.label "Koděrowanje pó standarźe njezmóžniś">
+<!ENTITY doNotEncrypt.accesskey "K">
+<!ENTITY requireEncryptMessage.label "Koděrowanje pó standarźe pominaś">
+<!ENTITY requireEncryptMessage.accesskey "d">
+<!ENTITY encryptionCert2.message "Wósobinski certifikat za skoděrowanje:">
 <!ENTITY digitalSign.certificate.button "Wubraś…">
 <!ENTITY digitalSign.certificate.accesskey "u">
 <!ENTITY digitalSign.certificate_clear.button "Wuprozniś">
@@ -31,6 +38,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "o">
 <!ENTITY signingGroupTitle.label "Digitalny pódpis">
 <!ENTITY signMessage.label "Powěsći digitalnje pódpisaś (standard)">
+<!ENTITY signMessage2.label "Móju digitalnu signaturu pó standarźe pśidaś">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Toś ten certifikat wužywaś, aby powěsći, kótarež sćelośo, digitalnje pódpisało:">
 
@@ -40,9 +48,11 @@
 <!ENTITY manageDevices.label "Wěstotne rědy">
 <!ENTITY manageDevices.accesskey "s">
 
+<!ENTITY signingCert2.message "Wósobinski certifikat za digitalne koděrowanje:">
 
 <!ENTITY sendingDefaults.label "Standardne nastajenja za słanje powěsćow">
 
+<!ENTITY technologyAutomatic.label "Na zakłaźe k dispoziciji stojecych klucow abo certifikatow awtomatiski wubraś">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Certifikaty S/MIME zastojaś">
@@ -62,5 +72,6 @@
 <!ENTITY certPicker.info  "Certifikat:">
 <!ENTITY certPicker.detailsLabel "Drobnostki wubranego certifikata:">
 
+<!ENTITY openpgpKey.message "Wósobinski kluc za koděrowanje a digitalne signěrowanje:">
 <!ENTITY openpgpKey.button "Wósobinski kluc nastajiś…">
 <!ENTITY openpgpKey.accesskey "s">
