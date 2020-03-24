@@ -134,7 +134,7 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Activar l'orodatatge">
-<!ENTITY options.timestampMessages.tooltip    "Se activatz aquesta opcion, las comandas e las sortidas dins la consòla web aficharàn l'orodatatge">
+<!ENTITY options.timestampMessages.tooltip    "S’activatz aquesta opcion, las comandas e las sortidas dins la consòla web aficharàn l'orodatatge">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
@@ -143,7 +143,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Activar las mapas de font">
-<!ENTITY options.sourceMaps.tooltip1   "En activar aquesta opcion, las fonts seràn ligadas dins las aisinas.">
+<!ENTITY options.sourceMaps.tooltip1   "S’activatz aquesta opcion, las fonts seràn ligadas dins las aisinas.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -175,7 +175,7 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Afichar las donadas de la plataforma Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Se activatz aquesta opcion, los rapòrts del perfilador JavaScript incluiràn los simbòls de la plataforma Gecko">
+<!ENTITY options.showPlatformData.tooltip  "S’activatz aquesta opcion, los rapòrts del perfilador JavaScript incluràn los simbòls de la plataforma Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
