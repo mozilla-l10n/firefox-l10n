@@ -110,11 +110,11 @@ options-enable-service-workers-http-tooltip =
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Activar las mapas de font
 options-source-maps-tooltip =
-    .title = En activar aquesta opcion, las fonts seràn ligadas dins las aisinas.
+    .title = S’activatz aquesta opcion, las fonts seràn ligadas dins las aisinas.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Per aquesta session, recarga la pagina
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Afichar las donadas de la plataforma Gecko
 options-show-platform-data-tooltip =
-    .title = Se activatz aquesta opcion, los rapòrts del perfilador JavaScript incluiràn los simbòls de la plataforma Gecko
+    .title = S’activatz aquesta opcion, los rapòrts del perfilaire JavaScript incluràn los simbòls de la plataforma Gecko
