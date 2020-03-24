@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Заблокувати доступ до сторін
 policy-CaptivePortal = Увімкнути чи вимкнути підтримку перехоплюючого порталу.
 policy-CertificatesDescription = Додати сертифікати або використовувати вбудовані.
 policy-Cookies = Дозволити або заборонити вебсайтам встановлювати куки.
+policy-DisabledCiphers = Вимкнути шифрування.
 policy-DefaultDownloadDirectory = Встановити стандартний каталог завантаження.
 policy-DisableAppUpdate = Заборонити оновлення { -brand-short-name }.
 policy-DisableDeveloperTools = Блокувати доступ до інструментів розробника.
