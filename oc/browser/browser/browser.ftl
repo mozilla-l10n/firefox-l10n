@@ -47,7 +47,7 @@ browser-main-window-content-title-private =
 ##
 
 urlbar-identity-button =
-    .aria-label = Afichar las entresenhas sul site internet
+    .aria-label = Afichar las informacions sul site internet
 
 ## Tooltips for images appearing in the address bar
 
