@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (zdalone zarědniki)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail na wašom licadle wobchowaś)">
 
+<!ENTITY manualConfigTable.summary       "Serwerowe nastajenja">
 <!ENTITY incoming.label                  "Dochadny:">
 <!ENTITY incomingColumn.label            "Dochadajuce">
 <!ENTITY outgoing.label                  "Wuchadny:">
