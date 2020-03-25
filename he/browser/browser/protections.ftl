@@ -51,6 +51,8 @@ tracker-tab-description = אתרים עשויים לטעון פרסומות חי
 fingerprinter-tab-title = רכיבי זהות דיגיטלית
 cryptominer-tab-title = כורי מטבעות דיגיטליים
 cryptominer-tab-content = כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך. <a data-l10n-name="learn-more-link">מידע נוסף</a>
+protections-close-button =
+    .aria-label = סגירה
 mobile-app-title = חסימת רכיבי מעקב של פרסומות ביותר מכשירים
 mobile-app-card-content = ניתן להשתמש בדפדפן הנייד עם הגנה מובנית מפני מעקב של פרסומות.
 mobile-app-links = דפדפן { -brand-product-name } עבור <a data-l10n-name="android-mobile-inline-link">Android</a> ו־<a data-l10n-name="ios-mobile-inline-link">iOS</a>
