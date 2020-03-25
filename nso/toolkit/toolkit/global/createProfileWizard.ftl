@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] O amogetšwe go { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } boloka tshedimošo ka dipeakanyo le dikganyogo tša gago ka go profaele ya gago ya botho.
+profile-creation-explanation-2 = Ge e le gore le abelana kopi ye ya { -brand-short-name } le badiriši ba bangwe, le ka diriša diprofaele go arola tshedimošo ya modiriši yo mongwe le yo mongwe. Go dira se, modiriši yo mongwe le yo mongwe o swanetše go hlama profaele ya gagwe.
 profile-creation-explanation-3 = Ge e le gore ke wena feela yo a šomišago kopi ye ya { -brand-short-name }, o swanetše go ba le bonyenyane profaele e tee. Ge eba o rata, o ka itlhamela diprofaele tše ntši go boloka mehuta ya go fapana ya dipeakanyo le dikganyogo. Ka mohlala, o ka nyaka go ba le diprofaele tša ka thoko tša kgwebo le tša botho.
 profile-creation-explanation-4 =
     { PLATFORM() ->
