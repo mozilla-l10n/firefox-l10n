@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = Segnalibbri
 sidebar-menu-history =
     .label = Stöia
+sidebar-menu-close =
+    .label = Særa a bara de scianco
