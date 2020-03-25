@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] { create-profile-window.title } első lépése
     }
 profile-creation-explanation-1 = A { -brand-short-name } a személyes profilban tárolja a beállításait.
+profile-creation-explanation-2 = Ha a { -brand-short-name } programot más felhasználókkal megosztva használja, érdemes profilokat használni, hogy a személyes adatok ne keveredjenek. Emiatt minden felhasználónak létre kell hoznia a saját profilját.
 profile-creation-explanation-3 = Ha Ön az egyetlen felhasználója ennek a { -brand-short-name }-példánynak, akkor is legalább egy profillal rendelkeznie kell. Igény szerint több profilt is létrehozhat eltérő beállításkészletek tárolására. Elképzelhető például, hogy külön profilt szeretne üzleti és személyes használatra.
 profile-creation-explanation-4 =
     { PLATFORM() ->
