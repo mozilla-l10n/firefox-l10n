@@ -52,6 +52,8 @@ fingerprinter-tab-title = Ñemokuãhũ
 fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oipurúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Umi criptominero oipurúva nde apopyvusu rembipurupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oipurupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy. <a data-l10n-name="learn-more-link">Kuaave</a>
+protections-close-button =
+    .aria-label = Mboty
 mobile-app-title = Ejoko ñemurã rapykuehoha hetave mba’e’okápe
 mobile-app-card-content = Eipuru kundahára oku’éva ñemo’ã ijeheguáva ndive ñemurã rapykuehoha rovake.
 mobile-app-links = Pe kundahára { -brand-product-name } <a data-l10n-name="android-mobile-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
