@@ -6,5 +6,7 @@ sidebar-menu-bookmarks =
     .label = පිටු සලකුණු
 sidebar-menu-history =
     .label = ඉතිහාසය
+sidebar-menu-synced-tabs =
+    .label = සම්මුහුර්ථ කළ ටැබ්
 sidebar-menu-close =
     .label = පැති තීරුව වසන්න
