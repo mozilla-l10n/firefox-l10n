@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Tarixçə
 sidebar-menu-synced-tabs =
     .label = Sinxron Vərəqlər
+sidebar-menu-close =
+    .label = Yan paneli qapat
