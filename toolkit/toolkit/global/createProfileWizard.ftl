@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Bienplegau en { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } almagazena información sobre a suya configuración y preferencias en o suyo perfil personal.
+profile-creation-explanation-2 = Si ye compartiendo ista copia de { -brand-short-name } con atros usuarios, puede fer servir os perfils ta mantener deseparada a información de cadagún d'os usuarios. Ta ixo, cada usuario habría de creyar o suyo propio perfil.
 profile-creation-explanation-3 = Si ye a sola persona que emplega ista copia de { -brand-short-name }, ha de tener a o menos un perfil. Si lo deseya, puede creyar multiples perfils ta almagazenar-ie diferents conchuntos de configuracions y preferencias. Por eixemplo, puestar l'aganaría tener un perfil ta la faina y unatro ta uso personal.
 profile-creation-explanation-4 =
     { PLATFORM() ->
