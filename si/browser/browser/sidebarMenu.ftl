@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = පිටු සලකුණු
 sidebar-menu-history =
     .label = ඉතිහාසය
+sidebar-menu-close =
+    .label = පැති තීරුව වසන්න
