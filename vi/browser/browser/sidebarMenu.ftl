@@ -4,3 +4,5 @@
 
 sidebar-menu-history =
     .label = Lịch sử
+sidebar-menu-synced-tabs =
+    .label = Các thẻ đã đồng bộ
