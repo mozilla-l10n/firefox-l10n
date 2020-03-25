@@ -10,6 +10,8 @@ create-profile-first-page-header =
         [macos] Giới thiệu
        *[other] Chào mừng đến với { create-profile-window.title }
     }
+profile-creation-explanation-1 = { -brand-short-name } lưu các thông tin thiết lập và tùy chọn của bạn trong hồ sơ cá nhân.
+profile-creation-explanation-3 = Nếu là người duy nhất dùng { -brand-short-name }, bạn phải có ít nhất một hồ sơ. Nếu muốn, bạn có thể tạo nhiều hồ sơ cho chính mình để lưu các thiết lập và tùy chọn khác nhau. Ví dụ, có thể bạn muốn có các hồ sơ riêng rẽ cho công việc và cá nhân.
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Để bắt đầu tạo hồ sơ, nhấn Tiếp tục.
@@ -23,6 +25,7 @@ create-profile-last-page-header =
         [macos] Kết thúc
        *[other] Đang hoàn tất { create-profile-window.title }
     }
+profile-creation-intro = Nếu tạo vài hồ sơ, bạn có thể tách biệt chúng bằng cách đặt tên. Có thể dùng tên được cung cấp ở đây hoặc tự đặt theo ý bạn.
 profile-prompt = Nhập tên hồ sơ mới:
     .accesskey = N
 profile-directory-explanation = Thiết lập, tùy chọn và những dữ liệu liên quan đến người dùng sẽ được lưu tại:
