@@ -5,6 +5,7 @@
 
 ## First wizard page
 
+profile-creation-explanation-3 = { -brand-short-name } အားသင်တစ်ယောက်တည်း သုံးဆွဲသည်ဆိုသော်လည်း ပရိုဖိုင်တစ်ခု အနည်းဆုံးထားရှိရမည်ဖြစ်သည် ။ သင်စိတ်ရှိပါကလဲ တစ်ခုထက်ပိုသော ပရိုဖိုင်များအား ဆောက်ထားနိုင်ပြီ အပြင်အဆင်အမျိုးမျိုးဖြင့် သုံးဆွဲနိုင်မည်ဖြစ်ပါသည် ။ ဥပမာအားဖြင့်ဆိုရသော လုပ်ငန်းသုံး ပါဆင်နယ်တစ်ကိုယ်ရည် သုံး ခွဲထားခြင်း။
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] သင့်၏ profile ကို စတင်တည်ဆောက်ရန် Continue ကိုနှိပ်ပါ
@@ -13,9 +14,15 @@ profile-creation-explanation-4 =
 
 ## Second wizard page
 
+profile-creation-intro = သင့်တွင် ပရိုင်ဖိုင်များ စွာရှိပါက ယခုသည်သင် နာမည်များအား မတူအောင်ပေးထားနိုင်ပါသည်။ သို့မဟုတ် ဤတွင်ပေးထားသော နာမည်အားသုံးလိုကသုံး မသုံးလိုက သင်ကိုယ်တိုင်ပေးပြီးသုံး။
+profile-prompt = Eပရိုဖိုင်နာမည် အသစ်တစ်ခုရိုက်ထည့်ပါ:
+    .accesskey = E
 profile-default-name =
     .value = အမြဲအသုံးပြုသောသူ
 profile-directory-explanation = သင်၏ အသုံးပြုသူ settings, preferences နှင့် အခြားသော အသုံးပြုနှင့် သက်ဆိုင်ရာ အချက်အလက်များကို သိမ်းဆည်းထားပါသည်။
 create-profile-choose-folder =
     .label = ဖိုင်တွဲရွေးပါ
     .accesskey = ဖ
+create-profile-use-default =
+    .label = U စံဖိုဒါအဖြစ်သုံး
+    .accesskey = U
