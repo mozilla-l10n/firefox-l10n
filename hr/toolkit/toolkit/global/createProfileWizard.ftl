@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Dobrodošli u { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } sprema informacije o vašim postavkama i osobitostima u vaš osobni profil.
+profile-creation-explanation-2 = Ako ovu kopiju { -brand-short-name }a dijelite s ostalima, možete koristiti profile kako biste informacije svakog korisnika držali odvojenima. Da biste to uradili, svaki korisnik bi trebao stvoriti svoj vlastiti profil.
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Za početak stvaranja vašeg profila, kliknite na Nastavi.
