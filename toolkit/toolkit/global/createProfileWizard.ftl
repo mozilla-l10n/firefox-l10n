@@ -34,3 +34,6 @@ profile-directory-explanation = Vaše korisničke postavke, osobitosti i ostali 
 create-profile-choose-folder =
     .label = Odaberi mapu...
     .accesskey = m
+create-profile-use-default =
+    .label = Koristi zadanu mapu
+    .accesskey = u
