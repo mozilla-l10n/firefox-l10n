@@ -6,3 +6,7 @@ sidebar-menu-bookmarks =
     .label = Leabharmharcanna
 sidebar-menu-history =
     .label = Stair
+sidebar-menu-synced-tabs =
+    .label = Cluaisíní Sioncronaithe
+sidebar-menu-close =
+    .label = Dún an Barra Taoibh
