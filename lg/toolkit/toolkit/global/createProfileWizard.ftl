@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Tukwaniriza ku { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } etereka ebikwata ku ntegeka yo, ebyokweroboza, obulambe na'mabaluwa mu pulofailo yo.
+profile-creation-explanation-2 = Bwoba ogabana kopi eza { -brand-short-name } nabakozesa abalala, oyinza okozesa pulofailo okwawula ebiwandiiko bya buli mukozesa. Okukola kino, buli mukozesa alina okukola pulofailo eyiye.
 profile-creation-explanation-3 = Bwoba ng'okozesa { -brand-short-name } wekka, otondawo pulofailo wakiri emu. Oyinza okukola ezisingawo okutereza entereeza eziwera. Okyokulabirako oyinza okwagala pulofailo eyiyo okwawukana ku ya bizinensi yo.
 profile-creation-explanation-4 =
     { PLATFORM() ->
