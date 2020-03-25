@@ -19,7 +19,7 @@ reader-view = Chế độ đọc sách
 open-location = Tìm kiếm hoặc nhập địa chỉ
 share = Chia sẻ
 close-window = Đóng cửa sổ
-open-sidebar = Thanh bên
+open-sidebar = Thanh lề
 # This string describes shortcuts for search.
 search-popover = Phím tắt tìm kiếm
 # Describes searches limited to a specific scope
