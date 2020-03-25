@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Гісторыя
 sidebar-menu-synced-tabs =
     .label = Сінхранізаваныя карткі
+sidebar-menu-close =
+    .label = Закрыць бакавую панэль
