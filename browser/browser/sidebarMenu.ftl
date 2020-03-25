@@ -4,3 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Záložky
+sidebar-menu-history =
+    .label = História
+sidebar-menu-synced-tabs =
+    .label = Synchronizované karty
