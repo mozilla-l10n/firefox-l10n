@@ -24,6 +24,11 @@ profile-creation-explanation-4 =
 
 ## Second wizard page
 
+create-profile-last-page-header =
+    { PLATFORM() ->
+        [macos] Abschluss
+       *[other] { create-profile-window.title } - Fertigstellen
+    }
 profile-creation-intro = Verschiedene Profile können durch ihre Namen unterschieden werden. Sie können den vorgegebenen oder einen eigenen Namen verwenden.
 profile-prompt = Geben Sie den neuen Profilnamen ein:
     .accesskey = G
