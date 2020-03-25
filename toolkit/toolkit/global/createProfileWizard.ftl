@@ -10,6 +10,8 @@ create-profile-first-page-header =
         [macos] Matseno
        *[other] O amogelesegile mo { create-profile-window.title }
     }
+profile-creation-explanation-1 = { -brand-short-name } e boloka tshedimosetso ka ga boalo le diratwabogolo tsa gago mo porofaeleng ya gago ya sebele.
+profile-creation-explanation-3 = Fa e le wena fela o dirisang khopi eno ya { -brand-short-name }, o tshwanetse go nna le bonnye, porofaele e le nngwe fela. Fa o rata o ka itlhamela diporofaele tse dintsi go bolokela boalo le diratwabogolo tse di farologaneng. Go naya sekai, o ka batla go nna le diporofaele tse di farologaneng tsa tiriso ya kgwebo le ya sebele.
 
 ## Second wizard page
 
@@ -18,3 +20,14 @@ create-profile-last-page-header =
         [macos] Bokhutlo
        *[other] E feleletsa { create-profile-window.title }
     }
+profile-creation-intro = Fa o tlhama diporofaele di le mmalwa o ka di farologanya ka maina a diporofaele. O ka dirisa leina le le tlametsweng fano gongwe wa dirisa la gago.
+profile-prompt = Tsenya leina le lentšhwa la porofaele:
+    .accesskey = T
+profile-default-name =
+    .value = Modirisi yo o Rulaganyeditsweng Ruri
+create-profile-choose-folder =
+    .label = Tlhopha Setsholadifaele…
+    .accesskey = T
+create-profile-use-default =
+    .label = Dirisa Setsholadifaele se se Rulaganyeditsweng Ruri
+    .accesskey = D
