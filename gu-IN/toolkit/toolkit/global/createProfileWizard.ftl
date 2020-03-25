@@ -18,3 +18,4 @@ create-profile-last-page-header =
         [macos] તારણ
        *[other] { create-profile-window.title } સમાપ્ત કરી રહ્યા છીએ
     }
+profile-directory-explanation = તમારા વપરાશકર્તા સેટીંગ, પસંદગીઓ અને અન્ય વપરાશકર્તા-સંબંધિત માહિતી આમાં સંગ્રહવામાં આવશે:
