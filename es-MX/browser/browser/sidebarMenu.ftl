@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Historial
 sidebar-menu-synced-tabs =
     .label = Pestañas sincronizadas
+sidebar-menu-close =
+    .label = Cerrar la barra lateral
