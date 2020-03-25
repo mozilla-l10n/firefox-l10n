@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Toegang tot de about:support-pagina blokkeren.
 policy-CaptivePortal = Ondersteuning voor hotspot-aanmeldingspagina inschakelen of uitschakelen.
 policy-CertificatesDescription = Certificaten toevoegen of ingebouwde certificaten gebruiken.
 policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
+policy-DisabledCiphers = Coderingssuites uitschakelen.
 policy-DefaultDownloadDirectory = Standaard downloadmap instellen.
 policy-DisableAppUpdate = Voorkomen dat { -brand-short-name } wordt bijgewerkt.
 policy-DisableDeveloperTools = Toegang tot de ontwikkelaarshulpmiddelen blokkeren.
