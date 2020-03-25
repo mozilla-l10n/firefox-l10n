@@ -13,6 +13,7 @@ create-profile-first-page-header =
         [macos] Introduction
        *[other] Benvenite al { create-profile-window.title }
     }
+profile-creation-explanation-1 = { -brand-short-name } immagazina informationes sur tu configurationes e preferentias in tu profilo personal.
 profile-creation-explanation-2 = Si tu comparti iste copia de { -brand-short-name } con altere usatores, tu pote usar le profilos pro tener separate le informationes de cata usator. Pro isto, cata usator debe crear su proprie profilo.
 profile-creation-explanation-3 = Si tu es le sol persona que usa iste copia de { -brand-short-name }, tu debe haber al minus un profilo. Si tu lo desira, tu pote crear plure profilos pro te mesme, pro tener gruppos differente de configurationes e de preferentias. Per exemplo tu pote voler profilos separate pro uso commercial e personal.
 profile-creation-explanation-4 =
@@ -33,6 +34,7 @@ profile-prompt = Insere le nove nomine del profilo:
     .accesskey = E
 profile-default-name =
     .value = Usator predefinite
+profile-directory-explanation = Tu configurationes, preferentias e altere datos de usator essera immagazinate in:
 create-profile-choose-folder =
     .label = Eliger un dossier…
     .accesskey = E
