@@ -16,6 +16,11 @@ create-profile-first-page-header =
 profile-creation-explanation-1 = { -brand-short-name } speichert alle Einstellungen und Daten in Ihrem persönlichen Profil.
 profile-creation-explanation-2 = Wenn Sie diese Kopie von { -brand-short-name } mit anderen Anwendern gemeinsam verwenden, können Sie verschiedene Profile nutzen, um die persönlichen Daten jedes Benutzers getrennt zu verwalten. Dazu sollte jeder Anwender sein eigenes Profil erstellen.
 profile-creation-explanation-3 = Auch wenn Sie der einzige Anwender sind, der diese Kopie von { -brand-short-name } verwendet, müssen Sie zumindest ein Profil erstellen. Wenn Sie möchten, können Sie mehrere Profile für sich selbst erstellen, um Ihre Daten getrennt zu verwalten (z. B.: privat und beruflich).
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Um nun ein Profil zu erstellen, klicken Sie auf "Fortsetzen".
+       *[other] Um nun ein Profil zu erstellen, klicken Sie auf "Weiter".
+    }
 
 ## Second wizard page
 
