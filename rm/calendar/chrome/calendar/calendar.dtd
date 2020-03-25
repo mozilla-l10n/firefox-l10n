@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Crear ina nova incumbensa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Incumbensas" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mussar las incumbensas cumplettadas">
 
 <!ENTITY calendar.today.button.label          "Oz">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Mussar las promemorias">
 <!ENTITY calendarproperties.cache3.label                   "Cumpatibel cun il modus senza connexiun">
 <!ENTITY calendarproperties.enabled.label                  "Activar quest chalender">
+<!ENTITY calendarproperties.enabled2.label                 "Activar quest chalender">
 <!ENTITY calendarproperties.forceDisabled.label            "Impussibel da chattar il provider da quest chalender. Quai po capitar sche ti has deactivà u deinstallà tscherts supplements.">
 <!ENTITY calendarproperties.unsubscribe.label              "Deabunar">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "u">
