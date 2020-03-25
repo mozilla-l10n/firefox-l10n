@@ -34,6 +34,7 @@ profile-prompt = نیا پروفائل نام داخل کریں:
     .accesskey = د
 profile-default-name =
     .value = طے شدہ صارف
+profile-directory-explanation = آپ کی ترتیبات، ترجیحات اور دیگر متعلقہ کوائف اس جگح محفوظ ہوں گی:
 create-profile-choose-folder =
     .label = پوشہ انتخاب کریں…
     .accesskey = ا
