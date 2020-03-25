@@ -9,6 +9,11 @@
 <!ENTITY  closeTab.accesskey         "s">
 <!ENTITY  closeOtherTabs.label   "Overige tabbladen sluiten">
 <!ENTITY  closeOtherTabs.accesskey         "e">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Tabbladen aan de rechterkant sluiten">
+<!ENTITY  closeTabsToTheEnd.accesskey "c">
 <!ENTITY  reloadAllTabs.label    "Alle tabbladen vernieuwen">
 <!ENTITY  reloadAllTabs.accesskey         "r">
 <!ENTITY  reloadTab.label        "Tabblad vernieuwen">
