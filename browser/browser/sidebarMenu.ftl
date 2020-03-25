@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = Marcadores
 sidebar-menu-history =
     .label = Historial
+sidebar-menu-close =
+    .label = Pechar a barra lateral
