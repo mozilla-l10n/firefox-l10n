@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Karibu kwa { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } huhifadhi maelezo kuhusu mipangilio yako na mapendeleo katika maelezo yako mafupi ya kibinafsi.
+profile-creation-explanation-2 = Kama unagawiza nakala hii ya { -brand-short-name } na watumiaji wengine, unaweza kutumia maelezo mafupi kuweka kila maelezo ya mtumiaji yakitengana. Kufanya hivi, kila mtumiaji anafaa kuunda maelezo yake mafupi.
 profile-creation-explanation-3 = Kama ni wewe pekee yako unayetumia nakala hii ya { -brand-short-name }, lazima uwe na maelezo mafupi moja au zaidi. Kama ungependa, unaweza kuunda maelezo yako mafupi anuwai mwenyewe kuhifadhi seti tofauti za mipangilio na mapendeleo. Kwa mfano, ungependa kuwa na maelezo mafupi kando ya biashara na matumizi ya kibinafsi.
 profile-creation-explanation-4 =
     { PLATFORM() ->
