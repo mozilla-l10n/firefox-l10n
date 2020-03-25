@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+create-profile-window =
+    .title = Trình tạo mới hồ sơ
+    .style = width: 45em; height: 32em;
 
 ## First wizard page
 
@@ -29,4 +32,12 @@ create-profile-last-page-header =
 profile-creation-intro = Nếu tạo vài hồ sơ, bạn có thể tách biệt chúng bằng cách đặt tên. Có thể dùng tên được cung cấp ở đây hoặc tự đặt theo ý bạn.
 profile-prompt = Nhập tên hồ sơ mới:
     .accesskey = N
+profile-default-name =
+    .value = Default User
 profile-directory-explanation = Thiết lập, tùy chọn và những dữ liệu liên quan đến người dùng sẽ được lưu tại:
+create-profile-choose-folder =
+    .label = Chọn thư mục…
+    .accesskey = C
+create-profile-use-default =
+    .label = Sử dụng thư mục mặc định
+    .accesskey = S
