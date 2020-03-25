@@ -4,3 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Էջանիշեր
+sidebar-menu-history =
+    .label = Պատմություն
+sidebar-menu-synced-tabs =
+    .label = Համաժամեցված ներդիրներ
