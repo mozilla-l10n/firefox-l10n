@@ -5,6 +5,11 @@
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Nyute
+       *[other] Wajoli i { create-profile-window.title }
+    }
 
 ## Second wizard page
 
@@ -13,6 +18,9 @@ create-profile-last-page-header =
         [macos] Dolo tere
        *[other] Tyeko { create-profile-window.title }
     }
+profile-default-name =
+    .value = Latic kit ma onongo tye kwede
+profile-directory-explanation = Ter me ticii, gin ma i maro ki coc mukene ma cal-cal bino gwoke iyie:
 create-profile-choose-folder =
     .label = Yer Boc…
     .accesskey = Y
