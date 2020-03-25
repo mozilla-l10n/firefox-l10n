@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Witajśo do { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } składujo informacije wó wašych nastajenjach a preferencach we wašom wósobinskem profilu.
+profile-creation-explanation-2 = Jolic wužywaśo toś tu kopiju { -brand-short-name } zgromadnje z drugimi wužywarjami, móžośo rozdźelne profile wužywaś, aby informacije kuždego wužywarja rozdźělone źaržał. Za to by dejał kuždy wužywaŕ swój profil załožyś.
 profile-creation-explanation-3 = Jolic sćo jadnučka wósoba, kótaraž wužywa toś tu kopiju { -brand-short-name }, musyśo nanejmjenjej jaden profil měś. Jolic cośo, móžośo někotare profile za sebje załožyś, aby rozdźělne kupki nastajenjow a preference składował. Na pśikład cośo snaź separatne profile za pówołańske a priwatne wužywanje měś.
 profile-creation-explanation-4 =
     { PLATFORM() ->
