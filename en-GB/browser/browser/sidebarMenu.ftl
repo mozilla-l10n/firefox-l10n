@@ -6,3 +6,7 @@ sidebar-menu-bookmarks =
     .label = Bookmarks
 sidebar-menu-history =
     .label = History
+sidebar-menu-synced-tabs =
+    .label = Synced Tabs
+sidebar-menu-close =
+    .label = Close Sidebar
