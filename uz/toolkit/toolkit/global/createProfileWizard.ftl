@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] { create-profile-window.title }ga xush kelibsiz
     }
 profile-creation-explanation-1 = { -brand-short-name } barcha moslamalar va parametrlar ma`lumotlarini shaxsiy profilingizga saqlaydi.
+profile-creation-explanation-2 = Agar siz { -brand-short-name } nusxasini boshqa foydalanuvchilar bilan boʻlishsangiz, har bir foydalanuvchining ma`lumotlarini alohida saqlashingiz mumkin. Bu bilan har bir foydalanuvchi oʻzining shaxsiy profilini yaratishi mumkin.
 profile-creation-explanation-3 = Agar siz { -brand-short-name } nusxasidan foydalanayotgan yagona shaxs boʻsangiz, bitta profilingiz boʻlishi kerak. Agar bir nechta profil yaratmoqchi boʻlsangiz, parametrlar va moslamalarga oʻzgartirish kiritishingiz kerak. Masalan, profillaringizni ish va shaxsiy foydalanish uchun ajratishingiz mumkin.
 profile-creation-explanation-4 =
     { PLATFORM() ->
