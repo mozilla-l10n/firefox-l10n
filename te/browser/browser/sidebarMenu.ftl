@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = చరిత్ర
 sidebar-menu-synced-tabs =
     .label = సింకైన ట్యాబులు
+sidebar-menu-close =
+    .label = పక్క పట్టీని మూయి
