@@ -14,6 +14,8 @@ create-profile-first-page-header =
        *[other] 歡迎使用{ create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } 把您的設定、偏好等各種資料存於您的個人設定檔 (Profile) 中。
+profile-creation-explanation-2 = 如果您與人共用電腦，只需要為每個使用者各自建立 { -brand-short-name } 設定檔即可將各個使用者的資訊分開。
+profile-creation-explanation-3 = 如果只有自己使用，至少還是要建立一個設定檔。當然您若想把工作跟個人用途的資料分開，也可以建立多個 { -brand-short-name } 設定檔。
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] 要開始建立設定檔請按「繼續」。
