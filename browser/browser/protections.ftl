@@ -52,6 +52,8 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters coletam configurações do seu navegador e do computador para traçar um perfil seu. Usando esta identidade digital, eles podem rastrear você por vários sites. <a data-l10n-name="learn-more-link">Saiba mais</a>
 cryptominer-tab-title = Criptomineradores
 cryptominer-tab-content = Criptomineradores usam o poder computacional do seu sistema para minerar moedas digitais. Scripts de criptomineração drenam sua bateria, fazem seu computador ficar mais lento e podem aumentar sua conta de energia elétrica. <a data-l10n-name="learn-more-link">Saiba mais</a>
+protections-close-button =
+    .aria-label = Fechar
 mobile-app-title = Bloqueie rastreadores de anúncios em mais dispositivos
 mobile-app-card-content = Use o navegador móvel com proteção integrada contra rastreamento de anúncios.
 mobile-app-links = Navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
