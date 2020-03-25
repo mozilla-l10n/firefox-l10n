@@ -30,6 +30,14 @@ create-profile-last-page-header =
        *[other] { create-profile-window.title } फोजोब गासिनो दङ
     }
 profile-creation-intro = नोंथाङा गोबां प्रफाइल सोरजियोब्ला नोंथाङा बिसोरनो प्रफाइल मुंखौ खिन्थानो हायो। नोंथाङा बेयाव होखानाय मुंखौ एबा नोंथांनि मोनसे निजि मुंखौ बाहायनो लुबैनो हागौ।
+profile-prompt = गोदान प्रफाइल मुं हाबहो:
+    .accesskey = E
 profile-default-name =
     .value = डिफल्ट बाहायग्रा
 profile-directory-explanation = नोंथांनि बाहायग्रा प्रफाइल, पसन्द आरो गुबुन बाहायग्रा-सोमोन्दोगोनां डाटाखौ दोनथुमगोन:
+create-profile-choose-folder =
+    .label = फल्डार बासिख...
+    .accesskey = C
+create-profile-use-default =
+    .label = डिफल्ट फल्डार बाहाय
+    .accesskey = U
