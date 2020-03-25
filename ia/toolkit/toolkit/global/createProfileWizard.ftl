@@ -13,6 +13,13 @@ create-profile-first-page-header =
         [macos] Introduction
        *[other] Benvenite al { create-profile-window.title }
     }
+profile-creation-explanation-2 = Si tu comparti iste copia de { -brand-short-name } con altere usatores, tu pote usar le profilos pro tener separate le informationes de cata usator. Pro isto, cata usator debe crear su proprie profilo.
+profile-creation-explanation-3 = Si tu es le sol persona que usa iste copia de { -brand-short-name }, tu debe haber al minus un profilo. Si tu lo desira, tu pote crear plure profilos pro te mesme, pro tener gruppos differente de configurationes e de preferentias. Per exemplo tu pote voler profilos separate pro uso commercial e personal.
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Pro comenciar a crear tu profilo, clicca sur Continuar.
+       *[other] Pro comenciar a crear tu profilo, clicca sur Sequente.
+    }
 
 ## Second wizard page
 
@@ -21,8 +28,14 @@ create-profile-last-page-header =
         [macos] Conclusion
        *[other] Completamento de { create-profile-window.title }
     }
+profile-creation-intro = Si tu crea plure profilos tu pote los differentiar per le nomine. Tu pote usar le nomine definite hic o tu pote eliger un altere nomine tu proprie.
+profile-prompt = Insere le nove nomine del profilo:
+    .accesskey = E
 profile-default-name =
     .value = Usator predefinite
 create-profile-choose-folder =
     .label = Eliger un dossier…
     .accesskey = E
+create-profile-use-default =
+    .label = Usar le dossier predefinite
+    .accesskey = U
