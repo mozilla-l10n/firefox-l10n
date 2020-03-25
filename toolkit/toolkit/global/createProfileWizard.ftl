@@ -38,3 +38,6 @@ profile-directory-explanation = Вашы карыстальніцкія нала
 create-profile-choose-folder =
     .label = Выбраць папку…
     .accesskey = В
+create-profile-use-default =
+    .label = Скарыстаць прадвызначанаю папку
+    .accesskey = р
