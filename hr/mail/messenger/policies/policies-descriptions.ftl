@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Blokirajte pristup about:support stranici.
 policy-CaptivePortal = Omogućite ili onemogućite podršku za portal stranicu.
 policy-CertificatesDescription = Dodajte certifikate ili koristite ugrađene certifikate.
 policy-Cookies = Dopustite ili zabranite web stranicama da postavljaju kolačiće.
+policy-DisabledCiphers = Deaktiviraj šifre.
 policy-DefaultDownloadDirectory = Postavite zadanu mapu za preuzimanje datoteka.
 policy-DisableAppUpdate = Spriječi { -brand-short-name } da se ažurira.
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
