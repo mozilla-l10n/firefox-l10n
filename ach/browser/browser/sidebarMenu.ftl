@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Gin mukato
 sidebar-menu-synced-tabs =
     .label = Dirica matino ma kiribo
+sidebar-menu-close =
+    .label = Lor lanyut me nget
