@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Histórico
 sidebar-menu-synced-tabs =
     .label = Abas sincronizadas
+sidebar-menu-close =
+    .label = Fechar painel
