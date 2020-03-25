@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window =
-    .title = Guiden Skapa profil
+    .title = Guiden skapa profil
     .style = width: 45em; height: 34em;
 
 ## First wizard page
@@ -33,11 +33,11 @@ profile-creation-intro = Om du skapar flera olika profiler kan du skilja dem åt
 profile-prompt = Skriv in profilnamnet:
     .accesskey = S
 profile-default-name =
-    .value = standard
+    .value = Standardanvändare
 profile-directory-explanation = Dina inställningar och annan användarrelaterad data kommer att lagras i:
 create-profile-choose-folder =
     .label = Välj mapp…
     .accesskey = V
 create-profile-use-default =
-    .label = Använd Standard
+    .label = Använd standardmapp
     .accesskey = A

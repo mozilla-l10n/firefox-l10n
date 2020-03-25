@@ -56,7 +56,7 @@ protections-close-button =
     .aria-label = Stäng
 mobile-app-title = Blockera annonsspårare på fler enheter
 mobile-app-card-content = Använd den mobila webbläsaren med inbyggt skydd mot annonsspårning.
-mobile-app-links = { -brand-product-name } Browser för <a data-l10n-name="android-mobile-inline-link">Android</a> och <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+mobile-app-links = { -brand-product-name } webbläsare för <a data-l10n-name="android-mobile-inline-link">Android</a> och <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Glöm aldrig ett lösenord igen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrar dina lösenord på ett säkert sätt i din webbläsare.
