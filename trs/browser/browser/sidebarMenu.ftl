@@ -6,3 +6,7 @@ sidebar-menu-bookmarks =
     .label = Sa raj sun nichrò' doj
 sidebar-menu-history =
     .label = Sa gini’iājt
+sidebar-menu-synced-tabs =
+    .label = Nej rakïj ñaj guña hua
+sidebar-menu-close =
+    .label = Narrun' dukuán nahuìi
