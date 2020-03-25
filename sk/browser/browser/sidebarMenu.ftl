@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = História
 sidebar-menu-synced-tabs =
     .label = Synchronizované karty
+sidebar-menu-close =
+    .label = Zavrieť bočný panel
