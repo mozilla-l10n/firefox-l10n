@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Fàilte gu { create-profile-window.title }
     }
 profile-creation-explanation-1 = Cumaidh { -brand-short-name } fiosrachadh nan roghainnean agad 'nad phròifil phearsanta.
+profile-creation-explanation-2 = Ma bhios daoine eile a' cleachdadh { -brand-short-name } air an inneal seo, 's urrainn dhut pròifil a chleachdadh gus fiosrachadh gach cleachdaiche a chumail o chèile. Bu chòir do gach cleachdaiche pròifil aca fhèin a chruthachadh a chum seo.
 profile-creation-explanation-3 = Mas tusa an aon duine a bhios a' cleachdadh { -brand-short-name } air an inneal seo, feumaidh aon phròifil a bhith agad air a' char as lugha. 'S urrainn dhut iomadh pròifil a chruthachadh dhut fhèin, ma thogras tu, gus seataichean eadar-dhealaichte de roghainnean a stòradh. Mar eisimpleir, ma bhios tu ag iarraidh pròifil a chleachdas tu 'nad obair 's tè eile a chum cleachdaidh phearsanta.
 profile-creation-explanation-4 =
     { PLATFORM() ->
