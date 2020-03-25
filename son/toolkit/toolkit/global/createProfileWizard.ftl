@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Kubayni { create-profile-window.title } do
     }
 profile-creation-explanation-1 = { -brand-short-name } ga alhabar jiši war kayandiyaney nda ibaayey še war boŋ alhaaloo ra.
+profile-creation-explanation-2 = Nda war ga { -brand-short-name } berandoo woo žemni goykaw fooyaŋ game, war ga hin ka alhaaley zaa k'i gaabu boro foo kul alhabar bataa ra. Ka woo tee, goykaw foo kul ga hima ka nga boŋ alhaaloo tee.
 profile-creation-explanation-3 = Nda war ti boro follokaa kaŋ ga goy nda { -brand-short-name } berandoo woo; adiši war ga hima ka alhal foo tee. Nda war ga baa, war ga hin ka alhaal booboyaŋ tee war boŋ še ka kayandi dumiyaŋ nda ibaayiyaŋ jiši. Sanda, nda war ga baa alhaali waani-waaniyaŋ tee war goydoo nda hugay misey še.
 profile-creation-explanation-4 =
     { PLATFORM() ->
