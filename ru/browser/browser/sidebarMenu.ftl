@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Журнал
 sidebar-menu-synced-tabs =
     .label = Облачные вкладки
+sidebar-menu-close =
+    .label = Закрыть боковую панель
