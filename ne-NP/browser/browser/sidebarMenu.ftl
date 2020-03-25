@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = इतिहास
 sidebar-menu-synced-tabs =
     .label = Sync गरिएका ट्याबहरू
+sidebar-menu-close =
+    .label = साइडबार बन्द गर्नुहोस्
