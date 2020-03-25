@@ -11,6 +11,7 @@ create-profile-first-page-header =
        *[other] Chào mừng đến với { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } lưu các thông tin thiết lập và tùy chọn của bạn trong hồ sơ cá nhân.
+profile-creation-explanation-2 = Nếu dùng chung { -brand-short-name } với người khác, bạn có thể dùng hồ sơ để lưu các thông tin riêng cho từng người. Để làm việc này, mỗi người nên tạo một hồ sơ riêng cho mình.
 profile-creation-explanation-3 = Nếu là người duy nhất dùng { -brand-short-name }, bạn phải có ít nhất một hồ sơ. Nếu muốn, bạn có thể tạo nhiều hồ sơ cho chính mình để lưu các thiết lập và tùy chọn khác nhau. Ví dụ, có thể bạn muốn có các hồ sơ riêng rẽ cho công việc và cá nhân.
 profile-creation-explanation-4 =
     { PLATFORM() ->
