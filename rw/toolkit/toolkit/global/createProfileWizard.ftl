@@ -12,6 +12,11 @@ create-profile-first-page-header =
     }
 profile-creation-explanation-1 = { -brand-short-name } ibika ibisobanuro bijyanye n'amagenamiterere nibyo wahisemo mu bikuranga byawe bwite.
 profile-creation-explanation-3 = Niba ari wowe wenyine ukoresha iyi kopi ya { -brand-short-name }, ugomba kugira nibura igikuranfa kimwe. Niba ubishaka, ushobora kwiremera ibijyanye binyuranye kugira ngo ubike amatsinda atandukanye y'amagenamiterere n'ibyatoranyijwe. Urugero, ushobora gushaka kugira ibijyanye bitandukanye byo gukoresha mu kazi no ku giti cyawe.
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Kugira ngo utangire kurema umwirondoro wawe, kanda Gukomeza.
+       *[other] Kugira ngo utangire kurema ibikuranga, kanda Ibikurikira.
+    }
 
 ## Second wizard page
 
