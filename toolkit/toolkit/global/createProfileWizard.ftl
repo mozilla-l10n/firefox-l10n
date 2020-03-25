@@ -13,6 +13,8 @@ create-profile-first-page-header =
         [macos] はじめに
        *[other] { create-profile-window.title }の開始
     }
+profile-creation-explanation-1 = { -brand-short-name } はユーザー設定などの情報を個人プロファイルとして保存します。
+profile-creation-explanation-2 = { -brand-short-name } を他のユーザーと共有しているときには各ユーザーが自分用のプロファイルを作成してください。これによりユーザー設定などを個別に保存できます。
 profile-creation-explanation-3 = { -brand-short-name } を一人で使用する場合でも、少なくとも 1 つのプロファイルが必要です。もちろん必要に応じて複数のプロファイルを作成し、別々に保存しておくこともできます。例えば、仕事用とプライベート用とでプロファイルを分けることなどができます。
 profile-creation-explanation-4 =
     { PLATFORM() ->
@@ -32,3 +34,4 @@ profile-prompt = 新しいプロファイルの名前を入力してください
     .accesskey = E
 profile-default-name =
     .value = Default User
+profile-directory-explanation = あなたのユーザー設定やユーザーデータの保存先:
