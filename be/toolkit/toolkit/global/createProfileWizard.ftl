@@ -2,10 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+create-profile-window =
+    .title = Майстар стварэння профіляў
+    .style = width: 55em; height: 34em;
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Уступ
+       *[other] Вас вітае { create-profile-window.title }
+    }
 profile-creation-explanation-2 = Калі вы падзяляеце гэтую копію { -brand-short-name } з іншымі карыстальнікамі, вы можаце стварыць профілі, каб трымаць звесткі карыстальнікаў паасобку. Каб зрабіць гэта, кожны карыстальнік павінны стварыць свой асабісты профіль.
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Каб пачаць стварэнне новага профілю, націсніце Працяг.
+       *[other] Каб пачаць стварэнне новага профілю, націсніце Далей.
+    }
 
 ## Second wizard page
 
@@ -17,6 +30,8 @@ create-profile-last-page-header =
 profile-creation-intro = Калі вы ствараеце некалькі профіляў, яны будуць мець розныя назвы. Вы можаце карыстацца прапанаванаю назваю, ці выбраць сваю ўласную.
 profile-prompt = Увядзіце назву новага профілю:
     .accesskey = У
+profile-default-name =
+    .value = Прадвызначаны карыстальнік
 create-profile-choose-folder =
     .label = Выбраць папку…
     .accesskey = В
