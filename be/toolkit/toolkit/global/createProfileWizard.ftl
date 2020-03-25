@@ -13,6 +13,7 @@ create-profile-first-page-header =
         [macos] Уступ
        *[other] Вас вітае { create-profile-window.title }
     }
+profile-creation-explanation-1 = { -brand-short-name } захоўвае звесткі пра вашы налады і перавагі ў вашым асабістым профілі.
 profile-creation-explanation-2 = Калі вы падзяляеце гэтую копію { -brand-short-name } з іншымі карыстальнікамі, вы можаце стварыць профілі, каб трымаць звесткі карыстальнікаў паасобку. Каб зрабіць гэта, кожны карыстальнік павінны стварыць свой асабісты профіль.
 profile-creation-explanation-4 =
     { PLATFORM() ->
@@ -32,6 +33,7 @@ profile-prompt = Увядзіце назву новага профілю:
     .accesskey = У
 profile-default-name =
     .value = Прадвызначаны карыстальнік
+profile-directory-explanation = Вашы карыстальніцкія налады, перавагі і іншыя ўласныя звесткі будуць захоўвацца ў:
 create-profile-choose-folder =
     .label = Выбраць папку…
     .accesskey = В
