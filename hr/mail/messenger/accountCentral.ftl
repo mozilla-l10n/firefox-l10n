@@ -19,6 +19,7 @@ chat-label = Chat
 chat-description = { -brand-short-name } omogućuje povezivanje s više računa za trenutnu razmjenu poruka, nudeći podršku za razne platforme.
 filelink-label = Filelink
     .aria-label = Postavi Filelink
+filelink-description = { -brand-short-name } omogućuje postavljanje prikladnog Filelink računa u oblaku za jednostavno slanje velikih privitaka.
 addressbook-label = Adresar
     .aria-label = Stvori novi adresar
 addressbook-description = { -brand-short-name } omogućuje organiziranje svih kontakata u adresaru. Možeš se povezati i s udaljenim adresarom za sinkroniziranje svih tvojih kontakata.
