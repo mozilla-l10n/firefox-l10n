@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] { create-profile-window.title } - Bienvenue
     }
 profile-creation-explanation-1 = { -brand-short-name } garde les informations concernant vos paramètres et préférences dans votre profil personnel.
+profile-creation-explanation-2 = Si vous partagez cette copie de { -brand-short-name } avec d’autres utilisateurs, vous pouvez utiliser les profils pour garder les informations de chaque utilisateur séparées. Pour ce faire, chaque utilisateur devra créer son propre profil.
 profile-creation-explanation-3 = Si vous êtes la seule personne à utiliser cette copie de { -brand-short-name }, vous devez avoir au moins un profil. Si vous le désirez, vous pouvez créer différents profils pour vous-même. Par exemple, vous pouvez vouloir disposer de profils séparés pour votre utilisation personnelle et professionnelle.
 
 ## Second wizard page
