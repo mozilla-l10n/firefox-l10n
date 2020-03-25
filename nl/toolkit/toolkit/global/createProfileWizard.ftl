@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Welkom bij de { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } slaat informatie over uw instellingen en voorkeuren op in uw persoonlijke profiel.
+profile-creation-explanation-2 = Als u deze kopie van { -brand-short-name } deelt met andere gebruikers, kunt u profielen gebruiken om de informatie van alle gebruikers gescheiden te houden. Om dit te bereiken, moet elke gebruiker zijn of haar eigen profiel aanmaken.
 profile-creation-explanation-3 = Als u de enige bent die deze kopie van { -brand-short-name } gebruikt, moet u minstens één profiel hebben. Als u wilt, kunt u meerdere profielen voor uzelf aanmaken om verschillende sets van instellingen en voorkeuren op te slaan. U zou bijvoorbeeld aparte profielen kunnen hebben voor zakelijk en persoonlijk gebruik.
 profile-creation-explanation-4 =
     { PLATFORM() ->
