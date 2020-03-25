@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = ਅਤੀਤ
 sidebar-menu-synced-tabs =
     .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
+sidebar-menu-close =
+    .label = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
