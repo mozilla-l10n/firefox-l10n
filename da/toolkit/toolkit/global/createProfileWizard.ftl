@@ -13,6 +13,7 @@ create-profile-first-page-header =
         [macos] Introduktion
        *[other] Velkommen til { create-profile-window.title }
     }
+profile-creation-explanation-2 = Hvis du deler denne installation af { -brand-short-name } med andre brugere, kan I bruge profiler til at holde hinandens brugerinformation adskilt. For at gøre dette, skal I oprette hver jeres profil.
 
 ## Second wizard page
 
@@ -21,8 +22,11 @@ create-profile-last-page-header =
         [macos] Konklusion
        *[other] Færdiggør { create-profile-window.title }
     }
+profile-creation-intro = Hvis du opretter flere profiler kan du adskille dem på profilnavnet. Du kan anvende det foreslåede navn, eller angive et selv.
 profile-prompt = Indtast nyt profilnavn:
     .accesskey = I
+profile-default-name =
+    .value = Standard
 create-profile-choose-folder =
     .label = Vælg mappe…
     .accesskey = V
