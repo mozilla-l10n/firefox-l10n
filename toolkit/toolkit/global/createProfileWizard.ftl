@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+create-profile-window =
+    .title = Bestari Mencipta Profil
+    .style = width: 45em; height: 32em;
 
 ## First wizard page
 
@@ -27,3 +30,9 @@ create-profile-last-page-header =
        *[other] Menyelesaikan { create-profile-window.title }
     }
 profile-creation-intro = Jika anda mencipta beberapa profil anda boleh panggilnya dengan nama profil. Anda boleh gunakan nama yang disediakan atau gunakan nama yang anda pilih.
+profile-default-name =
+    .value = Pengguna Piawai
+profile-directory-explanation = Tetapan pengguna anda, keutamaan dan data berkaitan pengguna lain akan disimpan di dalam:
+create-profile-use-default =
+    .label = Guna Folder Piawai
+    .accesskey = U
