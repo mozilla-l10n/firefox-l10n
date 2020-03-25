@@ -4,3 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Marcadores
+sidebar-menu-history =
+    .label = Historial
+sidebar-menu-synced-tabs =
+    .label = Pestañas sincronizadas
