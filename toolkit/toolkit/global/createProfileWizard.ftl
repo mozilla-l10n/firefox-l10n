@@ -8,7 +8,13 @@ create-profile-window =
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] அறிமுகம்
+       *[other] { create-profile-window.title } க்கு நல்வரவு{ " " }
+    }
 profile-creation-explanation-1 = { -brand-short-name } உங்கள் அமைப்புகள் மற்றும் விருப்பங்களை தனி விருப்பங்களில் சேமிக்கும்.
+profile-creation-explanation-2 = இந்த { -brand-short-name } இன் நகலை பகிர்ந்து தரவிரும்பினால். ஓவ்வொரு விவர தகவலையும் தனியாக வைத்துக்கொள்ளலாம். இதை செய்ய, பயனர்கள் அவர்களுக்கான தனி விவரக்குறிப்பை உருவாக்க வேண்டும்.
 profile-creation-explanation-3 = { -brand-short-name }, ஐ நீங்கள் மட்டுமே பயன்படுத்துவதானால் உங்களிடம் ஒரு விவரக்குறிப்பாவது இருக்க வேண்டும். உங்களுக்கு விருப்பமிருந்தால் பல விவரக்குறிப்புகளை உருவாக்கொள்ளலாம். உதாரணமாக, வியாபாரம் மற்றும் தனிதகவலுக்கென தனித்தனி விவரக்குறிப்பை உருவாக்கிக்கொள்ளலாம்..
 profile-creation-explanation-4 =
     { PLATFORM() ->
