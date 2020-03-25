@@ -6,3 +6,7 @@ sidebar-menu-bookmarks =
     .label = Comharran-lìn
 sidebar-menu-history =
     .label = Eachdraidh
+sidebar-menu-synced-tabs =
+    .label = Tabaichean sioncronaichte
+sidebar-menu-close =
+    .label = Dùin am bàr-taoibh
