@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = סימניות
 sidebar-menu-history =
     .label = היסטוריה
+sidebar-menu-close =
+    .label = סגירת סרגל הצד
