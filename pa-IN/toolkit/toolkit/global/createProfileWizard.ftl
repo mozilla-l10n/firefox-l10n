@@ -33,3 +33,6 @@ profile-directory-explanation = ਤੁਹਾਡੀ ਵਰਤੋਂਕਾਰ ਸ�
 create-profile-choose-folder =
     .label = …ਫੋਲਡਰ ਚੁਣੋ
     .accesskey = C
+create-profile-use-default =
+    .label = ਡਿਫਾਲਟ ਫੋਲਡਰ ਵਰਤੋਂ
+    .accesskey = U
