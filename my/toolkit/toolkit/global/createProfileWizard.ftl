@@ -5,6 +5,11 @@
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] နိဒါန်း
+       *[other] { create-profile-window.title } မှ ကြိုဆိုပါသည်
+    }
 profile-creation-explanation-3 = { -brand-short-name } အားသင်တစ်ယောက်တည်း သုံးဆွဲသည်ဆိုသော်လည်း ပရိုဖိုင်တစ်ခု အနည်းဆုံးထားရှိရမည်ဖြစ်သည် ။ သင်စိတ်ရှိပါကလဲ တစ်ခုထက်ပိုသော ပရိုဖိုင်များအား ဆောက်ထားနိုင်ပြီ အပြင်အဆင်အမျိုးမျိုးဖြင့် သုံးဆွဲနိုင်မည်ဖြစ်ပါသည် ။ ဥပမာအားဖြင့်ဆိုရသော လုပ်ငန်းသုံး ပါဆင်နယ်တစ်ကိုယ်ရည် သုံး ခွဲထားခြင်း။
 profile-creation-explanation-4 =
     { PLATFORM() ->
@@ -14,6 +19,11 @@ profile-creation-explanation-4 =
 
 ## Second wizard page
 
+create-profile-last-page-header =
+    { PLATFORM() ->
+        [macos] နိဂုံး
+       *[other] { create-profile-window.title } ကို ပြီးဆုံးသည်အထိ ဆောင်ရွက်နေသည်
+    }
 profile-creation-intro = သင့်တွင် ပရိုင်ဖိုင်များ စွာရှိပါက ယခုသည်သင် နာမည်များအား မတူအောင်ပေးထားနိုင်ပါသည်။ သို့မဟုတ် ဤတွင်ပေးထားသော နာမည်အားသုံးလိုကသုံး မသုံးလိုက သင်ကိုယ်တိုင်ပေးပြီးသုံး။
 profile-prompt = Eပရိုဖိုင်နာမည် အသစ်တစ်ခုရိုက်ထည့်ပါ:
     .accesskey = E
