@@ -15,3 +15,6 @@ create-profile-last-page-header =
     }
 profile-default-name =
     .value = Utilizator implicit
+create-profile-choose-folder =
+    .label = Alege dosarul…
+    .accesskey = d
