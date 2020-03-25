@@ -27,7 +27,7 @@ profile-creation-explanation-4 =
 create-profile-last-page-header =
     { PLATFORM() ->
         [macos] आकासोक्
-       *[other] { create-profile-window.title } पुरा़व येत् आ.{ " " }
+       *[other] { create-profile-window.title } पुरा़व येत् आ.
     }
 profile-creation-intro = जुदी आम आयमा रेत् एम तेयारा आम उनिम ला़य दाड़ेयाया मोहोर ञुतुम खोन बाहरे ला़य आकान ञुतुम एम बेभार दाड़ेयाक् आ आर बाङ आमाक् निजेराक् मित् टाङ बेभार दाड़ेयाक्.
 profile-prompt = नावा मोहोर ञुतुम आदेर होचोय मे.:
