@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = ইতিহাস
 sidebar-menu-synced-tabs =
     .label = সিঙ্ক হওয়া ট্যাব
+sidebar-menu-close =
+    .label = সাইডবার বন্ধ করুন
