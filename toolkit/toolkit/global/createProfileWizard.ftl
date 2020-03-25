@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] A jaɓɓaama e { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } mooftat humpito baɗte teelte maa e cuɓoraaɗe maa e nder heftinirde maa heeriinnde.
+profile-creation-explanation-2 = So tawii ko a denndauo ndee tummbitere { -brand-short-name }, e woɗɓe, aɗa waawi huutoraade keftinirɗe ngam seerndude humpitooji mom. Ngam waɗde ɗum, kuutoro kala ena foti sosde heftinirde mum heeriinnde.
 profile-creation-explanation-3 = So tawii ko aan gooto huutortoo ndee tummbitere { -brand-short-name }, aɗa foti jogaade hay so heftinirde wootere. So aɗa yiɗi, aɗa waawi sosande hoore maa keftinirɗe keewɗe ngam mooftude teelte e cuɓoraaɗe ceertuɗe. Yeu, aɗa waawi yiɗde jogaade keftinirɗe ceertuɗe ngam njulaagu e golle keeriiɗe.
 profile-creation-explanation-4 =
     { PLATFORM() ->
