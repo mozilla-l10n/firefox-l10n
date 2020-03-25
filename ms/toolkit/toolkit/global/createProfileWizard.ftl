@@ -30,9 +30,14 @@ create-profile-last-page-header =
        *[other] Menyelesaikan { create-profile-window.title }
     }
 profile-creation-intro = Jika anda mencipta beberapa profil anda boleh panggilnya dengan nama profil. Anda boleh gunakan nama yang disediakan atau gunakan nama yang anda pilih.
+profile-prompt = Masukkan nama profil baru:
+    .accesskey = a
 profile-default-name =
     .value = Pengguna Piawai
 profile-directory-explanation = Tetapan pengguna anda, keutamaan dan data berkaitan pengguna lain akan disimpan di dalam:
+create-profile-choose-folder =
+    .label = Pilih Folder…
+    .accesskey = l
 create-profile-use-default =
     .label = Guna Folder Piawai
     .accesskey = U
