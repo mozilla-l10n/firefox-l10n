@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Wajoli i { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } gwoko ngec makwako terni ki gin ma imaro i yi kagwoko gin makwaki.
+profile-creation-explanation-2 = Ka itye ka leyo gin acoya man { -brand-short-name } ki jo mukene, in itwero tic ki gin makwako in pi gwoko tic pa ngat acelacel patpat. Me timo man, ngat acelacel omyero oyub katice kene.
 profile-creation-explanation-3 = Ka in keken aye itye ka tic ki gin acoya man { -brand-short-name }, omyero ibed ki gin acel mo. Ka imaro, in itwero cweyo katici mapol piri me kano tera ki gin ma imaro. Labole, itwero mito bedo ki gin atimani piri keni.
 profile-creation-explanation-4 =
     { PLATFORM() ->
