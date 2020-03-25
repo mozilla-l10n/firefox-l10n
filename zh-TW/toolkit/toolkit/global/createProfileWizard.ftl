@@ -13,6 +13,7 @@ create-profile-first-page-header =
         [macos] 介紹
        *[other] 歡迎使用{ create-profile-window.title }
     }
+profile-creation-explanation-1 = { -brand-short-name } 把您的設定、偏好等各種資料存於您的個人設定檔 (Profile) 中。
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] 要開始建立設定檔請按「繼續」。
@@ -25,6 +26,7 @@ profile-prompt = 輸入新設定檔名稱:
     .accesskey = E
 profile-default-name =
     .value = Default User
+profile-directory-explanation = 您的使用者設定、偏好設定和其他個人資料會存放於:
 create-profile-choose-folder =
     .label = 選擇資料夾…
     .accesskey = C
