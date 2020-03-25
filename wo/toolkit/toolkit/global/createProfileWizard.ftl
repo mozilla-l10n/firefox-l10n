@@ -1,0 +1,26 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## First wizard page
+
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Ubbite
+       *[other] Dalal jamm ci { create-profile-window.title }
+    }
+profile-creation-explanation-1 = { -brand-short-name } dafay denc say xibaari paraameetar ak say taamu ci sa jëmmalinu bopp.
+profile-creation-explanation-2 = Su fekkee da ngeen bokk duppi { -brand-short-name } ak yeneeni jëfandikookat, mën ngeen jëfandikoo jëmmalin yi ngir am xibaari jëfandikookat bu ne. Ngir loolu am jëfandikookat bu ne dafa wara sos jëmmalinam.
+
+## Second wizard page
+
+profile-creation-intro = Soo bëggee sos jëmmalin yu bari, mën nga leen raññee ak tur yu wuute. Mën nga jël tur bi ñu la jox walla nga wutal sa bopp.
+profile-prompt = Duggalal turu jëmmalin bu bees bi:
+    .accesskey = D
+profile-default-name =
+    .value = Jëfandikookat ñakk ndigal
+profile-directory-explanation = Say paraameetar jëfandikookat, taamu ak say rootaani bopp ñi ngi leen aar ci :
+create-profile-use-default =
+    .label = Jëfandikoo wayndare bi ci ñakk ndigal
+    .accesskey = J
