@@ -13,3 +13,8 @@ create-profile-first-page-header =
 
 ## Second wizard page
 
+create-profile-last-page-header =
+    { PLATFORM() ->
+        [macos] Závěr
+       *[other] Dokončování { create-profile-window.title }
+    }
