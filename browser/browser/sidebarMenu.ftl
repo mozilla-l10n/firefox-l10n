@@ -4,3 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = புத்தகக்குறிகள்
+sidebar-menu-history =
+    .label = வரலாறு
+sidebar-menu-synced-tabs =
+    .label = ஒத்திசைத்த கீற்றுகள்
+sidebar-menu-close =
+    .label = பக்கப்பட்டையை மூடுக
