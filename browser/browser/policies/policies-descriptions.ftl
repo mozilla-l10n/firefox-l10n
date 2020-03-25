@@ -26,6 +26,7 @@ policy-DisabledCiphers = Onemogoči šifre.
 policy-DefaultDownloadDirectory = Nastavi privzeto mapo za prenose.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
 policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Prepreči privzetemu uporabniškemu agentu izvajanje kakršnihkoli ukrepov. To velja samo za Windows, druge platforme nimajo agenta.
 policy-DisableDeveloperTools = Zavrni dostop do razvojnih orodij.
 policy-DisableFeedbackCommands = Onemogoči ukaze v meniju Pomoč za pošiljanje povratnih informacij ("Povratne informacije" in "Prijavi zavajajočo stran").
 policy-DisableFirefoxAccounts = Onemogoči storitve na osnovi { -fxaccount-brand-name }ov, na primer Sync.
