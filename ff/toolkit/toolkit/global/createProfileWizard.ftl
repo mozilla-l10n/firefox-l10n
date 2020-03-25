@@ -23,6 +23,11 @@ profile-creation-explanation-4 =
 
 ## Second wizard page
 
+create-profile-last-page-header =
+    { PLATFORM() ->
+        [macos] Tonngirka
+       *[other] Nana jokkita { create-profile-window.title }
+    }
 profile-creation-intro = So a sosii keftinirɗe keewɗe aɗa waawi seerndirɗe-ɗe innde. Aɗa waawi huutoraade innde hokkaande ndee walla kuutoro-ɗaa innde nde cuɓi-ɗaa.
 profile-prompt = Naatnu innde heftinirde hesere:
     .accesskey = N
