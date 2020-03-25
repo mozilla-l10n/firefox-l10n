@@ -34,6 +34,7 @@ profile-prompt = Zapódajśo nowe profilowe mě:
     .accesskey = Z
 profile-default-name =
     .value = Standardny wužywaŕ
+profile-directory-explanation = Waše wužywaŕske nastajenja, preference a druge daty, kótarež pósěguju se na wužywarja, budu se składowaś w:
 create-profile-choose-folder =
     .label = Zarědnik wubraś…
     .accesskey = r
