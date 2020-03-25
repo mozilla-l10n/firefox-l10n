@@ -5,6 +5,7 @@
 
 ## First wizard page
 
+profile-creation-explanation-1 = { -brand-short-name }, ayarlarınız ve tercihlerinizle ilgili bilgileri kişisel profilinizde saklar.
 
 ## Second wizard page
 
@@ -13,3 +14,6 @@ create-profile-last-page-header =
         [macos] Bitiş
        *[other] { create-profile-window.title } tamamlanıyor
     }
+profile-default-name =
+    .value = Varsayılan kullanıcı
+profile-directory-explanation = Kullanıcı ayarlarınız, yer imleriniz ve parolalarınız burada kayıtlı olacak:
