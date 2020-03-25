@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] { create-profile-window.title } - киирбиккинэн!
     }
 profile-creation-explanation-1 = { -brand-short-name } Эн туруорууларгын тус профильгар харайа сытар.
+profile-creation-explanation-2 = { -brand-short-name } бу барылын соҕотох туттааччыта буолбатах буоллаххына, профили туһанан туруоруулары бэйэҕэр туһунан оҥостуоххун сөп. Ону туһанарга хас биирдии туттааччы бэйэтигэр профиль оҥостуохтаах.
 profile-creation-explanation-3 = { -brand-short-name } соҕотох туттааччыта да буоллаххына бэйэҕэр саатар биир профиль баар буолуохтаах. Баҕардаххына атын-атын туруоруулардаах хас да профили туттуоххун сөп. Холобура, биир профиль тус бэйэҕэр, иккис профиль үлэҕэр сыһыаннаах буолуон сөп.
 profile-creation-explanation-4 =
     { PLATFORM() ->
