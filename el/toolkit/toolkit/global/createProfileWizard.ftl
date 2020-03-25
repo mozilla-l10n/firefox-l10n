@@ -13,3 +13,6 @@ create-profile-last-page-header =
         [macos] Επίλογος
        *[other] Ολοκλήρωση του { create-profile-window.title }
     }
+create-profile-use-default =
+    .label = Χρήση προεπιλεγμένου φακέλου
+    .accesskey = ρ
