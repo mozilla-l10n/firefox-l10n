@@ -13,6 +13,14 @@ create-profile-first-page-header =
         [macos] Introdución
        *[other] Benvido(a) a { create-profile-window.title }
     }
+profile-creation-explanation-1 = { -brand-short-name } almacena información sobre a súa configuración e preferencias no seu perfil persoal.
+profile-creation-explanation-2 = Se está a compartir esta copia de { -brand-short-name } con outros usuarios pode usar os perfís para manter separada a información de cada usuario. Para facer isto, cada usuario debería crear o seu propio perfil.
+profile-creation-explanation-3 = Se só vai usar esta copia de { -brand-short-name } unha persoa, debe ter como mínimo un perfil, aínda que tamén pode crear varios perfís para almacenar diferentes tipos de configuracións e preferencias. Por exemplo, pode ter perfís diferentes para traballo e para uso persoal.
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Para comezar a crear o seu perfil, prema Continuar.
+       *[other] Para comezar a crear o seu perfil, prema Seguinte.
+    }
 
 ## Second wizard page
 
@@ -21,6 +29,7 @@ create-profile-last-page-header =
         [macos] Conclusión
        *[other] Completar { create-profile-window.title }
     }
+profile-creation-intro = Se crea diferentes perfís pode distinguilos polo seu nome. Pode usar o nome aquí definido ou outro.
 profile-prompt = Introduza o nome do novo perfil:
     .accesskey = I
 profile-directory-explanation = A configuración, preferencias e máis datos relacionados co usuario almacenarase en:
