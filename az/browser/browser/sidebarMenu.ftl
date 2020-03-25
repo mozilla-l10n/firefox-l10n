@@ -4,3 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Əlfəcinlər
+sidebar-menu-history =
+    .label = Tarixçə
+sidebar-menu-synced-tabs =
+    .label = Sinxron Vərəqlər
