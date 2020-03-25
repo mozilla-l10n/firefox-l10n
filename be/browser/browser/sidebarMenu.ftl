@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = Закладкі
 sidebar-menu-history =
     .label = Гісторыя
+sidebar-menu-synced-tabs =
+    .label = Сінхранізаваныя карткі
