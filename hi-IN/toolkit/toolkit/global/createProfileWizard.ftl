@@ -29,6 +29,8 @@ create-profile-last-page-header =
        *[other] { create-profile-window.title } को पूरा किया
     }
 profile-creation-intro = यदि आप कई प्रोफाइल बनाते हैं तो आप उन्हें उनके प्रोफाइल नाम से पहचान सकते हैं. आप यहाँ उपलब्ध नाम का उपयोग कर सकते हैं या अपने द्वारा दिये गये नाम का उपयोग कर सकते हैं.
+profile-prompt = नया प्रोफाइल दें:
+    .accesskey = E
 profile-default-name =
     .value = तयशुदा उपयोक्ता
 profile-directory-explanation = आपकी उपयोक्ता सेटिंग, वरीयता और दूसरी उपयोक्ता संंबंधित आंकड़ा को जमा किया जाएगा:
