@@ -5,6 +5,11 @@
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Pengenalan
+       *[other] Selamat Datang ke { create-profile-window.title }
+    }
 profile-creation-explanation-1 = { -brand-short-name } menyimpan maklumat perihal tetapan dan keutamaan anda dalam profil peribadi anda.
 profile-creation-explanation-3 = Jika hanya anda seorang yang menggunakan salinan { -brand-short-name }, anda mesti mempunyai sekurangnya satu profil. Jika anda mahu, anda boleh menipta banyak profil untuk diri anda bagi menyimpan tetapan dan keutamaan yang berbeza. Sebagai ontoh, anda mungkin mahukan profil berasingan untuk kegunaan perniagaan dan peribadi.
 profile-creation-explanation-4 =
