@@ -26,6 +26,7 @@ policy-DisabledCiphers = Coderingssuites uitschakelen.
 policy-DefaultDownloadDirectory = Standaard downloadmap instellen.
 policy-DisableAppUpdate = Voorkomen dat de browser wordt bijgewerkt.
 policy-DisableBuiltinPDFViewer = PDF.js uitschakelen, de ingebouwde PDF-viewer in { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Voorkomen dat de standaard browseragent enige actie onderneemt. Alleen van toepassing op Windows; andere platformen beschikken niet over de agent.
 policy-DisableDeveloperTools = Toegang tot de ontwikkelaarshulpmiddelen blokkeren.
 policy-DisableFeedbackCommands = Opdrachten voor het verzenden van feedback vanuit het menu Help uitschakelen (Feedback verzenden en Misleidende website rapporteren).
 policy-DisableFirefoxAccounts = Op { -fxaccount-brand-name } gebaseerde services uitschakelen, waaronder Sync.
