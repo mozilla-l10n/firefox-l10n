@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Bi xêr hatî { create-profile-window.title } 'ê
     }
 profile-creation-explanation-1 = { -brand-short-name }  Vebijêrk, bijare û nasnameyên te yên di posteyê de tomar dike.
+profile-creation-explanation-2 = Heke kopyeya { -brand-short-name } 'ê bi bikarhênerên din re bikar bînî, ji bo tomarkirina agahiyên her bikarhênerê, dikarî profîlên cuda bikar bînî. Ji bo vê divê her bikarhênerek profîla xwe ya taybet biafirîne.
 profile-creation-explanation-3 = Heke tenê tu kopyeya { -brand-short-name } 'ê bikar bînî divê herî kêm profîlekê biafirînî. Ji bo cureyên mîhengan ên cuda, dikarî ji profîlekê zêdetir profîlek biafirînî.
 profile-creation-explanation-4 =
     { PLATFORM() ->
