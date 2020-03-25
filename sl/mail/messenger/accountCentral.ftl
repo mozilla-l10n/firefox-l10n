@@ -11,6 +11,7 @@ release-notes =
 email-label = E-pošta
     .aria-label = Poveži z obstoječim e-poštnim računom
 about-paragraph = Thunderbird je vodilni odprtokodni odjemalec za e-pošto in koledar, ki deluje v več okoljih ter je brezplačen tako za poslovno kot za osebno uporabo. Želimo, da ostane varen in postane še boljši. Donacija nam bo omogočala najeti razvijalce, plačati stroške infrastrukture in nadaljevati izboljševanje.
+explore-link = Raziščite možnosti
 support-link = Podpora
 involved-link = Pridružite se
 developer-link = Dokumentacija za razvijalce

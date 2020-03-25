@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (oddaljene mape)">
 <!ENTITY pop3Long.label                  "POP3 (pošto se hrani na vašem računalniku)">
 
+<!ENTITY manualConfigTable.summary       "Nastavitve strežnika">
 <!ENTITY incoming.label                  "Dohodni:">
 <!ENTITY incomingColumn.label            "Dohodni">
 <!ENTITY outgoing.label                  "Odhodni:">
