@@ -13,3 +13,6 @@ create-profile-first-page-header =
 
 ## Second wizard page
 
+create-profile-choose-folder =
+    .label = …ਫੋਲਡਰ ਚੁਣੋ
+    .accesskey = C
