@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Selamat datang di { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } menyimpan informasi tentang pengaturan di profil pribadi Anda.
+profile-creation-explanation-2 = Apabila Anda menggunakan program { -brand-short-name } bersama-sama dengan pengguna lain, Anda dapat menggunakan profil untuk menjaga terpisahnya data Anda dengan pengguna lain. Caranya adalah dengan membuat profil terpisah untuk setiap pengguna.
 profile-creation-explanation-3 = Apabila Anda adalah satu-satunya orang yang menggunakan program { -brand-short-name } ini, Anda paling tidak harus membuat sebuah profil. Apabila diinginkan, Anda dapat membuat beberapa profil untuk menyimpan kelompok pengaturan yang berbeda. Sebagai contoh, Anda mempunyai profil terpisah untuk penggunaan pribadi dan untuk penggunaan bisnis.
 profile-creation-explanation-4 =
     { PLATFORM() ->
@@ -31,7 +32,12 @@ create-profile-last-page-header =
 profile-creation-intro = Apabila Anda membuat beberapa profil, Anda dapat mengenali profil dari nama profilnya. Anda dapat menggunakan nama yang diberikan di bawah ini atau menggantinya dengan nama lain.
 profile-prompt = Masukkan nama profil baru:
     .accesskey = M
+profile-default-name =
+    .value = Pengguna Baku
 profile-directory-explanation = Pengaturan yang Anda buat dan semua data lainnya akan disimpan di:
 create-profile-choose-folder =
     .label = Pilih Folder…
     .accesskey = P
+create-profile-use-default =
+    .label = Gunakan Folder Baku
+    .accesskey = u
