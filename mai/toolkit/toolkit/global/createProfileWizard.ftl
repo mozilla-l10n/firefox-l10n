@@ -8,6 +8,11 @@ create-profile-window =
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] प्रस्तावना
+       *[other] { create-profile-window.title } मे अहाँक स्वागत अछि{ " " }
+    }
 profile-creation-explanation-1 = { -brand-short-name }अपन सैटिंग क जानकारी एवं वरीयता अहाँक निज प्रोफाइल मे सहेजब अछि .
 profile-creation-explanation-3 = जँ  अहाँ { -brand-short-name } क ई प्रति कए उपयोग करैबला एकटा व्यक्ति छी , अहाँक पास कम सँ कम एकटा प्रोफाइल क होनाइ आवश्यक अछि.  जँ अहाँ चाहैत छी तँ अहाँ विभिन्न सैटिंग क सैट एवं वरीयता केँ सहेजबाक लेल स्वयं अनेक प्रोफाइल बनाए सकैत छी . जहिना अहाँ व्यापारिक एवं निज उपयोगक लेल अलग-अलग प्रोफाइल बनाए सकैत छी.
 profile-creation-explanation-4 =
