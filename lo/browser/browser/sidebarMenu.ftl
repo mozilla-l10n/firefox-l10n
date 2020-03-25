@@ -4,3 +4,5 @@
 
 sidebar-menu-bookmarks =
     .label = ບຸກມາກ
+sidebar-menu-history =
+    .label = ປະຫວັດ
