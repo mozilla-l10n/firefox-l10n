@@ -10,7 +10,7 @@ create-profile-window =
 
 create-profile-first-page-header =
     { PLATFORM() ->
-        [macos] മുഖവുര{ " " }
+        [macos] മുഖവുര
        *[other] { create-profile-window.title } ലേക്ക്‌ സ്വാഗതം
     }
 profile-creation-explanation-1 = നിങ്ങളുടെ സ്വകാര്യ പ്രൊഫൈലില്‍  { -brand-short-name } നിങ്ങളുടെ ക്രമികരണങ്ങളും മുന്‍ഗണനകളും സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ സൂക്ഷിക്കുന്നു.
