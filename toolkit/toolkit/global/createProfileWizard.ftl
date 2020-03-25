@@ -24,6 +24,8 @@ create-profile-last-page-header =
        *[other] { create-profile-window.title } - Fin
     }
 profile-creation-intro = Si vous créez plusieurs profils, vous pouvez les différencier par leur nom. Vous pouvez utiliser le nom proposé ou en choisir un vous-même.
+profile-prompt = Saisissez le nom du nouveau profil :
+    .accesskey = E
 profile-default-name =
     .value = Utilisateur par défaut
 profile-directory-explanation = Vos paramètres utilisateur, préférences et toutes vos données personnelles seront enregistrés dans :
