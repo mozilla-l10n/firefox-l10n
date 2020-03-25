@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (ffolder pell)">
 <!ENTITY pop3Long.label                  "POP3 (cadw e-bost ar eich cyfrifiadur)">
 
+<!ENTITY manualConfigTable.summary       "Gosodiadau gweinydd">
 <!ENTITY incoming.label                  "Derbyn:">
 <!ENTITY incomingColumn.label            "Derbyn">
 <!ENTITY outgoing.label                  "Anfon:">
