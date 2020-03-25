@@ -8,6 +8,11 @@ create-profile-window =
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] পৰিচয়
+       *[other] { create-profile-window.title } লৈ স্বাগতম
+    }
 profile-creation-explanation-1 = { -brand-short-name } এ আপোনাৰ পছন্দ আৰু প্ৰতিষ্ঠাৰ তথ্য আৰপোনাৰ ব্যক্তিগত আলেখ্যত ৰাখে।
 profile-creation-explanation-3 = { -brand-short-name } ৰ এই নকল ব্যৱহাৰ কৰা ব্যক্তি যদি অকল আপুনিয়েই, আপোনাৰ অতি কমেও এটা আলেখ্য হ'ব লাগিব। আপোনাৰ পছন্দ হ'লে, প্ৰতিষ্ঠা আৰু পছন্দৰ বেলেগ বেলেগ গোট সংৰক্ষণ কৰিবলৈ আপুনি একাধিক আলেখ্য সৃষ্টি কৰিব পাৰে। যেনে, কাম আৰু ব্যক্তিগত ব্যৱহাৰৰ কাৰণে আপুনি বেলেগ বেলেগ আলেখ্য ৰাখিব পাৰে।
 profile-creation-explanation-4 =
@@ -28,6 +33,10 @@ profile-prompt = নতুন আলেখ্যৰ নাম দিয়ক:
     .accesskey = E
 profile-default-name =
     .value = অবিকল্পিত ব্যৱহাৰকাৰী
+profile-directory-explanation = আপোনাৰ ব্যৱহাৰকাৰীৰ প্ৰতিষ্ঠা, পছন্দ আৰু অন্য ব্যৱহাৰকাৰী সম্বন্ধীয় তথ্য ইয়াত সংৰক্ষণ কৰা হ'ব:
+create-profile-choose-folder =
+    .label = ফোল্ডাৰ নিৰ্বাচন কৰক…
+    .accesskey = C
 create-profile-use-default =
     .label = অবিকল্পিত ফোল্ডাৰ ব্যৱহাৰ কৰক
     .accesskey = U
