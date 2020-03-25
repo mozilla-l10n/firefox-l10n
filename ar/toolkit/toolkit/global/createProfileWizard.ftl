@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] مرحبًا في { create-profile-window.title }
     }
 profile-creation-explanation-1 = يخزن { -brand-short-name } معلومات عن إعداداتك و تفضيلاتك في ملفّك الشّخصي.
+profile-creation-explanation-2 = في حال مشاركة هذه النّسخة من { -brand-short-name } مع مستخدمين آخرين، يمكنك استخدام الملفّات الشّخصيّة لإبقاء معلومات المستخدمين منفصلة. لتحقيق هذا، على كلّ مستخدم أن ينشئ ملفًّا شخصيًّا.
 profile-creation-explanation-3 = إذا كنت الشّخص الوحيد الذي يستخدم هذه النّسخة من { -brand-short-name }، عليك إنشاء ملفّ شخصي واحد على الأقلّ. إذا أردت، يمكنك إنشاء عدّة ملفّات شخصيّة لك لتخزين مجموعات مختلفة من الإعدادات و التّفضيلات. مثلًا، قد تنشئ ملفّات شخصيّة منفصلة للعمل و الاستخدام الشّخصي.
 profile-creation-explanation-4 =
     { PLATFORM() ->
