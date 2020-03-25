@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] { create-profile-window.title } bölməsinə xoş gəlmisiniz
     }
 profile-creation-explanation-1 = { -brand-short-name } nizamlarınızı, favoritlərinizi və oxşar seçimlərinizi hesabınızda saxlayır.
+profile-creation-explanation-2 = { -brand-short-name } brauzerini başqalarıyla ortaq işlədirsinizsə, hər istifadəçinin məlumatlarını ayrı-ayrı saxlamaq üçün fərqli hesablar yarada bilərsiniz.
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Hesab yaratmaq üçün Davam düyməsinə basın.
