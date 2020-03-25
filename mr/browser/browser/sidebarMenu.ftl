@@ -4,6 +4,8 @@
 
 sidebar-menu-bookmarks =
     .label = वाचनखूणा
+sidebar-menu-history =
+    .label = इतिहास
 sidebar-menu-synced-tabs =
     .label = ताळमेळीत टॅब्स
 sidebar-menu-close =
