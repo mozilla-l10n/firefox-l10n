@@ -6,3 +6,7 @@ sidebar-menu-bookmarks =
     .label = Sinedoù
 sidebar-menu-history =
     .label = Roll istor
+sidebar-menu-synced-tabs =
+    .label = Ivinelloù goubredet
+sidebar-menu-close =
+    .label = Serriñ ar varrenn gostez
