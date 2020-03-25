@@ -11,7 +11,7 @@ create-profile-window =
 create-profile-first-page-header =
     { PLATFORM() ->
         [macos] ओळख
-       *[other] { " " }{ create-profile-window.title } न योवकार
+       *[other] { create-profile-window.title } न योवकार
     }
 profile-creation-explanation-1 = { -brand-short-name } तुमच्या स्थापितां आणि प्राधान्यांविशीं माहिती खाजगी प्रोफायलान साठयता.
 profile-creation-explanation-2 = तुमी { -brand-short-name } ची ही प्रत हेर वापरप्यांसंयत वाटून घेता, तुमी दरेक वापरप्याची माहिती वेगळी दवरपाक प्रोफायल्स वापरपाक शकता. हे करपाक, दरेक वापरप्यान ताजे वो तीजे आपले प्रोफायल तयार करपाक जाय.
