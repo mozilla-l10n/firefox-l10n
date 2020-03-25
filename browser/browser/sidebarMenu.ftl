@@ -6,3 +6,5 @@ sidebar-menu-history =
     .label = നാള്‍വഴി
 sidebar-menu-synced-tabs =
     .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
+sidebar-menu-close =
+    .label = സൈഡ്ബാർ അടയ്ക്കുക
