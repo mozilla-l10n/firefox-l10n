@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] { create-profile-window.title } में आपका स्वागत है
     }
 profile-creation-explanation-1 = { -brand-short-name }अपनी सैटिंग की जानकारी एवं वरीयतायें आपके निजी प्रोफाइल में सहेजता है.
+profile-creation-explanation-2 = यदि आप { -brand-short-name } की प्रति को अन्य उपयोक्ता के साथ साझा कर रहें हैं तो आप प्रत्येक उपयोक्ता की जानकारी अलग रखने के लिये प्रोफाइल का उपयोग कर सकते हैं. ऐसा करने के लिये प्रत्येक उपयोक्ता को अपना प्रोफाइल बनाना पड़ेगा.
 profile-creation-explanation-3 = यदि आप { -brand-short-name } की यह प्रति का उपयोग करने वाले एक ही  व्यक्ति हैं , आपके पास कम से कम एक प्रोफाइल का होना आवश्यक है. यदि आप चाहते हैं तो आप विभिन्न सैटिंग के सैट एवं वरीयतायें को सहेजने के लिए स्वयं अनेक प्रोफाइल बना सकते हैं . जैसे कि आप व्यापारिक एवं निजी उपयोग के लिये अलग-अलग प्रोफाइल बना सकते हैं.
 profile-creation-explanation-4 =
     { PLATFORM() ->
@@ -34,3 +35,9 @@ profile-prompt = नया प्रोफाइल दें:
 profile-default-name =
     .value = तयशुदा उपयोक्ता
 profile-directory-explanation = आपकी उपयोक्ता सेटिंग, वरीयता और दूसरी उपयोक्ता संंबंधित आंकड़ा को जमा किया जाएगा:
+create-profile-choose-folder =
+    .label = सेल चुनें…
+    .accesskey = C
+create-profile-use-default =
+    .label = तयशुदा कोष्ठ का उपयोग करें
+    .accesskey = U
