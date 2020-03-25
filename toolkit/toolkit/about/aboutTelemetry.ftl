@@ -120,7 +120,7 @@ about-telemetry-addon-table-id = 부가 기능 ID
 about-telemetry-addon-table-details = 상세 정보
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
-about-telemetry-addon-provider = { $addonProvider } 제작
+about-telemetry-addon-provider = { $addonProvider } 공급자
 about-telemetry-keys-header = 속성
 about-telemetry-names-header = 이름
 about-telemetry-values-header = 값
@@ -141,7 +141,7 @@ about-telemetry-object-header = 객체
 about-telemetry-extra-header = 추가
 about-telemetry-origin-section = Origin Telemetry
 about-telemetry-origin-origin = origin
-about-telemetry-origin-count = 카운트
+about-telemetry-origin-count = 개수
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a>는 전송되기 전에 데이터를 인코딩하여 { $telemetryServerOwner }가 항목의 수를 셀 수는 있지만, 주어진 { -brand-product-name }가 해당 카운트에 기여했는지 여부는 알 수 없습니다. (<a data-l10n-name="prio-blog-link">더 알아보기</a>)
