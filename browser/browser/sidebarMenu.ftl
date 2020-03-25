@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Historik
 sidebar-menu-synced-tabs =
     .label = Synkade Flikar
+sidebar-menu-close =
+    .label = Stäng sidofält
