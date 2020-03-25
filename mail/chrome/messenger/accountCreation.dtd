@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP（远程文件夹）">
 <!ENTITY pop3Long.label                  "POP3（在您的计算机上保留邮件）">
 
+<!ENTITY manualConfigTable.summary       "服务器设置">
 <!ENTITY incoming.label                  "接收：">
 <!ENTITY incomingColumn.label            "接收">
 <!ENTITY outgoing.label                  "发出：">
