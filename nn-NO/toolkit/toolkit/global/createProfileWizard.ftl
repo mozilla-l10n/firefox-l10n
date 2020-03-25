@@ -13,6 +13,7 @@ create-profile-first-page-header =
         [macos] Introduksjon
        *[other] Velkomen til { create-profile-window.title }
     }
+profile-creation-explanation-1 = { -brand-short-name } lagrar innstillingar og adre brukardata i den personlege profilen din.
 profile-creation-explanation-2 = Dersom du deler dette eksemplaret av { -brand-short-name } med andre brukarar kan du bruke profilane for å halde informasjonen til kvar brukar for seg sjølv. For å gjere dette må kvar brukar lage sin eigen profil.
 profile-creation-explanation-3 = Dersom du er den einaste personen som brukar dette eksemplaret av { -brand-short-name } må du ha minst ein profil. Dersom du vil kan du lage fleire profilar for deg sjølv for å skilja mellom ulike sett av innstillingar og val. Du kan til dømes ha separate profilar for arbeid og personleg bruk.
 profile-creation-explanation-4 =
