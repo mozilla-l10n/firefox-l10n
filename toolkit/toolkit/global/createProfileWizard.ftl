@@ -13,3 +13,6 @@ create-profile-last-page-header =
         [macos] সামৰণি
        *[other] { create-profile-window.title } ক সম্পূৰ্ণ কৰা হৈছে
     }
+create-profile-use-default =
+    .label = অবিকল্পিত ফোল্ডাৰ ব্যৱহাৰ কৰক
+    .accesskey = U
