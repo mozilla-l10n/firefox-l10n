@@ -13,6 +13,7 @@ create-profile-first-page-header =
         [macos] Introducció
        *[other] Benvinguts al { create-profile-window.title }
     }
+profile-creation-explanation-1 = El { -brand-short-name } emmagatzema informació sobre els vostres paràmetres i preferències en el vostre perfil personal.
 profile-creation-explanation-3 = Si sou l'única persona que utilitza aquesta còpia del { -brand-short-name } heu de tenir com a mínim un perfil. Si voleu, podeu crear diversos perfils per emmagatzemar-hi diferents preferències i paràmetres de configuració. Per exemple, potser us agradaria tenir un perfil per a la feina i un altre per a ús personal.
 profile-creation-explanation-4 =
     { PLATFORM() ->
@@ -32,6 +33,7 @@ profile-prompt = Introduïu un nom per al nou perfil:
     .accesskey = e
 profile-default-name =
     .value = Usuari per defecte
+profile-directory-explanation = Els vostres paràmetres, preferències i altres dades d'usuari s'emmagatzemaran a:
 create-profile-choose-folder =
     .label = Trieu una carpeta…
     .accesskey = c
