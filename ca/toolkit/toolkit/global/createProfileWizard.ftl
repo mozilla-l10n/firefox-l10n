@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Benvinguts al { create-profile-window.title }
     }
 profile-creation-explanation-1 = El { -brand-short-name } emmagatzema informació sobre els vostres paràmetres i preferències en el vostre perfil personal.
+profile-creation-explanation-2 = Si esteu compartint aquesta còpia del { -brand-short-name } amb altres usuaris, podeu utilitzar els perfils per mantenir separada la informació de cadascun dels usuaris. Per fer-ho, cada usuari o usuària hauria de crear el seu propi perfil.
 profile-creation-explanation-3 = Si sou l'única persona que utilitza aquesta còpia del { -brand-short-name } heu de tenir com a mínim un perfil. Si voleu, podeu crear diversos perfils per emmagatzemar-hi diferents preferències i paràmetres de configuració. Per exemple, potser us agradaria tenir un perfil per a la feina i un altre per a ús personal.
 profile-creation-explanation-4 =
     { PLATFORM() ->
