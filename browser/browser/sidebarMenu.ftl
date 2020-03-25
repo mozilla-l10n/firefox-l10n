@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = Marcapaginas
 sidebar-menu-history =
     .label = Istoric
+sidebar-menu-synced-tabs =
+    .label = Onglets sincronizats
