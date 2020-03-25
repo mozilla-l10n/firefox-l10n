@@ -8,6 +8,11 @@ create-profile-window =
 
 ## First wizard page
 
+create-profile-first-page-header =
+    { PLATFORM() ->
+        [macos] Introduccion
+       *[other] { create-profile-window.title } - Benvenguda
+    }
 profile-creation-explanation-1 = { -brand-short-name } garda las informacions que concernisson vòstres paramètres e preferéncias dins vòstre perfil personal.
 profile-creation-explanation-3 = Se sètz la sola persona qu'utilize aquesta còpia de { -brand-short-name }, vos cal aver al mens un perfil. S'o desiratz, podètz crear diferents perfils per vos-meteis. Per exemple, podètz voler dispausar de perfils separats per vòstra utilizacion personala e professionala.
 profile-creation-explanation-4 =
