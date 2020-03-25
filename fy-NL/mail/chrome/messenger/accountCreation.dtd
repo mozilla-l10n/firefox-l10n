@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (mappen op in oare kompjûter)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op jo kompjûter bewarje)">
 
+<!ENTITY manualConfigTable.summary       "Serverynstellingen">
 <!ENTITY incoming.label                  "Ynkommend:">
 <!ENTITY incomingColumn.label            "Ynkommend">
 <!ENTITY outgoing.label                  "Utgeand:">
