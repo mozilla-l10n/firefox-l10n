@@ -23,3 +23,9 @@ create-profile-last-page-header =
     }
 profile-default-name =
     .value = मूलभूत उपयोकर्ता
+create-profile-choose-folder =
+    .label = फोल्डरची निवडा...
+    .accesskey = C
+create-profile-use-default =
+    .label = पूर्वनिर्धारित फोल्डरचा वापर करा
+    .accesskey = U
