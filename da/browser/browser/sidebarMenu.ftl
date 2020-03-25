@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Historik
 sidebar-menu-synced-tabs =
     .label = Synkroniserede faneblade
+sidebar-menu-close =
+    .label = Luk sidepanel
