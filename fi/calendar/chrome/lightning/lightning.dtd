@@ -71,6 +71,7 @@
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Näytä lisää tietoa tapahtumasta">
 <!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Älä näytä näitä viestejä">
 <!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalenteri">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Siirry Kalenteri-välilehteen">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Lisää">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Napsauta, niin näet lisää valintoja">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Vahvista uudelleen">
