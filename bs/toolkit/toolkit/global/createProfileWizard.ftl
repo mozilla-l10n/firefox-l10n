@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Dobrodošli u { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } pohranjuje informacije o vašim postavkama u vašem ličnom profilu.
+profile-creation-explanation-2 = Ako dijelite ovu kopiju { -brand-short-name }a sa drugim korisnicima možete koristiti profile da razdvojite informacije svakog od korisnika. Da biste ovo postigli, svaki korisnik treba napraviti svoj profil.
 profile-creation-explanation-3 = Ako ste jedina osoba koja koristi ovu kopiju { -brand-short-name }a morate imati barem jedan profil. Ako želite, možete napraviti više profila za sebe da biste pohranili drugačije setove postavki. Naprimjer, možda želite imati različite profile za poslovnu i privatnu upotrebu.
 profile-creation-explanation-4 =
     { PLATFORM() ->
