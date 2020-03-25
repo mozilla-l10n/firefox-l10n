@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (zdalene rjadowaki)">
 <!ENTITY pop3Long.label                  "POP3 (wašu e-mejl na wašim ličaku wostajić)">
 
+<!ENTITY manualConfigTable.summary       "Serwerowe nastajenja">
 <!ENTITY incoming.label                  "Dochadźace:">
 <!ENTITY incomingColumn.label            "Dochadźace">
 <!ENTITY outgoing.label                  "Wuchadźace:">
