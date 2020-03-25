@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP（遠端資料夾）">
 <!ENTITY pop3Long.label                  "POP3（將郵件保留在您的電腦上）">
 
+<!ENTITY manualConfigTable.summary       "伺服器設定">
 <!ENTITY incoming.label                  "收件:">
 <!ENTITY incomingColumn.label            "內送">
 <!ENTITY outgoing.label                  "寄件:">
