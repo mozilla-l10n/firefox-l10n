@@ -18,3 +18,6 @@ create-profile-last-page-header =
         [macos] หน้าสรุป
        *[other] เสร็จสิ้นการ { create-profile-window.title }
     }
+create-profile-choose-folder =
+    .label = เลือกโฟลเดอร์…
+    .accesskey = ล
