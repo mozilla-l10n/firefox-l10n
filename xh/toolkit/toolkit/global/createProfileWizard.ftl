@@ -13,6 +13,9 @@ create-profile-first-page-header =
         [macos] Intshayelelo
        *[other] Wamkelekile kwi-{ create-profile-window.title }
     }
+profile-creation-explanation-1 = I-{ -brand-short-name } igcina inkcazelo engeesethingi zakho neepriferensi kwiprofayile yakho.
+profile-creation-explanation-2 = Ukuba wabelana ngale kopi i-{ -brand-short-name } nabanye abasebenzisi, ungasebenzisa iiprofayile ukugcina inkcazelo yomsebenzisi ngamnye ngokwahlukeneyo. Ukwenza oku, umsebenzisi ngamnye kufanele enze iprofayile yakhe.
+profile-creation-explanation-3 = Ukuba nguwe kuphela osebenzisa le kopi ye-{ -brand-short-name }, kufuneka ube neprofayile enye. Ukuba uyathanda, ungazenzela iiprofayile ezininzi ukugcina iiseti ezahlukeneyo zeesethingi neepriferensi. Umzekelo, usenokufuna ukuba neeprofayile ezahlukeneyo zoshishino nezinto zakho.
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Ukuqalisa ukuyila iprofayile yakho, cofa Qhubeka.
