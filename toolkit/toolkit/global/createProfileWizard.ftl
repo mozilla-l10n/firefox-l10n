@@ -24,6 +24,11 @@ profile-creation-explanation-4 =
 
 ## Second wizard page
 
+create-profile-last-page-header =
+    { PLATFORM() ->
+        [macos] ਹੱਲ
+       *[other] { create-profile-window.title } ਮੁਕੰਮਲ
+    }
 profile-creation-intro = ਜੇਕਰ ਤੁਸੀਂ ਕਈ ਪਰੋਫਾਈਲ ਬਣਾਏ ਤਾਂ ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ ਪਰੋਫਾਈਲ ਨਾਂ ਨਾਲ ਸੰਬੋਧਨ ਕਰ ਸਕਦੇ ਹੋ। ਤੁਸੀਂ ਇੱਥੇ ਦਿੱਤਾ ਨਾਂ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਆਪਣਾ ਵੱਖਰਾ ਵੀ ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹੋ।
 profile-prompt = ਪਰੋਫਾਈਲ ਨਾਂ ਦਿਓ:
     .accesskey = E
