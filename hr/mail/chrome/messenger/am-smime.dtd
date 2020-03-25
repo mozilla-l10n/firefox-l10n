@@ -16,7 +16,13 @@
 <!ENTITY e2eLearnMore.label "Saznajte više">
 
 
+<!ENTITY e2eTechPref.description "Preferirana tehnologija šifriranja:">
 
+<!ENTITY doNotEncrypt.label "Nemoj standardno aktivirati šifriranje">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Standardno zathijevaj šifriranje">
+<!ENTITY requireEncryptMessage.accesskey "S">
+<!ENTITY encryptionCert2.message "Osobni certifikat za šifriranje:">
 <!ENTITY digitalSign.certificate.button "Odaberi…">
 <!ENTITY digitalSign.certificate.accesskey "a">
 <!ENTITY digitalSign.certificate_clear.button "Očisti">
@@ -27,6 +33,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "i">
 <!ENTITY signingGroupTitle.label "Digitalno potpisivanje">
 <!ENTITY signMessage.label "Digitalno potpiši poruke (zadano)">
+<!ENTITY signMessage2.label "Standardno dodaj moj digitalni potpis">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Koristi ovaj certifikat za digitalno potpisivanje poruka koje šaljete:">
 
@@ -36,14 +43,29 @@
 <!ENTITY manageDevices.label "Sigurnosni uređaji">
 <!ENTITY manageDevices.accesskey "g">
 
+<!ENTITY signingCert2.message "Osobni certifikat za digitalno potpisivanje:">
 
+<!ENTITY sendingDefaults.label "Standardne postavke za slanje poruka">
 
+<!ENTITY technologyAutomatic.label "Odaberi automatski na temelju dostupnih ključeva ili certifikata">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Upravljaj S/MIME certifikatima">
+<!ENTITY manageCerts3.accesskey "U">
+<!ENTITY manageDevices2.label "S/MIME sigurnosni uređaji">
+<!ENTITY manageDevices2.accesskey "s">
 
+<!ENTITY technologySMIME.label "Preferiraj S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferiraj OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Upravljaj OpenPGP ključevima">
+<!ENTITY manageKeys.accesskey "k">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Odaberite certifikat">
 <!ENTITY certPicker.info  "Certifikat:">
 <!ENTITY certPicker.detailsLabel "Detalji odabranog certifikata:">
 
+<!ENTITY openpgpKey.message "Osobni ključ za šifriranje i digitalno potpisivanje:">
+<!ENTITY openpgpKey.button "Postavi osobni ključ …">
