@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Историјат
 sidebar-menu-synced-tabs =
     .label = Синхронизовани језичци
+sidebar-menu-close =
+    .label = Затвори бочну палету
