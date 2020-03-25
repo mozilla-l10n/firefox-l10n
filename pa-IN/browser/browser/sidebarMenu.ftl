@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
 sidebar-menu-history =
     .label = ਅਤੀਤ
+sidebar-menu-synced-tabs =
+    .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
