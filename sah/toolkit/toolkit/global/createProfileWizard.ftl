@@ -15,6 +15,11 @@ create-profile-first-page-header =
     }
 profile-creation-explanation-1 = { -brand-short-name } Эн туруорууларгын тус профильгар харайа сытар.
 profile-creation-explanation-3 = { -brand-short-name } соҕотох туттааччыта да буоллаххына бэйэҕэр саатар биир профиль баар буолуохтаах. Баҕардаххына атын-атын туруоруулардаах хас да профили туттуоххун сөп. Холобура, биир профиль тус бэйэҕэр, иккис профиль үлэҕэр сыһыаннаах буолуон сөп.
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Профиль оҥорорго маны баттаа "Салгыы".
+       *[other] Оҥорорго "Салгыы" диэн тимэҕи баттаа.
+    }
 
 ## Second wizard page
 
@@ -24,6 +29,8 @@ create-profile-last-page-header =
        *[other] { create-profile-window.title } үлэтин түмүктээһин
     }
 profile-creation-intro = Хас да профиллээх буоллаххына тус туһунан ааттыаххын сөп. Ааты таларга аллара баары туһаныаххын сөп.
+profile-prompt = Саҥа ааты суруй:
+    .accesskey = с
 profile-default-name =
     .value = Сүрүн аат
 profile-directory-explanation = Эн туруорууларыҥ манна харалла сытыахтара:
