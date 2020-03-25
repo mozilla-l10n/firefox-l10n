@@ -18,6 +18,7 @@
 <!ENTITY e2eLearnMore.label "En savoir plus">
 
 <!ENTITY e2eEnc.description "Sans chiffrement de bout en bout, le contenu des messages est facilement exposé à votre fournisseur de messagerie et à une surveillance de masse.">
+<!ENTITY e2eeReqWarning.description "Si le chiffrement est exigé, pour pouvoir envoyer un message, vous devez disposer de la clé publique ou du certificat de chaque destinataire.">
 
 <!ENTITY e2eSigning.description "Une signature numérique permet aux destinataires de vérifier que le message a bien été envoyé par vous et que son contenu n’a pas été modifié.">
 <!ENTITY e2eTechPref.description "Technologie de chiffrement préférée :">
