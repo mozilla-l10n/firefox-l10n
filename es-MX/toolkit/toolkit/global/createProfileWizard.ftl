@@ -19,6 +19,11 @@ profile-creation-explanation-3 = Si eres el único en usar esta copia de { -bran
 
 ## Second wizard page
 
+create-profile-last-page-header =
+    { PLATFORM() ->
+        [macos] Conclusión
+       *[other] Completando el { create-profile-window.title }
+    }
 profile-creation-intro = Si creas varios perfiles puedes distinguirlos por su nombre. Puedes asignarle este nombre o ingresar uno nuevo.
 profile-prompt = Ingresa el nombre del nuevo perfil:
     .accesskey = I
