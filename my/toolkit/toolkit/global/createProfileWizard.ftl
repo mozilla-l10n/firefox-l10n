@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+create-profile-window =
+    .title = ပရိုဖိုင်းလ် ဖန်တီးခြင်း နည်းလမ်း
+    .style = width: 45em; height: 32em;
 
 ## First wizard page
 
@@ -10,6 +13,8 @@ create-profile-first-page-header =
         [macos] နိဒါန်း
        *[other] { create-profile-window.title } မှ ကြိုဆိုပါသည်
     }
+profile-creation-explanation-1 = { -brand-short-name } သည် သင်၏ ကိုယ်ပိုင်ပရိုဖိုင်းလ်ရှိ အပြင်ဆင်များနှင့် နှစ်သက်ရာ ရွေးချယ်ချက်များကို သိုလှောင်သိမ်းဆည်းပါသည်။
+profile-creation-explanation-2 = သင်သည် { -brand-short-name } ကို အခြားသူများနှင့် မျှဝေအသုံးပြုနေပါက အသုံးပြုသူ တစ်ဦးချင်းစီ၏ အချက်အလက်များကို သီးခြားစီ ဖြစ်နေစေရန် ပရိုဖိုင်းလ်ကို အသုံးပြုနိုင်ပါသည်။ ထိုသို့ သီးခြားစီ ဖြစ်နေစေရန် အသုံးပြုသူ တစ်ဦးချင်းစီသည် ၎င်းတို့၏ ပရိုဖိုင်းလ်ကို ဖန်တီးထားသင့်သည်။
 profile-creation-explanation-3 = { -brand-short-name } အားသင်တစ်ယောက်တည်း သုံးဆွဲသည်ဆိုသော်လည်း ပရိုဖိုင်တစ်ခု အနည်းဆုံးထားရှိရမည်ဖြစ်သည် ။ သင်စိတ်ရှိပါကလဲ တစ်ခုထက်ပိုသော ပရိုဖိုင်များအား ဆောက်ထားနိုင်ပြီ အပြင်အဆင်အမျိုးမျိုးဖြင့် သုံးဆွဲနိုင်မည်ဖြစ်ပါသည် ။ ဥပမာအားဖြင့်ဆိုရသော လုပ်ငန်းသုံး ပါဆင်နယ်တစ်ကိုယ်ရည် သုံး ခွဲထားခြင်း။
 profile-creation-explanation-4 =
     { PLATFORM() ->
