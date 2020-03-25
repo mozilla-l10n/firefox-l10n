@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+create-profile-window =
+    .title = ຕົວຊ່ວຍສ້າງໂປຣໄຟລ໌
+    .style = width: 45em; height: 32em;
 
 ## First wizard page
 
@@ -21,3 +24,9 @@ create-profile-last-page-header =
     }
 profile-prompt = ປ້ອນຊື່ໂປຣໄຟລ໌ໃສ່ນີ້:
     .accesskey = E
+create-profile-choose-folder =
+    .label = ເລືອກໂຟລເດີ…
+    .accesskey = C
+create-profile-use-default =
+    .label = ໃຊ້ໂຟລເດີພື້ນຖານ
+    .accesskey = U
