@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Välkommen till { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } lagrar information om inställningar i din personliga profil.
+profile-creation-explanation-2 = Om du delar denna kopia av { -brand-short-name } med andra användare kan ni använda profiler för att hålla isär varje användares information. För att göra detta, bör varje användare skapa sin egen profil.
 profile-creation-explanation-3 = Om du är den enda användaren av denna kopia av { -brand-short-name }, måste du ändå ha minst en profil. Om du vill kan du skapa flera profiler åt dig själv för att spara olika uppsättningar inställningar och alternativ, t.ex. kan du ha olika profiler för arbete och för personlig användning.
 profile-creation-explanation-4 =
     { PLATFORM() ->
