@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Istoric
 sidebar-menu-synced-tabs =
     .label = Onglets sincronizats
+sidebar-menu-close =
+    .label = Tampar lo panèl lateral
