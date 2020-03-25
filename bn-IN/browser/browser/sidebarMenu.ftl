@@ -4,3 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = বুকমার্ক
+sidebar-menu-history =
+    .label = ইতিহাস
+sidebar-menu-synced-tabs =
+    .label = সিঙ্ক হওয়া ট্যাব
