@@ -4,3 +4,5 @@
 
 sidebar-menu-history =
     .label = 历史
+sidebar-menu-synced-tabs =
+    .label = 受同步的标签页
