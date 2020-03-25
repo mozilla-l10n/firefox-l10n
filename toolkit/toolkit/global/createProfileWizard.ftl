@@ -14,6 +14,7 @@ create-profile-first-page-header =
        *[other] Siyakwamukela ku-{ create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } ligcina ukwaziswa ngezinto ozihlelile nozifunayo endleleni yakho echazayo.
+profile-creation-explanation-2 = Uma lekhophi uyihlanganyela i-{ -brand-short-name } nabanye abayisebenzisayo, ningasebenzisa indlela echazayo ukuze nihlukanise ukwaziswa komuntu ngamunye. Ukuze nenze lokhu, kufanele umuntu ngamunye akhe indlela yakhe echazayo.
 profile-creation-explanation-3 = Uma kunguwena kuphela osebenzisa lekhophi { -brand-short-name }, kufanele okungenani ube nendlela eyodwa echazayo. Uma uthanda, ungakha izindlela eziningana zokugcina izinhlelo zakho nezindlela ozithandayo zokwenza izinto. Ngokwesibonelo, ungase uthande ukuba namafayela ahlukene ezinto zebhizinisi nezomuntu siqu.
 profile-creation-explanation-4 =
     { PLATFORM() ->
