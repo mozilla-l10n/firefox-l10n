@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = Отметки
 sidebar-menu-history =
     .label = История
+sidebar-menu-synced-tabs =
+    .label = Синхронизирани раздели
