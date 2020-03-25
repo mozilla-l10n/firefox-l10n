@@ -11,6 +11,7 @@ create-profile-first-page-header =
        *[other] O amogelesegile mo { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } e boloka tshedimosetso ka ga boalo le diratwabogolo tsa gago mo porofaeleng ya gago ya sebele.
+profile-creation-explanation-2 = Fa e le gore o arolelana khopi eno ya { -brand-short-name } le badirisi ba bangwe, o ka dirisa diporofaele go kgaoganya tshedimosetso ya modirisi mongwe le mongwe. Go dira seno, modirisi mongwe le mongwe o tshwanetse go itlhamela porofaele ya gagwe.
 profile-creation-explanation-3 = Fa e le wena fela o dirisang khopi eno ya { -brand-short-name }, o tshwanetse go nna le bonnye, porofaele e le nngwe fela. Fa o rata o ka itlhamela diporofaele tse dintsi go bolokela boalo le diratwabogolo tse di farologaneng. Go naya sekai, o ka batla go nna le diporofaele tse di farologaneng tsa tiriso ya kgwebo le ya sebele.
 
 ## Second wizard page
