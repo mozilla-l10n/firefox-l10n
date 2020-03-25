@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (dossiers distants)">
 <!ENTITY pop3Long.label                  "POP3 (conserve les courriels sur votre ordinateur)">
 
+<!ENTITY manualConfigTable.summary       "Paramètres du serveur">
 <!ENTITY incoming.label                  "Serveur entrant :">
 <!ENTITY incomingColumn.label            "Entrant">
 <!ENTITY outgoing.label                  "Serveur sortant :">
