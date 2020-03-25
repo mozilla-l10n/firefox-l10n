@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = Bokmerke
 sidebar-menu-history =
     .label = Historikk
+sidebar-menu-synced-tabs =
+    .label = Synkroniserte faner
