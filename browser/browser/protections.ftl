@@ -50,6 +50,8 @@ fingerprinter-tab-title = 数字指纹跟踪程序
 fingerprinter-tab-content = 数字指纹跟踪程序会针对您的浏览器、计算机设置，给您生成独一无二的编号，以便在不同网站间追踪您，勾勒出您的精准画像。<a data-l10n-name="learn-more-link">详细了解</a>
 cryptominer-tab-title = 加密货币挖矿程序
 cryptominer-tab-content = 加密货币挖矿程序盗用您的计算机算力来“挖掘”数字货币，这会消耗您的电力、拖慢机器性能、增加电费支出。<a data-l10n-name="learn-more-link">详细了解</a>
+protections-close-button =
+    .aria-label = 关闭
 mobile-app-title = 在更多设备上也能拦截广告跟踪器
 mobile-app-card-content = 使用内置广告跟踪保护的移动浏览器。
 mobile-app-links = { -brand-product-name } 浏览器 <a data-l10n-name="android-mobile-inline-link">Android</a> 与 <a data-l10n-name="ios-mobile-inline-link">iOS</a> 版
