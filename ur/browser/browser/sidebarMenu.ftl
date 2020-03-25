@@ -4,3 +4,7 @@
 
 sidebar-menu-history =
     .label = سابقات
+sidebar-menu-synced-tabs =
+    .label = ہمہ وقت ساز ٹیب
+sidebar-menu-close =
+    .label = بغلی بار بند کریں
