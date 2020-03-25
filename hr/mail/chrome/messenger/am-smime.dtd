@@ -69,3 +69,4 @@
 
 <!ENTITY openpgpKey.message "Osobni ključ za šifriranje i digitalno potpisivanje:">
 <!ENTITY openpgpKey.button "Postavi osobni ključ …">
+<!ENTITY openpgpKey.accesskey "o">
