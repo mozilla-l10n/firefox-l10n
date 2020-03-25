@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Een bestaande e-mailaccount instellen">
+
 <!ENTITY emailWizard.title               "Uw bestaande e-mailadres instellen">
 <!ENTITY emailWizard.caption             "Uw bestaande e-mailadres gebruiken">
 <!ENTITY name.label                      "Uw naam:">
@@ -36,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (externe mappen)">
 <!ENTITY pop3Long.label                  "POP3 (e-mail op uw computer bewaren)">
 
+<!ENTITY manualConfigTable.summary       "Serverinstellingen">
 <!ENTITY incoming.label                  "Inkomend:">
 <!ENTITY incomingColumn.label            "Inkomend">
 <!ENTITY outgoing.label                  "Uitgaand:">
@@ -72,7 +74,7 @@
 <!ENTITY stop.label                      "Stoppen">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Opnieuw testen">
@@ -83,6 +85,8 @@
 <!ENTITY manual-config.accesskey         "c">
 <!ENTITY open-provisioner.label          "Een nieuw e-mailadres verkrijgen…">
 <!ENTITY open-provisioner.accesskey      "v">
+
+
 <!ENTITY get-help.label                  "Hulp">
 <!ENTITY get-help.accesskey              "H">
 
