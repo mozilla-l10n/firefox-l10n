@@ -16,6 +16,11 @@ create-profile-first-page-header =
 profile-creation-explanation-1 = { -brand-short-name } guarda información sobre tu configuración y preferencias en tu perfil personal.
 profile-creation-explanation-2 = Si compartes esta copia de { -brand-short-name } con otros usuarios, puedes usar perfiles para mantener separada la información de cada usuario. Para ello, cada usuario debe crear su propio perfil.
 profile-creation-explanation-3 = Si eres el único en usar esta copia de { -brand-short-name }, debes tener al menos un perfil. Si lo deseas, puedes crear múltiples perfiles para guardar diferentes configuraciones y preferencias. Por ejemplo, un perfil para el uso personal y otro para el trabajo.
+profile-creation-explanation-4 =
+    { PLATFORM() ->
+        [macos] Da clic en Continuar para comenzar a crear tu perfil.
+       *[other] Para comenzar a crear tu perfil, haz clic en Siguiente.
+    }
 
 ## Second wizard page
 
