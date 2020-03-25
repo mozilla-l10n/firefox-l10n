@@ -8,3 +8,5 @@ sidebar-menu-history =
     .label = Tarix
 sidebar-menu-synced-tabs =
     .label = Sinxronlangan ichki oynalar
+sidebar-menu-close =
+    .label = Yon panelni yopish
