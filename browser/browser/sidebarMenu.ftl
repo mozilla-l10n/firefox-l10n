@@ -6,3 +6,5 @@ sidebar-menu-history =
     .label = इतिहास
 sidebar-menu-synced-tabs =
     .label = संकलित टैब्स
+sidebar-menu-close =
+    .label = बाज़ू पट्टी बंद करें
