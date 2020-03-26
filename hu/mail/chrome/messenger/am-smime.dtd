@@ -12,6 +12,22 @@
 <!ENTITY alwaysEncryptMessage.label "Mindig (ne engedje feladni az üzenetet, ha nincs minden címzettnek tanúsítványa)">
 <!ENTITY alwaysEncryptMessage.accesskey "M">
 <!ENTITY encryptionCert.message "Az alábbi tanúsítvány használata az Önnek küldött levelek titkosításához és visszafejtéséhez:">
+
+<!ENTITY e2eTitle.label "Végpontok közötti titkosítás">
+<!ENTITY e2eIntro.description "Titkosított vagy digitálisan aláírt üzenetek küldéséhez be kell állítania egy titkosítási technológiát, az OpenPGP-t vagy az S/MIME-ot.">
+<!ENTITY e2eLearnMore.label "További tudnivalók">
+
+<!ENTITY e2eEnc.description "Végpontok közötti titkosítás nélkül az üzenetek tartalma könnyen hozzáférhetővé válik az e-mail szolgáltatója, és a tömeges megfigyelések számára.">
+<!ENTITY e2eeReqWarning.description "Ha titkosításra van szüksége, akkor egy üzenet elküldéséhez rendelkeznie kell minden címzett nyilvános kulcsával vagy tanúsítványával.">
+
+<!ENTITY e2eSigning.description "A digitális aláírás lehetővé teszi a címzetteknek, hogy ellenőrizzék, hogy az üzenetet Ön küldte, és hogy a tartalma nem változott-e meg.">
+<!ENTITY e2eTechPref.description "Előnyben részesített titkosítási technológia:">
+
+<!ENTITY doNotEncrypt.label "Alapértelmezés szerint ne engedélyezze a titkosítást">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Alapértelmezés szerint követelje meg a titkosítást">
+<!ENTITY requireEncryptMessage.accesskey "k">
+<!ENTITY encryptionCert2.message "Személyes titkosítási tanúsítvány:">
 <!ENTITY digitalSign.certificate.button "Kiválasztás…">
 <!ENTITY digitalSign.certificate.accesskey "K">
 <!ENTITY digitalSign.certificate_clear.button "Törlés">
@@ -22,6 +38,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Digitális aláírás">
 <!ENTITY signMessage.label "Üzenetek digitális aláírása">
+<!ENTITY signMessage2.label "Alapértelmezés szerint adja hozzá a digitális aláírásomat">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Az alábbi tanúsítvány használata az Ön által küldött levelek aláírásához:">
 
@@ -30,8 +47,31 @@
 <!ENTITY manageCerts2.accesskey "T">
 <!ENTITY manageDevices.label "Adatvédelmi eszközök">
 <!ENTITY manageDevices.accesskey "A">
-<!-- Strings for the cert picker dialog -->
 
+<!ENTITY signingCert2.message "Személyes tanúsítvány a digitális aláíráshoz:">
+
+<!ENTITY sendingDefaults.label "Üzenetek küldésének alapértelmezett beállításai">
+
+<!ENTITY technologyAutomatic.label "Automatikus választás az elérhető kulcsok vagy tanúsítványok alapján">
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "S/MIME tanúsítványok kezelése">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "S/MIME biztonsági eszközök…">
+<!ENTITY manageDevices2.accesskey "b">
+
+<!ENTITY technologySMIME.label "S/MIME előnyben részesítése">
+<!ENTITY technologyOpenPGP.label "OpenPGP előnyben részesítése">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "OpenPGP kulcsok kezelése">
+<!ENTITY manageKeys.accesskey "K">
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Válassza ki a tanúsítványt">
 <!ENTITY certPicker.info  "Tanúsítvány:">
 <!ENTITY certPicker.detailsLabel "A kijelölt tanúsítvány részletei:">
+
+<!ENTITY openpgpKey.message "Személyes kulcs a titkosításhoz és a digitális aláíráshoz:">
+<!ENTITY openpgpKey.button "Állítsa be a személyes kulcsot…">
+<!ENTITY openpgpKey.accesskey "s">
