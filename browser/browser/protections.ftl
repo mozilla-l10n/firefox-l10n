@@ -56,7 +56,7 @@ protections-close-button =
     .aria-label = Փակել
 mobile-app-title = Արգելափակել գովազդի հետքերը ավելի շատ սարքերում
 mobile-app-card-content = Օգտագործեք բջջային զննարկիչը ներկառուցված պաշտպանությամբ `գովազդի հետևման դեմ:
-mobile-app-links = { -brand-product-name } զննարկիչը <a data-l10n-name="android-mobile-inline-link">Android</a>-ի և <a data-l10n-name = "ios-mobile-inline-link ">iOS</a>-ի համար
+mobile-app-links = { -brand-product-name } զննարկիչը <a data-l10n-name="android-mobile-inline-link">Android</a>-ի և <a data-l10n-name="ios-mobile-inline-link">iOS</a>-ի համար
 lockwise-title = Այլևս երբեք չմոռանալ գաղտնաբառը
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ապահով պահպանում է ձեր գաղտնաբառերը ձեր զննարկիչում:
