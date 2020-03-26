@@ -118,6 +118,11 @@ cfr-whatsnew-lockwise-take-body =
     կրկնօրինակված գաղտնաբառերը ցանկացած վայրից:
 cfr-whatsnew-lockwise-take-link-text = Ստանալ հավելվածը
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Մուտքագրեք ավելի քիչ, ավելին գտնեք հասցեի տողի հետ
+cfr-whatsnew-searchbar-icon-alt-text = Խոշորացույցի պատկերակ
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Դիտել տեսահոլովակներ զննարկելիս

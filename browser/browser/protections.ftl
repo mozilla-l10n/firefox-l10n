@@ -52,6 +52,11 @@ fingerprinter-tab-title = Մատնահետքեր
 fingerprinter-tab-content = Մատնահետքերը հավաքում են կարգավորումներ ձեր զննարկչից և համակարգչից ձեր հատկագրից ստեղծելու համար։ Օգտագործելով այդ թվային մատնահետքերը նրանք կարող են հետապնդել ձեզ տարբեր վեբ կայքերում։ <a data-l10n-name="learn-more-link">Իմանա ավելին</a>
 cryptominer-tab-title = Ծպտյալ արժույթներ
 cryptominer-tab-content = Կրիպտոարժույթները օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողը հանելու համար։ Ծպտյալ արժեքների գրվածքները սպառում են ձեր մարտկոցը, դանդաղեցնում ձեր համակարգիչը և կարող են մեծացնել ձեր էներգիայի հաշիվը։ <a data-l10n-name="learn-more-link"> Իմանալ ավելին</a>
+protections-close-button =
+    .aria-label = Փակել
+mobile-app-title = Արգելափակել գովազդի հետքերը ավելի շատ սարքերում
+mobile-app-card-content = Օգտագործեք բջջային զննարկիչը ներկառուցված պաշտպանությամբ `գովազդի հետևման դեմ:
+mobile-app-links = { -brand-product-name } զննարկիչը <a data-l10n-name="android-mobile-inline-link">Android</a>-ի և <a data-l10n-name = "ios-mobile-inline-link ">iOS</a>-ի համար
 lockwise-title = Այլևս երբեք չմոռանալ գաղտնաբառը
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ապահով պահպանում է ձեր գաղտնաբառերը ձեր զննարկիչում:
@@ -59,6 +64,9 @@ lockwise-header-content-logged-in = Ապահով պահեք և համաժամա�
 protection-report-view-logins-button = Դիտել մուտքերը
     .title = Անցնել պահված մուտքերին
 lockwise-no-logins-content = Ձեռք բերեք <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ծրագիրը՝ ձեր գաղտնաբառերը ամենուր վերցնելու համար:
+lockwise-mobile-app-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
+lockwise-no-logins-card-content = Useանկացած սարքում օգտագործեք { -brand-short-name }-ով պահված գաղտնաբառերը:
+lockwise-app-links = { -lockwise-brand-name }-ը <a data-l10n-name="lockwise-android-inline-link">Android</a>-ի և <a data-l10n-name="lockwise-ios-inline-link">iOS</a>-ի համար
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
