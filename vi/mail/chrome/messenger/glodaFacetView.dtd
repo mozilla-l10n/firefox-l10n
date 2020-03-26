@@ -19,3 +19,11 @@
      of the results list to show more hits. -->
 <!ENTITY glodaFacetView.pageMore.label "Thêm &#187;">
 
+<!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.label2): The
+     label for the button/link that causes us to display all of the emails in
+     the active set in a new thread pane display tab. -->
+<!ENTITY glodaFacetView.openEmailAsList.label "Hiển thị kết quả dưới dạng danh sách">
+
+<!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
+     The tooltip to display when hovering over the openEmailAsList label. -->
+<!ENTITY glodaFacetView.openEmailAsList.tooltip "Hiển thị tất cả các thông báo email trong bộ hoạt động trong thẻ mới">

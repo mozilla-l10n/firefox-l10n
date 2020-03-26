@@ -275,6 +275,7 @@
 <!ENTITY toAddr2.label "Đến">
 <!ENTITY ccAddr2.label "Cc">
 <!ENTITY bccAddr2.label "Bcc">
+<!ENTITY newsgroupsAddr2.label "Nhóm tin">
 <!ENTITY subject2.label "Tiêu đề">
 <!ENTITY subject.accesskey "u">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
