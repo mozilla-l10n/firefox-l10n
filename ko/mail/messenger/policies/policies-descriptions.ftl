@@ -21,6 +21,7 @@ policy-BlockAboutSupport = about:support 페이지 접속을 차단합니다.
 policy-CaptivePortal = 캡티브 포탈 지원을 작동시키거나 작동하지 않게 합니다.
 policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인증서를 사용합니다.
 policy-Cookies = 웹 사이트에서 쿠키를 허용하거나 거부합니다.
+policy-DisabledCiphers = 암호화를 사용 안 합니다.
 policy-DefaultDownloadDirectory = 기본 다운로드 디렉토리를 설정하십시오.
 policy-DisableAppUpdate = { -brand-short-name }가 업데이트되지 못하게 합니다.
 policy-DisableDeveloperTools = 개발자 도구 접속을 차단합니다.
