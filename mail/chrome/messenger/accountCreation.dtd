@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (원격)">
 <!ENTITY pop3Long.label                  "POP3 (메일을 컴퓨터에 저장)">
 
+<!ENTITY manualConfigTable.summary       "서버 설정">
 <!ENTITY incoming.label                  "송신 서버:">
 <!ENTITY incomingColumn.label            "수신">
 <!ENTITY outgoing.label                  "발신 서버:">
