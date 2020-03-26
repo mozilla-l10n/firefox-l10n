@@ -16,6 +16,12 @@
 <!ENTITY closeOtherTabs.label "სხვა ჩანართების დახურვა">
 <!ENTITY closeOtherTabs.accesskey "თ">
 
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "მარჯვენა ჩანართების დახურვა">
+<!ENTITY  closeTabsToTheEnd.accesskey "ჯ">
+
 <!ENTITY uploadFile.label "ფაილის ატვირთვა…">
 <!ENTITY uploadFile.accesskey "F">
 
