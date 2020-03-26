@@ -9,6 +9,11 @@
 <!ENTITY  closeTab.accesskey         "დ">
 <!ENTITY  closeOtherTabs.label   "სხვა ჩანართების დახურვა">
 <!ENTITY  closeOtherTabs.accesskey         "ვ">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "მარჯვენა ჩანართების დახურვა">
+<!ENTITY  closeTabsToTheEnd.accesskey "ჯ">
 <!ENTITY  reloadAllTabs.label    "ყველა ჩანართის განახლება">
 <!ENTITY  reloadAllTabs.accesskey         "ყ">
 <!ENTITY  reloadTab.label        "ჩანართის განახლება">
