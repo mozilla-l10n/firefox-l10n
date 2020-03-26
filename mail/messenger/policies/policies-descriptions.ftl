@@ -21,6 +21,7 @@ policy-BlockAboutSupport = წვდომის შეზღუდვა about:
 policy-CaptivePortal = შესვლის გვერდის მხარდაჭერის ჩართვა ან გამორთვა.
 policy-CertificatesDescription = სერტიფიკატების დამატება ან ჩაშენებული სერტიფიკატების გამოყენება.
 policy-Cookies = საიტებისთვის ფუნთუშების დაშვება ან აკრძალვა
+policy-DisabledCiphers = დაშიფვრის გამორთვა.
 policy-DefaultDownloadDirectory = ჩამოტვირთვის ნაგულისხმევი საქაღალდის მითითება.
 policy-DisableAppUpdate = { -brand-short-name } განახლების შეზღუდვა.
 policy-DisableDeveloperTools = შემმუშავებლის ხელსაწყოებთან წვდომის შეზღუდვა.

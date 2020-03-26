@@ -52,12 +52,26 @@
 
 <!ENTITY sendingDefaults.label "ნაგულისხმევი პარამეტრები, წერილების გასაგზავნად">
 
+<!ENTITY technologyAutomatic.label "თვითშერჩევა, ხელმისაწვდომი გასაღებების ან სერტიფიკატების მიხედვით">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "S/MIME სერტიფიკატების მართვა">
+<!ENTITY manageCerts3.accesskey "მ">
+<!ENTITY manageDevices2.label "S/MIME უსაფრთხოების მოწყობილობები">
+<!ENTITY manageDevices2.accesskey "უ">
 
+<!ENTITY technologySMIME.label "უპირატესად S/MIME">
+<!ENTITY technologyOpenPGP.label "უპირატესად OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "OpenPGP გასაღებების მართვა">
+<!ENTITY manageKeys.accesskey "გ">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "სერტიფიკატის არჩევა">
 <!ENTITY certPicker.info  "სერტიფიკატი:">
 <!ENTITY certPicker.detailsLabel "შერჩეული სერტიფიკატის მონაცემები:">
 
+<!ENTITY openpgpKey.message "პირადი გასაღები დასაშიფრად და ციფრული ხელმოწერისთვის:">
+<!ENTITY openpgpKey.button "პირადი გასაღების მითითება…">
+<!ENTITY openpgpKey.accesskey "რ">
