@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Đặt chính sách mà WebExtensions có thể truy cập thông qua chrome.storage.managed.
+policy-AppAutoUpdate = Bật hoặc tắt cập nhật chương trình tự động.
 policy-AppUpdateURL = Đặt URL cập nhật ứng dụng tùy chỉnh.
 policy-Authentication = Định cấu hình xác thực tích hợp cho các trang web hỗ trợ nó.
 policy-BlockAboutAddons = Chặn quyền truy cập vào trình quản lý tiện ích (about:addons).
@@ -20,6 +21,7 @@ policy-BlockAboutSupport = Chặn quyền truy cập vào trang about:support.
 policy-CaptivePortal = Kích hoạt hoặc vô hiệu hóa hỗ trợ cổng bị khóa.
 policy-CertificatesDescription = Thêm chứng chỉ hoặc sử dụng chứng chỉ tích hợp.
 policy-Cookies = Cho phép hoặc từ chối các trang web để đặt cookie.
+policy-DisabledCiphers = Vô hiệu hóa thuật toán mã hóa.
 policy-DefaultDownloadDirectory = Đặt thư mục tải xuống mặc định.
 policy-DisableAppUpdate = Ngăn { -brand-short-name } cập nhật.
 policy-DisableDeveloperTools = Chặn quyền truy cập vào các công cụ dành cho nhà phát triển.

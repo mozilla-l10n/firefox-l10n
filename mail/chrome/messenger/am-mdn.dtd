@@ -5,6 +5,8 @@
 <!ENTITY pane.title                   "Chứng nhận Hồi báo">
 <!ENTITY useGlobalPrefs.label         "Dùng tùy chỉnh chứng nhận hồi báo bao quát của tôi">
 <!ENTITY useGlobalPrefs.accesskey     "D">
+<!ENTITY globalReceipts.label         "Tùy chỉnh tổng quát…">
+<!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Tùy biến chứng nhận hồi báo cho tài khoản này">
 <!ENTITY useCustomPrefs.accesskey     "y">
 <!ENTITY requestReceipt.label         "Khi gửi thư, luôn luôn yêu cầu chứng chận hồi báo">
@@ -29,4 +31,3 @@
 <!ENTITY askMe.label                  "Hỏi tôi">
 <!ENTITY alwaysSend.label             "Luôn gửi">
 <!ENTITY neverSend.label              "Không bao giờ gửi">
-

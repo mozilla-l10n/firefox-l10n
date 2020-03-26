@@ -5,17 +5,13 @@
 <!ENTITY folderProps.windowtitle.label           "Thuộc tính">
 
 <!ENTITY generalInfo.label                       "Thông tin Tổng quát">
-<!ENTITY folderCharsetTab.label                  "Bảng mã Mặc định:">
-<!ENTITY folderCharsetTab.accesskey              "B">
-<!ENTITY folderCharsetOverride.label             "Áp dụng mặc định cho tất cả thư trong thư mục (sẽ bỏ qua thiết lập bảng mã riêng lẻ và tính năng tự động nhận diện)">
-<!ENTITY folderCharsetOverride.accesskey         "d">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Xây dựng lại Chỉ số Tập tin Tóm tắt">
 <!ENTITY folderRebuildSummaryFile2.label         "Sửa thư mục">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "S">
 <!ENTITY folderRebuildSummaryFile.explanation    "Đôi khi tập tin chỉ mục của thư mục (.msf) bị hư và thư tin trông có thể như bị biến mất hoặc các thư tin đã xóa lại hiện ra; sửa thư mục có thể khắc phục các vấn đề này.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Bao gồm thư tin trong thư mục này trong kết quả Tìm kiếm Bao quát">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Chính sách Sử dụng">
 <!ENTITY retentionUseAccount.label  "Sử dụng thiết lập tài khoản của tôi">
 <!ENTITY retentionUseAccount.accesskey "S">
@@ -30,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "K">
 <!ENTITY retentionKeepRecent.label "Xóa tất cả trừ gần đây">
 <!ENTITY retentionKeepRecent.accesskey "g">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Luôn luôn xóa thư đã đọc (ghi đè thiết lập tuổi)">
 <!ENTITY retentionApplyToFlagged.label "Luôn luôn giữ lại thư gắn sao">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
@@ -65,3 +59,9 @@
 <!ENTITY folderQuotaUsage.label                  "Sử dụng:">
 <!ENTITY folderQuotaStatus.label                 "Trạng thái:">
 
+<!ENTITY numberOfMessages.label                  "Số lượng tin nhắn:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "không rõ">
+<!ENTITY sizeOnDisk.label                        "Kích thước trên ổ đĩa:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "không rõ">

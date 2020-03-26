@@ -31,6 +31,7 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Trả lời người gửi và tất cả người nhận">
 <!ENTITY hdrReplyListButton1.label "Trả lời danh sách">
 <!ENTITY hdrReplyListButton1.tooltip "Trả lời danh sách thư">
+<!ENTITY hdrFollowupButton1.tooltip "Đăng một bài theo dõi cho nhóm tin này">
 <!ENTITY hdrMenuForwardButton.label "Chuyển tiếp dưới dạng">
 <!ENTITY hdrForwardButton1.label "Chuyển tiếp">
 <!ENTITY hdrForwardButton1.tooltip "Chuyển tiếp thư này">

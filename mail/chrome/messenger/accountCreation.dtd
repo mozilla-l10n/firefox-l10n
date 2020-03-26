@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (các thư mục từ xa)">
 <!ENTITY pop3Long.label                  "POP3 (giữ thư trên máy tính của bạn)">
 
+<!ENTITY manualConfigTable.summary       "Cài đặt máy chủ">
 <!ENTITY incoming.label                  "Đến:">
 <!ENTITY incomingColumn.label            "Hộp thư đến">
 <!ENTITY outgoing.label                  "Đi:">
