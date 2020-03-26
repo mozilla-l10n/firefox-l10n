@@ -26,6 +26,7 @@ policy-DisabledCiphers = Desgaitu zifratzeak.
 policy-DefaultDownloadDirectory = Ezarri deskarga-direktorio lehenetsia.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.
 policy-DisableBuiltinPDFViewer = Desgaitu PDF.js, { -brand-short-name }(r)en integratutako PDF ikustailea.
+policy-DisableDefaultBrowserAgent = Eragotzi lehenetsitako nabigatzaile agenteak ekintzarik egitea. Windowsen bakarrik; beste plataformek ez dute agentea.
 policy-DisableDeveloperTools = Blokeatu garatzaile-tresnetarako sarbidea.
 policy-DisableFeedbackCommands = Desgaitu iritzia bidaltzeko komandoak 'Laguntza' menutik ('Bidali iritzia' eta 'Eman gune iruzurtiaren berri').
 policy-DisableFirefoxAccounts = Desgaitu { -fxaccount-brand-name }(r)en oinarritutako zerbitzuak, Sync barne.
