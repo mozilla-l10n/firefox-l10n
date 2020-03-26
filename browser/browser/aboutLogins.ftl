@@ -57,6 +57,8 @@ login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-subtitle-missing-username = (nessun nome utente)
 about-logins-list-item-breach-icon =
     .title = Sito web coinvolto in violazioni di dati
+about-logins-list-item-vulnerable-password-icon =
+  .title = Password vulnerabile
 
 ## Introduction screen
 
