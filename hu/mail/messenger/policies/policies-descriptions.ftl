@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Hozzáférés blokkolása az about:support oldalhoz.
 policy-CaptivePortal = Beléptető portál engedélyezése vagy letiltása.
 policy-CertificatesDescription = Tanúsítványok hozzáadása vagy a beépített tanúsítványok használata.
 policy-Cookies = Engedélyezés vagy letiltás, hogy a weboldalak sütiket állítsanak be.
+policy-DisabledCiphers = Titkosítási módok letiltása.
 policy-DefaultDownloadDirectory = Az alapértelmezett letöltési könyvtár megadása.
 policy-DisableAppUpdate = A { -brand-short-name } frissítésének megakadályozása.
 policy-DisableDeveloperTools = Hozzáférés blokkolása a fejlesztői eszközökhöz.
