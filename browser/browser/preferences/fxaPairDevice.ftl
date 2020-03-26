@@ -6,6 +6,6 @@ fxa-pair-device-dialog =
     .title = In oar apparaat ferbine
     .style = width: 26em; min-height: 35em;
 fxa-qrcode-heading-phase1 = 1. Ynstallearje <a data-l10n-name="connect-another-device">Firefox op jo mobile apparaat</a> as jo dat noch net dien hawwe.
-fxa-qrcode-heading-phase2 = 2. Meld jo oan by { -sync-brand-short-name }, of skan yn Android de keppelingskoade fan de ynstellingen fan { -sync-brand-short-name } út.
+fxa-qrcode-heading-phase2 = 2. Meld jo oan by { -sync-brand-short-name }, of scan yn Android de keppelingskoade fan de ynstellingen fan { -sync-brand-short-name } út.
 fxa-qrcode-error-title = Keppeljen mislearre.
 fxa-qrcode-error-body = Probearje it opnij.
