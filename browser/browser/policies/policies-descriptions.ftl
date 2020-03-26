@@ -26,6 +26,7 @@ policy-DisabledCiphers = Çaktivizo shifra.
 policy-DefaultDownloadDirectory = Caktoni drejtori parazgjedhje shkarkimesh.
 policy-DisableAppUpdate = Pengoje shfletuesin të përditësohet.
 policy-DisableBuiltinPDFViewer = Çaktivizoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Pengo agjent shfletuesi parazgjedhje të ndërmarrë ndonjë veprim. E zbatueshme vetëm për Windows; platformat e tjera s’e kanë agjentin.
 policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
 policy-DisableFeedbackCommands = Çaktivizoni te menuja Ndihmë urdhra për dërgim përshtypjesh (Parashtroni Përshtypje dhe  Raportoni Sajt të Rrejshëm).
 policy-DisableFirefoxAccounts = Çaktivizoni shërbime me bazë { -fxaccount-brand-name }, përfshi Sync-un.
