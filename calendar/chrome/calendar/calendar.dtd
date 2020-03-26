@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Crear una nueva tarea" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tareas" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar tareas completadas">
 
 <!ENTITY calendar.today.button.label          "Hoy">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Asistencia">
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "Esta ocurrencia">
-<!ENTITY calendar.context.attendance.all.label        "Todas las Ocurrencias" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Completar series">
 <!ENTITY calendar.context.attendance.send.label                 "Enviar una notificación ahora">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Mostrar Recordatorios">
 <!ENTITY calendarproperties.cache3.label                   "Soporte sin conexión">
 <!ENTITY calendarproperties.enabled.label                  "Activar calendario">
+<!ENTITY calendarproperties.enabled2.label                 "Habilitar este calendario">
 <!ENTITY calendarproperties.forceDisabled.label            "El proveedor de este calendario no pudo ser encontrado. Esto suele suceder si has desactivado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Eliminar suscripción">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
