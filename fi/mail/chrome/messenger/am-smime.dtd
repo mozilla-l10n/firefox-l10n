@@ -72,3 +72,6 @@
 <!ENTITY certPicker.info  "Varmenne:">
 <!ENTITY certPicker.detailsLabel "Valitun varmenteen yksityiskohdat:">
 
+<!ENTITY openpgpKey.message "Henkilökohtainen avain salaukseen ja digitaaliseen allekirjoittamiseen:">
+<!ENTITY openpgpKey.button "Aseta henkilökohtainen avain…">
+<!ENTITY openpgpKey.accesskey "h">
