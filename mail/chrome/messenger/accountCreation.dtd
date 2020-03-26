@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (távoli mappák)">
 <!ENTITY pop3Long.label                  "POP3 (levelek a saját gépen)">
 
+<!ENTITY manualConfigTable.summary       "Kiszolgáló beállításai">
 <!ENTITY incoming.label                  "Bejövő:">
 <!ENTITY incomingColumn.label            "Bejövő">
 <!ENTITY outgoing.label                  "Kimenő:">
