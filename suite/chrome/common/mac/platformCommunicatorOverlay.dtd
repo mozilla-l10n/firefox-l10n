@@ -13,7 +13,7 @@
 <!ENTITY preferencesCmd.key             ",">
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Services">
-<!ENTITY hideThisAppCmd.label           "Verberg &brandShortName;">
+<!ENTITY hideThisAppCmd.label           "&brandShortName; verbergen">
 <!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "Verberg andere">
