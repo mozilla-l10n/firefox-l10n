@@ -174,7 +174,7 @@ cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
 cfr-doorhanger-send-tab-header = Léalo en cualquier momento
 cfr-doorhanger-send-tab-recipe-header = Llévese esta receta a la cocina
 cfr-doorhanger-send-tab-body = Send Tab le permite compartir este enlace con su teléfono o con cualquier dispositivo en el que haya iniciado sesión con { -brand-product-name }.
-cfr-doorhanger-send-tab-ok-button = Pruebar Send Tab
+cfr-doorhanger-send-tab-ok-button = Probar Send Tab
     .accesskey = T
 
 ## Firefox Send
