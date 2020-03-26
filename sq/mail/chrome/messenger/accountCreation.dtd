@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (dosjet diku)">
 <!ENTITY pop3Long.label                  "POP3 (mbajeni postën në kompjuterin tuaj)">
 
+<!ENTITY manualConfigTable.summary       "Rregullime shërbyesi">
 <!ENTITY incoming.label                  "Marrës:">
 <!ENTITY incomingColumn.label            "Ardhës">
 <!ENTITY outgoing.label                  "Dërgues:">
