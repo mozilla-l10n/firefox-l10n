@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (ვებსაქაღალდეები)">
 <!ENTITY pop3Long.label                  "POP3 (ფოსტის შენახვა თქვენს კომპიუტერში)">
 
+<!ENTITY manualConfigTable.summary       "სერვერის პარამეტრები">
 <!ENTITY incoming.label                  "შემომავალი:">
 <!ENTITY incomingColumn.label            "მიღებული">
 <!ENTITY outgoing.label                  "გამავალი:">
