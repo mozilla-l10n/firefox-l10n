@@ -52,6 +52,8 @@ fingerprinter-tab-title = Creadores de huellas (Fingerprinters)
 fingerprinter-tab-content = Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Aprender más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia de cómputo de tu sistema para la minería de dinero digital. Los scripts utilizados para ello consumen tu batería, relentecen tu computador e incrementan el valor de tu boleta de electricidad. <a data-l10n-name="learn-more-link">Aprender más</a>
+protections-close-button =
+    .aria-label = Cerrar
 mobile-app-title = Bloquear los rastreadores de anuncios en más dispositivos
 mobile-app-card-content = Usa el navegador móvil con protección integrada contra el rastreo de la publicidad.
 mobile-app-links = { -brand-product-name } Browser para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
