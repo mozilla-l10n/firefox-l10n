@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Սահմանեք քաղաքականություններ, որ WebExtensions-ը կարողանան մուտք գործել chrome.storage.managed-ի միջոցով:
+policy-AppAutoUpdate = Միացնել կամ անջատել ծրագրի ինքնաբար թարմացումը:
 policy-AppUpdateURL = Սահմանել հավելվածի թարմացման հատուկ URL:
 policy-Authentication = Կազմաձևել ամբողջացված վավերացումը իրեն աջակցող վեբ կայքերի համար։
 policy-BlockAboutAddons = Արգելափակել մատչումը Հավելումների կառավարին (about:addons):
@@ -72,7 +73,6 @@ policy-OfferToSaveLoginsDefault = Սահմանեք լռելյայն արժեքը
 policy-OverrideFirstRunPage = Անցկացրեք առաջին գործարկման էջը: Այս քաղաքականությունը դատարկեք, եթե ցանկանում եք անջատել առաջին գործարկման էջը:
 policy-OverridePostUpdatePage = Հետևեք «Ի՞նչն է նոր» էջի թարմացումից: Եթե ցանկանում եք անջատել  թարմացումը՝ դատարկեք այս քաղաքականությունը:
 policy-PasswordManagerEnabled = Միացրեք գաղտնաբառերի պահպանումը գաղտնաբառի կառավարում:
-policy-Permissions = Կազմաձևեք թույլտվությունները տեսախցիկի համար, խոսափողի, գտնվելու վայրի և ծանուցումների համար:
 policy-Permissions2 = Կարգավորեք թույլտվությունները խցիկի, խոսափողի, գտնվելու վայրի, ծանուցումների և ինքնաբացարկի համար:
 policy-PopupBlocking = Թույլատրել որոշ կայքերին լռելյայն ցուցադրել թռուցիկներ:
 policy-Preferences = Սահմանեք և կողպեք արժեքը նախապատվությունների ենթաբազմության համար:
@@ -88,5 +88,6 @@ policy-SecurityDevices = Տեղադրել PKCS #11 մոդուլները:
 policy-SSLVersionMax = Սահմանել SSL-֊ի առավելագույն տարբերակը:
 policy-SSLVersionMin = Սահմանել SSL-ի նվազագույն տարբերակը:
 policy-SupportMenu = Ավելացնել անհատական աջակցության ընտրացանկ oգնության ընտրացանկում:
+policy-UserMessaging = Մի ցուցադրեք օգտագործողին որոշակի հաղորդագրություններ:
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Այցելելուց արգելափակել կայքերը: Տեսեք փաստաթղթերը` ձևաչափում մանրամասների համար:
