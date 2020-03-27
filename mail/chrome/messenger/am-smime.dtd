@@ -14,6 +14,7 @@
 <!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
 
 <!ENTITY e2eTitle.label "Crittografia end-to-end">
+<!ENTITY e2eIntro.description "Per inviare messaggi crittati o con firma digitale, configurare una tecnologia di crittografia OpenPGP o S/MIME.">
 <!ENTITY e2eLearnMore.label "Ulteriori informazioni">
 
 <!ENTITY e2eEnc.description "Senza la crittografia end-to-end, i contenuti dei messaggi sono esposti al proprio fornitore di posta elettronica e alla sorveglianza di massa.">
