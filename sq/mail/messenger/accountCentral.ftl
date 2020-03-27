@@ -10,6 +10,7 @@ release-notes =
     .title = Rreth { -brand-full-name }-it
 email-label = Email
     .aria-label = Lidheni me llogarinë tuaj ekzistuese email
+email-description = { -brand-short-name } lets you connect to your existing email account, to read your emails conveniently and efficiently from within the application.
 calendar-label = Kalendar
     .aria-label = Krijoni një kalendar të ri
 chat-label = Fjalosje
