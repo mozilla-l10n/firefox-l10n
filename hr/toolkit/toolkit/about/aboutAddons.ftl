@@ -80,7 +80,7 @@ detail-version =
     .label = Verzija
 detail-last-updated =
     .label = Posljednja dopuna
-detail-contributions-description = Razvijatelja ovog dodatka zanima jeste li voljni pomoći razvoju malom donacijom.
+detail-contributions-description = Programer ovog proširenja te moli, da pomoću male donacije podržiš daljnji razvoj proširenja.
 detail-contributions-button = Doprinesite
     .title = Doprinesite razvoju ovog dodatka
     .accesskey = D
@@ -149,7 +149,7 @@ disabled-unsigned-heading =
     .value = Neki dodaci su isključeni
 disabled-unsigned-description = Navedeni dodaci nisu mogli biti verificirani za korištenje u { -brand-short-name }u. Možete <label data-l10n-name="find-addons">pronaći zamjenske dodatke</label> ili kontaktirati autora dodataka da zatraži njihovu verifikaciju.
 disabled-unsigned-learn-more = Saznaj više o našim naporima da te zaštitimo na Internetu.
-disabled-unsigned-devinfo = Razvijatelji koji su zainteresirani za verifikaciju svojih dodataka mogu nastaviti čitati naš <label data-l10n-name="learn-more">vodič</label>.
+disabled-unsigned-devinfo = Programeri koji su zainteresirani za verifikaciju svojih dodataka, mogu nastaviti čitati naš <label data-l10n-name="learn-more">priručnik</label>.
 plugin-deprecation-description = Ne možeš pronaći priključak koji tražiš? Neke priključke { -brand-short-name } više ne podržava. <label data-l10n-name="learn-more">Saznaj više.</label>
 legacy-warning-show-legacy = Prikaži zastarjele dodatke
 legacy-extensions =

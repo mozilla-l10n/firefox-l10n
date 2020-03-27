@@ -75,7 +75,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Traka izbornika">
 <!ENTITY menubarCmd.accesskey "i">
-<!ENTITY navbarCmd.label "Navigacijska alatna traka">
+<!ENTITY navbarCmd.label "Traka za navigaciju">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->

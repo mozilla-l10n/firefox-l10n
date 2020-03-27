@@ -14,8 +14,8 @@ enable-learn-more-link = Saznaj više o programerskim alatima
 enable-enable-button = Omogući programerske alate
 enable-close-button = Zatvori ovu karticu
 welcome-title = Pozdravljamo te u programerskim alatima Firefoxa!
-newsletter-title = Bilten za Mozilla razvijatelje
-newsletter-message = Dobij vijesti, trikove i resurse razvijatelja, poslane direktno u tvoj poštanski sandučić.
+newsletter-title = Mozillin bilten za programere
+newsletter-message = Dobij vijesti, trikove i resurse programera direktno u tvoj poštanski sandučić.
 newsletter-email-placeholder =
     .placeholder = E-pošta
 newsletter-privacy-label = Slažem se da Mozilla upravlja ovim informacijama, kao što je objašnjeno u <a data-l10n-name="privacy-policy">politici privatnosti</a>
