@@ -413,6 +413,12 @@ addon-detail-private-browsing-disallow = Na aotren
 addon-badge-recommended =
     .title = Erbedet
     .alt = Erbedet
+available-updates-heading = Hizivadurioù hegerz
+recent-updates-heading = Hizivadurioù nevez
+release-notes-loading = O kargañ…
+release-notes-error = Digarezit, degouezhet ez eus bet ur fazi en ur bellgargañ an notennoù handelv.
+recommended-extensions-heading = Astennoù erbedet
+recommended-themes-heading = Temoù erbedet
 
 ## Page headings
 
@@ -421,10 +427,12 @@ theme-heading = Merañ ho neuzioù
 plugin-heading = Merañ hoc'h enlugelladoù
 dictionary-heading = Merañ ho keriaduioù
 locale-heading = Merañ ho yezhoù
+updates-heading = Merañ ho hizivadurioù
 discover-heading = Personelait ho { -brand-short-name }
 shortcuts-heading = Merañ berradennoù an askouezhioù
 theme-heading-search-label = Kaout muioc'h a neuzioù
 extension-heading-search-label = Kavout muioc'h a askouezhioù
+default-heading-search-label = Kavout muioc'h a askouezhioù
 addons-heading-search-input =
     .placeholder = Klask war addons.mozilla.org
 addon-page-options-button =
