@@ -77,4 +77,14 @@ abuse-report-broken-reason-theme = N'ez a ket en-dro pe terriñ a ra diskweladur
 abuse-report-broken-reason-extension-v2 = N'ez a ket en-dro, terriñ a ra al lec'hiennoù web pe gorrekaat a ra { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = N'ez a ket en-dro pe terriñ a ra diskweladur ar merdeer
 abuse-report-broken-example = Skouer: Gorrek, diaes da implijout pe n'ez eont ket en-dro an arc'hweladurioù ; lodennoù al lec'hiennoù web n'int ket karget pe a seblant divoutin
+abuse-report-broken-suggestions-extension =
+    Ur gudenn ho peus kavet sur a-walc'h. Ouzhpenn kas un danevell a zo evit diskoulmañ 
+    ur gudenn arc'hweladur, an hent gwellañ a zo mont e darempred ouzh diorroer an astennad.
+    <a data-l10n-name="support-link">  Kit da welout lec'hienn internet an astennad</a> evit gouzout hiroc'h diwar-benn an diorroer.
+abuse-report-broken-suggestions-theme =
+    Ur gudenn ho peus kavet sur a-walc'h. Ouzhpenn kas un danevell a zo evit diskoulmañ 
+    ur gudenn arc'hweladur, an hent gwellañ a zo mont e darempred ouzh diorroer an tem.
+    <a data-l10n-name="support-link"> Kit da welout lec'hienn internet an tem</a> evit gouzout hiroc'h diwar-benn an diorroer.
+abuse-report-policy-reason = Danvez kasonius, feulz pe er-maez lezenn
+abuse-report-policy-reason-v2 = Danvez kasonius, feulz pe er-maez lezenn en deus ennañ
 abuse-report-other-reason = Un dra bennak all
