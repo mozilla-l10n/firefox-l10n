@@ -259,7 +259,7 @@ addon-updates-manual-updates-found = Prikaži dostupne dopune
 
 addon-install-from-file = Instaliraj dodatak iz datoteke…
     .accesskey = I
-addon-install-from-file-dialog-title = Odaberite dodatak za instalaciju
+addon-install-from-file-dialog-title = Odaberi dodatak koji želiš instalirati
 addon-install-from-file-filter-name = Dodaci
 addon-open-about-debugging = Otklanjanje grešaka u dodacima
     .accesskey = g

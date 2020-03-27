@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-selection-window =
-    .title = { -brand-short-name } - Odaberite korisnički profil
+    .title = { -brand-short-name } – Odaberi korisnički profil
 profile-selection-button-accept =
     .label = Pokreni { -brand-short-name }
 profile-selection-button-cancel =

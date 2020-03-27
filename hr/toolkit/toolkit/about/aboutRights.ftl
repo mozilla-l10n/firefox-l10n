@@ -16,7 +16,7 @@ rights-webservices-header = { -brand-full-name }ove informacijske usluge na webu
 rights-webservices = { -brand-full-name } koristi web-bazirane usluge („Usluge”) kako bi se omogućile neke funkcije koje možeš koristiti s ovom binarnom verzijom { -brand-short-name }a pod uvjetima koji su dolje navedeni. Ako ne želiš koristiti jednu ili više usluga ili, ako su ti uslovi korištenja neprihvatljivi, možeš onemogućiti funkciju ili usluge. Instrukcije o tome, kako onemogućiti određenu funkciju ili uslugu, možeš pronaći <a data-l10n-name="mozilla-disable-service-link">ovdje</a>. Druge funkcije i usluge mogu biti onemogućene u postavkama aplikacije.
 rights-safebrowsing = <strong>Sigurno pregledavanje: </strong>Ne preporučuje se deaktivirati funkciju za sigurno pregledavanje, jer u tom slučaju ne postoji zaštita od pristupanja nesigurnim stranicama.  Ako u potpunosti želiš deaktivirati ovu funkciju, slijedi ove korake:
 rights-safebrowsing-term-1 = Otvori postavke programa
-rights-safebrowsing-term-2 = Odaberite kategoriju Sigurnost
+rights-safebrowsing-term-2 = Odaberi izbor Sigurnost
 rights-safebrowsing-term-3 = Isključite mogućnost kako biste "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Blokiraj opasni i zavaravajući sadržaj
 rights-safebrowsing-term-4 = Sigurno pregledavanje je sad onemogućeno
