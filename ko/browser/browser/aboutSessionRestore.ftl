@@ -7,7 +7,7 @@ restore-page-tab-title = 세션 복원
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = 죄송합니다. 페이지를 다시 불러오는데 문제가 발생하였습니다.
 restore-page-problem-desc = 마지막 탐색 세션을 복원하는데 문제가 발생하였습니다. 다시 시도하기 위해서 세션 복원을 선택하세요.
-restore-page-try-this = 아직도 세션을 복구할 수 없습니까? 어떤 탭이 문제를 일으킬 떄가 있습니다. 이전 탭을 보고 다시 되돌릴 필요가 없는 탭의 체크 표시를 없애고 다시 복원해 보세요.
+restore-page-try-this = 아직도 세션을 복원할 수 없습니까? 어떤 탭이 문제를 일으킬 때가 있습니다. 이전 탭을 보고, 복원할 필요가 없는 탭의 체크 표시를 없애고 복원해 보세요.
 restore-page-hide-tabs = 이전 탭 숨기기
 restore-page-show-tabs = 이전 탭 보기
 # When tabs are distributed across multiple windows, this message is used as a
@@ -29,9 +29,9 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
-welcome-back-tab-title = 해냈습니다!
-welcome-back-page-title = 해냈습니다!
-welcome-back-page-info = 이제 { -brand-short-name }를 쓰실 수 있습니다.
+welcome-back-tab-title = 성공!
+welcome-back-page-title = 성공!
+welcome-back-page-info = { -brand-short-name }를 사용할 준비가 되었습니다.
 welcome-back-restore-button =
     .label = 써 봅시다!
     .accesskey = L
