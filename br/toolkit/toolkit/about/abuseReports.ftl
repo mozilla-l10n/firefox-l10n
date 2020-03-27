@@ -49,6 +49,10 @@ abuse-report-messagebar-error-recent-submit = An danevell <span data-l10n-name="
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Ya, dilemel
+abuse-report-messagebar-action-keep-extension = Ket, mirout
+abuse-report-messagebar-action-remove-theme = Ya, dilemel
+abuse-report-messagebar-action-keep-theme = Ket, mirout
 abuse-report-messagebar-action-retry = Klask en-dro
 abuse-report-messagebar-action-cancel = Nullañ
 
@@ -66,3 +70,11 @@ abuse-report-settings-suggestions = A-raok danevelliñ an astenn e c'hellit klas
 abuse-report-settings-suggestions-search = A cheñch ho arventennoù enklask dre ziouer
 abuse-report-settings-suggestions-homepage = A cheñch ho pajenn degemer hag ivinell nevez
 abuse-report-deceptive-reason = A lavar eo un dra bennak n'eo ket anezhañ/anezhi
+abuse-report-deceptive-reason-v2 = Lavarout a ra eo un dra bennak n'eo ket anezhañ/anezhi
+abuse-report-deceptive-example = Skouer: deskrivadur pe skeudennoù touellus
+abuse-report-broken-reason-extension = N'ez a ket en-dro, terriñ a ra al lec'hiennoù web pe gorrekaat a ra { -brand-product-name }
+abuse-report-broken-reason-theme = N'ez a ket en-dro pe terriñ a ra diskweladur ar merdeer
+abuse-report-broken-reason-extension-v2 = N'ez a ket en-dro, terriñ a ra al lec'hiennoù web pe gorrekaat a ra { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = N'ez a ket en-dro pe terriñ a ra diskweladur ar merdeer
+abuse-report-broken-example = Skouer: Gorrek, diaes da implijout pe n'ez eont ket en-dro an arc'hweladurioù ; lodennoù al lec'hiennoù web n'int ket karget pe a seblant divoutin
+abuse-report-other-reason = Un dra bennak all
