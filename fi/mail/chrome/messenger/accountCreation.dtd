@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (etäkansiot)">
 <!ENTITY pop3Long.label                  "POP3 (säilytä sähköpostit tietokoneellasi)">
 
+<!ENTITY manualConfigTable.summary       "Palvelimen asetukset">
 <!ENTITY incoming.label                  "Saapuva:">
 <!ENTITY incomingColumn.label            "Saapuva">
 <!ENTITY outgoing.label                  "Lähtevä:">

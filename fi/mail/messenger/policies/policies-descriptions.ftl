@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Estä pääsy about:support-sivulle.
 policy-CaptivePortal = Käytä tai poista käytöstä tuki verkkojen kirjautumissivuille.
 policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
 policy-Cookies = Salli tai estä sivustoja asettamasta evästeitä.
+policy-DisabledCiphers = Poista salaus käytöstä.
 policy-DefaultDownloadDirectory = Aseta oletusarvoinen latauskansio.
 policy-DisableAppUpdate = Estä { -brand-short-name }in päivitykset.
 policy-DisableDeveloperTools = Estä pääsy kehittäjätyökaluihin.
