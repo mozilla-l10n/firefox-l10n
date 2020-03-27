@@ -29,7 +29,7 @@ waiting-cache-name = <strong>Naziv prirične memorije na čekanju:</strong> { $n
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
 # This term is used as a button label (verb, not noun).
-update-button = Dopuna
+update-button = Aktualiziraj
 unregister-button = Odjavi
 unregister-error = Odjava ovog radnog procesa usluge nije uspjela.
 waiting = Čekanje…
