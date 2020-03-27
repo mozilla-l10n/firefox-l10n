@@ -585,7 +585,7 @@ containers-add-button =
     .label = Dodaj novi kontejner
     .accesskey = a
 containers-new-tab-check =
-    .label = Odaberite kontejner za svaku novu karticu
+    .label = Odaberi kontejner za svaku novu karticu
     .accesskey = s
 containers-preferences-button =
     .label = Postavke
@@ -683,11 +683,11 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog =
-    .title = Odaberite što ćete sinkronizirati
+    .title = Odaberi što želiš sinkronizirati
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Spremi izmjene
     .buttonaccesskeyaccept = S
-    .buttonlabelextra2 = Odspoji…
+    .buttonlabelextra2 = Odspoji …
     .buttonaccesskeyextra2 = d
 sync-engine-bookmarks =
     .label = Zabilješke
@@ -918,7 +918,7 @@ content-blocking-setting-custom =
     .accesskey = P
 content-blocking-standard-desc = Uravnoteženo za zaštitu i performansu. Dozvoli neke programe za praćenje kako bi webstranice ispravno funkcionirale.
 content-blocking-strict-description = Snažnija zaštita, može uzrokovati pucanje nekih web stranica.
-content-blocking-custom-desc = Odaberite što blokirati.
+content-blocking-custom-desc = Odaberi što želiš blokirati.
 content-blocking-private-trackers = Poznati programi za praćenje samo u privatnim prozorima
 content-blocking-third-party-cookies = Kolačići za praćenje trećih strana
 

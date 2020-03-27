@@ -45,7 +45,7 @@
 <!ENTITY migrating.title                "Uvozi se …">
 <!ENTITY migrating.label                "Sljedeće stavke se trenutačno uvoze …">
 
-<!ENTITY selectProfile.title            "Odaberite profil">
+<!ENTITY selectProfile.title            "Odaberi profil">
 <!ENTITY selectProfile.label            "Uvoz je moguć iz sljedećih profila:">
 
 <!ENTITY done.title                     "Uvoz završen">

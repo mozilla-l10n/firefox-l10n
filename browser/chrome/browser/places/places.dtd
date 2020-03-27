@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "K">
 <!ENTITY cmd.restore2.label             "Vrati">
 <!ENTITY cmd.restore2.accesskey         "r">
-<!ENTITY cmd.restoreFromFile.label      "Odaberite datoteku…">
+<!ENTITY cmd.restoreFromFile.label      "Odaberi datoteku …">
 <!ENTITY cmd.restoreFromFile.accesskey  "O">
 
 <!ENTITY cmd.deleteDomainData.label     "Zaboravi ovu stranicu">
