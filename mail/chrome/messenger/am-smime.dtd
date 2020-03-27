@@ -12,6 +12,12 @@
 <!ENTITY alwaysEncryptMessage.label "Sempre (impedisce l'invio se tutti i destinatari non possiedono un certificato)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
+
+<!ENTITY e2eTitle.label "Crittografia end-to-end">
+<!ENTITY e2eLearnMore.label "Ulteriori informazioni">
+
+
+
 <!ENTITY digitalSign.certificate.button "Seleziona…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Pulisci">
@@ -31,7 +37,14 @@
 <!ENTITY manageDevices.label "Dispositivi di sicurezza">
 <!ENTITY manageDevices.accesskey "z">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleziona certificato">
 <!ENTITY certPicker.info  "Certificato:">
 <!ENTITY certPicker.detailsLabel "Dettagli del certificato selezionato:">
+
