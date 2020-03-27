@@ -272,7 +272,7 @@ about-debugging-worker-status-stopped = Zaustavljeno
 about-debugging-worker-status-registering = Registriranje
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
-    .label = Djelokrug
+    .label = Opseg
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = Provjera radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }
