@@ -103,6 +103,7 @@ detail-private-disallowed-description2 = An askouezh-mañ n'eo ket lañset er me
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Goulenn haeziñ d'ar prenestroù prevez
 detail-private-required-description = An askouezh-mañ a c'hall haeziñ hoc'h oberiantiz enlinenn e-pad ar merdeiñ prevez. <label data-l10n-name="detail-private-browsing-learn-more">Gouzout hiroc'h</label>
+detail-private-required-description2 = An askouezh-mañ a c'hall haeziñ hoc'h oberiantiz enlinenn e-pad ar merdeiñ prevez. <a data-l10n-name="learn-more">Gouzout hiroc'h</a>
 detail-private-browsing-on =
     .label = Aotren
     .tooltiptext = Gweredekaat er merdeiñ prevez
@@ -152,6 +153,9 @@ legacy-extensions =
     .value = Askouezhioù diamzeret
 legacy-extensions-description = An askouezhioù-mañ ne glotont ket kenn gant skouerioù { -brand-short-name } ha diweredekaet int bet. <label data-l10n-name="legacy-learn-more">Gouzout hiroc'h a-zivout ar c'hemmoù en askouezhioù</label>
 private-browsing-description2 = { -brand-short-name } a cheñch an doare ma za an askouezhioù en-dro er merdeiñ prevez. An askouezhioù nevez a ouzhpennot da { -brand-short-name } na vezint ket lañset dre ziouer er prenestroù prevez. Ma ne aotreit ket anezho en arventennoù n'ez int ket en-dro er merdeiñ prevez, ha n'hallint ket haeziñ hoc'h oberiantizoù enlinenn aze. Graet hon eus kement-se evit derc'hel ho merdeiñ prevez evit gwir. <label data-l10n-name="private-browsing-learn-more">Deskit penaos merañ arventennoù an askouezhioù</label>
+extensions-view-discopane =
+    .name = Erbedadennoù
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Hizivadurioù nevesañ
     .tooltiptext = { extensions-view-recent-updates.name }

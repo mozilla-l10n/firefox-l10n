@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Mud
 pictureinpicture-unmute =
     .aria-label = Heglev
+pictureinpicture-unpip =
+    .aria-label = Kas en-dro e-barzh an ivinell
+pictureinpicture-close =
+    .aria-label = Serriñ
