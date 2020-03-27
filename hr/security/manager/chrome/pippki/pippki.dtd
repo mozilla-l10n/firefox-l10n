@@ -34,7 +34,7 @@
 <!ENTITY pkcs12.setpassword.message  "Sigurnosna kopija lozinke certifikata koju ćete ovdje postaviti štiti sigurnosnu kopiju datoteke koju ćete upravo stvoriti. Da biste nastaviti s izradom sigurnosne kopije, morate upisati lozinku.">
 <!ENTITY pkcs12.setpassword.label1 "Sigurnosna kopija lozinke certifikata:">
 <!ENTITY pkcs12.setpassword.label2 "Sigurnosna kopija lozinke certifikata (opet):">
-<!ENTITY pkcs12.setpassword.reminder "Važno: ako zaboravite svoju sigurnosnu kopiju lozinke certifikata, kasnije nećete moći vratiti ovu sigurnosnu kopiju. Molim spremite lozinku na sigurno mjesto.">
+<!ENTITY pkcs12.setpassword.reminder "Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći vratiti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.">
 
 <!ENTITY chooseToken.title  "Prozor odabira tokena">
 <!ENTITY chooseToken.message1 "Molim odaberite token.">
