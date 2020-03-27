@@ -137,8 +137,8 @@ choose-p12-restore-file-dialog = Datoteka certifikata za uvoz
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Datoteke certifikata
-import-ca-certs-prompt = Za uvoz odaberite datoteku koja sadrži CA certifikat
-import-email-cert-prompt = Za uvoz odaberite datoteku koja sadrži nečiji certifikat e-pošte
+import-ca-certs-prompt = Za uvoz odaberi datoteku koja sadrži CA certifikat
+import-email-cert-prompt = Za uvoz odaberi datoteku koja sadrži nečiji certifikat e-pošte
 
 ## For editing certificates trust
 

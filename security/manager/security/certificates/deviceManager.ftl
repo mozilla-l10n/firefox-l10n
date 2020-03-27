@@ -88,7 +88,7 @@ devinfo-serialnum =
     .label = Serijski broj
 fips-nonempty-password-required = FIPS način rada zahtijeva postavljanje glavne lozinke za svaki sigurnosni uređaj. Postavi lozinku prije nego što pokušaš omogućiti FIPS način rada.
 unable-to-toggle-fips = Promjena FIPS načina rada za sigurnosni uređaj nije moguća. Preporuka je da zatvoriš ili ponovo pokreneš ovu aplikaciju.
-load-pk11-module-file-picker-title = Odaberite upravljački program PKCS#11 uređaja za učitavanje
+load-pk11-module-file-picker-title = Odaberi upravljački program PKCS#11 uređaja za učitavanje
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = Naziv modula ne može biti prazan.
