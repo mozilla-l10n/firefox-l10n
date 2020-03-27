@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Blocca accesso alla pagina about:support.
 policy-CaptivePortal = Attiva o disattiva supporto per captive portal.
 policy-CertificatesDescription = Aggiungi certificati o utilizza i certificati predefiniti (built-in).
 policy-Cookies = Consenti o nega ai siti web di impostare cookie.
+policy-DisabledCiphers = Disattiva cifrature.
 policy-DefaultDownloadDirectory = Imposta la cartella predefinita per i download.
 policy-DisableAppUpdate = Blocca l’aggiornamento di { -brand-short-name }.
 policy-DisableDeveloperTools = Blocca accesso agli strumenti di sviluppo.
