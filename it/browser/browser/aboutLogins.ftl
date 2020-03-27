@@ -46,6 +46,7 @@ login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
 login-list-breached-option = Violazione dati
+about-logins-login-list-alerts-option = Avvisi
 login-list-last-changed-option = Ultima modifica
 login-list-last-used-option = Ultimo utilizzo
 login-list-intro-title = Credenziali non trovate
