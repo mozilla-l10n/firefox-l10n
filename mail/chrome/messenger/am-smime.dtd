@@ -16,8 +16,14 @@
 <!ENTITY e2eTitle.label "Crittografia end-to-end">
 <!ENTITY e2eLearnMore.label "Ulteriori informazioni">
 
+<!ENTITY e2eeReqWarning.description "Per poter inviare un messaggio crittato, è necessario disporre della chiave pubblica o del certificato di ogni destinatario.">
 
+<!ENTITY e2eSigning.description "La firma digitale consente ai destinatari di verificare che il messaggio sia stato inviato dal mittente e che il contenuto non sia stato modificato.">
+<!ENTITY e2eTechPref.description "Tecnologia di crittografia preferita:">
 
+<!ENTITY doNotEncrypt.label "Non attivare la crittografia per impostazione predefinita">
+<!ENTITY requireEncryptMessage.label "Richiedi la crittografia per impostazione predefinita">
+<!ENTITY encryptionCert2.message "Certificato personale per la crittografia:">
 <!ENTITY digitalSign.certificate.button "Seleziona…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Pulisci">
@@ -28,6 +34,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "c">
 <!ENTITY signingGroupTitle.label "Firma digitale">
 <!ENTITY signMessage.label "Apponi una firma digitale ai messaggi">
+<!ENTITY signMessage2.label "Aggiungi la firma digitale per impostazione predefinita">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Utilizza il seguente certificato per firmare digitalmente i messaggi inviati:">
 
@@ -37,14 +44,23 @@
 <!ENTITY manageDevices.label "Dispositivi di sicurezza">
 <!ENTITY manageDevices.accesskey "z">
 
+<!ENTITY signingCert2.message "Certificato personale per la firma digitale:">
 
 
+<!ENTITY technologyAutomatic.label "Seleziona automaticamente in base alle chiavi o ai certificati disponibili">
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Gestione certificati S/MIME">
+<!ENTITY manageDevices2.label "Dispositivi di sicurezza S/MIME">
 
 
-
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Gestione chiavi OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleziona certificato">
 <!ENTITY certPicker.info  "Certificato:">
 <!ENTITY certPicker.detailsLabel "Dettagli del certificato selezionato:">
 
+<!ENTITY openpgpKey.message "Chiave personale per crittografia e firma digitale:">
+<!ENTITY openpgpKey.button "Imposta chiave personale…">
