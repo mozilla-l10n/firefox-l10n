@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Bllokoni hyrje te faqja about:support.
 policy-CaptivePortal = Aktivizoni ose çaktivizoni mbulim për <em>captive portal</em>.
 policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
 policy-Cookies = Lejoni ose jo që sajte të depozitojnë cookies.
+policy-DisabledCiphers = Çaktivizo shifra.
 policy-DefaultDownloadDirectory = Caktoni drejtori parazgjedhje shkarkimesh.
 policy-DisableAppUpdate = Pengojani { -brand-short-name }-it xhirimin e studimeve.
 policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
