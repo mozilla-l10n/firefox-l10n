@@ -27,7 +27,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Zahtjev identifikacije korisnika">
 <!ENTITY clientAuthAsk.message1 "Ova stranica je zatražila da se identificirate s certifikatom:">
-<!ENTITY clientAuthAsk.message2 "Odaberite certifikat za identifikaciju:">
+<!ENTITY clientAuthAsk.message2 "Odaberi certifikat za identifikaciju:">
 <!ENTITY clientAuthAsk.message3 "Detalji odabranog certifikata:">
 
 <!ENTITY pkcs12.setpassword.title  "Odaberi sigurnosnu kopiju lozinke certifikata">
@@ -37,7 +37,7 @@
 <!ENTITY pkcs12.setpassword.reminder "Važno: ako zaboraviš svoju lozinku sigurnosne kopije certifikata, kasnije nećeš moći vratiti ovu sigurnosnu kopiju. Spremi lozinku na sigurno mjesto.">
 
 <!ENTITY chooseToken.title  "Prozor odabira tokena">
-<!ENTITY chooseToken.message1 "Molim odaberite token.">
+<!ENTITY chooseToken.message1 "Odaberi token.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generiranje privatnog ključa">
