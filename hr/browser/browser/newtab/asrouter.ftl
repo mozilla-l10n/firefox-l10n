@@ -66,7 +66,7 @@ cfr-doorhanger-pintab-description = Jednostavan pristup tvojim najkorištenijim 
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>Desni klik</b> na karticu koju želite zakačiti.
-cfr-doorhanger-pintab-step2 = Odaberite <b>Zakači karticu</b> iz izbornika.
+cfr-doorhanger-pintab-step2 = Odaberi <b>Zakači karticu</b> iz izbornika.
 cfr-doorhanger-pintab-step3 = Ukoliko je stranica osvježena, vidjet ćete plavu točku na zakačenoj kartici.
 cfr-doorhanger-pintab-animation-pause = Pauziraj
 cfr-doorhanger-pintab-animation-resume = Nastavi
@@ -130,7 +130,7 @@ cfr-whatsnew-searchbar-title = Tipkaj manje, pronađi više s adresnom trakom
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Otvori web stranice koja najčešće koristiš jednim klikom u adresnu traku. Pronađi stvari brže pomoću { $searchEngineName } rezultata i tvoje povijesti pregledavanja.
 cfr-whatsnew-searchbar-body-generic = Otvori web stranice koja najčešće koristiš jednim klikom u adresnu traku. Pronađi stvari brže pomoću rezultata pretrage tvoje povijesti pregledavanja.
-cfr-whatsnew-searchbar-body-topsites = Samo odaberite adresnu traku i okvir će se proširiti s poveznicama do vaših najkorištenijih stranica.
+cfr-whatsnew-searchbar-body-topsites = Sada, jednostavno odaberi adresnu traku i jedan okvir će se proširiti s poveznicama tvojih najkorištenijih stranica.
 cfr-whatsnew-searchbar-icon-alt-text = Ikona za povećalo
 
 ## Picture-in-Picture
