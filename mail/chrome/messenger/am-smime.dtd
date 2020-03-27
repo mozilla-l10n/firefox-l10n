@@ -12,6 +12,13 @@
 <!ENTITY alwaysEncryptMessage.label "E nevojshme (s&apos;mund të dërgoj mesazhe veç në paçin tërë marrësit dëshmi)">
 <!ENTITY alwaysEncryptMessage.accesskey "E">
 <!ENTITY encryptionCert.message "Përdorni këtë dëshmi për të fshehtëzuar &amp; shfshehtëzuar mesazhe të dërguar te ju:">
+
+<!ENTITY e2eTitle.label "Fshehtëzim Skaj-Më-Skaj">
+<!ENTITY e2eIntro.description "Që të dërgoni mesazhe të fshehtëzuar ose të nënshkruar në mënyrë dixhitale, ju duhet të formësoni një teknologji fshehtëzimi, OpenPGP ose S/MIME.">
+<!ENTITY e2eLearnMore.label "Mësoni më tepër">
+
+
+
 <!ENTITY digitalSign.certificate.button "Përzgjidhni…">
 <!ENTITY digitalSign.certificate.accesskey "P">
 <!ENTITY digitalSign.certificate_clear.button "Spastroje">
@@ -31,7 +38,14 @@
 <!ENTITY manageDevices.label "Pajisje Sigurie">
 <!ENTITY manageDevices.accesskey "S">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Përzgjidhni Dëshmi">
 <!ENTITY certPicker.info  "Dëshmi:">
 <!ENTITY certPicker.detailsLabel "Hollësi të dëshmisë së përzgjedhur:">
+
