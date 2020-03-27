@@ -299,6 +299,14 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    An astennadoù ha temoù a zo evel arloadoù evit ho merdeer. Gallout a reont 
+    suraat ho kerioù-tremen, pellgargañ videoioù, kavout taolioù mat, stankañ 
+    ar bruderezh strobus, cheñch neuz ho merdeer hag all. An arloadigoù-se a vez 
+    diorroet gant un tredeour. Setu un dibab <a data-l10n-name="learn-more-trigger">kuzuliet</a> 
+    gant { -brand-product-name } evit ur surentez, un digonusted hag arc'hweladurioù dibar.
 discopane-notice-learn-more = Gouzout hiroc'h
 privacy-policy = Reolenn a-fet buhez prevez
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -333,6 +341,11 @@ expand-addon-button = Dibarzhioù ouzhpenn
 # is always its label.
 extension-enable-addon-button-label =
     .aria-label = Gweredekaat
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Dibarzhioù
+       *[other] Gwellvezioù
+    }
 details-addon-button = Munudoù
 release-notes-addon-button = Notennoù handelv
 permissions-addon-button = Aotreoù
@@ -374,6 +387,32 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> a zo bet dilemet.
+pending-uninstall-undo-button = Dizober
+addon-detail-updates-label = Aotren an hizivadurioù emgefreek
+addon-detail-updates-radio-default = Dre ziouer
+addon-detail-updates-radio-on = Gweredekaet
+addon-detail-updates-radio-off = Diweredekaet
+addon-detail-update-check-label = Klask hizivadurioù…
+install-update-button = Hizivaat
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Aotreet er prenestroù prevez
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Aotreet er prenestroù prevez
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-allow = Aotren
+addon-detail-private-browsing-disallow = Na aotren
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Erbedet
+    .alt = Erbedet
 
 ## Page headings
 
