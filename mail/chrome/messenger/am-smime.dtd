@@ -8,7 +8,6 @@
 <!ENTITY encryptionGroupTitle.label "Cifratura">
 <!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per l'invio dei messaggi:">
 <!ENTITY neverEncrypt.label "Mai (non cifrare)">
-<!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Sempre (impedisce l'invio se tutti i destinatari non possiedono un certificato)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
