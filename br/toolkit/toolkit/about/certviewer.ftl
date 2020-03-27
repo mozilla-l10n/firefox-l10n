@@ -34,9 +34,16 @@ certificate-viewer-organization = Aozadur
 certificate-viewer-organizational-unit = Unvez aozadurel
 certificate-viewer-policy = Politikerezh
 certificate-viewer-protocol = Protokol
+certificate-viewer-public-value = Talvoudegezh foran
+certificate-viewer-purposes = Palioù
+certificate-viewer-required = Rediet
+certificate-viewer-unsupported = &lt;diembreget&gt;
 certificate-viewer-state-province = Stad/Rannvro
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Niverenn steudad
+certificate-viewer-signature-algorithm = Algoritm sinañ
+certificate-viewer-value = Talvoudegezh
 certificate-viewer-version = Handelv
 certificate-viewer-certificate-policies = Politikerezhioù an testeni
 # This message is used as a row header in the Miscellaneous section. 
