@@ -263,6 +263,14 @@ about-debugging-worker-action-start2 = Pokreni
     .disabledTitle = Pokretanje radnih procesa trenutačno je onemogućena za višeprocesni { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Odjavi
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Dohvati
+    .value = Prepoznavanje događaja dohvaćanja
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Dohvati
+    .value = Neprepoznavanje događaja dohvaćanja
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Izvodi se
