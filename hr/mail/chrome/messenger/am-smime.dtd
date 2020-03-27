@@ -4,18 +4,18 @@
 
 <!ENTITY securityTitle.label "Sigurnost">
 <!ENTITY securityTab.label "Sigurnost">
-<!ENTITY securityHeading.label "Da biste slali i primali potpisane ili kriptirane poruke, trebate odrediti certifikat za digitalni potpis i certifikat za kriptiranje.">
-<!ENTITY encryptionGroupTitle.label "Kriptiranje">
-<!ENTITY encryptionChoiceLabel.label "Zadane postavke kriptiranja prilikom slanja poruka:">
-<!ENTITY neverEncrypt.label "Nikada (ne koristi kriptiranje)">
+<!ENTITY securityHeading.label "Za slanje i primanje potpisanih ili šifriranih poruka, odredi certifikat za digitalni potpis i certifikat za šifriranje.">
+<!ENTITY encryptionGroupTitle.label "Šifriranje">
+<!ENTITY encryptionChoiceLabel.label "Zadana postavka šifriranja prilikom slanja poruka:">
+<!ENTITY neverEncrypt.label "Nikada (ne koristi šifriranje)">
 <!ENTITY neverEncrypt.accesskey "N">
 <!ENTITY alwaysEncryptMessage.label "Obavezno (poruka se ne može poslati ukoliko svi primatelji nemaju certifikate)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
-<!ENTITY encryptionCert.message "Koristi ovaj certifikat za kriptiranje i dekriptiranje poruka poslanih vama:">
+<!ENTITY encryptionCert.message "Koristi ovaj certifikat za šifriranje i dešifriranje tebi poslanih poruka:">
 
 <!ENTITY e2eTitle.label "End-To-End šifriranje">
 <!ENTITY e2eIntro.description "Za slanje šifriranih ili digitalno potpisanih poruka moraš konfigurirati tehnologiju šifriranja, bilo OpenPGP ili S/MIME.">
-<!ENTITY e2eLearnMore.label "Saznajte više">
+<!ENTITY e2eLearnMore.label "Saznaj više">
 
 <!ENTITY e2eEnc.description "Bez end-to-end šifriranja, sadržaji tvojih poruka lako su dostupni tvom davatelju usluge e-pošte i drugim masovnim nadzorima.">
 <!ENTITY e2eeReqWarning.description "Ako zahtijevaš šifriranje, za slanje poruke moraš imati javni ključ ili certifikat svakog primatelja.">
