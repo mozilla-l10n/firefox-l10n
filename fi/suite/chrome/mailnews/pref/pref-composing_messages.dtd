@@ -34,6 +34,10 @@
 <!ENTITY bgColor.label                        "Tausta:">
 <!ENTITY bgColor.accesskey                    "u">
 <!ENTITY defaultCompose.label                 "Tekstin oletusmuoto:">
+<!ENTITY defaultBodyText.label                "Riveittäin (Enter-näppäin luo uuden rivin)">
+<!ENTITY defaultBodyText.accesskey            "R">
+<!ENTITY defaultParagraph.label               "Kappaleittain (Enter-näppäin luo uuden kappaleen)">
+<!ENTITY defaultParagraph.accesskey           "K">
 
 <!ENTITY selectHeaderType.label               "Valitse vastausotsakkeen tyyppi:">
 <!ENTITY selectHeaderType.accesskey           "i">
