@@ -105,9 +105,9 @@ about-debugging-setup-usb-status-enabled = Omogućeno
 about-debugging-setup-usb-status-disabled = Onemogućeno
 about-debugging-setup-usb-status-updating = Aktualiziranje …
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu2 = Omogući izbornik za razvijatelje na svom Android uređaju.
+about-debugging-setup-usb-step-enable-dev-menu2 = Aktiviraj izbornik za programere na svom Android uređaju.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Omogući USB uklanjanje grešaka u Android izborniku razvijatelja.
+about-debugging-setup-usb-step-enable-debug2 = Aktiviraj USB uklanjanje grešaka u Android izborniku za programere.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = Omogući USB uklanjanje grešaka u Firefoxu na Android uređaju.
 # USB section step by step guide
