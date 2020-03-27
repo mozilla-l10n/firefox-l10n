@@ -87,4 +87,11 @@ abuse-report-broken-suggestions-theme =
     <a data-l10n-name="support-link"> Kit da welout lec'hienn internet an tem</a> evit gouzout hiroc'h diwar-benn an diorroer.
 abuse-report-policy-reason = Danvez kasonius, feulz pe er-maez lezenn
 abuse-report-policy-reason-v2 = Danvez kasonius, feulz pe er-maez lezenn en deus ennañ
+abuse-report-policy-suggestions =
+    Evezhiadenn: Ar c'hudennoù gwirioù oberour ha merkoù a rank bezañ disklêriet dre un hent all.
+    <a data-l10n-name="report-infringement-link">Grit diouzh ar c'hemennadoù-se</a> a-benn 
+    disklêriañ ar gudenn.
+abuse-report-unwanted-reason = Gwech ebet n'em eus bet c'hoant da gaout an astennad-mañ ha ne zeuan ket a-benn da zilezel anezhañ
+abuse-report-unwanted-reason-v2 = Biken n'em eus bet c'hoant da gaout anezhañ ha n'ouzon ket penaos ober evit e zilezel.
+abuse-report-unwanted-example = Skouer: Un arload en deus staliet anezhañ hep ma aotre
 abuse-report-other-reason = Un dra bennak all
