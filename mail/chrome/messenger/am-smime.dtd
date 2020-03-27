@@ -8,6 +8,7 @@
 <!ENTITY encryptionGroupTitle.label "Cifratura">
 <!ENTITY encryptionChoiceLabel.label "Impostazioni cifratura predefinite per l'invio dei messaggi:">
 <!ENTITY neverEncrypt.label "Mai (non cifrare)">
+<!ENTITY neverEncrypt.accesskey "M">
 <!ENTITY alwaysEncryptMessage.label "Sempre (impedisce l'invio se tutti i destinatari non possiedono un certificato)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Utilizza il seguente certificato per cifrare o decifrare i messaggi ricevuti:">
@@ -15,13 +16,16 @@
 <!ENTITY e2eTitle.label "Crittografia end-to-end">
 <!ENTITY e2eLearnMore.label "Ulteriori informazioni">
 
+<!ENTITY e2eEnc.description "Senza la crittografia end-to-end, i contenuti dei messaggi sono esposti al proprio fornitore di posta elettronica e alla sorveglianza di massa.">
 <!ENTITY e2eeReqWarning.description "Per poter inviare un messaggio crittato, è necessario disporre della chiave pubblica o del certificato di ogni destinatario.">
 
 <!ENTITY e2eSigning.description "La firma digitale consente ai destinatari di verificare che il messaggio sia stato inviato dal mittente e che il contenuto non sia stato modificato.">
 <!ENTITY e2eTechPref.description "Tecnologia di crittografia preferita:">
 
 <!ENTITY doNotEncrypt.label "Non attivare la crittografia per impostazione predefinita">
+<!ENTITY doNotEncrypt.accesskey "N">
 <!ENTITY requireEncryptMessage.label "Richiedi la crittografia per impostazione predefinita">
+<!ENTITY requireEncryptMessage.accesskey "R">
 <!ENTITY encryptionCert2.message "Certificato personale per la crittografia:">
 <!ENTITY digitalSign.certificate.button "Seleziona…">
 <!ENTITY digitalSign.certificate.accesskey "S">
