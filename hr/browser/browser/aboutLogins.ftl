@@ -133,8 +133,8 @@ master-password-reload-button =
 
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Želite li svoje prijave svugdje gdje koristite { -brand-product-name }? Idite u { -sync-brand-short-name } mogućnosti i odaberite kućicu pored Prijava.
-       *[other] Želite li svoje prijave svugdje gdje koristite { -brand-product-name }? Idite u { -sync-brand-short-name } mogućnosti i odaberite kućicu pored Prijava.
+        [windows] Želiš li svoje prijave imati gdjegod koristiš { -brand-product-name }? Idi na { -sync-brand-short-name } mogućnosti i odaberi potvrdni okvir Prijava.
+       *[other] Želiš li svoje prijave imati gdjegod koristiš { -brand-product-name }? Idi na { -sync-brand-short-name } postavke i odaberi potvrdni okvir Prijava.
     }
 enable-password-sync-preferences-button =
     .label =
