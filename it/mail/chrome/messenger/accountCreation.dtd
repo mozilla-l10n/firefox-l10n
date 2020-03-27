@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (cartelle remote)">
 <!ENTITY pop3Long.label                  "POP3 (tenere la posta sul proprio computer)">
 
+<!ENTITY manualConfigTable.summary       "Impostazioni server">
 <!ENTITY incoming.label                  "In entrata:">
 <!ENTITY incomingColumn.label            "In entrata">
 <!ENTITY outgoing.label                  "In uscita:">
