@@ -49,16 +49,20 @@
 
 <!ENTITY signingCert2.message "Certificato personale per la firma digitale:">
 
+<!ENTITY sendingDefaults.label "Impostazioni predefinite per l’invio dei messaggi">
 
 <!ENTITY technologyAutomatic.label "Seleziona automaticamente in base alle chiavi o ai certificati disponibili">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Gestione certificati S/MIME">
+<!ENTITY manageCerts3.accesskey "G">
 <!ENTITY manageDevices2.label "Dispositivi di sicurezza S/MIME">
+<!ENTITY manageDevices2.accesskey "d">
 
 
 <!ENTITY openpgpKeys.label "OpenPGP">
 <!ENTITY manageKeys.label "Gestione chiavi OpenPGP">
+<!ENTITY manageKeys.accesskey "c">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleziona certificato">
@@ -67,3 +71,4 @@
 
 <!ENTITY openpgpKey.message "Chiave personale per crittografia e firma digitale:">
 <!ENTITY openpgpKey.button "Imposta chiave personale…">
+<!ENTITY openpgpKey.accesskey "p">
