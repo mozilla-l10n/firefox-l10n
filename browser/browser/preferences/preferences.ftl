@@ -216,11 +216,11 @@ preferences-zoom-text-only =
     .label = Zumiraj samo tekst
     .accesskey = t
 language-header = Jezik
-choose-language-description = Odaberite jezik za prikazivanje stranica
+choose-language-description = Odaberi jezik za prikazivanje stranica
 choose-button =
     .label = Odabir…
     .accesskey = d
-choose-browser-language-description = Odaberite jezik koji će se koristiti za prikaz izbornika, poruka i obavijesti od { -brand-short-name }-a.
+choose-browser-language-description = Odaberi jezik koji će se koristiti za prikaz izbornika, poruka i obavijesti od { -brand-short-name }-a.
 manage-browser-languages-button =
     .label = Postavi alternative…
     .accesskey = l
@@ -261,7 +261,7 @@ download-always-ask-where =
     .label = Uvijek pitaj gdje želim spremiti datoteke
     .accesskey = a
 applications-header = Aplikacije
-applications-description = Odaberite kako će { -brand-short-name } upravljati datotekama koje preuzmete s interneta ili aplikacijama koje koristite prilikom pregledavanja.
+applications-description = Odaberi kako će { -brand-short-name } upravljati datotekama koje preuzmeš s interneta ili aplikacijama koje koristiš prilikom pregledavanja.
 applications-filter =
     .placeholder = Traži tipove datoteka ili aplikacija
 applications-type-column =
@@ -285,7 +285,7 @@ applications-use-app-default =
     .label = Koristi { $app-name } (uobičajeno)
 applications-use-other =
     .label = Koristi drugi…
-applications-select-helper = Odaberite program pomoćnika
+applications-select-helper = Odaberi pomoćnu aplikaciju
 applications-manage-app =
     .label = Detalji programa…
 applications-always-ask =
@@ -525,9 +525,9 @@ search-bar-hidden =
 search-bar-shown =
     .label = Dodaj traku pretraživanja u alatnu traku
 search-engine-default-header = Zadana tražilica
-search-engine-default-desc = Odaberite zadani pretraživač koji ćete koristiti u adresnoj traci i traci pretraživanja.
+search-engine-default-desc = Odaberi standardni preglednik koji će se koristiti u adresnoj traci i traci pretraživanja.
 search-engine-default-desc-2 = Ovo je zadana tražilica u adresnoj traci i traci za pretraživanje. Možeš je promijeniti u bilo koje vrijeme.
-search-engine-default-private-desc-2 = Odaberite drugi zadani pretraživač za Privatno pretraživanje
+search-engine-default-private-desc-2 = Odaberi jednu drugi standardnu tražilicu samo za Privatne prozore
 search-separate-default-engine =
     .label = Koristi ovu tražilicu u privatnim prozorima
     .accesskey = K
@@ -568,8 +568,8 @@ search-find-more-link = Pronađi još pretraživača
 search-keyword-warning-title = Postojeća ključna riječ
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Odabrali ste ključnu riječ koja se koristi za "{ $name }". Molim odaberite drugu.
-search-keyword-warning-bookmark = Odabrali ste ključnu riječ koju koristi zabilješka. Molim odaberite drugu.
+search-keyword-warning-engine = Odabrao/la si ključnu riječ koju trenutačno koristi "{ $name }". Odaberi jednu drugu.
+search-keyword-warning-bookmark = Odabrao/la si ključnu riječ koju koristi zabilješka. Odaberi jednu drugu.
 
 ## Containers Section
 
