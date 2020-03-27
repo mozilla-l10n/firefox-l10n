@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source = Ping izvora podataka:
-about-telemetry-show-current-ping-data = Trenutni ping podaci
+about-telemetry-ping-data-source = Izvor ping podataka:
+about-telemetry-show-current-ping-data = Trenutačni ping podaci
 about-telemetry-show-current-data = Trenutačni podaci
 about-telemetry-show-archived-ping-data = Arhivirani ping podaci
 about-telemetry-show-subsession-data = Prikaži podatke podsesije
@@ -96,7 +96,7 @@ about-telemetry-no-search-results-all = Nema rezultata u bilo kojem odjeljku za 
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = “{ $sectionName }” trenutno nema dostupnih podataka
 # used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-ping-sidebar = trenutni ping
+about-telemetry-current-ping-sidebar = trenutačni ping
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = trenutačni podaci
 # used in the “Ping Type” select
