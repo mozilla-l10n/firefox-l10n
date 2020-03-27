@@ -45,6 +45,13 @@ certificate-viewer-serial-number = Niverenn steudad
 certificate-viewer-signature-algorithm = Algoritm sinañ
 certificate-viewer-value = Talvoudegezh
 certificate-viewer-version = Handelv
+certificate-viewer-business-category = Rummad business
+certificate-viewer-issuer-name = Anv ar skigner
+certificate-viewer-validity = Talvoudegezh
+certificate-viewer-public-key-info = Titouroù an alc'hwez foran
+certificate-viewer-miscellaneous = A bep seurt
+certificate-viewer-fingerprints = Roudoù biz
+certificate-viewer-basic-constraints = Rediennoù diazez
 certificate-viewer-certificate-policies = Politikerezhioù an testeni
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
