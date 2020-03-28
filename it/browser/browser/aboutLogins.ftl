@@ -162,10 +162,19 @@ confirm-discard-changes-dialog-confirm-button = Ignora
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Violazione sito web
 breach-alert-text = Dall’ultima volta in cui hai aggiornato queste credenziali, le password di questo sito web sono state rubate o diffuse pubblicamente. Modifica la tua password per proteggere questo account.
 breach-alert-link = Ulteriori informazioni su questa violazione.
 breach-alert-dismiss =
     .title = Chiudi questo avviso
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Password vulnerabile
+about-logins-vulnerable-alert-text = Questa password è stata diffusa pubblicamente o rubata in una violazione di dati che ha coinvolto un’altra azienda. Il riutilizzo delle credenziali mette in pericolo tutti i tuoi account. Per garantire la tua sicurezza online, cambia questa password.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Apri { $hostname }
 
 ## Error Messages
 
