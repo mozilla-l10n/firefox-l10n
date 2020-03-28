@@ -167,6 +167,7 @@ breach-alert-text = Dall’ultima volta in cui hai aggiornato queste credenziali
 breach-alert-link = Ulteriori informazioni su questa violazione.
 breach-alert-dismiss =
     .title = Chiudi questo avviso
+about-logins-breach-alert-date = Questa violazione si è verificata il { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 
 ## Vulnerable Password notification
 
