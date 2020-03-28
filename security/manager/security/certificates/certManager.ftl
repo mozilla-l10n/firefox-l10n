@@ -138,7 +138,7 @@ choose-p12-restore-file-dialog = 가져올 인증서 파일
 
 file-browse-certificate-spec = 인증서 파일
 import-ca-certs-prompt = 가져올 CA 인증서를 포함하는 파일 선택
-import-email-cert-prompt = 가져올 메일 인증서 파일 선택
+import-email-cert-prompt = 가져올 메일 인증서를 포함하는 파일 선택
 
 ## For editing certificates trust
 
@@ -217,13 +217,13 @@ add-exception-unverified-or-bad-signature-long = 안전한 서명을 사용한 �
 add-exception-valid-short = 유효한 인증서
 add-exception-valid-long = 본 사이트는 신뢰할 만한 유효한 신원 정보를 제공하고 있습니다. 예외 목록에 추가할 필요가 없습니다.
 add-exception-checking-short = 정보 확인 중
-add-exception-checking-long = 사이트 인증 확인 중…
+add-exception-checking-long = 사이트 인증 시도 중…
 add-exception-no-cert-short = 정보가 없음
 add-exception-no-cert-long = 사이트에 대한 인증 정보를 얻을 수 없습니다.
 
 ## Certificate export "Save as" and error dialogs
 
-save-cert-as = 인증서를 다른 파일로 저장
+save-cert-as = 인증서를 파일로 저장
 cert-format-base64 = X.509 인증서 (PEM)
 cert-format-base64-chain = X.509 체인 인증서 (PEM)
 cert-format-der = X.509 인증서 (DER)
