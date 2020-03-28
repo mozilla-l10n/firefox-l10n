@@ -12,6 +12,8 @@
 <!ENTITY window.title "Tessenkkreḍ lqem aqbuṛ n Firefox">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync "Aseqdec n lqem aqbuṛ n Firefox izmer ad isexseṛ ticraḍ n yisebtar akked uzray n tunigin i yettwaskelsen yakan deg umaɣnu Firefox yellan. Akken ad tettummesten telɣut-ik, rnu amaqnu amaynut i usebeddi-a n &brandShortName;.">
+<!ENTITY window.sync "Aseqdec n lqem aqbuṛ n Firefox izmer ad isexseṛ ticraḍ n yisebtar akked uzray n tunigin i yettwaskelsen yakan deg umaɣnu Firefox yellan. Akken ad tettummesten telɣut-ik, rnu amaqnu amaynut i usebeddi-a n &brandShortName;. Tzemreḍ yal tikkelt ad teqqneḍ s &syncBrand.fxAccount.label; akken ad temtawiḍ ticraḍ-ik n yisebtar akked uzray n tunigin gar yimuɣna.">
 
 <!ENTITY window.create "Rnu amaɣnu amaynut">
 <!ENTITY window.quit-win "Ffeɣ">

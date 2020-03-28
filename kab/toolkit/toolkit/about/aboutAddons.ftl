@@ -94,11 +94,16 @@ detail-update-manual =
     .tooltiptext = Ur sebdad ara ileqman s wudem awurman
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Sker deg usfaylu uslig
+detail-private-browsing-description2 = Ma yettwasireg, asiɣzef ad yekcem ɣer urmud-ik srid deg tunigt tusrigt.<label data-l10n-name="detail-private-browsing-learn-more">Issin ugar</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ur yettusireg ara deg isfuyla usligen
+detail-private-disallowed-description = Asiɣzef-a ur yettwaselkam ara deg tunigt tusrigt. <label data-l10n-name="detail-private-browsing-learn-more">Issin ugar</label>
+detail-private-disallowed-description2 = Asiɣzef-a ur yettwaselkam ara deg tunigt tusrigt. <a data-l10n-name="learn-more">Issin ugar</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Yesra anekcum ɣer isfuyla usligen
+detail-private-required-description = Asiɣzef-a ɣur-s anekcum ɣer urmud-ik srid deg tunigt. <label data-l10n-name="detail-private-browsing-learn-more">Issin ugar</label>
+detail-private-required-description2 = Asiɣzef-a ɣur-s anekcum ɣer urmud-ik srid deg tunigt. <a data-l10n-name="learn-more">Issin ugar</label>
 detail-private-browsing-on =
     .label = Sireg
     .tooltiptext = Sermed aya deg iccer uslig

@@ -144,5 +144,8 @@ about-telemetry-origin-section = Tilisɣelt taɣbalut
 about-telemetry-origin-origin = aɣbalu
 about-telemetry-origin-count = Amḍan
 # Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> yestengal isefka send ad ttwaznen akken { $telemetryServerOwner } ad yizmir ad isiḍen tiɣawsiwin, maca ur ittizmir ara ad iẓer ma yella { -brand-product-name } ittekka neɣ ala deg usiden-a. (<a data-l10n-name="prio-blog-link">Issin ugar</a>)
+# Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Akala { $process }

@@ -2,12 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = Aneqqis i { $addon-name }
 abuse-report-title-extension = Mmel asiɣzef-a i { -vendor-short-name }
 abuse-report-title-theme = Mmel asentel-a i { -vendor-short-name }
 abuse-report-subtitle = D acu i d ugur?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = sɣur <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Ur tessineḍ ara ugur ara tferneḍ?
+    <a data-l10n-name="learnmore-link">Issin ugar ɣef tummla n yisiɣzaf akked isental</a>
 abuse-report-submit-description = Seglem ugur( d afrayan)
 
 ## Panel buttons.
