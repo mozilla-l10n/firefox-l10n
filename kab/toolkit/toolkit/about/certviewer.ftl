@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Aselkin
 
 ## Error messages
 
+certificate-viewer-error-message = Ur nessaweḍ ara ad d-naf talɣut ɣef uselkin neɣ ma yexseṛ uselkin. Ma ulac aɣilif, ɛreḍ tikkelt-nniḍen.
 certificate-viewer-error-title = Teḍra-d tuccḍa.
 
 ## Certificate information labels

@@ -87,6 +87,10 @@ abuse-report-broken-suggestions-theme =
     <a data-l10n-name="support-link">Rzu ɣer usmel n usentel</a> akken ad tawiḍ talɣut ɣef uneflay.
 abuse-report-policy-reason = Agbur n kaṛuh, n tekriḍt neɣ arusḍif
 abuse-report-policy-reason-v2 = Igber agdbur n kaṛuh, n tekriḍt neɣ arusḍif
+abuse-report-policy-suggestions =
+    Tamawt: Uguren n yizerfan n umeskar akked ticraḍ ilaq ad d-ttwammlen deg ukal yemgaraden.
+    <a data-l10n-name="report-infringement-link">Seqdec iwellihen-a</a> akken
+    ad d-temmleḍ ugur.
 abuse-report-unwanted-reason = Werǧin bɣiɣ asiɣzef-agi yerna ur zmireɣ ad t-kkseɣ
 abuse-report-unwanted-reason-v2 = Ur ǧǧin bɣiɣ daɣen ur ẓriɣ ara amek ara tekkseɣ
 abuse-report-unwanted-example = Amedya: asnas isbedd-it mebla tasiregt
