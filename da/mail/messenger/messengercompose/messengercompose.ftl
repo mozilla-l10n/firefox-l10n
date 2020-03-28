@@ -12,7 +12,7 @@ remove-address-row-type = Fjern feltet { $type }
 address-input-type =
     { $count ->
         [0] Tomt inputfelt { $type }
-        [one] Inputfelt{ $type } med én adresse
+        [one] Inputfelt { $type } med én adresse
        *[other] Inputfelt { $type } med { $count } adresser
     }
 pill-action-edit =
