@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (удаљене фасцикле)">
 <!ENTITY pop3Long.label                  "POP3 (чува пошту на вашем рачунару)">
 
+<!ENTITY manualConfigTable.summary       "Подешавања сервера">
 <!ENTITY incoming.label                  "Долазни:">
 <!ENTITY incomingColumn.label            "Долазећи">
 <!ENTITY outgoing.label                  "Одлазни:">
