@@ -152,6 +152,12 @@ legacy-warning-show-legacy = Sken akk iseɣzaf iqburen
 legacy-extensions =
     .value = Iseγzaf iqburen
 legacy-extensions-description = Iseγzaf-agi ur sεin ara ilugan n { -brand-short-name } imiranen γef aya ittwasensen. <label data-l10n-name="legacy-learn-more">Issin ugar ɣef usnifel ɣer izegrar</label>
+private-browsing-description2 =
+    { -brand-short-name } ittbeddil tarrayt make iteddu deg tunigt tusrigt. Ula dyiwen n usiɣzef are ternuḍ ɣer 
+    { -brand-short-name } ur yettwaselkam swudem amezwer deg usfaylu uslig. Ma yella ur t-termideḍ ara deg yiɣewwaren, 
+    asiɣzef ur iteddu ara deg tunigt tusrigt, daɣen ur ikeččem ara ɣer urmud-ik
+    srid. Nexdem abeddel-a akken akken tunigt-ik tusligt ad teqqim d tabadnit.
+    <label data-l10n-name="private-browsing-learn-more">Issin amek ara tesferkeḍ iɣewwaren n usiɣzef</label>
 extensions-view-discopane =
     .name = Iwellihen
     .tooltiptext = { extensions-view-discopane.name }
@@ -282,6 +288,10 @@ shortcuts-letter = Sekcem asekkil
 shortcuts-system = Ur yezmir ad isnifel anegzum n { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Sleg anegzum
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } yettwaseqdec am unegzum deg ddeqs n yimukan. Inegzumen imsinen zemren ad d-glun s tiddin ur nelhi ara.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
