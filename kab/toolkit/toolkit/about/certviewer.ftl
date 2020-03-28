@@ -42,6 +42,8 @@ certificate-viewer-policy = Tasertit
 certificate-viewer-protocol = Aneggaf
 certificate-viewer-public-value = Azal azayaz
 certificate-viewer-purposes = Iswiyen
+certificate-viewer-qualifier = Aɣaray
+certificate-viewer-qualifiers = Iɣarayen
 certificate-viewer-required = Yettawsra
 certificate-viewer-unsupported = &lt;ur yettwasefrak ara&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
@@ -57,11 +59,22 @@ certificate-viewer-value = Azal
 certificate-viewer-version = Lqem
 certificate-viewer-business-category = Taggayt n uweẓlu
 certificate-viewer-subject-name = Isem n uzwel
+certificate-viewer-issuer-name = ISem n umazan
 certificate-viewer-validity = Taneɣbalt
+certificate-viewer-subject-alt-names = Ismawen-nniden n uzwel
 certificate-viewer-public-key-info = Talɣult n tsarrut tazayezt
 certificate-viewer-miscellaneous = Ayen nniḍen
 certificate-viewer-fingerprints = Idsilen umḍinen
+certificate-viewer-basic-constraints = Tamara tazadurt
+certificate-viewer-key-usages = Aseqdec n tsarut
+certificate-viewer-extended-key-usages = Aseqdec-nniḍen n tsarut
+certificate-viewer-ocsp-stapling = Asenṭeḍ OCSP
+certificate-viewer-subject-key-id = Asulay n tsarut n uzwel
+certificate-viewer-authority-key-id = Asulay ID n tsarut n udabu
+certificate-viewer-authority-info-aia = Talɣut ɣef udabu (AIA)
 certificate-viewer-certificate-policies = Tisertiyin n uselkin
+certificate-viewer-embedded-scts = SCT usliɣ
+certificate-viewer-crl-endpoints = Agazen n tagara CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Sider

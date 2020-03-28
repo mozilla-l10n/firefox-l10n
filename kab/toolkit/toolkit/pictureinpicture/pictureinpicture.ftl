@@ -11,5 +11,7 @@ pictureinpicture-mute =
     .aria-label = Asusam
 pictureinpicture-unmute =
     .aria-label = Amesli
+pictureinpicture-unpip =
+    .aria-label = Ales tuzna deg yiccer
 pictureinpicture-close =
     .aria-label = Mdel
