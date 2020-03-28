@@ -17,7 +17,7 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "인증서 다운로드 중">
-<!ENTITY downloadCert.message1 "새 인증 기관(CA)을 신뢰할 지 항상 물어봅니다.">
+<!ENTITY downloadCert.message1 "새 인증 기관 (CA)을 신뢰하라는 요청을 받았습니다.">
 <!ENTITY downloadCert.trustSSL "신뢰된 인증 기관 (웹 사이트)">
 <!ENTITY downloadCert.trustEmail "신뢰된 인증 기관 (메일)">
 <!ENTITY downloadCert.message3 "인증 기관을 신뢰하기 전에 인증 기관의 정책과 발급 절차를 확인하세요.">
