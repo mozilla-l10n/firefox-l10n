@@ -74,6 +74,12 @@ manifest-loaded-error = S’es producha una error en cargar lo manifèst :
 manifest-loaded-devtools-error = Error de las aisinas de desvolopament de Firefox
 # Text displayed when the page has no manifest available
 manifest-non-existing = Cap de manifèst pas trobat a inspectar.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Lo manifèst es integrat dins una URL data.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Tòca : <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
