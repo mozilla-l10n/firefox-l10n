@@ -307,6 +307,13 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro = Isiɣzaf akked isental am yisnasen i  yiminig-ik ara k-yeǧǧen ad temmestneḍ awalen-ik uffiren, ad tessadreḍ tividyutin, ad d-tafeḍ tignatin yelhan, ad tesweḥleḍ adellel udhim, ad tbeddleḍ udem n yiminig,atg. Iseɣzanen-a imeẓyanen deg tuget xeddmen-ten ineflayen ilelliyen. A-tt-a kra n tefrant anida { -brand-product-name }<a data-l10n-name="learn-more-trigger">yettwellih</a> i tɣellist, tamellit akked tmahilin meqqren.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Kra seg yiwellihen-a d udmawanen. Tagrumma-a tebna ɣef yisiɣzaf-nniḍen
+    i tesbeddeḍ, iɣewwaren n umaɣnu-ik akked tiddadanin n useqdec.
 discopane-notice-learn-more = Lmed ugar
 privacy-policy = Tasertit n tbaḍnit
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -408,6 +415,7 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = Yettusireg def usfaylu uslig kan
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Ma yettwasireg, asiɣzef ad yekcem ɣer urmud-ik srid deg tunigt tusrigt.<a data-l10n-name="learn-more">Issin ugar</label>
 addon-detail-private-browsing-allow = Sireg
 addon-detail-private-browsing-disallow = Ur ttaǧǧa ara
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
