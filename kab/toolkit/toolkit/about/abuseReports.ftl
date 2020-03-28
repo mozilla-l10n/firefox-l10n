@@ -66,16 +66,28 @@ abuse-report-spam-reason-v2 = Yegber aspam neɣ iger-d yir adellel
 abuse-report-spam-example = Amedya: Sekcem adellel deg yisebtar web
 abuse-report-settings-reason = Ibeddel amsedday-iw n unadi, asebter-iw agejdan neɣ iccer amaynut mebla ma yenna-yi-d neɣ isuter-iyi-d
 abuse-report-settings-reason-v2 = Ibeddel amsedday-iw n unadi, asebter-iw agejdan neɣ iccer amaynut mebla ma yenna-yi-d neɣ isuter-iyi-d
+abuse-report-settings-suggestions = Send ad temmleḍ asiɣzef, tzemreḍ ad tɛerḍeḍ ad tbeddleḍ iɣawwaṛen-ik:
 abuse-report-settings-suggestions-search = Snifel iɣewwaṛen n  unadi amezwer
 abuse-report-settings-suggestions-homepage = Snifel asebter agejdan akked yiccer amaynut
+abuse-report-deceptive-reason = Ad d-yeqqar ayen ur yelli
 abuse-report-deceptive-reason-v2 = Ad d-yeqqar ayen ur yelli
 abuse-report-deceptive-example = Amedya: aglam neɣ tugniwin n ukellex
 abuse-report-broken-reason-extension = Ur iteddu ara, ittruzu ismal web, neɣ isaẓẓay { -brand-product-name }
 abuse-report-broken-reason-theme = UR iteddu ara neɣ iseḥbes askan n yiminig
 abuse-report-broken-reason-extension-v2 = Ur iteddu ara, ittruzu ismal web, neɣ isaẓẓay { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ur iteddu ara neɣ iseḥbes askan n yiminig
+abuse-report-broken-example = Amedya: Timahilin ẓẓayit, yewɛer i useqdec, neɣ ur uleḥḥu ara; iḥricen n usmel web ur d-ttalin ara neɣ ur d-tt-banen ara am zik
+abuse-report-broken-suggestions-extension =
+    Ittban d akken yufiḍ-d abug. Ɣer tama n tuzna n uneqqis dagi, abrid ufrin
+    akken ad tefruḍ ugur n tmahilt, d anermes n uneflay n usiɣzef.
+    <a data-l10n-name="support-link">Rzu ɣer usmel n usiɣzef</a> akken ad tawiḍ talɣut ɣef uneflay.
+abuse-report-broken-suggestions-theme =
+    Ittban d akken yufiḍ-d abug. Ɣer tama n tuzna n uneqqis dagi, abrid ufrin
+    akken ad tefruḍ ugur n tmahilt, d anermes n uneflay n usentel.
+    <a data-l10n-name="support-link">Rzu ɣer usmel n usentel</a> akken ad tawiḍ talɣut ɣef uneflay.
 abuse-report-policy-reason = Agbur n kaṛuh, n tekriḍt neɣ arusḍif
 abuse-report-policy-reason-v2 = Igber agdbur n kaṛuh, n tekriḍt neɣ arusḍif
 abuse-report-unwanted-reason = Werǧin bɣiɣ asiɣzef-agi yerna ur zmireɣ ad t-kkseɣ
 abuse-report-unwanted-reason-v2 = Ur ǧǧin bɣiɣ daɣen ur ẓriɣ ara amek ara tekkseɣ
+abuse-report-unwanted-example = Amedya: asnas isbedd-it mebla tasiregt
 abuse-report-other-reason = Ayen nniḍen
