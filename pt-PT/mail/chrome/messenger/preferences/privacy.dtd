@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Conteúdo remoto">
 
 <!ENTITY acceptRemoteContent.label "Permitir conteúdo remoto nas mensagens">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Exceções">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "Saber mais sobre privacidade e conteúdo remoto">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Conteúdo web">
 
 <!ENTITY keepHistory.label "Memorizar websites e ligações que eu visitei">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Informar os sites que eu não quero ser monitorizado">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Saber mais acerca do Do Not Track">
+
+<!ENTITY doNotTrackCheck.label "Enviar aos sites um sinal de “não-monitorização” a indicar que não pretende ser monitorizado">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Saber mais">
