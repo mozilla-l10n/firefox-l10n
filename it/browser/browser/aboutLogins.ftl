@@ -168,6 +168,10 @@ breach-alert-link = Ulteriori informazioni su questa violazione.
 breach-alert-dismiss =
     .title = Chiudi questo avviso
 about-logins-breach-alert-date = Questa violazione si è verificata il { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Apri { $hostname }
+about-logins-breach-alert-learn-more-link = Ulteriori informazioni
 
 ## Vulnerable Password notification
 
@@ -176,6 +180,7 @@ about-logins-vulnerable-alert-text = Questa password è stata diffusa pubblicame
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Apri { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Ulteriori informazioni
 
 ## Error Messages
 
