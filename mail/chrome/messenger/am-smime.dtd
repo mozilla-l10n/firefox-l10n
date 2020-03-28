@@ -12,6 +12,13 @@
 <!ENTITY alwaysEncryptMessage.label "Wymagaj (nie można wysłać wiadomości, jeśli nie wszyscy adresaci mają certyfikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "a">
 <!ENTITY encryptionCert.message "Certyfikat do szyfrowania i deszyfrowania otrzymanych wiadomości:">
+
+<!ENTITY e2eTitle.label "Szyfrowanie „end-to-end”">
+<!ENTITY e2eIntro.description "Do wysyłania zaszyfrowanych lub cyfrowo podpisanych wiadomości wymagana jest konfiguracja technologii szyfrowania OpenPGP lub S/MIME.">
+<!ENTITY e2eLearnMore.label "Więcej informacji">
+
+
+
 <!ENTITY digitalSign.certificate.button "Wybierz…">
 <!ENTITY digitalSign.certificate.accesskey "z">
 <!ENTITY digitalSign.certificate_clear.button "Wyczyść">
@@ -31,6 +38,14 @@
 <!ENTITY manageDevices.label "Urządzenia zabezpieczające">
 <!ENTITY manageDevices.accesskey "U">
 
+
+
+
+
+
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Wybierz certyfikat">
-<!ENTITY certPicker.info "Certyfikat:">
+<!ENTITY certPicker.info  "Certyfikat:">
 <!ENTITY certPicker.detailsLabel "Szczegóły wybranego certyfikatu:">
+

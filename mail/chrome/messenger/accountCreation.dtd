@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (zdalne foldery)">
 <!ENTITY pop3Long.label                  "POP3 (poczta lokalnie na komputerze)">
 
+<!ENTITY manualConfigTable.summary       "Konfiguracja serwera">
 <!ENTITY incoming.label                  "Serwer poczty przychodzącej:">
 <!ENTITY incomingColumn.label            "Serwer poczty przychodzącej">
 <!ENTITY outgoing.label                  "Serwer poczty wychodzącej:">
