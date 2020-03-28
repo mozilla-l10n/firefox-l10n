@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window =
-    .title = Ayrıcalıklar
+    .title = İstisnalar
     .style = width: 45em
 permissions-close-key =
     .key = w
@@ -46,8 +46,6 @@ permissions-capabilities-listitem-allow =
     .value = İcazə ver
 permissions-capabilities-listitem-block =
     .value = Blokla
-permissions-capabilities-listitem-allow-first-party =
-    .value = Yalnız birinci partiyaya icazə ver
 permissions-capabilities-listitem-allow-session =
     .value = Bu seans üçün icazə ver
 
@@ -98,6 +96,9 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Hansı saytların həmişə və ya heç vaxt media məzmunlarını avtomatik səsli oxuda biləcəklərini seçə bilərsiz. İdarə etmək istədiyiniz saytın ünvanını daxil edin, Əngəllə və ya İcazə ver seçin.
 
+## Site Permissions - Autoplay
+
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -117,6 +118,9 @@ permissions-site-location-desc = Aşağıdakı saytlar mövqeyinizi almaq üçü
 permissions-site-location-disable-label =
     .label = Məkanınız üçün icazə istəyən yeni istəkləri əngəllə
 permissions-site-location-disable-desc = Bu yuxarıda olmayan bütün saytların mövqeyinizi istəmələrini əngəlləyəcək. Mövqeyinizi almağı əngəlləmə bəzi sayt özəlliklərini poza bilər.
+
+## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
