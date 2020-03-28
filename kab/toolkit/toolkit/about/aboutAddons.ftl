@@ -400,6 +400,11 @@ addon-detail-private-browsing-disallow = Ur ttaǧǧa ara
 addon-badge-recommended =
     .title = Ihul
     .alt = Ihul
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } ur ittwelleh ala isiɣzaf yemṣadan d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Ileqman yellan
 recent-updates-heading = Ileqman n melmi kan
 release-notes-loading = Asali…
