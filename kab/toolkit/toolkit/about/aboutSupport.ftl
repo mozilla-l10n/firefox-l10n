@@ -89,6 +89,8 @@ graphics-crash-guards-title = Timhalin ur nermid ara n uɛessas n uɣelluy
 graphics-workarounds-title = Tifrat n usellek
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Aneggaf n usfaylu
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Tawennaḍt n tnarit
 place-database-title = Taffa n isefka n idigen
 place-database-integrity = Timmad
 place-database-verify-integrity = Senqed timmad
@@ -157,6 +159,7 @@ intl-regional-prefs = Ismenyifen n temnaḍt
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Tamseɣtayt tanmeggagt (Aneggaf Chromium )
 remote-debugging-accepting-connections = Aqbal n tuqqniwin
 remote-debugging-url = URL
 
