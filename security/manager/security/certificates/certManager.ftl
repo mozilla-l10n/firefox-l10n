@@ -39,7 +39,7 @@ certmgr-cert-detail-serial-number = 일련 번호
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 지문
 certmgr-cert-detail-sha-1-fingerprint = SHA1 지문
 certmgr-edit-ca-cert =
-    .title = 인증 기관 인증서 신뢰도 설정 편집
+    .title = CA 인증서 신뢰도 설정 편집
     .style = width: 48em;
 certmgr-edit-cert-edit-trust = 신뢰도 설정 편집:
 certmgr-edit-cert-trust-ssl =
@@ -200,7 +200,7 @@ cert-not-verified-cert-expired = 인증서가 만료되어 확인할 수 없습�
 cert-not-verified-cert-not-trusted = 신뢰되지 않아 인증서를 확인할 수 없습니다.
 cert-not-verified-issuer-not-trusted = 발급자가 신뢰되지 않아 인증서를 확인할 수 없습니다.
 cert-not-verified-issuer-unknown = 발급자를 알 수 없어 인증서를 확인할 수 없습니다.
-cert-not-verified-ca-invalid = 인증 기관 인증서가 유효하지 않아 인증서를 확인할 수 없습니다.
+cert-not-verified-ca-invalid = CA 인증서가 유효하지 않아 인증서를 확인할 수 없습니다.
 cert-not-verified_algorithm-disabled = 비활성화된 안전하지 않은 알고리즘을 사용하여 서명되었기 때문에 이 인증서를 확인할 수 없습니다.
 cert-not-verified-unknown = 알 수 없는 이유로 인증서를 확인할 수 없습니다.
 
