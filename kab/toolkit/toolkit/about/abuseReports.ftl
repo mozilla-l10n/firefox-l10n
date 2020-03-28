@@ -19,6 +19,11 @@ abuse-report-learnmore =
     Ur tessineḍ ara ugur ara tferneḍ?
     <a data-l10n-name="learnmore-link">Issin ugar ɣef tummla n yisiɣzaf akked isental</a>
 abuse-report-submit-description = Seglem ugur( d afrayan)
+abuse-report-textarea =
+    .placeholder = D ayen fessusen i nekni akken ad tazneḍ ugur ma nẓra talqayt. Ma ulac aɣilig, seglem-d ayen i twalaḍ. Tanemmirt imi i aɣ-d-muddeḍ yallelt ad neḥrez web s tezmert yelhan.
+abuse-report-submit-note =
+    Tamawt: Ur d-sedday ara talɣut tudmawant (am yisem, tansa, uṭṭun n tiliɣri, tansa n uxxam).
+    { -vendor-short-name } ad yeḥrez akals imezgi n yineqqisen-a.
 
 ## Panel buttons.
 
@@ -59,6 +64,8 @@ abuse-report-damage-example = Amedya: iger-d yir aseɣzan neɣ yuker isefka
 abuse-report-spam-reason = Yesnulfu-d ispamen d udellel
 abuse-report-spam-reason-v2 = Yegber aspam neɣ iger-d yir adellel
 abuse-report-spam-example = Amedya: Sekcem adellel deg yisebtar web
+abuse-report-settings-reason = Ibeddel amsedday-iw n unadi, asebter-iw agejdan neɣ iccer amaynut mebla ma yenna-yi-d neɣ isuter-iyi-d
+abuse-report-settings-reason-v2 = Ibeddel amsedday-iw n unadi, asebter-iw agejdan neɣ iccer amaynut mebla ma yenna-yi-d neɣ isuter-iyi-d
 abuse-report-settings-suggestions-search = Snifel iɣewwaṛen n  unadi amezwer
 abuse-report-settings-suggestions-homepage = Snifel asebter agejdan akked yiccer amaynut
 abuse-report-deceptive-reason-v2 = Ad d-yeqqar ayen ur yelli
