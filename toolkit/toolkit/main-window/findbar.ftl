@@ -16,7 +16,7 @@ findbar-highlight-all2 =
     .accesskey =
         { PLATFORM() ->
             [macos] S
-           *[other] s
+           *[other] S
         }
     .tooltiptext = Suslinhar totas las ocurréncias de la frasa
 findbar-case-sensitive =
