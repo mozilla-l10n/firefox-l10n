@@ -45,4 +45,5 @@ accessibility-text-label-issue-toolbar = Las barras d’aisinas devon èsser eti
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Los elements que pòdon aver lo focus devon téner una semantica interactiva. <a>Ne saber mai</a>
 accessibility-keyboard-issue-tabindex = Evitatz d’utilizar un atribut <code>tabindex</code> superior a zèro. <a>Ne saber mai</a>
