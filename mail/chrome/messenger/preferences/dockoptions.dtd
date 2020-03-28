@@ -5,12 +5,12 @@
 <!ENTITY dockOptionsDialog.title               "Opções do ícone da aplicação">
 <!ENTITY window.macWidth                       "35em">
 
-<!ENTITY bounceSystemDockIcon.label            "Animar ícone ao receber novas mensagens">
+<!ENTITY bounceSystemDockIcon.label            "Animar o ícone da aplicação quando recebe uma nova mensagem">
 <!ENTITY bounceSystemDockIcon.accesskey        "i">
 <!ENTITY newMessagesCountDock.label            "N.º de novas mensagens">
 <!ENTITY newMessagesCountDock.accesskey        "n">
 <!ENTITY showAllUnreadMessagesCount.label      "N.º de mensagens não lidas">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "m">
-<!ENTITY dockIconBadge.label                   "Badge do ícone">
-<!ENTITY dockIconShow.label                    "Largura do badge do ícone:">
+<!ENTITY dockIconBadge.label                   "Emblema do ícone da aplicação">
+<!ENTITY dockIconShow.label                    "Adicionar um emblema ao ícone da aplicação com:">
 <!ENTITY directNotificationSettings.label      "Pode desativar a medalha no painel de Notificação das Preferências de Sistema.">

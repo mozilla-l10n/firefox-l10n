@@ -10,8 +10,8 @@
 <!ENTITY useDefault.label                 "Restaurar predefinição">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY changeDockIconOptions.label      "Mudar preferências do ícone da aplicação">
-<!ENTITY dockOptions.label                "Opções do ícone">
+<!ENTITY changeDockIconOptions.label      "Alterar as preferências para o ícone da aplicação">
+<!ENTITY dockOptions.label                "Opções do ícone da aplicação…">
 <!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "Ao receber mensagens">
