@@ -54,7 +54,7 @@ certmgr-cert-name =
 certmgr-cert-server =
     .label = 서버
 certmgr-override-lifetime =
-    .label = 유효기간
+    .label = 수명
 certmgr-token-name =
     .label = 보안 장치
 certmgr-begins-on = 시작일
@@ -101,10 +101,10 @@ certmgr-hierarchy =
     .value = 인증서 계층 구조
     .accesskey = H
 certmgr-add-exception =
-    .label = 예외 목록 추가…
+    .label = 예외 추가…
     .accesskey = x
 exception-mgr =
-    .title = 보안 확인 예외 목록 추가
+    .title = 보안 예외 추가
 exception-mgr-extra-button =
     .label = 보안 예외 확인
     .accesskey = C
@@ -131,7 +131,7 @@ pkcs12-dup-data = 인증서와 개인키가 이미 보안 장치에 있습니다
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = 백업할 파일 이름
-file-browse-pkcs12-spec = PKCS #12 파일 (*.pfx, *.p12)
+file-browse-pkcs12-spec = PKCS12 파일
 choose-p12-restore-file-dialog = 가져올 인증서 파일
 
 ## Import certificate(s) file dialog
