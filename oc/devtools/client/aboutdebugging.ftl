@@ -179,6 +179,20 @@ about-debugging-runtime-service-workers-not-compatible = La configuracion del na
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = La version de l’environament connectat es vièlha ({ $runtimeVersion }). La version minimala presa en carga es ({ $minVersion }). Aquesta configuracion es pas presa en carga e pòt menar a un arrèst de DevTools. Mercés de metre a jorn l’environament connectat.<a>Diagnostic de connexion</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Lo panèl de desbugatge poiriá foncionar pas amb lo navegador connectat. Mercés d’utilizar Firefox { $runtimeVersion } se volètz utilizar lo desbugador amb aqueste navegador.
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Lo navegador connectat es mai recent ({ $runtimeVersion }, buildID { $runtimeID }) que lo vòstre { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Aquò es una configuracion pas compatibla e que pòt far fracassar las aisinas de desvolopament. Mercés de metre a nivèl Firefox. <a>Diagnostic de connexion</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -249,8 +263,25 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Aviar
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = Lo Service Worker Push es actualament desactivat pel mòde multiprocessús de { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Start
+    .disabledTitle = Lo Service Worker Start es actualament desactivat pel mòde multiprocessús de { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Desmarcar
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Fetch
+    .value = Escota dels eveniments Fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Fetch
+    .value = Escota pas los eveniments Fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Execucion
@@ -265,12 +296,20 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Servici Push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = L’inspector Service Worker es actualament desactivat pel mòde multiprocessús de { -brand-shorter-name }
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Processús principal
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Processús màger pel navegador cibla
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Bóstia d’aisina multiprocessús
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Processús màger e processús de contengut pel navegador cibla
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Tampar lo messatge
