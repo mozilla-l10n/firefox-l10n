@@ -58,6 +58,16 @@ about-telemetry-upload-type =
         [enabled] irmed
        *[disabled] yensa
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } n umedya, alemmas = { $prettyAverage }, amatu = { $sum }
+       *[other] { $sampleCount } n yimedyaten, alemmas= { $prettyAverage }, amatu= { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Asebter-agi iskan-d talɣut n tmellit, arrum, aseqdec d waggan id d-lqeḍ tilisɣelt. Talɣut-agi tettwazen i { $telemetryServerOwner } i wusnerni n { -brand-full-name }.
@@ -67,6 +77,7 @@ about-telemetry-settings-explanation = Tilisγelt tettalqqaḍ { about-telemetry
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Yal aḥric seg iḥricen n telɣut ad ittwazen γer <a data-l10n-name="ping-link">ipingen</a>. Aql-ak tettwaliḍ aping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Yal aḥric seg iḥricen n telγut ad ittwazen γer <a data-l10n-name="ping-link">ipingen</a>. Aql-ak tettwaliḍ aping amiran.
+about-telemetry-data-details-current = Yal aḥric seg iḥricen n telγut ad ittwazen γer “<a data-l10n-name="ping-link">ipingen</a>“. Aql-ak tettwaliḍ ɣer yisefka imiranen.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
