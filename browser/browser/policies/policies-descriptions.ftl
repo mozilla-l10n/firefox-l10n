@@ -77,11 +77,13 @@ policy-OverridePostUpdatePage = Contrarotlar la pagina « Qué de nòu » ap
 policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari de senhals.
 policy-Permissions2 = Configurar las autorizacions per la camèra, lo microfòn, la localizacion, las notificacions e la lectura automatica.
 policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
+policy-Preferences = Definir e verrolhar la valor d’un jos-ensemble de preferéncias.
 policy-PromptForDownloadLocation = Demandar ont enregistrar los fichièrs pendent lo telecargament.
 policy-Proxy = Configura los paramètres del servidor mandatari.
 policy-RequestedLocales = Definís la lista de las lengas demandadas per l’aplicacion dins l‘òrdre de preferéncia.
 policy-SanitizeOnShutdown2 = Suprimís las donadas de navigacion a la tampadura.
 policy-SearchBar = Definís l’emplaçament per defaut de la barra de recèrca. L’utilizaire garda la possibilitat de personalizar aquò.
+policy-SearchEngines = Configurar los paramètres del motor de recèrca. Aquesta proprietat es pas disponibla que per las version Extended Support Release (ESR)
 policy-SearchSuggestEnabled = Activar o desactivar las suggestions de recèrca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Permet d’installar de moduls PKCS #11.
