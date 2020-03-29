@@ -54,6 +54,8 @@ fingerprinter-tab-title = Сборщики цифровых отпечатков
 fingerprinter-tab-content = Сборщики цифровых отпечатков используют параметры вашего браузера и компьютера, чтобы создать ваш профиль. Используя этот цифровой отпечаток, они могут отслеживать вас на различных веб-сайтах. <a data-l10n-name="learn-more-link">Подробнее</a>
 cryptominer-tab-title = Криптомайнеры
 cryptominer-tab-content = Криптомайнеры используют вычислительные мощности вашей системы для добычи цифровых валют. Такие скрипты разряжают вашу батарею, замедляют работу компьютера и могут увеличить ваш счёт за электроэнергию. <a data-l10n-name="learn-more-link">Подробнее</a>
+protections-close-button =
+    .aria-label = Закрыть
 mobile-app-title = Блокируйте рекламные трекеры сразу на нескольких устройствах
 mobile-app-card-content = Используйте мобильный браузер со встроенной защитой от рекламных трекеров.
 mobile-app-links = Браузер { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
