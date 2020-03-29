@@ -13,6 +13,10 @@
 <!ENTITY importFromIE.accesskey         "ا">
 <!ENTITY importFromEdge.label           "مائیکروسافٹ عیدج">
 <!ENTITY importFromEdge.accesskey       "ع">
+<!ENTITY importFromEdgeLegacy.label     "Microsoft Edge Legacy">
+<!ENTITY importFromEdgeLegacy.accesskey "L">
+<!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
+<!ENTITY importFromEdgeBeta.accesskey   "d">
 <!ENTITY importFromNothing.label        "کچھ درآمد نہ کریں ">
 <!ENTITY importFromNothing.accesskey    "ن">
 <!ENTITY importFromSafari.label         "Safari">

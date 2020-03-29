@@ -24,6 +24,9 @@ features-title = { -brand-short-name } فیچر
 features-name = نام
 features-version = ورژن
 features-id = ID
+processes-title = بعیدی عمل
+processes-type = قسم
+processes-count = شمار
 app-basics-title = ایپلی کیشن BASIC
 app-basics-name = نام
 app-basics-version = ورژن
@@ -45,6 +48,7 @@ app-basics-performance = کارکردگی
 app-basics-service-workers = رجسٹر شدہ خدمت کے کارکنان
 app-basics-profiles = پروفا ئلز
 app-basics-multi-process-support = ملٹی عمل ونڈوں
+app-basics-remote-processes-count = بعیدی عمل
 app-basics-enterprise-policies = انٹرپرائز کی پالیسیوں
 app-basics-location-service-key-google = Google  محل وقوع خدمت کی کلید
 app-basics-key-mozilla = ٘Mozilla مقام سروس کلی
@@ -72,6 +76,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = فیصلہ لاگ
 graphics-crash-guards-title = حادثے گارڈ معذور خصوصیات
 graphics-workarounds-title = متبادل راستے
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Window  پروٹوکول
 place-database-title = مقامات ڈیٹا بیس
 place-database-integrity = تکمیلیت
 place-database-verify-integrity = تکمیلیت کی توثیق کریں
@@ -205,6 +211,8 @@ unknown = نامعلوم
 
 found = مل گيا
 missing = لاپتہ
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-description = وضاحت
 gpu-vendor-id = وینڈر ID
 gpu-device-id = آلہ ID
@@ -256,6 +264,8 @@ effective-content-sandbox-level = مؤثر مواد عمل سینڈبکس سطح
 sandbox-proc-type-content = مواد
 sandbox-proc-type-file = مسل کے مشمول
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
+launcher-process-status-0 = فعال
+launcher-process-status-unknown = نامعلوم اسٹیٹس
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
