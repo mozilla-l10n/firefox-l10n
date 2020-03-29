@@ -12,6 +12,14 @@
 <!ENTITY alwaysEncryptMessage.label "Sempre criptografar (todos os destinatários devem ter certificados)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Certificado usado para (des)criptografar mensagens enviadas a você:">
+
+<!ENTITY e2eTitle.label "Criptografia de ponta a ponta">
+<!ENTITY e2eLearnMore.label "Saiba mais">
+
+
+<!ENTITY e2eTechPref.description "Tecnologia de criptografia preferida:">
+
+<!ENTITY requireEncryptMessage.label "Exigir criptografia por padrão">
 <!ENTITY digitalSign.certificate.button "Selecionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpar">
@@ -31,7 +39,14 @@
 <!ENTITY manageDevices.label "Dispositivos de segurança">
 <!ENTITY manageDevices.accesskey "D">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Selecionar certificado">
 <!ENTITY certPicker.info  "Certificado:">
 <!ENTITY certPicker.detailsLabel "Detalhes do certificado selecionado:">
+
