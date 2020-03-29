@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Блокирует доступ к странице a
 policy-CaptivePortal = Включает или отключает поддержку перехватывающего портала.
 policy-CertificatesDescription = Добавляет сертификаты или использует встроенные сертификаты.
 policy-Cookies = Разрешает или запрещает веб-сайтам устанавливать куки.
+policy-DisabledCiphers = Отключает шифрование.
 policy-DefaultDownloadDirectory = Устанавливает каталог для загрузок по умолчанию.
 policy-DisableAppUpdate = Запрещает обновление { -brand-short-name }.
 policy-DisableDeveloperTools = Блокирует доступ к инструментам разработчика.
