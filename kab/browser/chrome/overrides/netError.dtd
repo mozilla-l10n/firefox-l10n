@@ -31,7 +31,10 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
-<!ENTITY fileNotFound.longDesc "<ul><li>Senqed isem n ufaylu ma yura s isekkilen meqqṛen neɣ meẓẓiyen neɣ tuccdiwin n tira-nniḍen.</li><li>Senqed ma yella afaylu ur ittusenkez ara, ur ittusnifel ara neɣ ur ittwakkes ara.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Senqed isem n ufaylu ma yura s usekkil meqqren neɣ meẓẓi neɣ tuccdiwin n tira-nniḍen.</li>
+  <li>Senqed ma yella afaylu ur ittusenkez ara, ur ibeddel ara isem neɣ ur ittwakkes ara.</li>
+</ul>">
 
 <!ENTITY fileAccessDenied.title "Anekcum ɣer ufaylu yegdel">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.</li></ul>">
