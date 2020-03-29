@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (pastas remotas)">
 <!ENTITY pop3Long.label                  "POP3 (mantém as mensagens no seu computador)">
 
+<!ENTITY manualConfigTable.summary       "Configurações do servidor">
 <!ENTITY incoming.label                  "Recebimento:">
 <!ENTITY incomingColumn.label            "Recebimento">
 <!ENTITY outgoing.label                  "Envio:">
