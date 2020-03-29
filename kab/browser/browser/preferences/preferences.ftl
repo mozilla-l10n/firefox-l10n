@@ -899,7 +899,7 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 content-blocking-header = Asewḥel n ugbur
 content-blocking-section-description = Mmesten tabaḍnit-ik deg tunigin. Sewḥel igburen ur d-yettbanen ara, i k-yeṭṭafaṛen seg usmel ɣer wayeḍ daɣen ttwalin amaɣnu-ik. Sewḥel aḥric n yigburen-a i zemren ad sɣiwlen asali n yisebtar.
 content-blocking-enhanced-tracking-protection = Ammesten yettwaseǧhed mgal aḍfaṛ
-content-blocking-section-top-level-description = Inefḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
+content-blocking-section-top-level-description = Ineḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
 content-blocking-learn-more = Issin ugar
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

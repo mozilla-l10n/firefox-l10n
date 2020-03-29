@@ -34,7 +34,7 @@ protection-report-header-details-custom = Aswir n ummesten yettwaṣeggem ɣer <
 protection-report-page-title = Taɣellist n tbaḍnit
 protection-report-content-title = Ammesten n tbaḍnit
 etp-card-title = Ammesten mgal aḍfaṛ yettwaseǧhed
-etp-card-content = Inefḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
+etp-card-content = Ineḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
 protection-report-etp-card-content-custom-not-blocking = Meṛṛa ammesten yensa akka tura. Fren ineḍfaṛen ara tesweḥleḍ s usefrek n yiɣewwaṛen n ummesten n { -brand-short-name }.
 protection-report-manage-protections = Sefrek iɣewwaṛen
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
