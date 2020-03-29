@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.key "S">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Senteḍ s war amsal">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,8 +23,8 @@
 <!ENTITY checkSpellingCmd2.label "Senqed taɣdira…">
 <!ENTITY checkSpellingCmd2.accesskey "S">
 <!ENTITY checkSpellingCmd2.key "p">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Senni">
 <!ENTITY insertMenu.accesskey "S">
 <!ENTITY insertLinkCmd2.label "Aseɣwen…">
@@ -46,14 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "k">
 <!ENTITY insertBreakAllCmd.label "Rnu adig daw n tugna">
 <!ENTITY insertBreakAllCmd.accesskey "n">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Rnu aseɣwen…">
 <!ENTITY createLinkCmd.accesskey "e">
 <!ENTITY editLinkCmd.label "Ẓreg aseɣwen ɣef umsuddes amaynut">
 <!ENTITY editLinkCmd.accesskey "Ẓ">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Fren tasefsit">
 <!ENTITY fontfaceMenu.label "Tasefsit">
 <!ENTITY fontfaceMenu.accesskey "s">
@@ -68,19 +68,17 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Fren teɣzi n tsefsit">
 <!ENTITY decreaseFontSize.label "Meẓẓi">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
-<!ENTITY increaseFontSize.label "Meqqṛen">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "Meqqer">
 <!ENTITY increaseFontSize.accesskey "q">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Teɣzi">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -96,8 +94,8 @@
 <!ENTITY size-extraLargeCmd.accesskey "q">
 <!ENTITY size-hugeCmd.label "Meqqer aṭas">
 <!ENTITY size-hugeCmd.accesskey "q">
-<!-- Font Style SubMenu -->
 
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Aɣanib n uḍris">
 <!ENTITY fontStyleMenu.accesskey "n">
 <!ENTITY styleBoldCmd.label "Zur">
@@ -165,8 +163,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "T">
 <!ENTITY paragraphPreformatCmd.label "Amasal uzwir">
 <!ENTITY paragraphPreformatCmd.accesskey "m">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Tabdart">
 <!ENTITY formatlistMenu.accesskey "b">
 <!ENTITY noneCmd.label "Ula yiwen">
@@ -189,8 +187,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Timeẓiliyin leqqayen">
 <!ENTITY advancedPropertiesCmd.accesskey "ẓ">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Reyyec">
 <!ENTITY alignMenu.accesskey "y">
 <!ENTITY alignLeft.label "Azemlaḍ">
@@ -205,8 +203,8 @@
 <!ENTITY alignJustify.label "Reyyec">
 <!ENTITY alignJustify.accesskey "R">
 <!ENTITY alignJustify.tooltip "Reyyec s triglwin">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Tissi">
 <!ENTITY layerSendToBack.tooltip "Err-it ɣer ugilal">
 <!ENTITY layerBringToFront.tooltip "Awi-t-id ɣer zdat">
@@ -220,12 +218,12 @@
 
 <!ENTITY colorsAndBackground.label "Initen d ugilal n usebter…">
 <!ENTITY colorsAndBackground.accesskey "g">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Tafelwit">
 <!ENTITY tableMenu.accesskey "f">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Fren">
 <!ENTITY tableSelectMenu.accesskey "r">
 
@@ -235,8 +233,8 @@
 <!ENTITY tableInsertMenu2.accesskey "G">
 <!ENTITY tableDeleteMenu2.label "Tafelwit Kkes">
 <!ENTITY tableDeleteMenu2.accesskey "K">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Ger">
 <!ENTITY tableInsertMenu.accesskey "G">
 <!ENTITY tableTable.label "Tafelwit">
@@ -269,12 +267,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Kkes">
 <!ENTITY tableDeleteMenu.accesskey "K">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Gzem tabniqt">
@@ -283,8 +281,8 @@
 <!ENTITY convertToTable.accesskey "f">
 <!ENTITY tableProperties.label "Timeẓliyin n tfelwit…">
 <!ENTITY tableProperties.accesskey "e">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Afeggag n wumuɣ">
 <!ENTITY formatToolbar.tooltip "Afeggag n umasal">
 <!ENTITY cutToolbarCmd.tooltip "Gzem">
@@ -308,10 +306,9 @@
 <!ENTITY anchorToolbarCmd.tooltip "Ger tamdeyt tamaynut neɣ ẓreg timeẓliyin n temdeyt yettwafernen">
 <!ENTITY TextColorButton.tooltip "Fren ini i weḍris">
 <!ENTITY BackgroundColorButton.tooltip "Fren ini i ugilal">
-<!ENTITY throbber.tooltip "Ddu ɣer usebter agejdan n &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Fren ini n usebruṛeq n uḍris">
-<!-- Editor toolbar -->
 
+<!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Sbadu teɣzi n tesefsit">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Teɣzi n tsefsit tamezyant">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Teɣzi n tsefsit meqqren">
@@ -328,16 +325,16 @@
 <!ENTITY alignCenterButton.tooltip "Reyyec aḍris ɣer tlemmast">
 <!ENTITY alignRightButton.tooltip "Reyyec aḍris ɣer tama tayeffust">
 <!ENTITY alignJustifyButton.tooltip "Reyyec aḍris gar tama tazelmat akked tama tayeffust">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Fren">
 <!ENTITY structSelect.accesskey     "n">
 <!ENTITY structRemoveTag.label      "Kkes tabzimt">
 <!ENTITY structRemoveTag.accesskey  "K">
 <!ENTITY structChangeTag.label      "Snifel tabzimt">
 <!ENTITY structChangeTag.accesskey  "S">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ger">
 <!ENTITY insertTOC.accesskey      "G">
 <!ENTITY updateTOC.label          "Leqqem">

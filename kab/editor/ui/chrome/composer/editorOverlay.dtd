@@ -75,7 +75,7 @@
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
-<!ENTITY increaseFontSize.label "Meqqṛen">
+<!ENTITY increaseFontSize.label "Muqqeṛ">
 <!ENTITY increaseFontSize.accesskey "q">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
