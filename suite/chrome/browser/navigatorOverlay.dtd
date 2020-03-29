@@ -16,6 +16,12 @@
 <!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
 <!ENTITY closeOtherTabs.accesskey "а">
 
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Закрыть вкладки справа">
+<!ENTITY  closeTabsToTheEnd.accesskey "п">
+
 <!ENTITY uploadFile.label "Выгрузить файл…">
 <!ENTITY uploadFile.accesskey "ф">
 
