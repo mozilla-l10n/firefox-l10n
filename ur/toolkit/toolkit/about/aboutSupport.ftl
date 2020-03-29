@@ -46,6 +46,7 @@ app-basics-service-workers = رجسٹر شدہ خدمت کے کارکنان
 app-basics-profiles = پروفا ئلز
 app-basics-multi-process-support = ملٹی عمل ونڈوں
 app-basics-enterprise-policies = انٹرپرائز کی پالیسیوں
+app-basics-location-service-key-google = Google  محل وقوع خدمت کی کلید
 app-basics-key-mozilla = ٘Mozilla مقام سروس کلی
 app-basics-safe-mode = محفوظ موڈ
 show-dir-label =
@@ -136,6 +137,7 @@ intl-regional-prefs = علاقائی ترجیحات
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-accepting-connections = روابط قبول کرہا  ھے
 remote-debugging-url = URL
 
 ##
