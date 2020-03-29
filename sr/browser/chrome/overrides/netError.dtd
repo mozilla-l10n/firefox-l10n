@@ -154,6 +154,8 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; је открио потенцијалну безбедносну опасност и није наставио на <span class='hostname'/> зато што ова веб страница захтева безбедну везу.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; је открио проблем и није наставио на адресу <span class='hostname'/>. Веб место је лоше подешено или је сат вашег рачунара постављен на погрешно време.">
+<!ENTITY certerror.expiredCert.secondPara2 "Вероватно је сертификат странице истекао, што спречава &brandShortName; да се безбедно повеже. Ако посетите ову страницу, нападачи могу покушати да украду податке као што су лозинке, е-поруке или подаци о кредитној картици.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Вероватно је сертификат странице истекао, што спречава &brandShortName; да се безбедно повеже.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Шта можете учинити поводом тога?">
 
@@ -216,6 +218,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Програм спречава &brandShortName; да се безбедно повеже на ову страницу">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> је највероватније безбедна веб страница, али није могуће успоставити безбедну везу са њом. Овај проблем узрокује програм <span class='mitm-name'/>, који се налази на вашем рачунару или на вашој мрежи.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ако ваш антивирус садржи функцију која скенира шифроване везе (често се назива “web scanning” или “https scanning”), можете онемогућити ту функцију. Ако то не успе, можете да уклоните и поново инсталирате антивирус.">
 
 <!ENTITY clockSkewError.title "Време на вашем рачунару је погрешно">
 <!ENTITY clockSkewError.longDesc "Ваш рачунар мисли да је <span id='wrongSystemTime_systemDate1'/>, што спречава &brandShortName; да се повеже безбедно. Да бисте посетили <span class='hostname'></span>, ажурирајте ваш сат на рачунару у вашим системским подешавањима на тренутан датум, време и временску зону и освежите <span class='hostname'></span>.">
