@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (удалённый доступ к папкам)">
 <!ENTITY pop3Long.label                  "POP3 (хранить почту на вашем компьютере)">
 
+<!ENTITY manualConfigTable.summary       "Параметры сервера">
 <!ENTITY incoming.label                  "Входящая:">
 <!ENTITY incomingColumn.label            "Входящий">
 <!ENTITY outgoing.label                  "Исходящая:">
