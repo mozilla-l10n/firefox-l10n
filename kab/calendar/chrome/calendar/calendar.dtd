@@ -138,7 +138,7 @@
 <!ENTITY calendar.task-details.priority.label        "tazwart">
 <!ENTITY calendar.task-details.priority.low.label    "Meẓẓi">
 <!ENTITY calendar.task-details.priority.normal.label "Amagnu">
-<!ENTITY calendar.task-details.priority.high.label   "Meqqeṛ">
+<!ENTITY calendar.task-details.priority.high.label   "Meqqer">
 <!ENTITY calendar.task-details.status.label          "addad">
 <!ENTITY calendar.task-details.category.label        "taggayt">
 <!ENTITY calendar.task-details.repeat.label          "sniles">
@@ -245,7 +245,7 @@
 <!ENTITY priority.level.low.accesskey       "L">
 <!ENTITY priority.level.normal              "Amagnu">
 <!ENTITY priority.level.normal.accesskey    "M">
-<!ENTITY priority.level.high                "Meqqeṛ">
+<!ENTITY priority.level.high                "Meqqer">
 <!ENTITY priority.level.high.accesskey      "q">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 n usrag">
