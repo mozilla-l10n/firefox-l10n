@@ -23,14 +23,12 @@
 <!ENTITY dnsNotFound.pageTitle "Сервер не знойдзены">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Хм. Ніяк не выходзіць знайсці гэты сайт.">
-<!ENTITY dnsNotFound.longDesc1 "
-<strong>Калі гэты адрас правільны, ёсць яшчэ тры рэчы, якія вы можаце зрабіць:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Калі гэты адрас правільны, ёсць яшчэ тры рэчы, што вы можаце зрабіць:</strong>
 <ul>
   <li>Паспрабаваць ізноў пазней.</li>
   <li>Праверыць ваша сеткавае далучэнне.</li>
   <li>Калі вы падключаны, але за файрволам, праверце, што &brandShortName; дазволены выхад у Сеціва.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY fileNotFound.title "Файл не знойдзены">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Упэўніцеся, што няма ніякай памылкі ў назве файла, такой, як прапушчаная/лішняя літара або вялікая літара замест малой, або інакшай.</li> <li>Упэўніцеся, што файл не быў перайменаваны, выдалены або перамешчаны.</li> </ul>">
