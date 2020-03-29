@@ -17,7 +17,7 @@ process-type-extension = Asiɣzef
 process-type-file = afaylu adigan
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
-process-type-weblargeallocation = Aḥeṛṛi meqqeṛ
+process-type-weblargeallocation = Aḥeṛṛi meqqer
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Agbur web yettwaɛezlen

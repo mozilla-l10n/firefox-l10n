@@ -195,7 +195,7 @@ cfr-doorhanger-socialtracking-description = Aqadeṛ n tudert-ik tabaḍnit yeɛ
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } yessewḥel aneḍfaṛ n udsil umḍin ɣef usebter-a.
 cfr-doorhanger-fingerprinters-description = Aqadeṛ n tbaḍnit-ik teɛna-aɣ. { -brand-short-name } yesseḥal akka tura ineḍfaṛen n udsil umḍin, i d-ileqḍen talɣut tasuft yettwassnen ɣef yibenk-ik akken ad k-yeḍfeṛ.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } yessewḥel akriptuminer ɣef usebter-a.
-cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen meqqṛen. { -brand-short-name } yessewḥal akka tura ikriptumniren i yesseqdacen tazmert n usiḍen n unagraw-ik n wammud akken ad d-kksen tadrimt tumḍint.
+cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen meqqren. { -brand-short-name } yessewḥal akka tura ikriptumniren i yesseqdacen tazmert n usiḍen n unagraw-ik n wammud akken ad d-kksen tadrimt tumḍint.
 
 ## Enhanced Tracking Protection Milestones
 
