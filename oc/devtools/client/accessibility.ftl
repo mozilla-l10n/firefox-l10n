@@ -47,3 +47,7 @@ accessibility-text-label-issue-toolbar = Las barras d’aisinas devon èsser eti
 
 accessibility-keyboard-issue-semantics = Los elements que pòdon aver lo focus devon téner una semantica interactiva. <a>Ne saber mai</a>
 accessibility-keyboard-issue-tabindex = Evitatz d’utilizar un atribut <code>tabindex</code> superior a zèro. <a>Ne saber mai</a>
+accessibility-keyboard-issue-action = Los elements interactius devon poder s’activar en utilizant un clavièr. <a>Ne saber mai</a>
+accessibility-keyboard-issue-focusable = Los elements interactius devon poder obténer lo focus. <a>Ne saber mai</a>
+accessibility-keyboard-issue-focus-visible = Se pòt qu’un element que pòt aver lo focus aja pas un estil ligat al focus. <a>Ne saber mai</a>
+accessibility-keyboard-issue-mouse-only = Los elements clicables devon poder obténer lo focus e téner una semantica interactiva. <a>Ne saber mai</a>
