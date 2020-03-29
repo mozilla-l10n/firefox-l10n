@@ -52,6 +52,8 @@ fingerprinter-tab-title = Detectores de huellas digitales
 fingerprinter-tab-content = Los detectores de huellas digitales (fingerprinters) recopilan la configuración de su navegador y su ordenador para crear un perfil de usted. Usando esta huella digital pueden seguirle a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Saber más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para obtener dinero digital. Los scripts de criptominería agotan la batería de su ordenador, lo ralentizan y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">Saber más</a>
+protections-close-button =
+    .aria-label = Cerrar
 mobile-app-title = Bloquee los rastreadores de anuncios en más dispositivos
 mobile-app-card-content = Use el navegador móvil con protección integrada contra el rastreo de anuncios.
 mobile-app-links = El navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> y <a data-l10n-name="ios-mobile-inline-link">iOS</a>
