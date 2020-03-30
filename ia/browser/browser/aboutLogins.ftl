@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Aperir menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importar contrasignos…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar ab un altere navigator…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Ordinar per:
 login-list-name-option = Nomine (A-Z)
 login-list-name-reverse-option = Nomine (Z-A)
 login-list-breached-option = Sitos web violate
+about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Ultime modification
 login-list-last-used-option = Ultime uso
 login-list-intro-title = Nulle credentiales trovate
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Insere le credentiales de accesso
 login-list-item-subtitle-missing-username = (nulle nomine de usator)
 about-logins-list-item-breach-icon =
     .title = Sito web violate
+about-logins-list-item-vulnerable-password-icon =
+    .title = Contrasigno vulnerabile
 
 ## Introduction screen
 
@@ -160,10 +161,24 @@ confirm-discard-changes-dialog-confirm-button = Abandonar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Violation de sitos web
 breach-alert-text = Le contrasignos de iste sito web ha essite divulgate o robate desde le ultime vice que tu cambiava tu credentiales. Cambia ora tu contrasigno pro proteger tu conto!
 breach-alert-link = Saper plus sur iste violation.
 breach-alert-dismiss =
     .title = Clauder iste alerta
+about-logins-breach-alert-date = Iste violation occurreva le { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ir a { $hostname }
+about-logins-breach-alert-learn-more-link = Saper plus
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Contrasigno vulnerabile
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ir a { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Saper plus
 
 ## Error Messages
 
