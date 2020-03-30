@@ -163,10 +163,12 @@ confirm-discard-changes-dialog-confirm-button = Zaćisnyć
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Datowa dźěra websydła
 breach-alert-text = Hesła su so z tutoho websydła roznjesli abo kradnyli, wot toho, zo sće swoje přizjewjenske daty posledni raz zaktualizował. Změńće swoje hesło, zo byšće swoje konto škitał.
 breach-alert-link = Zhońće wjace wo tutej datowej dźěrje.
 breach-alert-dismiss =
     .title = Tute warnowanje začinić
+about-logins-breach-alert-date = Tuta datowa dźěra je { DATETIME($date, day: "numeric", month: "long", year: "numeric") } nastała
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = K { $hostname }
