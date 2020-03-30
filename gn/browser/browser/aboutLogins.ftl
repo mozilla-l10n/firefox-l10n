@@ -175,6 +175,7 @@ about-logins-breach-alert-learn-more-link = Kuaave
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ñe’ẽñemi ivaikuaáva
+about-logins-vulnerable-alert-text = Ñe’ẽñemi ogua térã oñemonda mba’ekuaarã ñembyai ambue mba’apohaguasúpe. Eipurujeývo terachaukaha emoĩkuaa ñembyai rapépe mba’etekuéra. Emohekorosãve hag̃ua ñandutípe, emoambue ko ñe’ẽñemi.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Eho { $hostname }
