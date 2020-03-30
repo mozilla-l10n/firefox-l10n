@@ -63,6 +63,7 @@ deniedPortAccess-title = អាសយដ្ឋាន​នេះ​ត្រូ�
 fileNotFound-title = រក​មិន​ឃើញ​ឯកសារ
 fileAccessDenied-title = ការ​ចូល​ប្រើប្រាស់​ឯកសារ​ត្រូវបាន​បដិសេធ
 generic-title = អ្ហុះ !
+captivePortal-title = ចូល​បណ្ដាញ
 netInterrupt-title = ការ​តភ្ជាប់​ត្រូវ​បាន​កាត់​ផ្តាច់
 notCached-title = ឯកសារ​បាន​ផុត​កំណត់
 netOffline-title = របៀប​ក្រៅ​បណ្ដាញ
