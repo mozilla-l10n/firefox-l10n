@@ -60,9 +60,16 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = Navar pīsasliegt
 deniedPortAccess-title = Pīkļuve itai adresam ir līgta
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Dīmžāl myusim naizadūd atrast itū lopu.
 fileNotFound-title = Fails nav atrosts
 fileAccessDenied-title = Pīeja failam tyka līgta
 generic-title = Sovaidi gon...
+captivePortal-title = Log in to network
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Likās itei adress nav korekta.
 netInterrupt-title = Savīnuojums tyka puortraukts
 notCached-title = Dokumenta dereiguma termeņš beidzīs
 netOffline-title = Nasaistis režyms
