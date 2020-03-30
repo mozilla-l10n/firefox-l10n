@@ -60,9 +60,16 @@ cert-error-details-cert-chain-label = 憑證鍊:
 
 connectionFailure-title = 連線失敗
 deniedPortAccess-title = 此網址已被限制
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = 呃…找不到這個網站。
 fileNotFound-title = 找不到檔案
 fileAccessDenied-title = 對檔案的存取要求已被拒絕
 generic-title = 噢！
+captivePortal-title = 登入到網路
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = 呃…這個網址好像有錯。
 netInterrupt-title = 資料傳輸中斷
 notCached-title = 文件已過期
 netOffline-title = 離線模式
@@ -77,7 +84,14 @@ redirectLoop-title = 頁面重新導向不正確
 unknownSocketType-title = 伺服器回應錯誤
 nssFailure2-title = 安全連線失敗
 cspBlocked-title = 已依內容安全政策封鎖
+xfoBlocked-title = 因 X-Frame-Options 封鎖
 corruptedContentError-title = 內容毀損錯誤
 remoteXUL-title = 遠端 XUL
 sslv3Used-title = 無法安全地連線
 inadequateSecurityError-title = 您的連線並不安全
+blockedByPolicy-title = 已封鎖頁面
+clockSkewError-title = 您的電腦時間錯誤
+networkProtocolError-title = 網路通訊協定錯誤
+nssBadCert-title = 警告: 本網站可能有安全性風險
+nssBadCert-sts-title = 未連線: 潛在的安全性問題
+certerror-mitm-title = 有軟體造成 { -brand-short-name } 無法與此網站建立安全連線
