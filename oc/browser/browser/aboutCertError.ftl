@@ -66,6 +66,7 @@ netInterrupt-title = La connexion es estada interrompuda
 notCached-title = Lo document a expirat
 contentEncodingError-title = Error d'encodatge de contengut
 unsafeContentType-title = Tipe de fichièr pas segur
+netReset-title = La connexion es estada reïnicializada
 netTimeout-title = Relambi d'espèra passat
 unknownSocketType-title = Responsa inesperada del servidor
 remoteXUL-title = XUL distant
