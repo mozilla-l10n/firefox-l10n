@@ -44,3 +44,13 @@ cert-error-details-hsts-label = Seguranza de transporte estrita HTTP: { $hasHSTS
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadea de certificados:
+
+## Messages used for certificate error titles
+
+deniedPortAccess-title = Este enderezo está restrinxido
+netInterrupt-title = Interrompeuse a conexión
+contentEncodingError-title = Erro de codificación do contido
+unsafeContentType-title = Tipo de ficheiro inseguro
+netReset-title = Reiniciouse a conexión
+netTimeout-title = A conexión esgotou o tempo
+unknownSocketType-title = Resposta inesperada do servidor
