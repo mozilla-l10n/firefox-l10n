@@ -160,10 +160,12 @@ confirm-discard-changes-dialog-confirm-button = 버리기
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = 웹 사이트 유출
 breach-alert-text = 마지막 로그인 정보를 업데이트 한 후 이 웹 사이트에서 비밀번호가 유출되거나 도난당했습니다. 계정을 보호하기 위해 비밀번호를 변경하세요.
 breach-alert-link = 이 유출에 대해 더 알아보기.
 breach-alert-dismiss =
     .title = 이 알림 닫기
+about-logins-breach-alert-date = 이 유출은 { DATETIME($date, day: "numeric", month: "long", year: "numeric") }에 발생함
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname }(으)로 이동
@@ -171,6 +173,12 @@ about-logins-breach-alert-learn-more-link = 더 알아보기
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = 취약한 비밀번호
+about-logins-vulnerable-alert-text = 이 비밀번호는 다른 회사의 데이터 유출로 인해 유출되거나 도난당했습니다. 자격 증명을 재사용하면 사용자의 모든 계정이 위험에 노출됩니다. 온라인 보안을 향상시키려면 이 비밀번호를 변경하세요.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname }(으)로 이동
+about-logins-vulnerable-alert-learn-more-link = 더 알아보기
 
 ## Error Messages
 
