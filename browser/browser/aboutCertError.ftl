@@ -55,3 +55,21 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certifikačná reťaz:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Nedá sa pripojiť
+deniedPortAccess-title = Táto adresa je zakázaná
+fileNotFound-title = Súbor sa nenašiel
+generic-title = Problém.
+netInterrupt-title = Pripojenie bolo prerušené
+netOffline-title = Režim offline
+contentEncodingError-title = Chyba kódovania obsahu
+unsafeContentType-title = Nebezpečný typ obsahu
+netReset-title = Výpadok pripojenia
+netTimeout-title = Čas pripojenia vypršal
+proxyConnectFailure-title = Server proxy odmieta pripojenia
+proxyResolveFailure-title = Server proxy nemožno nájsť
+redirectLoop-title = Stránku sa nepodarilo správne presmerovať
+unknownSocketType-title = Neočakávaná odpoveď servera
+nssFailure2-title = Zabezpečené pripojenie zlyhalo
