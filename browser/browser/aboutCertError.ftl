@@ -60,9 +60,16 @@ cert-error-details-cert-chain-label = Sertifika zinciri:
 
 connectionFailure-title = Bağlanılamadı
 deniedPortAccess-title = Bu adrese erişim kısıtlanmış
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Aradığınız siteyi bulamıyoruz.
 fileNotFound-title = Dosya bulunamadı
 fileAccessDenied-title = Dosyaya erişim reddedildi
 generic-title = Hoppalaaa.
+captivePortal-title = Ağa giriş yap
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Bu adres gözümüze düzgün görünmedi.
 netInterrupt-title = Bağlantı kesildi
 notCached-title = Belge zaman aşımına uğradı
 netOffline-title = Çevrimdışı kip
@@ -75,6 +82,16 @@ proxyConnectFailure-title = Vekil sunucu bağlantı kabul etmiyor
 proxyResolveFailure-title = Vekil sunucu bulunamadı
 redirectLoop-title = Sayfa doğru bir şekilde yönlendirilmiyor
 unknownSocketType-title = Sunucudan beklenmeyen yanıt
+nssFailure2-title = Güvenli bağlantı kurulamadı
+cspBlocked-title = İçerik güvenliği ilkesi uyarınca engellendi
+xfoBlocked-title = X-Frame-Options ilkesi tarafından engellendi
+corruptedContentError-title = Hasarlı içerik hatası
 remoteXUL-title = Uzak XUL
 sslv3Used-title = Güvenli bağlantı kurulamadı
 inadequateSecurityError-title = Bağlantınız güvenli değil
+blockedByPolicy-title = Engellenmiş sayfa
+clockSkewError-title = Bilgisayarınızın saati yanlış
+networkProtocolError-title = Ağ Protokolü Hatası
+nssBadCert-title = Uyarı: Güvenlik riskiyle karşılaşabilirsiniz
+nssBadCert-sts-title = Bağlanılmadı: Olası Güvenlik Sorunu
+certerror-mitm-title = { -brand-short-name } başka bir yazılım nedeniyle bu siteye güvenli bağlantı kuramıyor
