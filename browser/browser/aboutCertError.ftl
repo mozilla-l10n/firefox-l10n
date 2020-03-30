@@ -60,6 +60,7 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 
 connectionFailure-title = No se puede conectar
 deniedPortAccess-title = Esta dirección está restringida
+generic-title = ¡Chin!
 netInterrupt-title = La conexión se interrumpió
 notCached-title = Documento expirado
 netOffline-title = Modo sin conexión
