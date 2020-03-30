@@ -60,6 +60,9 @@ cert-error-details-cert-chain-label = Lanac certifikata:
 
 connectionFailure-title = Povezivanje nije moguće
 deniedPortAccess-title = Port je ograničen radi sigurnosnih razloga
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Ne možemo pronaći tu stranicu.
 fileNotFound-title = Datoteka nije pronađena
 fileAccessDenied-title = Pristup datoteci je odbijen
 generic-title = Ups.
@@ -78,11 +81,14 @@ unknownProtocolFound-title = Nepoznati protokol
 proxyConnectFailure-title = Proxy poslužitelj odbio vezu
 proxyResolveFailure-title = Proxy poslužitelj nije pronađen
 redirectLoop-title = Petlja preusmjeravanja
+unknownSocketType-title = Neočekivani odgovor od poslužitelja
 nssFailure2-title = Neuspjeh otvaranja sigurne veze
 cspBlocked-title = Blokirala sigurnosna politika sadržaja
+xfoBlocked-title = Blokirano po X-Frame-Options pravilima
 corruptedContentError-title = Greška oštećenog sadržaja
 remoteXUL-title = Udaljeni XUL
 sslv3Used-title = Uspostava sigurne veze nije uspjela
+inadequateSecurityError-title = Tvoja veza nije sigurna
 blockedByPolicy-title = Blokirana stranica
 clockSkewError-title = Sat na računalu je pogrešan
 networkProtocolError-title = Greška mrežnog protokola
