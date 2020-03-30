@@ -59,6 +59,7 @@ cert-error-details-cert-chain-label = 证书链：
 ## Messages used for certificate error titles
 
 generic-title = 哎呀。
+netInterrupt-title = 连接中断
 notCached-title = 文档已过期
 netOffline-title = 脱机模式
 contentEncodingError-title = 内容编码错误
@@ -70,3 +71,6 @@ proxyResolveFailure-title = 无法找到代理服务器
 redirectLoop-title = 此页面不能正确地重定向
 unknownSocketType-title = 意外的服务器响应
 remoteXUL-title = 远程 XUL
+inadequateSecurityError-title = 您的连接不安全
+blockedByPolicy-title = 页面已封锁
+certerror-mitm-title = 有软件正在阻止 { -brand-short-name } 安全地连接至此网站
