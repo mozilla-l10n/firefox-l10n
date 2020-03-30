@@ -63,6 +63,7 @@ deniedPortAccess-title = Այս հասցեն արգելափակված է
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Հնարավոր չէ գտնել այդ կայքը:
+fileNotFound-title = Նիշքը չի գտնվել
 fileAccessDenied-title = Մատչումը ֆայլին մերժված է
 generic-title = Վայ։
 captivePortal-title = Մուտք գործել ցանց
@@ -70,6 +71,7 @@ captivePortal-title = Մուտք գործել ցանց
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Կարծես հասցեն ճիշտ չէ:
 netInterrupt-title = Կապը խզվեց
+notCached-title = Փաստաթուղթը սպառվել է
 netOffline-title = Անցանց եղանակ
 contentEncodingError-title = Բովանդակության Կոդավորման Սխալ
 unsafeContentType-title = Ոչ անվտանգ ֆայլի տեսակ
@@ -82,8 +84,14 @@ redirectLoop-title = Էջի սխալ վերահասցեավորում
 unknownSocketType-title = Սպասարկիչի պատասխանը անհասկանալի է:
 nssFailure2-title = Չհաջողվեց կատարել Պաշտպանված կապակցում
 cspBlocked-title = Արգելափակվել է Կոնտենտի Անվտանգության Քաղաքականության կողմից
+xfoBlocked-title = Արգելափակված է X-Frame-Options քաղաքականությամբ
 corruptedContentError-title = Բովանդակությունը վնասված է
 remoteXUL-title = Հեռադիր XUL
 sslv3Used-title = Չհաջողվեց անվտանգ կապակցումը
 inadequateSecurityError-title = Կապակցումն անվտանգ չէ
 blockedByPolicy-title = Արգելափակված էջ
+clockSkewError-title = Ձեր համակարգչի ժամացույցը սխալ է
+networkProtocolError-title = Ցանցի հաղորդակարգի սխալ
+nssBadCert-title = Զգուշացում․ հնարավոր է ապահովության վտանգ
+nssBadCert-sts-title = Չկապակցվեց․ հնարավոր անվտանգության թողարկող
+certerror-mitm-title = Ծրագիրը կանխում է { -brand-short-name } Անվտանգորեն կապվելով այս կայքի հետ։
