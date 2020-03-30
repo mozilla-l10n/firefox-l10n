@@ -5,6 +5,9 @@
 blocklist-window =
     .title = Mae Ychwanegion yn gallu achosi problemau
     .style = width: 45em; height: 30em
+blocklist-accept =
+    .label = Ailgychwyn { -brand-short-name }
+    .accesskey = A
 blocklist-label-summary = Mae { -brand-short-name } wedi canfod fod yr ychwanegion canlynol yn gallu creu ansefydlogrwydd neu broblemau diogelwch:
 blocklist-hard-blocked = Mae'r ychwanegion hyn a thebygrwydd uchel o achosi problemau ac maent wedi eu rhwystro, ond bydd angen ailgychwyn i'w hanalluogi yn llwyr.
 blocklist-more-information =
