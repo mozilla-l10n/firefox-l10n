@@ -66,6 +66,7 @@ dnsNotFound-title = Dianteren. Nus avain difficultads da chattar questa pagina.
 fileNotFound-title = Impussibel da chattar la datoteca
 fileAccessDenied-title = Refusà l'access a la datoteca
 generic-title = Oh Dieu!
+captivePortal-title = S'annunziar tar la rait
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Questa adressa na para betg correcta.
@@ -84,6 +85,10 @@ unknownSocketType-title = Resposta nuncorrecta
 nssFailure2-title = La connexiun segira n'è betg reussida
 cspBlocked-title = Bloccà da las directivas per la segirezza dal cuntegn
 xfoBlocked-title = Bloccà dad ina directiva X-Frame-Options
+corruptedContentError-title = Errur da cuntegn donnegià
 remoteXUL-title = Remote-XUL
 sslv3Used-title = Impussibel da connectar a moda segira
+inadequateSecurityError-title = Tia connexiun n'è betg segirada
+blockedByPolicy-title = Pagina bloccada
 networkProtocolError-title = Errur dal protocol da rait
+nssBadCert-title = Attenziun: Eventual ristg per la segirezza en vista
