@@ -58,9 +58,18 @@ cert-error-details-cert-chain-label = Sertifikatkjede:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Klarte ikkje å kople til
+deniedPortAccess-title = Tilgang til denne adressa er avgrensa
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Vi har problem med å finne nettstaden.
 fileNotFound-title = Fann ikkje fila
 fileAccessDenied-title = Tilgang til fila vart nekta
+generic-title = Ops.
 captivePortal-title = Logg inn på nettverket
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Denne adressa ser ikkje rett ut.
 netInterrupt-title = Tilkoplinga vart broten
 notCached-title = Dokumentet er utgått på dato
 netOffline-title = Fråkopla modus
@@ -69,8 +78,15 @@ unsafeContentType-title = Utrygg filtype
 netReset-title = Tilkoplinga vart broten
 netTimeout-title = Tilkoplinga fekk tidsavbrot
 unknownProtocolFound-title = Klarte ikkje å forstå adressa
+proxyConnectFailure-title = Proxyserveren godtek ikkje tilkoplingar
+proxyResolveFailure-title = Klarte ikkje å finne proxyserveren
 redirectLoop-title = Nettsida vidaresender ikkje skikkeleg
 unknownSocketType-title = Uventa svar frå tenar
 nssFailure2-title = Trygt samband feila
 cspBlocked-title = Blokkert av tryggingspraksis for innhald
+corruptedContentError-title = Øydelagt innhald
 remoteXUL-title = Ekstern-XUL
+sslv3Used-title = Klarte ikkje å kople til trygt
+blockedByPolicy-title = Blokkert side
+clockSkewError-title = Klokka på datamaskina di er feil
+nssBadCert-title = Åtvaring: Potensiell sikkerheitsrisiko forut
