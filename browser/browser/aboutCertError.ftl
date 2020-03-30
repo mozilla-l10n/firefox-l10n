@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Certifikatkedja:
 
 connectionFailure-title = Anslutningen misslyckades
 deniedPortAccess-title = Adressen har säkerhetsrestriktioner
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Vi har problem med att hitta den webbplatsen.
 fileNotFound-title = Filen kan inte hittas
 fileAccessDenied-title = Åtkomst till filen nekades
 generic-title = Hoppsan.
 captivePortal-title = Logga in till nätverk
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Den adressen ser inte rätt ut.
 netInterrupt-title = Anslutningen avbröts
 notCached-title = Utgånget dokument
 netOffline-title = Nedkopplat läge
@@ -78,7 +84,12 @@ redirectLoop-title = Sidan dirigeras om felaktigt
 unknownSocketType-title = Oväntat svar från servern
 nssFailure2-title = Säker anslutning misslyckades
 cspBlocked-title = Blockerad av säkerhetspolicyn för innehåll
+xfoBlocked-title = Blockerad av X-Frame-Options policy
 corruptedContentError-title = Skadat innehåll
 remoteXUL-title = Extern XUL
 sslv3Used-title = Kan inte ansluta säkert
 inadequateSecurityError-title = Din anslutning är inte säker
+blockedByPolicy-title = Blockerad sida
+clockSkewError-title = Din dators klocka går fel
+networkProtocolError-title = Nätverksprotokollfel
+certerror-mitm-title = Programvaran hindrar { -brand-short-name } från säker anslutning till den här webbplatsen
