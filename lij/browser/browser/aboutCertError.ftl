@@ -27,3 +27,20 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Key Pinning HTTP pubrico: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadenna de certificati:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = No riescio a conetime
+deniedPortAccess-title = L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa
+netInterrupt-title = Trasferimento di dæti scancellou
+notCached-title = Documento scheito
+netOffline-title = Mòddo feua linia
+contentEncodingError-title = Erô de còdifica do contegnuo
+netReset-title = Conescion Scancelâ
+netTimeout-title = A ræ a no risponde
+proxyConnectFailure-title = O proxy o refua a conescion
+proxyResolveFailure-title = No treuvo o proxy
+redirectLoop-title = A pagina a no redireçionn-a ben
+unknownSocketType-title = Risposta sbaliâ da-o server
+nssFailure2-title = Conescion segua no riescia
+remoteXUL-title = XUL Remòtto
