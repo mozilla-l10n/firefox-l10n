@@ -65,3 +65,4 @@ netInterrupt-title = Η σύνδεση διακόπηκε
 proxyConnectFailure-title = Ο διαμεσολαβητής αρνείται συνδέσεις
 redirectLoop-title = Η σελίδα δεν ανακατευθύνει σωστά
 unknownSocketType-title = Απρόσμενη απάντηση από τον εξυπηρετητή
+remoteXUL-title = Απομακρυσμένο XUL
