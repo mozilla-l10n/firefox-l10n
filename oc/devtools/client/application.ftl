@@ -63,6 +63,9 @@ serviceworker-empty-suggestions = Se la pagina actuala deu conténer un service 
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Recercar las error dins la consòla. <a>Dobrir la consòla</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Percórrer lo registre de las inscripcions service workers a la recèrca d’excepcions. <a>Dobrir lo deugador</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest d’aplicacion
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
