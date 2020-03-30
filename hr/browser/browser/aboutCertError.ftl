@@ -64,6 +64,9 @@ fileNotFound-title = Datoteka nije pronađena
 fileAccessDenied-title = Pristup datoteci je odbijen
 generic-title = Ups.
 captivePortal-title = Prijava na mrežu
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Ta adresa ne izgleda dobro.
 netInterrupt-title = Podatkovni prijenos je prekinut
 notCached-title = Dokument je istekao
 netOffline-title = Izvanmrežni rad
@@ -80,3 +83,5 @@ cspBlocked-title = Blokirala sigurnosna politika sadržaja
 corruptedContentError-title = Greška oštećenog sadržaja
 remoteXUL-title = Udaljeni XUL
 sslv3Used-title = Uspostava sigurne veze nije uspjela
+blockedByPolicy-title = Blokirana stranica
+clockSkewError-title = Sat na računalu je pogrešan
