@@ -6,9 +6,21 @@ blocklist-window =
     .title = Doplňky způsobující problémy
     .style = width: 45em; height: 30em
 blocklist-accept =
-    .label = Restartovat aplikaci { -brand-short-name }
+    .label =
+        Restartovat { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] aplikaci { -brand-short-name }
+        }
     .accesskey = R
-blocklist-label-summary = Aplikace { -brand-short-name } zjistila, že následující doplňky způsobují bezpečnostní nebo výkonové problémy:
+blocklist-label-summary =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } zjistil
+        [feminine] { -brand-short-name } zjistila
+        [neuter] { -brand-short-name } zjistilo
+       *[other] Aplikace { -brand-short-name } zjistila
+    }, že následující doplňky způsobují bezpečnostní nebo výkonnostní problémy:
 blocklist-soft-and-hard = Z důvodů vaší ochrany byly více nebezpečné doplňky označeny jako zakázané. Zbylé doplňky jsou sice méně nebezpečné, přesto je doporučováno je zakázat a aplikaci restartovat.
 blocklist-hard-blocked = Z důvodů vaší ochrany byly tyto nebezpečné doplňky označeny jako zakázané. Pro jejich kompletní zákaz je vyžadován restart aplikace.
 blocklist-soft-blocked = Z důvodů vaší ochrany je doporučováno tyto doplňky zakázat a aplikaci restartovat.
