@@ -175,6 +175,7 @@ about-logins-breach-alert-learn-more-link = Saper plus
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contrasigno vulnerabile
+about-logins-vulnerable-alert-text = Iste contrasigno ha essite divulgate o robate In un violation de datos de un altere interprisa. La reutilisation del informationes de identification mitte in periculo tote tu contos. Pro garantir tu securitate online, cambia tu contrasigno.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ir a { $hostname }
