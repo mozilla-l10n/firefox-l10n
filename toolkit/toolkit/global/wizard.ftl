@@ -5,6 +5,9 @@
 wizard-macos-button-back =
     .label = Ir atrás
     .accesskey = I
+wizard-linux-button-back =
+    .label = Atrás
+    .accesskey = t
 wizard-win-button-back =
     .label = < Atrás
     .accesskey = A
