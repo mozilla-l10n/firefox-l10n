@@ -62,6 +62,7 @@ deniedPortAccess-title = Bu adrese erişim kısıtlanmış
 fileNotFound-title = Dosya bulunamadı
 generic-title = Hoppalaaa.
 netInterrupt-title = Bağlantı kesildi
+notCached-title = Belge zaman aşımına uğradı
 contentEncodingError-title = İçerik kodlama hatası
 unsafeContentType-title = Güvensiz dosya türü
 netReset-title = Bağlantı sıfırlandı
