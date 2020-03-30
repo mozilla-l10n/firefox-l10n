@@ -64,6 +64,7 @@ fileNotFound-title = Ulac afaylu
 fileAccessDenied-title = Anekcum ɣer ufaylu yegdel
 generic-title = Ihuh.
 captivePortal-title = Kcem ɣer uẓeṭṭa
+netInterrupt-title = Tuqqna teḥbes
 notCached-title = Isemli yemmut
 netOffline-title = Askar war tuqqna
 contentEncodingError-title = Tuccḍa n usettengel n ugbur
