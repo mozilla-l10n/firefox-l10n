@@ -62,5 +62,7 @@ deniedPortAccess-title = Endereço restrito
 fileNotFound-title = Arquivo não encontrado
 contentEncodingError-title = Erro na codificação do conteúdo
 unsafeContentType-title = Tipo de arquivo inseguro
+unknownProtocolFound-title = Endereço não compreendido
 redirectLoop-title = Redirecionamento incorreto
 nssFailure2-title = Falha na conexão segura
+remoteXUL-title = XUL remoto
