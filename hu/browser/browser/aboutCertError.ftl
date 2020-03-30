@@ -84,6 +84,7 @@ redirectLoop-title = Az oldal nem megfelelően van átirányítva
 unknownSocketType-title = Váratlan válasz a kiszolgálótól
 nssFailure2-title = A biztonságos kapcsolat sikertelen
 cspBlocked-title = Blokkolva a tartalombiztonsági házirend szerint
+xfoBlocked-title = Blokkolva az X-Frame-Options házirend alapján
 corruptedContentError-title = Sérült tartalom hiba
 remoteXUL-title = Távoli XUL
 sslv3Used-title = Nem lehet biztonságosan kapcsolódni
