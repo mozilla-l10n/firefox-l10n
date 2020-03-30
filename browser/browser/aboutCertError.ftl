@@ -58,12 +58,22 @@ cert-error-details-cert-chain-label = Sertifikatkjede:
 
 ## Messages used for certificate error titles
 
+deniedPortAccess-title = Tilgang til denne adressen er begrenset
 fileNotFound-title = Fil ikke funnet
 generic-title = Oops.
 netInterrupt-title = Tilkoblingen ble avbrutt
+notCached-title = Dokumentet er utgått på dato
 netOffline-title = Frakoblet modus
 contentEncodingError-title = Feil med tegnkoding
 unsafeContentType-title = Utrygg filtype
 netReset-title = Tilkoblingen ble avbrutt
 netTimeout-title = Tilkoblingen fikk tidsavbrudd
+unknownProtocolFound-title = Klarte ikke forstå adressen
+proxyConnectFailure-title = Proxy godtar ikke tilkoblinger
+proxyResolveFailure-title = Klarte ikke finne proxy
 redirectLoop-title = Nettsiden videresender ikke ordentlig
+unknownSocketType-title = Uventet svar fra server
+nssFailure2-title = Sikker tilkobling mislyktes
+cspBlocked-title = Blokkert av sikkerhetspolicy
+remoteXUL-title = Ekstern XUL
+sslv3Used-title = Klarte ikke å koble til sikkert
