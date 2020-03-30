@@ -65,6 +65,10 @@ cert-error-details-cert-chain-label = Řetězec certifikátů:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Chyba spojení
+deniedPortAccess-title = Omezení přístupu k adrese
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm, tuto stránku se nám nedaří najít.
 fileNotFound-title = Soubor nenalezen
 fileAccessDenied-title = Přístup k souboru byl odepřen
 generic-title = Nepodařilo se dokončit požadavek
@@ -82,6 +86,10 @@ redirectLoop-title = Smyčka při přesměrování
 unknownSocketType-title = Neplatná odpověď serveru
 nssFailure2-title = Chyba zabezpečeného spojení
 cspBlocked-title = Zablokováno dle bezpečnostních pravidel obsahu
+xfoBlocked-title = Blokováno pravidlem X-Frame-Options
 corruptedContentError-title = Chyba v obsahu stránky
 remoteXUL-title = Vzdálené XUL
 inadequateSecurityError-title = Vaše připojení není zabezpečené
+blockedByPolicy-title = Zablokovaná stránka
+networkProtocolError-title = Chyba síťového protokolu
+nssBadCert-sts-title = Nepřipojeno: Možný bezpečnostní problém
