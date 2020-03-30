@@ -25,3 +25,30 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Calol Seedamfaagu:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Horiima seŋaade
+deniedPortAccess-title = Ndee ñiiɓirde ko suraande
+fileNotFound-title = Fiilde yiytaaka
+fileAccessDenied-title = Ballagol fiilde salaama
+generic-title = Ndo.
+captivePortal-title = Seŋo e laylaytol hee
+netInterrupt-title = Ceŋagol ngol taƴii
+notCached-title = Fiilannde Hiiɗtii
+netOffline-title = Mbaydi ceŋtol
+contentEncodingError-title = Juumre Dokkitannde Loowdi
+unsafeContentType-title = Ndee Fiilde Toolnaaki
+netReset-title = Ceŋagol ngol fuɗɗitaama
+netTimeout-title = Ceŋagol ngol honaama waktu
+unknownProtocolFound-title = Ñiiɓirde ndee faamaaka
+proxyConnectFailure-title = Sarworde proxy ndee saliima ceŋanɗe
+proxyResolveFailure-title = Horiima yiytude sarworde proxy ndee
+redirectLoop-title = Ngoo hello wonaani e yiiltude no feewiri
+unknownSocketType-title = Jaatol sarworde faamaaka
+nssFailure2-title = Ceŋagol Kisnangol Woorii
+cspBlocked-title = Dawirgol Kisnal Loowdi daaƴii ɗum
+corruptedContentError-title = Juumre Loowdi Jiibndi
+remoteXUL-title = XUL Poottiiɗo
+sslv3Used-title = Horiima Seŋaade e Kisal
+inadequateSecurityError-title = Ceŋagol maa hisaani
