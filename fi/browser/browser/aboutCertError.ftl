@@ -55,3 +55,19 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
+
+## Messages used for certificate error titles
+
+deniedPortAccess-title = Osoitteen käyttö on rajoitettu
+fileNotFound-title = Tiedostoa ei löytynyt
+generic-title = Verkkopyyntöä ei kyetä toteuttamaan
+netInterrupt-title = Tiedonsiirto keskeytyi
+netOffline-title = Yhteydettömässä tilassa
+contentEncodingError-title = Sisällön koodausvirhe
+netReset-title = Yhteys keskeytyi
+netTimeout-title = Yhteyden aikakatkaisu
+proxyConnectFailure-title = Välityspalvelin kieltäytyy yhteydestä
+proxyResolveFailure-title = Välityspalvelinta ei löytynyt
+redirectLoop-title = Sivusto ei uudelleenohjaudu asianmukaisesti
+unknownSocketType-title = Odottamaton vastaus palvelimelta
+nssFailure2-title = Suojatun yhteyden muodostaminen epäonnistui
