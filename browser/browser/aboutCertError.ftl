@@ -55,3 +55,20 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificaatketen:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Kan geen verbinding maken
+deniedPortAccess-title = Dit adres heeft beperkte toegang
+fileNotFound-title = Bestand niet gevonden
+netInterrupt-title = De verbinding werd onderbroken
+netOffline-title = Offlinemodus
+contentEncodingError-title = Inhoudcoderingsfout
+unsafeContentType-title = Onveilig bestandstype
+netReset-title = De verbinding werd geherinitialiseerd
+netTimeout-title = De wachttijd voor de verbinding is verstreken
+proxyConnectFailure-title = De proxyserver weigert verbindingen
+proxyResolveFailure-title = Kan de proxyserver niet vinden
+redirectLoop-title = De pagina verwijst niet op een juiste manier door
+unknownSocketType-title = Onverwacht antwoord van server
+nssFailure2-title = Beveiligde verbinding mislukt
