@@ -100,4 +100,10 @@ clockSkewError-title = Hodiny ve vašem počítači jsou špatně nastavené
 networkProtocolError-title = Chyba síťového protokolu
 nssBadCert-title = Varování: možné bezpečnostní riziko
 nssBadCert-sts-title = Nepřipojeno: Možný bezpečnostní problém
-certerror-mitm-title = Software brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení s témto webem
+certerror-mitm-title =
+    Software brání { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "dat") }
+        [feminine] { -brand-short-name(case: "dat") }
+        [neuter] { -brand-short-name(case: "dat") }
+       *[other] aplikaci { -brand-short-name }
+    } v navázání zabezpečeného spojení s tímto webem
