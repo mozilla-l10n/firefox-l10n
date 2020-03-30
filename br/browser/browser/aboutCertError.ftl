@@ -55,3 +55,21 @@ cert-error-details-hsts-label = Diogelroez treuzdougen HTTP strizh: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Speurennadur alc'hwez foran HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Chadenn testeni:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = N'haller ket kennaskañ
+deniedPortAccess-title = Dindan strishadurioù emañ ar porzh-mañ
+fileNotFound-title = Restr dianav
+generic-title = N'haller ket echuiñ an azgoulenn-mañ.
+netInterrupt-title = Harzet eo bet treuzkas ar roadennoù
+notCached-title = Diamzeret eo an teul
+netOffline-title = Mod ezlinenn
+contentEncodingError-title = Fazi enrinegañ an endalc'had
+unsafeContentType-title = Rizh restr arvarus
+netReset-title = Ehanet eo bet ar c'hennaskañ
+netTimeout-title = Troc'het eo bet ar c'hennask rak re hir e oa
+proxyConnectFailure-title = Dafariad ar proksi zo o nac'hañ ar c'hennaskañ
+proxyResolveFailure-title = N'eo ket bet kavet an dafariad proksi
+unknownSocketType-title = Respont direizh
+remoteXUL-title = XUL a-bell
