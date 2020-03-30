@@ -63,6 +63,10 @@ deniedPortAccess-title = Este endereço é restrito
 fileNotFound-title = Ficheiro não encontrado
 fileAccessDenied-title = O acesso ao ficheiro foi negado
 generic-title = Oops.
+captivePortal-title = Iniciar sessão na rede
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Esse endereço não parece bem.
 netInterrupt-title = A ligação foi interrompida
 notCached-title = Documento expirado
 netOffline-title = Modo offline
@@ -81,3 +85,8 @@ corruptedContentError-title = Conteúdo corrompido
 remoteXUL-title = XUL remoto
 sslv3Used-title = Não é possível ligar com segurança
 inadequateSecurityError-title = A sua ligação não é segura
+blockedByPolicy-title = Página bloqueada
+clockSkewError-title = O relógio do seu computador está errado
+networkProtocolError-title = Erro de protocolo de rede
+nssBadCert-title = Aviso: Potencial risco de segurança à frente
+certerror-mitm-title = Software está a impedir o { -brand-short-name } de se ligar em segurança a este site
