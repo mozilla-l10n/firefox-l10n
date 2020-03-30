@@ -64,6 +64,9 @@ fileNotFound-title = Ulac afaylu
 fileAccessDenied-title = Anekcum ɣer ufaylu yegdel
 generic-title = Ihuh.
 captivePortal-title = Kcem ɣer uẓeṭṭa
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Tansa-agi ur tsseḥa ara.
 netInterrupt-title = Tuqqna teḥbes
 notCached-title = Isemli yemmut
 netOffline-title = Askar war tuqqna
@@ -80,3 +83,4 @@ cspBlocked-title = Tesweḥlit tsertit n tɣellist n ugbur
 remoteXUL-title = XUL anmeggag
 sslv3Used-title = Ur yezmir ara ad yeqqen s tɣellist
 inadequateSecurityError-title = Tuqqna-inek d taraɣelsant
+blockedByPolicy-title = Asebter iwḥel
