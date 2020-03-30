@@ -18,3 +18,17 @@ cert-error-details-hsts-label = HTTP ಸ್ಟ್ರಿಕ್ಟ್ ಟ್ರಾ
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP ಸಾರ್ವಜನಿಕ ಕೀಲಿ ಪಿನ್ನಿಂಗ್: { $hasHPKP }
 cert-error-details-cert-chain-label = ಪ್ರಮಾಣಪತ್ರದ ಕೊಂಡಿ:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ
+deniedPortAccess-title = ಈ ವಿಳಾಸವು ಪ್ರತಿಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ
+fileNotFound-title = ಕಡತವು  ಕಂಡುಬಂದಿಲ್ಲ
+generic-title = ಓಹ್.
+netInterrupt-title = ಸಂಪರ್ಕಕ್ಕೆ ಅಡಚಣೆಯಾಗಿದೆ
+netOffline-title = ಆಫ್‍ಲೈನ್‍ ಕ್ರಮ
+netReset-title = ಸಂಪರ್ಕವು ಮರಳಿ ಹೊಂದಿಸಲ್ಪಟ್ಟಿತು
+netTimeout-title = ಸಂಪರ್ಕದ ಕಾಲಾವಧಿ ಮುಗಿದಿದೆ
+proxyConnectFailure-title = ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವು ಸಂಪರ್ಕವನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ
+proxyResolveFailure-title = ಪ್ರಾಕ್ಸಿ ಪರಿಚಾರಕವನ್ನು ಪತ್ತೆಮಾಡಲಾಗಿಲ್ಲ
+unknownSocketType-title = ಪರಿಚಾರಕದಿಂದ ಅನಿರೀಕ್ಷಿತ ಪ್ರತಿಕ್ರಿಯೆ
