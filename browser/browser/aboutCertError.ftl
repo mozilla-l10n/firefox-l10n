@@ -11,3 +11,23 @@ cert-error-trust-signature-algorithm-disabled = Certifikat je niedowierzóny, b�
 cert-error-trust-expired-issuer = Certifikat je niedowierzóny bò wôżnota wëdôwôcza certifikatu sã skùńcza.
 cert-error-trust-self-signed = Certifikat je niedowierzóny bò je pòdpisóny przez se samégò.
 cert-error-untrusted-default = Certifikat je z niedowierzonégò zdroju.
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Nie dało sã sparłãczec
+deniedPortAccess-title = Pòrt je zastrzeżóny z przëczënë bezpiekù
+fileNotFound-title = Nie jidze nalezc lopka
+generic-title = Ni mòże skùńczëc żądaniô
+netInterrupt-title = Òprzestóné sélanié pòdôwków
+notCached-title = Dokùment ju je wëgasłi
+netOffline-title = Trib offline
+contentEncodingError-title = Fela kòdowaniô zamkłoscë
+unsafeContentType-title = Niebezpieczny ôrt lopka
+netReset-title = Òprzestóné sparłączenié
+netTimeout-title = Czas sparłãczenia skùńcził sã
+proxyConnectFailure-title = Serwer proxy pòcysnął sparłãczenié
+proxyResolveFailure-title = Nie jidze nalezc serwera proxy
+redirectLoop-title = Òpãtlo przeczérowaniów
+unknownSocketType-title = Lëchô òdpòwiesc serwera
+nssFailure2-title = Felënk bezpiecznégò sparłãczeniô
+remoteXUL-title = Zdalné XUL
