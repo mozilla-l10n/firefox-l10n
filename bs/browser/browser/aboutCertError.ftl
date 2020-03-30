@@ -26,10 +26,16 @@ cert-error-details-cert-chain-label = Lanac certifikata:
 
 connectionFailure-title = Neuspješno povezivanje
 deniedPortAccess-title = Pristup adresi je ograničen
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Imamo problema s pronalaženjem stranice.
 fileNotFound-title = Fajl nije pronađen
 fileAccessDenied-title = Pristup fajlu je odbijen
 generic-title = Ups.
 captivePortal-title = Prijavi se na mrežu
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Ova adresa ne izgleda dobro.
 netInterrupt-title = Veza je prekinuta
 notCached-title = Dokument je nestao
 netOffline-title = Offline režim
