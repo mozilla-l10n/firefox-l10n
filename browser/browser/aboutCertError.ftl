@@ -59,9 +59,11 @@ cert-error-details-cert-chain-label = Lanț de certificate:
 ## Messages used for certificate error titles
 
 netInterrupt-title = Conexiunea a fost întreruptă
+notCached-title = Document expirat
 contentEncodingError-title = Eroare în codarea conținutului
 unsafeContentType-title = Tip de fișier nesigur
 netReset-title = Conexiunea a fost reinițializată
 proxyConnectFailure-title = Serverul proxy refuză conexiuni
 proxyResolveFailure-title = Nu se poate găsi serverul proxy
 unknownSocketType-title = Răspuns neașteptat de la server
+remoteXUL-title = XUL la distanță
