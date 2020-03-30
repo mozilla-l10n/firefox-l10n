@@ -55,3 +55,19 @@ cert-error-details-hsts-label = HTTP سخت ٹرانسپورٹ سلامتی: { $
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP عوامی کلید پننگ: { $hasHPKP }
 cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = جڑنے میں ناکامیاب
+deniedPortAccess-title = یہ پتہ رسٹرکٹڈ ہے
+fileNotFound-title = مسل نہیں ملی
+generic-title = اف
+netInterrupt-title = کنکشن خراب ہو گیا
+notCached-title = دستاویز زائدالمدت
+netOffline-title = آف لائن موڈ
+contentEncodingError-title = مواد انکوڈنگ نقص
+netReset-title = کنکشن ریسٹ ہو گیا
+netTimeout-title = کنکشن ٹائم آوٹ ہو گیا ہے
+proxyConnectFailure-title = پراکسی پیش کار کنکشن واپس کر رہا ہے
+proxyResolveFailure-title = پراکسی پیش کار ڈھونڈیں میں ناکام
+remoteXUL-title = بعید XUL
