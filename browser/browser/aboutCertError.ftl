@@ -55,3 +55,19 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = 憑證鍊:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = 連線失敗
+deniedPortAccess-title = 此網址已被限制
+fileNotFound-title = 找不到檔案
+netInterrupt-title = 資料傳輸中斷
+netOffline-title = 離線模式
+contentEncodingError-title = 內容編碼錯誤
+unsafeContentType-title = 不安全的檔案格式
+netReset-title = 連線被重設
+netTimeout-title = 連線已逾時
+proxyConnectFailure-title = Proxy 伺服器拒絕連線
+proxyResolveFailure-title = 找不到 Proxy 伺服器
+unknownSocketType-title = 伺服器回應錯誤
+nssFailure2-title = 安全連線失敗
