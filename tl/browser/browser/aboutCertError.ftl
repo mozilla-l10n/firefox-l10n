@@ -60,9 +60,15 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = Hindi makakonekta
 deniedPortAccess-title = Ang address na ito ay pinagbabawalan
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Nagkakaproblema kami sa paghahanap ng site na iyon.
 fileNotFound-title = Hindi makita ang file
 generic-title = Oops.
 captivePortal-title = Mag log in sa network
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Ang address na iyon ay hindi tama.
 netInterrupt-title = Nasagabal ang koneksyon
 notCached-title = Ang Dokumentong ito ay Expired
 netOffline-title = Naka-Offline
@@ -78,3 +84,4 @@ unknownSocketType-title = Hindi inaasahang tugon mula sa server
 corruptedContentError-title = Corrupted Content Error
 remoteXUL-title = Remote XUL
 inadequateSecurityError-title = Ang iyong koneksyon ay hindi ligtas
+blockedByPolicy-title = Naka-block na Pahina
