@@ -55,3 +55,15 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikaatketen:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Kin gjin ferbining meitsje
+deniedPortAccess-title = Dit adres hat in beheinde tagong
+fileNotFound-title = Bestân net fûn
+generic-title = Oei.
+netInterrupt-title = De ferbining waard ferbrutsen
+unsafeContentType-title = Unfeilich bestânstype
+netTimeout-title = De wachttiid foar de ferbining is ferstrutsen
+redirectLoop-title = De side ferwiist net op in krekte wize troch
+nssFailure2-title = Befeilige ferbining mislearre
