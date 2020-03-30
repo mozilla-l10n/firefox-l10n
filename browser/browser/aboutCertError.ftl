@@ -55,3 +55,20 @@ cert-error-details-hsts-label = សុវត្ថិភាព​ដឹកជញ
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = ការ​ខ្ទាស់​កូន​សោ​សាធារណៈ HTTP៖ { $hasHPKP }
 cert-error-details-cert-chain-label = ច្រវាក់​​វិញ្ញាបនបត្រ៖
+
+## Messages used for certificate error titles
+
+connectionFailure-title = មិន​អាច​តភ្ជាប់
+deniedPortAccess-title = អាសយដ្ឋាន​នេះ​ត្រូវ​បាន​ដាក់កម្រិត
+fileNotFound-title = រក​មិន​ឃើញ​ឯកសារ
+netInterrupt-title = ការ​តភ្ជាប់​ត្រូវ​បាន​កាត់​ផ្តាច់
+notCached-title = ឯកសារ​បាន​ផុត​កំណត់
+netOffline-title = របៀប​ក្រៅ​បណ្ដាញ
+contentEncodingError-title = កំហុស​ក្នុង​ការ​អ៊ិនកូដ​មាតិកា
+unsafeContentType-title = ប្រភេទ​ឯកសារ​គ្មាន​សុវត្ថិភាព
+netReset-title = ការ​តភ្ជាប់​ត្រូវ​បាន​កំណត់​ឡើង​វិញ
+netTimeout-title = អស់​ពេល​ក្នុង​ការ​តភ្ជាប់
+proxyConnectFailure-title = ម៉ាស៊ីន​បម្រើ​ប្រូកស៊ី​កំពុងតែ​បដិសេធ​ការ​តភ្ជាប់
+proxyResolveFailure-title = មិន​អាច​រក​ឃើញ​ម៉ាស៊ីន​បម្រើ​ប្រូកស៊ី​
+unknownSocketType-title = ចម្លើយតប​ពី​ម៉ាស៊ីន​បម្រើ​ដែល​មិន​បាន​រំពឹងទុក
+remoteXUL-title = XUL ពី​ចម្ងាយ
