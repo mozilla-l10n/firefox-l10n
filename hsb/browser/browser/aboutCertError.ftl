@@ -60,21 +60,38 @@ cert-error-details-cert-chain-label = Certifikatowy rjećaz:
 
 connectionFailure-title = Zwisk móžny njeje
 deniedPortAccess-title = Tuta adresa je wobmjezowana
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hm. Mamy problemy, te sydło namakać.
+fileNotFound-title = Dataja njeje so namakała
 fileAccessDenied-title = Přistup na dataju je so wotpokazał
 generic-title = Hopla.
 captivePortal-title = So pola syće přizjewić
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hm. Zda so, zo tuta adresa korektna njeje.
+netInterrupt-title = Zwisk je so přetorhnył
 notCached-title = Dokument je njepłaćiwy
 netOffline-title = Offline-modus
 contentEncodingError-title = Zmylk při kodowanju wobsaha
 unsafeContentType-title = Njewěsty datajowy typ
+netReset-title = Zwisk je so wróćo stajił
 netTimeout-title = Zwisk je čas překročił
+unknownProtocolFound-title = Adresa njeje so zrozumiła
 proxyConnectFailure-title = Proksy-serwer zwiski wotpokazuje
 proxyResolveFailure-title = Njeje móžno, proksy-serwer namakać
 redirectLoop-title = Strona njesprawje posrědkuje
 unknownSocketType-title = Njewočakowana wotmołwa ze serwera
 nssFailure2-title = Wěsty zwisk móžny njeje
 cspBlocked-title = Přez wěstotne prawidła za wobsah zablokowany
+xfoBlocked-title = Přez prawidła X-Frame-Options zablokowane
 corruptedContentError-title = Zmylk - wobškodźeny wobsah
 remoteXUL-title = Zdaleny XUL
 sslv3Used-title = Wěsty zwisk móžny njeje
 inadequateSecurityError-title = Waš zwisk wěsty njeje
+blockedByPolicy-title = Zablokowana strona
+clockSkewError-title = Waš ličakowy časnik wopak dźe
+networkProtocolError-title = Zmylk syćoweho protokola
+nssBadCert-title = Warnowanje: Potencielne wěstotne riziko prědku
+nssBadCert-sts-title = Njeje so zwjazało: Potencielny wěstotny problem
+certerror-mitm-title = Software { -brand-short-name } při wěstym zwjazowanju z tutym sydłom haći
