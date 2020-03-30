@@ -8,3 +8,7 @@ blocklist-window =
 blocklist-label-summary = { -brand-short-name } এ দৃঢ় কৰিছে যে এই এড-অ'নে স্থিৰতা বা সুৰক্ষাৰৰ সমস্যাৰ কাৰণ হয়:
 blocklist-more-information =
     .value = অধিক তথ্য
+blocklist-blocked =
+    .label = প্ৰতিৰোধিত
+blocklist-checkbox =
+    .label = অসামৰ্থবান কৰক
