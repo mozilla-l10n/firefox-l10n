@@ -55,3 +55,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security : { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning : { $hasHPKP }
 cert-error-details-cert-chain-label = Chaîne de certificat :
+
+## Messages used for certificate error titles
+
+connectionFailure-title = La connexion a échoué
+deniedPortAccess-title = Cette adresse est interdite
+fileNotFound-title = Fichier introuvable
+unsafeContentType-title = Type de fichier non sûr
+unknownSocketType-title = Réponse inattendue du serveur
+nssFailure2-title = Échec de la connexion sécurisée
