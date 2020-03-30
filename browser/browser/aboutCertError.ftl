@@ -19,6 +19,7 @@ deniedPortAccess-title = Portê Ji Ber Sedemên Ewlekariyê Asteng Kir
 fileNotFound-title = Çewtî! Pel Nayê Dîtin
 generic-title = Ahhaaa.
 netInterrupt-title = Girêdan qut bû
+notCached-title = Dema belgeyê derbas bû
 netOffline-title = Moda negirêdayî
 contentEncodingError-title = Çewtiya Enkodkirina Naverokê
 unsafeContentType-title = Çewtî: Naveroka Neewle.
