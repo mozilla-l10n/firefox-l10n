@@ -55,3 +55,10 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Varg dëshmish:
+
+## Messages used for certificate error titles
+
+netInterrupt-title = Lidhja u ndërpre
+netReset-title = Lidhja u rivendos
+proxyConnectFailure-title = Shërbyesi ndërmjetës po hedh poshtë lidhjet
+unknownSocketType-title = Përgjigje e papritur prej shërbyesit
