@@ -65,9 +65,11 @@ deniedPortAccess-title = Il port è bloccà per motivs da segirezza
 dnsNotFound-title = Dianteren. Nus avain difficultads da chattar questa pagina.
 fileNotFound-title = Impussibel da chattar la datoteca
 fileAccessDenied-title = Refusà l'access a la datoteca
+generic-title = Oh Dieu!
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Questa adressa na para betg correcta.
+netInterrupt-title = La connexiun è interrutta
 notCached-title = Document scrudà
 netOffline-title = Modus offline
 contentEncodingError-title = Cuntegns cun codaziun nunvalida
