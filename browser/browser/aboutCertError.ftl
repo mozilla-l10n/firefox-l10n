@@ -55,3 +55,14 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = დაკავშირება ვერ მოხერხდა
+fileNotFound-title = ფაილი ვერ მოიძებნა
+netInterrupt-title = კავშირი გაწყდა
+netReset-title = კავშირი გაწყდა
+proxyConnectFailure-title = პროქსი სერვერმა კავშირი უარყო
+proxyResolveFailure-title = პროქსი სერვერის პოვნა ვერ ხერხდება
+unknownSocketType-title = გაუთვალისწინებელი პასუხი სერვერიდან
+nssFailure2-title = უსაფრთხო დაკავშირება ვერ მოხერხდა
