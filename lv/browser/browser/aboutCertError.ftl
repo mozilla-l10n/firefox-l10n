@@ -27,9 +27,16 @@ cert-error-details-cert-chain-label = Sertifikātu ķēde:
 
 connectionFailure-title = Nevar pieslēgties
 deniedPortAccess-title = Piekļuve šai adresei ir liegta
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Diemžēl mums neizdodas atrast šo lapu.
 fileNotFound-title = Fails nav atrasts
 fileAccessDenied-title = Pieeja failam tika liegta
 generic-title = Savādi gan...
+captivePortal-title = Pieteikšanās tīklā
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Šķiet šī adrese nav korekta.
 netInterrupt-title = Savienojums tika pārtraukts
 notCached-title = Dokumenta derīguma termiņš beidzies
 netOffline-title = Nesaistes režīms
@@ -44,6 +51,12 @@ redirectLoop-title = Lapa netiek korekti pāradresēta
 unknownSocketType-title = Negaidīta atbilde no servera
 nssFailure2-title = Drošais savienojums neizdevās
 cspBlocked-title = Bloķē satura drošības politika
+corruptedContentError-title = Bojāta satura kļūda
 remoteXUL-title = Attālināts XUL
 sslv3Used-title = Neizdevās droši pieslēgties
 inadequateSecurityError-title = Savienojums nav drošs
+blockedByPolicy-title = Bloķēta lapa
+clockSkewError-title = Jūsu datora pulkstenis ir nepareizs
+networkProtocolError-title = Tīkla protokola kļūda
+nssBadCert-title = Brīdinājums: Potenciāls drošības risks
+nssBadCert-sts-title = Netika izveidots savienojums: potenciāla drošības problēma
