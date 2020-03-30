@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = Повезивање није успело
 deniedPortAccess-title = Ова адреса је забрањена
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Хмм. Имамо проблем са проналажењем тог сајта.
 fileNotFound-title = Датотека није пронађена
 fileAccessDenied-title = Приступ датотеци је одбијен
 generic-title = Упс.
 captivePortal-title = Пријави се на мрежу
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Хмм. Та адреса не изгледа исправно.
 netInterrupt-title = Веза је прекинута
 notCached-title = Документ је истекао
 netOffline-title = Рад ван мреже
@@ -82,3 +88,6 @@ corruptedContentError-title = Грешка оштећеног садржаја
 remoteXUL-title = Удаљени XUL
 sslv3Used-title = Не могу се повезати безбедно
 inadequateSecurityError-title = Веза није сугурна
+blockedByPolicy-title = Блокиране странице
+clockSkewError-title = Време на вашем рачунару је погрешно
+nssBadCert-title = Упозорење: Потенцијални безбедносни ризик
