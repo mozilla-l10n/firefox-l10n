@@ -61,3 +61,18 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Řetězec certifikátů:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Chyba spojení
+fileNotFound-title = Soubor nenalezen
+generic-title = Nepodařilo se dokončit požadavek
+netInterrupt-title = Spojení bylo přerušeno
+netOffline-title = Režim offline
+unsafeContentType-title = Nebezpečný typ souboru
+netReset-title = Spojení přerušeno
+netTimeout-title = Vypršel čas spojení
+proxyConnectFailure-title = Proxy server odmítl spojení
+proxyResolveFailure-title = Proxy server nenalezen
+redirectLoop-title = Smyčka při přesměrování
+unknownSocketType-title = Neplatná odpověď serveru
