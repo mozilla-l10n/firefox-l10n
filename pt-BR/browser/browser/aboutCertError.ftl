@@ -60,9 +60,11 @@ cert-error-details-cert-chain-label = Cadeia de certificados:
 
 deniedPortAccess-title = Endereço restrito
 fileNotFound-title = Arquivo não encontrado
+generic-title = Oops.
 contentEncodingError-title = Erro na codificação do conteúdo
 unsafeContentType-title = Tipo de arquivo inseguro
 unknownProtocolFound-title = Endereço não compreendido
 redirectLoop-title = Redirecionamento incorreto
 nssFailure2-title = Falha na conexão segura
+cspBlocked-title = Bloqueado pela política de segurança de conteúdo
 remoteXUL-title = XUL remoto
