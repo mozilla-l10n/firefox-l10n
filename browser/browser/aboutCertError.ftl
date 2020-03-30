@@ -55,3 +55,18 @@ cert-error-details-hsts-label = HTTP 严格传输安全（HSTS）：{ $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP 公钥固定：{ $hasHPKP }
 cert-error-details-cert-chain-label = 证书链：
+
+## Messages used for certificate error titles
+
+generic-title = 哎呀。
+notCached-title = 文档已过期
+netOffline-title = 脱机模式
+contentEncodingError-title = 内容编码错误
+unsafeContentType-title = 不安全的文件类型
+netReset-title = 连接被重置
+netTimeout-title = 连接超时
+proxyConnectFailure-title = 代理服务器拒绝连接
+proxyResolveFailure-title = 无法找到代理服务器
+redirectLoop-title = 此页面不能正确地重定向
+unknownSocketType-title = 意外的服务器响应
+remoteXUL-title = 远程 XUL
