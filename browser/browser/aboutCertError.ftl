@@ -69,3 +69,4 @@ netTimeout-title = Bağlantı zaman aşımına uğradı
 proxyConnectFailure-title = Vekil sunucu bağlantı kabul etmiyor
 proxyResolveFailure-title = Vekil sunucu bulunamadı
 unknownSocketType-title = Sunucudan beklenmeyen yanıt
+remoteXUL-title = Uzak XUL
