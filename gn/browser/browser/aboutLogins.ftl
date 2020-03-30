@@ -60,6 +60,8 @@ login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
 login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
 about-logins-list-item-breach-icon =
     .title = Ñanduti renda imarãva
+about-logins-list-item-vulnerable-password-icon =
+    .title = Ñe’ẽñemi ivaikuaáva
 
 ## Introduction screen
 
@@ -159,6 +161,7 @@ confirm-discard-changes-dialog-confirm-button = Hejarei
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Ñanduti renda ñembyai
 breach-alert-text = Umi ñe’ẽñemi oñembogua térã oñemonda ko ñanduti rendágui hekopyahu rire ne mba’ekuaarã rembiapo ñepyrũ. Emoambue ne ñe’ẽñemi emo’ã hag̃ua ne mba’ete.
 breach-alert-link = Eñemomaranduve ko mba’evai rehegua.
 breach-alert-dismiss =
