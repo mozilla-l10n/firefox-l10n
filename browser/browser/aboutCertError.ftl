@@ -63,6 +63,7 @@ deniedPortAccess-title = Ова адреса је забрањена
 fileNotFound-title = Датотека није пронађена
 fileAccessDenied-title = Приступ датотеци је одбијен
 generic-title = Упс.
+captivePortal-title = Пријави се на мрежу
 netInterrupt-title = Веза је прекинута
 notCached-title = Документ је истекао
 netOffline-title = Рад ван мреже
