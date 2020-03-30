@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Atestila ĉeno:
 
 connectionFailure-title = Ne eblas konektiĝi
 deniedPortAccess-title = Aliro al tiu ĉi adreso estas limigata
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm, ni ne sukcesas trovi tiun retejon.
 fileNotFound-title = Dosiero ne trovita
 fileAccessDenied-title = Rifuzita aliro al dosiero
 generic-title = Fuŝ’.
 captivePortal-title = Komenci seancon en tiu ĉi reto
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm, tiu adreso ne aspektas ĝuste.
 netInterrupt-title = La konekto estis ĉesigita
 notCached-title = Dokumento malaktuala
 netOffline-title = Malkonektita reĝimo
@@ -83,6 +89,7 @@ corruptedContentError-title = Eraro pro difektita enhavo
 remoteXUL-title = Fora XUL
 sslv3Used-title = Ne eblas sekure konektiĝi
 inadequateSecurityError-title = Via konekto ne estas sekura
+blockedByPolicy-title = Blokita paĝo
 clockSkewError-title = La horloĝo de via komputilo estas malĝusta
 networkProtocolError-title = Eraro en reta protokolo
 nssBadCert-title = Averto: Ebla sekureca risko antaŭ vi
