@@ -58,8 +58,18 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = No se pudo conectar
 deniedPortAccess-title = Esta dirección está restringida
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Estamos teniendo problemas para encontrar ese sitio.
 fileNotFound-title = Archivo no encontrado
+fileAccessDenied-title = El acceso al archivo fue denegado
+generic-title = Chita.
+captivePortal-title = Conectarse a la red
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Esa dirección no luce bien.
 netInterrupt-title = La conexión fue interrumpida
 notCached-title = Documento expirado
 netOffline-title = Modo sin conexión
@@ -69,9 +79,19 @@ netReset-title = La conexión fue reiniciada
 netTimeout-title = La conexión ha caducado
 unknownProtocolFound-title = La dirección no fue comprendida
 proxyConnectFailure-title = El servidor proxy está rechazando conexiones
+proxyResolveFailure-title = No se pudo encontrar el servidor proxy
 redirectLoop-title = La página no está redirigiendo adecuadamente
 unknownSocketType-title = Respuesta inesperada del servidor
 nssFailure2-title = Falló la conexión segura
 cspBlocked-title = Bloqueado por la política de seguridad de contenido
+xfoBlocked-title = Bloqueado por la política X-Frame-Options
+corruptedContentError-title = Error de contenido corrupto
 remoteXUL-title = XUL remoto
 sslv3Used-title = No se puede conectar de forma segura
+inadequateSecurityError-title = Tu conexión no es segura
+blockedByPolicy-title = Página bloqueada
+clockSkewError-title = El reloj de tu computador está mal
+networkProtocolError-title = Error de protocolo de red
+nssBadCert-title = Advertencia: Riesgo potencial de seguridad a continuación
+nssBadCert-sts-title = No se conectó: Posible problema de seguridad
+certerror-mitm-title = Hay un software que impide a { -brand-short-name } de conectarse de forma segura a este sitio
