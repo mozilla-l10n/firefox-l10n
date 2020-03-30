@@ -14,3 +14,7 @@ blocklist-hard-blocked = ਇਹ ਪਲੱਗਇਨ ਸਥਿਰਤਾ ਲਈ ਭ
 blocklist-soft-blocked = ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ, ਤੁਹਾਨੂੰ ਇਹ ਪਲੱਗਇਨ ਆਯੋਗ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
 blocklist-more-information =
     .value = ਹੋਰ ਜਾਣਕਾਰੀ
+blocklist-blocked =
+    .label = ਪਾਬੰਦੀਸ਼ੁਦਾ
+blocklist-checkbox =
+    .label = ਬੰਦ ਹੈ
