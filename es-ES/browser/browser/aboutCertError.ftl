@@ -60,8 +60,16 @@ cert-error-details-cert-chain-label = Cadena de certificados:
 
 connectionFailure-title = No se puede conectar
 deniedPortAccess-title = Esta dirección está restringida
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Uf. Tenemos problemas para encontrar ese sitio.
 fileNotFound-title = Archivo no encontrado
+fileAccessDenied-title = El acceso al archivo ha sido denegado
 generic-title = Oops.
+captivePortal-title = Iniciar sesión en la red
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Uf. Esa dirección no parece correcta.
 netInterrupt-title = La conexión ha sido interrumpida
 notCached-title = Documento expirado
 netOffline-title = Modo sin conexión
@@ -69,9 +77,14 @@ contentEncodingError-title = Error de codificación de contenido
 unsafeContentType-title = Tipo de archivo no seguro
 netReset-title = La conexión ha sido reiniciada
 netTimeout-title = La conexión ha caducado
+unknownProtocolFound-title = La dirección no resulta comprensible
 proxyConnectFailure-title = El servidor proxy está rechazando las conexiones
 proxyResolveFailure-title = No se puede encontrar el servidor proxy
 redirectLoop-title = La página no está redirigiendo adecuadamente
 unknownSocketType-title = Respuesta inesperada del servidor
 nssFailure2-title = Conexión segura fallida
+cspBlocked-title = Bloqueado por la política de seguridad de contenido
+corruptedContentError-title = Error de contenido dañado
 remoteXUL-title = XUL remoto
+sslv3Used-title = No es posible conectar de manera segura
+inadequateSecurityError-title = Su conexión no es segura
