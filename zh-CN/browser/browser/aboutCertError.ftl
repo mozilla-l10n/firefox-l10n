@@ -58,7 +58,18 @@ cert-error-details-cert-chain-label = 证书链：
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = 连接失败
+deniedPortAccess-title = 此网址已被限制
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = 呃…找不到此网站。
+fileNotFound-title = 找不到文件
+fileAccessDenied-title = 对该文件的访问请求被拒绝
 generic-title = 哎呀。
+captivePortal-title = 请登录网络
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = 呃…这个网址好像有错。
 netInterrupt-title = 连接中断
 notCached-title = 文档已过期
 netOffline-title = 脱机模式
@@ -66,11 +77,18 @@ contentEncodingError-title = 内容编码错误
 unsafeContentType-title = 不安全的文件类型
 netReset-title = 连接被重置
 netTimeout-title = 连接超时
+unknownProtocolFound-title = 无法理解该网址
 proxyConnectFailure-title = 代理服务器拒绝连接
 proxyResolveFailure-title = 无法找到代理服务器
 redirectLoop-title = 此页面不能正确地重定向
 unknownSocketType-title = 意外的服务器响应
+nssFailure2-title = 建立安全连接失败
+cspBlocked-title = 已依内容安全策略拦截
+corruptedContentError-title = 内容损坏错误
 remoteXUL-title = 远程 XUL
+sslv3Used-title = 无法安全地连接
 inadequateSecurityError-title = 您的连接不安全
 blockedByPolicy-title = 页面已封锁
+clockSkewError-title = 您的电脑时间有误
+nssBadCert-sts-title = 未连接：有潜在的安全问题
 certerror-mitm-title = 有软件正在阻止 { -brand-short-name } 安全地连接至此网站
