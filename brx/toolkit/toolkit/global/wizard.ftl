@@ -30,3 +30,5 @@ wizard-macos-button-cancel =
     .label = नेवसि
 wizard-linux-button-cancel =
     .label = नेवसि
+wizard-win-button-cancel =
+    .label = नेवसि
