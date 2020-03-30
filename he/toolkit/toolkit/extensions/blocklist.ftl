@@ -5,6 +5,9 @@
 blocklist-window =
     .title = ייתכן שתוספות אלו יוצרות בעיות
     .style = width: 45em; height: 30em
+blocklist-accept =
+    .label = הפעלת { -brand-short-name } מחדש
+    .accesskey = מ
 blocklist-label-summary = { -brand-short-name } זיהה שהתוספות הבאות ידועות ככאלה הגורמות לבעיות יציבות או אבטחה:
 blocklist-hard-blocked = תוספות אלו בסיכון גבוה ליצירת בעיות יציבות או אבטחה ולכן נחסמו, אך נדרשת הפעלה מחדש של התוכנה לניטרול מוחלט שלהם.
 blocklist-soft-blocked = למען הגנתך, מומלץ שתפעיל מחדש את התוכנה עם תוספות אלו מנוטרלות.
