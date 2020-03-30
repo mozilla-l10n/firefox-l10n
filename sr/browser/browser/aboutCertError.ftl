@@ -90,4 +90,7 @@ sslv3Used-title = Не могу се повезати безбедно
 inadequateSecurityError-title = Веза није сугурна
 blockedByPolicy-title = Блокиране странице
 clockSkewError-title = Време на вашем рачунару је погрешно
+networkProtocolError-title = Грешка мрежног протокола
 nssBadCert-title = Упозорење: Потенцијални безбедносни ризик
+nssBadCert-sts-title = Нисам се повезао: могући безбедносни проблем
+certerror-mitm-title = Програм спречава { -brand-short-name } да се безбедно повеже на ову страницу
