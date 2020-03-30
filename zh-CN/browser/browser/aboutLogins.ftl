@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = 打开菜单
-# This menuitem is only visible on Windows
-menu-menuitem-import = 导入密码…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = 从其他浏览器导入…
 menu-menuitem-preferences =
@@ -49,6 +47,7 @@ login-list-sort-label-text = 顺序：
 login-list-name-option = 名称（A-Z）
 login-list-name-reverse-option = 名称（Z-A）
 login-list-breached-option = 发生数据外泄的网站
+about-logins-login-list-alerts-option = 警报
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
 login-list-intro-title = 未找到登录信息
@@ -60,6 +59,8 @@ login-list-item-subtitle-new-login = 输入您的登录凭据
 login-list-item-subtitle-missing-username = （无用户名）
 about-logins-list-item-breach-icon =
     .title = 发生数据外泄的网站
+about-logins-list-item-vulnerable-password-icon =
+    .title = 弱密码
 
 ## Introduction screen
 
@@ -159,10 +160,24 @@ confirm-discard-changes-dialog-confirm-button = 丢弃
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = 网站信息外泄
 breach-alert-text = 自您上次更新这份登录信息后，该网站上的密码已遭泄露或窃取。立即更改您的密码以保障账户安全。
 breach-alert-link = 详细了解此事件
 breach-alert-dismiss =
     .title = 关闭此警报
+about-logins-breach-alert-date = 此外泄事件发生于：{ DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = 前往 { $hostname }
+about-logins-breach-alert-learn-more-link = 详细了解
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = 弱密码
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = 前往 { $hostname }
+about-logins-vulnerable-alert-learn-more-link = 详细了解
 
 ## Error Messages
 
