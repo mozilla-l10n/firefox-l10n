@@ -84,6 +84,7 @@ redirectLoop-title = De pagina verwijst niet op een juiste manier door
 unknownSocketType-title = Onverwacht antwoord van server
 nssFailure2-title = Beveiligde verbinding mislukt
 cspBlocked-title = Geblokkeerd door inhoudsbeveiligingsbeleid
+xfoBlocked-title = Geblokkeerd door beleid voor X-Frame-Options
 corruptedContentError-title = Beschadigde-inhoudsfout
 remoteXUL-title = Remote XUL
 sslv3Used-title = Kan geen beveiligde verbinding maken
