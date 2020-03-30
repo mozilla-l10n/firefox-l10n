@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = פתיחת תפריט
-# This menuitem is only visible on Windows
-menu-menuitem-import = ייבוא ססמאות…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = ייבוא מדפדפן אחר…
 menu-menuitem-preferences =
@@ -142,6 +140,17 @@ confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו
 breach-alert-text = ססמאות הודלפו או נגנבו מאתר זה מאז שעדכנת לאחרונה את פרטי הכניסה שלך. יש לשנות את הססמה שלך כדי להגן על חשבונך.
 breach-alert-dismiss =
     .title = סגירת התראה זו
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = מעבר אל { $hostname }
+about-logins-breach-alert-learn-more-link = מידע נוסף
+
+## Vulnerable Password notification
+
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = מעבר אל { $hostname }
+about-logins-vulnerable-alert-learn-more-link = מידע נוסף
 
 ## Error Messages
 
