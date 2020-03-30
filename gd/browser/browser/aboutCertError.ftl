@@ -55,3 +55,20 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sèine an teisteanais:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Cha ghabh ceangal a dhèanamh ris
+deniedPortAccess-title = Tha an seòladh seo cuingichte
+fileNotFound-title = Cha deach am faidhle a lorg
+generic-title = Mo chreach!
+netInterrupt-title = Bhris rudeigin a-steach air a' cheangal
+netOffline-title = Am modh far loidhne
+contentEncodingError-title = Mearachd le còdachadh na susbaint
+unsafeContentType-title = Faidhle de sheòrsa neo-thèarainte
+netReset-title = Chaidh an ceangal ath-shuidheachadh
+netTimeout-title = Dh'fhalbh an ùine air a' cheangal
+proxyConnectFailure-title = Tha am frithealaiche progsaidh a' diùltadh cheanglaichean
+proxyResolveFailure-title = Cha ghabh am frithealaiche progsaidh a lorg
+unknownSocketType-title = Freagairt ris nach robh dùil on fhrithealaiche
+remoteXUL-title = XUL cèin
