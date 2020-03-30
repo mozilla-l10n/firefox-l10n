@@ -59,3 +59,7 @@ remoteXUL-title = XUL Poottiiɗo
 sslv3Used-title = Horiima Seŋaade e Kisal
 inadequateSecurityError-title = Ceŋagol maa hisaani
 blockedByPolicy-title = Hello Daaƴaango
+clockSkewError-title = Montoor ordinateer maa goongɗaani
+networkProtocolError-title = Juumre jaɓɓitorde geese
+nssBadCert-title = Jeertino: Soomi tanaa kisal yeeso
+nssBadCert-sts-title = Hoto seŋo: soomi saɗeende kisal
