@@ -176,6 +176,7 @@ about-logins-breach-alert-learn-more-link = Докладніше
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ненадійний пароль
+about-logins-vulnerable-alert-text = Цей пароль викрадено або виявлено у витоках даних інших компаній. Повторне його використання наражає на небезпеку всі ваші облікові записи. Для підвищення рівня вашої безпеки в Інтернеті, змініть цей пароль.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Перейти до { $hostname }
