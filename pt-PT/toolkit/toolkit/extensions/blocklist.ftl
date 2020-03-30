@@ -9,3 +9,5 @@ blocklist-accept =
     .label = Reiniciar o { -brand-short-name }
     .accesskey = R
 blocklist-label-summary = O { -brand-short-name } determinou que os seguintes extras são conhecidos por causar problemas de estabilidade ou segurança:
+blocklist-blocked =
+    .label = Bloqueado
