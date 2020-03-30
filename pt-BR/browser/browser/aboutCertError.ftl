@@ -58,13 +58,22 @@ cert-error-details-cert-chain-label = Cadeia de certificados:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Não foi possível conectar
 deniedPortAccess-title = Endereço restrito
 fileNotFound-title = Arquivo não encontrado
+fileAccessDenied-title = Acesso ao arquivo foi negado
 generic-title = Oops.
+netInterrupt-title = A conexão foi interrompida
+notCached-title = Documento expirado
 contentEncodingError-title = Erro na codificação do conteúdo
 unsafeContentType-title = Tipo de arquivo inseguro
+netTimeout-title = A conexão expirou
 unknownProtocolFound-title = Endereço não compreendido
+proxyConnectFailure-title = O servidor proxy está recusando conexões
 redirectLoop-title = Redirecionamento incorreto
+unknownSocketType-title = Resposta inesperada do servidor
 nssFailure2-title = Falha na conexão segura
 cspBlocked-title = Bloqueado pela política de segurança de conteúdo
 remoteXUL-title = XUL remoto
+sslv3Used-title = Não foi possível conectar com segurança
+inadequateSecurityError-title = Sua conexão não é segura
