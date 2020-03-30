@@ -77,6 +77,7 @@ cspBlocked-title = Disekat oleh Polisi Keselamatan Kandungan
 corruptedContentError-title = Ralat Kandungan Rosak
 remoteXUL-title = XUL jauh
 sslv3Used-title = Tidak dapat Disambung dengan Selamat
+inadequateSecurityError-title = Sambungan internet anda tidak selamat
 blockedByPolicy-title = Halaman Disekat
 clockSkewError-title = Jam komputer anda salah
 nssBadCert-title = Amaran: Mungkin Ada Risiko Keselamatan
