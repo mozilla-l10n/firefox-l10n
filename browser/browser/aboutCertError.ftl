@@ -58,7 +58,9 @@ cert-error-details-cert-chain-label = Cadeia de certificados:
 
 ## Messages used for certificate error titles
 
+deniedPortAccess-title = Endereço restrito
 fileNotFound-title = Arquivo não encontrado
 contentEncodingError-title = Erro na codificação do conteúdo
 unsafeContentType-title = Tipo de arquivo inseguro
+redirectLoop-title = Redirecionamento incorreto
 nssFailure2-title = Falha na conexão segura
