@@ -14,9 +14,13 @@
 <!ENTITY encryptionCert.message "Certificado usado para (des)criptografar mensagens enviadas a você:">
 
 <!ENTITY e2eTitle.label "Criptografia de ponta a ponta">
+<!ENTITY e2eIntro.description "Para enviar mensagens criptografadas ou assinadas digitalmente, você precisa configurar uma tecnologia de criptografia, OpenPGP ou S/MIME.">
 <!ENTITY e2eLearnMore.label "Saiba mais">
 
+<!ENTITY e2eEnc.description "Sem criptografia de ponta a ponta, o conteúdo das mensagens é facilmente exposto ao seu provedor de e-mail e à vigilância em massa.">
+<!ENTITY e2eeReqWarning.description "Se você precisa de criptografia, para enviar uma mensagem deve ter a chave pública ou o certificado de cada destinatário.">
 
+<!ENTITY e2eSigning.description "Uma assinatura digital permite que os destinatários verifiquem se a mensagem foi enviada por você e se o conteúdo não foi alterado.">
 <!ENTITY e2eTechPref.description "Tecnologia de criptografia preferida:">
 
 <!ENTITY doNotEncrypt.label "Não ativar criptografia por padrão">
