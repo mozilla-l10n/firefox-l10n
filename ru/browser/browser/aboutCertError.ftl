@@ -60,6 +60,7 @@ cert-error-details-cert-chain-label = Цепочка сертификата:
 
 connectionFailure-title = Попытка соединения не удалась
 fileNotFound-title = Файл не найден
+generic-title = Ой.
 netInterrupt-title = Соединение было прервано
 netOffline-title = Автономный режим
 contentEncodingError-title = Ошибка в типе содержимого
