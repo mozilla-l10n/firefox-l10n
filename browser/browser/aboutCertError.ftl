@@ -72,4 +72,5 @@ proxyConnectFailure-title = השרת המתווך דחה את ההתחברות
 proxyResolveFailure-title = שרת מתווך לא נמצא
 redirectLoop-title = הדף מבצע העברה לא תקינה
 unknownSocketType-title = תגובה לא צפויה מהשרת
+cspBlocked-title = נחסם בהתאם למדיניות האבטחה של התוכן
 remoteXUL-title = XUL מרוחק
