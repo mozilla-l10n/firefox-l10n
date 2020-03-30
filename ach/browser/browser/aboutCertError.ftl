@@ -58,10 +58,16 @@ cert-error-details-cert-chain-label = Nyoo me catibiket:
 
 connectionFailure-title = Pe romo kubo
 deniedPortAccess-title = Kanonge man kigengo woko
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Wa tye ka nongo peko i nongo kakube meno.
 fileNotFound-title = Pwal pe ononge
 fileAccessDenied-title = Kikwero woko nongo pwail ne
 generic-title = Ayi.
 captivePortal-title = Dony iyie netwak
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Kanonge meno pe tye kakare.
 netInterrupt-title = Kibalo kube woko
 notCached-title = Gin acoya Kare ne okato woko
 netOffline-title = Pe okube iyamo
@@ -80,3 +86,6 @@ corruptedContentError-title = Bal me jami matye iye ma oballe
 remoteXUL-title = XUL ma tye wa kama bor
 sslv3Used-title = Pe twero kube ma ber bedo tye
 inadequateSecurityError-title = Kube ni pe tye ki ber bedo
+blockedByPolicy-title = Potbuk ma kigengo
+clockSkewError-title = Cawa me kompiuta ni pe tye kakare
+networkProtocolError-title = Bal me Cik me Netwak
