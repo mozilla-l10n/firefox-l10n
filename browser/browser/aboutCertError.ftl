@@ -36,3 +36,13 @@ cert-error-details-hsts-label = HTTP கண்டிப்பான போக
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP பொது விசை பிணைப்பு: { $hasHPKP }
 cert-error-details-cert-chain-label = சான்றிதழ் சங்கிலி:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = இணைக்க முடியவில்லை
+deniedPortAccess-title = இந்த முகவரி தடுக்கப்பட்டுள்ளது
+netInterrupt-title = இணைப்பில் தடங்கல் உள்ளது
+netOffline-title = இணைப்பில்லாத முறைமை
+contentEncodingError-title = உள்ளடக்க குறிமுறை பிழை
+unsafeContentType-title = பாதுகாப்பில்லாத கோப்பு வகை
+netTimeout-title = இணைப்பு நேரம் முடிந்தது
