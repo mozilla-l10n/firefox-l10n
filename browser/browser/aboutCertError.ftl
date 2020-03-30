@@ -60,8 +60,16 @@ cert-error-details-cert-chain-label = Ланцюжок сертифіката:
 
 connectionFailure-title = Невдала спроба з’єднання
 deniedPortAccess-title = Звернення до даної адреси заборонено
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Гмм. Ніяк не вдається знайти цей сайт.
 fileNotFound-title = Файл не знайдено
+fileAccessDenied-title = Доступ до файлу було заборонено
 generic-title = Помилка
+captivePortal-title = Вхід в мережу
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Гмм. Схоже, ця адреса неправильна.
 netInterrupt-title = З’єднання перервано
 notCached-title = Документ застарів
 netOffline-title = Автономний режим
@@ -75,4 +83,8 @@ proxyResolveFailure-title = Неможливо знайти проксі-сер�
 redirectLoop-title = Невірне перенаправлення на сторінці
 unknownSocketType-title = Невідома/невпізнана відповідь сервера
 nssFailure2-title = Не вдалось встановити безпечне з’єднання
+cspBlocked-title = Заблоковано політикою безпеки вмісту
+corruptedContentError-title = Помилка пошкодженого вмісту
 remoteXUL-title = Віддалений XUL
+sslv3Used-title = Неможливо безпечно з’єднатися
+inadequateSecurityError-title = Ваше з'єднання незахищене
