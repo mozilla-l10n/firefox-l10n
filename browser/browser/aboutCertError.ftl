@@ -66,3 +66,4 @@ netReset-title = Tilkoplinga vart broten
 netTimeout-title = Tilkoplinga fekk tidsavbrot
 redirectLoop-title = Nettsida vidaresender ikkje skikkeleg
 unknownSocketType-title = Uventa svar frå tenar
+nssFailure2-title = Trygt samband feila
