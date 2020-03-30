@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0
 
+blocklist-window =
+    .title = Si guruhuaj ni hua sa a'ui' yi'ì nej komplemênto
+    .style = width: 45em; height: 30em
 blocklist-accept =
     .label = Nayi'ì nakà { -brand-short-name }
     .accesskey = R
