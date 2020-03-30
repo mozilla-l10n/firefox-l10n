@@ -67,6 +67,9 @@ fileNotFound-title = Súbor sa nenašiel
 fileAccessDenied-title = Prístup k súboru bol zamietnutý
 generic-title = Problém.
 captivePortal-title = Prihlásiť sa do siete
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm, táto adresa nevyzerá v poriadku.
 netInterrupt-title = Pripojenie bolo prerušené
 notCached-title = Platnosť dokumentu vypršala
 netOffline-title = Režim offline
