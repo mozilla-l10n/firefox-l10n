@@ -5,6 +5,12 @@
 wizard-macos-button-back =
     .label = Tebekgean
     .accesskey = T
+wizard-linux-button-back =
+    .label = Tebek
+    .accesskey = T
+wizard-win-button-back =
+    .label = < Tebek
+    .accesskey = T
 wizard-macos-button-next =
     .label = Trochgean
     .accesskey = g
