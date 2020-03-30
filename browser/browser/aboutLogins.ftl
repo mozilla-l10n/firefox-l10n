@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Meni wočinić
-# This menuitem is only visible on Windows
-menu-menuitem-import = Hesła importować…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Z druheho wobhladowaka importować…
 menu-menuitem-preferences =
@@ -52,6 +50,7 @@ login-list-sort-label-text = Sortěrować po:
 login-list-name-option = Mjenje (A-Z)
 login-list-name-reverse-option = Mjeno (Z - A)
 login-list-breached-option = Zranjene websydła
+about-logins-login-list-alerts-option = Warnowanja
 login-list-last-changed-option = Poslednjej změnje
 login-list-last-used-option = Poslednim wužiću
 login-list-intro-title = Žane přizjewjenja namakane
@@ -63,6 +62,8 @@ login-list-item-subtitle-new-login = Zapodajće swoje přizjewjenske daty
 login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
 about-logins-list-item-breach-icon =
     .title = Zranjene websydło
+about-logins-list-item-vulnerable-password-icon =
+    .title = Zranite hesło
 
 ## Introduction screen
 
@@ -166,6 +167,18 @@ breach-alert-text = Hesła su so z tutoho websydła roznjesli abo kradnyli, wot 
 breach-alert-link = Zhońće wjace wo tutej datowej dźěrje.
 breach-alert-dismiss =
     .title = Tute warnowanje začinić
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = K { $hostname }
+about-logins-breach-alert-learn-more-link = Dalše informacije
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Zranite hesło
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = K { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Dalše informacije
 
 ## Error Messages
 
