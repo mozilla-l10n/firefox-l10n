@@ -64,6 +64,7 @@ deniedPortAccess-title = Zastrzeżony adres
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Niestety, nie udało się odnaleźć tej strony
 fileNotFound-title = Nie odnaleziono pliku
+fileAccessDenied-title = Odmowa dostępu do pliku
 generic-title = Wystąpił błąd
 captivePortal-title = Logowanie do sieci
 # "Hmm" is a sound made when considering or puzzling over something.
@@ -86,6 +87,7 @@ cspBlocked-title = Zablokowane przez politykę bezpieczeństwa treści
 corruptedContentError-title = Błąd: treść uszkodzona
 remoteXUL-title = Zdalna treść XUL
 sslv3Used-title = Nie udało się nawiązać bezpiecznego połączenia
+inadequateSecurityError-title = Połączenie nie gwarantuje bezpieczeństwa
 blockedByPolicy-title = Zablokowana strona
 networkProtocolError-title = Błąd protokołu sieciowego
 nssBadCert-title = Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa
