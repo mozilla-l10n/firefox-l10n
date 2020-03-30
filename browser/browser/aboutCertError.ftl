@@ -60,17 +60,37 @@ cert-error-details-cert-chain-label = Верига на сертификата:
 
 connectionFailure-title = Не може да бъде установена връзка
 deniedPortAccess-title = Този адрес е ограничен
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Хмм. Страницата не е намерена
 fileNotFound-title = Файлът не е намерен
+fileAccessDenied-title = Достъпът до файла е отказан
+generic-title = Олеле.
+captivePortal-title = Влизане в мрежа
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Хм. Адресът не изглежда правилен
 netInterrupt-title = Връзката беше прекъсната
 notCached-title = Документът е с изтекъл срок на валидност
 netOffline-title = Работа извън мрежата
 contentEncodingError-title = Грешка в кодировката на съдържанието
 unsafeContentType-title = Опасен вид файл
+netReset-title = Връзката е прекъсната
+netTimeout-title = Времето за изчакване на връзка изтече
 unknownProtocolFound-title = Адресът не е разпознат
+proxyConnectFailure-title = Мрежовият посредник отказва връзката
+proxyResolveFailure-title = Мрежовия посредник не може да бъде открит
 redirectLoop-title = Страницата не пренасочва правилно
 unknownSocketType-title = Неочакван отговор от сървъра
 nssFailure2-title = Неуспешно установяване на шифрована връзка
 cspBlocked-title = Блокирано от Content Security Policy
+corruptedContentError-title = Грешка поради развалено съдържание
 remoteXUL-title = Отдалечен XUL
 sslv3Used-title = Невъзможно създаване на защитена връзка
 inadequateSecurityError-title = Връзката е незащитена
+blockedByPolicy-title = Забранена страница
+clockSkewError-title = Часовникът на компютъра не е верен
+networkProtocolError-title = Нарушение на мрежовия протокол
+nssBadCert-title = Внимание: Вероятен риск за сигурността
+nssBadCert-sts-title = Неуспешно свързване: Евентуален проблем със сигурността
+certerror-mitm-title = Софтуер пречи на { -brand-short-name } да осъществи защитена връзка към страницата
