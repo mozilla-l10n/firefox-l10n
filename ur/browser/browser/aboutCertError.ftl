@@ -84,3 +84,4 @@ sslv3Used-title = حفاظتی طور پر جڑنے میں ناکام
 inadequateSecurityError-title = آپکا کنکشن ناقابل بھروسا ہے
 blockedByPolicy-title = بلاک شدہ صفحہ
 clockSkewError-title = آپ کے کمپیوٹر کی گھڑی غلط ہے
+networkProtocolError-title = نیٹ ورک پروٹوکول کی خرابی
