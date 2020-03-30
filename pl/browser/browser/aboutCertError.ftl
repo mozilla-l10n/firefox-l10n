@@ -94,4 +94,4 @@ clockSkewError-title = Zegar komputera wskazuje błędną datę
 networkProtocolError-title = Błąd protokołu sieciowego
 nssBadCert-title = Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa
 nssBadCert-sts-title = Nie połączono: potencjalne zagrożenie bezpieczeństwa
-certerror-mitm-title = Oprogramowanie uniemożliwia bezpieczne połączenie ze stroną
+certerror-mitm-title = Oprogramowanie uniemożliwia przeglądarce { -brand-short-name } bezpieczne połączenie ze stroną
