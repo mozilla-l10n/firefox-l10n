@@ -60,6 +60,9 @@ cert-error-details-cert-chain-label = زنجیره گواهی:
 
 connectionFailure-title = قادر به برقراری اتصال نیست
 deniedPortAccess-title = این نشانی ممنوع است
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = آممم. ما کمی مشکل در پیدا کردن این پایگاه اینترنتی داریم.
 fileNotFound-title = پرونده پیدا نشد
 fileAccessDenied-title = دسترسی به پرونده رد شد
 generic-title = متأسفیم.
@@ -82,3 +85,4 @@ corruptedContentError-title = خطای خرابی محتوا
 remoteXUL-title = XUL راه دور
 sslv3Used-title = قادر به برقراری اتصال امن نمیباشد
 inadequateSecurityError-title = اتصال شما امن نیست
+blockedByPolicy-title = صفحهٔ مسدود شده
