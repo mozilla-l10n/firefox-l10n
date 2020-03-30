@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Cadeia de certificados:
 
 connectionFailure-title = Não foi possível conectar
 deniedPortAccess-title = Endereço restrito
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Estamos tendo problemas para encontrar este site.
 fileNotFound-title = Arquivo não encontrado
 fileAccessDenied-title = Acesso ao arquivo foi negado
 generic-title = Oops.
 captivePortal-title = Autenticar na rede
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Este endereço não parece correto.
 netInterrupt-title = A conexão foi interrompida
 notCached-title = Documento expirado
 contentEncodingError-title = Erro na codificação do conteúdo
