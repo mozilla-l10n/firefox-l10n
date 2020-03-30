@@ -91,4 +91,5 @@ sslv3Used-title = Impossible d’établir une connexion sécurisée
 inadequateSecurityError-title = La connexion n’est pas sécurisée
 blockedByPolicy-title = Page bloquée
 clockSkewError-title = L’heure de votre ordinateur est incorrecte
+nssBadCert-title = Attention : risque probable de sécurité
 certerror-mitm-title = Un logiciel empêche { -brand-short-name } de se connecter de façon sécurisée à ce site
