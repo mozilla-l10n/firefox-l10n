@@ -58,9 +58,12 @@ cert-error-details-cert-chain-label = Сертификаттар тізбегі:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Байланысты орнату сәтсіз аяқталды
 deniedPortAccess-title = Бұл портқа тыйым салынған
 fileNotFound-title = Файл табылмады
+fileAccessDenied-title = Файлға қатынау құқығы жоқ
 generic-title = Қате.
+captivePortal-title = Желіге кіру
 netInterrupt-title = Байланыс үзілген
 notCached-title = Құжат ескірген
 netOffline-title = Дербес жұмыс істеу режимі
@@ -68,7 +71,14 @@ contentEncodingError-title = Құраманы декодтау кезінде қ
 unsafeContentType-title = Қауіпсіз емес файл түрі
 netReset-title = Байланыс үзілген
 netTimeout-title = Байланысты күту уақыты аяқталды
+unknownProtocolFound-title = Адресті талдау қатесі
 proxyConnectFailure-title = Прокси сервері сұранымдарды үзіп тұр
 proxyResolveFailure-title = Прокси сервері табылмады
+redirectLoop-title = Парақтағы бағдарлау дұрыс емес
 unknownSocketType-title = Сервердің жауабы күтпеген түрде
+nssFailure2-title = Қорғалған байланысты орнату сәтсіз аяқталды
+cspBlocked-title = Құрамасының қауіпсіздік саясатымен блокталған
+corruptedContentError-title = Зақымдалған құрама қатесі
 remoteXUL-title = Қашықтағы XUL
+sslv3Used-title = Қауіпсіз түрде байланысу мүмкін емес
+inadequateSecurityError-title = Сіздің байланысыңыз қауіпсіз емес
