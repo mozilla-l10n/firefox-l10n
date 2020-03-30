@@ -24,3 +24,20 @@ cert-error-details-hsts-label = HTTP mustahkam transport xavfsizligi: { $hasHSTS
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP ochiq kalitni qistirish: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikat zanjiri:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Ulana olmadi
+deniedPortAccess-title = Bu manzil cheklangan
+fileNotFound-title = Fayl topilmadi
+generic-title = Obbo.
+netInterrupt-title = Aloqa uzilib qoldi
+notCached-title = Hujjat mavjud emas
+netOffline-title = Oflayn usuli
+contentEncodingError-title = Kontentni kodlashda xato
+unsafeContentType-title = Xavfli fayl turi
+netReset-title = Ulanish uzilib qolgan
+proxyConnectFailure-title = Proksi server ulanishlarni rad qilmoqda
+proxyResolveFailure-title = Proksi server topilmadi
+unknownSocketType-title = Serverdan kutilmagan javob
+remoteXUL-title = Masofadagi XUL
