@@ -80,6 +80,7 @@ cspBlocked-title = Bloqueado por la Política de Seguridad de Contenido
 xfoBlocked-title = Bloqueada por la política X-Frame-Options
 corruptedContentError-title = Error por contenido dañado
 remoteXUL-title = XUL remoto
+sslv3Used-title = Imposible conectar de forma segura
 inadequateSecurityError-title = Tu conexión no es segura
 blockedByPolicy-title = Página bloqueada
 clockSkewError-title = El reloj de tu computadora está mal
