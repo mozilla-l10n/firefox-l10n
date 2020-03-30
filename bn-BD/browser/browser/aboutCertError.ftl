@@ -55,4 +55,6 @@ remoteXUL-title = রিমোট XUL
 sslv3Used-title = সুরক্ষিতভাবে কানেক্ট করতে ব্যার্থ
 inadequateSecurityError-title = আপনার সংযোগ নিরাপদ নয়
 blockedByPolicy-title = ব্লক করা পাতা
+clockSkewError-title = আপনার কম্পিউটারের ঘড়ি ভুল
 networkProtocolError-title = নেটওয়ার্ক প্রটোকল ত্রুটি
+nssBadCert-title = সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে
