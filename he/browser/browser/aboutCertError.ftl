@@ -60,6 +60,7 @@ cert-error-details-cert-chain-label = שרשרת אישורים:
 connectionFailure-title = כישלון בהתחברות
 deniedPortAccess-title = כתובת זו מוגבלת
 fileNotFound-title = קובץ לא נמצא
+fileAccessDenied-title = הגישה לקובץ נדחתה
 generic-title = שגיאה כללית
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -76,6 +77,16 @@ proxyConnectFailure-title = השרת המתווך דחה את ההתחברות
 proxyResolveFailure-title = שרת מתווך לא נמצא
 redirectLoop-title = הדף מבצע העברה לא תקינה
 unknownSocketType-title = תגובה לא צפויה מהשרת
+nssFailure2-title = חיבור מאובטח נכשל
 cspBlocked-title = נחסם בהתאם למדיניות האבטחה של התוכן
+xfoBlocked-title = נחסם בהתאם למדיניות ה־X-Frame-Options
 corruptedContentError-title = שגיאת תוכן פגום
 remoteXUL-title = XUL מרוחק
+sslv3Used-title = לא ניתן להתחבר באופן מאובטח
+inadequateSecurityError-title = החיבור שלך אינו מאובטח
+blockedByPolicy-title = עמוד חסום
+clockSkewError-title = השעון של המחשב שלך אינו מכוון
+networkProtocolError-title = שגיאת פרוטוקול רשת
+nssBadCert-title = אזהרה: סכנת אבטחה אפשרית לפניך
+nssBadCert-sts-title = לא בוצעה התחברות: חולשת אבטחה אפשרית
+certerror-mitm-title = תכנית כלשהי מונעת מ־{ -brand-short-name } להתחבר באופן מאובטח לאתר הזה
