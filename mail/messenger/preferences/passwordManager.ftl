@@ -68,3 +68,15 @@ remove-all-shown =
 remove-all-passwords-prompt = 您确定要移除所有密码吗？
 remove-all-passwords-title = 移除所有密码
 no-master-password-prompt = 您确定要显示密码吗？
+
+## OS Authentication dialog
+
+# This message can be seen by trying to show or copy the passwords.
+password-os-auth-dialog-message = 验证您的身份以显示存放的密码。
+# This message can be seen by trying to show or copy the passwords.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+password-os-auth-dialog-message-macosx = 显示存放的密码
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }
