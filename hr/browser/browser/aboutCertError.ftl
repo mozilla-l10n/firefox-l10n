@@ -85,3 +85,7 @@ remoteXUL-title = Udaljeni XUL
 sslv3Used-title = Uspostava sigurne veze nije uspjela
 blockedByPolicy-title = Blokirana stranica
 clockSkewError-title = Sat na računalu je pogrešan
+networkProtocolError-title = Greška mrežnog protokola
+nssBadCert-title = Upozorenje: potencijalni sigurnosni rizik
+nssBadCert-sts-title = Nije se spojio: potencijalni sigurnosni problem
+certerror-mitm-title = Program spriječava { -brand-short-name } da se sigurno poveže s ovom stranicom
