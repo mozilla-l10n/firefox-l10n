@@ -60,6 +60,9 @@ cert-error-details-cert-chain-label = Chuỗi chứng nhận:
 
 connectionFailure-title = Không thể kết nối
 deniedPortAccess-title = Địa chỉ này đã bị chặn
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Chúng tôi gặp khó khăn khi tìm trang web đó.
 fileNotFound-title = Không tìm thấy tập tin
 fileAccessDenied-title = Truy cập tập tin bị từ chối
 generic-title = Lỗi.
@@ -73,6 +76,7 @@ netOffline-title = Chế độ ngoại tuyến
 contentEncodingError-title = Lỗi encoding
 unsafeContentType-title = Kiểu tập tin không an toàn
 netReset-title = Kết nối bị khởi tạo lại
+netTimeout-title = Kết nối đã mất quá nhiều thời gian
 unknownProtocolFound-title = Chương trình không hiểu địa chỉ này
 proxyConnectFailure-title = Máy chủ proxy từ chối kết nối
 proxyResolveFailure-title = Không tìm thấy máy chủ proxy
@@ -80,8 +84,14 @@ redirectLoop-title = Trang này không chuyển hướng đúng cách
 unknownSocketType-title = Nhận được phản hồi lạ từ máy chủ
 nssFailure2-title = Không thể kết nối an toàn
 cspBlocked-title = Bị chặn bởi Chính sách bảo mật nội dung
+xfoBlocked-title = Bị chặn bởi chính sách X-Frame-Options
 corruptedContentError-title = Lỗi nội dung không toàn vẹn
 remoteXUL-title = Remote XUL
 sslv3Used-title = Không thể kết nối một cách an toàn
 inadequateSecurityError-title = Kết nối của bạn không an toàn
 blockedByPolicy-title = Trang bị chặn
+clockSkewError-title = Đồng hồ trên máy tính của bạn không đúng
+networkProtocolError-title = Lỗi giao thức mạng
+nssBadCert-title = Cảnh báo: Rủi ro bảo mật tiềm ẩn
+nssBadCert-sts-title = Không kết nối: Sự cố bảo mật tiềm ẩn
+certerror-mitm-title = Phần mềm đang ngăn chặn { -brand-short-name } từ kết nối an toàn đến trang web này
