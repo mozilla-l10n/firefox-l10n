@@ -55,3 +55,41 @@ cert-error-details-hsts-label = Yitïnj hauw ga'anj ma riña HTTP ahī: { $hasHS
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Gachrun' klave HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Daj niko' dugui' sertifikadô:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Na'ue gatu riña internet ma
+deniedPortAccess-title = Hua arán riña sitiô na
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Mmmm. Na'ue nari' ma sitio na ma.
+fileNotFound-title = Nu narì'ij archivo
+fileAccessDenied-title = Nun raj yinaj gun' aa atû'
+generic-title = 'Uà'
+captivePortal-title = Gayi'i' sesion riña red
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Mmm. Nitaj si ra'nga' hue'ê direksiôn na.
+netInterrupt-title = Giyichin' ngè conexión
+notCached-title = Ngà gire' ñanj na
+netOffline-title = Si gida'aj internet
+contentEncodingError-title = Gire' 'ngo chrej nana'uij sa gachrûnt
+unsafeContentType-title = 'Ngo archivo hua ahii huin
+netReset-title = Nayi'ì ñû conexión
+netTimeout-title = Ganahuij diû ana'uijt
+unknownProtocolFound-title = Nu gachrun hue'êt direksiôn
+proxyConnectFailure-title = Nu a'nïnj servidor proxy gatut riña internet
+proxyResolveFailure-title = Na'ue nari'ìj proxy ma
+redirectLoop-title = Nitaj si 'iaj redireksionando hue'ê pajinâ nan
+unknownSocketType-title = Se 'ngo nuguan' hue'ê nariki servidor
+nssFailure2-title = Gire' conexión hia
+cspBlocked-title = 'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj
+corruptedContentError-title = Gire'ej dadin' sa nun riñan hua a'nan'
+remoteXUL-title = XUL nagi'iaj mun'ûn'
+sslv3Used-title = Si ga'ue guida'a hue'e man
+inadequateSecurityError-title = Nitaj si gua hue'e si conexion re'
+blockedByPolicy-title = Hua blokeado pagina
+clockSkewError-title = Nitaj si nū hue'ê hora riña si aga't
+networkProtocolError-title = Gire' si protokolo red
+nssBadCert-title = Gadadut: Nū 'ngò yi'ì nukuaj
+nssBadCert-sts-title = Nu ga'ue gida'aj: Siruaj ni hua ahī ma
