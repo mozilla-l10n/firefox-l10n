@@ -30,10 +30,16 @@ cert-error-details-cert-chain-label = Calol Seedamfaagu:
 
 connectionFailure-title = Horiima seŋaade
 deniedPortAccess-title = Ndee ñiiɓirde ko suraande
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Min ndañii saɗeende e yiytude hello ngo.
 fileNotFound-title = Fiilde yiytaaka
 fileAccessDenied-title = Ballagol fiilde salaama
 generic-title = Ndo.
 captivePortal-title = Seŋo e laylaytol hee
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Ndee ñiiɓirde nanndaani e moƴƴere.
 netInterrupt-title = Ceŋagol ngol taƴii
 notCached-title = Fiilannde Hiiɗtii
 netOffline-title = Mbaydi ceŋtol
