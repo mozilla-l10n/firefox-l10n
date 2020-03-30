@@ -55,3 +55,14 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Festa HTTP-nøkkel: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikatkjede:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = Fann ikkje fila
+netInterrupt-title = Tilkoplinga vart broten
+netOffline-title = Fråkopla modus
+unsafeContentType-title = Utrygg filtype
+netReset-title = Tilkoplinga vart broten
+netTimeout-title = Tilkoplinga fekk tidsavbrot
+redirectLoop-title = Nettsida vidaresender ikkje skikkeleg
+unknownSocketType-title = Uventa svar frå tenar
