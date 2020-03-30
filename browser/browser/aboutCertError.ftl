@@ -46,3 +46,4 @@ netOffline-title = இணைப்பில்லாத முறைமை
 contentEncodingError-title = உள்ளடக்க குறிமுறை பிழை
 unsafeContentType-title = பாதுகாப்பில்லாத கோப்பு வகை
 netTimeout-title = இணைப்பு நேரம் முடிந்தது
+remoteXUL-title = தொலைநிலை XUL
