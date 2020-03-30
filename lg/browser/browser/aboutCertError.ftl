@@ -10,3 +10,17 @@ cert-error-trust-untrusted-issuer = Olukusa terwesigika kubanga olukusa lw'eyagi
 cert-error-trust-expired-issuer = Olukusa terwesigika kubanga olukusa lw'eyagigaba luyiseeko.
 cert-error-trust-self-signed = Olukusa terwesigika kubanga lweteerako omukono.
 cert-error-untrusted-default = Olukusa teruva mu kkubo lyesigika.
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Tekisobose kuyungibwa
+deniedPortAccess-title = Endagiriro eno ekugiddwa
+fileNotFound-title = Enteresi ebuze
+generic-title = Oops.
+netInterrupt-title = Okuyungibwa kwataataaganyizibbwa
+netOffline-title = Toli ku lutimbe
+netReset-title = Okuyungibwa kwaddiddwamu okuteekebwa natte
+netTimeout-title = Obudde bw'okuyunga buweddeyo
+proxyConnectFailure-title = Kompyuta enfuga zinayo egaanyi obuyunzi
+proxyResolveFailure-title = Tesobodde kuzuula kompyuta effuga zinayo
+unknownSocketType-title = Engabirizi ezemu nga tekissubirwa
