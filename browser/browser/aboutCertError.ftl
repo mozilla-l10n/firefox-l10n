@@ -34,3 +34,4 @@ netInterrupt-title = जोडणी मध्ये अडथळा
 netOffline-title = ऑफलाइन पध्दती
 netReset-title = जोडणी पुनःप्रस्थापित करण्यात आली
 netTimeout-title = संपर्क साधण्याची वेळ संपली
+remoteXUL-title = रिमोट XUL
