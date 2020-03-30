@@ -5,6 +5,15 @@
 wizard-macos-button-back =
     .label = পূর্ববর্তীতে যান (B)
     .accesskey = B
+wizard-linux-button-back =
+    .label = পূর্ববর্তী
+    .accesskey = B
+wizard-win-button-back =
+    .label = < পূর্ববর্তী
+    .accesskey = B
+wizard-macos-button-next =
+    .label = চালিয়ে যান
+    .accesskey = C
 wizard-linux-button-next =
     .label = পরবর্তী (N)
     .accesskey = N
