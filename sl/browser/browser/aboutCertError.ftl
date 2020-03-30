@@ -55,3 +55,14 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Opredeljevanje javnih ključev HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Veriga digitalnih potrdil:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Povezava neuspešna
+fileNotFound-title = Datoteke ni mogoče najti
+generic-title = Ups.
+netInterrupt-title = Povezava je bila prekinjena
+contentEncodingError-title = Napaka pri kodiranju vsebine
+unsafeContentType-title = Nevarna vrsta datoteke
+netTimeout-title = Dovoljeni čas pretekel
+unknownSocketType-title = Nepričakovan odgovor strežnika
