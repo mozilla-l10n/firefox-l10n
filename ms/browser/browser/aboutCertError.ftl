@@ -52,4 +52,7 @@ connectionFailure-title = Tidak dapat menyambung
 fileNotFound-title = Fail tidak ditemui
 notCached-title = Dokumen Luput
 netTimeout-title = Sambungan telah tamat tempoh
+unknownProtocolFound-title = Alamat tidak difahami
 proxyResolveFailure-title = Tidak dapat menemui pelayan proksi
+cspBlocked-title = Disekat oleh Polisi Keselamatan Kandungan
+corruptedContentError-title = Ralat Kandungan Rosak
