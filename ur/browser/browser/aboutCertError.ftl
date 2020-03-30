@@ -79,3 +79,4 @@ corruptedContentError-title = خراب مواد نقص
 remoteXUL-title = بعید XUL
 sslv3Used-title = حفاظتی طور پر جڑنے میں ناکام
 inadequateSecurityError-title = آپکا کنکشن ناقابل بھروسا ہے
+blockedByPolicy-title = بلاک شدہ صفحہ
