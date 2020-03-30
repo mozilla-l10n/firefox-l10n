@@ -25,5 +25,6 @@ cert-error-details-cert-chain-label = ధృవీకరణపత్రం చ�
 ## Messages used for certificate error titles
 
 connectionFailure-title = సంధానం సాధ్యం కావడంలేదు
+generic-title = అయ్యో.
 netOffline-title = ఆఫ్‌లైన్ రీతి
 remoteXUL-title = రిమోట్ XUL
