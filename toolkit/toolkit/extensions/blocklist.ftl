@@ -9,6 +9,7 @@ blocklist-accept =
     .label = Reinicia el { -brand-short-name }
     .accesskey = R
 blocklist-label-summary = El { -brand-short-name } ha determinat que els complements següents estan provocant problemes d'estabilitat o seguretat:
+blocklist-soft-and-hard = S'han blocat els complements que tenen un alt risc de provocar problemes d'estabilitat o seguretat. Els altres tenen un risc menor, però és molt recomanable que reinicieu el navegador havent-los inhabilitat abans.
 blocklist-hard-blocked = Aquests complements tenen un alt risc de provocar problemes d'estabilitat o seguretat i s'han blocat; però cal reiniciar per inhabilitar-los completament.
 blocklist-soft-blocked = Per a la vostra protecció, és molt recomanable que reinicieu el navegador amb aquests complements inhabilitats.
 blocklist-more-information =
