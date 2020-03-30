@@ -55,3 +55,29 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certificate chain:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Navar pīsasliegt
+deniedPortAccess-title = Pīkļuve itai adresam ir līgta
+fileNotFound-title = Fails nav atrosts
+fileAccessDenied-title = Pīeja failam tyka līgta
+generic-title = Sovaidi gon...
+netInterrupt-title = Savīnuojums tyka puortraukts
+notCached-title = Dokumenta dereiguma termeņš beidzīs
+netOffline-title = Nasaistis režyms
+contentEncodingError-title = Satura kodiejumā klaida
+unsafeContentType-title = Nadrūss faila tips
+netReset-title = Savīnuojums tyka puorrauts
+netTimeout-title = Savīnuojumam īsastuojās nūilgums
+unknownProtocolFound-title = Adress natyka saprosta
+proxyConnectFailure-title = Storpnīkserveris (proxy) napījem savīnuojumus
+proxyResolveFailure-title = Navar atrast storpnīkserveri
+redirectLoop-title = Lopa natīk korekti puoradreseita
+unknownSocketType-title = Nagaideita atbiļde nu servera
+nssFailure2-title = Drūsais savīnuojums naizadeve
+cspBlocked-title = Blokej satura drūseibys politika
+corruptedContentError-title = Būjuota satura klaida
+remoteXUL-title = Attuolynuots XUL
+sslv3Used-title = Naizadeve drūsais pīsasliegt
+inadequateSecurityError-title = Savīnuojums nav drūss
