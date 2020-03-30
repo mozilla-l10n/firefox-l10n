@@ -11,3 +11,7 @@ blocklist-hard-blocked = මෙම ඇඩෝන ආරක්ෂක හෝ ස්
 blocklist-soft-blocked = ඔබගේ ආරක්ෂාව සඳහා, මෙම ඇඩෝන අබල (Disable) කර ප්‍රත්‍යාරම්භ (Restart) කිරීම ඉහළින්ම අනුමත කරයි.
 blocklist-more-information =
     .value = වැඩිදුර තොරතුරු
+blocklist-blocked =
+    .label = අවහිර කළ
+blocklist-checkbox =
+    .label = අබල
