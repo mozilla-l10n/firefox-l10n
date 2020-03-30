@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Chaîne de certificat :
 
 connectionFailure-title = La connexion a échoué
 deniedPortAccess-title = Cette adresse est interdite
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hum, nous ne parvenons pas à trouver ce site.
 fileNotFound-title = Fichier introuvable
 fileAccessDenied-title = L’accès au fichier a été refusé
 generic-title = La requête ne peut aboutir
 captivePortal-title = Se connecter au réseau
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hum, cette adresse ne semble pas valide.
 netInterrupt-title = La connexion a été interrompue
 notCached-title = Le document a expiré
 netOffline-title = Mode hors connexion
@@ -78,7 +84,11 @@ redirectLoop-title = La page n’est pas redirigée correctement
 unknownSocketType-title = Réponse inattendue du serveur
 nssFailure2-title = Échec de la connexion sécurisée
 cspBlocked-title = Bloqué par une stratégie de sécurité de contenu
+xfoBlocked-title = Bloqué par la politique X-Frame-Options
 corruptedContentError-title = Erreur due à un contenu corrompu
 remoteXUL-title = XUL distant
 sslv3Used-title = Impossible d’établir une connexion sécurisée
 inadequateSecurityError-title = La connexion n’est pas sécurisée
+blockedByPolicy-title = Page bloquée
+clockSkewError-title = L’heure de votre ordinateur est incorrecte
+certerror-mitm-title = Un logiciel empêche { -brand-short-name } de se connecter de façon sécurisée à ce site
