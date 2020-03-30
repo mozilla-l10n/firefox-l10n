@@ -59,9 +59,11 @@ cert-error-details-cert-chain-label = Certificate chain:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ude af stand til at oprette forbindelse
+deniedPortAccess-title = Adgang til denne adresse er underlagt begrænsninger
 fileNotFound-title = Fil ikke fundet
 generic-title = Hovsa.
 netInterrupt-title = Forbindelsen blev afbrudt
+notCached-title = Siden er udløbet
 contentEncodingError-title = Indholdskodningsfejl
 unsafeContentType-title = Usikker filtype
 netReset-title = Forbindelsen blev nulstillet
