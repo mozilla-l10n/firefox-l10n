@@ -92,5 +92,6 @@ inadequateSecurityError-title = Din anslutning är inte säker
 blockedByPolicy-title = Blockerad sida
 clockSkewError-title = Din dators klocka går fel
 networkProtocolError-title = Nätverksprotokollfel
+nssBadCert-title = Varning: Möjlig säkerhetsrisk framöver
 nssBadCert-sts-title = Kunde inte ansluta: Potentiellt säkerhetsproblem
 certerror-mitm-title = Programvaran hindrar { -brand-short-name } från säker anslutning till den här webbplatsen
