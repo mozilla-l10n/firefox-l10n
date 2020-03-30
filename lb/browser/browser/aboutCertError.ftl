@@ -18,3 +18,14 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Zertifikatsketten:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = Fichier net fonnt
+generic-title = Upps.
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Dës Adress schéngt net richteg ze sinn.
+netInterrupt-title = D'Verbindung gouf ënnerbrach
+notCached-title = Dokument ofgelaf
+inadequateSecurityError-title = Deng Verbindung ass net sécher
