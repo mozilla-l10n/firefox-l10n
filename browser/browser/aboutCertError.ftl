@@ -26,3 +26,4 @@ cert-error-details-cert-chain-label = ధృవీకరణపత్రం చ�
 
 connectionFailure-title = సంధానం సాధ్యం కావడంలేదు
 netOffline-title = ఆఫ్‌లైన్ రీతి
+remoteXUL-title = రిమోట్ XUL
