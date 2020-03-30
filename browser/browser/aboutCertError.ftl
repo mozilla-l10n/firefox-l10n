@@ -60,11 +60,20 @@ cert-error-details-cert-chain-label = Sertifikaatketen:
 
 connectionFailure-title = Kin gjin ferbining meitsje
 deniedPortAccess-title = Dit adres hat in beheinde tagong
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Wy kinne dizze website net fine.
 fileNotFound-title = Bestân net fûn
 fileAccessDenied-title = Tagong ta it bestân is wegere
 generic-title = Oei.
+captivePortal-title = Oanmelde by netwurk
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Dat adres sjocht der net goed út.
 netInterrupt-title = De ferbining waard ferbrutsen
 notCached-title = Dokumint ferrûn
+netOffline-title = Offline-modus
+contentEncodingError-title = Ynhâldkodearringsflater
 unsafeContentType-title = Unfeilich bestânstype
 netReset-title = De ferbining waard opnij inisjalisearre
 netTimeout-title = De wachttiid foar de ferbining is ferstrutsen
@@ -75,7 +84,14 @@ redirectLoop-title = De side ferwiist net op in krekte wize troch
 unknownSocketType-title = Unferwacht antwurd fan de server
 nssFailure2-title = Befeilige ferbining mislearre
 cspBlocked-title = Blokkearre troch ynhâldsbefeiligingsbelied
+xfoBlocked-title = Blokkearre troch belied foar X-Frame-Options
 corruptedContentError-title = Skansearre-ynhâldsflater
 remoteXUL-title = Remote XUL
 sslv3Used-title = Kin gjin befeilige ferbining meitsje
 inadequateSecurityError-title = Jo ferbining is net befeilige
+blockedByPolicy-title = Blokkearre side
+clockSkewError-title = Jo kompjûterklok jout de ferkearde tiid oan
+networkProtocolError-title = Netwurkprotokolflater
+nssBadCert-title = Warskôging: mooglik befeiligingsrisiko
+nssBadCert-sts-title = Gjin ferbining makke: mooglik befeiligingsprobleem
+certerror-mitm-title = Software foarkomt dat { -brand-short-name } in befeilige ferbining mei dizze website meitsje kin
