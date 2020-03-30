@@ -26,6 +26,7 @@ deniedPortAccess-title = নিরাপত্তাজনীত কারণে
 fileNotFound-title = ফাইল পাওয়া যায়নি
 fileAccessDenied-title = ফাইলে অ্যাক্সেস বাতিল করা হয়েছে
 generic-title = ওহহ!
+captivePortal-title = নেটওয়ার্কে লগইন করুন
 netInterrupt-title = সংযোগ বিঘ্নিত হয়েছে
 notCached-title = নথির মেয়াদ উত্তীর্ণ হয়েছে
 netOffline-title = অফলাইন মোড
