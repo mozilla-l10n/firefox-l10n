@@ -70,3 +70,4 @@ netReset-title = Tenging slitnaði
 proxyConnectFailure-title = Milliþjónn neitar tengingum
 proxyResolveFailure-title = Fann ekki milliþjónn
 unknownSocketType-title = Rangt svar frá netþjóni
+remoteXUL-title = Fjarlægt XUL
