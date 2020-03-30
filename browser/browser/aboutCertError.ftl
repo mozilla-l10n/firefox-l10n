@@ -90,5 +90,7 @@ sslv3Used-title = 无法安全地连接
 inadequateSecurityError-title = 您的连接不安全
 blockedByPolicy-title = 页面已封锁
 clockSkewError-title = 您的电脑时间有误
+networkProtocolError-title = 网络协议错误
+nssBadCert-title = 警告：面临潜在的安全风险
 nssBadCert-sts-title = 未连接：有潜在的安全问题
 certerror-mitm-title = 有软件正在阻止 { -brand-short-name } 安全地连接至此网站
