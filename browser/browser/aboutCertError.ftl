@@ -58,6 +58,7 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = No se puede conectar
 contentEncodingError-title = Error de codificación de contenido
 unsafeContentType-title = Tipo de archivo inseguro
 netTimeout-title = Se agotó el tiempo de espera
