@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Cadena de certificats:
 
 connectionFailure-title = No s'ha pogut connectar
 deniedPortAccess-title = L'adreça està restringida
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Tenim problemes per trobar aquest lloc.
 fileNotFound-title = No s'ha trobat el fitxer
 fileAccessDenied-title = S'ha denegat l'accés al fitxer
 generic-title = Ups.
 captivePortal-title = Inicieu la sessió a la xarxa
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Aquesta adreça no sembla correcta.
 netInterrupt-title = S'ha interromput la connexió
 notCached-title = El document ha caducat
 netOffline-title = Mode fora de línia
@@ -78,7 +84,14 @@ redirectLoop-title = La pàgina no està redirigint correctament
 unknownSocketType-title = Resposta inesperada del servidor
 nssFailure2-title = Ha fallat la connexió segura
 cspBlocked-title = Blocat per la política de seguretat del contingut
+xfoBlocked-title = Blocat per la política X-Frame-Options
 corruptedContentError-title = Error de contingut malmès
 remoteXUL-title = XUL remot
 sslv3Used-title = No s'ha pogut connectar de forma segura
 inadequateSecurityError-title = La connexió no és segura
+blockedByPolicy-title = Pàgina blocada
+clockSkewError-title = L'hora del vostre ordinador no és correcta
+networkProtocolError-title = Error del protocol de xarxa
+nssBadCert-title = Avís: Risc potencial de seguretat
+nssBadCert-sts-title = No s'ha connectat: Problema potencial de seguretat
+certerror-mitm-title = Hi ha programari que impedeix que el { -brand-short-name } es connecti de forma segura a aquest lloc
