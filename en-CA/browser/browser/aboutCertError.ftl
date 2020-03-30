@@ -85,3 +85,4 @@ corruptedContentError-title = Corrupted Content Error
 remoteXUL-title = Remote XUL
 sslv3Used-title = Unable to Connect Securely
 inadequateSecurityError-title = Your connection is not secure
+blockedByPolicy-title = Blocked Page
