@@ -5,5 +5,13 @@
 blocklist-window =
     .title = მოდული შესაძლოა სახიფათო აღმოჩნდეს
     .style = width: 54em; height: 36em
+blocklist-accept =
+    .label = გაუშვით ხელახლა { -brand-short-name }
+    .accesskey = ხ
+blocklist-hard-blocked = ეს დამატებები დიდი ალბათობით საფრთხეს შეუქმნის მდგრადობას და უსაფრთხოებას, რის გამოც შეიზღუდება, თუმცა მათ სრულად გამოსართავად აუცილებელია ხელახლა გაშვება.
+blocklist-more-information =
+    .value = ვრცლად
+blocklist-blocked =
+    .label = შეზღუდულია
 blocklist-checkbox =
     .label = ამორთვა
