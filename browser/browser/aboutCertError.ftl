@@ -19,3 +19,9 @@ cert-error-details-hsts-label = Seguridá de tresporte HTTP estricta: { $hasHSTS
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena del certificáu:
+
+## Messages used for certificate error titles
+
+netOffline-title = Mou ensin conexón
+proxyConnectFailure-title = El sirvidor proxy ta refugando les conexones
+proxyResolveFailure-title = Nun pue alcontrase'l sirvidor proxy
