@@ -17,6 +17,7 @@
 <!ENTITY e2eLearnMore.label "Daha fazla bilgi al">
 
 
+<!ENTITY e2eTechPref.description "Tercih edilen şifreleme teknolojisi:">
 
 <!ENTITY digitalSign.certificate.button "Seç…">
 <!ENTITY digitalSign.certificate.accesskey "S">
@@ -54,3 +55,5 @@
 <!ENTITY certPicker.info  "Sertifika:">
 <!ENTITY certPicker.detailsLabel "Seçilen sertifikanın ayrıntıları:">
 
+<!ENTITY openpgpKey.button "Kişisel anahtarı ayarla…">
+<!ENTITY openpgpKey.accesskey "o">

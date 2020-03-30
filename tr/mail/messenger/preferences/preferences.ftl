@@ -55,3 +55,8 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
+
+## OS Authentication dialog
+
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }

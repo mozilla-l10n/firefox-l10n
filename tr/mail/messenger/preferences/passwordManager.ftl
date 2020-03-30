@@ -68,3 +68,8 @@ remove-all-shown =
 remove-all-passwords-prompt = Bütün parolaları silmek istediğinizden emin misiniz?
 remove-all-passwords-title = Bütün parolaları sil
 no-master-password-prompt = Parolalarınızı göstermek istediğinizden emin misiniz?
+
+## OS Authentication dialog
+
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }
