@@ -60,6 +60,9 @@ cert-error-details-cert-chain-label = Cadeia de certificados:
 
 connectionFailure-title = Ligação não estabelecida
 deniedPortAccess-title = Este endereço é restrito
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hum. Estamos a ter problemas em encontrar esse site.
 fileNotFound-title = Ficheiro não encontrado
 fileAccessDenied-title = O acesso ao ficheiro foi negado
 generic-title = Oops.
@@ -81,6 +84,7 @@ redirectLoop-title = A página não está a redirecionar corretamente
 unknownSocketType-title = Resposta inesperada do servidor
 nssFailure2-title = A ligação segura falhou
 cspBlocked-title = Bloqueada pela Content Security Policy
+xfoBlocked-title = Bloqueado pela política X-Frame-Options
 corruptedContentError-title = Conteúdo corrompido
 remoteXUL-title = XUL remoto
 sslv3Used-title = Não é possível ligar com segurança
@@ -89,4 +93,5 @@ blockedByPolicy-title = Página bloqueada
 clockSkewError-title = O relógio do seu computador está errado
 networkProtocolError-title = Erro de protocolo de rede
 nssBadCert-title = Aviso: Potencial risco de segurança à frente
+nssBadCert-sts-title = Não se ligou: potencial problema de segurança
 certerror-mitm-title = Software está a impedir o { -brand-short-name } de se ligar em segurança a este site
