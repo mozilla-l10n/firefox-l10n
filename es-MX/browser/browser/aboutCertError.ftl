@@ -92,5 +92,6 @@ inadequateSecurityError-title = Tu conexión no es segura
 blockedByPolicy-title = Página bloqueada
 clockSkewError-title = El reloj de tu computadora está mal
 networkProtocolError-title = Error de protocolo de red
+nssBadCert-title = Advertencia: Riesgo potencial de seguridad a continuación
 nssBadCert-sts-title = No se conectó: Posible problema de seguridad
 certerror-mitm-title = Software está impidiendo que { -brand-short-name } se conecte de forma segura a este sitio
