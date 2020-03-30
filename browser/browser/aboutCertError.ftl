@@ -26,5 +26,18 @@ cert-error-details-cert-chain-label = സർട്ടിഫിക്കറ്റ
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല
+deniedPortAccess-title = ഈ വിലാസം നിരോധിക്കപ്പെട്ടതാണ്‌
+fileNotFound-title = ഫയല്‍ കാണ്‍മാനില്ല
+generic-title = അയ്യോ!!
+netInterrupt-title = ഈ കണക്ഷന്‍ തടസ്സപ്പെട്ടിരിക്കുന്നു
+notCached-title = രേഖയുടെ കാലാവധി കഴിഞ്ഞിരിയ്ക്കുന്നു
+netOffline-title = ഓഫ്‌ലൈന്‍ മോഡ്‌
+contentEncodingError-title = എന്‍കോഡിങ് പിശക്
 unsafeContentType-title = സുരക്ഷിതമല്ലാത്ത തരത്തിലുള്ള ഫയല്‍
+netReset-title = കണക്ഷന്‍ റീസെറ്റ്‌ ചെയ്യപ്പെട്ടിരിക്കുന്നു
+netTimeout-title = കണക്ഷന്റെ സമയം കഴിഞ്ഞിരിക്കുന്നു
+proxyConnectFailure-title = പ്രോക്സി സെര്‍വര്‍ കണക്ഷനുകള്‍ നിഷേധിക്കുന്നു
+proxyResolveFailure-title = പ്രോക്സി സെര്‍വര്‍ കണ്ടെത്താനായില്ല
+unknownSocketType-title = സെര്‍വറില്‍ നിന്നും പ്രതീക്ഷിക്കാത്ത പ്രതികരണം
 remoteXUL-title = റിമോട്ട് XUL
