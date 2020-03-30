@@ -55,3 +55,12 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Rangkaian sertifikat:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = Berkas tidak ditemukan
+generic-title = Ups.
+contentEncodingError-title = Kesalahan Pengodean Isi (Content Encoding)
+unsafeContentType-title = Jenis Berkas Tidak Aman
+netReset-title = Sambungan diputus
+unknownSocketType-title = Jawaban yang tidak diharapkan dari server
