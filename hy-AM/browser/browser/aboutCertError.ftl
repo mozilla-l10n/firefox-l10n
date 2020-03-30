@@ -60,9 +60,15 @@ cert-error-details-cert-chain-label = Վկայագրի նպատակ.
 
 connectionFailure-title = Չհաջողվեց կապ հաստատել
 deniedPortAccess-title = Այս հասցեն արգելափակված է
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Հնարավոր չէ գտնել այդ կայքը:
 fileAccessDenied-title = Մատչումը ֆայլին մերժված է
 generic-title = Վայ։
 captivePortal-title = Մուտք գործել ցանց
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Կարծես հասցեն ճիշտ չէ:
 netInterrupt-title = Կապը խզվեց
 netOffline-title = Անցանց եղանակ
 contentEncodingError-title = Բովանդակության Կոդավորման Սխալ
