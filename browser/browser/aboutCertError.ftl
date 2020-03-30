@@ -55,3 +55,14 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP gako publikoen ainguratzea: { $hasHPKP }
 cert-error-details-cert-chain-label = Ziurtagiri-katea:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Ezin da konektatu
+deniedPortAccess-title = Helbide hau murriztuta dago
+fileNotFound-title = Fitxategia ez da aurkitu
+generic-title = Iepa.
+netInterrupt-title = Konexioa eten egin da
+unsafeContentType-title = Fitxategi mota EZ-segurua
+netReset-title = Konexioa berrezarri egin da
+unknownSocketType-title = Zerbitzariaren erantzuna ez zen espero
