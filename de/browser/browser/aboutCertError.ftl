@@ -89,6 +89,7 @@ remoteXUL-title = Remote-XUL
 sslv3Used-title = Keine sichere Verbindung möglich
 inadequateSecurityError-title = Diese Verbindung ist nicht sicher
 blockedByPolicy-title = Blockierte Seite
+clockSkewError-title = Datum und/oder Uhrzeit Ihres Computers sind nicht korrekt
 networkProtocolError-title = Netzwerkprotokoll-Fehler
 nssBadCert-title = Warnung: Mögliches Sicherheitsrisiko erkannt
 nssBadCert-sts-title = Kein Verbindungsversuch unternommen: Mögliches Sicherheitsproblem
