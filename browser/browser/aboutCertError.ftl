@@ -62,6 +62,7 @@ deniedPortAccess-title = כתובת זו מוגבלת
 fileNotFound-title = קובץ לא נמצא
 fileAccessDenied-title = הגישה לקובץ נדחתה
 generic-title = שגיאה כללית
+captivePortal-title = כניסה לרשת
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = אבוי. הכתובת הזו לא נראית תקינה.
