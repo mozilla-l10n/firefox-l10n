@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0
 
+blocklist-window =
+    .title = துணை நிரல்கள் சிக்கல்களை ஏற்படுத்தலாம்
+    .style = width: 45em; height: 30em
 blocklist-accept =
     .label = { -brand-short-name }ஐ மறுதுவக்கவும்
     .accesskey = R
