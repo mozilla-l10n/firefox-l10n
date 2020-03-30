@@ -55,3 +55,13 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Vottunarkeðja (certificate chain):
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Get ekki tengst
+fileNotFound-title = Skrá fannst ekki
+generic-title = Ææ.
+netInterrupt-title = Tenging slitnaði
+netOffline-title = Ónettengdur hamur
+contentEncodingError-title = Kóðunarvilla
+unsafeContentType-title = Óörugg skráartegund
