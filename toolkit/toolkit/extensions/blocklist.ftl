@@ -14,3 +14,7 @@ blocklist-hard-blocked = Estes complementos teñen un alto risco de causar probl
 blocklist-soft-blocked = Por seguranza, recoméndaselle reiniciar con estes complementos desactivados.
 blocklist-more-information =
     .value = Máis información
+blocklist-blocked =
+    .label = Bloqueado
+blocklist-checkbox =
+    .label = Desactivar
