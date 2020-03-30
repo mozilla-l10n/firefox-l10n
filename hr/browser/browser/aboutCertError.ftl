@@ -70,3 +70,4 @@ netReset-title = Veza je prekinuta
 netTimeout-title = Vezi je isteklo vrijeme
 proxyConnectFailure-title = Proxy poslužitelj odbio vezu
 proxyResolveFailure-title = Proxy poslužitelj nije pronađen
+remoteXUL-title = Udaljeni XUL
