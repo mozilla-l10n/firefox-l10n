@@ -16,3 +16,5 @@ blocklist-more-information =
     .value = Ulteriuras infurmaziuns
 blocklist-blocked =
     .label = Bloccà
+blocklist-checkbox =
+    .label = Deactivar
