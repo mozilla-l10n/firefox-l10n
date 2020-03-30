@@ -54,3 +54,11 @@ cert-error-details-hsts-label = אבטחת תעבורה מחמירה של HTTP �
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = הצמדת מפתח ציבורי של HTTP:‏ { $hasHPKP }
 cert-error-details-cert-chain-label = שרשרת אישורים:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = קובץ לא נמצא
+netOffline-title = מצב לא־מקוון
+netReset-title = החיבור הופסק
+proxyConnectFailure-title = השרת המתווך דחה את ההתחברות
+unknownSocketType-title = תגובה לא צפויה מהשרת
