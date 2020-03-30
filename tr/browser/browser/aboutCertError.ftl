@@ -58,16 +58,23 @@ cert-error-details-cert-chain-label = Sertifika zinciri:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Bağlanılamadı
 deniedPortAccess-title = Bu adrese erişim kısıtlanmış
 fileNotFound-title = Dosya bulunamadı
+fileAccessDenied-title = Dosyaya erişim reddedildi
 generic-title = Hoppalaaa.
 netInterrupt-title = Bağlantı kesildi
 notCached-title = Belge zaman aşımına uğradı
+netOffline-title = Çevrimdışı kip
 contentEncodingError-title = İçerik kodlama hatası
 unsafeContentType-title = Güvensiz dosya türü
 netReset-title = Bağlantı sıfırlandı
 netTimeout-title = Bağlantı zaman aşımına uğradı
+unknownProtocolFound-title = Adres anlaşılamadı
 proxyConnectFailure-title = Vekil sunucu bağlantı kabul etmiyor
 proxyResolveFailure-title = Vekil sunucu bulunamadı
+redirectLoop-title = Sayfa doğru bir şekilde yönlendirilmiyor
 unknownSocketType-title = Sunucudan beklenmeyen yanıt
 remoteXUL-title = Uzak XUL
+sslv3Used-title = Güvenli bağlantı kurulamadı
+inadequateSecurityError-title = Bağlantınız güvenli değil
