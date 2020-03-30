@@ -58,4 +58,5 @@ sslv3Used-title = सुरक्षितपणे जोडणी करण्
 inadequateSecurityError-title = आपली जोडणी सुरक्षीत नाही
 blockedByPolicy-title = अवरोधित पृष्ठ
 clockSkewError-title = आपले संगणक घड्याळ चुकीचे आहे
+networkProtocolError-title = नेटवर्क नियमात त्रुटी
 nssBadCert-title = चेतावणी: पुढे संभाव्य सुरक्षा धोका आहे
