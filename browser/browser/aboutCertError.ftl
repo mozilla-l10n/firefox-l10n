@@ -55,3 +55,15 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikatkjede:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = Fil ikke funnet
+generic-title = Oops.
+netInterrupt-title = Tilkoblingen ble avbrutt
+netOffline-title = Frakoblet modus
+contentEncodingError-title = Feil med tegnkoding
+unsafeContentType-title = Utrygg filtype
+netReset-title = Tilkoblingen ble avbrutt
+netTimeout-title = Tilkoblingen fikk tidsavbrudd
+redirectLoop-title = Nettsiden videresender ikke ordentlig
