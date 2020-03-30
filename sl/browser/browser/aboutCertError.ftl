@@ -75,6 +75,7 @@ proxyResolveFailure-title = Posrednika ni mogoče najti
 unknownSocketType-title = Nepričakovan odgovor strežnika
 nssFailure2-title = Varna povezava ni uspela
 cspBlocked-title = Zavrnjeno zaradi varnostne politike vsebine
+corruptedContentError-title = Napaka zaradi pokvarjene vsebine
 remoteXUL-title = Oddaljeni XUL
 sslv3Used-title = Varna povezava ni mogoča
 inadequateSecurityError-title = Vaša povezava ni varna
