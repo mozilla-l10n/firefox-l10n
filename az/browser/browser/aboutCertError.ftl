@@ -50,6 +50,7 @@ cert-error-details-cert-chain-label = Sertifikat zənciri:
 
 connectionFailure-title = Əlaqə cəhdi uğursuz oldu
 deniedPortAccess-title = Təhlükəsizlik üçün bağlantı nöqtəsi bağlıdır
+generic-title = Uups.
 netInterrupt-title = Məlumat ötürmə xətası
 notCached-title = Sənədin vaxtı çıxıb
 netOffline-title = Offline bağlantı səhvi
