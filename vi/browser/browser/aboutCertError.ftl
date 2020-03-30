@@ -84,3 +84,4 @@ corruptedContentError-title = Lỗi nội dung không toàn vẹn
 remoteXUL-title = Remote XUL
 sslv3Used-title = Không thể kết nối một cách an toàn
 inadequateSecurityError-title = Kết nối của bạn không an toàn
+blockedByPolicy-title = Trang bị chặn
