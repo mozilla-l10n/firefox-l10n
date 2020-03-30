@@ -19,3 +19,22 @@ cert-error-details-hsts-label = Slándáil Dhian Aistrithe HTTP: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Pionnáil Eochrach Poiblí HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Slabhra teastais:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Ní féidir ceangal
+deniedPortAccess-title = Tá an seoladh seo srianta
+fileNotFound-title = Comhad gan aimsiú
+generic-title = Úps.
+netInterrupt-title = Idirbhriseadh an ceangal
+notCached-title = Cáipéis As Feidhm
+netOffline-title = Mód as líne
+contentEncodingError-title = Earráid Ionchódaithe Inneachair
+unsafeContentType-title = Cineál Comhaid Baolach
+netReset-title = Athshocraíodh an ceangal
+netTimeout-title = Ceangal imithe thar am
+proxyConnectFailure-title = Tá an seachfhreastalaí ag diúltú le ceangail
+proxyResolveFailure-title = Ní féidir an seachfhreastalaí a aimsiú
+cspBlocked-title = Bactha ag an Polasaí Slándala Inneachair
+remoteXUL-title = XUL Cianda
+sslv3Used-title = Ní féidir ceangal slán a bhunú
