@@ -70,6 +70,7 @@ generic-title = Nepodařilo se dokončit požadavek
 netInterrupt-title = Spojení bylo přerušeno
 notCached-title = Platnost dokumentu vypršela
 netOffline-title = Režim offline
+contentEncodingError-title = Chyba znakové sady obsahu
 unsafeContentType-title = Nebezpečný typ souboru
 netReset-title = Spojení přerušeno
 netTimeout-title = Vypršel čas spojení
