@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Otwórz menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importuj hasła…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuj z innej przeglądarki…
 menu-menuitem-preferences =
@@ -51,6 +49,7 @@ login-list-sort-label-text = Sortuj wg:
 login-list-name-option = Nazwa (A-Z)
 login-list-name-reverse-option = Nazwa (Z-A)
 login-list-breached-option = Witryny z wyciekami haseł
+about-logins-login-list-alerts-option = Powiadomienia
 login-list-last-changed-option = Ostatnia modyfikacja
 login-list-last-used-option = Ostatnie użycie
 login-list-intro-title = Brak danych logowania
@@ -62,6 +61,8 @@ login-list-item-subtitle-new-login = Wprowadź dane logowania
 login-list-item-subtitle-missing-username = (bez nazwy użytkownika)
 about-logins-list-item-breach-icon =
     .title = Witryna z wyciekiem haseł
+about-logins-list-item-vulnerable-password-icon =
+    .title = Potencjalnie niebezpieczne hasło
 
 ## Introduction screen
 
@@ -161,10 +162,25 @@ confirm-discard-changes-dialog-confirm-button = Odrzuć
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Wyciek haseł z witryny
 breach-alert-text = Od czasu ostatniej zmiany danych logowania hasła z tej witryny wyciekły lub zostały wykradzione. Zmień hasło, aby ochronić swoje konto.
 breach-alert-link = Więcej informacji o tym wycieku.
 breach-alert-dismiss =
     .title = Zamknij to powiadomienie
+about-logins-breach-alert-date = Wyciek z { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Otwórz witrynę { $hostname }
+about-logins-breach-alert-learn-more-link = Więcej informacji
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Potencjalnie niebezpieczne hasło
+about-logins-vulnerable-alert-text = To hasło wyciekło lub zostało wykradzione z innej firmy. Używanie tych samych danych logowania na różnych witrynach naraża wszystkie konta użytkownika na ryzyko. Aby zwiększyć swoje bezpieczeństwo w Internecie, zmień to hasło.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Otwórz witrynę { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Więcej informacji
 
 ## Error Messages
 
