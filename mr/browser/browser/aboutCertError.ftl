@@ -23,3 +23,14 @@ cert-error-details-hsts-label = HTTP स्ट्रीक्ट वाहतू
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = प्रमाणपत्र चैन:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = जोडणी होऊ शकत नाही
+deniedPortAccess-title = हा पत्ता प्रतिबंधित आहे
+fileNotFound-title = फाइल सापडली नाही
+generic-title = ओह.
+netInterrupt-title = जोडणी मध्ये अडथळा
+netOffline-title = ऑफलाइन पध्दती
+netReset-title = जोडणी पुनःप्रस्थापित करण्यात आली
+netTimeout-title = संपर्क साधण्याची वेळ संपली
