@@ -84,6 +84,7 @@ redirectLoop-title = 此页面不能正确地重定向
 unknownSocketType-title = 意外的服务器响应
 nssFailure2-title = 建立安全连接失败
 cspBlocked-title = 已依内容安全策略拦截
+xfoBlocked-title = 因 X-Frame-Options 政策阻止
 corruptedContentError-title = 内容损坏错误
 remoteXUL-title = 远程 XUL
 sslv3Used-title = 无法安全地连接
