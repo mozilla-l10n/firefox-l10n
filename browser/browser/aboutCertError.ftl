@@ -60,8 +60,16 @@ cert-error-details-cert-chain-label = Zertifikatskette:
 
 connectionFailure-title = Fehler: Verbindung fehlgeschlagen
 deniedPortAccess-title = Fehler: Port aus Sicherheitsgründen blockiert
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Seite wurde nicht gefunden
 fileNotFound-title = Fehler: Datei nicht gefunden
+fileAccessDenied-title = Zugriff auf die Datei wurde verweigert
 generic-title = Fehler: Anfrage konnte nicht ausgeführt werden
+captivePortal-title = Anmeldung beim Netzwerk
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Diese Adresse scheint nicht korrekt zu sein.
 netInterrupt-title = Fehler: Datenübertragung unterbrochen
 notCached-title = Dokument erloschen
 netOffline-title = Fehler: Offline-Modus
@@ -69,9 +77,18 @@ contentEncodingError-title = Content-Encoding-Fehler
 unsafeContentType-title = Unsicherer Dateityp
 netReset-title = Fehler: Verbindung unterbrochen
 netTimeout-title = Fehler: Netzwerk-Zeitüberschreitung
+unknownProtocolFound-title = Adresse nicht erkannt
 proxyConnectFailure-title = Fehler: Proxy-Server verweigert die Verbindung
 proxyResolveFailure-title = Fehler: Proxy-Server nicht gefunden
 redirectLoop-title = Fehler: Umleitungsfehler
 unknownSocketType-title = Fehler: Unerwartete Antwort
 nssFailure2-title = Fehler: Gesicherte Verbindung fehlgeschlagen
+cspBlocked-title = Blockiert von der Inhaltsicherheitsrichtlinie (CSP)
+corruptedContentError-title = Fehler: Beschädigte Inhalte
 remoteXUL-title = Remote-XUL
+sslv3Used-title = Keine sichere Verbindung möglich
+inadequateSecurityError-title = Diese Verbindung ist nicht sicher
+blockedByPolicy-title = Blockierte Seite
+nssBadCert-title = Warnung: Mögliches Sicherheitsrisiko erkannt
+nssBadCert-sts-title = Kein Verbindungsversuch unternommen: Mögliches Sicherheitsproblem
+certerror-mitm-title = Software hindert { -brand-short-name } am Aufbauen einer sicheren Verbindung mit dieser Website
