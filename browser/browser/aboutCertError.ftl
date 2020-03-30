@@ -68,6 +68,7 @@ contentEncodingError-title = Error de codificación de contenido
 unsafeContentType-title = Tipo de archivo inseguro
 netReset-title = La conexión se reinició
 netTimeout-title = Se agotó el tiempo de espera
+unknownProtocolFound-title = No se comprende la dirección
 proxyConnectFailure-title = El servidor proxy está rechazando las conexiones
 proxyResolveFailure-title = No se puede encontrar el servidor proxy
 redirectLoop-title = La página no se está redireccionando apropiadamente
